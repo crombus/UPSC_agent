@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Social Justice learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-15",
+      "display_title": "Labour Social Security, Unorganised and Gig Workers",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\15_Labour-Social-Security-Unorganised-and-Gig-Workers_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Status ladder",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "RUNG 1 -> enacted: the Code on Social Security, 2020 is passed",
+            "RUNG 2 -> commenced: brought into force on 21 November 2025",
+            "RUNG 3 -> rules and scheme: final Central Rules notified in May 2026; State rules pending relevance",
+            "RUNG 4 -> collected: a notified rate and an administered contribution ledger",
+            "RUNG 5 -> delivered: registration, claims rules, grievance redress and a benefit received"
+          ],
+          "source_references": [
+            "The Code on Social Security and its exact legal status",
+            "The status ladder that governs every claim here"
+          ]
+        },
+        {
+          "title": "Three statutory categories",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GIG WORKER -> earns from work outside a traditional employer-employee relationship",
+            "PLATFORM WORKER -> works outside that relationship through an online platform for payment",
+            "AGGREGATOR -> digital intermediary or marketplace connecting user and provider",
+            "ROLE -> the first two are worker categories; the third is the financing node",
+            "LIMIT -> a definition creates eligibility to be covered, not a benefit"
+          ],
+          "source_references": [
+            "What the Code means by a gig worker",
+            "What the Code means by a platform worker",
+            "What the Code means by an aggregator"
+          ]
+        },
+        {
+          "title": "Contribution framework card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PROVISION -> Section 114 of the Code on Social Security, 2020",
+            "RATE FLOOR -> at least one per cent of an aggregator's annual turnover",
+            "RATE CEILING -> not more than two per cent of that annual turnover",
+            "PAYOUT CAP -> five per cent of amounts paid or payable to gig and platform workers",
+            "STATUS -> a framework for a notified rate; not proof of a collected levy"
+          ],
+          "source_references": [
+            "The contribution framework in Section 114 and its exact numbers",
+            "Why a statutory range is not a collected contribution"
+          ]
+        },
+        {
+          "title": "Registration to benefit",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DATABASE ENTRY -> identity recorded with a universal account number since 2021",
+            "-> SCHEME MATCHING: age, income, occupation, contribution and documentation rules apply",
+            "-> PAYMENT FRICTION: bank access, documents, awareness and data quality can interrupt",
+            "-> OUTCOME RISK: a high registration total can coexist with low pension or insurance uptake",
+            "RULE -> registration is necessary and is not sufficient"
+          ],
+          "source_references": [
+            "The national unorganised-worker database and what it is",
+            "Why registration is necessary but not sufficient"
+          ]
+        },
+        {
+          "title": "Delivery institutions",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "PENSION ROUTE -> voluntary, contributory, matching contributions, separate enrolment required",
+            "PENSION VALUE -> three thousand rupees per month after age sixty, subject to conditions",
+            "CONSTRUCTION BOARDS -> State boards under the 1996 framework, funded by the welfare cess",
+            "FORMAL SECTOR -> provident fund and employee insurance where the applicable statutes cover",
+            "RULE -> identify the owning institution before judging whether a worker is protected"
+          ],
+          "source_references": [
+            "The voluntary contributory pension route for unorganised workers",
+            "Occupation-specific welfare through the construction boards",
+            "The formal-sector institutions that continue to deliver"
+          ]
+        },
+        {
+          "title": "Scale anchor card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> a 2022 report of the national policy think tank",
+            "ESTIMATE -> 7.7 million gig workers in 2020-21",
+            "PROJECTION -> 23.5 million by 2029-30",
+            "STATUS -> a scenario, not a worker registry or a beneficiary count",
+            "BACKGROUND STATUTE -> the Unorganised Workers' Social Security Act, 2008"
+          ],
+          "source_references": [
+            "The scale anchor and the boundary on using it"
+          ]
+        },
+        {
+          "title": "Platform-power chain",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ALGORITHMIC CONTROL -> ratings, incentives, task allocation and deactivation",
+            "INCOME VOLATILITY -> variable demand and unilateral incentive changes",
+            "CONTRIBUTION DIFFICULTY -> irregular earnings obstruct regular contributions",
+            "CLASSIFICATION BOUNDARY -> recognition does not settle every labour-standard dispute",
+            "VOICE GAP -> an application grievance channel is not bargaining or adjudication"
+          ],
+          "source_references": [
+            "Algorithmic management as a distinct policy problem"
+          ]
+        },
+        {
+          "title": "Portability test",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PORTABLE CARD -> a universal account number that follows the worker",
+            "PORTABLE BENEFIT -> contribution records that follow the worker as well",
+            "ALSO REQUIRED -> eligibility rules, claim settlement and grievance across States and platforms",
+            "CONTRAST -> a board-registered construction worker holds a benefit; a database-only worker may not",
+            "RISK -> cross-platform data creates surveillance exposure needing purpose limitation and consent"
+          ],
+          "source_references": [
+            "Portability against interoperability",
+            "Why registration is necessary but not sufficient"
+          ]
+        },
+        {
+          "title": "Financing mix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "TAX-FINANCED FLOOR -> reduces exclusion of low and irregular earners; higher fiscal cost",
+            "CONTRIBUTORY TOP-UP -> deepens cover; excludes workers with volatile earnings",
+            "AGGREGATOR LEVY -> places the obligation on the party with turnover and data",
+            "INCIDENCE -> the levy may be passed to workers or users; transparency and analysis needed",
+            "CONCLUSION -> a credible gig model usually needs both floor and top-up"
+          ],
+          "source_references": [
+            "A universal floor against a contributory top-up",
+            "The contribution framework in Section 114 and its exact numbers"
+          ]
+        },
+        {
+          "title": "Prohibited inventions",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "NO THRESHOLD -> no ninety-day or one-hundred-and-twenty-day national eligibility rule",
+            "NO LEVY CLAIM -> no assertion of a collected nationwide contribution or fund balance",
+            "NO STATUS UPGRADE -> a definition does not settle wages, hours, dismissal or bargaining",
+            "NO INSURANCE SHORTCUT -> hospitalisation cover does not correct pay or deactivation",
+            "NO KEY -> no option or answer letter for the routed objective demand"
+          ],
+          "source_references": [
+            "The thresholds and the safeguards that must not be invented",
+            "The 2024 objective demand and how it is covered"
+          ]
+        },
+        {
+          "title": "Routed objective demand",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "YEAR AND PAPER -> 2024 Prelims General Studies Paper I, question numbered 100",
+            "DEMAND -> the unorganised-worker pension route, rendered neutrally in the audited ledger",
+            "KEY STATUS -> official Set-A key available locally; the answer is not recorded there",
+            "PACKAGE RULE -> no option, key or inferred answer letter is stated anywhere here",
+            "COVERAGE -> voluntary enrolment, matching contributions, pension after sixty, taught as content"
+          ],
+          "source_references": [
+            "The 2024 objective demand and how it is covered"
+          ]
+        },
+        {
+          "title": "Reform architecture and its costs",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PUBLISH STATUS -> provision-specific commencement and scheme status made readable",
+            "-> AUDITABLE FUND: receipts and claims open to inspection",
+            "-> ASSISTED ENROLMENT: offline routes so digital exclusion is not benefit exclusion",
+            "-> INDEPENDENT GRIEVANCE: a forum for deactivation and benefit disputes",
+            "COSTS -> levy incidence, threshold exclusion, privacy exposure, insurance-led narrowness"
+          ],
+          "source_references": [
+            "The reform design the owners recommend and its costs",
+            "A universal floor against a contributory top-up"
+          ]
+        }
+      ]
+    }
+  ]
+}

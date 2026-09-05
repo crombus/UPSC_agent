@@ -1,0 +1,500 @@
+{
+  "schema_version": 2,
+  "benchmark": "Carvaka-standard continuous master with a topic-specific Ethics twelve-panel atlas",
+  "generated_on": "2026-08-29",
+  "scope": "Ethics subject-wide syllabus topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-05",
+      "title": "Emotional Intelligence in Administration",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-05_Learning-Session.md",
+      "source_record": "ethics-05:learner-v2:g1",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior artifacts and canonical Ethics owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "1. Three EI models: ability, mixed and trait",
+          "structural_type": "comparison-matrix",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "1. Three EI models: ability, mixed and trait",
+            "  [1] Ability model (Mayer-Salovey 1997): EI as cognitive ability tested by performance.",
+            "        |",
+            "        v",
+            "  [2] Mixed model (Goleman 1995/1998): EI as five workplace competencies blending ability and",
+            "      personality.",
+            "        |",
+            "        v",
+            "  [3] Trait model (Bar-On EQ-i 1997): EI as self-perceived competencies measured by self-report.",
+            "        |",
+            "        v",
+            "  [4] Later performance tests such as MSCEIT operationalise the ability-model approach.",
+            "        |",
+            "        v",
+            "  [5] The three models differ in theory, method and predictive validity.",
+            "        |",
+            "        v",
+            "  [6] UPSC GS-IV primarily tests Goleman's five components in applied scenarios.",
+            "        |",
+            "        v",
+            "  [7] Advanced answers distinguish models to show conceptual precision.",
+            "        |",
+            "        v",
+            "  [8] Confusing models or claiming they measure the same construct is a common exam trap.",
+            "        |",
+            "        v",
+            "VERDICT -> Name the specific model you are using before applying it to a scenario.",
+            "ANSWER USE -> Open any EI definition or comparison answer by distinguishing the three models."
+          ]
+        },
+        {
+          "panel_title": "2. Four-branch ability model: ascending hierarchy",
+          "structural_type": "ascending-ladder",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "2. Four-branch ability model: ascending hierarchy",
+            "  [1] Branch 1: Perceiving emotion — recognising emotional cues in self and others.",
+            "        |",
+            "        v",
+            "  [2] Branch 2: Using emotion — channelling emotion to facilitate thought and creativity.",
+            "        |",
+            "        v",
+            "  [3] Branch 3: Understanding emotion — grasping emotional complexity and transitions.",
+            "        |",
+            "        v",
+            "  [4] Branch 4: Managing emotion — regulating emotion in self and others toward goals.",
+            "        |",
+            "        v",
+            "  [5] The four branches form an ascending hierarchy of cognitive complexity.",
+            "        |",
+            "        v",
+            "  [6] Perceiving is the foundational skill; managing is the most advanced.",
+            "        |",
+            "        v",
+            "  [7] The DC Vijay case tests all four branches in a single scenario.",
+            "        |",
+            "        v",
+            "  [8] Ability-model decomposition earns advanced marks in case-study answers.",
+            "        |",
+            "        v",
+            "VERDICT -> Use the four-branch decomposition to structure any advanced EI case-study analysis.",
+            "ANSWER USE -> Apply to disaster-leadership and crisis-of-conscience case studies."
+          ]
+        },
+        {
+          "panel_title": "3. Goleman's five components mapped to administration",
+          "structural_type": "horizontal-mapping",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "3. Goleman's five components mapped to administration",
+            "  [1] Self-awareness: recognising own bias, stress or fatigue before deciding.",
+            "        |",
+            "        v",
+            "  [2] Self-regulation: composure under provocation, crisis or media scrutiny.",
+            "        |",
+            "        v",
+            "  [3] Motivation: sustained public-service drive beyond external incentive.",
+            "        |",
+            "        v",
+            "  [4] Empathy: reading citizens' or colleagues' unstated needs.",
+            "        |",
+            "        v",
+            "  [5] Social skill: managing teams, stakeholders and conflict resolution.",
+            "        |",
+            "        v",
+            "  [6] Each component maps to a specific administrative behaviour.",
+            "        |",
+            "        v",
+            "  [7] GS-IV questions test components in combination, not isolation.",
+            "        |",
+            "        v",
+            "  [8] The five components are the default framework for most EI answers.",
+            "        |",
+            "        v",
+            "VERDICT -> Name the specific component engaged at each decision point in your answer.",
+            "ANSWER USE -> Structure any Goleman-based EI answer by naming components before describing",
+            "             behaviour."
+          ]
+        },
+        {
+          "panel_title": "4. EI's dark side: ethical neutrality and manipulation risk",
+          "structural_type": "decision-fork",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "4. EI's dark side: ethical neutrality and manipulation risk",
+            "  [1] EI is a capacity, not a moral compass — it is ethically neutral.",
+            "        |",
+            "        v",
+            "  [2] High social skill plus integrity produces effective citizen service.",
+            "        |",
+            "        v",
+            "  [3] High social skill minus integrity produces sophisticated manipulation.",
+            "        |",
+            "        v",
+            "  [4] Example: empathic reading used to extract a bribe by exploiting urgency.",
+            "        |",
+            "        v",
+            "  [5] EI training without ethics framework can enable more effective misconduct.",
+            "        |",
+            "        v",
+            "  [6] Integrity, probity and audit must be independently assessed.",
+            "        |",
+            "        v",
+            "  [7] The dark side is not hypothetical — it is a genuine administrative risk.",
+            "        |",
+            "        v",
+            "  [8] Joint necessity: EI and ethics are both required; neither alone suffices.",
+            "        |",
+            "        v",
+            "VERDICT -> Always flag EI's ethical boundary when discussing its benefits.",
+            "ANSWER USE -> Include the dark-side qualification in any answer that claims EI improves",
+            "             governance."
+          ]
+        },
+        {
+          "panel_title": "5. IQ versus EQ: joint necessity, not substitution",
+          "structural_type": "two-column-contrast",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "5. IQ versus EQ: joint necessity, not substitution",
+            "  [1] IQ predicts task-competence and technical problem-solving ability.",
+            "        |",
+            "        v",
+            "  [2] EQ predicts how well competence is deployed under interpersonal pressure.",
+            "        |",
+            "        v",
+            "  [3] Two officers with identical IQ can produce divergent crisis outcomes.",
+            "        |",
+            "        v",
+            "  [4] The divergence is explained by EQ: regulation, empathy and social skill.",
+            "        |",
+            "        v",
+            "  [5] EQ matters disproportionately at the point of execution under stress.",
+            "        |",
+            "        v",
+            "  [6] EQ cannot substitute for technical or legal competence.",
+            "        |",
+            "        v",
+            "  [7] An empathetic but legally uninformed officer can still err.",
+            "        |",
+            "        v",
+            "  [8] The defensible position: IQ and EQ are jointly necessary.",
+            "        |",
+            "        v",
+            "VERDICT -> EQ amplifies competence under stress; it does not replace technical knowledge.",
+            "ANSWER USE -> Use to resolve any IQ-vs-EQ or cognitive-vs-emotional ability question."
+          ]
+        },
+        {
+          "panel_title": "6. DC Vijay case study: structured EI decomposition",
+          "structural_type": "decision-tree",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "6. DC Vijay case study: structured EI decomposition",
+            "  [1] Scenario: DC leads disaster relief; mother dies; family demands presence.",
+            "        |",
+            "        v",
+            "  [2] Perceiving: acknowledge grief without denial — a legitimate emotional reality.",
+            "        |",
+            "        v",
+            "  [3] Using: channel urgency of grief productively into sustained relief effort.",
+            "        |",
+            "        v",
+            "  [4] Understanding: grasp competing claims of family, victims and subordinates.",
+            "        |",
+            "        v",
+            "  [5] Managing: structured decision — designate deputy, communicate, document.",
+            "        |",
+            "        v",
+            "  [6] The correct answer is structured transparent balancing, not single heroism.",
+            "        |",
+            "        v",
+            "  [7] Institutional complement: pre-designated succession and family-emergency SOP.",
+            "        |",
+            "        v",
+            "  [8] The case tests EI through institutional process, not raw willpower alone.",
+            "        |",
+            "        v",
+            "VERDICT -> Decompose the dilemma using named EI branches; propose a structured, documented",
+            "             resolution.",
+            "ANSWER USE -> Apply to any disaster-leadership or duty-versus-family case study."
+          ]
+        },
+        {
+          "panel_title": "7. Emotional labour: cost, recognition and institutional response",
+          "structural_type": "cause-effect-chain",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "7. Emotional labour: cost, recognition and institutional response",
+            "  [1] Emotional labour (Hochschild 1983): managed display of role-appropriate emotion.",
+            "        |",
+            "        v",
+            "  [2] Citizen-facing roles require sustained courtesy despite provocation.",
+            "        |",
+            "        v",
+            "  [3] Emotional labour is invisible in traditional workload assessments.",
+            "        |",
+            "        v",
+            "  [4] Sustained emotional labour carries burnout risk regardless of natural empathy.",
+            "        |",
+            "        v",
+            "  [5] Institutional responses: rotation, debrief, staff grievance channels, team distribution.",
+            "        |",
+            "        v",
+            "  [6] Staff-welfare support sustains capacity; it does not reduce service obligations.",
+            "        |",
+            "        v",
+            "  [7] Overemphasis on staff welfare must not become excuse for poor service.",
+            "        |",
+            "        v",
+            "  [8] Emotional labour is a hidden cost of citizen-centric governance.",
+            "        |",
+            "        v",
+            "VERDICT -> Acknowledge emotional labour as real cost and prescribe institutional support",
+            "             alongside duty.",
+            "ANSWER USE -> Use in any question about frontline service quality, officer welfare or burnout."
+          ]
+        },
+        {
+          "panel_title": "8. Moral intuition versus moral reasoning: EI as bridge",
+          "structural_type": "process-flow",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "8. Moral intuition versus moral reasoning: EI as bridge",
+            "  [1] Moral intuition: fast, affect-driven sense that something feels wrong.",
+            "        |",
+            "        v",
+            "  [2] Draws on EI's empathy (sensing others' distress) and self-awareness.",
+            "        |",
+            "        v",
+            "  [3] Moral reasoning: slow, deliberate application of ethical theory or rule.",
+            "        |",
+            "        v",
+            "  [4] Self-awareness detects when intuitive reaction may be bias, not signal.",
+            "        |",
+            "        v",
+            "  [5] The regulatory bridge: intuition triggers reasoning; reasoning tests intuition.",
+            "        |",
+            "        v",
+            "  [6] Neither alone is sufficient: intuition without reasoning can be prejudice.",
+            "        |",
+            "        v",
+            "  [7] Reasoning without intuition can miss human impact of technically correct decisions.",
+            "        |",
+            "        v",
+            "  [8] EI mediates between the two by providing the self-awareness check.",
+            "        |",
+            "        v",
+            "VERDICT -> Intuition is the trigger; reasoning is the test; self-awareness is the bridge.",
+            "ANSWER USE -> Use to answer any moral intuition vs moral reasoning or EQ-linked",
+            "             ethical-judgment question."
+          ]
+        },
+        {
+          "panel_title": "9. Empathy and wisdom: preventing travesty of justice",
+          "structural_type": "causal-flow",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "9. Empathy and wisdom: preventing travesty of justice",
+            "  [1] Wisdom (phronesis): practical judgment applying rules with contextual sensitivity.",
+            "        |",
+            "        v",
+            "  [2] Travesty of justice: literal compliance defeating the rule's purpose.",
+            "        |",
+            "        v",
+            "  [3] Empathy triggers wisdom by alerting the officer to human cost of mechanical application.",
+            "        |",
+            "        v",
+            "  [4] Example: denying welfare on a minor technicality despite clear substantive eligibility.",
+            "        |",
+            "        v",
+            "  [5] Without empathy, wisdom has no trigger to activate.",
+            "        |",
+            "        v",
+            "  [6] Empathy without rule-awareness risks arbitrary favouritism.",
+            "        |",
+            "        v",
+            "  [7] The safeguard is transparent reasoning and appeal mechanisms.",
+            "        |",
+            "        v",
+            "  [8] Wisdom requires both legal competence and empathetic perception.",
+            "        |",
+            "        v",
+            "VERDICT -> Empathy activates wisdom; rule-based transparency prevents it from degenerating",
+            "             into favouritism.",
+            "ANSWER USE -> Use to answer any wisdom-in-administration or travesty-of-justice question."
+          ]
+        },
+        {
+          "panel_title": "10. Crisis of conscience: EI navigation mechanism",
+          "structural_type": "resolution-pathway",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "10. Crisis of conscience: EI navigation mechanism",
+            "  [1] Crisis of conscience: personal values, duty and pressure conflict irreconcilably.",
+            "        |",
+            "        v",
+            "  [2] Self-awareness names the conflict precisely rather than diffuse anguish.",
+            "        |",
+            "        v",
+            "  [3] Self-regulation prevents impulsive action or paralysis under emotional turmoil.",
+            "        |",
+            "        v",
+            "  [4] Social skill enables transparent communication of the chosen course.",
+            "        |",
+            "        v",
+            "  [5] The officer converts private moral burden into documented accountable decision.",
+            "        |",
+            "        v",
+            "  [6] EI provides psychological infrastructure but not the ethical standard.",
+            "        |",
+            "        v",
+            "  [7] Moral framework (deontological, consequentialist, virtue-based) supplies direction.",
+            "        |",
+            "        v",
+            "  [8] EI without ethical grounding can produce composed capitulation, not principled resolution.",
+            "        |",
+            "        v",
+            "VERDICT -> EI navigates the crisis of conscience; the ethical stand must come from moral",
+            "             reasoning.",
+            "ANSWER USE -> Use to structure any crisis-of-conscience or ethical-dilemma answer."
+          ]
+        },
+        {
+          "panel_title": "11. Mission Karmayogi and institutional EI architecture",
+          "structural_type": "institutional-flow",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "11. Mission Karmayogi and institutional EI architecture",
+            "  [1] Mission Karmayogi provides the institutional setting for role-based learning.",
+            "        |",
+            "        v",
+            "  [2] KCM aligns roles with competencies and embeds competencies in training (CBC).",
+            "        |",
+            "        v",
+            "  [3] AI Sarthi and AI Tutor showcased at IndiaAI Impact Summit (16-20 Feb 2026).",
+            "        |",
+            "        v",
+            "  [4] iGOT-Karmayogi delivers role-based personalised multilingual learning.",
+            "        |",
+            "        v",
+            "  [5] A named EI module is not verified by the cited official CBC pages.",
+            "        |",
+            "        v",
+            "  [6] Learning architecture demonstrates institutional design, not ethical internalisation.",
+            "        |",
+            "        v",
+            "  [7] Do not claim a general APAR linkage without a service-specific DoPT order.",
+            "        |",
+            "        v",
+            "  [8] Training must be supplemented by delegation protocols, rotation and citizen feedback.",
+            "        |",
+            "        v",
+            "VERDICT -> Use Mission Karmayogi as a competency-architecture example, not proof of EI",
+            "             training or conduct.",
+            "ANSWER USE -> Clearly label any EI linkage as an analytical application unless a named module",
+            "             is verified."
+          ]
+        },
+        {
+          "panel_title": "12. PYQ demand map and answer synthesis",
+          "structural_type": "exam-synthesis-rail",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "12. PYQ demand map and answer synthesis",
+            "  [1] 2013 Q4: define EI, development, role in ethical decisions — use definition plus mechanism.",
+            "        |",
+            "        v",
+            "  [2] 2019 Q5(b): EI as making emotions work for you — use five-component administrative mapping.",
+            "        |",
+            "        v",
+            "  [3] 2020 Q2(b): components and learnability — use ability/competency distinction.",
+            "        |",
+            "        v",
+            "  [4] 2021 Q4(b): EI and crisis of conscience — use self-awareness plus ethical framework.",
+            "        |",
+            "        v",
+            "  [5] 2022 Q1: wisdom/travesty plus empathy/compassion — use phronesis plus empathy-as-trigger.",
+            "        |",
+            "        v",
+            "  [6] 2023 Q4: EQ vs IQ plus moral intuition vs reasoning — use joint-necessity plus bridge model.",
+            "        |",
+            "        v",
+            "  [7] 2025 Q7: DC Vijay case study — use four-branch decomposition plus institutional protocol.",
+            "        |",
+            "        v",
+            "  [8] Name the EI component precisely; show institutional mechanism; close with a qualified verdict.",
+            "        |",
+            "        v",
+            "VERDICT -> The highest-scoring answer moves from named model to specific component to example",
+            "             to institutional limit.",
+            "ANSWER USE -> Use as the revision checklist before any EI PYQ attempt."
+          ]
+        }
+      ]
+    }
+  ]
+}

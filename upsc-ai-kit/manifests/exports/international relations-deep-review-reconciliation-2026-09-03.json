@@ -1,0 +1,1173 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T07:58:04.977076+00:00",
+  "subject": "International Relations",
+  "section": "Subject-wide Syllabus",
+  "represented": 15,
+  "expected": 15,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_international_relations_deep_review (cwd=tools)",
+      "tests": 178,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_the_legal_stage_ladder_is_complete_and_bounded (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_trade_organisation_structure_is_verified (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_two_forces_are_taught_as_co_present (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_agency_and_financing_status_is_stated_honestly (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_charter_composition_and_obligation_are_quoted_exactly (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_counter_terrorism_bodies_are_kept_apart (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_peacekeeping_principles_are_verified_and_bounded (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_reform_evidence_is_kept_at_its_evidentiary_level (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_advisory_function_and_its_limit_are_verified (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_amendment_rule_is_stated_as_the_structural_lock (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_voting_rule_defines_the_veto_precisely (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 178 tests in 8.417s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_01_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_dated_stress_test_is_carried_as_reversible (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_dependence_figures_carry_body_year_and_status (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_doctrinal_vocabulary_is_preserved (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_doctrine_dates_and_status_are_exact (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_objective_only_pyq_ownership_is_transparent (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\ntest_this_is_the_first_topic_of_the_sequence (test_generate_international_relations_01_sequential.InternationalRelations01GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.329s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_02_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_connectivity_evidence_is_dated_and_bounded (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_crisis_assistance_is_time_bounded (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_doctrinal_vocabulary_is_preserved (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_status_distinctions_are_never_upgraded (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_02_sequential.InternationalRelations02GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.321s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_03_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_border_architecture_is_process_not_settlement (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_european_union_agreement_is_not_in_force (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_policy_term_discipline_is_preserved (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_tariff_cycle_is_dated_and_reversible (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_technology_and_defence_instruments_are_dated_and_bounded (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_unverified_russia_figures_are_refused (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_03_sequential.InternationalRelations03GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.354s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_04_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_chairship_is_separated_from_control (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_doctrine_is_a_declared_vision_and_mahasagar_extends_it (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_imo_adoption_failure_is_reported_honestly (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_minilateral_instruments_carry_no_obligation (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_participation_categories_are_never_collapsed (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_the_2016_statement_does_not_pronounce_on_the_merits (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_treaty_status_ladder_is_exact (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_04_sequential.InternationalRelations04GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.409s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_05_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_competitive_field_and_functional_cooperation_are_both_kept (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_connectivity_instruments_carry_exact_levels (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_economic_instrument_status_is_never_upgraded (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_participation_tiers_are_current_and_dated (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_sanctions_exposure_is_distinguished_from_obligation (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_the_access_constraint_is_taught_as_structural (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_the_unheld_second_summit_is_stated_honestly (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_05_sequential.InternationalRelations05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.348s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_06_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_balancing_is_active_rather_than_equidistance (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_compounding_risk_and_consular_obligation_are_evidenced (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_corridor_and_minilateral_claims_are_not_upgraded (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_dependence_figures_carry_their_period_boundaries (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_gulf_instruments_are_dated_and_force_status_is_exact (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_iran_track_status_is_disputed_and_reversible (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_israel_track_is_diverse_and_bounded (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_06_sequential.InternationalRelations06GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.396s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_07_sequential (cwd=tools)",
+      "tests": 15,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_capacity_building_figures_are_kept_apart (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_commitments_are_never_reported_as_disbursements (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_digital_layer_is_a_dated_succession (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_model_claim_carries_its_verification_test (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_political_risk_and_comparator_are_not_caricatured (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_security_and_representation_limbs_are_bounded (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_summit_cycle_is_dated_and_the_gap_is_stated (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_the_dated_memorandum_is_not_upgraded (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_07_sequential.InternationalRelations07GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 15 tests in 0.384s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_08_sequential (cwd=tools)",
+      "tests": 16,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_category_and_coalitions_are_kept_distinct (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_convening_instruments_are_dated_and_not_upgraded (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_group_of_77_machinery_is_sourced_and_dated (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_internal_contestation_is_conceded (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_latin_american_limb_carries_exact_legal_status (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_leadership_claim_stays_aspirational (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_material_base_is_reported_as_commitment_not_delivery (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_representation_ask_and_outcome_are_at_real_scale (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_south_south_doctrine_uses_the_exact_principles (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_08_sequential.InternationalRelations08GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.401s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_09_sequential (cwd=tools)",
+      "tests": 15,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_caseload_and_evacuation_boundaries_are_stated (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_consular_treaty_frame_is_dated_and_limited (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_instrument_population_mismatch_is_diagnosed (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_political_influence_carries_its_liability_side (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_population_categories_carry_their_exact_status (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_remittance_evidence_never_replaces_the_political_limb (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_soft_power_is_evidenced_through_the_named_inventory (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\ntest_welfare_stack_is_named_and_bounded (test_generate_international_relations_09_sequential.InternationalRelations09GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 15 tests in 0.476s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_10_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_every_grouping_is_placed_in_a_named_layer (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_partial_entry_into_force_is_stated_exactly (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_participation_tiers_are_kept_apart_from_membership (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_regime_membership_distinctions_are_exact (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_south_asian_layer_separates_stagnation_from_dissolution (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_treaty_alliance_comparator_is_verified_and_bounded (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_unverified_outcomes_are_reported_as_gaps (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_10_sequential.InternationalRelations10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.532s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_11_sequential (cwd=tools)",
+      "tests": 16,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_appellate_paralysis_is_dated_and_two_sided (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_climate_commitments_are_not_presented_as_outcomes (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_consensus_and_the_ministerial_cycle_are_exact (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_tariff_volatility_is_named_as_the_mechanism (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_carbon_border_regime_is_verified_and_bounded (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_fisheries_sequence_carries_three_dates (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_legal_stage_ladder_is_complete_and_bounded (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_trade_organisation_structure_is_verified (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_the_two_forces_are_taught_as_co_present (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_11_sequential.InternationalRelations11GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.496s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_international_relations_12_sequential (cwd=tools)",
+      "tests": 15,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_agency_and_financing_status_is_stated_honestly (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_charter_composition_and_obligation_are_quoted_exactly (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_counter_terrorism_bodies_are_kept_apart (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_live_official_source_attempts_are_recorded_honestly (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_peacekeeping_principles_are_verified_and_bounded (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_reform_evidence_is_kept_at_its_evidentiary_level (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_advisory_function_and_its_limit_are_verified (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_amendment_rule_is_stated_as_the_structural_lock (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_previous_topic_of_the_sequence_is_pinned (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_the_voting_rule_defines_the_veto_precisely (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_international_relations_12_sequential.InternationalRelations12GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 15 tests in 0.583s\n\nOK"
+    },
+    {
+      "command": "not-applicable test_generate_international_relations_13_sequential",
+      "tests": 0,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Outside the exact twelve-topic International Relations scope."
+    },
+    {
+      "command": "not-applicable test_generate_international_relations_14_sequential",
+      "tests": 0,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Outside the exact twelve-topic International Relations scope."
+    },
+    {
+      "command": "not-applicable test_generate_international_relations_15_sequential",
+      "tests": 0,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Outside the exact twelve-topic International Relations scope."
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 14.911s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 2.652s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 14.337s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "international-relations-01",
+      "title": "Foreign-Policy Foundations and Strategic Autonomy",
+      "old_record_id": "international-relations-01:learner-v2:g4",
+      "new_record_id": "international-relations-01:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-01-learner-v2-g5-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:13:15.043811+00:00",
+      "identities": {
+        "export": "international-relations-01:learner-v2:g5",
+        "master": "international-relations-01:learner-v2:g5",
+        "review": "international-relations-01:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-01:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-01\\international-relations-01-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-01:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-01:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-01-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-01:learner-v2:g4",
+          "generation": 4,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-01-learner-v2-g4-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-01:learner-v2:g5",
+          "generation": 5,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-01-learner-v2-g5-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-01:learner-v2:g5",
+      "final_generation": 5
+    },
+    {
+      "topic_key": "international-relations-02",
+      "title": "India and the Neighbourhood",
+      "old_record_id": "international-relations-02:learner-v2:g4",
+      "new_record_id": "international-relations-02:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-02-learner-v2-g5-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:13:58.240934+00:00",
+      "identities": {
+        "export": "international-relations-02:learner-v2:g5",
+        "master": "international-relations-02:learner-v2:g5",
+        "review": "international-relations-02:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-02:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-02\\international-relations-02-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-02:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-02:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-02-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-02:learner-v2:g4",
+          "generation": 4,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-02-learner-v2-g4-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-02:learner-v2:g5",
+          "generation": 5,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-02-learner-v2-g5-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-02:learner-v2:g5",
+      "final_generation": 5
+    },
+    {
+      "topic_key": "international-relations-03",
+      "title": "India, China, Major Powers and Resilient Supply Chains",
+      "old_record_id": "international-relations-03:learner-v2:g3",
+      "new_record_id": "international-relations-03:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-03-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:14:22.613074+00:00",
+      "identities": {
+        "export": "international-relations-03:learner-v2:g4",
+        "master": "international-relations-03:learner-v2:g4",
+        "review": "international-relations-03:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-03:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-03\\international-relations-03-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-03:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-03:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-03-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-03:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-03-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-03:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-03-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-03:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-04",
+      "title": "Indo-Pacific, Indian Ocean and Maritime Security",
+      "old_record_id": "international-relations-04:learner-v2:g3",
+      "new_record_id": "international-relations-04:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-04-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:14:47.353001+00:00",
+      "identities": {
+        "export": "international-relations-04:learner-v2:g4",
+        "master": "international-relations-04:learner-v2:g4",
+        "review": "international-relations-04:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-04:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-04\\international-relations-04-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-04:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-04:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-04-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-04:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-04-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-04:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-04-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-04:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-05",
+      "title": "Central Asia, Eurasia and Connectivity",
+      "old_record_id": "international-relations-05:learner-v2:g3",
+      "new_record_id": "international-relations-05:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-05-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:15:11.808651+00:00",
+      "identities": {
+        "export": "international-relations-05:learner-v2:g4",
+        "master": "international-relations-05:learner-v2:g4",
+        "review": "international-relations-05:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-05:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-05\\international-relations-05-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-05:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-05:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-05-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-05:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-05-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-05:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-05-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-05:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-06",
+      "title": "West Asia, Energy Security and Connectivity",
+      "old_record_id": "international-relations-06:learner-v2:g3",
+      "new_record_id": "international-relations-06:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-06-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:15:34.848885+00:00",
+      "identities": {
+        "export": "international-relations-06:learner-v2:g4",
+        "master": "international-relations-06:learner-v2:g4",
+        "review": "international-relations-06:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-06:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-06\\international-relations-06-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-06:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-06:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-06-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-06:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-06-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-06:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-06-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-06:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-07",
+      "title": "India-Africa Development and Digital Partnership",
+      "old_record_id": "international-relations-07:learner-v2:g3",
+      "new_record_id": "international-relations-07:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-07-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:15:59.243362+00:00",
+      "identities": {
+        "export": "international-relations-07:learner-v2:g4",
+        "master": "international-relations-07:learner-v2:g4",
+        "review": "international-relations-07:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-07:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-07\\international-relations-07-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-07:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-07:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-07-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-07:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-07-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-07:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-07-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-07:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-08",
+      "title": "Global South and Development Partnering",
+      "old_record_id": "international-relations-08:learner-v2:g3",
+      "new_record_id": "international-relations-08:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-08-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:16:25.491228+00:00",
+      "identities": {
+        "export": "international-relations-08:learner-v2:g4",
+        "master": "international-relations-08:learner-v2:g4",
+        "review": "international-relations-08:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-08:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-08\\international-relations-08-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-08:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-08:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-08-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-08:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-08-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-08:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-08-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-08:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-09",
+      "title": "Indian Diaspora, Consular Protection and Soft Power",
+      "old_record_id": "international-relations-09:learner-v2:g3",
+      "new_record_id": "international-relations-09:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-09-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:16:51.457914+00:00",
+      "identities": {
+        "export": "international-relations-09:learner-v2:g4",
+        "master": "international-relations-09:learner-v2:g4",
+        "review": "international-relations-09:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-09:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-09\\international-relations-09-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-09:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-09:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-09-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-09:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-09-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-09:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-09-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-09:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-10",
+      "title": "Regional, Global and Minilateral Groupings",
+      "old_record_id": "international-relations-10:learner-v2:g3",
+      "new_record_id": "international-relations-10:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-10-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:17:17.768972+00:00",
+      "identities": {
+        "export": "international-relations-10:learner-v2:g4",
+        "master": "international-relations-10:learner-v2:g4",
+        "review": "international-relations-10:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-10:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-10\\international-relations-10-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-10:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-10:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-10-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-10:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-10-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-10:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-10-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-10:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-11",
+      "title": "Globalisation, Trade Agreements and External-Policy Effects",
+      "old_record_id": "international-relations-11:learner-v2:g3",
+      "new_record_id": "international-relations-11:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-11-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:18:10.448283+00:00",
+      "identities": {
+        "export": "international-relations-11:learner-v2:g4",
+        "master": "international-relations-11:learner-v2:g4",
+        "review": "international-relations-11:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-11:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-11\\international-relations-11-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-11:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-11:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-11-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-11:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-11-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-11:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-11-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-11:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "international-relations-12",
+      "title": "UN and International Institutions: Global Governance",
+      "old_record_id": "international-relations-12:learner-v2:g3",
+      "new_record_id": "international-relations-12:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-12-learner-v2-g4-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T07:19:04.423866+00:00",
+      "identities": {
+        "export": "international-relations-12:learner-v2:g4",
+        "master": "international-relations-12:learner-v2:g4",
+        "review": "international-relations-12:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "international-relations-12:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\international-relations-12\\international-relations-12-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "international-relations-12:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "international-relations-12:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-12-learner-v2-g2-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-12:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-12-learner-v2-g3-2026-09-03-validation.json"
+        },
+        {
+          "record_id": "international-relations-12:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\international-relations-12-learner-v2-g4-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "international-relations-12:learner-v2:g4",
+      "final_generation": 4
+    }
+  ],
+  "failed_intermediates_preserved": [],
+  "successful_re_review_intermediates_preserved": [
+    "international-relations-01:learner-v2:g3",
+    "international-relations-01:learner-v2:g4",
+    "international-relations-02:learner-v2:g3",
+    "international-relations-02:learner-v2:g4",
+    "international-relations-03:learner-v2:g2",
+    "international-relations-03:learner-v2:g3",
+    "international-relations-04:learner-v2:g2",
+    "international-relations-04:learner-v2:g3",
+    "international-relations-05:learner-v2:g2",
+    "international-relations-05:learner-v2:g3",
+    "international-relations-06:learner-v2:g2",
+    "international-relations-06:learner-v2:g3",
+    "international-relations-07:learner-v2:g2",
+    "international-relations-07:learner-v2:g3",
+    "international-relations-08:learner-v2:g2",
+    "international-relations-08:learner-v2:g3",
+    "international-relations-09:learner-v2:g2",
+    "international-relations-09:learner-v2:g3",
+    "international-relations-10:learner-v2:g2",
+    "international-relations-10:learner-v2:g3",
+    "international-relations-11:learner-v2:g2",
+    "international-relations-11:learner-v2:g3",
+    "international-relations-12:learner-v2:g2",
+    "international-relations-12:learner-v2:g3"
+  ],
+  "requested_topic_count": 12,
+  "live_topic_count": 12,
+  "missing_expected_topic_keys": [],
+  "scope_blocker": "none",
+  "all_subject_topic_count": 364,
+  "encoding_check": {
+    "files_checked": [
+      "EXPORT-PDF-STATUS.json",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json",
+      "EXPORT-PDF-COMMAND-INDEX.md",
+      "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.md",
+      "notes\\Final-Learning-Packages\\CATALOGUE.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\07_India-Africa-Development-and-Digital-Partnership.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\07_India-Africa-Development-and-Digital-Partnership.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+      "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md"
+    ],
+    "u_fffd_replacement_paths": [],
+    "actual_replacement_glyph_found": false,
+    "result": "no defect"
+  }
+}

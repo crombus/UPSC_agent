@@ -1,0 +1,1110 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-06",
+  "subject": "Polity",
+  "title": "CITIZENSHIP",
+  "short_route": "MEMBERSHIP → ARTICLES 5-11 → ACQUISITION → LOSS → SECTION 6A → OCI/CAA → 2026 PROCEDURE → PYQS → ANSWER SPINE → VERDICT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "DEEP CONTENT REVALIDATION",
+    "line": "Approval: FALSE • immutable successor g16 • current-law and four-artifact revalidation"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "5dc09228943615008b2f20b285b81d435c4988e0a9f16aba70e5d9497a62d1d1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CITIZENSHIP: MEMBERSHIP, RIGHTS AND SINGLE NATIONAL STATUS",
+      "structural_type": "concept-rights-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MEMBERSHIP, RIGHTS AND SINGLE NATIONAL STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "PERSON WITHIN INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "+-- POLITICAL MEMBERSHIP OF INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "+-- CITIZEN-ONLY RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 15, 16, 19, 29 AND 30",
+          "role": "primary"
+        },
+        {
+          "text": "+-- ELIGIBILITY FOR SPECIFIED CONSTITUTIONAL OFFICES",
+          "role": "outcome"
+        },
+        {
+          "text": "ALIEN PERSON-BASED GUARANTEES INCLUDE ARTICLES 14, 20 AND 21",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENT LEGAL HOME PLUS INTENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PERSON WITHIN INDIA",
+        "+-- political membership of India",
+        "+-- citizen-only rights: Articles 15, 16, 19 and 29; Article 30 says minorities",
+        "+-- eligibility for specified constitutional offices",
+        "ALIEN person-based guarantees include Articles 14, 20 and 21 may be foreign national or stateless"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PERSON WITHIN INDIA",
+            "+-- political membership of India",
+            "+-- citizen-only rights: Articles 15, 16, 19 and 29; Article 30 says minorities"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "+-- eligibility for specified constitutional offices",
+            "ALIEN person-based guarantees include Articles 14, 20 and 21 may be foreign national or stateless person",
+            "DOMICILE = permanent legal home plus intention"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESIDENCE = factual presence under a specified rule",
+            "CITIZENSHIP = legal-political membership",
+            "SINGLE CITIZENSHIP → national equality of membership across Union and States"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "+-- eligibility for specified constitutional offices"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Citizenship is the legally recognised membership of the Indian political community: it links allegiance and protection, allocates political voice and selected public offices, and remains principally statutory after the Constitution's commencement settlement.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 1 — CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE CONSTITUTIONAL RIGHTS MAP",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 2 — CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS SINGLE CITIZENSHIP"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLES 5-7: COMMENCEMENT CITIZENSHIP DECISION TREE",
+      "structural_type": "articles-procedure-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLES 5-7",
+          "role": "primary"
+        },
+        {
+          "text": "COMMENCEMENT CITIZENSHIP DECISION TREE",
+          "role": "outcome"
+        },
+        {
+          "text": "AT COMMENCEMENT, 26 JAN 1950",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 5",
+          "role": "institution"
+        },
+        {
+          "text": "DOMICILE IN INDIA + ONE CONNECTION BIRTH IN INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "PARENT BORN IN INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE YEARS' ORDINARY RESIDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 6",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "AT COMMENCEMENT, 26 JAN 1950",
+        "ARTICLE 5: domicile in India + one connection birth in India",
+        "parent born in India",
+        "five years' ordinary residence",
+        "ARTICLE 6: migrated from Pakistan to India before 19 Jul 1948 → ordinary-residence route on/after"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AT COMMENCEMENT, 26 JAN 1950",
+            "ARTICLE 5: domicile in India + one connection birth in India"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "parent born in India",
+            "five years' ordinary residence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 6: migrated from Pakistan to India before 19 Jul 1948 → ordinary-residence route on/after 19 Jul 1948",
+            "→ registration after permit-era conditions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 7: migrated to Pakistan after 1 Mar 1947 generally excluded permit for resettlement/permanent return may restore Article 6 route",
+            "Five-year residence alone never satisfied Article 5; domicile remained essential."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 5-8 identified citizens at commencement, Article 9 disqualified voluntary foreign citizenship for the specified commencement routes, Article 10 continued status subject to law, and Article 11 empowered Parliament to build the permanent statutory regime.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 3 — WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 4 — ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 5 — ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 6 — ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE PERMIT-RETURN EXCEPTION"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLES 8-11: OVERSEAS ORIGIN, CONTINUITY AND PARLIAMENT",
+      "structural_type": "constitutional-bridge-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLES 8-11",
+          "role": "primary"
+        },
+        {
+          "text": "OVERSEAS ORIGIN, CONTINUITY AND PARLIAMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 8",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN ORIGIN ABROAD + REGISTRATION BY INDIAN DIPLOMATIC OR",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 9 VOLUNTARY FOREIGN CITIZENSHIP BLOCKS ARTICLES 5, 6",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 10 COMMENCEMENT CITIZENSHIP CONTINUES SUBJECT TO PARLIAMENTARY LAW",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 11",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT REGULATES ACQUISITION, TERMINATION AND ALL CITIZENSHIP MATTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 8",
+        "Indian origin abroad + registration by Indian diplomatic or consular officer",
+        "ARTICLE 9 voluntary foreign citizenship blocks Articles 5, 6 and 8 claim",
+        "ARTICLE 10 commencement citizenship continues subject to parliamentary law",
+        "ARTICLE 11"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 8",
+            "Indian origin abroad + registration by Indian diplomatic or consular officer"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 9 voluntary foreign citizenship blocks Articles 5, 6 and 8 claim",
+            "ARTICLE 10 commencement citizenship continues subject to parliamentary law"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 11",
+            "Parliament regulates acquisition, termination and all citizenship matters"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CITIZENSHIP ACT 1955",
+            "Constitution settled founding membership; statute governs the continuing regime."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The application could be made before or after commencement, subject to the Government of India's prescribed form and manner.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 7 — ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 8 — ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 9 — ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 10 — ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FIVE STATUTORY ROUTES TO ACQUIRE CITIZENSHIP",
+      "structural_type": "statutory-acquisition-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FIVE STATUTORY ROUTES TO ACQUIRE CITIZENSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CITIZENSHIP ACT 1955",
+          "role": "institution"
+        },
+        {
+          "text": "BY BIRTH",
+          "role": "comparison"
+        },
+        {
+          "text": "DATE AND PARENTS' STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "BY DESCENT",
+          "role": "primary"
+        },
+        {
+          "text": "PARENT LINK + DATE-SPECIFIC REGISTRATION CONDITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "BY REGISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LISTED CATEGORIES AND RESIDENCE CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITIZENSHIP ACT 1955",
+        "BY BIRTH: date and parents' status",
+        "BY DESCENT: parent link + date-specific registration conditions",
+        "BY REGISTRATION: listed categories and residence conditions",
+        "BY NATURALISATION: Third Schedule qualifications and discretion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CITIZENSHIP ACT 1955",
+            "BY BIRTH: date and parents' status",
+            "BY DESCENT: parent link + date-specific registration conditions"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BY REGISTRATION: listed categories and residence conditions",
+            "BY NATURALISATION: Third Schedule qualifications and discretion",
+            "BY INCORPORATION: Central Government specifies eligible persons"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO ROUTE IS AUTOMATIC MERELY FROM long residence",
+            "voter document",
+            "PROCESS statutory category → exact date → documents → oath and decision"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "BY REGISTRATION: listed categories and residence conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAA 2019 inserted a proviso for its specified class, subject to the statutory exemptions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 11 — CITIZENSHIP ACT, 1955 - THE STATUTORY ARCHITECTURE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 12 — CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 13 — CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 14 — CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 15 — CITIZENSHIP BY NATURALISATION - THIRD SCHEDULE, WAIVER AND THE CAA MODIFICATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 16 — CITIZENSHIP BY INCORPORATION OF TERRITORY"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BIRTH AND DESCENT RULES CHANGE ACROSS DATES",
+      "structural_type": "date-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BIRTH AND DESCENT RULES CHANGE ACROSS DATES",
+          "role": "primary"
+        },
+        {
+          "text": "BY BIRTH IN INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "26 JAN 1950-30 JUN 1987 BIRTH GENERALLY SUFFICIENT; EXCEPTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1 JUL 1987-2 DEC 2004 AT LEAST ONE PARENT",
+          "role": "evidence"
+        },
+        {
+          "text": "BY DESCENT OUTSIDE INDIA BEFORE 10 DEC 1992 PATERNAL",
+          "role": "primary"
+        },
+        {
+          "text": "10 DEC 1992-2 DEC 2004 EITHER INDIAN PARENT CAN",
+          "role": "outcome"
+        },
+        {
+          "text": "A DOCUMENT PROVES FACTS; IT DOES NOT OVERRIDE THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BY BIRTH IN INDIA",
+        "26 Jan 1950-30 Jun 1987 birth generally sufficient; exceptions apply",
+        "1 Jul 1987-2 Dec 2004 at least one parent must be Indian citizen from 3",
+        "citizen parent + other not illegal migrant, or both parents citizens",
+        "BY DESCENT OUTSIDE INDIA before 10 Dec 1992 paternal transmission under then text"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "BY BIRTH IN INDIA",
+          "1 Jul 1987-2 Dec 2004 at least one parent must be Indian citizen from 3 Dec 2004 one",
+          "BY DESCENT OUTSIDE INDIA before 10 Dec 1992 paternal transmission under then text",
+          "A document proves facts; it does not override the date-specific statutory test."
+        ],
+        [
+          "26 Jan 1950-30 Jun 1987 birth generally sufficient; exceptions apply",
+          "citizen parent + other not illegal migrant, or both parents citizens",
+          "10 Dec 1992-2 Dec 2004 either Indian parent can transmit from 3 Dec 2004 consular registration and declaration controls",
+          "BY BIRTH IN INDIA"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BY BIRTH IN INDIA",
+            "26 Jan 1950-30 Jun 1987 birth generally sufficient; exceptions apply"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1 Jul 1987-2 Dec 2004 at least one parent must be Indian citizen from 3 Dec 2004 one",
+            "citizen parent + other not illegal migrant, or both parents citizens"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BY DESCENT OUTSIDE INDIA before 10 Dec 1992 paternal transmission under then text",
+            "10 Dec 1992-2 Dec 2004 either Indian parent can transmit from 3 Dec 2004 consular registration and declaration controls"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "A document proves facts; it does not override the date-specific statutory test.",
+            "BY BIRTH IN INDIA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Citizenship by birth changed across statutory periods, so proof of birthplace alone cannot establish citizenship without applying the contemporaneous parental-status conditions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 12 — CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 13 — CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE ROUTES OF LOSS AND THEIR SAFEGUARDS",
+      "structural_type": "loss-procedure-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THREE ROUTES OF LOSS AND THEIR SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "RENUNCIATION ADULT CITIZEN'S DECLARATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MINOR CHILD MAY FOLLOW, WITH STATUTORY RESUMPTION PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "TERMINATION VOLUNTARY ACQUISITION OF ANOTHER COUNTRY'S CITIZENSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA DOES NOT RECOGNISE FULL DUAL CITIZENSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL GOVERNMENT ORDER FOR SPECIFIED GROUNDS FRAUD OR CONCEALMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CITIZEN ACT",
+          "role": "institution"
+        },
+        {
+          "text": "FOREIGN ACQUISITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RENUNCIATION adult citizen's declaration",
+        "minor child may follow, with statutory resumption protection",
+        "TERMINATION voluntary acquisition of another country's citizenship",
+        "India does not recognise full dual citizenship",
+        "Central Government order for specified grounds fraud or concealment disloyalty or unlawful enemy dealing specified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RENUNCIATION adult citizen's declaration",
+            "minor child may follow, with statutory resumption protection"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TERMINATION voluntary acquisition of another country's citizenship",
+            "India does not recognise full dual citizenship"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Central Government order for specified grounds fraud or concealment disloyalty or unlawful enemy dealing specified conviction or residence",
+            "conditions notice, inquiry and public-good control renunciation = citizen act"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "termination = foreign acquisition",
+            "deprivation = State order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The common shorthand \"deprivation applies to registered and naturalised citizens\" is incomplete because the Act contains express inclusions and exclusions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 17 — LOSS OF CITIZENSHIP - RENUNCIATION, TERMINATION AND DEPRIVATION"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ASSAM SECTION 6A: CUT-OFFS, CONSEQUENCES AND JUDICIAL CONTROL",
+      "structural_type": "federal-citizenship-mechanism",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ASSAM SECTION 6A",
+          "role": "primary"
+        },
+        {
+          "text": "CUT-OFFS, CONSEQUENCES AND JUDICIAL CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSAM-SPECIFIC SECTION 6A ENTERED BEFORE 1 JAN 1966 DEEMED",
+          "role": "comparison"
+        },
+        {
+          "text": "NRC USES 24 MARCH 1971 MIDNIGHT AS ASSAM'S CUT-OFF",
+          "role": "evidence"
+        },
+        {
+          "text": "IN RE",
+          "role": "primary"
+        },
+        {
+          "text": "IN RE: SECTION 6A (2024) — 17 OCTOBER",
+          "role": "outcome"
+        },
+        {
+          "text": "1 JUDGMENT UPHOLDS SECTION 6A; IMPLEMENTATION REMAINS CRUCIAL.",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL MEMBERSHIP + ASSAM MIGRATION HISTORY + CULTURAL PROTECTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASSAM-SPECIFIC SECTION 6A entered before 1 Jan 1966 deemed citizens under statutory scheme entered 1",
+        "Mar 1971 detection + registration ten-year electoral-roll exclusion entered on/after 25 Mar 1971 no Section",
+        "NRC uses 24 March 1971 midnight as Assam's cut-off reference.",
+        "IN RE: SECTION 6A (2024) — 17 OCTOBER",
+        "4:1 judgment upholds Section 6A; implementation remains crucial."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ASSAM-SPECIFIC SECTION 6A entered before 1 Jan 1966 deemed citizens under statutory scheme entered 1 Jan 1966-before 25",
+            "Mar 1971 detection + registration ten-year electoral-roll exclusion entered on/after 25 Mar 1971 no Section 6A protection"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NRC uses 24 March 1971 midnight as Assam's cut-off reference.",
+            "IN RE: SECTION 6A (2024) — 17 OCTOBER"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "4:1 judgment upholds Section 6A; implementation remains crucial.",
+            "TENSION: national membership + Assam migration history + cultural protection."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ASSAM-SPECIFIC SECTION 6A entered before 1 Jan 1966 deemed citizens under statutory scheme entered 1 Jan 1966-before 25",
+            "Mar 1971 detection + registration ten-year electoral-roll exclusion entered on/after 25 Mar 1971 no Section 6A protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 6A creates an Assam-specific citizenship settlement with differentiated cut-offs, but it confers Indian citizenship rather than any separate Assam citizenship.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 18 — ASSAM ACCORD, SECTION 6A AND THE NRC CUT-OFF",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-23.md#SESSION 19 — IN RE: SECTION 6A (17 OCTOBER 2024) - THE CONTROLLING 4:1 JUDGMENT"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "OCI AND CAA: CONNECTION IS NOT CITIZENSHIP",
+      "structural_type": "comparison-constitutional-debate",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OCI AND CAA",
+          "role": "primary"
+        },
+        {
+          "text": "CONNECTION IS NOT CITIZENSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "OCI LIFELONG VISA-RELATED AND NOTIFIED BENEFITS NOT DUAL CITIZENSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "CAA FACILITATION SIX COMMUNITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "HINDU, SIKH, BUDDHIST, JAIN, PARSI, CHRISTIAN THREE COUNTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "AFGHANISTAN, BANGLADESH, PAKISTAN ENTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "ON OR BEFORE 31 DEC 2014 SPECIFIED IMMIGRATION EXEMPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE INSTEAD OF ELEVEN YEARS FOR SPECIFIED CLASS TERRITORIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OCI lifelong visa-related and notified benefits not dual citizenship; no vote or constitutional-office entitlement",
+        "CAA FACILITATION six communities: Hindu, Sikh, Buddhist, Jain, Parsi, Christian three countries: Afghanistan, Bangladesh, Pakistan",
+        "before 31 Dec 2014 specified immigration exemption + application conditions naturalisation aggregate: five instead of",
+        "specified class territorial exclusions apply",
+        "ARTICLE 14 DEBATE",
+        "19 AUG 2026: specified applicants use jurisdictional Collector",
+        "procedure changed; eligibility class unchanged"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "OCI lifelong visa-related and notified benefits not dual citizenship; no vote or constitutional-office entitlement",
+          "before 31 Dec 2014 specified immigration exemption + application conditions naturalisation aggregate: five instead of eleven years for",
+          "ARTICLE 14 DEBATE",
+          "Challenge: religion/country exclusions, under-inclusion, secularism and Assam impact"
+        ],
+        [
+          "CAA FACILITATION six communities: Hindu, Sikh, Buddhist, Jain, Parsi, Christian three countries: Afghanistan, Bangladesh, Pakistan entry: on or",
+          "specified class territorial exclusions apply",
+          "State: neighbouring theocracies, minorities and humanitarian classification",
+          "SOURCE STATUS: 2019 Act and 2024 Rules operative; no located final merits judgment."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OCI lifelong visa-related and notified benefits not dual citizenship; no vote or constitutional-office entitlement",
+            "CAA FACILITATION six communities: Hindu, Sikh, Buddhist, Jain, Parsi, Christian three countries: Afghanistan, Bangladesh, Pakistan entry: on or"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "before 31 Dec 2014 specified immigration exemption + application conditions naturalisation aggregate: five instead of eleven years for",
+            "specified class territorial exclusions apply"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 14 DEBATE",
+            "State: neighbouring theocracies, minorities and humanitarian classification"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Challenge: religion/country exclusions, under-inclusion, secularism and Assam impact",
+            "SOURCE STATUS: 2019 Act and 2024 Rules operative; no located final merits judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The 19 August 2026 Collector route changes Section 6B administration for specified territories; it does not change the CAA eligibility class or 31 December 2014 cut-off.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 20 — OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 21 — CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 22 — CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "DOCUMENT PROOF AND EXACT PRELIMS PYQ CONTROLS",
+      "structural_type": "proof-pyq-laboratory",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AADHAAR ≠ CITIZENSHIP PROOF",
+          "role": "caution"
+        },
+        {
+          "text": "2018 Q12: NEITHER 1 NOR 2",
+          "role": "evidence"
+        },
+        {
+          "text": "2021 Q89: 1 ONLY",
+          "role": "evidence"
+        },
+        {
+          "text": "PASSPORT / EPIC: EVIDENCE, NOT UNIVERSAL CONCLUSIVE PROOF",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "Aadhaar does not by itself prove citizenship or domicile",
+        "2018 GS-I Q12 tests proof and deactivation",
+        "2021 GS-I Q89 tests one citizenship/domicile, President and deprivation"
+      ],
+      "matrix": [
+        [
+          "CONTROL",
+          "EXAM USE"
+        ],
+        [
+          "Aadhaar",
+          "not citizenship proof"
+        ],
+        [
+          "2021 Q89",
+          "1 only; key provenance qualified"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "RULE / EVIDENCE",
+          "role": "institution",
+          "items": [
+            "Aadhaar does not by itself prove citizenship or domicile",
+            "2018 GS-I Q12 tests proof and deactivation"
+          ]
+        },
+        {
+          "heading": "EXAM CONTROL / VERDICT",
+          "role": "outcome",
+          "items": [
+            "2021 GS-I Q89 tests one citizenship/domicile, President and deprivation"
+          ]
+        }
+      ],
+      "mechanism_strip": "Apply the exact rule, test the evidence and procedure separately, then state a qualified constitutional verdict.",
+      "answer_line": "A document may evidence identity, entry or residence, but only the governing constitutional or statutory rule determines citizenship.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 23 — CITIZENSHIP PROOF AND DOCUMENT TRAPS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "2025 OCI CANCELLATION AND 2026 SECTION 6B PROCEDURE",
+      "structural_type": "current-law-process",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SECTION 7D(DA): SERIOUS-CRIMINALITY OCI CANCELLATION GROUND",
+          "role": "primary"
+        },
+        {
+          "text": "G.S.R. 742(E): SPECIFIED APPLICANTS APPLY TO COLLECTOR",
+          "role": "mechanism"
+        },
+        {
+          "text": "S.O. 4583(E): PENDING APPLICATIONS TRANSFER TO COLLECTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "S.O. 4583(E): PENDING APPLICATIONS TRANSFER TO COLLECTOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Section 7D(da): serious-criminality OCI cancellation ground",
+        "G.S.R. 742(E): specified applicants apply to Collector",
+        "verify documents -> enquiry -> oath -> decision",
+        "S.O. 4583(E): pending applications transfer to Collector"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RULE / EVIDENCE",
+          "role": "institution",
+          "items": [
+            "Section 7D(da): serious-criminality OCI cancellation ground",
+            "G.S.R. 742(E): specified applicants apply to Collector"
+          ]
+        },
+        {
+          "heading": "EXAM CONTROL / VERDICT",
+          "role": "outcome",
+          "items": [
+            "verify documents -> enquiry -> oath -> decision",
+            "S.O. 4583(E): pending applications transfer to Collector"
+          ]
+        }
+      ],
+      "mechanism_strip": "Apply the exact rule, test the evidence and procedure separately, then state a qualified constitutional verdict.",
+      "answer_line": "OCI and CAA remain statutory statuses: current procedure must be stated precisely without converting administrative change into a change of citizenship eligibility.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 20 — OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 21 — CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "synthesis",
+      "title": "EXECUTABLE 10 / 15 / 20-MARK ANSWER ARCHITECTURE",
+      "structural_type": "answer-architecture",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "10: DEFINE + THREE ANCHORS + CAVEAT + VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "15: CONSTITUTIONAL SCHEME + STATUTE + JUDGMENT/DEBATE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SPECIFIC IMPROVEMENT FOLLOWS EVERY SOLVED ANSWER",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIC IMPROVEMENT FOLLOWS EVERY SOLVED ANSWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10: define + three anchors + caveat + verdict",
+        "15: constitutional scheme + statute + judgment/debate",
+        "20: both sides + named evidence + 2026 status + safeguards",
+        "specific improvement follows every solved answer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RULE / EVIDENCE",
+          "role": "institution",
+          "items": [
+            "10: define + three anchors + caveat + verdict",
+            "15: constitutional scheme + statute + judgment/debate"
+          ]
+        },
+        {
+          "heading": "EXAM CONTROL / VERDICT",
+          "role": "outcome",
+          "items": [
+            "20: both sides + named evidence + 2026 status + safeguards",
+            "specific improvement follows every solved answer"
+          ]
+        }
+      ],
+      "mechanism_strip": "Apply the exact rule, test the evidence and procedure separately, then state a qualified constitutional verdict.",
+      "answer_line": "A high-scoring citizenship answer separates membership, evidence and procedure, then tests statutory choices against equality, liberty and federal accommodation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "QUALIFIED SYNTHESIS: LAWFUL MEMBERSHIP UNDER REVIEW",
+      "structural_type": "qualified-conclusion",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL FOUNDING SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PARLIAMENTARY STATUTORY ADMINISTRATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "EQUAL MEMBERSHIP + LAWFUL CLASSIFICATION + FAIR PROCEDURE",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL MEMBERSHIP + LAWFUL CLASSIFICATION + FAIR PROCEDURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "constitutional founding settlement",
+        "parliamentary statutory administration",
+        "judicial review and natural justice",
+        "equal membership + lawful classification + fair procedure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RULE / EVIDENCE",
+          "role": "institution",
+          "items": [
+            "constitutional founding settlement",
+            "parliamentary statutory administration"
+          ]
+        },
+        {
+          "heading": "EXAM CONTROL / VERDICT",
+          "role": "outcome",
+          "items": [
+            "judicial review and natural justice",
+            "equal membership + lawful classification + fair procedure"
+          ]
+        }
+      ],
+      "mechanism_strip": "Apply the exact rule, test the evidence and procedure separately, then state a qualified constitutional verdict.",
+      "answer_line": "Indian citizenship law is constitutionally founded, statutorily administered and judicially reviewable; legitimacy depends on equal membership, lawful classification and fair procedure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#CONSOLIDATED REGISTER NOTES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A. CITIZENSHIP IS A GATEKEEPING STATUS, NOT MERELY A",
+          "role": "caution"
+        },
+        {
+          "text": "B. FRATERNITY AND EXCLUSION PULL IN OPPOSITE DIRECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "C. EQUALITY REVIEW MUST IDENTIFY THE COMPARATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "D. TEMPORAL REASONABLENESS AFTER THE SECTION 6A DISSENT",
+          "role": "primary"
+        },
+        {
+          "text": "E. NATIONAL MEMBERSHIP AND FEDERAL ASYMMETRY",
+          "role": "outcome"
+        },
+        {
+          "text": "F. OCI AS CALIBRATED EXTERNAL MEMBERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "G. POLITICAL THEORY CROSS-LINK - BOUNDED ENRICHMENT ONLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "A. Citizenship is a gatekeeping status, not merely a rights bundle",
+            "B. Fraternity and exclusion pull in opposite directions",
+            "C. Equality review must identify the comparator",
+            "D. Temporal reasonableness after the Section 6A dissent"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "E. National membership and federal asymmetry",
+            "F. OCI as calibrated external membership",
+            "G. Political Theory cross-link - bounded enrichment only",
+            "H. A citizenship decision has at least four review layers"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "That is why apparently technical rules about dates and parentage also decide who participates in democratic authorship.",
+            "Fraternity and exclusion pull in opposite directions [ANALYSIS] A citizenship law can advance fraternity by integrating long-settled populations,",
+            "yet weaken it if classification appears to stigmatise another group.",
+            "The Section 6A majority treated historical accommodation as fraternity-consistent"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 14,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

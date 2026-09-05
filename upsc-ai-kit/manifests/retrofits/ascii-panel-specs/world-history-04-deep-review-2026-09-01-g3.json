@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-04",
+      "display_title": "Industrial Revolution",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Why England first: conjunction",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CAPITAL -> finances fixed investment before returns",
+            "COAL + IRON -> energy and machinery base",
+            "LABOUR + FOOD -> enclosure and agricultural improvement",
+            "MARKETS + LAW -> scale, contracts and commercial security",
+            "MUST REMEMBER: Britain's first industrial breakthrough joined coal and iron, agricultural and",
+            "  demographic change, credit, transport, imperial markets and institutions; invention alone",
+            "  does not explain timing.",
+            "MUST REMEMBER: Britain's first industrial breakthrough joined coal and iron, agricultural and",
+            "  demographic change, credit, transport, imperial markets and institutions; invention alone",
+            "  does not explain timing."
+          ],
+          "source_references": [
+            "Capital and commercial scale",
+            "Coal, iron and energy",
+            "Enclosure, agriculture and labour",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Cotton innovation chain",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1764 -> Hargreaves: spinning jenny",
+            "1769 -> Arkwright water frame; Watt improvement era",
+            "1785 -> Cartwright: power loom",
+            "1793 -> Whitney: cotton gin in the United States"
+          ],
+          "source_references": [
+            "Textile mechanisation sequence",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Putting-out to factory",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DOMESTIC SYSTEM -> dispersed tools and household rhythm",
+            "FACTORY -> concentrated machinery and supervision",
+            "STEAM -> production freed from muscle and water limits",
+            "TIME DISCIPLINE -> wage labour organised by the clock"
+          ],
+          "source_references": [
+            "The factory system and time discipline",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Transport multiplier",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CANALS + ROADS -> cheaper movement of bulk goods",
+            "STEAM BOATS -> faster water transport",
+            "PASSENGER RAILWAY 1830 -> national networks deepen",
+            "RESULT -> coal, iron, engineering and markets reinforce each other"
+          ],
+          "source_references": [
+            "Transport and national markets",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Industrial class society",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CAPITALISTS -> own productive machinery and seek profit",
+            "WAGE WORKERS -> lack tools and depend on employers",
+            "CITY -> housing, sanitation and health become public issues",
+            "POLITICS -> class grievance enters organisation and franchise"
+          ],
+          "source_references": [
+            "Urbanisation and new classes",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Gender and childhood ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WOMEN -> central factory workers and household earners",
+            "CHILDREN -> cheap labour under weak protection",
+            "CONDITIONS -> long hours, low wages and insecurity",
+            "CAUTION -> experience varied by trade, place and household"
+          ],
+          "source_references": [
+            "Women, children and the industrial household",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Social response ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1802 -> first Factory Act begins regulation",
+            "1824 -> anti-union laws repealed",
+            "1830s-40s -> Chartism demands political rights",
+            "LONG RESULT -> laissez-faire yields to labour evidence"
+          ],
+          "source_references": [
+            "From Factory Acts to unions",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Uneven diffusion map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ENGLAND -> earliest machine-and-factory surge",
+            "FRANCE/BELGIUM -> continental growth after 1815",
+            "GERMANY/USA -> later powerful acceleration",
+            "RUSSIA/JAPAN -> compressed, state-assisted routes"
+          ],
+          "source_references": [
+            "Uneven spread across Europe and America",
+            "Japan and state-assisted late industrialisation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Britain versus Japan",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BRITAIN -> private profit joins capital, coal and markets",
+            "JAPAN 1868 -> state treats industry as national security",
+            "BRITAIN -> domestically generated invention sequence",
+            "JAPAN -> railways, roads, cotton and silk promoted from above"
+          ],
+          "source_references": [
+            "Japan and state-assisted late industrialisation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Railways change with context",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INDUSTRIALISER -> integrates markets and heavy industry",
+            "CONTINENTAL CATCH-UP -> links state policy and national market",
+            "SETTLER FRONTIER -> opens land and displaces indigenous peoples",
+            "COLONY -> moves exports and administrative power toward ports",
+            "CLOSE DISTINCTION: Textiles, steam, factory discipline and railways were connected mechanisms",
+            "  but had different chronologies and effects, while industrialisation outside Britain followed",
+            "  multiple state, labour and resource paths.",
+            "CLOSE DISTINCTION: Textiles, steam, factory discipline and railways were connected mechanisms",
+            "  but had different chronologies and effects, while industrialisation outside Britain followed",
+            "  multiple state, labour and resource paths."
+          ],
+          "source_references": [
+            "Railways in contrasting political economies",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Industry-to-empire pressure",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "OUTPUT RISES -> raw-material demand expands",
+            "SCALE RISES -> overseas markets become more valuable",
+            "CAPITAL ACCUMULATES -> investment outlets are sought",
+            "RIVALRY INTENSIFIES -> empire gains economic weight",
+            "EVIDENCE LIMIT: Output and connectivity expanded alongside urban crowding, class conflict,",
+            "  gendered labour, ecological damage and colonial deindustrialisation; progress and harm",
+            "  require spatially differentiated evidence.",
+            "EVIDENCE LIMIT: Output and connectivity expanded alongside urban crowding, class conflict,",
+            "  gendered labour, ecological damage and colonial deindustrialisation; progress and harm",
+            "  require spatially differentiated evidence."
+          ],
+          "source_references": [
+            "Industrial capitalism and empire",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Mixed-blessing answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "GAIN -> productivity, transport and cheaper goods",
+            "COST -> labour insecurity, slums, women and child exploitation",
+            "RESPONSE -> unions, Factory Acts and Chartism",
+            "VERDICT -> broad delayed gains, concentrated immediate costs"
+          ],
+          "source_references": [
+            "Mixed blessing and final judgement",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g2\\world-history-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-04\\g3\\world-history-04_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

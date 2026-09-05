@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T11:33:21+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "67c6e676fe364e02319dcbf55aca3a06d83b33360ba3ffe4bc0cd0fa4c26c222",
+    "sha256_after": "67c6e676fe364e02319dcbf55aca3a06d83b33360ba3ffe4bc0cd0fa4c26c222",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9243,
+    "pdf_count": 2372,
+    "png_count": 778,
+    "txt_count": 1000,
+    "markdown_count": 1498,
+    "json_count": 3580,
+    "total_bytes": 4168671195,
+    "by_extension": {
+      ".json": 3580,
+      ".md": 1498,
+      ".pdf": 2372,
+      ".png": 778,
+      ".txt": 1000,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-33",
+      "topic_title": "Party Politics 1947–67: The Congress System & the Opposition",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 33,
+      "source_record_id": "modern-indian-history-33:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-33\\g3\\modern-indian-history-33_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "973dc199b0a5b8a5de826e38c004891342d0b909c33a29ec98162adc2df9a9c0",
+          "output_sha256": "973dc199b0a5b8a5de826e38c004891342d0b909c33a29ec98162adc2df9a9c0",
+          "source_output_equal": true,
+          "bytes": 606817
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-33\\g3\\modern-indian-history-33_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "bd5c04e06e4f253e3359d4852dc06ee6e535420634302f1f197c09af89e60165",
+          "output_sha256": "bd5c04e06e4f253e3359d4852dc06ee6e535420634302f1f197c09af89e60165",
+          "source_output_equal": true,
+          "bytes": 483589
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-33\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "fdf03f7b3a20ea338a3a20c5447522ff2cebab87794ed0119e2faeb38abe8594",
+          "output_sha256": "fdf03f7b3a20ea338a3a20c5447522ff2cebab87794ed0119e2faeb38abe8594",
+          "source_output_equal": true,
+          "bytes": 2314629
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-33\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "1ccf736499d096fbc7f527e095a4fbce32b5dd7237a410995e950952ce03eb89",
+          "output_sha256": "1ccf736499d096fbc7f527e095a4fbce32b5dd7237a410995e950952ce03eb89",
+          "source_output_equal": true,
+          "bytes": 2638243
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-33\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a2341a4cbd72cb81889e41a21a990106a23a33fcd2b4b0ba8eff7cce31599b54",
+          "output_sha256": "a2341a4cbd72cb81889e41a21a990106a23a33fcd2b4b0ba8eff7cce31599b54",
+          "source_output_equal": true,
+          "bytes": 2066607
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-33\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "db69edec484f8270a9d6cd609c115d057921c09544acb18868673fd47960eea0",
+          "output_sha256": "db69edec484f8270a9d6cd609c115d057921c09544acb18868673fd47960eea0",
+          "source_output_equal": true,
+          "bytes": 6212
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-33\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\33-Party-Politics-1947-6ff1af40-and-the-Opposition\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "47ccb54822368cd94d9793f24cc92c6cf78828c88d8598b0a261a8198aa2eb47",
+          "output_sha256": "47ccb54822368cd94d9793f24cc92c6cf78828c88d8598b0a261a8198aa2eb47",
+          "source_output_equal": true,
+          "source_text_sha256": "db69edec484f8270a9d6cd609c115d057921c09544acb18868673fd47960eea0",
+          "normalized_text_equal": true,
+          "bytes": 57958
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 13,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 70,
+        "solved_practice_workbook": 36,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 70,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 36,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11194
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

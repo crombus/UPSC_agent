@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Governance learner-v2 Topic 10",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-10",
+      "display_title": "Administrative Reforms and the Second ARC",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Governance\\10_Administrative-Reforms-and-the-2nd-ARC_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two commissions, two questions",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FIRST COMMISSION -> 1966 to 1970; Morarji Desai, later K. Hanumanthaiah",
+            "QUESTION ASKED -> how to build an administrative structure for a planning-era state",
+            "SECOND COMMISSION -> constituted 2005; M. Veerappa Moily; fifteen reports, 2006 to 2009",
+            "QUESTION ASKED -> how to make an existing structure accountable and technology-enabled"
+          ],
+          "source_references": [
+            "The era contrast that answers a comparison stem"
+          ]
+        },
+        {
+          "title": "Five-status ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PROPOSED -> the report text alone; the commonest error is presenting this as practice",
+            "ACCEPTED IN PRINCIPLE -> a recorded decision with no operative instrument",
+            "NOTIFIED OR ENACTED -> an Act, rule, order or scheme instrument exists",
+            "OPERATIONAL -> institutions, staff, budget and procedure are actually functioning",
+            "EVALUATED -> independent evidence exists on implementation quality and outcome"
+          ],
+          "source_references": [
+            "The five-status ladder"
+          ]
+        },
+        {
+          "title": "The ladder written as one sentence",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "STEP 1 -> the commission recommended the measure",
+            "STEP 2 -> the government accepted it in principle",
+            "STEP 3 -> the operative instrument is the named later Act, rule or scheme",
+            "STEP 4 -> whether it functions as intended has not been independently evaluated"
+          ],
+          "source_references": [
+            "Writing the ladder as a sentence"
+          ]
+        },
+        {
+          "title": "Routing table, reports one to eight",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "1 RIGHT TO INFORMATION -> transparency and accountability owner",
+            "2 UNLOCKING HUMAN CAPITAL -> policy design and implementation owner",
+            "3 CRISIS MANAGEMENT -> Paper-III disaster-management space; cross-reference only",
+            "4 ETHICS IN GOVERNANCE -> institutional accountability owners; personal probity is Ethics",
+            "5 PUBLIC ORDER -> Paper-III internal-security space; cross-reference only",
+            "6 LOCAL GOVERNANCE -> local governance and service delivery owner",
+            "7 CAPACITY BUILDING FOR CONFLICT RESOLUTION -> cross-reference only",
+            "8 COMBATING TERRORISM -> Paper-III internal-security space; cross-reference only"
+          ],
+          "source_references": [
+            "The fifteen reports as a routing table"
+          ]
+        },
+        {
+          "title": "Routing table, reports nine to fifteen",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "9 SOCIAL CAPITAL -> civil-society, self-help-group and non-governmental-organisation owner",
+            "10 REFURBISHING OF PERSONNEL ADMINISTRATION -> civil services and capacity owner",
+            "11 PROMOTING E-GOVERNANCE -> e-governance models and user-centricity owner",
+            "12 CITIZEN-CENTRIC ADMINISTRATION -> citizen-centric administration owner",
+            "13 ORGANISATIONAL STRUCTURE OF GOVERNMENT -> machinery and coordination; Polity cross-link",
+            "14 STRENGTHENING FINANCIAL MANAGEMENT -> public finance and service-delivery tools owner",
+            "15 STATE AND DISTRICT ADMINISTRATION -> local governance and district delivery owner"
+          ],
+          "source_references": [
+            "The fifteen reports as a routing table"
+          ]
+        },
+        {
+          "title": "Nodal department card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "WHAT IT IS -> the nodal Union department for tracking and coordinating follow-up",
+            "WHAT IT DOES -> circulates recommendations, holds institutional memory, coordinates ministries",
+            "WHAT IT CANNOT DO -> compel a line ministry or a State government to implement anything",
+            "CONSEQUENCE -> non-implementation is often an institutional fact, not an attitude"
+          ],
+          "source_references": [
+            "The nodal department and the limits of coordination"
+          ]
+        },
+        {
+          "title": "Diagnosis to outcome chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DIAGNOSIS -> the commission identifies a structural problem",
+            "-> ACCEPTANCE, report by report; failure mode is acceptance in principle with no instrument",
+            "-> INSTRUMENT: an Act, rule, order or scheme must be separately created",
+            "-> FEDERAL STEP: State subjects need State action; a Union acceptance cannot deliver them",
+            "-> CAPACITY, then INCENTIVE: who loses discretion, authority or rent?",
+            "-> OUTCOME: partial adoption, often unattributed and frequently unevaluated"
+          ],
+          "source_references": [
+            "The acceptance-to-outcome chain and the federal step"
+          ]
+        },
+        {
+          "title": "The federal explanation",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "STATE-ACTION REPORTS -> Local Governance; State and District Administration",
+            "PARTLY STATE-ACTION -> much of Refurbishing of Personnel Administration",
+            "MECHANISM -> Union acceptance cannot legislate or staff a State subject",
+            "USE -> explains uneven national adoption without asserting Union indifference"
+          ],
+          "source_references": [
+            "The acceptance-to-outcome chain and the federal step"
+          ]
+        },
+        {
+          "title": "The attribution trap",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "TEMPTATION -> a later reform resembles a report, so the answer claims implementation",
+            "REALITY -> causation is usually unprovable without a sourced acceptance or decision trail",
+            "NAMED RISK -> capacity programmes and State service-guarantee statutes are the usual claims",
+            "CORRECT MOVE -> state thematic continuity, and say that the linkage is not verified"
+          ],
+          "source_references": [
+            "The attribution problem and the datedness objection"
+          ]
+        },
+        {
+          "title": "Datedness objection and reply",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "OBJECTION -> a 2006 to 2009 diagnosis predates population-scale digital infrastructure",
+            "OBJECTION -> it also predates the current data-protection framework and later fiscal design",
+            "REPLY -> the analytical categories have aged far better than the specific prescriptions",
+            "DISCIPLINE -> say which of the two the answer is actually using"
+          ],
+          "source_references": [
+            "The attribution problem and the datedness objection"
+          ]
+        },
+        {
+          "title": "Political economy of adoption",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "COMPREHENSIVE PROGRAMME -> analytically complete and politically indigestible",
+            "INCREMENTAL REFORM -> implementable and incoherent across the system",
+            "COMMISSION FATIGUE -> repeated commissions convert reform into a documented intention",
+            "COST DISTRIBUTION -> concentrated resistance against diffuse benefit decides adoption"
+          ],
+          "source_references": [
+            "Political economy, stakeholders and honest ownership"
+          ]
+        },
+        {
+          "title": "Answer spine for a reform demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the report by title and the governance problem it diagnoses",
+            "BUILD -> route the theme to its destination owner and take the evidence from there",
+            "CORRECT -> attach a status label, then give the federal or incentive reason for the gap",
+            "CLOSE -> graded verdict on continuing relevance with the datedness reply stated"
+          ],
+          "source_references": [
+            "Political economy, stakeholders and honest ownership"
+          ]
+        }
+      ]
+    }
+  ]
+}

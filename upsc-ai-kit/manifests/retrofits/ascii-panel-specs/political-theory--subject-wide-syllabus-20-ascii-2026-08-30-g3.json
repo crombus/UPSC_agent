@@ -1,0 +1,493 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-30",
+  "scope": "Political Theory subject-wide syllabus topic 20",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-20",
+      "title": "Diverse Perspectives on Justice",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g3\\topic-20_Complete-Learning-Session_2026-08-30.md",
+      "source_record": "political-theory-20:learner-v2:g3",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Perspective Map, Stakes and Essential Vocabulary",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Perspective Map, Stakes and Essential Vocabulary",
+            "  [1] Gauba presents rival perspectives on justice rather than one settled formula.",
+            "        |",
+            "        v",
+            "  [2] Rawls, Nozick, Marxism, socialism, anarchism, feminism and communitarianism differ.",
+            "        |",
+            "        v",
+            "  [3] Every doctrine identifies a standard, an object, an institution and a remedy.",
+            "        |",
+            "        v",
+            "  [4] Objects include liberties, offices, holdings, labour, status, voice and common",
+            "      goods.",
+            "        |",
+            "        v",
+            "  [5] Institutions include the state, market, property regime, family and public culture.",
+            "        |",
+            "        v",
+            "  [6] Redistribution, rectification, transformation and recognition are not",
+            "      interchangeable.",
+            "        |",
+            "        v",
+            "  [7] The topic rewards comparison across rule, state, property, equality and community.",
+            "        |",
+            "        v",
+            "  [8] A strong answer names the justice standard before judging an outcome.",
+            "        |",
+            "        v",
+            "VERDICT -> The chapter is comparative by design.",
+            "ANSWER USE -> Name the rival standard of justice first."
+          ]
+        },
+        {
+          "panel_title": "The Eight-Perspective Chapter Spine",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Eight-Perspective Chapter Spine",
+            "  [1] Rawls tests institutions through fair choice and ordered distributive principles.",
+            "        |",
+            "        v",
+            "  [2] Nozick tests holdings through acquisition, transfer and rectification.",
+            "        |",
+            "        v",
+            "  [3] Marxism targets exploitation, surplus value and productive ownership.",
+            "        |",
+            "        v",
+            "  [4] Democratic socialism joins social justice to welfare, liberty and competition.",
+            "        |",
+            "        v",
+            "  [5] Anarchism treats coercive hierarchy and domination as the central danger.",
+            "        |",
+            "        v",
+            "  [6] Feminist justice exposes gendered burdens hidden by formally equal rules.",
+            "        |",
+            "        v",
+            "  [7] Subaltern justice centres dignity, contribution, voice and structural exclusion.",
+            "        |",
+            "        v",
+            "  [8] Communitarianism begins from embedded selves and socially interpreted goods.",
+            "        |",
+            "        v",
+            "VERDICT -> Rawls requires ordered principles, not one slogan.",
+            "ANSWER USE -> State liberty, opportunity and difference in sequence."
+          ]
+        },
+        {
+          "panel_title": "Rawls, Nozick and Controlling Distinctions",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Rawls, Nozick and Controlling Distinctions",
+            "  [1] Rawls does not defend simple equality of outcome.",
+            "        |",
+            "        v",
+            "  [2] Original position and veil of ignorance model fair choice under uncertainty.",
+            "        |",
+            "        v",
+            "  [3] Equal basic liberties come first, then fair opportunity, then difference.",
+            "        |",
+            "        v",
+            "  [4] Primary goods identify the liberties, opportunities and means being distributed.",
+            "        |",
+            "        v",
+            "  [5] Nozick does not deny justice; he denies patterned redistribution as the master test.",
+            "        |",
+            "        v",
+            "  [6] Entitlement theory turns on acquisition, transfer and rectification together.",
+            "        |",
+            "        v",
+            "  [7] Wilt Chamberlain attacks end-state patterning through voluntary exchange.",
+            "        |",
+            "        v",
+            "  [8] The water-source case shows that acquisition is not morally unlimited.",
+            "        |",
+            "        v",
+            "VERDICT -> Nozick's history matters as much as present consent.",
+            "ANSWER USE -> Mention rectification when title history is disputed."
+          ]
+        },
+        {
+          "panel_title": "Thinkers and Rival Standards of Justice",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Thinkers and Rival Standards of Justice",
+            "  [1] Marxist critique targets exploitation, surplus value and productive control.",
+            "        |",
+            "        v",
+            "  [2] Democratic socialism keeps social justice but rejects dictatorship.",
+            "        |",
+            "        v",
+            "  [3] Anarchism values voluntary cooperation while questioning coercive authority.",
+            "        |",
+            "        v",
+            "  [4] Feminist justice tests burdens in property, care, work and representation.",
+            "        |",
+            "        v",
+            "  [5] Gramsci explains how hegemony can make inequality appear consensual.",
+            "        |",
+            "        v",
+            "  [6] Walzer's complex equality blocks dominance across distinct social spheres.",
+            "        |",
+            "        v",
+            "  [7] Sen's capability lens asks what resources enable persons actually to do.",
+            "        |",
+            "        v",
+            "  [8] Fraser's parity lens joins distribution, status and peer participation.",
+            "        |",
+            "        v",
+            "VERDICT -> Socialism divides over freedom, method and state form.",
+            "ANSWER USE -> Separate welfare constitutionalism from centralism."
+          ]
+        },
+        {
+          "panel_title": "Illustrative Cases and Evidence Units",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Illustrative Cases and Evidence Units",
+            "  [1] Wilt Chamberlain tests whether voluntary transfer may upset a pattern.",
+            "        |",
+            "        v",
+            "  [2] The sole water source tests whether acquisition worsens others' position.",
+            "        |",
+            "        v",
+            "  [3] A clean sale after dispossession shows why rectification cannot be omitted.",
+            "        |",
+            "        v",
+            "  [4] Unpaid labour captured in production illustrates the surplus-value critique.",
+            "        |",
+            "        v",
+            "  [5] A neutral rule with unequal care burdens illustrates feminist correction.",
+            "        |",
+            "        v",
+            "  [6] Cash transfers with continuing stigma illustrate mis-recognition.",
+            "        |",
+            "        v",
+            "  [7] Wealth purchasing office or education illustrates cross-sphere dominance.",
+            "        |",
+            "        v",
+            "  [8] Antyodaya is an Indian policy illustration, not proof of one justice theory.",
+            "        |",
+            "        v",
+            "VERDICT -> Anarchism critiques domination, not coordination as such.",
+            "ANSWER USE -> Balance voluntary order with the scale objection."
+          ]
+        },
+        {
+          "panel_title": "The Six-Axis Comparative Matrix",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Six-Axis Comparative Matrix",
+            "  [1] Rule axis: patterned fairness, historical entitlement or anti-domination.",
+            "        |",
+            "        v",
+            "  [2] State axis: redistributive authority, minimal protection or decentralisation.",
+            "        |",
+            "        v",
+            "  [3] Property axis: primary goods, title history or productive control.",
+            "        |",
+            "        v",
+            "  [4] Equality axis: formal treatment, fair opportunity, capability or status parity.",
+            "        |",
+            "        v",
+            "  [5] Community axis: isolated chooser, embedded self or sphere-specific meanings.",
+            "        |",
+            "        v",
+            "  [6] Critique axis: abstraction, history, exploitation, patriarchy or hegemony.",
+            "        |",
+            "        v",
+            "  [7] The same policy can pass one axis while failing another.",
+            "        |",
+            "        v",
+            "  [8] A comparative answer should explain conflict before offering a graded synthesis.",
+            "        |",
+            "        v",
+            "VERDICT -> Formal equality can leave structural subordination intact.",
+            "ANSWER USE -> Show why correction is not identical treatment."
+          ]
+        },
+        {
+          "panel_title": "Trap Repair, Boundaries and PYQ Routes",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Trap Repair, Boundaries and PYQ Routes",
+            "  [1] Trap: Rawls orders principles; he does not permit liberty-for-income trades.",
+            "        |",
+            "        v",
+            "  [2] Trap: Nozick includes rectification; recent consent does not cleanse old injustice.",
+            "        |",
+            "        v",
+            "  [3] Trap: Marxian exploitation is structural, not merely a complaint about low wages.",
+            "        |",
+            "        v",
+            "  [4] Trap: communitarian goods do not license cultural uniformity or silenced dissent.",
+            "        |",
+            "        v",
+            "  [5] Capability and parity are bounded extensions, not Gauba chapter vocabulary.",
+            "        |",
+            "        v",
+            "  [6] Postcolonial and global justice remain routed outside this owner.",
+            "        |",
+            "        v",
+            "  [7] Verified cross-applied PYQs retain their Philosophy Paper II ownership.",
+            "        |",
+            "        v",
+            "  [8] Democratisation, backsliding and movement processes remain Topic 23 bridges.",
+            "        |",
+            "        v",
+            "VERDICT -> Hegemony explains why injustice can appear normal.",
+            "ANSWER USE -> Link subaltern critique to public meaning and reward."
+          ]
+        },
+        {
+          "panel_title": "Revision Spine and Directive Control",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Revision Spine and Directive Control",
+            "  [1] Revise each perspective through standard, object, institution and remedy.",
+            "        |",
+            "        v",
+            "  [2] Define asks for conceptual boundaries before examples.",
+            "        |",
+            "        v",
+            "  [3] Compare requires a common axis and a point of real disagreement.",
+            "        |",
+            "        v",
+            "  [4] Discuss requires claim, support, objection and balanced conclusion.",
+            "        |",
+            "        v",
+            "  [5] Critically examine requires an internal limit, not a decorative criticism.",
+            "        |",
+            "        v",
+            "  [6] Use one evidence unit only after stating the mechanism it illustrates.",
+            "        |",
+            "        v",
+            "  [7] Route the answer through thesis, distinction, objection-reply and verdict.",
+            "        |",
+            "        v",
+            "  [8] Keep quotations paraphrased unless wording and ownership are verified.",
+            "        |",
+            "        v",
+            "VERDICT -> Community meanings qualify but do not abolish justice.",
+            "ANSWER USE -> Use Walzer to block one sphere dominating another."
+          ]
+        },
+        {
+          "panel_title": "Argument Reconstruction and Objection-Reply Chains",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Argument Reconstruction and Objection-Reply Chains",
+            "  [1] Rawls objection: abstract choice may understate history and social identity.",
+            "        |",
+            "        v",
+            "  [2] Rawls reply: the device models fair terms, not an empirical bargaining meeting.",
+            "        |",
+            "        v",
+            "  [3] Nozick objection: title history may be unknowable and background power unequal.",
+            "        |",
+            "        v",
+            "  [4] Nozick reply: uncertainty strengthens the need for rectification rather than",
+            "      patterning.",
+            "        |",
+            "        v",
+            "  [5] Marxist objection: centralised transformation may threaten liberty and opposition.",
+            "        |",
+            "        v",
+            "  [6] Anarchist objection: voluntary order faces scale, coordination and enforcement",
+            "      problems.",
+            "        |",
+            "        v",
+            "  [7] Communitarian objection: shared meanings may conceal hierarchy and exclusion.",
+            "        |",
+            "        v",
+            "  [8] Synthesis must preserve distribution, history, status and reviewable power.",
+            "        |",
+            "        v",
+            "VERDICT -> The six-axis grid prevents descriptive overflow.",
+            "ANSWER USE -> Compare rule, state, property, equality, community and critique."
+          ]
+        },
+        {
+          "panel_title": "Indian Applications, Quotation Safety and MCQ Ledger",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Indian Applications, Quotation Safety and MCQ Ledger",
+            "  [1] Antyodaya illustrates targeted public action but proves no single doctrine.",
+            "        |",
+            "        v",
+            "  [2] Indian application should test resources, opportunity, dignity, voice and power.",
+            "        |",
+            "        v",
+            "  [3] The 44th-Amendment property bridge must not be cited as Gauba chapter evidence.",
+            "        |",
+            "        v",
+            "  [4] Capability and parity require explicit supplementary attribution.",
+            "        |",
+            "        v",
+            "  [5] Recognition language must remain a bridge rather than an invented chapter owner.",
+            "        |",
+            "        v",
+            "  [6] MCQ labels must preserve narrow distinctions among adjacent standards.",
+            "        |",
+            "        v",
+            "  [7] Current examples require dates and source limits before analytical use.",
+            "        |",
+            "        v",
+            "  [8] Quotation safety means named propositions are preferable to invented wording.",
+            "        |",
+            "        v",
+            "VERDICT -> Supplementary bridges must remain explicitly bounded.",
+            "ANSWER USE -> Tag capability and parity as extensions, not Gauba terms."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Primary goods and capability differ between distributed means and real freedom.",
+            "        |",
+            "        v",
+            "  [2] Original position and veil differ between a choice device and its information rule.",
+            "        |",
+            "        v",
+            "  [3] Liberty, fair opportunity and difference form an ordered Rawlsian sequence.",
+            "        |",
+            "        v",
+            "  [4] Entitlement, self-ownership and minimal state are related but non-identical.",
+            "        |",
+            "        v",
+            "  [5] Wilt, water-source and rectification cases test different historical questions.",
+            "        |",
+            "        v",
+            "  [6] Formal equality, feminist correction and parity test different exclusion mechanisms.",
+            "        |",
+            "        v",
+            "  [7] Embedded self and complex equality address identity and sphere dominance separately.",
+            "        |",
+            "        v",
+            "  [8] Close-option practice should identify the decisive threshold before selecting.",
+            "        |",
+            "        v",
+            "VERDICT -> Cross-application never transfers Philosophy ownership.",
+            "ANSWER USE -> Keep the original Philosophy owner explicit."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Six verified PYQs remain cross-applied under Philosophy ownership.",
+            "        |",
+            "        v",
+            "  [2] Rawls, Nozick, Sen, Plato and Mill route through Social and Political Ideals.",
+            "        |",
+            "        v",
+            "  [3] Political Theory borrows tested questions without claiming primary ownership.",
+            "        |",
+            "        v",
+            "  [4] Original Topic 20 practice must remain distinguishable from transferred PYQs.",
+            "        |",
+            "        v",
+            "  [5] A 10-mark answer needs definition, mechanism, one criticism and a tight verdict.",
+            "        |",
+            "        v",
+            "  [6] A 15-mark answer adds comparison and an objection-reply chain.",
+            "        |",
+            "        v",
+            "  [7] A 20-mark answer integrates rival standards, application and graded synthesis.",
+            "        |",
+            "        v",
+            "  [8] Every conclusion should state which justice dimension the preferred view secures.",
+            "        |",
+            "        v",
+            "VERDICT -> Topic 20 ends where Topic 23's democratic bridges begin.",
+            "ANSWER USE -> Route democratisation and backsliding forward to Topic 23."
+          ]
+        }
+      ]
+    }
+  ]
+}

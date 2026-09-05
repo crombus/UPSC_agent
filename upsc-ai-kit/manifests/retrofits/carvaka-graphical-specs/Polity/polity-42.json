@@ -1,0 +1,1285 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-42",
+  "subject": "Polity",
+  "title": "ANTI DEFECTION LAW",
+  "short_route": "FROM 1967 INSTABILITY TO → GROUNDS AND MEMBER-TYPE RULES → POLITICAL PARTY, LEGISLATURE PARTY → MERGER, DELETED SPLIT AND → PRESIDING-OFFICER PROCESS, NATURAL JUSTICE → RESIGNATION, DISQUALIFICATION AND THE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g4-source\\polity-42_g4-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "0098d267ff5e550d986fe75da678488db03081b41c1cad74e323fa15188b8dc5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FROM 1967 INSTABILITY TO THE 52ND AND 91ST AMENDMENT DESIGN",
+      "structural_type": "defection-amendment-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM 1967 INSTABILITY TO THE 52ND AND 91ST AMENDMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN PARTY-GOVERNMENT STABILITY BE PROTECTED WITHOUT EXTINGUISHING LEGISLATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "1967 DEFECTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMITTEE ON DEFECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "52ND AMENDMENT ACT 1985.",
+          "role": "institution"
+        },
+        {
+          "text": "TENTH SCHEDULE EFFECTIVE 1 MARCH 1985.",
+          "role": "comparison"
+        },
+        {
+          "text": "52ND AMENDMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can party-government stability be protected without extinguishing legislative judgment?",
+        "1967 defections → Committee on Defections → 52nd Amendment Act 1985.",
+        "Tenth Schedule effective 1 March 1985.",
+        "52ND AMENDMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can party-government stability be protected without extinguishing legislative judgment?",
+            "1967 defections → Committee on Defections → 52nd Amendment Act 1985.",
+            "Tenth Schedule effective 1 March 1985.",
+            "52ND AMENDMENT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Articles 101, 102, 190, 191 + Tenth Schedule.",
+            "91ST AMENDMENT split defence deleted",
+            "ministry-size caps",
+            "Articles 75(1B), 164(1B), 361B office disabilities.",
+            "CURRENT PARAGRAPH MAP"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1 definitions",
+            "2 grounds",
+            "3 omitted",
+            "4 merger",
+            "5 presiding exemption"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "6 decision",
+            "7 invalid court bar",
+            "8 rules."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "5 presiding exemption | 6 decision | 7 invalid court bar | 8 rules.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GROUNDS AND MEMBER-TYPE RULES",
+      "structural_type": "member-ground-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GROUNDS AND MEMBER-TYPE RULES",
+          "role": "primary"
+        },
+        {
+          "text": "PARTY MEMBER VOLUNTARILY GIVES UP MEMBERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "OR VOTES/ABSTAINS CONTRARY TO DIRECTION WITHOUT PRIOR PERMISSION, UNLESS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENT MEMBER JOINING A POLITICAL PARTY AFTER ELECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "NO SIX-MONTH WINDOW.",
+          "role": "caution"
+        },
+        {
+          "text": "NOMINATED MEMBER MAY JOIN WITHIN SIX MONTHS FROM TAKING",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINING AFTER THAT PERIOD",
+          "role": "comparison"
+        },
+        {
+          "text": "RAVI S. NAIK (1994) VOLUNTARILY GIVING UP IS WIDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARTY MEMBER voluntarily gives up membership",
+        "OR votes/abstains contrary to direction without prior permission, unless condoned within fifteen days.",
+        "INDEPENDENT MEMBER joining a political party after election → disqualification.",
+        "No six-month window.",
+        "NOMINATED MEMBER may join within six months from taking the seat"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "PARTY MEMBER voluntarily gives up membership",
+          "INDEPENDENT MEMBER joining a political party after election → disqualification.",
+          "NOMINATED MEMBER may join within six months from taking the seat",
+          "Ravi S. Naik (1994) voluntarily giving up is wider than formal resignation and may be inferred from conduct."
+        ],
+        [
+          "OR votes/abstains contrary to direction without prior permission, unless condoned within fifteen days.",
+          "No six-month window.",
+          "joining after that period → disqualification.",
+          "TRAP dissenting speech alone is not automatically paragraph 2(1)(b) voting conduct."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARTY MEMBER voluntarily gives up membership",
+            "OR votes/abstains contrary to direction without prior permission, unless condoned within fifteen days."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INDEPENDENT MEMBER joining a political party after election → disqualification.",
+            "No six-month window."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOMINATED MEMBER may join within six months from taking the seat",
+            "joining after that period → disqualification."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Ravi S. Naik (1994) voluntarily giving up is wider than formal resignation and may be inferred from conduct.",
+            "TRAP dissenting speech alone is not automatically paragraph 2(1)(b) voting conduct."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP dissenting speech alone is not automatically paragraph 2(1)(b) voting conduct.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POLITICAL PARTY, LEGISLATURE PARTY AND THE EXACT WHIP TEST",
+      "structural_type": "party-whip-authority-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POLITICAL PARTY, LEGISLATURE PARTY AND THE EXACT WHIP TEST",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL POLITICAL PARTY PARTY TO WHICH THE MEMBER BELONGS",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGISLATURE PARTY",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSE MEMBERS BELONGING TO THE SAME POLITICAL PARTY.",
+          "role": "evidence"
+        },
+        {
+          "text": "WHIP TEST AUTHORISED PARTY DIRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "VOTE OR ABSTENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO PRIOR PERMISSION",
+          "role": "caution"
+        },
+        {
+          "text": "NO CONDONATION WITHIN FIFTEEN DAYS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ORIGINAL POLITICAL PARTY party to which the member belongs for Schedule purposes.",
+        "LEGISLATURE PARTY",
+        "House members belonging to the same political party.",
+        "WHIP TEST authorised party direction → vote or abstention",
+        "no prior permission → no condonation within fifteen days."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORIGINAL POLITICAL PARTY party to which the member belongs for Schedule purposes.",
+            "LEGISLATURE PARTY"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "House members belonging to the same political party.",
+            "WHIP TEST authorised party direction → vote or abstention"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "no prior permission → no condonation within fifteen days.",
+            "Subhash Desai (2023) the political party, not a legislature-party faction acting alone, authorises the whip/leader for Tenth Schedule purposes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT LAW direction may reach ordinary votes under the text.",
+            "PROPOSAL restrict whips to confidence, no-confidence, Money Bills or core manifesto matters."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROPOSAL restrict whips to confidence, no-confidence, Money Bills or core manifesto matters.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MERGER, DELETED SPLIT AND THE NARROW PRESIDING-OFFICER EXEMPTION",
+      "structural_type": "merger-replacement-diagram",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MERGER, DELETED SPLIT AND THE NARROW PRESIDING-OFFICER EXEMPTION",
+          "role": "primary"
+        },
+        {
+          "text": "PARAGRAPH 3 ONE-THIRD SPLIT DEFENCE OMITTED BY THE 91ST",
+          "role": "outcome"
+        },
+        {
+          "text": "PARAGRAPH 4 ORIGINAL POLITICAL PARTY MERGER + NOT LESS",
+          "role": "caution"
+        },
+        {
+          "text": "PROTECTED CHOICE TO JOIN MERGER OR OPERATE AS SEPARATE",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERPRETIVE CAUTION TWO-THIRDS LEGISLATORS CANNOT BE WRITTEN AS A",
+          "role": "caution"
+        },
+        {
+          "text": "ORIGINAL-PARTY AND DEEMING PROVISIONS REMAIN CENTRAL AND LIVE DISPUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "PARAGRAPH 5 NARROW EXEMPTION FOR SPECIFIED PRESIDING OFFICERS ON",
+          "role": "comparison"
+        },
+        {
+          "text": "SPEAKER NEUTRALITY ASPIRATION DOES NOT CREATE A GENERAL EXEMPTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PARAGRAPH 3 one-third split defence omitted by the 91st Amendment.",
+        "PARAGRAPH 4 original political party merger + not less than two-thirds of legislature party agree",
+        "protected choice to join merger or operate as separate group under the text.",
+        "INTERPRETIVE CAUTION two-thirds legislators cannot be written as a free-standing permission to switch parties",
+        "original-party and deeming provisions remain central and live disputes must be qualified."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARAGRAPH 3 one-third split defence omitted by the 91st Amendment.",
+            "PARAGRAPH 4 original political party merger + not less than two-thirds of legislature party agree"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "protected choice to join merger or operate as separate group under the text.",
+            "INTERPRETIVE CAUTION two-thirds legislators cannot be written as a free-standing permission to switch parties"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "original-party and deeming provisions remain central and live disputes must be qualified.",
+            "PARAGRAPH 5 narrow exemption for specified presiding officers on giving up/rejoining party subject to exact office and timing conditions."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Speaker neutrality aspiration does not create a general exemption for every office-holder.",
+            "PARAGRAPH 3 one-third split defence omitted by the 91st Amendment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Speaker neutrality aspiration does not create a general exemption for every office-holder.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PRESIDING-OFFICER PROCESS, NATURAL JUSTICE AND JUDICIAL REVIEW",
+      "structural_type": "adjudication-review-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRESIDING-OFFICER PROCESS, NATURAL JUSTICE AND JUDICIAL REVIEW",
+          "role": "mechanism"
+        },
+        {
+          "text": "FIRST INSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPEAKER/CHAIRMAN DECIDES; IF THAT OFFICER IS CONCERNED, HOUSE ELECTS",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS PETITION",
+          "role": "mechanism"
+        },
+        {
+          "text": "REASONED DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "SEAT CONSEQUENCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "KIHOTO HOLLOHAN (1992) PRESIDING OFFICER ACTS AS TRIBUNAL; PARAGRAPH",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITED JUDICIAL REVIEW SURVIVES FOR JURISDICTIONAL ERROR, MALA FIDES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIRST INSTANCE",
+        "Speaker/Chairman decides; if that officer is concerned, House elects another member.",
+        "PROCESS petition → maintainability/facts → notice → reply/evidence → hearing",
+        "reasoned decision → seat consequence.",
+        "Kihoto Hollohan (1992) presiding officer acts as tribunal; paragraph 7 invalid for lack of ratification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FIRST INSTANCE",
+            "Speaker/Chairman decides; if that officer is concerned, House elects another member."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PROCESS petition → maintainability/facts → notice → reply/evidence → hearing",
+            "reasoned decision → seat consequence."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kihoto Hollohan (1992) presiding officer acts as tribunal; paragraph 7 invalid for lack of ratification",
+            "limited judicial review survives for jurisdictional error, mala fides and natural justice."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Keisham Meghachandra Singh (2020) absent exceptional circumstances, petitions should ordinarily be decided within three months.",
+            "LIMIT courts ordinarily do not replace the Speaker as first-instance fact finder."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT courts ordinarily do not replace the Speaker as first-instance fact finder.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RESIGNATION, DISQUALIFICATION AND THE 91ST-AMENDMENT OFFICE BARS",
+      "structural_type": "exit-consequence-chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RESIGNATION, DISQUALIFICATION AND THE 91ST-AMENDMENT OFFICE BARS",
+          "role": "primary"
+        },
+        {
+          "text": "CHRONOLOGY ALLEGED DEFECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPEAKER DECISIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "JUDICIAL REVIEW.",
+          "role": "evidence"
+        },
+        {
+          "text": "SHRIMANTH BALASAHEB PATIL (2019) RESIGNATION DOES NOT ERASE ANTECEDENT",
+          "role": "caution"
+        },
+        {
+          "text": "SPEAKER CANNOT ADD AN EXTRA RE-ELECTION BAN BEYOND CONSTITUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT EFFECT LOSS OF HOUSE MEMBERSHIP UNDER ARTICLES 102(2)/191(2).",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICE DISABILITIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHRONOLOGY alleged defection → petition → resignation → Speaker decisions → judicial review.",
+        "Shrimanth Balasaheb Patil (2019) resignation does not erase antecedent disqualification",
+        "Speaker cannot add an extra re-election ban beyond constitutional text.",
+        "DIRECT EFFECT loss of House membership under Articles 102(2)/191(2).",
+        "OFFICE DISABILITIES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHRONOLOGY alleged defection → petition → resignation → Speaker decisions → judicial review.",
+            "Shrimanth Balasaheb Patil (2019) resignation does not erase antecedent disqualification"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Speaker cannot add an extra re-election ban beyond constitutional text.",
+            "DIRECT EFFECT loss of House membership under Articles 102(2)/191(2)."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICE DISABILITIES",
+            "Articles 75(1B), 164(1B), 361B"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "minister/remunerative-political-post bar for the constitutionally defined period.",
+            "Tenth Schedule disqualification is not a criminal conviction or universal public-office ban."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Tenth Schedule disqualification is not a criminal conviction or universal public-office ban.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 17"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CASE-LAW CHRONOLOGY AND CONTROLLED PROPOSITIONS",
+      "structural_type": "case-doctrine-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CASE-LAW CHRONOLOGY AND CONTROLLED PROPOSITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CASE SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "KIHOTO HOLLOHAN (1992)",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULE UPHELD; PARAGRAPH 7 INVALID; REVIEW SURVIVES.",
+          "role": "evidence"
+        },
+        {
+          "text": "RAVI S. NAIK (1994)",
+          "role": "primary"
+        },
+        {
+          "text": "VOLUNTARY GIVING UP MAY BE INFERRED FROM CONDUCT.",
+          "role": "outcome"
+        },
+        {
+          "text": "G. VISWANATHAN (1996)",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPULSION DOES NOT ERASE DEEMED PARTY BELONGING.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CASE SPINE",
+        "Kihoto Hollohan (1992) → Schedule upheld; paragraph 7 invalid; review survives.",
+        "Ravi S. Naik (1994) → voluntary giving up may be inferred from conduct.",
+        "G. Viswanathan (1996) → expulsion does not erase deemed party belonging.",
+        "Rajendra Singh Rana (2007) → inaction cannot protect an unsupported split claim."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CASE SPINE",
+            "Kihoto Hollohan (1992) → Schedule upheld; paragraph 7 invalid; review survives.",
+            "Ravi S. Naik (1994) → voluntary giving up may be inferred from conduct."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "G. Viswanathan (1996) → expulsion does not erase deemed party belonging.",
+            "Rajendra Singh Rana (2007) → inaction cannot protect an unsupported split claim.",
+            "Nabam Rebia (2016) → removal-notice restriction; correctness later referred."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Shrimanth Balasaheb Patil (2019) → resignation does not erase prior defection.",
+            "Keisham Meghachandra Singh (2020) → ordinary three-month outer limit.",
+            "Subhash Desai (2023) → political party authorises whip; institutional roles separated."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "G. Viswanathan (1996) → expulsion does not erase deemed party belonging."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Subhash Desai (2023) → political party authorises whip; institutional roles separated.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DELAY, JUDICIAL REMEDIES AND CURRENT DOCTRINAL CONTROL",
+      "structural_type": "delay-remedy-status-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DELAY, JUDICIAL REMEDIES AND CURRENT DOCTRINAL CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "TENTH SCHEDULE CONTAINS NO EXPRESS DEADLINE.",
+          "role": "caution"
+        },
+        {
+          "text": "JUDICIAL CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "KIHOTO HOLLOHAN (1992)",
+          "role": "evidence"
+        },
+        {
+          "text": "ORDINARILY REVIEW AFTER DECISION.",
+          "role": "primary"
+        },
+        {
+          "text": "RAJENDRA SINGH RANA (2007)",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT MAY CORRECT DISABLING INACTION.",
+          "role": "institution"
+        },
+        {
+          "text": "KEISHAM MEGHACHANDRA SINGH (2020)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Tenth Schedule contains no express deadline.",
+        "JUDICIAL CONTROL",
+        "Kihoto Hollohan (1992) → ordinarily review after decision.",
+        "Rajendra Singh Rana (2007) → court may correct disabling inaction.",
+        "Keisham Meghachandra Singh (2020) → ordinarily three months from filing, absent exceptional circumstances supported by"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Tenth Schedule contains no express deadline.",
+            "JUDICIAL CONTROL",
+            "Kihoto Hollohan (1992) → ordinarily review after decision."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Rajendra Singh Rana (2007) → court may correct disabling inaction.",
+            "Keisham Meghachandra Singh (2020) → ordinarily three months from filing, absent exceptional circumstances supported by reasons.",
+            "Telangana judgment (2025) → case-specific three-month direction."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PENDING DOCTRINE",
+            "Subhash Desai (2023) referred Nabam Rebia (2016) to seven judges.",
+            "No verified later merits ruling by 28 August 2026."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP constitutional silence is not unlimited delay; a judicial norm is not enacted text."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP constitutional silence is not unlimited delay; a judicial norm is not enacted text.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NABAM REBIA (2016) AND SUBHASH DESAI (2023): INSTITUTIONAL ROLES",
+      "structural_type": "institutional-conflict-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NABAM REBIA (2016) AND SUBHASH DESAI (2023)",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONAL ROLES",
+          "role": "outcome"
+        },
+        {
+          "text": "NABAM REBIA (2016)",
+          "role": "comparison"
+        },
+        {
+          "text": "SPEAKER FACING A PENDING REMOVAL NOTICE WAS HELD DISABLED",
+          "role": "evidence"
+        },
+        {
+          "text": "PENDING QUALIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "SUBHASH DESAI (2023) REFERRED CORRECTNESS OF THAT RULE TO",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT WRITE NABAM REBIA (2016) AS FINALLY OVERRULED.",
+          "role": "caution"
+        },
+        {
+          "text": "SUBHASH DESAI (2023) POLITICAL PARTY AUTHORISES WHIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Nabam Rebia (2016)",
+        "Speaker facing a pending removal notice was held disabled from deciding defection petitions.",
+        "PENDING QUALIFICATION",
+        "Subhash Desai (2023) referred correctness of that rule to a seven-judge bench.",
+        "Do not write Nabam Rebia (2016) as finally overruled."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Nabam Rebia (2016)",
+            "Speaker facing a pending removal notice was held disabled from deciding defection petitions.",
+            "PENDING QUALIFICATION",
+            "Subhash Desai (2023) referred correctness of that rule to a seven-judge bench."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Do not write Nabam Rebia (2016) as finally overruled.",
+            "Subhash Desai (2023) political party authorises whip",
+            "Speaker determines party identity for Schedule purpose",
+            "ECI symbol proceeding is separate"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Governor cannot decide intra-party leadership.",
+            "DISTRIBUTED ROLES",
+            "Speaker → defection",
+            "ECI → symbol/order field"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Governor → constitutional functions",
+            "court → review.",
+            "TRAP floor test, symbol dispute and defection petition answer different legal questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "Subhash Desai (2023) referred correctness of that rule to a seven-judge bench.",
+      "answer_line": "TRAP floor test, symbol dispute and defection petition answer different legal questions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DEMOCRATIC BALANCE, COMPARISON AND REFORM CHOICES",
+      "structural_type": "stability-freedom-reform-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEMOCRATIC BALANCE, COMPARISON AND REFORM CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "GAINS REDUCES OPEN FLOOR-CROSSING",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTS MANDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPORTS GOVERNMENT STABILITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "COSTS BROAD WHIP SUPPRESSES DELIBERATION",
+          "role": "primary"
+        },
+        {
+          "text": "SPEAKER INCENTIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGIC DELAY MERGER ENGINEERING",
+          "role": "comparison"
+        },
+        {
+          "text": "RESIGNATION TACTICS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GAINS reduces open floor-crossing",
+        "protects mandate",
+        "supports government stability.",
+        "COSTS broad whip suppresses deliberation",
+        "Speaker incentives"
+      ],
+      "matrix": [
+        [
+          "GAINS reduces open floor-crossing",
+          "protects mandate",
+          "supports government stability.",
+          ""
+        ],
+        [
+          "RPA → statutory grounds/procedure",
+          "privilege → House discipline symbol dispute → ECI field.",
+          "",
+          ""
+        ],
+        [
+          "REFORM OPTIONS narrow whip",
+          "independent tribunal/ECI-advice model",
+          "statutory time limit reasoned public procedure",
+          "neutral presiding-office safeguards."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GAINS reduces open floor-crossing",
+            "protects mandate",
+            "supports government stability.",
+            "COSTS broad whip suppresses deliberation",
+            "Speaker incentives"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "strategic delay merger engineering",
+            "resignation tactics",
+            "weakened committee scrutiny.",
+            "Tenth Schedule → Speaker/Chairman.",
+            "Articles 102(1)/191(1) post-election question → President/Governor on ECI opinion."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RPA → statutory grounds/procedure",
+            "privilege → House discipline symbol dispute → ECI field.",
+            "REFORM OPTIONS narrow whip",
+            "independent tribunal/ECI-advice model",
+            "statutory time limit reasoned public procedure"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "neutral presiding-office safeguards.",
+            "STATUS these are proposals unless enacted or judicially ordered in a particular case."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS these are proposals unless enacted or judicially ordered in a particular case.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 24"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VERIFIED PYQS AND EXECUTABLE ANSWER ARCHITECTURE",
+      "structural_type": "pyq-answer-spine",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VERIFIED PYQS AND EXECUTABLE ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED PYQS",
+          "role": "outcome"
+        },
+        {
+          "text": "2022 PRELIMS Q16",
+          "role": "comparison"
+        },
+        {
+          "text": "NOMINATED-MEMBER WINDOW + NO EXPRESS DECISION TIME-FRAME; ANSWER B.",
+          "role": "caution"
+        },
+        {
+          "text": "2025 PRELIMS Q88",
+          "role": "primary"
+        },
+        {
+          "text": "SPEAKER/CHAIRMAN DECIDER + POLITICAL PARTY APPEARS; ANSWER D.",
+          "role": "outcome"
+        },
+        {
+          "text": "2023 GS-II Q5",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE PRESIDING OFFICERS, IMPARTIALITY AND BEST DEMOCRATIC PRACTICES.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "VERIFIED PYQS",
+        "2022 Prelims Q16 → nominated-member window + no express decision time-frame; answer B.",
+        "2025 Prelims Q88 → Speaker/Chairman decider + political party appears; answer D.",
+        "2023 GS-II Q5 → State presiding officers, impartiality and best democratic practices.",
+        "PRELIMS FILTER member type → conduct → period → threshold → decider → review."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "VERIFIED PYQS",
+          "2025 Prelims Q88 → Speaker/Chairman decider + political party appears; answer D.",
+          "PRELIMS FILTER member type → conduct → period → threshold → decider → review.",
+          "judicial review and delay → resignation/office bars → evaluation → reform."
+        ],
+        [
+          "2022 Prelims Q16 → nominated-member window + no express decision time-frame; answer B.",
+          "2023 GS-II Q5 → State presiding officers, impartiality and best democratic practices.",
+          "MAINS SPINE history → paragraph 2 grounds → paragraph 4 defence → paragraph 6 process",
+          "COMPRESSION retain exact text + one controlling case + mechanism + qualification + verdict."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "VERIFIED PYQS",
+            "2022 Prelims Q16 → nominated-member window + no express decision time-frame; answer B."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2025 Prelims Q88 → Speaker/Chairman decider + political party appears; answer D.",
+            "2023 GS-II Q5 → State presiding officers, impartiality and best democratic practices."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRELIMS FILTER member type → conduct → period → threshold → decider → review.",
+            "MAINS SPINE history → paragraph 2 grounds → paragraph 4 defence → paragraph 6 process"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "judicial review and delay → resignation/office bars → evaluation → reform.",
+            "COMPRESSION retain exact text + one controlling case + mechanism + qualification + verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPRESSION retain exact text + one controlling case + mechanism + qualification + verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC TRAPS, VERIFIED PYQS AND QUALIFIED ANSWER SYNTHESIS",
+      "structural_type": "exam-defection-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC TRAPS, VERIFIED PYQS AND QUALIFIED ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "52ND CREATED",
+          "role": "comparison"
+        },
+        {
+          "text": "91ST TIGHTENED",
+          "role": "evidence"
+        },
+        {
+          "text": "SPLIT DELETED",
+          "role": "primary"
+        },
+        {
+          "text": "MERGER TWO-THIRDS GIVING UP WIDER THAN RESIGNATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT NO WINDOW NOMINATED SIX MONTHS",
+          "role": "caution"
+        },
+        {
+          "text": "CONDONATION FIFTEEN DAYS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "52nd created",
+        "91st tightened",
+        "split deleted",
+        "merger two-thirds giving up wider than resignation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "52nd created",
+            "91st tightened",
+            "split deleted",
+            "merger two-thirds giving up wider than resignation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "independent no window nominated six months",
+            "condonation fifteen days",
+            "Speaker first",
+            "judicial review survives",
+            "defection not crime."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFIED ROUTES",
+            "2022 Prelims → nominated members.",
+            "2025 Prelims → political-party and Tenth Schedule distinction.",
+            "2023 GS-II supporting route → presiding-officer impartiality.",
+            "MAINS SPINE history → grounds/member types → party/whip"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "merger → process/review/delay → resignation/office bars",
+            "institutional conflicts → stability-freedom balance → bounded reform.",
+            "VERDICT stability needs discipline, but democratic legitimacy needs a narrower whip, neutral adjudication and enforceable decision time."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT stability needs discipline, but democratic legitimacy needs a narrower whip, neutral adjudication and enforceable decision time.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 27"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EXCEPTIONS (ONLY ONE SURVIVES)",
+          "role": "outcome"
+        },
+        {
+          "text": "UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "CA HOOKS",
+          "role": "evidence"
+        },
+        {
+          "text": "MAINS ANGLES",
+          "role": "primary"
+        },
+        {
+          "text": "52ND AMENDMENT ACT, 1985 ADDED THE TENTH SCHEDULE (AMENDING",
+          "role": "institution"
+        },
+        {
+          "text": "91ST AMENDMENT ACT, 2003 DELETED THE \"SPLIT\" EXCEPTION (WHICH",
+          "role": "institution"
+        },
+        {
+          "text": "MERGER — WHERE THE ORIGINAL POLITICAL PARTY MERGES AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Exceptions (only ONE survives)",
+            "UPSC Traps",
+            "CA hooks",
+            "Mains angles"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "52nd Amendment Act, 1985 added the Tenth Schedule (amending Arts 101, 102, 190, 191 ) — the",
+            "91st Amendment Act, 2003 deleted the \"split\" exception (which had protected 1/3-strength splits).",
+            "Merger — where the original political party merges and not less than 2/3 of the legislature party agree, engaging paragraph 4's deeming rule;",
+            "Presiding officer who gives up party membership on taking office (dignity of the chair)."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"split\" exception (1/3 members) was REMOVED by the 91st Amendment (2003) — so only merger remains.",
+            "Decided by the Presiding Officer (Speaker/Chairman) of the House.",
+            "Kihoto Hollohan (1992) v. Zachillhu (1992): the SC invalidated paragraph 7's",
+            "House rules provide a petition, notice, evidence and hearing route"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

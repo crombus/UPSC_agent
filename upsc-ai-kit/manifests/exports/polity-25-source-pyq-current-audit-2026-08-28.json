@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-25",
+  "record_id": "polity-25:learner-v2:g5",
+  "audited_on": "2026-08-28",
+  "approval": false,
+  "constitutional_scope": [
+    "Part VIII Articles 239-241",
+    "Articles 239A, 239AA, 239AB and 239B",
+    "Article 240 regulations",
+    "Article 246(4) parliamentary competence"
+  ],
+  "statutory_scope": [
+    "Government of Union Territories Act 1963",
+    "Government of NCT of Delhi Act 1991 and Amendment Act 2023",
+    "Jammu and Kashmir Reorganisation Act 2019 and 2024 business-rule amendments"
+  ],
+  "judgments": [
+    "Government of NCT of Delhi v. Union of India (2018)",
+    "Delhi services judgment (2023)",
+    "K. Lakshminarayanan v. Union of India (2018)",
+    "In Re: Article 370 of the Constitution (2023)"
+  ],
+  "pyqs": [
+    {
+      "year": 2018,
+      "paper": "GS-II",
+      "question": 11,
+      "marks": 15,
+      "words": 250
+    },
+    {
+      "year": 2025,
+      "paper": "GS-II",
+      "question": 4,
+      "marks": 10,
+      "words": 150
+    }
+  ],
+  "current_primary_controls": [
+    "MHA official Union Territory material: eight UTs and three legislature models",
+    "GNCTD Amendment Act 2023 operative as at 28 August 2026",
+    "J&K official Budget 2026-27 evidencing functioning elected government",
+    "Official High Court and jurisdiction portals"
+  ],
+  "qualification": "Officeholders, litigation and status claims are date-bounded; operative statute is not equated with final constitutional validity, and political demands are not treated as enacted law.",
+  "status": "passed"
+}

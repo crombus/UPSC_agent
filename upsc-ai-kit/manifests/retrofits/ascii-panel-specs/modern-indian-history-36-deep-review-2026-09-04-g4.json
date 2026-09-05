@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-36",
+      "display_title": "Janata Interregnum, Indira's Return & Regional Crises",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Janata's rise and fall, 1977-1980",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JANATA PARTY FORMED -> JANUARY 1977 (Congress-O + Jana Sangh + BLD + Socialists)",
+            "ELECTION WON -> MARCH 1977 (330 of 542); MORARJI DESAI becomes PM",
+            "COLLAPSE -> 1979, over the \"dual membership\" (Jana Sangh-RSS) dispute",
+            "CARETAKER -> CHARAN SINGH, from JULY 1979, no confidence vote faced",
+            "MUST REMEMBER: Janata formed in January 1977 and won 330 of 542 seats in March; the 44th",
+            "  Amendment followed in 1978, Charan Singh's July 1979 ministry never faced a confidence vote,",
+            "  Congress (I) won 353 of 529 seats in January 1980, Telugu Desam was founded on 29 March 1982",
+            "  before its 1983 Andhra victory, and the Punjab sequence reached Operation Blue Star in June",
+            "  and Indira Gandhi's assassination on 31 October 1984."
+          ],
+          "source_references": [
+            "Janata's formation, rise and collapse, 1977-1980",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The dual-membership fault line",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "QUESTION -> can a Jana Sangh member also belong to the RSS?",
+            "JANATA'S ANSWER -> never agreed upon inside the governing coalition",
+            "CONSEQUENCE -> Jana Sangh faction exits; government loses its majority",
+            "LESSON -> a negative-unity coalition needs one positive, shared answer"
+          ],
+          "source_references": [
+            "The dual-membership dispute as Janata's structural fault line",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Indira's return, January 1980",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JANATA COLLAPSES -> 1979, Charan Singh caretaker, no confidence vote",
+            "ELECTION -> JANUARY 1980; CONGRESS (I) wins 353 of 529 seats",
+            "READING -> a verdict on JANATA'S FAILURE, not a fresh mandate for Indira",
+            "AFTERMATH -> SANJAY GANDHI dies, JUNE 1980; RAJIV GANDHI enters politics"
+          ],
+          "source_references": [
+            "Indira Gandhi's return to power in 1980",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional parties on the map",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TAMIL NADU -> DMK / AIADMK dominance",
+            "ANDHRA PRADESH -> TELUGU DESAM (N.T. RAMA RAO), sweeps 1983",
+            "WEST BENGAL -> LEFT FRONT (JYOTI BASU), governing continuously from 1977",
+            "JAMMU AND KASHMIR -> Abdullah family politics vs central interference"
+          ],
+          "source_references": [
+            "Regional parties in the 1980s",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The Assam Movement",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "LED BY -> All Assam Students' Union (AASU)",
+            "GRIEVANCE -> illegal migration and the \"foreigner\" question",
+            "FORM -> mass agitation, not a law-and-order episode",
+            "CENTRE'S RESPONSE -> struggled to contain it through the early 1980s"
+          ],
+          "source_references": [
+            "The Assam Movement",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Jammu and Kashmir: the Abdullah pattern",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "LEADERSHIP -> Sheikh Abdullah, then his son Farooq Abdullah",
+            "PATTERN -> elected state governments face repeated central interference",
+            "EFFECT -> corrodes democratic legitimacy at the state level",
+            "RESTRAINT -> this owner records the pattern; it avoids present-day politics"
+          ],
+          "source_references": [
+            "Jammu and Kashmir: the Abdullah leadership pattern",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The Anandpur Sahib Resolution's demands",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "TERRITORIAL -> a claim over Chandigarh",
+            "ECONOMIC -> a fairer share of river waters",
+            "FEDERAL -> a demand for greater state autonomy",
+            "STATUS AT FRAMING -> a negotiable federal-economic charter"
+          ],
+          "source_references": [
+            "The Anandpur Sahib Resolution",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The Punjab escalation ladder",
+          "structural_type": "escalation-flow",
+          "ascii_lines": [
+            "STEP 1 -> Anandpur Sahib Resolution's demands go unsettled",
+            "STEP 2 -> the negotiable political space is vacated",
+            "STEP 3 -> BHINDRANWALE and militancy rise to fill it",
+            "STEP 4 -> OPERATION BLUE STAR, June 1984, Golden Temple, Amritsar"
+          ],
+          "source_references": [
+            "The Punjab crisis: escalation from demand to operation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Operation Blue Star and its aftermath",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "OPERATION BLUE STAR -> JUNE 1984, Golden Temple complex, Amritsar",
+            "INTERVAL -> several months of continued tension",
+            "ASSASSINATION -> INDIRA GANDHI, 31 OCTOBER 1984",
+            "RESTRAINT -> no casualty figures or community characterisation here"
+          ],
+          "source_references": [
+            "Operation Blue Star and Indira Gandhi's assassination",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Comparative engine: five theatres of regional crisis",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "THEATRE      | ACTOR               | ROUTE                   | OUTCOME",
+            "PUNJAB       | Akali Dal/militants | negotiation -> force    | Accord, 1985",
+            "ASSAM        | AASU                | agitation -> negotiation| Accord, 1985",
+            "ANDHRA/WB    | Telugu Desam/Left   | elections               | absorbed",
+            "CLOSE DISTINCTION: The 1980 result is evidence of Janata's collapse but not proof that voters",
+            "  endorsed the Emergency; Telugu Desam's founding in 1982 must not be collapsed into its 1983",
+            "  breakthrough; and the Punjab crisis cannot be reduced to a timeless religious conflict or to",
+            "  one causal actor."
+          ],
+          "source_references": [
+            "Comparative engine across regional crises",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Three historiographical readings of the 1980s",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "POLITICAL-MANAGEMENT -> blames mishandling of federal-economic demands",
+            "NATIONAL-SECURITY -> foregrounds cross-border support for militancy",
+            "FEDERALIST -> blames erosion of state autonomy, misuse of Article 356",
+            "CHANDRA'S CHOICE -> privileges the political-management reading",
+            "EVIDENCE LIMIT: Election results, the 44th Amendment, party records, the Anandpur Sahib",
+            "  Resolution, federal negotiations and regional evidence from Andhra, Assam, Punjab, West",
+            "  Bengal and Jammu and Kashmir must qualify centralised, communal or single-cause narratives."
+          ],
+          "source_references": [
+            "Three historiographical readings of the Punjab crisis",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The delayed-accommodation thesis",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CLAIM -> the 1985 accords resembled what could have been agreed earlier",
+            "EVIDENCE -> the Mizo Accord precedent settled a similar demand",
+            "CONSEQUENCE -> the years in between measure the cost of postponement",
+            "LIMIT -> settlement analysis belongs to the following topic, basic/37"
+          ],
+          "source_references": [
+            "The delayed-accommodation thesis",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

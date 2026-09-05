@@ -1,0 +1,1194 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-07",
+  "subject": "Ethics",
+  "title": "WESTERN MORAL PHILOSOPHERS AND THINKERS",
+  "short_route": "FOUR-LENS DECISION ARCHITECTURE → SOCRATIC EXAMINATION LOOP → PLATO'S SOUL-CITY HARMONY → ARISTOTLE'S VIRTUE AND PROPORTIONALITY → KANTIAN CATEGORICAL IMPERATIVE DECISION → KANT 2024 QUOTATION PROVENANCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-07_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-07-ascii-2026-08-29-g1.json",
+  "ascii_spec_sha256": "bafa867b1c4b6f75251ed3663934ef43556fee22da48e8fa72706f43a8c36360",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR-LENS DECISION ARCHITECTURE",
+      "structural_type": "decision-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-LENS DECISION ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. FOUR-LENS DECISION ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] STATE THE DILEMMA AND IDENTIFY THE GENUINELY COMPETING",
+          "role": "institution"
+        },
+        {
+          "text": "[2] KANT TEST ONE",
+          "role": "primary"
+        },
+        {
+          "text": "FORMULATE AND UNIVERSALISE THE PROPOSED MAXIM.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] KANT TEST TWO",
+          "role": "comparison"
+        },
+        {
+          "text": "ENSURE EVERY AFFECTED PERSON IS TREATED AS AN END.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Four-lens decision architecture",
+        "[1] State the dilemma and identify the genuinely competing values.",
+        "[2] Kant test one: formulate and universalise the proposed maxim.",
+        "[3] Kant test two: ensure every affected person is treated as an end."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Kant test two: ensure every affected person is treated as an end.",
+          "[7] Rawls test: examine the underlying rule from the least-advantaged position."
+        ],
+        [
+          "1. Four-lens decision architecture",
+          "[4] Mill test one: compare benefits, harms, probability, duration and distribution.",
+          "[8] Map convergence and justify a transparent tie-break where theories diverge."
+        ],
+        [
+          "[1] State the dilemma and identify the genuinely competing values.",
+          "[5] Mill test two: ask whether coercion prevents harm or merely enforces preference.",
+          "VERDICT → No single lens is automatically decisive; name convergence and defend the tie-break."
+        ],
+        [
+          "[2] Kant test one: formulate and universalise the proposed maxim.",
+          "[6] Aristotle test: identify the virtues, extremes and context-sensitive proportion.",
+          "ANSWER USE → Use as the opening framework for multi-value dilemmas and Section B case studies."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Four-lens decision architecture",
+            "[1] State the dilemma and identify the genuinely competing values.",
+            "[2] Kant test one: formulate and universalise the proposed maxim."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Kant test two: ensure every affected person is treated as an end.",
+            "[4] Mill test one: compare benefits, harms, probability, duration and distribution.",
+            "[5] Mill test two: ask whether coercion prevents harm or merely enforces preference.",
+            "[6] Aristotle test: identify the virtues, extremes and context-sensitive proportion."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Rawls test: examine the underlying rule from the least-advantaged position.",
+            "[8] Map convergence and justify a transparent tie-break where theories diverge.",
+            "VERDICT → No single lens is automatically decisive; name convergence and defend the tie-break.",
+            "ANSWER USE → Use as the opening framework for multi-value dilemmas and Section B case studies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → No single lens is automatically decisive; name convergence and defend the tie-break.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SOCRATIC EXAMINATION LOOP",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SOCRATIC EXAMINATION LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SOCRATIC EXAMINATION LOOP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PAUSE BEFORE DISCRETION TURNS AN INHERITED ASSUMPTION INTO",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SURFACE THE FACTUAL, MORAL AND IDENTITY-BASED ASSUMPTIONS BEHIND",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ASK WHAT REASONS AND EVIDENCE SUPPORT EACH ASSUMPTION.",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] TEST WHETHER THE REASONS CONTRADICT ANOTHER ACCEPTED PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] INVITE AN AFFECTED CITIZEN OR COLLEAGUE TO SUPPLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Socratic examination loop",
+        "[1] Pause before discretion turns an inherited assumption into official action.",
+        "[2] Surface the factual, moral and identity-based assumptions behind the first view.",
+        "[3] Ask what reasons and evidence support each assumption."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Socratic examination loop",
+            "[1] Pause before discretion turns an inherited assumption into official action.",
+            "[2] Surface the factual, moral and identity-based assumptions behind the first view."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Ask what reasons and evidence support each assumption.",
+            "[4] Test whether the reasons contradict another accepted public principle.",
+            "[5] Invite an affected citizen or colleague to supply a counter-view.",
+            "[6] Identify incentives, ego, prejudice and hierarchy that may distort judgment."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Revise the decision when reasons fail rather than defending sunk authority.",
+            "[8] Record the final reasons so reflection becomes publicly reviewable.",
+            "VERDICT → Socratic reflection becomes administrative ethics only when it produces revisable reasons.",
+            "ANSWER USE → Use for bias, conscience, discretion, consultation and ethical-leadership answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Socratic reflection becomes administrative ethics only when it produces revisable reasons.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PLATO'S SOUL-CITY HARMONY",
+      "structural_type": "parallel-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLATO'S SOUL-CITY HARMONY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. PLATO'S SOUL-CITY HARMONY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] REASON IDENTIFIES THE GOOD AND SHOULD GOVERN THE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SPIRIT SUPPLIES COURAGE AND DISCIPLINED SUPPORT TO RATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] APPETITE SUPPLIES NECESSARY DESIRE BUT MUST NOT CAPTURE",
+          "role": "caution"
+        },
+        {
+          "text": "[4] INNER JUSTICE EXISTS WHEN THE THREE PARTS PERFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RULERS DELIBERATE FOR THE COMMON GOOD RATHER THAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Plato's soul-city harmony",
+        "[1] Reason identifies the good and should govern the individual.",
+        "[2] Spirit supplies courage and disciplined support to rational judgment.",
+        "[3] Appetite supplies necessary desire but must not capture decision-making."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Plato's soul-city harmony",
+            "[1] Reason identifies the good and should govern the individual.",
+            "[2] Spirit supplies courage and disciplined support to rational judgment."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Appetite supplies necessary desire but must not capture decision-making.",
+            "[4] Inner justice exists when the three parts perform ordered functions.",
+            "[5] Rulers deliberate for the common good rather than private appetite.",
+            "[6] Auxiliaries protect the polity under rational and lawful direction."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Producers sustain material life without usurping every public function.",
+            "[8] Modern use requires participation, rights and checks against elite domination.",
+            "VERDICT → Plato supplies an order-and-competence analogy, not a licence for unaccountable technocracy.",
+            "ANSWER USE → Use for Plato, institutional role clarity, self-mastery and merit-with-accountability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Plato supplies an order-and-competence analogy, not a licence for unaccountable technocracy.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARISTOTLE'S VIRTUE AND PROPORTIONALITY MAP",
+      "structural_type": "balance-scale",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARISTOTLE'S VIRTUE AND PROPORTIONALITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. ARISTOTLE'S VIRTUE AND PROPORTIONALITY MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] HUMAN TELOS DIRECTS ETHICS TOWARD EUDAIMONIA OR WHOLE-LIFE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] VIRTUE IS A STABLE DISPOSITION, NOT A SINGLE",
+          "role": "caution"
+        },
+        {
+          "text": "[3] HABITUATION FORMS RELIABLE COURAGE, JUSTICE, TEMPERANCE AND GENEROSITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DEFICIENCY MARKS ONE VICE, SUCH AS COWARDICE OR",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] EXCESS MARKS THE OPPOSITE VICE, SUCH AS RASHNESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Aristotle's virtue and proportionality map",
+        "[1] Human telos directs ethics toward eudaimonia or whole-life flourishing.",
+        "[2] Virtue is a stable disposition, not a single conspicuous good act.",
+        "[3] Habituation forms reliable courage, justice, temperance and generosity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Aristotle's virtue and proportionality map",
+            "[1] Human telos directs ethics toward eudaimonia or whole-life flourishing.",
+            "[2] Virtue is a stable disposition, not a single conspicuous good act."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Habituation forms reliable courage, justice, temperance and generosity.",
+            "[4] Deficiency marks one vice, such as cowardice or negligent inaction.",
+            "[5] Excess marks the opposite vice, such as rashness or punitive over-reaction.",
+            "[6] The mean is relative to circumstances, never a fixed numerical midpoint."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Phronesis identifies the fitting action through trained practical judgment.",
+            "[8] Law, evidence and review prevent practical wisdom becoming arbitrary discretion.",
+            "VERDICT → The virtuous mean is reasoned proportion bounded by law, not compromise at any cost.",
+            "ANSWER USE → Use for proportionality, crowd control, crisis judgment and virtue-ethics questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The virtuous mean is reasoned proportion bounded by law, not compromise at any cost.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "KANTIAN CATEGORICAL IMPERATIVE DECISION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KANTIAN CATEGORICAL IMPERATIVE DECISION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. KANTIAN CATEGORICAL IMPERATIVE DECISION TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] STATE THE MAXIM DESCRIBING WHAT THE OFFICIAL PROPOSES",
+          "role": "institution"
+        },
+        {
+          "text": "[2] IMAGINE THE MAXIM OPERATING AS A UNIVERSAL RULE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST CONTRADICTION IN CONCEPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WOULD UNIVERSAL PRACTICE DESTROY THE INSTITUTION?",
+          "role": "institution"
+        },
+        {
+          "text": "[4] TEST CONTRADICTION IN WILL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Kantian Categorical Imperative decision test",
+        "[1] State the maxim describing what the official proposes and why.",
+        "[2] Imagine the maxim operating as a universal rule for all officials.",
+        "[3] Test contradiction in conception: would universal practice destroy the institution?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Kantian Categorical Imperative decision test",
+            "[1] State the maxim describing what the official proposes and why.",
+            "[2] Imagine the maxim operating as a universal rule for all officials."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test contradiction in conception: would universal practice destroy the institution?",
+            "[4] Test contradiction in will: could a rational person accept that universal world?",
+            "[5] Apply the humanity formula to every affected person's agency and dignity.",
+            "[6] Reject manipulation, coercion or concealment that uses persons merely as means."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Distinguish acting from duty from strategic outward conformity.",
+            "[8] Choose the duty-consistent option and state consequences only as implementation factors.",
+            "VERDICT → Favourable consequences cannot cure an impermissible maxim or instrumental treatment.",
+            "ANSWER USE → Use for honesty, confidentiality, consent, corruption and rights-based dilemmas."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Favourable consequences cannot cure an impermissible maxim or instrumental treatment.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KANT 2024 QUOTATION PROVENANCE LADDER",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KANT 2024 QUOTATION PROVENANCE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. KANT 2024 QUOTATION PROVENANCE LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] UPSC 2024 Q3(C) PRINTS THE LAW-VERSUS-ETHICS GUILT FORMULATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THE WORDING IS ABSENT FROM KANT'S PUBLISHED GROUNDWORK",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LOUIS INFIELD'S 1930 LECTURES ON ETHICS CONTAINS THE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE PASSAGE APPEARS UNDER 'INNOCENCE' ON PRINTED PAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] THE GERMAN RECONSTRUCTION USED BRAUER'S STUDENT NOTEBOOK AS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Kant 2024 quotation provenance ladder",
+        "[1] UPSC 2024 Q3(c) prints the law-versus-ethics guilt formulation.",
+        "[2] The wording is absent from Kant's published Groundwork and mature ethical treatises.",
+        "[3] Louis Infield's 1930 Lectures on Ethics contains the closely matching passage."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Kant 2024 quotation provenance ladder",
+            "[1] UPSC 2024 Q3(c) prints the law-versus-ethics guilt formulation.",
+            "[2] The wording is absent from Kant's published Groundwork and mature ethical treatises."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Louis Infield's 1930 Lectures on Ethics contains the closely matching passage.",
+            "[4] The passage appears under 'Innocence' on printed pages 212-13.",
+            "[5] The German reconstruction used Brauer's student notebook as its principal base.",
+            "[6] Kutzner and Mrongovius notebooks were used for collation and correction."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] UPSC modernises 'harboured the thought' into 'only thinks of doing so.'",
+            "[8] Answer the proposition while identifying it as a student-note-based adapted passage.",
+            "VERDICT → The idea is substantively Kantian, but the printed UPSC sentence is textually adapted.",
+            "ANSWER USE → Use as the provenance box and opening qualification for the 2024 PYQ."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → The idea is substantively Kantian, but the printed UPSC sentence is textually adapted.",
+      "answer_line": "ANSWER USE → Use as the provenance box and opening qualification for the 2024 PYQ.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "UTILITARIAN POLICY CALCULUS",
+      "structural_type": "weighted-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UTILITARIAN POLICY CALCULUS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. UTILITARIAN POLICY CALCULUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY EVERY AFFECTED GROUP, INCLUDING DIFFUSE AND POLITICALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LIST DIRECT, INDIRECT AND OPPORTUNITY BENEFITS RATHER THAN",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LIST PHYSICAL, ECONOMIC, DIGNITY, ECOLOGICAL AND INSTITUTIONAL HARMS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ESTIMATE PROBABILITY AND UNCERTAINTY INSTEAD OF TREATING PROJECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SEPARATE IMMEDIATE EFFECTS FROM CUMULATIVE AND INTERGENERATIONAL CONSEQUENCES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Utilitarian policy calculus",
+        "[1] Identify every affected group, including diffuse and politically weak interests.",
+        "[2] List direct, indirect and opportunity benefits rather than one headline output.",
+        "[3] List physical, economic, dignity, ecological and institutional harms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Utilitarian policy calculus",
+            "[1] Identify every affected group, including diffuse and politically weak interests.",
+            "[2] List direct, indirect and opportunity benefits rather than one headline output."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] List physical, economic, dignity, ecological and institutional harms.",
+            "[4] Estimate probability and uncertainty instead of treating projections as certainties.",
+            "[5] Separate immediate effects from cumulative and intergenerational consequences.",
+            "[6] Test distribution because aggregate gain may conceal concentrated severe loss."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Evaluate both the particular act and the consequences of its general rule.",
+            "[8] Apply rights and harm safeguards before declaring the largest total decisive.",
+            "VERDICT → Aggregation is informative only when uncertainty, distribution and liberty are visible.",
+            "ANSWER USE → Use for cost-benefit policy, triage, infrastructure and resource-allocation answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Aggregation is informative only when uncertainty, distribution and liberty are visible.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MILL'S HARM-PRINCIPLE GATE",
+      "structural_type": "funnel",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MILL'S HARM-PRINCIPLE GATE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. MILL'S HARM-PRINCIPLE GATE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONFIRM WHETHER THE PERSON IS A COMPETENT ADULT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ASK WHETHER THE CONDUCT IS SUBSTANTIALLY SELF-REGARDING.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY CONCRETE OTHER-REGARDING EFFECTS RATHER THAN VAGUE SOCIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SEPARATE DEMONSTRABLE HARM FROM OFFENCE, IMMORALITY CLAIMS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PLACE THE EVIDENTIARY BURDEN FOR COERCION ON THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Mill's harm-principle gate",
+        "[1] Confirm whether the person is a competent adult exercising meaningful agency.",
+        "[2] Ask whether the conduct is substantially self-regarding.",
+        "[3] Identify concrete other-regarding effects rather than vague social dislike."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Mill's harm-principle gate",
+            "[1] Confirm whether the person is a competent adult exercising meaningful agency.",
+            "[2] Ask whether the conduct is substantially self-regarding."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify concrete other-regarding effects rather than vague social dislike.",
+            "[4] Separate demonstrable harm from offence, immorality claims and paternalism.",
+            "[5] Place the evidentiary burden for coercion on the public authority.",
+            "[6] Select the least restrictive effective measure where harm is established."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Protect minority individuality against majoritarian social pressure.",
+            "[8] Review spillovers and evidence because the boundary of harm can change.",
+            "VERDICT → Liberty is presumed; coercion requires demonstrable harm and proportionate means.",
+            "ANSWER USE → Use for speech, lifestyle, surveillance, public health and paternalism questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Liberty is presumed; coercion requires demonstrable harm and proportionate means.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RAWLSIAN LEXICAL-PRIORITY STAIRCASE",
+      "structural_type": "priority-staircase",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RAWLSIAN LEXICAL-PRIORITY STAIRCASE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. RAWLSIAN LEXICAL-PRIORITY STAIRCASE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] BEGIN WITH PERSONS AS FREE AND EQUAL MORAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SECURE A FULLY ADEQUATE EQUAL SCHEME OF BASIC",
+          "role": "primary"
+        },
+        {
+          "text": "[3] REFUSE TO TRADE THOSE LIBERTIES FOR INCOME OR",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] NEXT SECURE FAIR EQUALITY OF OPPORTUNITY FOR OFFICES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TEST SUBSTANTIVE ACCESS, NOT MERELY FORMAL ABSENCE OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Rawlsian lexical-priority staircase",
+        "[1] Begin with persons as free and equal moral agents.",
+        "[2] Secure a fully adequate equal scheme of basic liberties.",
+        "[3] Refuse to trade those liberties for income or administrative efficiency."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Rawlsian lexical-priority staircase",
+            "[1] Begin with persons as free and equal moral agents.",
+            "[2] Secure a fully adequate equal scheme of basic liberties."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Refuse to trade those liberties for income or administrative efficiency.",
+            "[4] Next secure fair equality of opportunity for offices and prospects.",
+            "[5] Test substantive access, not merely formal absence of discrimination.",
+            "[6] Give fair opportunity priority over the difference principle."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Permit inequality only when it benefits the least advantaged.",
+            "[8] Treat efficiency as a separate feasibility consideration constrained by justice.",
+            "VERDICT → The lexical order is liberty, fair opportunity, then the difference principle.",
+            "ANSWER USE → Use to prevent the most common Rawls sequencing error in welfare answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The lexical order is liberty, fair opportunity, then the difference principle.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "VEIL-OF-IGNORANCE POLICY TEST",
+      "structural_type": "policy-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VEIL-OF-IGNORANCE POLICY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. VEIL-OF-IGNORANCE POLICY TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE RULE AFFECTING SOCIETY'S BASIC INSTITUTIONS AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] BRACKET KNOWLEDGE OF THE DESIGNER'S CLASS, IDENTITY, TALENT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY THE PRIMARY GOODS DISTRIBUTED BY THE PROPOSED",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] REASON FROM THE POSSIBILITY OF OCCUPYING ANY AFFECTED",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TEST ACCESS AND BURDEN FROM THE MOST VULNERABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Veil-of-ignorance policy test",
+        "[1] Define the rule affecting society's basic institutions and opportunities.",
+        "[2] Bracket knowledge of the designer's class, identity, talent and eventual position.",
+        "[3] Identify the primary goods distributed by the proposed rule."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Veil-of-ignorance policy test",
+            "[1] Define the rule affecting society's basic institutions and opportunities.",
+            "[2] Bracket knowledge of the designer's class, identity, talent and eventual position."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify the primary goods distributed by the proposed rule.",
+            "[4] Reason from the possibility of occupying any affected social position.",
+            "[5] Test access and burden from the most vulnerable plausible standpoint.",
+            "[6] Compare feasible alternatives rather than declaring one abstract design perfect."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Use reflective equilibrium to revise both principles and considered judgments.",
+            "[8] Publish the fairness rationale, exclusions, evidence and review mechanism.",
+            "VERDICT → The veil is a fairness heuristic for institutional design, not literal ignorance.",
+            "ANSWER USE → Use for subsidy, reservation-adjacent, health, education and algorithmic eligibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The veil is a fairness heuristic for institutional design, not literal ignorance.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DISPLACEMENT-PROJECT FOUR-LENS COMPARISON",
+      "structural_type": "four-column-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISPLACEMENT-PROJECT FOUR-LENS COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. DISPLACEMENT-PROJECT FOUR-LENS COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] STATE THE PUBLIC BENEFITS CLAIMED FOR THE INFRASTRUCTURE",
+          "role": "institution"
+        },
+        {
+          "text": "[2] IDENTIFY CONCENTRATED LIVELIHOOD, CULTURAL AND ECOLOGICAL COSTS TO",
+          "role": "primary"
+        },
+        {
+          "text": "[3] KANT REQUIRES DIGNITY, AGENCY, CONSULTATION AND NON-INSTRUMENTAL TREATMENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MILL COMPARES COMPREHENSIVE LONG-TERM WELFARE RATHER THAN HEADLINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MILL'S HARM PRINCIPLE PLACES THE BURDEN ON COERCIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Displacement-project four-lens comparison",
+        "[1] State the public benefits claimed for the infrastructure project.",
+        "[2] Identify concentrated livelihood, cultural and ecological costs to the community.",
+        "[3] Kant requires dignity, agency, consultation and non-instrumental treatment."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Kant requires dignity, agency, consultation and non-instrumental treatment.",
+          "[7] Rawls asks whether the design genuinely benefits the least advantaged."
+        ],
+        [
+          "11. Displacement-project four-lens comparison",
+          "[4] Mill compares comprehensive long-term welfare rather than headline monetary output.",
+          "[8] Reach conditional approval, redesign or rejection with enforceable safeguards."
+        ],
+        [
+          "[1] State the public benefits claimed for the infrastructure project.",
+          "[5] Mill's harm principle places the burden on coercive displacement.",
+          "VERDICT → Aggregate gain cannot substitute for dignity, proportionality and worst-off protection."
+        ],
+        [
+          "[2] Identify concentrated livelihood, cultural and ecological costs to the community.",
+          "[6] Aristotle tests alternatives, proportion and the administrator's practical wisdom.",
+          "ANSWER USE → Use for dams, mining, border infrastructure and development-versus-rights dilemmas."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Displacement-project four-lens comparison",
+            "[1] State the public benefits claimed for the infrastructure project.",
+            "[2] Identify concentrated livelihood, cultural and ecological costs to the community."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Kant requires dignity, agency, consultation and non-instrumental treatment.",
+            "[4] Mill compares comprehensive long-term welfare rather than headline monetary output.",
+            "[5] Mill's harm principle places the burden on coercive displacement.",
+            "[6] Aristotle tests alternatives, proportion and the administrator's practical wisdom."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Rawls asks whether the design genuinely benefits the least advantaged.",
+            "[8] Reach conditional approval, redesign or rejection with enforceable safeguards.",
+            "VERDICT → Aggregate gain cannot substitute for dignity, proportionality and worst-off protection.",
+            "ANSWER USE → Use for dams, mining, border infrastructure and development-versus-rights dilemmas."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Aggregate gain cannot substitute for dignity, proportionality and worst-off protection.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PROVENANCE-TO-AI-GOVERNANCE BRIDGE",
+      "structural_type": "audit-chain",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PROVENANCE-TO-AI-GOVERNANCE BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. PROVENANCE-TO-AI-GOVERNANCE BRIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] BEGIN WITH THE EXACT OFFICIAL PAPER OR GOVERNMENT-DOCUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SEARCH FOR A PRIMARY TEXT BEFORE ASSIGNING BOOK",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CLASSIFY THE MATERIAL AS DIRECT, ADAPTED, WIDELY ATTRIBUTED",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] ANSWER THE ETHICAL PROPOSITION WITHOUT FABRICATING AUTHORITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MAP PEOPLE FIRST TO KANT ONLY AS AN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Provenance-to-AI-governance bridge",
+        "[1] Begin with the exact official paper or government-document wording.",
+        "[2] Search for a primary text before assigning book, speech or page.",
+        "[3] Classify the material as direct, adapted, widely attributed or unverified."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Provenance-to-AI-governance bridge",
+            "[1] Begin with the exact official paper or government-document wording.",
+            "[2] Search for a primary text before assigning book, speech or page."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Classify the material as direct, adapted, widely attributed or unverified.",
+            "[4] Answer the ethical proposition without fabricating authority.",
+            "[5] Map People First to Kant only as an analytical inference.",
+            "[6] Map Fairness and Equity to Rawls only as an analytical inference."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Map safety, proportion and understandability to Mill, Aristotle and Socrates cautiously.",
+            "[8] End with accountability, human oversight and publicly reviewable reasons.",
+            "VERDICT → Source honesty and explicit inference labels make current-affairs application defensible.",
+            "ANSWER USE → Use for quotation answers and the India AI Governance Guidelines current anchor."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Source honesty and explicit inference labels make current-affairs application defensible.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED COMPARATIVE TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ETHICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed comparative treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "ADMINISTRATIVE APPLICATION",
+          "role": "comparison",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

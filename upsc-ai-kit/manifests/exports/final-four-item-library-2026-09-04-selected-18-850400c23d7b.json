@@ -1,0 +1,4582 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T14:16:57+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\disaster-management-live-status-snapshot-2026-09-04.json",
+    "sha256_before": "d0af40032d3c12e2f56406346a40ec920b1034a103a46798287817e2e3aee416",
+    "sha256_after": "d0af40032d3c12e2f56406346a40ec920b1034a103a46798287817e2e3aee416",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 18,
+  "subjects": {
+    "Disaster Management": 18
+  },
+  "sections": {
+    "Disaster Management — Subject-wide Syllabus": 18
+  },
+  "library_totals": {
+    "file_count": 9784,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1623,
+    "json_count": 3924,
+    "total_bytes": 4241864705,
+    "by_extension": {
+      ".json": 3924,
+      ".md": 1623,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-01",
+      "topic_title": "Concepts, Risk, Resilience and Sendai",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 1,
+      "source_record_id": "disaster-management-01:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "4a1d20a44423623d5c3ff4718e35d1c826af6236d6e9ac6e3473ba4b271fa61e",
+          "output_sha256": "4a1d20a44423623d5c3ff4718e35d1c826af6236d6e9ac6e3473ba4b271fa61e",
+          "source_output_equal": true,
+          "bytes": 619156
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "30a39c05479c689a5c88a04c50eeeba30825aaf5033f4ed7969f16da463ddd28",
+          "output_sha256": "30a39c05479c689a5c88a04c50eeeba30825aaf5033f4ed7969f16da463ddd28",
+          "source_output_equal": true,
+          "bytes": 474022
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "12837a0d8c8557e3b461096407415432e4a29a169ade85fad62a0bfc4a9653f9",
+          "output_sha256": "12837a0d8c8557e3b461096407415432e4a29a169ade85fad62a0bfc4a9653f9",
+          "source_output_equal": true,
+          "bytes": 1855431
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "4d952f0405ce268c63ee8d25c073779467a0dc33e7de22fc3e5c15e9787c67be",
+          "output_sha256": "4d952f0405ce268c63ee8d25c073779467a0dc33e7de22fc3e5c15e9787c67be",
+          "source_output_equal": true,
+          "bytes": 2247542
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "ddbebe7dac6daa2d930f70bb7d56e59846f685428c27fae1156605a86bfce8b8",
+          "output_sha256": "ddbebe7dac6daa2d930f70bb7d56e59846f685428c27fae1156605a86bfce8b8",
+          "source_output_equal": true,
+          "bytes": 1650319
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "3f3951182309da424cd9e8f1000129e93a62b5b19b0ec024cd864163e78f556b",
+          "output_sha256": "3f3951182309da424cd9e8f1000129e93a62b5b19b0ec024cd864163e78f556b",
+          "source_output_equal": true,
+          "bytes": 2780
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "b35932b1bd552e297ca595cb6c0cf1811b5b30528a667a6c9da62dc9bb8400e3",
+          "output_sha256": "b35932b1bd552e297ca595cb6c0cf1811b5b30528a667a6c9da62dc9bb8400e3",
+          "source_output_equal": true,
+          "source_text_sha256": "3f3951182309da424cd9e8f1000129e93a62b5b19b0ec024cd864163e78f556b",
+          "normalized_text_equal": true,
+          "bytes": 55692
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 45,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 84,
+        "solved_practice_workbook": 44,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 44,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10584
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-02",
+      "topic_title": "Indian Legal and Institutional Architecture",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 2,
+      "source_record_id": "disaster-management-02:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "f6eb63501c5a9bc8033ec5c5b41b92921de633d3706bb767c742feb65ef9f380",
+          "output_sha256": "f6eb63501c5a9bc8033ec5c5b41b92921de633d3706bb767c742feb65ef9f380",
+          "source_output_equal": true,
+          "bytes": 629173
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3f33e69256b59cbb63370d7730f85e68c1c5403c9e7a5ba4b3b5d60dbfaa77ee",
+          "output_sha256": "3f33e69256b59cbb63370d7730f85e68c1c5403c9e7a5ba4b3b5d60dbfaa77ee",
+          "source_output_equal": true,
+          "bytes": 478054
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-02\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "629ae472d7ce353b9e18adf26544c942aef11d4ab75b71ad5babe107580c5dc4",
+          "output_sha256": "629ae472d7ce353b9e18adf26544c942aef11d4ab75b71ad5babe107580c5dc4",
+          "source_output_equal": true,
+          "bytes": 1850984
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-02\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c05bcd8d989150bbc4d79b31533f0475773e8a01f59d7c116a18f5fea4b08a7d",
+          "output_sha256": "c05bcd8d989150bbc4d79b31533f0475773e8a01f59d7c116a18f5fea4b08a7d",
+          "source_output_equal": true,
+          "bytes": 2198468
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-02\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9c6df6666be01cbc88249820c2e90e4d75b5f8c2734c930cdd15d136817d076c",
+          "output_sha256": "9c6df6666be01cbc88249820c2e90e4d75b5f8c2734c930cdd15d136817d076c",
+          "source_output_equal": true,
+          "bytes": 1628512
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-02\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b6abb7a3af9da56b99b927d1b9b2b797ffcae6c0b626c049f3019cb9fa5ed7f7",
+          "output_sha256": "b6abb7a3af9da56b99b927d1b9b2b797ffcae6c0b626c049f3019cb9fa5ed7f7",
+          "source_output_equal": true,
+          "bytes": 2906
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-02\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "778a75dcfb4e7230edf1512dc3af57851232e476b28a4ee29fd17257f4ee5417",
+          "output_sha256": "778a75dcfb4e7230edf1512dc3af57851232e476b28a4ee29fd17257f4ee5417",
+          "source_output_equal": true,
+          "source_text_sha256": "b6abb7a3af9da56b99b927d1b9b2b797ffcae6c0b626c049f3019cb9fa5ed7f7",
+          "normalized_text_equal": true,
+          "bytes": 55597
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 92,
+        "solved_practice_workbook": 51,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 92,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 51,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10798
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-03",
+      "topic_title": "Community-Based DRR and Inclusive Protection",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 3,
+      "source_record_id": "disaster-management-03:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-03\\g2\\disaster-management-03_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a88728083b5c7d6326c4b4a6b0cd46cf220bcfdad8afc659d201fb891a859389",
+          "output_sha256": "a88728083b5c7d6326c4b4a6b0cd46cf220bcfdad8afc659d201fb891a859389",
+          "source_output_equal": true,
+          "bytes": 646667
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-03\\g2\\disaster-management-03_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "80b8748559f9541c0de7c599fa524164b0f92d3fbd2ea4d0c4bb591f98ea1ac4",
+          "output_sha256": "80b8748559f9541c0de7c599fa524164b0f92d3fbd2ea4d0c4bb591f98ea1ac4",
+          "source_output_equal": true,
+          "bytes": 502424
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-03\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "58d221a49fe262497149e7de6f01ed3c9584527a222a732015e82ba4bea159b3",
+          "output_sha256": "58d221a49fe262497149e7de6f01ed3c9584527a222a732015e82ba4bea159b3",
+          "source_output_equal": true,
+          "bytes": 1927309
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-03\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "6471c4fdc998294b3461a27f3c40abcbf59dcd83971f9e0e304d0ab2800cdf7d",
+          "output_sha256": "6471c4fdc998294b3461a27f3c40abcbf59dcd83971f9e0e304d0ab2800cdf7d",
+          "source_output_equal": true,
+          "bytes": 2319305
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-03\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "813a4e66935cb8e7a2fc97f2a1d9c0bbe35c24fa8859c51965fd10f0b81773eb",
+          "output_sha256": "813a4e66935cb8e7a2fc97f2a1d9c0bbe35c24fa8859c51965fd10f0b81773eb",
+          "source_output_equal": true,
+          "bytes": 1695926
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-03\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b4e6e69e1f6cd1efb7ab921e4d2737c317b079541a14a1e85f11af10d77ac3a4",
+          "output_sha256": "b4e6e69e1f6cd1efb7ab921e4d2737c317b079541a14a1e85f11af10d77ac3a4",
+          "source_output_equal": true,
+          "bytes": 3005
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-03\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "472ae8af6a6f496ae52e8efcb108025af9268697e8fba30101e3931252fc057c",
+          "output_sha256": "472ae8af6a6f496ae52e8efcb108025af9268697e8fba30101e3931252fc057c",
+          "source_output_equal": true,
+          "source_text_sha256": "b4e6e69e1f6cd1efb7ab921e4d2737c317b079541a14a1e85f11af10d77ac3a4",
+          "normalized_text_equal": true,
+          "bytes": 55893
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 90,
+        "solved_practice_workbook": 52,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 90,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 52,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10710
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-04",
+      "topic_title": "Multi-Hazard Early Warning and Disaster Technology",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 4,
+      "source_record_id": "disaster-management-04:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d87b5b74b6f244c0f76cdefbe49fe308f1e9bb618208fa8543e349c66a25c8cb",
+          "output_sha256": "d87b5b74b6f244c0f76cdefbe49fe308f1e9bb618208fa8543e349c66a25c8cb",
+          "source_output_equal": true,
+          "bytes": 652236
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "95212dd9549f56d3cb2030e36e2510a70820daa5dc1051402f090802917b6e97",
+          "output_sha256": "95212dd9549f56d3cb2030e36e2510a70820daa5dc1051402f090802917b6e97",
+          "source_output_equal": true,
+          "bytes": 506484
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "a79b6cb190d0d1e3841e77ff97bc8fc4956d806560cd6b1f7b9fd9eb7f707adf",
+          "output_sha256": "a79b6cb190d0d1e3841e77ff97bc8fc4956d806560cd6b1f7b9fd9eb7f707adf",
+          "source_output_equal": true,
+          "bytes": 1856836
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "201c17d0487c945549dc4f391944045fd6c439af4592721eefd90ab03eb8b3aa",
+          "output_sha256": "201c17d0487c945549dc4f391944045fd6c439af4592721eefd90ab03eb8b3aa",
+          "source_output_equal": true,
+          "bytes": 2234577
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "e174a7040d8426b5ce6d21067c8388e8cce96f93c73246a978117fe044a203b1",
+          "output_sha256": "e174a7040d8426b5ce6d21067c8388e8cce96f93c73246a978117fe044a203b1",
+          "source_output_equal": true,
+          "bytes": 1628549
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "87743c4d7c58637504b3f81bac12fb0f3e4dbdbc0cacefea9f545693cfa97dca",
+          "output_sha256": "87743c4d7c58637504b3f81bac12fb0f3e4dbdbc0cacefea9f545693cfa97dca",
+          "source_output_equal": true,
+          "bytes": 2869
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "41b5cdfb2b5e3cfb01d29eb2047747fdf15b2ca0a621afd3e63e51cd1919f3ef",
+          "output_sha256": "41b5cdfb2b5e3cfb01d29eb2047747fdf15b2ca0a621afd3e63e51cd1919f3ef",
+          "source_output_equal": true,
+          "source_text_sha256": "87743c4d7c58637504b3f81bac12fb0f3e4dbdbc0cacefea9f545693cfa97dca",
+          "normalized_text_equal": true,
+          "bytes": 55696
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 90,
+        "solved_practice_workbook": 52,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 90,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 52,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10866
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-05",
+      "topic_title": "Earthquake Risk and Resilient Construction",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "disaster-management-05:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "5874eccb5a100b442f21a90c384d2833706030a73793d6710574be42297396ff",
+          "output_sha256": "5874eccb5a100b442f21a90c384d2833706030a73793d6710574be42297396ff",
+          "source_output_equal": true,
+          "bytes": 668710
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "86900ec7d3eeab2084a966af755510692f73fce520202986cb753fb43944c5dc",
+          "output_sha256": "86900ec7d3eeab2084a966af755510692f73fce520202986cb753fb43944c5dc",
+          "source_output_equal": true,
+          "bytes": 521414
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-05\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "28ebbede030b13a2b29c650c7c2cd3749493f59f9ff361e20d19d7ab5d45d918",
+          "output_sha256": "28ebbede030b13a2b29c650c7c2cd3749493f59f9ff361e20d19d7ab5d45d918",
+          "source_output_equal": true,
+          "bytes": 1919479
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-05\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "7e5f8d3f4291d9332324758398f490571a94e066b31a30dfe4c42f60987ecb09",
+          "output_sha256": "7e5f8d3f4291d9332324758398f490571a94e066b31a30dfe4c42f60987ecb09",
+          "source_output_equal": true,
+          "bytes": 2207085
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-05\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "20a70d7dec6d5df5ea8c48fa88b08e2c77496d1aa79f01d56c1010291040efc9",
+          "output_sha256": "20a70d7dec6d5df5ea8c48fa88b08e2c77496d1aa79f01d56c1010291040efc9",
+          "source_output_equal": true,
+          "bytes": 1692470
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-05\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "8cd11431ddabfb2805a1402d6699a7553d2976f0d92ac5194861164905bce20b",
+          "output_sha256": "8cd11431ddabfb2805a1402d6699a7553d2976f0d92ac5194861164905bce20b",
+          "source_output_equal": true,
+          "bytes": 2944
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-05\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "06569f1dd6d47d971f4367b46ef1cc68d38a86c1ea4a5507eec423947ec9f633",
+          "output_sha256": "06569f1dd6d47d971f4367b46ef1cc68d38a86c1ea4a5507eec423947ec9f633",
+          "source_output_equal": true,
+          "source_text_sha256": "8cd11431ddabfb2805a1402d6699a7553d2976f0d92ac5194861164905bce20b",
+          "normalized_text_equal": true,
+          "bytes": 55801
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 47,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 55,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11184
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-06",
+      "topic_title": "Tsunami and Coastal Hazard Management",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 6,
+      "source_record_id": "disaster-management-06:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "61401a627c454f837f37456f20c7b1ef7f8ba31df7bac747af247d999f0c0edf",
+          "output_sha256": "61401a627c454f837f37456f20c7b1ef7f8ba31df7bac747af247d999f0c0edf",
+          "source_output_equal": true,
+          "bytes": 672027
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "ce13f823b82cb779d817ae5b9b65ae949166c2fa52b22f075093302f05525c7c",
+          "output_sha256": "ce13f823b82cb779d817ae5b9b65ae949166c2fa52b22f075093302f05525c7c",
+          "source_output_equal": true,
+          "bytes": 521301
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "c6d3c6829261032ed8dedd1ffe000d2c3f10e979aada4f3cfba129c835c0e2de",
+          "output_sha256": "c6d3c6829261032ed8dedd1ffe000d2c3f10e979aada4f3cfba129c835c0e2de",
+          "source_output_equal": true,
+          "bytes": 1861484
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "22a2733387a05b632bbc263859976060db2ff5a3f2f18bd46e4d46d4b926c6ec",
+          "output_sha256": "22a2733387a05b632bbc263859976060db2ff5a3f2f18bd46e4d46d4b926c6ec",
+          "source_output_equal": true,
+          "bytes": 2259614
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "4a1613acb7ec2312e29dc8fa706479f2cbc0f44d15275f9948764783adf77bfb",
+          "output_sha256": "4a1613acb7ec2312e29dc8fa706479f2cbc0f44d15275f9948764783adf77bfb",
+          "source_output_equal": true,
+          "bytes": 1636845
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "99926464ffb4baaa7bb31a1b6a1f67e0e7b46e9717c44e4de5593669940fb4c0",
+          "output_sha256": "99926464ffb4baaa7bb31a1b6a1f67e0e7b46e9717c44e4de5593669940fb4c0",
+          "source_output_equal": true,
+          "bytes": 2835
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "39bf53c936480e87c20f8d9015b3374dafc2186542a6e9fbae6c1289d403fca8",
+          "output_sha256": "39bf53c936480e87c20f8d9015b3374dafc2186542a6e9fbae6c1289d403fca8",
+          "source_output_equal": true,
+          "source_text_sha256": "99926464ffb4baaa7bb31a1b6a1f67e0e7b46e9717c44e4de5593669940fb4c0",
+          "normalized_text_equal": true,
+          "bytes": 55705
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 95,
+        "solved_practice_workbook": 54,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 95,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 54,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10614
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-07",
+      "topic_title": "Cyclones, Storm Surge and Coastal Preparedness",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 7,
+      "source_record_id": "disaster-management-07:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a5ad9bb89d72ad5bc953cfbe3ab0c899f6638a699e6f09d4047fab7bb3f3cc7b",
+          "output_sha256": "a5ad9bb89d72ad5bc953cfbe3ab0c899f6638a699e6f09d4047fab7bb3f3cc7b",
+          "source_output_equal": true,
+          "bytes": 667655
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "b763631c845c70675636ae842f1b640c003aba586c9e74db9bdf18457a484ffe",
+          "output_sha256": "b763631c845c70675636ae842f1b640c003aba586c9e74db9bdf18457a484ffe",
+          "source_output_equal": true,
+          "bytes": 517666
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-07\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "7ac4dbb2b282222d14cf3b4e08c550956961d54de61352e536a46a4cc5c9d6f3",
+          "output_sha256": "7ac4dbb2b282222d14cf3b4e08c550956961d54de61352e536a46a4cc5c9d6f3",
+          "source_output_equal": true,
+          "bytes": 1908459
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-07\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "7692ffa92d9bd743deb216f9abebd5700f6e83cb6e20989a0b19dca652aa5c59",
+          "output_sha256": "7692ffa92d9bd743deb216f9abebd5700f6e83cb6e20989a0b19dca652aa5c59",
+          "source_output_equal": true,
+          "bytes": 2282907
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-07\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "ced753aeecf90602fa0f7c5f6b86ceffd08ec6f41e9027e7a3a5346884abf624",
+          "output_sha256": "ced753aeecf90602fa0f7c5f6b86ceffd08ec6f41e9027e7a3a5346884abf624",
+          "source_output_equal": true,
+          "bytes": 1670488
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-07\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "9776ccb6adc9f18ca6bcd0957dccdf71ed49bca89f47b425388ad770705962a3",
+          "output_sha256": "9776ccb6adc9f18ca6bcd0957dccdf71ed49bca89f47b425388ad770705962a3",
+          "source_output_equal": true,
+          "bytes": 2908
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-07\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f8d902813dd8b1bbf822336d25f565ff6429c549ada6fb30156b7ce587a80719",
+          "output_sha256": "f8d902813dd8b1bbf822336d25f565ff6429c549ada6fb30156b7ce587a80719",
+          "source_output_equal": true,
+          "source_text_sha256": "9776ccb6adc9f18ca6bcd0957dccdf71ed49bca89f47b425388ad770705962a3",
+          "normalized_text_equal": true,
+          "bytes": 55800
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 92,
+        "solved_practice_workbook": 52,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 92,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 52,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10686
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-08",
+      "topic_title": "Riverine Floods and Urban Flood Resilience",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 8,
+      "source_record_id": "disaster-management-08:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "edc1759aff4f673e1c29b26346fa3b7bcdaf5f0fb0a96b1bb27cd0a102d3721e",
+          "output_sha256": "edc1759aff4f673e1c29b26346fa3b7bcdaf5f0fb0a96b1bb27cd0a102d3721e",
+          "source_output_equal": true,
+          "bytes": 689497
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "e76b571b9e879b69953d354b688d4c465fa2ef5c682f21a460a235a878d2fc00",
+          "output_sha256": "e76b571b9e879b69953d354b688d4c465fa2ef5c682f21a460a235a878d2fc00",
+          "source_output_equal": true,
+          "bytes": 535861
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-08\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "56c2009e0408be5d64a2e6eeeda2ed5cbb44bc551c9fa4f0440fc2030d628ec1",
+          "output_sha256": "56c2009e0408be5d64a2e6eeeda2ed5cbb44bc551c9fa4f0440fc2030d628ec1",
+          "source_output_equal": true,
+          "bytes": 1967718
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-08\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "9d63eef381b48cdbce0359d1b05ff7773bfaac91346a855f95d52e1ae820799e",
+          "output_sha256": "9d63eef381b48cdbce0359d1b05ff7773bfaac91346a855f95d52e1ae820799e",
+          "source_output_equal": true,
+          "bytes": 2349549
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-08\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a1c46572cbeb58622df076e3dee5534d5a22a87908ccc1b647c30e41220faa03",
+          "output_sha256": "a1c46572cbeb58622df076e3dee5534d5a22a87908ccc1b647c30e41220faa03",
+          "source_output_equal": true,
+          "bytes": 1718846
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-08\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b6323031ff9780d26cb010091b16fae3d8be95df16854df3bf291212485fc840",
+          "output_sha256": "b6323031ff9780d26cb010091b16fae3d8be95df16854df3bf291212485fc840",
+          "source_output_equal": true,
+          "bytes": 3114
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-08\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "70f5cb58ded0f2991bec01c3ef8827eb6073c882964490a690d459943bc8cf33",
+          "output_sha256": "70f5cb58ded0f2991bec01c3ef8827eb6073c882964490a690d459943bc8cf33",
+          "source_output_equal": true,
+          "source_text_sha256": "b6323031ff9780d26cb010091b16fae3d8be95df16854df3bf291212485fc840",
+          "normalized_text_equal": true,
+          "bytes": 55926
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 95,
+        "solved_practice_workbook": 55,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 95,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10840
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-09",
+      "topic_title": "Drought, Heat Waves and Slow-Onset Risk",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "disaster-management-09:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "750f39c04204f7af2fffb7a3f5359a64e78175b560a56f8bb724a4d8fccd0f5c",
+          "output_sha256": "750f39c04204f7af2fffb7a3f5359a64e78175b560a56f8bb724a4d8fccd0f5c",
+          "source_output_equal": true,
+          "bytes": 698577
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "83d8c3bc6201c14b958ba4bec3895366bd43bf08e96655a6422808f8c4d0ecf8",
+          "output_sha256": "83d8c3bc6201c14b958ba4bec3895366bd43bf08e96655a6422808f8c4d0ecf8",
+          "source_output_equal": true,
+          "bytes": 541209
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "d01502bad85ab9b048094fff509594a10314f0be97991718c7d618f4c32bd05a",
+          "output_sha256": "d01502bad85ab9b048094fff509594a10314f0be97991718c7d618f4c32bd05a",
+          "source_output_equal": true,
+          "bytes": 1966585
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "32221396261ee3e57ac390b26a9eafd86829627906b9702a0a455c0d3ac0924f",
+          "output_sha256": "32221396261ee3e57ac390b26a9eafd86829627906b9702a0a455c0d3ac0924f",
+          "source_output_equal": true,
+          "bytes": 2315667
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a03b19a1d0a104b72d11c85208fb73bf353142486bc5878e86bff897cdb31b8c",
+          "output_sha256": "a03b19a1d0a104b72d11c85208fb73bf353142486bc5878e86bff897cdb31b8c",
+          "source_output_equal": true,
+          "bytes": 1717581
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "0dd95d1e88a37cbda6ba396173372fe1982cf8fb702b0fc4920619c5d8e9992b",
+          "output_sha256": "0dd95d1e88a37cbda6ba396173372fe1982cf8fb702b0fc4920619c5d8e9992b",
+          "source_output_equal": true,
+          "bytes": 2991
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "ba9a61b30f9f6c0b40a9085fc1c957ebcee86002c9b54b2e84e07009af6e184d",
+          "output_sha256": "ba9a61b30f9f6c0b40a9085fc1c957ebcee86002c9b54b2e84e07009af6e184d",
+          "source_output_equal": true,
+          "source_text_sha256": "0dd95d1e88a37cbda6ba396173372fe1982cf8fb702b0fc4920619c5d8e9992b",
+          "normalized_text_equal": true,
+          "bytes": 55819
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 100,
+        "solved_practice_workbook": 59,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 100,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11102
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-10",
+      "topic_title": "Landslides, Avalanches and GLOF Risk",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 10,
+      "source_record_id": "disaster-management-10:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "7d8d95fcba0551b89728cb5092305f0f759dd5c304507eb662ff405f34f32eb5",
+          "output_sha256": "7d8d95fcba0551b89728cb5092305f0f759dd5c304507eb662ff405f34f32eb5",
+          "source_output_equal": true,
+          "bytes": 710348
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "70988e9c73e71271f7ced3c5e77d0dc820603ee62280d7b1c70480124c121efb",
+          "output_sha256": "70988e9c73e71271f7ced3c5e77d0dc820603ee62280d7b1c70480124c121efb",
+          "source_output_equal": true,
+          "bytes": 554632
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "ff032e247cbe5f107aa662d1eb5a6a316e8e01d2f6c052d66ec9702a1c304c4e",
+          "output_sha256": "ff032e247cbe5f107aa662d1eb5a6a316e8e01d2f6c052d66ec9702a1c304c4e",
+          "source_output_equal": true,
+          "bytes": 1980087
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a63bbe9a0cce8ea43c09d6c9c3db2f4c82767286c4b38e3b80803182d2dbd7ca",
+          "output_sha256": "a63bbe9a0cce8ea43c09d6c9c3db2f4c82767286c4b38e3b80803182d2dbd7ca",
+          "source_output_equal": true,
+          "bytes": 2362671
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7de81c5a6d491e7e361cdd945d625dc31cc0544ea8814a16b562b9f8d8327910",
+          "output_sha256": "7de81c5a6d491e7e361cdd945d625dc31cc0544ea8814a16b562b9f8d8327910",
+          "source_output_equal": true,
+          "bytes": 1744139
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "e1b7217722e40b69aebeadb8aca056ebb31f4921689ddc9fa5a4e070776a4e4f",
+          "output_sha256": "e1b7217722e40b69aebeadb8aca056ebb31f4921689ddc9fa5a4e070776a4e4f",
+          "source_output_equal": true,
+          "bytes": 3074
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "b6bd30d877c673a5620f162498863fa58aaa0208234ce8ee44fc4aa5de374e56",
+          "output_sha256": "b6bd30d877c673a5620f162498863fa58aaa0208234ce8ee44fc4aa5de374e56",
+          "source_output_equal": true,
+          "source_text_sha256": "e1b7217722e40b69aebeadb8aca056ebb31f4921689ddc9fa5a4e070776a4e4f",
+          "normalized_text_equal": true,
+          "bytes": 55910
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 99,
+        "solved_practice_workbook": 57,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 99,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 57,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10816
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-11",
+      "topic_title": "Forest Fire Risk Management",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 11,
+      "source_record_id": "disaster-management-11:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "fb4fd7d9dba687bc42d8be79131d2fdcb5d0fc3de498a0d7186b61ed98d93e65",
+          "output_sha256": "fb4fd7d9dba687bc42d8be79131d2fdcb5d0fc3de498a0d7186b61ed98d93e65",
+          "source_output_equal": true,
+          "bytes": 671152
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "8ba0861a4e060cc9ff525fa9cf9d762711ca05594e8501c665485d18815c721c",
+          "output_sha256": "8ba0861a4e060cc9ff525fa9cf9d762711ca05594e8501c665485d18815c721c",
+          "source_output_equal": true,
+          "bytes": 522004
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-11\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "fa81b15f7d4ba5e8997b5587faaafa1c625b8475502ea01bd23f07b2d64447e5",
+          "output_sha256": "fa81b15f7d4ba5e8997b5587faaafa1c625b8475502ea01bd23f07b2d64447e5",
+          "source_output_equal": true,
+          "bytes": 1929416
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-11\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "ee9d87ed400ac34a253cb5dc674b4d6a52ddcacd17da365c1a329cbe8534b9f3",
+          "output_sha256": "ee9d87ed400ac34a253cb5dc674b4d6a52ddcacd17da365c1a329cbe8534b9f3",
+          "source_output_equal": true,
+          "bytes": 2348435
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-11\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "f1f9d9d0779247f9cb879f95e6e917f28d659184cee3a07f3a113cda57f1de37",
+          "output_sha256": "f1f9d9d0779247f9cb879f95e6e917f28d659184cee3a07f3a113cda57f1de37",
+          "source_output_equal": true,
+          "bytes": 1690430
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-11\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "1bc8ec81cbb6b94cc975cfb4af73dc376adb357f530513f4872423ac736a1307",
+          "output_sha256": "1bc8ec81cbb6b94cc975cfb4af73dc376adb357f530513f4872423ac736a1307",
+          "source_output_equal": true,
+          "bytes": 3124
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-11\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "cd31f0f3985d639a63a4a0a59b4053dbb5c92d55010df52ef86483553ccd2b5d",
+          "output_sha256": "cd31f0f3985d639a63a4a0a59b4053dbb5c92d55010df52ef86483553ccd2b5d",
+          "source_output_equal": true,
+          "source_text_sha256": "1bc8ec81cbb6b94cc975cfb4af73dc376adb357f530513f4872423ac736a1307",
+          "normalized_text_equal": true,
+          "bytes": 55948
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 46,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 54,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 54,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10644
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-12",
+      "topic_title": "Industrial, Chemical, Nuclear and CBRN Emergencies",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 12,
+      "source_record_id": "disaster-management-12:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d1f85a1637b250a21b3e2a4cab9663000cbc8e9e1c98540227c7962956a0513e",
+          "output_sha256": "d1f85a1637b250a21b3e2a4cab9663000cbc8e9e1c98540227c7962956a0513e",
+          "source_output_equal": true,
+          "bytes": 710162
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "612ea0c247a9e6d14ef6396c67857aeb59487733852a781a7c9cb0ee07786896",
+          "output_sha256": "612ea0c247a9e6d14ef6396c67857aeb59487733852a781a7c9cb0ee07786896",
+          "source_output_equal": true,
+          "bytes": 556542
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-12\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "3ef0d3442deee29fe016b2d47bbd839834bff25195a86b2e96a515ac4d9ee67c",
+          "output_sha256": "3ef0d3442deee29fe016b2d47bbd839834bff25195a86b2e96a515ac4d9ee67c",
+          "source_output_equal": true,
+          "bytes": 1937866
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-12\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "8280267766ddd127279777fb77245bcd1cebb56a2397e09f8efb1a0e588a2cec",
+          "output_sha256": "8280267766ddd127279777fb77245bcd1cebb56a2397e09f8efb1a0e588a2cec",
+          "source_output_equal": true,
+          "bytes": 2347979
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-12\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a44e91e1bd2e9d6d614037f74cd2f90e6c92a1179dd523e017ad5aca0e61fbfd",
+          "output_sha256": "a44e91e1bd2e9d6d614037f74cd2f90e6c92a1179dd523e017ad5aca0e61fbfd",
+          "source_output_equal": true,
+          "bytes": 1683129
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-12\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "8ca389fd4519c6b0414ee34c53cd76a529f889028959ad40012a49dbf0e53c92",
+          "output_sha256": "8ca389fd4519c6b0414ee34c53cd76a529f889028959ad40012a49dbf0e53c92",
+          "source_output_equal": true,
+          "bytes": 3178
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-12\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "1e6ac4b61a9b3c347c7cc420ce4f357a3ea06c1ecd1b54442d17420dd237e235",
+          "output_sha256": "1e6ac4b61a9b3c347c7cc420ce4f357a3ea06c1ecd1b54442d17420dd237e235",
+          "source_output_equal": true,
+          "source_text_sha256": "8ca389fd4519c6b0414ee34c53cd76a529f889028959ad40012a49dbf0e53c92",
+          "normalized_text_equal": true,
+          "bytes": 55971
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 44,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 103,
+        "solved_practice_workbook": 63,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 103,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 63,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10716
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-13",
+      "topic_title": "Epidemics and Public Health Emergencies",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 13,
+      "source_record_id": "disaster-management-13:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3f8b487edd2e25c79e0652010cfbfbd1c55b0dbdf5b4af677916f23cef56ea8b",
+          "output_sha256": "3f8b487edd2e25c79e0652010cfbfbd1c55b0dbdf5b4af677916f23cef56ea8b",
+          "source_output_equal": true,
+          "bytes": 686995
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a3760a9f00275e39c1af91b11f9d640a18fa970c4b9595aa7231e1e4f03390a4",
+          "output_sha256": "a3760a9f00275e39c1af91b11f9d640a18fa970c4b9595aa7231e1e4f03390a4",
+          "source_output_equal": true,
+          "bytes": 534326
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-13\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "652449832ac639056b19e4c06d170fc26409d2496b6f30b34903ff1bc7515516",
+          "output_sha256": "652449832ac639056b19e4c06d170fc26409d2496b6f30b34903ff1bc7515516",
+          "source_output_equal": true,
+          "bytes": 1919704
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-13\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "932841813616431865be642192de07bdf0d7d576dd5faee8544cade956d6eb76",
+          "output_sha256": "932841813616431865be642192de07bdf0d7d576dd5faee8544cade956d6eb76",
+          "source_output_equal": true,
+          "bytes": 2327115
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-13\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "e860bea2e7c568c61a286b8058000b18f8f9f122449c58bcc072cbf3ddaac0a2",
+          "output_sha256": "e860bea2e7c568c61a286b8058000b18f8f9f122449c58bcc072cbf3ddaac0a2",
+          "source_output_equal": true,
+          "bytes": 1675714
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-13\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f6d34457463606e748fed0892b837cc9e1f9396b55670d4a0949405a7980e142",
+          "output_sha256": "f6d34457463606e748fed0892b837cc9e1f9396b55670d4a0949405a7980e142",
+          "source_output_equal": true,
+          "bytes": 3097
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-13\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "a194a4a2739f0ccb87887d45123e9719ce559dd43d2e397592f7ab50fe64d68e",
+          "output_sha256": "a194a4a2739f0ccb87887d45123e9719ce559dd43d2e397592f7ab50fe64d68e",
+          "source_output_equal": true,
+          "source_text_sha256": "f6d34457463606e748fed0892b837cc9e1f9396b55670d4a0949405a7980e142",
+          "normalized_text_equal": true,
+          "bytes": 55887
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 96,
+        "solved_practice_workbook": 55,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 96,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10814
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-14",
+      "topic_title": "Urban and Critical Infrastructure Resilience",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 14,
+      "source_record_id": "disaster-management-14:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "6aad9545fea1d7923778960a9a6fad5d4b48265f67169636bce1d6e251b352f1",
+          "output_sha256": "6aad9545fea1d7923778960a9a6fad5d4b48265f67169636bce1d6e251b352f1",
+          "source_output_equal": true,
+          "bytes": 705207
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "396c3d8348fe60cff2499d9892249e2f2e0dd1ebd02031b4703af3d5e513fec3",
+          "output_sha256": "396c3d8348fe60cff2499d9892249e2f2e0dd1ebd02031b4703af3d5e513fec3",
+          "source_output_equal": true,
+          "bytes": 549427
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-14\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "c717cb20d03041424f135124a798ae7d98a6d6be126a9e6a89603bfee918cdcd",
+          "output_sha256": "c717cb20d03041424f135124a798ae7d98a6d6be126a9e6a89603bfee918cdcd",
+          "source_output_equal": true,
+          "bytes": 1858208
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-14\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "d0aad5fc917dc5a9019105e3c7fa8740510f3825a4bea52baf6379f22c1abc31",
+          "output_sha256": "d0aad5fc917dc5a9019105e3c7fa8740510f3825a4bea52baf6379f22c1abc31",
+          "source_output_equal": true,
+          "bytes": 2238135
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-14\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "c57e0772197736fdc01091a3a0364075c1c094f11d808faa72cee3524eeb5183",
+          "output_sha256": "c57e0772197736fdc01091a3a0364075c1c094f11d808faa72cee3524eeb5183",
+          "source_output_equal": true,
+          "bytes": 1609631
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-14\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "7f25a3a9e5a600ad6aa3d322cca6a59f48e6beefdde3d14e2c8a3a7384dc9bc4",
+          "output_sha256": "7f25a3a9e5a600ad6aa3d322cca6a59f48e6beefdde3d14e2c8a3a7384dc9bc4",
+          "source_output_equal": true,
+          "bytes": 2968
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-14\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "84fba2cd534cfa6a6411ed718ec8139517ce8858755c9f8aa496dc858442d3ad",
+          "output_sha256": "84fba2cd534cfa6a6411ed718ec8139517ce8858755c9f8aa496dc858442d3ad",
+          "source_output_equal": true,
+          "source_text_sha256": "7f25a3a9e5a600ad6aa3d322cca6a59f48e6beefdde3d14e2c8a3a7384dc9bc4",
+          "normalized_text_equal": true,
+          "bytes": 55769
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 99,
+        "solved_practice_workbook": 58,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 99,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 58,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10740
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-15",
+      "topic_title": "Climate Risk, Adaptation and Loss and Damage",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "disaster-management-15:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "7b9b319634b453544d29c612972984fa7228d25141ce5ecc0736f9f1af7a82af",
+          "output_sha256": "7b9b319634b453544d29c612972984fa7228d25141ce5ecc0736f9f1af7a82af",
+          "source_output_equal": true,
+          "bytes": 696514
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3ec8d1591885299419d2a5dcc1018208ffc206a75233bdbab82d643c27809b19",
+          "output_sha256": "3ec8d1591885299419d2a5dcc1018208ffc206a75233bdbab82d643c27809b19",
+          "source_output_equal": true,
+          "bytes": 545987
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-15\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "ed3c98b2bd16e9e923b4dc20363bbb189c42d877513c8b7830ace8c782f7c9bf",
+          "output_sha256": "ed3c98b2bd16e9e923b4dc20363bbb189c42d877513c8b7830ace8c782f7c9bf",
+          "source_output_equal": true,
+          "bytes": 1894927
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-15\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f7ebcf1198007f7d48ef2af298f1c236a7854aa56dd1ec5af8aaf126724d9838",
+          "output_sha256": "f7ebcf1198007f7d48ef2af298f1c236a7854aa56dd1ec5af8aaf126724d9838",
+          "source_output_equal": true,
+          "bytes": 2252493
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-15\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "46e7dd1e672582e58081681d80bbdc2d482e4db3ce1efcbb229f19db22e9f75c",
+          "output_sha256": "46e7dd1e672582e58081681d80bbdc2d482e4db3ce1efcbb229f19db22e9f75c",
+          "source_output_equal": true,
+          "bytes": 1642788
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-15\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "dfe8e5b45b74280535b0e20bc911cfcad651772420f70d9de18f8c64a03aaacb",
+          "output_sha256": "dfe8e5b45b74280535b0e20bc911cfcad651772420f70d9de18f8c64a03aaacb",
+          "source_output_equal": true,
+          "bytes": 2959
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-15\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "35359015b8bb461db5586f02577ec3c096afdf6df4d9f9ca5c37687def620833",
+          "output_sha256": "35359015b8bb461db5586f02577ec3c096afdf6df4d9f9ca5c37687def620833",
+          "source_output_equal": true,
+          "source_text_sha256": "dfe8e5b45b74280535b0e20bc911cfcad651772420f70d9de18f8c64a03aaacb",
+          "normalized_text_equal": true,
+          "bytes": 55755
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 99,
+        "solved_practice_workbook": 59,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 99,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10894
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-16",
+      "topic_title": "Disaster Finance, Risk Transfer and Build Back Better",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 16,
+      "source_record_id": "disaster-management-16:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a36c34195726d731907a09dc22745fb807ed313728b590191339268c5a3b436c",
+          "output_sha256": "a36c34195726d731907a09dc22745fb807ed313728b590191339268c5a3b436c",
+          "source_output_equal": true,
+          "bytes": 693914
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "5aa6189aa56f8b1eb7730c49a0908408e20516f3aa64066c4b9543e956237788",
+          "output_sha256": "5aa6189aa56f8b1eb7730c49a0908408e20516f3aa64066c4b9543e956237788",
+          "source_output_equal": true,
+          "bytes": 535562
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-16\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "3fc2b57f9a07b1724c5988ad845fe1371ba06ea74868d5d9172f645c6fe32f86",
+          "output_sha256": "3fc2b57f9a07b1724c5988ad845fe1371ba06ea74868d5d9172f645c6fe32f86",
+          "source_output_equal": true,
+          "bytes": 1892722
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-16\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c246dbb0f4eb31aa86482a32cc6b6ebaa95dcf84e443f5ce8aef6d4e0780093d",
+          "output_sha256": "c246dbb0f4eb31aa86482a32cc6b6ebaa95dcf84e443f5ce8aef6d4e0780093d",
+          "source_output_equal": true,
+          "bytes": 2239405
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-16\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "b0b99fa4749f60c8d919dda45bccc652a5a8ca028073bdb186b9b6dbe879e0b1",
+          "output_sha256": "b0b99fa4749f60c8d919dda45bccc652a5a8ca028073bdb186b9b6dbe879e0b1",
+          "source_output_equal": true,
+          "bytes": 1647421
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-16\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "cc85048efce5d6bc07bd31224b14eaf67c63516c204895942c33903397583b9c",
+          "output_sha256": "cc85048efce5d6bc07bd31224b14eaf67c63516c204895942c33903397583b9c",
+          "source_output_equal": true,
+          "bytes": 2883
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-16\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "c9ac5330aa1cc27dfc376c7ae650a0962ea367199cbbf18d476d70b059018e6a",
+          "output_sha256": "c9ac5330aa1cc27dfc376c7ae650a0962ea367199cbbf18d476d70b059018e6a",
+          "source_output_equal": true,
+          "source_text_sha256": "cc85048efce5d6bc07bd31224b14eaf67c63516c204895942c33903397583b9c",
+          "normalized_text_equal": true,
+          "bytes": 55613
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 47,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 47,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 97,
+        "solved_practice_workbook": 55,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 97,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10930
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-17",
+      "topic_title": "Humanitarian Logistics, Relief, Rehabilitation and Recovery",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 17,
+      "source_record_id": "disaster-management-17:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-17\\g2\\disaster-management-17_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "bdebbe0d2ffe9c08afde0a766dd6781e89423b2cba46294032cb9632a9f1028d",
+          "output_sha256": "bdebbe0d2ffe9c08afde0a766dd6781e89423b2cba46294032cb9632a9f1028d",
+          "source_output_equal": true,
+          "bytes": 699704
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-17\\g2\\disaster-management-17_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "8632efa6fcb4c60589557da803915b739b9f041ce787aa305e0922949b59b810",
+          "output_sha256": "8632efa6fcb4c60589557da803915b739b9f041ce787aa305e0922949b59b810",
+          "source_output_equal": true,
+          "bytes": 547933
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-17\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "0a07e9ce9cdfae3d9258855db81f8d8bf3c2f584b9fddb7872c30a73b4e58ef5",
+          "output_sha256": "0a07e9ce9cdfae3d9258855db81f8d8bf3c2f584b9fddb7872c30a73b4e58ef5",
+          "source_output_equal": true,
+          "bytes": 1850769
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-17\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "59676b9d72f3ccfec7b7dc8c0925c848481c12fc707c30c53d32d891a3635791",
+          "output_sha256": "59676b9d72f3ccfec7b7dc8c0925c848481c12fc707c30c53d32d891a3635791",
+          "source_output_equal": true,
+          "bytes": 2303133
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-17\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "669087a7112a034d4abc60aade4af3ccbacd6d74a87668ff97d02f22feae9795",
+          "output_sha256": "669087a7112a034d4abc60aade4af3ccbacd6d74a87668ff97d02f22feae9795",
+          "source_output_equal": true,
+          "bytes": 1604144
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-17\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b2795c958fb595448a446df76b13fa8f20d8dceaf2831cd4e4d7794c6c537442",
+          "output_sha256": "b2795c958fb595448a446df76b13fa8f20d8dceaf2831cd4e4d7794c6c537442",
+          "source_output_equal": true,
+          "bytes": 3071
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-17\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "b3474605b80645fa83181e628e414e911e6987bdb135a193a6c294250ac0d2c2",
+          "output_sha256": "b3474605b80645fa83181e628e414e911e6987bdb135a193a6c294250ac0d2c2",
+          "source_output_equal": true,
+          "source_text_sha256": "b2795c958fb595448a446df76b13fa8f20d8dceaf2831cd4e4d7794c6c537442",
+          "normalized_text_equal": true,
+          "bytes": 55862
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 99,
+        "solved_practice_workbook": 59,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 99,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10482
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "disaster-management-18",
+      "topic_title": "Governance, Capacity and International Cooperation",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 18,
+      "source_record_id": "disaster-management-18:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "778b4c3cf0f1fb8cf31978bbcd596ae9444343c3c5dd4cd4962889a6c51525c5",
+          "output_sha256": "778b4c3cf0f1fb8cf31978bbcd596ae9444343c3c5dd4cd4962889a6c51525c5",
+          "source_output_equal": true,
+          "bytes": 693009
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "da8c0917ef38459ac080dbb64dadcf17c19928bd0e7c747370b00e62d10e1bba",
+          "output_sha256": "da8c0917ef38459ac080dbb64dadcf17c19928bd0e7c747370b00e62d10e1bba",
+          "source_output_equal": true,
+          "bytes": 540671
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-18\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "380aa8cf733f8a43edf2331e8d1e060b25cda40c8637ed71fd7f64131ef6d29b",
+          "output_sha256": "380aa8cf733f8a43edf2331e8d1e060b25cda40c8637ed71fd7f64131ef6d29b",
+          "source_output_equal": true,
+          "bytes": 1912520
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-18\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "b9263abf016f6556dbf8b25ab2db00e2aea8dfcd544c6424f016fdcb8912abf2",
+          "output_sha256": "b9263abf016f6556dbf8b25ab2db00e2aea8dfcd544c6424f016fdcb8912abf2",
+          "source_output_equal": true,
+          "bytes": 2208337
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-18\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "604c26cb9b0647a565651a5286dded61c6ead8151e2217b5c8c30337c4dcbbf8",
+          "output_sha256": "604c26cb9b0647a565651a5286dded61c6ead8151e2217b5c8c30337c4dcbbf8",
+          "source_output_equal": true,
+          "bytes": 1667506
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-18\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f17ce863c18fb65f76131777585377dfc051720ab6bf6d7a4b3160ef89b5a131",
+          "output_sha256": "f17ce863c18fb65f76131777585377dfc051720ab6bf6d7a4b3160ef89b5a131",
+          "source_output_equal": true,
+          "bytes": 3071
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-18\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "799635d48692d2491e799da20d2434702ed7af5cf7e41a7e967a60354888f218",
+          "output_sha256": "799635d48692d2491e799da20d2434702ed7af5cf7e41a7e967a60354888f218",
+          "source_output_equal": true,
+          "source_text_sha256": "f17ce863c18fb65f76131777585377dfc051720ab6bf6d7a4b3160ef89b5a131",
+          "normalized_text_equal": true,
+          "bytes": 55846
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 95,
+        "solved_practice_workbook": 55,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 95,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11152
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

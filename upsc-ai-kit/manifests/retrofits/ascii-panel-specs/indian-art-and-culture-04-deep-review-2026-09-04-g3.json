@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-04",
+      "display_title": "Indo-Islamic and Regional Architecture",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Structural transition",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TRABEATE -> post and lintel",
+            "ARCUATE -> arch, vault and dome",
+            "LIME MORTAR -> stronger wide-span work",
+            "OUTCOME -> coexistence, not replacement",
+            "MUST REMEMBER: Indo-Islamic architecture combines continuing trabeate construction with",
+            "  expanded arcuate geometry, lime mortar, domes, vaults, jaali, calligraphy and regionally",
+            "  adapted Sultanate and Mughal building programmes.",
+            "MUST REMEMBER: Indo-Islamic architecture combines continuing trabeate construction with",
+            "  expanded arcuate geometry, lime mortar, domes, vaults, jaali, calligraphy and regionally",
+            "  adapted Sultanate and Mughal building programmes."
+          ],
+          "source_references": [
+            "Trabeate and arcuate systems",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Synthesis mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ARCUATE KNOWLEDGE -> new structural range",
+            "LOCAL CRAFT -> trabeate skill and motifs",
+            "REGIONAL MATERIAL -> stone, brick and mortar",
+            "BUILDING INDUSTRY -> hybrid results"
+          ],
+          "source_references": [
+            "One hybrid building industry",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ornament identification",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "JAALI -> perforated light screen",
+            "ARABESQUE -> geometric-vegetal continuity",
+            "CHARBAGH -> four-part garden",
+            "PIETRA DURA -> fitted stone inlay"
+          ],
+          "source_references": [
+            "The ornamental grammar",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sultanate classification",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "IMPERIAL -> Slave, Khilji, Tughlaq, Lodi",
+            "BENGAL -> Bangla roof",
+            "JAUNPUR/MALWA -> no universal minar",
+            "BIJAPUR -> bulbous dome experiment"
+          ],
+          "source_references": [
+            "Imperial and provincial classification",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Qutb layered monument",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AIBAK -> begins tower",
+            "ILTUTMISH -> substantial completion",
+            "FIROZ SHAH -> upper repair or rebuilding",
+            "LESSON -> one monument, several reigns"
+          ],
+          "source_references": [
+            "Qutb complex as accretion and reuse",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Spolia evidence boundary",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "INSCRIPTION -> records reused material",
+            "COUNT -> twenty-seven temples at this site",
+            "CLAIM -> specific documented reuse",
+            "PROHIBITION -> no period-wide generalisation"
+          ],
+          "source_references": [
+            "Qutb complex as accretion and reuse",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Provincial climate map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BENGAL -> rain-responsive sloping roof",
+            "MALWA -> windows, pavilions and baulis",
+            "JAUNPUR -> screen facade without minars",
+            "BIJAPUR -> Deccani dome geometry"
+          ],
+          "source_references": [
+            "Bengal and Jaunpur",
+            "Malwa and Bijapur",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mughal material chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AKBAR -> red sandstone mass",
+            "NUR JAHAN/JAHANGIR -> white marble turn",
+            "SHAH JAHAN -> marble and inlay culmination",
+            "LATER -> regional continuation"
+          ],
+          "source_references": [
+            "Akbar's architectural phase",
+            "Marble transition",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fatehpur Sikri boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PLACE -> imperial capital and complex",
+            "IBADAT KHANA -> debate setting",
+            "ARCHITECTURE -> owns spatial evidence",
+            "DOCTRINE -> primary ownership elsewhere"
+          ],
+          "source_references": [
+            "Akbar's architectural phase",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Workshop authorship",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PATRON -> Shah Jahan",
+            "SPECIALISTS -> designers and craftsmen",
+            "WORKSHOP -> collective execution",
+            "VERDICT -> no uncontested sole mastermind",
+            "CLOSE DISTINCTION: Arches and domes were not wholly unknown before 1206 and trabeate work did",
+            "  not disappear; Qutb Minar is an accretive Aibak-Iltutmish-Firoz Shah history, not a",
+            "  one-ruler object.",
+            "CLOSE DISTINCTION: Arches and domes were not wholly unknown before 1206 and trabeate work did",
+            "  not disappear; Qutb Minar is an accretive Aibak-Iltutmish-Firoz Shah history, not a",
+            "  one-ruler object."
+          ],
+          "source_references": [
+            "Taj authorship and workshops",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional continuation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RAJPUT -> jharokha and court display",
+            "SIKH -> chhatri, cornice and onion dome",
+            "AWADH -> mortar and imambara scale",
+            "MARATHA -> terrain-based fort network",
+            "EVIDENCE LIMIT: Imported knowledge, indigenous labour, local material and reuse created hybrid",
+            "  construction industries; Quwwat-ul-Islam's documented spolia is a specific case and cannot",
+            "  be universalised to every building.",
+            "EVIDENCE LIMIT: Imported knowledge, indigenous labour, local material and reuse created hybrid",
+            "  construction industries; Quwwat-ul-Islam's documented spolia is a specific case and cannot",
+            "  be universalised to every building."
+          ],
+          "source_references": [
+            "Rajput, Sikh and Awadh adaptations",
+            "Maratha comparison and answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Indo-Islamic answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> trabeate-arcuate coexistence",
+            "EVIDENCE -> monument, material and workshop",
+            "COMPARE -> provincial and regional solutions",
+            "QUALIFY -> reuse, authorship and terminology"
+          ],
+          "source_references": [
+            "Maratha comparison and answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g2\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-04\\g3\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

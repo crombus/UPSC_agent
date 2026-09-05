@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T10:27:11+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "6a251c393a3473d9ba329481461ef47e9ffb7f39dcc2a1d9603116c322a7aae2",
+    "sha256_after": "6a251c393a3473d9ba329481461ef47e9ffb7f39dcc2a1d9603116c322a7aae2",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9058,
+    "pdf_count": 2327,
+    "png_count": 769,
+    "txt_count": 982,
+    "markdown_count": 1478,
+    "json_count": 3487,
+    "total_bytes": 4106542611,
+    "by_extension": {
+      ".json": 3487,
+      ".md": 1478,
+      ".pdf": 2327,
+      ".png": 769,
+      ".txt": 982,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-15",
+      "topic_title": "Militant Nationalism, Swadeshi & the Partition of Bengal (1905–1908)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "modern-indian-history-15:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a4ad9ae0464a3d88ee9128a7d41ef53dc7b77a2c3ed1fb9d6093ebe0e5509fcc",
+          "output_sha256": "a4ad9ae0464a3d88ee9128a7d41ef53dc7b77a2c3ed1fb9d6093ebe0e5509fcc",
+          "source_output_equal": true,
+          "bytes": 574826
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "571b23f471232445de5e842aad04ff6c76d246e72ae4c5f4f93b8975aa568bd9",
+          "output_sha256": "571b23f471232445de5e842aad04ff6c76d246e72ae4c5f4f93b8975aa568bd9",
+          "source_output_equal": true,
+          "bytes": 446694
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-15\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "dd3349511ceeccae91173522d739f31ee5d95c3f768d68cd9e70df2d571dfb05",
+          "output_sha256": "dd3349511ceeccae91173522d739f31ee5d95c3f768d68cd9e70df2d571dfb05",
+          "source_output_equal": true,
+          "bytes": 2342764
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-15\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c005a06622855c1b6e4491bdfb68352b6f5c12d803f21ac8aa239962b7c0f2e4",
+          "output_sha256": "c005a06622855c1b6e4491bdfb68352b6f5c12d803f21ac8aa239962b7c0f2e4",
+          "source_output_equal": true,
+          "bytes": 2678097
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-15\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "99f8158a029d474b0e43e0231450b46694a2768c3b7b7b5faeeb9b4e774febf6",
+          "output_sha256": "99f8158a029d474b0e43e0231450b46694a2768c3b7b7b5faeeb9b4e774febf6",
+          "source_output_equal": true,
+          "bytes": 2069309
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-15\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "e16ffca56efd638a1735427ef9f478dc860dbbc356da2934647c8e51e867ce14",
+          "output_sha256": "e16ffca56efd638a1735427ef9f478dc860dbbc356da2934647c8e51e867ce14",
+          "source_output_equal": true,
+          "bytes": 5930
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-15\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\15-Militant-Nationalism-459b283d-of-Bengal-1905-1908\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "0b0556c98603072702a876346c39dffb55a0fc3c02959fff39623050387b0e67",
+          "output_sha256": "0b0556c98603072702a876346c39dffb55a0fc3c02959fff39623050387b0e67",
+          "source_output_equal": true,
+          "source_text_sha256": "e16ffca56efd638a1735427ef9f478dc860dbbc356da2934647c8e51e867ce14",
+          "normalized_text_equal": true,
+          "bytes": 58141
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 64,
+        "solved_practice_workbook": 32,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 32,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11314
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

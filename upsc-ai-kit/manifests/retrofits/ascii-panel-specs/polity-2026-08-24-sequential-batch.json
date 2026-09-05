@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "id": "polity-ascii-panel-specs-2026-08-24-sequential-batch",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Sequential learner-v2 additions; topics are appended only after the preceding topic is finalized.",
+  "constraints": {
+    "panels_per_topic": "8-10",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 5,
+  "topics": {
+    "polity-08": {
+      "title": "Directive Principles",
+      "source_record": "polity-08:learner-v2:g2",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+      "quality_review": "Manual review against Articles 36-51, FR-DPSP chronology, Article 31C, implementation, PYQs and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 11,
+      "panels": [
+        {
+          "title": "Part IV's constitutional operating logic",
+          "structural_type": "constitutional-architecture-tree",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 1 — PART IV AS CONSTITUTIONAL ARCHITECTURE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 2 — ARTICLE 37: NON-JUSTICIABILITY, DUTY AND POLITICAL SANCTION"
+          ],
+          "full_text": "PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51\n  |\n  +-- ARTICLE 36: \"STATE\" carries the Part III / Article 12 meaning\n  |     +-- the same public power is restrained by rights and directed toward welfare\n  |\n  +-- ARTICLE 37: THREE-PART CONSTITUTIONAL RULE\n        +-- no court directly enforces a Directive Principle\n        +-- the principles remain fundamental in governance\n        +-- the State has a duty to apply them in making laws\n              |\n              +-- legislation + budget + administration + political accountability\n              +-- interpretation of rights and statutes, without judicial budgeting\n\nCORE DISTINCTION\nnon-justiciable != optional; constitutional duty != an automatic individual remedy."
+        },
+        {
+          "title": "Articles 38-43B: welfare, work and democratic economy",
+          "structural_type": "article-theme-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 3 — COMPLETE ARTICLE-BY-ARTICLE COVERAGE: ARTICLES 38 TO 43B"
+          ],
+          "full_text": "SOCIAL ORDER AND DISTRIBUTION\n  +-- 38(1): welfare through social, economic and political justice\n  +-- 38(2): minimise inequalities in income, status, facilities and opportunities\n  +-- 39(a): adequate livelihood                 39(d): equal pay for equal work\n  +-- 39(b): resources serve common good         39(e): worker / child health\n  +-- 39(c): prevent harmful concentration       39(f): childhood in dignity\n\nACCESS AND SELF-GOVERNMENT\n  +-- 39A: equal justice + free legal aid\n  +-- 40: village panchayats as units of self-government\n\nWORK, SECURITY AND ASSOCIATION\n  +-- 41: work, education and assistance, subject to economic capacity\n  +-- 42: humane work conditions + maternity relief\n  +-- 43: living wage + decent life + rural cottage industries\n  +-- 43A: workers participate in management\n  +-- 43B: voluntary, autonomous, democratic and professional co-operatives"
+        },
+        {
+          "title": "Articles 44-51: reform, capability and constitutional civilisation",
+          "structural_type": "article-comparison-grid",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 4 — COMPLETE ARTICLE-BY-ARTICLE COVERAGE: ARTICLES 44 TO 51"
+          ],
+          "full_text": "REFORM / CAPABILITY                 ECOLOGY / INSTITUTIONS / PEACE\n44  Uniform Civil Code              48A environment, forests and wildlife\n45  care and education below six    49 nationally important monuments and objects\n46  weaker sections; especially     50 judiciary separated from executive\n    Scheduled Castes and Tribes     51(a) international peace and security\n47  nutrition, living standard,     51(b) just and honourable relations\n    public health and prohibition   51(c) international law and treaty obligations\n48  scientific agriculture and      51(d) arbitration of international disputes\n    animal husbandry; cattle rule\n\nCLOSE-OPTION CONTROLS\nArticle 41 contains an economic-capacity limit; Article 46 is not confined to SCs/STs.\nArticle 49 requires declaration by or under Parliamentary law.\nArticle 51 does not make every treaty self-executing in domestic law."
+        },
+        {
+          "title": "Classification and amendment overlays",
+          "structural_type": "classification-amendment-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 5 — CLASSIFICATION: USEFUL SCHOLARSHIP, NOT CONSTITUTIONAL TEXT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 6 — AMENDMENTS THAT CHANGED PART IV"
+          ],
+          "full_text": "ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS\n  +-- SOCIALISTIC: 38, 39, 39A, 41, 42, 43, 43A, 47\n  +-- GANDHIAN: 40, 43, 43B, 46, 47, 48\n  +-- LIBERAL-INTELLECTUAL: 44, 45, 48, 48A, 49, 50, 51\n  +-- OVERLAPS: 43, 46, 47 and 48 resist rigid pigeonholes\n\nAMENDMENT OVERLAY\n42nd, 1976 -> 39(f) recast; 39A, 43A and 48A inserted\n44th, 1978 -> Article 38(2) inserted\n86th, 2002 -> Article 21A inserted; Article 45 recast for children below six\n97th, 2011 -> Article 43B inserted\n\nEXAM RULE\nBegin with the Article's exact text; use categories only as an explanatory aid."
+        },
+        {
+          "title": "FR-DPSP evolution and the surviving Article 31C",
+          "structural_type": "case-law-doctrine-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 7 — FUNDAMENTAL RIGHTS-DPSP CHRONOLOGY: CONFLICT TO HARMONY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 8 — ARTICLE 31C AFTER PROPERTY OWNERS ASSOCIATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 9 — FROM DIRECTIVE TO ENFORCEABLE ENTITLEMENT"
+          ],
+          "full_text": "CHAMPAKAM DORAIRAJAN (1951) -> enforceable Fundamental Rights prevail over conflicting directives\n  |\n1st / 4th / 17th AMENDMENTS -> protective constitutional responses\n  |\nI.C. GOLAKNATH (1967) -> Parliament cannot amend Fundamental Rights\n  |\n1971 24th + 25th AMENDMENTS -> amendment power affirmed; Article 31C created\n  |\nKESAVANANDA BHARATI (1973) -> amend, but do not damage basic structure; first limb of 31C survives\n  |\n1976 42nd -> attempted extension of 31C to every DPSP\n  |\nMINERVA MILLS (1980) -> extension invalid; harmony between Parts III and IV is basic structure\n  |\nPROPERTY OWNERS ASSOCIATION (2024) -> surviving shield remains for genuine 39(b)/(c) laws\n\nCURRENT SCOPE: shield against Articles 14 and 19; nexus and basic structure remain reviewable."
+        },
+        {
+          "title": "Implementation chain: directive to law, institution and outcome",
+          "structural_type": "implementation-accountability-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 10 — IMPLEMENTATION MAP: LAW, INSTITUTION, OUTCOME AND HONEST LIMITS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 11 — ARTICLE 39A, FREE LEGAL AID AND NALSA",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 12 — ORDINARY AND PERMANENT LOK ADALATS"
+          ],
+          "full_text": "DPSP TEXT\n  -> legislature selects instrument and competence\n  -> appropriation funds the programme\n  -> executive creates rules, staff and delivery systems\n  -> courts review legality and interpret rights consistently where possible\n  -> audit, opposition, civil society and elections test outcomes\n\nARTICLE 39A INSTITUTIONAL CHAIN\nNALSA -> State Authorities -> District Authorities -> Taluk Committees\n  +-- section 12 eligibility categories + prescribed income route\n  +-- section 13 prima-facie entitlement control\n\nLOK ADALAT DISTINCTION\nOrdinary Lok Adalat -> settlement only; no merits decision if compromise fails.\nPermanent Lok Adalat -> public utility dispute; conciliation, then bounded merits power.\n\nLIMIT: an implementation law illustrates a directive; it does not exhaust its meaning."
+        },
+        {
+          "title": "Article 44: equality, pluralism and federal legislative design",
+          "structural_type": "ucc-problem-response-tree",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 13 — ARTICLE 44 AND THE UNIFORM CIVIL CODE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 14 — DIRECTIVES OUTSIDE PART IV"
+          ],
+          "full_text": "ARTICLE 44: STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR CITIZENS\n  |\n  +-- LEGISLATIVE BASE: Concurrent List Entry 5\n  +-- CONSTITUTIONAL AIMS: equality, dignity, legal certainty and common citizenship\n  +-- CONSTITUTIONAL LIMITS: religious freedom, cultural pluralism and federal diversity\n  |\n  +-- POSSIBLE ROUTES\n        +-- targeted removal of discriminatory rules\n        +-- optional secular civil-law route\n        +-- harmonised principles with protected diversity\n        +-- comprehensive code with consultation and transition\n\nCURRENT CONTROL\nUttarakhand: 2024 Act commenced 27 Jan 2025.\nJanuary 2026 Ordinance -> Amendment Act published 7 Apr 2026.\nArticle 44 is non-justiciable; judicial observations do not command one model."
+        },
+        {
+          "title": "Criticism, institutional limits and constitutional relevance",
+          "structural_type": "criticism-response-dialectic",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 15 — CRITICISMS, DEFENDERS AND IMPLEMENTATION CONSTRAINTS"
+          ],
+          "full_text": "CRITIQUE                              CONSTITUTIONAL RESPONSE\nno direct judicial remedy             Article 37 creates duty and political sanction\nbroad, unevenly arranged aspirations  breadth permits democratic sequencing and adaptation\nresource-dependent promises           Article 41 admits capacity; budgets expose trade-offs\njudicial overreach risk               interpretation cannot become continuous administration\nCentre-State friction                 competence, finance and institutions condition delivery\nsymbolic compliance                   test law + institution + implementation + outcome\n\nWHY PART IV STILL MATTERS\n  +-- sets the welfare and distributive purpose of public power\n  +-- guides legislation and rights-consistent interpretation\n  +-- supplies standards for democratic accountability\n  +-- restrains laissez-faire indifference and unbounded judicial substitution\n\nBALANCED VERDICT: direction is binding in purpose, flexible in implementation."
+        },
+        {
+          "title": "Prelims traps, PYQ routes and the Mains answer spine",
+          "structural_type": "exam-synthesis-board",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#BASIC MCQS / REMEDIATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#PYQS AND ANSWER PRACTICE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "PRELIMS CONTROL BOARD\n36 -> Part III meaning of State        37 -> no direct enforcement, but duty remains\n39(b) resources / common good          39(c) harmful concentration\n41 -> economic-capacity qualifier      45 -> below six after 86th Amendment\n48A -> environment                     50 -> judiciary-executive separation\n51A -> Fundamental Duties, not DPSP    31C -> only 39(b)/(c); Articles 14 and 19 shield\n\nVERIFIED ROUTES\n2020: Article 50; UDHR reflection; legal aid; welfare State; Part IV force\n2021: concentration of wealth          2023 GS-II: NALSA and legal aid\n2025: constitutional Part matching, official local key verified\n\nMAINS SPINE\n1 define Part IV through Articles 36-37\n2 map exact directive / case / law demanded\n3 explain mechanism and implementation evidence\n4 qualify with rights, federal competence, finance and institutional limits\n5 conclude: distributive ends through rights-disciplined means."
+        },
+        {
+          "title": "Current-law and evidence control",
+          "structural_type": "current-status-evidence-ledger",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 11 — ARTICLE 39A, FREE LEGAL AID AND NALSA",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#SESSION 13 — ARTICLE 44 AND THE UNIFORM CIVIL CODE"
+          ],
+          "full_text": "VOLATILE CLAIM\n  -> check official Constitution / judgment / Gazette\n  -> record date + instrument + exact legal effect\n  -> separate FACT from inference and unresolved litigation\n\nCONTROLLED POSITIONS\nArticle 31C       -> 39(b)/(c); Articles 14/19 shield; review retained\nLegal aid         -> Suhas Chakma (2024): monitored prison-delivery chain\nLabour Codes      -> four Codes effective 21 Nov 2025\nUttarakhand UCC   -> April 2026 Amendment Act succeeded January Ordinance\n\nDO NOT OVERSTATE\nNo court command for a UCC; not every private asset is a 39(b) resource;\nvolatile office holders are not durable doctrine."
+        },
+        {
+          "title": "Executable 10, 15 and 20-mark answer routes",
+          "structural_type": "marks-scaled-answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#PYQS AND ANSWER PRACTICE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\nexact Article -> three mechanisms -> one limit -> direct verdict\n\n15 MARKS / 250 WORDS\nchronology or comparison -> implementation evidence -> two gaps -> tied reforms\n\n20 MARKS / 300 WORDS\nthesis -> analytical dimensions -> institutional/fiscal/rights counter-case\n       -> executable way forward -> graded degree verdict\n\nSCALING RULE\nIncrease dimensions and evidence with marks; do not merely lengthen generic prose.\nEvery answer closes: exact text + mechanism + evidence + limitation + verdict."
+        }
+      ]
+    },
+    "polity-09": {
+      "title": "Fundamental Duties",
+      "source_record": "polity-09:learner-v2:g3",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+      "quality_review": "Manual deep review: all eleven duties, pending-case status, legal uses, current statutes, PYQ controls and marks-scaled answer routes.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 11,
+      "panels": [
+        {
+          "title": "From absent list to Part IVA and eleven citizen duties",
+          "structural_type": "origin-amendment-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#01. Constitutional placement, origin and historical context"
+          ],
+          "full_text": "ORIGINAL CONSTITUTION\n  +-- enforceable rights in Part III\n  +-- State duties in Part IV\n  +-- no separate constitutional list of citizen duties\n        |\n1976 SWARAN SINGH COMMITTEE\n  +-- recommended a separate chapter and eight duties\n  +-- penalties and tax duty were among proposals not fully enacted\n        |\n42ND AMENDMENT, 1976\n  +-- inserted PART IVA and ARTICLE 51A\n  +-- enacted ten duties, clauses (a) to (j)\n        |\n86TH AMENDMENT, 2002\n  +-- inserted clause (k): education opportunity for child / ward, age 6-14\n\nUSSR is the conventional source influence; Indian duties remain rights-bounded."
+        },
+        {
+          "title": "The eleven duties grouped for exact recall",
+          "structural_type": "eleven-duty-recall-tree",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#02. Exact text and exam-ready meaning of all eleven duties"
+          ],
+          "full_text": "CONSTITUTIONAL LOYALTY AND NATION\n  +-- (a) Constitution, ideals, institutions, Flag and Anthem\n  +-- (b) freedom-struggle ideals\n  +-- (c) sovereignty, unity and integrity\n  +-- (d) defend country and render national service when called\n\nSOCIAL AND CULTURAL CITIZENSHIP\n  +-- (e) harmony and brotherhood; renounce practices derogatory to women\n  +-- (f) value and preserve the rich heritage of composite culture\n\nECOLOGICAL AND RATIONAL CITIZENSHIP\n  +-- (g) environment and compassion for living creatures\n  +-- (h) scientific temper, humanism, inquiry and reform\n\nPUBLIC ETHIC AND CAPABILITY\n  +-- (i) safeguard public property; abjure violence\n  +-- (j) strive for individual and collective excellence\n  +-- (k) education opportunity for child / ward aged six to fourteen"
+        },
+        {
+          "title": "Legal character: constitutional duty mediated by enforceable law",
+          "structural_type": "legal-force-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#03. Legal character: what Article 51A can and cannot do"
+          ],
+          "full_text": "ARTICLE 51A APPLIES TO EVERY CITIZEN\n  +-- not directly to foreigners\n  +-- several clauses need legislation or institutional support\n  |\nNON-JUSTICIABLE\n  +-- no writ merely to compel abstract performance\n  +-- no automatic penalty from Article 51A alone\n  |\nLEGAL MEDIATION\n  +-- legislatures enact valid laws within competence\n  +-- the executive implements law and civic education\n  +-- courts use duty values in interpretation where relevant\n  +-- implementing laws remain subject to rights and judicial review\n\nmoral and civic norm -> education + valid law + institutions -> enforceable obligation\nTRAP: no separate statute exists for every duty."
+        },
+        {
+          "title": "Rights, duties and DPSP: three constitutional directions",
+          "structural_type": "rights-duties-dpsp-triangle",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#04. Rights-Duties-DPSP relationship"
+          ],
+          "full_text": "PART III: RIGHTS\n  +-- protected claims, autonomy and enforceable remedies\n        |\n        +---- CONSTITUTIONAL BALANCE ----+\n        |                                |\nPART IVA: DUTIES                     PART IV: DIRECTIVES\n  +-- citizen responsibility            +-- State welfare purpose\n  +-- non-justiciable text               +-- non-justiciable programme\n        |                                |\n        +---------- DEMOCRATIC RECIPROCITY ----------+\n\nrights protect responsible agency\n  -> duties sustain civic conditions\n  -> DPSP directs public power toward justice\n\nLIMIT: duty cannot erase a right; right does not immunise violence or illegality."
+        },
+        {
+          "title": "Patriotism and symbols: respect without compelled conformity",
+          "structural_type": "symbols-case-law-dialectic",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#05. National symbols: respect without compelled conformity"
+          ],
+          "full_text": "ARTICLE 51A(a): RESPECT CONSTITUTION, INSTITUTIONS, FLAG AND ANTHEM\n  |\nBIJOE EMMANUEL (1986)\n  +-- respectful standing without singing was protected\n  +-- genuine conscience defeated compelled conformity\n  |\nNAVEEN JINDAL (2004)\n  +-- respectful Flag display falls within Article 19(1)(a)\n  +-- use remains subject to valid statutory restrictions\n  |\nSHYAM NARAYAN CHOUKSEY (2018)\n  +-- 2016 cinema direction was interim\n  +-- 9 January 2018 final order: cinema playing optional / directory\n\nVERDICT: protect republican symbols without reducing patriotism to one performance."
+        },
+        {
+          "title": "Citizenship domains and the education triad",
+          "structural_type": "duty-domain-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#06. Harmony, common brotherhood and dignity of women",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#07. Composite culture, scientific temper and excellence",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#08. Environment and compassion for living creatures",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#09. Public property, non-violence and democratic protest",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#10. Education: Article 21A, Article 45 and Article 51A(k)"
+          ],
+          "full_text": "CLAUSE   DOMAIN                  OPERATIVE DISTINCTION\n51A(e)   harmony + dignity       includes renouncing practices derogatory to women\n51A(f)   composite culture      plural inheritance, not one frozen culture\n51A(g)   environment + animals  works with Article 48A, Article 21 and statutes\n51A(h)   reason and reform       inquiry, not State-defined orthodoxy\n51A(i)   property + non-violence peaceful protest remains protected\n51A(j)   excellence             aspiration, not automatic rank or admission right\n51A(k)   child education        parent / guardian duty for ages six to fourteen\n\nEDUCATION TRIAD\nArticle 21A -> State-guaranteed right, ages 6-14\nArticle 45  -> early-childhood care and education below six\n51A(k)      -> parent / guardian duty, ages 6-14\n\n2023 Jallikattu ruling qualifies the stronger 2014 animal-welfare reading."
+        },
+        {
+          "title": "Verma Committee and the existing-law implementation web",
+          "structural_type": "committee-law-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#11. Duty-by-duty operationalisation",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#12. J.S. Verma Committee, 1999"
+          ],
+          "full_text": "J.S. VERMA COMMITTEE, 1999\n  +-- preferred education, awareness and enforcement of existing laws\n  +-- did not assume that every duty needs a separate penal statute\n  +-- proposed sensitisation and Fundamental Duties Day, 3 January\n\nEXISTING-LAW WEB: ILLUSTRATIVE, NOT ONE-TO-ONE\n  +-- National Honour Act / Flag law -> clause (a)\n  +-- UAPA, election and criminal-law fields -> sovereignty and harmony\n  +-- civil-rights and atrocity laws -> dignity and fraternity\n  +-- environment, wildlife and forest laws -> clause (g)\n  +-- Public Property Act -> clause (i)\n  +-- Right to Education Act -> clause (k)\n\nCONTROL: valid statute defines offence and penalty; Article 51A supplies context."
+        },
+        {
+          "title": "Criticism, enforceability debate and proportionate reform",
+          "structural_type": "criticism-reform-balance",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#13. Criticism, counterarguments and graded reform"
+          ],
+          "full_text": "CRITICISM                         RESPONSE / REFORM\nvague terms                        teach meaning through civic education\nnon-justiciability                 enforce valid laws, not abstract commands\nEmergency-era insertion            ground duties in democratic constitutionalism\ncitizens-only reach                use ordinary law for institutions and foreigners\nselective moral policing           require legality, proportionality and equality\nno duty to vote / pay tax          do not read rejected proposals into the text\n\nREFORM LADDER\n1 constitutional literacy and public education\n2 map gaps in existing laws and implementation\n3 prefer civil / administrative measures where adequate\n4 legislate narrowly for demonstrable harm\n5 preserve rights, federal competence and judicial review\n\nVERDICT: strengthen civic capacity before creating an omnibus penal code."
+        },
+        {
+          "title": "Current legal status and evidence control",
+          "structural_type": "current-status-evidence-ledger",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#SOURCE, PYQ AND CURRENT-AFFAIRS AUDIT — 28 AUGUST 2026"
+          ],
+          "full_text": "CURRENT STATUS — CHECK BEFORE THE EXAM\n  +-- Durga Dutt v Union of India, W.P.(C) 67/2022: pending on 28 August 2026\n  +-- written order, 11 September 2024: enactment synopsis sought; matter relisted\n  +-- oral hearing observations are not a final ratio\n\nOPERATIVE STATUTORY CONTROLS\n  +-- National Honour Act, 1971: defined symbol/Anthem offences\n  +-- BNS 196/197: harmony and national-integration fields\n  +-- RTE Act, 2009 section 10: parent/guardian admission duty\n  +-- Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980: current short title\n\nEVIDENCE RULE\nConstitutional duty supplies context; the statute supplies elements, process and sanction."
+        },
+        {
+          "title": "Prelims traps and verified PYQ routes",
+          "structural_type": "exam-control-board",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#BASIC MCQS / REMEDIATION",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "PRELIMS CONTROL\nPart IVA -> Article 51A only          citizens only; non-justiciable text\n42nd -> ten duties                   86th -> clause (k), total eleven\nSwaran Singh -> eight recommended    tax duty / blanket penalties not enacted\n51A(g) citizen duty                  48A State directive\n21A right / 45 below-six DPSP        51A(k) parent duty, ages 6-14\n\nVERIFIED PYQ STATUS\n  +-- no direct routed PYQ found in the maintained 2018-2025 ledgers\n  +-- 2020 Q8 and 2025 Q55 are supporting questions owned by Polity 08\n  +-- 2025 local official Set-A key = C\n  +-- 2020 answer remains explicitly inferred\n\nTRAP: never manufacture a direct Mains PYQ from a coaching practice question."
+        },
+        {
+          "title": "Executable 10, 15 and 20-mark answer routes",
+          "structural_type": "marks-scaled-answer-routes",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#PYQS AND ANSWER PRACTICE",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\nPart IVA status -> amendment origin -> two legal effects -> one rights limit -> verdict\n\n15 MARKS / 250 WORDS\nexact duty / issue -> statute or case mechanism -> criticism -> graded reform\n\n20 MARKS / 300 WORDS\nthesis -> rights-DPSP-duty architecture -> grouped clauses -> evidence\n       -> coercion counter-case -> proportionate implementation -> qualified conclusion\n\nEXECUTION CHECK\n  +-- exact Article / amendment / case status\n  +-- claim -> named evidence -> analysis -> qualification\n  +-- increase dimensions with marks; do not lengthen generic prose\n\nFINAL LINE\nResponsible citizenship gains legal effect through precise, rights-compatible institutions."
+        }
+      ]
+    },
+    "polity-10": {
+      "title": "Amendment and Basic Structure",
+      "source_record": "polity-10:learner-v2:g6",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+      "quality_review": "Manual deep review: exact Article 368 routes/proviso, case/reporting chronology, Ninth Schedule, Anjum boundary, dated current controls, verified PYQs, strict rotation and marks-scaled answer execution.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 11,
+      "panels": [
+        {
+          "title": "Constitutional change: flexible routes, entrenched identity",
+          "structural_type": "change-route-architecture",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#01. Constitutional design: change without constitutional destruction",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#02. Ordinary legislative power and constituent power",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#03. Three constitutional change routes"
+          ],
+          "full_text": "CONSTITUTIONAL CHANGE\n  +-- SIMPLE MAJORITY OUTSIDE ARTICLE 368\n  |     +-- ordinary legislative power; legally not an Article 368 amendment\n  |\n  +-- ARTICLE 368 SPECIAL MAJORITY\n  |     +-- majority of total membership of each House\n  |     +-- at least two-thirds of members present and voting\n  |\n  +-- SPECIAL MAJORITY + RATIFICATION BY AT LEAST HALF OF STATES\n        +-- only for the exact federal proviso subjects\n\nPOWER DISTINCTION\nordinary legislative power -> changes law within constitutional competence\nconstituent power -> changes constitutional text by addition, variation or repeal\n\nIDENTITY LIMIT\nParliament may amend every provision, but cannot destroy the Constitution's basic structure."
+        },
+        {
+          "title": "Article 368 procedure: separate Houses, no shortcuts",
+          "structural_type": "article-368-procedure-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#04. Exact Article 368 procedure",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#06. Dual special-majority arithmetic: the 2026 defeated Bill"
+          ],
+          "full_text": "AMENDMENT BILL\n  +-- may originate in either House of Parliament\n  +-- may be introduced by a minister or private member\n  +-- no prior Presidential recommendation is required\n        |\nEACH HOUSE PASSES SEPARATELY\n  +-- majority of total membership\n  +-- two-thirds of members present and voting\n  +-- abstentions reduce present-and-voting denominator, not total membership\n        |\nNO JOINT SITTING -> failure in either House ends the Bill\n        |\nSTATE RATIFICATION, IF PROVISO APPLIES\n  +-- resolutions by at least half of State legislatures\n  +-- no time limit in Article 368; States cannot amend the Bill\n        |\nPRESIDENT SHALL ASSENT -> Constitution stands amended\n\n2026 defeated Bill: total-membership limb passed; two-thirds limb failed."
+        },
+        {
+          "title": "Federal ratification: the exact Article 368 proviso map",
+          "structural_type": "ratification-subject-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#05. Federal ratification: the exact proviso list"
+          ],
+          "full_text": "RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO\n  +-- election of the President: Articles 54 and 55\n  +-- Union and State executive power: Articles 73 and 162\n  +-- Supreme Court and High Courts: Chapter IV of Part V; Chapter V of Part VI\n  +-- distribution of legislative powers: Chapter I of Part XI\n  +-- any of the Lists in the Seventh Schedule\n  +-- representation of States in Parliament\n  +-- Article 368 itself\n\nNOT THE RULE\n  +-- every amendment with federal consequences\n  +-- every change concerning a Governor\n  +-- consent of every State\n\nSTATE ROLE\nratify or refuse the passed text -> no initiation, amendment or joint conference power."
+        },
+        {
+          "title": "From Shankari Prasad (1951) to Minerva Mills (1980): the core doctrine chain",
+          "structural_type": "basic-structure-case-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#07. Doctrine chronology: from Fundamental Rights amendability to constitutional identity",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#08. Kesavananda Bharati: holding architecture"
+          ],
+          "full_text": "SHANKARI PRASAD (1951) -> amendment is not Article 13 \"law\"; FR may be amended\nSajjan Singh (1964) -> amendability reaffirmed; reported in 1965 SCR\nI.C. GOLAKNATH (1967)       -> Parliament cannot amend Fundamental Rights\n1971 24TH AMENDMENT  -> constituent power and mandatory assent affirmed\n1971 25TH AMENDMENT  -> Article 31C and property-related changes\nKESAVANANDA BHARATI (1973)     -> every provision amendable; basic structure cannot be damaged\nINDIRA NEHRU GANDHI V. RAJ NARAIN (1975)   -> free and fair elections / judicial review protect\n  democracy\n1976 42ND AMENDMENT  -> attempted unlimited amending power\nMINERVA MILLS (1980)   -> limited amending power and FR-DPSP harmony protected\nWaman Rao (1980) -> cut-off fixed; reported in 1981 SCR\nI.R. COELHO (2007)     -> post-cut-off insertions face basic-structure impact review\n\nFORMULA: amend the Constitution -> do not destroy its constitutional identity."
+        },
+        {
+          "title": "Basic-structure elements: non-exhaustive and case-attributed",
+          "structural_type": "basic-elements-constellation",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#09. Basic-structure elements: illustrative and case-attributed"
+          ],
+          "full_text": "BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST\n  +-- supremacy of the Constitution\n  +-- republican and democratic government\n  +-- secularism\n  +-- federalism\n  +-- separation of powers\n  +-- rule of law\n  +-- judicial review\n  +-- independence of the judiciary\n  +-- free and fair elections\n  +-- dignity, liberty and equality within the rights architecture\n  +-- harmony and balance between Fundamental Rights and DPSP\n  +-- limited amending power\n\nMETHOD\nidentify the amendment -> identify the protected feature -> prove damage, not policy dislike\n\nTRAP: Kesavananda Bharati (1973) did not supply one unanimous, exhaustive catalogue."
+        },
+        {
+          "title": "Ninth Schedule: insertion is not immunity after the 1973 cut-off",
+          "structural_type": "ninth-schedule-review-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#10. Ninth Schedule architecture"
+          ],
+          "full_text": "FIRST AMENDMENT, 1951\n  +-- Article 31B + Ninth Schedule protect listed laws from specified rights challenge\n        |\nWaman Rao (1980)\n  +-- 24 April 1973 becomes the controlling cut-off\n        |\nI.R. COELHO (2007)\n  +-- post-cut-off insertions are reviewable\n  +-- court tests impact on Part III rights forming part of basic structure\n        |\nOUTCOME\nreviewable != automatically invalid\nlisted != permanently immune\npre-cut-off != beyond every constitutional question\n\nANSWER TEST\n1 identify insertion date\n2 identify affected right / basic feature\n3 examine actual constitutional damage\n4 state the remedy narrowly."
+        },
+        {
+          "title": "The Anjum Kadari (2024) boundary: amendments versus ordinary statutes",
+          "structural_type": "ordinary-law-boundary",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#11. The Anjum Kadari boundary: what basic structure does not do"
+          ],
+          "full_text": "CONSTITUTIONAL AMENDMENT\n  +-- directly tested against basic structure under Article 368 doctrine\n\nORDINARY STATUTE\n  +-- cannot be invalidated only because it offends an undefined basic feature\n  +-- invalidity must be traced to:\n        +-- legislative incompetence\n        +-- violation of Part III\n        +-- another concrete constitutional provision\n\nANJUM KADARI (2024) INSC 831\n  +-- supplies the current technical boundary\n  +-- basic features may guide interpretation and cumulative constitutional reading\n  +-- they do not become a free-standing super-Article against ordinary legislation\n\nEXAM CORRECTION\nwrite \"violates Article X embodying the feature\", not merely \"violates basic structure\"."
+        },
+        {
+          "title": "Current evidence: defeated proposal versus commenced framework",
+          "structural_type": "current-evidence-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#06. Dual special-majority arithmetic: the 2026 defeated Bill",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#12. Current control I: 106th Amendment - commenced, not operational"
+          ],
+          "full_text": "131ST AMENDMENT BILL, 2026\n  +-- introduced 16 April; negatived 17 April\n  +-- 298 ayes / 230 noes / 528 present and voting\n  +-- proposed 850 ceiling never became law\n  +-- proves both Article 368 majority limbs must pass\n\n106TH AMENDMENT\n  +-- S.O. 1922(E), 16 April 2026 commenced the framework\n  +-- Article 334A still requires publication of relevant first-post-commencement census figures\n  +-- delimitation for that purpose must follow\n  +-- commenced != operational reservation\n\nSTATUS RULE\ndate + source + legal stage -> no proposal presented as law."
+        },
+        {
+          "title": "Doctrine evaluation: guardian of identity or judicial supremacy?",
+          "structural_type": "doctrine-criticism-defence",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#13. Current control II: the 2023 anniversary and sovereignty debate",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#14. Evaluation: guardian of constitutionalism or judicial overreach?"
+          ],
+          "full_text": "CRITICISM\n  +-- doctrine is judicially inferred and non-exhaustive\n  +-- unelected judges review elected super-majorities\n  +-- open-ended features can create uncertainty\n\nDEFENCE\n  +-- Article 368 is a Constitution-created, limited power\n  +-- democracy includes future elections, rights, federal voice and independent review\n  +-- Minerva Mills (1980): limited power cannot make itself unlimited\n\nDISCIPLINED REVIEW\ntextual foundation -> settled precedent -> actual damage -> narrow remedy\n\nVERDICT\nreasoned, bounded review is legitimate; feature language must not become a policy veto."
+        },
+        {
+          "title": "Prelims traps and verified PYQ control",
+          "structural_type": "exam-pyq-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#15. Prelims close-option controls",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#BASIC MCQS / REMEDIATION",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "PRELIMS CONTROL\nArticle 368 -> addition, variation or repeal      no joint sitting\nboth Houses use both special-majority limbs       President shall assent\nratification -> exact proviso + at least half      Article 241 and 279A are separately named\nbasic structure -> non-exhaustive                  ordinary-statute boundary applies\nNinth Schedule -> reviewable after cut-off         not automatically invalid\n\nVERIFIED PYQS\n2 Mains: 2019 Q12 and 2025 Q12\n8 Prelims: 2018 Q5; 2019 Q45/Q47; 2020 Q13; 2022 Q13; 2023 Q34; 2024 Q66; 2025 Q58\nOfficial local keys: 2024 Q66 = D; 2025 Q58 = A. Earlier keys are explicitly inferred.\n\nCURRENT TRAPS\n131st Bill = defeated proposal\n106th Amendment = commenced, not operational."
+        },
+        {
+          "title": "Marks-scaled Mains execution: 10, 15 and 20 marks",
+          "structural_type": "marks-scaled-answer-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#16. Answer-writing architecture",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#A. Solved Mains PYQs",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md#Original Mains practice with model solutions"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\n  thesis -> 3-4 dimensions -> 2-3 evidence units -> qualification -> verdict\n\n15 MARKS / 250 WORDS\n  procedure and substantive limit -> 4-6 Articles/cases -> application -> evaluation -> verdict\n\n20 MARKS / 250-300 WORDS\n  design -> chronology -> applications -> current evidence\n  criticism/defence -> nuanced verdict\n\nEXECUTION RULE\nclaim -> named evidence -> analysis -> qualification\ncompress by demand; do not dump every case or basic feature\n\nFINAL LINE\nArticle 368 permits transformation within constitutional identity.\nParliament may amend, but cannot destroy or replace the Constitution."
+        }
+      ]
+    },
+    "polity-11": {
+      "title": "Parliamentary System",
+      "source_record": "polity-11:learner-v2:g3",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md",
+      "quality_review": "Manual review of constitutional Articles, advice, responsibility, confidence, Cabinet, accountability, comparisons, current debate, PYQs and answer structure.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 11,
+      "panels": [
+        {
+          "title": "Responsible government: identity and constitutional architecture",
+          "structural_type": "parliamentary-architecture-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#01. Definition: classify government by the executive-legislature relationship",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#02. Constitutional architecture at Union and State levels"
+          ],
+          "full_text": "CENTRAL QUESTION\nWho governs, who remains answerable, and what happens when confidence is lost?\n\nPARLIAMENTARY / RESPONSIBLE GOVERNMENT\nreal executive drawn from legislature -> continuing lower-House confidence\nIndia: parliamentary government + constitutional supremacy\nnot British parliamentary sovereignty\n\nUNION CHAIN\nArts 52-53 formal President -> Art 74 binding advice -> Art 75 Lok Sabha responsibility\nArt 77 business form -> Art 78 PM-President information -> Art 88 House participation\n\nSTATE MIRROR\nArts 163-164 advice / Assembly responsibility -> Arts 166-167 business / information"
+        },
+        {
+          "title": "Nominal and real executive: advice, office and bounded discretion",
+          "structural_type": "executive-advice-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#02. Constitutional architecture at Union and State levels",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#03. Nominal and real executive: form, advice and accountability"
+          ],
+          "full_text": "FORMAL VESTING -> RESPONSIBLE EXERCISE\nPresident / Governor = constitutional head\nPM / CM + Council = real political executive\n\nARTICLE 74\nadvice -> President may return once -> reconsidered advice binds\nArt 74(2) bars inquiry into whether/what advice; resulting action remains reviewable\n\nSHAMSHER SINGH (1974)\nformal heads ordinarily act on responsible advice\nGovernor retains only constitutionally recognised discretionary fields\n\nTRAP\nnominal != useless; formal vesting and binding advice are both true"
+        },
+        {
+          "title": "Eight features and three forms of ministerial responsibility",
+          "structural_type": "classic-feature-system",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#04. The eight classic features: mechanism plus caveat",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#05. Collective responsibility as the bedrock"
+          ],
+          "full_text": "EIGHT FEATURES\ndual executive | majority/coalition support | collective responsibility | common programme\ndouble membership | PM leadership | lower-House dissolution | secrecy\n\nCOLLECTIVE RESPONSIBILITY: Art 75(3)\nconfidence + public solidarity + unified accountability to Lok Sabha\n\nINDIVIDUAL RESPONSIBILITY\nminister may leave on PM-led removal without whole ministry falling\n\nLEGAL RESPONSIBILITY\nIndia has no universal British-style countersignature rule for every presidential act\n\nCAVEATS\nhomogeneity is political, secrecy is not immunity, six-month membership is temporary"
+        },
+        {
+          "title": "Confidence, supply, dissolution and judicial floor-test controls",
+          "structural_type": "confidence-dissolution-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#05. Collective responsibility as the bedrock"
+          ],
+          "full_text": "CONTINUING CONFIDENCE\nmajority / coalition / minority support -> House test -> authority to govern\n\nLOSS\ncarried no-confidence or essential supply defeat -> resign\nor constitutionally proper dissolution; viable alternative must be considered\nnot every lost bill automatically dismisses government\n\nCASE STRIP\nU.N.R. Rao (1971): Council continues during dissolution\nS.R. Bommai (1994): disputed majority belongs on Assembly floor\nSubhash Desai (2023): intra-party dispute alone cannot trigger floor test;\nobjective material of lost House confidence is required\n\nCARETAKER\ncontinuity with restraint until a responsible ministry takes office"
+        },
+        {
+          "title": "Cabinet, Council and Prime Ministerial leadership",
+          "structural_type": "cabinet-council-hierarchy",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#09. Cabinet and PM dominance: how Parliament may be marginalised",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#02. Constitutional architecture at Union and State levels"
+          ],
+          "full_text": "COUNCIL OF MINISTERS\nwider constitutional ministry; every rank shares collective responsibility\n\nCABINET\nsmaller political decision core -> policy, legislation, budget, crisis coordination\n\nPRIME MINISTER\nministerial composition / portfolios -> Cabinet chair -> majority/coalition leadership\nArt 78 channel to President; leads government's parliamentary programme\nnot a constitutional office called 'leader of Parliament'\n\nLIMIT\nPM leadership remains bounded by Cabinet responsibility, party support, federalism,\ncourts, Parliament and elections"
+        },
+        {
+          "title": "How cabinet and PM dominance can marginalise Parliament",
+          "structural_type": "cabinet-dominance-causal-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#09. Cabinet and PM dominance: how Parliament may be marginalised"
+          ],
+          "full_text": "CONSTITUTIONAL FUSION\nArts 74-75 ministry inside legislature\n        +\nPARTY POWER\nmajority + whip + Tenth Schedule risk\n        +\nPROCEDURAL POWER\nagenda/time + guillotine + delegated law + Art 123 + Art 110 route\n        +\nINFORMATION / APPOINTMENT POWER\nPMO-centred coordination\n        ->\nSCRUTINY MAY BECOME RATIFICATION\n\nPRS CONTROL\n17th Lok Sabha: 274 sitting days; 16% Bills referred to committees\n16th: 26%; 15th: 71%\neffect = weaker deliberation, not transfer of constitutional sovereignty"
+        },
+        {
+          "title": "Accountability correctives: Parliament is not powerless",
+          "structural_type": "accountability-instrument-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#10. Accountability correctives: Parliament is not powerless"
+          ],
+          "full_text": "SURVIVAL CONTROL\nno-confidence | confidence | supply\n\nDAILY CONTROL\nQuestion Hour | debates | motions | opposition\n\nDEEP SCRUTINY\nDRSCs | delegated-legislation committees | PAC <- CAG\n\nSTRUCTURAL CONTROL\nRajya Sabha | courts | elections | audit | transparency law\n\nREFORM\npredictable sitting days -> routine committee referral -> narrower whip scope\nmember research support -> proper Money Bill classification -> restrained ordinances\n\nVERDICT\nrenew parliamentary capacity; do not abandon responsible government"
+        },
+        {
+          "title": "Parliamentary and presidential systems compared precisely",
+          "structural_type": "system-comparison-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#06. Parliamentary versus presidential government: exact axes",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#11. India, Britain and the United States: comparative precision"
+          ],
+          "full_text": "AXIS                    PARLIAMENTARY              PRESIDENTIAL\nexecutive               dual                        single political executive\nselection               legislative support         separate election\ntenure/removal           confidence / no-confidence fixed / exceptional removal\nmembership              ministers in legislature    secretaries outside Congress\npower relation          fusion                       separation and checks\nlower-House dissolution possible                     President cannot dissolve Congress\nstrength                daily responsibility         tenure stability\nrisk                    instability / dominance      deadlock / personal concentration\n\nUS TRAP\nformal department secretaries != informal 'Kitchen Cabinet' advisers"
+        },
+        {
+          "title": "Why India chose it and how the system has performed",
+          "structural_type": "adoption-performance-balance",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#07. Why India adopted the parliamentary system",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#08. Merits, demerits and the Indian experience"
+          ],
+          "full_text": "INDIAN CHOICE\nAmbedkar: daily responsibility preferred to greater fixed-term stability\nfamiliarity -> coordination -> plural cabinet representation\nSwaran Singh Committee -> retention\n\nMERITS\nharmony | replaceability | continuous accountability | plural accommodation\n\nCOSTS\ninstability | policy churn | cabinet/PM dominance | generalist-minister critique\n\nINDIAN EVIDENCE\nshort-lived ministries show risk; full-term coalitions after 1999 show\ninstability is conditional, not inherent\n\nJUDGMENT\nresponsibility is the design priority; strengthen scrutiny and coalition practice"
+        },
+        {
+          "title": "Current control, close-option traps and verified PYQ routes",
+          "structural_type": "current-pyq-trap-board",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#12. Current control: simultaneous elections as a system-design debate",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#13. Prelims close-option traps and qualified verdicts",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#Verified routed PYQs"
+          ],
+          "full_text": "CURRENT CONTROL — 28 AUGUST 2026\nConstitution (129th Amendment) Bill, 2024 proposes Art 82A\nJoint Committee term extended 30 July 2026 -> report by Winter Session 2026\nBILL, NOT LAW | no Article 82A in current Constitution | no implementation year\n\nTRAPS\nLok Sabha confidence, not Rajya Sabha | one reconsideration of Art 74 advice\nparliamentary government != parliamentary sovereignty | coalition != non-parliamentary\n\nVERIFIED PYQ ROUTES\n2020 Prelims Q11 definition | 2021 Prelims Q77 India-UK difference\n2018 GS-II Q13 India-USA | 2023 GS-II Q4 sovereignty\n2024 GS-II Q3 cabinet growth and marginalised parliamentary supremacy\nolder objective answers remain explicitly inferred where official keys are unavailable"
+        },
+        {
+          "title": "Marks-scaled answer routes and qualified conclusion",
+          "structural_type": "marks-scaled-answer-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#Original Mains practice with model solutions",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\ndefine distinction -> 2-3 mechanisms -> one Article/case/data unit -> corrective -> verdict\n\n15 MARKS / 250 WORDS\nexact comparison or causal chain -> Indian reasons/evidence -> counterpoint -> reform\n\n20 MARKS / 250-300 WORDS\ncriteria -> constitutional design -> performance evidence -> objection/reply\ncurrent control where relevant -> graded judgment\n\nEXECUTION RULE\nclaim -> named evidence -> analysis -> qualification\nuse answer-specific compression; never dump every feature or case\n\nFINAL LINE\nIndia's parliamentary system trades some tenure certainty for continuing\nresponsibility; its answer is stronger Parliament, not confidence-free executive power."
+        }
+      ]
+    },
+    "polity-12": {
+      "title": "Federal System",
+      "source_record": "polity-12:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md",
+      "quality_review": "Deep-content repair: complete legislative, administrative and financial allocation; ten PYQs; current evidence; marks-scaled answer route.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Federal test, formation and territory",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#01. Meaning: what makes a political system federal?"
+          ],
+          "full_text": "FEDERAL TEST\n  +-- Constitution protects Union and State authority in assigned spheres\n  +-- both levels act directly on citizens; neither is an ordinary delegate\n  +-- one sovereign constitutional order; no unilateral State secession\n\nINDIAN FORMATION\n  +-- Article 1: Union of States; holding-together, Union-weighted design\n  +-- Article 3: presidential recommendation + State views, not State consent\n  +-- Article 4: reorganisation law is not an Article 368 amendment"
+        },
+        {
+          "title": "Federal features and Union bias",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#03. Seven federal features"
+          ],
+          "full_text": "FEDERAL FEATURES\n  +-- dual polity + written supreme Constitution + Seventh Schedule\n  +-- selective rigidity + independent judiciary + Rajya Sabha\n\nUNION BIAS\n  +-- residuary power + State-field exceptions + emergencies\n  +-- integrated services + single citizenship + greater fiscal capacity\n\nVERDICT: constitutionally federal and Union-weighted, not unitary in spirit."
+        },
+        {
+          "title": "Legislative distribution and conflict",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#05. Legislative distribution: Articles 245-255 and the Seventh Schedule"
+          ],
+          "full_text": "ARTICLES 245-246: territorial reach + three-List allocation\n  +-- Union 100 | State 61 | Concurrent 52: standard exam counts\n  +-- 246A: GST competence | 248 + Entry 97: parliamentary residuary power\n\nCONFLICT METHOD\n  +-- pith and substance -> true nature\n  +-- harmonious construction -> reconcile overlap\n  +-- Article 254 -> Concurrent conflict only; assent may save State law locally"
+        },
+        {
+          "title": "Parliament entering the State field",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#06. When Parliament may legislate on the State List"
+          ],
+          "full_text": "STATE-FIELD DOORS\n  +-- 249: Rajya Sabha, two-thirds present/voting, national interest\n  +-- 250: Article 352 Emergency; law survives six months after it ends\n  +-- 252: two or more States request; Parliament controls amendment/repeal\n  +-- 253: treaty implementation; still subject to the Constitution\n  +-- 356-357: affected State during President's Rule; S.R. Bommai (1994) review\n\nTRAP: no general Union power to legislate on List II."
+        },
+        {
+          "title": "Administrative relations",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#07. Administrative and financial distribution: the missing operational bridge"
+          ],
+          "full_text": "ARTICLES 256-257\n  +-- secure compliance and prevent impedance of Union executive power\n  +-- directions are text-bounded, not a general administrative takeover\n\nRECIPROCAL DELEGATION\n  +-- 258: Union functions -> State with consent\n  +-- 258A: State functions -> Union with Union consent\n\n261 full faith/credit | 262 water-dispute law | 263 Inter-State Council"
+        },
+        {
+          "title": "Financial distribution and fiscal autonomy",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#12. Fiscal federalism"
+          ],
+          "full_text": "FISCAL CONSTITUTION\n  +-- 268/269/269A: levy, collection, assignment and IGST apportionment\n  +-- 270: divisible pool | 275 and 282: distinct grant routes\n  +-- 280-281: Finance Commission report | 293: conditional borrowing consent\n\n16TH FINANCE COMMISSION\n  +-- report submitted 17 Nov 2025 | award 2026-31\n  +-- States: 41% vertical share; exact horizontal weights need official report"
+        },
+        {
+          "title": "Basic Structure and emergency control",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#08. Federalism as Basic Structure: case chronology"
+          ],
+          "full_text": "CASE CHAIN\n  +-- West Bengal (1962): no sovereign-State compact\n  +-- Kesavananda Bharati (1973): limited amendment power\n  +-- S.R. Bommai (1994): federalism Basic Structure; Article 356 review\n\nDUTY != REMEDY\n  +-- Article 355: protect States and ensure constitutional government\n  +-- Articles 356-357: exceptional remedy + legislative consequence\n  +-- disputed majority ordinarily belongs on the House floor\n  +-- State of Rajasthan v. Union of India (1977): cautious pre-S.R. Bommai (1994) review"
+        },
+        {
+          "title": "Working modes and shared-rule institutions",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#09. How Indian federalism actually works"
+          ],
+          "full_text": "MODES COEXIST\n  +-- cooperative: GST, transfers, disaster coordination\n  +-- competitive: investment, innovation, outcome improvement\n  +-- bargaining: parties, schemes, fiscal negotiation\n  +-- confrontational: assent, CBI, water, tax and borrowing disputes\n\nCHANNELS: Rajya Sabha + ISC + Zonal Councils + GST Council + FC + courts\nHEALTH TEST: conflict becomes reasons, negotiation and adjudication.\n  +-- Mohit Minerals (2022): GST Council advice is non-binding"
+        },
+        {
+          "title": "Asymmetric federalism",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#11. Asymmetric federalism"
+          ],
+          "full_text": "ASYMMETRY = DIFFERENTIATED CONSTITUTIONAL ACCOMMODATION\n  +-- Fifth Schedule: Scheduled Areas + Governor/TAC safeguards\n  +-- Sixth Schedule: tribal areas in four States + autonomous councils\n  +-- Article 371 family + differentiated Union-Territory arrangements\n  +-- Article 239AA illustrates a distinct capital-territory design\n\nLIMIT: common citizenship continues; asymmetry is not arbitrary inequality."
+        },
+        {
+          "title": "Representation and current controls",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#13. Representational federalism and delimitation"
+          ],
+          "full_text": "REPRESENTATION\n  +-- Rajya Sabha gives unequal State representation; Lok Sabha tracks population\n  +-- 131st Bill: negatived 17 Apr 2026, 298-230; proposed 850 is not law\n  +-- Census conduct/reference dates != publication or delimitation dates\n\nCURRENT FRICTION\n  +-- Governor assent: no fixed timeline/deemed assent; prolonged silence reviewable\n  +-- CBI: State consent rule; constitutional-court exception"
+        },
+        {
+          "title": "Verified PYQs and Prelims traps",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "TEN ROUTES\n  +-- 2020: modes + centralising laws | 2021: CBI + federal essence\n  +-- 2022: party incentives | 2023: Article 356 + GST + prisons\n  +-- 2024: Centre-State trust | 2025: fiscal federalism\n\nTRAPS\n  +-- Article 254 is Concurrent-specific | 262 exclusion needs parliamentary law\n  +-- Article 355 is not automatic 356 | GST recommendations are non-binding\n  +-- State competence is autonomous, not sovereign"
+        },
+        {
+          "title": "Marks-scaled answer spine",
+          "structural_type": "deep-review-matching-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "10 MARKS: define -> one Article cluster -> one case -> qualified verdict\n15 MARKS: add mechanisms -> named evidence -> counterpoint -> specific reform\n20 MARKS: integrate asymmetry + representation + current control -> graded verdict\n\nMASTER SPINE\n  definition -> allocation -> administration/finance -> operation -> evidence\n  -> limitation -> reform -> conclusion\n\nVERDICT: Union capacity earns federal legitimacy through consultation and restraint."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T10:36:46+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "3e7ddd0368b656473ac8825b17dcef998846b37cf2c78e85712446028fe66062",
+    "sha256_after": "3e7ddd0368b656473ac8825b17dcef998846b37cf2c78e85712446028fe66062",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9088,
+    "pdf_count": 2342,
+    "png_count": 772,
+    "txt_count": 988,
+    "markdown_count": 1479,
+    "json_count": 3492,
+    "total_bytes": 4126676718,
+    "by_extension": {
+      ".json": 3492,
+      ".md": 1479,
+      ".pdf": 2342,
+      ".png": 772,
+      ".txt": 988,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-16",
+      "topic_title": "Revolutionary Nationalism (Phase I, 1907–1917)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 16,
+      "source_record_id": "modern-indian-history-16:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g3\\modern-indian-history-16_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "2366d7de9f1451726c9f672a5f14e83c3246c413fea651404a02bab78be8fbb7",
+          "output_sha256": "2366d7de9f1451726c9f672a5f14e83c3246c413fea651404a02bab78be8fbb7",
+          "source_output_equal": true,
+          "bytes": 563106
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g3\\modern-indian-history-16_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "dc1a8a970ae2ec98fe060b1228772724003cce7a6f6050b1e1fab17fe0435690",
+          "output_sha256": "dc1a8a970ae2ec98fe060b1228772724003cce7a6f6050b1e1fab17fe0435690",
+          "source_output_equal": true,
+          "bytes": 446217
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-16\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "d930b503f55eb6021a9b3f7312e8fdb02e1ca2001a4b37001eb750bbb4e6402c",
+          "output_sha256": "d930b503f55eb6021a9b3f7312e8fdb02e1ca2001a4b37001eb750bbb4e6402c",
+          "source_output_equal": true,
+          "bytes": 2245079
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-16\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "ba0a8cbdf6536522df3672d708a9fedf4f649bd2c93fa30a95c2c3c0f912c93e",
+          "output_sha256": "ba0a8cbdf6536522df3672d708a9fedf4f649bd2c93fa30a95c2c3c0f912c93e",
+          "source_output_equal": true,
+          "bytes": 2678104
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-16\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "337f7ceeba94dd5105c4e30f308313a4b85b9dd96baa223f64c33910f7a39758",
+          "output_sha256": "337f7ceeba94dd5105c4e30f308313a4b85b9dd96baa223f64c33910f7a39758",
+          "source_output_equal": true,
+          "bytes": 1996373
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-16\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "4ed3d87424e9e4a0c7bc78d6f10308186221ad7c158fe2bd679f91f778092375",
+          "output_sha256": "4ed3d87424e9e4a0c7bc78d6f10308186221ad7c158fe2bd679f91f778092375",
+          "source_output_equal": true,
+          "bytes": 5654
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-16\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\16-Revolutionary-Nationalism-Phase-I-1907-1917\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "adfe5de27e1b44793a59c6d0d93235e5d7c0a7c717f2fafff932d54551b8c348",
+          "output_sha256": "adfe5de27e1b44793a59c6d0d93235e5d7c0a7c717f2fafff932d54551b8c348",
+          "source_output_equal": true,
+          "source_text_sha256": "4ed3d87424e9e4a0c7bc78d6f10308186221ad7c158fe2bd679f91f778092375",
+          "normalized_text_equal": true,
+          "bytes": 58041
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 59,
+        "solved_practice_workbook": 28,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10770
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

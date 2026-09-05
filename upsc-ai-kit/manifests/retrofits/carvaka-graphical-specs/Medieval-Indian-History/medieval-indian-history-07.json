@@ -1,0 +1,1078 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-07",
+  "subject": "Medieval-Indian-History",
+  "title": "ADMINISTRATION, ECONOMY & SOCIETY UNDER THE SULTANATE",
+  "short_route": "SULTANATE THEMATIC CHRONOLOGY → STATE FORMATION AS A → CENTRAL DEPARTMENTS WITH CHRONOLOGY → IQTA FISCAL-MILITARY FLOW → REVENUE AND LOCAL HIERARCHY → ARMY, LOGISTICS AND URBAN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-07_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-07-08-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "4c8493919f1d4d4907c60466eb071ef82c4ffbc40fde923be460a2add2dd838a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SULTANATE THEMATIC CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SULTANATE THEMATIC CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "13TH C.",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSOLIDATION THROUGH COURT, IQTA AND INHERITED LOCAL STRUCTURES",
+          "role": "institution"
+        },
+        {
+          "text": "ALAUDDIN TIGHTENS REVENUE, CAVALRY AND MARKET SUPERVISION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARING, ASSESSMENT, CASH DEMANDS AND HIGH-RISK EXPERIMENTS",
+          "role": "caution"
+        },
+        {
+          "text": "CANALS, KARKHANAS, ELITE CONCILIATION AND HEREDITARY DRIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "15TH C.",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAKER DELHI CONTROL AND STRONGER REGIONAL LANDED INTERESTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13th c. → consolidation through court, iqta and inherited local structures",
+        "1296-1316 → Alauddin tightens revenue, cavalry and market supervision",
+        "1320s-1351 → sharing, assessment, cash demands and high-risk experiments",
+        "1351-1388 → canals, karkhanas, elite conciliation and hereditary drift",
+        "15th c. → weaker Delhi control and stronger regional landed interests"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "13th c. → consolidation through court, iqta and inherited local structures",
+            "1296-1316 → Alauddin tightens revenue, cavalry and market supervision"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1320s-1351 → sharing, assessment, cash demands and high-risk experiments",
+            "1351-1388 → canals, karkhanas, elite conciliation and hereditary drift"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "15th c. → weaker Delhi control and stronger regional landed interests",
+            "RULE: institutions changed by reign, region, distance and enforcement capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: institutions changed by reign, region, distance and enforcement capacity.",
+      "answer_line": "institutions changed by reign, region, distance and enforcement capacity.",
+      "source_references": [
+        "Chronology",
+        "Institutional change"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STATE FORMATION AS A LAYERED NETWORK",
+      "structural_type": "layered-governance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATE FORMATION AS A LAYERED NETWORK",
+          "role": "institution"
+        },
+        {
+          "text": "SOVEREIGNTY, APPOINTMENTS, CAMPAIGN DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL DEPARTMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE, ARMY, CORRESPONDENCE AND INTELLIGENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TROOPS, COLLECTION AND PROVINCIAL BARGAINING",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE ACCESS, INFORMATION AND MEDIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCTION, LABOUR AND TAXABLE SURPLUS",
+          "role": "comparison"
+        },
+        {
+          "text": "COERCIVE AT NODES, NEGOTIATED ACROSS THE COUNTRYSIDE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SULTAN / COURT → sovereignty, appointments, campaign direction",
+        "CENTRAL DEPARTMENTS → finance, army, correspondence and intelligence",
+        "IQTADARS / GOVERNORS → troops, collection and provincial bargaining",
+        "KHUTS / MUQADDAMS / CHIEFS → village access, information and mediation",
+        "CULTIVATORS / ARTISANS → production, labour and taxable surplus"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SULTAN / COURT → sovereignty, appointments, campaign direction",
+            "CENTRAL DEPARTMENTS → finance, army, correspondence and intelligence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "IQTADARS / GOVERNORS → troops, collection and provincial bargaining",
+            "KHUTS / MUQADDAMS / CHIEFS → village access, information and mediation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CULTIVATORS / ARTISANS → production, labour and taxable surplus",
+            "VERDICT: coercive at nodes, negotiated across the countryside."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: coercive at nodes, negotiated across the countryside.",
+      "source_references": [
+        "State formation",
+        "Local intermediaries"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CENTRAL DEPARTMENTS WITH CHRONOLOGY CAUTION",
+      "structural_type": "institution-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CENTRAL DEPARTMENTS WITH CHRONOLOGY CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "FINANCE, ACCOUNTS AND REVENUE SUPERVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARMY REVIEW, HORSES, EQUIPMENT AND RECRUITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL CORRESPONDENCE AND CHANCERY PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "BARID NETWORK",
+          "role": "primary"
+        },
+        {
+          "text": "INTELLIGENCE, REPORTS AND COMMUNICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "QAZI FUNCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "GRANTS, LAW AND RELIGIOUS AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIWAN-I-WIZARAT → finance, accounts and revenue supervision",
+        "DIWAN-I-ARZ → army review, horses, equipment and recruitment",
+        "DIWAN-I-INSHA → royal correspondence and chancery practice",
+        "BARID NETWORK → intelligence, reports and communication",
+        "SADR / QAZI FUNCTIONS → grants, law and religious authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "DIWAN-I-WIZARAT → finance, accounts and revenue supervision",
+            "DIWAN-I-ARZ → army review, horses, equipment and recruitment"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "DIWAN-I-INSHA → royal correspondence and chancery practice",
+            "BARID NETWORK → intelligence, reports and communication"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "SADR / QAZI FUNCTIONS → grants, law and religious authority",
+            "CAUTION: portfolios and practical power were not identical in every reign."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: portfolios and practical power were not identical in every reign.",
+      "source_references": [
+        "Central departments",
+        "Administrative caution"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IQTA FISCAL-MILITARY FLOW",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IQTA FISCAL-MILITARY FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "CROWN ASSIGNS REVENUE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "IQTADAR COLLECTS AUTHORISED SALARY + TROOPS + LOCAL ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SURPLUS EXPECTED FOR THE CENTRE TRANSFER RESTRAINS LOCAL ROOTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSIGNMENT OF REVENUE WAS NOT UNRESTRICTED OWNERSHIP OF LAND.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CROWN ASSIGNS REVENUE CLAIM → MUQTI / IQTADAR COLLECTS authorised salary + troops + local",
+        "weak control encourages heredity",
+        "RULE: assignment of revenue was not unrestricted ownership of land."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CROWN ASSIGNS REVENUE CLAIM → MUQTI / IQTADAR COLLECTS authorised salary + troops + local administration accounts and",
+            "weak control encourages heredity"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RULE: assignment of revenue was not unrestricted ownership of land.",
+            "CROWN ASSIGNS REVENUE CLAIM → MUQTI / IQTADAR COLLECTS authorised salary + troops + local administration accounts and"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "weak control encourages heredity",
+            "RULE: assignment of revenue was not unrestricted ownership of land."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: assignment of revenue was not unrestricted ownership of land.",
+      "answer_line": "assignment of revenue was not unrestricted ownership of land.",
+      "source_references": [
+        "Iqta",
+        "Muqti",
+        "Audit"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REVENUE AND LOCAL HIERARCHY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REVENUE AND LOCAL HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN OUTPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSESSMENT THROUGH LAW, CUSTOM AND STATE DEMAND",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL ELITES",
+          "role": "evidence"
+        },
+        {
+          "text": "KHUTS, MUQADDAMS, CHAUDHRIS, CHIEFS AND ACCOUNTANTS",
+          "role": "primary"
+        },
+        {
+          "text": "MEASUREMENT, KHALISA EXPANSION AND PRESSURE ON PRIVILEGES",
+          "role": "outcome"
+        },
+        {
+          "text": "TUGHLAQ VARIANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARING, STANDARD YIELDS, CANALS AND CHANGING INCIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGRARIAN OUTPUT → assessment through law, custom and state demand",
+        "LOCAL ELITES → khuts, muqaddams, chaudhris, chiefs and accountants",
+        "ALAUDDIN → measurement, khalisa expansion and pressure on privileges",
+        "TUGHLAQ VARIANTS → sharing, standard yields, canals and changing incidence",
+        "OUTCOME → stronger surplus claims but uneven burden, flight and resistance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRARIAN OUTPUT → assessment through law, custom and state demand",
+            "LOCAL ELITES → khuts, muqaddams, chaudhris, chiefs and accountants"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ALAUDDIN → measurement, khalisa expansion and pressure on privileges",
+            "TUGHLAQ VARIANTS → sharing, standard yields, canals and changing incidence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OUTCOME → stronger surplus claims but uneven burden, flight and resistance",
+            "METHOD: separate nominal rate, collection practice and cultivator experience."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD: separate nominal rate, collection practice and cultivator experience.",
+      "source_references": [
+        "Revenue",
+        "Khalisa",
+        "Rural elites"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARMY, LOGISTICS AND URBAN REGULATION",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARMY, LOGISTICS AND URBAN REGULATION",
+          "role": "primary"
+        },
+        {
+          "text": "IMPORT ROUTES, BRANDING, INSPECTION AND FODDER",
+          "role": "outcome"
+        },
+        {
+          "text": "CASH SALARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "COIN SUPPLY, PRICE CONDITIONS AND TREASURY CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "FRONTIER DEFENCE, MESSENGERS AND GRAIN MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET OVERSIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "WEIGHTS, SUPPLIES, INTELLIGENCE AND PUNISHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICING AND JUDICIAL PLURALITY IN TOWNS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HORSES / REMOUNTS → import routes, branding, inspection and fodder",
+        "CASH SALARIES → coin supply, price conditions and treasury capacity",
+        "FORTS / ROADS → frontier defence, messengers and grain movement",
+        "MARKET OVERSIGHT → weights, supplies, intelligence and punishment",
+        "KOTWAL / QAZI → policing and judicial plurality in towns"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HORSES / REMOUNTS → import routes, branding, inspection and fodder",
+            "CASH SALARIES → coin supply, price conditions and treasury capacity"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FORTS / ROADS → frontier defence, messengers and grain movement",
+            "MARKET OVERSIGHT → weights, supplies, intelligence and punishment"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KOTWAL / QAZI → policing and judicial plurality in towns",
+            "LESSON: military power rested on fiscal, commercial and informational systems."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON: military power rested on fiscal, commercial and informational systems.",
+      "source_references": [
+        "Army",
+        "Markets",
+        "Urban administration"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AGRARIAN SURPLUS AND IRRIGATION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRARIAN SURPLUS AND IRRIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "RAIN + WELLS + LIFTS + CANALS",
+          "role": "outcome"
+        },
+        {
+          "text": "VARIABLE CULTIVATION CAPACITY GRAIN AND CASH CROPS",
+          "role": "comparison"
+        },
+        {
+          "text": "VILLAGE CONSUMPTION + DUES + MARKETABLE SURPLUS STATE, IQTA",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC WORKS DID NOT DISTRIBUTE GAINS EQUALLY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAIN + WELLS + LIFTS + CANALS → variable cultivation capacity grain and cash crops",
+        "→ village consumption + dues + marketable surplus state, iqta holder and intermediaries compete over",
+        "extraction town demand and armies grow, while famine and harsh collection expose risk",
+        "CAUTION: public works did not distribute gains equally."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAIN + WELLS + LIFTS + CANALS → variable cultivation capacity grain and cash crops",
+            "→ village consumption + dues + marketable surplus state, iqta holder and intermediaries compete over"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "extraction town demand and armies grow, while famine and harsh collection expose risk",
+            "CAUTION: public works did not distribute gains equally."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RAIN + WELLS + LIFTS + CANALS → variable cultivation capacity grain and cash crops",
+            "→ village consumption + dues + marketable surplus state, iqta holder and intermediaries compete over"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: public works did not distribute gains equally.",
+      "source_references": [
+        "Agriculture",
+        "Irrigation",
+        "Surplus transfer"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COINAGE AND MONETISATION EVIDENCE",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COINAGE AND MONETISATION EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "UNITS AND DENOMINATIONS IN AN EXPANDING MONEY ECONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "METAL RANGE, SCARCITY AND REGIONAL VARIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY, TITLES AND PUBLIC MONETARY CLAIMS",
+          "role": "evidence"
+        },
+        {
+          "text": "CASH REVENUE",
+          "role": "primary"
+        },
+        {
+          "text": "LINKS COUNTRYSIDE, TREASURY, ARMY AND MERCHANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "RBI PAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL MUSEUM SYNTHESIS, NOT A COMPLETE PRICE OR WELFARE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TANKA / JITTAL → units and denominations in an expanding money economy",
+        "GOLD / SILVER / COPPER → metal range, scarcity and regional variation",
+        "MINTS / LEGENDS → authority, titles and public monetary claims",
+        "CASH REVENUE / SALARY → links countryside, treasury, army and merchants",
+        "RBI PAGE → official museum synthesis, not a complete price or welfare series"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "TANKA / JITTAL → units and denominations in an expanding money economy",
+          "MINTS / LEGENDS → authority, titles and public monetary claims",
+          "RBI PAGE → official museum synthesis, not a complete price or welfare series"
+        ],
+        [
+          "GOLD / SILVER / COPPER → metal range, scarcity and regional variation",
+          "CASH REVENUE / SALARY → links countryside, treasury, army and merchants",
+          "VERDICT: monetisation expanded unevenly; barter and payment in kind persisted."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "TANKA / JITTAL → units and denominations in an expanding money economy",
+            "GOLD / SILVER / COPPER → metal range, scarcity and regional variation"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "MINTS / LEGENDS → authority, titles and public monetary claims",
+            "CASH REVENUE / SALARY → links countryside, treasury, army and merchants"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "RBI PAGE → official museum synthesis, not a complete price or welfare series",
+            "VERDICT: monetisation expanded unevenly; barter and payment in kind persisted."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: monetisation expanded unevenly; barter and payment in kind persisted.",
+      "answer_line": "monetisation expanded unevenly; barter and payment in kind persisted.",
+      "source_references": [
+        "RBI coinage page",
+        "Tanka",
+        "Jittal",
+        "Monetisation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "URBAN CRAFT AND TECHNOLOGY CIRCUIT",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "URBAN CRAFT AND TECHNOLOGY CIRCUIT",
+          "role": "primary"
+        },
+        {
+          "text": "COURT + ARMY + MERCHANT DEMAND",
+          "role": "institution"
+        },
+        {
+          "text": "CAMBAY AND SMALLER QASBAS TEXTILES + PAPER + METAL",
+          "role": "comparison"
+        },
+        {
+          "text": "GREATER OUTPUT AND SPECIALISATION WITHOUT EQUAL GAINS FOR LABOUR.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COURT + ARMY + MERCHANT DEMAND",
+        "DELHI / DAULATABAD / MULTAN / CAMBAY and smaller qasbas textiles + paper + metal",
+        "+ building crafts + royal karkhanas spinning wheel, carder's bow, improved looms, mortar and water",
+        "RESULT: greater output and specialisation without equal gains for labour."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "COURT + ARMY + MERCHANT DEMAND",
+            "DELHI / DAULATABAD / MULTAN / CAMBAY and smaller qasbas textiles + paper + metal + leather"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "+ building crafts + royal karkhanas spinning wheel, carder's bow, improved looms, mortar and water lifting",
+            "RESULT: greater output and specialisation without equal gains for labour."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "COURT + ARMY + MERCHANT DEMAND",
+            "DELHI / DAULATABAD / MULTAN / CAMBAY and smaller qasbas textiles + paper + metal + leather"
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: greater output and specialisation without equal gains for labour.",
+      "answer_line": "greater output and specialisation without equal gains for labour.",
+      "source_references": [
+        "Urbanisation",
+        "Crafts",
+        "Technology"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TRADE, TRANSPORT AND CREDIT",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRADE, TRANSPORT AND CREDIT",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE PRODUCERS",
+          "role": "outcome"
+        },
+        {
+          "text": "BANJARAS AND LOCAL MARKETS",
+          "role": "comparison"
+        },
+        {
+          "text": "INLAND TOWNS",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCES, EXCHANGE AND MERCHANT FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFER AND CREDIT ACROSS DISTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL PORTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN OCEAN EXCHANGE AND TEXTILE EXPORTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VILLAGE PRODUCERS → banjaras and local markets → inland towns",
+        "MULTANIS / SAHS / BROKERS → advances, exchange and merchant finance",
+        "HUNDIS → transfer and credit across distance",
+        "CAMBAY / BENGAL PORTS → Indian Ocean exchange and textile exports",
+        "HORSE IMPORTS → military demand links coast, merchants and court"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VILLAGE PRODUCERS → banjaras and local markets → inland towns",
+            "MULTANIS / SAHS / BROKERS → advances, exchange and merchant finance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HUNDIS → transfer and credit across distance",
+            "CAMBAY / BENGAL PORTS → Indian Ocean exchange and textile exports"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HORSE IMPORTS → military demand links coast, merchants and court",
+            "LIMIT: route activity does not prove uniform prosperity or state control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: route activity does not prove uniform prosperity or state control.",
+      "source_references": [
+        "Trade",
+        "Hundis",
+        "Merchants",
+        "Transport"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SOCIAL DIFFERENTIATION WITHOUT STATIC BLOCS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL DIFFERENTIATION WITHOUT STATIC BLOCS",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS, OFFICE, GRANTS AND INTERNAL HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "WEALTH AT THE TOP, INSECURITY LOWER DOWN",
+          "role": "comparison"
+        },
+        {
+          "text": "RURAL GROUPS",
+          "role": "evidence"
+        },
+        {
+          "text": "CHIEFS, PRIVILEGED INTERMEDIARIES, PEASANTS AND LABOURERS",
+          "role": "primary"
+        },
+        {
+          "text": "MUSLIM COMMUNITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFLICT, INTERACTION AND DIFFERENTIATED MOBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD, MILITARY AND PRODUCTIVE ROLES UNDER COERCION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NOBLES / ULEMA → status, office, grants and internal hierarchy",
+        "MERCHANTS / ARTISANS → wealth at the top, insecurity lower down",
+        "RURAL GROUPS → chiefs, privileged intermediaries, peasants and labourers",
+        "HINDU / MUSLIM COMMUNITIES → conflict, interaction and differentiated mobility",
+        "SLAVERY / GENDER → household, military and productive roles under coercion"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "NOBLES / ULEMA → status, office, grants and internal hierarchy",
+          "RURAL GROUPS → chiefs, privileged intermediaries, peasants and labourers",
+          "SLAVERY / GENDER → household, military and productive roles under coercion"
+        ],
+        [
+          "MERCHANTS / ARTISANS → wealth at the top, insecurity lower down",
+          "HINDU / MUSLIM COMMUNITIES → conflict, interaction and differentiated mobility",
+          "RULE: avoid timeless census boxes and single-cause conversion claims."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NOBLES / ULEMA → status, office, grants and internal hierarchy",
+            "MERCHANTS / ARTISANS → wealth at the top, insecurity lower down"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RURAL GROUPS → chiefs, privileged intermediaries, peasants and labourers",
+            "HINDU / MUSLIM COMMUNITIES → conflict, interaction and differentiated mobility"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SLAVERY / GENDER → household, military and productive roles under coercion",
+            "RULE: avoid timeless census boxes and single-cause conversion claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: avoid timeless census boxes and single-cause conversion claims.",
+      "answer_line": "avoid timeless census boxes and single-cause conversion claims.",
+      "source_references": [
+        "Social groups",
+        "Conversion",
+        "Slavery",
+        "Gender"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 07 EVIDENCE AND ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 07 EVIDENCE AND ANSWER SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGING MILITARY-FISCAL STATE, CENTRALISING IN ASPIRATION",
+          "role": "institution"
+        },
+        {
+          "text": "COURT + DEPARTMENTS + IQTA + LOCAL INTERMEDIARIES",
+          "role": "institution"
+        },
+        {
+          "text": "AGRARIAN SURPLUS + MONEY + TOWNS + CRAFTS +",
+          "role": "evidence"
+        },
+        {
+          "text": "LAYERED ELITES, LABOUR, CASTE, COMMUNITY, SLAVERY AND GENDER",
+          "role": "primary"
+        },
+        {
+          "text": "CHRONICLERS + TRAVELLERS + COINS + INSCRIPTIONS + MONUMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGOTIATED IN PRACTICE, REGIONALLY UNEVEN AND SOCIALLY UNEQUAL.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → changing military-fiscal state, centralising in aspiration",
+        "ADMIN → court + departments + iqta + local intermediaries",
+        "ECONOMY → agrarian surplus + money + towns + crafts + trade",
+        "SOCIETY → layered elites, labour, caste, community, slavery and gender",
+        "METHOD → chroniclers + travellers + coins + inscriptions + monuments"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "OPEN → changing military-fiscal state, centralising in aspiration",
+            "ADMIN → court + departments + iqta + local intermediaries"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "ECONOMY → agrarian surplus + money + towns + crafts + trade",
+            "SOCIETY → layered elites, labour, caste, community, slavery and gender"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "METHOD → chroniclers + travellers + coins + inscriptions + monuments",
+            "CLOSE → negotiated in practice, regionally uneven and socially unequal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → negotiated in practice, regionally uneven and socially unequal.",
+      "source_references": [
+        "Historiography",
+        "Sources",
+        "Answer architecture"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATION, ECONOMY & SOCIETY UNDER THE SULTANATE — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Administration, Economy & Society under the Sultanate — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept: India as an industrial hub before European dominance",
+            "Historical PYQ Integration (2018-2023)",
+            "Early Turkish rulers largely left land-revenue collection to Hindu chiefs and existing arrangements"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

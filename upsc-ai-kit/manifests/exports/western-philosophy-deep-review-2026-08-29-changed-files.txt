@@ -1,0 +1,990 @@
+.pytest_cache\v\cache\lastfailed
+.pytest_cache\v\cache\nodeids
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-09\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-09\ethics-09_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\previews\page-005.png
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-10\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-10\ethics-10_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-11\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-11\ethics-11_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-12\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-12\ethics-12_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-13\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-13\ethics-13_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-14\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-14\ethics-14_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-15\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-15\ethics-15_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-16\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-16\ethics-16_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-17\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-17\ethics-17_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\ascii-master.pdf
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\ascii-master.txt
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\build-audit.json
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\editable\README.txt
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\editable\topic-spec.json
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\master.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\poster.pdf
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\preservation-hashes.json
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\previews\contact-sheet-01.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\previews\master-overview.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\previews\page-001.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\previews\page-002.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\previews\page-003.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\previews\page-004.png
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\README.txt
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\tiled.pdf
+notes\Ethics\flowcharts\ethics-18\continuous-at-a-glance-english-first-g1\validation-report.txt
+notes\Ethics\flowcharts\ethics-18\ethics-18_Twelve-Panel-ASCII-Master_2026-08-29-g1.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-09\ethics-09_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-09\ethics-09_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-09\ethics-09_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-10\ethics-10_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-10\ethics-10_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-10\ethics-10_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-11\ethics-11_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-11\ethics-11_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-11\ethics-11_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-12\ethics-12_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-12\ethics-12_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-12\ethics-12_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-13\ethics-13_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-13\ethics-13_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-13\ethics-13_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-14\ethics-14_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-14\ethics-14_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-14\ethics-14_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-15\ethics-15_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-15\ethics-15_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-15\ethics-15_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-16\ethics-16_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-16\ethics-16_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-16\ethics-16_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-17\ethics-17_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-17\ethics-17_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-17\ethics-17_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-18\ethics-18_concept-map_g1.png
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-18\ethics-18_main-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\assets\ethics-18\ethics-18_workbook-visual-audit_g1.json
+notes\Ethics\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-09_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-10_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-11_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-12_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-13_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-14_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-15_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-16_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-17_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\notes\ethics-18_Learning-Session_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-09_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-10_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-11_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-12_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-13_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-14_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-15_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-16_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-17_Solved-Workbook_2026-08-29.pdf
+notes\Ethics\learning-session-v2\subject-wide-syllabus\workbooks\ethics-18_Solved-Workbook_2026-08-29.pdf
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Western-Philosophy-Topic-11-2026-08-29.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Western-Philosophy-Topics-01-05-2026-08-29.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Western-Philosophy-Topics-06-10-2026-08-29.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-01-g2-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-02-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-03-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-04-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-05-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-06-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-07-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-08-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-09-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-10-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-i-western-philosophy-11-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-01\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-01\philosophy-paper-i-western-philosophy-01-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-02\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-02\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-02\philosophy-paper-i-western-philosophy-02-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-03\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-03\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-03\philosophy-paper-i-western-philosophy-03-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-04\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-04\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-04\philosophy-paper-i-western-philosophy-04-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-05\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-05\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-05\philosophy-paper-i-western-philosophy-05-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-06\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-06\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-06\philosophy-paper-i-western-philosophy-06-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-07\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-07\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-07\philosophy-paper-i-western-philosophy-07-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-08\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-08\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-08\philosophy-paper-i-western-philosophy-08-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-09\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-09\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-09\philosophy-paper-i-western-philosophy-09-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-10\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-10\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-10\philosophy-paper-i-western-philosophy-10-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-11\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-11\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-11\philosophy-paper-i-western-philosophy-11-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\western-philosophy-11\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Western-Philosophy-Section-Completion-2026-08-29.md
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Ethics\INDEX.md
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\09-Public-Service-Values-Status-and-Ethical-Dilemmas\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\11-Accountability-and-Ethical-Governance\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\12-Corporate-Governance-and-International-Ethics\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\13-Emerging-Ethics-Technology-AI-and-Environment\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\14-Probity-Concept-and-Philosophical-Basis-of-Governance\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\15-Transparency-RTI-and-Information-Sharing\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\16-Codes-of-Ethics-and-Codes-of-Conduct\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\17-Citizens-Charters-Work-Culture-and-Service-Delivery\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Philosophy Optional\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\02-Rationalism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\03-Empiricism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\05-Hegel\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\06-Moore-Russell-and-Early-Wittgenstein\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\07-Logical-Positivism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\08-Later-Wittgenstein\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\09-Phenomenology-Husserl\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\10-Existentialism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\11-Quine-and-Strawson\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\INDEX.md
+notes\Final-Learning-Packages\Political Theory\INDEX.md
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\Polity\INDEX.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-02\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-03\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-05\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-06\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-07\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-08\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-09\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-10\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\previews\page-005.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g3\topic-01_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g3\topic-01_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g4\topic-01_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g4\topic-01_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-02\g3\topic-02_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-02\g3\topic-02_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-02\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-02\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-03\g3\topic-03_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-03\g3\topic-03_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-03\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-03\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g3\topic-04_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g3\topic-04_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-05\g3\topic-05_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-05\g3\topic-05_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-05\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-05\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-06\g3\topic-06_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-06\g3\topic-06_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-06\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-06\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-07\g3\topic-07_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-07\g3\topic-07_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-07\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-07\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-08\g3\topic-08_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-08\g3\topic-08_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-08\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-08\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-09\g3\topic-09_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-09\g3\topic-09_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-09\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-09\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-10\g4\topic-10_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-10\g4\topic-10_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-10\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-10\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g3\topic-11_Complete-Learning-Session_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g3\topic-11_Solved-Practice-Workbook_2026-08-29.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g3\validation\workbook-visual-audit-map.json
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\WORKBOOK-PDF-INDEX.md
+tools\__pycache__\ethics_topic_09_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_10_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_11_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_12_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_13_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_14_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_15_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_16_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_17_data.cpython-310.pyc
+tools\__pycache__\ethics_topic_18_data.cpython-310.pyc
+tools\__pycache__\export_four_item_library.cpython-310.pyc
+tools\__pycache__\finalize_v2_topic.cpython-310.pyc
+tools\__pycache__\generate_ethics_topic_v2.cpython-310.pyc
+tools\__pycache__\generate_philosophy_western_existentialism_v2.cpython-310.pyc
+tools\__pycache__\generate_philosophy_western_hegel_v2.cpython-310.pyc
+tools\__pycache__\generate_philosophy_western_kant_v2.cpython-310.pyc
+tools\__pycache__\generate_philosophy_western_phenomenology_husserl_v2.cpython-310.pyc
+tools\__pycache__\generate_philosophy_western_plato_aristotle_v2.cpython-310.pyc
+tools\__pycache__\generate_philosophy_western_quine_strawson_v2.cpython-310.pyc
+tools\__pycache__\markdown_learning_pdf.cpython-310.pyc
+tools\__pycache__\philosophy_western_hegel_v2_spec.cpython-310.pyc
+tools\__pycache__\regenerate_philosophy_western_deep_review.cpython-310.pyc
+tools\__pycache__\test_generate_ethics_topic_v2.cpython-310-pytest-9.1.0.pyc
+tools\__pycache__\test_generate_ethics_topic_v2.cpython-310.pyc
+tools\__pycache__\test_v2_export_foundation.cpython-310-pytest-9.1.0.pyc
+tools\__pycache__\test_v2_export_foundation.cpython-310.pyc
+tools\ethics_topic_09_data.py
+tools\ethics_topic_10_data.py
+tools\ethics_topic_11_data.py
+tools\ethics_topic_12_data.py
+tools\ethics_topic_13_data.py
+tools\ethics_topic_14_data.py
+tools\ethics_topic_15_data.py
+tools\ethics_topic_16_data.py
+tools\ethics_topic_17_data.py
+tools\ethics_topic_18_data.py
+tools\export_four_item_library.py
+tools\finalize_v2_topic.py
+tools\generate_ethics_topic_v2.py
+tools\markdown_learning_pdf.py
+tools\regenerate_philosophy_western_deep_review.py
+tools\test_generate_ethics_topic_v2.py
+tools\test_v2_export_foundation.py
+upsc-ai-kit\knowledge\Ancient-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\CSAT\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Disaster-Management\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Economy\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Environment-and-Ecology\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Essay\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Ethics\advanced\11_Accountability-and-Ethical-Governance.md
+upsc-ai-kit\knowledge\Ethics\advanced\12_Corporate-Governance-and-International-Ethics.md
+upsc-ai-kit\knowledge\Ethics\advanced\13_Emerging-Ethics-Technology-AI-and-Environment.md
+upsc-ai-kit\knowledge\Ethics\advanced\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md
+upsc-ai-kit\knowledge\Ethics\advanced\15_Transparency-RTI-and-Information-Sharing.md
+upsc-ai-kit\knowledge\Ethics\advanced\16_Codes-of-Ethics-and-Codes-of-Conduct.md
+upsc-ai-kit\knowledge\Ethics\advanced\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md
+upsc-ai-kit\knowledge\Ethics\advanced\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md
+upsc-ai-kit\knowledge\Ethics\basic\11_Accountability-and-Ethical-Governance.md
+upsc-ai-kit\knowledge\Ethics\basic\12_Corporate-Governance-and-International-Ethics.md
+upsc-ai-kit\knowledge\Ethics\basic\13_Emerging-Ethics-Technology-AI-and-Environment.md
+upsc-ai-kit\knowledge\Ethics\basic\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md
+upsc-ai-kit\knowledge\Ethics\basic\15_Transparency-RTI-and-Information-Sharing.md
+upsc-ai-kit\knowledge\Ethics\basic\16_Codes-of-Ethics-and-Codes-of-Conduct.md
+upsc-ai-kit\knowledge\Ethics\basic\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md
+upsc-ai-kit\knowledge\Ethics\basic\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md
+upsc-ai-kit\knowledge\Ethics\basic\22_Case-Study-Method-and-Answer-Architecture.md
+upsc-ai-kit\knowledge\Ethics\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-09_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-09_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-10_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-10_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-11_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-11_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-12_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-12_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-13_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-13_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-14_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-14_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-15_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-15_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-16_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-16_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-17_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-17_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-18_Learning-Session.md
+upsc-ai-kit\knowledge\Ethics\learning-sessions\v2\subject-wide-syllabus\ethics-18_Solved-Workbook.md
+upsc-ai-kit\knowledge\Ethics\OFFICIAL-UPSC-SYLLABUS-MAPPING.md
+upsc-ai-kit\knowledge\Geography\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Governance\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Indian-Art-and-Culture\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Indian-Society\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Internal-Security\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\International-Relations\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g3\topic-01_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g3\topic-01_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g4\topic-01_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g4\topic-01_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-02\g3\topic-02_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-02\g3\topic-02_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-03\g3\topic-03_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-03\g3\topic-03_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g3\topic-04_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g3\topic-04_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-05\g3\topic-05_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-05\g3\topic-05_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-06\g3\topic-06_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-06\g3\topic-06_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-07\g3\topic-07_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-07\g3\topic-07_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-08\g3\topic-08_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-08\g3\topic-08_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-09\g3\topic-09_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-09\g3\topic-09_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-10\g4\topic-10_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-10\g4\topic-10_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g3\topic-11_Complete-Learning-Session_2026-08-29.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g3\topic-11_Solved-Practice-Workbook_2026-08-29.md
+upsc-ai-kit\knowledge\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Modern-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Philosophy\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Political-Theory\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Polity\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Qualifying-English\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Qualifying-Hindi\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Science-and-Technology\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Social-Justice\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\World-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\manifests\exports\ethics-09-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-09-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-10-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-10-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-11-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-11-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-12-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-12-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-13-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-13-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-14-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-14-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-15-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-15-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-16-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-16-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-17-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-17-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\ethics-18-learner-v2-g1-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\ethics-18-learner-v2-g1-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-29.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g4-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g4-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g4-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-02-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-02-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-02-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-03-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-03-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-03-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-05-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-05-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-05-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-06-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-06-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-06-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-07-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-07-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-07-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-08-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-08-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-08-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-09-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-09-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-09-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-10-learner-v2-g4-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-10-learner-v2-g4-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-10-learner-v2-g4-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g3-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g3-2026-08-29-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g3-2026-08-29-validation.json
+upsc-ai-kit\manifests\exports\western-philosophy-deep-review-2026-08-29-changed-files.txt
+upsc-ai-kit\manifests\exports\western-philosophy-deep-review-reconciliation-2026-08-29.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-09-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-10-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-11-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-12-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-13-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-14-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-15-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-16-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-17-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics--subject-wide-syllabus-18-ascii-2026-08-29-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-09-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-10-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-11-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-12-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-13-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-14-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-15-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-16-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-17-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-graphical-specs\ethics-18-g1.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-01-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-01-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-02-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-03-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-04-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-05-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-06-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-07-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-08-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-09-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-10-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-11-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-01-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-01-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-02-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-03-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-04-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-05-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-06-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-07-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-08-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-09-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-10-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-11-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy.json
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\PROGRESS.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\README.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-001.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-002.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-003.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-004.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-005.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-006.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-007.md
+upsc-ai-kit\practice\Interactive-Learning-Game\2026-08-29\ROUND-008.md
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

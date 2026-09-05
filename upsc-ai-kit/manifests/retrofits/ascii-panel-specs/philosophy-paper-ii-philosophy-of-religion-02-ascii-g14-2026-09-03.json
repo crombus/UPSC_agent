@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "benchmark": "Proofs-for-God reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-02 immutable generation g14",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "title": "Proofs for the Existence of God and their Critique",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Proof architecture",
+          "structural_type": "argument-family tree",
+          "source_session_heading_references": [
+            "Register 1 — The architecture of theistic proof"
+          ],
+          "lines": [
+            "THEISTIC ARGUMENTS START FROM DIFFERENT DATA",
+            " +-> concept of God -> ONTOLOGICAL (a priori)",
+            " +-> contingent/moved/caused world -> COSMOLOGICAL (a posteriori)",
+            " +-> order and purposiveness -> TELEOLOGICAL",
+            " +-> objective obligation -> MORAL",
+            " +-> Indian effect/order/language/karma -> NYĀYA-UDAYANA",
+            "                         |",
+            " CONTROL: proofs may be deductive, abductive or cumulative;",
+            " BURDEN: premise -> inference -> theological identification",
+            " never judge all by the standard of a single demonstrative syllogism."
+          ]
+        },
+        {
+          "panel_title": "2. Ontological line",
+          "structural_type": "modal argument and critique",
+          "source_session_heading_references": [
+            "Register 2 — Ontological argument"
+          ],
+          "lines": [
+            "ANSELM: God = that than which nothing greater can be conceived",
+            " existing in reality > existing only in understanding",
+            " therefore the greatest conceivable being exists in reality",
+            "                         |",
+            " DESCARTES: necessary existence belongs to supremely perfect being",
+            " MODAL FORM: possibly necessary God -> necessarily God, if S5 possibility is granted",
+            "                         |",
+            " GAUNILO: perfect-island parody | KANT: existence is not a real predicate",
+            " reply: necessary being is unlike contingent islands; pressure shifts to coherent possibility."
+          ]
+        },
+        {
+          "panel_title": "3. Cosmological family",
+          "structural_type": "causal regress tree",
+          "source_session_heading_references": [
+            "Register 3 — Cosmological arguments"
+          ],
+          "lines": [
+            "AQUINAS: motion -> unmoved mover | efficient causes -> first cause",
+            " contingency -> necessary being; not “every event has a cause”",
+            " KALĀM: whatever begins has a cause; universe began; therefore a cause",
+            " LEIBNIZ: principle of sufficient reason -> why something rather than nothing?",
+            "                         |",
+            " HUME: causal principle may not extend beyond experience; universe may be brute",
+            " RUSSELL: universe is “just there”; composition fallacy",
+            " REPLY: argument concerns contingent totality's explanation, not a member-cause in time."
+          ]
+        },
+        {
+          "panel_title": "4. Design and fine-tuning",
+          "structural_type": "abductive comparison",
+          "source_session_heading_references": [
+            "Register 4 — Teleological argument"
+          ],
+          "lines": [
+            "PALEY: complex purposive adaptation -> watchmaker analogy -> designer",
+            " FINE-TUNING: life-permitting constants appear within narrow range",
+            "                         |",
+            " rival explanations",
+            " +-> design",
+            " +-> physical necessity",
+            " +-> chance / multiverse + selection effect",
+            " +-> unknown deeper law",
+            " HUME: weak analogy, many designers, imperfect designer | DARWIN: adaptation by selection",
+            " verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged."
+          ]
+        },
+        {
+          "panel_title": "5. Moral argument",
+          "structural_type": "normativity-to-ground chain",
+          "source_session_heading_references": [
+            "Register 5 — Moral argument"
+          ],
+          "lines": [
+            "CONSCIENCE/LAW: obligation -> personal lawgiver (contested)",
+            " OBJECTIVE VALUE: moral realism -> transcendent ground (abductive)",
+            " KANT: morality does not theoretically prove God",
+            " highest good (virtue proportioned to happiness) -> practical postulates:",
+            " freedom + immortality + God",
+            "                         |",
+            " contemporary route: objective moral obligations -> adequate personal ground",
+            " objection: Euthyphro dilemma; secular realism can ground moral facts",
+            " reply: modified divine command grounds obligation in commands flowing from good nature",
+            " limit: the move from normativity to one religiously specified God remains underdetermined."
+          ]
+        },
+        {
+          "panel_title": "6. Nyāya-Udayana proof cluster",
+          "structural_type": "Indian inference tree",
+          "source_session_heading_references": [
+            "Register 6 — Nyāya–Udayana theism"
+          ],
+          "lines": [
+            "UDAYANA'S ROUTES TO ĪŚVARA",
+            " kāryāt: world as effect -> maker        āyojanāt: atomic combination -> arranger",
+            " dhṛtyādeḥ: support/dissolution          padāt: conventional word-use",
+            " pratyayataḥ: trustworthy cognition      śruteḥ/vākyāt: Vedic discourse",
+            " saṃkhyāviśeṣāt: determinate magnitudes  adṛṣṭāt: karmic allocation",
+            "                         |",
+            " ĪŚVARA = omniscient efficient cause; eternal atoms = material causes",
+            " not creation ex nihilo; proof aims at intelligent coordination of a realist cosmos."
+          ]
+        },
+        {
+          "panel_title": "7. Indian and Western critiques",
+          "structural_type": "multi-school objection matrix",
+          "source_session_heading_references": [
+            "Register 7 — Jaina, Buddhist, Mīmāṃsā and Cārvāka critiques"
+          ],
+          "lines": [
+            "CĀRVĀKA: no perception of God; inference overreaches",
+            " BUDDHIST: momentary dependent series needs no permanent creator",
+            " JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil",
+            " MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author",
+            " SĀṂKHYA: unconscious nature (prakṛti) evolves without a creator",
+            "                         |",
+            " HUME/KANT: causal/design inference exceeds categories or experience",
+            " NYĀYA REPLY: unconscious atoms, apūrva or karma cannot intelligently allocate order",
+            " COUNTER: coordination may show explanatory gap, not uniquely the Nyāya God."
+          ]
+        },
+        {
+          "panel_title": "8. Cumulative verdict and answer plan",
+          "structural_type": "proof comparison convergence",
+          "source_session_heading_references": [
+            "Register 8 — Comparative synthesis and answer architecture",
+            "Register 11 — Last-minute memory spine"
+          ],
+          "lines": [
+            "DEFINE target God -> classify argument -> formalise premises -> expose hidden bridge",
+            " -> strongest named critic -> best reply -> test what conclusion actually establishes",
+            "                         |",
+            " ontological: necessity if possibility | cosmological: ground if PSR",
+            " design: probability, not deduction | moral: practical/normative support",
+            " Nyāya: intelligent order within atomism",
+            "                         |",
+            " QUALIFIED VERDICT: no proof compels every rational agent; together they can form a",
+            " cumulative case only if their contested modal, causal, probabilistic and moral premises stand."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-02:learner-v2:g14",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

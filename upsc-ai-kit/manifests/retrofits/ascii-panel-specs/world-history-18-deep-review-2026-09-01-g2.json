@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-18",
+      "display_title": "Decolonization of Africa and Asia",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Why empire ended",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "EUROPEAN EXHAUSTION -> repression supply falls",
+            "NATIONALISM -> cost of rule rises",
+            "SELF-DETERMINATION -> legitimacy falls",
+            "DECISION -> holding empire costs more than leaving",
+            "MUST REMEMBER: Asian and African decolonisation accelerated through imperial exhaustion,",
+            "  anti-colonial organisation, war mobilisation, international norms and changing metropolitan",
+            "  calculations, but timing and violence varied sharply."
+          ],
+          "source_references": [
+            "Why empire became unsustainable",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Route comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GHANA -> constitutional transfer, few settlers",
+            "ALGERIA -> settler-colonial war",
+            "CONGO -> hurried exit into state crisis",
+            "PORTUGUESE AFRICA -> late metropolitan collapse"
+          ],
+          "source_references": [
+            "Ghana's constitutional route",
+            "Algeria and the settler variable",
+            "Congo and hurried transfer",
+            "Portuguese Africa's late collapse",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Malaya's distinct problem",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "NINE SULTANATES -> local rulers remain",
+            "MALACCA/PENANG -> British settlements",
+            "SINGAPORE -> separate colony in 1948",
+            "PLURAL SOCIETY -> franchise determines succession"
+          ],
+          "source_references": [
+            "Malaya's plural constitutional problem",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Malayan Emergency mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1948 -> communist insurgency and emergency",
+            "RESETTLEMENT -> guerrilla support constrained",
+            "INDEPENDENCE PROMISE -> Malay support retained",
+            "1955/1957 -> Alliance victory then independence"
+          ],
+          "source_references": [
+            "Emergency and credible independence",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Malaysia boundary sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1957 -> Malaya independent",
+            "1963 -> Federation of Malaysia proclaimed",
+            "BRUNEI -> chooses not to join",
+            "1965 -> Singapore becomes separate republic"
+          ],
+          "source_references": [
+            "Malaysia's changing boundaries",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Inherited constraint system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "COLONIAL BORDERS -> territorial identity conflict",
+            "MONO-EXPORTS -> price shocks become fiscal crises",
+            "NARROW ADMINISTRATION -> weak state capacity",
+            "COLD WAR ARMS -> internal conflict prolonged"
+          ],
+          "source_references": [
+            "Structural inheritance after independence",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Six post-colonial mechanisms",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GHANA -> commodity crisis and political closure",
+            "CONGO -> abrupt transfer and resource secession",
+            "NIGERIA -> federal identity and Biafra",
+            "ANGOLA -> external patrons prolong war"
+          ],
+          "source_references": [
+            "Ghana's constitutional route",
+            "Congo and hurried transfer",
+            "Nigeria, Biafra and redesign",
+            "Angola and external amplification",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Nigeria without determinism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1966 -> coup and anti-Igbo massacres",
+            "MAY 1967 -> Biafra declared",
+            "JAN 1970 -> war ends",
+            "AFTERWARD -> reconciliation and more states"
+          ],
+          "source_references": [
+            "Nigeria, Biafra and redesign",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Angola's amplification chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LOCAL MOVEMENTS -> MPLA, UNITA and FNLA",
+            "OUTSIDE PATRONS -> USA, Cuba, South Africa and Zaire",
+            "RESOURCES -> neither side easily defeated",
+            "VERDICT -> intervention worsens, not originates"
+          ],
+          "source_references": [
+            "Angola and external amplification",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Elite plus mass nationalism",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "EDUCATION -> political vocabulary and grievance",
+            "PRESS/PARTY -> organisation spreads",
+            "STRIKE/BOYCOTT -> disruptive leverage",
+            "RESULT -> elite leadership gains mass force",
+            "CLOSE DISTINCTION: Negotiated transfer, revolutionary war, partition, settler conflict and",
+            "  continuing dependency are distinct routes; formal independence is not identical to completed",
+            "  economic or institutional decolonisation."
+          ],
+          "source_references": [
+            "Educated elites and neo-colonialism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Apartheid system and end",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1948 -> apartheid government codifies hierarchy",
+            "1952/1960/1976 -> resistance and repression widen",
+            "INTERNAL + EXTERNAL PRESSURE -> negotiation becomes possible",
+            "1994 -> majority rule ends apartheid",
+            "EVIDENCE LIMIT: Bandung, the UN and pan-African or Asian solidarities matter alongside local",
+            "  movements, women, workers, peasants and armed groups; Europe did not simply grant freedom to",
+            "  passive colonies."
+          ],
+          "source_references": [
+            "Apartheid and the final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Decolonisation answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CAUSE -> exhaustion plus nationalist cost",
+            "ROUTES -> negotiated, settler war, insurgency and rushed exit",
+            "AFTERMATH -> inherited borders, economies and intervention",
+            "VERDICT -> sovereignty achieved, dependence unevenly survives"
+          ],
+          "source_references": [
+            "Apartheid and the final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g2\\world-history-18_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

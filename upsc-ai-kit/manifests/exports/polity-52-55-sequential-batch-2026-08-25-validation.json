@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-52-55-sequential-batch-2026-08-25",
+  "validated_at": "2026-08-25T14:05:28.101476+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-52",
+      "polity-53",
+      "polity-54",
+      "polity-55"
+    ],
+    "topic_count": 4,
+    "timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-52",
+        "started_at": "2026-08-25T13:31:32+05:30",
+        "completed_at": "2026-08-25T13:37:20.776455+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T13:31:32+05:30",
+          "A_completed": "2026-08-25T13:31:35+05:30",
+          "B_completed": "2026-08-25T13:31:39+05:30",
+          "C_completed": "2026-08-25T13:31:39+05:30",
+          "D_completed": "2026-08-25T13:31:39+05:30",
+          "E_completed": "2026-08-25T13:31:39+05:30",
+          "F_completed": "2026-08-25T13:32:14+05:30",
+          "G_completed": "2026-08-25T13:32:14+05:30",
+          "H_completed": "2026-08-25T13:34:27+05:30",
+          "I_completed": "2026-08-25T13:37:20.776455+05:30",
+          "J_completed": "2026-08-25T13:37:20.776455+05:30"
+        },
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-53",
+        "started_at": "2026-08-25T13:41:08+05:30",
+        "completed_at": "2026-08-25T13:45:48.486846+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T13:41:08+05:30",
+          "A_completed": "2026-08-25T13:42:36+05:30",
+          "B_completed": "2026-08-25T13:42:39+05:30",
+          "C_completed": "2026-08-25T13:42:39+05:30",
+          "D_completed": "2026-08-25T13:42:39+05:30",
+          "E_completed": "2026-08-25T13:42:39+05:30",
+          "F_completed": "2026-08-25T13:43:12+05:30",
+          "G_completed": "2026-08-25T13:43:12+05:30",
+          "H_completed": "2026-08-25T13:45:34+05:30",
+          "I_completed": "2026-08-25T13:45:48.486846+05:30",
+          "J_completed": "2026-08-25T13:45:48.486846+05:30"
+        },
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-54",
+        "started_at": "2026-08-25T13:45:54+05:30",
+        "completed_at": "2026-08-25T13:51:18.547070+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T13:45:54+05:30",
+          "A_completed": "2026-08-25T13:46:19+05:30",
+          "B_completed": "2026-08-25T13:46:21+05:30",
+          "C_completed": "2026-08-25T13:46:21+05:30",
+          "D_completed": "2026-08-25T13:46:21+05:30",
+          "E_completed": "2026-08-25T13:46:22+05:30",
+          "F_completed": "2026-08-25T13:47:01+05:30",
+          "G_completed": "2026-08-25T13:47:01+05:30",
+          "H_completed": "2026-08-25T13:49:29+05:30",
+          "I_completed": "2026-08-25T13:51:18.547070+05:30",
+          "J_completed": "2026-08-25T13:51:18.547070+05:30"
+        },
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-55",
+        "started_at": "2026-08-25T13:52:38+05:30",
+        "completed_at": "2026-08-25T13:56:53.333008+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T13:52:38+05:30",
+          "A_completed": "2026-08-25T13:52:42+05:30",
+          "B_completed": "2026-08-25T13:52:45+05:30",
+          "C_completed": "2026-08-25T13:52:45+05:30",
+          "D_completed": "2026-08-25T13:52:46+05:30",
+          "E_completed": "2026-08-25T13:52:46+05:30",
+          "F_completed": "2026-08-25T13:53:24+05:30",
+          "G_completed": "2026-08-25T13:53:24+05:30",
+          "H_completed": "2026-08-25T13:56:38+05:30",
+          "I_completed": "2026-08-25T13:56:53.333008+05:30",
+          "J_completed": "2026-08-25T13:56:53.333008+05:30"
+        },
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "new_topic_records": [
+      "polity-52:learner-v2:g2",
+      "polity-53:learner-v2:g2",
+      "polity-54:learner-v2:g2",
+      "polity-55:learner-v2:g2"
+    ],
+    "approvals_false": true,
+    "legacy_records_retained": true,
+    "path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-52",
+        "title": "NCRWC and Working of the Constitution",
+        "started_at": "2026-08-25T13:31:32+05:30",
+        "completed_at": "2026-08-25T13:37:20.776455+05:30",
+        "record_id": "polity-52:learner-v2:g2",
+        "counts": {
+          "sessions": 27,
+          "main_pdf_pages": 67,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 4,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-52-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-52-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-52-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-52.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\polity-52_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\polity-52_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\polity-52_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\polity-52_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g2"
+        },
+        "factual_caveat": "The NCRWC was an executive, temporary, advisory commission established in 2000 under Justice M.N. Venkatachaliah. Its 2002 recommendations are not law. Every implementation claim is proposal-specific; working of the Constitution includes institutions, conventions, political practice, capacity and remedies.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T13:31:32+05:30",
+          "A_completed": "2026-08-25T13:31:35+05:30",
+          "B_completed": "2026-08-25T13:31:39+05:30",
+          "C_completed": "2026-08-25T13:31:39+05:30",
+          "D_completed": "2026-08-25T13:31:39+05:30",
+          "E_completed": "2026-08-25T13:31:39+05:30",
+          "F_completed": "2026-08-25T13:32:14+05:30",
+          "G_completed": "2026-08-25T13:32:14+05:30",
+          "H_completed": "2026-08-25T13:34:27+05:30",
+          "I_completed": "2026-08-25T13:37:20.776455+05:30",
+          "J_completed": "2026-08-25T13:37:20.776455+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\52-NCRWC-and-Working-of-the-Constitution",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-52-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 67,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "case_year": {
+          "topic_key": "polity-52",
+          "record_id": "polity-52:learner-v2:g2",
+          "passed": true,
+          "expected_case_count": 5,
+          "case_year_errors": [],
+          "final_library_source_output_equal": true,
+          "graphical_layout_passed": true,
+          "contact_sheet_count": 1,
+          "preview_count": 4,
+          "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-2026-08-25-sequential.json",
+          "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-52.json"
+        },
+        "control_date_compliant": true,
+        "approval_isolated": true
+      },
+      {
+        "topic_key": "polity-53",
+        "title": "Special Provisions Relating to Certain Classes",
+        "started_at": "2026-08-25T13:41:08+05:30",
+        "completed_at": "2026-08-25T13:45:48.486846+05:30",
+        "record_id": "polity-53:learner-v2:g2",
+        "counts": {
+          "sessions": 25,
+          "main_pdf_pages": 60,
+          "workbook_pdf_pages": 16,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 2,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-53-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-53-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-53-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-53.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2"
+        },
+        "factual_caveat": "Part XVI is not a single reservation code. Representation, service claims, commissions and constitutional lists use different legal mechanisms. Davinder Singh (2024) permits evidence-based SC sub-classification for distribution; it does not transfer Article 341 list-alteration power to States.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T13:41:08+05:30",
+          "A_completed": "2026-08-25T13:42:36+05:30",
+          "B_completed": "2026-08-25T13:42:39+05:30",
+          "C_completed": "2026-08-25T13:42:39+05:30",
+          "D_completed": "2026-08-25T13:42:39+05:30",
+          "E_completed": "2026-08-25T13:42:39+05:30",
+          "F_completed": "2026-08-25T13:43:12+05:30",
+          "G_completed": "2026-08-25T13:43:12+05:30",
+          "H_completed": "2026-08-25T13:45:34+05:30",
+          "I_completed": "2026-08-25T13:45:48.486846+05:30",
+          "J_completed": "2026-08-25T13:45:48.486846+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\53-Special-Provisions-Relating-to-Certain-Classes",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-53-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 60,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 16,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "case_year": {
+          "topic_key": "polity-53",
+          "record_id": "polity-53:learner-v2:g2",
+          "passed": true,
+          "expected_case_count": 5,
+          "case_year_errors": [],
+          "final_library_source_output_equal": true,
+          "graphical_layout_passed": true,
+          "contact_sheet_count": 1,
+          "preview_count": 3,
+          "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json",
+          "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-53.json"
+        },
+        "control_date_compliant": true,
+        "approval_isolated": true
+      },
+      {
+        "topic_key": "polity-54",
+        "title": "Lok Adalats and Other Courts",
+        "started_at": "2026-08-25T13:45:54+05:30",
+        "completed_at": "2026-08-25T13:51:18.547070+05:30",
+        "record_id": "polity-54:learner-v2:g2",
+        "counts": {
+          "sessions": 29,
+          "main_pdf_pages": 66,
+          "workbook_pdf_pages": 16,
+          "mcqs": 48,
+          "verified_pyqs": 3,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-54-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-54-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-54-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-54.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2"
+        },
+        "factual_caveat": "Ordinary Lok Adalats settle only by compromise and cannot decide merits. Permanent Lok Adalats are pre-litigation public-utility bodies that conciliate first and may then decide an eligible dispute. Courts, tribunals, mediation, schemes and operational Lok Adalat formats remain legally distinct.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T13:45:54+05:30",
+          "A_completed": "2026-08-25T13:46:19+05:30",
+          "B_completed": "2026-08-25T13:46:21+05:30",
+          "C_completed": "2026-08-25T13:46:21+05:30",
+          "D_completed": "2026-08-25T13:46:21+05:30",
+          "E_completed": "2026-08-25T13:46:22+05:30",
+          "F_completed": "2026-08-25T13:47:01+05:30",
+          "G_completed": "2026-08-25T13:47:01+05:30",
+          "H_completed": "2026-08-25T13:49:29+05:30",
+          "I_completed": "2026-08-25T13:51:18.547070+05:30",
+          "J_completed": "2026-08-25T13:51:18.547070+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\54-Lok-Adalats-and-Other-Courts",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-54-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 66,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 16,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "case_year": {
+          "topic_key": "polity-54",
+          "record_id": "polity-54:learner-v2:g2",
+          "passed": true,
+          "expected_case_count": 7,
+          "case_year_errors": [],
+          "final_library_source_output_equal": true,
+          "graphical_layout_passed": true,
+          "contact_sheet_count": 1,
+          "preview_count": 4,
+          "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json",
+          "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-54.json"
+        },
+        "control_date_compliant": true,
+        "approval_isolated": true
+      },
+      {
+        "topic_key": "polity-55",
+        "title": "Constitutional Interpretation Doctrines",
+        "started_at": "2026-08-25T13:52:38+05:30",
+        "completed_at": "2026-08-25T13:56:53.333008+05:30",
+        "record_id": "polity-55:learner-v2:g2",
+        "counts": {
+          "sessions": 39,
+          "main_pdf_pages": 81,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 4,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-55-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-55-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-55-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-55.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2"
+        },
+        "factual_caveat": "A doctrine is a structured test anchored in text, structure and precedent, not a substitute for the governing Article. Interpretation, amendment and judicial legislation are distinct. Bench strength, decision year, legal effect and limitation must accompany every case-based doctrine.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T13:52:38+05:30",
+          "A_completed": "2026-08-25T13:52:42+05:30",
+          "B_completed": "2026-08-25T13:52:45+05:30",
+          "C_completed": "2026-08-25T13:52:45+05:30",
+          "D_completed": "2026-08-25T13:52:46+05:30",
+          "E_completed": "2026-08-25T13:52:46+05:30",
+          "F_completed": "2026-08-25T13:53:24+05:30",
+          "G_completed": "2026-08-25T13:53:24+05:30",
+          "H_completed": "2026-08-25T13:56:38+05:30",
+          "I_completed": "2026-08-25T13:56:53.333008+05:30",
+          "J_completed": "2026-08-25T13:56:53.333008+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 6,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\55-Constitutional-Interpretation-Doctrines",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-55-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 81,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "case_year": {
+          "topic_key": "polity-55",
+          "record_id": "polity-55:learner-v2:g2",
+          "passed": true,
+          "expected_case_count": 28,
+          "case_year_errors": [],
+          "final_library_source_output_equal": true,
+          "graphical_layout_passed": true,
+          "contact_sheet_count": 1,
+          "preview_count": 3,
+          "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-2026-08-25-sequential.json",
+          "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-55.json"
+        },
+        "control_date_compliant": true,
+        "approval_isolated": true
+      }
+    ],
+    "totals": {
+      "sessions": 120,
+      "main_pdf_pages": 274,
+      "workbook_pdf_pages": 66,
+      "mcqs": 192,
+      "verified_pyqs": 7,
+      "supporting_pyqs": 10,
+      "original_mains": 32,
+      "ascii_panels": 36,
+      "graphical_core_stages": 36,
+      "flow_pages": 36
+    }
+  },
+  "inventories": {
+    "requested_task_cohort_clean_topics": 88,
+    "physical_clean_topics": 92,
+    "concurrent_unrelated_clean_additions": 4,
+    "selected_four_item_topics": 4,
+    "selected_four_item_links_checked": 1112,
+    "polity_clean_topics": 55,
+    "polity_flow_topics": 55,
+    "polity_flow_links_checked": 805,
+    "task_flow_topics": 88,
+    "task_flow_links_checked": 805
+  },
+  "preservation": {
+    "generator_baseline_clean_files": 704,
+    "generator_baseline_flow_files": 252,
+    "generator_clean_mismatches": [],
+    "generator_flow_mismatches": [],
+    "prior_84_flow_destination_hash_mismatches": [],
+    "concurrent_workspace_note": {
+      "current_clean_topic_count": 92,
+      "task_cohort_topic_count": 88,
+      "unrelated_new_clean_topics": 4,
+      "pre_existing_flow_records_with_concurrently_refreshed_clean_identity": [
+        {
+          "topic_key": "philosophy-paper-i-indian-philosophy-01",
+          "preserved_flow_record": "philosophy-paper-i-indian-philosophy-01:learner-v2:g13",
+          "current_clean_record": "philosophy-paper-i-indian-philosophy-01:learner-v2:g14"
+        },
+        {
+          "topic_key": "philosophy-paper-i-indian-philosophy-02",
+          "preserved_flow_record": "philosophy-paper-i-indian-philosophy-02:learner-v2:g12",
+          "current_clean_record": "philosophy-paper-i-indian-philosophy-02:learner-v2:g13"
+        },
+        {
+          "topic_key": "philosophy-paper-i-indian-philosophy-03",
+          "preserved_flow_record": "philosophy-paper-i-indian-philosophy-03:learner-v2:g12",
+          "current_clean_record": "philosophy-paper-i-indian-philosophy-03:learner-v2:g13"
+        },
+        {
+          "topic_key": "philosophy-paper-i-indian-philosophy-04",
+          "preserved_flow_record": "philosophy-paper-i-indian-philosophy-04:learner-v2:g12",
+          "current_clean_record": "philosophy-paper-i-indian-philosophy-04:learner-v2:g13"
+        },
+        {
+          "topic_key": "philosophy-paper-i-indian-philosophy-05",
+          "preserved_flow_record": "philosophy-paper-i-indian-philosophy-05:learner-v2:g12",
+          "current_clean_record": "philosophy-paper-i-indian-philosophy-05:learner-v2:g13"
+        }
+      ],
+      "policy": "Preserve the already-published 84 Flow artifacts rather than overwrite them with unrelated concurrent generations."
+    }
+  },
+  "tests": {
+    "command": "126 applicable learner-v2/publication regression tests; the unrelated concurrent Philosophy latest-inventory assertion was excluded",
+    "passed": 126,
+    "failed": 0,
+    "excluded_unrelated_concurrent_assertions": 1
+  },
+  "checks": {
+    "strict_sequence": true,
+    "all_gate_timestamps_monotonic": true,
+    "all_gates_passed": true,
+    "source_pyq_topic_audits_passed": true,
+    "records_unapproved_and_isolated": true,
+    "legacy_history_retained": true,
+    "control_dates_passed": true,
+    "pdf_layouts_passed": true,
+    "ascii_equal": true,
+    "case_years_passed": true,
+    "mcq_rotation_passed": true,
+    "generator_preservation_passed": true,
+    "selected_four_item_package_passed": true,
+    "polity_flow_55_passed": true,
+    "task_flow_88_passed": true,
+    "targeted_regressions_passed": true
+  },
+  "evidence_paths": {
+    "state": "upsc-ai-kit\\manifests\\exports\\polity-52-55-sequential-batch-2026-08-25-state.json",
+    "case_year": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-2026-08-25-validation.json",
+    "selected_four_item": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-25-validation.json",
+    "polity_flow": "upsc-ai-kit\\manifests\\exports\\polity-01-55-flow-learning-2026-08-25-validation.json",
+    "full_flow": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-25-validation.json",
+    "report": "notes\\Final-Learning-Packages\\POLITY-52-55-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-52-55-sequential-batch-2026-08-25-changed-files.txt",
+    "changed_files_count": 267
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-21",
+  "reviewed_on": "2026-08-28",
+  "record_id": "polity-21:learner-v2:g4",
+  "constitutional_scope": "Articles 214-237 and related provisions",
+  "current_controls": [
+    {
+      "claim": "High Court sanctioned/working/vacant strength",
+      "value": "1122/781/341",
+      "as_of": "2026-07-01",
+      "source": "Department of Justice"
+    },
+    {
+      "claim": "Serving judicial officers may prospectively compete in direct District-Judge recruitment subject to stated conditions",
+      "source": "Rejanish K.V. v. K. Deepa, 2025 INSC 1208"
+    },
+    {
+      "claim": "Three-year Bar practice prospectively required for Civil Judge entry recruitment; 25% LDCE restored",
+      "source": "All India Judges Association v. Union of India, 2025"
+    }
+  ],
+  "jurisprudence": [
+    "L. Chandra Kumar",
+    "Radhey Shyam v. Chhabi Nath",
+    "K. Valarmathi v. Kumaresan",
+    "Nripendra Nath Bagchi",
+    "Sankalchand Himmatlal Sheth",
+    "Fourth Judges Case"
+  ],
+  "pyq_profile": "Two cross-owned direct Mains PYQs and two routed Prelims demands; metadata qualified where unavailable.",
+  "result": "passed"
+}

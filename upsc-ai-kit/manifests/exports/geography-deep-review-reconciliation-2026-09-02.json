@@ -1,0 +1,639 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-02T05:08:53.603348+00:00",
+  "subject": "Geography",
+  "section": "Part B — Human, Economic and Regional Geography",
+  "represented": 12,
+  "expected": 12,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_geography_part_b_deep_review (cwd=tools)",
+      "tests": 43,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_regional_development_boundaries (test_generate_geography_29_sequential.Geography29GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_29_sequential.Geography29GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_31_sequential.Geography31GeneratorTests) ... ok\ntest_mineral_and_energy_boundaries (test_generate_geography_31_sequential.Geography31GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_31_sequential.Geography31GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_33_sequential.Geography33GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_33_sequential.Geography33GeneratorTests) ... ok\ntest_transport_trade_and_space_boundaries (test_generate_geography_33_sequential.Geography33GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_34_sequential.Geography34GeneratorTests) ... ok\ntest_regional_method_boundaries (test_generate_geography_34_sequential.Geography34GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_34_sequential.Geography34GeneratorTests) ... ok\ntest_boundary_category_boundaries (test_generate_geography_35_sequential.Geography35GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_35_sequential.Geography35GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_35_sequential.Geography35GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_36_sequential.Geography36GeneratorTests) ... ok\ntest_issue_analysis_boundaries (test_generate_geography_36_sequential.Geography36GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_36_sequential.Geography36GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_37_sequential.Geography37GeneratorTests) ... ok\ntest_cultural_and_density_boundaries (test_generate_geography_37_sequential.Geography37GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_37_sequential.Geography37GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 43 tests in 2.693s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_26_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_26_sequential.Geography26GeneratorTests) ... ok\ntest_population_transition_boundaries (test_generate_geography_26_sequential.Geography26GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_26_sequential.Geography26GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.111s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_27_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_27_sequential.Geography27GeneratorTests) ... ok\ntest_migration_boundaries (test_generate_geography_27_sequential.Geography27GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_27_sequential.Geography27GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_27_sequential.Geography27GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.104s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_29_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_29_sequential.Geography29GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_29_sequential.Geography29GeneratorTests) ... ok\ntest_regional_development_boundaries (test_generate_geography_29_sequential.Geography29GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_29_sequential.Geography29GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.108s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_31_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_31_sequential.Geography31GeneratorTests) ... ok\ntest_mineral_and_energy_boundaries (test_generate_geography_31_sequential.Geography31GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_31_sequential.Geography31GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.125s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_33_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_33_sequential.Geography33GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_33_sequential.Geography33GeneratorTests) ... ok\ntest_transport_trade_and_space_boundaries (test_generate_geography_33_sequential.Geography33GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.130s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_34_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_34_sequential.Geography34GeneratorTests) ... ok\ntest_regional_method_boundaries (test_generate_geography_34_sequential.Geography34GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_34_sequential.Geography34GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.134s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_35_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_boundary_category_boundaries (test_generate_geography_35_sequential.Geography35GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_35_sequential.Geography35GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_35_sequential.Geography35GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.146s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_36_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_36_sequential.Geography36GeneratorTests) ... ok\ntest_issue_analysis_boundaries (test_generate_geography_36_sequential.Geography36GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_36_sequential.Geography36GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.128s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_geography_37_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_geography_37_sequential.Geography37GeneratorTests) ... ok\ntest_cultural_and_density_boundaries (test_generate_geography_37_sequential.Geography37GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_37_sequential.Geography37GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.144s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 8.743s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 1.808s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 8.019s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "geography-26",
+      "title": "World Population and Demographic Transition",
+      "old_record_id": "geography-26:learner-v2:g4",
+      "new_record_id": "geography-26:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-26-learner-v2-g5-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T03:11:27.485238+00:00",
+      "identities": {
+        "export": "geography-26:learner-v2:g5",
+        "master": "geography-26:learner-v2:g5",
+        "review": "geography-26:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-27",
+      "title": "Migration Theories and Patterns (India)",
+      "old_record_id": "geography-27:learner-v2:g4",
+      "new_record_id": "geography-27:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-27-learner-v2-g5-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T03:13:28.434874+00:00",
+      "identities": {
+        "export": "geography-27:learner-v2:g5",
+        "master": "geography-27:learner-v2:g5",
+        "review": "geography-27:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "title": "Human Settlements and Urbanisation",
+      "old_record_id": "geography-28-human-settlements-and-urbanisation:learner-v2:g13",
+      "new_record_id": "geography-28-human-settlements-and-urbanisation:learner-v2:g14",
+      "old_generation": 13,
+      "new_generation": 14,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-28-human-settlements-and-urbanisation-learner-v2-g14-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T03:49:04.320396+00:00",
+      "identities": {
+        "export": "geography-28-human-settlements-and-urbanisation:learner-v2:g14",
+        "master": "geography-28-human-settlements-and-urbanisation:learner-v2:g14",
+        "review": "geography-28-human-settlements-and-urbanisation:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-29",
+      "title": "Regional Development and Five Year Plans",
+      "old_record_id": "geography-29:learner-v2:g4",
+      "new_record_id": "geography-29:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-29-learner-v2-g5-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T03:49:28.565277+00:00",
+      "identities": {
+        "export": "geography-29:learner-v2:g5",
+        "master": "geography-29:learner-v2:g5",
+        "review": "geography-29:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "title": "Primary Economic Activities: Agriculture",
+      "old_record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g12",
+      "new_record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 88,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-30-primary-economic-activities-agriculture-learner-v2-g14-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T03:49:47.114890+00:00",
+      "identities": {
+        "export": "geography-30-primary-economic-activities-agriculture:learner-v2:g14",
+        "master": "geography-30-primary-economic-activities-agriculture:learner-v2:g14",
+        "review": "geography-30-primary-economic-activities-agriculture:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-31",
+      "title": "Mineral and Energy Resources: World and India",
+      "old_record_id": "geography-31:learner-v2:g3",
+      "new_record_id": "geography-31:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-31-learner-v2-g4-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T03:59:58.085015+00:00",
+      "identities": {
+        "export": "geography-31:learner-v2:g4",
+        "master": "geography-31:learner-v2:g4",
+        "review": "geography-31:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "title": "Industries and Industrial Regions",
+      "old_record_id": "geography-32-industries-and-industrial-regions:learner-v2:g12",
+      "new_record_id": "geography-32-industries-and-industrial-regions:learner-v2:g16",
+      "old_generation": 12,
+      "new_generation": 16,
+      "old_score": 88,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-32-industries-and-industrial-regions-learner-v2-g16-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T04:00:18.146906+00:00",
+      "identities": {
+        "export": "geography-32-industries-and-industrial-regions:learner-v2:g16",
+        "master": "geography-32-industries-and-industrial-regions:learner-v2:g16",
+        "review": "geography-32-industries-and-industrial-regions:learner-v2:g16"
+      },
+      "generations": {
+        "export": 16,
+        "master": 16,
+        "review": 16
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-33",
+      "title": "Transport, Trade and the Indian Space Programme",
+      "old_record_id": "geography-33:learner-v2:g2",
+      "new_record_id": "geography-33:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-33-learner-v2-g3-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T04:19:46.497325+00:00",
+      "identities": {
+        "export": "geography-33:learner-v2:g3",
+        "master": "geography-33:learner-v2:g3",
+        "review": "geography-33:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-34",
+      "title": "World Regional Geography: Continents and Countries",
+      "old_record_id": "geography-34:learner-v2:g2",
+      "new_record_id": "geography-34:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-34-learner-v2-g3-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T04:20:17.363367+00:00",
+      "identities": {
+        "export": "geography-34:learner-v2:g3",
+        "master": "geography-34:learner-v2:g3",
+        "review": "geography-34:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-35",
+      "title": "Indian Political Geography: Boundaries and Neighbours",
+      "old_record_id": "geography-35:learner-v2:g2",
+      "new_record_id": "geography-35:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-35-learner-v2-g3-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T04:20:55.620521+00:00",
+      "identities": {
+        "export": "geography-35:learner-v2:g3",
+        "master": "geography-35:learner-v2:g3",
+        "review": "geography-35:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-36",
+      "title": "Contemporary Geographical Issues (India)",
+      "old_record_id": "geography-36:learner-v2:g2",
+      "new_record_id": "geography-36:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-36-learner-v2-g4-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T04:21:20.467868+00:00",
+      "identities": {
+        "export": "geography-36:learner-v2:g4",
+        "master": "geography-36:learner-v2:g4",
+        "review": "geography-36:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "geography-37",
+      "title": "Cultural and Social Geography of India",
+      "old_record_id": "geography-37:learner-v2:g2",
+      "new_record_id": "geography-37:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-37-learner-v2-g4-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T04:21:42.190817+00:00",
+      "identities": {
+        "export": "geography-37:learner-v2:g4",
+        "master": "geography-37:learner-v2:g4",
+        "review": "geography-37:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    }
+  ],
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02-validation.json",
+  "final_library_topic_count": 304,
+  "live_tracker_sync": "passed",
+  "identity_resolution": {
+    "canonical_manifest_keys": [
+      "geography-26",
+      "geography-27",
+      "geography-28",
+      "geography-29",
+      "geography-30",
+      "geography-31",
+      "geography-32",
+      "geography-33",
+      "geography-34",
+      "geography-35",
+      "geography-36",
+      "geography-37"
+    ],
+    "operational_tracker_keys": [
+      "geography-26",
+      "geography-27",
+      "geography-28-human-settlements-and-urbanisation",
+      "geography-29",
+      "geography-30-primary-economic-activities-agriculture",
+      "geography-31",
+      "geography-32-industries-and-industrial-regions",
+      "geography-33",
+      "geography-34",
+      "geography-35",
+      "geography-36",
+      "geography-37"
+    ],
+    "aliases": {
+      "geography-28": "geography-28-human-settlements-and-urbanisation",
+      "geography-30": "geography-30-primary-economic-activities-agriculture",
+      "geography-32": "geography-32-industries-and-industrial-regions"
+    },
+    "policy": "Preserve established long-form learner-v2 histories for topics 28, 30 and 32; do not create competing short-key histories.",
+    "latest_identity_agreement": true
+  }
+}

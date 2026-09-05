@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "snapshot_on": "2026-08-27",
+  "topic_key": "philosophy-paper-i-western-philosophy-11",
+  "canonical_sequence_number": 11,
+  "planned_generation": 2,
+  "approval": false,
+  "tracker_resolution": "Latest existing generation is legacy-v1 g1; no learner-v2 record exists, so the resolved next learner-v2 generation is g2.",
+  "existing_records": [
+    "philosophy-paper-i-western-philosophy-11:legacy-v1:g1"
+  ],
+  "supersedes": "philosophy-paper-i-western-philosophy-11:legacy-v1:g1",
+  "target_absence": {
+    "knowledge_g2": true,
+    "notes_g2": true,
+    "flow_g2": true,
+    "ascii_g2_spec": true
+  },
+  "shared_file_hashes": {
+    "EXPORT-PDF-STATUS.json": "10cc13322c3f11b710c836091a01e47ca71517f86d9ef1ae74449a38a673be82",
+    "EXPORT-PDF-COMMAND-INDEX.md": "c53adbccb07f65c489a46e2c5b53a2208faad03553cc802330a2e4215579f12d",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "963b8d3483215acf4a275f8b88dc022d8d986b7359202f041f4aade8ca4074bc",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy.json": "e5b5cf530b3b85b3d072f350a53402cb2ea1b39c6abcc3b93099a2d1423b895e"
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md": "f9d38d95e721fec5f861504eb747d83ee0896ed44d83a44edf0dc689fdb75d97",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Complete-Learning-Session_2026-08-19.md": "9af4efbc2fc8dcad340e7b969499612c863f9ba606141a5a8ec597be1b44b97c",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Solved-Practice-Workbook_2026-08-19.md": "0ee599cd9a9070206e13a48ffb61b253ffb4be40e1c3b922a97b1c61baf23a3a",
+    "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882",
+    "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417",
+    "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4",
+    "books\\philosphy_books\\philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf": "be39d9a1558c5f9f6958dc98c71dc80f5dad9c8b11da0d7c973c9d459acae2bb"
+  },
+  "out_of_scope_tree_fingerprints": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09": {
+      "exists": true,
+      "file_count": 3,
+      "total_bytes": 466032,
+      "aggregate_sha256": "a878eea6eb3de50bad2ff12dcba3e7b12737f76d6fc24fd8268967fd871b1e7a"
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10": {
+      "exists": true,
+      "file_count": 6,
+      "total_bytes": 1193024,
+      "aggregate_sha256": "3b7f853d9811eccf0b028bf182cde08a97d951e1b1c8950c3e0541d0099bee85"
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10": {
+      "exists": true,
+      "file_count": 61,
+      "total_bytes": 71238641,
+      "aggregate_sha256": "42a41b29eabd47327e7626ed566ae212412816591fd616fd492d5f8af27a5472"
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-10": {
+      "exists": true,
+      "file_count": 34,
+      "total_bytes": 29969853,
+      "aggregate_sha256": "822d5a9c3d839b56b35ffa50093c4029e026082fa1805bea9e464e4247117066"
+    },
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson": {
+      "exists": true,
+      "file_count": 3,
+      "total_bytes": 454717,
+      "aggregate_sha256": "38ab32188a5ed49867277a7d0b9ce734ca23937f21a8b9a958b800ae85f63bb8"
+    }
+  },
+  "planned_mutable_paths": [
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-11-ascii-2026-08-27.json",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-content-specs\\philosophy-paper-i-western-philosophy-11-g2.json",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-graphical-specs\\philosophy-paper-i-western-philosophy-11-g2.json",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy.json",
+    "EXPORT-PDF-STATUS.json",
+    "EXPORT-PDF-COMMAND-INDEX.md",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md"
+  ],
+  "known_unrelated_warning": "The working tree already contains unrelated pre-existing modifications and untracked files. Only the planned mutable paths above may change during this topic generation.",
+  "ocr_audit": {
+    "2016_Masih_A_critical_history_of_western_philosophy.pdf": {
+      "path": "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf",
+      "pages": 6,
+      "text_pages": 6,
+      "hits": {
+        "analytic": [
+          6
+        ]
+      },
+      "sha256": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882"
+    },
+    "Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+      "pages": 1032,
+      "text_pages": 1032,
+      "hits": {
+        "holism": [
+          7,
+          15,
+          92,
+          206,
+          260,
+          264,
+          276,
+          290
+        ],
+        "Strawson": [
+          8,
+          92,
+          106,
+          337,
+          388,
+          596,
+          675,
+          680
+        ],
+        "person": [
+          8,
+          10,
+          14,
+          21,
+          27,
+          29,
+          38,
+          43
+        ],
+        "presupposition": [
+          8,
+          98,
+          116,
+          190,
+          224,
+          314,
+          346,
+          358
+        ],
+        "analytic": [
+          10,
+          13,
+          35,
+          43,
+          50,
+          52,
+          58,
+          59
+        ],
+        "Quine": [
+          12,
+          36,
+          60,
+          69,
+          111,
+          153,
+          154,
+          170
+        ],
+        "basic particular": [
+          106,
+          915
+        ],
+        "synonymy": [
+          174,
+          363,
+          578,
+          594,
+          706,
+          931
+        ],
+        "gavagai": [
+          456
+        ]
+      },
+      "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417"
+    },
+    "a_new_history_of_western_philosophy_volume_4.pdf": {
+      "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+      "pages": 364,
+      "text_pages": 364,
+      "hits": {
+        "Strawson": [
+          8,
+          10,
+          15,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        "analytic": [
+          10,
+          12,
+          15,
+          50,
+          55,
+          58,
+          68,
+          80
+        ],
+        "Quine": [
+          15,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          135
+        ],
+        "person": [
+          15,
+          19,
+          22,
+          23,
+          29,
+          30,
+          33,
+          34
+        ],
+        "presupposition": [
+          64
+        ],
+        "synonymy": [
+          82,
+          83,
+          363
+        ],
+        "gavagai": [
+          83,
+          358
+        ],
+        "basic particular": [
+          87
+        ],
+        "holism": [
+          359
+        ]
+      },
+      "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4"
+    },
+    "philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf": {
+      "path": "books\\philosphy_books\\philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf",
+      "pages": 474,
+      "text_pages": 474,
+      "hits": {
+        "person": [
+          14,
+          31,
+          41,
+          44,
+          45,
+          46,
+          48,
+          52
+        ],
+        "analytic": [
+          214,
+          215,
+          216,
+          221,
+          337,
+          345,
+          386,
+          446
+        ],
+        "Quine": [
+          356,
+          467
+        ]
+      },
+      "sha256": "be39d9a1558c5f9f6958dc98c71dc80f5dad9c8b11da0d7c973c9d459acae2bb"
+    }
+  }
+}

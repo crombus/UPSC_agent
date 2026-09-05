@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-09",
+  "title": "Fundamental Duties",
+  "gate": "A",
+  "started_at": "2026-08-24T08:22:50+05:30",
+  "completed_at": "2026-08-24T08:26:53+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, Advanced and complete package reconciled without making Advanced necessary."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Laxmikanth pages on origin, eleven duties, features and criticism checked; local papers checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        "https://moef.gov.in/"
+      ],
+      "result": "Official MoEF homepage accessed 24 August 2026 as a bounded Article 51A(g) administration anchor."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "coverage_checks": {
+    "part_iva_article_51a": true,
+    "swaran_singh_42nd_86th": true,
+    "all_eleven_exact_grouped": true,
+    "citizens_only_non_justiciable": true,
+    "rights_duties_dpsp": true,
+    "cases_bounded": true,
+    "verma_committee_and_existing_laws": true,
+    "criticism_reform_answer_structure": true
+  },
+  "pyq_audit": {
+    "direct_owned_count": 0,
+    "supporting_count": 2,
+    "questions": [
+      "2020 GS-I Q8",
+      "2025 GS-I Q55"
+    ],
+    "ownership": "Both remain routed to polity-08.",
+    "key_status": "2025 official local Set-A key verified C; 2020 answer inferred because no local official key is held; no direct Mains PYQ fabricated."
+  },
+  "current_affairs_audit": {
+    "window": "2026-02-24 through 2026-08-24",
+    "anchor": "Official MoEF homepage accessed 2026-08-24",
+    "fact": "The ministry page carried current 2026 administrative notices.",
+    "analysis": "This anchors ongoing environmental administration relevant to Article 51A(g), not direct enforceability of the duty.",
+    "caveat": "No later official merits decision in Durga Dutt was located; the verified 11 September 2024 order remains the bounded case-status control."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md": "7f366e4f264e1ada809d837a95ef4dc3ea885f495ad35d4489e8ba82a4c29d51",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md": "5c0e6684a61c8ed134917c01066341fe222634ebca0850f27e0e70f96e3ce8a0",
+    "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md": "3c9e1dc1078c0eb27309c45241b21f8d53f41f13f40cb0d429204fcb2276616c",
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-09_Learning-Session.md": "7f1559e3df397f1587373945cc4f5264d826db80700f1b9a5aec4d7062926de8",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md": "ffae6200f024464d6a374f6da60df5c3228d16857a9f5bbd8bd88b497498b8fe",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md": "99fed1fedbd8eed0e648be4d62ab505827ea2a3beb99058554c2d3fb106d4cda",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": "3a56b05d3cfeb8fb3a257e5391079b5afd4dd4683e573f6c890580641d525210",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "ef34ff4e94ce8fefd3c7ee881b1bc8993b54e6e6fd52c68fd7b590c57f685283",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json": "970a2d661cca4e98de75a092fc73bbba4e9f94077a2bbcfefc86f3e9797abf2a",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-09.json": "1b66c50275c18d6dfba3cfb6e85f28cce357beeddf78b17b059fa5a2906bbd49"
+  }
+}

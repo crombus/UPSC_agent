@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-13",
+      "display_title": "Religion, Philosophy and Cultural Synthesis",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cultural-framework root",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "BELIEF -> subject and symbolism",
+            "PATRONAGE -> institution and monument",
+            "LANGUAGE -> devotional public",
+            "PRACTICE -> pilgrimage, music and festival",
+            "MUST REMEMBER: The cultural-synthesis frame connects purusharthas, six orthodox darshanas,",
+            "  Buddhist and Jain traditions, Bhakti and Sufi movements, sectarian institutions, language,",
+            "  patronage, monuments and shared social practice."
+          ],
+          "source_references": [
+            "Religion and philosophy as cultural frameworks",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Purushartha map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARTHA -> material means",
+            "DHARMA -> social regulation",
+            "KAMA -> pleasure and love",
+            "MOKSHA -> liberation"
+          ],
+          "source_references": [
+            "Purushartha and the six darshanas",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Vedanta discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ADVAITA -> nirguna, knowledge, jivanmukti",
+            "VISHISHTADVAITA -> attributes and devotion",
+            "DVAITA -> Madhva and Brahma Sampradaya",
+            "TRAP -> Pushtimarg belongs to Vallabha"
+          ],
+          "source_references": [
+            "Advaita, Vishishtadvaita and Dvaita",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bhakti causal model",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ORTHODOXY / CASTE RIGIDITY -> reaction",
+            "MARGINALISED PUBLICS -> inclusion claim",
+            "BUDDHIST-JAIN DECLINE -> religious space",
+            "ROYAL PATRONAGE -> institutional growth"
+          ],
+          "source_references": [
+            "Why Bhakti emerged",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Tamil canon matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NAYANARS -> 63, Shaiva, Tamil",
+            "ALVARS -> 12, Vaishnava, Tamil",
+            "ANDAL -> sole woman in Alvar canon",
+            "TEMPLE -> compilation and sculptural afterlife"
+          ],
+          "source_references": [
+            "Tamil Bhakti canons",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bhakti literature rail",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "KABIR -> doha and Sant Bhasha",
+            "TULSIDAS -> Awadhi Ramcharitmanas",
+            "SURDAS -> Braj Sur Sagar",
+            "BASAVANNA / TUKARAM -> Vachana and Abhanga",
+            "CLOSE DISTINCTION: The six darshanas are schools accepting Vedic authority rather than six",
+            "  religions; Samkhya, Yoga, Advaita, Vishishtadvaita and devotional forms must not be",
+            "  flattened into one doctrine or full metaphysical proof."
+          ],
+          "source_references": [
+            "Saguna, Nirguna and named literature",
+            "Basavanna and Varkari trajectories",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Women and authority",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NAMED WOMAN -> identify region and tradition",
+            "ROUTE -> household or renunciant practice",
+            "CANON -> test institutional remembrance",
+            "VERDICT -> participation did not equal emancipation"
+          ],
+          "source_references": [
+            "Women and the limits of inclusion",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sufi order matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHISHTI -> service and court distance",
+            "SUHRAWARDI -> property and scholarship",
+            "QADIRI / SHATTARI -> named cultural links",
+            "NAQSHBANDI -> counter-current to harmony"
+          ],
+          "source_references": [
+            "Sufi orders are not one position",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Chishti cultural circuit",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "AJMER -> Moinuddin, khanqah and urs",
+            "DELHI -> Nizamuddin and Amir Khusrau",
+            "PUNJAB -> Baba Farid in Adi Granth",
+            "RULE -> place, person, practice and text"
+          ],
+          "source_references": [
+            "Chishti place, person and text links",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sufi evidence grammar",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MALFUZAT -> conversations",
+            "MAKTUBAT -> letters",
+            "TAZKIRAS -> biographies",
+            "SAMA / ZIYARAT -> practice, not source genre"
+          ],
+          "source_references": [
+            "Sufi practices and source genres",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Synthesis test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SHARED SPACE / FORM? -> name it",
+            "TRANSLATION / TEXT? -> identify it",
+            "DOCTRINAL MERGER? -> prove, do not assume",
+            "LIMIT -> power, opposition and counter-current"
+          ],
+          "source_references": [
+            "Where synthesis works and fails",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Philosophy-to-art spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDEA -> identify the doctrine or practice",
+            "DESIGN -> show the formal conversion",
+            "MONUMENT -> name the evidence",
+            "QUALIFY -> patronage, material and intention",
+            "EVIDENCE LIMIT: Cultural interaction is neither timeless harmony nor permanent conflict: named",
+            "  institutions, texts, patrons, regions and social exclusions must qualify any synthesis",
+            "  claim."
+          ],
+          "source_references": [
+            "Philosophy, monuments, festivals and PYQs",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g4\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

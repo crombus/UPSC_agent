@@ -1,0 +1,1128 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-16",
+  "subject": "Social-Justice",
+  "title": "URBAN POOR, HOMELESS AND MIGRANT WORKERS",
+  "short_route": "URBAN DEPRIVATION NEXUS → HOUSING DEPRIVATION SPECTRUM → URBAN MISSION STRUCTURE → SHELTER NORM AND ITS → VENDOR CREDIT CARD → STATUTE AGAINST CREDIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-16-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "7cb74509844c4ae3dc4b6178e5e92387cbfc00bac34ccab98cb02e5c7608b14c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "URBAN DEPRIVATION NEXUS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "URBAN DEPRIVATION NEXUS",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSELESS AND ROOFLESS; INADEQUATE HOUSING; SLUM DWELLING WITH TENURE",
+          "role": "outcome"
+        },
+        {
+          "text": "STREET VENDING, INFORMAL WORK, PERIODIC CLEARANCE DRIVES AND EVICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SEASONAL AND CIRCULAR MOVEMENT DETACHES THE WORKER FROM A",
+          "role": "evidence"
+        },
+        {
+          "text": "SHELTER COMPONENT; VENDING STATUTE WITH CREDIT SCHEME; RATION PORTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "SECURE SHELTER, PROTECTED LIVELIHOOD AND AN ENTITLEMENT THAT TRAVELS",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN POVERTY IS SHAPED BY INSECURE WORK, RENT AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOUSING → houseless and roofless; inadequate housing; slum dwelling with tenure insecurity",
+        "LIVELIHOOD: street vending, informal work, periodic clearance drives and eviction risk",
+        "PORTABILITY: seasonal and circular movement detaches the worker from a fixed shop",
+        "INSTRUMENTS: shelter component; vending statute with credit scheme; ration portability",
+        "TEST → secure shelter, protected livelihood and an entitlement that travels with the person"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOUSING → houseless and roofless; inadequate housing; slum dwelling with tenure insecurity",
+            "LIVELIHOOD: street vending, informal work, periodic clearance drives and eviction risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PORTABILITY: seasonal and circular movement detaches the worker from a fixed shop",
+            "INSTRUMENTS: shelter component; vending statute with credit scheme; ration portability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → secure shelter, protected livelihood and an entitlement that travels with the person",
+            "MUST REMEMBER: Urban poverty is shaped by insecure work, rent and land markets, service..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Urban poverty is shaped by insecure work, rent and land markets, service.",
+      "source_references": [
+        "The housing-livelihood-portability nexus as the organising claim",
+        "The housing-deprivation spectrum and why the categories differ",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HOUSING DEPRIVATION SPECTRUM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HOUSING DEPRIVATION SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSELESS OR ROOFLESS",
+          "role": "outcome"
+        },
+        {
+          "text": "PAVEMENT DWELLERS WITH NO SHELTER AT ALL",
+          "role": "caution"
+        },
+        {
+          "text": "INADEQUATE HOUSING",
+          "role": "evidence"
+        },
+        {
+          "text": "KUTCHA, UNSAFE OR OVERCROWDED SHELTER",
+          "role": "primary"
+        },
+        {
+          "text": "SLUM DWELLING",
+          "role": "outcome"
+        },
+        {
+          "text": "INFORMAL SETTLEMENT WITH TENURE INSECURITY AND INADEQUATE SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "SHELTER ANSWERS ROOFLESSNESS; UPGRADING AND TENURE ANSWER SLUM DEPRIVATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOUSELESS OR ROOFLESS → pavement dwellers with no shelter at all",
+        "INADEQUATE HOUSING → kutcha, unsafe or overcrowded shelter",
+        "SLUM DWELLING → informal settlement with tenure insecurity and inadequate services",
+        "RESPONSE → shelter answers rooflessness; upgrading and tenure answer slum deprivation",
+        "ERROR → treating homelessness and slum residence as a single condition"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HOUSELESS OR ROOFLESS → pavement dwellers with no shelter at all",
+          "SLUM DWELLING → informal settlement with tenure insecurity and inadequate services",
+          "ERROR → treating homelessness and slum residence as a single condition"
+        ],
+        [
+          "INADEQUATE HOUSING → kutcha, unsafe or overcrowded shelter",
+          "RESPONSE → shelter answers rooflessness; upgrading and tenure answer slum deprivation",
+          "HOUSELESS OR ROOFLESS → pavement dwellers with no shelter at all"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOUSELESS OR ROOFLESS → pavement dwellers with no shelter at all",
+            "INADEQUATE HOUSING → kutcha, unsafe or overcrowded shelter"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SLUM DWELLING → informal settlement with tenure insecurity and inadequate services",
+            "RESPONSE → shelter answers rooflessness; upgrading and tenure answer slum deprivation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ERROR → treating homelessness and slum residence as a single condition",
+            "HOUSELESS OR ROOFLESS → pavement dwellers with no shelter at all"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → treating homelessness and slum residence as a single condition.",
+      "source_references": [
+        "The housing-deprivation spectrum and why the categories differ",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "URBAN MISSION STRUCTURE",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "URBAN MISSION STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "THE URBAN LIVELIHOODS MISSION OF THE HOUSING AND URBAN",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-EMPLOYMENT WITH INTEREST SUBSIDY ON BANK LOANS FOR MICRO-ENTERPRISE",
+          "role": "comparison"
+        },
+        {
+          "text": "LINKAGE OF THE URBAN POOR TO CERTIFIED VOCATIONAL COURSES",
+          "role": "evidence"
+        },
+        {
+          "text": "SELF-HELP-GROUP-BASED URBAN LIVELIHOOD SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "PERMANENT ALL-WEATHER SHELTERS FOR THE URBAN HOMELESS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MISSION → the urban livelihoods mission of the housing and urban affairs ministry",
+        "LIVELIHOOD → self-employment with interest subsidy on bank loans for micro-enterprise",
+        "SKILL → linkage of the urban poor to certified vocational courses",
+        "MOBILISATION → self-help-group-based urban livelihood support",
+        "SHELTER → permanent all-weather shelters for the urban homeless"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MISSION → the urban livelihoods mission of the housing and urban affairs ministry",
+            "LIVELIHOOD → self-employment with interest subsidy on bank loans for micro-enterprise"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SKILL → linkage of the urban poor to certified vocational courses",
+            "MOBILISATION → self-help-group-based urban livelihood support"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SHELTER → permanent all-weather shelters for the urban homeless",
+            "MISSION → the urban livelihoods mission of the housing and urban affairs ministry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHELTER → permanent all-weather shelters for the urban homeless.",
+      "source_references": [
+        "The urban livelihoods mission and its livelihood components",
+        "The shelter component and the norm that governs it",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SHELTER NORM AND ITS FAILURE CHAIN",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SHELTER NORM AND ITS FAILURE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ONE SHELTER FOR EVERY ONE HUNDRED THOUSAND OF URBAN",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUND-THE-CLOCK ACCESS, BEDDING, WATER AND SANITATION, REFERRAL LINKAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILURE 1",
+          "role": "evidence"
+        },
+        {
+          "text": "NO CENTRAL LAND, SO DISTANT SHELTERS STAND UNDERUSED AWAY",
+          "role": "caution"
+        },
+        {
+          "text": "FAILURE 2",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLOCATIONS UNMATCHED TO NEED; STATE MATCHING-SHARE DELAY SLOWS CONSTRUCTION",
+          "role": "institution"
+        },
+        {
+          "text": "FAILURE 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORM → one shelter for every one hundred thousand of urban population",
+        "CONTENT → round-the-clock access, bedding, water and sanitation, referral linkages",
+        "FAILURE 1 → no central land, so distant shelters stand underused away from work sites",
+        "FAILURE 2 → allocations unmatched to need; State matching-share delay slows construction",
+        "FAILURE 3 → shelters without health, skill and livelihood linkage do not build capability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORM → one shelter for every one hundred thousand of urban population",
+            "CONTENT → round-the-clock access, bedding, water and sanitation, referral linkages"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAILURE 1 → no central land, so distant shelters stand underused away from work sites",
+            "FAILURE 2 → allocations unmatched to need; State matching-share delay slows construction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FAILURE 3 → shelters without health, skill and livelihood linkage do not build capability",
+            "NORM → one shelter for every one hundred thousand of urban population"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FAILURE 3 → shelters without health, skill and livelihood linkage do not build capability.",
+      "source_references": [
+        "The shelter component and the norm that governs it",
+        "Why shelter coverage fails even where the scheme exists",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VENDOR CREDIT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VENDOR CREDIT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "2020, DURING PANDEMIC RECOVERY, AS COLLATERAL-FREE WORKING CAPITAL",
+          "role": "outcome"
+        },
+        {
+          "text": "TEN THOUSAND, THEN TWENTY THOUSAND, THEN FIFTY THOUSAND RUPEES",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH HIGHER TRANCHE DEPENDS ON TIMELY REPAYMENT OF THE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEVEN PER CENT INTEREST SUBSIDY AND A DIGITAL-PAYMENT CASHBACK",
+          "role": "primary"
+        },
+        {
+          "text": "BANKS AND LENDERS; LOCAL BODIES ISSUE CERTIFICATES AND RECOMMENDATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LAUNCHED → 2020, during pandemic recovery, as collateral-free working capital",
+        "TRANCHES → ten thousand, then twenty thousand, then fifty thousand rupees",
+        "CONDITION → each higher tranche depends on timely repayment of the previous one",
+        "SUPPORT → seven per cent interest subsidy and a digital-payment cashback incentive",
+        "DELIVERY → banks and lenders; local bodies issue certificates and recommendation letters"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LAUNCHED → 2020, during pandemic recovery, as collateral-free working capital",
+          "CONDITION → each higher tranche depends on timely repayment of the previous one",
+          "DELIVERY → banks and lenders; local bodies issue certificates and recommendation letters"
+        ],
+        [
+          "TRANCHES → ten thousand, then twenty thousand, then fifty thousand rupees",
+          "SUPPORT → seven per cent interest subsidy and a digital-payment cashback incentive",
+          "LAUNCHED → 2020, during pandemic recovery, as collateral-free working capital"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAUNCHED → 2020, during pandemic recovery, as collateral-free working capital",
+            "TRANCHES → ten thousand, then twenty thousand, then fifty thousand rupees"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONDITION → each higher tranche depends on timely repayment of the previous one",
+            "SUPPORT → seven per cent interest subsidy and a digital-payment cashback incentive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DELIVERY → banks and lenders; local bodies issue certificates and recommendation letters",
+            "LAUNCHED → 2020, during pandemic recovery, as collateral-free working capital"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DELIVERY → banks and lenders; local bodies issue certificates and recommendation letters.",
+      "source_references": [
+        "The street-vendor credit scheme and what it is not",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "STATUTE AGAINST CREDIT",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUTE AGAINST CREDIT",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTE 2014",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNISES VENDING AS A REGULATED LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "TOWN VENDING COMMITTEES, SURVEYS AND CERTIFICATES, VENDING PLANS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCEDURAL SAFEGUARDS AGAINST EVICTION",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPLIES WORKING CAPITAL; SUPPLIES NO VENDING RIGHT",
+          "role": "caution"
+        },
+        {
+          "text": "OFFICIAL CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "CREDIT AVAILABLE ONLY WHERE A STATE HAS NOTIFIED RULES",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STATUTE 2014 → recognises vending as a regulated livelihood",
+        "MACHINERY → Town Vending Committees, surveys and certificates, vending plans",
+        "PROTECTION → procedural safeguards against eviction",
+        "CREDIT → supplies working capital; supplies no vending right",
+        "OFFICIAL CONDITION → credit available only where a State has notified rules and scheme"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STATUTE 2014 → recognises vending as a regulated livelihood",
+          "PROTECTION → procedural safeguards against eviction",
+          "OFFICIAL CONDITION → credit available only where a State has notified rules and scheme"
+        ],
+        [
+          "MACHINERY → Town Vending Committees, surveys and certificates, vending plans",
+          "CREDIT → supplies working capital; supplies no vending right",
+          "STATUTE 2014 → recognises vending as a regulated livelihood"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATUTE 2014 → recognises vending as a regulated livelihood",
+            "MACHINERY → Town Vending Committees, surveys and certificates, vending plans"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROTECTION → procedural safeguards against eviction",
+            "CREDIT → supplies working capital; supplies no vending right"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICIAL CONDITION → credit available only where a State has notified rules and scheme",
+            "STATUTE 2014 → recognises vending as a regulated livelihood"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OFFICIAL CONDITION → credit available only where a State has notified rules and scheme.",
+      "source_references": [
+        "The street-vending statute and the rights it actually creates",
+        "The official condition attached to the vendor credit scheme",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HOUSING MISSION VERTICALS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HOUSING MISSION VERTICALS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTRUCTION ON THE HOUSEHOLD'S OWN LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "AFFORDABLE HOUSING BUILT IN PARTNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "AFFORDABLE RENTAL HOUSING FOR WORKERS WHO DO NOT SETTLE",
+          "role": "caution"
+        },
+        {
+          "text": "INTEREST SUBSIDY",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR PER CENT ON THE FIRST EIGHT LAKH RUPEES",
+          "role": "outcome"
+        },
+        {
+          "text": "CAP AND RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAXIMUM ACTUAL SUBSIDY OF ONE LAKH EIGHTY THOUSAND; SANCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BENEFICIARY-LED → construction on the household's own land",
+        "PARTNERSHIP → affordable housing built in partnership",
+        "RENTAL → affordable rental housing for workers who do not settle permanently",
+        "INTEREST SUBSIDY → four per cent on the first eight lakh rupees of a qualifying",
+        "CAP AND RULE → maximum actual subsidy of one lakh eighty thousand; sanction is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENEFICIARY-LED → construction on the household's own land",
+            "PARTNERSHIP → affordable housing built in partnership"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RENTAL → affordable rental housing for workers who do not settle permanently",
+            "INTEREST SUBSIDY → four per cent on the first eight lakh rupees of a qualifying loan"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAP AND RULE → maximum actual subsidy of one lakh eighty thousand; sanction is not occupancy",
+            "BENEFICIARY-LED → construction on the household's own land"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAP AND RULE → maximum actual subsidy of one lakh eighty thousand; sanction is not occupancy.",
+      "source_references": [
+        "The urban housing mission and the difference between sanction and shelter",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PORTABILITY MECHANISM",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PORTABILITY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE EXISTING FOOD-SECURITY RATION CARD, SEEDED WITH THE NATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTRONIC POINT-OF-SALE MACHINES AT FAIR PRICE SHOPS",
+          "role": "comparison"
+        },
+        {
+          "text": "PAN-INDIA ROLLOUT ACHIEVED; TRANSACTION DATA PUBLISHED ON THE DEPARTMENTAL",
+          "role": "evidence"
+        },
+        {
+          "text": "A SEPARATE ENTITLEMENT, A SEPARATE SCHEME OR A NEWLY",
+          "role": "primary"
+        },
+        {
+          "text": "A PERSON-ATTACHED CLAIM FOR A WORKER WHO MOVES BETWEEN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BASIS → the existing food-security ration card, seeded with the national identity number",
+        "TERMINAL → electronic point-of-sale machines at fair price shops",
+        "SCOPE → pan-India rollout achieved; transaction data published on the departmental portal",
+        "NOT → a separate entitlement, a separate scheme or a newly issued card",
+        "PURPOSE → a person-attached claim for a worker who moves between States"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BASIS → the existing food-security ration card, seeded with the national identity number",
+            "TERMINAL → electronic point-of-sale machines at fair price shops"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCOPE → pan-India rollout achieved; transaction data published on the departmental portal",
+            "NOT → a separate entitlement, a separate scheme or a newly issued card"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PURPOSE → a person-attached claim for a worker who moves between States",
+            "BASIS → the existing food-security ration card, seeded with the national identity number"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PURPOSE → a person-attached claim for a worker who moves between States.",
+      "source_references": [
+        "Ration portability and what it is built on",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PORTABILITY FRICTION CHAIN",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PORTABILITY FRICTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "UNSEEDED OR UN-UPDATED CARDS CANNOT BE USED; AWARENESS OF",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOTE DESTINATION SHOPS MAY LACK FUNCTIONAL POINT-OF-SALE MACHINES",
+          "role": "comparison"
+        },
+        {
+          "text": "SOME STATES RESISTED PORTABILITY FEARING A BURDEN FROM INWARD",
+          "role": "evidence"
+        },
+        {
+          "text": "A HOME-STATE CARD WITHOUT SEEDING FAILS AT THE DESTINATION",
+          "role": "institution"
+        },
+        {
+          "text": "ASSISTED ALTERNATIVES AND GRIEVANCE REDRESS FOR AUTHENTICATION FAILURE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DOCUMENT → unseeded or un-updated cards cannot be used; awareness of the route is low",
+        "INFRASTRUCTURE → remote destination shops may lack functional point-of-sale machines",
+        "POLITICS → some States resisted portability fearing a burden from inward migration",
+        "CASE → a home-State card without seeding fails at the destination shop",
+        "REQUIREMENT → assisted alternatives and grievance redress for authentication failure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOCUMENT → unseeded or un-updated cards cannot be used; awareness of the route is low",
+            "INFRASTRUCTURE → remote destination shops may lack functional point-of-sale machines"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICS → some States resisted portability fearing a burden from inward migration",
+            "CASE → a home-State card without seeding fails at the destination shop"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REQUIREMENT → assisted alternatives and grievance redress for authentication failure",
+            "DOCUMENT → unseeded or un-updated cards cannot be used; awareness of the route is low"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REQUIREMENT → assisted alternatives and grievance redress for authentication failure.",
+      "source_references": [
+        "Why portability fails at the counter",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MIGRANT LEGAL ROUTE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MIGRANT LEGAL ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "UNTIL 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INTER-STATE MIGRANT WORKMEN ACT, 1979 SUPPLIED THE MIGRANT",
+          "role": "institution"
+        },
+        {
+          "text": "21 NOVEMBER 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "THE OCCUPATIONAL SAFETY AND WORKING CONDITIONS CODE COMMENCES",
+          "role": "primary"
+        },
+        {
+          "text": "SAME EVENT",
+          "role": "outcome"
+        },
+        {
+          "text": "THAT COMMENCEMENT REPEALS THE 1979 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "MAY 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNTIL 2025 → the Inter-State Migrant Workmen Act, 1979 supplied the migrant framework",
+        "21 NOVEMBER 2025 → the occupational safety and working conditions Code commences",
+        "SAME EVENT → that commencement repeals the 1979 Act",
+        "MAY 2026 → final Central Rules are notified for Central-jurisdiction establishments",
+        "STILL OPEN → State rules and actual enforcement, because labour is concurrent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNTIL 2025 → the Inter-State Migrant Workmen Act, 1979 supplied the migrant framework",
+            "21 NOVEMBER 2025 → the occupational safety and working conditions Code commences"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAME EVENT → that commencement repeals the 1979 Act",
+            "MAY 2026 → final Central Rules are notified for Central-jurisdiction establishments"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STILL OPEN → State rules and actual enforcement, because labour is concurrent",
+            "CLOSE DISTINCTION: Urban poor is not synonymous with slum resident, migrant is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Urban poor is not synonymous with slum resident, migrant is not.",
+      "source_references": [
+        "The migrant-worker legal route as it now stands",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MIGRATION PULL STRUCTURE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MIGRATION PULL STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "AGRICULTURAL UNDEREMPLOYMENT, DROUGHT AND DEBT DISTRESS, THIN NON-FARM OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AGGLOMERATION ECONOMIES THROUGH SPILLOVERS, LABOUR POOLING AND INPUT SHARING",
+          "role": "comparison"
+        },
+        {
+          "text": "INFORMAL WORK IN CONSTRUCTION, DOMESTIC SERVICE AND VENDING CONCENTRATED",
+          "role": "evidence"
+        },
+        {
+          "text": "BETTER PUBLIC SERVICES AND A WAGE PREMIUM DESPITE INFORMAL",
+          "role": "primary"
+        },
+        {
+          "text": "EARLIER MIGRANTS LOWER ENTRY BARRIERS; SMALL TOWNS LACK ABSORPTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE URBAN LIVELIHOODS, SHELTERS, PMAY-U AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUSH → agricultural underemployment, drought and debt distress, thin non-farm opportunity",
+        "PULL: agglomeration economies through spillovers, labour pooling and input sharing",
+        "PULL: informal work in construction, domestic service and vending concentrated in metros",
+        "PULL: better public services and a wage premium despite informal housing",
+        "NETWORK → earlier migrants lower entry barriers; small towns lack absorptive density"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUSH → agricultural underemployment, drought and debt distress, thin non-farm opportunity",
+            "PULL: agglomeration economies through spillovers, labour pooling and input sharing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PULL: informal work in construction, domestic service and vending concentrated in metros",
+            "PULL: better public services and a wage premium despite informal housing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NETWORK → earlier migrants lower entry barriers; small towns lack absorptive density",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use urban livelihoods, shelters, PMAY-U and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use urban livelihoods, shelters, PMAY-U and.",
+      "source_references": [
+        "Why large cities pull migrants more strongly than small towns",
+        "Circular migration and why fixed-entitlement design fails it",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SPATIAL POLICY TRADE-OFFS",
+      "structural_type": "matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SPATIAL POLICY TRADE-OFFS",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL PURPOSE VEHICLE CONCENTRATES INVESTMENT IN SELECTED ZONES",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPORT, WATER AND WASTE COMPONENTS REACH WIDER POPULATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTION FAVOURS SERVED AREAS; SHOWCASE PRIORITY; WEAK SLUM AND",
+          "role": "evidence"
+        },
+        {
+          "text": "UPGRADING VERSUS RESETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVELIHOOD CONTINUITY AGAINST CENTRAL LAND RELEASE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENURE VERSUS TITLE",
+          "role": "comparison"
+        },
+        {
+          "text": "OCCUPANCY CERTIFICATES SECURE AGAINST EVICTION WITHOUT OWNERSHIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AREA-BASED → special purpose vehicle concentrates investment in selected zones",
+        "PAN-CITY → transport, water and waste components reach wider populations",
+        "CRITIQUE → selection favours served areas; showcase priority; weak slum and homeless voice",
+        "UPGRADING VERSUS RESETTLEMENT → livelihood continuity against central land release",
+        "TENURE VERSUS TITLE → occupancy certificates secure against eviction without ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AREA-BASED → special purpose vehicle concentrates investment in selected zones",
+            "PAN-CITY → transport, water and waste components reach wider populations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CRITIQUE → selection favours served areas; showcase priority; weak slum and homeless voice",
+            "UPGRADING VERSUS RESETTLEMENT → livelihood continuity against central land release"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TENURE VERSUS TITLE → occupancy certificates secure against eviction without ownership",
+            "AREA-BASED → special purpose vehicle concentrates investment in selected zones"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TENURE VERSUS TITLE → occupancy certificates secure against eviction without ownership.",
+      "source_references": [
+        "The smart-city model and the distributive-justice critique",
+        "Upgrading against resettlement and tenure against title",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-16\\g2\\social-justice-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DAY-NULM (MOHUA)",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRALLY SPONSORED; 60",
+          "role": "comparison"
+        },
+        {
+          "text": "40 CENTRE-STATE COST SHARE (90",
+          "role": "institution"
+        },
+        {
+          "text": "10 FOR",
+          "role": "primary"
+        },
+        {
+          "text": "PM SVANIDHI (MOHUA)",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTERED THROUGH BANKS; ULBS ISSUE VENDOR CERTIFICATES",
+          "role": "comparison"
+        },
+        {
+          "text": "ONORC (DOFPD)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "DAY-NULM (MoHUA): Centrally sponsored; 60:40 Centre-state cost share (90:10 for",
+            "PM SVANidhi (MoHUA): Administered through banks; ULBs issue vendor certificates",
+            "ONORC (DoFPD): Portability under NFSA; depends on Aadhaar-seeding and ePoS; pan",
+            "Street Vendors Act, 2014: Town Vending Committees, survey/certificates, vending"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Recommended reform: mandate shelter-space targets per ULB linked to census homeless",
+            "CAUTION: Recommended reform: integrate smart-city investment appraisal with slum-mapping and",
+            "CAUTION: A migrant construction worker in a metro who possesses a ration card from the home",
+            "CAUTION: A street vendor with a PM SVANidhi loan who is evicted during a municipal clearance"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: A smart-city SPV that upgrades a commercial zone while ignoring an adjacent",
+            "CAUTION: In-situ slum upgrading preserves livelihoods but may perpetuate suboptimal land use;",
+            "CAUTION: ONORC portability depends on authentication/interoperability and can reduce migration",
+            "CAUTION: Smart-city investment can improve city-wide infrastructure quality but may"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

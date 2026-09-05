@@ -1,0 +1,1010 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-04",
+  "subject": "Philosophy",
+  "title": "KANT",
+  "short_route": "CRITICAL PROJECT → SYNTHETIC A PRIORI → SPACE/TIME → CATEGORIES/APPERCEPTION/SCHEMATA → PRINCIPLES → NOUMENAL BOUNDARY → IDEAS/IDEAL → ANTINOMIES → GOD-PROOFS/NATURE/HEGEL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g6\\topic-04_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-04-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "d529f985c692fd8bd68b209a4259a5bb6eb87332c8a18e15e5155b00ef5fbd69",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CRITICAL STARTING PROBLEM AND THE RATIONALISM-EMPIRICISM SYNTHESIS",
+      "structural_type": "conflict-synthesis-and-faculty-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CRITICAL STARTING PROBLEM AND THE RATIONALISM-EMPIRICISM SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "HOW CAN COGNITION BE INFORMATIVE, NECESSARY AND OBJECTIVELY VALID?",
+          "role": "outcome"
+        },
+        {
+          "text": "A PRIORI NECESSITY, BUT DOGMATIC CLAIMS ABOUT SOUL, WORLD",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSORY CONTENT, BUT NO EXPERIENCED NECESSARY CONNECTION",
+          "role": "caution"
+        },
+        {
+          "text": "KANTIAN CRITIQUE",
+          "role": "primary"
+        },
+        {
+          "text": "SENSORY MATTER + A PRIORI FORM, RESTRICTED TO POSSIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "COPERNICAN REVOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTS AS EXPERIENCED CONFORM TO COGNITIVE CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION: How can cognition be informative, necessary and objectively valid?",
+        "RATIONALISM → a priori necessity, but dogmatic claims about soul, world and God",
+        "EMPIRICISM / HUME → sensory content, but no experienced necessary connection",
+        "KANTIAN CRITIQUE → sensory matter + a priori form, restricted to possible experience",
+        "COPERNICAN REVOLUTION → objects AS EXPERIENCED conform to cognitive conditions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION: How can cognition be informative, necessary and objectively valid?",
+            "RATIONALISM → a priori necessity, but dogmatic claims about soul, world and God",
+            "EMPIRICISM / HUME → sensory content, but no experienced necessary connection",
+            "KANTIAN CRITIQUE → sensory matter + a priori form, restricted to possible experience"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COPERNICAN REVOLUTION → objects AS EXPERIENCED conform to cognitive conditions",
+            "SENSIBILITY → intuitions in space/time → UNDERSTANDING → categories and objects",
+            "UNDERSTANDING → REASON → Ideas of Soul, World and God; drive to the unconditioned",
+            "TRANSCENDENTAL = conditions of possible experience; TRANSCENDENT = beyond experience"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "RESULT → empirical realism + transcendental idealism + limit on theoretical reason",
+            "ANSWER LINE → Kant secures objectivity by making its a priori conditions mind-given."
+          ]
+        }
+      ],
+      "mechanism_strip": "Sensory matter is received under space and time, synthesised through categories, and pursued toward unity by reason.",
+      "answer_line": "Kant retains rationalist necessity and empirical content under a critical limit: objects as experienced conform to a priori conditions, not to private creation.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SYNTHETIC A PRIORI JUDGMENTS AND THE COPERNICAN EXPLANATION",
+      "structural_type": "judgment-matrix-and-reversal-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SYNTHETIC A PRIORI JUDGMENTS AND THE COPERNICAN EXPLANATION",
+          "role": "primary"
+        },
+        {
+          "text": "PREDICATE CONTAINED IN SUBJECT; DENIAL CONTRADICTS THE CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "PREDICATE ADDS CONTENT; DENIAL IS NOT SELF-CONTRADICTORY",
+          "role": "caution"
+        },
+        {
+          "text": "A PRIORI",
+          "role": "evidence"
+        },
+        {
+          "text": "NECESSARY/UNIVERSAL WARRANT INDEPENDENT OF PARTICULAR EXPERIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "A POSTERIORI",
+          "role": "outcome"
+        },
+        {
+          "text": "EMPIRICAL, INFORMATIVE AND CONTINGENT WARRANT",
+          "role": "comparison"
+        },
+        {
+          "text": "ANALYTIC A PRIORI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANALYTIC → predicate contained in subject; denial contradicts the concept",
+        "SYNTHETIC → predicate adds content; denial is not self-contradictory",
+        "A PRIORI → necessary/universal warrant independent of particular experience",
+        "A POSTERIORI → empirical, informative and contingent warrant",
+        "ANALYTIC A PRIORI → 'Bodies are extended'; ANALYTIC A POSTERIORI → no Kantian class"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ANALYTIC → predicate contained in subject; denial contradicts the concept",
+          "ANALYTIC A PRIORI → 'Bodies are extended'; ANALYTIC A POSTERIORI → no Kantian class",
+          "MATHEMATICS / FUNDAMENTAL SCIENCE → valid for objects of possible experience"
+        ],
+        [
+          "SYNTHETIC → predicate adds content; denial is not self-contradictory",
+          "SYNTHETIC A POSTERIORI → 'This table is brown'; informative but contingent",
+          "LIMIT → no inference from these forms to things in themselves or transcendent objects"
+        ],
+        [
+          "A PRIORI → necessary/universal warrant independent of particular experience",
+          "SYNTHETIC A PRIORI → 7 + 5 = 12; every event has a cause; informative + necessary",
+          ""
+        ],
+        [
+          "A POSTERIORI → empirical, informative and contingent warrant",
+          "HOW POSSIBLE? → the mind supplies space, time and categories to every appearance",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ANALYTIC → predicate contained in subject; denial contradicts the concept",
+            "SYNTHETIC → predicate adds content; denial is not self-contradictory",
+            "A PRIORI → necessary/universal warrant independent of particular experience",
+            "A POSTERIORI → empirical, informative and contingent warrant"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ANALYTIC A PRIORI → 'Bodies are extended'; ANALYTIC A POSTERIORI → no Kantian class",
+            "SYNTHETIC A POSTERIORI → 'This table is brown'; informative but contingent",
+            "SYNTHETIC A PRIORI → 7 + 5 = 12; every event has a cause; informative + necessary",
+            "HOW POSSIBLE? → the mind supplies space, time and categories to every appearance"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "MATHEMATICS / FUNDAMENTAL SCIENCE → valid for objects of possible experience",
+            "LIMIT → no inference from these forms to things in themselves or transcendent objects"
+          ]
+        }
+      ],
+      "mechanism_strip": "Synthetic a priori judgments are possible because objects of experience must conform to a priori forms of cognition.",
+      "answer_line": "Synthetic a priori judgments are possible because objects of possible experience must conform to the mind's a priori forms, so mathematics and fundamental natural principles articulate conditions under which anything can appear as an object for us.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TRANSCENDENTAL AESTHETIC: SPACE AND TIME AS FORMS OF INTUITION",
+      "structural_type": "outer-inner-sense-map-and-argument-ledger",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRANSCENDENTAL AESTHETIC",
+          "role": "primary"
+        },
+        {
+          "text": "SPACE AND TIME AS FORMS OF INTUITION",
+          "role": "outcome"
+        },
+        {
+          "text": "FORM OF INTUITION",
+          "role": "comparison"
+        },
+        {
+          "text": "A PRIORI WAY IN WHICH SENSORY MATTER CAN BE",
+          "role": "evidence"
+        },
+        {
+          "text": "PURE FORM OF OUTER SENSE; COEXISTENCE, EXTERNALITY AND GEOMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "PURE FORM OF INNER SENSE; SUCCESSION AND ALL REPRESENTATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "A PRIORI ARGUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SPATIAL/TEMPORAL ORDERING PRESUPPOSES, NOT PRODUCES, THE FORMS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FORM OF INTUITION → a priori way in which sensory matter can be given",
+        "SPACE → pure form of OUTER sense; coexistence, externality and geometry",
+        "TIME → pure form of INNER sense; succession and all representations",
+        "A PRIORI ARGUMENT → spatial/temporal ordering presupposes, not produces, the forms",
+        "NECESSITY ARGUMENT → empty space/time is representable; objects without them are not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FORM OF INTUITION → a priori way in which sensory matter can be given",
+            "SPACE → pure form of OUTER sense; coexistence, externality and geometry",
+            "TIME → pure form of INNER sense; succession and all representations",
+            "A PRIORI ARGUMENT → spatial/temporal ordering presupposes, not produces, the forms"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NECESSITY ARGUMENT → empty space/time is representable; objects without them are not",
+            "INTUITION ARGUMENT → one space/time; regions and periods are limitations within it",
+            "INFINITY ARGUMENT → magnitude is represented as a given whole, not instances under a concept",
+            "EMPIRICALLY REAL → objectively valid for every appearance and possible experience"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRANSCENDENTALLY IDEAL → not properties of things in themselves",
+            "OBJECTION → modern geometry/science pressures examples, not the whole transcendental strategy"
+          ]
+        }
+      ],
+      "mechanism_strip": "Space and time precede and organise sensory relations, allowing geometry, arithmetic, motion and ordered experience.",
+      "answer_line": "Space and time are a priori forms that are transcendentally ideal yet empirically real; geometry and relativity pressure examples, not this distinction by slogan.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CATEGORIES, SYNTHESIS AND TRANSCENDENTAL UNITY OF APPERCEPTION",
+      "structural_type": "four-card-category-map-and-deduction-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CATEGORIES, SYNTHESIS AND TRANSCENDENTAL UNITY OF APPERCEPTION",
+          "role": "primary"
+        },
+        {
+          "text": "METAPHYSICAL DEDUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFIES CATEGORIES FROM FUNCTIONS OF JUDGMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSCENDENTAL DEDUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "JUSTIFIES THEIR OBJECTIVE APPLICATION",
+          "role": "primary"
+        },
+        {
+          "text": "SYNTHESIS UNDER RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "'I THINK' CAN ACCOMPANY EACH REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAL UNITY OF SELF-CONSCIOUSNESS, NOT EMPIRICAL EGO OR SOUL-SUBSTANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "QUANTITY → Unity",
+        "QUALITY → Reality",
+        "RELATION → Inherence/Subsistence",
+        "MODALITY → Possibility/Impossibility",
+        "METAPHYSICAL DEDUCTION → identifies categories from functions of judgment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "QUANTITY → Unity",
+            "QUALITY → Reality",
+            "RELATION → Inherence/Subsistence",
+            "MODALITY → Possibility/Impossibility"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METAPHYSICAL DEDUCTION → identifies categories from functions of judgment",
+            "TRANSCENDENTAL DEDUCTION → justifies their objective application",
+            "MANIFOLD → SYNTHESIS under rules → 'I THINK' can accompany each representation",
+            "APPERCEPTION → formal unity of self-consciousness, not empirical ego or soul-substance"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OBJECTIVE UNITY → the same rule unites representations as one experience of objects",
+            "LIMIT → categories constitute appearances only; they do not picture or determine noumena"
+          ]
+        }
+      ],
+      "mechanism_strip": "Space/time give a manifold; apperceptive unity requires synthesis through categories, while schemata provide temporal rules of application.",
+      "answer_line": "The Transcendental Deduction justifies categories by showing that unified self-conscious experience is possible only through rule-governed synthesis, so the categories constitute objects of experience without depicting noumenal things.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SCHEMATISM: TEMPORAL BRIDGE FROM PURE CATEGORY TO APPEARANCE",
+      "structural_type": "heterogeneity-bridge-and-time-architecture",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TEMPORAL BRIDGE FROM PURE CATEGORY TO APPEARANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PURE INTELLECTUAL CATEGORY AND SENSIBLE PARTICULAR APPEARANCE ARE HETEROGENEOUS",
+          "role": "outcome"
+        },
+        {
+          "text": "RULE/PROCEDURE OF PRODUCTIVE IMAGINATION; NEVER A DETERMINATE MENTAL IMAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHY TIME?",
+          "role": "evidence"
+        },
+        {
+          "text": "IT IS A PRIORI LIKE THE CATEGORY AND CONTAINS",
+          "role": "primary"
+        },
+        {
+          "text": "NUMBER THROUGH SUCCESSIVE HOMOGENEOUS ADDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEGREE OR INTENSIVE MAGNITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENCE, SUCCESSION BY RULE, RECIPROCAL COEXISTENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → pure intellectual category and sensible particular appearance are heterogeneous",
+        "SCHEMA → rule/procedure of productive imagination; never a determinate mental image",
+        "WHY TIME? → it is a priori like the category and contains every representation",
+        "QUANTITY / time-series → NUMBER through successive homogeneous addition",
+        "QUALITY / time-content → DEGREE or intensive magnitude"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PROBLEM → pure intellectual category and sensible particular appearance are heterogeneous",
+            "SCHEMA → rule/procedure of productive imagination; never a determinate mental image",
+            "WHY TIME? → it is a priori like the category and contains every representation",
+            "QUANTITY / time-series → NUMBER through successive homogeneous addition"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUALITY / time-content → DEGREE or intensive magnitude",
+            "RELATION / time-order → permanence, succession by rule, reciprocal coexistence",
+            "MODALITY / time-scope → some time, determinate time, all times",
+            "DEDUCTION proves THAT categories apply; SCHEMATISM explains HOW they apply"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "UNSCHEMATISED CATEGORY → logical function without objective sense for appearances",
+            "RESIDUAL → Kant calls the mediating operation an art concealed in the human soul"
+          ]
+        }
+      ],
+      "mechanism_strip": "Time-series, time-content, time-order and time-scope mediate Quantity, Quality, Relation and Modality.",
+      "answer_line": "Schematism converts logical functions into rules of temporal application, explaining how the Deduction's entitlement becomes usable for appearances while leaving unschematised categories without objective sense.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ANALOGIES OF EXPERIENCE AND KANT'S PRECISE ANSWER TO HUME",
+      "structural_type": "three-proxy-time-map-and-house-ship-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ANALOGIES OF EXPERIENCE AND KANT'S PRECISE ANSWER TO HUME",
+          "role": "primary"
+        },
+        {
+          "text": "MASTER PREMISE",
+          "role": "outcome"
+        },
+        {
+          "text": "TIME ITSELF CANNOT BE PERCEIVED; OBJECTIVE TIME NEEDS PROXIES",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST ANALOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBSTANCE PERSISTS WHILE ITS STATES ALTER",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND ANALOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVERY EVENT FOLLOWS ACCORDING TO A CAUSAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIRD ANALOGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MASTER PREMISE → time itself cannot be perceived; objective time needs proxies",
+        "FIRST ANALOGY / duration → substance persists while its states alter",
+        "SECOND ANALOGY / succession → every event follows according to a causal rule",
+        "THIRD ANALOGY / simultaneity → substances coexist through reciprocal community",
+        "HOUSE → viewing order is reversible; succession belongs to my apprehension"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "MASTER PREMISE → time itself cannot be perceived; objective time needs proxies",
+          "HOUSE → viewing order is reversible; succession belongs to my apprehension",
+          "STRAWSON OBJECTION → involuntary order does not automatically prove natural necessity"
+        ],
+        [
+          "FIRST ANALOGY / duration → substance persists while its states alter",
+          "SHIP DOWNSTREAM → order is irreversible; an objective event requires a rule",
+          "VERDICT → Kant secures entitlement to causality more clearly than any particular law"
+        ],
+        [
+          "SECOND ANALOGY / succession → every event follows according to a causal rule",
+          "ANTI-HUME MOVE → causality is a condition of judging objective succession, not habit",
+          ""
+        ],
+        [
+          "THIRD ANALOGY / simultaneity → substances coexist through reciprocal community",
+          "QUALIFICATION → particular causal laws remain empirical and require investigation",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "MASTER PREMISE → time itself cannot be perceived; objective time needs proxies",
+            "FIRST ANALOGY / duration → substance persists while its states alter",
+            "SECOND ANALOGY / succession → every event follows according to a causal rule",
+            "THIRD ANALOGY / simultaneity → substances coexist through reciprocal community"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HOUSE → viewing order is reversible; succession belongs to my apprehension",
+            "SHIP DOWNSTREAM → order is irreversible; an objective event requires a rule",
+            "ANTI-HUME MOVE → causality is a condition of judging objective succession, not habit",
+            "QUALIFICATION → particular causal laws remain empirical and require investigation"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "STRAWSON OBJECTION → involuntary order does not automatically prove natural necessity",
+            "VERDICT → Kant secures entitlement to causality more clearly than any particular law"
+          ]
+        }
+      ],
+      "mechanism_strip": "Persistent substance, irreversible succession under a rule, and reciprocal interaction act as proxies for duration, succession and simultaneity.",
+      "answer_line": "Kant answers Hume by arguing that causality is not inferred from repetition but presupposed in judging a succession as an objective event, though particular causal laws remain empirical.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PHENOMENA, NOUMENA, EMPIRICAL REALISM AND THE IDEALISM BOUNDARY",
+      "structural_type": "knowledge-boundary-and-refutation-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PHENOMENA, NOUMENA, EMPIRICAL REALISM AND THE IDEALISM BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECT AS GIVEN IN SPACE/TIME AND THOUGHT THROUGH CATEGORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE EXPERIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "KNOWABLE, PUBLIC, CAUSAL AND SCIENTIFICALLY INVESTIGABLE DOMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "NOUMENON NEGATIVELY",
+          "role": "primary"
+        },
+        {
+          "text": "THING CONSIDERED APART FROM SENSIBLE INTUITION; LIMITING CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "NOUMENON IS THINKABLE, NOT KNOWABLE",
+          "role": "caution"
+        },
+        {
+          "text": "NO THEORETICAL PREDICATES FROM THE CATEGORIES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PHENOMENON → object as given in space/time and thought through categories",
+        "POSSIBLE EXPERIENCE → knowable, public, causal and scientifically investigable domain",
+        "NOUMENON NEGATIVELY → thing considered apart from sensible intuition; limiting concept",
+        "NOUMENON IS THINKABLE, NOT KNOWABLE → no theoretical predicates from the categories",
+        "TRANSCENDENTAL IDEALISM → our forms condition appearances"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PHENOMENON → object as given in space/time and thought through categories",
+            "POSSIBLE EXPERIENCE → knowable, public, causal and scientifically investigable domain",
+            "NOUMENON NEGATIVELY → thing considered apart from sensible intuition; limiting concept",
+            "NOUMENON IS THINKABLE, NOT KNOWABLE → no theoretical predicates from the categories"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSCENDENTAL IDEALISM → our forms condition appearances",
+            "EMPIRICAL REALISM → external objects are real within experience, not private illusions",
+            "REFUTATION → determinate inner time-awareness requires an empirically external permanent",
+            "TWO-ASPECT READING → one object considered as appearance and independently of our access"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "HEGEL/JACOBI PRESSURE → boundary knowledge and affection threaten internal consistency",
+            "SAFE VERDICT → negative limitation is defensible; positive noumenal causation is not"
+          ]
+        }
+      ],
+      "mechanism_strip": "Cognitive conditions establish the knowable phenomenal domain and simultaneously forbid constitutive claims beyond it.",
+      "answer_line": "Negative noumenon limits sensible cognition; positive noumenon would require intellectual intuition humans lack, and the affection problem remains.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "IDEAS OF REASON, REGULATIVE UNITY AND NATURAL TRANSCENDENTAL ILLUSION",
+      "structural_type": "three-idea-tree-and-use-split",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "IDEAS OF REASON, REGULATIVE UNITY AND NATURAL TRANSCENDENTAL ILLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPLIES RULES FOR APPEARANCES; REASON",
+          "role": "outcome"
+        },
+        {
+          "text": "SEEKS THE UNCONDITIONED",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECTED COMPLETE UNITY OF INNER CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROJECTED COMPLETE TOTALITY OF COSMOLOGICAL CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECTED COMPLETE GROUND OF ALL CONDITIONS AND REALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATIVE USE",
+          "role": "comparison"
+        },
+        {
+          "text": "GUIDE INQUIRY TOWARD SYSTEMATIC UNITY; LEGITIMATE 'AS IF'",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNDERSTANDING → supplies rules for appearances; REASON → seeks the unconditioned",
+        "SOUL → projected complete unity of inner conditions",
+        "WORLD → projected complete totality of cosmological conditions",
+        "GOD → projected complete ground of all conditions and reality",
+        "REGULATIVE USE → guide inquiry toward systematic unity; legitimate 'as if'"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "UNDERSTANDING → supplies rules for appearances; REASON → seeks the unconditioned",
+            "SOUL → projected complete unity of inner conditions",
+            "WORLD → projected complete totality of cosmological conditions",
+            "GOD → projected complete ground of all conditions and reality"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGULATIVE USE → guide inquiry toward systematic unity; legitimate 'as if'",
+            "CONSTITUTIVE USE → claim the Idea determines a known object; illegitimate",
+            "TRANSCENDENTAL ILLUSION → natural and persistent drive to reify completion",
+            "PARALOGISM → logical 'I think' is misread as simple, substantial, enduring soul"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VALUE → systematic research and explanatory integration",
+            "DANGER → paralogisms, antinomies and speculative theology"
+          ]
+        }
+      ],
+      "mechanism_strip": "Soul, world and God regulate systematic unity; the most-real being (ens realissimum) is the Ideal of complete determination.",
+      "answer_line": "Transcendental illusion is natural and persistent because reason cannot stop seeking completion, yet critique can prevent the slide from useful systematic unity to metaphysical claims about soul-substance, world-totality and God.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FOUR COSMOLOGICAL ANTINOMIES AND THEIR DIFFERENTIATED RESOLUTIONS",
+      "structural_type": "four-pair-card-stack-and-resolution-split",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FOUR COSMOLOGICAL ANTINOMIES AND THEIR DIFFERENTIATED RESOLUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "1 THESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "BEGINNING IN TIME + SPATIAL LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "INFINITE TIME/SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "2 THESIS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOSITES END IN SIMPLE PARTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTHING SIMPLE EXISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "3 THESIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 THESIS → beginning in time + spatial limit",
+        "ANTITHESIS → infinite time/space",
+        "2 THESIS → composites end in simple parts",
+        "ANTITHESIS → nothing simple exists",
+        "3 THESIS → freedom besides nature"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "1 THESIS → beginning in time + spatial limit",
+            "ANTITHESIS → infinite time/space",
+            "2 THESIS → composites end in simple parts",
+            "ANTITHESIS → nothing simple exists",
+            "3 THESIS → freedom besides nature"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANTITHESIS → universal natural causality",
+            "4 THESIS → absolutely necessary being",
+            "ANTITHESIS → no necessary being",
+            "SOURCE OF CONFLICT → categories applied to the world-series as a completed whole",
+            "MATHEMATICAL 1-2 → reject shared assumption that a finite/infinite whole is given"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DYNAMICAL 3-4 → phenomenal conditions and intelligible standpoint can be distinguished",
+            "FREEDOM → thinkable noumenally while every appearance remains naturally determined",
+            "NECESSARY GROUND → thinkable boundary, not theoretical proof of God",
+            "SIGNIFICANCE → indirect case for idealism and limit of speculative metaphysics"
+          ]
+        }
+      ],
+      "mechanism_strip": "Reason demands the unconditioned, turns a never-completed experiential series into a total object, and proves opposed predicates of that pseudo-object.",
+      "answer_line": "Antinomy starts when reason treats the unconditioned world-series as a completed object in itself rather than regulating inquiry.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "GOD-PROOF CRITIQUE, EVALUATION LEDGER, TRAPS, PYQS AND ANSWER SPINE",
+      "structural_type": "stacked-proof-critique-and-exam-ledger",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GOD-PROOF CRITIQUE, EVALUATION LEDGER, TRAPS, PYQS AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PERFECT CONCEPT INCLUDES EXISTENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXISTENCE ADDS NO CONTENT",
+          "role": "caution"
+        },
+        {
+          "text": "100 POSSIBLE/ACTUAL THALERS",
+          "role": "evidence"
+        },
+        {
+          "text": "SAME CONCEPT; ACTUALITY CANNOT BE EXTRACTED ANALYTICALLY",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINGENT EXISTS, THEREFORE NECESSARY GOD",
+          "role": "outcome"
+        },
+        {
+          "text": "ILLICIT CAUSAL EXTENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "COSMOLOGICAL DEPENDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONTOLOGICAL → perfect concept includes existence",
+        "KANT → existence adds no content",
+        "100 possible/actual thalers → same concept; actuality cannot be extracted analytically",
+        "COSMOLOGICAL → contingent exists, therefore necessary God",
+        "illicit causal extension"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ONTOLOGICAL → perfect concept includes existence",
+            "KANT → existence adds no content",
+            "100 possible/actual thalers → same concept; actuality cannot be extracted analytically",
+            "COSMOLOGICAL → contingent exists, therefore necessary God",
+            "illicit causal extension"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "COSMOLOGICAL DEPENDENCE → necessary being = ens realissimum repeats ontological proof",
+            "DESIGN → order implies designer",
+            "at most an architect, not necessary creator",
+            "DESIGN DEPENDENCE → creator/necessity needs cosmological then ontological steps",
+            "BOUNDARY → theoretical proof fails; this is not a demonstration of atheism"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "COMPARISON → rationalist necessity + empiricist content under critical limitation",
+            "PYQ ROUTES → synthesis, space/time, apperception, antinomies, Hume and God proofs",
+            "ANSWER SPINE → thesis → doctrine → argument → objection/reply → qualified verdict",
+            "FINAL VERDICT → Kant gains phenomenal objectivity at the cost of noumenal agnosticism"
+          ]
+        }
+      ],
+      "mechanism_strip": "All three routes attempt to turn thought beyond experience into constitutive knowledge, and the latter two ultimately require the ontological step.",
+      "answer_line": "Understanding constitutes lawful phenomenal Nature; Hegel both radicalizes constitutive thought and attacks Kant's fixed dualisms and unknowable remainder.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE CRITICAL PROJECT - HUME'S",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — THE CENTRAL PROBLEM - POSSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — TRANSCENDENTAL AESTHETIC - SPACE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — TRANSCENDENTAL ANALYTIC - CATEGORIES, DEDUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — THE SCHEMATISM - BRIDGING CATEGORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — THE ANALOGIES OF EXPERIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — REFUTATION OF IDEALISM; PHENOMENA AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Critical Project - Hume's Trigger, the Copernican Revolution and the Transcendental Method",
+            "ADVANCED SESSION 2 — The Central Problem - Possibility of Synthetic A Priori Judgments",
+            "ADVANCED SESSION 3 — Transcendental Aesthetic - Space and Time",
+            "ADVANCED SESSION 4 — Transcendental Analytic - Categories, Deduction, Apperception; 'Understanding makes Nature'"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — The Schematism - Bridging Categories and Intuition by Time-Determination",
+            "ADVANCED SESSION 6 — The Analogies of Experience - Substance, Causality, Community; the Real Answer to Hume",
+            "ADVANCED SESSION 7 — Refutation of Idealism; Phenomena and Noumena",
+            "ADVANCED SESSION 8 — Ideas of Reason - Soul, World, God; Regulative vs Constitutive; the Paralogisms"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — The Antinomies of Pure Reason",
+            "ADVANCED SESSION 10 — Critique of the Proofs for the Existence of God",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite : finish the owner first for Synthetic a priori judgments"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

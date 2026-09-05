@@ -1,0 +1,1158 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-11",
+  "subject": "Governance",
+  "title": "REGULATORY GOVERNANCE AND INDEPENDENT REGULATORS",
+  "short_route": "WHY A STATUTORY REGULATOR → TRILEMMA WITH PAIRED DESIGN → INDEPENDENCE SPECTRUM → HOW CAPTURE HAPPENS LAWFULLY → TWO DIRECTIONS OF FAILURE → SIX-TEST DESIGN CHECKLIST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-11-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "5a29e30dc8a614770d004e6be48bcca1ec0f32e4fae11e6f9c5da388a4801869",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY A STATUTORY REGULATOR IS CREATED",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHY A STATUTORY REGULATOR IS CREATED",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL COMPLEXITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERALIST DEPARTMENTS CANNOT SET OR POLICE DETAILED SECTOR RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIVIDUAL LICENSING AND TARIFF DECISIONS REMOVED FROM DAILY POLITICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSISTENT RULE-MAKING THAT INVESTORS AND USERS CAN PLAN AGAINST",
+          "role": "primary"
+        },
+        {
+          "text": "THE SAME INSULATION CREATES AN ACCOUNTABILITY PROBLEM AND A",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATORY GOVERNANCE SETS RULES, LICENCES, STANDARDS, MONITORING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TECHNICAL COMPLEXITY → generalist departments cannot set or police detailed sector rules",
+        "INSULATION → individual licensing and tariff decisions removed from daily political direction",
+        "PREDICTABILITY → consistent rule-making that investors and users can plan against",
+        "COST → the same insulation creates an accountability problem and a capture risk",
+        "MUST REMEMBER: Regulatory governance sets rules, licences, standards, monitoring"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TECHNICAL COMPLEXITY → generalist departments cannot set or police detailed sector rules",
+            "INSULATION → individual licensing and tariff decisions removed from daily political direction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PREDICTABILITY → consistent rule-making that investors and users can plan against",
+            "COST → the same insulation creates an accountability problem and a capture risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Regulatory governance sets rules, licences, standards, monitoring,...",
+            "TECHNICAL COMPLEXITY → generalist departments cannot set or police detailed sector rules"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PREDICTABILITY → consistent rule-making that investors and users can plan against.",
+      "source_references": [
+        "Why independent sectoral regulators exist",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TRILEMMA WITH PAIRED DESIGN FEATURES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRILEMMA WITH PAIRED DESIGN FEATURES",
+          "role": "primary"
+        },
+        {
+          "text": "FIXED-TERM APPOINTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNUAL REPORT LAID BEFORE PARLIAMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FEE OR CESS FUNDING",
+          "role": "evidence"
+        },
+        {
+          "text": "AUDIT OF THE REGULATOR'S OWN ACCOUNTS",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL COMPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY DIRECTIONS IN SPECIFIED CIRCUMSTANCES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY RULE-MAKING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AUTONOMY: fixed-term appointment → ACCOUNTABILITY: annual report laid before Parliament",
+        "AUTONOMY: fee or cess funding → ACCOUNTABILITY: audit of the regulator's own accounts",
+        "AUTONOMY: technical composition → ACCOUNTABILITY: policy directions in specified circumstances",
+        "AUTONOMY: statutory rule-making → ACCOUNTABILITY: consultation with a published response",
+        "AUTONOMY: security of tenure → ACCOUNTABILITY: appellate tribunal and judicial review"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AUTONOMY: fixed-term appointment → ACCOUNTABILITY: annual report laid before Parliament",
+          "AUTONOMY: technical composition → ACCOUNTABILITY: policy directions in specified circumstances",
+          "AUTONOMY: security of tenure → ACCOUNTABILITY: appellate tribunal and judicial review"
+        ],
+        [
+          "AUTONOMY: fee or cess funding → ACCOUNTABILITY: audit of the regulator's own accounts",
+          "AUTONOMY: statutory rule-making → ACCOUNTABILITY: consultation with a published response",
+          "AUTONOMY: fixed-term appointment → ACCOUNTABILITY: annual report laid before Parliament"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AUTONOMY: fixed-term appointment → ACCOUNTABILITY: annual report laid before Parliament",
+            "AUTONOMY: fee or cess funding → ACCOUNTABILITY: audit of the regulator's own accounts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTONOMY: technical composition → ACCOUNTABILITY: policy directions in specified circumstances",
+            "AUTONOMY: statutory rule-making → ACCOUNTABILITY: consultation with a published response"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AUTONOMY: security of tenure → ACCOUNTABILITY: appellate tribunal and judicial review",
+            "AUTONOMY: fixed-term appointment → ACCOUNTABILITY: annual report laid before Parliament"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "statutory rule-making → ACCOUNTABILITY: consultation with a published response.",
+      "source_references": [
+        "Pairing autonomy features with accountability counterparts",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INDEPENDENCE SPECTRUM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDEPENDENCE SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "LOW END",
+          "role": "outcome"
+        },
+        {
+          "text": "A MINISTRY-CONTROLLED DEPARTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG POLITICAL CONTROL, WEAK INSULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH END",
+          "role": "primary"
+        },
+        {
+          "text": "FIXED TENURE, OWN FUNDING, REMOVAL FOR CAUSE, TECHNICAL COMPOSITION",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO INDIAN REGULATOR SITS AT EITHER EXTREME; THE STATUTE",
+          "role": "caution"
+        },
+        {
+          "text": "COMPARE THE FORMAL GRANT WITH THE WORKING REALITY FOR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LOW END → a ministry-controlled department: strong political control, weak insulation",
+        "HIGH END → fixed tenure, own funding, removal for cause, technical composition",
+        "REALITY → no Indian regulator sits at either extreme; the statute fixes the placement",
+        "WEDGE → compare the formal grant with the working reality for the same body"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LOW END → a ministry-controlled department: strong political control, weak insulation",
+          "REALITY → no Indian regulator sits at either extreme; the statute fixes the placement",
+          "LOW END → a ministry-controlled department: strong political control, weak insulation"
+        ],
+        [
+          "HIGH END → fixed tenure, own funding, removal for cause, technical composition",
+          "WEDGE → compare the formal grant with the working reality for the same body",
+          "HIGH END → fixed tenure, own funding, removal for cause, technical composition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOW END → a ministry-controlled department: strong political control, weak insulation",
+            "HIGH END → fixed tenure, own funding, removal for cause, technical composition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REALITY → no Indian regulator sits at either extreme; the statute fixes the placement",
+            "WEDGE → compare the formal grant with the working reality for the same body"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOW END → a ministry-controlled department: strong political control, weak insulation",
+            "HIGH END → fixed tenure, own funding, removal for cause, technical composition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WEDGE → compare the formal grant with the working reality for the same body.",
+      "source_references": [
+        "The independence spectrum as the analytical question",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HOW CAPTURE HAPPENS LAWFULLY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW CAPTURE HAPPENS LAWFULLY",
+          "role": "primary"
+        },
+        {
+          "text": "INFORMATION ASYMMETRY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INDUSTRY KNOWS THE SECTOR BETTER THAN THE REGULATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPENDENCE ON INDUSTRY DATA, EXPERTISE AND PERSONNEL BECOMES STRUCTURAL",
+          "role": "evidence"
+        },
+        {
+          "text": "REVOLVING DOOR, FUNDED RESEARCH AND REPEAT-PLAYER ACCESS SHAPE THE",
+          "role": "primary"
+        },
+        {
+          "text": "FRAMING CAPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE REGULATOR ADOPTS THE INDUSTRY'S DEFINITION OF THE PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "ENTRY BARRIERS DESCRIBED AS QUALITY STANDARDS; NO ILLEGALITY IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INFORMATION ASYMMETRY → the industry knows the sector better than the regulator",
+        "dependence on industry data, expertise and personnel becomes structural",
+        "revolving door, funded research and repeat-player access shape the agenda",
+        "framing capture: the regulator adopts the industry's definition of the problem",
+        "outcome: entry barriers described as quality standards; no illegality is needed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INFORMATION ASYMMETRY → the industry knows the sector better than the regulator",
+            "dependence on industry data, expertise and personnel becomes structural"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "revolving door, funded research and repeat-player access shape the agenda",
+            "framing capture: the regulator adopts the industry's definition of the problem"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "outcome: entry barriers described as quality standards; no illegality is needed",
+            "INFORMATION ASYMMETRY → the industry knows the sector better than the regulator"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "outcome: entry barriers described as quality standards; no illegality is needed.",
+      "source_references": [
+        "Regulatory capture without any illegal transaction",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TWO DIRECTIONS OF FAILURE",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TWO DIRECTIONS OF FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "INDUSTRY CAPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RULES THAT SERVE INCUMBENTS AND EXCLUDE ENTRANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTERIAL CAPTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICALLY TIMED DECISIONS AND SUPPRESSED TARIFFS",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED CORRECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSULTATION WITH PUBLISHED RESPONSES AND REASONED ORDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "COOLING-OFF PERIODS, IN-HOUSE CAPACITY, USER REPRESENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDUSTRY CAPTURE → rules that serve incumbents and exclude entrants",
+        "MINISTERIAL CAPTURE → politically timed decisions and suppressed tariffs",
+        "SHARED CORRECTIVE → consultation with published responses and reasoned orders",
+        "SHARED CORRECTIVE → cooling-off periods, in-house capacity, user representation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDUSTRY CAPTURE → rules that serve incumbents and exclude entrants",
+            "MINISTERIAL CAPTURE → politically timed decisions and suppressed tariffs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHARED CORRECTIVE → consultation with published responses and reasoned orders",
+            "SHARED CORRECTIVE → cooling-off periods, in-house capacity, user representation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDUSTRY CAPTURE → rules that serve incumbents and exclude entrants",
+            "MINISTERIAL CAPTURE → politically timed decisions and suppressed tariffs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARED CORRECTIVE → cooling-off periods, in-house capacity, user representation.",
+      "source_references": [
+        "Ministerial capture and the procedural correctives",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SIX-TEST DESIGN CHECKLIST",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SIX-TEST DESIGN CHECKLIST",
+          "role": "primary"
+        },
+        {
+          "text": "1 STATUTORY MANDATE",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT EXACTLY IS IT EMPOWERED TO DO, AND BY",
+          "role": "comparison"
+        },
+        {
+          "text": "2 APPOINTMENT AND REMOVAL",
+          "role": "evidence"
+        },
+        {
+          "text": "WHO SELECTS, ON WHAT CRITERIA, CAN REMOVAL BE ARBITRARY",
+          "role": "primary"
+        },
+        {
+          "text": "3 FUNDING",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES THE MONEY COME FROM A SOURCE THE MINISTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "4 RULE-MAKING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 STATUTORY MANDATE → what exactly is it empowered to do, and by which Act",
+        "2 APPOINTMENT AND REMOVAL → who selects, on what criteria, can removal be arbitrary",
+        "3 FUNDING → does the money come from a source the ministry or the industry",
+        "4 RULE-MAKING → pre-consultation, published response to comments, impact appraisal",
+        "5 ENFORCEMENT DUE PROCESS → notice, hearing, reasoned order, proportionality, no bias"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 STATUTORY MANDATE → what exactly is it empowered to do, and by which Act",
+            "2 APPOINTMENT AND REMOVAL → who selects, on what criteria, can removal be arbitrary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 FUNDING → does the money come from a source the ministry or the industry controls",
+            "4 RULE-MAKING → pre-consultation, published response to comments, impact appraisal"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 ENFORCEMENT DUE PROCESS → notice, hearing, reasoned order, proportionality, no bias",
+            "6 REVIEW AND REPORTING → appellate route and reporting to the legislature"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 RULE-MAKING → pre-consultation, published response to comments, impact appraisal.",
+      "source_references": [
+        "The six-test regulator design checklist",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COMPETITION REGULATOR CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPETITION REGULATOR CARD",
+          "role": "primary"
+        },
+        {
+          "text": "PARENT STATUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE COMPETITION ACT, 2002",
+          "role": "institution"
+        },
+        {
+          "text": "ANTI-COMPETITIVE AGREEMENTS, ABUSE OF DOMINANCE, REVIEW OF COMBINATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL COMPANY LAW APPELLATE TRIBUNAL, THEN THE SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "OFFICIAL PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ENABLING COMPETITION CULTURE, CONSUMER WELFARE, ECONOMIC GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "NO CASE, PARTY, PENALTY AMOUNT OR ORDER DATE IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PARENT STATUTE → the Competition Act, 2002",
+        "FUNCTIONS → anti-competitive agreements, abuse of dominance, review of combinations",
+        "APPEAL → National Company Law Appellate Tribunal, then the Supreme Court",
+        "OFFICIAL PURPOSE → an enabling competition culture, consumer welfare, economic growth",
+        "BOUNDARY → no case, party, penalty amount or order date is asserted anywhere"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PARENT STATUTE → the Competition Act, 2002",
+          "APPEAL → National Company Law Appellate Tribunal, then the Supreme Court",
+          "BOUNDARY → no case, party, penalty amount or order date is asserted anywhere"
+        ],
+        [
+          "FUNCTIONS → anti-competitive agreements, abuse of dominance, review of combinations",
+          "OFFICIAL PURPOSE → an enabling competition culture, consumer welfare, economic growth",
+          "PARENT STATUTE → the Competition Act, 2002"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PARENT STATUTE → the Competition Act, 2002",
+            "FUNCTIONS → anti-competitive agreements, abuse of dominance, review of combinations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPEAL → National Company Law Appellate Tribunal, then the Supreme Court",
+            "OFFICIAL PURPOSE → an enabling competition culture, consumer welfare, economic growth"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → no case, party, penalty amount or order date is asserted anywhere",
+            "PARENT STATUTE → the Competition Act, 2002"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → no case, party, penalty amount or order date is asserted anywhere.",
+      "source_references": [
+        "The competition regulator and its parent statute",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DOMINANCE AGAINST ABUSE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOMINANCE AGAINST ABUSE",
+          "role": "primary"
+        },
+        {
+          "text": "HOLDING A DOMINANT POSITION IN A DEFINED RELEVANT MARKET",
+          "role": "outcome"
+        },
+        {
+          "text": "PREDATORY OR UNFAIR PRICING; UNFAIR OR DISCRIMINATORY CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITING PRODUCTION OR TECHNICAL DEVELOPMENT; DENIAL OF MARKET ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "TYING AND BUNDLING; LEVERAGING DOMINANCE INTO AN ADJACENT MARKET",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LAWFUL → holding a dominant position in a defined relevant market",
+        "UNLAWFUL → predatory or unfair pricing; unfair or discriminatory conditions",
+        "UNLAWFUL → limiting production or technical development; denial of market access",
+        "UNLAWFUL → tying and bundling; leveraging dominance into an adjacent market"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LAWFUL → holding a dominant position in a defined relevant market",
+          "UNLAWFUL → limiting production or technical development; denial of market access",
+          "LAWFUL → holding a dominant position in a defined relevant market"
+        ],
+        [
+          "UNLAWFUL → predatory or unfair pricing; unfair or discriminatory conditions",
+          "UNLAWFUL → tying and bundling; leveraging dominance into an adjacent market",
+          "UNLAWFUL → predatory or unfair pricing; unfair or discriminatory conditions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAWFUL → holding a dominant position in a defined relevant market",
+            "UNLAWFUL → predatory or unfair pricing; unfair or discriminatory conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNLAWFUL → limiting production or technical development; denial of market access",
+            "UNLAWFUL → tying and bundling; leveraging dominance into an adjacent market"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LAWFUL → holding a dominant position in a defined relevant market",
+            "UNLAWFUL → predatory or unfair pricing; unfair or discriminatory conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNLAWFUL → tying and bundling; leveraging dominance into an adjacent market.",
+      "source_references": [
+        "Dominance, abuse and the two regulatory clocks",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TWO REGULATORY CLOCKS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO REGULATORY CLOCKS",
+          "role": "primary"
+        },
+        {
+          "text": "SECTOR REGULATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "LICENCES, TARIFFS, TECHNICAL STANDARDS, ENTRY CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPETITION REGULATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "CONDUCT ACROSS THE WHOLE ECONOMY AFTER THE EVENT",
+          "role": "primary"
+        },
+        {
+          "text": "A GENUINE JURISDICTIONAL QUESTION, NOT AN OVERSIGHT IN THE",
+          "role": "caution"
+        },
+        {
+          "text": "REMEDIES ARRIVE AFTER THE MARKET STRUCTURE HAS ALREADY SHIFTED",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SECTOR REGULATOR → ex-ante: licences, tariffs, technical standards, entry conditions",
+        "COMPETITION REGULATOR → ex-post: conduct across the whole economy after the event",
+        "OVERLAP → a genuine jurisdictional question, not an oversight in the design",
+        "LIMIT → remedies arrive after the market structure has already shifted"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SECTOR REGULATOR → ex-ante: licences, tariffs, technical standards, entry conditions",
+          "OVERLAP → a genuine jurisdictional question, not an oversight in the design",
+          "SECTOR REGULATOR → ex-ante: licences, tariffs, technical standards, entry conditions"
+        ],
+        [
+          "COMPETITION REGULATOR → ex-post: conduct across the whole economy after the event",
+          "LIMIT → remedies arrive after the market structure has already shifted",
+          "COMPETITION REGULATOR → ex-post: conduct across the whole economy after the event"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECTOR REGULATOR → ex-ante: licences, tariffs, technical standards, entry conditions",
+            "COMPETITION REGULATOR → ex-post: conduct across the whole economy after the event"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OVERLAP → a genuine jurisdictional question, not an oversight in the design",
+            "LIMIT → remedies arrive after the market structure has already shifted"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTOR REGULATOR → ex-ante: licences, tariffs, technical standards, entry conditions",
+            "COMPETITION REGULATOR → ex-post: conduct across the whole economy after the event"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → remedies arrive after the market structure has already shifted.",
+      "source_references": [
+        "Dominance, abuse and the two regulatory clocks",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TRIBUNAL REFORM TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRIBUNAL REFORM TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "THE TRIBUNALS REFORMS ACT ABOLISHES NAMED APPELLATE BODIES, FUNCTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "19 NOVEMBER 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 INSC 1330 INVALIDATES FOUR HEADS OF RE-ENACTED PROVISIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SAME JUDGMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EARLIER MADRAS BAR ASSOCIATION STANDARDS MADE CONTROLLING",
+          "role": "outcome"
+        },
+        {
+          "text": "A NATIONAL TRIBUNALS COMMISSION DIRECTED WITHIN FOUR MONTHS",
+          "role": "comparison"
+        },
+        {
+          "text": "9 MARCH 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 → the Tribunals Reforms Act abolishes named appellate bodies, functions to High Courts",
+        "19 NOVEMBER 2025 → 2025 INSC 1330 invalidates four heads of re-enacted provisions",
+        "SAME JUDGMENT → earlier Madras Bar Association standards made controlling",
+        "SAME JUDGMENT → a National Tribunals Commission directed within four months",
+        "9 MARCH 2026 → interim extensions for specified incumbents to 8 September 2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2021 → the Tribunals Reforms Act abolishes named appellate bodies, functions to High Courts",
+            "19 NOVEMBER 2025 → 2025 INSC 1330 invalidates four heads of re-enacted provisions",
+            "SAME JUDGMENT → earlier Madras Bar Association standards made controlling"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAME JUDGMENT → a National Tribunals Commission directed within four months",
+            "9 MARCH 2026 → interim extensions for specified incumbents to 8 September 2026",
+            "13 AUGUST 2026 → no establishment notification located; implementation unresolved"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Independence is protection from improper direction, not immunity from..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Independence is protection from improper direction, not immunity from.",
+      "source_references": [
+        "The 2025 judgment and the unresolved commission",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ARCHITECTURE PROPOSAL AGAINST ADOPTION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARCHITECTURE PROPOSAL AGAINST ADOPTION",
+          "role": "primary"
+        },
+        {
+          "text": "A UNIFIED FINANCIAL AGENCY ON A REGULATION-BY-ACTIVITY PRINCIPLE, 2013",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSUMING MOST FINANCIAL REGULATORS, EXCLUDING THE CENTRAL BANK",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE PROPOSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "A DRAFT INDIAN FINANCIAL CODE CONSOLIDATING THE LEGISLATION",
+          "role": "primary"
+        },
+        {
+          "text": "NEITHER IMPLEMENTED IN FULL; A 2015 MERGER IS A",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE RBI, SEBI, TRAI, CERC AND CCI ONLY WITH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROPOSAL → a Unified Financial Agency on a regulation-by-activity principle, 2013",
+        "SCOPE → subsuming most financial regulators, excluding the central bank",
+        "SEPARATE PROPOSAL → a draft Indian Financial Code consolidating the legislation",
+        "OUTCOME → neither implemented in full; a 2015 merger is a partial related step only",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RBI, SEBI, TRAI, CERC and CCI only with"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROPOSAL → a Unified Financial Agency on a regulation-by-activity principle, 2013",
+            "SCOPE → subsuming most financial regulators, excluding the central bank"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEPARATE PROPOSAL → a draft Indian Financial Code consolidating the legislation",
+            "OUTCOME → neither implemented in full; a 2015 merger is a partial related step only"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RBI, SEBI, TRAI, CERC and CCI only with...",
+            "PROPOSAL → a Unified Financial Agency on a regulation-by-activity principle, 2013"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RBI, SEBI, TRAI, CERC and CCI only with.",
+      "source_references": [
+        "Architecture reform, trust-based regulation and honest ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A REGULATORY DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A REGULATORY DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY CHARACTER FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY, NOT CONSTITUTIONAL, NOT EXECUTIVE-CREATED",
+          "role": "caution"
+        },
+        {
+          "text": "MANDATE, FUNCTION AND APPELLATE ROUTE, THEN THE TRILEMMA AND",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLY THE SIX TESTS AND NAME BOTH DIRECTIONS OF",
+          "role": "primary"
+        },
+        {
+          "text": "GRADED VERDICT, DATED STATUS FOR ANYTHING UNRESOLVED, STATED QUESTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OPEN → statutory character first: statutory, not constitutional, not executive-created",
+        "BUILD → mandate, function and appellate route, then the trilemma and capture mechanism",
+        "CORRECT → apply the six tests and name both directions of capture with correctives",
+        "CLOSE → graded verdict, dated status for anything unresolved, stated question ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → statutory character first: statutory, not constitutional, not executive-created",
+            "BUILD → mandate, function and appellate route, then the trilemma and capture mechanism"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → apply the six tests and name both directions of capture with correctives",
+            "CLOSE → graded verdict, dated status for anything unresolved, stated question ownership"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → statutory character first: statutory, not constitutional, not executive-created",
+            "BUILD → mandate, function and appellate route, then the trilemma and capture mechanism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict, dated status for anything unresolved, stated question ownership.",
+      "source_references": [
+        "Architecture reform, trust-based regulation and honest ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\11_Regulatory-Governance-and-Independent-Regulators.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g2\\governance-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE 2025 PYQ'S FRAMING (\"ASSESS THE IMPACT\") INVITES AN",
+          "role": "outcome"
+        },
+        {
+          "text": "FSLRC'S UNIMPLEMENTED UNIFIED FINANCIAL AGENCY PROPOSAL AND THE SECOND",
+          "role": "comparison"
+        },
+        {
+          "text": "SEARCH-CUM-SELECTION COMMITTEES REDUCE BUT DO NOT ELIMINATE EXECUTIVE INFLUENCE",
+          "role": "caution"
+        },
+        {
+          "text": "THE TRIBUNALS REFORMS ACT, 2021 AS ENACTED PRESCRIBED A",
+          "role": "institution"
+        },
+        {
+          "text": "FSLRC (2013) ADDITIONALLY PROPOSED A DRAFT INDIAN FINANCIAL CODE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIVIDUAL SECTORAL REGULATORS (RBI, SEBI, TRAI, CCI, ETC.) HAVE",
+          "role": "comparison"
+        },
+        {
+          "text": "RBI'S RELATIVELY STRONG DE FACTO INDEPENDENCE (OWN FUNDING THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The 2025 PYQ's framing (\"assess the impact\") invites an explicitly two-sided answer:",
+            "CAUTION: FSLRC's unimplemented Unified Financial Agency proposal and the Second ARC's selective",
+            "CAUTION: Search-cum-selection committees reduce but do not eliminate executive influence over",
+            "The Tribunals Reforms Act, 2021 as enacted prescribed a fifty-year minimum age for"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "FSLRC (2013) additionally proposed a draft Indian Financial Code intended to",
+            "CAUTION: Individual sectoral regulators (RBI, SEBI, TRAI, CCI, etc.) have each undergone their",
+            "CAUTION: RBI's relatively strong de facto independence (own funding through seigniorage/",
+            "CAUTION: Boundary case: a tribunal whose function was abolished under the 2021 Act and"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: The 2015 FMC-SEBI merger, often cited as influenced by FSLRC's direction, illustrates",
+            "CAUTION: Greater regulatory independence reduces short-term political interference risk but can",
+            "CAUTION: Reducing the number of tribunals (2021 Act) lowers appointment-delay and duplication",
+            "CAUTION: FSLRC-style comprehensive unification could reduce regulatory arbitrage but risks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

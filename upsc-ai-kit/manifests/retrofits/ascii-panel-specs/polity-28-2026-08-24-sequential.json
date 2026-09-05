@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "id": "polity-28-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-28": {
+      "title": "UPSC and SPSC",
+      "source_record": "polity-28:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-28\\g3-source\\polity-28_g3-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Constitutional purpose and Articles 315-323",
+          "structural_type": "psc-purpose-article-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+          ],
+          "full_text": "ROOT QUESTION\nHow can recruitment remain merit-based, representative and insulated from patronage?\n\nEVOLUTION\nCharter Act 1853 -> Macaulay Committee 1854 -> first PSC, 1 October 1926\n-> Government of India Act 1935 -> Constitution, 26 January 1950.\n\nPART XIV, CHAPTER II\n315 institution | 316 appointment/term | 317 removal/suspension\n318 service/staff rules | 319 post-office limits | 320 functions/consultation\n321 additional functions | 322 charged expenses | 323 reports.\n\nDESIGN\nindependent constitutional advice -> lawful executive appointment -> public\naccountability.\n\nLIMIT\nmerit is not one test score; Articles 14, 16, reservation and suitability remain\noperative."
+        },
+        {
+          "title": "UPSC, SPSC and Joint PSC federal map",
+          "structural_type": "psc-federal-institution-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+          ],
+          "full_text": "UNION PUBLIC SERVICE COMMISSION\nArticle 315(1) -> Union institution -> members appointed by President.\n\nSTATE PUBLIC SERVICE COMMISSION\nArticle 315(1) -> one for each State, subject to Article 315\n-> members appointed by Governor.\n\nJOINT STATE PSC\nArticle 315(2) -> resolutions by participating State legislatures\n-> Parliament provides by law -> members appointed by President.\n\nUPSC ASSISTANCE TO ONE STATE: ARTICLE 315(4)\nGovernor request + President approval + UPSC agreement.\n\nJOINT RECRUITMENT: ARTICLE 320(2)\nUPSC assists two or more States where special qualifications are required.\n\nTRAP\nconstitutional source, creating instrument, appointing authority and service area\ndiffer."
+        },
+        {
+          "title": "Article 316 membership and tenure",
+          "structural_type": "psc-membership-tenure-lifecycle",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+          ],
+          "full_text": "APPOINTMENT\nUPSC / Joint PSC -> President | SPSC -> Governor.\n\nCOMPOSITION\nnumber and service conditions are regulated under Article 318.\nAs nearly as may be, one-half of members must have held government office for ten years.\n\nTERM\nsix years from entering office.\nUPSC member: age ceiling 65 | SPSC or Joint PSC member: age ceiling 62.\n\nRESIGNATION\nUPSC / Joint PSC member -> President | SPSC member -> Governor.\n\nACTING CHAIR: ARTICLE 316(1A)\nPresident for UPSC/Joint PSC | Governor for SPSC.\n\nTRAP\nappointment, resignation, acting appointment and removal do not use one authority."
+        },
+        {
+          "title": "Removal, suspension and independence",
+          "structural_type": "psc-independence-removal-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 21"
+          ],
+          "full_text": "MISBEHAVIOUR ROUTE: ARTICLE 317(1)\nPresident refers to Supreme Court -> Court inquiry and report\n-> President may remove after constitutional finding.\n\nDIRECT PRESIDENTIAL GROUNDS: ARTICLE 317(3)\ninsolvency | paid employment outside office | infirmity of mind or body.\n\nDEEMED MISBEHAVIOUR: ARTICLE 317(4)\ninterest in specified government contracts or benefits.\n\nSUSPENSION PENDING INQUIRY: ARTICLE 317(2)\nPresident for UPSC/Joint PSC | Governor for SPSC.\n\nARTICLE 318\nPresident/Governor regulates member conditions and staff; disadvantage bar after\nappointment.\n\nARTICLE 319 + ARTICLE 322\npost-office restrictions + expenses charged on Consolidated Fund.\n\nLIMIT\nstrong tenure and finance protection coexist with executive appointment and staff\ndependence."
+        },
+        {
+          "title": "Article 320 examinations and consultation",
+          "structural_type": "psc-function-consultation-catalogue",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 26"
+          ],
+          "full_text": "ARTICLE 320(1)\nconduct examinations for appointments to Union and State services.\n\nARTICLE 320(2)\nUPSC assists two or more States in joint recruitment for specially qualified services.\n\nARTICLE 320(3) CONSULTATION\nmethods of recruitment -> principles for appointments\n-> promotions and transfers -> candidate suitability\n-> disciplinary matters -> legal-cost claims -> injury-pension claims.\n\nDECISION CHAIN\nservice rules + vacancy + notice -> examination/selection -> recommendation\n-> appointing government makes lawful decision.\n\nLIMITS\nPSC advice is generally advisory | government owns posts and cadres\n| consultation is not adjudication | recommendation is not appointment."
+        },
+        {
+          "title": "Exemptions, extension and Article 323 reporting",
+          "structural_type": "psc-advice-accountability-loop",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 28",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 29",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 30",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 31",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 32"
+          ],
+          "full_text": "ARTICLE 320(3) PROVISO\nPresident/Governor may make consultation-exemption regulations\n-> regulations must be laid before Parliament/State legislature.\n\nARTICLE 320(4)\nconsultation is not required on the manner of Article 16(4) reservation\nor giving effect to Article 335.\n\nState of U.P. v. Manbodhan Lal Srivastava (1957)\nconsultation is directory; non-consultation alone does not invalidate action.\n\nARTICLE 321\nParliament/State legislature may extend functions to local or other public institutions.\n\nARTICLE 323\nannual report -> President/Governor -> legislature\n+ memorandum explaining non-acceptance of advice.\n\nSYNTHESIS\nnon-binding advice becomes constitutionally visible through reasoned legislative\nreporting."
+        },
+        {
+          "title": "Recruitment ownership and lateral entry",
+          "structural_type": "psc-recruitment-ecosystem",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 33",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 34",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 35",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 36",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 37"
+          ],
+          "full_text": "WHO OWNS WHAT?\nGovernment / DoPT -> posts, recruitment rules, cadre, reservation and appointment.\nUPSC / SPSC -> examination, selection and consultation assigned by Constitution/rules.\nSSC / departmental body -> statutory or executive recruitment within assigned\njurisdiction.\nCAT / courts -> service-dispute adjudication and legality review.\n\nLATERAL ENTRY TEST\nidentify post -> recruitment rule -> mode and level -> consultation regulation\n-> reservation/equality control -> transparent selection -> appointing authority.\n\nCURRENT CONTROL\n15 March 2024 consultation-regulation amendment covers specified posts and methods.\nIt is not a universal constitutional category called lateral entry.\n\nTRAP\nUPSC is not the entire civil-service system and CAT is not a recruitment agency."
+        },
+        {
+          "title": "Selection case law and examination-integrity control",
+          "structural_type": "psc-case-law-integrity-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 38",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 39",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 40",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 41",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 42",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 43",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 44",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 45"
+          ],
+          "full_text": "FAIRNESS AND REVIEW\nAshok Kumar Yadav (1985) -> bias controls and proportionate interview design.\nK. Manjusree (2008) -> no undisclosed minimum criterion after process begins.\nTej Prakash Pathak (2024) -> stable, lawful and non-arbitrary recruitment rules.\nShankarsan Dash (1991) -> select-list entry gives no indefeasible appointment right.\nM.V. Thimmaiah (2007) -> courts do not become appellate selection boards.\n\nPUBLIC EXAMINATIONS ACT AND RULES, 2024\nprevention -> secure centres/CBT -> incident reporting -> investigation -> penalty.\n\nINTEGRITY SYSTEM\nconflict disclosure + audit trail + cyber security + calibrated transparency\n-> prompt reasoned remedy.\n\nLIMIT\ncriminal punishment cannot cure opaque rules, weak governance or inaccessible remedies."
+        },
+        {
+          "title": "Neutrality, capacity, reform, traps and qualified answer synthesis",
+          "structural_type": "psc-reform-answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 46",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 47",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 48",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 49",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 50",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 51",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 52",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 53",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 54",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 55",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md#SESSION 56"
+          ],
+          "full_text": "INDEPENDENCE TEST\ncredible appointments + secure tenure + charged expenses + professional staff\n-> protected data/exams + reasoned decisions + legislative reporting + judicial review.\n\nREFORM\ntransparent criteria -> vacancy planning -> conflict/recusal rules\n-> common security standards -> faster grievance disposal\n-> SPSC capacity support without Union takeover.\n\nPRELIMS FIREWALL\nGovernor appoints SPSC but President removes | age 65 versus 62\n| Joint PSC needs parliamentary law | Article 320 advice is not binding\n| Article 319 restrictions differ | ECI, SSC, CAT and PSC are not interchangeable.\n\nPYQ AUDIT\nno direct standalone 2018-2026 PSC PYQ verified; do not manufacture one.\n\nMAINS SPINE\nconstitutional purpose -> exact Article -> function -> safeguard\n-> practical deficit -> case-year -> accountable reform ->\nneutrality-with-representation verdict."
+        },
+        {
+          "title": "Article 319 post-tenure eligibility matrix",
+          "structural_type": "post-tenure-eligibility-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-28\\g3-source\\polity-28_g3-reviewed-source.md#core"
+          ],
+          "full_text": "UPSC CHAIRMAN\nno further employment under Union or State.\n\nSPSC CHAIRMAN\nmay become UPSC Chairman/member or Chairman of another SPSC.\n\nUPSC MEMBER\nmay become UPSC Chairman or an SPSC Chairman.\n\nSPSC MEMBER\nmay become UPSC Chairman/member or Chairman of same/another SPSC.\n\nCOMMON LIMIT\nno reappointment to the same office; constitutional office is not automatically\ngovernment employment."
+        },
+        {
+          "title": "Discipline consultation, exemptions and reporting loop",
+          "structural_type": "consultation-accountability-loop",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-28\\g3-source\\polity-28_g3-reviewed-source.md#core"
+          ],
+          "full_text": "ARTICLE 320(3)\nrecruitment methods -> appointments/promotions/transfers -> disciplinary matters ->\nlegal-cost and injury-pension claims.\n\nARTICLE 320(4) / PROVISO\nreservation matters and valid consultation regulations define exclusions.\n\nMANBODHAN LAL (1957)\nconsultation is directory; non-consultation does not automatically invalidate action.\n\nARTICLE 323\nannual report -> legislature -> memorandum of non-accepted advice with reasons.\n\nRESULT\nadvice is non-binding but rejection is accountable."
+        },
+        {
+          "title": "Current integrity controls and commission reform",
+          "structural_type": "current-integrity-reform-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-28\\g3-source\\polity-28_g3-reviewed-source.md#core"
+          ],
+          "full_text": "DATED CONTROL — 28 AUGUST 2026\nDr Ajay Kumar is listed as UPSC Chairman. Public Examinations Act and Rules, 2024 apply\nto listed UPSC examinations. The 15 March 2024 consultation-regulation amendment covers\nspecified deputation and related methods.\n\nINTEGRITY CHAIN\nsecure paper/CBT creation -> vendor controls -> incident reporting -> investigation ->\nreasoned candidate remedy.\n\nREFORM\ntransparent appointments -> filled vacancies -> fixed calendars -> recusal and interview\nrubrics -> published consultation memoranda -> interoperable but accountable State\nlearning."
+        }
+      ]
+    }
+  }
+}

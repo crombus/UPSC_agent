@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-05",
+      "display_title": "Colonial and Post-Independence Architecture",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\05_Colonial-and-Post-Independence-Architecture_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Colonial sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PORTUGUESE -> church, Baroque and fort",
+            "FRENCH -> Cartesian settlement grid",
+            "BRITISH -> Indo-Gothic public monument",
+            "POST-1911 -> Neo-Classical imperial capital"
+          ],
+          "source_references": [
+            "Portuguese authority in church and fort",
+            "French planning as architecture"
+          ]
+        },
+        {
+          "title": "Architecture as power",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SPONSOR -> church, company or colonial state",
+            "PLAN -> grid, axis and segregated precinct",
+            "MONUMENT -> authority made visible",
+            "PUBLIC USE -> rule enters daily urban space"
+          ],
+          "source_references": [
+            "New Delhi and imperial axis"
+          ]
+        },
+        {
+          "title": "Indo-Gothic grammar",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GOTHIC -> pointed arch and ribbed vault",
+            "INDIAN -> dome, jaali and turret",
+            "CLIMATE -> balcony and veranda",
+            "RESULT -> colonial revival hybrid"
+          ],
+          "source_references": [
+            "British Indo-Gothic hybridity"
+          ]
+        },
+        {
+          "title": "New Delhi axis",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "PROCESSIONAL VISTA -> imperial approach",
+            "SECRETARIAT -> administrative command",
+            "VICEROY'S HOUSE -> elevated authority",
+            "CAPITAL PLAN -> permanence staged in space"
+          ],
+          "source_references": [
+            "New Delhi and imperial axis"
+          ]
+        },
+        {
+          "title": "1947 continuity test",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CHANGE -> sovereign Indian patron",
+            "CONTINUITY -> monumental civic planning",
+            "CHANGE -> national programme and symbolism",
+            "VERDICT -> uneven architectural decolonisation"
+          ],
+          "source_references": [
+            "The colonial-hangover critique"
+          ]
+        },
+        {
+          "title": "Postwar architect map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LE CORBUSIER -> Chandigarh state capital",
+            "DEOLALIKAR -> Supreme Court",
+            "CORREA/KANVINDE -> institutions",
+            "BAKER/DOSHI -> climate, housing and social use"
+          ],
+          "source_references": [
+            "Chandigarh's imported modernism",
+            "First Indian state commissions"
+          ]
+        },
+        {
+          "title": "Baker mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LOCAL MATERIAL -> lower embodied cost",
+            "FILLER SLAB -> less steel and cement",
+            "VENTILATION -> thermal comfort",
+            "CLIENT -> affordable housing user"
+          ],
+          "source_references": [
+            "Laurie Baker's client shift"
+          ]
+        },
+        {
+          "title": "Institutional modernisms",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CORREA -> courtyard and open-to-sky space",
+            "KANVINDE -> modern and Brutalist institutions",
+            "DOSHI -> housing and campus urbanism",
+            "COMMON TEST -> climate, use and public purpose"
+          ],
+          "source_references": [
+            "Correa and Kanvinde",
+            "Doshi's verified record"
+          ]
+        },
+        {
+          "title": "Award precision rail",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "DOSHI 1976 -> Padma Shri",
+            "DOSHI 2018 -> Pritzker laureate",
+            "DOSHI 2020 -> Padma Bhushan",
+            "DOSHI 2023 -> Padma Vibhushan, posthumous"
+          ],
+          "source_references": [
+            "Doshi's verified record"
+          ]
+        },
+        {
+          "title": "Parliament continuity",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1927 BUILDING -> colonial-era legislature",
+            "2023 BUILDING -> Bimal Patel, main workplace",
+            "OLD BUILDING -> retained as Samvidhan Sadan",
+            "MITAOLI -> debated link to 1927 design"
+          ],
+          "source_references": [
+            "Parliament old and new"
+          ]
+        },
+        {
+          "title": "Heritage pressure",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MUMBAI ENSEMBLES -> living urban heritage",
+            "URBAN GROWTH -> pressure on setting",
+            "HALL OF NATIONS -> modern-heritage loss",
+            "POLICY -> age and value can diverge"
+          ],
+          "source_references": [
+            "Raj Rewal and modern heritage",
+            "Mumbai's living ensembles"
+          ]
+        },
+        {
+          "title": "Modern architecture answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SEQUENCE -> coloniser and phase",
+            "EVIDENCE -> building, architect and device",
+            "ANALYSE -> power, climate, client and cost",
+            "QUALIFY -> continuity, attribution and conservation"
+          ],
+          "source_references": [
+            "Zero-PYQ audit and answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

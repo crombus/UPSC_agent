@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-08",
+      "display_title": "Indian Music",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Melodic hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SAPTASWARA -> shared note base",
+            "THAAT / MELAKARTA -> parent-scale systems",
+            "RAGA -> performed melodic identity",
+            "TALA -> rhythmic cycle framing performance",
+            "MUST REMEMBER: Indian music analysis distinguishes saptaswara, raga, tala, Hindustani thaat,",
+            "  Carnatic melakarta-janya systems, treatise chronology, gharana or sampradaya transmission,",
+            "  instruments and modern institutions.",
+            "MUST REMEMBER: Indian music analysis distinguishes saptaswara, raga, tala, Hindustani thaat,",
+            "  Carnatic melakarta-janya systems, treatise chronology, gharana or sampradaya transmission,",
+            "  instruments and modern institutions."
+          ],
+          "source_references": [
+            "Swara, thaat and raga",
+            "Melakarta and janya logic",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Thaat-raga firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "THAAT -> seven-note unsung scale",
+            "RAGA -> phrase, hierarchy and melodic identity",
+            "MELAKARTA -> Carnatic sampurna parent",
+            "JANYA -> derived Carnatic raga"
+          ],
+          "source_references": [
+            "Swara, thaat and raga",
+            "Melakarta and janya logic",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Two-tradition matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HINDUSTANI -> thaat, gharana, alap and khayal",
+            "CARNATIC -> melakarta, kriti and manodharma",
+            "SHARED -> swara, raga, tala and older theory",
+            "REJECT -> foreign versus pure"
+          ],
+          "source_references": [
+            "Hindustani and Carnatic shared roots",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Treatise contribution chain",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BHARATA -> music with drama and rasa",
+            "MATANGA -> early raga definition",
+            "SHARNGADEVA -> pre-bifurcation synthesis",
+            "VENKATAMAKHIN -> melakarta system"
+          ],
+          "source_references": [
+            "Treatises by contribution",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Modern pedagogy shift",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "HEREDITARY LINEAGE -> concentrated technique",
+            "PALUSKAR 1901 -> institutional teaching",
+            "BHATKHANDE -> pedagogic classification",
+            "RESULT -> wider access and standardisation"
+          ],
+          "source_references": [
+            "Bhatkhande, Paluskar and pedagogy",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Gharana mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "HOUSEHOLD / LINEAGE -> specialised skill",
+            "PATRON -> court or elite support",
+            "APPRENTICESHIP -> controlled transmission",
+            "NEW MEDIA -> concert, radio and recording"
+          ],
+          "source_references": [
+            "Gharana as labour and patronage",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Gharana discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DAGAR -> Dhrupad",
+            "GWALIOR -> old khayal lineage",
+            "KIRANA -> precise swara",
+            "PATIALA -> thumri and ghazal"
+          ],
+          "source_references": [
+            "Named gharana discriminators",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Aurangzeb correction rail",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "COURT SINGING -> curtailed",
+            "INSTRUMENTS -> continued",
+            "WOMEN / NOBLES -> retained patronage",
+            "MUHAMMAD SHAH -> khayal strengthened later"
+          ],
+          "source_references": [
+            "Dhrupad, khayal and court change",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Carnatic composer map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ANNAMACHARYA -> Venkateswara sankirtanas",
+            "PURANDARA DASA -> pedagogic foundation",
+            "TYAGARAJA + DIKSHITAR + SYAMA SASTRI -> Trinity",
+            "VENKATAMAKHIN -> theory and composition"
+          ],
+          "source_references": [
+            "Carnatic composers and patrons",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Instrument mechanism test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TATA -> vibrating string",
+            "SUSHIRA -> vibrating air column",
+            "AVANADDHA -> stretched membrane",
+            "GHANA -> solid body vibrates",
+            "CLOSE DISTINCTION: A thaat is an unsung seven-note parent scale, a raga has characteristic",
+            "  ascent, descent, hierarchy and phrase, and seventy-two Carnatic melakartas are not",
+            "  Bhatkhande's ten Hindustani thaats.",
+            "CLOSE DISTINCTION: A thaat is an unsung seven-note parent scale, a raga has characteristic",
+            "  ascent, descent, hierarchy and phrase, and seventy-two Carnatic melakartas are not",
+            "  Bhatkhande's ten Hindustani thaats."
+          ],
+          "source_references": [
+            "Instrument families by mechanism",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Folk-function map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "PANDAVANI -> epic memory, Chhattisgarh",
+            "PANIHARI -> water and women's labour, Rajasthan",
+            "POWADA -> heroic memory, Maharashtra",
+            "KHONGJOM PARBA -> battle memory, Manipur",
+            "EVIDENCE LIMIT: Bharata, Matanga, Sharngadeva and Venkatamakhin mark different theoretical",
+            "  stages; mood, time and season associations are tradition-specific and neither classical",
+            "  system is culturally pure or improvisation-free.",
+            "EVIDENCE LIMIT: Bharata, Matanga, Sharngadeva and Venkatamakhin mark different theoretical",
+            "  stages; mood, time and season associations are tradition-specific and neither classical",
+            "  system is culturally pure or improvisation-free."
+          ],
+          "source_references": [
+            "Folk music by occasion and region",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Music answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> note, scale, raga or form",
+            "COMPARE -> grammar, repertoire and patronage",
+            "EVIDENCE -> treatise, gharana, composer or instrument",
+            "QUALIFY -> attribution, key and current-list limits"
+          ],
+          "source_references": [
+            "SNA linkage and PYQ audit",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\08_Indian-Music.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g2\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-08\\g3\\indian-art-and-culture-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

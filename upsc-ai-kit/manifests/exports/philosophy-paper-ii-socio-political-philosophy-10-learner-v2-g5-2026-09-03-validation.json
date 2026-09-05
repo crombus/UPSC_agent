@@ -1,0 +1,681 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "identity": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g5",
+  "published": true,
+  "record_id": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g5",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+  "topic_title": "Caste Discrimination: Gandhi and Ambedkar",
+  "variant": "learner-v2",
+  "generation": 5,
+  "approval": false,
+  "canonical_sequence_number": 10,
+  "official_syllabus_verbatim": "Caste Discrimination : Gandhi and Ambedkar.",
+  "topic_adapter": "tools\\philosophy_socio_political_caste_gandhi_ambedkar_v2_spec.py",
+  "sources": {
+    "hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g4\\topic-10_Complete-Learning-Session_2026-08-30.md": "281e8e717cf7f921b0470411885dd04fb1f33f91b9e5781d02b598879f6ee8a9",
+      "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md": "b30d52a63dd56a0e61bdea6ed5cb80a9e7f552c7d6783d21ee642c784ce4980c",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184"
+    },
+    "verified_pyq_owner_count": 9,
+    "source_audit": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\source-audit.json"
+  },
+  "content_validation": {
+    "core_session_count": 10,
+    "advanced_session_count": 4,
+    "answer_grabbing_line_count": 10,
+    "verified_pyq_count": 9,
+    "mcq_count": 48,
+    "original_mains_practice_count": 6,
+    "deep_quality_status": "pass",
+    "deep_quality_severity_counts": {
+      "blocker": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "required_h2_order": [
+      "BASIC LEARNING SESSION",
+      "BASIC MCQS / REMEDIATION",
+      "PYQS AND ANSWER PRACTICE",
+      "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+      "CONSOLIDATED REGISTER NOTES"
+    ],
+    "register_notes_last": true,
+    "session_navigation": "SESSION N only; no Progress X/Y labels",
+    "core_syllabus_complete_without_advanced": true,
+    "advanced_optional_and_separated": true,
+    "verified_pyq_wording": "passed",
+    "mcq_rotation": "A->B->C->D",
+    "mcq_answer_text_key_consistency": "passed",
+    "workbook_distinct": true,
+    "english_first": true
+  },
+  "deliverables": {
+    "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.md",
+    "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+    "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+    "concept_visual": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\assets\\philosophy-paper-ii-socio-political-philosophy-10\\caste-gandhi-ambedkar-map.png",
+    "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-g5-2026-09-03.json",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-10-g5.json",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-10-g5.json",
+    "flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5",
+    "ascii_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.pdf",
+    "hashes": {
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.pdf": "a6970d08f6f2c256cb5fa2c3669a9fdc6ccb490051b75e8135cdbb016b3b1901",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.txt": "b9378736bb27c6b8eed5e22b325d0a704d88e8231abf7311bb2bb1a1bca5f921",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\build-audit.json": "283de7c5e33b1e4536362bd4b17ceda599f322f879257ba3d8dc415260617b51",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\editable\\topic-spec.json": "dec8433ccc25e0ea9306c7e7e5432d06ff0208d9025063b2c6e0d02ebe3b65f9",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\master.png": "81f644b623eb73c2d0b82400884b3c5a50ca4d16632a47363af45afbb637ddda",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\poster.pdf": "007fbcc66a2812262fc2e960540879b4251e63f6a72988588e99092acfa8db9f",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\preservation-hashes.json": "b322a18683cfc1b36005c2634a50373f29d078f398fa377741d449eefd091666",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\contact-sheet-01.png": "579eff2b1cfeb7e7c184f88d9135338b2429d44cfed2bf6519c59e7995fe62fd",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\master-overview.png": "eb6ef69f9f5a1384c365ee09256ca6124073a6fd4fc22f90ca46448e76042c6e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\page-001.png": "a7724697baab203b4a1eff2ceab42de94070718385eefcd08299867505eaed74",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\page-002.png": "cf5ff98323d893926a8881a60bf1449282d6672969b9310524530a87fe108353",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\page-003.png": "10a2fc9380597174ead7c6051ce56032bdd3020fcb7b1fd4cfabdcc0f214e638",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\page-004.png": "e365fd59149999c0f171ab83a61c44df50186cfbf7521938feef8e7e88a5ad50",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\README.txt": "1f5728ab59751c2dac854230fb85c48fc55124c9127dfa38a09184fcb42ca58c",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\tiled.pdf": "dfd10c3019c7a7681ceded7807e7024aa85db319b9590cd90f8e153fb3d9a822",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\validation-report.txt": "45db3c67d31648f31f9ec834ee9251c97c71262db53c7699ec8af943c0c27b1f",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf": "1d44825f5440db306bebd15c9c2c237615cb7a73fcca64eff55465d702bc04e8",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf": "57ebba2680073c3fd0023e8974745ff4e0207ac707ab42e64c68426b354c0ef4",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\main-visual-audit-map.json": "863c3b2c5874bed33b1c70900a38fad8025a264d5f50981a77ab95a6f3e3f9d6",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\ascii-contact-01.png": "4425a35f8c086d55fbfc444cbbc816c75f5e6b14faedbb89646572b2b1a58348",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\ascii-contact-02.png": "90b77d236129259474d642ed22f54f648ce3816176664ac9b7d58396a8f3cde9",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\graphical-contact-01.png": "57c6fb52c5ab03482a851a025bfefc988d702da394adbfd25dd801e4dc4bf7c6",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\inspection-manifest.json": "d19c65e8ee48d4a7f5f0fc298859f87641ee2eb44392af509264e19036dc67e5",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-01.png": "8c97d59a48fd2a61702b3a24550281aa3873f5ea7339ec99c82a11b55d6c2eac",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-02.png": "8859cb799469a3da41c51bc3f743478951e95f112f2bf9b2f366257cd52e9302",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-03.png": "90ebb15feb49046f0c3c6180f2974e3e9f32fe99d25507ab69a120dbd1ca853c",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-04.png": "a44567b7f442d4bdce2a2071b9286c5b3f039e7c3b61110967ac6f32b319c922",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-05.png": "bb413ef6fdba9096c9345b58d25505318f198700fdeb4dd739fcbb28915fb856",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-06.png": "ddcdad89b79afb9764b4df897b4fd446de84636bfc7d2e8b1f27b6d287db47e4",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-07.png": "22bffeebfd35d615d529cd1886155d947b197caa32ffedd69f71123b8d018415",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-08.png": "e10f7e09010cf4eaa9195e1ea815c5a49f20dde7e31d6d3cfbffa0d50ef4bc86",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-09.png": "dd546afd718d4758a2ae06e56bc16f28f50359f8f0b5b75b14f5a059276af6f6",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-10.png": "8a3debd1d7dcd102dba607eb1a8dd033dc2bdd7658ad14b4bcf666dc2d199bcb",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-11.png": "0190da6c90f3e959fe7923faf61bd470f76b5546fb359d053f4b10368ce2a9f0",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-01.png": "1b2d265f09267bf0822ad6d3fff32d9cb24af74729474287ee5029ff2315e5d8",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-02.png": "7b43d9191dd9400e061ac5d065d7a5a8d6ce1b03a63bd45b01976c67256e219f",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-03.png": "40c2853b8240c6d106f3b1e09daf9a1e1861c2f47e56a2107d68cb92b12d21b9",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-04.png": "85e694b2a43dc7677d59b3af69676437ae51beb09d48bf933b0378fe74256e18",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\source-audit.json": "4ade1cc68c6ed69439388b3f50d0b0cd665ceca07d128e22995cbe01540e6cf1",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\workbook-visual-audit-map.json": "a080d69c7131ef8b9d2c991758ffa65c229913493d48e73f3ec34e33287acd7d",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\assets\\philosophy-paper-ii-socio-political-philosophy-10\\caste-gandhi-ambedkar-map.png": "272090907ba76053ba19f11ad20c7ded12878091dcd517103bb3ca202ac6ce05",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.md": "37de0d6bcbf49b7c62cfd7a7ffe3b90c688e62faea646afad3d6bbfb943f4b2a",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.md": "53264db74eea88b71c868f65d872ef64650f813b94f9c76086e47e0d37be760a",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-g5-2026-09-03.json": "a3cab9a7b6482245fab5d9adf7d57162759e90f070908656a5c9961b14413493",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-10-g5.json": "589159a7f6fecbfb2114b7fbe277d27a05eaab33e63d7deeafdb4cece44bd0d1",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-10-g5.json": "dec8433ccc25e0ea9306c7e7e5432d06ff0208d9025063b2c6e0d02ebe3b65f9"
+    }
+  },
+  "pdf_validation": {
+    "main": {
+      "pages": 64,
+      "bookmarks": 37,
+      "replacement_glyphs": 0,
+      "blank_pages": []
+    },
+    "workbook": {
+      "pages": 22,
+      "bookmarks": 7,
+      "replacement_glyphs": 0,
+      "blank_pages": []
+    },
+    "main_layout": {
+      "page_count": 64,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 22,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "master_flow_validation": {
+    "ascii_panel_count": 12,
+    "embedded_spec_equality": "passed",
+    "standalone_spec_equality": "passed",
+    "ascii_pdf": {
+      "passed": true,
+      "errors": [],
+      "text_panel_count": 12,
+      "pdf_panel_count": 12,
+      "pdf_page_count": 12,
+      "normalized_equal": true,
+      "blank_pages": [],
+      "replacement_glyph_pages": [],
+      "clipped_pages": [],
+      "page_metrics": [
+        {
+          "page": 1,
+          "line_count": 7,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 2,
+          "line_count": 6,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 3,
+          "line_count": 7,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 4,
+          "line_count": 6,
+          "maximum_line_characters": 72,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 5,
+          "line_count": 6,
+          "maximum_line_characters": 78,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 6,
+          "line_count": 5,
+          "maximum_line_characters": 62,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 7,
+          "line_count": 5,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 8,
+          "line_count": 7,
+          "maximum_line_characters": 70,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 9,
+          "line_count": 8,
+          "maximum_line_characters": 72,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 10,
+          "line_count": 6,
+          "maximum_line_characters": 83,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 11,
+          "line_count": 6,
+          "maximum_line_characters": 91,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 12,
+          "line_count": 7,
+          "maximum_line_characters": 76,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        }
+      ],
+      "minimum_font_size_points": 10.5,
+      "header_body_collision_check": "passed"
+    },
+    "graphical_metadata": {
+      "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5",
+      "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\master.png",
+      "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\poster.pdf",
+      "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\tiled.pdf",
+      "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\editable",
+      "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-10-g5.json",
+      "graphical_spec_sha256": "dec8433ccc25e0ea9306c7e7e5432d06ff0208d9025063b2c6e0d02ebe3b65f9",
+      "renderer": {
+        "name": "carvaka-continuous-at-a-glance-graphical-v2",
+        "version": "2.0"
+      },
+      "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+      "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+      "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews",
+      "contact_sheets": [
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\contact-sheet-01.png"
+      ],
+      "master_overview": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\previews\\master-overview.png",
+      "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\validation-report.txt",
+      "build_audit": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\build-audit.json",
+      "preservation_hashes": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\preservation-hashes.json",
+      "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.txt",
+      "ascii_master_preserved": true,
+      "core_stage_count": 12,
+      "card_count": 13,
+      "tiled_page_count": 4,
+      "approval": false,
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-g5-2026-09-03.json",
+      "ascii_master_spec_sha256": "a3cab9a7b6482245fab5d9adf7d57162759e90f070908656a5c9961b14413493",
+      "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.pdf",
+      "ascii_master_source": "manual-authored-caste-gandhi-ambedkar-twelve-panel-spec"
+    },
+    "graphical_validation_errors": []
+  },
+  "rendered_visual_inspection": {
+    "state": "generated and inspected",
+    "contact_sheets": [
+      {
+        "label": "main",
+        "sheet": 1,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-01.png"
+      },
+      {
+        "label": "main",
+        "sheet": 2,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-02.png"
+      },
+      {
+        "label": "main",
+        "sheet": 3,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-03.png"
+      },
+      {
+        "label": "main",
+        "sheet": 4,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-04.png"
+      },
+      {
+        "label": "main",
+        "sheet": 5,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-05.png"
+      },
+      {
+        "label": "main",
+        "sheet": 6,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-06.png"
+      },
+      {
+        "label": "main",
+        "sheet": 7,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-07.png"
+      },
+      {
+        "label": "main",
+        "sheet": 8,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-08.png"
+      },
+      {
+        "label": "main",
+        "sheet": 9,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-09.png"
+      },
+      {
+        "label": "main",
+        "sheet": 10,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-10.png"
+      },
+      {
+        "label": "main",
+        "sheet": 11,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+        "pages": [
+          61,
+          62,
+          63,
+          64
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\main-contact-11.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 1,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-01.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 2,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-02.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 3,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-03.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 4,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+        "pages": [
+          19,
+          20,
+          21,
+          22
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\workbook-contact-04.png"
+      },
+      {
+        "label": "ascii",
+        "sheet": 1,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\ascii-contact-01.png"
+      },
+      {
+        "label": "ascii",
+        "sheet": 2,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\ascii-master.pdf",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\ascii-contact-02.png"
+      },
+      {
+        "label": "graphical",
+        "sheet": 1,
+        "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g5\\tiled.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g5\\validation\\rendered-inspection\\graphical-contact-01.png"
+      }
+    ],
+    "graphical_tiled_pages": [
+      {
+        "page": 1,
+        "y_start": 0,
+        "y_end": 3234,
+        "height": 3234,
+        "overlap_px": 0,
+        "from_stage": "00",
+        "continues_stage": "02",
+        "crop_sha256": "9a6387ab7c7aa8001953d059e7039d2a738d2a74b5d07682213b0088aec76d16"
+      },
+      {
+        "page": 2,
+        "y_start": 2757,
+        "y_end": 5991,
+        "height": 3234,
+        "overlap_px": 477,
+        "from_stage": "02",
+        "continues_stage": "06",
+        "crop_sha256": "1c32d87f32eb9fcaca4108192092abadf313f3e399eabeda8254b0e27f22eb70"
+      },
+      {
+        "page": 3,
+        "y_start": 5515,
+        "y_end": 8749,
+        "height": 3234,
+        "overlap_px": 476,
+        "from_stage": "05",
+        "continues_stage": "09",
+        "crop_sha256": "3c37f9fff1089ffa313ff56ee8f31e389448a329e6edff0560ca8347b717940d"
+      },
+      {
+        "page": 4,
+        "y_start": 8272,
+        "y_end": 11506,
+        "height": 3234,
+        "overlap_px": 477,
+        "from_stage": "09",
+        "continues_stage": "E",
+        "crop_sha256": "c4429c93f6a0fc4d363e04e97f410947c64d2cd46260378ed799595a508204ea"
+      }
+    ]
+  },
+  "publication": {
+    "requested": true,
+    "commands": [
+      {
+        "description": "Finalize learner-v2 topic",
+        "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\finalize_v2_topic.py --repository-root C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent --manifest C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy.json --record-file C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g5-2026-09-03-record.json",
+        "returncode": 0,
+        "output_tail": [
+          "Index saved: C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\EXPORT-PDF-COMMAND-INDEX.md",
+          "Commands: 516",
+          "Finalized philosophy-paper-ii-socio-political-philosophy-10 / learner-v2 / g5; approval was preserved exactly as supplied."
+        ]
+      },
+      {
+        "description": "Refresh topic catalogue and V2 command guide",
+        "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\generate_v2_topic_command_catalog.py --repository-root C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent --guide",
+        "returncode": 0,
+        "output_tail": [
+          "catalogue: upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+          "{\"ambiguous_or_unresolved_entries\": 0, \"duplicate_commands\": 0, \"duplicate_topic_keys\": 0, \"sections\": 27, \"source_ready_topics\": 516, \"subjects\": 23, \"topics\": 516}",
+          "command_guide: V2-SUBJECT-SECTION-COMMAND-INDEX.md"
+        ]
+      },
+      {
+        "description": "Refresh Philosophy and master learning-session indexes",
+        "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\generate_learning_session_command_indexes.py",
+        "returncode": 0,
+        "output_tail": [
+          "Generated 23 subject indexes and one master index."
+        ]
+      }
+    ],
+    "state_verification": {
+      "manifest_topic_count": 10,
+      "topic_number": 10,
+      "topic_state": "generated",
+      "approval": "pending explicit topic approval",
+      "validation": "passed",
+      "earlier_states": [
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated"
+      ],
+      "later_states": [],
+      "catalog_consistent": true,
+      "command_index_consistent": true
+    }
+  },
+  "changed_files_manifest": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g5-2026-09-03-changed-files.txt"
+}

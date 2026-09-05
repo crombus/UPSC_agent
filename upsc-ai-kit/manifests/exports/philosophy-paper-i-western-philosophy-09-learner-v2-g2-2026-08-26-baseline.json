@@ -1,0 +1,2588 @@
+{
+  "schema_version": 1,
+  "snapshot_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-09",
+  "canonical_sequence_number": 9,
+  "planned_generation": 2,
+  "approval": false,
+  "tracker_resolution": "Latest existing generation is legacy-v1 g1; resolved next learner-v2 generation is g2.",
+  "existing_records": [
+    "philosophy-paper-i-western-philosophy-09:legacy-v1:g1"
+  ],
+  "target_absence": {
+    "knowledge_g2": true,
+    "notes_g2": true,
+    "flow_g2": true
+  },
+  "shared_file_hashes": {
+    "EXPORT-PDF-STATUS.json": "9682577ab1cd67d9f17a8d74817afc1ee435e708936c508cb20e3fccff11066a",
+    "EXPORT-PDF-COMMAND-INDEX.md": "9ab3b130e0f38dafa2d13f631b10ac7e155ba74ee50b792cf56a1edf185cd32c",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "d97de162f56ff8a5aac1eb0e04c49f14bbddf1bc6eff244d15ca352678de849d",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy.json": "6555963829255fa152583b75387d3fe179d31323d6efafac4e3c68c7cc052361"
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md": "cc4eb4c890b5c9c3082acbce1c80a6c190e888e86af6fa6b0a4e4d38bc346dd5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Complete-Learning-Session_2026-08-19.md": "3f5c6c081569854beeb335976549e4339005113aa19b14ff08b76ea0a97e7b50",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Solved-Practice-Workbook_2026-08-19.md": "35fbb049e67923d5e61fbc5e443f3ac417741a96b6307aca5986cf7cd32ab662",
+    "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882",
+    "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417",
+    "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4",
+    "books\\philosphy_books\\Think. A Compelling Introduction To Philosophy.pdf": "dfa71260407f89902fc7b64d24b44e397f47e584225bc0757586ad3fe903142e"
+  },
+  "ocr_audit": {
+    "2016_Masih_A_critical_history_of_western_philosophy.pdf": {
+      "path": "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf",
+      "pages": 6,
+      "text_pages": 6,
+      "hits": {},
+      "sha256": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882"
+    },
+    "Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+      "pages": 1032,
+      "text_pages": 1032,
+      "hits": {
+        "Husserl": [
+          21,
+          42,
+          43,
+          58,
+          67,
+          92,
+          126,
+          131
+        ],
+        "phenomenology": [
+          15,
+          98,
+          101,
+          123,
+          131,
+          133,
+          134,
+          154
+        ],
+        "epoch": [
+          75,
+          223,
+          236,
+          311,
+          402,
+          406,
+          411,
+          438
+        ],
+        "psychologism": [
+          42,
+          112,
+          134,
+          361,
+          437,
+          628,
+          630,
+          699
+        ],
+        "noesis": [
+          273,
+          438,
+          439,
+          650,
+          651
+        ],
+        "noema": [
+          58,
+          148,
+          438,
+          439,
+          650,
+          750,
+          913
+        ],
+        "essence": [
+          35,
+          38,
+          39,
+          42,
+          48,
+          70,
+          71,
+          75
+        ]
+      },
+      "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417"
+    },
+    "a_new_history_of_western_philosophy_volume_4.pdf": {
+      "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+      "pages": 364,
+      "text_pages": 364,
+      "hits": {
+        "Husserl": [
+          10,
+          11,
+          55,
+          95,
+          96,
+          97,
+          98,
+          99
+        ],
+        "phenomenology": [
+          10,
+          95,
+          98,
+          99,
+          100,
+          103,
+          340,
+          350
+        ],
+        "epoch": [
+          11,
+          98,
+          100,
+          132,
+          179,
+          180,
+          297,
+          299
+        ],
+        "psychologism": [
+          96,
+          98,
+          362
+        ],
+        "noesis": [
+          228
+        ],
+        "noema": [
+          227,
+          228,
+          361
+        ],
+        "essence": [
+          24,
+          37,
+          65,
+          74,
+          80,
+          97,
+          103,
+          106
+        ]
+      },
+      "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4"
+    },
+    "Think. A Compelling Introduction To Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Think. A Compelling Introduction To Philosophy.pdf",
+      "pages": 680,
+      "text_pages": 680,
+      "hits": {
+        "essence": [
+          239,
+          275,
+          276,
+          303,
+          313,
+          371
+        ]
+      },
+      "sha256": "dfa71260407f89902fc7b64d24b44e397f47e584225bc0757586ad3fe903142e"
+    }
+  },
+  "out_of_scope_tree_fingerprints": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01": {
+      "file_count": 3,
+      "total_bytes": 395427,
+      "aggregate_sha256": "fada09ff505a157520e1f62c1a2bd031f784a910989e0b85995122e04aae4e45",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\assets\\Plato-Aristotle-Ontology-Bridge.png",
+          "bytes": 121922,
+          "sha256": "e356eb78c3565427ce100a44936128079c76cf91aa32d308940131b6556058bd"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 210260,
+          "sha256": "339226f95a981a4ddc95b47a689779dd0033483ff8c006062a10f5be5e0ca91c"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 63245,
+          "sha256": "1681e0526f2e1f74eeeb720789fd63f27a3f34c8a3194267b9d1f8580a2b4574"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01": {
+      "file_count": 4,
+      "total_bytes": 1000768,
+      "aggregate_sha256": "e0b338836c90b54685462b24689f1202813eb9a83a52f0ad841f7396cdbf7040",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 545259,
+          "sha256": "377de17b26e2c47a0c98874baae110e8a2fe8019954890a130751c1277ebf647"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 349502,
+          "sha256": "43d10f3d972348151683220c0a62b253c0f906f46e23439594ad1cfaea75084f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 95435,
+          "sha256": "6b156b453dca76049aa4cf8219793fb79d0f71a92df19dc2f09ec7f7d4ba9e6e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 10572,
+          "sha256": "a96f9b8b2689f15aebf99ba28f92364553627dd1a7165a867923c9b116e7dda0"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01": {
+      "file_count": 17,
+      "total_bytes": 13566465,
+      "aggregate_sha256": "e82b8ae49e2ba8492ea9209243597e47d04bd185600f214372a28913eaaed5f6",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 56464,
+          "sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\ascii-master.txt",
+          "bytes": 7568,
+          "sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\build-audit.json",
+          "bytes": 7724,
+          "sha256": "a9e40b8fcb642dcb207993403272d7a476eed753d942533b921fb696143d1dc3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 36049,
+          "sha256": "4a053a51910e91a81ae6e0b2043b742721fd4d206603015241d978c972081b18"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\master.png",
+          "bytes": 1927772,
+          "sha256": "14be0a798da33bc1b39b2312ca3feb036f7d1c4e70351c4ec665e66eba98791d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\poster.pdf",
+          "bytes": 2199795,
+          "sha256": "74ffc55e9934f3b11e0b2f882269099dfc61af589a8f9f793c8eec5ce2f86d8c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6142,
+          "sha256": "65fd2bb6073a7d4124dfce2731877f1e107fe28162b0e4a57487253dea1b644f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 2853154,
+          "sha256": "cc4f7c6ec7611dd4b711374b912f3ea4e2f536104a5f5756705568f562b0bb59"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1356979,
+          "sha256": "7cbbb0c8517ffe0d638e4cbecd2700e0337a198b27222b1e89fb3a2b488f54ad"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 581881,
+          "sha256": "88b96677dddc4b2d097968d809d20b17651d25e4b94df647f58e70462cddeb0d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 627583,
+          "sha256": "5d81acb60799c0edfb034666d9b1a855bec8d2d0444c67ad364315b7dfae45f5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 648354,
+          "sha256": "90fdb06873f859924af55c4fa15521535d14ed4a664a02ffc9b546453eb3b2a8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 615764,
+          "sha256": "a52e2bea016f5bcb538be8b5171320834bd717ab40b1b3f297da8d884612fed8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\README.txt",
+          "bytes": 1447,
+          "sha256": "09d0e881e0320cf0923fb27b24197c36d49bb3222745cc27eab248e4bf15a83e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\tiled.pdf",
+          "bytes": 2638257,
+          "sha256": "6a7da060d786450c00ca5a4671d74f759391f558e546a17e926afe6e28b536ed"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\validation-report.txt",
+          "bytes": 1323,
+          "sha256": "daab35229bee01bc9b8a6ea7a5c1af1ca886629a80a81816ef56b5c816f605a7"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02": {
+      "file_count": 3,
+      "total_bytes": 412709,
+      "aggregate_sha256": "45897b190fc658f2465f567f5a0138646cb06bf768b95e799672947ae6e23345",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\assets\\Rationalism-Problem-Sequence.png",
+          "bytes": 133479,
+          "sha256": "ba261987fb11b5c03521f731fedb6a898ac48ca72347ef4d11776e12100eb53a"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 215852,
+          "sha256": "f7e8b7882f7fa4b1f8f4c3552f116299c58a25b0920f7494680f466f9a8916c8"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 63378,
+          "sha256": "f3127f88f5dea90048a7c50a5d6d61fcd06c2b047a7cb9757a1aaa33652ecd78"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02": {
+      "file_count": 23,
+      "total_bytes": 27788907,
+      "aggregate_sha256": "b98018e1b76b23da8c7424878929a319b0cd7d5a70b370cc82eb4f7b0256b5ea",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 566451,
+          "sha256": "fca03f45beeebffc98f5a64941d22afca3bd1e0d5e1e1313ed4fbe1daf102916"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 366668,
+          "sha256": "f3aab6be490891e7158296423ac273c5931e5b37dde815d3792012cbb47e867b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 88658,
+          "sha256": "44542f72ff34cccc19e203bebe80d74079c21b1e52824fd4dc77bdfe34420e98"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 390586,
+          "sha256": "4060ce178ae6798fd402b52fc7278bee4f4591b792ae2485092d5b9efff5a957"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 364670,
+          "sha256": "4610865d2ae3a7276204226d178ef477f9eb553176c64624916dce3704941faf"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 222849,
+          "sha256": "08ef07426e572f21577c98182a888451ff5303d0f0122d550416ea48afc3cbda"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 3939,
+          "sha256": "99da3908f62a3c5a9752caeae0026de50ecf6626154ca4aa81dfeee7e27bcd1d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1562006,
+          "sha256": "44014cd047627f30282ede301837fade9f43983ae520bce9e0edd29534891fd3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1593928,
+          "sha256": "142bb62873b6f3002c5d296f840f6c841c7ae4dbe925fe7252d8a1b6ba60f239"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 2048323,
+          "sha256": "39cf76a355afc3a56c90093f9fc65a2458bbcc66a3af06e7632dd031463ce0c9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 2007507,
+          "sha256": "9765511ea2b839d7a585ae3b659ca72e54e2820cc66e94d19d6129c27a0fd12b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1830190,
+          "sha256": "a7862eaf214a1c019800f5733b32091ca9019d7df845e8e397e08fa315a7197a"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1735944,
+          "sha256": "4fcecb0aa2fabe966174d1c29bdf9d155363e0908c165cdd25d6651bd0bfa69d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 1839203,
+          "sha256": "282284dde53109b9951f751b0899ae877f16247c8595bb0ecad000a27a7b6954"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1650472,
+          "sha256": "a694813481dc433c624278440c6414b7a1971dc9b1f5763186c8fb1ef2d86130"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 2180530,
+          "sha256": "db7c42b03416e223d895f1f9c989f496f11cc4ff7b70f2826d4d89d275e852bc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 2022451,
+          "sha256": "83327ad8a7149b33491c70967e5711243ee354c8117515cebb80f6d611a5e048"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 2423547,
+          "sha256": "0a2876b400e2b0269880edbb2107d8c8647412ceb8fcef203a2af0e8d7634b97"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 1615669,
+          "sha256": "12cddf64fec9c28df6b57969728962438fe42af90c62db90acbf7b385b38e104"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 698084,
+          "sha256": "6857638c39b9636830585d8995a20729ac3e179382e866e9936f208781bcbe91"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 2127041,
+          "sha256": "74f4461dc2089b1b8fc2db2da98008e535b91deeda6d8cdd7d859f8cde64060c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 445255,
+          "sha256": "6b64f35aa351c62f9d0f153aa61a2b851b7c9912d6deb7f0b51110f0ef3536d5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 4936,
+          "sha256": "54785255d02056341928ff90344fa591e847157334e42a7fba55267ab16a7dbd"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02": {
+      "file_count": 17,
+      "total_bytes": 14127731,
+      "aggregate_sha256": "fb3ed1d595a621b3be472b2452fb9184117144ce2f358f68f4114ed54b66135c",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57030,
+          "sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\ascii-master.txt",
+          "bytes": 7284,
+          "sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\build-audit.json",
+          "bytes": 7741,
+          "sha256": "e6dd4f76e63a683b2c0ed19f8da78ee881d1df1d14061ca4f96569f2fdeadffc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 36969,
+          "sha256": "d22e51d64885ef7d6a913bdcff40495090405f90d645f6ea530991ed9814b1ff"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\master.png",
+          "bytes": 2073264,
+          "sha256": "aaf4b816834ed75f42bb624183d63f46a6380d60a67b1d259fd8a42439b6f420"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\poster.pdf",
+          "bytes": 2341659,
+          "sha256": "82e5a438c91fcec375934b505e5b424cf06073a768546e4f8f32a1749be82e00"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6102,
+          "sha256": "1eef21a773b1c65c722f48ac6c2afc70aa4b1d654e5e32ed7ddd47b588a4ef01"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 2933309,
+          "sha256": "d7de14999d5c7dad420beaa916f17389f52dffb00e69f39087d83f1129e8cb65"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1454590,
+          "sha256": "d9305623ec6764f273945092d164cc079565f8c79a36dbcca0b403cf38ba982e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 655954,
+          "sha256": "e02b5bf8525fe3fb2d6a69b123902bf390064a639ec471a4c78eb438b28a17e1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 648057,
+          "sha256": "0b27c0842ac1d42fffeb00b7f912cd057b9941037830657626f1832f0485d5fc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 626268,
+          "sha256": "2085bf59525b09d757143c36def8ed94c6d799226a5dbc2bc4a6961bd4c34af4"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 599735,
+          "sha256": "1e97e6a951c0a8b1f06d67fee034a6bef6f2200ee448716183e8e7ee0b507652"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\README.txt",
+          "bytes": 1442,
+          "sha256": "365078e41928ac81084d02b5796d15f6fceca9a3fbd6d9ba91d22c6784f293cc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\tiled.pdf",
+          "bytes": 2676803,
+          "sha256": "1c686f04a9134b8fd751c4fff63c261d1b1111b428ede2de7db00773caa62f6b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\validation-report.txt",
+          "bytes": 1315,
+          "sha256": "c93bda02940da0618727d770fc962dc732c8e6f973a6d6989bd72168b97760f6"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03": {
+      "file_count": 3,
+      "total_bytes": 412475,
+      "aggregate_sha256": "bffa39a5871b866d0d6a9f6cc397dd83e86743af58299e90c8805fcb2b152c2d",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\assets\\Empiricism-Pressure-Sequence.png",
+          "bytes": 133338,
+          "sha256": "3ba7d48064227d8d083606b7d32492da79840525e94b3e7ffe31997a0ece1588"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 211400,
+          "sha256": "ccaa72c437fbe2d1cf5d8a23c55a29ef8c12219b44ef270db0f45d81da458b07"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 67737,
+          "sha256": "6da6ceb0ef59301f3630d0ac650e464517a21ed56f5ce47778d31b41d4425f59"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03": {
+      "file_count": 27,
+      "total_bytes": 27476790,
+      "aggregate_sha256": "bd23e30f7c7381d90130d30b5920a5015a24f143971df3b2aba9d30d2997108b",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 537064,
+          "sha256": "76c6ac219725a34940c2f328eafe68a6d6b2569bcbc8f50533aaed22b55fadb0"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 355497,
+          "sha256": "05851e178308ca329f0200fdfdcb7dfbeb46f316f3872d60a39071755576d198"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 74849,
+          "sha256": "18aa40c8e799a28ad26748a37304cc2e75955caf46a18b9b1eebdc7937594b60"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 239850,
+          "sha256": "47506234d97891fd3a23d6a276c321b746401beec4e49c4648649ed33f2e7797"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 256419,
+          "sha256": "ca5964b57f3f7320f95ec2146d43e17284774814dc6ca4fe9fae34c5ef7e160e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 258346,
+          "sha256": "b6ea596d45212074f90b379ce3b74b96273f57c7947f2814cf1e75b7a9f5639d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-04.png",
+          "bytes": 159993,
+          "sha256": "130bfdb2b1cee0be1bcd5653e5a568db4fc84ebc1567f5b3caf8339d819069ed"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 2173121,
+          "sha256": "17f048322b0156a967422c53187123e9a15eceac095d0186daa7312a4d152186"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\graphical-contact-02.png",
+          "bytes": 2145513,
+          "sha256": "405d9d0fe6ad931c2da7d640c97287f50dc2979d0345175a407e6a52cbb1a00c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 5113,
+          "sha256": "c2f1552b9b07a200350f027d8ce68f19417f36db5846afe578e8bf2cd05ce570"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1248293,
+          "sha256": "6f775826d269ab798b4f297fb9a0d29c74de5b55fb0e618777fb181750945d1c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1149376,
+          "sha256": "d86f426c0ee7fb5b47a7675151995076d195e9648f19b9632bb96eaba4dc3f5d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 1208630,
+          "sha256": "92425b18c3fde42290dac43ded5d278163a1ff862a6b03a0baaedf27d6c10159"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 1585566,
+          "sha256": "309f65d7a3a72925ca3d5bddbabe7c8f72ea0ae852d8c3c4881d91e4c399da21"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1194477,
+          "sha256": "9394f515fba24240f75ab3284bc7b9c650aa035c75ae12e9bf79168474629b95"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1277589,
+          "sha256": "154a5748da83edb97be60822b8bcd4c1f2de881a9051bb3bee87b1aeaffc6a78"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 1451975,
+          "sha256": "533ca00c15c93aba11f91f8979d9baca24a0b51d87134ba762b4996bedcc46cc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1369051,
+          "sha256": "194bad15adfb8fb876f86aae7de3b5022a48834ec3fc7a55b481fcfeba060bf2"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 1432083,
+          "sha256": "2595dd86341185614608b0527ff59cccff0245caaf8c42ebf6abcb5545ebb2d4"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 1365504,
+          "sha256": "615d3a2f117a27b7dd601ff57b8559f35335db85ba00e3229bf3f31371ff46bb"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 1394182,
+          "sha256": "18e183941a4c44969bd061b1f1af0ead0dcb5ac3b8afd9d1a8ddca11dbd96f4d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 1618756,
+          "sha256": "4e5f9f94298e307a0676c99e6a5981c1ab5a0f8896502e0ffd6d63034606aebd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 1785362,
+          "sha256": "6720d7c798e8bba1149f131516e1095ed1ff1ea19c97472d06e829ff69c23231"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1264901,
+          "sha256": "ab09bfad46f6b579799222ca23868e5ffd3f14aa123ec6b13786e5842bfe3288"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-15.png",
+          "bytes": 248988,
+          "sha256": "4c189348507435b9a1b945ba4c169e58b34703518f1d4f1e349bceb39f4e7cf1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 1672635,
+          "sha256": "593837c7be20ae28d4fb6078886872b0fe9d7fabfe08b20e054f4dcfc2204e32"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 3657,
+          "sha256": "6aa52e9220b5a76131e738384dbc05bcfe5c16304f0e17b10f6f3e9278275256"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03": {
+      "file_count": 17,
+      "total_bytes": 14587719,
+      "aggregate_sha256": "29ee208977edccaa7df4d8e0dcbb99b20fba17e964f41a39ca2addfb8e148c2f",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 56387,
+          "sha256": "aa9c39a9651639ad71a78bfb15edff73d8a883bcbd8da06f2c0acb1431f99926"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\ascii-master.txt",
+          "bytes": 6868,
+          "sha256": "ad21be42d0bbbbae98ee57400f4810a50ebffef1c911d3533e45868ce00e7fbe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\build-audit.json",
+          "bytes": 7741,
+          "sha256": "45e4538818f2e92ea1fd570ba454ef6135c858866c223ae25962733c8b005590"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 38518,
+          "sha256": "22abdcb0f1eb91c083ba3a043013eafae34df0029b1395f5af718092c855a7a1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\master.png",
+          "bytes": 2071996,
+          "sha256": "ef472f4abc5b3c61f2ed56ca5ed007f9c53e7e972cac43853070259e8f8e79f5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\poster.pdf",
+          "bytes": 2341358,
+          "sha256": "cc66dcaea66d0936ecb8841679610374fe81d816c91912b27768692990399a18"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6092,
+          "sha256": "edf145a774761eff577359469cdde6448a6ff5e0085c59c5b3fa9ee00502c65b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3097950,
+          "sha256": "9ab986a4caa21a9361c6ba347a5bfd519e280cda25132b2fa8a76836444d81d8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1485275,
+          "sha256": "05e042be86f21fc3262d0b0207d2b329fce32cf590054ae81f2dc419803a633e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 639340,
+          "sha256": "fc977f1084de167df2f334351f5a29c528cd61c6c481bf037467bcb14035803f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 703638,
+          "sha256": "d4abcfc42958bd8e93980a02299725962980387c8ea610c8f95ae2fe51dc7f27"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 649885,
+          "sha256": "a5357f2fd0a0ea25e8cd78116cbbbd43a0dfe94a645ded0c5e219353450fb621"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 666667,
+          "sha256": "4bf5342a0109fd164f20479732442d5a26f1271ded1a3929fe9b92cc8bd3c21f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\README.txt",
+          "bytes": 1441,
+          "sha256": "022077921a27f78b6dfb9dc02cf5518b60aaf3fdf7c88ee1be9963c5078ae24c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\tiled.pdf",
+          "bytes": 2813039,
+          "sha256": "814327908b236e3e4f0b588ad6ecbd73d619367bea0601a7e46a501b8a011eb1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\validation-report.txt",
+          "bytes": 1315,
+          "sha256": "b452b64225e43236023ed333284da2dfbd2e691681fd4db87938d8b13f722121"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04": {
+      "file_count": 3,
+      "total_bytes": 429905,
+      "aggregate_sha256": "485ebeb23c2b3b43bd679ae08046eb1ae38b4ebed0059c136fc08647b8906427",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\assets\\Kant-Critical-Architecture.png",
+          "bytes": 103680,
+          "sha256": "e6a16d02a185fb3a3c0b87b0ed4f1c7461970454008cbe716d44aca4cda0efaf"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 240215,
+          "sha256": "e971952dc557414a10210d4d26489eff0f5a275e997e663098bd4a41deba9139"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 86010,
+          "sha256": "10629ecbc6183a6a03d26db6da32c0d59d7743ac5974c245466a07cfd4a633df"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04": {
+      "file_count": 4,
+      "total_bytes": 1002461,
+      "aggregate_sha256": "fab01654d4a1fff68e4f3a43a4b1e5f01fab999f3d58440ab717d8e28e3ee24b",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 540153,
+          "sha256": "49461e78e96358c495b4c23d114bc46adf3e85dbf5370a8816edeaf91fd927ea"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 343119,
+          "sha256": "bde12e40f8402fb5f7a638b7bb3f7057763c2e9d5d2c8679df1e5af32d6d94dd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 105913,
+          "sha256": "dcdc5c894a0cad2f1be9c81e23fb3a5c072bac03c145eb69485d66d209b135d8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 13276,
+          "sha256": "706ce7330bfdb63edf4f2581d783e67ed2048759e1b3ecb6f0c816a665297b99"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04": {
+      "file_count": 17,
+      "total_bytes": 15344330,
+      "aggregate_sha256": "f477b9f253a8de2ec8597fa55f1e810684e0c36c49fa969c3d6f744b3ac4f8b2",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57512,
+          "sha256": "733c1845c0ff934d01549853404f0e63d3f0e771ee2d21d1f75ed3217f1e3a05"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\ascii-master.txt",
+          "bytes": 8960,
+          "sha256": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\build-audit.json",
+          "bytes": 7706,
+          "sha256": "30e1821025e6a6ba8fb36a6ca4c0d0ab44a817ea9b2c66301122174b79d3ef45"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 42395,
+          "sha256": "b0908e96da89502ac806c09aea532afbcb9d36b6f55522af5ce07042daea07ae"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\master.png",
+          "bytes": 2250836,
+          "sha256": "668136e227f6f2e8a11be88f5ee088638f41d01525cb4bd09cec4c987d484256"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\poster.pdf",
+          "bytes": 2545959,
+          "sha256": "39447c5ce3a978b5720626e298cf924d8af4c629ac8d2967fe33dff204ee6377"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6032,
+          "sha256": "16e27913c414e2ec44d0121986f527940d3992f3e6d4aa6c92cd4b96d7578896"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3209204,
+          "sha256": "9bd207bfa36aa38d9e7ac5eab75345a1e93d82937dc0a790e6ffeee6f25af519"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1611020,
+          "sha256": "3e565a90a9ab9000a455250508bf0790e7452238d20782043444a1c0fdbf0801"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 703448,
+          "sha256": "348664d68766b8af2cf9ee5d1811618c85d9a9fccb440c4ee256fad06e15d0ee"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 665871,
+          "sha256": "620a81679026556189f0b2a7adfad47e2d4b078c2739ff45ea6e9a7bf4028c79"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 707458,
+          "sha256": "b7b2837a6e8e76d6f1578926db7d0f34dfe74dba244694aff15a17e762e8fb2f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 659843,
+          "sha256": "aedb957bfa260acbfb4030567a71a59916f2ae01f4968f499c24f7f222f65747"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\README.txt",
+          "bytes": 1435,
+          "sha256": "4923638eef1cd8f9373b4964392f0e16dd6f885b4a7ffbf904f9fd636840df39"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\tiled.pdf",
+          "bytes": 2865130,
+          "sha256": "3279315cec986342a9e443696e5a0c52acabd29e2bc5adb74cbe3f9f7cb70b13"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\validation-report.txt",
+          "bytes": 1312,
+          "sha256": "c56ab3d4645911b723162541c132e7fcefdba112929efd2123f2d804918e4ab1"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05": {
+      "file_count": 3,
+      "total_bytes": 433617,
+      "aggregate_sha256": "887f8a7c105a52599c426e5ffb576423ab998aabed66e157e300b282ad4ec187",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\assets\\Hegel-Dialectical-System.png",
+          "bytes": 101865,
+          "sha256": "b795d9e5377fb18257f7d01752500c337ce9105f3b7392ba5238c9a46e54b66d"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 243028,
+          "sha256": "6cc017b15f95ff091f8b60f600ab18eaeb982176e7a7bcc46b00f1242de41108"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 88724,
+          "sha256": "341da900781ef29a3cbe9dc3372f387f1664eb4585ab7ca04528689c9facb57f"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05": {
+      "file_count": 26,
+      "total_bytes": 45685658,
+      "aggregate_sha256": "2039c9b0fea9ae25845f0367fddedc71413146c12d402d31bf1ce5d660e792ba",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 542378,
+          "sha256": "786028b3a4e819b15c4b00d0aabcbec74391e22c374297880a4d068dc016301c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 348905,
+          "sha256": "0ce11d0dafc3608ff5e7045af3072cd19020fca0e70e89e316a807ce8ac048dc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 95824,
+          "sha256": "58c7d6c819a95c4031938421a0b740e767e7b3ef23f9c20b66512a3a0a2074a8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 651956,
+          "sha256": "68ad87384aebd90a15a8a798f991fef5805206c7da813d1f8ecb2e5f4727b2e8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 660292,
+          "sha256": "0366b45ad9a14164fa08e23669dd05fee99b3271bab960ed0fd3577a00317f34"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 363226,
+          "sha256": "5ed2ec7f2240251e769b2a3a3750ab05421a24cfdb8decc17794b2941c04ec43"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 1729005,
+          "sha256": "71aca16377820828574d241e279c727d6d49dd17fa15c4f91d129e70e384edf3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 5154,
+          "sha256": "bbdbb7b3a1a070803d33aed47bef88ca7177eb863f41f6286479d9cf618f8541"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 2036007,
+          "sha256": "d333cfd01ca8afc6f2ca2b2b1ac94291fea22adfa4be61765f8e3b81bc1e4fdc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 2145071,
+          "sha256": "f3608326a2856d0ceae1023a0b23ddf971dcd50fc145255e41d30d18f91fdf9c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 2324391,
+          "sha256": "2121e374067ef8509f188e609f2009d8af572cfc92b5d4359912d37e4baaf963"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 2247186,
+          "sha256": "378ed77ff29cf44d10463bbb8c71073019f8e8483bb5d48f6b76f710447b01cd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 2520854,
+          "sha256": "bc37c3c402cd7c90c94cb8df43b9f6995d6dbcb6e37ddf0468f2149d149457ee"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 2677311,
+          "sha256": "7ccf1534ebc3e97e56118e2dd227aee9035c3838b64ab52b19e59c761c6daf5d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 2663813,
+          "sha256": "aa01e4c4d218a5a7f91bf3c228d45e4f2e906bf19d237a1129f6d4e33d05e198"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 2139336,
+          "sha256": "f7eec1427f69a8d95ce12b8172fb2aaaf5fcd95c98b85c68bab4429496b59749"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 2685575,
+          "sha256": "129e662558a2b38bc979e4b3a6d4a2f2a303f95a745aab375d88a52e56884a4b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 2399754,
+          "sha256": "5f4329d6e31ea585a9e4ccbad5be16f47110bb2073ba42bd52ae1cf4c1f1788e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 2608775,
+          "sha256": "5fffdf9502eb8756d3145cbc5c894750779bf26095c919c6329a49e0b2eaf727"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 3440871,
+          "sha256": "56c3866e693d7feef427882b30a817336c3ef8c75f0d0f032f887c34a571bb3b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 2860076,
+          "sha256": "2b0071fc509edd552b011ece6d8e469e7c8dda572a0505abfb641aa2c232232e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1042826,
+          "sha256": "0b5d93f4335cd84ca32913e200a5035695621163d6753146e756c2fe77ff54fb"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 2436537,
+          "sha256": "078e1b78b32b0a3b5707afef27ba869494a480536468a75dfd358d829490f165"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 2546733,
+          "sha256": "8808b35458ea131a7808e19fe59aa5244dfcc7aa3a3d7fa60e9a678a29f3ef07"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\workbook-contact-03.png",
+          "bytes": 2500524,
+          "sha256": "c3cae698220d1bc795ad86bb304895ef3f9e2dee85c61a6e7eaec0026cb9634f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 13278,
+          "sha256": "cedf1db19ee7790f0f405de9befd15750002b81a453a20a1657e2798a676acf5"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05": {
+      "file_count": 17,
+      "total_bytes": 16061798,
+      "aggregate_sha256": "3c4f6fd2eb175bd98f74327cffd3a3b591a7425de87c6a14f524a513c382cb6d",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 58313,
+          "sha256": "a3aa90b8e67942eca7fbc61628f1cd583fc835cd0988cade66b57b12a36af150"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\ascii-master.txt",
+          "bytes": 9749,
+          "sha256": "e690e5c47f3adb5039a07b906016269d71a93e7b23ff8b4f21bc9c0adc1f61e9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\build-audit.json",
+          "bytes": 7719,
+          "sha256": "f4ad8473272217e6044d897ea60b51130e41b06378dfd9409525aed9c08f47fc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 43613,
+          "sha256": "7edbe1be8988a2e8f6a6ec0dd5ce56b5b4a9521c1c5cb5d19d37587396867cf9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\master.png",
+          "bytes": 2240798,
+          "sha256": "338cb855d6ebc4a8c825d6279cade13a4540b5d0ea7c53f426a538b12e6bbdf9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\poster.pdf",
+          "bytes": 2551053,
+          "sha256": "f610c3185fd840cfa4b933a3411490b68fb38d9a6f5f6c5ffb7495b725affb8d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6042,
+          "sha256": "07a6f3a616ceaac9b9cd7257b301c81f54308a9a9af0c0c0d508993ebc9ff9ae"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3473653,
+          "sha256": "2c61d36b8c05fd4ff9e8a24833bf3022e409f1187417e308c479ccf6783f4d3b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1677886,
+          "sha256": "9efb130fe9c1a5d83ced851d4d9bf98e75b9f4cb8a0538867acba8ab9ab6889b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 760134,
+          "sha256": "251d16661d22031dd510980a275ee6043b28a4e825cd418e7f6bdeaf5d184d70"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 763552,
+          "sha256": "d9d541521558a5a1bc9fceecc6bc9c498aa2ae857cf3057a6eb1c75502880da0"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 705506,
+          "sha256": "7070fbbc6802ec25c78bd7d2067525d8ff74bb2459321539c6f845c58a719cbd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 729796,
+          "sha256": "de2583cdf62bd6945232a8d52cd169a5ac2f9d9446c958fa0c29679e4d4c46fe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\README.txt",
+          "bytes": 1436,
+          "sha256": "b956bfae7c5341f9436f186c12fbc71500ee1a65c023fa1789e3d672fefe5704"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\tiled.pdf",
+          "bytes": 3031025,
+          "sha256": "169fb039e2b810fa09f74dae0adae2389fd3dc1205627fed1b53a969837006d6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\validation-report.txt",
+          "bytes": 1314,
+          "sha256": "b4f33edfa75bd36f22c7313851c1bb9baa5ac79141504d6404c987defca2b5c2"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06": {
+      "file_count": 3,
+      "total_bytes": 490060,
+      "aggregate_sha256": "e7d71cc6fa10a400d632cd959a9d095eef53b7c98877e5a0007073ad77d60583",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\assets\\Analytic-Turn-Trio-Overview.png",
+          "bytes": 108208,
+          "sha256": "9cd7d45ab60b69508f0a6b2a1fea2fae24f4845cdf426469044e91ff88132750"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\topic-06_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 266774,
+          "sha256": "6a5b26e930a2cb95d40e4d0d9cbf3646a8235fabcb54ecf2a8143bee09b7a1b4"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\topic-06_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 115078,
+          "sha256": "ff4e4fc92162c5c78dc1fd9fdedfb864a54970a65cc0b45cf90ed673524ffe91"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06": {
+      "file_count": 28,
+      "total_bytes": 26627756,
+      "aggregate_sha256": "65a1d3b8036bd86070cccdb0c246697364f489f55d7f553724a471100611e311",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\topic-06_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 575039,
+          "sha256": "23010ecba3c14aea014a184c7026d7d983549717aa58d9db54e5d9667891a948"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\topic-06_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 382016,
+          "sha256": "d9361f747cc2f5ad41aadf026bf9e1988dadf86976ef7480a2abdf64358f801f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 118092,
+          "sha256": "3a2ecf9c34f79b7c82cb8cb54c481d8ca96e34b5a59ce7097b612163e40938ea"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 321004,
+          "sha256": "b16c7adb463d5b6505432e0a7932dd58df6081f0f96e3097c5f8efc23000e109"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 314455,
+          "sha256": "8ce2f2bbb435b629080abdf5ccf2e517253e7d1ce8c37b91452486fefb5099bc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 185539,
+          "sha256": "378b2b5fa9a4420f25a40bb5d6ae9b8244d169f5349a04f6b27cb99bb7491878"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 2601319,
+          "sha256": "f4dfa80f4fa14a206d32fae42aa329c7b83b9da08a91221c574d962699557b64"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 11112,
+          "sha256": "f057cbb662bee0cbe86ab1a0951a737d968480d5175d5ec965a8f94f78c07a63"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1077225,
+          "sha256": "623293c93147c5825ac3634463d1b1356d70872bc814580e8b39aa23418de8cc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1166282,
+          "sha256": "f6257b14994727ec17b4437798f9263fa33961bea61891ed1a7cfbdb4f9ad8a9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 1116042,
+          "sha256": "a61872b7399fba7a1f52ab208895dc1802371f8b58d4fab5b7168b3a7d1741d9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 980191,
+          "sha256": "ff22a323d7e173119e905a20cee0f20d17c8313eac9fce9cf90d7f8007f81582"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1306683,
+          "sha256": "1848a422b390128437248719b0fbb84e09cd2258485e9d4c17683b5131bcee12"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1064287,
+          "sha256": "310588632fae1cce4fd94afd335aebe7a3e63ed276f6456de8876599ade94b75"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 984049,
+          "sha256": "1380674523524dfe22cfe139f462ff2e49549cdc71962daf5fa3a7e735c956c9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1327141,
+          "sha256": "d000cc5734bd48e018df5687320c79f68ed22b8f79d397eef5c9232703869a82"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 1292078,
+          "sha256": "38d0f234ac924ca92164f80299a6dbbb2710dbc488126f622e71c17d8aab825c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 1237620,
+          "sha256": "07012e6aec7b855717f8ff857117e919affc29467baffcb3f8b7f7e0bc931434"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 1234570,
+          "sha256": "5cc1a4e0a3d9a7baf03e4dbe4a3e58baa2b9b025b788e914fad73e3feace89ed"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 1506343,
+          "sha256": "7b7a98489a10d0b4d573ba3cf98f8359cca21619a910b66efc55e61e8a442760"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 1500221,
+          "sha256": "43a4bf49bc4ca368157641da0d5491ea944a560698c8a61a3ebc1e6ded7438d3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1403845,
+          "sha256": "31bb9e0cb28ca0ba45bcc059d2eb98f10012f9a08c5f0eccc37a3b137d8bc786"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\main-contact-15.png",
+          "bytes": 941590,
+          "sha256": "08b96e31587a4707bfbfe4550502fbf08587194e1c30739da3ea5f0063d31a5f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 1294199,
+          "sha256": "52a6e54d2b184314e201aeeffb37f20cb3a166240a92ddbaf2a95e4af848128b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 1261333,
+          "sha256": "55c29903c7183f35a1ce1b3dc3991b82283cc1ee85fb7fdbc053f67c17cb0db8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\rendered-inspection\\workbook-contact-03.png",
+          "bytes": 1399741,
+          "sha256": "3b82499a57c668d202e94373f5c689407064012f39af04256790878e30348e2f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\source-audit.json",
+          "bytes": 9021,
+          "sha256": "96cddeeff71a36e7324be5891f4a79f79082a785a364de6f2926094e03554403"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 16719,
+          "sha256": "f99559f2f92d909d5b9a3ba016bd25b99a928287c72f3080754a3b8a6a906c05"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06": {
+      "file_count": 17,
+      "total_bytes": 14717996,
+      "aggregate_sha256": "6fea40fba6a23a886e54d5054c74e51b250cd6705e00104c7f12c55a0bbeadca",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57558,
+          "sha256": "aa849a836383c5f8afd4d6bda5a63256106616aa90142f1252aeaf77537ca3f5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\ascii-master.txt",
+          "bytes": 8827,
+          "sha256": "396936c0acb9b04b153f90b692180964e878df3201a669018d7560c6ef42751b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\build-audit.json",
+          "bytes": 7727,
+          "sha256": "c205a6678111df325a9beb0830373662e8305e69d7e3f82d111dc595af484219"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 38118,
+          "sha256": "23a8679fcb0bf63024820192a8474de22477caf54264f3ae46f4559b047b50d6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\master.png",
+          "bytes": 2079432,
+          "sha256": "e85e98728b67433e3d92b16c306f42a923550db826e6ca0e562910ff3def48df"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\poster.pdf",
+          "bytes": 2341409,
+          "sha256": "7b5753d0d2aa8a7f7950193cd1f80cc951e1ebc1a13861017d3c0d8a1d4c9396"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6310,
+          "sha256": "a764342073bb66968f447da53a31c332ad9b531feeadcbf5269b5516c3bc82ad"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3158758,
+          "sha256": "175489b52720f6b7858df149157dfbaf7c57e0f950c79a050346078762dcf076"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1476814,
+          "sha256": "17e4585e4c2900fa526a1181f4502e2f93ed9dba3e3b900aef166dfa7b924968"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 664689,
+          "sha256": "6c694151f1d7c7029c28c7b91456345e8a39a20cb24d9ce61e4df90608e8b725"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 690430,
+          "sha256": "47ee6841b0b189b4eef0c44a6cb053f34248c121cf93d165790d3bae299b03ae"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 636906,
+          "sha256": "ef457a649c4b346562ca19c83f576b91bab232b5e8ad9072e65df41e79ea015e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 711594,
+          "sha256": "7b2c85498ad7022f609a85654aebf4820721b49176e36c6365b01591c3ad0ad9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\README.txt",
+          "bytes": 1468,
+          "sha256": "d5cf98f63f759d6b46e27738c52112c53ce929e80f5aad3da1cea4355bcb9fb2"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\tiled.pdf",
+          "bytes": 2836433,
+          "sha256": "08fa45c06095fe09d91cff965d7f49a3a798224af91d9544b37aa34ab6d0c1bf"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g2\\validation-report.txt",
+          "bytes": 1314,
+          "sha256": "af404cecce518b570ac82efdf5f37d558c367734fbb06b42dc2f93efe9fde147"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07": {
+      "file_count": 3,
+      "total_bytes": 448421,
+      "aggregate_sha256": "4e60e1d6fdd0689e8f3dc78bcb4302d892f89611f7b39522f1b3981fc2021354",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\assets\\Logical-Positivism-Programme-Map.png",
+          "bytes": 100465,
+          "sha256": "281b7925cfd7d8e7e4f02238094c8c84b55907a0ea5cc138a8c3476e3f166806"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\topic-07_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 249865,
+          "sha256": "c26a4a8eb36208d0118b61e7f5e720532bafe8b4dc6efd149771c185472689b7"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\topic-07_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 98091,
+          "sha256": "abea752426436a7f561a1717d30a1261e812f12ecc26eb912747f602bbe0cc93"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07": {
+      "file_count": 27,
+      "total_bytes": 37799878,
+      "aggregate_sha256": "ad423ca9b6991067d7ea08c144efe6abf6d1e3bcabb764f3b72fe839ec15d580",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\topic-07_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 541079,
+          "sha256": "b1830154c7908924eeec13c779e6d5869749412a3ac3904c4f1adf1ad3a32af0"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\topic-07_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 348626,
+          "sha256": "9ce11c2fa4879daa0dff9161c1b26c8ba2176161934e473cf05b0baba32c5268"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 101017,
+          "sha256": "512f7df479b9d59f0123f88c6449fd90d45a9e9414be6f459d5c6fd0e974126d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 541358,
+          "sha256": "2ab751677f227a2adaa0c55ec2a73788460a8d20f7b81a740e92f16d9a7507cd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 519874,
+          "sha256": "76dff5ca75610ab2c36a22b1237906f2bd9d3a4db5c0d30c0bc5437a028d89d6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 275229,
+          "sha256": "5f6f25f897cfb9158acac1e619dcf93d05e1115562478673d3515d75fc591571"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 4480867,
+          "sha256": "8c63433ea5f08e29fee10b8ca7c4c24b9b81da10484a6dea17e22422320ca346"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 5139,
+          "sha256": "e0bdb15cf7e5861baff66851e3512e726e23338f43fa92f6862340b2ee3b3f07"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1535967,
+          "sha256": "7685a853ca4b49aee1167b535ab81f34df619cd10ebce796fb8df24e720ae3ac"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1558341,
+          "sha256": "32f8c53f52ad47c4ee734dd4ebce0012cd1af5925db7cf0e04d467e6fd89dc35"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 1771612,
+          "sha256": "71d8bf0382af029429b544887b21eac35c435a969c65714c21c7c8bf8658d9e7"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 1752540,
+          "sha256": "d3f98bfec5822ca2efd7557876d8ca401ef4341486b6f5c17d8ca8e7b888395b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1661399,
+          "sha256": "942707f5990ffe1b973c12db853ca266bddd872c4ca43415fa359f105fb87835"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1688554,
+          "sha256": "334cdc31d2cfa33bb20c040f617a7bba8b8b7c1333cd73ebd621c1fb37e1e339"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 1669377,
+          "sha256": "11072534e0aa41aad149186e273412c390c7f603f88fa389518175894cfe3fe3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1965502,
+          "sha256": "664d03022c571292b813ed75c32871a5e453c2edfce798d79ad8fe9ed6223db5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 1874391,
+          "sha256": "99aa905f1ce3c468b8b590a98c9e9ad45d9875389d06e84f7419941dfcf0e3a8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 2075031,
+          "sha256": "84d4d56ef3da377dfd3ae864a05be1a5ff1841c02219b5e153f373da22925458"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 1933002,
+          "sha256": "e1a8202ea9d3265a3d889a3352b0954aa908834dd074fa0769859ee6a11325d9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 2291559,
+          "sha256": "e7a97dfea9a42914c9bed8482f19756dec7f8f56bf7574739b22c1c1c6645f5d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 2389584,
+          "sha256": "c3f7fcc9fa26991eed9c12cc4a996ef365b566e9c7936dd5d0ff23374149e2e6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1465118,
+          "sha256": "9823976ad19532fe61356660c21fbb4df08204d7199ea5b63a86e2ddba6c630b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 2076285,
+          "sha256": "fe23c12612fdf8d7f29b19b9d988fcaed1eaad70a4ccb10bc60eeae306561cab"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 2050589,
+          "sha256": "86ab08314786dff8f9879bd2c5e31576771762ec8273bffb37a1d564a6e3c985"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\rendered-inspection\\workbook-contact-03.png",
+          "bytes": 1207454,
+          "sha256": "fcbcc6d27dc876898bb6ab61cb2d8ef78c879830df7a640ac50d51490a4a5346"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\source-audit.json",
+          "bytes": 7719,
+          "sha256": "f28edb367bd4cd3ffe17ad94038d224ad351f0f0d0762d6fcda8b8e820eca8b2"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 12665,
+          "sha256": "275f300b71c59f2e206f2890fdf1c86475caab5f89a89609423d5e6a894a9627"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07": {
+      "file_count": 17,
+      "total_bytes": 14686866,
+      "aggregate_sha256": "6ecbab71786b6fabfcdd0ac3023ddac91e46a7e95c7fff1a6f5fe30833872cc6",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57602,
+          "sha256": "cd38ba67cf30d4f39529e7aad802c944d1316c47573aceb8d91675c9a44e12af"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\ascii-master.txt",
+          "bytes": 8717,
+          "sha256": "3eee42e9bd515095c80ba0d61bed0835a454de5ba69463e19eef18eb245bc05c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\build-audit.json",
+          "bytes": 7725,
+          "sha256": "a280e800dec216836134eecd62a37662f3017639add473c48e565c7f5447bc9b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 38813,
+          "sha256": "ec7364f73688cfd5c0300c6384003be329a2151f795b769a9491fb3677055a2c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\master.png",
+          "bytes": 2203243,
+          "sha256": "ec46c46f27987c20c4dd292cc420736ee5de9ca387f67e6001eca29726f3c86d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\poster.pdf",
+          "bytes": 2482833,
+          "sha256": "aeb4ed39c54c4ac2e756f30a6c99a882dc953863e444e31a3f73383df379d833"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6172,
+          "sha256": "0a72382c9249f618d349636068f5b2b6879199a907554930546aa4b79cfa6319"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 2992118,
+          "sha256": "38d1a677f8638de459f8cf9643d9e7dc9eb53ddebfc608a9c4607b0248be6e1c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1551907,
+          "sha256": "6abd9472deffdce7ac836c132dc7791b5484a43c6700e25f0ff7247f51e9e22b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 617030,
+          "sha256": "7491402757364048e3a7bc9ff1578748a6f0742e776235efa451502730937dca"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 649290,
+          "sha256": "6084317fddcfe399aa38d8658a7f1f7552586793a30ecfcb4e87c4f6885e34a3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 633377,
+          "sha256": "a313de1b1823fb037b929d4164a5746eb1729c39f63e90a9d55d1dfd00b29a65"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 676048,
+          "sha256": "c1ff998fa1ccfc3dbf3fa19410f2aa6c5820652a79390acbbb67dafcf06813c6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\README.txt",
+          "bytes": 1449,
+          "sha256": "97b20d5ee318746a4c9f46163ad70b247a7c3eca9827cdbf51a3d836ed55e625"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\tiled.pdf",
+          "bytes": 2759028,
+          "sha256": "08cc24f14070afdcc7eafd06279939ef612b7e24d517023f6081489e3fb3dbfe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\validation-report.txt",
+          "bytes": 1305,
+          "sha256": "42dd8a86cd329ecfd6a539aa87b4ba1fd294a5cff19bdd4059bc1ef199e09d54"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08": {
+      "file_count": 3,
+      "total_bytes": 453172,
+      "aggregate_sha256": "3d6f275518e228c90274971b36ce9985781947459a0c4cb3e66e062077578408",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\assets\\Later-Wittgenstein-Practice-Map.png",
+          "bytes": 98858,
+          "sha256": "204dc0e68c84f3a9e1aae45bf0ba7a01712542058117959838e38cf53644d40e"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 252716,
+          "sha256": "8e13402456bce680f3572d36d4e32d04906036fd1ac78eb244889a90f845fd4b"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 101598,
+          "sha256": "11730caf2273e2afa1c281e870eb0664a7e9afb0582ecf054b98e2b6e372e55d"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08": {
+      "file_count": 27,
+      "total_bytes": 39736079,
+      "aggregate_sha256": "fb1d33b3bbb187f0e2ad914775d318c5b91cd32edc1cb6ec0c6bd8be1e1e24ea",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 544624,
+          "sha256": "e38e514ecdc352f75ca51a0e7d63849c4300a55740bc73ab175f6b02fae8c952"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 353075,
+          "sha256": "8d741cd9fdb2eb3fbdf1210571dce84480a78fa3416550d11505f14a5c9b0fc3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 114658,
+          "sha256": "236a5c1cf2e7f5f3a958ff6a43d21d8ac9fe8c776de645d24406c6a5399adb1b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 460811,
+          "sha256": "40c603ad1a1b1909e584f85105cfed7cdaad03e61e01e23967396161ae60625d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 455607,
+          "sha256": "cfb314e9f61128aac85c56e89ecaaca6ed8b1f59f2af5e3b496a0a28b0c8a790"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 249231,
+          "sha256": "fdc7b19289755e4e56c648f560178a001af1f1ec16f2b63596f8ce4d6d2698fe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 4390539,
+          "sha256": "fc318b62f6f69181c4ac56cfd9fcb86449c02960e8424e307439df27fbc324c6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 8752,
+          "sha256": "a0c978aa4e77372a134dfe7de0d2f380f0de4df343217df7458e67f6484d8e53"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1849751,
+          "sha256": "752452ee9aa30172b79d9ee777fa0286e4d1a96e9e827e0145f00efbe586f6dd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1770617,
+          "sha256": "b9dc84fdd1d08822bad994195886abdfd48e0225af4eaed84d8cc689b91b26fe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 1541660,
+          "sha256": "0c661a006fbab3bd1ab1942dad44022441964d0338d1b1b9f6023fbf48034900"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 1753754,
+          "sha256": "54abd644f1cccd5b13d39076dc3f2ed1d98ecb3bdb863de2f24b5bf829065b8f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1566264,
+          "sha256": "845b2150beb4d860ac109bef2da401c62678b831a53fdebc9bba2729418ddcd1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1862024,
+          "sha256": "a1f7c885eb97b74790662a059b1bcb90ccc7228eee712ebb65e96985ab48f1d7"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 2016610,
+          "sha256": "f0bab1a4192489a89bdd3e700ac700880de077d7434aa8e1a5a2027f63c7e456"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1825814,
+          "sha256": "e6a14fea2a367f6a7fe847932a876171df789a86143f3553137b7c0f00a71e6d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 2083456,
+          "sha256": "5f8d5e3c0de24b0b4c53100cf3742ab5ad82a1d3b384e5665794989e91ff3863"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 1869885,
+          "sha256": "845c4c4d226d26bb48580329b4e7cb7d32c857ff3804e910596bde4892874fca"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 2122839,
+          "sha256": "e99d31a729649e3244562b6646e560e80324eb26c941a37c6d7134a6380fdb6e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 2453826,
+          "sha256": "3d40a0957cb4606732464225f1f0e47a2713ec7de3bf4e11203ba4b34eaee05a"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 2526864,
+          "sha256": "d277751e8aca948fb0d812f8cf1540ffa10ba554291a779e9fc17377a1bc361a"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1680834,
+          "sha256": "f2379615f10fc42ab2753b8698c67e1cb6ea63b7269023f6205c649de2963985"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 1976584,
+          "sha256": "60d593a0dbb1864e8e2f13e54d7dbe5073e6346af334ceb3be3997b1b33702fe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 1895430,
+          "sha256": "723045663aa5fb5a4be3a9d0282bd13333803d52de98f3c161cf6008e74dda8a"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\workbook-contact-03.png",
+          "bytes": 2342427,
+          "sha256": "9e0c8e7ab28caa9a83021ded87cd4baa6b4194268861c501576be01088201215"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\source-audit.json",
+          "bytes": 2819,
+          "sha256": "0c71ead4d465e23dc87566917a4e3468ef31c45b3e2ff50580d72e82b4e000da"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 17324,
+          "sha256": "316782ec3c8e5a8d0fa5e7fc62966aada866c30aae42beac84053cce028e71cd"
+        }
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08": {
+      "file_count": 17,
+      "total_bytes": 15195418,
+      "aggregate_sha256": "3d94f0694ae23ddda35d0b0b5bad4c4c93c736ca35f259d873fefb986da7ac19",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57792,
+          "sha256": "796776b422e70d78f5acd11b0dfc219a939a7215a6f15d6cce38e3933096b4ae"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.txt",
+          "bytes": 8922,
+          "sha256": "b814d2afa5708bc8aaed536b973e3c24624812eb54243af9576ec0b92e4dd8b4"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\build-audit.json",
+          "bytes": 7705,
+          "sha256": "233e43b9a3b2123bb4fdbd0e370738749ec86eeb394445e53836ea43568434fc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 40087,
+          "sha256": "ff90ede89c910055891007908850f04ddd56bc3470ee12fb7728fab40f738efe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\master.png",
+          "bytes": 2258753,
+          "sha256": "b8d0f17b67bd2ef7271ae9c6df622a6a44908b3bae633c63933f403d8f5ef772"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\poster.pdf",
+          "bytes": 2549470,
+          "sha256": "b834dac5362ab60f99994753f4f36a8f598f3bf16fc9f5e8f05055e4f96dc2c3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6172,
+          "sha256": "59520055c2d1cfd3e9ce723fb20dc16be31e5c62738fe760b929548d9ad847d9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3111531,
+          "sha256": "bbb88d6a696b7ee2a6ac8ebddfe76a7bcce23ab87a86b866f5dbc0db19da38d8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1571434,
+          "sha256": "75637eb1811138e7f0eaf4a3a993ba9ea85a4527ed3c7e937d4e4777d27b8e0e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 648302,
+          "sha256": "a9121f8adaf7fad04fe24f3b78c7f0b62368dffae6b071b64ac6fe0eb9da76f0"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 693305,
+          "sha256": "0e80febfed46a6f49e52ef4f6fe319806c0b4d49e119d6cf21bdfe3ad4256e4d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 680251,
+          "sha256": "877cb28b559078678cd3c5d2d49d1692596917ff378549ac10c519adf6bc9a1e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 658417,
+          "sha256": "e82161e9a05cec9a07c1aba2cbca34a679bf3df916d0fbb684e4294de2fee443"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\README.txt",
+          "bytes": 1449,
+          "sha256": "b535f92aedc5c8b76ba34a49c10c2c50b61e9fd5d886b8263b8302967c70355e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\tiled.pdf",
+          "bytes": 2900306,
+          "sha256": "4dd079ec03f1a83ba7619d368abe11848a38193ba4f305f48f2c1fbedbc32ca4"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\validation-report.txt",
+          "bytes": 1313,
+          "sha256": "76ec0e8cee714886ab82323b1bce022ca5aa634efbc0aabbab8b76bc6ab9e49e"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle": {
+      "file_count": 8,
+      "total_bytes": 7725299,
+      "aggregate_sha256": "879d1f172fecc445d1c895e0a6c1b297b1a2df37a97ba732e992ae082e8e803d",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 545259,
+          "sha256": "377de17b26e2c47a0c98874baae110e8a2fe8019954890a130751c1277ebf647"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 349502,
+          "sha256": "43d10f3d972348151683220c0a62b253c0f906f46e23439594ad1cfaea75084f"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2199795,
+          "sha256": "74ffc55e9934f3b11e0b2f882269099dfc61af589a8f9f793c8eec5ce2f86d8c"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 1927772,
+          "sha256": "14be0a798da33bc1b39b2312ca3feb036f7d1c4e70351c4ec665e66eba98791d"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2638257,
+          "sha256": "6a7da060d786450c00ca5a4671d74f759391f558e546a17e926afe6e28b536ed"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 56464,
+          "sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 7568,
+          "sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\README.txt",
+          "bytes": 682,
+          "sha256": "693b7bf27b8e4e3d004699a126a5629bbf51647332c292bed6b8873d743aa4b1"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism": {
+      "file_count": 8,
+      "total_bytes": 8089825,
+      "aggregate_sha256": "99752b90128c5d076914c57dc9c0fee1439a5764d65348f144b7410d71893946",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 566451,
+          "sha256": "fca03f45beeebffc98f5a64941d22afca3bd1e0d5e1e1313ed4fbe1daf102916"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 366668,
+          "sha256": "f3aab6be490891e7158296423ac273c5931e5b37dde815d3792012cbb47e867b"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2341659,
+          "sha256": "82e5a438c91fcec375934b505e5b424cf06073a768546e4f8f32a1749be82e00"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2073264,
+          "sha256": "aaf4b816834ed75f42bb624183d63f46a6380d60a67b1d259fd8a42439b6f420"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2676803,
+          "sha256": "1c686f04a9134b8fd751c4fff63c261d1b1111b428ede2de7db00773caa62f6b"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57030,
+          "sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 7284,
+          "sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\README.txt",
+          "bytes": 666,
+          "sha256": "5ee4c4a66f56732f409c5f4bfaab58bd1c1fab32482a356eef5568180229da3a"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism": {
+      "file_count": 8,
+      "total_bytes": 8182873,
+      "aggregate_sha256": "7518db16ca3cbeafe403143b69a53826eb66990dae1e71740596c4f5b885fb5a",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 537064,
+          "sha256": "76c6ac219725a34940c2f328eafe68a6d6b2569bcbc8f50533aaed22b55fadb0"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 355497,
+          "sha256": "05851e178308ca329f0200fdfdcb7dfbeb46f316f3872d60a39071755576d198"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2341358,
+          "sha256": "cc66dcaea66d0936ecb8841679610374fe81d816c91912b27768692990399a18"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2071996,
+          "sha256": "ef472f4abc5b3c61f2ed56ca5ed007f9c53e7e972cac43853070259e8f8e79f5"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2813039,
+          "sha256": "814327908b236e3e4f0b588ad6ecbd73d619367bea0601a7e46a501b8a011eb1"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 56387,
+          "sha256": "aa9c39a9651639ad71a78bfb15edff73d8a883bcbd8da06f2c0acb1431f99926"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 6868,
+          "sha256": "ad21be42d0bbbbae98ee57400f4810a50ebffef1c911d3533e45868ce00e7fbe"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\README.txt",
+          "bytes": 664,
+          "sha256": "6c428571028d816cfe72384b33873fe0fcf633925da2e31ba68799ab62c616a5"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant": {
+      "file_count": 8,
+      "total_bytes": 8612321,
+      "aggregate_sha256": "2732227d6fe72fe15a661bc6cf5401ac4ac1f10deb2b26f3da17e8d5b67ed49c",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 540153,
+          "sha256": "49461e78e96358c495b4c23d114bc46adf3e85dbf5370a8816edeaf91fd927ea"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 343119,
+          "sha256": "bde12e40f8402fb5f7a638b7bb3f7057763c2e9d5d2c8679df1e5af32d6d94dd"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2545959,
+          "sha256": "39447c5ce3a978b5720626e298cf924d8af4c629ac8d2967fe33dff204ee6377"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2250836,
+          "sha256": "668136e227f6f2e8a11be88f5ee088638f41d01525cb4bd09cec4c987d484256"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2865130,
+          "sha256": "3279315cec986342a9e443696e5a0c52acabd29e2bc5adb74cbe3f9f7cb70b13"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57512,
+          "sha256": "733c1845c0ff934d01549853404f0e63d3f0e771ee2d21d1f75ed3217f1e3a05"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 8960,
+          "sha256": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\README.txt",
+          "bytes": 652,
+          "sha256": "b8b9caeceba2c21468ebf01fd067e18fcdfb2092d979017f928680285939c13f"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel": {
+      "file_count": 8,
+      "total_bytes": 8782875,
+      "aggregate_sha256": "037e14d7b3f19c86bbb674a625c06e9f46fa8e64864633fb721f8dc2c1bf0c94",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 542378,
+          "sha256": "786028b3a4e819b15c4b00d0aabcbec74391e22c374297880a4d068dc016301c"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 348905,
+          "sha256": "0ce11d0dafc3608ff5e7045af3072cd19020fca0e70e89e316a807ce8ac048dc"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2551053,
+          "sha256": "f610c3185fd840cfa4b933a3411490b68fb38d9a6f5f6c5ffb7495b725affb8d"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2240798,
+          "sha256": "338cb855d6ebc4a8c825d6279cade13a4540b5d0ea7c53f426a538b12e6bbdf9"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 3031025,
+          "sha256": "169fb039e2b810fa09f74dae0adae2389fd3dc1205627fed1b53a969837006d6"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 58313,
+          "sha256": "a3aa90b8e67942eca7fbc61628f1cd583fc835cd0988cade66b57b12a36af150"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 9749,
+          "sha256": "e690e5c47f3adb5039a07b906016269d71a93e7b23ff8b4f21bc9c0adc1f61e9"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\README.txt",
+          "bytes": 654,
+          "sha256": "91628954defe87942f222a5eb61f3758974dc238a35217ef1bc5c1a595a9216c"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein": {
+      "file_count": 8,
+      "total_bytes": 8281432,
+      "aggregate_sha256": "b1c2a82295f8cb8b6b00bb3c9d6c5c0cb95121eb9baeba788af2561c4f6be971",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 575039,
+          "sha256": "23010ecba3c14aea014a184c7026d7d983549717aa58d9db54e5d9667891a948"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 382016,
+          "sha256": "d9361f747cc2f5ad41aadf026bf9e1988dadf86976ef7480a2abdf64358f801f"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2341409,
+          "sha256": "7b5753d0d2aa8a7f7950193cd1f80cc951e1ebc1a13861017d3c0d8a1d4c9396"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2079432,
+          "sha256": "e85e98728b67433e3d92b16c306f42a923550db826e6ca0e562910ff3def48df"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2836433,
+          "sha256": "08fa45c06095fe09d91cff965d7f49a3a798224af91d9544b37aa34ab6d0c1bf"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57558,
+          "sha256": "aa849a836383c5f8afd4d6bda5a63256106616aa90142f1252aeaf77537ca3f5"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 8827,
+          "sha256": "396936c0acb9b04b153f90b692180964e878df3201a669018d7560c6ef42751b"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein\\README.txt",
+          "bytes": 718,
+          "sha256": "f525fbb345b0c37336184b711bdb1aa68e72982d5387bd2f19917bd44b276c43"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism": {
+      "file_count": 8,
+      "total_bytes": 8401808,
+      "aggregate_sha256": "8e8379b49d2601060b9bf014b2b228073f4becf6ca97fbf27d87b6c71be9b9fd",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 541079,
+          "sha256": "b1830154c7908924eeec13c779e6d5869749412a3ac3904c4f1adf1ad3a32af0"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 348626,
+          "sha256": "9ce11c2fa4879daa0dff9161c1b26c8ba2176161934e473cf05b0baba32c5268"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2482833,
+          "sha256": "aeb4ed39c54c4ac2e756f30a6c99a882dc953863e444e31a3f73383df379d833"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2203243,
+          "sha256": "ec46c46f27987c20c4dd292cc420736ee5de9ca387f67e6001eca29726f3c86d"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2759028,
+          "sha256": "08cc24f14070afdcc7eafd06279939ef612b7e24d517023f6081489e3fb3dbfe"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57602,
+          "sha256": "cd38ba67cf30d4f39529e7aad802c944d1316c47573aceb8d91675c9a44e12af"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 8717,
+          "sha256": "3eee42e9bd515095c80ba0d61bed0835a454de5ba69463e19eef18eb245bc05c"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\README.txt",
+          "bytes": 680,
+          "sha256": "7c1a4aebfa855ca320526492498094bcb4d74b91aa43af3eac1c9b939767797c"
+        }
+      ]
+    },
+    "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein": {
+      "file_count": 8,
+      "total_bytes": 8673622,
+      "aggregate_sha256": "55aec85cb09311750496fb639be2f1c121cf8ce052f397a1fb67c1ca2942d87e",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 544624,
+          "sha256": "e38e514ecdc352f75ca51a0e7d63849c4300a55740bc73ab175f6b02fae8c952"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 353075,
+          "sha256": "8d741cd9fdb2eb3fbdf1210571dce84480a78fa3416550d11505f14a5c9b0fc3"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2549470,
+          "sha256": "b834dac5362ab60f99994753f4f36a8f598f3bf16fc9f5e8f05055e4f96dc2c3"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2258753,
+          "sha256": "b8d0f17b67bd2ef7271ae9c6df622a6a44908b3bae633c63933f403d8f5ef772"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2900306,
+          "sha256": "4dd079ec03f1a83ba7619d368abe11848a38193ba4f305f48f2c1fbedbc32ca4"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57792,
+          "sha256": "796776b422e70d78f5acd11b0dfc219a939a7215a6f15d6cce38e3933096b4ae"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 8922,
+          "sha256": "b814d2afa5708bc8aaed536b973e3c24624812eb54243af9576ec0b92e4dd8b4"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\08-Later-Wittgenstein\\README.txt",
+          "bytes": 680,
+          "sha256": "57a62e9b792a0f9d971d32b820d7ba4a98320e50126e20ef6dc36036af77aa82"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle": {
+      "file_count": 3,
+      "total_bytes": 65832,
+      "aggregate_sha256": "ae34cafa62b7330959574dd1083b20aee29ce50843ad7a96b029f3b28625955e",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.pdf",
+          "bytes": 56464,
+          "sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.txt",
+          "bytes": 7568,
+          "sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\README.txt",
+          "bytes": 1800,
+          "sha256": "ea29a2670689402793541979e30b3574a37fad84c06ee3cc7f251188a4598c5a"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism": {
+      "file_count": 3,
+      "total_bytes": 66066,
+      "aggregate_sha256": "fcce288afc56425db4af011b1a05b73ffcc3e1b0bda62410e4a6db1ad39f1a45",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.pdf",
+          "bytes": 57030,
+          "sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.txt",
+          "bytes": 7284,
+          "sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\README.txt",
+          "bytes": 1752,
+          "sha256": "e0ec3003fb7e6bc10ccbc5ce067f62b93104182e735d9b46fb4ed4bbbaaaa1c7"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism": {
+      "file_count": 3,
+      "total_bytes": 65001,
+      "aggregate_sha256": "f04a4b5303b22f0c98a406b7d4bcecb1d6b07d96e56be9d4d61c070db8043f5e",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism\\03-Empiricism-Continuous-Flow-Learning.pdf",
+          "bytes": 56387,
+          "sha256": "aa9c39a9651639ad71a78bfb15edff73d8a883bcbd8da06f2c0acb1431f99926"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism\\03-Empiricism-Continuous-Flow-Learning.txt",
+          "bytes": 6868,
+          "sha256": "ad21be42d0bbbbae98ee57400f4810a50ebffef1c911d3533e45868ce00e7fbe"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism\\README.txt",
+          "bytes": 1746,
+          "sha256": "eec05df3cd6a94453ed7b6b14fab31df713ce4e48f2b26ebab49847527041ffa"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant": {
+      "file_count": 3,
+      "total_bytes": 68182,
+      "aggregate_sha256": "4b5e43384a41777adf2c4dac81a5f8e07161f396fb5935a4d57310c6005c13e1",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant\\04-Kant-Continuous-Flow-Learning.pdf",
+          "bytes": 57512,
+          "sha256": "733c1845c0ff934d01549853404f0e63d3f0e771ee2d21d1f75ed3217f1e3a05"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant\\04-Kant-Continuous-Flow-Learning.txt",
+          "bytes": 8960,
+          "sha256": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant\\README.txt",
+          "bytes": 1710,
+          "sha256": "e0890663d2d4c7e3f7f52bbbe527fdb3bbd4a183c371e4c0e31c033a5d4841ea"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel": {
+      "file_count": 3,
+      "total_bytes": 69778,
+      "aggregate_sha256": "99e549d5500c42a6144e562902b2fa43e6838b269079e963516042e248f177e0",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel\\05-Hegel-Continuous-Flow-Learning.pdf",
+          "bytes": 58313,
+          "sha256": "a3aa90b8e67942eca7fbc61628f1cd583fc835cd0988cade66b57b12a36af150"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel\\05-Hegel-Continuous-Flow-Learning.txt",
+          "bytes": 9749,
+          "sha256": "e690e5c47f3adb5039a07b906016269d71a93e7b23ff8b4f21bc9c0adc1f61e9"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel\\README.txt",
+          "bytes": 1716,
+          "sha256": "9890b545e6c991612296a69c60bff93df8c31f39773d091bfb5216e34bfe821d"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\06-Moore-Russell-and-Early-Wittgenstein": {
+      "file_count": 3,
+      "total_bytes": 68288,
+      "aggregate_sha256": "117dd27f8b6e4f05f2f979c920a9ba53cc72d4be9eb3e1e5637881df2d75accb",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\06-Moore-Russell-and-Early-Wittgenstein\\06-Moore-Russell-and-Early-Wittgenstein-Continuous-Flow-Learning.pdf",
+          "bytes": 57558,
+          "sha256": "aa849a836383c5f8afd4d6bda5a63256106616aa90142f1252aeaf77537ca3f5"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\06-Moore-Russell-and-Early-Wittgenstein\\06-Moore-Russell-and-Early-Wittgenstein-Continuous-Flow-Learning.txt",
+          "bytes": 8827,
+          "sha256": "396936c0acb9b04b153f90b692180964e878df3201a669018d7560c6ef42751b"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\06-Moore-Russell-and-Early-Wittgenstein\\README.txt",
+          "bytes": 1903,
+          "sha256": "7d7a4e2b0c4cffdffef3b0c8cac75d18bdeca9b8311ba8d4fdf3d126e71d6afd"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\07-Logical-Positivism": {
+      "file_count": 3,
+      "total_bytes": 68113,
+      "aggregate_sha256": "116f19bd1ac6dd0b196d899c3a0827ac4693a96b22629bd0e27eb3951c3314b0",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\07-Logical-Positivism\\07-Logical-Positivism-Continuous-Flow-Learning.pdf",
+          "bytes": 57602,
+          "sha256": "cd38ba67cf30d4f39529e7aad802c944d1316c47573aceb8d91675c9a44e12af"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\07-Logical-Positivism\\07-Logical-Positivism-Continuous-Flow-Learning.txt",
+          "bytes": 8717,
+          "sha256": "3eee42e9bd515095c80ba0d61bed0835a454de5ba69463e19eef18eb245bc05c"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\07-Logical-Positivism\\README.txt",
+          "bytes": 1794,
+          "sha256": "62bb913f2343f9a5265696d009b566a45d0584e1370d75e939aeaab9d4396c0f"
+        }
+      ]
+    },
+    "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\08-Later-Wittgenstein": {
+      "file_count": 3,
+      "total_bytes": 68508,
+      "aggregate_sha256": "636d9d1a481b212b9b04d5a1a0bd12fee1c7dda022a02e587eaed9ec540e304c",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\08-Later-Wittgenstein\\08-Later-Wittgenstein-Continuous-Flow-Learning.pdf",
+          "bytes": 57792,
+          "sha256": "796776b422e70d78f5acd11b0dfc219a939a7215a6f15d6cce38e3933096b4ae"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\08-Later-Wittgenstein\\08-Later-Wittgenstein-Continuous-Flow-Learning.txt",
+          "bytes": 8922,
+          "sha256": "b814d2afa5708bc8aaed536b973e3c24624812eb54243af9576ec0b92e4dd8b4"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\08-Later-Wittgenstein\\README.txt",
+          "bytes": 1794,
+          "sha256": "71074de4eb45b04c8032d241a387fc18716840533592ad14bd0fc36ba28f1bbc"
+        }
+      ]
+    },
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl": {
+      "file_count": 3,
+      "total_bytes": 389354,
+      "aggregate_sha256": "add5e6a354e8c4b4b67a91796e1fa0c0b4d244d8bde31f28f2973787cc8f55f0",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\assets\\09_Reduction-Staircase-Map.png",
+          "bytes": 142488,
+          "sha256": "6fa5a40fc67639243e7e5f6cc6d0ad06dab3282e86b613523ebda4d891ee1307"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Complete-Learning-Session_2026-08-19.md",
+          "bytes": 198448,
+          "sha256": "3f5c6c081569854beeb335976549e4339005113aa19b14ff08b76ea0a97e7b50"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Solved-Practice-Workbook_2026-08-19.md",
+          "bytes": 48418,
+          "sha256": "35fbb049e67923d5e61fbc5e443f3ac417741a96b6307aca5986cf7cd32ab662"
+        }
+      ]
+    },
+    "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl": {
+      "file_count": 2,
+      "total_bytes": 805656,
+      "aggregate_sha256": "a80005b3ec0845a1f7e42e2c4fb07d72a291a6535eeb1d4892cfa1ee719c7b79",
+      "files": [
+        {
+          "path": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Complete-Learning-Session_2026-08-19.pdf",
+          "bytes": 484595,
+          "sha256": "e9098ccff6c10b6f68131345dc8dfeffaa0d76df40dbda44a7a3ad63cfe47b84"
+        },
+        {
+          "path": "notes\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Solved-Practice-Workbook_2026-08-19.pdf",
+          "bytes": 321061,
+          "sha256": "a99c2c2be4df1f8365f406b37be2efe80cfe67e22bf23086184a786dba87dd8b"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "id": "medieval-indian-history-23-25-learner-v2-2026-08-30-validation",
+  "validated_on": "2026-08-30T18:02:03.027090+05:30",
+  "selection": "medieval-indian-history-23-25",
+  "topic_count": 3,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 125
+  },
+  "tracker_sha256_before_finalize": "8f0b945047d3b555402fe9acc5e361bacc0de79c4299387355d8ea18e939c168",
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-23",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Medieval-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-23",
+      "main_pdf_pages": 103,
+      "workbook_pdf_pages": 23,
+      "session_count": 20,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 85,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-23-25-2026-08-30-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          101,
+          101,
+          102,
+          102,
+          102,
+          102,
+          102,
+          102,
+          103,
+          103,
+          103,
+          103
+        ],
+        "rendered_page_count": 3,
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "mcq_independent_stems": true,
+      "routed_exact_pyq_count": 0,
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-23\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-23\\medieval-indian-history-23_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-23\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-23\\medieval-indian-history-23_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-23\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 103,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4,
+      "flowchart_master_dimensions_px": "4800x10850",
+      "visual_audit": {
+        "representative_pages_reviewed": true,
+        "graphical_master_reviewed": true,
+        "embedded_ascii_reviewed": true,
+        "sparse_spillovers_repaired": false
+      }
+    },
+    {
+      "topic_key": "medieval-indian-history-24",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Medieval-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-24",
+      "main_pdf_pages": 123,
+      "workbook_pdf_pages": 20,
+      "session_count": 20,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 90,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-23-25-2026-08-30-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          121,
+          121,
+          121,
+          121,
+          121,
+          122,
+          122,
+          122,
+          122,
+          122,
+          122,
+          123
+        ],
+        "rendered_page_count": 3,
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "mcq_independent_stems": true,
+      "routed_exact_pyq_count": 5,
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-24\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-24\\medieval-indian-history-24_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-24\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-24\\medieval-indian-history-24_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-24\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 123,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4,
+      "flowchart_master_dimensions_px": "4800x10976",
+      "visual_audit": {
+        "representative_pages_reviewed": true,
+        "graphical_master_reviewed": true,
+        "embedded_ascii_reviewed": true,
+        "sparse_spillovers_repaired": false
+      }
+    },
+    {
+      "topic_key": "medieval-indian-history-25",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Medieval-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-25",
+      "main_pdf_pages": 101,
+      "workbook_pdf_pages": 26,
+      "session_count": 26,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 82,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-23-25-2026-08-30-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          99,
+          99,
+          99,
+          99,
+          99,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          101
+        ],
+        "rendered_page_count": 3,
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "mcq_independent_stems": true,
+      "routed_exact_pyq_count": 0,
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-25\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-25\\medieval-indian-history-25_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-25\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-25\\medieval-indian-history-25_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-25\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 101,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 26,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4,
+      "flowchart_master_dimensions_px": "4800x11124",
+      "visual_audit": {
+        "representative_pages_reviewed": true,
+        "graphical_master_reviewed": true,
+        "embedded_ascii_reviewed": true,
+        "sparse_spillovers_repaired": false
+      }
+    }
+  ]
+}

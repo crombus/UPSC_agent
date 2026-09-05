@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-14",
+      "display_title": "Second World War",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From two wars to one",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931/1937 -> Japanese expansion in Asia",
+            "SEPT 1939 -> German war begins in Europe",
+            "22 JUNE 1941 -> Barbarossa widens European war",
+            "7 DEC 1941 -> Pearl Harbor fuses the conflicts",
+            "MUST REMEMBER: Axis expansion and appeasement precede Poland (1939); the widening sequence",
+            "  includes France (1940), Barbarossa and Pearl Harbor (1941), Midway, El Alamein and",
+            "  Stalingrad, Allied advance, atomic bombing and surrender in 1945.",
+            "MUST REMEMBER: Axis expansion and appeasement precede Poland (1939); the widening sequence",
+            "  includes France (1940), Barbarossa and Pearl Harbor (1941), Midway, El Alamein and",
+            "  Stalingrad, Allied advance, atomic bombing and surrender in 1945."
+          ],
+          "source_references": [
+            "Two wars become one global conflict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Early Axis method",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "BLITZKRIEG -> tanks, motorised thrusts and air support",
+            "SURPRISE -> defences bypassed before coordination",
+            "1940 -> western states fall rapidly",
+            "LIMIT -> operational speed cannot settle Britain"
+          ],
+          "source_references": [
+            "Blitzkrieg and early Axis expansion",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Battle of Britain mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "RAF + RADAR -> attacks intercepted",
+            "GERMAN RANGE -> fighter limits constrain operations",
+            "LONDON SHIFT -> pressure on airfields eases",
+            "RESULT -> invasion prevented; Britain remains a base"
+          ],
+          "source_references": [
+            "Britain survives in 1940",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Global turning-point set",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MIDWAY -> Japanese carrier strength broken",
+            "EL ALAMEIN -> Egypt and Suez protected",
+            "STALINGRAD -> sustained Soviet advance begins",
+            "ATLANTIC -> Britain and western offensive survive"
+          ],
+          "source_references": [
+            "Midway and Pacific air-sea power",
+            "El Alamein and Stalingrad",
+            "The Atlantic lifeline",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Axis overreach chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "BRITAIN SURVIVES -> western war remains open",
+            "BARBAROSSA -> vast eastern front created",
+            "PEARL HARBOR -> US resources enter",
+            "RESULT -> Axis fights a coalition it cannot outproduce"
+          ],
+          "source_references": [
+            "Barbarossa creates overreach",
+            "Pearl Harbor and global resource change",
+            "Cumulative Axis defeat",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Why the Axis lost",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STRATEGY -> too many fronts",
+            "RESOURCES -> Allied coalition advantage",
+            "SEA/AIR -> Allied superiority grows",
+            "OCCUPATION -> brutality creates resistance"
+          ],
+          "source_references": [
+            "Cumulative Axis defeat",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "D-Day in coalition strategy",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ATLANTIC CONTROL -> invasion supply possible",
+            "6 JUNE 1944 -> Normandy front opens",
+            "SOVIET ADVANCE -> Germany pressed from east",
+            "RESULT -> genuine two-front collapse"
+          ],
+          "source_references": [
+            "The Atlantic lifeline",
+            "D-Day and two-front collapse",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Holocaust boundary",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "JEWISH VICTIMS -> about 5.7 million in Lowe's estimate",
+            "STATE PROJECT -> racial policy uses occupation machinery",
+            "OTHER VICTIMS -> name separately",
+            "RULE -> never merge categories into one total"
+          ],
+          "source_references": [
+            "Holocaust as wartime state project",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Occupied-society choices",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "RESISTANCE -> Italian partisans execute Mussolini",
+            "COLLABORATION -> Quisling and Norwegian local Nazis",
+            "STATE COLLABORATION -> Vichy France",
+            "CAUTION -> no extra names or quantified claims"
+          ],
+          "source_references": [
+            "Total war, resistance and collaboration",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Japan's surrender caution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ATOMIC BOMBS -> central shock",
+            "SOVIET ENTRY -> Manchurian strategic collapse",
+            "BLOCKADE/BOMBING -> cumulative exhaustion",
+            "VERDICT -> relative weight remains debated",
+            "CLOSE DISTINCTION: European, Mediterranean, African, Atlantic and Asia-Pacific theatres were",
+            "  connected but not one battlefield, and genocide must remain analytically distinct from",
+            "  ordinary military chronology.",
+            "CLOSE DISTINCTION: European, Mediterranean, African, Atlantic and Asia-Pacific theatres were",
+            "  connected but not one battlefield, and genocide must remain analytically distinct from",
+            "  ordinary military chronology."
+          ],
+          "source_references": [
+            "The contested end in 1945",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Postwar structural shift",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "EUROPE WEAKENS -> imperial capacity contracts",
+            "USA/USSR -> superpowers dominate",
+            "NUCLEAR AGE -> deterrence changes",
+            "UNITED NATIONS -> new collective institution",
+            "EVIDENCE LIMIT: Leadership and ideology mattered within industrial capacity, logistics,",
+            "  alliance resources, resistance and colonial manpower; Allied victory was neither automatic",
+            "  nor explainable by one battle.",
+            "EVIDENCE LIMIT: Leadership and ideology mattered within industrial capacity, logistics,",
+            "  alliance resources, resistance and colonial manpower; Allied victory was neither automatic",
+            "  nor explainable by one battle."
+          ],
+          "source_references": [
+            "Society, superpowers and institutions",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Second World War answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ORIGINS -> Asian and European wars fuse",
+            "COURSE -> expansion, overreach and turning points",
+            "SOCIETY -> total war, genocide and occupation choices",
+            "AFTERMATH -> superpowers, UN and decolonisation"
+          ],
+          "source_references": [
+            "Decolonisation and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

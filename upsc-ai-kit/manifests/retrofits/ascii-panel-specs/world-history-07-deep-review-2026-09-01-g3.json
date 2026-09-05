@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-07",
+      "display_title": "New Imperialism and Scramble for Africa",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "What made imperialism new",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "EARLIER -> coastal forts, trade influence and limited enclaves",
+            "NEW -> direct inland territorial rule by industrial powers",
+            "1870s -> about 10% of Africa under European control",
+            "1914 -> about 90% under European control",
+            "MUST REMEMBER: New Imperialism joined industrial and financial interests, strategic routes,",
+            "  prestige rivalry and racial legitimation; technology and medicine increased capability but",
+            "  did not themselves create motive.",
+            "MUST REMEMBER: New Imperialism joined industrial and financial interests, strategic routes,",
+            "  prestige rivalry and racial legitimation; technology and medicine increased capability but",
+            "  did not themselves create motive."
+          ],
+          "source_references": [
+            "Defining New Imperialism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Five-driver system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ECONOMY -> raw materials, markets and investment",
+            "STRATEGY -> Suez, sea routes and rival positions",
+            "PRESTIGE -> colonies become great-power status symbols",
+            "TECHNOLOGY + IDEOLOGY -> capability plus permission"
+          ],
+          "source_references": [
+            "Suez, Egypt and strategic empire",
+            "Industrial capitalism and colonial demand",
+            "Prestige, rivalry and the timing of the rush",
+            "Technology and ideology",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Berlin: facts and function",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "15 NOV 1884 -> conference opens",
+            "14 COUNTRIES -> European and other powers represented",
+            "26 FEB 1885 -> conference closes",
+            "GENERAL ACT -> effective occupation becomes recognition rule"
+          ],
+          "source_references": [
+            "Berlin's conference facts",
+            "Effective occupation and what Berlin did",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Berlin did and did not",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DID -> standardise claims and legitimate competition",
+            "DID -> recognise Congo Free State under Leopold II",
+            "DID NOT -> include African voices in rule-making",
+            "DID NOT -> draw every later border at one meeting"
+          ],
+          "source_references": [
+            "Effective occupation and what Berlin did",
+            "Congo and partition patterns",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Partition pattern",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BRITAIN/FRANCE -> largest strategic and territorial zones",
+            "BELGIUM -> Congo; PORTUGAL -> Angola and Mozambique",
+            "GERMANY -> east, south-west, Togo and Cameroon",
+            "ITALY -> Eritrea and Somalia; defeated in Ethiopia"
+          ],
+          "source_references": [
+            "Congo and partition patterns",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "African resistance spectrum",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ADWA 1896 -> Ethiopia defeats Italy",
+            "ZULU + SAMORI TURE -> organised prolonged resistance",
+            "MAJI MAJI 1905-07 -> mass revolt under colonial rule",
+            "NEGOTIATION/ADAPTATION -> constrained agency beyond war"
+          ],
+          "source_references": [
+            "Adwa and successful resistance",
+            "Organised African resistance",
+            "Herero-Nama and Maji Maji",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Colonial violence ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONGO -> private-imperial extraction and coercion",
+            "HERERO AND NAMA 1904-08 -> genocide",
+            "MAJI MAJI 1905-07 -> mass uprising and repression",
+            "VERDICT -> civilising rhetoric tested against conduct"
+          ],
+          "source_references": [
+            "Congo and partition patterns",
+            "Herero-Nama and Maji Maji",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Extraction mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CASH TAX -> households need colonial currency",
+            "MINES/PLANTATIONS -> migrant and coerced labour expands",
+            "EXPORT INFRASTRUCTURE -> production points toward ports",
+            "RESULT -> commodity dependence and household disruption"
+          ],
+          "source_references": [
+            "Extraction, labour and gender",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Authority and identity remade",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "THIN COLONIAL STATE -> relies on chiefs and intermediaries",
+            "ADMINISTRATIVE CATEGORIES -> fluid identities become fixed",
+            "LAW AND SCHOOLING -> new routes to status and exclusion",
+            "LEGACY -> political identities carry colonial institutional marks"
+          ],
+          "source_references": [
+            "Borders, chiefs and administrative identity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Border legacy without determinism",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "LINES -> rarely match prior political realities",
+            "SUCCESSOR STATES -> inherit colonial territorial units",
+            "PRESERVATION -> reopening one frontier threatens all",
+            "CAUTION -> borders condition conflict; they do not mechanically cause it",
+            "CLOSE DISTINCTION: The Berlin Conference (1884-85) standardised recognition and effective",
+            "  occupation; it did not draw every African border at one sitting or convert paper claims",
+            "  instantly into control.",
+            "CLOSE DISTINCTION: The Berlin Conference (1884-85) standardised recognition and effective",
+            "  occupation; it did not draw every African border at one sitting or convert paper claims",
+            "  instantly into control."
+          ],
+          "source_references": [
+            "Borders, chiefs and administrative identity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "African agency correction",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WRONG FRAME -> Europe acts; Africa receives",
+            "BETTER FRAME -> imposition meets resistance and negotiation",
+            "UNEQUAL POWER -> weapons and logistics constrain choices",
+            "OUTCOME -> colonial rule is shaped by African responses",
+            "EVIDENCE LIMIT: Adwa, Samori Ture, Zulu resistance, Maji Maji and African negotiation show",
+            "  agency under unequal power, while extraction, labour coercion and remade authority require",
+            "  African-centred evidence rather than a passive-continent narrative.",
+            "EVIDENCE LIMIT: Adwa, Samori Ture, Zulu resistance, Maji Maji and African negotiation show",
+            "  agency under unequal power, while extraction, labour coercion and remade authority require",
+            "  African-centred evidence rather than a passive-continent narrative."
+          ],
+          "source_references": [
+            "Agency and the qualified imperialism verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Imperialism answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> direct territorial New Imperialism",
+            "CAUSE -> economy + strategy + prestige + technology + ideology",
+            "MECHANISM -> Berlin rules, conquest and administrative control",
+            "VERDICT -> extraction and borders plus persistent African agency"
+          ],
+          "source_references": [
+            "Agency and the qualified imperialism verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g2\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g3\\world-history-07_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

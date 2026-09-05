@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "topic_key": "indian-art-and-culture-04",
+  "subject": "Indian-Art-and-Culture",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "indian-art-and-culture-04",
+  "title": "Indo-Islamic and Regional Architecture",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: Indian Art and Culture — Subject-wide Syllabus — Indo-Islamic and Regional Architecture",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-04_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-04_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\04_Indo-Islamic-and-Regional-Architecture_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Nitin Singhania's Indian Art and Culture.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://whc.unesco.org/en/list/1739"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\04_Indo-Islamic-and-Regional-Architecture.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\04_Indo-Islamic-and-Regional-Architecture.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\04_Indo-Islamic-and-Regional-Architecture_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-04_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-04_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-04-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Art-and-Culture\\indian-art-and-culture-04.json",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "books\\Nitin Singhania's Indian Art and Culture.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "No direct GS-I Mains question is owned by this topic in the audited 2024-2025 set. The 2025 Akbar-syncretism question is adjacent and owned primarily by Medieval History; the Kalyana Mandapa objective route is explicitly corrected to Temple Architecture. Existing unkeyed objective routes are preserved but not solved.",
+  "current_linkage_note": "UNESCO's official Maratha Military Landscapes of India property page was fetched on 2026-09-01. It verifies the 2025 inscription and a twelve-fort network adapted to coastal and mountain terrain. The topic uses it only as a comparative regional-fortification case.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

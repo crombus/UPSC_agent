@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-20",
+      "display_title": "Temperate Continental Steppe Climate",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Temperate grassland world map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EURASIA -> steppes: Ukraine-Kazakhstan belt, continental interior",
+            "NORTH AMERICA -> prairies: Great Plains, USA and Canada",
+            "SOUTH AMERICA -> pampas: Argentina and Uruguay, maritime fringe",
+            "SOUTH AFRICA -> veld: elevated interior plateau",
+            "AUSTRALIA -> downs: eastern interior grasslands",
+            "MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows",
+            "  between deserts and humid forests, with low variable precipitation, large annual range,",
+            "  short grasses and chernozem-linked grain/pastoral economies."
+          ],
+          "source_references": [
+            "Steppe location and continental setting",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Continentality mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISTANCE FROM SEA -> weak maritime moderation",
+            "SUMMER -> strong heating of continental mass -> hot",
+            "WINTER -> strong radiative cooling -> cold",
+            "RESULT -> large annual temperature range, especially in Eurasia"
+          ],
+          "source_references": [
+            "Continentality and temperature range",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Rainfall-moisture profile",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TOTAL ANNUAL -> about 25-75 cm, low to moderate",
+            "SEASONAL MAXIMUM -> late spring and early summer",
+            "DRY MARGIN -> shorter grass, steppe-desert transition",
+            "WET MARGIN -> taller grass, steppe-forest boundary"
+          ],
+          "source_references": [
+            "Rainfall regime and moisture deficit",
+            "Natural grassland and treelessness",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Hemisphere asymmetry",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTHERN -> steppes and prairies: large continental mass, extreme range",
+            "SOUTHERN -> pampas, veld, downs: narrower landmass, maritime moderation",
+            "CAUSE -> continental mass determines winter severity",
+            "EXAM TRAP -> do not treat all five as climatically identical"
+          ],
+          "source_references": [
+            "Hemisphere contrast",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Chernozem-soil chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GRASSLAND COVER -> deep root network decays in place",
+            "LOW LEACHING -> base-rich conditions preserved",
+            "HUMUS ACCUMULATES -> dark, deep, fertile soil profile",
+            "RESULT -> chernozem or black earth, among world's most fertile"
+          ],
+          "source_references": [
+            "Chernozem formation and fertility",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Granary conversion timeline",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NATURAL STATE -> pastoral grassland, low-density use",
+            "RAIL + OCEAN FREIGHT -> access to distant industrial markets",
+            "MECHANISATION + HYV -> high output per worker on level plains",
+            "RESULT -> world's wheat granaries: Ukraine, prairies, pampas"
+          ],
+          "source_references": [
+            "Granary identity and wheat belts",
+            "Transport-conversion argument",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Anti-determinism firewall",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PHYSICAL BASE -> fertile soil + level relief + suitable climate",
+            "CONVERSION AGENTS -> rail, freight, mechanisation, market demand",
+            "WITHOUT ACCESS -> same soil, no granary for centuries",
+            "CONCLUSION -> endowment is necessary, access is sufficient"
+          ],
+          "source_references": [
+            "Transport-conversion argument",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Ecological-cost chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "SOD REMOVAL -> bare fine soil exposed to wind",
+            "DROUGHT YEAR -> vegetation fails, deflation peaks",
+            "ORGANIC DECLINE -> reduced humus, compaction risk",
+            "AQUIFER DRAWDOWN -> irrigation in semi-arid belt depletes groundwater"
+          ],
+          "source_references": [
+            "Ecological cost of ploughing",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India wheat granary map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "PUNJAB-HARYANA-WESTERN UP -> Indo-Gangetic alluvial plain",
+            "SOIL -> alluvial, not chernozem (fundamental difference)",
+            "SEASON -> Rabi: sown Oct-Dec, harvested Mar-Apr",
+            "ENABLERS -> HYV seeds + irrigation + fertiliser + MSP procurement"
+          ],
+          "source_references": [
+            "India climate boundary",
+            "Alluvial-chernozem distinction",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Green Revolution package",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "HYV SEMI-DWARF WHEAT -> raised yield potential",
+            "CANAL + TUBE-WELL IRRIGATION -> reduced rainfall dependence",
+            "CHEMICAL FERTILISERS -> supported intensive cultivation",
+            "MSP/PROCUREMENT -> assured floor price and central pool stocks",
+            "CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not",
+            "  universal across all steppes, and continentality concerns land-dominated thermal range",
+            "  rather than simply distance from a national coastline."
+          ],
+          "source_references": [
+            "Green Revolution and granary conversion",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Savanna-steppe comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LATITUDE -> tropical savanna versus temperate steppe/prairie",
+            "RAINFALL -> wet-and-dry seasonal versus low-total spring maximum",
+            "SOIL -> leached laterising versus base-rich chernozem/prairie",
+            "ECONOMY -> pastoral-subsistence versus mechanised-commercial grain",
+            "EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well",
+            "  as climate; India's wheat belt is a functional comparison with monsoonal irrigation and",
+            "  subtropical seasonality, not a climatic identity."
+          ],
+          "source_references": [
+            "Sustainability and savanna-steppe comparison",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Steppe answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> continental interior grassland with large annual range",
+            "LOCATE -> five regional names on a world map",
+            "EXPLAIN -> moisture deficit, chernozem, granary conversion",
+            "QUALIFY -> anti-determinism: access converted endowment into resource"
+          ],
+          "source_references": [
+            "PYQ boundary and answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

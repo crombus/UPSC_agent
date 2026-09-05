@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-15",
+      "display_title": "Indian Cinema, Film Institutions and Awards",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Composite-art root",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "STORY / LITERATURE -> narrative",
+            "PERFORMANCE + DESIGN -> staged world",
+            "CAMERA + SOUND -> recorded form",
+            "EDITING + CIRCULATION -> cinematic meaning and reach",
+            "MUST REMEMBER: Cinema chronology distinguishes the 1896 Bombay exhibition, Indian-shot and",
+            "  Indian-made shorts, Raja Harishchandra (1913), Fatma Begum's 1926 milestone, Alam-Ara",
+            "  (1931), studio and parallel-cinema phases.",
+            "MUST REMEMBER: Cinema chronology distinguishes the 1896 Bombay exhibition, Indian-shot and",
+            "  Indian-made shorts, Raja Harishchandra (1913), Fatma Begum's 1926 milestone, Alam-Ara",
+            "  (1931), studio and parallel-cinema phases."
+          ],
+          "source_references": [
+            "Cinema as a composite modern art",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Film-form grammar",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CINEMATOGRAPHY -> moving image",
+            "EDITING -> shot arrangement",
+            "MISE-EN-SCENE -> within-frame design",
+            "DOCUMENTARY -> selected non-fiction"
+          ],
+          "source_references": [
+            "Camera, editing and the frame",
+            "Documentary and animation",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Indigenisation timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1896 -> Bombay exhibition",
+            "1897 / 1899 -> Indian-shot and Indian-made shorts",
+            "1907 -> Indian-owned exhibition house",
+            "1913 -> indigenous silent feature"
+          ],
+          "source_references": [
+            "From exhibition to Indian production",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Silent-era circuit",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SILENT IMAGE -> live instruments",
+            "PHALKE -> Raja Harishchandra",
+            "LANKA DAHAN -> box-office milestone",
+            "MASS PUBLIC -> myth, music and reproducibility"
+          ],
+          "source_references": [
+            "Silent film, live music and Phalke",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sound-colour sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931 -> Alam-Ara talkie",
+            "RECORDED SONG -> W.M. Khan",
+            "1933 -> Sairandhri, processed abroad",
+            "1937 -> Kisan Kanya, indigenous colour"
+          ],
+          "source_references": [
+            "Sound transforms cinema",
+            "The colour-film close option",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Two-cinema matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMMERCIAL -> mass entertainment",
+            "PARALLEL -> social-realist alternative",
+            "COMMON -> production and distribution constraints",
+            "LIMIT -> reach and value are not identical"
+          ],
+          "source_references": [
+            "Parallel and commercial cinema",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Representation test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WHAT IS SHOWN? -> representation",
+            "WHO PRODUCED IT? -> institutional choice",
+            "WHO WAS ADDRESSED? -> expected audience",
+            "LIMIT -> not a social census"
+          ],
+          "source_references": [
+            "Representation and social evidence",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Multilingual field",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "LANGUAGE MARKET -> production",
+            "REGIONAL OFFICE -> administration",
+            "DUBBING -> fresh certification issue",
+            "RULE -> Indian cinema exceeds Hindi cinema"
+          ],
+          "source_references": [
+            "Indian cinema as many language markets",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regulatory chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CINEMATOGRAPH ACT -> statutory frame",
+            "CBFC -> certificate and modifications",
+            "PUBLIC EXHIBITION -> legal threshold",
+            "STATES -> enforcement in their domains"
+          ],
+          "source_references": [
+            "Cinematograph Act and CBFC",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Institution function map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FTII -> training",
+            "NFAI -> preservation legacy",
+            "NFDC -> integrated development and promotion",
+            "IFFI / AWARDS -> exhibition and recognition",
+            "CLOSE DISTINCTION: Cinematography, editing and mise-en-scene are different film-form tools;",
+            "  documentary is framed non-fiction, animation is a distinct moving-image method, and first",
+            "  exhibition, first shot film and first indigenous feature are separate claims.",
+            "CLOSE DISTINCTION: Cinematography, editing and mise-en-scene are different film-form tools;",
+            "  documentary is framed non-fiction, animation is a distinct moving-image method, and first",
+            "  exhibition, first shot film and first indigenous feature are separate claims."
+          ],
+          "source_references": [
+            "Training, archive and development",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Recognition firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CERTIFICATE -> exhibition status",
+            "SELECTION -> festival programming",
+            "NOMINATION -> award consideration",
+            "WIN -> exact institution, category and year",
+            "EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and",
+            "  official status; milestone narratives must not imply equality, documentary neutrality or a",
+            "  single-language national cinema.",
+            "EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and",
+            "  official status; milestone narratives must not imply equality, documentary neutrality or a",
+            "  single-language national cinema."
+          ],
+          "source_references": [
+            "Awards, preservation, Boong and PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cinema answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "FORM -> camera, sound and editing",
+            "HISTORY -> dated firsts",
+            "INSTITUTION -> function and law",
+            "QUALIFY -> representation, preservation and award limits"
+          ],
+          "source_references": [
+            "Awards, preservation, Boong and PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-12",
+      "display_title": "Industrial, Chemical, Nuclear and CBRN Emergencies",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Hazard-family matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "INDUSTRIAL -> facility / process / transport accident",
+            "CHEMICAL -> hazardous release fire or reaction",
+            "RADIOLOGICAL / NUCLEAR -> exposure / nuclear-facility context",
+            "CBRN -> umbrella; mechanisms and owners remain distinct"
+          ],
+          "source_references": [
+            "Industrial accident",
+            "Chemical emergency",
+            "Nuclear and radiological emergency",
+            "CBRN category",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Industrial life-cycle rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 DESIGN / MATERIAL SELECTION",
+            "2 MANUFACTURE PROCESS STORAGE TRANSPORT",
+            "3 OPERATION MAINTENANCE AND CHANGE",
+            "4 WASTE DISPOSAL REMEDIATION AND LEARNING"
+          ],
+          "source_references": [
+            "Industrial life cycle",
+            "Process-safety causes",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "NaTech cascade",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FLOOD QUAKE CYCLONE HEAT OR LIFELINE FAILURE",
+            "-> CONTAINMENT / POWER / COOLING / ACCESS STRESS",
+            "-> FIRE EXPLOSION RELEASE OR CONTAMINATION",
+            "-> COMPOUND PUBLIC HEALTH AND ENVIRONMENTAL EMERGENCY"
+          ],
+          "source_references": [
+            "NaTech risk",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Chemical-law boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FACTORIES LAW -> workplace / hazardous-process field",
+            "EPA + MSIHC -> covered hazardous-chemical prevention duties",
+            "CHEMICAL ACCIDENTS RULES -> crisis-group preparedness / response",
+            "PLI ACT -> no-fault immediate civil-relief route"
+          ],
+          "source_references": [
+            "MSIHC boundary",
+            "Chemical Accidents Rules",
+            "Factories-law boundary",
+            "Public Liability boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Nuclear governance boundary",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "ATOMIC ENERGY FRAMEWORK -> CENTRAL TECHNICAL DOMAIN",
+            "DAE -> atomic-energy and emergency coordination role",
+            "AERB -> regulatory safety review / consent functions",
+            "DM AUTHORITIES / NDRF -> public coordination and specialised support"
+          ],
+          "source_references": [
+            "Atomic-energy boundary",
+            "Role separation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "On-site plan",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DETECT / ALARM -> INTERNAL COMMAND",
+            "SOURCE CONTROL / SHUTDOWN OR ISOLATION",
+            "WORKER PROTECTION + ACCOUNTING",
+            "INFORM OUTSIDE AUTHORITY + REQUEST SUPPORT"
+          ],
+          "source_references": [
+            "On-site plan",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Off-site plan",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "FACILITY INFORMATION -> DISTRICT / LOCAL ASSESSMENT",
+            "PUBLIC WARNING -> SHELTER / EVACUATION DECISION",
+            "TRAFFIC HEALTH ENVIRONMENT AND RESOURCE COORDINATION",
+            "MONITOR -> UPDATE -> RECOVERY"
+          ],
+          "source_references": [
+            "Off-site plan",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Actor-role matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "OCCUPIER -> prevent control disclose and support",
+            "REGULATOR -> standards inspection consent enforcement",
+            "LOCAL / DISTRICT -> public protective action and coordination",
+            "SPECIALISED TEAMS -> technical response support"
+          ],
+          "source_references": [
+            "Role separation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Protective-action ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "DETECT / IDENTIFY / MONITOR",
+            "ASSESS AREA AND POPULATION AT RISK",
+            "AUTHORISE SHELTER EVACUATION ACCESS CONTROL",
+            "DECONTAMINATE TRIAGE REFER AND MONITOR"
+          ],
+          "source_references": [
+            "Detection and protection",
+            "Decontamination and medical care",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Risk communication card",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "WHAT HAPPENED + OFFICIAL UNCERTAINTY",
+            "WHO / WHERE + WHAT ACTION",
+            "CARE LOCATION + UPDATE CHANNEL",
+            "RUMOUR CORRECTION WITHOUT STIGMA OR SPECULATION",
+            "MUST REMEMBER: Industrial, chemical, nuclear and biological emergencies require life-..."
+          ],
+          "source_references": [
+            "Public communication",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-12_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Recovery-accountability loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "REMEDIATE SITE AND ENVIRONMENT",
+            "MONITOR HEALTH + RESTORE LIVELIHOODS",
+            "INVESTIGATE DISCLOSE RELIEF / COMPENSATION",
+            "CORRECT DESIGN REGULATION PLAN AND LAND USE",
+            "CLOSE DISTINCTION: Hazardous material is not a released dose; on-site plan is not off-..."
+          ],
+          "source_references": [
+            "Liability and recovery",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-12_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Industrial-CBRN answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY HAZARD -> TRACE LIFE-CYCLE / NATECH FAILURE",
+            "ASSIGN LAW REGULATOR OCCUPIER LOCAL AUTHORITY AND RESPONSE",
+            "CONNECT ON-SITE / OFF-SITE PLANS TO PUBLIC AND MEDICAL ACTION",
+            "END WITH REMEDIATION LIABILITY AND VERIFIED OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Identify enacted law, notified rule,..."
+          ],
+          "source_references": [
+            "Preparedness-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g2\\disaster-management-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-12_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

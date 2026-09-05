@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T13:13:59+00:00",
+  "status": "passed",
+  "errors": [],
+  "checks": {
+    "exact_topic_count": true,
+    "exact_four_deliverable_directories": true,
+    "required_filenames_present": true,
+    "copied_artifact_hashes_equal": true,
+    "source_artifacts_unchanged": true,
+    "tracker_unchanged": true,
+    "no_internal_jargon_in_paths": true,
+    "no_duplicate_topic_destination": true,
+    "all_markdown_links_resolve": true,
+    "ascii_panels_complete_and_equal": true,
+    "ascii_pdf_is_standalone": true,
+    "copied_pdfs_open_no_blank_clipping_or_replacement": true,
+    "approval_pending": true,
+    "latest_tracker_graphical_and_ascii_selected": true
+  },
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "40c318adde9a514a0215cfd25009fcc8c77fbf77e6b30433312933ed597c6572",
+    "sha256_after": "40c318adde9a514a0215cfd25009fcc8c77fbf77e6b30433312933ed597c6572",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "links": {
+    "checked_link_count": 0,
+    "markdown_file_count": 0,
+    "broken_links": [],
+    "passed": true
+  },
+  "library_totals": {
+    "file_count": 9600,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1574,
+    "json_count": 3789,
+    "total_bytes": 4234717242,
+    "by_extension": {
+      ".json": 3789,
+      ".md": 1574,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-13",
+      "destination_folder": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\13-Russian-Revolution-and-USSR-under-Stalin",
+      "status": "passed",
+      "pdf_page_counts": {
+        "complete_learning_session": 70,
+        "solved_practice_workbook": 30,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 70,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 30,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      }
+    }
+  ],
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-2f2e67465290.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-2f2e67465290-validation.json"
+}

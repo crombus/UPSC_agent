@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "section": "paper-i-indian-philosophy",
+  "topic_order": [
+    "philosophy-paper-i-indian-philosophy-01",
+    "philosophy-paper-i-indian-philosophy-02",
+    "philosophy-paper-i-indian-philosophy-03",
+    "philosophy-paper-i-indian-philosophy-04",
+    "philosophy-paper-i-indian-philosophy-05",
+    "philosophy-paper-i-indian-philosophy-06",
+    "philosophy-paper-i-indian-philosophy-07",
+    "philosophy-paper-i-indian-philosophy-08",
+    "philosophy-paper-i-indian-philosophy-09"
+  ],
+  "sequential_stop_policy": "regenerated official-order topic 5 only after revalidating 1-4; topics 6-9 preserved",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-indian-philosophy-pilot.json",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "approval": false,
+  "source_order": [
+    "Markdown knowledge owners",
+    "OCR-searchable local PDFs",
+    "GRETIL critical electronic text for exact Sāṃkhyakārikā readings",
+    "Qdrant not required"
+  ],
+  "results": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "title": "Samkhya (Sāṃkhya)",
+      "generation": 15,
+      "record_id": "philosophy-paper-i-indian-philosophy-05:learner-v2:g15",
+      "approval": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-05_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-05_Solved-Workbook_2026-09-02.pdf",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-english-first-g15",
+      "validation": "passed",
+      "metrics": {
+        "source_pyqs": 10,
+        "output_pyqs": 10,
+        "mcq_count": 56,
+        "mcq_rotation": "A->B->C->D",
+        "main_pdf": {
+          "pages": 72,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 33
+        },
+        "workbook_pdf": {
+          "pages": 23,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 4
+        },
+        "main_layout": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook_layout": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "authoritative_validation": "tools\\validate_v2_export.py (standard learner-v2 workflow)"
+    }
+  ],
+  "shared_state_after": {
+    "EXPORT-PDF-COMMAND-INDEX.md": "f35220ecf705431f89167c0080930cbd9340caed2f0e131ee007d821caa8f291",
+    "EXPORT-PDF-STATUS.json": "4b0ca823e1506847b4b787065278e9907be2726d8a89e01c03cd4d07d38930c0",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json": "c9a9ab7c4af99d34fcd172abc0b8f16f6a98e2536467e452311e85da6ff2b917",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-indian-philosophy-pilot.json": "99d527e30c6e586a0c79c31a18289d0047065a0d5d8e5569ff0b449f60ffcd60",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "3a1326be1a14b02562d1f2edda89b1f6aed036fffd17aef3db40d64da204c192"
+  },
+  "global_checks": {
+    "topic_count": 1,
+    "all_validation_passed": true,
+    "all_approved_false": true,
+    "manifest_complete": true,
+    "later_topics_preserved": true
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "learner-v2-refreshed-2026-08-22",
+  "validated_on": "2026-08-23T07:24:32.002879+05:30",
+  "selection": "topics",
+  "topic_count": 3,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "source_generation": 5,
+      "refreshed_generation": 6,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-01",
+      "main_pdf_pages": 145,
+      "workbook_pdf_pages": 39,
+      "session_count": 10,
+      "mcq_count": 32,
+      "mcq_key_counts": {
+        "A": 8,
+        "B": 8,
+        "C": 8,
+        "D": 8
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\ancient-indian-history-01_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\ancient-indian-history-01_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\ancient-indian-history-01_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\ancient-indian-history-01_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-01\\carvaka-g6"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 145,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 39,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Philosophy-of-Religion",
+      "topic_folder": "Notions-of-God",
+      "main_pdf_pages": 109,
+      "workbook_pdf_pages": 40,
+      "session_count": 13,
+      "mcq_count": 44,
+      "mcq_key_counts": {
+        "A": 11,
+        "B": 11,
+        "C": 11,
+        "D": 11
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 109,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-01",
+      "source_generation": 8,
+      "refreshed_generation": 9,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-01",
+      "main_pdf_pages": 74,
+      "workbook_pdf_pages": 16,
+      "session_count": 17,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\polity-01_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\polity-01_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\polity-01_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\polity-01_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-01\\carvaka-g9"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 74,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    }
+  ]
+}

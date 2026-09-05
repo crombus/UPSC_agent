@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-52-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-52": {
+      "title": "NCRWC and Working of the Constitution",
+      "source_record": "polity-52:learner-v2:g3",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "NCRWC identity, mandate and constitutional boundary",
+          "structural_type": "commission-identity-root",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "ROOT QUESTION\nHow can constitutional performance be reviewed without claiming constituent power?\n\n2000 Government resolution -> temporary executive advisory commission.\nJustice M.N. Venkatachaliah -> chair | 11 members | report submitted in 2002.\n\nMANDATE\nreview fifty years of working -> effective governance + socio-economic development.\n\nBOUNDARY\nparliamentary democracy + basic structure preserved.\n\nVERDICT\nreview of working != rewriting the Constitution."
+        },
+        {
+          "title": "Consultation and institutional identity firewall",
+          "structural_type": "institution-comparison-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "CONSULTATION\npapers + expert studies + public responses + thematic deliberation -> advisory report.\n\nCONSTITUENT ASSEMBLY -> framed Constitution.\nPARLIAMENT/ART 368 -> amends through constitutional procedure.\nLAW COMMISSION -> law-reform reports.\nSARKARIA/PUNCHHI -> Centre-State review.\nNCRWC -> comprehensive working review, no constituent authority.\n\nTRAP\nexpertise and consultation create persuasion, not legal force."
+        },
+        {
+          "title": "Working of the Constitution: text to lived performance",
+          "structural_type": "constitutional-working-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "TEXT\nArticles + Parts + Schedules\n   |\n   v\nINSTITUTIONS\nParliament + executive + courts + federal units + bodies\n   |\n   v\nPRACTICE\nconventions + parties + administration + political incentives\n   |\n   v\nOUTCOMES\nrights + accountability + deliberation + federal trust + remedies.\n\nKesavananda Bharati (1973) -> structural boundary.\nMinerva Mills (1980) -> limited amendment + rights-DPSP harmony."
+        },
+        {
+          "title": "Recommendation clusters without law-status contamination",
+          "structural_type": "recommendation-cluster-grid",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "RIGHTS / DPSP / DUTIES\nnew rights, stronger implementation and proposed duties.\n\nELECTIONS / PARTIES\ncriminalisation, finance, ECI selection, party law and anti-defection.\n\nPARLIAMENT / EXECUTIVE / ADMINISTRATION\nsittings, committees, privileges, ministry size, civil services and integrity.\n\nJUDICIARY / FEDERALISM / LOCAL GOVERNMENT\nappointments, access, Governor, Art 356, councils and devolution.\n\nSTATUS\nevery node = NCRWC recommendation until separately enacted."
+        },
+        {
+          "title": "Implementation audit: exact, modified, similar or pending",
+          "structural_type": "implementation-status-ladder",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "PROPOSAL -> LATER INSTRUMENT -> WORDING -> LEGAL EFFECT -> VERDICT\n\n10% ministry ceiling\n-> 91st Amendment (2003) uses 15% -> modified related reform, not exact adoption.\n\njudicial commission\n-> NJAC enacted 2014, invalidated 2015 -> not current NCRWC design.\n\nparty law + narrow whip\n-> no comprehensive enactment -> substantially pending.\n\ndisaster to Concurrent List\n-> Disaster Management Act 2005, no List transfer -> statutory response, not adoption.\n\nRULE\nchronology + similarity != proven implementation."
+        },
+        {
+          "title": "Accountability, federalism and legislative practice",
+          "structural_type": "accountability-federal-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "ACCOUNTABILITY\nelections | confidence | committees | CAG | transparency | reasons | judicial review.\n\nLEGISLATURE\nsitting time -> scrutiny -> delegated law -> opposition -> financial control.\n\nFEDERAL PRACTICE\nconsultation -> councils -> Governor restraint -> floor test -> negotiated implementation.\n\nS.R. Bommai (1994) -> federal and secular structural enforcement.\n\nTRAP\nmajority strength or coalition form does not itself prove good constitutional working."
+        },
+        {
+          "title": "Constitutional morality and rights enforcement",
+          "structural_type": "morality-rights-balance",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "CONSTITUTIONAL MORALITY\ntext + procedure + equal citizenship + institutional role restraint.\n\nK.S. Puttaswamy (2017)\nprivacy + dignity in modern governance.\n\nNavtej Singh Johar v. Union of India (2018)\nconstitutional morality + transformative rights.\n\nRIGHTS WORKING\nguarantee -> institution -> affordable remedy -> compliance -> public justification.\n\nLIMIT\nmorality is not personal preference; later cases are not NCRWC implementation evidence."
+        },
+        {
+          "title": "Reform-method ladder and feasibility test",
+          "structural_type": "reform-method-decision-tree",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "DIAGNOSE\ntext gap? convention failure? capacity deficit? incentive failure? remedy gap?\n   |\n   +-- practice/convention repair\n   +-- executive rule or capacity\n   +-- ordinary legislation\n   +-- Article 368 amendment\n   |\n   v\nTEST\nbasic structure + rights + federalism + democratic legitimacy\n+ finance + implementation + review.\n\nVERDICT\nuse the least legally sufficient and institutionally workable route."
+        },
+        {
+          "title": "Verified provenance and eleven-member composition",
+          "structural_type": "commission-provenance-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "22 FEBRUARY 2000\nGovernment resolution constitutes NCRWC.\n   |\n   v\nCHAIR + INITIAL MEMBERSHIP\nM.N. Venkatachaliah + ten members = eleven; P.A. Sangma later resigned.\nSecretary Raghbir Singh was not a Commission member.\n   |\n   v\n11 MARCH 2002\nReport adopted and signed.\n   |\n   v\n31 MARCH 2002\nReport presented to the Prime Minister.\n\nVERDICT\nExecutive origin + expert composition produced advice, not constituent authority."
+        },
+        {
+          "title": "Recommendation metrics and exact high-yield proposals",
+          "structural_type": "recommendation-metrics-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "249 RECOMMENDATIONS\n58 constitutional amendment | 86 legislation | 105 executive action.\n\nLEGISLATURE\nLS 120 days | RS 100 | State Houses 90 or 50.\n\nGOVERNMENT\nconstructive no-confidence | 20% notice | alternative leader | 10% ministry ceiling.\n\nJUDICIARY / FEDERALISM\nHC age 65 | SC age 68 | Governor about 6 months | President about 3 months.\n\nRULE\nEach number is a report proposal unless a later legal instrument is separately proved."
+        },
+        {
+          "title": "Performance dashboard and executable answer audit",
+          "structural_type": "constitutional-performance-dashboard",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "PERFORMANCE DASHBOARD\nLegislature -> sittings + scrutiny + finance + debate.\nExecutive -> responsibility + legality + transparency + delivery.\nJudiciary -> access + independence + pendency + accountability.\nFederalism -> consultation + fiscal trust + restraint + dispute resolution.\nLocal government -> functions + funds + functionaries.\nRights -> affordable remedy + compliance + equal citizenship.\n\nANSWER EXECUTION\nidentify demand -> recommendation -> route -> current status -> feasibility -> graded verdict."
+        },
+        {
+          "title": "UPSC synthesis: commission report to constitutional answer",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+          ],
+          "full_text": "PRELIMS FIREWALL\n2000 resolution | Venkatachaliah | 11 members | 2002 report\n| advisory | review, not rewrite | recommendations, not law.\n\nMAINS SPINE\nidentity -> mandate -> working beyond text -> recommendation clusters\n-> implementation audit -> morality/accountability/federal practice -> reform ladder.\n\nPYQ ROUTE\nconstitutional morality | electoral reform | judicial accountability | basic structure.\n\nCONCLUSION\nNCRWC is a diagnostic reform menu subject to constitutional route and present-law verification."
+        }
+      ]
+    }
+  }
+}

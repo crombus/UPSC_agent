@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-18",
+      "display_title": "The Sangam Age & the Deep South",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tamilakam geography and tinai",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "VENKATAM / TIRUPATI HILLS -> conventional northern marker",
+            "WESTERN UPLANDS -> Chera-linked pepper and coast",
+            "KAVERI-MARUTAM -> wet agriculture, Uraiyur and Puhar",
+            "MADURAI-KORKAI -> Pandya court, pearls and southern coast",
+            "TINAI: kurinji | mullai | marutam | neital | palai",
+            "RULE: tinai is a poetic-ecological model, not a fixed revenue or cadastral map."
+          ],
+          "source_references": [
+            "Tamilakam geography",
+            "Tinai",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence and chronology architecture",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "MEGALITHIC / IRON-AGE BACKGROUND",
+            "        -> Ashokan southern-polity references",
+            "        -> Tamil-Brahmi names, donors and offices",
+            "        -> early historic poems, coins, ports and ceramics",
+            "        -> later anthology and redaction",
+            "METHOD: poem + inscription + archaeology + external text",
+            "LIMIT: c. 300 BCE-300 CE is a broad evidentiary horizon, not one synchronized reign."
+          ],
+          "source_references": [
+            "Chronology",
+            "Sources",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Sangam corpus: akam and puram",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+            "AKAM                         PURAM",
+            "interior / love              public / war / gift / fame",
+            "landscape convention         chief, bard and heroic ethic",
+            "social and emotional codes   political-redistributive values",
+            "USE: recover vocabulary and institutions.",
+            "LIMIT: genre and later compilation prevent literal chronicle reading."
+          ],
+          "source_references": [
+            "Sangam corpus",
+            "Genre",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chera, Chola and Pandya comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CHERA -> western routes / pepper / Muchiri / Senguttuvan",
+            "CHOLA -> Kaveri basin / Uraiyur / Puhar / Karikala",
+            "PANDYA -> Madurai / Korkai / pearls / Nedunjeliyan",
+            "MUVENDAR = three crowned lineages in literary memory",
+            "BOUNDARY: named rulers and places do not yield fixed continuous borders.",
+            "TRAP: Sangam Cholas are not the later imperial Cholas."
+          ],
+          "source_references": [
+            "Muvendar",
+            "Dynasties",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chiefship, warfare, gift and fame",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "AGRARIAN / PASTORAL / COASTAL RESOURCES",
+            "                  |",
+            "raids + warfare + tribute / booty",
+            "                  |",
+            "court feast and gifts -> followers + bards + dependants",
+            "                  |",
+            "praise, honour and heroic memory -> renewed legitimacy",
+            "VATTakirutal: defeated ruler's ritual fasting in the heroic code.",
+            "LIMIT: celebratory poems mute producer costs and coercion."
+          ],
+          "source_references": [
+            "Polity",
+            "Warrior redistribution",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Production and internal exchange",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ECOLOGICAL ZONES",
+            "  |-- paddy and wet cultivation",
+            "  |-- cattle and pastoral products",
+            "  |-- fish, salt, pearls, pepper and forest goods",
+            "  `-- weaving, beads, shell, iron and other crafts",
+            "                         |",
+            "markets + chattu caravans + river/coastal movement",
+            "RESULT: diversified local production underpinned courts and overseas exchange."
+          ],
+          "source_references": [
+            "Economy",
+            "Crafts",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Port and hinterland network",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HINTERLAND PRODUCTION -> MARKET / CARAVAN -> PORT",
+            "KAVERI BASIN --------------------------------------> PUHAR",
+            "PANDYA SOUTH / PEARL ZONE ------------------------> KORKAI",
+            "WESTERN PEPPER CIRCUITS --------------------------> MUCHIRI / MUZIRIS TRADITION",
+            "PORT FUNCTIONS: aggregation + customs + shipping + redistribution",
+            "RULE: no port flourished without inland producers, routes and consumers."
+          ],
+          "source_references": [
+            "Ports",
+            "Trade",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mediterranean links, Arikamedu and Pattanam",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "COINS + AMPHORAE + CERAMICS + PAPYRUS / CLASSICAL TEXTS",
+            "                         |",
+            "Indian Ocean and Mediterranean-linked exchange",
+            "ARIKAMEDU: earlier settlement + local craft + imported material",
+            "PATTANAM: major connected port evidence; Muziris identification debated",
+            "NOT PROVED: Roman colony, Roman sovereignty or foreign creation of Tamil economy.",
+            "VERDICT: multi-nodal contact amplified indigenous production and routes."
+          ],
+          "source_references": [
+            "Arikamedu",
+            "Muziris debate",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Society, labour, women and varna",
+          "structural_type": "social-matrix",
+          "ascii_lines": [
+            "COURT ELITES / CHIEFS / BARDS / WARRIORS",
+            "MERCHANTS / ARTISANS / CULTIVATORS / PASTORALISTS",
+            "FISHERS / SALT WORKERS / OTHER DEPENDANT LABOUR",
+            "WOMEN: poetry, spinning, fishing, salt exchange and household work",
+            "VARNA vocabulary was known; regional social practice was not a neat four-box census.",
+            "RULE: occupational visibility or named women does not prove equality."
+          ],
+          "source_references": [
+            "Society",
+            "Women and varna",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Religion, culture and megalithic context",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "MURUGAN / MAYON / KORRAVAI + Brahmanical vocabulary",
+            "JAIN / BUDDHIST donors and cave contexts",
+            "HEROIC AND MORTUARY MEMORY -> poems, stones and burials",
+            "MEGALITHS -> varied forms, grave goods, iron and pottery",
+            "LIMIT: burial evidence does not automatically disclose settlement map or exact belief.",
+            "CULTURE: plurality emerged through local traditions and wider exchanges."
+          ],
+          "source_references": [
+            "Religion",
+            "Megaliths",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chiefdom-to-state debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CHIEFDOM READING -> personal retinue, raid, gift and bardic prestige",
+            "STATE READING -> centres, extraction, titles, offices and durable lineages",
+            "EVIDENCE -> ko/kon, Pugalur, Mangulam, ports and agrarian cores",
+            "TRADE -> amplifier, not sole creator",
+            "IRON -> enabling technology, not sole cause",
+            "VERDICT: uneven movement toward early states; regional and reversible."
+          ],
+          "source_references": [
+            "State formation",
+            "Historiography",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "PYQ and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "PRELIMS: varna awareness | ports | Vattakirutal | ruler-lineage pairs",
+            "MAINS OPENING: evidentiary horizon, not one synchronized dynasty block",
+            "BODY 1: geography and source method",
+            "BODY 2: polity + economy + society + culture",
+            "BODY 3: port-hinterland mechanism and one historiographical debate",
+            "QUALIFY: genre, chronology, identification and representativeness",
+            "VERDICT: connected, uneven chiefdom-to-early-state Tamilakam."
+          ],
+          "source_references": [
+            "PYQs",
+            "Answer architecture",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\g3\\ancient-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

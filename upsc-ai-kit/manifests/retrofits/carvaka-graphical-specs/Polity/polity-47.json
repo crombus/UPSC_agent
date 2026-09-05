@@ -1,0 +1,1348 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-47",
+  "subject": "Polity",
+  "title": "COMPARATIVE CONSTITUTIONAL DESIGN",
+  "short_route": "METHOD → ADAPTATION → FORMS → EXECUTIVES → FEDERALISM → REVIEW → RIGHTS → AMENDMENT → SECULARISM → OFFICES → PYQS → SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "REVALIDATION PASSED — EXPLICIT APPROVAL PENDING",
+    "line": "Approval: FALSE • immutable g5 review candidate • twelve complete Core stages • prior generations preserved"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "416e9ff33908392c85038a78d2f76befb9fbad314ee277547d4d77ce56bf75d7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMPARE FUNCTIONS AND CONTEXTS, NOT COUNTRY LABELS",
+      "structural_type": "comparative-method-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPARE FUNCTIONS AND CONTEXTS, NOT COUNTRY LABELS",
+          "role": "caution"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY DOES THE SAME CONSTITUTIONAL INSTITUTION BEHAVE DIFFERENTLY AFTER",
+          "role": "institution"
+        },
+        {
+          "text": "COMPARATIVE METHOD FUNCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE MODEL",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN TEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL/FEDERAL CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "JUDICIAL INTERPRETATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "Why does the same constitutional institution behave differently after transplantation?",
+        "COMPARATIVE METHOD function → source model → Indian text → social/federal context",
+        "judicial interpretation → political practice → consequence.",
+        "AXES codification/rigidity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "Why does the same constitutional institution behave differently after transplantation?"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMPARATIVE METHOD function → source model → Indian text → social/federal context",
+            "judicial interpretation → political practice → consequence."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "AXES codification/rigidity",
+            "executive-legislative relation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "federal distribution rights/remedies",
+            "\"borrowed from\" without adaptation and purpose is a memory list, not constitutional analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The same institution can operate differently because of party systems, conventions, federal structure, political history and judicial doctrine Applied here to compare functions and contexts, not country labels Applied here to compare functions and contexts, not country labels Applied here to compare functions and contexts, not country labels Applied here to compare functions and contexts, not country labels.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BORROWED SOURCE VERSUS INDIAN CONSTITUTIONAL ADAPTATION",
+      "structural_type": "adaptation-chain",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE INFLUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "UK · US · CANADA · IRELAND · AUSTRALIA",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN FILTER",
+          "role": "mechanism"
+        },
+        {
+          "text": "REPUBLIC · FEDERAL DIVERSITY · SOCIAL TRANSFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TEXT + DOCTRINE + PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE IS NOT OPERATIONAL IDENTITY",
+          "role": "caution"
+        },
+        {
+          "text": "ADAPTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW CONSTITUTIONAL CONSEQUENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SOURCE INFLUENCE",
+        "UK · US · CANADA · IRELAND · AUSTRALIA",
+        "INDIAN FILTER",
+        "REPUBLIC · FEDERAL DIVERSITY · SOCIAL TRANSFORMATION",
+        "TEXT + DOCTRINE + PRACTICE",
+        "SOURCE IS NOT OPERATIONAL IDENTITY",
+        "ADAPTATION",
+        "NEW CONSTITUTIONAL CONSEQUENCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FUNCTION / SOURCE",
+          "role": "institution",
+          "items": [
+            "SOURCE INFLUENCE",
+            "UK · US · CANADA · IRELAND · AUSTRALIA"
+          ]
+        },
+        {
+          "heading": "INDIAN ADAPTATION",
+          "role": "mechanism",
+          "items": [
+            "INDIAN FILTER",
+            "REPUBLIC · FEDERAL DIVERSITY · SOCIAL TRANSFORMATION"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEXT + DOCTRINE + PRACTICE",
+            "SOURCE IS NOT OPERATIONAL IDENTITY"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "ADAPTATION",
+            "NEW CONSTITUTIONAL CONSEQUENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India selected and transformed foreign techniques; constitutional ancestry does not establish present institutional identity Applied here to borrowed source versus indian constitutional adaptation.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md#12-borrowed-provision-versus-adapted-design"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WRITTEN, UNWRITTEN, RIGID AND FLEXIBLE CONSTITUTIONAL FORMS",
+      "structural_type": "constitution-form-matrix",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WRITTEN, UNWRITTEN, RIGID AND FLEXIBLE CONSTITUTIONAL FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "UK UNCODIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTES + COMMON LAW + CONVENTIONS + AUTHORITATIVE PRACTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICALLY FLEXIBLE UNDER PARLIAMENTARY SOVEREIGNTY.",
+          "role": "evidence"
+        },
+        {
+          "text": "USA CODIFIED, SUPREME AND COMPARATIVELY RIGID.",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA CODIFIED AND SUPREME; AMENDMENT ROUTES RANGE FROM SIMPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH AFRICA",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMANY WRITTEN TRANSFORMATIVE/POST-AUTHORITARIAN CONSTITUTIONS WITH ENTRENCHED PRINCIPLES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UK uncodified: statutes + common law + conventions + authoritative practice",
+        "politically flexible under parliamentary sovereignty.",
+        "USA codified, supreme and comparatively rigid.",
+        "INDIA codified and supreme; amendment routes range from simple majority to special majority and State",
+        "SOUTH AFRICA / GERMANY written transformative/post-authoritarian constitutions with entrenched principles."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UK uncodified: statutes + common law + conventions + authoritative practice",
+            "politically flexible under parliamentary sovereignty."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "USA codified, supreme and comparatively rigid.",
+            "INDIA codified and supreme; amendment routes range from simple majority to special majority and State ratification."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOUTH AFRICA / GERMANY written transformative/post-authoritarian constitutions with entrenched principles.",
+            "CONTROL written != rigid; unwritten != lawless; flexibility and supremacy are separate variables."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "UK uncodified: statutes + common law + conventions + authoritative practice",
+            "politically flexible under parliamentary sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A constitutional scheme organises sovereignty, institutions, rights, territorial power and accountability, rather than merely listing provisions borrowed from foreign constitutions Applied here to written, unwritten, rigid and flexible constitutional forms Applied here to written, unwritten, rigid and flexible constitutional forms Applied here to written, unwritten, rigid and flexible constitutional forms Applied here to written, unwritten, rigid and flexible constitutional forms.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PARLIAMENTARY, PRESIDENTIAL AND SEMI-PRESIDENTIAL EXECUTIVES",
+      "structural_type": "executive-model-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PARLIAMENTARY, PRESIDENTIAL AND SEMI-PRESIDENTIAL EXECUTIVES",
+          "role": "primary"
+        },
+        {
+          "text": "UK PARLIAMENTARY FUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLECTIVE RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NOMINAL/FORMAL HEAD DISTINCTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "USA PRESIDENTIAL SEPARATION",
+          "role": "primary"
+        },
+        {
+          "text": "FIXED TENURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATELY ELECTED EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATIVE CHECKS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA / UK parliamentary fusion",
+        "collective responsibility",
+        "nominal/formal head distinction.",
+        "USA presidential separation",
+        "fixed tenure"
+      ],
+      "matrix": [
+        [
+          "INDIA / UK parliamentary fusion",
+          "collective responsibility",
+          "confidence",
+          "nominal/formal head distinction."
+        ],
+        [
+          "USA presidential separation",
+          "fixed tenure",
+          "separately elected executive",
+          "legislative checks."
+        ],
+        [
+          "FRANCE semi-presidential dual executive",
+          "directly elected President",
+          "responsible Prime Minister cohabitation when parliamentary majority differs.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDIA / UK parliamentary fusion",
+            "collective responsibility",
+            "nominal/formal head distinction.",
+            "USA presidential separation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "fixed tenure",
+            "separately elected executive",
+            "legislative checks.",
+            "FRANCE semi-presidential dual executive"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "directly elected President",
+            "responsible Prime Minister cohabitation when parliamentary majority differs.",
+            "GERMANY constructive vote of no confidence strengthens parliamentary stability.",
+            "SWITZERLAND collegial Federal Council and direct-democratic context."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Indian President != US President; parliamentary fusion != absence of checks."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Parliamentary, presidential and semi-presidential systems distribute executive legitimacy and legislative responsibility differently, producing distinct risks of instability, deadlock or dual authority Applied here to parliamentary, presidential and semi-presidential executives Applied here to parliamentary, presidential and semi-presidential executives Applied here to parliamentary, presidential and semi-presidential executives Applied here to parliamentary, presidential and semi-presidential executives.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FEDERAL, UNITARY AND HYBRID DESIGN WITH UPPER HOUSES",
+      "structural_type": "federal-bicameral-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FEDERAL, UNITARY AND HYBRID DESIGN WITH UPPER HOUSES",
+          "role": "primary"
+        },
+        {
+          "text": "USA COORDINATE FEDERALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE EQUALITY IN SENATE",
+          "role": "institution"
+        },
+        {
+          "text": "DUAL CITIZENSHIP/COURT FEATURES.",
+          "role": "institution"
+        },
+        {
+          "text": "CANADA FEDERAL WITH STRONG-CENTRE AND RESIDUARY FEDERAL POWER INFLUENCES.",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUSTRALIA FEDERAL DIVISION + STRONG ELECTED SENATE + CONCURRENT/TRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION/STATE/CONCURRENT LISTS",
+          "role": "institution"
+        },
+        {
+          "text": "UNION RESIDUARY POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "USA coordinate federalism",
+        "State equality in Senate",
+        "dual citizenship/court features.",
+        "CANADA federal with strong-centre and residuary federal power influences.",
+        "AUSTRALIA federal division + strong elected Senate + concurrent/trade inspirations."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "USA coordinate federalism",
+          "AUSTRALIA federal division + strong elected Senate + concurrent/trade inspirations.",
+          "emergency centralisation",
+          "German Bundesrat represents Land governments."
+        ],
+        [
+          "State equality in Senate",
+          "Union/State/Concurrent Lists",
+          "UPPER HOUSES",
+          "TRAP bicameral label does not imply identical federal representation."
+        ],
+        [
+          "dual citizenship/court features.",
+          "Union residuary power",
+          "Rajya Sabha population-weighted, indirectly elected and unequal",
+          ""
+        ],
+        [
+          "CANADA federal with strong-centre and residuary federal power influences.",
+          "single citizenship integrated judiciary",
+          "US Senate State-equal and appointment-confirming",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "USA coordinate federalism",
+            "State equality in Senate",
+            "dual citizenship/court features.",
+            "CANADA federal with strong-centre and residuary federal power influences."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AUSTRALIA federal division + strong elected Senate + concurrent/trade inspirations.",
+            "Union/State/Concurrent Lists",
+            "Union residuary power",
+            "single citizenship integrated judiciary"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "emergency centralisation",
+            "UPPER HOUSES",
+            "Rajya Sabha population-weighted, indirectly elected and unequal",
+            "US Senate State-equal and appointment-confirming"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "German Bundesrat represents Land governments.",
+            "TRAP bicameral label does not imply identical federal representation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Upper Houses express federalism differently through unequal or equal State representation, selection methods and powers, so bicameralism alone does not establish federal equivalence Applied here to federal, unitary and hybrid design with upper houses Applied here to federal, unitary and hybrid design with upper houses Applied here to federal, unitary and hybrid design with upper houses Applied here to federal, unitary and hybrid design with upper houses.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SUPREMACY, JUDICIAL REVIEW AND CONSTITUTIONAL COURTS",
+      "structural_type": "review-sovereignty-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SUPREMACY, JUDICIAL REVIEW AND CONSTITUTIONAL COURTS",
+          "role": "primary"
+        },
+        {
+          "text": "UK PARLIAMENTARY SOVEREIGNTY WITH RIGHTS AND DEVOLUTION QUALIFICATIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "USA WRITTEN SUPREMACY + DIFFUSE JUDICIAL REVIEW THROUGH ORDINARY",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMANY SPECIALISED FEDERAL CONSTITUTIONAL COURT.",
+          "role": "institution"
+        },
+        {
+          "text": "SUPREME COURT + HIGH COURTS EXERCISE DIFFUSE REVIEW, WRITS",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT REMAINS CONSTITUTION-LIMITED.",
+          "role": "outcome"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC STRUCTURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UK parliamentary sovereignty with rights and devolution qualifications.",
+        "USA written supremacy + diffuse judicial review through ordinary courts.",
+        "GERMANY specialised Federal Constitutional Court.",
+        "Supreme Court + High Courts exercise diffuse review, writs and federal adjudication",
+        "Parliament remains Constitution-limited."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UK parliamentary sovereignty with rights and devolution qualifications.",
+            "USA written supremacy + diffuse judicial review through ordinary courts.",
+            "GERMANY specialised Federal Constitutional Court.",
+            "Supreme Court + High Courts exercise diffuse review, writs and federal adjudication"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Parliament remains Constitution-limited.",
+            "Kesavananda Bharati (1973) → basic structure.",
+            "Minerva Mills (1980) → limited amendment and FR-DPSP harmony.",
+            "First Judges Case (1981) → initial executive primacy."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Second Judges Case (1993) → collegium and judicial primacy.",
+            "Third Judges Case (1998) → collegium consultation enlarged.",
+            "Fourth Judges Case (2015) → judicial-independence control of NJAC.",
+            "S.R. Bommai (1994) → federalism and secularism as basic-structure controls."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Indian judicial review is not borrowed as an unlimited US copy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional supremacy subjects legislation to higher law and judicial review, whereas parliamentary sovereignty locates final ordinary law-making authority in the legislature Applied here to supremacy, judicial review and constitutional courts Applied here to supremacy, judicial review and constitutional courts Applied here to supremacy, judicial review and constitutional courts Applied here to supremacy, judicial review and constitutional courts.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RIGHTS, DUE PROCESS AND SOCIO-ECONOMIC DIRECTIVES",
+      "structural_type": "rights-model-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS, DUE PROCESS AND SOCIO-ECONOMIC DIRECTIVES",
+          "role": "mechanism"
+        },
+        {
+          "text": "USA RIGHTS TRADITION + DUE PROCESS + STRONG JUDICIAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "FUNDAMENTAL RIGHTS + ARTICLE 32/226 REMEDIES",
+          "role": "institution"
+        },
+        {
+          "text": "DIRECTIVE PRINCIPLES + DUTIES + REASONABLE-RESTRICTION ARCHITECTURE.",
+          "role": "evidence"
+        },
+        {
+          "text": "IRELAND DIRECTIVE-PRINCIPLE INSPIRATION, ADAPTED TO INDIAN TRANSFORMATIVE GOVERNANCE.",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTH AFRICA EXPRESS JUSTICIABLE SOCIO-ECONOMIC RIGHTS AND PROPORTIONALITY CONTEXT.",
+          "role": "outcome"
+        },
+        {
+          "text": "\"PROCEDURE ESTABLISHED BY LAW\" TEXTUAL INFLUENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "MANEKA GANDHI (1978) ADDS FAIRNESS, NON-ARBITRARINESS AND REASONABLENESS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "USA rights tradition + due process + strong judicial enforcement.",
+        "Fundamental Rights + Article 32/226 remedies",
+        "Directive Principles + duties + reasonable-restriction architecture.",
+        "IRELAND directive-principle inspiration, adapted to Indian transformative governance.",
+        "SOUTH AFRICA express justiciable socio-economic rights and proportionality context."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "USA rights tradition + due process + strong judicial enforcement.",
+          "IRELAND directive-principle inspiration, adapted to Indian transformative governance.",
+          "\"procedure established by law\" textual influence.",
+          "procedure is not post-Maneka Gandhi (1978) formalism."
+        ],
+        [
+          "Fundamental Rights + Article 32/226 remedies",
+          "SOUTH AFRICA express justiciable socio-economic rights and proportionality context.",
+          "Maneka Gandhi (1978) adds fairness, non-arbitrariness and reasonableness.",
+          ""
+        ],
+        [
+          "Directive Principles + duties + reasonable-restriction architecture.",
+          "JAPAN / INDIA",
+          "Indian DPSPs are not operationally identical to Ireland",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "USA rights tradition + due process + strong judicial enforcement.",
+            "Fundamental Rights + Article 32/226 remedies",
+            "Directive Principles + duties + reasonable-restriction architecture."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "IRELAND directive-principle inspiration, adapted to Indian transformative governance.",
+            "SOUTH AFRICA express justiciable socio-economic rights and proportionality context.",
+            "JAPAN / INDIA"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "\"procedure established by law\" textual influence.",
+            "Maneka Gandhi (1978) adds fairness, non-arbitrariness and reasonableness.",
+            "Indian DPSPs are not operationally identical to Ireland"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "procedure is not post-Maneka Gandhi (1978) formalism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rights systems differ in text and enforceability, but comparative assessment must examine remedies, limitations and judicial doctrine rather than count enumerated rights alone Applied here to rights, due process and socio-economic directives Applied here to rights, due process and socio-economic directives Applied here to rights, due process and socio-economic directives Applied here to rights, due process and socio-economic directives.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AMENDMENT, EMERGENCY AND ELECTORAL DESIGN",
+      "structural_type": "change-crisis-election-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AMENDMENT, EMERGENCY AND ELECTORAL DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "UK POLITICAL FLEXIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "USA HIGH RIGIDITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA MULTI-TRACK ARTICLE 368",
+          "role": "institution"
+        },
+        {
+          "text": "GERMANY ETERNITY CLAUSE",
+          "role": "primary"
+        },
+        {
+          "text": "SWITZERLAND REFERENDUM ROUTES.",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973) BASIC STRUCTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UK political flexibility",
+        "USA high rigidity",
+        "India multi-track Article 368",
+        "Germany eternity clause",
+        "Switzerland referendum routes."
+      ],
+      "matrix": [
+        [
+          "UK political flexibility",
+          "USA high rigidity",
+          "India multi-track Article 368"
+        ],
+        [
+          "Germany eternity clause",
+          "Switzerland referendum routes.",
+          ""
+        ],
+        [
+          "India/UK FPTP legislatures",
+          "US electoral college Presidency",
+          ""
+        ],
+        [
+          "France two-round Presidency",
+          "Germany mixed-member",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UK political flexibility",
+            "USA high rigidity",
+            "India multi-track Article 368",
+            "Germany eternity clause",
+            "Switzerland referendum routes."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INDIAN CONTROL",
+            "Kesavananda Bharati (1973) basic structure",
+            "I.R. Coelho (2007) post-1973 Ninth Schedule review.",
+            "India: Articles 352/356/360 with 44th-Amendment safeguards and review.",
+            "Germany: post-authoritarian safeguards."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "France: distinct presidential emergency design.",
+            "India/UK FPTP legislatures",
+            "US electoral college Presidency",
+            "France two-round Presidency",
+            "Germany mixed-member"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Switzerland referendums/initiatives.",
+            "TRAP electoral system follows office and party-system context; no model is universally superior."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Amendment design balances adaptability with constitutional identity through different thresholds, while India's basic-structure doctrine adds a judicial limit beyond formal procedure Applied here to amendment, emergency and electoral design Applied here to amendment, emergency and electoral design Applied here to amendment, emergency and electoral design Applied here to amendment, emergency and electoral design.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SECULARISM AND ACCOUNTABILITY INSTITUTIONS",
+      "structural_type": "secular-watchdog-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SECULARISM AND ACCOUNTABILITY INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCIPLED ENGAGEMENT, EQUALITY AND REFORM.",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-ESTABLISHMENT + FREE EXERCISE.",
+          "role": "comparison"
+        },
+        {
+          "text": "LAICITE AND REPUBLICAN PUBLIC SPHERE.",
+          "role": "evidence"
+        },
+        {
+          "text": "COOPERATIVE CHURCH-STATE ARRANGEMENTS.",
+          "role": "institution"
+        },
+        {
+          "text": "INDIA CAG",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL WESTMINSTER ADAPTATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY OMBUDSMAN, NOT CONSTITUTIONAL COURT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "India: principled engagement, equality and reform.",
+        "USA: non-establishment + free exercise.",
+        "France: laicite and republican public sphere.",
+        "Germany: cooperative church-State arrangements.",
+        "India CAG: constitutional Westminster adaptation."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "India: principled engagement, equality and reform.",
+          "Germany: cooperative church-State arrangements.",
+          "Finance Commission: periodic expert federal-transfer body.",
+          "Germany: cooperative church-State arrangements."
+        ],
+        [
+          "USA: non-establishment + free exercise.",
+          "India CAG: constitutional Westminster adaptation.",
+          "ECI: central constitutional election management.",
+          ""
+        ],
+        [
+          "France: laicite and republican public sphere.",
+          "Lokpal: statutory ombudsman, not constitutional court.",
+          "COMPARATIVE LESSON appointment, jurisdiction, remedy and political context matter more than institutional label.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "India: principled engagement, equality and reform.",
+            "USA: non-establishment + free exercise.",
+            "France: laicite and republican public sphere."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Germany: cooperative church-State arrangements.",
+            "India CAG: constitutional Westminster adaptation.",
+            "Lokpal: statutory ombudsman, not constitutional court."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Finance Commission: periodic expert federal-transfer body.",
+            "ECI: central constitutional election management.",
+            "COMPARATIVE LESSON appointment, jurisdiction, remedy and political context matter more than institutional label."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Germany: cooperative church-State arrangements."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian secularism permits principled engagement and social reform, while the American model emphasises non-establishment and free exercise; neither system creates an absolute wall Applied here to secularism and accountability institutions Applied here to secularism and accountability institutions Applied here to secularism and accountability institutions Applied here to secularism and accountability institutions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CONSTITUTIONAL OFFICES AND TERRITORIAL CHAMBERS",
+      "structural_type": "office-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARE THE SAME OFFICE",
+          "role": "primary"
+        },
+        {
+          "text": "APPOINTMENT · TENURE · POWER",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDIA ≠ USA ≠ FRANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "UPPER HOUSES",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJYA SABHA ≠ SENATE ≠ BUNDESRAT",
+          "role": "caution"
+        },
+        {
+          "text": "ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVICE · REMOVAL · REVIEW",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COMPARE THE SAME OFFICE",
+        "APPOINTMENT · TENURE · POWER",
+        "PRESIDENTS",
+        "INDIA ≠ USA ≠ FRANCE",
+        "UPPER HOUSES",
+        "RAJYA SABHA ≠ SENATE ≠ BUNDESRAT",
+        "ACCOUNTABILITY",
+        "ADVICE · REMOVAL · REVIEW"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FUNCTION / SOURCE",
+          "role": "institution",
+          "items": [
+            "COMPARE THE SAME OFFICE",
+            "APPOINTMENT · TENURE · POWER"
+          ]
+        },
+        {
+          "heading": "INDIAN ADAPTATION",
+          "role": "mechanism",
+          "items": [
+            "PRESIDENTS",
+            "INDIA ≠ USA ≠ FRANCE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "UPPER HOUSES",
+            "RAJYA SABHA ≠ SENATE ≠ BUNDESRAT"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "ACCOUNTABILITY",
+            "ADVICE · REMOVAL · REVIEW"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A common institutional title does not prove a common mandate, power or accountability structure Applied here to constitutional offices and territorial chambers.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md#10-heads-of-state-and-pardon-power"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VERIFIED PYQS AND COMPARATIVE ANSWER EXECUTION",
+      "structural_type": "comparative-pyq-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "2018 INDIA-USA",
+          "role": "primary"
+        },
+        {
+          "text": "2019 FRANCE-SECULARISM",
+          "role": "institution"
+        },
+        {
+          "text": "2020 INDIA-UK COURTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "2022 PRESIDENTIAL ELECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "2023 SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "2024 SECULARISM",
+          "role": "caution"
+        },
+        {
+          "text": "2025 PARDON + JUDGES",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNCTION → DIFFERENCE → CONSEQUENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "2018 INDIA-USA",
+        "2019 FRANCE-SECULARISM",
+        "2020 INDIA-UK COURTS",
+        "2022 PRESIDENTIAL ELECTIONS",
+        "2023 SOVEREIGNTY",
+        "2024 SECULARISM",
+        "2025 PARDON + JUDGES",
+        "FUNCTION → DIFFERENCE → CONSEQUENCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FUNCTION / SOURCE",
+          "role": "institution",
+          "items": [
+            "2018 INDIA-USA",
+            "2019 FRANCE-SECULARISM"
+          ]
+        },
+        {
+          "heading": "INDIAN ADAPTATION",
+          "role": "mechanism",
+          "items": [
+            "2020 INDIA-UK COURTS",
+            "2022 PRESIDENTIAL ELECTIONS"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2023 SOVEREIGNTY",
+            "2024 SECULARISM"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "2025 PARDON + JUDGES",
+            "FUNCTION → DIFFERENCE → CONSEQUENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A high-scoring comparison holds the function constant, explains institutional difference and carries it to constitutional consequence Applied here to verified pyqs and comparative answer execution.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md#pyqs-and-answer-practice"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDIA'S HYBRID ADAPTATION AND UPSC SYNTHESIS",
+      "structural_type": "comparative-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDIA'S HYBRID ADAPTATION AND UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN HYBRID",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITISH RESPONSIBLE GOVERNMENT + WRITTEN SUPREMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "US RIGHTS/REVIEW + CANADIAN STRONG-CENTRE FEDERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "IRISH DIRECTIVES + AUSTRALIAN FEDERAL TECHNIQUES",
+          "role": "primary"
+        },
+        {
+          "text": "GERMAN EMERGENCY LESSONS + SOUTH AFRICAN TRANSFORMATIVE COMPARISON.",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL UNCODIFIED",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATIVE SUPREMACY IN INDIA FEDERAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN HYBRID",
+        "British responsible government + written supremacy",
+        "US rights/review + Canadian strong-centre federation",
+        "Irish directives + Australian federal techniques",
+        "German emergency lessons + South African transformative comparison."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDIAN HYBRID",
+            "British responsible government + written supremacy",
+            "US rights/review + Canadian strong-centre federation",
+            "Irish directives + Australian federal techniques"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "German emergency lessons + South African transformative comparison.",
+            "PRELIMS FIREWALL uncodified != unwritten",
+            "parliamentary != legislative supremacy in India federal != equal upper-house seats",
+            "President titles != powers borrowed != copied"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DPSP != enforceable right",
+            "Rajya Sabha != US Senate.",
+            "MAINS MATRIX design → commonality → difference → reason → consequence → qualification.",
+            "India's Constitution is original in synthesis: foreign techniques were re-engineered for democratic responsibility, social transformation, federal diversity and"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "judicially limited power."
+          ]
+        }
+      ],
+      "mechanism_strip": "India's Constitution is original in synthesis: foreign techniques were re-engineered for democratic responsibility, social transformation, federal diversity and judicially limited power.",
+      "answer_line": "Germany reaches a comparable protective objective through an express eternity clause; India's limit is judicially developed Applied here to india's hybrid adaptation and upsc synthesis Applied here to india's hybrid adaptation and upsc synthesis Applied here to india's hybrid adaptation and upsc synthesis Applied here to india's hybrid adaptation and upsc synthesis.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL CLEAVAGES AND STATE CAPACITY",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL CULTURE AND CONVENTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERACTION WITH OTHER CONSTITUTIONAL INSTITUTIONS; AND",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER JUDICIAL AND POLITICAL DEVELOPMENT.",
+          "role": "primary"
+        },
+        {
+          "text": "COMING TOGETHER",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVIOUSLY AUTONOMOUS UNITS POOL SOVEREIGNTY, OFTEN RETAINING STRONG",
+          "role": "comparison"
+        },
+        {
+          "text": "HOLDING TOGETHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "social cleavages and state capacity;",
+            "legal culture and conventions;",
+            "interaction with other constitutional institutions; and",
+            "later judicial and political development."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Coming together: previously autonomous units pool sovereignty, often retaining strong",
+            "Holding together: a larger polity constitutionally distributes power to manage diversity",
+            "Symmetric federalism: units have broadly similar constitutional powers.",
+            "Asymmetric federalism: selected units receive differentiated arrangements because of history,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "self-rule: constitutionally protected policy space of units; and",
+            "shared rule: meaningful unit participation in national decisions.",
+            "shift distributive choices from elected branches;",
+            "incentivise political actors to avoid responsibility;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

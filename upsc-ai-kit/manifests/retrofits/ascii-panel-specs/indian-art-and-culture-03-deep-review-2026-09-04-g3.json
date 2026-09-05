@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-03",
+      "display_title": "Temple Architecture and Chandella Khajuraho",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Temple ritual sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "JAGATI -> elevated sacred platform",
+            "MANDAPA -> congregational approach",
+            "ANTARALA -> transition to sanctum",
+            "GARBHAGRIHA -> deity and ritual focus",
+            "MUST REMEMBER: Temple form moves from Gupta structural experiments toward differentiated",
+            "  Nagara, Dravida and Deccan solutions; Khajuraho's jagati, axial halls, garbhagriha and",
+            "  clustered shikhara belong within Chandella patronage.",
+            "MUST REMEMBER: Temple form moves from Gupta structural experiments toward differentiated",
+            "  Nagara, Dravida and Deccan solutions; Khajuraho's jagati, axial halls, garbhagriha and",
+            "  clustered shikhara belong within Chandella patronage."
+          ],
+          "source_references": [
+            "Temple space and ritual movement",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional morphology",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NAGARA -> curvilinear shikhara",
+            "DRAVIDA -> tiered vimana and enclosure",
+            "DECCAN -> selective northern-southern grammar",
+            "EASTERN -> brick, terracotta and Bangla roof"
+          ],
+          "source_references": [
+            "From Gupta shrine to regional schools",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Khajuraho power-to-form",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CHANELLA ASSERTION -> visible patronage need",
+            "DHANGA -> maharajadhiraja context",
+            "TEMPLE CLUSTER -> sovereignty in stone",
+            "LIMIT -> no invented victory dedication"
+          ],
+          "source_references": [
+            "Chandella sovereignty and patronage",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Khajuraho axial chain",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ARDHAMANDAPA -> entrance porch",
+            "MANDAPA -> hall",
+            "ANTARALA -> vestibule",
+            "GARBHAGRIHA + SHIKHARA -> sacred climax"
+          ],
+          "source_references": [
+            "Khajuraho plan and massing",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mountain silhouette",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "MAIN SHIKHARA -> central vertical mass",
+            "URUSHRINGAS -> clustered replica spires",
+            "JAGATI -> raised horizontal base",
+            "RESULT -> mountain-range composition"
+          ],
+          "source_references": [
+            "Khajuraho plan and massing",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Breadth-of-life ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SACRED -> deities and worshippers",
+            "SOCIAL -> teachers, dancers and musicians",
+            "IMAGINATIVE -> vyalas and narrative forms",
+            "INTIMATE -> maithuna as one register"
+          ],
+          "source_references": [
+            "Vigour and breadth",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Chausath Yogini distinction",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KHAJURAHO -> Chandella landscape",
+            "KHAJURAHO FORM -> open-air granite enclosure",
+            "MITAOLI -> near Morena, Kachchhapaghata",
+            "MITAOLI FORM -> circular; popular Parliament link"
+          ],
+          "source_references": [
+            "Chausath Yogini identification",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Pallava transition",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAHENDRAVARMAN -> rock-cut mandapas",
+            "MAMALLA -> monolithic Pancha Rathas",
+            "RAJASIMHA -> structural Shore Temple",
+            "LEGACY -> Chola structural expansion"
+          ],
+          "source_references": [
+            "Pallava transition",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Chola achievement system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GRANITE TEMPLE -> monumental state form",
+            "BRONZE + MURAL -> portable and painted art",
+            "INSCRIPTION -> administration and patronage",
+            "LIVING WORSHIP -> continuing cultural memory"
+          ],
+          "source_references": [
+            "Chola living achievement",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Deccan experiment",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PATTADAKAL VIRUPAKSHA -> Dravida tower",
+            "PATTADAKAL PAPANATHA -> Nagara tower",
+            "HOYSALA -> stellate soapstone density",
+            "VERDICT -> describe evidence before Vesara",
+            "CLOSE DISTINCTION: A Nagara sanctum shikhara is not a Dravida gopuram, Vesara is not a",
+            "  mechanical half-and-half formula, and Khajuraho's sacred, social and erotic registers cannot",
+            "  be reduced to one motif.",
+            "CLOSE DISTINCTION: A Nagara sanctum shikhara is not a Dravida gopuram, Vesara is not a",
+            "  mechanical half-and-half formula, and Khajuraho's sacred, social and erotic registers cannot",
+            "  be reduced to one motif."
+          ],
+          "source_references": [
+            "Deccan experiment",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Late Dravida shift",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CHOLA -> vimana-dominant imperial complex",
+            "VIJAYANAGARA -> raya gopuram and mandapas",
+            "NAYAKA -> graded gateways and prakarams",
+            "FUNCTION -> procession, gathering and ritual expansion",
+            "EVIDENCE LIMIT: Style labels organise comparison but material, plan, tower, patronage and",
+            "  region must be named; UNESCO status and conservation claims require a dated official source",
+            "  rather than timeless prestige language.",
+            "EVIDENCE LIMIT: Style labels organise comparison but material, plan, tower, patronage and",
+            "  region must be named; UNESCO status and conservation claims require a dated official source",
+            "  rather than timeless prestige language."
+          ],
+          "source_references": [
+            "Vijayanagara and Nayaka",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Temple answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "NAME -> school, dynasty and monument",
+            "DESCRIBE -> plan, tower, material and enclosure",
+            "ANALYSE -> patronage, sculpture and society",
+            "QUALIFY -> comparison, source limit and status"
+          ],
+          "source_references": [
+            "PYQ cluster and final answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g3\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-02",
+      "display_title": "The Ghaznavids & the Ghurian Invasions",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three phases that must remain separate",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "GHAZNAVID PHASE             GHURID PHASE              DELHI SULTANATE",
+            "c. 990s-1186               1175-1206                from 1206",
+            "frontier war + raids       territorial bridgehead   Indian-centred consolidation",
+            "Punjab / Lahore base       Delhi-doab expansion      Aibak and Iltutmish",
+            "Mahmud != Muizz al-Din != Aibak.",
+            "MUST REMEMBER: Mahmud's raid-frontier strategy, Muizz al-Din's bridgehead and Aibak-Iltutmish",
+            "  consolidation are distinct phases."
+          ],
+          "source_references": [
+            "Scope",
+            "Core distinctions",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Campaign chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "963 -> Alp-tigin at Ghazni | 977 -> Sabuktigin",
+            "1001 -> Jayapala defeated | 1009 -> Anandapala defeated",
+            "1025-26 -> Somnath campaign | 1186 -> Ghurids take Lahore",
+            "1191 -> Tarain I, Ghurid defeat | 1192 -> Tarain II, Ghurid victory",
+            "1194 -> Chandawar | 1206 -> Muizz al-Din dies",
+            "RULE: battlefield victory and durable consolidation are different stages."
+          ],
+          "source_references": [
+            "Chronology",
+            "Campaign sequence",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Source criticism matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "AL-UTBI -> Ghaznavid court claims | panegyric; ends before Somnath",
+            "AL-BIRUNI -> comparative inquiry | elite textual and regional limits",
+            "BAYHAQI -> court and administration | fragmentary survival",
+            "HASAN NIZAMI -> early conquest | ornate Aibak-linked legitimation",
+            "MINHAJ -> Ghurid-Delhi sequence | written decades later",
+            "COINS / INSCRIPTIONS -> titles and local claims | require contextual reading."
+          ],
+          "source_references": [
+            "Sources",
+            "Historiography",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "From Samanid service to Ghaznavid rule",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SAMANID PERSIANATE COURT",
+            "          |",
+            "Turkic military commanders and service networks",
+            "          |",
+            "Alp-tigin at Ghazni -> Sabuktigin -> Mahmud",
+            "          |",
+            "roads, cavalry, taxation, court culture and frontier warfare",
+            "VERDICT: a state-formation process, not an ethnic migration explanation."
+          ],
+          "source_references": [
+            "Samanids",
+            "Ghaznavid rise",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Hindu Shahi resistance and frontier breach",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "KABUL / JALALABAD -> PESHAWAR -> SALT RANGE -> PUNJAB",
+            "        Hindu Shahi strategic depth and fortified corridors",
+            "Sabuktigin pressure -> Jayapala 1001 -> Anandapala 1009 -> Nandana",
+            "Kashmir 1015 failure -> weather and terrain still constrained Ghaznavids",
+            "VERDICT: prolonged resistance preceded a changing Punjab frontier."
+          ],
+          "source_references": [
+            "Hindu Shahis",
+            "Punjab",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mahmud's campaigns: reach and limits",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "DURABLE BASE -> Ghazni + Punjab / Lahore",
+            "REPEATED TARGETS -> frontier forts, Multan, Mathura-Kanauj and Somnath",
+            "METHODS -> campaigning, tribute, plunder, garrisons and local arrangements",
+            "LIMITS -> no comparable permanent Ghaznavid Gangetic administration",
+            "RULE: repeated deep raids do not equal uniform territorial occupation."
+          ],
+          "source_references": [
+            "Mahmud's campaigns",
+            "Territorial limits",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mahmud's motives as a matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FISCAL -> movable wealth and military finance",
+            "STRATEGIC -> rivals, frontier security and Punjab control",
+            "POLITICAL -> prestige and dynastic legitimation",
+            "RELIGIOUS -> ghazi and iconoclast rhetoric",
+            "CULTURAL -> court patronage and Persianate kingship",
+            "VERDICT: motives reinforced one another and varied by campaign."
+          ],
+          "source_references": [
+            "Motives",
+            "Multi-causal analysis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Somnath and al-Biruni: event versus evidence",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "SOMNATH EVENT -> later textual layers, memory and political reuse",
+            "AL-UTBI -> cannot narrate 1025 because his account ends earlier",
+            "AL-BIRUNI -> scholarship on Indian learning, not a neutral social census",
+            "MATERIAL / REGIONAL EVIDENCE -> checks court and later literary claims",
+            "METHOD: identify date, genre, patron, report, corroboration and limit."
+          ],
+          "source_references": [
+            "Somnath",
+            "Al-Biruni",
+            "Source criticism",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Ghaznavid and Ghurid projects compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GHAZNAVIDS                        GHURIDS",
+            "Punjab bridgehead + raids          staged territorial advance",
+            "Ghazni-Lahore axis                 Multan-Punjab-Delhi-doab axis",
+            "deep campaigns, limited plains     commanders, garrisons and vassalage",
+            "state focus remained westward      wider north Indian succession problem",
+            "LINK: Ghurids displaced the last Ghaznavid at Lahore in 1186."
+          ],
+          "source_references": [
+            "Ghaznavids",
+            "Ghurids",
+            "Comparison",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Tarain I and II",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "1191 TARAIN I                    1192 TARAIN II",
+            "Ghurid defeat                      Ghurid return and victory",
+            "Rajput capacity demonstrated       mounted harassment and reserves matter",
+            "no inevitable Turkish success      learning and command alter outcome",
+            "AFTERMATH -> occupation remained uneven; forts, rebellions and local deals continued.",
+            "CLOSE DISTINCTION: Tarain I (1191), Tarain II (1192) and Chandawar (1194) must remain in exact",
+            "  sequence."
+          ],
+          "source_references": [
+            "Tarain",
+            "Contingency",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Battlefield victory to consolidation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "VICTORY",
+            "  -> commander delegation and garrisons",
+            "  -> vassalage, tribute and negotiated local rule",
+            "  -> revenue access and route security",
+            "  -> suppression of rebellions and rival Turkish claims",
+            "  -> post-1206 Aibak-Iltutmish consolidation",
+            "TRAP: Ghurid opening != instantly complete Delhi Sultanate.",
+            "EVIDENCE LIMIT: Temple attack, plunder, political legitimacy and warfare require case-specific",
+            "  evidence; none proves mass conversion."
+          ],
+          "source_references": [
+            "Aibak",
+            "Conquest and consolidation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 02 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> distinguish Ghaznavid raid-base pattern from Ghurid advance",
+            "CONTEXT -> Samanids, military service, roads and frontier geography",
+            "MAHMUD -> campaigns + motives + Punjab base + limits",
+            "GHURIDS -> Lahore, Tarain, Chandawar and delegated occupation",
+            "CAUSES -> organisation and contingency, not racial or weapon determinism",
+            "SOURCES -> court rhetoric checked by texts, coins and monuments",
+            "CLOSE -> conquest opened a process; consolidation remained contested."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Synthesis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-02\\g3\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

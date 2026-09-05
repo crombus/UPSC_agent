@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-05",
+      "display_title": "Neolithic & Chalcolithic Cultures",
+      "active_generation": 15,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Food production: a regional mosaic",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FORAGING -> MANAGEMENT -> DOMESTICATION -> MIXED FARMING -> SURPLUS/STORAGE",
+            "    |            |              |               |              |",
+            "wild use    selective tending  heritable change crops+herds   delayed consumption",
+            "    +------------+--------------+---------------+--------------+",
+            "                                 v",
+            "No universal package: polished stone, pottery, herding and crops appear in varied order.",
+            "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies."
+          ],
+          "source_references": [
+            "SESSION 1 - MEANING AND CHRONOLOGY",
+            "SESSION 2 - TRANSITION FROM FORAGING TO FOOD PRODUCTION",
+            "SESSION 36 - TRANSITION, NOT A SINGLE REVOLUTION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Domestication evidence and causal debate",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "PLANTS: seed-size/rachis change + weed ecology + storage + grinding tools",
+            "ANIMALS: morphology + age/sex kill profile + corrals/dung + herd demography",
+            "CAUSES: climate | population | risk buffering | social competition | niche construction",
+            "                         |",
+            "                         v",
+            "VERDICT: domestication needs converging biological and contextual evidence.",
+            "Rice presence alone does not prove cultivation; secure date and morphology matter."
+          ],
+          "source_references": [
+            "SESSION 3 - WHY DOMESTICATION?",
+            "SESSION 4 - DOMESTICATION OF PLANTS",
+            "SESSION 5 - DOMESTICATION OF ANIMALS",
+            "SESSION 37 - WHAT COUNTS AS DOMESTICATION EVIDENCE?",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Technology-settlement-social consequence chain",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "polished stone + microliths + bone tools + pottery",
+            "                      |",
+            "                      v",
+            "cultivation/herding -> houses -> storage -> longer residence -> accumulated property",
+            "                      |",
+            "          +-----------+-----------+",
+            "          |                       |",
+            "craft/exchange growth       disease, labour load and dietary risk",
+            "          +-----------+-----------+",
+            "                      v",
+            "household differentiation and settlement hierarchy become possible, not inevitable."
+          ],
+          "source_references": [
+            "SESSION 6 - POLISHED STONE, MICROLITHS, BONE TOOLS",
+            "SESSION 7 - POTTERY",
+            "SESSION 8 - SETTLEMENT, HOUSES, STORAGE",
+            "SESSION 9 - SUBSISTENCE, LABOUR, HEALTH",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Indian Neolithic regional map",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "NORTH-WEST: Mehrgarh -> long farming/herding sequence before Harappan urbanism",
+            "KASHMIR: Burzahom, Gufkral -> pit dwellings, bone tools, agro-pastoralism",
+            "VINDHYA/MIDDLE GANGA: Koldihwa, Mahagara, Lahuradewa -> rice/date cautions",
+            "NORTH-EAST: shouldered celts and regional links; chronology remains uneven",
+            "SOUTH: Utnur, Piklihal, Tekkalakota, Hallur -> cattle, millets, ash mounds",
+            "RULE: attach each site to region + marker + chronological caution."
+          ],
+          "source_references": [
+            "SESSION 13 - REGIONAL MAP IN TEXT",
+            "SESSION 14 - MEHRGARH",
+            "SESSION 15 - KASHMIR",
+            "SESSION 16 - VINDHYAN FRINGES",
+            "SESSION 19 - SOUTH INDIAN NEOLITHIC",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ash mounds: formation-function debate",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT -> SOUTH INDIAN ASH MOUND",
+            "                         |",
+            "      +------------------+------------------+",
+            "      |                  |                  |",
+            "periodic pen burning  communal feasting  sanitation/fuel practice",
+            "      +------------------+------------------+",
+            "                         v",
+            "Repeated firing and cattle centrality are strong; one exclusive ritual meaning is not.",
+            "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list."
+          ],
+          "source_references": [
+            "SESSION 20 - ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS",
+            "SESSION 21 - SOUTH INDIAN CASE RECALL",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chalcolithic cultures: region-site-marker matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CULTURE/ZONE       CORE SITES             HIGH-YIELD MARKERS",
+            "Ganeshwar-Jodhpura Ganeshwar/Jodhpura     copper craft; Harappan contact",
+            "Ahar-Banas         Ahar, Balathal, Gilund  black-red ware; copper; farming",
+            "Kayatha            Kayatha                early Malwa sequence; rich deposits",
+            "Malwa              Navdatoli, Eran, Nagda  painted ware; large villages; spread",
+            "Jorwe              Inamgaon, Nevasa        Deccan hierarchy; Late Jorwe",
+            "OCP/Copper Hoards  upper Ganga sites       association varies; no ethnic label"
+          ],
+          "source_references": [
+            "SESSION 23 - CHALCOLITHIC INDIA",
+            "SESSION 25 - GANESHWAR-JODHPURA",
+            "SESSION 26 - AHAR-BANAS",
+            "SESSION 27 - KAYATHA",
+            "SESSION 28 - MALWA",
+            "SESSION 30 - JORWE",
+            "SESSION 33 - OCP, COPPER HOARDS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chalcolithic rural political economy",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "VILLAGE HOUSEHOLDS -> crop/herd production -> storage -> craft work -> exchange",
+            "       |                    |                    |              |",
+            "unequal houses        risk and surplus      copper/pottery  regional networks",
+            "       +--------------------+--------------------+--------------+",
+            "                                v",
+            "Settlement hierarchy and differential burials may indicate inequality.",
+            "Most systems were regional and rural, not failed Harappan cities."
+          ],
+          "source_references": [
+            "SESSION 10 - CRAFTS, SPECIALIZATION AND EXCHANGE",
+            "SESSION 11 - SOCIAL DIFFERENTIATION",
+            "SESSION 40 - CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Decline, transformation and cultural labels",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "LATE JORWE/REGIONAL CHANGE: aridity + production stress + settlement reorganisation",
+            "                         |",
+            "                         v",
+            "some abandonment + smaller settlements + mobile strategies + local continuity",
+            "CAUTION 1: archaeological culture = material pattern, not a named people.",
+            "CAUTION 2: copper use does not displace stone or prove urbanisation.",
+            "CAUTION 3: Neolithic, Chalcolithic and Harappan worlds overlap and interact."
+          ],
+          "source_references": [
+            "SESSION 32 - DECLINE AND TRANSFORMATION",
+            "SESSION 34 - NEOLITHIC, CHALCOLITHIC AND HARAPPAN",
+            "SESSION 35 - INTERPRETATIONS AND SOURCE LIMITATIONS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Neolithic-Chalcolithic answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define phase -> process -> two regional sites -> evidence caution",
+            "15 MARKS: transition causes -> domestication proof -> technology/settlement -> comparison",
+            "20 MARKS: mosaic chronology -> regional map -> Chalcolithic matrix -> economy/society",
+            "          -> ash-mound debate -> transformation -> qualified synthesis",
+            "Use triads: region + site + marker; never write an undifferentiated site catalogue.",
+            "CLOSE: food production reorganised time, labour and settlement through diverse paths."
+          ],
+          "source_references": [
+            "SESSION 22 - REGIONAL NEOLITHIC COMPARISON",
+            "SESSION 38 - REGION-SITE-MARKER TRIADS",
+            "SESSION 39 - FROM PRODUCTION TO SOCIAL CONSEQUENCE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. Test cultivation, domestication, sedentism, pottery and storage separately.",
+            "2. Anchor every culture in region, site, assemblage and dated sequence.",
+            "3. Treat adoption, local development, mobility and interaction as testable models.",
+            "VERDICT: Neolithisation is a regional mosaic, not one revolution or diffusion."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Rice presence is not domestication; a polished celt alone is not farming.",
+            "2. Chalcolithic means copper plus stone, not universal metal use or urbanism.",
+            "3. OCP, copper hoards and Ganeshwar overlap partly but are not one people.",
+            "VERDICT: Culture labels classify assemblages; they do not prove ethnicity or polity."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Use 2021 Q37 to separate Burzahom pits, Chandraketugarh art and Ganeshwar copper.",
+            "2. Compare north-west, Kashmir, Ganga/east, north-east and southern pathways.",
+            "3. Write claim -> site/culture -> evidence -> inference -> chronology limit.",
+            "VERDICT: Rural food-producing cultures overlapped, interacted and changed unevenly."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\05_Neolithic-and-Chalcolithic-Cultures.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g14\\ancient-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g15\\ancient-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

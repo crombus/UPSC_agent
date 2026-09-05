@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-24",
+      "display_title": "Services, Digital Economy, Fintech and Platform Markets",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Digital-economy transmission rail",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "IDENTITY + CONNECTIVITY + DATA",
+            "-> INTEROPERABLE RAIL",
+            "-> LOWER SEARCH + TRANSACTION COST",
+            "-> SCALE + INCLUSION + RISK",
+            "MUST REMEMBER: Services and digital markets create value through networks, data,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Services heterogeneity map",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "TRADABLE -> IT + professional services",
+            "DOMESTIC -> trade + transport + tourism",
+            "ESSENTIAL -> health + education",
+            "AGGREGATE SHARE != uniform productivity"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rail and application split",
+          "structural_type": "layer-map",
+          "ascii_lines": [
+            "DPI RAIL -> common protocol",
+            "APPLICATION -> competing interface",
+            "REGULATOR -> legal perimeter",
+            "OPERATOR -> runs designated system"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "UPI versus digital rupee",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "UPI -> instruction moving bank deposit",
+            "DIGITAL RUPEE -> direct RBI liability",
+            "INTERFACE != CURRENCY",
+            "KEEP settlement + liability distinct"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "ONDC interoperability chain",
+          "structural_type": "network-flow",
+          "ascii_lines": [
+            "BUYER APP",
+            "-> OPEN PROTOCOL",
+            "-> SELLER APP + LOGISTICS",
+            "NETWORK != one government marketplace"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Platform power loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "MORE USERS -> MORE MATCHES",
+            "MORE DATA -> BETTER RANKING",
+            "SWITCHING COST -> ENTRY BARRIER",
+            "INTEROPERABILITY -> contestability lever"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Digital-lending responsibility",
+          "structural_type": "principal-agent-map",
+          "ascii_lines": [
+            "REGULATED ENTITY -> principal duty",
+            "LSP / APP -> technology + servicing role",
+            "DIRECT FLOW + DISCLOSURE -> safeguards",
+            "OUTSOURCING != erased liability"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Data-governance chain",
+          "structural_type": "rights-flow",
+          "ascii_lines": [
+            "LAWFUL PURPOSE",
+            "-> CONSENT / LEGITIMATE USE",
+            "-> MINIMISATION + SECURITY",
+            "-> CORRECTION + GRIEVANCE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Digital-asset taxonomy",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "BLOCKCHAIN -> ledger architecture",
+            "CRYPTO -> private token application",
+            "CBDC -> sovereign RBI liability",
+            "NFT -> unique token; copyright separate"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Payment-system distinctions",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MDR -> merchant processing fee",
+            "NFS -> interbank ATM network",
+            "UPI PIN -> payer authentication",
+            "NPCI systems remain function-specific",
+            "CLOSE DISTINCTION: Digital transaction is not digital economy output, platform worker is..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Platform-work risk board",
+          "structural_type": "distribution-board",
+          "ascii_lines": [
+            "MATCHING + FLEXIBILITY",
+            "ALGORITHMIC ALLOCATION",
+            "EARNINGS + DEMAND RISK",
+            "LEGAL COVERAGE -> separate Topic 22 route",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name regulator, legal category, period,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Digital-economy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE rail + actor + liability",
+            "TRACE cost + scale + network effects",
+            "TEST competition + data + worker risk",
+            "CONCLUDE open rails + accountable applications"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-24\\g2\\economy-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

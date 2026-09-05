@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "id": "polity-25-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-content repaired twelve-panel Core sequence for immutable successor generation.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-25": {
+      "title": "Union Territories",
+      "source_record": "polity-25:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-25\\g5-source\\polity-25_g5-reviewed-source.md",
+      "quality_review": "Manual review against Articles 239-241, three legislature models, current legal status and routed PYQs.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Rationale, evolution and the current eight",
+          "structural_type": "timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 2",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 4"
+          ],
+          "full_text": "WHY UTS EXIST\nUnion responsibility + differentiated local democracy.\n\nEVOLUTION\nPart C/D arrangements -> 7th Amendment and 1956 reorganisation -> modern UT category.\n2019: J&K and Ladakh created | 26 Jan 2020: DNH and DD merged.\n\nCURRENT EIGHT\nA&N | Chandigarh | DNHDD | Delhi | J&K | Ladakh | Lakshadweep | Puducherry.\nWITH LEGISLATURE: Delhi, Puducherry, J&K | WITHOUT: the other five."
+        },
+        {
+          "title": "Part VIII constitutional map",
+          "structural_type": "hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 13"
+          ],
+          "full_text": "ARTICLE MAP\n239 administration through President-appointed Administrator.\n239A Puducherry legislature/CoM enabling power | 239B ordinance route.\n239AA Delhi NCT scheme | 239AB Delhi failure-of-machinery route.\n240 presidential regulations | 241 High Courts.\n246(4): Parliament may legislate on every list for territory outside a State.\n\nCORE RULE\nA local UT legislature never removes Parliament's continuing competence."
+        },
+        {
+          "title": "Administrator, legislature and direct rule",
+          "structural_type": "process",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 16"
+          ],
+          "full_text": "PRESIDENT -> ADMINISTRATOR/LG -> UT ADMINISTRATION\nThe Administrator is the President's agent, not a Part VI Governor.\nA State Governor acting as adjoining-UT Administrator acts independently of the State CoM.\n\nTHREE MODELS\nDirect administration | statutory legislature | Delhi's constitutional NCT design.\n\nARTICLE 240\nSpecified-territory regulations have the force of an Act of Parliament."
+        },
+        {
+          "title": "High Courts and legislature-free UTs",
+          "structural_type": "spatial",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 19",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 20",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 21"
+          ],
+          "full_text": "HIGH COURT MAP\nDelhi -> Delhi HC | J&K + Ladakh -> common J&K and Ladakh HC.\nA&N -> Calcutta | Chandigarh -> Punjab & Haryana | DNHDD -> Bombay.\nLakshadweep -> Kerala | Puducherry -> Madras.\n\nWITHOUT LEGISLATURE\nA&N | Chandigarh | DNHDD | Ladakh | Lakshadweep.\nDirect Union administration still coexists with MPs, courts, local bodies and legal remedies."
+        },
+        {
+          "title": "Delhi Article 239AA design",
+          "structural_type": "matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 24",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 25",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 26"
+          ],
+          "full_text": "DELHI NCT\n69th Amendment 1991 -> Article 239AA -> Assembly + CoM + LG.\n\nASSEMBLY FIELD\nState and Concurrent Lists except Entries 1, 2 and 18, plus related 64, 65 and 66.\nReserved core: public order | police | land.\n\nEXECUTIVE\nAid and advice is the rule inside the allotted field.\nLG reference to President is exceptional, not routine.\nParliament retains overriding competence; Article 239AB is the breakdown route."
+        },
+        {
+          "title": "Delhi cases, services and statutory response",
+          "structural_type": "timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 28",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 29",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 30"
+          ],
+          "full_text": "GNCTD aid-and-advice judgment (2018)\nRepresentative government and aid/advice prevail within Delhi's allotted field.\n\nDelhi services judgment (2023) — 11 MAY\nEntry 41 services followed elected accountability outside the reserved fields.\n\nACT 19 OF 2023\nNCCSA recommends transfers/postings; LG has statutory final say on disagreement.\n\n28 AUGUST 2026 CONTROL\nThe Act remains operative; pending constitutional challenge is not invalidation."
+        },
+        {
+          "title": "Puducherry statutory model",
+          "structural_type": "dialectic",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 31",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 32",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 33"
+          ],
+          "full_text": "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT 1963\nStatutory Assembly + CoM; Parliament retains UT-wide power.\nArticle 239B ordinance requires prior presidential instructions.\n\nK. LAKSHMINARAYANAN (2018)\nCentral nomination of up to three members upheld; nominees possess voting rights.\n\nARTICLE 240\nRegulation power is unavailable during normal Assembly functioning.\nIt revives during constitutionally qualifying suspension or dissolution."
+        },
+        {
+          "title": "Jammu and Kashmir and Ladakh after 2019",
+          "structural_type": "timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 34",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 35",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 36",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 37"
+          ],
+          "full_text": "J&K REORGANISATION ACT 2019 — EFFECTIVE 31 OCTOBER\nJ&K -> UT with legislature | Ladakh -> UT without legislature.\n\nJ&K ASSEMBLY\nState/Concurrent competence except public order and police; land is not generally excluded.\nBudget, legislation and executive accountability operate under the Act and rules.\n\nCURRENT\nElected Assembly and CoM function after 2024; Statehood not restored by 28 Aug 2026.\nLadakh has no legislature; safeguard demands are proposals, not enacted status."
+        },
+        {
+          "title": "Delhi, Puducherry and J&K compared",
+          "structural_type": "matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 24",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 25",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 26",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 28",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 29",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 30",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 31",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 32",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 33",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 34",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 35",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 36",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 37",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 38"
+          ],
+          "full_text": "DELHI | constitutional Article 239AA | excludes public order, police, land.\nPUDUCHERRY | Article 239A + 1963 Act | broad statutory State/Concurrent field.\nJ&K | 2019 Act + Article 239A application | excludes public order and police.\n\nALL THREE\nAssembly + CoM + Administrator/LG; Parliament retains overriding UT competence.\n\nDO NOT FLATTEN\nLegal source, nominated membership, services control and referral rules differ."
+        },
+        {
+          "title": "Friction, accountability and reform",
+          "structural_type": "process",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 38",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 39",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 40",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 41",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 42"
+          ],
+          "full_text": "WHY FRICTION OCCURS\nSplit legislative field + divided officer control + referral/override powers.\n\nACCOUNTABILITY TEST\nExact field -> decision-maker -> staff/finance -> override -> court remedy.\n\nREFORM\nClarify reserved fields | bound referrals | align officers with accountability.\nPublish reasons and timelines | preserve judicial review | date every current claim.\n\nVERDICT\nUnion safeguards are strongest when narrow, reasoned and democratically accountable."
+        },
+        {
+          "title": "PYQs, case law and close-option traps",
+          "structural_type": "synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 28",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 29",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 30",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 31",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 32",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 33",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 34",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 35",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 36",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 37",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 38",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 39",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 40",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 41",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 42",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 43",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 44"
+          ],
+          "full_text": "PYQ 2018 GS-II Q11\nArticle 239AA -> 2018 ratio -> services sequel -> operative 2023 Act -> verdict.\n\nPYQ 2025 GS-II Q4\n2019 Act -> J&K Assembly field/functions -> LG/Parliament limits -> Statehood caveat.\n\nCASE CONTROLS\nGNCTD aid-and-advice judgment (2018).\nDelhi services judgment (2023).\nK. Lakshminarayanan (2018).\nIn Re: Article 370 of the Constitution (2023).\n\nTRAPS\n239AB != 239B | Chandigarh not Article 240-listed | Delhi exclusions != J&K exclusions."
+        },
+        {
+          "title": "Exam answer spine and current firewall",
+          "structural_type": "synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 40",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 41",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 42",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 43",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 44",
+            "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-25_Learning-Session.md#SESSION 45"
+          ],
+          "full_text": "ANSWER SPINE\nClassify model -> exact Article/statute -> local democratic mechanism.\nAdd Union safeguard -> institutional friction -> case/year -> calibrated reform.\n\nEVIDENCE METHOD\nClaim -> named authority -> mechanism -> dated control -> limitation -> verdict.\n\nCURRENT FIREWALL — 28 AUGUST 2026\n8 UTs | 3 legislatures | J&K elected but still UT.\nGNCTD Act 2023 operative | challenge unresolved | proposal is not law.\n\nTHESIS\nA UT legislature is real self-government, but not State-equivalent autonomy."
+        }
+      ]
+    }
+  }
+}

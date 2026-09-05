@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T06:05:48+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "cf22ac3c3fdde84cc92a1292c9acf1f1717bdf7f624d68c9062837445a36d4b3",
+    "sha256_after": "cf22ac3c3fdde84cc92a1292c9acf1f1717bdf7f624d68c9062837445a36d4b3",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 2,
+  "subjects": {
+    "Medieval History": 2
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 2
+  },
+  "library_totals": {
+    "file_count": 3070,
+    "pdf_count": 917,
+    "png_count": 487,
+    "txt_count": 418,
+    "markdown_count": 409,
+    "json_count": 824,
+    "total_bytes": 1782386765,
+    "by_extension": {
+      ".json": 824,
+      ".md": 409,
+      ".pdf": 917,
+      ".png": 487,
+      ".txt": 418,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-07",
+      "topic_title": "Administration, Economy & Society under the Sultanate",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 7,
+      "source_record_id": "medieval-indian-history-07:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-07\\medieval-indian-history-07_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d0897f396bbb2b4d56736861478aa21bac9385bb1bc3d84f4e6ddb96dcb45f8e",
+          "output_sha256": "d0897f396bbb2b4d56736861478aa21bac9385bb1bc3d84f4e6ddb96dcb45f8e",
+          "source_output_equal": true,
+          "bytes": 4406392
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-07\\medieval-indian-history-07_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "e15a51790cee664f4a9752598c06795d0ac289b0859360f6a2a23b77546fb96a",
+          "output_sha256": "e15a51790cee664f4a9752598c06795d0ac289b0859360f6a2a23b77546fb96a",
+          "source_output_equal": true,
+          "bytes": 546059
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-07\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2ffa9e6095eb56776e0367ca8ab15ed59e5de89f290955afc56495f10b7212f8",
+          "output_sha256": "2ffa9e6095eb56776e0367ca8ab15ed59e5de89f290955afc56495f10b7212f8",
+          "source_output_equal": true,
+          "bytes": 2320133
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-07\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "14ee106e95da1e270112d33048f5e77f0bc54bc61537de2f87a2aa26d961322d",
+          "output_sha256": "14ee106e95da1e270112d33048f5e77f0bc54bc61537de2f87a2aa26d961322d",
+          "source_output_equal": true,
+          "bytes": 2662834
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-07\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "53eb1414cc5c9716ece940b7feda6cde9f8f4cba3b353f96b06628d3d0aea26b",
+          "output_sha256": "53eb1414cc5c9716ece940b7feda6cde9f8f4cba3b353f96b06628d3d0aea26b",
+          "source_output_equal": true,
+          "bytes": 2063401
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-07\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "caf5e07eb3223376f823cab6b7879f213adcb57392ef30b3b6766f3767ec4d68",
+          "output_sha256": "caf5e07eb3223376f823cab6b7879f213adcb57392ef30b3b6766f3767ec4d68",
+          "source_output_equal": true,
+          "bytes": 5648
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-07\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\07-Administration-Economy-and-Society-under-the-Sultanate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "caf5e07eb3223376f823cab6b7879f213adcb57392ef30b3b6766f3767ec4d68",
+          "output_sha256": "2bd9e56285594ae549454dd602959905f61a2ea60ff9f786c3d6812e5dc190cb",
+          "normalized_text_equal": true,
+          "bytes": 57856
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 9,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 9,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 75,
+        "solved_practice_workbook": 20,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 75,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11332
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "medieval-indian-history-08",
+      "topic_title": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 8,
+      "source_record_id": "medieval-indian-history-08:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "1677b61eddb6a8a227c30b541c74833af303347ca6f32de4897787e0284368f2",
+          "output_sha256": "1677b61eddb6a8a227c30b541c74833af303347ca6f32de4897787e0284368f2",
+          "source_output_equal": true,
+          "bytes": 1318862
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "c6ca01c6acf2723a9db2bc72a53dcda257546625c017c69bbcedb7c7d414d266",
+          "output_sha256": "c6ca01c6acf2723a9db2bc72a53dcda257546625c017c69bbcedb7c7d414d266",
+          "source_output_equal": true,
+          "bytes": 498110
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-08\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "6096b3870a1aef525d345df0148b5ef8e5720a465a8276b7c1eba77a493de764",
+          "output_sha256": "6096b3870a1aef525d345df0148b5ef8e5720a465a8276b7c1eba77a493de764",
+          "source_output_equal": true,
+          "bytes": 2360422
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-08\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "9370133faefd667070c521de657208e8f2fdff6415a5cb2fd29dc898a2f3bfc3",
+          "output_sha256": "9370133faefd667070c521de657208e8f2fdff6415a5cb2fd29dc898a2f3bfc3",
+          "source_output_equal": true,
+          "bytes": 2634589
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-08\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "f8eaaf627acf4f9c3fe368335c75e372cbb96e044ba4fc4e6b8d9b3d32654ba4",
+          "output_sha256": "f8eaaf627acf4f9c3fe368335c75e372cbb96e044ba4fc4e6b8d9b3d32654ba4",
+          "source_output_equal": true,
+          "bytes": 2102248
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-08\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b1eb5647ee2f49a524dc6f48bb7ff6caed77dc7ba6f251efddcf414b748aeeb6",
+          "output_sha256": "b1eb5647ee2f49a524dc6f48bb7ff6caed77dc7ba6f251efddcf414b748aeeb6",
+          "source_output_equal": true,
+          "bytes": 5403
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-08\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-Regional-Kingdoms-aef790ec-Ahom-Assam-Prelims-extension\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "b1eb5647ee2f49a524dc6f48bb7ff6caed77dc7ba6f251efddcf414b748aeeb6",
+          "output_sha256": "bc931a170ef1d17a9bdd87e1ebcef656e8a5ac3786313ac6090899d86cb24ec2",
+          "normalized_text_equal": true,
+          "bytes": 57676
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 9,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 65,
+        "solved_practice_workbook": 16,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11719
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

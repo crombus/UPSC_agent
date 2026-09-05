@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-19",
+      "display_title": "Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Formation-to-national-leadership chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1893-1914 -> South African formation of satyagraha",
+            "1915 -> return to India and Gokhale's counsel",
+            "1917 -> Champaran",
+            "1918 -> Ahmedabad and Kheda",
+            "FEB-APR 1919 -> Satyagraha Sabha and Rowlatt hartal",
+            "13 APR 1919 -> Jallianwala; repression reshapes national politics.",
+            "MUST REMEMBER: Champaran (1917), Ahmedabad mill dispute and Kheda (1918), the Rowlatt",
+            "  legislation and hartal of 1919, and Jallianwala Bagh on 13 April 1919 form a sequence of",
+            "  changing methods and scales."
+          ],
+          "source_references": [
+            "South Africa, return in 1915 and Gokhale's counsel",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Satyagraha mechanism",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "TRUTH -> grievance must survive factual inquiry",
+            "OPENNESS -> law-breaking is declared, not concealed",
+            "NON-VIOLENCE -> opponent is pressured without physical injury",
+            "SELF-SUFFERING -> satyagrahi accepts punishment",
+            "DISCIPLINE -> organisation controls participation",
+            "POLITICAL EFFECT -> repression loses legitimacy; negotiation opens."
+          ],
+          "source_references": [
+            "Satyagraha principles and political mechanism",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Champaran local-agency chain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "TINKATHIA = 3/20 / PLANTER PRESSURE -> cultivator grievance",
+            "RAJ KUMAR SHUKLA -> persistent local invitation",
+            "GANDHI ARRIVES -> about 8,000 statements",
+            "ORDER TO LEAVE -> open refusal and acceptance of legal risk",
+            "OFFICIAL INQUIRY -> 25% refund -> later tinkathia abolition",
+            "SIGNIFICANCE -> local peasant issue enters national politics."
+          ],
+          "source_references": [
+            "Champaran: Raj Kumar Shukla, tinkathia and local agency",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Ahmedabad relationship and dispute map",
+          "structural_type": "relationship-map",
+          "ascii_lines": [
+            "WORKERS SEEK 50% -> plague-bonus and wage claim",
+            "ANASUYA SARABHAI -> labour organisation",
+            "OWNERS OFFER 20% -> Gandhi supports 35%",
+            "AMBALAL SARABHAI -> mill owner and Gandhi associate",
+            "SIBLING LINK -> access and mediation across opposing interests",
+            "CAUTION -> relationship does not erase class conflict."
+          ],
+          "source_references": [
+            "Ahmedabad: plague bonus, wages and the Sarabhai relationship",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Ahmedabad pressure-to-arbitration sequence",
+          "structural_type": "procedure-sequence",
+          "ascii_lines": [
+            "DISPUTE -> worker pledge and 21-day strike",
+            "STALEMATE -> discipline becomes fragile",
+            "GANDHI FASTS THREE DAYS -> first fast in an Indian struggle",
+            "MORAL PRESSURE -> workers and owners face reputational cost",
+            "ARBITRATION -> institutional settlement route",
+            "SOURCE GAP -> outcome reported as 35% or 27.5%; preserve dispute."
+          ],
+          "source_references": [
+            "Ahmedabad: first Indian fast, pledge and arbitration",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Kheda remission campaign",
+          "structural_type": "process",
+          "ascii_lines": [
+            "CROP FAILURE -> four annas or less under revenue rules",
+            "DEMAND -> suspend collection",
+            "PATEL + INDULAL YAGNIK -> village-level organisation",
+            "PLEDGE -> better-off protect poorer cultivators",
+            "ATTACHMENT RISK -> property pressure and selective recovery",
+            "RELIEF -> bounded and uneven; not abolition of taxation."
+          ],
+          "source_references": [
+            "Kheda: crop failure, revenue remission and leadership",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Three local laboratories",
+          "structural_type": "split-rail",
+          "ascii_lines": [
+            "CHAMPARAN -> cultivators / planters / indigo / inquiry plus defiance",
+            "AHMEDABAD -> mill workers / mill owners / wage-bonus / fast plus arbitration",
+            "KHEDA -> cultivators / revenue state / crop assessment / organised withholding",
+            "COMMON -> disciplined collective action opens negotiation",
+            "DIFFERENCE -> grievance, opponent and leverage structure vary",
+            "RULE -> treat the campaigns as laboratories, not identical templates."
+          ],
+          "source_references": [
+            "Comparative anatomy of Champaran, Ahmedabad and Kheda",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Rowlatt emergency-power carryover",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "WAR -> inflation, scarcity, epidemic distress and coercive power",
+            "1917 PROMISE -> reform expectation rises",
+            "COMMITTEE -> recommends continued anti-revolutionary powers",
+            "TWO BILLS -> one becomes Act XI on 18 March 1919",
+            "RIGHTS EFFECT -> detention and reduced ordinary safeguards",
+            "POLITICAL EFFECT -> post-war betrayal frame",
+            "TRAP -> not the Montagu-Chelmsford constitutional reform scheme."
+          ],
+          "source_references": [
+            "Wartime hardship and the reform-repression contradiction",
+            "Rowlatt Committee, Bills and Act",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Sabha, hartal and communication gap",
+          "structural_type": "communication-flow",
+          "ascii_lines": [
+            "FEB 1919 -> Satyagraha Sabha in Bombay",
+            "PLEDGE -> civil disobedience plus acceptance of punishment",
+            "DATE CHANGE -> message does not travel uniformly",
+            "DELHI -> acts on 30 March",
+            "6 APRIL -> final all-India hartal",
+            "LESSON -> reach exceeded communication and discipline capacity."
+          ],
+          "source_references": [
+            "Satyagraha Sabha, 6 April hartal and Delhi mismatch",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "The Himalayan-miscalculation feedback",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "ALL-INDIA APPEAL -> rapid mobilisation",
+            "RAPID SCALE -> uneven training",
+            "UNEVEN TRAINING -> violence",
+            "VIOLENCE -> suspension on 18 April",
+            "SELF-CRITIQUE -> Himalayan miscalculation",
+            "LATER RULE -> disciplined organisation must precede mass action.",
+            "CLOSE DISTINCTION: Satyagraha was not instant mass control: Ahmedabad joined labour",
+            "  arbitration, Kheda relief claims varied, and Gandhi suspended the Rowlatt campaign after",
+            "  violence."
+          ],
+          "source_references": [
+            "Violence and the Himalayan miscalculation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Punjab trigger-to-massacre sequence",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "WARTIME PUNJAB -> recruitment pressure and repression",
+            "            LOCAL POLITICS -> Kitchlew and Satyapal",
+            "            10 APRIL ARREST / REMOVAL -> firing, attacks and confrontation",
+            "13 APRIL -> gathering at Jallianwala Bagh",
+            "            REGINALD DYER -> no warning / dispersal order; not Michael O'Dwyer",
+            "EVIDENCE RULE -> no disputed casualty total.",
+            "EVIDENCE LIMIT: Official inquiry, local testimony, nationalist memory and later commemoration",
+            "  must be separated; the massacre's moral-political impact does not make every reported detail",
+            "  equally verified."
+          ],
+          "source_references": [
+            "Punjab context and the arrests of Kitchlew and Satya Pal",
+            "Jallianwala Bagh: enclosed space, Dyer and firing",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Martial law, inquiry and moral rupture",
+          "structural_type": "accountability-map",
+          "ascii_lines": [
+            "13 APRIL MASSACRE -> formal martial law follows",
+            "SPECIFIC ABUSE -> crawling order in a particular Amritsar lane",
+            "OFFICIAL ROUTE -> Hunter majority and Indian minority",
+            "INDIAN ROUTE -> Congress Punjab Inquiry",
+            "MORAL RESPONSE -> Tagore 1919; Gandhi returns medal in 1920",
+            "DEC 1919 CONGRESS -> Gandhi / C.R. Das compromise on reforms",
+            "TRANSITION -> consent recedes; Non-Cooperation later becomes credible."
+          ],
+          "source_references": [
+            "Martial law, crawling order and competing inquiries",
+            "Moral repudiation, consequences and Non-Cooperation bridge",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1125 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-17",
+  "subject": "Geography",
+  "title": "SAVANNA SUDAN CLIMATE",
+  "short_route": "SAVANNA TRANSITION MAP → ITCZ SEASONAL SWITCH → WATER-RELIABILITY CHAIN → GRASS-TREE GRADIENT → FIRE-HERBIVORY BALANCE → WILDLIFE-LIVELIHOOD MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-17-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "ab4194566180d3ae902b1f28cfb4e529b636d61ace94458ed48a7f77d846dc74",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SAVANNA TRANSITION MAP",
+      "structural_type": "spatial-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SAVANNA TRANSITION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "WETTER AND TALLER GRASS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUDAN BELT",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSIC WET-DRY SAVANNA",
+          "role": "evidence"
+        },
+        {
+          "text": "SHORTER GRASS AND OPEN TREES",
+          "role": "primary"
+        },
+        {
+          "text": "DESERT MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "DROUGHT RISK INTENSIFIES",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EQUATORWARD → wetter and taller grass",
+        "SUDAN BELT → classic wet-dry savanna",
+        "POLEWARD → shorter grass and open trees",
+        "DESERT MARGIN → drought risk intensifies",
+        "MUST REMEMBER: Savanna Aw/As climates reflect seasonal ITCZ migration between convective wet summers and subtropical-high"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EQUATORWARD → wetter and taller grass",
+            "SUDAN BELT → classic wet-dry savanna"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLEWARD → shorter grass and open trees",
+            "DESERT MARGIN → drought risk intensifies"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Savanna Aw/As climates reflect seasonal ITCZ migration between convective wet summers and subtropical-high dry",
+            "winters, sustaining tall grasses with scattered drought/fire-adapted trees across Africa, South America and northern Australia."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Savanna Aw/As climates reflect seasonal ITCZ migration between convective wet summers and subtropical-high dry winters, sustaining tall grasses with scattered drought/fire-adapted trees across Africa, South America and northern Australia.",
+      "source_references": [
+        "Aw transition and global map",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ITCZ SEASONAL SWITCH",
+      "structural_type": "seasonal-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ITCZ SEASONAL SWITCH",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH-SUN SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "ITCZ APPROACHES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGENCE + CONVECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUMMER RAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LOW-SUN SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "DRY TRADES DOMINATE",
+          "role": "comparison"
+        },
+        {
+          "text": "HOT WET",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIGH-SUN SEASON → ITCZ approaches",
+        "CONVERGENCE + CONVECTION → summer rain",
+        "LOW-SUN SEASON → dry trades dominate",
+        "RESULT → hot wet / warm dry rhythm"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HIGH-SUN SEASON → ITCZ approaches",
+            "CONVERGENCE + CONVECTION → summer rain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOW-SUN SEASON → dry trades dominate",
+            "RESULT → hot wet / warm dry rhythm"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HIGH-SUN SEASON → ITCZ approaches",
+            "CONVERGENCE + CONVECTION → summer rain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → hot wet / warm dry rhythm.",
+      "source_references": [
+        "ITCZ wet-dry rhythm",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WATER-RELIABILITY CHAIN",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATER-RELIABILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LATE ONSET",
+          "role": "outcome"
+        },
+        {
+          "text": "DELAYED SOWING",
+          "role": "comparison"
+        },
+        {
+          "text": "MID-SEASON BREAK",
+          "role": "evidence"
+        },
+        {
+          "text": "CROP AND FORAGE STRESS",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY CESSATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INCOMPLETE GRAIN FILLING",
+          "role": "comparison"
+        },
+        {
+          "text": "MIGRATION AND HERD LOSS RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LATE ONSET → delayed sowing",
+        "MID-SEASON BREAK → crop and forage stress",
+        "EARLY CESSATION → incomplete grain filling",
+        "DROUGHT → migration and herd loss risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LATE ONSET → delayed sowing",
+            "MID-SEASON BREAK → crop and forage stress"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EARLY CESSATION → incomplete grain filling",
+            "DROUGHT → migration and herd loss risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LATE ONSET → delayed sowing",
+            "MID-SEASON BREAK → crop and forage stress"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EARLY CESSATION → incomplete grain filling; DROUGHT → migration and herd loss risk.",
+      "source_references": [
+        "Rainfall amount and reliability",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GRASS-TREE GRADIENT",
+      "structural_type": "replacement-diagram",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GRASS-TREE GRADIENT",
+          "role": "primary"
+        },
+        {
+          "text": "WET MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "TALL GRASS + MORE TREES",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE SAVANNA",
+          "role": "evidence"
+        },
+        {
+          "text": "PARKLAND MOSAIC",
+          "role": "primary"
+        },
+        {
+          "text": "DRY MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT GRASS + THORNY SHRUBS",
+          "role": "comparison"
+        },
+        {
+          "text": "DESERT EDGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WET MARGIN → tall grass + more trees",
+        "CORE SAVANNA → parkland mosaic",
+        "DRY MARGIN → short grass + thorny shrubs",
+        "DESERT EDGE → discontinuous vegetation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WET MARGIN → tall grass + more trees",
+            "CORE SAVANNA → parkland mosaic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRY MARGIN → short grass + thorny shrubs",
+            "DESERT EDGE → discontinuous vegetation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WET MARGIN → tall grass + more trees",
+            "CORE SAVANNA → parkland mosaic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRY MARGIN → short grass + thorny shrubs.",
+      "source_references": [
+        "Parkland grass-tree structure",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FIRE-HERBIVORY BALANCE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FIRE-HERBIVORY BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "SEASONAL RAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "GRASS BIOMASS",
+          "role": "comparison"
+        },
+        {
+          "text": "DRY SEASON",
+          "role": "evidence"
+        },
+        {
+          "text": "COMBUSTIBLE FUEL",
+          "role": "primary"
+        },
+        {
+          "text": "FIRE + BROWSING",
+          "role": "outcome"
+        },
+        {
+          "text": "SEEDLING SUPPRESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "THICK BARK + ROOTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEASONAL RAIN → grass biomass",
+        "DRY SEASON → combustible fuel",
+        "FIRE + BROWSING → seedling suppression",
+        "THICK BARK + ROOTS → selected tree survival"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEASONAL RAIN → grass biomass",
+            "DRY SEASON → combustible fuel"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FIRE + BROWSING → seedling suppression",
+            "THICK BARK + ROOTS → selected tree survival"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEASONAL RAIN → grass biomass",
+            "DRY SEASON → combustible fuel"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THICK BARK + ROOTS → selected tree survival.",
+      "source_references": [
+        "Tree drought adaptations",
+        "Fire and grazing controls",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WILDLIFE-LIVELIHOOD MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WILDLIFE-LIVELIHOOD MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FOLLOW SEASONAL FORAGE AND WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACK HERBIVORE CONCENTRATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MOBILITY SPREADS RISK",
+          "role": "caution"
+        },
+        {
+          "text": "SORGHUM TIMING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HERDS → follow seasonal forage and water",
+        "PREDATORS → track herbivore concentrations",
+        "PASTORALISTS → mobility spreads risk",
+        "CULTIVATORS → millet / sorghum timing"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HERDS → follow seasonal forage and water",
+          "PASTORALISTS → mobility spreads risk",
+          "HERDS → follow seasonal forage and water"
+        ],
+        [
+          "PREDATORS → track herbivore concentrations",
+          "CULTIVATORS → millet / sorghum timing",
+          "PREDATORS → track herbivore concentrations"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HERDS → follow seasonal forage and water",
+            "PREDATORS → track herbivore concentrations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PASTORALISTS → mobility spreads risk",
+            "CULTIVATORS → millet / sorghum timing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HERDS → follow seasonal forage and water",
+            "PREDATORS → track herbivore concentrations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PASTORALISTS → mobility spreads risk; CULTIVATORS → millet / sorghum timing.",
+      "source_references": [
+        "Wildlife and migration",
+        "Pastoral and farming adaptation",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEGRADATION PATHWAY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEGRADATION PATHWAY",
+          "role": "primary"
+        },
+        {
+          "text": "COVER LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "RAINDROP AND WIND EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "WET SEASON",
+          "role": "evidence"
+        },
+        {
+          "text": "RUNOFF, LEACHING AND EROSION",
+          "role": "primary"
+        },
+        {
+          "text": "DRY SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRE AND SURFACE SEALING",
+          "role": "comparison"
+        },
+        {
+          "text": "FIXED WATER POINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COVER LOSS → raindrop and wind exposure",
+        "WET SEASON → runoff, leaching and erosion",
+        "DRY SEASON → fire and surface sealing",
+        "FIXED WATER POINT → local grazing concentration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COVER LOSS → raindrop and wind exposure",
+            "WET SEASON → runoff, leaching and erosion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRY SEASON → fire and surface sealing",
+            "FIXED WATER POINT → local grazing concentration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COVER LOSS → raindrop and wind exposure",
+            "WET SEASON → runoff, leaching and erosion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRY SEASON → fire and surface sealing; FIXED WATER POINT → local grazing concentration.",
+      "source_references": [
+        "Soils and degradation",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA FOREST GRADIENT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA FOREST GRADIENT",
+          "role": "primary"
+        },
+        {
+          "text": "MOIST DECIDUOUS",
+          "role": "outcome"
+        },
+        {
+          "text": "LONGER WET SEASON",
+          "role": "comparison"
+        },
+        {
+          "text": "DRY DECIDUOUS",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGER LEAF-SHEDDING",
+          "role": "primary"
+        },
+        {
+          "text": "SEMI-ARID MOISTURE STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERLAPPING BELTS, NOT FIXED WALLS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MOIST DECIDUOUS → longer wet season",
+        "DRY DECIDUOUS → stronger leaf-shedding",
+        "THORN / SCRUB → semi-arid moisture stress",
+        "RULE → overlapping belts, not fixed walls"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MOIST DECIDUOUS → longer wet season",
+          "THORN / SCRUB → semi-arid moisture stress",
+          "MOIST DECIDUOUS → longer wet season"
+        ],
+        [
+          "DRY DECIDUOUS → stronger leaf-shedding",
+          "RULE → overlapping belts, not fixed walls",
+          "DRY DECIDUOUS → stronger leaf-shedding"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOIST DECIDUOUS → longer wet season",
+            "DRY DECIDUOUS → stronger leaf-shedding"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THORN / SCRUB → semi-arid moisture stress",
+            "RULE → overlapping belts, not fixed walls"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MOIST DECIDUOUS → longer wet season",
+            "DRY DECIDUOUS → stronger leaf-shedding"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THORN / SCRUB → semi-arid moisture stress; RULE → overlapping belts, not fixed walls.",
+      "source_references": [
+        "India analogue boundary",
+        "Moist and dry deciduous forests",
+        "Thorn scrub and open ecosystems",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIAN GRASSLAND FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIAN GRASSLAND FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "HUMID TALL GRASS AND FLOODPLAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "MONTANE GRASS-FOREST MOSAIC",
+          "role": "comparison"
+        },
+        {
+          "text": "ARID-SALINE KACHCHH GRASSLAND",
+          "role": "evidence"
+        },
+        {
+          "text": "HYDROLOGY AND HISTORY FIRST",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TERAI → humid tall grass and floodplain",
+        "SHOLA → montane grass-forest mosaic",
+        "BANNI → arid-saline Kachchh grassland",
+        "MANAGEMENT → hydrology and history first"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TERAI → humid tall grass and floodplain",
+          "BANNI → arid-saline Kachchh grassland",
+          "TERAI → humid tall grass and floodplain"
+        ],
+        [
+          "SHOLA → montane grass-forest mosaic",
+          "MANAGEMENT → hydrology and history first",
+          "SHOLA → montane grass-forest mosaic"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TERAI → humid tall grass and floodplain",
+            "SHOLA → montane grass-forest mosaic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BANNI → arid-saline Kachchh grassland",
+            "MANAGEMENT → hydrology and history first"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TERAI → humid tall grass and floodplain",
+            "SHOLA → montane grass-forest mosaic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BANNI → arid-saline Kachchh grassland; MANAGEMENT → hydrology and history first.",
+      "source_references": [
+        "Terai, shola and Banni",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RESTORATION DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESTORATION DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL OPEN ECOSYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSERVE OPENNESS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEGRADED SCRUB",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTORE NATIVE MOSAIC",
+          "role": "primary"
+        },
+        {
+          "text": "WATER PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "RECHARGE AND DRAINAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "GRAZING AND TENURE DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATURAL OPEN ECOSYSTEM → conserve openness",
+        "DEGRADED SCRUB → restore native mosaic",
+        "WATER PROCESS → recharge and drainage",
+        "LIVELIHOOD → grazing and tenure design",
+        "CLOSE DISTINCTION: Savanna is tropical grassland, steppe is semi-arid temperate/subtropical grassland, and parkland structure is"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATURAL OPEN ECOSYSTEM → conserve openness",
+            "DEGRADED SCRUB → restore native mosaic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WATER PROCESS → recharge and drainage",
+            "LIVELIHOOD → grazing and tenure design"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Savanna is tropical grassland, steppe is semi-arid temperate/subtropical grassland, and parkland structure is not",
+            "evidence of a climax maintained by climate alone because fire, herbivory and land use matter."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Savanna is tropical grassland, steppe is semi-arid temperate/subtropical grassland, and parkland structure is not evidence of a climax maintained by climate alone because fire, herbivory and land use matter.",
+      "source_references": [
+        "Restoration and Aravalli Green Wall",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SAVANNA PYQ FIREWALL",
+      "structural_type": "exam-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SAVANNA PYQ FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "2021 PRELIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "TREE-LIMITING CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG DRY SEASON",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRE + HERBIVORY",
+          "role": "primary"
+        },
+        {
+          "text": "NO ANSWER LETTER INVENTED",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "FIRE CAN RECYCLE NUTRIENTS AND MAINTAIN OPENNESS BUT FREQUENCY/INTENSITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 PRELIMS → tree-limiting conditions",
+        "CLIMATE → long dry season",
+        "DISTURBANCE → fire + herbivory",
+        "LEDGER → no answer letter invented",
+        "EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity changes may degrade systems"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "2021 PRELIMS → tree-limiting conditions",
+          "DISTURBANCE → fire + herbivory",
+          "EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity changes may degrade systems"
+        ],
+        [
+          "CLIMATE → long dry season",
+          "LEDGER → no answer letter invented",
+          "Indian deciduous forests and grasslands need region-specific rainfall, fire and grazing evidence rather than direct Sudan-type equivalence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2021 PRELIMS → tree-limiting conditions",
+            "CLIMATE → long dry season"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTURBANCE → fire + herbivory",
+            "LEDGER → no answer letter invented"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity changes may degrade systems",
+            "Indian deciduous forests and grasslands need region-specific rainfall, fire and grazing evidence rather than direct Sudan-type equivalence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity changes may degrade systems; Indian deciduous forests and grasslands need region-specific rainfall, fire and grazing evidence rather than direct Sudan-type equivalence.",
+      "source_references": [
+        "Verified savanna PYQ and verdict",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SAVANNA ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SAVANNA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "RAINFOREST-DESERT TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "ITCZ AND WET-DRY SEASON",
+          "role": "comparison"
+        },
+        {
+          "text": "GRASS-TREE DISTURBANCE BALANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA MOSAICS AND RESTORATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LOCATE → rainforest-desert transition",
+        "DERIVE → ITCZ and wet-dry season",
+        "EXPLAIN → grass-tree disturbance balance",
+        "APPLY → India mosaics and restoration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCATE → rainforest-desert transition",
+            "DERIVE → ITCZ and wet-dry season"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN → grass-tree disturbance balance",
+            "APPLY → India mosaics and restoration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCATE → rainforest-desert transition",
+            "DERIVE → ITCZ and wet-dry season"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPLAIN → grass-tree disturbance balance; APPLY → India mosaics and restoration.",
+      "source_references": [
+        "Verified savanna PYQ and verdict",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA’S SAVANNA ANALOGUE",
+          "role": "outcome"
+        },
+        {
+          "text": "DRY DECIDUOUS FOREST + THORN SCRUB + GRASSLANDS .",
+          "role": "comparison"
+        },
+        {
+          "text": "TROPICAL MOIST DECIDUOUS FORESTS",
+          "role": "evidence"
+        },
+        {
+          "text": "100–200 CM RAINFALL; DOMINANT TEAK AND SAL .",
+          "role": "primary"
+        },
+        {
+          "text": "MOIST DECIDUOUS REGIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SAHYADRIS , NE PENINSULA, HIMALAYAN FOOTHILLS.",
+          "role": "comparison"
+        },
+        {
+          "text": "THORN/SCRUB REFLECTS ARIDITY PLUS LAND-USE PRESSURE; IT IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India’s savanna analogue = dry deciduous forest + thorn scrub + grasslands .",
+            "Tropical moist deciduous forests: 100–200 cm rainfall; dominant teak and sal .",
+            "Moist deciduous regions: Sahyadris , NE peninsula, Himalayan foothills.",
+            "Thorn/scrub reflects aridity plus land-use pressure; it is not invariably degraded moist deciduous forest."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Rainfall thresholds overlap regionally; use approximate belts rather than rigid universal cut-offs.",
+            "Thorn forest regions: peninsular India, Rajasthan, Haryana, Punjab, W UP, Kachchh, MP, Himalayan foothills.",
+            "Deciduous trees shed leaves in dry season.",
+            "Grasslands include Terai, shola and Banni examples in the source notes."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Fire and grazing maintain open grassland/woodland mosaics.",
+            "NOT: Dry deciduous forests are evergreen → They are deciduous and shed leaves in the dry season.",
+            "NOT: Thorn forests occur in the wettest parts of India → They occur in arid/semi-arid belts, generally",
+            "NOT: Banni and Terai grasslands are the same type → Terai is humid tall wet grassland; Banni is arid/saline Kachchh grassland."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1196 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+  "variant": "learner-v2",
+  "generation": 7,
+  "approval": false,
+  "official_syllabus_verbatim": "Development and Social Progress.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g7\\topic-08_Complete-Learning-Session_2026-09-03.md",
+  "source_provenance": {
+    "canonical_owner": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md",
+    "advanced_dossier": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+    "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+    "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Complete-Learning-Session_2026-08-20.md",
+    "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Solved-Practice-Workbook_2026-08-20.md",
+    "successor_source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g6\\topic-08_Complete-Learning-Session_2026-09-03.md",
+    "assembly_mode": "immutable-successor-from-latest-validated-learner-v2"
+  },
+  "core_sessions": [
+    {
+      "title": "Development: Five Rungs, One Normative Question",
+      "plain": "Growth means producing more. Development means changing the conditions in which people live. Social progress asks whether that change has made people freer, fairer, more dignified and more secure without destroying the future.",
+      "technical": "Economic growth, economic development, human development, capability development and social progress occupy different evaluative spaces: output, structural transformation, basic human options, substantive freedom, and justified improvement in social relations and institutions. Development is therefore both descriptive change and a normative judgment about lives.",
+      "answer": "Growth can finance development, but only just conversion into capability, dignity, participation and sustainable institutions can make material change social progress.",
+      "keywords": [
+        "economic growth",
+        "economic development",
+        "human development",
+        "capability development",
+        "social progress",
+        "structural transformation",
+        "normative and descriptive dimensions",
+        "economistic model"
+      ],
+      "usage": "Open every general development answer by locating its contested rung. Define growth as output, development as qualitative structural change, capability as real freedom, and progress as a justified social judgment; then show what the next rung adds.",
+      "mechanism": "Growth can expand resources for health, education, employment and public capacity, but institutions, distribution, voice and ecological limits determine whether resources become effective freedoms rather than concentrated output or displaced costs.",
+      "consequence": "An economy may grow while preventable unfreedom, humiliation, exclusion or ecological destruction intensifies; that is growth without social progress, not a paradox or an anti-growth claim.",
+      "trap": "Never use growth, development, human development, capability and social progress as synonyms, and never treat a rise in an average as proof that the normative question has been answered.",
+      "objection": "Material scarcity is real: industrialisation, productivity and income can enlarge employment, state capacity and the resource base, so rejecting the economistic model seems to reject the preconditions of welfare.",
+      "reply": "The correction is not to deny growth but to classify it as an instrument whose value is conversion-dependent. Output has no automatic verdict on distribution, work quality, political voice, displacement or ecological cost.",
+      "limit": "A richer evaluative account gives up the false precision of a single output number and must defend which freedoms, forms of equality and ecological limits are relevant.",
+      "exam": "Draw the five-rung grid; identify the measure at each rung; state the discriminating counter-case of rising income with deepening unfreedom; concede growth's enabling role; and close with the conversion verdict rather than an anti-growth slogan.",
+      "revision": [
+        "Growth asks whether more is produced; progress asks whether a social order is better.",
+        "Economic development is structural and qualitative but can remain economistic.",
+        "Human development shifts attention from wealth to human options.",
+        "Capability development measures real opportunity, not possession.",
+        "Social progress is a contested normative judgment, never GDP with a moral adjective."
+      ],
+      "visuals": [
+        {
+          "title": "The five-rung ladder: means are not the verdict",
+          "lines": [
+            "ECONOMIC GROWTH -> more output / income",
+            "        | possible means; silent on distribution",
+            "        v",
+            "ECONOMIC DEVELOPMENT -> structural productive change",
+            "        | adds opportunity; may still be economistic",
+            "        v",
+            "HUMAN DEVELOPMENT -> health, knowledge, material command",
+            "        | adds basic human options",
+            "        v",
+            "CAPABILITY DEVELOPMENT -> substantive freedom to be and do",
+            "        | adds conversion, agency and real opportunity",
+            "        v",
+            "SOCIAL PROGRESS -> justified freedom + justice + dignity +",
+            "                   participation + sustainability",
+            "CONTROL: income can rise while the final rung fails."
+          ],
+          "caption": "Each rung retains the earlier one but adds a question that the earlier measure could not answer."
+        },
+        {
+          "title": "The economistic claim, its enabling truth and its limit",
+          "lines": [
+            "SCARCITY -> productivity / investment -> larger resource base",
+            "                                      |",
+            "                                      v",
+            "                         health, education, employment, capacity",
+            "                                      |",
+            "                    MUST PASS FOUR CONVERSION TESTS",
+            "       distribution | institutions | participation | ecology",
+            "                                      |",
+            "                                      v",
+            "          CAPABILITY AND SOCIAL PROGRESS -- or only more output",
+            "OBJECTION: growth matters.  REPLY: it matters as a means.",
+            "TRAP: 'GDP rose, therefore society progressed.'"
+          ],
+          "caption": "The model saves growth's enabling role while refusing to convert an instrument into a final moral standard."
+        }
+      ],
+      "closure_keywords": [
+        "economic growth",
+        "social progress",
+        "economistic model",
+        "human development"
+      ]
+    },
+    {
+      "title": "Human Development and Sen: Resources into Real Freedom",
+      "plain": "A person can have the same income as another person and still have less real freedom because of disability, social norms, location or unequal power. Development must ask what people can actually do and become.",
+      "technical": "Mahbub ul Haq and the UNDP shift attention to longevity, knowledge and a decent material standard. Sen further shifts the evaluative space from resources or utility to substantive freedom: functionings are achieved beings and doings, capabilities are real opportunities, and agency exceeds welfare.",
+      "answer": "Income is a means; capability records what that means actually enables a person to be and do, with the person as agent rather than merely beneficiary.",
+      "keywords": [
+        "Mahbub ul Haq",
+        "UNDP",
+        "functioning",
+        "capability",
+        "conversion factors",
+        "agency",
+        "adaptive preferences",
+        "substantive freedom"
+      ],
+      "usage": "Use this session for any stem that contrasts money, welfare, human development or freedom. Define functioning and capability in paired lines, then use conversion factors and adaptive preferences to explain why resources and reported satisfaction can be inadequate measures.",
+      "mechanism": "Bodies, environments, public services and social norms convert the same resource bundle into unequal freedoms. Deprivation can also lower a person's reported aspirations, so utility may adapt downward while unfreedom persists.",
+      "consequence": "Political freedoms, economic facilities, social opportunities, transparency guarantees and protective security are both means to development and constituents of it; people cannot be counted only as recipients of a scheme.",
+      "trap": "Do not define capability as income plus welfare schemes, and do not confuse a capability with an achieved functioning. A capability protects opportunity; it does not compel a lifestyle.",
+      "objection": "Capabilities are difficult to observe and compare, whereas income and utility are measurable and administratively usable.",
+      "reply": "Measurement convenience is not an argument for the wrong evaluative space. Indicators are useful proxies, but must be treated as partial evidence rather than as the thing measured.",
+      "limit": "The approach must still decide which capabilities matter and how to compare them, leaving genuine problems of measurement, pluralism and public specification.",
+      "exam": "State the resource-to-capability shift; distinguish resource, functioning, capability, utility and agency; give the unequal conversion and adaptive-preference arguments; then concede the measurement problem without retreating to income.",
+      "revision": [
+        "Functioning = achieved being or doing; capability = real opportunity for alternative functionings.",
+        "Equal resources do not yield equal freedom.",
+        "Adaptive preferences make satisfaction an unsafe sole metric.",
+        "Agency includes goals beyond personal welfare.",
+        "Freedom is both the end and an effective means of development."
+      ],
+      "visuals": [
+        {
+          "title": "Sen's conversion chain: why equal resources diverge",
+          "lines": [
+            "RESOURCE (income, school, transport, law)",
+            "             |",
+            "             v",
+            "CONVERSION FACTORS",
+            " personal: body, age, disability",
+            " social: gender norms, caste, public safety",
+            " environmental: location, climate, infrastructure",
+            "             |",
+            "             v",
+            "CAPABILITY = real freedom to choose among functionings",
+            "             |",
+            "             v",
+            "FUNCTIONING = achieved nourishment, mobility, participation",
+            "RULE: equal resources can yield unequal capabilities."
+          ],
+          "caption": "The missing middle stage explains why resource equality cannot by itself establish freedom equality."
+        },
+        {
+          "title": "The three false substitutes for capability",
+          "lines": [
+            "RESOURCE: 'what a person has'         -- necessary, not enough",
+            "UTILITY:  'how satisfied a person says she is' -- can adapt down",
+            "FUNCTIONING: 'what a person achieved' -- outcome, not choice",
+            "                         |",
+            "                         v",
+            "CAPABILITY: 'what a person is genuinely able to be and do'",
+            "                         |",
+            "                         v",
+            "AGENCY: pursue goals one has reason to value, beyond welfare",
+            "CONTROL: do not force functioning in the name of capability."
+          ],
+          "caption": "Sen's move preserves the value of resources and outcomes while refusing to confuse either with real opportunity."
+        }
+      ]
+    },
+    {
+      "title": "Nussbaum, Dependency, Post-Development and Sustainability",
+      "plain": "Sen leaves room for public reasoning about valuable freedoms; Nussbaum argues that dignity needs a more definite minimum. Dependency and post-development then ask who defines a society as deficient and whose model of improvement it must follow.",
+      "technical": "Nussbaum's central-capability threshold is a constitutional-political minimum rather than a demand for compulsory functioning. Dependency rejects a universal stage-theory by treating underdevelopment as produced through unequal incorporation. Post-development criticises expert authority and imposed modernity; sustainable development adds future options, precaution and non-substitutable ecological conditions.",
+      "answer": "Plural development rejects an imposed single path without surrendering universal constraints of dignity, capability and non-domination.",
+      "keywords": [
+        "Nussbaum",
+        "central capabilities",
+        "dignity threshold",
+        "public reasoning",
+        "dependency",
+        "underdevelopment",
+        "post-development",
+        "sustainable development"
+      ],
+      "usage": "Use Nussbaum when a rights-like minimum or adaptive preference problem is central; use dependency against linear modernisation; use post-development to test who authorises the diagnosis; use sustainability only with a stated moral basis, not as a green label for unchanged growth.",
+      "mechanism": "A specified threshold resists public reasoning conducted inside oppression; unequal global relations can produce rather than merely delay development; external diagnosis can turn people into objects; and irreversible ecological loss forecloses future capabilities.",
+      "consequence": "Development must be assessed not only by aggregate gain but by who defines the end, who has voice, whether the gain is distributed, and whether its ecological conditions can endure.",
+      "trap": "Do not present Nussbaum as Sen with a longer list, dependency as a denial of domestic responsibility, post-development as a romantic ban on schools or hospitals, or sustainability as an unexamined policy slogan.",
+      "objection": "A universal capability list can be paternalistic, while post-development's localism can overlook internal hierarchy, poverty and demands for education, health and mobility.",
+      "reply": "Capabilities secure opportunities rather than compulsory functionings, and their political specification remains open. The strongest post-development critique rejects imposed uniformity, not material improvement or universal dignity.",
+      "limit": "A threshold still needs democratic interpretation, and critiques of external domination cannot by themselves specify how large infrastructure, redistribution or national coordination should work.",
+      "exam": "Set Sen's open evaluative space against Nussbaum's threshold; state the dependency and post-development objections in their strongest form; use sustainability's future-options test; and close with plural development under universal constraints.",
+      "revision": [
+        "Sen: public reasoning and no final canonical list.",
+        "Nussbaum: a dignity-compatible threshold of central capabilities.",
+        "Dependency: underdevelopment can be produced by unequal relations.",
+        "Post-development attacks imposed diagnosis, not every improvement.",
+        "Sustainability protects future options against irreversible loss."
+      ],
+      "visuals": [
+        {
+          "title": "Sen and Nussbaum: one evaluative space, different closure",
+          "lines": [
+            "SEN                                  NUSSBAUM",
+            "capability as evaluative space       central capabilities",
+            "public reasoning specifies content   specified dignity threshold",
+            "strength: plural and democratic      strength: resists adaptive",
+            "risk: underspecification             preferences and exclusion",
+            "             \\                         /",
+            "              \\                       /",
+            "               v                     v",
+            "COMMON CONTROL: protect opportunity, not compulsory functioning",
+            "QUESTION LEFT OPEN: who fixes the threshold, and how?"
+          ],
+          "caption": "The disagreement is about specification, not whether freedom rather than output is the evaluative space."
+        },
+        {
+          "title": "Three critiques of a single development path",
+          "lines": [
+            "LINEAR MODERNISATION: every society follows one route",
+            "        |",
+            "        +-> DEPENDENCY: unequal incorporation can PRODUCE",
+            "        |               underdevelopment, not merely delay progress",
+            "        |",
+            "        +-> POST-DEVELOPMENT: who has authority to call a people",
+            "        |                    deficient and prescribe its future?",
+            "        |",
+            "        v",
+            "RECONSTRUCTION: local voice + universal dignity + capability",
+            "                + non-domination + ecological durability",
+            "TRAP: critique of imposition is not rejection of material improvement."
+          ],
+          "caption": "The middle position avoids both developmental imperialism and the romanticisation of local hierarchy."
+        }
+      ]
+    },
+    {
+      "title": "Social Progress: Criteria, Conflict and Non-Inevitability",
+      "plain": "Calling a change progress means calling it better, not merely newer. Science, markets and technology can enlarge care and freedom, but can also distribute domination and destruction more efficiently; progress therefore needs judgment and institutions.",
+      "technical": "Social progress is weakly teleological: it judges movement toward a better condition without positing an automatic law of history. Its criteria are plural and sometimes conflicting: freedom, equality, justice, dignity, participation, security, sustainability and fraternity or solidarity.",
+      "answer": "Social progress is neither an automatic historical law nor a single aggregate: it is a defensible, multidimensional judgment about how people stand to one another and to their future.",
+      "keywords": [
+        "social progress",
+        "weak teleology",
+        "non-inevitability",
+        "plural criteria",
+        "justice",
+        "dignity",
+        "participation",
+        "sustainability"
+      ],
+      "usage": "Use this session whenever the stem assumes progress follows from knowledge, science, output or time. Define social progress through weak teleology and non-inevitability; then apply the plural criteria of justice, dignity, participation and sustainability, name a counter-case, and make the final judgment conditional rather than celebratory.",
+      "mechanism": "Technology enlarges capacities for care and destruction; institutions allocate control, benefit and risk; moral learning can be reversed. Progress therefore emerges only through agency, contest, accountable institutions and public judgment.",
+      "consequence": "No single index settles progress. A society with higher output but greater domination or ecological foreclosure cannot claim a complete progress verdict from the aggregate alone.",
+      "trap": "Do not treat teleology as inevitability, treat twentieth-century atrocity as proof that all progress is impossible, or list criteria without showing how they judge the stated change.",
+      "objection": "Because values conflict across communities, social progress is value-relative and any universal criterion is cultural imposition.",
+      "reply": "Reasonable disagreement persists, but freedom from severe deprivation and humiliation, equal standing, reasons-giving and the preservation of future options have cross-cultural force. Public reasoning is part of progress, not merely its measure.",
+      "limit": "Plural criteria generate hard trade-offs; philosophy can require that they be made explicit and justified, but cannot make every conflict mechanically commensurable.",
+      "exam": "Define weak teleology; reject the automatic inference from technical capacity to moral improvement; use a criteria grid; show one conflict among criteria; and close on agency, institutions and public reasoning.",
+      "revision": [
+        "Progress = justified improvement, not change alone.",
+        "Weak teleology needs an end but no law of inevitable advance.",
+        "Freedom, equality, justice, dignity and sustainability are distinct criteria.",
+        "Technology supplies capacity, not ethical ends.",
+        "Public reasoning is constitutive as well as diagnostic."
+      ],
+      "visuals": [
+        {
+          "title": "Why progress is not an automatic consequence of knowledge",
+          "lines": [
+            "REASON / SCIENCE / TECHNOLOGY",
+            "             | enlarges human capacity",
+            "             v",
+            "CARE, HEALTH, KNOWLEDGE       OR       SURVEILLANCE, VIOLENCE, EXCLUSION",
+            "             \\                              /",
+            "              \\                            /",
+            "               v                          v",
+            "INSTITUTIONS distribute control, benefit and risk",
+            "               |",
+            "               v",
+            "PROGRESS ONLY IF freedom + justice + dignity + sustainability improve",
+            "CONTROL: moral learning can be reversed."
+          ],
+          "caption": "Capacity is morally underdetermined; institutions and judgment supply the missing direction."
+        },
+        {
+          "title": "The plural criteria wheel",
+          "lines": [
+            "                 FREEDOM -- real options and voice",
+            "                    /                         \\",
+            "EQUALITY -- less domination                 JUSTICE -- defensible",
+            "and status hierarchy                         benefits, burdens, procedure",
+            "                    \\                         /",
+            "              DIGNITY -- no humiliation or exclusion",
+            "                    /                         \\",
+            "PARTICIPATION -- affected people decide    SUSTAINABILITY -- future",
+            "                                           conditions preserved",
+            "RULE: no one aggregate can settle all spokes."
+          ],
+          "caption": "A progress claim must name the criterion it satisfies and the criterion it may put under pressure."
+        }
+      ]
+    },
+    {
+      "title": "Economic Development, Social Progress and Democratic Equality",
+      "plain": "Food, health, education and security need material support, so economic development matters. But wealth can coexist with exclusion, authoritarianism, gender hierarchy and ecological loss, so it cannot by itself make a society progressive.",
+      "technical": "The 2024 modal question requires separate tests. Adequate material capabilities are normally threshold-necessary because severe deprivation blocks health, education and agency; 'economic development' is too broad to be logically necessary in every conceivable case; it is clearly not sufficient. Progress also needs redistribution, recognition and democratic participation, both instrumental and constitutive.",
+      "answer": "Economic development is a threshold-level enabling condition, not a sufficient condition: resources become progress only when they are converted into equal status, agency and durable freedom.",
+      "keywords": [
+        "necessary condition",
+        "sufficient condition",
+        "material threshold",
+        "redistribution",
+        "recognition",
+        "equal status",
+        "participation",
+        "democracy"
+      ],
+      "usage": "For necessary/sufficient stems, test necessity and sufficiency separately. For democracy or inclusion stems, pair redistribution of resources with recognition of equal status and state why participation is itself an element of a developed life.",
+      "mechanism": "Material deprivation constrains health, knowledge and voice, while unequal social status and decision-power prevent resources from becoming secure capabilities. Participation improves information and accountability and also recognises affected persons as agents.",
+      "consequence": "Growth that leaves caste, gender or tribal power intact may increase aggregate resources without transforming relations of domination; material provision without respect is paternalistic, while recognition without resources is merely symbolic.",
+      "trap": "Do not answer 'necessary and sufficient?' with 'important.' Do not call economic development flatly necessary without the material-threshold qualification, and do not treat consultation as optional goodwill after the decision.",
+      "objection": "Participation delays urgent infrastructure and lets local elites veto wider welfare; decisive experts can deliver benefits faster.",
+      "reply": "Participation needs inclusive design, representation, reasons and review to resist elite capture, but its defects do not license treating affected people as objects. It improves knowledge, accountability, legitimacy and durable compliance.",
+      "limit": "Participation cannot by itself settle genuine conflicts or remove urgent timing constraints; a defensible account must show who is represented, what is reviewable and how burdens are shared.",
+      "exam": "Name the modal test; establish the deprivation threshold; defeat sufficiency with exclusion or ecological-loss counter-cases; add redistribution plus recognition; explain participation's instrumental and constitutive roles; then give the graded verdict.",
+      "revision": [
+        "Severe deprivation blocks capability, supporting threshold necessity.",
+        "Wealth can coexist with unfreedom, defeating sufficiency.",
+        "Redistribution without recognition can be paternalistic.",
+        "Recognition without resources can be symbolic.",
+        "Participation is useful for outcomes and valuable in itself."
+      ],
+      "visuals": [
+        {
+          "title": "The modal test: necessary is not sufficient",
+          "lines": [
+            "TEST 1: NECESSITY",
+            " severe material deprivation -> blocked health, education, voice",
+            " result: adequate MATERIAL CAPABILITY normally threshold-necessary",
+            " caveat: 'economic development' is broader than this claim",
+            "",
+            "TEST 2: SUFFICIENCY",
+            " rising output + exclusion / domination / ecological loss",
+            " result: economic development is NOT sufficient",
+            "",
+            "VERDICT: enabling means -> just conversion -> social progress",
+            "TRAP: never substitute the word 'important' for the two tests."
+          ],
+          "caption": "The marks lie in separately proving the threshold claim and supplying the sufficiency counter-case."
+        },
+        {
+          "title": "From provision to social equality",
+          "lines": [
+            "RESOURCES -----------------> REDISTRIBUTION",
+            "                                   |",
+            "STATUS / RESPECT ----------> RECOGNITION",
+            "                                   |",
+            "DECISION-POWER ------------> PARTICIPATION",
+            "                                   |",
+            "                                   v",
+            "DEMOCRATIC SOCIAL PROGRESS: people are beneficiaries AND agents",
+            "instrumental: information, accountability, compliance",
+            "constitutive: voice is part of a developed human life",
+            "CONTROL: consultation without inclusion can be elite capture."
+          ],
+          "caption": "The three dimensions correct three different failures of growth-led social policy."
+        }
+      ]
+    },
+    {
+      "title": "Technology and Skill Education: Power Needs Ethical Direction",
+      "plain": "Technology can reduce suffering and drudgery, but can also surveil, manipulate, exclude or deskill. Skills can expand people's work options, but a certificate without decent work, dignity or civic education is not full development.",
+      "technical": "Technology changes capacities and social relations but supplies no criterion of what ought to be done. Skill education can improve the conversion of formal education into competence, work options, productivity, bargaining power, self-respect and agency. Both claims are conditional on distribution, governance, human control, work quality and adaptability.",
+      "answer": "Technology expands power and skill expands possible agency; neither automatically supplies the ethical ends, fair access or institutions that turn expanded capacity into social progress.",
+      "keywords": [
+        "technological development",
+        "ethical standards",
+        "instrumental neutrality",
+        "skill education",
+        "capability",
+        "decent work",
+        "dignity of labour",
+        "critical citizenship"
+      ],
+      "usage": "For the 2019 pattern, give a mechanism and a defeater rather than a yes/no assertion. For skill education, show how skill converts formal opportunity into capability, then test work quality, equal access, obsolescence and civic education.",
+      "mechanism": "Technical systems alter what people and institutions can do; their effect depends on control, access, accountability and the ends selected. Relevant skills can convert education into effective work and participation, but labour markets and power determine whether that conversion is realised.",
+      "consequence": "Medical or information capacity can reduce suffering and improve transparency, while the same capacity can intensify bias, surveillance, displacement and unequal control. Skills without decent work create frustrated rather than fulfilled capability.",
+      "trap": "Do not say technology automatically improves morality, or reduce skill education to employability statistics. A causal answer must identify the mediating institutions and what defeats them.",
+      "objection": "Because technology is only an instrument, it is morally neutral and need not concern political philosophy; because jobs matter, skill education should be judged only by placement.",
+      "reply": "An instrument can be ethically underdetermined without being socially neutral: access, design, surveillance and displacement reorganise power. Employment matters, but capability also requires dignity, adaptability, critical reason and agency.",
+      "limit": "Technology can generate genuinely new moral problems and skills cannot guarantee decent work; the conclusion is conditional, not that technical or vocational learning has no value.",
+      "exam": "State that technology expands capacity rather than ethics; use one optimistic and one critical pathway; name ethical governance and fair access as conversion conditions. For skills, construct the capability chain and close with livelihood plus citizenship.",
+      "revision": [
+        "Technical progress is not ethical progress.",
+        "Power requires purposes, fair access, accountability and control.",
+        "Skill can enlarge competence, options, productivity and self-respect.",
+        "No decent work means frustrated capability.",
+        "Education also needs adaptability, dignity and critical citizenship."
+      ],
+      "visuals": [
+        {
+          "title": "Technology: capacity branches before ethical verdict",
+          "lines": [
+            "TECHNICAL CAPACITY",
+            "        |",
+            "        +-> medicine / communication / transparency -> reduced suffering",
+            "        |",
+            "        +-> surveillance / manipulation / automation -> domination, bias, displacement",
+            "        |",
+            "        v",
+            "CONVERSION CONDITIONS: ethical purpose + fair access + accountable",
+            "control + human oversight + institutions of redress",
+            "        |",
+            "        v",
+            "ONLY THEN: technological development can contribute to progress"
+          ],
+          "caption": "The two branches prove why technology alone cannot settle the question of ethical progress."
+        },
+        {
+          "title": "Skill education: from formal learning to agency",
+          "lines": [
+            "EDUCATION -> relevant skill -> competence -> work options",
+            "                                      |",
+            "                                      v",
+            "                         productivity + bargaining power + self-respect",
+            "                                      |",
+            "                        MUST ADD FOUR CONDITIONS",
+            "                    decent work | equal access | adaptability | citizenship",
+            "                                      |",
+            "                                      v",
+            "CAPABILITY AND DEVELOPMENT",
+            "FAILURE: narrow employability or obsolete training -> frustrated capability"
+          ],
+          "caption": "Skill is a powerful conversion factor, not a complete theory of education or development."
+        }
+      ]
+    },
+    {
+      "title": "Gandhian Social Development: Sarvodaya, Swaraj and its Test",
+      "plain": "Gandhi asks whether an economy serves human need or makes people dependent on endless wants and distant power. His answer is welfare of all through self-rule, non-violence, meaningful work, restraint, trusteeship and decentralised local production.",
+      "technical": "Gandhian development joins sarvodaya, swaraj, ahimsa, dignity of labour, trusteeship, restraint of wants, village-centred production and decentralisation. Its means-ends unity denies that violent, degrading or domination-producing means can reliably yield a non-violent, self-governing social order.",
+      "answer": "For Gandhi, development is not the multiplication of wants but the moral and material self-rule of all, in which means already prefigure the society they claim to build.",
+      "keywords": [
+        "sarvodaya",
+        "swaraj",
+        "ahimsa",
+        "trusteeship",
+        "restraint of wants",
+        "decentralisation",
+        "village-centred production",
+        "means and ends unity"
+      ],
+      "usage": "For the 2020 pattern, define sarvodaya and swaraj as the Gandhian end, ahimsa and means-ends unity as its discipline, and trusteeship, restraint and decentralisation as its route. Then test village-centred production against caste, patriarchy, rights and complex modern needs.",
+      "mechanism": "Unlimited wants foster competition, dependence and violence; centralised industrial power separates production from need and local control; self-rule needs economic and moral capacity at the local level, so scale, ownership and technique are judged by participation, need and non-domination.",
+      "consequence": "Gandhianism is not simply anti-machine: it is a critique of scale, control, wants and degraded labour. Trusteeship also morally limits absolute ownership but does not itself supply enforceable redistribution.",
+      "trap": "Do not romanticise the village, identify trusteeship with an institutional mechanism, or call Gandhi anti-modern without testing the machine's scale, control, purpose and social cost.",
+      "objection": "The village can reproduce caste and patriarchy; voluntary trusteeship leaves owners powerful; small-scale production may not supply complex infrastructure or modern public goods.",
+      "reply": "Ambedkar's anti-caste objection is indispensable. A defensible reconstruction keeps decentralisation only under equal rights, mobility and anti-domination safeguards, reads Gandhi as a test of technique rather than a ban on all machines, and adds institutional accountability to trusteeship.",
+      "limit": "The reconstruction changes a voluntary moral ideal into a mixed institutional programme and still faces questions about scale, coordination and the persistence of local hierarchy.",
+      "exam": "Begin sarvodaya-swaraj-trusteeship-village; give the means-ends argument; state the three presuppositions; present the Ambedkarite caste objection rather than hiding it; and close on rights-constrained, selectively technological decentralisation.",
+      "revision": [
+        "Sarvodaya = welfare and moral elevation of all.",
+        "Swaraj is moral and economic self-rule, not only state independence.",
+        "Means shape ends; development cannot be indifferent to its means.",
+        "Trusteeship criticises absolute ownership but needs accountability.",
+        "Village decentralisation is progressive only under equal rights."
+      ],
+      "visuals": [
+        {
+          "title": "Gandhi's development argument",
+          "lines": [
+            "UNLIMITED WANTS -> dependence + competition + violence",
+            "        |",
+            "CENTRALISED INDUSTRIAL POWER -> distant control + degraded labour",
+            "        |",
+            "MEANS SHAPE ENDS -> degrading means cannot yield non-violent society",
+            "        |",
+            "        v",
+            "SARVODAYA + SWARAJ + AHIMSA",
+            "need-oriented production | dignity of labour | decentralisation",
+            "trusteeship | restraint of wants | local participation",
+            "CONTROL: judge a machine by scale, control, need and cost."
+          ],
+          "caption": "The argument links Gandhi's moral vocabulary to a diagnosis of economic dependence and political power."
+        },
+        {
+          "title": "Reconstructing the village ideal without romanticism",
+          "lines": [
+            "GANDHI: village can be a school of swaraj",
+            "                         |",
+            "AMBEDKAR: village can institutionalise caste exclusion",
+            "                         |",
+            "                         v",
+            "NON-NEGOTIABLE SAFEGUARDS",
+            "equal rights | anti-caste law | gender justice | mobility | dissent",
+            "                         |",
+            "                         v",
+            "DEFENSIBLE DECENTRALISATION: local control without local domination",
+            "TRAP: do not praise the village without the objection."
+          ],
+          "caption": "The objection is a condition of a defensible Gandhi answer, not an optional cross-topic ornament."
+        }
+      ],
+      "closure_keywords": [
+        "ahimsa",
+        "swaraj",
+        "sarvodaya",
+        "trusteeship"
+      ]
+    },
+    {
+      "title": "Development and Tribal Values: Agency, Rights and Reconciliation",
+      "plain": "Development and tribal values are reconciled only when affected communities help define benefit, bear no unjust share of risk, retain cultural recognition and genuine agency, and are not merely compensated after someone else has decided.",
+      "technical": "A reconciliation account begins with equal citizenship and cultural recognition, assesses capabilities gained and destroyed, secures informed inclusive participation, protects individual and community rights without freezing culture, distributes benefits, burdens and decision-power fairly, preserves dissent and gender justice, and prefers reversible alternatives under grave uncertainty.",
+      "answer": "Development is reconcilable with tribal values only where communities are agents rather than objects: gains and losses count together, participation precedes decision, irreversible loss attracts precaution, and costs are not offloaded downward.",
+      "keywords": [
+        "tribal values",
+        "cultural recognition",
+        "equal citizenship",
+        "capabilities gained and destroyed",
+        "informed participation",
+        "precaution",
+        "PESA 1996",
+        "Forest Rights Act 2006"
+      ],
+      "usage": "For the 2025 pattern, identify the collision between tribal values and imposed development before proposing reconciliation. Test cultural recognition, equal citizenship, capabilities, informed participation and precaution; then classify PESA 1996 and the Forest Rights Act 2006 as enacted statutes and Orissa Mining Corporation as a judgment, never as proof of implementation.",
+      "mechanism": "Development projects may distribute benefits elsewhere while imposing displacement, extraction, ecological loss and cultural assimilation on communities. Prior participation, rights, reviewable reasons and burden-sharing change persons from objects of compensation into co-authors of development.",
+      "consequence": "Land and ecological relations can be identity, livelihood, memory and intergenerational continuity as well as commodity. A project that counts only its produced benefits conceals capabilities destroyed and converts an ethical conflict into an accounting exercise.",
+      "trap": "Do not romanticise tribal communities as homogeneous or ecologically virtuous, deny internal dissent or gender justice, or turn PESA/FRA enactment and Niyamgiri litigation into claims about notification, implementation or reconciliation achieved.",
+      "objection": "Prior consent and local participation can obstruct projects that supply wider public goods, while cultural protection can freeze persons inside inherited practices and empower local elites.",
+      "reply": "The model protects individual and community rights together: inclusive participation includes dissent, exit, gender justice, representation and review. It does not give every local actor an unqualified veto; it requires public justification and fair distribution before irreversible burdens are imposed.",
+      "limit": "The framework cannot eliminate genuine conflicts among local, regional and future claims. Its achievement is to make the conflict answerable through agency and burden tests rather than through a false tradition-versus-modernity binary.",
+      "exam": "State what development and tribal values each require; expose the distributional collision; run capabilities, participation, irreversibility and burden-sharing tests; classify each Indian illustration precisely; and conclude conditionally, not with a generic call for balanced development.",
+      "revision": [
+        "Ask who defines benefit, bears cost, decides and whose knowledge counts.",
+        "Count capabilities destroyed as well as capabilities gained.",
+        "Participation concerns the decision, not only compensation.",
+        "PESA 1996 and FRA 2006 are enacted statutes.",
+        "Orissa Mining Corporation (2013) is a Supreme Court judgment involving Gram Sabha consideration, not implementation proof."
+      ],
+      "visuals": [
+        {
+          "title": "The tribal reconciliation four-test gate",
+          "lines": [
+            "A PROJECT CLAIMED AS DEVELOPMENT",
+            "        |",
+            "  [1] CAPABILITY TEST -> what is gained AND destroyed?",
+            "  [2] AGENCY TEST      -> participation in decision, not compensation?",
+            "  [3] PRECAUTION TEST  -> irreversible ecological/cultural loss?",
+            "  [4] BURDEN TEST      -> are costs shifted to the least able?",
+            "        |",
+            "        v",
+            "RECONCILABLE ONLY IF ALL FOUR ARE MET TOGETHER",
+            "plus equal citizenship, recognition, dissent, exit and gender justice",
+            "CONTROL: communities are agents, never obstacles or objects."
+          ],
+          "caption": "The four tests turn a vague appeal to balance into an argument that can adjudicate a reconciliation claim."
+        },
+        {
+          "title": "Indian illustrations: status before philosophical use",
+          "lines": [
+            "PESA, 1996 -> ENACTED STATUTE -> adapted panchayat arrangements",
+            "                                     in Scheduled Areas",
+            "FRA, 2006  -> ENACTED RIGHTS-RECOGNITION STATUTE -> individual and",
+            "                                     community forest rights",
+            "Orissa Mining Corporation v. Ministry of Environment and Forest",
+            "(2013)   -> SUPREME COURT JUDGMENT -> Gram Sabha consideration",
+            "                                     in the Niyamgiri context",
+            "RULE: statute / judgment = institutional recognition, NOT proof of",
+            "notification, implementation, capability expansion or reconciliation."
+          ],
+          "caption": "Correct legal classification earns credibility while leaving the philosophical argument to be made separately."
+        }
+      ]
+    },
+    {
+      "title": "Ecological Development I: Moral Standing and Deep Ecology",
+      "plain": "Before asking how much nature to protect, ask why it matters. An anthropocentric view protects nature for humans; a biocentric view gives living beings worth; an ecocentric view values ecological wholes. They are rival moral positions, not levels of the same environmental enthusiasm.",
+      "technical": "Anthropocentrism assigns moral standing to humans, biocentrism to individual living beings with a good of their own, and ecocentrism to species, habitats, ecosystems and the biotic community. Naess's 1973 shallow/deep distinction concerns depth of questioning: symptom management for human welfare versus revision of the framework that treats nature as standing reserve.",
+      "answer": "Ecology becomes political philosophy when the question changes from how much nature to manage to what has moral standing, what a good life demands, and who may bear the cost of restraint.",
+      "keywords": [
+        "anthropocentric",
+        "biocentric",
+        "ecocentric",
+        "moral standing",
+        "moral considerability",
+        "Arne Naess",
+        "shallow ecology",
+        "deep ecology"
+      ],
+      "usage": "Use the orientation grid before saying 'environment versus development.' For a philosophical sustainability answer, state the moral object and the distinctive weakness of each view, then use Naess to distinguish altered symptoms from altered assumptions about consumption and the good life.",
+      "mechanism": "A shallow response treats pollution and depletion as technical problems affecting human welfare. Deep ecology argues that if the underlying model treats nature only as stock for rising consumption, efficiency gains are absorbed into expanded output and the problem returns at a larger scale.",
+      "consequence": "Treating land as a mere commodity is a substantive moral choice, not a neutral baseline. This exposes why ecological loss can also be a loss of livelihood, identity and future capability.",
+      "trap": "Do not call the orientations stronger and weaker versions of one view, assert intrinsic value without acknowledging its argumentative burden, or adopt strong ecocentrism casually while ignoring its risk of subordinating persons to systemic goods.",
+      "objection": "Intrinsic value cannot be established without a human valuer, and deep ecology can treat subsistence consumption by the poor as equivalent to luxury consumption by the affluent.",
+      "reply": "The source of a judgment need not be its object: humans can judge that non-human life matters independently of human use. A defensible deep ecological reply distinguishes subsistence from luxury and shifts restraint toward affluence.",
+      "limit": "The intrinsic-value claim remains contested, and deep ecology domesticated by poverty and justice concerns concedes important ground to a capability-centred, distributive account.",
+      "exam": "Use the wilderness discriminating question to separate the orientations; reconstruct Naess's depth argument; name the subsistence/luxury objection; avoid a slogan of harmony; and defend an explicit position compatible with dignity and agency.",
+      "revision": [
+        "Anthropocentric: human moral standing; nature chiefly instrumental.",
+        "Biocentric: individual living beings have inherent worth.",
+        "Ecocentric: systems and wholes have value; risk is sacrificing individuals.",
+        "Shallow/deep differs by depth of questioning, not concern.",
+        "Distinguish subsistence from luxury before using ecological restraint."
+      ],
+      "visuals": [
+        {
+          "title": "Three answers to 'what counts morally?'",
+          "lines": [
+            "ORIENTATION       MORAL OBJECT              MAIN WEAKNESS",
+            "anthropocentric   human beings              ignores what nobody uses",
+            "biocentric        each living being         cannot easily value systems",
+            "ecocentric        species, habitats,        can subordinate persons to",
+            "                  ecosystems, biotic whole  the good of the whole",
+            "",
+            "DISCRIMINATING QUESTION: destroy a wilderness no human will ever",
+            "see, use or know?  Anthropocentric: no; biocentric/ecocentric: yes,",
+            "but for different reasons."
+          ],
+          "caption": "Moral standing is the prior question; environmental policy follows from rather than replaces it."
+        },
+        {
+          "title": "Naess: symptom control versus framework change",
+          "lines": [
+            "SHALLOW ECOLOGY -> pollution / depletion symptoms",
+            "       aim: human health and affluence",
+            "       method: manage nature for welfare",
+            "",
+            "DEEP ECOLOGY -> framework that makes nature a standing reserve",
+            "       aim: intrinsic value, diversity, revised good life",
+            "       mechanism: challenge ever-rising consumption itself",
+            "",
+            "CONTROL: difference is DEPTH OF QUESTIONING, not degree of concern.",
+            "OBJECTION: distinguish subsistence need from affluent luxury."
+          ],
+          "caption": "Naess supplies a philosophical critique of the framework that produces ecological problems, not a policy list."
+        }
+      ]
+    },
+    {
+      "title": "Ecological Development II: Degrowth, Future Justice, Just Transition and Answer Synthesis",
+      "plain": "If output keeps expanding on a finite planet, who must reduce consumption, who can still improve basic life chances, and what do people alive now owe people not yet born? These are questions of justice, not merely environmental management.",
+      "technical": "Productivism makes expanding production the master social aim; the degrowth challenge contests permanent aggregate growth in already-affluent settings and proposes sufficiency, lower throughput, care, shorter work and equality. Intergenerational justice invokes preserving options and avoiding irreversibility against the non-identity, reciprocity and pure-time-preference problems. Environmentalism of the poor reframes conflict as livelihood and ecological distribution; just transition rejects eco-authoritarianism through participation and burden guarantees. The complete synthesis also compares growth-centred and capability models, Sen and Nussbaum, Gandhi and industrial modernisation, Gandhi and Ambedkar on the village, and modernisation and post-development; directive fidelity determines which comparison the answer needs.",
+      "answer": "Development is bounded by ecological justice, but the bound is asymmetric: restrain luxury throughput where consumption is high, expand base capabilities where deprivation persists, and make the transition participatory and fair.",
+      "keywords": [
+        "productivism",
+        "degrowth",
+        "contraction and convergence",
+        "intergenerational justice",
+        "environmentalism of the poor",
+        "just transition",
+        "directive decoder",
+        "graded verdict"
+      ],
+      "usage": "For limits-of-growth or tribal-development answers, identify productivism before attacking a particular market or ideology; state degrowth's asymmetry; meet non-identity rather than asserting duties to the future; then reframe environment versus development as a distribution of ecological costs and control. Finish by decoding the directive and using the universal answer spine: conception, qualified thesis, mechanism, evidence, objection, reply, residual limit and graded verdict.",
+      "mechanism": "Finite sinks and stocks constrain throughput; efficiency may be offset by expanding output; beyond a threshold, added output need not expand health or freedom. Irreversible damage forecloses future options, while imposed adjustment fails epistemically, politically and distributively when it ignores local knowledge and shifts costs to vulnerable people. A directive-responsive sequence turns comparison into adjudication: the chosen conception supplies a standard, the rival exposes its cost, and the residual limit narrows the final claim.",
+      "consequence": "The development question changes from 'growth or environment?' to which development, for whom, with whose consent, at whose cost, and within which irreversible limits. This makes the tribal case a convergence point rather than a detachable example. The final answer thereby remains philosophical rather than becoming a catalogue of schemes, indices or environmental facts.",
+      "trap": "Do not prescribe blanket degrowth to a deprivation setting, describe productivism as capitalism alone, ignore the non-identity problem, romanticise poor communities, or infer that ecological urgency licenses authoritarian decision-making. Do not write a balanced survey without a standard or verdict, and do not use a statute, judgment, scheme, target or datum as proof of doctrine.",
+      "objection": "Degrowth threatens jobs, public revenue and services; future persons cannot reciprocate or complain of harm where a different policy would have produced different persons; democracy is too slow for hard ecological thresholds.",
+      "reply": "The defensible claim is contraction and convergence, not uniform austerity: restrain affluent luxury while protecting base capability expansion. Preserve options and avoid irreversibility through impersonal duties and precaution. Participation brings local knowledge, compliance, accountability and fair livelihood guarantees, making transition more durable rather than weaker.",
+      "limit": "No managed large-scale contraction has removed the employment and revenue problem, future preferences remain uncertain, and participation cannot erase genuine urgency; these residual problems must be conceded, not hidden.",
+      "exam": "Define productivism; give the finite-throughput argument and asymmetric degrowth verdict; specify future duty as preserving options; state the non-identity response; use environmentalism of the poor to distribute costs; defeat eco-authoritarianism with just transition; conclude conditionally. For every directive, use conception -> thesis -> mechanism -> named evidence or classified illustration -> objection -> reply -> residual limit -> verdict; distinguish means, conversion conditions and final values.",
+      "revision": [
+        "Productivism treats output expansion as the master objective.",
+        "Degrowth applies asymmetrically: luxury contraction, base capability expansion.",
+        "Future justice preserves options and avoids irreversible loss.",
+        "Non-identity shifts argument toward impersonal principles.",
+        "Environmentalism of the poor is about livelihood conflict, not the ecological virtue of poor people.",
+        "Just transition requires livelihood protection, participation and fair burden-sharing.",
+        "Growth model versus Sen: output versus substantive opportunity.",
+        "Sen versus Nussbaum: open public reasoning versus threshold list.",
+        "Gandhi versus modernisation: scale/control/wants versus productivity.",
+        "Gandhi versus Ambedkar: local self-rule versus caste domination.",
+        "Modernisation versus post-development: transformation versus imposed diagnosis.",
+        "Every conclusion separates means, conversion conditions and final values."
+      ],
+      "visuals": [
+        {
+          "title": "Productivism, degrowth and the asymmetry rule",
+          "lines": [
+            "PRODUCTIVISM: more production = master aim + solution to distribution",
+            "        |",
+            "FINITE SINKS / STOCKS + rebound into greater output",
+            "        |",
+            "        v",
+            "DEGROWTH CHALLENGE: sufficiency, equality, care, lower throughput",
+            "        |",
+            "        +-> AFFLUENT / luxury consumption -> contraction",
+            "        +-> DEPRIVATION / basic capabilities -> expansion",
+            "        |",
+            "        v",
+            "CONTRACTION AND CONVERGENCE, never blanket anti-development",
+            "CONTROL: critique applies to industrial socialism as well as capitalism."
+          ],
+          "caption": "The asymmetry prevents ecological restraint from becoming a rule that locks the poor below a capability threshold."
+        },
+        {
+          "title": "Future justice and just transition: two distributive tests",
+          "lines": [
+            "FUTURE PEOPLE -> cannot vote, bargain or reciprocate",
+            "        | problem: non-identity + pure time preference",
+            "        v",
+            "DUTY: preserve options; avoid irreversible loss; use precaution",
+            "",
+            "PRESENT PEOPLE -> workers, communities, small producers bear costs",
+            "        | eco-authoritarian claim: urgency permits insulation",
+            "        v",
+            "JUST TRANSITION: local knowledge + accountability + livelihood,retraining / compensation + participation + fair burden-sharing",
+            "RULE: durable ecological policy needs agency, not imposed sacrifice."
+          ],
+          "caption": "The same justice question concerns persons separated by time and persons unequally burdened in the present."
+        },
+        {
+          "title": "Directive decoder: the verb fixes the argument",
+          "lines": [
+            "EXPLAIN -> definition -> components -> neighbouring distinction -> example",
+            "DISCUSS -> conception -> rival -> objection -> reply -> verdict",
+            "EVALUATE -> state standard -> apply -> counter-case -> judgment",
+            "NECESSARY / SUFFICIENT -> test necessity -> test sufficiency -> modal verdict",
+            "DO YOU AGREE -> qualified position FIRST -> reasons -> counter-case -> restate",
+            "RECONCILE X / Y -> requirements -> collision -> conditions -> verdict",
+            "DOES X LEAD TO Y -> mechanism -> defeater -> conditional verdict",
+            "CONTROL: a survey of material is not a directive-responsive answer."
+          ],
+          "caption": "The same topic produces different answer scripts because each directive asks for a different form of judgment."
+        },
+        {
+          "title": "Universal development answer spine",
+          "lines": [
+            "1  NAME the conception under dispute: growth / human / capability / progress",
+            "2  STATE a qualified thesis in the stem's own vocabulary",
+            "3  EXPLAIN the mechanism and its conversion conditions",
+            "4  DEPLOY one named evidence unit or classified Indian illustration",
+            "5  TEST the strongest rival or objection",
+            "6  REPLY and concede the residual problem",
+            "7  REFRAME distribution: who benefits, bears cost and decides?",
+            "8  CLOSE: means != conversion conditions != final values",
+            "CONTROL: statute, judgment and constitutional commitment prove status,",
+            "not implementation, empirical effect or philosophical correctness."
+          ],
+          "caption": "This is a decision sequence that keeps the answer argumentative while preventing factual-status errors."
+        }
+      ],
+      "closure_keywords": [
+        "degrowth",
+        "productivism",
+        "graded verdict",
+        "just transition"
+      ]
+    }
+  ],
+  "owner_session_ranges": {},
+  "advanced_session_titles": [
+    "Metrics and the residual anti-economistic objection",
+    "Capability comparison, measurement and adaptive preference",
+    "Capability threshold, dependency and post-development disputes",
+    "Value pluralism and the challenge of progress relativism",
+    "Participation, urgency and the problem of elite capture",
+    "Technology, power and the limits of employability",
+    "Gandhi, Ambedkar and the scale of modernity",
+    "Tribal agency, plural rights and institutional implementation",
+    "Intrinsic value, deep ecology and the eco-authoritarian risk",
+    "Degrowth, non-identity and just transition: residual disputes"
+  ],
+  "ascii_panels": [
+    {
+      "title": "The central development question and the five-rung ladder",
+      "structural_type": "conceptual-ladder-and-normative-test",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "CENTRAL QUESTION -> what counts as a better society, and how do",
+        "                    material changes become morally justified progress?",
+        "        |",
+        "        v",
+        "FIVE RUNGS (each adds a question the previous rung cannot answer)",
+        "  growth       -> more output / income                 measure: quantity",
+        "  development  -> structural and qualitative change    measure: opportunity",
+        "  human dev.   -> health, knowledge, material command  measure: human options",
+        "  capability   -> substantive freedom to be and do      measure: real opportunity",
+        "  social prog. -> justified social relations/institutions measure: freedom,",
+        "                 equality, justice, dignity, participation, sustainability",
+        "  MEASURE FAMILIES -> output | basic needs | welfare/quality of life |",
+        "                      human development | capability | social | ecology",
+        "  CONTROL -> every indicator reveals one space and hides another",
+        "        |",
+        "        v",
+        "ECONOMISTIC MODEL -> productivity / investment / industrialisation -> resources",
+        "  enabling truth: scarcity blocks health, education and choice",
+        "  failure: output says nothing by itself about distribution, voice, work",
+        "           quality, displacement or ecological cost",
+        "        |",
+        "        v",
+        "MASTER VERDICT -> growth can finance development; just conversion into",
+        "capability, dignity, participation and sustainable institutions makes progress."
+      ]
+    },
+    {
+      "title": "Human development and Sen's resource-to-freedom conversion",
+      "structural_type": "conversion-chain-and-concept-discrimination",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "HAQ / UNDP -> shift from wealth of economy to lives of people:",
+        "              longevity + knowledge + decent material standard",
+        "        | limitation: composite indices can conceal distribution, freedom,",
+        "        |             gender, disability and ecological dependence",
+        "        v",
+        "SEN -> DEVELOPMENT AS FREEDOM; remove unfreedoms, expand substantive freedom",
+        "  RESOURCE -> personal / social / environmental CONVERSION FACTORS -> CAPABILITY",
+        "  same income -> disability, gender norms, location, public services -> unequal freedom",
+        "        |",
+        "        +-> FUNCTIONING = achieved being/doing",
+        "        +-> CAPABILITY = real opportunity for alternative functionings",
+        "        +-> UTILITY = satisfaction; may adapt downward under deprivation",
+        "        +-> AGENCY = pursue goals one has reason to value beyond welfare",
+        "        |",
+        "        v",
+        "FIVE FREEDOMS REINFORCE: political freedom | economic facilities | social",
+        "opportunities | transparency guarantees | protective security",
+        "CONTROL -> capability is neither income plus schemes nor compulsory functioning."
+      ]
+    },
+    {
+      "title": "Nussbaum, dependency, post-development and sustainability",
+      "structural_type": "rival-models-and-qualified-reconstruction",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "SEN vs NUSSBAUM",
+        "  Sen -> public reasoning; no single final canonical list",
+        "  Nussbaum -> central capabilities; dignity-compatible threshold",
+        "  common -> secure OPPORTUNITY, not compulsory FUNCTIONING",
+        "  tension -> plural openness vs paternalistic closure / underspecification",
+        "        |",
+        "        v",
+        "DEPENDENCY -> underdevelopment can be PRODUCED through unequal incorporation,",
+        "              not merely inherited as an earlier stage on one universal path",
+        "MODERNISATION ASSUMES -> linear sequence | convergence | traditional/modern",
+        "  binary | diffusion of capital/knowledge | expert direction",
+        "  CONTROL -> structural change is real; one neutral inevitable route is not",
+        "POST-DEVELOPMENT -> who authorises experts to define a whole society as deficient?",
+        "  trap -> neither critique proves that health, education, mobility or infrastructure",
+        "          are unwanted; local voice joins universal dignity and non-domination",
+        "        |",
+        "        v",
+        "SUSTAINABLE DEVELOPMENT -> present improvement without destroying ecological",
+        "conditions/options for future persons: intergenerational justice + precaution +",
+        "non-substitutable limits + duties to vulnerable persons + possible non-human value."
+      ]
+    },
+    {
+      "title": "Social progress: weak teleology, plural criteria and non-inevitability",
+      "structural_type": "criteria-wheel-and-causal-defeater",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "SOCIAL PROGRESS = justified improvement in relations, institutions and lives",
+        "  weakly TELEOLOGICAL -> calls movement better; does NOT posit automatic history",
+        "        |",
+        "        v",
+        "CRITERIA (no one aggregate settles all)",
+        " freedom: real options/voice | equality: less domination | justice: defensible",
+        " benefits/burdens/procedure | dignity: no humiliation | participation: co-decision",
+        " sustainability: future conditions | fraternity/solidarity: social equality",
+        "        |",
+        "        v",
+        "WHY NOT INEVITABLE?",
+        " knowledge/technology -> capacity for care AND destruction",
+        " institutions -> distribute control and risk",
+        " moral learning -> can be reversed",
+        "  CONCEPTIONS -> linear/cumulative | cyclical | dialectical/conflictual |",
+        "                 plural/non-linear (plural paths within a dignity floor)",
+        "        |",
+        "        v",
+        "VERDICT -> progress requires agency, conflict, accountable institutions and judgment;",
+        "public reasoning is part of progress, not merely a way to measure it."
+      ]
+    },
+    {
+      "title": "Necessary, sufficient, redistribution, recognition and democracy",
+      "structural_type": "modal-test-and-democratic-equality-grid",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "2024 MODAL TEST -> Is economic development necessary, sufficient, both or neither?",
+        "        |",
+        "  NECESSITY -> severe deprivation blocks health, education, agency",
+        "     qualified result -> adequate MATERIAL CAPABILITIES normally threshold-necessary",
+        "     caveat -> 'economic development' is broader than a logical necessity claim",
+        "  SUFFICIENCY -> wealth can coexist with exclusion, authoritarianism, gender",
+        "                  hierarchy and ecological destruction -> clearly NOT sufficient",
+        "        |",
+        "        v",
+        "DISTRIBUTION + RECOGNITION + PARTICIPATION",
+        " redistribution -> resources; recognition -> equal status; participation -> decision-power",
+        " provision without respect -> paternalism | recognition without resources -> symbolism",
+        " participation is INSTRUMENTAL (information/accountability) AND CONSTITUTIVE (voice itself)",
+        "  LADDER -> information -> consultation -> participation -> co-decision ->",
+        "            EMPOWERMENT: durable power over options, resources and rules",
+        "        |",
+        "        v",
+        "VERDICT -> means become progress only through just conversion and democratic equality."
+      ]
+    },
+    {
+      "title": "Technology and skill education: conditional routes to development",
+      "structural_type": "dual-causal-chain-and-defeater-grid",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "TECHNOLOGY -> changes capacities and social relations; supplies NO ethical end",
+        "  possible gains -> medicine reduces suffering | communication widens knowledge |",
+        "                    transparency supports accountability | productivity reduces drudgery",
+        "  possible losses -> surveillance/manipulation | unequal access | automation/displacement | bias",
+        "  conversion conditions -> ethical purpose + fair access + accountable human control",
+        "        |",
+        "        v",
+        "SKILL EDUCATION -> relevant competence -> work options -> productivity + bargaining power +",
+        "                   self-respect -> capability and agency",
+        "  must add -> decent work | equal access | adaptability | dignity of labour | critical citizenship",
+        "  defeat -> skills without decent work = frustrated capability; narrow employability can displace",
+        "            civic/humanistic education; rapid technical change can make training obsolete",
+        "        |",
+        "        v",
+        "VERDICT -> technology/skill enhance development conditionally, never automatically."
+      ]
+    },
+    {
+      "title": "Gandhian social development and the Ambedkarite safeguard",
+      "structural_type": "argument-chain-and-reconstruction-test",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "GANDHIAN END -> welfare of all (SARVODAYA)",
+        "                 self-rule (SWARAJ); non-violence (AHIMSA)",
+        "        |",
+        "UNLIMITED WANTS -> dependence + competition + violence",
+        "CENTRALISED INDUSTRIAL POWER -> distance from need/local control; degraded labour",
+        "MEANS SHAPE ENDS -> violent/degrading means cannot yield a non-violent good society",
+        "        |",
+        "        v",
+        "DEVELOPMENT -> decentralisation | village-centred production | dignity of labour |",
+        "trusteeship | restraint of wants | participation | ecological restraint",
+        "        |",
+        "        v",
+        "OBJECTIONS -> village can reproduce caste/patriarchy; trusteeship is voluntary paternalism;",
+        "complex needs may require large-scale technique",
+        "RECONSTRUCTION -> equal rights + anti-domination + mobility + accountability; judge machines",
+        "by scale/control/need, not by a blanket anti-machine rule."
+      ]
+    },
+    {
+      "title": "Tribal reconciliation: the four tests and legal-status discipline",
+      "structural_type": "reconciliation-gate-and-classified-illustrations",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "THE COLLISION -> who defines benefit? who bears cost/risk? is land commodity or",
+        "identity/livelihood? whose knowledge counts? are consent and self-government real?",
+        "        |",
+        "        v",
+        "FOUR JOINT TESTS",
+        "  1 capability -> count capabilities GAINED AND DESTROYED",
+        "  2 agency -> affected communities decide, not merely receive compensation",
+        "  3 precaution -> irreversible ecological/cultural loss attracts presumption against",
+        "  4 justice -> no transfer of adjustment burden to persons least able to bear it",
+        "  plus -> equal citizenship + recognition + individual/community rights",
+        "          + dissent/exit + gender justice",
+        "        |",
+        "        v",
+        "INDIAN ILLUSTRATIONS, EXACT STATUS",
+        "  PESA 1996 -> enacted statute, adapted panchayat arrangements in Scheduled Areas",
+        "  FRA 2006 -> enacted rights-recognition statute",
+        "  Orissa Mining Corporation (2013) -> Supreme Court judgment; Gram Sabha consideration",
+        "CONTROL -> enactment/judgment is NOT notification, implementation, success or philosophical proof."
+      ]
+    },
+    {
+      "title": "Moral standing and Naess: ecology before environmental policy",
+      "structural_type": "moral-standing-classification-and-depth-argument",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "PRIOR QUESTION -> what has MORAL STANDING?",
+        "  anthropocentric -> human beings; nature has instrumental value",
+        "                    weakness: ignores unseen or unusable nature",
+        "  biocentric -> individual living beings with inherent worth; weakness: cannot easily value systems",
+        "  ecocentric -> species/habitats/ecosystems/biotic whole; weakness: can subordinate individuals",
+        "  discriminating question -> destroy wilderness no human will see/use/know?",
+        "        |",
+        "        v",
+        "NAESS (1973): SHALLOW vs DEEP ECOLOGY",
+        " shallow -> fight pollution/depletion for human health/affluence; manage symptoms",
+        " deep -> intrinsic non-human value + diversity + revise framework of standing reserve",
+        " argument -> ever-rising consumption absorbs efficiency gains; policy fixes symptoms while the",
+        "             generating conception of self/good life remains",
+        "        |",
+        "        v",
+        "QUALIFICATION -> distinguish subsistence from luxury consumption; defend dignity/agency against",
+        "eco-authoritarian sacrifice and do not assert intrinsic value without argument."
+      ]
+    },
+    {
+      "title": "Productivism, degrowth and intergenerational justice",
+      "structural_type": "ecological-limits-argument-and-future-duty-grid",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "PRODUCTIVISM -> expanding production is master objective and solvent of distributional conflict",
+        "  applies to industrial socialism AS WELL AS capitalism",
+        "        |",
+        "FINITE SINKS/STOCKS + efficiency offset by output expansion + diminishing capability gains",
+        "        |",
+        "        v",
+        "DEGROWTH -> planned reduction of energy/material throughput",
+        "            sufficiency + care + shorter work + equality",
+        "  objection -> jobs, revenue, public services; no demonstrated stable contraction at scale",
+        "  qualified reply -> CONTRACTION AND CONVERGENCE: reduce affluent luxury; expand base capability",
+        "                       where deprivation persists; never prescribe blanket degrowth",
+        "        |",
+        "        v",
+        "INTERGENERATIONAL JUSTICE -> preserve options, avoid irreversible loss",
+        "  problems -> non-identity | no reciprocity | pure time preference/discounting",
+        "  response -> impersonal principles + precaution, not specific future preferences"
+      ]
+    },
+    {
+      "title": "Environmentalism of the poor and the just-transition reply",
+      "structural_type": "distributive-reframing-and-objection-reply-chain",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "ENVIRONMENTALISM OF THE POOR (Guha and Martinez-Alier, 1997)",
+        "  claim -> Global South environmental conflict often concerns livelihood: forests, water, grazing,",
+        "           fisheries, clean air and control of resources on which subsistence depends",
+        "  reframing -> NOT 'environment versus development' but WHO gains, WHO bears cost/risk, WHO decides",
+        "  control -> thesis describes conflict structure, NOT ecological virtue of every poor community",
+        "        |",
+        "        v",
+        "ECO-AUTHORITARIAN CLAIM -> limits are urgent; democracy is slow; insulate decisions",
+        "  reply 1 epistemic -> dispersed local knowledge",
+        "  reply 2 compliance -> imposed policies are evaded/reversed and costly to enforce",
+        "  reply 3 accountability -> dissent/information reveal damage",
+        "  reply 4 distributive -> no durable policy shifts cost onto vulnerable workers/communities",
+        "        |",
+        "        v",
+        "JUST TRANSITION -> livelihood + retraining + compensation + participation BEFORE restructuring."
+      ]
+    },
+    {
+      "title": "The directive decoder and complete development answer spine",
+      "structural_type": "exam-decision-sequence-and-qualified-verdict",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "READ THE DIRECTIVE FIRST",
+        " explain -> conception/components/distinction/example",
+        " discuss -> conception/rival/objection/reply/verdict",
+        " evaluate -> standard/application/counter-case/judgment",
+        " necessary/sufficient -> test EACH separately, then modal verdict",
+        " agree -> qualified commitment first; reconcile -> collision plus conditions;",
+        " causal -> mechanism plus defeater",
+        "        |",
+        "        v",
+        "UNIVERSAL SPINE",
+        "  1 conception under dispute -> 2 provisional thesis -> 3 mechanism/conversion conditions ->",
+        "  4 named evidence or correctly classified Indian illustration -> 5 strongest objection ->",
+        "  6 reply + residual limit -> 7 distribution: benefit/cost/decision -> 8 graded verdict",
+        "        |",
+        "        v",
+        "FINAL CONTROL -> means != conversion conditions != final values; statute/judgment/constitutional",
+        "commitment establish legal status, never implementation, empirical effect",
+        "or philosophical correctness."
+      ]
+    }
+  ],
+  "verified_pyq_count": 6,
+  "required_core_terms": [
+    "economic growth",
+    "economic development",
+    "human development",
+    "capability development",
+    "social progress",
+    "structural transformation",
+    "economistic model",
+    "Mahbub ul Haq",
+    "UNDP",
+    "functioning",
+    "capability",
+    "resource",
+    "utility",
+    "conversion factors",
+    "agency",
+    "adaptive preferences",
+    "substantive freedom",
+    "political freedoms",
+    "economic facilities",
+    "social opportunities",
+    "transparency guarantees",
+    "protective security",
+    "Nussbaum",
+    "central capabilities",
+    "dignity threshold",
+    "public reasoning",
+    "dependency",
+    "underdevelopment",
+    "post-development",
+    "sustainable development",
+    "precaution",
+    "irreversibility",
+    "weak teleology",
+    "inevitability",
+    "freedom",
+    "equality",
+    "justice",
+    "dignity",
+    "participation",
+    "sustainability",
+    "fraternity",
+    "solidarity",
+    "necessary condition",
+    "sufficient condition",
+    "material threshold",
+    "redistribution",
+    "recognition",
+    "democracy",
+    "technological development",
+    "ethical standards",
+    "skill education",
+    "decent work",
+    "critical citizenship",
+    "Gandhi",
+    "sarvodaya",
+    "swaraj",
+    "ahimsa",
+    "trusteeship",
+    "restraint of wants",
+    "dignity of labour",
+    "decentralisation",
+    "village-centred production",
+    "means and ends unity",
+    "Ambedkar",
+    "tribal values",
+    "cultural recognition",
+    "equal citizenship",
+    "capabilities gained and destroyed",
+    "self-government",
+    "PESA",
+    "1996",
+    "Forest Rights Act",
+    "2006",
+    "Orissa Mining Corporation",
+    "Niyamgiri",
+    "Gram Sabha",
+    "anthropocentric",
+    "biocentric",
+    "ecocentric",
+    "moral standing",
+    "Arne Naess",
+    "1973",
+    "shallow ecology",
+    "deep ecology",
+    "intrinsic value",
+    "productivism",
+    "degrowth",
+    "throughput",
+    "sufficiency",
+    "contraction and convergence",
+    "subsistence",
+    "luxury consumption",
+    "intergenerational justice",
+    "non-identity problem",
+    "pure time preference",
+    "environmentalism of the poor",
+    "Guha",
+    "Martinez-Alier",
+    "eco-authoritarianism",
+    "just transition",
+    "Articles 48A and 51A(g)",
+    "non-justiciable",
+    "directive",
+    "graded verdict",
+    "answer spine"
+  ]
+}

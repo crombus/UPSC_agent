@@ -1,0 +1,1168 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-12",
+  "subject": "Ancient-Indian-History",
+  "title": "IRANIAN & MACEDONIAN INVASIONS",
+  "short_route": "NORTH-WESTERN CONTACT ZONE AND → ACHAEMENID INCLUSION: CLAIM, REACH → ACHAEMENID MECHANISMS IN THE → KHAROSTHI AND ARAMAIC: TRANSMISSION → ALEXANDER'S ROUTE: FROM ACHAEMENID → HYDASPES: BATTLE MECHANISM AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-12-deep-review-2026-08-30-g4.json",
+  "ascii_spec_sha256": "e5fc87dd055950cf057612e5f81820ebb008454e57ea0880491405d4583e49aa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "NORTH-WESTERN CONTACT ZONE AND EVIDENCE LADDER",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NORTH-WESTERN CONTACT ZONE AND EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "HINDU KUSH",
+          "role": "comparison"
+        },
+        {
+          "text": "PUNJAB RIVERS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARMIES + MERCHANTS + ENVOYS + SCRIPTS + COIN",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "NEAR-SOURCE REPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER NARRATIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IRAN / CENTRAL ASIA",
+        "Hindu Kush → Kabul-Gandhara → Indus → Taxila → Punjab rivers",
+        "armies + merchants + envoys + scripts + coin forms",
+        "EVIDENCE: royal inscription → archaeology → near-source report → later narrative",
+        "RULE: geography enabled contact; imperial capacity and local politics shaped outcomes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "IRAN / CENTRAL ASIA",
+            "Hindu Kush → Kabul-Gandhara → Indus → Taxila → Punjab rivers"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "armies + merchants + envoys + scripts + coin forms",
+            "EVIDENCE: royal inscription → archaeology → near-source report → later narrative"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "RULE: geography enabled contact; imperial capacity and local politics shaped outcomes.",
+            "LIMIT: north-western campaigns must not be written as conquest of all India."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: geography enabled contact; imperial capacity and local politics shaped outcomes.",
+      "answer_line": "geography enabled contact; imperial capacity and local politics shaped outcomes.",
+      "source_references": [
+        "Frontier geography",
+        "Source hierarchy",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ACHAEMENID INCLUSION: CLAIM, REACH AND LIMITS",
+      "structural_type": "evidence-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ACHAEMENID INCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIM, REACH AND LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "DARIUS DNA",
+          "role": "comparison"
+        },
+        {
+          "text": "XERXES XPH",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDARA + HIDUSH NAMED AMONG SUBJECT COUNTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "TRIBUTE DISTRICT + INDIAN/GANDARIAN CONTINGENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPERIAL CLAIM, EXTRACTION AND MILITARY CONNECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT SECURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DARIUS DNa / XERXES XPh",
+        "Gandara + Hidush named among subject countries",
+        "Herodotus: tribute district + Indian/Gandarian contingents",
+        "SECURE: imperial claim, extraction and military connection",
+        "NOT SECURE: uniform borders, equal control or audited tribute totals"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "DARIUS DNa / XERXES XPh",
+            "Gandara + Hidush named among subject countries"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "Herodotus: tribute district + Indian/Gandarian contingents",
+            "SECURE: imperial claim, extraction and military connection"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "NOT SECURE: uniform borders, equal control or audited tribute totals",
+            "DARIUS DNa / XERXES XPh"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT SECURE: uniform borders, equal control or audited tribute totals.",
+      "source_references": [
+        "Achaemenid evidence",
+        "DNa, XPh and Herodotus",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ACHAEMENID MECHANISMS IN THE INDUS FRONTIER",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ACHAEMENID MECHANISMS IN THE INDUS FRONTIER",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL EXPANSION SATRAPAL MEDIATION + TRIBUTE + GARRISONS +",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE LEGACIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ARAMAIC-KHAROSTHI LINK, COIN FORMS, POLITICAL VOCABULARY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTACT PRECEDENT IS NOT PROOF THAT MAURYAN INSTITUTIONS WERE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IMPERIAL EXPANSION satrapal mediation + tribute + garrisons + roads +",
+        "multilingual administration north-west linked more closely to Iranian imperial circuits",
+        "POSSIBLE LEGACIES: Aramaic-Kharosthi link, coin forms, political vocabulary",
+        "CAUTION: contact precedent is not proof that Mauryan institutions were copied."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "IMPERIAL EXPANSION satrapal mediation + tribute + garrisons + roads +",
+            "multilingual administration north-west linked more closely to Iranian imperial circuits"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "POSSIBLE LEGACIES: Aramaic-Kharosthi link, coin forms, political vocabulary",
+            "CAUTION: contact precedent is not proof that Mauryan institutions were copied."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "IMPERIAL EXPANSION satrapal mediation + tribute + garrisons + roads +",
+            "multilingual administration north-west linked more closely to Iranian imperial circuits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: contact precedent is not proof that Mauryan institutions were copied.",
+      "source_references": [
+        "Persian administration",
+        "Consequences of Iranian contact",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KHAROSTHI AND ARAMAIC: TRANSMISSION WITHOUT COPYING",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KHAROSTHI AND ARAMAIC",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSMISSION WITHOUT COPYING",
+          "role": "outcome"
+        },
+        {
+          "text": "ARAMAIC IMPERIAL ENVIRONMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "KHAROSTHI RIGHT-TO-LEFT SCRIPT LOCAL LANGUAGE USE",
+          "role": "evidence"
+        },
+        {
+          "text": "ACHAEMENID CONTACT LIKELY AIDED TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "EARLIEST EXTENSIVE SECURE INDIAN CORPUS IS MAURYAN/ASHOKAN AND NORTH-WESTERN.",
+          "role": "outcome"
+        },
+        {
+          "text": "ORIGIN PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "DATE OF SURVIVING INSCRIPTIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARAMAIC IMPERIAL ENVIRONMENT → ADAPTATION → KHAROSTHI right-to-left script local language use",
+        "Achaemenid contact likely aided transmission",
+        "Earliest extensive secure Indian corpus is Mauryan/Ashokan and north-western.",
+        "DISTINCTION: origin process != date of surviving inscriptions."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "ARAMAIC IMPERIAL ENVIRONMENT → ADAPTATION → KHAROSTHI right-to-left script local language use",
+          "Earliest extensive secure Indian corpus is Mauryan/Ashokan and north-western.",
+          "ARAMAIC IMPERIAL ENVIRONMENT → ADAPTATION → KHAROSTHI right-to-left script local language use"
+        ],
+        [
+          "Achaemenid contact likely aided transmission",
+          "DISTINCTION: origin process != date of surviving inscriptions.",
+          "Achaemenid contact likely aided transmission"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ARAMAIC IMPERIAL ENVIRONMENT → ADAPTATION → KHAROSTHI right-to-left script local language use",
+            "Achaemenid contact likely aided transmission"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Earliest extensive secure Indian corpus is Mauryan/Ashokan and north-western.",
+            "DISTINCTION: origin process != date of surviving inscriptions."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ARAMAIC IMPERIAL ENVIRONMENT → ADAPTATION → KHAROSTHI right-to-left script local language use",
+            "Achaemenid contact likely aided transmission"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTINCTION: origin process != date of surviving inscriptions.",
+      "source_references": [
+        "Kharosthi",
+        "Language and script consequences",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ALEXANDER'S ROUTE: FROM ACHAEMENID WORLD TO PUNJAB",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ALEXANDER'S ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "FROM ACHAEMENID WORLD TO PUNJAB",
+          "role": "outcome"
+        },
+        {
+          "text": "327 BCE",
+          "role": "comparison"
+        },
+        {
+          "text": "HINDU KUSH",
+          "role": "evidence"
+        },
+        {
+          "text": "SWAT CAMPAIGNS",
+          "role": "primary"
+        },
+        {
+          "text": "AORNOS TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUS CROSSING",
+          "role": "comparison"
+        },
+        {
+          "text": "TAXILA ALLIANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "327 BCE: Hindu Kush / Swat campaigns",
+        "Aornos tradition → Indus crossing → Taxila alliance",
+        "326 BCE: Hydaspes (Jhelum) battle against Porus",
+        "Acesines (Chenab) → Hydraotes (Ravi) → Hyphasis (Beas)",
+        "325 BCE: lower Indus operations → Gedrosian return"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "327 BCE: Hindu Kush / Swat campaigns",
+            "Aornos tradition → Indus crossing → Taxila alliance",
+            "326 BCE: Hydaspes (Jhelum) battle against Porus"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Acesines (Chenab) → Hydraotes (Ravi) → Hyphasis (Beas)",
+            "325 BCE: lower Indus operations → Gedrosian return",
+            "ROUTE RULE: several passes and valleys mattered; Khyber was not the only road."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "SITE RULE: Bhir belongs to early Taxila; Sirkap is later Indo-Greek.",
+            "SOURCE RULE: surviving campaign narratives are later than the events."
+          ]
+        }
+      ],
+      "mechanism_strip": "SOURCE RULE: surviving campaign narratives are later than the events.",
+      "answer_line": "surviving campaign narratives are later than the events.",
+      "source_references": [
+        "Campaign chronology",
+        "Route through the north-west",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HYDASPES: BATTLE MECHANISM AND POLITICAL SETTLEMENT",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BATTLE MECHANISM AND POLITICAL SETTLEMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "RIVER + MONSOON + PORUS'S ELEPHANTS CONCEALED CROSSING",
+          "role": "outcome"
+        },
+        {
+          "text": "FLANK PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE BATTLE",
+          "role": "evidence"
+        },
+        {
+          "text": "MACEDONIAN VICTORY",
+          "role": "primary"
+        },
+        {
+          "text": "PORUS RESTORED AND ENLARGED AS SUBORDINATE REGIONAL RULER",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSERVE MANPOWER + RETAIN LOCAL LEGITIMACY + CREATE A",
+          "role": "comparison"
+        },
+        {
+          "text": "FAMOUS DIALOGUE AND EXACT TACTICS COME THROUGH LATER LITERARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIVER + MONSOON + PORUS'S ELEPHANTS concealed crossing → flank pressure → close battle →",
+        "Porus restored and enlarged as subordinate regional ruler",
+        "MECHANISM: conserve manpower + retain local legitimacy + create a buffer",
+        "LIMIT: famous dialogue and exact tactics come through later literary shaping."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RIVER + MONSOON + PORUS'S ELEPHANTS concealed crossing → flank pressure → close battle → Macedonian victory",
+            "Porus restored and enlarged as subordinate regional ruler"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MECHANISM: conserve manpower + retain local legitimacy + create a buffer",
+            "LIMIT: famous dialogue and exact tactics come through later literary shaping."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RIVER + MONSOON + PORUS'S ELEPHANTS concealed crossing → flank pressure → close battle → Macedonian victory",
+            "Porus restored and enlarged as subordinate regional ruler"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: famous dialogue and exact tactics come through later literary shaping.",
+      "source_references": [
+        "Battle of Hydaspes",
+        "Settlement with Porus",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WHY THE ARMY STOPPED AT THE BEAS",
+      "structural_type": "causal-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY THE ARMY STOPPED AT THE BEAS",
+          "role": "primary"
+        },
+        {
+          "text": "BEAS HALT ACCUMULATED CASUALTIES AND CAMPAIGN FATIGUE MONSOON, RIVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMINISHING CONFIDENCE IN UNLIMITED ADVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "A CUMULATIVE MILITARY-LOGISTICAL-POLITICAL REFUSAL, NOT ONE FEAR FACTOR.",
+          "role": "caution"
+        },
+        {
+          "text": "NANDA ARMY FIGURES ARE REMEMBERED SCALE, NOT AUDITED STATISTICS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BEAS HALT accumulated casualties and campaign fatigue monsoon, rivers, distance and supply strain reports",
+        "of strong eastern armies and elephants soldiers' bargaining power after years of service",
+        "diminishing confidence in unlimited advance",
+        "VERDICT: a cumulative military-logistical-political refusal, not one fear factor.",
+        "LIMIT: Nanda army figures are remembered scale, not audited statistics."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "BEAS HALT accumulated casualties and campaign fatigue monsoon, rivers, distance and supply strain reports",
+          "diminishing confidence in unlimited advance",
+          "LIMIT: Nanda army figures are remembered scale, not audited statistics."
+        ],
+        [
+          "of strong eastern armies and elephants soldiers' bargaining power after years of service",
+          "VERDICT: a cumulative military-logistical-political refusal, not one fear factor.",
+          "BEAS HALT accumulated casualties and campaign fatigue monsoon, rivers, distance and supply strain reports"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BEAS HALT accumulated casualties and campaign fatigue monsoon, rivers, distance and supply strain reports",
+            "of strong eastern armies and elephants soldiers' bargaining power after years of service"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "diminishing confidence in unlimited advance",
+            "VERDICT: a cumulative military-logistical-political refusal, not one fear factor."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: Nanda army figures are remembered scale, not audited statistics.",
+            "BEAS HALT accumulated casualties and campaign fatigue monsoon, rivers, distance and supply strain reports"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: a cumulative military-logistical-political refusal, not one fear factor.",
+      "answer_line": "a cumulative military-logistical-political refusal, not one fear factor.",
+      "source_references": [
+        "Hyphasis mutiny",
+        "Why advance stopped",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LOCAL AGENCY: ALLIANCE, RESISTANCE AND NEGOTIATED RULE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOCAL AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "ALLIANCE, RESISTANCE AND NEGOTIATED RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "TAXILA PORUS",
+          "role": "comparison"
+        },
+        {
+          "text": "HYDASPES MALLOI AND OTHERS ALLIANCE AND LOGISTICS ARMED RESISTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL POLITICAL AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL CONQUEST ADVANCED THROUGH EXISTING CONFLICTS, NOT ACROSS AN",
+          "role": "caution"
+        },
+        {
+          "text": "ALLIANCE WAS STRATEGIC CHOICE; RESISTANCE VARIED BY POLITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT REDUCE NORTH-WESTERN SOCIETY TO PASSIVE VICTIMS OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AMBHI / TAXILA PORUS / HYDASPES MALLOI AND OTHERS alliance and logistics armed",
+        "resistance fortified resistance rivalry used externally defeat then restoration severe local fighting",
+        "LOCAL POLITICAL AGENCY",
+        "External conquest advanced through existing conflicts, not across an empty frontier.",
+        "Alliance was strategic choice; resistance varied by polity and terrain."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "AMBHI / TAXILA PORUS / HYDASPES MALLOI AND OTHERS alliance and logistics armed",
+          "LOCAL POLITICAL AGENCY",
+          "Alliance was strategic choice; resistance varied by polity and terrain."
+        ],
+        [
+          "resistance fortified resistance rivalry used externally defeat then restoration severe local fighting",
+          "External conquest advanced through existing conflicts, not across an empty frontier.",
+          "Do not reduce north-western society to passive victims or willing collaborators."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AMBHI / TAXILA PORUS / HYDASPES MALLOI AND OTHERS alliance and logistics armed",
+            "resistance fortified resistance rivalry used externally defeat then restoration severe local fighting"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LOCAL POLITICAL AGENCY",
+            "External conquest advanced through existing conflicts, not across an empty frontier."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Alliance was strategic choice; resistance varied by polity and terrain.",
+            "Do not reduce north-western society to passive victims or willing collaborators."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Do not reduce north-western society to passive victims or willing collaborators.",
+      "source_references": [
+        "Ambhi and Porus",
+        "Resistance and alliances",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONSEQUENCES: DIRECT, INDIRECT AND OVERCLAIMED",
+      "structural_type": "classification",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DIRECT, INDIRECT AND OVERCLAIMED",
+          "role": "primary"
+        },
+        {
+          "text": "SHORT-LIVED MACEDONIAN GARRISONS, SATRAPIES, ROUTE KNOWLEDGE, NAVAL SURVEY",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER REORDERING IN THE NORTH-WEST AND SUCCESSOR CONFLICTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "LONGER CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "COINAGE, ART AND DIPLOMACY THROUGH LATER HELLENISTIC POLITIES",
+          "role": "primary"
+        },
+        {
+          "text": "NOT DIRECT",
+          "role": "caution"
+        },
+        {
+          "text": "MAURYAN EMPIRE, INDO-GREEK RULE, GANDHARA ART CENTURIES LATER",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER BY CHRONOLOGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT: short-lived Macedonian garrisons, satrapies, route knowledge, naval survey",
+        "NEAR-TERM: power reordering in the north-west and successor conflicts",
+        "LONGER CONTACT: coinage, art and diplomacy through later Hellenistic polities",
+        "NOT DIRECT: Mauryan empire, Indo-Greek rule, Gandhara art centuries later",
+        "Answer by chronology: event → mechanism → later transmission → explicit limit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DIRECT: short-lived Macedonian garrisons, satrapies, route knowledge, naval survey",
+            "NEAR-TERM: power reordering in the north-west and successor conflicts"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LONGER CONTACT: coinage, art and diplomacy through later Hellenistic polities",
+            "NOT DIRECT: Mauryan empire, Indo-Greek rule, Gandhara art centuries later"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Answer by chronology: event → mechanism → later transmission → explicit limit.",
+            "Avoid 'opened India to the West'; the corridor already had older connections."
+          ]
+        }
+      ],
+      "mechanism_strip": "Answer by chronology: event → mechanism → later transmission → explicit limit.",
+      "answer_line": "Mauryan empire, Indo-Greek rule, Gandhara art centuries later.",
+      "source_references": [
+        "Consequences of Alexander",
+        "Direct and indirect effects",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MAURYAN AND SELEUCID BRIDGE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MAURYAN AND SELEUCID BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "ALEXANDER'S DEATH (323 BCE)",
+          "role": "outcome"
+        },
+        {
+          "text": "UNSTABLE SATRAPIES AND SUCCESSOR STRUGGLES",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANDRAGUPTA'S NORTH-WESTERN EXPANSION",
+          "role": "evidence"
+        },
+        {
+          "text": "SELEUCUS CONFLICT AND TREATY, C. 305-301 BCE",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL ADJUSTMENT + DIPLOMATIC EXCHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER-QUOTED OBSERVER AT THE MAURYAN COURT",
+          "role": "institution"
+        },
+        {
+          "text": "MACEDONIAN WITHDRAWAL CREATED OPPORTUNITY, NOT AUTOMATIC MAURYAN VICTORY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ALEXANDER'S DEATH (323 BCE)",
+        "unstable satrapies and successor struggles",
+        "Chandragupta's north-western expansion",
+        "Seleucus conflict and treaty, c. 305-301 BCE",
+        "territorial adjustment + diplomatic exchange"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "ALEXANDER'S DEATH (323 BCE)",
+            "unstable satrapies and successor struggles",
+            "Chandragupta's north-western expansion"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Seleucus conflict and treaty, c. 305-301 BCE",
+            "territorial adjustment + diplomatic exchange",
+            "MEGASTHENES: later-quoted observer at the Mauryan court"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRIDGE: Macedonian withdrawal created opportunity, not automatic Mauryan victory.",
+            "BOUNDARY: detailed Mauryan administration belongs to Topic 14."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY: detailed Mauryan administration belongs to Topic 14.",
+      "source_references": [
+        "After Alexander",
+        "Mauryan transition",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PRELIMS DISTINCTION GRID",
+      "structural_type": "trap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRELIMS DISTINCTION GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "JHELUM HYPHASIS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHENAB HYDRAOTES",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLIEST HISTORIC TAXILA PHASE",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER HELLENISTIC-GRID CITY; SIRSUKH",
+          "role": "primary"
+        },
+        {
+          "text": "KUSHANA PHASE",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL COUNTRY LISTS; HERODOTUS",
+          "role": "comparison"
+        },
+        {
+          "text": "GREEK NARRATIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Hydaspes = Jhelum Hyphasis = Beas",
+        "Acesines = Chenab Hydraotes = Ravi",
+        "Bhir = earliest historic Taxila phase",
+        "Sirkap = later Hellenistic-grid city; Sirsukh = Kushana phase",
+        "DNa/XPh = royal country lists; Herodotus = Greek narrative"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "Hydaspes = Jhelum Hyphasis = Beas",
+          "Sirkap = later Hellenistic-grid city; Sirsukh = Kushana phase",
+          "Kharosthi = right-to-left; Aramaic linkage, not Alexander's invention"
+        ],
+        [
+          "Acesines = Chenab Hydraotes = Ravi",
+          "DNa/XPh = royal country lists; Herodotus = Greek narrative",
+          "TRAP FILTER: date + source class + geography + degree of certainty."
+        ],
+        [
+          "Bhir = earliest historic Taxila phase",
+          "Arrian = later writer using lost earlier accounts",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "Hydaspes = Jhelum Hyphasis = Beas",
+            "Acesines = Chenab Hydraotes = Ravi",
+            "Bhir = earliest historic Taxila phase"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Sirkap = later Hellenistic-grid city; Sirsukh = Kushana phase",
+            "DNa/XPh = royal country lists; Herodotus = Greek narrative",
+            "Arrian = later writer using lost earlier accounts"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Kharosthi = right-to-left; Aramaic linkage, not Alexander's invention",
+            "TRAP FILTER: date + source class + geography + degree of certainty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "date + source class + geography + degree of certainty.",
+      "source_references": [
+        "Terminology",
+        "Hard MCQs",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY INVASION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY INVASION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE NORTH-WESTERN SCALE AND SEPARATE IRANIAN FROM MACEDONIAN",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 1",
+          "role": "comparison"
+        },
+        {
+          "text": "GEOGRAPHY AND LOCAL POLITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 2",
+          "role": "primary"
+        },
+        {
+          "text": "ACHAEMENID INSCRIPTION/TEXT EVIDENCE AND ADMINISTRATIVE CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 3",
+          "role": "comparison"
+        },
+        {
+          "text": "ALEXANDER ROUTE, HYDASPES SETTLEMENT AND BEAS HALT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTRO: define the north-western scale and separate Iranian from Macedonian phases.",
+        "BODY 1: geography and local polities",
+        "BODY 2: Achaemenid inscription/text evidence and administrative contact",
+        "BODY 3: Alexander route, Hydaspes settlement and Beas halt",
+        "BODY 4: direct consequences versus later Hellenistic developments"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INTRO: define the north-western scale and separate Iranian from Macedonian phases.",
+            "BODY 1: geography and local polities",
+            "BODY 2: Achaemenid inscription/text evidence and administrative contact"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 3: Alexander route, Hydaspes settlement and Beas halt",
+            "BODY 4: direct consequences versus later Hellenistic developments",
+            "COUNTER: source distance, uncertain borders and exaggerated figures"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONCLUSION: connected frontier + local agency + selective institutional effects",
+            "WRITE: claim → named evidence → mechanism → significance → limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "WRITE: claim → named evidence → mechanism → significance → limit.",
+      "answer_line": "connected frontier + local agency + selective institutional effects.",
+      "source_references": [
+        "Mains answer architecture",
+        "Consolidated register notes",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\12_Iranian-and-Macedonian-Invasions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-12\\g4\\ancient-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The invasion \"briefly grazed\" the north-western rim of the subcontinent and did not create a major long-term empire in India.",
+            "Its concrete results included a Seleucid principality in the north-west and Greek settlements such as Boukephala, Nikaia and several Alexandrias .",
+            "The political map showed multiple systems: monarchies, oligarchic groups and tribal principalities.",
+            "The fragmented north-west helps explain both Alexander's advance and the later Mauryan opportunity."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

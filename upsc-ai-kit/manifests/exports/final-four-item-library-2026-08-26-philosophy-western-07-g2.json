@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-26T14:57:46+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "f25ac687edd312344cec3da2894fe62b5503204be7759531308c12d79bc6bcee",
+    "sha256_after": "f25ac687edd312344cec3da2894fe62b5503204be7759531308c12d79bc6bcee",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Philosophy Optional": 1
+  },
+  "sections": {
+    "Philosophy Optional — Philosophy Paper I — Western Philosophy": 1
+  },
+  "library_totals": {
+    "file_count": 837,
+    "pdf_count": 495,
+    "png_count": 99,
+    "txt_count": 198,
+    "markdown_count": 29,
+    "json_count": 1,
+    "total_bytes": 968754893,
+    "by_extension": {
+      ".json": 1,
+      ".md": 29,
+      ".pdf": 495,
+      ".png": 99,
+      ".txt": 198,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-07",
+      "topic_title": "Logical Positivism",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "catalogue_number": 7,
+      "source_record_id": "philosophy-paper-i-western-philosophy-07:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\topic-07_Complete-Learning-Session_2026-08-26.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "b1830154c7908924eeec13c779e6d5869749412a3ac3904c4f1adf1ad3a32af0",
+          "output_sha256": "b1830154c7908924eeec13c779e6d5869749412a3ac3904c4f1adf1ad3a32af0",
+          "source_output_equal": true,
+          "bytes": 541079
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g2\\topic-07_Solved-Practice-Workbook_2026-08-26.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "9ce11c2fa4879daa0dff9161c1b26c8ba2176161934e473cf05b0baba32c5268",
+          "output_sha256": "9ce11c2fa4879daa0dff9161c1b26c8ba2176161934e473cf05b0baba32c5268",
+          "source_output_equal": true,
+          "bytes": 348626
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "aeb4ed39c54c4ac2e756f30a6c99a882dc953863e444e31a3f73383df379d833",
+          "output_sha256": "aeb4ed39c54c4ac2e756f30a6c99a882dc953863e444e31a3f73383df379d833",
+          "source_output_equal": true,
+          "bytes": 2482833
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "08cc24f14070afdcc7eafd06279939ef612b7e24d517023f6081489e3fb3dbfe",
+          "output_sha256": "08cc24f14070afdcc7eafd06279939ef612b7e24d517023f6081489e3fb3dbfe",
+          "source_output_equal": true,
+          "bytes": 2759028
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "ec46c46f27987c20c4dd292cc420736ee5de9ca387f67e6001eca29726f3c86d",
+          "output_sha256": "ec46c46f27987c20c4dd292cc420736ee5de9ca387f67e6001eca29726f3c86d",
+          "source_output_equal": true,
+          "bytes": 2203243
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "3eee42e9bd515095c80ba0d61bed0835a454de5ba69463e19eef18eb245bc05c",
+          "output_sha256": "3eee42e9bd515095c80ba0d61bed0835a454de5ba69463e19eef18eb245bc05c",
+          "source_output_equal": true,
+          "bytes": 8717
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\07-Logical-Positivism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "cd38ba67cf30d4f39529e7aad802c944d1316c47573aceb8d91675c9a44e12af",
+          "output_sha256": "cd38ba67cf30d4f39529e7aad802c944d1316c47573aceb8d91675c9a44e12af",
+          "source_output_equal": true,
+          "source_text_sha256": "3eee42e9bd515095c80ba0d61bed0835a454de5ba69463e19eef18eb245bc05c",
+          "normalized_text_equal": true,
+          "bytes": 57602
+        }
+      },
+      "ascii": {
+        "text_panel_count": 10,
+        "pdf_panel_count": 10,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 11,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 11,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 11,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 11,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 11,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 99,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 76,
+        "solved_practice_workbook": 28,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 10
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 76,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 10,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11566
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

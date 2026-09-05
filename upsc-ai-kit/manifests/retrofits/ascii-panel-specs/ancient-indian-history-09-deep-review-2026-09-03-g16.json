@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-09",
+      "display_title": "The Later Vedic Phase",
+      "active_generation": 16,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Later Vedic source, chronology and eastward shift",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "RIGVEDIC LAYERS -> SAMAVEDA/YAJURVEDA/ATHARVAVEDA -> BRAHMANAS -> UPANISHADS",
+            "earlier NW world      ritual corpora              explanation    reflection/critique",
+            "                         |",
+            "                         v",
+            "broad c. 1000-600 BCE: Punjab/upper Ganga-Yamuna -> Kuru-Panchala -> Kosala-Videha",
+            "                         |",
+            "                         v",
+            "Textual sequence is relative and layered; it is not an annual political chronicle."
+          ],
+          "source_references": [
+            "SESSION 1 - TEXT-SOURCE MATRIX",
+            "SESSION 2 - CHRONOLOGY, GEOGRAPHY AND THE EASTWARD SHIFT",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Forest-agriculture-iron-surplus mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "forest edge + alluvial soils + rainfall + growing labour organisation",
+            "                         |",
+            "                         v",
+            "iron in expanding use + heavier ploughing + cattle traction + crop diversification",
+            "                         |",
+            "                         v",
+            "stable fields/surplus -> larger settlements -> crafts -> political extraction",
+            "CAUTION: iron helped within an ecological-social package; it did not create states alone."
+          ],
+          "source_references": [
+            "SESSION 3 - SETTLEMENT, FORESTS",
+            "SESSION 4 - IRON TECHNOLOGY",
+            "SESSION 5 - AGRICULTURE",
+            "SESSION 10 - POLITICAL ECONOMY WITHOUT TECHNOLOGICAL DETERMINISM",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Jana to janapada: territorial political change",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "KIN GROUP/JANA -> STABLE SETTLEMENT -> TERRITORIAL JANAPADA -> STRONGER KINGSHIP",
+            "       |                 |                    |                   |",
+            "lineage loyalty     fields/claims        bounded peoples      share, force, ritual",
+            "       +-----------------+--------------------+-------------------+",
+            "                                  v",
+            "Assemblies persist but lose relative weight; monarchy grows without instant bureaucracy.",
+            "This bridges to Mahajanapadas, but no inevitable one-way state ladder."
+          ],
+          "source_references": [
+            "SESSION 7 - FROM JANA TO JANAPADA",
+            "SESSION 8 - MONARCHY, RATNINS",
+            "SESSION 9 - ASSEMBLIES, BALI",
+            "SESSION 23 - BRIDGE TO MAHAJANAPADAS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Later Vedic political institution system",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "RAJAN",
+            " |-- ratnins: politically and ritually significant figures",
+            " |-- purohita: legitimation | senani: force | gramani: local linkage",
+            " |-- sabha/samiti: continued assemblies with changing influence",
+            " |-- bali and ruler share: less regular than later taxation",
+            " +-> royal rituals advertise supremacy and mobilise elite consensus",
+            "Authority grows through territory, surplus, ritual and force together."
+          ],
+          "source_references": [
+            "SESSION 8 - MONARCHY, RATNINS AND TRANSITIONAL ADMINISTRATION",
+            "SESSION 9 - ASSEMBLIES, BALI, THE RULER SHARE AND MILITARY CHANGE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Household, gender, varna and social ordering",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "GRIHAPATI-CENTRED HOUSEHOLD",
+            "          |",
+            " +--------+---------+---------+---------+",
+            " |                  |         |         |",
+            "patriliny        inheritance marriage  production/ritual authority",
+            " +--------+---------+---------+---------+",
+            "          |",
+            "          v",
+            "varna firms: Brahmana authority + Kshatriya power + producers + servants",
+            "Gender constraints grow in many texts; female seers/debaters prevent a uniform claim.",
+            "Gotra expands; later jati and full four-ashrama scheme require caution."
+          ],
+          "source_references": [
+            "SESSION 11 - HOUSEHOLD, GRIHAPATI",
+            "SESSION 12 - WOMEN, GENDER AND VARIATION",
+            "SESSION 13 - VARNA CONSOLIDATION",
+            "SESSION 14 - GOTRA, ASHRAMA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Sacrifice as political economy",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "SURPLUS + SPECIALISED PRIESTS + ROYAL AMBITION",
+            "                         |",
+            "                         v",
+            "RAJASUYA: consecration | ASHVAMEDHA: sovereignty | VAJAPEYA: power/prestige",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "redistributes gifts/animals       ranks ruler, priests and participants",
+            "          +--------------+--------------+",
+            "                         v",
+            "Ritual stages, legitimises and negotiates power; it does not merely reflect it."
+          ],
+          "source_references": [
+            "SESSION 15 - PRIESTLY SPECIALISATION",
+            "SESSION 16 - ROYAL RITUALS",
+            "SESSION 17 - RELIGIOUS CHANGE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Upanishadic turn: ritual transformed inward",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM: sacrifice promises results but leaves death, self and ultimate reality open.",
+            "                         |",
+            "                         v",
+            "karma/rebirth + brahman-atman inquiry + knowledge as liberating discipline",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "internalisation of sacrifice      critique/reinterpretation of ritual monopoly",
+            "                         |",
+            "                         v",
+            "Not total rejection: Upanishadic thought grows within and transforms Vedic tradition."
+          ],
+          "source_references": [
+            "SESSION 18 - THE UPANISHADIC TURN",
+            "SESSION 19 - EDUCATION, ORAL TRADITION AND INTELLECTUAL DEVELOPMENTS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Early versus Later Vedic comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS          EARLY VEDIC                 LATER VEDIC",
+            "space         Sapta-Sindhu/NW              upper Ganga-Yamuna/eastward",
+            "polity        jana, rajan, assemblies      janapada, kingship, ratnins",
+            "economy       cattle-centred mixed base    plough farming, surplus, crafts",
+            "society       flexible differentiation     firmer varna, patriarchy, gotra",
+            "religion      deity praise/yajna            royal rites + Upanishadic inquiry",
+            "material      mixed correlates             PGW useful; not an ethnic identity"
+          ],
+          "source_references": [
+            "SESSION 20 - PAINTED GREY WARE",
+            "SESSION 21 - EARLY VERSUS LATER VEDIC COMPARISON",
+            "SESSION 22 - CONTINUITY, TRANSFORMATION AND REGIONAL VARIATION",
+            "SESSION 24 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Later Vedic answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: identify change -> mechanism -> Vedic term/ritual -> continuity caveat",
+            "15 MARKS: source/space -> economy -> polity -> society -> religion -> PGW caution",
+            "20 MARKS: eastward ecology -> iron/agriculture -> jana-janapada -> institutions",
+            "          -> household/varna/gender -> sacrifice -> Upanishadic turn -> state bridge",
+            "Avoid iron-caused-kingdoms and women-lost-all-status claims; grade evidence.",
+            "CLOSE: territoriality, surplus and ritual hierarchy deepened cumulatively."
+          ],
+          "source_references": [
+            "SESSION 23 - BRIDGE TO MAHAJANAPADAS WITHOUT TELEOLOGY",
+            "SESSION 24 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+            "SESSION 25 - TERMINOLOGY BANK AND RAPID DISTINCTIONS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. Identify Samhita, Brahmana, Aranyaka or Upanishad layer before inference.",
+            "2. Correlate PGW and iron by site and date without equating pottery with people.",
+            "3. Separate ritual prescription, political claim and uneven social practice.",
+            "VERDICT: Later Vedic change was gradual, regional and multi-causal."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Iron aided change but did not alone create agriculture, surplus or states.",
+            "2. Assemblies changed relative weight; they did not disappear everywhere at once.",
+            "3. Varna sharpened, but later jati and four-ashrama systems were not fully formed.",
+            "VERDICT: Use textual trends with archaeological and regional qualifications."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Route 2024 change and 2023 society-religion demands through parallel matrices.",
+            "2. Write source -> geography -> economy -> polity -> society -> ritual -> thought.",
+            "3. End with continuity, transition and a boundary before second urbanisation.",
+            "VERDICT: Agrarian territoriality deepened without a sudden pan-Indian revolution."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g15\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g16\\ancient-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

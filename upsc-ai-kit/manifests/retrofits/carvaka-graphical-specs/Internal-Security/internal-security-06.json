@@ -1,0 +1,986 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-06",
+  "subject": "Internal-Security",
+  "title": "BORDER MANAGEMENT AND BORDER AREA DEVELOPMENT",
+  "short_route": "BORDER-MANAGEMENT SYSTEM → BOUNDARY-LINE MATRIX → CHINA-BORDER ANSWER MAP → PAKISTAN SEGMENT MAP → SETTLED-BY-INSTRUMENT LADDER → MOBILITY-REGULATION BALANCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-06-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "f26611f210802f1e5c1d595b9d7db61615ba480d580e004f9dd9a89ada978d5f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BORDER-MANAGEMENT SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BORDER-MANAGEMENT SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "BORDER SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "BORDER MANAGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "GUARDING + REGULATION DEVELOPMENT + LEGAL MOBILITY BILATERAL MECHANISMS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE WIDER SYSTEM IS THE ANSWER UNIT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BORDER SECURITY → guarding / defence",
+        "BORDER MANAGEMENT → guarding + regulation development + legal mobility bilateral mechanisms",
+        "RULE → the wider system is the answer unit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "BORDER SECURITY → guarding / defence",
+            "BORDER MANAGEMENT → guarding + regulation development + legal mobility bilateral mechanisms"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RULE → the wider system is the answer unit",
+            "BORDER SECURITY → guarding / defence"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "BORDER MANAGEMENT → guarding + regulation development + legal mobility bilateral mechanisms",
+            "RULE → the wider system is the answer unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the wider system is the answer unit.",
+      "source_references": [
+        "Security-management distinction",
+        "Four-element framework"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BOUNDARY-LINE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOUNDARY-LINE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MUTUALLY RECOGNISED",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMARCATED INTERNATIONAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "MILITARY CONTROL LINE IN J&K CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENTLY PERCEIVED INDIA-CHINA ALIGNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SIACHEN-SECTOR LINE NORTH OF NJ 9842",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IB → mutually recognised / demarcated international boundary",
+        "LoC → military control line in J&K context",
+        "LAC → differently perceived India-China alignment",
+        "AGPL → Siachen-sector line north of NJ 9842"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "IB → mutually recognised / demarcated international boundary",
+          "LAC → differently perceived India-China alignment",
+          "IB → mutually recognised / demarcated international boundary"
+        ],
+        [
+          "LoC → military control line in J&K context",
+          "AGPL → Siachen-sector line north of NJ 9842",
+          "LoC → military control line in J&K context"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "IB → mutually recognised / demarcated international boundary",
+            "LoC → military control line in J&K context"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LAC → differently perceived India-China alignment",
+            "AGPL → Siachen-sector line north of NJ 9842"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "IB → mutually recognised / demarcated international boundary",
+            "LoC → military control line in J&K context"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGPL → Siachen-sector line north of NJ 9842.",
+      "source_references": [
+        "Boundary vocabulary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CHINA-BORDER ANSWER MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHINA-BORDER ANSWER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENTLY PERCEIVED LAC",
+          "role": "outcome"
+        },
+        {
+          "text": "ESCALATION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "MILITARY-DIPLOMATIC MECHANISMS",
+          "role": "evidence"
+        },
+        {
+          "text": "DE-ESCALATION INPUT, NOT BOUNDARY SETTLEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DISPUTED / DIFFERENTLY PERCEIVED LAC",
+        "PATROL / INFRASTRUCTURE / ESCALATION RISK",
+        "MILITARY-DIPLOMATIC MECHANISMS",
+        "DE-ESCALATION INPUT, NOT BOUNDARY SETTLEMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "DISPUTED / DIFFERENTLY PERCEIVED LAC",
+            "PATROL / INFRASTRUCTURE / ESCALATION RISK"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MILITARY-DIPLOMATIC MECHANISMS",
+            "DE-ESCALATION INPUT, NOT BOUNDARY SETTLEMENT"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DISPUTED / DIFFERENTLY PERCEIVED LAC",
+            "PATROL / INFRASTRUCTURE / ESCALATION RISK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PATROL / INFRASTRUCTURE / ESCALATION RISK; MILITARY-DIPLOMATIC MECHANISMS; DE-ESCALATION INPUT, NOT BOUNDARY SETTLEMENT.",
+      "source_references": [
+        "China-border character"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PAKISTAN SEGMENT MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PAKISTAN SEGMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RADCLIFFE IB",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL CROSSINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "MILITARY CEASEFIRE + INFILTRATION DIMENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH-ALTITUDE MILITARY",
+          "role": "primary"
+        },
+        {
+          "text": "LOGISTICS DIMENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SIR CREEK",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATELY UNSETTLED MARITIME-ADJACENT ISSUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RADCLIFFE IB → guarding / smuggling / legal crossings",
+        "LoC → military ceasefire + infiltration dimension",
+        "AGPL → high-altitude military / logistics dimension",
+        "SIR CREEK → separately unsettled maritime-adjacent issue"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "RADCLIFFE IB → guarding / smuggling / legal crossings",
+          "AGPL → high-altitude military / logistics dimension",
+          "RADCLIFFE IB → guarding / smuggling / legal crossings"
+        ],
+        [
+          "LoC → military ceasefire + infiltration dimension",
+          "SIR CREEK → separately unsettled maritime-adjacent issue",
+          "LoC → military ceasefire + infiltration dimension"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "RADCLIFFE IB → guarding / smuggling / legal crossings",
+            "LoC → military ceasefire + infiltration dimension"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AGPL → high-altitude military / logistics dimension",
+            "SIR CREEK → separately unsettled maritime-adjacent issue"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "RADCLIFFE IB → guarding / smuggling / legal crossings",
+            "LoC → military ceasefire + infiltration dimension"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RADCLIFFE IB → guarding / smuggling / legal crossings.",
+      "source_references": [
+        "Pakistan-border segmentation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SETTLED-BY-INSTRUMENT LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SETTLED-BY-INSTRUMENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-BANGLADESH MARITIME ARBITRAL AWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND BOUNDARY AGREEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTION (100TH AMENDMENT) ACT",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL INSTRUMENT CAN CHANGE BOUNDARY STATUS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "2014 → INDIA-BANGLADESH MARITIME ARBITRAL AWARD",
+        "2015 → LAND BOUNDARY AGREEMENT",
+        "2015 → CONSTITUTION (100TH AMENDMENT) ACT",
+        "LESSON → legal instrument can change boundary status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "2014 → INDIA-BANGLADESH MARITIME ARBITRAL AWARD",
+            "2015 → LAND BOUNDARY AGREEMENT"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2015 → CONSTITUTION (100TH AMENDMENT) ACT",
+            "LESSON → legal instrument can change boundary status"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "2014 → INDIA-BANGLADESH MARITIME ARBITRAL AWARD",
+            "2015 → LAND BOUNDARY AGREEMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → legal instrument can change boundary status.",
+      "source_references": [
+        "Bangladesh settled-by-instrument case"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MOBILITY-REGULATION BALANCE",
+      "structural_type": "balance-scale",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MOBILITY-REGULATION BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN BORDER + LEGITIMATE MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVELIHOOD LINKS + FMR STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK-BASED CHECKS AND INTELLIGENCE",
+          "role": "caution"
+        },
+        {
+          "text": "NOTIFICATION CLARITY + COMMUNITY CONSULTATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NEPAL → OPEN BORDER + LEGITIMATE MOVEMENT",
+        "MYANMAR → ETHNIC / LIVELIHOOD LINKS + FMR STATUS",
+        "SECURITY → risk-based checks and intelligence",
+        "SAFEGUARD → notification clarity + community consultation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NEPAL → OPEN BORDER + LEGITIMATE MOVEMENT",
+            "MYANMAR → ETHNIC / LIVELIHOOD LINKS + FMR STATUS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SECURITY → risk-based checks and intelligence",
+            "SAFEGUARD → notification clarity + community consultation"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "NEPAL → OPEN BORDER + LEGITIMATE MOVEMENT",
+            "MYANMAR → ETHNIC / LIVELIHOOD LINKS + FMR STATUS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MYANMAR → ETHNIC / LIVELIHOOD LINKS + FMR STATUS.",
+      "source_references": [
+        "Nepal open-border case",
+        "Myanmar FMR status rule",
+        "Community-security link"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FORCE-TO-BORDER ARCHITECTURE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FORCE-TO-BORDER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ASSAM RIFLES",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE BORDER, ONE FORCE; VERIFY ACTUAL OVERLAP",
+          "role": "comparison"
+        },
+        {
+          "text": "BSF → PAKISTAN / BANGLADESH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BSF → PAKISTAN / BANGLADESH",
+        "ITBP → CHINA",
+        "SSB → NEPAL / BHUTAN",
+        "ASSAM RIFLES → MYANMAR",
+        "PRINCIPLE → one border, one force; verify actual overlap"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "BSF → PAKISTAN / BANGLADESH",
+            "ITBP → CHINA"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SSB → NEPAL / BHUTAN",
+            "ASSAM RIFLES → MYANMAR"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "PRINCIPLE → one border, one force; verify actual overlap",
+            "BSF → PAKISTAN / BANGLADESH"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRINCIPLE → one border, one force; verify actual overlap.",
+      "source_references": [
+        "Border-specific force map",
+        "One-border-one-force boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SCHEME PURPOSE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCHEME PURPOSE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "BORDER-AREA PEOPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "BORDER INFRASTRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "GUARDING ASSETS",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECT NORTHERN VILLAGES; NO BADP OVERLAP",
+          "role": "caution"
+        },
+        {
+          "text": "ASSET IS NOT OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BADP → BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD",
+        "BIM → BORDER INFRASTRUCTURE / GUARDING ASSETS",
+        "VVP → SELECT NORTHERN VILLAGES; NO BADP OVERLAP",
+        "RULE → sanction / outlay / asset is not outcome"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "BADP → BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD",
+          "VVP → SELECT NORTHERN VILLAGES; NO BADP OVERLAP",
+          "BADP → BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD"
+        ],
+        [
+          "BIM → BORDER INFRASTRUCTURE / GUARDING ASSETS",
+          "RULE → sanction / outlay / asset is not outcome",
+          "BIM → BORDER INFRASTRUCTURE / GUARDING ASSETS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "BADP → BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD",
+            "BIM → BORDER INFRASTRUCTURE / GUARDING ASSETS"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "VVP → SELECT NORTHERN VILLAGES; NO BADP OVERLAP",
+            "RULE → sanction / outlay / asset is not outcome"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "BADP → BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD",
+            "BIM → BORDER INFRASTRUCTURE / GUARDING ASSETS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → sanction / outlay / asset is not outcome.",
+      "source_references": [
+        "BADP purpose",
+        "BIM purpose",
+        "BADP-BIM distinction",
+        "Vibrant Villages boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CIBMS CAPABILITY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CIBMS CAPABILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "FUSED AWARENESS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMAND DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "LAWFUL RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "A DETECTED TRACK IS NOT AN INTERDICTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SENSOR → NETWORK → FUSED AWARENESS",
+        "COMMAND DECISION → LAWFUL RESPONSE",
+        "RECOVERY / FORENSICS → INVESTIGATION",
+        "TRAP → a detected track is not an interdiction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SENSOR → NETWORK → FUSED AWARENESS",
+            "COMMAND DECISION → LAWFUL RESPONSE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECOVERY / FORENSICS → INVESTIGATION",
+            "TRAP → a detected track is not an interdiction"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SENSOR → NETWORK → FUSED AWARENESS",
+            "COMMAND DECISION → LAWFUL RESPONSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → a detected track is not an interdiction.",
+      "source_references": [
+        "CIBMS role",
+        "Input-outcome firewall"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LEGAL-CROSSING SYSTEM",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LEGAL-CROSSING SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATED CHECK POST",
+          "role": "outcome"
+        },
+        {
+          "text": "CUSTOMS + IMMIGRATION + REGULATORY SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGEMENT OF LAND PORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "RESULT SOUGHT",
+          "role": "primary"
+        },
+        {
+          "text": "FACILITATION AND ENFORCEMENT TOGETHER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INTEGRATED CHECK POST",
+        "CUSTOMS + IMMIGRATION + REGULATORY SERVICES",
+        "LPAI → DEVELOPMENT / MANAGEMENT OF LAND PORTS",
+        "RESULT SOUGHT → facilitation and enforcement together"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "INTEGRATED CHECK POST",
+            "CUSTOMS + IMMIGRATION + REGULATORY SERVICES"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "LPAI → DEVELOPMENT / MANAGEMENT OF LAND PORTS",
+            "RESULT SOUGHT → facilitation and enforcement together"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEGRATED CHECK POST",
+            "CUSTOMS + IMMIGRATION + REGULATORY SERVICES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LPAI → DEVELOPMENT / MANAGEMENT OF LAND PORTS.",
+      "source_references": [
+        "ICP-LPAI role"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ADVERSARIAL UAV RESPONSE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ADVERSARIAL UAV RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "LAWFUL COUNTER-ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO UNSOURCED INCIDENT OR INTERCEPTION COUNT",
+          "role": "caution"
+        },
+        {
+          "text": "VECTOR → SURVEILLANCE / WEAPON / CONTRABAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VECTOR → SURVEILLANCE / WEAPON / CONTRABAND",
+        "DETECT → IDENTIFY → LAWFUL COUNTER-ACTION",
+        "RECOVER → FORENSICS → ATTRIBUTION / PROSECUTION",
+        "LIMIT → no unsourced incident or interception count"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "VECTOR → SURVEILLANCE / WEAPON / CONTRABAND",
+            "DETECT → IDENTIFY → LAWFUL COUNTER-ACTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RECOVER → FORENSICS → ATTRIBUTION / PROSECUTION",
+            "LIMIT → no unsourced incident or interception count"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "VECTOR → SURVEILLANCE / WEAPON / CONTRABAND",
+            "DETECT → IDENTIFY → LAWFUL COUNTER-ACTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → no unsourced incident or interception count.",
+      "source_references": [
+        "Adversarial-UAV classification"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND END-STATE RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND END-STATE RAIL",
+          "role": "institution"
+        },
+        {
+          "text": "LOC COMPARISON",
+          "role": "outcome"
+        },
+        {
+          "text": "UAV VECTOR + CAPABILITY + EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PAKISTAN + BADP",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENTIATED BORDERS + COMMUNITY + AUDITED OUTCOMES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "2020 → MYANMAR / BANGLADESH / LoC COMPARISON",
+        "2023 → UAV VECTOR + CAPABILITY + EVIDENCE",
+        "2024 → CHINA / PAKISTAN + BADP / BIM",
+        "END → differentiated borders + community + audited outcomes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "2020 → MYANMAR / BANGLADESH / LoC COMPARISON",
+            "2023 → UAV VECTOR + CAPABILITY + EVIDENCE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "2024 → CHINA / PAKISTAN + BADP / BIM",
+            "END → differentiated borders + community + audited outcomes"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "2020 → MYANMAR / BANGLADESH / LoC COMPARISON",
+            "2023 → UAV VECTOR + CAPABILITY + EVIDENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "END → differentiated borders + community + audited outcomes.",
+      "source_references": [
+        "Differentiated end-state"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "KARGIL REVIEW COMMITTEE (1999)",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUP OF MINISTERS (2001)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE INDIA-BANGLADESH SETTLEMENT INSTRUMENTS AS THE REFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "BORDER DISPUTE SETTLEMENT MECHANISM (CHINA)",
+          "role": "mechanism"
+        },
+        {
+          "text": "A SERIES OF FIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "DS-DBO ROAD (COMPLETED 2019)",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS CITES THIS STRATEGIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "Kargil Review Committee (1999) → Group of Ministers (2001): the",
+            "The India-Bangladesh settlement instruments as the reform",
+            "Border Dispute Settlement Mechanism (China): a series of five",
+            "DS-DBO road (completed 2019): VisionIAS cites this strategic"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Vibrant Villages Programme (introduced 2022 Budget): covers",
+            "Current-anchor institutional detail: the MHA Border Management-II",
+            "CAUTION: Galwan (2020) and Tawang (2022) as boundary-dispute test cases:",
+            "CAUTION: The 2024 Myanmar FMR-scrapping decision as a boundary case between"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Sir Creek/unsettled maritime-adjacent boundary as a boundary case",
+            "CAUTION: Technology substitution (CIBMS, satellite/aerial surveillance) can",
+            "CAUTION: Community-participative measures (border trade, local development)",
+            "CAUTION: Scheme proliferation (BADP, BIM, CIBMS, Vibrant Villages) risks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

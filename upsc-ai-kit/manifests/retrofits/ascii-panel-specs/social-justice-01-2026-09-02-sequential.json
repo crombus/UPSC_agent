@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Social Justice learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-01",
+      "display_title": "Social Justice, Inclusion and Welfare-State Framework",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\01_Social-Justice-Inclusion-and-Welfare-State-Framework_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three dimensions of justice",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DISTRIBUTIVE -> who receives what: transfers, reservation, services, social security",
+            "CORRECTIVE -> how is the harm undone: compensation, rehabilitation, penalty, restoration",
+            "RECOGNITIVE -> whose personhood is denied: anti-discrimination law, representation, dignity",
+            "RULE -> most vulnerable-group policy needs all three; failure in one perpetuates injustice"
+          ],
+          "source_references": [
+            "Distributive justice and what it asks",
+            "Corrective justice and what it asks",
+            "Recognitive justice and what it asks"
+          ]
+        },
+        {
+          "title": "Equality ladder",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "FORMAL EQUALITY -> same rule for all; structural disadvantage survives the rule",
+            "-> SUBSTANTIVE EQUALITY: reservation, targeted transfers, special provisions",
+            "-> CAPABILITY EQUALITY: did the support expand what a person can do and be",
+            "TEST -> input delivered is not the same claim as capability expanded"
+          ],
+          "source_references": [
+            "Formal equality, substantive equality and capability equality"
+          ]
+        },
+        {
+          "title": "Constitutional anchor",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "PREAMBLE -> socialist republic; justice social, economic and political",
+            "PART IV -> Articles 38, 39, 41 to 43, 46 to 47 direct the welfare state",
+            "ARTICLE 46 -> educational and economic interests of SCs, STs and weaker sections",
+            "LIMIT -> not directly justiciable; interpretive aid, recorded with Minerva Mills 1980"
+          ],
+          "source_references": [
+            "The welfare state as the institutional vehicle in the Indian Constitution",
+            "Multi-dimensional Indian applications and the boundary case"
+          ]
+        },
+        {
+          "title": "Capability standard",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "FUNCTIONINGS -> achieved states: being nourished, being healthy, being literate",
+            "CAPABILITIES -> the real freedoms to achieve those states",
+            "SEN -> open-ended framework; specification left to public reasoning",
+            "NUSSBAUM -> ten central capabilities as a threshold a just society must secure",
+            "CONSEQUENCE -> equal income yields unequal capability across health and exclusion"
+          ],
+          "source_references": [
+            "Functionings and capabilities in Amartya Sen's framework",
+            "Nussbaum's central capabilities as a threshold specification"
+          ]
+        },
+        {
+          "title": "Authorities bank",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "RAWLS -> difference principle: inequality just only if it benefits the least advantaged",
+            "RAWLS -> fair equality of opportunity as the companion standard",
+            "FRASER -> redistribution, recognition and representation; misrecognition blocks distribution",
+            "AMBEDKAR -> warning against political equality amid social and economic inequality",
+            "QUALIFY -> recognition cannot substitute for services, assets and employment"
+          ],
+          "source_references": [
+            "Rawls's difference principle as a distributive standard",
+            "Fraser's triad and Ambedkar's warning about political equality"
+          ]
+        },
+        {
+          "title": "Social protection floor card",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "INSTRUMENT -> Social Protection Floors Recommendation, 2012, No. 202",
+            "GUARANTEE 1 -> access to essential health care, including maternity care",
+            "GUARANTEE 2 -> basic income security for children: nutrition, education and care",
+            "GUARANTEE 3 -> basic income security in active age: sickness, unemployment, maternity, disability",
+            "GUARANTEE 4 -> basic income security for older persons",
+            "STATUS -> a Recommendation, not a ratified Convention; no self-executing domestic duty"
+          ],
+          "source_references": [
+            "ILO Recommendation 202 and the social protection floor"
+          ]
+        },
+        {
+          "title": "Universalism against targeting",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "UNIVERSALISM -> lower stigma, lower exclusion error, higher cost, higher inclusion error",
+            "TARGETING -> concentrated resources, documentation barriers, identification disputes",
+            "ERROR PAIR -> inclusion error is leakage; exclusion error is the eligible left out",
+            "INDIAN PRACTICE -> universal basic services layered on targeted transfers and reservation",
+            "RULE -> a promise to end leakage must state its exclusion consequence"
+          ],
+          "source_references": [
+            "Universalism against targeting as a design choice",
+            "Inclusion error against exclusion error"
+          ]
+        },
+        {
+          "title": "Equity types",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HORIZONTAL EQUITY -> equals treated equally",
+            "VERTICAL EQUITY -> unequals treated unequally in proportion to disadvantage",
+            "APPLICATION -> affirmative action operationalises vertical equity, not a breach of equality",
+            "CONDITION -> vertical equity needs a defensible measure of disadvantage",
+            "BOUNDARY -> creamy-layer exclusion shows targeting inside affirmative action"
+          ],
+          "source_references": [
+            "Horizontal and vertical equity in affirmative action",
+            "Multi-dimensional Indian applications and the boundary case"
+          ]
+        },
+        {
+          "title": "Welfare-state models",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RESIDUAL -> state acts after family and market fail; means-tested and stigmatised",
+            "INSTITUTIONAL -> universal services as a citizenship right; de-stigmatised but costlier",
+            "INDIA -> recorded as a hybrid: statutory entitlements layered on targeted schemes",
+            "NAMED ENTITLEMENTS -> National Food Security Act, 2013; Right to Education Act, 2009"
+          ],
+          "source_references": [
+            "Residual, institutional and hybrid welfare states",
+            "Rights-based against charity-based welfare and the paper-promise risk"
+          ]
+        },
+        {
+          "title": "Five-stage welfare mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONSTITUTIONAL FOUNDATION -> Preamble and Directive Principles set the direction",
+            "-> LEGISLATIVE CONCRETISATION: protective statutes and entitlement statutes",
+            "-> SCHEME DESIGN AND BUDGET: transfers, services and affirmative action",
+            "-> INSTITUTIONAL DELIVERY: ministries, commissions, anganwadi, health centre, school",
+            "-> OUTCOME MEASUREMENT: household surveys, administrative data and social audit",
+            "STOP TEST -> an answer that ends at scheme design has described intent, not justice"
+          ],
+          "source_references": [
+            "The five-stage welfare mechanism from Constitution to measured outcome"
+          ]
+        },
+        {
+          "title": "Five recurring welfare gaps",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "IDENTIFICATION -> the eligible person is not correctly listed; fix the roll, not the slogan",
+            "ENFORCEMENT -> the prohibition or protection is not applied; name the enforcing authority",
+            "DELIVERY -> the entitlement does not reach the person; trace the last mile",
+            "QUALITY -> what arrives is too poor to change anything; measure the service, not the count",
+            "OUTCOME-LEARNING -> nobody establishes whether it worked; demand the survey and the round"
+          ],
+          "source_references": [
+            "The five recurring welfare gaps"
+          ]
+        },
+        {
+          "title": "Answer spine for a social-justice demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the deprivation and the dimension of justice it engages",
+            "BUILD -> separate the entitlement, the scheme that carries it and the delivery that reaches",
+            "TEST -> cite a dated survey or administrative source and state what it cannot prove",
+            "CLOSE -> graded verdict plus the named gap and an explicit indicator caveat"
+          ],
+          "source_references": [
+            "Commissions, the measurement boundary and honest question ownership"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1042 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-09",
+  "subject": "Indian-Society",
+  "title": "POVERTY AND DEVELOPMENTAL ISSUES",
+  "short_route": "WHAT POVERTY IS → THE CAUSAL DISPUTE → OWNERSHIP BOUNDARY → ESTIMATE CARD → COVERAGE TO USE → SHOCK CHANNELS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\learning-sessions\\v2\\subject-wide-syllabus\\indian-society-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-09-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "fb441e76f4290db20f79286f70ca59e8c708d9d23d19f1ab85163dbef947770a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHAT POVERTY IS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHAT POVERTY IS",
+          "role": "primary"
+        },
+        {
+          "text": "NOURISHED, EDUCATED, HEALTHY, ABLE TO PARTICIPATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSION FROM NETWORKS, INSTITUTIONS AND OPPORTUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE, GENDER, RELIGION AND REGION STACK THE DISADVANTAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "AN INCOME THRESHOLD CANNOT EXPRESS EITHER DIMENSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAPABILITY → nourished, educated, healthy, able to participate",
+        "RELATIONAL → exclusion from networks, institutions and opportunity",
+        "COMPOUNDING → caste, gender, religion and region stack the disadvantage",
+        "LIMIT → an income threshold cannot express either dimension"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "CAPABILITY → nourished, educated, healthy, able to participate",
+            "RELATIONAL → exclusion from networks, institutions and opportunity"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "COMPOUNDING → caste, gender, religion and region stack the disadvantage",
+            "LIMIT → an income threshold cannot express either dimension"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPABILITY → nourished, educated, healthy, able to participate",
+            "RELATIONAL → exclusion from networks, institutions and opportunity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → an income threshold cannot express either dimension.",
+      "source_references": [
+        "What poverty actually deprives a person of",
+        "Exclusion as the relational dimension"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE CAUSAL DISPUTE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE CAUSAL DISPUTE",
+          "role": "primary"
+        },
+        {
+          "text": "ATTITUDES AND BEHAVIOUR REPRODUCED ACROSS GENERATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "RATIONAL ADAPTATION TO INSECURITY AND UNEQUAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRECT MATERIAL CONDITIONS, OR CORRECT ATTITUDES",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCRIBE COPING BEHAVIOUR WITHOUT CONVERTING IT INTO BLAME",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LEWIS → attitudes and behaviour reproduced across generations",
+        "CRITIQUE → rational adaptation to insecurity and unequal access",
+        "STAKE → correct material conditions, or correct attitudes",
+        "RULE → describe coping behaviour without converting it into blame"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "LEWIS → attitudes and behaviour reproduced across generations",
+          "STAKE → correct material conditions, or correct attitudes",
+          "LEWIS → attitudes and behaviour reproduced across generations"
+        ],
+        [
+          "CRITIQUE → rational adaptation to insecurity and unequal access",
+          "RULE → describe coping behaviour without converting it into blame",
+          "CRITIQUE → rational adaptation to insecurity and unequal access"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LEWIS → attitudes and behaviour reproduced across generations",
+            "CRITIQUE → rational adaptation to insecurity and unequal access"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STAKE → correct material conditions, or correct attitudes",
+            "RULE → describe coping behaviour without converting it into blame"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEWIS → attitudes and behaviour reproduced across generations",
+            "CRITIQUE → rational adaptation to insecurity and unequal access"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → describe coping behaviour without converting it into blame.",
+      "source_references": [
+        "The culture-of-poverty thesis",
+        "The structural critique and causal direction"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OWNERSHIP BOUNDARY",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OWNERSHIP BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "TENDULKAR AND RANGARAJAN FORMULAE, INDEX CONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL JUSTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "WELFARE ENTITLEMENTS AND SCHEME ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-GOVERNMENTAL ORGANISATION COLLABORATION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "THIS OWNER",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPRIVATION MECHANISMS AND THEIR SOCIAL CONSEQUENCES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ECONOMY → Tendulkar and Rangarajan formulae, index construction",
+        "SOCIAL JUSTICE → welfare entitlements and scheme architecture",
+        "GOVERNANCE → non-governmental organisation collaboration mechanism",
+        "THIS OWNER → deprivation mechanisms and their social consequences"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ECONOMY → Tendulkar and Rangarajan formulae, index construction",
+            "SOCIAL JUSTICE → welfare entitlements and scheme architecture"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GOVERNANCE → non-governmental organisation collaboration mechanism",
+            "THIS OWNER → deprivation mechanisms and their social consequences"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECONOMY → Tendulkar and Rangarajan formulae, index construction",
+            "SOCIAL JUSTICE → welfare entitlements and scheme architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THIS OWNER → deprivation mechanisms and their social consequences.",
+      "source_references": [
+        "Where poverty measurement is owned"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ESTIMATE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ESTIMATE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "NITI AAYOG DISCUSSION PAPER OF 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTIDIMENSIONAL POVERTY IN INDIA SINCE 2005-06",
+          "role": "comparison"
+        },
+        {
+          "text": "11.28 PER CENT MULTIDIMENSIONAL POVERTY IN 2022-23",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 24.8 CRORE PERSONS BETWEEN 2013-14 AND 2022-23",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SOURCE → NITI Aayog discussion paper of 2024",
+        "TITLE → Multidimensional Poverty in India since 2005-06",
+        "ESTIMATE → 11.28 per cent multidimensional poverty in 2022-23",
+        "EXITS → about 24.8 crore persons between 2013-14 and 2022-23"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "SOURCE → NITI Aayog discussion paper of 2024",
+          "ESTIMATE → 11.28 per cent multidimensional poverty in 2022-23",
+          "SOURCE → NITI Aayog discussion paper of 2024"
+        ],
+        [
+          "TITLE → Multidimensional Poverty in India since 2005-06",
+          "EXITS → about 24.8 crore persons between 2013-14 and 2022-23",
+          "TITLE → Multidimensional Poverty in India since 2005-06"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOURCE → NITI Aayog discussion paper of 2024",
+            "TITLE → Multidimensional Poverty in India since 2005-06"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ESTIMATE → 11.28 per cent multidimensional poverty in 2022-23",
+            "EXITS → about 24.8 crore persons between 2013-14 and 2022-23"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → NITI Aayog discussion paper of 2024",
+            "TITLE → Multidimensional Poverty in India since 2005-06"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXITS → about 24.8 crore persons between 2013-14 and 2022-23.",
+      "source_references": [
+        "Reading the multidimensional estimate"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COVERAGE TO USE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COVERAGE TO USE",
+          "role": "primary"
+        },
+        {
+          "text": "THE ENTITLEMENT EXISTS ON PAPER FOR THIS HOUSEHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTANCE, COST, DOCUMENTS AND INFORMATION PERMIT REACH",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HOUSEHOLD CAN ACTUALLY CONVERT IT INTO A FUNCTIONING",
+          "role": "evidence"
+        },
+        {
+          "text": "NAME WHICH OF THE THREE FAILED BEFORE RECOMMENDING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COVERAGE → the entitlement exists on paper for this household",
+        "ACCESS → distance, cost, documents and information permit reach",
+        "USE → the household can actually convert it into a functioning",
+        "SHORTFALL → name which of the three failed before recommending"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "COVERAGE → the entitlement exists on paper for this household",
+            "ACCESS → distance, cost, documents and information permit reach"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "USE → the household can actually convert it into a functioning",
+            "SHORTFALL → name which of the three failed before recommending"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COVERAGE → the entitlement exists on paper for this household",
+            "ACCESS → distance, cost, documents and information permit reach"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHORTFALL → name which of the three failed before recommending.",
+      "source_references": [
+        "Why poverty persists despite programmes"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SHOCK CHANNELS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SHOCK CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "PRECARIOUS INFORMAL EMPLOYMENT AND INCOME LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "HOUSING AND HEALTH",
+          "role": "comparison"
+        },
+        {
+          "text": "DENSITY RAISES EXPOSURE AND RECOVERY COST",
+          "role": "evidence"
+        },
+        {
+          "text": "THIN BUFFERS AND NON-PORTABLE SOCIAL PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "UNEQUAL DIGITAL ACCESS BLOCKS RELIEF AND SCHOOLING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WORK → precarious informal employment and income loss",
+        "HOUSING AND HEALTH → density raises exposure and recovery cost",
+        "SAVINGS → thin buffers and non-portable social protection",
+        "SERVICES → unequal digital access blocks relief and schooling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "WORK → precarious informal employment and income loss",
+            "HOUSING AND HEALTH → density raises exposure and recovery cost"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SAVINGS → thin buffers and non-portable social protection",
+            "SERVICES → unequal digital access blocks relief and schooling"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WORK → precarious informal employment and income loss",
+            "HOUSING AND HEALTH → density raises exposure and recovery cost"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SERVICES → unequal digital access blocks relief and schooling.",
+      "source_references": [
+        "How a shock becomes class-differentiated"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TWO DEVELOPMENT CONFLICTS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO DEVELOPMENT CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSERVATION RESTRICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS CURTAILED, NOBODY PHYSICALLY MOVED",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECT DISPLACEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNITY RELOCATED, OWNED BY TRIBAL SOCIETY",
+          "role": "primary"
+        },
+        {
+          "text": "REMEDY 1",
+          "role": "outcome"
+        },
+        {
+          "text": "CO-MANAGEMENT AND ALTERNATIVE LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "REMEDY 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSERVATION RESTRICTION → access curtailed, nobody physically moved",
+        "PROJECT DISPLACEMENT → community relocated, owned by tribal society",
+        "REMEDY 1 → co-management and alternative livelihood",
+        "REMEDY 2 → resettlement design and livelihood restoration"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CONSERVATION RESTRICTION → access curtailed, nobody physically moved",
+          "REMEDY 1 → co-management and alternative livelihood",
+          "CONSERVATION RESTRICTION → access curtailed, nobody physically moved"
+        ],
+        [
+          "PROJECT DISPLACEMENT → community relocated, owned by tribal society",
+          "REMEDY 2 → resettlement design and livelihood restoration",
+          "PROJECT DISPLACEMENT → community relocated, owned by tribal society"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CONSERVATION RESTRICTION → access curtailed, nobody physically moved",
+            "PROJECT DISPLACEMENT → community relocated, owned by tribal society"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REMEDY 1 → co-management and alternative livelihood",
+            "REMEDY 2 → resettlement design and livelihood restoration"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSERVATION RESTRICTION → access curtailed, nobody physically moved",
+            "PROJECT DISPLACEMENT → community relocated, owned by tribal society"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMEDY 2 → resettlement design and livelihood restoration.",
+      "source_references": [
+        "The development-livelihood conflict",
+        "Two development conflicts kept apart"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TWO CONSERVATION DESIGNS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO CONSERVATION DESIGNS",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS CLOSED ENTIRELY TO PROTECT THE ECOSYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CO-MANAGEMENT, STAKE AND ALTERNATIVE LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERITY OF THE CONFLICT FOLLOWS DESIGN, NOT INTENTION",
+          "role": "caution"
+        },
+        {
+          "text": "SOME RESTRICTION ON PRIOR OPEN ACCESS USUALLY REMAINS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EXCLUSIONARY → access closed entirely to protect the ecosystem",
+        "PARTICIPATORY → co-management, stake and alternative livelihood",
+        "EFFECT → severity of the conflict follows design, not intention",
+        "LIMIT → some restriction on prior open access usually remains"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "EXCLUSIONARY → access closed entirely to protect the ecosystem",
+          "EFFECT → severity of the conflict follows design, not intention",
+          "EXCLUSIONARY → access closed entirely to protect the ecosystem"
+        ],
+        [
+          "PARTICIPATORY → co-management, stake and alternative livelihood",
+          "LIMIT → some restriction on prior open access usually remains",
+          "PARTICIPATORY → co-management, stake and alternative livelihood"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EXCLUSIONARY → access closed entirely to protect the ecosystem",
+            "PARTICIPATORY → co-management, stake and alternative livelihood"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EFFECT → severity of the conflict follows design, not intention",
+            "LIMIT → some restriction on prior open access usually remains"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXCLUSIONARY → access closed entirely to protect the ecosystem",
+            "PARTICIPATORY → co-management, stake and alternative livelihood"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → some restriction on prior open access usually remains.",
+      "source_references": [
+        "Exclusionary and participatory conservation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREE ACTORS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE ACTORS",
+          "role": "primary"
+        },
+        {
+          "text": "REGULATION, FUNDING AT SCALE, FINAL ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GRASSROOTS TRUST, LOCAL KNOWLEDGE, LAST MILE",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGY, EFFICIENCY AND RESOURCES",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVIDED ROLES WITH JOINT MONITORING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT → regulation, funding at scale, final accountability",
+        "NON-GOVERNMENTAL → grassroots trust, local knowledge, last mile",
+        "PRIVATE → technology, efficiency and resources",
+        "CONDITION → divided roles with joint monitoring"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "GOVERNMENT → regulation, funding at scale, final accountability",
+          "PRIVATE → technology, efficiency and resources",
+          "GOVERNMENT → regulation, funding at scale, final accountability"
+        ],
+        [
+          "NON-GOVERNMENTAL → grassroots trust, local knowledge, last mile",
+          "CONDITION → divided roles with joint monitoring",
+          "NON-GOVERNMENTAL → grassroots trust, local knowledge, last mile"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GOVERNMENT → regulation, funding at scale, final accountability",
+            "NON-GOVERNMENTAL → grassroots trust, local knowledge, last mile"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRIVATE → technology, efficiency and resources",
+            "CONDITION → divided roles with joint monitoring"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOVERNMENT → regulation, funding at scale, final accountability",
+            "NON-GOVERNMENTAL → grassroots trust, local knowledge, last mile"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NON-GOVERNMENTAL → grassroots trust, local knowledge, last mile.",
+      "source_references": [
+        "Three actors, three comparative advantages",
+        "Complementary rather than overlapping roles"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COLLABORATION FAILURE MODE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COLLABORATION FAILURE MODE",
+          "role": "primary"
+        },
+        {
+          "text": "ROLES UNDIVIDED",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO ACTORS ATTEMPT THE SAME FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EFFORT REPEATED AND COVERAGE STILL INCOMPLETE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESPONSIBILITY DIFFUSED ACROSS THREE ACTORS",
+          "role": "primary"
+        },
+        {
+          "text": "COOPERATION WITHOUT A TRACEABLE OUTCOME OWNER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ROLES UNDIVIDED → two actors attempt the same function",
+        "DUPLICATION → effort repeated and coverage still incomplete",
+        "ACCOUNTABILITY → responsibility diffused across three actors",
+        "RESULT → cooperation without a traceable outcome owner"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ROLES UNDIVIDED → two actors attempt the same function",
+            "DUPLICATION → effort repeated and coverage still incomplete"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNTABILITY → responsibility diffused across three actors",
+            "RESULT → cooperation without a traceable outcome owner"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ROLES UNDIVIDED → two actors attempt the same function",
+            "DUPLICATION → effort repeated and coverage still incomplete"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → cooperation without a traceable outcome owner.",
+      "source_references": [
+        "Complementary rather than overlapping roles"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THREE BOUNDARY CASES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE BOUNDARY CASES",
+          "role": "primary"
+        },
+        {
+          "text": "LITERACY CAMPAIGN WITHOUT INCOME SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND TITLING AND CREDIT ACCESS EXPAND THE OPPORTUNITY SET",
+          "role": "comparison"
+        },
+        {
+          "text": "TOTAL BAN WITH NO ALTERNATIVE LIVELIHOOD PROVIDED",
+          "role": "caution"
+        },
+        {
+          "text": "CO-MANAGEMENT RIGHTS WITH AN ALTERNATIVE INCOME STREAM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CULTURE-ONLY → literacy campaign without income security",
+        "STRUCTURAL → land titling and credit access expand the opportunity set",
+        "EXCLUSIONARY → total ban with no alternative livelihood provided",
+        "PARTICIPATORY → co-management rights with an alternative income stream"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CULTURE-ONLY → literacy campaign without income security",
+          "EXCLUSIONARY → total ban with no alternative livelihood provided",
+          "CULTURE-ONLY → literacy campaign without income security"
+        ],
+        [
+          "STRUCTURAL → land titling and credit access expand the opportunity set",
+          "PARTICIPATORY → co-management rights with an alternative income stream",
+          "STRUCTURAL → land titling and credit access expand the opportunity set"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CULTURE-ONLY → literacy campaign without income security",
+            "STRUCTURAL → land titling and credit access expand the opportunity set"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EXCLUSIONARY → total ban with no alternative livelihood provided",
+            "PARTICIPATORY → co-management rights with an alternative income stream"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CULTURE-ONLY → literacy campaign without income security",
+            "STRUCTURAL → land titling and credit access expand the opportunity set"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARTICIPATORY → co-management rights with an alternative income stream.",
+      "source_references": [
+        "Three boundary cases"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "POVERTY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "POVERTY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE DEPRIVATION AND NAME THE MECHANISM BEING TESTED",
+          "role": "mechanism"
+        },
+        {
+          "text": "COVERAGE, ACCESS AND USE, THEN THE CLASS OR DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTRASTING BOUNDARY CASES AND THE STANDING TRADE-OFF",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE DATED-ESTIMATE CAVEAT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → define deprivation and name the mechanism being tested",
+        "BODY → coverage, access and use, then the class or design channel",
+        "TEST → contrasting boundary cases and the standing trade-off",
+        "CLOSE → graded verdict with the dated-estimate caveat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OPEN → define deprivation and name the mechanism being tested",
+            "BODY → coverage, access and use, then the class or design channel"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "TEST → contrasting boundary cases and the standing trade-off",
+            "CLOSE → graded verdict with the dated-estimate caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → define deprivation and name the mechanism being tested",
+            "BODY → coverage, access and use, then the class or design channel"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the dated-estimate caveat.",
+      "source_references": [
+        "Trade-offs, ownership and the answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NGO-GOVERNMENT-PRIVATE ROLE-DIVISION FRAMEWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURED PUBLIC-PRIVATE-NGO",
+          "role": "comparison"
+        },
+        {
+          "text": "POVERTY-MEASUREMENT AND WELFARE-ENTITLEMENT ARCHITECTURE (CROSS-LINKED, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — CULTURE-ONLY MISDIAGNOSIS",
+          "role": "primary"
+        },
+        {
+          "text": "A FINANCIAL-LITERACY PROGRAMME THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — STRUCTURAL INTERVENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A LAND-TITLING AND CREDIT-ACCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORETICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: NGO-government-private role-division frameworks: structured public-private-NGO",
+            "Poverty-measurement and welfare-entitlement architecture (cross-linked, not",
+            "CAUTION: Boundary case 1 — culture-only misdiagnosis: a financial-literacy programme that",
+            "CAUTION: Boundary case 2 — structural intervention: a land-titling and credit-access"
+          ]
+        },
+        {
+          "heading": "DATA / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Boundary case 3 — conservation implementation contrast: a protected-area",
+            "CAUTION: Conservation-effectiveness-versus-equity trade-off: participatory models can be",
+            "CAUTION: Collaboration-accountability trade-off: distributing roles across government, NGOs",
+            "CAUTION: Structural-reform-pace trade-off: capability-approach-consistent interventions"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE SOCIAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "Amartya Sen's capability approach is the standard corrective frame against",
+            "Oscar Lewis's \"culture of poverty\" thesis originated from ethnographic fieldwork among",
+            "NITI Aayog's 2024 discussion paper Multidimensional Poverty in India since 2005-06",
+            "CAUTION: Participatory/joint conservation-management models are the sociologically preferred"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

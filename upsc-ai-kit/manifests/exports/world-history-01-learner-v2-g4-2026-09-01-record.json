@@ -1,0 +1,143 @@
+{
+  "record_id": "world-history-01:learner-v2:g4",
+  "topic_key": "world-history-01",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "world-history-01:learner-v2:g3",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Enlightenment and Age of Revolutions Overview — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "world-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": "world-history-01:legacy-v1:g1",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md": "00e9b3ef5d8807911e33c935fefc92a15d400e432aea9de3fcc41e7f34088454",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md": "bb209d833040d85306761648cb0a6048000bfe329bd607c59518a731fe3412bc",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "No verified live current-affairs item is pegged to this historical topic in the repository owners. The package therefore uses the bounded phrase 'no verified live item' rather than inventing a headline, date, institution or contemporary linkage.",
+    "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this overview in the local 2018-2025 routing blocks. The verified 2019 American-and-French-Revolutions demand is solved in Topics 02 and 03 rather than being relabelled here.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "e2b18d34db373cba9154ee5aaa3f502287db803516d7b41b67f3a3956006d10e",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Solved-Practice-Workbook_2026-09-01.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-01-g4.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-01-deep-review-2026-09-01-g4.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md": "87811a5369d44515e173886b76fddfed3f1caf1e5a0304fd399840d3ea80a70d",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Solved-Practice-Workbook_2026-09-01.md": "5452f3ecfafb8770c93ea5e1ae13f7562a62d208bb6480ac871366ab91fd01cf",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.pdf": "3131768660dbbb4e6aa4b9deab02449bf8cf6262e10c1b7269ef1e8774070243",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Solved-Practice-Workbook_2026-09-01.pdf": "20b540ef4a67b16936ee49f2803da048caf44d51e896543da29557643dc9dbf1",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\validation\\main-visual-audit-map.json": "c7bfa68974686136b868efd4be2e91c7a213b7f63d9eb70db362b92c082766ad",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\validation\\workbook-visual-audit-map.json": "2dcb7f329f720054bcd5749a9f26b230c826edc74d94f9546ec9e556040ec33b",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-01-deep-review-2026-09-01-g4.json": "15ef356fac2b758a8e335676e76f3240a9e192f652d10a19898112eb1d47a39c",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-01-g4.json": "39b694be2d7647ce2761d35ca212cad92efd94c5ee9497c4711644d0fb70de56",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\assets\\world-history-01_Teaching-Navigation_2026-09-01.png": "383c5ebf1e5f311c156c88476d6a9490ad99a0552f4dff85ce98bdfc82bf1a7f",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\ascii-master.pdf": "50b400b7efd1e7afe3ced0939d28b1c927873cd46ef9740c313a882edfa0089f",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\ascii-master.txt": "2e89bcb72ac7bcd8160ee3377af63952c45b9f58f78856205b4dd3efd58771a3",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\build-audit.json": "9cec8e7a7c94e5df29b88c66b9add4202af890aff5f19da168825f8433c0e63e",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\master.png": "05b17a305a3d47b947fe6fd422764085dfc2085d22f3d0f9040ed2fa4c1fe435",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\poster.pdf": "f46db269f6029fc06b88e8be2586feac55fb7a0da3d23f3f6b5cc3c4c24550f9",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\preservation-hashes.json": "dd2d1c7032f407306802001896111af629b97194f056d177e895a1fc74d55003",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\README.txt": "60a82ff04b36bf59682fe34fb7f19f1ab0ce9864b2ce8435893ff60a232809e3",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\tiled.pdf": "a08fdf681473d93d9cb908043db16ad9da099adfe9adcda713498b24fa73b580",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\validation-report.txt": "d7fb3e5762de875c403983a2b4cdfb6969a797f4b5a589d9dd3d0ad5b08b7d88",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\editable\\topic-spec.json": "39b694be2d7647ce2761d35ca212cad92efd94c5ee9497c4711644d0fb70de56",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\contact-sheet-01.png": "97ab01261b466d705e544c4b4458c9fd7789229406f695fd450d186c92c3ca43",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\master-overview.png": "2e981d5bd0274e34c7d7a047568f68f05bfc03920c007f9a0c26fe366584fbd9",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\page-001.png": "d05c56083038d6438661062469b17ee7f5341336766b7a12f05f8d535d3cf4f5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\page-002.png": "04128bf7a17787f793eaa2f990cee08a7d933755467abb85c625fe8c0f7c726b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\page-003.png": "a9af24f39864f4d9fc686645cf5eebf1fcd678bb4689a1b1b739e8400b8e9c72",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\page-004.png": "95503fc3168cf5a4a88a87bd751e9251d2600563ce6669fe2934eb368033bd0e",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-01-g4.json": "3e4b4f0796270632136fa70651382a18a5c9ca8549139807b2cf4c3a331aa54b"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-01:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "regenerate_world_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-01-g4.json",
+    "graphical_spec_sha256": "39b694be2d7647ce2761d35ca212cad92efd94c5ee9497c4711644d0fb70de56",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-01-deep-review-2026-09-01-g4.json",
+    "ascii_master_spec_sha256": "15ef356fac2b758a8e335676e76f3240a9e192f652d10a19898112eb1d47a39c",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-01\\carvaka-g4\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-world-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

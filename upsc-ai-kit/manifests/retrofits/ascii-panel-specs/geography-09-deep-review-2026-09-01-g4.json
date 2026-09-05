@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-09",
+      "display_title": "Lakes / India Lakes and Wetlands",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Category boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LAKE -> standing water in an inland basin",
+            "RESERVOIR -> artificial or strongly regulated storage",
+            "WETLAND -> broader hydrological-ecological category",
+            "RAMSAR SITE -> international designation, not basin origin",
+            "MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial,",
+            "  fluvial, karst, coastal, aeolian, landslide or artificial—then water balance, mixing,",
+            "  sediment and succession; Indian wetlands add Ramsar and domestic-governance layers."
+          ],
+          "source_references": [
+            "Lake, pond, reservoir and wetland",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Lake-origin tree",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "EARTH MOVEMENT -> tectonic or volcanic basin",
+            "ICE / RIVER / COAST -> tarn, ox-bow or lagoon",
+            "BLOCKAGE / IMPACT -> landslide dam or crater",
+            "HUMAN WORK -> reservoir, bund or excavation"
+          ],
+          "source_references": [
+            "How lake basins form",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Water-budget equation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INPUT -> rain + river + groundwater",
+            "OUTPUT -> evaporation + outflow + seepage",
+            "STORAGE CHANGE -> inputs minus outputs",
+            "ATTRIBUTION -> state period, basin and uncertainty"
+          ],
+          "source_references": [
+            "Lake water budget",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Lake-change firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SUCCESSION -> sediment and organic infilling",
+            "EUTROPHICATION -> nutrient-productivity-oxygen shift",
+            "SHRINKAGE -> water-budget deficit",
+            "RULE -> similar appearance can hide different mechanisms"
+          ],
+          "source_references": [
+            "Trophic states and eutrophication",
+            "Two modes of lake loss",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Wetland hydroperiod",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TIMING -> season of inundation",
+            "DURATION -> how long water remains",
+            "DEPTH + FREQUENCY -> habitat filter",
+            "CONNECTIVITY -> river, aquifer or coast link"
+          ],
+          "source_references": [
+            "Hydroperiod and connectivity",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India lake map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WULAR -> Jhelum-linked Kashmir basin",
+            "SAMBHAR -> saline Rajasthan closed basin",
+            "CHILIKA -> Odisha coastal lagoon",
+            "LONAR / KANWAR / BHOJ -> impact / fluvial / artificial"
+          ],
+          "source_references": [
+            "Indian lake-origin map",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "River-lake traps",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WULAR -> linked to Jhelum",
+            "KOLLERU -> between Krishna and Godavari deltas",
+            "LOKTAK -> phumdi-bearing lake",
+            "RULE -> adjacency does not prove direct feeding"
+          ],
+          "source_references": [
+            "River-lake and phumdi hooks",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Urban reclamation chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "FILL / NARROW -> storage and drainage lost",
+            "RUNOFF -> flood peak and duration rise",
+            "POLLUTION -> dilution and habitat decline",
+            "EQUITY -> low-lying communities bear shifted risk"
+          ],
+          "source_references": [
+            "Urban reclamation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Threat-response matrix",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SEWAGE / NUTRIENT -> source control + treatment",
+            "SEDIMENT -> catchment and erosion management",
+            "ENCROACHMENT -> protect hydrological space",
+            "INVASIVE / ALTERED FLOW -> ecological and flow restoration"
+          ],
+          "source_references": [
+            "Threat diagnosis and restoration",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Ramsar status firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CRITERION -> at least one can support listing",
+            "WISE USE -> maintain ecological character",
+            "MONTREUX -> priority attention to character change",
+            "LIMIT -> listing is not automatic National Park status",
+            "CLOSE DISTINCTION: Lake, lagoon, oxbow, reservoir and wetland are not synonyms;",
+            "  freshwater/saline and exorheic/endorheic are separate axes, while Ramsar designation is",
+            "  international recognition rather than ownership transfer or automatic protection."
+          ],
+          "source_references": [
+            "Ramsar wise use and Montreux",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India governance chain",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "INVENTORY -> identify and delineate system",
+            "NOTIFICATION / RULES -> regulate activities",
+            "PLAN / NPCA -> finance and implement management",
+            "MONITOR -> prove ecological response",
+            "EVIDENCE LIMIT: Area, designation count and ecological status are time-sensitive; shrinkage or",
+            "  eutrophication needs inflow, evaporation, abstraction, nutrients, encroachment and catchment",
+            "  evidence rather than one-cause attribution."
+          ],
+          "source_references": [
+            "Wetlands Rules and programmes",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Lake-wetland answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> basin, wetland and status",
+            "CLASSIFY -> origin and hydrology",
+            "DIAGNOSE -> budget, nutrient or connectivity failure",
+            "RESPOND -> basin-scale, monitored and status-aware"
+          ],
+          "source_references": [
+            "Verified routes and final wetland spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

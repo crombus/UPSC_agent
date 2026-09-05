@@ -1,0 +1,1047 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-23",
+  "subject": "Science-and-Technology",
+  "title": "GENERAL SCIENCE: BIOLOGY AND PHYSIOLOGY",
+  "short_route": "CELL AND ORGANELLE MAP → MEMBRANE TRANSPORT DECISION TREE → CELL DIVISION COMPARISON → GENE-EXPRESSION RAIL → NUTRITION AND DIGESTION ROUTE → TRANSPORT RESPIRATION EXCRETION LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-23_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-23-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "99f2b4143d2166d32193f67a989881e329bb69de8e9c4dcb18c82ca5686d1526",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CELL AND ORGANELLE MAP",
+      "structural_type": "nested-cell-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CELL AND ORGANELLE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "NO MEMBRANE-BOUND NUCLEUS OR ORGANELLES",
+          "role": "caution"
+        },
+        {
+          "text": "NUCLEUS + COMPARTMENTAL ORGANELLES",
+          "role": "comparison"
+        },
+        {
+          "text": "ER + GOLGI",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESSING AND MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CELLULOSE WALL + CHLOROPLAST + LARGE VACUOLE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROKARYOTE → no membrane-bound nucleus or organelles",
+        "EUKARYOTE → nucleus + compartmental organelles",
+        "RIBOSOME → protein",
+        "MITOCHONDRION → ATP",
+        "ER + GOLGI → processing and movement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PROKARYOTE → no membrane-bound nucleus or organelles",
+            "EUKARYOTE → nucleus + compartmental organelles"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "RIBOSOME → protein",
+            "MITOCHONDRION → ATP"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "ER + GOLGI → processing and movement",
+            "PLANT → cellulose wall + chloroplast + large vacuole"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLANT → cellulose wall + chloroplast + large vacuole.",
+      "source_references": [
+        "Cell organisation and organelle boundary",
+        "Biomolecules and enzyme specificity"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MEMBRANE TRANSPORT DECISION TREE",
+      "structural_type": "transport-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MEMBRANE TRANSPORT DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "SOLUTE DOWN GRADIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER + SELECTIVE MEMBRANE",
+          "role": "comparison"
+        },
+        {
+          "text": "AGAINST GRADIENT + ENERGY",
+          "role": "evidence"
+        },
+        {
+          "text": "ACTIVE TRANSPORT",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL TONICITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CELL WATER RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVEMENT DEPENDS ON MEMBRANE AND GRADIENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOLUTE DOWN GRADIENT → diffusion",
+        "WATER + SELECTIVE MEMBRANE → osmosis",
+        "AGAINST GRADIENT + ENERGY → active transport",
+        "EXTERNAL TONICITY → cell water response",
+        "TRAP → movement depends on membrane and gradient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SOLUTE DOWN GRADIENT → diffusion",
+            "WATER + SELECTIVE MEMBRANE → osmosis"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "AGAINST GRADIENT + ENERGY → active transport",
+            "EXTERNAL TONICITY → cell water response"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → movement depends on membrane and gradient",
+            "SOLUTE DOWN GRADIENT → diffusion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → movement depends on membrane and gradient.",
+      "source_references": [
+        "Membrane transport and water balance"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CELL DIVISION COMPARISON",
+      "structural_type": "two-column-division",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CELL DIVISION COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "ONE DIVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO SIMILAR CELLS",
+          "role": "comparison"
+        },
+        {
+          "text": "GROWTH AND REPAIR",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO DIVISIONS",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR HAPLOID PRODUCTS",
+          "role": "outcome"
+        },
+        {
+          "text": "GAMETES + VARIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSSING OVER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MITOSIS → one division → two similar cells",
+        "ROLE → growth and repair",
+        "MEIOSIS → two divisions → four haploid products",
+        "ROLE → gametes + variation",
+        "CROSSING OVER != gene editing"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "MITOSIS → one division → two similar cells",
+          "MEIOSIS → two divisions → four haploid products",
+          "CROSSING OVER != gene editing"
+        ],
+        [
+          "ROLE → growth and repair",
+          "ROLE → gametes + variation",
+          "MITOSIS → one division → two similar cells"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MITOSIS → one division → two similar cells",
+            "ROLE → growth and repair"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MEIOSIS → two divisions → four haploid products",
+            "ROLE → gametes + variation"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CROSSING OVER != gene editing",
+            "MITOSIS → one division → two similar cells"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEIOSIS → two divisions → four haploid products.",
+      "source_references": [
+        "Mitosis meiosis and variation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GENE-EXPRESSION RAIL",
+      "structural_type": "information-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GENE-EXPRESSION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DNA --REPLICATION-→ DNA",
+          "role": "outcome"
+        },
+        {
+          "text": "DNA --TRANSCRIPTION-→ MRNA MRNA + TRNA + RIBOSOME --TRANSLATION-→",
+          "role": "comparison"
+        },
+        {
+          "text": "POST-TRANSCRIPTIONAL REGULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CELL STRUCTURE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DNA --replication-→ DNA",
+        "DNA --transcription-→ mRNA mRNA + tRNA + RIBOSOME --translation-→ protein microRNA → post-transcriptional regulation",
+        "PROTEIN → cell structure / enzyme / receptor / signal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DNA --replication-→ DNA",
+            "DNA --transcription-→ mRNA mRNA + tRNA + RIBOSOME --translation-→ protein microRNA → post-transcriptional regulation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PROTEIN → cell structure / enzyme / receptor / signal",
+            "DNA --replication-→ DNA"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DNA --transcription-→ mRNA mRNA + tRNA + RIBOSOME --translation-→ protein microRNA → post-transcriptional regulation",
+            "PROTEIN → cell structure / enzyme / receptor / signal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROTEIN → cell structure / enzyme / receptor / signal.",
+      "source_references": [
+        "DNA RNA gene expression and microRNA",
+        "Inheritance mutation and sex linkage"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NUTRITION AND DIGESTION ROUTE",
+      "structural_type": "organ-route",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "NUTRITION AND DIGESTION ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "ACID + PEPSIN",
+          "role": "outcome"
+        },
+        {
+          "text": "FAT EMULSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PANCREAS + INTESTINE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIGESTION COMPLETION",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL INTESTINE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCIPAL ABSORPTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MOUTH → amylase",
+        "STOMACH → acid + pepsin",
+        "LIVER / BILE → fat emulsification",
+        "PANCREAS + INTESTINE → digestion completion",
+        "SMALL INTESTINE → principal absorption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MOUTH → amylase",
+            "STOMACH → acid + pepsin"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "LIVER / BILE → fat emulsification",
+            "PANCREAS + INTESTINE → digestion completion"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SMALL INTESTINE → principal absorption",
+            "MOUTH → amylase"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PANCREAS + INTESTINE → digestion completion; SMALL INTESTINE → principal absorption.",
+      "source_references": [
+        "Digestion absorption and nutrition"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TRANSPORT RESPIRATION EXCRETION LOOP",
+      "structural_type": "physiology-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRANSPORT RESPIRATION EXCRETION LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "ALVEOLAR GAS EXCHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "GASES + NUTRIENTS + HORMONES + WASTES",
+          "role": "comparison"
+        },
+        {
+          "text": "PULMONARY + SYSTEMIC CIRCULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ATP-PRODUCING RESPIRATION",
+          "role": "primary"
+        },
+        {
+          "text": "FILTRATION + REABSORPTION + SECRETION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LUNGS → alveolar gas exchange",
+        "BLOOD → gases + nutrients + hormones + wastes",
+        "HEART → pulmonary + systemic circulation",
+        "CELLS → ATP-producing respiration",
+        "NEPHRON → filtration + reabsorption + secretion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "LUNGS → alveolar gas exchange",
+            "BLOOD → gases + nutrients + hormones + wastes"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "HEART → pulmonary + systemic circulation",
+            "CELLS → ATP-producing respiration"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NEPHRON → filtration + reabsorption + secretion",
+            "LUNGS → alveolar gas exchange"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLOOD → gases + nutrients + hormones + wastes.",
+      "source_references": [
+        "Blood heart and double circulation",
+        "Respiration gas exchange and cellular energy",
+        "Kidney nephron and homeostasis"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONTROL AND FEEDBACK LADDER",
+      "structural_type": "feedback-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONTROL AND FEEDBACK LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CHANGE DETECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "RAPID WIRED RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "BLOOD-BORNE HORMONE RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSIOLOGICAL ADJUSTMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NEGATIVE FEEDBACK",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTORES REGULATED RANGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RECEPTOR → change detected",
+        "NERVOUS → rapid wired response",
+        "ENDOCRINE → blood-borne hormone response",
+        "TARGET → physiological adjustment",
+        "NEGATIVE FEEDBACK → restores regulated range"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RECEPTOR → change detected",
+            "NERVOUS → rapid wired response"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENDOCRINE → blood-borne hormone response",
+            "TARGET → physiological adjustment"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "NEGATIVE FEEDBACK → restores regulated range",
+            "RECEPTOR → change detected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TARGET → physiological adjustment; NEGATIVE FEEDBACK → restores regulated range.",
+      "source_references": [
+        "Nervous endocrine and feedback control",
+        "Hormones metabolism and internal stability"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "IMMUNITY ARCHITECTURE",
+      "structural_type": "layered-defence",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "IMMUNITY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "BARRIERS + PHAGOCYTES + COMPLEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "B CELL",
+          "role": "comparison"
+        },
+        {
+          "text": "T CELL",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATORY ROLES",
+          "role": "primary"
+        },
+        {
+          "text": "REGULATORY T CELL + FOXP3",
+          "role": "outcome"
+        },
+        {
+          "text": "PERIPHERAL TOLERANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SELF-REACTIVITY CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BARRIERS + PHAGOCYTES + COMPLEMENT → innate",
+        "B CELL → antibody / memory",
+        "T CELL → helper / cytotoxic / regulatory roles",
+        "REGULATORY T CELL + Foxp3 → peripheral tolerance",
+        "SELF-REACTIVITY CONTROL != no immune response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "BARRIERS + PHAGOCYTES + COMPLEMENT → innate",
+            "B CELL → antibody / memory"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "T CELL → helper / cytotoxic / regulatory roles",
+            "REGULATORY T CELL + Foxp3 → peripheral tolerance"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SELF-REACTIVITY CONTROL != no immune response",
+            "BARRIERS + PHAGOCYTES + COMPLEMENT → innate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REGULATORY T CELL + Foxp3 → peripheral tolerance.",
+      "source_references": [
+        "Innate adaptive and tolerance architecture"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DISEASE TRANSMISSION GRID",
+      "structural_type": "agent-route-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISEASE TRANSMISSION GRID",
+          "role": "primary"
+        },
+        {
+          "text": "CARRIES PATHOGEN, IS NOT DISEASE",
+          "role": "caution"
+        },
+        {
+          "text": "ANIMAL-HUMAN INTERFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "MECHANISM-SPECIFIC LAYERS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "VECTOR → carries pathogen, is not disease",
+        "ZOONOSIS → animal-human interface",
+        "PREVENTION → mechanism-specific layers"
+      ],
+      "matrix": [
+        [
+          "CONCEPT / ARCHITECTURE",
+          "MECHANISM / APPLICATION",
+          "READINESS / STATUS LIMIT"
+        ],
+        [
+          "VECTOR → carries pathogen, is not disease",
+          "PREVENTION → mechanism-specific layers",
+          "ZOONOSIS → animal-human interface"
+        ],
+        [
+          "ZOONOSIS → animal-human interface",
+          "VECTOR → carries pathogen, is not disease",
+          "PREVENTION → mechanism-specific layers"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "VECTOR → carries pathogen, is not disease",
+            "ZOONOSIS → animal-human interface"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PREVENTION → mechanism-specific layers",
+            "VECTOR → carries pathogen, is not disease"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "ZOONOSIS → animal-human interface",
+            "PREVENTION → mechanism-specific layers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AIR | WATER/FOOD | BLOOD | CONTACT | VECTOR.",
+      "source_references": [
+        "Pathogen transmission vector and zoonosis map",
+        "Antibiotic antiviral and AMR boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MICROBIAL ECOLOGY AND RESISTANCE",
+      "structural_type": "selection-ecology-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MICROBIAL ECOLOGY AND RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ANTIMICROBIAL PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESISTANT MICROBE",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVIVAL + SPREAD",
+          "role": "evidence"
+        },
+        {
+          "text": "MATRIX-PROTECTED COMMUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "CONTEXT-DEPENDENT ROLES",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTREMOPHILE LABEL",
+          "role": "comparison"
+        },
+        {
+          "text": "TOLERANCE, NOT UNIVERSAL SAFETY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANTIMICROBIAL PRESSURE → selection",
+        "RESISTANT MICROBE → survival + spread",
+        "BIOFILM → matrix-protected community",
+        "MICROBIOME / PROBIOTIC → context-dependent roles",
+        "EXTREMOPHILE LABEL → tolerance, not universal safety"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ANTIMICROBIAL PRESSURE → selection",
+            "RESISTANT MICROBE → survival + spread"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BIOFILM → matrix-protected community",
+            "MICROBIOME / PROBIOTIC → context-dependent roles"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "EXTREMOPHILE LABEL → tolerance, not universal safety",
+            "ANTIMICROBIAL PRESSURE → selection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MICROBIOME / PROBIOTIC → context-dependent roles; EXTREMOPHILE LABEL → tolerance, not universal safety.",
+      "source_references": [
+        "Antibiotic antiviral and AMR boundary",
+        "Biofilms microbiome probiotics and extremophiles"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PLANT FUNCTION FLOW",
+      "structural_type": "plant-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PLANT FUNCTION FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "WATER + MINERAL UPTAKE",
+          "role": "outcome"
+        },
+        {
+          "text": "UPWARD TRANSPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "STOMATA + PHOTOSYNTHESIS + TRANSPIRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FOOD TRANSLOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT CARBON-FIXATION STRATEGIES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ROOT → water + mineral uptake",
+        "XYLEM → upward transport",
+        "LEAF → stomata + photosynthesis + transpiration",
+        "PHLOEM → food translocation",
+        "CAM → different carbon-fixation strategies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ROOT → water + mineral uptake",
+            "XYLEM → upward transport"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEAF → stomata + photosynthesis + transpiration",
+            "PHLOEM → food translocation"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "CAM → different carbon-fixation strategies",
+            "ROOT → water + mineral uptake"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "C3 | C4 | CAM → different carbon-fixation strategies.",
+      "source_references": [
+        "Plant physiology transport and stress response"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND EVIDENCE-STATUS RAIL",
+      "structural_type": "status-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND EVIDENCE-STATUS RAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANT FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIES PROPERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXACT CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MICROBIAL METABOLISM",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMME DELIVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO VALIDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PATHOGEN ERADICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TAXON / PLANT FORM / SPECIES PROPERTY → exact classification",
+        "CELLULOSE → cellulase → sugars → microbial metabolism",
+        "RESEARCH → SURVEILLANCE → PROGRAMME DELIVERY → REGULATION",
+        "WHO VALIDATION != pathogen eradication",
+        "MECHANISM / ASSOCIATION / APPROVAL / OUTCOME → separate rungs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "TAXON / PLANT FORM / SPECIES PROPERTY → exact classification",
+            "CELLULOSE → cellulase → sugars → microbial metabolism"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "RESEARCH → SURVEILLANCE → PROGRAMME DELIVERY → REGULATION",
+            "WHO VALIDATION != pathogen eradication"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "MECHANISM / ASSOCIATION / APPROVAL / OUTCOME → separate rungs",
+            "TAXON / PLANT FORM / SPECIES PROPERTY → exact classification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MECHANISM / ASSOCIATION / APPROVAL / OUTCOME → separate rungs.",
+      "source_references": [
+        "Routed taxonomy and organism-form distinctions",
+        "Cellulose decomposition route",
+        "Health institution and evidence-status firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BIOTECHNOLOGY POLICY AND PROGRAMME INSTITUTION LINKING BASIC BIOLOGY TO",
+          "role": "institution"
+        },
+        {
+          "text": "MOLECULAR BIOLOGY, GENOMICS AND SYSTEMS-BIOLOGY RESEARCH ECOSYSTEMS.",
+          "role": "comparison"
+        },
+        {
+          "text": "DISEASE-SURVEILLANCE AND PUBLIC-HEALTH INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "WHERE PHYSIOLOGY, MICROBIOLOGY AND IMMUNOLOGY BECOME POLICY ACTION.",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE THE FUNCTIONS PRECISELY",
+          "role": "outcome"
+        },
+        {
+          "text": "ICMR PERFORMS AND FUNDS BIOMEDICAL RESEARCH",
+          "role": "comparison"
+        },
+        {
+          "text": "NCDC AND THE IDSP/IHIP NETWORK UNDER MOHFW RUN OPERATIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "DBT: biotechnology policy and programme institution linking basic biology to applied missions.",
+            "CSIR-CCMB / CSIR-IGIB: molecular biology, genomics and systems-biology research ecosystems.",
+            "ICMR / disease-surveillance and public-health institutions: where physiology, microbiology and immunology become policy action.",
+            "CAUTION: Separate the functions precisely: ICMR performs and funds biomedical research"
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NCDC and the IDSP/IHIP network under MoHFW run operational surveillance and outbreak response",
+            "State health departments deliver programmes",
+            "CDSCO grants regulatory approvals.",
+            "Research capacity, surveillance capacity and regulatory capacity fail in different ways and require different remedies."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "WHO-linked surveillance and immunization reporting frameworks: relevant because public-health biology is continuously monitored, not studied once and forgotten.",
+            "CAUTION: Applied extensions sit in 13 Biotechnology-Fundamentals-and-DBT-Missions.md, 14 Genetic-Engineering-GM-Crops-and-CRISPR.md and 15 Vaccines-Monoclonal-Antibodies-and-Biopharma.md.",
+            "Genetics and cell biology underpin newborn screening, cancer diagnostics, pathogen surveillance and precision medicine.",
+            "Physiology underlies nutrition programmes, anemia policy, non-communicable disease prevention and occupational health."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

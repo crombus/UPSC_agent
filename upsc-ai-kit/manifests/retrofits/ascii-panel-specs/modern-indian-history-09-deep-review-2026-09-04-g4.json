@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-09",
+      "display_title": "Social & Cultural Policy — Education, the Press, State & Society",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Hicky's Bengal Gazette in colonial education and press",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Hicky's Bengal Gazette",
+            "EVIDENCE -> Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.",
+            "EXAM USE -> use Hicky's Bengal Gazette to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Hicky's Bengal Gazette to another institution or theatre.",
+            "MUST REMEMBER: The 1813 education grant, Macaulay's 1835 Minute, Wood's Dispatch of 1854 and",
+            "  the 1857 universities mark different policy stages, while press controls repeatedly",
+            "  tightened and relaxed."
+          ],
+          "source_references": [
+            "Hicky's Bengal Gazette",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Calcutta Madrasa in colonial education and press",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Calcutta Madrasa",
+            "EVIDENCE -> Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist",
+            "            policy.",
+            "EXAM USE -> use Calcutta Madrasa to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Calcutta Madrasa to another institution or theatre."
+          ],
+          "source_references": [
+            "Calcutta Madrasa",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sanskrit College at Banaras in colonial education and press",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Sanskrit College at Banaras",
+            "EVIDENCE -> The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.",
+            "EXAM USE -> use Sanskrit College at Banaras to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Sanskrit College at Banaras to another institution or theatre."
+          ],
+          "source_references": [
+            "Sanskrit College at Banaras",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fort William College in colonial education and press",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Fort William College",
+            "EVIDENCE -> Wellesley founded Fort William College in 1800 to train European Company civil",
+            "            servants in Indian languages and law.",
+            "EXAM USE -> use Fort William College to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Fort William College to another institution or theatre."
+          ],
+          "source_references": [
+            "Fort William College",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Charter Act of 1813 in colonial education and press",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Charter Act of 1813",
+            "EVIDENCE -> The Charter Act of 1813 assigned one lakh rupees to education and permitted",
+            "            missionary activity.",
+            "EXAM USE -> use Charter Act of 1813 to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Charter Act of 1813 to another institution or theatre."
+          ],
+          "source_references": [
+            "Charter Act of 1813",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Macaulay's Minute in colonial education and press",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Macaulay's Minute",
+            "EVIDENCE -> Macaulay's Minute of 1835 advocated English-medium Western learning for higher",
+            "            education.",
+            "EXAM USE -> use Macaulay's Minute to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Macaulay's Minute to another institution or theatre."
+          ],
+          "source_references": [
+            "Macaulay's Minute",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bentinck's 1835 resolution in colonial education and press",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Bentinck's 1835 resolution",
+            "EVIDENCE -> Bentinck's 1835 resolution implemented the Anglicist preference in state",
+            "            education.",
+            "EXAM USE -> use Bentinck's 1835 resolution to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Bentinck's 1835 resolution to another institution or theatre."
+          ],
+          "source_references": [
+            "Bentinck's 1835 resolution",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Metcalfe's press policy in colonial education and press",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Metcalfe's press policy",
+            "EVIDENCE -> Metcalfe's 1835 press liberalisation earned him the conventional title liberator",
+            "            of the press.",
+            "EXAM USE -> use Metcalfe's press policy to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Metcalfe's press policy to another institution or theatre."
+          ],
+          "source_references": [
+            "Metcalfe's press policy",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Wood's Despatch in colonial education and press",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Wood's Despatch",
+            "EVIDENCE -> Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher",
+            "            training, vernacular primary schooling and universities.",
+            "EXAM USE -> use Wood's Despatch to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Wood's Despatch to another institution or theatre."
+          ],
+          "source_references": [
+            "Wood's Despatch",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Presidency universities in colonial education and press",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Presidency universities",
+            "EVIDENCE -> Universities at Calcutta, Bombay and Madras were established in 1857 as examining",
+            "            institutions.",
+            "EXAM USE -> use Presidency universities to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Presidency universities to another institution or theatre.",
+            "CLOSE DISTINCTION: Anglicist versus Orientalist policy, missionary activity, vernacular print",
+            "  and Indian educational initiative cannot be collapsed into a single Westernisation",
+            "  programme."
+          ],
+          "source_references": [
+            "Presidency universities",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Licensing Act of 1857 in colonial education and press",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Licensing Act of 1857",
+            "EVIDENCE -> The Licensing Act of 1857 marked renewed press restriction during the revolt",
+            "            crisis.",
+            "EXAM USE -> use Licensing Act of 1857 to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Licensing Act of 1857 to another institution or theatre.",
+            "EVIDENCE LIMIT: Government resolutions, missionary records and vernacular public spheres have",
+            "  positioned evidence; education and print enabled critique while reproducing class, caste and",
+            "  gender exclusions."
+          ],
+          "source_references": [
+            "Licensing Act of 1857",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Vernacular Press Act in colonial education and press",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Vernacular Press Act",
+            "EVIDENCE -> Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language",
+            "            newspapers.",
+            "EXAM USE -> use Vernacular Press Act to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Vernacular Press Act to another institution or theatre."
+          ],
+          "source_references": [
+            "Vernacular Press Act",
+            "Social & Cultural Policy - Education, the Press, State & Society",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

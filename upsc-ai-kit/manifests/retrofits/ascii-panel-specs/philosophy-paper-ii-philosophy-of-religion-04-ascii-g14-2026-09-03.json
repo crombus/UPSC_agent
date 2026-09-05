@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "benchmark": "Soul/Rebirth/Liberation reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-04 immutable generation g14",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "title": "Soul, Immortality, Rebirth and Liberation",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g14\\topic-04_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Six survival terms",
+          "structural_type": "concept-separation map",
+          "source_session_heading_references": [
+            "A. The Six Survival-Terms (never merge)"
+          ],
+          "lines": [
+            "SOUL = alleged enduring subject | SELF = first-person or identity principle",
+            " PERSON = embodied/psychological individual | IDENTITY = later is same person",
+            " IMMORTALITY = survival of death | REBIRTH = renewed conditioned existence",
+            " REINCARNATION = substantial soul re-embodied",
+            " RESURRECTION = divine restoration of embodied person",
+            " LIBERATION = release from bondage or rebirth",
+            "                         |",
+            " QUESTIONS MUST BE KEPT DISTINCT",
+            " what survives? -> by what continuity criterion? -> where/when? -> through whose agency?",
+            " -> is survival endless life, renewed embodiment, or freedom from rebirth?",
+            " TERM CONTROL prevents treating Plato, Buddhism, Vedānta and Christianity as one doctrine."
+          ]
+        },
+        {
+          "panel_title": "2. Western immortality arguments",
+          "structural_type": "argument-objection tree",
+          "source_session_heading_references": [
+            "B. Immortality - Plato and the West"
+          ],
+          "lines": [
+            "PLATO",
+            " cyclical argument: opposites arise from opposites",
+            " recollection: a priori knowledge suggests prenatal existence",
+            " affinity: invisible rational soul resembles unchanging Forms",
+            " Phaedo final argument: soul essentially bears life and cannot admit death",
+            "                         |",
+            " objections: pre-existence != endless survival; harmony analogy; dependence on brain",
+            " DESIRE/JUSTICE ARGUMENTS: fulfilment or moral completion suggests afterlife",
+            " limit: wish and moral need do not by themselves establish metaphysical survival."
+          ]
+        },
+        {
+          "panel_title": "3. Personal identity after death",
+          "structural_type": "continuity criterion fork",
+          "source_session_heading_references": [
+            "B. Immortality - Plato and the West",
+            "J. Resurrection vs Rebirth vs Reincarnation"
+          ],
+          "lines": [
+            "IDENTITY CANDIDATES",
+            " +-> same immaterial substance",
+            " +-> bodily continuity / resurrection",
+            " +-> memory and psychological continuity (Locke)",
+            " +-> causal narrative continuity",
+            "                         |",
+            " REID: brave officer exposes memory transitivity problem",
+            " duplication: one psychology copied twice cannot yield two numerically identical persons",
+            " resurrection requires divine re-identification of this person, not mere replica production",
+            " verdict depends on whether identity needs strict sameness or survival-grade continuity."
+          ]
+        },
+        {
+          "panel_title": "4. Karma, rebirth and Buddhist continuity",
+          "structural_type": "causal continuity map",
+          "source_session_heading_references": [
+            "C. Rebirth, Karma, Samsara",
+            "D. Buddhist Continuity Without a Soul"
+          ],
+          "lines": [
+            "INDIAN REBIRTH: karma + saṃskāra/vāsanā -> renewed embodiment in saṃsāra",
+            "                         |",
+            " BUDDHISM DENIES ĀTMAN",
+            " five skandhas + dependent origination -> causal stream -> rebirth without transmigrant",
+            " flame-to-flame: neither numerically identical nor wholly unrelated",
+            " intention conditions later fruit; memory is causally produced cognition",
+            "                         |",
+            " objection: who receives karma? reply: demand for substance mistakes continuity for identity",
+            " nirvāṇa ends craving and the causal appropriation that renews birth."
+          ]
+        },
+        {
+          "panel_title": "5. Liberation parity bench",
+          "structural_type": "seven-destination comparison",
+          "source_session_heading_references": [
+            "E. Liberation Parity Bench (seven destinations)"
+          ],
+          "lines": [
+            "SCHOOL             BONDAGE                         LIBERATION",
+            "Advaita            avidyā, false identity           jñāna: ātman = Brahman",
+            "Viśiṣṭādvaita      karma, dependence obscured       bhakti/prapatti; communion",
+            "Sāṃkhya-Yoga       puruṣa-prakṛti confusion         kaivalya through viveka",
+            "Nyāya              false knowledge, doṣa, karma     apavarga: cessation of pain",
+            "Jainism             karmic pudgala on jīva           kevala-jñāna, siddhahood",
+            "Buddhism            craving/ignorance                nirvāṇa",
+            "Christianity       sin/death                         resurrection and salvation",
+            " SAME WORD “release” conceals different selves, causes, methods and end-states."
+          ]
+        },
+        {
+          "panel_title": "6. Vedānta and Jain routes",
+          "structural_type": "metaphysical-soteriological comparison",
+          "source_session_heading_references": [
+            "F. Vedanta - Advaita vs Visistadvaita",
+            "G. Jain Jiva and Bondage Ladder"
+          ],
+          "lines": [
+            "ADVAITA: subtle body carries karma until knowledge; jīvanmukti possible;",
+            " videhamukti ends embodiment, not the ātman's existence",
+            " VIŚIṢṬĀDVAITA: jīva remains real and distinct; grace, bhakti and prapatti lead to God",
+            "                         |",
+            " JAINISM: jīva + passions/activity -> āsrava -> bandha",
+            " saṃvara blocks influx -> nirjarā sheds karma -> kevala-jñāna -> mokṣa",
+            "                         |",
+            " contrast: Advaita removes ignorance of identity; Rāmānuja perfects dependence;",
+            " Jainism purges material karma from an eternally individual soul."
+          ]
+        },
+        {
+          "panel_title": "7. Paths, objections and ethical meaning",
+          "structural_type": "route-and-critique panel",
+          "source_session_heading_references": [
+            "H. Cessation and Isolation - Apavarga, Jivanmukti, Kaivalya",
+            "I. Paths - Bhakti and the Three Means"
+          ],
+          "lines": [
+            "THREE BROAD MEANS: jñāna (knowledge) | bhakti (devotion) | karma (disciplined action)",
+            " Yoga adds meditative discipline; Jainism adds vows/austerity; Buddhism eightfold path",
+            "                         |",
+            " objections: disembodied soul lacks individuation | rebirth lacks memory",
+            " liberation as painlessness seems empty | endless survival may be burden, not good",
+            " replies: character/causal continuity can outlast episodic memory;",
+            " liberation is evaluated by freedom from ignorance, craving or sin, not mere duration",
+            " ethical test: doctrine should transform present conduct, not postpone justice to another life."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer rail",
+          "structural_type": "objection-reply synthesis",
+          "source_session_heading_references": [
+            "L. 17-Part PYQ Routing (2018-2025)",
+            "O. Answer Spine (objection -> reply)"
+          ],
+          "lines": [
+            "DEFINE exact survival term -> identify bearer and continuity criterion",
+            " -> explain causal mechanism -> state soteriological end and path",
+            " -> strongest objection (identity, evidence, justice) -> strongest reply",
+            " -> compare one unlike doctrine on same axes -> qualified conclusion",
+            "                         |",
+            " ANSWER AXES: self/no-self | body/disembodiment | karma/grace | continuity/identity",
+            " | endless survival/release from rebirth",
+            " CLOSE: survival doctrines are credible only when their ontology of the person,",
+            " continuity mechanism and ethical-liberative purpose support one another."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-04:learner-v2:g14",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

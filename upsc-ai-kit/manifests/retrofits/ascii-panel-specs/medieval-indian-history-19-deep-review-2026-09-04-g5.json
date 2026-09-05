@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-19",
+      "display_title": "Foreign Policy of the Mughals",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "A qualified foreign-policy framework",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "LABEL -> modern analytical shorthand for court diplomacy, frontier, trade and war",
+            "NOT -> nation-state + foreign ministry + permanent embassy + fixed legal border",
+            "CORE -> protect Indian revenue empire through Kabul and northwest balance",
+            "QUALIFY -> Timurid memory + rulerly honour + commercial interests + ambition",
+            "ACTORS -> emperor + princes + nobles + governors + envoys + merchants",
+            "METHOD -> claim -> named evidence -> mechanism -> source/region limit",
+            "BOUNDARY -> Topic 18 Deccan | Topics 20-23 internal/ruler-specific policy",
+            "MUST REMEMBER: Kandahar, Balkh-Badakhshan and relations with Safavids, Uzbeks and Ottomans",
+            "  formed different strategic theatres."
+          ],
+          "source_references": [
+            "Foreign policy",
+            "Court politics",
+            "Anachronism",
+            "State interest",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Northwest strategic geography",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "CORE -> Lahore/Multan -> Kabul -> Ghazni -> Qandahar -> Herat/Iran",
+            "NORTH -> Kabul -> Hindukush -> Balkh/Badakhshan -> Oxus/Transoxiana",
+            "QANDAHAR -> watered fort + road junction + Kabul shield + trade node",
+            "BALKH -> forward buffer/client zone; costlier than Qandahar",
+            "OXUS -> fordable near Balkh; not a self-enforcing scientific frontier",
+            "CONTROL -> fort + road/pass + stores + garrison + allies + relief + season",
+            "TRAP -> Qandahar/Kandahar is not ancient Gandhara."
+          ],
+          "source_references": [
+            "Kabul",
+            "Qandahar",
+            "Herat",
+            "Balkh",
+            "Hindukush",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Four-court balance, not a sectarian bloc",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "UZBEKS -> displaced Timurids + contested Khurasan + threatened Kabul field",
+            "SAFAVIDS -> aid/counterweight/trade partner AND Qandahar rival",
+            "OTTOMANS -> West Asian prestige + Safavid rivalry + Red Sea/Gulf naval context",
+            "MUGHALS -> demanded equality and avoided exclusive dependence",
+            "1577 -> Akbar rejects law/religion difference as conquest ground",
+            "NO BLOC -> Iran checked Uzbeks; Uzbeks unreliable; Ottomans distant/superior",
+            "RULE -> state sectarian rhetoric, then test security, trade, distance and status."
+          ],
+          "source_references": [
+            "Mughals",
+            "Uzbeks",
+            "Safavids",
+            "Ottomans",
+            "Balance",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Diplomacy as message, intelligence and theatre",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ELCHI / SAFIR -> temporary envoy, not permanent resident ambassador",
+            "LETTER -> victory/news/request/warning/friendship + formal status language",
+            "GIFTS -> horses + textiles + rarities stage rank and reciprocity",
+            "RECEPTION -> titles + robes + seating + embrace do not settle sovereignty",
+            "INFORMATION -> envoys + princes + nobles + merchants + frontier officers",
+            "TIME LAG -> slow news/order/relief raises value of local preparation",
+            "DISTINCTION -> courtesy != alliance != submission != abandoned claim."
+          ],
+          "source_references": [
+            "Elchi",
+            "Safir",
+            "Embassy",
+            "Gifts",
+            "Intelligence",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Akbar and the Uzbek balance",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1572-73 -> Abdullah first takes Balkh | Shahrukh later recovers it",
+            "1577 -> anti-Safavid proposal refused; strong Iran checks Uzbek pressure",
+            "1583 -> Abdullah retakes Balkh | 1585 -> Badakhshan + Kabul annexed",
+            "FRONTIER -> Roshanai/Jalala/Yusufzai agency + Atak + Birbal loss",
+            "HAKIM HUMAM -> practical Hindukush accommodation, not final claim surrender",
+            "1591 -> golden key preferred | 1595 -> Qandahar transfer/surrender",
+            "1598 -> Abdullah dies; Shah Abbas recovers Khurasan; balance changes."
+          ],
+          "source_references": [
+            "Abdullah Khan Uzbek",
+            "Balkh",
+            "Kabul",
+            "Qandahar",
+            "Akbar",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Why Qandahar mattered",
+          "structural_type": "triangle",
+          "ascii_lines": [
+            "SECURITY -> strong watered fort + southern-Afghan junction + outer Kabul bastion",
+            "ROUTES -> Kabul/Herat + Multan/Indus/sea + wider Iran-Central Asia network",
+            "COMMERCE -> horses + textiles + gifts + customs + merchant information",
+            "PRESTIGE -> Timurid memory and imperial honour remain real",
+            "ASYMMETRY -> more vital Mughal bastion; important Iranian outpost",
+            "ALTERNATIVES -> sea + Sind + Iranian roads prevent route-monopoly claims",
+            "VERDICT -> defence + trade + prestige; never one cause alone."
+          ],
+          "source_references": [
+            "Qandahar",
+            "Security",
+            "Commerce",
+            "Prestige",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Jahangir and the loss of 1622",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "1611 -> Shah Abbas embassy/gifts | Khan Alam return mission",
+            "TRADE -> Muhammad Hussain Chalabi + Multani/Hindu/Jain merchant presence",
+            "1620+ -> Persian envoys repeat Qandahar claim; cordiality hides no surrender",
+            "1622 -> Safavid initiative + Mughal unreadiness + relief/command problem",
+            "NUMBERS -> Iqbalnama 3,000 troops | Tuzuk 300/400 servants; keep separate",
+            "COURT -> Khurram coordination matters; Nur Jahan monocause rejected",
+            "LESSON -> diplomacy cannot replace prepared fort, commander and relief."
+          ],
+          "source_references": [
+            "Jahangir",
+            "Shah Abbas I",
+            "Qandahar 1622",
+            "Prince Khurram",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Shah Jahan recovers Qandahar in 1638",
+          "structural_type": "process",
+          "ascii_lines": [
+            "1628 -> Nazr Muhammad attacks Kabul; Mughal relief and diplomacy isolate him",
+            "1636 -> Shah Jahan proposes three-sided pressure to Ottoman Murad IV",
+            "LIMIT -> Uzbeks unreliable + Ottomans distant + superiority claim unwelcome",
+            "1638 -> Ali Mardan Khan defects/transfers Qandahar to Mughal control",
+            "DIPLOMACY -> embassies and offered revenue-equivalent payment continue",
+            "1642 -> Shah Safi dies during recovery movement; immediate threat recedes",
+            "RULE -> political transfer and diplomacy, not conquest of Persia."
+          ],
+          "source_references": [
+            "Shah Jahan",
+            "Ali Mardan Khan",
+            "Qandahar 1638",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Balkh 1646-47: forward defence meets limits",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "1645 -> Nazr Muhammad appeals against Abdul Aziz; client/buffer opportunity",
+            "1646 FORCE -> Part II: 50,000 horse + 10,000 foot; attribute the figure",
+            "MURAD -> coercive entry makes Nazr flee; client design becomes occupation",
+            "1647 -> Aurangzeb pickets/mobile artillery rout Uzbeks outside Balkh",
+            "LIMITS -> hostility + no client + winter + forage + supply + noble reluctance",
+            "OCT 1647 -> withdrawal; Aurangzeb prevents retreat becoming disaster",
+            "VERDICT -> military success, political-logistical unsustainability."
+          ],
+          "source_references": [
+            "Balkh campaign",
+            "1646-47",
+            "Forward defence",
+            "Logistics",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Why Qandahar resisted recovery, 1649-53",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "1649 -> Shah Abbas II recovers Qandahar; Aurangzeb's first attempt fails",
+            "1652 -> Aurangzeb's second attempt fails | 1653 -> Dara's attempt fails",
+            "FORT -> water + stores + walls + determined Safavid command",
+            "SIEGE -> guns/engineering/time differ from open-field cavalry battle",
+            "SUPPLY -> Lahore distance + scorched earth + fodder/grain/powder burden",
+            "SEASON -> winter closes the campaign window; heavy guns do not ensure breach",
+            "TRAP -> specific siege limit, not generic Mughal artillery weakness.",
+            "CLOSE DISTINCTION: Kandahar was a fortress-route-commercial hinge, not merely a prestige",
+            "  symbol in a modern border dispute."
+          ],
+          "source_references": [
+            "Qandahar sieges",
+            "1649-53",
+            "Artillery",
+            "Logistics",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Evidence and the bounded modern bridge",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BABURNAMA / HUMAYUNNAMA -> memory/household-exile; positioned narratives",
+            "AKBARNAMA / AIN -> policy/geography; imperial and normative lenses",
+            "TUZUK / IQBALNAMA -> Jahangir persona + conflicting garrison claims",
+            "PADSHAHNAMA / LAHORI -> campaign + noble reluctance; patronage/victory rhetoric",
+            "RIVAL/EMBASSY -> Safavid/Uzbek/Ottoman letters + gifts reveal chosen claims",
+            "MATERIAL -> coins/inscriptions/forts/routes show claim/capacity, not motive",
+            "CURRENT -> predecessor India-Iran link is analogy only, never continuity.",
+            "EVIDENCE LIMIT: Mughal diplomacy used dynastic, commercial and frontier logics; it should not",
+            "  be recast as modern nation-state policy."
+          ],
+          "source_references": [
+            "Sources",
+            "PMIndia 2026",
+            "India-Iran",
+            "Source criticism",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Topic 19 final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "DEFINE -> qualified court diplomacy; no modern state/border projection",
+            "MAP -> Indian core -> Kabul-Ghazni-Qandahar; Balkh/Badakhshan beyond",
+            "TRACE -> 1577 -> 1585 -> 1595 -> 1622 -> 1638 -> 1646-47 -> 1649-53",
+            "EXPLAIN -> balance + security + trade + prestige + feasible military reach",
+            "DISTINGUISH -> embassy/alliance/client/occupation/annexation/control",
+            "PYQ -> zero direct 2018-2026 | adjacent 2020 GS-I Q12 owned Topic 24",
+            "DEBATE -> India-centred baseline; Timurid ambition/adventurism qualifies it",
+            "VERDICT -> victory lasted only with supply, local legitimacy and sound design."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Policy evolution",
+            "Qualified verdict",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\19_Mughal-Foreign-Policy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g3\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g4\\medieval-indian-history-19_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

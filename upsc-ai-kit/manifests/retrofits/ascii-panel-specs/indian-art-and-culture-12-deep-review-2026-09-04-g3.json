@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-12",
+      "display_title": "Crafts, Textiles, Folk and Tribal Traditions",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Craft ecology root",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "RAW MATERIAL -> ecological access",
+            "SKILL -> technique and apprenticeship",
+            "COMMUNITY -> labour and transmission",
+            "MARKET / LAW -> access, GI and safeguarding",
+            "MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal",
+            "  recognition and safeguarding, while textiles must pair technique and centre: Patola double",
+            "  ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery.",
+            "MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal",
+            "  recognition and safeguarding, while textiles must pair technique and centre: Patola double",
+            "  ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery."
+          ],
+          "source_references": [
+            "The craft ecology chain",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "GI legal boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GI -> origin-linked product name",
+            "TERM -> ten years, renewable",
+            "SCOPE -> goods, not services",
+            "LIMIT -> no automatic livelihood guarantee"
+          ],
+          "source_references": [
+            "What a GI legally protects",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cross-border protection",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DARJEELING TEA -> first Indian GI",
+            "INDIAN GI -> domestic protection",
+            "KANGRA TEA -> separate EU protection",
+            "RULE -> rights do not travel automatically"
+          ],
+          "source_references": [
+            "First GI and foreign protection",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ikat matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PATOLA -> Patan, double ikat",
+            "POCHAMPALLY -> Telangana, single or double ikat",
+            "COMMON -> resist-dyed yarn",
+            "TRAP -> centre plus process must match"
+          ],
+          "source_references": [
+            "Ikat close options",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Textile process ladder",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KANCHIPURAM -> joined silk border",
+            "BANARASI -> supplementary-weft brocade",
+            "CHIKANKARI -> white embroidery",
+            "KANTHA -> running stitch and reused cloth"
+          ],
+          "source_references": [
+            "Brocade, silk and embroidery",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Surface and metal process",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KALAMKARI -> mordant or resist cotton surface",
+            "DHOKRA -> lost-wax metal casting",
+            "PROCESS -> determines tools and labour",
+            "RULE -> shared craft label proves nothing"
+          ],
+          "source_references": [
+            "Kalamkari, Dhokra and material process",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Glass evidence chain",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "TEXT -> Mahabharata and Shatapatha Brahmana",
+            "PGW -> archaeological glass evidence",
+            "BRAHMAPURI / KOLHAPUR -> bead industry",
+            "LIMIT -> evidence classes must remain separate"
+          ],
+          "source_references": [
+            "Glass craft chronology",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "North-East method",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "COMMUNITY -> identify the weavers",
+            "FIBRE -> Eri, Muga, silk or cotton",
+            "PROCESS -> ginning, spinning and weaving",
+            "PRODUCT -> garment and motif"
+          ],
+          "source_references": [
+            "North-East handloom method",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Eri-Muga firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEGHALAYA -> Eri, Garo-Khasi-Jaintia",
+            "ASSAM -> golden Muga",
+            "MEKHELA CHADOR -> shared garment",
+            "TRAP -> garment alone cannot identify state"
+          ],
+          "source_references": [
+            "Eri and Muga firewall",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional handloom map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "MANIPUR -> Moirang Phee and Phanek",
+            "NAGALAND -> tribe-specific motifs and natural dyes",
+            "ARUNACHAL -> Adi, Apatani, Nyishi and Monpa",
+            "MIZORAM / TRIPURA -> Puan, stripes and embroidery",
+            "CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for",
+            "  authorised users under the 1999 Act, operational since 2003 with renewable ten-year",
+            "  registration; it is neither UNESCO status nor a quality certificate.",
+            "CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for",
+            "  authorised users under the 1999 Act, operational since 2003 with renewable ten-year",
+            "  registration; it is neither UNESCO status nor a quality certificate."
+          ],
+          "source_references": [
+            "Manipur and Nagaland discriminators",
+            "Arunachal, Mizoram and Tripura",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Certification gap test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PRODUCTION FACT VERIFIED? -> write Eri evidence",
+            "CERTIFICATION CRITERIA VERIFIED? -> no",
+            "GI COMPARISON -> legal instrument only",
+            "VERDICT -> disclose the bounded gap",
+            "EVIDENCE LIMIT: GI does not guarantee fair price, ecology, labour conditions or transmission,",
+            "  Indian protection does not automatically extend abroad, and folk or tribal production must",
+            "  retain community, gender and appropriation limits.",
+            "EVIDENCE LIMIT: GI does not guarantee fair price, ecology, labour conditions or transmission,",
+            "  Indian protection does not automatically extend abroad, and folk or tribal production must",
+            "  retain community, gender and appropriation limits."
+          ],
+          "source_references": [
+            "Beyond the GI label",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Craft answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> material, skill and community",
+            "IDENTIFY -> region, process and product",
+            "ANALYSE -> market, law, ecology and labour",
+            "QUALIFY -> status, ownership and source limits"
+          ],
+          "source_references": [
+            "Verified craft PYQs and live institutional link",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g2\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g3\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

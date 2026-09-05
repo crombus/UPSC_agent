@@ -1,0 +1,463 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Medieval Indian History learner-v2 Topics 13-14",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-13",
+      "display_title": "Struggle for Empire: Afghans, Rajputs & Humayun",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\13_Struggle-for-Empire-Afghans-Rajputs-Humayun_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The central problem: conquest without consolidation",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "BABUR'S VICTORIES -> a core, prestige and a dynastic claim",
+            "HUMAYUN'S INHERITANCE -> weak finance + thin administration + rival elites",
+            "COMPETING FIELDS -> Afghans in the east + Gujarat-Malwa + Rajput powers",
+            "IMPERIAL AMBITION -> Delhi, Gujarat and Bengal pursued before deep rooting",
+            "RESULT -> military reach repeatedly outruns revenue, routes and noble commitment",
+            "VERDICT: Humayun's fall joins structural weakness to avoidable choices."
+          ],
+          "source_references": [
+            "Unfinished conquest",
+            "State capacity",
+            "Competing fields"
+          ]
+        },
+        {
+          "title": "Humayun chronology 1530-1556",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "30 Dec 1530 -> accession | 1533-34 -> Din Panah",
+            "1535 -> Mandu, Champaner and Gujarat campaign successes",
+            "1537-38 -> six-month Chunar siege and eastern advance",
+            "1538-39 -> Gaur occupation and communications crisis",
+            "26 Jun 1539 -> Chausa | 17 May 1540 -> Kannauj/Bilgram",
+            "1545 -> Qandahar and Kabul recovered | 1555 Delhi | 1556 death."
+          ],
+          "source_references": [
+            "Chronology",
+            "Din Panah",
+            "Chausa",
+            "Kannauj",
+            "Restoration"
+          ]
+        },
+        {
+          "title": "Inherited balance sheet",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "ASSET -> Delhi-Agra core, Timurid prestige and campaign capability",
+            "FINANCE -> stretched treasury and large assignments to begs",
+            "ADMINISTRATION -> conquest not converted into routine territorial control",
+            "EAST -> Afghan chiefs and Sher Khan retain regional depth",
+            "WEST -> Bahadur Shah links Gujarat, Malwa and Rajasthan",
+            "DYNASTY -> princely-share expectations complicate unified sovereignty."
+          ],
+          "source_references": [
+            "Finance",
+            "Begs",
+            "Afghan challenge",
+            "Bahadur Shah"
+          ]
+        },
+        {
+          "title": "Brothers: chronology before blame",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "KAMRAN -> Kabul/Qandahar, then Lahore-Multan and the Punjab hinge",
+            "EARLY PHASE -> khutba and sikka remain in Humayun's name",
+            "ASKARI -> Gujarat command becomes an administrative cohesion test",
+            "HINDAL -> Agra move matters during the stretched Bengal campaign",
+            "AFTER CHAUSA -> Kamran withholds hardened troops from Humayun",
+            "RULE: fraternal politics changes by time and theatre; avoid timeless guilt."
+          ],
+          "source_references": [
+            "Kamran",
+            "Askari",
+            "Hindal",
+            "Timurid succession"
+          ]
+        },
+        {
+          "title": "Rajput-Gujarat-Mughal western triangle",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "GUJARAT-MALWA -> Bahadur Shah's wealth, artillery and regional expansion",
+            "MEWAR / CHITTOR -> Rajput power inside the western strategic field",
+            "DELHI-AGRA -> Mughal core threatened through eastern Rajasthan and Malwa",
+            "HUMAYUN -> supply pressure at Mandsor, then Mandu and Champaner",
+            "KARNAVATI STORY -> later memory; contemporary corroboration is absent",
+            "TRAP: Rajputs were not one permanent bloc and legend is not event proof."
+          ],
+          "source_references": [
+            "Bahadur Shah",
+            "Mewar",
+            "Chittor",
+            "Karnavati"
+          ]
+        },
+        {
+          "title": "Gujarat: victory without settlement",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "CAMPAIGN -> Mandsor pressure -> Mandu -> Champaner -> Ahmedabad",
+            "MILITARY RESULT -> real operational success and territorial seizure",
+            "ADMINISTRATIVE GAP -> thin revenue, weak local coalition and divided command",
+            "NOBLE PROBLEM -> many begs resist durable residence far from Delhi-Agra",
+            "REGIONAL RESPONSE -> Bahadur Shah returns; Askari withdraws; Malwa is lost",
+            "LESSON: winning forts is not the same as building a provincial regime."
+          ],
+          "source_references": [
+            "Gujarat campaign",
+            "Mandu",
+            "Champaner",
+            "Askari"
+          ]
+        },
+        {
+          "title": "Sher Khan's Bihar-Bengal scale-up",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "BIHAR BASE -> forts, revenue, Afghan networks and local knowledge",
+            "SURAJGARH 1534 -> Bengal checked and Sher Khan's standing enlarged",
+            "GAUR 1537-38 -> Bengal resources and strategic depth enter the contest",
+            "HUMAYUN AT CHUNAR -> six months spent before the Bengal advance",
+            "SHER KHAN MOVES WEST -> route nodes and communications threatened",
+            "OUTCOME: a regional Afghan project becomes an imperial alternative."
+          ],
+          "source_references": [
+            "Sher Khan",
+            "Bihar",
+            "Surajgarh",
+            "Gaur"
+          ]
+        },
+        {
+          "title": "Chunar-Gaur communications trap",
+          "structural_type": "process",
+          "ascii_lines": [
+            "AGRA-DELHI CORE -> eastern movement depends on a long communication line",
+            "CHUNAR -> gateway fort affects land-river movement, supply and rear security",
+            "GAUR -> symbolic Bengal occupation but no durable administrative bridge",
+            "MONSOON + DISTANCE + NOBLE STRAIN -> Mughal position becomes brittle",
+            "SHER KHAN -> controls crossings and pressures the route back west",
+            "FORMULA: ambition + delayed logistics + severed communications = isolation."
+          ],
+          "source_references": [
+            "Chunar",
+            "Gaur",
+            "Logistics",
+            "Communications"
+          ]
+        },
+        {
+          "title": "Chausa and Kannauj: do not collapse the battles",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHAUSA, 26 JUN 1539 -> river at Humayun's rear + surprise + near escape",
+            "EFFECT -> army shattered, confidence falls, but the contest is not yet closed",
+            "KANNAUJ, 17 MAY 1540 -> set battle against a stronger Afghan position",
+            "MUGHAL LIMIT -> hastily assembled force lacks Kamran's hardened troops",
+            "EFFECT -> Humayun loses north India and Sher Shah's sovereignty opens",
+            "TRAP: Chausa weakens; Kannauj decides the first-reign struggle."
+          ],
+          "source_references": [
+            "Chausa",
+            "Kannauj",
+            "Battle distinction"
+          ]
+        },
+        {
+          "title": "Exile, Safavid bargain and restoration",
+          "structural_type": "process",
+          "ascii_lines": [
+            "1540 DEFEAT -> Sindh and a prolonged search for a viable base",
+            "SHAH TAHMASP -> assistance is strategic and politically conditioned",
+            "1545 -> Qandahar and Kabul recovery rebuilds a north-western platform",
+            "SUR FIELD -> succession conflict and fragmentation after Islam Shah",
+            "1555 -> Delhi-Agra recovered through restored capacity and opponent weakness",
+            "LIMIT: restoration proves resilience, not that the earlier collapse was trivial."
+          ],
+          "source_references": [
+            "Exile",
+            "Shah Tahmasp",
+            "Qandahar",
+            "1555 restoration"
+          ]
+        },
+        {
+          "title": "Evidence, rehabilitation and heritage",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "NIZAMUDDIN AHMAD -> alternate chronology; compression and omissions",
+            "ABUL FAZL -> fuller reconstruction; later dynastic framing",
+            "MIRZA HAIDER -> critical testimony; one voice cannot explain a reign",
+            "KARNAVATI TRADITION -> later memory requiring corroboration",
+            "HUMAYUN'S TOMB -> later Akbar-era dynastic memory and conservation evidence",
+            "METHOD -> replace caricature with ranked evidence, agency and qualification."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Historiography",
+            "Humayun's Tomb",
+            "UNESCO"
+          ]
+        },
+        {
+          "title": "Topic 13 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Babur left a prestigious but unfinished conquest",
+            "STRUCTURE -> finance + brothers + unrooted nobles + competing regional powers",
+            "AGENCY -> Gujarat overreach, Bengal logistics and Sher Khan's superior timing",
+            "BATTLES -> Chausa operational shock; Kannauj decisive political displacement",
+            "RECOVERY -> Safavid-backed base + Sur fragmentation + 1555 return",
+            "CLOSE -> Humayun failed seriously, but not through a one-word moral defect."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Structure and agency",
+            "Qualified verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "medieval-indian-history-14",
+      "display_title": "Sher Shah Sur & the Sur Empire",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\14_Sher-Shah-Sur-Empire_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From Farid to Sher Shah",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FARID -> practical exposure in family parganas around Sasaram",
+            "BIHAR POLITICS -> service, alliances, revenue knowledge and fort strategy",
+            "SHER KHAN -> enlarges an Afghan regional base after Panipat",
+            "SURAJGARH / GAUR -> Bengal resources and corridor depth",
+            "CHAUSA 1539 + KANNAUJ 1540 -> Mughal displacement and Sur sovereignty",
+            "VERDICT: administrative experience and opportunity precede imperial scale."
+          ],
+          "source_references": [
+            "Farid",
+            "Sher Khan",
+            "Sasaram",
+            "Bihar"
+          ]
+        },
+        {
+          "title": "Sur chronology c.1510-1555",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c.1510 -> Farid gains pargana-level experience",
+            "1534 -> Surajgarh | 1537 -> Gaur captured by Sher Khan's side",
+            "1539 -> Chausa | 1540 -> Kannauj and formal sovereignty",
+            "1542 -> Malwa | 1543-44 -> Multan, upper Sindh and Rajasthan fields",
+            "1544 -> Samel | May 1545 -> death during Kalinjar siege",
+            "1545-53 -> Islam Shah | 1555 -> Humayun returns after fragmentation."
+          ],
+          "source_references": [
+            "Chronology",
+            "Surajgarh",
+            "Samel",
+            "Kalinjar",
+            "Islam Shah"
+          ]
+        },
+        {
+          "title": "Bihar-Bengal scale-up to sovereignty",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "LOCAL BASE -> land knowledge + Afghan followers + forts + revenue",
+            "BENGAL CONTEST -> Surajgarh and Gaur enlarge resources and reputation",
+            "ROUTE CONTROL -> Gangetic communications expose Humayun's eastern campaign",
+            "MILITARY VICTORY -> Chausa and Kannauj redistribute forts and elite loyalty",
+            "POLITICAL TASK -> battlefield success must become collection and enforcement",
+            "OUTCOME: Sher Khan becomes Sher Shah by converting scale into sovereignty."
+          ],
+          "source_references": [
+            "Bihar",
+            "Bengal",
+            "Route control",
+            "Sovereignty"
+          ]
+        },
+        {
+          "title": "Empire and campaign fields",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BENGAL TO INDUS -> useful claim for the broad reach of the Sur realm",
+            "KASHMIR -> explicitly excluded from the standard extent formula",
+            "MALWA 1542 -> western-central expansion",
+            "MULTAN / UPPER SINDH -> north-western campaign and corridor field",
+            "RAJASTHAN / SAMEL -> coercion, negotiation and uneven control",
+            "RULE: map corridors, forts and campaigns; do not draw a modern solid border."
+          ],
+          "source_references": [
+            "Empire extent",
+            "Malwa",
+            "Multan",
+            "Samel"
+          ]
+        },
+        {
+          "title": "Afghan monarchy and personal supervision",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "AFGHAN NOBLES -> expectations of dignity, counsel and assignments",
+            "SHER SHAH -> forceful monarchy, direct scrutiny and rapid decision",
+            "STRENGTH -> coordination can be concentrated under a masterful sovereign",
+            "LIMIT -> jagir/iqta expectations and coalition politics do not disappear",
+            "SUCCESSION -> Islam Shah asserts monarchy but deepens noble resentment",
+            "FRAGILITY -> high personal capacity is difficult to reproduce after the ruler."
+          ],
+          "source_references": [
+            "Afghan nobility",
+            "Personal despotism",
+            "Islam Shah"
+          ]
+        },
+        {
+          "title": "Territory and mediated countryside",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SOVEREIGN CENTRE",
+            " -> SARKAR / SHIQ: territorial command and overlapping officials",
+            " -> PARGANA: assessment, records, policing and local information",
+            " -> VILLAGE: cultivators, muqaddams and other intermediaries",
+            "ZAMINDARS -> controlled, punished or negotiated with; not abolished",
+            "TRAP: this was neither Akbar's mature suba system nor modern ryotwari."
+          ],
+          "source_references": [
+            "Sarkar",
+            "Shiq",
+            "Pargana",
+            "Zamindar",
+            "Muqaddam"
+          ]
+        },
+        {
+          "title": "Revenue measurement and record chain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SOWN LAND -> measurement",
+            " -> good / middling / bad classification",
+            " -> average yield and crop-rate schedule (rai)",
+            " -> general one-third state demand",
+            " -> patta records area, crop and amount due",
+            "QUALIFY -> cash/kind, local mediation, annual practice and Multan exception."
+          ],
+          "source_references": [
+            "Measurement",
+            "Rai",
+            "Patta",
+            "One-third",
+            "Multan"
+          ]
+        },
+        {
+          "title": "Road-sarai-customs-dak circulation system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "ROADS -> old imperial corridors restored and improved",
+            "FOUR-ROAD FRAME -> Indus-Sonargaon; Agra-Rajasthan; Lahore-Multan; Burhanpur",
+            "SARAIS -> lodging + markets + relay + surveillance at two-karoh intervals",
+            "DAK / NEWS -> information and orders move through nodal stations",
+            "CUSTOMS -> duties simplified around entry and sale",
+            "RESULT -> commerce, army movement and coercive reach reinforce one another."
+          ],
+          "source_references": [
+            "Roads",
+            "Sarais",
+            "Dak",
+            "Customs",
+            "Two karohs"
+          ]
+        },
+        {
+          "title": "Money, order and military controls",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "RUPEE -> fine silver standard with durable later influence, not first coin",
+            "TRIMETALLIC FIELD -> gold, silver and copper support exchange and payments",
+            "LAW AND ORDER -> merchant safety backed by harsh collective responsibility",
+            "CHEHRA -> descriptive roll of soldiers | DAGH -> branding of horses",
+            "CONTINUITY -> Alauddin precedent; Sher Shah revival; Akbar systematisation",
+            "RULE: administrative effectiveness is not the same as modern legality."
+          ],
+          "source_references": [
+            "Silver rupee",
+            "Law and order",
+            "Chehra",
+            "Dagh"
+          ]
+        },
+        {
+          "title": "Forts, religion and succession limits",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "ROHTAS, NORTHWEST -> frontier control and Mughal-return check",
+            "ROHTASGARH, BIHAR -> distinct site; never conflate the two forts",
+            "RAISEN / PURAN MAL -> violence with political and religious readings",
+            "KALINJAR 1545 -> siege death ends Sher Shah's personal direction",
+            "ISLAM SHAH -> continuity plus sharper conflict with Afghan nobles",
+            "SUR COLLAPSE -> succession and faction reopen the field to Humayun."
+          ],
+          "source_references": [
+            "Rohtas",
+            "Rohtasgarh",
+            "Puran Mal",
+            "Kalinjar",
+            "Succession"
+          ]
+        },
+        {
+          "title": "Continuity, source method and Akbar",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "SULTANATE -> measurement, assignments, dagh-chehra and road precedents",
+            "SUR -> practical revival, standardisation and fast integrated implementation",
+            "AKBAR -> wider scale, longer duration, mansabdari and refined revenue systems",
+            "SARWANI -> valuable retrospective Afghan memory; praise needs corroboration",
+            "SASARAM TOMB -> material evidence for patronage and legitimacy, not every reform",
+            "VERDICT: Sher Shah was a bridge and systematiser, not Akbar's full blueprint."
+          ],
+          "source_references": [
+            "Continuity",
+            "Akbar",
+            "Sarwani",
+            "Sasaram tomb"
+          ]
+        },
+        {
+          "title": "Topic 14 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> short reign, dense state-building and a longer Sur phase",
+            "RISE -> pargana experience + Bihar-Bengal base + Mughal displacement",
+            "CAPACITY -> revenue + money + roads + information + order + military controls",
+            "MEDIATION -> zamindars and local officials remain inside the system",
+            "LIMITS -> uneven reach, harsh coercion, personal supervision and succession",
+            "CLOSE -> achievement lay in integration and execution within a longer process."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "State capacity",
+            "Qualified synthesis"
+          ]
+        }
+      ]
+    }
+  ]
+}

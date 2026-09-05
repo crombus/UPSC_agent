@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "indian-art-and-culture-11-15-learner-v2-2026-09-01-completion",
+  "passed": true,
+  "test_count": 85,
+  "topic_count": 5,
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-11",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-11\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-11\\indian-art-and-culture-11_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 68,
+      "workbook_pages": 29,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "indian-art-and-culture-12",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-12\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-12\\indian-art-and-culture-12_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 67,
+      "workbook_pages": 29,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "indian-art-and-culture-13",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-13\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-13\\indian-art-and-culture-13_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 82,
+      "workbook_pages": 30,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "indian-art-and-culture-14",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-14\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-14\\indian-art-and-culture-14_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 78,
+      "workbook_pages": 31,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "indian-art-and-culture-15",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-15\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-15\\indian-art-and-culture-15_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 65,
+      "workbook_pages": 29,
+      "ascii_panels": 12,
+      "mcqs": 80
+    }
+  ],
+  "subject_completion": {
+    "generated_topics": 15,
+    "catalog_topics": 15,
+    "approved_topics": 0
+  },
+  "changed_files_manifest": "upsc-ai-kit/manifests/exports/indian-art-and-culture-11-15-learner-v2-2026-09-01-changed-files.txt"
+}

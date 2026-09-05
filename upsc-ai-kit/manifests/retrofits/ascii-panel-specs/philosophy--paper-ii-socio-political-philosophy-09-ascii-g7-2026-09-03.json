@@ -1,0 +1,228 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with the manually authored Gender Discrimination twelve-panel atlas",
+  "generated_on": "2026-09-03",
+  "scope": "Philosophy Optional Paper II Socio-Political Philosophy topic 09 only",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+      "title": "Gender Discrimination",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-09-03.md",
+      "source_record": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g7",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, all prior topic artifacts, canonical owners and retained packages remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Self / Other Construction",
+          "structural_type": "flow",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "  MALE NORM (Self/Subject)",
+            "        |  defines by negation",
+            "        v",
+            "  FEMALE (constructed as Other)",
+            "        |",
+            "        v",
+            "  relational deficit read as 'natural' inferiority"
+          ]
+        },
+        {
+          "panel_title": "Performative Repetition Loop",
+          "structural_type": "cycle",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "   stylised act --> read as natural --> repeated",
+            "        ^                                   |",
+            "        |___________________________________|",
+            "        (regulatory norm reinforced each cycle)"
+          ]
+        },
+        {
+          "panel_title": "Equality Typology Table",
+          "structural_type": "table",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "  TYPE          | REMEDY               | RISK",
+            "  formal        | equal rule            | ignores start-point gap",
+            "  substantive   | targeted correction   | reverse-discrimination charge",
+            "  relational    | restructure relations | hardest to operationalise"
+          ]
+        },
+        {
+          "panel_title": "Foeticide Causal Chain",
+          "structural_type": "flow",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "  son preference (discriminatory attitude)",
+            "        |",
+            "        v",
+            "  demand for sex determination",
+            "        |         (PCPNDT Act 1994 prohibits)",
+            "        v",
+            "  sex-selective abortion  -->  skewed sex ratio at birth"
+          ]
+        },
+        {
+          "panel_title": "Agarwal's Five-Level Analysis",
+          "structural_type": "hierarchy",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "   LEGAL TITLE   (recognised in law or record)",
+            "   ACCESS / USE  (practical ability to use the asset)",
+            "   CONTROL       (decide cropping, leasing, sale or investment)",
+            "   RETURN        (receive the income and benefit)",
+            "   EXIT/SECURITY (fall-back protection against abandonment or violence)"
+          ]
+        },
+        {
+          "panel_title": "Indian Legal Instruments on Inheritance -- Status Table",
+          "structural_type": "table",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "  INSTRUMENT                         | KIND      | STATUS",
+            "  Hindu Succession Act 2005 amendment| statute   | enacted, coparcenary right",
+            "  Vineeta Sharma v Rakesh Sharma 2020| SC ruling | father alive not required",
+            "  Ram Charan & Ors v Sukhram & Ors   | SC ruling | illustration only, ST context,",
+            "  [2025] 8 SCR 272 / 2025 INSC 865   |           | decided 17-Jul-2025, distinct bench"
+          ]
+        },
+        {
+          "panel_title": "Kabeer's Empowerment Chain",
+          "structural_type": "flow",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "  RESOURCES  -->   AGENCY   -->  ACHIEVEMENTS",
+            " (material,      (ability to     (improved",
+            "  human, social)  choose & act)   functioning)",
+            "",
+            "  break at any link = no real empowerment gain"
+          ]
+        },
+        {
+          "panel_title": "Legal vs Effective Empowerment Gap",
+          "structural_type": "flow",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "  106th Amendment: enacted 2023; commenced 16-Apr-2026",
+            "        |",
+            "        v  (conditional on)",
+            "  ARTICLE 334A CENSUS/DELIMITATION SEQUENCE",
+            "        |",
+            "        v",
+            "  seat allocation / effective representation: PENDING 03-Sep-2026"
+          ]
+        },
+        {
+          "panel_title": "Feminist Schools -- Root-Cause Comparison",
+          "structural_type": "table",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "  SCHOOL      | ROOT CAUSE                | IMPLICATION",
+            "  marxist     | capitalism                | end capitalism -> end oppression",
+            "  radical     | patriarchy (autonomous)   | end patriarchy directly",
+            "  socialist   | capitalism + patriarchy   | must address both systems",
+            "  pateman/okin| contract & family design  | justice must reach the household"
+          ]
+        },
+        {
+          "panel_title": "Intersection of Caste and Gender",
+          "structural_type": "matrix",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "        GENDER axis  ---------->",
+            "  CASTE   |  low-caste woman: compounded, distinct harm",
+            "  axis    |  (not simply 'caste harm' + 'gender harm')",
+            "    |",
+            "    v",
+            "  single-axis policy (gender-only OR caste-only) misses this cell"
+          ]
+        },
+        {
+          "panel_title": "Okin's Multiculturalism Dilemma Test",
+          "structural_type": "decision_tree",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "  group practice claims cultural protection",
+            "        |",
+            "        v",
+            "  does it entrench internal gender hierarchy?",
+            "     /            \\",
+            "   NO              YES",
+            "    |                |",
+            " accommodate    equality claim overrides accommodation"
+          ]
+        },
+        {
+          "panel_title": "PYQ Keyword Router",
+          "structural_type": "table",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "  PROMPT KEYWORD           -> PRIMARY SESSION",
+            "  foeticide                -> 4",
+            "  land / property          -> 5",
+            "  empowerment              -> 6 / 7",
+            "  man-made / cultural cat. -> 1 / 2",
+            "  equality vs empowerment  -> 3",
+            "  socialist regime         -> 8",
+            "  caste / synthesis        -> 9"
+          ]
+        }
+      ]
+    }
+  ]
+}

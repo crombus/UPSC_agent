@@ -1,0 +1,1670 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-02T13:38:50.212898+00:00",
+  "subject": "Ethics",
+  "section": "Subject-wide Syllabus",
+  "represented": 23,
+  "expected": 23,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_ethics_deep_review (cwd=tools)",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_allocation_rereads_all_live_identity_stores (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_answer_contract_is_exam_executable (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_ascii_panels_have_one_body_unique_titles_and_controls (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_contract_enforces_ethics_boundaries_and_approval (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_full_library_count_is_dynamic_and_identity_stable (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_inventory_is_exact_utf8_nul_safe_and_path_verified (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_manifest_order_and_scope_are_exact (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_only_existing_ethics_generator_test_is_wired (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\ntest_review_controls_cover_all_twenty_three_topics (test_regenerate_ethics_deep_review.EthicsDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.247s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_ethics_topic_v2 (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topics_meet_the_learner_v2_contract (test_generate_ethics_topic_v2.EthicsGeneratorTests) ... ok\ntest_mains_answers_scale_with_marks (test_generate_ethics_topic_v2.EthicsGeneratorTests) ... ok\ntest_manual_ascii_panels_are_complete_and_renderable (test_generate_ethics_topic_v2.EthicsGeneratorTests) ... ok\ntest_mcqs_are_contextual_and_strictly_rotated (test_generate_ethics_topic_v2.EthicsGeneratorTests) ... ok\ntest_pyq_provenance_and_counts_are_explicit (test_generate_ethics_topic_v2.EthicsGeneratorTests) ... ok\ntest_topic_specific_concepts_are_preserved (test_generate_ethics_topic_v2.EthicsGeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 1.642s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 14.206s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 2.647s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 23.118s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "ethics-01",
+      "title": "Ethics and Human Interface",
+      "old_record_id": "ethics-01:learner-v2:g2",
+      "new_record_id": "ethics-01:learner-v2:g5",
+      "old_generation": 2,
+      "new_generation": 5,
+      "old_score": 89,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-01-learner-v2-g5-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:30:30.539668+00:00",
+      "identities": {
+        "export": "ethics-01:learner-v2:g5",
+        "master": "ethics-01:learner-v2:g5",
+        "review": "ethics-01:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-01:learner-v2:g2",
+        "generation": 2,
+        "score": 89,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-01\\ethics-01-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-01:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-01-learner-v2-g2-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-01:learner-v2:g3",
+          "generation": 3,
+          "state": "failed_intermediate_preserved",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-01-learner-v2-g3-2026-09-02-validation.json"
+        },
+        {
+          "record_id": "ethics-01:learner-v2:g4",
+          "generation": 4,
+          "state": "unpublished_intermediate_preserved",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-01-learner-v2-g4-2026-09-02-validation.json"
+        },
+        {
+          "record_id": "ethics-01:learner-v2:g5",
+          "generation": 5,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-01-learner-v2-g5-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-01:learner-v2:g5",
+      "final_generation": 5
+    },
+    {
+      "topic_key": "ethics-02",
+      "title": "Human Values and Lessons from Leaders",
+      "old_record_id": "ethics-02:learner-v2:g1",
+      "new_record_id": "ethics-02:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-02-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:34:03.093420+00:00",
+      "identities": {
+        "export": "ethics-02:learner-v2:g2",
+        "master": "ethics-02:learner-v2:g2",
+        "review": "ethics-02:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-02:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-02\\ethics-02-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-02:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-02-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-02:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-02-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-02:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-03",
+      "title": "Attitude: Content, Structure and Persuasion",
+      "old_record_id": "ethics-03:learner-v2:g1",
+      "new_record_id": "ethics-03:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-03-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:34:41.026495+00:00",
+      "identities": {
+        "export": "ethics-03:learner-v2:g2",
+        "master": "ethics-03:learner-v2:g2",
+        "review": "ethics-03:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-03:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-03\\ethics-03-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-03:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-03-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-03:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-03-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-03:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-04",
+      "title": "Aptitude and Foundational Values for Civil Service",
+      "old_record_id": "ethics-04:learner-v2:g1",
+      "new_record_id": "ethics-04:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-04-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:35:20.314640+00:00",
+      "identities": {
+        "export": "ethics-04:learner-v2:g2",
+        "master": "ethics-04:learner-v2:g2",
+        "review": "ethics-04:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-04:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-04\\ethics-04-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-04:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-04-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-04:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-04-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-04:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-05",
+      "title": "Emotional Intelligence in Administration",
+      "old_record_id": "ethics-05:learner-v2:g1",
+      "new_record_id": "ethics-05:learner-v2:g4",
+      "old_generation": 1,
+      "new_generation": 4,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-05-learner-v2-g4-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:35:57.700332+00:00",
+      "identities": {
+        "export": "ethics-05:learner-v2:g4",
+        "master": "ethics-05:learner-v2:g4",
+        "review": "ethics-05:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-05:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-05\\ethics-05-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-05:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-05-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-05:learner-v2:g2",
+          "generation": 2,
+          "state": "unpublished_intermediate_preserved",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "ethics-05:learner-v2:g3",
+          "generation": 3,
+          "state": "unpublished_intermediate_preserved",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "ethics-05:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-05-learner-v2-g4-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-05:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "ethics-06",
+      "title": "Indian Moral Thinkers and Philosophers",
+      "old_record_id": "ethics-06:learner-v2:g1",
+      "new_record_id": "ethics-06:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-06-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:39:40.704937+00:00",
+      "identities": {
+        "export": "ethics-06:learner-v2:g2",
+        "master": "ethics-06:learner-v2:g2",
+        "review": "ethics-06:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-06:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-06\\ethics-06-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-06:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-06-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-06:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-06-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-06:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-07",
+      "title": "Western Moral Philosophers and Thinkers",
+      "old_record_id": "ethics-07:learner-v2:g1",
+      "new_record_id": "ethics-07:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-07-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:40:05.327357+00:00",
+      "identities": {
+        "export": "ethics-07:learner-v2:g2",
+        "master": "ethics-07:learner-v2:g2",
+        "review": "ethics-07:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-07:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-07\\ethics-07-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-07:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-07-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-07:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-07-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-07:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-08",
+      "title": "Moral Theories: Deontology, Consequentialism, Virtue Ethics",
+      "old_record_id": "ethics-08:learner-v2:g1",
+      "new_record_id": "ethics-08:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-08-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:40:28.803109+00:00",
+      "identities": {
+        "export": "ethics-08:learner-v2:g2",
+        "master": "ethics-08:learner-v2:g2",
+        "review": "ethics-08:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-08:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-08\\ethics-08-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-08:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-08-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-08:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-08-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-08:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-09",
+      "title": "Public Service Values, Status and Ethical Dilemmas",
+      "old_record_id": "ethics-09:learner-v2:g1",
+      "new_record_id": "ethics-09:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-09-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:40:52.828662+00:00",
+      "identities": {
+        "export": "ethics-09:learner-v2:g2",
+        "master": "ethics-09:learner-v2:g2",
+        "review": "ethics-09:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-09:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-09\\ethics-09-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-09:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-09-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-09:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-09-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-09:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-10",
+      "title": "Sources of Ethical Guidance: Laws, Rules, Conscience",
+      "old_record_id": "ethics-10:learner-v2:g1",
+      "new_record_id": "ethics-10:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-10-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:41:14.671286+00:00",
+      "identities": {
+        "export": "ethics-10:learner-v2:g2",
+        "master": "ethics-10:learner-v2:g2",
+        "review": "ethics-10:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-10:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-10\\ethics-10-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-10:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-10-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-10:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-10-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-10:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-11",
+      "title": "Accountability and Ethical Governance",
+      "old_record_id": "ethics-11:learner-v2:g1",
+      "new_record_id": "ethics-11:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-11-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:41:39.827761+00:00",
+      "identities": {
+        "export": "ethics-11:learner-v2:g2",
+        "master": "ethics-11:learner-v2:g2",
+        "review": "ethics-11:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-11:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-11\\ethics-11-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-11:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-11-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-11:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-11-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-11:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-12",
+      "title": "Corporate Governance and International Ethics",
+      "old_record_id": "ethics-12:learner-v2:g1",
+      "new_record_id": "ethics-12:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-12-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:42:00.888961+00:00",
+      "identities": {
+        "export": "ethics-12:learner-v2:g2",
+        "master": "ethics-12:learner-v2:g2",
+        "review": "ethics-12:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-12:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-12\\ethics-12-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-12:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-12-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-12:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-12-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-12:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-13",
+      "title": "Emerging Ethics: Technology, AI and Environment",
+      "old_record_id": "ethics-13:learner-v2:g1",
+      "new_record_id": "ethics-13:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-13-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:42:22.058739+00:00",
+      "identities": {
+        "export": "ethics-13:learner-v2:g2",
+        "master": "ethics-13:learner-v2:g2",
+        "review": "ethics-13:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-13:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-13\\ethics-13-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-13:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-13-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-13:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-13-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-13:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-14",
+      "title": "Probity: Concept and Philosophical Basis of Governance",
+      "old_record_id": "ethics-14:learner-v2:g1",
+      "new_record_id": "ethics-14:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-14-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:42:44.422800+00:00",
+      "identities": {
+        "export": "ethics-14:learner-v2:g2",
+        "master": "ethics-14:learner-v2:g2",
+        "review": "ethics-14:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-14:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-14\\ethics-14-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-14:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-14-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-14:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-14-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-14:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-15",
+      "title": "Transparency, RTI and Information Sharing",
+      "old_record_id": "ethics-15:learner-v2:g1",
+      "new_record_id": "ethics-15:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-15-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:43:05.109247+00:00",
+      "identities": {
+        "export": "ethics-15:learner-v2:g2",
+        "master": "ethics-15:learner-v2:g2",
+        "review": "ethics-15:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-15:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-15\\ethics-15-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-15:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-15-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-15:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-15-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-15:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-16",
+      "title": "Codes of Ethics and Codes of Conduct",
+      "old_record_id": "ethics-16:learner-v2:g1",
+      "new_record_id": "ethics-16:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-16-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:43:30.948139+00:00",
+      "identities": {
+        "export": "ethics-16:learner-v2:g2",
+        "master": "ethics-16:learner-v2:g2",
+        "review": "ethics-16:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-16:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-16\\ethics-16-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-16:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-16-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-16:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-16-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-16:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-17",
+      "title": "Citizens' Charters, Work Culture and Service Delivery",
+      "old_record_id": "ethics-17:learner-v2:g1",
+      "new_record_id": "ethics-17:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-17-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:43:52.698773+00:00",
+      "identities": {
+        "export": "ethics-17:learner-v2:g2",
+        "master": "ethics-17:learner-v2:g2",
+        "review": "ethics-17:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-17:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-17\\ethics-17-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-17:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-17-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-17:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-17-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-17:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-18",
+      "title": "Utilization of Public Funds and Challenges of Corruption",
+      "old_record_id": "ethics-18:learner-v2:g1",
+      "new_record_id": "ethics-18:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-18-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:44:13.617026+00:00",
+      "identities": {
+        "export": "ethics-18:learner-v2:g2",
+        "master": "ethics-18:learner-v2:g2",
+        "review": "ethics-18:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-18:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-18\\ethics-18-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-18:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-18-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-18:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-18-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-18:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-19",
+      "title": "Corruption: Legal Framework",
+      "old_record_id": "ethics-19:learner-v2:g1",
+      "new_record_id": "ethics-19:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-19-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:44:34.521549+00:00",
+      "identities": {
+        "export": "ethics-19:learner-v2:g2",
+        "master": "ethics-19:learner-v2:g2",
+        "review": "ethics-19:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-19:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-19\\ethics-19-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-19:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-19-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-19:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-19-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-19:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-20",
+      "title": "Anti-Corruption Institutions",
+      "old_record_id": "ethics-20:learner-v2:g1",
+      "new_record_id": "ethics-20:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-20-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:44:55.396950+00:00",
+      "identities": {
+        "export": "ethics-20:learner-v2:g2",
+        "master": "ethics-20:learner-v2:g2",
+        "review": "ethics-20:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-20:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-20\\ethics-20-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-20:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-20-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-20:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-20-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-20:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-21",
+      "title": "Protecting Honest Officials and Vigilance Administration",
+      "old_record_id": "ethics-21:learner-v2:g1",
+      "new_record_id": "ethics-21:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-21-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:45:16.433954+00:00",
+      "identities": {
+        "export": "ethics-21:learner-v2:g2",
+        "master": "ethics-21:learner-v2:g2",
+        "review": "ethics-21:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-21:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-21\\ethics-21-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-21:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-21-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-21:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-21-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-21:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-22",
+      "title": "Case Study Method and Answer Architecture",
+      "old_record_id": "ethics-22:learner-v2:g1",
+      "new_record_id": "ethics-22:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-22-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:45:38.373454+00:00",
+      "identities": {
+        "export": "ethics-22:learner-v2:g2",
+        "master": "ethics-22:learner-v2:g2",
+        "review": "ethics-22:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-22:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-22\\ethics-22-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-22:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-22-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-22:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-22-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-22:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "ethics-23",
+      "title": "Comparative and Named Real Case Studies",
+      "old_record_id": "ethics-23:learner-v2:g1",
+      "new_record_id": "ethics-23:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 92,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ethics-23-learner-v2-g2-2026-09-02-validation.json",
+      "review_started_at": "2026-09-02T12:45:59.876516+00:00",
+      "identities": {
+        "export": "ethics-23:learner-v2:g2",
+        "master": "ethics-23:learner-v2:g2",
+        "review": "ethics-23:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "ethics-23:learner-v2:g1",
+        "generation": 1,
+        "score": 92,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\ethics-23\\ethics-23-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "ethics-23:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-23-learner-v2-g1-2026-08-29-validation.json"
+        },
+        {
+          "record_id": "ethics-23:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\ethics-23-learner-v2-g2-2026-09-02-validation.json"
+        }
+      ],
+      "final_record_id": "ethics-23:learner-v2:g2",
+      "final_generation": 2
+    }
+  ],
+  "failed_intermediates_preserved": [
+    "ethics-01:learner-v2:g3",
+    "ethics-05:learner-v2:g2",
+    "ethics-05:learner-v2:g3"
+  ],
+  "successful_re_review_intermediates_preserved": [
+    "ethics-01:learner-v2:g4"
+  ],
+  "requested_topic_count": 23,
+  "live_topic_count": 23,
+  "missing_expected_topic_keys": [],
+  "scope_blocker": "none",
+  "all_subject_topic_count": 319,
+  "encoding_check": {
+    "files_checked": [
+      "EXPORT-PDF-STATUS.json",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json",
+      "EXPORT-PDF-COMMAND-INDEX.md",
+      "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.md",
+      "notes\\Final-Learning-Packages\\CATALOGUE.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\07_Western-Moral-Philosophers-and-Thinkers.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\19_Corruption-Legal-Framework.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\20_Anti-Corruption-Institutions.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\23_Comparative-and-Named-Real-Case-Studies.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\07_Western-Moral-Philosophers-and-Thinkers.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\19_Corruption-Legal-Framework.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\20_Anti-Corruption-Institutions.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\23_Comparative-and-Named-Real-Case-Studies.md"
+    ],
+    "u_fffd_replacement_paths": [],
+    "actual_replacement_glyph_found": false,
+    "result": "no defect"
+  },
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02-validation.json",
+  "final_library_topic_count": 319,
+  "live_tracker_sync": "passed",
+  "exact_transitions": {
+    "ethics-01": "ethics-01:learner-v2:g2 -> ethics-01:learner-v2:g5",
+    "ethics-02": "ethics-02:learner-v2:g1 -> ethics-02:learner-v2:g2",
+    "ethics-03": "ethics-03:learner-v2:g1 -> ethics-03:learner-v2:g2",
+    "ethics-04": "ethics-04:learner-v2:g1 -> ethics-04:learner-v2:g2",
+    "ethics-05": "ethics-05:learner-v2:g1 -> ethics-05:learner-v2:g4",
+    "ethics-06": "ethics-06:learner-v2:g1 -> ethics-06:learner-v2:g2",
+    "ethics-07": "ethics-07:learner-v2:g1 -> ethics-07:learner-v2:g2",
+    "ethics-08": "ethics-08:learner-v2:g1 -> ethics-08:learner-v2:g2",
+    "ethics-09": "ethics-09:learner-v2:g1 -> ethics-09:learner-v2:g2",
+    "ethics-10": "ethics-10:learner-v2:g1 -> ethics-10:learner-v2:g2",
+    "ethics-11": "ethics-11:learner-v2:g1 -> ethics-11:learner-v2:g2",
+    "ethics-12": "ethics-12:learner-v2:g1 -> ethics-12:learner-v2:g2",
+    "ethics-13": "ethics-13:learner-v2:g1 -> ethics-13:learner-v2:g2",
+    "ethics-14": "ethics-14:learner-v2:g1 -> ethics-14:learner-v2:g2",
+    "ethics-15": "ethics-15:learner-v2:g1 -> ethics-15:learner-v2:g2",
+    "ethics-16": "ethics-16:learner-v2:g1 -> ethics-16:learner-v2:g2",
+    "ethics-17": "ethics-17:learner-v2:g1 -> ethics-17:learner-v2:g2",
+    "ethics-18": "ethics-18:learner-v2:g1 -> ethics-18:learner-v2:g2",
+    "ethics-19": "ethics-19:learner-v2:g1 -> ethics-19:learner-v2:g2",
+    "ethics-20": "ethics-20:learner-v2:g1 -> ethics-20:learner-v2:g2",
+    "ethics-21": "ethics-21:learner-v2:g1 -> ethics-21:learner-v2:g2",
+    "ethics-22": "ethics-22:learner-v2:g1 -> ethics-22:learner-v2:g2",
+    "ethics-23": "ethics-23:learner-v2:g1 -> ethics-23:learner-v2:g2"
+  },
+  "final_verification": {
+    "represented": 23,
+    "passed": 23,
+    "score": 98,
+    "hard_gate_failures": 0,
+    "mismatches": 0,
+    "approval": false,
+    "final_library_topic_count": 319,
+    "final_library_file_count": 6174,
+    "identity_stores": [
+      "EXPORT-PDF-STATUS",
+      "section manifest",
+      "MASTER-TRACKER",
+      "REVIEW-TRACKER",
+      "final library"
+    ],
+    "status": "passed",
+    "inventory": "upsc-ai-kit\\manifests\\exports\\ethics-deep-review-2026-09-02-changed-files.txt",
+    "inventory_nul": "upsc-ai-kit\\manifests\\exports\\ethics-deep-review-2026-09-02-changed-files.nul",
+    "inventory_count": 5335,
+    "inventory_paths_exist": true
+  }
+}

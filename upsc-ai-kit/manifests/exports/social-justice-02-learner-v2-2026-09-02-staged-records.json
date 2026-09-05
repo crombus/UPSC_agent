@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "social-justice-02-learner-v2-2026-09-02",
+  "selection": "social-justice-02",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "social-justice-02:learner-v2:g1",
+      "topic_key": "social-justice-02",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Social Justice — Subject-wide Syllabus — Poverty, Hunger, Food and Nutrition Security",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Solved-Practice-Workbook_2026-09-02.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Solved-Practice-Workbook_2026-09-02.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\assets",
+      "generated_on": "2026-09-02",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Social-Justice\\02_Poverty-Hunger-Food-and-Nutrition-Security_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\README.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+          "books\\more_previous_papers\\Gen_St_P2.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf"
+        ],
+        "live_sources": [
+          "https://nfsa.gov.in/portal/nfsa-act"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Complete-Learning-Session_2026-09-02.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-02",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf": "24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf": "26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+          "books\\more_previous_papers\\Gen_St_P2.pdf": "cb8e216e424a6d21ec0a8d86a7b97d1bca8f60f1e100aef1255ea044cf7884d8",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf": "7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf": "0b39500df905ed076f879029e4bb3b0336d7a59b857baf18ca937f3b67e6f13c",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md": "ea3d6a31999b7acd45eb2785dba07aae3a055a1158ab9541bada422930847471",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\02_Poverty-Hunger-Food-and-Nutrition-Security_Learner-V2-Complete-Topic-Package.md": "aeb888f96d315ccb0784c7925e2663c9fea0de97001bb7d28214640a0671af07",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md": "a5c7b865842a773559739b82d53f0f7f979f7823516b8d142ed78db357f2737f",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\ANSWER-WORTHINESS-AUDIT.md": "a30dc101d1984fe414e9d3bab3e68ada98935f9822abe0d896f4e0feb24f4d56",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md": "6d17f0bd5ed9b6b83190c9082113fbca8e3717493e374f67db3a2d2c2e752972",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\LEARNING-SESSION-COMMAND-INDEX.md": "6527f3dc0f53aa279ba29489f9f88f9967f8fe97a67515f4be021e2bedae3058",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-02_Learning-Session.md": "aeb888f96d315ccb0784c7925e2663c9fea0de97001bb7d28214640a0671af07",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-02_Solved-Workbook.md": "fd4b029f685d4d6f77724beb5c08981f5a773e139bae629c2e8076cdd0552b25",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "3992e8439869f5b57aac93f503df5ca58fd2dc3ef438d2d16a29976017d19448",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\README.md": "9b48e10a70b370eacb7902d07931872435c9128209c247c69c41491d0ff64a33",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md": "814e6f6baf6b2881ad1c2cc9fe2e27f4e1898771a5b699c76f4060331fc6768a",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-02-2026-09-02-sequential.json": "ca908158f4e03297b30395556bc3f331d056769fce9c10f3c9361ce8c646fec2",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Social-Justice\\social-justice-02.json": "a6798c1bcfffc815e661256b5e7fb92edcf579059e716bb2f8a3a8357e160088",
+          "upsc-ai-kit\\manifests\\v2\\social-justice--subject-wide-syllabus.json": "e18fd3e0da87c8e1fd1e3b26c589794a5f000f5b660bc7dcd9805d079e6bbb3e",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "One live official source was verified for this topic on 2026-09-02. The Department of Food and Public Distribution's National Food Security Act portal page was read successfully on that date and states that the Act was enacted on 5 July 2013 and marks a paradigm shift in the approach to food security from a welfare to a rights-based approach, that it legally entitles up to seventy-five per cent of the rural population and fifty per cent of the urban population to receive subsidised foodgrains under the targeted public distribution system so that about two-thirds of the population is covered, that the eldest woman of the household aged eighteen or above is mandated to be the head of the household for the purpose of issuing ration cards, that the Act is implemented in all States and Union Territories and that out of a maximum coverage of 81.34 crore persons around 80 crore persons are covered at present with identification treated as a continuous process of excluding ineligible, fake and duplicate cards and of including births and genuine left-out households, that a guiding principle is the life-cycle approach under which pregnant women, lactating mothers and children from six months to fourteen years are entitled to a nutritious meal free of cost through anganwadi centres under the Integrated Child Development Services scheme and through schools under the mid-day meal scheme with higher nutritional norms for malnourished children up to six years, that pregnant women and lactating mothers are further entitled to cash maternity benefit of not less than six thousand rupees, that on non-supply of entitled quantities the entitled person may receive a food security allowance from the concerned State Government governed through the Food Security Allowance Rules, 2015, and that responsibility is joint, with the Centre allocating and transporting foodgrains to designated depots and assisting delivery to the fair-price shop doorstep while States and Union Territories identify eligible households, issue ration cards and distribute entitlements. Only those statements of statutory design, coverage and responsibility are used from that page. The remaining dated elements are those already carried by the repository owners with their status checks, namely the statutory Central Issue Price ceiling of three rupees per kilogram for rice, two for wheat and one for coarse grains, the merger of the welfare grain scheme into the Act from 1 January 2023 making foodgrains free of cost to Antyodaya and priority households, the Union Cabinet extension of free distribution for five years through December 2028, the administration of Poshan 2.0 by the Ministry of Women and Child Development and of PM POSHAN by the Ministry of Education, and the National Family Health Survey values of 35.5 per cent under-five stunting, 19.3 per cent wasting and 67.1 per cent child anaemia in the fifth round of 2019-21 against 29.3 per cent under-five stunting in the sixth round of 2023-24, released on 29 May 2026 and covering 715 districts and about 6.79 lakh households. Every one of those values is round-specific or policy-date-specific and is cited here with that status, and the package states expressly that rounds must never be merged and that a portability transaction count is not asserted because it rises continuously. No poverty headcount, no multidimensional poverty value, no Periodic Labour Force Survey or National Sample Survey figure, no NITI Aayog or Sustainable Development Goal score, no budget or subsidy number, no scheme eligibility rule beyond the Act's own recorded coverage rule and no official answer key is asserted or inferred anywhere in this package.",
+        "pyq_status_note": "Three General Studies Mains demands and two objective demands are routed to this topic in the audited routing ledgers, and each Mains demand is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledgers record them: 2018 General Studies Paper II Question 17, 2019 General Studies Paper II Question 7 and 2024 General Studies Paper II Question 7. Two objective demands are also routed, namely 2018 Prelims General Studies Paper I Question 25 on the beneficiary categories and provisions of the National Food Security Act, 2013 and 2023 Prelims General Studies Paper I Question 52 on the interventions and target groups of the Anaemia Mukt Bharat strategy; the audited ledger records that the official 2018-2023 Prelims keys are not held locally, so no option, key or inferred answer is recorded for either objective demand and neither is converted into a solved question. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "15115db9434667968a915c31189b92d39c621723ecbaccb87038027292810488"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "social-justice-02:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-02",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "e061cfde03332469371cd3a278fa7b35868e8333735e781eccf6d1f2ccdfda1f",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-02\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-02-2026-09-02-sequential.json",
+        "ascii_master_spec_sha256": "ca908158f4e03297b30395556bc3f331d056769fce9c10f3c9361ce8c646fec2"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

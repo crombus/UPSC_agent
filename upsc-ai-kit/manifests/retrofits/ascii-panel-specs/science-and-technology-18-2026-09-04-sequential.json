@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 18",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-18",
+      "display_title": "Electric Vehicles, Batteries and Alternative Fuels",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-18_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Powertrain source-of-electricity map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "BEV -> battery stores all traction electricity",
+            "HEV -> engine + regenerative braking charge non-plug-in battery",
+            "PHEV -> external plug + engine backup",
+            "FCEV -> hydrogen fuel cell generates onboard electricity",
+            "TEST -> where does traction electricity originate?"
+          ],
+          "source_references": [
+            "BEV-HEV-PHEV-FCEV boundary"
+          ]
+        },
+        {
+          "title": "Cell to pack systems hierarchy",
+          "structural_type": "nested-hierarchy",
+          "ascii_lines": [
+            "CELL -> electrochemical unit",
+            "MODULE -> grouped cells + mechanical integration",
+            "PACK -> modules/cells + enclosure + busbars + sensing",
+            "CONTROL -> BMS + contactors + protection",
+            "THERMAL -> cooling/heating + propagation barriers"
+          ],
+          "source_references": [
+            "Cell-module-pack hierarchy",
+            "Battery-management system",
+            "Thermal-management system"
+          ]
+        },
+        {
+          "title": "Lithium-ion discharge rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ANODE -> releases Li+ during discharge",
+            "ELECTROLYTE -> carries ions",
+            "SEPARATOR -> blocks direct electronic contact",
+            "CATHODE -> receives Li+ during discharge",
+            "EXTERNAL CIRCUIT -> electrons power motor"
+          ],
+          "source_references": [
+            "Electrochemical core"
+          ]
+        },
+        {
+          "title": "Battery chemistry decision matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NMC / NCA -> nickel-cobalt exposure; higher-density designs",
+            "LFP -> no nickel or cobalt; different density/safety trade-off",
+            "SODIUM-ION -> changes lithium dependence",
+            "SOLID-STATE -> solid electrolyte; pre-commercial boundary",
+            "RULE -> chemistry decides mineral bill and engineering trade-off"
+          ],
+          "source_references": [
+            "Lithium-ion chemistry boundary",
+            "Next-generation chemistry status",
+            "Critical-mineral and chemistry link"
+          ]
+        },
+        {
+          "title": "Energy and power axes",
+          "structural_type": "two-axis-map",
+          "ascii_lines": [
+            "ENERGY DENSITY -> how much energy per mass/volume",
+            "POWER DENSITY -> how quickly energy is delivered/accepted",
+            "RANGE / WEIGHT -> energy axis",
+            "ACCELERATION / REGEN / FAST CHARGE -> power axis",
+            "TRAP -> one metric cannot certify whole-pack performance"
+          ],
+          "source_references": [
+            "Energy-power density distinction"
+          ]
+        },
+        {
+          "title": "AC and DC charging conversion map",
+          "structural_type": "conversion-flow",
+          "ascii_lines": [
+            "GRID AC -> vehicle onboard charger -> regulated battery DC",
+            "GRID AC -> offboard fast charger -> regulated battery DC",
+            "LEVEL -> power and use context",
+            "CONNECTOR -> physical/electrical interface",
+            "PROTOCOL -> communication and control"
+          ],
+          "source_references": [
+            "Charging level and AC-DC boundary",
+            "Charging standards and interoperability"
+          ]
+        },
+        {
+          "title": "Charging governance institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MINISTRY OF POWER -> charging guidelines",
+            "BIS -> connector and safety standards",
+            "CEA -> electricity-system and electrical safety regulation",
+            "MORTH / CMVR -> vehicle approval and safety",
+            "BEE -> efficiency role"
+          ],
+          "source_references": [
+            "Charging standards and interoperability",
+            "Indian institution and standards map"
+          ]
+        },
+        {
+          "title": "BMS and thermal-control loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "SENSE -> voltage | current | temperature",
+            "ESTIMATE -> operating state and imbalance",
+            "ACT -> balance | limit | isolate",
+            "COOL / HEAT -> keep cells in suitable band",
+            "FEEDBACK -> safer operation and slower degradation, not immunity"
+          ],
+          "source_references": [
+            "Battery-management system",
+            "Thermal-management system",
+            "Cycle-life and degradation boundary"
+          ]
+        },
+        {
+          "title": "Degradation and safety fault tree",
+          "structural_type": "fault-tree",
+          "ascii_lines": [
+            "HEAT / HIGH SOC / DEEP CYCLING / HIGH RATE -> ageing pressure",
+            "DEFECT / ABUSE / SHORT -> local heat generation",
+            "SELF-HEATING > HEAT REMOVAL -> thermal runaway",
+            "CELL EVENT -> possible module/pack propagation",
+            "RESPONSE -> prevent + detect + contain + emergency action"
+          ],
+          "source_references": [
+            "Cycle-life and degradation boundary",
+            "Thermal-runaway safety chain"
+          ]
+        },
+        {
+          "title": "Hydrogen mobility chain",
+          "structural_type": "lifecycle-chain",
+          "ascii_lines": [
+            "PRODUCTION ROUTE -> green / blue / grey label",
+            "COMPRESSION / TRANSPORT / STORAGE -> upstream burden",
+            "PEM FUEL CELL -> electrochemical electricity",
+            "ELECTRIC MOTOR -> traction",
+            "DIRECT EXHAUST -> water + heat; lifecycle remains wider"
+          ],
+          "source_references": [
+            "Fuel-cell and hydrogen boundary"
+          ]
+        },
+        {
+          "title": "Alternative-fuel portfolio",
+          "structural_type": "portfolio-wheel",
+          "ascii_lines": [
+            "ETHANOL / FLEX-FUEL -> petrol-blend engine pathway",
+            "BIODIESEL -> diesel-blend pathway",
+            "CBG / SATAT -> purified biogas pathway",
+            "CNG / LNG / HCNG -> gaseous combustion fuels",
+            "HYDROGEN FUEL CELL -> electrochemical electric-drive pathway"
+          ],
+          "source_references": [
+            "Alternative-fuel portfolio"
+          ]
+        },
+        {
+          "title": "India transition and evidence ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "TAILPIPE -> GRID -> MANUFACTURE -> END OF LIFE",
+            "MINERALS -> CHEMISTRY -> RECYCLING / EPR",
+            "PM E-DRIVE -> demand/ecosystem instrument",
+            "PLI-AUTO / PLI-ACC / PM-eBUS SEWA / NGHM PILOTS -> distinct routes",
+            "APPROVAL -> NOTIFICATION -> AWARD -> COMMISSIONING -> DEPLOYMENT -> OUTCOME"
+          ],
+          "source_references": [
+            "Tailpipe-lifecycle-grid boundary",
+            "Critical-mineral and chemistry link",
+            "Recycling and EPR boundary",
+            "Indian policy-instrument stack",
+            "Announcement-to-deployment firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

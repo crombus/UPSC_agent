@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T16:02:58.078428+00:00",
+  "status": "passed",
+  "topic_count": 4,
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "baseline_record_id": "essay-01:learner-v2:g4",
+      "baseline_generation": 4,
+      "record_id": "essay-01:learner-v2:g5",
+      "generation": 5,
+      "score": 98,
+      "hard_gate_failures": 0,
+      "artifact_contract": "essay-specific-guide-v2",
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-01-learner-v2-g5-2026-09-04-essay-deep-review-validation.json"
+    },
+    {
+      "topic_key": "essay-02",
+      "baseline_record_id": "essay-02:learner-v2:g3",
+      "baseline_generation": 3,
+      "record_id": "essay-02:learner-v2:g4",
+      "generation": 4,
+      "score": 98,
+      "hard_gate_failures": 0,
+      "artifact_contract": "essay-specific-guide-v2",
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-02-learner-v2-g4-2026-09-04-essay-deep-review-validation.json"
+    },
+    {
+      "topic_key": "essay-03",
+      "baseline_record_id": "essay-03:learner-v2:g3",
+      "baseline_generation": 3,
+      "record_id": "essay-03:learner-v2:g4",
+      "generation": 4,
+      "score": 98,
+      "hard_gate_failures": 0,
+      "artifact_contract": "essay-specific-guide-v2",
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-03-learner-v2-g4-2026-09-04-essay-deep-review-validation.json"
+    },
+    {
+      "topic_key": "essay-04",
+      "baseline_record_id": "essay-04:learner-v2:g3",
+      "baseline_generation": 3,
+      "record_id": "essay-04:learner-v2:g4",
+      "generation": 4,
+      "score": 98,
+      "hard_gate_failures": 0,
+      "artifact_contract": "essay-specific-guide-v2",
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-04-learner-v2-g4-2026-09-04-essay-deep-review-validation.json"
+    }
+  ],
+  "scores": {
+    "essay-01": 98,
+    "essay-02": 98,
+    "essay-03": 98,
+    "essay-04": 98
+  },
+  "hard_gate_failures": 0,
+  "tests": [
+    {
+      "module": "actual Essay generator self-checks",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "Essay generator self-checks: 4 passed\n"
+    },
+    {
+      "module": "test_regenerate_essay_deep_review",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "test_allocation_rereads_live_trackers_and_starts_null (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_ascii_and_graphical_grammar_is_essay_specific (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_completed_untracked_essay_specific_generations_are_discovered (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_driver_uses_direct_subprocess_tests_and_direct_nul_inventory (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_exporter_has_an_explicit_essay_contract (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_full_models_are_exam_length_and_marks_guidance_is_explicit (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_generation_paths_preserve_essay_structure (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_manifest_and_catalogue_keep_sixteen_topics_with_four_live_packages (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_practice_spans_targeted_essay_skills_without_mcqs (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_purposes_follow_authoritative_owners (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\ntest_table_break_hints_are_real_zero_width_spaces_not_literal_entities (test_regenerate_essay_deep_review.EssayDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.421s\n\nOK\n"
+    },
+    {
+      "module": "test_export_four_item_library",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_retained_essay_contract_with_generic_links_uses_generic_layout (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_selected_publication_cannot_overwrite_full_dated_manifest (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 15 tests in 2.674s\n\nOK\n"
+    },
+    {
+      "module": "test_sync_deep_review_tracker",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n"
+    },
+    {
+      "module": "test_refresh_all_v2_learning_sessions",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "s) ... ok\ntest_standalone_plain_text_equals_manual_spec_exactly (test_refresh_all_v2_learning_sessions.ManualAsciiSpecTests) ... ok\ntest_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 18.377s\n\nOK\n"
+    },
+    {
+      "module": "test_v2_section_indexes",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 14.662s\n\nOK\n"
+    },
+    {
+      "module": "test_v2_export_foundation",
+      "returncode": 0,
+      "passed": true,
+      "output_tail": "t_foundation.MarkdownV2Tests) ... ok\ntest_crime_and_punishment_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_empiricism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_exact_v2_sequence_is_valid (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_existentialism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_forms_of_government_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_hegel_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_humanism_secularism_multiculturalism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_husserl_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_individual_and_state_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_kant_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_later_wittgenstein_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_legacy_progress_navigation_is_rejected_and_removable (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_logical_positivism_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_moore_russell_early_wittgenstein_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_political_ideologies_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_progress_example_inside_code_fence_is_preserved (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_quine_strawson_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_register_notes_must_be_last (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_section_wise_v2_paths_are_accepted (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_sovereignty_uses_strict_abcd_policy (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_workbook_derives_from_both_practice_sections (test_v2_export_foundation.MarkdownV2Tests) ... ok\ntest_carvaka_generation_two_is_unapproved_and_supersedes_v1 (test_v2_export_foundation.TrackerMigrationTests) ... ok\ntest_legacy_approvals_and_provenance_are_preserved (test_v2_export_foundation.TrackerMigrationTests) ... ok\ntest_tracker_is_schema_v2_without_record_loss (test_v2_export_foundation.TrackerMigrationTests) ... ok\n\n----------------------------------------------------------------------\nRan 49 tests in 21.111s\n\nOK\n"
+    }
+  ],
+  "tests_passed": 7,
+  "tests_failed": 0,
+  "full_library": {
+    "mode": "export",
+    "status": "passed",
+    "topic_count": 483,
+    "export_root": "notes\\Final-Learning-Packages",
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-validation.json",
+    "subjects": {
+      "Ancient History": 27,
+      "Disaster Management": 18,
+      "Economy": 31,
+      "Environment and Ecology": 28,
+      "Essay": 4,
+      "Ethics": 23,
+      "Geography": 37,
+      "Governance": 16,
+      "Indian Art and Culture": 15,
+      "Indian Society": 15,
+      "Internal Security": 12,
+      "International Relations": 12,
+      "Medieval History": 25,
+      "Modern History": 38,
+      "Philosophy Optional": 40,
+      "Political Theory": 23,
+      "Polity": 55,
+      "Science and Technology": 26,
+      "Social Justice": 17,
+      "World History": 21
+    },
+    "sections": {
+      "Ancient History — Subject-wide Syllabus": 27,
+      "Disaster Management — Subject-wide Syllabus": 18,
+      "Economy — Subject-wide Syllabus": 31,
+      "Environment and Ecology — Subject-wide Syllabus": 28,
+      "Essay — Subject-wide Syllabus": 4,
+      "Ethics — Subject-wide Syllabus": 23,
+      "Geography — Part A — Physical Geography": 25,
+      "Geography — Part B — Human, Economic and Regional Geography": 12,
+      "Governance — Subject-wide Syllabus": 16,
+      "Indian Art and Culture — Subject-wide Syllabus": 15,
+      "Indian Society — Subject-wide Syllabus": 15,
+      "Internal Security — Subject-wide Syllabus": 12,
+      "International Relations — Subject-wide Syllabus": 12,
+      "Medieval History — Subject-wide Syllabus": 25,
+      "Modern History — Subject-wide Syllabus": 38,
+      "Philosophy Optional — Philosophy Paper I — Indian Philosophy": 9,
+      "Philosophy Optional — Philosophy Paper I — Western Philosophy": 11,
+      "Philosophy Optional — Philosophy Paper II — Philosophy of Religion": 10,
+      "Philosophy Optional — Philosophy Paper II — Socio-Political Philosophy": 10,
+      "Political Theory — Subject-wide Syllabus": 23,
+      "Polity — Subject-wide Syllabus": 55,
+      "Science and Technology — Subject-wide Syllabus": 26,
+      "Social Justice — Subject-wide Syllabus": 17,
+      "World History — Subject-wide Syllabus": 21
+    },
+    "library_totals": {
+      "file_count": 9912,
+      "pdf_count": 2409,
+      "png_count": 787,
+      "txt_count": 1014,
+      "markdown_count": 1654,
+      "json_count": 4033,
+      "total_bytes": 4221151244,
+      "by_extension": {
+        ".json": 4033,
+        ".md": 1654,
+        ".pdf": 2409,
+        ".png": 787,
+        ".txt": 1014,
+        ".zip": 15
+      }
+    }
+  },
+  "full_library_topic_count": 483,
+  "identity_mismatches": [],
+  "canonical_owner_changes": [],
+  "approval": false,
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\essay-deep-review-2026-09-04-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\essay-deep-review-2026-09-04-changed-files.nul",
+  "changed_file_inventory_count": 148,
+  "changed_file_inventory_all_paths_exist": true,
+  "changed_file_inventory_utf8_nul_safe": true,
+  "generation_chains": {
+    "essay-01": [
+      {
+        "record_id": "essay-01:legacy-v1:g1",
+        "generation": 1,
+        "variant": "legacy-v1",
+        "profile": null,
+        "validation": null,
+        "tracked": true
+      },
+      {
+        "record_id": "essay-01:learner-v2:g2",
+        "generation": 2,
+        "variant": "learner-v2",
+        "profile": "learner-v2-refreshed-new-topic",
+        "validation": "passed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-01:learner-v2:g3",
+        "generation": 3,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v1",
+        "validation": "passed",
+        "tracked": false
+      },
+      {
+        "record_id": "essay-01:learner-v2:g4",
+        "generation": 4,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "failed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-01:learner-v2:g5",
+        "generation": 5,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "passed",
+        "tracked": true
+      }
+    ],
+    "essay-02": [
+      {
+        "record_id": "essay-02:learner-v2:g1",
+        "generation": 1,
+        "variant": "learner-v2",
+        "profile": "learner-v2-refreshed-new-topic",
+        "validation": "passed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-02:learner-v2:g2",
+        "generation": 2,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v1",
+        "validation": "passed",
+        "tracked": false
+      },
+      {
+        "record_id": "essay-02:learner-v2:g3",
+        "generation": 3,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "failed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-02:learner-v2:g4",
+        "generation": 4,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "passed",
+        "tracked": true
+      }
+    ],
+    "essay-03": [
+      {
+        "record_id": "essay-03:learner-v2:g1",
+        "generation": 1,
+        "variant": "learner-v2",
+        "profile": "learner-v2-refreshed-new-topic",
+        "validation": "passed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-03:learner-v2:g2",
+        "generation": 2,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v1",
+        "validation": "passed",
+        "tracked": false
+      },
+      {
+        "record_id": "essay-03:learner-v2:g3",
+        "generation": 3,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "failed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-03:learner-v2:g4",
+        "generation": 4,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "passed",
+        "tracked": true
+      }
+    ],
+    "essay-04": [
+      {
+        "record_id": "essay-04:learner-v2:g1",
+        "generation": 1,
+        "variant": "learner-v2",
+        "profile": "learner-v2-refreshed-new-topic",
+        "validation": "passed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-04:learner-v2:g2",
+        "generation": 2,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v1",
+        "validation": "passed",
+        "tracked": false
+      },
+      {
+        "record_id": "essay-04:learner-v2:g3",
+        "generation": 3,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "failed",
+        "tracked": true
+      },
+      {
+        "record_id": "essay-04:learner-v2:g4",
+        "generation": 4,
+        "variant": "learner-v2",
+        "profile": "essay-specific-guide-v2-deep-review",
+        "validation": "passed",
+        "tracked": true
+      }
+    ]
+  },
+  "verified_defects": [
+    "The live final library selected obsolete session-style generations instead of the completed Essay-specific guide generations.",
+    "The question-only workbooks contained only two or three full-topic prompts and no outline, introduction, conclusion, paragraph-repair, transition, thesis-correction or evidence-selection practice.",
+    "The model essays were roughly 500-650 words, repeated one generic opening, and omitted explicit why-it-earns-marks and improvement guidance.",
+    "The Essay-specific PDFs were rendered through the legacy mode and therefore had neither an internal contents page nor PDF bookmarks.",
+    "The final library forced Essay into Session/Workbook/Graphical/ASCII folder names even though the authoritative contract is Guide/Question-only Workbook/Separate Solutions with integrated workflow visuals.",
+    "The first immutable successors exposed literal `&#8203;` text inside PDF table cells because a shared renderer escaped its line-break hint; those intermediate generations were retained, failed and superseded."
+  ]
+}

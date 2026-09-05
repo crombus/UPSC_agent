@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "topic_count": 391,
+  "latest_learner_v2_count": 391,
+  "review_topic_count": 391,
+  "identity_mismatch_count": 0,
+  "shape_or_link_failure_count": 0,
+  "library_totals": {
+    "file_count": 7391,
+    "pdf_count": 1957,
+    "png_count": 695,
+    "txt_count": 834,
+    "markdown_count": 1208,
+    "json_count": 2682,
+    "total_bytes": 3546170299,
+    "by_extension": {
+      ".json": 2682,
+      ".md": 1208,
+      ".pdf": 1957,
+      ".png": 695,
+      ".txt": 834,
+      ".zip": 15
+    }
+  },
+  "markdown_links": {
+    "checked_link_count": 4713,
+    "markdown_file_count": 52,
+    "broken_links": [],
+    "passed": true
+  },
+  "international_relations": {
+    "represented": 12,
+    "passed": 12,
+    "score": 98,
+    "approval_false": true,
+    "topics": [
+      {
+        "topic_key": "international-relations-01",
+        "latest_record_id": "international-relations-01:learner-v2:g5",
+        "generation": 5,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\01-Foreign-Policy-cb463ecd-Autonomy"
+      },
+      {
+        "topic_key": "international-relations-02",
+        "latest_record_id": "international-relations-02:learner-v2:g5",
+        "generation": 5,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\02-India-and-the-Neighbourhood"
+      },
+      {
+        "topic_key": "international-relations-03",
+        "latest_record_id": "international-relations-03:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\03-India-China-acd2afb3-Supply-Chains"
+      },
+      {
+        "topic_key": "international-relations-04",
+        "latest_record_id": "international-relations-04:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security"
+      },
+      {
+        "topic_key": "international-relations-05",
+        "latest_record_id": "international-relations-05:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\05-Central-Asia-Eurasia-and-Connectivity"
+      },
+      {
+        "topic_key": "international-relations-06",
+        "latest_record_id": "international-relations-06:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\06-West-Asia-Energy-Security-and-Connectivity"
+      },
+      {
+        "topic_key": "international-relations-07",
+        "latest_record_id": "international-relations-07:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership"
+      },
+      {
+        "topic_key": "international-relations-08",
+        "latest_record_id": "international-relations-08:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering"
+      },
+      {
+        "topic_key": "international-relations-09",
+        "latest_record_id": "international-relations-09:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power"
+      },
+      {
+        "topic_key": "international-relations-10",
+        "latest_record_id": "international-relations-10:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\10-Regional-Global-and-Minilateral-Groupings"
+      },
+      {
+        "topic_key": "international-relations-11",
+        "latest_record_id": "international-relations-11:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\11-Globalisation-036e1716-Policy-Effects"
+      },
+      {
+        "topic_key": "international-relations-12",
+        "latest_record_id": "international-relations-12:learner-v2:g4",
+        "generation": 4,
+        "status": "passed",
+        "score": 98,
+        "approval": false,
+        "hard_gates_passed": true,
+        "destination_folder": "International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance"
+      }
+    ]
+  },
+  "errors": [],
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\international-relations-deep-review-2026-09-03-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\international-relations-deep-review-2026-09-03-changed-files.nul",
+  "changed_file_inventory_count": 11320,
+  "changed_file_inventory_all_paths_exist": true,
+  "changed_file_inventory_utf8_nul_safe": true
+}

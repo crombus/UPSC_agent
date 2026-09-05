@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T10:21:15+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0713777feec1adf5b96037e5c19d8c287f412f448f8dbc737a99118a12632c17",
+    "sha256_after": "0713777feec1adf5b96037e5c19d8c287f412f448f8dbc737a99118a12632c17",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9040,
+    "pdf_count": 2327,
+    "png_count": 769,
+    "txt_count": 982,
+    "markdown_count": 1475,
+    "json_count": 3472,
+    "total_bytes": 4106472669,
+    "by_extension": {
+      ".json": 3472,
+      ".md": 1475,
+      ".pdf": 2327,
+      ".png": 769,
+      ".txt": 982,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-12",
+      "topic_title": "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 12,
+      "source_record_id": "modern-indian-history-12:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g4\\modern-indian-history-12_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "e4d57cb136688d4a47fe347d9ed6feba3913e54a2ed9d511c463540de25e9ddd",
+          "output_sha256": "e4d57cb136688d4a47fe347d9ed6feba3913e54a2ed9d511c463540de25e9ddd",
+          "source_output_equal": true,
+          "bytes": 550676
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g4\\modern-indian-history-12_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "59f9abc4a727c6684083151a2913b3120422a0097d43779647309625fa3c8fd4",
+          "output_sha256": "59f9abc4a727c6684083151a2913b3120422a0097d43779647309625fa3c8fd4",
+          "source_output_equal": true,
+          "bytes": 426535
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-12\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "04f716eb25a3140142037af505072c6cf8ba3885827c0cfb78706d149074e56a",
+          "output_sha256": "04f716eb25a3140142037af505072c6cf8ba3885827c0cfb78706d149074e56a",
+          "source_output_equal": true,
+          "bytes": 2339048
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-12\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "738e691d4032004cb5052310f953039a1acc6941e696905dbc3606ac725513f1",
+          "output_sha256": "738e691d4032004cb5052310f953039a1acc6941e696905dbc3606ac725513f1",
+          "source_output_equal": true,
+          "bytes": 3096057
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-12\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "01ae12dbe7ee87f71bff2db67c0535c80e09903f1875fef801882b639cc7d692",
+          "output_sha256": "01ae12dbe7ee87f71bff2db67c0535c80e09903f1875fef801882b639cc7d692",
+          "source_output_equal": true,
+          "bytes": 2070270
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-12\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "5716aba74f226e7eb4636e0dc8c5aafecec68a60c8b2cc462f144d3389c76731",
+          "output_sha256": "5716aba74f226e7eb4636e0dc8c5aafecec68a60c8b2cc462f144d3389c76731",
+          "source_output_equal": true,
+          "bytes": 5380
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-12\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\12-Administrative-and-2df98686-Rule-Councils-Acts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "334c486b50d290c89892ebf0ac7c5e87a23b99e18ef9bb508ee41f4fabdc1141",
+          "output_sha256": "334c486b50d290c89892ebf0ac7c5e87a23b99e18ef9bb508ee41f4fabdc1141",
+          "source_output_equal": true,
+          "source_text_sha256": "5716aba74f226e7eb4636e0dc8c5aafecec68a60c8b2cc462f144d3389c76731",
+          "normalized_text_equal": true,
+          "bytes": 57126
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 57,
+        "solved_practice_workbook": 25,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 57,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12102
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

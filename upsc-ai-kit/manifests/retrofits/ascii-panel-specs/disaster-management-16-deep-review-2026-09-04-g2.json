@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-16",
+      "display_title": "Disaster Finance, Risk Transfer and Build Back Better",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Finance timing map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EX-ANTE -> MITIGATION PREPAREDNESS RESERVE PRE-ARRANGED COVER",
+            "EX-POST -> RELIEF REALLOCATION BORROWING APPEAL",
+            "RETAIN / TRANSFER / SHARE",
+            "TIMING DOES NOT PROVE RISK REDUCTION"
+          ],
+          "source_references": [
+            "Ex-ante finance",
+            "Ex-post finance",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Statutory fund grid",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "s.46 NATIONAL RESPONSE FUND",
+            "s.47 NATIONAL MITIGATION FUND",
+            "s.48 STATE RESPONSE + MITIGATION FUNDS",
+            "FUND != FORCE; RESPONSE != MITIGATION"
+          ],
+          "source_references": [
+            "Four-fund statutory grid",
+            "Response versus mitigation funds",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Liquidity ladder",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "ANNUAL BUDGET / CONTINGENCY RESERVE",
+            "PRE-ARRANGED DRAWDOWN / CONTINGENT FINANCE",
+            "INSURANCE / POOL",
+            "EXCEPTIONAL BORROWING / EXTERNAL SUPPORT"
+          ],
+          "source_references": [
+            "Budgetary and contingency reserves",
+            "Pre-arranged finance",
+            "Risk layering",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Risk-bearer map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "UNION <-> STATE <-> LOCAL BODY / UTILITY",
+            "FIRM / HOUSEHOLD / COMMUNITY",
+            "LIQUIDITY AT ONE LAYER MAY NOT REACH ANOTHER",
+            "MATCH INSTRUMENT TO OWNER AND LOSS TYPE"
+          ],
+          "source_references": [
+            "Sovereign subnational household layers",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Insurance split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INDEMNITY -> VERIFIED COVERED LOSS",
+            "PARAMETRIC -> INDEX CROSSES THRESHOLD",
+            "INDEMNITY: ASSESSMENT DELAY",
+            "PARAMETRIC: BASIS RISK"
+          ],
+          "source_references": [
+            "Indemnity insurance",
+            "Parametric insurance",
+            "Basis risk",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Risk-pool test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "POOL PARTICIPANTS / EXPOSURES",
+            "ARE RISKS SUFFICIENTLY DIVERSE?",
+            "PRICE ENTRY RESERVE AND PAYOUT GOVERNANCE",
+            "CORRELATED LOSS CAN OVERWHELM NOMINAL DIVERSIFICATION"
+          ],
+          "source_references": [
+            "Risk pools",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cat-bond boundary",
+          "structural_type": "mechanism-chain",
+          "ascii_lines": [
+            "DEFINED RISK LAYER + TRIGGER",
+            "INVESTOR CAPITAL AT RISK",
+            "TRIGGER EVENT -> PRINCIPAL / INTEREST LOSS -> ISSUER FINANCE",
+            "CONCEPT ONLY UNLESS DATED DEPLOYMENT IS VERIFIED"
+          ],
+          "source_references": [
+            "Catastrophe bonds",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Insurance incentives",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MORAL HAZARD -> BEHAVIOUR AFTER PROTECTION",
+            "ADVERSE SELECTION -> HIGHER-RISK DEMAND / INFORMATION",
+            "TOOLS -> DEDUCTIBLE PRICING CONDITIONS DISCLOSURE",
+            "SAFEGUARD -> AFFORDABILITY AND INCLUSION"
+          ],
+          "source_references": [
+            "Moral hazard and adverse selection",
+            "Incentive and affordability balance",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fiscal protection spine",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ASSESS FISCAL EXPOSURE",
+            "LAYER RETENTION PRE-ARRANGED AND TRANSFER",
+            "PROTECT ESSENTIAL-SERVICE LIQUIDITY",
+            "REPORT ALLOCATION EXPENDITURE COVERAGE AND OUTCOME"
+          ],
+          "source_references": [
+            "Fiscal protection",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Assessment firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DAMAGE -> PHYSICAL ASSET EFFECT",
+            "LOSS -> FLOW / ECONOMIC EFFECT",
+            "NEEDS -> COSTED RECOVERY REQUIREMENT",
+            "METHOD BASELINE DATE AND UNCERTAINTY MUST BE EXPLICIT",
+            "MUST REMEMBER: Disaster finance combines ex-ante risk reduction, preparedness,..."
+          ],
+          "source_references": [
+            "Damage loss and needs assessment",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-16_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Build Back Better gate",
+          "structural_type": "audit-ladder",
+          "ascii_lines": [
+            "SAFER SITE / STANDARD / SERVICE DESIGN",
+            "TENURE LIVELIHOOD ACCESSIBILITY PARTICIPATION",
+            "ENVIRONMENT MAINTENANCE AND FUTURE CLIMATE RISK",
+            "REJECT REBUILDING THAT RECREATES OR TRANSFERS RISK",
+            "CLOSE DISTINCTION: Budget provision is not allocation, allocation is not release, release..."
+          ],
+          "source_references": [
+            "Build Back Better",
+            "BBB safeguards",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-16_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Disaster-finance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY TIMING PURPOSE TRIGGER AND RISK BEARER",
+            "MAP STATUTORY FUNDS RESERVES INSURANCE POOLS AND CONCEPTUAL BONDS",
+            "ADD BASIS RISK INCENTIVES AFFORDABILITY AND FISCAL PROTECTION",
+            "TEST WHETHER FINANCE PRODUCED EQUITABLE BUILD BACK BETTER",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name fund, legal basis, finance tier,..."
+          ],
+          "source_references": [
+            "Finance-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-16\\g2\\disaster-management-16_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-16_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1162 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-52",
+  "subject": "Polity",
+  "title": "NCRWC AND WORKING OF THE CONSTITUTION",
+  "short_route": "PROVENANCE → MANDATE → WORKING → RECOMMENDATIONS → STATUS AUDIT → PERFORMANCE → ANSWER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • new immutable successor prepared for manual revalidation • all prior generations preserved"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "a85ebc45b3f82eb68114ffdb7af326e4d1f0c72ee73d0fb7af16343c0b678713",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "NCRWC IDENTITY, MANDATE AND CONSTITUTIONAL BOUNDARY",
+      "structural_type": "commission-identity-root",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "NCRWC IDENTITY, MANDATE AND CONSTITUTIONAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN CONSTITUTIONAL PERFORMANCE BE REVIEWED WITHOUT CLAIMING CONSTITUENT",
+          "role": "comparison"
+        },
+        {
+          "text": "2000 GOVERNMENT RESOLUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPORARY EXECUTIVE ADVISORY COMMISSION.",
+          "role": "primary"
+        },
+        {
+          "text": "JUSTICE M.N. VENKATACHALIAH",
+          "role": "outcome"
+        },
+        {
+          "text": "11 MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "REPORT SUBMITTED IN 2002.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can constitutional performance be reviewed without claiming constituent power?",
+        "2000 Government resolution → temporary executive advisory commission.",
+        "Justice M.N. Venkatachaliah → chair",
+        "11 members"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can constitutional performance be reviewed without claiming constituent power?",
+            "2000 Government resolution → temporary executive advisory commission."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Justice M.N. Venkatachaliah → chair",
+            "11 members",
+            "report submitted in 2002."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MANDATE review fifty years of working → effective governance + socio-economic development.",
+            "BOUNDARY parliamentary democracy + basic structure preserved.",
+            "VERDICT review of working != rewriting the Constitution."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Justice M.N. Venkatachaliah → chair"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The NCRWC reviewed constitutional working within parliamentary democracy and basic-structure limits, making it an advisory reform commission rather than a constituent assembly.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONSULTATION AND INSTITUTIONAL IDENTITY FIREWALL",
+      "structural_type": "institution-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSULTATION AND INSTITUTIONAL IDENTITY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CONSULTATION PAPERS + EXPERT STUDIES + PUBLIC RESPONSES +",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVISORY REPORT.",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUENT ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "FRAMED CONSTITUTION.",
+          "role": "primary"
+        },
+        {
+          "text": "PARLIAMENT/ART 368",
+          "role": "outcome"
+        },
+        {
+          "text": "AMENDS THROUGH CONSTITUTIONAL PROCEDURE.",
+          "role": "comparison"
+        },
+        {
+          "text": "LAW COMMISSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSULTATION papers + expert studies + public responses + thematic deliberation → advisory report.",
+        "CONSTITUENT ASSEMBLY → framed Constitution.",
+        "PARLIAMENT/ART 368 → amends through constitutional procedure.",
+        "LAW COMMISSION → law-reform reports.",
+        "SARKARIA/PUNCHHI → Centre-State review."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "CONSULTATION papers + expert studies + public responses + thematic deliberation → advisory report.",
+          "PARLIAMENT/ART 368 → amends through constitutional procedure.",
+          "SARKARIA/PUNCHHI → Centre-State review.",
+          "TRAP expertise and consultation create persuasion, not legal force."
+        ],
+        [
+          "CONSTITUENT ASSEMBLY → framed Constitution.",
+          "LAW COMMISSION → law-reform reports.",
+          "NCRWC → comprehensive working review, no constituent authority.",
+          "CONSULTATION papers + expert studies + public responses + thematic deliberation → advisory report."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSULTATION papers + expert studies + public responses + thematic deliberation → advisory report.",
+            "CONSTITUENT ASSEMBLY → framed Constitution."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PARLIAMENT/ART 368 → amends through constitutional procedure.",
+            "LAW COMMISSION → law-reform reports."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SARKARIA/PUNCHHI → Centre-State review.",
+            "NCRWC → comprehensive working review, no constituent authority."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP expertise and consultation create persuasion, not legal force.",
+            "CONSULTATION papers + expert studies + public responses + thematic deliberation → advisory report."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Composition caution: Membership gave the Commission legal, parliamentary, administrative and public-policy experience, but expertise did not convert its report into law or constituent power.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WORKING OF THE CONSTITUTION: TEXT TO LIVED PERFORMANCE",
+      "structural_type": "constitutional-working-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WORKING OF THE CONSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "TEXT TO LIVED PERFORMANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES + PARTS + SCHEDULES",
+          "role": "comparison"
+        },
+        {
+          "text": "PARLIAMENT + EXECUTIVE + COURTS + FEDERAL UNITS +",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICE CONVENTIONS + PARTIES + ADMINISTRATION + POLITICAL INCENTIVES",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOMES RIGHTS + ACCOUNTABILITY + DELIBERATION + FEDERAL TRUST",
+          "role": "outcome"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURAL BOUNDARY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Articles + Parts + Schedules",
+        "Parliament + executive + courts + federal units + bodies",
+        "PRACTICE conventions + parties + administration + political incentives",
+        "OUTCOMES rights + accountability + deliberation + federal trust + remedies.",
+        "Kesavananda Bharati (1973) → structural boundary."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Articles + Parts + Schedules",
+            "Parliament + executive + courts + federal units + bodies"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PRACTICE conventions + parties + administration + political incentives",
+            "OUTCOMES rights + accountability + deliberation + federal trust + remedies."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kesavananda Bharati (1973) → structural boundary.",
+            "Minerva Mills (1980) → limited amendment + rights-DPSP harmony."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Articles + Parts + Schedules",
+            "Parliament + executive + courts + federal units + bodies"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional working converts text into restrained power, effective rights, accountable institutions and cooperative practice, so formal compliance alone cannot establish constitutional success.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RECOMMENDATION CLUSTERS WITHOUT LAW-STATUS CONTAMINATION",
+      "structural_type": "recommendation-cluster-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RECOMMENDATION CLUSTERS WITHOUT LAW-STATUS CONTAMINATION",
+          "role": "primary"
+        },
+        {
+          "text": "DUTIES NEW RIGHTS, STRONGER IMPLEMENTATION AND PROPOSED DUTIES.",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTIES CRIMINALISATION, FINANCE, ECI SELECTION, PARTY LAW AND ANTI-DEFECTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATION SITTINGS, COMMITTEES, PRIVILEGES, MINISTRY SIZE, CIVIL SERVICES AND",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL GOVERNMENT APPOINTMENTS, ACCESS, GOVERNOR, ART 356, COUNCILS AND",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS EVERY NODE",
+          "role": "outcome"
+        },
+        {
+          "text": "NCRWC RECOMMENDATION UNTIL SEPARATELY ENACTED.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RIGHTS / DPSP / DUTIES new rights, stronger implementation and proposed duties.",
+        "ELECTIONS / PARTIES criminalisation, finance, ECI selection, party law and anti-defection.",
+        "PARLIAMENT / EXECUTIVE / ADMINISTRATION sittings, committees, privileges, ministry size, civil services and integrity.",
+        "JUDICIARY / FEDERALISM / LOCAL GOVERNMENT appointments, access, Governor, Art 356, councils and devolution.",
+        "STATUS every node = NCRWC recommendation until separately enacted."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "RIGHTS / DPSP / DUTIES new rights, stronger implementation and proposed duties.",
+          "PARLIAMENT / EXECUTIVE / ADMINISTRATION sittings, committees, privileges, ministry size, civil services and integrity.",
+          "STATUS every node = NCRWC recommendation until separately enacted.",
+          "ELECTIONS / PARTIES criminalisation, finance, ECI selection, party law and anti-defection."
+        ],
+        [
+          "ELECTIONS / PARTIES criminalisation, finance, ECI selection, party law and anti-defection.",
+          "JUDICIARY / FEDERALISM / LOCAL GOVERNMENT appointments, access, Governor, Art 356, councils and devolution.",
+          "RIGHTS / DPSP / DUTIES new rights, stronger implementation and proposed duties.",
+          "PARLIAMENT / EXECUTIVE / ADMINISTRATION sittings, committees, privileges, ministry size, civil services and integrity."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RIGHTS / DPSP / DUTIES new rights, stronger implementation and proposed duties.",
+            "ELECTIONS / PARTIES criminalisation, finance, ECI selection, party law and anti-defection."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PARLIAMENT / EXECUTIVE / ADMINISTRATION sittings, committees, privileges, ministry size, civil services and integrity.",
+            "JUDICIARY / FEDERALISM / LOCAL GOVERNMENT appointments, access, Governor, Art 356, councils and devolution."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS every node = NCRWC recommendation until separately enacted.",
+            "RIGHTS / DPSP / DUTIES new rights, stronger implementation and proposed duties."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ELECTIONS / PARTIES criminalisation, finance, ECI selection, party law and anti-defection.",
+            "PARLIAMENT / EXECUTIVE / ADMINISTRATION sittings, committees, privileges, ministry size, civil services and integrity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The NCRWC examined modern governance across rights, institutions, federalism and development, but its 249 recommendations required different constitutional, legislative or executive routes.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "IMPLEMENTATION AUDIT: EXACT, MODIFIED, SIMILAR OR PENDING",
+      "structural_type": "implementation-status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "IMPLEMENTATION AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "EXACT, MODIFIED, SIMILAR OR PENDING",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER INSTRUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "10% MINISTRY CEILING",
+          "role": "primary"
+        },
+        {
+          "text": "91ST AMENDMENT (2003) USES 15%",
+          "role": "outcome"
+        },
+        {
+          "text": "MODIFIED RELATED REFORM, NOT EXACT ADOPTION.",
+          "role": "caution"
+        },
+        {
+          "text": "JUDICIAL COMMISSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROPOSAL → LATER INSTRUMENT → WORDING → LEGAL EFFECT → VERDICT",
+        "10% ministry ceiling",
+        "91st Amendment (2003) uses 15% → modified related reform, not exact adoption.",
+        "judicial commission",
+        "NJAC enacted 2014, invalidated 2015 → not current NCRWC design."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROPOSAL → LATER INSTRUMENT → WORDING → LEGAL EFFECT → VERDICT",
+            "10% ministry ceiling",
+            "91st Amendment (2003) uses 15% → modified related reform, not exact adoption."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "judicial commission",
+            "NJAC enacted 2014, invalidated 2015 → not current NCRWC design.",
+            "party law + narrow whip"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "no comprehensive enactment → substantially pending.",
+            "disaster to Concurrent List",
+            "Disaster Management Act 2005, no List transfer → statutory response, not adoption."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RULE chronology + similarity != proven implementation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Implementation must match the exact recommendation to a later legal instrument and result, because thematic similarity does not prove formal adoption.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ACCOUNTABILITY, FEDERALISM AND LEGISLATIVE PRACTICE",
+      "structural_type": "accountability-federal-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ACCOUNTABILITY, FEDERALISM AND LEGISLATIVE PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNTABILITY ELECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "JUDICIAL REVIEW.",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATURE SITTING TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "DELEGATED LAW",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCIAL CONTROL.",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERAL PRACTICE CONSULTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNOR RESTRAINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ACCOUNTABILITY elections",
+        "judicial review.",
+        "LEGISLATURE sitting time → scrutiny → delegated law → opposition → financial control.",
+        "FEDERAL PRACTICE consultation → councils → Governor restraint → floor test → negotiated implementation.",
+        "S.R. Bommai (1994) → federal and secular structural enforcement."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ACCOUNTABILITY elections",
+            "judicial review."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LEGISLATURE sitting time → scrutiny → delegated law → opposition → financial control.",
+            "FEDERAL PRACTICE consultation → councils → Governor restraint → floor test → negotiated implementation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "S.R. Bommai (1994) → federal and secular structural enforcement.",
+            "TRAP majority strength or coalition form does not itself prove good constitutional working."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ACCOUNTABILITY elections",
+            "judicial review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional accountability combines electoral, legal, financial and administrative controls, while legislative quality depends on time, committees, scrutiny and public reasons.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONSTITUTIONAL MORALITY AND RIGHTS ENFORCEMENT",
+      "structural_type": "morality-rights-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL MORALITY AND RIGHTS ENFORCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL MORALITY TEXT + PROCEDURE + EQUAL CITIZENSHIP +",
+          "role": "outcome"
+        },
+        {
+          "text": "K.S. PUTTASWAMY (2017) PRIVACY + DIGNITY IN MODERN GOVERNANCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "NAVTEJ SINGH JOHAR V. UNION OF INDIA (2018) CONSTITUTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS WORKING GUARANTEE",
+          "role": "primary"
+        },
+        {
+          "text": "AFFORDABLE REMEDY",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC JUSTIFICATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMIT MORALITY IS NOT PERSONAL PREFERENCE; LATER CASES ARE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL MORALITY text + procedure + equal citizenship + institutional role restraint.",
+        "K.S. Puttaswamy (2017) privacy + dignity in modern governance.",
+        "Navtej Singh Johar v. Union of India (2018) constitutional morality + transformative rights.",
+        "RIGHTS WORKING guarantee → institution → affordable remedy → compliance → public justification.",
+        "LIMIT morality is not personal preference; later cases are not NCRWC implementation evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL MORALITY text + procedure + equal citizenship + institutional role restraint.",
+            "K.S. Puttaswamy (2017) privacy + dignity in modern governance."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Navtej Singh Johar v. Union of India (2018) constitutional morality + transformative rights.",
+            "RIGHTS WORKING guarantee → institution → affordable remedy → compliance → public justification."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT morality is not personal preference; later cases are not NCRWC implementation evidence.",
+            "CONSTITUTIONAL MORALITY text + procedure + equal citizenship + institutional role restraint."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "K.S. Puttaswamy (2017) privacy + dignity in modern governance.",
+            "Navtej Singh Johar v. Union of India (2018) constitutional morality + transformative rights."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NCRWC proposals on rights, property, Directive Principles and duties remain recommendations whose current status must be tested against later constitutional text and law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REFORM-METHOD LADDER AND FEASIBILITY TEST",
+      "structural_type": "reform-method-decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REFORM-METHOD LADDER AND FEASIBILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "DIAGNOSE TEXT GAP? CONVENTION FAILURE? CAPACITY DEFICIT? INCENTIVE FAILURE?",
+          "role": "outcome"
+        },
+        {
+          "text": "PRACTICE/CONVENTION REPAIR EXECUTIVE RULE OR CAPACITY ORDINARY LEGISLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 368 AMENDMENT",
+          "role": "institution"
+        },
+        {
+          "text": "TEST BASIC STRUCTURE + RIGHTS + FEDERALISM + DEMOCRATIC",
+          "role": "primary"
+        },
+        {
+          "text": "VERDICT USE THE LEAST LEGALLY SUFFICIENT AND INSTITUTIONALLY WORKABLE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSE text gap? convention failure? capacity deficit? incentive failure? remedy gap?",
+        "practice/convention repair executive rule or capacity ordinary legislation",
+        "Article 368 amendment",
+        "TEST basic structure + rights + federalism + democratic legitimacy finance + implementation + review.",
+        "VERDICT use the least legally sufficient and institutionally workable route."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIAGNOSE text gap? convention failure? capacity deficit? incentive failure? remedy gap?",
+            "practice/convention repair executive rule or capacity ordinary legislation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 368 amendment",
+            "TEST basic structure + rights + federalism + democratic legitimacy finance + implementation + review."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT use the least legally sufficient and institutionally workable route.",
+            "DIAGNOSE text gap? convention failure? capacity deficit? incentive failure? remedy gap?"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "practice/convention repair executive rule or capacity ordinary legislation",
+            "Article 368 amendment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Reform should follow the diagnosed failure through administrative, statutory or constitutional routes, using amendment only where text rather than implementation is deficient.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "VERIFIED PROVENANCE AND COMPOSITION",
+      "structural_type": "commission-provenance-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VERIFIED PROVENANCE AND COMPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "22 FEBRUARY 2000: GOVERNMENT RESOLUTION CONSTITUTED THE NCRWC.",
+          "role": "outcome"
+        },
+        {
+          "text": "P.A. SANGMA LATER RESIGNED.",
+          "role": "comparison"
+        },
+        {
+          "text": "11 MARCH 2002: ADOPTED AND SIGNED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "22 February 2000: Government resolution constituted the NCRWC.",
+        "Justice M.N. Venkatachaliah chaired an eleven-member Commission.",
+        "P.A. Sangma later resigned.",
+        "Secretary Raghbir Singh was not a Commission member.",
+        "11 March 2002: adopted and signed.",
+        "31 March 2002: presented to the Prime Minister."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ORIGIN",
+          "role": "institution",
+          "items": [
+            "22 February 2000: Government resolution constituted the NCRWC.",
+            "Justice M.N. Venkatachaliah chaired an eleven-member Commission."
+          ]
+        },
+        {
+          "heading": "MEMBERSHIP CAUTION",
+          "role": "caution",
+          "items": [
+            "P.A. Sangma later resigned.",
+            "Secretary Raghbir Singh was not a Commission member."
+          ]
+        },
+        {
+          "heading": "REPORT",
+          "role": "outcome",
+          "items": [
+            "11 March 2002: adopted and signed.",
+            "31 March 2002: presented to the Prime Minister."
+          ]
+        }
+      ],
+      "mechanism_strip": "Read the verified source, separate recommendation from law, and assign a precise status before reaching a verdict.",
+      "answer_line": "The NCRWC's executive origin, expert membership and consultation generated persuasive authority, not constituent or binding legal power.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EXACT RECOMMENDATION METRICS",
+      "structural_type": "recommendation-metrics-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXACT RECOMMENDATION METRICS",
+          "role": "primary"
+        },
+        {
+          "text": "249 TOTAL: 58 AMENDMENT, 86 LEGISLATION AND 105 EXECUTIVE ACTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "LOK SABHA 120 DAYS; RAJYA SABHA 100.",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTRUCTIVE NO-CONFIDENCE: 20% NOTICE PLUS ALTERNATIVE LEADER.",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNOR ABOUT SIX MONTHS AND PRESIDENT ABOUT THREE MONTHS FOR RESERVED-BILL ACTION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "249 total: 58 amendment, 86 legislation and 105 executive action.",
+        "Route diversity proves that not every defect required constitutional amendment.",
+        "Lok Sabha 120 days; Rajya Sabha 100.",
+        "State Houses: 90 days, or 50 where membership is below 70.",
+        "Constructive no-confidence: 20% notice plus alternative leader.",
+        "10% ministry ceiling; High Court age 65; Supreme Court age 68.",
+        "Governor about six months and President about three months for reserved-Bill action.",
+        "These figures were proposals, not current constitutional text."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ROUTES",
+          "role": "evidence",
+          "items": [
+            "249 total: 58 amendment, 86 legislation and 105 executive action.",
+            "Route diversity proves that not every defect required constitutional amendment."
+          ]
+        },
+        {
+          "heading": "LEGISLATURE",
+          "role": "institution",
+          "items": [
+            "Lok Sabha 120 days; Rajya Sabha 100.",
+            "State Houses: 90 days, or 50 where membership is below 70."
+          ]
+        },
+        {
+          "heading": "EXECUTIVE AND COURTS",
+          "role": "mechanism",
+          "items": [
+            "Constructive no-confidence: 20% notice plus alternative leader.",
+            "10% ministry ceiling; High Court age 65; Supreme Court age 68."
+          ]
+        },
+        {
+          "heading": "FEDERAL TIME",
+          "role": "outcome",
+          "items": [
+            "Governor about six months and President about three months for reserved-Bill action.",
+            "These figures were proposals, not current constitutional text."
+          ]
+        }
+      ],
+      "mechanism_strip": "Read the verified source, separate recommendation from law, and assign a precise status before reaching a verdict.",
+      "answer_line": "Exact figures make an answer concrete only when each is labelled as an NCRWC proposal and separated from later operative law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PERFORMANCE DASHBOARD AND ANSWER EXECUTION",
+      "structural_type": "constitutional-performance-dashboard",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PERFORMANCE DASHBOARD AND ANSWER EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATURE: SITTINGS, SCRUTINY, FINANCE AND DEBATE.",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERALISM: CONSULTATION, FISCAL TRUST, RESTRAINT AND DISPUTE SETTLEMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY DEMAND AND EXACT RECOMMENDATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Legislature: sittings, scrutiny, finance and debate.",
+        "Executive: responsibility, legality, transparency and delivery.",
+        "Judiciary: access, independence, pendency and accountability.",
+        "Federalism: consultation, fiscal trust, restraint and dispute settlement.",
+        "Local government: functions, funds and functionaries.",
+        "Rights: remedy access, compliance and equal citizenship.",
+        "Identify demand and exact recommendation.",
+        "State route and independently verified current status.",
+        "Test feasibility and end with a graded verdict."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DASHBOARD",
+          "role": "institution",
+          "items": [
+            "Legislature: sittings, scrutiny, finance and debate.",
+            "Executive: responsibility, legality, transparency and delivery.",
+            "Judiciary: access, independence, pendency and accountability."
+          ]
+        },
+        {
+          "heading": "FEDERAL AND RIGHTS",
+          "role": "outcome",
+          "items": [
+            "Federalism: consultation, fiscal trust, restraint and dispute settlement.",
+            "Local government: functions, funds and functionaries.",
+            "Rights: remedy access, compliance and equal citizenship."
+          ]
+        },
+        {
+          "heading": "ANSWER AUDIT",
+          "role": "mechanism",
+          "items": [
+            "Identify demand and exact recommendation.",
+            "State route and independently verified current status.",
+            "Test feasibility and end with a graded verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "Read the verified source, separate recommendation from law, and assign a precise status before reaching a verdict.",
+      "answer_line": "Constitutional working must be measured through role-specific evidence, then repaired by the least legally sufficient and workable route.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: COMMISSION REPORT TO CONSTITUTIONAL ANSWER",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMISSION REPORT TO CONSTITUTIONAL ANSWER",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "2000 RESOLUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "11 MEMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "2002 REPORT ADVISORY",
+          "role": "outcome"
+        },
+        {
+          "text": "REVIEW, NOT REWRITE",
+          "role": "caution"
+        },
+        {
+          "text": "RECOMMENDATIONS, NOT LAW.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "2000 resolution",
+        "11 members",
+        "2002 report advisory",
+        "review, not rewrite"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "2000 resolution",
+            "11 members",
+            "2002 report advisory"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "review, not rewrite",
+            "recommendations, not law.",
+            "MAINS SPINE identity → mandate → working beyond text → recommendation clusters",
+            "implementation audit → morality/accountability/federal practice → reform ladder."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PYQ ROUTE constitutional morality",
+            "electoral reform",
+            "judicial accountability",
+            "basic structure."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NCRWC is a diagnostic reform menu subject to constitutional route and present-law verification."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NCRWC proposals must remain distinct from later law, judicial doctrine and convention, especially on rights, ministry size, appointments and the Model Code.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "USE ONLY AFTER THE COMPLETE CORE.",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOMMENDATIONS REMAIN NON-BINDING UNLESS A LATER LEGAL INSTRUMENT IS",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL-PERFORMANCE FRAMEWORK CONSTITUTIONAL WORKING CAN BE EVALUATED THROUGH FOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "IS THE ACTOR CONSTITUTIONALLY EMPOWERED?",
+          "role": "outcome"
+        },
+        {
+          "text": "TEXT, STATUTE, RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARE RIGHTS, FEDERALISM AND ROLE LIMITS RESPECTED?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Use only after the complete Core.",
+            "Recommendations remain non-binding unless a later legal instrument is separately identified.",
+            "Institutional-performance framework Constitutional working can be evaluated through four linked capacities: | Capacity | Question | Evidence route",
+            "| |---|---|---| | Authorisation | Is the actor constitutionally empowered?"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "text, statute, rule | | Restraint | Are rights, federalism and role limits respected?",
+            "reasons, review, conventions | | Delivery | Can the institution convert authority into timely outcomes?",
+            "staffing, procedure, finance | | Correction | Can failure be exposed and remedied?",
+            "Parliament, audit, courts, elections | The framework prevents two opposite errors: assuming that valid text guarantees good government,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "and assuming that performance failure always requires constitutional amendment.",
+            "Reform sequencing and implementation causation A commission recommendation should be coded as: 1.",
+            "functionally similar later reform without proven attribution; 4.",
+            "judicial development in a related field; 5."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  },
+  "summary": {
+    "core_stage_count": 12
+  }
+}

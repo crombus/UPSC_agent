@@ -1,0 +1,1070 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-12",
+  "subject": "Modern-Indian-History",
+  "title": "ADMINISTRATIVE & CONSTITUTIONAL CHANGES AFTER 1858 (CROWN RULE; COUNCILS ACTS)",
+  "short_route": "GOVERNMENT OF INDIA ACT → SECRETARY OF STATE FOR → COUNCIL OF INDIA IN → VICEROY IN POST-1858 CROWN → QUEEN'S PROCLAMATION IN POST-1858 → PRINCES AFTER 1858 IN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-12-deep-review-2026-08-31-g2.json",
+  "ascii_spec_sha256": "ac72afaade04491596ad99bf4080be71208c6049dbea02e32d40213de5a9ed66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GOVERNMENT OF INDIA ACT 1858 IN POST-1858 CROWN RULE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GOVERNMENT OF INDIA ACT 1858 IN POST-1858 CROWN RULE",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNMENT OF INDIA ACT 1858",
+          "role": "institution"
+        },
+        {
+          "text": "THE GOVERNMENT OF INDIA ACT 1858 ENDED COMPANY RULE",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE GOVERNMENT OF INDIA ACT 1858 TO MATCH ACTOR",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER GOVERNMENT OF INDIA ACT 1858 TO",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 1858 CROWN TRANSFER, INDIAN COUNCILS ACTS 1861 AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Government of India Act 1858",
+        "EVIDENCE → The Government of India Act 1858 ended Company rule and abolished the Board",
+        "EXAM USE → use Government of India Act 1858 to match actor, date, mechanism and",
+        "LIMIT → do not transfer Government of India Act 1858 to another institution or theatre.",
+        "MUST REMEMBER: The 1858 Crown transfer, Indian Councils Acts 1861 and 1892, Morley-Minto"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Government of India Act 1858",
+            "EVIDENCE → The Government of India Act 1858 ended Company rule and abolished the Board of"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Government of India Act 1858 to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Government of India Act 1858 to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: The 1858 Crown transfer, Indian Councils Acts 1861 and 1892, Morley-Minto",
+            "reforms of 1909, army reorganisation and the princely-state settlement changed different governing relationships."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Government of India Act 1858 to match actor, date, mechanism and limit.",
+      "answer_line": "EVIDENCE → The Government of India Act 1858 ended Company rule and abolished the Board of.",
+      "source_references": [
+        "Government of India Act 1858",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SECRETARY OF STATE FOR INDIA IN POST-1858 CROWN RULE",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECRETARY OF STATE FOR INDIA IN POST-1858 CROWN RULE",
+          "role": "institution"
+        },
+        {
+          "text": "SECRETARY OF STATE FOR INDIA",
+          "role": "institution"
+        },
+        {
+          "text": "A BRITISH CABINET MINISTER, THE SECRETARY OF STATE FOR",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SECRETARY OF STATE FOR INDIA TO MATCH ACTOR",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER SECRETARY OF STATE FOR INDIA TO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Secretary of State for India",
+        "EVIDENCE → A British Cabinet minister, the Secretary of State for India controlled Indian affairs",
+        "EXAM USE → use Secretary of State for India to match actor, date, mechanism and",
+        "LIMIT → do not transfer Secretary of State for India to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Secretary of State for India",
+            "EVIDENCE → A British Cabinet minister, the Secretary of State for India controlled Indian affairs from London."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Secretary of State for India to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Secretary of State for India to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Secretary of State for India",
+            "EVIDENCE → A British Cabinet minister, the Secretary of State for India controlled Indian affairs from London."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Secretary of State for India to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Secretary of State for India to another institution or theatre.",
+      "source_references": [
+        "Secretary of State for India",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COUNCIL OF INDIA IN POST-1858 CROWN RULE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COUNCIL OF INDIA IN POST-1858 CROWN RULE",
+          "role": "institution"
+        },
+        {
+          "text": "COUNCIL OF INDIA",
+          "role": "institution"
+        },
+        {
+          "text": "THE SECRETARY OF STATE WAS ASSISTED BY A FIFTEEN-MEMBER",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE COUNCIL OF INDIA TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER COUNCIL OF INDIA TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Council of India",
+        "EVIDENCE → The Secretary of State was assisted by a fifteen-member Council of India.",
+        "EXAM USE → use Council of India to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Council of India to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Council of India",
+          "EXAM USE → use Council of India to match actor, date, mechanism and limit.",
+          "FOCUS → Council of India"
+        ],
+        [
+          "EVIDENCE → The Secretary of State was assisted by a fifteen-member Council of India.",
+          "LIMIT → do not transfer Council of India to another institution or theatre.",
+          "EVIDENCE → The Secretary of State was assisted by a fifteen-member Council of India."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Council of India",
+            "EVIDENCE → The Secretary of State was assisted by a fifteen-member Council of India."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Council of India to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Council of India to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Council of India",
+            "EVIDENCE → The Secretary of State was assisted by a fifteen-member Council of India."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Council of India to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Council of India to another institution or theatre.",
+      "source_references": [
+        "Council of India",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VICEROY IN POST-1858 CROWN RULE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "VICEROY IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "THE GOVERNOR-GENERAL ALSO BECAME THE CROWN'S VICEROY, AND CANNING",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "comparison"
+        },
+        {
+          "text": "USE VICEROY TO MATCH ACTOR, DATE, MECHANISM AND LIMIT.",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT TRANSFER VICEROY TO ANOTHER INSTITUTION OR THEATRE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Viceroy",
+        "EVIDENCE → The Governor-General also became the Crown's Viceroy, and Canning was the first",
+        "EXAM USE → use Viceroy to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Viceroy to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Viceroy",
+            "EVIDENCE → The Governor-General also became the Crown's Viceroy, and Canning was the first"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Viceroy to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Viceroy to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Viceroy",
+            "EVIDENCE → The Governor-General also became the Crown's Viceroy, and Canning was the first"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Viceroy to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Viceroy to another institution or theatre.",
+      "source_references": [
+        "Viceroy",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "QUEEN'S PROCLAMATION IN POST-1858 CROWN RULE",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "QUEEN'S PROCLAMATION IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "QUEEN'S PROCLAMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 1858 PROCLAMATION PROMISED RELIGIOUS NON-INTERFERENCE, TREATY RESPECT AND",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE QUEEN'S PROCLAMATION TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER QUEEN'S PROCLAMATION TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Queen's Proclamation",
+        "EVIDENCE → The 1858 Proclamation promised religious non-interference, treaty respect and formal equality in public",
+        "EXAM USE → use Queen's Proclamation to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Queen's Proclamation to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Queen's Proclamation",
+            "EVIDENCE → The 1858 Proclamation promised religious non-interference, treaty respect and formal equality in public employment."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Queen's Proclamation to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Queen's Proclamation to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Queen's Proclamation",
+            "EVIDENCE → The 1858 Proclamation promised religious non-interference, treaty respect and formal equality in public employment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Queen's Proclamation to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Queen's Proclamation to another institution or theatre.",
+      "source_references": [
+        "Queen's Proclamation",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRINCES AFTER 1858 IN POST-1858 CROWN RULE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRINCES AFTER 1858 IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCES AFTER 1858",
+          "role": "outcome"
+        },
+        {
+          "text": "THE RAJ ENDED LAPSE-STYLE ANNEXATION AND USED TREATY GUARANTEES",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE PRINCES AFTER 1858 TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER PRINCES AFTER 1858 TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Princes after 1858",
+        "EVIDENCE → The Raj ended Lapse-style annexation and used treaty guarantees to turn princes into",
+        "EXAM USE → use Princes after 1858 to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Princes after 1858 to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Princes after 1858",
+            "EVIDENCE → The Raj ended Lapse-style annexation and used treaty guarantees to turn princes into protected but subordinate allies."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Princes after 1858 to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Princes after 1858 to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Princes after 1858",
+            "EVIDENCE → The Raj ended Lapse-style annexation and used treaty guarantees to turn princes into protected but subordinate allies."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Princes after 1858 to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Princes after 1858 to another institution or theatre.",
+      "source_references": [
+        "Princes after 1858",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARMY REORGANISATION IN POST-1858 CROWN RULE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARMY REORGANISATION IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "ARMY REORGANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "AFTER 1857 THE RAJ INCREASED THE EUROPEAN PROPORTION, GUARDED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ARMY REORGANISATION TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER ARMY REORGANISATION TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Army reorganisation",
+        "EVIDENCE → After 1857 the Raj increased the European proportion, guarded artillery and divided recruitment",
+        "EXAM USE → use Army reorganisation to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Army reorganisation to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Army reorganisation",
+            "EVIDENCE → After 1857 the Raj increased the European proportion, guarded artillery and divided recruitment by region, caste and community."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Army reorganisation to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Army reorganisation to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Army reorganisation",
+            "EVIDENCE → After 1857 the Raj increased the European proportion, guarded artillery and divided recruitment by region, caste and community."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Army reorganisation to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Army reorganisation to another institution or theatre.",
+      "source_references": [
+        "Army reorganisation",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIAN COUNCILS ACT 1861 IN POST-1858 CROWN RULE",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INDIAN COUNCILS ACT 1861 IN POST-1858 CROWN RULE",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN COUNCILS ACT 1861",
+          "role": "institution"
+        },
+        {
+          "text": "THE 1861 ACT RESTORED LEGISLATIVE COUNCILS AND PERMITTED NOMINATED",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN MEMBERS.",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "primary"
+        },
+        {
+          "text": "USE INDIAN COUNCILS ACT 1861 TO MATCH ACTOR, DATE",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER INDIAN COUNCILS ACT 1861 TO ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Indian Councils Act 1861",
+        "EVIDENCE → The 1861 Act restored legislative councils and permitted nominated non-official",
+        "Indian members.",
+        "EXAM USE → use Indian Councils Act 1861 to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Indian Councils Act 1861 to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Indian Councils Act 1861",
+            "EVIDENCE → The 1861 Act restored legislative councils and permitted nominated non-official"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Indian members.",
+            "EXAM USE → use Indian Councils Act 1861 to match actor, date, mechanism and limit."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → do not transfer Indian Councils Act 1861 to another institution or theatre.",
+            "FOCUS → Indian Councils Act 1861"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Indian Councils Act 1861 to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Indian Councils Act 1861 to another institution or theatre.",
+      "source_references": [
+        "Indian Councils Act 1861",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PORTFOLIO SYSTEM IN POST-1858 CROWN RULE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PORTFOLIO SYSTEM IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "PORTFOLIO SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CANNING'S PORTFOLIO SYSTEM ASSIGNED DEPARTMENTAL RESPONSIBILITY WITHIN THE EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE PORTFOLIO SYSTEM TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER PORTFOLIO SYSTEM TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Portfolio system",
+        "EVIDENCE → Canning's portfolio system assigned departmental responsibility within the executive council.",
+        "EXAM USE → use Portfolio system to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Portfolio system to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Portfolio system",
+          "EXAM USE → use Portfolio system to match actor, date, mechanism and limit.",
+          "FOCUS → Portfolio system"
+        ],
+        [
+          "EVIDENCE → Canning's portfolio system assigned departmental responsibility within the executive council.",
+          "LIMIT → do not transfer Portfolio system to another institution or theatre.",
+          "EVIDENCE → Canning's portfolio system assigned departmental responsibility within the executive council."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Portfolio system",
+            "EVIDENCE → Canning's portfolio system assigned departmental responsibility within the executive council."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Portfolio system to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Portfolio system to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Portfolio system",
+            "EVIDENCE → Canning's portfolio system assigned departmental responsibility within the executive council."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Portfolio system to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Portfolio system to another institution or theatre.",
+      "source_references": [
+        "Portfolio system",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LEGISLATIVE DEVOLUTION IN POST-1858 CROWN RULE",
+      "structural_type": "institution-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LEGISLATIVE DEVOLUTION IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATIVE DEVOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 1861 SETTLEMENT RESTORED LIMITED LEGISLATIVE POWERS TO BOMBAY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE LEGISLATIVE DEVOLUTION TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER LEGISLATIVE DEVOLUTION TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "QUEEN VICTORIA'S PROCLAMATION OF 1 NOVEMBER 1858 STATED POLICY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Legislative devolution",
+        "EVIDENCE → The 1861 settlement restored limited legislative powers to Bombay and Madras and enabled",
+        "EXAM USE → use Legislative devolution to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Legislative devolution to another institution or theatre.",
+        "CLOSE DISTINCTION: Queen Victoria's Proclamation of 1 November 1858 stated policy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Legislative devolution",
+            "EVIDENCE → The 1861 settlement restored limited legislative powers to Bombay and Madras and enabled new provincial councils."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Legislative devolution to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Legislative devolution to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Queen Victoria's Proclamation of 1 November 1858 stated policy",
+            "its promises on religion, office and princes must be distinguished from later implementation and racial practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Legislative devolution to match actor, date, mechanism and limit.",
+      "answer_line": "CLOSE DISTINCTION: Queen Victoria's Proclamation of 1 November 1858 stated policy; its promises on religion, office and princes must be distinguished from later implementation and racial practice.",
+      "source_references": [
+        "Legislative devolution",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MAYO'S DECENTRALISATION IN POST-1858 CROWN RULE",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MAYO'S DECENTRALISATION IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "MAYO'S DECENTRALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MAYO'S FINANCIAL DECENTRALISATION FROM 1870 ASSIGNED SELECTED SPENDING RESPONSIBILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE MAYO'S DECENTRALISATION TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER MAYO'S DECENTRALISATION TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATUTES AND PROCLAMATIONS RECORD FORMAL DESIGN, WHILE BUDGETS, RECRUITMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Mayo's decentralisation",
+        "EVIDENCE → Mayo's financial decentralisation from 1870 assigned selected spending responsibilities to provinces.",
+        "EXAM USE → use Mayo's decentralisation to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Mayo's decentralisation to another institution or theatre.",
+        "EVIDENCE LIMIT: Statutes and proclamations record formal design, while budgets, recruitment and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Mayo's decentralisation",
+            "EVIDENCE → Mayo's financial decentralisation from 1870 assigned selected spending responsibilities to provinces."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Mayo's decentralisation to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Mayo's decentralisation to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Statutes and proclamations record formal design, while budgets, recruitment and",
+            "council proceedings reveal the limits of representation, decentralisation and Indian participation."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Mayo's decentralisation to match actor, date, mechanism and limit.",
+      "answer_line": "EVIDENCE LIMIT: Statutes and proclamations record formal design, while budgets, recruitment and council proceedings reveal the limits of representation, decentralisation and Indian participation.",
+      "source_references": [
+        "Mayo's decentralisation",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "RIPON'S RESOLUTION IN POST-1858 CROWN RULE",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "RIPON'S RESOLUTION IN POST-1858 CROWN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "RIPON'S RESOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RIPON'S 1882 RESOLUTION ENCOURAGED MUNICIPAL AND DISTRICT BOARDS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE RIPON'S RESOLUTION TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER RIPON'S RESOLUTION TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Ripon's Resolution",
+        "EVIDENCE → Ripon's 1882 Resolution encouraged municipal and district boards and became a conventional landmark",
+        "EXAM USE → use Ripon's Resolution to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Ripon's Resolution to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Ripon's Resolution",
+            "EVIDENCE → Ripon's 1882 Resolution encouraged municipal and district boards and became a conventional landmark of local self-government."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Ripon's Resolution to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Ripon's Resolution to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Ripon's Resolution",
+            "EVIDENCE → Ripon's 1882 Resolution encouraged municipal and district boards and became a conventional landmark of local self-government."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Ripon's Resolution to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Ripon's Resolution to another institution or theatre.",
+      "source_references": [
+        "Ripon's Resolution",
+        "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g2\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE GOVERNMENT OF INDIA ACT 1858 SHIFTED THE CENTRE",
+          "role": "institution"
+        },
+        {
+          "text": "THE BRITISH PARLIAMENT-CABINET SYSTEM THROUGH THE SECRETARY OF STATE",
+          "role": "institution"
+        },
+        {
+          "text": "THE ABOLITION OF THE COMPANY AND BOARD OF CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "THE QUEEN'S PROCLAMATION PROMISED RELIGIOUS NON-INTERFERENCE AND RESPECT FOR",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIALS DREW LESSONS FROM THE POLITICAL AND RELIGIOUS ANXIETIES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PROMISE OF EQUALITY IN PUBLIC EMPLOYMENT WAS CONSTRAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "RACIAL ATTITUDES, EXAMINATION BARRIERS AND THE HIGHER BUREAUCRACY'S EUROPEAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Government of India Act 1858 shifted the centre of control from the Company to",
+            "the British Parliament-Cabinet system through the Secretary of State for India and his Council.",
+            "The abolition of the Company and Board of Control simplified authority but also made India more directly tied to British imperial strategy.",
+            "The Queen's Proclamation promised religious non-interference and respect for princes because British"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "officials drew lessons from the political and religious anxieties behind 1857.",
+            "CAUTION: The promise of equality in public employment was constrained by",
+            "racial attitudes, examination barriers and the higher bureaucracy's European dominance.",
+            "The Indian Councils Act 1861 brought nominated Indians into legislative councils"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "and introduced Canning's portfolio system, but the executive remained dominant.",
+            "The Indian Councils Act 1892 enlarged councils and permitted limited budget",
+            "discussion and questions, but representation was indirect, narrow and carefully controlled.",
+            "Ripon's local self-government policy created municipal and district-level training grounds for Indian public life."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1091 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-11",
+  "subject": "Indian-Art-and-Culture",
+  "title": "LANGUAGES, SCRIPTS, LITERATURE AND MANUSCRIPTS",
+  "short_route": "CLASSIFICATION FIREWALL → REGISTER COEXISTENCE → SCRIPT GEOGRAPHY → EPIGRAPHIC CHRONOLOGY → TEXT-LAYER LADDER → CORPUS EVIDENCE MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-11-deep-review-2026-09-04-g3.json",
+  "ascii_spec_sha256": "9b8f3a1b6fac20bbc290d129336080d8f2d08fba8027d607fb98bfe5db10c409",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CLASSIFICATION FIREWALL",
+      "structural_type": "root-axes",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLASSIFICATION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "GENEALOGICAL RELATIONSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAPHIC SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL OR LITERARY USE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL OR HERITAGE RECOGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGE FAMILY, SCRIPT, REGISTER, CONSTITUTIONAL STATUS, CLASSICAL RECOGNITION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "TIBETO-BURMAN WORLDS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FAMILY → genealogical relationship",
+        "SCRIPT → graphic system",
+        "REGISTER → social or literary use",
+        "STATUS → constitutional or heritage recognition",
+        "MUST REMEMBER: Language family, script, register, constitutional status, classical recognition and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FAMILY → genealogical relationship",
+            "SCRIPT → graphic system",
+            "REGISTER → social or literary use"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATUS → constitutional or heritage recognition",
+            "MUST REMEMBER: Language family, script, register, constitutional status, classical recognition and",
+            "documentary heritage are separate axes across Indo-Aryan, Dravidian, Austroasiatic and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Tibeto-Burman worlds."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Language family, script, register, constitutional status, classical recognition and documentary heritage are separate axes across Indo-Aryan, Dravidian, Austroasiatic and.",
+      "source_references": [
+        "The classification firewall",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REGISTER COEXISTENCE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGISTER COEXISTENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CODIFIED LEARNED REGISTER",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL LITERARY AND SOCIAL REGISTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "CANONICAL ASSOCIATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "COEXISTENCE, NOT SIMPLE SUCCESSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SANSKRIT → codified learned register",
+        "PRAKRITS → plural literary and social registers",
+        "PALI / ARDHAMAGADHI → canonical associations",
+        "RULE → coexistence, not simple succession"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SANSKRIT → codified learned register",
+          "PALI / ARDHAMAGADHI → canonical associations",
+          "SANSKRIT → codified learned register"
+        ],
+        [
+          "PRAKRITS → plural literary and social registers",
+          "RULE → coexistence, not simple succession",
+          "PRAKRITS → plural literary and social registers"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SANSKRIT → codified learned register",
+            "PRAKRITS → plural literary and social registers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PALI / ARDHAMAGADHI → canonical associations",
+            "RULE → coexistence, not simple succession"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SANSKRIT → codified learned register",
+            "PRAKRITS → plural literary and social registers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PALI / ARDHAMAGADHI → canonical associations; RULE → coexistence, not simple succession.",
+      "source_references": [
+        "Sanskrit and Prakrit as coexisting registers",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SCRIPT GEOGRAPHY",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SCRIPT GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "WIDESPREAD ANCESTRAL SCRIPT",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTHWEST, RIGHT-TO-LEFT",
+          "role": "comparison"
+        },
+        {
+          "text": "GREEK AND ARAMAIC",
+          "role": "evidence"
+        },
+        {
+          "text": "ASHOKAN RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "MULTILINGUAL, MOSTLY PRAKRIT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BRAHMI → widespread ancestral script",
+        "KHAROSHTHI → northwest, right-to-left",
+        "KANDAHAR → Greek and Aramaic",
+        "ASHOKAN RECORD → multilingual, mostly Prakrit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRAHMI → widespread ancestral script",
+            "KHAROSHTHI → northwest, right-to-left"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KANDAHAR → Greek and Aramaic",
+            "ASHOKAN RECORD → multilingual, mostly Prakrit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRAHMI → widespread ancestral script",
+            "KHAROSHTHI → northwest, right-to-left"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KANDAHAR → Greek and Aramaic; ASHOKAN RECORD → multilingual, mostly Prakrit.",
+      "source_references": [
+        "Ashokan scripts and languages",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EPIGRAPHIC CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EPIGRAPHIC CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "GRAMMATICAL SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAKRIT AND MULTILINGUAL EDICTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RUDRADAMAN C.150 CE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTENSIVE SANSKRIT EPIGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "CHEBROLU 207 CE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH INDIAN DATABLE SANSKRIT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PANINI → grammatical system",
+        "ASHOKA → Prakrit and multilingual edicts",
+        "RUDRADAMAN c.150 CE → extensive Sanskrit epigraphy",
+        "CHEBROLU 207 CE → South Indian datable Sanskrit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PANINI → grammatical system",
+            "ASHOKA → Prakrit and multilingual edicts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RUDRADAMAN c.150 CE → extensive Sanskrit epigraphy",
+            "CHEBROLU 207 CE → South Indian datable Sanskrit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PANINI → grammatical system",
+            "ASHOKA → Prakrit and multilingual edicts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHEBROLU 207 CE → South Indian datable Sanskrit.",
+      "source_references": [
+        "Panini and the Sanskrit epigraphic record",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TEXT-LAYER LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TEXT-LAYER LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ORAL FORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLIEST LAYER",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANGING TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "SURVIVING MANUSCRIPT",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL WITNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "MODERN INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOGNITION EVENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORAL FORMATION → earliest layer",
+        "COMPOSITION / REDACTION → changing text",
+        "SURVIVING MANUSCRIPT → material witness",
+        "MODERN INSCRIPTION → recognition event"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORAL FORMATION → earliest layer",
+            "COMPOSITION / REDACTION → changing text"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SURVIVING MANUSCRIPT → material witness",
+            "MODERN INSCRIPTION → recognition event"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORAL FORMATION → earliest layer",
+            "COMPOSITION / REDACTION → changing text"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SURVIVING MANUSCRIPT → material witness; MODERN INSCRIPTION → recognition event.",
+      "source_references": [
+        "Layered Vedic, epic and Puranic corpora",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CORPUS EVIDENCE MATRIX",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CORPUS EVIDENCE MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "RITUAL AND COSMOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "CANON AND NARRATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "TOWNS, TRADE, WAR AND RANKING",
+          "role": "evidence"
+        },
+        {
+          "text": "CORPUS IS NOT A TRANSPARENT CHRONICLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VEDIC → ritual and cosmology",
+        "BUDDHIST / JAIN → canon and narrative",
+        "SANGAM → towns, trade, war and ranking",
+        "LIMIT → corpus is not a transparent chronicle"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VEDIC → ritual and cosmology",
+          "SANGAM → towns, trade, war and ranking",
+          "VEDIC → ritual and cosmology"
+        ],
+        [
+          "BUDDHIST / JAIN → canon and narrative",
+          "LIMIT → corpus is not a transparent chronicle",
+          "BUDDHIST / JAIN → canon and narrative"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VEDIC → ritual and cosmology",
+            "BUDDHIST / JAIN → canon and narrative"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SANGAM → towns, trade, war and ranking",
+            "LIMIT → corpus is not a transparent chronicle"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VEDIC → ritual and cosmology",
+            "BUDDHIST / JAIN → canon and narrative"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → corpus is not a transparent chronicle.",
+      "source_references": [
+        "Buddhist and Jain textual worlds",
+        "Sangam literature as bounded evidence",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PALLAVA LITERATURE ROUTE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PALLAVA LITERATURE ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "PATRONAGE CENTRE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED COURT-ASSOCIATED AUTHOR",
+          "role": "institution"
+        },
+        {
+          "text": "BILINGUAL INSCRIPTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "TAMIL AND SANSKRIT",
+          "role": "primary"
+        },
+        {
+          "text": "COURT-SCRIPT INTERVENTION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "KANCHIPURAM → patronage centre",
+        "DANDIN → named court-associated author",
+        "BILINGUAL INSCRIPTIONS → Tamil and Sanskrit",
+        "GRANTHA → court-script intervention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KANCHIPURAM → patronage centre",
+            "DANDIN → named court-associated author"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BILINGUAL INSCRIPTIONS → Tamil and Sanskrit",
+            "GRANTHA → court-script intervention"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KANCHIPURAM → patronage centre",
+            "DANDIN → named court-associated author"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BILINGUAL INSCRIPTIONS → Tamil and Sanskrit; GRANTHA → court-script intervention.",
+      "source_references": [
+        "Pallava literature and script culture",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "VERNACULAR EXPANSION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VERNACULAR EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "NEW PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL LANGUAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER PUBLICS",
+          "role": "evidence"
+        },
+        {
+          "text": "SANSKRIT + PERSIAN",
+          "role": "primary"
+        },
+        {
+          "text": "LAYERED LITERARY ECOLOGY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BHAKTI / COURT / TRANSLATION → new production",
+        "REGIONAL LANGUAGES → wider publics",
+        "SANSKRIT + PERSIAN → continue",
+        "RESULT → layered literary ecology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BHAKTI / COURT / TRANSLATION → new production",
+            "REGIONAL LANGUAGES → wider publics"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SANSKRIT + PERSIAN → continue",
+            "RESULT → layered literary ecology"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BHAKTI / COURT / TRANSLATION → new production",
+            "REGIONAL LANGUAGES → wider publics"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BHAKTI / COURT / TRANSLATION → new production.",
+      "source_references": [
+        "Vernacular and Urdu literary publics",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STAGE-LANGUAGE HIERARCHY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STAGE-LANGUAGE HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH-STATUS CHARACTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SANSKRIT CONVENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAKRIT CONVENTION",
+          "role": "evidence"
+        },
+        {
+          "text": "HIERARCHY ENCODED IN DRAMA",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDED PERIOD AND GENRE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HIGH-STATUS CHARACTERS → Sanskrit convention",
+        "WOMEN / SHUDRAS → Prakrit convention",
+        "EVIDENCE → hierarchy encoded in drama",
+        "LIMIT → bounded period and genre"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HIGH-STATUS CHARACTERS → Sanskrit convention",
+          "EVIDENCE → hierarchy encoded in drama",
+          "HIGH-STATUS CHARACTERS → Sanskrit convention"
+        ],
+        [
+          "WOMEN / SHUDRAS → Prakrit convention",
+          "LIMIT → bounded period and genre",
+          "WOMEN / SHUDRAS → Prakrit convention"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HIGH-STATUS CHARACTERS → Sanskrit convention",
+            "WOMEN / SHUDRAS → Prakrit convention"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE → hierarchy encoded in drama",
+            "LIMIT → bounded period and genre"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HIGH-STATUS CHARACTERS → Sanskrit convention",
+            "WOMEN / SHUDRAS → Prakrit convention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE → hierarchy encoded in drama; LIMIT → bounded period and genre.",
+      "source_references": [
+        "Language as staged hierarchy",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DOCUMENTARY HERITAGE RANGE",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOCUMENTARY HERITAGE RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "RIGVEDA AND GITA MANUSCRIPTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NATYASHASTRA AND POETICS",
+          "role": "comparison"
+        },
+        {
+          "text": "DUTCH COMPANY ARCHIVES",
+          "role": "evidence"
+        },
+        {
+          "text": "CITE COMPOSITION AND INSCRIPTION SEPARATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SANSKRIT AND PRAKRIT COEXISTED; BRAHMI AND RIGHT-TO-LEFT KHAROSHTHI ARE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RELIGIOUS → Rigveda and Gita manuscripts",
+        "AESTHETIC → Natyashastra and poetics",
+        "ADMINISTRATIVE → Dutch company archives",
+        "RULE → cite composition and inscription separately",
+        "CLOSE DISTINCTION: Sanskrit and Prakrit coexisted"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RELIGIOUS → Rigveda and Gita manuscripts",
+          "ADMINISTRATIVE → Dutch company archives",
+          "CLOSE DISTINCTION: Sanskrit and Prakrit coexisted"
+        ],
+        [
+          "AESTHETIC → Natyashastra and poetics",
+          "RULE → cite composition and inscription separately",
+          "Brahmi and right-to-left Kharoshthi are scripts, Ashokan edicts are mostly Prakrit rather than Sanskrit-Devanagari, and composition, redaction, manuscript"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RELIGIOUS → Rigveda and Gita manuscripts",
+            "AESTHETIC → Natyashastra and poetics"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATIVE → Dutch company archives",
+            "RULE → cite composition and inscription separately"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Sanskrit and Prakrit coexisted",
+            "Brahmi and right-to-left Kharoshthi are scripts, Ashokan edicts are mostly Prakrit rather than Sanskrit-Devanagari, and composition, redaction, manuscript"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Sanskrit and Prakrit coexisted; Brahmi and right-to-left Kharoshthi are scripts, Ashokan edicts are mostly Prakrit rather than Sanskrit-Devanagari, and composition, redaction, manuscript and recognition dates differ.",
+      "source_references": [
+        "Manuscripts and recognition dates",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SURVEY-TO-SAFEGUARDING",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOCATE CUSTODIANS AND REPOSITORIES",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERT AND STATE REVIEW",
+          "role": "institution"
+        },
+        {
+          "text": "LANGUAGE, SCRIPT AND SUBJECT METADATA",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESERVATION AND RESEARCH",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "SANGAM TEXTS ARE RICH BUT NOT A CONNECTED DYNASTIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → locate custodians and repositories",
+        "VERIFY → expert and state review",
+        "CATALOGUE → language, script and subject metadata",
+        "CONSERVE / DIGITISE → preservation and research",
+        "EVIDENCE LIMIT: Sangam texts are rich but not a connected dynastic chronicle, work-author pairs require"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFY → locate custodians and repositories",
+            "VERIFY → expert and state review"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CATALOGUE → language, script and subject metadata",
+            "CONSERVE / DIGITISE → preservation and research"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Sangam texts are rich but not a connected dynastic chronicle, work-author pairs require",
+            "verification, and vernacular or Urdu expansion did not erase Sanskrit, Persian or multilingual coexistence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Sangam texts are rich but not a connected dynastic chronicle, work-author pairs require verification, and vernacular or Urdu expansion did not erase Sanskrit, Persian or multilingual coexistence.",
+      "source_references": [
+        "Manuscripts and recognition dates",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LANGUAGE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LANGUAGE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE CLASSIFICATION AXIS",
+          "role": "institution"
+        },
+        {
+          "text": "TEXT, INSCRIPTION OR CONVENTION",
+          "role": "evidence"
+        },
+        {
+          "text": "REGISTER, SCRIPT OR PUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "DATING, ATTRIBUTION AND STATUS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → state the classification axis",
+        "EVIDENCE → text, inscription or convention",
+        "COMPARE → register, script or public",
+        "QUALIFY → dating, attribution and status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → state the classification axis",
+            "EVIDENCE → text, inscription or convention"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → register, script or public",
+            "QUALIFY → dating, attribution and status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → state the classification axis",
+            "EVIDENCE → text, inscription or convention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → register, script or public; QUALIFY → dating, attribution and status.",
+      "source_references": [
+        "Verified PYQs and final language answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\11_Languages-Scripts-Literature-and-Manuscripts.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g2\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g3\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNESCO/UN INDIA CONFIRM 14 INDIAN INTERNATIONAL REGISTER INSCRIPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING A MEMORY OF THE WORLD INSCRIPTION YEAR AS",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUMING THE SANSKRIT/PRAKRIT ON-STAGE CONVENTION APPLIED UNIFORMLY",
+          "role": "evidence"
+        },
+        {
+          "text": "GIVING A SINGLE EXACT DATE TO A LAYERED ORAL/TEXTUAL",
+          "role": "primary"
+        },
+        {
+          "text": "DESCRIBING REGIONAL-LANGUAGE GROWTH AS A ZERO-SUM VICTORY OVER",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING INDIA'S MEMORY OF THE WORLD ENTRIES AS EXCLUSIVELY",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITY OWNS THE EIGHTH SCHEDULE AND ARTICLE 343 CONSTITUTIONAL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "UNESCO/UN India confirm 14 Indian International Register inscriptions,",
+            "NOT: Treating a Memory of the World inscription year as the text's",
+            "NOT: Assuming the Sanskrit/Prakrit on-stage convention applied uniformly",
+            "NOT: Giving a single exact date to a layered oral/textual corpus."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Describing regional-language growth as a zero-sum victory over",
+            "NOT: Treating India's Memory of the World entries as exclusively religious",
+            "NOT: Polity owns the Eighth Schedule and Article 343 constitutional",
+            "NOT: Ancient/Medieval History owns the detailed political-patronage"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "This file's composition-vs-recognition-date discipline is directly",
+            "00 Master-Framework.md Section 5 — the current-claim verification",
+            "CAUTION: Cross-links: Topic 03 (Pallava/Dandin literary evidence), Topic",
+            "Verified against Nitin — pdf , PDF p. 584 and PDF pp. 619-621 directly,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

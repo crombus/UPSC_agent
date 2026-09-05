@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-11",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-11",
+  "title": "Parliamentary System",
+  "generation_date": "2026-08-24",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Parliamentary System",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-11_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\11_Parliamentary-System_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\11_Parliamentary-System.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+    "books\\more_previous_papers\\GENERAL STUDIES PAPER II.pdf",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://cabsec.gov.in/",
+    "https://sansad.in/ls"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\11_Parliamentary-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\11_Parliamentary-System_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-11_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+    "books\\more_previous_papers\\GENERAL STUDIES PAPER II.pdf",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-11.json",
+    "upsc-ai-kit\\manifests\\exports\\polity-11-source-pyq-current-audit-2026-08-24.json"
+  ],
+  "practice_profile": "5 verified routed PYQs; 24 hard original MCQs; 8 remedial MCQs; 6 original solved Mains questions plus diagnostic practice; confidence, comparison and diagram practice retained.",
+  "current_linkage_note": "Cabinet Secretariat and Digital Sansad were accessed on 24 August 2026. Cabinet coordination is the institutional anchor; the 129th Bill remains a proposal and Article 82A is not current text.",
+  "pyq_status_note": "Exact wording retained for 5 routed PYQs. Historical objective keys remain explicitly inferred; Mains models are independent."
+}

@@ -1,0 +1,461 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-30",
+  "scope": "Political Theory subject-wide syllabus topic 04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-04",
+      "title": "Marxism and Neo-Marxism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g4\\topic-04_Complete-Learning-Session_2026-08-30.md",
+      "source_record": "political-theory-04:learner-v2:g4",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Marxism, Scientific Socialism and Core Vocabulary",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Marxism, Scientific Socialism and Core Vocabulary",
+            "  [1] Marxism: a set of political and economic principles founded by Marx and Engels to",
+            "      give socialism a scientific basis through historical analysis of conflict between",
+            "      antagonistic classes. (PDF p.47)",
+            "        |",
+            "        v",
+            "  [2] Classical Marxism: the original scientific system centred on property, class",
+            "      division, contradiction and revolutionary transformation. (PDF p.47)",
+            "        |",
+            "        v",
+            "  [3] Gauba presents classical Marxism through four main tenets: dialectical materialism,",
+            "      historical materialism, class conflict and surplus value. (PDF p.48, p.52)",
+            "        |",
+            "        v",
+            "  [4] Marxism explains why formal legal equality can coexist with deep economic inequality",
+            "      under capitalism. (PDF pp.46-47)",
+            "        |",
+            "        v",
+            "  [5] Neo-Marxism shows why domination cannot be reduced only to factory ownership;",
+            "      culture, communication and ideology also matter. (PDF pp.53-54)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Marxism, Scientific Socialism and Core Vocabulary is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "The Classical Marxist Argument and Essential Distinctions",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Classical Marxist Argument and Essential Distinctions",
+            "  [1] Classical Marxism vs neo-Marxism: classical Marxism emphasizes property, class",
+            "      contradiction and revolution; neo-Marxism widens the lens to ideology, culture and",
+            "      new forms of domination. (PDF pp.47, 53-54)",
+            "        |",
+            "        v",
+            "  [2] Gauba begins with capitalism's oppressive conditions and presents Marxism as a",
+            "      response to the failure of laissez-faire liberalism to deliver real human freedom.",
+            "      (PDF pp.46-47)",
+            "        |",
+            "        v",
+            "  [3] Marxism argues that private property in the means of production divides society into",
+            "      dominant and dependent classes with antagonistic interests. (PDF p.47)",
+            "        |",
+            "        v",
+            "  [4] The mode of production shapes the social structure; when productive forces clash",
+            "      with existing relations of production, revolution replaces one social formation with",
+            "      another. (PDF pp.48-50)",
+            "        |",
+            "        v",
+            "  [5] Class struggle continues from slave society to feudalism to capitalism, and Marxism",
+            "      expects a socialist revolution to end this cycle in a classless society. (PDF",
+            "      pp.49-52)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The Classical Marxist Argument and Essential Distinctions is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Thinkers, Illustrations and the Three-Strand Matrix",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Thinkers, Illustrations and the Three-Strand Matrix",
+            "  [1] Marx and Engels: founders of Marxism and scientific socialism; they treat history as",
+            "      struggle rooted in the mode of production. (PDF p.47)",
+            "        |",
+            "        v",
+            "  [2] Lenin, Rosa Luxemburg and Mao Zedong: Gauba lists them among chief exponents of",
+            "      classical Marxism. (PDF p.47)",
+            "        |",
+            "        v",
+            "  [3] Young Marx: Gauba highlights the early humanist Marx on alienation, freedom and",
+            "      capitalism's dehumanizing effects. (PDF p.47)",
+            "        |",
+            "        v",
+            "  [4] Frankfurt School: Adorno, Horkheimer, Marcuse and Habermas extend Marxism through",
+            "      critical theory and ideology critique. (PDF p.53)",
+            "        |",
+            "        v",
+            "  [5] Herbert Marcuse: argues that advanced bourgeois society reduces human beings to",
+            "      one-dimensionality by anaesthetizing discontent through manipulated desires. (PDF",
+            "      p.54)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Thinkers, Illustrations and the Three-Strand Matrix is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Ownership Boundaries and UPSC Trap Repair",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Ownership Boundaries and UPSC Trap Repair",
+            "  [1] Forces of production vs relations of production: forces include means of production",
+            "      plus labour power; relations concern ownership patterns and class relations.",
+            "        |",
+            "        v",
+            "  [2] Human problem: Exploitation rooted in ownership of means of production.",
+            "        |",
+            "        v",
+            "  [3] Mode of production: forces of production (means of production plus labour",
+            "      power/technique) combine with relations of production (ownership patterns and class",
+            "      relations) to form the economic base (Gauba, PDF pp.48-49).",
+            "        |",
+            "        v",
+            "  [4] Fetter/rupture mechanism: when the forces of production (technique, productive",
+            "      capacity) develop beyond what the existing relations of production (ownership",
+            "      patterns) can accommodate, the relations become a fetter on further development;",
+            "      revolution breaks that fetter and replaces one social formation with another across",
+            "      the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba,",
+            "      PDF p.49).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Ownership Boundaries and UPSC Trap Repair is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Historical Materialism Without Mechanical Determinism",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Historical Materialism Without Mechanical Determinism",
+            "  [1] Historical materialism restated as a mechanism: economic relations of production,",
+            "      distribution and exchange play the decisive role in shaping wider social and",
+            "      political life (Gauba, PDF p.48).",
+            "        |",
+            "        v",
+            "  [2] Show class struggle across historical stages and end with proletarian revolution.",
+            "      (PDF pp.49-52)",
+            "        |",
+            "        v",
+            "  [3] Base-superstructure — non-mechanical: the base is the mode of production; the",
+            "      superstructure is law, politics, religion, morals, art and culture. Gauba's own",
+            "      neo-Marxist section explicitly records growing recognition of interdependence",
+            "      between base and superstructure, rejecting a crude, one-way, mechanical",
+            "      determination of the superstructure by the base (Gauba, PDF pp.48, 53).",
+            "        |",
+            "        v",
+            "  [4] Start with Marxism as scientific socialism responding to capitalist exploitation.",
+            "      (PDF pp.46-47)",
+            "        |",
+            "        v",
+            "  [5] Explain base, superstructure, forces of production and relations of production",
+            "      clearly. (PDF pp.48-49)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Historical Materialism Without Mechanical Determinism is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Class, State, Exploitation and Alienation",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Class, State, Exploitation and Alienation",
+            "  [1] Read together: exploitation (surplus value), domination (state as class instrument)",
+            "      and dehumanization (alienation) are three faces of the same underlying property",
+            "      relation, not three unrelated Marxist claims — a strong answer connects them rather",
+            "      than listing them separately.",
+            "        |",
+            "        v",
+            "  [2] Class: private property in the means of production divides society into dominant",
+            "      (owning) and dependent classes with antagonistic interests, driving conflict across",
+            "      historical stages toward an expected socialist/classless resolution (Gauba, PDF",
+            "      pp.47, 49-52).",
+            "        |",
+            "        v",
+            "  [3] Alienation: the \"Young Marx\"/humanist strain of neo-Marxism centres on alienation,",
+            "      freedom and capitalism's dehumanizing effects on the worker (Gauba, PDF p.47). The",
+            "      mechanism: wage-labour separates the worker from the product of labour and from the",
+            "      labour process itself, and, in humanist readings, from a fully developed human",
+            "      nature and from fellow workers — a separation that operates even before any single",
+            "      surplus-value calculation is made.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Class, State, Exploitation and Alienation is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Gramsci and the Frankfurt School",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Gramsci and the Frankfurt School",
+            "  [1] Antonio Gramsci — cross-referenced from Gauba's treatment of hegemony in the",
+            "      power/authority chapter (Gauba, PDF pp.306, 309-311), rather than from the Marxism",
+            "      chapter's own PDF pp.46-54 range — adds hegemony, civil society and structures of",
+            "      legitimation to explain why capitalist rule survives through consent as well as",
+            "      coercion: capitalist class power is secured not only through the coercive state but",
+            "      through cultural and ideological leadership exercised in civil society.",
+            "        |",
+            "        v",
+            "  [2] This is a genuine neo-Marxist departure: Gramsci gives relative autonomy to the",
+            "      superstructure (culture, ideas, civil-society institutions) rather than treating it",
+            "      as simply base-determined, extending the non-mechanical base-superstructure point of",
+            "      §12.",
+            "        |",
+            "        v",
+            "  [3] Adorno, Horkheimer, Marcuse and Habermas are named together by Gauba as extending",
+            "      Marxism through critical theory and ideology critique (Gauba, PDF p.53).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Gramsci and the Frankfurt School is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Althusser, Dependency Theory and Classification Cautions",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Althusser, Dependency Theory and Classification Cautions",
+            "  [1] Louis Althusser represents the \"scientific\" strain of neo-Marxism, resisting a",
+            "      purely humanist Marxism and insisting on analysing deep social structures,",
+            "      especially modes of production, rather than centring alienation and consciousness",
+            "      (Gauba, PDF p.54).",
+            "        |",
+            "        v",
+            "  [2] Gauba's own text names \"dependency theorists\" as extending the axis of Marxist",
+            "      struggle from domestic class conflict to developing nations confronting colonialism",
+            "      and neo-colonialism (Gauba, PDF p.54).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Althusser, Dependency Theory and Classification Cautions is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Objections, Qualified Thesis, Evidence and Doctrine Architecture",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Objections, Qualified Thesis, Evidence and Doctrine Architecture",
+            "  [1] Premises: (a) private property in the means of production divides society into",
+            "      antagonistic classes (Gauba, PDF p.47); (b) the mode of production — forces plus",
+            "      relations of production — forms the base, shaping law, politics and culture as",
+            "      superstructure (Gauba, PDF p.48); (c) productive forces and relations of production",
+            "      can come into conflict (Gauba, PDF p.49).",
+            "        |",
+            "        v",
+            "  [2] Mechanism: when forces of production outgrow existing relations of production, the",
+            "      relations become a fetter that is broken by revolution, producing a new social",
+            "      formation (§12); this economic-class mechanism operates through and is reproduced by",
+            "      state power as a class instrument (§13) and is experienced by individuals as",
+            "      alienation (§13). Neo-Marxists (§14) extend the mechanism by adding culture/hegemony",
+            "      (Gramsci), critical theory (Frankfurt School), structural analysis (Althusser) and",
+            "      international core-periphery relations (dependency theory) as additional — not",
+            "      substitute — sites where the same underlying property-based conflict is reproduced",
+            "      or contested.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Objections, Qualified Thesis, Evidence and Doctrine Architecture is best",
+            "             presented through its central claim, causal logic, strongest limit and qualified",
+            "             verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Indian Application, Mark-Scaled Answers and Proposition Discipline",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Indian Application, Mark-Scaled Answers and Proposition Discipline",
+            "  [1] When an Indian policy debate is framed only as a technical/administrative matter,",
+            "      the non-mechanical base-superstructure relation (§12) and Gramscian hegemony (§14.1)",
+            "      together supply the question of whether an apparently neutral legal or",
+            "      administrative arrangement is doing quiet work to protect an existing economic",
+            "      arrangement — to be paired with the candidate's own independently verified",
+            "      Polity/Economy facts, not asserted here.",
+            "        |",
+            "        v",
+            "  [2] The Habermas generation caveat (§14.2) and the dependency/world-systems",
+            "      classification caution (§14.4) are flagged specifically because they are standard",
+            "      scholarly clarifications, not independently page-anchored against the Marxism",
+            "      chapter's own PDF pp.46-54 range; do not upgrade them to status or attach a specific",
+            "      book title/year/page without independent verification.",
+            "        |",
+            "        v",
+            "  [3] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,",
+            "      Fifth Edition (2009), Ch.2, PDF pp.46-54, with a cross-chapter Gramsci anchor at PDF",
+            "      pp.306, 309-311 (power/authority chapter).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Indian Application, Mark-Scaled Answers and Proposition Discipline is best",
+            "             presented through its central claim, causal logic, strongest limit and qualified",
+            "             verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Marxism: a set of political and economic principles founded by Marx and Engels to",
+            "      give socialism a scientific basis through historical analysis of conflict between",
+            "      antagonistic classes.",
+            "        |",
+            "        v",
+            "  [2] Classical Marxism: the original scientific system centred on property, class",
+            "      division, contradiction and revolutionary transformation.",
+            "        |",
+            "        v",
+            "  [3] Neo-Marxism: later Marxist thought that studies subtler forms of dominance,",
+            "      alienation and paths to human emancipation.",
+            "        |",
+            "        v",
+            "  [4] Dialectical materialism: the view that matter, not idea, is fundamental, and that",
+            "      contradictions in material conditions drive development.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] The consistency argument. If the means of production are brought under genuinely",
+            "      social, democratic control, then the structural coercion of the wage-relation is",
+            "      removed and freedom is EXTENDED to those the market subordinated -- collective",
+            "      ownership is the condition, not the enemy, of real freedom.",
+            "        |",
+            "        v",
+            "  [2] Reframe \"freedom\". Marx rejects a purely negative liberty (non-interference) that",
+            "      leaves formal rights operating over radically unequal social conditions. His",
+            "      positive ideal is non-domination PLUS self-development: the capacity to engage in",
+            "      conscious, social, creative activity, of which alienated labour deprives the worker",
+            "      (evidence P3 -- estrangement from product, activity, species-being and others).",
+            "        |",
+            "        v",
+            "  [3] What the free market vindicates in Marx. Concentration of capital, commodification,",
+            "      precarity, recurrent crises and the ideological normalisation of market relations",
+            "      remain live phenomena the analysis still explains (evidence P2 -- the contradiction",
+            "      between developing forces and existing relations; P4 -- structural exploitation",
+            "      through surplus value, argued as a relation, not via the contested price theory).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

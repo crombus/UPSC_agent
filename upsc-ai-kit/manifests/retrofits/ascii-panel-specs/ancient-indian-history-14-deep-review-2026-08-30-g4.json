@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-14",
+      "display_title": "The Mauryan Empire",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mauryan source hierarchy",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "CONTEMPORARY: Ashokan edicts -> royal voice, command and self-presentation",
+            "MATERIAL: sites, pillars, caves, coins -> context, craft and circulation",
+            "FRAGMENTARY: Megasthenes via later authors -> court and ethnographic reports",
+            "NORMATIVE: Arthashastra -> statecraft possibilities, not a Mauryan manual",
+            "TRADITION: Buddhist, Jaina, Puranic accounts -> dynastic and religious memory",
+            "                         |",
+            "                         v",
+            "Strong claim = convergence across source classes + stated audience and limit."
+          ],
+          "source_references": [
+            "Source hierarchy",
+            "Evidence labels",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Dynastic chronology and ruler differentiation",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 324/321 BCE  Chandragupta: foundation after Nandas",
+            "c. 305-301 BCE  Seleucus conflict and treaty tradition",
+            "c. 300/297-273  Bindusara: continuity, limited direct evidence",
+            "c. 268/273-232  Ashoka: inscriptions, Kalinga and dhamma",
+            "232-c. 187/185  Later Mauryas; evidence becomes thin",
+            "Accession and consecration dates can differ.",
+            "Kalinga followed eight completed years after consecration.",
+            "Do not convert alternative chronologies into one false exact sequence."
+          ],
+          "source_references": [
+            "Chronology method",
+            "Ruler differentiation",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Imperial geography: scale with differentiated control",
+          "structural_type": "spatial-system",
+          "ascii_lines": [
+            "PATALIPUTRA / GANGA CORE",
+            "       |-- Taxila / north-west",
+            "       |-- Ujjain / western routes",
+            "       |-- Tosali / Kalinga",
+            "       `-- Suvarnagiri / southern zone",
+            "EDICT DISTRIBUTION -> communication reach, not a cadastral frontier",
+            "CORE + PROVINCES + FRONTIERS + ALLIED/PERIPHERAL ZONES",
+            "Virtually subcontinental ambition coexisted with uneven administrative depth."
+          ],
+          "source_references": [
+            "Territorial extent",
+            "Differentiated empire",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Administrative chain and local mediation",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "KING AND CENTRAL COURT",
+            "        |",
+            "princes / provincial centres",
+            "        |",
+            "mahamattas -> pradeshikas -> rajukas -> yuktas",
+            "        |",
+            "local officials, householders, guilds and communities",
+            "Hierarchy enabled scale; intermediaries created adaptation and information gaps."
+          ],
+          "source_references": [
+            "Central and provincial administration",
+            "Officials",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Revenue, army and political economy",
+          "structural_type": "causal-cycle",
+          "ascii_lines": [
+            "AGRICULTURE + TRADE + MINES/FORESTS + DUES",
+            "                     |",
+            "                  REVENUE",
+            "                     |",
+            "army + officials + roads + reservoirs + royal establishments",
+            "                     |",
+            "security and integration can enlarge production and exchange",
+            "CAUTION: Arthashastra detail is prescriptive; actual rates and control varied."
+          ],
+          "source_references": [
+            "Political economy",
+            "Revenue and army",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Ashokan inscriptional communication",
+          "structural_type": "communication-map",
+          "ascii_lines": [
+            "ROYAL MESSAGE",
+            "   |-- Major Rock Edicts: broad policy and dhamma",
+            "   |-- Minor Rock Edicts: personal religious commitment",
+            "   |-- Pillar Edicts: mature governance and dhamma",
+            "   |-- Separate Kalinga Edicts: provincial justice and confidence",
+            "   `-- Cave/dedication records: patronage",
+            "Prakrit-Brahmi predominates; Kharosthi, Greek and Aramaic mark adaptation.",
+            "An edict proves communication effort, not uniform reception or enforcement."
+          ],
+          "source_references": [
+            "Ashokan inscriptions",
+            "Regional communication",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Dhamma: ethical governance and imperial mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM",
+            "                         |",
+            "respect for elders + non-injury + sectarian restraint + welfare + self-control",
+            "                         |",
+            "dhamma-mahamattas + tours + edicts + oral proclamation",
+            "                         v",
+            "ethical legitimation and social concord within continuing monarchy",
+            "LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism."
+          ],
+          "source_references": [
+            "Dhamma",
+            "Political ethics",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Kalinga: remorse without disappearance of coercion",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "KALINGA WAR -> deaths, deportation and suffering in Rock Edict XIII",
+            "                  |",
+            "remorse + preference for dhamma-vijaya",
+            "                  |",
+            "yet army, punishment, capital penalty and forest warning remain",
+            "                  v",
+            "VERDICT: ethical reorientation constrained conquest; it did not dissolve the state.",
+            "TRAP: Kalinga did not cause an instant first conversion to Buddhism."
+          ],
+          "source_references": [
+            "Kalinga war",
+            "Coercion and dhamma",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mauryan art and monumental statecraft",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "PILLARS: monolithic shafts + polished stone + animal capitals + inscriptions",
+            "STUPAS: Ashokan cores later enlarged and embellished",
+            "CAVES: Barabar patronage and polished interiors",
+            "PALACE/CITY: Pataliputra and Kumhrar evidence with dating/function cautions",
+            "POPULAR ART: terracottas and large stone figures with disputed labels",
+            "INFLUENCE: Achaemenid/Hellenistic comparisons + distinctive Mauryan transformation",
+            "Monuments communicated power, patronage and dhamma across selected landscapes.",
+            "Date every layer separately; visible monuments are often multi-period."
+          ],
+          "source_references": [
+            "Art and architecture",
+            "Monumental communication",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "External relations and frontier diplomacy",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "CHANDRAGUPTA <-> SELEUCUS: conflict, treaty and diplomatic tradition",
+            "MEGASTHENES -> Mauryan court observation through later quotations",
+            "BINDUSARA -> Hellenistic diplomatic traditions with thin evidence",
+            "ASHOKA -> named Hellenistic kings in edictal moral geography",
+            "NORTH-WEST -> Greek and Aramaic inscriptions",
+            "SOUTH/FRONTIERS -> Cholas, Pandyas and others named beyond direct core rule",
+            "Diplomacy joined military security, trade routes and royal prestige.",
+            "Do not turn named neighbours into proven annexed provinces."
+          ],
+          "source_references": [
+            "Foreign relations",
+            "Seleucid treaty",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Centralisation debate and Arthashastra trap",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "STRONG CENTRAL MODEL             DIFFERENTIATED MODEL",
+            "large army and officer lists     distance and slow communication",
+            "revenue and royal commands       provinces and local intermediaries",
+            "Arthashastra possibilities       archaeology and regional variation",
+            "              \\                  /",
+            "               \\-- SYNTHESIS ---/",
+            "Selective high capacity at strategic nodes, uneven depth elsewhere.",
+            "Arthashastra sharpens questions; it cannot be copied as an organisation chart."
+          ],
+          "source_references": [
+            "Historiography",
+            "Centralisation debate",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Examiner-ready Mauryan answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INTRO: define the empire through source plurality and differentiated scale.",
+            "BODY 1: rulers, chronology and geography",
+            "BODY 2: administration, revenue, army and local mediation",
+            "BODY 3: Ashokan inscriptions, Kalinga and dhamma",
+            "BODY 4: art, economy, external relations and regional variation",
+            "COUNTER: source bias, Arthashastra limits and intention-versus-practice gap",
+            "CONCLUSION: unprecedented scale and communication, but not uniform control.",
+            "WRITE: claim -> edict/site/text -> mechanism -> qualification."
+          ],
+          "source_references": [
+            "Mains answer architecture",
+            "Consolidated register notes",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g4\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

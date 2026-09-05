@@ -1,0 +1,981 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-02",
+  "subject": "Economy",
+  "title": "GROWTH, DEVELOPMENT, HDI, IHDI AND MPI",
+  "short_route": "GROWTH IS THE INPUT → CAPABILITY CONVERSION → HDI THREE-DIMENSION FRAME → HDI-TO-IHDI DISCOUNT → MPI HOUSEHOLD LENS → H TIMES A FORMULA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\learning-sessions\\v2\\subject-wide-syllabus\\economy-02_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-02-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "e5f9ece0d8056f2dc8c40da094f8b794327a3a9808cabe1b74c5b3d36cdea804",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GROWTH IS THE INPUT, NOT THE VERDICT",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GROWTH IS THE INPUT, NOT THE VERDICT",
+          "role": "caution"
+        },
+        {
+          "text": "REAL OUTPUT GROWTH",
+          "role": "outcome"
+        },
+        {
+          "text": "INCOME + PROFITS + FISCAL CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "JOBS + PUBLIC SERVICES + HOUSEHOLD INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPMENT ONLY IF CAPABILITIES BROADEN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "REAL OUTPUT GROWTH",
+        "income + profits + fiscal capacity",
+        "jobs + public services + household investment",
+        "DEVELOPMENT ONLY IF capabilities broaden"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "REAL OUTPUT GROWTH",
+            "income + profits + fiscal capacity"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "jobs + public services + household investment",
+            "DEVELOPMENT ONLY IF capabilities broaden"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "REAL OUTPUT GROWTH",
+            "income + profits + fiscal capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "jobs + public services + household investment; DEVELOPMENT ONLY IF capabilities broaden.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CAPABILITY CONVERSION",
+      "structural_type": "conversion-funnel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAPABILITY CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH + EDUCATION + NUTRITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIVE FREEDOMS",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOME CAN RISE WITHOUT CONVERSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "health + education + nutrition",
+        "substantive freedoms",
+        "LIMIT → income can rise without conversion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "health + education + nutrition",
+            "substantive freedoms"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → income can rise without conversion",
+            "health + education + nutrition"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "substantive freedoms",
+            "LIMIT → income can rise without conversion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "substantive freedoms; LIMIT → income can rise without conversion.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HDI THREE-DIMENSION FRAME",
+      "structural_type": "three-axis-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HDI THREE-DIMENSION FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "LIFE EXPECTANCY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPECTED + MEAN YEARS OF SCHOOLING",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVING STANDARD",
+          "role": "evidence"
+        },
+        {
+          "text": "GNI PER CAPITA",
+          "role": "primary"
+        },
+        {
+          "text": "GEOMETRIC MEAN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HEALTH → life expectancy",
+        "EDUCATION → expected + mean years of schooling",
+        "LIVING STANDARD → GNI per capita",
+        "AGGREGATION → geometric mean"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "HEALTH → life expectancy",
+            "EDUCATION → expected + mean years of schooling"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "LIVING STANDARD → GNI per capita",
+            "AGGREGATION → geometric mean"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "HEALTH → life expectancy",
+            "EDUCATION → expected + mean years of schooling"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EDUCATION → expected + mean years of schooling.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HDI-TO-IHDI DISCOUNT",
+      "structural_type": "inequality-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HDI-TO-IHDI DISCOUNT",
+          "role": "primary"
+        },
+        {
+          "text": "AVERAGE ACHIEVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "INEQUALITY WITHIN EACH DIMENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "ACHIEVEMENT DISCOUNTED",
+          "role": "evidence"
+        },
+        {
+          "text": "ZERO INEQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "IHDI EQUALS HDI",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HDI → average achievement",
+        "INEQUALITY WITHIN EACH DIMENSION",
+        "achievement discounted",
+        "ZERO INEQUALITY → IHDI equals HDI"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "HDI → average achievement",
+            "INEQUALITY WITHIN EACH DIMENSION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "achievement discounted",
+            "ZERO INEQUALITY → IHDI equals HDI"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "HDI → average achievement",
+            "INEQUALITY WITHIN EACH DIMENSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "achievement discounted; ZERO INEQUALITY → IHDI equals HDI.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MPI HOUSEHOLD LENS",
+      "structural_type": "deprivation-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MPI HOUSEHOLD LENS",
+          "role": "primary"
+        },
+        {
+          "text": "LIVING STANDARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERLAPPING DEFICITS",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT AN INCOME-ONLY CLASSIFICATION",
+          "role": "caution"
+        },
+        {
+          "text": "COMPOSITION AND TARGETING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LIVING STANDARDS",
+        "HOUSEHOLD → overlapping deficits",
+        "NOT AN INCOME-ONLY CLASSIFICATION",
+        "USE → composition and targeting"
+      ],
+      "matrix": [
+        [
+          "CONCEPT / ACCOUNTING BASIS",
+          "TRANSMISSION / RECONCILIATION",
+          "DISTRIBUTIONAL / STABILITY LIMIT"
+        ],
+        [
+          "LIVING STANDARDS",
+          "NOT AN INCOME-ONLY CLASSIFICATION",
+          "LIVING STANDARDS"
+        ],
+        [
+          "HOUSEHOLD → overlapping deficits",
+          "USE → composition and targeting",
+          "HOUSEHOLD → overlapping deficits"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "LIVING STANDARDS",
+            "HOUSEHOLD → overlapping deficits"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "NOT AN INCOME-ONLY CLASSIFICATION",
+            "USE → composition and targeting"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "LIVING STANDARDS",
+            "HOUSEHOLD → overlapping deficits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT AN INCOME-ONLY CLASSIFICATION; USE → composition and targeting.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "H TIMES A FORMULA",
+      "structural_type": "equation-band",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "H TIMES A FORMULA",
+          "role": "primary"
+        },
+        {
+          "text": "HOW MANY ARE POOR",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW DEPRIVED THE POOR ARE",
+          "role": "comparison"
+        },
+        {
+          "text": "H X A",
+          "role": "evidence"
+        },
+        {
+          "text": "H AND A CAN MOVE DIFFERENTLY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "H → incidence: how many are poor",
+        "A → intensity: how deprived the poor are",
+        "MPI = H x A",
+        "TRAP → H and A can move differently"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "H → incidence: how many are poor",
+            "A → intensity: how deprived the poor are"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "MPI = H x A",
+            "TRAP → H and A can move differently"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "H → incidence: how many are poor",
+            "A → intensity: how deprived the poor are"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → H and A can move differently.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INCOME LINE VERSUS MPI",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INCOME LINE VERSUS MPI",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOME LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONETARY THRESHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "WEIGHTED DEPRIVATION OVERLAP",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFER ADEQUACY",
+          "role": "primary"
+        },
+        {
+          "text": "SECTORAL COMPOSITION OF DEPRIVATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INCOME LINE → monetary threshold",
+        "MPI → weighted deprivation overlap",
+        "INCOME → transfer adequacy",
+        "MPI → sectoral composition of deprivation"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "INCOME LINE → monetary threshold",
+          "INCOME → transfer adequacy",
+          "INCOME LINE → monetary threshold"
+        ],
+        [
+          "MPI → weighted deprivation overlap",
+          "MPI → sectoral composition of deprivation",
+          "MPI → weighted deprivation overlap"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "INCOME LINE → monetary threshold",
+            "MPI → weighted deprivation overlap"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INCOME → transfer adequacy",
+            "MPI → sectoral composition of deprivation"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "INCOME LINE → monetary threshold",
+            "MPI → weighted deprivation overlap"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INCOME → transfer adequacy; MPI → sectoral composition of deprivation.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTIONS MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTIONS MAP",
+          "role": "primary"
+        },
+        {
+          "text": "HDI AND IHDI",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDP + OPHI",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL MPI",
+          "role": "evidence"
+        },
+        {
+          "text": "NITI AAYOG",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL MPI",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE DELIVERY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "UNDP → HDI and IHDI",
+        "UNDP + OPHI → global MPI",
+        "NITI AAYOG → national MPI",
+        "GOVERNMENTS → service delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "UNDP → HDI and IHDI",
+            "UNDP + OPHI → global MPI"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "NITI AAYOG → national MPI",
+            "GOVERNMENTS → service delivery"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "UNDP → HDI and IHDI",
+            "UNDP + OPHI → global MPI"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NITI AAYOG → national MPI; GOVERNMENTS → service delivery.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BELOW-STATE DIAGNOSIS",
+      "structural_type": "scale-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BELOW-STATE DIAGNOSIS",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL AVERAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE DIVERGENCE",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRICT DIVERGENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RANKING CHANGE IS NOT TRANSFORMATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NATIONAL AVERAGE",
+        "STATE DIVERGENCE",
+        "DISTRICT DIVERGENCE",
+        "RULE → ranking change is not transformation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "NATIONAL AVERAGE",
+            "STATE DIVERGENCE"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DISTRICT DIVERGENCE",
+            "RULE → ranking change is not transformation"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "NATIONAL AVERAGE",
+            "STATE DIVERGENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTRICT DIVERGENCE; RULE → ranking change is not transformation.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROTECTION VERSUS TRANSFORMATION",
+      "structural_type": "policy-fork",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROTECTION VERSUS TRANSFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WAGE FLOOR + RURAL ASSETS",
+          "role": "outcome"
+        },
+        {
+          "text": "PM POSHAN",
+          "role": "comparison"
+        },
+        {
+          "text": "NUTRITION + SCHOOLING",
+          "role": "evidence"
+        },
+        {
+          "text": "SAVINGS + AGENCY + NETWORKS",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTIVITY AND DECENT JOBS REMAIN NECESSARY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MGNREGA → wage floor + rural assets",
+        "ICDS / PM POSHAN → nutrition + schooling",
+        "SHGs → savings + agency + networks",
+        "LIMIT → productivity and decent jobs remain necessary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MGNREGA → wage floor + rural assets",
+            "ICDS / PM POSHAN → nutrition + schooling"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SHGs → savings + agency + networks",
+            "LIMIT → productivity and decent jobs remain necessary"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "MGNREGA → wage floor + rural assets",
+            "ICDS / PM POSHAN → nutrition + schooling"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → productivity and decent jobs remain necessary.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMPOSITE-INDEX LIMITS",
+      "structural_type": "limit-wheel",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMPOSITE-INDEX LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "CAN HIDE DISTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAPE RESULTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVEY TIMING",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSES SUDDEN SHOCKS",
+          "role": "primary"
+        },
+        {
+          "text": "MAY DIFFER FROM ACCESS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AVERAGE → can hide distribution",
+        "WEIGHTS → shape results",
+        "SURVEY TIMING → misses sudden shocks",
+        "QUALITY → may differ from access"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "AVERAGE → can hide distribution",
+            "WEIGHTS → shape results"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "SURVEY TIMING → misses sudden shocks",
+            "QUALITY → may differ from access"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "AVERAGE → can hide distribution",
+            "WEIGHTS → shape results"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SURVEY TIMING → misses sudden shocks; QUALITY → may differ from access.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INCLUSIVE-GROWTH ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INCLUSIVE-GROWTH ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE GROWTH AND DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE JOBS + SERVICES + CAPABILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARE HDI",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFY WITH INEQUALITY, QUALITY AND ECOLOGY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE growth and development",
+        "TRACE jobs + services + capabilities",
+        "COMPARE HDI / IHDI / MPI",
+        "QUALIFY with inequality, quality and ecology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DEFINE growth and development",
+            "TRACE jobs + services + capabilities"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "COMPARE HDI / IHDI / MPI",
+            "QUALIFY with inequality, quality and ecology"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE growth and development",
+            "TRACE jobs + services + capabilities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE HDI / IHDI / MPI; QUALIFY with inequality, quality and ecology.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE THE LEVEL OF HUMAN ACHIEVEMENT FROM ITS DISTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HDI REPORTS THE FORMER",
+          "role": "comparison"
+        },
+        {
+          "text": "MPI CAN REVEAL DEPRIVATIONS HIDDEN BY CONSUMPTION POVERTY AND",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUSIVE GROWTH HAS PROCESS, OUTCOME AND OPPORTUNITY DIMENSIONS; REDISTRIBUTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "CAPABILITY EXPANSION DEPENDS ON SERVICE QUALITY, NOT MERELY BUDGET",
+          "role": "caution"
+        },
+        {
+          "text": "DEMOGRAPHIC TRANSITION CHANGES THE POLICY MIX FROM BASIC ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "A DASHBOARD SHOULD COMBINE OUTPUT, JOBS, DISTRIBUTION, CAPABILITIES, RESILIENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Separate the level of human achievement from its distribution: HDI reports the former,",
+            "CAUTION: MPI can reveal deprivations hidden by consumption poverty and permits dimension-wise",
+            "CAUTION: Inclusive growth has process, outcome and opportunity dimensions; redistribution alone",
+            "CAUTION: Capability expansion depends on service quality, not merely budget allocations or"
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Demographic transition changes the policy mix from basic access towards learning,",
+            "CAUTION: A dashboard should combine output, jobs, distribution, capabilities, resilience and",
+            "UNDP: publishes HDI, IHDI and global MPI methodology and reports.",
+            "NITI Aayog: tracks India's national MPI and supports state-level development"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "MoSPI: supplies national accounts and social statistics needed to read growth beside",
+            "Union, state and local governments: deliver the health, education, nutrition, water",
+            "CAUTION: Two states with similar per-capita income can differ sharply in life expectancy,",
+            "CAUTION: School enrolment can improve HDI-related access while weak learning outcomes limit"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

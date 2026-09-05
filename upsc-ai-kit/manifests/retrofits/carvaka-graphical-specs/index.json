@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "generated_on": "2026-08-23",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_hashes": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "topic_count": 40,
+  "specs": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-01.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-02.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-03.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-04.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-05.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-06.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-07.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-08.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 12,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-09.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 12,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-10.json"
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "subject": "Ancient-Indian-History",
+      "source_generation": 12,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-11.json"
+    },
+    {
+      "topic_key": "geography-01",
+      "subject": "Geography",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-01.json"
+    },
+    {
+      "topic_key": "geography-02",
+      "subject": "Geography",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-02.json"
+    },
+    {
+      "topic_key": "geography-03",
+      "subject": "Geography",
+      "source_generation": 7,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-03.json"
+    },
+    {
+      "topic_key": "geography-04",
+      "subject": "Geography",
+      "source_generation": 8,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-04.json"
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "subject": "Geography",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-28-human-settlements-and-urbanisation.json"
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "subject": "Geography",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-30-primary-economic-activities-agriculture.json"
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "subject": "Geography",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-32-industries-and-industrial-regions.json"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "subject": "Philosophy",
+      "source_generation": 12,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-i-indian-philosophy-01.json"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-i-indian-philosophy-02.json"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-i-indian-philosophy-03.json"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-i-indian-philosophy-04.json"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-i-indian-philosophy-05.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "subject": "Philosophy",
+      "source_generation": 12,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-01.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-02.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-03.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "subject": "Philosophy",
+      "source_generation": 11,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-04.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "subject": "Philosophy",
+      "source_generation": 10,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-05.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "subject": "Philosophy",
+      "source_generation": 10,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-06.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "subject": "Philosophy",
+      "source_generation": 10,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-07.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "subject": "Philosophy",
+      "source_generation": 10,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-08.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "subject": "Philosophy",
+      "source_generation": 10,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-09.json"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "subject": "Philosophy",
+      "source_generation": 10,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-10.json"
+    },
+    {
+      "topic_key": "polity-01",
+      "subject": "Polity",
+      "source_generation": 13,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-01.json"
+    },
+    {
+      "topic_key": "polity-02",
+      "subject": "Polity",
+      "source_generation": 13,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-02.json"
+    },
+    {
+      "topic_key": "polity-03",
+      "subject": "Polity",
+      "source_generation": 18,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-03.json"
+    },
+    {
+      "topic_key": "polity-04",
+      "subject": "Polity",
+      "source_generation": 13,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-04.json"
+    },
+    {
+      "topic_key": "polity-05",
+      "subject": "Polity",
+      "source_generation": 13,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-05.json"
+    },
+    {
+      "topic_key": "polity-06",
+      "subject": "Polity",
+      "source_generation": 13,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-06.json"
+    },
+    {
+      "topic_key": "polity-07",
+      "subject": "Polity",
+      "source_generation": 14,
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-07.json"
+    }
+  ]
+}

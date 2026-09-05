@@ -1,0 +1,116 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\medieval-indian-history-15-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-15\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-15\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-15\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-15\medieval-indian-history-15-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-15\medieval-indian-history-15-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-15\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\15-Akbar-Consolidation-and-Expansion-of-the-Empire\README.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\previews\page-005.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-15\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\medieval-indian-history-15_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\validation\workbook-visual-audit-map.json
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\01_cover.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\02_fragile_inheritance.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\03_kalanaur_panipat.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\04_hemu_career.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\05_panipat_logic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\06_afghan_after_panipat.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\07_bairam_triangle.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\08_regency_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\09_bairam_dismissal.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\10_personal_rule.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\11_household_network.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\12_uzbek_rebellion.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\13_staircase.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\14_chronology.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\15_early_campaign_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\16_malwa.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\17_gondwana.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\18_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\19_rajput_phases.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\20_alliance_exchange.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\21_composite_elite.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\22_rajasthan_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\23_chittor_siege.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\24_chittor_memory.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\25_settlement_network.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\26_mewar_refusal.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\27_gujarat_geography.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\28_rapid_march.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\29_humayun_compare.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\30_bengal_afghans.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\31_bengal_logistics.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\32_haldi_coalitions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\33_haldi_outcome.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\34_mewar_after.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\35_rebellion.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\36_kabul_response.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\37_frontier_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\38_frontier_time.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\39_deccan_bridge.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\40_motive_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\41_akbar_humayun.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\42_sher_akbar.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\43_source_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\44_sources_contrast.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\45_public_memory.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\46_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\47_rapid_recall.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\assets\medieval-indian-history-15_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-15\g4\medieval-indian-history-15_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\15_Akbar-Consolidation-and-Expansion.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-1-a0b70e8b2a8d-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-1-a0b70e8b2a8d.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-15-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-15-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-15-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\medieval-indian-history-15-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Medieval-Indian-History\deep-review\medieval-indian-history-15-g4.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\15-akbar-consolidation-expansion-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus-content-specs\medieval-indian-history-15-g4.json
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

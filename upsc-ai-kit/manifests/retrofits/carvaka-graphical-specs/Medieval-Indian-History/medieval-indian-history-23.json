@@ -1,0 +1,1135 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-23",
+  "subject": "Medieval-Indian-History",
+  "title": "THE MARATHAS, SHIVAJI & AURANGZEB'S DECCAN; JAGIRDARI CRISIS",
+  "short_route": "WESTERN DECCAN: TERRAIN BECOMES → CHRONOLOGY FROM THE 1640S → PURANDAR, AGRA AND RECOVERY → CORONATION AND THE LANGUAGE → ASHTAPRADHAN: EIGHT OFFICES, NOT → CHAUTH AND SARDESHMUKHI ARE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-23_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-23-25-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "c29fedb8ff4d1ac5ca105f5a5620db240f5641fe183274a86464c98873282395",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WESTERN DECCAN: TERRAIN BECOMES A FORT NETWORK",
+      "structural_type": "spatial-system",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WESTERN DECCAN",
+          "role": "primary"
+        },
+        {
+          "text": "TERRAIN BECOMES A FORT NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "SAHYADRI RIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "HEIGHT, NARROW PASSES AND MONSOON FRICTION",
+          "role": "evidence"
+        },
+        {
+          "text": "MAVAL VALLEYS",
+          "role": "primary"
+        },
+        {
+          "text": "RECRUITS, GRAIN, LOCAL INTELLIGENCE AND SHORT MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "KONKAN COAST",
+          "role": "comparison"
+        },
+        {
+          "text": "CREEKS, CUSTOMS, PORTS AND ACCESS TO MARITIME RIVALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAHYADRI RIDGE → height, narrow passes and monsoon friction",
+        "MAVAL VALLEYS → recruits, grain, local intelligence and short movement",
+        "KONKAN COAST → creeks, customs, ports and access to maritime rivals",
+        "FORT NODE → garrison + store + signal + refuge + route surveillance",
+        "NETWORK EFFECT → inland plateau, passes and coast support one another"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAHYADRI RIDGE → height, narrow passes and monsoon friction",
+            "MAVAL VALLEYS → recruits, grain, local intelligence and short movement"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KONKAN COAST → creeks, customs, ports and access to maritime rivals",
+            "FORT NODE → garrison + store + signal + refuge + route surveillance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NETWORK EFFECT → inland plateau, passes and coast support one another",
+            "LIMIT → geography enables choices; organisation converts it into power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → geography enables choices; organisation converts it into power.",
+      "source_references": [
+        "Western Deccan",
+        "Maval",
+        "Konkan",
+        "Fort network"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CHRONOLOGY FROM THE 1640S TO 1707",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY FROM THE 1640S TO 1707",
+          "role": "primary"
+        },
+        {
+          "text": "TORNA, MURUMBDEV-RAJGAD AND KONDANA BUILD A POONA-MAVAL BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "POONA RAID",
+          "role": "comparison"
+        },
+        {
+          "text": "AGRA RUPTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "TERRITORIAL RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "RAIGAD CORONATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHIVAJI DIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SAMBHAJI EXECUTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1640s → Torna, Murumbdev-Rajgad and Kondana build a Poona-Maval base",
+        "1656 → Javli",
+        "1659 → Pratapgad",
+        "1663 → Poona raid",
+        "1664 → Surat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1640s → Torna, Murumbdev-Rajgad and Kondana build a Poona-Maval base",
+            "1656 → Javli",
+            "1659 → Pratapgad",
+            "1663 → Poona raid",
+            "1664 → Surat"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1665 → Purandar",
+            "1666 → Agra rupture",
+            "1670 → territorial recovery",
+            "1674 → Raigad coronation",
+            "1680 → Shivaji dies"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1689 → Sambhaji executed",
+            "Rajaram shifts resistance toward Jinji",
+            "1700 → Tarabai's regency",
+            "1707 → Aurangzeb dies with war unresolved."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1700 → Tarabai's regency | 1707 → Aurangzeb dies with war unresolved.",
+      "source_references": [
+        "1640s-1707",
+        "Javli",
+        "Purandar",
+        "Raigad",
+        "Tarabai"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PURANDAR, AGRA AND RECOVERY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PURANDAR, AGRA AND RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "MUGHAL PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "JAI SINGH COMBINES SIEGE, DIPLOMACY AND BIJAPUR STRATEGY",
+          "role": "comparison"
+        },
+        {
+          "text": "PURANDAR 1665",
+          "role": "evidence"
+        },
+        {
+          "text": "23 FORTS CEDED, 12 RETAINED; SAMBHAJI RECEIVES MANSAB 5000",
+          "role": "primary"
+        },
+        {
+          "text": "INCORPORATION TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE AND A RETAINED BASE COEXIST UNEASILY",
+          "role": "comparison"
+        },
+        {
+          "text": "AGRA 1666",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MUGHAL PRESSURE → Jai Singh combines siege, diplomacy and Bijapur strategy",
+        "PURANDAR 1665 → 23 forts ceded, 12 retained; Sambhaji receives mansab 5000",
+        "INCORPORATION TEST → service and a retained base coexist uneasily",
+        "AGRA 1666 → rank dispute, confinement and escape destroy political trust",
+        "RECOVERY FROM 1670 → forts and initiative return; surrender was not final"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MUGHAL PRESSURE → Jai Singh combines siege, diplomacy and Bijapur strategy",
+            "PURANDAR 1665 → 23 forts ceded, 12 retained; Sambhaji receives mansab 5000"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "INCORPORATION TEST → service and a retained base coexist uneasily",
+            "AGRA 1666 → rank dispute, confinement and escape destroy political trust"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RECOVERY FROM 1670 → forts and initiative return; surrender was not final",
+            "SOURCE RULE → escape is secure; basket details remain a source version."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE RULE → escape is secure; basket details remain a source version.",
+      "source_references": [
+        "Treaty of Purandar",
+        "Agra 1666",
+        "Recovery after 1670"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CORONATION AND THE LANGUAGE OF SOVEREIGNTY",
+      "structural_type": "legitimacy-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CORONATION AND THE LANGUAGE OF SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "POWER ALREADY BUILT",
+          "role": "mechanism"
+        },
+        {
+          "text": "FORTS, REVENUE, COMMAND AND NEGOTIATED AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RAIGAD 1674",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC CLAIM TO CHHATRAPATI SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "GAGA BHATTA",
+          "role": "outcome"
+        },
+        {
+          "text": "KSHATRIYA GENEALOGY ADDRESSES CONTESTED STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "RITUAL EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POWER ALREADY BUILT → forts, revenue, command and negotiated authority",
+        "RAIGAD 1674 → public claim to chhatrapati sovereignty",
+        "GAGA BHATTA → Kshatriya genealogy addresses contested status",
+        "RITUAL EFFECT → ruler stands above chiefs in a legible royal idiom",
+        "POLITICAL EFFECT → household, territory and administration gain one centre"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "POWER ALREADY BUILT → forts, revenue, command and negotiated authority",
+            "RAIGAD 1674 → public claim to chhatrapati sovereignty"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GAGA BHATTA → Kshatriya genealogy addresses contested status",
+            "RITUAL EFFECT → ruler stands above chiefs in a legible royal idiom"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "POLITICAL EFFECT → household, territory and administration gain one centre",
+            "LIMIT → coronation crowned state-building; it did not create capacity alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → coronation crowned state-building; it did not create capacity alone.",
+      "source_references": [
+        "Raigad 1674",
+        "Chhatrapati",
+        "Gaga Bhatta",
+        "Kshatriya debate"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ASHTAPRADHAN: EIGHT OFFICES, NOT A CABINET",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EIGHT OFFICES, NOT A CABINET",
+          "role": "caution"
+        },
+        {
+          "text": "GENERAL COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RECORDS AND INTELLIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL AFFAIRS",
+          "role": "evidence"
+        },
+        {
+          "text": "RELIGIOUS GRANTS AND DUTIES",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROL PRINCIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH OFFICE ANSWERS TO THE RULER",
+          "role": "comparison"
+        },
+        {
+          "text": "NO COLLECTIVE RESPONSIBILITY, PARLIAMENTARY CABINET OR LATER PESHWA RULE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PESHWA → general coordination",
+        "AMATYA / MAZUMDAR → finance",
+        "SACHIV → correspondence",
+        "MANTRI / WAQIA-NAVIS → records and intelligence",
+        "SENAPATI / SAR-I-NAUBAT → military"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PESHWA → general coordination",
+            "AMATYA / MAZUMDAR → finance",
+            "SACHIV → correspondence",
+            "MANTRI / WAQIA-NAVIS → records and intelligence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SENAPATI / SAR-I-NAUBAT → military",
+            "SUMANT / DABIR → external affairs",
+            "NYAYADHISH → justice",
+            "PANDITRAO → religious grants and duties"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONTROL PRINCIPLE → each office answers to the ruler",
+            "TRAP → no collective responsibility, parliamentary cabinet or later Peshwa rule."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → no collective responsibility, parliamentary cabinet or later Peshwa rule.",
+      "source_references": [
+        "Ashtapradhan",
+        "Ruler-centred offices",
+        "Cabinet trap"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CHAUTH AND SARDESHMUKHI ARE DISTINCT CLAIMS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHAUTH AND SARDESHMUKHI ARE DISTINCT CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "ONE-QUARTER FISCAL CLAIM, OFTEN TIED TO PROTECTION AND RESTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADDITIONAL TEN-PERCENT CLAIM IN A SUPERIOR-RIGHT IDIOM",
+          "role": "comparison"
+        },
+        {
+          "text": "AGENTS BARGAIN, COERCE AND OVERLAP WITH EXISTING REVENUE SYSTEMS",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "PAYMENT MAY ACKNOWLEDGE POWER WITHOUT SETTLED SOVEREIGNTY",
+          "role": "mechanism"
+        },
+        {
+          "text": "LOCAL EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "PAYER CAN SEEK RELIEF WHILE PARALLEL AUTHORITY BECOMES NORMAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHAUTH → one-quarter fiscal claim, often tied to protection and restraint",
+        "SARDESHMUKHI → additional ten-percent claim in a superior-right idiom",
+        "COLLECTION → agents bargain, coerce and overlap with existing revenue systems",
+        "POLITICAL EFFECT → payment may acknowledge power without settled sovereignty",
+        "LOCAL EFFECT → payer can seek relief while parallel authority becomes normal"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CHAUTH → one-quarter fiscal claim, often tied to protection and restraint",
+          "COLLECTION → agents bargain, coerce and overlap with existing revenue systems",
+          "LOCAL EFFECT → payer can seek relief while parallel authority becomes normal"
+        ],
+        [
+          "SARDESHMUKHI → additional ten-percent claim in a superior-right idiom",
+          "POLITICAL EFFECT → payment may acknowledge power without settled sovereignty",
+          "TRAP → neither pure plunder nor automatic lawful title explains every case."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHAUTH → one-quarter fiscal claim, often tied to protection and restraint",
+            "SARDESHMUKHI → additional ten-percent claim in a superior-right idiom"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COLLECTION → agents bargain, coerce and overlap with existing revenue systems",
+            "POLITICAL EFFECT → payment may acknowledge power without settled sovereignty"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LOCAL EFFECT → payer can seek relief while parallel authority becomes normal",
+            "TRAP → neither pure plunder nor automatic lawful title explains every case."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → neither pure plunder nor automatic lawful title explains every case.",
+      "source_references": [
+        "Chauth",
+        "Sardeshmukhi",
+        "Parallel fiscal authority"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CAVALRY AND GANIMI KAVA",
+      "structural_type": "military-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAVALRY AND GANIMI KAVA",
+          "role": "primary"
+        },
+        {
+          "text": "HORSE AND EQUIPMENT ASSOCIATED WITH STATE PROVISION",
+          "role": "institution"
+        },
+        {
+          "text": "MAINTAINS HIS OWN HORSE AND EQUIPMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "GANIMI KAVA",
+          "role": "evidence"
+        },
+        {
+          "text": "SURPRISE + INTELLIGENCE + SUPPLY ATTACK + SELECTIVE ENGAGEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FORT ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "STORES, REFUGE, SIGNALS AND ROUTE CONTROL SUSTAIN MOBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL KNOWLEDGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BARGIR → horse and equipment associated with state provision",
+        "SILHEDAR → maintains his own horse and equipment",
+        "GANIMI KAVA → surprise + intelligence + supply attack + selective engagement",
+        "FORT ANCHOR → stores, refuge, signals and route control sustain mobility",
+        "LOCAL KNOWLEDGE → converts short movement into operational advantage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BARGIR → horse and equipment associated with state provision",
+            "SILHEDAR → maintains his own horse and equipment"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GANIMI KAVA → surprise + intelligence + supply attack + selective engagement",
+            "FORT ANCHOR → stores, refuge, signals and route control sustain mobility"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LOCAL KNOWLEDGE → converts short movement into operational advantage",
+            "LIMIT → not invincibility, a social census or modern ideological insurgency."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → not invincibility, a social census or modern ideological insurgency.",
+      "source_references": [
+        "Bargir",
+        "Silhedar",
+        "Ganimi kava",
+        "Fort logistics"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COAST AND NAVY: CAPABILITY WITH SCALE LIMITS",
+      "structural_type": "coastal-network",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COAST AND NAVY",
+          "role": "primary"
+        },
+        {
+          "text": "CAPABILITY WITH SCALE LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "CREEKS, PORTS, CUSTOMS AND SEA FORTS CONNECT WAR TO",
+          "role": "comparison"
+        },
+        {
+          "text": "SIDIS OF JANJIRA, PORTUGUESE AND ENGLISH SHAPE NAVAL CHOICES",
+          "role": "evidence"
+        },
+        {
+          "text": "KOLI, BHANDARI, MUSLIM AND OTHER SAILORS PREVENT A CLOSED",
+          "role": "primary"
+        },
+        {
+          "text": "GURAB AND GALIVAT LABELS REQUIRE SOURCE AND CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "REGIONAL ESCORT, DEFENCE, RAIDING AND COASTAL COMMUNICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT AN OCEANIC BLUE-WATER NAVY OR A LICENCE TO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KONKAN → creeks, ports, customs and sea forts connect war to commerce",
+        "RIVALS → Sidis of Janjira, Portuguese and English shape naval choices",
+        "PEOPLE → Koli, Bhandari, Muslim and other sailors prevent a closed identity",
+        "VESSELS → gurab and galivat labels require source and context",
+        "CAPABILITY → regional escort, defence, raiding and coastal communication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KONKAN → creeks, ports, customs and sea forts connect war to commerce",
+            "RIVALS → Sidis of Janjira, Portuguese and English shape naval choices"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PEOPLE → Koli, Bhandari, Muslim and other sailors prevent a closed identity",
+            "VESSELS → gurab and galivat labels require source and context"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAPABILITY → regional escort, defence, raiding and coastal communication",
+            "LIMIT → not an oceanic blue-water navy or a licence to invent fleet numbers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → not an oceanic blue-water navy or a licence to invent fleet numbers.",
+      "source_references": [
+        "Konkan",
+        "Sidis",
+        "Sea forts",
+        "Regional navy"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESISTANCE AFTER SHIVAJI",
+      "structural_type": "succession-network",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RESISTANCE AFTER SHIVAJI",
+          "role": "primary"
+        },
+        {
+          "text": "SAMBHAJI 1680-89",
+          "role": "outcome"
+        },
+        {
+          "text": "LEADERSHIP UNDER PRESSURE; EXECUTION REMOVES A HEAD",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVEMENT TO JINJI CREATES STRATEGIC DEPTH BEYOND MAHARASHTRA",
+          "role": "evidence"
+        },
+        {
+          "text": "STRIKE COMMUNICATIONS AND DISPERSED IMPERIAL FORCES",
+          "role": "primary"
+        },
+        {
+          "text": "RAMCHANDRA PANT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATION AND PATRONAGE SUSTAIN NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "TARABAI FROM 1700",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAMBHAJI 1680-89 → leadership under pressure; execution removes a head",
+        "RAJARAM → movement to Jinji creates strategic depth beyond Maharashtra",
+        "SANTAJI / DHANAJI → strike communications and dispersed imperial forces",
+        "RAMCHANDRA PANT / SHANKARAJI → administration and patronage sustain networks",
+        "TARABAI FROM 1700 → regency supplies legitimacy and political coordination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAMBHAJI 1680-89 → leadership under pressure; execution removes a head",
+            "RAJARAM → movement to Jinji creates strategic depth beyond Maharashtra"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SANTAJI / DHANAJI → strike communications and dispersed imperial forces",
+            "RAMCHANDRA PANT / SHANKARAJI → administration and patronage sustain networks"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TARABAI FROM 1700 → regency supplies legitimacy and political coordination",
+            "RESULT → decapitation changes the war into a more decentralised resistance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → decapitation changes the war into a more decentralised resistance.",
+      "source_references": [
+        "Sambhaji",
+        "Rajaram",
+        "Jinji",
+        "Santaji",
+        "Dhanaji",
+        "Tarabai"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ANNEXATION REMOVES BUFFERS",
+      "structural_type": "gain-cost-balance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANNEXATION REMOVES BUFFERS",
+          "role": "primary"
+        },
+        {
+          "text": "BIJAPUR 1686 + GOLCONDA 1687",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORY, FORTS AND NOMINAL REVENUE GAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "BUFFER LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "MUGHALS NOW CONFRONT MOBILE MARATHA NETWORKS MORE DIRECTLY",
+          "role": "primary"
+        },
+        {
+          "text": "NEW CLAIMANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORBED ELITES ADD SERVICE AND JAGIR EXPECTATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW COSTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BIJAPUR 1686 + GOLCONDA 1687 → territory, forts and nominal revenue gained",
+        "BUFFER LOSS → Mughals now confront mobile Maratha networks more directly",
+        "NEW CLAIMANTS → absorbed elites add service and jagir expectations",
+        "NEW COSTS → garrisons, siege trains, supply, policing and collection friction",
+        "REALISATION PROBLEM → conquered jama does not guarantee usable hasil"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BIJAPUR 1686 + GOLCONDA 1687 → territory, forts and nominal revenue gained",
+            "BUFFER LOSS → Mughals now confront mobile Maratha networks more directly"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "NEW CLAIMANTS → absorbed elites add service and jagir expectations",
+            "NEW COSTS → garrisons, siege trains, supply, policing and collection friction"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REALISATION PROBLEM → conquered jama does not guarantee usable hasil",
+            "VERDICT → annexation enlarged the map while narrowing strategic flexibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → annexation enlarged the map while narrowing strategic flexibility.",
+      "source_references": [
+        "Bijapur 1686",
+        "Golconda 1687",
+        "Buffer removal",
+        "Deccan costs"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "JAGIRDARI TERMS AND THE FEEDBACK LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JAGIRDARI TERMS AND THE FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "RANK AND SERVICE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFERABLE REVENUE ASSIGNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESSED CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "REALISED COLLECTION",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVE ASSIGNABLE POOL",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORTAGE OF USABLE ASSIGNMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INFLATED JAMA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MANSAB → rank and service claim",
+        "JAGIR → transferable revenue assignment",
+        "JAMA → assessed claim",
+        "HASIL → realised collection",
+        "PAIBAQI → reserve assignable pool"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MANSAB → rank and service claim",
+            "JAGIR → transferable revenue assignment",
+            "JAMA → assessed claim"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HASIL → realised collection",
+            "PAIBAQI → reserve assignable pool",
+            "BE-JAGIRI → shortage of usable assignments"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "WAR / INFLATED JAMA → weak hasil → troop and remount shortfall",
+            "HARDER EXTRACTION → local resistance / private pacts → further disturbance",
+            "RESULT → fiscal, agrarian, administrative and military strain reinforce one another."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → fiscal, agrarian, administrative and military strain reinforce one another.",
+      "source_references": [
+        "Mansab",
+        "Jagir",
+        "Jama",
+        "Hasil",
+        "Paibaqi",
+        "Be-jagiri"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 23 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 23 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGY BECAME POWER THROUGH INSTITUTIONS, NETWORKS AND SOVEREIGNTY",
+          "role": "mechanism"
+        },
+        {
+          "text": "EARLY FORTS",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICES + REVENUE + CHAUTH CLAIMS + MOBILE WAR",
+          "role": "evidence"
+        },
+        {
+          "text": "TARABAI'S DECENTRALISED RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ANNEXATION AND LONG WAR INTENSIFY THE JAGIRDARI FEEDBACK LOOP",
+          "role": "outcome"
+        },
+        {
+          "text": "REJECT HERO MYTH, NATIONALISM, CABINET ANALOGY AND INSTANT COLLAPSE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → ecology became power through institutions, networks and sovereignty",
+        "TRACE → early forts → Purandar / Agra → recovery → coronation",
+        "EXPLAIN → offices + revenue + chauth claims + mobile war + bounded navy",
+        "EXTEND → Sambhaji → Rajaram / Jinji → Tarabai's decentralised resistance",
+        "CONNECT → annexation and long war intensify the jagirdari feedback loop"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → ecology became power through institutions, networks and sovereignty",
+            "TRACE → early forts → Purandar / Agra → recovery → coronation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "EXPLAIN → offices + revenue + chauth claims + mobile war + bounded navy",
+            "EXTEND → Sambhaji → Rajaram / Jinji → Tarabai's decentralised resistance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONNECT → annexation and long war intensify the jagirdari feedback loop",
+            "QUALIFY → reject hero myth, nationalism, cabinet analogy and instant collapse."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → reject hero myth, nationalism, cabinet analogy and instant collapse.",
+      "source_references": [
+        "Answer architecture",
+        "State-building",
+        "Deccan war",
+        "Jagirdari crisis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED EVIDENCE NOTEBOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "TWENTY-EIGHT SOURCE-TO-ARGUMENT LABS",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE AND ANSWER-WRITING DRILLS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE MARATHAS, SHIVAJI & AURANGZEB'S DECCAN; JAGIRDARI CRISIS —",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Advanced evidence notebook: twenty-eight source-to-argument labs",
+            "Evidence and answer-writing drills",
+            "The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis — ADVANCED",
+            "Mini-timeline"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles",
+            "+ Concept — Jagirdari crisis in one line"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1171 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-01",
+  "subject": "Philosophy",
+  "title": "NATURE AND SIGNIFICANCE OF POLITICAL THEORY",
+  "short_route": "THE FIELD, ITS SCOPE → ESSENTIAL VOCABULARY OF POLITICAL → THE FACTS-LOGIC-VALUES ARGUMENT → SCIENCE, PHILOSOPHY, THEORY AND → THINKERS, POSITIONS AND ILLUSTRATIVE → COMPARISON MATRIX AND UPSC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-01_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-01-ascii-2026-08-28-g3.json",
+  "ascii_spec_sha256": "28fae300f3028dd45ab60c0217e988a609fd26c094d91bc3f7f8e30a1c8f078e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE FIELD, ITS SCOPE AND ITS EXAM SIGNIFICANCE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE FIELD, ITS SCOPE AND ITS EXAM SIGNIFICANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THIS CHAPTER GIVES THE MODULE'S BASIC VOCABULARY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT COUNTS AS POLITICAL, WHAT A THEORY IS, AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GAUBA TREATS POLITICAL SCIENCE AND POLITICAL PHILOSOPHY AS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IN UPSC AND PSIR ANSWERS, THIS TOPIC PREVENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCING THEORY TO MORAL SERMON, OR REDUCING IT TO",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE SIGNIFICANCE OF POLITICAL THEORY LIES IN CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Field, Its Scope and Its Exam Significance",
+        "[1] This chapter gives the module's basic vocabulary: what counts as political, what a theory",
+        "political theory includes both factual explanation and.",
+        "[2] Gauba treats political science and political philosophy as complementary, not rival, components of political"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Field, Its Scope and Its Exam Significance",
+            "[1] This chapter gives the module's basic vocabulary: what counts as political, what a theory is, and why",
+            "political theory includes both factual explanation and.",
+            "[2] Gauba treats political science and political philosophy as complementary, not rival, components of political theory"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "this is the base for later files on ideology.",
+            "[3] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to moral sermon, or",
+            "reducing it to data without a judgment on ends.",
+            "[4] The significance of political theory lies in control of social life, social criticism and reconstruction, clarification of",
+            "concepts, and encouragement to mutual."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → The Field, Its Scope and Its Exam Significance is best presented through its central claim, causal",
+            "logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Field, Its Scope and Its Exam Significance is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ESSENTIAL VOCABULARY OF POLITICAL INQUIRY",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ESSENTIAL VOCABULARY OF POLITICAL INQUIRY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THIS CHAPTER GIVES THE MODULE'S BASIC VOCABULARY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT COUNTS AS POLITICAL, WHAT A THEORY IS, AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] POSITIVISTS AND BEHAVIOURALISTS TRY TO RESTRICT VALID KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DANTE GERMINO IDENTIFIED REVIVAL WITH THE RECOVERY OF",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] GAUBA TREATS POLITICAL SCIENCE AND POLITICAL PHILOSOPHY AS",
+          "role": "comparison"
+        },
+        {
+          "text": "ESSENTIAL VOCABULARY OF POLITICAL INQUIRY IS BEST PRESENTED THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Essential Vocabulary of Political Inquiry",
+        "[1] This chapter gives the module's basic vocabulary: what counts as political, what a theory",
+        "political theory includes both factual explanation and.",
+        "[2] Positivists and behaviouralists try to restrict valid knowledge to empirical and logical statements, but"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Essential Vocabulary of Political Inquiry",
+            "[1] This chapter gives the module's basic vocabulary: what counts as political, what a theory is, and why",
+            "political theory includes both factual explanation and.",
+            "[2] Positivists and behaviouralists try to restrict valid knowledge to empirical and logical statements, but Gauba rejects the"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "move to expel evaluative inquiry from.",
+            "[3] Dante Germino identified revival with the recovery of political philosophy itself — critical inquiry into right political",
+            "order, distinct both from reductionist.",
+            "[4] Gauba treats political science and political philosophy as complementary, not rival, components of political theory",
+            "this is the base for later files on ideology."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Essential Vocabulary of Political Inquiry is best presented through its central claim, causal logic, strongest limit",
+            "and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Essential Vocabulary of Political Inquiry is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE FACTS-LOGIC-VALUES ARGUMENT",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE FACTS-LOGIC-VALUES ARGUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA BEGINS BY DEFINING THE POLITICAL AS THE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] HE THEN DEFINES POLITICAL THEORY AS SYSTEMATIC KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] POSITIVISTS AND BEHAVIOURALISTS TRY TO RESTRICT VALID KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] POLITICAL THEORY MUST THEREFORE INCLUDE BOTH POLITICAL SCIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCIENCE EXPLAINS POLITICAL REALITY, WHILE PHILOSOPHY ASKS WHAT GOALS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FACTS-LOGIC-VALUES ARGUMENT IS BEST PRESENTED THROUGH ITS CENTRAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Facts-Logic-Values Argument",
+        "[1] Gauba begins by defining the political as the public sphere of rule-making, authoritative decision",
+        "the whole community (Gauba, PDF pp.15-16).",
+        "[2] He then defines political theory as systematic knowledge and distinguishes empirical, logical and evaluative"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Facts-Logic-Values Argument",
+            "[1] Gauba begins by defining the political as the public sphere of rule-making, authoritative decision and regulation for",
+            "the whole community (Gauba, PDF pp.15-16)."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] He then defines political theory as systematic knowledge and distinguishes empirical, logical and evaluative statements within that",
+            "knowledge (Gauba, PDF p.16).",
+            "[3] Positivists and behaviouralists try to restrict valid knowledge to empirical and logical statements, but Gauba rejects the",
+            "move to expel evaluative inquiry from."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Political theory must therefore include both political science and political philosophy: science explains political reality, while philosophy",
+            "asks what goals and.",
+            "SYNTHESIS → The Facts-Logic-Values Argument is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Facts-Logic-Values Argument is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SCIENCE, PHILOSOPHY, THEORY AND IDEOLOGY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCIENCE, PHILOSOPHY, THEORY AND IDEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA TREATS POLITICAL SCIENCE AND POLITICAL PHILOSOPHY AS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] POLITICAL THEORY MUST THEREFORE INCLUDE BOTH POLITICAL SCIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SCIENCE EXPLAINS POLITICAL REALITY, WHILE PHILOSOPHY ASKS WHAT GOALS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] POLITICAL SCIENCE RELIES ON OBSERVATION, GENERALIZATION AND EXPLANATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THEORY MUST INCLUDE BOTH SCIENCE AND PHILOSOPHY BECAUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENCE, PHILOSOPHY, THEORY AND IDEOLOGY IS BEST PRESENTED THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Science, Philosophy, Theory and Ideology",
+        "[1] Gauba treats political science and political philosophy as complementary, not rival, components of political",
+        "this is the base for later files on ideology.",
+        "[2] Political theory must therefore include both political science and political philosophy: science explains political"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Political theory must therefore include both political science and political philosophy: science explains political reality, while philosophy",
+          "[4] Theory must include both science and philosophy because public policy needs facts and values together (Gauba, PDF pp.17-18)."
+        ],
+        [
+          "Science, Philosophy, Theory and Ideology",
+          "asks what goals and.",
+          "SYNTHESIS → Science, Philosophy, Theory and Ideology is best presented through its central claim, causal logic, strongest limit and qualified verdict."
+        ],
+        [
+          "[1] Gauba treats political science and political philosophy as complementary, not rival, components of political theory",
+          "[3] Political science relies on observation, generalization and explanation",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ],
+        [
+          "this is the base for later files on ideology.",
+          "political philosophy seeks justification and concept-clarification (Gauba, PDF pp.18-20).",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Science, Philosophy, Theory and Ideology",
+            "[1] Gauba treats political science and political philosophy as complementary, not rival, components of political theory",
+            "this is the base for later files on ideology."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Political theory must therefore include both political science and political philosophy: science explains political reality, while philosophy",
+            "asks what goals and.",
+            "[3] Political science relies on observation, generalization and explanation",
+            "political philosophy seeks justification and concept-clarification (Gauba, PDF pp.18-20)."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "[4] Theory must include both science and philosophy because public policy needs facts and values together (Gauba, PDF pp.17-18).",
+            "SYNTHESIS → Science, Philosophy, Theory and Ideology is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Science, Philosophy, Theory and Ideology is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THINKERS, POSITIONS AND ILLUSTRATIVE APPLICATIONS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THINKERS, POSITIONS AND ILLUSTRATIVE APPLICATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A QUESTION SUCH AS \"WHY DO RIOTS OCCUR?\"",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] A QUESTION SUCH AS \"WHAT IS A GOOD",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CLARIFYING WHETHER \"FREEDOM\" MEANS NON-INTERFERENCE, SELF-DEVELOPMENT OR SOMETHING",
+          "role": "primary"
+        },
+        {
+          "text": "[4] GAUBA WARNS THAT VAGUE POLITICAL LANGUAGE ALLOWS DEMAGOGUES",
+          "role": "outcome"
+        },
+        {
+          "text": "THINKERS, POSITIONS AND ILLUSTRATIVE APPLICATIONS IS BEST PRESENTED THROUGH",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Thinkers, Positions and Illustrative Applications",
+        "[1] A question such as \"why do riots occur?\" belongs to political science when it",
+        "through observation and generalization (Gauba, PDF pp.18-19.",
+        "[2] A question such as \"what is a good society?\" belongs to political philosophy because"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Thinkers, Positions and Illustrative Applications",
+            "[1] A question such as \"why do riots occur?\" belongs to political science when it seeks causal explanation",
+            "through observation and generalization (Gauba, PDF pp.18-19.",
+            "[2] A question such as \"what is a good society?\" belongs to political philosophy because it asks about"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ends, justification and value (Gauba, PDF p.17).",
+            "[3] Clarifying whether \"freedom\" means non-interference, self-development or something else is part of political philosophy's concept-clarifying role (Gauba,",
+            "PDF pp.19.",
+            "[4] Gauba warns that vague political language allows demagogues and autocrats to exploit words like liberty, equality and",
+            "democracy for emotional manipulation or."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Thinkers, Positions and Illustrative Applications is best presented through its central claim, causal logic, strongest limit",
+            "and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Thinkers, Positions and Illustrative Applications is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMPARISON MATRIX AND UPSC TRAP REPAIR",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COMPARISON MATRIX AND UPSC TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] IN UPSC AND PSIR ANSWERS, THIS TOPIC PREVENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "REDUCING THEORY TO MORAL SERMON, OR REDUCING IT TO",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] THIS CHAPTER GIVES THE MODULE'S BASIC VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT COUNTS AS POLITICAL, WHAT A THEORY IS, AND",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] GAUBA TREATS POLITICAL SCIENCE AND POLITICAL PHILOSOPHY AS",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] GAUBA BEGINS BY DEFINING THE POLITICAL AS THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Comparison Matrix and UPSC Trap Repair",
+        "[1] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to",
+        "reducing it to data without a judgment on ends.",
+        "[2] This chapter gives the module's basic vocabulary: what counts as political, what a theory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Comparison Matrix and UPSC Trap Repair",
+            "[1] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to moral sermon, or",
+            "reducing it to data without a judgment on ends."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] This chapter gives the module's basic vocabulary: what counts as political, what a theory is, and why",
+            "political theory includes both factual explanation and.",
+            "[3] Gauba treats political science and political philosophy as complementary, not rival, components of political theory",
+            "this is the base for later files on ideology."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "[4] Gauba begins by defining the political as the public sphere of rule-making, authoritative decision and regulation for",
+            "the whole community (Gauba, PDF pp.15-16).",
+            "SYNTHESIS → Comparison Matrix and UPSC Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Comparison Matrix and UPSC Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OWNERSHIP BOUNDARIES AND THE REVISION SPINE",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OWNERSHIP BOUNDARIES AND THE REVISION SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POLITICAL MEANS THE PUBLIC/COMMON SPHERE OF AUTHORITATIVE COLLECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "(GAUBA, PDF PP.15-16).",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] THE CHAPTER'S THREE STATEMENT-TYPES ARE EMPIRICAL, LOGICAL AND",
+          "role": "primary"
+        },
+        {
+          "text": "PDF P.16).",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] POLITICAL SCIENCE RELIES ON OBSERVATION, GENERALIZATION AND EXPLANATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THEORY MUST INCLUDE BOTH SCIENCE AND PHILOSOPHY BECAUSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Ownership Boundaries and the Revision Spine",
+        "[1] Political means the public/common sphere of authoritative collective regulation",
+        "(Gauba, PDF pp.15-16).",
+        "[2] The chapter's three statement-types are empirical, logical and evaluative (Gauba"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Ownership Boundaries and the Revision Spine",
+            "[1] Political means the public/common sphere of authoritative collective regulation",
+            "(Gauba, PDF pp.15-16)."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] The chapter's three statement-types are empirical, logical and evaluative (Gauba,",
+            "PDF p.16).",
+            "[3] Political science relies on observation, generalization and explanation",
+            "political philosophy seeks justification and concept-clarification (Gauba, PDF pp.18-20)."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Theory must include both science and philosophy because public policy needs facts and values together (Gauba, PDF pp.17-18).",
+            "SYNTHESIS → Ownership Boundaries and the Revision Spine is best presented through its central claim, causal logic, strongest",
+            "limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Ownership Boundaries and the Revision Spine is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE DECLINE AND REVIVAL DEBATE",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE DECLINE AND REVIVAL DEBATE",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ALFRED COBBAN DESCRIBED A DECLINE OF POLITICAL THEORY",
+          "role": "caution"
+        },
+        {
+          "text": "[2] DAVID EASTON'S 1953 COMPLAINT HELD THAT TRADITIONAL POLITICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] EASTON'S OWN 1969 POST-BEHAVIOURAL TURN MAKES THE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HE CALLED ON POLITICAL SCIENCE TO BECOME PRACTICALLY.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] LEO STRAUSS ARGUED THAT A POSITIVIST POLITICAL SCIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DECLINE AND REVIVAL DEBATE IS BEST PRESENTED THROUGH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Decline and Revival Debate",
+        "[1] Alfred Cobban described a decline of political theory under both capitalist and communist systems",
+        "century, yet still insisted that politics.",
+        "[2] David Easton's 1953 complaint held that traditional political theory was speculative, tied to classical"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Decline and Revival Debate",
+            "[1] Alfred Cobban described a decline of political theory under both capitalist and communist systems in the mid-twentieth",
+            "century, yet still insisted that politics."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "[2] David Easton's 1953 complaint held that traditional political theory was speculative, tied to classical texts and the",
+            "history of ideas, had produced no outstanding.",
+            "[3] Easton's own 1969 post-behavioural turn makes the distinction explicit from inside the behavioural camp itself: he called",
+            "on political science to become practically."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "[4] Leo Strauss argued that a positivist political science modelled on natural science ignored normative questions altogether and",
+            "flattened qualitative distinctions.",
+            "SYNTHESIS → The Decline and Revival Debate is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Decline and Revival Debate is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PREMISES",
+          "role": "comparison"
+        },
+        {
+          "text": "(A) THE POLITICAL IS THE PUBLIC/COMMON SPHERE OF AUTHORITATIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "(GAUBA, PDF PP.15-16); (B) KNOWLEDGE DIVIDES INTO EMPIRICAL, LOGICAL",
+          "role": "primary"
+        },
+        {
+          "text": "[2] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "POLITICAL LIFE GENERATES FACTUAL QUESTIONS (\"WHY DO RIOTS OCCUR?\")",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] CONCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Qualified Thesis and Directive-Specific Architecture",
+        "[1] Premises: (a) the political is the public/common sphere of authoritative rule",
+        "(Gauba, PDF pp.15-16); (b) knowledge divides into empirical, logical and evaluative.",
+        "[2] Mechanism: political life generates factual questions (\"why do riots occur?\") and value questions (\"what"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Qualified Thesis and Directive-Specific Architecture",
+            "[1] Premises: (a) the political is the public/common sphere of authoritative rule",
+            "(Gauba, PDF pp.15-16); (b) knowledge divides into empirical, logical and evaluative.",
+            "[2] Mechanism: political life generates factual questions (\"why do riots occur?\") and value questions (\"what is a good society?\") simultaneously"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "a theory that excludes.",
+            "[3] Conclusion: political theory as a whole must integrate both components",
+            "its significance lies in control of social life, social criticism/reconstruction.",
+            "[4] The debate operates on two levels at once: a methodological dispute over what counts as valid evidence",
+            "(Easton 1953 vs Strauss/Germino), and a civilizational."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Qualified Thesis and Directive-Specific Architecture is best presented through its central claim, causal logic, strongest limit",
+            "and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Qualified Thesis and Directive-Specific Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EVIDENCE, OBJECTIONS, INDIAN APPLICATION AND MARK-SCALED ANSWERS",
+      "structural_type": "answer-spine",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EVIDENCE, OBJECTIONS, INDIAN APPLICATION AND MARK-SCALED ANSWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] WHEN AN INDIAN GOVERNANCE DEBATE IS FRAMED ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SIMILARLY, WHEN A POLICY IS DEFENDED PURELY AS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] IN UPSC AND PSIR ANSWERS, THIS TOPIC PREVENTS",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCING THEORY TO MORAL SERMON, OR REDUCING IT TO",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE DEBATE OPERATES ON TWO LEVELS AT ONCE",
+          "role": "comparison"
+        },
+        {
+          "text": "A METHODOLOGICAL DISPUTE OVER WHAT COUNTS AS VALID EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+        "[1] When an Indian governance debate is framed only in output/efficiency terms (coverage numbers, disbursement",
+        "[2] Similarly, when a policy is defended purely as \"the will of an elected majority,\"",
+        "asks whether that will still respects rights."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+            "[1] When an Indian governance debate is framed only in output/efficiency terms (coverage numbers, disbursement speed), the science/explanation vs.",
+            "[2] Similarly, when a policy is defended purely as \"the will of an elected majority,\" the political-philosophy component"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "asks whether that will still respects rights.",
+            "[3] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to moral sermon, or",
+            "reducing it to data without a judgment on ends.",
+            "[4] The debate operates on two levels at once: a methodological dispute over what counts as valid evidence"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "(Easton 1953 vs Strauss/Germino), and a civilizational.",
+            "SYNTHESIS → Evidence, Objections, Indian Application and Mark-Scaled Answers is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Evidence, Objections, Indian Application and Mark-Scaled Answers is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THIS CHAPTER GIVES THE MODULE'S BASIC VOCABULARY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT COUNTS AS POLITICAL, WHAT A THEORY IS, AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GAUBA TREATS POLITICAL SCIENCE AND POLITICAL PHILOSOPHY AS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IN UPSC AND PSIR ANSWERS, THIS TOPIC PREVENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCING THEORY TO MORAL SERMON, OR REDUCING IT TO",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] GAUBA BEGINS BY DEFINING THE POLITICAL AS THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] This chapter gives the module's basic vocabulary: what counts as political, what a theory",
+        "political theory includes both factual explanation and.",
+        "[2] Gauba treats political science and political philosophy as complementary, not rival, components of political"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] This chapter gives the module's basic vocabulary: what counts as political, what a theory is, and why",
+            "political theory includes both factual explanation and."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Gauba treats political science and political philosophy as complementary, not rival, components of political theory",
+            "this is the base for later files on ideology.",
+            "[3] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to moral sermon, or",
+            "reducing it to data without a judgment on ends."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Gauba begins by defining the political as the public sphere of rule-making, authoritative decision and regulation for",
+            "the whole community (Gauba, PDF pp.15-16).",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A STRONG ANSWER CAN THEREFORE USE DATA TO",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ONE-LINE ANSWER SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL THEORY IS THE SYSTEMATIC STUDY OF POLITICAL LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] THIS CHAPTER GIVES THE MODULE'S BASIC VOCABULARY",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT COUNTS AS POLITICAL, WHAT A THEORY IS, AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] GAUBA TREATS POLITICAL SCIENCE AND POLITICAL PHILOSOPHY AS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] A strong answer can therefore use data to explain unemployment, but it still needs",
+        "to judge whether a given policy is fair, free or humane.",
+        "[2] One-line answer spine: political theory is the systematic study of political life that explains"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] A strong answer can therefore use data to explain unemployment, but it still needs a philosophical yardstick",
+            "to judge whether a given policy is fair, free or humane."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] One-line answer spine: political theory is the systematic study of political life that explains reality through science",
+            "and judges goals through philosophy.",
+            "[3] This chapter gives the module's basic vocabulary: what counts as political, what a theory is, and why",
+            "political theory includes both factual explanation and."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Gauba treats political science and political philosophy as complementary, not rival, components of political theory",
+            "this is the base for later files on ideology.",
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

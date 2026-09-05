@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T08:06:24+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "18055e21ead2fa3e1f698f28735be77e12632b8202a5d5fe209ddfd11514c38d",
+    "sha256_after": "18055e21ead2fa3e1f698f28735be77e12632b8202a5d5fe209ddfd11514c38d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8537,
+    "pdf_count": 2177,
+    "png_count": 739,
+    "txt_count": 922,
+    "markdown_count": 1413,
+    "json_count": 3271,
+    "total_bytes": 3890343772,
+    "by_extension": {
+      ".json": 3271,
+      ".md": 1413,
+      ".pdf": 2177,
+      ".png": 739,
+      ".txt": 922,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-20",
+      "topic_title": "Jahangir & the Early Seventeenth Century (Nur Jahan)",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 20,
+      "source_record_id": "medieval-indian-history-20:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g5\\medieval-indian-history-20_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "79a3bd428386267ce4cfc275efcf31c1806aa00003fffa02f252f9e242023529",
+          "output_sha256": "79a3bd428386267ce4cfc275efcf31c1806aa00003fffa02f252f9e242023529",
+          "source_output_equal": true,
+          "bytes": 3299249
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-20\\g5\\medieval-indian-history-20_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "af592d75d3962633a7a36c4c24b1fa4f9e37b47c06e4a168de585a48c53fbb0b",
+          "output_sha256": "af592d75d3962633a7a36c4c24b1fa4f9e37b47c06e4a168de585a48c53fbb0b",
+          "source_output_equal": true,
+          "bytes": 691240
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-20\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e5639980c75e9bc0a0abcf78cdfc011d44e5d5bfd9100a47d5192da940a16b82",
+          "output_sha256": "e5639980c75e9bc0a0abcf78cdfc011d44e5d5bfd9100a47d5192da940a16b82",
+          "source_output_equal": true,
+          "bytes": 2580739
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-20\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "fcd93fe8ba7e620e4c264145fde838285f20a44db66da3dc080265c72dbf2539",
+          "output_sha256": "fcd93fe8ba7e620e4c264145fde838285f20a44db66da3dc080265c72dbf2539",
+          "source_output_equal": true,
+          "bytes": 3472484
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-20\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "4f8a5a452c21a2dfcc09e727fd7906a4914597b2ac89e02c4f95a9af4df8a8cc",
+          "output_sha256": "4f8a5a452c21a2dfcc09e727fd7906a4914597b2ac89e02c4f95a9af4df8a8cc",
+          "source_output_equal": true,
+          "bytes": 2303117
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-20\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "9aaada7dcc00e80133df21b158931644d942d18a6658f3c156172cdbf28cdb26",
+          "output_sha256": "9aaada7dcc00e80133df21b158931644d942d18a6658f3c156172cdbf28cdb26",
+          "source_output_equal": true,
+          "bytes": 7302
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-20\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\20-Jahangir-and-the-Early-Seventeenth-Century-Nur-Jahan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "40ed53f2281f38a12a590f8ef392b56868c43a83828a0719155547342d5112e7",
+          "output_sha256": "40ed53f2281f38a12a590f8ef392b56868c43a83828a0719155547342d5112e7",
+          "source_output_equal": true,
+          "source_text_sha256": "9aaada7dcc00e80133df21b158931644d942d18a6658f3c156172cdbf28cdb26",
+          "normalized_text_equal": true,
+          "bytes": 59379
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 93,
+        "solved_practice_workbook": 25,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 93,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11966
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

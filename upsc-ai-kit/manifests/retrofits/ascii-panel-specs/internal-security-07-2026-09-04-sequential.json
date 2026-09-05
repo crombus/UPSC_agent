@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 07",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-07",
+      "display_title": "Maritime and Coastal Security",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Maritime-coastal nesting",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "MARITIME SECURITY",
+            "|-- HIGH SEAS / SLOCs / OFFSHORE INTERESTS",
+            "|-- EEZ AWARENESS / ENFORCEMENT",
+            "`-- COASTAL SECURITY -> near-shore subset",
+            "RULE -> subset is not synonym"
+          ],
+          "source_references": [
+            "Maritime-coastal distinction"
+          ]
+        },
+        {
+          "title": "Maritime-zone ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "0-12 nm -> TERRITORIAL SEA",
+            "12-24 nm -> CONTIGUOUS ZONE",
+            "TO 200 nm -> EXCLUSIVE ECONOMIC ZONE",
+            "BEYOND -> HIGH SEAS",
+            "FIX ZONE -> THEN INSTITUTION + LAW"
+          ],
+          "source_references": [
+            "Maritime-zone ladder"
+          ]
+        },
+        {
+          "title": "Threat-to-response matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SEA-BORNE TERROR | INTELLIGENCE + INTERDICTION + SUA",
+            "PIRACY / ROBBERY | ZONE + PIRACY / OTHER LAW",
+            "SMUGGLING / TRAFFICKING | COAST GUARD / CUSTOMS / POLICE",
+            "PORT CYBER / SABOTAGE | PHYSICAL + DIGITAL RESILIENCE"
+          ],
+          "source_references": [
+            "Threat-category map",
+            "Port-security convergence"
+          ]
+        },
+        {
+          "title": "Institutional layers",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NAVY -> wider defence / sea control / SLOCs",
+            "COAST GUARD -> maritime-zone security / law enforcement / coordination",
+            "MARINE POLICE -> close coastal patrol / State investigation",
+            "RULE -> connected mandates, not one undifferentiated force"
+          ],
+          "source_references": [
+            "Navy role",
+            "Coast Guard role",
+            "Marine Police role",
+            "Layered-architecture boundary"
+          ]
+        },
+        {
+          "title": "Coordination architecture",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "NCSMCS -> APEX POLICY COORDINATION",
+            "JOCs -> MUMBAI / VISAKHAPATNAM / KOCHI / PORT BLAIR",
+            "NC3I / IMAC -> DOMESTIC INFORMATION FUSION",
+            "IFC-IOR -> PARTNER INFORMATION-SHARING LAYER"
+          ],
+          "source_references": [
+            "NCSMCS coordination",
+            "Joint Operations Centres",
+            "NC3I function",
+            "IMAC-IFC boundary"
+          ]
+        },
+        {
+          "title": "Awareness-to-action chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DETECT -> IDENTIFY -> FUSE -> DECIDE",
+            "-> INTERCEPT / BOARD UNDER LAWFUL AUTHORITY",
+            "-> INVESTIGATE -> PROSECUTE / RECOVER",
+            "TRAP -> awareness is not interdiction"
+          ],
+          "source_references": [
+            "Awareness-interdiction distinction",
+            "Surveillance-system role"
+          ]
+        },
+        {
+          "title": "Coastal-police capacity audit",
+          "structural_type": "audit-ladder",
+          "ascii_lines": [
+            "SCHEME SANCTION",
+            "-> STATION / JETTY / BOAT / TRAINING INPUT",
+            "-> STAFFING + MAINTENANCE + SEA-TIME",
+            "-> EXERCISE PERFORMANCE + VERIFIED RESPONSE",
+            "RULE -> never skip from input to outcome"
+          ],
+          "source_references": [
+            "Coastal Security Scheme",
+            "Marine Police role"
+          ]
+        },
+        {
+          "title": "Fishing-community interface",
+          "structural_type": "balance-scale",
+          "ascii_lines": [
+            "SECURITY VALUE -> LOCAL KNOWLEDGE / EARLY WARNING",
+            "LIVELIHOOD NEED -> SAFE ACCESS / COMMUNICATION / DUE PROCESS",
+            "TOOLS -> REGISTRATION / IDENTIFICATION / DISTRESS / REPORTING",
+            "VERDICT -> partnership, not collective suspicion"
+          ],
+          "source_references": [
+            "Fishing-community interface"
+          ]
+        },
+        {
+          "title": "Port-resilience map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "WATERSIDE ACCESS + LANDSIDE ACCESS",
+            "CARGO / CUSTOMS + INDUSTRIAL ASSETS",
+            "OPERATIONAL TECHNOLOGY + DATA SYSTEMS",
+            "CONTINUITY -> PREVENT / RESPOND / RECOVER / LEARN"
+          ],
+          "source_references": [
+            "Port-security convergence"
+          ]
+        },
+        {
+          "title": "Maritime-law decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WHERE? -> TERRITORIAL / EEZ / HIGH SEAS",
+            "WHAT ACT? -> PIRACY / TERROR / OTHER CRIME",
+            "MARITIME ZONES ACT -> zone framework",
+            "SUA ACT -> navigation / fixed-platform unlawful acts",
+            "PIRACY ACT -> piracy-specific trigger"
+          ],
+          "source_references": [
+            "Three-statute legal map",
+            "Piracy-location boundary"
+          ]
+        },
+        {
+          "title": "Reactive-to-resilient timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1977/1978 -> INDIAN COAST GUARD",
+            "2005 -> COASTAL SECURITY SCHEME",
+            "POST-26/11 -> JOCs / NETWORKED AWARENESS EXPANSION",
+            "2022 -> ANTI-MARITIME PIRACY ACT",
+            "NEXT -> anticipatory capacity + recovery"
+          ],
+          "source_references": [
+            "Reactive-buildout lesson"
+          ]
+        },
+        {
+          "title": "PYQ and end-state rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2022 PRELIMS -> UNCLOS ZONE CONCEPT, CROSS-OWNED",
+            "2022 MAINS -> ORGANISATIONAL / TECHNICAL / PROCEDURAL",
+            "2025 MAINS -> SEA TRADE + CHALLENGES + WAY FORWARD",
+            "END -> mandate + awareness + action + community + resilience"
+          ],
+          "source_references": [
+            "Resilient end-state"
+          ]
+        }
+      ]
+    }
+  ]
+}

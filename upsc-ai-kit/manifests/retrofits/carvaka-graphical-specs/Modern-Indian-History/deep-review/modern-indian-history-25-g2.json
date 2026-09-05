@@ -1,0 +1,1120 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-25",
+  "subject": "Modern-Indian-History",
+  "title": "SECOND WORLD WAR, THE CRIPPS MISSION & QUIT INDIA (1939–1942)",
+  "short_route": "UNCONSULTED BELLIGERENCY AND THE → AUGUST OFFER: PROMISE AND → INDIVIDUAL SATYAGRAHA: SEQUENCE AND → CRIPPS ARRIVAL AND THE → CRIPPS SCHEME: OPT-OUT AND → BRITISH WARTIME CONTROL AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-25-deep-review-2026-08-31-g2.json",
+  "ascii_spec_sha256": "13fd0742f542848b0bc59703989a4d82398e10baeee7d6b77acb9e5cae1ac9b2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "UNCONSULTED BELLIGERENCY AND THE RESPONSE CHAIN",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UNCONSULTED BELLIGERENCY AND THE RESPONSE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "3 SEP 1939",
+          "role": "outcome"
+        },
+        {
+          "text": "VICEROY DECLARES INDIA A BELLIGERENT, NO CONSULTATION",
+          "role": "caution"
+        },
+        {
+          "text": "OCT-NOV 1939",
+          "role": "evidence"
+        },
+        {
+          "text": "CONGRESS MINISTRIES RESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "22 DEC 1939",
+          "role": "outcome"
+        },
+        {
+          "text": "LEAGUE DELIVERANCE DAY",
+          "role": "comparison"
+        },
+        {
+          "text": "MAR 1940",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "3 SEP 1939 → Viceroy declares India a belligerent, no consultation",
+        "OCT-NOV 1939 → Congress ministries resign",
+        "22 DEC 1939 → League Deliverance Day → MAR 1940 → Lahore Resolution",
+        "RULE → three connected but separately dated stages.",
+        "MUST REMEMBER: India was declared at war on 3 September 1939; the August Offer, Individual"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "3 SEP 1939 → Viceroy declares India a belligerent, no consultation",
+            "OCT-NOV 1939 → Congress ministries resign"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "22 DEC 1939 → League Deliverance Day → MAR 1940 → Lahore Resolution",
+            "RULE → three connected but separately dated stages."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: India was declared at war on 3 September 1939; the August Offer, Individual",
+            "Satyagraha, Cripps Mission of March-April 1942 and Quit India resolution of 8 August 1942 were different constitutional-political moments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → three connected but separately dated stages.",
+      "source_references": [
+        "Unconsulted belligerency: 3 September 1939",
+        "Resignation to the Lahore Resolution: the connected chain",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AUGUST OFFER: PROMISE AND MINORITY-CONSENT VETO",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AUGUST OFFER",
+          "role": "primary"
+        },
+        {
+          "text": "PROMISE AND MINORITY-CONSENT VETO",
+          "role": "outcome"
+        },
+        {
+          "text": "8 AUG 1940",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANDED, REPRESENTATIVE POST-WAR CONSTITUTION-MAKING BODY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO CONSTITUTION WITHOUT MINORITY CONSENT (EFFECTIVE VETO)",
+          "role": "caution"
+        },
+        {
+          "text": "NO IMMEDIATE NATIONAL GOVERNMENT OFFERED.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "8 AUG 1940 → AUGUST OFFER",
+        "PROMISE → expanded, representative post-war constitution-making body",
+        "CONDITION → no constitution without minority consent (effective veto)",
+        "LIMIT → no immediate national government offered."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "8 AUG 1940 → AUGUST OFFER",
+          "CONDITION → no constitution without minority consent (effective veto)",
+          "8 AUG 1940 → AUGUST OFFER"
+        ],
+        [
+          "PROMISE → expanded, representative post-war constitution-making body",
+          "LIMIT → no immediate national government offered.",
+          "PROMISE → expanded, representative post-war constitution-making body"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "8 AUG 1940 → AUGUST OFFER",
+            "PROMISE → expanded, representative post-war constitution-making body"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONDITION → no constitution without minority consent (effective veto)",
+            "LIMIT → no immediate national government offered."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "8 AUG 1940 → AUGUST OFFER",
+            "PROMISE → expanded, representative post-war constitution-making body"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITION → no constitution without minority consent (effective veto).",
+      "source_references": [
+        "August Offer, 1940: promise and its minority-consent veto",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INDIVIDUAL SATYAGRAHA: SEQUENCE AND LIMITED OBJECTIVE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIVIDUAL SATYAGRAHA",
+          "role": "primary"
+        },
+        {
+          "text": "SEQUENCE AND LIMITED OBJECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "17 OCT 1940",
+          "role": "comparison"
+        },
+        {
+          "text": "VINOBA BHAVE, FIRST SATYAGRAHI",
+          "role": "evidence"
+        },
+        {
+          "text": "JAWAHARLAL NEHRU, SECOND SATYAGRAHI",
+          "role": "primary"
+        },
+        {
+          "text": "SELECTED INDIVIDUALS PUBLICLY ASSERT THE RIGHT TO OPPOSE THE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED ANTI-WAR FREE-SPEECH RIGHT, NOT MASS CIVIL DISOBEDIENCE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "17 OCT 1940 → Vinoba Bhave, first satyagrahi",
+        "NEXT → Jawaharlal Nehru, second satyagrahi",
+        "METHOD → selected individuals publicly assert the right to oppose the war",
+        "OBJECTIVE → limited anti-war free-speech right, not mass civil disobedience."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "17 OCT 1940 → Vinoba Bhave, first satyagrahi",
+            "NEXT → Jawaharlal Nehru, second satyagrahi"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METHOD → selected individuals publicly assert the right to oppose the war",
+            "OBJECTIVE → limited anti-war free-speech right, not mass civil disobedience."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "17 OCT 1940 → Vinoba Bhave, first satyagrahi",
+            "NEXT → Jawaharlal Nehru, second satyagrahi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OBJECTIVE → limited anti-war free-speech right, not mass civil disobedience.",
+      "source_references": [
+        "Individual Satyagraha: sequence and its limited objective",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CRIPPS ARRIVAL AND THE MARCH 1942 PROPOSALS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CRIPPS ARRIVAL AND THE MARCH 1942 PROPOSALS",
+          "role": "primary"
+        },
+        {
+          "text": "MAR 1942",
+          "role": "outcome"
+        },
+        {
+          "text": "CRIPPS ARRIVES IN INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE MAR 1942",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPOSALS ANNOUNCED",
+          "role": "primary"
+        },
+        {
+          "text": "DOMINION STATUS AFTER THE WAR + POST-WAR CONSTITUTION-MAKING BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO CHANGE TO INDIA'S STATUS DURING THE WAR ITSELF.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAR 1942 → Cripps arrives in India",
+        "LATE MAR 1942 → proposals announced",
+        "OFFER → Dominion status after the war + post-war constitution-making body",
+        "LIMIT → no change to India's status during the war itself."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MAR 1942 → Cripps arrives in India",
+            "LATE MAR 1942 → proposals announced"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFER → Dominion status after the war + post-war constitution-making body",
+            "LIMIT → no change to India's status during the war itself."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAR 1942 → Cripps arrives in India",
+            "LATE MAR 1942 → proposals announced"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → no change to India's status during the war itself.",
+      "source_references": [
+        "Cripps Mission: arrival and the March 1942 proposals",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CRIPPS SCHEME: OPT-OUT AND PRINCELY NOMINATION",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CRIPPS SCHEME",
+          "role": "primary"
+        },
+        {
+          "text": "OPT-OUT AND PRINCELY NOMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ANY PROVINCE OR PRINCELY STATE MAY NOT JOIN THE",
+          "role": "caution"
+        },
+        {
+          "text": "PRINCELY SEATS",
+          "role": "evidence"
+        },
+        {
+          "text": "MEMBERS NOMINATED BY RULERS, NOT POPULARLY ELECTED",
+          "role": "caution"
+        },
+        {
+          "text": "UNION DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSION WOULD BE NEGOTIATED AFTER THE WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "BOTH FEATURES FUELLED OBJECTIONS FROM DIFFERENT POLITICAL GROUPS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPT-OUT → any province or princely state may not join the new union",
+        "PRINCELY SEATS → members nominated by rulers, not popularly elected",
+        "UNION DESIGN → accession would be negotiated after the war",
+        "EFFECT → both features fuelled objections from different political groups."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPT-OUT → any province or princely state may not join the new union",
+            "PRINCELY SEATS → members nominated by rulers, not popularly elected"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNION DESIGN → accession would be negotiated after the war",
+            "EFFECT → both features fuelled objections from different political groups."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPT-OUT → any province or princely state may not join the new union",
+            "PRINCELY SEATS → members nominated by rulers, not popularly elected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → both features fuelled objections from different political groups.",
+      "source_references": [
+        "Cripps scheme: opt-out clause and ruler-nominated princely seats",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BRITISH WARTIME CONTROL AND NO IMMEDIATE CABINET",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRITISH WARTIME CONTROL AND NO IMMEDIATE CABINET",
+          "role": "caution"
+        },
+        {
+          "text": "DEFENCE + WAR CONDUCT",
+          "role": "outcome"
+        },
+        {
+          "text": "REMAIN UNDER BRITISH CONTROL THROUGHOUT THE WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL CABINET",
+          "role": "evidence"
+        },
+        {
+          "text": "NONE CREATED IMMEDIATELY",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN LEADERS RECEIVE NO PRESENT CONTROL OVER THE WARTIME",
+          "role": "caution"
+        },
+        {
+          "text": "A SEPARATE OBJECTION FROM THE OPT-OUT AND PRINCELY-NOMINATION FEATURES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFENCE + WAR CONDUCT → remain under British control throughout the war",
+        "NATIONAL CABINET → none created immediately",
+        "EXECUTIVE GAP → Indian leaders receive no present control over the wartime state",
+        "RULE → a separate objection from the opt-out and princely-nomination features."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DEFENCE + WAR CONDUCT → remain under British control throughout the war",
+          "EXECUTIVE GAP → Indian leaders receive no present control over the wartime state",
+          "DEFENCE + WAR CONDUCT → remain under British control throughout the war"
+        ],
+        [
+          "NATIONAL CABINET → none created immediately",
+          "RULE → a separate objection from the opt-out and princely-nomination features.",
+          "NATIONAL CABINET → none created immediately"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFENCE + WAR CONDUCT → remain under British control throughout the war",
+            "NATIONAL CABINET → none created immediately"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXECUTIVE GAP → Indian leaders receive no present control over the wartime state",
+            "RULE → a separate objection from the opt-out and princely-nomination features."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFENCE + WAR CONDUCT → remain under British control throughout the war",
+            "NATIONAL CABINET → none created immediately"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a separate objection from the opt-out and princely-nomination features.",
+      "source_references": [
+        "British wartime control and the absence of an immediate cabinet",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MULTI-PARTY REJECTION OF THE CRIPPS PROPOSALS",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MULTI-PARTY REJECTION OF THE CRIPPS PROPOSALS",
+          "role": "primary"
+        },
+        {
+          "text": "DEFERRED, CONDITIONAL OFFER; NO IMMEDIATE RESPONSIBLE GOVERNMENT",
+          "role": "caution"
+        },
+        {
+          "text": "NO GUARANTEE OF A SEPARATE PAKISTAN",
+          "role": "caution"
+        },
+        {
+          "text": "HINDU MAHASABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE MINORITY AND COMMUNAL OBJECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCELY OPINION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCERNS OVER OPT-OUT AND ACCESSION ARRANGEMENTS.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONGRESS → deferred, conditional offer; no immediate responsible government",
+        "LEAGUE → no guarantee of a separate Pakistan",
+        "SIKH / HINDU MAHASABHA → separate minority and communal objections",
+        "PRINCELY OPINION → concerns over opt-out and accession arrangements."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS → deferred, conditional offer; no immediate responsible government",
+            "LEAGUE → no guarantee of a separate Pakistan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIKH / HINDU MAHASABHA → separate minority and communal objections",
+            "PRINCELY OPINION → concerns over opt-out and accession arrangements."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONGRESS → deferred, conditional offer; no immediate responsible government",
+            "LEAGUE → no guarantee of a separate Pakistan"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRINCELY OPINION → concerns over opt-out and accession arrangements.",
+      "source_references": [
+        "Multi-party rejection: different groups, different reasons",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POST-DATED CHEQUE PHRASE, CAUTIOUS PROVENANCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POST-DATED CHEQUE PHRASE, CAUTIOUS PROVENANCE",
+          "role": "primary"
+        },
+        {
+          "text": "SHORT PHRASE",
+          "role": "outcome"
+        },
+        {
+          "text": "\"POST-DATED CHEQUE\"",
+          "role": "comparison"
+        },
+        {
+          "text": "WELL ATTESTED, SAFE TO USE",
+          "role": "evidence"
+        },
+        {
+          "text": "LONGER VERSION",
+          "role": "primary"
+        },
+        {
+          "text": "ADDS A CRASHING BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVENANCE UNCERTAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CRITICISM CONCERNS DEFERRED CRIPPS PROMISES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHORT PHRASE → \"post-dated cheque\" → well attested, safe to use",
+        "LONGER VERSION → adds a crashing bank → provenance uncertain",
+        "REFERENCE → the criticism concerns deferred Cripps promises",
+        "RULE → applies to Cripps only, never to the 1940 August Offer."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SHORT PHRASE → \"post-dated cheque\" → well attested, safe to use",
+          "REFERENCE → the criticism concerns deferred Cripps promises",
+          "SHORT PHRASE → \"post-dated cheque\" → well attested, safe to use"
+        ],
+        [
+          "LONGER VERSION → adds a crashing bank → provenance uncertain",
+          "RULE → applies to Cripps only, never to the 1940 August Offer.",
+          "LONGER VERSION → adds a crashing bank → provenance uncertain"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SHORT PHRASE → \"post-dated cheque\" → well attested, safe to use",
+            "LONGER VERSION → adds a crashing bank → provenance uncertain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFERENCE → the criticism concerns deferred Cripps promises",
+            "RULE → applies to Cripps only, never to the 1940 August Offer."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SHORT PHRASE → \"post-dated cheque\" → well attested, safe to use",
+            "LONGER VERSION → adds a crashing bank → provenance uncertain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → applies to Cripps only, never to the 1940 August Offer.",
+      "source_references": [
+        "The 'post-dated cheque' phrase and its cautious use",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "QUIT INDIA'S TWO-STAGE RESOLUTION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "QUIT INDIA'S TWO-STAGE RESOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "14 JUL 1942, WARDHA",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS WORKING COMMITTEE APPROVES RESOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "8 AUG 1942, BOMBAY",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL-INDIA CONGRESS COMMITTEE RATIFIES RESOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL MOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMITTEE DRAFT BECOMES THE NATIONAL ORGANISATION'S MANDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "TWO DISTINCT BODIES AND DATES; NEVER A SINGLE DATE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "14 JUL 1942, WARDHA → Congress Working Committee approves resolution",
+        "8 AUG 1942, BOMBAY → All-India Congress Committee ratifies resolution",
+        "POLITICAL MOVE → committee draft becomes the national organisation's mandate",
+        "RULE → two distinct bodies and dates; never a single date."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "14 JUL 1942, WARDHA → Congress Working Committee approves resolution",
+            "8 AUG 1942, BOMBAY → All-India Congress Committee ratifies resolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICAL MOVE → committee draft becomes the national organisation's mandate",
+            "RULE → two distinct bodies and dates; never a single date."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "14 JUL 1942, WARDHA → Congress Working Committee approves resolution",
+            "8 AUG 1942, BOMBAY → All-India Congress Committee ratifies resolution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → two distinct bodies and dates; never a single date.",
+      "source_references": [
+        "Quit India's two-stage resolution: Wardha then Bombay",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OPERATION ZERO HOUR, THE FOLLOWING MORNING AFTER BOMBAY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "OPERATION ZERO HOUR, THE FOLLOWING MORNING AFTER BOMBAY",
+          "role": "primary"
+        },
+        {
+          "text": "8 AUG 1942",
+          "role": "outcome"
+        },
+        {
+          "text": "AICC RATIFIES QUIT INDIA RESOLUTION AT BOMBAY",
+          "role": "comparison"
+        },
+        {
+          "text": "9 AUG 1942 (EARLY HOURS)",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATION ZERO HOUR",
+          "role": "primary"
+        },
+        {
+          "text": "MASS ARRESTS BEGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL LEADERSHIP IS REMOVED BEFORE AN ORGANISED CAMPAIGN DEVELOPS",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHIN HOURS, ON THE FOLLOWING CALENDAR DAY; NOT A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "8 AUG 1942 → AICC ratifies Quit India resolution at Bombay",
+        "9 AUG 1942 (early hours) → Operation Zero Hour: mass arrests begin",
+        "CONSEQUENCE → central leadership is removed before an organised campaign develops",
+        "RULE → within hours, on the following calendar day; not a full 24-hour gap.",
+        "CLOSE DISTINCTION: Cripps offered a post-war constitution-making route with a provincial non-accession option, not immediate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "8 AUG 1942 → AICC ratifies Quit India resolution at Bombay",
+            "9 AUG 1942 (early hours) → Operation Zero Hour: mass arrests begin"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → central leadership is removed before an organised campaign develops",
+            "RULE → within hours, on the following calendar day; not a full 24-hour gap."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Cripps offered a post-war constitution-making route with a provincial non-accession option, not immediate full independence",
+            "Quit India combined central arrests with decentralised underground and parallel action."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → within hours, on the following calendar day; not a full 24-hour gap.",
+      "source_references": [
+        "Operation Zero Hour: arrests the following morning",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DO OR DIE, GOWALIA TANK AND UNDERGROUND RESISTANCE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DO OR DIE, GOWALIA TANK AND UNDERGROUND RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "8 AUG 1942",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHI'S \"DO OR DIE\" CALL, BEFORE HIS ARREST",
+          "role": "comparison"
+        },
+        {
+          "text": "GOWALIA TANK, BOMBAY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARUNA ASAF ALI HOISTS THE CONGRESS FLAG",
+          "role": "primary"
+        },
+        {
+          "text": "USHA MEHTA'S CONGRESS RADIO",
+          "role": "outcome"
+        },
+        {
+          "text": "JAYAPRAKASH NARAYAN AND RAM MANOHAR LOHIA ORGANISE RESISTANCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "8 AUG 1942 → Gandhi's \"Do or Die\" call, before his arrest",
+        "GOWALIA TANK, BOMBAY → Aruna Asaf Ali hoists the Congress flag",
+        "UNDERGROUND → Usha Mehta's Congress Radio",
+        "UNDERGROUND → Jayaprakash Narayan and Ram Manohar Lohia organise resistance.",
+        "EVIDENCE LIMIT: Official repression records, underground communications, local rebellions and the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "8 AUG 1942 → Gandhi's \"Do or Die\" call, before his arrest",
+            "GOWALIA TANK, BOMBAY → Aruna Asaf Ali hoists the Congress flag"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNDERGROUND → Usha Mehta's Congress Radio",
+            "UNDERGROUND → Jayaprakash Narayan and Ram Manohar Lohia organise resistance."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Official repression records, underground communications, local rebellions and the",
+            "1943 Bengal famine context qualify both leaderless-chaos and perfectly coordinated-revolution narratives."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Official repression records, underground communications, local rebellions and the 1943 Bengal famine context qualify both leaderless-chaos and perfectly coordinated-revolution narratives.",
+      "source_references": [
+        "Do or Die, Gowalia Tank and the underground resistance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PARALLEL GOVERNMENTS, SOCIAL BASE AND RESULTS",
+      "structural_type": "balance-sheet",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PARALLEL GOVERNMENTS, SOCIAL BASE AND RESULTS",
+          "role": "primary"
+        },
+        {
+          "text": "PARALLEL GOVERNMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "BALLIA; JATIYA SARKAR (TAMLUK); PRATI SARKAR (SATARA)",
+          "role": "comparison"
+        },
+        {
+          "text": "STUDENTS, WORKERS, PEASANTS; REGIONALLY VARIABLE INTENSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "LEAGUE ALOOF/OPPOSED; CPI PEOPLE'S WAR LINE; MAHASABHA/PRINCES DISTANT",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPRESSED WITHIN MONTHS; NO SOLO INDEPENDENCE; LASTING SENTIMENT SHOWN.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PARALLEL GOVERNMENTS → Ballia; Jatiya Sarkar (Tamluk); Prati Sarkar (Satara)",
+        "BASE → students, workers, peasants; regionally variable intensity",
+        "ALIGNMENTS → League aloof/opposed; CPI People's War line; Mahasabha/princes distant",
+        "RESULTS → suppressed within months; no solo independence; lasting sentiment shown."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PARALLEL GOVERNMENTS → Ballia; Jatiya Sarkar (Tamluk); Prati Sarkar (Satara)",
+            "BASE → students, workers, peasants; regionally variable intensity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALIGNMENTS → League aloof/opposed; CPI People's War line; Mahasabha/princes distant",
+            "RESULTS → suppressed within months; no solo independence; lasting sentiment shown."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARALLEL GOVERNMENTS → Ballia; Jatiya Sarkar (Tamluk); Prati Sarkar (Satara)",
+            "BASE → students, workers, peasants; regionally variable intensity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULTS → suppressed within months; no solo independence; lasting sentiment shown.",
+      "source_references": [
+        "Parallel national governments: Ballia, Tamluk and Satara",
+        "Social base, repression caution and political alignments",
+        "Results of Quit India and the 2024 Mains anchor",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE PRESENTS THE WAR YEARS AS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHICH IMPERIAL CLAIMS TO DEFEND DEMOCRACY CLASHED WITH THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CONGRESS RESPONSE WAS NOT ISOLATIONIST",
+          "role": "caution"
+        },
+        {
+          "text": "IT OBJECTED TO BEING COMMITTED TO WAR WITHOUT A",
+          "role": "primary"
+        },
+        {
+          "text": "THE AUGUST OFFER RETAINED THE VICEROY'S CONTROL AND GAVE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE COLONIAL PATTERN OF USING COMMUNAL SAFEGUARDS TO BLOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CRIPPS PROPOSALS RECOGNISED CONSTITUTION-MAKING BUT WEAKENED NATIONAL UNITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence presents the war years as a decisive phase in",
+            "which imperial claims to defend democracy clashed with the denial of Indian self-government.",
+            "The Congress response was not isolationist",
+            "it objected to being committed to war without a declaration that India would be free and without an immediate national government."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The August Offer retained the Viceroy's control and gave minorities a practical veto, strengthening",
+            "the colonial pattern of using communal safeguards to block national transfer of power.",
+            "The Cripps proposals recognised constitution-making but weakened national unity by allowing British Indian provinces not to accept the",
+            "princely-state representation remained controlled by rulers rather than popular election."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The arrest of the entire top leadership on 9 August 1942 produced a decentralised upsurge",
+            "local activists, students, workers, peasants and underground socialists carried the struggle forward.",
+            "The movement included strikes, processions, attacks on railways and telegraphs,",
+            "disruption of police stations, underground bulletins and clandestine radio broadcasts."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

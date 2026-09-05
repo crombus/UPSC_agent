@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-16",
+  "subject": "Political Theory",
+  "title": "CITIZENSHIP AND ITS CRITIQUES",
+  "short_route": "CITIZENSHIP: MEANING, STATUS AND → HISTORICAL GENEALOGY: ARISTOTLE, LOCKE → LIBERAL, LIBERTARIAN, MARXIST AND → REPUBLICAN CITIZENSHIP, PUBLIC ACTION → RIGHTS, DUTIES, OBLIGATION AND → THESES, DIRECTIVES AND COMPARATIVE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g3\\topic-16_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-16-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "28ddb4a9c2cadfb46111f12eec13240dd198096b8e57f4228d840b80bea31c89",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CITIZENSHIP: MEANING, STATUS AND DEMOCRATIC PRACTICE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MEANING, STATUS AND DEMOCRATIC PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CITIZENSHIP IS A LEGAL STATUS, A BUNDLE OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SUBSTANTIVE CITIZENSHIP TESTS WHETHER FORMALLY EQUAL MEMBERS CAN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CITIZEN-SUBJECT IS AN IDEAL-TYPE CONTRAST, NOT A COMPLETE",
+          "role": "caution"
+        },
+        {
+          "text": "[4] ANSWERS MUST DISTINGUISH MEMBERSHIP, PARTICIPATION, IDENTITY AND SOCIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CITIZENSHIP JOINS LEGAL MEMBERSHIP TO SUBSTANTIVE POLITICAL AGENCY.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Citizenship: Meaning, Status and Democratic Practice",
+        "[1] Citizenship is a legal status, a bundle of rights and a democratic practice.",
+        "[2] Substantive citizenship tests whether formally equal members can use those rights.",
+        "[3] Citizen-subject is an ideal-type contrast, not a complete history of every regime."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Citizenship: Meaning, Status and Democratic Practice",
+            "[1] Citizenship is a legal status, a bundle of rights and a democratic practice."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Substantive citizenship tests whether formally equal members can use those rights.",
+            "[3] Citizen-subject is an ideal-type contrast, not a complete history of every regime.",
+            "[4] Answers must distinguish membership, participation, identity and social capacity."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Citizenship joins legal membership to substantive political agency.",
+            "ANSWER USE → Begin by distinguishing status, rights, participation and capability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Citizenship joins legal membership to substantive political agency.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HISTORICAL GENEALOGY: ARISTOTLE, LOCKE AND MARSHALL",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HISTORICAL GENEALOGY",
+          "role": "primary"
+        },
+        {
+          "text": "ARISTOTLE, LOCKE AND MARSHALL",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ARISTOTLE LINKS CITIZENSHIP TO PARTICIPATION IN DELIBERATIVE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MODERN CITIZENSHIP EXPANDS BEYOND THE POLIS THROUGH RIGHTS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LOCKE SUPPLIES A RIGHTS-AND-TRUST TRADITION RATHER THAN A",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MARSHALL RECONSTRUCTS CIVIL, POLITICAL AND SOCIAL RIGHTS FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "CITIZENSHIP EXPANDED HISTORICALLY WITHOUT FOLLOWING ONE UNIVERSAL SEQUENCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Historical Genealogy: Aristotle, Locke and Marshall",
+        "[1] Aristotle links citizenship to participation in deliberative and judicial office.",
+        "[2] Modern citizenship expands beyond the polis through rights, representation and nation-state membership.",
+        "[3] Locke supplies a rights-and-trust tradition rather than a full modern citizenship theory."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Historical Genealogy: Aristotle, Locke and Marshall",
+            "[1] Aristotle links citizenship to participation in deliberative and judicial office."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Modern citizenship expands beyond the polis through rights, representation and nation-state membership.",
+            "[3] Locke supplies a rights-and-trust tradition rather than a full modern citizenship theory.",
+            "[4] Marshall reconstructs civil, political and social rights from the English case."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Citizenship expanded historically without following one universal sequence.",
+            "ANSWER USE → Use Aristotle, Locke and Marshall with explicit scope limits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Citizenship expanded historically without following one universal sequence.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LIBERAL, LIBERTARIAN, MARXIST AND COMMUNITARIAN MODELS",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIBERAL, LIBERTARIAN, MARXIST AND COMMUNITARIAN MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LIBERAL THEORY PROTECTS EQUAL LEGAL STATUS AND INDIVIDUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LIBERTARIAN THEORY NARROWS COMPULSORY PROVISION AND REDISTRIBUTIVE SOCIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MARXIST CRITIQUE ASKS WHETHER FORMAL EQUALITY MASKS CLASS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] COMMUNITARIAN THEORY STRESSES BELONGING, SHARED PRACTICES AND RECIPROCAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CITIZENSHIP THEORIES DISAGREE OVER LIBERTY, EQUALITY, CLASS AND BELONGING.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Liberal, Libertarian, Marxist and Communitarian Models",
+        "[1] Liberal theory protects equal legal status and individual rights.",
+        "[2] Libertarian theory narrows compulsory provision and redistributive social citizenship.",
+        "[3] Marxist critique asks whether formal equality masks class dependence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Liberal, Libertarian, Marxist and Communitarian Models",
+            "[1] Liberal theory protects equal legal status and individual rights."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Libertarian theory narrows compulsory provision and redistributive social citizenship.",
+            "[3] Marxist critique asks whether formal equality masks class dependence.",
+            "[4] Communitarian theory stresses belonging, shared practices and reciprocal obligation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Citizenship theories disagree over liberty, equality, class and belonging.",
+            "ANSWER USE → Compare each model through rights, duties, membership and exclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Citizenship theories disagree over liberty, equality, class and belonging.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "REPUBLICAN CITIZENSHIP, PUBLIC ACTION AND MEMBERSHIP",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REPUBLICAN CITIZENSHIP, PUBLIC ACTION AND MEMBERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] REPUBLICAN CITIZENSHIP CONNECTS FREEDOM WITH PARTICIPATION AND NON-DOMINATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ARENDT LINKS CITIZENSHIP TO A PUBLIC WORLD IN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] WALZER TREATS MEMBERSHIP AS A DISTINCT SPHERE WITH",
+          "role": "primary"
+        },
+        {
+          "text": "[4] BARBER'S STRONG DEMOCRACY INTENSIFIES PARTICIPATORY SELF-GOVERNMENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC ACTION, MEMBERSHIP AND PARTICIPATION ARE RELATED BUT DISTINCT.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Republican Citizenship, Public Action and Membership",
+        "[1] Republican citizenship connects freedom with participation and non-domination.",
+        "[2] Arendt links citizenship to a public world in which persons can appear and act.",
+        "[3] Walzer treats membership as a distinct sphere with distributive significance."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Arendt links citizenship to a public world in which persons can appear and act.",
+          "VERDICT → Public action, membership and participation are related but distinct."
+        ],
+        [
+          "Republican Citizenship, Public Action and Membership",
+          "[3] Walzer treats membership as a distinct sphere with distributive significance.",
+          "ANSWER USE → Keep Arendt, Walzer and Barber in their correct argumentative roles."
+        ],
+        [
+          "[1] Republican citizenship connects freedom with participation and non-domination.",
+          "[4] Barber's strong democracy intensifies participatory self-government.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Republican Citizenship, Public Action and Membership",
+            "[1] Republican citizenship connects freedom with participation and non-domination."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Arendt links citizenship to a public world in which persons can appear and act.",
+            "[3] Walzer treats membership as a distinct sphere with distributive significance.",
+            "[4] Barber's strong democracy intensifies participatory self-government."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Public action, membership and participation are related but distinct.",
+            "ANSWER USE → Keep Arendt, Walzer and Barber in their correct argumentative roles."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Public action, membership and participation are related but distinct.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RIGHTS, DUTIES, OBLIGATION AND RECIPROCITY",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RIGHTS, DUTIES, OBLIGATION AND RECIPROCITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DUTIES INCLUDE LAWFULNESS, TAXES, CIVIC CONTRIBUTION AND PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] POLITICAL OBLIGATION REMAINS CONDITIONAL ON LEGITIMACY RATHER THAN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] RECIPROCITY ASKS WHETHER MEMBERS BOTH RECEIVE PROTECTION AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] A RIGHTS-DUTY ANSWER MUST NOT CONVERT CITIZENSHIP INTO",
+          "role": "caution"
+        },
+        {
+          "text": "RECIPROCAL CITIZENSHIP SUPPORTS DUTIES WITHOUT LICENSING UNCONDITIONAL OBEDIENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Rights, Duties, Obligation and Reciprocity",
+        "[1] Duties include lawfulness, taxes, civic contribution and protection of institutions.",
+        "[2] Political obligation remains conditional on legitimacy rather than mere legal status.",
+        "[3] Reciprocity asks whether members both receive protection and sustain common institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Rights, Duties, Obligation and Reciprocity",
+            "[1] Duties include lawfulness, taxes, civic contribution and protection of institutions."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Political obligation remains conditional on legitimacy rather than mere legal status.",
+            "[3] Reciprocity asks whether members both receive protection and sustain common institutions.",
+            "[4] A rights-duty answer must not convert citizenship into unconditional obedience."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Reciprocal citizenship supports duties without licensing unconditional obedience.",
+            "ANSWER USE → Connect contribution to legitimate and non-dominating institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Reciprocal citizenship supports duties without licensing unconditional obedience.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESES, DIRECTIVES AND COMPARATIVE ANSWER DESIGN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THESES, DIRECTIVES AND COMPARATIVE ANSWER DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A THESIS SHOULD NAME THE MODEL OF CITIZENSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECTIVE CONTROL DETERMINES WHETHER THE ANSWER EXPLAINS, COMPARES",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MARSHALL ANSWERS NEED SEQUENCE, ENGLISH-CASE LIMITS AND THE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MIGRATION ANSWERS MUST SEPARATE NATIONALITY, IDENTITY, RESIDENCE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVE CONTROL PREVENTS HISTORY, THEORY AND CRITIQUE FROM BECOMING",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses, Directives and Comparative Answer Design",
+        "[1] A thesis should name the model of citizenship and the exclusion it diagnoses.",
+        "[2] Directive control determines whether the answer explains, compares or evaluates.",
+        "[3] Marshall answers need sequence, English-case limits and the welfare-state mechanism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses, Directives and Comparative Answer Design",
+            "[1] A thesis should name the model of citizenship and the exclusion it diagnoses."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Directive control determines whether the answer explains, compares or evaluates.",
+            "[3] Marshall answers need sequence, English-case limits and the welfare-state mechanism.",
+            "[4] Migration answers must separate nationality, identity, residence and political membership."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Directive control prevents history, theory and critique from becoming a list.",
+            "ANSWER USE → State the citizenship model and the precise exclusion under review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Directive control prevents history, theory and critique from becoming a list.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FEMINIST, DIFFERENTIATED, MINORITY AND SUBALTERN CRITIQUES",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FEMINIST, DIFFERENTIATED, MINORITY AND SUBALTERN CRITIQUES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FEMINIST CRITIQUE EXPOSES THE PUBLIC-PRIVATE SPLIT AND UNEQUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] YOUNG CHALLENGES UNIVERSAL CITIZENSHIP THAT ASSIMILATES GROUP DIFFERENCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] KYMLICKA DEFENDS DIFFERENTIATED MINORITY RIGHTS WITHIN LIBERAL CITIZENSHIP.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] SUBALTERN CRITIQUE ASKS WHO CAN SPEAK, ORGANISE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL TREATMENT CAN REPRODUCE EXCLUSION WHEN SOCIAL POSITIONS ARE",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Feminist, Differentiated, Minority and Subaltern Critiques",
+        "[1] Feminist critique exposes the public-private split and unequal care burdens.",
+        "[2] Young challenges universal citizenship that assimilates group difference.",
+        "[3] Kymlicka defends differentiated minority rights within liberal citizenship."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Feminist, Differentiated, Minority and Subaltern Critiques",
+            "[1] Feminist critique exposes the public-private split and unequal care burdens."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Young challenges universal citizenship that assimilates group difference.",
+            "[3] Kymlicka defends differentiated minority rights within liberal citizenship.",
+            "[4] Subaltern critique asks who can speak, organise and convert formal rights into voice."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Equal treatment can reproduce exclusion when social positions are unequal.",
+            "ANSWER USE → Distinguish feminist, Young, Kymlicka and subaltern mechanisms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Equal treatment can reproduce exclusion when social positions are unequal.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GIDDENS, HELD, TURNER AND ADVANCED CITIZENSHIP DEBATES",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GIDDENS, HELD, TURNER AND ADVANCED CITIZENSHIP DEBATES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GIDDENS'S CONFLICT ACCOUNT LINKS CITIZENSHIP EXPANSION TO ORGANISED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] HIS LATER SURVEILLANCE ANALYSIS SHOULD REMAIN SEPARATE FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] HELD STUDIES CITIZENSHIP UNDER OVERLAPPING NATIONAL AND TRANSNATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] TURNER LINKS CITIZENSHIP TO SOCIAL CLOSURE, EMBODIMENT AND",
+          "role": "outcome"
+        },
+        {
+          "text": "CITIZENSHIP RIGHTS EMERGE THROUGH CONFLICT AND CHANGING AUTHORITY STRUCTURES.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Giddens, Held, Turner and Advanced Citizenship Debates",
+        "[1] Giddens's conflict account links citizenship expansion to organised struggle.",
+        "[2] His later surveillance analysis should remain separate from the 1982 rights argument.",
+        "[3] Held studies citizenship under overlapping national and transnational authority."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Giddens, Held, Turner and Advanced Citizenship Debates",
+            "[1] Giddens's conflict account links citizenship expansion to organised struggle."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] His later surveillance analysis should remain separate from the 1982 rights argument.",
+            "[3] Held studies citizenship under overlapping national and transnational authority.",
+            "[4] Turner links citizenship to social closure, embodiment and contested membership."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Citizenship rights emerge through conflict and changing authority structures.",
+            "ANSWER USE → Separate Giddens's two arguments and mark later extensions clearly."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Citizenship rights emerge through conflict and changing authority structures.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MIGRATION, JUS SOLI, JUS SANGUINIS, STATELESSNESS AND DENIZENSHIP",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MIGRATION, JUS SOLI, JUS SANGUINIS, STATELESSNESS AND DENIZENSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] JUS SOLI ASSIGNS NATIONALITY THROUGH TERRITORIAL BIRTH; JUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] STATELESSNESS MEANS NO STATE CONSIDERS THE PERSON ITS",
+          "role": "caution"
+        },
+        {
+          "text": "[3] DENIZENS POSSESS DURABLE RESIDENCE AND SUBSTANTIAL RIGHTS WITHOUT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MIGRATION REVEALS GOVERNANCE WITHOUT EQUAL AUTHORSHIP OF BINDING",
+          "role": "outcome"
+        },
+        {
+          "text": "MIGRATION SEPARATES RESIDENCE, NATIONALITY AND POLITICAL AUTHORSHIP.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship",
+        "[1] Jus soli assigns nationality through territorial birth; jus sanguinis through descent.",
+        "[2] Statelessness means no state considers the person its national under its law.",
+        "[3] Denizens possess durable residence and substantial rights without full political membership."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship",
+            "[1] Jus soli assigns nationality through territorial birth; jus sanguinis through descent."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Statelessness means no state considers the person its national under its law.",
+            "[3] Denizens possess durable residence and substantial rights without full political membership.",
+            "[4] Migration reveals governance without equal authorship of binding rules."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Migration separates residence, nationality and political authorship.",
+            "ANSWER USE → Define each legal status before evaluating inclusion or exclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Migration separates residence, nationality and political authorship.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CITIZENSHIP, LEGAL NATIONALITY, NATIONAL IDENTITY AND CIVIC CAPABILITY",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CITIZENSHIP, LEGAL NATIONALITY, NATIONAL IDENTITY AND CIVIC CAPABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CITIZENSHIP NAMES DOMESTIC LEGAL-POLITICAL MEMBERSHIP AND ITS RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LEGAL NATIONALITY IS THE PERSON-STATE BOND RECOGNISED IN",
+          "role": "institution"
+        },
+        {
+          "text": "[3] NATIONAL IDENTITY IS CULTURAL OR POLITICAL IDENTIFICATION, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[4] THE ECI LITERACY ANCHOR ILLUSTRATES CIVIC CAPABILITY WITHOUT",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIC LITERACY BUILDS CAPABILITY BUT DOES NOT PROVE EQUAL",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Citizenship, Legal Nationality, National Identity and Civic Capability",
+        "[1] Citizenship names domestic legal-political membership and its rights and duties.",
+        "[2] Legal nationality is the person-state bond recognised in international law.",
+        "[3] National identity is cultural or political identification, not a documentary synonym."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Citizenship, Legal Nationality, National Identity and Civic Capability",
+            "[1] Citizenship names domestic legal-political membership and its rights and duties."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Legal nationality is the person-state bond recognised in international law.",
+            "[3] National identity is cultural or political identification, not a documentary synonym.",
+            "[4] The ECI literacy anchor illustrates civic capability without proving equal participation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Civic literacy builds capability but does not prove equal democratic power.",
+            "ANSWER USE → Use the verified ECI anchor with a clear evidence boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Civic literacy builds capability but does not prove equal democratic power.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TEST LEGAL STATUS VERSUS EFFECTIVE CAPABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ARENDT, WALZER AND BARBER ADDRESS PUBLIC ACTION, MEMBERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] YOUNG'S DIFFERENTIATED CITIZENSHIP IS NOT KYMLICKA'S COMPLETE MINORITY-RIGHTS",
+          "role": "caution"
+        },
+        {
+          "text": "[4] MARSHALL'S SEQUENCE IS AN ENGLISH RECONSTRUCTION, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE OPTIONS TURN ON HOLDER, MECHANISM, PROVENANCE AND SCOPE.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options test legal status versus effective capability and identity versus nationality.",
+        "[2] Arendt, Walzer and Barber address public action, membership and participation differently.",
+        "[3] Young's differentiated citizenship is not Kymlicka's complete minority-rights framework."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close options test legal status versus effective capability and identity versus nationality."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Arendt, Walzer and Barber address public action, membership and participation differently.",
+            "[3] Young's differentiated citizenship is not Kymlicka's complete minority-rights framework.",
+            "[4] Marshall's sequence is an English reconstruction, not a universal law of development."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options turn on holder, mechanism, provenance and scope.",
+            "ANSWER USE → Correct the tempting overclaim before selecting the answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close options turn on holder, mechanism, provenance and scope.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ONE CROSS-APPLIED PYQ ASKS WHETHER RIGHTS MAKE CITIZENS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PRIMARY OWNERSHIP REMAINS PHILOSOPHY PAPER II - INDIVIDUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SIX ORIGINAL QUESTIONS TEST GENEALOGY, THEORIES, CRITIQUES AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL STATUS IS INCOMPLETE WITHOUT USABLE VOICE AND NON-DOMINATED",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-APPLICATION PRESERVES PYQ OWNERSHIP WHILE TESTING CITIZENSHIP LOGIC.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] One cross-applied PYQ asks whether rights make citizens accountable to the state.",
+        "[2] Primary ownership remains Philosophy Paper II - Individual and State.",
+        "[3] Six original questions test genealogy, theories, critiques and migration boundaries."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] One cross-applied PYQ asks whether rights make citizens accountable to the state."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Primary ownership remains Philosophy Paper II - Individual and State.",
+            "[3] Six original questions test genealogy, theories, critiques and migration boundaries.",
+            "[4] Final recall: equal status is incomplete without usable voice and non-dominated membership."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Cross-application preserves PYQ ownership while testing citizenship logic.",
+            "ANSWER USE → End on fair membership, usable voice and resistance to domination."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Cross-application preserves PYQ ownership while testing citizenship logic.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

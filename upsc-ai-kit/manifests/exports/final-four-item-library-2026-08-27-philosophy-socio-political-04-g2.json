@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-27T12:29:53+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "22913536faf43559dd0a531c299d8e7ee991bd4771bec0ec041796a5937cbc9c",
+    "sha256_after": "22913536faf43559dd0a531c299d8e7ee991bd4771bec0ec041796a5937cbc9c",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Philosophy Optional": 1
+  },
+  "sections": {
+    "Philosophy Optional — Philosophy Paper II — Socio-Political Philosophy": 1
+  },
+  "library_totals": {
+    "file_count": 894,
+    "pdf_count": 530,
+    "png_count": 106,
+    "txt_count": 212,
+    "markdown_count": 30,
+    "json_count": 1,
+    "total_bytes": 1029763881,
+    "by_extension": {
+      ".json": 1,
+      ".md": 30,
+      ".pdf": 530,
+      ".png": 106,
+      ".txt": 212,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+      "topic_title": "Forms of Government",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper II — Socio-Political Philosophy",
+      "catalogue_number": 4,
+      "source_record_id": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-04_Learning-Session_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "ee9eecde6b4ee76d5bef2014e3e6626f6a974617a948f49e2609f2be6f99b732",
+          "output_sha256": "ee9eecde6b4ee76d5bef2014e3e6626f6a974617a948f49e2609f2be6f99b732",
+          "source_output_equal": true,
+          "bytes": 612772
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-04_Solved-Workbook_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "1537ce55f36fb93a2e332a138836a7ffcb5e458704eea61fa07976b157f5d12f",
+          "output_sha256": "1537ce55f36fb93a2e332a138836a7ffcb5e458704eea61fa07976b157f5d12f",
+          "source_output_equal": true,
+          "bytes": 394029
+        },
+        "graphical_poster": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-04\\continuous-at-a-glance-english-first-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "b7c8303c5c61a7aba2d30518c46bd126590d624f7f7ffea777c39a31b1f5f0bc",
+          "output_sha256": "b7c8303c5c61a7aba2d30518c46bd126590d624f7f7ffea777c39a31b1f5f0bc",
+          "source_output_equal": true,
+          "bytes": 2491382
+        },
+        "graphical_tiled": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-04\\continuous-at-a-glance-english-first-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "84184606d931edc1ffc6ea00867d6e795c9d048826842572d928dccdf6f33930",
+          "output_sha256": "84184606d931edc1ffc6ea00867d6e795c9d048826842572d928dccdf6f33930",
+          "source_output_equal": true,
+          "bytes": 2807552
+        },
+        "graphical_master": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-04\\continuous-at-a-glance-english-first-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "5c8210b54fdae2592cecaef129918fd8748c841e58fad5977694bff095779403",
+          "output_sha256": "5c8210b54fdae2592cecaef129918fd8748c841e58fad5977694bff095779403",
+          "source_output_equal": true,
+          "bytes": 2163840
+        },
+        "ascii_master_text": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-04\\continuous-at-a-glance-english-first-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b4ddcc19a26b01cd0bbd68bda94212a3a3380a93d05bb515059b1db5b292d5da",
+          "output_sha256": "b4ddcc19a26b01cd0bbd68bda94212a3a3380a93d05bb515059b1db5b292d5da",
+          "source_output_equal": true,
+          "bytes": 18801
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-04\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\04-Forms-of-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "e68fbc49b02ff31a2713c5530d3dd46fbb72545865b5268db4332f66ba18e17a",
+          "output_sha256": "e68fbc49b02ff31a2713c5530d3dd46fbb72545865b5268db4332f66ba18e17a",
+          "source_output_equal": true,
+          "source_text_sha256": "b4ddcc19a26b01cd0bbd68bda94212a3a3380a93d05bb515059b1db5b292d5da",
+          "normalized_text_equal": true,
+          "bytes": 63262
+        }
+      },
+      "ascii": {
+        "text_panel_count": 10,
+        "pdf_panel_count": 10,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 28,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 29,
+            "maximum_line_characters": 104,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 27,
+            "maximum_line_characters": 98,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 32,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 32,
+            "maximum_line_characters": 103,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 33,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 29,
+            "maximum_line_characters": 105,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 33,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 32,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 32,
+            "maximum_line_characters": 104,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 89,
+        "solved_practice_workbook": 32,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 10
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 89,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 32,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 10,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11372
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Essay learner-v2 Topic 04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "essay-04",
+      "display_title": "Brainstorming and Dimensional Expansion",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-04_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Divergent-to-convergent funnel",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DECODED PROMPT",
+            "DIVERGE -> generate candidate claims",
+            "FILTER -> mechanism + evidence + limit",
+            "CONVERGE -> coherent argument clusters"
+          ],
+          "source_references": [
+            "Divergent pass",
+            "Convergent pass"
+          ]
+        },
+        {
+          "title": "Actor ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "INDIVIDUAL -> FAMILY OR COMMUNITY",
+            "INSTITUTION -> STATE",
+            "GLOBAL ORDER -> CIVILISATION",
+            "KEEP ONLY -> levels that change claim or mechanism"
+          ],
+          "source_references": [
+            "Actor axis",
+            "Mechanism test"
+          ]
+        },
+        {
+          "title": "Scale-time matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "LOCAL TO NATIONAL -> proximity and institutions",
+            "GLOBAL TO CIVILISATIONAL -> systems and long-run pattern",
+            "PAST TO PRESENT -> continuity and change",
+            "FUTURE -> plausible trajectory, not prediction"
+          ],
+          "source_references": [
+            "Scale axis",
+            "Time axis"
+          ]
+        },
+        {
+          "title": "Domain search field",
+          "structural_type": "radial-map",
+          "ascii_lines": [
+            "SOCIAL + ECONOMIC + POLITICAL",
+            "ETHICAL + CULTURAL",
+            "TECHNOLOGICAL + ECOLOGICAL",
+            "RULE -> lens earns entry only through a distinct claim"
+          ],
+          "source_references": [
+            "Domain axis",
+            "Value-institution-technology-environment pass"
+          ]
+        },
+        {
+          "title": "Causal architecture",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "IMMEDIATE CAUSE -> STRUCTURAL CAUSE",
+            "IMPACT -> DISTRIBUTIONAL EFFECT",
+            "RESPONSE -> FEEDBACK",
+            "LIMIT -> not every prompt requires the whole chain"
+          ],
+          "source_references": [
+            "Causality axis",
+            "Distribution axis",
+            "Cause-impact-response boundary"
+          ]
+        },
+        {
+          "title": "Direction test",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "INTENDED BENEFIT",
+            "UNINTENDED CONSEQUENCE",
+            "WHO GAINS OR LOSES",
+            "SYNTHESIS -> conditions changing the balance"
+          ],
+          "source_references": [
+            "Direction axis",
+            "Distribution axis"
+          ]
+        },
+        {
+          "title": "Framework firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PESTLE -> recall prompt",
+            "ACTOR OR DOMAIN GRID -> search aid",
+            "COMPULSORY HEADINGS -> reject",
+            "OUTPUT -> prompt-specific claims without visible template"
+          ],
+          "source_references": [
+            "PESTLE boundary",
+            "Domain axis"
+          ]
+        },
+        {
+          "title": "Claim distinction test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WRITE ONE SENTENCE PER DIMENSION",
+            "SAME CLAIM IN NEW WORDS? -> DELETE",
+            "NEW MECHANISM OR SCALE? -> CONTINUE",
+            "NO THESIS LINK? -> PARK"
+          ],
+          "source_references": [
+            "One-line claim test",
+            "Redundancy removal"
+          ]
+        },
+        {
+          "title": "Evidence-limit card",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CLAIM -> MECHANISM",
+            "MECHANISM -> NAMED EVIDENCE",
+            "EVIDENCE -> LIMIT OR COUNTER-CASE",
+            "COMPLETE CARD -> eligible for prioritisation"
+          ],
+          "source_references": [
+            "Mechanism test",
+            "Evidence map",
+            "Limit map"
+          ]
+        },
+        {
+          "title": "Prioritisation grid",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "THESIS RELEVANCE -> high or low",
+            "MECHANISM STRENGTH -> clear or vague",
+            "EVIDENCE SAFETY -> secure or risky",
+            "NEW ARGUMENT JOB -> distinct or redundant"
+          ],
+          "source_references": [
+            "Prioritisation",
+            "Redundancy removal"
+          ]
+        },
+        {
+          "title": "Cluster builder",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "RELATED CLAIMS -> one mechanism cluster",
+            "CLUSTER ONE -> foundation",
+            "CLUSTER TWO -> expansion or complication",
+            "CLUSTER THREE -> counter-view and synthesis"
+          ],
+          "source_references": [
+            "Clustering",
+            "Argument sequence"
+          ]
+        },
+        {
+          "title": "Brainstorming answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DIVERGE ACROSS ACTOR SCALE TIME DOMAIN",
+            "TEST CAUSALITY DISTRIBUTION AND DIRECTION",
+            "WRITE CLAIMS -> MAP EVIDENCE -> MAP LIMITS",
+            "PRIORITISE -> CLUSTER -> CUT -> SEQUENCE"
+          ],
+          "source_references": [
+            "Convergent pass",
+            "Argument sequence",
+            "Evidence map"
+          ]
+        }
+      ]
+    }
+  ]
+}

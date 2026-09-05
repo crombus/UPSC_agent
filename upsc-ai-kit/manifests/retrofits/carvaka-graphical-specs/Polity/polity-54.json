@@ -1,0 +1,1144 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-54",
+  "subject": "Polity",
+  "title": "LOK ADALATS AND OTHER COURTS",
+  "short_route": "ARTICLE 39A AND THE → LEGAL-SERVICES AUTHORITY LADDER → SECTION 12 ELIGIBILITY AND → ORDINARY LOK ADALAT JURISDICTION → ORDINARY AWARD, FAILURE AND → PERMANENT LOK ADALAT JURISDICTION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "REVALIDATION PENDING",
+    "line": "Approval: FALSE | immutable successor generated after deep review | baseline g2 preserved"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "b8d45e3280286c6ff91ca4c0551831aaa44c6ce36f7bbed307174943fd30cb08",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLE 39A AND THE ACCESS-TO-JUSTICE CHAIN",
+      "structural_type": "deep-review-01",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 39A AND THE ACCESS-TO-JUSTICE CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "ART 39A",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL-OPPORTUNITY JUSTICE + FREE LEGAL AID.",
+          "role": "comparison"
+        },
+        {
+          "text": "HUSSAINARA KHATOON (1979)",
+          "role": "evidence"
+        },
+        {
+          "text": "ART 21 FAIR PROCEDURE, LEGAL ASSISTANCE AND SPEEDY JUSTICE.",
+          "role": "primary"
+        },
+        {
+          "text": "1987 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "INSTITUTIONS + ELIGIBILITY + LOK ADALATS.",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTIVE PRINCIPLE BECOMES OPERATIONAL THROUGH LAW AND REMEDIES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ART 39A → equal-opportunity justice + free legal aid.",
+        "Hussainara Khatoon (1979) → Art 21 fair procedure, legal assistance and speedy justice.",
+        "1987 ACT → institutions + eligibility + Lok Adalats.",
+        "VERDICT: Directive Principle becomes operational through law and remedies."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ART 39A → equal-opportunity justice + free legal aid.",
+            "Hussainara Khatoon (1979) → Art 21 fair procedure, legal assistance and speedy justice."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1987 ACT → institutions + eligibility + Lok Adalats.",
+            "VERDICT: Directive Principle becomes operational through law and remedies."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ART 39A → equal-opportunity justice + free legal aid.",
+            "Hussainara Khatoon (1979) → Art 21 fair procedure, legal assistance and speedy justice."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "1987 ACT → institutions + eligibility + Lok Adalats.",
+            "VERDICT: Directive Principle becomes operational through law and remedies."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Directive Principle becomes operational through law and remedies.",
+      "answer_line": "Directive Principle becomes operational through law and remedies.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LEGAL-SERVICES AUTHORITY LADDER",
+      "structural_type": "deep-review-02",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGAL-SERVICES AUTHORITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL POLICY AND SCHEMES.",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPREME COURT COMMITTEE",
+          "role": "institution"
+        },
+        {
+          "text": "SUPREME COURT MATTERS.",
+          "role": "institution"
+        },
+        {
+          "text": "SLSA + HIGH COURT COMMITTEE",
+          "role": "institution"
+        },
+        {
+          "text": "STATE/HIGH COURT DELIVERY.",
+          "role": "institution"
+        },
+        {
+          "text": "DLSA + TLSC",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRICT/TALUK IMPLEMENTATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NALSA → national policy and schemes.",
+        "SUPREME COURT COMMITTEE → Supreme Court matters.",
+        "SLSA + HIGH COURT COMMITTEE → State/High Court delivery.",
+        "DLSA + TLSC → district/taluk implementation.",
+        "TRAP: statutory SLSA, not SALSA; bodies are not constitutional courts."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NALSA → national policy and schemes.",
+            "SUPREME COURT COMMITTEE → Supreme Court matters."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SLSA + HIGH COURT COMMITTEE → State/High Court delivery.",
+            "DLSA + TLSC → district/taluk implementation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: statutory SLSA, not SALSA; bodies are not constitutional courts.",
+            "NALSA → national policy and schemes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SUPREME COURT COMMITTEE → Supreme Court matters.",
+            "SLSA + HIGH COURT COMMITTEE → State/High Court delivery."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "statutory SLSA, not SALSA; bodies are not constitutional courts.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SECTION 12 ELIGIBILITY AND QUALITY GATE",
+      "structural_type": "deep-review-03",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SECTION 12 ELIGIBILITY AND QUALITY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "SC/ST, WOMEN/CHILDREN, DISABILITY, CUSTODY, WORKMEN AND LISTED VULNERABILITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOME ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESCRIBED CEILING.",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 13",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMA FACIE CASE.",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALITY TEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATUS ROUTES → SC/ST, women/children, disability, custody, workmen and listed vulnerability.",
+        "INCOME ROUTE → prescribed ceiling.",
+        "SECTION 13 → prima facie case.",
+        "QUALITY TEST: early advice + competent representation + accessible delivery."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATUS ROUTES → SC/ST, women/children, disability, custody, workmen and listed vulnerability.",
+            "INCOME ROUTE → prescribed ceiling."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 13 → prima facie case.",
+            "QUALITY TEST: early advice + competent representation + accessible delivery."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS ROUTES → SC/ST, women/children, disability, custody, workmen and listed vulnerability.",
+            "INCOME ROUTE → prescribed ceiling."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SECTION 13 → prima facie case.",
+            "QUALITY TEST: early advice + competent representation + accessible delivery."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALITY TEST: early advice + competent representation + accessible delivery.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ORDINARY LOK ADALAT JURISDICTION",
+      "structural_type": "deep-review-04",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ORDINARY LOK ADALAT JURISDICTION",
+          "role": "primary"
+        },
+        {
+          "text": "PENDING CASE OR PRE-LITIGATION DISPUTE WITHIN COURT JURISDICTION.",
+          "role": "institution"
+        },
+        {
+          "text": "NON-COMPOUNDABLE OFFENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE OF PUNJAB V. JALOUR SINGH (2008)",
+          "role": "institution"
+        },
+        {
+          "text": "NO MERITS ADJUDICATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PENDING CASE or PRE-LITIGATION DISPUTE within court jurisdiction.",
+        "EXCLUDED → non-compoundable offence.",
+        "PROCESS → referral/application → conciliation → compromise.",
+        "State of Punjab v. Jalour Singh (2008): no merits adjudication."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PENDING CASE or PRE-LITIGATION DISPUTE within court jurisdiction.",
+            "EXCLUDED → non-compoundable offence."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PROCESS → referral/application → conciliation → compromise.",
+            "State of Punjab v. Jalour Singh (2008): no merits adjudication."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PENDING CASE or PRE-LITIGATION DISPUTE within court jurisdiction.",
+            "EXCLUDED → non-compoundable offence."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PROCESS → referral/application → conciliation → compromise.",
+            "State of Punjab v. Jalour Singh (2008): no merits adjudication."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "State of Punjab v. Jalour Singh (2008): no merits adjudication.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ORDINARY AWARD, FAILURE AND REVIEW",
+      "structural_type": "deep-review-05",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ORDINARY AWARD, FAILURE AND REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "AWARD DEEMED CIVIL-COURT DECREE",
+          "role": "institution"
+        },
+        {
+          "text": "NO STATUTORY APPEAL.",
+          "role": "caution"
+        },
+        {
+          "text": "NO SETTLEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "PENDING CASE RETURNS",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY REMEDY CONTINUES.",
+          "role": "outcome"
+        },
+        {
+          "text": "WRIT CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "FRAUD, NO GENUINE CONSENT, JURISDICTION OR NATURAL-JUSTICE DEFECT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SETTLEMENT → award deemed civil-court decree → final/binding → no statutory appeal.",
+        "NO SETTLEMENT → pending case returns / ordinary remedy continues.",
+        "WRIT CONTROL → fraud, no genuine consent, jurisdiction or natural-justice defect.",
+        "FINALITY != power to compel compromise."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SETTLEMENT → award deemed civil-court decree → final/binding → no statutory appeal.",
+            "NO SETTLEMENT → pending case returns / ordinary remedy continues."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "WRIT CONTROL → fraud, no genuine consent, jurisdiction or natural-justice defect.",
+            "FINALITY != power to compel compromise."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SETTLEMENT → award deemed civil-court decree → final/binding → no statutory appeal.",
+            "NO SETTLEMENT → pending case returns / ordinary remedy continues."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "WRIT CONTROL → fraud, no genuine consent, jurisdiction or natural-justice defect.",
+            "FINALITY != power to compel compromise."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WRIT CONTROL → fraud, no genuine consent, jurisdiction or natural-justice defect.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PERMANENT LOK ADALAT JURISDICTION",
+      "structural_type": "deep-review-06",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERMANENT LOK ADALAT JURISDICTION",
+          "role": "primary"
+        },
+        {
+          "text": "CHAPTER VI-A",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDING BODY FOR PUBLIC UTILITY SERVICES.",
+          "role": "comparison"
+        },
+        {
+          "text": "PRE-LITIGATION ONLY.",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-COMPOUNDABLE OFFENCE + NOTIFIED PECUNIARY BOUNDARY.",
+          "role": "primary"
+        },
+        {
+          "text": "INTERGLOBE AVIATION V. N. SATCHIDANAND (2011)",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDINARY AND PERMANENT LOK ADALATS DIFFER.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CHAPTER VI-A → standing body for PUBLIC UTILITY SERVICES.",
+        "STAGE → pre-litigation only.",
+        "BAR → non-compoundable offence + notified pecuniary boundary.",
+        "InterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHAPTER VI-A → standing body for PUBLIC UTILITY SERVICES.",
+            "STAGE → pre-litigation only."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BAR → non-compoundable offence + notified pecuniary boundary.",
+            "InterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHAPTER VI-A → standing body for PUBLIC UTILITY SERVICES.",
+            "STAGE → pre-litigation only."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "BAR → non-compoundable offence + notified pecuniary boundary.",
+            "InterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "InterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PLA CONCILIATION-TO-ADJUDICATION SEQUENCE",
+      "structural_type": "deep-review-07",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PLA CONCILIATION-TO-ADJUDICATION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CONCILIATION PAPERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLEMENT TERMS",
+          "role": "comparison"
+        },
+        {
+          "text": "AGREEMENT AWARD.",
+          "role": "evidence"
+        },
+        {
+          "text": "IF FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "ELIGIBLE MERITS DECISION.",
+          "role": "outcome"
+        },
+        {
+          "text": "BAR COUNCIL OF INDIA V. UNION OF INDIA (2012)",
+          "role": "institution"
+        },
+        {
+          "text": "DESIGN UPHELD.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPLICATION → conciliation papers → settlement terms → agreement award.",
+        "IF FAILURE → eligible merits decision.",
+        "Bar Council of India v. Union of India (2012) → design upheld.",
+        "Canara Bank v. G.S. Jayarama (2022) → follow statutory conciliation sequence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "APPLICATION → conciliation papers → settlement terms → agreement award.",
+            "IF FAILURE → eligible merits decision."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Bar Council of India v. Union of India (2012) → design upheld.",
+            "Canara Bank v. G.S. Jayarama (2022) → follow statutory conciliation sequence."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "APPLICATION → conciliation papers → settlement terms → agreement award.",
+            "IF FAILURE → eligible merits decision."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Bar Council of India v. Union of India (2012) → design upheld.",
+            "Canara Bank v. G.S. Jayarama (2022) → follow statutory conciliation sequence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Canara Bank v. G.S. Jayarama (2022) → follow statutory conciliation sequence.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GRAM NYAYALAYA AS A STATUTORY COURT",
+      "structural_type": "deep-review-08",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GRAM NYAYALAYA AS A STATUTORY COURT",
+          "role": "institution"
+        },
+        {
+          "text": "2008 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "STATE ESTABLISHMENT AFTER HIGH COURT CONSULTATION.",
+          "role": "institution"
+        },
+        {
+          "text": "JMFC QUALIFICATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILE FIRST INSTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED CIVIL/CRIMINAL CASES + CONCILIATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRICT COURT",
+          "role": "institution"
+        },
+        {
+          "text": "SESSIONS COURT.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "2008 ACT → State establishment after High Court consultation.",
+        "NYAYADHIKARI → JMFC qualification.",
+        "MOBILE FIRST INSTANCE → scheduled civil/criminal cases + conciliation.",
+        "APPEAL → District Court / Sessions Court.",
+        "TRAP: not Panchayat, khap or Lok Adalat."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2008 ACT → State establishment after High Court consultation.",
+            "NYAYADHIKARI → JMFC qualification."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MOBILE FIRST INSTANCE → scheduled civil/criminal cases + conciliation.",
+            "APPEAL → District Court / Sessions Court."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: not Panchayat, khap or Lok Adalat.",
+            "2008 ACT → State establishment after High Court consultation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NYAYADHIKARI → JMFC qualification.",
+            "MOBILE FIRST INSTANCE → scheduled civil/criminal cases + conciliation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MOBILE FIRST INSTANCE → scheduled civil/criminal cases + conciliation.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FAMILY AND SPECIALIST-COURT DISTINCTIONS",
+      "structural_type": "deep-review-09",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FAMILY AND SPECIALIST-COURT DISTINCTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "FAMILY COURT",
+          "role": "institution"
+        },
+        {
+          "text": "ADJUDICATION + CONCILIATION + PRIVACY + HIGH COURT APPEAL.",
+          "role": "institution"
+        },
+        {
+          "text": "FAST TRACK",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPACITY SCHEME.",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL COURT",
+          "role": "institution"
+        },
+        {
+          "text": "PARENT-STATUTE JURISDICTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL COURT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FAMILY COURT → adjudication + conciliation + privacy + High Court appeal.",
+        "FAST TRACK → capacity scheme.",
+        "SPECIAL COURT → parent-statute jurisdiction.",
+        "COMMERCIAL COURT → statutory civil court and case management.",
+        "EVENING COURT → administrative sitting format."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FAMILY COURT → adjudication + conciliation + privacy + High Court appeal.",
+            "FAST TRACK → capacity scheme."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SPECIAL COURT → parent-statute jurisdiction.",
+            "COMMERCIAL COURT → statutory civil court and case management."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVENING COURT → administrative sitting format.",
+            "FAMILY COURT → adjudication + conciliation + privacy + High Court appeal."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FAST TRACK → capacity scheme.",
+            "SPECIAL COURT → parent-statute jurisdiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMERCIAL COURT → statutory civil court and case management.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MEDIATION, ARBITRATION AND COURT FIREWALL",
+      "structural_type": "deep-review-10",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MEDIATION, ARBITRATION AND COURT FIREWALL",
+          "role": "institution"
+        },
+        {
+          "text": "AFCONS INFRASTRUCTURE V. CHERIAN VARKEY CONSTRUCTION (2010)",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURED ADR REFERRAL.",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTY-MADE SETTLEMENT.",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVATE ADJUDICATION AND STATUTORY AWARD CHALLENGE.",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY LOK ADALAT",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPROMISE AWARD.",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITED POST-CONCILIATION ADJUDICATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Afcons Infrastructure v. Cherian Varkey Construction (2010) → structured ADR referral.",
+        "MEDIATION → party-made settlement.",
+        "ARBITRATION → private adjudication and statutory award challenge.",
+        "ORDINARY LOK ADALAT → compromise award.",
+        "PLA → limited post-conciliation adjudication."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Afcons Infrastructure v. Cherian Varkey Construction (2010) → structured ADR referral.",
+            "MEDIATION → party-made settlement."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARBITRATION → private adjudication and statutory award challenge.",
+            "ORDINARY LOK ADALAT → compromise award."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLA → limited post-conciliation adjudication.",
+            "Afcons Infrastructure v. Cherian Varkey Construction (2010) → structured ADR referral."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MEDIATION → party-made settlement.",
+            "ARBITRATION → private adjudication and statutory award challenge."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARBITRATION → private adjudication and statutory award challenge.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FAIRNESS, DATA AND DIGITAL ACCESS",
+      "structural_type": "deep-review-11",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FAIRNESS, DATA AND DIGITAL ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "PATIL AUTOMATION V. RAKHEJA ENGINEERS (2022)",
+          "role": "outcome"
+        },
+        {
+          "text": "MANDATORY COMMERCIAL PRE-INSTITUTION MEDIATION ABSENT AN URGENT-RELIEF EXCEPTION.",
+          "role": "institution"
+        },
+        {
+          "text": "CONSENT QUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVICE + NO COERCION + UNDERSTOOD TERMS.",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTITY, PRIVACY, LANGUAGE, DISABILITY AND OFFLINE OPTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENT DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "DATE EVERY COUNT, CEILING AND NOTIFIED SERVICE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Patil Automation v. Rakheja Engineers (2022)",
+        "mandatory commercial pre-institution mediation absent an urgent-relief exception.",
+        "CONSENT QUALITY → advice + no coercion + understood terms.",
+        "DIGITAL → identity, privacy, language, disability and offline option.",
+        "CURRENT DATA → date every count, ceiling and notified service."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Patil Automation v. Rakheja Engineers (2022)",
+            "mandatory commercial pre-institution mediation absent an urgent-relief exception."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONSENT QUALITY → advice + no coercion + understood terms.",
+            "DIGITAL → identity, privacy, language, disability and offline option."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT DATA → date every count, ceiling and notified service.",
+            "Patil Automation v. Rakheja Engineers (2022)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "mandatory commercial pre-institution mediation absent an urgent-relief exception.",
+            "CONSENT QUALITY → advice + no coercion + understood terms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CURRENT DATA → date every count, ceiling and notified service.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC FORUM-SELECTION ANSWER SPINE",
+      "structural_type": "deep-review-12",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC FORUM-SELECTION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "1 LEGAL SOURCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "2 SUBJECT",
+          "role": "comparison"
+        },
+        {
+          "text": "3 CONSENT OR MERITS POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "4 AWARD",
+          "role": "primary"
+        },
+        {
+          "text": "5 ACCESS AND POWER-ASYMMETRY SAFEGUARDS.",
+          "role": "mechanism"
+        },
+        {
+          "text": "AFFORDABLE JUSTICE MUST REMAIN COMPETENT AND VOLUNTARY WHERE REQUIRED.",
+          "role": "comparison"
+        },
+        {
+          "text": "ILLEGALITY REMAINS REVIEWABLE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 LEGAL SOURCE.",
+        "2 SUBJECT / STAGE / COMPOUNDABILITY.",
+        "3 CONSENT OR MERITS POWER.",
+        "4 AWARD / APPEAL / REVIEW.",
+        "5 ACCESS AND POWER-ASYMMETRY SAFEGUARDS."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1 LEGAL SOURCE.",
+            "2 SUBJECT / STAGE / COMPOUNDABILITY."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "3 CONSENT OR MERITS POWER.",
+            "4 AWARD / APPEAL / REVIEW."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 ACCESS AND POWER-ASYMMETRY SAFEGUARDS.",
+            "VERDICT: affordable justice must remain competent and voluntary where required."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Illegality remains reviewable.",
+            "1 LEGAL SOURCE."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: affordable justice must remain competent and voluntary where required.",
+      "answer_line": "affordable justice must remain competent and voluntary where required.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DISPUTE-SYSTEM DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT QUALITY AND POWER ASYMMETRY",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIGITAL JUSTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "REFORM METRICS",
+          "role": "primary"
+        },
+        {
+          "text": "TIME AND COST SAVED",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESENTATION AND INFORMED-CONSENT QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SETTLEMENT DURABILITY AND COMPLIANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Dispute-system design",
+            "Consent quality and power asymmetry",
+            "Digital justice",
+            "Reform metrics"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "time and cost saved;",
+            "representation and informed-consent quality;",
+            "settlement durability and compliance;",
+            "geographic and social reach;"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "reasoned handling of failed settlement;",
+            "staffing, infrastructure and legal-aid quality; and",
+            "review of jurisdictional or natural-justice error.",
+            "Apply only after the complete statutory and comparative Core."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

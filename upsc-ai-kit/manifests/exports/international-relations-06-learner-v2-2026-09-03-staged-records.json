@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "international-relations-06-learner-v2-2026-09-03",
+  "selection": "international-relations-06",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "international-relations-06:learner-v2:g1",
+      "topic_key": "international-relations-06",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: International Relations — Subject-wide Syllabus — West Asia, Energy Security and Connectivity",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\international-relations-06_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\international-relations-06_Solved-Practice-Workbook_2026-09-03.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\international-relations-06_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\international-relations-06_Solved-Practice-Workbook_2026-09-03.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\assets",
+      "generated_on": "2026-09-03",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\06_West-Asia-Energy-Security-and-Connectivity_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\International-Relations\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\README.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\REVISION-CHART_Actors-Interests-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf"
+        ],
+        "live_sources": [
+          "https://www.mea.gov.in/press-releases.htm — attempted 2026-09-03; the request redirected to a browser-requirement stub and returned no press release text, so no live item was taken from it.",
+          "https://www.mea.gov.in/bilateral-documents.htm — attempted 2026-09-03; the request redirected to a browser-requirement stub and returned no bilateral document text, so no live item was taken from it.",
+          "https://www.mea.gov.in/foreign-relation.htm — attempted 2026-09-03; the request redirected to the Ministry's own error page, so no country brief was taken from it.",
+          "https://www.pib.gov.in/indexd.aspx?reg=3&lang=1 — attempted 2026-09-03; the request returned HTTP 403, so no release was taken from it.",
+          "https://www.gcc-sg.org/en-us/Pages/default.aspx — attempted 2026-09-03; the Gulf Cooperation Council Secretariat returned only a two-line teaser for its joint-action section with no agreement text, summit record or dated outcome, so no summit outcome, agreement wording or membership claim was taken from it.",
+          "https://www.ppac.gov.in/ — attempted 2026-09-03; the Petroleum Planning and Analysis Cell site returned only its ownership footer with no import, dependence or supplier-share table, so no energy share or dependence figure was taken from it and the repository owners' dated figures were used unchanged.",
+          "https://www.imo.org/en/About/Pages/Default.aspx — attempted 2026-09-03; the International Maritime Organization returned substantive descriptive text on its standard-setting mandate, which is background for chokepoint and shipping risk rather than a dated West Asian item, so no route-risk or freight claim was taken from it."
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\international-relations-06_Complete-Learning-Session_2026-09-03.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-03",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+          "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+          "upsc-ai-kit\\knowledge\\International-Relations\\00_Master-Framework.md": "718e39a4e3e789c4767b41b4db0583d2f39d3a8a7f695cb1db61ff7c532dbed0",
+          "upsc-ai-kit\\knowledge\\International-Relations\\06_West-Asia-Energy-Security-and-Connectivity_Learner-V2-Complete-Topic-Package.md": "6b9307be36aaf65dd9dd312e1e601d148c6e5c5663eb5a29caf1b2f92c0cba4c",
+          "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md": "4cb918599a4120a90cb919a855c464aefdcb5548fc86db0f67ee2a9474bebd80",
+          "upsc-ai-kit\\knowledge\\International-Relations\\ANSWER-WORTHINESS-AUDIT.md": "6721bf220e8afbc1ab9ebe3c4a6e51f6772d6737721f7e5b2dfdf0f4587d4822",
+          "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md": "4070fa39d86a6a5c57bf405abe3c90d09c067cfd1cacc8c335eb24750f125cb7",
+          "upsc-ai-kit\\knowledge\\International-Relations\\LEARNING-SESSION-COMMAND-INDEX.md": "58678b846756e010eda1e3d02a12ede324cc42164f559790c624f25502776446",
+          "upsc-ai-kit\\knowledge\\International-Relations\\learning-sessions\\v2\\subject-wide-syllabus\\international-relations-06_Learning-Session.md": "6b9307be36aaf65dd9dd312e1e601d148c6e5c5663eb5a29caf1b2f92c0cba4c",
+          "upsc-ai-kit\\knowledge\\International-Relations\\learning-sessions\\v2\\subject-wide-syllabus\\international-relations-06_Solved-Workbook.md": "94be9a565a4045459b2f1308935de51ae878db818c5ac1c4c6523238eed61116",
+          "upsc-ai-kit\\knowledge\\International-Relations\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "14221783254785e067847c15363ce1fe52d8b1706ed0242a108172d64ac10300",
+          "upsc-ai-kit\\knowledge\\International-Relations\\README.md": "26844c446c28a5e6d02bad3b728e87a12d68a921d2af197f486d6007532ce349",
+          "upsc-ai-kit\\knowledge\\International-Relations\\REVISION-CHART_Actors-Interests-and-Distinctive-Features.md": "e9aa7db75bfe0e0ea3ab5a654989930e569a606a78bf96f69e5c1d54112e134a",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-06-2026-09-03-sequential.json": "b76e07444db5e9ef5f0add0e0b9b7c68d6046843fcc4133255a09913d85336bf",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\International-Relations\\international-relations-06.json": "1b0b544c1835334e026c85dc26732eb049c4da660e6e1e67c17c4f565a0c586a",
+          "upsc-ai-kit\\manifests\\v2\\international-relations--subject-wide-syllabus.json": "4ce762067ba31956a242420b87018e66b9d9cca8d550170755f13c4441ba9d5e",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "Live official verification was attempted on 2026-09-03 in the priority order required for this topic: the Ministry of External Affairs pages first, then the Press Information Bureau, the Gulf Cooperation Council Secretariat, the Petroleum Planning and Analysis Cell and the International Maritime Organization. Every outcome is recorded exactly as observed. The Ministry of External Affairs pages returned a browser-requirement stub or the Ministry's own error page, the Press Information Bureau index returned HTTP 403, the Gulf Cooperation Council Secretariat returned a two-line teaser, and the Petroleum Planning and Analysis Cell returned only an ownership footer without any import or dependence table. The International Maritime Organization returned general descriptive text that supplies background rather than a dated West Asian item, so no new live item was obtained that would add, alter or date any claim in this package. The package therefore uses only the dated official anchors already carried by the repository owners, each with its actor, exact evidentiary level and date. It invents no energy or trade share, no corridor or project status, no route alignment, no summit outcome, no sanctions measure, no evacuation or diaspora figure, no port access, no treaty or statement wording, no border or diplomatic status, no date, no previous-year question, no answer key and no current claim.",
+        "pyq_status_note": "Three General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2018 General Studies Paper II question 9 on the depth and diversity of India's relations with Israel, a Discuss demand of 10 marks and 150 words, for which the ledger records that the printed word-limit tail was corrupted in the scan and that the Core route supersedes the older Advanced ownership; 2018 General Studies Paper II question 20 on the United States-Iran nuclear-pact controversy and India's national interest, an In what ways and How should demand of 15 marks and 250 words on the same superseding route; and 2025 General Studies Paper II question 19 on energy security and India's foreign policy in the Middle East, a Discuss demand of 15 marks and 250 words. Four objective demands are also routed to this owner and are carried as coverage requirements only: 2018 Prelims General Studies Paper I question 24 on the two-state solution in an international-affairs context, 2018 Prelims General Studies Paper I question 37 on conflict-zone towns and their correct country matching, and 2023 Prelims General Studies Paper I question 94 on Israel, Arab states, diplomatic relations and the Arab Peace Initiative, for which the official 2018-2023 Prelims keys are not held locally; and 2026 Prelims General Studies Paper I question 30 on the Strait of Hormuz and West Asian maritime access to the Indian Ocean, for which only a provisional 2026 Set-A key is present locally and its provisional status is preserved exactly. No option or answer letter is recorded or inferred for any of the four objective demands. Where a printed word limit or stem tail is recorded as corrupted in the scan, that defect is reported rather than silently repaired by invented wording. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "f6038228e82158d9e15e1ac7b5cde5fae8595b3cf601aa4b086d36f116d1bf1f"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "international-relations-06:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-06\\international-relations-06_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "3f74aa10d73b563c28b441b87ed9baebe06039b1ce90607a3e9913084d67134d",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-06\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-06-2026-09-03-sequential.json",
+        "ascii_master_spec_sha256": "b76e07444db5e9ef5f0add0e0b9b7c68d6046843fcc4133255a09913d85336bf"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

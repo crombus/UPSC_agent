@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-08-27",
+  "topic_key": "philosophy-paper-i-western-philosophy-10",
+  "regenerated_record_id": "philosophy-paper-i-western-philosophy-10:learner-v2:g3",
+  "superseded_record_id": "philosophy-paper-i-western-philosophy-10:learner-v2:g2",
+  "g2_technical_hash_identical": true,
+  "g2_tree_differences": [],
+  "g2_file_differences": [],
+  "out_of_scope_tree_count": 47,
+  "out_of_scope_hash_identical": true,
+  "tree_differences": [],
+  "source_owner_hash_identical": true,
+  "source_differences": [],
+  "shared_files_expected_to_change": [
+    "EXPORT-PDF-STATUS.json",
+    "EXPORT-PDF-COMMAND-INDEX.md",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy.json",
+    "section indexes",
+    "clean latest package/navigation",
+    "Flow Learning latest copy/navigation"
+  ],
+  "known_unrelated_warning": "Paper II Socio-Political Philosophy ASCII metadata mismatch was isolated and not modified.",
+  "status": "passed",
+  "g2_tracker_record_file_comparison": {
+    "equal": false,
+    "difference": "Pre-existing validator provenance only: finalized tracker says tools/validate_v2_export.py; immutable g2 record file retains generator + validator. Neither g2 object was rewritten by this regeneration.",
+    "upsert_semantics": "finalize_v2_topic.upsert_record preserves every non-g3 tracker record object unchanged."
+  }
+}

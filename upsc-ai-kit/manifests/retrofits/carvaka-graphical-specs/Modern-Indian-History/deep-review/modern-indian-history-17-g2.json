@@ -1,0 +1,1152 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-17",
+  "subject": "Modern-Indian-History",
+  "title": "GROWTH OF COMMUNALISM & THE MUSLIM LEAGUE",
+  "short_route": "COMMUNALISM DEFINITION LADDER → LAYERED CAUSATION WHEEL → CONSTITUTIONAL RAIL, 1905-47 → MUSLIM LEAGUE LIFE-CYCLE → SEPARATE-ELECTORATE INCENTIVE LOOP → LUCKNOW PACT LEDGER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-17-deep-review-2026-08-31-g2.json",
+  "ascii_spec_sha256": "07be5e3258adb5635399307ca7d4f5812d494d7e5026a7a17190a19f9ad265c8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMMUNALISM DEFINITION LADDER",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMUNALISM DEFINITION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "FAITH, PRACTICE AND COMMUNITY LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "STAGE 1",
+          "role": "comparison"
+        },
+        {
+          "text": "CO-RELIGIONISTS ARE SAID TO SHARE SECULAR INTERESTS",
+          "role": "evidence"
+        },
+        {
+          "text": "STAGE 2",
+          "role": "primary"
+        },
+        {
+          "text": "INTERESTS ARE SAID TO DIVERGE FROM OTHER COMMUNITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "STAGE 3",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERESTS ARE PRESENTED AS HOSTILE AND IRRECONCILABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIGION → faith, practice and community life",
+        "STAGE 1 → co-religionists are said to share secular interests",
+        "STAGE 2 → interests are said to diverge from other communities",
+        "STAGE 3 → interests are presented as hostile and irreconcilable",
+        "POLITICAL FORM → organisation, representation and mobilisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RELIGION → faith, practice and community life",
+            "STAGE 1 → co-religionists are said to share secular interests",
+            "STAGE 2 → interests are said to diverge from other communities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAGE 3 → interests are presented as hostile and irreconcilable",
+            "POLITICAL FORM → organisation, representation and mobilisation",
+            "RULE → communalism is not faith, reform or riot."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: The Simla Deputation and Muslim League foundation at Dacca in 1906, separate",
+            "electorates in 1909 and the Lucknow Pact of 1916 are distinct institutional moments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → communalism is not faith, reform or riot.",
+      "source_references": [
+        "Definition ladder: religion, community and communalism",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAYERED CAUSATION WHEEL",
+      "structural_type": "causal-web",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAYERED CAUSATION WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "COLONIAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CENSUS, PATRONAGE AND CONSTITUTIONAL CATEGORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MATERIAL FIELD",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEVEN EDUCATION, JOBS AND PROFESSIONAL OPPORTUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "ELITE ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESS, ASSOCIATIONS AND CLAIMS TO REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTORATES, WEIGHTAGE, SAFEGUARDS AND MINISTRIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLONIAL STATE → census, patronage and constitutional categories",
+        "MATERIAL FIELD → uneven education, jobs and professional opportunity",
+        "ELITE ACTION → press, associations and claims to representation",
+        "INSTITUTIONS → electorates, weightage, safeguards and ministries",
+        "CONTINGENCY → party choices, war, coalitions and failed negotiations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLONIAL STATE → census, patronage and constitutional categories",
+            "MATERIAL FIELD → uneven education, jobs and professional opportunity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ELITE ACTION → press, associations and claims to representation",
+            "INSTITUTIONS → electorates, weightage, safeguards and ministries"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTINGENCY → party choices, war, coalitions and failed negotiations",
+            "VERDICT → interacting causes, not timeless hostility or one culprit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → interacting causes, not timeless hostility or one culprit.",
+      "source_references": [
+        "Colonial state and layered causation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONSTITUTIONAL RAIL, 1905-47",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL RAIL, 1905-47",
+          "role": "primary"
+        },
+        {
+          "text": "BENGAL PARTITION, SIMLA, LEAGUE AND SEPARATE ELECTORATES",
+          "role": "outcome"
+        },
+        {
+          "text": "LUCKNOW BARGAIN AND WIDER COMMUNAL REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NEHRU REPORT, FOURTEEN POINTS, AWARD AND PROVINCIAL AUTONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTIONS, MINISTRIES AND LAHORE RESOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "CRIPPS, GANDHI-JINNAH, SIMLA AND CABINET MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "3 JUNE PLAN, INDEPENDENCE ACT AND PARTITION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "1905-09 → Bengal partition, Simla, League and separate electorates",
+        "1916-19 → Lucknow bargain and wider communal representation",
+        "1928-35 → Nehru Report, Fourteen Points, Award and provincial autonomy",
+        "1937-40 → elections, ministries and Lahore Resolution",
+        "1942-46 → Cripps, Gandhi-Jinnah, Simla and Cabinet Mission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1905-09 → Bengal partition, Simla, League and separate electorates",
+            "1916-19 → Lucknow bargain and wider communal representation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1928-35 → Nehru Report, Fourteen Points, Award and provincial autonomy",
+            "1937-40 → elections, ministries and Lahore Resolution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1942-46 → Cripps, Gandhi-Jinnah, Simla and Cabinet Mission",
+            "1947 → 3 June Plan, Independence Act and Partition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1947 → 3 June Plan, Independence Act and Partition.",
+      "source_references": [
+        "Partition, Simla Deputation and separate electorates, 1905-09",
+        "1945-47 endgame and historiographical matrix",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MUSLIM LEAGUE LIFE-CYCLE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MUSLIM LEAGUE LIFE-CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ELITE SAFEGUARDS AND LOYALIST INFLUENCE WITHIN THE RAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-GOVERNMENT OBJECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL COOPERATION AT LUCKNOW",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEVEN ORGANISATION AND COMPETING MUSLIM CURRENTS",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER MOBILISATION AND MINISTRY GRIEVANCE NARRATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONG MUSLIM-ELECTORATE MANDATE; NOT ALL-MUSLIM UNANIMITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1906 → elite safeguards and loyalist influence within the Raj",
+        "1913 → self-government objective",
+        "1916 → constitutional cooperation at Lucknow",
+        "1920s → uneven organisation and competing Muslim currents",
+        "POST-1937 → wider mobilisation and ministry grievance narrative"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1906 → elite safeguards and loyalist influence within the Raj",
+            "1913 → self-government objective"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1916 → constitutional cooperation at Lucknow",
+            "1920s → uneven organisation and competing Muslim currents"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POST-1937 → wider mobilisation and ministry grievance narrative",
+            "1945-46 → strong Muslim-electorate mandate; not all-Muslim unanimity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1945-46 → strong Muslim-electorate mandate; not all-Muslim unanimity.",
+      "source_references": [
+        "Muslim League life-cycle",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SEPARATE-ELECTORATE INCENTIVE LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SEPARATE-ELECTORATE INCENTIVE LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY ELECTORATE",
+          "role": "outcome"
+        },
+        {
+          "text": "CANDIDATE ADDRESSES ONE RECOGNISED ELECTORATE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNAL CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "LEADER PRESENTS GROUP-SPECIFIC SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE RECOGNITION",
+          "role": "institution"
+        },
+        {
+          "text": "RECOGNISED SPOKESMAN GAINS BARGAINING VALUE",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVAL ORGANISATIONS INTENSIFY REPRESENTATIVE CLAIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY ELECTORATE → candidate addresses one recognised electorate",
+        "COMMUNAL CLAIM → leader presents group-specific safeguards",
+        "STATE RECOGNITION → recognised spokesman gains bargaining value",
+        "COMPETITION → rival organisations intensify representative claims",
+        "NEGOTIATION → weightage and seats become recurring demands"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMUNITY ELECTORATE → candidate addresses one recognised electorate",
+            "COMMUNAL CLAIM → leader presents group-specific safeguards"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE RECOGNITION → recognised spokesman gains bargaining value",
+            "COMPETITION → rival organisations intensify representative claims"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEGOTIATION → weightage and seats become recurring demands",
+            "LOOP LIMIT → incentives shape politics but do not predetermine Partition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOOP LIMIT → incentives shape politics but do not predetermine Partition.",
+      "source_references": [
+        "Partition, Simla Deputation and separate electorates, 1905-09",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LUCKNOW PACT LEDGER",
+      "structural_type": "balance-sheet",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LUCKNOW PACT LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS-LEAGUE JOINT CONSTITUTIONAL PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPORARY ALL-INDIA POLITICAL COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS ACCEPTS SEPARATE ELECTORATES",
+          "role": "evidence"
+        },
+        {
+          "text": "REPRESENTATION SAFEGUARDS AND WEIGHTAGE",
+          "role": "primary"
+        },
+        {
+          "text": "UNITY IS ACHIEVED THROUGH COMMUNAL CATEGORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "TACTICAL ADVANCE WITH A LONG INSTITUTIONAL SHADOW.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GAIN → Congress-League joint constitutional programme",
+        "GAIN → temporary all-India political cooperation",
+        "CONCESSION → Congress accepts separate electorates",
+        "BARGAIN → representation safeguards and weightage",
+        "PARADOX → unity is achieved through communal categories"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → Congress-League joint constitutional programme",
+            "GAIN → temporary all-India political cooperation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONCESSION → Congress accepts separate electorates",
+            "BARGAIN → representation safeguards and weightage"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARADOX → unity is achieved through communal categories",
+            "VERDICT → tactical advance with a long institutional shadow."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → tactical advance with a long institutional shadow.",
+      "source_references": [
+        "Lucknow Pact: cooperation through a communal ledger",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE 1920S SEQUENCE",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE 1920S SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "KHILAFAT-NON-COOPERATION JOINT MOBILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COALITION WEAKENS; LOCAL CONFLICT AND RIVALRY GROW",
+          "role": "comparison"
+        },
+        {
+          "text": "SAVARKAR'S HINDUTVA",
+          "role": "evidence"
+        },
+        {
+          "text": "RSS FOUNDED",
+          "role": "primary"
+        },
+        {
+          "text": "NEHRU REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "JINNAH'S FOURTEEN POINTS.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1920-22 → Khilafat-Non-Cooperation joint mobilisation",
+        "BREAKDOWN → coalition weakens; local conflict and rivalry grow",
+        "1923 → Savarkar's Hindutva",
+        "1925 → RSS founded",
+        "1928 → Nehru Report"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1920-22 → Khilafat-Non-Cooperation joint mobilisation",
+            "BREAKDOWN → coalition weakens; local conflict and rivalry grow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1923 → Savarkar's Hindutva",
+            "1925 → RSS founded"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1928 → Nehru Report",
+            "1929 → Jinnah's Fourteen Points."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BREAKDOWN → coalition weakens; local conflict and rivalry grow.",
+      "source_references": [
+        "Khilafat-Non-Cooperation unity and breakdown",
+        "The 1920s: Hindu and Muslim communal organisations",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NEHRU REPORT AND FOURTEEN POINTS MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NEHRU REPORT AND FOURTEEN POINTS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "NEHRU REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER COMMON CONSTITUTIONAL FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "NO CONTINUATION OF SEPARATE ELECTORATES IN FINAL DESIGN",
+          "role": "caution"
+        },
+        {
+          "text": "FOURTEEN POINTS",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL SAFEGUARDS AND PROVINCIAL AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "MINORITY REPRESENTATION AND RESIDUARY-POWER CONCERNS",
+          "role": "mechanism"
+        },
+        {
+          "text": "SHARED FIELD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEHRU REPORT → stronger common constitutional framework",
+        "NEHRU REPORT → no continuation of separate electorates in final design",
+        "FOURTEEN POINTS → federal safeguards and provincial autonomy",
+        "FOURTEEN POINTS → minority representation and residuary-power concerns",
+        "SHARED FIELD → constitutional bargaining, not yet a settled Partition plan"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NEHRU REPORT → stronger common constitutional framework",
+          "FOURTEEN POINTS → federal safeguards and provincial autonomy",
+          "SHARED FIELD → constitutional bargaining, not yet a settled Partition plan"
+        ],
+        [
+          "NEHRU REPORT → no continuation of separate electorates in final design",
+          "FOURTEEN POINTS → minority representation and residuary-power concerns",
+          "TRAP → 1929 demands are not the 1940 Lahore Resolution."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NEHRU REPORT → stronger common constitutional framework",
+            "NEHRU REPORT → no continuation of separate electorates in final design"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOURTEEN POINTS → federal safeguards and provincial autonomy",
+            "FOURTEEN POINTS → minority representation and residuary-power concerns"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SHARED FIELD → constitutional bargaining, not yet a settled Partition plan",
+            "TRAP → 1929 demands are not the 1940 Lahore Resolution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → 1929 demands are not the 1940 Lahore Resolution.",
+      "source_references": [
+        "Nehru Report and Fourteen Points",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REPRESENTATION DEVICES ARE NOT INTERCHANGEABLE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REPRESENTATION DEVICES ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE ELECTORATE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONLY COMMUNITY VOTERS CHOOSE COMMUNITY CANDIDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVED SEAT",
+          "role": "evidence"
+        },
+        {
+          "text": "A SEAT IS SET ASIDE; ELECTORATE RULES MAY DIFFER",
+          "role": "primary"
+        },
+        {
+          "text": "REPRESENTATION EXCEEDS A SIMPLE POPULATION RATIO",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY APPOINTS RATHER THAN VOTERS ELECT",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVINCES ENTER CONSTITUTIONAL SECTIONS OR GROUPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEPARATE ELECTORATE → only community voters choose community candidate",
+        "RESERVED SEAT → a seat is set aside; electorate rules may differ",
+        "WEIGHTAGE → representation exceeds a simple population ratio",
+        "NOMINATION → authority appoints rather than voters elect",
+        "GROUPING → provinces enter constitutional sections or groups"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SEPARATE ELECTORATE → only community voters choose community candidate",
+          "WEIGHTAGE → representation exceeds a simple population ratio",
+          "GROUPING → provinces enter constitutional sections or groups"
+        ],
+        [
+          "RESERVED SEAT → a seat is set aside; electorate rules may differ",
+          "NOMINATION → authority appoints rather than voters elect",
+          "EXAM RULE → identify mechanism before judging its political effect."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEPARATE ELECTORATE → only community voters choose community candidate",
+            "RESERVED SEAT → a seat is set aside; electorate rules may differ"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEIGHTAGE → representation exceeds a simple population ratio",
+            "NOMINATION → authority appoints rather than voters elect"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GROUPING → provinces enter constitutional sections or groups",
+            "EXAM RULE → identify mechanism before judging its political effect."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM RULE → identify mechanism before judging its political effect.",
+      "source_references": [
+        "Communal Award and Government of India Act 1935",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROVINCIAL VARIATION MAP",
+      "structural_type": "regional-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROVINCIAL VARIATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UNITED PROVINCES",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE POLITICS AND FAILED COALITION BARGAINING",
+          "role": "comparison"
+        },
+        {
+          "text": "LANDED, AGRARIAN AND UNIONIST COALITION STRUCTURES",
+          "role": "evidence"
+        },
+        {
+          "text": "PEASANT, LANDLORD, REGIONAL AND COMMUNAL ALIGNMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "STRONG NON-LEAGUE MUSLIM AND CONGRESS-ALLIED POLITICS",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL-INDIA LEAGUE",
+          "role": "comparison"
+        },
+        {
+          "text": "INFLUENCE VARIED BEFORE POST-1937 EXPANSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNITED PROVINCES → service politics and failed coalition bargaining",
+        "PUNJAB → landed, agrarian and Unionist coalition structures",
+        "BENGAL → peasant, landlord, regional and communal alignments",
+        "NWFP → strong non-League Muslim and Congress-allied politics",
+        "ALL-INDIA LEAGUE → influence varied before post-1937 expansion"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "UNITED PROVINCES → service politics and failed coalition bargaining",
+          "NWFP → strong non-League Muslim and Congress-allied politics",
+          "CLOSE DISTINCTION: Communalism was historically produced through representation, elite competition, colonial classification and social mobilisation"
+        ],
+        [
+          "PUNJAB → landed, agrarian and Unionist coalition structures",
+          "ALL-INDIA LEAGUE → influence varied before post-1937 expansion",
+          "it was not an ancient, inevitable Hindu-Muslim essence."
+        ],
+        [
+          "BENGAL → peasant, landlord, regional and communal alignments",
+          "RULE → province, class and coalition qualify every national claim.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNITED PROVINCES → service politics and failed coalition bargaining",
+            "PUNJAB → landed, agrarian and Unionist coalition structures",
+            "BENGAL → peasant, landlord, regional and communal alignments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NWFP → strong non-League Muslim and Congress-allied politics",
+            "ALL-INDIA LEAGUE → influence varied before post-1937 expansion",
+            "RULE → province, class and coalition qualify every national claim."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Communalism was historically produced through representation, elite competition, colonial classification and social mobilisation",
+            "it was not an ancient, inevitable Hindu-Muslim essence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → province, class and coalition qualify every national claim.",
+      "source_references": [
+        "1937 elections and provincial variation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DECISION TREE FROM LAHORE TO PARTITION",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DECISION TREE FROM LAHORE TO PARTITION",
+          "role": "primary"
+        },
+        {
+          "text": "23 MAR 1940",
+          "role": "outcome"
+        },
+        {
+          "text": "LAHORE RESOLUTION CHANGES THE BARGAINING FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "CRIPPS, GANDHI-JINNAH AND SIMLA LEAVE ALTERNATIVES OPEN",
+          "role": "evidence"
+        },
+        {
+          "text": "1945-46 ELECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "LEAGUE CLAIM AMONG MUSLIM ELECTORATES STRENGTHENS",
+          "role": "outcome"
+        },
+        {
+          "text": "16 MAY 1946",
+          "role": "comparison"
+        },
+        {
+          "text": "CABINET MISSION PROPOSES UNION PLUS GROUPING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "23 MAR 1940 → Lahore Resolution changes the bargaining framework",
+        "1942-45 → Cripps, Gandhi-Jinnah and Simla leave alternatives open",
+        "1945-46 ELECTIONS → League claim among Muslim electorates strengthens",
+        "16 MAY 1946 → Cabinet Mission proposes union plus grouping",
+        "16 AUG 1946 → Direct Action and violence deepen breakdown"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "23 MAR 1940 → Lahore Resolution changes the bargaining framework",
+            "1942-45 → Cripps, Gandhi-Jinnah and Simla leave alternatives open",
+            "1945-46 ELECTIONS → League claim among Muslim electorates strengthens"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "16 MAY 1946 → Cabinet Mission proposes union plus grouping",
+            "16 AUG 1946 → Direct Action and violence deepen breakdown",
+            "1947 → 3 June Plan and Independence Act implement Partition."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Colonial, nationalist, Cambridge and subaltern explanations need provincial evidence and",
+            "must include Hindu communal organisations as well as Muslim League trajectories."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Colonial, nationalist, Cambridge and subaltern explanations need provincial evidence and must include Hindu communal organisations as well as Muslim League trajectories.",
+      "source_references": [
+        "Lahore Resolution, war and bargaining, 1940-45",
+        "1945-47 endgame and historiographical matrix",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "HISTORIOGRAPHY AND ANSWER-WRITING MATRIX",
+      "structural_type": "evidence-debate",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HISTORIOGRAPHY AND ANSWER-WRITING MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "BIPAN CHANDRA",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERN IDEOLOGY, ELITE INTEREST AND THREE STAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "COLONIAL-STATE LENS",
+          "role": "institution"
+        },
+        {
+          "text": "ENUMERATION AND CONSTITUTIONAL INCENTIVES",
+          "role": "primary"
+        },
+        {
+          "text": "CAMBRIDGE LENS",
+          "role": "outcome"
+        },
+        {
+          "text": "COALITIONS, PATRONAGE AND PROVINCIAL ELITES",
+          "role": "comparison"
+        },
+        {
+          "text": "JALAL-TYPE LENS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BIPAN CHANDRA → modern ideology, elite interest and three stages",
+        "COLONIAL-STATE LENS → enumeration and constitutional incentives",
+        "REGIONAL / CAMBRIDGE LENS → coalitions, patronage and provincial elites",
+        "JALAL-TYPE LENS → bargaining strategy and contingency",
+        "REJECT → primordial hatred, one-cause blame and homogeneous communities"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BIPAN CHANDRA → modern ideology, elite interest and three stages",
+            "COLONIAL-STATE LENS → enumeration and constitutional incentives"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGIONAL / CAMBRIDGE LENS → coalitions, patronage and provincial elites",
+            "JALAL-TYPE LENS → bargaining strategy and contingency"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REJECT → primordial hatred, one-cause blame and homogeneous communities",
+            "VERDICT → multi-causal growth; contingent but increasingly constrained endgame."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → multi-causal growth; contingent but increasingly constrained endgame.",
+      "source_references": [
+        "1945-47 endgame and historiographical matrix",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g2\\modern-indian-history-17_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BIPIN CHANDRA DEFINES COMMUNALISM AS AN IDEOLOGY BUILT IN",
+          "role": "outcome"
+        },
+        {
+          "text": "(1) PEOPLE WHO FOLLOW THE SAME",
+          "role": "comparison"
+        },
+        {
+          "text": "(2) IN A MULTI-RELIGIOUS SOCIETY THESE SECULAR INTERESTS ARE",
+          "role": "evidence"
+        },
+        {
+          "text": "(3) THE INTERESTS ARE FINALLY SEEN AS MUTUALLY INCOMPATIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "IN CHANDRA'S TERMINOLOGY, THE FIRST TWO STAGES FORM LIBERAL/MILD",
+          "role": "outcome"
+        },
+        {
+          "text": "THE LABEL IS THE AUTHOR'S ANALYTICAL JUDGEMENT AND SHOULD",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNALISM GREW FROM COLONIAL STRUCTURES, MIDDLE-CLASS COMPETITION, POLITICAL UNDERDEVELOPMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Bipin Chandra defines communalism as an ideology built in three stages : (1) people who follow the same",
+            "(2) in a multi-religious society these secular interests are seen as dissimilar and divergent from those of other religious communities",
+            "(3) the interests are finally seen as mutually incompatible, antagonistic and hostile .",
+            "In Chandra's terminology, the first two stages form liberal/mild communalism and the third extreme or fascistic communalism ."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The label is the author's analytical judgement and should be attributed, not treated as a neutral legal classification of organisations.",
+            "Communalism grew from colonial structures, middle-class competition, political underdevelopment and the",
+            "failure to fully spread secular economic nationalism among the masses.",
+            "CAUTION: This theory is instrumental and modernist: it explains communalism through politics and social interests, not primordial hatred."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Congress tried to build territorial nationalism, while communal organisations argued for representation through religious communities.",
+            "Separate electorates converted community identity into a constitutional category and rewarded leaders who claimed to speak for religious blocs.",
+            "The Lucknow Pact was a tactical high point of unity, but it conceded the principle of communal representation.",
+            "Post-Khilafat communal riots and the growth of Hindu and Muslim communal organisations"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

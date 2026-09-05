@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-03",
+      "display_title": "Inflation, Price Indices and Business Cycles",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three price-level states",
+          "structural_type": "state-ladder",
+          "ascii_lines": [
+            "INFLATION -> prices rise",
+            "DISINFLATION -> prices rise more slowly",
+            "DEFLATION -> general price level falls",
+            "TRAP -> rate change is not level change",
+            "MUST REMEMBER: Inflation is a sustained increase in a chosen price index; distinguish..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "CPI-WPI-deflator matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CPI -> retail basket + services",
+            "WPI -> wholesale goods, no services",
+            "GDP DEFLATOR -> domestic final output",
+            "POLICY ANCHOR -> headline CPI"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Demand-pull chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "SPENDING > AVAILABLE OUTPUT",
+            "-> inventories and spare capacity shrink",
+            "-> firms raise prices",
+            "POLICY -> demand restraint can work"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Supply-shock chain",
+          "structural_type": "bottleneck-flow",
+          "ascii_lines": [
+            "CROP / OIL / LOGISTICS SHOCK",
+            "-> costs or availability worsen",
+            "-> prices rise despite weak demand",
+            "POLICY -> repair supply + anchor expectations"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Output gap fork",
+          "structural_type": "gap-diagram",
+          "ascii_lines": [
+            "NEGATIVE GAP -> weak demand",
+            "POSITIVE GAP -> overheating risk",
+            "SUPPLY SHOCK -> inflation can coexist with negative gap",
+            "STAGFLATION -> inflation + weak growth"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Expectations loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "PRICE SHOCK",
+            "-> wage and price expectations",
+            "-> second-round adjustments",
+            "-> persistence beyond initial shock"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Policy assignment board",
+          "structural_type": "instrument-map",
+          "ascii_lines": [
+            "RBI -> rates + liquidity + communication",
+            "GOVERNMENT -> buffers + tax + trade",
+            "STATES -> logistics + enforcement",
+            "RULE -> tool must match shock"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "India shock timeline",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "2020 -> lockdown logistics shock",
+            "2021-22 -> global commodity surge",
+            "2016 -> formal CPI-targeting framework",
+            "LESSON -> demand and supply can conflict"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Distributional incidence",
+          "structural_type": "incidence-map",
+          "ascii_lines": [
+            "POOR -> high food and fuel share",
+            "FIXED INCOME -> real purchasing power falls",
+            "INDEXED WORKERS -> partial protection",
+            "TIGHTENING -> borrowers and MSMEs bear costs"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Business-cycle rail",
+          "structural_type": "cycle-rail",
+          "ascii_lines": [
+            "TROUGH -> RECOVERY -> EXPANSION",
+            "-> PEAK -> SLOWDOWN / RECESSION",
+            "POLICY DEPENDS ON output gap and shock",
+            "PHILLIPS CURVE -> guide, not law",
+            "CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Index-series break",
+          "structural_type": "timeline-gate",
+          "ascii_lines": [
+            "CPI 2024=100 -> releases from JAN 2026",
+            "WPI 2022-23 base -> MAY 2026 onward",
+            "NEW BASKET != NEW INFLATION",
+            "RULE -> no casual level splicing",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Inflation answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDENTIFY index + component",
+            "DIAGNOSE demand / cost / supply",
+            "TRACE expectations + distribution",
+            "PRESCRIBE coordinated policy mix"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g2\\economy-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

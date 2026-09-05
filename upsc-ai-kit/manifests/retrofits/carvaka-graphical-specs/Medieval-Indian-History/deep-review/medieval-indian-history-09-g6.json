@@ -1,0 +1,1171 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-09",
+  "subject": "Medieval-Indian-History",
+  "title": "VIJAYANAGARA & THE BAHMANI KINGDOM (DECCAN)",
+  "short_route": "DECCAN POLITICAL CHRONOLOGY → THREE CONTESTED ZONES → FOUNDATION AND EVIDENCE LADDER → VIJAYANAGARA DYNASTIC SEQUENCE → WATER, CAPITAL AND AGRARIAN → AMARAM AND NAYAKA BARGAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-09-deep-review-2026-09-03-g6.json",
+  "ascii_spec_sha256": "9f22ae7cedc0168579f7648471ce1192b971c60cd9a6122856c6c63b9f989e6c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DECCAN POLITICAL CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DECCAN POLITICAL CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "C. 1336",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVENTIONAL VIJAYANAGARA FOUNDATION ANCHOR",
+          "role": "comparison"
+        },
+        {
+          "text": "BAHMANI KINGDOM ESTABLISHED UNDER ALAUDDIN HASAN BAHMAN SHAH",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVA RAYA II STRENGTHENS VIJAYANAGARA MILITARY ADAPTATION",
+          "role": "primary"
+        },
+        {
+          "text": "BAHMANI CAPITAL SHIFTS FROM GULBARGA TO BIDAR",
+          "role": "outcome"
+        },
+        {
+          "text": "KRISHNADEVA RAYA AND TULUVA APOGEE",
+          "role": "comparison"
+        },
+        {
+          "text": "TALIKOTA DESTROYS THE CAPITAL FABRIC; ARAVIDU POWER CONTINUES.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "c. 1336 → conventional Vijayanagara foundation anchor",
+        "1347 → Bahmani kingdom established under Alauddin Hasan Bahman Shah",
+        "1420s-40s → Deva Raya II strengthens Vijayanagara military adaptation",
+        "1425 → Bahmani capital shifts from Gulbarga to Bidar",
+        "1509-29 → Krishnadeva Raya and Tuluva apogee"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "c. 1336 → conventional Vijayanagara foundation anchor",
+            "1347 → Bahmani kingdom established under Alauddin Hasan Bahman Shah",
+            "1420s-40s → Deva Raya II strengthens Vijayanagara military adaptation"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1425 → Bahmani capital shifts from Gulbarga to Bidar",
+            "1509-29 → Krishnadeva Raya and Tuluva apogee",
+            "1565 → Talikota destroys the capital fabric; Aravidu power continues."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Vijayanagara-Bahmani rivalry joined doab, basin, coast, ports and horse supply",
+            "it was not a communal binary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Vijayanagara-Bahmani rivalry joined doab, basin, coast, ports and horse supply;.",
+      "source_references": [
+        "Chronology",
+        "Dynastic transitions",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE CONTESTED ZONES",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THREE CONTESTED ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "TUNGABHADRA DOAB",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILE FRONTIER, FORTS AND RECURRING CAMPAIGNS",
+          "role": "comparison"
+        },
+        {
+          "text": "AGRARIAN BASIN, ROUTES AND EASTERN-COAST CONNECTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PORTS, CUSTOMS, HORSE IMPORTS AND WESTERN MARITIME ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE + CAVALRY + LOGISTICS + PRESTIGE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL GEOGRAPHY EXPLAINS MORE THAN A HINDU-MUSLIM BINARY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TUNGABHADRA DOAB → fertile frontier, forts and recurring campaigns",
+        "KRISHNA-GODAVARI → agrarian basin, routes and eastern-coast connections",
+        "KONKAN-GOA → ports, customs, horse imports and western maritime access",
+        "REVENUE + CAVALRY + LOGISTICS + PRESTIGE",
+        "RULE: political geography explains more than a Hindu-Muslim binary."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TUNGABHADRA DOAB → fertile frontier, forts and recurring campaigns",
+            "KRISHNA-GODAVARI → agrarian basin, routes and eastern-coast connections"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KONKAN-GOA → ports, customs, horse imports and western maritime access",
+            "REVENUE + CAVALRY + LOGISTICS + PRESTIGE"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: political geography explains more than a Hindu-Muslim binary.",
+            "TUNGABHADRA DOAB → fertile frontier, forts and recurring campaigns"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: political geography explains more than a Hindu-Muslim binary.",
+      "answer_line": "political geography explains more than a Hindu-Muslim binary.",
+      "source_references": [
+        "Tungabhadra doab",
+        "Krishna-Godavari",
+        "Konkan-Goa",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FOUNDATION AND EVIDENCE LADDER",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUNDATION AND EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVENTIONAL VIJAYANAGARA ANCHOR; HARIHARA/BUKKA BIOGRAPHIES DEBATED",
+          "role": "outcome"
+        },
+        {
+          "text": "VIDYARANYA STORY",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER FOUNDATION MEMORY, NOT A SETTLED EVENT TRANSCRIPT",
+          "role": "caution"
+        },
+        {
+          "text": "ALAUDDIN HASAN BAHMAN SHAH; HASAN GANGU/DESCENT TRADITIONS CAUTIONED",
+          "role": "primary"
+        },
+        {
+          "text": "INSCRIPTIONS + COINS + HAMPI/GULBARGA/BIDAR ARCHAEOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSIAN CHRONICLES + SANSKRIT/TELUGU/KANNADA/TAMIL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTI/RAZZAQ/PAES/NUNIZ WITH DATE, AUDIENCE AND NUMBER LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1336 → conventional Vijayanagara anchor; Harihara/Bukka biographies debated",
+        "VIDYARANYA STORY → later foundation memory, not a settled event transcript",
+        "1347 → Alauddin Hasan Bahman Shah; Hasan Gangu/descent traditions cautioned",
+        "EVIDENCE → inscriptions + coins + Hampi/Gulbarga/Bidar archaeology",
+        "TEXTS → Persian chronicles + Sanskrit/Telugu/Kannada/Tamil evidence"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "1336 → conventional Vijayanagara anchor; Harihara/Bukka biographies debated",
+          "EVIDENCE → inscriptions + coins + Hampi/Gulbarga/Bidar archaeology",
+          "RULE: chronology may be secure while origin narratives remain contested."
+        ],
+        [
+          "VIDYARANYA STORY → later foundation memory, not a settled event transcript",
+          "TEXTS → Persian chronicles + Sanskrit/Telugu/Kannada/Tamil evidence",
+          ""
+        ],
+        [
+          "1347 → Alauddin Hasan Bahman Shah; Hasan Gangu/descent traditions cautioned",
+          "TRAVELLERS → Conti/Razzaq/Paes/Nuniz with date, audience and number limits",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "1336 → conventional Vijayanagara anchor; Harihara/Bukka biographies debated",
+            "VIDYARANYA STORY → later foundation memory, not a settled event transcript",
+            "1347 → Alauddin Hasan Bahman Shah; Hasan Gangu/descent traditions cautioned"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE → inscriptions + coins + Hampi/Gulbarga/Bidar archaeology",
+            "TEXTS → Persian chronicles + Sanskrit/Telugu/Kannada/Tamil evidence",
+            "TRAVELLERS → Conti/Razzaq/Paes/Nuniz with date, audience and number limits"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "RULE: chronology may be secure while origin narratives remain contested."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: chronology may be secure while origin narratives remain contested.",
+      "answer_line": "chronology may be secure while origin narratives remain contested.",
+      "source_references": [
+        "Harihara",
+        "Bukka",
+        "Source criticism",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VIJAYANAGARA DYNASTIC SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VIJAYANAGARA DYNASTIC SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DEVA RAYA I",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVA RAYA II",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE SANGAMA CRISIS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVINCIAL AND SUCCESSION PRESSURES",
+          "role": "primary"
+        },
+        {
+          "text": "NARASIMHA RESTORES ORDER THROUGH DYNASTIC SEIZURE",
+          "role": "outcome"
+        },
+        {
+          "text": "VIRA NARASIMHA",
+          "role": "comparison"
+        },
+        {
+          "text": "ALIYA RAMA RAYA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SANGAMA → Harihara/Bukka → Deva Raya I → Deva Raya II",
+        "LATE SANGAMA CRISIS → provincial and succession pressures",
+        "SALUVA → Narasimha restores order through dynastic seizure",
+        "TULUVA → Vira Narasimha → Krishnadevaraya → Achyuta → Sadashiva",
+        "ALIYA RAMA RAYA → effective power and shifting Deccan alliances"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "SANGAMA → Harihara/Bukka → Deva Raya I → Deva Raya II",
+            "LATE SANGAMA CRISIS → provincial and succession pressures",
+            "SALUVA → Narasimha restores order through dynastic seizure"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "TULUVA → Vira Narasimha → Krishnadevaraya → Achyuta → Sadashiva",
+            "ALIYA RAMA RAYA → effective power and shifting Deccan alliances",
+            "1565 → capital/great-power rupture; ARAVIDU → Tirumala and continuities"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: dynasty changes altered capacity without creating four unrelated states."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: dynasty changes altered capacity without creating four unrelated states.",
+      "answer_line": "dynasty changes altered capacity without creating four unrelated states.",
+      "source_references": [
+        "Sangama",
+        "Saluva",
+        "Tuluva",
+        "Aravidu",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WATER, CAPITAL AND AGRARIAN CAPACITY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATER, CAPITAL AND AGRARIAN CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "TUNGABHADRA LANDSCAPE + TANKS + CANALS CULTIVATION + URBAN",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE CAPACITY, BUT BENEFITS AND CONTROL REMAINED SOCIALLY UNEQUAL",
+          "role": "institution"
+        },
+        {
+          "text": "UNESCO BRIDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "HYDRAULIC REMAINS SUPPORT INTEGRATION, NOT A WELFARE CENSUS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TUNGABHADRA LANDSCAPE + TANKS + CANALS cultivation + urban supply + ritual",
+        "water + military provisioning taxable surplus + metropolitan density + resilience",
+        "STATE CAPACITY, but benefits and control remained socially unequal",
+        "UNESCO bridge: hydraulic remains support integration, not a welfare census."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TUNGABHADRA LANDSCAPE + TANKS + CANALS cultivation + urban supply + ritual",
+            "water + military provisioning taxable surplus + metropolitan density + resilience"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "STATE CAPACITY, but benefits and control remained socially unequal",
+            "UNESCO bridge: hydraulic remains support integration, not a welfare census."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TUNGABHADRA LANDSCAPE + TANKS + CANALS cultivation + urban supply + ritual",
+            "water + military provisioning taxable surplus + metropolitan density + resilience"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNESCO bridge: hydraulic remains support integration, not a welfare census.",
+      "source_references": [
+        "Irrigation",
+        "Hampi",
+        "UNESCO",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AMARAM AND NAYAKA BARGAIN",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AMARAM AND NAYAKA BARGAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RULER ASSIGNS REVENUE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "NAYAKA MAINTAINS TROOPS, REMITS OBLIGATIONS AND GOVERNS LOCALLY SERVICE",
+          "role": "evidence"
+        },
+        {
+          "text": "HEREDITARY DRIFT, BARGAINING AND LATER NAYAKA POLITIES",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARISON WITH IQTA IS FUNCTIONAL, NOT AN EQUATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RULER ASSIGNS REVENUE CLAIM / TERRITORIAL COMMAND",
+        "NAYAKA maintains troops, remits obligations and governs locally service produces military reach but also",
+        "entrenches regional power weak centre → hereditary drift, bargaining and later nayaka polities",
+        "CAUTION: comparison with iqta is functional, not an equation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RULER ASSIGNS REVENUE CLAIM / TERRITORIAL COMMAND",
+            "NAYAKA maintains troops, remits obligations and governs locally service produces military reach but also"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "entrenches regional power weak centre → hereditary drift, bargaining and later nayaka polities",
+            "CAUTION: comparison with iqta is functional, not an equation."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULER ASSIGNS REVENUE CLAIM / TERRITORIAL COMMAND",
+            "NAYAKA maintains troops, remits obligations and governs locally service produces military reach but also"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: comparison with iqta is functional, not an equation.",
+      "source_references": [
+        "Amaram",
+        "Nayaka",
+        "Military-fiscal system",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HORSE-PORT-MILITARY CHAIN",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HORSE-PORT-MILITARY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "WEST ASIAN HORSE SUPPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "KONKAN ROUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "INLAND MOVEMENT AND PAYMENT CAVALRY RECRUITMENT + ARCHERY +",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPORTED HORSES MATTERED, BUT DID NOT ALONE DECIDE WARS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WEST ASIAN HORSE SUPPLY → PORTS / MERCHANTS / CUSTOMS",
+        "GOA / BHATKAL / KONKAN ROUTES → inland movement and payment cavalry recruitment +",
+        "archery + commanders + fodder and remounts competitive adaptation by Vijayanagara and Deccan states",
+        "RULE: imported horses mattered, but did not alone decide wars."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "WEST ASIAN HORSE SUPPLY → PORTS / MERCHANTS / CUSTOMS",
+            "GOA / BHATKAL / KONKAN ROUTES → inland movement and payment cavalry recruitment +"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "archery + commanders + fodder and remounts competitive adaptation by Vijayanagara and Deccan states",
+            "RULE: imported horses mattered, but did not alone decide wars."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "WEST ASIAN HORSE SUPPLY → PORTS / MERCHANTS / CUSTOMS",
+            "GOA / BHATKAL / KONKAN ROUTES → inland movement and payment cavalry recruitment +"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: imported horses mattered, but did not alone decide wars.",
+      "answer_line": "imported horses mattered, but did not alone decide wars.",
+      "source_references": [
+        "Horse trade",
+        "Bhatkal",
+        "Portuguese relations",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HAMPI URBAN SYSTEM",
+      "structural_type": "layered-governance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HAMPI URBAN SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "FORTS/ENCLOSURES + ROYAL CENTRE + SACRED CENTRE + SETTLEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "TANKS/CANALS/AQUEDUCTS LINK CULTIVATION, MARKETS AND PROVISIONING",
+          "role": "comparison"
+        },
+        {
+          "text": "OLDER VIRUPAKSHA + PHASE-BUILT VITTHALA + HAZARA RAMA",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPLES + FESTIVALS + CRAFTS + MERCHANTS + LONG-DISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "LOTUS MAHAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ELEPHANT STABLES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVENTIONAL LABELS; FUNCTIONS CAUTIONED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LANDSCAPE → forts/enclosures + royal centre + sacred centre + settlements",
+        "WATER → tanks/canals/aqueducts link cultivation, markets and provisioning",
+        "SITES → older Virupaksha + phase-built Vitthala + Hazara Rama",
+        "MARKETS → temples + festivals + crafts + merchants + long-distance routes",
+        "LOTUS MAHAL / ELEPHANT STABLES → conventional labels; functions cautioned"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LANDSCAPE → forts/enclosures + royal centre + sacred centre + settlements",
+            "WATER → tanks/canals/aqueducts link cultivation, markets and provisioning",
+            "SITES → older Virupaksha + phase-built Vitthala + Hazara Rama"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MARKETS → temples + festivals + crafts + merchants + long-distance routes",
+            "LOTUS MAHAL / ELEPHANT STABLES → conventional labels; functions cautioned",
+            "SOURCE RULE → building proves patronage/material form, not a social census"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Hampi was an urban region, not only a palace or temple complex."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Hampi was an urban region, not only a palace or temple complex.",
+      "answer_line": "Hampi was an urban region, not only a palace or temple complex.",
+      "source_references": [
+        "Hampi",
+        "Urbanism",
+        "UNESCO",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BAHMANI STATE AND CAPITAL SHIFT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BAHMANI STATE AND CAPITAL SHIFT",
+          "role": "institution"
+        },
+        {
+          "text": "1347 GULBARGA",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUNDATION, FRONTIER COMMAND AND EARLY CONSOLIDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "1425 BIDAR",
+          "role": "evidence"
+        },
+        {
+          "text": "REVISED STRATEGIC CENTRE AND COURTLY-CULTURAL INVESTMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL COMMAND, REVENUE AND MILITARY RESOURCES LATE 15TH C.",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER FACTIONS AND SUCCESSOR-STATE FORMATION",
+          "role": "institution"
+        },
+        {
+          "text": "CAPITAL SHIFT IS NOT THE SAME EVENT AS DYNASTIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1347 GULBARGA → foundation, frontier command and early consolidation",
+        "1425 BIDAR → revised strategic centre and courtly-cultural investment",
+        "TARAFS → provincial command, revenue and military resources late 15th c. → stronger factions and",
+        "TRAP: capital shift is not the same event as dynastic foundation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1347 GULBARGA → foundation, frontier command and early consolidation",
+            "1425 BIDAR → revised strategic centre and courtly-cultural investment"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "TARAFS → provincial command, revenue and military resources late 15th c. → stronger factions and successor-state formation",
+            "TRAP: capital shift is not the same event as dynastic foundation."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1347 GULBARGA → foundation, frontier command and early consolidation",
+            "1425 BIDAR → revised strategic centre and courtly-cultural investment"
+          ]
+        }
+      ],
+      "mechanism_strip": "TRAP: capital shift is not the same event as dynastic foundation.",
+      "answer_line": "capital shift is not the same event as dynastic foundation.",
+      "source_references": [
+        "Bahmani",
+        "Gulbarga",
+        "Bidar",
+        "Taraf",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MAHMUD GAWAN REFORM LOGIC",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MAHMUD GAWAN REFORM LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "LARGE TARAFLANDS + POWERFUL GOVERNORS + ELITE RIVALRY MORE",
+          "role": "outcome"
+        },
+        {
+          "text": "FACTIONAL RESISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "GAWAN'S EXECUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SOUND DESIGN CAN FAIL WITHOUT A DURABLE GOVERNING COALITION.",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "VIJAYANAGARA AMARAM/NAYAKA SERVICE AND BAHMANI TARAF ADMINISTRATION ARE COMPARABLE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LARGE TARAFLANDS + POWERFUL GOVERNORS + ELITE RIVALRY more provinces + forts under tighter control",
+        "enlargement measurement, cash expectations and central checks greater intended control → factional resistance → Gawan's",
+        "LESSON: sound design can fail without a durable governing coalition.",
+        "CLOSE DISTINCTION: Vijayanagara amaram/nayaka service and Bahmani taraf administration are comparable but not identical institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LARGE TARAFLANDS + POWERFUL GOVERNORS + ELITE RIVALRY more provinces + forts under tighter control + khalisa",
+            "enlargement measurement, cash expectations and central checks greater intended control → factional resistance → Gawan's execution"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LESSON: sound design can fail without a durable governing coalition.",
+            "CLOSE DISTINCTION: Vijayanagara amaram/nayaka service and Bahmani taraf administration are comparable but not identical institutions."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LARGE TARAFLANDS + POWERFUL GOVERNORS + ELITE RIVALRY more provinces + forts under tighter control + khalisa",
+            "enlargement measurement, cash expectations and central checks greater intended control → factional resistance → Gawan's execution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Vijayanagara amaram/nayaka service and Bahmani taraf administration are comparable but not identical institutions.",
+      "source_references": [
+        "Mahmud Gawan",
+        "Khalisa",
+        "Centralisation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DECCANI-AFAQI COALITION PROBLEM",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DECCANI-AFAQI COALITION PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "LONGER-SETTLED REGIONAL MUSLIM ELITES AND ALLIES",
+          "role": "outcome"
+        },
+        {
+          "text": "NEWER WESTERN AND CENTRAL ASIAN MIGRANTS AND NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICE, PATRONAGE, MILITARY COMMAND AND COURT ACCESS",
+          "role": "institution"
+        },
+        {
+          "text": "CROSS-CUTTING TIES",
+          "role": "primary"
+        },
+        {
+          "text": "MARRIAGE, LANGUAGE, SERVICE AND LOCAL ALLIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FACTIONAL LABELS STRUCTURE POLITICS BUT ARE NOT RACIAL ABSOLUTES",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT TURN ELITE RIVALRY INTO A TIMELESS COMMUNAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DECCANIS → longer-settled regional Muslim elites and allies",
+        "AFAQIS → newer western and Central Asian migrants and networks",
+        "COMPETITION → office, patronage, military command and court access",
+        "CROSS-CUTTING TIES → marriage, language, service and local alliance",
+        "OUTCOME → factional labels structure politics but are not racial absolutes"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "DECCANIS → longer-settled regional Muslim elites and allies",
+          "CROSS-CUTTING TIES → marriage, language, service and local alliance",
+          "EVIDENCE LIMIT: Talikota (1565) was a destructive turning point, not the instantaneous extinction of all Vijayanagara authority."
+        ],
+        [
+          "AFAQIS → newer western and Central Asian migrants and networks",
+          "OUTCOME → factional labels structure politics but are not racial absolutes",
+          ""
+        ],
+        [
+          "COMPETITION → office, patronage, military command and court access",
+          "TRAP: do not turn elite rivalry into a timeless communal conflict.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DECCANIS → longer-settled regional Muslim elites and allies",
+            "AFAQIS → newer western and Central Asian migrants and networks",
+            "COMPETITION → office, patronage, military command and court access"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CROSS-CUTTING TIES → marriage, language, service and local alliance",
+            "OUTCOME → factional labels structure politics but are not racial absolutes",
+            "TRAP: do not turn elite rivalry into a timeless communal conflict."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE LIMIT: Talikota (1565) was a destructive turning point, not the instantaneous extinction of all Vijayanagara authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "do not turn elite rivalry into a timeless communal conflict.",
+      "source_references": [
+        "Deccanis",
+        "Afaqis",
+        "Elite factions",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 09 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 09 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DATE + GENRE + BIAS + CORROBORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RAICHUR/DOAB + KRISHNA-GODAVARI + KONKAN/PORTS/HORSES",
+          "role": "comparison"
+        },
+        {
+          "text": "AMARAM/NAYAKA/AYAGAR VERSUS TARAF/KHALISA/GAWAN REFORMS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEGMENTARY + CENTRALIZED + MILITARY-FISCAL + INTEGRATIVE READINGS",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN/URBAN GROUPS + TEMPLES/MOSQUES/DARGAHS + MULTILINGUAL COURTS",
+          "role": "outcome"
+        },
+        {
+          "text": "COALITION + RAMA RAYA + SACK, THEN ARAVIDU/NAYAKA PERSISTENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANGING DECCAN STATES, NOT A FEUDAL OR COMMUNAL BINARY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → date + genre + bias + corroboration",
+        "SPACE → Raichur/doab + Krishna-Godavari + Konkan/ports/horses",
+        "STATE → amaram/nayaka/ayagar versus taraf/khalisa/Gawan reforms",
+        "DEBATE → segmentary + centralized + military-fiscal + integrative readings",
+        "SOCIETY → agrarian/urban groups + temples/mosques/dargahs + multilingual courts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOURCE → date + genre + bias + corroboration",
+            "SPACE → Raichur/doab + Krishna-Godavari + Konkan/ports/horses",
+            "STATE → amaram/nayaka/ayagar versus taraf/khalisa/Gawan reforms"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DEBATE → segmentary + centralized + military-fiscal + integrative readings",
+            "SOCIETY → agrarian/urban groups + temples/mosques/dargahs + multilingual courts",
+            "1565 → coalition + Rama Raya + sack, then Aravidu/nayaka persistence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: changing Deccan states, not a feudal or communal binary."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: changing Deccan states, not a feudal or communal binary.",
+      "answer_line": "changing Deccan states, not a feudal or communal binary.",
+      "source_references": [
+        "Comparison",
+        "Talikota",
+        "Answer architecture",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\09_Vijayanagara-and-Bahmani.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g3\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g4\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g5\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g6\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "VIJAYANAGARA & THE BAHMANI KINGDOM (DECCAN) — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Vijayanagara & the Bahmani Kingdom (Deccan) — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept: Horses and state power",
+            "Deva Raya II's army reform was a response to Bahmani superiority in horses and mounted archers.",
+            "The 1367 conflict is important not merely for violence but for the treaty"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

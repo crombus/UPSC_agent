@@ -1,0 +1,1108 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-24",
+  "subject": "Geography",
+  "title": "COOL TEMPERATE EASTERN MARGIN LAURENTIAN",
+  "short_route": "LAURENTIAN CLIMATE WORLD DISTRIBUTION \u2192 SEASONAL RAINFALL MECHANISM \u2192 CURRENT CONVERGENCE AND FISHING \u2192 FOG AS DUAL PHENOMENON \u2192 MIXED FOREST TRANSITION STRIP \u2192 FISHERY GOVERNANCE LESSON",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-24_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-24-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "32e9155584fc2d8c858a447b661461e84789950759057cef402c376624927cc3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LAURENTIAN CLIMATE WORLD DISTRIBUTION",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LAURENTIAN CLIMATE WORLD DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "NE NORTH AMERICA",
+          "role": "outcome"
+        },
+        {
+          "text": "EASTERN CANADA, MARITIME PROVINCES, NEW ENGLAND, NEWFOUNDLAND",
+          "role": "comparison"
+        },
+        {
+          "text": "EAST ASIA",
+          "role": "evidence"
+        },
+        {
+          "text": "EASTERN SIBERIA, NORTH CHINA, MANCHURIA, KOREA, NORTHERN JAPAN",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTHERN HEMISPHERE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINENTS TOO NARROW AT RELEVANT LATITUDES",
+          "role": "comparison"
+        },
+        {
+          "text": "BETWEEN BRITISH MARITIME (WEST) AND SIBERIAN CONTINENTAL (EAST)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NE NORTH AMERICA \u2192 eastern Canada, Maritime Provinces, New England, Newfoundland",
+        "EAST ASIA \u2192 eastern Siberia, North China, Manchuria, Korea, northern Japan",
+        "SOUTHERN HEMISPHERE \u2192 absent: continents too narrow at relevant latitudes",
+        "INTERMEDIATE \u2192 between British maritime (west) and Siberian continental (east)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NE NORTH AMERICA \u2192 eastern Canada, Maritime Provinces, New England, Newfoundland",
+            "EAST ASIA \u2192 eastern Siberia, North China, Manchuria, Korea, northern Japan"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTHERN HEMISPHERE \u2192 absent: continents too narrow at relevant latitudes",
+            "INTERMEDIATE \u2192 between British maritime (west) and Siberian continental (east)"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "NE NORTH AMERICA \u2192 eastern Canada, Maritime Provinces, New England, Newfoundland",
+            "EAST ASIA \u2192 eastern Siberia, North China, Manchuria, Korea, northern Japan"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SOUTHERN HEMISPHERE \u2192 absent: continents too narrow at relevant latitudes",
+            "INTERMEDIATE \u2192 between British maritime (west) and Siberian continental (east)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERMEDIATE \u2192 between British maritime (west) and Siberian continental (east).",
+      "source_references": [
+        "Two-region restriction"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SEASONAL RAINFALL MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEASONAL RAINFALL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTINENTAL WESTERLIES BLOW DRY FRIGID AIR FROM INTERIOR",
+          "role": "outcome"
+        },
+        {
+          "text": "EASTERLY OCEAN WINDS BRING MOISTURE-LADEN RAINFALL",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT SUMMER MAXIMUM",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO-THIRDS OF 30-60 INCHES TOTAL",
+          "role": "primary"
+        },
+        {
+          "text": "REVERSE OF BRITISH TYPE'S AUTUMN-WINTER RAIN PATTERN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WINTER \u2192 continental Westerlies blow dry frigid air from interior",
+        "SUMMER \u2192 easterly ocean winds bring moisture-laden rainfall",
+        "RESULT \u2192 distinct summer maximum: two-thirds of 30-60 inches total",
+        "CONTRAST \u2192 reverse of British type's autumn-winter rain pattern"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WINTER \u2192 continental Westerlies blow dry frigid air from interior",
+            "SUMMER \u2192 easterly ocean winds bring moisture-laden rainfall"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT \u2192 distinct summer maximum: two-thirds of 30-60 inches total",
+            "CONTRAST \u2192 reverse of British type's autumn-winter rain pattern"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WINTER \u2192 continental Westerlies blow dry frigid air from interior",
+            "SUMMER \u2192 easterly ocean winds bring moisture-laden rainfall"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTRAST \u2192 reverse of British type's autumn-winter rain pattern.",
+      "source_references": [
+        "Cold dry winter mechanism",
+        "Warm summer rainfall maximum"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CURRENT CONVERGENCE AND FISHING",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CURRENT CONVERGENCE AND FISHING",
+          "role": "primary"
+        },
+        {
+          "text": "OYASHIO (COLD) + KUROSHIO (WARM)",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVERGENCE OFF NORTHERN JAPAN",
+          "role": "comparison"
+        },
+        {
+          "text": "LABRADOR (COLD) + ATLANTIC (WARM)",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVERGENCE OVER GRAND BANKS SHELF",
+          "role": "primary"
+        },
+        {
+          "text": "NUTRIENT MIXING",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANKTON BLOOM ON BROAD SHALLOW SHELVES",
+          "role": "comparison"
+        },
+        {
+          "text": "WORLD-HISTORIC FISHING GROUNDS PLUS PERSISTENT FOG",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OYASHIO (cold) + KUROSHIO (warm) \u2192 convergence off northern Japan",
+        "LABRADOR (cold) + ATLANTIC (warm) \u2192 convergence over Grand Banks shelf",
+        "NUTRIENT MIXING \u2192 plankton bloom on broad shallow shelves",
+        "RESULT \u2192 world-historic fishing grounds plus persistent fog"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "OYASHIO (cold) + KUROSHIO (warm) \u2192 convergence off northern Japan",
+            "LABRADOR (cold) + ATLANTIC (warm) \u2192 convergence over Grand Banks shelf"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NUTRIENT MIXING \u2192 plankton bloom on broad shallow shelves",
+            "RESULT \u2192 world-historic fishing grounds plus persistent fog"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "OYASHIO (cold) + KUROSHIO (warm) \u2192 convergence off northern Japan",
+            "LABRADOR (cold) + ATLANTIC (warm) \u2192 convergence over Grand Banks shelf"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT \u2192 world-historic fishing grounds plus persistent fog.",
+      "source_references": [
+        "Oyashio-Kuroshio convergence",
+        "Grand Banks and Labrador-Atlantic meeting"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FOG AS DUAL PHENOMENON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOG AS DUAL PHENOMENON",
+          "role": "primary"
+        },
+        {
+          "text": "FOG AS HAZARD",
+          "role": "outcome"
+        },
+        {
+          "text": "POOR VISIBILITY, NAVIGATIONAL DANGER, SHIPPING RISK",
+          "role": "caution"
+        },
+        {
+          "text": "FOG AS INDICATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "BIOLOGICAL MARKER OF NUTRIENT-RICH MIXING WATERS",
+          "role": "primary"
+        },
+        {
+          "text": "WARM MOIST AIR CHILLED FROM BELOW BY COLD CURRENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME PROCESS CREATES HAZARD AND RESOURCE SIMULTANEOUSLY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FOG AS HAZARD \u2192 poor visibility, navigational danger, shipping risk",
+        "FOG AS INDICATOR \u2192 biological marker of nutrient-rich mixing waters",
+        "MECHANISM \u2192 warm moist air chilled from below by cold current contact",
+        "EXAM USE \u2192 same process creates hazard and resource simultaneously"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "FOG AS HAZARD \u2192 poor visibility, navigational danger, shipping risk",
+          "MECHANISM \u2192 warm moist air chilled from below by cold current contact",
+          "FOG AS HAZARD \u2192 poor visibility, navigational danger, shipping risk"
+        ],
+        [
+          "FOG AS INDICATOR \u2192 biological marker of nutrient-rich mixing waters",
+          "EXAM USE \u2192 same process creates hazard and resource simultaneously",
+          "FOG AS INDICATOR \u2192 biological marker of nutrient-rich mixing waters"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FOG AS HAZARD \u2192 poor visibility, navigational danger, shipping risk",
+            "FOG AS INDICATOR \u2192 biological marker of nutrient-rich mixing waters"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM \u2192 warm moist air chilled from below by cold current contact",
+            "EXAM USE \u2192 same process creates hazard and resource simultaneously"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FOG AS HAZARD \u2192 poor visibility, navigational danger, shipping risk",
+            "FOG AS INDICATOR \u2192 biological marker of nutrient-rich mixing waters"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM USE \u2192 same process creates hazard and resource simultaneously.",
+      "source_references": [
+        "Fog as dual-purpose phenomenon"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MIXED FOREST TRANSITION STRIP",
+      "structural_type": "spatial-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MIXED FOREST TRANSITION STRIP",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "DECIDUOUS BROADLEAF FOREST (MILD, WET WINTERS)",
+          "role": "comparison"
+        },
+        {
+          "text": "LAURENTIAN ZONE",
+          "role": "evidence"
+        },
+        {
+          "text": "MIXED CONIFEROUS-DECIDUOUS TRANSITION FOREST",
+          "role": "primary"
+        },
+        {
+          "text": "SIBERIAN INTERIOR",
+          "role": "outcome"
+        },
+        {
+          "text": "EVERGREEN CONIFEROUS TAIGA (COLD, DRY WINTERS)",
+          "role": "comparison"
+        },
+        {
+          "text": "MARITIME TO CONTINENTAL CONTROLS THE FOREST COMPOSITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRITISH MARGIN \u2192 deciduous broadleaf forest (mild, wet winters)",
+        "LAURENTIAN ZONE \u2192 mixed coniferous-deciduous transition forest",
+        "SIBERIAN INTERIOR \u2192 evergreen coniferous taiga (cold, dry winters)",
+        "GRADIENT \u2192 maritime to continental controls the forest composition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "BRITISH MARGIN \u2192 deciduous broadleaf forest (mild, wet winters)",
+            "LAURENTIAN ZONE \u2192 mixed coniferous-deciduous transition forest"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIBERIAN INTERIOR \u2192 evergreen coniferous taiga (cold, dry winters)",
+            "GRADIENT \u2192 maritime to continental controls the forest composition"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "BRITISH MARGIN \u2192 deciduous broadleaf forest (mild, wet winters)",
+            "LAURENTIAN ZONE \u2192 mixed coniferous-deciduous transition forest"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SIBERIAN INTERIOR \u2192 evergreen coniferous taiga (cold, dry winters)",
+            "GRADIENT \u2192 maritime to continental controls the forest composition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRADIENT \u2192 maritime to continental controls the forest composition.",
+      "source_references": [
+        "Cool temperate mixed forest"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FISHERY GOVERNANCE LESSON",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FISHERY GOVERNANCE LESSON",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENT CONVERGENCE + SHALLOW SHELF + NUTRIENT MIXING",
+          "role": "comparison"
+        },
+        {
+          "text": "INITIAL OUTCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE OF THE WORLD'S MOST PRODUCTIVE FISHERIES",
+          "role": "primary"
+        },
+        {
+          "text": "GRAND BANKS COD STOCKS COLLAPSED DESPITE SAME OCEANOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNANCE, NOT GEOGRAPHY, DETERMINES SUSTAINABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL BASE \u2192 current convergence + shallow shelf + nutrient mixing",
+        "INITIAL OUTCOME \u2192 one of the world's most productive fisheries",
+        "OVEREXPLOITATION \u2192 Grand Banks cod stocks collapsed despite same oceanography",
+        "CONCLUSION \u2192 governance, not geography, determines sustainability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PHYSICAL BASE \u2192 current convergence + shallow shelf + nutrient mixing",
+            "INITIAL OUTCOME \u2192 one of the world's most productive fisheries"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OVEREXPLOITATION \u2192 Grand Banks cod stocks collapsed despite same oceanography",
+            "CONCLUSION \u2192 governance, not geography, determines sustainability"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PHYSICAL BASE \u2192 current convergence + shallow shelf + nutrient mixing",
+            "INITIAL OUTCOME \u2192 one of the world's most productive fisheries"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OVEREXPLOITATION \u2192 Grand Banks cod stocks collapsed despite same oceanography.",
+      "source_references": [
+        "Fishery governance constraint"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EASTERN HIMALAYA ANALOGUE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EASTERN HIMALAYA ANALOGUE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "COOL HUMID EASTERN-FACING TEMPERATE BELT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "role": "comparison"
+        },
+        {
+          "text": "WARM PERHUMID ECOREGION, GROWING PERIOD 210 DAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "MONSOON RAINFALL",
+          "role": "primary"
+        },
+        {
+          "text": "SUMMER MAXIMUM PARALLELS LAURENTIAN PATTERN",
+          "role": "outcome"
+        },
+        {
+          "text": "HILL FOG",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSISTENT MIST MIRRORS NEWFOUNDLAND-JAPAN FOG ZONES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DARJEELING-SIKKIM \u2192 cool humid eastern-facing temperate belt",
+        "ARUNACHAL PRADESH \u2192 warm perhumid ecoregion, growing period 210 days",
+        "MONSOON RAINFALL \u2192 summer maximum parallels Laurentian pattern",
+        "HILL FOG \u2192 persistent mist mirrors Newfoundland-Japan fog zones"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DARJEELING-SIKKIM \u2192 cool humid eastern-facing temperate belt",
+            "ARUNACHAL PRADESH \u2192 warm perhumid ecoregion, growing period 210 days"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MONSOON RAINFALL \u2192 summer maximum parallels Laurentian pattern",
+            "HILL FOG \u2192 persistent mist mirrors Newfoundland-Japan fog zones"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "DARJEELING-SIKKIM \u2192 cool humid eastern-facing temperate belt",
+            "ARUNACHAL PRADESH \u2192 warm perhumid ecoregion, growing period 210 days"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "MONSOON RAINFALL \u2192 summer maximum parallels Laurentian pattern",
+            "HILL FOG \u2192 persistent mist mirrors Newfoundland-Japan fog zones"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HILL FOG \u2192 persistent mist mirrors Newfoundland-Japan fog zones.",
+      "source_references": [
+        "Eastern Himalaya as India analogue"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TEESTA BASIN PROFILE",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TEESTA BASIN PROFILE",
+          "role": "primary"
+        },
+        {
+          "text": "STEEP RELIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "RAPID RUNOFF, HIGH SEDIMENT LOAD",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTREME MONSOON RAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIGGERS LANDSLIDES AND GLOF EVENTS",
+          "role": "primary"
+        },
+        {
+          "text": "CORRIDOR CONCENTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NH-10, HYDROPOWER ON NARROW VALLEY FLOOR",
+          "role": "comparison"
+        },
+        {
+          "text": "2023 SOUTH LHONAK GLOF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEEP RELIEF \u2192 rapid runoff, high sediment load",
+        "EXTREME MONSOON RAIN \u2192 triggers landslides and GLOF events",
+        "CORRIDOR CONCENTRATION \u2192 NH-10, hydropower on narrow valley floor",
+        "2023 SOUTH LHONAK GLOF \u2192 illustrates combined relief-rain-infrastructure risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STEEP RELIEF \u2192 rapid runoff, high sediment load",
+            "EXTREME MONSOON RAIN \u2192 triggers landslides and GLOF events"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRIDOR CONCENTRATION \u2192 NH-10, hydropower on narrow valley floor",
+            "2023 SOUTH LHONAK GLOF \u2192 illustrates combined relief-rain-infrastructure risk"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STEEP RELIEF \u2192 rapid runoff, high sediment load",
+            "EXTREME MONSOON RAIN \u2192 triggers landslides and GLOF events"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2023 SOUTH LHONAK GLOF \u2192 illustrates combined relief-rain-infrastructure risk.",
+      "source_references": [
+        "Teesta drainage and hazards"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DARJEELING TEA ECONOMY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DARJEELING TEA ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "DARJEELING HILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW-YIELD, PREMIUM, GI-PROTECTED ORTHODOX TEA",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAHMAPUTRA VALLEY",
+          "role": "evidence"
+        },
+        {
+          "text": "BULK-TEA BELT, HIGH-VOLUME PRODUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "ESTATES AT 900-1800 M; TOO COLD ABOVE, TOO WARM",
+          "role": "outcome"
+        },
+        {
+          "text": "HILL QUALITY VERSUS VALLEY QUANTITY MIRRORS ALTITUDE CONTROL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DARJEELING HILLS \u2192 low-yield, premium, GI-protected orthodox tea",
+        "BRAHMAPUTRA VALLEY \u2192 bulk-tea belt, high-volume production",
+        "ELEVATION \u2192 estates at 900-1800 m; too cold above, too warm below",
+        "DISTINCTION \u2192 hill quality versus valley quantity mirrors altitude control"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "DARJEELING HILLS \u2192 low-yield, premium, GI-protected orthodox tea",
+          "ELEVATION \u2192 estates at 900-1800 m; too cold above, too warm below",
+          "DARJEELING HILLS \u2192 low-yield, premium, GI-protected orthodox tea"
+        ],
+        [
+          "BRAHMAPUTRA VALLEY \u2192 bulk-tea belt, high-volume production",
+          "DISTINCTION \u2192 hill quality versus valley quantity mirrors altitude control",
+          "BRAHMAPUTRA VALLEY \u2192 bulk-tea belt, high-volume production"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DARJEELING HILLS \u2192 low-yield, premium, GI-protected orthodox tea",
+            "BRAHMAPUTRA VALLEY \u2192 bulk-tea belt, high-volume production"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ELEVATION \u2192 estates at 900-1800 m; too cold above, too warm below",
+            "DISTINCTION \u2192 hill quality versus valley quantity mirrors altitude control"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DARJEELING HILLS \u2192 low-yield, premium, GI-protected orthodox tea",
+            "BRAHMAPUTRA VALLEY \u2192 bulk-tea belt, high-volume production"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTINCTION \u2192 hill quality versus valley quantity mirrors altitude control.",
+      "source_references": [
+        "Darjeeling premium tea"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BRITISH-LAURENTIAN COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRITISH-LAURENTIAN COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "AUTUMN-WINTER MAX",
+          "role": "outcome"
+        },
+        {
+          "text": "SUMMER MAX",
+          "role": "comparison"
+        },
+        {
+          "text": "MILD, WET (MARITIME)",
+          "role": "evidence"
+        },
+        {
+          "text": "COLD, DRY (CONTINENTAL)",
+          "role": "primary"
+        },
+        {
+          "text": "LAND-BASED AGRICULTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA-BASED FISHING",
+          "role": "comparison"
+        },
+        {
+          "text": "DECIDUOUS BROADLEAF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAINFALL \u2192 British: autumn-winter max",
+        "Laurentian: summer max",
+        "WINTER \u2192 British: mild, wet (maritime)",
+        "Laurentian: cold, dry (continental)",
+        "ECONOMY \u2192 British: land-based agriculture"
+      ],
+      "matrix": [
+        [
+          "RAINFALL \u2192 British: autumn-winter max",
+          "Laurentian: summer max"
+        ],
+        [
+          "WINTER \u2192 British: mild, wet (maritime)",
+          "Laurentian: cold, dry (continental)"
+        ],
+        [
+          "ECONOMY \u2192 British: land-based agriculture",
+          "Laurentian: sea-based fishing"
+        ],
+        [
+          "FOREST \u2192 British: deciduous broadleaf",
+          "Laurentian: mixed transitional"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "RAINFALL \u2192 British: autumn-winter max",
+            "Laurentian: summer max",
+            "WINTER \u2192 British: mild, wet (maritime)"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Laurentian: cold, dry (continental)",
+            "ECONOMY \u2192 British: land-based agriculture",
+            "Laurentian: sea-based fishing"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FOREST \u2192 British: deciduous broadleaf",
+            "Laurentian: mixed transitional"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FOREST \u2192 British: deciduous broadleaf | Laurentian: mixed transitional.",
+      "source_references": [
+        "Intermediate type identity"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "POLAR-VORTEX HYPOTHESIS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POLAR-VORTEX HYPOTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "STRATOSPHERIC DISRUPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAKENS POLAR VORTEX CONTAINMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD ARCTIC AIR",
+          "role": "evidence"
+        },
+        {
+          "text": "SPILLS SOUTHWARD INTO MID-LATITUDES",
+          "role": "primary"
+        },
+        {
+          "text": "LAURENTIAN REGIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPERIENCE SEVERE COLD OUTBREAKS",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTIVELY DEBATED LINK TO ARCTIC SEA-ICE LOSS; NOT SETTLED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRATOSPHERIC DISRUPTION \u2192 weakens polar vortex containment",
+        "COLD ARCTIC AIR \u2192 spills southward into mid-latitudes",
+        "LAURENTIAN REGIONS \u2192 experience severe cold outbreaks",
+        "STATUS \u2192 actively debated link to Arctic sea-ice loss; not settled science"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STRATOSPHERIC DISRUPTION \u2192 weakens polar vortex containment",
+            "COLD ARCTIC AIR \u2192 spills southward into mid-latitudes"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAURENTIAN REGIONS \u2192 experience severe cold outbreaks",
+            "STATUS \u2192 actively debated link to Arctic sea-ice loss; not settled science"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STRATOSPHERIC DISRUPTION \u2192 weakens polar vortex containment",
+            "COLD ARCTIC AIR \u2192 spills southward into mid-latitudes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS \u2192 actively debated link to Arctic sea-ice loss; not settled science.",
+      "source_references": [
+        "Polar vortex and mid-latitude linkage"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LAURENTIAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LAURENTIAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "INTERMEDIATE TYPE BETWEEN BRITISH MARITIME AND SIBERIAN CONTINENTAL",
+          "role": "outcome"
+        },
+        {
+          "text": "NE NORTH AMERICA AND EAST ASIA ONLY; ABSENT IN",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD DRY WINTERS, SUMMER RAIN MAXIMUM, CURRENT CONVERGENCE, FOG-FISHERY",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA EASTERN HIMALAYA ANALOGUE; TRANSPARENT ZERO-DIRECT-PYQ BOUNDARY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 intermediate type between British maritime and Siberian continental",
+        "LOCATE \u2192 NE North America and East Asia only; absent in Southern Hemisphere",
+        "EXPLAIN \u2192 cold dry winters, summer rain maximum, current convergence, fog-fishery",
+        "QUALIFY \u2192 India Eastern Himalaya analogue; transparent zero-direct-PYQ boundary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 intermediate type between British maritime and Siberian continental",
+            "LOCATE \u2192 NE North America and East Asia only; absent in Southern Hemisphere"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN \u2192 cold dry winters, summer rain maximum, current convergence, fog-fishery",
+            "QUALIFY \u2192 India Eastern Himalaya analogue; transparent zero-direct-PYQ boundary"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 intermediate type between British maritime and Siberian continental",
+            "LOCATE \u2192 NE North America and East Asia only; absent in Southern Hemisphere"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY \u2192 India Eastern Himalaya analogue; transparent zero-direct-PYQ boundary.",
+      "source_references": [
+        "PYQ boundary and answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EASTERN HIMALAYAS (KHULLAR)",
+          "role": "outcome"
+        },
+        {
+          "text": "SIKKIM + ARUNACHAL + HILLY ASSAM; WARM PERHUMID",
+          "role": "comparison"
+        },
+        {
+          "text": "SIKKIM IS DRAINED BY THE TEESTA SYSTEM; TEESTA ULTIMATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "DARJEELING TEA",
+          "role": "primary"
+        },
+        {
+          "text": "HUMID HILL CLIMATE AND MIDDLE-ELEVATION ESTATES; EXACT RAIN/ELEVATION/YIELD RANGES",
+          "role": "outcome"
+        },
+        {
+          "text": "SUMMER (MONSOON) RAINFALL MAXIMUM + HILL FOG \u2014 THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE TEESTA IS A TRIBUTARY OF THE GANGA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "Eastern Himalayas (Khullar) = Sikkim + Arunachal + hilly Assam; warm perhumid , growing period 210 days .",
+            "Sikkim is drained by the Teesta system; Teesta ultimately joins the Brahmaputra/Jamuna.",
+            "Darjeeling tea: humid hill climate and middle-elevation estates; exact rain/elevation/yield ranges are source-era generalisations.",
+            "Summer (monsoon) rainfall maximum + hill fog \u2014 the eastern-margin temperate signature."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: The Teesta is a tributary of the Ganga \u2192 it is a tributary of the Brahmaputra .",
+            "NOT: Darjeeling produces India's bulk tea \u2192 it is low-yield premium tea; Assam/Brahmaputra valley",
+            "Carrying capacity of Himalayan hill regions : how tourism, hydropower and unplanned construction",
+            "Altitude-controlled tea geography: why Darjeeling yields premium low-volume tea while Assam yields bulk tea."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Subject: Geography \u00b7 Tier: Advanced (India-applied) \u00b7 GS Paper: GS-I / GS-III Grounded in: D.R.",
+            "Khullar, India: A Comprehensive Geography + Majid Husain, India geography + verified CA.",
+            "= from source book \u00b7 CAUTION: = inference / standard knowledge \u00b7 = current affairs.",
+            "Sikkim is drained chiefly by the Teesta and its tributaries; the Teesta joins the Brahmaputra (Jamuna) system in Bangladesh."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

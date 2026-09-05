@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-03",
+  "title": "Liberalism and Neoliberalism",
+  "generation": 5,
+  "generation_date": "2026-08-30",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "political-theory-03:learner-v2:g3",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Political-Theory\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\03_Liberalism-and-Neoliberalism.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\03_Liberalism-and-Neoliberalism.md",
+  "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "learning_contract": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "All 8 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 8 solved items lack explicit directive-and-demand decoding.",
+    "All 8 solved items lack an executable mark-scaled compression plan.",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.",
+    "The stored ASCII/graphical source contains 3 conclusive dangling sentence fragment(s), so the flows are not independently safe."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Solved-Practice-Workbook_2026-08-30.md"
+}

@@ -1,0 +1,990 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-03",
+  "subject": "Essay",
+  "title": "ISSUE-BASED PROMPT SCOPING",
+  "short_route": "ISSUE CLASSIFICATION GATE → DEMAND TYPES → OBJECT-QUALIFIER LOCK → SCOPE COORDINATES → CAUSAL CHAIN TEST → EVALUATIVE STANDARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-03_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-03-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "c54368d66bac26e08b69a4c710543b67ffef45967114b49ce69308840ad4c8a2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ISSUE CLASSIFICATION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISSUE CLASSIFICATION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "CONCRETE PHENOMENON NAMED?",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSAL OR EVALUATIVE CLAIM PRESENT?",
+          "role": "comparison"
+        },
+        {
+          "text": "LITERAL READING ALREADY CONTESTABLE?",
+          "role": "evidence"
+        },
+        {
+          "text": "DECODE FIRST",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CONCRETE PHENOMENON NAMED?",
+        "CAUSAL OR EVALUATIVE CLAIM PRESENT?",
+        "LITERAL READING ALREADY CONTESTABLE?",
+        "YES → SCOPE",
+        "NO → DECODE FIRST"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCRETE PHENOMENON NAMED?",
+            "CAUSAL OR EVALUATIVE CLAIM PRESENT?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "LITERAL READING ALREADY CONTESTABLE?",
+            "YES → SCOPE"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "NO → DECODE FIRST",
+            "CONCRETE PHENOMENON NAMED?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "YES → SCOPE | NO → DECODE FIRST.",
+      "source_references": [
+        "Issue-statement prompt",
+        "Classification gate"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DEMAND TYPES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEMAND TYPES",
+          "role": "primary"
+        },
+        {
+          "text": "JUDGMENT REQUIRED",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARE AND QUALIFY",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUSAL ASSERTION",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "VALUE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE EVALUATIVE STANDARD",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "QUESTION → judgment required",
+        "ALTERNATIVES → compare and qualify",
+        "CAUSAL ASSERTION → test links",
+        "VALUE CLAIM → define evaluative standard"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "QUESTION → judgment required",
+          "CAUSAL ASSERTION → test links",
+          "QUESTION → judgment required"
+        ],
+        [
+          "ALTERNATIVES → compare and qualify",
+          "VALUE CLAIM → define evaluative standard",
+          "ALTERNATIVES → compare and qualify"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "QUESTION → judgment required",
+            "ALTERNATIVES → compare and qualify"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CAUSAL ASSERTION → test links",
+            "VALUE CLAIM → define evaluative standard"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "QUESTION → judgment required",
+            "ALTERNATIVES → compare and qualify"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUSAL ASSERTION → test links; VALUE CLAIM → define evaluative standard.",
+      "source_references": [
+        "Directive or demand",
+        "Causal demand",
+        "Evaluative demand"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OBJECT-QUALIFIER LOCK",
+      "structural_type": "firewall",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OBJECT-QUALIFIER LOCK",
+          "role": "primary"
+        },
+        {
+          "text": "EXACT PHENOMENON OR RELATIONSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED POPULATION, PLACE OR JUDGMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST PRESERVE BOTH",
+          "role": "evidence"
+        },
+        {
+          "text": "ADJACENT SUBJECT MATTER WITHOUT ARGUMENTATIVE FUNCTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OBJECT → exact phenomenon or relationship",
+        "QUALIFIER → named population, place or judgment",
+        "THESIS → must preserve both",
+        "DRIFT → adjacent subject matter without argumentative function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "OBJECT → exact phenomenon or relationship",
+            "QUALIFIER → named population, place or judgment"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "THESIS → must preserve both",
+            "DRIFT → adjacent subject matter without argumentative function"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "OBJECT → exact phenomenon or relationship",
+            "QUALIFIER → named population, place or judgment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRIFT → adjacent subject matter without argumentative function.",
+      "source_references": [
+        "Object",
+        "Qualifier",
+        "Thesis boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SCOPE COORDINATES",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SCOPE COORDINATES",
+          "role": "primary"
+        },
+        {
+          "text": "TIME HORIZON",
+          "role": "outcome"
+        },
+        {
+          "text": "AT WHAT LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "WHERE → GEOGRAPHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHERE → geography",
+        "WHEN → time horizon",
+        "WHO → actor",
+        "AT WHAT LEVEL → scale"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "WHERE → geography",
+            "WHEN → time horizon"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "WHO → actor",
+            "AT WHAT LEVEL → scale"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "WHERE → geography",
+            "WHEN → time horizon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHO → actor; AT WHAT LEVEL → scale.",
+      "source_references": [
+        "Geography",
+        "Time",
+        "Actor",
+        "Scale"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CAUSAL CHAIN TEST",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CAUSAL CHAIN TEST",
+          "role": "primary"
+        },
+        {
+          "text": "ASSERTED CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MEDIATOR OR FEEDBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFIED EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASSERTED CAUSE",
+        "MECHANISM → EVIDENCE",
+        "MEDIATOR OR FEEDBACK",
+        "LIMIT → QUALIFIED EFFECT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ASSERTED CAUSE",
+            "MECHANISM → EVIDENCE"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "MEDIATOR OR FEEDBACK",
+            "LIMIT → QUALIFIED EFFECT"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "ASSERTED CAUSE",
+            "MECHANISM → EVIDENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MECHANISM → EVIDENCE; MEDIATOR OR FEEDBACK; LIMIT → QUALIFIED EFFECT.",
+      "source_references": [
+        "Causal demand",
+        "Hidden tension"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EVALUATIVE STANDARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVALUATIVE STANDARD",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT WORD",
+          "role": "outcome"
+        },
+        {
+          "text": "THREAT, ANOMALY, MYTH OR COMPLEX",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT WOULD MAKE THE JUDGMENT TRUE",
+          "role": "evidence"
+        },
+        {
+          "text": "CASES SUPPORTING OR WEAKENING IT",
+          "role": "primary"
+        },
+        {
+          "text": "GRADED RATHER THAN ABSOLUTE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROMPT WORD → threat, anomaly, myth or complex",
+        "STANDARD → what would make the judgment true",
+        "EVIDENCE → cases supporting or weakening it",
+        "VERDICT → graded rather than absolute"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "PROMPT WORD → threat, anomaly, myth or complex",
+          "EVIDENCE → cases supporting or weakening it",
+          "PROMPT WORD → threat, anomaly, myth or complex"
+        ],
+        [
+          "STANDARD → what would make the judgment true",
+          "VERDICT → graded rather than absolute",
+          "STANDARD → what would make the judgment true"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "PROMPT WORD → threat, anomaly, myth or complex",
+            "STANDARD → what would make the judgment true"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE → cases supporting or weakening it",
+            "VERDICT → graded rather than absolute"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "PROMPT WORD → threat, anomaly, myth or complex",
+            "STANDARD → what would make the judgment true"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STANDARD → what would make the judgment true.",
+      "source_references": [
+        "Evaluative demand",
+        "Thesis boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HIDDEN-TENSION MAP",
+      "structural_type": "dialectic",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HIDDEN-TENSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PROMISED BENEFIT",
+          "role": "outcome"
+        },
+        {
+          "text": "OBSERVED OR ASSERTED COST",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONS ALTERING THE BALANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESPONSIBILITY ACROSS ACTORS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PROMISED BENEFIT",
+        "OBSERVED OR ASSERTED COST",
+        "CONDITIONS ALTERING THE BALANCE",
+        "SYNTHESIS → responsibility across actors"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PROMISED BENEFIT",
+            "OBSERVED OR ASSERTED COST"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CONDITIONS ALTERING THE BALANCE",
+            "SYNTHESIS → responsibility across actors"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "PROMISED BENEFIT",
+            "OBSERVED OR ASSERTED COST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITIONS ALTERING THE BALANCE; SYNTHESIS → responsibility across actors.",
+      "source_references": [
+        "Hidden tension",
+        "Counter-case",
+        "Synthesis"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EXCLUSION BOX",
+      "structural_type": "boundary-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EXCLUSION BOX",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL PROVING THE EXACT RELATIONSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERIC HISTORY OF THE WHOLE DOMAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "UNRELATED SCHEMES AND STATISTICS",
+          "role": "evidence"
+        },
+        {
+          "text": "ONLY WITH A CLEAR ARGUMENTATIVE FUNCTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IN → material proving the exact relationship",
+        "OUT → generic history of the whole domain",
+        "OUT → unrelated schemes and statistics",
+        "RE-ENTRY → only with a clear argumentative function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "IN → material proving the exact relationship",
+            "OUT → generic history of the whole domain"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OUT → unrelated schemes and statistics",
+            "RE-ENTRY → only with a clear argumentative function"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "IN → material proving the exact relationship",
+            "OUT → generic history of the whole domain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RE-ENTRY → only with a clear argumentative function.",
+      "source_references": [
+        "Excluded material",
+        "Policy-catalogue avoidance"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DEFINITION-TO-THESIS BRIDGE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEFINITION-TO-THESIS BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE NECESSARY TERMS",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE OBJECT AND QUALIFIERS",
+          "role": "institution"
+        },
+        {
+          "text": "NAME CAUSAL OR EVALUATIVE BURDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "WRITE CONDITIONAL THESIS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE NECESSARY TERMS",
+        "STATE OBJECT AND QUALIFIERS",
+        "NAME CAUSAL OR EVALUATIVE BURDEN",
+        "WRITE CONDITIONAL THESIS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "DEFINE NECESSARY TERMS",
+            "STATE OBJECT AND QUALIFIERS"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "NAME CAUSAL OR EVALUATIVE BURDEN",
+            "WRITE CONDITIONAL THESIS"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "DEFINE NECESSARY TERMS",
+            "STATE OBJECT AND QUALIFIERS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NAME CAUSAL OR EVALUATIVE BURDEN; WRITE CONDITIONAL THESIS.",
+      "source_references": [
+        "Definition boundary",
+        "Thesis boundary",
+        "Directive or demand"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GS-COLLAPSE WARNING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GS-COLLAPSE WARNING",
+          "role": "primary"
+        },
+        {
+          "text": "GS LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSES, EFFECTS, SCHEMES",
+          "role": "comparison"
+        },
+        {
+          "text": "ESSAY MOVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLAIM, MECHANISM, COUNTER-CASE",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARALLEL HEADINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONNECTED PARAGRAPH ARGUMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GS LIST → causes, effects, schemes",
+        "ESSAY MOVE → claim, mechanism, counter-case",
+        "GS LIST → parallel headings",
+        "ESSAY MOVE → connected paragraph argument"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "GS LIST → causes, effects, schemes",
+          "GS LIST → parallel headings",
+          "GS LIST → causes, effects, schemes"
+        ],
+        [
+          "ESSAY MOVE → claim, mechanism, counter-case",
+          "ESSAY MOVE → connected paragraph argument",
+          "ESSAY MOVE → claim, mechanism, counter-case"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "GS LIST → causes, effects, schemes",
+            "ESSAY MOVE → claim, mechanism, counter-case"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GS LIST → parallel headings",
+            "ESSAY MOVE → connected paragraph argument"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "GS LIST → causes, effects, schemes",
+            "ESSAY MOVE → claim, mechanism, counter-case"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GS LIST → parallel headings; ESSAY MOVE → connected paragraph argument.",
+      "source_references": [
+        "GS-answer collapse",
+        "Policy-catalogue avoidance"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COUNTER-CASE TO SYNTHESIS",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COUNTER-CASE TO SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGEST SUPPORTING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "RIVAL EFFECT OR LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "WHEN EACH SIDE DOMINATES",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRIBUTED RESPONSIBILITY AND FEASIBLE ACTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "THESIS → strongest supporting mechanism",
+        "COUNTER-CASE → rival effect or limit",
+        "CONDITION → when each side dominates",
+        "SYNTHESIS → distributed responsibility and feasible action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THESIS → strongest supporting mechanism",
+            "COUNTER-CASE → rival effect or limit"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CONDITION → when each side dominates",
+            "SYNTHESIS → distributed responsibility and feasible action"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "THESIS → strongest supporting mechanism",
+            "COUNTER-CASE → rival effect or limit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITION → when each side dominates; SYNTHESIS → distributed responsibility and feasible action.",
+      "source_references": [
+        "Counter-case",
+        "Synthesis"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SCOPING ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SCOPING ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY → DEMAND → OBJECT → QUALIFIER",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOGRAPHY → TIME → ACTOR → SCALE",
+          "role": "comparison"
+        },
+        {
+          "text": "MECHANISM → TENSION → EXCLUSIONS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → DEMAND → OBJECT → QUALIFIER",
+        "GEOGRAPHY → TIME → ACTOR → SCALE",
+        "MECHANISM → TENSION → EXCLUSIONS",
+        "THESIS → COUNTER-CASE → SYNTHESIS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → DEMAND → OBJECT → QUALIFIER",
+            "GEOGRAPHY → TIME → ACTOR → SCALE"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM → TENSION → EXCLUSIONS",
+            "THESIS → COUNTER-CASE → SYNTHESIS"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFY → DEMAND → OBJECT → QUALIFIER",
+            "GEOGRAPHY → TIME → ACTOR → SCALE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MECHANISM → TENSION → EXCLUSIONS; THESIS → COUNTER-CASE → SYNTHESIS.",
+      "source_references": [
+        "Classification gate",
+        "Scope creep",
+        "Synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ISSUE-STATEMENT PROMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMES PHENOMENON + MECHANISM + CONSEQUENCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCOPE CREEP",
+          "role": "evidence"
+        },
+        {
+          "text": "ESSAY DRIFTS FROM THE SPECIFIC ASSERTED MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "GS-ANSWER COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "HEADINGS, \"CAUSES/EFFECTS/MEASURES\" STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTE THE TAXONOMY IS NOT UNIQUE TO 2024-B5 —",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Issue-statement prompt: names phenomenon + mechanism + consequence",
+            "Scope creep: essay drifts from the specific asserted mechanism",
+            "GS-answer collapse: headings, \"causes/effects/measures\" structure,",
+            "CAUTION: Note the taxonomy is not unique to 2024-B5 — any future issue-style"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Causal specificity vs. generality: the prompt asserts a specific",
+            "Universality vs. distribution: \"the youth\" is treated as",
+            "Correlation vs. mechanism: a common hidden assumption is that",
+            "NOT: Full GS-III/Society answer disguised as an essay (headings,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating \"youth\" as undifferentiated. → Protocol: qualify by",
+            "NOT: Correlation-as-causation without mechanism. → Protocol: state",
+            "NOT: One-sided technology-moralising (either \"social media is simply",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

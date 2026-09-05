@@ -1,0 +1,145 @@
+{
+  "record_id": "world-history-07:learner-v2:g4",
+  "topic_key": "world-history-07",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "world-history-07:learner-v2:g3",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — New Imperialism and Scramble for Africa — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Complete-Learning-Session_2026-09-04.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Solved-Practice-Workbook_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Complete-Learning-Session_2026-09-04.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Solved-Practice-Workbook_2026-09-04.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\assets",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "provenance": {
+    "workflow": "world-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [
+      "https://au.int/en/pressreleases/20260525/au-leaders-issue-joint-africa-day-call-unity-reform-and-renewed-commitment"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Complete-Learning-Session_2026-09-04.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-04",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md": "b5799d5a82966b0909a4c112e7887340c3e324d809aa8615c9e61bf309b39596",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md": "a37d51f086c9904eb2f02abb0c26b53656afe77c85ae7f28069cfb4b13973f70",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "The official African Union Africa Day 2026 release marks 63 years since the founding of the Organization of African Unity. It records AU leaders' calls for accelerated integration and global governance reform and explicitly references reparatory justice and the enduring legacy of slavery and colonialism. This supplies a narrow current link to the continuing legacy of imperialism and decolonisation; the page does not directly discuss the Berlin Conference or the Scramble for Africa.",
+    "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this topic in the local 2018-2025 routing blocks. Owner probable questions remain original practice.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "ec7954d4b2ab7fa16e0dd3f0425936f22e7e32ef115b14ed9f22649d4ecc06b2",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Solved-Practice-Workbook_2026-09-04.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-07-g4.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-07-deep-review-2026-09-04-g4.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Complete-Learning-Session_2026-09-04.md": "375798e3eae6cf9a848f3a4b55477c2d7b199e2a5823c684fc906f7100c428d9",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Solved-Practice-Workbook_2026-09-04.md": "047e3660a59addfe340cb65762f3ae2f4bb99a39db8bf78295d1cf3bbf71821f",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Complete-Learning-Session_2026-09-04.pdf": "463c19448c43fd1349d1811039baeff9679bba283f98841063a0137d5c8e027f",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Solved-Practice-Workbook_2026-09-04.pdf": "5a1429a00a2a4e152df71594958f026ecd2432edd76eaccdb30ae594f339d6c8",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\validation\\main-visual-audit-map.json": "eea819583dbbabb769ee49712cd494731aef97d499a74efcbd165acd56a5485c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\validation\\workbook-visual-audit-map.json": "a9ffe00f93cd46b7222890911c8d5d1255681c5e53abc8d88f74489cc4fdfcb5",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-07-deep-review-2026-09-04-g4.json": "e7b817608352b14ef3d9bf8e0e9ead1790c156006301a86bdeead456e4efa879",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-07-g4.json": "372b91c0bf3c3c032164f48e5ac9656b6500d3223d8fcb13ca825ded23ec59cb",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\assets\\world-history-07_Teaching-Navigation_2026-09-01.png": "43f11e4d5ddd44550af9d2b9471989cf3df7fa1d50c4b84813ecb2151f4fade9",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.pdf": "e18e1733d7551a8dcbc9413cda05f3a5b2648d1bdb6a05c5c60bb156a1101d4b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.txt": "73521c811bbad28a5a1b9090fdd6c8ae652d968504bbaf313f345b4bf809b349",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\build-audit.json": "f31b91c6cdd5c4abdc1f2047fec6faa03c9ba7f9e577aae87c8bb0e993668c00",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\master.png": "845cd869178f7b7fa60bf0367f1ade0e52a786ca8fb90acd6635f6957ee628c4",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\poster.pdf": "da487ac8cc169a9aacc8557aba8918c72f25e98acb6844a49b9acd4efceacb86",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\preservation-hashes.json": "973c94d1b9cde32206f3d204e636aa3b627a4fb6b114f42c64bb164d08c6ae67",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\README.txt": "5db0d2b1f0175be941dcc5969c772512d80ed58b53d27222f84b284922983109",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\tiled.pdf": "f72f07b06f84846831590eb670518112335f760d26dbf41dc9f6127b86009d85",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\validation-report.txt": "e2fdc9fd7a5dfd1c9f6834d9f07e1356ed630f29dc1f4a0a1924cc8cbc722ced",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\editable\\topic-spec.json": "372b91c0bf3c3c032164f48e5ac9656b6500d3223d8fcb13ca825ded23ec59cb",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\contact-sheet-01.png": "0e20eb2f81e59627d3ccf2a9b40f9724acf2306dff59d311937133e4631e4391",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\master-overview.png": "0e2e1c0ef1fb86ee4b199b99b03f69e4bdb857daf20d7e487ddacc4666e5dc1b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\page-001.png": "6cf1ab42394578b9506e205a2b4fbca66db32e7fd320232017d98d4d64ddd3ae",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\page-002.png": "453765b6ff9b17dcfe47ae10c43b5f6fb84ad8915373e0bd1226e620506f2151",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\page-003.png": "22bbfd444871b625d4c8c5856e7f63f75604581d1e8a46e35d4663b34cb56ea0",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\page-004.png": "cff52d64df4a4f6771db7cba25caee9acaccc67796ba30de43f872ebf310a4b8",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-07-g4.json": "1cd69f9e277acf70ad76a885e1f9ecd5ab9f6ea235f56902b527da2fcf5551e3"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-07:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "regenerate_world_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-07-g4.json",
+    "graphical_spec_sha256": "372b91c0bf3c3c032164f48e5ac9656b6500d3223d8fcb13ca825ded23ec59cb",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-07-deep-review-2026-09-04-g4.json",
+    "ascii_master_spec_sha256": "e7b817608352b14ef3d9bf8e0e9ead1790c156006301a86bdeead456e4efa879",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-world-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

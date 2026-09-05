@@ -1,0 +1,1135 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-10",
+  "subject": "Science-and-Technology",
+  "title": "NATIONAL QUANTUM MISSION AND QUANTUM TECHNOLOGY",
+  "short_route": "BIT AND QUBIT CARD → QUANTUM PRINCIPLE SPLIT → ALGORITHM MECHANISM RAIL → DECOHERENCE ENGINEERING STACK → PHYSICAL-TO-LOGICAL LADDER → FOUR TECHNOLOGY FAMILIES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-10_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-10-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "8c98ea270b4c780a410aff004a2016b025d5cd8bc34f68f77a13054f364e451e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BIT AND QUBIT CARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BIT AND QUBIT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSICAL BIT",
+          "role": "outcome"
+        },
+        {
+          "text": "RECORDED AS 0 OR 1",
+          "role": "comparison"
+        },
+        {
+          "text": "AMPLITUDES OVER BASIS STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE CLASSICAL OUTCOME WITH PROBABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "NOT THE DEFINING DIFFERENCE",
+          "role": "caution"
+        },
+        {
+          "text": "STATE DESCRIPTION IS NOT TWO STORED CLASSICAL BITS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLASSICAL BIT → recorded as 0 or 1",
+        "QUBIT → amplitudes over basis states",
+        "MEASUREMENT → one classical outcome with probability",
+        "SPEED → not the defining difference",
+        "RULE → state description is not two stored classical bits"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "CLASSICAL BIT → recorded as 0 or 1",
+          "MEASUREMENT → one classical outcome with probability",
+          "RULE → state description is not two stored classical bits"
+        ],
+        [
+          "QUBIT → amplitudes over basis states",
+          "SPEED → not the defining difference",
+          "CLASSICAL BIT → recorded as 0 or 1"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "CLASSICAL BIT → recorded as 0 or 1",
+            "QUBIT → amplitudes over basis states"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MEASUREMENT → one classical outcome with probability",
+            "SPEED → not the defining difference"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → state description is not two stored classical bits",
+            "CLASSICAL BIT → recorded as 0 or 1"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → state description is not two stored classical bits.",
+      "source_references": [
+        "Bit-qubit boundary",
+        "Superposition-boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "QUANTUM PRINCIPLE SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "QUANTUM PRINCIPLE SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "ONE SYSTEM IN A COMBINATION OF BASIS STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINT STATE OF TWO OR MORE SYSTEMS",
+          "role": "institution"
+        },
+        {
+          "text": "ARBITRARY UNKNOWN STATE CANNOT BE COPIED PERFECTLY",
+          "role": "institution"
+        },
+        {
+          "text": "NO SIGNALLING",
+          "role": "caution"
+        },
+        {
+          "text": "ENTANGLEMENT DOES NOT TRANSMIT MESSAGES FASTER",
+          "role": "caution"
+        },
+        {
+          "text": "EACH PRINCIPLE ANSWERS A DIFFERENT QUESTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SUPERPOSITION → one system in a combination of basis states",
+        "ENTANGLEMENT → joint state of two or more systems",
+        "NO-CLONING → arbitrary unknown state cannot be copied perfectly",
+        "NO SIGNALLING → entanglement does not transmit messages faster",
+        "RULE → each principle answers a different question"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "SUPERPOSITION → one system in a combination of basis states",
+          "NO-CLONING → arbitrary unknown state cannot be copied perfectly",
+          "RULE → each principle answers a different question"
+        ],
+        [
+          "ENTANGLEMENT → joint state of two or more systems",
+          "NO SIGNALLING → entanglement does not transmit messages faster",
+          "SUPERPOSITION → one system in a combination of basis states"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "SUPERPOSITION → one system in a combination of basis states",
+            "ENTANGLEMENT → joint state of two or more systems"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NO-CLONING → arbitrary unknown state cannot be copied perfectly",
+            "NO SIGNALLING → entanglement does not transmit messages faster"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → each principle answers a different question",
+            "SUPERPOSITION → one system in a combination of basis states"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → each principle answers a different question.",
+      "source_references": [
+        "Superposition-boundary",
+        "Entanglement-boundary",
+        "No-cloning boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ALGORITHM MECHANISM RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ALGORITHM MECHANISM RAIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "PREPARE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "INITIALISE QUBITS",
+          "role": "comparison"
+        },
+        {
+          "text": "QUANTUM GATES",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFORM AMPLITUDES",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPRESS AND REINFORCE PATHS",
+          "role": "outcome"
+        },
+        {
+          "text": "OBTAIN CLASSICAL SAMPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPERPOSITION DOES NOT REVEAL EVERY ANSWER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREPARE STATE → initialise qubits",
+        "QUANTUM GATES → transform amplitudes",
+        "INTERFERENCE → suppress and reinforce paths",
+        "MEASUREMENT → obtain classical sample",
+        "TRAP → superposition does not reveal every answer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PREPARE STATE → initialise qubits",
+            "QUANTUM GATES → transform amplitudes"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERFERENCE → suppress and reinforce paths",
+            "MEASUREMENT → obtain classical sample"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TRAP → superposition does not reveal every answer",
+            "PREPARE STATE → initialise qubits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → superposition does not reveal every answer.",
+      "source_references": [
+        "Interference-measurement boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DECOHERENCE ENGINEERING STACK",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DECOHERENCE ENGINEERING STACK",
+          "role": "primary"
+        },
+        {
+          "text": "ENVIRONMENTAL INTERACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PHASE INFORMATION DEGRADES",
+          "role": "comparison"
+        },
+        {
+          "text": "COHERENCE TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "FINITE COMPUTATION WINDOW",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCE DISTURBANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROL ELECTRONICS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTE ACCURATE GATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENVIRONMENTAL INTERACTION → phase information degrades",
+        "COHERENCE TIME → finite computation window",
+        "CRYOGENICS / VACUUM / SHIELDING → reduce disturbance",
+        "CONTROL ELECTRONICS / MATERIALS → execute accurate gates",
+        "OUTCOME → engineering, not theory alone, limits scale"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ENVIRONMENTAL INTERACTION → phase information degrades",
+            "COHERENCE TIME → finite computation window"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CRYOGENICS / VACUUM / SHIELDING → reduce disturbance",
+            "CONTROL ELECTRONICS / MATERIALS → execute accurate gates"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OUTCOME → engineering, not theory alone, limits scale",
+            "ENVIRONMENTAL INTERACTION → phase information degrades"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → engineering, not theory alone, limits scale.",
+      "source_references": [
+        "Decoherence-boundary",
+        "Materials-devices boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PHYSICAL-TO-LOGICAL LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PHYSICAL-TO-LOGICAL LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL QUBIT",
+          "role": "outcome"
+        },
+        {
+          "text": "NOISY HARDWARE ELEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ERROR CHARACTERISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MEASURE FAILURE CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "ERROR-CORRECTING CODE",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUNDANT ENCODING",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGICAL QUBIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL QUBIT → noisy hardware element",
+        "ERROR CHARACTERISATION → measure failure channels",
+        "ERROR-CORRECTING CODE → redundant encoding",
+        "LOGICAL QUBIT → protected information unit",
+        "RULE → raw qubit count is not useful capability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PHYSICAL QUBIT → noisy hardware element",
+            "ERROR CHARACTERISATION → measure failure channels"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ERROR-CORRECTING CODE → redundant encoding",
+            "LOGICAL QUBIT → protected information unit"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → raw qubit count is not useful capability",
+            "PHYSICAL QUBIT → noisy hardware element"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → raw qubit count is not useful capability.",
+      "source_references": [
+        "Physical-logical boundary",
+        "Qubit-target boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FOUR TECHNOLOGY FAMILIES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR TECHNOLOGY FAMILIES",
+          "role": "primary"
+        },
+        {
+          "text": "SELECTED INFORMATION-PROCESSING ALGORITHMS",
+          "role": "outcome"
+        },
+        {
+          "text": "QUANTUM-STATE LINKS AND KEY DISTRIBUTION",
+          "role": "institution"
+        },
+        {
+          "text": "PRECISION MEASUREMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ENABLING HARDWARE SUBSTRATE",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTUM TECHNOLOGY IS NOT COMPUTING ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMPUTING → selected information-processing algorithms",
+        "COMMUNICATION → quantum-state links and key distribution",
+        "SENSING / METROLOGY → precision measurement",
+        "MATERIALS / DEVICES → enabling hardware substrate",
+        "TRAP → quantum technology is not computing alone"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "COMPUTING → selected information-processing algorithms",
+          "SENSING / METROLOGY → precision measurement",
+          "TRAP → quantum technology is not computing alone"
+        ],
+        [
+          "COMMUNICATION → quantum-state links and key distribution",
+          "MATERIALS / DEVICES → enabling hardware substrate",
+          "COMPUTING → selected information-processing algorithms"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "COMPUTING → selected information-processing algorithms",
+            "COMMUNICATION → quantum-state links and key distribution"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SENSING / METROLOGY → precision measurement",
+            "MATERIALS / DEVICES → enabling hardware substrate"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → quantum technology is not computing alone",
+            "COMPUTING → selected information-processing algorithms"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → quantum technology is not computing alone.",
+      "source_references": [
+        "Computing-boundary",
+        "Communication-boundary",
+        "Sensing-metrology boundary",
+        "Materials-devices boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "QKD SECURITY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "QKD SECURITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTUM STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTE KEY MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTURBANCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "REVEAL POSSIBLE INTERCEPTION",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHENTICATED ENDPOINTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVENT IMPERSONATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSICAL ENCRYPTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUANTUM STATES → distribute key material",
+        "DISTURBANCE TEST → reveal possible interception",
+        "AUTHENTICATED ENDPOINTS → prevent impersonation",
+        "CLASSICAL ENCRYPTION → protects message content",
+        "RULE → QKD alone is not a complete secure network"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "QUANTUM STATES → distribute key material",
+            "DISTURBANCE TEST → reveal possible interception"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTHENTICATED ENDPOINTS → prevent impersonation",
+            "CLASSICAL ENCRYPTION → protects message content"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → QKD alone is not a complete secure network",
+            "QUANTUM STATES → distribute key material"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → QKD alone is not a complete secure network.",
+      "source_references": [
+        "QKD-boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "QKD VERSUS PQC",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "QKD VERSUS PQC",
+          "role": "comparison"
+        },
+        {
+          "text": "QUANTUM HARDWARE AND PHYSICAL LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSICAL QUANTUM-RESISTANT ALGORITHMS",
+          "role": "comparison"
+        },
+        {
+          "text": "QKD PURPOSE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIALISED KEY DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "PQC PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD STANDARDS AND SOFTWARE MIGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLEMENTARY TOOLS WITH DIFFERENT TIMELINES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QKD → quantum hardware and physical link",
+        "PQC → classical quantum-resistant algorithms",
+        "QKD PURPOSE → specialised key distribution",
+        "PQC PURPOSE → broad standards and software migration",
+        "POLICY → complementary tools with different timelines"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "QKD → quantum hardware and physical link",
+          "QKD PURPOSE → specialised key distribution",
+          "POLICY → complementary tools with different timelines"
+        ],
+        [
+          "PQC → classical quantum-resistant algorithms",
+          "PQC PURPOSE → broad standards and software migration",
+          "QKD → quantum hardware and physical link"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "QKD → quantum hardware and physical link",
+            "PQC → classical quantum-resistant algorithms"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "QKD PURPOSE → specialised key distribution",
+            "PQC PURPOSE → broad standards and software migration"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "POLICY → complementary tools with different timelines",
+            "QKD → quantum hardware and physical link"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PQC PURPOSE → broad standards and software migration.",
+      "source_references": [
+        "QKD-PQC boundary",
+        "Cryptographic-readiness boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NQM INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NQM INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTERIAL UMBRELLA",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTING DEPARTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL CAPABILITY MISSION",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR VERTICAL ECOSYSTEM ANCHORS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPARTMENT, MISSION AND HUB ARE DISTINCT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MINISTRY OF SCIENCE AND TECHNOLOGY → ministerial umbrella",
+        "DST → implementing department",
+        "NQM → national capability mission",
+        "T-HUBS → four vertical ecosystem anchors",
+        "RULE → department, mission and hub are distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MINISTRY OF SCIENCE AND TECHNOLOGY → ministerial umbrella",
+            "DST → implementing department"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NQM → national capability mission",
+            "T-HUBS → four vertical ecosystem anchors"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → department, mission and hub are distinct",
+            "MINISTRY OF SCIENCE AND TECHNOLOGY → ministerial umbrella"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → department, mission and hub are distinct.",
+      "source_references": [
+        "NQM-mission boundary",
+        "DST-ministry boundary",
+        "Four-hub boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FOUR T-HUB MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR T-HUB MAP",
+          "role": "primary"
+        },
+        {
+          "text": "IISC BENGALURU",
+          "role": "outcome"
+        },
+        {
+          "text": "QUANTUM COMPUTING",
+          "role": "comparison"
+        },
+        {
+          "text": "IIT MADRAS WITH C-DOT",
+          "role": "evidence"
+        },
+        {
+          "text": "QUANTUM COMMUNICATION",
+          "role": "primary"
+        },
+        {
+          "text": "IIT BOMBAY",
+          "role": "outcome"
+        },
+        {
+          "text": "QUANTUM SENSING AND METROLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "IIT DELHI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IISc BENGALURU → Quantum Computing",
+        "IIT MADRAS WITH C-DOT → Quantum Communication",
+        "IIT BOMBAY → Quantum Sensing and Metrology",
+        "IIT DELHI → Quantum Materials and Devices",
+        "TRAP → hub creation is not operational capability"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "IISc BENGALURU → Quantum Computing",
+          "IIT BOMBAY → Quantum Sensing and Metrology",
+          "TRAP → hub creation is not operational capability"
+        ],
+        [
+          "IIT MADRAS WITH C-DOT → Quantum Communication",
+          "IIT DELHI → Quantum Materials and Devices",
+          "IISc BENGALURU → Quantum Computing"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "IISc BENGALURU → Quantum Computing",
+            "IIT MADRAS WITH C-DOT → Quantum Communication"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "IIT BOMBAY → Quantum Sensing and Metrology",
+            "IIT DELHI → Quantum Materials and Devices"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → hub creation is not operational capability",
+            "IISc BENGALURU → Quantum Computing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → hub creation is not operational capability.",
+      "source_references": [
+        "Four-hub boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "READINESS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "READINESS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "MISSION AUTHORITY AND OUTLAY",
+          "role": "comparison"
+        },
+        {
+          "text": "INTENDED FUTURE CAPABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "RESEARCH PROTOTYPE",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDED DEMONSTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "VALIDATED SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATABLE PERFORMANCE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CABINET APPROVAL → mission authority and outlay",
+        "TARGET → intended future capability",
+        "RESEARCH PROTOTYPE → bounded demonstration",
+        "VALIDATED SYSTEM → repeatable performance evidence",
+        "OPERATIONAL DEPLOYMENT → field use with sustainment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CABINET APPROVAL → mission authority and outlay",
+            "TARGET → intended future capability"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESEARCH PROTOTYPE → bounded demonstration",
+            "VALIDATED SYSTEM → repeatable performance evidence"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OPERATIONAL DEPLOYMENT → field use with sustainment",
+            "CABINET APPROVAL → mission authority and outlay"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VALIDATED SYSTEM → repeatable performance evidence; OPERATIONAL DEPLOYMENT → field use with sustainment.",
+      "source_references": [
+        "Target-achievement boundary",
+        "Qubit-target boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "QUANTUM CLAIM FIREWALL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "QUANTUM CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "QUBIT, SUPERPOSITION, ENTANGLEMENT AND DECOHERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPUTING, COMMUNICATION, SENSING OR MATERIALS",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL AND LOGICAL QUBITS; QKD AND PQC",
+          "role": "evidence"
+        },
+        {
+          "text": "APPROVAL, TARGET, PROTOTYPE, VALIDATION AND OPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "OUTLAY, QUBITS, DISTANCE AND STARTUP CLAIMS OFFICIALLY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → qubit, superposition, entanglement and decoherence",
+        "CLASSIFY → computing, communication, sensing or materials",
+        "SEPARATE → physical and logical qubits; QKD and PQC",
+        "LABEL → approval, target, prototype, validation and operation",
+        "VERIFY → outlay, qubits, distance and startup claims officially"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DEFINE → qubit, superposition, entanglement and decoherence",
+            "CLASSIFY → computing, communication, sensing or materials"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SEPARATE → physical and logical qubits; QKD and PQC",
+            "LABEL → approval, target, prototype, validation and operation"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → outlay, qubits, distance and startup claims officially",
+            "DEFINE → qubit, superposition, entanglement and decoherence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → outlay, qubits, distance and startup claims officially.",
+      "source_references": [
+        "Cryptographic-readiness boundary",
+        "Volatile-claim boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTUM CAPABILITY IS PATH-DEPENDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONS THAT BUILD TALENT, FABRICATION KNOW-HOW AND STANDARDS EARLY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE MOST BINDING CONSTRAINTS ARE OFTEN ENGINEERING AND ECOSYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "A MISSION APPROACH IS JUSTIFIED BECAUSE FRAGMENTED PROJECTS ALONE",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL MISSION FRAMEWORK.",
+          "role": "outcome"
+        },
+        {
+          "text": "T-HUB AT IISC BENGALURU",
+          "role": "comparison"
+        },
+        {
+          "text": "QUANTUM COMPUTING.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Quantum capability is path-dependent: nations that build talent, fabrication know-how and standards early can gain long-term advantages.",
+            "CAUTION: The most binding constraints are often engineering and ecosystem constraints rather than pure theory.",
+            "CAUTION: A mission approach is justified because fragmented projects alone may not create platform-level capability.",
+            "NQM: national mission framework."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "T-Hub at IISc Bengaluru: Quantum Computing.",
+            "T-Hub at IIT Madras with C-DOT: Quantum Communication.",
+            "T-Hub at IIT Bombay: Quantum Sensing & Metrology.",
+            "T-Hub at IIT Delhi: Quantum Materials & Devices."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "PIB parliamentary answer: says the T-Hubs comprise 14 Technical Groups across 17 States and 2 UTs.",
+            "Quantum communication is strategically relevant for secure networks and national-security communication contexts.",
+            "Quantum sensing/metrology can matter for navigation, clocks, precision instrumentation and advanced measurement ecosystems.",
+            "Quantum materials/devices are foundational because hardware dependence can otherwise cripple mission ambition."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

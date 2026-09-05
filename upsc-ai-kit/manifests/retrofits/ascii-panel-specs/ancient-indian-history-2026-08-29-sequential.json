@@ -1,0 +1,954 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-29",
+  "scope": "Ancient Indian History learner-v2 Topics 12-16",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-12",
+      "display_title": "Iranian & Macedonian Invasions",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\12_Iranian-Macedonian-Invasions_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "North-western contact zone and evidence ladder",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "IRAN / CENTRAL ASIA",
+            "         |",
+            "Hindu Kush -> Kabul-Gandhara -> Indus -> Taxila -> Punjab rivers",
+            "         |",
+            "         +-> armies + merchants + envoys + scripts + coin forms",
+            "EVIDENCE: royal inscription -> archaeology -> near-source report -> later narrative",
+            "RULE: geography enabled contact; imperial capacity and local politics shaped outcomes.",
+            "LIMIT: north-western campaigns must not be written as conquest of all India."
+          ],
+          "source_references": ["Frontier geography", "Source hierarchy"]
+        },
+        {
+          "title": "Achaemenid inclusion: claim, reach and limits",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "DARIUS DNa / XERXES XPh",
+            "          |",
+            "Gandara + Hidush named among subject countries",
+            "          |",
+            "Herodotus: tribute district + Indian/Gandarian contingents",
+            "          v",
+            "SECURE: imperial claim, extraction and military connection",
+            "NOT SECURE: uniform borders, equal control or audited tribute totals"
+          ],
+          "source_references": ["Achaemenid evidence", "DNa, XPh and Herodotus"]
+        },
+        {
+          "title": "Achaemenid mechanisms in the Indus frontier",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "IMPERIAL EXPANSION",
+            "      |",
+            "satrapal mediation + tribute + garrisons + roads + multilingual administration",
+            "      |",
+            "north-west linked more closely to Iranian imperial circuits",
+            "      v",
+            "POSSIBLE LEGACIES: Aramaic-Kharosthi link, coin forms, political vocabulary",
+            "CAUTION: contact precedent is not proof that Mauryan institutions were copied."
+          ],
+          "source_references": ["Persian administration", "Consequences of Iranian contact"]
+        },
+        {
+          "title": "Kharosthi and Aramaic: transmission without copying",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ARAMAIC IMPERIAL ENVIRONMENT -> ADAPTATION -> KHAROSTHI",
+            "             |                              |",
+            "      right-to-left script            local language use",
+            "             |                              |",
+            "Achaemenid contact likely aided transmission",
+            "             v",
+            "Earliest extensive secure Indian corpus is Mauryan/Ashokan and north-western.",
+            "DISTINCTION: origin process != date of surviving inscriptions."
+          ],
+          "source_references": ["Kharosthi", "Language and script consequences"]
+        },
+        {
+          "title": "Alexander's route: from Achaemenid world to Punjab",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "327 BCE: Hindu Kush / Swat campaigns",
+            "        -> Aornos tradition -> Indus crossing -> Taxila alliance",
+            "326 BCE: Hydaspes (Jhelum) battle against Porus",
+            "        -> Acesines (Chenab) -> Hydraotes (Ravi) -> Hyphasis (Beas)",
+            "325 BCE: lower Indus operations -> Gedrosian return",
+            "ROUTE RULE: several passes and valleys mattered; Khyber was not the only road.",
+            "SITE RULE: Bhir belongs to early Taxila; Sirkap is later Indo-Greek.",
+            "SOURCE RULE: surviving campaign narratives are later than the events."
+          ],
+          "source_references": ["Campaign chronology", "Route through the north-west"]
+        },
+        {
+          "title": "Hydaspes: battle mechanism and political settlement",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RIVER + MONSOON + PORUS'S ELEPHANTS",
+            "              |",
+            "concealed crossing -> flank pressure -> close battle -> Macedonian victory",
+            "              |",
+            "Porus restored and enlarged as subordinate regional ruler",
+            "              v",
+            "MECHANISM: conserve manpower + retain local legitimacy + create a buffer",
+            "LIMIT: famous dialogue and exact tactics come through later literary shaping."
+          ],
+          "source_references": ["Battle of Hydaspes", "Settlement with Porus"]
+        },
+        {
+          "title": "Why the army stopped at the Beas",
+          "structural_type": "causal-matrix",
+          "ascii_lines": [
+            "BEAS HALT",
+            "  |-- accumulated casualties and campaign fatigue",
+            "  |-- monsoon, rivers, distance and supply strain",
+            "  |-- reports of strong eastern armies and elephants",
+            "  |-- soldiers' bargaining power after years of service",
+            "  `-- diminishing confidence in unlimited advance",
+            "VERDICT: a cumulative military-logistical-political refusal, not one fear factor.",
+            "LIMIT: Nanda army figures are remembered scale, not audited statistics."
+          ],
+          "source_references": ["Hyphasis mutiny", "Why advance stopped"]
+        },
+        {
+          "title": "Local agency: alliance, resistance and negotiated rule",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AMBHI / TAXILA          PORUS / HYDASPES          MALLOI AND OTHERS",
+            "alliance and logistics  armed resistance          fortified resistance",
+            "rivalry used externally defeat then restoration   severe local fighting",
+            "          \\                 |                 /",
+            "           \\-------- LOCAL POLITICAL AGENCY -----/",
+            "External conquest advanced through existing conflicts, not across an empty frontier.",
+            "Alliance was strategic choice; resistance varied by polity and terrain.",
+            "Do not reduce north-western society to passive victims or willing collaborators."
+          ],
+          "source_references": ["Ambhi and Porus", "Resistance and alliances"]
+        },
+        {
+          "title": "Consequences: direct, indirect and overclaimed",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "DIRECT: short-lived Macedonian garrisons, satrapies, route knowledge, naval survey",
+            "NEAR-TERM: power reordering in the north-west and successor conflicts",
+            "LONGER CONTACT: coinage, art and diplomacy through later Hellenistic polities",
+            "NOT DIRECT: Mauryan empire, Indo-Greek rule, Gandhara art centuries later",
+            "             |",
+            "             v",
+            "Answer by chronology: event -> mechanism -> later transmission -> explicit limit.",
+            "Avoid 'opened India to the West'; the corridor already had older connections."
+          ],
+          "source_references": ["Consequences of Alexander", "Direct and indirect effects"]
+        },
+        {
+          "title": "Mauryan and Seleucid bridge",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ALEXANDER'S DEATH (323 BCE)",
+            "        -> unstable satrapies and successor struggles",
+            "        -> Chandragupta's north-western expansion",
+            "        -> Seleucus conflict and treaty, c. 305-301 BCE",
+            "        -> territorial adjustment + diplomatic exchange",
+            "MEGASTHENES: later-quoted observer at the Mauryan court",
+            "BRIDGE: Macedonian withdrawal created opportunity, not automatic Mauryan victory.",
+            "BOUNDARY: detailed Mauryan administration belongs to Topic 14."
+          ],
+          "source_references": ["After Alexander", "Mauryan transition"]
+        },
+        {
+          "title": "Prelims distinction grid",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "Hydaspes = Jhelum        Hyphasis = Beas",
+            "Acesines = Chenab        Hydraotes = Ravi",
+            "Bhir = earliest historic Taxila phase",
+            "Sirkap = later Hellenistic-grid city; Sirsukh = Kushana phase",
+            "DNa/XPh = royal country lists; Herodotus = Greek narrative",
+            "Arrian = later writer using lost earlier accounts",
+            "Kharosthi = right-to-left; Aramaic linkage, not Alexander's invention",
+            "TRAP FILTER: date + source class + geography + degree of certainty."
+          ],
+          "source_references": ["Terminology", "Hard MCQs"]
+        },
+        {
+          "title": "Examiner-ready invasion answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INTRO: define the north-western scale and separate Iranian from Macedonian phases.",
+            "BODY 1: geography and local polities",
+            "BODY 2: Achaemenid inscription/text evidence and administrative contact",
+            "BODY 3: Alexander route, Hydaspes settlement and Beas halt",
+            "BODY 4: direct consequences versus later Hellenistic developments",
+            "COUNTER: source distance, uncertain borders and exaggerated figures",
+            "CONCLUSION: connected frontier + local agency + selective institutional effects",
+            "WRITE: claim -> named evidence -> mechanism -> significance -> limit."
+          ],
+          "source_references": ["Mains answer architecture", "Consolidated register notes"]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-13",
+      "display_title": "State & Varna Society in the Age of the Buddha",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\13_State-Varna-Society-Age-of-Buddha_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Period horizon and source method",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "LATER VEDIC BACKGROUND -> c. 600-400 BCE CORE -> c. 600-200 BCE WIDER HORIZON",
+            "             |                    |                    |",
+            " agrarian and varna change   Buddha-age polities   textual redaction and urban growth",
+            "SOURCES: Nikayas/Vinaya + Jaina texts + Dharmasutras/Panini + archaeology",
+            "         |",
+            "         v",
+            "Do not make unlike sources exactly contemporary.",
+            "METHOD: claim -> named source/site -> what it proves -> transmission limit."
+          ],
+          "source_references": ["Defining the age", "Sources and evidence method"]
+        },
+        {
+          "title": "From jana to territorial state",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "KIN COMMUNITY / JANA",
+            "        -> settled territory / JANAPADA",
+            "        -> larger competing MAHAJANAPADAS",
+            "        -> monarchies and gana-sanghas",
+            "MECHANISMS: revenue + army + fortified centres + officials + diplomacy",
+            "RESULT: political authority became more territorial and extractive.",
+            "LIMIT: change was regionally uneven and did not erase clan structures.",
+            "TRAP: gana-sangha was restricted oligarchy, not modern democracy."
+          ],
+          "source_references": ["State formation", "Monarchy and gana-sangha"]
+        },
+        {
+          "title": "Second urbanisation as a system",
+          "structural_type": "system-map",
+          "ascii_lines": [
+            "AGRARIAN SURPLUS -> SPECIALISED CRAFTS -> EXCHANGE -> TOWNS",
+            "       ^                                      |",
+            "       |                                      v",
+            "state demand <- taxes, armies, officials <- merchants and householders",
+            "       |                                      |",
+            "       +------ roads + rivers + coin use -----+",
+            "Urbanisation was a network of production, power and circulation.",
+            "NBPW is an associated material horizon, not the single cause of towns."
+          ],
+          "source_references": ["Second urbanisation", "Urban criteria"]
+        },
+        {
+          "title": "Agrarian base, iron and revenue",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOREST CLEARANCE + PLOUGH AGRICULTURE + LABOUR",
+            "                      |",
+            "            larger and more regular surplus",
+            "                      |",
+            "shares, tribute, labour dues and market-related extraction",
+            "                      v",
+            "treasury -> officials -> army -> territorial competition",
+            "CAUTION: iron enabled tools and weapons but did not mechanically create states."
+          ],
+          "source_references": ["Agriculture and iron", "Revenue and state capacity"]
+        },
+        {
+          "title": "State institutions and differentiated offices",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "RAJAN / RULING LINEAGE",
+            "        |",
+            "ministers and mahamattas -> revenue and judicial functions",
+            "army and commanders      -> coercion and defence",
+            "village heads            -> local mediation and collection",
+            "envoys and alliances     -> interstate competition",
+            "Office terms show functional differentiation, not a uniform Mauryan bureaucracy.",
+            "Capacity = resources + information + compliance, not titles alone."
+          ],
+          "source_references": ["Officials and administration", "State capacity"]
+        },
+        {
+          "title": "Varna norm and social practice",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BRAHMANICAL NORM                 LIVED SOCIAL FIELD",
+            "fourfold ranked varna            occupations, jatis, clans and regions",
+            "duty and ritual status            wealth, power, mobility and exclusion",
+            "prescriptive texts                Buddhist/Jaina texts + archaeology",
+            "             \\                    /",
+            "              \\-- NEGOTIATION ---/",
+            "Varna organised claims to hierarchy; it did not fully describe every social relation.",
+            "Neither timeless rigidity nor unrestricted mobility is evidence-safe."
+          ],
+          "source_references": ["Varna order", "Norm and practice"]
+        },
+        {
+          "title": "Householders, merchants, labour and dependency",
+          "structural_type": "social-map",
+          "ascii_lines": [
+            "GAHAPATI: substantial household head / agrarian and social authority",
+            "SETTHI: wealthy merchant-financier in urban-commercial networks",
+            "KASSAKA: cultivator; category contained unequal holdings and dependence",
+            "KAMMIKAS / ARTISANS: specialised production and guild-like association",
+            "DASA-KAMMAKARA: dependent and unfree labour categories",
+            "RENUNCIANTS: outside household ideal yet dependent on lay patronage",
+            "Wealth could raise influence without automatically cancelling ritual hierarchy.",
+            "Use social terms with source and context; do not make them modern classes."
+          ],
+          "source_references": ["Gahapati and setthi", "Labour and dependency"]
+        },
+        {
+          "title": "Women, household power and exclusion",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "TEXTUAL NORMS: patriliny, marriage control and gendered duties",
+            "BUDDHIST/JAINA MATERIAL: nuns, donors, householders and debates over admission",
+            "MATERIAL SILENCE: archaeology rarely identifies gender without context",
+            "                         |",
+            "                         v",
+            "Agency existed within unequal institutions; elite women cannot stand for all women.",
+            "Renunciation opened spaces but preserved hierarchy and dependence.",
+            "VERDICT: recover variation without inventing equality or total seclusion."
+          ],
+          "source_references": ["Women and gender", "Social exclusions"]
+        },
+        {
+          "title": "Shramana challenge and social response",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RITUAL COST + URBAN CHANGE + SOCIAL MOBILITY + SUFFERING",
+            "                          |",
+            "Buddhist, Jaina, Ajivika and other renunciant critiques",
+            "                          |",
+            "ethics, karma, rebirth, non-injury, discipline and new communities",
+            "                          v",
+            "merchant and ruler patronage + monastic institutions + doctrinal competition",
+            "LIMIT: shramana movements challenged hierarchy unevenly, not all social ranking."
+          ],
+          "source_references": ["Shramana movements", "Patronage and critique"]
+        },
+        {
+          "title": "Material evidence: pottery, coins, towns and routes",
+          "structural_type": "evidence-grid",
+          "ascii_lines": [
+            "NBPW -> consumption and early-historic settlement horizon",
+            "FORTIFICATIONS -> defence, labour mobilisation and political investment",
+            "PUNCH-MARKED COINS -> monetised exchange in selected circuits",
+            "CRAFT AREAS -> specialised production and urban demand",
+            "SETTLEMENT HIERARCHY -> links villages, towns and political centres",
+            "RIVERS/ROADS -> movement of goods, armies, pilgrims and information",
+            "No single marker proves a city, ruler, varna or religious community.",
+            "Use convergence among artefact, layer, text and regional sequence."
+          ],
+          "source_references": ["Archaeology and urbanisation", "Coins and NBPW"]
+        },
+        {
+          "title": "Change and continuity across polity and society",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CHANGE: larger states | towns | taxation | coin use | renunciant institutions",
+            "CONTINUITY: kinship | agrarian household | ritual hierarchy | local communities",
+            "TENSION: monarchy vs gana | wealth vs status | norm vs practice",
+            "REGIONALITY: Ganga plains != north-west != Deccan trajectories",
+            "                       |",
+            "                       v",
+            "The Buddha age was accelerated restructuring, not a total social revolution.",
+            "Best answers connect political capacity, economy, hierarchy and ethical critique."
+          ],
+          "source_references": ["Integrated synthesis", "Change and continuity"]
+        },
+        {
+          "title": "Examiner-ready Buddha-age answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INTRO: define the sixth-fifth century BCE core within a wider early-historic range.",
+            "BODY 1: source hierarchy and chronology caution",
+            "BODY 2: territorial states, institutions and agrarian extraction",
+            "BODY 3: towns, trade, householders, artisans and labour",
+            "BODY 4: varna norm, lived hierarchy, gender and shramana critique",
+            "COUNTER: regional variation, composite texts and material-evidence limits",
+            "CONCLUSION: state, economy and society changed together but unevenly.",
+            "WRITE: process -> named evidence -> social effect -> qualification."
+          ],
+          "source_references": ["Mains answer architecture", "Consolidated register notes"]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-14",
+      "display_title": "The Mauryan Empire",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\14_The-Mauryan-Empire_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mauryan source hierarchy",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "CONTEMPORARY: Ashokan edicts -> royal voice, command and self-presentation",
+            "MATERIAL: sites, pillars, caves, coins -> context, craft and circulation",
+            "FRAGMENTARY: Megasthenes via later authors -> court and ethnographic reports",
+            "NORMATIVE: Arthashastra -> statecraft possibilities, not a Mauryan manual",
+            "TRADITION: Buddhist, Jaina, Puranic accounts -> dynastic and religious memory",
+            "                         |",
+            "                         v",
+            "Strong claim = convergence across source classes + stated audience and limit."
+          ],
+          "source_references": ["Source hierarchy", "Evidence labels"]
+        },
+        {
+          "title": "Dynastic chronology and ruler differentiation",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 324/321 BCE  Chandragupta: foundation after Nandas",
+            "c. 305-301 BCE  Seleucus conflict and treaty tradition",
+            "c. 300/297-273  Bindusara: continuity, limited direct evidence",
+            "c. 268/273-232  Ashoka: inscriptions, Kalinga and dhamma",
+            "232-c. 187/185  Later Mauryas; evidence becomes thin",
+            "Accession and consecration dates can differ.",
+            "Kalinga followed eight completed years after consecration.",
+            "Do not convert alternative chronologies into one false exact sequence."
+          ],
+          "source_references": ["Chronology method", "Ruler differentiation"]
+        },
+        {
+          "title": "Imperial geography: scale with differentiated control",
+          "structural_type": "spatial-system",
+          "ascii_lines": [
+            "PATALIPUTRA / GANGA CORE",
+            "       |-- Taxila / north-west",
+            "       |-- Ujjain / western routes",
+            "       |-- Tosali / Kalinga",
+            "       `-- Suvarnagiri / southern zone",
+            "EDICT DISTRIBUTION -> communication reach, not a cadastral frontier",
+            "CORE + PROVINCES + FRONTIERS + ALLIED/PERIPHERAL ZONES",
+            "Virtually subcontinental ambition coexisted with uneven administrative depth."
+          ],
+          "source_references": ["Territorial extent", "Differentiated empire"]
+        },
+        {
+          "title": "Administrative chain and local mediation",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "KING AND CENTRAL COURT",
+            "        |",
+            "princes / provincial centres",
+            "        |",
+            "mahamattas -> pradeshikas -> rajukas -> yuktas",
+            "        |",
+            "local officials, householders, guilds and communities",
+            "Hierarchy enabled scale; intermediaries created adaptation and information gaps."
+          ],
+          "source_references": ["Central and provincial administration", "Officials"]
+        },
+        {
+          "title": "Revenue, army and political economy",
+          "structural_type": "causal-cycle",
+          "ascii_lines": [
+            "AGRICULTURE + TRADE + MINES/FORESTS + DUES",
+            "                     |",
+            "                  REVENUE",
+            "                     |",
+            "army + officials + roads + reservoirs + royal establishments",
+            "                     |",
+            "security and integration can enlarge production and exchange",
+            "CAUTION: Arthashastra detail is prescriptive; actual rates and control varied."
+          ],
+          "source_references": ["Political economy", "Revenue and army"]
+        },
+        {
+          "title": "Ashokan inscriptional communication",
+          "structural_type": "communication-map",
+          "ascii_lines": [
+            "ROYAL MESSAGE",
+            "   |-- Major Rock Edicts: broad policy and dhamma",
+            "   |-- Minor Rock Edicts: personal religious commitment",
+            "   |-- Pillar Edicts: mature governance and dhamma",
+            "   |-- Separate Kalinga Edicts: provincial justice and confidence",
+            "   `-- Cave/dedication records: patronage",
+            "Prakrit-Brahmi predominates; Kharosthi, Greek and Aramaic mark adaptation.",
+            "An edict proves communication effort, not uniform reception or enforcement."
+          ],
+          "source_references": ["Ashokan inscriptions", "Regional communication"]
+        },
+        {
+          "title": "Dhamma: ethical governance and imperial mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM",
+            "                         |",
+            "respect for elders + non-injury + sectarian restraint + welfare + self-control",
+            "                         |",
+            "dhamma-mahamattas + tours + edicts + oral proclamation",
+            "                         v",
+            "ethical legitimation and social concord within continuing monarchy",
+            "LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism."
+          ],
+          "source_references": ["Dhamma", "Political ethics"]
+        },
+        {
+          "title": "Kalinga: remorse without disappearance of coercion",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "KALINGA WAR -> deaths, deportation and suffering in Rock Edict XIII",
+            "                  |",
+            "remorse + preference for dhamma-vijaya",
+            "                  |",
+            "yet army, punishment, capital penalty and forest warning remain",
+            "                  v",
+            "VERDICT: ethical reorientation constrained conquest; it did not dissolve the state.",
+            "TRAP: Kalinga did not cause an instant first conversion to Buddhism."
+          ],
+          "source_references": ["Kalinga war", "Coercion and dhamma"]
+        },
+        {
+          "title": "Mauryan art and monumental statecraft",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "PILLARS: monolithic shafts + polished stone + animal capitals + inscriptions",
+            "STUPAS: Ashokan cores later enlarged and embellished",
+            "CAVES: Barabar patronage and polished interiors",
+            "PALACE/CITY: Pataliputra and Kumhrar evidence with dating/function cautions",
+            "POPULAR ART: terracottas and large stone figures with disputed labels",
+            "INFLUENCE: Achaemenid/Hellenistic comparisons + distinctive Mauryan transformation",
+            "Monuments communicated power, patronage and dhamma across selected landscapes.",
+            "Date every layer separately; visible monuments are often multi-period."
+          ],
+          "source_references": ["Art and architecture", "Monumental communication"]
+        },
+        {
+          "title": "External relations and frontier diplomacy",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "CHANDRAGUPTA <-> SELEUCUS: conflict, treaty and diplomatic tradition",
+            "MEGASTHENES -> Mauryan court observation through later quotations",
+            "BINDUSARA -> Hellenistic diplomatic traditions with thin evidence",
+            "ASHOKA -> named Hellenistic kings in edictal moral geography",
+            "NORTH-WEST -> Greek and Aramaic inscriptions",
+            "SOUTH/FRONTIERS -> Cholas, Pandyas and others named beyond direct core rule",
+            "Diplomacy joined military security, trade routes and royal prestige.",
+            "Do not turn named neighbours into proven annexed provinces."
+          ],
+          "source_references": ["Foreign relations", "Seleucid treaty"]
+        },
+        {
+          "title": "Centralisation debate and Arthashastra trap",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "STRONG CENTRAL MODEL             DIFFERENTIATED MODEL",
+            "large army and officer lists     distance and slow communication",
+            "revenue and royal commands       provinces and local intermediaries",
+            "Arthashastra possibilities       archaeology and regional variation",
+            "              \\                  /",
+            "               \\-- SYNTHESIS ---/",
+            "Selective high capacity at strategic nodes, uneven depth elsewhere.",
+            "Arthashastra sharpens questions; it cannot be copied as an organisation chart."
+          ],
+          "source_references": ["Historiography", "Centralisation debate"]
+        },
+        {
+          "title": "Examiner-ready Mauryan answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INTRO: define the empire through source plurality and differentiated scale.",
+            "BODY 1: rulers, chronology and geography",
+            "BODY 2: administration, revenue, army and local mediation",
+            "BODY 3: Ashokan inscriptions, Kalinga and dhamma",
+            "BODY 4: art, economy, external relations and regional variation",
+            "COUNTER: source bias, Arthashastra limits and intention-versus-practice gap",
+            "CONCLUSION: unprecedented scale and communication, but not uniform control.",
+            "WRITE: claim -> edict/site/text -> mechanism -> qualification."
+          ],
+          "source_references": ["Mains answer architecture", "Consolidated register notes"]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-15",
+      "display_title": "Significance & Decline of Mauryan Rule",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Define the three Mauryan endings",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "DYNASTY: Mauryan ruling line ends at Pataliputra",
+            "EMPIRE: territorial integration weakens unevenly by region",
+            "INSTITUTIONS: offices, routes and practices are adapted or abandoned",
+            "LEGACY: scripts, monuments, memories and political ideas persist",
+            "                         |",
+            "                         v",
+            "232 BCE = Ashoka's death; not the instant end of all four processes.",
+            "A decline answer must identify which object it is explaining."
+          ],
+          "source_references": ["Three objects of explanation", "Scope and chronology"]
+        },
+        {
+          "title": "Why Mauryan rule was historically significant",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "MAURYAN SIGNIFICANCE",
+            " |-- virtually subcontinental political horizon",
+            " |-- routes, provincial nodes and differentiated administration",
+            " |-- earliest large corpus of royal public inscriptions",
+            " |-- dhamma as public ethical-political argument",
+            " |-- monumental stone, pillars, caves and stupa patronage",
+            " `-- long memory in Buddhism and modern national symbolism",
+            "QUALIFY: unprecedented scale did not mean equal direct control everywhere."
+          ],
+          "source_references": ["Significance matrix", "Mauryan legacy"]
+        },
+        {
+          "title": "Post-Ashoka chronology and thin evidence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "232 BCE: Ashoka dies",
+            "        -> later ruler lists diverge",
+            "Dasharatha: Nagarjuni cave inscriptions provide direct evidence",
+            "        -> short reigns and declining royal epigraphic visibility",
+            "c. 187/185 BCE: conventional Brihadratha-Pushyamitra transition",
+            "Evidence thins before the final coup; silence is not a complete narrative.",
+            "Dynastic termination at the centre followed earlier regional weakening.",
+            "Use approximate dates and identify textual versus inscriptional evidence."
+          ],
+          "source_references": ["Later Mauryas", "Chronology of decline"]
+        },
+        {
+          "title": "Weak successors: useful trigger, incomplete cause",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "EVIDENCE: many short reigns + succession uncertainty + epigraphic thinning",
+            "                         |",
+            "POSSIBLE MECHANISM: court conflict -> unstable appointments -> weaker loyalty",
+            "                         |",
+            "LIMIT: later lists do not grade each ruler's competence",
+            "                         v",
+            "VERDICT: succession shocks likely mattered through institutions and regions.",
+            "They do not alone explain frontier pressure, provincial agency or continuity."
+          ],
+          "source_references": ["Weak successors", "Succession debate"]
+        },
+        {
+          "title": "Centralisation and differentiated-control debate",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "OVER-CENTRALISED MODEL           DIFFERENTIATED CONTROL MODEL",
+            "court instability spreads fast  local mediation reduces daily central burden",
+            "appointments depend on centre   provinces retain adaptive capacity",
+            "distance strains command         detachment becomes easier when prestige falls",
+            "             \\                    /",
+            "              \\-- COMMON TEST ---/",
+            "information, revenue, coercion and legitimacy must still reach strategic zones.",
+            "Decline may reveal both top-heavy dependence and strong regional intermediaries."
+          ],
+          "source_references": ["Overcentralisation", "Differentiated empire"]
+        },
+        {
+          "title": "Fiscal and economic crisis hypothesis",
+          "structural_type": "argument-test",
+          "ascii_lines": [
+            "LARGE ARMY + OFFICIALDOM + MONUMENTS -> HIGH IMPERIAL COSTS",
+            "                         |",
+            "plausible fiscal pressure and extraction problems",
+            "                         |",
+            "BUT no direct treasury record proves terminal bankruptcy",
+            "AND towns, trade, coin use and agrarian expansion continue regionally",
+            "VERDICT: fiscal strain is a mechanism to test, not a demonstrated general crisis.",
+            "Do not use debasement or donation claims without dated evidence."
+          ],
+          "source_references": ["Fiscal crisis", "Economic continuity"]
+        },
+        {
+          "title": "Ashokan pacifism hypothesis under evidence test",
+          "structural_type": "objection-response",
+          "ascii_lines": [
+            "CLAIM: dhamma and nonviolence weakened military preparedness.",
+            "COUNTER-EVIDENCE:",
+            "  Rock Edict XIII retains warning to forest peoples",
+            "  army and coercive offices were not abolished",
+            "  Pillar Edict IV presupposes punishment and capital penalty",
+            "SAFE VERDICT: renunciation of aggressive conquest may affect frontier posture,",
+            "but no evidence shows total demilitarisation or a helpless state.",
+            "Ethical policy and coercive sovereignty coexisted."
+          ],
+          "source_references": ["Pacifism debate", "Coercion after Kalinga"]
+        },
+        {
+          "title": "Brahmanical reaction hypothesis under evidence test",
+          "structural_type": "objection-response",
+          "ascii_lines": [
+            "CLAIM: sacrifice restrictions and heterodox patronage caused Brahmana revolt.",
+            "POSSIBLE: some ritual specialists may have faced grievance.",
+            "COUNTER:",
+            "  edicts repeatedly respect Brahmanas and shramanas",
+            "  no direct evidence proves an empirewide organised reaction",
+            "  Dasharatha continued Ajivika patronage after Ashoka",
+            "Pushyamitra's identity and rites do not by themselves explain earlier decline.",
+            "VERDICT: bounded grievance hypothesis, not a proven monocausal revolution."
+          ],
+          "source_references": ["Brahmanical reaction", "Religious policy"]
+        },
+        {
+          "title": "Regional agency and frontier pressure",
+          "structural_type": "spatial-causal-map",
+          "ascii_lines": [
+            "NORTH-WEST: distance + Bactrian Greek pressure + changing frontier alliances",
+            "KALINGA: conquered region requiring corrective governance",
+            "DECCAN/SOUTH: differentiated penetration and growing regional capacities",
+            "GANGA CORE: court succession and dynastic termination",
+            "                         |",
+            "regional elites redirect revenue, troops and legitimacy",
+            "                         v",
+            "Empire fragments through several theatres; one cause cannot fit all regions."
+          ],
+          "source_references": ["Regionalisation", "External pressure"]
+        },
+        {
+          "title": "Multi-causal decline mechanism",
+          "structural_type": "causal-web",
+          "ascii_lines": [
+            "SUCCESSION SHOCKS ---- weak coordination ---- provincial assertion",
+            "       |                       |                       |",
+            "fiscal/extraction strain -- communication costs -- frontier pressure",
+            "       \\                       |                      /",
+            "        \\------ declining coercive and symbolic integration -------/",
+            "                              |",
+            "                 uneven imperial fragmentation",
+            "Final coup ends dynasty; it does not single-handedly cause the whole process."
+          ],
+          "source_references": ["Multi-causal synthesis", "Decline mechanism"]
+        },
+        {
+          "title": "Continuity through transformation",
+          "structural_type": "legacy-map",
+          "ascii_lines": [
+            "SANCHI: Ashokan brick core -> Shunga enlargement -> later gateways and shrines",
+            "SARNATH: lion capital -> modern national emblem",
+            "EPIGRAPHY: Brahmi and royal inscriptional visibility continue in new genres",
+            "ROUTES/TOWNS: material networks outlive the dynasty unevenly",
+            "RELIGION: Buddhist, Ajivika and other institutions continue and change",
+            "POLITY: regional states reuse selected capacities, not a complete Mauryan template",
+            "Continuity is adaptation and reinterpretation, not unchanged survival.",
+            "Political fragmentation can coexist with economic and cultural persistence."
+          ],
+          "source_references": ["Legacy", "Sanchi and Sarnath"]
+        },
+        {
+          "title": "Examiner-ready significance and decline spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INTRO: separate dynasty, empire and legacy; date Ashoka's death and final boundary.",
+            "BODY 1: significance in scale, inscriptions, dhamma, routes and monuments",
+            "BODY 2: succession and institutional vulnerability",
+            "BODY 3: fiscal, pacifism and Brahmanical-reaction hypotheses tested",
+            "BODY 4: regional agency, frontier pressure and differentiated chronology",
+            "COUNTER: thin sources and continuing economy/culture",
+            "CONCLUSION: interacting causes dissolved integration; legacy survived selectively.",
+            "WRITE: hypothesis -> evidence -> mechanism -> counter-evidence -> graded verdict."
+          ],
+          "source_references": ["Mains answer architecture", "Consolidated register notes"]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-16",
+      "display_title": "Central Asian Contacts: Indo-Greeks, Shakas, Kushanas",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\16_Central-Asian-Contacts-Indo-Greeks-Shakas-Kushanas_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Connected frontier polities, not one invasion wave",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "BACTRIA / OXUS / CENTRAL ASIA",
+            "  |-- Indo-Greeks -> Gandhara, Punjab and selected eastern routes",
+            "  |-- Shakas -> Taxila, Mathura, western India and upper Deccan",
+            "  |-- Pahlavas -> Afghanistan-Gandhara frontier",
+            "  `-- Great Yuezhi -> Bactria -> Kushana consolidation",
+            "SIMULTANEOUS: Shunga/Kanva, Satavahana and Tamil polities",
+            "Groups overlapped in time and space; they were not one dynasty.",
+            "Origin, political territory and later cultural affiliation must be separated."
+          ],
+          "source_references": ["Scope and chronology", "Routes and political movement"]
+        },
+        {
+          "title": "Indo-Greek political and numismatic profile",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "GRECO-BACTRIAN EXPANSION SOUTH OF HINDU KUSH",
+            "                     |",
+            "regional Indo-Greek kingdoms and competing rulers",
+            "                     |",
+            "portrait coins + Greek/Kharosthi legends + deities + monograms",
+            "                     v",
+            "ruler sequence, titulature, minting and cross-cultural communication",
+            "LIMIT: coin distribution maps circulation better than exact sovereign borders."
+          ],
+          "source_references": ["Indo-Greeks", "Coin evidence"]
+        },
+        {
+          "title": "Menander and Heliodorus: two contact mechanisms",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MENANDER / MILINDA                HELIODORUS PILLAR",
+            "Indo-Greek ruler                  envoy of Antialcidas",
+            "Milindapanho dialogue             Bhagabhadra court at Besnagar",
+            "Buddhist memory and debate        Vasudeva devotion and diplomacy",
+            "literary text with layers         inscriptional diplomatic evidence",
+            "            \\                     /",
+            "             \\-- cultural participation through different institutions",
+            "Neither case proves uniform conversion of an entire people."
+          ],
+          "source_references": ["Menander", "Heliodorus pillar"]
+        },
+        {
+          "title": "Shakas, Pahlavas and Kshatrapa rule",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SHAKA MOVEMENTS -> regional branches and satrapal/kshatrapa titles",
+            "Maues / Azes traditions -> north-western sequences",
+            "Rajuvula and successors -> Mathura sphere",
+            "Nahapana / Kshaharata -> western India and Satavahana conflict",
+            "Chashtana / Rudradaman -> Western Kshatrapa consolidation",
+            "PAHLAVA / INDO-PARTHIAN -> Gondophares and frontier rule",
+            "TRAP: Nahapana and Rudradaman belong to different Shaka branches.",
+            "Use inscription and coin chronology; avoid one neat replacement queue."
+          ],
+          "source_references": ["Shakas", "Pahlavas and Western Kshatrapas"]
+        },
+        {
+          "title": "Kushana formation and chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "GREAT YUEZHI MOVEMENT -> BACTRIA -> GUISHUANG / KUSHANA",
+            "Kujula Kadphises -> consolidation",
+            "Vima Takto / Soter Megas -> debated identification",
+            "Vima Kadphises -> gold and Shaiva imagery",
+            "Kanishka I -> commonly c. 127 CE, not automatically 78 CE",
+            "Huvishka -> Vasudeva -> later Kushana phases",
+            "Rabatak inscription helps ruler order and imperial self-definition.",
+            "Separate Shaka Era 78 CE from Kanishka's currently favoured chronology."
+          ],
+          "source_references": ["Kushana origins", "Kanishka chronology"]
+        },
+        {
+          "title": "Kushana political geography and governance",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "BACTRIA / BEGRAM",
+            "       |",
+            "PURUSHAPURA / GANDHARA ---- TAXILA ---- PUNJAB",
+            "       |                                  |",
+            "       +----------- MATHURA --------------+",
+            "multi-centred nodes + subordinate rulers + kshatrapa/official titles",
+            "Devaputra and royal imagery express exalted sovereignty.",
+            "A networked empire need not possess uniform districts or one capital."
+          ],
+          "source_references": ["Kushana state", "Political geography"]
+        },
+        {
+          "title": "Coins, trade and route participation",
+          "structural_type": "economic-system",
+          "ascii_lines": [
+            "SILK-ROUTE BRANCHES + INDIAN OCEAN LINKS + INNER-ASIAN CORRIDORS",
+            "                            |",
+            "gold and copper coinage + customs + caravan/urban demand",
+            "                            |",
+            "merchants, guilds, monasteries, ports and political nodes",
+            "                            v",
+            "high-value monetary capacity and transregional exchange",
+            "LIMIT: gold coins do not prove universal prosperity or exclusive route control."
+          ],
+          "source_references": ["Trade and coinage", "Silk routes"]
+        },
+        {
+          "title": "Religious plurality and Buddhist patronage",
+          "structural_type": "evidence-grid",
+          "ascii_lines": [
+            "COINS: Iranian, Greek, Indian and Buddhist deities across rulers",
+            "MONUMENTS: Buddhist stupas and monasteries in Gandhara and Mathura worlds",
+            "KANISHKA MEMORY: major Buddhist patron and council traditions",
+            "MAHAYANA: longer doctrinal-social development, not one ruler's invention",
+            "MATHURA: Buddhist, Jaina, Brahmanical and royal images",
+            "ROYAL POLICY: plural engagement and legitimation across constituencies",
+            "Personal belief cannot be reconstructed from one coin or later legend.",
+            "Patronage, public iconography and doctrinal origin are different questions."
+          ],
+          "source_references": ["Religion", "Kanishka and Mahayana"]
+        },
+        {
+          "title": "Gandhara and Mathura compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GANDHARA                         MATHURA",
+            "grey schist and stucco           red sandstone",
+            "layered Hellenised forms         older local sculptural idioms",
+            "Buddhist narrative prominence    Buddhist, Jaina, Brahmanical and royal range",
+            "drapery and body modelling       frontal force and indigenous conventions",
+            "             \\                   /",
+            "              \\-- interaction, workshops and Kushana patronage --/",
+            "Neither school was pure, isolated or merely a copy of the other."
+          ],
+          "source_references": ["Gandhara art", "Mathura art"]
+        },
+        {
+          "title": "Language, script and knowledge exchange",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "GREEK + KHAROSTHI on Indo-Greek and north-western coins",
+            "BACTRIAN in Greek script in Kushana royal usage",
+            "PRAKRIT-BRAHMI across many Indian inscriptions",
+            "SANSKRIT courtly expansion in Rudradaman's Junagadh inscription",
+            "ASTRAL KNOWLEDGE: selective Greek vocabulary/textual influence",
+            "DIPLOMACY/RELIGION: Heliodorus and multilingual royal communication",
+            "Exchange transformed imported forms through local languages and institutions.",
+            "Do not infer ethnicity directly from script or single technical term."
+          ],
+          "source_references": ["Language and script", "Knowledge exchange"]
+        },
+        {
+          "title": "Mutual impact, adaptation and decline",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "INCOMING: coin portraiture, titles, artistic forms and route connections",
+            "LOCAL: languages, religions, political offices and patronage networks",
+            "                         |",
+            "              reciprocal adaptation and legitimation",
+            "                         |",
+            "regional identities persist; power and exchange remain unequal",
+            "DECLINE: Sasanian pressure in west + regional successors + changing routes",
+            "VERDICT: 'Indianisation' is negotiated synthesis, not one-way cultural surrender."
+          ],
+          "source_references": ["Mutual impact", "Decline and legacy"]
+        },
+        {
+          "title": "Examiner-ready Central Asian contacts spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INTRO: separate Indo-Greeks, Shakas, Pahlavas and Kushanas by time and region.",
+            "BODY 1: routes, political chronology and evidence classes",
+            "BODY 2: coins, titles, governance and trade networks",
+            "BODY 3: religion, Gandhara-Mathura art and language exchange",
+            "BODY 4: reciprocal adaptation, regional variation and chronology disputes",
+            "COUNTER: coin-distribution limits, later traditions and 'foreign' essentialism",
+            "CONCLUSION: contact produced durable synthesis without erasing difference.",
+            "WRITE: group -> ruler/source -> region -> mechanism -> impact -> limit."
+          ],
+          "source_references": ["Mains answer architecture", "Consolidated register notes"]
+        }
+      ]
+    }
+  ]
+}

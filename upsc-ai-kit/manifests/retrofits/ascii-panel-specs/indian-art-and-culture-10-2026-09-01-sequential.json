@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topic 10",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-10",
+      "display_title": "Theatre, Puppetry and Performance Traditions",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\10_Theatre-Puppetry-and-Performance-Traditions_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Dramatic root system",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "PLOT -> codified progression",
+            "CHARACTER -> Nayaka, Nayika and Vidusaka",
+            "RASA -> audience reception",
+            "STAGE -> ritual opening and convention"
+          ],
+          "source_references": [
+            "Natyashastra and dramatic modes"
+          ]
+        },
+        {
+          "title": "Dramatic-mode firewall",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LOKADHARMI -> realistic daily-life representation",
+            "NATYADHARMI -> stylised symbolic narration",
+            "PERFORMANCE -> may combine both",
+            "TRAP -> do not reverse the pair"
+          ],
+          "source_references": [
+            "Natyashastra and dramatic modes"
+          ]
+        },
+        {
+          "title": "Sutradhar role chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PRELIMINARIES -> ritual preparation",
+            "INTRODUCTION -> time, place and play",
+            "STAGE MANAGEMENT -> performance order",
+            "PUPPETRY -> narrator and holder-of-strings sense"
+          ],
+          "source_references": [
+            "Rupakas and the Sutradhar"
+          ]
+        },
+        {
+          "title": "Character-language map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NAYAKA -> hero type",
+            "NAYIKA -> heroine type",
+            "VIDUSAKA -> comic and satirical friend",
+            "PRAKRIT -> marked speech register"
+          ],
+          "source_references": [
+            "Character and language on stage"
+          ]
+        },
+        {
+          "title": "Decline and survival",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WRITERS SHIFT -> poetry and song",
+            "LANGUAGE BARRIER -> Sanskrit loses reach",
+            "PATRONAGE SHIFT -> court ecology changes",
+            "KUTIYATTAM -> regional living continuity"
+          ],
+          "source_references": [
+            "Why Sanskrit theatre contracted",
+            "Kutiyattam as living continuity"
+          ]
+        },
+        {
+          "title": "Folk-theatre arc",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "DEVOTIONAL -> early regional themes",
+            "ROMANCE / HERO -> local narrative expansion",
+            "SOCIAL MESSAGE -> post-Independence use",
+            "RULE -> stages overlap by region"
+          ],
+          "source_references": [
+            "Folk theatre's changing public"
+          ]
+        },
+        {
+          "title": "Modern theatre sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PROSCENIUM -> colonial city and commerce",
+            "1876 ACT -> political control",
+            "PARSI / IPTA -> circulation and mobilisation",
+            "SNA / NSD -> institutional training"
+          ],
+          "source_references": [
+            "Colonial proscenium and censorship",
+            "Parsi, IPTA and institutions"
+          ]
+        },
+        {
+          "title": "Puppetry mechanism matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STRING -> suspended marionette",
+            "SHADOW -> cut-out before a lit screen",
+            "ROD -> figure moved from below or behind",
+            "GLOVE -> fingers inside a sleeve body"
+          ],
+          "source_references": [
+            "Four puppetry mechanisms"
+          ]
+        },
+        {
+          "title": "String-puppet distinctions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KATHPUTLI -> legless Rajasthan doll",
+            "KUNDHEI -> jointed Odisha figure",
+            "GOMBEYATTA -> Yakshagana-styled Karnataka figure",
+            "CONTROL -> strings, but different bodies"
+          ],
+          "source_references": [
+            "String-puppet regional grammar"
+          ]
+        },
+        {
+          "title": "Shadow, rod and glove map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "THOLU BOMMALATA -> Andhra shadow",
+            "RAVANA CHHAYA -> Odisha shadow",
+            "PUTUL NACH / YAMPURI -> rod",
+            "PAVAKOOTHU -> Kerala glove"
+          ],
+          "source_references": [
+            "Shadow-puppet screen grammar",
+            "Rod, glove and control"
+          ]
+        },
+        {
+          "title": "Performance vulnerability test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TEXT SURVIVES? -> archive and teaching",
+            "PERFORMER SURVIVES? -> skill transmission",
+            "AUDIENCE + FUNDING? -> living ecology",
+            "RESPONSE -> form-specific safeguarding"
+          ],
+          "source_references": [
+            "Puppetry as archive and livelihood"
+          ]
+        },
+        {
+          "title": "Performance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> mode, genre or control mechanism",
+            "TRACE -> patronage and public",
+            "COMPARE -> region, body and institution",
+            "QUALIFY -> convention, continuity and vulnerability"
+          ],
+          "source_references": [
+            "Martial performance and two decline types"
+          ]
+        }
+      ]
+    }
+  ]
+}

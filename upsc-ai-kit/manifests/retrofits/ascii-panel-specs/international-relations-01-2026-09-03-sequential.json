@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "International Relations learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-01",
+      "display_title": "Foreign-Policy Foundations and Strategic Autonomy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Results chain of every IR answer",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INTEREST -> security, growth, resources, technology, diaspora, reputation, autonomy",
+            "-> EXTERNAL CONTEXT / ACTOR: neighbour, major power, region, grouping, institution",
+            "-> INSTRUMENT: bilateral visit, regional forum, minilateral coalition, multilateral platform",
+            "-> VERIFIED OUTCOME: joint statement, agreement, charter, declaration, memorandum",
+            "-> CONSTRAINT: asymmetry, rival-power competition, partner politics, capacity limits",
+            "-> CALIBRATED WAY FORWARD: diversify, hedge, sequence, build alternative capacity"
+          ],
+          "source_references": [
+            "National interest as the fixed starting point of the results chain"
+          ]
+        },
+        {
+          "title": "Three labels, one continuing principle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NON-ALIGNMENT -> no bloc alliance, independent approach, friendly relations with all",
+            "-> STRATEGIC AUTONOMY: multipolar-era label for issue-by-issue freedom of choice",
+            "-> MULTI-ALIGNMENT: every relevant platform engaged on its own terms, non-exclusively",
+            "CONSTANT -> independent, interest-based decision-making survives every relabelling"
+          ],
+          "source_references": [
+            "Nehru's three-part formulation of non-alignment",
+            "Strategic autonomy as the multipolar-era successor label",
+            "Multi-alignment as Shashi Tharoor's operational expression of the same principle"
+          ]
+        },
+        {
+          "title": "Posture vocabulary grid",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BANDWAGONING -> align with the stronger power and accept its agenda",
+            "BALANCING -> align against the stronger power to check it",
+            "HEDGING -> engage and mitigate risk with more than one power at the same time",
+            "NEUTRALITY -> equidistance or non-participation; expressly not India's posture",
+            "RULE -> hedging is active and asymmetric, so it is never fence-sitting"
+          ],
+          "source_references": [
+            "Hedging distinguished from neutrality, bandwagoning and balancing",
+            "Strategic autonomy as the multipolar-era successor label"
+          ]
+        },
+        {
+          "title": "Panchsheel card",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "INSTRUMENT -> preamble of the India-China Agreement on Trade and Intercourse with",
+            "the Tibet Region of China, signed 29 April 1954",
+            "PRINCIPLE 1 -> mutual respect for sovereignty and territorial integrity",
+            "PRINCIPLE 2 -> non-aggression   PRINCIPLE 3 -> non-interference",
+            "PRINCIPLE 4 -> equality and mutual benefit   PRINCIPLE 5 -> peaceful coexistence",
+            "BOUNDARY -> a normative-principles statement, not the non-alignment posture"
+          ],
+          "source_references": [
+            "Panchsheel of 1954 and its exact treaty context"
+          ]
+        },
+        {
+          "title": "Five levels of engagement",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "BILATERAL -> summit visit, joint statement, defence or trade agreement",
+            "REGIONAL -> SAARC, BIMSTEC, IORA, India-Central Asia Dialogue",
+            "MINILATERAL -> Quad, I2U2, RIC, IBSA; small, issue-specific, non-treaty",
+            "MULTILATERAL -> United Nations, World Trade Organization, IMF, World Bank, G20",
+            "DIASPORA -> Pravasi Bharatiya Divas, ITEC, consular and welfare diplomacy",
+            "NOTE -> one issue is frequently worked at more than one level at the same time"
+          ],
+          "source_references": [
+            "The five levels of engagement and the instrument toolkit"
+          ]
+        },
+        {
+          "title": "Evidentiary ladder of instruments",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "TREATY / AGREEMENT -> binding once ratified",
+            "CHARTER -> binding on member states once in force",
+            "JOINT STATEMENT / VISION -> political commitment, not a treaty",
+            "DECLARATION -> political or normative, not legally binding",
+            "MEMORANDUM OF UNDERSTANDING -> statement of intent, not self-executing",
+            "CORRIDOR MEMORANDUM -> framework of intent, not an operating segment",
+            "PARTNER / OBSERVER STATUS -> participation without membership rights and duties"
+          ],
+          "source_references": [
+            "Evidentiary levels and the legal-status gap"
+          ]
+        },
+        {
+          "title": "Declared-vision timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "12 MARCH 2015 -> SAGAR articulated in Mauritius: Security and Growth for All in the Region",
+            "12-13 JANUARY 2023 -> first Voice of Global South Summit, convened virtually by India",
+            "17 NOVEMBER 2023 -> second Voice of Global South Summit",
+            "17 AUGUST 2024 -> third Voice of Global South Summit; no fourth recorded as of 3 August 2026",
+            "12 MARCH 2025 -> MAHASAGAR announced at Port Louis as going beyond SAGAR",
+            "STATUS -> declared visions and convened platforms, not treaties or delivered programmes"
+          ],
+          "source_references": [
+            "SAGAR of 2015 and MAHASAGAR of 2025 as declared visions",
+            "The Voice of Global South Summit as autonomous agenda-setting"
+          ]
+        },
+        {
+          "title": "Hedging stress test of 2025-26",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "27 AUGUST 2025 -> additional Russian-oil-linked United States duty takes effect",
+            "4 AND 6 AUGUST 2025 -> India officially calls the action unjustified and unreasonable",
+            "31 OCTOBER 2025 -> ten-year Framework for the US-India Major Defense Partnership signed",
+            "4-5 DECEMBER 2025 -> twenty-third India-Russia Annual Summit held in New Delhi",
+            "7 FEBRUARY 2026 -> the additional duty is removed",
+            "READING -> hedging held, but its cost was real, priced and third-party imposed"
+          ],
+          "source_references": [
+            "The 2025-26 hedging stress test with dated, reversible measures"
+          ]
+        },
+        {
+          "title": "Autonomy-dependence trade-off",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "PORTFOLIO -> overlapping, non-exclusive ties with several powers protect choice",
+            "THRESHOLD -> deepening any one tie too far narrows the choice it was meant to protect",
+            "SIKRI CAUTION -> enmeshing military planning while heavily dependent on Russian equipment",
+            "is called highly debatable absent reciprocal technology-sharing",
+            "ANSWER RULE -> concede the trade-off; do not assert that autonomy is costless"
+          ],
+          "source_references": [
+            "The autonomy-dependence trade-off as the doctrine's real cost"
+          ]
+        },
+        {
+          "title": "Energy exposure as vulnerability and lever",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LEVER -> a Gulf diaspora of five million gives vital interests and considerable influence",
+            "VULNERABILITY -> crude-oil import dependence recorded at 88.2 per cent in FY2024-25",
+            "PROVISIONAL -> about 88.7 per cent provisional for FY2025-26 per the same issuing body",
+            "DISCIPLINE -> carry issuing body, financial year and provisional status with every figure"
+          ],
+          "source_references": [
+            "Gulf energy exposure as a simultaneous vulnerability and lever"
+          ]
+        },
+        {
+          "title": "Recurring analytical gaps applied here",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ANNOUNCEMENT-DELIVERY -> a memorandum or vision treated as a completed outcome",
+            "LEGAL-STATUS -> signature treated as ratification, or adoption as entry into force",
+            "MEMBERSHIP-PARTICIPATION -> partner or observer status described as membership",
+            "ALLIANCE-AUTONOMY -> a deepened partnership described as bloc membership",
+            "SANCTIONS-OBLIGATION -> another state's unilateral measure treated as a duty on India",
+            "FIX -> name the exact stage and its date before making any evaluative claim"
+          ],
+          "source_references": [
+            "Evidentiary levels and the legal-status gap",
+            "The 2025-26 hedging stress test with dated, reversible measures"
+          ]
+        },
+        {
+          "title": "Answer spine for a foundations demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> state the continuing principle before naming any era-specific label",
+            "BUILD -> trace anti-colonial formation, bloc avoidance, diversification, multi-alignment",
+            "TEST -> cite one dated instrument with its exact evidentiary level and its actor",
+            "CLOSE -> concede the autonomy-dependence trade-off and give a calibrated way forward"
+          ],
+          "source_references": [
+            "Honest question ownership and the recurring analytical gaps applied here",
+            "The autonomy-dependence trade-off as the doctrine's real cost"
+          ]
+        }
+      ]
+    }
+  ]
+}

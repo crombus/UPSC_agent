@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T07:25:16+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "dc32b614d5bf80f21ac757e05f3c39019ca35e9d7840c3ce48d3b8626c4edbe8",
+    "sha256_after": "dc32b614d5bf80f21ac757e05f3c39019ca35e9d7840c3ce48d3b8626c4edbe8",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8525,
+    "pdf_count": 2177,
+    "png_count": 739,
+    "txt_count": 922,
+    "markdown_count": 1411,
+    "json_count": 3261,
+    "total_bytes": 3888968902,
+    "by_extension": {
+      ".json": 3261,
+      ".md": 1411,
+      ".pdf": 2177,
+      ".png": 739,
+      ".txt": 922,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-19",
+      "topic_title": "Foreign Policy of the Mughals",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 19,
+      "source_record_id": "medieval-indian-history-19:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "476ec75898c39800b1d855c18eebd94a5f9036be7214b274c224c1d1726f5885",
+          "output_sha256": "476ec75898c39800b1d855c18eebd94a5f9036be7214b274c224c1d1726f5885",
+          "source_output_equal": true,
+          "bytes": 3862332
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-19\\g5\\medieval-indian-history-19_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "18b841edfb5f70c44aa7a69b0e83241409f6a59f7e80ac64caa4d0aa117c06d6",
+          "output_sha256": "18b841edfb5f70c44aa7a69b0e83241409f6a59f7e80ac64caa4d0aa117c06d6",
+          "source_output_equal": true,
+          "bytes": 650505
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-19\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "f7b5764b6192c4e26d12b85b58746434b64347967729bc56bfb53676b5a21c50",
+          "output_sha256": "f7b5764b6192c4e26d12b85b58746434b64347967729bc56bfb53676b5a21c50",
+          "source_output_equal": true,
+          "bytes": 2578580
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-19\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "5a7c88a64c7c96682f63a5c23ce25e32ed9e159d98a1a82e470059935fafe401",
+          "output_sha256": "5a7c88a64c7c96682f63a5c23ce25e32ed9e159d98a1a82e470059935fafe401",
+          "source_output_equal": true,
+          "bytes": 3512897
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-19\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "5ec215f3dbe00e8b420f7026aa321129a9930d89340562544d54d66a4ba50b3c",
+          "output_sha256": "5ec215f3dbe00e8b420f7026aa321129a9930d89340562544d54d66a4ba50b3c",
+          "source_output_equal": true,
+          "bytes": 2306637
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-19\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "c7e8f01cf4efe22382c6b339fb42dccf67502728c9188e68bd39d404ec964185",
+          "output_sha256": "c7e8f01cf4efe22382c6b339fb42dccf67502728c9188e68bd39d404ec964185",
+          "source_output_equal": true,
+          "bytes": 7282
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-19\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\19-Foreign-Policy-of-the-Mughals\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "a7ad0d9bf8fb24b58405ce60a567e81f99ef68a5096544b796bf313588df3ec3",
+          "output_sha256": "a7ad0d9bf8fb24b58405ce60a567e81f99ef68a5096544b796bf313588df3ec3",
+          "source_output_equal": true,
+          "source_text_sha256": "c7e8f01cf4efe22382c6b339fb42dccf67502728c9188e68bd39d404ec964185",
+          "normalized_text_equal": true,
+          "bytes": 59342
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 8,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 102,
+        "solved_practice_workbook": 29,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 102,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 29,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11990
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

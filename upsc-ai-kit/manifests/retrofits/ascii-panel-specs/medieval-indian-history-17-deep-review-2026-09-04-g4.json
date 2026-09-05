@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-17",
+      "display_title": "Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Evolution, not a sudden creed",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1556-73 -> observant Muslim ruler + Timurid/Sufi accommodation",
+            "1563 -> pilgrim tax remitted | 1564 -> jizyah abolished",
+            "1575 -> Ibadat Khana | after 1578 -> debate widens",
+            "1579 -> mahzar | 1581/82 -> practical/final public closure",
+            "1581-1605 -> private inquiry + translations + sulh-i-kul + discipleship",
+            "RULE: policy evolved; 1582 did not create a sudden mass religion.",
+            "MUST REMEMBER: Ibadat Khana (1575), Mahzar (1579), sulh-i kul and Tauhid-i-Ilahi belong to an",
+            "  evolving imperial debate."
+          ],
+          "source_references": [
+            "Chronology",
+            "Pilgrim tax",
+            "Jizyah",
+            "Ibadat Khana",
+            "Mahzar",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Five layers of Akbar's religious policy",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "PERSONAL -> prayer, Chishti links, inquiry, meditation and tawhid",
+            "FISCAL-SOCIAL -> selected disabilities and coercive customs reduced",
+            "INTELLECTUAL -> Ibadat Khana + private dialogue + Maktab Khana",
+            "SOVEREIGN -> mahzar and ruler-centred juristic arbitration",
+            "GOVERNING -> sulh-i-kul, justice, service and plural patronage",
+            "DISCIPLESHIP -> small Tauhid-i-Ilahi circle around the emperor",
+            "DISTINCTION: overlap does not make belief, policy and ritual identical."
+          ],
+          "source_references": [
+            "Personal belief",
+            "State policy",
+            "Sulh-i-kul",
+            "Discipleship",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ibadat Khana debate cycle",
+          "structural_type": "process",
+          "ascii_lines": [
+            "1575 BUILD -> Fatehpur Sikri; text links Niyazi cell and Anup Talao",
+            "FIRST PHASE -> Sufi shaikhs + ulama + learned men + companions",
+            "THURSDAY NIGHTS -> royal forum after state business",
+            "CONFLICT -> doctrine + legal interpretation + precedence + court status",
+            "AFTER 1578 -> Hindu + Jain + Christian + Zoroastrian + other voices",
+            "1581/82 CLOSURE -> public forum ends; private inquiry continues",
+            "CAUTION: no equal parliament and no certain surviving structure."
+          ],
+          "source_references": [
+            "Ibadat Khana",
+            "Participants",
+            "Debate",
+            "Closure",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Interfaith encounter: influence is not conversion",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BRAHMAN -> Purushottam/Devi + pandits | exposition/translation",
+            "JAIN -> Hiravijaya Suri | bounded animal-life measures",
+            "JESUIT -> Aquaviva/Monserrate + Gospels | missionary expectation",
+            "ZOROASTRIAN -> Meherji Rana | light/fire has plural genealogies",
+            "SUFI-ISLAMIC -> Chishti + tawhid + pir-murid continuities",
+            "METHOD -> encounter -> evidence -> bounded influence -> non-equivalence."
+          ],
+          "source_references": [
+            "Hindu",
+            "Jain",
+            "Jesuit",
+            "Zoroastrian",
+            "Sufi",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The debate paradox",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ROYAL FORUM -> participants seek truth and imperial favour",
+            "DOCTRINAL CERTAINTY -> disagreement becomes sharper",
+            "COURT STATUS -> theology, office, patronage and precedence intersect",
+            "FAILURE -> no common creed or durable theological consensus",
+            "CONSEQUENCE -> clerical monopoly questioned; sulh-i-kul develops",
+            "VERDICT: dialogue failed as concord but mattered for statecraft."
+          ],
+          "source_references": [
+            "Debate failure",
+            "Court politics",
+            "Statecraft",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mahzar: scope before significance",
+          "structural_type": "myth-vs-rule",
+          "ascii_lines": [
+            "TRIGGER -> qualified jurists disagree on a religious/legal question",
+            "CHOICE -> emperor selects an existing opinion",
+            "TEST -> welfare of mankind + proper administrative order",
+            "ORDER -> may be issued only without contradicting explicit Quran/hadis",
+            "EFFECT -> juristic monopoly narrows; imperial arbitration strengthens",
+            "LIMIT -> neither pope/prophet nor unlimited sacred legislation."
+          ],
+          "source_references": [
+            "Mahzar",
+            "Imperial sovereignty",
+            "Decree of Infallibility",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sulh-i-kul as a governing principle",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "IDEAL -> universal peace + justice + paternal public welfare",
+            "MEASURES -> tax relief + wider service + plural grants + worship space",
+            "KNOWLEDGE -> translation and inquiry weaken blind following",
+            "POWER -> emperor still defines patronage, punishment and inclusion",
+            "LIMIT -> orders vary by region; hierarchy and conquest remain",
+            "VERDICT: early-modern plural governance, not modern secularism."
+          ],
+          "source_references": [
+            "Sulh-i-kul",
+            "Justice",
+            "Composite nobility",
+            "Limits",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Tauhid-i-Ilahi: neither mass religion nor nothing",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "TERM -> Abu'l Fazl: Tauhid-i-Ilahi | Badauni: both terms",
+            "ABSENT -> scripture + priesthood + congregation + mass mission",
+            "PRESENT -> selective initiation + shast + greetings + ethical conduct",
+            "FOUR DEGREES -> property + life + honour + religion",
+            "SCALE -> Blochmann about 18 high nobles; Birbal sole Hindu in list",
+            "FUNCTION -> Sufi-like loyalty fellowship around the throne",
+            "VERDICT: restricted discipleship, not organized universal religion."
+          ],
+          "source_references": [
+            "Tauhid-i-Ilahi",
+            "Din-i-Ilahi",
+            "Birbal",
+            "Discipleship",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Inclusion and coercion in one empire",
+          "structural_type": "tension-map",
+          "ascii_lines": [
+            "INCLUSION -> 1563-64 tax change + service + grants + translations",
+            "PATRONAGE -> Khairpura + Dharmapura + Jogipura + diverse recipients",
+            "COERCION -> Chittor + rebellion punishment + ruler-centred discipline",
+            "SOCIETY -> ranked, patriarchal and locally mediated",
+            "IMPLEMENTATION -> imperial order is not proof of uniform practice",
+            "RULE: neither pure tolerance nor pure cynical control explains policy."
+          ],
+          "source_references": [
+            "Inclusion",
+            "Coercion",
+            "Hierarchy",
+            "Implementation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Source triangle and evidentiary limits",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "ABU'L FAZL -> policy/kingship detail | panegyrical legitimation",
+            "BADAUNI -> dissent and ritual charges | hostile orthodox polemic",
+            "JESUITS -> encounter observation | conversion-centred expectation",
+            "ORDERS/GRANTS/TEXTS -> specified acts | uneven enforcement/reception",
+            "MATERIAL SETTING -> planned court city | no certain Ibadat structure",
+            "METHOD: every claim needs source, purpose, reach and corroboration.",
+            "CLOSE DISTINCTION: Din-i-Ilahi/Tauhid-i-Ilahi was a restricted ethical discipleship, not a",
+            "  mass religion with a population census."
+          ],
+          "source_references": [
+            "Abul Fazl",
+            "Badauni",
+            "Jesuits",
+            "Material evidence",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "2025 GS-I syncretism answer map",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "DIRECT PYQ -> 2025 GS-I Q2 | Examine | 10 marks | 150 words",
+            "THESIS -> layered imperial programme, not sudden new faith",
+            "PROVE -> 1563-64 + Ibadat/translation + mahzar/sulh + Tauhid circle",
+            "ANALYSE -> inquiry + sovereignty + plural governance + elite loyalty",
+            "QUALIFY -> source bias + hierarchy/coercion + uneven reach",
+            "ADJACENT -> 2020 Persian sources; primary owner Topic 24/07",
+            "KEY STATUS -> Mains has no objective answer key; wording locally verified.",
+            "EVIDENCE LIMIT: Abul Fazl, Badauni and later historians supply differently positioned evidence",
+            "  that must be attributed and compared."
+          ],
+          "source_references": [
+            "2025 GS-I",
+            "Religious syncretism",
+            "Answer architecture",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Topic 17 final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "DEFINE -> belief != policy != arbitration != encounter != discipleship",
+            "TRACE -> 1556-73 -> 1573-80 -> 1581-1605",
+            "EVIDENCE -> taxes + Ibadat + mahzar + translations + sulh + Tauhid",
+            "SOURCES -> Abu'l Fazl versus Badauni/Jesuits + order/material checks",
+            "BALANCE -> inclusion with coercion, hierarchy and regional limits",
+            "BOUNDARY -> Topic 15 succession | 16 administration | 18 Deccan",
+            "VERDICT -> innovative plural statecraft, not modern secularism/religion."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Chronology",
+            "Qualified verdict",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g4\\medieval-indian-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

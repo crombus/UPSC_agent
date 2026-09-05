@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-21",
+  "record_id": "medieval-indian-history-21:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "identity": true,
+    "approval_false": true,
+    "h2_order": true,
+    "register_last": true,
+    "basic_before_advanced": true,
+    "canonical_coverage": true,
+    "pyq_control": true,
+    "answer_contracts": true,
+    "mcq_rotation": true,
+    "flows_12": true,
+    "flow_agreement": true,
+    "layout": true,
+    "same_master": true,
+    "hashes": true,
+    "final_library": true,
+    "tests": true,
+    "validator": true,
+    "next_untouched": true,
+    "semantic_passed": true,
+    "queue_advanced": true
+  },
+  "metrics": {
+    "main_pages": 106,
+    "workbook_pages": 23,
+    "solved_blocks": 10,
+    "mcqs": 80,
+    "ascii_panels": 12,
+    "graphical_stages": 12,
+    "master_dimensions_px": [
+      4800,
+      11294
+    ],
+    "tile_pages": 4,
+    "tile_overlap_min_px": 547,
+    "ascii_max_line_characters": 94,
+    "targeted_tests": 85,
+    "deliverable_hashes_checked": 90
+  },
+  "missing_basic": [],
+  "deliverable_hash_errors": {},
+  "control_files": {
+    "record": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-21-learner-v2-g4-2026-09-04-record.json",
+    "review": "upsc-ai-kit\\manifests\\reviews\\medieval-history\\21-shah-jahan-mughal-ruling-class-semantic-completeness-review-2026-09-04.md",
+    "semantic_status": "upsc-ai-kit\\manifests\\reviews\\knowledge-semantic-completeness-status.json"
+  }
+}

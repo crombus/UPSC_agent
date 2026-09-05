@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-05",
+      "display_title": "Landforms by Running Water / India Drainage and Interlinking",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Basin anatomy",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RIDGELINE -> watershed / drainage divide",
+            "SLOPES -> runoff enters tributaries",
+            "TRIBUTARIES -> trunk stream -> outlet",
+            "BASIN RULE -> upstream change travels downstream",
+            "MUST REMEMBER: Fluvial systems connect rainfall-runoff, drainage-network organisation,",
+            "  erosion, transport, deposition, graded-profile adjustment and floodplain evolution to",
+            "  Himalayan antecedent rivers, Peninsular drainage and basin-scale interlink proposals."
+          ],
+          "source_references": [
+            "Basin, divide and channel network",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "River-work engine",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ENERGY + DISCHARGE -> erosion capacity",
+            "LOAD SIZE + VOLUME -> transport demand",
+            "COMPETENCE FALLS -> deposition begins",
+            "FEEDBACK -> bed form alters velocity and load"
+          ],
+          "source_references": [
+            "Erosion, transport and deposition",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Long-profile controls",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "UPLIFT / BASE LEVEL -> potential-energy change",
+            "ROCK + DISCHARGE -> local incision",
+            "SEDIMENT -> abrasion, transport and storage",
+            "GRADED CURVE -> moving dynamic balance"
+          ],
+          "source_references": [
+            "Long profile and graded adjustment",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Meander-floodplain loop",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "OUTER BANK -> faster flow -> erosion",
+            "INNER BANK -> slower flow -> point bar",
+            "NECK CUTOFF -> ox-bow lake",
+            "OVERBANK SILT -> floodplain + natural levee"
+          ],
+          "source_references": [
+            "Meanders, ox-bows and floodplains",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Drainage-pattern matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DENDRITIC -> uniform resistance",
+            "TRELLIS -> alternating resistant bands",
+            "RECTANGULAR -> joints and faults",
+            "RADIAL / CENTRIPETAL -> outward high / inward basin"
+          ],
+          "source_references": [
+            "Drainage patterns as structural evidence",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Drainage-evolution firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANTECEDENT -> river older than uplift",
+            "SUPERIMPOSED -> cover pattern inherited below",
+            "CAPTURE -> headward erosion diverts neighbour",
+            "FIELD CUES -> gorge / discordance / elbow-wind gap"
+          ],
+          "source_references": [
+            "Antecedence, superimposition and capture",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India river-system contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HIMALAYAN -> high relief, mixed perennial inputs",
+            "PENINSULAR -> old shield, monsoon-dominant regime",
+            "EAST -> long rivers and major deltas",
+            "WEST -> Narmada-Tapi troughs + short Ghats streams"
+          ],
+          "source_references": [
+            "Himalayan river systems",
+            "Peninsular river systems",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Source-course-mouth rail",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "INDUS -> Tibetan headwaters -> Arabian Sea",
+            "GANGA -> Devprayag name -> Bengal delta",
+            "BRAHMAPUTRA -> Tsangpo-Siang -> joined delta",
+            "PENINSULA -> Godavari-Krishna-Kaveri / Narmada-Tapi"
+          ],
+          "source_references": [
+            "Peninsular river systems",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Delta budget",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "INPUT -> basin sediment delivery",
+            "REMOVAL -> waves, tides and cyclone scour",
+            "VERTICAL -> compaction + relative sea level",
+            "CHANNELS -> distributary mobility or confinement"
+          ],
+          "source_references": [
+            "Delta versus estuary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Transfer viability test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "DONOR -> seasonal water after existing claims",
+            "RECIPIENT -> demand, soil, aquifer and delivery fit",
+            "CORRIDOR -> loss, energy, ecology and people",
+            "ALTERNATIVES -> recharge, efficiency, reuse, operations",
+            "CLOSE DISTINCTION: V-shaped valley, gorge, waterfall, meander, oxbow, levee, delta and",
+            "  alluvial fan occupy different energy and valley settings; drainage pattern differs from",
+            "  drainage basin, and river capture differs from planned diversion."
+          ],
+          "source_references": [
+            "Inter-basin transfer accounting",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Ken-Betwa boundary",
+          "structural_type": "case-study",
+          "ascii_lines": [
+            "DIRECTION -> Ken basin to Betwa basin",
+            "STATUS -> official material says under implementation",
+            "LANDSCAPE -> Panna connectivity + downstream flow",
+            "RULE -> status is not measured outcome",
+            "EVIDENCE LIMIT: Interlinking effects are basin- and design-specific: transfer volume,",
+            "  seasonality, environmental flows, sediment, displacement, federal consent and climate",
+            "  uncertainty must qualify both drought-proofing and ecological-damage claims."
+          ],
+          "source_references": [
+            "Ken-Betwa and Panna",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Basin answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE + MAP -> basin and direction",
+            "EXPLAIN -> process, timing and sediment",
+            "ASSESS -> benefit mechanism against limits",
+            "VERDICT -> selective, adaptive and basin-wide"
+          ],
+          "source_references": [
+            "Verified routes and final basin spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g3\\geography-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

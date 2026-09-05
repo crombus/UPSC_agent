@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-11",
+  "subject": "Social-Justice",
+  "title": "PERSONS WITH DISABILITIES",
+  "short_route": "RECOGNITION TO PARTICIPATION → CATEGORY EXPANSION → THRESHOLD AND ENTITLEMENT → RESERVATION SOURCE CARD → ACCOMMODATION TEST → THREE MODELS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-11_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-11-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "02b3c6da614431d3b4ad60a86d8078a0d06a20ab6863153a83581f138032094f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RECOGNITION TO PARTICIPATION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RECOGNITION TO PARTICIPATION",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-TERM PHYSICAL, MENTAL, INTELLECTUAL OR SENSORY",
+          "role": "outcome"
+        },
+        {
+          "text": "IN INTERACTION WITH BARRIERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL, ATTITUDINAL, INSTITUTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "21 SPECIFIED CATEGORIES; BENCHMARK CERTIFICATION AT 40 PER CENT",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY RESERVATION; REASONABLE ACCOMMODATION; ACCESSIBILITY STANDARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIVE PARTICIPATION IN EDUCATION, EMPLOYMENT AND PUBLIC LIFE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "IMPAIRMENT → long-term physical, mental, intellectual or sensory",
+        "IN INTERACTION WITH BARRIERS: physical, attitudinal, institutional",
+        "RECOGNITION: 21 specified categories; benchmark certification at 40 per cent or more",
+        "DUTIES: statutory reservation; reasonable accommodation; accessibility standards",
+        "TEST → substantive participation in education, employment and public life"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "IMPAIRMENT → long-term physical, mental, intellectual or sensory",
+            "IN INTERACTION WITH BARRIERS: physical, attitudinal, institutional"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "RECOGNITION: 21 specified categories; benchmark certification at 40 per cent or more",
+            "DUTIES: statutory reservation; reasonable accommodation; accessibility standards"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → substantive participation in education, employment and public life",
+            "IMPAIRMENT → long-term physical, mental, intellectual or sensory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → substantive participation in education, employment and public life.",
+      "source_references": [
+        "What this owner holds and the exact demands routed to it",
+        "The statutory definition and its convention anchor"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CATEGORY EXPANSION",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CATEGORY EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "1995 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "SEVEN RECOGNISED CATEGORIES; REPEALED",
+          "role": "comparison"
+        },
+        {
+          "text": "2016 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "TWENTY-ONE SPECIFIED CATEGORIES IN THE SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "ADDED SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "THALASSAEMIA, HAEMOPHILIA, SICKLE-CELL DISEASE, ACID-ATTACK VICTIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIC LEARNING DISABILITIES, MULTIPLE SCLEROSIS, PARKINSON'S DISEASE, DWARFISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1995 ACT → seven recognised categories; repealed",
+        "2016 ACT → twenty-one specified categories in the Schedule",
+        "ADDED SCOPE → thalassaemia, haemophilia, sickle-cell disease, acid-attack victims",
+        "ALSO → specific learning disabilities, multiple sclerosis, Parkinson's disease, dwarfism",
+        "OPEN → the government may notify additional categories"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "1995 ACT → seven recognised categories; repealed",
+            "2016 ACT → twenty-one specified categories in the Schedule"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ADDED SCOPE → thalassaemia, haemophilia, sickle-cell disease, acid-attack victims",
+            "ALSO → specific learning disabilities, multiple sclerosis, Parkinson's disease, dwarfism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → the government may notify additional categories",
+            "1995 ACT → seven recognised categories; repealed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPEN → the government may notify additional categories.",
+      "source_references": [
+        "The twenty-one specified disabilities and the power to notify more",
+        "The move from seven categories to twenty-one"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THRESHOLD AND ENTITLEMENT",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THRESHOLD AND ENTITLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ACT'S DEFINITION COVERS A PERSON WITH DISABILITY WITHOUT",
+          "role": "institution"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "A MEDICAL AUTHORITY CERTIFIES TYPE AND EXTENT OF DISABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "FORTY PER CENT OR MORE IS BENCHMARK DISABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → the Act's definition covers a person with disability without any percentage",
+        "STEP 2 → a medical authority certifies type and extent of disability",
+        "STEP 3 → forty per cent or more is benchmark disability",
+        "STEP 4 → benchmark status triggers reservation eligibility and concessions",
+        "LIMIT → a person below the threshold may still face significant barriers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STEP 1 → the Act's definition covers a person with disability without any percentage",
+            "STEP 2 → a medical authority certifies type and extent of disability"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → forty per cent or more is benchmark disability",
+            "STEP 4 → benchmark status triggers reservation eligibility and concessions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → a person below the threshold may still face significant barriers",
+            "STEP 1 → the Act's definition covers a person with disability without any percentage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → a person below the threshold may still face significant barriers.",
+      "source_references": [
+        "Benchmark disability and what it triggers"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RESERVATION SOURCE CARD",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESERVATION SOURCE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "DISABILITY RESERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY, UNDER THE 2016 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "MINIMUM FOUR PER CENT IN GOVERNMENT ESTABLISHMENTS AND POSTS",
+          "role": "evidence"
+        },
+        {
+          "text": "MINIMUM FIVE PER CENT IN HIGHER-EDUCATIONAL INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE RESERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL, UNDER ARTICLE 16(4)",
+          "role": "institution"
+        },
+        {
+          "text": "THE FIFTY PER CENT CEILING JURISPRUDENCE DOES NOT GOVERN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DISABILITY RESERVATION → statutory, under the 2016 Act",
+        "QUANTUM → minimum four per cent in government establishments and posts",
+        "QUANTUM → minimum five per cent in higher-educational institutions",
+        "CASTE RESERVATION → constitutional, under Article 16(4)",
+        "CONSEQUENCE → the fifty per cent ceiling jurisprudence does not govern the statutory route"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DISABILITY RESERVATION → statutory, under the 2016 Act",
+          "QUANTUM → minimum five per cent in higher-educational institutions",
+          "CONSEQUENCE → the fifty per cent ceiling jurisprudence does not govern the statutory route"
+        ],
+        [
+          "QUANTUM → minimum four per cent in government establishments and posts",
+          "CASTE RESERVATION → constitutional, under Article 16(4)",
+          "DISABILITY RESERVATION → statutory, under the 2016 Act"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DISABILITY RESERVATION → statutory, under the 2016 Act",
+            "QUANTUM → minimum four per cent in government establishments and posts"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "QUANTUM → minimum five per cent in higher-educational institutions",
+            "CASTE RESERVATION → constitutional, under Article 16(4)"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → the fifty per cent ceiling jurisprudence does not govern the statutory route",
+            "DISABILITY RESERVATION → statutory, under the 2016 Act"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → the fifty per cent ceiling jurisprudence does not govern the statutory route.",
+      "source_references": [
+        "Statutory reservation and why it is not Article 16(4) reservation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ACCOMMODATION TEST",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCOMMODATION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 2(Y)",
+          "role": "outcome"
+        },
+        {
+          "text": "NECESSARY AND APPROPRIATE MODIFICATION AND ADJUSTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ENJOYMENT OF RIGHTS ON AN EQUAL BASIS WITH OTHERS",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT IMPOSING A DISPROPORTIONATE OR UNDUE BURDEN",
+          "role": "caution"
+        },
+        {
+          "text": "DENIAL OF REASONABLE ACCOMMODATION IS DISCRIMINATION UNDER THE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PHYSICAL, PROCEDURAL, TECHNOLOGICAL AND ATTITUDINAL, NOT ACCESSIBILITY ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINITION → Section 2(y): necessary and appropriate modification and adjustment",
+        "PURPOSE → enjoyment of rights on an equal basis with others",
+        "LIMIT → not imposing a disproportionate or undue burden",
+        "SANCTION → denial of reasonable accommodation is discrimination under the Act",
+        "SCOPE → physical, procedural, technological and attitudinal, not accessibility alone"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DEFINITION → Section 2(y): necessary and appropriate modification and adjustment",
+          "LIMIT → not imposing a disproportionate or undue burden",
+          "SCOPE → physical, procedural, technological and attitudinal, not accessibility alone"
+        ],
+        [
+          "PURPOSE → enjoyment of rights on an equal basis with others",
+          "SANCTION → denial of reasonable accommodation is discrimination under the Act",
+          "DEFINITION → Section 2(y): necessary and appropriate modification and adjustment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINITION → Section 2(y): necessary and appropriate modification and adjustment",
+            "PURPOSE → enjoyment of rights on an equal basis with others"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LIMIT → not imposing a disproportionate or undue burden",
+            "SANCTION → denial of reasonable accommodation is discrimination under the Act"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "SCOPE → physical, procedural, technological and attitudinal, not accessibility alone",
+            "DEFINITION → Section 2(y): necessary and appropriate modification and adjustment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → physical, procedural, technological and attitudinal, not accessibility alone.",
+      "source_references": [
+        "Reasonable accommodation and the fact that its denial is discrimination"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE MODELS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "MEDICAL MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "DISABILITY LOCATED IN IMPAIRMENT; ATTENTION TO CURE AND REHABILITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL MODEL",
+          "role": "evidence"
+        },
+        {
+          "text": "DISADVANTAGE LOCATED IN ENVIRONMENTS, INSTITUTIONS AND ATTITUDES",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEABLE EQUALITY, AUTONOMY, ACCESSIBILITY, ACCOMMODATION DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "RATIFIED BY INDIA IN 2007; THE 2016 ACT GIVES",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "MEDICAL MODEL → disability located in impairment; attention to cure and rehabilitation",
+        "SOCIAL MODEL → disadvantage located in environments, institutions and attitudes",
+        "RIGHTS MODEL → enforceable equality, autonomy, accessibility, accommodation duties",
+        "CONVENTION → ratified by India in 2007; the 2016 Act gives it domestic effect",
+        "RULE → a recommendation must say which model it operates in"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "MEDICAL MODEL → disability located in impairment; attention to cure and rehabilitation",
+            "SOCIAL MODEL → disadvantage located in environments, institutions and attitudes"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "RIGHTS MODEL → enforceable equality, autonomy, accessibility, accommodation duties",
+            "CONVENTION → ratified by India in 2007; the 2016 Act gives it domestic effect"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a recommendation must say which model it operates in",
+            "MEDICAL MODEL → disability located in impairment; attention to cure and rehabilitation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a recommendation must say which model it operates in.",
+      "source_references": [
+        "The medical, social and rights models",
+        "The statutory definition and its convention anchor"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DESIGN STRATEGIES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DESIGN STRATEGIES",
+          "role": "primary"
+        },
+        {
+          "text": "UNIVERSAL DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSIBILITY BUILT INTO THE ORIGINAL DESIGN FROM INCEPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESSIBILITY ADDED TO STRUCTURES BUILT WITHOUT IT",
+          "role": "evidence"
+        },
+        {
+          "text": "UNIVERSAL DESIGN IS MORE EFFECTIVE AND MORE COST-EFFICIENT",
+          "role": "primary"
+        },
+        {
+          "text": "RETROFITTING DOMINATES BECAUSE OF LEGACY INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIVIDUAL ACCOMMODATION IS STILL NEEDED WHERE A BARRIER SURVIVES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "UNIVERSAL DESIGN → accessibility built into the original design from inception",
+        "RETROFITTING → accessibility added to structures built without it",
+        "EFFICIENCY → universal design is more effective and more cost-efficient",
+        "REALITY → retrofitting dominates because of legacy infrastructure",
+        "QUALIFICATION → individual accommodation is still needed where a barrier survives"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "UNIVERSAL DESIGN → accessibility built into the original design from inception",
+          "EFFICIENCY → universal design is more effective and more cost-efficient",
+          "QUALIFICATION → individual accommodation is still needed where a barrier survives"
+        ],
+        [
+          "RETROFITTING → accessibility added to structures built without it",
+          "REALITY → retrofitting dominates because of legacy infrastructure",
+          "UNIVERSAL DESIGN → accessibility built into the original design from inception"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "UNIVERSAL DESIGN → accessibility built into the original design from inception",
+            "RETROFITTING → accessibility added to structures built without it"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EFFICIENCY → universal design is more effective and more cost-efficient",
+            "REALITY → retrofitting dominates because of legacy infrastructure"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFICATION → individual accommodation is still needed where a barrier survives",
+            "UNIVERSAL DESIGN → accessibility built into the original design from inception"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFICATION → individual accommodation is still needed where a barrier survives.",
+      "source_references": [
+        "Universal design against retrofitting"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "IDENTIFICATION PLATFORM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IDENTIFICATION PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "FRAGMENTED STATE-LEVEL DISABILITY CERTIFICATES",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRALISED APPLICATION, CERTIFICATE AND CARD PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "NATIONAL PORTABILITY ACROSS STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "FRICTION REMOVED",
+          "role": "primary"
+        },
+        {
+          "text": "REPEATED RE-CERTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTABILITY IS NOT ENTITLEMENT; REGISTRATION COUNTS ARE DYNAMIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BEFORE → fragmented State-level disability certificates",
+        "CENTRALISED APPLICATION, CERTIFICATE AND CARD PROCESS",
+        "NATIONAL PORTABILITY across States",
+        "FRICTION REMOVED: repeated re-certification",
+        "BOUNDARY → portability is not entitlement; registration counts are dynamic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "BEFORE → fragmented State-level disability certificates",
+            "CENTRALISED APPLICATION, CERTIFICATE AND CARD PROCESS"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "NATIONAL PORTABILITY across States",
+            "FRICTION REMOVED: repeated re-certification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → portability is not entitlement; registration counts are dynamic",
+            "BEFORE → fragmented State-level disability certificates"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → portability is not entitlement; registration counts are dynamic.",
+      "source_references": [
+        "The portable identity platform and what it does not do"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ACCESSIBILITY FRAMEWORK",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ACCESSIBILITY FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "PILLAR 1",
+          "role": "outcome"
+        },
+        {
+          "text": "BUILT ENVIRONMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMPS, TACTILE PATHS, ACCESSIBLE SANITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PILLAR 2",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESSIBLE BUSES AND RAILWAY COACHES",
+          "role": "outcome"
+        },
+        {
+          "text": "PILLAR 3",
+          "role": "comparison"
+        },
+        {
+          "text": "INFORMATION AND COMMUNICATION TECHNOLOGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PILLAR 1 → built environment: ramps, tactile paths, accessible sanitation",
+        "PILLAR 2 → transport: accessible buses and railway coaches",
+        "PILLAR 3 → information and communication technology: screen readers, accessible websites",
+        "VEHICLE → carried through the implementation scheme for the 2016 Act since March 2024",
+        "STANDARDS → harmonised guidelines; enforcement and access audits remain State and local"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "PILLAR 1 → built environment: ramps, tactile paths, accessible sanitation",
+            "PILLAR 2 → transport: accessible buses and railway coaches"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "PILLAR 3 → information and communication technology: screen readers, accessible websites",
+            "VEHICLE → carried through the implementation scheme for the 2016 Act since March 2024"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STANDARDS → harmonised guidelines; enforcement and access audits remain State and local",
+            "PILLAR 1 → built environment: ramps, tactile paths, accessible sanitation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STANDARDS → harmonised guidelines; enforcement and access audits remain State and local.",
+      "source_references": [
+        "The accessibility framework and its present implementation vehicle"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTIONS KEPT APART",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTIONS KEPT APART",
+          "role": "primary"
+        },
+        {
+          "text": "CHIEF COMMISSIONER",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLAINTS, MONITORING OF SAFEGUARDS, REMEDIAL RECOMMENDATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE COMMISSIONERS",
+          "role": "institution"
+        },
+        {
+          "text": "PARALLEL FUNCTIONS AT THE STATE LEVEL",
+          "role": "institution"
+        },
+        {
+          "text": "ACCESSIBILITY MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "DELIVERY OF BUILT, TRANSPORT AND TECHNOLOGY ACCESSIBILITY WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVELOPMENT CORPORATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHIEF COMMISSIONER → complaints, monitoring of safeguards, remedial recommendations",
+        "STATE COMMISSIONERS → parallel functions at the State level",
+        "ACCESSIBILITY MISSION → delivery of built, transport and technology accessibility work",
+        "DEVELOPMENT CORPORATION → concessional credit and livelihood finance",
+        "TRUST STATUTE 1999 → guardianship and care for four conditions only"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "CHIEF COMMISSIONER → complaints, monitoring of safeguards, remedial recommendations",
+            "STATE COMMISSIONERS → parallel functions at the State level"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ACCESSIBILITY MISSION → delivery of built, transport and technology accessibility work",
+            "DEVELOPMENT CORPORATION → concessional credit and livelihood finance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRUST STATUTE 1999 → guardianship and care for four conditions only",
+            "CHIEF COMMISSIONER → complaints, monitoring of safeguards, remedial recommendations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRUST STATUTE 1999 → guardianship and care for four conditions only.",
+      "source_references": [
+        "The grievance and monitoring authorities under the 2016 Act",
+        "The 1999 trust statute and its four-condition scope"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DEPARTMENTAL STATEMENT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEPARTMENTAL STATEMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "FACILITATE THE EMPOWERMENT OF PERSONS WITH DISABILITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "AS PER CENSUS 2011, 2.68 CRORE PERSONS WITH DISABILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "2.21 PER CENT OF THE TOTAL POPULATION OF THE",
+          "role": "evidence"
+        },
+        {
+          "text": "TWENTY-ONE TYPES OF DISABILITIES UNDER THE 2016 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "LOCOMOTOR, VISUAL, HEARING, SPEECH AND LANGUAGE, INTELLECTUAL, MULTIPLE, DWARFISM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AIM → facilitate the empowerment of persons with disabilities",
+        "PREVALENCE → as per Census 2011, 2.68 crore persons with disabilities",
+        "SHARE → 2.21 per cent of the total population of the country",
+        "CATEGORIES → twenty-one types of disabilities under the 2016 Act",
+        "NAMED → locomotor, visual, hearing, speech and language, intellectual, multiple, dwarfism"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "AIM → facilitate the empowerment of persons with disabilities",
+          "SHARE → 2.21 per cent of the total population of the country",
+          "NAMED → locomotor, visual, hearing, speech and language, intellectual, multiple, dwarfism"
+        ],
+        [
+          "PREVALENCE → as per Census 2011, 2.68 crore persons with disabilities",
+          "CATEGORIES → twenty-one types of disabilities under the 2016 Act",
+          "AIM → facilitate the empowerment of persons with disabilities"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "AIM → facilitate the empowerment of persons with disabilities",
+            "PREVALENCE → as per Census 2011, 2.68 crore persons with disabilities"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SHARE → 2.21 per cent of the total population of the country",
+            "CATEGORIES → twenty-one types of disabilities under the 2016 Act"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAMED → locomotor, visual, hearing, speech and language, intellectual, multiple, dwarfism",
+            "AIM → facilitate the empowerment of persons with disabilities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NAMED → locomotor, visual, hearing, speech and language, intellectual, multiple, dwarfism.",
+      "source_references": [
+        "The department's own dated prevalence statement"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "GAP DIAGNOSIS",
+      "structural_type": "matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GAP DIAGNOSIS",
+          "role": "primary"
+        },
+        {
+          "text": "JOINT 1",
+          "role": "outcome"
+        },
+        {
+          "text": "RESERVATION SEATS UNFILLED BECAUSE SUITABLE POSTS ARE NOT IDENTIFIED",
+          "role": "caution"
+        },
+        {
+          "text": "JOINT 2",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGACY INFRASTRUCTURE; RETROFITTING SLOW AND COSTLY; TIMELINES EXTENDED",
+          "role": "primary"
+        },
+        {
+          "text": "JOINT 3",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVATE ESTABLISHMENTS; ACCOMMODATION DUTY APPLIES BUT ENFORCEMENT IS WEAKER",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JOINT 1 → reservation seats unfilled because suitable posts are not identified",
+        "JOINT 2 → legacy infrastructure; retrofitting slow and costly; timelines extended",
+        "JOINT 3 → private establishments; accommodation duty applies but enforcement is weaker",
+        "JOINT 4 → benchmark threshold excludes persons below forty per cent facing real barriers",
+        "ILLUSTRATION → an accessible coach does not secure mobility if the platform is not accessible"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "JOINT 1 → reservation seats unfilled because suitable posts are not identified",
+            "JOINT 2 → legacy infrastructure; retrofitting slow and costly; timelines extended"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "JOINT 3 → private establishments; accommodation duty applies but enforcement is weaker",
+            "JOINT 4 → benchmark threshold excludes persons below forty per cent facing real barriers"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ILLUSTRATION → an accessible coach does not secure mobility if the platform is not accessible",
+            "JOINT 1 → reservation seats unfilled because suitable posts are not identified"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ILLUSTRATION → an accessible coach does not secure mobility if the platform is not accessible.",
+      "source_references": [
+        "Where the entitlement-to-participation gap actually opens",
+        "Coverage against substantive participation"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNCRPD (RATIFIED 2007)",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA RATIFIED THE UN CONVENTION ON THE RIGHTS OF",
+          "role": "comparison"
+        },
+        {
+          "text": "RPWD ACT, 2016 — KEY FEATURES",
+          "role": "institution"
+        },
+        {
+          "text": "21 SPECIFIED CATEGORIES (EXPANDABLE); BENCHMARK",
+          "role": "primary"
+        },
+        {
+          "text": "CHIEF COMMISSIONER FOR PERSONS WITH DISABILITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY AUTHORITY UNDER",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESSIBILITY STANDARDS AND COMPLIANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "UNCRPD (ratified 2007): India ratified the UN Convention on the Rights of",
+            "RPwD Act, 2016 — key features: 21 specified categories (expandable); benchmark",
+            "Chief Commissioner for Persons with Disabilities: Statutory authority under",
+            "CAUTION: Accessibility standards and compliance: Harmonised Guidelines and Standards for"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: A private-sector employer arguing that providing sign-language interpretation for",
+            "CAUTION: An accessible railway coach (Divyangjan Coach) illustrates Sugamya Bharat's",
+            "CAUTION: A PwD candidate whose reservation seat remains unfilled due to non-identification",
+            "CAUTION: Benchmark rigidity: The 40% threshold for reservation eligibility may exclude"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: National Trust scope mismatch: The National Trust Act, 1999 covers autism,",
+            "CAUTION: Retrofitting cost: Making legacy infrastructure accessible is expensive and",
+            "CAUTION: Private-sector coverage: RPwD's reasonable-accommodation duty applies to all",
+            "CAUTION: Data gap: Census 2011 estimated disability prevalence at ~2.2% of population,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

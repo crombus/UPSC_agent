@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topic_key": "world-history-12",
+  "subject": "World-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "world-history-12",
+  "title": "Rise of Fascism: Italy, Germany, Japan",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Rise of Fascism: Italy, Germany, Japan",
+  "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-12_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-12_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\12_Rise-of-Fascism-Italy-Germany-Japan_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md"
+  ],
+  "local_ocr_sources": [
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://www.un.org/en/outreach-programme-holocaust/united-nations-holocaust-memorial-observance"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "upsc-ai-kit\\knowledge\\World-History\\12_Rise-of-Fascism-Italy-Germany-Japan_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-12_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-12_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-11-12-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-12.json",
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "The owner verifies one 2021 GS-I demand in neutral rendering only: evaluate the challenge to the democratic state system between the two World Wars. Verbatim official wording is not held locally.",
+  "current_linkage_note": "The official United Nations Holocaust Memorial Observance on 27 January 2026 used the theme 'Holocaust Remembrance for Dignity and Human Rights'. This is a bounded remembrance link to the consequences of Nazism within this comparative topic; it is not evidence about Italian fascism or Japanese militarism.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-16",
+      "display_title": "Tropical Monsoon and Marine Climate",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Climate-type discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MONSOON Am -> seasonal wind reversal",
+            "TROPICAL MARINE -> onshore Trades most months",
+            "MONSOON RAIN -> strongly concentrated",
+            "MARINE RAIN -> generally steadier distribution",
+            "MUST REMEMBER: Tropical monsoon and trade-wind littoral climates arise from seasonal pressure",
+            "  migration, cross-equatorial flow, ocean moisture, relief and convergence, producing a marked",
+            "  wet season, short dry season and monsoon-forest adaptations."
+          ],
+          "source_references": [
+            "Monsoon and tropical marine identities",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Three-level monsoon engine",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "THERMAL -> land-sea pressure reversal",
+            "DYNAMIC -> seasonal ITCZ migration",
+            "UPPER AIR -> jet reorganisation",
+            "OUTCOME -> cross-equatorial moist flow"
+          ],
+          "source_references": [
+            "Thermal, ITCZ and upper-air mechanism",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Seasonal circulation rail",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "MAR-MAY -> thermal low and local storms",
+            "JUN-SEP -> southwest advance and rain",
+            "OCT-NOV -> withdrawal and Bay systems",
+            "DEC-FEB -> dry NE flow; WDs in north-west"
+          ],
+          "source_references": [
+            "India's four-season circulation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Onset evidence ladder",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "NORMAL DATE -> long-period reference",
+            "ONSET DECLARATION -> observed criteria met",
+            "BURST -> abrupt rain establishment",
+            "SEASON RESULT -> verified only after completion"
+          ],
+          "source_references": [
+            "Burst and onset",
+            "Northeast monsoon and IMD products",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Arabian Sea branch map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "ARABIAN SEA -> moisture-bearing branch",
+            "WESTERN GHATS -> windward uplift and rain",
+            "LEEWARD DECCAN -> rain shadow",
+            "INTERIOR -> systems and relief modify totals"
+          ],
+          "source_references": [
+            "Arabian Sea branch",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bay branch map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BAY OF BENGAL -> branch and depressions",
+            "NORTH-EAST HILLS -> forced uplift",
+            "HIMALAYA -> blocks northward escape",
+            "GANGA PLAIN -> west-north-west rain route"
+          ],
+          "source_references": [
+            "Bay branch and depressions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Active-break switch",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TROUGH OVER PLAINS -> widespread active rain",
+            "BAY LOWS -> inland rain corridors",
+            "TROUGH TO FOOTHILLS -> plains break",
+            "CROP STAGE -> impact can exceed total deficit"
+          ],
+          "source_references": [
+            "Active and break monsoon",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Jet and WD firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STWJ -> winter upper-air westerly regime",
+            "TROPICAL EASTERLY FLOW -> summer monsoon aloft",
+            "WESTERN DISTURBANCE -> extra-tropical system",
+            "MONSOON DEPRESSION -> tropical rain-bearing low"
+          ],
+          "source_references": [
+            "Jet-stream reorganisation",
+            "Western disturbances",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Variability timescales",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MJO -> weeks / active-break modulation",
+            "ENSO -> inter-annual Pacific signal",
+            "IOD -> Indian Ocean seasonal signal",
+            "RULE -> none is a deterministic switch"
+          ],
+          "source_references": [
+            "ENSO, IOD and MJO",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Coromandel rain chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SW MONSOON WITHDRAWS -> flow reverses",
+            "NE FLOW CROSSES BAY -> moisture gained",
+            "TAMIL NADU COAST -> onshore exposure",
+            "RAIN + CYCLONE RISK -> retreating season",
+            "CLOSE DISTINCTION: Monsoon means seasonal wind reversal/system, not merely heavy rain;",
+            "  tropical marine eastern margins receive trade-wind/orographic rain and tropical cyclones,",
+            "  while onset, burst, break and withdrawal are distinct Indian phases."
+          ],
+          "source_references": [
+            "Northeast monsoon and IMD products",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Verified PYQ routes",
+          "structural_type": "exam-matrix",
+          "ascii_lines": [
+            "2023 GS-I -> Purvaiya and cultural ethos",
+            "2026 PRELIMS -> island climate and rain",
+            "2026 KEY -> provisional; no letter inferred",
+            "METHOD -> map wind, season and regional meaning",
+            "EVIDENCE LIMIT: Land-sea thermal contrast is necessary but insufficient: ITCZ, Tibetan",
+            "  heating, jets, Mascarene High, ENSO, IOD, MJO and snow/soil states interact, so no single",
+            "  driver explains each year's monsoon."
+          ],
+          "source_references": [
+            "Verified Purvaiya and island PYQs",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Monsoon answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> reversal and marine contrast",
+            "DERIVE -> thermal, ITCZ and jets",
+            "MAP -> branches, breaks and retreat",
+            "QUALIFY -> teleconnections and source status"
+          ],
+          "source_references": [
+            "Verified Purvaiya and island PYQs",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g3\\geography-16_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

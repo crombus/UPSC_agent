@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-20",
+      "display_title": "Foreign Trade, WTO, FTAs and Protectionism",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Trade transmission rail",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "BORDER RULE",
+            "-> LANDED PRICE + MARKET ACCESS",
+            "-> SOURCING + INVESTMENT",
+            "-> OUTPUT + JOBS + CONSUMERS",
+            "MUST REMEMBER: Trade policy combines tariffs, non-tariff measures, services, rules of..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Trade-account boundary",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MERCHANDISE -> goods crossing borders",
+            "SERVICES -> mode-specific supply",
+            "TOTAL TRADE -> state included components",
+            "CURRENT ACCOUNT -> broader than trade balance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "WTO non-discrimination map",
+          "structural_type": "two-stage-map",
+          "ascii_lines": [
+            "MFN -> treatment across trading partners",
+            "NATIONAL TREATMENT -> internal treatment after entry",
+            "EXCEPTIONS -> agreement-specific conditions",
+            "CUSTOMS DUTY -> border stage"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tariff space ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "BOUND RATE -> negotiated ceiling",
+            "APPLIED RATE -> rate actually charged",
+            "WATER -> gap between the two",
+            "CHANGE -> preserve schedule + date"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "FTA status and origin chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NEGOTIATING -> SIGNED -> RATIFIED",
+            "-> ENTERED INTO FORCE",
+            "PRODUCT COVERAGE + PHASE-DOWN",
+            "RULES OF ORIGIN -> preference eligibility"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Creation versus diversion",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "TRADE CREATION -> lower-cost partner replaces domestic supply",
+            "TRADE DIVERSION -> preferred partner displaces cheaper outsider",
+            "TEST -> welfare + productivity",
+            "DO NOT infer from gross trade alone"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Trade-remedy decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "DUMPING + INJURY -> anti-dumping route",
+            "SUBSIDY + INJURY -> countervailing route",
+            "IMPORT SURGE + SERIOUS INJURY -> safeguard",
+            "DGTR FINDING -> not final duty"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "TRIMS and TRIPS boundary",
+          "structural_type": "agreement-map",
+          "ascii_lines": [
+            "TRIMS -> goods-linked investment measures",
+            "TRIPS -> minimum IP standards",
+            "GATS -> services rules",
+            "DOMESTIC LAW -> grant + enforcement"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "IGC objective trap",
+          "structural_type": "institution-card",
+          "ascii_lines": [
+            "INTERGOVERNMENTAL GRAIN-TRADE BODY",
+            "MARKET INFORMATION + COOPERATION",
+            "NOT UN RELIEF AGENCY",
+            "NOT FCI PROCUREMENT OR PRICE SETTING"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Protection cost cascade",
+          "structural_type": "cause-effect-board",
+          "ascii_lines": [
+            "UPSTREAM TARIFF",
+            "-> INPUT COST",
+            "-> DOWNSTREAM EXPORT PRICE",
+            "-> COMPETITIVENESS + CONSUMER EFFECT",
+            "CLOSE DISTINCTION: FTA signature is not entry into force or utilisation, tariff binding..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "WTO dispute-settlement status",
+          "structural_type": "status-board",
+          "ascii_lines": [
+            "PANELS CONTINUE",
+            "APPELLATE BODY -> no new appeals since Dec 2019",
+            "NOTIFIED APPEALS ACCUMULATE",
+            "WEAKENED SYSTEM != NO SYSTEM",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Specify agreement parties, product/service..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Trade-policy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE legal category + status",
+            "TRACE value-chain incidence",
+            "TEST consumers + firms + workers",
+            "CONCLUDE capability + diversification"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-20\\g2\\economy-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

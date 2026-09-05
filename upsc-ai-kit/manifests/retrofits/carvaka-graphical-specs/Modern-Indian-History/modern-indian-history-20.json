@@ -1,0 +1,1055 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-20",
+  "subject": "Modern-Indian-History",
+  "title": "NON-COOPERATION & THE KHILAFAT MOVEMENT (1919–1922)",
+  "short_route": "CONVERGENCE CHRONOLOGY → KHILAFAT LEADERSHIP AND DEMAND → GANDHI'S UNITY LOGIC → CALCUTTA-TO-NAGPUR DOUBLE DECISION → ESCALATION LADDER → URBAN ACTORS MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-20_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-20-21-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "6c9efb76b5a400a638a97c9d37851d08566b83fbc5414818a448a95a20d62d6d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONVERGENCE CHRONOLOGY",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONVERGENCE CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "WARTIME DISTRESS, ROWLATT ACT AND JALLIANWALA BAGH HARDEN NATIONALIST",
+          "role": "institution"
+        },
+        {
+          "text": "NOV 1919",
+          "role": "comparison"
+        },
+        {
+          "text": "ALL-INDIA KHILAFAT CONFERENCE AT DELHI THREATENS NON-COOPERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDHI LINKS KHILAFAT TO SWARAJ TO BUILD HINDU-MUSLIM UNITY",
+          "role": "primary"
+        },
+        {
+          "text": "SEP 1920",
+          "role": "outcome"
+        },
+        {
+          "text": "CALCUTTA SPECIAL SESSION ADOPTS NON-COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1920",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1919 → wartime distress, Rowlatt Act and Jallianwala Bagh harden nationalist opinion",
+        "NOV 1919 → All-India Khilafat Conference at Delhi threatens non-cooperation",
+        "1920 → Gandhi links Khilafat to Swaraj to build Hindu-Muslim unity",
+        "SEP 1920 → Calcutta Special Session adopts Non-Cooperation",
+        "DEC 1920 → Nagpur Congress ratifies the programme and reorganises Congress."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1919 → wartime distress, Rowlatt Act and Jallianwala Bagh harden nationalist opinion",
+            "NOV 1919 → All-India Khilafat Conference at Delhi threatens non-cooperation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1920 → Gandhi links Khilafat to Swaraj to build Hindu-Muslim unity",
+            "SEP 1920 → Calcutta Special Session adopts Non-Cooperation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEC 1920 → Nagpur Congress ratifies the programme and reorganises Congress.",
+            "1919 → wartime distress, Rowlatt Act and Jallianwala Bagh harden nationalist opinion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEC 1920 → Nagpur Congress ratifies the programme and reorganises Congress.",
+      "source_references": [
+        "Setting: wartime distress, Rowlatt-Jallianwala anger and Khilafat emergence"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "KHILAFAT LEADERSHIP AND DEMAND",
+      "structural_type": "list",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KHILAFAT LEADERSHIP AND DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "DEFENCE OF THE OTTOMAN SULTAN-CALIPH AFTER WWI AND THE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAULANA MOHAMMAD ALI, SHAUKAT ALI, MAULANA AZAD, HAKIM AJMAL",
+          "role": "comparison"
+        },
+        {
+          "text": "A KHILAFAT COMMITTEE EXISTED BEFORE THE NOV 1919 DELHI",
+          "role": "evidence"
+        },
+        {
+          "text": "NOV 1919",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-INDIA KHILAFAT CONFERENCE THREATENS WITHDRAWAL OF COOPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "A POLITICAL-RELIGIOUS MOBILISATION, NOT A HINDU MOVEMENT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ISSUE → defence of the Ottoman Sultan-Caliph after WWI and the Treaty of Sevres",
+        "LEADERS → Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan, Hasrat Mohani",
+        "COMMITTEE → a Khilafat Committee existed before the Nov 1919 Delhi Conference",
+        "NOV 1919 → All-India Khilafat Conference threatens withdrawal of cooperation",
+        "RULE → a political-religious mobilisation, not a Hindu movement."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ISSUE → defence of the Ottoman Sultan-Caliph after WWI and the Treaty of Sevres",
+            "LEADERS → Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan, Hasrat Mohani"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMITTEE → a Khilafat Committee existed before the Nov 1919 Delhi Conference",
+            "NOV 1919 → All-India Khilafat Conference threatens withdrawal of cooperation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a political-religious mobilisation, not a Hindu movement.",
+            "ISSUE → defence of the Ottoman Sultan-Caliph after WWI and the Treaty of Sevres"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a political-religious mobilisation, not a Hindu movement.",
+      "source_references": [
+        "Khilafat aims, leadership and the Delhi Conference"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GANDHI'S UNITY LOGIC",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GANDHI'S UNITY LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "KHILAFAT GRIEVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "EMOTIONALLY RESONANT ANTI-IMPERIAL ISSUE FOR INDIAN MUSLIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHI'S LINK",
+          "role": "evidence"
+        },
+        {
+          "text": "TIES KHILAFAT TO SWARAJ AS A JOINT NATIONAL DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "WIDENS ANTI-BRITISH MOBILISATION BEYOND A NARROW POLITICAL CLASS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITY RESTS ON AN INTERNATIONAL ISSUE INDIA DOES NOT",
+          "role": "caution"
+        },
+        {
+          "text": "1924 ABOLITION OF THE CALIPHATE EXPOSES THIS FRAGILITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KHILAFAT GRIEVANCE → emotionally resonant anti-imperial issue for Indian Muslims",
+        "GANDHI'S LINK → ties Khilafat to Swaraj as a joint national demand",
+        "EFFECT → widens anti-British mobilisation beyond a narrow political class",
+        "RISK → unity rests on an international issue India does not control",
+        "LATER → 1924 abolition of the Caliphate exposes this fragility."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KHILAFAT GRIEVANCE → emotionally resonant anti-imperial issue for Indian Muslims",
+            "GANDHI'S LINK → ties Khilafat to Swaraj as a joint national demand"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EFFECT → widens anti-British mobilisation beyond a narrow political class",
+            "RISK → unity rests on an international issue India does not control"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LATER → 1924 abolition of the Caliphate exposes this fragility.",
+            "KHILAFAT GRIEVANCE → emotionally resonant anti-imperial issue for Indian Muslims"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER → 1924 abolition of the Caliphate exposes this fragility.",
+      "source_references": [
+        "Gandhi's alliance logic for Khilafat-Congress unity"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CALCUTTA-TO-NAGPUR DOUBLE DECISION",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CALCUTTA-TO-NAGPUR DOUBLE DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "SEP 1920 CALCUTTA SPECIAL SESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ADOPTS NON-COOPERATION PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1920 NAGPUR CONGRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "RATIFIES THE PROGRAMME",
+          "role": "primary"
+        },
+        {
+          "text": "LINGUISTIC PROVINCIAL COMMITTEES, AICC, STRONGER WORKING COMMITTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW MEMBERSHIP FEE WIDENS THE CONGRESS BEYOND PROFESSIONAL CLASSES",
+          "role": "comparison"
+        },
+        {
+          "text": "CALCUTTA ADOPTED; NAGPUR RATIFIED AND REORGANISED; DO NOT MERGE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SEP 1920 CALCUTTA SPECIAL SESSION → adopts Non-Cooperation programme",
+        "DEC 1920 NAGPUR CONGRESS → ratifies the programme",
+        "REORGANISATION → linguistic provincial committees, AICC, stronger Working Committee",
+        "EFFECT → low membership fee widens the Congress beyond professional classes",
+        "RULE → Calcutta adopted; Nagpur ratified and reorganised; do not merge the two."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEP 1920 CALCUTTA SPECIAL SESSION → adopts Non-Cooperation programme",
+            "DEC 1920 NAGPUR CONGRESS → ratifies the programme"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REORGANISATION → linguistic provincial committees, AICC, stronger Working Committee",
+            "EFFECT → low membership fee widens the Congress beyond professional classes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → Calcutta adopted; Nagpur ratified and reorganised; do not merge the two.",
+            "SEP 1920 CALCUTTA SPECIAL SESSION → adopts Non-Cooperation programme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → Calcutta adopted; Nagpur ratified and reorganised; do not merge the two.",
+      "source_references": [
+        "Calcutta Special Session: adopting Non-Cooperation",
+        "Nagpur Congress: ratification and mass reorganisation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ESCALATION LADDER",
+      "structural_type": "process",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ESCALATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 1",
+          "role": "outcome"
+        },
+        {
+          "text": "SURRENDER OF TITLES AND HONORARY OFFICES",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "BOYCOTT OF SCHOOLS, COLLEGES, LAW COURTS, COUNCILS AND OFFICIAL",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC BOYCOTT OF FOREIGN CLOTH; PICKETING OF LIQUOR SHOPS",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAGE 1 → surrender of titles and honorary offices",
+        "STAGE 2 → boycott of schools, colleges, law courts, councils and official functions",
+        "STAGE 3 → economic boycott of foreign cloth; picketing of liquor shops",
+        "STAGE 4 → constructive programme: khadi, charkha, swadeshi, national education",
+        "STAGE 5 → mass civil disobedience and tax refusal, planned for Bardoli, never launched."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STAGE 1 → surrender of titles and honorary offices",
+            "STAGE 2 → boycott of schools, colleges, law courts, councils and official functions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAGE 3 → economic boycott of foreign cloth; picketing of liquor shops",
+            "STAGE 4 → constructive programme: khadi, charkha, swadeshi, national education"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STAGE 5 → mass civil disobedience and tax refusal, planned for Bardoli, never launched.",
+            "STAGE 1 → surrender of titles and honorary offices"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STAGE 5 → mass civil disobedience and tax refusal, planned for Bardoli, never launched.",
+      "source_references": [
+        "The programme's escalation ladder"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "URBAN ACTORS MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "URBAN ACTORS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "GROUP ACTION EFFECT STUDENTS LEAVE SCHOOLS AND COLLEGES VISIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSPEND COURT PRACTICE SYMBOLIC REJECTION OF COLONIAL LAW TRADERS",
+          "role": "institution"
+        },
+        {
+          "text": "AND KHADI DEMAND WOMEN PICKETING AND KHADI/CHARKHA WORK WIDENED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GROUP ACTION EFFECT students leave schools and colleges visible break with state education lawyers",
+        "suspend court practice symbolic rejection of colonial law traders boycott foreign cloth economic pressure",
+        "and khadi demand women picketing and khadi/charkha work widened the movement's social base."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GROUP ACTION EFFECT students leave schools and colleges visible break with state education lawyers",
+          "and khadi demand women picketing and khadi/charkha work widened the movement's social base.",
+          "suspend court practice symbolic rejection of colonial law traders boycott foreign cloth economic pressure"
+        ],
+        [
+          "suspend court practice symbolic rejection of colonial law traders boycott foreign cloth economic pressure",
+          "GROUP ACTION EFFECT students leave schools and colleges visible break with state education lawyers",
+          "and khadi demand women picketing and khadi/charkha work widened the movement's social base."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GROUP ACTION EFFECT students leave schools and colleges visible break with state education lawyers",
+            "suspend court practice symbolic rejection of colonial law traders boycott foreign cloth economic pressure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "and khadi demand women picketing and khadi/charkha work widened the movement's social base.",
+            "GROUP ACTION EFFECT students leave schools and colleges visible break with state education lawyers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "suspend court practice symbolic rejection of colonial law traders boycott foreign cloth economic pressure",
+            "and khadi demand women picketing and khadi/charkha work widened the movement's social base."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GROUP ACTION EFFECT students leave schools and colleges visible break with state education lawyers suspend court practice symbolic rejection of colonial law traders boycott foreign cloth economic pressure and khadi demand women picketing and khadi/charkha work widened the movement's social base.",
+      "source_references": [
+        "Urban mobilisation: students, lawyers, traders and women"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONSTRUCTIVE PROGRAMME AND INSTITUTIONS",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSTRUCTIVE PROGRAMME AND INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "KHADI, CHARKHA, SWADESHI, NATIONAL EDUCATION, PANCHAYATS, UNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "JAMIA MILLIA ISLAMIA, KASHI VIDYAPITH, GUJARAT VIDYAPITH, BIHAR VIDYAPITH",
+          "role": "comparison"
+        },
+        {
+          "text": "ALTERNATIVE MORAL ECONOMY ALONGSIDE THE BOYCOTT PROGRAMME",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONS AND CADRE SURVIVE AFTER BOYCOTT IS REVERSED",
+          "role": "primary"
+        },
+        {
+          "text": "LATER USE",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS CADRE AND NETWORK RE-APPEAR IN THE 1930 CAMPAIGN.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROGRAMME → khadi, charkha, swadeshi, national education, panchayats, unity",
+        "INSTITUTIONS → Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith, Bihar Vidyapith",
+        "FUNCTION → alternative moral economy alongside the boycott programme",
+        "DURABILITY → institutions and cadre survive after boycott is reversed",
+        "LATER USE → this cadre and network re-appear in the 1930 campaign."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROGRAMME → khadi, charkha, swadeshi, national education, panchayats, unity",
+            "INSTITUTIONS → Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith, Bihar Vidyapith"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FUNCTION → alternative moral economy alongside the boycott programme",
+            "DURABILITY → institutions and cadre survive after boycott is reversed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LATER USE → this cadre and network re-appear in the 1930 campaign.",
+            "PROGRAMME → khadi, charkha, swadeshi, national education, panchayats, unity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER USE → this cadre and network re-appear in the 1930 campaign.",
+      "source_references": [
+        "Constructive programme and national institutions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PRINCE OF WALES BOYCOTT AND REPRESSION FEEDBACK",
+      "structural_type": "feedback-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PRINCE OF WALES BOYCOTT AND REPRESSION FEEDBACK",
+          "role": "primary"
+        },
+        {
+          "text": "1921 PRINCE OF WALES VISIT",
+          "role": "outcome"
+        },
+        {
+          "text": "MET WITH HARTAL AND BOYCOTT",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNMENT RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARRESTS AND REPRESSION INTENSIFY",
+          "role": "primary"
+        },
+        {
+          "text": "WIDENS SYMPATHY AND PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVEMENT APPROACHES ITS ESCALATION CEILING",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHI STILL WITHHOLDS THE FINAL MASS CIVIL DISOBEDIENCE STAGE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1921 PRINCE OF WALES VISIT → met with hartal and boycott",
+        "GOVERNMENT RESPONSE → arrests and repression intensify",
+        "REPRESSION → widens sympathy and participation",
+        "PARTICIPATION → movement approaches its escalation ceiling",
+        "CEILING → Gandhi still withholds the final mass civil disobedience stage."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1921 PRINCE OF WALES VISIT → met with hartal and boycott",
+            "GOVERNMENT RESPONSE → arrests and repression intensify"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPRESSION → widens sympathy and participation",
+            "PARTICIPATION → movement approaches its escalation ceiling"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CEILING → Gandhi still withholds the final mass civil disobedience stage.",
+            "1921 PRINCE OF WALES VISIT → met with hartal and boycott"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CEILING → Gandhi still withholds the final mass civil disobedience stage.",
+      "source_references": [
+        "Prince of Wales boycott and repression"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EKA MOVEMENT ANATOMY",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EKA MOVEMENT ANATOMY",
+          "role": "primary"
+        },
+        {
+          "text": "RENT ABOUT FIFTY PER CENT ABOVE THE RECORDED RENT",
+          "role": "outcome"
+        },
+        {
+          "text": "GANGES-OATH MEETINGS BIND PEASANTS TO PAY RECORDED RENT ON",
+          "role": "comparison"
+        },
+        {
+          "text": "MADARI PASI AND OTHER LOCAL LEADERS, OUTSIDE CONGRESS-KHILAFAT DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "TENANTS PLUS MANY SMALL ZAMINDARS AGGRIEVED BY REVENUE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "SEVERE OFFICIAL REPRESSION CLOSES THE MOVEMENT BY MARCH 1922.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GRIEVANCE → rent about fifty per cent above the recorded rent; thekedars; share-rents",
+        "RITUAL → Ganges-oath meetings bind peasants to pay recorded rent on time",
+        "LEADERSHIP → Madari Pasi and other local leaders, outside Congress-Khilafat discipline",
+        "BASE → tenants plus many small zamindars aggrieved by revenue demand",
+        "END → severe official repression closes the movement by March 1922."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRIEVANCE → rent about fifty per cent above the recorded rent; thekedars; share-rents",
+            "RITUAL → Ganges-oath meetings bind peasants to pay recorded rent on time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEADERSHIP → Madari Pasi and other local leaders, outside Congress-Khilafat discipline",
+            "BASE → tenants plus many small zamindars aggrieved by revenue demand"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "END → severe official repression closes the movement by March 1922.",
+            "GRIEVANCE → rent about fifty per cent above the recorded rent; thekedars; share-rents"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "END → severe official repression closes the movement by March 1922.",
+      "source_references": [
+        "The Eka movement in the United Provinces"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MALABAR TRAJECTORY",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MALABAR TRAJECTORY",
+          "role": "primary"
+        },
+        {
+          "text": "APR 1920",
+          "role": "outcome"
+        },
+        {
+          "text": "MALABAR DISTRICT CONGRESS CONFERENCE AT MANJERI GIVES EARLY IMPETUS",
+          "role": "comparison"
+        },
+        {
+          "text": "INSECURE TENURE, RENEWAL FEES, HIGH RENTS UNDER LANDLORD EXACTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "AUG 1921",
+          "role": "primary"
+        },
+        {
+          "text": "MAPPILA REBELLION BEGINS IN MALABAR",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL MOBILISATION LATER ACQUIRES A COMMUNAL CHARACTER",
+          "role": "comparison"
+        },
+        {
+          "text": "DAMAGES THE WIDER KHILAFAT-CONGRESS ALLIANCE; NOT COMMUNAL FROM THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "APR 1920 → Malabar District Congress Conference at Manjeri gives early impetus",
+        "GRIEVANCE → insecure tenure, renewal fees, high rents under landlord exactions",
+        "AUG 1921 → Mappila rebellion begins in Malabar",
+        "SHIFT → local mobilisation later acquires a communal character",
+        "EFFECT → damages the wider Khilafat-Congress alliance; not communal from the start."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APR 1920 → Malabar District Congress Conference at Manjeri gives early impetus",
+            "GRIEVANCE → insecure tenure, renewal fees, high rents under landlord exactions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUG 1921 → Mappila rebellion begins in Malabar",
+            "SHIFT → local mobilisation later acquires a communal character"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EFFECT → damages the wider Khilafat-Congress alliance; not communal from the start.",
+            "APR 1920 → Malabar District Congress Conference at Manjeri gives early impetus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHIFT → local mobilisation later acquires a communal character.",
+      "source_references": [
+        "The Malabar Mappila rebellion and its communal turn"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BARDOLI PLAN TO CHAURI CHAURA TO WITHDRAWAL",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BARDOLI PLAN TO CHAURI CHAURA TO WITHDRAWAL",
+          "role": "primary"
+        },
+        {
+          "text": "MASS CIVIL DISOBEDIENCE ANNOUNCED FOR BARDOLI TALUQA, SURAT DISTRICT",
+          "role": "outcome"
+        },
+        {
+          "text": "4 FEB 1922",
+          "role": "comparison"
+        },
+        {
+          "text": "CHAURI CHAURA PROCESSION CLASHES WITH POLICE IN GORAKHPUR DISTRICT",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICE STATION BURNT; TWENTY-TWO POLICEMEN KILLED",
+          "role": "primary"
+        },
+        {
+          "text": "12 FEB 1922",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKING COMMITTEE RATIFIES WITHDRAWAL",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BARDOLI RESOLUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLAN → mass civil disobedience announced for Bardoli taluqa, Surat district",
+        "4 FEB 1922 → Chauri Chaura procession clashes with police in Gorakhpur district",
+        "OUTCOME → police station burnt; twenty-two policemen killed",
+        "12 FEB 1922 → Working Committee ratifies withdrawal: the Bardoli resolution",
+        "MAR 1922 → Gandhi arrested and sentenced to six years' imprisonment."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLAN → mass civil disobedience announced for Bardoli taluqa, Surat district",
+            "4 FEB 1922 → Chauri Chaura procession clashes with police in Gorakhpur district"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME → police station burnt; twenty-two policemen killed",
+            "12 FEB 1922 → Working Committee ratifies withdrawal: the Bardoli resolution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAR 1922 → Gandhi arrested and sentenced to six years' imprisonment.",
+            "PLAN → mass civil disobedience announced for Bardoli taluqa, Surat district"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAR 1922 → Gandhi arrested and sentenced to six years' imprisonment.",
+      "source_references": [
+        "Bardoli and the planned mass civil disobedience",
+        "Chauri Chaura and the withdrawal"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BALANCE SHEET AND 1920S BRIDGE",
+      "structural_type": "balance-sheet",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BALANCE SHEET AND 1920S BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST GENUINELY ALL-INDIA MASS MOVEMENT; REORGANISED CONGRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "DURABLE INSTITUTIONS, KHADI NETWORK AND TRAINED RURAL CADRE",
+          "role": "comparison"
+        },
+        {
+          "text": "BOYCOTT PROVED REVERSIBLE; COUNCIL BOYCOTT REVERSED BY SWARAJISTS IN",
+          "role": "institution"
+        },
+        {
+          "text": "KHILAFAT UNITY PROVED FRAGILE; CALIPHATE ABOLISHED IN 1924",
+          "role": "primary"
+        },
+        {
+          "text": "PALME DUTT",
+          "role": "outcome"
+        },
+        {
+          "text": "SHIELDED PROPERTY; BIPIN CHANDRA",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ANTI-PROPERTY INTENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GAIN → first genuinely all-India mass movement; reorganised Congress",
+        "GAIN → durable institutions, khadi network and trained rural cadre",
+        "COST → boycott proved reversible; council boycott reversed by Swarajists in 1923",
+        "COST → Khilafat unity proved fragile; Caliphate abolished in 1924",
+        "DEBATE → Palme Dutt: shielded property; Bipin Chandra: no anti-property intent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → first genuinely all-India mass movement; reorganised Congress",
+            "GAIN → durable institutions, khadi network and trained rural cadre"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COST → boycott proved reversible; council boycott reversed by Swarajists in 1923",
+            "COST → Khilafat unity proved fragile; Caliphate abolished in 1924"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEBATE → Palme Dutt: shielded property; Bipin Chandra: no anti-property intent",
+            "BRIDGE → withdrawal opens the Swarajist-No-changer debate and a revolutionary drift."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRIDGE → withdrawal opens the Swarajist-No-changer debate and a revolutionary drift.",
+      "source_references": [
+        "Achievements and limits of Non-Cooperation",
+        "Consequences: fragile unity and the bridge to the 1920s"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE EMPHASISES THAT NCM BROUGHT STUDENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKERS, TRADERS, WOMEN AND LOCAL LEADERS INTO A NATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BOYCOTT OF FOREIGN CLOTH AND PROMOTION OF KHADI",
+          "role": "evidence"
+        },
+        {
+          "text": "THE NAGPUR REORGANISATION TRANSFORMED CONGRESS FROM AN ANNUAL DELIBERATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "A MOVEMENT ORGANISATION WITH PROVINCIAL COMMITTEES, MEMBERSHIP AND A",
+          "role": "outcome"
+        },
+        {
+          "text": "THE MOVEMENT'S STRENGTH LAY IN FLEXIBLE LOCAL TRANSLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "IN SOME AREAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence emphasises that NCM brought students, lawyers, peasants,",
+            "workers, traders, women and local leaders into a national political rhythm.",
+            "The boycott of foreign cloth and promotion of khadi converted the economic critique of colonialism into daily political practice.",
+            "The Nagpur reorganisation transformed Congress from an annual deliberative body into"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "a movement organisation with provincial committees, membership and a Working Committee.",
+            "CAUTION: The movement's strength lay in flexible local translation: in some areas",
+            "it meant khadi and schools, in others peasant protest or anti-liquor picketing.",
+            "Gandhi supported Khilafat to create Hindu-Muslim unity and to make anti-imperialism emotionally resonant among Indian Muslims."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The alliance temporarily overcame communal divides, but it rested on a",
+            "religious-symbolic issue outside India whose fate was decided by Turkish politics.",
+            "CAUTION: The collapse of the Caliphate in 1924 exposed the fragility of unity built around a contingent international issue.",
+            "CAUTION: Chauri Chaura became the classic test of Gandhian politics: whether"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

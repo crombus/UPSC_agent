@@ -1,0 +1,1170 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-14",
+  "subject": "Governance",
+  "title": "PARTICIPATORY GOVERNANCE",
+  "short_route": "PARTICIPATION LADDER → THE INDIAN PARTICIPATION PARADOX → CONSULTATION POLICY STATUS CARD → NAMED PARTICIPATION FORUMS → WHY DECISIONS DRIFT UPWARD → TWO SEPARATIONS INSIDE ONE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-14-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "259709c273824f19c398574439b3e4fb66c045a285791ad499b2f219320f19b5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PARTICIPATION LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PARTICIPATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "TOLD AFTER THE DECISION; SCHEME PUBLICITY AND PROACTIVE DISCLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASKED, DECISION-MAKER NOT BOUND; 2014 POLICY AND THE ENGAGEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "TAKE PART IN PLANNING; VILLAGE ASSEMBLY IN PLAN APPROVAL",
+          "role": "institution"
+        },
+        {
+          "text": "DETERMINE AN OUTCOME; PARTICIPATORY BUDGETING; ASSEMBLY APPROVAL UNDER PESA",
+          "role": "institution"
+        },
+        {
+          "text": "PRODUCE THE OUTCOME JOINTLY; COMMUNITY MONITORING, USER GROUPS, SOCIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DELEGATED CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "RUN THE SERVICE; COMMUNITY-MANAGED SCHEMES WITH THEIR OWN ACCOUNTABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INFORMATION → told after the decision; scheme publicity and proactive disclosure; not participation",
+        "CONSULTATION → asked, decision-maker not bound; 2014 policy and the engagement platform",
+        "INVOLVEMENT → take part in planning; village assembly in plan approval; ward meetings",
+        "CO-DECISION → determine an outcome; participatory budgeting; assembly approval under PESA",
+        "CO-PRODUCTION → produce the outcome jointly; community monitoring, user groups, social audit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INFORMATION → told after the decision; scheme publicity and proactive disclosure; not participation",
+            "CONSULTATION → asked, decision-maker not bound; 2014 policy and the engagement platform",
+            "INVOLVEMENT → take part in planning; village assembly in plan approval; ward meetings"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CO-DECISION → determine an outcome; participatory budgeting; assembly approval under PESA",
+            "CO-PRODUCTION → produce the outcome jointly; community monitoring, user groups, social audit",
+            "DELEGATED CONTROL → run the service; community-managed schemes with their own accountability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Participatory governance distributes voice across information,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Participatory governance distributes voice across information,.",
+      "source_references": [
+        "The participation ladder from information to delegated control",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE INDIAN PARTICIPATION PARADOX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE INDIAN PARTICIPATION PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "MOST INSTITUTIONALISED",
+          "role": "outcome"
+        },
+        {
+          "text": "PRE-LEGISLATIVE CONSULTATION AND THE CITIZEN-ENGAGEMENT PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "THEIR RUNG",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSULTATION, THE WEAKEST RUNG ABOVE BEING MERELY INFORMED",
+          "role": "primary"
+        },
+        {
+          "text": "MOST CO-DECISIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTICIPATORY BUDGETING OVER A DEFINED SHARE OF A MUNICIPAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS SCALE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MOST INSTITUTIONALISED → pre-legislative consultation and the citizen-engagement platform",
+        "THEIR RUNG → consultation, the weakest rung above being merely informed",
+        "MOST CO-DECISIONAL → participatory budgeting over a defined share of a municipal budget",
+        "ITS SCALE → scattered municipal and ward pilots rather than a universal practice",
+        "FINDING → the forms of participation are institutionalised and the substance is not"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MOST INSTITUTIONALISED → pre-legislative consultation and the citizen-engagement platform",
+          "MOST CO-DECISIONAL → participatory budgeting over a defined share of a municipal budget",
+          "FINDING → the forms of participation are institutionalised and the substance is not"
+        ],
+        [
+          "THEIR RUNG → consultation, the weakest rung above being merely informed",
+          "ITS SCALE → scattered municipal and ward pilots rather than a universal practice",
+          "MOST INSTITUTIONALISED → pre-legislative consultation and the citizen-engagement platform"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOST INSTITUTIONALISED → pre-legislative consultation and the citizen-engagement platform",
+            "THEIR RUNG → consultation, the weakest rung above being merely informed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOST CO-DECISIONAL → participatory budgeting over a defined share of a municipal budget",
+            "ITS SCALE → scattered municipal and ward pilots rather than a universal practice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FINDING → the forms of participation are institutionalised and the substance is not",
+            "MOST INSTITUTIONALISED → pre-legislative consultation and the citizen-engagement platform"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINDING → the forms of participation are institutionalised and the substance is not.",
+      "source_references": [
+        "The Indian participation paradox",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONSULTATION POLICY STATUS CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSULTATION POLICY STATUS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-LEGISLATIVE CONSULTATION POLICY, 2014",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLISH THE DRAFT WITH EXPLANATORY MATERIAL; ORDINARILY AT LEAST",
+          "role": "evidence"
+        },
+        {
+          "text": "STATED EXCEPTIONS APPLY AND THE WINDOW MAY BE CURTAILED",
+          "role": "evidence"
+        },
+        {
+          "text": "EXECUTIVE POLICY, NOT A STATUTE; COMMENTS ARE NOT BINDING",
+          "role": "caution"
+        },
+        {
+          "text": "NO GENERAL DUTY TO PUBLISH A REASONED RESPONSE TO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INSTRUMENT → Pre-Legislative Consultation Policy, 2014",
+        "CONTENT → publish the draft with explanatory material; ordinarily at least thirty days",
+        "EXCEPTIONS → stated exceptions apply and the window may be curtailed",
+        "STATUS → executive policy, not a statute; comments are not binding",
+        "GAP → no general duty to publish a reasoned response to objections"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INSTRUMENT → Pre-Legislative Consultation Policy, 2014",
+          "EXCEPTIONS → stated exceptions apply and the window may be curtailed",
+          "GAP → no general duty to publish a reasoned response to objections"
+        ],
+        [
+          "CONTENT → publish the draft with explanatory material; ordinarily at least thirty days",
+          "STATUS → executive policy, not a statute; comments are not binding",
+          "INSTRUMENT → Pre-Legislative Consultation Policy, 2014"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INSTRUMENT → Pre-Legislative Consultation Policy, 2014",
+            "CONTENT → publish the draft with explanatory material; ordinarily at least thirty days"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXCEPTIONS → stated exceptions apply and the window may be curtailed",
+            "STATUS → executive policy, not a statute; comments are not binding"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GAP → no general duty to publish a reasoned response to objections",
+            "INSTRUMENT → Pre-Legislative Consultation Policy, 2014"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAP → no general duty to publish a reasoned response to objections.",
+      "source_references": [
+        "The Pre-Legislative Consultation Policy of 2014 and its exact status",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NAMED PARTICIPATION FORUMS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NAMED PARTICIPATION FORUMS",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "ALL REGISTERED VOTERS IN A PANCHAYAT AREA; TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT CAN IT DECIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "WARD COMMITTEE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 243S; MUNICIPALITIES OF THREE LAKH OR MORE; STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PARTICIPATORY BUDGETING",
+          "role": "comparison"
+        },
+        {
+          "text": "CO-DECISION OVER A DEFINED BUDGET SHARE; PILOT-SCALE IN INDIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VILLAGE ASSEMBLY → all registered voters in a Panchayat area; test: what can it decide",
+        "WARD COMMITTEE → Article 243S; municipalities of three lakh or more; State law on composition",
+        "PARTICIPATORY BUDGETING → co-decision over a defined budget share; pilot-scale in India",
+        "SCHEDULED AREAS → PESA assembly powers; consultation before acquisition, not consent"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VILLAGE ASSEMBLY → all registered voters in a Panchayat area; test: what can it decide",
+          "PARTICIPATORY BUDGETING → co-decision over a defined budget share; pilot-scale in India",
+          "VILLAGE ASSEMBLY → all registered voters in a Panchayat area; test: what can it decide"
+        ],
+        [
+          "WARD COMMITTEE → Article 243S; municipalities of three lakh or more; State law on composition",
+          "SCHEDULED AREAS → PESA assembly powers; consultation before acquisition, not consent",
+          "WARD COMMITTEE → Article 243S; municipalities of three lakh or more; State law on composition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VILLAGE ASSEMBLY → all registered voters in a Panchayat area; test: what can it decide",
+            "WARD COMMITTEE → Article 243S; municipalities of three lakh or more; State law on composition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARTICIPATORY BUDGETING → co-decision over a defined budget share; pilot-scale in India",
+            "SCHEDULED AREAS → PESA assembly powers; consultation before acquisition, not consent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VILLAGE ASSEMBLY → all registered voters in a Panchayat area; test: what can it decide",
+            "WARD COMMITTEE → Article 243S; municipalities of three lakh or more; State law on composition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCHEDULED AREAS → PESA assembly powers; consultation before acquisition, not consent.",
+      "source_references": [
+        "The village assembly and the authority test",
+        "Ward Committees and the Article 243S threshold",
+        "Participatory budgeting as co-decision at pilot scale",
+        "Scheduled Areas, the Gram Sabha and consultation rather than consent",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WHY DECISIONS DRIFT UPWARD",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY DECISIONS DRIFT UPWARD",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE CONVENIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE DESIGN IS SIMPLER TO RUN THAN HUNDREDS OF",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPACITY ARGUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "GENUINE AND SELF-FULFILLING WHERE AUTHORITY IS NEVER GIVEN",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL-CONTROL INCENTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCRETIONARY ALLOCATION CARRIES POLITICAL CREDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "INFORMATION LOSS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADMINISTRATIVE CONVENIENCE → one design is simpler to run than hundreds of local variants",
+        "CAPACITY ARGUMENT: genuine and self-fulfilling where authority is never given",
+        "POLITICAL-CONTROL INCENTIVE: discretionary allocation carries political credit",
+        "INFORMATION LOSS: local report to block to district to State to Union, filtered each step",
+        "DECISION WITHOUT CURRENT LOCAL INFORMATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADMINISTRATIVE CONVENIENCE → one design is simpler to run than hundreds of local variants",
+            "CAPACITY ARGUMENT: genuine and self-fulfilling where authority is never given"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICAL-CONTROL INCENTIVE: discretionary allocation carries political credit",
+            "INFORMATION LOSS: local report to block to district to State to Union, filtered each step"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DECISION WITHOUT CURRENT LOCAL INFORMATION",
+            "OUTCOME MISMATCH: wrong design, wrong sequence or arriving too late to be useful"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME MISMATCH: wrong design, wrong sequence or arriving too late to be useful.",
+      "source_references": [
+        "Why decisions drift upward",
+        "Information loss in transmission and outcome mismatch",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TWO SEPARATIONS INSIDE ONE DEMAND",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO SEPARATIONS INSIDE ONE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATION FROM INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DECISION-MAKER LACKS ACCURATE, CURRENT LOCAL KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION FROM EXECUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DECISION-MAKER LACKS AWARENESS OF AND ACCOUNTABILITY FOR DELIVERY",
+          "role": "primary"
+        },
+        {
+          "text": "WHY IT MATTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH HAS A DIFFERENT CORRECTIVE AND MERGING THEM LOSES",
+          "role": "comparison"
+        },
+        {
+          "text": "FIX FOR THE FIRST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEPARATION FROM INFORMATION → the decision-maker lacks accurate, current local knowledge",
+        "SEPARATION FROM EXECUTION → the decision-maker lacks awareness of and accountability for delivery",
+        "WHY IT MATTERS → each has a different corrective and merging them loses the analytical",
+        "FIX FOR THE FIRST → relocate priority-setting; FIX FOR THE SECOND → relocate answerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEPARATION FROM INFORMATION → the decision-maker lacks accurate, current local knowledge",
+            "SEPARATION FROM EXECUTION → the decision-maker lacks awareness of and accountability for delivery"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHY IT MATTERS → each has a different corrective and merging them loses the analytical mark",
+            "FIX FOR THE FIRST → relocate priority-setting; FIX FOR THE SECOND → relocate answerability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEPARATION FROM INFORMATION → the decision-maker lacks accurate, current local knowledge",
+            "SEPARATION FROM EXECUTION → the decision-maker lacks awareness of and accountability for delivery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIX FOR THE FIRST → relocate priority-setting; FIX FOR THE SECOND → relocate answerability.",
+      "source_references": [
+        "Two distinct separations inside one demand",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COUNTERWEIGHT CARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COUNTERWEIGHT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "LEGITIMATE CENTRALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALE IN LARGE INFRASTRUCTURE; INTER-REGIONAL EQUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALISED TECHNICAL CAPACITY; RIGHTS THAT MUST NOT VARY LOCALLY",
+          "role": "caution"
+        },
+        {
+          "text": "ELITE CAPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "A LOCAL FORUM CAN REFLECT A DOMINANT CASTE OR",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPTURE SAFEGUARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVATION, ROTATION, FACILITATION, DISCLOSURE, QUORUM, SOCIAL AUDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGITIMATE CENTRALISATION → scale in large infrastructure; inter-regional equity",
+        "LEGITIMATE CENTRALISATION → specialised technical capacity; rights that must not vary locally",
+        "ELITE CAPTURE → a local forum can reflect a dominant caste or economic group",
+        "CAPTURE SAFEGUARDS → reservation, rotation, facilitation, disclosure, quorum, social audit"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LEGITIMATE CENTRALISATION → scale in large infrastructure; inter-regional equity",
+          "ELITE CAPTURE → a local forum can reflect a dominant caste or economic group",
+          "LEGITIMATE CENTRALISATION → scale in large infrastructure; inter-regional equity"
+        ],
+        [
+          "LEGITIMATE CENTRALISATION → specialised technical capacity; rights that must not vary locally",
+          "CAPTURE SAFEGUARDS → reservation, rotation, facilitation, disclosure, quorum, social audit",
+          "LEGITIMATE CENTRALISATION → specialised technical capacity; rights that must not vary locally"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEGITIMATE CENTRALISATION → scale in large infrastructure; inter-regional equity",
+            "LEGITIMATE CENTRALISATION → specialised technical capacity; rights that must not vary locally"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ELITE CAPTURE → a local forum can reflect a dominant caste or economic group",
+            "CAPTURE SAFEGUARDS → reservation, rotation, facilitation, disclosure, quorum, social audit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGITIMATE CENTRALISATION → scale in large infrastructure; inter-regional equity",
+            "LEGITIMATE CENTRALISATION → specialised technical capacity; rights that must not vary locally"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAPTURE SAFEGUARDS → reservation, rotation, facilitation, disclosure, quorum, social audit.",
+      "source_references": [
+        "The legitimate rationales for central decision-making",
+        "Elite capture and the design that answers it",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EIGHT DELIBERATION DESIGN TESTS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EIGHT DELIBERATION DESIGN TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "1 AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THE FORUM DECIDING, OR ADVISING ON A DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "2 TIMING",
+          "role": "evidence"
+        },
+        {
+          "text": "IS IT CONSULTED BEFORE THE OPTIONS ARE FORECLOSED",
+          "role": "primary"
+        },
+        {
+          "text": "3 INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDGET, OPTIONS AND TRADE-OFFS IN USABLE FORM AND LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "4 INCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 AUTHORITY → is the forum deciding, or advising on a decision already taken",
+        "2 TIMING → is it consulted before the options are foreclosed",
+        "3 INFORMATION → budget, options and trade-offs in usable form and language",
+        "4 INCLUSION → who is absent: women, landless, migrants, disabled persons, the poorest",
+        "5 FACILITATION → independent facilitator, or the implementing agency running its own hearing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 AUTHORITY → is the forum deciding, or advising on a decision already taken",
+            "2 TIMING → is it consulted before the options are foreclosed",
+            "3 INFORMATION → budget, options and trade-offs in usable form and language"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "4 INCLUSION → who is absent: women, landless, migrants, disabled persons, the poorest",
+            "5 FACILITATION → independent facilitator, or the implementing agency running its own hearing",
+            "6 RECORD AND RESPONSE → objections recorded and a reasoned response published"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "7 FEEDBACK LOOP → does the participant learn what happened to the input",
+            "8 IN CONFLICT → recognised representatives, agreed facts and a route to a binding outcome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "8 IN CONFLICT → recognised representatives, agreed facts and a route to a binding outcome.",
+      "source_references": [
+        "The eight design tests that make deliberation real",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONSULTATION FEEDBACK MATRIX",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSULTATION FEEDBACK MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "COLUMN 1",
+          "role": "outcome"
+        },
+        {
+          "text": "STAKEHOLDER CATEGORY THAT RAISED THE ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "COLUMN 2",
+          "role": "evidence"
+        },
+        {
+          "text": "ISSUE RAISED, STATED IN THE OBJECTOR'S OWN TERMS",
+          "role": "primary"
+        },
+        {
+          "text": "COLUMN 3",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNMENT RESPONSE, ACCEPTED OR REJECTED, WITH REASONS",
+          "role": "comparison"
+        },
+        {
+          "text": "COLUMN 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLUMN 1 → stakeholder category that raised the issue",
+        "COLUMN 2 → issue raised, stated in the objector's own terms",
+        "COLUMN 3 → government response, accepted or rejected, with reasons",
+        "COLUMN 4 → resulting change to the draft, if any",
+        "COLUMN 5 → unresolved distributional effect that remains after the change"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COLUMN 1 → stakeholder category that raised the issue",
+          "COLUMN 3 → government response, accepted or rejected, with reasons",
+          "COLUMN 5 → unresolved distributional effect that remains after the change"
+        ],
+        [
+          "COLUMN 2 → issue raised, stated in the objector's own terms",
+          "COLUMN 4 → resulting change to the draft, if any",
+          "COLUMN 1 → stakeholder category that raised the issue"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLUMN 1 → stakeholder category that raised the issue",
+            "COLUMN 2 → issue raised, stated in the objector's own terms"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLUMN 3 → government response, accepted or rejected, with reasons",
+            "COLUMN 4 → resulting change to the draft, if any"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COLUMN 5 → unresolved distributional effect that remains after the change",
+            "COLUMN 1 → stakeholder category that raised the issue"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COLUMN 5 → unresolved distributional effect that remains after the change.",
+      "source_references": [
+        "The Pre-Legislative Consultation Policy of 2014 and its exact status",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PARTNERSHIP FORMS KEPT DISTINCT",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PARTNERSHIP FORMS KEPT DISTINCT",
+          "role": "primary"
+        },
+        {
+          "text": "THE STATE BUYS DELIVERY FROM A PROVIDER AGAINST A",
+          "role": "institution"
+        },
+        {
+          "text": "SEVERAL PUBLIC AGENCIES ALIGN AT THE POINT OF DELIVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "CITIZENS PRODUCE THE OUTCOME JOINTLY THROUGH MONITORING AND USER",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC-PRIVATE PARTNERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "RISK AND FINANCE SHARED UNDER A CONTRACT",
+          "role": "caution"
+        },
+        {
+          "text": "SHARED WORK BECOMES NOBODY'S WORK UNLESS ONE DUTY-HOLDER STAYS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONTRACTING → the state buys delivery from a provider against a specification",
+        "CONVERGENCE → several public agencies align at the point of delivery",
+        "CO-PRODUCTION → citizens produce the outcome jointly through monitoring and user groups",
+        "PUBLIC-PRIVATE PARTNERSHIP → risk and finance shared under a contract",
+        "RISK → shared work becomes nobody's work unless one duty-holder stays identifiable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONTRACTING → the state buys delivery from a provider against a specification",
+            "CONVERGENCE → several public agencies align at the point of delivery"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CO-PRODUCTION → citizens produce the outcome jointly through monitoring and user groups",
+            "PUBLIC-PRIVATE PARTNERSHIP → risk and finance shared under a contract"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RISK → shared work becomes nobody's work unless one duty-holder stays identifiable",
+            "CLOSE DISTINCTION: Attendance is not participation, consultation is not consent, public..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Attendance is not participation, consultation is not consent, public.",
+      "source_references": [
+        "Co-production, partnership forms and diffused accountability",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WHO IS ABSENT FROM THE FORUM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WHO IS ABSENT FROM THE FORUM",
+          "role": "primary"
+        },
+        {
+          "text": "ATTENDANCE, SPEAKING TIME AND PROXY PARTICIPATION ARE THREE DIFFERENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LANDLESS AND MIGRANT HOUSEHOLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "OFTEN OUTSIDE THE ELECTORAL ROLL THE FORUM RESTS ON",
+          "role": "evidence"
+        },
+        {
+          "text": "THE POOREST",
+          "role": "primary"
+        },
+        {
+          "text": "BEAR THE HIGHEST RELATIVE WAGE AND TIME COST OF",
+          "role": "outcome"
+        },
+        {
+          "text": "MINORITIES WITHIN THE VILLAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "A MAJORITY FORUM CAN DECIDE AGAINST THEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WOMEN → attendance, speaking time and proxy participation are three different measures",
+        "LANDLESS AND MIGRANT HOUSEHOLDS → often outside the electoral roll the forum rests on",
+        "THE POOREST → bear the highest relative wage and time cost of attending",
+        "MINORITIES WITHIN THE VILLAGE → a majority forum can decide against them",
+        "CONSEQUENCE → participation is not a substitute for rights protection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WOMEN → attendance, speaking time and proxy participation are three different measures",
+            "LANDLESS AND MIGRANT HOUSEHOLDS → often outside the electoral roll the forum rests on"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THE POOREST → bear the highest relative wage and time cost of attending",
+            "MINORITIES WITHIN THE VILLAGE → a majority forum can decide against them"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → participation is not a substitute for rights protection",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Gram Sabhas, ward committees,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Gram Sabhas, ward committees,.",
+      "source_references": [
+        "Absent participants, trade-offs and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A PARTICIPATION DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A PARTICIPATION DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "SUBSIDIARITY AS AN INFORMATION AND EXECUTION ARGUMENT, NOT AS",
+          "role": "caution"
+        },
+        {
+          "text": "PLACE THE NAMED MECHANISM ON THE LADDER AND ASK",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAME LEGITIMATE CENTRALISATION AND ELITE CAPTURE AS THE TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "DESIGN CONDITIONS, ABSENT PARTICIPANTS AND A GRADED VERDICT WITH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → subsidiarity as an information and execution argument, not as a democratic slogan",
+        "BUILD → place the named mechanism on the ladder and ask what it can actually",
+        "CORRECT → name legitimate centralisation and elite capture as the two counterweights",
+        "CLOSE → design conditions, absent participants and a graded verdict with no invented count"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → subsidiarity as an information and execution argument, not as a democratic slogan",
+            "BUILD → place the named mechanism on the ladder and ask what it can actually decide"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → name legitimate centralisation and elite capture as the two counterweights",
+            "CLOSE → design conditions, absent participants and a graded verdict with no invented count"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → subsidiarity as an information and execution argument, not as a democratic slogan",
+            "BUILD → place the named mechanism on the ladder and ask what it can actually decide"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → design conditions, absent participants and a graded verdict with no invented count.",
+      "source_references": [
+        "Absent participants, trade-offs and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE 2025 PYQ'S PHRASE \"NOT LOCATED CLOSE TO THE",
+          "role": "caution"
+        },
+        {
+          "text": "ELITE CAPTURE IS THE STANDARD COUNTER-ARGUMENT AGAINST AN UNCRITICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTICIPATORY BUDGETING'S LIMITED INDIAN SCALE (SCATTERED PILOTS, NOT UNIVERSAL",
+          "role": "caution"
+        },
+        {
+          "text": "THE PRE-LEGISLATIVE CONSULTATION POLICY (2014) FORMALLY INSTITUTIONALISES CONSULTATION",
+          "role": "primary"
+        },
+        {
+          "text": "ITS GOVERNANCE QUALITY DEPENDS ON DISCLOSURE OF A REASONED",
+          "role": "outcome"
+        },
+        {
+          "text": "MYGOV FUNCTIONS PRIMARILY AS AN IDEAS-CROWDSOURCING AND PUBLIC-CAMPAIGN PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTICIPATORY-BUDGETING PILOTS IN INDIAN CITIES TYPICALLY ALLOCATE ONLY A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The 2025 PYQ's phrase \"not located close to the source of information and execution\"",
+            "CAUTION: Elite capture is the standard counter-argument against an uncritical \"always",
+            "CAUTION: Participatory budgeting's limited Indian scale (scattered pilots, not universal",
+            "The Pre-Legislative Consultation Policy (2014) formally institutionalises consultation"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Its governance quality depends on disclosure of a reasoned response/feedback matrix;",
+            "MyGov functions primarily as an ideas-crowdsourcing and public-campaign platform;",
+            "CAUTION: Participatory-budgeting pilots in Indian cities typically allocate only a modest,",
+            "CAUTION: A centrally designed rural-infrastructure scheme with a standard technical"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Boundary case: a genuinely local, Gram-Sabha-decided micro-infrastructure choice that",
+            "CAUTION: A large-scale, technically complex national infrastructure programme (e.g., a national",
+            "CAUTION: Full subsidiarity-consistent decentralisation requires sustained local capacity",
+            "CAUTION: Co-decision participatory mechanisms (participatory budgeting) are harder to scale"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

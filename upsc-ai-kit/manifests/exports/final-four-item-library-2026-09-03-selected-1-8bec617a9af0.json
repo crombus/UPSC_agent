@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T22:01:45+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "2d1c388cf33fe1662404f4982ef6a1d1a7d05802cd2e40d311e081d8209f68fe",
+    "sha256_after": "2d1c388cf33fe1662404f4982ef6a1d1a7d05802cd2e40d311e081d8209f68fe",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8326,
+    "pdf_count": 2167,
+    "png_count": 737,
+    "txt_count": 918,
+    "markdown_count": 1355,
+    "json_count": 3134,
+    "total_bytes": 3870509253,
+    "by_extension": {
+      ".json": 3134,
+      ".md": 1355,
+      ".pdf": 2167,
+      ".png": 737,
+      ".txt": 918,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-16",
+      "topic_title": "State & Government under Akbar (Mansabdari, Dahsala)",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 16,
+      "source_record_id": "medieval-indian-history-16:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a585d050af436e2937606cb5bcfe8ceda1e8a637b3da28d9277848e9cabfc298",
+          "output_sha256": "a585d050af436e2937606cb5bcfe8ceda1e8a637b3da28d9277848e9cabfc298",
+          "source_output_equal": true,
+          "bytes": 2508416
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-16\\g5\\medieval-indian-history-16_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "c86353ed580290db5ebc62361ad6c34e9a9acbce3013d6b27eac29603e64cfcf",
+          "output_sha256": "c86353ed580290db5ebc62361ad6c34e9a9acbce3013d6b27eac29603e64cfcf",
+          "source_output_equal": true,
+          "bytes": 237708
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-16\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "f9df85fdb3e5dfee488bc8efd88c3867a22b15fdedac268e92d061b332f35890",
+          "output_sha256": "f9df85fdb3e5dfee488bc8efd88c3867a22b15fdedac268e92d061b332f35890",
+          "source_output_equal": true,
+          "bytes": 2568683
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-16\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "7ccbcd960d49bfc822c5a9713eb0061bc11e3fe989e368cce47e71a5996b54bf",
+          "output_sha256": "7ccbcd960d49bfc822c5a9713eb0061bc11e3fe989e368cce47e71a5996b54bf",
+          "source_output_equal": true,
+          "bytes": 3316261
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-16\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "d9a601c8486b77979b53dd2eea3d93e8641ce603e24e4da4df26b93aa5a2a4cf",
+          "output_sha256": "d9a601c8486b77979b53dd2eea3d93e8641ce603e24e4da4df26b93aa5a2a4cf",
+          "source_output_equal": true,
+          "bytes": 2278092
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-16\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a434f638aa659fc4937647160b20a616225bbb08d3c3cfba36be38e45e086244",
+          "output_sha256": "a434f638aa659fc4937647160b20a616225bbb08d3c3cfba36be38e45e086244",
+          "source_output_equal": true,
+          "bytes": 6562
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-16\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\16-State-and-Government-under-Akbar-Mansabdari-Dahsala\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "ae252f5dec93f449e954b2e01fa13d3689b12c9fecc3a44c14ca7c8d029ad66f",
+          "output_sha256": "ae252f5dec93f449e954b2e01fa13d3689b12c9fecc3a44c14ca7c8d029ad66f",
+          "source_output_equal": true,
+          "source_text_sha256": "a434f638aa659fc4937647160b20a616225bbb08d3c3cfba36be38e45e086244",
+          "normalized_text_equal": true,
+          "bytes": 58801
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 92,
+        "solved_practice_workbook": 23,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 92,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12428
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

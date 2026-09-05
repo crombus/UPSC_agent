@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-08",
+      "display_title": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Regionalisation chronology and map",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1338-42 Bengal break and Ilyas Shahi consolidation",
+            "1398 Timur shock -> Delhi contraction accelerates",
+            "1407 Gujarat formal independence -> 1411-42 Ahmad Shah consolidation",
+            "15th c. Malwa, Jaunpur, Kashmir and western-eastern balances",
+            "1459-1511 Mahmud Begarha -> 1484 Bahlul annexes Jaunpur",
+            "RULE: regional states were active systems, not debris between empires.",
+            "MUST REMEMBER: Bengal, Gujarat, Malwa, Jaunpur and Kashmir were regional state-building",
+            "  centres, not mere debris of Delhi."
+          ],
+          "source_references": [
+            "Regionalisation",
+            "Chronology",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Bengal delta autonomy circuit",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DISTANCE + RIVERS + HUMID CLIMATE -> costly external projection",
+            "INTERNAL WATERWAYS -> movement of grain, people and craft goods",
+            "ILYAS SHAHI ORGANISATION + EKDALA -> defensive and dynastic capacity",
+            "CHITTAGONG + TEXTILES + CHINA CONTACT -> wider commercial connection",
+            "GAUR / PANDUA + BENGALI PATRONAGE -> locally intelligible legitimacy",
+            "VERDICT: ecology created possibilities; institutions converted them into autonomy."
+          ],
+          "source_references": [
+            "Bengal",
+            "Delta ecology",
+            "Ilyas Shah",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Gujarat port-hinterland state",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FERTILE INTERIOR + HANDICRAFT PRODUCTION",
+            "                |",
+            "AHMEDABAD markets, administration and building patronage",
+            "                |",
+            "ROADS / CARAVANS / CAMBAY and west-coast ports",
+            "                |",
+            "REVENUE + MERCHANT NETWORKS + MILITARY RESOURCES",
+            "CAUTION: ports were nodes in a territorial system, not automatic wealth machines."
+          ],
+          "source_references": [
+            "Gujarat",
+            "Ahmedabad",
+            "Ports",
+            "Mahmud Begarha",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Malwa strategic plateau",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "                 MEWAR",
+            "                   / forts and corridors",
+            "GUJARAT <---- MALWA / MANDU ----> GANGA ROUTES",
+            "                   \\ Deccan links",
+            "MANDU -> defensible plateau capital, court and monumental patronage",
+            "POLITICS -> rivalry, alliances and border-state intervention",
+            "RULE: explain strategic geography without reducing events to religion alone."
+          ],
+          "source_references": [
+            "Malwa",
+            "Mandu",
+            "Mewar",
+            "Gujarat",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Jaunpur power and cultural capital",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "GANGA-VALLEY LOCATION",
+            "        |",
+            "SHARQI COURT + revenue territory + military competition with Delhi",
+            "        |",
+            "learning, Persian culture and 'Shiraz of the East' reputation",
+            "        |",
+            "lofty gates, arches and an identifiable architectural idiom",
+            "1484 -> Bahlul Lodi annexes Jaunpur, but regional memory survives."
+          ],
+          "source_references": [
+            "Jaunpur",
+            "Sharqis",
+            "Cultural legitimacy",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Kashmir reign contrast",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SIKANDAR SHAH                 ZAINUL ABIDIN / BUD SHAH",
+            "coercive religious measures       reversal and reconciliation",
+            "temple and grant disruption       restorations and return of groups",
+            "sharper exclusion                 Hindu officers and translation patronage",
+            "                                  crafts, agriculture and learning",
+            "RULE: do not project either reign across all Kashmir or all medieval India."
+          ],
+          "source_references": [
+            "Kashmir",
+            "Sikandar Shah",
+            "Zainul Abidin",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Five regional capacity models",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BENGAL -> delta mobility, agrarian base, ports and language",
+            "GUJARAT -> port-hinterland trade, crafts, routes and urban capital",
+            "MALWA -> plateau position, Mandu and western-Deccan corridors",
+            "JAUNPUR -> Ganga-valley territory, learned court and Lodi rivalry",
+            "KASHMIR -> valley ecology, reconciliation and craft-cultural reconstruction",
+            "COMMON TEST: resources + coalition + institutions + legitimacy + limits."
+          ],
+          "source_references": [
+            "Comparative political economy",
+            "State capacity",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Fifteenth-century balance of power",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "WEST: GUJARAT <-> MALWA <-> MEWAR",
+            "EAST: BENGAL <-> ORISSA / JAUNPUR",
+            "UPPER GANGA: JAUNPUR <-> LODI DELHI",
+            "NORTH-WEST: KASHMIR follows a distinct valley trajectory",
+            "LINKS: wars + exiles + marriages + corridors + commercial competition",
+            "CAUTION: balance describes recurring checks, not fixed modern borders or a treaty."
+          ],
+          "source_references": [
+            "Balance of power",
+            "Inter-state relations",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Architecture and language as evidence",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BENGAL -> brick, curved roofs, Gaur-Pandua and Bengali patronage",
+            "GUJARAT -> fine stone, brackets, turrets, Ahmedabad and Champaner",
+            "MALWA -> Mandu scale, high plinths, palaces and glazed decoration",
+            "JAUNPUR -> monumental gateways, arches and learned prestige",
+            "KASHMIR -> translation, crafts and courtly reconciliation",
+            "RULE: material patronage shows claims and labour, not equality for every subject."
+          ],
+          "source_references": [
+            "Regional culture",
+            "Architecture",
+            "Language",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Bounded Ahom political extension",
+          "structural_type": "process",
+          "ascii_lines": [
+            "13th c. Tai-Ahom migration -> Charaideo first capital and royal memory",
+            "BRAHMAPUTRA ECOLOGY -> wet-rice expansion, mobility and frontier adaptation",
+            "PAIK ROTATION -> household-linked labour and military mobilisation",
+            "OFFICIALS / KHELS -> organise service and productive capacity over time",
+            "BOUNDARY -> comparison beyond Delhi, not a substitute for the five core kingdoms",
+            "CAUTION: avoid equating rotational obligation with one timeless labour category.",
+            "CLOSE DISTINCTION: The Ahom-Assam material is a bounded Prelims extension and must not be",
+            "  projected onto the Sultanate core."
+          ],
+          "source_references": [
+            "Ahom",
+            "Paik",
+            "Political ecology",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Buranji and Moidam evidence ladder",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BURANJIS -> chronology and institutions | royal viewpoint and silences",
+            "MOIDAMS -> royal memory and labour | funerary evidence, not a fiscal ledger",
+            "UNESCO -> 90 moidams and 13th-19th c. tradition | heritage synthesis",
+            "LANDSCAPE -> hills, water and sacred setting | needs archaeological context",
+            "BEST USE -> triangulate chronicle, material site and institutional comparison",
+            "ROUTE OUT -> detailed cosmology, form and conservation to Art & Culture.",
+            "EVIDENCE LIMIT: Regional chronology, capitals, dynasties and cultural evidence require",
+            "  separate spatial anchors and source limits."
+          ],
+          "source_references": [
+            "Buranjis",
+            "Moidams",
+            "UNESCO",
+            "Source criticism",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 08 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Delhi contraction redistributed sovereignty; it did not erase states",
+            "MAP -> delta, coast, plateau, Ganga plain, valley and Brahmaputra",
+            "MECHANISM -> resources + routes + elites + revenue + court legitimacy",
+            "COMPARE -> Bengal, Gujarat, Malwa, Jaunpur and Kashmir without flattening",
+            "EXTEND -> Paik, Buranjis and Charaideo within a strict Ahom boundary",
+            "CLOSE -> plural regional capacity shaped the setting inherited by later empires."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Regional state system",
+            "Ahom boundary",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\08_Provincial-Regional-Kingdoms.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g3\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

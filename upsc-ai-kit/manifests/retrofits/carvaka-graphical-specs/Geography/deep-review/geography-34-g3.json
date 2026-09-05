@@ -1,0 +1,1199 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-34",
+  "subject": "Geography",
+  "title": "WORLD REGIONAL GEOGRAPHY: CONTINENTS AND COUNTRIES",
+  "short_route": "FRAMES OF REGIONAL ANALYSIS → CONTINENTAL PATTERN ANCHORS → MACRO-REGION ORGANISING LOGIC → PHYSICAL FRAME TO ECONOMIC → LEFT-TO-RIGHT LOCATING CHAIN → EIGHT COMPARISON AXES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-34-deep-review-2026-09-02-g3.json",
+  "ascii_spec_sha256": "486e9d964c6310a9b2142814a758ae8ae0bf8ec0914bfb7ecae6ab5a7222189b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FRAMES OF REGIONAL ANALYSIS",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FRAMES OF REGIONAL ANALYSIS",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST-ORDER LANDMASS FRAME USED TO OPEN THE ANSWER",
+          "role": "outcome"
+        },
+        {
+          "text": "AREA WITH INTERNAL PHYSICAL, CULTURAL OR ECONOMIC COHERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENTIATED PART SUCH AS MAINLAND VERSUS MARITIME SOUTH-EAST ASIA",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITION BELT",
+          "role": "primary"
+        },
+        {
+          "text": "GRADIENT ZONE SUCH AS THE SAHEL, BELONGING FULLY TO",
+          "role": "outcome"
+        },
+        {
+          "text": "MIDDLE EAST, LATIN AMERICA, NORDIC",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL SHORTHAND, NEVER A CONTINENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTINENT → first-order landmass frame used to open the answer",
+        "REGION → area with internal physical, cultural or economic coherence",
+        "SUB-REGION → differentiated part such as mainland versus maritime South-East Asia",
+        "TRANSITION BELT → gradient zone such as the Sahel, belonging fully to neither side",
+        "LABEL → Middle East, Latin America, Nordic: regional shorthand, never a continent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONTINENT → first-order landmass frame used to open the answer",
+            "REGION → area with internal physical, cultural or economic coherence",
+            "SUB-REGION → differentiated part such as mainland versus maritime South-East Asia"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSITION BELT → gradient zone such as the Sahel, belonging fully to neither side",
+            "LABEL → Middle East, Latin America, Nordic: regional shorthand, never a continent",
+            "MUST REMEMBER: World regional geography synthesises location, physiography, drainage, climate, biomes, resources, population and economy rather than memorising"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "every continent is reconstructed through plate-relief belts, wind/current controls, river basins, settlement cores and strategic interfaces."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: World regional geography synthesises location, physiography, drainage, climate, biomes, resources, population and economy rather than memorising country lists; every continent is reconstructed through plate-relief belts, wind/current controls, river basins, settlement cores and strategic interfaces.",
+      "source_references": [
+        "What regional geography does",
+        "First frame and second frame",
+        "Category discipline",
+        "Transition-belt concept",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONTINENTAL PATTERN ANCHORS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTINENTAL PATTERN ANCHORS",
+          "role": "primary"
+        },
+        {
+          "text": "LARGEST IN AREA AND POPULATION IN THE SOURCE FRAMEWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "PLATEAUX, RIFT VALLEY AND THE DESERT-SAVANNA-RAINFOREST SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PENINSULAR, RIVER-LINKED, DENSELY URBANISED INTERACTION SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORDILLERA WITH INTERIOR PLAINS NORTH; ANDES, AMAZON AND PAMPAS",
+          "role": "primary"
+        },
+        {
+          "text": "ANTARCTICA AND AUSTRALIA",
+          "role": "outcome"
+        },
+        {
+          "text": "POLAR DESERT UNDER ICE; SMALLEST CONTINENT WITH ARID INTERIOR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ASIA → largest in area and population in the source framework; greatest sub-regional variety",
+        "AFRICA → plateaux, rift valley and the desert-savanna-rainforest sequence",
+        "EUROPE → peninsular, river-linked, densely urbanised interaction space",
+        "AMERICAS → Cordillera with interior plains north; Andes, Amazon and Pampas south",
+        "ANTARCTICA AND AUSTRALIA → polar desert under ice; smallest continent with arid interior"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ASIA → largest in area and population in the source framework; greatest sub-regional variety",
+          "EUROPE → peninsular, river-linked, densely urbanised interaction space",
+          "ANTARCTICA AND AUSTRALIA → polar desert under ice; smallest continent with arid interior"
+        ],
+        [
+          "AFRICA → plateaux, rift valley and the desert-savanna-rainforest sequence",
+          "AMERICAS → Cordillera with interior plains north; Andes, Amazon and Pampas south",
+          "ASIA → largest in area and population in the source framework; greatest sub-regional variety"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ASIA → largest in area and population in the source framework; greatest sub-regional variety",
+            "AFRICA → plateaux, rift valley and the desert-savanna-rainforest sequence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EUROPE → peninsular, river-linked, densely urbanised interaction space",
+            "AMERICAS → Cordillera with interior plains north; Andes, Amazon and Pampas south"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANTARCTICA AND AUSTRALIA → polar desert under ice; smallest continent with arid interior",
+            "ASIA → largest in area and population in the source framework; greatest sub-regional variety"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANTARCTICA AND AUSTRALIA → polar desert under ice; smallest continent with arid interior.",
+      "source_references": [
+        "Continental first-order pattern",
+        "Physiographic-economic pairing",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MACRO-REGION ORGANISING LOGIC",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MACRO-REGION ORGANISING LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTH-WEST ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "ARID PLATEAU, DESERT AND CHOKEPOINT INTERFACES",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTH ASIA",
+          "role": "evidence"
+        },
+        {
+          "text": "MONSOON DOMAIN FRAMED BY THE HIMALAYA AND THE INDIAN",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTH-EAST ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINLAND RIVER BASINS PLUS A MARITIME ARCHIPELAGIC WORLD",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL ASIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOUTH-WEST ASIA → arid plateau, desert and chokepoint interfaces",
+        "SOUTH ASIA → monsoon domain framed by the Himalaya and the Indian Ocean",
+        "SOUTH-EAST ASIA → mainland river basins plus a maritime archipelagic world",
+        "CENTRAL ASIA → interior steppe, basin and mountain knotlands with transit dependence",
+        "AFRICA SPLIT → Sahara divides, but the Sahel is the transition belt between the halves"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOUTH-WEST ASIA → arid plateau, desert and chokepoint interfaces",
+          "SOUTH-EAST ASIA → mainland river basins plus a maritime archipelagic world",
+          "AFRICA SPLIT → Sahara divides, but the Sahel is the transition belt between the halves"
+        ],
+        [
+          "SOUTH ASIA → monsoon domain framed by the Himalaya and the Indian Ocean",
+          "CENTRAL ASIA → interior steppe, basin and mountain knotlands with transit dependence",
+          "SOUTH-WEST ASIA → arid plateau, desert and chokepoint interfaces"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOUTH-WEST ASIA → arid plateau, desert and chokepoint interfaces",
+            "SOUTH ASIA → monsoon domain framed by the Himalaya and the Indian Ocean"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTH-EAST ASIA → mainland river basins plus a maritime archipelagic world",
+            "CENTRAL ASIA → interior steppe, basin and mountain knotlands with transit dependence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AFRICA SPLIT → Sahara divides, but the Sahel is the transition belt between the halves",
+            "SOUTH-WEST ASIA → arid plateau, desert and chokepoint interfaces"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFRICA SPLIT → Sahara divides, but the Sahel is the transition belt between the halves.",
+      "source_references": [
+        "Macro-region catalogue",
+        "Transition-belt concept",
+        "Landlocked structural penalty",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PHYSICAL FRAME TO ECONOMIC ASSOCIATION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PHYSICAL FRAME TO ECONOMIC ASSOCIATION",
+          "role": "primary"
+        },
+        {
+          "text": "SAHARA, ATLAS, NILE",
+          "role": "outcome"
+        },
+        {
+          "text": "OASIS BELTS, MEDITERRANEAN COAST AND THE SUEZ GATEWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGO BASIN AND PLATEAUX",
+          "role": "evidence"
+        },
+        {
+          "text": "MINING, PLANTATION BELTS AND PASTORAL MARGINS",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH EUROPEAN PLAIN AND RIVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "DENSE TRANSPORT, MANUFACTURING AND PORT ECONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORDILLERA AND GREAT PLAINS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAHARA, ATLAS, NILE → oasis belts, Mediterranean coast and the Suez gateway",
+        "CONGO BASIN AND PLATEAUX → mining, plantation belts and pastoral margins",
+        "NORTH EUROPEAN PLAIN AND RIVERS → dense transport, manufacturing and port economy",
+        "CORDILLERA AND GREAT PLAINS → wheat belt, industrial corridor and energy basins",
+        "ANDES, AMAZON, PAMPAS → copper west, rainforest core, temperate farming south"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAHARA, ATLAS, NILE → oasis belts, Mediterranean coast and the Suez gateway",
+            "CONGO BASIN AND PLATEAUX → mining, plantation belts and pastoral margins"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NORTH EUROPEAN PLAIN AND RIVERS → dense transport, manufacturing and port economy",
+            "CORDILLERA AND GREAT PLAINS → wheat belt, industrial corridor and energy basins"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANDES, AMAZON, PAMPAS → copper west, rainforest core, temperate farming south",
+            "SAHARA, ATLAS, NILE → oasis belts, Mediterranean coast and the Suez gateway"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANDES, AMAZON, PAMPAS → copper west, rainforest core, temperate farming south.",
+      "source_references": [
+        "Physiographic-economic pairing",
+        "Continental first-order pattern",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LEFT-TO-RIGHT LOCATING CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LEFT-TO-RIGHT LOCATING CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ATLANTIC WORLD",
+          "role": "outcome"
+        },
+        {
+          "text": "EUROPE WITH ITS PLAINS, PENINSULAS AND ALPINE SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "WEST ASIA",
+          "role": "evidence"
+        },
+        {
+          "text": "ARABIAN AND IRANIAN CORE WITH DESERT-PLATEAU GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTH ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "HIMALAYAN-MONSOON CORE OPENING ON THE INDIAN OCEAN",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTH-EAST ASIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ATLANTIC WORLD → Europe with its plains, peninsulas and Alpine spine",
+        "WEST ASIA → Arabian and Iranian core with desert-plateau geography",
+        "SOUTH ASIA → Himalayan-monsoon core opening on the Indian Ocean",
+        "SOUTH-EAST ASIA → Malacca-facing archipelagic and mainland passage world",
+        "RULE → place the feature in a region first, then inside its continent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ATLANTIC WORLD → Europe with its plains, peninsulas and Alpine spine",
+            "WEST ASIA → Arabian and Iranian core with desert-plateau geography"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTH ASIA → Himalayan-monsoon core opening on the Indian Ocean",
+            "SOUTH-EAST ASIA → Malacca-facing archipelagic and mainland passage world"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → place the feature in a region first, then inside its continent",
+            "ATLANTIC WORLD → Europe with its plains, peninsulas and Alpine spine"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → place the feature in a region first, then inside its continent.",
+      "source_references": [
+        "Left-to-right map chain",
+        "Feature-not-capital trap",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EIGHT COMPARISON AXES",
+      "structural_type": "institutional-ladder",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EIGHT COMPARISON AXES",
+          "role": "primary"
+        },
+        {
+          "text": "LOCATION AND SITUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LATITUDE, COASTAL OR LANDLOCKED, PROXIMITY TO ROUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURE AND CLIMATE",
+          "role": "evidence"
+        },
+        {
+          "text": "SHIELD, FOLD BELT, BASIN; REGIME AND RELIABILITY OF WATER",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCES AND PEOPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSIBILITY AND PROCESSING; DENSITY AND URBANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMY AND CONNECTIVITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOCATION AND SITUATION → latitude, coastal or landlocked, proximity to routes",
+        "STRUCTURE AND CLIMATE → shield, fold belt, basin; regime and reliability of water",
+        "RESOURCES AND PEOPLE → accessibility and processing; density and urbanisation",
+        "ECONOMY AND CONNECTIVITY → sectoral composition; ports, corridors and chokepoints",
+        "CONSTRAINTS → hazard, water stress, fragmentation and resource dependence"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LOCATION AND SITUATION → latitude, coastal or landlocked, proximity to routes",
+          "RESOURCES AND PEOPLE → accessibility and processing; density and urbanisation",
+          "CONSTRAINTS → hazard, water stress, fragmentation and resource dependence"
+        ],
+        [
+          "STRUCTURE AND CLIMATE → shield, fold belt, basin; regime and reliability of water",
+          "ECONOMY AND CONNECTIVITY → sectoral composition; ports, corridors and chokepoints",
+          "LOCATION AND SITUATION → latitude, coastal or landlocked, proximity to routes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCATION AND SITUATION → latitude, coastal or landlocked, proximity to routes",
+            "STRUCTURE AND CLIMATE → shield, fold belt, basin; regime and reliability of water"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESOURCES AND PEOPLE → accessibility and processing; density and urbanisation",
+            "ECONOMY AND CONNECTIVITY → sectoral composition; ports, corridors and chokepoints"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSTRAINTS → hazard, water stress, fragmentation and resource dependence",
+            "LOCATION AND SITUATION → latitude, coastal or landlocked, proximity to routes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTRAINTS → hazard, water stress, fragmentation and resource dependence.",
+      "source_references": [
+        "Eight comparison axes",
+        "Comparison method rule",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COMPARISON VERSUS DESCRIPTION FORK",
+      "structural_type": "decision-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARISON VERSUS DESCRIPTION FORK",
+          "role": "comparison"
+        },
+        {
+          "text": "QUESTION ASKS FOR A COMPARISON",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECT FOUR OR FIVE RELEVANT AXES",
+          "role": "comparison"
+        },
+        {
+          "text": "IF EACH AXIS IS APPLIED TO BOTH REGIONS IN",
+          "role": "evidence"
+        },
+        {
+          "text": "IT READS AS COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "IF THE REGIONS ARE DESCRIBED ONE AFTER THE OTHER",
+          "role": "outcome"
+        },
+        {
+          "text": "IT IS MARKED AS DESCRIPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME THE DECISIVE AXIS ON WHICH THE TWO DIFFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION ASKS FOR A COMPARISON → select four or five relevant axes",
+        "IF each axis is applied to both regions in one paragraph → it reads as",
+        "IF the regions are described one after the other → it is marked as description",
+        "THEN → name the decisive axis on which the two differ most",
+        "FINALLY → give the counter-case axis on which they are alike, then a graded verdict"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "QUESTION ASKS FOR A COMPARISON → select four or five relevant axes",
+          "IF the regions are described one after the other → it is marked as description",
+          "FINALLY → give the counter-case axis on which they are alike, then a graded verdict"
+        ],
+        [
+          "IF each axis is applied to both regions in one paragraph → it reads as comparison",
+          "THEN → name the decisive axis on which the two differ most",
+          "QUESTION ASKS FOR A COMPARISON → select four or five relevant axes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "QUESTION ASKS FOR A COMPARISON → select four or five relevant axes",
+            "IF each axis is applied to both regions in one paragraph → it reads as comparison"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IF the regions are described one after the other → it is marked as description",
+            "THEN → name the decisive axis on which the two differ most"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FINALLY → give the counter-case axis on which they are alike, then a graded verdict",
+            "QUESTION ASKS FOR A COMPARISON → select four or five relevant axes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINALLY → give the counter-case axis on which they are alike, then a graded verdict.",
+      "source_references": [
+        "Comparison method rule",
+        "Eight comparison axes",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LANDLOCKED PENALTY AND ROUTE POSITION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LANDLOCKED PENALTY AND ROUTE POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "INTERIOR LOCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENCE ON A NEIGHBOUR'S PORTS, ROADS AND GOODWILL",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGHER FREIGHT COST, LONGER TRANSIT, NO INDEPENDENT TRADE GUARANTEE",
+          "role": "caution"
+        },
+        {
+          "text": "TRANSIT AGREEMENTS AND CORRIDOR PROJECTS GAIN DISPROPORTIONATE WEIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTE POSITION ON A LANE OR LAND BRIDGE OFTEN",
+          "role": "outcome"
+        },
+        {
+          "text": "SITUATION IS RELATIVE; A NEW CANAL, CORRIDOR OR CLOSURE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INTERIOR LOCATION → dependence on a neighbour's ports, roads and goodwill",
+        "CONSEQUENCE → higher freight cost, longer transit, no independent trade guarantee",
+        "RESPONSE → transit agreements and corridor projects gain disproportionate weight",
+        "CONTRAST → route position on a lane or land bridge often outweighs endowment",
+        "CAUTION → situation is relative; a new canal, corridor or closure rewrites it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTERIOR LOCATION → dependence on a neighbour's ports, roads and goodwill",
+            "CONSEQUENCE → higher freight cost, longer transit, no independent trade guarantee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE → transit agreements and corridor projects gain disproportionate weight",
+            "CONTRAST → route position on a lane or land bridge often outweighs endowment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → situation is relative; a new canal, corridor or closure rewrites it",
+            "INTERIOR LOCATION → dependence on a neighbour's ports, roads and goodwill"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → situation is relative; a new canal, corridor or closure rewrites it.",
+      "source_references": [
+        "Landlocked structural penalty",
+        "Situation outweighs site",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SEVEN-STEP REGIONAL METHOD",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SEVEN-STEP REGIONAL METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "LOCATE AND DELIMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE WHAT BOUNDS THE REGION AND WHAT IT EXCLUDES",
+          "role": "institution"
+        },
+        {
+          "text": "PHYSICAL BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "STRUCTURE, RELIEF, CLIMATE REGIME AND HAZARD EXPOSURE",
+          "role": "primary"
+        },
+        {
+          "text": "CORRIDOR, COAST OR INTERIOR POSITION AND ITS COST CONSEQUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESOURCES, PEOPLE, OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "ENDOWMENT, SETTLEMENT PATTERN, ECONOMIC RESULT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOCATE AND DELIMIT → state what bounds the region and what it excludes",
+        "PHYSICAL BASE → structure, relief, climate regime and hazard exposure",
+        "ACCESSIBILITY → corridor, coast or interior position and its cost consequence",
+        "RESOURCES, PEOPLE, OUTCOME → endowment, settlement pattern, economic result",
+        "SYNTHESIS AND QUALIFICATION → compound causation, then internal non-uniformity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCATE AND DELIMIT → state what bounds the region and what it excludes",
+            "PHYSICAL BASE → structure, relief, climate regime and hazard exposure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCESSIBILITY → corridor, coast or interior position and its cost consequence",
+            "RESOURCES, PEOPLE, OUTCOME → endowment, settlement pattern, economic result"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SYNTHESIS AND QUALIFICATION → compound causation, then internal non-uniformity",
+            "LOCATE AND DELIMIT → state what bounds the region and what it excludes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS AND QUALIFICATION → compound causation, then internal non-uniformity.",
+      "source_references": [
+        "Seven-step regional method",
+        "North-east India worked case",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TWO WORKED REGIONS COMPARED",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO WORKED REGIONS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "HILL-AND-VALLEY CORRIDOR REGION; EAST-WEST RAINFALL-GRADIENT BELT",
+          "role": "outcome"
+        },
+        {
+          "text": "PHYSICAL BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "FOLD RANGES, VERY HIGH RAINFALL, SEISMICITY; SEMI-ARID, VARIABLE RAINFALL",
+          "role": "evidence"
+        },
+        {
+          "text": "NARROW LAND CORRIDOR RAISING COST; INTERIOR LOCATION FAR FROM",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY ACTIVITY AND OUT-MIGRATION; RAIN-FED CEREALS AND PASTORALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED LESSON",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCTIVENESS IS COMPOUND, AND NEITHER REGION IS INTERNALLY UNIFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DELIMITATION → hill-and-valley corridor region; east-west rainfall-gradient belt",
+        "PHYSICAL BASE → fold ranges, very high rainfall, seismicity; semi-arid, variable rainfall",
+        "ACCESS → narrow land corridor raising cost; interior location far from any port",
+        "ECONOMY → primary activity and out-migration; rain-fed cereals and pastoralism",
+        "SHARED LESSON → distinctiveness is compound, and neither region is internally uniform"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DELIMITATION → hill-and-valley corridor region; east-west rainfall-gradient belt",
+          "ECONOMY → primary activity and out-migration; rain-fed cereals and pastoralism",
+          "America with South America, Sahel with Sahara, mainland with maritime Southeast Asia, and"
+        ],
+        [
+          "PHYSICAL BASE → fold ranges, very high rainfall, seismicity; semi-arid, variable rainfall",
+          "SHARED LESSON → distinctiveness is compound, and neither region is internally uniform",
+          "a continent, cultural region, economic bloc and political boundary answer different map questions."
+        ],
+        [
+          "ACCESS → narrow land corridor raising cost; interior location far from any port",
+          "CLOSE DISTINCTION: Europe is not coterminous with the EU, Middle East with West Asia, Latin",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DELIMITATION → hill-and-valley corridor region; east-west rainfall-gradient belt",
+            "PHYSICAL BASE → fold ranges, very high rainfall, seismicity; semi-arid, variable rainfall",
+            "ACCESS → narrow land corridor raising cost; interior location far from any port"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECONOMY → primary activity and out-migration; rain-fed cereals and pastoralism",
+            "SHARED LESSON → distinctiveness is compound, and neither region is internally uniform",
+            "CLOSE DISTINCTION: Europe is not coterminous with the EU, Middle East with West Asia, Latin"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "America with South America, Sahel with Sahara, mainland with maritime Southeast Asia, and",
+            "a continent, cultural region, economic bloc and political boundary answer different map questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "America with South America, Sahel with Sahara, mainland with maritime Southeast Asia, and a continent, cultural region, economic bloc and political boundary answer different map questions.",
+      "source_references": [
+        "North-east India worked case",
+        "Sahel worked case",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA OUTWARD ARCS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIA OUTWARD ARCS",
+          "role": "primary"
+        },
+        {
+          "text": "ARABIAN SEA TO GULF AND RED SEA APPROACHES TO",
+          "role": "outcome"
+        },
+        {
+          "text": "BAY OF BENGAL TO ANDAMAN SEA TOWARD MALACCA-ORIENTED PASSAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "HIMALAYA AND KARAKORAM BARRIER WITH TRANSIT-CONSTRAINED CENTRAL ASIA",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "MYANMAR IS THE ONLY OVERLAND ENTRY TO MAINLAND SOUTH-EAST",
+          "role": "outcome"
+        },
+        {
+          "text": "MARITIME-HEAVY WEST AND EAST, BARRIER-HEAVY NORTH",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WEST → Arabian Sea to Gulf and Red Sea approaches to the Suez corridor",
+        "EAST → Bay of Bengal to Andaman Sea toward Malacca-oriented passages",
+        "NORTH → Himalaya and Karakoram barrier with transit-constrained Central Asia",
+        "LAND BRIDGE → Myanmar is the only overland entry to mainland South-East Asia",
+        "READING → maritime-heavy west and east, barrier-heavy north"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WEST → Arabian Sea to Gulf and Red Sea approaches to the Suez corridor",
+            "EAST → Bay of Bengal to Andaman Sea toward Malacca-oriented passages",
+            "NORTH → Himalaya and Karakoram barrier with transit-constrained Central Asia"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAND BRIDGE → Myanmar is the only overland entry to mainland South-East Asia",
+            "READING → maritime-heavy west and east, barrier-heavy north",
+            "EVIDENCE LIMIT: Andes–Amazon–Pampas, Rockies–Great Lakes–Mississippi, Alps–North European"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Plain, Atlas–Sahara–Sahel–Congo–Rift, West Siberian Plain–Central Asian basins–monsoon Asia, and Australian interior/eastern rim provide comparable regional spines",
+            "country data and geopolitical status remain source-dated."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Plain, Atlas–Sahara–Sahel–Congo–Rift, West Siberian Plain–Central Asian basins–monsoon Asia, and Australian interior/eastern rim provide comparable regional spines; country data and geopolitical status remain source-dated.",
+      "source_references": [
+        "India's outward arcs",
+        "Neighbourhood anchors",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "KALADAN CORRIDOR AND MAPWORK REVIVAL",
+      "structural_type": "institutional-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "KALADAN CORRIDOR AND MAPWORK REVIVAL",
+          "role": "primary"
+        },
+        {
+          "text": "SEA LEG ACROSS THE BAY OF BENGAL TO THE",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT NODE WHERE THE MARITIME LEG MEETS THE KALADAN",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVER TERMINUS AND START OF THE ROAD SEGMENT STILL",
+          "role": "evidence"
+        },
+        {
+          "text": "BORDER CROSSING INTO MIZORAM COMPLETING THE MULTIMODAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE THE 2027 OFFICIAL TARGET, NEVER AN ACHIEVED COMPLETION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "KOLKATA → sea leg across the Bay of Bengal to the Rakhine coast",
+        "SITTWE → port node where the maritime leg meets the Kaladan river route",
+        "PALETWA → river terminus and start of the road segment still under construction",
+        "ZORINPUI → border crossing into Mizoram completing the multimodal chain",
+        "STATUS RULE → state the 2027 official target, never an achieved completion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KOLKATA → sea leg across the Bay of Bengal to the Rakhine coast",
+            "SITTWE → port node where the maritime leg meets the Kaladan river route"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PALETWA → river terminus and start of the road segment still under construction",
+            "ZORINPUI → border crossing into Mizoram completing the multimodal chain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS RULE → state the 2027 official target, never an achieved completion",
+            "KOLKATA → sea leg across the Bay of Bengal to the Rakhine coast"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS RULE → state the 2027 official target, never an achieved completion.",
+      "source_references": [
+        "Kaladan corridor anchor",
+        "Neighbourhood anchors",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\34_World-Regional-Geography-Continents-Countries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S WESTWARD MARITIME GEOGRAPHY RUNS THROUGH THE ARABIAN SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "RED SEA APPROACHES - SUEZ .",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA'S EASTWARD MARITIME GEOGRAPHY RUNS THROUGH THE BAY OF",
+          "role": "evidence"
+        },
+        {
+          "text": "MYANMAR IS INDIA'S ONLY LAND BRIDGE INTO MAINLAND SOUTH-EAST",
+          "role": "primary"
+        },
+        {
+          "text": "BANGLADESH IS THE DELTAIC NEIGHBOUR THAT WRAPS AROUND MUCH",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL ASIA IS CLOSE IN MAP DISTANCE BUT DIFFICULT",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA REACHES CENTRAL ASIA AS EASILY AS IT REACHES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's westward maritime geography runs through the Arabian Sea - Gulf / Red Sea approaches - Suez .",
+            "India's eastward maritime geography runs through the Bay of Bengal - Andaman Sea - Malacca-oriented passages .",
+            "Myanmar is India's only land bridge into mainland South-East Asia.",
+            "Bangladesh is the deltaic neighbour that wraps around much of India's north-east approach."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Central Asia is close in map distance but difficult in access because of mountains and intervening politics.",
+            "NOT: India reaches Central Asia as easily as it reaches South-East Asia - northern barriers are far harder than maritime eastern routes.",
+            "NOT: All Indian outward geography is continental - India's strongest regional leverage is maritime.",
+            "NOT: Country-capital questions are enough - UPSC increasingly combines country with strait, sea, river, plateau, delta or island chain ."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Recurring Prelims theme: country-capital-physical-feature mapping.",
+            "CAUTION: Recurring Prelims theme: identify sea lanes and chokepoints connected to India's trade geography.",
+            "CAUTION: Recurring GS-I / GS-II theme: explain how India's location shapes links with West Asia, South-East Asia, Africa and the Indo-Pacific.",
+            "\"India's regional geography is outward-facing in the seas and constrained in the mountains.\" Discuss."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

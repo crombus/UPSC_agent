@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-06",
+      "display_title": "Landforms of Glaciation / Himalayan Glaciers-GLOF",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Glacier budget",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "ACCUMULATION -> snowfall, avalanche and refreezing",
+            "ELA -> annual gain equals annual loss",
+            "ABLATION -> melt, sublimation and calving where relevant",
+            "NET BALANCE -> geometry responds with a lag",
+            "MUST REMEMBER: Glaciation proceeds through accumulation-ablation balance, ice",
+            "  deformation/basal motion, erosion, transport and deposition; cirque–arête–horn, U-shaped",
+            "  valley, moraine and outwash logic must connect to Himalayan mass balance, proglacial lakes",
+            "  and GLOF cascades."
+          ],
+          "source_references": [
+            "Accumulation, ablation and ELA",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Retreat paradox",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ICE PARTICLES -> continue moving downslope",
+            "TERMINUS -> receives forward ice flux",
+            "ABLATION > DELIVERY -> snout shifts up-valley",
+            "METRIC RULE -> flow direction differs from margin change"
+          ],
+          "source_references": [
+            "Flow, retreat and debris cover",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Erosion suite",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PLUCKING -> jointed blocks removed",
+            "ABRASION -> polish, striae and rock flour",
+            "CIRQUE / ARETE / HORN -> headwall system",
+            "U-TROUGH / HANGING VALLEY -> valley-scale overdeepening"
+          ],
+          "source_references": [
+            "Plucking and abrasion",
+            "Cirque-to-trough erosional suite",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Fjord-ria firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FJORD -> glacial trough later flooded by sea",
+            "RIA -> river valley later drowned by sea",
+            "FJORD CUES -> deep water, steep walls, hanging valleys",
+            "RULE -> inundation preserves different pre-existing valleys"
+          ],
+          "source_references": [
+            "Fjords and rias",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Depositional sorting",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TILL / MORAINE -> direct ice, generally unsorted",
+            "ESKER -> meltwater ridge in or under ice",
+            "OUTWASH -> braided meltwater, relatively sorted",
+            "DRUMLIN -> streamlined drift/till landform"
+          ],
+          "source_references": [
+            "Till, moraine, esker and outwash",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Ice-mass family",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GROUNDED -> glacier, ice cap, ice sheet",
+            "FLOATING -> shelf, iceberg and sea ice",
+            "SEA LEVEL -> grounded loss adds ocean mass",
+            "BUTTRESSING -> shelf loss can accelerate inland discharge"
+          ],
+          "source_references": [
+            "Grounded and floating ice",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Himalayan map hooks",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "GANGOTRI -> Bhagirathi",
+            "ZEMU -> Teesta",
+            "BARA SHIGRI -> Chenab system",
+            "SIACHEN -> Nubra-Shyok-Indus system"
+          ],
+          "source_references": [
+            "Himalayan glacier map hooks",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Water-timing sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY LOSS -> local melt contribution may rise",
+            "STORED ICE DECLINES -> buffering weakens",
+            "LEAN SEASON -> reliability risk grows locally",
+            "QUALIFIER -> monsoon, snow and groundwater vary by basin"
+          ],
+          "source_references": [
+            "Glacier loss and water timing",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Glacial-lake test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "BASIN / DAM -> how water is impounded",
+            "SLOPE + ICE -> possible displacement trigger",
+            "DAM CONDITION -> overtopping, piping or erosion",
+            "DOWNSTREAM -> exposure converts hazard into risk"
+          ],
+          "source_references": [
+            "How glacial lakes form",
+            "Hazard, exposure and South Lhonak",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "GLOF cascade",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TRIGGER -> slope failure, inflow or instability",
+            "WAVE / OVERTOPPING -> dam erosion begins",
+            "BREACH -> sudden release + sediment",
+            "VALLEY -> constrictions and assets shape consequences",
+            "CLOSE DISTINCTION: Snowline, equilibrium-line altitude, firn line and glacier terminus are",
+            "  distinct; till is unsorted ice-laid sediment while outwash is meltwater-sorted, and a fjord",
+            "  is a drowned glacial trough rather than any steep inlet."
+          ],
+          "source_references": [
+            "GLOF trigger-to-breach chain",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Risk-reduction stack",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "SATELLITE INVENTORY -> changing lakes and slopes",
+            "FIELD ASSESSMENT -> dam material and thresholds",
+            "WARNING + DRILLS -> last-mile action",
+            "LAND USE + DESIGN -> reduce exposure and fragility",
+            "EVIDENCE LIMIT: Retreat varies by glacier and period; lake growth alone does not prove",
+            "  imminent outburst, while dam material, freeboard, slope instability, ice/rock avalanches and",
+            "  downstream exposure condition risk."
+          ],
+          "source_references": [
+            "Monitoring and risk reduction",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Cryosphere answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> glacier, lake, GLOF and risk",
+            "MAP -> glacier-basin relation",
+            "EXPLAIN -> budget, trigger and breach",
+            "QUALIFY -> heterogeneity, attribution and data date"
+          ],
+          "source_references": [
+            "Verified routes and cryosphere spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

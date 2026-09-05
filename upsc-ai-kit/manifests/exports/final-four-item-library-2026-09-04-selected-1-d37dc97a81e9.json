@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T13:01:14+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0778302ce2031735e31799b0357e58f41ed18f3ef80251d467d7b24dce13eb3e",
+    "sha256_after": "0778302ce2031735e31799b0357e58f41ed18f3ef80251d467d7b24dce13eb3e",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "World History": 1
+  },
+  "sections": {
+    "World History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9483,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1542,
+    "json_count": 3704,
+    "total_bytes": 4230810618,
+    "by_extension": {
+      ".json": 3704,
+      ".md": 1542,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-08",
+      "topic_title": "Latin American Independence Movements",
+      "subject": "World History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 8,
+      "source_record_id": "world-history-08:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "26f88925ee985e006cd89c84ecc2f9874d6f401626fad63dfecc2b79a9e1977e",
+          "output_sha256": "26f88925ee985e006cd89c84ecc2f9874d6f401626fad63dfecc2b79a9e1977e",
+          "source_output_equal": true,
+          "bytes": 567634
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "08cf8556b24b26a8a4673fc9ca22195c6bc8b8c97211a9278001785d9e646fc8",
+          "output_sha256": "08cf8556b24b26a8a4673fc9ca22195c6bc8b8c97211a9278001785d9e646fc8",
+          "source_output_equal": true,
+          "bytes": 431989
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-08\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "375305e9105096d3a83115e960ba22fa1ea7d601c120f7b71cf48374002cf739",
+          "output_sha256": "375305e9105096d3a83115e960ba22fa1ea7d601c120f7b71cf48374002cf739",
+          "source_output_equal": true,
+          "bytes": 1974390
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-08\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "69742a141ec2b0e623e98c50d034db171372d69c19b0c2494e1c2011a50bf9b3",
+          "output_sha256": "69742a141ec2b0e623e98c50d034db171372d69c19b0c2494e1c2011a50bf9b3",
+          "source_output_equal": true,
+          "bytes": 2452747
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-08\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9889d645ec1ab48963ceaf8bfafff57c8886f029f7972bc5fb7b4f7e25705d4e",
+          "output_sha256": "9889d645ec1ab48963ceaf8bfafff57c8886f029f7972bc5fb7b4f7e25705d4e",
+          "source_output_equal": true,
+          "bytes": 1762090
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-08\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f0820fa1e7db5ae1d199a71866408762c2a3f79962240e8cc2d6bd46fd4bfe3a",
+          "output_sha256": "f0820fa1e7db5ae1d199a71866408762c2a3f79962240e8cc2d6bd46fd4bfe3a",
+          "source_output_equal": true,
+          "bytes": 4855
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-08\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\08-Latin-American-Independence-Movements\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "af4ff62cab81d4652edb1e4973e5f26185a58d5be4ae6168bf0268ec5337dcf9",
+          "output_sha256": "af4ff62cab81d4652edb1e4973e5f26185a58d5be4ae6168bf0268ec5337dcf9",
+          "source_output_equal": true,
+          "source_text_sha256": "f0820fa1e7db5ae1d199a71866408762c2a3f79962240e8cc2d6bd46fd4bfe3a",
+          "normalized_text_equal": true,
+          "bytes": 56476
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 65,
+        "solved_practice_workbook": 29,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 29,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10396
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

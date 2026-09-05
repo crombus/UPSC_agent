@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 11",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-11",
+      "display_title": "Organised Crime, Narco-Terrorism and Trafficking",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-11_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Enterprise structure map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ISOLATED OFFENCE -> one event",
+            "NETWORK -> flexible task-based links",
+            "SYNDICATE -> continuing organised association",
+            "ORGANISED CRIME -> coordinated serious crime for material benefit"
+          ],
+          "source_references": [
+            "Organised-crime definition",
+            "Syndicate-network distinction"
+          ]
+        },
+        {
+          "title": "Crime-terror nexus matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ORGANISED CRIME -> PROFIT / PARALLEL ILLICIT ECONOMY",
+            "TERRORISM -> POLITICAL / IDEOLOGICAL COERCION",
+            "SHARED MEANS -> ROUTES / FINANCE / ARMS / PROTECTION",
+            "NARCO-TERRORISM -> proved drug-economy intersection"
+          ],
+          "source_references": [
+            "Crime-terror ends boundary",
+            "Narco-terrorism definition"
+          ]
+        },
+        {
+          "title": "Regional-model diagnostic",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EXTORTION MODEL -> DOMESTIC PARALLEL TAX / PROTECTION",
+            "EXTERNAL MODEL -> CROSS-BORDER / DIASPORA SUPPORT",
+            "ROUTE MODEL -> TRANSIT / MARKET / LOGISTICS NETWORK",
+            "RULE -> intervention follows model, not a uniform slogan"
+          ],
+          "source_references": [
+            "Regional-model variation"
+          ]
+        },
+        {
+          "title": "Route-geography firewall",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "GOLDEN CRESCENT -> BROAD WESTERN SOURCE / TRANSIT EXPOSURE",
+            "GOLDEN TRIANGLE -> BROAD EASTERN SOURCE / TRANSIT EXPOSURE",
+            "INDIA -> BORDER / MARITIME / MARKET VULNERABILITY",
+            "NOT PROVED -> case route, actor or sponsor"
+          ],
+          "source_references": [
+            "Route-geography boundary"
+          ]
+        },
+        {
+          "title": "Safe supply-chain map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOURCE -> TRANSIT -> DISTRIBUTION",
+            "-> PROCEEDS -> LAUNDERING / ASSET CONTROL",
+            "RESPONSE -> intelligence + finance + lawful interdiction",
+            "SAFETY -> no routes, concealment or evasion methods"
+          ],
+          "source_references": [
+            "Non-operational supply chain"
+          ]
+        },
+        {
+          "title": "NDPS property ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "OFFENCE / QUANTITY CATEGORY",
+            "-> SEIZURE + EVIDENCE",
+            "-> PARALLEL FINANCIAL INVESTIGATION",
+            "-> CHAPTER VA / PMLA PROPERTY PROCESS",
+            "-> COURT OUTCOME / FORFEITURE WHERE ORDERED"
+          ],
+          "source_references": [
+            "NDPS framework",
+            "Follow-the-property route"
+          ]
+        },
+        {
+          "title": "Narcotics institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NCB -> CENTRAL NODAL COORDINATION / ENFORCEMENT",
+            "NCORD -> APEX / EXECUTIVE / STATE / DISTRICT",
+            "ANTF -> STATE / UT COORDINATION + FINANCIAL FOCUS",
+            "POLICE / CUSTOMS / BORDER / MARITIME -> OWN MANDATES"
+          ],
+          "source_references": [
+            "NCB mandate",
+            "NCORD architecture",
+            "ANTF role"
+          ]
+        },
+        {
+          "title": "Organised-crime law map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BNS 111 -> ORGANISED CRIME",
+            "BNS 112 -> PETTY ORGANISED CRIME",
+            "STATE SPECIAL LAW -> separate forum / procedure questions",
+            "RULE -> offence coverage does not prove enforcement outcome"
+          ],
+          "source_references": [
+            "BNS organised-crime offences"
+          ]
+        },
+        {
+          "title": "Trafficking-smuggling test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "EXPLOITATION PURPOSE? -> TRAFFICKING ANALYSIS",
+            "PAID IRREGULAR ENTRY? -> MIGRANT-SMUGGLING ANALYSIS",
+            "BORDER CROSSING -> not required for trafficking",
+            "VICTIM STATUS -> protect; do not presume complicity"
+          ],
+          "source_references": [
+            "Trafficking definition",
+            "Trafficking-smuggling boundary"
+          ]
+        },
+        {
+          "title": "Victim-centred response rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IDENTIFY -> IMMEDIATE SAFETY",
+            "-> LEGAL AID / EVIDENCE / WITNESS PROTECTION",
+            "-> INVESTIGATE RECRUITER / FACILITATOR / PROCEEDS",
+            "-> REHABILITATE / REINTEGRATE / PREVENT RE-TRAFFICKING"
+          ],
+          "source_references": [
+            "Victim-centred response"
+          ]
+        },
+        {
+          "title": "Illicit-market convergence map",
+          "structural_type": "hub-and-spoke",
+          "ascii_lines": [
+            "SHARED CRIMINAL-SERVICE HUB",
+            "-> ARMS | WILDLIFE | FICN | NARCOTICS | EXPLOITATION",
+            "SHARED SERVICES -> documents / corruption / finance / transport",
+            "RULE -> prove the shared link case by case"
+          ],
+          "source_references": [
+            "Illicit-market convergence"
+          ]
+        },
+        {
+          "title": "PYQ and network-outcome rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2018 -> DRUG / LAUNDERING / HUMAN-TRAFFICKING LINK",
+            "2022 -> NATIONAL + TRANSNATIONAL CRIME-TERROR NEXUS",
+            "2024 -> NARCO-TERROR THREAT + COUNTERMEASURES",
+            "END -> NETWORK / MONEY / LOGISTICS / PROTECTION / VICTIM",
+            "QUALIFY -> seizure, notice and arrest are not dismantling"
+          ],
+          "source_references": [
+            "UNTOC-INTERPOL cooperation",
+            "Evidence-status firewall",
+            "Integrated-network end-state"
+          ]
+        }
+      ]
+    }
+  ]
+}

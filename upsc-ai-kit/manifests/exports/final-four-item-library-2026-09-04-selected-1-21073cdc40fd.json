@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T09:17:02+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0f9b8907d2eff669b90c096dd6a576865c8735168b69510e18d4bc5c4e2bdef1",
+    "sha256_after": "0f9b8907d2eff669b90c096dd6a576865c8735168b69510e18d4bc5c4e2bdef1",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8882,
+    "pdf_count": 2287,
+    "png_count": 761,
+    "txt_count": 966,
+    "markdown_count": 1457,
+    "json_count": 3396,
+    "total_bytes": 4051360902,
+    "by_extension": {
+      ".json": 3396,
+      ".md": 1457,
+      ".pdf": 2287,
+      ".png": 761,
+      ".txt": 966,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-04",
+      "topic_title": "The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 4,
+      "source_record_id": "modern-indian-history-04:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "9aa806dd9df166a3a11fef5b8491bd81982668008df1dbec8bbba5cd57771325",
+          "output_sha256": "9aa806dd9df166a3a11fef5b8491bd81982668008df1dbec8bbba5cd57771325",
+          "source_output_equal": true,
+          "bytes": 4502327
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "8aae9750c589e6bf66e1baece29541c1e7d4013f55f2f1647aa798ed1cfb7cd7",
+          "output_sha256": "8aae9750c589e6bf66e1baece29541c1e7d4013f55f2f1647aa798ed1cfb7cd7",
+          "source_output_equal": true,
+          "bytes": 1195541
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-04\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "c9a543d45d1277d5950e3c6f7f951476436ac0c0b1d1c109e7110f00628d0a26",
+          "output_sha256": "c9a543d45d1277d5950e3c6f7f951476436ac0c0b1d1c109e7110f00628d0a26",
+          "source_output_equal": true,
+          "bytes": 2338261
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-04\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "3d0a10a758a256a5d70fdf1618eb165bb117bede1b55e5cfffff924f56e3066d",
+          "output_sha256": "3d0a10a758a256a5d70fdf1618eb165bb117bede1b55e5cfffff924f56e3066d",
+          "source_output_equal": true,
+          "bytes": 2676758
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-04\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "614665976bb34f42e465b908f507edcce9325d5b2b553fae5e48e4f0cf018605",
+          "output_sha256": "614665976bb34f42e465b908f507edcce9325d5b2b553fae5e48e4f0cf018605",
+          "source_output_equal": true,
+          "bytes": 2082519
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-04\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "175a5aa02d8ab67ab373622d1ecd05427dc3d5b08298dc4a7eba6938df1975ee",
+          "output_sha256": "175a5aa02d8ab67ab373622d1ecd05427dc3d5b08298dc4a7eba6938df1975ee",
+          "source_output_equal": true,
+          "bytes": 5481
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-04\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\04-The-British-Conquest-d4b4eee0-1764-Dual-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "d3cedfe586433b6e6b460733b06171efc238e532f3b13677d117c099f4a04e01",
+          "output_sha256": "d3cedfe586433b6e6b460733b06171efc238e532f3b13677d117c099f4a04e01",
+          "source_output_equal": true,
+          "source_text_sha256": "175a5aa02d8ab67ab373622d1ecd05427dc3d5b08298dc4a7eba6938df1975ee",
+          "normalized_text_equal": true,
+          "bytes": 57842
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 79,
+        "solved_practice_workbook": 36,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 79,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 36,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11210
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

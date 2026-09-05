@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-20",
+      "display_title": "India Climate Policy NAPCC Panchamrit LTLEDS",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "India climate-policy timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2008 NAPCC -> domestic mission-based framework",
+            "PARIS NDC -> internationally communicated contribution",
+            "COP26 PANCHAMRIT -> five-part political announcement",
+            "2022 UPDATED NDC -> strengthened communicated 2030 terms",
+            "2022 LT-LEDS -> long-horizon low-carbon development strategy",
+            "MUST REMEMBER: India's climate policy combines NAPCC missions, NDCs, Panchamrit..."
+          ],
+          "source_references": [
+            "NAPCC identity",
+            "Panchamrit status",
+            "Updated NDC quantified terms",
+            "LT-LEDS identity",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Original mission map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "MITIGATION-HEAVY -> solar and enhanced energy efficiency",
+            "ADAPTATION-HEAVY -> water, Himalaya and agriculture",
+            "CROSS-CUTTING -> habitat, Green India and strategic knowledge",
+            "CO-BENEFITS -> development, resilience and environmental quality",
+            "COUNT RULE -> eight original missions in the 2008 architecture"
+          ],
+          "source_references": [
+            "Original eight missions",
+            "Mitigation-adaptation portfolio",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Centre-state implementation rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NAPCC MISSION -> national direction",
+            "MINISTRY OR AGENCY -> programme and guidance",
+            "SAPCC -> state-context translation",
+            "BUDGET AND EXECUTION -> implementation evidence",
+            "MONITORING AND OUTCOME -> separate verification stage"
+          ],
+          "source_references": [
+            "SAPCC boundary",
+            "Target-achievement distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Panchamrit five-part board",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "500 GW -> non-fossil capacity by 2030",
+            "50 PERCENT -> energy requirements from renewables by 2030",
+            "ONE BILLION TONNES -> projected carbon-emissions reduction by 2030",
+            "45 PERCENT -> emissions-intensity reduction from 2005 by 2030",
+            "2070 -> announced net-zero destination"
+          ],
+          "source_references": [
+            "Panchamrit status",
+            "Panchamrit five elements",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Target-type classifier",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CAPACITY -> installed power quantity",
+            "SHARE -> renewable fraction of energy requirements",
+            "PROJECTED REDUCTION -> counterfactual-dependent emissions quantity",
+            "INTENSITY -> emissions per unit of GDP",
+            "NET ZERO -> economy-wide net balance with defined boundary"
+          ],
+          "source_references": [
+            "Panchamrit five elements",
+            "Intensity-absolute distinction",
+            "Gross-net distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Pledge-to-NDC firewall",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "COP26 SPEECH -> announced Panchamrit",
+            "OFFICIAL NDC DOCUMENT -> communicated international contribution",
+            "2022 QUANTIFIED TERMS -> intensity and non-fossil capacity",
+            "FOREST SINK -> continuing NDC objective, not Panchamrit item six",
+            "RULE -> no automatic one-to-one conversion of every phrase"
+          ],
+          "source_references": [
+            "Updated NDC quantified terms",
+            "Forest-sink continuity",
+            "Panchamrit-NDC boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "LT-LEDS pathway map",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "ELECTRICITY -> lower-carbon supply and system transition",
+            "TRANSPORT AND CITIES -> integrated mobility and urban efficiency",
+            "INDUSTRY -> lower-emission growth and technology pathways",
+            "REMOVALS AND LAND -> carbon dioxide removal and vegetative cover",
+            "FINANCE AND ECONOMY -> enabling transition conditions"
+          ],
+          "source_references": [
+            "LT-LEDS identity",
+            "LT-LEDS pathway families",
+            "Sector-interdependency",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Net-zero status ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ANNOUNCED YEAR -> political long-term destination",
+            "LT-LEDS -> strategic pathways",
+            "SECTOR POLICY -> programmes and regulation",
+            "MEASURED TRAJECTORY -> source-dated emissions and removals",
+            "NET RESULT -> defined economy-wide balance, not one milestone"
+          ],
+          "source_references": [
+            "Net-zero pathway boundary",
+            "Gross-net distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Climate-accounting matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ABSOLUTE EMISSIONS -> total flow",
+            "EMISSIONS INTENSITY -> flow per unit of GDP",
+            "GROSS REMOVALS -> sink uptake before netting",
+            "NET EMISSIONS -> emissions minus removals within boundary",
+            "BASELINE AND YEAR -> mandatory for comparison"
+          ],
+          "source_references": [
+            "Intensity-absolute distinction",
+            "Gross-net distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Energy-denominator firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INSTALLED CAPACITY -> rated power-system capacity",
+            "ELECTRICITY GENERATION -> energy actually produced",
+            "NON-FOSSIL -> source classification broader than renewables",
+            "TOTAL ENERGY REQUIREMENTS -> wider denominator than electricity",
+            "NO RELABELLING -> each metric needs its own source and date",
+            "CLOSE DISTINCTION: Panchamrit political announcement is not identical to the updated NDC..."
+          ],
+          "source_references": [
+            "Capacity-generation-energy distinction",
+            "Target-achievement distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Reporting-instrument matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NDC -> forward nationally determined contribution",
+            "LT-LEDS -> long-term strategic pathway",
+            "BUR -> backward-looking inventory and progress reporting",
+            "TARGET -> intended result",
+            "ACHIEVEMENT -> verified result on the same metric",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State source, announcement or submission..."
+          ],
+          "source_references": [
+            "Target-achievement distinction",
+            "BUR-NDC-LTLEDS distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "India climate answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "MAP -> NAPCC, SAPCC, Panchamrit, NDC and LT-LEDS",
+            "CLASSIFY -> mitigation, adaptation and target type",
+            "DISTINGUISH -> pledge, communication, strategy and report",
+            "MEASURE -> baseline, denominator, gross, net and as-on date",
+            "EVALUATE -> equity, co-benefits, interdependency and delivery"
+          ],
+          "source_references": [
+            "Co-benefits and equity",
+            "Sector-interdependency",
+            "Current-status evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g3\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

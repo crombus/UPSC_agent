@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "World History learner-v2 Topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-05",
+      "display_title": "Congress of Vienna and Concert of Europe",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\05_Congress-of-Vienna-and-Concert-of-Europe_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Vienna's starting problem",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "NAPOLEON DEFEATED -> Europe needs reconstruction",
+            "FEAR 1 -> renewed French hegemony",
+            "FEAR 2 -> revolutionary and national contagion",
+            "VIENNA 1814-15 -> strategic peace plus conservative restoration"
+          ],
+          "source_references": [
+            "Post-Napoleonic reconstruction"
+          ]
+        },
+        {
+          "title": "Three settlement principles",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEGITIMACY -> restore dynasties",
+            "BALANCE OF POWER -> contain France with buffers",
+            "COMPENSATION -> reward victors with territory",
+            "COMMON LIMIT -> populations do not supply consent"
+          ],
+          "source_references": [
+            "Legitimacy and dynastic restoration",
+            "Balance of power and buffers",
+            "Compensation and territorial bargaining"
+          ]
+        },
+        {
+          "title": "Northern and central map logic",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NETHERLANDS -> Belgium + Holland buffer France",
+            "GERMAN LANDS -> 39-state Confederation under Austria",
+            "PRUSSIA -> Rhineland, Westphalia and part of Saxony",
+            "SWITZERLAND -> neutrality recognised"
+          ],
+          "source_references": [
+            "Balance of power and buffers",
+            "Germany: unity postponed",
+            "Poland, Prussia and Switzerland"
+          ]
+        },
+        {
+          "title": "Italian and Polish deferral",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ITALY -> Austria gets Lombardy and Venetia",
+            "PIEDMONT -> strengthened by Genoa",
+            "POLAND -> Congress Poland under Russian control",
+            "RESULT -> national questions postponed, not resolved"
+          ],
+          "source_references": [
+            "Italy: Austrian control and Piedmont's strengthening",
+            "Poland, Prussia and Switzerland"
+          ]
+        },
+        {
+          "title": "Concert operating mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GREAT POWERS -> consult rather than fight immediately",
+            "CONGRESSES -> periodic management of disputes",
+            "STATUS QUO -> territorial and political order defended",
+            "LIMIT -> no permanent treaty-state or democratic representation"
+          ],
+          "source_references": [
+            "The Concert as diplomatic practice"
+          ]
+        },
+        {
+          "title": "Concert versus Holy Alliance",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONCERT -> broad practical great-power consultation",
+            "HOLY ALLIANCE -> Russia, Austria, Prussia; symbolic conservatism",
+            "OVERLAP -> both emerge in 1815 order",
+            "RULE -> never use the names as synonyms"
+          ],
+          "source_references": [
+            "Holy Alliance and practical limits"
+          ]
+        },
+        {
+          "title": "Reintegration and repression",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AIX 1818 -> France readmitted to consultation",
+            "CARLSBAD 1819 -> censorship and university control",
+            "EXTERNAL LOGIC -> include a former enemy",
+            "INTERNAL LOGIC -> exclude liberal-national dissent"
+          ],
+          "source_references": [
+            "Aix-la-Chapelle and reintegration",
+            "Carlsbad and domestic repression"
+          ]
+        },
+        {
+          "title": "Intervention congress sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "TROPPAU 1820 -> intervention principle asserted",
+            "LAIBACH 1821 -> intervention against revolution applied",
+            "VERONA 1822 -> French intervention in Spain approved",
+            "AFTER VERONA -> old congress rhythm weakens"
+          ],
+          "source_references": [
+            "Intervention at Troppau, Laibach and Verona"
+          ]
+        },
+        {
+          "title": "Belgium tests flexibility",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1815 -> Belgium joined with Holland as buffer",
+            "1830 -> Belgian revolt breaks the arrangement",
+            "CONCERT -> accepts independence",
+            "LESSON -> adaptation can preserve wider equilibrium"
+          ],
+          "source_references": [
+            "Belgium and selective adaptation"
+          ]
+        },
+        {
+          "title": "1848 pressure and failure",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PRESSURE -> national + liberal + social grievances converge",
+            "DIVISION -> liberals, nationalists and workers differ",
+            "CONFLICT -> national claims collide in multinational empires",
+            "FORCE -> dynastic armies remain loyal and reverse revolutions"
+          ],
+          "source_references": [
+            "Why 1848 came and failed"
+          ]
+        },
+        {
+          "title": "Vienna's unintended gravediggers",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PRUSSIA GAINS RHINELAND -> stronger western base",
+            "PIEDMONT GAINS GENOA -> stronger Italian state",
+            "VIENNA INTENT -> reinforce conservative balance",
+            "LATER RESULT -> strengthened states lead national unification"
+          ],
+          "source_references": [
+            "Compensation and territorial bargaining",
+            "Italy: Austrian control and Piedmont's strengthening"
+          ]
+        },
+        {
+          "title": "Peace-versus-repression spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SUCCESS -> no renewed Napoleonic hegemony",
+            "METHOD -> balance, reintegration and consultation",
+            "COST -> censorship, intervention and denied nationality",
+            "VERDICT -> peace among powers, legitimacy deficit among peoples"
+          ],
+          "source_references": [
+            "Peace, repression and the final verdict"
+          ]
+        }
+      ]
+    }
+  ]
+}

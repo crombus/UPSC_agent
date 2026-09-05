@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-32",
+  "control_date": "2026-08-28",
+  "approval": false,
+  "constitutional_sources": [
+    "Articles 148-151 and Article 279"
+  ],
+  "statutory_sources": [
+    "CAG DPC Act 1971 sections 3-4 and 10-24",
+    "Companies Act 2013 sections 139 and 143"
+  ],
+  "institutional_controls": [
+    "audit is predominantly ex-post and non-adjudicatory",
+    "accounts responsibility after 1976 is not universally absent",
+    "entity coverage follows governing law/statutory gateway",
+    "local-body audit arrangements vary under State law"
+  ],
+  "judgments": [
+    "Arvind Gupta (2012)",
+    "S. Subramaniam Balaji (2013)",
+    "Arun Kumar Agrawal (2013)",
+    "Association of Unified Telecom Service Providers of India (2014)"
+  ],
+  "pyq_count": 5
+}

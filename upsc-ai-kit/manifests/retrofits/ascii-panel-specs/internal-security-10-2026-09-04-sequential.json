@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 10",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-10",
+      "display_title": "Terror Financing, Money Laundering and FATF",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-10_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Finance-purpose matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MONEY LAUNDERING -> DISGUISE PROCEEDS OF CRIME",
+            "TERROR FINANCING -> PROVIDE / MOVE VALUE FOR TERROR PURPOSE",
+            "FUNDS -> MAY BE LAWFUL OR UNLAWFUL IN ORIGIN",
+            "RULE -> purpose, source and legal route must all be named"
+          ],
+          "source_references": [
+            "Terror-finance laundering distinction",
+            "Clean-clean dirty-clean distinction"
+          ]
+        },
+        {
+          "title": "Predicate-proceeds gateway",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SCHEDULED PREDICATE OFFENCE REGISTERED",
+            "-> PROCEEDS OF CRIME IDENTIFIED",
+            "-> PMLA INVESTIGATION",
+            "-> PROSECUTION / ADJUDICATION",
+            "TRAP -> unexplained wealth alone is not the complete gateway"
+          ],
+          "source_references": [
+            "Predicate-offence gateway"
+          ]
+        },
+        {
+          "title": "Laundering-stage typology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PLACEMENT -> VALUE ENTERS A CHANNEL",
+            "LAYERING -> DISTANCE FROM CRIMINAL ORIGIN",
+            "INTEGRATION -> APPARENTLY LEGITIMATE RETURN",
+            "SAFE RULE -> conceptual diagnosis, never evasion instruction"
+          ],
+          "source_references": [
+            "Placement typology",
+            "Layering typology",
+            "Integration typology"
+          ]
+        },
+        {
+          "title": "Channel distinction map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TBML -> TRADE VALUE / DOCUMENT MANIPULATION",
+            "BANKING CHANNEL -> REPORTING / TRANSACTION CONTROLS",
+            "VIRTUAL ASSET -> SEPARATE TECHNOLOGY / REPORTING RISK",
+            "TERROR DIVERSION -> MAY START WITH LAWFUL FUNDS"
+          ],
+          "source_references": [
+            "TBML boundary",
+            "Clean-clean dirty-clean distinction"
+          ]
+        },
+        {
+          "title": "Preventive-control chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CDD / KYC -> BENEFICIAL OWNER",
+            "-> RECORDS / TRANSACTION MONITORING",
+            "-> SUSPICIOUS TRANSACTION REPORT",
+            "-> FIU-IND ANALYSIS / DISSEMINATION",
+            "NOT PROVED -> crime or guilt"
+          ],
+          "source_references": [
+            "Reporting-entity controls",
+            "FIU-IND mandate"
+          ]
+        },
+        {
+          "title": "PMLA institution ladder",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PREDICATE AGENCY -> UNDERLYING OFFENCE",
+            "FIU-IND -> FINANCIAL INTELLIGENCE",
+            "ED -> PMLA INVESTIGATION / PROVISIONAL ATTACHMENT",
+            "ADJUDICATING AUTHORITY -> CONFIRM / RELEASE",
+            "SPECIAL COURT -> TRIAL / LEGAL OUTCOME"
+          ],
+          "source_references": [
+            "FIU-IND mandate",
+            "ED mandate",
+            "PMLA property ladder"
+          ]
+        },
+        {
+          "title": "Property-status firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "TRACE / IDENTIFY",
+            "-> PROVISIONAL ATTACHMENT",
+            "-> CONFIRMATION OR RELEASE",
+            "-> CONVICTION OR ACQUITTAL",
+            "-> CONFISCATION ONLY ON THE LEGALLY REQUIRED OUTCOME"
+          ],
+          "source_references": [
+            "PMLA property ladder",
+            "Investigation-prosecution boundary"
+          ]
+        },
+        {
+          "title": "Terror-sanctions route",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TERROR-FUND OFFENCE? -> UAPA INVESTIGATION / TRIAL",
+            "LISTED PERSON / ENTITY? -> SECTION 51A TARGETED ACTION",
+            "UN 1267 LINK -> DOMESTIC IMPLEMENTATION",
+            "SAFEGUARD -> REVIEW / DELISTING / IDENTITY ACCURACY"
+          ],
+          "source_references": [
+            "UAPA terror-finance route",
+            "Sanctions-listing boundary"
+          ]
+        },
+        {
+          "title": "Three-finance-limbs",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AML -> PROCEEDS OF CRIME",
+            "CFT -> FUNDS FOR TERROR PURPOSE",
+            "PF -> PROHIBITED WMD-RELATED FINANCING",
+            "COMMON NEED -> risk controls + intelligence + lawful adjudication"
+          ],
+          "source_references": [
+            "Terror-finance laundering distinction",
+            "Proliferation-finance limb"
+          ]
+        },
+        {
+          "title": "FATF assessment architecture",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "FATF RECOMMENDATIONS -> INTERNATIONAL STANDARDS",
+            "MUTUAL EVALUATION -> TECHNICAL COMPLIANCE + EFFECTIVENESS",
+            "FOLLOW-UP -> POST-EVALUATION REPORTING",
+            "LISTING -> INCREASED MONITORING / CALL FOR ACTION"
+          ],
+          "source_references": [
+            "FATF standards role",
+            "Mutual Evaluation",
+            "Listing-follow-up firewall"
+          ]
+        },
+        {
+          "title": "India 2024 balanced scorecard",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "STRENGTH -> RISK UNDERSTANDING / FINANCIAL INTELLIGENCE",
+            "STRENGTH -> BENEFICIAL OWNERSHIP / ASSET RECOVERY",
+            "GAP -> COMPLETE ML / TF TRIALS + APPROPRIATE SANCTIONS",
+            "GAP -> RISK-BASED NON-PROFIT OUTREACH",
+            "STATUS -> REGULAR FOLLOW-UP; REPORT BACK IN THREE YEARS"
+          ],
+          "source_references": [
+            "India MER 2024"
+          ]
+        },
+        {
+          "title": "PYQ and effectiveness rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2021 -> TECHNOLOGY / GLOBALISATION + MATCHED CONTROLS",
+            "2023 -> FUNDING SOURCES + FATF COMPLIANCE EFFORTS",
+            "2018 -> CROSS-OWNED DRUG / LAUNDERING LINK",
+            "END -> PREVENT / DETECT / DISRUPT / PROSECUTE / ADJUDICATE",
+            "QUALIFY -> attachment, listing and compliance are not conviction"
+          ],
+          "source_references": [
+            "Compliance-outcome end-state"
+          ]
+        }
+      ]
+    }
+  ]
+}

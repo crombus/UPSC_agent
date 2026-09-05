@@ -1,0 +1,314 @@
+{
+  "id": "continuous-core-first-2026-08-22",
+  "validated_on": "2026-08-22",
+  "topic_count": 38,
+  "closure_flow_count": 1054,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "generation": 5,
+      "closure_flows": 9,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "generation": 5,
+      "closure_flows": 31,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "generation": 5,
+      "closure_flows": 29,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "generation": 5,
+      "closure_flows": 21,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "generation": 5,
+      "closure_flows": 44,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "generation": 5,
+      "closure_flows": 43,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "generation": 5,
+      "closure_flows": 47,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "generation": 5,
+      "closure_flows": 27,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "generation": 6,
+      "closure_flows": 25,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "generation": 6,
+      "closure_flows": 35,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "generation": 6,
+      "closure_flows": 31,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "geography-01",
+      "generation": 5,
+      "closure_flows": 24,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "geography-02",
+      "generation": 5,
+      "closure_flows": 29,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "generation": 5,
+      "closure_flows": 16,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "generation": 5,
+      "closure_flows": 12,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "generation": 5,
+      "closure_flows": 8,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "generation": 6,
+      "closure_flows": 9,
+      "approved_reference_reused": true,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "generation": 5,
+      "closure_flows": 56,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "generation": 5,
+      "closure_flows": 117,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "generation": 5,
+      "closure_flows": 122,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "generation": 5,
+      "closure_flows": 87,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "generation": 5,
+      "closure_flows": 5,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "generation": 5,
+      "closure_flows": 10,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "generation": 5,
+      "closure_flows": 10,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "generation": 5,
+      "closure_flows": 24,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "generation": 4,
+      "closure_flows": 7,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "generation": 4,
+      "closure_flows": 5,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "generation": 4,
+      "closure_flows": 7,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "generation": 4,
+      "closure_flows": 7,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "generation": 4,
+      "closure_flows": 7,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "generation": 4,
+      "closure_flows": 7,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-01",
+      "generation": 7,
+      "closure_flows": 16,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-02",
+      "generation": 7,
+      "closure_flows": 19,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-03",
+      "generation": 8,
+      "closure_flows": 22,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-04",
+      "generation": 7,
+      "closure_flows": 20,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-05",
+      "generation": 7,
+      "closure_flows": 15,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-06",
+      "generation": 7,
+      "closure_flows": 24,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    },
+    {
+      "topic_key": "polity-07",
+      "generation": 8,
+      "closure_flows": 27,
+      "approved_reference_reused": false,
+      "full_source_preservation_verified": true,
+      "errors": []
+    }
+  ]
+}

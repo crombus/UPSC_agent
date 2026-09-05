@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-24",
+      "display_title": "Developments in Philosophy",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Chronology and evidence discipline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SOURCES -> layered Vedic texts, sectarian canons, sutras, commentaries and material anchors",
+            "EARLY UPANISHADS -> brahman, atman, karma, rebirth and liberation debates",
+            "6th-5th c. BCE -> urban change and plural shramana challenges",
+            "EARLY HISTORIC -> sutra traditions and sharper school identities",
+            "LATE BC / EARLY CE -> debated Brahma Sutra formation, not one secure date",
+            "GUPTA / POST-GUPTA -> commentary, Buddhist logic, grammar and doxographic ordering",
+            "RULE: separate textual layer, attribution, commentary and reconstruction."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Evidence discipline",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "An argumentative field, not one doctrine",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "DARSHANA -> a viewpoint or way of seeing",
+            "ANVIKSIKI -> inquiry as a named knowledge branch",
+            "QUESTIONS -> What is real? How is knowledge valid? What binds? What liberates?",
+            "METHODS -> dialogue + aphorism + commentary + debate + disciplined practice",
+            "WORLDLY AIMS -> dharma + artha + kama",
+            "LIBERATION AIM -> moksha develops alongside worldly concerns",
+            "VERDICT: plurality and contest are structural, not later exceptions."
+          ],
+          "source_references": [
+            "Darshana",
+            "Anviksiki",
+            "Purusharthas",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Vedic to Upanishadic transition",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RTA / YAJNA / SACRED SPEECH",
+            "          |",
+            "speculative hymns question origin, order and knowledge",
+            "          |",
+            "Aranyakas and Upanishads interiorise ritual and stage dialogues",
+            "          |",
+            "BRAHMAN + ATMAN + KARMA + REBIRTH + RELEASE",
+            "CONTINUITY: inherited vocabulary and ritual setting",
+            "CHANGE: knowledge and self-inquiry gain sharper liberating force."
+          ],
+          "source_references": [
+            "Vedic background",
+            "Upanishadic developments",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Shramana reconfiguration",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONTEXT -> towns + states + merchants + renouncers + debate",
+            "BUDDHISM -> conditioned arising, non-self, suffering and disciplined path",
+            "JAINISM -> jiva, karmic matter, many-sidedness and rigorous restraint",
+            "AJIVIKA -> niyati and ascetic discipline; mostly hostile external evidence",
+            "LOKAYATA -> materialist and sceptical critique; texts largely lost",
+            "COMMON MOVE -> challenge ritual monopoly and rethink action, bondage and release",
+            "LIMIT -> shramana schools disagreed profoundly with one another."
+          ],
+          "source_references": [
+            "Shramana milieu",
+            "Buddhism",
+            "Jainism",
+            "Ajivikas",
+            "Lokayata",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Buddhist philosophical development",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY CORE -> four truths + dependent arising + non-self",
+            "ABHIDHARMA -> analytical classification of experienced processes",
+            "MAHAYANA -> bodhisattva horizon and expanded textual worlds",
+            "MADHYAMAKA -> emptiness as dependent existence, not nihilism",
+            "YOGACARA -> analysis of cognition and representation",
+            "DIGNAGA TRADITION -> sharper Buddhist epistemology and logic",
+            "CAUTION: later developments must not be projected into the earliest canon."
+          ],
+          "source_references": [
+            "Early Buddhism",
+            "Abhidharma",
+            "Mahayana",
+            "Madhyamaka",
+            "Yogacara",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Jain, Ajivika and Charvaka evidence matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "JAINA -> own canons + later texts | jiva, karma, anekanta, syadvada",
+            "AJIVIKA -> Buddhist/Jaina reports + archaeology | niyati; hostile-source problem",
+            "CHARVAKA -> opponents' summaries | perception and materialist criticism",
+            "ANEKANTAVADA -> reality has multiple aspects",
+            "SYADVADA -> conditional predication; not random indecision",
+            "HARD RULE -> secure core claim before later anecdote",
+            "VERDICT: source survival shapes how confidently each school can be reconstructed."
+          ],
+          "source_references": [
+            "Jain philosophy",
+            "Ajivikas",
+            "Charvaka",
+            "Source criticism",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Astika, nastika and the six-school caveat",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "ASTIKA / NASTIKA != simple believer / atheist",
+            "CLASSIFICATION AXES -> Vedic authority, other world and polemical usage",
+            "SIX LATER ORTHODOX PAIRINGS:",
+            "  Samkhya <-> Yoga",
+            "  Nyaya <-> Vaisheshika",
+            "  Mimamsa <-> Vedanta",
+            "OLDER TRADITIONS -> real; neat six-school canon -> later crystallisation",
+            "TRAP: do not make one timeless list govern every ancient century."
+          ],
+          "source_references": [
+            "Astika and nastika",
+            "Six darshanas",
+            "Doxography",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Samkhya and Yoga",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SAMKHYA                         YOGA",
+            "purusha / prakriti             related metaphysical framework",
+            "three gunas                    disciplined transformation of mind",
+            "real evolution of prakriti     citta-vritti-nirodha",
+            "analytic tattva sequence       eight-limbed practice",
+            "discrimination liberates       disciplined insight liberates",
+            "LINK: conceptual analysis <-> practical discipline",
+            "CAUTION: historical layers complicate one fixed founder-date story."
+          ],
+          "source_references": [
+            "Samkhya",
+            "Yoga",
+            "Eight limbs",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Nyaya and Vaisheshika",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "NYAYA                           VAISHESHIKA",
+            "valid knowledge                categories and substances",
+            "perception + inference         atomistic analysis",
+            "comparison + testimony         qualities, motion and inherence",
+            "five-member inference          padartha classification",
+            "public reasoning               realist ontology",
+            "LINK: epistemic method <-> analysis of what exists",
+            "TRAP: Indian atomism is not identical to modern particle physics."
+          ],
+          "source_references": [
+            "Nyaya",
+            "Vaisheshika",
+            "Pramanas",
+            "Atomism",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Mimamsa and early Vedanta",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PURVA MIMAMSA                   UTTARA MIMAMSA / VEDANTA",
+            "Vedic injunction and dharma    Upanishads + Gita + Brahmasutra",
+            "ritual hermeneutics            brahman, self and liberation",
+            "language and duty              competing later interpretations",
+            "textual authority central      textual authority central",
+            "BOUNDARY: early core != Shankara/Ramanuja projected backward",
+            "VERDICT: shared canon can sustain sharply different philosophical projects."
+          ],
+          "source_references": [
+            "Mimamsa",
+            "Early Vedanta",
+            "Chronological boundaries",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Pramana and metaphysics comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "KNOWLEDGE -> perception | inference | comparison | testimony | other debates",
+            "SELF -> enduring self | plural selves | no-self | material person",
+            "CAUSATION -> transformation | new production | dependent arising",
+            "REALITY -> substance/categories | process | non-dual readings | plural aspects",
+            "LIBERATION -> knowledge | discipline | duty | ethical restraint | path",
+            "METHOD -> compare schools on one axis at a time",
+            "TRAP: do not assign every pramana to every school."
+          ],
+          "source_references": [
+            "Epistemology",
+            "Metaphysics",
+            "Causation",
+            "Liberation",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Institutions, language and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "TRANSMISSION -> teacher lineages + monasteries + courts + debate halls",
+            "LANGUAGES -> Sanskrit + Pali + Prakrit + Tamil and regional expression",
+            "FORM -> oral memory -> sutra -> commentary -> counter-commentary",
+            "ARCHIVE LIMIT -> Gargi and Maitreyi are textual voices, not proof of equal access",
+            "OPEN -> philosophy as a chronological and plural argumentative field",
+            "BODY -> source layer -> social context -> inter-school debate -> institution",
+            "CLOSE -> cumulative borrowing and contest, not timeless spiritual consensus."
+          ],
+          "source_references": [
+            "Grammar and philosophy",
+            "Institutions",
+            "Answer architecture",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\24_Developments-in-Philosophy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g4\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\g5\\ancient-indian-history-24_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

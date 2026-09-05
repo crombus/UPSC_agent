@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-46",
+  "title": "Administrative Tribunals",
+  "gate": "A",
+  "started_at": "2026-08-25T11:40:44+05:30",
+  "completed_at": "2026-08-25T11:41:08+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://cgat.gov.in/",
+          "status_code": 200,
+          "final_url": "https://cgat.gov.in/",
+          "title": "Central Administrative Tribunal",
+          "evidence_excerpt": "Central Administrative Tribunal You need to enable JavaScript to run this app.",
+          "accessed_at": "2026-08-25T11:40:45+05:30"
+        },
+        {
+          "url": "https://dopt.gov.in/",
+          "status_code": 200,
+          "final_url": "https://dopt.gov.in/",
+          "title": "Home | Department of Personnel & Training | MoPP&P | GoI",
+          "evidence_excerpt": "﻿ Home | Department of Personnel & Training | MoPP&P | GoI ﻿ Department of PERSONNEL & TRAINING \"JavaScript is a standard programming language that is included to provide interactive features, Kindly enable Javascript in your browser. For details visit help page\" Skip to main content भारत सरकार GOVERNMENT OF INDIA कार्मिक लोक शिकायत और पेंशन मंत्रालय MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS Search The Web DOPT.GOV.IN A + A A - A A Language हिन्दी कार्मिक एवं प्रशिक्षण विभाग Department of PERSONNEL & TRAINING Menu Home About Us Who's Who Vision and Mission Functions Organisational ",
+          "accessed_at": "2026-08-25T11:40:46+05:30"
+        },
+        {
+          "url": "https://www.sci.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.sci.gov.in/",
+          "title": "Supreme Court of India | India",
+          "evidence_excerpt": "Supreme Court of India | India Skip to main content Search Search Accessibility Links Accessibility Tools Color Contrast High Contrast Normal Contrast Highlight Links Invert Saturation Text Size Font Size Increase Font Size Decrease Normal Font Text Spacing Line Height Others Hide Images Big Cursor हिन्दी भारत का सर्वोच्च न्यायालय SUPREME COURT OF INDIA भारत का सर्वोच्च न्यायालय Supreme Court of India || यतो धर्मस्ततो जय: || Menu Toggle More Home About Us History Constitution Jurisdiction Calendar Committees Organization Chart Registry Officers Contact Us Judges Chief Justice & Judges Former C",
+          "accessed_at": "2026-08-25T11:40:46+05:30"
+        },
+        {
+          "url": "https://legislative.gov.in/",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='legislative.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='legislative.gov.in', port=443) at 0x1b7e7ed0e80>, 'Connection to legislative.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-25T11:41:08+05:30"
+        }
+      ],
+      "result": "Articles 323A/323B, the Administrative Tribunals Act 1985, CAT material and the Supreme Court's tribunal-independence line through the judgment reported as 2025 INSC 1330 were rechecked on 25 August 2026. Appointment, tenure and service-condition statements carry an exact dated caveat because the common tribunal framework remains litigation- and implementation-sensitive."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 3,
+    "supporting_route_count": 1,
+    "total_routed_count": 4,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-25",
+    "fact": "Articles 323A/323B, the Administrative Tribunals Act 1985, CAT material and the Supreme Court's tribunal-independence line through the judgment reported as 2025 INSC 1330 were rechecked on 25 August 2026. Appointment, tenure and service-condition statements carry an exact dated caveat because the common tribunal framework remains litigation- and implementation-sensitive.",
+    "caveat": "Tribunals supplement specialist adjudication; they do not replace High Courts or the Supreme Court. L. Chandra Kumar preserves Articles 226/227 review. CAT, SATs, other Article 323B tribunals, commissions, courts and Lok Adalats must not be collapsed into one institutional category."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md": "d3a892d63486369cbabb6d66be4f40f3a34bd3e6438898ca673b9abe1cd33a8d",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md": "a1767d47815e9590d88b7fb3b9da9784c4a25520db4b4282da92ffc75ac5efc4",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ab6c80529f3b1895a45f3be6fcfaec26a8c3f060e683b03a84cf9adf4a869a95",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md": "7d6af70b6a6193d46a9158f3da2c9931c1b23f0f7072c129d9ca82bc969b81f4",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md": "3b7f0dc993baf1c8dd5045de02265abeef4d745206204a9bb630c376f426a077",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md": "7dcd7648b978383ca7fa215be112e9cbc83217489bab4def27fc9095d3442b5b",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "e2d678b584899a0b44a58ca55cf2ed13845dca69b49acdd81cd4cce37b810a3c",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "42nd Amendment, Articles 323A/323B and Administrative Tribunals Act 1985",
+    "CAT/SAT structure, benches, jurisdiction, composition and service matters",
+    "current appointment, tenure and service-condition framework with dated caveat",
+    "procedure, civil-court powers, contempt, exclusions and review/appeal chain",
+    "L. Chandra Kumar and High Court Division Bench judicial review",
+    "Article 323A versus 323B and CAT versus courts, commissions and Lok Adalats",
+    "expertise, speed and access versus control, vacancies and fragmented appeals",
+    "R. Gandhi, Madras Bar Association, Rojer Mathew and reform principles"
+  ],
+  "topic_completeness_status": "passed",
+  "canonical_owner_resolution": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+    "scope_note": "The Basic/Core Markdown is the canonical owner and remains independently UPSC-complete. Cross-topic owners supplement it; Advanced remains subordinate optional enrichment."
+  },
+  "case_year_sources": [
+    {
+      "case_id": "l-chandra-kumar",
+      "canonical_label": "L. Chandra Kumar (1997)",
+      "decision_year": 1997,
+      "source_title": "L. Chandra Kumar v. Union of India, judgment dated 18 March 1997",
+      "source_url": "https://indiankanoon.org/search/?formInput=L+Chandra+Kumar+v+Union+of+India+18+March+1997"
+    },
+    {
+      "case_id": "r-gandhi",
+      "canonical_label": "Union of India v. R. Gandhi (2010)",
+      "decision_year": 2010,
+      "source_title": "Union of India v. R. Gandhi, President, Madras Bar Association, Supreme Court judgment dated 11 May 2010",
+      "source_url": "https://indiankanoon.org/search/?formInput=Union+of+India+R+Gandhi+Madras+Bar+Association+11+May+2010"
+    },
+    {
+      "case_id": "madras-bar-ntt",
+      "canonical_label": "Madras Bar Association NTT (2014)",
+      "decision_year": 2014,
+      "source_title": "Madras Bar Association v. Union of India, National Tax Tribunal judgment dated 25 September 2014",
+      "source_url": "https://indiankanoon.org/search/?formInput=Madras+Bar+Association+National+Tax+Tribunal+25+September+2014"
+    },
+    {
+      "case_id": "madras-bar-iv",
+      "canonical_label": "Madras Bar Association IV (2020)",
+      "decision_year": 2020,
+      "source_title": "Madras Bar Association v. Union of India, tribunal-rules judgment dated 27 November 2020",
+      "source_url": "https://indiankanoon.org/search/?formInput=Madras+Bar+Association+tribunal+rules+27+November+2020"
+    },
+    {
+      "case_id": "madras-bar-v",
+      "canonical_label": "Madras Bar Association V (2021)",
+      "decision_year": 2021,
+      "source_title": "Madras Bar Association v. Union of India, Tribunal Reforms Ordinance judgment dated 14 July 2021",
+      "source_url": "https://indiankanoon.org/search/?formInput=Madras+Bar+Association+Tribunal+Reforms+Ordinance+14+July+2021"
+    },
+    {
+      "case_id": "rojer-mathew",
+      "canonical_label": "Rojer Mathew v. South Indian Bank (2019)",
+      "decision_year": 2019,
+      "source_title": "Rojer Mathew v. South Indian Bank, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Rojer+Mathew+v+South+Indian+Bank+13+November+2019"
+    },
+    {
+      "case_id": "madras-bar-2025",
+      "canonical_label": "Madras Bar Association tribunal reforms (2025)",
+      "decision_year": 2025,
+      "source_title": "Madras Bar Association tribunal-reforms judgment reported as 2025 INSC 1330, dated 19 November 2025",
+      "source_url": "https://indiankanoon.org/search/?formInput=Madras+Bar+Association+2025+INSC+1330+19+November+2025"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-25",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "Tribunals supplement specialist adjudication; they do not replace High Courts or the Supreme Court. L. Chandra Kumar preserves Articles 226/227 review. CAT, SATs, other Article 323B tribunals, commissions, courts and Lok Adalats must not be collapsed into one institutional category."
+  }
+}

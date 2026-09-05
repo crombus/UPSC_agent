@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T12:49:57+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "1609e8b09f95b9eca495242ecb78d847865241f5e47cf131270e9814e557416d",
+    "sha256_after": "1609e8b09f95b9eca495242ecb78d847865241f5e47cf131270e9814e557416d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "World History": 1
+  },
+  "sections": {
+    "World History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9465,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1539,
+    "json_count": 3689,
+    "total_bytes": 4230755776,
+    "by_extension": {
+      ".json": 3689,
+      ".md": 1539,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-05",
+      "topic_title": "Congress of Vienna and Concert of Europe",
+      "subject": "World History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "world-history-05:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g4\\world-history-05_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "5a507bc5924eecfe1188a5cd0913f3141ef26dc16f2daa48a11dd88229238ff5",
+          "output_sha256": "5a507bc5924eecfe1188a5cd0913f3141ef26dc16f2daa48a11dd88229238ff5",
+          "source_output_equal": true,
+          "bytes": 570847
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g4\\world-history-05_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a5dcefd074f36a62471a5fc7e0d72a54aa3f1ce1c64e56812669b2279bdf8b8f",
+          "output_sha256": "a5dcefd074f36a62471a5fc7e0d72a54aa3f1ce1c64e56812669b2279bdf8b8f",
+          "source_output_equal": true,
+          "bytes": 435200
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-05\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "30a0ee471e299d5dc8cfc7a4781d8e6b208d18361a641adddc4ad657fb0a81bb",
+          "output_sha256": "30a0ee471e299d5dc8cfc7a4781d8e6b208d18361a641adddc4ad657fb0a81bb",
+          "source_output_equal": true,
+          "bytes": 1921876
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-05\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "7e586a24280a6145c612a7dfb78a9819e72faac77f1649ebbbcbdb4f810cd4cb",
+          "output_sha256": "7e586a24280a6145c612a7dfb78a9819e72faac77f1649ebbbcbdb4f810cd4cb",
+          "source_output_equal": true,
+          "bytes": 2370392
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-05\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7ab02e887906860185f896c3a05e10927ca49f13adc1b023e3d61715dcf8f52b",
+          "output_sha256": "7ab02e887906860185f896c3a05e10927ca49f13adc1b023e3d61715dcf8f52b",
+          "source_output_equal": true,
+          "bytes": 1709594
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-05\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "99d1a87ab5f33f518b384f0736da302df3b9746de6a7365b0bb76cd93cb669dc",
+          "output_sha256": "99d1a87ab5f33f518b384f0736da302df3b9746de6a7365b0bb76cd93cb669dc",
+          "source_output_equal": true,
+          "bytes": 5133
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-05\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\05-Congress-of-Vienna-and-Concert-of-Europe\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "a9b24b1666ba37d536da83a8a96f6fc3adb2e4614b6845cb83596e9a70f3ff72",
+          "output_sha256": "a9b24b1666ba37d536da83a8a96f6fc3adb2e4614b6845cb83596e9a70f3ff72",
+          "source_output_equal": true,
+          "source_text_sha256": "99d1a87ab5f33f518b384f0736da302df3b9746de6a7365b0bb76cd93cb669dc",
+          "normalized_text_equal": true,
+          "bytes": 56437
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 67,
+        "solved_practice_workbook": 30,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 67,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 30,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10308
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

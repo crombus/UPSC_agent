@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T12:41:45+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b8afb362b6257d3326a2659a12533f1701f591b9259f66a12465bdbf5c502488",
+    "sha256_after": "b8afb362b6257d3326a2659a12533f1701f591b9259f66a12465bdbf5c502488",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "World History": 1
+  },
+  "sections": {
+    "World History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9447,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1536,
+    "json_count": 3674,
+    "total_bytes": 4230703482,
+    "by_extension": {
+      ".json": 3674,
+      ".md": 1536,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-02",
+      "topic_title": "American Revolution",
+      "subject": "World History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 2,
+      "source_record_id": "world-history-02:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "6e41a1da93f166fed412025ae31ceb0dc1c193ebcdc4ae339d6f28fb2f9022ec",
+          "output_sha256": "6e41a1da93f166fed412025ae31ceb0dc1c193ebcdc4ae339d6f28fb2f9022ec",
+          "source_output_equal": true,
+          "bytes": 565952
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "1052c3a5c0553f7e8be50673c3a03a73d412b1c453e074921b3229cca047eae7",
+          "output_sha256": "1052c3a5c0553f7e8be50673c3a03a73d412b1c453e074921b3229cca047eae7",
+          "source_output_equal": true,
+          "bytes": 438210
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-02\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "eaf13ece0dad519d639ab478f39de25fc5c646039f2c97972acbb116281325ab",
+          "output_sha256": "eaf13ece0dad519d639ab478f39de25fc5c646039f2c97972acbb116281325ab",
+          "source_output_equal": true,
+          "bytes": 2012677
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-02\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "42fc5b513d197da4a5045c902d707ecb5a32aeeef15a95431669beafe8ae0e8b",
+          "output_sha256": "42fc5b513d197da4a5045c902d707ecb5a32aeeef15a95431669beafe8ae0e8b",
+          "source_output_equal": true,
+          "bytes": 2490663
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-02\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "ffeb75effdf721b65ef7a8d65c11e45398acb2112b105578db9fcb3ceeebbb6a",
+          "output_sha256": "ffeb75effdf721b65ef7a8d65c11e45398acb2112b105578db9fcb3ceeebbb6a",
+          "source_output_equal": true,
+          "bytes": 1795878
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-02\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "6ef5b3fb5b38189e22787a66b326c3b4de8ed04ea19beee80fa73e7fd7026f94",
+          "output_sha256": "6ef5b3fb5b38189e22787a66b326c3b4de8ed04ea19beee80fa73e7fd7026f94",
+          "source_output_equal": true,
+          "bytes": 5186
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-02\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\02-American-Revolution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "683c62787e02c37c32a8ae9251c61eb8d9ffe806fb9bff72a1343ead977ba780",
+          "output_sha256": "683c62787e02c37c32a8ae9251c61eb8d9ffe806fb9bff72a1343ead977ba780",
+          "source_output_equal": true,
+          "source_text_sha256": "6ef5b3fb5b38189e22787a66b326c3b4de8ed04ea19beee80fa73e7fd7026f94",
+          "normalized_text_equal": true,
+          "bytes": 56429
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 65,
+        "solved_practice_workbook": 30,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 30,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10472
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

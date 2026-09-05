@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-06",
+      "display_title": "Unification of Italy and Germany",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Vienna's unfinished map",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "ITALY -> divided; Austria controls Lombardy-Venetia and influence",
+            "GERMANY -> 39-state Confederation under Austrian influence",
+            "1848 -> liberal-national attempts fail",
+            "RESULT -> nationalism shifts toward states, diplomacy and war",
+            "MUST REMEMBER: Italy's sequence runs through Mazzini (1831), failed 1848, Cavour and France",
+            "  (1859), Garibaldi (1860), kingdom (1861), Venetia (1866) and Rome (1870); Germany's runs",
+            "  through Bismarck (1862) and wars of 1864, 1866 and 1870-71.",
+            "MUST REMEMBER: Italy's sequence runs through Mazzini (1831), failed 1848, Cavour and France",
+            "  (1859), Garibaldi (1860), kingdom (1861), Venetia (1866) and Rome (1870); Germany's runs",
+            "  through Bismarck (1862) and wars of 1864, 1866 and 1870-71."
+          ],
+          "source_references": [
+            "Vienna's unresolved national map",
+            "Why 1848 changed the method",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Italian leadership chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "MAZZINI -> Young Italy, 1831; republican legitimacy",
+            "CAVOUR -> Piedmont diplomacy and French alliance",
+            "GARIBALDI -> Red Shirts conquer Sicily and Naples",
+            "VICTOR EMMANUEL II -> monarchy absorbs the national gain"
+          ],
+          "source_references": [
+            "Mazzini and republican nationalism",
+            "Piedmont-Sardinia and Cavour",
+            "Garibaldi's southern campaign",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Italian territorial sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1859 -> Austria defeated; Lombardy gained",
+            "1860 -> Garibaldi takes Sicily and Naples",
+            "1861 -> Kingdom of Italy proclaimed",
+            "1866 -> Venetia; 1870 -> Rome"
+          ],
+          "source_references": [
+            "The Italian kingdom and staggered completion",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Italy's incomplete unity",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH-SOUTH -> political union without equal integration",
+            "CHURCH-STATE -> Rome's accession leaves papal hostility",
+            "REPUBLICANISM -> Mazzini's programme displaced by monarchy",
+            "VERDICT -> a state was unified before a society"
+          ],
+          "source_references": [
+            "Limits of Italian unification",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bismarck's three-war sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1864 -> Denmark defeated over Schleswig-Holstein",
+            "1866 -> Austria defeated in Seven Weeks' War",
+            "1870-71 -> France defeated; southern states rally",
+            "JAN 1871 -> German Empire proclaimed at Versailles"
+          ],
+          "source_references": [
+            "The Danish opening, 1864",
+            "Austria excluded, 1866",
+            "France defeated and empire proclaimed",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Realpolitik mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GOAL -> Prussian-led German unity",
+            "METHOD -> isolate one opponent at a time",
+            "INSTRUMENT -> diplomacy backed by military force",
+            "OUTCOME -> nationalism serves the Prussian state"
+          ],
+          "source_references": [
+            "Bismarck and Realpolitik",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Small-German settlement",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "INCLUDED -> Prussia and German states north and south",
+            "EXCLUDED -> Austria after 1866",
+            "FORM -> North German Confederation, then Empire",
+            "POWER CENTRE -> Prussian monarchy and army"
+          ],
+          "source_references": [
+            "Austria excluded, 1866",
+            "The new German state's political form",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Italy versus Germany: agency",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ITALY -> ideology + diplomacy + volunteer campaign",
+            "GERMANY -> bureaucracy + diplomacy + three wars",
+            "ITALY -> French alliance crucial in 1859",
+            "GERMANY -> Prussia isolates and defeats rivals"
+          ],
+          "source_references": [
+            "Italy and Germany on common axes",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Italy versus Germany: outcome",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ITALY -> weaker state with regional and church divisions",
+            "GERMANY -> strongest continental military-economic power",
+            "ITALY -> staggered completion, 1861-70",
+            "GERMANY -> concentrated completion, 1864-71"
+          ],
+          "source_references": [
+            "European balance and qualified verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Alsace-Lorraine consequence chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1871 -> France loses Alsace-Lorraine",
+            "REVANCHISM -> territorial grievance persists",
+            "GERMAN POWER -> continental balance shifts",
+            "1914 LINK -> one source of tension, not a sole cause",
+            "CLOSE DISTINCTION: Italian unification visibly combined ideology, popular arms, diplomacy and",
+            "  monarchy, whereas German timing, boundary and constitutional form were more decisively",
+            "  Prussian and state-led.",
+            "CLOSE DISTINCTION: Italian unification visibly combined ideology, popular arms, diplomacy and",
+            "  monarchy, whereas German timing, boundary and constitutional form were more decisively",
+            "  Prussian and state-led."
+          ],
+          "source_references": [
+            "Alsace-Lorraine and the 1914 bridge",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Above and below matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FROM BELOW -> Mazzini, 1848, Garibaldi, popular feeling",
+            "FROM ABOVE -> Cavour, Victor Emmanuel II, Bismarck, Prussia",
+            "ITALY -> both streams visibly combine",
+            "GERMANY -> state power decisively dominates",
+            "EVIDENCE LIMIT: Proclamation did not complete nation-building: regional, church, class and",
+            "  minority conflicts remained, and Alsace-Lorraine became one source of later tension rather",
+            "  than a mechanical cause of 1914.",
+            "EVIDENCE LIMIT: Proclamation did not complete nation-building: regional, church, class and",
+            "  minority conflicts remained, and Alsace-Lorraine became one source of later tension rather",
+            "  than a mechanical cause of 1914."
+          ],
+          "source_references": [
+            "Italy and Germany on common axes",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Unification answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "START -> Vienna fragmentation and failed 1848",
+            "SEQUENCE -> core state + strategist + war + proclamation",
+            "COMPARE -> agency, allies, popular force and state form",
+            "QUALIFY -> minorities, regional divides and power imbalance"
+          ],
+          "source_references": [
+            "European balance and qualified verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g2\\world-history-06_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-06\\g3\\world-history-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

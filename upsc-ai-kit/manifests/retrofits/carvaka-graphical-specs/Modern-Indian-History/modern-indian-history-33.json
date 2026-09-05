@@ -1,0 +1,1125 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-33",
+  "subject": "Modern-Indian-History",
+  "title": "PARTY POLITICS 1947–67: THE CONGRESS SYSTEM & THE OPPOSITION",
+  "short_route": "THE 1948 BAN ON → THE TANDON-NEHRU CONTEST, 1950-51 → JANA SANGH, 1951, IS → KMPP, 1951, INTO THE → THE 1964 SPLIT IN → RAJNI KOTHARI'S 'CONGRESS SYSTEM'",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-33_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-32-33-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "ef18c4223b3efb864af3984448ea9ec62db9ce06af6957cdf6018724e23f71c4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE 1948 BAN ON DUAL PARTY MEMBERSHIP",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE 1948 BAN ON DUAL PARTY MEMBERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "AMENDED 1948",
+          "role": "comparison"
+        },
+        {
+          "text": "BARS DUAL PARTY MEMBERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "CONGRESS SOCIALIST PARTY (CSP) MEMBERS INSIDE CONGRESS",
+          "role": "primary"
+        },
+        {
+          "text": "FORCED CHOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "REMAIN IN CONGRESS OR JOIN AN INDEPENDENT SOCIALIST PARTY",
+          "role": "comparison"
+        },
+        {
+          "text": "MOST CSP LEADERS EXIT; AN INDEPENDENT SOCIALIST PARTY IS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONGRESS CONSTITUTION → amended 1948: BARS DUAL PARTY MEMBERSHIP",
+        "TARGET → Congress Socialist Party (CSP) members inside Congress",
+        "FORCED CHOICE → remain in Congress OR join an independent socialist party",
+        "RESULT → most CSP leaders exit; an INDEPENDENT SOCIALIST PARTY is formed",
+        "CONSEQUENCE → the non-Communist Left's long history OUTSIDE Congress begins"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS CONSTITUTION → amended 1948: BARS DUAL PARTY MEMBERSHIP",
+            "TARGET → Congress Socialist Party (CSP) members inside Congress"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORCED CHOICE → remain in Congress OR join an independent socialist party",
+            "RESULT → most CSP leaders exit; an INDEPENDENT SOCIALIST PARTY is formed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → the non-Communist Left's long history OUTSIDE Congress begins",
+            "CONGRESS CONSTITUTION → amended 1948: BARS DUAL PARTY MEMBERSHIP"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → most CSP leaders exit; an INDEPENDENT SOCIALIST PARTY is formed.",
+      "source_references": [
+        "The 1948 ban on dual party membership"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE TANDON-NEHRU CONTEST, 1950-51",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE TANDON-NEHRU CONTEST, 1950-51",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS PRESIDENTIAL CONTEST",
+          "role": "outcome"
+        },
+        {
+          "text": "TANDON DEFEATS THE NEHRU-BACKED CANDIDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "TANDON'S CONSERVATIVE-HINDU LEANINGS VS NEHRU'S SECULAR LINE",
+          "role": "comparison"
+        },
+        {
+          "text": "TANDON RESIGNS THE CONGRESS PRESIDENCY",
+          "role": "primary"
+        },
+        {
+          "text": "NEHRU HIMSELF THEN TAKES OVER AS CONGRESS PRESIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT REVERSE THIS ORDER OR COMPRESS IT INTO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1950 → CONGRESS PRESIDENTIAL CONTEST: Tandon defeats the Nehru-backed candidate",
+        "1950-51 → friction: Tandon's conservative-Hindu leanings vs Nehru's secular line",
+        "1951 → TANDON RESIGNS the Congress presidency",
+        "1951 → NEHRU HIMSELF then takes over as Congress president",
+        "TRAP → do not reverse this order or compress it into a single year"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1950 → CONGRESS PRESIDENTIAL CONTEST: Tandon defeats the Nehru-backed candidate",
+            "1950-51 → friction: Tandon's conservative-Hindu leanings vs Nehru's secular line"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1951 → TANDON RESIGNS the Congress presidency",
+            "1951 → NEHRU HIMSELF then takes over as Congress president"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → do not reverse this order or compress it into a single year",
+            "1950 → CONGRESS PRESIDENTIAL CONTEST: Tandon defeats the Nehru-backed candidate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not reverse this order or compress it into a single year.",
+      "source_references": [
+        "The Tandon-Nehru contest, 1950-51"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "JANA SANGH, 1951, IS NOT SWATANTRA, 1959",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JANA SANGH, 1951, IS NOT SWATANTRA, 1959",
+          "role": "caution"
+        },
+        {
+          "text": "BHARATIYA JANA SANGH",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUNDED 1951, FOUNDER SYAMA PRASAD MOOKERJEE",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANISATIONAL LINKS TO THE RSS NETWORK (STATE THIS CAREFULLY)",
+          "role": "institution"
+        },
+        {
+          "text": "HINDU-NATIONALIST CULTURAL-POLITICAL LINE",
+          "role": "primary"
+        },
+        {
+          "text": "SWATANTRA PARTY",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUNDED 1959, FOUNDERS RAJAGOPALACHARI",
+          "role": "comparison"
+        },
+        {
+          "text": "FREE-MARKET, ANTI-COLLECTIVISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BHARATIYA JANA SANGH → founded 1951, founder SYAMA PRASAD MOOKERJEE",
+        "LINK → organisational links to the RSS network (state this carefully)",
+        "PLATFORM → Hindu-nationalist cultural-political line",
+        "SWATANTRA PARTY → founded 1959, founders RAJAGOPALACHARI / MASANI / RANGA",
+        "PLATFORM → free-market, anti-collectivisation → a DIFFERENT right-of-Congress line"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BHARATIYA JANA SANGH → founded 1951, founder SYAMA PRASAD MOOKERJEE",
+          "PLATFORM → Hindu-nationalist cultural-political line",
+          "PLATFORM → free-market, anti-collectivisation → a DIFFERENT right-of-Congress line"
+        ],
+        [
+          "LINK → organisational links to the RSS network (state this carefully)",
+          "SWATANTRA PARTY → founded 1959, founders RAJAGOPALACHARI / MASANI / RANGA",
+          "BHARATIYA JANA SANGH → founded 1951, founder SYAMA PRASAD MOOKERJEE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BHARATIYA JANA SANGH → founded 1951, founder SYAMA PRASAD MOOKERJEE",
+            "LINK → organisational links to the RSS network (state this carefully)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLATFORM → Hindu-nationalist cultural-political line",
+            "SWATANTRA PARTY → founded 1959, founders RAJAGOPALACHARI / MASANI / RANGA"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLATFORM → free-market, anti-collectivisation → a DIFFERENT right-of-Congress line",
+            "BHARATIYA JANA SANGH → founded 1951, founder SYAMA PRASAD MOOKERJEE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLATFORM → free-market, anti-collectivisation → a DIFFERENT right-of-Congress line.",
+      "source_references": [
+        "The Bharatiya Jana Sangh, 1951",
+        "The Swatantra Party, 1959"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KMPP, 1951, INTO THE PRAJA SOCIALIST PARTY, 1952",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KMPP, 1951, INTO THE PRAJA SOCIALIST PARTY, 1952",
+          "role": "primary"
+        },
+        {
+          "text": "KISAN MAZDOOR PRAJA PARTY (KMPP) FOUNDED, LED BY J.B.",
+          "role": "outcome"
+        },
+        {
+          "text": "KMPP MERGES WITH THE SOCIALIST PARTY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAJA SOCIALIST PARTY (PSP) FORMED AS A RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "AFTER 1952",
+          "role": "primary"
+        },
+        {
+          "text": "THE PSP ITSELF SPLITS AND RE-FORMS REPEATEDLY THROUGH THE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1951 → KISAN MAZDOOR PRAJA PARTY (KMPP) founded, led by J.B. KRIPALANI",
+        "1952 → KMPP MERGES WITH THE SOCIALIST PARTY",
+        "1952 → PRAJA SOCIALIST PARTY (PSP) formed as a result",
+        "AFTER 1952 → the PSP itself splits and re-forms repeatedly through the 1950s-60s"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1951 → KISAN MAZDOOR PRAJA PARTY (KMPP) founded, led by J.B. KRIPALANI",
+            "1952 → KMPP MERGES WITH THE SOCIALIST PARTY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1952 → PRAJA SOCIALIST PARTY (PSP) formed as a result",
+            "AFTER 1952 → the PSP itself splits and re-forms repeatedly through the 1950s-60s"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1951 → KISAN MAZDOOR PRAJA PARTY (KMPP) founded, led by J.B. KRIPALANI",
+            "1952 → KMPP MERGES WITH THE SOCIALIST PARTY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1952 → PRAJA SOCIALIST PARTY (PSP) formed as a result.",
+      "source_references": [
+        "KMPP into the Praja Socialist Party, 1951-52"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE 1964 SPLIT IN THE COMMUNIST PARTY OF INDIA",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE 1964 SPLIT IN THE COMMUNIST PARTY OF INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY 1960S",
+          "role": "outcome"
+        },
+        {
+          "text": "IDEOLOGICAL STRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SINO-SOVIET SPLIT",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARPENED BY",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERING RESPONSES TO THE 1962 BORDER WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE COMMUNIST PARTY OF INDIA SPLITS",
+          "role": "comparison"
+        },
+        {
+          "text": "CPI (ONE STREAM) AND THE NEW CPI(M)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY 1960s → ideological strain: the Sino-Soviet split",
+        "SHARPENED BY → differing responses to the 1962 border war",
+        "1964 → THE COMMUNIST PARTY OF INDIA SPLITS",
+        "RESULT → CPI (one stream) and the new CPI(M)",
+        "CONSEQUENCE → the organised Left enters the mid-1960s divided, not unified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EARLY 1960s → ideological strain: the Sino-Soviet split",
+            "SHARPENED BY → differing responses to the 1962 border war"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1964 → THE COMMUNIST PARTY OF INDIA SPLITS",
+            "RESULT → CPI (one stream) and the new CPI(M)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → the organised Left enters the mid-1960s divided, not unified",
+            "EARLY 1960s → ideological strain: the Sino-Soviet split"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → CPI (one stream) and the new CPI(M).",
+      "source_references": [
+        "The 1964 split in the Communist Party of India"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RAJNI KOTHARI'S 'CONGRESS SYSTEM'",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RAJNI KOTHARI'S 'CONGRESS SYSTEM'",
+          "role": "primary"
+        },
+        {
+          "text": "RAJNI KOTHARI",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL SCIENTIST, COINS THE TERM \"CONGRESS SYSTEM\"",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS FUNCTIONS AS A \"PARTY OF CONSENSUS\", ABSORBING FACTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "OPPOSITION ROLE",
+          "role": "primary"
+        },
+        {
+          "text": "PARTIES OF \"PRESSURE\", NOT ALTERNATIVE-GOVERNMENT CONTENDERS",
+          "role": "caution"
+        },
+        {
+          "text": "KOTHARI'S ANALYTICAL TERM, NOT A CONGRESS SELF-DESCRIPTION",
+          "role": "caution"
+        },
+        {
+          "text": "USE ONLY AS AN ANALYTICAL LENS ON THE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAJNI KOTHARI → political scientist, coins the term \"CONGRESS SYSTEM\"",
+        "CLAIM → Congress functions as a \"PARTY OF CONSENSUS\", absorbing factions internally",
+        "OPPOSITION ROLE → parties of \"PRESSURE\", not alternative-government contenders",
+        "ATTRIBUTION → Kothari's analytical term, NOT a Congress self-description",
+        "BOUNDARY → use only as an analytical lens on the evidence, never as fact-by-itself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAJNI KOTHARI → political scientist, coins the term \"CONGRESS SYSTEM\"",
+            "CLAIM → Congress functions as a \"PARTY OF CONSENSUS\", absorbing factions internally"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPPOSITION ROLE → parties of \"PRESSURE\", not alternative-government contenders",
+            "ATTRIBUTION → Kothari's analytical term, NOT a Congress self-description"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → use only as an analytical lens on the evidence, never as fact-by-itself",
+            "RAJNI KOTHARI → political scientist, coins the term \"CONGRESS SYSTEM\""
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → use only as an analytical lens on the evidence, never as fact-by-itself.",
+      "source_references": [
+        "Rajni Kothari's 'Congress system'"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SEAT MAJORITIES ON A MINORITY VOTE SHARE",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SEAT MAJORITIES ON A MINORITY VOTE SHARE",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS SEAT RESULT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS NATIONAL VOTE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMFORTABLE MAJORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "WELL UNDER 50 PER CENT",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST-PAST-THE-POST ARITHMETIC ACTING ON A FRAGMENTED OPPOSITION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CONGRESS SEAT RESULT",
+        "CONGRESS NATIONAL VOTE",
+        "comfortable majority",
+        "well under 50 per cent",
+        "MECHANISM → first-past-the-post arithmetic acting on a fragmented opposition"
+      ],
+      "matrix": [
+        [
+          "YEAR",
+          "CONGRESS SEAT RESULT",
+          "CONGRESS NATIONAL VOTE"
+        ],
+        [
+          "1952",
+          "comfortable majority",
+          "well under 50 per cent"
+        ],
+        [
+          "1957",
+          "comfortable majority",
+          "well under 50 per cent"
+        ],
+        [
+          "1962",
+          "comfortable majority",
+          "well under 50 per cent"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS SEAT RESULT",
+            "CONGRESS NATIONAL VOTE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "comfortable majority",
+            "well under 50 per cent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MECHANISM → first-past-the-post arithmetic acting on a fragmented opposition",
+            "CONGRESS SEAT RESULT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "YEAR | CONGRESS SEAT RESULT | CONGRESS NATIONAL VOTE.",
+      "source_references": [
+        "Seat majorities on a minority vote share"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE PLURAL, FRAGMENTED INDIAN LEFT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE PLURAL, FRAGMENTED INDIAN LEFT",
+          "role": "primary"
+        },
+        {
+          "text": "PRO-SOVIET STREAM AFTER THE 1964 SPLIT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NEW FORMATION AFTER THE 1964 SPLIT",
+          "role": "comparison"
+        },
+        {
+          "text": "FORWARD BLOC",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALLER FORMATIONS, STRONGEST IN BENGAL AND KERALA",
+          "role": "primary"
+        },
+        {
+          "text": "KERALA, 1957",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ERA'S CLEAREST LEFT ELECTORAL SUCCESS (TOPIC 32)",
+          "role": "comparison"
+        },
+        {
+          "text": "READ IT CORRECTLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CPI → pro-Soviet stream after the 1964 split",
+        "CPI(M) → the new formation after the 1964 split",
+        "RSP / FORWARD BLOC → smaller formations, strongest in Bengal and Kerala",
+        "KERALA, 1957 → the era's clearest Left electoral success (topic 32)",
+        "READ IT CORRECTLY → \"the Left\" was NEVER a single unified bloc, 1947-67"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CPI → pro-Soviet stream after the 1964 split",
+          "RSP / FORWARD BLOC → smaller formations, strongest in Bengal and Kerala",
+          "READ IT CORRECTLY → \"the Left\" was NEVER a single unified bloc, 1947-67"
+        ],
+        [
+          "CPI(M) → the new formation after the 1964 split",
+          "KERALA, 1957 → the era's clearest Left electoral success (topic 32)",
+          "CPI → pro-Soviet stream after the 1964 split"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CPI → pro-Soviet stream after the 1964 split",
+            "CPI(M) → the new formation after the 1964 split"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RSP / FORWARD BLOC → smaller formations, strongest in Bengal and Kerala",
+            "KERALA, 1957 → the era's clearest Left electoral success (topic 32)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "READ IT CORRECTLY → \"the Left\" was NEVER a single unified bloc, 1947-67",
+            "CPI → pro-Soviet stream after the 1964 split"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READ IT CORRECTLY → \"the Left\" was NEVER a single unified bloc, 1947-67.",
+      "source_references": [
+        "Smaller left formations and the plural Left"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONGRESS AS AN UMBRELLA, NOT A NARROW PARTY",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONGRESS AS AN UMBRELLA, NOT A NARROW PARTY",
+          "role": "caution"
+        },
+        {
+          "text": "CONGRESS ORGANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "A BROAD UMBRELLA",
+          "role": "comparison"
+        },
+        {
+          "text": "NEHRUVIAN PLANNERS + CONSERVATIVE TRADITIONALISTS + REGIONAL BOSSES",
+          "role": "evidence"
+        },
+        {
+          "text": "FACTIONAL COMPETITION HAPPENS INSIDE CONGRESS, NOT MAINLY BETWEEN PARTIES",
+          "role": "caution"
+        },
+        {
+          "text": "BY THE MID-1960S",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE-LEVEL \"SYNDICATE\" BOSSES BECOME ORGANISATIONALLY DECISIVE",
+          "role": "institution"
+        },
+        {
+          "text": "LINK FORWARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONGRESS ORGANISATION → a broad UMBRELLA",
+        "CONTAINS → Nehruvian planners + conservative traditionalists + regional bosses",
+        "MECHANISM → factional competition happens INSIDE Congress, not mainly between parties",
+        "BY THE MID-1960s → state-level \"SYNDICATE\" bosses become organisationally decisive",
+        "LINK FORWARD → this factionalism shapes the 1966 succession contest (topic 34)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS ORGANISATION → a broad UMBRELLA",
+            "CONTAINS → Nehruvian planners + conservative traditionalists + regional bosses"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM → factional competition happens INSIDE Congress, not mainly between parties",
+            "BY THE MID-1960s → state-level \"SYNDICATE\" bosses become organisationally decisive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LINK FORWARD → this factionalism shapes the 1966 succession contest (topic 34)",
+            "CONGRESS ORGANISATION → a broad UMBRELLA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK FORWARD → this factionalism shapes the 1966 succession contest (topic 34).",
+      "source_references": [
+        "Congress as an umbrella organisation",
+        "The rise of state-level 'Syndicate' bosses"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LOHIA'S 'NON-CONGRESSISM': A DOCTRINE AHEAD OF ITS TIME",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOHIA'S 'NON-CONGRESSISM'",
+          "role": "primary"
+        },
+        {
+          "text": "A DOCTRINE AHEAD OF ITS TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "RAM MANOHAR LOHIA",
+          "role": "comparison"
+        },
+        {
+          "text": "LEADING SOCIALIST FIGURE, CRITIC OF CONGRESS DOMINANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "UNITE THE OPPOSITION AGAINST CONGRESS, DESPITE IDEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "LITTLE PRACTICAL ELECTORAL EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SAME LOGIC UNDERLIES THE JANATA COALITION (TOPIC 36)",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT CLAIM NON-CONGRESSISM SUCCEEDED ELECTORALLY WITHIN THIS TOPIC'S",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAM MANOHAR LOHIA → leading Socialist figure, critic of Congress dominance",
+        "DOCTRINE → \"NON-CONGRESSISM\": unite the opposition against Congress, despite ideology",
+        "1947-67 → little practical electoral effect",
+        "1977 → the SAME logic underlies the Janata coalition (topic 36)",
+        "TRAP → do not claim non-Congressism succeeded electorally within this topic's period"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAM MANOHAR LOHIA → leading Socialist figure, critic of Congress dominance",
+            "DOCTRINE → \"NON-CONGRESSISM\": unite the opposition against Congress, despite ideology"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1947-67 → little practical electoral effect",
+            "1977 → the SAME logic underlies the Janata coalition (topic 36)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → do not claim non-Congressism succeeded electorally within this topic's period",
+            "RAM MANOHAR LOHIA → leading Socialist figure, critic of Congress dominance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not claim non-Congressism succeeded electorally within this topic's period.",
+      "source_references": [
+        "Ram Manohar Lohia and 'non-Congressism'"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THE OPPOSITION'S IDEOLOGICAL RANGE, 1947-67",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE OPPOSITION'S IDEOLOGICAL RANGE, 1947-67",
+          "role": "primary"
+        },
+        {
+          "text": "CORE POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "JANA SANGH (1951)",
+          "role": "comparison"
+        },
+        {
+          "text": "HINDU-NATIONALIST CULTURAL POLITICS",
+          "role": "evidence"
+        },
+        {
+          "text": "SWATANTRA (1959)",
+          "role": "primary"
+        },
+        {
+          "text": "FREE-MARKET ECONOMIC CONSERVATISM",
+          "role": "outcome"
+        },
+        {
+          "text": "PSP AND STREAMS",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-COMMUNIST SOCIALIST POLITICS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE POSITION",
+        "Jana Sangh (1951)",
+        "Hindu-nationalist cultural politics",
+        "Swatantra (1959)",
+        "free-market economic conservatism"
+      ],
+      "matrix": [
+        [
+          "PARTY/STREAM",
+          "CORE POSITION"
+        ],
+        [
+          "Jana Sangh (1951)",
+          "Hindu-nationalist cultural politics"
+        ],
+        [
+          "Swatantra (1959)",
+          "free-market economic conservatism"
+        ],
+        [
+          "PSP and streams",
+          "non-Communist socialist politics"
+        ],
+        [
+          "CPI / CPI(M)",
+          "organised communism, split from 1964"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORE POSITION",
+            "Jana Sangh (1951)",
+            "Hindu-nationalist cultural politics",
+            "Swatantra (1959)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "free-market economic conservatism",
+            "PSP and streams",
+            "non-Communist socialist politics",
+            "CPI / CPI(M)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "organised communism, split from 1964",
+            "PROBLEM → real range, but FRAGMENTED, not unified, before 1967"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROBLEM → real range, but FRAGMENTED, not unified, before 1967.",
+      "source_references": [
+        "The ideological range of the non-Congress opposition"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "1967: THE WATERSHED THIS WHOLE TOPIC FORESHADOWS",
+      "structural_type": "timeline",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "THE WATERSHED THIS WHOLE TOPIC FORESHADOWS",
+          "role": "primary"
+        },
+        {
+          "text": "BAN, SPLITS, MERGERS, NEW PARTIES RESHAPE THE OPPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS SEAT MAJORITY STAYS LARGE; VOTE SHARE KEEPS DECLINING",
+          "role": "comparison"
+        },
+        {
+          "text": "CPI SPLITS INTO CPI/CPI(M)",
+          "role": "evidence"
+        },
+        {
+          "text": "FOR THE FIRST TIME, CONGRESS LOSES POWER IN EIGHT",
+          "role": "mechanism"
+        },
+        {
+          "text": "READ THE THREAD",
+          "role": "outcome"
+        },
+        {
+          "text": "1967 IS THE PAYOFF OF TWO DECADES OF PARTY-SYSTEM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1948-1964 → ban, splits, mergers, new parties reshape the opposition",
+        "1952 / 1957 / 1962 → Congress SEAT majority stays large; VOTE SHARE keeps declining",
+        "1964 → CPI splits into CPI/CPI(M)",
+        "1967 → for the FIRST TIME, Congress loses power in EIGHT STATES",
+        "READ THE THREAD → 1967 is the payoff of two decades of party-system change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1948-1964 → ban, splits, mergers, new parties reshape the opposition",
+            "1952 / 1957 / 1962 → Congress SEAT majority stays large; VOTE SHARE keeps declining"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1964 → CPI splits into CPI/CPI(M)",
+            "1967 → for the FIRST TIME, Congress loses power in EIGHT STATES"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "READ THE THREAD → 1967 is the payoff of two decades of party-system change",
+            "1948-1964 → ban, splits, mergers, new parties reshape the opposition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READ THE THREAD → 1967 is the payoff of two decades of party-system change.",
+      "source_references": [
+        "1967: the watershed foreshadowed"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRA STRESSES THAT CONGRESS WAS TRANSFORMED FROM A MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL, CONSENSUAL, IDEOLOGICALLY FLEXIBLE CHARACTER — A \"PARTY OF",
+          "role": "comparison"
+        },
+        {
+          "text": "FOLLOWING RAJNI KOTHARI, THE SYSTEM HAD A MECHANISM OF",
+          "role": "mechanism"
+        },
+        {
+          "text": "FACTIONS INSIDE CONGRESS",
+          "role": "primary"
+        },
+        {
+          "text": "PERFORMED THE FUNCTION AN OPPOSITION WOULD, WHILE EXTERNAL PARTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PARTY-VS-GOVERNMENT QUESTION (KRIPALANI'S DEMAND THAT THE ORGANISATION CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "IN FAVOUR OF GOVERNMENTAL RESPONSIBILITY TO THE LEGISLATURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Chandra stresses that Congress was transformed from a movement into a party yet retained a",
+            "plural, consensual, ideologically flexible character — a \"party of the centre\" with a left orientation.",
+            "CAUTION: Following Rajni Kothari, the system had a mechanism of consensus and dissent : factions inside Congress",
+            "performed the function an opposition would, while external parties acted as \"parties of pressure\" that Congress absorbed."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The party-vs-government question (Kripalani's demand that the organisation control the government) was settled",
+            "in favour of governmental responsibility to the legislature , concentrating authority around Nehru.",
+            "CAUTION: The system's genius was co-optation : Congress adopted the popular planks",
+            "of its rivals (socialism, land reform, backward-class welfare), denying them space."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Socialists/PSP were paralysed by the choice between Asoka Mehta's cooperation and",
+            "Lohia's militant anti-Congressism , and drained by defections back to Congress.",
+            "The CPI's oscillation — insurrection (Ranadive, 1948–51) → parliamentary path (Ajoy Ghosh) → 1964",
+            "split — reflected an unresolved dispute over the class character of the Indian state."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

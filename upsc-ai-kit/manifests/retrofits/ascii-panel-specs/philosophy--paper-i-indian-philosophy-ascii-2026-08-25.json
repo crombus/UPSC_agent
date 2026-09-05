@@ -1,0 +1,1527 @@
+{
+  "schema_version": 2,
+  "benchmark": "Approved Cārvāka continuous master plus manually authored ASCII atlas",
+  "generated_on": "2026-09-02",
+  "scope": "Complete Philosophy Optional Paper I Indian Philosophy section (nine topics)",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "title": "Carvaka (Cārvāka / Lokāyata)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-01:learner-v2:g15",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Source-critical entry",
+          "structural_type": "provenance funnel",
+          "source_session_heading_references": [
+            "A. Source status",
+            "Historical Reconstruction and the Source Problem"
+          ],
+          "lines": [
+            "CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE",
+            "                         |",
+            "     +-------------------+-------------------+",
+            "     v                   v                   v",
+            " lost Bṛhaspati-sūtra  opponent reports   quoted fragments",
+            "                       (Mādhava, Jayanta,  (often polemical)",
+            "                        Śāntarakṣita)",
+            "     +-------------------+-------------------+",
+            "                         v",
+            " RULE: distinguish attested thesis from hostile caricature",
+            " Lokāyata = this-worldly orientation; Cārvāka = materialist school label."
+          ]
+        },
+        {
+          "panel_title": "Epistemic gate",
+          "structural_type": "branching pramāṇa tree",
+          "source_session_heading_references": [
+            "B. Epistemic thesis",
+            "C. Critique of inference"
+          ],
+          "lines": [
+            "VALID KNOWLEDGE (PRAMĀ)                     REJECTED INDEPENDENT SOURCES",
+            "          |                                             |",
+            "          v                                             v",
+            " PERCEPTION (pratyakṣa) / PERCEPTION              inference (anumāna)     verbal testimony",
+            "   (śabda)      comparison (upamāna)",
+            " direct, sense-grounded              inference   testimony  comparison",
+            "          |                              |",
+            "          v                              v",
+            " observed conjunction is finite; universal invariable concomitance (vyāpti) outruns perception",
+            " smoke seen with fire in kitchens != smoke is invariably fire-linked."
+          ]
+        },
+        {
+          "panel_title": "Inference controversy",
+          "structural_type": "objection-reply dialectic",
+          "source_session_heading_references": [
+            "C. Critique of inference",
+            "D. Upādhi and self-refutation",
+            "E. Nyāya reply"
+          ],
+          "lines": [
+            "CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti)",
+            " invariable concomitance (vyāpti) known by inference -> circularity | by perception -> incomplete",
+            "   survey",
+            " hidden condition (upādhi) may defeat the rule: fire without smoke, wet fuel matters",
+            "                         |",
+            " NYĀYA REPLY: repeated agreement + absence of counter-instance + hypothetical reasoning (tarka)",
+            " agreement in presence (anvaya) (presence) + agreement in absence (vyatireka) (absence) ->",
+            "   defeasible but rational invariable concomitance (vyāpti)",
+            "                         |",
+            " CĀRVĀKA COUNTER-PRESSURE: practical expectation may work without certainty",
+            " SELF-REFUTATION CHARGE: arguing against inference already employs inference."
+          ]
+        },
+        {
+          "panel_title": "Material ontology",
+          "structural_type": "emergence map",
+          "source_session_heading_references": [
+            "F. Material reality",
+            "G. Self and consciousness"
+          ],
+          "lines": [
+            "ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED",
+            " earth + water + fire + air -> organised living body -> consciousness",
+            "                         |",
+            " consciousness is a body-property, not an immaterial substance",
+            " analogy: fermentation ingredients -> intoxicating power not present separately",
+            "                         |",
+            " SELF = living conscious body (dehātma-vāda)",
+            " death -> elemental dissolution -> no surviving enduring self (ātman), rebirth or afterlife",
+            " QUALIFICATION: emergence is asserted; a full mechanism is not supplied."
+          ]
+        },
+        {
+          "panel_title": "Transcendent denials",
+          "structural_type": "dependency collapse chain",
+          "source_session_heading_references": [
+            "H. Transcendent denials"
+          ],
+          "lines": [
+            "NO PERCEPTUAL WARRANT",
+            "       |",
+            "       +-> no immortal soul -> no rebirth",
+            "       +-> no action and moral consequence (karma) as supersensible moral force",
+            "       +-> no heaven/hell -> no post-mortem reward or punishment",
+            "       +-> no creator God -> world needs no transcendent planner",
+            "       +-> no Vedic infallibility -> priestly testimony lacks intrinsic authority",
+            " RESULT: metaphysics is cut back to perceptible nature and embodied life."
+          ]
+        },
+        {
+          "panel_title": "Ethics without caricature",
+          "structural_type": "ethical decision matrix",
+          "source_session_heading_references": [
+            "I. Ethics",
+            "Labels and evaluation"
+          ],
+          "lines": [
+            "PURUṢĀRTHA FILTER",
+            " dharma: rejected when grounded in unseen reward or Vedic command",
+            " liberation (mokṣa): rejected as liberation of a separable soul",
+            " material well-being (artha) + pleasure (kāma): intelligible goods within one embodied life",
+            "                         |",
+            " prudent enjoyment != reckless indulgence",
+            " pleasure sought -> weigh pain, social consequence and attainable means",
+            "                         |",
+            " EXAM CONTROL: call it naturalistic hedonism or this-worldliness;",
+            " do not reduce the school to the hostile slogan “eat, drink and borrow.”"
+          ]
+        },
+        {
+          "panel_title": "Comparative pressure map",
+          "structural_type": "school comparison grid",
+          "source_session_heading_references": [
+            "J. Comparative map",
+            "K. Labels and evaluation"
+          ],
+          "lines": [
+            "ISSUE          CĀRVĀKA             NYĀYA              BUDDHISM",
+            "means of valid knowledge (pramāṇa)        perception only     four means of valid knowledge",
+            "  (pramāṇas)      perception + inference",
+            "self           conscious body      enduring enduring self (ātman)     anātman stream",
+            "causation      observed sequence   realist relation   dependent origination",
+            "transcendent   denied              God, soul, action and moral consequence (karma)   action and",
+            "  moral consequence (karma) without creator",
+            "liberation     death ends person    release (apavarga)           cessation of conditioned",
+            "  suffering (nirvāṇa)",
+            "                         |",
+            " STRENGTH: anti-dogmatic evidential discipline",
+            " LIMIT: perception-only rule struggles to justify science, memory and its own critique."
+          ]
+        },
+        {
+          "panel_title": "PYQ answer rail",
+          "structural_type": "answer-synthesis flow",
+          "source_session_heading_references": [
+            "L. Final answer discipline",
+            "Rapid answer spine",
+            "PYQ routes at a glance"
+          ],
+          "lines": [
+            "DEFINE source problem -> STATE perception thesis -> RECONSTRUCT inference attack",
+            "        |                         |                         |",
+            "        v                         v                         v",
+            " explain hidden limiting condition (upādhi)/circularity -> give Nyāya reply -> assess",
+            "   self-refutation",
+            "        |",
+            "        v",
+            " derive materialism -> embodied self -> transcendent denials -> ethical result",
+            "        |",
+            "        v",
+            " QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive",
+            " perception (pratyakṣa) criterion is narrower than the reasoning needed to defend that challenge."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "title": "Jainism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-02:learner-v2:g15",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Plural realist ontology",
+          "structural_type": "ontological branching map",
+          "source_session_heading_references": [
+            "A. System identity",
+            "B. Reality"
+          ],
+          "lines": [
+            "JAIN REALITY (SAT) = permanence-through-change",
+            "                         |",
+            "             +-----------+-----------+",
+            "             v                       v",
+            "          CONSCIOUS SOUL (jīva)                     NON-CONSCIOUS REALITY (ajīva)",
+            " conscious substances       non-conscious substances",
+            "             |                       |",
+            " innumerable souls          pudgala | dharma | adharma | ākāśa | kāla",
+            "             +-----------+-----------+",
+            "                         v",
+            " each substance (dravya) has enduring substance + changing quality (guṇa)/mode (paryāya)",
+            " UTPĀDA + VYAYA + DHRAUVYA = origination + cessation + persistence."
+          ]
+        },
+        {
+          "panel_title": "Conscious soul (jīva) and non-conscious reality (ajīva) mechanics",
+          "structural_type": "substance taxonomy",
+          "source_session_heading_references": [
+            "C. Substance and soul"
+          ],
+          "lines": [
+            "CONSCIOUS SOUL (jīva): consciousness (upayoga) is essential; knowledge is naturally unbounded",
+            " embodied state -> soul expands/contracts to body -> agency + experience",
+            "                         |",
+            " NON-CONSCIOUS REALITY (ajīva) FIVEFOLD",
+            " pudgala = matter, including karmic matter | ākāśa = accommodation",
+            " dharma = medium of motion              | adharma = medium of rest",
+            " kāla = condition of change",
+            " TRAP: dharma/adharma here are cosmic media, not moral merit/demerit."
+          ]
+        },
+        {
+          "panel_title": "Bondage as material process",
+          "structural_type": "causal bondage chain",
+          "source_session_heading_references": [
+            "H. Karma and bondage"
+          ],
+          "lines": [
+            "PASSIONATE ACTIVITY (yoga + kaṣāya)",
+            "                         |",
+            "                         v",
+            " INFLUX OF KARMIC MATTER (āsrava): influx of subtle karmic pudgala into conscious soul (jīva)",
+            "                         |",
+            "                         v",
+            " BONDAGE (bandha): karmic matter binds and obscures knowledge, faith, energy, bliss",
+            "                         |",
+            "        stoppage of karmic influx (saṃvara) blocks new influx + shedding of karma",
+            "          (nirjarā) sheds old action and moral consequence (karma)",
+            "                         |",
+            "                         v",
+            " LIBERATION (mokṣa): perfect knowledge (kevala-jñāna); liberated siddha rises beyond cycle of",
+            "   rebirth (saṃsāra)."
+          ]
+        },
+        {
+          "panel_title": "Many-sided knowledge",
+          "structural_type": "perspectival hierarchy",
+          "source_session_heading_references": [
+            "D. Knowledge",
+            "E. Many-sided judgement"
+          ],
+          "lines": [
+            "REALITY HAS INNUMERABLE ASPECTS",
+            "                         |",
+            "          +--------------+--------------+",
+            "          v                             v",
+            " MANY-SIDED REALITY (anekāntavāda)                     STANDPOINT ANALYSIS (nayavāda)",
+            " metaphysical many-sidedness      partial standpoints of judgement",
+            "          |                             |",
+            "          +--------------+--------------+",
+            "                         v",
+            " QUALIFIED ASSERTION (syādvāda): conditional predication — “in a certain respect”",
+            " partial statement can be valid without being absolutely exhaustive",
+            " TRAP: not scepticism; omniscience knows fully, finite knowers know perspectivally."
+          ]
+        },
+        {
+          "panel_title": "Sevenfold predication (saptabhaṅgī) sevenfold branch",
+          "structural_type": "seven-branch predication tree",
+          "source_session_heading_references": [
+            "F. Sevenfold predication"
+          ],
+          "lines": [
+            "ABOUT OBJECT X, UNDER SPECIFIED STANDPOINT / TIME / MODE:",
+            " 1 syād-asti              -> in some respect, X is",
+            " 2 syān-nāsti             -> in some respect, X is not",
+            " 3 syād-asti-nāsti        -> successively, X is and is not",
+            " 4 syād-avaktavyaḥ        -> X is inexpressible under simultaneous demand",
+            " 5 syād-asti-avaktavyaḥ   -> X is and is inexpressible",
+            " 6 syān-nāsti-avaktavyaḥ  -> X is not and is inexpressible",
+            " 7 syād-asti-nāsti-avaktavyaḥ -> X is, is not, and is inexpressible",
+            " CONTRADICTION IS AVOIDED BY DIFFERENT RESPECTS, NOT BY ASSERTING P AND NOT-P SIMPLY."
+          ]
+        },
+        {
+          "panel_title": "Ethical-soteriological route",
+          "structural_type": "three-jewel liberation ladder",
+          "source_session_heading_references": [
+            "I. Liberation sequence",
+            "J. Ethics and stages"
+          ],
+          "lines": [
+            "SAMYAG-DARŚANA -> SAMYAG-JÑĀNA -> SAMYAK-CĀRITRA",
+            " right faith          right knowledge      right conduct",
+            "                                         |",
+            "                           five vows: ahiṃsā, satya, asteya,",
+            "                           brahmacarya, aparigraha",
+            "                                         |",
+            " householder aṇuvrata -> ascetic mahāvrata -> guṇasthāna purification",
+            "                                         |",
+            " ahiṃsā disciplines body, speech and thought because every conscious soul (jīva) can be harmed."
+          ]
+        },
+        {
+          "panel_title": "Objections, replies, comparisons",
+          "structural_type": "dialectical comparison grid",
+          "source_session_heading_references": [
+            "G. Absolutism objection",
+            "K. Criticism–reply grid"
+          ],
+          "lines": [
+            "OBJECTION                         JAIN REPLY",
+            "qualified assertion (syādvāda) is self-refuting           it applies conditionally to itself, not",
+            "  absolutely",
+            "seven forms are repetitive          combinations track affirmation, denial, ineffability",
+            "many-sided reality (anekāntavāda) destroys truth             it rejects one-sided absolutism, not",
+            "  determinate truth",
+            "karma-matter/soul contact obscure   bondage is beginningless via passions and subtle pudgala",
+            "                         |",
+            " BUDDHISM: change without substance | VEDĀNTA: unity beneath plurality",
+            " JAINISM: real substances persist through real modes; plurality is irreducible."
+          ]
+        },
+        {
+          "panel_title": "PYQ answer architecture",
+          "structural_type": "convergent answer spine",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "OPEN: Jainism joins realism, pluralism and perspectival discipline",
+            "                         |",
+            " ontology -> conscious soul (jīva)/non-conscious reality (ajīva) -> dravya-guṇa-paryāya ->",
+            "   permanence-through-change",
+            "                         |",
+            " epistemology -> many-sided reality (anekāntavāda) -> naya -> syāt -> exact seven bhaṅgas",
+            "                         |",
+            " soteriology -> action and moral consequence (karma) as matter -> influx of karmic matter",
+            "   (āsrava)/bondage (bandha) -> stoppage of karmic influx (saṃvara)/shedding of karma (nirjarā)",
+            "   -> liberation (mokṣa)",
+            "                         |",
+            " evaluate strongest contradiction objection and standpoint reply",
+            "                         |",
+            " CLOSE: qualified predication protects complexity without surrendering truth."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "title": "Schools of Buddhism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-03:learner-v2:g15",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Common Buddhist foundation",
+          "structural_type": "foundation-to-schools map",
+          "source_session_heading_references": [
+            "A. System identity",
+            "B. Dependent origination"
+          ],
+          "lines": [
+            "COMMON THERAPEUTIC CORE",
+            " suffering (duḥkha) -> origin (tṛṣṇā/avidyā) -> cessation (nirvāṇa) -> eightfold path",
+            "                         |",
+            " three marks: anitya | suffering (duḥkha) | anātman",
+            "                         |",
+            " dependent origination supplies the Middle Path (madhyamā pratipad):",
+            " neither eternal substance nor causeless annihilation",
+            "                         |",
+            " later schools disagree about what exists and how it is known,",
+            " not about the need to end ignorance and craving."
+          ]
+        },
+        {
+          "panel_title": "Tradition taxonomy and four-school mapping",
+          "structural_type": "historical-doctrinal mapping matrix",
+          "source_session_heading_references": [
+            "REVIEW-PROMOTED TAXONOMY, THREE MARKS AND TWELVE-LINK INTERPRETATIONS"
+          ],
+          "lines": [
+            "EARLY BUDDHISM -> common diagnostic core before later school systems",
+            "THERAVĀDA -> Pāli Tipiṭaka + arhat ideal; one surviving early school",
+            "HĪNAYĀNA -> Mahāyāna-applied, historically loaded label; not a Theravāda synonym",
+            "MAHĀYĀNA -> bodhisattva path to complete Buddhahood for beings",
+            "Vaibhāṣika + Sautrāntika -> Sarvāstivāda-related non-Mahāyāna positions",
+            "Yogācāra + Mādhyamika -> Mahāyāna philosophical traditions",
+            "four-school matrix = philosophical doxography, not complete institutional history"
+          ]
+        },
+        {
+          "panel_title": "Practical and doctrinal Middle Path",
+          "structural_type": "double middle-path bridge",
+          "source_session_heading_references": [
+            "FOUNDATIONAL GATEWAY — The Middle Path"
+          ],
+          "lines": [
+            "MIDDLE PATH (MADHYAMĀ PRATIPAD; PALI: MAJJHIMĀ PAṬIPADĀ)",
+            "practical extremes: sensual indulgence X self-mortification",
+            "positive route -> Noble Eightfold Path (āryāṣṭāṅgamārga)",
+            "wisdom + ethical discipline + meditative discipline",
+            "doctrinal extremes: eternalism X annihilationism",
+            "dependent origination preserves conditioned continuity without a permanent self",
+            "Four Noble Truths -> cause -> cessation -> path -> liberation"
+          ]
+        },
+        {
+          "panel_title": "Twelve-linked dependent origination",
+          "structural_type": "causal wheel",
+          "source_session_heading_references": [
+            "B. Dependent origination",
+            "C. Derivation spine"
+          ],
+          "lines": [
+            "ignorance (avidyā) -> saṃskāra -> vijñāna -> nāma-rūpa -> ṣaḍāyatana -> sparśa",
+            "   -> vedanā -> tṛṣṇā -> upādāna -> bhava -> jāti -> jarā-maraṇa",
+            "                         |",
+            " IGNORANCE conditions formations; craving and grasping renew becoming",
+            "                         |",
+            " “When this is, that comes to be; with cessation of this, that ceases”",
+            "                         |",
+            " reverse order: end ignorance (avidyā)/tṛṣṇā -> break appropriation -> end rebirth-duḥkha.",
+            "THREE-LIFE READING: past causes -> present effects/causes -> future results",
+            "PRESENT-PROCESS READING: contact -> feeling -> craving -> appropriation now",
+            "CAUTION: diagnostic structure, not an absolutely first cause or one rigid chronology"
+          ]
+        },
+        {
+          "panel_title": "Momentariness and no-self",
+          "structural_type": "derivation and bundle map",
+          "source_session_heading_references": [
+            "D. Momentariness",
+            "E. No-self"
+          ],
+          "lines": [
+            "DEPENDENT ORIGINATION (pratītyasamutpāda) -> conditioned things arise and perish -> MOMENTARINESS",
+            "  (kṣaṇikavāda)",
+            " causal efficacy belongs to the moment; no unchanged bearer is required",
+            "                         |",
+            " PERSON ANALYSIS -> five aggregates (skandhas)",
+            " rūpa | vedanā | saṃjñā | saṃskāra | vijñāna",
+            "                         |",
+            " none is permanent, independent or “mine” -> NO PERMANENT SELF (nairātmyavāda)",
+            " continuity = causal series, like flame-to-flame; identity is neither strict sameness",
+            " nor total unrelatedness."
+          ]
+        },
+        {
+          "panel_title": "Action and moral consequence (karma), memory and cessation of conditioned suffering (nirvāṇa)",
+          "structural_type": "continuity-without-substance chain",
+          "source_session_heading_references": [
+            "F. Karma, memory and nirvāṇa"
+          ],
+          "lines": [
+            "NO ENDURING SELF (ātman), YET CAUSAL RESPONSIBILITY",
+            " intention at t1 -> conditions stream -> fruit at t2",
+            "                         |",
+            " memory = later cognition causally conditioned by earlier experience",
+            " rebirth = one psycho-physical series conditions another, without soul-transmigration",
+            "                         |",
+            " objection: if agent perishes, another receives result",
+            " reply: successor is neither identical nor wholly different; causal appropriation connects",
+            " cessation of conditioned suffering (nirvāṇa) = cessation of greed, hatred and delusion, not",
+            "   destruction of a substance-self."
+          ]
+        },
+        {
+          "panel_title": "Abhidharma school fork",
+          "structural_type": "four-school branching taxonomy",
+          "source_session_heading_references": [
+            "G. Four schools"
+          ],
+          "lines": [
+            "BUDDHIST REALITY / KNOWLEDGE DEBATE",
+            "             +----------------------+----------------------+",
+            "             v                                             v",
+            "      NON-MAHĀYĀNA ABHIDHARMA                               MAHĀYĀNA",
+            "       |             |                              |           |",
+            " Vaibhāṣika     Sautrāntika                    Yogācāra    Mādhyamika",
+            " external       external objects               cognition   emptiness of",
+            " dharmas        inferred from ideas             only        all intrinsic nature (svabhāva)",
+            " directly       and causal effects",
+            " perceived",
+            " SCHOOL LABELS MARK EPISTEMIC/ONTOLOGICAL POSITIONS, NOT FOUR PATHS TO MIX."
+          ]
+        },
+        {
+          "panel_title": "Vaibhāṣika and Sautrāntika",
+          "structural_type": "realist comparison panel",
+          "source_session_heading_references": [
+            "G. Four schools"
+          ],
+          "lines": [
+            "ISSUE              VAIBHĀṢIKA                  SAUTRĀNTIKA",
+            "external object    real dharmas                 real momentary causes",
+            "access             direct perception            inferred from mental image",
+            "past/future        sarvāstivāda: dharmas exist  only present causal moment stressed",
+            "cognition          grasps object                represents object",
+            "                         |",
+            " SAUTRĀNTIKA ARGUMENT: object-moment is gone when awareness occurs;",
+            " therefore cognition presents an image, from which external cause is inferred.",
+            " PRESSURE: representative realism must explain correspondence."
+          ]
+        },
+        {
+          "panel_title": "Yogācāra and Mādhyamika",
+          "structural_type": "Mahayana divergence-convergence",
+          "source_session_heading_references": [
+            "H. Yogācāra",
+            "I. Mādhyamika"
+          ],
+          "lines": [
+            "YOGĀCĀRA / CONSCIOUSNESS-ONLY DOCTRINE (vijñānavāda)             MĀDHYAMIKA / EMPTINESS (śūnyatā)",
+            "subject-object duality is constructed     all things lack intrinsic nature (svabhāva)",
+            "vijñapti-mātra: representation-only       dependent arising = emptiness",
+            "store-consciousness (ālaya-vijñāna) stores bīja tendencies      two truths: saṃvṛti / paramārtha",
+            "three natures: parikalpita,                tetralemma rejects is / is-not /",
+            "paratantra, pariniṣpanna                   both / neither as ultimate capture",
+            "                         |",
+            " CONVERGENCE: dissolve reification; DIFFERENCE: Yogācāra privileges purified cognition,",
+            " while Mādhyamika empties even consciousness and emptiness itself."
+          ]
+        },
+        {
+          "panel_title": "Critique and PYQ answer spine",
+          "structural_type": "dialectic-to-answer rail",
+          "source_session_heading_references": [
+            "J. Epistemology and silence",
+            "K. Criticism–reply grid",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "OBJECTIONS: flux cannot explain continuity | anātman weakens agency | emptiness (śūnyatā) is",
+            "  nihilism",
+            " REPLIES: causal series | dependent responsibility | emptiness denies self-nature, not function",
+            "                         |",
+            " ANSWER RAIL",
+            " common core -> twelve links -> momentariness -> five-skandha no-self",
+            "      -> action and moral consequence (karma)/memory reply -> four-school fork -> exact",
+            "        school comparison",
+            "      -> objection/reply -> qualified verdict",
+            "                         |",
+            " CLOSE: Buddhism replaces substance with conditioned process; its schools progressively",
+            " debate whether external dharmas, cognition, or any intrinsic nature can be retained."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "title": "Nyaya-Vaisesika (Nyāya–Vaiśeṣika)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-04:learner-v2:g15",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Realist system map",
+          "structural_type": "ontology-epistemology convergence",
+          "source_session_heading_references": [
+            "A. System identity"
+          ],
+          "lines": [
+            "NYĀYA: valid knowledge and argument       VAIŚEṢIKA: inventory of reality",
+            "                  \\                              /",
+            "                   \\                            /",
+            "                    +---- NYĀYA–VAIŚEṢIKA ----+",
+            "                    realism + pluralism + liberation through truth",
+            "                              |",
+            " valid cognition (pramā) -> objects correctly known -> false notions removed -> faults cease",
+            "                              |",
+            " karma-producing action ceases -> rebirth and pain cease -> RELEASE (apavarga).",
+            "Nyāya: 4 means of valid knowledge (pramāṇas) | classical Vaiśeṣika: perception + inference",
+            "historically two allied systems; later synthesis, not identity from the start"
+          ]
+        },
+        {
+          "panel_title": "Sixteen Nyāya topics versus seven Vaiśeṣika categories",
+          "structural_type": "dual category ownership matrix",
+          "source_session_heading_references": [
+            "REVIEW-PROMOTED CATEGORY, INFERENCE AND SOURCE COMPLETENESS"
+          ],
+          "lines": [
+            "NYĀYA 16 = topics of inquiry, proof and debate",
+            "means of valid knowledge (pramāṇa) | prameya | saṃśaya | prayojana | dṛṣṭānta | established",
+            "  conclusion (siddhānta)",
+            "avayava | hypothetical reasoning (tarka) | nirṇaya | vāda | jalpa | vitaṇḍā",
+            "hetvābhāsa | chala | jāti | nigrahasthāna",
+            "PRAMEYA 12: self -> body/senses/objects -> cognition/mind -> activity/defects",
+            "             -> rebirth/fruit/suffering -> release",
+            "VAIŚEṢIKA 7 = kinds of being: substance (dravya) | quality (guṇa) | motion or action (karma)",
+            "                viśeṣa | inherence (samavāya) | absence (abhāva)",
+            "DO NOT FLATTEN: Nyāya inquiry map != Vaiśeṣika ontology"
+          ]
+        },
+        {
+          "panel_title": "Seven categories (padārthas)",
+          "structural_type": "category hierarchy",
+          "source_session_heading_references": [
+            "B. Seven categories",
+            "C. Relations and individuation",
+            "D. Universal and absence"
+          ],
+          "lines": [
+            "CATEGORY (padārtha): whatever is nameable and knowable",
+            " 1 DRAVYA: earth, water, fire, air, ākāśa, time, space, self, mind",
+            " 2 QUALITY (guṇa): quality; depends on substance, does not itself possess quality/action",
+            " 3 ACTION AND MORAL CONSEQUENCE (karma): motion/action in a substance",
+            " 4 SĀMĀNYA: real universal, one-in-many",
+            " 5 VIŚEṢA: ultimate particularity individuating eternal atoms and selves",
+            " 6 INHERENCE (samavāya): eternal inherence; whole-parts, universal-particular, quality-substance",
+            " 7 ABSENCE (abhāva): absence — prior, posterior, mutual, absolute",
+            " CAUTION: inherence (samavāya) is not conjunction (saṃyoga), which is separable."
+          ]
+        },
+        {
+          "panel_title": "Four means of valid knowledge (pramāṇas) and perception",
+          "structural_type": "epistemic process tree",
+          "source_session_heading_references": [
+            "E. Four pramāṇas",
+            "F. Perception"
+          ],
+          "lines": [
+            "MEANS OF VALID KNOWLEDGE (pramāṇas)",
+            " +-> perception (pratyakṣa): sense-object contact -> nirvikalpaka -> savikalpaka recognition",
+            " +-> inference (anumāna): sign (liṅga/hetu) through invariable concomitance (vyāpti) to property",
+            "   to be proved (sādhya)",
+            " +-> comparison (upamāna): knowledge through similarity and prior description",
+            " +-> verbal testimony (śabda): trustworthy utterance, ultimately āpta testimony",
+            "                         |",
+            " PERCEPTION TYPES: external/internal | ordinary/alaukika",
+            " alaukika: sāmānyalakṣaṇa, jñānalakṣaṇa, yogaja",
+            " ERROR is mislocation of a real qualifier: misplacement theory of error (anyathākhyāti).",
+            "verbal testimony (śabda) sentence: ākāṅkṣā + yogyatā + sannidhi/āsatti + tātparya",
+            "absence: locus (anuyogin) qualified by absent counterpositive (pratiyogin)",
+            "Nyāya knows absence through perception/inference, not separate non-cognition (anupalabdhi)"
+          ]
+        },
+        {
+          "panel_title": "Inference engine",
+          "structural_type": "five-member inference tree",
+          "source_session_heading_references": [
+            "G. Inference"
+          ],
+          "lines": [
+            "SVĀRTHĀNUMĀNA: inference for oneself | PARĀRTHĀNUMĀNA: demonstrated to another",
+            " five members:",
+            " 1 pratijñā: hill has fire",
+            " 2 reason (hetu): because it has smoke",
+            " 3 udāharaṇa: wherever smoke, fire — as kitchen",
+            " 4 upanaya: hill has such smoke",
+            " 5 nigamana: therefore hill has fire",
+            "                         |",
+            " pakṣadharmatā + invariable concomitance (vyāpti) + uncontradicted application -> conclusion",
+            " HETVĀBHĀSA: savyabhicāra, viruddha, satpratipakṣa, asiddha, bādhita.",
+            "purpose: svārtha | parārtha",
+            "direction: pūrvavat | śeṣavat | sāmānyatodṛṣṭa",
+            "concomitance: kevalānvayi | kevalavyatireki | anvayavyatireki"
+          ]
+        },
+        {
+          "panel_title": "Causation and atomism",
+          "structural_type": "creation-dissolution cycle",
+          "source_session_heading_references": [
+            "K. Causation and atomism"
+          ],
+          "lines": [
+            "NON-EXISTENCE OF THE EFFECT BEFORE PRODUCTION (asatkāryavāda) / NEW PRODUCTION (ārambhavāda):",
+            "  effect is a new beginning, not pre-existent as effect",
+            " causes: samavāyi (inherent) | asamavāyi (non-inherent) | nimitta (efficient)",
+            "                         |",
+            " earth/water/fire/air 2 atoms (paramāṇu) -> imperceptible dyad; 3 dyads -> perceptible triad ->",
+            "   gross composite",
+            "                         |",
+            " pralaya: composites dissolve; eternal atoms, selves, space, time remain",
+            " sṛṣṭi: Lord (īśvara) activates atoms according to unseen causal force (adṛṣṭa)/action and moral",
+            "   consequence (karma)",
+            " TRAP: God orders atoms; God is not the material cause and atoms are not created ex nihilo.",
+            "cause = unconditional + invariable antecedent (ananyathāsiddha)",
+            "exclude remote, accidental, co-effect and redundant antecedents (anyathāsiddha)"
+          ]
+        },
+        {
+          "panel_title": "Self, God and liberation",
+          "structural_type": "metaphysical-soteriological chain",
+          "source_session_heading_references": [
+            "H. Appearance and self",
+            "I. Liberation",
+            "J. God"
+          ],
+          "lines": [
+            "ENDURING SELF (ātman): eternal, many, all-pervasive substrate of cognition, desire and volition",
+            " SENSORY MIND (manas): atomic inner sense linking self to one cognition at a time",
+            "                         |",
+            " LORD (īśvara): eternal omniscient efficient cause; author/teacher of Veda;",
+            " coordinates atoms and karmic deserts without abolishing individual agency",
+            "                         |",
+            " true knowledge -> doṣa removed -> pravṛtti ceases -> action and moral consequence (karma)",
+            "   exhausted -> release (apavarga)",
+            " release (apavarga) = complete cessation of pain; classical Nyāya does not define it as",
+            "   Brahman-union.",
+            "six self-marks: desire | aversion | effort | pleasure | pain | cognition",
+            "Kaṇāda does not foreground creator God unambiguously; later synthesis is explicit"
+          ]
+        },
+        {
+          "panel_title": "Proof, objection and comparison",
+          "structural_type": "dialectical matrix",
+          "source_session_heading_references": [
+            "J. God",
+            "K. Causation and atomism"
+          ],
+          "lines": [
+            "UDAYANA ROUTES: kāryāt (effect) | āyojanāt (combination) | dhṛtyādeḥ (support)",
+            " padāt (word-use) | pratyayataḥ (trust) | śruteḥ (Veda) | vākyāt (sentences)",
+            " saṃkhyāviśeṣāt (number) | adṛṣṭāt (moral order)",
+            "                         |",
+            " OBJECTION: atoms + action and moral consequence (karma) may make God redundant; bodies expose",
+            "   unequal suffering",
+            " REPLY: unconscious atoms/unseen causal force (adṛṣṭa) cannot intelligently initiate and allocate",
+            "   order",
+            "                         |",
+            " SĀṂKHYA: pre-existence of the effect in the cause (satkāryavāda), primordial material nature",
+            "   (Prakṛti) material cause | NYĀYA: new effect from atoms",
+            " BUDDHISM: momentary process | NYĀYA: enduring substances and selves.",
+            "YOGA LORD (īśvara): special conscious witness (puruṣa) + meditative support",
+            "NYĀYA LORD (īśvara): inferred arranger, efficient cause and karmic governor",
+            "same name != same proof or systematic function"
+          ]
+        },
+        {
+          "panel_title": "PYQ answer spine",
+          "structural_type": "complete answer rail",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE two-system synthesis -> distinguish Nyāya 16 inquiry topics from Vaiśeṣika 7 ontological",
+            "  categories",
+            "       -> four means of valid knowledge (pramāṇas) -> perception stages -> five-member inference",
+            "       -> misplacement theory of error (anyathākhyāti) -> self/sensory mind (manas) -> Lord",
+            "         (īśvara) proofs and objection",
+            "       -> new production (ārambhavāda) + three causes -> atomistic creation cycle",
+            "       -> release (apavarga) -> compare Sāṃkhya/Buddhism -> qualified verdict",
+            "                         |",
+            " VERDICT: the system gains explanatory integration from realism and logical method;",
+            " its pressure points are inherence, the leap from order to God, and austere liberation."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "title": "Samkhya (Sāṃkhya)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-05:learner-v2:g15",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Dualist architecture",
+          "structural_type": "two-reality gateway",
+          "source_session_heading_references": [
+            "A. System identity",
+            "C. Prakṛti",
+            "E. Puruṣa"
+          ],
+          "lines": [
+            "SĀṂKHYA = PRE-EXISTENCE OF THE EFFECT IN THE CAUSE (satkāryavāda) + CONSTITUTIVE PRINCIPLE",
+            "  (tattva) EVOLUTION + PLURAL CONSCIOUS WITNESS (puruṣas)",
+            "                         |",
+            "        +----------------+----------------+",
+            "        v                                 v",
+            " PRIMORDIAL MATERIAL NATURE (Prakṛti)                              CONSCIOUS WITNESS (puruṣa)",
+            " one, unconscious, productive         many, conscious, inactive witnesses",
+            " unmanifest nature (avyakta) equilibrium of qualities (guṇas)         uncaused, unchanging,",
+            "   non-agent",
+            "        +----------------+----------------+",
+            "                         v",
+            " apparent association explains experience; discrimination ends bondage."
+          ]
+        },
+        {
+          "panel_title": "Textual identity, suffering and subtle continuity",
+          "structural_type": "source-soteriology-continuity bridge",
+          "source_session_heading_references": [
+            "REVIEW-PROMOTED SOURCE, EVOLUTION AND LIBERATION COMPLETENESS"
+          ],
+          "lines": [
+            "TRADITION: Kapila -> Āsuri -> Pañcaśikha; early works not securely extant",
+            "CLASSICAL OWNER: Īśvarakṛṣṇa's Sāṃkhyakārikā; later commentarial layers vary",
+            "THREEFOLD SUFFERING: ādhyātmika | ādhibhautika | ādhidaivika",
+            "SUBTLE BODY: liṅga-śarīra = 18 principles carrying dispositions between bodies",
+            "Conscious witness (puruṣa) neither acts nor migrates; empirical subtle body bears action and moral",
+            "  consequence (karma) and rebirth",
+            "CLASSICAL POSITION: non-theistic/God-unproved; later Vijñānabhikṣu re-theizes",
+            "YOGA BOUNDARY: Yoga owns citta, kleśa, samādhi, eight limbs and special Conscious witness (puruṣa)"
+          ]
+        },
+        {
+          "panel_title": "Knowledge and proof of primordial material nature (Prakṛti)",
+          "structural_type": "pramāṇa-to-metaphysics tree",
+          "source_session_heading_references": [
+            "B. Three pramāṇas",
+            "C. Prakṛti"
+          ],
+          "lines": [
+            "THREE MEANS OF VALID KNOWLEDGE (pramāṇas): perception | inference | reliable testimony",
+            " primordial material nature (Prakṛti) is inferred, not ordinarily perceived",
+            "                         |",
+            " finite effects require cause -> effects share common features",
+            " coordinated world requires common source -> evolutes need an unevolved ground",
+            " pleasure/pain/dullness in effects -> sattva/rajas/tamas in cause",
+            "                         |",
+            " PRIMORDIAL MATERIAL NATURE (Prakṛti): beginningless, unmanifest, independent material cause;",
+            " not “matter” alone, but psychophysical source of intellect, senses and elements.",
+            "proof 3 exact reading: śaktitaḥ pravṛtteś ca -> operation from causal power",
+            "proof 5 avibhāgāt vaiśvarūpyasya -> one undivided material root"
+          ]
+        },
+        {
+          "panel_title": "Three qualities (guṇas)",
+          "structural_type": "dynamic equilibrium triangle",
+          "source_session_heading_references": [
+            "D. Three guṇas"
+          ],
+          "lines": [
+            "                    SATTVA",
+            "          lightness | illumination | pleasure",
+            "                 /                         \\",
+            "                /        PRIMORDIAL MATERIAL NATURE (Prakṛti)          \\",
+            "               /   equilibrium breaks     \\",
+            "          RAJAS -------------------------- TAMAS",
+            " activity | stimulation | pain     inertia | obstruction | dullness",
+            "                         |",
+            " qualities (guṇas) are constituents, not detachable qualities",
+            " mutual domination + support + production drive all manifest difference."
+          ]
+        },
+        {
+          "panel_title": "Twenty-five principles (tattvas)",
+          "structural_type": "evolution cascade",
+          "source_session_heading_references": [
+            "F. Twenty-five tattvas"
+          ],
+          "lines": [
+            "PRIMORDIAL MATERIAL NATURE (Prakṛti) (1)",
+            "   -> COSMIC INTELLECT (mahat) / DETERMINATIVE INTELLECT (buddhi) (2)",
+            "      -> EGO-MAKER (ahaṃkāra) (3)",
+            "         +-> sāttvika -> SENSORY MIND (manas) (4) + 5 JÑĀNENDRIYAS + 5 KARMENDRIYAS",
+            "         +-> tāmasa  -> 5 SUBTLE ELEMENT (tanmātras) -> 5 GROSS ELEMENT (mahābhūtas)",
+            "         +-> rājasa supplies activity to both branches",
+            " CONSCIOUS WITNESS (puruṣa) (25) stands outside the evolute chain as witness",
+            " COUNT CONTROL: 1 primordial material nature (Prakṛti) + 23 evolutes + conscious witness (puruṣa)",
+            "   = 25 principles (tattvas).",
+            "11 instruments: hearing/touch/sight/taste/smell + speech/grasping/walking/excretion/reproduction +",
+            "  sensory mind (manas)",
+            "5 subtle element (tanmātras): sound | touch | form | taste | smell",
+            "5 gross elements: ether | air | fire | water | earth",
+            "cause only 1 | cause-effect 7 | effects only 16 | neither 1 Conscious witness (puruṣa)"
+          ]
+        },
+        {
+          "panel_title": "Pre-existence of the effect in the cause (satkāryavāda)",
+          "structural_type": "five-reason causation chain",
+          "source_session_heading_references": [
+            "G. Satkāryavāda",
+            "H. Rival causation"
+          ],
+          "lines": [
+            "EFFECT PRE-EXISTS LATENTLY IN CAUSE",
+            " asadakaraṇāt: non-being cannot be produced",
+            " upādānagrahaṇāt: specific material cause is selected",
+            " sarvasambhavābhāvāt: not everything arises from everything",
+            " śaktasya śakyakaraṇāt: cause produces only what it has power to produce",
+            " kāraṇabhāvāt: effect shares nature of cause",
+            "                         |",
+            " real transformation (pariṇāmavāda): real transformation of primordial material nature (Prakṛti)",
+            " NYĀYA new production (ārambhavāda): new effect | ADVAITA vivarta: apparent transformation."
+          ]
+        },
+        {
+          "panel_title": "Why many conscious witness (puruṣas)?",
+          "structural_type": "plural-witness argument tree",
+          "source_session_heading_references": [
+            "E. Puruṣa",
+            "I. Contact problem"
+          ],
+          "lines": [
+            "CONSCIOUS WITNESS (puruṣa) EXISTS BECAUSE",
+            " composites serve another | experience needs conscious witness",
+            " objects of three qualities (guṇas) require non-guṇa experiencer | liberation is conceivable",
+            "                         |",
+            " PLURALITY: births/deaths differ; sense capacities and actions are uncoordinated;",
+            " if one conscious witness (puruṣa), one person's liberation or pain would belong to all",
+            "                         |",
+            " CONTACT PROBLEM: inactive consciousness cannot literally touch unconscious primordial material",
+            "   nature (Prakṛti)",
+            " analogies: blind-and-lame cooperation | magnet and iron",
+            " pressure remains: how does mere proximity begin purposive evolution?",
+            "Kārikā 18: fixed births/deaths/faculties | non-simultaneous activity | constituent quality (guṇa)",
+            "  differences",
+            "differential liberation = supplementary plurality argument"
+          ]
+        },
+        {
+          "panel_title": "Bondage, liberation and critique",
+          "structural_type": "soteriological release route",
+          "source_session_heading_references": [
+            "J. Bondage and liberation",
+            "K. Śaṃkara’s critique"
+          ],
+          "lines": [
+            "AVIVEKA: determinative intellect (buddhi)'s states are appropriated as “I” by reflected",
+            "  consciousness",
+            " experience + karmic dispositions -> repeated embodiment",
+            "                         |",
+            " tattva-jñāna / viveka-khyāti: “I am conscious witness (puruṣa), not primordial material nature",
+            "   (Prakṛti) or its evolutes”",
+            "                         |",
+            " primordial material nature (Prakṛti) has been seen -> ceases activity for that conscious witness",
+            "   (puruṣa) -> ISOLATION (kaivalya)",
+            "                         |",
+            " ŚAṂKARA: unconscious primordial material nature (Prakṛti) cannot act for an end; dualism cannot",
+            "   explain contact",
+            " SĀṂKHYA REPLY: teleology is immanent, as milk flows for calf; no creator is needed.",
+            "Conscious witness (puruṣa) is never really bound, liberated or transmigrating",
+            "jīvanmukti: knowledge now; body continues like potter's wheel",
+            "videhamukti: subtle/gross embodiment finally ceases"
+          ]
+        },
+        {
+          "panel_title": "PYQ answer synthesis",
+          "structural_type": "answer-writing convergence",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "START with source-controlled dualism and threefold suffering -> one Primordial material nature",
+            "  (Prakṛti), many Conscious witness (puruṣas)",
+            "       -> draw exact 25-tattva cascade -> defend pre-existence of the effect in the cause",
+            "         (satkāryavāda) with five reasons",
+            "       -> distinguish real transformation (pariṇāmavāda) from ārambha/vivarta",
+            "       -> explain aviveka and isolation (kaivalya) -> test contact and teleology objections",
+            "                         |",
+            " QUALIFIED VERDICT: Sāṃkhya powerfully unifies cosmos, mind and liberation,",
+            " but the coordination of inactive consciousness with unconscious nature is its hard problem."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-06",
+      "title": "Yoga",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-06_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-06:learner-v2:g4",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Textual map and source-controlled practice",
+          "structural_type": "four-chapter orientation",
+          "source_session_heading_references": [
+            "Textual map and source-controlled practice"
+          ],
+          "lines": [
+            "PATAÑJALI'S YOGA SŪTRA -> 4 CHAPTERS",
+            "absorption chapter -> mind, practice/dispassion, Lord, absorption",
+            "practice chapter -> afflictions, action, eight limbs, discrimination",
+            "powers chapter -> integrated concentration, transformations, extraordinary powers",
+            "isolation chapter -> realism, cloud-of-virtue absorption, reverse evolution, freedom",
+            "Vyāsa supplies the standard five mind-levels; uncertain chronology stays optional",
+            "Yoga owns practice/theism; Sāṃkhya owns the shared 25-principle foundation"
+          ]
+        },
+        {
+          "panel_title": "Mind-field architecture",
+          "structural_type": "psychological hierarchy",
+          "source_session_heading_references": [
+            "Mind-field architecture"
+          ],
+          "lines": [
+            "YOGA: DISCIPLINE OF THE MIND-FIELD (CITTA)",
+            "objects -> senses -> mind-field (citta) -> conscious witness (puruṣa)",
+            "determinate intellect (buddhi) + ego-maker (ahaṃkāra) + sensory mind (manas)",
+            "intellect -> ego-maker -> sensory mind; only sensory mind arises from sattva-predominant ego-maker",
+            "bondage = the witness mistakes reflected mental states for itself",
+            "core aim -> restraint of mental modifications (citta-vṛtti-nirodha)"
+          ]
+        },
+        {
+          "panel_title": "Mental modifications and restraint",
+          "structural_type": "classification and control map",
+          "source_session_heading_references": [
+            "Mental modifications and restraint"
+          ],
+          "lines": [
+            "FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS)",
+            "perception/inference/testimony | error | construction | sleep | memory",
+            "each may be afflicted or unafflicted; even valid cognition is a modification",
+            "sustained practice (abhyāsa) + dispassion (vairāgya) -> progressive restraint",
+            "lower dispassion masters seen/heard objects; higher dispassion relinquishes the qualities",
+            "trap: restraint is disciplined lucidity, not unconscious blankness"
+          ]
+        },
+        {
+          "panel_title": "Afflictions and karmic chain",
+          "structural_type": "causal chain",
+          "source_session_heading_references": [
+            "Afflictions and karmic chain"
+          ],
+          "lines": [
+            "ignorance (avidyā) -> ego-identification (asmitā)",
+            "-> attachment (rāga) / aversion (dveṣa) -> clinging to life (abhiniveśa)",
+            "afflictions (kleśas) -> action -> latent deposit -> fruition -> rebirth",
+            "preparatory discipline (kriyā-yoga) thins afflictions",
+            "meditation burns the remaining seeds and makes discriminative insight possible"
+          ]
+        },
+        {
+          "panel_title": "Eight-limbed discipline",
+          "structural_type": "ascending practice ladder",
+          "source_session_heading_references": [
+            "Eight-limbed discipline"
+          ],
+          "lines": [
+            "EIGHT-LIMBED DISCIPLINE (AṢṬĀṄGA-YOGA)",
+            "ethical restraint -> observance -> posture -> breath regulation",
+            "-> sense withdrawal -> concentration -> meditation -> absorption",
+            "ethical restraints become the universal great vow beyond place, time, birth or exception",
+            "first five prepare body, conduct and attention; final three form integrated concentration",
+            "trap: posture is one limb, not the definition or final goal of Yoga"
+          ]
+        },
+        {
+          "panel_title": "Absorption ladder",
+          "structural_type": "meditative progression",
+          "source_session_heading_references": [
+            "Absorption ladder"
+          ],
+          "lines": [
+            "OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI)",
+            "gross reasoning -> subtle reflection -> joy -> I-am-ness",
+            "truth-bearing insight -> objectless absorption -> seedless absorption",
+            "condition-based route: videha/prakṛtilaya | means-based route:",
+            "  faith/energy/memory/absorption/wisdom",
+            "cloud-of-virtue absorption (dharmamegha-samādhi) ends affliction and action",
+            "nine obstacles disrupt practice; powers are attainments outwardly but obstacles to absorption",
+            "do not conflate the four YS 1.17 supports with the separate absorption taxonomy"
+          ]
+        },
+        {
+          "panel_title": "Lord and discriminative insight",
+          "structural_type": "function comparison",
+          "source_session_heading_references": [
+            "Lord and discriminative insight"
+          ],
+          "lines": [
+            "LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION",
+            "dedication to the Lord -> concentration aid + timeless teacher",
+            "not the material creator of Nyaya and not a substitute for practice",
+            "Patañjali: special witness + unsurpassed omniscience + timeless teacher + praṇava",
+            "later commentators add theoretical proofs; do not project all of them backward",
+            "decisive knowledge = discriminative insight (viveka-khyāti)",
+            "Yoga is theistic Samkhya in method, while liberation remains discriminative"
+          ]
+        },
+        {
+          "panel_title": "Isolation and the relation problem",
+          "structural_type": "objection-reply matrix",
+          "source_session_heading_references": [
+            "Isolation and the relation problem"
+          ],
+          "lines": [
+            "ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE",
+            "reverse evolution returns constituent qualities to primordial material nature",
+            "objection: how can inactive consciousness relate to insentient mind?",
+            "reply: reflection and mere proximity protect the witness from change",
+            "residual limit: proximity names the relation more clearly than it explains it"
+          ]
+        },
+        {
+          "panel_title": "PYQ answer synthesis",
+          "structural_type": "answer route",
+          "source_session_heading_references": [
+            "PYQ answer synthesis"
+          ],
+          "lines": [
+            "DEFINE -> CLASSIFY -> EXPLAIN MECHANISM -> CONNECT PRACTICE -> EVALUATE",
+            "mind-field -> modifications -> afflictions -> eight limbs -> absorption -> isolation",
+            "use the exact question's doctrine; distinguish Lord, witness and mind",
+            "add one named objection and the strongest Yoga reply",
+            "qualified verdict: rigorous psychology and praxis, contested dualist relation"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-07",
+      "title": "Mimamsa (Mīmāṃsā)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-07_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-07:learner-v2:g4",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Textual lineage and Vedic duty",
+          "structural_type": "source-to-purpose map",
+          "source_session_heading_references": [
+            "Textual lineage and Vedic duty"
+          ],
+          "lines": [
+            "JAIMINI -> SABARA -> KUMARILA / PRABHAKARA",
+            "Purva-Mimamsa owns duty, injunction and ritual interpretation",
+            "Vedanta owns the Brahman-centred Upanisadic inquiry",
+            "Vedic duty (dharma) is known through injunction (codanā), not perception",
+            "prescriptive sentence -> impelling force (bhāvanā) -> ritual action",
+            "-> unseen ritual potency (apūrva) -> delayed result"
+          ]
+        },
+        {
+          "panel_title": "Validity and knowledge sources",
+          "structural_type": "epistemic comparison",
+          "source_session_heading_references": [
+            "Validity and knowledge sources"
+          ],
+          "lines": [
+            "INTRINSIC VALIDITY (SVATAḤ-PRĀMĀṆYA)",
+            "cognition presents itself as true unless a later defeater establishes error",
+            "Bhatta accepts six sources; Prabhakara does not treat non-cognition independently",
+            "Nyaya contrast -> external validation (parataḥ-prāmāṇya)",
+            "regress pressure supports first-trust, but correction still requires defeat"
+          ]
+        },
+        {
+          "panel_title": "Perception, comparison and testimony",
+          "structural_type": "knowledge-source taxonomy",
+          "source_session_heading_references": [
+            "Perception, comparison and testimony"
+          ],
+          "lines": [
+            "INDETERMINATE PERCEPTION -> DETERMINATE PERCEPTION",
+            "comparison: present gavaya resembles remembered absent cow",
+            "Nyaya contrast: word-reference learning is not the Mimamsa definition",
+            "personal testimony depends on a speaker; Vedic testimony is impersonal",
+            "testimony may state a fact or enjoin an action"
+          ]
+        },
+        {
+          "panel_title": "Postulation and non-cognition",
+          "structural_type": "two-route comparison",
+          "source_session_heading_references": [
+            "Postulation and non-cognition"
+          ],
+          "lines": [
+            "POSTULATION (ARTHĀPATTI): EXPLANATORY FACT REQUIRED BY OTHERWISE CONFLICTING FACTS",
+            "Devadatta is stout + does not eat by day -> he eats at night",
+            "perceived-fact postulation differs from heard-sentence postulation",
+            "NON-COGNITION (ANUPALABDHI): KNOWLEDGE OF AN ELIGIBLE ABSENCE",
+            "empty floor is seen under conditions in which the pot would have been seen",
+            "trap: postulation is not loose guessing; non-cognition is not simple inattention"
+          ]
+        },
+        {
+          "panel_title": "Self-awareness and error",
+          "structural_type": "school dialectic",
+          "source_session_heading_references": [
+            "Self-awareness and error"
+          ],
+          "lines": [
+            "PRABHAKARA: THREEFOLD AWARENESS (TRIPUṬĪ-SAṂVIT)",
+            "one cognition discloses knower, known and knowing together",
+            "BHATTA: KNOWNNESS (JÑĀTATĀ) REVEALS THAT COGNITION OCCURRED",
+            "error -> non-discrimination theory versus contrary-cognition theory",
+            "both avoid an infinite second-cognition regress by different strategies"
+          ]
+        },
+        {
+          "panel_title": "Word and sentence meaning",
+          "structural_type": "semantic flow",
+          "source_session_heading_references": [
+            "Word and sentence meaning"
+          ],
+          "lines": [
+            "SENTENCE UNITY NEEDS EXPECTANCY + COMPATIBILITY + PROXIMITY",
+            "designation-then-connection: words first denote, then meanings combine",
+            "connected-designation: words directly present meanings already related",
+            "word universal realism answers Buddhist meaning-through-exclusion",
+            "Vedic functions: injunction, prohibition, mantra, name, explanatory praise",
+            "semantic theory protects action-guiding scripture without an original speaker"
+          ]
+        },
+        {
+          "panel_title": "Vedic authorlessness and God",
+          "structural_type": "authority argument",
+          "source_session_heading_references": [
+            "Vedic authorlessness and God"
+          ],
+          "lines": [
+            "VEDIC AUTHORLESSNESS (APAURUṢEYATVA) BLOCKS HUMAN ERROR AT THE SOURCE",
+            "eternity of word supports an uncreated relation between word and meaning",
+            "Nyaya grounds scripture in a trustworthy divine speaker; Mimamsa does not",
+            "God is unnecessary for Vedic authority, ritual efficacy or karmic distribution",
+            "pressure: removing an author secures autonomy but complicates semantic intention"
+          ]
+        },
+        {
+          "panel_title": "Self, liberation and criticism",
+          "structural_type": "critical synthesis",
+          "source_session_heading_references": [
+            "Self, liberation and criticism"
+          ],
+          "lines": [
+            "MANY ENDURING SELVES SUPPORT MEMORY, AGENCY, DESERT AND REBIRTH",
+            "cognition is episodic; self persists across body, senses and action",
+            "liberation = end of new merit/demerit, embodiment and painful experience",
+            "strength: sophisticated epistemology, semantics and non-theistic normativity",
+            "Buddhist and Carvaka objections target self, universals and non-perceptual claims"
+          ]
+        },
+        {
+          "panel_title": "PYQ answer synthesis",
+          "structural_type": "answer route",
+          "source_session_heading_references": [
+            "PYQ answer synthesis"
+          ],
+          "lines": [
+            "IDENTIFY BHATTA / PRABHAKARA BEFORE WRITING",
+            "state doctrine -> give canonical example -> contrast Nyaya -> assess residual issue",
+            "link intrinsic validity to postulation, non-cognition and Vedic authority",
+            "use exact terminology only after the English concept",
+            "verdict: powerful theory of knowledge and duty, contested ritual metaphysics"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-08",
+      "title": "Schools of Vedanta (Vedānta)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-08_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-08:learner-v2:g4",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Canon and school taxonomy",
+          "structural_type": "source-to-school map",
+          "source_session_heading_references": [
+            "Canon and school taxonomy"
+          ],
+          "lines": [
+            "THREEFOLD CANON: UPANISADS + BHAGAVAD GITA + BRAHMA SUTRA",
+            "Badarayana systematizes; rival commentaries build distinct schools",
+            "Advaita: non-dual ultimate reality; difference belongs to ignorance",
+            "Visistadvaita: qualified unity; selves and world are real modes",
+            "Dvaita: God, selves and world are eternally different realities"
+          ]
+        },
+        {
+          "panel_title": "Ultimate reality, Lord and self",
+          "structural_type": "three-school hierarchy",
+          "source_session_heading_references": [
+            "Ultimate reality, Lord and self"
+          ],
+          "lines": [
+            "ULTIMATE REALITY (BRAHMAN) / LORD (ĪŚVARA) / TRUE SELF (ĀTMAN)",
+            "Advaita -> qualityless ultimate reality; empirical Lord under illusion",
+            "Visistadvaita -> personal qualified ultimate reality with inseparable modes",
+            "Dvaita -> independent Lord and permanently dependent selves",
+            "trap: the three schools do not use the same word with the same ontology"
+          ]
+        },
+        {
+          "panel_title": "Witness, reflection and knowledge",
+          "structural_type": "state-and-path sequence",
+          "source_session_heading_references": [
+            "Witness, reflection and knowledge"
+          ],
+          "lines": [
+            "WAKING -> DREAM -> DEEP SLEEP -> NON-DUAL WITNESS",
+            "original-reflection is a later explanatory family, not literal optics",
+            "hearing -> reflection -> deep contemplation stabilizes identity-knowledge",
+            "Ramanuja: atomic knower with expanding attributive consciousness",
+            "trap: do not call Lord (īśvara) both original and reflection without naming the model"
+          ]
+        },
+        {
+          "panel_title": "World, causation and ignorance",
+          "structural_type": "causal contrast",
+          "source_session_heading_references": [
+            "World, causation and ignorance"
+          ],
+          "lines": [
+            "ADVAITA: APPARENT TRANSFORMATION (VIVARTAVĀDA)",
+            "Ramanuja: real transformation of dependent modes within Ultimate reality (brahman)'s body",
+            "Madhva: God efficient cause; dependent primordial matter material cause",
+            "indescribable illusion (māyā) projects; ignorance (avidyā) misidentifies",
+            "vivarta develops causal dependence but rejects real transformation"
+          ]
+        },
+        {
+          "panel_title": "Superimposition and great statement",
+          "structural_type": "error-to-knowledge flow",
+          "source_session_heading_references": [
+            "Superimposition and great statement"
+          ],
+          "lines": [
+            "SUPERIMPOSITION (ADHYĀSA) -> SELF/NON-SELF CONFUSION -> BONDAGE",
+            "great statement 'That Thou Art' requires discarding incompatible attributes",
+            "indescribable-error theory explains rope-snake without making error unreal",
+            "knowledge removes ignorance; it does not produce the already-real self",
+            "pressure: if ignorance is indefinable, its locus and removal remain contested"
+          ]
+        },
+        {
+          "panel_title": "Qualified non-dualism",
+          "structural_type": "body-soul relation",
+          "source_session_heading_references": [
+            "Qualified non-dualism"
+          ],
+          "lines": [
+            "INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI)",
+            "selves and world are real but cannot exist apart from ultimate reality",
+            "body-soul relation: the whole controls and supports its real modes",
+            "action and knowledge prepare; devotion/surrender and grace liberate",
+            "attributive consciousness expands without loss of individuality",
+            "strength: unity without illusionism; limit: plurality may qualify absoluteness"
+          ]
+        },
+        {
+          "panel_title": "Dualism and fivefold difference",
+          "structural_type": "difference map",
+          "source_session_heading_references": [
+            "Dualism and fivefold difference"
+          ],
+          "lines": [
+            "FIVEFOLD DIFFERENCE (PAÑCAVIDHA-BHEDA)",
+            "God-self | God-world | self-self | self-world | world-world",
+            "difference is real, eternal and constitutive rather than ignorance-produced",
+            "God is efficient, not material cause; souls and matter remain dependent",
+            "liberation preserves hierarchy, difference and blissful service",
+            "strength: robust realism; limit: permanent hierarchy and pluralism need defence"
+          ]
+        },
+        {
+          "panel_title": "Wider Vedanta and liberation",
+          "structural_type": "four-school comparison",
+          "source_session_heading_references": [
+            "Wider Vedanta and liberation"
+          ],
+          "lines": [
+            "VISISTADVAITA -> COMMUNION; DVAITA -> GRADED ETERNAL SERVICE",
+            "Vallabha: unchanged real manifestation + grace-nourished devotion",
+            "Caitanya: inconceivable difference-non-difference + divine love",
+            "Nimbarka matter: ordinary matter + divine matter + time",
+            "never collapse the 2018 liberation comparison into generic devotion"
+          ]
+        },
+        {
+          "panel_title": "PYQ answer synthesis",
+          "structural_type": "answer route",
+          "source_session_heading_references": [
+            "PYQ answer synthesis"
+          ],
+          "lines": [
+            "DEFINE COMMON QUESTION -> BUILD THREE-COLUMN CONTRAST -> TEST OBJECTIONS",
+            "ultimate reality -> Lord/self -> world -> ignorance/error -> liberation",
+            "use one precise doctrine and one rival criticism for each school",
+            "state what each theory preserves and what explanatory cost it pays",
+            "qualified verdict: unity, qualified unity and difference solve different pressures"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-09",
+      "title": "Aurobindo",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-09_Learning-Session.md",
+      "source_record": "philosophy-paper-i-indian-philosophy-09:learner-v2:g4",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "English-first regenerated panel atlas; legacy compatibility artifacts and the approved Cārvāka reference remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Sources and Dynamic Absolute",
+          "structural_type": "source-to-system map",
+          "source_session_heading_references": [
+            "Sources and Dynamic Absolute"
+          ],
+          "lines": [
+            "LIFE DIVINE -> METAPHYSICS; SYNTHESIS/LETTERS -> INTEGRAL YOGA",
+            "EXISTENCE-CONSCIOUSNESS-BLISS (SAT-CIT-ĀNANDA) IS DYNAMIC, NOT WORLD-NEGATING",
+            "the world is a real self-manifestation, not an absolutely unreal appearance",
+            "transcendence and immanence are held together",
+            "Aurobindo revises classical Advaita through evolutionary world-affirmation"
+          ]
+        },
+        {
+          "panel_title": "Truth-Consciousness bridge",
+          "structural_type": "unity-multiplicity bridge",
+          "source_session_heading_references": [
+            "Truth-Consciousness bridge"
+          ],
+          "lines": [
+            "TRUTH-CONSCIOUSNESS (VIJÑĀNA) MEDIATES UNITY AND MULTIPLICITY",
+            "it knows by identity and deploys Real-Idea without fragmenting truth",
+            "Overmind distributes truth-powers; ordinary mind knows by division",
+            "the bridge explains how the One becomes genuinely many",
+            "pressure: the hierarchy is coherent internally but difficult to verify publicly"
+          ]
+        },
+        {
+          "panel_title": "Involution and ignorance",
+          "structural_type": "descent-and-division sequence",
+          "source_session_heading_references": [
+            "Involution and ignorance"
+          ],
+          "lines": [
+            "INVOLUTION = SPIRIT'S GRADED SELF-CONCEALMENT",
+            "existence-consciousness-bliss -> Truth-Consciousness -> Overmind -> Mind",
+            "-> Life -> Matter -> Inconscient",
+            "ignorance = divided and narrowed consciousness, not sheer non-being",
+            "not a dated fall: it is the ontological condition for later evolution"
+          ]
+        },
+        {
+          "panel_title": "Evolution and triple transformation",
+          "structural_type": "ascending sequence",
+          "source_session_heading_references": [
+            "Evolution and triple transformation"
+          ],
+          "lines": [
+            "MATTER -> LIFE -> MIND -> HIGHER MIND -> TRUTH-CONSCIOUSNESS",
+            "involved power becomes genuinely novel organisation, not a miniature preformed object",
+            "psychic transformation -> spiritual transformation -> supramental transformation",
+            "humanity is transitional; conscious participation becomes possible",
+            "cosmic direction differs from automatic individual attainment"
+          ]
+        },
+        {
+          "panel_title": "Integral Yoga",
+          "structural_type": "double movement",
+          "source_session_heading_references": [
+            "Integral Yoga"
+          ],
+          "lines": [
+            "INTEGRAL YOGA (PŪRṆA-YOGA) = ASCENT + DESCENT",
+            "aspiration + rejection + surrender prepare the whole being",
+            "ascent opens consciousness above; descent transforms mind, life and body",
+            "liberation is a beginning for terrestrial transformation, not the final stopping point",
+            "trap: Integral Yoga is not Patanjali's eight-limbed sequence under another name"
+          ]
+        },
+        {
+          "panel_title": "Psychic and gnostic being",
+          "structural_type": "identity transformation",
+          "source_session_heading_references": [
+            "Psychic and gnostic being"
+          ],
+          "lines": [
+            "PSYCHIC BEING (CAITYA PURUṢA) = EVOLVING INNER SOUL-PERSON",
+            "it differs from ego and from the immutable individual eternal self",
+            "psychic emergence leads the transformation; the gnostic being embodies truth",
+            "individual fulfilment and collective destiny are linked",
+            "pressure: possibility of transformation does not by itself prove inevitability"
+          ]
+        },
+        {
+          "panel_title": "Divine life and collective horizon",
+          "structural_type": "possibility-inevitability test",
+          "source_session_heading_references": [
+            "Divine life and collective horizon"
+          ],
+          "lines": [
+            "DIVINE LIFE = EMBODIED TRUTH-CONSCIOUS EXISTENCE, NOT POST-MORTEM HEAVEN",
+            "possible because Supermind is involved in Matter",
+            "cosmically inevitable does not mean scheduled or automatic for each person",
+            "call from below + sanction/descent from above + prepared instrument",
+            "collective transformation is a horizon, not rule by a spiritual elite"
+          ]
+        },
+        {
+          "panel_title": "Comparisons and objections",
+          "structural_type": "dialectical matrix",
+          "source_session_heading_references": [
+            "Comparisons and objections"
+          ],
+          "lines": [
+            "AGAINST ILLUSIONISM: WORLD HAS EVOLUTIONARY VALUE",
+            "against materialism: consciousness is involved before it evolves",
+            "against ascetic escape: Spirit must transform embodied life",
+            "objections -> unverifiability, teleology, evil, determinism, elitism, category confusion",
+            "reply -> explanatory integration; residual issue -> intersubjective confirmation"
+          ]
+        },
+        {
+          "panel_title": "PYQ answer synthesis",
+          "structural_type": "answer route",
+          "source_session_heading_references": [
+            "PYQ answer synthesis"
+          ],
+          "lines": [
+            "START WITH THE DOUBLE MOVEMENT: INVOLUTION MAKES EVOLUTION POSSIBLE",
+            "Absolute -> Truth-Consciousness -> involution -> evolution -> Integral Yoga",
+            "add psychic being, triple transformation and one named comparison",
+            "test teleology and verification before the conclusion",
+            "verdict: ambitious world-affirming synthesis with a demanding metaphysical wager"
+          ]
+        }
+      ]
+    }
+  ]
+}

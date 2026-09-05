@@ -1,0 +1,342 @@
+{
+  "schema_version": 1,
+  "batch_id": "indian-society-11-15-sequential-batch-2026-09-02",
+  "scope": "Indian Society learner-v2 Topics 11-15 strictly sequential",
+  "generated_on": "2026-09-02",
+  "validated_at": "2026-09-02T11:17:12.468955+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "indian-society-11",
+      "indian-society-12",
+      "indian-society-13",
+      "indian-society-14",
+      "indian-society-15"
+    ],
+    "topic_count": 5,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "indian-society-11:learner-v2:g1",
+      "indian-society-12:learner-v2:g1",
+      "indian-society-13:learner-v2:g1",
+      "indian-society-14:learner-v2:g1",
+      "indian-society-15:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true
+  },
+  "shared_ascii_coverage": {
+    "authored_topics": 248,
+    "authored_panels": 2848,
+    "integrity_errors": []
+  },
+  "aggregate": {
+    "main_pdf_pages": 395,
+    "workbook_pdf_pages": 199,
+    "mcqs": 400,
+    "learning_sessions": 75,
+    "ascii_panels": 60,
+    "graphical_stages": 65
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-11",
+      "record_id": "indian-society-11:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 13,
+      "hard_gates_total": 13,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 83,
+        "workbook_pdf_pages": 44
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\indian-society-11-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\indian-society-11-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-11\\indian-society-11_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-11\\indian-society-11_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-11\\indian-society-11_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-11\\indian-society-11_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "indian-society-12",
+      "record_id": "indian-society-12:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 13,
+      "hard_gates_total": 13,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 80,
+        "workbook_pdf_pages": 40
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\indian-society-12-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\indian-society-12-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-12\\indian-society-12_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-12\\indian-society-12_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-12\\indian-society-12_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-12\\indian-society-12_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "indian-society-13",
+      "record_id": "indian-society-13:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 13,
+      "hard_gates_total": 13,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 78,
+        "workbook_pdf_pages": 38
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\indian-society-13-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\indian-society-13-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-13\\indian-society-13_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-13\\indian-society-13_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-13\\indian-society-13_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-13\\indian-society-13_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "indian-society-14",
+      "record_id": "indian-society-14:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 13,
+      "hard_gates_total": 13,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 76,
+        "workbook_pdf_pages": 38
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\indian-society-14-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\indian-society-14-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-14\\indian-society-14_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-14\\indian-society-14_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-14\\indian-society-14_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-14\\indian-society-14_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "indian-society-15",
+      "record_id": "indian-society-15:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 13,
+      "hard_gates_total": 13,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 78,
+        "workbook_pdf_pages": 39
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\indian-society-15-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\indian-society-15-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-15\\indian-society-15_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-15\\indian-society-15_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-15\\indian-society-15_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-15\\indian-society-15_Solved-Practice-Workbook_2026-09-02.md"
+    }
+  ],
+  "errors": []
+}

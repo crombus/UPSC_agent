@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-08",
+      "display_title": "Limestone and Karst Landforms / India Caves-Meghalayan Age",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Karst coupled system",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RECHARGE -> joints, bedding and sink points",
+            "DISSOLUTION -> openings enlarge underground",
+            "CONDUITS -> springs export water and solute",
+            "SURFACE + CAVE -> one hydrological landscape",
+            "MUST REMEMBER: Karst requires soluble rock, joints, water and carbonic-acid solution, followed",
+            "  by underground drainage and carbonate deposition; lapies, sinkholes, dolines, uvalas,",
+            "  poljes, caves, stalactites and stalagmites form a connected hydrological system."
+          ],
+          "source_references": [
+            "Karst, cave and cavern",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Carbonate cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CO2 + WATER -> weak carbonic acid",
+            "ACID + CaCO3 -> dissolved bicarbonate",
+            "TRANSPORT -> solution moves through conduits",
+            "DEGASSING -> calcite can precipitate"
+          ],
+          "source_references": [
+            "Carbonation and calcite reversal",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Karst prerequisites",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ROCK -> soluble, thick and exposed to recharge",
+            "STRUCTURE -> joints and bedding pathways",
+            "FLOW -> gradient plus outlet / base level",
+            "TIME -> sustained dissolution and removal"
+          ],
+          "source_references": [
+            "Rock, structure, recharge and base level",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Hydrological zones",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EPKARST -> shallow storage and routing",
+            "VADOSE -> descending water in air-filled voids",
+            "WATER TABLE -> fluctuating boundary",
+            "PHREATIC -> saturated tubes and loops"
+          ],
+          "source_references": [
+            "Epikarst, vadose and phreatic zones",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Surface-karst ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "KARREN -> small solution grooves",
+            "DOLINE -> closed depression",
+            "UVALA / POLJE -> larger composite / structural basin",
+            "SWALLOW HOLE -> surface stream transfers underground"
+          ],
+          "source_references": [
+            "Surface karst landforms",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Cave-development sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "INCEPTION -> favourable fracture or bedding plane",
+            "PHREATIC -> passage enlarges under saturation",
+            "VADOSE -> stream incises after water-table fall",
+            "LATE CHANGE -> collapse, fill or renewed solution"
+          ],
+          "source_references": [
+            "Cave development and modification",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Speleothem map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STALACTITE -> roof drip deposit",
+            "STALAGMITE -> floor splash / drip deposit",
+            "COLUMN -> roof and floor forms join",
+            "FLOWSTONE / CURTAIN -> film flow on wall or slope"
+          ],
+          "source_references": [
+            "Speleothems and deposition",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India cave firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MAWMLUH / MAWSMAI / SIJU -> Meghalaya limestone",
+            "BORRA / BELUM -> natural caves in Andhra Pradesh",
+            "AJANTA / ELLORA -> human rock-cut architecture",
+            "RULE -> location does not replace genetic classification"
+          ],
+          "source_references": [
+            "Indian natural-cave map",
+            "Natural versus rock-cut caves",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Proxy pipeline",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CLIMATE -> rainfall, vegetation and soil CO2",
+            "RECHARGE -> route and residence time",
+            "CALCITE -> isotope / element signal",
+            "CHRONOLOGY -> dated series with uncertainty"
+          ],
+          "source_references": [
+            "Speleothems as climate proxies",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Meghalayan hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "QUATERNARY -> Period",
+            "HOLOCENE -> Epoch",
+            "MEGHALAYAN -> Age / Stage",
+            "GSSP -> KM-A speleothem at Mawmluh",
+            "CLOSE DISTINCTION: Solution enlarges voids whereas deposition builds speleothems; stalactites",
+            "  hang, stalagmites rise, columns join them, and Meghalaya caves, Bhimbetka shelters and the",
+            "  Meghalayan chronostratigraphic unit are categorically different."
+          ],
+          "source_references": [
+            "Time hierarchy and GSSP",
+            "Mawmluh and the Meghalayan",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Status and narrative caution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "4.2 ka EVENT -> correlation guide",
+            "GSSP POINT -> physical lower boundary",
+            "MEGHALAYAN -> named formal interval",
+            "ANTHROPOCENE -> not a ratified Epoch",
+            "EVIDENCE LIMIT: Cave age, host-rock age, occupation age and formal geological-age boundary",
+            "  must not be collapsed; tourism and infrastructure effects depend on recharge, passage",
+            "  geometry, biodiversity and carrying capacity."
+          ],
+          "source_references": [
+            "4.2 ka and Anthropocene cautions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Karst conservation spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "MAP -> recharge, passages, springs and values",
+            "AVOID -> irreversible quarry and pollution pathways",
+            "MANAGE -> visitation, waste and water use",
+            "MONITOR -> hydrology, biodiversity and structural change"
+          ],
+          "source_references": [
+            "Values, threats, PYQ boundary and conservation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g4\\geography-08_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

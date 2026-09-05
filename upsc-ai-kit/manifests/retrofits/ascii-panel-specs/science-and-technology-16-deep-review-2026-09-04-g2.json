@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-16",
+      "display_title": "Nanotechnology and Applications",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Nanoscale taxonomy and property gateway",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "1-100 nm -> functional size-dependent behaviour",
+            "3 NANOSCALE DIMENSIONS -> nanoparticle",
+            "2 NANOSCALE DIMENSIONS -> nanotube / nanofibre",
+            "1 NANOSCALE DIMENSION -> nanosheet / nanoplate",
+            "GATEWAY -> surface-area effect + possible quantum effect"
+          ],
+          "source_references": [
+            "Nanoscale and object boundary",
+            "Surface-area mechanism",
+            "Quantum-size mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Surface-area and quantum twin engine",
+          "structural_type": "dual-mechanism",
+          "ascii_lines": [
+            "SMALLER SIZE -> larger relative surface -> adsorption / catalysis / reactivity",
+            "SUFFICIENT CONFINEMENT -> altered states / band gap -> optical or electronic shift",
+            "MATERIAL + SIZE + SURFACE CHEMISTRY -> actual behaviour",
+            "TRAP -> nano is neither an automatic benefit nor safety verdict"
+          ],
+          "source_references": [
+            "Surface-area mechanism",
+            "Quantum-size mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fabrication route comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TOP-DOWN -> bulk -> lithography / etching / milling -> patterned structure",
+            "BOTTOM-UP -> atoms / molecules -> self-assembly / sol-gel / CVD -> formed structure",
+            "TOP-DOWN LIMIT -> waste / defects / feature constraint",
+            "BOTTOM-UP LIMIT -> aggregation / uniformity / purification",
+            "COMMON TEST -> reproducibility and scale-up"
+          ],
+          "source_references": [
+            "Top-down fabrication",
+            "Bottom-up fabrication",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Nanomaterial geometry atlas",
+          "structural_type": "morphology-atlas",
+          "ascii_lines": [
+            "PARTICLE -> three nanoscale external dimensions",
+            "CNT -> cylindrical carbon nanostructure",
+            "GRAPHENE -> single-atom-thick hexagonal carbon sheet",
+            "QUANTUM DOT -> size-tunable semiconductor nanocrystal",
+            "NANOCOMPOSITE -> nanoscale phase modifies bulk matrix"
+          ],
+          "source_references": [
+            "Carbon-form and nanoparticle distinction",
+            "Quantum-dot and nanocomposite distinction",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Characterization decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SURFACE MORPHOLOGY? -> SEM",
+            "INTERNAL STRUCTURE / NANOSCALE DIMENSION? -> TEM",
+            "PROBE-TRACED TOPOGRAPHY? -> AFM",
+            "CRYSTALLINE PHASE? -> XRD",
+            "DISPERSION SIZE / STABILITY? -> DLS + zeta potential"
+          ],
+          "source_references": [
+            "Microscopy and structure characterization",
+            "Dispersion and surface characterization",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Nanomedicine barrier rail",
+          "structural_type": "barrier-rail",
+          "ascii_lines": [
+            "CARGO -> encapsulation / protection",
+            "CARRIER -> circulation and release profile",
+            "TARGETING -> passive accumulation or ligand interaction",
+            "BIOLOGICAL BARRIERS -> tissue -> cell -> intracellular site",
+            "STATUS -> delivery evidence != approval / superiority / safety"
+          ],
+          "source_references": [
+            "Nanomedicine delivery boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Agriculture value chain",
+          "structural_type": "farm-value-chain",
+          "ascii_lines": [
+            "NANO-INPUT / SENSOR / SEED COATING -> farm decision or delivery",
+            "FIELD EVIDENCE -> dose, crop, soil, weather and formulation",
+            "COST + EXTENSION + CREDIT -> adoption boundary",
+            "INPUT LOSS / SPOILAGE / STRESS DETECTION -> possible income channel",
+            "VERDICT -> socio-economic uplift must be demonstrated"
+          ],
+          "source_references": [
+            "Agricultural application map",
+            "Farmer-uplift and product-status boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Water and environment treatment loop",
+          "structural_type": "treatment-loop",
+          "ascii_lines": [
+            "CONTAMINANT -> detection / adsorption / membrane / photocatalysis",
+            "SYSTEM TEST -> selectivity + fouling + energy",
+            "RECOVERY -> regeneration or spent-material capture",
+            "LIFECYCLE CHECK -> secondary nanoparticle release",
+            "BOUNDARY -> lab removal != field deployment"
+          ],
+          "source_references": [
+            "Water and environmental application",
+            "Ecotoxicology and lifecycle boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Electronics energy materials matrix",
+          "structural_type": "application-matrix",
+          "ascii_lines": [
+            "GRAPHENE / CNT -> conductive and structural research",
+            "QUANTUM DOT -> optical / display / sensing research",
+            "NANOCOMPOSITE -> coatings and lightweight-strength modification",
+            "NANOSTRUCTURED ELECTRODE -> storage and conversion interfaces",
+            "BOUNDARY -> property != certified manufacturable product"
+          ],
+          "source_references": [
+            "Electronics energy and materials application",
+            "Cross-topic and additive-manufacturing boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Indian nano institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DST NPNST / EARLIER NANO MISSION -> public R&D architecture",
+            "INST MOHALI -> DST autonomous nanoscience institution",
+            "CSIR LABS -> cross-sector translational capability route",
+            "MeitY-LINKED NANOELECTRONICS -> device / semiconductor bridge",
+            "FIREWALL -> page / call / event != programme outcome",
+            "MUST REMEMBER: Nanotechnology works through size-dependent surface, quantum, optical,..."
+          ],
+          "source_references": [
+            "Indian institution and programme boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-16_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Toxicity and ecotoxicity exposure web",
+          "structural_type": "exposure-web",
+          "ascii_lines": [
+            "MATERIAL -> size + shape + coating + solubility + aggregation",
+            "EXPOSURE -> dose + route + duration + susceptible system",
+            "ENVIRONMENT -> transformation + mobility + persistence",
+            "ECOLOGY -> organism effects + food-web transfer + bioaccumulation",
+            "RULE -> material- and use-specific evidence",
+            "CLOSE DISTINCTION: Nanoscale is not automatically novel or safer, nanoparticle is not..."
+          ],
+          "source_references": [
+            "Nanotoxicology boundary",
+            "Ecotoxicology and lifecycle boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-16_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Regulatory and evidence status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SYNTHESIS -> CHARACTERIZATION -> LAB FUNCTION",
+            "ANIMAL / GREENHOUSE -> FIELD / CLINICAL STUDY",
+            "SECTORAL REVIEW -> STANDARD / NOTIFICATION / APPROVAL",
+            "MANUFACTURE -> MARKETING -> ADOPTION",
+            "MONITORED OUTCOME -> only dated evidence supports this rung",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Give particle/material identity, size..."
+          ],
+          "source_references": [
+            "Regulation standards and metrology boundary",
+            "Evidence and status ladder",
+            "Cross-topic and additive-manufacturing boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-16\\g2\\science-and-technology-16_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-16_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

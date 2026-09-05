@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Geography",
+    "display_name": "Geography"
+  },
+  "section": {
+    "key": "human-economic-geography-pilot",
+    "name": "Human and Economic Geography Pilot",
+    "scope": "pilot",
+    "complete_syllabus_section": false,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Geography\\README.md"
+    ],
+    "notes": "Pilot-only index for completed learner-v2 topics 28, 30 and 32. It is not the complete Part B section (topics 26-37)."
+  },
+  "topics": [
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "display_title": "Human Settlements and Urbanisation",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography—Physical, Social, Economic Geography of India and the World; repository Part B topic 28 (settlement geography).",
+      "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Geography\\README.md",
+        "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\geography-28-human-settlements-and-urbanisation_Learning-Session.md",
+      "notes_pdf": "notes\\Geography\\learning-session-v2\\geography-28-human-settlements-and-urbanisation\\geography-28-human-settlements-and-urbanisation_Learning-Session_2026-08-20.pdf",
+      "workbook_pdf": "notes\\Geography\\learning-session-v2\\geography-28-human-settlements-and-urbanisation\\geography-28-human-settlements-and-urbanisation_Solved-Workbook_2026-08-20.pdf",
+      "superseded_v1": "geography-28:legacy-v1:g1"
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "display_title": "Primary Economic Activities: Agriculture",
+      "syllabus_mapping": "Prelims GS-I social/economic geography and GS-I distribution/location clause; repository Part B topic 30 (agricultural geography).",
+      "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Geography\\README.md",
+        "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\geography-30-primary-economic-activities-agriculture_Learning-Session.md",
+      "notes_pdf": "notes\\Geography\\learning-session-v2\\geography-30-primary-economic-activities-agriculture\\geography-30-primary-economic-activities-agriculture_Learning-Session_2026-08-20.pdf",
+      "workbook_pdf": "notes\\Geography\\learning-session-v2\\geography-30-primary-economic-activities-agriculture\\geography-30-primary-economic-activities-agriculture_Solved-Workbook_2026-08-20.pdf",
+      "superseded_v1": "geography-30:legacy-v1:g1"
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "display_title": "Industries and Industrial Regions",
+      "syllabus_mapping": "Prelims GS-I social/economic geography and GS-I factors responsible for industry location; repository Part B topic 32 (industrial geography).",
+      "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Geography\\README.md",
+        "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\geography-32-industries-and-industrial-regions_Learning-Session.md",
+      "notes_pdf": "notes\\Geography\\learning-session-v2\\geography-32-industries-and-industrial-regions\\geography-32-industries-and-industrial-regions_Learning-Session_2026-08-20.pdf",
+      "workbook_pdf": "notes\\Geography\\learning-session-v2\\geography-32-industries-and-industrial-regions\\geography-32-industries-and-industrial-regions_Solved-Workbook_2026-08-20.pdf",
+      "superseded_v1": "geography-32:legacy-v1:g1"
+    }
+  ]
+}

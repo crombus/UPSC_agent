@@ -1,0 +1,35 @@
+ M EXPORT-PDF-COMMAND-INDEX.md
+ M EXPORT-PDF-STATUS.json
+?? V2-SUBJECT-SECTION-COMMAND-INDEX.md
+?? tools/deep_content_quality_overrides.json
+?? tools/generate_geography_05_06_sequential.py
+?? tools/generate_geography_07_08_sequential.py
+?? tools/generate_geography_09_sequential.py
+?? tools/generate_geography_common.py
+?? tools/geography_05_09_data.py
+?? tools/geography_generator_test_support.py
+?? tools/notions_style_ascii_master.py
+?? tools/test_generate_geography_05_06_sequential.py
+?? tools/test_generate_geography_07_08_sequential.py
+?? tools/test_generate_geography_09_sequential.py
+?? tools/test_refresh_all_v2_learning_sessions.py
+?? upsc-ai-kit/manifests/exports/geography-05-09-learner-v2-2026-09-01-completion.json
+?? upsc-ai-kit/manifests/exports/geography-05-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/geography-05-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/geography-05-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/exports/geography-06-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/geography-06-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/geography-06-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/exports/geography-07-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/geography-07-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/geography-07-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/exports/geography-08-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/geography-08-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/geography-08-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/exports/geography-09-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/geography-09-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/geography-09-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/geography-05-06-2026-09-01-sequential.json
+?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/geography-07-08-2026-09-01-sequential.json
+?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/geography-09-2026-09-01-sequential.json
+?? upsc-ai-kit/manifests/exports/geography-05-09-learner-v2-2026-09-01-changed-files.txt

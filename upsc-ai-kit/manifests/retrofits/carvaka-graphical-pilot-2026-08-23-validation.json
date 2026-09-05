@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "carvaka-continuous-at-a-glance-graphical-v2",
+  "validated_on": "2026-08-23T16:28:41.822438+05:30",
+  "selection": "four required pilots",
+  "topic_count": 4,
+  "passed": true,
+  "automated_validation_passed": true,
+  "manual_visual_review": {
+    "status": "PASS",
+    "criteria": [
+      "header, legend and approval status",
+      "continuous cyan numbered rail",
+      "keyword pills and colour diversity",
+      "topic-designed internal layouts",
+      "answer-grabbing strips",
+      "final core synthesis before grey enrichment",
+      "readable tiled previews and contact sheets"
+    ]
+  },
+  "reference": {
+    "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "hashes": {
+      "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+      "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+      "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+      "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+      "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+    },
+    "preserved": true
+  },
+  "totals": {
+    "core_stages": 36,
+    "cards": 40,
+    "poster_pages": 4,
+    "tiled_pages": 16
+  },
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "geography-04",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Geography",
+      "section": "Part-A-Physical-Geography",
+      "topic_folder": "geography-04",
+      "main_pdf_pages": 77,
+      "workbook_pdf_pages": 20,
+      "session_count": 20,
+      "ascii_panel_count": 8,
+      "ascii_max_line_width": 80,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-2026-08-23.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 8,
+        "panel_pages": [
+          75,
+          75,
+          75,
+          76,
+          76,
+          76,
+          76,
+          77
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-04\\carvaka-g8\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g8\\geography-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g8\\geography-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g8\\geography-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g8\\geography-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-04\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 77,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "ascii_master_byte_preserved": true,
+      "graphical_renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-04.json",
+      "graphical_spec_sha256": "e0c753f62936385b040c709599f5a4553ad6272917d798035a9340360dde5f34",
+      "graphical_core_stage_count": 8,
+      "graphical_card_count": 9,
+      "flowchart_tiled_pages": 4,
+      "graphical_layout_signature_count": 8,
+      "graphical_master_dimensions": [
+        4800,
+        10176
+      ],
+      "graphical_reference_hash": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "source_generation": 10,
+      "refreshed_generation": 11,
+      "subject": "Philosophy",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "topic-02",
+      "main_pdf_pages": 71,
+      "workbook_pdf_pages": 21,
+      "session_count": 9,
+      "ascii_panel_count": 8,
+      "ascii_max_line_width": 92,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 8,
+        "panel_pages": [
+          70,
+          70,
+          71,
+          71,
+          71,
+          71,
+          71,
+          71
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g11\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g11\\topic-02_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g11\\topic-02_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g11\\topic-02_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g11\\topic-02_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g11"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 71,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "ascii_master_byte_preserved": true,
+      "graphical_renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-i-indian-philosophy-02.json",
+      "graphical_spec_sha256": "2185717cfdd599239aca3775c1749848305b10d6d1dfe283bf9484b74d8d5b2e",
+      "graphical_core_stage_count": 8,
+      "graphical_card_count": 9,
+      "flowchart_tiled_pages": 4,
+      "graphical_layout_signature_count": 7,
+      "graphical_master_dimensions": [
+        4800,
+        9234
+      ],
+      "graphical_reference_hash": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    },
+    {
+      "topic_key": "polity-07",
+      "source_generation": 13,
+      "refreshed_generation": 14,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-07",
+      "main_pdf_pages": 94,
+      "workbook_pdf_pages": 23,
+      "session_count": 27,
+      "ascii_panel_count": 10,
+      "ascii_max_line_width": 86,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 10,
+        "panel_pages": [
+          92,
+          92,
+          93,
+          93,
+          93,
+          93,
+          93,
+          94,
+          94,
+          94
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-07\\carvaka-g14\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g14\\polity-07_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g14\\polity-07_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g14\\polity-07_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g14\\polity-07_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-07\\carvaka-g14"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "ascii_master_byte_preserved": true,
+      "graphical_renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-07.json",
+      "graphical_spec_sha256": "2cc6fa20386b02783ed0bac7ec0f7a189d1ccd5652849fe04021134ba8ae8567",
+      "graphical_core_stage_count": 10,
+      "graphical_card_count": 11,
+      "flowchart_tiled_pages": 4,
+      "graphical_layout_signature_count": 8,
+      "graphical_master_dimensions": [
+        4800,
+        11642
+      ],
+      "graphical_reference_hash": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "source_generation": 10,
+      "refreshed_generation": 11,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-06",
+      "main_pdf_pages": 78,
+      "workbook_pdf_pages": 14,
+      "session_count": 40,
+      "ascii_panel_count": 10,
+      "ascii_max_line_width": 89,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 10,
+        "panel_pages": [
+          76,
+          77,
+          77,
+          77,
+          77,
+          77,
+          77,
+          77,
+          78,
+          78
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-06\\carvaka-g11\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g11\\ancient-indian-history-06_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g11\\ancient-indian-history-06_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g11\\ancient-indian-history-06_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g11\\ancient-indian-history-06_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-06\\carvaka-g11"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 14,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "ascii_master_byte_preserved": true,
+      "graphical_renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-06.json",
+      "graphical_spec_sha256": "84319f9e7d5b428742347c6f1007fcd1c1fa8d427bd9d65ffdcaf5ac02120dab",
+      "graphical_core_stage_count": 10,
+      "graphical_card_count": 11,
+      "flowchart_tiled_pages": 4,
+      "graphical_layout_signature_count": 8,
+      "graphical_master_dimensions": [
+        4800,
+        10208
+      ],
+      "graphical_reference_hash": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    }
+  ]
+}

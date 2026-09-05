@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-08-30T10:18:04.245917+00:00",
+  "subject": "Political Theory",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 23,
+  "topic_validations_passed": 23,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_generate_political_theory_topic_v2 (cwd=tools)",
+      "tests": 25,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_cross_applied_ambedkar_model_is_marks_worthy (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_democracy_representation_preserves_system_distinctions (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_diverse_justice_preserves_boundaries_and_contextual_practice (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_every_solved_item_has_exam_execution_controls (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_feminism_preserves_extensions_and_pyq_ownership (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_fresh_ascii_specs_have_no_dangling_sentence_fragments (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_globalisation_topic_preserves_complete_answer_engine (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_interdisciplinary_topic_preserves_extended_disciplines (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_justice_topic_preserves_categories_priorities_and_pyq_ownership (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_liberty_equality_property_preserves_republican_and_property_boundaries (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_nature_of_politics_preserves_communitarian_distinctions (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_obligation_law_topic_preserves_debates_and_pyq_boundary (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_power_topic_preserves_digital_extension_and_cautions (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_pyq_ownership_boundaries (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_rights_topic_preserves_obligation_enforcement_and_pyq_boundaries (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_sovereignty_topic_preserves_answer_engine_and_caution (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_standard_flowchart_source_is_exporter_compatible (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_state_civil_society_topic_preserves_all_extensions (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_state_perspectives_preserves_all_thinker_blocks (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\ntest_topic_five_keeps_conservatism_in_core (test_generate_political_theory_topic_v2.PoliticalTheoryGeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 25 tests in 8.531s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.976s\n\nOK"
+    }
+  ],
+  "test_count": 33,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-30-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 23,
+    "learning_and_workbook_pdfs_checked": 46,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_fragment_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "preserved_failed_intermediate_generation_count": 5,
+  "preserved_failed_intermediate_generations": [
+    {
+      "topic_key": "political-theory-01",
+      "generation": 4,
+      "state": "failed_before_render",
+      "reason": "graphical output directory was pre-created; renderer refused overwrite; partial files retained and never selected"
+    },
+    {
+      "topic_key": "political-theory-01",
+      "generation": 5,
+      "state": "validation_failed",
+      "reason": "schema-v2 tracker rejected the first asset_folder path; complete files retained and never selected"
+    },
+    {
+      "topic_key": "political-theory-03",
+      "generation": 4,
+      "state": "validation_failed",
+      "reason": "concurrent access denied atomic tracker publication; complete unpublished files retained"
+    },
+    {
+      "topic_key": "political-theory-06",
+      "generation": 5,
+      "state": "validation_failed",
+      "reason": "first validator omitted the explicit India-centric analytical-use label; complete files retained"
+    },
+    {
+      "topic_key": "political-theory-18",
+      "generation": 3,
+      "state": "validation_failed",
+      "reason": "first validator accepted singular Source but not plural Official sources; complete files retained"
+    }
+  ],
+  "inventory": "upsc-ai-kit\\manifests\\exports\\political-theory-deep-review-2026-08-30-changed-files.txt",
+  "inventory_count": 1221
+}

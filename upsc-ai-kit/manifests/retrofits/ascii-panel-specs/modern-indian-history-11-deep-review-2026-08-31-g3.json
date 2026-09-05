@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-11",
+      "display_title": "The Revolt of 1857",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Pre-1857 civil rebellions in the 1857 revolt",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Pre-1857 civil rebellions",
+            "EVIDENCE -> Sanyasi, Chuar, poligar and other civil rebellions show recurrent local resistance",
+            "            before 1857 without forming one national conspiracy.",
+            "EXAM USE -> use Pre-1857 civil rebellions to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Pre-1857 civil rebellions to another institution or theatre.",
+            "MUST REMEMBER: The revolt began at Meerut on 10 May 1857 and spread through Delhi, Kanpur,",
+            "  Lucknow, Jhansi, Bareilly, Arrah and other centres with different leaders, grievances and",
+            "  local coalitions.",
+            "MUST REMEMBER: The revolt began at Meerut on 10 May 1857 and spread through Delhi, Kanpur,",
+            "  Lucknow, Jhansi, Bareilly, Arrah and other centres with different leaders, grievances and",
+            "  local coalitions."
+          ],
+          "source_references": [
+            "Pre-1857 civil rebellions",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Santhal Hool in the 1857 revolt",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Santhal Hool",
+            "EVIDENCE -> The Santhal Hool of 1855-56 under Sidhu and Kanhu was a distinct anti-diku and",
+            "            anti-colonial uprising.",
+            "EXAM USE -> use Santhal Hool to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Santhal Hool to another institution or theatre."
+          ],
+          "source_references": [
+            "Santhal Hool",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Doctrine of Lapse in the 1857 revolt",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Doctrine of Lapse",
+            "EVIDENCE -> Dalhousie's Doctrine of Lapse dispossessed ruling houses and deepened political",
+            "            hostility before 1857.",
+            "EXAM USE -> use Doctrine of Lapse to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Doctrine of Lapse to another institution or theatre."
+          ],
+          "source_references": [
+            "Doctrine of Lapse",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Annexation of Awadh in the 1857 revolt",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Annexation of Awadh",
+            "EVIDENCE -> Awadh was annexed in 1856 on alleged misgovernment, not through the Doctrine of",
+            "            Lapse.",
+            "EXAM USE -> use Annexation of Awadh to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Annexation of Awadh to another institution or theatre."
+          ],
+          "source_references": [
+            "Annexation of Awadh",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "General Service Enlistment Act in the 1857 revolt",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> General Service Enlistment Act",
+            "EVIDENCE -> The General Service Enlistment Act of 1856 intensified sepoy anxiety over overseas",
+            "            service and caste practice.",
+            "EXAM USE -> use General Service Enlistment Act to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer General Service Enlistment Act to another institution or theatre."
+          ],
+          "source_references": [
+            "General Service Enlistment Act",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Enfield cartridge in the 1857 revolt",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Enfield cartridge",
+            "EVIDENCE -> The greased-cartridge rumour was the immediate trigger of 1857 rather than its",
+            "            complete cause.",
+            "EXAM USE -> use Enfield cartridge to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Enfield cartridge to another institution or theatre."
+          ],
+          "source_references": [
+            "Enfield cartridge",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Barrackpore in the 1857 revolt",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Barrackpore",
+            "EVIDENCE -> Mangal Pandey's Barrackpore episode occurred on 29 March 1857 before the main",
+            "            outbreak.",
+            "EXAM USE -> use Barrackpore to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Barrackpore to another institution or theatre."
+          ],
+          "source_references": [
+            "Barrackpore",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Meerut outbreak in the 1857 revolt",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Meerut outbreak",
+            "EVIDENCE -> The main revolt began at Meerut on 10 May 1857 and the sepoys then moved to Delhi.",
+            "EXAM USE -> use Meerut outbreak to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Meerut outbreak to another institution or theatre."
+          ],
+          "source_references": [
+            "Meerut outbreak",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Delhi centre in the 1857 revolt",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Delhi centre",
+            "EVIDENCE -> Bahadur Shah Zafar became the symbolic emperor at Delhi, while Bakht Khan was",
+            "            associated with rebel command.",
+            "EXAM USE -> use Delhi centre to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Delhi centre to another institution or theatre."
+          ],
+          "source_references": [
+            "Delhi centre",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Kanpur leadership in the 1857 revolt",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Kanpur leadership",
+            "EVIDENCE -> Nana Saheb, Tantia Tope and Azimullah Khan are associated with the Kanpur centre.",
+            "EXAM USE -> use Kanpur leadership to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Kanpur leadership to another institution or theatre.",
+            "CLOSE DISTINCTION: Sepoy mutiny, civil rebellion, peasant-zamindar resistance and",
+            "  restorationist politics were overlapping dimensions; it was neither a uniform national war",
+            "  nor only a barracks incident.",
+            "CLOSE DISTINCTION: Sepoy mutiny, civil rebellion, peasant-zamindar resistance and",
+            "  restorationist politics were overlapping dimensions; it was neither a uniform national war",
+            "  nor only a barracks incident."
+          ],
+          "source_references": [
+            "Kanpur leadership",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Awadh leadership in the 1857 revolt",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Awadh leadership",
+            "EVIDENCE -> Begum Hazrat Mahal became a major political leader of resistance in Awadh.",
+            "EXAM USE -> use Awadh leadership to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Awadh leadership to another institution or theatre.",
+            "EVIDENCE LIMIT: Colonial, nationalist, Marxist and subaltern interpretations must be tested",
+            "  against proclamations, rebel correspondence, trial records and sharply uneven regional",
+            "  participation.",
+            "EVIDENCE LIMIT: Colonial, nationalist, Marxist and subaltern interpretations must be tested",
+            "  against proclamations, rebel correspondence, trial records and sharply uneven regional",
+            "  participation."
+          ],
+          "source_references": [
+            "Awadh leadership",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Jhansi leadership in the 1857 revolt",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Jhansi leadership",
+            "EVIDENCE -> Rani Lakshmibai led resistance at Jhansi and became a central memory of 1857.",
+            "EXAM USE -> use Jhansi leadership to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Jhansi leadership to another institution or theatre."
+          ],
+          "source_references": [
+            "Jhansi leadership",
+            "The Revolt of 1857",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\11_The-Revolt-of-1857.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g2\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-11\\g3\\modern-indian-history-11_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

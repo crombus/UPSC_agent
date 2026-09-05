@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "world-history-18",
+  "title": "Decolonization of Africa and Asia",
+  "generation": 3,
+  "generation_date": "2026-09-01",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "world-history-18:learner-v2:g2",
+  "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+    "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md": "df4bda0616168713ac58224f5c9d52967c4cbf727f5c5e0047b634f380fd1936",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md": "1345f4497043071d8c20659d98ac9ee03ba53de623acd32d05e709074d350738",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Solved-Practice-Workbook_2026-09-01.md"
+}

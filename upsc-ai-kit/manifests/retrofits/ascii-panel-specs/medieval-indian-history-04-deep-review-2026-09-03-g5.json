@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-04",
+      "display_title": "The Khaljis: Alauddin Khalji & Market Reforms",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Khalji phase chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1290 Jalaluddin -> 1296 Alauddin seizes power",
+            "1297-1306 major Mongol crises and northern campaigns",
+            "1303 Chittor and Delhi-Siri crisis -> 1308-1311 Deccan expeditions",
+            "1311 Alai Darwaza -> 1316 Alauddin dies",
+            "1320 Khusrau Khan falls; Tughlaq transition",
+            "RULE: campaigns, reforms and succession must stay on one dated spine.",
+            "MUST REMEMBER: Alauddin Khalji's controls linked prices, supplies, intelligence and cavalry",
+            "  maintenance to imperial war capacity."
+          ],
+          "source_references": [
+            "Chronology",
+            "Scope",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The Khalji revolution debate",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "IDENTITY -> Turkic-origin Khaljis with long Afghan-region association",
+            "1290 ACCESSION -> old Shamsi-Turkish monopoly of high office weakens",
+            "CONTINUITY -> Delhi + iqta + Persianate court + frontier problem",
+            "CHANGE -> broader elite recruitment plus stronger royal coercion",
+            "NOT MASS REVOLUTION -> cultivators and artisans did not gain equality",
+            "LIMIT: Turk, Afghan and Khalji are not interchangeable fixed identities."
+          ],
+          "source_references": [
+            "Khalji revolution",
+            "Elite composition",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Accession and anti-rebellion controls",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DEVAGIRI LOOT -> wealth and political leverage",
+            "MURDER OF JALALUDDIN -> legitimacy and conspiracy anxiety",
+            "                  |",
+            "confiscation + intelligence + limits on noble feasts, wine and marriage ties",
+            "                  |",
+            "isolate elite networks and finance the crown",
+            "VERDICT: coercive monarchy answered the regime's insecure origin."
+          ],
+          "source_references": [
+            "Alauddin's accession",
+            "Anti-rebellion ordinances",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Mongol pressure and army reform",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MONGOL ASSAULTS -> fortified Delhi-Siri and frontier vigilance",
+            "LARGE STANDING CAVALRY -> cash salary and regular inspection",
+            "DAGH -> horse branding | CHEHRA -> descriptive roll",
+            "FORTS + COMMANDERS + INTELLIGENCE -> operational defence",
+            "DEPENDENCE -> affordable grain prices were tied to sustaining real wages."
+          ],
+          "source_references": [
+            "Mongol threat",
+            "Dagh",
+            "Chehra",
+            "Siri",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Expansion and control zones",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "DIRECT CORE -> Delhi, upper doab and key khalisa areas",
+            "NORTHERN CAMPAIGNS -> Gujarat, Ranthambore, Chittor and Malwa",
+            "DECCAN SUBORDINATION -> Devagiri, Warangal, Dwarasamudra and Mabar",
+            "METHODS -> annexation, garrison, tribute, treasure and local ruler retention",
+            "RULE: military reach, tributary submission and direct administration differ."
+          ],
+          "source_references": [
+            "Northern expansion",
+            "Deccan campaigns",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Agrarian revenue engine",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MEASUREMENT + high state demand in core areas",
+            "          |",
+            "reduced privileges of khuts, muqaddams and chaudhuris",
+            "          |",
+            "larger direct revenue claim and tighter village-state link",
+            "          |",
+            "cash-financed army and weaker rural intermediaries",
+            "LIMIT: intensity and implementation were not uniform across the empire."
+          ],
+          "source_references": [
+            "Revenue reforms",
+            "Rural intermediaries",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Market institutional architecture",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "SULTAN / POLICY",
+            "      |",
+            "DIWAN-I-RIYASAT -> registration, rules and supervision",
+            "SHAHNA-I-MANDI -> market enforcement",
+            "BARIDS / MUNHIYAN -> reports and intelligence checks",
+            "MERCHANTS / TRANSPORTERS -> compulsory supply and regulated conduct",
+            "RESULT: price schedules required information, supply and coercion together."
+          ],
+          "source_references": [
+            "Diwan-i-Riyasat",
+            "Shahna-i-Mandi",
+            "Enforcement",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Four regulated market clusters",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "GRAIN -> staple provisioning and military real wage",
+            "CLOTH / IMPORTS -> Sarai-i-Adl and registered trade",
+            "HORSES / CATTLE / SLAVES -> quality, brokers and military procurement",
+            "GENERAL GOODS -> daily urban consumption",
+            "CAUTION: quoted schedules depend heavily on Barani and require unit discipline",
+            "SCOPE: strongest evidence concerns Delhi, not one uniform national market."
+          ],
+          "source_references": [
+            "Market clusters",
+            "Price schedules",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Grain supply and scarcity response",
+          "structural_type": "process",
+          "ascii_lines": [
+            "DOAB COLLECTION / MERCHANT SUPPLY",
+            "             |",
+            "banjaras and regulated transport -> Delhi markets and state granaries",
+            "             |",
+            "fixed-price sale + surveillance",
+            "             |",
+            "scarcity -> controlled release and rationing reports",
+            "LIMIT: enforcement pressure and evasion remained part of the system."
+          ],
+          "source_references": [
+            "Grain supply",
+            "Banjaras",
+            "Granaries",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Military-fiscal causal chain",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MONGOL THREAT + IMPERIAL AMBITION",
+            "          -> larger standing cavalry",
+            "          -> cash salaries create provisioning problem",
+            "          -> revenue extraction expands state resources",
+            "          -> regulated grain supply protects soldiers' real wages",
+            "          -> surveillance enforces the chain",
+            "VERDICT: army affordability, not welfare equality, is the strongest motive.",
+            "CLOSE DISTINCTION: Diwan-i-Riyasat and Shahna-i-Mandi belong to an enforced market regime, not",
+            "  a modern welfare-price scheme."
+          ],
+          "source_references": [
+            "Military-fiscal system",
+            "Market-reform objectives",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Effectiveness, sources and limits",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BARANI -> detailed policy | later, normative and aristocratic",
+            "AMIR KHUSRAU -> campaigns and court culture | contemporary panegyric",
+            "MATERIAL -> coins + Siri + Alai Darwaza | not proof of market reach",
+            "EFFECT -> Delhi provisioning and army support under Alauddin",
+            "COST -> coercion on cultivators, merchants, carriers and offenders",
+            "LIMIT -> capital/core-centred, evasion-prone and ruler-dependent",
+            "AFTER 1316 -> succession and changed priorities end the integrated system.",
+            "EVIDENCE LIMIT: Claims of complete or permanent success must be bounded by chronicler",
+            "  evidence, coercion and post-Alauddin durability."
+          ],
+          "source_references": [
+            "Sources",
+            "Effectiveness",
+            "Limits",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 04 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Khalji change combined elite widening and coercive monarchy",
+            "PRESSURE -> Mongols, conspiracy and expansion",
+            "REFORMS -> revenue + army inspection + market institutions",
+            "MECHANISM -> information + supply + price schedule + punishment",
+            "ASSESS -> effective in core objectives, geographically and politically bounded",
+            "CLOSE -> major military-fiscal experiment, not socialism or a modern command economy."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Synthesis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\04_Khaljis-Alauddin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g3\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g4\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-04\\g5\\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

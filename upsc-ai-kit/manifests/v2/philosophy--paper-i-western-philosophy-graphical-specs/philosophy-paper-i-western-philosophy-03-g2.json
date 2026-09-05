@@ -1,0 +1,956 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-03",
+  "subject": "Philosophy",
+  "title": "EMPIRICISM",
+  "short_route": "EMPIRICIST STARTING RULE AND → LOCKE'S SOURCE-OF-IDEAS PIPELINE AND → LOCKE'S ABSTRACTION, GENERAL IDEAS → LOCKE'S QUALITIES, REPRESENTATIVE REALISM → LOCKE'S KNOWLEDGE, PROBABILITY, SELF → BERKELEY'S ANTI-ABSTRACTION ROUTE TO",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-03-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "ab0dbadabe32bd305edcef11d3b5813c8fc5b7c5dcb6badc7bfa1ccf3ad17f2f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EMPIRICIST STARTING RULE AND LOCKE-BERKELEY-HUME PRESSURE SEQUENCE",
+      "structural_type": "connected-doctrinal-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EMPIRICIST STARTING RULE AND LOCKE-BERKELEY-HUME PRESSURE SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT CAN EXPERIENCE ALONE JUSTIFY ABOUT WORLD, SELF, GOD",
+          "role": "outcome"
+        },
+        {
+          "text": "SENSATION + REFLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRESENTED MATERIAL WORLD PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESEMBLANCE AND UNKNOWN SUBSTRATUM",
+          "role": "primary"
+        },
+        {
+          "text": "SENSIBLE OBJECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "IDEAS; ACTIVE SPIRITS; NO MATTER PRESSURE",
+          "role": "caution"
+        },
+        {
+          "text": "WHAT EXPERIENTIAL SOURCE SUPPORTS SELF AND NECESSARY POWER?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION: WHAT CAN EXPERIENCE ALONE JUSTIFY ABOUT WORLD, SELF, GOD AND CAUSE?",
+        "LOCKE: sensation + reflection → ideas → represented material world pressure: resemblance and unknown substratum",
+        "BERKELEY: sensible objects = ideas; active spirits; no matter pressure: what experiential source supports self",
+        "HUME: impressions + ideas → custom / natural belief → mitigated scepticism",
+        "ROUTE: representative realism → immaterialism → sceptical naturalism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION: WHAT CAN EXPERIENCE ALONE JUSTIFY ABOUT WORLD, SELF, GOD AND CAUSE?",
+            "LOCKE: sensation + reflection → ideas → represented material world pressure: resemblance and unknown substratum"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "BERKELEY: sensible objects = ideas; active spirits; no matter pressure: what experiential source supports self and necessary power?",
+            "HUME: impressions + ideas → custom / natural belief → mitigated scepticism"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "ROUTE: representative realism → immaterialism → sceptical naturalism.",
+            "CENTRAL QUESTION: WHAT CAN EXPERIENCE ALONE JUSTIFY ABOUT WORLD, SELF, GOD AND CAUSE?"
+          ]
+        }
+      ],
+      "mechanism_strip": "Each thinker applies experiential scrutiny to a claim preserved by the previous system: material support, active spirit, continuing self or necessary connection.",
+      "answer_line": "Empiricism is not three disconnected biographies but a progressive test of what an experience-only foundation can justify: Locke retains represented matter, Berkeley replaces matter with ideas and spirits, and Hume limits reason to perceptions, custom and mitigated belief.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LOCKE'S SOURCE-OF-IDEAS PIPELINE AND LIMITS OF KNOWLEDGE",
+      "structural_type": "source-construction-and-certainty-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LOCKE'S SOURCE-OF-IDEAS PIPELINE AND LIMITS OF KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "REJECT INNATE CONTENT",
+          "role": "caution"
+        },
+        {
+          "text": "NO UNIVERSAL ASSENT; NO CONSCIOUSLY UNPERCEIVED PROPOSITIONS",
+          "role": "caution"
+        },
+        {
+          "text": "SENSATION (OUTER SENSE) + REFLECTION (MENTAL OPERATIONS)",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE IDEAS",
+          "role": "primary"
+        },
+        {
+          "text": "PASSIVELY RECEIVED COMBINE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLEX IDEAS",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSITIVE; BEYOND IT LIES PROBABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REJECT INNATE CONTENT: no universal assent; no consciously unperceived propositions",
+        "SENSATION (outer sense) + REFLECTION (mental operations)",
+        "SIMPLE IDEAS: passively received combine / compare / abstract",
+        "COMPLEX IDEAS: MODES",
+        "KNOWLEDGE: intuitive → demonstrative → sensitive; beyond it lies probability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "REJECT INNATE CONTENT: no universal assent; no consciously unperceived propositions",
+            "SENSATION (outer sense) + REFLECTION (mental operations)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE IDEAS: passively received combine / compare / abstract",
+            "COMPLEX IDEAS: MODES"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "KNOWLEDGE: intuitive → demonstrative → sensitive; beyond it lies probability",
+            "LIMIT: genetic explanation does not by itself defeat dispositional innatism."
+          ]
+        }
+      ],
+      "mechanism_strip": "Experience supplies simple contents, after which mental operations build complex ideas without inventing any new simple sensory material.",
+      "answer_line": "Locke's empiricism is constructive rather than merely receptive: sensation and reflection provide simple ideas, while the understanding actively combines, compares and abstracts them into the complex materials of knowledge.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LOCKE'S ABSTRACTION, GENERAL IDEAS AND REAL-NOMINAL ESSENCE",
+      "structural_type": "classification-flow-and-dispute",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LOCKE'S ABSTRACTION, GENERAL IDEAS AND REAL-NOMINAL ESSENCE",
+          "role": "primary"
+        },
+        {
+          "text": "PARTICULAR IDEAS",
+          "role": "outcome"
+        },
+        {
+          "text": "OMIT TIME/PLACE/CONCOMITANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERAL REPRESENTATIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERAL WORD",
+          "role": "primary"
+        },
+        {
+          "text": "SIGNIFIES ABSTRACT GENERAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSIFIES PARTICULARS",
+          "role": "comparison"
+        },
+        {
+          "text": "NOMINAL ESSENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARTICULAR IDEAS → omit time/place/concomitants → GENERAL REPRESENTATIVE",
+        "GENERAL WORD → signifies abstract general idea → classifies particulars",
+        "NOMINAL ESSENCE = abstract idea attached to the name",
+        "REAL ESSENCE = hidden internal constitution producing observable powers",
+        "TRIANGLE PROBLEM: neither equilateral nor scalene, yet represents both"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PARTICULAR IDEAS → omit time/place/concomitants → GENERAL REPRESENTATIVE",
+            "GENERAL WORD → signifies abstract general idea → classifies particulars",
+            "NOMINAL ESSENCE = abstract idea attached to the name"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REAL ESSENCE = hidden internal constitution producing observable powers",
+            "TRIANGLE PROBLEM: neither equilateral nor scalene, yet represents both",
+            "BERKELEY: no contradictory abstract image; use a particular sign generally"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "LOCKE REPLY: undetermined feature != contradictory feature",
+            "RESIDUAL: non-imagistic abstraction strains Locke's official idea theory."
+          ]
+        }
+      ],
+      "mechanism_strip": "A particular experiential idea becomes general by selective omission and stands for a class under a general name.",
+      "answer_line": "Lockean abstraction makes generality a work of the understanding rather than a feature of independently existing universals, but Berkeley exposes the tension between a general determinable and an impossible indeterminate image.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LOCKE'S QUALITIES, REPRESENTATIVE REALISM AND UNKNOWN SUBSTRATUM",
+      "structural_type": "quality-matrix-and-representation-chain",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOCKE'S QUALITIES, REPRESENTATIVE REALISM AND UNKNOWN SUBSTRATUM",
+          "role": "primary"
+        },
+        {
+          "text": "SOLIDITY, EXTENSION, FIGURE, MOTION/REST, NUMBER; INSEPARABLE FROM BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "COLOUR, SOUND, TASTE, SMELL, HEAT/COLD; POWERS RELATIVE TO PERCEIVERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIMARY-QUALITY IDEAS RESEMBLE; SECONDARY-QUALITY IDEAS DO NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CAUSAL ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "IDEA IMMEDIATELY PERCEIVED",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESENTATION CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "VEIL OBJECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIMARY: solidity, extension, figure, motion/rest, number; inseparable from body",
+        "SECONDARY: colour, sound, taste, smell, heat/cold; powers relative to perceivers",
+        "RESEMBLANCE: primary-quality ideas resemble; secondary-quality ideas do not",
+        "BODY → causal action → IDEA IMMEDIATELY PERCEIVED → REPRESENTATION CLAIM",
+        "VEIL OBJECTION: how can an idea be compared with unperceived matter?"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PRIMARY: solidity, extension, figure, motion/rest, number; inseparable from body",
+          "BODY → causal action → IDEA IMMEDIATELY PERCEIVED → REPRESENTATION CLAIM",
+          "EXACT LIMIT: 'something, I know not what' = unknown nature, not denied existence"
+        ],
+        [
+          "SECONDARY: colour, sound, taste, smell, heat/cold; powers relative to perceivers",
+          "VEIL OBJECTION: how can an idea be compared with unperceived matter?",
+          "REPLY: causal/structural representation; RESIDUAL: support remains opaque."
+        ],
+        [
+          "RESEMBLANCE: primary-quality ideas resemble; secondary-quality ideas do not",
+          "SUBSTRATUM: supposed support of co-occurring qualities",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PRIMARY: solidity, extension, figure, motion/rest, number; inseparable from body",
+            "SECONDARY: colour, sound, taste, smell, heat/cold; powers relative to perceivers",
+            "RESEMBLANCE: primary-quality ideas resemble; secondary-quality ideas do not"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BODY → causal action → IDEA IMMEDIATELY PERCEIVED → REPRESENTATION CLAIM",
+            "VEIL OBJECTION: how can an idea be compared with unperceived matter?",
+            "SUBSTRATUM: supposed support of co-occurring qualities"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "EXACT LIMIT: 'something, I know not what' = unknown nature, not denied existence",
+            "REPLY: causal/structural representation; RESIDUAL: support remains opaque."
+          ]
+        }
+      ],
+      "mechanism_strip": "External bodies causally produce ideas; primary-quality ideas allegedly resemble their causes, while repeated co-instantiation motivates the supposition of a support.",
+      "answer_line": "Locke's representative realism secures an external world by the resemblance of primary-quality ideas, yet its unknown substratum and mediated perception generate the very gap that Berkeley turns against matter.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LOCKE'S KNOWLEDGE, PROBABILITY, SELF, MEMORY AND DEMONSTRATIVE GOD",
+      "structural_type": "identity-tree-and-objection-repair",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LOCKE'S KNOWLEDGE, PROBABILITY, SELF, MEMORY AND DEMONSTRATIVE GOD",
+          "role": "primary"
+        },
+        {
+          "text": "PERCEIVED AGREEMENT/DISAGREEMENT OF IDEAS; PROBABILITY GUIDES BELIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME PERSON",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY OF CONSCIOUSNESS AND APPROPRIATION THROUGH MEMORY",
+          "role": "evidence"
+        },
+        {
+          "text": "SAME HUMAN BEING",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUITY OF ONE LIVING ORGANISM",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME SUBSTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAMENESS OF MATERIAL OR IMMATERIAL BEARER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KNOWLEDGE = perceived agreement/disagreement of ideas; probability guides belief",
+        "SAME PERSON: continuity of consciousness and appropriation through memory",
+        "SAME HUMAN BEING: continuity of one living organism",
+        "SAME SUBSTANCE: sameness of material or immaterial bearer",
+        "PRINCE/COBBLER: person follows consciousness; man follows organism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "KNOWLEDGE = perceived agreement/disagreement of ideas; probability guides belief",
+            "SAME PERSON: continuity of consciousness and appropriation through memory",
+            "SAME HUMAN BEING: continuity of one living organism"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "SAME SUBSTANCE: sameness of material or immaterial bearer",
+            "PRINCE/COBBLER: person follows consciousness; man follows organism",
+            "BUTLER: memory presupposes identity; REID: Brave Officer breaks transitivity"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "REPAIR: overlapping psychological-continuity chains",
+            "GOD: finite knowing existence → demonstrative causal route; no innate God-idea",
+            "LIMIT: repaired continuity exceeds a simple episodic-memory criterion."
+          ]
+        }
+      ],
+      "mechanism_strip": "Conscious appropriation links present and past experiences for accountability, while demonstrative reasoning moves from existing knowing being to an eternal powerful cause.",
+      "answer_line": "Locke's account unifies epistemic humility and forensic identity: knowledge has bounded degrees, while the person extends only as far as consciousness can appropriate past thought and action.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BERKELEY'S ANTI-ABSTRACTION ROUTE TO IMMATERIALISM AND DIRECT REALISM",
+      "structural_type": "critique-sequence-and-ontology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BERKELEY'S ANTI-ABSTRACTION ROUTE TO IMMATERIALISM AND DIRECT REALISM",
+          "role": "primary"
+        },
+        {
+          "text": "NO ABSTRACT GENERAL IMAGE",
+          "role": "caution"
+        },
+        {
+          "text": "MATERIAL SUBSTANCE-IN-GENERAL LOSES CONTENT",
+          "role": "evidence"
+        },
+        {
+          "text": "LIKENESS PRINCIPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "AN IDEA CAN BE LIKE ONLY AN IDEA",
+          "role": "primary"
+        },
+        {
+          "text": "QUALITY PARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "OBSERVER-RELATIVITY APPLIES TO PRIMARY AND SECONDARY QUALITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSIBLE OBJECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NO ABSTRACT GENERAL IMAGE → material substance-in-general loses content",
+        "LIKENESS PRINCIPLE: an idea can be like only an idea",
+        "QUALITY PARITY: observer-relativity applies to primary and secondary qualities",
+        "SENSIBLE OBJECT = stable collection of immediately perceived ideas",
+        "ESSE EST PERCIPI applies to sensible things; IDEAS are passive"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "NO ABSTRACT GENERAL IMAGE → material substance-in-general loses content",
+            "LIKENESS PRINCIPLE: an idea can be like only an idea",
+            "QUALITY PARITY: observer-relativity applies to primary and secondary qualities"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "SENSIBLE OBJECT = stable collection of immediately perceived ideas",
+            "ESSE EST PERCIPI applies to sensible things; IDEAS are passive",
+            "SPIRITS perceive and act; they are not themselves ideas"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "DIRECT-REALIST DIMENSION: no unknowable material duplicate behind experience",
+            "TRAP: immaterialism denies matter, not experienced tables, trees or order."
+          ]
+        }
+      ],
+      "mechanism_strip": "If all sensible qualities are ideas and no idea can resemble an unperceiving material original, matter adds no intelligible content to experienced objects.",
+      "answer_line": "Berkeley's immaterialism does not abolish experienced reality; it abolishes the unexperienced material duplicate behind it, turning anti-abstraction and the likeness principle into a direct-realist attack on Locke's representational veil.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BERKELEY'S SPIRITS, GOD, WORLD-CONTINUITY AND OBJECTION LEDGER",
+      "structural_type": "perceiver-continuity-network",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BERKELEY'S SPIRITS, GOD, WORLD-CONTINUITY AND OBJECTION LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "FINITE SPIRITS RECEIVE INVOLUNTARY SENSORY IDEAS; IMAGINATION IS WEAKER/VOLUNTARY",
+          "role": "outcome"
+        },
+        {
+          "text": "PASSIVE IDEAS CANNOT CAUSE; ACTIVE CAUSATION BELONGS TO SPIRIT",
+          "role": "mechanism"
+        },
+        {
+          "text": "INFINITE SPIRIT CAUSES STABLE, COHERENT AND SHARED SENSORY ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECT CONTINUITY DOES NOT DEPEND ON CONTINUOUS HUMAN OBSERVATION",
+          "role": "caution"
+        },
+        {
+          "text": "ACTIVE SPIRIT KNOWN BY NOTION, NOT BY A COPIED",
+          "role": "caution"
+        },
+        {
+          "text": "SOLIPSISM REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY FINITE SPIRITS + COMMON DIVINE ORDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FINITE SPIRITS receive involuntary sensory ideas; imagination is weaker/voluntary",
+        "PASSIVE IDEAS cannot cause; active causation belongs to spirit",
+        "GOD / INFINITE SPIRIT causes stable, coherent and shared sensory order",
+        "OBJECT CONTINUITY does not depend on continuous human observation",
+        "SELF: active spirit known by NOTION, not by a copied idea"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "FINITE SPIRITS receive involuntary sensory ideas; imagination is weaker/voluntary",
+            "PASSIVE IDEAS cannot cause; active causation belongs to spirit",
+            "GOD / INFINITE SPIRIT causes stable, coherent and shared sensory order"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "OBJECT CONTINUITY does not depend on continuous human observation",
+            "SELF: active spirit known by NOTION, not by a copied idea",
+            "SOLIPSISM REPLY: many finite spirits + common divine order"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "ILLUSION REPLY: coherence, involuntariness and correction within experience",
+            "RESIDUAL: experienced order does not uniquely demonstrate Berkeley's God."
+          ]
+        }
+      ],
+      "mechanism_strip": "Involuntary, vivid and coherent sensory ideas form a law-like order whose active cause cannot be a passive idea and is attributed to God.",
+      "answer_line": "Berkeley avoids solipsism by making finite perceivers recipients within a divinely ordered language of nature: God is neither an idea nor another human observer but the active cause of stable sensory order.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HUME'S IMPRESSIONS, IDEAS, FORK, SUBSTANCE, BUNDLE SELF AND RELIGION LIMITS",
+      "structural_type": "perception-taxonomy-and-application-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HUME'S IMPRESSIONS, IDEAS, FORK, SUBSTANCE, BUNDLE SELF AND RELIGION",
+          "role": "primary"
+        },
+        {
+          "text": "IMPRESSIONS (FORCEFUL)",
+          "role": "outcome"
+        },
+        {
+          "text": "IDEAS (FAINTER COPIES)",
+          "role": "comparison"
+        },
+        {
+          "text": "COPY PRINCIPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVERY SIMPLE IDEA NORMALLY TRACES TO A SIMPLE IMPRESSION",
+          "role": "primary"
+        },
+        {
+          "text": "MISSING SHADE OF BLUE IS A NARROW ACKNOWLEDGED EXCEPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSE AND EFFECT",
+          "role": "mechanism"
+        },
+        {
+          "text": "HUME'S FORK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PERCEPTIONS → IMPRESSIONS (forceful) / IDEAS (fainter copies)",
+        "COPY PRINCIPLE: every simple idea normally traces to a simple impression",
+        "QUALIFICATION: missing shade of blue is a narrow acknowledged exception",
+        "ASSOCIATION: resemblance",
+        "cause and effect"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PERCEPTIONS → IMPRESSIONS (forceful) / IDEAS (fainter copies)",
+            "COPY PRINCIPLE: every simple idea normally traces to a simple impression",
+            "QUALIFICATION: missing shade of blue is a narrow acknowledged exception",
+            "ASSOCIATION: resemblance"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "cause and effect",
+            "HUME'S FORK: relations of ideas / matters of fact",
+            "SUBSTANCE: no distinct impression beyond a collection of qualities/perceptions",
+            "SELF: bundle in flux; memory/association generate identity fiction"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "APPENDIX DIFFICULTY: Hume cannot explain genuine unity among perceptions",
+            "GOD/RELIGION: design analogy and divine predicates exceed demonstrative certainty."
+          ]
+        }
+      ],
+      "mechanism_strip": "Ideas inherit content from impressions; associative imagination connects them, but neither branch of the Fork supplies a perceived substance or a demonstrative inference to transcendent being.",
+      "answer_line": "Hume transforms empiricism into a forensic method: when substance, self or divine predicates cannot supply an originating impression or a valid inferential route, their speculative certainty is reduced without denying the natural beliefs of common life.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HUME'S CAUSATION, INDUCTION AND CUSTOM LOOP",
+      "structural_type": "habit-loop-and-justification-dilemma",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "HUME'S CAUSATION, INDUCTION AND CUSTOM LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "ONE CASE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIORITY + CONTIGUITY + SUCCESSION; NO IMPRESSION OF NECESSARY",
+          "role": "caution"
+        },
+        {
+          "text": "CONSTANT CONJUNCTION; OBJECTS REVEAL NO NEW TIE",
+          "role": "caution"
+        },
+        {
+          "text": "CUSTOM CHANGES THE MIND",
+          "role": "primary"
+        },
+        {
+          "text": "FELT TRANSITION FROM A TO EXPECTED B",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPRESSION OF REFLECTION PROJECTED ONTO OBJECTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUSE 1",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ONE CASE: priority + contiguity + succession; no impression of necessary power",
+        "REPETITION: constant conjunction; objects reveal no new tie",
+        "CUSTOM changes the mind → felt transition from A to expected B",
+        "NECESSITY = impression of reflection projected onto objects",
+        "CAUSE 1: regularly conjoined objects; CAUSE 2: one idea determines another"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONE CASE: priority + contiguity + succession; no impression of necessary power",
+            "REPETITION: constant conjunction; objects reveal no new tie",
+            "CUSTOM changes the mind → felt transition from A to expected B"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NECESSITY = impression of reflection projected onto objects",
+            "CAUSE 1: regularly conjoined objects; CAUSE 2: one idea determines another",
+            "INDUCTION assumes future resembles past / nature is uniform"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "NO DEMONSTRATION: contrary is conceivable",
+            "NO NON-CIRCULAR EXPERIENCE PROOF: past success already uses induction",
+            "VERDICT: practice is natural and indispensable, but not rationally necessitated."
+          ]
+        }
+      ],
+      "mechanism_strip": "Observed regularity conditions the imagination to move from cause-idea to effect-idea; the future is inferred from the past only by the very inductive principle under question.",
+      "answer_line": "Hume does not abolish causal reasoning; he relocates necessity from an observed tie in objects to the mind's customary transition, thereby exposing induction as naturally indispensable but rationally underdetermined.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "COMPARATIVE SYNTHESIS, SCEPTICISM, PYQ ROUTES AND ANSWER SPINE",
+      "structural_type": "matched-axis-matrix-and-exam-ledger",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMPARATIVE SYNTHESIS, SCEPTICISM, PYQ ROUTES AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MATTER RETAINED",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITY SPLIT",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMONSTRATIVE GOD",
+          "role": "evidence"
+        },
+        {
+          "text": "NO MATTER",
+          "role": "caution"
+        },
+        {
+          "text": "ALL SENSIBLE QUALITIES IDEAS",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDERING GOD",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SUBSTANCE IMPRESSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LOCKE: matter retained / quality split / consciousness-self / demonstrative God",
+        "BERKELEY: no matter / all sensible qualities ideas / spirit-self / ordering God",
+        "HUME: no substance impression / perceptions / bundle-self / religion proof limits",
+        "SCEPTICISM: Locke limited realism",
+        "Berkeley anti-sceptical"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "LOCKE: matter retained / quality split / consciousness-self / demonstrative God",
+            "BERKELEY: no matter / all sensible qualities ideas / spirit-self / ordering God",
+            "HUME: no substance impression / perceptions / bundle-self / religion proof limits",
+            "SCEPTICISM: Locke limited realism",
+            "Berkeley anti-sceptical"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Hume mitigated",
+            "REALISM: representative != direct; IDEALISM != denial of experience",
+            "HUME: antecedent/excessive doubt rejected; custom/common life restore belief",
+            "PYQ ROUTES: innate ideas; identity; primary qualities; nominalism; Berkeley reality",
+            "PYQ ROUTES: Fork; causation; induction; bundle self; Kant response"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "ANSWER: directive → thesis → definitions → argument → objection/reply → verdict",
+            "CONTROL: claim → named text/example → analysis → qualification",
+            "VERDICT: empiricism disciplines certainty but cannot rationally ground every belief."
+          ]
+        }
+      ],
+      "mechanism_strip": "Philosophical doubt exposes the limits of reason, while natural instinct and custom re-establish action under a disciplined, probabilistic standard of belief.",
+      "answer_line": "Hume's mature position is sceptical naturalism: reason cannot vindicate induction, substance, a simple self or natural theology with necessity, yet custom and common life inevitably restore proportioned belief.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE MASTER SLIDE - REALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — LOCKE - THEORY OF KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "INNATE IDEAS, TABULA RASA, SOURCES AND DEGREES",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — LOCKE - ABSTRACT GENERAL IDEAS",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — LOCKE - QUALITIES AND SUBSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMARY, SECONDARY AND THE KNOW-NOT-WHAT",
+          "role": "caution"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — LOCKE - SELF (PERSONAL IDENTITY)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Master Slide - Realism to Idealism to Scepticism",
+            "ADVANCED SESSION 2 — Locke - Theory of Knowledge: Innate Ideas, Tabula Rasa, Sources and Degrees",
+            "ADVANCED SESSION 3 — Locke - Abstract General Ideas, Nominal and Real Essence",
+            "ADVANCED SESSION 4 — Locke - Qualities and Substance: Primary, Secondary and the Know-Not-What"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Locke - Self (Personal Identity) and God",
+            "ADVANCED SESSION 6 — Berkeley - Immaterialism, Esse Est Percipi and the Reconstructed Arguments",
+            "ADVANCED SESSION 7 — Berkeley - Spirits, God, Common Sense; Moore and Russell React",
+            "ADVANCED SESSION 8 — Hume - Impressions and Ideas, the Fork, Dissolved Substance and the Bundle Self"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Hume - Causation: Constant Conjunction, Custom and the Impression of Reflection",
+            "ADVANCED SESSION 10 — Hume - Induction, Mitigated Scepticism, God; and the Empiricist-to-Idealist Map",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite : finish the owner first for Theory of Knowledge"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

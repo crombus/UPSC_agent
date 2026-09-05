@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T12:59:18+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "551cdcb9c1d23a80314cedbe8a1de57827d9c7bb8ab24088aebd28ee0a00b605",
+    "sha256_after": "551cdcb9c1d23a80314cedbe8a1de57827d9c7bb8ab24088aebd28ee0a00b605",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "World History": 1
+  },
+  "sections": {
+    "World History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9477,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1541,
+    "json_count": 3699,
+    "total_bytes": 4230792568,
+    "by_extension": {
+      ".json": 3699,
+      ".md": 1541,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-07",
+      "topic_title": "New Imperialism and Scramble for Africa",
+      "subject": "World History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 7,
+      "source_record_id": "world-history-07:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "463c19448c43fd1349d1811039baeff9679bba283f98841063a0137d5c8e027f",
+          "output_sha256": "463c19448c43fd1349d1811039baeff9679bba283f98841063a0137d5c8e027f",
+          "source_output_equal": true,
+          "bytes": 568768
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-07\\g4\\world-history-07_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "5a1429a00a2a4e152df71594958f026ecd2432edd76eaccdb30ae594f339d6c8",
+          "output_sha256": "5a1429a00a2a4e152df71594958f026ecd2432edd76eaccdb30ae594f339d6c8",
+          "source_output_equal": true,
+          "bytes": 428239
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "da487ac8cc169a9aacc8557aba8918c72f25e98acb6844a49b9acd4efceacb86",
+          "output_sha256": "da487ac8cc169a9aacc8557aba8918c72f25e98acb6844a49b9acd4efceacb86",
+          "source_output_equal": true,
+          "bytes": 2011657
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f72f07b06f84846831590eb670518112335f760d26dbf41dc9f6127b86009d85",
+          "output_sha256": "f72f07b06f84846831590eb670518112335f760d26dbf41dc9f6127b86009d85",
+          "source_output_equal": true,
+          "bytes": 2394646
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "845cd869178f7b7fa60bf0367f1ade0e52a786ca8fb90acd6635f6957ee628c4",
+          "output_sha256": "845cd869178f7b7fa60bf0367f1ade0e52a786ca8fb90acd6635f6957ee628c4",
+          "source_output_equal": true,
+          "bytes": 1780391
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "73521c811bbad28a5a1b9090fdd6c8ae652d968504bbaf313f345b4bf809b349",
+          "output_sha256": "73521c811bbad28a5a1b9090fdd6c8ae652d968504bbaf313f345b4bf809b349",
+          "source_output_equal": true,
+          "bytes": 5302
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-07\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\07-New-Imperialism-and-Scramble-for-Africa\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "e18e1733d7551a8dcbc9413cda05f3a5b2648d1bdb6a05c5c60bb156a1101d4b",
+          "output_sha256": "e18e1733d7551a8dcbc9413cda05f3a5b2648d1bdb6a05c5c60bb156a1101d4b",
+          "source_output_equal": true,
+          "source_text_sha256": "73521c811bbad28a5a1b9090fdd6c8ae652d968504bbaf313f345b4bf809b349",
+          "normalized_text_equal": true,
+          "bytes": 56556
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 67,
+        "solved_practice_workbook": 29,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 67,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 29,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10778
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

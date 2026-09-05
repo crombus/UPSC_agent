@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topics 12-13",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-12",
+      "display_title": "The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\12_Indian-Ocean-and-IOD_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Ocean-current force chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WIND STRESS -> surface momentum",
+            "CORIOLIS -> turning by hemisphere",
+            "PRESSURE GRADIENT -> geostrophic tendency",
+            "BASIN + FRICTION -> realised current path"
+          ],
+          "source_references": [
+            "Surface-current force balance"
+          ]
+        },
+        {
+          "title": "Density-overturning chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COOLING / EVAPORATION -> density increase",
+            "FRESHWATER / WARMING -> density decrease",
+            "DENSE WATER -> sinking and spreading",
+            "MIXING + TOPOGRAPHY -> overturning pathways"
+          ],
+          "source_references": [
+            "Thermohaline density circulation"
+          ]
+        },
+        {
+          "title": "Gyre comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH SUBTROPICS -> clockwise tendency",
+            "SOUTH SUBTROPICS -> anticlockwise tendency",
+            "WESTERN LIMB -> narrow, swift, warm",
+            "EASTERN LIMB -> broad, cool, upwelling-prone"
+          ],
+          "source_references": [
+            "Gyres and boundary currents"
+          ]
+        },
+        {
+          "title": "Upwelling-food web",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ALONGSHORE WIND -> Ekman transport offshore",
+            "DEEPER WATER RISES -> nutrient supply",
+            "PHYTOPLANKTON -> zooplankton -> fish",
+            "LIMITS -> oxygen, light, habitat, fishing pressure"
+          ],
+          "source_references": [
+            "Upwelling and fisheries"
+          ]
+        },
+        {
+          "title": "Tide geometry",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NEW / FULL MOON -> aligned forces",
+            "SPRING TIDE -> larger range",
+            "QUARTER MOON -> partial offset",
+            "NEAP TIDE -> smaller range"
+          ],
+          "source_references": [
+            "Tide-generating forces",
+            "Spring and neap tides"
+          ]
+        },
+        {
+          "title": "Local tidal range",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ASTRONOMICAL FORCING -> incoming tide",
+            "SHELF DEPTH + BAY SHAPE -> amplification",
+            "RESONANCE + FRICTION -> timing and height",
+            "RULE -> same forcing, different local range"
+          ],
+          "source_references": [
+            "Spring and neap tides"
+          ]
+        },
+        {
+          "title": "Salinity budget",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "EVAPORATION + BRINE -> salinity rises",
+            "RAIN + RIVER + MELT -> salinity falls",
+            "ADVECTION + MIXING -> redistribute salt",
+            "TEMP + SALINITY -> density and stratification"
+          ],
+          "source_references": [
+            "Salinity controls and halocline"
+          ]
+        },
+        {
+          "title": "Arabian-Bay contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ARABIAN SEA -> stronger evaporation",
+            "BAY OF BENGAL -> rain + large river input",
+            "GENERAL RESULT -> Arabian Sea more saline",
+            "QUALIFIER -> season and local mixing matter"
+          ],
+          "source_references": [
+            "Arabian Sea and Bay of Bengal"
+          ]
+        },
+        {
+          "title": "Monsoon-current switch",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "SW MONSOON -> winds drive summer reorganisation",
+            "SOMALI SECTOR -> strong current + upwelling",
+            "NE MONSOON -> northern flows reverse/reorganise",
+            "MAP RULE -> label every arrow by season"
+          ],
+          "source_references": [
+            "Seasonal monsoon-current reversal"
+          ]
+        },
+        {
+          "title": "IOD coupled seesaw",
+          "structural_type": "mechanism-map",
+          "ascii_lines": [
+            "WEST-EAST SST CONTRAST -> pressure gradient",
+            "WINDS -> thermocline and upwelling response",
+            "CONVECTION -> rainfall shifts zonally",
+            "INDIA EFFECT -> conditional on timing + ENSO + MJO"
+          ],
+          "source_references": [
+            "IOD coupled mechanism",
+            "IOD phases and uncertainty"
+          ]
+        },
+        {
+          "title": "Observation-to-service chain",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "OMNI / RAMA -> ocean + weather observations",
+            "INCOIS -> data management and products",
+            "MODELS -> analysis and forecast ensembles",
+            "USER -> marine service with uncertainty"
+          ],
+          "source_references": [
+            "INCOIS observing architecture"
+          ]
+        },
+        {
+          "title": "Ocean answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> depth, scale and season",
+            "DERIVE -> force, density or gravity",
+            "MAP -> basin, current, tide or salinity",
+            "QUALIFY -> variability, ecology and evidence date"
+          ],
+          "source_references": [
+            "Verified PYQs and ocean answer spine"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-13",
+      "display_title": "Weather Elements / India Jet Stream-Western Disturbances",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\13_India-JetStream-Western-Disturbances_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Weather causation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INSOLATION -> surface and atmospheric heating",
+            "TEMPERATURE GRADIENT -> pressure gradient",
+            "WIND -> moisture transport and convergence",
+            "LIFT + SATURATION -> cloud and precipitation"
+          ],
+          "source_references": [
+            "Weather elements as a linked system"
+          ]
+        },
+        {
+          "title": "Heat-budget ledger",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "SUN -> incoming shortwave",
+            "SURFACE -> reflected + absorbed energy",
+            "EARTH -> longwave + sensible + latent heat",
+            "BALANCE -> temperature and circulation response"
+          ],
+          "source_references": [
+            "Insolation and heat budget"
+          ]
+        },
+        {
+          "title": "Stability profiles",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORMAL TENDENCY -> temperature falls upward",
+            "INVERSION -> temperature rises through layer",
+            "STABLE LAYER -> vertical mixing suppressed",
+            "SURFACE INVERSION -> fog and pollution trapping"
+          ],
+          "source_references": [
+            "Lapse rate and inversion"
+          ]
+        },
+        {
+          "title": "Wind-force triangle",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PRESSURE GRADIENT -> starts acceleration",
+            "CORIOLIS -> right north / left south",
+            "FRICTION -> slows and crosses isobars",
+            "ALOFT -> near-geostrophic parallel flow"
+          ],
+          "source_references": [
+            "Pressure-gradient force",
+            "Coriolis and friction",
+            "Geostrophic upper-air balance"
+          ]
+        },
+        {
+          "title": "Planetary circulation rail",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EQUATORIAL LOW -> convergence and ascent",
+            "SUBTROPICAL HIGH -> descent and trades",
+            "SUBPOLAR LOW -> westerly-polar interaction",
+            "POLAR HIGH -> cold outflow; belts migrate"
+          ],
+          "source_references": [
+            "Pressure belts and planetary winds"
+          ]
+        },
+        {
+          "title": "Humidity-to-cloud chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MOISTURE CONTENT + TEMPERATURE -> relative humidity",
+            "COOLING TO SATURATION -> dew point reached",
+            "NUCLEI + LIFT -> droplets or ice crystals",
+            "GROWTH + FALL SPEED -> precipitation"
+          ],
+          "source_references": [
+            "Humidity and saturation",
+            "Cloud and fog formation"
+          ]
+        },
+        {
+          "title": "Rainfall comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONVECTIONAL -> buoyant thermal ascent",
+            "OROGRAPHIC -> forced relief ascent",
+            "FRONTAL / CYCLONIC -> convergent dynamic ascent",
+            "REAL EVENT -> mechanisms may combine"
+          ],
+          "source_references": [
+            "Rainfall mechanisms"
+          ]
+        },
+        {
+          "title": "Troposphere section",
+          "structural_type": "vertical-map",
+          "ascii_lines": [
+            "SURFACE -> moisture, friction and heating",
+            "MID LEVELS -> clouds, troughs and stability",
+            "UPPER TROPOSPHERE -> jets and divergence",
+            "TROPICS DEEPER / POLES SHALLOWER"
+          ],
+          "source_references": [
+            "Troposphere structure"
+          ]
+        },
+        {
+          "title": "Jet-stream engine",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "HORIZONTAL TEMPERATURE GRADIENT",
+            "HEIGHT / PRESSURE GRADIENT ALOFT",
+            "CORIOLIS BALANCE -> strong near-zonal wind",
+            "ROSSBY WAVES -> ridges, troughs and steering"
+          ],
+          "source_references": [
+            "Jet stream mechanics"
+          ]
+        },
+        {
+          "title": "India seasonal jets",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "WINTER -> STWJ south of Himalaya sector",
+            "STWJ -> steers western disturbances east",
+            "SUMMER -> tropical easterly jet develops",
+            "RULE -> jets are parts of wider circulation"
+          ],
+          "source_references": [
+            "STWJ and tropical easterly jet"
+          ]
+        },
+        {
+          "title": "Western-disturbance chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "UPPER TROUGH / LOW -> eastward westerly motion",
+            "MOISTURE + DYNAMICAL LIFT -> cloud and rain/snow",
+            "HIMALAYA + PLAINS -> terrain-specific impacts",
+            "OUTCOME -> beneficial or damaging by timing/intensity"
+          ],
+          "source_references": [
+            "Western disturbances and IMD observations"
+          ]
+        },
+        {
+          "title": "Forecast evidence ladder",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "RADIOSONDE / PILOT BALLOON -> upper-air state",
+            "SATELLITE + RADAR -> cloud and precipitation",
+            "NWP ENSEMBLE -> scenarios and uncertainty",
+            "WARNING -> action; later observations verify outcome"
+          ],
+          "source_references": [
+            "Verified PYQs and forecast discipline"
+          ]
+        }
+      ]
+    }
+  ]
+}

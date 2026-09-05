@@ -1,0 +1,2640 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-01T01:46:53.247884+00:00",
+  "subject": "Modern History",
+  "section": "Subject-wide Syllabus",
+  "represented": 38,
+  "expected": 38,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_modern_history_deep_review (cwd=tools)",
+      "tests": 16,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_contested_topics_are_qualified (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_historical_topics_remain_immutable_reuses (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_long_output_paths_remain_windows_safe (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_manifest_order_contains_all_thirty_eight_topics (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_mark_first_mains_gets_full_contract (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_mcq_rotation_preserves_correct_answer_text (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_misplaced_mains_practice_moves_after_pyqs (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_model_thesis_answer_gets_full_contract (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_porcelain_parser_handles_statuses_renames_and_copies (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_porcelain_parser_preserves_unicode_and_spaces (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_review_lines_respect_ascii_width (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_source_contract_requires_date_and_historiography_discipline (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_topic36_foundation_date_is_repaired_only_in_successor_text (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_topic37_election_denominator_is_repaired (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_topic38_hindu_law_equality_claim_is_qualified (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\ntest_topic_controls_cover_exact_chronology (test_regenerate_modern_history_deep_review.ModernHistoryDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.275s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_03_04_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_ascii_spec_is_exact (test_generate_modern_history_03_04_sequential.ModernHistory0304GeneratorTests) ... ok\ntest_generated_markdown_and_workbooks_pass_internal_contracts (test_generate_modern_history_03_04_sequential.ModernHistory0304GeneratorTests) ... ok\ntest_generation_manifests_preserve_authoring_only_state (test_generate_modern_history_03_04_sequential.ModernHistory0304GeneratorTests) ... ok\ntest_graphical_specs_are_valid_and_have_twelve_core_stages (test_generate_modern_history_03_04_sequential.ModernHistory0304GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.216s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_05_06_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_ascii_spec_is_exact (test_generate_modern_history_05_06_sequential.ModernHistory0506GeneratorTests) ... ok\ntest_generated_markdown_and_workbooks_pass_internal_contracts (test_generate_modern_history_05_06_sequential.ModernHistory0506GeneratorTests) ... ok\ntest_generation_manifests_preserve_authoring_only_state (test_generate_modern_history_05_06_sequential.ModernHistory0506GeneratorTests) ... ok\ntest_graphical_specs_are_valid_and_have_twelve_core_stages (test_generate_modern_history_05_06_sequential.ModernHistory0506GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.212s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_07_08_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_ascii_spec_is_exact (test_generate_modern_history_07_08_sequential.ModernHistory0708GeneratorTests) ... ok\ntest_generated_markdown_and_workbooks_pass_internal_contracts (test_generate_modern_history_07_08_sequential.ModernHistory0708GeneratorTests) ... ok\ntest_generation_manifests_preserve_authoring_only_state (test_generate_modern_history_07_08_sequential.ModernHistory0708GeneratorTests) ... ok\ntest_graphical_specs_are_valid_and_have_twelve_core_stages (test_generate_modern_history_07_08_sequential.ModernHistory0708GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.213s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_09_13_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_and_graphical_specs_are_exact (test_generate_modern_history_09_13_sequential.ModernHistory0913GeneratorTests) ... ok\ntest_five_learner_first_topics_are_configured (test_generate_modern_history_09_13_sequential.ModernHistory0913GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_09_13_sequential.ModernHistory0913GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_09_13_sequential.ModernHistory0913GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.593s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_14_15_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_and_graphical_specs_are_exact (test_generate_modern_history_14_15_sequential.ModernHistory1415GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_14_15_sequential.ModernHistory1415GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_14_15_sequential.ModernHistory1415GeneratorTests) ... ok\ntest_import_does_not_mutate_previous_generator_scope (test_generate_modern_history_14_15_sequential.ModernHistory1415GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_14_15_sequential.ModernHistory1415GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.228s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_16_17_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_and_graphical_specs_are_exact (test_generate_modern_history_16_17_sequential.ModernHistory1617GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_16_17_sequential.ModernHistory1617GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_16_17_sequential.ModernHistory1617GeneratorTests) ... ok\ntest_import_does_not_mutate_topics_14_15 (test_generate_modern_history_16_17_sequential.ModernHistory1617GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_16_17_sequential.ModernHistory1617GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.248s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_18_19_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_and_graphical_specs_are_exact (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\ntest_authored_visual_and_definition_maps_are_complete (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\ntest_import_does_not_mutate_topics_16_17 (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\ntest_official_question_inventory_and_routed_cards (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_18_19_sequential.ModernHistory1819GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.246s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_20_21_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_and_graphical_specs_are_exact (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_authored_visual_and_definition_maps_are_complete (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_chauri_chaura_date_is_corrected (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_hra_hsra_and_kakori_are_not_merged (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_import_does_not_mutate_topics_18_19 (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_mains_pyq_exact_official_wording_and_provenance (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_official_question_inventory_and_routed_cards (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_topic20_2025_prelims_official_key_reconciled (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_topic20_withdrawal_debate_and_current_bridge_reconciled (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_topic21_reconciled_dossier_facts (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_20_21_sequential.ModernHistory2021GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.331s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_22_23_sequential (cwd=tools)",
+      "tests": 18,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_and_graphical_specs_are_exact (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_ascii_master_registers_the_new_spec (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_authored_visual_and_definition_maps_are_complete (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_authoring_generator_has_no_finalize_or_publish_side_effects (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_canonical_paths_follow_adjacent_package_convention (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_import_does_not_mutate_topics_20_21 (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic22_chronology_and_constitutional_safeguards (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic22_official_2025_key_and_current_bridge (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic22_poona_pact_is_balanced_and_number_is_qualified (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic22_regional_pact_and_rtc_safeguards (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic23_current_bridge_is_bounded (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic23_exact_pyqs_and_provisional_key_boundary (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic23_kisan_ministry_and_social_content_safeguards (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic23_scope_and_organisation_safeguards (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_topic23_states_bose_and_period_boundaries (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_22_23_sequential.ModernHistory2223GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 18 tests in 0.355s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_24_25_sequential (cwd=tools)",
+      "tests": 22,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_visual_and_definition_maps_are_complete (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_authoring_generator_has_no_finalize_or_publish_side_effects (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_canonical_paths_follow_adjacent_package_convention (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_import_does_not_mutate_shared_base_globals (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_import_does_not_mutate_topics_22_23 (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic24_constitutional_lineage_and_federation_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic24_governor_powers_section93_and_franchise_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic24_office_debate_achievements_resignation_and_lahore_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic24_official_2024_key_and_2018_caution (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic24_rbi_federal_court_burma_and_ministry_timing_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_belligerency_resignation_and_august_offer_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_current_bridge_is_bounded (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_exact_pyqs_and_key_status (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_individual_satyagraha_and_cripps_scheme_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_multi_party_rejection_and_post_dated_cheque_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_quit_india_two_stage_zero_hour_and_underground_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_topic25_social_base_alignments_and_results_safeguards (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_24_25_sequential.ModernHistory2425GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 22 tests in 0.426s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_26_27_sequential (cwd=tools)",
+      "tests": 37,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_topic26_endgame_chain_and_election_qualification (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic26_leadership_responses_are_not_flattened (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests)\nBipan Chandra, book PDF pp. 511 and 514: Congress withheld official ... ok\ntest_topic26_military_failure_versus_trial_effect (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic26_pyq_cards_assert_no_answer_letters (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic26_red_fort_trial_names_and_sentences (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic26_rin_did_not_cause_the_cabinet_mission_dispatch (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests)\nBipan Chandra, book PDF p. 512: the dispatch decision preceded the ... ok\ntest_topic26_rin_start_scale_and_limits (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic26_two_inas_and_rash_behari_bose_role (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_act_dates_and_paramountcy (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_attlee_and_mountbatten (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_congress_acceptance_and_inevitability (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_current_bridge_uses_only_page_supported_claims (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_mission_and_direct_action_boundaries (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_numerical_discipline_gandhi_and_registers (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_pyq_cards_record_unresolved_and_adjacent_routing (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_radcliffe_publication_and_violence_caution (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_topic27_three_instruments_and_mechanisms (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_26_27_sequential.ModernHistory2627GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 37 tests in 1.365s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_28_29_sequential (cwd=tools)",
+      "tests": 42,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_topic28_numerical_restraint_is_explicit (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic28_paramountcy_lapsed_and_was_not_transferred (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic28_privy_purses_survive_the_initial_integration (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic28_pyq_cards_are_verbatim_and_answer_free (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic28_state_count_uses_the_open_formulation (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic28_three_hard_cases_are_compared_not_merged (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic28_verbatim_stem_matches_the_official_local_export (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_assassination_ban_and_pact_dates (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_communist_transition_is_carefully_attributed (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_current_bridge_is_official_and_bounded (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_enclaves_and_the_two_operations (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_every_estimate_is_source_attributed (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_founding_consensus_is_graded_not_celebrated (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_franchise_contrast_is_exact (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_mortality_estimate_is_not_presented_as_settled (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_refugee_figure_is_one_directional (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_solves_the_routed_2025_four_domain_demand (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_two_inheritances_are_separated (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_topic29_verbatim_stem_matches_the_official_local_export (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_28_29_sequential.ModernHistory2829GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 42 tests in 2.226s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_30_31_sequential (cwd=tools)",
+      "tests": 44,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_topic30_current_bridge_uses_only_official_page_claims (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_dar_and_jvp_advised_delay_with_a_proviso (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_official_language_levels_and_associate_caution (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_principle_from_1921_and_timing_caution (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_punjab_communal_reading_is_attributed (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_pyq_cards_are_routed_demand_summaries (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_regionalism_typology_and_graded_verdict (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic30_sriramulu_dates_and_ocr_variant (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_accommodation_and_delivery_are_separated (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_arunachal_ocr_compression_is_recorded (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_census_attribution_is_mandatory (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_current_bridge_is_commemorative_only (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_integration_not_assimilation (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_jharkhand_broadening_is_partial_and_dated (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_mizoram_is_the_model_not_the_universal_case (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_north_east_chronology_is_exact (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_panchsheel_label_carries_no_proclamation_year (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_schedules_are_distinguished_and_restrained (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_topic31_zero_direct_pyq_audit_and_adjacent_routing (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_30_31_sequential.ModernHistory3031GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 44 tests in 1.564s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_32_33_sequential (cwd=tools)",
+      "tests": 39,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_post_independence_ocr_book_is_a_declared_local_source (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_avadi_to_second_plan_chain (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_bandung_is_not_belgrade (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_cdp_precedes_panchayati_raj (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_first_election_seat_vote_gap (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_goa_operation_vijay_and_1962_war (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_kashmir_at_un_and_nehru_death (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_kerala_1957_is_ballot_not_revolution (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_planning_commission_is_extra_constitutional (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic32_pyq_card_is_the_routed_2018_prelims_demand (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_congress_system_is_attributed_to_kothari (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_cpi_split_in_1964 (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_dual_membership_ban_forces_socialist_exit (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_jana_sangh_and_swatantra_are_distinguished (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_kmpp_merges_into_psp_in_1952 (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_lohia_non_congressism_and_forward_bloc (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_pyq_card_is_the_routed_2024_prelims_demand (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_seat_vote_gap_and_1967_watershed (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_topic33_tandon_nehru_sequence_is_exact (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_32_33_sequential.ModernHistory3233GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 39 tests in 0.704s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_34_35_sequential (cwd=tools)",
+      "tests": 35,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_import_does_not_mutate_topics_32_to_33 (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_learner_v2_section_order_is_exact (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_mains_evidence_indexes_are_in_range (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_owner_files_are_the_declared_sources (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_post_independence_ocr_book_is_a_declared_local_source (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic34_1967_election_is_not_a_comfortable_win (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic34_bangladesh_war_and_pokhran_are_dated_precisely (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic34_bank_nationalisation_and_privy_purse_years_are_kept_apart (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic34_coal_gap_is_transparent_not_fabricated (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic34_devaluation_year_and_causes (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic34_two_successions_are_dated_precisely (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_1977_and_44th_amendment_are_distinguished (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_allahabad_hc_not_supreme_court_unseated_indira (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_economic_crisis_precedes_student_movements (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_instruments_and_excesses_are_specific (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_pib_current_note_is_preserved_verbatim (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_proclamation_dating_trap_is_preserved (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_social_base_excludes_workers_and_peasants (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_topic35_zero_pyq_audit_is_transparent (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_34_35_sequential.ModernHistory3435GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 35 tests in 0.488s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_36_37_sequential (cwd=tools)",
+      "tests": 36,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_learner_v2_section_order_is_exact (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_mains_evidence_indexes_are_in_range (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_owner_files_are_the_declared_sources (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_post_independence_ocr_book_is_a_declared_local_source (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_1980_return_is_not_a_fresh_mandate (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_charan_singh_is_a_caretaker_not_a_mandate (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_janatas_formation_and_1977_mandate_are_dated (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_punjab_crisis_traces_negotiable_origin_to_1984 (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_regional_parties_are_correctly_attributed (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_restraint_on_casualty_and_community_detail (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic36_zero_pyq_audit_is_transparent (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_1984_mandate_and_anti_defection_act_are_dated (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_1985_accords_and_identity_missteps (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_1989_fragmentation_has_both_outside_supporters (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_1991_reforms_and_coalition_decade (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_babri_masjid_demolition_is_dated_precisely (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_bofors_and_opposition_consolidation (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_mandal_quota_is_stated_precisely (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_topic37_zero_pyq_audit_is_transparent (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\ntest_two_new_topics_are_configured (test_generate_modern_history_36_37_sequential.ModernHistory3637GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 36 tests in 0.507s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_modern_history_38_sequential (cwd=tools)",
+      "tests": 28,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_export_pdf_status_tracker_is_untouched_by_import (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_fact_labels_and_statements_are_unique_per_topic (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_forbidden_scan_ignores_only_owner_trap_lines (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_generated_sessions_and_workbooks_pass_contracts (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_generation_manifests_are_tracker_free_generation_one (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_import_does_not_mutate_shared_base_globals (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_import_does_not_mutate_topics_36_to_37 (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_learner_v2_section_order_is_exact (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_mains_evidence_indexes_are_in_range (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_one_new_topic_is_configured (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_owner_files_are_the_declared_sources (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_post_independence_ocr_book_is_a_declared_local_source (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_spec_holds_twelve_authored_panels (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_agrarian_struggle_sequence_is_dated (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_economic_model_and_break_are_dated (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_green_revolution_debate_is_balanced (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_hindu_code_bill_is_four_acts (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_land_reform_is_disaggregated (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_pyq_reconciliation_is_transparent (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\ntest_topic38_synthesis_threads_and_institutional_decay (test_generate_modern_history_38_sequential.ModernHistory38GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 28 tests in 0.296s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 1.593s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 20.340s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-01",
+      "title": "Decline of the Mughal Empire (1707–1740s)",
+      "old_record_id": "modern-indian-history-01:learner-v2:g2",
+      "new_record_id": "modern-indian-history-01:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-01-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:12:38.917896+00:00",
+      "identities": {
+        "export": "modern-indian-history-01:learner-v2:g3",
+        "master": "modern-indian-history-01:learner-v2:g3",
+        "review": "modern-indian-history-01:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-01:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-01\\modern-indian-history-01-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-01:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-01:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-01-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-01:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-02",
+      "title": "Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)",
+      "old_record_id": "modern-indian-history-02:learner-v2:g2",
+      "new_record_id": "modern-indian-history-02:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-02-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:13:17.126733+00:00",
+      "identities": {
+        "export": "modern-indian-history-02:learner-v2:g3",
+        "master": "modern-indian-history-02:learner-v2:g3",
+        "review": "modern-indian-history-02:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-02:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-02\\modern-indian-history-02-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-02:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-02:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-02-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-02:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-03",
+      "title": "The Beginnings of European Settlements (Portuguese → Dutch → English → French)",
+      "old_record_id": "modern-indian-history-03:learner-v2:g2",
+      "new_record_id": "modern-indian-history-03:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-03-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:13:57.230102+00:00",
+      "identities": {
+        "export": "modern-indian-history-03:learner-v2:g3",
+        "master": "modern-indian-history-03:learner-v2:g3",
+        "review": "modern-indian-history-03:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-03:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-03\\modern-indian-history-03-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-03:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-03:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-03-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-03:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-04",
+      "title": "The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)",
+      "old_record_id": "modern-indian-history-04:learner-v2:g2",
+      "new_record_id": "modern-indian-history-04:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-04-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:14:40.090907+00:00",
+      "identities": {
+        "export": "modern-indian-history-04:learner-v2:g3",
+        "master": "modern-indian-history-04:learner-v2:g3",
+        "review": "modern-indian-history-04:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-04:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-04\\modern-indian-history-04-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-04:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-04:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-04-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-04:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-05",
+      "title": "British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse)",
+      "old_record_id": "modern-indian-history-05:learner-v2:g2",
+      "new_record_id": "modern-indian-history-05:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-05-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:15:31.649509+00:00",
+      "identities": {
+        "export": "modern-indian-history-05:learner-v2:g3",
+        "master": "modern-indian-history-05:learner-v2:g3",
+        "review": "modern-indian-history-05:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-05:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-05\\modern-indian-history-05-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-05:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-05:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-05-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-05:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-06",
+      "title": "Structure of Government & Constitutional Development, 1757–1858",
+      "old_record_id": "modern-indian-history-06:learner-v2:g2",
+      "new_record_id": "modern-indian-history-06:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-06-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:16:23.715542+00:00",
+      "identities": {
+        "export": "modern-indian-history-06:learner-v2:g3",
+        "master": "modern-indian-history-06:learner-v2:g3",
+        "review": "modern-indian-history-06:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-06:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-06\\modern-indian-history-06-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-06:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-06:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-06-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-06:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-07",
+      "title": "Economic Impact of British Rule (Drain, deindustrialisation, land-revenue, famines)",
+      "old_record_id": "modern-indian-history-07:learner-v2:g2",
+      "new_record_id": "modern-indian-history-07:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-07-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:17:14.219589+00:00",
+      "identities": {
+        "export": "modern-indian-history-07:learner-v2:g3",
+        "master": "modern-indian-history-07:learner-v2:g3",
+        "review": "modern-indian-history-07:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-07:learner-v2:g2",
+        "generation": 2,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-07\\modern-indian-history-07-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-07:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-07:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-07-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-07:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-08",
+      "title": "Administrative Organisation (Civil Services, Army, Police, Judiciary, Rule of Law)",
+      "old_record_id": "modern-indian-history-08:learner-v2:g1",
+      "new_record_id": "modern-indian-history-08:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-08-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:18:08.011660+00:00",
+      "identities": {
+        "export": "modern-indian-history-08:learner-v2:g2",
+        "master": "modern-indian-history-08:learner-v2:g2",
+        "review": "modern-indian-history-08:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-08:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-08\\modern-indian-history-08-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-08:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-08:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-08-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-08:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-09",
+      "title": "Social & Cultural Policy — Education, the Press, State & Society",
+      "old_record_id": "modern-indian-history-09:learner-v2:g2",
+      "new_record_id": "modern-indian-history-09:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-09-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:23:10.232014+00:00",
+      "identities": {
+        "export": "modern-indian-history-09:learner-v2:g3",
+        "master": "modern-indian-history-09:learner-v2:g3",
+        "review": "modern-indian-history-09:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-09:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-09\\modern-indian-history-09-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-09:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-09:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-09-learner-v2-g2-2026-08-31-validation.json"
+        },
+        {
+          "record_id": "modern-indian-history-09:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-09-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-09:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-10",
+      "title": "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+      "old_record_id": "modern-indian-history-10:learner-v2:g2",
+      "new_record_id": "modern-indian-history-10:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-10-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:23:51.296648+00:00",
+      "identities": {
+        "export": "modern-indian-history-10:learner-v2:g3",
+        "master": "modern-indian-history-10:learner-v2:g3",
+        "review": "modern-indian-history-10:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-10:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-10\\modern-indian-history-10-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-10:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-10:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-10-learner-v2-g2-2026-08-31-validation.json"
+        },
+        {
+          "record_id": "modern-indian-history-10:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-10-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-10:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-11",
+      "title": "The Revolt of 1857",
+      "old_record_id": "modern-indian-history-11:learner-v2:g2",
+      "new_record_id": "modern-indian-history-11:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-11-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:24:32.137440+00:00",
+      "identities": {
+        "export": "modern-indian-history-11:learner-v2:g3",
+        "master": "modern-indian-history-11:learner-v2:g3",
+        "review": "modern-indian-history-11:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-11:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-11\\modern-indian-history-11-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-11:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-11:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-11-learner-v2-g2-2026-08-31-validation.json"
+        },
+        {
+          "record_id": "modern-indian-history-11:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-11-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-11:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-12",
+      "title": "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+      "old_record_id": "modern-indian-history-12:learner-v2:g1",
+      "new_record_id": "modern-indian-history-12:learner-v2:g3",
+      "old_generation": 1,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-12-learner-v2-g3-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:20:43.152051+00:00",
+      "identities": {
+        "export": "modern-indian-history-12:learner-v2:g3",
+        "master": "modern-indian-history-12:learner-v2:g3",
+        "review": "modern-indian-history-12:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-12:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-12\\modern-indian-history-12-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-12:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-12:learner-v2:g2",
+          "generation": 2,
+          "state": "failed_intermediate_preserved",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-12-learner-v2-g2-2026-08-31-validation.json"
+        },
+        {
+          "record_id": "modern-indian-history-12:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-12-learner-v2-g3-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-12:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-13",
+      "title": "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+      "old_record_id": "modern-indian-history-13:learner-v2:g1",
+      "new_record_id": "modern-indian-history-13:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-13-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:25:50.493975+00:00",
+      "identities": {
+        "export": "modern-indian-history-13:learner-v2:g2",
+        "master": "modern-indian-history-13:learner-v2:g2",
+        "review": "modern-indian-history-13:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-13:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-13\\modern-indian-history-13-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-13:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-13:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-13-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-13:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-14",
+      "title": "Foundation of the INC & the Moderate Phase (1885–1905)",
+      "old_record_id": "modern-indian-history-14:learner-v2:g1",
+      "new_record_id": "modern-indian-history-14:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-14-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:26:16.180668+00:00",
+      "identities": {
+        "export": "modern-indian-history-14:learner-v2:g2",
+        "master": "modern-indian-history-14:learner-v2:g2",
+        "review": "modern-indian-history-14:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-14:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-14\\modern-indian-history-14-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-14:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-14:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-14-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-14:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-15",
+      "title": "Militant Nationalism, Swadeshi & the Partition of Bengal (1905–1908)",
+      "old_record_id": "modern-indian-history-15:learner-v2:g1",
+      "new_record_id": "modern-indian-history-15:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-15-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:26:51.656719+00:00",
+      "identities": {
+        "export": "modern-indian-history-15:learner-v2:g2",
+        "master": "modern-indian-history-15:learner-v2:g2",
+        "review": "modern-indian-history-15:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-15:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-15\\modern-indian-history-15-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-15:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-15:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-15-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-15:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-16",
+      "title": "Revolutionary Nationalism (Phase I, 1907–1917)",
+      "old_record_id": "modern-indian-history-16:learner-v2:g1",
+      "new_record_id": "modern-indian-history-16:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-16-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:27:28.507200+00:00",
+      "identities": {
+        "export": "modern-indian-history-16:learner-v2:g2",
+        "master": "modern-indian-history-16:learner-v2:g2",
+        "review": "modern-indian-history-16:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-16:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-16\\modern-indian-history-16-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-16:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-16:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-16-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-16:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-17",
+      "title": "Growth of Communalism & the Muslim League",
+      "old_record_id": "modern-indian-history-17:learner-v2:g1",
+      "new_record_id": "modern-indian-history-17:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-17-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:28:04.606606+00:00",
+      "identities": {
+        "export": "modern-indian-history-17:learner-v2:g2",
+        "master": "modern-indian-history-17:learner-v2:g2",
+        "review": "modern-indian-history-17:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-17:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-17\\modern-indian-history-17-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-17:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-17:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-17-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-17:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-18",
+      "title": "First World War, the Home Rule League & the Lucknow Pact (1914–1918)",
+      "old_record_id": "modern-indian-history-18:learner-v2:g1",
+      "new_record_id": "modern-indian-history-18:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-18-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:28:40.552806+00:00",
+      "identities": {
+        "export": "modern-indian-history-18:learner-v2:g2",
+        "master": "modern-indian-history-18:learner-v2:g2",
+        "review": "modern-indian-history-18:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-18:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-18\\modern-indian-history-18-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-18:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-18:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-18-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-18:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-19",
+      "title": "Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919)",
+      "old_record_id": "modern-indian-history-19:learner-v2:g1",
+      "new_record_id": "modern-indian-history-19:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-19-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:29:16.416068+00:00",
+      "identities": {
+        "export": "modern-indian-history-19:learner-v2:g2",
+        "master": "modern-indian-history-19:learner-v2:g2",
+        "review": "modern-indian-history-19:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-19:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-19\\modern-indian-history-19-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-19:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-19:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-19-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-19:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-20",
+      "title": "Non-Cooperation & the Khilafat Movement (1919–1922)",
+      "old_record_id": "modern-indian-history-20:learner-v2:g1",
+      "new_record_id": "modern-indian-history-20:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-20-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:29:52.663851+00:00",
+      "identities": {
+        "export": "modern-indian-history-20:learner-v2:g2",
+        "master": "modern-indian-history-20:learner-v2:g2",
+        "review": "modern-indian-history-20:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-20:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-20\\modern-indian-history-20-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-20:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-20:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-20-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-20:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-21",
+      "title": "Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh)",
+      "old_record_id": "modern-indian-history-21:learner-v2:g1",
+      "new_record_id": "modern-indian-history-21:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-21-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:30:31.652923+00:00",
+      "identities": {
+        "export": "modern-indian-history-21:learner-v2:g2",
+        "master": "modern-indian-history-21:learner-v2:g2",
+        "review": "modern-indian-history-21:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-21:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-21\\modern-indian-history-21-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-21:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-21:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-21-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-21:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-22",
+      "title": "Simon Commission, Nehru Report, Civil Disobedience & Round Table Conferences (1927–1934)",
+      "old_record_id": "modern-indian-history-22:learner-v2:g1",
+      "new_record_id": "modern-indian-history-22:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-22-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:31:10.489982+00:00",
+      "identities": {
+        "export": "modern-indian-history-22:learner-v2:g2",
+        "master": "modern-indian-history-22:learner-v2:g2",
+        "review": "modern-indian-history-22:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-22:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-22\\modern-indian-history-22-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-22:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-22:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-22-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-22:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-23",
+      "title": "Left, Peasant, Workers' & States' Peoples' Movements (1930s)",
+      "old_record_id": "modern-indian-history-23:learner-v2:g1",
+      "new_record_id": "modern-indian-history-23:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-23-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:31:46.326401+00:00",
+      "identities": {
+        "export": "modern-indian-history-23:learner-v2:g2",
+        "master": "modern-indian-history-23:learner-v2:g2",
+        "review": "modern-indian-history-23:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-23:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-23\\modern-indian-history-23-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-23:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-23:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-23-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-23:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-24",
+      "title": "The Government of India Act 1935 & the Congress Ministries (1937–1939)",
+      "old_record_id": "modern-indian-history-24:learner-v2:g1",
+      "new_record_id": "modern-indian-history-24:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-24-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:32:22.035083+00:00",
+      "identities": {
+        "export": "modern-indian-history-24:learner-v2:g2",
+        "master": "modern-indian-history-24:learner-v2:g2",
+        "review": "modern-indian-history-24:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-24:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-24\\modern-indian-history-24-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-24:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-24:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-24-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-24:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-25",
+      "title": "Second World War, the Cripps Mission & Quit India (1939–1942)",
+      "old_record_id": "modern-indian-history-25:learner-v2:g1",
+      "new_record_id": "modern-indian-history-25:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-25-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:32:59.514337+00:00",
+      "identities": {
+        "export": "modern-indian-history-25:learner-v2:g2",
+        "master": "modern-indian-history-25:learner-v2:g2",
+        "review": "modern-indian-history-25:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-25:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-25\\modern-indian-history-25-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-25:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-25:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-25-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-25:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-26",
+      "title": "Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946)",
+      "old_record_id": "modern-indian-history-26:learner-v2:g1",
+      "new_record_id": "modern-indian-history-26:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-26-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:33:38.116589+00:00",
+      "identities": {
+        "export": "modern-indian-history-26:learner-v2:g2",
+        "master": "modern-indian-history-26:learner-v2:g2",
+        "review": "modern-indian-history-26:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-26:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-26\\modern-indian-history-26-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-26:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-26:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-26-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-26:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-27",
+      "title": "Independence & Partition (1946–1947)",
+      "old_record_id": "modern-indian-history-27:learner-v2:g1",
+      "new_record_id": "modern-indian-history-27:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-27-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:34:20.212756+00:00",
+      "identities": {
+        "export": "modern-indian-history-27:learner-v2:g2",
+        "master": "modern-indian-history-27:learner-v2:g2",
+        "review": "modern-indian-history-27:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-27:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-27\\modern-indian-history-27-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-27:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-27:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-27-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-27:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-28",
+      "title": "Integration of the Princely States & the Making of the Republic",
+      "old_record_id": "modern-indian-history-28:learner-v2:g1",
+      "new_record_id": "modern-indian-history-28:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-28-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:34:59.909317+00:00",
+      "identities": {
+        "export": "modern-indian-history-28:learner-v2:g2",
+        "master": "modern-indian-history-28:learner-v2:g2",
+        "review": "modern-indian-history-28:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-28:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-28\\modern-indian-history-28-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-28:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-28:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-28-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-28:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-29",
+      "title": "The Colonial Legacy & the Foundations of the Republic",
+      "old_record_id": "modern-indian-history-29:learner-v2:g1",
+      "new_record_id": "modern-indian-history-29:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-29-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:35:39.589612+00:00",
+      "identities": {
+        "export": "modern-indian-history-29:learner-v2:g2",
+        "master": "modern-indian-history-29:learner-v2:g2",
+        "review": "modern-indian-history-29:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-29:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-29\\modern-indian-history-29-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-29:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-29:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-29-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-29:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-30",
+      "title": "Linguistic Reorganisation of States & Regionalism",
+      "old_record_id": "modern-indian-history-30:learner-v2:g1",
+      "new_record_id": "modern-indian-history-30:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-30-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:36:23.255199+00:00",
+      "identities": {
+        "export": "modern-indian-history-30:learner-v2:g2",
+        "master": "modern-indian-history-30:learner-v2:g2",
+        "review": "modern-indian-history-30:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-30:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-30\\modern-indian-history-30-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-30:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-30:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-30-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-30:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-31",
+      "title": "Integration of the Tribals & National Unity",
+      "old_record_id": "modern-indian-history-31:learner-v2:g1",
+      "new_record_id": "modern-indian-history-31:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-31-learner-v2-g2-2026-08-31-validation.json",
+      "review_started_at": "2026-08-31T18:37:09.664209+00:00",
+      "identities": {
+        "export": "modern-indian-history-31:learner-v2:g2",
+        "master": "modern-indian-history-31:learner-v2:g2",
+        "review": "modern-indian-history-31:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-31:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-31\\modern-indian-history-31-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-31:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-31:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-31-learner-v2-g2-2026-08-31-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-31:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-32",
+      "title": "The Nehru Era — Hope, Foreign Policy & Legacy",
+      "old_record_id": "modern-indian-history-32:learner-v2:g1",
+      "new_record_id": "modern-indian-history-32:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-32-learner-v2-g2-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:24:11.823222+00:00",
+      "identities": {
+        "export": "modern-indian-history-32:learner-v2:g2",
+        "master": "modern-indian-history-32:learner-v2:g2",
+        "review": "modern-indian-history-32:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-32:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-32\\modern-indian-history-32-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-32:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-32:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-32-learner-v2-g2-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-32:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-33",
+      "title": "Party Politics 1947–67: The Congress System & the Opposition",
+      "old_record_id": "modern-indian-history-33:learner-v2:g1",
+      "new_record_id": "modern-indian-history-33:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-33-learner-v2-g2-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:24:33.968044+00:00",
+      "identities": {
+        "export": "modern-indian-history-33:learner-v2:g2",
+        "master": "modern-indian-history-33:learner-v2:g2",
+        "review": "modern-indian-history-33:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-33:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-33\\modern-indian-history-33-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-33:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-33:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-33-learner-v2-g2-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-33:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-34",
+      "title": "From Shastri to Indira Gandhi, 1964–73",
+      "old_record_id": "modern-indian-history-34:learner-v2:g1",
+      "new_record_id": "modern-indian-history-34:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-34-learner-v2-g2-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:24:55.643211+00:00",
+      "identities": {
+        "export": "modern-indian-history-34:learner-v2:g2",
+        "master": "modern-indian-history-34:learner-v2:g2",
+        "review": "modern-indian-history-34:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-34:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-34\\modern-indian-history-34-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-34:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-34:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-34-learner-v2-g2-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-34:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-35",
+      "title": "The JP Movement & the Emergency",
+      "old_record_id": "modern-indian-history-35:learner-v2:g1",
+      "new_record_id": "modern-indian-history-35:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-35-learner-v2-g2-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:25:16.948851+00:00",
+      "identities": {
+        "export": "modern-indian-history-35:learner-v2:g2",
+        "master": "modern-indian-history-35:learner-v2:g2",
+        "review": "modern-indian-history-35:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-35:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-35\\modern-indian-history-35-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-35:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-35:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-35-learner-v2-g2-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-35:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-36",
+      "title": "Janata Interregnum, Indira's Return & Regional Crises",
+      "old_record_id": "modern-indian-history-36:learner-v2:g1",
+      "new_record_id": "modern-indian-history-36:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-36-learner-v2-g2-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:25:37.871410+00:00",
+      "identities": {
+        "export": "modern-indian-history-36:learner-v2:g2",
+        "master": "modern-indian-history-36:learner-v2:g2",
+        "review": "modern-indian-history-36:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-36:learner-v2:g1",
+        "generation": 1,
+        "score": 95,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-36\\modern-indian-history-36-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-36:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-36:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-36-learner-v2-g2-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-36:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "modern-indian-history-37",
+      "title": "The Rajiv Years & the Run-up to the Millennium",
+      "old_record_id": "modern-indian-history-37:learner-v2:g1",
+      "new_record_id": "modern-indian-history-37:learner-v2:g3",
+      "old_generation": 1,
+      "new_generation": 3,
+      "old_score": 93,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-37-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:25:58.747133+00:00",
+      "identities": {
+        "export": "modern-indian-history-37:learner-v2:g3",
+        "master": "modern-indian-history-37:learner-v2:g3",
+        "review": "modern-indian-history-37:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-37:learner-v2:g1",
+        "generation": 1,
+        "score": 93,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-37\\modern-indian-history-37-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-37:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-37:learner-v2:g2",
+          "generation": 2,
+          "state": "failed_intermediate_preserved",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-37-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "modern-indian-history-37:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-37-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-37:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "modern-indian-history-38",
+      "title": "Economy, Land, Society & State: A Post-Independence Synthesis",
+      "old_record_id": "modern-indian-history-38:learner-v2:g1",
+      "new_record_id": "modern-indian-history-38:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 93,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-38-learner-v2-g2-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T01:29:19.266833+00:00",
+      "identities": {
+        "export": "modern-indian-history-38:learner-v2:g2",
+        "master": "modern-indian-history-38:learner-v2:g2",
+        "review": "modern-indian-history-38:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "modern-indian-history-38:learner-v2:g1",
+        "generation": 1,
+        "score": 93,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\modern-indian-history-38\\modern-indian-history-38-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "modern-indian-history-38:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "modern-indian-history-38:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\modern-indian-history-38-learner-v2-g2-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "modern-indian-history-38:learner-v2:g2",
+      "final_generation": 2
+    }
+  ],
+  "failed_intermediates_preserved": [
+    "modern-indian-history-12:learner-v2:g2",
+    "modern-indian-history-37:learner-v2:g2"
+  ],
+  "successful_re_review_intermediates_preserved": [
+    "modern-indian-history-09:learner-v2:g2",
+    "modern-indian-history-10:learner-v2:g2",
+    "modern-indian-history-11:learner-v2:g2"
+  ],
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+  "all_subject_topic_count": 243,
+  "final_library_topic_count": 243,
+  "encoding_check": {
+    "files_checked": [
+      "EXPORT-PDF-STATUS.json",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json",
+      "EXPORT-PDF-COMMAND-INDEX.md",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.md"
+    ],
+    "u_fffd_replacement_paths": [],
+    "actual_replacement_glyph_found": false,
+    "result": "no defect; PowerShell console encoding only"
+  }
+}

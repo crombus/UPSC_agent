@@ -8,10 +8,12 @@ learning-session note or PDF; no link list needs to be maintained by hand.
 """
 from __future__ import annotations
 
+import json
 import os
 import re
 from collections import defaultdict
 from datetime import date
+from functools import lru_cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -19,6 +21,12 @@ KNOWLEDGE = ROOT / "knowledge"
 WORKSPACE = ROOT.parent
 NOTES = WORKSPACE / "notes"
 OUTPUT = KNOWLEDGE / "STUDY-INDEX.md"
+CANONICAL_SESSION_DIRECTORY = "learning-sessions"
+LEGACY_SESSION_DIRECTORY_ALIASES = (
+    "Terminal-Learning-Sessions",
+    "learning-sessions-v2",
+    "_learning-sessions",
+)
 
 SUBJECT_ORDER = [
     "Ancient-Indian-History",
@@ -118,7 +126,12 @@ def file_title(path: Path) -> str:
 
 def topic_number(path: Path) -> str:
     match = re.match(r"^(\d{1,2})[_-]", path.name)
-    return match.group(1).zfill(2) if match else ""
+    if match:
+        return match.group(1).zfill(2)
+    for part in path.stem.split("-")[:6]:
+        if re.fullmatch(r"\d{2}", part):
+            return part
+    return ""
 
 
 def topic_label(path: Path) -> str:
@@ -148,10 +161,93 @@ def tokens(text: str) -> set[str]:
     }
 
 
+PHILOSOPHY_V2_PREFIXES = {
+    ("paper-1", "western"): "philosophy-paper-i-western-philosophy",
+    ("paper-1", "indian"): "philosophy-paper-i-indian-philosophy",
+    ("paper-2", "socio-political"): "philosophy-paper-ii-socio-political-philosophy",
+    ("paper-2", "philosophy-of-religion"): "philosophy-paper-ii-philosophy-of-religion",
+}
+
+
+@lru_cache(maxsize=1)
+def tracked_v2_owner_keys() -> dict[str, str]:
+    tracker = WORKSPACE / "EXPORT-PDF-STATUS.json"
+    if not tracker.is_file():
+        return {}
+    data = json.loads(tracker.read_text(encoding="utf-8"))
+    owners: dict[str, str] = {}
+    for entry in data.get("exports", []):
+        if not isinstance(entry, dict) or entry.get("variant") != "learner-v2":
+            continue
+        provenance = entry.get("provenance")
+        source = (
+            provenance.get("source_basic")
+            if isinstance(provenance, dict)
+            else None
+        )
+        topic_key = entry.get("topic_key")
+        if source and topic_key:
+            owners[str(source).replace("\\", "/").casefold()] = str(topic_key)
+    return owners
+
+
+@lru_cache(maxsize=1)
+def tracked_export_paths() -> dict[str, tuple[str, str]]:
+    tracker = WORKSPACE / "EXPORT-PDF-STATUS.json"
+    if not tracker.is_file():
+        return {}
+    data = json.loads(tracker.read_text(encoding="utf-8"))
+    paths: dict[str, tuple[str, str]] = {}
+    for entry in data.get("exports", []):
+        if not isinstance(entry, dict):
+            continue
+        topic_key = entry.get("topic_key")
+        variant = entry.get("variant")
+        if not topic_key or not variant:
+            continue
+        for field in ("main_pdf", "workbook", "markdown"):
+            value = entry.get(field)
+            if value:
+                paths[str(value).replace("\\", "/").casefold()] = (
+                    str(topic_key),
+                    str(variant),
+                )
+    return paths
+
+
+def philosophy_v2_topic_prefix(topic: Path) -> str:
+    try:
+        relative = topic.relative_to(WORKSPACE).as_posix().casefold()
+    except ValueError:
+        relative = ""
+    tracked = tracked_v2_owner_keys().get(relative)
+    if tracked:
+        return tracked.casefold()
+
+    parts = [part.casefold() for part in topic.parts]
+    for index, part in enumerate(parts[:-1]):
+        if part not in {"paper-1", "paper-2"} or index + 1 >= len(parts):
+            continue
+        prefix = PHILOSOPHY_V2_PREFIXES.get((part, parts[index + 1]))
+        number = topic_number(topic)
+        if prefix and number:
+            return f"{prefix}-{number}".casefold()
+    return ""
+
+
 def session_label(path: Path) -> str:
     stem = path.stem.casefold()
     if "workbook" in stem:
         return "Workbook"
+    if "v2" in {part.casefold() for part in path.parts}:
+        return "V2 session"
+    if any(alias.casefold() in {part.casefold() for part in path.parts}
+           for alias in LEGACY_SESSION_DIRECTORY_ALIASES):
+        return "Legacy session"
+    if CANONICAL_SESSION_DIRECTORY.casefold() in {
+        part.casefold() for part in path.parts
+    }:
+        return "Legacy/reference v1 session"
     if "learning-session" in stem:
         return "Session"
     return "Session"
@@ -177,9 +273,26 @@ def matched_notes(topic: Path, subject_pdfs: list[Path]) -> list[Path]:
     topic_words = tokens(topic_label(topic))
     if not topic_words:
         return []
+    stable_prefix = philosophy_v2_topic_prefix(topic)
+    tracked_paths = tracked_export_paths()
     scored: list[tuple[float, Path]] = []
     for pdf in subject_pdfs:
         if not same_topic_number(topic, pdf):
+            continue
+        try:
+            relative = pdf.relative_to(WORKSPACE).as_posix().casefold()
+        except ValueError:
+            relative = ""
+        tracked = tracked_paths.get(relative)
+        if stable_prefix and tracked and tracked[0].casefold() == stable_prefix:
+            scored.append((2.0 if tracked[1] == "learner-v2" else 1.9, pdf))
+            continue
+        pdf_stem = pdf.stem.casefold()
+        if "learning-session-v2" in {
+            part.casefold() for part in pdf.parts
+        } and pdf_stem.startswith("philosophy-"):
+            if stable_prefix and pdf_stem.startswith(stable_prefix):
+                scored.append((2.0, pdf))
             continue
         pdf_words = tokens(pdf.stem)
         overlap = len(topic_words & pdf_words)
@@ -189,15 +302,27 @@ def matched_notes(topic: Path, subject_pdfs: list[Path]) -> list[Path]:
         if score >= 0.35 or overlap >= 3:
             scored.append((score, pdf))
     scored.sort(key=lambda item: (-item[0], item[1].as_posix().casefold()))
-    return [path for _, path in scored[:3]]
+    limit = 4 if stable_prefix else 3
+    return [path for _, path in scored[:limit]]
 
 
 def matched_sessions(subject_dir: Path, topic: Path) -> list[Path]:
     session_dirs = [
-        subject_dir / "learning-sessions",
-        subject_dir / "_learning-sessions",
+        subject_dir / CANONICAL_SESSION_DIRECTORY,
+        *(
+            subject_dir / alias
+            for alias in LEGACY_SESSION_DIRECTORY_ALIASES
+        ),
     ]
+    if subject_dir.name == "Philosophy":
+        session_dirs.extend(
+            path
+            for path in subject_dir.rglob(CANONICAL_SESSION_DIRECTORY)
+            if path not in session_dirs
+        )
     topic_words = tokens(topic_label(topic))
+    stable_prefix = philosophy_v2_topic_prefix(topic)
+    tracked_paths = tracked_export_paths()
     candidates: list[tuple[float, Path]] = []
     for session_dir in session_dirs:
         if not session_dir.is_dir():
@@ -205,12 +330,42 @@ def matched_sessions(subject_dir: Path, topic: Path) -> list[Path]:
         for path in session_dir.rglob("*.md"):
             if not same_topic_number(topic, path):
                 continue
+            try:
+                relative = path.relative_to(WORKSPACE).as_posix().casefold()
+            except ValueError:
+                relative = ""
+            tracked = tracked_paths.get(relative)
+            if stable_prefix and tracked and tracked[0].casefold() == stable_prefix:
+                candidates.append(
+                    (2.0 if tracked[1] == "learner-v2" else 1.9, path)
+                )
+                continue
+            path_stem = path.stem.casefold()
+            if "v2" in {
+                part.casefold() for part in path.parts
+            } and path_stem.startswith("philosophy-"):
+                if stable_prefix and path_stem.startswith(stable_prefix):
+                    candidates.append((2.0, path))
+                continue
             session_words = tokens(path.stem)
             overlap = len(topic_words & session_words)
             if overlap:
                 candidates.append((overlap / max(1, len(topic_words)), path))
     candidates.sort(key=lambda item: (-item[0], item[1].as_posix().casefold()))
-    return [path for score, path in candidates[:2] if score >= 0.25]
+    eligible = [path for score, path in candidates if score >= 0.25]
+    if stable_prefix:
+        selected: list[Path] = []
+        selected_families: set[str] = set()
+        for path in eligible:
+            family = "v2" if session_label(path) == "V2 session" else "legacy"
+            if family in selected_families:
+                continue
+            selected.append(path)
+            selected_families.add(family)
+            if len(selected) == 2:
+                break
+        return selected
+    return eligible[:2]
 
 
 def prelims_direction(subject: str) -> str:
@@ -417,6 +572,8 @@ def main() -> None:
         "",
         f"> **Generated:** {date.today().isoformat()} by `tools/build_study_index.py`.",
         "> **Update rule:** Re-run the builder whenever a knowledge file, learning-session note or notes PDF is added.",
+        f"> **Session path:** `{CANONICAL_SESSION_DIRECTORY}/` is canonical. "
+        f"`{'`, `'.join(LEGACY_SESSION_DIRECTORY_ALIASES)}` are read-only compatibility aliases.",
         "",
         "## Coverage status",
         "",

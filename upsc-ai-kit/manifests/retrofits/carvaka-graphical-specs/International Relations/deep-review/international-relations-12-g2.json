@@ -1,0 +1,1269 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-12",
+  "subject": "International Relations",
+  "title": "UN AND INTERNATIONAL INSTITUTIONS: GLOBAL GOVERNANCE",
+  "short_route": "CENTRAL QUESTION AND THE → THE CHARTER'S OWN WORDS → WHAT THE WORD VETO → THE AMENDMENT LOCK IN → INDIA INSIDE THE COUNCIL → WHICH COUNTER-TERRORISM BODY DOES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-12-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "e0351e440b9345edfa531edf48c678b2338d324250c6bff051b17f48aecdbd25",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL QUESTION AND THE FOUR REFORM DIMENSIONS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL QUESTION AND THE FOUR REFORM DIMENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "WHY IS REFORM DISCUSSED FOR DECADES WITHOUT BEING ACHIEVED?",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM IS FOUR SEPARABLE QUESTIONS, NOT ONE",
+          "role": "caution"
+        },
+        {
+          "text": "DIMENSION 1 REPRESENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WHO SITS AT THE TABLE",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION 2 DECISION-MAKING",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CONCURRING-VOTE REQUIREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "DIMENSION 3 FINANCING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → why is reform discussed for decades without being achieved?",
+        "ANSWER → reform is four separable questions, not one",
+        "DIMENSION 1 REPRESENTATION → who sits at the table",
+        "DIMENSION 2 DECISION-MAKING → the concurring-vote requirement",
+        "DIMENSION 3 FINANCING → who funds and who decides spending priorities"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → why is reform discussed for decades without being achieved?",
+            "ANSWER → reform is four separable questions, not one",
+            "DIMENSION 1 REPRESENTATION → who sits at the table"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION 2 DECISION-MAKING → the concurring-vote requirement",
+            "DIMENSION 3 FINANCING → who funds and who decides spending priorities",
+            "DIMENSION 4 COMPLIANCE → binding decisions against implementation gaps"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIA'S PHILOSOPHY → a renewed, not a retired, United Nations",
+            "BOUNDARY → creation-era chronology to World History; lending and trade mechanics to Economy; climate targets to topic 11; G20 and BRICS to topic 10",
+            "MUST REMEMBER: Global governance distributes authority across the UN Charter system,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Global governance distributes authority across the UN Charter system,.",
+      "source_references": [
+        "What this global-governance owner holds and how its boundaries are routed",
+        "The reform coalition, the process it replaced and the wider demand",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE CHARTER'S OWN WORDS ON COMPOSITION AND OBLIGATION",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE CHARTER'S OWN WORDS ON COMPOSITION AND OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 23",
+          "role": "institution"
+        },
+        {
+          "text": "THE COUNCIL SHALL CONSIST OF FIFTEEN MEMBERS PERMANENT AS",
+          "role": "institution"
+        },
+        {
+          "text": "REPUBLIC OF CHINA, FRANCE, UNION OF SOVIET SOCIALIST",
+          "role": "evidence"
+        },
+        {
+          "text": "REPUBLICS, UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+          "role": "primary"
+        },
+        {
+          "text": "UNITED STATES OF AMERICA TEN ELECTED BY THE ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 24",
+          "role": "institution"
+        },
+        {
+          "text": "PRIMARY RESPONSIBILITY FOR INTERNATIONAL PEACE AND SECURITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 23 → the Council shall consist of fifteen Members permanent as printed: Republic of",
+        "Republics, United Kingdom of Great Britain and Northern Ireland",
+        "United States of America ten elected by the Assembly",
+        "due regard to contribution to peace and security and to equitable geographical distribution two-year term",
+        "a retiring member is not eligible for immediate re-election"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ARTICLE 23 → the Council shall consist of fifteen Members permanent as printed: Republic of China, France, Union of Soviet Socialist",
+          "a retiring member is not eligible for immediate re-election",
+          "ARTICLE 25 → Members agree to accept and carry out Council decisions"
+        ],
+        [
+          "Republics, United Kingdom of Great Britain and Northern Ireland,",
+          "ARTICLE 24 → primary responsibility for international peace and security",
+          "ARTICLE 29 → the Council may establish subsidiary organs as it deems necessary"
+        ],
+        [
+          "United States of America ten elected by the Assembly",
+          "the Council acts on behalf of the Members; powers in Chapters VI, VII,",
+          ""
+        ],
+        [
+          "due regard to contribution to peace and security and to equitable geographical distribution two-year term",
+          "VIII and XII; annual and special reports to the Assembly",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 23 → the Council shall consist of fifteen Members permanent as printed: Republic of China, France, Union of Soviet Socialist",
+            "Republics, United Kingdom of Great Britain and Northern Ireland,",
+            "United States of America ten elected by the Assembly",
+            "due regard to contribution to peace and security and to equitable geographical distribution two-year term"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "a retiring member is not eligible for immediate re-election",
+            "ARTICLE 24 → primary responsibility for international peace and security",
+            "the Council acts on behalf of the Members; powers in Chapters VI, VII,",
+            "VIII and XII; annual and special reports to the Assembly"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 25 → Members agree to accept and carry out Council decisions",
+            "ARTICLE 29 → the Council may establish subsidiary organs as it deems necessary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 29 → the Council may establish subsidiary organs as it deems necessary.",
+      "source_references": [
+        "Composition and election under the Charter's own words",
+        "What a Council decision actually obliges and where its powers come from",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WHAT THE WORD VETO ACTUALLY DENOTES",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHAT THE WORD VETO ACTUALLY DENOTES",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 27(1)",
+          "role": "institution"
+        },
+        {
+          "text": "EACH MEMBER OF THE COUNCIL SHALL HAVE ONE VOTE",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 27(2)",
+          "role": "institution"
+        },
+        {
+          "text": "PROCEDURAL MATTERS",
+          "role": "primary"
+        },
+        {
+          "text": "AN AFFIRMATIVE VOTE OF NINE MEMBERS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 27(3)",
+          "role": "institution"
+        },
+        {
+          "text": "ALL OTHER MATTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 27(1) → each member of the Council shall have one vote",
+        "ARTICLE 27(2) → procedural matters: an affirmative vote of nine members",
+        "ARTICLE 27(3) → all other matters: an affirmative vote of nine members",
+        "INCLUDING the concurring votes of the permanent members",
+        "PROVISO → in decisions under Chapter VI and under Article 52(3), a party to a"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 27(1) → each member of the Council shall have one vote",
+            "ARTICLE 27(2) → procedural matters: an affirmative vote of nine members",
+            "ARTICLE 27(3) → all other matters: an affirmative vote of nine members"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INCLUDING the concurring votes of the permanent members",
+            "PROVISO → in decisions under Chapter VI and under Article 52(3), a party to a dispute shall abstain from voting",
+            "CONSEQUENCE → the veto is the concurring-vote requirement, not a named power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DESIGN RATIONALE → keep major powers inside the system after the League",
+            "PARADOX → the same requirement blocks the reform it is asked to permit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARADOX → the same requirement blocks the reform it is asked to permit.",
+      "source_references": [
+        "The voting rule and what the word veto precisely denotes",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE AMENDMENT LOCK IN TWO ARTICLES",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE AMENDMENT LOCK IN TWO ARTICLES",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 108",
+          "role": "institution"
+        },
+        {
+          "text": "AMENDMENTS COME INTO FORCE FOR ALL MEMBERS WHEN ADOPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "AND RATIFIED BY TWO THIRDS OF THE MEMBERS OF",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUDING ALL THE PERMANENT MEMBERS OF THE SECURITY COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 109",
+          "role": "institution"
+        },
+        {
+          "text": "A GENERAL CONFERENCE TO REVIEW THE CHARTER MAY BE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANSION OF THE PERMANENT CATEGORY NEEDS RATIFICATION BY EXACTLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 108 → amendments come into force for all Members when adopted by two thirds",
+        "AND ratified by two thirds of the Members of the United Nations",
+        "INCLUDING all the permanent members of the Security Council",
+        "ARTICLE 109 → a General Conference to review the Charter may be held",
+        "on a two-thirds Assembly vote and a vote of any nine Council members"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 108 → amendments come into force for all Members when adopted by two thirds of the members of the General Assembly",
+            "AND ratified by two thirds of the Members of the United Nations,",
+            "INCLUDING all the permanent members of the Security Council"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 109 → a General Conference to review the Charter may be held",
+            "on a two-thirds Assembly vote and a vote of any nine Council members",
+            "any alteration it recommends takes effect on the same ratification rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → expansion of the permanent category needs ratification by exactly the states whose relative position it would change",
+            "ANSWER LINE → the impasse is structural before it is geopolitical"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 109 → a General Conference to review the Charter may be held on a two-thirds Assembly vote and a vote of any nine Council members any alteration it recommends takes effect on the same ratification rule.",
+      "source_references": [
+        "The amendment rule that locks the whole reform debate",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA INSIDE THE COUNCIL AND ITS COMMITTEES",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIA INSIDE THE COUNCIL AND ITS COMMITTEES",
+          "role": "institution"
+        },
+        {
+          "text": "NON-PERMANENT TERM; ELECTED BY RECORD MARGIN, WITH GERMANY AND",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH AFRICA; BRAZIL AND NIGERIA HALFWAY THROUGH THEIR OWN",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA CHAIRS THE COUNTER-TERRORISM COMMITTEE DURING THIS TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "28 SEPTEMBER 2001",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMMITTEE IS ESTABLISHED BY RESOLUTION 1373",
+          "role": "outcome"
+        },
+        {
+          "text": "28-29 OCTOBER 2022",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA HOSTS A SPECIAL MEETING OF THE COMMITTEE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2011-12 → non-permanent term; elected by record margin, with Germany and",
+        "South Africa; Brazil and Nigeria halfway through their own terms",
+        "India chairs the Counter-Terrorism Committee during this term",
+        "28 SEPTEMBER 2001 → the Committee is established by resolution 1373",
+        "28-29 OCTOBER 2022 → India hosts a special meeting of the Committee"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2011-12 → non-permanent term; elected by record margin, with Germany and",
+            "South Africa; Brazil and Nigeria halfway through their own terms",
+            "India chairs the Counter-Terrorism Committee during this term",
+            "28 SEPTEMBER 2001 → the Committee is established by resolution 1373"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "28-29 OCTOBER 2022 → India hosts a special meeting of the Committee",
+            "29 OCTOBER 2022 → Delhi Declaration on terrorist misuse of new and emerging technologies",
+            "2021-22 → most recent non-permanent term",
+            "2025 → resolution 2810 renews the Executive Directorate to 5 January 2029"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "13 JULY 2026 → India launches its candidature for the 2028-29 term",
+            "LIMIT → the Committee coordinates and monitors; it does not enforce"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → the Committee coordinates and monitors; it does not enforce.",
+      "source_references": [
+        "India's participation record inside the existing structure",
+        "The counter-terrorism committee's coordinating mandate and its expert arm",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WHICH COUNTER-TERRORISM BODY DOES WHAT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHICH COUNTER-TERRORISM BODY DOES WHAT",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-TERRORISM COMMITTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "CREATED BY RESOLUTION 1373 (2001)",
+          "role": "comparison"
+        },
+        {
+          "text": "MONITOR AND COORDINATE MEMBER-STATE IMPLEMENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "THE EXECUTIVE DIRECTORATE ASSESSES CAPACITY; MANDATE TO 5 JANUARY",
+          "role": "primary"
+        },
+        {
+          "text": "NO INDEPENDENT ENFORCEMENT; COMPLIANCE RESTS ON NATIONAL CAPACITY",
+          "role": "caution"
+        },
+        {
+          "text": "2253 SANCTIONS COMMITTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "ISIL (DA'ESH) AND AL-QAIDA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COUNTER-TERRORISM COMMITTEE → created by resolution 1373 (2001)",
+        "FUNCTION: monitor and coordinate member-state implementation",
+        "ARM: the Executive Directorate assesses capacity; mandate to 5 January 2029",
+        "POWER: no independent enforcement; compliance rests on national capacity",
+        "1267 / 1989 / 2253 SANCTIONS COMMITTEE → ISIL (Da'esh) and Al-Qaida"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COUNTER-TERRORISM COMMITTEE → created by resolution 1373 (2001)",
+          "1267 / 1989 / 2253 SANCTIONS COMMITTEE → ISIL (Da'esh) and Al-Qaida",
+          "RULE → neither substitutes for national investigation and prosecution"
+        ],
+        [
+          "FUNCTION: monitor and coordinate member-state implementation",
+          "FUNCTION: listings, supported by its Monitoring Team",
+          "EXAM USE → name the body before judging effectiveness"
+        ],
+        [
+          "ARM: the Executive Directorate assesses capacity; mandate to 5 January 2029",
+          "FINANCIAL ACTION TASK FORCE → a separate intergovernmental standard-setter",
+          ""
+        ],
+        [
+          "POWER: no independent enforcement; compliance rests on national capacity",
+          "FUNCTION: anti-money-laundering and counter-terrorist-financing standards",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COUNTER-TERRORISM COMMITTEE → created by resolution 1373 (2001)",
+            "FUNCTION: monitor and coordinate member-state implementation",
+            "ARM: the Executive Directorate assesses capacity; mandate to 5 January 2029",
+            "POWER: no independent enforcement; compliance rests on national capacity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1267 / 1989 / 2253 SANCTIONS COMMITTEE → ISIL (Da'esh) and Al-Qaida",
+            "FUNCTION: listings, supported by its Monitoring Team",
+            "FINANCIAL ACTION TASK FORCE → a separate intergovernmental standard-setter",
+            "FUNCTION: anti-money-laundering and counter-terrorist-financing standards"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → neither substitutes for national investigation and prosecution",
+            "EXAM USE → name the body before judging effectiveness"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → neither substitutes for national investigation and prosecution.",
+      "source_references": [
+        "The counter-terrorism committee's coordinating mandate and its expert arm",
+        "The judicial-body distinction and India's own treaty position",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE REFORM PROCESS AT ITS EXACT EVIDENTIARY LEVEL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE REFORM PROCESS AT ITS EXACT EVIDENTIARY LEVEL",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE GROUP OF FOUR TAKES THE DEBATE AWAY FROM",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKING GROUP, PER THAROOR; INDIA, BRAZIL, GERMANY, JAPAN",
+          "role": "comparison"
+        },
+        {
+          "text": "22 SEPTEMBER 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "PACT FOR THE FUTURE ADOPTED AT THE SUMMIT OF",
+          "role": "primary"
+        },
+        {
+          "text": "ANNEX I GLOBAL DIGITAL COMPACT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNEX II DECLARATION ON FUTURE GENERATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "25 SEPTEMBER 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2010 → the Group of Four takes the debate away from the Open-Ended",
+        "Working Group, per Tharoor; India, Brazil, Germany, Japan",
+        "22 SEPTEMBER 2024 → Pact for the Future adopted at the Summit of the Future",
+        "Annex I Global Digital Compact",
+        "Annex II Declaration on Future Generations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2010 → the Group of Four takes the debate away from the Open-Ended",
+            "Working Group, per Tharoor; India, Brazil, Germany, Japan",
+            "22 SEPTEMBER 2024 → Pact for the Future adopted at the Summit of the Future",
+            "Annex I Global Digital Compact",
+            "Annex II Declaration on Future Generations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "25 SEPTEMBER 2025 → Group of Four Foreign Ministers' joint statement,",
+            "New York: both categories; Common African Position in the Ezulwini",
+            "Consensus and Sirte Declaration; strong concern at absent progress",
+            "consensus is not a decision-making requirement",
+            "31 OCTOBER 2025 → Kuwait and the Netherlands appointed IGN co-chairs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "20 APRIL 2026 → India's IGN intervention on the African model",
+            "26-member Council; both categories; veto parity, all or none",
+            "3 AUGUST 2026 → neither a consolidated model nor text-based negotiations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 AUGUST 2026 → neither a consolidated model nor text-based negotiations.",
+      "source_references": [
+        "The reform coalition, the process it replaced and the wider demand",
+        "The coalition's dated statement and the Common African Position",
+        "India's stated national position at the negotiations",
+        "The negotiation's status and the two things the Assembly has not done",
+        "The summit outcome document and its two annexes",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHERE INSTITUTIONAL CHANGE IS ACTUALLY HAPPENING",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHERE INSTITUTIONAL CHANGE IS ACTUALLY HAPPENING",
+          "role": "primary"
+        },
+        {
+          "text": "TRACK THAT NEEDS RATIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY COUNCIL COMPOSITION AND VETO",
+          "role": "institution"
+        },
+        {
+          "text": "BLOCKED BY ARTICLE 108",
+          "role": "institution"
+        },
+        {
+          "text": "ADMINISTRATIVE TRACK",
+          "role": "primary"
+        },
+        {
+          "text": "UN80 INITIATIVE, LAUNCHED 12 MARCH 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "SECRETARIAT EFFICIENCY, MANDATE-IMPLEMENTATION REVIEW, REALIGNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTION TRACK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRACK THAT NEEDS RATIFICATION → Security Council composition and veto",
+        "STATUS: blocked by Article 108",
+        "ADMINISTRATIVE TRACK → UN80 Initiative, launched 12 March 2025",
+        "Secretariat efficiency, mandate-implementation review, realignment",
+        "SELECTION TRACK → Secretary-General post falls vacant 31 December 2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRACK THAT NEEDS RATIFICATION → Security Council composition and veto",
+            "STATUS: blocked by Article 108",
+            "ADMINISTRATIVE TRACK → UN80 Initiative, launched 12 March 2025",
+            "Secretariat efficiency, mandate-implementation review, realignment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SELECTION TRACK → Secretary-General post falls vacant 31 December 2026",
+            "process initiated by joint letter of the two Presidents, 25 November 2025, under resolution 79/327 of 5 September 2025",
+            "ADJUDICATIVE TRACK → ICJ advisory opinion on climate obligations, 23 July 2025",
+            "TREATY TRACK → BBNJ Agreement in force 17 January 2026; India signed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "25 September 2024 without ratifying, so India is not a party",
+            "OBSERVATION → change migrates to the tracks that need no ratification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OBSERVATION → change migrates to the tracks that need no ratification.",
+      "source_references": [
+        "The reform tracks that bypass Charter amendment altogether",
+        "Financial and trade governance as the parallel reform dimension",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE COURT'S ADVISORY FUNCTION AND ITS EXACT LIMIT",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE COURT'S ADVISORY FUNCTION AND ITS EXACT LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ORGANISATIONS CANNOT BE PARTIES TO A CONTENTIOUS CASE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONLY STATES ARE ENTITLED TO APPEAR IN CONTENTIOUS PROCEEDINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ADVISORY PROCEDURE IS OPEN TO FIVE UNITED NATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "WRITTEN REQUEST ADDRESSED TO THE REGISTRAR; WRITTEN AND ORAL",
+          "role": "primary"
+        },
+        {
+          "text": "ADVISORY OPINIONS ARE NOT BINDING, EXCEPT IN RARE CASES",
+          "role": "caution"
+        },
+        {
+          "text": "THE REQUESTING BODY DECIDES WHAT EFFECT TO GIVE THE",
+          "role": "comparison"
+        },
+        {
+          "text": "GREAT LEGAL WEIGHT AND MORAL AUTHORITY NONETHELESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → organisations cannot be parties to a contentious case",
+        "RESPONSE: only States are entitled to appear in contentious proceedings",
+        "RESPONSE: the advisory procedure is open to five United Nations organs, fifteen specialized agencies and",
+        "PROCESS → written request addressed to the Registrar; written and oral phases",
+        "BINDINGNESS → advisory opinions are not binding, except in rare cases where expressly provided"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROBLEM → organisations cannot be parties to a contentious case",
+            "RESPONSE: only States are entitled to appear in contentious proceedings",
+            "RESPONSE: the advisory procedure is open to five United Nations organs, fifteen specialized agencies and one related organization, and to them alone"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESS → written request addressed to the Registrar; written and oral phases",
+            "BINDINGNESS → advisory opinions are not binding, except in rare cases where expressly provided,",
+            "such as the Conventions on Privileges and Immunities and the United Nations Headquarters Agreement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EFFECT → the requesting body decides what effect to give the opinion",
+            "WEIGHT → great legal weight and moral authority nonetheless",
+            "INSTANCE → climate-obligations opinion, 23 July 2025; due diligence, prevention of significant harm, cooperation, State responsibility on breach"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTANCE → climate-obligations opinion, 23 July 2025; due diligence, prevention of significant harm, cooperation, State responsibility on breach.",
+      "source_references": [
+        "The Court's advisory function and the exact limit of an advisory opinion",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PEACEKEEPING PRINCIPLES AND INDIA'S RECORD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PEACEKEEPING PRINCIPLES AND INDIA'S RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCIPLE 1",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT OF THE PARTIES; CONSENT AT THE TOP IS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCIPLE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPARTIALITY; IMPARTIAL IN DEALINGS, NOT NEUTRAL IN THE MANDATE",
+          "role": "caution"
+        },
+        {
+          "text": "PRINCIPLE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-USE OF FORCE EXCEPT IN SELF-DEFENCE AND DEFENCE OF",
+          "role": "comparison"
+        },
+        {
+          "text": "THE THREE PRINCIPLES ARE INTER-RELATED AND MUTUALLY REINFORCING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRINCIPLE 1 → consent of the parties; consent at the top is not consent below",
+        "PRINCIPLE 2 → impartiality; impartial in dealings, not neutral in the mandate",
+        "PRINCIPLE 3 → non-use of force except in self-defence and defence of mandate",
+        "STATUS → the three principles are inter-related and mutually reinforcing",
+        "NOT AN ENFORCEMENT TOOL → tactical force only with Council authorization"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PRINCIPLE 1 → consent of the parties; consent at the top is not consent below",
+          "NOT AN ENFORCEMENT TOOL → tactical force only with Council authorization",
+          "LIMIT → contribution does not automatically yield a permanent seat"
+        ],
+        [
+          "PRINCIPLE 2 → impartiality; impartial in dealings, not neutral in the mandate",
+          "ROBUST PEACEKEEPING → not peace enforcement under Chapter VII",
+          "CLOSE DISTINCTION: UN organ, specialised agency, related organisation, treaty body and..."
+        ],
+        [
+          "PRINCIPLE 3 → non-use of force except in self-defence and defence of mandate",
+          "INDIA → more than 275,000 personnel in over fifty missions since 1948",
+          ""
+        ],
+        [
+          "STATUS → the three principles are inter-related and mutually reinforcing",
+          "INDIA → first all-women Formed Police Unit, Liberia, 2007",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRINCIPLE 1 → consent of the parties; consent at the top is not consent below",
+            "PRINCIPLE 2 → impartiality; impartial in dealings, not neutral in the mandate",
+            "PRINCIPLE 3 → non-use of force except in self-defence and defence of mandate",
+            "STATUS → the three principles are inter-related and mutually reinforcing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NOT AN ENFORCEMENT TOOL → tactical force only with Council authorization",
+            "ROBUST PEACEKEEPING → not peace enforcement under Chapter VII",
+            "INDIA → more than 275,000 personnel in over fifty missions since 1948",
+            "INDIA → first all-women Formed Police Unit, Liberia, 2007"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → contribution does not automatically yield a permanent seat",
+            "CLOSE DISTINCTION: UN organ, specialised agency, related organisation, treaty body and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: UN organ, specialised agency, related organisation, treaty body and.",
+      "source_references": [
+        "Peacekeeping principles and what India's contribution does and does not buy",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SPECIALISED AGENCIES UNDER FUNDING AND DELIVERY STRESS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SPECIALISED AGENCIES UNDER FUNDING AND DELIVERY STRESS",
+          "role": "primary"
+        },
+        {
+          "text": "EDUCATION AND CULTURE AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "CREATED 1945; GENERAL CONFERENCE OF ALL MEMBERS; 58-MEMBER EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "US WITHDRAWAL ANNOUNCED 2017, EFFECTIVE 31 DECEMBER 2018; RETURN",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUS ON 3 AUGUST 2026",
+          "role": "primary"
+        },
+        {
+          "text": "STILL A MEMBER; NOTIFICATION IS NOT WITHDRAWAL",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA RE-ELECTED TO THE EXECUTIVE BOARD FOR 2025-29",
+          "role": "comparison"
+        },
+        {
+          "text": "HEALTH AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EDUCATION AND CULTURE AGENCY → created 1945",
+        "General Conference of all members",
+        "58-member Executive Board",
+        "Director-General-led Secretariat administers the 1972 World Heritage Convention through Committee and List",
+        "US withdrawal announced 2017, effective 31 December 2018; return 2023 with an arrears plan; new"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EDUCATION AND CULTURE AGENCY → created 1945",
+          "STATUS on 3 August 2026: still a member; notification is not withdrawal",
+          "Pandemic Agreement adopted 20 May 2025; annex unfinished; 60 ratifications"
+        ],
+        [
+          "General Conference of all members",
+          "India re-elected to the Executive Board for 2025-29",
+          "2024 International Health Regulations amendments in force 19 September 2025"
+        ],
+        [
+          "58-member Executive Board",
+          "HEALTH AGENCY → Assembly supreme; Executive Board effectuates; Secretariat no emergency determination at the first meeting, 22-23 January 2020",
+          "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify membership, voting rule,..."
+        ],
+        [
+          "Director-General-led Secretariat administers the 1972 World Heritage Convention through Committee and List",
+          "declaration on 30 January 2020",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EDUCATION AND CULTURE AGENCY → created 1945",
+            "General Conference of all members",
+            "58-member Executive Board",
+            "Director-General-led Secretariat administers the 1972 World Heritage Convention through Committee and List",
+            "US withdrawal announced 2017, effective 31 December 2018; return 2023 with an arrears plan; new notification July 2025, effective end-December 2026"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATUS on 3 August 2026: still a member; notification is not withdrawal",
+            "India re-elected to the Executive Board for 2025-29",
+            "HEALTH AGENCY → Assembly supreme; Executive Board effectuates; Secretariat no emergency determination at the first meeting, 22-23 January 2020",
+            "declaration on 30 January 2020",
+            "COVAX: close to two billion doses to 146 economies; closed end-2023"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Pandemic Agreement adopted 20 May 2025; annex unfinished; 60 ratifications",
+            "2024 International Health Regulations amendments in force 19 September 2025",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify membership, voting rule,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify membership, voting rule,...",
+      "answer_line": "STATUS / LEVELS / IMPLEMENTATION: Verify membership, voting rule,.",
+      "source_references": [
+        "The specialised agencies as the effectiveness test",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A UNITED NATIONS OR INSTITUTIONS DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A UNITED NATIONS OR INSTITUTIONS DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE ORGAN OR BODY AND THE INSTRUMENT THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "QUOTE THE GOVERNING ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "COMPOSITION, OBLIGATION, VOTING, AMENDMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE WHAT THE BODY COORDINATES, DECIDES OR ADJUDICATES",
+          "role": "institution"
+        },
+        {
+          "text": "ONE DATED INSTRUMENT WITH ITS EXACT EVIDENTIARY LEVEL ATTACHED",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE REPRESENTATION, DECISION-MAKING, FINANCING AND COMPLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO CONSOLIDATED MODEL AND NO TEXT-BASED NEGOTIATIONS AS OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the organ or body and the instrument that created it",
+        "RULE → quote the governing article: composition, obligation, voting, amendment",
+        "MANDATE → state what the body coordinates, decides or adjudicates",
+        "EVIDENCE → one dated instrument with its exact evidentiary level attached",
+        "REFORM → separate representation, decision-making, financing and compliance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the organ or body and the instrument that created it",
+            "RULE → quote the governing article: composition, obligation, voting, amendment",
+            "MANDATE → state what the body coordinates, decides or adjudicates",
+            "EVIDENCE → one dated instrument with its exact evidentiary level attached"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFORM → separate representation, decision-making, financing and compliance",
+            "STATUS → no consolidated model and no text-based negotiations as of the date",
+            "CONCEDE → counter-coalition opposition; contribution is not entitlement",
+            "adoption without ratification is not an operating legal regime"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OWNERSHIP → the 2024 counter-terrorism, 2025 reform, 2019 agency-funding,",
+            "2020 health and 2022 climate-fora demands are the routed Mains questions",
+            "CLOSE → renewed, not retired; predict no outcome and no timeline"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → renewed, not retired; predict no outcome and no timeline.",
+      "source_references": [
+        "Honest question ownership for this global-governance owner",
+        "The negotiation's status and the two things the Assembly has not done",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "G4 (INDIA, BRAZIL, GERMANY, JAPAN)",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PRINCIPAL UNSC-REFORM ADVOCACY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITING FOR CONSENSUS",
+          "role": "evidence"
+        },
+        {
+          "text": "OTHER COUNTER-COALITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "GROUPS OF STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "UN PACT FOR THE FUTURE (22 SEPTEMBER 2024)",
+          "role": "comparison"
+        },
+        {
+          "text": "ADOPTED AT THE SUMMIT OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "G4 (India, Brazil, Germany, Japan): the principal UNSC-reform advocacy",
+            "CAUTION: Uniting for Consensus / other counter-coalitions: groups of states",
+            "UN Pact for the Future (22 September 2024): adopted at the Summit of",
+            "G4 Foreign Ministers' joint statement (New York, 25 September 2025):"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "India's IGN intervention (20 April 2026): on the African model —",
+            "CAUTION: IGN process status: co-chaired for the 80th session by Kuwait and the",
+            "Parallel reform tracks that bypass Charter amendment: the UN80",
+            "Adjudicative and treaty-making tracks: the ICJ's advisory opinion on"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "UNSC Counter-Terrorism Committee (CTC): established by resolution 1373",
+            "CAUTION: IMF/World Bank governance reform: a parallel, financing-dimension",
+            "Direct PYQ boundary case (2024 Q19): an advanced answer on CTC",
+            "Direct PYQ boundary case (2025 Q20): an advanced answer should"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

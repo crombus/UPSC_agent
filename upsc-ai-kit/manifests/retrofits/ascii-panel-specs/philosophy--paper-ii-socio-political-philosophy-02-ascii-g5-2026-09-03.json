@@ -1,0 +1,375 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with the manually authored Sovereignty twelve-panel atlas",
+  "generated_on": "2026-09-03",
+  "scope": "Philosophy Optional Paper II Socio-Political Philosophy topic 02 only",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+      "title": "Sovereignty",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g5\\topic-02_Complete-Learning-Session_2026-09-03.md",
+      "source_record": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g5",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, all prior topic artifacts, canonical owners and retained packages remain immutable.",
+      "panels": [
+        {
+          "panel_title": "The central question and the analytical axes of sovereignty",
+          "structural_type": "root-question-and-conceptual-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL QUESTION -> where is final authority LOCATED, how is it STRUCTURED, how far",
+            "                    is it LIMITED?",
+            "        |",
+            "        v",
+            "ROOT CONCEPT: supreme, final and authoritative power within a political community",
+            "  NOT mere force (a bandit coerces)  |  NOT the government of the day  |  NOT the state",
+            "        |",
+            "  +-----+------------+-------------------+--------------------+",
+            "  v                  v                   v                    v",
+            "INTERNAL/EXTERNAL  LEGAL/POLITICAL   DE JURE/DE FACTO   TITULAR/ACTUAL",
+            "supremacy within   competent law-    lawful title vs    formal dignity vs",
+            "vs independence    maker vs the      effective          real power of",
+            "among states       real power        obedience          decision",
+            "        |",
+            "        v",
+            "CONTROL: distinguish the axes FIRST, locate the thinker SECOND, adjudicate LAST."
+          ]
+        },
+        {
+          "panel_title": "Bodin: absolute, perpetual, undivided - and still bounded",
+          "structural_type": "doctrine-derivation-with-limits",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CONDITION: confessional civil war; churches, estates and feudal lords each claim finality",
+            "        |",
+            "        v",
+            "DEFINITION -> sovereignty is the ABSOLUTE and PERPETUAL power of a commonwealth",
+            "        |",
+            "  +-----+---------------------+---------------------------+",
+            "  v                           v                           v",
+            "ABSOLUTE                   PERPETUAL                   UNDIVIDED",
+            "no human superior          attached to the OFFICE,     two final wills would",
+            "inside the realm           not to a magistrate         revive civil war",
+            "  |                                                        |",
+            "  v                                                        v",
+            "PRE-EMINENT MARK -> power to MAKE and UNMAKE law for all subjects in general,",
+            "                    without the consent of any superior",
+            "        |",
+            "        v",
+            "LIMITS THAT SURVIVE -> divine law | natural law | fundamental laws (leges imperii)",
+            "LEGIBUS SOLUTUS -> released from ORDINARY POSITIVE LAW only; not from higher law",
+            "TRAP -> Bodin is not Hobbes before Hobbes; supreme is not morally empty",
+            "VERDICT -> first systematic theory and indispensable vocabulary; institutional",
+            "           guarantees against abuse remain weak."
+          ]
+        },
+        {
+          "panel_title": "Austin's command theory: the mechanism of legal sovereignty",
+          "structural_type": "causal-mechanism-chain",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "PROJECT -> analytical jurisprudence: define law and sovereignty with juristic precision",
+            "        |",
+            "        v",
+            "DETERMINATE HUMAN SUPERIOR  (an identifiable person or body, never an abstraction)",
+            "        |",
+            "        v  receives",
+            "HABITUAL OBEDIENCE from the BULK of a given society",
+            "        |",
+            "        v  and renders",
+            "OBEDIENCE TO NO OTHER SUPERIOR",
+            "        |",
+            "        v  therefore",
+            "COMMAND --> SANCTION --> DUTY --> POSITIVE LAW",
+            "        |",
+            "  +-----+--------+---------+-----------+------------+",
+            "  v              v         v           v            v",
+            "DETERMINATE   ABSOLUTE  INDIVISIBLE ILLIMITABLE  INALIENABLE",
+            "identifiable  no legal  finality    no superior  transfer ends",
+            "              limit     unpartitionable          sovereignty",
+            "SOURCE -> The Province of Jurisprudence Determined, 1832",
+            "TRAP -> Austin's sovereign is NOT the state; it is a determinate superior."
+          ]
+        },
+        {
+          "panel_title": "The external critique of Austin and the democracy verdict",
+          "structural_type": "problem-response-matrix",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "+----------------+---------------------------+------------------------------+",
+            "| HEAD           | OBJECTION                 | MONIST REPLY / RESIDUAL      |",
+            "+----------------+---------------------------+------------------------------+",
+            "| federalism     | no single determinate     | finality relocated to the    |",
+            "|                | superior in a federation  | constituent power; that      |",
+            "|                |                           | SHIFTS the problem           |",
+            "| international  | binding rules exist with  | conceptual purity preserved, |",
+            "| law            | no world sovereign        | but law is over-narrowed     |",
+            "| custom         | obedience can PRECEDE     | tacit adoption by courts;    |",
+            "|                | command                   | widely judged artificial     |",
+            "| popular        | the people rule but are   | legal indeterminacy admitted;|",
+            "| sovereignty    | legally indeterminate     | political finality conceded  |",
+            "| Maine: Ranjit  | despotic power coexisted  | authority is often personal  |",
+            "| Singh          | with untouched custom     | and socially embedded        |",
+            "+----------------+---------------------------+------------------------------+",
+            "DEMOCRACY -> narrow legal sense: compatible in form",
+            "          -> deeper political sense: derivative, divided, rights-bound = uneasy",
+            "CONTROL -> answer by DEGREE-JUDGMENT, never by a flat yes or no."
+          ]
+        },
+        {
+          "panel_title": "Kelsen and Hart: the internal repair of supreme legal authority",
+          "structural_type": "parallel-reconstruction-hierarchies",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "DIAGNOSIS -> the command theory fails on SUCCESSION, PERSISTENCE and",
+            "             POWER-CONFERRING RULES",
+            "        |",
+            "  +-----+-------------------------------+",
+            "  v                                     v",
+            "KELSEN (General Theory, 1945)      HART (The Concept of Law, 1961)",
+            "  GRUNDNORM  (presupposed)           RULE OF RECOGNITION",
+            "      ^                                  ^ official convergent practice",
+            "      | validity descends                | + INTERNAL POINT OF VIEW",
+            "  CONSTITUTION                       SECONDARY RULES",
+            "      ^                              recognition | change | adjudication",
+            "      |                                  ^ cure uncertainty | static",
+            "  STATUTES                               | character | inefficiency",
+            "      ^                                  |",
+            "      |                              PRIMARY RULES (duties)",
+            "  ORDERS AND JUDGMENTS",
+            "TERMINOLOGY -> having an obligation (internal) vs being obliged (gunman coercion)",
+            "PLACEMENT -> both keep SUPREME LEGAL AUTHORITY and discard the PERSONAL sovereign",
+            "TRAP -> never merge Kelsen, Hart and Laski; never date Kelsen to 1961."
+          ]
+        },
+        {
+          "panel_title": "Laski's pluralism: the rejection and its replacement",
+          "structural_type": "branch-tree-with-replacement",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "TARGET -> the monistic doctrine of absolute, indivisible, unlimited state sovereignty",
+            "        |",
+            "  +-----+----------------------+----------------------------+",
+            "  v                            v                            v",
+            "PHILOSOPHICALLY FALSE      POLITICALLY DANGEROUS       SOCIOLOGICALLY UNREAL",
+            "loyalty is plural; no      supplies a doctrine of      churches, unions,",
+            "single will exhausts       unquestioned power          universities and local",
+            "obligation                 against liberty             bodies really decide",
+            "        |",
+            "        v",
+            "REPLACEMENT ARCHITECTURE",
+            "  +--> the state is ONE ASSOCIATION AMONG MANY, though uniquely important",
+            "  +--> authority is DIVIDED AND SHARED with functional associations",
+            "  +--> the state must COMPETE FOR ALLEGIANCE by what it does",
+            "        |",
+            "        v",
+            "TRAP -> pluralist, NOT anarchist: he limits the state, he does not abolish it",
+            "VERDICT -> decisive corrective on liberty; incomplete on coordination, which is",
+            "           why examiners ask whether it is a satisfactory position."
+          ]
+        },
+        {
+          "panel_title": "Kautilya inside the state: seven limbs and the calibrated rod",
+          "structural_type": "organic-classification-and-calibration",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CLAIM -> sovereignty is the CAPACITY of a state organism, not one man's bare will",
+            "        |",
+            "        v",
+            "SAPTĀṄGA (seven limbs)",
+            "  svāmī     ruler            -> headship and direction",
+            "  amātya    ministers        -> counsel, administration, execution",
+            "  janapada  territory/people -> the productive social base",
+            "  durga     fortified place  -> security and protection",
+            "  kośa      treasury         -> the material basis of rule",
+            "  daṇḍa     coercive force   -> enforcement, punishment, defence",
+            "  mitra     ally             -> external support in the interstate order",
+            "        |",
+            "        v",
+            "DAṆḌANĪTI, THE CALIBRATION DIAL",
+            "  too little <----------------- proper ------------------> too much",
+            "  MĀTSYA-NYĀYA                order + welfare              TYRANNY",
+            "  the strong devour the weak  (yogakṣema)                  revolt, ruined",
+            "                                                           janapada, empty kośa",
+            "TRAP -> the svāmī is DHARMA-BOUND; he is not Austin's illimitable superior."
+          ]
+        },
+        {
+          "panel_title": "Kautilya outside the state: circle, six-fold policy and relevance",
+          "structural_type": "spatial-strategy-and-application",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "SPATIAL LAYER -> the MAṆḌALA: authority is measured against neighbours",
+            "   [ neighbour's neighbour ]  = natural ALLY (shares a rival)",
+            "              ^",
+            "   [ immediate neighbour   ]  = natural RIVAL (shares a border)",
+            "              ^",
+            "   [ the aspiring ruler    ]  = vijigīṣu",
+            "2025 PYQ LINE -> prompt framing, NOT a verified Kautilya quotation",
+            "SUPPORTED THESIS -> alliances and policies change with position, power and interest",
+            "        |",
+            "        v",
+            "ṢĀḌGUṆYA, the six-fold operational policy",
+            "  sandhi peace | vigraha hostility | yāna advance",
+            "  āsana poised inaction | saṃśraya shelter | dvaidhībhāva dual policy",
+            "        |",
+            "        v",
+            "ETHICAL FRAME -> YOGAKṢEMA: security plus well-being is the ruler's duty",
+            "        |",
+            "        v",
+            "MODERN RELEVANCE -> by THEME: state capacity, fiscal strength, intelligence,",
+            "  calibrated enforcement, strategic autonomy, welfare obligation",
+            "LIMIT -> SELECTIVE APPROPRIATION of principles, never reproduction of monarchy."
+          ]
+        },
+        {
+          "panel_title": "Comparison grid and the objection-reply-residual engine",
+          "structural_type": "comparison-matrix-and-critical-engine",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "+---------------+------------+-------------+-----------+---------------+",
+            "| AXIS          | BODIN      | AUSTIN      | LASKI     | KAUTILYA      |",
+            "+---------------+------------+-------------+-----------+---------------+",
+            "| located in    | supreme    | determinate | no single | svāmī within  |",
+            "|               | law-giver  | superior    | locus     | saptāṅga      |",
+            "| absolute?     | yes, with  | yes, in     | no        | strong but    |",
+            "|               | higher law | legal form  |           | dharma-bound  |",
+            "| divisible?    | no         | no          | yes       | organically   |",
+            "|               |            |             |           | coordinated   |",
+            "| associations  | secondary  | subordinate | autonomous| constitutive  |",
+            "| core anxiety  | civil war  | juristic    | liberty   | survival and  |",
+            "|               |            | clarity     |           | welfare       |",
+            "+---------------+------------+-------------+-----------+---------------+",
+            "AUSTIN vs KAUTILYA -> command/obedience/sanction  against  rule/administration/",
+            "                      welfare/coercion/strategy",
+            "CRITICAL ENGINE -> OBJECTION -> MONIST REPLY -> RESIDUAL DIFFICULTY",
+            "  democracy  -> legal finality retained -> authority still derivative and divided",
+            "  federalism -> constituent power       -> relocation is not proof of one superior",
+            "  pluralism  -> shared is not sovereign -> monism may misdescribe plural life",
+            "ORDERING RULE -> internal critique (Kelsen, Hart) first, external critique second."
+          ]
+        },
+        {
+          "panel_title": "Globalization, standing traps and the reusable answer spine",
+          "structural_type": "synthesis-verdict-and-answer-rail",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "SAME EVIDENCE -> treaties | trade regimes | supranational adjudication | flows",
+            "        |                                        |",
+            "        v                                        v",
+            "EROSION THESIS                          TRANSFORMATION / RESILIENCE THESIS",
+            "authority leaks upward and outward      sovereignty is pooled, constrained,",
+            "                                        negotiated and networked",
+            "        +------------------+--------------------+",
+            "                           v",
+            "DECISIVE DISTINCTION -> legal independence  vs  practical interdependence",
+            "MECHANISMS -> treaty constraint | delegated competence | pooled decision | dependence",
+            "PERSISTENT CLAIMS    -> war | treaty | currency | membership",
+            "VERDICT -> RECONFIGURED, not abolished",
+            "TRAP CHECK -> Austin's sovereign is not the state | Laski is not an anarchist |",
+            "  Bodin is not lawless | svāmī is not illimitable | Kelsen 1945, Hart 1961 |",
+            "  sovereignty has not disappeared",
+            "ANSWER SPINE -> 1 decode the directive and name the owner-thinker",
+            "                2 open with the taxonomy of sovereignty",
+            "                3 state the doctrine in the thinker's own terms",
+            "                4 objection and reply, objector named",
+            "                5 graded verdict",
+            "TIERS -> 10 marks: steps 1-3 and a verdict; 15: full spine and one objection;",
+            "         20: full spine, internal then external critique, and a comparison close."
+          ]
+        },
+        {
+          "panel_title": "Five classical attributes and two sovereignty-of-the-people claims",
+          "structural_type": "attribute-ladder-and-source-distinction",
+          "source_references": {
+            "sessions": [
+              1,
+              2,
+              3
+            ]
+          },
+          "lines": [
+            "CLASSICAL LEGAL ATTRIBUTES -> absoluteness | permanence | universality |",
+            "                              inalienability | indivisibility",
+            "PERMANENCE -> government changes while state sovereignty continues",
+            "UNIVERSALITY -> jurisdiction reaches persons and associations in the territory",
+            "INALIENABILITY -> powers may be delegated; sovereign status is not merely transferred",
+            "POPULAR SOVEREIGNTY -> people are the internal source of legitimate authority",
+            "ROUSSEAU -> general will claims common good; government remains an agent",
+            "NATIONAL SOVEREIGNTY -> collective self-determination and territorial independence",
+            "TRAP -> popular source, national self-rule and majority preference are not synonyms"
+          ]
+        },
+        {
+          "panel_title": "Pluralist lineage and jurisdiction-safe constitutional comparison",
+          "structural_type": "school-lineage-and-two-jurisdiction-matrix",
+          "source_references": {
+            "sessions": [
+              4,
+              6,
+              10
+            ]
+          },
+          "lines": [
+            "PLURALIST SCHOOL -> Figgis: real associations | Cole: functional groups |",
+            "                    MacIver: law, constitution and residual coordination",
+            "LASKI REMAINS THE OWNER -> early legal-fiction attack; mature limited sovereignty",
+            "UNITED KINGDOM -> Parliament is the supreme legal authority in its jurisdiction",
+            "INDIA -> Parliament exercises powers conferred and limited by a supreme Constitution",
+            "JUDICIAL REVIEW -> enforces constitutional limits; it does not make courts sovereign",
+            "FEDERALISM -> distribute competences without assuming legal and political finality coincide",
+            "GLOBAL LINK -> pooling/delegation moves exercise of power, not universal sovereignty",
+            "VERDICT -> modern sovereignty is competence-distributed and morally contestable"
+          ]
+        }
+      ]
+    }
+  ]
+}

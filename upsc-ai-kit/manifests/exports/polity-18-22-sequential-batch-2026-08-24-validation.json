@@ -1,0 +1,696 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-18-22-sequential-batch-2026-08-24",
+  "validated_at": "2026-08-24T18:31:36+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-18",
+      "polity-19",
+      "polity-20",
+      "polity-21",
+      "polity-22"
+    ],
+    "topic_count": 5,
+    "timestamps_monotonic": true,
+    "all_gate_timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-18",
+        "started_at": "2026-08-24T17:55:07+05:30",
+        "completed_at": "2026-08-24T17:58:26.463328+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-19",
+        "started_at": "2026-08-24T17:58:29+05:30",
+        "completed_at": "2026-08-24T18:01:45.171732+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-20",
+        "started_at": "2026-08-24T18:04:49+05:30",
+        "completed_at": "2026-08-24T18:08:11.669514+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-21",
+        "started_at": "2026-08-24T18:09:33+05:30",
+        "completed_at": "2026-08-24T18:12:44+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-22",
+        "started_at": "2026-08-24T18:12:44+05:30",
+        "completed_at": "2026-08-24T18:16:23+05:30",
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 55,
+    "new_topic_records": [
+      "polity-18:learner-v2:g2",
+      "polity-19:learner-v2:g2",
+      "polity-20:learner-v2:g2",
+      "polity-21:learner-v2:g2",
+      "polity-22:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true,
+    "tracker_path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-18",
+        "title": "Supreme Court",
+        "started_at": "2026-08-24T17:55:07+05:30",
+        "completed_at": "2026-08-24T17:58:26.463328+05:30",
+        "record_id": "polity-18:learner-v2:g2",
+        "counts": {
+          "sessions": 26,
+          "main_pdf_pages": 81,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 8,
+          "supporting_pyqs": 7,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-18-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-18-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-18-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-18-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-18.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\polity-18_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\polity-18_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\polity-18_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\polity-18_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-18\\carvaka-g2"
+        },
+        "factual_caveat": "Justice Surya Kant's office-holder fact is dated. The 20 November 2025 Article 143 assent opinion is advisory; Article 142 creates neither rigid assent timelines nor automatic deemed assent.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T17:55:07+05:30",
+          "A_completed": "2026-08-24T17:55:29+05:30",
+          "B_completed": "2026-08-24T17:55:32+05:30",
+          "C_completed": "2026-08-24T17:55:32+05:30",
+          "D_completed": "2026-08-24T17:55:32+05:30",
+          "E_completed": "2026-08-24T17:55:32+05:30",
+          "F_completed": "2026-08-24T17:56:05+05:30",
+          "G_completed": "2026-08-24T17:56:05+05:30",
+          "H_completed": "2026-08-24T17:58:12+05:30",
+          "I_completed": "2026-08-24T17:58:26.463328+05:30",
+          "J_completed": "2026-08-24T17:58:26.463328+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 8,
+          "original_mains_authored": 7
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\18-Supreme-Court",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-18-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "pdf_layout": {
+          "main": {
+            "page_count": 81,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-18\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-18\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 13,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\18-Supreme-Court\\18-Supreme-Court-Continuous-Flow-Learning.pdf",
+            "source_sha256": "d369ee71008bb724234db731b02fd657802b7b85ec35f69b1f245a7726b55ee1",
+            "destination_sha256": "d369ee71008bb724234db731b02fd657802b7b85ec35f69b1f245a7726b55ee1",
+            "equal": true,
+            "bytes": 55689
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\18-Supreme-Court\\18-Supreme-Court-Continuous-Flow-Learning.txt",
+            "source_sha256": "1c79635f762a107d972ad0d7f15d16a236ed53a158c83e08e3ce309b7a715c13",
+            "destination_sha256": "1c79635f762a107d972ad0d7f15d16a236ed53a158c83e08e3ce309b7a715c13",
+            "equal": true,
+            "bytes": 6399
+          }
+        },
+        "flow_status": "passed"
+      },
+      {
+        "topic_key": "polity-19",
+        "title": "Governor CM State Council",
+        "started_at": "2026-08-24T17:58:29+05:30",
+        "completed_at": "2026-08-24T18:01:45.171732+05:30",
+        "record_id": "polity-19:learner-v2:g2",
+        "counts": {
+          "sessions": 26,
+          "main_pdf_pages": 85,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 8,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-19-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-19-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-19-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-19-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-19.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-19\\carvaka-g2"
+        },
+        "factual_caveat": "The 2025 Article 143 opinion is advisory and did not overrule the April 2025 Tamil Nadu judgment. Chancellor powers arise only from the relevant State law, and the Nabam Rebia Speaker-removal issue remains referred.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T17:58:29+05:30",
+          "A_completed": "2026-08-24T17:58:53+05:30",
+          "B_completed": "2026-08-24T17:58:55+05:30",
+          "C_completed": "2026-08-24T17:58:55+05:30",
+          "D_completed": "2026-08-24T17:58:55+05:30",
+          "E_completed": "2026-08-24T17:58:55+05:30",
+          "F_completed": "2026-08-24T17:59:32+05:30",
+          "G_completed": "2026-08-24T17:59:32+05:30",
+          "H_completed": "2026-08-24T18:01:31+05:30",
+          "I_completed": "2026-08-24T18:01:45.171732+05:30",
+          "J_completed": "2026-08-24T18:01:45.171732+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 36,
+          "pyq_routes_authored": 9,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\19-Governor-CM-State-Council",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-19-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "pdf_layout": {
+          "main": {
+            "page_count": 85,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-19\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-19\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 9,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\19-Governor-CM-State-Council\\19-Governor-CM-State-Council-Continuous-Flow-Learning.pdf",
+            "source_sha256": "e36e09a7fe1368265ac15a9f04b415562f86b5c902f5b489d4609c599ef3f282",
+            "destination_sha256": "e36e09a7fe1368265ac15a9f04b415562f86b5c902f5b489d4609c599ef3f282",
+            "equal": true,
+            "bytes": 55844
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\19-Governor-CM-State-Council\\19-Governor-CM-State-Council-Continuous-Flow-Learning.txt",
+            "source_sha256": "3431545e41cd13ce7daf968df2e171b9e2b30d467dd2ecfd48289a73dc5588c2",
+            "destination_sha256": "3431545e41cd13ce7daf968df2e171b9e2b30d467dd2ecfd48289a73dc5588c2",
+            "equal": true,
+            "bytes": 6679
+          }
+        },
+        "flow_status": "passed"
+      },
+      {
+        "topic_key": "polity-20",
+        "title": "State Legislature",
+        "started_at": "2026-08-24T18:04:49+05:30",
+        "completed_at": "2026-08-24T18:08:11.669514+05:30",
+        "record_id": "polity-20:learner-v2:g2",
+        "counts": {
+          "sessions": 27,
+          "main_pdf_pages": 66,
+          "workbook_pdf_pages": 14,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 3,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-20-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-20-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-20-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-20-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-20.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-20\\carvaka-g2"
+        },
+        "factual_caveat": "The failed and withdrawn 2026 delimitation-linked Bills are not law. No State joint sitting exists, and Article 212 does not immunise substantive illegality or unconstitutionality from judicial review.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T18:04:49+05:30",
+          "A_completed": "2026-08-24T18:05:20+05:30",
+          "B_completed": "2026-08-24T18:05:22+05:30",
+          "C_completed": "2026-08-24T18:05:22+05:30",
+          "D_completed": "2026-08-24T18:05:22+05:30",
+          "E_completed": "2026-08-24T18:05:23+05:30",
+          "F_completed": "2026-08-24T18:05:54+05:30",
+          "G_completed": "2026-08-24T18:05:54+05:30",
+          "H_completed": "2026-08-24T18:07:59+05:30",
+          "I_completed": "2026-08-24T18:08:11.669514+05:30",
+          "J_completed": "2026-08-24T18:08:11.669514+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 36,
+          "pyq_routes_authored": 5,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\20-State-Legislature",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-20-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "pdf_layout": {
+          "main": {
+            "page_count": 66,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 14,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-20\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-20\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 6,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\20-State-Legislature\\20-State-Legislature-Continuous-Flow-Learning.pdf",
+            "source_sha256": "8815e0447783493e866efa6165da0885ac1c6e8eaa2dc7cf4471cca9ed15072f",
+            "destination_sha256": "8815e0447783493e866efa6165da0885ac1c6e8eaa2dc7cf4471cca9ed15072f",
+            "equal": true,
+            "bytes": 55912
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\20-State-Legislature\\20-State-Legislature-Continuous-Flow-Learning.txt",
+            "source_sha256": "50def10a175eafc58dd8bad328ba5cf912169c6f4935078bdfe7f04ba6f653be",
+            "destination_sha256": "50def10a175eafc58dd8bad328ba5cf912169c6f4935078bdfe7f04ba6f653be",
+            "equal": true,
+            "bytes": 6690
+          }
+        },
+        "flow_status": "passed"
+      },
+      {
+        "topic_key": "polity-21",
+        "title": "High Court and Subordinate Courts",
+        "started_at": "2026-08-24T18:09:33+05:30",
+        "completed_at": "2026-08-24T18:12:44+05:30",
+        "gate_times": {
+          "A_started": "2026-08-24T18:09:33+05:30",
+          "A_completed": "2026-08-24T18:09:38+05:30",
+          "B_completed": "2026-08-24T18:09:40+05:30",
+          "C_completed": "2026-08-24T18:09:40+05:30",
+          "D_completed": "2026-08-24T18:09:40+05:30",
+          "E_completed": "2026-08-24T18:09:40+05:30",
+          "F_completed": "2026-08-24T18:12:13+05:30",
+          "G_completed": "2026-08-24T18:12:13+05:30",
+          "H_completed": "2026-08-24T18:12:17+05:30",
+          "I_completed": "2026-08-24T18:12:39+05:30",
+          "J_completed": "2026-08-24T18:12:44+05:30"
+        },
+        "record_id": "polity-21:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 36,
+          "main_pdf_pages": 75,
+          "workbook_pdf_pages": 13,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 4,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 36,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\21-High-Court-and-Subordinate-Courts",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-21-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-21-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-21-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-21-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-21.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-21-flow-learning-2026-08-24-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\polity-21_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\polity-21_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\polity-21_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\polity-21_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-21\\carvaka-g2"
+        },
+        "factual_caveat": "India has 25 High Courts as a dated institutional fact. eCourts Phase III is an implementation programme, not proof that the digital divide or pendency has been solved.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "pdf_layout": {
+          "main": {
+            "page_count": 75,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 13,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-21\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-21\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\21-High-Court-and-Subordinate-Courts\\21-High-Court-and-Subordinate-Courts-Continuous-Flow-Learning.pdf",
+            "source_sha256": "616f9a670aaf039e1762caaa116966a931f27dec9dcda9e9c5d2827eeeb87ba0",
+            "destination_sha256": "616f9a670aaf039e1762caaa116966a931f27dec9dcda9e9c5d2827eeeb87ba0",
+            "equal": true,
+            "bytes": 55895
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\21-High-Court-and-Subordinate-Courts\\21-High-Court-and-Subordinate-Courts-Continuous-Flow-Learning.txt",
+            "source_sha256": "a3f25ac355f29246c91134dd282151ac2b1739221a872a2091abb2030b85a7f3",
+            "destination_sha256": "a3f25ac355f29246c91134dd282151ac2b1739221a872a2091abb2030b85a7f3",
+            "equal": true,
+            "bytes": 6881
+          }
+        },
+        "flow_status": "passed"
+      },
+      {
+        "topic_key": "polity-22",
+        "title": "Special Provisions",
+        "started_at": "2026-08-24T18:12:44+05:30",
+        "completed_at": "2026-08-24T18:16:23+05:30",
+        "gate_times": {
+          "A_started": "2026-08-24T18:12:44+05:30",
+          "A_completed": "2026-08-24T18:13:35+05:30",
+          "B_completed": "2026-08-24T18:13:37+05:30",
+          "C_completed": "2026-08-24T18:13:37+05:30",
+          "D_completed": "2026-08-24T18:13:37+05:30",
+          "E_completed": "2026-08-24T18:13:37+05:30",
+          "F_completed": "2026-08-24T18:16:06+05:30",
+          "G_completed": "2026-08-24T18:16:06+05:30",
+          "H_completed": "2026-08-24T18:16:09+05:30",
+          "I_completed": "2026-08-24T18:16:20+05:30",
+          "J_completed": "2026-08-24T18:16:23+05:30"
+        },
+        "record_id": "polity-22:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 35,
+          "main_pdf_pages": 70,
+          "workbook_pdf_pages": 13,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 4,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 36,
+          "pyq_routes_authored": 5,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\22-Special-Provisions",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-22-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-22-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-22-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-22-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-22.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-22-flow-learning-2026-08-24-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-22\\carvaka-g2"
+        },
+        "factual_caveat": "Article 370 remains printed but is inoperative after the 2019 measures upheld in 2023. Jammu and Kashmir Statehood has not been restored; Ladakh protection demands are proposals, not enacted constitutional change.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "pdf_layout": {
+          "main": {
+            "page_count": 70,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 13,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-22\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-22\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 1,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\22-Special-Provisions\\22-Special-Provisions-Continuous-Flow-Learning.pdf",
+            "source_sha256": "a0654d3b76ffe102f548238fcfcc2d0d928a1ba41df719d9b45eab9a137885e1",
+            "destination_sha256": "a0654d3b76ffe102f548238fcfcc2d0d928a1ba41df719d9b45eab9a137885e1",
+            "equal": true,
+            "bytes": 55781
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\22-Special-Provisions\\22-Special-Provisions-Continuous-Flow-Learning.txt",
+            "source_sha256": "cb2def56ce23750c2585a42ce61f22b97b8c8b4bf3e6212c74443d2a863f95ae",
+            "destination_sha256": "cb2def56ce23750c2585a42ce61f22b97b8c8b4bf3e6212c74443d2a863f95ae",
+            "equal": true,
+            "bytes": 6732
+          }
+        },
+        "flow_status": "passed"
+      }
+    ],
+    "totals": {
+      "sessions": 150,
+      "main_pdf_pages": 377,
+      "workbook_pdf_pages": 76,
+      "mcqs": 240,
+      "verified_pyqs": 12,
+      "supporting_pyqs": 26,
+      "original_mains": 39,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45,
+      "flow_pages": 45
+    },
+    "case_year_compliance": true,
+    "ascii_embedded_spec_standalone_equal": true,
+    "graphical_same_master": true,
+    "manual_contact_sheet_review": {
+      "status": "passed",
+      "graphical_contact_sheets_reviewed": 5,
+      "embedded_ascii_contact_sheets_reviewed": 5,
+      "clipping_or_overlap_defects": []
+    },
+    "mcq_rotation": {
+      "policy": "A -> B -> C -> D",
+      "passed": true,
+      "key_count_per_topic": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      }
+    }
+  },
+  "preservation": {
+    "existing_50_clean_canonical_artifact_files_checked": 400,
+    "existing_50_flow_topic_artifact_files_checked": 150,
+    "existing_clean_hash_mismatches": [],
+    "existing_flow_hash_mismatches": [],
+    "prior_generated_topic_hash_mismatches": [],
+    "stale_hidden_case_year_stage_removed_before_final_inventory": true
+  },
+  "libraries": {
+    "four_item": {
+      "topic_count": 55,
+      "status": "passed",
+      "checks": {
+        "exact_topic_count": true,
+        "exact_four_deliverable_directories": true,
+        "required_filenames_present": true,
+        "copied_artifact_hashes_equal": true,
+        "source_artifacts_unchanged": true,
+        "tracker_unchanged": true,
+        "no_internal_jargon_in_paths": true,
+        "no_duplicate_topic_destination": true,
+        "all_markdown_links_resolve": true,
+        "ascii_panels_complete_and_equal": true,
+        "ascii_pdf_is_standalone": true,
+        "copied_pdfs_open_no_blank_clipping_or_replacement": true,
+        "approval_pending": true,
+        "latest_tracker_graphical_and_ascii_selected": true
+      },
+      "links_checked": 668,
+      "broken_links": [],
+      "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json"
+    },
+    "flow_learning": {
+      "topic_count": 55,
+      "polity_topic_count": 22,
+      "status": "passed",
+      "pdf_hashes_equal": true,
+      "txt_hashes_equal": true,
+      "case_year_compliance": true,
+      "continuous_master_completeness": true,
+      "pdf_layout_passed": true,
+      "links_checked": 508,
+      "broken_links": [],
+      "all_validation": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-24-validation.json",
+      "polity_validation": "upsc-ai-kit\\manifests\\exports\\polity-01-22-flow-learning-2026-08-24-validation.json"
+    }
+  },
+  "tests": {
+    "passed": 127,
+    "failed": 0,
+    "command": "python -m unittest tools.test_export_four_item_library tools.test_refresh_all_v2_learning_sessions tools.test_carvaka_flowchart tools.test_polity_flowchart_case_years tools.test_export_flow_learning_library tools.test_v2_section_indexes tools.test_v2_topic_command_catalog tools.test_v2_export_foundation tools.test_plan_v2_topic_batch tools.test_retrofit_v2_core_first",
+    "excluded_legacy_snapshot_suite": "tools.test_easy_learning_pdf is task-specific to older immutable snapshots and intentionally conflicts with this command's tracker/library updates and pre-existing repaired g14/g15 hashes."
+  },
+  "factual_caveats": [
+    "Justice Surya Kant's office-holder fact is dated. The 20 November 2025 Article 143 assent opinion is advisory; Article 142 creates neither rigid assent timelines nor automatic deemed assent.",
+    "The 2025 Article 143 opinion is advisory and did not overrule the April 2025 Tamil Nadu judgment. Chancellor powers arise only from the relevant State law, and the Nabam Rebia Speaker-removal issue remains referred.",
+    "The failed and withdrawn 2026 delimitation-linked Bills are not law. No State joint sitting exists, and Article 212 does not immunise substantive illegality or unconstitutionality from judicial review.",
+    "India has 25 High Courts as a dated institutional fact. eCourts Phase III is an implementation programme, not proof that the digital divide or pendency has been solved.",
+    "Article 370 remains printed but is inoperative after the 2019 measures upheld in 2023. Jammu and Kashmir Statehood has not been restored; Ladakh protection demands are proposals, not enacted constitutional change."
+  ],
+  "reports": {
+    "batch_report": "notes\\Final-Learning-Packages\\POLITY-18-22-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-18-22-sequential-batch-2026-08-24-changed-files.txt",
+    "flow_report": "notes\\Flow-Learning\\POLITY-01-22-FLOW-LEARNING-REPORT.md",
+    "changed_files_count": 482,
+    "changed_files_sha256": "59453a9ec38df6dc6fb498ba45743b93163f27820e8d67631797d3189402c2fa"
+  }
+}

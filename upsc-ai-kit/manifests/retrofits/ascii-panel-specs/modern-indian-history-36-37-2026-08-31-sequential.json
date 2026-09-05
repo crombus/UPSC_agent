@@ -1,0 +1,342 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 36-37",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-36",
+      "display_title": "Janata Interregnum, Indira's Return & Regional Crises",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\36_Janata-Interregnum-Indiras-Return-and-Regional-Crises_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Janata's rise and fall, 1977-1980",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JANATA PARTY FORMED -> JANUARY 1977 (Congress-O + Jana Sangh + BLD + Socialists)",
+            "ELECTION WON -> MARCH 1977 (330 of 542); MORARJI DESAI becomes PM",
+            "COLLAPSE -> 1979, over the \"dual membership\" (Jana Sangh-RSS) dispute",
+            "CARETAKER -> CHARAN SINGH, from JULY 1979, no confidence vote faced"
+          ],
+          "source_references": [
+            "Janata's formation, rise and collapse, 1977-1980"
+          ]
+        },
+        {
+          "title": "The dual-membership fault line",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "QUESTION -> can a Jana Sangh member also belong to the RSS?",
+            "JANATA'S ANSWER -> never agreed upon inside the governing coalition",
+            "CONSEQUENCE -> Jana Sangh faction exits; government loses its majority",
+            "LESSON -> a negative-unity coalition needs one positive, shared answer"
+          ],
+          "source_references": [
+            "The dual-membership dispute as Janata's structural fault line"
+          ]
+        },
+        {
+          "title": "Indira's return, January 1980",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JANATA COLLAPSES -> 1979, Charan Singh caretaker, no confidence vote",
+            "ELECTION -> JANUARY 1980; CONGRESS (I) wins 353 of 529 seats",
+            "READING -> a verdict on JANATA'S FAILURE, not a fresh mandate for Indira",
+            "AFTERMATH -> SANJAY GANDHI dies, JUNE 1980; RAJIV GANDHI enters politics"
+          ],
+          "source_references": [
+            "Indira Gandhi's return to power in 1980"
+          ]
+        },
+        {
+          "title": "Regional parties on the map",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TAMIL NADU -> DMK / AIADMK dominance",
+            "ANDHRA PRADESH -> TELUGU DESAM (N.T. RAMA RAO), sweeps 1983",
+            "WEST BENGAL -> LEFT FRONT (JYOTI BASU), governing continuously from 1977",
+            "JAMMU AND KASHMIR -> Abdullah family politics vs central interference"
+          ],
+          "source_references": [
+            "Regional parties in the 1980s"
+          ]
+        },
+        {
+          "title": "The Assam Movement",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "LED BY -> All Assam Students' Union (AASU)",
+            "GRIEVANCE -> illegal migration and the \"foreigner\" question",
+            "FORM -> mass agitation, not a law-and-order episode",
+            "CENTRE'S RESPONSE -> struggled to contain it through the early 1980s"
+          ],
+          "source_references": [
+            "The Assam Movement"
+          ]
+        },
+        {
+          "title": "Jammu and Kashmir: the Abdullah pattern",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "LEADERSHIP -> Sheikh Abdullah, then his son Farooq Abdullah",
+            "PATTERN -> elected state governments face repeated central interference",
+            "EFFECT -> corrodes democratic legitimacy at the state level",
+            "RESTRAINT -> this owner records the pattern; it avoids present-day politics"
+          ],
+          "source_references": [
+            "Jammu and Kashmir: the Abdullah leadership pattern"
+          ]
+        },
+        {
+          "title": "The Anandpur Sahib Resolution's demands",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "TERRITORIAL -> a claim over Chandigarh",
+            "ECONOMIC -> a fairer share of river waters",
+            "FEDERAL -> a demand for greater state autonomy",
+            "STATUS AT FRAMING -> a negotiable federal-economic charter"
+          ],
+          "source_references": [
+            "The Anandpur Sahib Resolution"
+          ]
+        },
+        {
+          "title": "The Punjab escalation ladder",
+          "structural_type": "escalation-flow",
+          "ascii_lines": [
+            "STEP 1 -> Anandpur Sahib Resolution's demands go unsettled",
+            "STEP 2 -> the negotiable political space is vacated",
+            "STEP 3 -> BHINDRANWALE and militancy rise to fill it",
+            "STEP 4 -> OPERATION BLUE STAR, June 1984, Golden Temple, Amritsar"
+          ],
+          "source_references": [
+            "The Punjab crisis: escalation from demand to operation"
+          ]
+        },
+        {
+          "title": "Operation Blue Star and its aftermath",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "OPERATION BLUE STAR -> JUNE 1984, Golden Temple complex, Amritsar",
+            "INTERVAL -> several months of continued tension",
+            "ASSASSINATION -> INDIRA GANDHI, 31 OCTOBER 1984",
+            "RESTRAINT -> no casualty figures or community characterisation here"
+          ],
+          "source_references": [
+            "Operation Blue Star and Indira Gandhi's assassination"
+          ]
+        },
+        {
+          "title": "Comparative engine: five theatres of regional crisis",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "THEATRE      | ACTOR               | ROUTE                   | OUTCOME",
+            "PUNJAB       | Akali Dal/militants | negotiation -> force    | Accord, 1985",
+            "ASSAM        | AASU                | agitation -> negotiation| Accord, 1985",
+            "ANDHRA/WB    | Telugu Desam/Left   | elections               | absorbed"
+          ],
+          "source_references": [
+            "Comparative engine across regional crises"
+          ]
+        },
+        {
+          "title": "Three historiographical readings of the 1980s",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "POLITICAL-MANAGEMENT -> blames mishandling of federal-economic demands",
+            "NATIONAL-SECURITY -> foregrounds cross-border support for militancy",
+            "FEDERALIST -> blames erosion of state autonomy, misuse of Article 356",
+            "CHANDRA'S CHOICE -> privileges the political-management reading"
+          ],
+          "source_references": [
+            "Three historiographical readings of the Punjab crisis"
+          ]
+        },
+        {
+          "title": "The delayed-accommodation thesis",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CLAIM -> the 1985 accords resembled what could have been agreed earlier",
+            "EVIDENCE -> the Mizo Accord precedent settled a similar demand",
+            "CONSEQUENCE -> the years in between measure the cost of postponement",
+            "LIMIT -> settlement analysis belongs to the following topic, basic/37"
+          ],
+          "source_references": [
+            "The delayed-accommodation thesis"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-37",
+      "display_title": "The Rajiv Years & the Run-up to the Millennium",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The 1984 mandate and modernising agenda",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MANDATE -> DECEMBER 1984; RAJIV GANDHI wins about 415 of 543 seats",
+            "AGENDA -> telecom, computerisation, science missions, panchayati raj",
+            "CAUTION -> panchayati raj not yet constitutional; that comes in the 1990s",
+            "SIGNIFICANCE -> the largest mandate in Indian electoral history to date"
+          ],
+          "source_references": [
+            "Rajiv Gandhi's 1984 mandate and modernising agenda"
+          ]
+        },
+        {
+          "title": "The 1985 accords and the Anti-Defection Act",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PUNJAB ACCORD -> Rajiv Gandhi and Harchand Singh Longowal, 1985",
+            "ASSAM AND MIZORAM ACCORDS -> also settled in 1985",
+            "ANTI-DEFECTION ACT -> 52nd Constitutional Amendment, 1985",
+            "EFFECT -> three inherited regional crises addressed by negotiation"
+          ],
+          "source_references": [
+            "The 1985 accords and the Anti-Defection Act"
+          ]
+        },
+        {
+          "title": "The twin identity concessions",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "CONCESSION 1 -> Shah Bano reversal, 1985-86, conservative pressure",
+            "CONCESSION 2 -> Ayodhya shrine opening, meant to balance concession 1",
+            "RESULT -> both communities alienated, not balanced",
+            "LESSON -> symbolic concessions to two sides do not cancel; they mobilise both"
+          ],
+          "source_references": [
+            "The Shah Bano reversal and the Ayodhya shrine opening"
+          ]
+        },
+        {
+          "title": "Bofors and the exit of V.P. Singh",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "BOFORS SCANDAL -> breaks in 1987; wrecks Rajiv Gandhi's \"Mr Clean\" image",
+            "V.P. SINGH -> exits Congress; forms the JAN MORCHA, 1987",
+            "NEXT STEP -> JANATA DAL / NATIONAL FRONT formed, 1988",
+            "OUTCOME -> Congress's own clean-government idiom turned against it"
+          ],
+          "source_references": [
+            "Bofors and V.P. Singh's exit"
+          ]
+        },
+        {
+          "title": "1989: fragmentation of the party system",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONGRESS -> falls from the 1984 record to about 197 seats",
+            "BJP -> rises from 2 seats (1984) to 86 seats (1989)",
+            "GOVERNMENT -> V.P. Singh's National Front, a MINORITY government",
+            "SUPPORT -> from OUTSIDE, by both the BJP and the Left"
+          ],
+          "source_references": [
+            "The 1989 election and party-system fragmentation"
+          ]
+        },
+        {
+          "title": "Mandal, 1990: the caste axis",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "COMMISSION -> Mandal Commission recommendations implemented, 1990",
+            "QUOTA -> 27 per cent reservation for OBCs in central government jobs",
+            "TOTAL -> reservation moves toward about 49.5 per cent with SC/ST quotas",
+            "EFFECT -> nationwide agitation; OBC identity becomes an organised bloc"
+          ],
+          "source_references": [
+            "The Mandal Commission, 1990"
+          ]
+        },
+        {
+          "title": "Mandir, 1990: the religious axis",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MOBILISATION -> Advani's rath yatra, 1990, intensifies Ayodhya agitation",
+            "PARALLEL -> runs alongside, and competes with, the Mandal announcement",
+            "CULMINATION -> Babri Masjid demolished, 6 DECEMBER 1992",
+            "EFFECT -> Hindutva mobilisation becomes a national electoral force"
+          ],
+          "source_references": [
+            "Advani's rath yatra and the Babri Masjid demolition"
+          ]
+        },
+        {
+          "title": "System-change engine: 1984 to 1999",
+          "structural_type": "flow",
+          "ascii_lines": [
+            "1984 -> single-party record majority",
+            "1985-89 -> identity misjudgements plus Bofors erode support; 1989 fragments",
+            "1990 -> Mandal (caste) and Mandir (religion) mobilise differently",
+            "1991-99 -> crisis-led reform, then coalition government as the normal form"
+          ],
+          "source_references": [
+            "The system-change engine, 1984-1999"
+          ]
+        },
+        {
+          "title": "1991: the economic break",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "GOVERNMENT -> Narasimha Rao takes office, 1991",
+            "POLICY -> economic liberalisation, Manmohan Singh as Finance Minister",
+            "TRIGGER -> a balance-of-payments crisis, not a prior political consensus",
+            "CONCURRENT -> Rajiv Gandhi assassinated during the same election campaign"
+          ],
+          "source_references": [
+            "1991: the economic break"
+          ]
+        },
+        {
+          "title": "The coalition decade, 1996-99",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1996 -> a short BJP government under Atal Bihari Vajpayee",
+            "1996-98 -> United Front governments, Deve Gowda then Gujral",
+            "1998 -> National Democratic Alliance (NDA) formed, under Vajpayee",
+            "1999 -> the NDA consolidated after the general election"
+          ],
+          "source_references": [
+            "The coalition decade, 1996-1999"
+          ]
+        },
+        {
+          "title": "Comparative cleavages: Mandal versus Mandir",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AXIS      | MANDAL              | MANDIR",
+            "CLEAVAGE  | caste                | religion",
+            "YEAR      | 1990                 | 1990 (yatra), 1992 (demolition)",
+            "RESULT    | crossing lines; neither yields a national majority alone"
+          ],
+          "source_references": [
+            "Comparative cleavages: Mandal versus Mandir"
+          ]
+        },
+        {
+          "title": "Three-transitions thesis",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "TRANSITION 1 -> single-party majority to coalition government",
+            "TRANSITION 2 -> state-led planning to a liberalised economy",
+            "TRANSITION 3 -> Congress cross-class consensus to caste/religious identity",
+            "VERDICT -> the interaction of the three explains the decade best"
+          ],
+          "source_references": [
+            "The three-transitions thesis, 1989-1999"
+          ]
+        }
+      ]
+    }
+  ]
+}

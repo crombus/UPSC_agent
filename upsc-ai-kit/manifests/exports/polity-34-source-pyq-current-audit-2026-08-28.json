@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-34",
+  "control_date": "2026-08-28",
+  "approval": false,
+  "primary_sources": [
+    "Cabinet Resolution 1 January 2015",
+    "NITI official objectives/composition/programme pages",
+    "dated Cabinet and PIB releases"
+  ],
+  "status_controls": [
+    "executive non-constitutional non-statutory",
+    "no independent allocation power",
+    "composition notification-sensitive",
+    "indices and meetings do not prove outcomes"
+  ],
+  "pyq_count": 2
+}

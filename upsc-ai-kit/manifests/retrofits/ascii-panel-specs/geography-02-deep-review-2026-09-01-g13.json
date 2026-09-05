@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-02",
+      "display_title": "The Earth's Crust, Rocks / India Geological Structure",
+      "active_generation": 13,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Crust, lithosphere and the rock-cycle network",
+          "structural_type": "process-system-overview",
+          "source_references": [
+            "{'sessions': [1, 2, 3], 'sections': ['BASIC LEARNING SESSION', 'Rapid register - crust, rocks and dynamics'], 'markdown_lines': ['55-247', '3267-3274']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+---------------- EARTH MATERIAL SYSTEM ----------------+\n| mineral -> rock -> lithology -> petrology -> geology   |\n+---------------------------------------------------------+\nCrust = compositional shell\nLithosphere = crust + rigid uppermost mantle\nAsthenosphere = weaker mechanical layer below\n                         |\n                    ROCK-CYCLE NETWORK\n       +-----------------+------------------+\n       |                                    |\n magma --crystallisation--> IGNEOUS          |\n       |                    |                |\n       |            weathering + transport  |\n       |                    v                |\n       +<---- melting -- METAMORPHIC <-- SEDIMENTARY\n                         ^              |\n                 heat + pressure   compaction + cementation\n                         |\n                 uplift and exposure reconnect all paths\n\nThe cycle is a network: no rock family has one compulsory next stage.\nMUST REMEMBER: Crustal analysis connects seismic evidence, compositional and rheological\n  layers, rock cycle, plate boundaries and Wilson-cycle logic to India's cratons, mobile\n  belts, Gondwana basins, Deccan volcanics, Himalaya and Indo-Gangetic foredeep."
+        },
+        {
+          "title": "Igneous, sedimentary and metamorphic diagnostic matrix",
+          "structural_type": "classification-table",
+          "source_references": [
+            "{'sessions': [4, 5, 6, 7], 'sections': ['BASIC LEARNING SESSION', 'Rapid register - crust, rocks and dynamics'], 'markdown_lines': ['248-514', '3271-3278']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+--------------+----------------------+---------------------------+\n| FAMILY       | PROCESS              | FIELD CLUES               |\n+--------------+----------------------+---------------------------+\n| Igneous      | magma/lava cooling   | crystals, glass, vesicles |\n| intrusive    | slow cooling         | coarse texture            |\n| extrusive    | fast cooling         | fine or glassy texture    |\n| Sedimentary  | deposit + lithify    | beds, fossils, ripples    |\n| Metamorphic  | solid-state change   | grade, new minerals       |\n| foliated     | differential stress  | aligned fabric            |\n+--------------+----------------------+---------------------------+\nComposition pairs:\ngranite-rhyolite = felsic | diorite-andesite = intermediate\ngabbro-basalt = mafic\n\nFIREWALLS\nbedding is not foliation | loess and moraine are deposits until lithified\nporosity is void space | permeability is connected flow capacity"
+        },
+        {
+          "title": "From continental drift to plate tectonics and Wilson-cycle closure",
+          "structural_type": "causal-chain-with-evidence-branches",
+          "source_references": [
+            "{'sessions': [8, 9, 10, 11, 12], 'sections': ['BASIC LEARNING SESSION', 'Rapid register - crust, rocks and dynamics'], 'markdown_lines': ['515-821', '3278-3281']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "WEGENER'S DRIFT CLAIM\n   |\n   +-> shelf-edge fit      +-> matching rocks and fossils\n   +-> palaeoclimate       +-> later palaeomagnetic support\n   |\nlimitation: no adequate driving mechanism\n   |\nSEA-FLOOR SPREADING\nridge creation -> magnetic stripes -> older/deeper floor outward\n   |                                      |\n   +---------------- trench destruction --+\n                         |\n                  PLATE TECTONICS\n      +------------------+-------------------+\n      |                  |                   |\ndivergence          subduction           transform\ncreates crust       destroys oceanic     conserves crust\n      |                  |                   |\nridge/rift          trench + arc          shallow quakes\n                         |\nrift -> narrow sea -> ocean -> subduction -> collision -> suture\n                         |\nWilson cycle is an analogy, not a compulsory destiny for every ocean."
+        },
+        {
+          "title": "Indian Plate journey and the three-part geological skeleton",
+          "structural_type": "tectonic-cross-section-and-timeline",
+          "source_references": [
+            "{'sessions': [13, 14, 15, 16, 17], 'sections': ['BASIC LEARNING SESSION', \"Rapid register - India's geological architecture\"], 'markdown_lines': ['822-1253', '3282-3288']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "Gondwana rifting -> northward Indian Plate drift -> Tethys closure\n                                             |\n                                   India-Eurasia collision\n                                             |\n        +--------------------+---------------+-------------------+\n        |                    |                                   |\n ancient Peninsula     Himalayan fold-thrust belt       foreland basin\n cratons + belts       shortening + thickening          flexure + sediment\n        |                    |                                   |\n stable framework      continuing uplift/seismicity      Indo-Ganga-Brahmaputra\n\nNORTH-SOUTH EXAM CROSS-SECTION\nTethyan / Greater / Lesser / Siwalik Himalaya -> foreland alluvium\n              -> Peninsular cratons, rifts, basins and Deccan cover\n\nEVIDENCE LADDER\nsuperposition -> cross-cutting -> unconformity -> fossil correlation\n              -> radiometric event age -> palaeomagnetism -> geophysics\n\nStable Peninsula means relatively stable, not uniform, flat or aseismic."
+        },
+        {
+          "title": "Indian rock systems, basins and resource associations",
+          "structural_type": "chronology-resource-matrix",
+          "source_references": [
+            "{'sessions': [18, 19, 20, 21, 22], 'sections': ['BASIC LEARNING SESSION', \"Rapid register - India's geological architecture\"], 'markdown_lines': ['1254-1703', '3288-3295']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+------------------+-------------------------+----------------------+\n| SYSTEM           | INDIAN EXPRESSION       | SAFE ASSOCIATION     |\n+------------------+-------------------------+----------------------+\n| Archaean/Dharwar | gneiss + supracrustals  | process-specific ore |\n| Proterozoic      | Cuddapah, Vindhyan      | stone; bounded ores  |\n| Gondwana         | faulted inland basins   | coal, not universal  |\n| Marine basins    | coasts and offshore     | petroleum potential  |\n| Deccan Trap      | stacked flood basalts   | soil, stone, water   |\n+------------------+-------------------------+----------------------+\n\nGONDWANA BASINS: Damodar | Son-Mahanadi | Satpura | Godavari\nPETROLEUM SYSTEM:\nsource -> maturation -> migration -> reservoir -> seal -> trap -> timing\nDECCAN ARCHITECTURE:\nflow top / vesicles / fractures / weathered contact / dense flow interior\n\nAssociation is not determinism: grade, preservation, exploration,\ntechnology, economics and environmental limits decide usable resources."
+        },
+        {
+          "title": "Himalaya, foreland, coasts, islands and structural controls",
+          "structural_type": "india-regional-map-hierarchy",
+          "source_references": [
+            "{'sessions': [23, 24, 25, 26, 27], 'sections': ['BASIC LEARNING SESSION', \"Rapid register - India's geological architecture\"], 'markdown_lines': ['1704-2157', '3293-3299']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "                         HIMALAYA\n collision orogen: HFT/MFT -> MBT -> MCT -> suture framework\n                             |\n                 FORELAND FLEXURE AND FILL\n        Bhabar -> Terai -> bhangar/khadar alluvial expressions\n                             |\n+----------------------------+-------------------------------+\n| PENINSULAR STRUCTURES      | COASTS AND ISLANDS            |\n| Narmada-Son and Tapi rifts | west: rifted-margin sectors   |\n| Cambay and Kachchh         | east: deltaic sediment basins |\n| Godavari rift basin        | Andaman: active island arc    |\n| joints, faults, bedding    | Lakshadweep: coral atolls     |\n+----------------------------+-------------------------------+\n                             |\nstructure guides relief, drainage, waterfalls and groundwater\n                             |\nclimate + erosion + base level + human action modify expression\n\nRift = extensional zone | graben = down-dropped block\nLineament = mapped linear feature, not automatically an active fault."
+        },
+        {
+          "title": "India seismic expression and geology-to-risk translation",
+          "structural_type": "hazard-risk-response",
+          "source_references": [
+            "{'sessions': [28, 29], 'sections': ['BASIC LEARNING SESSION', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['2158-2250', '3297-3301']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "TECTONIC AND INHERITED STRUCTURE\n                |\n       +--------+--------+----------------+\n       |                 |                |\nHimalaya / NE       Andaman arc       Kachchh / Peninsula\nactive collision    subduction        inherited faults/rifts\n       |                 |                |\nstrong shaking      quake + tsunami   intraplate reactivation\n       +--------+--------+----------------+\n                |\nSITE FILTER: alluvium, basin depth, groundwater, slope, construction\n                |\nEXPOSURE + VULNERABILITY - CAPACITY\n                |\n             DISASTER RISK\n\nBIS Zones II-V are broad design generalisations, not predictions.\nGeological association must be followed by site evidence and engineering.\n\nRESPONSE: map -> investigate -> code -> inspect -> retrofit -> prepare."
+        },
+        {
+          "title": "Map-answer and Mains spine for India's geological architecture",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": [
+            "{'sessions': [13, 16, 17, 20, 22, 23, 24, 29], 'sections': ['PYQS AND ANSWER PRACTICE', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['2948-3116', '3364-3383']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "QUESTION: How does geological structure shape India's surface geography?\n                             |\n1. DEFINE: age + composition + rock architecture + tectonic structures\n                             |\n2. DRAW: Himalaya -> foreland plain -> Peninsular shield cross-section\n                             |\n3. SEQUENCE: Gondwana rift -> drift -> collision -> uplift -> sediment fill\n                             |\n4. MAP NAMED UNITS\n   cratons | Purana basins | Gondwana basins | Deccan | coasts | islands\n                             |\n5. LINK PROCESS TO CONSEQUENCE\n   structure -> relief/drainage/water/resource/seismic expression\n                             |\n6. QUALIFY\n   association is not reserve; stable is not aseismic; alluvium has structure\n                             |\n7. VERDICT\n   inherited geology is filtered through tectonics, climate, erosion and use\n\nAnswer order: thesis -> map -> evidence -> mechanism -> India example\n              -> limitation -> graded conclusion."
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Sedimentary characteristics: derived from pre-existing rock (igneous...",
+            "3. Quartzite Sandstone Hard; source rock easily identified",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Evidence tags: [FACT] directly retrieved or officially verified...",
+            "2. Causal method Initial condition -> energy/force or driver ->...",
+            "3. [LIMIT] No volatile reserve percentage, unsupported plate rate,...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTION: Crust is compositional while lithosphere is mechanical; continental crust",
+            "  is generally granitic and less dense, oceanic crust basaltic and denser, and a shield,",
+            "  craton, platform, basin and plate are not interchangeable map units."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Learner-v2 generation g2 Part A - Physical Geography Prelims GS-I +...",
+            "2. Practice contract Every solved item has demand decoding, a detailed...",
+            "3. Geological Survey of India/PIB - Field Season 2025-26 conclusion and...",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "EVIDENCE LIMIT: Present relief is a multi-stage tectonic-denudational product; rock age,",
+            "  orogeny, mineralisation and surface form need not coincide, so geological association",
+            "  supports probability rather than deterministic resource claims."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Sedimentary characteristics: derived from pre-existing rock (igneous...",
+            "3. Quartzite Sandstone Hard; source rock easily identified",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g13\\geography-02_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

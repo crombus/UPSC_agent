@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-15",
+      "display_title": "Solid Plastic and E-Waste Rules",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-15_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three-stream firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SOLID WASTE -> municipal generation, segregation and local services",
+            "PLASTIC WASTE -> product and packaging controls plus EPR",
+            "E-WASTE -> electrical and electronic end-of-life chain",
+            "COMMON PARENT -> Environment Protection Act framework",
+            "RULE -> separate streams remain legally distinct"
+          ],
+          "source_references": [
+            "Separate waste streams",
+            "Rule-vintage discipline"
+          ]
+        },
+        {
+          "title": "Rule-vintage ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BASE RULE -> identify notification",
+            "AMENDMENT -> identify changed provision and date",
+            "GUIDELINE OR SOP -> implementation instruction",
+            "PORTAL PROCEDURE -> digital compliance workflow",
+            "CURRENT CLAIM -> verify all later changes"
+          ],
+          "source_references": [
+            "Rule-vintage discipline"
+          ]
+        },
+        {
+          "title": "Municipal responsibility map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GENERATOR -> segregate and hand over",
+            "BULK GENERATOR -> additional applicable duties",
+            "ULB -> collection and processing system",
+            "OPERATOR -> run authorised facility",
+            "SPCB OR PCC -> authorisation and monitoring"
+          ],
+          "source_references": [
+            "Waste-generator duty",
+            "ULB solid-waste role"
+          ]
+        },
+        {
+          "title": "Segregation-to-disposal chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PREVENT OR REDUCE -> avoid waste",
+            "SEGREGATE -> preserve recoverable streams",
+            "COLLECT AND TRANSPORT -> move without remixing",
+            "RECOVER OR TREAT -> process by stream",
+            "RESIDUE -> safe final disposal"
+          ],
+          "source_references": [
+            "Segregation boundary",
+            "Processing hierarchy"
+          ]
+        },
+        {
+          "title": "Plastic actor matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PRODUCER -> covered product or packaging responsibility",
+            "IMPORTER -> covered imported product responsibility",
+            "BRAND OWNER -> branded packaging responsibility",
+            "PROCESSOR -> authorised end-of-life activity",
+            "ULB -> municipal service role, not automatic EPR substitute"
+          ],
+          "source_references": [
+            "Plastic actor map",
+            "Plastic processor role",
+            "Importer responsibility"
+          ]
+        },
+        {
+          "title": "Ban-versus-EPR gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "IDENTIFIED ITEM -> test the exact restriction and vintage",
+            "PLASTIC PACKAGING -> test EPR category and obligation",
+            "OTHER PRODUCT -> do not infer ban from plastic content",
+            "MATERIAL FACT -> composition question",
+            "LEGAL FACT -> rule-specific classification"
+          ],
+          "source_references": [
+            "Item ban and packaging EPR",
+            "Plastic material boundary"
+          ]
+        },
+        {
+          "title": "EPR evidence ladder",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "OBLIGATION OR TARGET -> legal requirement",
+            "REGISTRATION -> actor enters portal",
+            "CERTIFICATE -> compliance instrument",
+            "REPORTED THROUGHPUT -> claimed processing",
+            "VERIFIED RECOVERY -> physical outcome evidence"
+          ],
+          "source_references": [
+            "EPR obligation boundary",
+            "Certificate and throughput"
+          ]
+        },
+        {
+          "title": "Processor audit gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "REGISTRATION -> formal eligibility",
+            "INPUT RECORD -> material received",
+            "PROCESS RECORD -> actual authorised operation",
+            "OUTPUT AND RESIDUE -> destination and safe handling",
+            "AUDIT -> quantity and outcome require verification"
+          ],
+          "source_references": [
+            "Plastic processor role"
+          ]
+        },
+        {
+          "title": "E-waste actor chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MANUFACTURER OR IMPORTER -> product enters market",
+            "PRODUCER -> EPR-side responsibility",
+            "CONSUMER OR BULK CONSUMER -> channelisation duty",
+            "REFURBISHER -> life extension where applicable",
+            "RECYCLER -> authorised material recovery"
+          ],
+          "source_references": [
+            "E-waste actor map",
+            "Importer responsibility"
+          ]
+        },
+        {
+          "title": "Formal-informal integration map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INFORMAL COLLECTOR -> reach and livelihood",
+            "UNSAFE DISMANTLING -> exposure and pollution risk",
+            "AUTHORISED FACILITY -> controlled processing route",
+            "INTEGRATION -> recognition, safety and traceability",
+            "VERDICT -> formalise processing without erasing livelihoods"
+          ],
+          "source_references": [
+            "Authorised channelisation",
+            "Informal-sector integration"
+          ]
+        },
+        {
+          "title": "Stock-flow and technology matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CURRENT WASTE FLOW -> EPR and collection controls",
+            "LEGACY DUMP OR SITE -> remediation problem",
+            "RECYCLING -> material recovery route",
+            "THERMAL OR CHEMICAL ROUTE -> feedstock and emission conditions",
+            "NO UNIVERSAL WINNER -> compare complete mass and residue balance"
+          ],
+          "source_references": [
+            "Legacy stock versus new flow",
+            "Technology boundary"
+          ]
+        },
+        {
+          "title": "Waste-governance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> stream, material and rule vintage",
+            "ASSIGN -> generator, ULB, producer, importer and processor",
+            "TRACE -> segregation, collection, processing and residue",
+            "VERIFY -> obligation, certificate, throughput and recovery",
+            "QUALIFY -> informal sector, legacy stock, technology and PYQ limits"
+          ],
+          "source_references": [
+            "Audited evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

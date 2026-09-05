@@ -24,6 +24,15 @@ relevant `skills/*/SKILL.md` file(s) and the `knowledge/` files for the subject 
 6. **Anti-bias MCQs.** Rotate the correct option A→B→C→D. Never repeat the same correct option
    twice in a row. Before finalising any MCQ, verify the stem/options don't give away the answer;
    for ordering questions strip years/dates from options; verify each statement independently.
+7. **Export from a content ledger, not from layout alone.** Before generating a complete topic
+   package, reconcile the official syllabus, Core owner, Advanced owner, PYQ ledger and verified
+   current sources. Every syllabus-owned or PYQ-essential concept belongs in Core; Optional
+   Advanced may deepen a complete answer but must never repair a Core omission.
+8. **Treat the four export artifacts as one assessed package.** The complete learning session,
+   solved workbook, graphical flowchart and ASCII master must agree factually and collectively
+   cover definitions, mechanisms, chronology/origin, comparisons, objections/replies, traps,
+   PYQ routes, answer lines and a qualified conclusion. Do not mark an export complete from file
+   presence or rendering alone.
 
 ---
 

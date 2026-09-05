@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-26",
+  "controlled_on": "2026-08-28",
+  "sources": [
+    {
+      "authority": "Legislative Department",
+      "scope": "Constitution Articles 244, 244A, 275, 339, 342 and Fifth/Sixth Schedules"
+    },
+    {
+      "authority": "Ministry of Tribal Affairs",
+      "scope": "Scheduled Areas, criteria and Governor reports"
+    },
+    {
+      "authority": "Ministry of Panchayati Raj",
+      "scope": "PESA Act and State rules listing, including Jharkhand 2025"
+    },
+    {
+      "authority": "India Code",
+      "scope": "PESA 1996 and FRA 2006"
+    },
+    {
+      "authority": "Supreme Court of India",
+      "scope": "Samatha (1997) and Orissa Mining Corporation (2013)"
+    },
+    {
+      "authority": "Ministry of Home Affairs",
+      "scope": "Ladakh High-Powered Committee; no Sixth-Schedule grant located"
+    }
+  ],
+  "limits": [
+    "Current lists are date-controlled.",
+    "OMC left the final environmental-clearance decision with MoEF after Gram Sabha determination of protected claims.",
+    "Samatha is stated with its State-law foundation and no unqualified nationwide rule."
+  ]
+}

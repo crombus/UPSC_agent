@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "id": "modern-indian-history-01-02-learner-v2-2026-08-30",
+  "selection": "modern-indian-history-01-02",
+  "tracker_updated": false,
+  "record_count": 2,
+  "records": [
+    {
+      "record_id": "modern-indian-history-01:learner-v2:g2",
+      "topic_key": "modern-indian-history-01",
+      "variant": "learner-v2",
+      "generation": 2,
+      "supersedes": "modern-indian-history-01:legacy-v1:g1",
+      "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — Decline of the Mughal Empire (1707–1740s)",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\modern-indian-history-01_Complete-Learning-Session_2026-08-30.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\modern-indian-history-01_Solved-Practice-Workbook_2026-08-30.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\modern-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\modern-indian-history-01_Solved-Practice-Workbook_2026-08-30.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\assets",
+      "generated_on": "2026-08-30",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+        ],
+        "official_question_sources": [
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+        ],
+        "local_ocr_sources": [
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf",
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf"
+        ],
+        "live_sources": [
+          "https://asi.nic.in/pages/WorldHeritageRedFort",
+          "https://whc.unesco.org/en/list/231/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\modern-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-08-30",
+        "superseded_v1": "modern-indian-history-01:legacy-v1:g1",
+        "source_hashes": {
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf": "dd2296588b681bc6a1ac98569861188149e56d8d11468ff07b26a9ebd35102b7",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf": "bf0e7fe8dbd739efd925ddb1eee4433d4b0dc17aabc71ae68483f40ed864cd03",
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf": "7e67395d871f52df0d1f54d8e0c899d14acfe4462ada6b095acc99d4242ff49a",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md": "9676f766ceea282b8c7583741a0bbad4cec890e75924cebb8cd94fab81af9e1e",
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md": "baabf29c5901c7ff19af4f1fc8a864f95e3272d71ae008806e0f2921e8c030e5",
+          "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package_2026-08-09.pdf": "aa72f9d33c5641b16ed708541117a464cec5f3220fbb0e61bd6a912cc69181ee",
+          "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Solved-Workbook_2026-08-09.pdf": "0f38fc689fdd2217bb0c0ce84b37bf2014688ae87affbc8bfbe7dec85ce7f774",
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package.md": "fc388a1afdac80b2ff58af1d10522fcc53b63c43b77237fe275585138e04b291",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md": "f84178e73b5a3f617d7ac455ca5c15872f7dc2d12d19bad9b1c6319227a19f57",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md": "0826d60e4ac31057d16039d97aa0f57c64d1b0221792dc8517990f5cd5e961a7",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-01_Learning-Session.md": "a1b98b17b884aecf28e6f72d8711247524fd6a2368be4c0541c8cf6519f6c04b",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md": "43542caece514b70597d61be1b0963a4bcb0d8ee998fc4e2e65d5746147f7b5b",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-01-02-2026-08-30-sequential.json": "164954aa16b40eacfe3b86c0dcf9add6b6eac77694d67edd6bd9b4fe8664d8bc",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\modern-indian-history-01.json": "c14191d7958cbae8102c6c9156ac5df148a1390d138f0d4573e95e19aab1e9fe",
+          "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json": "f008dd53ed92217d76dbc92f94e75ff67a2025fdff11dcdf1ffaa9b9619e93fe",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 independently worded MCQs; strict A-B-C-D repeated 20 times; canonical PYQ provenance retained.",
+        "current_linkage_note": "The ASI and UNESCO Red Fort records are used only as a bounded material-heritage bridge for institutional and symbolic continuity. They do not establish the causes of Mughal political contraction or disputed numerical claims about the 1739 sack.",
+        "pyq_status_note": "Verified local provenance is preserved; unavailable official keys remain inferred and no direct UPSC wording is fabricated.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "3a5cd454e5c4c63018f87f1aa6c13c904785db3f75d5015c504c69e3aa75683e"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "modern-indian-history-01:learner-v2:g2"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-30",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2",
+        "master_image": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-01\\modern-indian-history-01_Graphical-Spec-g2.json",
+        "graphical_spec_sha256": "3496fca5ba155415c871f02ae5b64605f09ae3bc16d814e0e345532ab1b8038e",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-01\\carvaka-g2\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-01-02-2026-08-30-sequential.json",
+        "ascii_master_spec_sha256": "164954aa16b40eacfe3b86c0dcf9add6b6eac77694d67edd6bd9b4fe8664d8bc"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    },
+    {
+      "record_id": "modern-indian-history-02:learner-v2:g2",
+      "topic_key": "modern-indian-history-02",
+      "variant": "learner-v2",
+      "generation": 2,
+      "supersedes": "modern-indian-history-02:legacy-v1:g1",
+      "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\modern-indian-history-02_Complete-Learning-Session_2026-08-30.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\modern-indian-history-02_Solved-Practice-Workbook_2026-08-30.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\modern-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\modern-indian-history-02_Solved-Practice-Workbook_2026-08-30.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\assets",
+      "generated_on": "2026-08-30",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+        ],
+        "official_question_sources": [
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+        ],
+        "local_ocr_sources": [
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf",
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf"
+        ],
+        "live_sources": [
+          "https://whc.unesco.org/en/list/1739/",
+          "https://whc.unesco.org/en/list/1338/",
+          "https://amritsar.nic.in/tourist-place/gobindgarh-fort/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\modern-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-08-30",
+        "superseded_v1": "modern-indian-history-02:legacy-v1:g1",
+        "source_hashes": {
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf": "dd2296588b681bc6a1ac98569861188149e56d8d11468ff07b26a9ebd35102b7",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf": "bf0e7fe8dbd739efd925ddb1eee4433d4b0dc17aabc71ae68483f40ed864cd03",
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf": "7e67395d871f52df0d1f54d8e0c899d14acfe4462ada6b095acc99d4242ff49a",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md": "9676f766ceea282b8c7583741a0bbad4cec890e75924cebb8cd94fab81af9e1e",
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md": "baabf29c5901c7ff19af4f1fc8a864f95e3272d71ae008806e0f2921e8c030e5",
+          "notes\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Complete-Topic-Package_2026-08-14.pdf": "aec11085b3206786a839ce01d4a00fdb481e7ec82d00e651fcfff75bbf89436b",
+          "notes\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Solved-Workbook_2026-08-14.pdf": "721bc9135261ab8879959988ec6e179158e0f0f813a86ab0e564fff40f39d944",
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\02_Indian-States-Society-18th-Century_Complete-Topic-Package.md": "44644009060bb0f15cdb09de9aa914fa6a2f276c22e4c5df68217159b547ceaf",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md": "ad2b5524ceb57ee05853e2e853b8ac77c4aa64fabf67e9d591d6314c03275638",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md": "d045fee7b80f6e54a5847a150e2cc5227377096fd865ade77358f3981b8c1ba9",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-02_Learning-Session.md": "aa5ad3352345df505ad4cce6c255888350660a948b46a043f5a82d37da60fbde",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md": "43542caece514b70597d61be1b0963a4bcb0d8ee998fc4e2e65d5746147f7b5b",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-01-02-2026-08-30-sequential.json": "164954aa16b40eacfe3b86c0dcf9add6b6eac77694d67edd6bd9b4fe8664d8bc",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\modern-indian-history-02.json": "5a4f0a190c3fc1ad3bd2454337b895c4c8e7ed25db98eeb1bba6fbbf95e78629",
+          "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json": "f008dd53ed92217d76dbc92f94e75ff67a2025fdff11dcdf1ffaa9b9619e93fe",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 independently worded MCQs; strict A-B-C-D repeated 20 times; canonical PYQ provenance retained.",
+        "current_linkage_note": "The 2025 UNESCO inscription of the Maratha Military Landscapes, UNESCO's Jantar Mantar record and the District Amritsar Gobindgarh Fort page are bounded heritage links for fort networks, scientific patronage and layered reuse. They do not prove uniform prosperity, political causation or the meaning of every eighteenth-century site.",
+        "pyq_status_note": "Verified local provenance is preserved; unavailable official keys remain inferred and no direct UPSC wording is fabricated.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "3a5cd454e5c4c63018f87f1aa6c13c904785db3f75d5015c504c69e3aa75683e"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "modern-indian-history-02:learner-v2:g2"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-30",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2",
+        "master_image": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-02\\modern-indian-history-02_Graphical-Spec-g2.json",
+        "graphical_spec_sha256": "c1f9a368084c72cddbbc5460c89b8a2a42dc8039b4ed474a3616de9d93e99e87",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-02\\carvaka-g2\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-01-02-2026-08-30-sequential.json",
+        "ascii_master_spec_sha256": "164954aa16b40eacfe3b86c0dcf9add6b6eac77694d67edd6bd9b4fe8664d8bc"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

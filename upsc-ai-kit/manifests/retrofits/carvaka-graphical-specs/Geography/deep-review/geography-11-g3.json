@@ -1,0 +1,1097 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-11",
+  "subject": "Geography",
+  "title": "ISLANDS AND CORAL REEFS / INDIA ISLANDS-GREAT NICOBAR",
+  "short_route": "ISLAND-ORIGIN TREE → REEF-BUILDING ENGINE → REEF-TYPE CROSS-SECTION → DARWIN SEQUENCE → DALY QUALIFICATION → BLEACHING OUTCOME FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-11-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "177ad73dc8a778d840795e0d1ce186998b2b728ad634d2c9857289757a39182c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ISLAND-ORIGIN TREE",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISLAND-ORIGIN TREE",
+          "role": "primary"
+        },
+        {
+          "text": "CRUST OR SHELF AFFINITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MAGMA BUILDS OCEANIC EDIFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "REEF CARBONATE + WAVE-BUILT SEDIMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "RIVER, CURRENT OR BARRIER ACCUMULATION",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "ISLAND ANALYSIS DISTINGUISHES CONTINENTAL, VOLCANIC, CORAL AND DEPOSITIONAL ORIGINS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONTINENTAL → crust or shelf affinity",
+        "VOLCANIC → magma builds oceanic edifice",
+        "CORAL → reef carbonate + wave-built sediment",
+        "DEPOSITIONAL → river, current or barrier accumulation",
+        "MUST REMEMBER: Island analysis distinguishes continental, volcanic, coral and depositional origins"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONTINENTAL → crust or shelf affinity",
+            "VOLCANIC → magma builds oceanic edifice"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORAL → reef carbonate + wave-built sediment",
+            "DEPOSITIONAL → river, current or barrier accumulation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Island analysis distinguishes continental, volcanic, coral and depositional origins",
+            "reef-building follows light, temperature, salinity, substrate and symbiosis, with fringing–barrier–atoll sequences compared against Lakshadweep and Andaman-Nicobar tectonic settings."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Island analysis distinguishes continental, volcanic, coral and depositional origins; reef-building follows light, temperature, salinity, substrate and symbiosis, with fringing–barrier–atoll sequences compared against Lakshadweep and Andaman-Nicobar tectonic settings.",
+      "source_references": [
+        "Island origin classes",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REEF-BUILDING ENGINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REEF-BUILDING ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "CALCIUM-CARBONATE SKELETON",
+          "role": "outcome"
+        },
+        {
+          "text": "PHOTOSYNTHETIC SYMBIOSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "LIGHT + CLEAR WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "REEF PRODUCTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "SEDIMENT STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "BLEACHING OR DECLINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLYP → calcium-carbonate skeleton",
+        "ZOOXANTHELLAE → photosynthetic symbiosis",
+        "LIGHT + CLEAR WATER → reef productivity",
+        "HEAT / SEDIMENT STRESS → bleaching or decline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POLYP → calcium-carbonate skeleton",
+            "ZOOXANTHELLAE → photosynthetic symbiosis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIGHT + CLEAR WATER → reef productivity",
+            "HEAT / SEDIMENT STRESS → bleaching or decline"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLYP → calcium-carbonate skeleton",
+            "ZOOXANTHELLAE → photosynthetic symbiosis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HEAT / SEDIMENT STRESS → bleaching or decline.",
+      "source_references": [
+        "Coral polyp and reef metabolism",
+        "Coral growth conditions",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REEF-TYPE CROSS-SECTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REEF-TYPE CROSS-SECTION",
+          "role": "primary"
+        },
+        {
+          "text": "SHORE CONTACT + NARROW LAGOON",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFSHORE REEF + BROAD LAGOON",
+          "role": "comparison"
+        },
+        {
+          "text": "RING REEF AROUND LAGOON",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND RELATION, LAGOON AND FOUNDATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FRINGING → shore contact + narrow lagoon",
+        "BARRIER → offshore reef + broad lagoon",
+        "ATOLL → ring reef around lagoon",
+        "TEST → land relation, lagoon and foundation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FRINGING → shore contact + narrow lagoon",
+          "ATOLL → ring reef around lagoon",
+          "FRINGING → shore contact + narrow lagoon"
+        ],
+        [
+          "BARRIER → offshore reef + broad lagoon",
+          "TEST → land relation, lagoon and foundation",
+          "BARRIER → offshore reef + broad lagoon"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FRINGING → shore contact + narrow lagoon",
+            "BARRIER → offshore reef + broad lagoon"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ATOLL → ring reef around lagoon",
+            "TEST → land relation, lagoon and foundation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FRINGING → shore contact + narrow lagoon",
+            "BARRIER → offshore reef + broad lagoon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ATOLL → ring reef around lagoon; TEST → land relation, lagoon and foundation.",
+      "source_references": [
+        "Fringing reef anatomy",
+        "Barrier reef anatomy",
+        "Atoll and lagoon",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DARWIN SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DARWIN SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "VOLCANIC ISLAND + FRINGING REEF",
+          "role": "outcome"
+        },
+        {
+          "text": "SLOW SUBSIDENCE + UPWARD CORAL GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "BARRIER REEF + WIDER LAGOON",
+          "role": "evidence"
+        },
+        {
+          "text": "ISLAND SUBMERGED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "VOLCANIC ISLAND + FRINGING REEF",
+        "SLOW SUBSIDENCE + UPWARD CORAL GROWTH",
+        "BARRIER REEF + WIDER LAGOON",
+        "ISLAND SUBMERGED → ATOLL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VOLCANIC ISLAND + FRINGING REEF",
+            "SLOW SUBSIDENCE + UPWARD CORAL GROWTH"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BARRIER REEF + WIDER LAGOON",
+            "ISLAND SUBMERGED → ATOLL"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VOLCANIC ISLAND + FRINGING REEF",
+            "SLOW SUBSIDENCE + UPWARD CORAL GROWTH"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BARRIER REEF + WIDER LAGOON; ISLAND SUBMERGED → ATOLL.",
+      "source_references": [
+        "Darwin and Daly models",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DALY QUALIFICATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DALY QUALIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "GLACIAL SEA-LEVEL FALL",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSED PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "WAVE PLANATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FOUNDATION SHAPING",
+          "role": "primary"
+        },
+        {
+          "text": "POST-GLACIAL RISE",
+          "role": "outcome"
+        },
+        {
+          "text": "RENEWED REEF GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "COMBINE SEA LEVEL, BIOLOGY AND TECTONICS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GLACIAL SEA-LEVEL FALL → exposed platform",
+        "WAVE PLANATION → foundation shaping",
+        "POST-GLACIAL RISE → renewed reef growth",
+        "VERDICT → combine sea level, biology and tectonics"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GLACIAL SEA-LEVEL FALL → exposed platform",
+          "POST-GLACIAL RISE → renewed reef growth",
+          "GLACIAL SEA-LEVEL FALL → exposed platform"
+        ],
+        [
+          "WAVE PLANATION → foundation shaping",
+          "VERDICT → combine sea level, biology and tectonics",
+          "WAVE PLANATION → foundation shaping"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GLACIAL SEA-LEVEL FALL → exposed platform",
+            "WAVE PLANATION → foundation shaping"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POST-GLACIAL RISE → renewed reef growth",
+            "VERDICT → combine sea level, biology and tectonics"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GLACIAL SEA-LEVEL FALL → exposed platform",
+            "WAVE PLANATION → foundation shaping"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → combine sea level, biology and tectonics.",
+      "source_references": [
+        "Darwin and Daly models",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BLEACHING OUTCOME FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BLEACHING OUTCOME FORK",
+          "role": "primary"
+        },
+        {
+          "text": "POLLUTION STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SYMBIONT LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "PALE OR WHITE COLONY",
+          "role": "evidence"
+        },
+        {
+          "text": "STRESS EASES",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBLE RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRESS PERSISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISEASE, MORTALITY, EROSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THERMAL / LIGHT / POLLUTION STRESS",
+        "SYMBIONT LOSS → pale or white colony",
+        "STRESS EASES → possible recovery",
+        "STRESS PERSISTS → disease, mortality, erosion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "THERMAL / LIGHT / POLLUTION STRESS",
+            "SYMBIONT LOSS → pale or white colony"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRESS EASES → possible recovery",
+            "STRESS PERSISTS → disease, mortality, erosion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THERMAL / LIGHT / POLLUTION STRESS",
+            "SYMBIONT LOSS → pale or white colony"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRESS EASES → possible recovery; STRESS PERSISTS → disease, mortality, erosion.",
+      "source_references": [
+        "Bleaching, mortality and recovery",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REEF-SERVICE CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REEF-SERVICE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "REEF COMPLEXITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITAT + FISHERIES",
+          "role": "comparison"
+        },
+        {
+          "text": "REEF CREST",
+          "role": "evidence"
+        },
+        {
+          "text": "WAVE-ENERGY ATTENUATION",
+          "role": "primary"
+        },
+        {
+          "text": "CARBONATE PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ISLAND SEDIMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVELIHOOD + EXPOSURE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REEF COMPLEXITY → habitat + fisheries",
+        "REEF CREST → wave-energy attenuation",
+        "CARBONATE PRODUCTION → island sediment",
+        "DEGRADATION → livelihood + exposure risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REEF COMPLEXITY → habitat + fisheries",
+            "REEF CREST → wave-energy attenuation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CARBONATE PRODUCTION → island sediment",
+            "DEGRADATION → livelihood + exposure risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REEF COMPLEXITY → habitat + fisheries",
+            "REEF CREST → wave-energy attenuation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CARBONATE PRODUCTION → island sediment; DEGRADATION → livelihood + exposure risk.",
+      "source_references": [
+        "Reef ecosystem services and limits",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA ISLAND CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA ISLAND CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "TECTONIC ARC, HIGH RELIEF, SEISMIC SETTING",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW CORAL ATOLLS AND REEFS",
+          "role": "comparison"
+        },
+        {
+          "text": "TEN DEGREE",
+          "role": "evidence"
+        },
+        {
+          "text": "NICOBAR DIVIDE",
+          "role": "primary"
+        },
+        {
+          "text": "NINE DEGREE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAIN LAKSHADWEEP DIVIDE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "A&N → tectonic arc, high relief, seismic setting",
+        "LAKSHADWEEP → low coral atolls and reefs",
+        "TEN DEGREE → Andaman / Nicobar divide",
+        "NINE DEGREE → Minicoy / main Lakshadweep divide"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "A&N → tectonic arc, high relief, seismic setting",
+          "TEN DEGREE → Andaman / Nicobar divide",
+          "A&N → tectonic arc, high relief, seismic setting"
+        ],
+        [
+          "LAKSHADWEEP → low coral atolls and reefs",
+          "NINE DEGREE → Minicoy / main Lakshadweep divide",
+          "LAKSHADWEEP → low coral atolls and reefs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "A&N → tectonic arc, high relief, seismic setting",
+            "LAKSHADWEEP → low coral atolls and reefs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEN DEGREE → Andaman / Nicobar divide",
+            "NINE DEGREE → Minicoy / main Lakshadweep divide"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "A&N → tectonic arc, high relief, seismic setting",
+            "LAKSHADWEEP → low coral atolls and reefs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NINE DEGREE → Minicoy / main Lakshadweep divide.",
+      "source_references": [
+        "Andaman-Nicobar tectonic arc",
+        "Lakshadweep coral system",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GREAT NICOBAR VALUE MAP",
+      "structural_type": "evidence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GREAT NICOBAR VALUE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TECTONIC ISLAND",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTHQUAKE-TSUNAMI EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOSPHERE RESERVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE-BUFFER-TRANSITION LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "REEFS + BEACHES + FORESTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONNECTED HABITATS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIGENOUS COMMUNITIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TECTONIC ISLAND → earthquake-tsunami exposure",
+        "BIOSPHERE RESERVE → core-buffer-transition logic",
+        "REEFS + BEACHES + FORESTS → connected habitats",
+        "INDIGENOUS COMMUNITIES → rights and livelihood"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TECTONIC ISLAND → earthquake-tsunami exposure",
+            "BIOSPHERE RESERVE → core-buffer-transition logic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REEFS + BEACHES + FORESTS → connected habitats",
+            "INDIGENOUS COMMUNITIES → rights and livelihood"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TECTONIC ISLAND → earthquake-tsunami exposure",
+            "BIOSPHERE RESERVE → core-buffer-transition logic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REEFS + BEACHES + FORESTS → connected habitats.",
+      "source_references": [
+        "Great Nicobar biosphere value",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROJECT-STATUS FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROJECT-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PORT + AIRPORT + TOWNSHIP + POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLEARANCE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFEGUARDS TO IMPLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "12 FEB 2026",
+          "role": "primary"
+        },
+        {
+          "text": "FINAL FOREST APPROVAL NOT GRANTED",
+          "role": "caution"
+        },
+        {
+          "text": "OFFICIAL CLAIM IS NOT MEASURED OUTCOME",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROPOSAL → port + airport + township + power",
+        "CLEARANCE CONDITIONS → safeguards to implement",
+        "12 FEB 2026 → final forest approval not granted",
+        "RULE → official claim is not measured outcome",
+        "CLOSE DISTINCTION: Coral island is not coral reef, atoll is not every ring-shaped island, and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROPOSAL → port + airport + township + power",
+            "CLEARANCE CONDITIONS → safeguards to implement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "12 FEB 2026 → final forest approval not granted",
+            "RULE → official claim is not measured outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Coral island is not coral reef, atoll is not every ring-shaped island, and bleaching is stress-driven",
+            "Great Nicobar project components, tribal reserve, biosphere and statutory clearance statuses remain separate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → official claim is not measured outcome.",
+      "source_references": [
+        "Project components and approval status",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ISLAND APPRAISAL GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISLAND APPRAISAL GATE",
+          "role": "primary"
+        },
+        {
+          "text": "STRATEGIC AND ECONOMIC RATIONALE",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARD, FRESHWATER AND CARRYING CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS + CUMULATIVE EFFECTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALTERNATIVES, SAFEGUARDS, MONITORING",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DARWINIAN SUBSIDENCE IS A MODEL, NOT A UNIVERSAL SINGLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NEED → strategic and economic rationale",
+        "PLACE → hazard, freshwater and carrying capacity",
+        "PEOPLE / ECOLOGY → rights + cumulative effects",
+        "DECISION → alternatives, safeguards, monitoring",
+        "EVIDENCE LIMIT: Darwinian subsidence is a model, not a universal single pathway"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NEED → strategic and economic rationale",
+            "PLACE → hazard, freshwater and carrying capacity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PEOPLE / ECOLOGY → rights + cumulative effects",
+            "DECISION → alternatives, safeguards, monitoring"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Darwinian subsidence is a model, not a universal single pathway",
+            "reef condition and project impacts need site/date/source evidence, cumulative-risk analysis and explicit uncertainty rather than benefit-versus-environment binaries."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Darwinian subsidence is a model, not a universal single pathway; reef condition and project impacts need site/date/source evidence, cumulative-risk analysis and explicit uncertainty rather than benefit-versus-environment binaries.",
+      "source_references": [
+        "PYQ reef route and island appraisal",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ISLAND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ISLAND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGIN AND REEF TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARC, ATOLL, CHANNEL AND LAGOON",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAT, HAZARD, RIGHTS AND STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "ISLAND-SPECIFIC AND PRECAUTIONARY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → origin and reef type",
+        "MAP → arc, atoll, channel and lagoon",
+        "ASSESS → heat, hazard, rights and status",
+        "VERDICT → island-specific and precautionary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → origin and reef type",
+            "MAP → arc, atoll, channel and lagoon"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSESS → heat, hazard, rights and status",
+            "VERDICT → island-specific and precautionary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFY → origin and reef type",
+            "MAP → arc, atoll, channel and lagoon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSESS → heat, hazard, rights and status; VERDICT → island-specific and precautionary.",
+      "source_references": [
+        "PYQ reef route and island appraisal",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g3\\geography-11_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARAKAN YOMA EXTENSION; TECTONIC/FOLD-BELT LINK.",
+          "role": "outcome"
+        },
+        {
+          "text": "NICOBAR ISLANDS BELONG TO THE TECTONIC ISLAND ARC AND",
+          "role": "comparison"
+        },
+        {
+          "text": "BARREN ISLAND",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S ONLY ACTIVE VOLCANO.",
+          "role": "primary"
+        },
+        {
+          "text": "VOLCANIC ISLAND; BARREN ISLAND IS INDIA'S ONLY HISTORICALLY ACTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTIRELY CORAL ATOLLS IN ARABIAN SEA.",
+          "role": "comparison"
+        },
+        {
+          "text": "A&N REGION LIES IN A MAJOR EARTHQUAKE ZONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Andaman = Arakan Yoma extension; tectonic/fold-belt link.",
+            "Nicobar islands belong to the tectonic island arc and are fringed by coral reefs; they are not simply coral atolls.",
+            "Barren Island = India's only active volcano.",
+            "Narcondam = volcanic island; Barren Island is India's only historically active volcano."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Lakshadweep = entirely coral atolls in Arabian Sea.",
+            "A&N region lies in a major earthquake zone.",
+            "Saddle Peak is in North Andaman and is the archipelago's highest point.",
+            "NOT: Lakshadweep is volcanic like Barren Island → Lakshadweep is coral/atoll ; Barren Island is volcanic."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NOT: Andaman Islands are coral like Lakshadweep → Andamans are linked to the Arakan Yoma fold chain .",
+            "NOT: Narcondam is India's active volcano → Barren Island is active; Narcondam is dormant.",
+            "NOT: Bay of Bengal and Arabian Sea islands have the same origin → Bay islands are tectonic/volcanic/coral mix; Lakshadweep is coral.",
+            "NOT: Island geography is only physical → Indian islands also have strategic, ecological and disaster-risk dimensions."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

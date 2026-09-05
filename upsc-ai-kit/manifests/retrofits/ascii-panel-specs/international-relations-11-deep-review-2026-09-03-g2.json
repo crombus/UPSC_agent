@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "international relations-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "international relations_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-11",
+      "display_title": "Globalisation, Trade Agreements and External-Policy Effects",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Central question and the co-presence answer",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CENTRAL QUESTION -> has globalisation ended or is it being contested?",
+            "ANSWER -> waning, not ended; integration and control operate together",
+            "GLOBALISATION -> trade, capital, technology and information integration",
+            "SOVEREIGN NATIONALISM -> national control over trade, technology, borders",
+            "  and strategic industries: protectionism, export controls, buy-national policy",
+            "RELATION -> co-present forces of differing strength across sectors and states",
+            "PYQ WORDING -> the 2025 demand itself says waning, never ended",
+            "BOUNDARY -> tariff and balance-of-payments mechanics to Economy;",
+            "  de-risking detail to topic 03; the organisation's full structure to topic 12",
+            "MUST REMEMBER: Globalisation and trade agreements transmit tariffs, services rules,..."
+          ],
+          "source_references": [
+            "What this external-effects owner holds and how its boundaries are routed",
+            "Co-presence rather than succession as the governing frame",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Three transmission channels into Indian interests",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "TRADE CHANNEL -> protectionism | stalled multilateral liberalisation",
+            "  | migration of liberalisation into bilateral and plurilateral agreements",
+            "TECHNOLOGY CHANNEL -> export controls | investment screening | de-risking",
+            "CLIMATE CHANNEL -> carbon-border measures | green-subsidy competition",
+            "COMBINED INSTRUMENT -> one measure can be trade, industrial policy and climate",
+            "INDIA AS BENEFICIARY -> diversification interest, owned in detail by topic 03",
+            "INDIA AS TARGET -> others' tariffs and carbon-border measures",
+            "RULE -> name the channel before describing the effect"
+          ],
+          "source_references": [
+            "The three transmission channels that carry the shift to India",
+            "What this external-effects owner holds and how its boundaries are routed",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "How the trade organisation is actually built",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "MEMBER-DRIVEN -> run by member governments; no delegated board or head",
+            "MINISTERIAL CONFERENCE -> topmost body; meets at least once every two years",
+            "GENERAL COUNCIL -> the same body in three guises",
+            "  General Council | Dispute Settlement Body | Trade Policy Review Body",
+            "SECTOR COUNCILS -> Goods | Services | Trade-Related Intellectual Property",
+            "DECISION RULE -> normally by consensus among the whole membership",
+            "ENFORCEMENT -> by members themselves; sanctions authorised by the membership",
+            "FOUNDED 1995 -> India a founding member",
+            "VERDICT -> weakened in negotiation, not irrelevant in rules and disputes"
+          ],
+          "source_references": [
+            "What the trade organisation is and how it actually decides",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ministerial cycle and the consensus chokepoint",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "26 FEBRUARY - 2 MARCH 2024 -> MC13, Abu Dhabi; Abu Dhabi Ministerial",
+            "  Declaration; decisions on dispute-settlement reform, special and",
+            "  differential treatment, LDC graduation and electronic commerce",
+            "26 MARCH 2026 -> MC14 opens at Yaounde; foundational-issues breakout",
+            "27 MARCH 2026 -> minister-facilitated reform breakouts and reform plenary",
+            "THIRD DAY -> dispute-settlement reform update; ministerial sessions on",
+            "  fisheries subsidies, Investment Facilitation for Development incorporation,",
+            "  E-commerce Work Programme and moratorium, agriculture, development and LDCs",
+            "30 MARCH 2026 -> Heads of Delegation meeting and closing session",
+            "CHOKEPOINT -> 165 of 166 supported incorporation; consensus absent; it failed",
+            "LESSON -> the veto point is procedural, never majoritarian"
+          ],
+          "source_references": [
+            "The ministerial cycle and what the fourteenth conference actually did",
+            "Consensus as the veto point that near-unanimity cannot overcome",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The appellate void and India's own notified appeals",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "10 DECEMBER 2019 -> Appellate Body loses its quorum for new appeals",
+            "30 NOVEMBER 2020 -> zero members; appeals can be filed into the void",
+            "MPIA -> interim appeal arbitration under DSU Article 25; India not a participant",
+            "CURRENT NOTIFIED APPEALS INVOLVING INDIA, AS LISTED BY THE ORGANISATION:",
+            "  24 December 2021 -> DS579 sugar and sugarcane (Brazil)",
+            "  24 December 2021 -> DS580 sugar and sugarcane (Australia)",
+            "  24 December 2021 -> DS581 sugar and sugarcane (Guatemala)",
+            "  17 May 2023     -> DS584 tariff treatment on certain goods (Japan)",
+            "  8 December 2023 -> DS582 tariff treatment, ICT sector",
+            "COST -> two-sided: no binding appellate review for India either"
+          ],
+          "source_references": [
+            "Appeals into the void and the two-sided cost of a paralysed appellate stage",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "One agreement, three legal steps, three dates",
+          "structural_type": "process",
+          "ascii_lines": [
+            "STEP 1 ADOPTION -> Agreement on Fisheries Subsidies adopted at MC12,",
+            "  17 June 2022; prohibits harmful fisheries subsidies",
+            "  first agreement of the organisation to focus on the environment;",
+            "  first broad binding multilateral agreement on ocean sustainability;",
+            "  only the second multilateral agreement reached since its inception",
+            "STEP 2 ENTRY INTO FORCE -> on two-thirds acceptance; threshold reached at a",
+            "  ceremony on 15 September 2025",
+            "STEP 3 INDIVIDUAL ACCEPTANCE -> India deposits its instrument, 20 July 2026",
+            "MANDATE -> MC11 Buenos Aires Ministerial Decision and SDG 14.6",
+            "CONTINUING -> additional provisions under the Negotiating Group on Rules"
+          ],
+          "source_references": [
+            "The fisheries agreement as the clean adoption-to-acceptance sequence",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Agriculture and the reform demand India actually makes",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM -> public-stockholding procurement collides with domestic-support rules",
+            "  RESPONSE: the 2013 Bali peace clause shields eligible programmes from",
+            "  specified legal challenge while a permanent solution is negotiated",
+            "LIMIT -> the shield carries notification and programme conditions",
+            "LIMIT -> interim protection is not the permanent settlement India seeks",
+            "INDIA'S DEMAND -> preserve public stockholding and special and differential",
+            "  treatment while improving subsidy and market-access rules",
+            "BALANCE -> producer support, consumer food security and export effects together",
+            "DIAGNOSIS -> reform here is distributive, not merely procedural"
+          ],
+          "source_references": [
+            "Agriculture, public stockholding and the reform demand India actually makes",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The legal-stage ladder for India's agreements",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "IN FORCE -> India-UAE CEPA, 1 May 2022",
+            "IN FORCE -> India-Australia ECTA, 29 December 2022",
+            "IN FORCE -> India-EFTA TEPA, signed 10 March 2024, in force 1 October 2025",
+            "IN FORCE -> India-UK CETA, signed London 24 July 2025, in force 15 July 2026",
+            "  Double Contributions Convention in force the same day; up to 60 months of",
+            "  home-country social-security coverage for detached workers",
+            "SIGNED -> India-Oman CEPA, 18 December 2025; India-New Zealand, 27 April 2026",
+            "CONCLUDED -> India-Chile CEPA, 5 December 2025",
+            "CONCLUDED ONLY -> India-EU FTA, 27 January 2026; not signed, not in force",
+            "NEITHER -> India-United States: interim framework and continuing negotiation",
+            "RULE -> concluded, signed, ratified and in force are four different claims"
+          ],
+          "source_references": [
+            "The status vocabulary that decides whether a trade claim is true",
+            "The European trade partnership in force and the objective that is not an outcome",
+            "The United Kingdom agreement in force and its social-security companion",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Four verbs in one communique",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "16th INDIA-EU SUMMIT, 27 JANUARY 2026",
+            "CONCLUDED -> free trade agreement negotiations; not signed, not in force",
+            "SIGNED -> Security and Defence Partnership",
+            "LAUNCHED -> negotiations on a Security of Information Agreement",
+            "ADOPTED -> Towards 2030: India-EU Joint Comprehensive Strategic Agenda",
+            "OBLIGATION LEVEL -> four verbs, four different obligations, one document",
+            "SEPARATE BOUNDARY -> India announced on 4 November 2019 that it would not",
+            "  join the Regional Comprehensive Economic Partnership",
+            "RULE -> reproduce the verb the source actually used"
+          ],
+          "source_references": [
+            "Concluded negotiations and the same-summit verb discipline",
+            "The withdrawal decision that defines India's own trade boundary",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The carbon-border regime in operation",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DEFINITIVE REGIME -> applies from 1 January 2026",
+            "TRANSITIONAL PHASE -> 2023 to 2025",
+            "OBLIGATIONS -> importer authorisation | reporting | purchase and surrender of",
+            "  certificates matching the embedded carbon emissions of imported goods",
+            "SECTORS -> cement | iron and steel | aluminium | fertilisers | electricity",
+            "  | hydrogen",
+            "PRICE -> calculated from EU Emissions Trading System allowance auction prices",
+            "CLASSIFICATION -> trade instrument, industrial-policy tool and climate measure",
+            "INDIA -> affected through market access, standards and negotiating strategy",
+            "  without being a party to the European Union's internal law",
+            "CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry..."
+          ],
+          "source_references": [
+            "The carbon-border mechanism as the third channel in operation",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tariff volatility as the transmission mechanism",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "7 AUGUST 2025 -> 25 per cent reciprocal duty on India takes effect",
+            "27 AUGUST 2025 -> additional 25 per cent duty linked to Russian oil",
+            "7 FEBRUARY 2026 -> the additional Russian-oil-linked duty is removed",
+            "FEBRUARY 2026 -> additional duties under the International Emergency",
+            "  Economic Powers Act end",
+            "24 JULY 2026 -> a separate 10 per cent duty under Section 301 begins",
+            "STATUS -> another state's domestic measures; exposure, not Indian obligation",
+            "MECHANISM -> a duty lasting under six months still shaped a negotiating cycle",
+            "ANSWER LINE -> volatility, not level, is what transmits",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules..."
+          ],
+          "source_references": [
+            "Unilateral tariff action and why volatility rather than level is the mechanism",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a globalisation or trade-effects demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define both forces and state that they are co-present, not sequential",
+            "CHANNEL -> name trade, technology or climate before describing the effect",
+            "EVIDENCE -> one dated instrument per channel, each at its exact legal stage",
+            "DUAL POSITION -> India as diversification beneficiary and as measure target",
+            "RESPONSE -> continued organisation engagement, agreement negotiation and",
+            "  domestic strategic-sector policy, which is Economy's operational domain",
+            "CONCEDE -> rules-of-origin fragmentation, transition cost, contested",
+            "  proportionality of climate measures, two-sided appellate paralysis",
+            "OWNERSHIP -> the 2025 elucidate, 2018 reform and 2022 climate-fora demands",
+            "CLOSE -> open enough for markets and technology, resilient enough to absorb",
+            "  volatility, and active enough to shape the rules that transmit it"
+          ],
+          "source_references": [
+            "Honest question ownership for this external-effects owner",
+            "Agreement proliferation as continuity of liberalisation and its fragmentation cost",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

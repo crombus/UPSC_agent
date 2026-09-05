@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topics 03-04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-03",
+      "display_title": "Temple Architecture and Chandella Khajuraho",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\03_Temple-Architecture-and-Chandella-Khajuraho_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Temple ritual sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "JAGATI -> elevated sacred platform",
+            "MANDAPA -> congregational approach",
+            "ANTARALA -> transition to sanctum",
+            "GARBHAGRIHA -> deity and ritual focus"
+          ],
+          "source_references": [
+            "Temple space and ritual movement"
+          ]
+        },
+        {
+          "title": "Regional morphology",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NAGARA -> curvilinear shikhara",
+            "DRAVIDA -> tiered vimana and enclosure",
+            "DECCAN -> selective northern-southern grammar",
+            "EASTERN -> brick, terracotta and Bangla roof"
+          ],
+          "source_references": [
+            "From Gupta shrine to regional schools"
+          ]
+        },
+        {
+          "title": "Khajuraho power-to-form",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CHANELLA ASSERTION -> visible patronage need",
+            "DHANGA -> maharajadhiraja context",
+            "TEMPLE CLUSTER -> sovereignty in stone",
+            "LIMIT -> no invented victory dedication"
+          ],
+          "source_references": [
+            "Chandella sovereignty and patronage"
+          ]
+        },
+        {
+          "title": "Khajuraho axial chain",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ARDHAMANDAPA -> entrance porch",
+            "MANDAPA -> hall",
+            "ANTARALA -> vestibule",
+            "GARBHAGRIHA + SHIKHARA -> sacred climax"
+          ],
+          "source_references": [
+            "Khajuraho plan and massing"
+          ]
+        },
+        {
+          "title": "Mountain silhouette",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "MAIN SHIKHARA -> central vertical mass",
+            "URUSHRINGAS -> clustered replica spires",
+            "JAGATI -> raised horizontal base",
+            "RESULT -> mountain-range composition"
+          ],
+          "source_references": [
+            "Khajuraho plan and massing"
+          ]
+        },
+        {
+          "title": "Breadth-of-life ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SACRED -> deities and worshippers",
+            "SOCIAL -> teachers, dancers and musicians",
+            "IMAGINATIVE -> vyalas and narrative forms",
+            "INTIMATE -> maithuna as one register"
+          ],
+          "source_references": [
+            "Vigour and breadth"
+          ]
+        },
+        {
+          "title": "Chausath Yogini distinction",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KHAJURAHO -> Chandella landscape",
+            "KHAJURAHO FORM -> open-air granite enclosure",
+            "MITAOLI -> near Morena, Kachchhapaghata",
+            "MITAOLI FORM -> circular; popular Parliament link"
+          ],
+          "source_references": [
+            "Chausath Yogini identification"
+          ]
+        },
+        {
+          "title": "Pallava transition",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAHENDRAVARMAN -> rock-cut mandapas",
+            "MAMALLA -> monolithic Pancha Rathas",
+            "RAJASIMHA -> structural Shore Temple",
+            "LEGACY -> Chola structural expansion"
+          ],
+          "source_references": [
+            "Pallava transition"
+          ]
+        },
+        {
+          "title": "Chola achievement system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GRANITE TEMPLE -> monumental state form",
+            "BRONZE + MURAL -> portable and painted art",
+            "INSCRIPTION -> administration and patronage",
+            "LIVING WORSHIP -> continuing cultural memory"
+          ],
+          "source_references": [
+            "Chola living achievement"
+          ]
+        },
+        {
+          "title": "Deccan experiment",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PATTADAKAL VIRUPAKSHA -> Dravida tower",
+            "PATTADAKAL PAPANATHA -> Nagara tower",
+            "HOYSALA -> stellate soapstone density",
+            "VERDICT -> describe evidence before Vesara"
+          ],
+          "source_references": [
+            "Deccan experiment"
+          ]
+        },
+        {
+          "title": "Late Dravida shift",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CHOLA -> vimana-dominant imperial complex",
+            "VIJAYANAGARA -> raya gopuram and mandapas",
+            "NAYAKA -> graded gateways and prakarams",
+            "FUNCTION -> procession, gathering and ritual expansion"
+          ],
+          "source_references": [
+            "Vijayanagara and Nayaka"
+          ]
+        },
+        {
+          "title": "Temple answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "NAME -> school, dynasty and monument",
+            "DESCRIBE -> plan, tower, material and enclosure",
+            "ANALYSE -> patronage, sculpture and society",
+            "QUALIFY -> comparison, source limit and status"
+          ],
+          "source_references": [
+            "PYQ cluster and final answer spine"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "indian-art-and-culture-04",
+      "display_title": "Indo-Islamic and Regional Architecture",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\04_Indo-Islamic-and-Regional-Architecture_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Structural transition",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TRABEATE -> post and lintel",
+            "ARCUATE -> arch, vault and dome",
+            "LIME MORTAR -> stronger wide-span work",
+            "OUTCOME -> coexistence, not replacement"
+          ],
+          "source_references": [
+            "Trabeate and arcuate systems"
+          ]
+        },
+        {
+          "title": "Synthesis mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ARCUATE KNOWLEDGE -> new structural range",
+            "LOCAL CRAFT -> trabeate skill and motifs",
+            "REGIONAL MATERIAL -> stone, brick and mortar",
+            "BUILDING INDUSTRY -> hybrid results"
+          ],
+          "source_references": [
+            "One hybrid building industry"
+          ]
+        },
+        {
+          "title": "Ornament identification",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "JAALI -> perforated light screen",
+            "ARABESQUE -> geometric-vegetal continuity",
+            "CHARBAGH -> four-part garden",
+            "PIETRA DURA -> fitted stone inlay"
+          ],
+          "source_references": [
+            "The ornamental grammar"
+          ]
+        },
+        {
+          "title": "Sultanate classification",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "IMPERIAL -> Slave, Khilji, Tughlaq, Lodi",
+            "BENGAL -> Bangla roof",
+            "JAUNPUR/MALWA -> no universal minar",
+            "BIJAPUR -> bulbous dome experiment"
+          ],
+          "source_references": [
+            "Imperial and provincial classification"
+          ]
+        },
+        {
+          "title": "Qutb layered monument",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AIBAK -> begins tower",
+            "ILTUTMISH -> substantial completion",
+            "FIROZ SHAH -> upper repair or rebuilding",
+            "LESSON -> one monument, several reigns"
+          ],
+          "source_references": [
+            "Qutb complex as accretion and reuse"
+          ]
+        },
+        {
+          "title": "Spolia evidence boundary",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "INSCRIPTION -> records reused material",
+            "COUNT -> twenty-seven temples at this site",
+            "CLAIM -> specific documented reuse",
+            "PROHIBITION -> no period-wide generalisation"
+          ],
+          "source_references": [
+            "Qutb complex as accretion and reuse"
+          ]
+        },
+        {
+          "title": "Provincial climate map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BENGAL -> rain-responsive sloping roof",
+            "MALWA -> windows, pavilions and baulis",
+            "JAUNPUR -> screen facade without minars",
+            "BIJAPUR -> Deccani dome geometry"
+          ],
+          "source_references": [
+            "Bengal and Jaunpur",
+            "Malwa and Bijapur"
+          ]
+        },
+        {
+          "title": "Mughal material chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AKBAR -> red sandstone mass",
+            "NUR JAHAN/JAHANGIR -> white marble turn",
+            "SHAH JAHAN -> marble and inlay culmination",
+            "LATER -> regional continuation"
+          ],
+          "source_references": [
+            "Akbar's architectural phase",
+            "Marble transition"
+          ]
+        },
+        {
+          "title": "Fatehpur Sikri boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PLACE -> imperial capital and complex",
+            "IBADAT KHANA -> debate setting",
+            "ARCHITECTURE -> owns spatial evidence",
+            "DOCTRINE -> primary ownership elsewhere"
+          ],
+          "source_references": [
+            "Akbar's architectural phase"
+          ]
+        },
+        {
+          "title": "Workshop authorship",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PATRON -> Shah Jahan",
+            "SPECIALISTS -> designers and craftsmen",
+            "WORKSHOP -> collective execution",
+            "VERDICT -> no uncontested sole mastermind"
+          ],
+          "source_references": [
+            "Taj authorship and workshops"
+          ]
+        },
+        {
+          "title": "Regional continuation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RAJPUT -> jharokha and court display",
+            "SIKH -> chhatri, cornice and onion dome",
+            "AWADH -> mortar and imambara scale",
+            "MARATHA -> terrain-based fort network"
+          ],
+          "source_references": [
+            "Rajput, Sikh and Awadh adaptations",
+            "Maratha comparison and answer spine"
+          ]
+        },
+        {
+          "title": "Indo-Islamic answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> trabeate-arcuate coexistence",
+            "EVIDENCE -> monument, material and workshop",
+            "COMPARE -> provincial and regional solutions",
+            "QUALIFY -> reuse, authorship and terminology"
+          ],
+          "source_references": [
+            "Maratha comparison and answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

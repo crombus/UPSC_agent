@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+  "record_id": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g15",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "core_and_syllabus_complete": true,
+    "doctrinal_attribution_qualified": true,
+    "pyq_ledger_reconciled_2018_2025": true,
+    "answer_specific_improvement_and_compression": true,
+    "mcq_count_48": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "pdf_layout_clean": true
+  },
+  "metrics": {
+    "mcq_count": 48,
+    "main_pages": 117,
+    "workbook_pages": 50,
+    "answer_improvement_blocks": 26
+  },
+  "layout_errors": [],
+  "layout_metrics": {
+    "main": {
+      "page_count": 117,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook": {
+      "page_count": 50,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g15\\topic-01_Complete-Learning-Session_2026-08-29.md": "a908daaf4bae40eb143231bebb93081f23b294af5b008765fbb20ab7e2ca24be",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g15\\topic-01_Solved-Practice-Workbook_2026-08-29.md": "6e034adde9edc182c40c810e487016e13ecca72f0142c8dfe6d7741639b52644",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g15\\topic-01_Complete-Learning-Session_2026-08-29.pdf": "14fd6b38bdb4fd307d23c3d9ca31cf563be02584aea3ad6bd7bf1d60fe19517f",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g15\\topic-01_Solved-Practice-Workbook_2026-08-29.pdf": "97e85869c6d354a71213937cf225d90ed0014f8b52dd48160c4f53641566c105",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g15\\validation\\main-visual-audit-map.json": "06606aba40024e2e28bdbca1ba450b878f23c229abdad40f498c2c37e309ff49",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g15\\validation\\workbook-visual-audit-map.json": "dddece20ef584756f7319ec32cc6094d66c868241d5f9f1201256a28e54fcbe2",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-01-g15.json": "9ddcd6befb7e51fe82537ef9b1a3043c42bf8e789f983e36f8004fc6876fb4bc",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\ascii-master.pdf": "4cc713311919d603c37f6768096ebd5791a783beddf7091c134bc4622ba37f67",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\ascii-master.txt": "c432590b044954b942b3b611c86ec3dda58955af045d1be27334ef701ac47e0c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\build-audit.json": "dea3c2e8b088fc1bfcbb5a8133b9bcb9865cc58eaca50785f9264be6beab87d0",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\master.png": "9e9f9886247e785d8b8cc4a11ca745811249bccc8fa92366c65bdf88b678abb8",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\poster.pdf": "88d0e6e8c893a845ad2f9192aa9e71d74533fe1906f2a012222b7219d04771aa",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\preservation-hashes.json": "5574231d15bb479370fc0f9ece351979f2a18c65c48282e9a647a85cfdbe2949",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\README.txt": "04b1fdde703ef4bb70a34252a655d56ed51732f5edb18f8ddd5bac89dca03d5b",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\tiled.pdf": "ffda46bf84790d72cbe1b70d69f22ccbdfc893d7d3b33eed40172d81a654137b",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\validation-report.txt": "988aff221ebb054ca7a4d8c4d20b98bb4c139361dda5fd86cfeca371e86c9457",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\editable\\topic-spec.json": "9ddcd6befb7e51fe82537ef9b1a3043c42bf8e789f983e36f8004fc6876fb4bc",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\previews\\contact-sheet-01.png": "4532ce4a91e2722aa8762cf7a3411fcd333ba7678eb4f0857db891dde2f6e2f4",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\previews\\master-overview.png": "c8817a8c53e47ed6e1bb5ed1f1fba3ff1429ca4882c32f0e530862947c7de59d",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\previews\\page-001.png": "c9646ca34985b6ae4531edc5f1a7640ecb5cf6bb3ea823849e44f81f6117ff1a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\previews\\page-002.png": "1e54eb68faeb70268b25dc913abeb7d29dda6de6cd632e8a69813773ae254492",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\previews\\page-003.png": "4e53dbac9cecc9e5f58abdb04e456dc122d04b9d7238718dd0230decf6dce5ab",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g15\\previews\\page-004.png": "978e90d4d9c6c54a82d508b89da9d7f49ca2c1e7f18b956a894f7e9986ae065b"
+  }
+}

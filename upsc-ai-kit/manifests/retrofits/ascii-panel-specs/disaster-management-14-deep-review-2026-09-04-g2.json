@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-14",
+      "display_title": "Urban and Critical Infrastructure Resilience",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Urban risk system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY",
+            "-> INTERDEPENDENT WATER POWER TRANSPORT HEALTH TELECOM",
+            "-> CASCADING SERVICE FAILURE",
+            "-> SYSTEMIC URBAN DISASTER"
+          ],
+          "source_references": [
+            "Urban disaster risk",
+            "Systemic and cascading failure",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Criticality test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ASSET / NETWORK / SERVICE",
+            "IF FAILURE -> DISPROPORTIONATE LIFE / HEALTH / GOVERNANCE EFFECT",
+            "THEN CRITICAL / LIFELINE FUNCTION",
+            "PRIORITY DEPENDS ON CONSEQUENCE, NOT OWNERSHIP OR SIZE"
+          ],
+          "source_references": [
+            "Critical infrastructure and lifelines",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Interdependency web",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "POWER -> WATER PUMPS / HOSPITALS / TELECOM",
+            "TELECOM -> WARNING / DISPATCH / PAYMENT",
+            "TRANSPORT -> STAFF / SUPPLY / REPAIR ACCESS",
+            "SHARED NODE FAILURE -> MULTI-SYSTEM CASCADE"
+          ],
+          "source_references": [
+            "Interdependency mapping",
+            "Systemic and cascading failure",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Resilience triad",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ROBUSTNESS -> RESIST",
+            "REDUNDANCY / DIVERSITY -> ALTERNATE CAPACITY",
+            "RAPID RECOVERY -> RESTORE PRIORITY FUNCTION",
+            "COMPLETE RESILIENCE NEEDS ALL THREE"
+          ],
+          "source_references": [
+            "Robustness redundancy and rapid recovery",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Continuity plan",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DEFINE MINIMUM SERVICE + PRIORITY USERS",
+            "MAP STAFF SUPPLY DATA SITE AND UTILITY DEPENDENCIES",
+            "PROVIDE BACKUP / ALTERNATE / MANUAL MODE",
+            "SET RESTORATION ORDER TIME AND COMMUNICATION"
+          ],
+          "source_references": [
+            "Service continuity",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Urban planning stack",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "LAND USE / FLOODPLAIN / DRAINAGE PATH",
+            "BUILDING AND DEVELOPMENT CONTROL",
+            "WATER BODY DRAIN SOLID-WASTE AND MAINTENANCE",
+            "WARD-CITY-CATCHMENT COORDINATION"
+          ],
+          "source_references": [
+            "Risk-informed land use",
+            "Building-code and retrofit chain",
+            "Urban drainage governance",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Resilience audit",
+          "structural_type": "audit-ladder",
+          "ascii_lines": [
+            "1 CRITICAL FUNCTION AND USERS",
+            "2 HAZARD LOAD + DEPENDENCIES + SINGLE POINTS",
+            "3 BACKUP DURATION + RECOVERY TIME",
+            "4 PRIORITISED RETROFIT CONTINUITY AND DRILL ACTION"
+          ],
+          "source_references": [
+            "Criticality-based prioritisation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Essential facility shell",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "STRUCTURE / FIRE / FLOOD SAFETY",
+            "POWER WATER CLINICAL SUPPLY AND TELECOM",
+            "ACCESS STAFF REFERRAL AND SECURITY",
+            "CONTINUE CARE WHILE DAMAGE IS REPAIRED"
+          ],
+          "source_references": [
+            "Hospitals and emergency facilities",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Equity access test",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "WHO LIVES IN HIGHEST EXPOSURE?",
+            "WHO DEPENDS ON INTERRUPTIBLE OR INFORMAL SERVICES?",
+            "WHO CAN REACH WARNING SHELTER HEALTH AND TRANSPORT?",
+            "RISK REDUCTION WITHOUT EXCLUSIONARY DISPLACEMENT"
+          ],
+          "source_references": [
+            "Informal settlements and equity",
+            "Accessible lifelines",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Governance map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "ULB / UTILITY / DEVELOPMENT AUTHORITY / DISTRICT",
+            "SECTOR REGULATOR + SDMA / NDMA",
+            "COORDINATION DOES NOT ERASE OWNER DUTY",
+            "RECOMMENDATION / ENABLING LAW / NOTIFICATION / OPERATION",
+            "MUST REMEMBER: Urban and critical-infrastructure resilience maps interdependent power,..."
+          ],
+          "source_references": [
+            "Urban institutions",
+            "Urban Flooding Cell status",
+            "Urban Disaster Management Authority status",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-14_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Smart resilience firewall",
+          "structural_type": "trade-off-matrix",
+          "ascii_lines": [
+            "SENSORS / DIGITAL TWIN / COMMAND PLATFORM -> AWARENESS",
+            "PRIVACY + CYBERSECURITY + INTEROPERABILITY",
+            "OFFLINE FALLBACK + HUMAN ACCOUNTABILITY",
+            "EFFICIENCY WITHOUT BUFFER -> BRITTLE SYSTEM",
+            "CLOSE DISTINCTION: Critical is not merely expensive; redundancy is not unused..."
+          ],
+          "source_references": [
+            "Smart technology and privacy",
+            "Resilience versus efficiency",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-14_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Urban resilience answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE SYSTEMIC URBAN RISK AND CRITICAL LIFELINES",
+            "MAP CASCADES -> ROBUSTNESS REDUNDANCY CONTINUITY",
+            "ADD LAND USE CODES DRAINAGE AUDIT EQUITY AND GOVERNANCE",
+            "USE CDRI / TECHNOLOGY WITH STATUS AND OUTCOME FIREWALLS",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name service level, dependency,..."
+          ],
+          "source_references": [
+            "CDRI boundary",
+            "Input-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-14\\g2\\disaster-management-14_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-14_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

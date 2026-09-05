@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "batch_id": "governance-13-16-sequential-batch-2026-09-02",
+  "scope": "Governance learner-v2 Topics 13-16 strictly sequential batch",
+  "generated_on": "2026-09-02",
+  "validated_at": "2026-09-02T16:28:50.393334+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "governance-13",
+      "governance-14",
+      "governance-15",
+      "governance-16"
+    ],
+    "topic_count": 4,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "governance-13:learner-v2:g1",
+      "governance-14:learner-v2:g1",
+      "governance-15:learner-v2:g1",
+      "governance-16:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 260,
+    "baseline_panels": 2992,
+    "authored_topics": 264,
+    "authored_panels": 3040,
+    "topic_delta": 4,
+    "panel_delta": 48,
+    "integrity_errors": []
+  },
+  "aggregate": {
+    "main_pdf_pages": 445,
+    "workbook_pdf_pages": 260,
+    "mcqs": 320,
+    "learning_sessions": 60,
+    "ascii_panels": 48,
+    "graphical_stages": 52
+  },
+  "topics": [
+    {
+      "topic_key": "governance-13",
+      "record_id": "governance-13:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 109,
+        "workbook_pdf_pages": 62
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\governance-13-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\governance-13-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-13\\governance-13_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-13\\governance-13_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-13\\governance-13_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-13\\governance-13_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "governance-14",
+      "record_id": "governance-14:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 112,
+        "workbook_pdf_pages": 65
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\governance-14-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\governance-14-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-14\\governance-14_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-14\\governance-14_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-14\\governance-14_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-14\\governance-14_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "governance-15",
+      "record_id": "governance-15:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 111,
+        "workbook_pdf_pages": 64
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\governance-15-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\governance-15-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-15\\governance-15_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-15\\governance-15_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-15\\governance-15_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-15\\governance-15_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "governance-16",
+      "record_id": "governance-16:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 113,
+        "workbook_pdf_pages": 69
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\governance-16-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\governance-16-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-16\\governance-16_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-16\\governance-16_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-16\\governance-16_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-16\\governance-16_Solved-Practice-Workbook_2026-09-02.md"
+    }
+  ],
+  "errors": []
+}

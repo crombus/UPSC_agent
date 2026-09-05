@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-17-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-17": {
+      "title": "Parliament",
+      "source_record": "polity-17:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+      "quality_review": "Twelve-panel Core-first manual review against Articles 79-122, PYQs, dated current controls and answer execution.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Article 79 architecture, composition and representation",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nArticle 79 creates one Parliament from the President and two differently constituted Houses.\n\nOPERATING MECHANISM\nPresident + Lok Sabha + Rajya Sabha combine assent, popular mandate and federal revision.\n\nEXAM LIMIT\nPresident is integral to Parliament but is not a member of either House.\n\nANSWER LINE\nUse this route to show that this design combines popular authority, federal revision and\nconstitutional form."
+        },
+        {
+          "title": "Membership, disqualification, vacancies and opposition",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nArticles 84, 101-103 regulate entry, continuity and disqualification; the 1977 Act governs LoP\nrecognition.\n\nOPERATING MECHANISM\nQualification, vacancy, ECI opinion and presiding-officer recognition keep membership legally\ncontrolled.\n\nEXAM LIMIT\nThe 1977 Act has no ten-percent LoP threshold; do not confuse practice with statutory text.\n\nANSWER LINE\nUse this route to show that different mandates explain later differences in finance,\nconfidence and federal revision."
+        },
+        {
+          "title": "Sessions, sittings, quorum and accountability devices",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nArticle 85 guarantees recurrence, while House rules turn sittings into questioning and debate.\n\nOPERATING MECHANISM\nSummoning enables questions and motions, but no constitutional minimum sitting-day floor\nexists.\n\nEXAM LIMIT\nBudget, Monsoon and Winter are conventions, not constitutionally fixed sessions.\n\nANSWER LINE\nUse this route to show that these routes protect legislative integrity without merging\nelection petitions and vacancy rules."
+        },
+        {
+          "title": "Presiding officers, neutrality and privilege",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nArticles 93-97 and 105 protect ordered, independent legislative work within reviewable limits.\n\nOPERATING MECHANISM\nChairs manage procedure and privilege protects function; reasoned review checks constitutional\nmisuse.\n\nEXAM LIMIT\nDeputy Speaker vacancy since May 2019 is a dated fact, not a constitutional rule.\n\nANSWER LINE\nUse this route to show that correct time vocabulary determines whether business survives and\naccountability can recur.\n\nSita Soren (2024): no bribery immunity."
+        },
+        {
+          "title": "Ordinary legislation and the Bill-class firewall",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nBill classification determines origin, recommendation, Upper-House power, deadlock and assent.\n\nOPERATING MECHANISM\nCorrect classification channels each Bill through the constitutionally assigned legislative\nroute.\n\nEXAM LIMIT\nA Financial Bill-I is not a Money Bill; Rajya Sabha retains full legislative power.\n\nANSWER LINE\nUse this route to show that the devices span disclosure, debate, censure, financial pressure\nand government removal."
+        },
+        {
+          "title": "Joint sitting, lapse and ordinance return",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nArticles 108, 111 and 123 connect deadlock, assent, dissolution and temporary executive\nlawmaking.\n\nOPERATING MECHANISM\nJoint sitting resolves eligible deadlocks; dissolution selectively lapses Bills; ordinances\nreturn to Parliament.\n\nEXAM LIMIT\nMoney and Constitution Amendment Bills have no joint-sitting route.\n\nANSWER LINE\nUse this route to show that Sita Soren (2024) preserves institutional independence by denying\nimmunity that subverts it."
+        },
+        {
+          "title": "Budget, grants, funds and power of the purse",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nArticles 112-116 and 266-267 create an authorisation-to-audit chain for public money.\n\nOPERATING MECHANISM\nDisclosure, grant voting, appropriation, expenditure and CAG-PAC audit form one control cycle.\n\nEXAM LIMIT\nCharged expenditure is discussed not voted; Public Account withdrawal needs no appropriation.\n\nANSWER LINE\nUse this route to show that accurate classification prevents fiscal primacy from becoming an\nunintended bicameral bypass."
+        },
+        {
+          "title": "Committee architecture and detailed scrutiny",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nFinancial committees, DRSCs and specialised committees supply evidence-based scrutiny beyond\nthe floor.\n\nOPERATING MECHANISM\nSmall cross-House forums examine estimates, audit, Bills and ministries before reporting to\nParliament.\n\nEXAM LIMIT\nPAC, Estimates and CoPU differ in composition, time direction and subject.\n\nANSWER LINE\nUse this route to show that the mechanism can resolve ordinary deadlock while preserving\nspecial procedures for money and amendment."
+        },
+        {
+          "title": "Rajya Sabha, anti-defection and bicameral balance",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nRajya Sabha has graded powers while the Tenth Schedule trades member autonomy for stability.\n\nOPERATING MECHANISM\nUpper-House revision and federal powers check Lok Sabha, while whips shape individual voting.\n\nEXAM LIMIT\nRajya Sabha is unequal on money and confidence, but equal or exclusive elsewhere.\n\nANSWER LINE\nUse this route to show that formal instruments become effective only when time, information\nand party incentives permit scrutiny."
+        },
+        {
+          "title": "106th Amendment, Census 2027 and delimitation",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nWomen’s reservation is commenced but awaits published census figures and purpose-specific\ndelimitation.\n\nOPERATING MECHANISM\nCommencement leads to census publication, then delimitation, before reservation can operate.\n\nEXAM LIMIT\nThe defeated 850-seat proposal and 2011 basis are not existing law.\n\nANSWER LINE\nUse this route to show that continuity and federal initiative partly offset Lok Sabha primacy\nin finance and survival."
+        },
+        {
+          "title": "Parliamentary decline, reform and diplomacy",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nExecutive agenda control, time scarcity and wide whips weaken use of otherwise strong\ninstruments.\n\nOPERATING MECHANISM\nMatched reforms improve calendar, referral, research, opposition time and reasoned chair\ndecisions.\n\nEXAM LIMIT\nInstitutional decline is variable political use, not disappearance of constitutional power.\n\nANSWER LINE\nUse this route to show that stability rises, but debate and member-level scrutiny may weaken\nwhen whips are overused."
+        },
+        {
+          "title": "PYQ routes, traps and answer execution",
+          "structural_type": "parliament-core-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CORE RULE\nExam performance requires classification, named evidence, mechanism, qualification and a\ngraded verdict.\n\nOPERATING MECHANISM\nPYQs and rotated MCQs convert constitutional distinctions into repeatable answer and\nelimination routes.\n\nEXAM LIMIT\nNever substitute current-sensitive numbers or proposals for stable constitutional rules.\n\nANSWER LINE\nUse this route to show that better time, information and incentives can activate existing\npowers without inventing new devices."
+        }
+      ]
+    }
+  }
+}

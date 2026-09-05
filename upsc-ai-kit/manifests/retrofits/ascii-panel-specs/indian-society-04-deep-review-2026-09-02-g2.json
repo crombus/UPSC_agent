@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-04",
+      "display_title": "Family, Marriage and Kinship",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Household forms",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "JOINT -> multi-generational, may share residence or property",
+            "NUCLEAR -> parents and unmarried children in one household",
+            "SHARED FEATURE -> obligation can outlive shared residence",
+            "RULE -> classify the form, then test the function separately",
+            "MUST REMEMBER: Family, household, marriage and kinship are separate but connected institutions",
+            "  organising reproduction, care, property, residence, descent, alliance and identity;",
+            "  nuclearisation, migration, education, work and law alter functions more than they simply",
+            "  dissolve families."
+          ],
+          "source_references": [
+            "Joint and nuclear as forms",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two kinds of nuclearisation",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "STRUCTURAL -> separate, smaller household residence",
+            "FUNCTIONAL -> independence from support and decision authority",
+            "OBSERVED -> structure moves first, function lags behind",
+            "ERROR PREVENTED -> reading separate residence as family decline"
+          ],
+          "source_references": [
+            "Structural versus functional nuclearisation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Nuclearisation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MIGRATION -> employment pulls a unit out of the ancestral home",
+            "HOUSING -> urban cost and space make joint residence impractical",
+            "PERSISTENCE -> remittance and ritual participation continue",
+            "GENERATIONAL DRIFT -> ties weaken for the migrant's children"
+          ],
+          "source_references": [
+            "The nuclearisation chain",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Marriage rule stack",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ENDOGAMY -> outer boundary is the caste or sub-caste",
+            "GOTRA EXOGAMY -> clan lineage excluded inside that boundary",
+            "FORMS -> monogamy, arranged, self-choice, rare polygamy",
+            "VARIATION -> region, class, education and generation"
+          ],
+          "source_references": [
+            "Endogamy and exogamy",
+            "Forms of marriage",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Descent systems",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PATRILINEAL -> descent, surname and property via the father",
+            "MATRILINEAL -> Khasi of Meghalaya, traditionally Nair of Kerala",
+            "KHASI DETAIL -> youngest daughter customarily inherits the home",
+            "CAUTION -> matriliny is descent, not matriarchal authority"
+          ],
+          "source_references": [
+            "Patrilineal descent",
+            "Matrilineal exceptions",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Family as transmitter",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INPUT -> caste, religious and gender norms of the previous generation",
+            "PROCESS -> socialisation of children inside the household",
+            "OUTPUT -> reproduction or contestation of those norms",
+            "SIGNAL -> social change appears here before it appears in law"
+          ],
+          "source_references": [
+            "Family as socialisation unit",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Law against acceptance",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DOWRY -> legally prohibited, sociologically persistent",
+            "LIVE-IN -> protection expanded faster than social normalisation",
+            "CIVIL MARRIAGE -> Special Marriage Act, 1954 route exists",
+            "RULE -> a legal route is not a social permission"
+          ],
+          "source_references": [
+            "Dowry and the legal-social gap",
+            "Civil route versus social boundary",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two boundaries compared",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INTERCASTE -> parity protects family status and resources",
+            "INTERRELIGIOUS -> belonging, kinship and community sanction",
+            "TEST -> a civil route exists, so law is not the operative barrier",
+            "VERDICT -> different guards produce different speeds"
+          ],
+          "source_references": [
+            "Why the two marriage boundaries differ",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Work from home audit",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "GAIN -> presence at home, flexible care, less commuting",
+            "STRAIN -> blurred work-care boundary in shared space",
+            "INEQUALITY -> domestic labour load reproduced by gender norms",
+            "CONDITION -> housing, occupation and control over time decide"
+          ],
+          "source_references": [
+            "Work from home and family relationships",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Mediated socialisation test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "DISPLACED -> what direct interaction is being replaced",
+            "AGE AND CONTEXT -> what the child needs at this stage",
+            "MEDIATION -> is an adult present in the digital interaction",
+            "GAIN -> contact and learning that would not otherwise occur",
+            "CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is",
+            "  not gender equality, patriarchy is not identical across communities, and patriliny,",
+            "  matriliny, patrilocality, matrilocality, inheritance and authority must be compared on",
+            "  separate axes."
+          ],
+          "source_references": [
+            "Mediated childhood socialisation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Data boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "NFHS-5 2019-21 -> national Total Fertility Rate of 2.0",
+            "NFHS-6 2023-24 -> released on 29 May 2026",
+            "MEASURES -> fertility, not household form or marriage acceptance",
+            "RULE -> quote a metric only from its released fact sheet",
+            "EVIDENCE LIMIT: Use Hindu Succession reform, personal-law and Special Marriage Act boundaries",
+            "  with Khasi/Garo, Nair, north Indian and south Indian kinship variation; legal capacity and",
+            "  formal equality must not be reported as automatic bargaining power or social acceptance."
+          ],
+          "source_references": [
+            "Data boundaries and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Family answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> redistribution of functions, not institutional decline",
+            "BODY -> residence, obligation, marriage boundary, socialisation",
+            "CONDITION -> region, class, gender norms and mediation",
+            "CLOSE -> differentiated verdict with the data caveat"
+          ],
+          "source_references": [
+            "Data boundaries and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g2\\indian-society-04_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

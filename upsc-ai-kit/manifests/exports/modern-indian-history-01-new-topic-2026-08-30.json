@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "modern-indian-history-01",
+  "subject": "Modern-Indian-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "modern-indian-history-01",
+  "title": "The Decline of the Mughal Empire (1707–1740s)",
+  "variant": "learner-v2",
+  "generation": 2,
+  "generation_date": "2026-08-30",
+  "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — Decline of the Mughal Empire (1707–1740s)",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-01_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+  ],
+  "local_ocr_sources": [
+    "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+    "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf",
+    "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "official_question_sources": [
+    "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+    "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+  ],
+  "live_sources": [
+    "https://asi.nic.in/pages/WorldHeritageRedFort",
+    "https://whc.unesco.org/en/list/231/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package.md",
+    "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Complete-Topic-Package_2026-08-09.pdf",
+    "notes\\Modern-Indian-History\\01_The-Decline-of-the-Mughal-Empire-1707-1740s_Solved-Workbook_2026-08-09.pdf",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-01_Learning-Session.md",
+    "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-01-02-2026-08-30-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\modern-indian-history-01.json",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md",
+    "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+    "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md",
+    "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+    "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf",
+    "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf"
+  ],
+  "practice_profile": "80 independently worded MCQs; strict A-B-C-D repeated 20 times; canonical PYQ provenance retained.",
+  "pyq_status_note": "Verified local provenance is preserved; unavailable official keys remain inferred and no direct UPSC wording is fabricated.",
+  "current_linkage_note": "The ASI and UNESCO Red Fort records are used only as a bounded material-heritage bridge for institutional and symbolic continuity. They do not establish the causes of Mughal political contraction or disputed numerical claims about the 1739 sack.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "tracker_untouched": true
+}

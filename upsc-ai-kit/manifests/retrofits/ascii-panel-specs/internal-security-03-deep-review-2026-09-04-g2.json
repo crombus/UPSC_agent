@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-03",
+      "display_title": "Left-Wing Extremism and Integrated Response",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "LWE concept rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MAY 1967 NAXALBARI -> MOVEMENT ORIGIN",
+            "MAOIST OBJECTIVE -> CAPTURE STATE POWER",
+            "METHOD -> PROTRACTED PEOPLE'S WAR",
+            "BOUNDARY -> NOT A SECESSIONIST CLAIM"
+          ],
+          "source_references": [
+            "Naxalbari origin",
+            "LWE objective",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Five-phase expansion",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PREPARATORY -> PERSPECTIVE -> GUERRILLA",
+            "-> BASE -> LIBERATED PHASE",
+            "USE -> understand organisational intent",
+            "TRAP -> do not infer present territorial status"
+          ],
+          "source_references": [
+            "Five-phase strategy",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cause-actor matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "LAND / FOREST EXCLUSION | GOVERNANCE ABSENCE",
+            "POVERTY / SERVICES | SOCIAL ALIENATION",
+            "ORGANISED MAOIST ACTOR -> recruitment and coercion",
+            "RULE -> grievance is vulnerability, not automatic violence"
+          ],
+          "source_references": [
+            "Land-forest causes",
+            "Development-governance causes",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mineral-extortion loop",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "MINERAL / INFRASTRUCTURE ACTIVITY",
+            "-> CONTRACTING AND MOVEMENT OF FUNDS",
+            "-> EXTORTION OPPORTUNITY",
+            "-> FINANCE FOR COERCIVE CONTROL",
+            "QUALIFY -> resource wealth is not itself the cause"
+          ],
+          "source_references": [
+            "Mineral-extortion nexus",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Instrumental underdevelopment",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "POVERTY / ADMINISTRATIVE GAP -> RECRUITMENT VULNERABILITY",
+            "MAOIST OBSTRUCTION -> ROADS / POWER / WATER DELAYED",
+            "DELAY -> PARALLEL AUTHORITY PERSISTS",
+            "PERSISTENCE -> FURTHER OBSTRUCTION"
+          ],
+          "source_references": [
+            "Instrumental underdevelopment",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "People-affected map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "LIFE / SAFETY -> violence and coercion",
+            "LIVELIHOOD -> extortion, displacement, forest insecurity",
+            "SERVICES -> roads, schools, health access blocked",
+            "GOVERNANCE -> panchayat and justice presence weakened"
+          ],
+          "source_references": [
+            "Civilian impact",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Clear-hold-develop chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CLEAR -> secure lawful access",
+            "HOLD -> resident police + civil administration",
+            "DEVELOP -> rights + services + infrastructure",
+            "TRUST -> accountable delivery prevents relapse"
+          ],
+          "source_references": [
+            "Clear-hold-develop",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "2015 policy tripod",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "SECURITY RESPONSE",
+            "DEVELOPMENT RESPONSE",
+            "RIGHTS AND ENTITLEMENTS OF LOCAL COMMUNITIES",
+            "RULE -> no prong substitutes for the others"
+          ],
+          "source_references": [
+            "Three-pronged policy",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Rights-governance pair",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FRA 2006 -> individual and community forest-right claims",
+            "PESA 1996 -> Gram Sabha role in Fifth Schedule governance",
+            "ENACTMENT -> legal basis",
+            "IMPLEMENTATION -> separate verified outcome"
+          ],
+          "source_references": [
+            "FRA rights boundary",
+            "PESA governance boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Inter-State pressure map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "CHHATTISGARH | ODISHA | MAHARASHTRA | FORMER ANDHRA REGION",
+            "PRESSURE IN ONE STATE -> MOVEMENT TOWARD ANOTHER",
+            "DIFFERING POLICIES -> exploitable discontinuity",
+            "RESPONSE -> shared intelligence and compatible strategy",
+            "MUST REMEMBER: Left-wing extremism requires a calibrated governance-development-security..."
+          ],
+          "source_references": [
+            "Inter-State trijunction",
+            "Specialised-force lesson",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-03_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Surrender status firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SURRENDER -> one-time recorded event",
+            "SCREENING / PACKAGE -> administrative steps",
+            "LIVELIHOOD / SAFETY -> rehabilitation process",
+            "SOCIAL REINTEGRATION -> long-term outcome",
+            "CLOSE DISTINCTION: LWE is not ordinary rural deprivation, a security operation is not..."
+          ],
+          "source_references": [
+            "Surrender-rehabilitation firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-03_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Outcome and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> CAUSES -> ACTOR / EXTORTION -> PEOPLE AFFECTED",
+            "MAP -> SECURITY + DEVELOPMENT + RIGHTS + TRUST",
+            "TEST -> CLEAR / HOLD / DEVELOP + INTER-STATE COORDINATION",
+            "GRADE -> TARGET / METRIC / DISTRICT LABEL / QUALIFIED STATUS",
+            "CONCLUDE -> TRUSTED CONSTITUTIONAL GOVERNANCE WITHOUT PARALLEL COERCION",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Separate affected-area notification or..."
+          ],
+          "source_references": [
+            "Dated decline metrics",
+            "Post-deadline status",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\g2\\internal-security-03_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-03_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

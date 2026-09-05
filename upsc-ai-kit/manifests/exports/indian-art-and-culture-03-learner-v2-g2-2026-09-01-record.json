@@ -1,0 +1,149 @@
+{
+  "record_id": "indian-art-and-culture-03:learner-v2:g2",
+  "topic_key": "indian-art-and-culture-03",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "indian-art-and-culture-03:learner-v2:g1",
+  "command": "Generate learner-v2 topic: Indian Art and Culture — Subject-wide Syllabus — Temple Architecture and Chandella Khajuraho — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\Nitin Singhania's Indian Art and Culture.pdf"
+    ],
+    "live_sources": [
+      "https://whc.unesco.org/en/list/240/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md": "e73da23d97a41cb11223d04440c9c18fbba05d93f9bab1965cad89ee66a4a6b7",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md": "73c916f8b0332d96398ac648dbbf6240a7a198b4eb1435b38396018a6071b556",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md": "502dcd7fd7bdbed10a88e7e24314453421ca0fc512a8e69da461583a81af21ff",
+      "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "449ad138bd9f0def5da0cde840528ce2c9f53deecb482d517ea4165c2114b16f"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "UNESCO's official Khajuraho Group of Monuments page was fetched on 2026-09-01. It corroborates the axial Nagara plan, clustered spires, integrated sacred-secular sculpture and ASI management. No unsupported visitor or conservation figure is added.",
+    "pyq_status_note": "Verified owned Mains routes are the 2024 Pallava and Chola demands, the 2025 Chandella demand, and the routed 2022 demand on medieval temple sculpture as social evidence. The 2026 objective route remains provisionally keyed and is not solved.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "b19eaaf431c3fbde82795a8ae98c04d169694af0b242872262ae5bbbcfb0c5cf",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Solved-Practice-Workbook_2026-09-01.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus-content-specs\\indian-art-and-culture-03-g2.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-deep-review-2026-09-01-g2.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md": "8ddc4e0410e253f192ca835d263899fdf4233774da5794fe1488a0c43abfb6b2",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Solved-Practice-Workbook_2026-09-01.md": "32f58de71e1fbdbff4112e79abc47ec65c873cad35ff3c11df790e1535966e62",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.pdf": "d9ff3aa63557ba14b0634b456c4c38e868b05df85282d7e34157256487aa69ed",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\indian-art-and-culture-03_Solved-Practice-Workbook_2026-09-01.pdf": "58c62a5adbf06aa9f7a2317024082413f3dcb36193bf132a849d3a60229329fa",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\validation\\main-visual-audit-map.json": "26691eca58fbb32ebe2e2585db9183d859133a0ad217a1a1c98f6e970af2a03f",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\validation\\workbook-visual-audit-map.json": "ee9acb14d17c44c1d4f8ccf74cdf35c4048793b82d336eaefa9a9e983dc6f349",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-deep-review-2026-09-01-g2.json": "fceec74ac2f0cf5238292e23d682344772c8a1ce2283a8d4893e0d08ae73fd76",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Art-and-Culture\\deep-review\\indian-art-and-culture-03-g2.json": "1f6192c8b94e1c57a24d0f7fd587bde32c2afe46a59181f4f96b3b2887bdc1ad",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-03\\g2\\assets\\indian-art-and-culture-03_Teaching-Navigation_2026-09-01.png": "812c2c76cd39f9c75f8abdc8a40bff995b4e5cda8cfe92741a787bbf9da5348a",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\ascii-master.pdf": "6667ee8f82709357337854712a65b798d2eb97b57d1f5ef9d7bcce2aa04c4277",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\ascii-master.txt": "b5dc1f1a108eae62ad2d18ab6fedb0ed9df8fae3c557d9a0120e8bfab3fb10dd",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\build-audit.json": "0ecab6a5b786d15e97a15cd924f74cbd499383d9e193cc582d6dba83e5a3ce8d",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\master.png": "abe1d033b0f23dc8b2c513efd3cd8399cb791352fe22eb4b7ae82cbc5649f3ff",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\poster.pdf": "717f0518937931725987e5790e0c4a5d6b63d9bf03b73cdcc759d0dc1b410b73",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\preservation-hashes.json": "55075b82e7d370f8f963195f61b7d8997d1d2e37417e0b69dac86799a42cccc1",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\README.txt": "00a987753f2bd6338cdba0fdd403b8bbaf2a2c19cc545f3a28d071ce7901ccf3",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\tiled.pdf": "d74bd6f3ccb914e19105fe568eb5ba523fcac39a871a6f0f7bb5a94e8e485841",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\validation-report.txt": "c3395805b85860bff125b6d93974d4f851240d0728a26d8aea53ab3598baf658",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\editable\\topic-spec.json": "1f6192c8b94e1c57a24d0f7fd587bde32c2afe46a59181f4f96b3b2887bdc1ad",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\contact-sheet-01.png": "b7b3ba5d7bfd093beb9ce1ce5f80031d29a5cd4348e1eddea214036c6ecb6b34",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\master-overview.png": "2bf07ce0fc9c301a3e22059b37119a87394bba43d721455c0338c99cedac9a7f",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\page-001.png": "ace709a8ada2dbb57ff4fdfff4895738bd014cc2819f972dc3dfc4e287a0c263",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\page-002.png": "766c82c2067e43bcad6544e7438557c8742c3aef28558827a6344c0c778574d3",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\page-003.png": "f88b8e439016502310c765ec841169838e6980a3ee2abc1a24bb0756f84a4953",
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\page-004.png": "7be0ee5a26c2bad20a78b5a3081e5664d4c9aa93189217e332d5e63dcdeb2406",
+      "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus-content-specs\\indian-art-and-culture-03-g2.json": "eb50e66e840645b9935e7708d42309047d6f7049703d54f033ab87d34036e2da"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "indian-art-and-culture-03:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "regenerate_indian_art_culture_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Art-and-Culture\\deep-review\\indian-art-and-culture-03-g2.json",
+    "graphical_spec_sha256": "1f6192c8b94e1c57a24d0f7fd587bde32c2afe46a59181f4f96b3b2887bdc1ad",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-deep-review-2026-09-01-g2.json",
+    "ascii_master_spec_sha256": "fceec74ac2f0cf5238292e23d682344772c8a1ce2283a8d4893e0d08ae73fd76",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-03\\carvaka-g2\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-indian-art-and-culture-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

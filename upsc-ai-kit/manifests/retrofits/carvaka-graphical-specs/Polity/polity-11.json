@@ -1,0 +1,973 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-11",
+  "subject": "Polity",
+  "title": "PARLIAMENTARY SYSTEM",
+  "short_route": "RESPONSIBLE GOVERNMENT → REAL EXECUTIVE → FEATURES → CONFIDENCE → CABINET → DOMINANCE → ACCOUNTABILITY → PRESIDENTIAL COMPARISON → INDIAN CHOICE → CURRENT/PYQ CONTROL → ANSWER SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. The grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "DEEP-CONTENT REVALIDATION PENDING",
+    "line": "Approval: FALSE • immutable g3 allocation required • g2 remains preserved"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+  "ascii_spec_sha256": "8bad01e520f3d96e9055d198d2d1b91c9c211cfae56e597cc4d2658fcea1f05d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RESPONSIBLE GOVERNMENT: THE CONSTITUTIONAL MAP",
+      "structural_type": "parliamentary-architecture-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESPONSIBLE GOVERNMENT",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 74-75",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 77-78",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 163-164",
+          "role": "outcome"
+        },
+        {
+          "text": "NOMINAL EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "REAL EXECUTIVE",
+          "role": "caution"
+        },
+        {
+          "text": "LOK SABHA CONFIDENCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "UNION ARCHITECTURE",
+          "role": "institution",
+          "items": [
+            "Articles 74-75: PM-led Council and collective responsibility.",
+            "Article 77: conduct of Union business.",
+            "Article 78: PM-President information duties."
+          ]
+        },
+        {
+          "heading": "STATE PARALLELS",
+          "role": "comparison",
+          "items": [
+            "Articles 163-164: CM-led Council and Assembly responsibility.",
+            "Articles 166-167: State business and information duties.",
+            "The architecture is parallel with bounded contextual differences."
+          ]
+        },
+        {
+          "heading": "SYSTEM LOGIC",
+          "role": "mechanism",
+          "items": [
+            "Election creates the House.",
+            "House majority supports the ministry.",
+            "Continuing confidence sustains authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "“Cabinet government” may name the constitutional form, while “cabinet dominance” or “prime-ministerial government” are later analytical claims about the internal distribution of power.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#01. Definition: classify government by the executive-legislature relationship",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#02. Constitutional architecture at Union and State levels"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NOMINAL HEAD, REAL EXECUTIVE AND BINDING ADVICE",
+      "structural_type": "executive-advice-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRESIDENT",
+          "role": "institution"
+        },
+        {
+          "text": "PRIME MINISTER",
+          "role": "primary"
+        },
+        {
+          "text": "COUNCIL OF MINISTERS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 74",
+          "role": "outcome"
+        },
+        {
+          "text": "RECONSIDERATION ONCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 74(2)",
+          "role": "caution"
+        },
+        {
+          "text": "LIMITED DISCRETION",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "Formal authority",
+        "Ministerial advice",
+        "One reconsideration",
+        "Binding reconsidered advice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FORMAL AND REAL POWER",
+          "role": "institution",
+          "items": [
+            "The President is constitutional head.",
+            "The PM and Council form the real political executive.",
+            "Policy authority carries Lok Sabha responsibility."
+          ]
+        },
+        {
+          "heading": "ADVICE RULE",
+          "role": "mechanism",
+          "items": [
+            "Article 74 advice normally binds.",
+            "The President may once require reconsideration.",
+            "Reconsidered advice binds."
+          ]
+        },
+        {
+          "heading": "BOUNDARIES",
+          "role": "caution",
+          "items": [
+            "Article 74(2) protects inquiry into advice.",
+            "Underlying legality may still be reviewed.",
+            "Hung-House appointment and dissolution use convention and floor testing."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Courts may review the action on constitutional grounds while Article 74(2) protects the advice itself from inquiry.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#02. Constitutional architecture at Union and State levels",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#03. Nominal and real executive: form, advice and accountability"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CLASSIC FEATURES AND COLLECTIVE RESPONSIBILITY",
+      "structural_type": "feature-responsibility-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DUAL EXECUTIVE",
+          "role": "institution"
+        },
+        {
+          "text": "MAJORITY OR COALITION",
+          "role": "primary"
+        },
+        {
+          "text": "COLLECTIVE RESPONSIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DOUBLE MEMBERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "PM LEADERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "DISSOLUTION",
+          "role": "caution"
+        },
+        {
+          "text": "CABINET SOLIDARITY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM FEATURES",
+          "role": "primary",
+          "items": [
+            "Dual executive and majority or coalition rule.",
+            "Executive drawn from legislature.",
+            "PM leadership and possible lower-House dissolution."
+          ]
+        },
+        {
+          "heading": "COLLECTIVE RULE",
+          "role": "mechanism",
+          "items": [
+            "Cabinet decisions bind all ministers publicly.",
+            "A dissenting minister must accept or resign.",
+            "Loss of Lok Sabha confidence affects the entire ministry."
+          ]
+        },
+        {
+          "heading": "INDIVIDUAL RULE / LIMIT",
+          "role": "caution",
+          "items": [
+            "A minister may leave for misconduct or failure.",
+            "Individual departure need not topple government.",
+            "Fusion does not erase courts, bicameralism or elections."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The President is normally a nominal executive, but bounded discretion and information rights prevent the office from becoming constitutionally irrelevant.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#04. The eight classic features: mechanism plus caveat",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#05. Collective responsibility as the bedrock"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONFIDENCE, DISSOLUTION AND CARETAKER CONVENTIONS",
+      "structural_type": "confidence-dissolution-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MAJORITY GOVERNMENT",
+          "role": "institution"
+        },
+        {
+          "text": "COALITION",
+          "role": "primary"
+        },
+        {
+          "text": "MINORITY GOVERNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NO-CONFIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOOR TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "RESIGNATION",
+          "role": "caution"
+        },
+        {
+          "text": "DISSOLUTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "CARETAKER",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Government formation",
+        "Continuing confidence",
+        "Floor test",
+        "Resignation or dissolution",
+        "Caretaker transition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "GOVERNMENT FORMS",
+          "role": "comparison",
+          "items": [
+            "Majority ministry.",
+            "Coalition ministry.",
+            "Minority ministry with outside support."
+          ]
+        },
+        {
+          "heading": "CONFIDENCE TEST",
+          "role": "mechanism",
+          "items": [
+            "No-confidence or confidence motion.",
+            "Floor test where majority is disputed.",
+            "Defeat on an expressly treated confidence issue."
+          ]
+        },
+        {
+          "heading": "LOSS AND TRANSITION",
+          "role": "outcome",
+          "items": [
+            "Resign or seek lawful dissolution.",
+            "Constitutional head may assess a viable alternative.",
+            "Caretaker government preserves continuity with restraint."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "In the Article 356 context, legislative majority should ordinarily be tested on the Assembly floor rather than inferred from subjective claims outside the House; proclamation material is judicially reviewable.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#05. Collective responsibility as the bedrock"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CABINET, COUNCIL AND PRIME MINISTERIAL LEADERSHIP",
+      "structural_type": "cabinet-council-hierarchy",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "COUNCIL OF MINISTERS",
+          "role": "institution"
+        },
+        {
+          "text": "CABINET",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET COMMITTEES",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIME MINISTER",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTFOLIOS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 78",
+          "role": "caution"
+        },
+        {
+          "text": "CABINET SECRETARIAT",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "COUNCIL",
+          "role": "institution",
+          "items": [
+            "The wider constitutional ministry includes several ranks.",
+            "All share collective responsibility.",
+            "The Council is not identical to the Cabinet."
+          ]
+        },
+        {
+          "heading": "CABINET",
+          "role": "mechanism",
+          "items": [
+            "Smaller inner decision core.",
+            "Handles policy, legislation, budget and crisis choices.",
+            "Cabinet Committees specialise coordination."
+          ]
+        },
+        {
+          "heading": "PRIME MINISTER",
+          "role": "outcome",
+          "items": [
+            "Selects and allocates portfolios through advice.",
+            "Chairs Cabinet and leads the majority or coalition.",
+            "Connects President, ministry and Parliament under Article 78."
+          ]
+        }
+      ],
+      "mechanism_strip": "The Cabinet Secretariat page accessed on 24 August 2026 confirms business-rule administration, Cabinet assistance and inter-ministerial coordination.",
+      "answer_line": "Article 123 permits temporary legislation when Parliament is not in session, but repeated or strategic ordinances can bypass deliberation and weaken legislative accountability.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#09. Cabinet and PM dominance: how Parliament may be marginalised",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#02. Constitutional architecture at Union and State levels"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CABINET AND PM DOMINANCE: THE CAUSAL CHAIN",
+      "structural_type": "cabinet-dominance-causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FUSION",
+          "role": "institution"
+        },
+        {
+          "text": "MAJORITY",
+          "role": "primary"
+        },
+        {
+          "text": "WHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSE TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "GUILLOTINE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 123",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 110",
+          "role": "mechanism"
+        },
+        {
+          "text": "PMO",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Fusion",
+        "Disciplined majority",
+        "Agenda and information control",
+        "Weaker scrutiny"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASE",
+          "role": "institution",
+          "items": [
+            "Articles 74-75 place the ministry inside Parliament.",
+            "Confidence links survival to Lok Sabha.",
+            "Fusion enables coordination and dominance."
+          ]
+        },
+        {
+          "heading": "AMPLIFIERS",
+          "role": "mechanism",
+          "items": [
+            "Majority, whip and Tenth Schedule risk.",
+            "Agenda, guillotine, delegation and ordinances.",
+            "Information, appointment and PMO coordination."
+          ]
+        },
+        {
+          "heading": "EFFECT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Scrutiny may become ratification.",
+            "PRS: 274 days; 16% Bills referred.",
+            "Constitutional sovereignty does not pass to Cabinet."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Cabinet growth can hollow out deliberation through fusion, party discipline and procedural control without making the executive legally sovereign.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#09. Cabinet and PM dominance: how Parliament may be marginalised"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ACCOUNTABILITY CORRECTIVES: PARLIAMENT IS NOT POWERLESS",
+      "structural_type": "accountability-corrective-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NO-CONFIDENCE",
+          "role": "institution"
+        },
+        {
+          "text": "QUESTION HOUR",
+          "role": "primary"
+        },
+        {
+          "text": "DRSCS",
+          "role": "evidence"
+        },
+        {
+          "text": "PAC-CAG",
+          "role": "outcome"
+        },
+        {
+          "text": "OPPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "RAJYA SABHA",
+          "role": "caution"
+        },
+        {
+          "text": "COURTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ELECTIONS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SURVIVAL / DAILY",
+          "role": "primary",
+          "items": [
+            "Confidence and supply control.",
+            "Questions, debates and motions.",
+            "Opposition exposes and contests."
+          ]
+        },
+        {
+          "heading": "DEEP / STRUCTURAL",
+          "role": "institution",
+          "items": [
+            "DRSC and delegated-law scrutiny.",
+            "PAC-CAG financial chain.",
+            "Bicameralism, courts and elections."
+          ]
+        },
+        {
+          "heading": "RENEWAL",
+          "role": "caution",
+          "items": [
+            "Predictable sitting days.",
+            "Routine committee referral.",
+            "Narrower whip and responsible ordinance use."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The constitutional remedy for executive dominance is renewed parliamentary capacity, not abandonment of responsible government.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#10. Accountability correctives: Parliament is not powerless"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PARLIAMENTARY VERSUS PRESIDENTIAL GOVERNMENT",
+      "structural_type": "system-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DUAL EXECUTIVE",
+          "role": "institution"
+        },
+        {
+          "text": "SINGLE EXECUTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "CONFIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "FIXED TERM",
+          "role": "outcome"
+        },
+        {
+          "text": "FUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION",
+          "role": "caution"
+        },
+        {
+          "text": "ACCOUNTABILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "STABILITY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [
+        [
+          "Axis",
+          "Parliamentary",
+          "Presidential"
+        ],
+        [
+          "Tenure",
+          "Confidence-dependent",
+          "Fixed"
+        ],
+        [
+          "Powers",
+          "Fusion",
+          "Separation"
+        ],
+        [
+          "Removal",
+          "No-confidence",
+          "Impeachment and conviction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PARLIAMENTARY",
+          "role": "institution",
+          "items": [
+            "Ministry emerges from legislative support.",
+            "Tenure depends on lower-House confidence.",
+            "Ministers sit and answer in the legislature."
+          ]
+        },
+        {
+          "heading": "PRESIDENTIAL",
+          "role": "comparison",
+          "items": [
+            "President selected separately.",
+            "Fixed tenure with exceptional removal.",
+            "Department secretaries remain outside Congress."
+          ]
+        },
+        {
+          "heading": "TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "Daily accountability versus tenure stability.",
+            "Coordination versus deadlock risk.",
+            "Kitchen Cabinet means informal advisers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India chose continuing legislative responsibility over a confidence-independent fixed executive term.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#06. Parliamentary versus presidential government: exact axes",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#11. India, Britain and the United States: comparative precision"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHY INDIA CHOSE IT: PERFORMANCE, STABILITY AND COALITIONS",
+      "structural_type": "adoption-performance-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "AMBEDKAR",
+          "role": "institution"
+        },
+        {
+          "text": "RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILIARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PLURALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "SWARAN SINGH",
+          "role": "comparison"
+        },
+        {
+          "text": "COALITIONS",
+          "role": "caution"
+        },
+        {
+          "text": "STABILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCRUTINY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ADOPTION",
+          "role": "institution",
+          "items": [
+            "Responsibility preferred to greater fixed-term stability.",
+            "Familiar institutions lowered transition risk.",
+            "Cabinet form could accommodate plural interests."
+          ]
+        },
+        {
+          "heading": "PERFORMANCE",
+          "role": "comparison",
+          "items": [
+            "Short-lived ministries demonstrate instability risk.",
+            "Full-term coalitions after 1999 demonstrate adaptation.",
+            "Continuity also rests on durable institutions."
+          ]
+        },
+        {
+          "heading": "VERDICT",
+          "role": "caution",
+          "items": [
+            "Instability is conditional, not inherent.",
+            "Stable majority may still weaken scrutiny.",
+            "Reform Parliament rather than remove confidence control."
+          ]
+        }
+      ],
+      "mechanism_strip": "Short-lived ministries show risk; full-term coalitions after 1999 show that instability is conditional, not inherent.",
+      "answer_line": "India's experience shows that parliamentary instability is conditional, while responsibility depends on the actual strength of House scrutiny.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#07. Why India adopted the parliamentary system",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#08. Merits, demerits and the Indian experience"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CURRENT CONTROL, TRAPS AND VERIFIED PYQ ROUTES",
+      "structural_type": "current-pyq-trap-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "129TH BILL",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 82A PROPOSED",
+          "role": "primary"
+        },
+        {
+          "text": "BILL NOT LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "30 JULY 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "WINTER SESSION 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "LOK SABHA CONFIDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "2024 GS-II Q3",
+          "role": "mechanism"
+        },
+        {
+          "text": "INFERRED KEYS LABELLED",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CURRENT — 28 AUG 2026",
+          "role": "institution",
+          "items": [
+            "129th Amendment Bill proposes Article 82A.",
+            "Committee term extended 30 July 2026.",
+            "Still under examination; no implementation year."
+          ]
+        },
+        {
+          "heading": "CLOSE TRAPS",
+          "role": "caution",
+          "items": [
+            "Lok Sabha, not Rajya Sabha, controls survival.",
+            "Government is not sovereignty.",
+            "Coalition remains parliamentary."
+          ]
+        },
+        {
+          "heading": "PYQ ROUTES",
+          "role": "evidence",
+          "items": [
+            "2020/2021 Prelims definition and India-UK.",
+            "2018/2023 GS-II comparative routes.",
+            "2024 GS-II cabinet marginalisation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Current evidence must remain dated and conditional: proposed Article 82A is not part of the Constitution.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#12. Current control: simultaneous elections as a system-design debate",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#13. Prelims close-option traps and qualified verdicts",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#Verified routed PYQs"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "synthesis",
+      "title": "FINAL SYNTHESIS: MARKS-SCALED ANSWER ROUTES",
+      "structural_type": "marks-scaled-answer-route",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "AMBEDKAR",
+          "role": "institution"
+        },
+        {
+          "text": "RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILIARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PLURALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "SWARAN SINGH",
+          "role": "comparison"
+        },
+        {
+          "text": "COALITIONS",
+          "role": "caution"
+        },
+        {
+          "text": "STABILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCRUTINY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ADOPTION",
+          "role": "institution",
+          "items": [
+            "Responsibility preferred to greater fixed-term stability.",
+            "Familiar institutions lowered transition risk.",
+            "Cabinet form could accommodate plural interests."
+          ]
+        },
+        {
+          "heading": "PERFORMANCE",
+          "role": "comparison",
+          "items": [
+            "Short-lived ministries demonstrate instability risk.",
+            "Full-term coalitions after 1999 demonstrate adaptation.",
+            "Continuity also rests on durable institutions."
+          ]
+        },
+        {
+          "heading": "VERDICT",
+          "role": "caution",
+          "items": [
+            "Instability is conditional, not inherent.",
+            "Stable majority may still weaken scrutiny.",
+            "Reform Parliament rather than remove confidence control."
+          ]
+        }
+      ],
+      "mechanism_strip": "Short-lived ministries show risk; full-term coalitions after 1999 show that instability is conditional, not inherent.",
+      "answer_line": "India trades some tenure certainty for continuing responsibility; the remedy for weak scrutiny is stronger Parliament, not confidence-free executive power.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#Original Mains practice with model solutions",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#CONSOLIDATED REGISTER NOTES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT: CABINET GOVERNMENT THEORY",
+      "structural_type": "advanced-parliamentary-theory-columns",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "BAGEHOT",
+          "role": "primary"
+        },
+        {
+          "text": "JENNINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTIVE DICTATORSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENTIALISATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ENRICHMENT",
+          "role": "comparison",
+          "items": [
+            "Bagehot explains Cabinet linkage; Jennings stresses convention.",
+            "Elective-dictatorship and core-executive labels analyse dominance."
+          ]
+        },
+        {
+          "heading": "USE WITH DISCIPLINE",
+          "role": "caution",
+          "items": [
+            "Labels do not change Articles 74-75.",
+            "Presidentialisation is analytical, not legal conversion.",
+            "Add only after the complete core answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "This enrichment is unnecessary for a competent core answer and remains subordinate to constitutional Articles, confidence, accountability, comparisons and PYQs.",
+      "answer_line": "",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-11\\g3-source\\polity-11_g3-reviewed-source.md#PART II - Optional Advanced analytical labels"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-14",
+      "display_title": "Foundation of the INC & the Moderate Phase (1885–1905)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Associations converged into an all-India platform",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1851 BRITISH INDIAN ASSOCIATION -> elite articulation in Bengal",
+            "1866 EAST INDIA ASSOCIATION -> Indian claims before British opinion",
+            "1870 POONA SARVAJANIK SABHA -> public representation in western India",
+            "1876 INDIAN ASSOCIATION -> broader political mobilisation",
+            "1884-85 MADRAS / BOMBAY BODIES -> regional networks ready for Congress",
+            "DEC 1885 INC -> one annual all-India platform, not a political beginning from zero.",
+            "MUST REMEMBER: The INC met first at Bombay in December 1885 under W.C. Bonnerjee; A.O. Hume",
+            "  mattered organisationally, but Indian associations, economic critique and political networks",
+            "  predated it."
+          ],
+          "source_references": [
+            "Mini-timeline",
+            "Pre-1885 groundwork",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "The first Congress session identity card",
+          "structural_type": "identity-card",
+          "ascii_lines": [
+            "PLACE -> Bombay",
+            "DATE -> December 1885",
+            "DELEGATES -> 72",
+            "PRESIDENT -> W.C. Bonnerjee",
+            "ORGANISER -> A.O. Hume helped convene",
+            "EXAM LIMIT -> organiser does not equal creator of Indian nationalism."
+          ],
+          "source_references": [
+            "Foundation and the safety-valve controversy",
+            "Must-Know Facts",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Safety valve versus national movement",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "SAFETY-VALVE CLAIM -> Hume channelled dangerous discontent",
+            "PROBLEM 1 -> motive of one organiser cannot explain a social movement",
+            "PROBLEM 2 -> associations, press and grievances existed before 1885",
+            "NATIONAL-MOVEMENT THESIS -> Indian forces supplied cause and content",
+            "BALANCED VERDICT -> Hume explains facilitation, not historical ownership."
+          ],
+          "source_references": [
+            "Foundation and the safety-valve controversy",
+            "Qualified thesis options",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Moderate constitutional repertoire",
+          "structural_type": "process",
+          "ascii_lines": [
+            "GRIEVANCE -> resolution at annual Congress",
+            "RESOLUTION -> petition, memorial and press campaign",
+            "PUBLICITY -> meetings, newspapers and British deputations",
+            "INSTITUTION -> legislative question and budget criticism",
+            "PURPOSE -> educate Indian opinion and pressure imperial liberalism",
+            "CEILING -> the colonial executive retained decisive power."
+          ],
+          "source_references": [
+            "Constitutional method",
+            "Mechanism - how petitioning built a nation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Economic nationalism made poverty political",
+          "structural_type": "causal-web",
+          "ascii_lines": [
+            "DRAIN -> resources transferred without equivalent return",
+            "DEINDUSTRIALISATION -> older production weakened under dependent trade",
+            "REVENUE PRESSURE -> cultivators carried fiscal risk",
+            "MILITARY COST -> Indian revenues financed imperial priorities",
+            "SERVICE EXCLUSION -> salaries and authority remained racially unequal",
+            "CONCLUSION -> poverty became an indictment of colonial structure."
+          ],
+          "source_references": [
+            "Economic nationalism - the intellectual achievement",
+            "Drain theory",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Demand map of the Moderates",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "COUNCILS -> enlargement, elective principle, questions and budgets",
+            "SERVICES -> Indianisation and simultaneous ICS examinations",
+            "FINANCE -> lower military spending and scrutiny of home charges",
+            "RIGHTS -> speech, press and association",
+            "ADMINISTRATION -> accountability and racial equality",
+            "BOUNDARY -> reform of empire, not immediate complete independence."
+          ],
+          "source_references": [
+            "Key classification / data",
+            "Moderate demands",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Indian Councils Act 1892: gain and ceiling",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "GAIN -> enlarged legislative councils",
+            "GAIN -> indirect election-like recommending bodies",
+            "GAIN -> budget discussion and questions",
+            "NO GAIN -> elected majority",
+            "NO GAIN -> executive responsibility or budget control",
+            "VERDICT -> procedure expanded while colonial power remained intact."
+          ],
+          "source_references": [
+            "Concrete institutional gains",
+            "Factual-risk cautions",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Annual Congress as political education",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "ANNUAL SESSION -> leaders compare regional grievances",
+            "COMMON LANGUAGE -> rights, economy, representation and accountability",
+            "PRESS REPRODUCTION -> arguments reach provincial publics",
+            "COUNCIL PRACTICE -> evidence, questions and budget criticism improve",
+            "NEW PUBLIC -> Indians imagine a shared political community",
+            "LOOP -> public pressure strengthens the next annual session."
+          ],
+          "source_references": [
+            "Political education",
+            "Mechanism - how petitioning built a nation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "The social-base paradox",
+          "structural_type": "two-sided",
+          "ascii_lines": [
+            "STRENGTH -> educated lawyers, journalists and teachers mastered print and law",
+            "STRENGTH -> presidency-town networks enabled all-India coordination",
+            "LIMIT -> peasants, workers, women and many lower castes remained outside",
+            "LIMIT -> English and institutional politics restricted access",
+            "RESULT -> strong argument and weak mass reach",
+            "NEXT PHASE -> boycott sought mobilisation beyond the petitioning elite."
+          ],
+          "source_references": [
+            "Social base and its consequences",
+            "Counter-evidence, balance and variation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Achievement depends on the measuring scale",
+          "structural_type": "evaluation-matrix",
+          "ascii_lines": [
+            "POWER TRANSFER -> LOW: no responsible government",
+            "PROCEDURAL OPENING -> LIMITED: 1892 councils",
+            "ECONOMIC CRITIQUE -> HIGH: colonial exploitation exposed",
+            "ORGANISATION -> HIGH: enduring all-India platform",
+            "POLITICAL EDUCATION -> HIGH: trained leaders and public opinion",
+            "VERDICT -> immediate failure coexisted with foundational success.",
+            "CLOSE DISTINCTION: The 'safety-valve' claim is not an adequate monocausal origin theory;",
+            "  Moderate constitutional methods could be limited yet still create an all-India political",
+            "  vocabulary and economic indictment."
+          ],
+          "source_references": [
+            "Evaluation of Moderates",
+            "Verdict scaffolds",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Moderates to militants: continuity and rupture",
+          "structural_type": "bridge",
+          "ascii_lines": [
+            "CONTINUITY -> drain critique and colonial economic indictment",
+            "CONTINUITY -> Congress as the national organisational arena",
+            "CONTINUITY -> civil liberties and representative claims",
+            "RUPTURE -> faith in British justice declined",
+            "RUPTURE -> petition yielded to boycott, self-reliance and passive resistance",
+            "1905 -> limitation of one method generated the next repertoire.",
+            "EVIDENCE LIMIT: Nationalist, Cambridge and subaltern accounts should be compared through",
+            "  membership, petitions, associations, press and provincial participation, including the",
+            "  movement's narrow early social base."
+          ],
+          "source_references": [
+            "Why Extremism followed",
+            "Continuity/rupture",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Moderate answer-writing spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> constitutional nationalism with an educated middle-class base",
+            "ORIGIN -> pre-1885 associations plus common colonial grievances",
+            "METHOD -> petition, press, councils and deputations",
+            "ACHIEVEMENT -> organisation, economic critique and political education",
+            "LIMIT -> narrow reach, loyalist faith and limited concessions",
+            "VERDICT -> failed to gain power, succeeded in making later struggle possible."
+          ],
+          "source_references": [
+            "Mark-scaled structure",
+            "Verdict scaffolds",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

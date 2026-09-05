@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-10",
+      "display_title": "Urbanisation: Problems and Remedies",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Pull mechanism",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "JOB DIVERSITY -> formal and informal work absent in smaller towns",
+            "AGGLOMERATION -> deeper labour markets, matching, knowledge spillovers",
+            "NETWORKS -> kin and referral chains lower search cost and risk",
+            "CONDITION -> small-town formal-sector depth is thin",
+            "MUST REMEMBER: Urbanisation is a rising urban share plus economic, occupational, spatial and",
+            "  institutional transformation; migration, natural increase, reclassification and boundary",
+            "  expansion produce different growth paths, while informality mediates housing, work, services",
+            "  and citizenship."
+          ],
+          "source_references": [
+            "Why large cities pull migrants",
+            "What clustering actually produces",
+            "The developing-country condition",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Chain migration",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "FIRST MOVERS -> arrive and secure work and lodging",
+            "INFORMATION -> referral chains reduce risk for the next arrivals",
+            "COMPOUNDING -> the migrant population is itself a pull factor",
+            "RESULT -> concentration deepens rather than stabilising"
+          ],
+          "source_references": [
+            "Networks and self-reinforcing migration",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "From inflow to informality",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INFLOW -> migration outpaces formal affordable-housing supply",
+            "MARKET -> unauthorised colonies, informal rental subdivision",
+            "GOVERNANCE -> land prices, tenure rules, regulatory exclusion",
+            "READING -> a joint market and governance outcome, never a resident failure"
+          ],
+          "source_references": [
+            "When housing supply falls behind inflow",
+            "What a slum is and is not",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Tenure and services",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "NO RECOGNISED CLAIM -> no formal utility connection permitted",
+            "WATER AND SANITATION -> shared, intermittent or purchased at a premium",
+            "HEALTH -> exposure and cost compound the housing deficit",
+            "POLICY -> tenure regularisation precedes durable service delivery"
+          ],
+          "source_references": [
+            "Tenure and the service connection",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two levels of urban experience",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANOMIE -> weakened bonds and shared norms under density and anonymity",
+            "CONTINUUM -> continuing village linkage through migration and remittance",
+            "LEVEL -> social-psychological against structural and economic",
+            "RULE -> both can hold for the same household at the same time"
+          ],
+          "source_references": [
+            "Alienation and anomie",
+            "Anomie beside the rural-urban continuum",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two justice tests",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DISTRIBUTIVE -> are services and infrastructure fairly shared",
+            "PROCEDURAL -> did affected residents have a real planning voice",
+            "SEQUENCE -> exclusion from process usually precedes exclusion from benefit",
+            "USE -> apply both before judging any urban investment"
+          ],
+          "source_references": [
+            "Distributive and procedural justice",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Smart-city design contrast",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EXCLUSIONARY -> upgrading concentrated in designated or better-off zones",
+            "INCLUSIVE -> services, tenure and connectivity extended into settlements",
+            "TEST -> did access change for the informally settled poor",
+            "LIMIT -> technology is an instrument, never a distributive outcome"
+          ],
+          "source_references": [
+            "The smart city under a social lens",
+            "Two smart-city designs",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Upgrading against clearance",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IN-SITU UPGRADING -> infrastructure and tenure improved in place",
+            "GAIN -> livelihood, schooling and community networks preserved",
+            "CLEARANCE -> relocation to peripheral sites, administratively faster",
+            "COST -> access to central-city informal work is severed"
+          ],
+          "source_references": [
+            "Upgrading against clearance",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Evidence-status card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> United Nations World Urbanization Prospects 2025",
+            "ESTIMATE -> India about 36 per cent urban in 2025",
+            "STATUS -> a projection-based estimate, not Census data",
+            "BOUNDARY -> Census 2011 is the last full count; Census 2027 is prospective"
+          ],
+          "source_references": [
+            "Density, crime and the measurement boundary",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Causal restraint on crime",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "DENSITY ALONE -> insufficient as an explanation of urban crime",
+            "CONFOUNDERS -> inequality, policing, opportunity, reporting, networks",
+            "REQUIREMENT -> context-specific evidence before any causal claim",
+            "SAFE MOVE -> describe mechanisms, refuse an anomie shortcut",
+            "CLOSE DISTINCTION: Urbanisation is not urban population growth, statutory town is not census",
+            "  town, slum is not every informal settlement, metropolitan region is not one municipality,",
+            "  and Smart Cities, AMRUT, PMAY-U and municipal constitutional functions have distinct",
+            "  mandates."
+          ],
+          "source_references": [
+            "Density, crime and the measurement boundary",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Growth and its cost",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CLUSTERING -> productivity, matching and a wage premium",
+            "SAME MECHANISM -> congestion, housing-cost inflation, service strain",
+            "TIER-2 -> new middle class, organised retail, consumption aspiration",
+            "READING -> differentiated work and housing, not shared prosperity",
+            "EVIDENCE LIMIT: Compare Delhi-NCR, Mumbai, Bengaluru, Surat, Chennai and Kerala's dispersed",
+            "  settlement; source Census 2011 classifications and current mission status separately, and",
+            "  explain congestion, segregation or flooding through land, infrastructure, ecology and",
+            "  governance rather than city size alone."
+          ],
+          "source_references": [
+            "Trade-offs, consumption and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Urbanisation answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the mechanism the directive is actually testing",
+            "BODY -> pull, housing lag, tenure and service exclusion in order",
+            "TEST -> distributive and procedural justice against the design chosen",
+            "CLOSE -> conditional verdict with the projection-not-Census caveat"
+          ],
+          "source_references": [
+            "Trade-offs, consumption and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\10_Urbanisation-Problems-and-Remedies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-10\\g2\\indian-society-10_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

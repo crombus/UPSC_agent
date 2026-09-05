@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T13:30:35+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "60ed59a28ba5eac73ef73b989cb05f8a9b3cb3f8603ce28db06ac05d14870163",
+    "sha256_after": "60ed59a28ba5eac73ef73b989cb05f8a9b3cb3f8603ce28db06ac05d14870163",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "World History": 1
+  },
+  "sections": {
+    "World History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9631,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1580,
+    "json_count": 3814,
+    "total_bytes": 4234808093,
+    "by_extension": {
+      ".json": 3814,
+      ".md": 1580,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-18",
+      "topic_title": "Decolonization of Africa and Asia",
+      "subject": "World History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 18,
+      "source_record_id": "world-history-18:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g4\\world-history-18_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "f08f07841949c55e3fa30e16fb2bbddfd7da03b7e4867fd73337b9f827586abe",
+          "output_sha256": "f08f07841949c55e3fa30e16fb2bbddfd7da03b7e4867fd73337b9f827586abe",
+          "source_output_equal": true,
+          "bytes": 616151
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g4\\world-history-18_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "f331acecb8350e77b738286cfe13147e40959128e012d56fc1d4e1ba8597a4c9",
+          "output_sha256": "f331acecb8350e77b738286cfe13147e40959128e012d56fc1d4e1ba8597a4c9",
+          "source_output_equal": true,
+          "bytes": 433376
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "4a057a9cda5c310ad6aca6d7ed04e53f7355b5559a745dee11828d487c7ee608",
+          "output_sha256": "4a057a9cda5c310ad6aca6d7ed04e53f7355b5559a745dee11828d487c7ee608",
+          "source_output_equal": true,
+          "bytes": 1972094
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "bbd04a0c391cf5d344cc1d9a9875bd2e5a974eaa94b2698422bec02ea1375862",
+          "output_sha256": "bbd04a0c391cf5d344cc1d9a9875bd2e5a974eaa94b2698422bec02ea1375862",
+          "source_output_equal": true,
+          "bytes": 2382171
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "fef6c42e938b09509b64a0c992bf03186792032d4b3c4d3754be7d7fb13a40af",
+          "output_sha256": "fef6c42e938b09509b64a0c992bf03186792032d4b3c4d3754be7d7fb13a40af",
+          "source_output_equal": true,
+          "bytes": 1747480
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "bf67444be685626b1b834ddfac3c5a0c285f5ded587172d7d691133faa9d4c3c",
+          "output_sha256": "bf67444be685626b1b834ddfac3c5a0c285f5ded587172d7d691133faa9d4c3c",
+          "source_output_equal": true,
+          "bytes": 4856
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\World History\\Subject-wide Syllabus\\18-Decolonization-of-Africa-and-Asia\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "4c540c084dee0b4336582a471cbe5a9a153087ea1ed9d2a1fead988af56310b0",
+          "output_sha256": "4c540c084dee0b4336582a471cbe5a9a153087ea1ed9d2a1fead988af56310b0",
+          "source_output_equal": true,
+          "source_text_sha256": "bf67444be685626b1b834ddfac3c5a0c285f5ded587172d7d691133faa9d4c3c",
+          "normalized_text_equal": true,
+          "bytes": 56253
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 79,
+        "solved_practice_workbook": 30,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 79,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 30,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10584
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

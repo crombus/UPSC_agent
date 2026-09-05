@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Governance learner-v2 Topic 11",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-11",
+      "display_title": "Regulatory Governance and Independent Regulators",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Governance\\11_Regulatory-Governance-and-Independent-Regulators_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Why a statutory regulator is created",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "TECHNICAL COMPLEXITY -> generalist departments cannot set or police detailed sector rules",
+            "INSULATION -> individual licensing and tariff decisions removed from daily political direction",
+            "PREDICTABILITY -> consistent rule-making that investors and users can plan against",
+            "COST -> the same insulation creates an accountability problem and a capture risk"
+          ],
+          "source_references": [
+            "Why independent sectoral regulators exist"
+          ]
+        },
+        {
+          "title": "Trilemma with paired design features",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "AUTONOMY: fixed-term appointment -> ACCOUNTABILITY: annual report laid before Parliament",
+            "AUTONOMY: fee or cess funding -> ACCOUNTABILITY: audit of the regulator's own accounts",
+            "AUTONOMY: technical composition -> ACCOUNTABILITY: policy directions in specified circumstances",
+            "AUTONOMY: statutory rule-making -> ACCOUNTABILITY: consultation with a published response",
+            "AUTONOMY: security of tenure -> ACCOUNTABILITY: appellate tribunal and judicial review"
+          ],
+          "source_references": [
+            "Pairing autonomy features with accountability counterparts"
+          ]
+        },
+        {
+          "title": "Independence spectrum",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LOW END -> a ministry-controlled department: strong political control, weak insulation",
+            "HIGH END -> fixed tenure, own funding, removal for cause, technical composition",
+            "REALITY -> no Indian regulator sits at either extreme; the statute fixes the placement",
+            "WEDGE -> compare the formal grant with the working reality for the same body"
+          ],
+          "source_references": [
+            "The independence spectrum as the analytical question"
+          ]
+        },
+        {
+          "title": "How capture happens lawfully",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INFORMATION ASYMMETRY -> the industry knows the sector better than the regulator",
+            "-> dependence on industry data, expertise and personnel becomes structural",
+            "-> revolving door, funded research and repeat-player access shape the agenda",
+            "-> framing capture: the regulator adopts the industry's definition of the problem",
+            "-> outcome: entry barriers described as quality standards; no illegality is needed"
+          ],
+          "source_references": [
+            "Regulatory capture without any illegal transaction"
+          ]
+        },
+        {
+          "title": "Two directions of failure",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "INDUSTRY CAPTURE -> rules that serve incumbents and exclude entrants",
+            "MINISTERIAL CAPTURE -> politically timed decisions and suppressed tariffs",
+            "SHARED CORRECTIVE -> consultation with published responses and reasoned orders",
+            "SHARED CORRECTIVE -> cooling-off periods, in-house capacity, user representation"
+          ],
+          "source_references": [
+            "Ministerial capture and the procedural correctives"
+          ]
+        },
+        {
+          "title": "Six-test design checklist",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "1 STATUTORY MANDATE -> what exactly is it empowered to do, and by which Act",
+            "2 APPOINTMENT AND REMOVAL -> who selects, on what criteria, can removal be arbitrary",
+            "3 FUNDING -> does the money come from a source the ministry or the industry controls",
+            "4 RULE-MAKING -> pre-consultation, published response to comments, impact appraisal",
+            "5 ENFORCEMENT DUE PROCESS -> notice, hearing, reasoned order, proportionality, no bias",
+            "6 REVIEW AND REPORTING -> appellate route and reporting to the legislature"
+          ],
+          "source_references": [
+            "The six-test regulator design checklist"
+          ]
+        },
+        {
+          "title": "Competition regulator card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PARENT STATUTE -> the Competition Act, 2002",
+            "FUNCTIONS -> anti-competitive agreements, abuse of dominance, review of combinations",
+            "APPEAL -> National Company Law Appellate Tribunal, then the Supreme Court",
+            "OFFICIAL PURPOSE -> an enabling competition culture, consumer welfare, economic growth",
+            "BOUNDARY -> no case, party, penalty amount or order date is asserted anywhere"
+          ],
+          "source_references": [
+            "The competition regulator and its parent statute"
+          ]
+        },
+        {
+          "title": "Dominance against abuse",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LAWFUL -> holding a dominant position in a defined relevant market",
+            "UNLAWFUL -> predatory or unfair pricing; unfair or discriminatory conditions",
+            "UNLAWFUL -> limiting production or technical development; denial of market access",
+            "UNLAWFUL -> tying and bundling; leveraging dominance into an adjacent market"
+          ],
+          "source_references": [
+            "Dominance, abuse and the two regulatory clocks"
+          ]
+        },
+        {
+          "title": "Two regulatory clocks",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SECTOR REGULATOR -> ex-ante: licences, tariffs, technical standards, entry conditions",
+            "COMPETITION REGULATOR -> ex-post: conduct across the whole economy after the event",
+            "OVERLAP -> a genuine jurisdictional question, not an oversight in the design",
+            "LIMIT -> remedies arrive after the market structure has already shifted"
+          ],
+          "source_references": [
+            "Dominance, abuse and the two regulatory clocks"
+          ]
+        },
+        {
+          "title": "Tribunal reform timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2021 -> the Tribunals Reforms Act abolishes named appellate bodies, functions to High Courts",
+            "19 NOVEMBER 2025 -> 2025 INSC 1330 invalidates four heads of re-enacted provisions",
+            "SAME JUDGMENT -> earlier Madras Bar Association standards made controlling",
+            "SAME JUDGMENT -> a National Tribunals Commission directed within four months",
+            "9 MARCH 2026 -> interim extensions for specified incumbents to 8 September 2026",
+            "13 AUGUST 2026 -> no establishment notification located; implementation unresolved"
+          ],
+          "source_references": [
+            "The 2025 judgment and the unresolved commission"
+          ]
+        },
+        {
+          "title": "Architecture proposal against adoption",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PROPOSAL -> a Unified Financial Agency on a regulation-by-activity principle, 2013",
+            "SCOPE -> subsuming most financial regulators, excluding the central bank",
+            "SEPARATE PROPOSAL -> a draft Indian Financial Code consolidating the legislation",
+            "OUTCOME -> neither implemented in full; a 2015 merger is a partial related step only"
+          ],
+          "source_references": [
+            "Architecture reform, trust-based regulation and honest ownership"
+          ]
+        },
+        {
+          "title": "Answer spine for a regulatory demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> statutory character first: statutory, not constitutional, not executive-created",
+            "BUILD -> mandate, function and appellate route, then the trilemma and capture mechanism",
+            "CORRECT -> apply the six tests and name both directions of capture with correctives",
+            "CLOSE -> graded verdict, dated status for anything unresolved, stated question ownership"
+          ],
+          "source_references": [
+            "Architecture reform, trust-based regulation and honest ownership"
+          ]
+        }
+      ]
+    }
+  ]
+}

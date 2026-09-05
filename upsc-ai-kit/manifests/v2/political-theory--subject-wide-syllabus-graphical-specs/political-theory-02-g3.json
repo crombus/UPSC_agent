@@ -1,0 +1,1194 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-02",
+  "subject": "Philosophy",
+  "title": "IDEOLOGY AND END OF IDEOLOGY",
+  "short_route": "THE DUAL MEANING AND → ESSENTIAL VOCABULARY OF IDEOLOGY → THE CHAPTER SPINE: DISTORTION → THEORY, IDEOLOGY, UTOPIA AND → FROM TRACY AND BACON → LUKACS, MANNHEIM, POPPER AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-02-ascii-2026-08-28-g3.json",
+  "ascii_spec_sha256": "6398af6f29fd83b3139b77c31032aeae2f72f32be27fd7488e961b4a64fb8ab5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE DUAL MEANING AND POLITICAL WORK OF IDEOLOGY",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE DUAL MEANING AND POLITICAL WORK OF IDEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] UPSC REPEATEDLY TESTS WHETHER A STUDENT CAN DISTINGUISH",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THE CHAPTER ALSO EXPLAINS WHY IDEOLOGIES MOBILIZE PEOPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE SO-CALLED END OF IDEOLOGY IS PRESENTED BY",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN THESIS, NOT AS AN UNQUESTIONABLE LAW OF POLITICAL",
+          "role": "caution"
+        },
+        {
+          "text": "[4] THIS TOPIC IS THE BRIDGE FROM GENERAL THEORY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DUAL MEANING AND POLITICAL WORK OF IDEOLOGY IS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Dual Meaning and Political Work of Ideology",
+        "[1] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis",
+        "this chapter provides that.",
+        "[2] The chapter also explains why ideologies mobilize people, justify rule, inspire sacrifice and sometimes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Dual Meaning and Political Work of Ideology",
+            "[1] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification",
+            "this chapter provides that."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] The chapter also explains why ideologies mobilize people, justify rule, inspire sacrifice and sometimes intensify conflict (Gauba,",
+            "PDF pp.28-29, 36).",
+            "[3] The so-called end of ideology is presented by Gauba as a mid-twentieth-century",
+            "Western thesis, not as an unquestionable law of political development (Gauba, PDF."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] This topic is the bridge from general theory to specific ideologies such as liberalism, Marxism, socialism, feminism and Gandhism.",
+            "SYNTHESIS → The Dual Meaning and Political Work of Ideology is best presented through its central claim, causal",
+            "logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Dual Meaning and Political Work of Ideology is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ESSENTIAL VOCABULARY OF IDEOLOGY CRITIQUE",
+      "structural_type": "doctrine-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ESSENTIAL VOCABULARY OF IDEOLOGY CRITIQUE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TWO-LINE ENRICHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CHAPTER NEITHER GLORIFIES IDEOLOGY NOR DISMISSES IT; IT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] UPSC REPEATEDLY TESTS WHETHER A STUDENT CAN DISTINGUISH",
+          "role": "primary"
+        },
+        {
+          "text": "[3] THE SO-CALLED END OF IDEOLOGY IS PRESENTED BY",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN THESIS, NOT AS AN UNQUESTIONABLE LAW OF POLITICAL",
+          "role": "caution"
+        },
+        {
+          "text": "[4] GAUBA FIRST EXPLAINS IDEOLOGY AS ACTION-ORIENTED GROUP BELIEF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Essential Vocabulary of Ideology Critique",
+        "[1] Two-line enrichment: the chapter neither glorifies ideology nor dismisses it",
+        "it asks when commitment becomes distortion and when critique becomes necessary.",
+        "[2] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Essential Vocabulary of Ideology Critique",
+            "[1] Two-line enrichment: the chapter neither glorifies ideology nor dismisses it",
+            "it asks when commitment becomes distortion and when critique becomes necessary.",
+            "[2] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "this chapter provides that.",
+            "[3] The so-called end of ideology is presented by Gauba as a mid-twentieth-century",
+            "Western thesis, not as an unquestionable law of political development (Gauba, PDF.",
+            "[4] Gauba first explains ideology as action-oriented group belief used to justify power, attack opponents, motivate sacrifice or",
+            "spur social transformation (Gauba, PDF."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Essential Vocabulary of Ideology Critique is best presented through its central claim, causal logic, strongest limit",
+            "and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Essential Vocabulary of Ideology Critique is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE CHAPTER SPINE: DISTORTION, MOBILISATION AND CLOSURE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE CHAPTER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTORTION, MOBILISATION AND CLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] GAUBA FIRST EXPLAINS IDEOLOGY AS ACTION-ORIENTED GROUP BELIEF",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] HE THEN DISTINGUISHES POLITICAL THEORY FROM IDEOLOGY BY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] NEXT, HE RETURNS TO THE OLDER MEANING OF",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MARX, LUKACS AND MANNHEIM ARE THEN INTRODUCED AS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTORTION, MOBILISATION AND CLOSURE IS BEST PRESENTED THROUGH ITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Chapter Spine: Distortion, Mobilisation and Closure",
+        "[1] Gauba first explains ideology as action-oriented group belief used to justify power, attack opponents",
+        "spur social transformation (Gauba, PDF.",
+        "[2] He then distinguishes political theory from ideology by insisting that theory critically evaluates claims"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Chapter Spine: Distortion, Mobilisation and Closure",
+            "[1] Gauba first explains ideology as action-oriented group belief used to justify power, attack opponents, motivate sacrifice or",
+            "spur social transformation (Gauba, PDF.",
+            "[2] He then distinguishes political theory from ideology by insisting that theory critically evaluates claims, whereas ideology pursues"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "partisan ends from a committed.",
+            "[3] Next, he returns to the older meaning of ideology as science of ideas, beginning with Destutt de",
+            "Tracy and the wider scientific concern with valid versus distorted.",
+            "[4] Marx, Lukacs and Mannheim are then introduced as major analysts of ideology as distortion, class consciousness or",
+            "social conditioning of knowledge (Gauba, PDF."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → The Chapter Spine: Distortion, Mobilisation and Closure is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Distortion, Mobilisation and Closure is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THEORY, IDEOLOGY, UTOPIA AND OPEN INQUIRY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THEORY, IDEOLOGY, UTOPIA AND OPEN INQUIRY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MANNHEIM — SITUATED KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERALIZES THE POINT BEYOND CLASS-ENEMY ACCUSATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL THOUGHT IS SOCIALLY SITUATED; IDEOLOGY CONSERVES THE EXISTING",
+          "role": "primary"
+        },
+        {
+          "text": "[2] J.K. GALBRAITH — TECHNOCRATIC MANAGERIALISM EXPLAINED",
+          "role": "outcome"
+        },
+        {
+          "text": "ARGUED INDUSTRIAL SOCIETIES WERE CONVERGING THROUGH CENTRALIZATION, BUREAUCRATIZATION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] UPSC REPEATEDLY TESTS WHETHER A STUDENT CAN DISTINGUISH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theory, Ideology, Utopia and Open Inquiry",
+        "[1] Mannheim — situated knowledge: generalizes the point beyond class-enemy accusation",
+        "all thought is socially situated; ideology conserves the existing order, utopia.",
+        "[2] J.K."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "Galbraith — technocratic managerialism explained: argued industrial societies were converging through centralization, bureaucratization and technocratization.",
+          "SYNTHESIS → Theory, Ideology, Utopia and Open Inquiry is best presented through its central claim, causal logic, strongest"
+        ],
+        [
+          "Theory, Ideology, Utopia and Open Inquiry",
+          "[3] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification",
+          "limit and qualified verdict."
+        ],
+        [
+          "[1] Mannheim — situated knowledge: generalizes the point beyond class-enemy accusation",
+          "this chapter provides that.",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ],
+        [
+          "all thought is socially situated; ideology conserves the existing order, utopia.",
+          "[4] The so-called end of ideology is presented by Gauba as a mid-twentieth-century",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theory, Ideology, Utopia and Open Inquiry",
+            "[1] Mannheim — situated knowledge: generalizes the point beyond class-enemy accusation",
+            "all thought is socially situated; ideology conserves the existing order, utopia.",
+            "[2] J.K."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Galbraith — technocratic managerialism explained: argued industrial societies were converging through centralization, bureaucratization and technocratization.",
+            "[3] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification",
+            "this chapter provides that.",
+            "[4] The so-called end of ideology is presented by Gauba as a mid-twentieth-century",
+            "Western thesis, not as an unquestionable law of political development (Gauba, PDF."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "SYNTHESIS → Theory, Ideology, Utopia and Open Inquiry is best presented through its central claim, causal logic, strongest",
+            "limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Theory, Ideology, Utopia and Open Inquiry is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FROM TRACY AND BACON TO MARX AND LENIN",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FROM TRACY AND BACON TO MARX AND LENIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TRACY, BACON, MARX, MANNHEIM, POPPER AND ARENDT REPRESENT",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECT-BOOK ANCHORS USED HERE",
+          "role": "evidence"
+        },
+        {
+          "text": "PDF PP.28-32 FOR BASIC CONCEPT AND DISTINCTION FROM THEORY",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] NEXT, HE RETURNS TO THE OLDER MEANING OF",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MARX, LUKACS AND MANNHEIM ARE THEN INTRODUCED AS",
+          "role": "comparison"
+        },
+        {
+          "text": "FROM TRACY AND BACON TO MARX AND LENIN IS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "From Tracy and Bacon to Marx and Lenin",
+        "[1] Tracy, Bacon, Marx, Mannheim, Popper and Arendt represent major stations in the history of",
+        "or closed ideas (Gauba, PDF pp.30-36).",
+        "[2] Direct-book anchors used here: PDF pp.28-32 for basic concept and distinction from theory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "From Tracy and Bacon to Marx and Lenin",
+            "[1] Tracy, Bacon, Marx, Mannheim, Popper and Arendt represent major stations in the history of thinking about distorted",
+            "or closed ideas (Gauba, PDF pp.30-36)."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Direct-book anchors used here: PDF pp.28-32 for basic concept and distinction from theory",
+            "PDF pp.33-36 for major interpreters (Marx, Lenin, Lukács, Mannheim.",
+            "[3] Next, he returns to the older meaning of ideology as science of ideas, beginning with Destutt de",
+            "Tracy and the wider scientific concern with valid versus distorted."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Marx, Lukacs and Mannheim are then introduced as major analysts of ideology as distortion, class consciousness or",
+            "social conditioning of knowledge (Gauba, PDF.",
+            "SYNTHESIS → From Tracy and Bacon to Marx and Lenin is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → From Tracy and Bacon to Marx and Lenin is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LUKACS, MANNHEIM, POPPER AND ARENDT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LUKACS, MANNHEIM, POPPER AND ARENDT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NATIONALISM MAY MOBILIZE SACRIFICE FOR FREEDOM, WHEREAS COMMUNALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ENVIRONMENTALISM IS GIVEN AS AN EXAMPLE OF AN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA'S CONTRAST BETWEEN ARISTOTLE AND MACHIAVELLI SHOWS THEORY'S",
+          "role": "primary"
+        },
+        {
+          "text": "SOME HISTORICALLY SITUATED CLAIMS ARE REJECTED, WHILE DURABLE INSIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] A CLEAN CLASSROOM EXAMPLE IS THIS",
+          "role": "comparison"
+        },
+        {
+          "text": "AN IDEOLOGY SAYS \"OUR MODEL ALONE IS JUST\"",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Lukacs, Mannheim, Popper and Arendt",
+        "[1] Nationalism may mobilize sacrifice for freedom, whereas communalism may mobilize hatred and destruction",
+        "Gauba uses these contrasts to show ideology's.",
+        "[2] Environmentalism is given as an example of an ideology that may challenge destructive arrangements"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Lukacs, Mannheim, Popper and Arendt",
+            "[1] Nationalism may mobilize sacrifice for freedom, whereas communalism may mobilize hatred and destruction",
+            "Gauba uses these contrasts to show ideology's."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Environmentalism is given as an example of an ideology that may challenge destructive arrangements rather than merely",
+            "defend vested interests (Gauba, PDF p.29).",
+            "[3] Gauba's contrast between Aristotle and Machiavelli shows theory's critical role",
+            "some historically situated claims are rejected, while durable insights are retained."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] A clean classroom example is this: an ideology says \"our model alone is just\"",
+            "political theory asks what evidence, concepts and moral grounds support or weaken.",
+            "SYNTHESIS → Lukacs, Mannheim, Popper and Arendt is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Lukacs, Mannheim, Popper and Arendt is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE END-OF-IDEOLOGY PROPONENTS",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE END-OF-IDEOLOGY PROPONENTS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DANIEL BELL",
+          "role": "comparison"
+        },
+        {
+          "text": "READ A MID-CENTURY WESTERN CONVERGENCE AROUND THE WELFARE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "[2] RALPH DAHRENDORF",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUED POST-CAPITALIST SOCIETY HAD INSTITUTIONALLY ISOLATED INDUSTRIAL (WORKPLACE) CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] SEYMOUR MARTIN LIPSET",
+          "role": "comparison"
+        },
+        {
+          "text": "DESCRIBED WESTERN LIBERAL DEMOCRACY AS APPROXIMATING \"THE GOOD SOCIETY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The End-of-Ideology Proponents",
+        "[1] Daniel Bell: read a mid-century Western convergence around the welfare state, decentralized power, mixed",
+        "as evidence that the age of sharp.",
+        "[2] Ralph Dahrendorf: argued post-capitalist society had institutionally isolated industrial (workplace) conflict from wider political"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The End-of-Ideology Proponents",
+            "[1] Daniel Bell: read a mid-century Western convergence around the welfare state, decentralized power, mixed economy and pluralism",
+            "as evidence that the age of sharp."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Ralph Dahrendorf: argued post-capitalist society had institutionally isolated industrial (workplace) conflict from wider political conflict, weakening the.",
+            "[3] Seymour Martin Lipset: described Western liberal democracy as approximating \"the good society in operation,\" which narrowed the",
+            "practical stakes of Left-Right.",
+            "[4] W.W."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Rostow: cast economic development as a universal, stage-based process not determined by which political ideology a society professed",
+            "SYNTHESIS → The End-of-Ideology Proponents is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The End-of-Ideology Proponents is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CRITICS, TECHNOCRACY, COMPARISON AND TRAP REPAIR",
+      "structural_type": "dialectic",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRITICS, TECHNOCRACY, COMPARISON AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] READING PROPONENTS AND OBJECTORS TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOCRATIC MANAGERIALISM DOES NOT REMOVE IDEOLOGY FROM POLITICS; IT",
+          "role": "caution"
+        },
+        {
+          "text": "[2] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "BECAUSE IDEOLOGY'S ACTION-ORIENTATION MAKES IT USEFUL FOR MOBILIZATION BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] DIRECT-BOOK ANCHORS USED HERE",
+          "role": "comparison"
+        },
+        {
+          "text": "PDF PP.28-32 FOR BASIC CONCEPT AND DISTINCTION FROM THEORY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Critics, Technocracy, Comparison and Trap Repair",
+        "[1] Reading proponents and objectors together: technocratic managerialism does not remove ideology from politics",
+        "it relocates ideological argument into apparently.",
+        "[2] Mechanism: because ideology's action-orientation makes it useful for mobilization but prone to distortion (Marx's"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Mechanism: because ideology's action-orientation makes it useful for mobilization but prone to distortion (Marx's false consciousness, Lukács's",
+          "this chapter provides that."
+        ],
+        [
+          "Critics, Technocracy, Comparison and Trap Repair",
+          "[3] Direct-book anchors used here: PDF pp.28-32 for basic concept and distinction from theory",
+          "SYNTHESIS → Critics, Technocracy, Comparison and Trap Repair is best presented through its central claim, causal logic, strongest"
+        ],
+        [
+          "[1] Reading proponents and objectors together: technocratic managerialism does not remove ideology from politics",
+          "PDF pp.33-36 for major interpreters (Marx, Lenin, Lukács, Mannheim.",
+          "limit and qualified verdict."
+        ],
+        [
+          "it relocates ideological argument into apparently.",
+          "[4] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Critics, Technocracy, Comparison and Trap Repair",
+            "[1] Reading proponents and objectors together: technocratic managerialism does not remove ideology from politics",
+            "it relocates ideological argument into apparently."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Mechanism: because ideology's action-orientation makes it useful for mobilization but prone to distortion (Marx's false consciousness, Lukács's",
+            "[3] Direct-book anchors used here: PDF pp.28-32 for basic concept and distinction from theory",
+            "PDF pp.33-36 for major interpreters (Marx, Lenin, Lukács, Mannheim.",
+            "[4] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "this chapter provides that.",
+            "SYNTHESIS → Critics, Technocracy, Comparison and Trap Repair is best presented through its central claim, causal logic, strongest",
+            "limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Critics, Technocracy, Comparison and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PREMISES",
+          "role": "comparison"
+        },
+        {
+          "text": "(A) IDEOLOGY IS A GROUP-ACCEPTED IDEA-SET USED TO JUSTIFY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "BECAUSE IDEOLOGY'S ACTION-ORIENTATION MAKES IT USEFUL FOR MOBILIZATION BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] CONCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEOLOGY NEITHER DISAPPEARS NOR DESERVES UNCRITICAL TRUST; IT REMAINS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Qualified Thesis and Directive-Specific Architecture",
+        "[1] Premises: (a) ideology is a group-accepted idea-set used to justify or denounce a distribution",
+        "(b) theory critically tests validity.",
+        "[2] Mechanism: because ideology's action-orientation makes it useful for mobilization but prone to distortion (Marx's"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Qualified Thesis and Directive-Specific Architecture",
+            "[1] Premises: (a) ideology is a group-accepted idea-set used to justify or denounce a distribution of power (Gauba, PDF pp.28-29)",
+            "(b) theory critically tests validity."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Mechanism: because ideology's action-orientation makes it useful for mobilization but prone to distortion (Marx's false consciousness, Lukács's",
+            "[3] Conclusion: ideology neither disappears nor deserves uncritical trust",
+            "it remains a permanent feature of politics whose distortions and mobilizing uses must be.",
+            "[4] The so-called end of ideology is presented by Gauba as a mid-twentieth-century"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Western thesis, not as an unquestionable law of political development (Gauba, PDF.",
+            "SYNTHESIS → Qualified Thesis and Directive-Specific Architecture is best presented through its central claim, causal logic, strongest limit",
+            "and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Qualified Thesis and Directive-Specific Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EVIDENCE, OBJECTIONS, INDIAN APPLICATION AND MARK-SCALED ANSWERS",
+      "structural_type": "answer-spine",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EVIDENCE, OBJECTIONS, INDIAN APPLICATION AND MARK-SCALED ANSWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] IDEOLOGY HAS TWO MEANINGS IN THE CHAPTER",
+          "role": "comparison"
+        },
+        {
+          "text": "GROUP-FAITH IDEA-SET AND SCIENCE OF IDEAS",
+          "role": "evidence"
+        },
+        {
+          "text": "(GAUBA, PDF P.28).",
+          "role": "primary"
+        },
+        {
+          "text": "[2] POLITICAL IDEOLOGY IS ACTION-ORIENTED, JUSTIFICATORY AND OFTEN CONFLICT-PRODUCING",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] POLITICAL THEORY DIFFERS BECAUSE IT CRITICALLY EXAMINES ORIGIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] TRACY, BACON, MARX, MANNHEIM, POPPER AND ARENDT REPRESENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+        "[1] Ideology has two meanings in the chapter: group-faith idea-set and science of ideas",
+        "(Gauba, PDF p.28).",
+        "[2] Political ideology is action-oriented, justificatory and often conflict-producing because different groups defend different value-systems"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+            "[1] Ideology has two meanings in the chapter: group-faith idea-set and science of ideas",
+            "(Gauba, PDF p.28)."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "[2] Political ideology is action-oriented, justificatory and often conflict-producing because different groups defend different value-systems (Gauba, PDF pp.28-29).",
+            "[3] Political theory differs because it critically examines origin, strength, weakness and validity of claims (Gauba, PDF pp.29-30).",
+            "[4] Tracy, Bacon, Marx, Mannheim, Popper and Arendt represent major stations in the history of thinking about distorted",
+            "or closed ideas (Gauba, PDF pp.30-36)."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Evidence, Objections, Indian Application and Mark-Scaled Answers is best presented through its central claim, causal logic,",
+            "strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Evidence, Objections, Indian Application and Mark-Scaled Answers is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] UPSC REPEATEDLY TESTS WHETHER A STUDENT CAN DISTINGUISH",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THE CHAPTER ALSO EXPLAINS WHY IDEOLOGIES MOBILIZE PEOPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE SO-CALLED END OF IDEOLOGY IS PRESENTED BY",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN THESIS, NOT AS AN UNQUESTIONABLE LAW OF POLITICAL",
+          "role": "caution"
+        },
+        {
+          "text": "[4] THIS TOPIC IS THE BRIDGE FROM GENERAL THEORY",
+          "role": "comparison"
+        },
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR IS BEST PRESENTED THROUGH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis",
+        "this chapter provides that.",
+        "[2] The chapter also explains why ideologies mobilize people, justify rule, inspire sacrifice and sometimes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification",
+            "this chapter provides that."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] The chapter also explains why ideologies mobilize people, justify rule, inspire sacrifice and sometimes intensify conflict (Gauba,",
+            "PDF pp.28-29, 36).",
+            "[3] The so-called end of ideology is presented by Gauba as a mid-twentieth-century",
+            "Western thesis, not as an unquestionable law of political development (Gauba, PDF."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] This topic is the bridge from general theory to specific ideologies such as liberalism, Marxism, socialism, feminism and Gandhism.",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARX — FALSE CONSCIOUSNESS",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEOLOGY IS CONSCIOUSNESS THAT LAGS BEHIND MATERIAL DEVELOPMENT AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] INTELLIGENTSIA CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "MANNHEIM'S PROPOSED ROUTE TO A MORE OBJECTIVE SYNTHESIS RELIES",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] UPSC REPEATEDLY TESTS WHETHER A STUDENT CAN DISTINGUISH",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE CHAPTER ALSO EXPLAINS WHY IDEOLOGIES MOBILIZE PEOPLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Marx — false consciousness: ideology is consciousness that lags behind material development and helps",
+        "class's interest by presenting a.",
+        "[2] Intelligentsia caution: Mannheim's proposed route to a more objective synthesis relies on a \"free-floating\""
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Marx — false consciousness: ideology is consciousness that lags behind material development and helps sustain the dominant",
+            "class's interest by presenting a."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Intelligentsia caution: Mannheim's proposed route to a more objective synthesis relies on a \"free-floating\" stratum of intellectuals",
+            "capable of moving between class.",
+            "[3] UPSC repeatedly tests whether a student can distinguish theory from ideology, and neutral analysis from partisan justification",
+            "this chapter provides that."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] The chapter also explains why ideologies mobilize people, justify rule, inspire sacrifice and sometimes intensify conflict (Gauba,",
+            "PDF pp.28-29, 36).",
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 34-35",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-34",
+      "display_title": "From Shastri to Indira Gandhi, 1964–73",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\34_From-Shastri-to-Indira-Gandhi-1964-73_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two successions in twenty months",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SHASTRI PM -> JUNE 1964, after Nehru's death",
+            "1965 WAR -> India-Pakistan; ends at TASHKENT DECLARATION, Jan 1966",
+            "SHASTRI DIES -> Tashkent, 10 JANUARY 1966, hours after signing",
+            "INDIRA ELECTED PM -> JANUARY 1966, defeats Morarji Desai 355-169 (Syndicate-backed)"
+          ],
+          "source_references": [
+            "Shastri's accession and the 1965 war, June 1964 to January 1966",
+            "Indira Gandhi's election as Prime Minister, January 1966"
+          ]
+        },
+        {
+          "title": "The mid-1960s economic crisis and the 1966 devaluation",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "1965 WAR EXPENDITURE + HARVEST FAILURES + FOOD-AID DEPENDENCE -> fiscal strain",
+            "RUPEE DEVALUED -> JUNE 1966, by about 35.5 per cent",
+            "POLITICAL COST -> blamed on Indira Gandhi within months of taking office",
+            "LEGACY -> durable aversion to externally pressed adjustment, until 1991"
+          ],
+          "source_references": [
+            "The rupee devaluation of June 1966 and its causes"
+          ]
+        },
+        {
+          "title": "1967: the end of easy dominance",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "FOURTH GENERAL ELECTION -> 1967",
+            "CONGRESS -> majority SLASHED nationally; loses power in EIGHT STATES",
+            "NEW PATTERN -> Samyukta Vidhayak Dal (SVD) coalition governments",
+            "MASS DEFECTION -> \"Aya Ram Gaya Ram\"; about 800 legislators switch, 1967-70"
+          ],
+          "source_references": [
+            "The 1967 general election: the end of easy dominance",
+            "Coalition governments and defection politics after 1967"
+          ]
+        },
+        {
+          "title": "1969: the Congress split",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "TRIGGER -> V.V. Giri presidential contest + bank nationalisation (14 banks)",
+            "SPLIT -> Congress (R), Indira Gandhi   vs   Congress (O), the Syndicate",
+            "OUTCOME -> most Congress MPs and the AICC side with Indira Gandhi",
+            "RESULT -> numbers held for Congress (R); party organisation did not"
+          ],
+          "source_references": [
+            "The 1969 Congress split: Giri, bank nationalisation and the Syndicate's defeat"
+          ]
+        },
+        {
+          "title": "Courts vs the executive, 1970",
+          "structural_type": "evidence-debate",
+          "ascii_lines": [
+            "SUPREME COURT, 1970 -> strikes down FIRST bank-nationalisation order",
+            "SUPREME COURT, 1970 -> strikes down privy-purse DERECOGNITION order",
+            "GOVERNMENT RESPONSE -> re-enacts bank nationalisation via fresh legislation",
+            "GOVERNMENT RESPONSE -> abolishes privy purses via 26th Amendment, 1971"
+          ],
+          "source_references": [
+            "The Supreme Court's 1970 rulings against the executive"
+          ]
+        },
+        {
+          "title": "1971: privy purses and Garibi Hatao",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PRIVY PURSES ABOLISHED -> 1971, 26th Constitutional Amendment",
+            "1971 GENERAL ELECTION -> Congress (R) wins 352 of 518 seats",
+            "SLOGAN -> \"Garibi Hatao\"",
+            "READ IT CORRECTLY -> a NATIONAL plebiscite, delinked from state-level Congress"
+          ],
+          "source_references": [
+            "1971: privy purses abolished and the Garibi Hatao landslide"
+          ]
+        },
+        {
+          "title": "The 1971 Bangladesh war",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "ORIGIN -> crisis in East Pakistan; refugee influx into India",
+            "OUTCOME -> decisive Indian military victory",
+            "RESULT -> creation of Bangladesh",
+            "EFFECT -> Indira Gandhi's domestic authority becomes unassailable"
+          ],
+          "source_references": [
+            "The 1971 Bangladesh war and its strategic significance"
+          ]
+        },
+        {
+          "title": "1965 vs 1971 compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1965 WAR -> origin: Pakistani infiltration into Kashmir",
+            "1965 WAR -> outcome: militarily inconclusive; ends at Tashkent Declaration",
+            "1971 WAR -> origin: East Pakistan refugee crisis",
+            "1971 WAR -> outcome: decisive victory; creates Bangladesh"
+          ],
+          "source_references": [
+            "Comparing 1965 and 1971: two wars, two outcomes"
+          ]
+        },
+        {
+          "title": "Pokhran-I, May 1974",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "TEST -> Pokhran-I, MAY 1974",
+            "OFFICIAL LABEL -> \"peaceful nuclear explosion\", not a declared weapons test",
+            "SIGNIFICANCE -> first Indian nuclear test; inside the Garibi-Hatao-to-Emergency arc",
+            "TRAP -> do not date this test to the 1960s"
+          ],
+          "source_references": [
+            "Pokhran-I, May 1974: India's first nuclear test"
+          ]
+        },
+        {
+          "title": "De-institutionalisation: the hidden cost",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "TECHNIQUE -> populist mobilisation + personalised leadership",
+            "EFFECT ON PARTY -> Congress organisation split and weakened after 1969",
+            "EFFECT ON CHECKS -> internal factional-conflict checks eroded",
+            "LONGER EFFECT -> structural background to the 1973-75 crisis"
+          ],
+          "source_references": [
+            "De-institutionalisation: the hidden cost of consolidation"
+          ]
+        },
+        {
+          "title": "The coal-sector nationalisation gap, 2019: a bounded caution",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "ROUTED DEMAND -> 2019 Prelims GS-I Q48, coal-sector nationalisation status",
+            "LOCAL SUPPORT -> NONE in any modern-history source book in this repository",
+            "RULE -> no year, statute or sequence for coal nationalisation stated from memory",
+            "ACTION -> route any full answer to the Economy or Geography owner instead"
+          ],
+          "source_references": [
+            "The coal-sector nationalisation gap: a bounded caution"
+          ]
+        },
+        {
+          "title": "Resilience and cost: two verdicts on 1964-73",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "VERDICT ONE -> resilience: two successions absorbed peacefully; 1971 war won",
+            "VERDICT TWO -> cost: party de-institutionalised; internal democracy eroded",
+            "CHANDRA'S READING -> the leftward turn was genuine, if organisationally costly",
+            "SYNTHESIS -> both readings are compatible, not competing, accounts of the decade"
+          ],
+          "source_references": [
+            "Resilience and cost: two verdicts on 1964-73"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-35",
+      "display_title": "The JP Movement & the Emergency",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\35_The-JP-Movement-and-the-Emergency_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The 1972-73 economic crisis",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "TWIN MONSOON FAILURES + 1973 OIL SHOCK -> deepening scarcity",
+            "PRICE RISE -> about 22 per cent over 1972-73",
+            "EFFECT -> inflation, unemployment, food scarcity erode Indira Gandhi's popularity",
+            "TIMING -> follows directly on the 1971 Garibi Hatao landslide"
+          ],
+          "source_references": [
+            "The 1972-73 economic crisis: drought, inflation and the oil shock"
+          ]
+        },
+        {
+          "title": "Nav Nirman and the Bihar movement, 1974",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "NAV NIRMAN -> Gujarat, JANUARY 1974; students protest prices and corruption",
+            "BIHAR MOVEMENT -> MARCH 1974; JP takes leadership",
+            "JP'S CALL -> \"Total Revolution\" / Sampoorna Kranti",
+            "SPREAD -> student unrest becomes a nationwide anti-government movement"
+          ],
+          "source_references": [
+            "Nav Nirman: the Gujarat student agitation, January 1974",
+            "The Bihar movement and JP's Total Revolution, March 1974"
+          ]
+        },
+        {
+          "title": "The railway strike, May 1974",
+          "structural_type": "procedure-sequence",
+          "ascii_lines": [
+            "ALL-INDIA RAILWAY STRIKE -> MAY 1974, lasting 22 days",
+            "DIRECT CHALLENGE -> to the government's authority",
+            "ADDED DIMENSION -> economic disruption layered onto the political crisis",
+            "CONTEXT -> deepens the crisis JP's movement was already building on"
+          ],
+          "source_references": [
+            "The railway strike of May 1974"
+          ]
+        },
+        {
+          "title": "The Allahabad High Court judgment, 12 June 1975",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "PETITIONER -> Raj Narain",
+            "JUDGE -> Justice Jagmohanlal Sinha, Allahabad High Court",
+            "DATE -> 12 JUNE 1975",
+            "RULING -> sets aside Indira Gandhi's 1971 election on electoral malpractice"
+          ],
+          "source_references": [
+            "The Allahabad High Court judgment, 12 June 1975"
+          ]
+        },
+        {
+          "title": "The Supreme Court's conditional stay, 24 June 1975",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "COURT -> Supreme Court, Justice V.R. Krishna Iyer",
+            "DATE -> 24 JUNE 1975",
+            "RULING -> CONDITIONAL stay of the Allahabad verdict",
+            "EFFECT -> Indira Gandhi remains Prime Minister while the appeal is pending"
+          ],
+          "source_references": [
+            "The Supreme Court's conditional stay, 24 June 1975"
+          ]
+        },
+        {
+          "title": "The proclamation: dated 25 June, announced 26 June",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "JP'S DELHI RALLY -> 25 JUNE 1975; calls for civil disobedience",
+            "PROCLAMATION -> Article 352, DATED 25 JUNE 1975",
+            "PUBLIC ANNOUNCEMENT -> only on 26 JUNE 1975",
+            "TRAP -> the two dates must never be collapsed into one"
+          ],
+          "source_references": [
+            "JP's 25 June rally and the proclamation of Emergency"
+          ]
+        },
+        {
+          "title": "Instruments of the Emergency: MISA, censorship, 42nd Amendment",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DETENTIONS -> under MISA; over 100,000 held without trial, ~19 months",
+            "PRESS -> censorship imposed",
+            "CONSTITUTIONAL CHANGE -> 42nd Amendment, 1976; expands central/executive power",
+            "AGENDA -> Twenty-Point Programme, 1 July 1975"
+          ],
+          "source_references": [
+            "The Emergency's legal instruments: MISA, censorship and the 42nd Amendment"
+          ]
+        },
+        {
+          "title": "Sanjay Gandhi's extra-constitutional power and its excesses",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "POSITION -> no formal office; extra-constitutional power centre",
+            "PROGRAMME -> his own four-point programme, 1976",
+            "EXCESSES -> compulsory sterilisation drives",
+            "EXCESSES -> slum-demolition drives"
+          ],
+          "source_references": [
+            "Sanjay Gandhi's extra-constitutional power and its excesses"
+          ]
+        },
+        {
+          "title": "1977: the electoral reversal",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ELECTIONS CALLED -> January 1977",
+            "ELECTIONS HELD -> March 1977",
+            "RESULT -> Congress and Sanjay Gandhi defeated",
+            "MEANING -> a verdict FOR civil liberties; ends the Emergency"
+          ],
+          "source_references": [
+            "The 1977 elections and the Emergency's end"
+          ]
+        },
+        {
+          "title": "What held and what failed",
+          "structural_type": "evidence-debate",
+          "ascii_lines": [
+            "HELD -> the electoral machinery itself; free verdict delivered in 1977",
+            "FAILED -> Parliament; failed to check the executive",
+            "FAILED -> the ruling party; offered no internal restraint",
+            "FAILED -> judiciary's detention jurisprudence, in the MISA cases"
+          ],
+          "source_references": [
+            "What held and what failed: a balanced verdict"
+          ]
+        },
+        {
+          "title": "The JP movement's social base",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "BASE -> students, middle class, traders, intelligentsia",
+            "NOT THE BASE -> rural poor or the organised urban working class",
+            "STRENGTH -> moral authority sufficient to destabilise the government",
+            "LIMITATION -> no base broad enough to govern after 1977"
+          ],
+          "source_references": [
+            "The JP movement's social base: strength and limitation"
+          ]
+        },
+        {
+          "title": "Fifty years of the Emergency, 2025",
+          "structural_type": "application-pyq",
+          "ascii_lines": [
+            "EVENT -> Union Cabinet resolution, 25 JUNE 2025",
+            "CONTENT -> commemorates fifty years since the Emergency",
+            "FRAMING -> honours resistance; reaffirms constitutional democracy",
+            "SOURCE -> PIB, PRID 2139543 (no public URL recorded by the owner)"
+          ],
+          "source_references": [
+            "Fifty years of the Emergency: the 2025 commemoration"
+          ]
+        }
+      ]
+    }
+  ]
+}

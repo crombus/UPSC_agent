@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "benchmark": "Religion-without-God reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-07 immutable generation g13",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "title": "Religion without God",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g13\\topic-07_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Definition and possibility test",
+          "structural_type": "religion-function map",
+          "source_session_heading_references": [
+            "A. Definition control"
+          ],
+          "lines": [
+            "CAN RELIGION EXIST WITHOUT A CREATOR GOD?",
+            " religion may organise:",
+            " ultimate concern | sacred value | ritual | community | moral discipline",
+            " worldview | transformation | liberation",
+            " SUFFICIENT CLUSTER: sacred order + disciplined practice + community + transformation",
+            "                         |",
+            " THEISM is sufficient for many religions, not conceptually necessary for all",
+            " test a tradition by doctrine + practice + soteriology, not by a Western creator template",
+            " TRAP: non-theistic != atheistic; silence, irrelevance and denial are different positions."
+          ]
+        },
+        {
+          "panel_title": "2. Four negative positions",
+          "structural_type": "position taxonomy",
+          "source_session_heading_references": [
+            "B. Four negative positions",
+            "G. Agnosticism"
+          ],
+          "lines": [
+            "ATHEISM: denies that God exists",
+            " AGNOSTICISM: suspends judgement because knowledge/evidence is insufficient",
+            " NON-THEISM: God is absent or non-central to the path",
+            " ANTI-THEISM: holds God-belief harmful or false in a stronger evaluative sense",
+            "                         |",
+            " IGNOSTICISM: “God” must be made meaningful before existence is debated",
+            " practical atheism: life organised without reference to God",
+            " keep epistemic suspension separate from metaphysical denial."
+          ]
+        },
+        {
+          "panel_title": "3. Buddhism",
+          "structural_type": "non-theistic soteriology chain",
+          "source_session_heading_references": [
+            "C. Buddhism"
+          ],
+          "lines": [
+            "FOUR NOBLE TRUTHS -> dependent origination -> eightfold path -> nirvāṇa",
+            "                         |",
+            " no eternal creator is needed; suffering has conditioned causes, not divine decree",
+            " devas may occur in cosmology but are impermanent and unsaving",
+            " undeclared questions do not exhaust the case; creator-belief is non-central to the path",
+            "                         |",
+            " objection: karma/order functions like hidden providence",
+            " reply: causal-moral regularity is impersonal; no omnipotent allocator or creator follows."
+          ]
+        },
+        {
+          "panel_title": "4. Jainism, Mīmāṃsā and Sāṃkhya",
+          "structural_type": "Indian non-theism comparison",
+          "source_session_heading_references": [
+            "D. Jainism",
+            "E. Mīmāṃsā and Sāṃkhya"
+          ],
+          "lines": [
+            "JAINISM: eternal jīva/ajīva; karmic matter; tīrthaṅkara teaches, not creates",
+            " MĪMĀṂSĀ: authorless eternal Veda; ritual action generates apūrva; no divine author needed",
+            " SĀṂKHYA: prakṛti evolves for plural puruṣas; unconscious teleology without creator",
+            "                         |",
+            " shared anti-creator pressure: if God is perfect, why create? if embodied, who made body?",
+            " distinctions: Jainism retains worshipful exemplars; Mīmāṃsā centres dharma/ritual;",
+            " Sāṃkhya centres discriminative metaphysics and kaivalya."
+          ]
+        },
+        {
+          "panel_title": "5. Cārvāka as limit case",
+          "structural_type": "religion-boundary test",
+          "source_session_heading_references": [
+            "F. Cārvāka limit case"
+          ],
+          "lines": [
+            "CĀRVĀKA denies God, afterlife, karma, Vedic authority and mokṣa",
+            " embodied this-worldly flourishing replaces salvation",
+            "                         |",
+            " DOES IT COUNT AS RELIGION?",
+            " doctrinal-historical member of Indian philosophical debate: YES",
+            " sacred/transcendent/soteriological practice in robust sense: largely NO",
+            "                         |",
+            " limit case shows that “philosophy without God” is easier than “religion without God”;",
+            " Buddhism/Jainism better preserve ritual, community and liberation functions."
+          ]
+        },
+        {
+          "panel_title": "6. Nietzsche and post-theism",
+          "structural_type": "death-of-God consequence tree",
+          "source_session_heading_references": [
+            "H. Nietzsche and post-theism"
+          ],
+          "lines": [
+            "“GOD IS DEAD” = collapse of the Christian-metaphysical value horizon",
+            "                         |",
+            " danger: nihilism, herd morality exposed, no transcendent guarantor",
+            " task: revaluation of values -> self-overcoming -> life-affirmation",
+            "                         |",
+            " not a simple empirical proof that no deity exists",
+            " objection: self-created values risk arbitrariness or domination",
+            " reply: genealogy tests inherited values; affirmative creation accepts responsibility",
+            " POST-THEISM asks what religious depth survives after classical supernatural belief."
+          ]
+        },
+        {
+          "panel_title": "7. Naturalism and fictionalism",
+          "structural_type": "functional reconstruction map",
+          "source_session_heading_references": [
+            "I. Religious naturalism and fictionalism",
+            "J. Main objections and replies"
+          ],
+          "lines": [
+            "RELIGIOUS NATURALISM: nature is ultimate; awe, gratitude, ritual and ethics without supernaturalism",
+            " FICTIONALISM: participate in God-language/practice without literal ontological assent",
+            " SEA OF FAITH / non-realism: religious symbols shape life rather than report a transcendent entity",
+            "                         |",
+            " objections: worship without real object is make-believe; prayer loses address; truth is sacrificed",
+            " replies: symbols and communal narratives can disclose value and transform conduct",
+            " pressure remains: can function alone preserve religion's claim to truth and transcendence?"
+          ]
+        },
+        {
+          "panel_title": "8. PYQ and qualified verdict",
+          "structural_type": "criterion-based answer rail",
+          "source_session_heading_references": [
+            "K. Seven PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE religion by clustered features -> distinguish four negative positions",
+            " -> demonstrate Buddhism/Jainism/Mīmāṃsā/Sāṃkhya -> use Cārvāka boundary",
+            " -> Nietzsche/post-theism -> naturalism/fictionalism -> objection on truth/object",
+            "                         |",
+            " VERDICT BY CRITERION",
+            " creator-belief necessary? NO | ultimate concern/ritual/transformation possible? YES",
+            " petition, grace and providence preserved? normally NO",
+            " CLOSE: religion without God is coherent, but not religion without any ultimate value,",
+            " disciplined practice, communal form or account of transformation."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-07:learner-v2:g13",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

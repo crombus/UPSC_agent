@@ -1,0 +1,1009 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+  "subject": "Philosophy",
+  "title": "INDIVIDUAL AND STATE",
+  "short_route": "THE CENTRAL QUESTION OF → GROUNDING A RIGHT: NATURE → THE STRUCTURE OF A → DUTIES, THE INVERSION OF → ACCOUNTABILITY: THREE CHANNELS AND → LIBERAL, IDEALIST AND CONTRACTARIAN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-03_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-03-ascii-2026-08-27.json",
+  "ascii_spec_sha256": "87db1cd6a6d8fb947571907e685d1dd0f92471f46eb30fd533197d779e2766db",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION OF THE INDIVIDUAL-STATE RELATION AND ITS VOCABULARY",
+      "structural_type": "root-question-and-conceptual-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RIGHTS, DUTIES, ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "WHY A STATE AT ALL",
+          "role": "mechanism"
+        },
+        {
+          "text": "STATE IS NOT GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDER, RIGHTS, GOODS, JUSTICE, ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGITIMACY, NOT MERE COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCATE ON THE RELATION SPECTRUM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Why a state: scarcity, disagreement, risk of harm",
+        "Five purposes: order, rights, goods, justice, collective action",
+        "The protector itself can dominate",
+        "Justified, limited and answerable power",
+        "Legitimacy, not mere coercion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE RELATION IN THREE IDEAS",
+          "role": "evidence",
+          "items": [
+            "Rights are justified claims, duties are what is owed, and accountability is power that must answer.",
+            "Rights without limits become licence, duties without rights become subordination, and power without answerability becomes domination.",
+            "The clause fixes a normative relation, not an institutional description of any particular constitution."
+          ]
+        },
+        {
+          "heading": "WHY A STATE, AND ON WHAT TERMS",
+          "role": "mechanism",
+          "items": [
+            "Scarcity, disagreement and the risk of harm leave disputes without an impartial umpire.",
+            "The state supplies order and security, rights protection, public goods, justice and welfare, and collective action.",
+            "Legitimacy is a right to rule that subjects have reason to accept; a gang obtains obedience without ever acquiring it."
+          ]
+        },
+        {
+          "heading": "THE VOCABULARY THAT EARNS THE FIRST MARK",
+          "role": "outcome",
+          "items": [
+            "Individual, society, civil society, government and state are five different things and must not be run together.",
+            "Locate every stem on the spectrum from minimal through welfare and socialist to totalitarian and stateless.",
+            "Define the terms first, locate the case second, and adjudicate only at the end."
+          ]
+        }
+      ],
+      "mechanism_strip": "Scarcity, disagreement and the risk of harm leave disputes without an impartial umpire, so a state is instituted to supply order and security, rights protection, public goods, justice and welfare, and the collective action no individual can achieve alone.",
+      "answer_line": "The individual and the state are related by justification and not by force: a state earns authority when it supplies order, rights protection, public goods, justice and collective action, and it keeps that authority only while it remains limited and answerable.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GROUNDING A RIGHT: NATURE, LAW AND THE CRITICAL MORAL REGISTER",
+      "structural_type": "doctrine-derivation-with-limits",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLAIM, LIBERTY, POWER, IMMUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL RIGHTS PRIOR TO THE STATE",
+          "role": "mechanism"
+        },
+        {
+          "text": "GOVERNMENT AS FIDUCIARY TRUST",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS AS CHILDREN OF LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "MORAL RIGHTS JUDGE UNJUST LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "BENTHAM REJECTS NATURAL, NOT LEGAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "A right is a justified claim, liberty, power or immunity",
+        "Natural ground: prior to the state, limits government",
+        "Legal ground: claimant, duty-bearer and remedy",
+        "Moral ground: criticism of a valid but unjust law",
+        "Verdict: nature grounds, law enforces, morality judges"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREE GROUNDS OF A RIGHT",
+          "role": "evidence",
+          "items": [
+            "Natural (Locke): rights are held in the state of nature — life, liberty and property — before any government exists.",
+            "Legal (Bentham): a right exists only where law names a claimant, a duty-bearer and a remedy.",
+            "Moral: a right is justified by ethical reasoning before, and independently of, enactment."
+          ]
+        },
+        {
+          "heading": "WHAT EACH GROUND DELIVERS",
+          "role": "mechanism",
+          "items": [
+            "Locke makes government a fiduciary trust whose breach forfeits authority and licenses resistance.",
+            "Bentham makes rights the children of law and dismisses natural rights as nonsense upon stilts.",
+            "The moral register alone explains anti-slavery and anti-colonial claims voiced before legal recognition."
+          ]
+        },
+        {
+          "heading": "PRESUPPOSITIONS, TRAP AND VERDICT",
+          "role": "outcome",
+          "items": [
+            "Presuppositions: intrinsic moral status, institutional enforceability, and justice not exhausted by positive law.",
+            "Trap: Bentham rejects natural rights, not legal rights, and legal validity is never moral legitimacy.",
+            "Verdict: a mature order needs all three registers — nature grounds, law enforces, morality judges."
+          ]
+        }
+      ],
+      "mechanism_strip": "Each theory answers the question why is this owed differently: nature confers standing before government exists, positive law confers an enforceable position with a remedy, and morality confers a critical standard against what the law has actually enacted.",
+      "answer_line": "The first mark on any rights stem is earned by refusing to treat every urgent interest as a right: a right is a justified claim, liberty, power or immunity, and a controlled answer names its ground as natural, legal or moral before it argues about anything else.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE STRUCTURE OF A RIGHT AND THE CORRELATIVITY VERDICT",
+      "structural_type": "analytic-classification-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ONLY CLAIM-RIGHTS PAIR STRICTLY",
+          "role": "primary"
+        },
+        {
+          "text": "LIBERTY CORRELATES WITH NO-RIGHT",
+          "role": "mechanism"
+        },
+        {
+          "text": "POWER, LIABILITY, IMMUNITY, DISABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "WILL AGAINST INTEREST THEORY",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON CORE, PLURAL ARTICULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRELATIVITY IS NOT IDENTITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Four incidents, only one strict correlative",
+        "Will theory against interest theory",
+        "Mixed account covers agency and welfare",
+        "Universality of aspiration, plurality of articulation",
+        "Correlativity is necessary, but not identity"
+      ],
+      "matrix": [
+        [
+          "INCIDENT",
+          "CORRELATIVE",
+          "OPPOSITE",
+          "WHAT IT ACTUALLY ENTAILS"
+        ],
+        [
+          "CLAIM-RIGHT",
+          "duty",
+          "no-right",
+          "a strict duty-partner exists"
+        ],
+        [
+          "LIBERTY",
+          "no-right",
+          "duty",
+          "no positive duty to assist me"
+        ],
+        [
+          "POWER",
+          "liability",
+          "disability",
+          "I can alter legal relations"
+        ],
+        [
+          "IMMUNITY",
+          "disability",
+          "liability",
+          "you cannot alter my status"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THE FOUR JURAL INCIDENTS",
+          "role": "evidence",
+          "items": [
+            "Claim-right correlates with duty; only here does a strict duty-partner exist.",
+            "Liberty correlates with no-right and imposes no positive duty to assist the holder.",
+            "Power correlates with liability, and immunity correlates with disability."
+          ]
+        },
+        {
+          "heading": "WHAT A RIGHT PROTECTS",
+          "role": "mechanism",
+          "items": [
+            "Will theory: the right-holder controls another's duty; it fits autonomy but handles children badly.",
+            "Interest theory: the right protects a vital interest; it fits welfare but can underplay agency.",
+            "Most working systems run a mixed account of agency and well-being together."
+          ]
+        },
+        {
+          "heading": "HOW FAR THE RIGHT TRAVELS",
+          "role": "outcome",
+          "items": [
+            "Universalist: equal worth and protection from cruelty are a common human aspiration.",
+            "Relativist: personhood, authority and obligation are read through particular traditions.",
+            "Verdict: correlativity is conceptual for claim-rights and institutional for the rest, never a logical identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "Separating the four incidents shows exactly where a duty-partner is entailed and where it is not, so the correlativity question is settled by analysis of jural positions instead of by slogan.",
+      "answer_line": "Correlativity is the mark-bearing device on this clause: claim-rights are necessarily correlative to duties while liberties are not, so the slogan that rights and duties are two sides of one coin is exact for one Hohfeldian incident and merely loose about the rest.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DUTIES, THE INVERSION OF THE USUAL ORDER, AND THE PRIORITY VERDICT",
+      "structural_type": "comparison-and-graded-verdict",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGAL DUTY AGAINST MORAL DUTY",
+          "role": "primary"
+        },
+        {
+          "text": "PERFORM THE DUTY, EARN THE RIGHT",
+          "role": "mechanism"
+        },
+        {
+          "text": "SELF-RULE BEGINS WITH SELF-RESTRAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 51A, 42ND AMENDMENT 1976",
+          "role": "comparison"
+        },
+        {
+          "text": "CO-ORIGINALITY WITH A SEQUENCING CAVEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-JUSTICIABLE, NOT ENFORCEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Duty is what is owed, not mere obedience",
+        "Legal duty carries sanction and remedy",
+        "Moral duty binds in conscience",
+        "Gandhi inverts the order: duty earns the right",
+        "Verdict: co-originality with a sequencing caveat"
+      ],
+      "matrix": [
+        [
+          "POSITION",
+          "CORE CLAIM",
+          "MERIT",
+          "RISK"
+        ],
+        [
+          "RIGHTS-FIRST",
+          "the person is protected against coercion",
+          "shields minorities and dissent",
+          "atomised entitlement culture"
+        ],
+        [
+          "DUTY-FIRST",
+          "order and reciprocity come first",
+          "revives civic responsibility",
+          "paternalism and conformity"
+        ],
+        [
+          "BALANCED",
+          "rights and duties are mutually sustaining",
+          "best fit for a constitutional democracy",
+          "requires institutional vigilance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "TWO KINDS OF DUTY",
+          "role": "evidence",
+          "items": [
+            "Legal duty rests on law, constitution and statute, and carries a sanction and a remedy.",
+            "Moral duty rests on conscience and ethical reason, enforced by praise, blame and public criticism.",
+            "Law cannot codify the whole of ethical life, so citizenship depends on habits law alone cannot manufacture."
+          ]
+        },
+        {
+          "heading": "GANDHI'S INVERSION AND THE INDIAN TEXT",
+          "role": "mechanism",
+          "items": [
+            "Perform the duty and the right follows: the true source of rights is duty, secured by service and self-restraint.",
+            "Self-rule (swaraj) begins with rule over oneself, so the duties run to conscience and community rather than to the state.",
+            "Article 51A, inserted by the Constitution (Forty-second Amendment) Act, 1976, is non-justiciable exhortation."
+          ]
+        },
+        {
+          "heading": "THE PRIORITY DEBATE AND ITS VERDICT",
+          "role": "outcome",
+          "items": [
+            "Rights-first shields dissent and minorities but risks an atomised entitlement culture.",
+            "Duty-first revives reciprocity but can postpone the claims of the powerless.",
+            "Verdict: co-originality with a sequencing caveat — foreground duty if the culture requires it, never demote rights."
+          ]
+        }
+      ],
+      "mechanism_strip": "Duties convert abstract norms into expectations of conduct, so a claim-right becomes socially effective only when some determinate agent is bound to respect it, protect it or provide for it.",
+      "answer_line": "A duty is not the same thing as obedience, and the defensible verdict on the priority question is co-originality with a sequencing caveat: duty may be foregrounded pedagogically in a culture of entitlement without ever demoting rights to conditional grants.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ACCOUNTABILITY: THREE CHANNELS AND THE DIRECTION THE EXAMINER TESTS",
+      "structural_type": "causal-mechanism-with-correction",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PUBLIC POWER MUST ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL, LEGAL, MORAL CHANNELS",
+          "role": "mechanism"
+        },
+        {
+          "text": "RULE OF LAW AND JUDICIAL REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "FIDUCIARY TRUST MADE INSTITUTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RECIPROCAL, NOT ONE-WAY OBEDIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTIONS ALONE ARE NOT ENOUGH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "The state claims coercive authority over persons",
+        "Political channel: rulers can be removed",
+        "Legal channel: rulers under reviewable law",
+        "Moral channel: shareable public reasons",
+        "Verdict: reciprocal, never one-way answerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREE CHANNELS OF ANSWERABILITY",
+          "role": "evidence",
+          "items": [
+            "Political: elections, opposition, legislature and a free press let citizens remove rulers.",
+            "Legal: rule of law, judicial review, due process and remedy put rulers under the law.",
+            "Moral: public reason and the dignity of the governed require shareable justifications."
+          ]
+        },
+        {
+          "heading": "WHY THE CHANNELS MATTER TOGETHER",
+          "role": "mechanism",
+          "items": [
+            "Together the three channels convert coercive power into authority.",
+            "Remove all three and what remains is domination rather than government.",
+            "Elections alone deliver formal answerability alongside substantive domination."
+          ]
+        },
+        {
+          "heading": "THE DIRECTION CORRECTION",
+          "role": "outcome",
+          "items": [
+            "A stem may assume citizens answer to the state; rights principally make the state answerable to citizens.",
+            "Concede that rights also generate responsibilities, such as the duty not to defame that accompanies free speech.",
+            "Verdict: reciprocal accountability; keep answering for power apart from the duties that accompany a right."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because the state claims coercive authority over persons, every exercise of that authority must be explicable to those bound by it, and the three channels convert power into authority by making removal, review and public justification possible.",
+      "answer_line": "Accountability is the institutional cash value of the distinction between authority and force: rights principally make the state answerable to citizens, and only derivatively generate the responsibilities that accompany the exercise of those same rights.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LIBERAL, IDEALIST AND CONTRACTARIAN PICTURES OF THE SAME RELATION",
+      "structural_type": "theory-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PERSON PRIOR, OR INSTITUTIONS PRIOR",
+          "role": "primary"
+        },
+        {
+          "text": "THE STATE-OF-NATURE PREMISE DECIDES",
+          "role": "mechanism"
+        },
+        {
+          "text": "SECURITY, TRUST, GENERAL WILL",
+          "role": "evidence"
+        },
+        {
+          "text": "HEGEL AND GREEN AGAINST LOCKE",
+          "role": "comparison"
+        },
+        {
+          "text": "NORMATIVE TEST, NOT HISTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE FORCED TO BE FREE WITH CONDITIONS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Name the state-of-nature premise first",
+        "Hobbes: security bought with near-total transfer",
+        "Locke: limited government held as fiduciary trust",
+        "Rousseau: general will and civic freedom",
+        "Verdict: grounds limits, abstracts from inequality"
+      ],
+      "matrix": [
+        [
+          "THINKER",
+          "STATE OF NATURE",
+          "THE BARGAIN",
+          "RIGHT TO RESIST"
+        ],
+        [
+          "HOBBES",
+          "war of all against all",
+          "near-total power to one sovereign for security",
+          "almost none beyond self-preservation"
+        ],
+        [
+          "LOCKE",
+          "natural law governs; rights precede government",
+          "limited government held as a fiduciary trust",
+          "yes, on breach of trust"
+        ],
+        [
+          "ROUSSEAU",
+          "free but corrupted by inequality",
+          "surrender to the general will",
+          "self-rule through the general will"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREE STATES OF NATURE, THREE BARGAINS",
+          "role": "evidence",
+          "items": [
+            "Hobbes: war of all against all, near-total transfer for security, resistance confined to self-preservation.",
+            "Locke: a state of nature governed by natural law, limited government as fiduciary trust, resistance on breach.",
+            "Rousseau: freedom corrupted by inequality, surrender to the general will, and self-rule through it."
+          ]
+        },
+        {
+          "heading": "THREE DIRECTIONS OF EXPLANATION",
+          "role": "mechanism",
+          "items": [
+            "Liberal: the person is prior and the state instrumental, with the standing risk of atomism.",
+            "Idealist: family and civil society culminate in the state as ethical life, with Green removing hindrances to self-realisation.",
+            "Marxist as relation-theory: the state is a class instrument and formal rights can mask real unfreedom."
+          ]
+        },
+        {
+          "heading": "HINGE PROBLEM AND ADEQUACY VERDICT",
+          "role": "outcome",
+          "items": [
+            "Rousseau's forced to be free is defensible only with equality, generality of law and the absence of factions.",
+            "The deal always follows from the diagnosis: change the premise and the state changes with it.",
+            "Contract grounds limits and consent, yet abstracts from real inequality, so human rights need a further ground."
+          ]
+        }
+      ],
+      "mechanism_strip": "Contract theory replaces divine right and conquest with a justificatory story addressed to rational persons, so legitimacy is tested by what free and equal contractors could reasonably be expected to accept.",
+      "answer_line": "In every contract stem the deal follows from the diagnosis: name the state of nature first as war of all against all, as inconvenient but norm-governed, or as free but corrupted, and Hobbes's sovereign, Locke's trust and Rousseau's general will follow almost automatically.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RADICAL AND SITUATED CRITIQUES AND THE UNCONDITIONAL-RIGHTS CHARGE",
+      "structural_type": "problem-response-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JUSTIFY COERCION, DO NOT ASSUME IT",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL RIGHTS CAN MASK DOMINATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "MEANS, EMBEDDEDNESS, CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVER-WIDENING CIRCLES, NOT A PYRAMID",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDED RIGHTS DO NOT ENTAIL ANARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNCONDITIONAL IS NOT INALIENABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Anarchism: justify coercion, do not assume it",
+        "Marxism: formal rights can mask material domination",
+        "Welfare, communitarian and feminist corrections",
+        "Unconditional is not the same as inalienable",
+        "Bounded rights do not entail anarchy"
+      ],
+      "matrix": [
+        [
+          "CRITIQUE",
+          "CHARGE",
+          "POSITIVE PROPOSAL",
+          "RESIDUAL LIMIT"
+        ],
+        [
+          "ANARCHIST",
+          "the right to rule is presumptively illegitimate",
+          "voluntary cooperation and mutual aid",
+          "adjudication, defence and coordination at scale"
+        ],
+        [
+          "MARXIST",
+          "formal rights coexist with material domination",
+          "real capabilities behind formal rights",
+          "risk of undervaluing civil liberties"
+        ],
+        [
+          "WELFARE",
+          "formal liberty is empty without means",
+          "positive freedom and a social minimum",
+          "dependency, bureaucracy and fiscal limits"
+        ],
+        [
+          "COMMUNITARIAN / FEMINIST",
+          "the abstract self hides embeddedness and private power",
+          "membership, common goods, care and dependence",
+          "must still protect dissent and minority rights"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ATTACKS ON THE COERCIVE STATE",
+          "role": "evidence",
+          "items": [
+            "Philosophical anarchism treats the state's right to rule as presumptively illegitimate and cooperation as voluntary.",
+            "Its limits are feasibility, impartial adjudication, external defence and large-scale coordination.",
+            "Gandhi's ever-widening circles keep the individual at the centre, each outer ring serving the inner."
+          ]
+        },
+        {
+          "heading": "ATTACKS ON THE ABSTRACT INDIVIDUAL",
+          "role": "mechanism",
+          "items": [
+            "Marxist: equal legal rights can coexist with deep material domination, so formal freedom may mask class power.",
+            "Welfare: formal liberty is empty without means, so a social minimum enlarges effective freedom.",
+            "Communitarian and feminist: the self is socially constituted, and the private sphere hides dependence and power."
+          ]
+        },
+        {
+          "heading": "THE UNCONDITIONAL-RIGHTS CHARGE",
+          "role": "outcome",
+          "items": [
+            "Distinguish unconditional from inalienable: rights are inalienable yet limitable.",
+            "Internal limits are the equal rights of others, harm constraints, public order and institutional adjudication.",
+            "Verdict: bounded rights do not entail anarchy; only a naive absolutism about rights ever would."
+          ]
+        }
+      ],
+      "mechanism_strip": "Each critique isolates one assumption the standard justification makes, that coercion is necessary, that formal liberty suffices, or that the self is pre-social, and then denies precisely that assumption.",
+      "answer_line": "The decisive move against the anarchy charge is a distinction between unconditional and inalienable: rights are inalienable yet limitable, so bounded rights carrying internal harm-limits and correlative duties do not entail anarchy, and only a naive absolutism about rights ever would.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POLITICAL OBLIGATION: SIX GROUNDS DRIVEN THROUGH FOUR TESTS",
+      "structural_type": "test-grid-with-collapse-chain",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OBEY BECAUSE IT IS LAW",
+          "role": "primary"
+        },
+        {
+          "text": "SIX GROUNDS, FOUR TESTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "FAIR PLAY AND THE FREE-RIDER",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICE CONCEPTION, PRE-EMPTIVE REASONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCIPLES, HARD CASES, RIGHTS AS TRUMPS",
+          "role": "outcome"
+        },
+        {
+          "text": "BEING OBLIGED IS NOT HAVING AN OBLIGATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Is there a moral duty to obey because it is law?",
+        "Six grounds: consent, fair play, natural duty, association",
+        "Gratitude, and the philosophical-anarchist denial",
+        "Four tests: generality, particularity, content-independence, defeasibility",
+        "Raz on authority, Dworkin on principles and trumps"
+      ],
+      "matrix": [
+        [
+          "GROUND",
+          "CORE CLAIM",
+          "NAMED ANCHOR",
+          "TEST IT FAILS"
+        ],
+        [
+          "CONSENT",
+          "obligation arises from voluntary undertaking",
+          "Locke, Hobbes, Rousseau",
+          "generality: tacit consent is not voluntary"
+        ],
+        [
+          "FAIR PLAY",
+          "accept the benefits, owe a share of the burdens",
+          "Hart, Rawls",
+          "defeasibility: unavoidable benefits cannot bind"
+        ],
+        [
+          "NATURAL DUTY",
+          "support just institutions that apply to you",
+          "Rawls",
+          "particularity: why this state rather than any?"
+        ],
+        [
+          "ASSOCIATIVE / GRATITUDE",
+          "obligation flows from membership or benefaction",
+          "Dworkin; classical duty frameworks",
+          "content-independence: survives only conditionally"
+        ],
+        [
+          "PHILOSOPHICAL ANARCHISM",
+          "no general duty has yet been established",
+          "Wolff, Simmons",
+          "cannot distinguish the state from a private agency"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SIX CANDIDATE GROUNDS",
+          "role": "evidence",
+          "items": [
+            "Consent (Locke, Hobbes, Rousseau) and fair play (Hart, Rawls) derive the duty from what the citizen has done.",
+            "Natural duty of justice (Rawls), associative obligation (Dworkin) and gratitude derive it from what the citizen is in.",
+            "Philosophical anarchism (Wolff, Simmons) denies that any ground has yet established a general duty."
+          ]
+        },
+        {
+          "heading": "FOUR TESTS AND WHERE EACH GROUND BREAKS",
+          "role": "mechanism",
+          "items": [
+            "Generality and particularity: a natural duty binds me to any just state rather than distinctively to my own.",
+            "Content-independence: obedience must follow because the law directs it, not because I independently agree.",
+            "Defeasibility: fair play collapses where the benefits of public order are unavoidable and non-excludable (Nozick)."
+          ]
+        },
+        {
+          "heading": "AUTHORITY, PRINCIPLES AND THE TRAP",
+          "role": "outcome",
+          "items": [
+            "Raz's service conception: authority is legitimate when its directives are pre-emptive reasons that improve conformity.",
+            "Dworkin, Taking Rights Seriously, 1977: principles have weight, hard cases turn on them, and rights are trumps.",
+            "Trap: never give the service conception to Simmons, or philosophical anarchism to Raz."
+          ]
+        }
+      ],
+      "mechanism_strip": "Being obliged by fear and having an obligation are different things, so a genuine obligation must direct obedience because the law directs it, which is exactly what the content-independence test measures.",
+      "answer_line": "Obedience is never self-evident, and the mark-bearing move is to say which ground the stem assumes and which test that ground fails, because being obliged by a gunman and having an obligation to the state are two entirely different things.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE LADDER OF REFUSAL AND THE INDIAN CONSTITUTIONAL LIMIT",
+      "structural_type": "graded-ladder-with-legal-caution",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REFUSAL IS GRADED, NOT BINARY",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC, NON-VIOLENT, PENALTY-ACCEPTING",
+          "role": "mechanism"
+        },
+        {
+          "text": "THOREAU 1849, SALT SATYAGRAHA 1930",
+          "role": "evidence"
+        },
+        {
+          "text": "AMBEDKAR 1949, GRAMMAR OF ANARCHY",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 19 PROTECTS PROTEST ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO RIGHT TO BREAK THE LAW",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "A defeasible duty makes refusal graded, not binary",
+        "Legal dissent within the law",
+        "Conscientious objection seeks personal exemption",
+        "Civil disobedience: public, non-violent, penalty-accepting",
+        "Resistance and revolution carry the gravest burden"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FOUR RUNGS OF REFUSAL",
+          "role": "evidence",
+          "items": [
+            "Legal dissent works within the law through speech, vote, petition and litigation.",
+            "Conscientious objection seeks a personal exemption, may be private, and accepts the penalty.",
+            "Civil disobedience is a public, non-violent, penalty-accepting breach; resistance and revolution go further."
+          ]
+        },
+        {
+          "heading": "CONDITIONS FOR THE THIRD RUNG",
+          "role": "mechanism",
+          "items": [
+            "The law must be seriously unjust and legal channels exhausted, blocked or unavailable to the affected group.",
+            "The breach must be open and non-violent, and the legal penalty must be accepted.",
+            "Rawls adds that the society must be nearly just and its majority capable of being persuaded."
+          ]
+        },
+        {
+          "heading": "ANCHORS AND THE INDIAN LIMIT",
+          "role": "outcome",
+          "items": [
+            "Thoreau, Civil Disobedience, 1849, is individual refusal rather than an organised mass campaign.",
+            "Salt Satyagraha, 1930, is announced, non-violent and arrest-accepting; Ambedkar, 25 November 1949, names the grammar of anarchy.",
+            "Articles 19(1)(a) and 19(1)(b) protect protest subject to reasonable restrictions; there is no right to break the law."
+          ]
+        }
+      ],
+      "mechanism_strip": "Publicity, non-violence, exhaustion of legal channels and acceptance of the penalty operate as severe filters, so a defeasible obligation can be overridden in a particular case without dissolving legal order in general.",
+      "answer_line": "Civil disobedience is defined by two features ordinary law-breaking lacks, a public appeal to shared principles and acceptance of the legal penalty, and it is precisely that penalty-acceptance which demonstrates fidelity to law as such while one particular law is contested.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "THE ANSWER ENGINE: STAGED DEBATES, TRAP BANK AND THE GRADED VERDICT",
+      "structural_type": "integrated-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DEFINE, LOCATE, RIVALS, OBJECT, EVIDENCE, VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE ONE REAL DEBATE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARISTOTLE AGAINST PLATO ON THE MIDDLE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA EVIDENCE CITED BY POSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "NEITHER ATOM NOR CELL",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL, NOT PARLIAMENTARY, SUPREMACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Define the stem's key term precisely",
+        "Locate the case on the relation spectrum",
+        "State the rivals and stage one real debate",
+        "Voice the objection to your own thesis",
+        "Close with a graded, specified verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE SIX-MOVE ANSWER SPINE",
+          "role": "evidence",
+          "items": [
+            "Define the stem's key term, then locate the case on the relation spectrum.",
+            "State the rivals in play, then run one objection and reply on the strongest of them.",
+            "Cite India-centric evidence by position, then deliver a graded verdict rather than a winner."
+          ]
+        },
+        {
+          "heading": "DEBATES WORTH STAGING",
+          "role": "mechanism",
+          "items": [
+            "Hobbes against Locke on resistance; Locke against Rousseau on the will.",
+            "Liberal against communitarian on the self; liberal against idealist on freedom.",
+            "Gandhi against Western anarchism; Aristotle against Plato on the statism and individualism axis."
+          ]
+        },
+        {
+          "heading": "TRAP BANK AND CLOSING VERDICT",
+          "role": "outcome",
+          "items": [
+            "State is not government; Bentham is not anti-all-rights; Article 51A is not enforceable.",
+            "India has constitutional supremacy, not parliamentary sovereignty; never fabricate a case, article, quotation or date.",
+            "Close by specifying the justified balance of dignity, justice and order rather than asserting it."
+          ]
+        }
+      ],
+      "mechanism_strip": "A twenty-marker is won in the fourth and fifth paragraphs, where a real debate is staged and the strongest criticism of one's own side is voiced before any verdict is offered.",
+      "answer_line": "The individual is neither an atom standing outside society nor a cell inside the state, so the examiner rewards a specified balance of dignity, justice and order that is argued through one staged debate and one honest concession rather than merely asserted.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE INDIVIDUAL-STATE FRAME",
+          "role": "institution"
+        },
+        {
+          "text": "CONCEPTS AND WHY A STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — RIGHTS I",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT A RIGHT IS AND ITS SOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — RIGHTS II",
+          "role": "outcome"
+        },
+        {
+          "text": "HOHFELD, WILL/INTEREST, HUMAN RIGHTS AND CORRELATIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — DUTIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Individual-State Frame: Concepts and Why a State",
+            "ADVANCED SESSION 2 — Rights I: What a Right Is and Its Sources",
+            "ADVANCED SESSION 3 — Rights II: Hohfeld, Will/Interest, Human Rights and Correlativity",
+            "ADVANCED SESSION 4 — Duties: Nature, Gandhi's Duty-Centrism and the Priority Debate"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Accountability of Public Power",
+            "ADVANCED SESSION 6 — Theories of the Relationship: Liberal, Idealist and Social Contract",
+            "ADVANCED SESSION 7 — Radical and Situated Critiques: Anarchist, Marxist, Welfare, Communitarian, Feminist",
+            "ADVANCED SESSION 8 — Political Obligation: Why Should the Individual Obey the State?"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Disobedience, Resistance and the Indian Constitutional Application",
+            "ADVANCED SESSION 10 — Inter-Thinker Debates, Criticisms and Common Traps",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite: Rights, duties and accountability"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

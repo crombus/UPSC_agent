@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topic 22",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-22",
+      "display_title": "Cool Temperate Western Margin British Type",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\22_India-Himalayan-Temperate-Forests_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "British-type world map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "NW EUROPE -> Britain, France, Belgium, Netherlands, Denmark, Norway",
+            "NORTH AMERICA -> British Columbia coast (Rockies block inland)",
+            "SOUTHERN HEMISPHERE -> S. Chile, Tasmania, NZ South Island",
+            "LATITUDE BELT -> about 45-65 degrees N and S"
+          ],
+          "source_references": [
+            "British-type location and Westerlies"
+          ]
+        },
+        {
+          "title": "Westerly-ocean mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WESTERLIES -> permanent onshore flow from warm ocean",
+            "NORTH ATLANTIC DRIFT -> warm current on seaward side",
+            "CYCLONIC ACTIVITY -> travelling frontal depressions",
+            "RESULT -> mild winters, cool summers, small annual range, rain all year"
+          ],
+          "source_references": [
+            "Maritime temperature regime",
+            "Rainfall regime"
+          ]
+        },
+        {
+          "title": "Rockies-barrier contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NW EUROPE -> no major barrier, oceanic influence far inland",
+            "NORTH AMERICA -> Rockies block Westerlies, narrow BC coastal strip",
+            "SOUTHERN HEMISPHERE -> narrow landmasses, strong maritime influence",
+            "CAUSE -> mountain barriers and land width determine inland reach"
+          ],
+          "source_references": [
+            "NW European distribution",
+            "North American confinement"
+          ]
+        },
+        {
+          "title": "East-west asymmetry diagram",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WESTERN MARGIN -> onshore Westerlies, warm current, mild/small range",
+            "EASTERN MARGIN -> offshore Westerlies, cold current, cold/large range",
+            "WESTERN RAIN -> all year, autumn-winter max, frontal depressions",
+            "EASTERN RAIN -> summer max, winter snow, ports freeze"
+          ],
+          "source_references": [
+            "East-west asymmetry"
+          ]
+        },
+        {
+          "title": "Four-type comparison matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BRITISH -> mild winter, cool summer, small range, all-year rain",
+            "LAURENTIAN -> cold winter, warm summer, large range, summer rain",
+            "SIBERIAN -> bitterly cold winter, short summer, very large range",
+            "CHINA TYPE -> cool-cold winter, hot summer, large range, monsoon rain"
+          ],
+          "source_references": [
+            "East-west asymmetry"
+          ]
+        },
+        {
+          "title": "Fog-fisheries mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WARM CURRENT meets COLD CURRENT -> air chilled from below",
+            "RESULT -> dense persistent fog (navigation hazard)",
+            "MIXING + NUTRIENT SUPPLY -> over broad shallow continental shelf",
+            "RESULT -> major fishing ground (but productivity depends on catch levels)"
+          ],
+          "source_references": [
+            "Fog-and-fisheries mechanism"
+          ]
+        },
+        {
+          "title": "Deciduous-vegetation identity",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "BRITISH TYPE -> deciduous: oak, ash, beech, elm, birch",
+            "LAURENTIAN -> mixed and coniferous forest",
+            "SIBERIAN -> taiga (boreal coniferous)",
+            "EXAM TRAP -> British type is deciduous, NOT coniferous"
+          ],
+          "source_references": [
+            "Deciduous forest vegetation"
+          ]
+        },
+        {
+          "title": "Maritime economy",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "DAIRYING + MIXED FARMING -> long grass-growing season, reliable moisture",
+            "ICE-FREE PORTS -> year-round trade and shipping",
+            "TEMPERATE CEREALS -> reliable growing conditions",
+            "EARLY INDUSTRIALISATION -> ports, water, equable climate in NW Europe"
+          ],
+          "source_references": [
+            "Dairying and early industrialisation"
+          ]
+        },
+        {
+          "title": "India Himalayan temperate map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "MOIST TEMPERATE -> J&K to Arunachal, 1500-3300 m: deodar, oak, fir",
+            "CHIR PINE BELT -> NW Himalaya, HP, Uttarakhand, NE: fire-prone",
+            "DRY TEMPERATE -> Ladakh margins, Lahaul-Spiti, Kinnaur: chilgoza, juniper",
+            "CONTROL -> altitude replaces latitude as the zonation driver"
+          ],
+          "source_references": [
+            "India temperate boundary",
+            "Himalayan forest belts"
+          ]
+        },
+        {
+          "title": "Deodar species firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "DEODAR -> Cedrus deodara, a CONIFER (cedar family)",
+            "EXAM TRAP -> frequently tested: deodar is NOT a broadleaf tree",
+            "CHILGOZA -> dry-temperate conifer (Pinus gerardiana)",
+            "CHIR PINE -> subtropical montane, highly resinous and fire-prone"
+          ],
+          "source_references": [
+            "Dry temperate and deodar identity"
+          ]
+        },
+        {
+          "title": "Water-security-fire chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "FOREST FLOOR SPONGE -> absorbs rain, feeds springs and rivers",
+            "FOREST LOSS -> reduced infiltration, spring decline, downstream shortage",
+            "CHIR PINE + DRY WEATHER -> fuel accumulation, rapid fire spread",
+            "FIRE DAMAGE -> soil loss, regeneration failure, catchment degradation"
+          ],
+          "source_references": [
+            "Water security and fire risk"
+          ]
+        },
+        {
+          "title": "British-type answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> cool temperate western margin under permanent Westerlies",
+            "COMPARE -> east-west asymmetry: same latitude, opposite climate",
+            "EXPLAIN -> maritime moderation, frontal rain, deciduous vegetation",
+            "APPLY -> India's Himalayan temperate forests as altitude-based analogue"
+          ],
+          "source_references": [
+            "Routed 2024 PYQ and answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

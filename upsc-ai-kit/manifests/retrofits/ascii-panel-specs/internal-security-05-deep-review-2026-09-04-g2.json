@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-05",
+      "display_title": "Jammu & Kashmir and Cross-Border Terrorism",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Accession-to-LoC boundary",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "26 OCT 1947 -> INSTRUMENT OF ACCESSION",
+            "1947-48 -> CONFLICT / CEASEFIRE-LINE CONTEXT",
+            "1971 + SHIMLA PROCESS -> LINE OF CONTROL",
+            "BOUNDARY -> constitutional doctrine routes to Polity"
+          ],
+          "source_references": [
+            "Accession anchor",
+            "LoC legal-status boundary",
+            "Constitutional-domain firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Proxy-war system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "EXTERNAL SPONSOR -> DENIABLE PROXY",
+            "PROXY -> INFILTRATION / FINANCE / WEAPONS / PROPAGANDA",
+            "LOCAL FACILITATION -> only where evidence proves the role",
+            "END-STATE -> coercion, fear, legitimacy and strategic pressure"
+          ],
+          "source_references": [
+            "Proxy-war mechanism",
+            "Attribution gradient",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Attribution ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "1 ALLEGATION / CLAIM",
+            "2 RECOVERED MATERIAL OR COMMUNICATION",
+            "3 FINANCING / TRAINING / CADRE LINK",
+            "4 INVESTIGATIVE OR JUDICIAL FINDING",
+            "RULE -> state the rung; do not jump to adjudicated certainty"
+          ],
+          "source_references": [
+            "Attribution gradient",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ceasefire-versus-conflict matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LoC FIRING -> governed by military understanding",
+            "INFILTRATION -> separate border-security metric",
+            "RECRUITMENT / FINANCE -> separate network metrics",
+            "HINTERLAND INCIDENT -> separate policing/investigation metric"
+          ],
+          "source_references": [
+            "Ceasefire understanding",
+            "Separate security metrics",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Proxy-support chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INFILTRATION / DELIVERY",
+            "-> LOGISTICS / SHELTER / COMMUNICATION",
+            "-> FINANCE / RECRUITMENT / PROPAGANDA",
+            "-> ATTACK OR COERCIVE INFLUENCE",
+            "SAFE RULE -> describe categories, not exploitable methods"
+          ],
+          "source_references": [
+            "Proxy-war mechanism",
+            "OGW function map",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "OGW proof-and-response",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ALLEGED FACILITATION?",
+            "-> PROTECT REPORTING + PRESERVE EVIDENCE",
+            "-> INVESTIGATE FUNCTION + FINANCIAL TRAIL",
+            "-> REHABILITATE / PREVENT OR PROSECUTE AS EVIDENCE WARRANTS",
+            "TRAP -> label is not proof"
+          ],
+          "source_references": [
+            "OGW evidentiary boundary",
+            "OGW response chain",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "2019 operational chain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "J&K UT -> LEGISLATURE EXISTS",
+            "POLICE + PUBLIC ORDER -> OUTSIDE ASSEMBLY COMPETENCE",
+            "OPERATIONAL CHAIN -> LIEUTENANT GOVERNOR / UNION",
+            "POLITY FIREWALL -> constitutional merits and judgment elsewhere"
+          ],
+          "source_references": [
+            "Reorganisation structure",
+            "Police-public-order consequence",
+            "Constitutional-domain firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Legal-instrument firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "J&K REORGANISATION ACT 2019 -> administrative / competence structure",
+            "J&K AFSPA 1990 -> special-powers statute",
+            "LoC CEASEFIRE -> military understanding",
+            "RULE -> none proves field capability or outcome"
+          ],
+          "source_references": [
+            "Police-public-order consequence",
+            "J&K AFSPA distinction",
+            "Ceasefire understanding",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Community-security balance",
+          "structural_type": "balance-scale",
+          "ascii_lines": [
+            "VDG GAIN -> local presence / warning / self-protection",
+            "VDG RISK -> training / command / accountability",
+            "SAFEGUARD -> SP / SSP supervision + lawful review",
+            "VERDICT -> community partnership, never unaccountable substitution"
+          ],
+          "source_references": [
+            "Village Defence Guards boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Hearts-and-minds scorecard",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CIVILIAN SECURITY | PROPORTIONATE FORCE",
+            "PARTICIPATION | GRIEVANCE REDRESS",
+            "SERVICES / LIVELIHOOD | REHABILITATION",
+            "ACCOUNTABILITY / REMEDY | TRUST OUTCOME",
+            "MUST REMEMBER: Jammu and Kashmir analysis must join security, cross-border support,..."
+          ],
+          "source_references": [
+            "Hearts-and-minds meaning",
+            "Rehabilitation-evidence rung",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-05_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "CPEC bounded route",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PRINCIPAL OWNERS -> IR / ECONOMY",
+            "INTERNAL-SECURITY LEG -> SOVEREIGNTY CLAIM",
+            "STRATEGIC LEG -> LOGISTICS / CONTINGENCY RISK",
+            "LIMIT -> no invented troop movement or current outcome",
+            "CLOSE DISTINCTION: Article 370 changes are not identical to every Article 35A..."
+          ],
+          "source_references": [
+            "CPEC bounded route",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-05_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "PYQ and end-state rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2018 -> CPEC SOVEREIGNTY / SECURITY LEG",
+            "2019 -> OGW ROLE + EVIDENCE-LED RESPONSE",
+            "2023 -> HEARTS AND MINDS EVALUATION",
+            "END -> DISRUPTION + RIGHTS + GOVERNANCE + REHABILITATION",
+            "QUALIFY -> last verified metric and evidence rung",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date constitutional orders, statute,..."
+          ],
+          "source_references": [
+            "Integrated response chain",
+            "Qualified end-state",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g2\\internal-security-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-05_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

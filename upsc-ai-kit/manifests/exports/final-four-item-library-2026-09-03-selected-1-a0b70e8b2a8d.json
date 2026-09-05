@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T17:59:11+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b4a9efc8970851372bcf52f54ed8074dbacdb70207ba475ff06c617748d038ba",
+    "sha256_after": "b4a9efc8970851372bcf52f54ed8074dbacdb70207ba475ff06c617748d038ba",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8280,
+    "pdf_count": 2152,
+    "png_count": 734,
+    "txt_count": 912,
+    "markdown_count": 1349,
+    "json_count": 3118,
+    "total_bytes": 3847913756,
+    "by_extension": {
+      ".json": 3118,
+      ".md": 1349,
+      ".pdf": 2152,
+      ".png": 734,
+      ".txt": 912,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-15",
+      "topic_title": "Akbar: Consolidation & Expansion of the Empire",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "medieval-indian-history-15:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d5d30b1c0242bc44d237ba66b59935fe455346cc18896c30324fae52f84feab9",
+          "output_sha256": "d5d30b1c0242bc44d237ba66b59935fe455346cc18896c30324fae52f84feab9",
+          "source_output_equal": true,
+          "bytes": 3203781
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3625e7efb0b957e114571448be458482aa24674ae96dd078d1c3fba977bcedd4",
+          "output_sha256": "3625e7efb0b957e114571448be458482aa24674ae96dd078d1c3fba977bcedd4",
+          "source_output_equal": true,
+          "bytes": 330895
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-15\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "302897eda778ca0c277dc334997427946e964606dfa1e92c79d7444de540745c",
+          "output_sha256": "302897eda778ca0c277dc334997427946e964606dfa1e92c79d7444de540745c",
+          "source_output_equal": true,
+          "bytes": 2540584
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-15\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "9594736d46f85b765704f3b31b4d1faf059392ebbeb4dbbe134f778325435e7e",
+          "output_sha256": "9594736d46f85b765704f3b31b4d1faf059392ebbeb4dbbe134f778325435e7e",
+          "source_output_equal": true,
+          "bytes": 3288970
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-15\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "114e3141e0d1d9ac94ba3862c7910114899403d13e95c8b1cb9d46d63ad953f5",
+          "output_sha256": "114e3141e0d1d9ac94ba3862c7910114899403d13e95c8b1cb9d46d63ad953f5",
+          "source_output_equal": true,
+          "bytes": 2276776
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-15\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "62708c2bb3877f58e2a624c8742d28f1a1ff6357e9199597b4a45ea23eed1f91",
+          "output_sha256": "62708c2bb3877f58e2a624c8742d28f1a1ff6357e9199597b4a45ea23eed1f91",
+          "source_output_equal": true,
+          "bytes": 6303
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-15\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\15-Akbar-Consolidation-and-Expansion-of-the-Empire\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "51f9bef96db1ef51fee2812809c7c88409983fd9617649db9035bbc546150cca",
+          "output_sha256": "51f9bef96db1ef51fee2812809c7c88409983fd9617649db9035bbc546150cca",
+          "source_output_equal": true,
+          "source_text_sha256": "62708c2bb3877f58e2a624c8742d28f1a1ff6357e9199597b4a45ea23eed1f91",
+          "normalized_text_equal": true,
+          "bytes": 58626
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 86,
+        "solved_practice_workbook": 21,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 86,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12454
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

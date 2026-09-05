@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-26",
+      "display_title": "From Ancient to Medieval: Social Change & Legacy",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "A multitrack transition, not one date",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 300-550 -> Gupta-Vakataka repertoires and widening land-grant practice",
+            "c. 550-750 -> post-Gupta polities, samantas and stronger regional houses",
+            "c. 750-1200 -> temple institutions, regional states and vernacular cultures",
+            "POLITICS -> AGRARIAN ORDER -> SOCIETY -> RELIGION -> LANGUAGE",
+            "Each track changes at a different speed and in a different region.",
+            "RULE: 1206 is not the single birth date of medieval India."
+          ],
+          "source_references": [
+            "Scope",
+            "Periodisation",
+            "Regional chronologies",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Continuity, change and regional variation",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CONTINUITY -> Sanskrit prestige, inherited law, pilgrimage and sacred centres",
+            "CHANGE -> distributed sovereignty, denser grants and temple-centred institutions",
+            "REGIONAL VARIATION -> Bengal != Rajasthan != Deccan != Tamil country",
+            "DECLINE -> selected older towns, coin streams and political centres contract",
+            "CREATION -> new capitals, markets, settlements and literary cultures emerge",
+            "VERDICT: transition means reorganisation, not uniform rupture or stasis."
+          ],
+          "source_references": [
+            "Periodisation",
+            "Regionalisation",
+            "Historical significance",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Imperial concentration to regional sovereignty",
+          "structural_type": "layered-sovereignty",
+          "ascii_lines": [
+            "LARGE IMPERIAL CORE WEAKENS",
+            "          |",
+            "regional dynasties + feudatories + marriage + warfare",
+            "          |",
+            "KING -> SAMANTA -> DISTRICT / LOCALITY -> VILLAGE",
+            "          |",
+            "tribute, military service, grants and negotiated obedience",
+            "TENSION: integration can enlarge both royal reach and local landed power."
+          ],
+          "source_references": [
+            "Political change",
+            "Samantas",
+            "Distributed sovereignty",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Land grant: charter to ground effects",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ROYAL OR LOCAL CLAIM OVER LAND",
+            "          |",
+            "brahmadeya / agrahara / devadana grant with boundaries and exemptions",
+            "          |",
+            "beneficiary rights + fiscal reassignment + local intermediaries",
+            "          |",
+            "settlement, cultivation, hierarchy and institutional endowment",
+            "LIMIT: charter rhetoric proves a claim; implementation needs other evidence."
+          ],
+          "source_references": [
+            "Land grants",
+            "Brahmadeya",
+            "Devadana",
+            "Charter evidence",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Agrarian frontier and social incorporation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FOREST / PASTORAL / CULTIVATED ZONES",
+            "          |",
+            "irrigation + plough expansion + grants + temples + new settlements",
+            "          |",
+            "chiefs, peasants, Brahmanas, artisans and labour groups negotiate place",
+            "          |",
+            "surplus extraction + ranked rights + new regional political society",
+            "CAUTION: incorporation could create mobility and deepen exclusion together."
+          ],
+          "source_references": [
+            "Agrarian expansion",
+            "Frontiers",
+            "Social incorporation",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Indian feudalism debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "R. S. SHARMA -> grants, intermediaries, landlordism and reduced mobility",
+            "D. D. KOSAMBI -> change from above and below; social-formation approach",
+            "HAR BANS MUKHIA -> warns against mechanical European manor-serf transfer",
+            "REGIONAL STUDIES -> chronology, ecology and exchange vary substantially",
+            "USEFUL CORE -> ask who controlled land, surplus, labour and armed force",
+            "VERDICT: use feudalism as a tested model, not a universal label."
+          ],
+          "source_references": [
+            "Feudalism debate",
+            "R. S. Sharma",
+            "Kosambi",
+            "Mukhia",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Trade, money and town transformation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONTRACTION CLAIM              TRANSFORMATION CLAIM",
+            "selected coin decline           monetisation varies by region",
+            "older urban centres weaken      new capitals and temple towns emerge",
+            "some long routes contract       coastal and regional exchange continues",
+            "merchant visibility changes     guilds and markets persist unevenly",
+            "SYNTHESIS -> old urban forms decline while new nodes and circuits grow."
+          ],
+          "source_references": [
+            "Economy",
+            "Monetisation",
+            "Urban-decline debate",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Varna text and jati process",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "VARNA -> normative fourfold vocabulary in prescriptive texts",
+            "JATI -> numerous lived, occupational and regional social groups",
+            "MOBILITY -> rulers and communities seek ranked identities and genealogies",
+            "EXCLUSION -> untouchability and unequal labour become more visible",
+            "EVIDENCE -> law text + inscription + donation + settlement + material record",
+            "TRAP: a normative text is not a demographic census."
+          ],
+          "source_references": [
+            "Varna",
+            "Jati",
+            "Mobility",
+            "Exclusion",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Brahmanisation, localisation, gender and frontier",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "BRAHMANICAL IDIOMS <-> local cults, chiefs and community practice",
+            "GENEALOGY + RITUAL + GRANT -> political legitimation",
+            "LOCAL DEITIES + CUSTOM -> reshape received Sanskritic forms",
+            "WOMEN -> queens and donors visible; ordinary labour remains under-recorded",
+            "FRONTIER GROUPS -> incorporation, resistance and layered identity",
+            "VERDICT: cultural change is multidirectional, unequal and locally remade."
+          ],
+          "source_references": [
+            "Brahmanisation",
+            "Localisation",
+            "Gender",
+            "Frontier societies",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Religion and temple as institution",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "TEMPLE",
+            "  |-- sacred centre: ritual, bhakti and pilgrimage",
+            "  |-- landholder: grants, fields and irrigation rights",
+            "  |-- employer: priests, artisans, dancers and service groups",
+            "  |-- redistributor: food, gifts, credit and festival expenditure",
+            "  `-- archive: inscriptions preserve donors, taxes and local decisions",
+            "PLURAL FIELD -> Puranic, Buddhist, Jaina, tantric and local traditions."
+          ],
+          "source_references": [
+            "Religion",
+            "Bhakti",
+            "Temple institutions",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Language, knowledge and regional cultures",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SANSKRIT COSMOPOLIS -> portable prestige, genealogy and political idiom",
+            "          |",
+            "Tamil, Kannada, Telugu, Bengali and other literary worlds deepen",
+            "          |",
+            "translation + commentary + inscription + devotional performance",
+            "          |",
+            "regional cultures become locally rooted yet interregionally connected",
+            "CONTINUITY: Sanskrit does not vanish. CHANGE: vernacular agency expands."
+          ],
+          "source_references": [
+            "Language",
+            "Vernacularisation",
+            "Knowledge traditions",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence-led synthesis answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> define early medieval as an uneven transition",
+            "POLITY -> regional states + samantas + negotiated sovereignty",
+            "ECONOMY -> grants + agrarian expansion + transformed exchange and towns",
+            "SOCIETY -> jati, mobility, exclusion, gender and frontier incorporation",
+            "CULTURE -> temple institutions + bhakti + vernacularisation",
+            "DEBATE -> test feudalism against regional evidence",
+            "CLOSE -> ancient legacies survive through transformation and reinvention."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Legacy",
+            "Answer architecture",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\26_From-Ancient-to-Medieval-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-26\\g4\\ancient-indian-history-26_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

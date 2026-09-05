@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Indian Society learner-v2 Topic 08",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-08",
+      "display_title": "Social Empowerment",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\08_Social-Empowerment_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two measurement questions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WELFARE VIEW -> what income, goods or benefits were received",
+            "AGENCY VIEW -> what the person can actually do, choose and be",
+            "SEN -> real freedoms to achieve valued functionings",
+            "RULE -> receipt is an input and never by itself an outcome"
+          ],
+          "source_references": [
+            "What social empowerment means",
+            "Real freedoms and valued functionings",
+            "Welfare receipt against agency"
+          ]
+        },
+        {
+          "title": "Three-stage chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ENTITLEMENT -> reserved seat, targeted scheme, statutory right",
+            "CONVERSION FACTOR -> schooling, information, mobility, health, stigma",
+            "OUTCOME -> mobility, income, recognised voice",
+            "DIAGNOSIS -> name the stage before naming the remedy"
+          ],
+          "source_references": [
+            "From entitlement to outcome in three stages",
+            "Which conversion factors decide use"
+          ]
+        },
+        {
+          "title": "Conversion-factor checklist",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PRIOR SCHOOLING -> is the entitlement usable at the required standard",
+            "INFORMATION -> does the household know the entitlement exists",
+            "REACH -> can it be accessed without prohibitive travel or cost",
+            "STIGMA -> does social cost deter uptake even when access exists"
+          ],
+          "source_references": [
+            "Which conversion factors decide use"
+          ]
+        },
+        {
+          "title": "Mobility types",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "OPEN SYSTEM -> position follows achievement",
+            "CLOSED SYSTEM -> position follows birth-ascribed status",
+            "FORMAL MOBILITY -> documented income, education or occupation change",
+            "SUBSTANTIVE MOBILITY -> that change plus recognition and freedom from stigma"
+          ],
+          "source_references": [
+            "Achievement against ascription in stratification",
+            "When a documented gain becomes recognition"
+          ]
+        },
+        {
+          "title": "Phule's three axes",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CASTE -> critique of Brahminical ritual dominance",
+            "GENDER -> girls' education with Savitribai Phule",
+            "PEASANT CLASS -> critique of exploitative agrarian relations",
+            "ORGANISATION -> Satyashodhak Samaj as the reform vehicle"
+          ],
+          "source_references": [
+            "Phule's cross-cutting diagnosis"
+          ]
+        },
+        {
+          "title": "Graded inequality",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CLAIM -> caste is not benign division of labour",
+            "STRUCTURE -> each caste looks down and simultaneously aspires upward",
+            "SANCTION -> religious sanction on endogamy reproduces the grade",
+            "CONSEQUENCE -> the system supplies defenders at every level"
+          ],
+          "source_references": [
+            "Ambedkar's graded inequality"
+          ]
+        },
+        {
+          "title": "Reform against annihilation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PIECEMEAL REFORM -> one group improves its own relative position",
+            "LIMIT -> the graded structure survives the improvement",
+            "ANNIHILATION -> dismantle caste as an institution, not adjust it",
+            "BOUNDARY -> constitutional doctrine routed to Polity and Social Justice"
+          ],
+          "source_references": [
+            "The structural conclusion Ambedkar drew",
+            "Reading Phule and Ambedkar together"
+          ]
+        },
+        {
+          "title": "Two diagnoses compared",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "PHULE -> breadth: caste, gender and peasant class as one structure",
+            "AMBEDKAR -> depth: why the structure reproduces itself",
+            "SEN -> site: where an intervention must act to change a life",
+            "USE -> three distinct tools, never one merged reform narrative"
+          ],
+          "source_references": [
+            "Reading Phule and Ambedkar together"
+          ]
+        },
+        {
+          "title": "Locating the gap",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ENTITLEMENT EXISTS -> comprehensive equity and social-justice policy",
+            "CONVERSION FAILS -> schooling, information, distance, stigma",
+            "OUTCOME SHORTFALL -> benefit not fully realised by the target group",
+            "REMEDY -> capability building, not entitlement expansion alone"
+          ],
+          "source_references": [
+            "Locating the affirmative-action shortfall",
+            "Interventions that act at the conversion stage"
+          ]
+        },
+        {
+          "title": "Estimate card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> NITI Aayog discussion paper of 2024",
+            "TITLE -> Multidimensional Poverty in India since 2005-06",
+            "ESTIMATE -> 11.28 per cent multidimensional poverty in 2022-23",
+            "EXITS -> about 24.8 crore persons between 2013-14 and 2022-23"
+          ],
+          "source_references": [
+            "Reading the multidimensional estimate honestly"
+          ]
+        },
+        {
+          "title": "Three boundary cases",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ENTITLEMENT WITHOUT CAPABILITY -> admitted seat, weak prior schooling",
+            "CAPABILITY BUILT -> bridge course and mentoring before and during study",
+            "FORMAL WITHOUT SUBSTANTIVE -> higher income, continuing social exclusion",
+            "READING -> each case fixes one link in the conversion chain"
+          ],
+          "source_references": [
+            "Boundary cases, ownership and the answer spine"
+          ]
+        },
+        {
+          "title": "Empowerment answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define empowerment as capability and agency, not receipt",
+            "BODY -> entitlement, conversion factor and outcome named in order",
+            "TEST -> boundary cases that break an entitlement-only claim",
+            "CLOSE -> capability-building verdict with a dated estimate caveat"
+          ],
+          "source_references": [
+            "Boundary cases, ownership and the answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

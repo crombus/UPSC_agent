@@ -1,0 +1,1088 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-34",
+  "subject": "Modern-Indian-History",
+  "title": "FROM SHASTRI TO INDIRA GANDHI, 1964–73",
+  "short_route": "TWO SUCCESSIONS IN TWENTY → THE MID-1960S ECONOMIC CRISIS → 1967: THE END OF → 1969: THE CONGRESS SPLIT → COURTS VS THE EXECUTIVE → 1971: PRIVY PURSES AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-34-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "dca772342948219b3a668dd59d0d1852f923f2154aa126353bbda7e913c7393d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO SUCCESSIONS IN TWENTY MONTHS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWO SUCCESSIONS IN TWENTY MONTHS",
+          "role": "primary"
+        },
+        {
+          "text": "SHASTRI PM",
+          "role": "outcome"
+        },
+        {
+          "text": "JUNE 1964, AFTER NEHRU'S DEATH",
+          "role": "comparison"
+        },
+        {
+          "text": "1965 WAR",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-PAKISTAN; ENDS AT TASHKENT DECLARATION, JAN 1966",
+          "role": "primary"
+        },
+        {
+          "text": "SHASTRI DIES",
+          "role": "outcome"
+        },
+        {
+          "text": "TASHKENT, 10 JANUARY 1966, HOURS AFTER SIGNING",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIRA ELECTED PM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHASTRI PM → JUNE 1964, after Nehru's death",
+        "1965 WAR → India-Pakistan; ends at TASHKENT DECLARATION, Jan 1966",
+        "SHASTRI DIES → Tashkent, 10 JANUARY 1966, hours after signing",
+        "INDIRA ELECTED PM → JANUARY 1966, defeats Morarji Desai 355-169 (Syndicate-backed)",
+        "MUST REMEMBER: Shastri became Prime Minister on 9 June 1964; the 1965 war led to"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SHASTRI PM → JUNE 1964, after Nehru's death",
+            "1965 WAR → India-Pakistan; ends at TASHKENT DECLARATION, Jan 1966",
+            "SHASTRI DIES → Tashkent, 10 JANUARY 1966, hours after signing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIRA ELECTED PM → JANUARY 1966, defeats Morarji Desai 355-169 (Syndicate-backed)",
+            "MUST REMEMBER: Shastri became Prime Minister on 9 June 1964; the 1965 war led to the Tashkent",
+            "Declaration on 10 January 1966 and his death on 11 January; Indira Gandhi took office on 24"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "January, devaluation followed on 6 June, the 1967 election weakened Congress, the party",
+            "split and fourteen banks were nationalised in 1969, privy purses ended constitutionally in",
+            "1971, and the Bangladesh war and Simla Agreement followed in 1971-72."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1971, and the Bangladesh war and Simla Agreement followed in 1971-72.",
+      "source_references": [
+        "Shastri's accession and the 1965 war, June 1964 to January 1966",
+        "Indira Gandhi's election as Prime Minister, January 1966",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE MID-1960S ECONOMIC CRISIS AND THE 1966 DEVALUATION",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE MID-1960S ECONOMIC CRISIS AND THE 1966 DEVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "1965 WAR EXPENDITURE + HARVEST FAILURES + FOOD-AID DEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL STRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "RUPEE DEVALUED",
+          "role": "evidence"
+        },
+        {
+          "text": "JUNE 1966, BY ABOUT 35.5 PER CENT",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL COST",
+          "role": "outcome"
+        },
+        {
+          "text": "BLAMED ON INDIRA GANDHI WITHIN MONTHS OF TAKING OFFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "DURABLE AVERSION TO EXTERNALLY PRESSED ADJUSTMENT, UNTIL 1991",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1965 WAR EXPENDITURE + HARVEST FAILURES + FOOD-AID DEPENDENCE → fiscal strain",
+        "RUPEE DEVALUED → JUNE 1966, by about 35.5 per cent",
+        "POLITICAL COST → blamed on Indira Gandhi within months of taking office",
+        "LEGACY → durable aversion to externally pressed adjustment, until 1991"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1965 WAR EXPENDITURE + HARVEST FAILURES + FOOD-AID DEPENDENCE → fiscal strain",
+            "RUPEE DEVALUED → JUNE 1966, by about 35.5 per cent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICAL COST → blamed on Indira Gandhi within months of taking office",
+            "LEGACY → durable aversion to externally pressed adjustment, until 1991"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1965 WAR EXPENDITURE + HARVEST FAILURES + FOOD-AID DEPENDENCE → fiscal strain",
+            "RUPEE DEVALUED → JUNE 1966, by about 35.5 per cent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGACY → durable aversion to externally pressed adjustment, until 1991.",
+      "source_references": [
+        "The rupee devaluation of June 1966 and its causes",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "1967: THE END OF EASY DOMINANCE",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE END OF EASY DOMINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "FOURTH GENERAL ELECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJORITY SLASHED NATIONALLY; LOSES POWER IN EIGHT STATES",
+          "role": "mechanism"
+        },
+        {
+          "text": "NEW PATTERN",
+          "role": "evidence"
+        },
+        {
+          "text": "SAMYUKTA VIDHAYAK DAL (SVD) COALITION GOVERNMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "MASS DEFECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "\"AYA RAM GAYA RAM\"; ABOUT 800 LEGISLATORS SWITCH, 1967-70",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FOURTH GENERAL ELECTION → 1967",
+        "CONGRESS → majority SLASHED nationally; loses power in EIGHT STATES",
+        "NEW PATTERN → Samyukta Vidhayak Dal (SVD) coalition governments",
+        "MASS DEFECTION → \"Aya Ram Gaya Ram\"; about 800 legislators switch, 1967-70"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOURTH GENERAL ELECTION → 1967",
+          "NEW PATTERN → Samyukta Vidhayak Dal (SVD) coalition governments",
+          "FOURTH GENERAL ELECTION → 1967"
+        ],
+        [
+          "CONGRESS → majority SLASHED nationally; loses power in EIGHT STATES",
+          "MASS DEFECTION → \"Aya Ram Gaya Ram\"; about 800 legislators switch, 1967-70",
+          "CONGRESS → majority SLASHED nationally; loses power in EIGHT STATES"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOURTH GENERAL ELECTION → 1967",
+            "CONGRESS → majority SLASHED nationally; loses power in EIGHT STATES"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEW PATTERN → Samyukta Vidhayak Dal (SVD) coalition governments",
+            "MASS DEFECTION → \"Aya Ram Gaya Ram\"; about 800 legislators switch, 1967-70"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOURTH GENERAL ELECTION → 1967",
+            "CONGRESS → majority SLASHED nationally; loses power in EIGHT STATES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MASS DEFECTION → \"Aya Ram Gaya Ram\"; about 800 legislators switch, 1967-70.",
+      "source_references": [
+        "The 1967 general election: the end of easy dominance",
+        "Coalition governments and defection politics after 1967",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "1969: THE CONGRESS SPLIT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE CONGRESS SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "V.V. GIRI PRESIDENTIAL CONTEST + BANK NATIONALISATION (14 BANKS)",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS (R), INDIRA GANDHI VS CONGRESS (O), THE SYNDICATE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOST CONGRESS MPS AND THE AICC SIDE WITH INDIRA",
+          "role": "evidence"
+        },
+        {
+          "text": "NUMBERS HELD FOR CONGRESS (R); PARTY ORGANISATION DID NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRIGGER → V.V. Giri presidential contest + bank nationalisation (14 banks)",
+        "SPLIT → Congress (R), Indira Gandhi vs Congress (O), the Syndicate",
+        "OUTCOME → most Congress MPs and the AICC side with Indira Gandhi",
+        "RESULT → numbers held for Congress (R); party organisation did not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRIGGER → V.V. Giri presidential contest + bank nationalisation (14 banks)",
+            "SPLIT → Congress (R), Indira Gandhi vs Congress (O), the Syndicate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME → most Congress MPs and the AICC side with Indira Gandhi",
+            "RESULT → numbers held for Congress (R); party organisation did not"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRIGGER → V.V. Giri presidential contest + bank nationalisation (14 banks)",
+            "SPLIT → Congress (R), Indira Gandhi vs Congress (O), the Syndicate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → numbers held for Congress (R); party organisation did not.",
+      "source_references": [
+        "The 1969 Congress split: Giri, bank nationalisation and the Syndicate's defeat",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COURTS VS THE EXECUTIVE, 1970",
+      "structural_type": "evidence-debate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COURTS VS THE EXECUTIVE, 1970",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPREME COURT, 1970",
+          "role": "institution"
+        },
+        {
+          "text": "STRIKES DOWN FIRST BANK-NATIONALISATION ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "STRIKES DOWN PRIVY-PURSE DERECOGNITION ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNMENT RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "RE-ENACTS BANK NATIONALISATION VIA FRESH LEGISLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOLISHES PRIVY PURSES VIA 26TH AMENDMENT, 1971",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SUPREME COURT, 1970 → strikes down FIRST bank-nationalisation order",
+        "SUPREME COURT, 1970 → strikes down privy-purse DERECOGNITION order",
+        "GOVERNMENT RESPONSE → re-enacts bank nationalisation via fresh legislation",
+        "GOVERNMENT RESPONSE → abolishes privy purses via 26th Amendment, 1971"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUPREME COURT, 1970 → strikes down FIRST bank-nationalisation order",
+            "SUPREME COURT, 1970 → strikes down privy-purse DERECOGNITION order"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOVERNMENT RESPONSE → re-enacts bank nationalisation via fresh legislation",
+            "GOVERNMENT RESPONSE → abolishes privy purses via 26th Amendment, 1971"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUPREME COURT, 1970 → strikes down FIRST bank-nationalisation order",
+            "SUPREME COURT, 1970 → strikes down privy-purse DERECOGNITION order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GOVERNMENT RESPONSE → abolishes privy purses via 26th Amendment, 1971.",
+      "source_references": [
+        "The Supreme Court's 1970 rulings against the executive",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "1971: PRIVY PURSES AND GARIBI HATAO",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PRIVY PURSES AND GARIBI HATAO",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVY PURSES ABOLISHED",
+          "role": "outcome"
+        },
+        {
+          "text": "1971, 26TH CONSTITUTIONAL AMENDMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "1971 GENERAL ELECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONGRESS (R) WINS 352 OF 518 SEATS",
+          "role": "primary"
+        },
+        {
+          "text": "\"GARIBI HATAO\"",
+          "role": "outcome"
+        },
+        {
+          "text": "READ IT CORRECTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "A NATIONAL PLEBISCITE, DELINKED FROM STATE-LEVEL CONGRESS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PRIVY PURSES ABOLISHED → 1971, 26th Constitutional Amendment",
+        "1971 GENERAL ELECTION → Congress (R) wins 352 of 518 seats",
+        "SLOGAN → \"Garibi Hatao\"",
+        "READ IT CORRECTLY → a NATIONAL plebiscite, delinked from state-level Congress"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRIVY PURSES ABOLISHED → 1971, 26th Constitutional Amendment",
+            "1971 GENERAL ELECTION → Congress (R) wins 352 of 518 seats"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SLOGAN → \"Garibi Hatao\"",
+            "READ IT CORRECTLY → a NATIONAL plebiscite, delinked from state-level Congress"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIVY PURSES ABOLISHED → 1971, 26th Constitutional Amendment",
+            "1971 GENERAL ELECTION → Congress (R) wins 352 of 518 seats"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READ IT CORRECTLY → a NATIONAL plebiscite, delinked from state-level Congress.",
+      "source_references": [
+        "1971: privy purses abolished and the Garibi Hatao landslide",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE 1971 BANGLADESH WAR",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE 1971 BANGLADESH WAR",
+          "role": "primary"
+        },
+        {
+          "text": "CRISIS IN EAST PAKISTAN; REFUGEE INFLUX INTO INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "DECISIVE INDIAN MILITARY VICTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "CREATION OF BANGLADESH",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIRA GANDHI'S DOMESTIC AUTHORITY BECOMES UNASSAILABLE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ORIGIN → crisis in East Pakistan; refugee influx into India",
+        "OUTCOME → decisive Indian military victory",
+        "RESULT → creation of Bangladesh",
+        "EFFECT → Indira Gandhi's domestic authority becomes unassailable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORIGIN → crisis in East Pakistan; refugee influx into India",
+            "OUTCOME → decisive Indian military victory"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → creation of Bangladesh",
+            "EFFECT → Indira Gandhi's domestic authority becomes unassailable"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORIGIN → crisis in East Pakistan; refugee influx into India",
+            "OUTCOME → decisive Indian military victory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → Indira Gandhi's domestic authority becomes unassailable.",
+      "source_references": [
+        "The 1971 Bangladesh war and its strategic significance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "1965 VS 1971 COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "1965 VS 1971 COMPARED",
+          "role": "comparison"
+        },
+        {
+          "text": "1965 WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "PAKISTANI INFILTRATION INTO KASHMIR",
+          "role": "comparison"
+        },
+        {
+          "text": "MILITARILY INCONCLUSIVE; ENDS AT TASHKENT DECLARATION",
+          "role": "evidence"
+        },
+        {
+          "text": "1971 WAR",
+          "role": "primary"
+        },
+        {
+          "text": "EAST PAKISTAN REFUGEE CRISIS",
+          "role": "outcome"
+        },
+        {
+          "text": "DECISIVE VICTORY; CREATES BANGLADESH",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1965 WAR → origin: Pakistani infiltration into Kashmir",
+        "1965 WAR → outcome: militarily inconclusive; ends at Tashkent Declaration",
+        "1971 WAR → origin: East Pakistan refugee crisis",
+        "1971 WAR → outcome: decisive victory; creates Bangladesh"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1965 WAR → origin: Pakistani infiltration into Kashmir",
+          "1971 WAR → origin: East Pakistan refugee crisis",
+          "1965 WAR → origin: Pakistani infiltration into Kashmir"
+        ],
+        [
+          "1965 WAR → outcome: militarily inconclusive; ends at Tashkent Declaration",
+          "1971 WAR → outcome: decisive victory; creates Bangladesh",
+          "1965 WAR → outcome: militarily inconclusive; ends at Tashkent Declaration"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1965 WAR → origin: Pakistani infiltration into Kashmir",
+            "1965 WAR → outcome: militarily inconclusive; ends at Tashkent Declaration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1971 WAR → origin: East Pakistan refugee crisis",
+            "1971 WAR → outcome: decisive victory; creates Bangladesh"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1965 WAR → origin: Pakistani infiltration into Kashmir",
+            "1965 WAR → outcome: militarily inconclusive; ends at Tashkent Declaration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1971 WAR → outcome: decisive victory; creates Bangladesh.",
+      "source_references": [
+        "Comparing 1965 and 1971: two wars, two outcomes",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "POKHRAN-I, MAY 1974",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POKHRAN-I, MAY 1974",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL LABEL",
+          "role": "outcome"
+        },
+        {
+          "text": "\"PEACEFUL NUCLEAR EXPLOSION\", NOT A DECLARED WEAPONS TEST",
+          "role": "caution"
+        },
+        {
+          "text": "FIRST INDIAN NUCLEAR TEST; INSIDE THE GARIBI-HATAO-TO-EMERGENCY ARC",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT DATE THIS TEST TO THE 1960S",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TEST → Pokhran-I, MAY 1974",
+        "OFFICIAL LABEL → \"peaceful nuclear explosion\", not a declared weapons test",
+        "SIGNIFICANCE → first Indian nuclear test; inside the Garibi-Hatao-to-Emergency arc",
+        "TRAP → do not date this test to the 1960s"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TEST → Pokhran-I, MAY 1974",
+            "OFFICIAL LABEL → \"peaceful nuclear explosion\", not a declared weapons test"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIGNIFICANCE → first Indian nuclear test; inside the Garibi-Hatao-to-Emergency arc",
+            "TRAP → do not date this test to the 1960s"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → Pokhran-I, MAY 1974",
+            "OFFICIAL LABEL → \"peaceful nuclear explosion\", not a declared weapons test"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not date this test to the 1960s.",
+      "source_references": [
+        "Pokhran-I, May 1974: India's first nuclear test",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DE-INSTITUTIONALISATION: THE HIDDEN COST",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE HIDDEN COST",
+          "role": "primary"
+        },
+        {
+          "text": "POPULIST MOBILISATION + PERSONALISED LEADERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFECT ON PARTY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS ORGANISATION SPLIT AND WEAKENED AFTER 1969",
+          "role": "evidence"
+        },
+        {
+          "text": "EFFECT ON CHECKS",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNAL FACTIONAL-CONFLICT CHECKS ERODED",
+          "role": "outcome"
+        },
+        {
+          "text": "LONGER EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURAL BACKGROUND TO THE 1973-75 CRISIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TECHNIQUE → populist mobilisation + personalised leadership",
+        "EFFECT ON PARTY → Congress organisation split and weakened after 1969",
+        "EFFECT ON CHECKS → internal factional-conflict checks eroded",
+        "LONGER EFFECT → structural background to the 1973-75 crisis",
+        "CLOSE DISTINCTION: Bank nationalisation in 1969 and the 26th Amendment ending privy purses in"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TECHNIQUE → populist mobilisation + personalised leadership",
+            "EFFECT ON PARTY → Congress organisation split and weakened after 1969",
+            "EFFECT ON CHECKS → internal factional-conflict checks eroded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LONGER EFFECT → structural background to the 1973-75 crisis",
+            "CLOSE DISTINCTION: Bank nationalisation in 1969 and the 26th Amendment ending privy purses in",
+            "1971 are separate measures; the 1967 result was a major setback, not a comfortable mandate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "and Pokhran-I on 18 May 1974 is immediate aftermath/enrichment beyond the topic's stated",
+            "1964-73 boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1971 are separate measures; the 1967 result was a major setback, not a comfortable mandate;.",
+      "source_references": [
+        "De-institutionalisation: the hidden cost of consolidation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THE COAL-SECTOR NATIONALISATION GAP, 2019: A BOUNDED CAUTION",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE COAL-SECTOR NATIONALISATION GAP, 2019",
+          "role": "primary"
+        },
+        {
+          "text": "A BOUNDED CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "ROUTED DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "2019 PRELIMS GS-I Q48, COAL-SECTOR NATIONALISATION STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "NONE IN ANY MODERN-HISTORY SOURCE BOOK IN THIS REPOSITORY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO YEAR, STATUTE OR SEQUENCE FOR COAL NATIONALISATION STATED",
+          "role": "caution"
+        },
+        {
+          "text": "ROUTE ANY FULL ANSWER TO THE ECONOMY OR GEOGRAPHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROUTED DEMAND → 2019 Prelims GS-I Q48, coal-sector nationalisation status",
+        "LOCAL SUPPORT → NONE in any modern-history source book in this repository",
+        "RULE → no year, statute or sequence for coal nationalisation stated from memory",
+        "ACTION → route any full answer to the Economy or Geography owner instead",
+        "EVIDENCE LIMIT: Election data, the Tashkent and Simla texts, constitutional amendment history, bank-nationalisation instruments and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ROUTED DEMAND → 2019 Prelims GS-I Q48, coal-sector nationalisation status",
+            "LOCAL SUPPORT → NONE in any modern-history source book in this repository"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE → no year, statute or sequence for coal nationalisation stated from memory",
+            "ACTION → route any full answer to the Economy or Geography owner instead"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Election data, the Tashkent and Simla texts, constitutional amendment history, bank-nationalisation instruments and",
+            "war/diplomatic records must qualify personality-centred inevitability and distinguish policy announcement, judicial challenge and legal completion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → no year, statute or sequence for coal nationalisation stated from memory.",
+      "source_references": [
+        "The coal-sector nationalisation gap: a bounded caution",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "RESILIENCE AND COST: TWO VERDICTS ON 1964-73",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "RESILIENCE AND COST",
+          "role": "primary"
+        },
+        {
+          "text": "TWO VERDICTS ON 1964-73",
+          "role": "outcome"
+        },
+        {
+          "text": "VERDICT ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "TWO SUCCESSIONS ABSORBED PEACEFULLY; 1971 WAR WON",
+          "role": "evidence"
+        },
+        {
+          "text": "VERDICT TWO",
+          "role": "primary"
+        },
+        {
+          "text": "PARTY DE-INSTITUTIONALISED; INTERNAL DEMOCRACY ERODED",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANDRA'S READING",
+          "role": "comparison"
+        },
+        {
+          "text": "THE LEFTWARD TURN WAS GENUINE, IF ORGANISATIONALLY COSTLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERDICT ONE → resilience: two successions absorbed peacefully; 1971 war won",
+        "VERDICT TWO → cost: party de-institutionalised; internal democracy eroded",
+        "CHANDRA'S READING → the leftward turn was genuine, if organisationally costly",
+        "SYNTHESIS → both readings are compatible, not competing, accounts of the decade"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VERDICT ONE → resilience: two successions absorbed peacefully; 1971 war won",
+            "VERDICT TWO → cost: party de-institutionalised; internal democracy eroded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHANDRA'S READING → the leftward turn was genuine, if organisationally costly",
+            "SYNTHESIS → both readings are compatible, not competing, accounts of the decade"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT ONE → resilience: two successions absorbed peacefully; 1971 war won",
+            "VERDICT TWO → cost: party de-institutionalised; internal democracy eroded"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS → both readings are compatible, not competing, accounts of the decade.",
+      "source_references": [
+        "Resilience and cost: two verdicts on 1964-73",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\34_From-Shastri-to-Indira-1964-73.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNDER SHASTRI THE PRIME MINISTER'S SECRETARIAT (PMO) GAINED WEIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 1967 ELECTIONS SHATTERED ONE-PARTY DOMINANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITED ANTI-CONGRESSISM, COALITION (SVD) GOVERNMENTS AND",
+          "role": "evidence"
+        },
+        {
+          "text": "MASS DEFECTIONS (NEARLY 800 LEGISLATORS CROSSED FLOORS, 1967–70) DESTABILISED",
+          "role": "primary"
+        },
+        {
+          "text": "INDIRA'S RESPONSE WAS TO GO OVER THE PARTY BOSSES'",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTORATE — CONVERTING CONGRESS FROM A FEDERATED MACHINE INTO",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 1969 SPLIT (CONGRESS-R VS CONGRESS-O) INSTITUTIONALISED A LEFT-OF-CENTRE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Under Shastri the Prime Minister's Secretariat (PMO) gained weight — an early sign of executive centralisation that would deepen under Indira.",
+            "The 1967 elections shattered one-party dominance: united anti-Congressism, coalition (SVD) governments and",
+            "mass defections (nearly 800 legislators crossed floors, 1967–70) destabilised the states.",
+            "CAUTION: Indira's response was to go over the party bosses' heads to the"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "electorate — converting Congress from a federated machine into a leader-centred, plebiscitary party.",
+            "The 1969 split (Congress-R vs Congress-O) institutionalised a left-of-centre vs right-of-centre",
+            "cleavage, with most MPs and the AICC siding with Indira.",
+            "Bank nationalisation (1969) and the abolition of privy purses (1971) were populist-radical measures that isolated the Syndicate and rallied the poor."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The 1971 \"Garibi Hatao\" landslide (Congress-R, 352/518) rested on a direct appeal to",
+            "a coalition of the poor and disadvantaged, delinking national from state voting.",
+            "The Bangladesh war (1971) victory made Indira dominant, and Pokhran-I (1974) projected strategic strength.",
+            "CAUTION: But personalisation weakened the party organisation and institutional checks —"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

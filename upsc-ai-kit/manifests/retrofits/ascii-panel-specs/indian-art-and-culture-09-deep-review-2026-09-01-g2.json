@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-09",
+      "display_title": "Indian Dance",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Composite performance root",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "TEXT -> narrative and dialogue",
+            "ENACTMENT -> body, face and gesture",
+            "MUSIC -> melody and rhythm",
+            "RASA -> aesthetic reception",
+            "MUST REMEMBER: Dance requires the Natyashastra composite of text, enactment, music and rasa,",
+            "  then exact separation of nritta, nritya and natya, hasta and karana, classical-form lists,",
+            "  regional forms and institutional recognition."
+          ],
+          "source_references": [
+            "Natya Veda as composite art",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Movement vocabulary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LASYA -> graceful and expressive quality",
+            "TANDAVA -> vigorous rhythmic quality",
+            "NRITTA -> pure movement",
+            "NRITYA / NATYA -> expression and drama"
+          ],
+          "source_references": [
+            "Lasya and Tandava",
+            "Nritta, Nritya and Natya",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Gesture firewall",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HASTA / MUDRA -> hand gesture",
+            "KARANA -> whole-body movement unit",
+            "108 -> attached to karanas",
+            "TRAP -> do not convert the number to mudras"
+          ],
+          "source_references": [
+            "Rasa, hasta and karana",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Recognition map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SNA -> eight classical forms",
+            "MINISTRY LIST -> separately includes Chhau",
+            "UNESCO ICH -> safeguarding inscription",
+            "RULE -> three non-interchangeable records"
+          ],
+          "source_references": [
+            "Who recognises a classical form",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bharatanatyam change",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SADIR / HEREDITARY PRACTICE -> repertory base",
+            "ANTI-NAUTCH -> disruption",
+            "IYER + RUKMINI DEVI -> reconfiguration",
+            "MODERN STAGE -> wider canon and new authority"
+          ],
+          "source_references": [
+            "Bharatanatyam's social history",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Recital sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ALARIPPU -> opening",
+            "JATISWARAM / SHABDAM -> movement and expression",
+            "VARNAM / PADAM / JAWALI -> developed core",
+            "THILLANA -> rhythmic close"
+          ],
+          "source_references": [
+            "Bharatanatyam recital grammar",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Andhra discriminator",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KUCHIPUDI -> itinerant dance-drama origin",
+            "KUCHELAPURAM -> place-name anchor",
+            "SIDDHENDRA -> association",
+            "BHARATANATYAM -> different solo history"
+          ],
+          "source_references": [
+            "Kuchipudi as dance drama",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Kerala pair",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KATHAKALI -> Attakkatha, make-up, troupe and percussion",
+            "MOHINIYATTAM -> solo lasya and Kasavu",
+            "COMMON -> Kerala performance ecology",
+            "DISTINCTION -> drama versus lyrical solo"
+          ],
+          "source_references": [
+            "Kathakali and Mohiniyattam",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Eastern three-form key",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ODISSI -> tribhanga, chowk, mahari and gotipua",
+            "MANIPURI -> pung, raslila and restrained face",
+            "SATTRIYA -> sattra, ankiya nat and mati-akhora",
+            "TRAP -> devotion alone cannot identify"
+          ],
+          "source_references": [
+            "Odissi's sculptural dialogue",
+            "Manipuri and Sattriya",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Dance-sculpture bridge",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "POSE -> movement idiom made visible",
+            "MUDRA -> shared gestural vocabulary",
+            "TEMPLE SITE -> patron-selected sacred context",
+            "LIMIT -> no complete modern choreography proved",
+            "CLOSE DISTINCTION: Lasya and Tandava are movement qualities rather than gender-exclusive",
+            "  rules; 108 refers to karanas, and the Sangeet Natak Akademi eight-form list must not be",
+            "  merged with a Ministry list including Chhau or UNESCO status."
+          ],
+          "source_references": [
+            "Dance figures as evidence",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Garba official card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "OCCASION -> Navaratri",
+            "CENTRE -> lit earthen pot or image of Amba",
+            "MOVEMENT -> communal circular dance",
+            "STATUS -> UNESCO ICH 2023, not SNA classical",
+            "EVIDENCE LIMIT: Treatise dates and gesture counts are layered or text-dependent;",
+            "  sculpture-dance links support comparison but do not prove that a surviving pose had one",
+            "  unchanged meaning across periods."
+          ],
+          "source_references": [
+            "Garba and recognition boundaries",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Dance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> component, form or recognition track",
+            "IDENTIFY -> region and unique discriminator",
+            "ANALYSE -> patronage, revival and community",
+            "QUALIFY -> continuity, sculpture and status"
+          ],
+          "source_references": [
+            "Garba and recognition boundaries",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\09_Indian-Dance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-09\\g2\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

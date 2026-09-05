@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "benchmark": "Religious-Pluralism reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-09 immutable generation g13",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "title": "Religious Pluralism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Four axes of diversity",
+          "structural_type": "pluralism coordinate map",
+          "source_session_heading_references": [
+            "A. Four axes"
+          ],
+          "lines": [
+            "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES",
+            " truth: contradictory doctrinal claims",
+            " salvation: who can attain liberation/salvation?",
+            " epistemic status: are others reasonable/justified?",
+            " civic status: what freedom and equality are owed?",
+            "                         |",
+            " PLURALISM can answer one axis without answering all",
+            " tolerance is a political/moral practice; it is not yet a metaphysical claim",
+            " that all religions are equally true."
+          ]
+        },
+        {
+          "panel_title": "2. Exclusivism-inclusivism-pluralism",
+          "structural_type": "E-I-P branching tree",
+          "source_session_heading_references": [
+            "B. E-I-P map"
+          ],
+          "lines": [
+            "EXCLUSIVISM: one tradition has uniquely decisive truth and/or salvation",
+            " INCLUSIVISM: one norm is final, but grace/truth operates beyond explicit membership",
+            " PLURALISM: multiple traditions are valid responses/routes to ultimate reality",
+            "                         |",
+            " strengths: exclusivism preserves determinate truth; inclusivism widens salvation;",
+            " pluralism explains diversity and supports humility",
+            " costs: exclusion | patronising absorption | flattening real contradictions",
+            " each model must state truth criterion, salvation criterion and view of disagreement."
+          ]
+        },
+        {
+          "panel_title": "3. John Hick",
+          "structural_type": "Real-to-traditions map",
+          "source_session_heading_references": [
+            "C. Hick"
+          ],
+          "lines": [
+            "THE REAL AN SICH (noumenal, beyond full conceptual capture)",
+            "                         |",
+            " culturally shaped human responses",
+            " +-> personal representations: God, Allah, Īśvara",
+            " +-> non-personal representations: Brahman, nirvāṇa, emptiness",
+            "                         |",
+            " religions assessed by transformation from self-centredness to Reality-centredness",
+            " KANTIAN distinction explains diversity without declaring all propositions identical",
+            " objections: unknowable Real | privileged meta-theory | vague transformation",
+            " identity/mission cost: traditions are redescribed against self-understanding."
+          ]
+        },
+        {
+          "panel_title": "4. Vedāntic models",
+          "structural_type": "Indian unity-difference comparison",
+          "source_session_heading_references": [
+            "D. Vedāntic pluralism",
+            "E. Absolute truth"
+          ],
+          "lines": [
+            "ADVAITA: one Brahman; differences belong to empirical standpoint;",
+            " many paths may prepare for non-dual knowledge",
+            " RĀMĀNUJA: real plurality within Brahman's unity; devotion to personal God remains final",
+            " RĀMAKṚṢṆA/VIVEKĀNANDA: diverse religious paths can realise one ultimate",
+            "                         |",
+            " ABSOLUTE-TRUTH PROBLEM",
+            " if all views are partial, is “all are partial” itself absolute?",
+            " reply requires standpoint discipline, not effortless equivalence of incompatible claims."
+          ]
+        },
+        {
+          "panel_title": "5. Jain many-sidedness",
+          "structural_type": "anekānta dialogue map",
+          "source_session_heading_references": [
+            "F. Jain many-sidedness"
+          ],
+          "lines": [
+            "ANEKĀNTAVĀDA: reality has many aspects",
+            " NAYAVĀDA: each finite statement arises from a standpoint",
+            " SYĀDVĀDA: predicate conditionally — in a certain respect",
+            "                         |",
+            " pluralist use: rival religions may disclose different aspects without exhaustive possession",
+            " strength: epistemic humility + non-violence in judgement",
+            " limit: contradictions are reconciled only if respects genuinely differ;",
+            " syādvāda cannot simply pronounce every doctrine true in the same sense."
+          ]
+        },
+        {
+          "panel_title": "6. Tolerance and religious freedom",
+          "structural_type": "civic ladder",
+          "source_session_heading_references": [
+            "G. Tolerance",
+            "H. Religious freedom"
+          ],
+          "lines": [
+            "TOLERANCE: refrain from coercion despite disagreement",
+            " respect: recognise equal standing | dialogue: reciprocal reason-giving",
+            " freedom: belief, practice, change of religion, non-belief, association",
+            "                         |",
+            " LIMITS",
+            " coercion | violence | discrimination | harm to rights may be regulated",
+            " but offence or theological falsity alone is not sufficient ground for suppression",
+            "                         |",
+            " principled pluralism protects persons and conscience, not every practice from criticism."
+          ]
+        },
+        {
+          "panel_title": "7. Conflict, unification and deep disagreement",
+          "structural_type": "dialogue-convergence map",
+          "source_session_heading_references": [
+            "I. Conflict and unification",
+            "J. Deep disagreement",
+            "K. Strong objections"
+          ],
+          "lines": [
+            "CONFLICT SOURCES: exclusive revelation | sacred history | identity | power | grievance",
+            " responses: syncretism | common ethical core | comparative theology | dialogue | legal neutrality",
+            "                         |",
+            " DEEP DISAGREEMENT persists because standards of evidence are tradition-shaped",
+            " humility != relativism: give reasons, admit fallibility, seek overlap, preserve dissent",
+            " objections to pluralism: self-refuting, imperial meta-theory, doctrinal dilution",
+            " reply: modest pluralism can defend equal civic respect without equalising every truth claim."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer spine",
+          "structural_type": "same-axis comparative synthesis",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE axis -> map exclusivism/inclusivism/pluralism -> explain Hick exactly",
+            " -> compare Advaita/Rāmānuja/Jain anekānta -> test absolute-truth objection",
+            " -> move from metaphysical diversity to tolerance/freedom with limits",
+            " -> qualified conclusion",
+            "                         |",
+            " CLOSE: defensible pluralism is neither “all religions say the same” nor relativism;",
+            " it combines truth-seeking, fallibilism, transformative comparison and equal civic liberty."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-09:learner-v2:g13",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-02",
+  "variant": "learner-v2",
+  "generation": 4,
+  "approval": false,
+  "official_syllabus_verbatim": "Rationalism (Descartes, Spinoza, Leibniz); Cartesian Method and Certain Knowledge; Substance; God; Mind-Body Dualism; Determinism and Freedom.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.md",
+  "core_sessions": [
+    {
+      "title": "Rationalist Project: Reason, Certainty and the 3-1-Infinity Sequence",
+      "plain": "Rationalism treats reason as capable of reaching necessary structure, yet Descartes, Spinoza and Leibniz produce rival ontologies.",
+      "technical": "Early-modern rationalism privileges a priori principles, intellectual intuition and deduction while using substance metaphysics to explain knowledge, God, mind, body and freedom.",
+      "answer": "Rationalism is unified by confidence in a priori reason but divided by the criterion of substance, which moves from Cartesian dualism through Spinozist monism to Leibnizian monadic pluralism.",
+      "keywords": [
+        "a priori reason",
+        "intuition and deduction",
+        "innate resources",
+        "substance",
+        "3-1-infinity",
+        "connected problem-sequence"
+      ],
+      "usage": "Open with a priori reason, intuition and deduction; then use the substance 3-1-infinity sequence to show how each successor answers Cartesian dualism.",
+      "mechanism": "A shared demand for intelligibility produces different systems because independence, simplicity and individuation are interpreted differently.",
+      "consequence": "The trio is a dialectical sequence rather than three disconnected lives.",
+      "trap": "Do not define rationalism as rejection of all experience or assume that a shared method entails one doctrine of substance, God or freedom.",
+      "objection": "Three incompatible systems may suggest that reason alone underdetermines metaphysics.",
+      "reply": "Shared standards do not decide which first principles and substance criteria are correct.",
+      "limit": "The reply preserves rationalism's family resemblance but supplies no neutral procedure for choosing the final system.",
+      "exam": "Use methodological unity plus ontological divergence; never write a generic school summary when the question names one philosopher.",
+      "revision": [
+        "Reason supplies necessity and universality; sensation may occasion thought.",
+        "Substance sequence: Descartes 3, Spinoza 1, Leibniz indefinitely many.",
+        "Mind-body sequence: interactionism, parallelism, pre-established harmony."
+      ],
+      "visuals": [
+        {
+          "title": "Connected rationalist problem-sequence",
+          "caption": "The same demand for rational intelligibility successively revises substance, causation and freedom.",
+          "lines": [
+            "CERTAINTY BY REASON",
+            "        |",
+            "        v",
+            "DESCARTES: secure foundations + mind/body distinction",
+            "        | interaction pressure",
+            "        v",
+            "SPINOZA: one immanent substance + parallelism + necessity",
+            "        | individuality pressure",
+            "        v",
+            "LEIBNIZ: many monads + harmony + compatibilist freedom"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Descartes I: Methodic Doubt, Cogito and Certain Knowledge",
+      "plain": "Descartes suspends every belief that can fail until the act of doubting reveals an indubitable thinking existence.",
+      "technical": "Methodological doubt moves through sense error, the dream argument and the evil-genius hypothesis to the cogito, an immediate intuition that grounds a foundationalist order of intuition and deduction.",
+      "answer": "The cogito defeats radical doubt performatively: deception may falsify what is thought, but it cannot erase the occurrence and existence of the thinker while thinking.",
+      "keywords": [
+        "methodological doubt",
+        "dream argument",
+        "evil genius",
+        "cogito",
+        "intuition",
+        "deduction",
+        "foundationalism"
+      ],
+      "usage": "Move from methodological doubt and the dream and evil-genius tests to the cogito, then distinguish intuition, deduction and foundationalism from a proof of enduring substance.",
+      "mechanism": "The attempt to doubt thinking existence performs the very thinking whose existence it tries to deny.",
+      "consequence": "Self-knowledge gains epistemic priority, while world, God and enduring personal identity still require reconstruction.",
+      "trap": "Do not call the cogito a syllogism or say that it alone proves an immortal soul.",
+      "objection": "The Lichtenberg-style objection says that Descartes establishes only 'there is thinking,' not a substantial 'I'.",
+      "reply": "A Cartesian reply is that modes of thinking require a subject, although this already invokes the substance framework.",
+      "limit": "The cogito is strongest as local first-person certainty and weaker as an unaided proof of enduring immaterial substance.",
+      "exam": "For certainty questions, separate the indubitability of present thinking from the mediated knowledge of world and memory.",
+      "revision": [
+        "Doubt is methodological, hyperbolic and temporary.",
+        "Sequence: senses, dream, evil genius, cogito.",
+        "Clear and distinct perception takes the cogito as its model."
+      ],
+      "visuals": [
+        {
+          "title": "Methodic doubt to cogito",
+          "caption": "Doubt removes vulnerable beliefs but becomes self-defeating at the occurrence of thought.",
+          "lines": [
+            "SENSE ERROR -> DREAM -> EVIL-GENIUS HYPOTHESIS",
+            "                         |",
+            "                         v",
+            "              SUSPEND EVERY DUBITABLE BELIEF",
+            "                         |",
+            "                         v",
+            "             DOUBTING / THINKING OCCURS NOW",
+            "                         |",
+            "                         v",
+            "              COGITO: I AM, I EXIST",
+            "                         |",
+            "              intuition -> ordered deduction"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Descartes II: Ideas, God, Reconstruction and the Cartesian Circle",
+      "plain": "After the cogito, Descartes uses ideas and proofs of a non-deceiving God to extend certainty beyond the immediately attended thought.",
+      "technical": "The reconstruction distinguishes innate, adventitious and factitious ideas, uses causal adequacy and ontological reasoning for God, invokes divine veracity, and restores clear and distinct perception, mathematics and an external extended world.",
+      "answer": "God is the epistemic hinge of Cartesian reconstruction because divine non-deception extends clear and distinct certainty beyond the cogito, yet that hinge creates the Cartesian Circle.",
+      "keywords": [
+        "innate ideas",
+        "formal and objective reality",
+        "causal adequacy",
+        "ontological argument",
+        "divine veracity",
+        "clear and distinct perception",
+        "Cartesian Circle"
+      ],
+      "usage": "Order innate ideas, divine veracity and clear and distinct perception around the Cartesian Circle, then qualify the memory-guarantee reply.",
+      "mechanism": "A perfect non-deceiving God is used to guarantee that what is clearly and distinctly perceived remains trustworthy beyond immediate attention.",
+      "consequence": "Mathematics and res extensa return, but the system inherits the burden of its divine proofs and their epistemic premises.",
+      "trap": "Do not say that the wax proves the external world; it shows that body, if known, is grasped intellectually as extended and changeable.",
+      "objection": "Descartes seems to trust clear and distinct premises to prove God and then trust God to validate those premises.",
+      "reply": "The standard reply distinguishes present compelled intuition from remembered or extended reasoning, for which divine veracity is needed.",
+      "limit": "The reply narrows the circle but remains contested because the proofs of God themselves contain extended inferential steps.",
+      "exam": "Use architecture rather than a list: criterion, proof, guarantee, reconstruction, objection, reply and residual difficulty.",
+      "revision": [
+        "Ideas are classed as innate, adventitious and factitious.",
+        "God guarantees non-deceptive clear and distinct cognition.",
+        "The world-proof establishes material cause more securely than sensible detail."
+      ],
+      "visuals": [
+        {
+          "title": "Cartesian knowledge architecture",
+          "caption": "The reconstructed system expands from immediate self-certainty through a theological guarantee.",
+          "lines": [
+            "COGITO: present certainty",
+            "        | clear and distinct perception",
+            "        v",
+            "IDEA OF GOD -> causal / ontological proofs",
+            "        |",
+            "        v",
+            "PERFECT GOD IS NO DECEIVER",
+            "        |",
+            "        +--> remembered clear and distinct judgements",
+            "        +--> mathematics",
+            "        +--> external res extensa"
+          ]
+        },
+        {
+          "title": "Cartesian Circle objection and qualified reply",
+          "caption": "The reply distinguishes present intuition from remembered certainty but does not remove every inferential concern.",
+          "lines": [
+            "CLEAR/DISTINCT PREMISES ------> PROVE GOD",
+            "          ^                         |",
+            "          |                         v",
+            "          +------ GOD GUARANTEES THEIR TRUTH",
+            "",
+            "REPLY: present intuition compels assent without prior guarantee",
+            "       God secures memory and reasoning when attention has moved",
+            "RESIDUAL: divine proofs still use a chain of premises"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Descartes III: Substance, Dualism, Interaction and Freedom",
+      "plain": "Descartes distinguishes thinking and extended created substances while making both continuously dependent on infinite substance, God.",
+      "technical": "Res cogitans has thought as principal attribute and mental states as modes; res extensa has extension as principal attribute and shapes or motions as modes. Their real distinction grounds interactionist dualism.",
+      "answer": "Cartesian dualism gains conceptual clarity by separating thought from extension, but its success in distinction becomes its central causal problem because heterogeneous substances must still explain one life.",
+      "keywords": [
+        "infinite substance",
+        "res cogitans",
+        "res extensa",
+        "principal attribute",
+        "mode",
+        "real distinction",
+        "interactionism",
+        "freedom of will"
+      ],
+      "usage": "Define substance, attribute and mode before presenting real distinction, interaction, objections, and Descartes' account of error and freedom.",
+      "mechanism": "Clear and distinct conceivability supports real distinction, while the human union is treated as a primitive lived fact rather than a third substance.",
+      "consequence": "The theory protects mental irreducibility and free judgement but faces interaction, causal-closure, other-minds and personhood pressures.",
+      "trap": "Do not count God, mind and body as three co-equal substances: only God is absolutely independent.",
+      "objection": "Princess Elisabeth asks how an unextended mind can causally alter an extended body without a shared causal medium.",
+      "reply": "Descartes appeals to the primitive notion of mind-body union and embodied experience rather than reducing union to pure thought or extension.",
+      "limit": "This protects phenomenological unity but does not supply a transparent mechanism compatible with physical causal closure.",
+      "exam": "Compare real distinction with substantial union and separate rational freedom of judgement from mere indifference.",
+      "revision": [
+        "Substance bears attributes; modes are changing determinations.",
+        "Mind is unextended and thinking; body is extended and non-thinking.",
+        "Error occurs when will outruns clear intellectual perception."
+      ],
+      "visuals": [
+        {
+          "title": "Descartes' substance ontology",
+          "caption": "Created mind and body have distinct principal attributes but share dependence on infinite substance.",
+          "lines": [
+            "GOD: INFINITE, ABSOLUTELY INDEPENDENT SUBSTANCE",
+            "        | creates and conserves",
+            "        +----------------------+----------------------+",
+            "        |                                             |",
+            "RES COGITANS                                   RES EXTENSA",
+            "attribute: thought                             attribute: extension",
+            "modes: ideas, doubts, volitions                modes: shape, motion",
+            "unextended / indivisible                       divisible / mechanical"
+          ]
+        },
+        {
+          "title": "Dualist interaction problem",
+          "caption": "Real distinction explains difference but makes causal commerce difficult.",
+          "lines": [
+            "MENTAL REASON / VOLITION -> BODILY MOTION",
+            "BODILY INJURY            -> SENSATION / PAIN",
+            "        ^                           ^",
+            "        +------ ONE EMBODIED PERSON +",
+            "OBJECTION: no shared spatial-causal property; physical closure pressure",
+            "REPLY: primitive notion of union; lived interaction is irreducible",
+            "LIMIT: a primitive notion is not a detailed causal mechanism"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spinoza I: One Substance, Attributes, Modes and Immanent God",
+      "plain": "Spinoza applies the independence criterion strictly and turns Cartesian mind and body from substances into expressions of one reality.",
+      "technical": "The self-caused, necessarily existing and absolutely infinite substance is Deus sive Natura; infinitely many attributes express its essence, while finite things are modes under attributes such as Thought and Extension.",
+      "answer": "Spinoza radicalises the Cartesian definition of substance until only God or Nature remains self-conceived, making minds and bodies dependent modes rather than independently interacting things.",
+      "keywords": [
+        "causa sui",
+        "Deus sive Natura",
+        "substance monism",
+        "attribute",
+        "mode",
+        "Thought and Extension",
+        "immanent causation",
+        "Natura naturans / Natura naturata"
+      ],
+      "usage": "Derive monism from strict independence, distinguish attributes from modes, and qualify pantheism by noting that God is not merely the aggregate of finite things.",
+      "mechanism": "Because substance is conceived through itself and cannot be limited by another substance of the same nature, the system culminates in one infinite substance.",
+      "consequence": "Creator-world dualism disappears, but individuality and divine personality become difficult.",
+      "trap": "Do not treat Thought and Extension as two Spinozist substances or interpret 'in God' as spatial containment.",
+      "objection": "The acosmism objection claims that if God alone is absolutely real, finite individuals dissolve.",
+      "reply": "Spinoza can retain dependent modal reality: finite beings are not nothing, but determinate expressions without self-subsistence.",
+      "limit": "Dependent reality remains weaker than robust individuality and personal divine agency.",
+      "exam": "For pantheism questions, define the exact identity, explain immanence, then address aggregate and acosmism objections.",
+      "revision": [
+        "Whatever is, is in God as substance or mode.",
+        "Humans know Thought and Extension, not all infinite attributes.",
+        "God is immanent cause, not a transcendent artisan."
+      ],
+      "visuals": [
+        {
+          "title": "Spinoza's substance-attributes-modes hierarchy",
+          "caption": "One infinite substance is expressed through attributes and modified as finite minds, bodies and things.",
+          "lines": [
+            "ONE SELF-CAUSED SUBSTANCE: DEUS SIVE NATURA",
+            "                         |",
+            "             infinitely many ATTRIBUTES",
+            "                         |",
+            "              +----------+----------+",
+            "              |                     |",
+            "           THOUGHT               EXTENSION",
+            "              |                     |",
+            "       finite ideas/minds      finite bodies/motions",
+            "              +---------- MODES ----------+"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spinoza II: Parallelism, Necessity, Conatus and Freedom",
+      "plain": "Spinoza replaces interaction with two descriptions of one order and redefines freedom as acting through adequate understanding.",
+      "technical": "The order and connection of ideas is the same as the order and connection of things; causal necessity governs all modes, conatus expresses each thing's striving, and adequate ideas convert passive bondage into rational activity.",
+      "answer": "Spinoza reconciles freedom with determinism by treating freedom not as uncaused choice but as adequate self-determination within the necessary order of God or Nature.",
+      "keywords": [
+        "parallelism",
+        "necessitarianism",
+        "conatus",
+        "inadequate idea",
+        "adequate idea",
+        "bondage",
+        "activity",
+        "freedom as understanding necessity"
+      ],
+      "usage": "Explain parallelism first, derive necessity from substance, then show how conatus and adequate knowledge permit relative freedom and liberation.",
+      "mechanism": "The same modal event is expressed under Thought as an idea and under Extension as a body-state, eliminating cross-attribute causal transfer.",
+      "consequence": "Causal unity and psychophysical correspondence are secured, while alternative possibilities and retributive responsibility are revised.",
+      "trap": "Do not confuse parallelism with two independent synchronized substances or freedom with resignation to fate.",
+      "objection": "Necessitarianism appears to eliminate responsibility, novelty and the ability to do otherwise.",
+      "reply": "Spinoza shifts responsibility toward causes, character and rational transformation; freedom measures activity from one's understood nature.",
+      "limit": "The account offers autonomy without alternative possibilities and is therefore compatibilist only in a revisionary sense.",
+      "exam": "Use metaphysics-parallelism-affects-knowledge-freedom; distinguish necessity from fatalism and passive compulsion.",
+      "revision": [
+        "Parallelism is identity of order under different attributes.",
+        "Conatus is the striving to persevere in being.",
+        "Adequate ideas increase action; inadequate ideas mark passive bondage."
+      ],
+      "visuals": [
+        {
+          "title": "Spinozist parallelism",
+          "caption": "Mind and body are one modal order understood under two attributes.",
+          "lines": [
+            "ONE MODAL EVENT IN GOD / NATURE",
+            "        +--------------------------+",
+            "        |                          |",
+            "UNDER THOUGHT                UNDER EXTENSION",
+            "idea of body-state            the body-state itself",
+            "        |                          |",
+            "order of ideas                order of bodily causes",
+            "        +------ SAME ORDER -------+",
+            "NO mind-to-body or body-to-mind causal crossing"
+          ]
+        },
+        {
+          "title": "Bondage to freedom",
+          "caption": "Freedom grows as the person becomes an adequate cause through understanding.",
+          "lines": [
+            "EXTERNAL CAUSES + INADEQUATE IDEAS",
+            "                |",
+            "                v",
+            "PASSIVE AFFECTS / BONDAGE",
+            "                | common notions + reason + intuition",
+            "                v",
+            "ADEQUATE UNDERSTANDING OF CAUSES",
+            "                |",
+            "                v",
+            "ACTIVITY / AUTONOMY / FREEDOM WITHIN NECESSITY"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leibniz I: Monads, Perception, Appetition and Individuality",
+      "plain": "Leibniz restores plurality through simple, non-extended centres whose changes arise from internal perception and striving.",
+      "technical": "Monads are windowless, partless and non-extended substances with perception and appetition; their hierarchy ranges from bare monads through animal souls and rational spirits to God as the necessary supreme monad.",
+      "answer": "Leibniz makes substance simple and active: each monad is a unique perspectival centre whose internally unfolding perceptions preserve individuality without material parts or causal influx.",
+      "keywords": [
+        "monad",
+        "simplicity",
+        "perception",
+        "apperception",
+        "appetition",
+        "windowless",
+        "petites perceptions",
+        "identity of indiscernibles"
+      ],
+      "usage": "Derive monads from the inadequacy of divisible extension, explain the hierarchy, and distinguish perception from conscious apperception.",
+      "mechanism": "Appetition moves each monad from one perception to another according to its own law, while its perspective differentiates it from every other monad.",
+      "consequence": "Plurality and internal activity return, but material bodies become well-founded phenomena rather than ultimate substances.",
+      "trap": "Do not describe monads as tiny physical atoms located inside bodies.",
+      "objection": "A windowless monad seems insulated from evidence about the common world and other minds.",
+      "reply": "Each monad represents the whole universe from a distinct perspective, with correspondence guaranteed by harmony.",
+      "limit": "Representation without interaction shifts rather than removes the demand for explaining shared objectivity.",
+      "exam": "Link simplicity, perception, appetition, hierarchy and individuation before moving to harmony or freedom.",
+      "revision": [
+        "Monads are simple, unextended and windowless.",
+        "Perception represents multiplicity in unity; apperception is reflective awareness.",
+        "Appetition is the internal principle of transition."
+      ],
+      "visuals": [
+        {
+          "title": "Leibniz's monad hierarchy",
+          "caption": "Degrees of perceptual clarity and reason differentiate monads, not physical size or composition.",
+          "lines": [
+            "GOD: NECESSARY SUPREME MONAD / COMPLETE INTELLIGENCE",
+            "                         ^",
+            "RATIONAL SPIRITS: apperception, reason, moral agency",
+            "                         ^",
+            "ANIMAL SOULS: memory + clearer perception",
+            "                         ^",
+            "BARE MONADS: obscure perception / petites perceptions",
+            "",
+            "EACH LEVEL: simple + non-extended + perception + appetition"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leibniz II: Harmony, God, Sufficient Reason and Freedom",
+      "plain": "Pre-established harmony is Leibniz's doctrine that independently unfolding monadic sequences correspond without causal interaction.",
+      "technical": "Pre-established harmony, the Principle of Sufficient Reason, truths of reason and fact, possible worlds and divine selection support a compatibilism of spontaneity, intelligence and contingency.",
+      "answer": "Leibniz preserves freedom by distinguishing certainty from absolute necessity: rational actions arise spontaneously from the agent's own reasons, which incline without necessitating in the logical sense.",
+      "keywords": [
+        "pre-established harmony",
+        "Principle of Sufficient Reason",
+        "truths of reason and fact",
+        "possible worlds",
+        "best possible world",
+        "spontaneity",
+        "inclination without necessity",
+        "compatibilism"
+      ],
+      "usage": "Explain pre-established harmony through sufficient reason, truths of reason and fact, possible worlds, spontaneity and compatibilism.",
+      "mechanism": "God chooses a compossible world and creates monads whose internally lawful sequences correspond without causal exchange.",
+      "consequence": "Coordination, individuality and rational agency coexist, but explanatory economy and the problem of evil become acute.",
+      "trap": "Do not confuse certainty in the actual world with logical necessity or claim that harmony permits causal messages between monads.",
+      "objection": "If every predicate belongs to a complete concept and God selected this world, agency may look programmed and evil divinely chosen.",
+      "reply": "Leibniz distinguishes necessary truths from contingent truths known by infinite analysis and treats reasons as inclining without coercion.",
+      "limit": "The account secures intelligent self-expression better than libertarian alternative possibilities and does not dissolve evil's moral force.",
+      "exam": "For freedom questions, state spontaneity, intelligence and contingency, then test whether possible-world alternatives belong to this actual agent.",
+      "revision": [
+        "Harmony coordinates without interaction.",
+        "PSR asks why this world and event rather than another.",
+        "Truths of reason are necessary; truths of fact are contingent though certain."
+      ],
+      "visuals": [
+        {
+          "title": "Pre-established harmony",
+          "caption": "Mind and body correspond because their internal histories were coordinated at creation, not because they exchange causes.",
+          "lines": [
+            "GOD SELECTS A COMPOSSIBLE WORLD",
+            "        |",
+            "        +--------------------------+",
+            "        |                          |",
+            "MIND-MONAD SEQUENCE          BODY / ORGANIC SEQUENCE",
+            "idea1 -> idea2 -> volition   state1 -> state2 -> motion",
+            "        |                          |",
+            "        +------ exact fit --------+",
+            "NO WINDOWS; NO CROSS-SUBSTANCE CAUSAL INFLUX"
+          ]
+        },
+        {
+          "title": "Leibnizian freedom structure",
+          "caption": "Freedom is intelligent spontaneity under contingent rather than logically necessary determination.",
+          "lines": [
+            "TRUTH OF REASON: opposite implies contradiction -> NECESSARY",
+            "TRUTH OF FACT: opposite is conceivable -> CONTINGENT",
+            "                    |",
+            "                    v",
+            "COMPLETE CONCEPT + REASONS + INTERNAL APPETITION",
+            "                    |",
+            "                    v",
+            "SPONTANEITY + INTELLIGENCE; REASONS INCLINE, NOT COERCE",
+            "RESULT: COMPATIBILISM, NOT LIBERTARIAN INDETERMINISM"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparative Synthesis: Substance, God, Mind-Body and Freedom",
+      "plain": "The three systems answer the same questions by changing what counts as substance and how causation, individuality and necessity are understood.",
+      "technical": "The comparison aligns Cartesian created-substance dualism and interactionism, Spinozist substance monism and parallelism, and Leibnizian monadic pluralism and pre-established harmony, with distinct divine and freedom models.",
+      "answer": "Spinoza removes the interaction gap by collapsing Cartesian substances into attributes of one order, while Leibniz restores plurality by replacing interaction with divinely coordinated internal activity.",
+      "keywords": [
+        "substance pluralism",
+        "substance monism",
+        "monadic pluralism",
+        "interactionism",
+        "parallelism",
+        "pre-established harmony",
+        "autonomy",
+        "compatibilism"
+      ],
+      "usage": "Compare substance pluralism, monism and monadic pluralism, then align interactionism, parallelism, harmony, autonomy and compatibilism.",
+      "mechanism": "Each successor accepts the Cartesian pressure but redistributes substance and causation to avoid direct interaction between heterogeneous realities.",
+      "consequence": "Explanatory unity rises from Descartes to Spinoza, while Leibniz restores individuality at the cost of a more elaborate theological harmony.",
+      "trap": "Do not use substance, attribute, mode, mind, body, necessity, determinism, spontaneity, autonomy and freedom as interchangeable terms.",
+      "objection": "All three solutions may seem to relocate rather than solve the relation between lived agency and a fully intelligible order.",
+      "reply": "Their lasting value is diagnostic: they isolate interaction, identity, causal explanation and autonomy as distinct problems.",
+      "limit": "Contemporary relevance should be stated as conceptual inheritance, not as proof that early-modern metaphysics anticipated modern science.",
+      "exam": "Use one comparison matrix plus a pressure-response paragraph; chronology without common axes will not answer a comparative directive.",
+      "revision": [
+        "Descartes distinguishes; Spinoza unifies; Leibniz pluralizes without interaction.",
+        "God guarantees, is immanent reality, or selects and coordinates.",
+        "Freedom becomes will, understood necessity, or intelligent spontaneity."
+      ],
+      "visuals": [
+        {
+          "title": "Three-philosopher comparison matrix",
+          "caption": "Matched axes reveal how ontology determines the mind-body and freedom models.",
+          "lines": [
+            "+------------+----------------+----------------+----------------------+",
+            "| AXIS       | DESCARTES      | SPINOZA        | LEIBNIZ              |",
+            "+------------+----------------+----------------+----------------------+",
+            "| substance  | God + mind/body| one God/Nature | many simple monads   |",
+            "| God        | guarantee      | immanent order | selector/coordinator |",
+            "| mind-body  | interaction    | parallelism    | harmony              |",
+            "| necessity  | mechanism + will| strict order  | certain, contingent  |",
+            "| freedom    | rational assent| adequate action| spontaneity + reason |",
+            "+------------+----------------+----------------+----------------------+"
+          ]
+        },
+        {
+          "title": "Pressure generated by Cartesian dualism",
+          "caption": "Spinoza and Leibniz answer the interaction problem in opposite ontological directions.",
+          "lines": [
+            "DESCARTES: TWO CREATED SUBSTANCE TYPES",
+            "        | problem: how can unlike substances interact?",
+            "        +----------------------+----------------------+",
+            "        |                                             |",
+            "SPINOZA: reduce to one substance          LEIBNIZ: multiply simple substances",
+            "mind/body = one order, two attributes     no interaction; harmony coordinates",
+            "gain: causal unity                         gain: individuality + internal activity",
+            "cost: finite individuality                 cost: theological/explanatory economy"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Criticism-Reply Map, Precision Toolkit and Answer Spine",
+      "plain": "A high-scoring answer reconstructs an argument, identifies its strongest pressure, gives the best reply and states what remains unresolved.",
+      "technical": "The examiner-grade method distinguishes epistemic from ontological claims, necessity from determinism, spontaneity from autonomy, and compatibility from libertarian freedom before directive-specific evaluation.",
+      "answer": "A criticism-reply answer spine reveals rationalism's central tension: systematic intelligibility repeatedly pressures interaction, contingency and autonomous individuality.",
+      "keywords": [
+        "claim-evidence-analysis-qualification",
+        "argument reconstruction",
+        "objection-reply-residual",
+        "directive fidelity",
+        "epistemic and ontological",
+        "necessity and determinism",
+        "spontaneity and autonomy",
+        "qualified verdict"
+      ],
+      "usage": "Use argument reconstruction and directive fidelity to build a claim-evidence-analysis-qualification answer spine with objection, reply and qualified verdict.",
+      "mechanism": "Precision turns system summaries into answers by linking every doctrine to a named inferential role and an explicit qualification.",
+      "consequence": "The same master map can answer narrow questions on God, substance, mind-body or freedom without collapsing into a generic history of rationalism.",
+      "trap": "Do not invent quotations, present contested interpretations as fact, or append an unrelated criticism after the conclusion.",
+      "objection": "A compressed comparison can flatten differences in text, purpose and degree of necessity.",
+      "reply": "Use common axes only after each concept has been independently defined and the comparison qualified.",
+      "limit": "No matrix substitutes for the argument demanded by the exact PYQ directive.",
+      "exam": "Answer spine: direct thesis, definitions, numbered argument, named example, objection, reply, residual limitation and directive-specific verdict.",
+      "revision": [
+        "Distinguish independence, attribute and mode before counting substances.",
+        "Distinguish causal necessity, hypothetical necessity and logical necessity.",
+        "End with a qualified judgement, not a slogan that one thinker simply wins."
+      ],
+      "visuals": [
+        {
+          "title": "Criticism-reply-residual map",
+          "caption": "Evaluation earns marks only when the reply and remaining cost are explicit.",
+          "lines": [
+            "DESCARTES: interaction gap",
+            "  -> reply: primitive union",
+            "  -> residual: no transparent causal mechanism",
+            "SPINOZA: necessity erases individuality",
+            "  -> reply: dependent modal reality + adequate activity",
+            "  -> residual: no alternative possibilities",
+            "LEIBNIZ: harmony looks programmed and extravagant",
+            "  -> reply: internal spontaneity + contingent world",
+            "  -> residual: weak libertarian freedom + evil problem"
+          ]
+        },
+        {
+          "title": "UPSC Philosophy answer spine",
+          "caption": "This sequence preserves directive fidelity and examiner-grade qualification.",
+          "lines": [
+            "DIRECTIVE -> DIRECT THESIS -> PRECISE DEFINITIONS",
+            "        -> NUMBERED ARGUMENT -> TEXT / CANONICAL EXAMPLE",
+            "        -> COMPARISON ON MATCHED AXES (if demanded)",
+            "        -> STRONGEST OBJECTION -> BEST REPLY",
+            "        -> RESIDUAL LIMIT -> QUALIFIED VERDICT",
+            "",
+            "CONTROL: claim -> named evidence -> analysis -> qualification",
+            "CONTROL: answer the printed question, not a memorised biography"
+          ]
+        }
+      ]
+    }
+  ],
+  "advanced_session_count": 10,
+  "ascii_panels": [
+    {
+      "title": "Rationalist starting problem and connected 3-1-infinity sequence",
+      "structural_type": "conceptual-root-sequence",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "CENTRAL QUESTION: CAN REASON SECURE NECESSARY KNOWLEDGE AND AN INTELLIGIBLE WORLD?",
+        "        |",
+        "        +--> METHOD: a priori principles + intuition + deduction",
+        "        +--> METAPHYSICS: substance, attribute, mode and sufficient explanation",
+        "        |",
+        "DESCARTES: God + mind + body -> interaction problem",
+        "        |",
+        "SPINOZA: one God/Nature -> parallelism + necessity -> individuality problem",
+        "        |",
+        "LEIBNIZ: many monads -> harmony + contingency -> economy and evil problem",
+        "MEMORY: substance 3-1-infinity; mind-body I-P-H."
+      ]
+    },
+    {
+      "title": "Cartesian methodic doubt, cogito and first certainty",
+      "structural_type": "epistemic-demolition-reconstruction-flow",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "FOUR METHOD RULES: evidence -> division -> simple-to-complex order -> complete review",
+        "        |",
+        "SENSE ERROR -> DREAM ARGUMENT -> EVIL-GENIUS HYPOTHESIS",
+        "        | suspend every belief that can be doubted",
+        "        v",
+        "COGITO: I AM, I EXIST WHENEVER I THINK",
+        "        | immediate intuition, not a syllogism",
+        "        +--> clear and distinct perception becomes the model",
+        "        +--> intuition supplies first principles; deduction orders consequences",
+        "LIMIT: present thinking is certain; enduring res cogitans needs further argument."
+      ]
+    },
+    {
+      "title": "Cartesian knowledge architecture and Circle objection",
+      "structural_type": "argument-loop-with-qualified-reply",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "COGITO -> IDEAS -> GOD -> NON-DECEPTION -> MATHEMATICS AND EXTERNAL RES EXTENSA",
+        "IDEAS: innate / adventitious / factitious; objective reality = representational content",
+        "GOD: causal adequacy or trademark route + ontological route; present cautiously",
+        "WAX: intellect judges extended, flexible, changeable identity beyond sensory qualities",
+        "CIRCLE: clear/distinct premises prove God -> God guarantees clear/distinct truth",
+        "REPLY: present intuition compels; God secures memory and extended reasoning",
+        "RESIDUAL: the divine proofs themselves use inferential premises",
+        "WORLD: involuntary sensory ideas require an active cause; veracity blocks deception",
+        "LIMIT: body-existence is stronger than exact resemblance of sensible qualities."
+      ]
+    },
+    {
+      "title": "Descartes on substance, interaction and freedom",
+      "structural_type": "ontology-tree-and-problem-map",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "GOD = INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT",
+        "        +--> RES COGITANS: attribute thought; modes include ideas and volitions",
+        "        +--> RES EXTENSA: attribute extension; modes include shape and motion",
+        "REAL DISTINCTION: clear conception of each without the other",
+        "SUBSTANTIAL UNION: one embodied person experiences cross-domain coordination",
+        "OBJECTION: how can unextended mind cause extended motion? causal-closure pressure",
+        "REPLY: primitive notion of union; RESIDUAL: no transparent mechanism",
+        "OTHER MINDS: inferred through embodied behaviour, not given by the cogito",
+        "FREEDOM: will assents or withholds; error occurs when will outruns intellect",
+        "LIMIT: created substances depend continuously on God."
+      ]
+    },
+    {
+      "title": "Spinoza's substance-attribute-mode hierarchy and immanent God",
+      "structural_type": "substance-hierarchy-tree",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+        "                         = DEUS SIVE NATURA",
+        "                                  |",
+        "                      infinitely many ATTRIBUTES",
+        "                                  |",
+        "                 humans know THOUGHT and EXTENSION",
+        "                                  |",
+        "                    finite minds and bodies are MODES",
+        "GOD = immanent cause; whatever is, is in God; no external created realm",
+        "OBJECTION: acosmism; REPLY: modes retain dependent reality."
+      ]
+    },
+    {
+      "title": "Spinoza's parallelism and route from bondage to freedom",
+      "structural_type": "parallel-rail-and-liberation-ladder",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "ONE EVENT -> under THOUGHT: idea -> under EXTENSION: body-state",
+        "ORDER AND CONNECTION OF IDEAS = ORDER AND CONNECTION OF THINGS",
+        "NO cross-attribute causal transfer; parallelism replaces Cartesian interaction",
+        "FINITE MODES are necessarily caused; contingency records ignorance of causes",
+        "CONATUS = each thing's striving to persevere in being",
+        "INADEQUATE IDEAS + external causes -> passive affects -> BONDAGE",
+        "COMMON NOTIONS / REASON / INTUITION -> ADEQUATE IDEAS -> ACTIVITY",
+        "FREEDOM = acting from understood nature within necessity, not uncaused choice",
+        "LIMIT: autonomy survives, but alternative possibilities do not."
+      ]
+    },
+    {
+      "title": "Leibniz's monad hierarchy, perception and individuality",
+      "structural_type": "graded-monad-ladder",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "WHY MONADS? extension is divisible; ultimate substance must be simple",
+        "GOD: necessary supreme monad / complete intelligence",
+        "RATIONAL SPIRITS: apperception + reason + moral agency",
+        "ANIMAL SOULS: memory + clearer perception",
+        "BARE MONADS: obscure petites perceptions",
+        "EVERY MONAD: simple, unextended, windowless, perceptive and appetitive",
+        "APPETITION = internal transition; each perspective expresses the universe",
+        "IDENTITY OF INDISCERNIBLES secures uniqueness",
+        "BODIES = well-founded phenomena, not ultimate substances."
+      ]
+    },
+    {
+      "title": "Leibnizian harmony, sufficient reason, contingency and freedom",
+      "structural_type": "synchronised-process-and-modal-tree",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "GOD chooses a compossible best world under the PRINCIPLE OF SUFFICIENT REASON",
+        "        +--> mind-monad states unfold internally",
+        "        +--> bodily/organic states unfold internally",
+        "        +--> PRE-ESTABLISHED HARMONY makes them correspond without interaction",
+        "TRUTHS OF REASON: opposite contradictory -> logically necessary",
+        "TRUTHS OF FACT: opposite conceivable -> contingent though certain",
+        "COMPLETE CONCEPT: all predicates belong to the individual known fully by God",
+        "FREEDOM: spontaneity + intelligence + contingency; reasons incline, not coerce",
+        "OBJECTION: programming/evil; REPLY: self-expression + optimal compossibility",
+        "LIMIT: compatibility is stronger than libertarian freedom."
+      ]
+    },
+    {
+      "title": "Three rationalist systems compared on matched axes",
+      "structural_type": "four-axis-comparison-matrix",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "+------------+--------------------+--------------------+----------------------+",
+        "| AXIS       | DESCARTES          | SPINOZA            | LEIBNIZ              |",
+        "+------------+--------------------+--------------------+----------------------+",
+        "| substance  | God + mind + body  | one God or Nature  | many simple monads   |",
+        "| God        | creator/guarantee  | immanent reality   | selector/coordinator |",
+        "| mind-body  | interactionism     | parallelism        | harmony              |",
+        "| order      | mechanism + will   | strict necessity   | certain/contingent   |",
+        "| freedom    | rational assent    | adequate activity  | intelligent spontaneity|",
+        "+------------+--------------------+--------------------+----------------------+",
+        "PRESSURE SEQUENCE: interaction gap -> monist unity -> restored individuality."
+      ]
+    },
+    {
+      "title": "Criticism-reply ledger, traps, PYQ routes and answer spine",
+      "structural_type": "evaluation-ledger-and-exam-synthesis",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "DESCARTES: interaction gap -> primitive union -> mechanism remains opaque",
+        "SPINOZA: necessity/acosmism -> adequate activity + modal reality -> no alternatives",
+        "LEIBNIZ: programming/evil/economy -> spontaneity + possible worlds -> residual pressure",
+        "PRECISION: substance != attribute != mode; mind != person; necessity != fatalism",
+        "PRECISION: spontaneity != autonomy; compatibilism != libertarian freedom",
+        "PYQ ROUTES: certainty/self-world; substance 3-1-infinity; pantheism; freedom",
+        "PYQ ROUTES: innate ideas; monads/harmony; God; determination/negation",
+        "ANSWER SPINE:",
+        "directive -> thesis -> definitions -> argument -> example -> objection -> reply -> verdict",
+        "CONTROL: claim -> named evidence -> analysis -> qualification",
+        "VERDICT: intelligibility is gained at recurring costs to interaction and autonomy."
+      ]
+    }
+  ],
+  "verified_pyq_source": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+  "required_core_terms": [
+    "methodological doubt",
+    "dream argument",
+    "evil genius",
+    "cogito",
+    "intuition",
+    "deduction",
+    "clear and distinct",
+    "foundationalism",
+    "Cartesian Circle",
+    "innate ideas",
+    "substance",
+    "attribute",
+    "mode",
+    "res cogitans",
+    "res extensa",
+    "interactionism",
+    "causal closure",
+    "Deus sive Natura",
+    "parallelism",
+    "conatus",
+    "adequate ideas",
+    "bondage",
+    "monads",
+    "appetition",
+    "apperception",
+    "pre-established harmony",
+    "sufficient reason",
+    "identity of indiscernibles",
+    "truths of reason",
+    "truths of fact",
+    "best possible world",
+    "necessity",
+    "determinism",
+    "spontaneity",
+    "autonomy",
+    "compatibilism"
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g4\\topic-02_Complete-Learning-Session_2026-08-29.md"
+}

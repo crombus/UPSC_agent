@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "World History learner-v2 Topics 11-12",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-11",
+      "display_title": "International Relations 1919-39",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\11_International-Relations-1919-39_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "League promise and machinery",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "AIM -> collective security and cooperation",
+            "ASSEMBLY/COUNCIL -> political deliberation",
+            "COURT/SECRETARIAT -> legal and administrative work",
+            "COMMISSIONS -> labour, refugees, health and mandates"
+          ],
+          "source_references": [
+            "League aims and operating machinery"
+          ]
+        },
+        {
+          "title": "League's mixed record",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SUCCESS -> Aaland, Saar, Mosul and social work",
+            "WEAKNESS -> no army and unanimity",
+            "ABSENCE -> USA outside; Germany and USSR late",
+            "VERDICT -> administration stronger than enforcement"
+          ],
+          "source_references": [
+            "League aims and operating machinery",
+            "Why collective security lacked force"
+          ]
+        },
+        {
+          "title": "1920s recovery ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1921-22 -> Washington naval easing",
+            "1924 -> Dawes credit and Ruhr withdrawal",
+            "1925-26 -> Locarno and Germany in League",
+            "1928-29 -> Kellogg-Briand and Young Plan"
+          ],
+          "source_references": [
+            "Washington and the limited Pacific easing",
+            "Dawes credit and Ruhr recovery",
+            "Locarno's western guarantee",
+            "Kellogg-Briand and Young Plan"
+          ]
+        },
+        {
+          "title": "Locarno's geographic flaw",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WEST -> German frontiers guaranteed",
+            "EAST -> German frontiers not guaranteed",
+            "PROSPERITY -> American credit supports confidence",
+            "RISK -> eastern revisionism remains open"
+          ],
+          "source_references": [
+            "Locarno's western guarantee"
+          ]
+        },
+        {
+          "title": "Depression transmission",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "US CREDIT WITHDRAWS -> German recovery contracts",
+            "UNEMPLOYMENT -> democratic legitimacy erodes",
+            "RADICAL REGIMES -> revisionist policy strengthens",
+            "COLLECTIVE SECURITY -> willingness to enforce falls"
+          ],
+          "source_references": [
+            "Depression destroys the Locarno base"
+          ]
+        },
+        {
+          "title": "League-breaking crises",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931 -> Manchuria establishes impunity",
+            "1935 -> Abyssinia exposes weak sanctions",
+            "1935 -> naval agreement breaks Stresa unity",
+            "1936 -> Rhineland risk succeeds"
+          ],
+          "source_references": [
+            "Manchuria and the lesson of impunity",
+            "Abyssinia and League discredit",
+            "Separate bargains and Rhineland risk"
+          ]
+        },
+        {
+          "title": "Aggressor-learning mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ACTION -> treaty or frontier challenged",
+            "RESPONSE -> protest without effective force",
+            "LESSON -> cost of next move appears lower",
+            "RESULT -> revision escalates from test to conquest"
+          ],
+          "source_references": [
+            "Abyssinia and League discredit",
+            "Failure-of-order verdict"
+          ]
+        },
+        {
+          "title": "1938 concession sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ANSCHLUSS -> Austria absorbed",
+            "MUNICH -> Sudetenland conceded",
+            "EXCLUSION -> Czechoslovakia and USSR absent",
+            "PRAGUE 1939 -> non-German territory seized"
+          ],
+          "source_references": [
+            "Anschluss and cumulative concession",
+            "Munich and excluded states",
+            "Prague, pact and Poland"
+          ]
+        },
+        {
+          "title": "Appeasement on its own terms",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RATIONALE -> war memory and incomplete rearmament",
+            "ASSUMPTION -> grievances are finite",
+            "FAILURE -> concessions weaken deterrence",
+            "TEST -> Prague disproves the assumption"
+          ],
+          "source_references": [
+            "Munich and excluded states",
+            "Failure-of-order verdict"
+          ]
+        },
+        {
+          "title": "Road to Poland",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PRAGUE -> appeasement rationale collapses",
+            "NAZI-SOVIET PACT -> eastern obstacle removed",
+            "POLAND -> Germany invades",
+            "BRITAIN/FRANCE -> declare war"
+          ],
+          "source_references": [
+            "Prague, pact and Poland"
+          ]
+        },
+        {
+          "title": "Design versus choice",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DESIGN -> unanimity, no army, incomplete membership",
+            "CHOICE -> members refuse sanctions and military risk",
+            "ECONOMY -> Depression narrows cooperation",
+            "VERDICT -> weaknesses become fatal through decisions"
+          ],
+          "source_references": [
+            "Why collective security lacked force",
+            "Failure-of-order verdict"
+          ]
+        },
+        {
+          "title": "Interwar answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PROMISE -> League and collective security",
+            "RECOVERY -> Dawes, Locarno and conditional stability",
+            "BREAKDOWN -> Depression, Manchuria and Abyssinia",
+            "COLLAPSE -> appeasement, Prague, pact and Poland"
+          ],
+          "source_references": [
+            "Failure-of-order verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "world-history-12",
+      "display_title": "Rise of Fascism: Italy, Germany, Japan",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\12_Rise-of-Fascism-Italy-Germany-Japan_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Italian road to office",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1919-21 -> fascist movement and party organised",
+            "POSTWAR CRISIS -> grievance, inflation and class fear",
+            "OCT 1922 -> March on Rome applies pressure",
+            "KING -> refuses resistance and invites Mussolini"
+          ],
+          "source_references": [
+            "Italy's postwar crisis",
+            "March on Rome and elite transfer"
+          ]
+        },
+        {
+          "title": "Fascist governing toolkit",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LEADER CULT -> il Duce",
+            "PARTY/LAW -> monopoly grows through Acerbo system",
+            "LABOUR/YOUTH -> corporate control and GIL",
+            "CHURCH -> Lateran Treaty settles one rival centre"
+          ],
+          "source_references": [
+            "Fascist ideology and institutions"
+          ]
+        },
+        {
+          "title": "Weimar breakdown chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "VERSAILLES + MYTH -> national legitimacy weakens",
+            "HYPERINFLATION + CREDIT -> recovery remains fragile",
+            "DEPRESSION -> unemployment and radicalisation",
+            "CONSERVATIVE INTRIGUE -> Hitler enters office legally"
+          ],
+          "source_references": [
+            "Weimar's cumulative breakdown",
+            "Hitler's legal entry and dictatorship"
+          ]
+        },
+        {
+          "title": "From Chancellor to dictator",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JAN 1933 -> Hitler becomes Chancellor",
+            "MAR 1933 -> Enabling Law grants dictatorial power",
+            "1934 -> Night of the Long Knives",
+            "1935 -> Nuremberg Laws institutionalise exclusion"
+          ],
+          "source_references": [
+            "Hitler's legal entry and dictatorship",
+            "Consolidation after 1933",
+            "Nazism's racial core"
+          ]
+        },
+        {
+          "title": "Italian fascism versus Nazism",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ITALY -> authoritarian nationalism and corporate claims",
+            "GERMANY -> racial-biological ideology at core",
+            "ITALY -> less thorough social penetration",
+            "GERMANY -> police, party, youth and camps integrate control"
+          ],
+          "source_references": [
+            "Italy and Germany compared"
+          ]
+        },
+        {
+          "title": "Nazi control mixture",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PROPAGANDA -> leader myth and national rebirth",
+            "ORGANISATION -> youth, schools and labour reordered",
+            "COERCION -> police power, camps and purge",
+            "RACE -> membership in the nation legally restricted"
+          ],
+          "source_references": [
+            "Consent, propaganda and coercion",
+            "Nazism's racial core"
+          ]
+        },
+        {
+          "title": "Japan's distinct route",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931 -> army occupies Manchuria",
+            "1932 -> Inukai assassinated",
+            "ARMY -> dominance grows inside surviving institutions",
+            "1937 -> full-scale war in China"
+          ],
+          "source_references": [
+            "Japan's military route",
+            "Japanese expansion into China"
+          ]
+        },
+        {
+          "title": "Why Japan needs a qualifier",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SIMILAR -> nationalism, anti-left politics and expansion",
+            "DIFFERENT -> no equivalent fascist mass party-state",
+            "FORM -> emperor and constitution formally survive",
+            "LABEL -> military authoritarianism is safer"
+          ],
+          "source_references": [
+            "Japan's military route"
+          ]
+        },
+        {
+          "title": "Spain's bounded path",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931 -> monarchy falls",
+            "1936 -> civil war begins",
+            "GERMANY/ITALY -> support Franco",
+            "1939 -> Nationalist victory and authoritarian rule"
+          ],
+          "source_references": [
+            "Spain's civil-war path"
+          ]
+        },
+        {
+          "title": "Four-regime matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ITALY -> first fascist party dictatorship",
+            "GERMANY -> racial totalitarian radicalisation",
+            "JAPAN -> army-led imperial militarism",
+            "SPAIN -> civil-war authoritarianism without full fascist form"
+          ],
+          "source_references": [
+            "Common crisis, different outcomes"
+          ]
+        },
+        {
+          "title": "Democracy attacked twice",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BELOW -> mass grievance, violence and movement politics",
+            "ABOVE -> king and conservatives enable transfer",
+            "WITHIN LAW -> chancellorship and Enabling Law",
+            "RESULT -> democracy abandoned before fully destroyed"
+          ],
+          "source_references": [
+            "The democratic-system challenge"
+          ]
+        },
+        {
+          "title": "Authoritarianism answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CONTEXT -> postwar grievance and economic crisis",
+            "ROUTE -> movement pressure plus elite or military transfer",
+            "COMPARE -> ideology, base, institutions and coercion",
+            "VERDICT -> family resemblance without identity"
+          ],
+          "source_references": [
+            "Common crisis, different outcomes"
+          ]
+        }
+      ]
+    }
+  ]
+}

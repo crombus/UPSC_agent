@@ -1,0 +1,1205 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Science-and-Technology-Topics-01-05-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Science-and-Technology-Topics-06-10-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Science-and-Technology-Topics-11-15-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Science-and-Technology-Topics-16-20-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Science-and-Technology-Topics-21-25-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Science-and-Technology-Topics-26-26-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-01-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-02-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-03-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-04-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-05-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-06-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-07-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-08-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-09-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-10-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-11-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-12-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-13-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-14-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-15-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-16-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-17-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-18-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-19-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-20-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-21-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-22-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-23-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-24-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-25-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-26-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-01\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-01\science-and-technology-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-01\science-and-technology-01-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\science-and-technology-02-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\science-and-technology-02-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-03\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-03\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-03\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-03\science-and-technology-03-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-03\science-and-technology-03-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-04\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-04\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-04\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-04\science-and-technology-04-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-04\science-and-technology-04-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-05\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-05\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-05\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-05\science-and-technology-05-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-05\science-and-technology-05-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-06\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-06\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-06\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-06\science-and-technology-06-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-06\science-and-technology-06-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-07\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-07\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-07\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-07\science-and-technology-07-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-07\science-and-technology-07-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-08\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-08\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-08\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-08\science-and-technology-08-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-08\science-and-technology-08-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-09\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-09\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-09\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-09\science-and-technology-09-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-09\science-and-technology-09-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-10\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-10\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-10\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-10\science-and-technology-10-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-10\science-and-technology-10-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-11\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-11\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-11\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-11\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-11\science-and-technology-11-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-11\science-and-technology-11-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-12\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-12\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-12\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-12\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-12\science-and-technology-12-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-12\science-and-technology-12-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-13\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-13\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-13\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-13\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-13\science-and-technology-13-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-13\science-and-technology-13-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-14\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-14\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-14\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-14\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-14\science-and-technology-14-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-14\science-and-technology-14-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-15\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-15\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-15\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-15\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-15\science-and-technology-15-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-15\science-and-technology-15-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-16\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-16\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-16\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-16\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-16\science-and-technology-16-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-16\science-and-technology-16-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-17\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-17\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-17\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-17\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-17\science-and-technology-17-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-17\science-and-technology-17-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-18\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-18\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-18\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-18\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-18\science-and-technology-18-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-18\science-and-technology-18-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-19\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-19\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-19\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-19\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-19\science-and-technology-19-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-19\science-and-technology-19-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-20\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-20\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-20\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-20\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-20\science-and-technology-20-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-20\science-and-technology-20-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-21\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-21\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-21\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-21\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-21\science-and-technology-21-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-21\science-and-technology-21-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-22\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-22\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-22\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-22\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-22\science-and-technology-22-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-22\science-and-technology-22-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-23\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-23\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-23\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-23\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-23\science-and-technology-23-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-23\science-and-technology-23-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-24\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-24\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-24\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-24\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-24\science-and-technology-24-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-24\science-and-technology-24-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-25\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-25\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-25\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-25\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-25\science-and-technology-25-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-25\science-and-technology-25-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-26\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-26\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-26\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-26\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-26\science-and-technology-26-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-26\science-and-technology-26-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Science-and-Technology-Subject-Completion-2026-09-04.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Science and Technology\INDEX.md
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\01-Space-Programme-842790e5-Launch-Vehicles\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\03-Human-Spaceflight-cd70c10a-Missions\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\04-Nuclear-Power-and-the-Three-Stage-Programme\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\05-Nuclear-Fusion-and-ITER\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\06-Defence-R-and-D-DRDO-and-Missile-Systems\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\07-Defence-d1f18203-and-Procurement\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\08-Digital-India-and-India-Stack-UPI-Aadhaar\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\09-Artificial-Intelligence-Governance-and-IndiaAI\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\10-National-Quantum-Mission-and-Quantum-Technology\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\11-Semiconductor-f2f24949-Manufacturing\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\12-Data-Protection-DPDP-Act-and-Cybersecurity\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\13-Biotechnology-Fundamentals-and-DBT-Missions\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\14-Genetic-Engineering-GM-Crops-and-CRISPR\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\15-Vaccines-Monoclonal-Antibodies-and-Biopharma\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\16-Nanotechnology-and-Applications\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\17-Intellectual-Property-Rights-and-Patents\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\19-Drones-UAVs-and-Robotics-Policy\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\20-Emerging-480430cc-Critical-Minerals\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\21-General-Science-Physics-Fundamentals\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\22-General-Science-Chemistry-Fundamentals\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\23-General-Science-Biology-and-Physiology\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\24-S-and-T-Institutions-DST-CSIR-ANRF\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\25-Computing-dace250e-and-Cloud\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\26-Scientific-fcde18aa-and-Scientists\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-01\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-03\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-04\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-05\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-06\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-07\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-08\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-09\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-10\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-11\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-12\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-13\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-14\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-15\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-16\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-17\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-18\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-19\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-20\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-21\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-22\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-23\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-24\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-25\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-26\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\science-and-technology-01_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\science-and-technology-01_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\science-and-technology-02_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\science-and-technology-02_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\science-and-technology-03_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\science-and-technology-03_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\science-and-technology-04_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\science-and-technology-04_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\science-and-technology-05_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\science-and-technology-05_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\science-and-technology-06_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\science-and-technology-06_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\science-and-technology-07_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\science-and-technology-07_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\science-and-technology-08_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\science-and-technology-08_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\science-and-technology-09_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\science-and-technology-09_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\science-and-technology-10_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\science-and-technology-10_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\science-and-technology-11_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\science-and-technology-11_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\science-and-technology-12_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\science-and-technology-12_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\science-and-technology-13_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\science-and-technology-13_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\science-and-technology-14_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\science-and-technology-14_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\science-and-technology-15_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\science-and-technology-15_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\science-and-technology-16_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\science-and-technology-16_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\science-and-technology-17_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\science-and-technology-17_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\science-and-technology-18_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\science-and-technology-18_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\science-and-technology-19_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\science-and-technology-19_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\science-and-technology-20_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\science-and-technology-20_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\science-and-technology-21_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\science-and-technology-21_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\science-and-technology-22_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\science-and-technology-22_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\science-and-technology-23_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\science-and-technology-23_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\science-and-technology-24_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\science-and-technology-24_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\science-and-technology-25_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\science-and-technology-25_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\science-and-technology-26_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\science-and-technology-26_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\validation\workbook-visual-audit-map.json
+notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_science_and_technology_deep_review.py
+tools\test_export_flow_learning_library.py
+tools\test_regenerate_science_and_technology_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\science-and-technology-01_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-01\g3\science-and-technology-01_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\science-and-technology-02_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g2\science-and-technology-02_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\science-and-technology-03_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-03\g2\science-and-technology-03_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\science-and-technology-04_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-04\g2\science-and-technology-04_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\science-and-technology-05_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-05\g2\science-and-technology-05_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\science-and-technology-06_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-06\g2\science-and-technology-06_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\science-and-technology-07_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-07\g2\science-and-technology-07_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\science-and-technology-08_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-08\g2\science-and-technology-08_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\science-and-technology-09_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-09\g2\science-and-technology-09_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\science-and-technology-10_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-10\g2\science-and-technology-10_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\science-and-technology-11_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-11\g2\science-and-technology-11_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\science-and-technology-12_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-12\g2\science-and-technology-12_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\science-and-technology-13_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-13\g2\science-and-technology-13_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\science-and-technology-14_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-14\g2\science-and-technology-14_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\science-and-technology-15_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-15\g2\science-and-technology-15_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\science-and-technology-16_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-16\g2\science-and-technology-16_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\science-and-technology-17_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-17\g2\science-and-technology-17_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\science-and-technology-18_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-18\g2\science-and-technology-18_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\science-and-technology-19_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-19\g2\science-and-technology-19_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\science-and-technology-20_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-20\g2\science-and-technology-20_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\science-and-technology-21_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-21\g2\science-and-technology-21_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\science-and-technology-22_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-22\g2\science-and-technology-22_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\science-and-technology-23_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-23\g2\science-and-technology-23_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\science-and-technology-24_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-24\g2\science-and-technology-24_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\science-and-technology-25_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-25\g2\science-and-technology-25_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\science-and-technology-26_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-26\g2\science-and-technology-26_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\manifests\exports\deep-review-tracker-sync-2026-08-31.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-26-7f009cf2175b-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-26-7f009cf2175b.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04.json
+upsc-ai-kit\manifests\exports\science-and-technology-01-learner-v2-g3-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-01-learner-v2-g3-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-01-learner-v2-g3-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-02-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-02-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-02-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-03-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-03-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-03-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-04-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-04-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-04-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-05-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-05-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-05-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-06-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-06-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-06-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-07-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-07-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-07-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-08-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-08-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-08-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-09-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-09-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-09-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-10-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-10-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-10-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-11-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-11-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-11-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-12-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-12-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-12-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-13-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-13-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-13-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-14-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-14-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-14-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-15-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-15-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-15-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-16-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-16-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-16-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-17-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-17-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-17-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-18-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-18-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-18-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-19-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-19-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-19-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-20-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-20-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-20-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-21-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-21-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-21-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-22-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-22-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-22-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-23-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-23-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-23-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-24-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-24-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-24-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-25-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-25-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-25-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-26-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-26-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-26-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-deep-review-2026-09-04-changed-files.nul
+upsc-ai-kit\manifests\exports\science-and-technology-deep-review-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-deep-review-reconciliation-2026-09-04.json
+upsc-ai-kit\manifests\exports\science-and-technology-deep-review-validation-2026-09-04.json
+upsc-ai-kit\manifests\exports\science-and-technology-live-status-snapshot-2026-09-04.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-01-deep-review-2026-09-04-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-02-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-03-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-04-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-05-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-06-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-07-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-08-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-09-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-10-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-11-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-12-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-13-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-14-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-15-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-16-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-17-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-18-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-19-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-20-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-21-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-22-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-23-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-24-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-25-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-26-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-01-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-02-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-03-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-05-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-06-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-07-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-08-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-09-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-10-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-11-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-12-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-13-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-14-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-15-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-16-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-17-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-18-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-19-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-20-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-21-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-22-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-23-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-24-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-25-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-26-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-01-g3.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-02-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-03-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-04-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-05-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-06-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-07-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-08-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-09-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-10-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-11-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-12-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-13-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-14-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-15-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-16-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-17-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-18-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-19-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-20-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-21-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-22-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-23-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-24-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-25-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-26-g2.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

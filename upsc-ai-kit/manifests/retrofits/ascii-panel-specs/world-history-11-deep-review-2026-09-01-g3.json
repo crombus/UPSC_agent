@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-11",
+      "display_title": "International Relations 1919-39",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "League promise and machinery",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "AIM -> collective security and cooperation",
+            "ASSEMBLY/COUNCIL -> political deliberation",
+            "COURT/SECRETARIAT -> legal and administrative work",
+            "COMMISSIONS -> labour, refugees, health and mandates",
+            "MUST REMEMBER: League formation (1920), Washington, Dawes, Locarno, Kellogg-Briand, Young Plan",
+            "  and conditional reconciliation precede Depression, Manchuria, Abyssinia, Rhineland, Spain,",
+            "  Anschluss, Munich, Prague and the Nazi-Soviet Pact.",
+            "MUST REMEMBER: League formation (1920), Washington, Dawes, Locarno, Kellogg-Briand, Young Plan",
+            "  and conditional reconciliation precede Depression, Manchuria, Abyssinia, Rhineland, Spain,",
+            "  Anschluss, Munich, Prague and the Nazi-Soviet Pact."
+          ],
+          "source_references": [
+            "League aims and operating machinery",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "League's mixed record",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SUCCESS -> Aaland, Saar, Mosul and social work",
+            "WEAKNESS -> no army and unanimity",
+            "ABSENCE -> USA outside; Germany and USSR late",
+            "VERDICT -> administration stronger than enforcement"
+          ],
+          "source_references": [
+            "League aims and operating machinery",
+            "Why collective security lacked force",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "1920s recovery ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1921-22 -> Washington naval easing",
+            "1924 -> Dawes credit and Ruhr withdrawal",
+            "1925-26 -> Locarno and Germany in League",
+            "1928-29 -> Kellogg-Briand and Young Plan"
+          ],
+          "source_references": [
+            "Washington and the limited Pacific easing",
+            "Dawes credit and Ruhr recovery",
+            "Locarno's western guarantee",
+            "Kellogg-Briand and Young Plan",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Locarno's geographic flaw",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WEST -> German frontiers guaranteed",
+            "EAST -> German frontiers not guaranteed",
+            "PROSPERITY -> American credit supports confidence",
+            "RISK -> eastern revisionism remains open"
+          ],
+          "source_references": [
+            "Locarno's western guarantee",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Depression transmission",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "US CREDIT WITHDRAWS -> German recovery contracts",
+            "UNEMPLOYMENT -> democratic legitimacy erodes",
+            "RADICAL REGIMES -> revisionist policy strengthens",
+            "COLLECTIVE SECURITY -> willingness to enforce falls"
+          ],
+          "source_references": [
+            "Depression destroys the Locarno base",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "League-breaking crises",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931 -> Manchuria establishes impunity",
+            "1935 -> Abyssinia exposes weak sanctions",
+            "1935 -> naval agreement breaks Stresa unity",
+            "1936 -> Rhineland risk succeeds"
+          ],
+          "source_references": [
+            "Manchuria and the lesson of impunity",
+            "Abyssinia and League discredit",
+            "Separate bargains and Rhineland risk",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Aggressor-learning mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ACTION -> treaty or frontier challenged",
+            "RESPONSE -> protest without effective force",
+            "LESSON -> cost of next move appears lower",
+            "RESULT -> revision escalates from test to conquest"
+          ],
+          "source_references": [
+            "Abyssinia and League discredit",
+            "Failure-of-order verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "1938 concession sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ANSCHLUSS -> Austria absorbed",
+            "MUNICH -> Sudetenland conceded",
+            "EXCLUSION -> Czechoslovakia and USSR absent",
+            "PRAGUE 1939 -> non-German territory seized"
+          ],
+          "source_references": [
+            "Anschluss and cumulative concession",
+            "Munich and excluded states",
+            "Prague, pact and Poland",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Appeasement on its own terms",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RATIONALE -> war memory and incomplete rearmament",
+            "ASSUMPTION -> grievances are finite",
+            "FAILURE -> concessions weaken deterrence",
+            "TEST -> Prague disproves the assumption"
+          ],
+          "source_references": [
+            "Munich and excluded states",
+            "Failure-of-order verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Road to Poland",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PRAGUE -> appeasement rationale collapses",
+            "NAZI-SOVIET PACT -> eastern obstacle removed",
+            "POLAND -> Germany invades",
+            "BRITAIN/FRANCE -> declare war",
+            "CLOSE DISTINCTION: Institutional design weaknesses and member-state choices must be separated:",
+            "  technical and humanitarian work could succeed while sanctions and collective enforcement",
+            "  failed.",
+            "CLOSE DISTINCTION: Institutional design weaknesses and member-state choices must be separated:",
+            "  technical and humanitarian work could succeed while sanctions and collective enforcement",
+            "  failed."
+          ],
+          "source_references": [
+            "Prague, pact and Poland",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Design versus choice",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DESIGN -> unanimity, no army, incomplete membership",
+            "CHOICE -> members refuse sanctions and military risk",
+            "ECONOMY -> Depression narrows cooperation",
+            "VERDICT -> weaknesses become fatal through decisions",
+            "EVIDENCE LIMIT: Appeasement should be assessed through war memory, readiness and",
+            "  finite-grievance assumptions, then tested against deterrence erosion and Prague's",
+            "  destruction of the self-determination defence.",
+            "EVIDENCE LIMIT: Appeasement should be assessed through war memory, readiness and",
+            "  finite-grievance assumptions, then tested against deterrence erosion and Prague's",
+            "  destruction of the self-determination defence."
+          ],
+          "source_references": [
+            "Why collective security lacked force",
+            "Failure-of-order verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Interwar answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PROMISE -> League and collective security",
+            "RECOVERY -> Dawes, Locarno and conditional stability",
+            "BREAKDOWN -> Depression, Manchuria and Abyssinia",
+            "COLLAPSE -> appeasement, Prague, pact and Poland"
+          ],
+          "source_references": [
+            "Failure-of-order verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g3\\world-history-11_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

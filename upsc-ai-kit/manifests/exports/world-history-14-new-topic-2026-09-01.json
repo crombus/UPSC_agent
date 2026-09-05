@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "topic_key": "world-history-14",
+  "subject": "World-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "world-history-14",
+  "title": "Second World War",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Second World War",
+  "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-14_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-14_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\14_Second-World-War_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md"
+  ],
+  "local_ocr_sources": [
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://www.roberthjackson.org/80-years-of-nuremberg-an-international-reflection/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+    "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+    "upsc-ai-kit\\knowledge\\World-History\\14_Second-World-War_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-14_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-14_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-13-14-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-14.json",
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. Probable world-war questions remain original practice.",
+  "current_linkage_note": "The Robert H. Jackson Center's international programme running from November 2025 into 2026 marks eighty years of Nuremberg and examines accountability, war crimes, crimes against humanity and genocide. This supplies a narrow current link to the Second World War's legal aftermath, not new evidence about the war's campaigns.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

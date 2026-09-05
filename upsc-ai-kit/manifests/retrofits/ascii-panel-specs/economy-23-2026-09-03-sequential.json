@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 23",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-23",
+      "display_title": "Poverty, Inequality, Social Sector and Inclusive Growth",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Poverty and inequality map",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "POVERTY -> threshold shortfall",
+            "INEQUALITY -> distributional dispersion",
+            "BOTH can move differently",
+            "STATE metric + data base"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Poverty-measure ladder",
+          "structural_type": "measurement-ladder",
+          "ascii_lines": [
+            "HEADCOUNT -> incidence",
+            "POVERTY GAP -> depth",
+            "SEVERITY -> distribution among poor",
+            "MPI -> multiple deprivations"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Methodology clock",
+          "structural_type": "vintage-strip",
+          "ascii_lines": [
+            "LINE + BASKET",
+            "PRICE BASIS + SURVEY",
+            "REFERENCE PERIOD",
+            "COMPARABILITY before trend"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Committee distinction",
+          "structural_type": "comparison-board",
+          "ascii_lines": [
+            "TENDULKAR -> one methodology vintage",
+            "RANGARAJAN -> revised basket + threshold",
+            "NO TIMELESS current line",
+            "ATTRIBUTE every estimate"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Lorenz and Gini map",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "PERFECT-EQUALITY LINE",
+            "LORENZ CURVE",
+            "AREA -> GINI summary",
+            "INCOME / CONSUMPTION / WEALTH differ"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "MPI construction rail",
+          "structural_type": "formula-flow",
+          "ascii_lines": [
+            "12 INDICATORS",
+            "-> deprivation score",
+            "-> H headcount + A intensity",
+            "-> MPI = H x A"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "MPI vintage boundary",
+          "structural_type": "status-board",
+          "ascii_lines": [
+            "NFHS-5 2019-21 -> observed base",
+            "2022-23 -> projected estimate",
+            "NOT fresh survey",
+            "COMPARE editions cautiously"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Inclusive-growth engine",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "PRODUCTIVE JOBS + ASSETS",
+            "QUALITY HEALTH + EDUCATION",
+            "REDISTRIBUTION + PROTECTION",
+            "CAPABILITY + MOBILITY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Social-spending results chain",
+          "structural_type": "results-chain",
+          "ascii_lines": [
+            "ALLOCATION",
+            "-> RELEASE -> SPENDING",
+            "-> SERVICE ACCESS + QUALITY",
+            "-> HOUSEHOLD OUTCOME"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Protection architecture",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "ASSISTANCE -> need/category",
+            "INSURANCE -> pooled risk",
+            "UNIVERSAL SERVICES -> broad access",
+            "TARGETING -> exclusion risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Named instrument boundary",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MGNREGA -> work guarantee",
+            "NFSA -> food entitlement",
+            "HEALTH INSURANCE -> hospitalisation protection",
+            "FINANCE -> access + usage + quality"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        },
+        {
+          "title": "Inclusive-growth answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "FIX metric + vintage",
+            "TRACE jobs + services + transfers",
+            "DISAGGREGATE groups + places",
+            "CONCLUDE capability + resilience"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

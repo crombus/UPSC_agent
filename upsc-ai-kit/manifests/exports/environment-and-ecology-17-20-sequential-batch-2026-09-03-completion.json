@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "batch_id": "environment-and-ecology-17-20-sequential-batch-2026-09-03",
+  "completed_on": "2026-09-03",
+  "subject": {
+    "key": "Environment-and-Ecology",
+    "display_name": "Environment and Ecology"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "manifest": "upsc-ai-kit\\manifests\\v2\\environment-and-ecology--subject-wide-syllabus.json",
+    "topic_count": 28,
+    "status": "materialized; 20 generated/unapproved/passed; 8 planned"
+  },
+  "execution": "strict-sequential-single-writer",
+  "generation_history_note": "Topics 17-20 were first finalized as g1. A package audit found session-title-to-anchor misalignment in Topics 17 and 18 and an editorial-title transform that demoted Topic 20 Session 15. Those three topics were corrected append-only as g2; all g1 records and artifacts remain preserved. Topic 19 remained valid at g1.",
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-17",
+      "display_title": "Climate Change Science Greenhouse Effect",
+      "generation": 2,
+      "record_id": "environment-and-ecology-17:learner-v2:g2",
+      "supersedes": "environment-and-ecology-17:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-17\\g2\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-17\\g2\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-17\\g2\\environment-and-ecology-17_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 79,
+      "workbook_pages": 41,
+      "notes_bookmarks": 119,
+      "workbook_bookmarks": 94,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-17\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-18",
+      "display_title": "IPCC Assessment Reports",
+      "generation": 2,
+      "record_id": "environment-and-ecology-18:learner-v2:g2",
+      "supersedes": "environment-and-ecology-18:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-18\\g2\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-18\\g2\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-18\\g2\\environment-and-ecology-18_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 72,
+      "workbook_pages": 35,
+      "notes_bookmarks": 117,
+      "workbook_bookmarks": 92,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-18\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-19",
+      "display_title": "UNFCCC COP Kyoto Paris Agreement",
+      "generation": 1,
+      "record_id": "environment-and-ecology-19:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-19\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-19\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-19\\environment-and-ecology-19_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 80,
+      "workbook_pages": 40,
+      "notes_bookmarks": 119,
+      "workbook_bookmarks": 94,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-19\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-20",
+      "display_title": "India Climate Policy NAPCC Panchamrit LTLEDS",
+      "generation": 2,
+      "record_id": "environment-and-ecology-20:learner-v2:g2",
+      "supersedes": "environment-and-ecology-20:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-20\\g2\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-20\\g2\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-20\\g2\\environment-and-ecology-20_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 79,
+      "workbook_pages": 40,
+      "notes_bookmarks": 117,
+      "workbook_bookmarks": 92,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-20\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    }
+  ],
+  "aggregate": {
+    "topic_count": 4,
+    "fact_anchors": 80,
+    "sessions": 60,
+    "mcqs": 320,
+    "mcq_distribution": {
+      "A": 80,
+      "B": 80,
+      "C": 80,
+      "D": 80
+    },
+    "original_mains": 24,
+    "original_mains_distribution": {
+      "10_mark": 8,
+      "15_mark": 8,
+      "20_mark": 8
+    },
+    "ascii_panels": 48,
+    "graphical_stages": 52,
+    "notes_pages": 310,
+    "workbook_pages": 156,
+    "learning_pdf_pages": 466,
+    "notes_bookmarks": 472,
+    "workbook_bookmarks": 372,
+    "graphical_poster_pages": 4,
+    "graphical_tiled_pages": 16
+  },
+  "tests": {
+    "passed": 123,
+    "passing_commands": [
+      "python -m unittest tools.test_generate_environment_and_ecology_01_sequential tools.test_generate_environment_and_ecology_02_sequential tools.test_generate_environment_and_ecology_03_sequential tools.test_generate_environment_and_ecology_04_sequential tools.test_generate_environment_and_ecology_05_sequential tools.test_generate_environment_and_ecology_06_sequential tools.test_generate_environment_and_ecology_07_sequential tools.test_generate_environment_and_ecology_08_sequential tools.test_generate_environment_and_ecology_09_sequential tools.test_generate_environment_and_ecology_10_sequential tools.test_generate_environment_and_ecology_11_sequential tools.test_generate_environment_and_ecology_12_sequential tools.test_generate_environment_and_ecology_13_sequential tools.test_generate_environment_and_ecology_14_sequential tools.test_generate_environment_and_ecology_15_sequential tools.test_generate_environment_and_ecology_16_sequential tools.test_generate_environment_and_ecology_17_sequential tools.test_generate_environment_and_ecology_18_sequential tools.test_generate_environment_and_ecology_19_sequential tools.test_generate_environment_and_ecology_20_sequential tools.test_refresh_all_v2_learning_sessions tools.test_carvaka_flowchart.GraphicalSpecTests.test_flat_repeated_closure_card_contract_is_rejected tools.test_carvaka_flowchart.GraphicalSpecTests.test_required_stage_contract_is_present"
+    ],
+    "formal_validations_passed": 4,
+    "formal_validation_scope": "latest generations 17 g2, 18 g2, 19 g1 and 20 g2 with refreshed contract, PDFs, tracker paths and manual ASCII specs",
+    "workflow_failures_and_recovery": [
+      "Topic 17 first stage attempt failed because future Topic 18-20 manual ASCII filenames had been registered before their files existed; the registry was corrected and the same Topic 17 generation staged successfully without regeneration.",
+      "Topic 19 first stage attempt failed the refreshed definition validator because the session titles were not aligned with the fixed anchor plan; the authoring data was corrected, regenerated and then passed.",
+      "Post-final package audit detected title-anchor misalignment in Topics 17 and 18 and Session 15 demotion in Topic 20; append-only g2 generations corrected them."
+    ],
+    "windows_lock_retry": "No Windows lock retry was required in this batch.",
+    "unrelated_existing_failures_not_repaired": []
+  },
+  "approval": "false for every latest generated topic; explicit topic approval still required",
+  "section_progress": {
+    "approved": 0,
+    "generated_unapproved": 20,
+    "incomplete": 0,
+    "planned": 8
+  },
+  "changed_files_ledger": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-17-20-sequential-batch-2026-09-03-changed-files.txt",
+  "changed_files_count": 253
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-26T13:49:31+00:00",
+  "status": "passed",
+  "errors": [],
+  "checks": {
+    "exact_topic_count": true,
+    "exact_four_deliverable_directories": true,
+    "required_filenames_present": true,
+    "copied_artifact_hashes_equal": true,
+    "source_artifacts_unchanged": true,
+    "tracker_unchanged": true,
+    "no_internal_jargon_in_paths": true,
+    "no_duplicate_topic_destination": true,
+    "all_markdown_links_resolve": true,
+    "ascii_panels_complete_and_equal": true,
+    "ascii_pdf_is_standalone": true,
+    "copied_pdfs_open_no_blank_clipping_or_replacement": true,
+    "approval_pending": true,
+    "latest_tracker_graphical_and_ascii_selected": true
+  },
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "38be85300b2a9c412101d81f8be52b5212e44a4c890b7a7a1df82fc06a6c6b2f",
+    "sha256_after": "38be85300b2a9c412101d81f8be52b5212e44a4c890b7a7a1df82fc06a6c6b2f",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "links": {
+    "checked_link_count": 1185,
+    "markdown_file_count": 29,
+    "broken_links": [],
+    "passed": true
+  },
+  "library_totals": {
+    "file_count": 829,
+    "pdf_count": 490,
+    "png_count": 98,
+    "txt_count": 196,
+    "markdown_count": 29,
+    "json_count": 1,
+    "total_bytes": 960349750,
+    "by_extension": {
+      ".json": 1,
+      ".md": 29,
+      ".pdf": 490,
+      ".png": 98,
+      ".txt": 196,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-06",
+      "destination_folder": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\06-Moore-Russell-and-Early-Wittgenstein",
+      "status": "passed",
+      "pdf_page_counts": {
+        "complete_learning_session": 83,
+        "solved_practice_workbook": 35,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 10
+      },
+      "ascii": {
+        "text_panel_count": 10,
+        "pdf_panel_count": 10,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 11,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 11,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 11,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 11,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 11,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 12,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 83,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 35,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 10,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      }
+    }
+  ],
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-26.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-26-philosophy-western-06-g2-validation.json"
+}

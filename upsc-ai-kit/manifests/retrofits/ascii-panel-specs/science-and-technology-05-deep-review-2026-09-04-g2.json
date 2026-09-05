@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-05",
+      "display_title": "Nuclear Fusion and ITER",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Nuclear-process firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FISSION -> splits heavy nuclei and powers current reactors",
+            "FUSION -> combines light nuclei in experimental systems",
+            "COMMERCIAL STATUS -> fission operating, fusion not deployed",
+            "SHARED WORD NUCLEAR -> does not erase process differences",
+            "RULE -> Topic 05 cannot substitute for Topic 04"
+          ],
+          "source_references": [
+            "Fusion-fission boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "D-T energy map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DEUTERIUM + TRITIUM -> fusion reaction",
+            "HELIUM-4 / ALPHA -> charged product retained for self-heating",
+            "NEUTRON -> carries most energy out of plasma",
+            "BLANKET -> captures heat and supports fuel functions",
+            "RULE -> particle role controls engineering consequence"
+          ],
+          "source_references": [
+            "DT-reaction boundary",
+            "Alpha-neutron boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fusion-condition triangle",
+          "structural_type": "triangle",
+          "ascii_lines": [
+            "TEMPERATURE -> raises probability of overcoming repulsion",
+            "DENSITY -> supplies reacting particles",
+            "CONFINEMENT TIME -> retains energy long enough",
+            "LAWSON TRIPLE PRODUCT -> all three must combine",
+            "TRAP -> a temperature record alone proves little"
+          ],
+          "source_references": [
+            "Temperature-plasma boundary",
+            "Lawson boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Confinement comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MAGNETIC -> lower density and longer confinement",
+            "TOKAMAK -> torus with strong plasma current",
+            "STELLARATOR -> externally shaped steady-field geometry",
+            "INERTIAL -> dense target and extremely short confinement",
+            "RULE -> approach and device name are not power status"
+          ],
+          "source_references": [
+            "Magnetic-inertial boundary",
+            "Tokamak-stellarator boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Breakeven ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PLASMA Q -> fusion power divided by injected heating",
+            "Q ABOVE ONE -> plasma-level scientific threshold",
+            "ENGINEERING Q -> includes recirculating plant loads",
+            "NET ELECTRICITY -> includes thermal conversion and all consumption",
+            "COMMERCIALITY -> adds availability, cost and licensing"
+          ],
+          "source_references": [
+            "Q-plasma boundary",
+            "Engineering-breakeven boundary",
+            "DEMO-commercial boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Neutron-to-material chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "14.1 MeV NEUTRON -> escapes magnetic confinement",
+            "BLANKET -> receives energy and may breed tritium",
+            "STRUCTURE -> displacement damage and transmutation",
+            "ACTIVATION -> radioactive material-management issue",
+            "LIFETIME -> separate engineering feasibility constraint"
+          ],
+          "source_references": [
+            "Alpha-neutron boundary",
+            "Materials boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Tritium fuel loop",
+          "structural_type": "cyclic-process",
+          "ascii_lines": [
+            "D-T PLASMA -> consumes tritium",
+            "FUSION NEUTRON -> enters lithium-bearing blanket",
+            "LITHIUM REACTION -> produces new tritium",
+            "EXTRACTION / PROCESSING -> returns usable fuel",
+            "RULE -> a test blanket is not a closed commercial cycle"
+          ],
+          "source_references": [
+            "Tritium-breeding boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Plasma exhaust path",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CORE PLASMA -> creates heat and helium ash",
+            "EDGE TRANSPORT -> moves particles and heat outward",
+            "DIVERTOR -> exhausts impurities and helium",
+            "PLASMA-FACING MATERIAL -> receives extreme heat load",
+            "RULE -> confinement success does not solve exhaust lifetime"
+          ],
+          "source_references": [
+            "Materials boundary",
+            "Divertor boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "ITER mission card",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "UNDER CONSTRUCTION -> experimental international tokamak",
+            "BURNING-PLASMA STUDY -> core scientific purpose",
+            "Q=10 DESIGN -> 500 MW fusion from 50 MW plasma heating",
+            "NO TURBINE -> no conversion to grid electricity",
+            "TEST TECHNOLOGIES -> bridge to later machines"
+          ],
+          "source_references": [
+            "ITER-purpose boundary",
+            "ITER-Q boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "India-in-ITER map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "INDIA -> one of seven ITER members",
+            "IN-KIND PACKAGES -> specified hardware and systems",
+            "IPR -> DAE-aided plasma-research institute",
+            "ITER-INDIA -> domestic procurement and delivery agency in IPR",
+            "RULE -> membership, institute, agency and package differ",
+            "MUST REMEMBER: Fusion joins light nuclei in a high-temperature plasma; confinement,..."
+          ],
+          "source_references": [
+            "Membership-contribution boundary",
+            "IPR-ITERIndia boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-05_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Domestic research devices",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ADITYA-U -> experimental tokamak and plasma campaigns",
+            "SST-1 -> superconducting long-pulse research platform",
+            "RESEARCH OUTPUT -> diagnostics, control and operating knowledge",
+            "NOT OUTPUT -> commercial fusion electricity",
+            "RULE -> experimental operation is not power generation",
+            "CLOSE DISTINCTION: Plasma Q is not engineering breakeven, tokamak is not stellarator,..."
+          ],
+          "source_references": [
+            "Domestic-device boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-05_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Fusion-readiness answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> D-T fusion plasma confinement Lawson and Q",
+            "TRACE -> alpha heating neutron blanket tritium and materials",
+            "SEPARATE -> plasma gain engineering gain and net electricity",
+            "MAP -> ITER India IPR ITER-India ADITYA-U SST-1 and DEMO",
+            "VERIFY -> dated schedule cost contribution and milestone evidence",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State quantity, device, pulse/energy..."
+          ],
+          "source_references": [
+            "Schedule-status boundary",
+            "DEMO-commercial boundary",
+            "Volatile fusion boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g2\\science-and-technology-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-05_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

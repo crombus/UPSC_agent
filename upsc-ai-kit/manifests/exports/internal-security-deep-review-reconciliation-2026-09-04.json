@@ -1,0 +1,568 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T13:14:01.664634+00:00",
+  "subject": "Internal Security",
+  "section": "Subject-wide Syllabus",
+  "represented": 12,
+  "expected": 12,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_internal_security_deep_review (cwd=tools)",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_real_authoring_generators_are_importable (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_allocation_reloads_all_three_trackers (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_answer_contract_is_exam_executable_and_specific (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_contract_enforces_internal_security_precision (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_driver_is_static_and_subprocess_backed (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_manifest_order_and_provenance_owners_are_exact (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_publication_inventory_and_counts_are_dynamic (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_review_controls_cover_all_twelve_topics (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\ntest_review_lines_and_paths_are_windows_safe (test_regenerate_internal_security_deep_review.InternalSecurityDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 1.145s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 12.216s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_selected_publication_cannot_overwrite_full_dated_manifest (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 2.719s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_flow_learning_library (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_case_year_check_does_not_rewrite_or_reject_long_approved_lines (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_deterministic_folder_and_file_naming (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_latest_record_resolution_uses_highest_validated_generation (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_long_topic_names_use_stable_bounded_output_stems (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_missing_catalogue_extended_key_uses_exact_clean_package_metadata (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_navigation_links_resolve_and_include_direct_pdf_txt_links (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_selected_export_is_byte_equal_and_exact_shape (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_selected_refresh_rebuilds_navigation_with_dynamic_count (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_subject_agnostic_resolution_uses_catalogue_subject_and_prefix (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_tracker_and_source_library_are_not_mutated (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_unknown_selected_topic_is_rejected (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.939s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 18.162s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_topic_command_catalog (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_declared_paths_exist_and_schema_parses (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_basic_advanced_pair_counted_once_and_meta_excluded (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_duplicate_topic_and_command_detection (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_exact_commands_have_no_placeholders_and_state_suffix_is_exact (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_generation_is_deterministic (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_numbered_order_subject_section_grouping_and_unicode (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_on_demand_section_manifest_semantics_are_implemented_and_documented (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_unresolved_topic_is_withheld_and_reported (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.474s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "internal-security-01",
+      "title": "Internal-Security Foundations and Governance",
+      "old_record_id": "internal-security-01:learner-v2:g2",
+      "new_record_id": "internal-security-01:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-01-learner-v2-g3-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:02:45.130017+00:00",
+      "identities": {
+        "export": "internal-security-01:learner-v2:g3",
+        "master": "internal-security-01:learner-v2:g3",
+        "review": "internal-security-01:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-02",
+      "title": "Terrorism and Counter-Terror Architecture",
+      "old_record_id": "internal-security-02:learner-v2:g1",
+      "new_record_id": "internal-security-02:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-02-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:03:27.464135+00:00",
+      "identities": {
+        "export": "internal-security-02:learner-v2:g2",
+        "master": "internal-security-02:learner-v2:g2",
+        "review": "internal-security-02:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-03",
+      "title": "Left-Wing Extremism and Integrated Response",
+      "old_record_id": "internal-security-03:learner-v2:g1",
+      "new_record_id": "internal-security-03:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-03-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:04:08.570816+00:00",
+      "identities": {
+        "export": "internal-security-03:learner-v2:g2",
+        "master": "internal-security-03:learner-v2:g2",
+        "review": "internal-security-03:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-04",
+      "title": "North-East Insurgency and Peace Processes",
+      "old_record_id": "internal-security-04:learner-v2:g1",
+      "new_record_id": "internal-security-04:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-04-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:04:50.723751+00:00",
+      "identities": {
+        "export": "internal-security-04:learner-v2:g2",
+        "master": "internal-security-04:learner-v2:g2",
+        "review": "internal-security-04:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-05",
+      "title": "Jammu & Kashmir and Cross-Border Terrorism",
+      "old_record_id": "internal-security-05:learner-v2:g1",
+      "new_record_id": "internal-security-05:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-05-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:05:32.970207+00:00",
+      "identities": {
+        "export": "internal-security-05:learner-v2:g2",
+        "master": "internal-security-05:learner-v2:g2",
+        "review": "internal-security-05:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-06",
+      "title": "Border Management and Border Area Development",
+      "old_record_id": "internal-security-06:learner-v2:g1",
+      "new_record_id": "internal-security-06:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-06-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:06:15.430744+00:00",
+      "identities": {
+        "export": "internal-security-06:learner-v2:g2",
+        "master": "internal-security-06:learner-v2:g2",
+        "review": "internal-security-06:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-07",
+      "title": "Maritime and Coastal Security",
+      "old_record_id": "internal-security-07:learner-v2:g1",
+      "new_record_id": "internal-security-07:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-07-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:06:40.782788+00:00",
+      "identities": {
+        "export": "internal-security-07:learner-v2:g2",
+        "master": "internal-security-07:learner-v2:g2",
+        "review": "internal-security-07:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-08",
+      "title": "Cyber Security, CII and Cybercrime",
+      "old_record_id": "internal-security-08:learner-v2:g1",
+      "new_record_id": "internal-security-08:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-08-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:07:05.693111+00:00",
+      "identities": {
+        "export": "internal-security-08:learner-v2:g2",
+        "master": "internal-security-08:learner-v2:g2",
+        "review": "internal-security-08:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-09",
+      "title": "Social Media, Encrypted Messaging and Information Warfare",
+      "old_record_id": "internal-security-09:learner-v2:g1",
+      "new_record_id": "internal-security-09:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-09-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:07:31.307350+00:00",
+      "identities": {
+        "export": "internal-security-09:learner-v2:g2",
+        "master": "internal-security-09:learner-v2:g2",
+        "review": "internal-security-09:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-10",
+      "title": "Terror Financing, Money Laundering and FATF",
+      "old_record_id": "internal-security-10:learner-v2:g1",
+      "new_record_id": "internal-security-10:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-10-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:08:10.734723+00:00",
+      "identities": {
+        "export": "internal-security-10:learner-v2:g2",
+        "master": "internal-security-10:learner-v2:g2",
+        "review": "internal-security-10:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-11",
+      "title": "Organised Crime, Narco-Terrorism and Trafficking",
+      "old_record_id": "internal-security-11:learner-v2:g1",
+      "new_record_id": "internal-security-11:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-11-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:08:39.495867+00:00",
+      "identities": {
+        "export": "internal-security-11:learner-v2:g2",
+        "master": "internal-security-11:learner-v2:g2",
+        "review": "internal-security-11:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "internal-security-12",
+      "title": "Security Forces, Intelligence Coordination and Rights",
+      "old_record_id": "internal-security-12:learner-v2:g1",
+      "new_record_id": "internal-security-12:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\internal-security-12-learner-v2-g2-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T13:09:03.627945+00:00",
+      "identities": {
+        "export": "internal-security-12:learner-v2:g2",
+        "master": "internal-security-12:learner-v2:g2",
+        "review": "internal-security-12:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    }
+  ],
+  "requested_topic_count": 12,
+  "live_topic_count": 12,
+  "all_subject_topic_count": 483,
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-validation.json",
+  "final_library_topic_count": 483,
+  "full_library_complete_live_key_set": true,
+  "canonical_source_change_status": "unchanged_hash_locked",
+  "canonical_source_owner_count": 36,
+  "status": "passed",
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\internal-security-deep-review-2026-09-04-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\internal-security-deep-review-2026-09-04-changed-files.nul",
+  "changed_file_inventory_count": 572,
+  "changed_file_inventory_all_paths_exist": true,
+  "changed_file_inventory_utf8_nul_safe": true,
+  "hard_gate_failure_count": 0,
+  "blockers": [],
+  "stale_non_four_item_fixture_records_removed": [
+    "essay-01:learner-v2:g3",
+    "essay-02:learner-v2:g2",
+    "essay-03:learner-v2:g2",
+    "essay-04:learner-v2:g2",
+    "essay-subject-wide-master:learner-v2:g1",
+    "qualifying-english-subject-master:learner-v2:g1",
+    "qualifying-hindi-subject-master:learner-v2:g1"
+  ]
+}

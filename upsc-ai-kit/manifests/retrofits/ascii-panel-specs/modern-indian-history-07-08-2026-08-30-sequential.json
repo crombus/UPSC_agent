@@ -1,0 +1,376 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Modern Indian History learner-v2 Topics 07-08",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-07",
+      "display_title": "Economic Impact of British Rule (Drain, Deindustrialisation, Land Revenue, Famines)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\07_Economic-Impact-of-British-Rule-Drain-Deindustrialisation-Land-Revenue-Famines_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Extraction became structural underdevelopment",
+          "structural_type": "causal-ladder",
+          "ascii_lines": [
+            "COMPANY PLUNDER -> early direct extraction after conquest and Diwani",
+            "SYSTEMIC DRAIN -> home charges, remittances, profits, pensions and imperial costs",
+            "STRUCTURAL CHANGE -> revenue pressure, deindustrialisation and dependent trade",
+            "OUTCOME -> poverty and modernisation without autonomous development."
+          ],
+          "source_references": [
+            "1. Periodisation and the extraction-to-underdevelopment frame",
+            "21. Comparative synthesis: extraction, transformation and colonial modernisation"
+          ]
+        },
+        {
+          "title": "Three land-revenue systems compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PERMANENT -> zamindari estate | fixed in perpetuity | Bengal-Bihar-Orissa",
+            "RYOTWARI -> individual ryot | periodic revision | Madras-Bombay",
+            "MAHALWARI -> village or mahal | periodic revision | north-west and Punjab",
+            "COMMON CORE -> cash demand and secure colonial revenue, with different risk carriers."
+          ],
+          "source_references": [
+            "3. The Permanent Settlement, 1793: Cornwallis, zamindar property and fixed demand",
+            "4. The Ryotwari settlement: Read, Munro, and direct settlement with uncertainty",
+            "5. The Mahalwari settlement: Holt Mackenzie's framework and Bird's implementation",
+            "6. Comparative synthesis of the three land-revenue systems"
+          ]
+        },
+        {
+          "title": "Commercialisation shifted risk downward",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "EXPORT DEMAND / PLANTER ADVANCE -> cash-crop commitment",
+            "REVENUE CALENDAR + CREDIT -> dependence on moneylender or planter",
+            "PRICE / HARVEST SHOCK -> cultivator bears the loss while claims remain due",
+            "RESULT -> indebtedness, land alienation and differentiated agrarian protest."
+          ],
+          "source_references": [
+            "7. Commercialisation: crops, coercion, credit and risk",
+            "19. Poverty, demography, indebtedness and ecological/social variation"
+          ]
+        },
+        {
+          "title": "Indigo, Pabna and Deccan were not one movement",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "INDIGO 1859-60 -> European planters -> collective refusal to sow",
+            "PABNA FROM 1873 -> zamindars -> leagues, rent resistance and litigation",
+            "DECCAN 1875 -> moneylenders -> seizure and destruction of debt bonds",
+            "EXAM RULE -> match target, grievance and repertoire before comparing outcomes."
+          ],
+          "source_references": [
+            "8. Case studies in economic protest: Indigo, Pabna, Deccan"
+          ]
+        },
+        {
+          "title": "Deindustrialisation was a causal web",
+          "structural_type": "causal-web",
+          "ascii_lines": [
+            "ENGLISH MECHANISATION -> cheaper factory cloth",
+            "TARIFF ASYMMETRY -> unequal access to British and Indian markets",
+            "COURT DECLINE -> lost elite demand for fine crafts",
+            "RAIL PENETRATION -> imports reach interior markets",
+            "RESULT -> uneven output and employment decline, not total craft extinction."
+          ],
+          "source_references": [
+            "9. The deindustrialisation causal web",
+            "11. Artisan displacement, de-urbanisation and the limits of \"deindustrialisation\""
+          ]
+        },
+        {
+          "title": "The 2024 how-far answer",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "NECESSARY CONDITION -> Industrial Revolution lowered British production costs",
+            "TRANSMISSION MECHANISMS -> tariffs, political power, court decline and rail access",
+            "VARIATION -> region, craft and timing prevent a total-extinction claim",
+            "VERDICT -> substantially responsible, but not sufficient without colonial policy."
+          ],
+          "source_references": [
+            "10. The 2024 \"how far\" demand: Industrial Revolution and Indian handicrafts"
+          ]
+        },
+        {
+          "title": "Drain theory names channels, not an invented total",
+          "structural_type": "channel-map",
+          "ascii_lines": [
+            "INDIAN REVENUE -> home charges and India Office costs",
+            "OFFICIAL INCOME -> salaries, pensions and private remittances",
+            "BRITISH CAPITAL -> profits, interest and guaranteed returns",
+            "IMPERIAL PROCUREMENT / WAR -> stores and external costs charged to India",
+            "RULE -> explain mechanism and significance; do not invent a percentage."
+          ],
+          "source_references": [
+            "12. Drain theory: plunder, systemic drain and its channels",
+            "13. Naoroji, R.C. Dutt and M.G. Ranade: the nationalist economic critique"
+          ]
+        },
+        {
+          "title": "Export surplus could finance transfer",
+          "structural_type": "process-map",
+          "ascii_lines": [
+            "INDIAN EXPORTS EXCEED VISIBLE IMPORTS -> apparent trade surplus",
+            "COUNCIL-BILL MECHANISM -> sterling claims and rupee payments connect the accounts",
+            "HOME CHARGES / REMITTANCES -> surplus services external obligations",
+            "ANALYTICAL POINT -> a surplus need not mean resources remained available in India."
+          ],
+          "source_references": [
+            "14. Export surplus, Council Bills and the colonial fiscal-financial system"
+          ]
+        },
+        {
+          "title": "Infrastructure had a dual effect",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "IMPERIAL DESIGN -> troops, administration, raw-material export and import reach",
+            "FINANCING -> private British capital protected through the Guarantee System",
+            "UNINTENDED EFFECT -> market integration and later nationalist mobility",
+            "SAFE VERDICT -> modern infrastructure without autonomous developmental priority."
+          ],
+          "source_references": [
+            "15. Infrastructure: railways, ports, roads, telegraph, canals and forests"
+          ]
+        },
+        {
+          "title": "Colonial industrialisation was real but constrained",
+          "structural_type": "balance-map",
+          "ascii_lines": [
+            "GROWTH -> plantations, jute, cotton, coal, mines and later steel",
+            "OWNERSHIP -> foreign capital remained powerful in key sectors",
+            "CONSTRAINTS -> finance, policy bias, technology and narrow domestic demand",
+            "VERDICT -> industry developed unevenly; deindustrialisation did not mean zero industry."
+          ],
+          "source_references": [
+            "16. Colonial industrialisation: plantations, mines and modern industry"
+          ]
+        },
+        {
+          "title": "Famine was shock plus structural amplification",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "CLIMATE / HARVEST SHOCK -> immediate scarcity risk",
+            "REVENUE RIGIDITY + COMMERCIALISATION -> weak household buffers",
+            "PRICE-LED TRANSPORT + LAISSEZ-FAIRE RELIEF -> entitlement failure",
+            "ADMINISTRATIVE DELAY -> mortality and distress deepen",
+            "RULE -> avoid both climate-only and export-only explanations."
+          ],
+          "source_references": [
+            "17. Famine causation: climate shock versus entitlement and governance",
+            "18. The famine case sequence and colonial famine policy"
+          ]
+        },
+        {
+          "title": "Historiography and final synthesis",
+          "structural_type": "synthesis",
+          "ascii_lines": [
+            "NATIONALIST -> drain and deindustrialisation explain poverty",
+            "STRUCTURAL -> dependent integration into world capitalism",
+            "REVISIONIST -> disputes scale and measurement, not all structural change",
+            "REGIONAL -> outcomes varied by place, sector and social group",
+            "SYNTHESIS -> extraction and transformation must be assessed together."
+          ],
+          "source_references": [
+            "20. Historiography of the colonial economy",
+            "21. Comparative synthesis: extraction, transformation and colonial modernisation",
+            "22. Topic boundaries and a bounded current link"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-08",
+      "display_title": "Administrative Organisation (Civil Services, Army, Police, Judiciary, Rule of Law)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\08_Administrative-Organisation-Civil-Services-Army-Police-Judiciary-Rule-of-Law_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The colonial state's four-pillar machine",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "CIVIL SERVICE -> command, revenue and district administration",
+            "ARMY -> conquest, frontier defence and final coercive guarantee",
+            "POLICE -> surveillance, collection support and public order",
+            "JUDICIARY / CODES -> predictable legality and imperial legitimacy",
+            "COMMON PURPOSE -> efficient rule without representative accountability."
+          ],
+          "source_references": [
+            "1. What Topic 08 owns: the colonial state's four-pillar machine",
+            "2. Why administration mattered: revenue, order, imperial control, not representation"
+          ]
+        },
+        {
+          "title": "Professionalisation and exclusion grew together",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "HIGH SALARIES + RULES -> less private trade and a more disciplined service",
+            "COVENANTED POSTS -> superior command reserved mainly for Europeans",
+            "DISTRICT AUTHORITY -> collector and magistrate become the local state",
+            "VERDICT -> administrative capacity strengthened through racial closure."
+          ],
+          "source_references": [
+            "3. Cornwallis and the covenanted service: professionalisation plus exclusion"
+          ]
+        },
+        {
+          "title": "Training to competition did not equal Indianisation",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FORT WILLIAM -> language and administrative training in India",
+            "HAILEYBURY -> Company training in Britain before open competition",
+            "1853 COMPETITION -> formal merit principle; London access barriers remain",
+            "1878-79 STATUTORY SERVICE -> limited nominated route",
+            "1886 AITCHISON -> classification and Indianisation remain contested."
+          ],
+          "source_references": [
+            "4. Fort William, Haileybury, and the training/exclusion pipeline",
+            "5. Charter Act 1853 and the London exam: open competition without Indianisation",
+            "6. Statutory Civil Service, Aitchison, and the politics of Indianisation"
+          ]
+        },
+        {
+          "title": "The district state concentrated authority",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GOVERNMENT OF INDIA / PROVINCE -> policy and supervision",
+            "DISTRICT COLLECTOR-MAGISTRATE -> revenue plus executive-magisterial command",
+            "SUPERINTENDENT OF POLICE -> coercive hierarchy under executive influence",
+            "THANA / DAROGA -> local surveillance and enforcement",
+            "COURTS -> legality around the same district-centred state."
+          ],
+          "source_references": [
+            "2. Why administration mattered: revenue, order, imperial control, not representation",
+            "13. Collector-magistrate-SP interlock: how revenue, police, and law fused on the ground"
+          ]
+        },
+        {
+          "title": "The army before and after 1857",
+          "structural_type": "before-after",
+          "ascii_lines": [
+            "BEFORE 1857 -> Indian sepoy mass under European officers enables conquest",
+            "1857 LESSON -> common military solidarity is treated as a regime threat",
+            "AFTER 1857 -> stronger European command, artillery control and fragmented recruitment",
+            "PURPOSE -> preserve fighting capacity while preventing unified political action."
+          ],
+          "source_references": [
+            "7. Sepoy army before 1857: conquest and internal control",
+            "8. Post-1857 reorganisation: ratio, artillery, command, fragmentation"
+          ]
+        },
+        {
+          "title": "Martial races was a doctrine of rule",
+          "structural_type": "ideology-map",
+          "ascii_lines": [
+            "COLONIAL CLASSIFICATION -> selected groups labelled naturally martial",
+            "RECRUITMENT CONCENTRATION -> Punjab, frontier regions and Nepal gain weight",
+            "SEPARATE UNITS + HONOUR CODES -> loyalty engineered through difference",
+            "RACIAL CLAIM -> fit to fight but allegedly unfit to command",
+            "RULE -> teach the category as ideology, never biological truth."
+          ],
+          "source_references": [
+            "9. Martial races as colonial governance theory, not ethnographic truth",
+            "10. Army policy to politics: recruitment regions, loyalty engineering, later blowback"
+          ]
+        },
+        {
+          "title": "Police design moved from thana to statute",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "CORNWALLIS -> thana and daroga structure under district authority",
+            "PRE-1861 PRACTICE -> policing serves order, revenue and local surveillance",
+            "POLICE ACT 1861 -> provincial Inspector-General and district Superintendent",
+            "LEGACY QUESTION -> executive control versus public accountability."
+          ],
+          "source_references": [
+            "11. Thana, daroga, magistrate: Cornwallis's police foundation",
+            "12. Police Act 1861 and the district coercive hierarchy"
+          ]
+        },
+        {
+          "title": "Police was designed for order, not citizen service",
+          "structural_type": "purpose-map",
+          "ascii_lines": [
+            "REVENUE DISPUTE / PROTEST -> district executive identifies a threat",
+            "POLICE SURVEILLANCE -> intelligence, arrest and crowd control",
+            "MAGISTERIAL POWER -> executive direction gains legal force",
+            "ARMY BACKSTOP -> escalated resistance meets military coercion",
+            "RESULT -> regime security outranks accountable public service."
+          ],
+          "source_references": [
+            "12. Police Act 1861 and the district coercive hierarchy",
+            "13. Collector-magistrate-SP interlock: how revenue, police, and law fused on the ground"
+          ]
+        },
+        {
+          "title": "Codification modernised and controlled",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "CORNWALLIS CODE -> institutional ordering and judicial separation in principle",
+            "SADAR / DISTRICT COURTS -> graded civil and criminal adjudication",
+            "LAW COMMISSION TRADITION -> uniform written codes",
+            "IPC 1860 + PROCEDURE -> predictability across a centralised state",
+            "LIMIT -> the same legal form could authorise repression."
+          ],
+          "source_references": [
+            "14. Cornwallis Code, Sadar courts, and codified legality",
+            "15. IPC/procedure codes and rule of law versus racial privilege"
+          ]
+        },
+        {
+          "title": "Rule of law had a racial ceiling",
+          "structural_type": "contradiction-map",
+          "ascii_lines": [
+            "FORMAL CLAIM -> uniform law, evidence and procedure",
+            "PRACTICAL ORDER -> executive dominance and political offences",
+            "RACIAL PRIVILEGE -> Europeans resist equal jurisdiction",
+            "ILBERT BILL 1883 -> collision makes the hierarchy visible",
+            "VERDICT -> legalistic administration was not liberal citizenship."
+          ],
+          "source_references": [
+            "15. IPC/procedure codes and rule of law versus racial privilege",
+            "16. Ilbert Bill, nationalist critique, colonial legacy, and bounded current bridge"
+          ]
+        },
+        {
+          "title": "Ilbert Bill exposed organised racial privilege",
+          "structural_type": "event-map",
+          "ascii_lines": [
+            "PROPOSAL -> qualified Indian judges may try European British subjects",
+            "EUROPEAN AGITATION -> equality framed as a racial threat",
+            "COMPROMISE -> original principle diluted",
+            "INDIAN RESPONSE -> humiliation strengthens organised political critique",
+            "USE -> decisive evidence that formal legality stopped at racial power."
+          ],
+          "source_references": [
+            "16. Ilbert Bill, nationalist critique, colonial legacy, and bounded current bridge"
+          ]
+        },
+        {
+          "title": "Interlock, contradiction and legacy",
+          "structural_type": "synthesis",
+          "ascii_lines": [
+            "REVENUE -> collector commands the district",
+            "ORDER -> police and army secure extraction and political control",
+            "LEGALITY -> courts and codes regularise authority",
+            "EXCLUSION -> superior command remains racially restricted",
+            "LEGACY -> durable institutions require democratic repurposing, not simple celebration."
+          ],
+          "source_references": [
+            "13. Collector-magistrate-SP interlock: how revenue, police, and law fused on the ground",
+            "16. Ilbert Bill, nationalist critique, colonial legacy, and bounded current bridge"
+          ]
+        }
+      ]
+    }
+  ]
+}

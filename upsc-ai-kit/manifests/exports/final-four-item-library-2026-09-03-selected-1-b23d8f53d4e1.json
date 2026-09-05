@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T16:47:55+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "bd8d8a10a3da6c79a532b5f79c4987681c3370e6312447660ee172eff8137e8d",
+    "sha256_after": "bd8d8a10a3da6c79a532b5f79c4987681c3370e6312447660ee172eff8137e8d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8099,
+    "pdf_count": 2097,
+    "png_count": 723,
+    "txt_count": 890,
+    "markdown_count": 1325,
+    "json_count": 3049,
+    "total_bytes": 3760184940,
+    "by_extension": {
+      ".json": 3049,
+      ".md": 1325,
+      ".pdf": 2097,
+      ".png": 723,
+      ".txt": 890,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-09",
+      "topic_title": "Vijayanagara & the Bahmani Kingdom (Deccan)",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "medieval-indian-history-09:learner-v2:g7",
+      "source_generation": 7,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g7\\medieval-indian-history-09_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "048f5a27c40577bd071190ad310e0c3521486583630c975f0c1a81874ae7154f",
+          "output_sha256": "048f5a27c40577bd071190ad310e0c3521486583630c975f0c1a81874ae7154f",
+          "source_output_equal": true,
+          "bytes": 1901422
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-09\\g7\\medieval-indian-history-09_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "fa2ad7a021fd7172bce6267ef56fd5a1f4f20f64aebba3e0f9821db33965c317",
+          "output_sha256": "fa2ad7a021fd7172bce6267ef56fd5a1f4f20f64aebba3e0f9821db33965c317",
+          "source_output_equal": true,
+          "bytes": 238343
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-09\\carvaka-g7\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "31e483f5e1316a0cd18504de1c0a543c7519d13a43efc252642611164bf6a2b2",
+          "output_sha256": "31e483f5e1316a0cd18504de1c0a543c7519d13a43efc252642611164bf6a2b2",
+          "source_output_equal": true,
+          "bytes": 2477737
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-09\\carvaka-g7\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c05f8fd2d3522462a82b1d5f43c80d42f2054f143446f5aad421562c5e5e0246",
+          "output_sha256": "c05f8fd2d3522462a82b1d5f43c80d42f2054f143446f5aad421562c5e5e0246",
+          "source_output_equal": true,
+          "bytes": 3382180
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-09\\carvaka-g7\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7665d1fa1f615e04b20eefc45dba3a505733901c74c8c3028d60e3d81f486f74",
+          "output_sha256": "7665d1fa1f615e04b20eefc45dba3a505733901c74c8c3028d60e3d81f486f74",
+          "source_output_equal": true,
+          "bytes": 2208551
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-09\\carvaka-g7\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "95ca98ab14c94f8826aac60137d5919ae46f0c00d790d575762d3e60aa057b44",
+          "output_sha256": "95ca98ab14c94f8826aac60137d5919ae46f0c00d790d575762d3e60aa057b44",
+          "source_output_equal": true,
+          "bytes": 6107
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-09\\carvaka-g7\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "71ad08dbb88bf74150fb07bb2fc55d7ccc4bf4fa8ae9889e85f680a0d0d86ee0",
+          "output_sha256": "71ad08dbb88bf74150fb07bb2fc55d7ccc4bf4fa8ae9889e85f680a0d0d86ee0",
+          "source_output_equal": true,
+          "source_text_sha256": "95ca98ab14c94f8826aac60137d5919ae46f0c00d790d575762d3e60aa057b44",
+          "normalized_text_equal": true,
+          "bytes": 58248
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 9,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 70,
+        "solved_practice_workbook": 23,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 70,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12024
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

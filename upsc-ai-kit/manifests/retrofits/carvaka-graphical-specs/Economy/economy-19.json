@@ -1,0 +1,984 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-19",
+  "subject": "Economy",
+  "title": "BALANCE OF PAYMENTS, EXCHANGE RATES AND FOREX RESERVES",
+  "short_route": "BOP ACCOUNTING SPINE → CURRENT-ACCOUNT MAP → CAPITAL-FINANCIAL FORK → CAD FINANCING IDENTITY → TRADE-DEFICIT OFFSETS → CURRENCY QUOTE BOARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\learning-sessions\\v2\\subject-wide-syllabus\\economy-19_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-19-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "0a8f2ccafd0cdbb4d3423f3a77bcb2647bdfa71dbaee1a1524312e0227c66bf8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BOP ACCOUNTING SPINE",
+      "structural_type": "accounting-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BOP ACCOUNTING SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDENT <→ NON-RESIDENT TRANSACTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENT + CAPITAL + FINANCIAL ACCOUNTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DOUBLE ENTRY + ERRORS",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVE-ASSET CHANGE CLOSES RECORDED FINANCING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RESIDENT <→ NON-RESIDENT TRANSACTIONS",
+        "CURRENT + CAPITAL + FINANCIAL ACCOUNTS",
+        "DOUBLE ENTRY + ERRORS / OMISSIONS",
+        "RESERVE-ASSET CHANGE closes recorded financing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "RESIDENT <→ NON-RESIDENT TRANSACTIONS",
+            "CURRENT + CAPITAL + FINANCIAL ACCOUNTS"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DOUBLE ENTRY + ERRORS / OMISSIONS",
+            "RESERVE-ASSET CHANGE closes recorded financing"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "RESIDENT <→ NON-RESIDENT TRANSACTIONS",
+            "CURRENT + CAPITAL + FINANCIAL ACCOUNTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOUBLE ENTRY + ERRORS / OMISSIONS; RESERVE-ASSET CHANGE closes recorded financing.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CURRENT-ACCOUNT MAP",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CURRENT-ACCOUNT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY INCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "SECONDARY INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSONAL REMITTANCES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIMARY INCOME",
+        "SECONDARY INCOME → personal remittances"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PRIMARY INCOME",
+            "SECONDARY INCOME → personal remittances"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRIMARY INCOME",
+            "SECONDARY INCOME → personal remittances"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIMARY INCOME",
+            "SECONDARY INCOME → personal remittances"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SERVICES; PRIMARY INCOME; SECONDARY INCOME → personal remittances.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CAPITAL-FINANCIAL FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CAPITAL-FINANCIAL FORK",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL TRANSFERS",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-PRODUCED NON-FINANCIAL ASSETS",
+          "role": "comparison"
+        },
+        {
+          "text": "FDI + PORTFOLIO + LOANS",
+          "role": "evidence"
+        },
+        {
+          "text": "DERIVATIVES + RESERVE ASSETS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAPITAL → capital transfers",
+        "CAPITAL → non-produced non-financial assets",
+        "FINANCIAL → FDI + portfolio + loans",
+        "FINANCIAL → derivatives + reserve assets"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "CAPITAL → capital transfers",
+          "FINANCIAL → FDI + portfolio + loans",
+          "CAPITAL → capital transfers"
+        ],
+        [
+          "CAPITAL → non-produced non-financial assets",
+          "FINANCIAL → derivatives + reserve assets",
+          "CAPITAL → non-produced non-financial assets"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "CAPITAL → capital transfers",
+            "CAPITAL → non-produced non-financial assets"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FINANCIAL → FDI + portfolio + loans",
+            "FINANCIAL → derivatives + reserve assets"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPITAL → capital transfers",
+            "CAPITAL → non-produced non-financial assets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINANCIAL → FDI + portfolio + loans; FINANCIAL → derivatives + reserve assets.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CAD FINANCING IDENTITY",
+      "structural_type": "balance-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAD FINANCING IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT-ACCOUNT DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "NET FINANCIAL INFLOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE USE",
+          "role": "evidence"
+        },
+        {
+          "text": "OMISSIONS; QUALITY MATTERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CURRENT-ACCOUNT DEFICIT",
+        "NET FINANCIAL INFLOWS",
+        "OR → RESERVE USE",
+        "PLUS → ERRORS / OMISSIONS; quality matters"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "CURRENT-ACCOUNT DEFICIT",
+            "NET FINANCIAL INFLOWS"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "OR → RESERVE USE",
+            "PLUS → ERRORS / OMISSIONS; quality matters"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT-ACCOUNT DEFICIT",
+            "NET FINANCIAL INFLOWS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OR → RESERVE USE; PLUS → ERRORS / OMISSIONS; quality matters.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TRADE-DEFICIT OFFSETS",
+      "structural_type": "offset-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TRADE-DEFICIT OFFSETS",
+          "role": "primary"
+        },
+        {
+          "text": "MERCHANDISE DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "NET SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIMARY INCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "SECONDARY INCOME",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT ACCOUNT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MERCHANDISE DEFICIT",
+        "NET SERVICES",
+        "PRIMARY INCOME",
+        "SECONDARY INCOME → CURRENT ACCOUNT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "MERCHANDISE DEFICIT",
+            "NET SERVICES"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "PRIMARY INCOME",
+            "SECONDARY INCOME → CURRENT ACCOUNT"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "MERCHANDISE DEFICIT",
+            "NET SERVICES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET SERVICES; PRIMARY INCOME; SECONDARY INCOME → CURRENT ACCOUNT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CURRENCY QUOTE BOARD",
+      "structural_type": "quote-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CURRENCY QUOTE BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "RUPEES PER US DOLLAR",
+          "role": "outcome"
+        },
+        {
+          "text": "NUMBER RISES",
+          "role": "comparison"
+        },
+        {
+          "text": "DOLLAR COSTS MORE",
+          "role": "evidence"
+        },
+        {
+          "text": "ALWAYS STATE QUOTE BEFORE DIRECTION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "QUOTE → RUPEES PER US DOLLAR",
+        "NUMBER RISES → dollar costs more",
+        "RUPEE → DEPRECIATES",
+        "ALWAYS state quote before direction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "QUOTE → RUPEES PER US DOLLAR",
+            "NUMBER RISES → dollar costs more"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "RUPEE → DEPRECIATES",
+            "ALWAYS state quote before direction"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "QUOTE → RUPEES PER US DOLLAR",
+            "NUMBER RISES → dollar costs more"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RUPEE → DEPRECIATES; ALWAYS state quote before direction.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RATE-CHANGE VOCABULARY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RATE-CHANGE VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL PARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "OBSERVED CURRENCY PRICE",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATIVE-PRICE ADJUSTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MARKET → depreciation / appreciation",
+        "OFFICIAL PARITY → devaluation / revaluation",
+        "NOMINAL → observed currency price",
+        "REAL → relative-price adjusted"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "MARKET → depreciation / appreciation",
+          "NOMINAL → observed currency price",
+          "MARKET → depreciation / appreciation"
+        ],
+        [
+          "OFFICIAL PARITY → devaluation / revaluation",
+          "REAL → relative-price adjusted",
+          "OFFICIAL PARITY → devaluation / revaluation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MARKET → depreciation / appreciation",
+            "OFFICIAL PARITY → devaluation / revaluation"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NOMINAL → observed currency price",
+            "REAL → relative-price adjusted"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "MARKET → depreciation / appreciation",
+            "OFFICIAL PARITY → devaluation / revaluation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOMINAL → observed currency price; REAL → relative-price adjusted.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MANAGED-FLOAT RAIL",
+      "structural_type": "policy-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MANAGED-FLOAT RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET DEMAND + SUPPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "RUPEE RATE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY SMOOTH EXCESSIVE VOLATILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO DECLARED FIXED TARGET LEVEL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MARKET DEMAND + SUPPLY",
+        "RUPEE RATE MOVES",
+        "RBI → may smooth excessive volatility",
+        "NO DECLARED FIXED TARGET LEVEL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "MARKET DEMAND + SUPPLY",
+            "RUPEE RATE MOVES"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "RBI → may smooth excessive volatility",
+            "NO DECLARED FIXED TARGET LEVEL"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "MARKET DEMAND + SUPPLY",
+            "RUPEE RATE MOVES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RBI → may smooth excessive volatility; NO DECLARED FIXED TARGET LEVEL.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTERVENTION-LIQUIDITY MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTERVENTION-LIQUIDITY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "RBI SELLS DOLLARS",
+          "role": "outcome"
+        },
+        {
+          "text": "RUPEES ABSORBED",
+          "role": "comparison"
+        },
+        {
+          "text": "RBI BUYS DOLLARS",
+          "role": "evidence"
+        },
+        {
+          "text": "RUPEES INJECTED",
+          "role": "primary"
+        },
+        {
+          "text": "OFFSETS LIQUIDITY EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "COSTS + UNDERLYING PRESSURE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RBI SELLS DOLLARS → rupees absorbed",
+        "RBI BUYS DOLLARS → rupees injected",
+        "STERILISATION → offsets liquidity effect",
+        "LIMIT → costs + underlying pressure"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "RBI SELLS DOLLARS → rupees absorbed",
+          "STERILISATION → offsets liquidity effect",
+          "RBI SELLS DOLLARS → rupees absorbed"
+        ],
+        [
+          "RBI BUYS DOLLARS → rupees injected",
+          "LIMIT → costs + underlying pressure",
+          "RBI BUYS DOLLARS → rupees injected"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "RBI SELLS DOLLARS → rupees absorbed",
+            "RBI BUYS DOLLARS → rupees injected"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STERILISATION → offsets liquidity effect",
+            "LIMIT → costs + underlying pressure"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "RBI SELLS DOLLARS → rupees absorbed",
+            "RBI BUYS DOLLARS → rupees injected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STERILISATION → offsets liquidity effect; LIMIT → costs + underlying pressure.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NEER-REER LADDER",
+      "structural_type": "index-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NEER-REER LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "BILATERAL RATE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRADE-WEIGHTED NEER",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATIVE-PRICE ADJUSTED REER",
+          "role": "evidence"
+        },
+        {
+          "text": "USE RBI CONVENTION + BASE + WEIGHTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BILATERAL RATE",
+        "TRADE-WEIGHTED NEER",
+        "RELATIVE-PRICE ADJUSTED REER",
+        "INTERPRET → use RBI convention + base + weights"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "BILATERAL RATE",
+            "TRADE-WEIGHTED NEER"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "RELATIVE-PRICE ADJUSTED REER",
+            "INTERPRET → use RBI convention + base + weights"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "BILATERAL RATE",
+            "TRADE-WEIGHTED NEER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERPRET → use RBI convention + base + weights.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RESERVE-ADEQUACY DASHBOARD",
+      "structural_type": "risk-dashboard",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESERVE-ADEQUACY DASHBOARD",
+          "role": "primary"
+        },
+        {
+          "text": "IMPORT COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT-TERM DEBT",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD MONEY",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCING NEED",
+          "role": "primary"
+        },
+        {
+          "text": "MATURITY + CURRENCY + HEDGING + STRESS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IMPORT COVER",
+        "SHORT-TERM DEBT",
+        "BROAD MONEY / FINANCING NEED",
+        "MATURITY + CURRENCY + HEDGING + STRESS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "IMPORT COVER",
+            "SHORT-TERM DEBT"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "BROAD MONEY / FINANCING NEED",
+            "MATURITY + CURRENCY + HEDGING + STRESS"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPORT COVER",
+            "SHORT-TERM DEBT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BROAD MONEY / FINANCING NEED; MATURITY + CURRENCY + HEDGING + STRESS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXTERNAL-SECTOR ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXTERNAL-SECTOR ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY TRANSACTION BY ACCOUNT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE SIGN",
+          "role": "institution"
+        },
+        {
+          "text": "STOCK-FLOW CONVENTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRACE FINANCING + INTERVENTION + LIQUIDITY",
+          "role": "primary"
+        },
+        {
+          "text": "JUDGE RESILIENCE THROUGH COMPOSITION, NOT HEADLINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY transaction by account",
+        "STATE sign / quote / stock-flow convention",
+        "TRACE financing + intervention + liquidity",
+        "JUDGE resilience through composition, not headline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "CLASSIFY transaction by account",
+            "STATE sign / quote / stock-flow convention"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "TRACE financing + intervention + liquidity",
+            "JUDGE resilience through composition, not headline"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFY transaction by account",
+            "STATE sign / quote / stock-flow convention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRACE financing + intervention + liquidity; JUDGE resilience through composition, not headline.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BOP IS DOUBLE-ENTRY ACCOUNTING; STATISTICAL DISCREPANCIES REFLECT TIMING, VALUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FDI IS GENERALLY MORE STABLE AND CONTROL-LINKED THAN PORTFOLIO",
+          "role": "comparison"
+        },
+        {
+          "text": "STERILISED INTERVENTION OFFSETS THE DOMESTIC LIQUIDITY EFFECT OF FOREIGN-EXCHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVE ADEQUACY IS MULTIDIMENSIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "IMPORT COVER, SHORT-TERM DEBT, BROAD MONEY AND",
+          "role": "outcome"
+        },
+        {
+          "text": "THE IMPOSSIBLE TRINITY CONSTRAINS SIMULTANEOUS EXCHANGE-RATE FIXATION, MONETARY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL VULNERABILITY DEPENDS ON CURRENCY DENOMINATION, MATURITY, HEDGING, BORROWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: BoP is double-entry accounting; statistical discrepancies reflect timing, valuation and",
+            "CAUTION: FDI is generally more stable and control-linked than portfolio flows, though both can",
+            "CAUTION: Sterilised intervention offsets the domestic liquidity effect of foreign-exchange",
+            "CAUTION: Reserve adequacy is multidimensional: import cover, short-term debt, broad money and"
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: The impossible trinity constrains simultaneous exchange-rate fixation, monetary",
+            "CAUTION: External vulnerability depends on currency denomination, maturity, hedging, borrower",
+            "RBI: compiles BoP statistics, manages reserves and intervenes in foreign-exchange",
+            "Ministry of Commerce and Industry: addresses merchandise and services trade policy"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "Department of Economic Affairs: manages external borrowing policy and multilateral",
+            "Authorised dealer banks: execute foreign-exchange transactions under FEMA and RBI",
+            "CAUTION: A merchandise deficit can coexist with a modest CAD when services exports and",
+            "CAUTION: An RBI dollar sale supplies foreign currency but absorbs rupee liquidity unless offset"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

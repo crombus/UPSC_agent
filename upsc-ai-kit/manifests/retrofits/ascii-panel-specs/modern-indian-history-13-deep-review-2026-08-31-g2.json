@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-13",
+      "display_title": "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Imperial defensive ring in colonial frontier policy",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Imperial defensive ring",
+            "EVIDENCE -> British India treated neighbouring states and frontier zones as a strategic ring",
+            "            around the Indian empire.",
+            "EXAM USE -> use Imperial defensive ring to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Imperial defensive ring to another institution or theatre.",
+            "MUST REMEMBER: Keep the Afghan wars (1839-42, 1878-80, 1919), Burma wars (1824-26, 1852,",
+            "  1885), Nepal war and Treaty of Sugauli (1814-16), and Younghusband mission to Tibet",
+            "  (1903-04) distinct."
+          ],
+          "source_references": [
+            "Imperial defensive ring",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Great Game in colonial frontier policy",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Great Game",
+            "EVIDENCE -> The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British",
+            "            policy toward Afghanistan.",
+            "EXAM USE -> use Great Game to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Great Game to another institution or theatre."
+          ],
+          "source_references": [
+            "Great Game",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Close-border policy in colonial frontier policy",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Close-border policy",
+            "EVIDENCE -> Close-border policy sought to defend settled limits without permanent advance into",
+            "            tribal or Afghan territory.",
+            "EXAM USE -> use Close-border policy to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Close-border policy to another institution or theatre."
+          ],
+          "source_references": [
+            "Close-border policy",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Forward policy in colonial frontier policy",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Forward policy",
+            "EVIDENCE -> Forward policy used missions, posts, subsidies, war and political control to pre-",
+            "            empt perceived rival influence.",
+            "EXAM USE -> use Forward policy to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Forward policy to another institution or theatre."
+          ],
+          "source_references": [
+            "Forward policy",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "First Anglo-Afghan War in colonial frontier policy",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> First Anglo-Afghan War",
+            "EVIDENCE -> The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from",
+            "            Kabul.",
+            "EXAM USE -> use First Anglo-Afghan War to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer First Anglo-Afghan War to another institution or theatre."
+          ],
+          "source_references": [
+            "First Anglo-Afghan War",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Second Anglo-Afghan War in colonial frontier policy",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Second Anglo-Afghan War",
+            "EVIDENCE -> The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.",
+            "EXAM USE -> use Second Anglo-Afghan War to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Second Anglo-Afghan War to another institution or theatre."
+          ],
+          "source_references": [
+            "Second Anglo-Afghan War",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Treaty of Gandamak in colonial frontier policy",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Treaty of Gandamak",
+            "EVIDENCE -> The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded",
+            "            British influence over Afghan external affairs.",
+            "EXAM USE -> use Treaty of Gandamak to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Treaty of Gandamak to another institution or theatre."
+          ],
+          "source_references": [
+            "Treaty of Gandamak",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Durand Line in colonial frontier policy",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Durand Line",
+            "EVIDENCE -> The Durand agreement of 1893 marked the Afghan frontier sphere under colonial",
+            "            strategic pressure.",
+            "EXAM USE -> use Durand Line to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Durand Line to another institution or theatre."
+          ],
+          "source_references": [
+            "Durand Line",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "North-West Frontier Province in colonial frontier policy",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> North-West Frontier Province",
+            "EVIDENCE -> Curzon created the North-West Frontier Province in 1901 as a special frontier",
+            "            administration.",
+            "EXAM USE -> use North-West Frontier Province to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer North-West Frontier Province to another institution or theatre."
+          ],
+          "source_references": [
+            "North-West Frontier Province",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "First Anglo-Burmese War in colonial frontier policy",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> First Anglo-Burmese War",
+            "EVIDENCE -> The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.",
+            "EXAM USE -> use First Anglo-Burmese War to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer First Anglo-Burmese War to another institution or theatre.",
+            "CLOSE DISTINCTION: Forward policy, 'masterly inactivity', buffer strategy, annexation and",
+            "  frontier administration were debated and changed over time; modern boundaries cannot be",
+            "  projected backward."
+          ],
+          "source_references": [
+            "First Anglo-Burmese War",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Second Anglo-Burmese War in colonial frontier policy",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Second Anglo-Burmese War",
+            "EVIDENCE -> The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under",
+            "            Dalhousie.",
+            "EXAM USE -> use Second Anglo-Burmese War to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Second Anglo-Burmese War to another institution or theatre.",
+            "EVIDENCE LIMIT: Imperial strategic writing must be checked against treaty texts, terrain,",
+            "  logistics and Afghan, Burmese, Nepali, Tibetan and frontier agency rather than reproducing a",
+            "  Great Game gaze."
+          ],
+          "source_references": [
+            "Second Anglo-Burmese War",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Third Anglo-Burmese War in colonial frontier policy",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Third Anglo-Burmese War",
+            "EVIDENCE -> The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under",
+            "            Dufferin.",
+            "EXAM USE -> use Third Anglo-Burmese War to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Third Anglo-Burmese War to another institution or theatre."
+          ],
+          "source_references": [
+            "Third Anglo-Burmese War",
+            "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\13_India-and-Her-Neighbours.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-13\\g2\\modern-indian-history-13_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

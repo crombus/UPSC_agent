@@ -1,0 +1,1027 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+  "subject": "Philosophy",
+  "title": "GENDER DISCRIMINATION",
+  "short_route": "SELF / OTHER CONSTRUCTION → PERFORMATIVE REPETITION LOOP → EQUALITY TYPOLOGY TABLE → FOETICIDE CAUSAL CHAIN → AGARWAL'S FIVE-LEVEL ANALYSIS → INDIAN LEGAL INSTRUMENTS ON",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-socio-political-philosophy-09-ascii-g4-2026-08-30.json",
+  "ascii_spec_sha256": "ebf8e643fa5b662469cbd90f7d63c394b0b568513ca5ed0bf5f7f58a1c5a4e31",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SELF / OTHER CONSTRUCTION",
+      "structural_type": "flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OTHER CONSTRUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "MALE NORM (SELF/SUBJECT) DEFINES BY NEGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FEMALE (CONSTRUCTED AS OTHER) RELATIONAL DEFICIT READ AS 'NATURAL'",
+          "role": "comparison"
+        },
+        {
+          "text": "MALE NORM (SELF/SUBJECT) DEFINES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MALE NORM (Self/Subject) defines by negation",
+        "FEMALE (constructed as Other) relational deficit read as 'natural' inferiority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MALE NORM (Self/Subject) defines by negation",
+            "FEMALE (constructed as Other) relational deficit read as 'natural' inferiority"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MALE NORM (Self/Subject) defines by negation",
+            "FEMALE (constructed as Other) relational deficit read as 'natural' inferiority"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "MALE NORM (Self/Subject) defines by negation",
+            "FEMALE (constructed as Other) relational deficit read as 'natural' inferiority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEMALE (constructed as Other) relational deficit read as 'natural' inferiority.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PERFORMATIVE REPETITION LOOP",
+      "structural_type": "cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERFORMATIVE REPETITION LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "STYLISED ACT -→ READ AS NATURAL -→ REPEATED",
+          "role": "institution"
+        },
+        {
+          "text": "(REGULATORY NORM REINFORCED EACH CYCLE)",
+          "role": "mechanism"
+        },
+        {
+          "text": "STYLISED ACT -→ READ",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "stylised act -→ read as natural -→ repeated",
+        "(regulatory norm reinforced each cycle)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "stylised act -→ read as natural -→ repeated",
+            "(regulatory norm reinforced each cycle)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "stylised act -→ read as natural -→ repeated",
+            "(regulatory norm reinforced each cycle)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "stylised act -→ read as natural -→ repeated",
+            "(regulatory norm reinforced each cycle)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "stylised act -→ read as natural -→ repeated.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EQUALITY TYPOLOGY TABLE",
+      "structural_type": "table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EQUALITY TYPOLOGY TABLE",
+          "role": "primary"
+        },
+        {
+          "text": "RISK FORMAL",
+          "role": "caution"
+        },
+        {
+          "text": "EQUAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "IGNORES START-POINT GAP SUBSTANTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "TARGETED CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "REVERSE-DISCRIMINATION CHARGE RELATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTRUCTURE RELATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "HARDEST TO OPERATIONALISE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RISK formal",
+        "equal rule",
+        "ignores start-point gap substantive",
+        "targeted correction",
+        "reverse-discrimination charge relational"
+      ],
+      "matrix": [
+        [
+          "SOURCE / DOCTRINE",
+          "ARGUMENT / MECHANISM",
+          "IMPLICATION / VERDICT"
+        ],
+        [
+          "RISK formal",
+          "targeted correction",
+          "hardest to operationalise"
+        ],
+        [
+          "equal rule",
+          "reverse-discrimination charge relational",
+          ""
+        ],
+        [
+          "ignores start-point gap substantive",
+          "restructure relations",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RISK formal",
+            "equal rule",
+            "ignores start-point gap substantive"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "targeted correction",
+            "reverse-discrimination charge relational",
+            "restructure relations"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "hardest to operationalise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TYPE | REMEDY | RISK formal | equal rule | ignores start-point gap substantive | targeted correction | reverse-discrimination charge relational | restructure relations | hardest to operationalise.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FOETICIDE CAUSAL CHAIN",
+      "structural_type": "flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOETICIDE CAUSAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SON PREFERENCE (DISCRIMINATORY ATTITUDE) DEMAND FOR SEX DETERMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "(PCPNDT ACT 1994 PROHIBITS) SEX-SELECTIVE ABORTION -→ SKEWED SEX",
+          "role": "institution"
+        },
+        {
+          "text": "SON PREFERENCE (DISCRIMINATORY ATTITUDE)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "son preference (discriminatory attitude) demand for sex determination",
+        "(PCPNDT Act 1994 prohibits) sex-selective abortion -→ skewed sex ratio at birth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "son preference (discriminatory attitude) demand for sex determination",
+            "(PCPNDT Act 1994 prohibits) sex-selective abortion -→ skewed sex ratio at birth"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "son preference (discriminatory attitude) demand for sex determination",
+            "(PCPNDT Act 1994 prohibits) sex-selective abortion -→ skewed sex ratio at birth"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "son preference (discriminatory attitude) demand for sex determination",
+            "(PCPNDT Act 1994 prohibits) sex-selective abortion -→ skewed sex ratio at birth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(PCPNDT Act 1994 prohibits) sex-selective abortion -→ skewed sex ratio at birth.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AGARWAL'S FIVE-LEVEL ANALYSIS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AGARWAL'S FIVE-LEVEL ANALYSIS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL TITLE (RECOGNISED IN LAW OR RECORD)",
+          "role": "outcome"
+        },
+        {
+          "text": "USE (PRACTICAL ABILITY TO USE THE ASSET)",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL (DECIDE CROPPING, LEASING, SALE OR INVESTMENT)",
+          "role": "evidence"
+        },
+        {
+          "text": "RETURN (RECEIVE THE INCOME AND BENEFIT)",
+          "role": "primary"
+        },
+        {
+          "text": "EXIT/SECURITY (FALL-BACK PROTECTION AGAINST ABANDONMENT OR VIOLENCE)",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LEGAL TITLE (recognised in law or record)",
+        "ACCESS / USE (practical ability to use the asset)",
+        "CONTROL (decide cropping, leasing, sale or investment)",
+        "RETURN (receive the income and benefit)",
+        "EXIT/SECURITY (fall-back protection against abandonment or violence)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "LEGAL TITLE (recognised in law or record)",
+            "ACCESS / USE (practical ability to use the asset)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTROL (decide cropping, leasing, sale or investment)",
+            "RETURN (receive the income and benefit)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "EXIT/SECURITY (fall-back protection against abandonment or violence)",
+            "LEGAL TITLE (recognised in law or record)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCESS / USE (practical ability to use the asset).",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIAN LEGAL INSTRUMENTS ON INHERITANCE -- STATUS TABLE",
+      "structural_type": "table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIAN LEGAL INSTRUMENTS ON INHERITANCE -- STATUS TABLE",
+          "role": "primary"
+        },
+        {
+          "text": "HINDU SUCCESSION ACT 2005 AMENDMENT",
+          "role": "institution"
+        },
+        {
+          "text": "ENACTED, COPARCENARY RIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "VINEETA SHARMA V RAKESH SHARMA 2020",
+          "role": "evidence"
+        },
+        {
+          "text": "SC RULING",
+          "role": "primary"
+        },
+        {
+          "text": "CLARIFIES RETROSPECTIVE SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAM CHARAN & ORS V SUKHRAM & ORS",
+          "role": "comparison"
+        },
+        {
+          "text": "ILLUSTRATION ONLY, ST CONTEXT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Hindu Succession Act 2005 amendment",
+        "enacted, coparcenary right",
+        "Vineeta Sharma v Rakesh Sharma 2020",
+        "SC ruling",
+        "clarifies retrospective scope"
+      ],
+      "matrix": [
+        [
+          "INSTRUMENT",
+          "KIND",
+          "STATUS"
+        ],
+        [
+          "Hindu Succession Act 2005 amendment",
+          "statute",
+          "enacted, coparcenary right"
+        ],
+        [
+          "Vineeta Sharma v Rakesh Sharma 2020",
+          "SC ruling",
+          "clarifies retrospective scope"
+        ],
+        [
+          "Ram Charan & Ors v Sukhram & Ors",
+          "SC ruling",
+          "illustration only, ST context,"
+        ],
+        [
+          "[2025] 8 SCR 272 / 2025 INSC 865",
+          "decided 17-Jul-2025, distinct bench",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "Hindu Succession Act 2005 amendment",
+            "enacted, coparcenary right",
+            "Vineeta Sharma v Rakesh Sharma 2020"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SC ruling",
+            "clarifies retrospective scope",
+            "Ram Charan & Ors v Sukhram & Ors"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "illustration only, ST context,",
+            "[2025] 8 SCR 272 / 2025 INSC 865",
+            "decided 17-Jul-2025, distinct bench"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "[2025] 8 SCR 272 / 2025 INSC 865 | | decided 17-Jul-2025, distinct bench.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "KABEER'S EMPOWERMENT CHAIN",
+      "structural_type": "flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KABEER'S EMPOWERMENT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCES -→ AGENCY -→ ACHIEVEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "(MATERIAL, (ABILITY TO (IMPROVED HUMAN, SOCIAL) CHOOSE & ACT)",
+          "role": "institution"
+        },
+        {
+          "text": "NO REAL EMPOWERMENT GAIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESOURCES -→ AGENCY -→ ACHIEVEMENTS",
+        "(material, (ability to (improved human, social) choose & act) functioning) break at any link ="
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RESOURCES -→ AGENCY -→ ACHIEVEMENTS",
+            "(material, (ability to (improved human, social) choose & act) functioning) break at any link = no real empowerment gain"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESOURCES -→ AGENCY -→ ACHIEVEMENTS",
+            "(material, (ability to (improved human, social) choose & act) functioning) break at any link = no real empowerment gain"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "RESOURCES -→ AGENCY -→ ACHIEVEMENTS",
+            "(material, (ability to (improved human, social) choose & act) functioning) break at any link = no real empowerment gain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(material, (ability to (improved human, social) choose & act) functioning) break at any link = no real empowerment gain.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LEGAL VS EFFECTIVE EMPOWERMENT GAP",
+      "structural_type": "flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LEGAL VS EFFECTIVE EMPOWERMENT GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "106TH AMENDMENT (2023)",
+          "role": "outcome"
+        },
+        {
+          "text": "RESERVATION ENACTED V (CONDITIONAL ON)",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIMITATION (NOT YET COMPLETED) ACTUAL SEAT ALLOCATION",
+          "role": "caution"
+        },
+        {
+          "text": "EFFECTIVE REPRESENTATION -- PENDING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "106th Amendment: enacted 2023; commenced 16-Apr-2026",
+        "Article 334A census-delimitation sequence; seat rollout pending 30-Aug-2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "106th Amendment: enacted 2023; commenced 16-Apr-2026",
+            "Article 334A census-delimitation sequence; seat rollout pending 30-Aug-2026"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "106th Amendment: enacted 2023; commenced 16-Apr-2026",
+            "Article 334A census-delimitation sequence; seat rollout pending 30-Aug-2026"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "106th Amendment: enacted 2023; commenced 16-Apr-2026",
+            "Article 334A census-delimitation sequence; seat rollout pending 30-Aug-2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 334A census-delimitation sequence; seat rollout pending 30-Aug-2026.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FEMINIST SCHOOLS -- ROOT-CAUSE COMPARISON",
+      "structural_type": "table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FEMINIST SCHOOLS -- ROOT-CAUSE COMPARISON",
+          "role": "mechanism"
+        },
+        {
+          "text": "ROOT CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "IMPLICATION MARXIST",
+          "role": "comparison"
+        },
+        {
+          "text": "END CAPITALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "END OPPRESSION RADICAL",
+          "role": "primary"
+        },
+        {
+          "text": "PATRIARCHY (AUTONOMOUS)",
+          "role": "outcome"
+        },
+        {
+          "text": "END PATRIARCHY DIRECTLY SOCIALIST",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITALISM + PATRIARCHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT CAUSE",
+        "IMPLICATION marxist",
+        "end capitalism → end oppression radical",
+        "patriarchy (autonomous)",
+        "end patriarchy directly socialist"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ROOT CAUSE",
+          "patriarchy (autonomous)",
+          "must address both systems pateman/okin"
+        ],
+        [
+          "IMPLICATION marxist",
+          "end patriarchy directly socialist",
+          "contract & family design"
+        ],
+        [
+          "end capitalism → end oppression radical",
+          "capitalism + patriarchy",
+          "justice must reach the household"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ROOT CAUSE",
+            "IMPLICATION marxist",
+            "end capitalism → end oppression radical"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "patriarchy (autonomous)",
+            "end patriarchy directly socialist",
+            "capitalism + patriarchy"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "must address both systems pateman/okin",
+            "contract & family design",
+            "justice must reach the household"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCHOOL | ROOT CAUSE | IMPLICATION marxist | capitalism | end capitalism → end oppression radical | patriarchy (autonomous) | end patriarchy directly socialist | capitalism + patriarchy | must address both systems pateman/okin| contract & family design | justice must reach the household.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INTERSECTION OF CASTE AND GENDER",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTERSECTION OF CASTE AND GENDER",
+          "role": "primary"
+        },
+        {
+          "text": "GENDER AXIS ---------→",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW-CASTE WOMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPOUNDED, DISTINCT HARM AXIS",
+          "role": "evidence"
+        },
+        {
+          "text": "(NOT SIMPLY 'CASTE HARM' + 'GENDER HARM') SINGLE-AXIS POLICY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GENDER axis ---------→",
+        "low-caste woman: compounded, distinct harm axis",
+        "(not simply 'caste harm' + 'gender harm') single-axis policy (gender-only OR caste-only) misses this cell"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "GENDER axis ---------→",
+          "(not simply 'caste harm' + 'gender harm') single-axis policy (gender-only OR caste-only) misses this cell",
+          "low-caste woman: compounded, distinct harm axis"
+        ],
+        [
+          "low-caste woman: compounded, distinct harm axis",
+          "GENDER axis ---------→",
+          "(not simply 'caste harm' + 'gender harm') single-axis policy (gender-only OR caste-only) misses this cell"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "GENDER axis ---------→",
+            "low-caste woman: compounded, distinct harm axis"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "(not simply 'caste harm' + 'gender harm') single-axis policy (gender-only OR caste-only) misses this cell",
+            "GENDER axis ---------→"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "low-caste woman: compounded, distinct harm axis",
+            "(not simply 'caste harm' + 'gender harm') single-axis policy (gender-only OR caste-only) misses this cell"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CASTE | low-caste woman: compounded, distinct harm axis | (not simply 'caste harm' + 'gender harm') single-axis policy (gender-only OR caste-only) misses this cell.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "OKIN'S MULTICULTURALISM DILEMMA TEST",
+      "structural_type": "decision_tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OKIN'S MULTICULTURALISM DILEMMA TEST",
+          "role": "primary"
+        },
+        {
+          "text": "GROUP PRACTICE CLAIMS CULTURAL PROTECTION DOES IT ENTRENCH INTERNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "NO YES ACCOMMODATE EQUALITY CLAIM OVERRIDES ACCOMMODATION",
+          "role": "caution"
+        },
+        {
+          "text": "GROUP PRACTICE CLAIMS CULTURAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "group practice claims cultural protection does it entrench internal gender hierarchy?",
+        "NO YES accommodate equality claim overrides accommodation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "group practice claims cultural protection does it entrench internal gender hierarchy?",
+            "NO YES accommodate equality claim overrides accommodation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "group practice claims cultural protection does it entrench internal gender hierarchy?",
+            "NO YES accommodate equality claim overrides accommodation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "group practice claims cultural protection does it entrench internal gender hierarchy?",
+            "NO YES accommodate equality claim overrides accommodation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "group practice claims cultural protection does it entrench internal gender hierarchy?.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ KEYWORD ROUTER",
+      "structural_type": "table",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ KEYWORD ROUTER",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT KEYWORD",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMARY SESSION FOETICIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "4 LAND",
+          "role": "evidence"
+        },
+        {
+          "text": "5 EMPOWERMENT",
+          "role": "primary"
+        },
+        {
+          "text": "7 MAN-MADE",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTURAL CAT.",
+          "role": "comparison"
+        },
+        {
+          "text": "2 EQUALITY VS EMPOWERMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROMPT KEYWORD → PRIMARY SESSION foeticide → 4 land / property → 5 empowerment →",
+        "→ 1 / 2 equality vs empowerment → 3 socialist regime → 8 caste /"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PROMPT KEYWORD → PRIMARY SESSION foeticide → 4 land / property → 5 empowerment → 6 / 7 man-made / cultural cat.",
+            "→ 1 / 2 equality vs empowerment → 3 socialist regime → 8 caste / synthesis → 9"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROMPT KEYWORD → PRIMARY SESSION foeticide → 4 land / property → 5 empowerment → 6 / 7 man-made / cultural cat.",
+            "→ 1 / 2 equality vs empowerment → 3 socialist regime → 8 caste / synthesis → 9"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PROMPT KEYWORD → PRIMARY SESSION foeticide → 4 land / property → 5 empowerment → 6 / 7 man-made / cultural cat.",
+            "→ 1 / 2 equality vs empowerment → 3 socialist regime → 8 caste / synthesis → 9"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROMPT KEYWORD → PRIMARY SESSION foeticide → 4 land / property → 5 empowerment → 6 / 7 man-made / cultural cat. → 1 / 2 equality vs empowerment → 3 socialist regime → 8 caste / synthesis → 9.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURAL INJUSTICE AND IRIS MARION YOUNG'S MODEL OF RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — ADVANCED",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPABILITY-BASED VERSUS PROPERTY-BASED MODELS OF WOMEN'S EMPOWERMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE PREREQUISITE",
+          "role": "outcome"
+        },
+        {
+          "text": "GENDER DISCRIMINATION, FEMALE FOETICIDE, LAND AND PROPERTY RIGHTS, EMPOWERMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SEX/GENDER DISTINCTION, CULTURAL CONSTRUCTION, FEMINIST DIAGNOSES, CAPABILITY APPROACH AND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Advanced: Structural Injustice and Iris Marion Young's Model of Responsibility",
+            "ADVANCED SESSION 2 — Advanced: Capability-Based versus Property-Based Models of Women's Empowerment",
+            "Core prerequisite: Gender discrimination, female foeticide, land and property rights, empowerment as named syllabus demands",
+            "sex/gender distinction, cultural construction, feminist diagnoses, capability approach and 2018–2025 questions on equality, empowerment and social imbalance."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Strongest additional objection / reply:",
+            "India-centric safe use in 15/20 markers: Use unpaid care work, inheritance in practice, dowry-linked preference for sons, local",
+            "Keep “empowerment” tied to agency, not slogan.",
+            "Risks / what not to over-study: Do not make the answer a law list."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Do not reduce gender to biology or empowerment to job access alone.",
+            "Do not overload with imported theory before the syllabus triad is complete.",
+            "Promotion trigger: Care ethics, intersectionality and adaptive preference fired and were promoted on 15 Aug 2026 and are now Core.",
+            "Still to promote if a PYQ asks it directly: Young-style structural injustice and the blame/responsibility split."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "source_generation": 4
+}

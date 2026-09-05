@@ -1,0 +1,1073 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-09",
+  "subject": "Ancient-Indian-History",
+  "title": "THE LATER VEDIC PHASE",
+  "short_route": "LATER VEDIC SOURCE, CHRONOLOGY → FOREST-AGRICULTURE-IRON-SURPLUS MECHANISM → JANA TO JANAPADA: TERRITORIAL → LATER VEDIC POLITICAL INSTITUTION → HOUSEHOLD, GENDER, VARNA AND → SACRIFICE AS POLITICAL ECONOMY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g14 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-09-deep-review-2026-08-30-g14.json",
+  "ascii_spec_sha256": "f74534840500aa4a81b6812ad0ea6735996cc4f14ad81f22ab5099cec5f88952",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LATER VEDIC SOURCE, CHRONOLOGY AND EASTWARD SHIFT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LATER VEDIC SOURCE, CHRONOLOGY AND EASTWARD SHIFT",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGVEDIC LAYERS",
+          "role": "outcome"
+        },
+        {
+          "text": "UPANISHADS EARLIER NW WORLD RITUAL CORPORA EXPLANATION REFLECTION/CRITIQUE BROAD",
+          "role": "comparison"
+        },
+        {
+          "text": "PUNJAB/UPPER GANGA-YAMUNA",
+          "role": "evidence"
+        },
+        {
+          "text": "TEXTUAL SEQUENCE IS RELATIVE AND LAYERED; IT IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RIGVEDIC LAYERS → SAMAVEDA/YAJURVEDA/ATHARVAVEDA → BRAHMANAS → UPANISHADS earlier NW world ritual corpora explanation reflection/critique",
+        "1000-600 BCE: Punjab/upper Ganga-Yamuna → Kuru-Panchala → Kosala-Videha",
+        "Textual sequence is relative and layered; it is not an annual political chronicle."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "RIGVEDIC LAYERS → SAMAVEDA/YAJURVEDA/ATHARVAVEDA → BRAHMANAS → UPANISHADS earlier NW world ritual corpora explanation reflection/critique broad c.",
+            "1000-600 BCE: Punjab/upper Ganga-Yamuna → Kuru-Panchala → Kosala-Videha"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Textual sequence is relative and layered; it is not an annual political chronicle.",
+            "RIGVEDIC LAYERS → SAMAVEDA/YAJURVEDA/ATHARVAVEDA → BRAHMANAS → UPANISHADS earlier NW world ritual corpora explanation reflection/critique broad c."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1000-600 BCE: Punjab/upper Ganga-Yamuna → Kuru-Panchala → Kosala-Videha",
+            "Textual sequence is relative and layered; it is not an annual political chronicle."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The principal textual focus shifted from the north-west to Kuru-Panchala and the upper Ganga plain, while Kosala-Videha marked a later eastern horizon rather than a uniform all-India expansion.",
+      "source_references": [
+        "SESSION 1 - TEXT-SOURCE MATRIX",
+        "SESSION 2 - CHRONOLOGY, GEOGRAPHY AND THE EASTWARD SHIFT",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOREST-AGRICULTURE-IRON-SURPLUS MECHANISM",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOREST-AGRICULTURE-IRON-SURPLUS MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "FOREST EDGE + ALLUVIAL SOILS + RAINFALL + GROWING",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGER SETTLEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL EXTRACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "IRON HELPED WITHIN AN ECOLOGICAL-SOCIAL PACKAGE; IT DID NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "forest edge + alluvial soils + rainfall + growing labour organisation iron in expanding use",
+        "ploughing + cattle traction + crop diversification stable fields/surplus → larger settlements → crafts →",
+        "CAUTION: iron helped within an ecological-social package; it did not create states alone."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "forest edge + alluvial soils + rainfall + growing labour organisation iron in expanding use + heavier",
+            "ploughing + cattle traction + crop diversification stable fields/surplus → larger settlements → crafts → political extraction"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION: iron helped within an ecological-social package; it did not create states alone.",
+            "forest edge + alluvial soils + rainfall + growing labour organisation iron in expanding use + heavier"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ploughing + cattle traction + crop diversification stable fields/surplus → larger settlements → crafts → political extraction",
+            "CAUTION: iron helped within an ecological-social package; it did not create states alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Iron enlarged the possibilities of clearing, carpentry, cultivation and warfare, but its effects depended on access, traction, labour, water, ecology and institutions, so iron did not automatically create surplus or states.",
+      "source_references": [
+        "SESSION 3 - SETTLEMENT, FORESTS",
+        "SESSION 4 - IRON TECHNOLOGY",
+        "SESSION 5 - AGRICULTURE",
+        "SESSION 10 - POLITICAL ECONOMY WITHOUT TECHNOLOGICAL DETERMINISM",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "JANA TO JANAPADA: TERRITORIAL POLITICAL CHANGE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JANA TO JANAPADA",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL POLITICAL CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "KIN GROUP/JANA",
+          "role": "comparison"
+        },
+        {
+          "text": "STABLE SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "TERRITORIAL JANAPADA",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGER KINGSHIP LINEAGE LOYALTY FIELDS/CLAIMS BOUNDED PEOPLES SHARE, FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSEMBLIES PERSIST BUT LOSE RELATIVE WEIGHT; MONARCHY GROWS WITHOUT",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS BRIDGES TO MAHAJANAPADAS, BUT NO INEVITABLE ONE-WAY STATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KIN GROUP/JANA → STABLE SETTLEMENT → TERRITORIAL JANAPADA → STRONGER KINGSHIP lineage loyalty fields/claims bounded",
+        "Assemblies persist but lose relative weight; monarchy grows without instant bureaucracy.",
+        "This bridges to Mahajanapadas, but no inevitable one-way state ladder."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "KIN GROUP/JANA → STABLE SETTLEMENT → TERRITORIAL JANAPADA → STRONGER KINGSHIP lineage loyalty fields/claims bounded peoples share, force, ritual",
+            "Assemblies persist but lose relative weight; monarchy grows without instant bureaucracy."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "This bridges to Mahajanapadas, but no inevitable one-way state ladder.",
+            "KIN GROUP/JANA → STABLE SETTLEMENT → TERRITORIAL JANAPADA → STRONGER KINGSHIP lineage loyalty fields/claims bounded peoples share, force, ritual"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Assemblies persist but lose relative weight; monarchy grows without instant bureaucracy.",
+            "This bridges to Mahajanapadas, but no inevitable one-way state ladder."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The movement from jana (people/tribal community) to janapada (territorial foothold/domain of a people) rescaled kinship into territorial politics without erasing lineage, assemblies or regional alternatives.",
+      "source_references": [
+        "SESSION 7 - FROM JANA TO JANAPADA",
+        "SESSION 8 - MONARCHY, RATNINS",
+        "SESSION 9 - ASSEMBLIES, BALI",
+        "SESSION 23 - BRIDGE TO MAHAJANAPADAS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LATER VEDIC POLITICAL INSTITUTION SYSTEM",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LATER VEDIC POLITICAL INSTITUTION SYSTEM",
+          "role": "institution"
+        },
+        {
+          "text": "RAJAN RATNINS",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICALLY AND RITUALLY SIGNIFICANT FIGURES PUROHITA",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL LINKAGE SABHA/SAMITI",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUED ASSEMBLIES WITH CHANGING INFLUENCE BALI AND RULER SHARE",
+          "role": "primary"
+        },
+        {
+          "text": "LESS REGULAR THAN LATER TAXATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL RITUALS ADVERTISE SUPREMACY AND MOBILISE ELITE CONSENSUS",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY GROWS THROUGH TERRITORY, SURPLUS, RITUAL AND FORCE TOGETHER.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAJAN ratnins: politically and ritually significant figures purohita: legitimation",
+        "senani: force",
+        "gramani: local linkage sabha/samiti: continued assemblies with changing influence bali and ruler share: less regular",
+        "royal rituals advertise supremacy and mobilise elite consensus",
+        "Authority grows through territory, surplus, ritual and force together."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAJAN ratnins: politically and ritually significant figures purohita: legitimation",
+            "senani: force"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "gramani: local linkage sabha/samiti: continued assemblies with changing influence bali and ruler share: less regular than later taxation",
+            "royal rituals advertise supremacy and mobilise elite consensus"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Authority grows through territory, surplus, ritual and force together.",
+            "RAJAN ratnins: politically and ritually significant figures purohita: legitimation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Later Vedic religion combined domestic practice with increasingly specialised śrauta (solemn public sacrifice) ritual, changing deity emphasis and a priestly political economy; Indra and Agni changed in relative prominence rather than disappearing.",
+      "source_references": [
+        "SESSION 8 - MONARCHY, RATNINS AND TRANSITIONAL ADMINISTRATION",
+        "SESSION 9 - ASSEMBLIES, BALI, THE RULER SHARE AND MILITARY CHANGE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HOUSEHOLD, GENDER, VARNA AND SOCIAL ORDERING",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HOUSEHOLD, GENDER, VARNA AND SOCIAL ORDERING",
+          "role": "primary"
+        },
+        {
+          "text": "GRIHAPATI-CENTRED HOUSEHOLD PATRILINY INHERITANCE MARRIAGE PRODUCTION/RITUAL AUTHORITY VARNA FIRMS",
+          "role": "outcome"
+        },
+        {
+          "text": "BRAHMANA AUTHORITY + KSHATRIYA POWER + PRODUCERS + SERVANTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "GENDER CONSTRAINTS GROW IN MANY TEXTS; FEMALE SEERS/DEBATERS PREVENT",
+          "role": "evidence"
+        },
+        {
+          "text": "GOTRA EXPANDS; LATER JATI AND FULL FOUR-ASHRAMA SCHEME REQUIRE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GRIHAPATI-CENTRED HOUSEHOLD patriliny inheritance marriage production/ritual authority varna firms: Brahmana authority + Kshatriya power +",
+        "Gender constraints grow in many texts; female seers/debaters prevent a uniform claim.",
+        "Gotra expands; later jati and full four-ashrama scheme require caution."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GRIHAPATI-CENTRED HOUSEHOLD patriliny inheritance marriage production/ritual authority varna firms: Brahmana authority + Kshatriya power + producers + servants",
+            "Gender constraints grow in many texts; female seers/debaters prevent a uniform claim."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Gotra expands; later jati and full four-ashrama scheme require caution.",
+            "GRIHAPATI-CENTRED HOUSEHOLD patriliny inheritance marriage production/ritual authority varna firms: Brahmana authority + Kshatriya power + producers + servants"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Gender constraints grow in many texts; female seers/debaters prevent a uniform claim.",
+            "Gotra expands; later jati and full four-ashrama scheme require caution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Later texts project stronger patrilineal household control through gṛhapati (household head), inheritance, gotra (lineage/clan marker) and son preference, yet women's labour and exceptional debates require a domain-specific rather than uniform-decline verdict.",
+      "source_references": [
+        "SESSION 11 - HOUSEHOLD, GRIHAPATI",
+        "SESSION 12 - WOMEN, GENDER AND VARIATION",
+        "SESSION 13 - VARNA CONSOLIDATION",
+        "SESSION 14 - GOTRA, ASHRAMA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SACRIFICE AS POLITICAL ECONOMY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SACRIFICE AS POLITICAL ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "SURPLUS + SPECIALISED PRIESTS + ROYAL AMBITION",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER/PRESTIGE REDISTRIBUTES GIFTS/ANIMALS RANKS RULER, PRIESTS AND PARTICIPANTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "RITUAL STAGES, LEGITIMISES AND NEGOTIATES POWER; IT DOES NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SURPLUS + SPECIALISED PRIESTS + ROYAL AMBITION",
+        "RAJASUYA: consecration",
+        "ASHVAMEDHA: sovereignty",
+        "VAJAPEYA: power/prestige redistributes gifts/animals ranks ruler, priests and participants",
+        "Ritual stages, legitimises and negotiates power; it does not merely reflect it."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SURPLUS + SPECIALISED PRIESTS + ROYAL AMBITION",
+            "RAJASUYA: consecration"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ASHVAMEDHA: sovereignty",
+            "VAJAPEYA: power/prestige redistributes gifts/animals ranks ruler, priests and participants"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Ritual stages, legitimises and negotiates power; it does not merely reflect it.",
+            "SURPLUS + SPECIALISED PRIESTS + ROYAL AMBITION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rājasūya (royal consecration), aśvamedha (horse sacrifice and paramountcy claim) and vājapeya (ritual of strength and prestige) mobilised and redistributed surplus while staging sovereignty that could exceed actual territorial control.",
+      "source_references": [
+        "SESSION 15 - PRIESTLY SPECIALISATION",
+        "SESSION 16 - ROYAL RITUALS",
+        "SESSION 17 - RELIGIOUS CHANGE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "UPANISHADIC TURN: RITUAL TRANSFORMED INWARD",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "UPANISHADIC TURN",
+          "role": "primary"
+        },
+        {
+          "text": "RITUAL TRANSFORMED INWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "SACRIFICE PROMISES RESULTS BUT LEAVES DEATH, SELF AND ULTIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "KARMA/REBIRTH + BRAHMAN-ATMAN INQUIRY + KNOWLEDGE AS LIBERATING DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT TOTAL REJECTION",
+          "role": "caution"
+        },
+        {
+          "text": "UPANISHADIC THOUGHT GROWS WITHIN AND TRANSFORMS VEDIC TRADITION.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROBLEM: sacrifice promises results but leaves death, self and ultimate reality open.",
+        "karma/rebirth + brahman-atman inquiry + knowledge as liberating discipline internalisation of sacrifice critique/reinterpretation of ritual",
+        "Not total rejection: Upanishadic thought grows within and transforms Vedic tradition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PROBLEM: sacrifice promises results but leaves death, self and ultimate reality open.",
+            "karma/rebirth + brahman-atman inquiry + knowledge as liberating discipline internalisation of sacrifice critique/reinterpretation of ritual monopoly"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Not total rejection: Upanishadic thought grows within and transforms Vedic tradition.",
+            "PROBLEM: sacrifice promises results but leaves death, self and ultimate reality open."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "karma/rebirth + brahman-atman inquiry + knowledge as liberating discipline internalisation of sacrifice critique/reinterpretation of ritual monopoly",
+            "Not total rejection: Upanishadic thought grows within and transforms Vedic tradition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Early Upanishadic inquiry transformed Vedic ritual from within by reworking brahman (ultimate reality), ātman (self), karma (action and consequence) and rebirth, so it was neither simply anti-Vedic nor wholly post-Vedic.",
+      "source_references": [
+        "SESSION 18 - THE UPANISHADIC TURN",
+        "SESSION 19 - EDUCATION, ORAL TRADITION AND INTELLECTUAL DEVELOPMENTS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EARLY VERSUS LATER VEDIC COMPARISON",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EARLY VERSUS LATER VEDIC COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "AXIS EARLY VEDIC LATER VEDIC SPACE SAPTA-SINDHU/NW UPPER GANGA-YAMUNA/EASTWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT AN ETHNIC IDENTITY",
+          "role": "caution"
+        },
+        {
+          "text": "AXIS EARLY VEDIC LATER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship",
+        "not an ethnic identity"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship, ratnins economy cattle-centred",
+          "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship, ratnins economy cattle-centred",
+          "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship, ratnins economy cattle-centred"
+        ],
+        [
+          "not an ethnic identity",
+          "not an ethnic identity",
+          "not an ethnic identity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship, ratnins economy cattle-centred",
+            "not an ethnic identity"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship, ratnins economy cattle-centred",
+            "not an ethnic identity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "AXIS EARLY VEDIC LATER VEDIC space Sapta-Sindhu/NW upper Ganga-Yamuna/eastward polity jana, rajan, assemblies janapada, kingship, ratnins economy cattle-centred",
+            "not an ethnic identity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Painted Grey Ware corroborates an early Iron Age settlement horizon in parts of the upper Ganga region, but it cannot identify a language, ethnicity, epic event or every Later Vedic community.",
+      "source_references": [
+        "SESSION 20 - PAINTED GREY WARE",
+        "SESSION 21 - EARLY VERSUS LATER VEDIC COMPARISON",
+        "SESSION 22 - CONTINUITY, TRANSFORMATION AND REGIONAL VARIATION",
+        "SESSION 24 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LATER VEDIC ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "LATER VEDIC ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "VEDIC TERM/RITUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUITY CAVEAT",
+          "role": "primary"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "PGW CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "20 MARKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: identify change → mechanism → Vedic term/ritual → continuity caveat",
+        "15 MARKS: source/space → economy → polity → society → religion → PGW caution",
+        "20 MARKS: eastward ecology → iron/agriculture → jana-janapada → institutions",
+        "household/varna/gender → sacrifice → Upanishadic turn → state bridge",
+        "Avoid iron-caused-kingdoms and women-lost-all-status claims; grade evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: identify change → mechanism → Vedic term/ritual → continuity caveat",
+            "15 MARKS: source/space → economy → polity → society → religion → PGW caution"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: eastward ecology → iron/agriculture → jana-janapada → institutions",
+            "household/varna/gender → sacrifice → Upanishadic turn → state bridge"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Avoid iron-caused-kingdoms and women-lost-all-status claims; grade evidence.",
+            "CLOSE: territoriality, surplus and ritual hierarchy deepened cumulatively."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Compared with the Rig Vedic age, the Later Vedic phase deepened agriculture, settlement, territoriality, hierarchy and ritual specialisation while retaining cattle, kinship, sacrifice and assemblies.",
+      "source_references": [
+        "SESSION 23 - BRIDGE TO MAHAJANAPADAS WITHOUT TELEOLOGY",
+        "SESSION 24 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+        "SESSION 25 - TERMINOLOGY BANK AND RAPID DISTINCTIONS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT AFFAIRS.",
+          "role": "primary"
+        },
+        {
+          "text": "2. CLAIM NAMED EVIDENCE SIGNIFICANCE LIMITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. YEAR PAPER Q PYQ DEMAND (NEUTRAL RENDERING) DIRECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAT SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. = from source book = inference / standard knowledge = current affairs.",
+        "2. Claim Named evidence Significance Limitation",
+        "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. Claim Named evidence Significance Limitation",
+          "VERDICT: Source type controls the strength and limits of the historical claim."
+        ],
+        [
+          "1. = from source book = inference / standard knowledge = current affairs.",
+          "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source...",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. Claim Named evidence Significance Limitation",
+            "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source..."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "answer_line": "Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. CONTESTED ISSUES COMPETING INTERPRETATIONS ARE ATTRIBUTED, EVIDENCED",
+          "role": "comparison"
+        },
+        {
+          "text": "2. INSCRIPTION AND COIN EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTEMPORARY NAMES, TITLES, CLAIMS AND",
+          "role": "primary"
+        },
+        {
+          "text": "3. HORIZON SAFE WORKING RANGE WHAT IT MEANS WHAT",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFICATION EARNS MARKS; FALSE CERTAINTY IS A HARD FAILURE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. Contested issues Competing interpretations are attributed, evidenced",
+        "2. Inscription and coin evidence: contemporary names, titles, claims and",
+        "3. Horizon Safe working range What it means What it must not be",
+        "VERDICT: Qualification earns marks; false certainty is a hard failure."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CLOSE DISTINCTIONS",
+          "2. Inscription and coin evidence: contemporary names, titles, claims and...",
+          "VERDICT: Qualification earns marks; false certainty is a hard failure."
+        ],
+        [
+          "1. Contested issues Competing interpretations are attributed, evidenced...",
+          "3. Horizon Safe working range What it means What it must not be...",
+          "CLOSE DISTINCTIONS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. Contested issues Competing interpretations are attributed, evidenced..."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Inscription and coin evidence: contemporary names, titles, claims and...",
+            "3. Horizon Safe working range What it means What it must not be..."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+      "answer_line": "Qualification earns marks; false certainty is a hard failure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "1. EVIDENCE KEY",
+          "role": "evidence"
+        },
+        {
+          "text": "DIRECTLY SUPPORTED BY NAMED REPOSITORY/LOCAL",
+          "role": "evidence"
+        },
+        {
+          "text": "2. ORIGINAL SOLVED 10-MARK MAINS 3",
+          "role": "primary"
+        },
+        {
+          "text": "3. ORIGINAL SOLVED 15-MARK MAINS 3",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIM, NAMED EVIDENCE, ANALYSIS AND QUALIFICATION LEAD TO A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANSWER SPINE",
+        "1. Evidence key: FACT = directly supported by named repository/local",
+        "2. Original solved 10-mark Mains 3",
+        "3. Original solved 15-mark Mains 3",
+        "VERDICT: Claim, named evidence, analysis and qualification lead to a graded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ANSWER SPINE",
+            "1. Evidence key: FACT = directly supported by named repository/local-..."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Original solved 10-mark Mains 3",
+            "3. Original solved 15-mark Mains 3"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "ANSWER SPINE"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+      "answer_line": "Claim, named evidence, analysis and qualification lead to a graded.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\09_Later-Vedic-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g14\\ancient-indian-history-09_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "+ EXACT PYQ APPLICATION (2024 GS-I)",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "+ Exact PYQ application (2024 GS-I)"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "Historical PYQ Integration (2018-2023)",
+            "Archaeology indicates a large number of settlements, many relying on a stable agricultural base and two-crop patterns.",
+            "The later Vedic phase marks the subcontinent's transition from chalcolithic contexts toward iron-age societies."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

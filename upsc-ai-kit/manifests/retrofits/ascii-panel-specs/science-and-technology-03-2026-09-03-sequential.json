@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 03",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-03",
+      "display_title": "Human Spaceflight: Gaganyaan and Planetary Missions",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-03_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Human-rating pyramid",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LAUNCH RELIABILITY -> necessary starting condition",
+            "MARGINS AND REDUNDANCY -> tolerate selected failures",
+            "HEALTH MONITORING -> detect unsafe vehicle conditions",
+            "ABORT MODES -> protect crew during ascent",
+            "HUMAN RATING -> system qualification, not a success count"
+          ],
+          "source_references": [
+            "Human-rating boundary"
+          ]
+        },
+        {
+          "title": "Gaganyaan module map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "CREW MODULE -> habitable and re-entry capable",
+            "SERVICE MODULE -> propulsion, power and support",
+            "ORBITAL MODULE -> Crew Module plus Service Module",
+            "LAUNCH VEHICLE -> ascent platform, separate from spacecraft",
+            "RULE -> module, spacecraft and launcher are different layers"
+          ],
+          "source_references": [
+            "Orbital-module boundary"
+          ]
+        },
+        {
+          "title": "Crew-survival chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ECLSS -> breathable and thermally controlled cabin",
+            "CREW ESCAPE -> separation from a failing launcher",
+            "RE-ENTRY -> controlled atmospheric return",
+            "PARACHUTES -> staged deceleration",
+            "RECOVERY -> splashdown, extraction and medical support"
+          ],
+          "source_references": [
+            "Crew-escape boundary",
+            "Life-support boundary",
+            "Recovery-chain boundary"
+          ]
+        },
+        {
+          "title": "Qualification ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "COMPONENT / GROUND TEST -> verify subsystem behaviour",
+            "AIR-DROP TEST -> parachute and recovery sequence",
+            "TEST-VEHICLE ABORT -> escape under a selected flight condition",
+            "UNCREWED ORBITAL FLIGHT -> integrated mission without crew",
+            "CREWED FLIGHT -> later accepted human risk"
+          ],
+          "source_references": [
+            "Qualification-ladder boundary",
+            "Air-drop-test boundary",
+            "Uncrewed-crewed boundary"
+          ]
+        },
+        {
+          "title": "International-exposure firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AXIOM-4 -> international ISS mission experience",
+            "FOREIGN LAUNCHER / SPACECRAFT -> external transport systems",
+            "INDIAN EXPERIMENTS -> operational and scientific exposure",
+            "GAGANYAAN -> indigenous launch, module and recovery objective",
+            "RULE -> experience complements but does not certify capability"
+          ],
+          "source_references": [
+            "Axiom-Gaganyaan boundary"
+          ]
+        },
+        {
+          "title": "Mission-status ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ANNOUNCED / PROPOSED -> intent",
+            "APPROVED -> authority and programme sanction",
+            "UNDER DEVELOPMENT / TESTED -> work and evidence rung",
+            "LAUNCHED / INSERTED / OPERATIONAL -> distinct flight milestones",
+            "COMPLETED / PARTIAL / FAILED / CONCLUDED -> outcome vocabulary"
+          ],
+          "source_references": [
+            "Mission-status boundary",
+            "Volatile mission boundary"
+          ]
+        },
+        {
+          "title": "Lunar capability ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "CHANDRAYAAN-1 -> orbital science and lunar-water evidence",
+            "CHANDRAYAAN-2 -> orbiter success, lander setback",
+            "CHANDRAYAAN-3 -> soft landing and surface operations",
+            "CHANDRAYAAN-4 -> approved sample-return technology mission",
+            "RULE -> landing does not prove ascent, docking or Earth return"
+          ],
+          "source_references": [
+            "Chandrayaan-1 boundary",
+            "Chandrayaan-2 boundary",
+            "Chandrayaan-3 boundary",
+            "Chandrayaan-4 boundary"
+          ]
+        },
+        {
+          "title": "Solar-observatory geometry",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SUN-EARTH SYSTEM -> defines Lagrange-point geometry",
+            "L1 REGION -> continuous solar-view advantage",
+            "HALO ORBIT -> three-dimensional path around L1",
+            "STATION KEEPING -> periodic correction and propellant use",
+            "ADITYA-L1 -> solar observatory, not a landing mission"
+          ],
+          "source_references": [
+            "Aditya-L1 boundary",
+            "Lagrange-station-keeping boundary"
+          ]
+        },
+        {
+          "title": "Planetary-status matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MARS ORBITER MISSION -> historic mission, now concluded",
+            "VENUS ORBITER MISSION -> approved future mission in owner",
+            "LUNAR SAMPLE RETURN -> ascent and return architecture",
+            "SOLAR OBSERVATORY -> remote sensing from L1 halo orbit",
+            "RULE -> destination and status both control the description"
+          ],
+          "source_references": [
+            "Mars-Venus boundary",
+            "Capability-ladder boundary"
+          ]
+        },
+        {
+          "title": "Parallel capability ladders",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "HUMAN -> abort, life support, uncrewed, crewed, station",
+            "LUNAR -> orbit, soft land, rove, sample return",
+            "SOLAR -> transit, halo insertion, station keeping, observation",
+            "PLANETARY -> cruise, insertion, science operations",
+            "RULE -> one ladder cannot certify another"
+          ],
+          "source_references": [
+            "Capability-ladder boundary"
+          ]
+        },
+        {
+          "title": "Planetary-defence rail",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "DETECTION -> discover potentially hazardous objects",
+            "CHARACTERISATION -> refine orbit, size and composition",
+            "WARNING TIME -> determines response feasibility",
+            "DEFLECTION -> kinetic impact is one demonstrated concept",
+            "RESIDUAL RISK -> one test is not a complete shield"
+          ],
+          "source_references": [
+            "Planetary-defence boundary"
+          ]
+        },
+        {
+          "title": "Mission answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> human lunar solar planetary or defence mission",
+            "TRACE -> minimum technical and safety chain",
+            "NAME -> one verified achievement or approved next rung",
+            "SEPARATE -> test launch operation completion and outcome",
+            "VERIFY -> dated crew schedule payload finding and status source"
+          ],
+          "source_references": [
+            "Volatile mission boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

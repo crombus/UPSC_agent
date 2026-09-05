@@ -1,0 +1,710 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-28-32-sequential-batch-2026-08-24",
+  "validated_at": "2026-08-24T21:32:20+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-28",
+      "polity-29",
+      "polity-30",
+      "polity-31",
+      "polity-32"
+    ],
+    "topic_count": 5,
+    "timestamps_monotonic": true,
+    "all_gate_timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-28",
+        "started_at": "2026-08-24T20:48:47+05:30",
+        "completed_at": "2026-08-24T20:52:40.002150+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-29",
+        "started_at": "2026-08-24T20:55:27+05:30",
+        "completed_at": "2026-08-24T20:58:13.596650+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-30",
+        "started_at": "2026-08-24T21:01:32+05:30",
+        "completed_at": "2026-08-24T21:04:57.861645+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-31",
+        "started_at": "2026-08-24T21:07:18+05:30",
+        "completed_at": "2026-08-24T21:12:15.176990+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-32",
+        "started_at": "2026-08-24T21:20:39+05:30",
+        "completed_at": "2026-08-24T21:23:46+05:30",
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 65,
+    "new_topic_records": [
+      "polity-28:learner-v2:g2",
+      "polity-29:learner-v2:g2",
+      "polity-30:learner-v2:g2",
+      "polity-31:learner-v2:g2",
+      "polity-32:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true,
+    "tracker_path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-28",
+        "title": "UPSC and SPSC",
+        "started_at": "2026-08-24T20:48:47+05:30",
+        "completed_at": "2026-08-24T20:52:40.002150+05:30",
+        "record_id": "polity-28:learner-v2:g2",
+        "counts": {
+          "sessions": 56,
+          "main_pdf_pages": 108,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\28-UPSC-and-SPSC",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-28-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-28-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-28-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-28-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-28.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\polity-28_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-28\\carvaka-g2"
+        },
+        "factual_caveat": "Article 320 advice is constitutionally important but generally directory and non-binding. A Joint State PSC has constitutional authority but needs State resolutions and parliamentary law; lateral recruitment must be tested post by post rather than treated as a general exemption.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T20:48:47+05:30",
+          "A_completed": "2026-08-24T20:49:32+05:30",
+          "B_completed": "2026-08-24T20:49:34+05:30",
+          "C_completed": "2026-08-24T20:49:34+05:30",
+          "D_completed": "2026-08-24T20:49:34+05:30",
+          "E_completed": "2026-08-24T20:49:34+05:30",
+          "F_completed": "2026-08-24T20:50:00+05:30",
+          "G_completed": "2026-08-24T20:50:00+05:30",
+          "H_completed": "2026-08-24T20:51:38+05:30",
+          "I_completed": "2026-08-24T20:52:40.002150+05:30",
+          "J_completed": "2026-08-24T20:52:40.002150+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 0,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\28-UPSC-and-SPSC",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-28-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 108,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-28\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-28\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 6,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\28-UPSC-and-SPSC\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\28-UPSC-and-SPSC\\28-UPSC-and-SPSC-Continuous-Flow-Learning.pdf",
+            "source_sha256": "f56b4a04527a45fbcbdbb3157898a8245266f9365a5739d45a0ef31fb3853832",
+            "destination_sha256": "f56b4a04527a45fbcbdbb3157898a8245266f9365a5739d45a0ef31fb3853832",
+            "equal": true,
+            "bytes": 56203
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\28-UPSC-and-SPSC\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\28-UPSC-and-SPSC\\28-UPSC-and-SPSC-Continuous-Flow-Learning.txt",
+            "source_sha256": "6e6deaeac74451b0d157c16afae7bad07a4ac13b0c9704a4006b67242064b831",
+            "destination_sha256": "6e6deaeac74451b0d157c16afae7bad07a4ac13b0c9704a4006b67242064b831",
+            "equal": true,
+            "bytes": 7461
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-29",
+        "title": "Finance Commission",
+        "started_at": "2026-08-24T20:55:27+05:30",
+        "completed_at": "2026-08-24T20:58:13.596650+05:30",
+        "record_id": "polity-29:learner-v2:g2",
+        "counts": {
+          "sessions": 24,
+          "main_pdf_pages": 82,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 4,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\29-Finance-Commission",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-29-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-29-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-29-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-29-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-29.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-29\\carvaka-g2"
+        },
+        "factual_caveat": "The Finance Commission is periodic and advisory. Its tax-devolution recommendations concern net shareable proceeds, not gross tax revenue; cesses and surcharges require separate treatment, and local-body augmentation remains textually linked to State Finance Commission recommendations.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T20:55:27+05:30",
+          "A_completed": "2026-08-24T20:55:31+05:30",
+          "B_completed": "2026-08-24T20:55:32+05:30",
+          "C_completed": "2026-08-24T20:55:32+05:30",
+          "D_completed": "2026-08-24T20:55:32+05:30",
+          "E_completed": "2026-08-24T20:55:32+05:30",
+          "F_completed": "2026-08-24T20:55:56+05:30",
+          "G_completed": "2026-08-24T20:55:56+05:30",
+          "H_completed": "2026-08-24T20:58:02+05:30",
+          "I_completed": "2026-08-24T20:58:13.596650+05:30",
+          "J_completed": "2026-08-24T20:58:13.596650+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 5,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\29-Finance-Commission",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-29-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 82,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-29\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-29\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 2,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\29-Finance-Commission\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\29-Finance-Commission\\29-Finance-Commission-Continuous-Flow-Learning.pdf",
+            "source_sha256": "0193427d2cc7e174b648d1a106ba82060a5e3460fd908c5cbb9d36af090deef4",
+            "destination_sha256": "0193427d2cc7e174b648d1a106ba82060a5e3460fd908c5cbb9d36af090deef4",
+            "equal": true,
+            "bytes": 56214
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\29-Finance-Commission\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\29-Finance-Commission\\29-Finance-Commission-Continuous-Flow-Learning.txt",
+            "source_sha256": "08ab676ecd3147e29577d189351f26b6c04a5481aa6f788a7eafee9219d231e9",
+            "destination_sha256": "08ab676ecd3147e29577d189351f26b6c04a5481aa6f788a7eafee9219d231e9",
+            "equal": true,
+            "bytes": 7265
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-30",
+        "title": "GST Council",
+        "started_at": "2026-08-24T21:01:32+05:30",
+        "completed_at": "2026-08-24T21:04:57.861645+05:30",
+        "record_id": "polity-30:learner-v2:g2",
+        "counts": {
+          "sessions": 17,
+          "main_pdf_pages": 69,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 4,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\30-GST-Council",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-30-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-30-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-30-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-30-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-30.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g2"
+        },
+        "factual_caveat": "Article 279A recommendations are persuasive for legislatures after Mohit Minerals (2022), though statutes may condition delegated action on a Council recommendation. The five-year compensation entitlement ended in June 2022; later cess collection for loan servicing is not an extension.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T21:01:32+05:30",
+          "A_completed": "2026-08-24T21:01:47+05:30",
+          "B_completed": "2026-08-24T21:01:50+05:30",
+          "C_completed": "2026-08-24T21:01:50+05:30",
+          "D_completed": "2026-08-24T21:01:50+05:30",
+          "E_completed": "2026-08-24T21:01:50+05:30",
+          "F_completed": "2026-08-24T21:02:27+05:30",
+          "G_completed": "2026-08-24T21:02:27+05:30",
+          "H_completed": "2026-08-24T21:04:46+05:30",
+          "I_completed": "2026-08-24T21:04:57.861645+05:30",
+          "J_completed": "2026-08-24T21:04:57.861645+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 5,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\30-GST-Council",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-30-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 69,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 1,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\30-GST-Council\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\30-GST-Council\\30-GST-Council-Continuous-Flow-Learning.pdf",
+            "source_sha256": "c0de9a3aef10d8aa4b1487e7a27f943e7b386584cebfe16f4aaf2b53d670ac16",
+            "destination_sha256": "c0de9a3aef10d8aa4b1487e7a27f943e7b386584cebfe16f4aaf2b53d670ac16",
+            "equal": true,
+            "bytes": 56252
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\30-GST-Council\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\30-GST-Council\\30-GST-Council-Continuous-Flow-Learning.txt",
+            "source_sha256": "04e5fa0259815768a0419b86f06771a01a969963321bf1c7bf8f6ead71ed0ba9",
+            "destination_sha256": "04e5fa0259815768a0419b86f06771a01a969963321bf1c7bf8f6ead71ed0ba9",
+            "equal": true,
+            "bytes": 7153
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-31",
+        "title": "National Commissions SC ST BC",
+        "started_at": "2026-08-24T21:07:18+05:30",
+        "completed_at": "2026-08-24T21:12:15.176990+05:30",
+        "record_id": "polity-31:learner-v2:g2",
+        "counts": {
+          "sessions": 19,
+          "main_pdf_pages": 78,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 5,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\31-National-Commissions-SC-ST-BC",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-31-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-31-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-31-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-31-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-31.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-31\\carvaka-g2"
+        },
+        "factual_caveat": "Civil-court powers are evidentiary powers during inquiry, not ordinary court jurisdiction. Davinder Singh (2024) permits evidence-based SC sub-classification without altering the Presidential List; separate creamy-layer observations are not presented as one unanimous exclusion rule.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T21:07:18+05:30",
+          "A_completed": "2026-08-24T21:09:05+05:30",
+          "B_completed": "2026-08-24T21:09:08+05:30",
+          "C_completed": "2026-08-24T21:09:08+05:30",
+          "D_completed": "2026-08-24T21:09:08+05:30",
+          "E_completed": "2026-08-24T21:09:08+05:30",
+          "F_completed": "2026-08-24T21:09:45+05:30",
+          "G_completed": "2026-08-24T21:09:45+05:30",
+          "H_completed": "2026-08-24T21:12:03+05:30",
+          "I_completed": "2026-08-24T21:12:15.176990+05:30",
+          "J_completed": "2026-08-24T21:12:15.176990+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 6,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\31-National-Commissions-SC-ST-BC",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-31-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 78,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-31\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-31\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 3,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\31-National-Commissions-SC-ST-BC\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\31-National-Commissions-SC-ST-BC\\31-National-Commissions-SC-ST-BC-Continuous-Flow-Learning.pdf",
+            "source_sha256": "2ae5dbecb779bf832692beeb32a1f3061a61c0300d53f8316263fd72bec615a7",
+            "destination_sha256": "2ae5dbecb779bf832692beeb32a1f3061a61c0300d53f8316263fd72bec615a7",
+            "equal": true,
+            "bytes": 56080
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\31-National-Commissions-SC-ST-BC\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\31-National-Commissions-SC-ST-BC\\31-National-Commissions-SC-ST-BC-Continuous-Flow-Learning.txt",
+            "source_sha256": "0d85f9d24de8953469e5319cfbdb24de12efb4315dee440ed415f49e6450e28e",
+            "destination_sha256": "0d85f9d24de8953469e5319cfbdb24de12efb4315dee440ed415f49e6450e28e",
+            "equal": true,
+            "bytes": 7223
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-32",
+        "title": "CAG",
+        "started_at": "2026-08-24T21:20:39+05:30",
+        "completed_at": "2026-08-24T21:23:46+05:30",
+        "gate_times": {
+          "A_started": "2026-08-24T21:20:39+05:30",
+          "A_completed": "2026-08-24T21:21:26+05:30",
+          "B_completed": "2026-08-24T21:21:28+05:30",
+          "C_completed": "2026-08-24T21:21:28+05:30",
+          "D_completed": "2026-08-24T21:21:28+05:30",
+          "E_completed": "2026-08-24T21:21:28+05:30",
+          "F_completed": "2026-08-24T21:23:32+05:30",
+          "G_completed": "2026-08-24T21:23:32+05:30",
+          "H_completed": "2026-08-24T21:23:37+05:30",
+          "I_completed": "2026-08-24T21:23:44+05:30",
+          "J_completed": "2026-08-24T21:23:46+05:30"
+        },
+        "record_id": "polity-32:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 12,
+          "main_pdf_pages": 64,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 3,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 5,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\32-CAG",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\32-CAG",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-32-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-32-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-32-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-32-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-32.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-32-flow-learning-2026-08-24-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-32\\carvaka-g2"
+        },
+        "factual_caveat": "The CAG is an independent ex-post auditor, not a pre-authorising comptroller, investigating agency, court or policy-maker. Audit findings acquire democratic consequence through President/Governor laying, legislative committees, executive response and lawful follow-up.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 64,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-32\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-32\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 4,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\32-CAG\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\32-CAG\\32-CAG-Continuous-Flow-Learning.pdf",
+            "source_sha256": "02e741c19c892466475b1787e17d80ff910baa2545318d631b08913c35f54758",
+            "destination_sha256": "02e741c19c892466475b1787e17d80ff910baa2545318d631b08913c35f54758",
+            "equal": true,
+            "bytes": 56093
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\32-CAG\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\32-CAG\\32-CAG-Continuous-Flow-Learning.txt",
+            "source_sha256": "82fc40b83c3dcc44bef3dbed844e732f94df520db7fb70826c1a28748930c305",
+            "destination_sha256": "82fc40b83c3dcc44bef3dbed844e732f94df520db7fb70826c1a28748930c305",
+            "equal": true,
+            "bytes": 6952
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      }
+    ],
+    "totals": {
+      "sessions": 128,
+      "main_pdf_pages": 401,
+      "workbook_pdf_pages": 81,
+      "mcqs": 240,
+      "verified_pyqs": 12,
+      "supporting_pyqs": 9,
+      "original_mains": 40,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45,
+      "flow_pages": 45
+    }
+  },
+  "inventories": {
+    "four_item_topics": 65,
+    "four_item_links_checked": 788,
+    "polity_flow_topics": 32,
+    "polity_flow_links_checked": 598,
+    "full_flow_topics": 65,
+    "full_flow_links_checked": 598,
+    "full_flow_topic_artifact_files_checked": 195,
+    "full_flow_pages": 570
+  },
+  "preservation": {
+    "prior_clean_artifact_files": 480,
+    "prior_flow_artifact_files": 180,
+    "clean_hash_mismatches": [],
+    "flow_hash_mismatches": [],
+    "prior_generated_hash_mismatches": []
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_v2_topic_command_catalog tools.test_v2_section_indexes tools.test_v2_export_foundation tools.test_retrofit_v2_core_first tools.test_refresh_all_v2_learning_sessions tools.test_polity_flowchart_case_years tools.test_plan_v2_topic_batch tools.test_export_four_item_library tools.test_export_flow_learning_library tools.test_carvaka_flowchart -q",
+    "passed": 127,
+    "failed": 0
+  },
+  "checks": {
+    "strict_sequence": true,
+    "all_gate_timestamps_monotonic": true,
+    "all_gates_passed": true,
+    "source_pyq_current_audits_passed": true,
+    "tracker_records_unapproved": true,
+    "legacy_history_retained": true,
+    "control_dates_passed": true,
+    "pdf_layouts_passed": true,
+    "ascii_equal": true,
+    "graphical_same_master": true,
+    "case_years_passed": true,
+    "mcq_rotation_passed": true,
+    "prior_60_clean_hashes_preserved": true,
+    "prior_60_flow_hashes_preserved": true,
+    "prior_generated_topics_preserved": true,
+    "four_item_inventory_65": true,
+    "polity_flow_inventory_32": true,
+    "full_flow_inventory_65": true,
+    "four_item_links_passed": true,
+    "polity_flow_links_passed": true,
+    "full_flow_links_passed": true,
+    "targeted_regressions_passed": true
+  },
+  "evidence_paths": {
+    "state": "upsc-ai-kit\\manifests\\exports\\polity-28-32-sequential-batch-2026-08-24-state.json",
+    "case_year": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-repair-2026-08-24-validation.json",
+    "four_item": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json",
+    "polity_flow": "upsc-ai-kit\\manifests\\exports\\polity-01-32-flow-learning-2026-08-24-validation.json",
+    "full_flow": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-24-validation.json",
+    "report": "notes\\Final-Learning-Packages\\POLITY-28-32-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-28-32-sequential-batch-2026-08-24-changed-files.txt",
+    "changed_files_count": 324
+  }
+}

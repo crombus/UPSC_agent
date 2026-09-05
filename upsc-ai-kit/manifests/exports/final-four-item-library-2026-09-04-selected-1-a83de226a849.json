@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T08:20:24+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "8f8b217349e2890e4c9ec0e7502aa144f3c094cc076448ec7d62e2b673400144",
+    "sha256_after": "8f8b217349e2890e4c9ec0e7502aa144f3c094cc076448ec7d62e2b673400144",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8549,
+    "pdf_count": 2177,
+    "png_count": 739,
+    "txt_count": 922,
+    "markdown_count": 1415,
+    "json_count": 3281,
+    "total_bytes": 3890535604,
+    "by_extension": {
+      ".json": 3281,
+      ".md": 1415,
+      ".pdf": 2177,
+      ".png": 739,
+      ".txt": 922,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-22",
+      "topic_title": "Aurangzeb: Religious Policy, North India & the Rajputs",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 22,
+      "source_record_id": "medieval-indian-history-22:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "dbe64aeb9201177957f39adec7ce8280c6b126889714295f1909ebd2e9245510",
+          "output_sha256": "dbe64aeb9201177957f39adec7ce8280c6b126889714295f1909ebd2e9245510",
+          "source_output_equal": true,
+          "bytes": 4405676
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-22\\g4\\medieval-indian-history-22_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "cb451ad6643abe32f6824d471b7e391c4d1fff775e16560b56f5c501f5d66faf",
+          "output_sha256": "cb451ad6643abe32f6824d471b7e391c4d1fff775e16560b56f5c501f5d66faf",
+          "source_output_equal": true,
+          "bytes": 603119
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-22\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "95cd1df8660f7608ff7fd326aeacb7275d9b33f9792d918cc324a44224e480f4",
+          "output_sha256": "95cd1df8660f7608ff7fd326aeacb7275d9b33f9792d918cc324a44224e480f4",
+          "source_output_equal": true,
+          "bytes": 2333871
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-22\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "08975dfa59b66f654a8f04cc84eeff2b904f14279eb48a6ea5be429135b66251",
+          "output_sha256": "08975dfa59b66f654a8f04cc84eeff2b904f14279eb48a6ea5be429135b66251",
+          "source_output_equal": true,
+          "bytes": 2711609
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-22\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "43bb660b2eeeb10d75f3291d129aaabc9be672f656a77b7e791e272c6a94571e",
+          "output_sha256": "43bb660b2eeeb10d75f3291d129aaabc9be672f656a77b7e791e272c6a94571e",
+          "source_output_equal": true,
+          "bytes": 2084635
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-22\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "db267c4942f88c5a3ac5473dd98de6d0c0eb1dd304ad29e85577e1a8e3c7f691",
+          "output_sha256": "db267c4942f88c5a3ac5473dd98de6d0c0eb1dd304ad29e85577e1a8e3c7f691",
+          "source_output_equal": true,
+          "bytes": 6316
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-22\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\22-Aurangzeb-Religious-cf751acf-and-the-Rajputs\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "34d6abac5df7e05ac2e6e29e5c61db74279dfac169ca74c9f29544ed69090d47",
+          "output_sha256": "34d6abac5df7e05ac2e6e29e5c61db74279dfac169ca74c9f29544ed69090d47",
+          "source_output_equal": true,
+          "source_text_sha256": "db267c4942f88c5a3ac5473dd98de6d0c0eb1dd304ad29e85577e1a8e3c7f691",
+          "normalized_text_equal": true,
+          "bytes": 58520
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 96,
+        "solved_practice_workbook": 28,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 96,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11258
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

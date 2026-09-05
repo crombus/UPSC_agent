@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-02",
+  "record_id": "political-theory-02:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "syllabus_and_core_complete": true,
+    "facts_and_theory_preserved": true,
+    "verified_pyq_metadata_and_ownership": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "mcq_count_48": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "current_examples_source_dated": true,
+    "pdf_layout_clean": true,
+    "approval_false": true
+  },
+  "metrics": {
+    "question_count": 6,
+    "questions": [
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 161,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 149,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 214,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 203,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 237,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 236,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 42,
+    "workbook_pages": 23,
+    "main_layout": {
+      "page_count": 42,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 23,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12
+  },
+  "errors": []
+}

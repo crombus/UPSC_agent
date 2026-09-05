@@ -1,0 +1,1019 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-01",
+  "subject": "Internal-Security",
+  "title": "INTERNAL-SECURITY FOUNDATIONS AND GOVERNANCE",
+  "short_route": "SECURITY BOUNDARY MAP → KAUTILYA FOURFOLD MATRIX → PROTECTED-ATTRIBUTE RAIL → EIGHT-ELEMENT DOCTRINE WHEEL → CAUSE-TRIGGER-ACTOR CHAIN → RISK GRAMMAR",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-01_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-01-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "4f8ca512a7680fb5465b23bd062d3929ed4133661e319c41b852230895a4f80d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SECURITY BOUNDARY MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SECURITY BOUNDARY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PEACE, LAW AND ORDER, RULE OF LAW, SOVEREIGNTY WITHIN",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFENCE AGAINST FOREIGN AGGRESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "NEIGHBOURS, PROXIES, BORDERS, FINANCE AND INFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENT LEAD INSTITUTIONS, CONNECTED THREAT ENVIRONMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INTERNAL → peace, law and order, rule of law, sovereignty within territory",
+        "EXTERNAL → defence against foreign aggression",
+        "INTERFACE → neighbours, proxies, borders, finance and information",
+        "RULE → different lead institutions, connected threat environment"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "INTERNAL → peace, law and order, rule of law, sovereignty within territory",
+          "INTERFACE → neighbours, proxies, borders, finance and information",
+          "INTERNAL → peace, law and order, rule of law, sovereignty within territory"
+        ],
+        [
+          "EXTERNAL → defence against foreign aggression",
+          "RULE → different lead institutions, connected threat environment",
+          "EXTERNAL → defence against foreign aggression"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "INTERNAL → peace, law and order, rule of law, sovereignty within territory",
+            "EXTERNAL → defence against foreign aggression"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INTERFACE → neighbours, proxies, borders, finance and information",
+            "RULE → different lead institutions, connected threat environment"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "INTERNAL → peace, law and order, rule of law, sovereignty within territory",
+            "EXTERNAL → defence against foreign aggression"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → different lead institutions, connected threat environment.",
+      "source_references": [
+        "Internal-security boundary",
+        "MHA-MoD boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "KAUTILYA FOURFOLD MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KAUTILYA FOURFOLD MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNALLY AIDED EXTERNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNALLY AIDED INTERNAL",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY ACTOR AND SUPPORT RELATIONSHIP SEPARATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "PROXY STATUS DOES NOT ERASE SPONSOR ATTRIBUTION STANDARDS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTERNALLY AIDED EXTERNAL",
+        "EXTERNALLY AIDED INTERNAL",
+        "DIAGNOSIS → identify actor and support relationship separately",
+        "TRAP → proxy status does not erase sponsor attribution standards"
+      ],
+      "matrix": [
+        [
+          "INTERNAL",
+          "EXTERNAL"
+        ],
+        [
+          "INTERNALLY AIDED EXTERNAL",
+          "EXTERNALLY AIDED INTERNAL"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "INTERNALLY AIDED EXTERNAL",
+            "EXTERNALLY AIDED INTERNAL"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DIAGNOSIS → identify actor and support relationship separately",
+            "TRAP → proxy status does not erase sponsor attribution standards"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "INTERNALLY AIDED EXTERNAL",
+            "EXTERNALLY AIDED INTERNAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → proxy status does not erase sponsor attribution standards.",
+      "source_references": [
+        "Kautilya fourfold frame",
+        "Actor-means-objective"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PROTECTED-ATTRIBUTE RAIL",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROTECTED-ATTRIBUTE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL INTEGRITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LAW AND ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "RULE OF LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "FREEDOM FROM FEAR",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNAL HARMONY",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE EXACT ATTRIBUTE UNDER STRESS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "THREAT → territorial integrity / peace / law and order",
+        "THREAT → rule of law / equality / freedom from fear",
+        "THREAT → coexistence / communal harmony",
+        "ANSWER → name the exact attribute under stress"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "THREAT → territorial integrity / peace / law and order",
+            "THREAT → rule of law / equality / freedom from fear"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THREAT → coexistence / communal harmony",
+            "ANSWER → name the exact attribute under stress"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "THREAT → territorial integrity / peace / law and order",
+            "THREAT → rule of law / equality / freedom from fear"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THREAT → rule of law / equality / freedom from fear.",
+      "source_references": [
+        "Security attributes"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EIGHT-ELEMENT DOCTRINE WHEEL",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EIGHT-ELEMENT DOCTRINE WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL + SOCIO-ECONOMIC + GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCES + CENTRE-STATE + INTELLIGENCE",
+          "role": "institution"
+        },
+        {
+          "text": "BORDER MANAGEMENT + CYBER SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "HYPOTHESES TO TEST, NOT EIGHT GENERIC HEADINGS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLITICAL + SOCIO-ECONOMIC + GOVERNANCE",
+        "POLICE / FORCES + CENTRE-STATE + INTELLIGENCE",
+        "BORDER MANAGEMENT + CYBER SECURITY",
+        "USE → hypotheses to test, not eight generic headings"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "POLITICAL + SOCIO-ECONOMIC + GOVERNANCE",
+            "POLICE / FORCES + CENTRE-STATE + INTELLIGENCE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "BORDER MANAGEMENT + CYBER SECURITY",
+            "USE → hypotheses to test, not eight generic headings"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "POLITICAL + SOCIO-ECONOMIC + GOVERNANCE",
+            "POLICE / FORCES + CENTRE-STATE + INTELLIGENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → hypotheses to test, not eight generic headings.",
+      "source_references": [
+        "Eight-element doctrine"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CAUSE-TRIGGER-ACTOR CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAUSE-TRIGGER-ACTOR CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "STRUCTURAL CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSION, WEAK JUSTICE, POROUS BORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "INCIDENT, NOTICE, ARREST, RIOT OR SHOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISED ACTOR",
+          "role": "primary"
+        },
+        {
+          "text": "RECRUITMENT, COERCION, PARALLEL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "VIOLENCE, FEAR, LEGITIMACY LOSS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL CONDITION → exclusion, weak justice, porous border",
+        "TRIGGER → incident, notice, arrest, riot or shock",
+        "ORGANISED ACTOR → recruitment, coercion, parallel authority",
+        "CONSEQUENCE → violence, fear, legitimacy loss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "STRUCTURAL CONDITION → exclusion, weak justice, porous border",
+            "TRIGGER → incident, notice, arrest, riot or shock"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORGANISED ACTOR → recruitment, coercion, parallel authority",
+            "CONSEQUENCE → violence, fear, legitimacy loss"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL CONDITION → exclusion, weak justice, porous border",
+            "TRIGGER → incident, notice, arrest, riot or shock"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRIGGER → incident, notice, arrest, riot or shock.",
+      "source_references": [
+        "Root-cause matrix"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RISK GRAMMAR",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RISK GRAMMAR",
+          "role": "caution"
+        },
+        {
+          "text": "THREAT + VULNERABILITY COUNTERED BY CAPABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSEQUENCE IF EXPLOITATION SUCCEEDS",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY LEVER",
+          "role": "evidence"
+        },
+        {
+          "text": "REDUCE VULNERABILITY AND BUILD LAWFUL CAPABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "THREAT + VULNERABILITY countered by CAPABILITY",
+        "CONSEQUENCE if exploitation succeeds",
+        "POLICY LEVER → reduce vulnerability and build lawful capability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "THREAT + VULNERABILITY countered by CAPABILITY",
+            "CONSEQUENCE if exploitation succeeds"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLICY LEVER → reduce vulnerability and build lawful capability",
+            "THREAT + VULNERABILITY countered by CAPABILITY"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE if exploitation succeeds",
+            "POLICY LEVER → reduce vulnerability and build lawful capability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLICY LEVER → reduce vulnerability and build lawful capability.",
+      "source_references": [
+        "Threat-vulnerability-capability"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FEDERAL COMPETENCE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FEDERAL COMPETENCE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STATE LIST ENTRY 1",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LIST ENTRY 2",
+          "role": "institution"
+        },
+        {
+          "text": "UNION LIST ENTRY 2A",
+          "role": "primary"
+        },
+        {
+          "text": "ARMED FORCE IN AID OF CIVIL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 355",
+          "role": "institution"
+        },
+        {
+          "text": "UNION PROTECTIVE DUTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE LIST ENTRY 1 → public order",
+        "STATE LIST ENTRY 2 → police",
+        "UNION LIST ENTRY 2A → armed force in aid of civil power",
+        "ARTICLE 355 → Union protective duty",
+        "END-STATE → cooperative action without competence erasure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "STATE LIST ENTRY 1 → public order",
+            "STATE LIST ENTRY 2 → police"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNION LIST ENTRY 2A → armed force in aid of civil power",
+            "ARTICLE 355 → Union protective duty"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "END-STATE → cooperative action without competence erasure",
+            "STATE LIST ENTRY 1 → public order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNION LIST ENTRY 2A → armed force in aid of civil power.",
+      "source_references": [
+        "State List primacy",
+        "Union aid boundary",
+        "Article 355 duty"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RESPONSE CALIBRATION",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESPONSE CALIBRATION",
+          "role": "primary"
+        },
+        {
+          "text": "VIOLENT SECESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "LAWFUL COERCIVE CONTAINMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ETHNIC ASPIRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DIALOGUE AND ACCOMMODATION",
+          "role": "primary"
+        },
+        {
+          "text": "MIXED CASE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY PLUS POLITICAL SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "NECESSITY, PROPORTIONALITY, ACCOUNTABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VIOLENT SECESSION / SEPARATISM → lawful coercive containment",
+        "REGIONAL / ETHNIC ASPIRATION → dialogue and accommodation",
+        "MIXED CASE → security plus political settlement",
+        "SAFEGUARD → necessity, proportionality, accountability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "VIOLENT SECESSION / SEPARATISM → lawful coercive containment",
+            "REGIONAL / ETHNIC ASPIRATION → dialogue and accommodation"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "MIXED CASE → security plus political settlement",
+            "SAFEGUARD → necessity, proportionality, accountability"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "VIOLENT SECESSION / SEPARATISM → lawful coercive containment",
+            "REGIONAL / ETHNIC ASPIRATION → dialogue and accommodation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REGIONAL / ETHNIC ASPIRATION → dialogue and accommodation.",
+      "source_references": [
+        "Coercion-accommodation calibration"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SECURITY-DEVELOPMENT SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SECURITY-DEVELOPMENT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SECURE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "HOLD THROUGH CIVIL ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIVER RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTORE TRUST",
+          "role": "primary"
+        },
+        {
+          "text": "REASSESS VULNERABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVENT RELAPSE",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEME LAUNCH IS NOT GOVERNANCE OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECURE ACCESS → HOLD THROUGH CIVIL ADMINISTRATION",
+        "DELIVER RIGHTS / SERVICES → RESTORE TRUST",
+        "REASSESS VULNERABILITY → PREVENT RELAPSE",
+        "RULE → scheme launch is not governance outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SECURE ACCESS → HOLD THROUGH CIVIL ADMINISTRATION",
+            "DELIVER RIGHTS / SERVICES → RESTORE TRUST"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REASSESS VULNERABILITY → PREVENT RELAPSE",
+            "RULE → scheme launch is not governance outcome"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SECURE ACCESS → HOLD THROUGH CIVIL ADMINISTRATION",
+            "DELIVER RIGHTS / SERVICES → RESTORE TRUST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → scheme launch is not governance outcome.",
+      "source_references": [
+        "Security-development sequencing",
+        "Area-management end-state"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PREVENTION VERSUS RESPONSE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PREVENTION VERSUS RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTELLIGENCE, TRUST, VULNERABILITY REDUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTAINMENT, RESCUE, INVESTIGATION SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSENCE OF EVENT VERSUS VISIBLE OUTPUTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDGET TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "VISIBILITY CAN BIAS RESOURCES TOWARD RESPONSE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PREVENTION → intelligence, trust, vulnerability reduction",
+        "RESPONSE → containment, rescue, investigation support",
+        "MEASUREMENT → absence of event versus visible outputs",
+        "BUDGET TRAP → visibility can bias resources toward response"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "PREVENTION → intelligence, trust, vulnerability reduction",
+          "MEASUREMENT → absence of event versus visible outputs",
+          "PREVENTION → intelligence, trust, vulnerability reduction"
+        ],
+        [
+          "RESPONSE → containment, rescue, investigation support",
+          "BUDGET TRAP → visibility can bias resources toward response",
+          "RESPONSE → containment, rescue, investigation support"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "PREVENTION → intelligence, trust, vulnerability reduction",
+            "RESPONSE → containment, rescue, investigation support"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MEASUREMENT → absence of event versus visible outputs",
+            "BUDGET TRAP → visibility can bias resources toward response"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "PREVENTION → intelligence, trust, vulnerability reduction",
+            "RESPONSE → containment, rescue, investigation support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUDGET TRAP → visibility can bias resources toward response.",
+      "source_references": [
+        "Prevention-response distinction"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LEGAL-RUNG FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGAL-RUNG FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER JUMP TO THE NEXT RUNG",
+          "role": "comparison"
+        },
+        {
+          "text": "LAW → NOTIFICATION → DEPLOYMENT / REGISTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAW → NOTIFICATION → DEPLOYMENT / REGISTRATION",
+        "INVESTIGATION → CHARGE-SHEET → TRIAL / DECISION",
+        "AGREEMENT → IMPLEMENTATION → VERIFIED OUTCOME",
+        "RULE → never jump to the next rung"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "LAW → NOTIFICATION → DEPLOYMENT / REGISTRATION",
+            "INVESTIGATION → CHARGE-SHEET → TRIAL / DECISION"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AGREEMENT → IMPLEMENTATION → VERIFIED OUTCOME",
+            "RULE → never jump to the next rung"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "LAW → NOTIFICATION → DEPLOYMENT / REGISTRATION",
+            "INVESTIGATION → CHARGE-SHEET → TRIAL / DECISION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never jump to the next rung.",
+      "source_references": [
+        "Statutory-power boundary",
+        "Evidence-rung discipline"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY ACTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTRIBUTE + VULNERABILITY + DOCTRINE GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LEAD + UNION AID + COORDINATION",
+          "role": "institution"
+        },
+        {
+          "text": "SECURITY + DEVELOPMENT + RIGHTS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE RUNG, ATTRIBUTION AND END-STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → CLASSIFY ACTOR / THREAT",
+        "DIAGNOSE → ATTRIBUTE + VULNERABILITY + DOCTRINE GAP",
+        "MAP → STATE LEAD + UNION AID + COORDINATION",
+        "CALIBRATE → SECURITY + DEVELOPMENT + RIGHTS",
+        "QUALIFY → EVIDENCE RUNG, ATTRIBUTION AND END-STATE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE → CLASSIFY ACTOR / THREAT",
+            "DIAGNOSE → ATTRIBUTE + VULNERABILITY + DOCTRINE GAP"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "MAP → STATE LEAD + UNION AID + COORDINATION",
+            "CALIBRATE → SECURITY + DEVELOPMENT + RIGHTS"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → EVIDENCE RUNG, ATTRIBUTION AND END-STATE",
+            "DEFINE → CLASSIFY ACTOR / THREAT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP → STATE LEAD + UNION AID + COORDINATION.",
+      "source_references": [
+        "Area-management end-state",
+        "Evidence-rung discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DOCTRINE-TO-INSTITUTION MAPPING",
+          "role": "institution"
+        },
+        {
+          "text": "POLITICAL ELEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SEQUENCING PRECEDENT — ANDHRA PRADESH'S GREYHOUNDS MODEL (LWE)",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT ANCHOR FOR INSTITUTIONAL STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "THE MHA ANNUAL REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "J&K VS. LWE AS BOUNDARY CASES FOR THE COERCION/SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTH-EAST AS THE CLEAREST \"REGIONAL/ETHNIC ASPIRATION\" CASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "Doctrine-to-institution mapping: political element → political",
+            "CAUTION: Sequencing precedent — Andhra Pradesh's Greyhounds model (LWE):",
+            "Current anchor for institutional status: the MHA Annual Report",
+            "CAUTION: J&K vs. LWE as boundary cases for the coercion/settlement split:"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: North-East as the clearest \"regional/ethnic aspiration\" case:",
+            "CAUTION: Cyber security as the doctrine's newest, least-institutionalised",
+            "CAUTION: The doctrine does not resolve the security-development sequencing",
+            "CAUTION: Coercion risks legitimacy costs that can outlast the immediate"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Centre-State coordination is a standing structural constraint, not",
+            "CAUTION: Evidentiary-level discipline is itself an answer-quality",
+            "NOT: The doctrine is not a substitute for area-specific diagnosis.",
+            "Singh's doctrine names eight elements: political, socio-economic,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

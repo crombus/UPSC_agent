@@ -1,0 +1,1215 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-06",
+  "subject": "Governance",
+  "title": "DIGITAL PUBLIC INFRASTRUCTURE AND DATA GOVERNANCE",
+  "short_route": "RAILS, SERVICE AND SAFEGUARD → THE STACK CARD → TWO CONSENT CONSTRUCTS → LAYER-SPECIFIC RISK MATRIX → THREE-TRANCHE COMMENCEMENT → THE SECTION 44 SPLIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Governance\\learning-sessions\\v2\\subject-wide-syllabus\\governance-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-06-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "937955fe6ba6e16a4d0097e9da71d00bf21ae1119b95a8d022c627734268a765",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RAILS, SERVICE AND SAFEGUARD",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RAILS, SERVICE AND SAFEGUARD",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTITY, PAYMENTS, DOCUMENTS, CONSENT, COMMERCE AND HEALTH INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "A SPECIFIC DEPARTMENTAL PORTAL DELIVERED ON THOSE RAILS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DATA-PROTECTION STATUTE, RULES AND ENFORCING BODY",
+          "role": "evidence"
+        },
+        {
+          "text": "WHY IT MATTERS",
+          "role": "primary"
+        },
+        {
+          "text": "RAILS RAISE SYSTEMIC RISKS; A SERVICE RAISES DEPARTMENTAL ONES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RAILS → identity, payments, documents, consent, commerce and health infrastructure",
+        "SERVICE → a specific departmental portal delivered on those rails",
+        "SAFEGUARD → the data-protection statute, rules and enforcing body",
+        "WHY IT MATTERS → rails raise systemic risks; a service raises departmental ones"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RAILS → identity, payments, documents, consent, commerce and health infrastructure",
+            "SERVICE → a specific departmental portal delivered on those rails"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SAFEGUARD → the data-protection statute, rules and enforcing body",
+            "WHY IT MATTERS → rails raise systemic risks; a service raises departmental ones"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RAILS → identity, payments, documents, consent, commerce and health infrastructure",
+            "SERVICE → a specific departmental portal delivered on those rails"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SAFEGUARD → the data-protection statute, rules and enforcing body",
+            "WHY IT MATTERS → rails raise systemic risks; a service raises departmental ones"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHY IT MATTERS → rails raise systemic risks; a service raises departmental ones.",
+      "source_references": [
+        "Rails, service and safeguard as three layers"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE STACK CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE STACK CARD",
+          "role": "primary"
+        },
+        {
+          "text": "AADHAAR UNDER THE AADHAAR ACT, 2016; UIDAI; NOT PROOF",
+          "role": "caution"
+        },
+        {
+          "text": "UNIFIED PAYMENTS INTERFACE OPERATED BY THE NATIONAL PAYMENTS CORPORATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGILOCKER UNDER THE MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCOUNT AGGREGATOR REGULATED BY THE RESERVE BANK OF INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCE AND HEALTH",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN NETWORK FOR DIGITAL COMMERCE; AYUSHMAN BHARAT DIGITAL MISSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "IDENTITY → Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship",
+        "PAYMENTS → Unified Payments Interface operated by the National Payments Corporation of India",
+        "DOCUMENTS → DigiLocker under the Ministry of Electronics and Information Technology",
+        "CONSENT → Account Aggregator regulated by the Reserve Bank of India under DEPA",
+        "COMMERCE AND HEALTH → Open Network for Digital Commerce; Ayushman Bharat Digital Mission"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "IDENTITY → Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship",
+          "DOCUMENTS → DigiLocker under the Ministry of Electronics and Information Technology",
+          "COMMERCE AND HEALTH → Open Network for Digital Commerce; Ayushman Bharat Digital Mission",
+          "PAYMENTS → Unified Payments Interface operated by the National Payments Corporation of India"
+        ],
+        [
+          "PAYMENTS → Unified Payments Interface operated by the National Payments Corporation of India",
+          "CONSENT → Account Aggregator regulated by the Reserve Bank of India under DEPA",
+          "IDENTITY → Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship",
+          "DOCUMENTS → DigiLocker under the Ministry of Electronics and Information Technology"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "IDENTITY → Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship",
+            "PAYMENTS → Unified Payments Interface operated by the National Payments Corporation of India"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DOCUMENTS → DigiLocker under the Ministry of Electronics and Information Technology",
+            "CONSENT → Account Aggregator regulated by the Reserve Bank of India under DEPA"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMERCE AND HEALTH → Open Network for Digital Commerce; Ayushman Bharat Digital Mission",
+            "IDENTITY → Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PAYMENTS → Unified Payments Interface operated by the National Payments Corporation of India",
+            "DOCUMENTS → DigiLocker under the Ministry of Electronics and Information Technology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMERCE AND HEALTH → Open Network for Digital Commerce; Ayushman Bharat Digital Mission.",
+      "source_references": [
+        "The identity layer and its exact statutory anchor",
+        "Payments and documents layers"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO CONSENT CONSTRUCTS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO CONSENT CONSTRUCTS",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNT AGGREGATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE-SPECIFIC; RESERVE BANK REGULATED; CANNOT VIEW OR STORE THE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT MANAGER",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERAL-PURPOSE REGISTRATION UNDER THE 2025 RULES; COMMENCES 13 NOVEMBER",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED LOGIC",
+          "role": "outcome"
+        },
+        {
+          "text": "GIVE, MANAGE, REVIEW AND WITHDRAW CONSENT THROUGH AN INTEROPERABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "ERROR PREVENTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ACCOUNT AGGREGATOR → finance-specific; Reserve Bank regulated; cannot view or store the data",
+        "CONSENT MANAGER → general-purpose registration under the 2025 Rules; commences 13 November 2026",
+        "SHARED LOGIC → give, manage, review and withdraw consent through an interoperable platform",
+        "ERROR PREVENTED → treating one registration as the other in a close-option question"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ACCOUNT AGGREGATOR → finance-specific; Reserve Bank regulated; cannot view or store the data",
+          "SHARED LOGIC → give, manage, review and withdraw consent through an interoperable platform",
+          "ACCOUNT AGGREGATOR → finance-specific; Reserve Bank regulated; cannot view or store the data",
+          "SHARED LOGIC → give, manage, review and withdraw consent through an interoperable platform"
+        ],
+        [
+          "CONSENT MANAGER → general-purpose registration under the 2025 Rules; commences 13 November 2026",
+          "ERROR PREVENTED → treating one registration as the other in a close-option question",
+          "CONSENT MANAGER → general-purpose registration under the 2025 Rules; commences 13 November 2026",
+          "ERROR PREVENTED → treating one registration as the other in a close-option question"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ACCOUNT AGGREGATOR → finance-specific; Reserve Bank regulated; cannot view or store the data",
+            "CONSENT MANAGER → general-purpose registration under the 2025 Rules; commences 13 November 2026"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SHARED LOGIC → give, manage, review and withdraw consent through an interoperable platform",
+            "ERROR PREVENTED → treating one registration as the other in a close-option question"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACCOUNT AGGREGATOR → finance-specific; Reserve Bank regulated; cannot view or store the data",
+            "CONSENT MANAGER → general-purpose registration under the 2025 Rules; commences 13 November 2026"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SHARED LOGIC → give, manage, review and withdraw consent through an interoperable platform",
+            "ERROR PREVENTED → treating one registration as the other in a close-option question"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR PREVENTED → treating one registration as the other in a close-option question.",
+      "source_references": [
+        "Two consent managers that are not the same registration"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LAYER-SPECIFIC RISK MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAYER-SPECIFIC RISK MATRIX",
+          "role": "caution"
+        },
+        {
+          "text": "WHO IS EXCLUDED BY AUTHENTICATION FAILURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PAYMENTS AND DOCUMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO LACKS THE DEVICE, CONNECTIVITY OR LITERACY TO SELF-SERVE",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES THE OPEN PROTOCOL GIVE SMALLER SELLERS GENUINELY EQUAL",
+          "role": "primary"
+        },
+        {
+          "text": "IS SENSITIVE DATA WITH HIGHER RE-IDENTIFICATION RISK ADEQUATELY SAFEGUARDED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDENTITY → who is excluded by authentication failure",
+        "PAYMENTS AND DOCUMENTS → who lacks the device, connectivity or literacy to self-serve",
+        "COMMERCE → does the open protocol give smaller sellers genuinely equal visibility",
+        "HEALTH → is sensitive data with higher re-identification risk adequately safeguarded"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "IDENTITY → who is excluded by authentication failure",
+          "COMMERCE → does the open protocol give smaller sellers genuinely equal visibility",
+          "IDENTITY → who is excluded by authentication failure",
+          "COMMERCE → does the open protocol give smaller sellers genuinely equal visibility"
+        ],
+        [
+          "PAYMENTS AND DOCUMENTS → who lacks the device, connectivity or literacy to self-serve",
+          "HEALTH → is sensitive data with higher re-identification risk adequately safeguarded",
+          "PAYMENTS AND DOCUMENTS → who lacks the device, connectivity or literacy to self-serve",
+          "HEALTH → is sensitive data with higher re-identification risk adequately safeguarded"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "IDENTITY → who is excluded by authentication failure",
+            "PAYMENTS AND DOCUMENTS → who lacks the device, connectivity or literacy to self-serve"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMMERCE → does the open protocol give smaller sellers genuinely equal visibility",
+            "HEALTH → is sensitive data with higher re-identification risk adequately safeguarded"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "IDENTITY → who is excluded by authentication failure",
+            "PAYMENTS AND DOCUMENTS → who lacks the device, connectivity or literacy to self-serve"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COMMERCE → does the open protocol give smaller sellers genuinely equal visibility",
+            "HEALTH → is sensitive data with higher re-identification risk adequately safeguarded"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HEALTH → is sensitive data with higher re-identification risk adequately safeguarded.",
+      "source_references": [
+        "Commerce and health layers with distinct risks"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THREE-TRANCHE COMMENCEMENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THREE-TRANCHE COMMENCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "13 NOVEMBER 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINITIONS, SECTIONS 18 TO 26 ESTABLISHING THE BOARD, SECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "13 NOVEMBER 2026",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 6(9) CONSENT MANAGERS AND SECTION 27(1)(D)",
+          "role": "primary"
+        },
+        {
+          "text": "13 MAY 2027",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTIONS 3 TO 5, SECTIONS 7 TO 17 RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "G.S.R. 843(E) COMMENCEMENT; G.S.R. 846(E) RULES; G.S.R. 892(E) CORRIGENDUM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13 NOVEMBER 2025 → definitions, sections 18 to 26 establishing the Board, section 44(1) and",
+        "13 NOVEMBER 2026 → section 6(9) consent managers and section 27(1)(d)",
+        "13 MAY 2027 → sections 3 to 5, sections 7 to 17 rights, sections 27",
+        "NOTIFICATIONS → G.S.R. 843(E) commencement; G.S.R. 846(E) Rules; G.S.R. 892(E) corrigendum"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "13 NOVEMBER 2025 → definitions, sections 18 to 26 establishing the Board, section 44(1) and 44(3)",
+            "13 NOVEMBER 2026 → section 6(9) consent managers and section 27(1)(d)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "13 MAY 2027 → sections 3 to 5, sections 7 to 17 rights, sections 27 to 34 and section 44(2)",
+            "NOTIFICATIONS → G.S.R. 843(E) commencement; G.S.R. 846(E) Rules; G.S.R. 892(E) corrigendum"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "13 NOVEMBER 2025 → definitions, sections 18 to 26 establishing the Board, section 44(1) and 44(3)",
+            "13 NOVEMBER 2026 → section 6(9) consent managers and section 27(1)(d)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "13 MAY 2027 → sections 3 to 5, sections 7 to 17 rights, sections 27 to 34 and section 44(2)",
+            "NOTIFICATIONS → G.S.R. 843(E) commencement; G.S.R. 846(E) Rules; G.S.R. 892(E) corrigendum"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOTIFICATIONS → G.S.R. 843(E) commencement; G.S.R. 846(E) Rules; G.S.R. 892(E) corrigendum.",
+      "source_references": [
+        "The three-tranche commencement",
+        "The Rules and their notification identity"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE SECTION 44 SPLIT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE SECTION 44 SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 44(3)",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTITUTES THE PERSONAL-INFORMATION EXEMPTION IN THE TRANSPARENCY STATUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "IMMEDIATE TRANCHE; OPERATIVE SINCE 13 AND 14 NOVEMBER 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 44(2)",
+          "role": "primary"
+        },
+        {
+          "text": "AMENDS THE INFORMATION TECHNOLOGY ACT, 2000",
+          "role": "institution"
+        },
+        {
+          "text": "DEFERRED TO 13 MAY 2027; CHALLENGES FILED AND NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECTION 44(3) → substitutes the personal-information exemption in the transparency statute",
+        "STATUS → immediate tranche; operative since 13 and 14 November 2025",
+        "SECTION 44(2) → amends the Information Technology Act, 2000",
+        "STATUS → deferred to 13 May 2027; challenges filed and no final judgment located"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SECTION 44(3) → substitutes the personal-information exemption in the transparency statute",
+          "SECTION 44(2) → amends the Information Technology Act, 2000",
+          "SECTION 44(3) → substitutes the personal-information exemption in the transparency statute",
+          "SECTION 44(2) → amends the Information Technology Act, 2000"
+        ],
+        [
+          "STATUS → immediate tranche; operative since 13 and 14 November 2025",
+          "STATUS → deferred to 13 May 2027; challenges filed and no final judgment located",
+          "STATUS → immediate tranche; operative since 13 and 14 November 2025",
+          "STATUS → deferred to 13 May 2027; challenges filed and no final judgment located"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 44(3) → substitutes the personal-information exemption in the transparency statute",
+            "STATUS → immediate tranche; operative since 13 and 14 November 2025"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 44(2) → amends the Information Technology Act, 2000",
+            "STATUS → deferred to 13 May 2027; challenges filed and no final judgment located"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTION 44(3) → substitutes the personal-information exemption in the transparency statute",
+            "STATUS → immediate tranche; operative since 13 and 14 November 2025"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SECTION 44(2) → amends the Information Technology Act, 2000",
+            "STATUS → deferred to 13 May 2027; challenges filed and no final judgment located"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → deferred to 13 May 2027; challenges filed and no final judgment located.",
+      "source_references": [
+        "Two subsections that are routinely swapped"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ENFORCEMENT SEQUENCE",
+      "structural_type": "hierarchy",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ENFORCEMENT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 1 ESTABLISHED",
+          "role": "outcome"
+        },
+        {
+          "text": "THE BOARD EXISTS IN LAW UNDER SECTION 18",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE 2 RECRUITMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLICATIONS INVITED IN MAY 2026 FOR ONE CHAIRPERSON AND",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 3 PROCEDURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RULES OF PROCEDURE AND DIGITAL-FIRST CONDUCT OF PROCEEDINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE 4 AND 5",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAGE 1 ESTABLISHED → the Board exists in law under section 18",
+        "STAGE 2 RECRUITMENT → applications invited in May 2026 for one Chairperson and four Members",
+        "STAGE 3 PROCEDURE → rules of procedure and digital-first conduct of proceedings",
+        "STAGE 4 AND 5 → commenced substantive duties, then decided cases",
+        "CAUTION → no appointment order located by the 21 July 2026 cut-off"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STAGE 1 ESTABLISHED → the Board exists in law under section 18",
+            "STAGE 2 RECRUITMENT → applications invited in May 2026 for one Chairperson and four Members"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STAGE 3 PROCEDURE → rules of procedure and digital-first conduct of proceedings",
+            "STAGE 4 AND 5 → commenced substantive duties, then decided cases"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → no appointment order located by the 21 July 2026 cut-off",
+            "STAGE 1 ESTABLISHED → the Board exists in law under section 18"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "STAGE 2 RECRUITMENT → applications invited in May 2026 for one Chairperson and four Members",
+            "STAGE 3 PROCEDURE → rules of procedure and digital-first conduct of proceedings"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → no appointment order located by the 21 July 2026 cut-off.",
+      "source_references": [
+        "The Board and the five-stage enforcement sequence"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AUTHENTICATION DEPENDENCY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AUTHENTICATION DEPENDENCY",
+          "role": "primary"
+        },
+        {
+          "text": "POPULATION-SCALE IDENTITY",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFICIENT TARGETING AND DE-DUPLICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESS BECOMES CONDITIONAL ON SUCCESSFUL VERIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FAILURE MODES",
+          "role": "primary"
+        },
+        {
+          "text": "WORN BIOMETRICS, CONNECTIVITY DROP, ADDRESS MISMATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "INCLUSION AT THE MEDIAN WITH A DENIAL TAIL AMONG",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFLINE OVERRIDE, WHICH REINTRODUCES SOME DISCRETION; A TRADE-OFF, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POPULATION-SCALE IDENTITY → efficient targeting and de-duplication",
+        "AUTHENTICATION DEPENDENCY → access becomes conditional on successful verification",
+        "FAILURE MODES → worn biometrics, connectivity drop, address mismatch",
+        "OUTCOME → inclusion at the median with a denial tail among intended beneficiaries",
+        "MITIGATION → offline override, which reintroduces some discretion; a trade-off, not a fix"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "POPULATION-SCALE IDENTITY → efficient targeting and de-duplication",
+            "AUTHENTICATION DEPENDENCY → access becomes conditional on successful verification"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FAILURE MODES → worn biometrics, connectivity drop, address mismatch",
+            "OUTCOME → inclusion at the median with a denial tail among intended beneficiaries"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MITIGATION → offline override, which reintroduces some discretion; a trade-off, not a fix",
+            "POPULATION-SCALE IDENTITY → efficient targeting and de-duplication"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "AUTHENTICATION DEPENDENCY → access becomes conditional on successful verification",
+            "FAILURE MODES → worn biometrics, connectivity drop, address mismatch"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MITIGATION → offline override, which reintroduces some discretion; a trade-off, not a fix.",
+      "source_references": [
+        "Authentication dependency and the reuse tension"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTEROPERABILITY AGAINST PURPOSE LIMITATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTEROPERABILITY AGAINST PURPOSE LIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "THE SAME RAILS REUSED ACROSS MANY PUBLIC AND PRIVATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE LIMITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA COLLECTED FOR ONE PURPOSE MAY NOT BE SILENTLY",
+          "role": "caution"
+        },
+        {
+          "text": "GRANULAR PURPOSE-SPECIFIC CONSENT, PURPOSE TAGGING, DATA MINIMISATION",
+          "role": "primary"
+        },
+        {
+          "text": "PRACTICAL FAILURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT FATIGUE, MEANING HABITUAL APPROVAL WITHOUT COMPREHENSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INTEROPERABILITY → the same rails reused across many public and private services",
+        "PURPOSE LIMITATION → data collected for one purpose may not be silently reused",
+        "RECONCILERS → granular purpose-specific consent, purpose tagging, data minimisation",
+        "PRACTICAL FAILURE → consent fatigue, meaning habitual approval without comprehension"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "INTEROPERABILITY → the same rails reused across many public and private services",
+          "RECONCILERS → granular purpose-specific consent, purpose tagging, data minimisation",
+          "INTEROPERABILITY → the same rails reused across many public and private services",
+          "RECONCILERS → granular purpose-specific consent, purpose tagging, data minimisation"
+        ],
+        [
+          "PURPOSE LIMITATION → data collected for one purpose may not be silently reused",
+          "PRACTICAL FAILURE → consent fatigue, meaning habitual approval without comprehension",
+          "PURPOSE LIMITATION → data collected for one purpose may not be silently reused",
+          "PRACTICAL FAILURE → consent fatigue, meaning habitual approval without comprehension"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INTEROPERABILITY → the same rails reused across many public and private services",
+            "PURPOSE LIMITATION → data collected for one purpose may not be silently reused"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RECONCILERS → granular purpose-specific consent, purpose tagging, data minimisation",
+            "PRACTICAL FAILURE → consent fatigue, meaning habitual approval without comprehension"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEROPERABILITY → the same rails reused across many public and private services",
+            "PURPOSE LIMITATION → data collected for one purpose may not be silently reused"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RECONCILERS → granular purpose-specific consent, purpose tagging, data minimisation",
+            "PRACTICAL FAILURE → consent fatigue, meaning habitual approval without comprehension"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRACTICAL FAILURE → consent fatigue, meaning habitual approval without comprehension.",
+      "source_references": [
+        "Authentication dependency and the reuse tension"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SIX BINDING CONSTRAINTS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SIX BINDING CONSTRAINTS",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSEHOLD HANDSET SHARED AND CONTROLLED BY ONE MEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITY AND COST, NOT MERELY COVERAGE",
+          "role": "caution"
+        },
+        {
+          "text": "CONTENT AND ERROR MESSAGES OUTSIDE THE USER'S SCRIPT",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNCTIONAL LITERACY",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETING A TASK, NOT OPERATING A PHONE",
+          "role": "caution"
+        },
+        {
+          "text": "TRUST AND AUTHENTICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FEAR OF ERROR, WORN FINGERPRINTS, ADDRESS MISMATCH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEVICE → household handset shared and controlled by one member",
+        "CONNECTIVITY → quality and cost, not merely coverage",
+        "LANGUAGE → content and error messages outside the user's script",
+        "FUNCTIONAL LITERACY → completing a task, not operating a phone",
+        "TRUST AND AUTHENTICATION → fear of error, worn fingerprints, address mismatch"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DEVICE → household handset shared and controlled by one member",
+            "CONNECTIVITY → quality and cost, not merely coverage"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LANGUAGE → content and error messages outside the user's script",
+            "FUNCTIONAL LITERACY → completing a task, not operating a phone"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRUST AND AUTHENTICATION → fear of error, worn fingerprints, address mismatch",
+            "DEVICE → household handset shared and controlled by one member"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONNECTIVITY → quality and cost, not merely coverage",
+            "LANGUAGE → content and error messages outside the user's script"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRUST AND AUTHENTICATION → fear of error, worn fingerprints, address mismatch.",
+      "source_references": [
+        "Six binding constraints and the intermediary paradox"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INTERMEDIARY PARADOX AND FOUR SAFEGUARDS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INTERMEDIARY PARADOX AND FOUR SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "REALISTIC ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSISTED ACCESS THROUGH A CENTRE, A SHOPKEEPER OR A",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW RISK",
+          "role": "caution"
+        },
+        {
+          "text": "A FEE, AN ERROR RATE AND ACCESS TO THE",
+          "role": "primary"
+        },
+        {
+          "text": "SAFEGUARDS 1 AND 2",
+          "role": "outcome"
+        },
+        {
+          "text": "NECESSITY AND PROPORTIONALITY; MINIMISATION WITH PURPOSE TAGGING",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFEGUARDS 3 AND 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REALISTIC ROUTE → assisted access through a centre, a shopkeeper or a family member",
+        "NEW RISK → a fee, an error rate and access to the citizen's own credentials",
+        "SAFEGUARDS 1 AND 2 → necessity and proportionality; minimisation with purpose tagging",
+        "SAFEGUARDS 3 AND 4 → assisted and offline fallback; reasoned human review and appeal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "REALISTIC ROUTE → assisted access through a centre, a shopkeeper or a family member",
+            "NEW RISK → a fee, an error rate and access to the citizen's own credentials"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SAFEGUARDS 1 AND 2 → necessity and proportionality; minimisation with purpose tagging",
+            "SAFEGUARDS 3 AND 4 → assisted and offline fallback; reasoned human review and appeal"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "REALISTIC ROUTE → assisted access through a centre, a shopkeeper or a family member",
+            "NEW RISK → a fee, an error rate and access to the citizen's own credentials"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SAFEGUARDS 1 AND 2 → necessity and proportionality; minimisation with purpose tagging",
+            "SAFEGUARDS 3 AND 4 → assisted and offline fallback; reasoned human review and appeal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFEGUARDS 3 AND 4 → assisted and offline fallback; reasoned human review and appeal.",
+      "source_references": [
+        "Six binding constraints and the intermediary paradox"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR AN ADEQUACY DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR AN ADEQUACY DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE RAILS, SERVICE AND SAFEGUARD, AND NAME THE LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE THE TRANCHE, THE SECTION AND THE DATE BEFORE",
+          "role": "institution"
+        },
+        {
+          "text": "EXCLUSION TAIL, CONSENT QUALITY, REUSE TENSION, ENFORCEMENT STAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH A PENDING-CHALLENGE CAVEAT AND CORRECT GRIEVANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → separate rails, service and safeguard, and name the layer at issue",
+        "BUILD → state the tranche, the section and the date before evaluating adequacy",
+        "TEST → exclusion tail, consent quality, reuse tension, enforcement stage",
+        "CLOSE → graded verdict with a pending-challenge caveat and correct grievance routing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OPEN → separate rails, service and safeguard, and name the layer at issue",
+            "BUILD → state the tranche, the section and the date before evaluating adequacy"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TEST → exclusion tail, consent quality, reuse tension, enforcement stage",
+            "CLOSE → graded verdict with a pending-challenge caveat and correct grievance routing"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → separate rails, service and safeguard, and name the layer at issue",
+            "BUILD → state the tranche, the section and the date before evaluating adequacy"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TEST → exclusion tail, consent quality, reuse tension, enforcement stage",
+            "CLOSE → graded verdict with a pending-challenge caveat and correct grievance routing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with a pending-challenge caveat and correct grievance routing.",
+      "source_references": [
+        "Remedy forums and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE 2017 JUSTICE K.S. PUTTASWAMY JUDGMENT (A POLITY/FUNDAMENTAL RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ONDC'S OPEN-PROTOCOL LOGIC EXTENDS DPI'S \"RAILS, NOT PLATFORM\" PHILOSOPHY",
+          "role": "caution"
+        },
+        {
+          "text": "ABDM'S HEALTH-DATA MODEL RAISES A DISTINCT SENSITIVITY-TIER ISSUE",
+          "role": "evidence"
+        },
+        {
+          "text": "HEALTH DATA CARRIES",
+          "role": "primary"
+        },
+        {
+          "text": "THE DIGITAL PERSONAL DATA PROTECTION RULES, 2025 WERE NOTIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DPBI WAS LEGALLY ESTABLISHED AND MEITY ADVERTISED ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "RBI'S ACCOUNT AGGREGATOR REGULATORY FRAMEWORK LONG PRECEDED THE DPDP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INSTITUTIONAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The 2017 Justice K.S. Puttaswamy judgment (a Polity/Fundamental Rights topic) supplies",
+            "CAUTION: ONDC's open-protocol logic extends DPI's \"rails, not platform\" philosophy to commerce;",
+            "CAUTION: ABDM's health-data model raises a distinct sensitivity-tier issue: health data carries",
+            "The Digital Personal Data Protection Rules, 2025 were notified by MeitY on 13 November"
+          ]
+        },
+        {
+          "heading": "STATUS / DATA CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "The DPBI was legally established and MeitY advertised one Chairperson and four Member",
+            "CAUTION: RBI's Account Aggregator regulatory framework long preceded the DPDP Act, illustrating",
+            "CAUTION: A rural PDS beneficiary denied grain due to biometric authentication failure despite",
+            "CAUTION: Boundary case: a Consent Manager platform that presents consent requests in dense legal"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: ONDC enabling a small local retailer to reach buyers across platforms without",
+            "CAUTION: Interoperability (DPI's core value proposition) and purpose limitation (DPDP's core",
+            "CAUTION: Authentication-based service delivery improves efficiency for the majority while",
+            "CAUTION: A legally established but not-yet-appointed Board has no case-outcome evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

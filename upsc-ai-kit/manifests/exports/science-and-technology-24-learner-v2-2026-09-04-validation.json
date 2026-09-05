@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "science-and-technology-24-learner-v2-2026-09-04-validation",
+  "validated_on": "2026-09-04T13:10:58.933088+05:30",
+  "selection": "science-and-technology-24",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 1,
+    "scope": "Topic 24 authoring self-check and Python compilation"
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-24",
+      "source_generation": 0,
+      "refreshed_generation": 1,
+      "subject": "Science-and-Technology",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "science-and-technology-24",
+      "main_pdf_pages": 92,
+      "workbook_pdf_pages": 48,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 62,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-24-2026-09-04-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          91,
+          91,
+          91,
+          91,
+          91,
+          91,
+          91,
+          92,
+          92,
+          92,
+          92,
+          92
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-24\\carvaka-g1\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\science-and-technology-24_Solved-Practice-Workbook_2026-09-04.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\science-and-technology-24_Complete-Learning-Session_2026-09-04.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\science-and-technology-24_Solved-Practice-Workbook_2026-09-04.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-24\\carvaka-g1"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 92,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 48,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4
+    }
+  ]
+}

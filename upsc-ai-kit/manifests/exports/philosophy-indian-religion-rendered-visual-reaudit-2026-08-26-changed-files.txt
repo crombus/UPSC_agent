@@ -1,0 +1,98 @@
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\PHILOSOPHY-INDIAN-RELIGION-RENDERED-VISUAL-REAUDIT-REPORT.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-i-indian-philosophy-01-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-i-indian-philosophy-02-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-i-indian-philosophy-03-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-i-indian-philosophy-04-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-i-indian-philosophy-05-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-01-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-02-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-03-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-04-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-05-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-06-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-07-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-08-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-09-visual-pages.zip
+notes\Final-Learning-Packages\_visual-reaudit\2026-08-26\philosophy-paper-ii-philosophy-of-religion-10-visual-pages.zip
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-02\g12\topic-02_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-02\g12\topic-02_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-03\g12\topic-03_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-03\g12\topic-03_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-04\g12\topic-04_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-04\g12\topic-04_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-05\g11\topic-05_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-05\g11\topic-05_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-06\g11\topic-06_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-06\g11\topic-06_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-07\g11\topic-07_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-07\g11\topic-07_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-08\g11\topic-08_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-08\g11\topic-08_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-09\g11\topic-09_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-09\g11\topic-09_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g11\topic-10_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g11\topic-10_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Philosophy-of-Religion\learning-sessions\Notions-of-God\g13\Notions-of-God_Complete-Learning-Session_2026-08-23.pdf
+notes\Learner-v2-Refreshed\Philosophy\Philosophy-of-Religion\learning-sessions\Notions-of-God\g13\Notions-of-God_Solved-Practice-Workbook_2026-08-23.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\notes\philosophy-paper-i-indian-philosophy-01_Learning-Session_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\notes\philosophy-paper-i-indian-philosophy-02_Learning-Session_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\notes\philosophy-paper-i-indian-philosophy-03_Learning-Session_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\notes\philosophy-paper-i-indian-philosophy-04_Learning-Session_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\notes\philosophy-paper-i-indian-philosophy-05_Learning-Session_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\workbooks\philosophy-paper-i-indian-philosophy-01_Solved-Workbook_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\workbooks\philosophy-paper-i-indian-philosophy-02_Solved-Workbook_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\workbooks\philosophy-paper-i-indian-philosophy-03_Solved-Workbook_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\workbooks\philosophy-paper-i-indian-philosophy-04_Solved-Workbook_2026-08-25.pdf
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy\workbooks\philosophy-paper-i-indian-philosophy-05_Solved-Workbook_2026-08-25.pdf
+tools\markdown_learning_pdf.py
+tools\philosophy_indian_religion_rendered_visual_reaudit.py
+tools\test_validate_philosophy_indian_religion_rendered_visual_reaudit.py
+tools\validate_philosophy_indian_religion_rendered_visual_reaudit.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-03\g12\topic-03_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-04\g12\topic-04_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-05\g11\topic-05_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-06\g11\topic-06_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-08\g11\topic-08_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-09\g11\topic-09_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g11\topic-10_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Philosophy-of-Religion\learning-sessions\Notions-of-God\g13\Notions-of-God_Complete-Learning-Session_2026-08-23.md
+upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy\philosophy-paper-i-indian-philosophy-01_Learning-Session.md
+upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy\philosophy-paper-i-indian-philosophy-02_Learning-Session.md
+upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy\philosophy-paper-i-indian-philosophy-03_Learning-Session.md
+upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy\philosophy-paper-i-indian-philosophy-04_Learning-Session.md
+upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy\philosophy-paper-i-indian-philosophy-05_Learning-Session.md
+upsc-ai-kit\manifests\exports\philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-baseline.json
+upsc-ai-kit\manifests\exports\philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-validation.json
+upsc-ai-kit\manifests\exports\philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-visual-inventory.json

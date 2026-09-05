@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "polity-48-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-48": {
+      "title": "Ministries Departments and Central Secretariat",
+      "source_record": "polity-48:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Constitutional root and the operating chain",
+          "structural_type": "constitutional-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+          ],
+          "full_text": "ROOT QUESTION\nHow does parliamentary executive authority become organised governmental action?\n\n+-- ARTICLES 73 + 74 --+-- Union executive field and ministerial advice\n|                     +-- political authority remains Constitution-bounded\n+-- ARTICLE 77 --------+-- action in President's name and authentication\n|                     +-- Article 77(3) business-allocation and transaction rules\n+-- ARTICLE 78 ----------- PM communication and information duties to President\n                              |\n                              v\nMinisterial direction -> Secretariat advice/process -> agency delivery -> accountability."
+        },
+        {
+          "title": "AoB and ToB: jurisdiction before procedure",
+          "structural_type": "rules-of-business-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+          ],
+          "full_text": "                    ARTICLE 77(3)\n                         +----------+----------+\n                         v                     v\nALLOCATION OF BUSINESS RULES             TRANSACTION OF BUSINESS RULES\nwho handles what                         how a proposal is decided\nministry/department + subjects           disposal + consultation + escalation\n                         +----------+----------+\n                                    v\n                 lawful owner + lawful decision route\n\nTRAP RAIL\nAoB != ToB | both != Article 309 | schedule can change | statute still controls.\n\nANSWER STRIP\nAllocation supplies jurisdiction; transaction supplies procedure and collective discipline."
+        },
+        {
+          "title": "Institution map: political head to field delivery",
+          "structural_type": "institution-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+          ],
+          "full_text": "PORTFOLIO -> MINISTRY -> DEPARTMENT -> SECRETARIAT\n     |           |             |              |\n political      broad          allocated       policy/law/budget/\n charge         unit           subject unit    coordination/memory\n                                    |\n                    +---------------+----------------+\n                    v               v                v\n              ATTACHED OFFICE  SUBORDINATE OFFICE  FIELD/DIRECTORATE\n              technical lead   execution/service   territorial chain\n\nSEPARATE LEGAL FORMS\nstatutory body | autonomous body | CPSE | regulator.\n\nTRAP\nadministrative association does not erase the source instrument or statutory independence."
+        },
+        {
+          "title": "Minister, Minister of State and Secretary",
+          "structural_type": "role-responsibility-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+          ],
+          "full_text": "POLITICAL EXECUTIVE\nCabinet Minister -> portfolio leadership, Cabinet participation, Parliament.\nMinister of State -> independent charge or assigned assistance, as formally allocated.\n\nPERMANENT EXECUTIVE\nSecretary -> administrative head + principal official adviser + transaction compliance.\n\n                     PRODUCTIVE RELATION\nelected priority -> candid options/legality -> recorded decision -> loyal implementation.\n\nFAILURE BRANCHES\npoliticised advice | bureaucratic veto | oral direction | short tenure | hidden responsibility.\n\nANSWER STRIP\nResponsive neutrality joins lawful democratic control to professional institutional memory."
+        },
+        {
+          "title": "Central Secretariat functions and file process",
+          "structural_type": "file-process-system",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+          ],
+          "full_text": "CENTRAL SECRETARIAT\npolicy | legislation/rules | budget | Parliament | coordination | monitoring | records.\n\nFILE RAIL\nreceipt -> section examination -> facts/law/finance -> noting/options\n-> inter-department consultation -> delegated or higher approval\n-> authentication/issue -> implementation -> monitoring/audit/RTI.\n\nHIERARCHY\nSection Officer -> Under Secretary -> Deputy Secretary/Director\n-> Joint Secretary -> Additional/Special Secretary -> Secretary.\n\nTRAP\nnot every file reaches Minister/Secretary; delegation is an accountability design, not evasion."
+        },
+        {
+          "title": "Secretariat hierarchy and delegated file disposal",
+          "structural_type": "hierarchy-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md#SESSION 5"
+          ],
+          "full_text": "SECRETARY -> SPECIAL/ADDITIONAL SECRETARY -> JOINT SECRETARY\n-> DIRECTOR/DEPUTY SECRETARY -> UNDER SECRETARY -> SECTION.\n\nFILE\nreceipt -> examination/noting -> consultation -> competent approval\n-> issue/authentication -> record/monitoring.\n\nRULE\nlowest competent delegated level; authority and reasons remain traceable."
+        },
+        {
+          "title": "Cabinet Secretariat, PMO and coordination",
+          "structural_type": "centre-of-government-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+          ],
+          "full_text": "CABINET SECRETARIAT\nCabinet papers/decisions | AoB-ToB administration | CoS | crisis and consensus.\n\nPMO\ndirect assistance to Prime Minister | priority review | matters requiring PM attention.\n\n                     UNRESOLVED DIFFERENCE\ndepartment consultation -> Committee of Secretaries -> concerned ministers\n-> Cabinet Committee/Cabinet under the prescribed route.\n\nBOUNDARY\nCabinet Secretariat != Cabinet | PMO != super-ministry | Cabinet Secretary != minister.\n\nANSWER STRIP\nCentral coordination should enable departments without erasing ministerial answerability."
+        },
+        {
+          "title": "Agencies, autonomy and whole-of-government outcomes",
+          "structural_type": "agency-outcome-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+          ],
+          "full_text": "DEPARTMENTAL POLICY OWNER\n      +-- attached/subordinate office -> technical/field execution\n      +-- autonomous body -> chartered special function\n      +-- CPSE -> commercial/strategic operation\n      +-- regulator -> statute-based arm's-length governance\n\nWHOLE-OF-GOVERNMENT PROBLEM\nclimate/data/skills/water -> many departments -> silo optimisation -> outcome failure.\n\nCORRECTIVE\nnamed lead + shared milestones/data + funds/functionaries + State/field feedback.\n\nLIMIT\nmission unit or dashboard cannot displace statute, sanction, Cabinet route or audit."
+        },
+        {
+          "title": "Cabinet committees and inter-ministerial resolution",
+          "structural_type": "coordination-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md#SESSION 9"
+          ],
+          "full_text": "CABINET / CABINET COMMITTEE\npolitical collective decision.\n\nCOMMITTEE OF SECRETARIES\nadministrative coordination and common advice.\n\nCABINET SECRETARIAT\nprocedure, agenda, records, monitoring and consensus.\n\nPMO\nsupport to PM; not Cabinet-record custodian or super-ministry.\n\nESCALATE unresolved cross-government conflict, not every routine file."
+        },
+        {
+          "title": "Oversight, reform and notification-sensitive change",
+          "structural_type": "accountability-reform-grid",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "ACCOUNTABILITY GRID\nParliament/questions/DRSCs -> political and policy scrutiny.\nbudget/demands/CAG/PAC -> financial legality, propriety and performance.\nRTI/courts/vigilance -> transparency, legality and personal responsibility.\n\nREFORM\n2nd ARC principles | delegation | competency-to-post fit | Mission Karmayogi\n| digital record | impact evaluation | stable tenure | specialist/lateral support.\n\nREORGANISATION\nArticle 77(3) rule change -> cadres/budgets/records/contracts/statutory references transition.\n\nTRAP\nrenamed organogram != improved outcome; ministry/committee counts must be dated."
+        },
+        {
+          "title": "Verified PYQs and answer execution",
+          "structural_type": "pyq-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "2025 PRELIMS Q57: organisation-ministry pairs -> NONE.\n2020 GS-II Q7: institutional quality -> civil-service + departmental reform.\n2020 GS-II Q8: digital revolution -> lawful integrated e-governance.\n2024 GS-II Q3: cabinet growth -> practical parliamentary marginalisation.\n\nANSWER\nconstitutional source -> organisation -> mechanism -> accountability -> reform."
+        },
+        {
+          "title": "UPSC synthesis: organised authority with traceable responsibility",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "PRELIMS FIREWALL\nAoB=owner | ToB=route | President's name != personal decision\n| Secretariat != Cabinet Secretariat | Cabinet Committee != Committee of Secretaries\n| attached office != autonomous body | regulator autonomy survives ordinary instruction.\n\nMAINS SPINE\nArticles 73/74/77/78 -> AoB-ToB -> ministry/department\n-> Minister-Secretary -> Secretariat/file -> coordination\n-> agencies/outcomes -> oversight -> reform.\n\nPYQ SPINE\n2025 organisation-ministry pairs -> verify allocated subject and parent law.\n\nVERDICT\neffective machinery aligns functions, funds, functionaries, expertise and answerability."
+        }
+      ]
+    }
+  }
+}

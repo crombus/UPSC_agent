@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "indian-society-01-learner-v2-2026-09-02",
+  "selection": "indian-society-01",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "indian-society-01:learner-v2:g2",
+      "topic_key": "indian-society-01",
+      "variant": "learner-v2",
+      "generation": 2,
+      "supersedes": "indian-society-01:legacy-v1:g1",
+      "command": "Generate learner-v2 topic: Indian Society — Subject-wide Syllabus — Salient Features and Diversity of Indian Society",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\indian-society-01_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\indian-society-01_Solved-Practice-Workbook_2026-09-02.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\indian-society-01_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\indian-society-01_Solved-Practice-Workbook_2026-09-02.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\assets",
+      "generated_on": "2026-09-02",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Indian-Society\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\README.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\REVISION-CHART_Structures-Change-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-I.pdf",
+          "books\\more_previous_papers\\Gen_St_P1.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf"
+        ],
+        "live_sources": [],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\indian-society-01_Complete-Learning-Session_2026-09-02.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-02",
+        "superseded_v1": "indian-society-01:legacy-v1:g1",
+        "source_hashes": {
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf": "24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf": "26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42",
+          "books\\more_previous_papers\\Gen_St_P1.pdf": "62f0dc88e001b430e18ff6c5db573783a1047141815dbe1fdf40e59e507a38a1",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf": "7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf": "083bdc7fefc0c442c9876c2859e1449d4fe01f07e3427ffd5d9553b71c585d85",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf": "4ef93f55f8cc87c568ffb64860d6a28e6c5d896fc57cd139ed25f2dd577aefa9",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf": "1721d10c3fe3362ffabbe8e8d75de2ae9ee933c00bd260c26d945481a8b413f3",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-I.pdf": "cad3ef405eec92fe7bb34b4bd3f9f543adaf97937340d1da40f3cd87d66adbd3",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\00_Master-Framework.md": "b77e6b6b5330d42dd54b500d3de73e584817ab737fdb67c6895217147967b1c4",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Learner-V2-Complete-Topic-Package.md": "4525b2955be6e8538fb5c55d15c777f7a72d57e4958cf7484e36b961c8501f0f",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md": "226d93e30280a1020f08b0a0c1f5e4b3a6108b458c1461b2a75cd4b50d8ea432",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\ANSWER-WORTHINESS-AUDIT.md": "7fe093c9e7951ae64a536c81128f7e39c869f7cd4a629b2c398f5f270f25a3ad",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md": "71f575d617f844bb8026d71b8d7026f1db5688841d62b601df5606740934356d",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\LEARNING-SESSION-COMMAND-INDEX.md": "31c929419bf6bf783464e2f9eb492d899085d2ad9ce915deac315ff62ae0b5d4",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\learning-sessions\\v2\\subject-wide-syllabus\\indian-society-01_Learning-Session.md": "4525b2955be6e8538fb5c55d15c777f7a72d57e4958cf7484e36b961c8501f0f",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\learning-sessions\\v2\\subject-wide-syllabus\\indian-society-01_Solved-Workbook.md": "3fec37ffa9391d38ce8973813e0d5f6cf9eb6316f99c0962e52bb41e43135438",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "21e0261d20aae65d1998ef948c61bab8451eb09c15a466001fce4ff6ed33d5ec",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\README.md": "5edc55645a2e5e5f7f66296c2acdcdebcd6663f4be2affcb90f7fe0cb4797cc7",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\REVISION-CHART_Structures-Change-and-Distinctive-Features.md": "cfff7dbc35629a597ba069954ae0e183862b377c30c83e2fb55ee7c4f3482ec6",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-01-2026-09-02-sequential.json": "abac8baa95be445e9d68efbf101e5fd51064a061cdd1f9fff911e0bfe844ece7",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Society\\indian-society-01.json": "75d4a095ad08b509ec794c66e954f3a06629436f30d8460c6ed6dcf423270a8f",
+          "upsc-ai-kit\\manifests\\v2\\indian-society--subject-wide-syllabus.json": "e54bb44dcde4dc103450a1b8da6f1cd15ce8b5c953895cee41f8346d683e5155",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "No additional live official item was verified for this topic on 2026-09-02. The package uses only the dated official anchors already carried by the repository owners: the Ministry of Tribal Affairs state-wise Particularly Vulnerable Tribal Groups list dated 9 July 2024, Gazette S.O. 2681(E) dated 16 June 2025 fixing Census 2027 reference dates, the Press Information Bureau announcement of 30 April 2025 confirming caste enumeration, and Census 2011 as the last completed full count. No caste, demographic or district figure is invented, and the Census 2027 exercise is described only as prospective.",
+        "pyq_status_note": "Two direct General Studies Paper-I demands are verified for this owner from the audited routing ledgers and confirmed word for word in the locally held official question papers: 2024 GS-I Q20 and 2019 GS-I Q8. The 2019 demand is routed in the ledger to the Advanced owner while the Core owner records that Core routing supersedes it; both are therefore answered here from the Basic spine. The generated 2018-2023 Prelims block additionally routes two 2023 objective items on national sports awards and the Chess Olympiad mascot and trophies. Those are documented current-affairs routing artefacts with no Indian Society content, their official keys are not held locally, and this package neither claims them nor infers an option for them.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "f754c29dea16b5ed302c08e2de6cd34885a4e8b3e3f9cee1c8813c9d10baf426"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "indian-society-01:learner-v2:g2"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-02",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2",
+        "master_image": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-01\\indian-society-01_Graphical-Spec-g2.json",
+        "graphical_spec_sha256": "10e7229f1b6f56a4963f101b0a821624fbd6b761988e372d2209a33e2c08f2fa",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-01\\carvaka-g2\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-01-2026-09-02-sequential.json",
+        "ascii_master_spec_sha256": "abac8baa95be445e9d68efbf101e5fd51064a061cdd1f9fff911e0bfe844ece7"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

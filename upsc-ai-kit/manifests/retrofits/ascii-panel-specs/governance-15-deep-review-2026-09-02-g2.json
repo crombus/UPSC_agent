@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-15",
+      "display_title": "Monitoring, Evaluation and Outcomes",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Results chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INPUT -> money, staff and materials committed to the intervention",
+            "-> ACTIVITY: what was actually done, such as training conducted or pipes laid",
+            "-> OUTPUT: what was directly produced, such as kilometres of road or schools built",
+            "-> OUTCOME: the change in the target population, such as travel time or learning",
+            "-> IMPACT: the wider, longer-term change in access, income or mobility",
+            "REPORTING STOPS -> most Indian scheme reporting halts at the output rung",
+            "MUST REMEMBER: Monitoring tracks implementation continuously, evaluation judges..."
+          ],
+          "source_references": [
+            "Input, activity, output, outcome and impact",
+            "The results chain as the spine of every evaluative answer",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Classify the statistic",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "OUTPUT CLAIM -> share of households covered; number of facilities constructed",
+            "OUTCOME CLAIM -> water quality at the point of use; measured learning level",
+            "IMPACT CLAIM -> market access, household income, mobility over years",
+            "EXAM MOVE -> name the rung of the figure the stem supplies before using it"
+          ],
+          "source_references": [
+            "Classify the examiner's own statistic",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Institutional map",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "EVALUATION OFFICE -> attached office of NITI Aayog; constituted September 2015",
+            "FORMED BY MERGING -> Program Evaluation Office and Independent Evaluation Office",
+            "BUDGET FRAMEWORK -> Ministry of Finance, Budget Division; dual output and outcome reporting",
+            "DISTRICT PROGRAMME -> Champions of Change dashboard with delta ranking",
+            "LIMIT -> the evaluator produces evidence and cannot redesign the scheme"
+          ],
+          "source_references": [
+            "The Development Monitoring and Evaluation Office and its mandate",
+            "The Output-Outcome Monitoring Framework and its coverage rule",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Evaluation criteria set",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RELEVANCE -> was the intervention the right response to the problem",
+            "EFFECTIVENESS and EFFICIENCY -> was the objective met, and at what cost",
+            "SUSTAINABILITY and IMPACT -> does the change persist, and how wide is it",
+            "COHERENCE and EQUITY -> does it fit other policy, and who gained and who did not"
+          ],
+          "source_references": [
+            "The REESI plus coherence and equity criteria",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Coverage discipline card",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "RULE -> the budget framework does not cover every scheme in every year",
+            "OWNER-VERIFIED -> 2026-27 document covers 172 major schemes",
+            "THRESHOLD -> an outlay of five hundred crore rupees or more in that document",
+            "DISCIPLINE -> cite with the Budget year and never carry the figure forward"
+          ],
+          "source_references": [
+            "The Output-Outcome Monitoring Framework and its coverage rule",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Three budgeting modes",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "INPUT BUDGETING -> line items; how much money was allocated to a category",
+            "OUTPUT BUDGETING -> physical units produced for the allocation",
+            "OUTCOME BUDGETING -> the change achieved relative to the allocation",
+            "UNFINISHED -> outcome achievement carries no budgetary consequence"
+          ],
+          "source_references": [
+            "Outcome budgeting against output and input budgeting",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "District and block programmes kept separate",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DISTRICT PROGRAMME -> 112 districts; 49 key performance indicators; five themes",
+            "FIVE THEMES -> health and nutrition; education; agriculture and water resources",
+            "FIVE THEMES -> financial inclusion and skill development; basic infrastructure",
+            "BLOCK PROGRAMME -> 513 blocks in current NITI Aayog material; a finer unit",
+            "ERROR TO AVOID -> merging district and block counts or their indicator sets"
+          ],
+          "source_references": [
+            "The Aspirational Districts Programme and its dashboard architecture",
+            "The Aspirational Blocks Programme as a separate exercise",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Ranking design",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ABSOLUTE RANKING -> compares present level; already-advantaged units stay on top",
+            "DELTA RANKING -> compares the rate of improvement over a defined period",
+            "GAIN -> a historically disadvantaged district is not permanently placed at the bottom",
+            "RISK -> baseline understatement inflates apparent improvement",
+            "CONDITION -> careful baseline-setting plus independent validation of the data"
+          ],
+          "source_references": [
+            "Delta ranking against absolute ranking",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Monitoring against evaluation",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "MONITORING -> continuous, high frequency, typically self-reported administrative data",
+            "ITS USE -> rapid course correction while the programme is running",
+            "EVALUATION -> periodic, often independent, assesses whether outcomes were achieved",
+            "ITS USE -> scheme redesign and resource reallocation after the evidence is in",
+            "RULE -> neither substitutes for the other and each fails in a different way"
+          ],
+          "source_references": [
+            "Monitoring and evaluation are complementary and distinct",
+            "Self-reported data with a validation layer",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Method and limit table",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "BEFORE AND AFTER -> shows movement; cannot separate the intervention from everything else",
+            "WITH AND WITHOUT -> plausible counterfactual; the comparison group may differ systematically",
+            "RANDOMISED TRIAL -> causal effect for the design studied; limited external validity",
+            "QUASI-EXPERIMENTAL -> causal inference without randomisation; assumptions can fail",
+            "PROCESS EVALUATION -> explains why an outcome occurred; no effect size",
+            "ADMINISTRATIVE DATA -> continuous and cheap; only as good as the reporter's incentive",
+            "CLOSE DISTINCTION: Indicator is not target, output is not outcome, outcome is not..."
+          ],
+          "source_references": [
+            "What each evaluation method can and cannot establish",
+            "Attribution is the hard problem and the baseline is the precondition",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Indicator failure modes and corrections",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GOODHART -> a measure with consequences is produced rather than observed; use a basket",
+            "SELF-REPORTED -> the judged entity generates the number; validate a sample independently",
+            "AGGREGATION MASKING -> the average hides block and group failure; disaggregate by rule",
+            "OUTPUT SUBSTITUTION -> effort moves to what is counted; add quality and outcome measures",
+            "SELECTION EFFECTS -> only reachable beneficiaries are measured; report drop-off",
+            "DEFINITION DRIFT -> the definition changes between years; publish definitions and breaks",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Aspirational Districts, outcome..."
+          ],
+          "source_references": [
+            "What makes an indicator usable",
+            "The six indicator failure modes and their corrections",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Answer spine for an evaluate demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> say what an output claim proves and what it does not, before citing anything",
+            "BUILD -> place the evidence on the results chain and name the missing baseline",
+            "CORRECT -> state the counterfactual required and the gaming risk in the indicator",
+            "CLOSE -> graded verdict about the evaluation design as much as about the scheme"
+          ],
+          "source_references": [
+            "Incidence, the learning loop and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\15_Monitoring-Evaluation-and-Outcomes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g2\\governance-15_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

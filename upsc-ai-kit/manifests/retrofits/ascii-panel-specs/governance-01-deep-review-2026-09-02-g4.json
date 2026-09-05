@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-01",
+      "display_title": "Good Governance: Concepts and Frameworks",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three terms, one test",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "GOVERNMENT -> legislature, executive, judiciary; the formal authority-holders",
+            "GOVERNANCE -> state plus market plus civil society making and enforcing collective decisions",
+            "GOOD GOVERNANCE -> the normative standard applied to the second, not a synonym for the first",
+            "ANSWER MOVE -> name the duty-holder and the binding form before evaluating performance",
+            "MUST REMEMBER: Good governance converts legitimate public authority into rights-..."
+          ],
+          "source_references": [
+            "Government, governance and the normative test",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Measurement layer against normative layer",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEASUREMENT -> Worldwide Governance Indicators, six dimensions, aggregated perception",
+            "MEASUREMENT -> Good Governance Index, ten sectors, state and union-territory diagnostic",
+            "NORMATIVE -> UNDP principles as a process checklist that cannot rank",
+            "NORMATIVE -> Second Administrative Reforms Commission institutional-reform frame"
+          ],
+          "source_references": [
+            "The Worldwide Governance Indicators frame",
+            "UNDP principles as a process checklist",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "The six named dimensions",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "VOICE AND ACCOUNTABILITY | POLITICAL STABILITY AND ABSENCE OF VIOLENCE",
+            "GOVERNMENT EFFECTIVENESS | REGULATORY QUALITY",
+            "RULE OF LAW | CONTROL OF CORRUPTION",
+            "CAUTION -> scored separately, perception-based, reported with a margin of error"
+          ],
+          "source_references": [
+            "The Worldwide Governance Indicators frame",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Good Governance Index edition card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "LAUNCH -> 25 December 2019 by the Department of Administrative Reforms and Public Grievances",
+            "LATEST LOCATED NATIONAL EDITION -> Good Governance Index 2020-21, released 25 December 2021",
+            "GROUPING -> three groups in 2019; four in 2020-21 including North-East and Hill States",
+            "WITHDRAWN -> the claim of a 2025 national edition, corrected on 13 August 2026"
+          ],
+          "source_references": [
+            "The Good Governance Index and its located edition",
+            "Reading Good Governance Index groupings by edition",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "What may not be asserted",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SAFE -> launch date, located edition, edition-specific grouping, Good Governance Day since 2014",
+            "BOUNDED -> a rank only with its edition year attached",
+            "PROHIBITED -> any post-2021 national edition, rank, score, indicator count or top performer",
+            "PROHIBITED -> the District Good Governance Index treated as a national edition"
+          ],
+          "source_references": [
+            "Withdrawn claims and prohibited assertions",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Attribution discipline",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "WORLD BANK -> Worldwide Governance Indicators, six dimensions, cross-country",
+            "WORLD JUSTICE PROJECT -> Rule of Law Index, published annually, distinct family",
+            "DEPARTMENT OF ADMINISTRATIVE REFORMS -> Good Governance Index and Good Governance Day",
+            "MINISTRY OF PANCHAYATI RAJ -> Devolution Index, panchayat scope only"
+          ],
+          "source_references": [
+            "The Rule of Law Index attribution",
+            "Four measurement instruments at four scales",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Four objects at four scales",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CROSS-COUNTRY -> Worldwide Governance Indicators benchmark over time",
+            "STATE SECTORAL -> Good Governance Index, ten sectors, comparison categories",
+            "SERVICE PORTAL -> National e-Governance Service Delivery Assessment, end-service depth",
+            "PANCHAYAT -> Devolution Index; urban local bodies are outside its scope"
+          ],
+          "source_references": [
+            "Four measurement instruments at four scales",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Norm to instrument, legality half",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "RULE OF LAW -> Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier",
+            "TRANSPARENCY -> Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance",
+            "ACCOUNTABILITY -> Comptroller and Auditor General, Articles 148 to 151; audit remedy",
+            "ACCOUNTABILITY -> Lokpal Act, 2013 and Central Vigilance Commission Act, 2003; distinct remedies"
+          ],
+          "source_references": [
+            "Norms to instruments: legality, transparency and answerability",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Norm to instrument, delivery half",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PARTICIPATION -> Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014",
+            "RESPONSIVENESS -> state right-to-service Acts from Madhya Pradesh, 2010; notified services only",
+            "RESPONSIVENESS -> grievance portal twenty-one-day benchmark, departmental guidelines August 2024",
+            "EQUITY AND EFFECTIVENESS -> direct benefit transfer targeting; Output-Outcome Monitoring Framework"
+          ],
+          "source_references": [
+            "Norms to instruments: participation, responsiveness, equity and effectiveness",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Seven stages from norm to outcome",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LEGAL FORM -> Act, rule, guideline or executive policy, and who is bound",
+            "INSTITUTION AND PROCEDURE -> identified duty-holder, timeline, officer, appeal, penalty",
+            "CAPACITY AND CITIZEN SIDE -> staff, records, budget; awareness, distance, cost, language",
+            "REMEDY AND FEEDBACK -> is failure correctable, and is it counted and used for redesign",
+            "CLOSE DISTINCTION: Government is the formal authority structure, governance is the wider..."
+          ],
+          "source_references": [
+            "Where a norm stops becoming an outcome",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Five index tests",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "INDICATOR VALIDITY -> does it measure the governed outcome or an easily counted input",
+            "COMPARABILITY -> is the data self-reported by the entity being ranked",
+            "OUTPUT AGAINST OUTCOME -> how much of the score is coverage rather than realised change",
+            "ADJUSTMENT AND CONSEQUENCE -> like-for-like federal comparison; does a poor score trigger correction",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional values, citizen charters,..."
+          ],
+          "source_references": [
+            "Critically examining an index and answering the objections",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Answer spine and answered objections",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> separate the institution set, the decision process and the normative standard",
+            "BUILD -> norm to named instrument to mechanism to stated limitation, three to six units",
+            "TEST -> five index tests; answer vagueness, measurement, conditionality and capacity objections",
+            "CLOSE -> graded verdict with the edition-dated evidence and the condition that would reverse it"
+          ],
+          "source_references": [
+            "Critically examining an index and answering the objections",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g4\\governance-01_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

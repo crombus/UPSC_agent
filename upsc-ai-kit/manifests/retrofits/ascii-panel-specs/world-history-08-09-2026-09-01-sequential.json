@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "World History learner-v2 Topics 08-09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-08",
+      "display_title": "Latin American Independence Movements",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\08_Latin-American-Independence-Movements_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Colonial hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PENINSULARES -> top imperial offices",
+            "CREOLES -> wealth without equal political access",
+            "MESTIZOS/INDIGENOUS/ENSLAVED -> subordinate mass base",
+            "CONFLICT -> elite grievance rests on unequal society"
+          ],
+          "source_references": [
+            "Colonial hierarchy and economic grievance"
+          ]
+        },
+        {
+          "title": "Ideas meet imperial collapse",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "TRADE MONOPOLY -> economic resentment",
+            "ATLANTIC REVOLUTIONS -> alternative political vocabulary",
+            "1808 NAPOLEONIC SHOCK -> metropolitan legitimacy collapses",
+            "JUNTAS -> autonomy claims move toward independence"
+          ],
+          "source_references": [
+            "Colonial hierarchy and economic grievance",
+            "The Iberian legitimacy collapse"
+          ]
+        },
+        {
+          "title": "Haiti's distinct sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1791 -> slave revolution begins",
+            "ANTI-COLONIAL + ANTI-SLAVERY -> one social struggle",
+            "1804 -> independent Haiti",
+            "RESULT -> first free Black republic of modern era"
+          ],
+          "source_references": [
+            "Haiti's anti-slavery revolution"
+          ]
+        },
+        {
+          "title": "Northern and southern liberators",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BOLIVAR -> New Granada 1819; Gran Colombia; northern project",
+            "SAN MARTIN -> Andes crossing 1817; Chile and Peru",
+            "MEETING POINT -> royalist power broken in Peru",
+            "DIFFERENCE -> continental political project versus southern army route"
+          ],
+          "source_references": [
+            "San Martin's southern theatre",
+            "Bolivar and northern liberation"
+          ]
+        },
+        {
+          "title": "Mexico's reversal",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1810 -> Hidalgo's Grito de Dolores",
+            "POPULAR PHASE -> Indigenous and lower-class mobilisation",
+            "MORELOS -> struggle continues",
+            "1821 -> conservative settlement under Iturbide"
+          ],
+          "source_references": [
+            "Mexico's reversed revolutionary path"
+          ]
+        },
+        {
+          "title": "Brazil's separate route",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1808 -> Portuguese court moves to Brazil",
+            "1822 -> independence under Pedro I",
+            "FORM -> monarchy, not a new republic",
+            "LIMIT -> slavery and hierarchy survive"
+          ],
+          "source_references": [
+            "Brazil's monarchical separation"
+          ]
+        },
+        {
+          "title": "Five paths, one region",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH -> Bolivar and Gran Colombia",
+            "SOUTH -> San Martin, Andes and Peru",
+            "MEXICO -> popular revolt to conservative settlement",
+            "BRAZIL + HAITI -> monarchy versus social revolution"
+          ],
+          "source_references": [
+            "The five-path comparison"
+          ]
+        },
+        {
+          "title": "Military completion sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1819 -> New Granada and Gran Colombia",
+            "1821 -> Mexican independence",
+            "1824 -> Ayacucho breaks major royalist power",
+            "1825 -> Bolivia emerges"
+          ],
+          "source_references": [
+            "Bolivar and northern liberation",
+            "Ayacucho and the military collapse of Spanish rule"
+          ]
+        },
+        {
+          "title": "Elite transfer mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PENINSULAR OFFICIAL -> displaced",
+            "CREOLE LANDOWNER -> becomes ruling elite",
+            "SOCIAL HIERARCHY -> land and racial power remain",
+            "VERDICT -> sovereignty changes faster than society"
+          ],
+          "source_references": [
+            "Creole leadership and elite transfer"
+          ]
+        },
+        {
+          "title": "Caudillismo mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "LONG WAR -> military commanders gain legitimacy",
+            "WEAK INSTITUTIONS -> civilian authority remains fragile",
+            "ARMED CLIENTAGE -> personal loyalty substitutes for law",
+            "CAUDILLISMO -> strongman politics recurs"
+          ],
+          "source_references": [
+            "Caudillismo's institutional mechanism"
+          ]
+        },
+        {
+          "title": "Fragmentation after liberation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GRAN COLOMBIA -> continental federation attempted",
+            "DISTANCE + WEAK COMMUNICATION -> administration fragments",
+            "REGIONAL ELITES -> resist central authority",
+            "RESULT -> states emerge before shared nations"
+          ],
+          "source_references": [
+            "Gran Colombia and failed continental unity",
+            "States before nations: final verdict"
+          ]
+        },
+        {
+          "title": "Latin America answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CAUSE -> hierarchy + trade restriction + Atlantic ideas",
+            "TRIGGER -> Iberian collapse in 1808",
+            "COURSE -> five distinct regional paths",
+            "VERDICT -> independence without equal social transformation"
+          ],
+          "source_references": [
+            "States before nations: final verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "world-history-09",
+      "display_title": "World in 1914 and Outbreak of WWI",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\09_World-in-1914-and-Outbreak-of-WWI_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Alliance system formation",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1882 -> Triple Alliance: Germany, Austria-Hungary, Italy",
+            "1894 -> France and Russia ally",
+            "1904 -> Entente Cordiale",
+            "1907 -> Britain and Russia complete the Entente alignment"
+          ],
+          "source_references": [
+            "Europe's two alliance alignments"
+          ]
+        },
+        {
+          "title": "Four structural tensions",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "NAVAL RACE -> Britain fears relative German sea power",
+            "ALSACE-LORRAINE -> French revanchist grievance",
+            "ENCIRCLEMENT -> Germany reads Entente as strategic pressure",
+            "BALKANS -> Austria and Russia compete through Serbia"
+          ],
+          "source_references": [
+            "Naval rivalry and Alsace-Lorraine",
+            "Bosnia and the Austro-Serb conflict"
+          ]
+        },
+        {
+          "title": "Balkan crisis ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1908 -> Austria-Hungary annexes Bosnia",
+            "1911 -> Agadir sharpens Anglo-German mistrust",
+            "1912-13 -> Balkan Wars strengthen Serbia",
+            "1914 -> Austria seeks to curb Serbian nationalism"
+          ],
+          "source_references": [
+            "Bosnia and the Austro-Serb conflict",
+            "Agadir and diplomatic mistrust",
+            "Balkan Wars and Serbian strength"
+          ]
+        },
+        {
+          "title": "July trigger and first decision",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "28 JUNE -> Princip assassinates Franz Ferdinand at Sarajevo",
+            "ULTIMATUM -> Austria frames demands Serbia cannot fully accept",
+            "28 JULY -> Austria-Hungary declares war on Serbia",
+            "RULE -> assassination triggers; Vienna chooses war"
+          ],
+          "source_references": [
+            "Sarajevo as trigger",
+            "Austria's ultimatum and declaration"
+          ]
+        },
+        {
+          "title": "Escalation chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GERMAN SUPPORT -> Austria takes hard line",
+            "RUSSIAN MOBILISATION -> conflict becomes great-power crisis",
+            "1/3 AUG -> Germany declares war on Russia and France",
+            "4 AUG -> Belgium violated; Britain enters"
+          ],
+          "source_references": [
+            "Germany's enabling support",
+            "Russian mobilisation and counter-mobilisation",
+            "Germany, Belgium and British entry"
+          ]
+        },
+        {
+          "title": "Balance-of-power case",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "BLOCS -> Europe divided into counterweights",
+            "ENCIRCLEMENT -> Germany fears relative decline",
+            "NAVAL RATIO -> Britain watches Channel and fleet balance",
+            "BALKANS -> each crisis scored as a power transfer"
+          ],
+          "source_references": [
+            "Balance of power: what it explains"
+          ]
+        },
+        {
+          "title": "Motives balance cannot absorb",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AUSTRIA -> multinational empire's survival",
+            "SERBIA -> South Slav national unification",
+            "FRANCE -> Alsace-Lorraine revanchism",
+            "GERMANY/RUSSIA -> preventive timing and prestige"
+          ],
+          "source_references": [
+            "Balance of power: what it misses"
+          ]
+        },
+        {
+          "title": "Mobilisation as mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "RUSSIA MOBILISES -> Germany sees narrowing time",
+            "GERMAN PLAN -> attack France through Belgium",
+            "TIMETABLES -> military sequence compresses diplomacy",
+            "RESULT -> strategic plans widen a regional war"
+          ],
+          "source_references": [
+            "Mobilisation rigidity and miscalculation"
+          ]
+        },
+        {
+          "title": "Likelihood versus inevitability",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LIKELY -> blocs, arms, Balkan crises and mistrust",
+            "NOT INEVITABLE -> 1905-06, 1908 and 1911 were contained",
+            "BREAK -> July leaders make specific risky choices",
+            "VERDICT -> structure raises danger; agency starts war"
+          ],
+          "source_references": [
+            "Mobilisation rigidity and miscalculation"
+          ]
+        },
+        {
+          "title": "Responsibility at two levels",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "IMMEDIATE -> Vienna's decision to attack Serbia",
+            "ENABLING -> Berlin's support and preventive calculation",
+            "ESCALATORY -> Russian mobilisation and German plan",
+            "SYSTEMIC -> alliances, nationalism, prestige and militarisation"
+          ],
+          "source_references": [
+            "Responsibility: agents and system"
+          ]
+        },
+        {
+          "title": "Italy and Britain traps",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ITALY -> Alliance member but neutral in 1914; Allies in 1915",
+            "BRITAIN -> no binding French alliance obligation",
+            "BELGIUM -> immediate legal-political trigger",
+            "RULE -> alignment, obligation and entry cause are different"
+          ],
+          "source_references": [
+            "Europe's two alliance alignments",
+            "Germany, Belgium and British entry"
+          ]
+        },
+        {
+          "title": "Outbreak answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "TRIGGER -> Sarajevo, 28 June",
+            "REGIONAL -> Austro-Serb nationality conflict",
+            "ESCALATION -> support, mobilisation, Belgium",
+            "VERDICT -> balance structure plus distinct motives and choices"
+          ],
+          "source_references": [
+            "The complete escalation verdict"
+          ]
+        }
+      ]
+    }
+  ]
+}

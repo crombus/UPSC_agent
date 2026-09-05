@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-32",
+      "display_title": "The Nehru Era — Hope, Foreign Policy & Legacy",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Planning without a constitutional mandate",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PLANNING COMMISSION -> CABINET RESOLUTION, 15 MARCH 1950 (not constitutional)",
+            "CHAIRMAN -> Prime Minister Jawaharlal Nehru, ex officio",
+            "MANDATE -> assess resources -> formulate Five Year Plans -> allocate priorities",
+            "FIRST PLAN 1951-56 -> agriculture and irrigation priority; modest, largely on track",
+            "TRAP -> extra-constitutional body; never call it a constitutional authority",
+            "MUST REMEMBER: Planning Commission (15 March 1950), first general election (October",
+            "  1951-February 1952), Community Development Programme (2 October 1952), Panchsheel (April",
+            "  1954), Avadi (January 1955), Bandung (April 1955), IPR/Second Plan (1956), Kerala election",
+            "  (1957), Belgrade and Goa (1961), the 1962 war, Kamaraj Plan (1963) and Nehru's death (27 May",
+            "  1964) form distinct stages."
+          ],
+          "source_references": [
+            "Planning without a constitutional mandate",
+            "The 1951-52 general election and the shape of dominance",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The 1951-52 general election",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "FIRST GENERAL ELECTION -> OCT 1951 to FEB 1952, staggered polling",
+            "ELECTORATE -> about 173 million voters; universal adult franchise, first time",
+            "TURNOUT -> roughly 46 per cent",
+            "RESULT -> big SEAT majority for Congress on a vote share WELL UNDER 50 per cent",
+            "READ IT CORRECTLY -> majority of SEATS, not majority of VOTES cast nationally"
+          ],
+          "source_references": [
+            "The 1951-52 general election and the shape of dominance",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Community Development, 1952, before Panchayati Raj, 1957",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "COMMUNITY DEVELOPMENT PROGRAMME -> launched 2 OCTOBER 1952",
+            "AIM -> rural reconstruction through block-level administration + local participation",
+            "LATER STEP -> Balwantrai Mehta Committee, 1957, recommends Panchayati Raj",
+            "SEQUENCE -> CDP (1952) COMES BEFORE Panchayati Raj recommendations (1957)",
+            "TRAP -> do not treat CDP and Panchayati Raj as the same 1952 initiative"
+          ],
+          "source_references": [
+            "Community Development and the promise of rural transformation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Avadi, 1955, to the Second Plan, 1956-61",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "AVADI SESSION -> Indian National Congress, JANUARY 1955, near Madras",
+            "RESOLUTION -> adopts \"SOCIALISTIC PATTERN OF SOCIETY\" as its goal",
+            "MEANING -> mixed economy, dominant/expanding public sector, NOT full socialism",
+            "1956 -> INDUSTRIAL POLICY RESOLUTION gives it legal/administrative form",
+            "1956-61 -> SECOND FIVE YEAR PLAN (Mahalanobis) operationalises it in investment"
+          ],
+          "source_references": [
+            "Avadi, 1955, and the socialistic pattern of society",
+            "The Industrial Policy Resolution of 1956",
+            "The Mahalanobis Second Plan: heavy industry over agriculture",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The Industrial Policy Resolution, 1956: three schedules",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "INDUSTRIAL POLICY RESOLUTION -> 1956, supersedes the 1948 Resolution",
+            "+------------+------------------------------------------+",
+            "| SCHEDULE A | exclusive state responsibility            |",
+            "| SCHEDULE B | state-led, with private participation     |",
+            "| SCHEDULE C | left to private enterprise                |",
+            "+------------+------------------------------------------+",
+            "EFFECT -> \"commanding heights\" of the economy reserved for the public sector"
+          ],
+          "source_references": [
+            "The Industrial Policy Resolution of 1956",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The Mahalanobis Second Plan and its neglected half",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SECOND FIVE YEAR PLAN -> 1956-61, architect P.C. MAHALANOBIS",
+            "PRIORITISED -> heavy industry, capital goods (\"machines that make machines\")",
+            "BUILT -> a substantial domestic industrial base over the plan period",
+            "NEGLECTED -> agricultural investment, comparatively",
+            "CONSEQUENCE -> feeds into the food shortfalls of the mid-1960s (topic 34)"
+          ],
+          "source_references": [
+            "The Mahalanobis Second Plan: heavy industry over agriculture",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Panchsheel, 1954, to the 1962 war",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "APRIL 1954 -> PANCHSHEEL signed with China, with a Tibet agreement",
+            "AFTER 1954 -> \"Hindi-Chini Bhai Bhai\" friendship rhetoric popularised",
+            "OCT-NOV 1962 -> the SAME relationship collapses into the Sino-Indian War",
+            "TRAP -> do not read 1954-55 optimism backward as if the border dispute did not exist"
+          ],
+          "source_references": [
+            "Panchsheel, 1954, and its later collapse",
+            "The Sino-Indian War, 1962: from Bhai Bhai to ceasefire",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bandung, 1955, is not Belgrade, 1961: precursor to doctrine",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BANDUNG CONFERENCE -> APRIL 1955, Indonesia; 29 Afro-Asian states",
+            "ROLE -> precursor Afro-Asian gathering; NEHRU a leading voice",
+            "NOT THE SAME AS -> BELGRADE CONFERENCE, SEPTEMBER 1961",
+            "BELGRADE -> the actual FOUNDING SUMMIT of the Non-Aligned Movement",
+            "FOUNDERS AT BELGRADE -> Nehru, Tito, Nasser, Sukarno, Nkrumah",
+            "DOCTRINE THAT FOLLOWS -> judge each question on its merits; engage INDEPENDENTLY",
+            "NOT THIS -> passive neutrality or simple non-involvement",
+            "TRAP -> \"non-alignment\" and \"neutrality\" are NOT interchangeable terms"
+          ],
+          "source_references": [
+            "Bandung, 1955: Afro-Asian solidarity before Belgrade",
+            "Belgrade, 1961: the founding of the Non-Aligned Movement",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Kerala, 1957: ballot, not revolution",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "KERALA STATE ELECTION -> 1957, first after the 1956 States Reorganisation",
+            "RESULT -> Communist Party of India wins; E.M.S. NAMBOODIRIPAD, Chief Minister",
+            "SIGNIFICANCE -> among the earliest instances anywhere of an elected communist government",
+            "LATER (Polity owner, not here) -> Centre dismisses the ministry under Article 356",
+            "BOUNDARY -> this session stops at the 1957 election and its democratic significance"
+          ],
+          "source_references": [
+            "Kerala, 1957: a communist government elected by ballot",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Goa, December 1961: diplomacy, then Operation Vijay",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "GOA, DAMAN AND DIU -> remained under Portuguese rule after 1947",
+            "STEP 1 -> repeated Indian diplomatic efforts for a peaceful transfer",
+            "STEP 2 -> diplomacy fails",
+            "STEP 3 -> OPERATION VIJAY, DECEMBER 1961: Indian armed forces move in",
+            "OUTCOME -> Portuguese rule ends within days; territories integrated into the Union",
+            "CLOSE DISTINCTION: The Planning Commission was extra-constitutional; Bandung was an Afro-Asian",
+            "  precursor, not NAM's founding summit; non-alignment was independent engagement, not passive",
+            "  neutrality; and the 1962 defeat exposed strategic limits without erasing the doctrine's",
+            "  whole diplomatic record."
+          ],
+          "source_references": [
+            "Goa, December 1961: Operation Vijay",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "1962: the pivot the whole topic turns on",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "OCT-NOV 1962 -> SINO-INDIAN WAR along the Himalayan frontier",
+            "COURSE -> Indian reverses in NEFA and Ladakh",
+            "END -> China declares a UNILATERAL CEASEFIRE (not a negotiated settlement)",
+            "EXPOSES -> gaps in defence preparedness; limits of non-alignment's optimism",
+            "1963 -> KAMARAJ PLAN: Congress responds organisationally, not economically",
+            "EVIDENCE LIMIT: Cabinet resolutions, Election Commission data, Congress resolutions,",
+            "  treaty/summit records and regional outcomes must qualify both uncritical hero-making and",
+            "  retrospective single-failure verdicts, especially on Kashmir, planning and China."
+          ],
+          "source_references": [
+            "The Sino-Indian War, 1962: from Bhai Bhai to ceasefire",
+            "The Kamaraj Plan, 1963: reviving the party organisation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Nehru's legacy: institutions and lessons held together",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "27 MAY 1964 -> Nehru dies, after nearly seventeen years as Prime Minister",
+            "ENDURING -> parliamentary democracy, planning, secularism, non-alignment",
+            "ALREADY TESTED -> 1962 exposed the limits of Panchsheel/Bandung-era optimism",
+            "UNRESOLVED, DEBATED -> the 1948 Kashmir referral to the United Nations",
+            "VERDICT -> real institutional achievement PAIRED WITH an exposed misjudgement"
+          ],
+          "source_references": [
+            "Kashmir at the United Nations, 1948: a debated choice",
+            "Nehru's legacy, 1964: institutions and lessons held together",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

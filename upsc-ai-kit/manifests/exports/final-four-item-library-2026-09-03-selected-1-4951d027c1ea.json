@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T17:22:41+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "33e21c8a313acfda3aca837c18561cae83809e24cbc33a8fb331e925d9e79c53",
+    "sha256_after": "33e21c8a313acfda3aca837c18561cae83809e24cbc33a8fb331e925d9e79c53",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8117,
+    "pdf_count": 2097,
+    "png_count": 723,
+    "txt_count": 890,
+    "markdown_count": 1328,
+    "json_count": 3064,
+    "total_bytes": 3762628721,
+    "by_extension": {
+      ".json": 3064,
+      ".md": 1328,
+      ".pdf": 2097,
+      ".png": 723,
+      ".txt": 890,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-12",
+      "topic_title": "Babur & the Central Asian Backdrop",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 12,
+      "source_record_id": "medieval-indian-history-12:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "8779483bbef81e761677f1b8f2edf92fd12abcb01f101aacb4eacde0fd48a6e3",
+          "output_sha256": "8779483bbef81e761677f1b8f2edf92fd12abcb01f101aacb4eacde0fd48a6e3",
+          "source_output_equal": true,
+          "bytes": 2143846
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g4\\medieval-indian-history-12_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "706e404813e84e64d5c5e1979e28da4114346ad266062c4b83807cf36bc32817",
+          "output_sha256": "706e404813e84e64d5c5e1979e28da4114346ad266062c4b83807cf36bc32817",
+          "source_output_equal": true,
+          "bytes": 230994
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-12\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "435207fc73d36dab7ca667128753e81a2590d24b6cec1dcddad861a873227038",
+          "output_sha256": "435207fc73d36dab7ca667128753e81a2590d24b6cec1dcddad861a873227038",
+          "source_output_equal": true,
+          "bytes": 2460969
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-12\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "cba14126dea284dc2897ea6f00928a36ecd6d483be9331c17c5964c3f49d074e",
+          "output_sha256": "cba14126dea284dc2897ea6f00928a36ecd6d483be9331c17c5964c3f49d074e",
+          "source_output_equal": true,
+          "bytes": 3264893
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-12\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9f9bcdcafa21a11dfc96dd53ba14d17bde475835bce83f5b4e30876ab771f6b1",
+          "output_sha256": "9f9bcdcafa21a11dfc96dd53ba14d17bde475835bce83f5b4e30876ab771f6b1",
+          "source_output_equal": true,
+          "bytes": 2193635
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-12\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "823fd94ada2c8c33cee0bb1598ef1cf1f462240e7fcd9ba3866f228ea6d12db6",
+          "output_sha256": "823fd94ada2c8c33cee0bb1598ef1cf1f462240e7fcd9ba3866f228ea6d12db6",
+          "source_output_equal": true,
+          "bytes": 6357
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-12\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "623101e3a5b3ecdde80b80a102f7a4aa5cf7fde7c2b4f78281729e55e5e6eeed",
+          "output_sha256": "623101e3a5b3ecdde80b80a102f7a4aa5cf7fde7c2b4f78281729e55e5e6eeed",
+          "source_output_equal": true,
+          "source_text_sha256": "823fd94ada2c8c33cee0bb1598ef1cf1f462240e7fcd9ba3866f228ea6d12db6",
+          "normalized_text_equal": true,
+          "bytes": 58617
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 66,
+        "solved_practice_workbook": 23,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 66,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12068
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

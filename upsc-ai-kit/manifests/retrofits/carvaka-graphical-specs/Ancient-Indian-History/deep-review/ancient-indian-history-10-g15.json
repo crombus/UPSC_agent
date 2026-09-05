@@ -1,0 +1,1091 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-10",
+  "subject": "Ancient-Indian-History",
+  "title": "JAINISM AND BUDDHISM",
+  "short_route": "SIXTH-CENTURY BCE SHRAMANA FIELD → JAIN COSMOS, BONDAGE AND → JAIN PATH AND MANY-SIDED → JAIN COMMUNITY, CANON AND → BUDDHIST DIAGNOSIS AND DISCIPLINED → DEPENDENT ORIGINATION AND NO-SELF",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g15 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-10-deep-review-2026-08-30-g15.json",
+  "ascii_spec_sha256": "4a94fc045fc554a1e62a1f58cb92e78729c628eade72619df65718500e7ea8fe",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SIXTH-CENTURY BCE SHRAMANA FIELD",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SIXTH-CENTURY BCE SHRAMANA FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS +",
+          "role": "outcome"
+        },
+        {
+          "text": "SHRAMANA FIELD",
+          "role": "comparison"
+        },
+        {
+          "text": "JAINA BUDDHIST AJIVIKA OTHER SCHOOLS",
+          "role": "evidence"
+        },
+        {
+          "text": "HETERODOXY IS NOT ONE ANTI-BRAHMANA BLOC; DOCTRINES AND DISCIPLINES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING",
+        "SHRAMANA FIELD",
+        "JAINA BUDDHIST AJIVIKA other schools",
+        "Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING",
+            "SHRAMANA FIELD"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "JAINA BUDDHIST AJIVIKA other schools",
+            "Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING",
+            "SHRAMANA FIELD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ.",
+      "source_references": [
+        "SESSION 1 - SIXTH-CENTURY BCE SETTING",
+        "SESSION 2 - THE SHRAMANA FIELD",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "JAIN COSMOS, BONDAGE AND LIBERATION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JAIN COSMOS, BONDAGE AND LIBERATION",
+          "role": "primary"
+        },
+        {
+          "text": "JIVA (CONSCIOUS) + AJIVA (NON-CONSCIOUS)",
+          "role": "outcome"
+        },
+        {
+          "text": "BEGINNINGLESS COSMOS WITHOUT CREATOR ACTION/PASSIONS ATTRACT KARMIC MATTER",
+          "role": "comparison"
+        },
+        {
+          "text": "BONDAGE AND REPEATED BIRTH SAMVARA STOPS INFLUX + NIRJARA",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERATION IS PURIFICATION OF AN ENDURING INDIVIDUAL SOUL, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "JIVA (conscious) + AJIVA (non-conscious) → beginningless cosmos without creator action/passions attract karmic matter →",
+        "bondage and repeated birth samvara stops influx + nirjara sheds karma → kevala-jnana → moksha",
+        "Liberation is purification of an enduring individual soul, not annihilation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "JIVA (conscious) + AJIVA (non-conscious) → beginningless cosmos without creator action/passions attract karmic matter →",
+            "bondage and repeated birth samvara stops influx + nirjara sheds karma → kevala-jnana → moksha"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Liberation is purification of an enduring individual soul, not annihilation.",
+            "JIVA (conscious) + AJIVA (non-conscious) → beginningless cosmos without creator action/passions attract karmic matter →"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "bondage and repeated birth samvara stops influx + nirjara sheds karma → kevala-jnana → moksha",
+            "Liberation is purification of an enduring individual soul, not annihilation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Liberation is purification of an enduring individual soul, not annihilation.",
+      "source_references": [
+        "SESSION 5 - JAIN ONTOLOGY",
+        "SESSION 6 - JAIN KARMA, BONDAGE AND LIBERATION",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "JAIN PATH AND MANY-SIDED KNOWLEDGE",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JAIN PATH AND MANY-SIDED KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHT FAITH + RIGHT KNOWLEDGE + RIGHT CONDUCT",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE VOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "APARIGRAHA MONASTIC MAHAVRATA",
+          "role": "evidence"
+        },
+        {
+          "text": "LAY ANUVRATA",
+          "role": "primary"
+        },
+        {
+          "text": "LIMITED PRACTICABLE FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "NAYAVADA STANDPOINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SYADVADA QUALIFIED PREDICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRIRATNA: right faith + right knowledge + right conduct",
+        "FIVE VOWS: ahimsa",
+        "aparigraha monastic mahavrata = rigorous",
+        "lay anuvrata = limited practicable form",
+        "ANEKANTAVADA → NAYAVADA standpoints → SYADVADA qualified predication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TRIRATNA: right faith + right knowledge + right conduct",
+            "FIVE VOWS: ahimsa"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "aparigraha monastic mahavrata = rigorous",
+            "lay anuvrata = limited practicable form"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ANEKANTAVADA → NAYAVADA standpoints → SYADVADA qualified predication",
+            "Many-sidedness disciplines claims; it does not make contradictions equally true."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Many-sidedness disciplines claims; it does not make contradictions equally true.",
+      "source_references": [
+        "SESSION 7 - JAIN TRIRATNA, FIVE VOWS",
+        "SESSION 8 - ANEKANTAVADA, SYADVADA AND NAYAVADA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JAIN COMMUNITY, CANON AND SPREAD",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JAIN COMMUNITY, CANON AND SPREAD",
+          "role": "primary"
+        },
+        {
+          "text": "FOURFOLD SANGHA",
+          "role": "outcome"
+        },
+        {
+          "text": "23RD TIRTHANKARA 24TH MONKS/NUNS/LAY PATALIPUTRA/VALABHI DIGAMBARA/SHVETAMBARA PATRONAGE AND MERCHANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MATHURA, WESTERN INDIA, KARNATAKA",
+          "role": "evidence"
+        },
+        {
+          "text": "SECT DIFFERENCES INCLUDE CLOTHING, CANON AND LIBERATION QUESTIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "AVOID REDUCING SEPARATION TO ONE FAMINE STORY OR TREATING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "Parshvanatha → Mahavira → fourfold sangha → councils/redactions → sects",
+        "23rd Tirthankara 24th monks/nuns/lay Pataliputra/Valabhi Digambara/Shvetambara patronage and merchants → Mathura, western India, Karnataka →",
+        "Sect differences include clothing, canon and liberation questions.",
+        "Avoid reducing separation to one famine story or treating all traditions as identical."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "Parshvanatha → Mahavira → fourfold sangha → councils/redactions → sects",
+            "23rd Tirthankara 24th monks/nuns/lay Pataliputra/Valabhi Digambara/Shvetambara patronage and merchants → Mathura, western India, Karnataka → temples/literature"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Sect differences include clothing, canon and liberation questions.",
+            "Avoid reducing separation to one famine story or treating all traditions as identical."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Parshvanatha → Mahavira → fourfold sangha → councils/redactions → sects",
+            "23rd Tirthankara 24th monks/nuns/lay Pataliputra/Valabhi Digambara/Shvetambara patronage and merchants → Mathura, western India, Karnataka → temples/literature"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Avoid reducing separation to one famine story or treating all traditions as identical.",
+      "source_references": [
+        "SESSION 3 - PRE-MAHAVIRA JAIN TRADITION",
+        "SESSION 4 - MAHAVIRA",
+        "SESSION 9 - JAIN SANGHA",
+        "SESSION 10 - JAIN COUNCILS",
+        "SESSION 11 - DIGAMBARA, SHVETAMBARA",
+        "SESSION 12 - JAIN SPREAD",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BUDDHIST DIAGNOSIS AND DISCIPLINED PATH",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUDDHIST DIAGNOSIS AND DISCIPLINED PATH",
+          "role": "primary"
+        },
+        {
+          "text": "SAMUDAYA (CRAVING/IGNORANCE)",
+          "role": "outcome"
+        },
+        {
+          "text": "EIGHTFOLD PATH WISDOM",
+          "role": "comparison"
+        },
+        {
+          "text": "VIEW/INTENTION ETHICS",
+          "role": "evidence"
+        },
+        {
+          "text": "SPEECH/ACTION/LIVELIHOOD MEDITATION",
+          "role": "primary"
+        },
+        {
+          "text": "MIDDLE WAY REJECTS INDULGENCE AND SELF-MORTIFICATION; NIRVANA ENDS CAUSES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DUKKHA → SAMUDAYA (craving/ignorance) → NIRODHA → EIGHTFOLD PATH wisdom: view/intention ethics: speech/action/livelihood meditation: effort/mindfulness",
+        "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DUKKHA → SAMUDAYA (craving/ignorance) → NIRODHA → EIGHTFOLD PATH wisdom: view/intention ethics: speech/action/livelihood meditation: effort/mindfulness",
+            "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DUKKHA → SAMUDAYA (craving/ignorance) → NIRODHA → EIGHTFOLD PATH wisdom: view/intention ethics: speech/action/livelihood meditation: effort/mindfulness",
+            "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DUKKHA → SAMUDAYA (craving/ignorance) → NIRODHA → EIGHTFOLD PATH wisdom: view/intention ethics: speech/action/livelihood meditation: effort/mindfulness",
+            "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha.",
+      "source_references": [
+        "SESSION 13 - THE BUDDHA",
+        "SESSION 14 - FOUR NOBLE TRUTHS",
+        "SESSION 15 - EIGHTFOLD PATH, MIDDLE WAY",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEPENDENT ORIGINATION AND NO-SELF",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEPENDENT ORIGINATION AND NO-SELF",
+          "role": "caution"
+        },
+        {
+          "text": "SIX SENSES",
+          "role": "outcome"
+        },
+        {
+          "text": "AGEING-AND-DEATH CONDITIONED ARISING EXPLAINS CONTINUITY WITHOUT ETERNAL ATMAN OR",
+          "role": "comparison"
+        },
+        {
+          "text": "FORM, FEELING, PERCEPTION, FORMATIONS, CONSCIOUSNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPERMANENT/ANATTA KARMA PRESERVES ETHICAL CAUSATION THROUGH PROCESS; NIRVANA IS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ignorance → formations → consciousness → name-form → six senses → contact",
+        "feeling → craving → clinging → becoming → birth → ageing-and-death conditioned arising explains continuity",
+        "aggregates: form, feeling, perception, formations, consciousness → impermanent/anatta karma preserves ethical causation through process",
+        "nirvana is not physical death."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ignorance → formations → consciousness → name-form → six senses → contact",
+            "feeling → craving → clinging → becoming → birth → ageing-and-death conditioned arising explains continuity without eternal atman or first creator."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "aggregates: form, feeling, perception, formations, consciousness → impermanent/anatta karma preserves ethical causation through process",
+            "nirvana is not physical death."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ignorance → formations → consciousness → name-form → six senses → contact",
+            "feeling → craving → clinging → becoming → birth → ageing-and-death conditioned arising explains continuity without eternal atman or first creator."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "aggregates: form, feeling, perception, formations, consciousness → impermanent/anatta karma preserves ethical causation through process; nirvana is not physical death.",
+      "source_references": [
+        "SESSION 16 - DEPENDENT ORIGINATION",
+        "SESSION 17 - IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BUDDHIST SANGHA, COUNCILS AND CANONS",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUDDHIST SANGHA, COUNCILS AND CANONS",
+          "role": "primary"
+        },
+        {
+          "text": "MONASTIC SANGHA UNDER VINAYA <→ LAY GIFTS, MERIT AND",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL RECENSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PALI TIPITAKA",
+          "role": "evidence"
+        },
+        {
+          "text": "VINAYA + SUTTA + ABHIDHAMMA; OTHER WITNESSES SURVIVE IN",
+          "role": "primary"
+        },
+        {
+          "text": "CHINESE AND TIBETAN TRADITIONS. COUNCILS ARE SECTARIAN MEMORIES, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "WOMEN ORDAIN, BUT INSTITUTIONAL HIERARCHY AND TEXTUAL DEBATE REMAIN.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BUDDHA/DHAMMA → monastic SANGHA under VINAYA <→ lay gifts, merit and",
+        "protection conventional councils: Rajagriha → Vaishali → Pataliputra → regional recensions",
+        "Pali Tipitaka: Vinaya + Sutta + Abhidhamma; other witnesses survive in Sanskrit",
+        "Chinese and Tibetan traditions. Councils are sectarian memories, not court minutes.",
+        "Women ordain, but institutional hierarchy and textual debate remain."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BUDDHA/DHAMMA → monastic SANGHA under VINAYA <→ lay gifts, merit and",
+            "protection conventional councils: Rajagriha → Vaishali → Pataliputra → regional recensions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Pali Tipitaka: Vinaya + Sutta + Abhidhamma; other witnesses survive in Sanskrit,",
+            "Chinese and Tibetan traditions. Councils are sectarian memories, not court minutes."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Women ordain, but institutional hierarchy and textual debate remain.",
+            "BUDDHA/DHAMMA → monastic SANGHA under VINAYA <→ lay gifts, merit and"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Women ordain, but institutional hierarchy and textual debate remain.",
+      "source_references": [
+        "SESSION 18 - SANGHA, VINAYA, LAY SUPPORT",
+        "SESSION 19 - WOMEN, SOCIAL ACCESS",
+        "SESSION 20 - BUDDHIST COUNCILS",
+        "SESSION 21 - BUDDHIST CANONS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BUDDHIST DEVELOPMENTS: SCHOOLS TO VAJRAYANA",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BUDDHIST DEVELOPMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOLS TO VAJRAYANA",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY SCHOOLS",
+          "role": "comparison"
+        },
+        {
+          "text": "VINAYA/ABHIDHARMA BODHISATTVA IDEAL EMPTINESS/MIND DEBATES MANTRA/MANDALA/TANTRA MULTIPLE NIKAYAS NEW",
+          "role": "evidence"
+        },
+        {
+          "text": "THERAVADA IS ONE SURVIVING EARLY TRADITION; HINAYANA IS A",
+          "role": "primary"
+        },
+        {
+          "text": "MAITREYA/PARAMITAS FIT MAHAYANA; VAJRAYANA IS A LATER DEVELOPMENT.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "EARLY SCHOOLS → MAHAYANA → MADHYAMAKA/YOGACARA → VAJRAYANA",
+        "Vinaya/Abhidharma bodhisattva ideal emptiness/mind debates mantra/mandala/tantra multiple nikayas new sutras philosophy systems ritual monasteries",
+        "Theravada is one surviving early tradition; Hinayana is a polemical label, not synonym.",
+        "Maitreya/paramitas fit Mahayana; Vajrayana is a later development."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "EARLY SCHOOLS → MAHAYANA → MADHYAMAKA/YOGACARA → VAJRAYANA",
+            "Vinaya/Abhidharma bodhisattva ideal emptiness/mind debates mantra/mandala/tantra multiple nikayas new sutras philosophy systems ritual monasteries"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Theravada is one surviving early tradition; Hinayana is a polemical label, not synonym.",
+            "Maitreya/paramitas fit Mahayana; Vajrayana is a later development."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "EARLY SCHOOLS → MAHAYANA → MADHYAMAKA/YOGACARA → VAJRAYANA",
+            "Vinaya/Abhidharma bodhisattva ideal emptiness/mind debates mantra/mandala/tantra multiple nikayas new sutras philosophy systems ritual monasteries"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Maitreya/paramitas fit Mahayana; Vajrayana is a later development.",
+      "source_references": [
+        "SESSION 22 - EARLY SCHOOLS AND THE THERAVADA-HINAYANA FIREWALL",
+        "SESSION 23 - MAHAYANA",
+        "SESSION 24 - MADHYAMAKA AND YOGACARA",
+        "SESSION 25 - VAJRAYANA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NETWORKS, MATERIAL CULTURE AND OUTCOMES",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NETWORKS, MATERIAL CULTURE AND OUTCOMES",
+          "role": "evidence"
+        },
+        {
+          "text": "GANGA HEARTLAND",
+          "role": "outcome"
+        },
+        {
+          "text": "TRADE ROUTES AND POLITICAL PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAURYAN/POST-MAURYAN SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "SANCHI, BHARHUT AND CAVES",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-WEST/CENTRAL ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "SILK ROUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "SRI LANKA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GANGA HEARTLAND → stupas/monasteries → trade routes and political patronage",
+        "Mauryan/post-Mauryan support → Sanchi, Bharhut and caves → donors/artisans",
+        "NORTH-WEST/CENTRAL ASIA → Silk routes → China → Korea/Japan",
+        "SRI LANKA → Theravada transmission → Southeast Asian histories",
+        "JAIN NETWORKS → Mathura/western India/Deccan/Karnataka → temples/manuscripts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GANGA HEARTLAND → stupas/monasteries → trade routes and political patronage",
+            "Mauryan/post-Mauryan support → Sanchi, Bharhut and caves → donors/artisans",
+            "NORTH-WEST/CENTRAL ASIA → Silk routes → China → Korea/Japan"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SRI LANKA → Theravada transmission → Southeast Asian histories",
+            "JAIN NETWORKS → Mathura/western India/Deccan/Karnataka → temples/manuscripts",
+            "Buddhism later declined/absorbed in India as patronage and monastery networks changed"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Jainism persisted through lay institutions, regional patrons and adaptive communities."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Jainism persisted through lay institutions, regional patrons and adaptive communities.",
+      "source_references": [
+        "SESSION 26 - WHY THE TRADITIONS BECAME POPULAR",
+        "SESSION 27 - PATRONAGE NETWORKS",
+        "SESSION 28 - REGIONAL AND INTERNATIONAL SPREAD",
+        "SESSION 29 - STUPAS, CAVES, MONASTERIES, IMAGES",
+        "SESSION 31 - BUDDHISM DECLINE",
+        "SESSION 32 - WHY JAINISM PERSISTED",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "JAINISM-BUDDHISM COMPARISON AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JAINISM-BUDDHISM COMPARISON AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "JAIN JIVA VS BUDDHIST ANATTA",
+          "role": "comparison"
+        },
+        {
+          "text": "KARMIC MATTER VS CONDITIONED PROCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "VOWS/AUSTERITY/TRIRATNA VS MIDDLE WAY/EIGHTFOLD PATH",
+          "role": "comparison"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "NAMED TERM",
+          "role": "outcome"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "20 MARKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AXIS: Jain jiva vs Buddhist anatta",
+        "karmic matter vs conditioned process",
+        "PATH: vows/austerity/triratna vs middle way/eightfold path",
+        "10 MARKS: doctrine → mechanism/path → named term → distinction/caution",
+        "15 MARKS: context → doctrine → institution → patronage/spread → limitation"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "AXIS: Jain jiva vs Buddhist anatta",
+          "10 MARKS: doctrine → mechanism/path → named term → distinction/caution",
+          "controlled comparison → decline/persistence → source qualification"
+        ],
+        [
+          "karmic matter vs conditioned process",
+          "15 MARKS: context → doctrine → institution → patronage/spread → limitation",
+          "CLOSE: both recast ethics/liberation through fundamentally different selves and paths."
+        ],
+        [
+          "PATH: vows/austerity/triratna vs middle way/eightfold path",
+          "20 MARKS: shramana setting → both systems → councils/schools/material culture",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AXIS: Jain jiva vs Buddhist anatta",
+            "karmic matter vs conditioned process",
+            "PATH: vows/austerity/triratna vs middle way/eightfold path"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "10 MARKS: doctrine → mechanism/path → named term → distinction/caution",
+            "15 MARKS: context → doctrine → institution → patronage/spread → limitation",
+            "20 MARKS: shramana setting → both systems → councils/schools/material culture"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "controlled comparison → decline/persistence → source qualification",
+            "CLOSE: both recast ethics/liberation through fundamentally different selves and paths."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE: both recast ethics/liberation through fundamentally different selves and paths.",
+      "source_references": [
+        "SESSION 30 - JAINISM AND BUDDHISM: A CONTROLLED COMPARISON",
+        "SESSION 33 - HISTORIOGRAPHY AND EVIDENCE LIMITS",
+        "SESSION 35 - CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT AFFAIRS.",
+          "role": "primary"
+        },
+        {
+          "text": "2. CLAIM NAMED EVIDENCE SIGNIFICANCE LIMITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. YEAR PAPER Q PYQ DEMAND (NEUTRAL RENDERING) DIRECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAT SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. = from source book = inference / standard knowledge = current affairs.",
+        "2. Claim Named evidence Significance Limitation",
+        "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. Claim Named evidence Significance Limitation",
+          "VERDICT: Source type controls the strength and limits of the historical claim."
+        ],
+        [
+          "1. = from source book = inference / standard knowledge = current affairs.",
+          "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source...",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. Claim Named evidence Significance Limitation",
+            "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source..."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "answer_line": "Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. CONTESTED ISSUES COMPETING INTERPRETATIONS ARE ATTRIBUTED, EVIDENCED",
+          "role": "comparison"
+        },
+        {
+          "text": "2. INSCRIPTION AND COIN EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTEMPORARY NAMES, TITLES, CLAIMS AND",
+          "role": "primary"
+        },
+        {
+          "text": "3. DIMENSION EVIDENCE HISTORICAL USE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "QUALIFICATION EARNS MARKS; FALSE CERTAINTY IS A HARD FAILURE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. Contested issues Competing interpretations are attributed, evidenced",
+        "2. Inscription and coin evidence: contemporary names, titles, claims and",
+        "3. Dimension Evidence Historical use Limit",
+        "VERDICT: Qualification earns marks; false certainty is a hard failure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. Contested issues Competing interpretations are attributed, evidenced..."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Inscription and coin evidence: contemporary names, titles, claims and...",
+            "3. Dimension Evidence Historical use Limit"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+      "answer_line": "Qualification earns marks; false certainty is a hard failure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE BUDDHA'S FIRST SERMON WAS DELIVERED IN A DEER",
+          "role": "outcome"
+        },
+        {
+          "text": "HE TAUGHT FOR OVER FOUR DECADES AND ESTABLISHED AN",
+          "role": "comparison"
+        },
+        {
+          "text": "UPINDER SINGH DESCRIBES JAIN DOCTRINE THROUGH RIGHT FAITH, RIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDDHIST AND JAIN COMMUNITIES DEPENDED ON LAY SUPPORT, MERCHANTS",
+          "role": "primary"
+        },
+        {
+          "text": "THE SANGHA CREATED A PORTABLE INSTITUTION THAT HELPED BUDDHISM",
+          "role": "institution"
+        },
+        {
+          "text": "DECLINE OF BUDDHISM IN INDIA MUST BE EXPLAINED THROUGH",
+          "role": "caution"
+        },
+        {
+          "text": "ABSORPTION, INSTITUTIONAL VULNERABILITY AND LATER POLITICAL DISRUPTIONS — NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Buddha's first sermon was delivered in a deer park near Benaras, remembered as dhammachakka-pavattana .",
+            "He taught for over four decades and established an order of monks and nuns called the sangha .",
+            "Upinder Singh describes Jain doctrine through right faith, right knowledge and right conduct, with five great vows for monks and nuns.",
+            "Buddhist and Jain communities depended on lay support, merchants and urban networks."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The sangha created a portable institution that helped Buddhism travel across regions.",
+            "CAUTION: Decline of Buddhism in India must be explained through changing patronage,",
+            "absorption, institutional vulnerability and later political disruptions — not one cause.",
+            "Buddha's first sermon near Benaras is dhammachakka-pavattana ."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Buddha established the sangha of monks and nuns.",
+            "Jain Triratna: right faith, right knowledge, right conduct.",
+            "Jain five vows: ahimsa, satya, asteya, brahmacharya, non-possession.",
+            "Shvetambaras later predominated in western India; Digambaras in the south."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

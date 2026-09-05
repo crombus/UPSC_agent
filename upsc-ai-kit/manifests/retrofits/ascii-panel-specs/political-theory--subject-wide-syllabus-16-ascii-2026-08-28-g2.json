@@ -1,0 +1,362 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-28",
+  "scope": "Political Theory subject-wide syllabus topic 16",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-16",
+      "title": "Citizenship and Its Critiques",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-16_Learning-Session.md",
+      "source_record": "political-theory-16:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Citizenship: Meaning, Status and Democratic Practice",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Citizenship: Meaning, Status and Democratic Practice",
+            "  [1] Citizenship is a legal status, a bundle of rights and a democratic practice.",
+            "        |",
+            "        v",
+            "  [2] Substantive citizenship tests whether formally equal members can use those rights.",
+            "        |",
+            "        v",
+            "  [3] Citizen-subject is an ideal-type contrast, not a complete history of every regime.",
+            "        |",
+            "        v",
+            "  [4] Answers must distinguish membership, participation, identity and social capacity.",
+            "        |",
+            "        v",
+            "VERDICT -> Citizenship joins legal membership to substantive political agency.",
+            "ANSWER USE -> Begin by distinguishing status, rights, participation and capability."
+          ]
+        },
+        {
+          "panel_title": "Historical Genealogy: Aristotle, Locke and Marshall",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Historical Genealogy: Aristotle, Locke and Marshall",
+            "  [1] Aristotle links citizenship to participation in deliberative and judicial office.",
+            "        |",
+            "        v",
+            "  [2] Modern citizenship expands beyond the polis through rights, representation and",
+            "      nation-state membership.",
+            "        |",
+            "        v",
+            "  [3] Locke supplies a rights-and-trust tradition rather than a full modern citizenship",
+            "      theory.",
+            "        |",
+            "        v",
+            "  [4] Marshall reconstructs civil, political and social rights from the English case.",
+            "        |",
+            "        v",
+            "VERDICT -> Citizenship expanded historically without following one universal sequence.",
+            "ANSWER USE -> Use Aristotle, Locke and Marshall with explicit scope limits."
+          ]
+        },
+        {
+          "panel_title": "Liberal, Libertarian, Marxist and Communitarian Models",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Liberal, Libertarian, Marxist and Communitarian Models",
+            "  [1] Liberal theory protects equal legal status and individual rights.",
+            "        |",
+            "        v",
+            "  [2] Libertarian theory narrows compulsory provision and redistributive social",
+            "      citizenship.",
+            "        |",
+            "        v",
+            "  [3] Marxist critique asks whether formal equality masks class dependence.",
+            "        |",
+            "        v",
+            "  [4] Communitarian theory stresses belonging, shared practices and reciprocal obligation.",
+            "        |",
+            "        v",
+            "VERDICT -> Citizenship theories disagree over liberty, equality, class and belonging.",
+            "ANSWER USE -> Compare each model through rights, duties, membership and exclusion."
+          ]
+        },
+        {
+          "panel_title": "Republican Citizenship, Public Action and Membership",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Republican Citizenship, Public Action and Membership",
+            "  [1] Republican citizenship connects freedom with participation and non-domination.",
+            "        |",
+            "        v",
+            "  [2] Arendt links citizenship to a public world in which persons can appear and act.",
+            "        |",
+            "        v",
+            "  [3] Walzer treats membership as a distinct sphere with distributive significance.",
+            "        |",
+            "        v",
+            "  [4] Barber's strong democracy intensifies participatory self-government.",
+            "        |",
+            "        v",
+            "VERDICT -> Public action, membership and participation are related but distinct.",
+            "ANSWER USE -> Keep Arendt, Walzer and Barber in their correct argumentative roles."
+          ]
+        },
+        {
+          "panel_title": "Rights, Duties, Obligation and Reciprocity",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Rights, Duties, Obligation and Reciprocity",
+            "  [1] Duties include lawfulness, taxes, civic contribution and protection of institutions.",
+            "        |",
+            "        v",
+            "  [2] Political obligation remains conditional on legitimacy rather than mere legal",
+            "      status.",
+            "        |",
+            "        v",
+            "  [3] Reciprocity asks whether members both receive protection and sustain common",
+            "      institutions.",
+            "        |",
+            "        v",
+            "  [4] A rights-duty answer must not convert citizenship into unconditional obedience.",
+            "        |",
+            "        v",
+            "VERDICT -> Reciprocal citizenship supports duties without licensing unconditional obedience.",
+            "ANSWER USE -> Connect contribution to legitimate and non-dominating institutions."
+          ]
+        },
+        {
+          "panel_title": "Theses, Directives and Comparative Answer Design",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Theses, Directives and Comparative Answer Design",
+            "  [1] A thesis should name the model of citizenship and the exclusion it diagnoses.",
+            "        |",
+            "        v",
+            "  [2] Directive control determines whether the answer explains, compares or evaluates.",
+            "        |",
+            "        v",
+            "  [3] Marshall answers need sequence, English-case limits and the welfare-state mechanism.",
+            "        |",
+            "        v",
+            "  [4] Migration answers must separate nationality, identity, residence and political",
+            "      membership.",
+            "        |",
+            "        v",
+            "VERDICT -> Directive control prevents history, theory and critique from becoming a list.",
+            "ANSWER USE -> State the citizenship model and the precise exclusion under review."
+          ]
+        },
+        {
+          "panel_title": "Feminist, Differentiated, Minority and Subaltern Critiques",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Feminist, Differentiated, Minority and Subaltern Critiques",
+            "  [1] Feminist critique exposes the public-private split and unequal care burdens.",
+            "        |",
+            "        v",
+            "  [2] Young challenges universal citizenship that assimilates group difference.",
+            "        |",
+            "        v",
+            "  [3] Kymlicka defends differentiated minority rights within liberal citizenship.",
+            "        |",
+            "        v",
+            "  [4] Subaltern critique asks who can speak, organise and convert formal rights into",
+            "      voice.",
+            "        |",
+            "        v",
+            "VERDICT -> Equal treatment can reproduce exclusion when social positions are unequal.",
+            "ANSWER USE -> Distinguish feminist, Young, Kymlicka and subaltern mechanisms."
+          ]
+        },
+        {
+          "panel_title": "Giddens, Held, Turner and Advanced Citizenship Debates",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Giddens, Held, Turner and Advanced Citizenship Debates",
+            "  [1] Giddens's conflict account links citizenship expansion to organised struggle.",
+            "        |",
+            "        v",
+            "  [2] His later surveillance analysis should remain separate from the 1982 rights",
+            "      argument.",
+            "        |",
+            "        v",
+            "  [3] Held studies citizenship under overlapping national and transnational authority.",
+            "        |",
+            "        v",
+            "  [4] Turner links citizenship to social closure, embodiment and contested membership.",
+            "        |",
+            "        v",
+            "VERDICT -> Citizenship rights emerge through conflict and changing authority structures.",
+            "ANSWER USE -> Separate Giddens's two arguments and mark later extensions clearly."
+          ]
+        },
+        {
+          "panel_title": "Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Migration, Jus Soli, Jus Sanguinis, Statelessness and Denizenship",
+            "  [1] Jus soli assigns nationality through territorial birth; jus sanguinis through",
+            "      descent.",
+            "        |",
+            "        v",
+            "  [2] Statelessness means no state considers the person its national under its law.",
+            "        |",
+            "        v",
+            "  [3] Denizens possess durable residence and substantial rights without full political",
+            "      membership.",
+            "        |",
+            "        v",
+            "  [4] Migration reveals governance without equal authorship of binding rules.",
+            "        |",
+            "        v",
+            "VERDICT -> Migration separates residence, nationality and political authorship.",
+            "ANSWER USE -> Define each legal status before evaluating inclusion or exclusion."
+          ]
+        },
+        {
+          "panel_title": "Citizenship, Legal Nationality, National Identity and Civic Capability",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Citizenship, Legal Nationality, National Identity and Civic Capability",
+            "  [1] Citizenship names domestic legal-political membership and its rights and duties.",
+            "        |",
+            "        v",
+            "  [2] Legal nationality is the person-state bond recognised in international law.",
+            "        |",
+            "        v",
+            "  [3] National identity is cultural or political identification, not a documentary",
+            "      synonym.",
+            "        |",
+            "        v",
+            "  [4] The ECI literacy anchor illustrates civic capability without proving equal",
+            "      participation.",
+            "        |",
+            "        v",
+            "VERDICT -> Civic literacy builds capability but does not prove equal democratic power.",
+            "ANSWER USE -> Use the verified ECI anchor with a clear evidence boundary."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Close options test legal status versus effective capability and identity versus",
+            "      nationality.",
+            "        |",
+            "        v",
+            "  [2] Arendt, Walzer and Barber address public action, membership and participation",
+            "      differently.",
+            "        |",
+            "        v",
+            "  [3] Young's differentiated citizenship is not Kymlicka's complete minority-rights",
+            "      framework.",
+            "        |",
+            "        v",
+            "  [4] Marshall's sequence is an English reconstruction, not a universal law of",
+            "      development.",
+            "        |",
+            "        v",
+            "VERDICT -> Close options turn on holder, mechanism, provenance and scope.",
+            "ANSWER USE -> Correct the tempting overclaim before selecting the answer."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] One cross-applied PYQ asks whether rights make citizens accountable to the state.",
+            "        |",
+            "        v",
+            "  [2] Primary ownership remains Philosophy Paper II - Individual and State.",
+            "        |",
+            "        v",
+            "  [3] Six original questions test genealogy, theories, critiques and migration boundaries.",
+            "        |",
+            "        v",
+            "  [4] Final recall: equal status is incomplete without usable voice and non-dominated",
+            "      membership.",
+            "        |",
+            "        v",
+            "VERDICT -> Cross-application preserves PYQ ownership while testing citizenship logic.",
+            "ANSWER USE -> End on fair membership, usable voice and resistance to domination."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1103 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-19",
+  "subject": "Political Theory",
+  "title": "JUSTICE: CONCEPTS AND DIMENSIONS",
+  "short_route": "GAUBA'S ALLOCATIVE FRAME, RIGHTNESS → TRADITIONAL JUSTICE, SOCIAL JUSTICE → LAW, LEGALITY AND THE → ARISTOTLE, DISTRIBUTION AND CORRECTIVE → PROCEDURAL LIBERALISM, BACKGROUND INEQUALITY → NOZICK, MERIT, NEED AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g3\\topic-19_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-19-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "6cf1297ae080a8bc111035915792e8ba59918d93a54ef7292f412b38d2dedeac",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GAUBA'S ALLOCATIVE FRAME, RIGHTNESS AND DYNAMIC JUSTICE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GAUBA'S ALLOCATIVE FRAME, RIGHTNESS AND DYNAMIC JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] GAUBA FRAMES JUSTICE THROUGH ALLOCATIVE CONTEST UNDER SCARCITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] RIGHTNESS CANNOT BE REDUCED TO AGGREGATE USEFULNESS, THOUGH",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DYNAMIC SOCIAL CONSCIOUSNESS EXPLAINS WHY ACCEPTED HIERARCHY CAN",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE ALLOCATIVE FRAME IS NOT AN EXHAUSTIVE DEFINITION",
+          "role": "caution"
+        },
+        {
+          "text": "GAUBA'S SCARCITY-OPEN SOCIETY FRAME IS ALLOCATIVE, NOT UNIVERSAL.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Gauba's Allocative Frame, Rightness and Dynamic Justice",
+        "[1] Gauba frames justice through allocative contest under scarcity and openness.",
+        "[2] Rightness cannot be reduced to aggregate usefulness, though Mill complicates a blanket anti-utilitarian claim.",
+        "[3] Dynamic social consciousness explains why accepted hierarchy can become recognised injustice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Gauba's Allocative Frame, Rightness and Dynamic Justice",
+            "[1] Gauba frames justice through allocative contest under scarcity and openness."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Rightness cannot be reduced to aggregate usefulness, though Mill complicates a blanket anti-utilitarian claim.",
+            "[3] Dynamic social consciousness explains why accepted hierarchy can become recognised injustice.",
+            "[4] The allocative frame is not an exhaustive definition of corrective or penal justice."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Gauba's scarcity-open society frame is allocative, not universal.",
+            "ANSWER USE → Define the frame and immediately state its boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Gauba's scarcity-open society frame is allocative, not universal.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TRADITIONAL JUSTICE, SOCIAL JUSTICE AND BARKER'S ORDERING",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRADITIONAL JUSTICE, SOCIAL JUSTICE AND BARKER'S ORDERING",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TRADITIONAL JUSTICE ORDERS DIFFERENTIATED ROLES; MODERN SOCIAL JUSTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PLATO'S FUNCTIONAL HARMONY IS HIERARCHICAL BUT SHOULD NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[3] BARKER ORDERS LIBERTY, EQUALITY AND FRATERNITY RATHER THAN",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FRATERNITY CONVERTS PROTECTION OF WEAKER MEMBERS FROM CHARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE ORDERS LIBERTY, EQUALITY AND FRATERNITY INTO ONE SCHEME.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Traditional Justice, Social Justice and Barker's Ordering",
+        "[1] Traditional justice orders differentiated roles; modern social justice transforms oppressive arrangements.",
+        "[2] Plato's functional harmony is hierarchical but should not be simplified into completely closed hereditary",
+        "[3] Barker orders liberty, equality and fraternity rather than listing them separately."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Traditional Justice, Social Justice and Barker's Ordering",
+            "[1] Traditional justice orders differentiated roles; modern social justice transforms oppressive arrangements."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Plato's functional harmony is hierarchical but should not be simplified into completely closed hereditary caste.",
+            "[3] Barker orders liberty, equality and fraternity rather than listing them separately.",
+            "[4] Fraternity converts protection of weaker members from charity into a claim of common life."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Justice orders liberty, equality and fraternity into one scheme.",
+            "ANSWER USE → Move from Plato's roles to modern structural transformation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Justice orders liberty, equality and fraternity into one scheme.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LAW, LEGALITY AND THE INSTITUTIONAL DIMENSIONS OF JUSTICE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LAW, LEGALITY AND THE INSTITUTIONAL DIMENSIONS OF JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ROSS ASKS WHETHER EXISTING LAW IS IMPARTIALLY ADMINISTERED.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] BARKER ASKS WHETHER LAW ITSELF POSSESSES DEFENSIBLE MORAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] LEGAL, POLITICAL AND SOCIO-ECONOMIC JUSTICE TEST DIFFERENT BUT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] VALIDITY, DEMOCRATIC VOICE AND MATERIAL ACCESS MUST REMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "VALID ADMINISTRATION CANNOT SETTLE THE JUSTICE OF LEGAL CONTENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Law, Legality and the Institutional Dimensions of Justice",
+        "[1] Ross asks whether existing law is impartially administered.",
+        "[2] Barker asks whether law itself possesses defensible moral value.",
+        "[3] Legal, political and socio-economic justice test different but connected institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Law, Legality and the Institutional Dimensions of Justice",
+            "[1] Ross asks whether existing law is impartially administered."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Barker asks whether law itself possesses defensible moral value.",
+            "[3] Legal, political and socio-economic justice test different but connected institutions.",
+            "[4] Validity, democratic voice and material access must remain analytically distinct."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Valid administration cannot settle the justice of legal content.",
+            "ANSWER USE → Compare Ross and Barker before adding political and material dimensions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Valid administration cannot settle the justice of legal content.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARISTOTLE, DISTRIBUTION AND CORRECTIVE JUSTICE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARISTOTLE, DISTRIBUTION AND CORRECTIVE JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ARISTOTLE SEPARATES GEOMETRIC DISTRIBUTIVE PROPORTION FROM ARITHMETIC CORRECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MODERN NEED-BASED ALLOCATION IS NOT ARISTOTLE'S OWN COORDINATE",
+          "role": "caution"
+        },
+        {
+          "text": "[3] CORRECTIVE JUSTICE IS BILATERAL AND TRANSACTIONAL.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] RETRIBUTIVE AND RESTORATIVE JUSTICE REMAIN SEPARATE PENAL-PHILOSOPHY OWNERS.",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTION, BILATERAL CORRECTION AND PUNISHMENT ASK DIFFERENT QUESTIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Aristotle, Distribution and Corrective Justice",
+        "[1] Aristotle separates geometric distributive proportion from arithmetic corrective equality.",
+        "[2] Modern need-based allocation is not Aristotle's own coordinate criterion.",
+        "[3] Corrective justice is bilateral and transactional."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Modern need-based allocation is not Aristotle's own coordinate criterion.",
+          "VERDICT → Distribution, bilateral correction and punishment ask different questions."
+        ],
+        [
+          "Aristotle, Distribution and Corrective Justice",
+          "[3] Corrective justice is bilateral and transactional.",
+          "ANSWER USE → State Aristotle's standard and the penal-justice boundary."
+        ],
+        [
+          "[1] Aristotle separates geometric distributive proportion from arithmetic corrective equality.",
+          "[4] Retributive and restorative justice remain separate penal-philosophy owners.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Aristotle, Distribution and Corrective Justice",
+            "[1] Aristotle separates geometric distributive proportion from arithmetic corrective equality."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Modern need-based allocation is not Aristotle's own coordinate criterion.",
+            "[3] Corrective justice is bilateral and transactional.",
+            "[4] Retributive and restorative justice remain separate penal-philosophy owners."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Distribution, bilateral correction and punishment ask different questions.",
+            "ANSWER USE → State Aristotle's standard and the penal-justice boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Distribution, bilateral correction and punishment ask different questions.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROCEDURAL LIBERALISM, BACKGROUND INEQUALITY AND MACPHERSON",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PROCEDURAL LIBERALISM, BACKGROUND INEQUALITY AND MACPHERSON",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HAYEK, FRIEDMAN AND NOZICK ARE GROUPED BY GAUBA",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MACPHERSON SHOWS HOW BACKGROUND INEQUALITY CAN HOLLOW OUT",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DUE PROCESS REMAINS NECESSARY EVEN WHEN PROCEDURE IS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] A FAIR-LOOKING RULE IS NOT SUFFICIENT PROOF OF",
+          "role": "caution"
+        },
+        {
+          "text": "PROCEDURE IS NECESSARY BUT BACKGROUND POWER CAN DEFEAT ITS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Procedural Liberalism, Background Inequality and Macpherson",
+        "[1] Hayek, Friedman and Nozick are grouped by Gauba but defend different procedural arguments.",
+        "[2] Macpherson shows how background inequality can hollow out formally voluntary competition.",
+        "[3] Due process remains necessary even when procedure is substantively incomplete."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Procedural Liberalism, Background Inequality and Macpherson",
+            "[1] Hayek, Friedman and Nozick are grouped by Gauba but defend different procedural arguments."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Macpherson shows how background inequality can hollow out formally voluntary competition.",
+            "[3] Due process remains necessary even when procedure is substantively incomplete.",
+            "[4] A fair-looking rule is not sufficient proof of a fair social order."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Procedure is necessary but background power can defeat its purpose.",
+            "ANSWER USE → Distinguish Hayek, Friedman and Nozick before using Macpherson."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Procedure is necessary but background power can defeat its purpose.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NOZICK, MERIT, NEED AND DESERT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NOZICK, MERIT, NEED AND DESERT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NOZICK'S THEORY IS HISTORICAL, ENTITLEMENT-BASED AND UNPATTERNED.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ACQUISITION IS LIMITED BY A LOCKEAN PROVISO; UNJUST",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MERIT, NEED AND DESERT ANSWER DIFFERENT DISTRIBUTIVE QUESTIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PROGRESSIVE TAXATION CAN FINANCE A FLOOR BUT DOES",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTITLEMENT REQUIRES ACQUISITION, TRANSFER, PROVISO AND RECTIFICATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Nozick, Merit, Need and Desert",
+        "[1] Nozick's theory is historical, entitlement-based and unpatterned.",
+        "[2] Acquisition is limited by a Lockean proviso; unjust history activates rectification.",
+        "[3] Merit, need and desert answer different distributive questions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Nozick, Merit, Need and Desert",
+            "[1] Nozick's theory is historical, entitlement-based and unpatterned."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Acquisition is limited by a Lockean proviso; unjust history activates rectification.",
+            "[3] Merit, need and desert answer different distributive questions.",
+            "[4] Progressive taxation can finance a floor but does not itself reward merit."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Entitlement requires acquisition, transfer, proviso and rectification.",
+            "ANSWER USE → Separate merit, need and desert rather than calling all fairness."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Entitlement requires acquisition, transfer, proviso and rectification.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RAWLS, SEN AND THE INFORMATION OF JUSTICE",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RAWLS, SEN AND THE INFORMATION OF JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] RAWLS STATES TWO LEXICALLY ORDERED PRINCIPLES, NOT THREE",
+          "role": "caution"
+        },
+        {
+          "text": "[2] FAIR EQUALITY OF OPPORTUNITY PRECEDES THE DIFFERENCE PRINCIPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SEN SEPARATES CAPABILITY AS INFORMATIONAL SPACE FROM COMPARATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] RAWLS, NOZICK AND SEN DISAGREE OVER PROCEDURE, OBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "RAWLS, NOZICK AND SEN EVALUATE DIFFERENT OBJECTS BY DIFFERENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Rawls, Sen and the Information of Justice",
+        "[1] Rawls states two lexically ordered principles, not three independent principles.",
+        "[2] Fair equality of opportunity precedes the difference principle within the second principle.",
+        "[3] Sen separates capability as informational space from comparative, realisation-focused method."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Rawls, Sen and the Information of Justice",
+            "[1] Rawls states two lexically ordered principles, not three independent principles."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Fair equality of opportunity precedes the difference principle within the second principle.",
+            "[3] Sen separates capability as informational space from comparative, realisation-focused method.",
+            "[4] Rawls, Nozick and Sen disagree over procedure, object and institutional requirement."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Rawls, Nozick and Sen evaluate different objects by different methods.",
+            "ANSWER USE → Preserve Rawls's priority rules and Sen's information-method distinction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rawls, Nozick and Sen evaluate different objects by different methods.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RECOGNITION, REPRESENTATION AND INDIAN APPLICATIONS",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RECOGNITION, REPRESENTATION AND INDIAN APPLICATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FRASER JOINS REDISTRIBUTION AND RECOGNITION THROUGH PARITY OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] HER MATURE FRAMEWORK ADDS REPRESENTATION WITHOUT CLAIMING OWNERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] AFFIRMATIVE ACTION IS NOT ORDINARY NEED-BASED WELFARE.",
+          "role": "caution"
+        },
+        {
+          "text": "[4] THE 2026-27 NATIONAL OVERSEAS SCHOLARSHIP ILLUSTRATES GROUP-SENSITIVE OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTION ALONE MISSES STATUS AND POLITICAL REPRESENTATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Recognition, Representation and Indian Applications",
+        "[1] Fraser joins redistribution and recognition through parity of participation.",
+        "[2] Her mature framework adds representation without claiming ownership of every recognition theory.",
+        "[3] Affirmative action is not ordinary need-based welfare."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Recognition, Representation and Indian Applications",
+            "[1] Fraser joins redistribution and recognition through parity of participation."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Her mature framework adds representation without claiming ownership of every recognition theory.",
+            "[3] Affirmative action is not ordinary need-based welfare.",
+            "[4] The 2026-27 National Overseas Scholarship illustrates group-sensitive opportunity, not proof of one theory."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Distribution alone misses status and political representation.",
+            "ANSWER USE → Use the scholarship anchor only as an illustration of opportunity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Distribution alone misses status and political representation.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OBJECTION-REPLY CHAINS AND DIRECTIVE CONTROL",
+      "structural_type": "application-pyq",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OBJECTION-REPLY CHAINS AND DIRECTIVE CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] OBJECTION-REPLY CHAINS MUST TEST PROCEDURE, HISTORICAL ENTITLEMENT AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECTIVE WORDS DETERMINE WHETHER THE ANSWER DISTINGUISHES, EVALUATES",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GLOBAL AND INTERGENERATIONAL BRIDGES REQUIRE SPECIFIED DUTY-BEARERS.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] CURRENT APPLICATIONS MUST REMAIN ILLUSTRATIONS RATHER THAN DOCTRINAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPANDED JUSTICE NEEDS NAMED INSTITUTIONS AND ACCOUNTABLE DUTIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Objection-Reply Chains and Directive Control",
+        "[1] Objection-reply chains must test procedure, historical entitlement and substantive life-chances.",
+        "[2] Directive words determine whether the answer distinguishes, evaluates or reconstructs.",
+        "[3] Global and intergenerational bridges require specified duty-bearers."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Objection-Reply Chains and Directive Control",
+            "[1] Objection-reply chains must test procedure, historical entitlement and substantive life-chances."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Directive words determine whether the answer distinguishes, evaluates or reconstructs.",
+            "[3] Global and intergenerational bridges require specified duty-bearers.",
+            "[4] Current applications must remain illustrations rather than doctrinal proof."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Expanded justice needs named institutions and accountable duties.",
+            "ANSWER USE → Run one objection-reply chain before the global or future bridge."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Expanded justice needs named institutions and accountable duties.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ARGUMENT ARCHITECTURE, PROVENANCE AND FINAL RECALL",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARGUMENT ARCHITECTURE, PROVENANCE AND FINAL RECALL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A JUSTICE ANSWER MOVES FROM STANDARD TO INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "[2] QUOTATION DISCIPLINE SEPARATES VERIFIED WORDING FROM PARAPHRASED POSITIONS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THIRTEEN CROSS-APPLIED PYQS RETAIN FIVE DISTINCT PHILOSOPHY OWNERS.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE JOINS FAIR PROCEDURE, DEFENSIBLE PURPOSE, STATUS AND EFFECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "JUSTICE JOINS RULE, PURPOSE, HISTORY, CAPABILITY AND PARTICIPATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Argument Architecture, Provenance and Final Recall",
+        "[1] A justice answer moves from standard to institution, distribution, objection and graded verdict.",
+        "[2] Quotation discipline separates verified wording from paraphrased positions.",
+        "[3] Thirteen cross-applied PYQs retain five distinct Philosophy owners."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Argument Architecture, Provenance and Final Recall",
+            "[1] A justice answer moves from standard to institution, distribution, objection and graded verdict."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Quotation discipline separates verified wording from paraphrased positions.",
+            "[3] Thirteen cross-applied PYQs retain five distinct Philosophy owners.",
+            "[4] Final recall: justice joins fair procedure, defensible purpose, status and effective participation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Justice joins rule, purpose, history, capability and participation.",
+            "ANSWER USE → End with a graded institutional judgment, not a slogan."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Justice joins rule, purpose, history, capability and participation.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TURN ON ALLOCATION, TRANSACTION, PUNISHMENT AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ORIGINAL POSITION DIFFERS FROM VEIL OF IGNORANCE; CAPABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOSE OPTIONS FAIL WHEN ADJACENT JUSTICE CATEGORIES ARE COLLAPSED.",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY OBJECT, STANDARD AND REMEDY BEFORE SELECTING AN ANSWER.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options turn on allocation, transaction, punishment and recognition boundaries.",
+        "[2] Original position differs from veil of ignorance; capability differs from functioning.",
+        "VERDICT → Close options fail when adjacent justice categories are collapsed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[1] Close options turn on allocation, transaction, punishment and recognition boundaries.",
+            "[2] Original position differs from veil of ignorance; capability differs from functioning."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options fail when adjacent justice categories are collapsed.",
+            "ANSWER USE → Identify object, standard and remedy before selecting an answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close options fail when adjacent justice categories are collapsed.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE MASTER FLOW ENDS WITH OWNERSHIP, CURRENT-ANCHOR CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "[2] NO POLITICAL THEORY TOPIC ACQUIRES PROXY OWNERSHIP OF",
+          "role": "caution"
+        },
+        {
+          "text": "CROSS-APPLICATION PRESERVES FIVE PHILOSOPHY OWNERSHIP ROUTES.",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "outcome"
+        },
+        {
+          "text": "KEEP PYQ PROVENANCE AND CURRENT-ANCHOR CAUTION EXPLICIT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] The master flow ends with ownership, current-anchor caution and answer architecture.",
+        "[2] No Political Theory topic acquires proxy ownership of Philosophy PYQs.",
+        "VERDICT → Cross-application preserves five Philosophy ownership routes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[1] The master flow ends with ownership, current-anchor caution and answer architecture.",
+            "[2] No Political Theory topic acquires proxy ownership of Philosophy PYQs."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Cross-application preserves five Philosophy ownership routes.",
+            "ANSWER USE → Keep PYQ provenance and current-anchor caution explicit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Cross-application preserves five Philosophy ownership routes.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

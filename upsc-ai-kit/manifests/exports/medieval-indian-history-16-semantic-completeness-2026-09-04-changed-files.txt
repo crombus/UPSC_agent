@@ -1,0 +1,8 @@
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\16_State-and-Government-under-Akbar.md
+upsc-ai-kit\manifests\exports\medieval-indian-history-16-semantic-completeness-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\16-state-government-under-akbar-semantic-completeness-review-2026-09-04.md

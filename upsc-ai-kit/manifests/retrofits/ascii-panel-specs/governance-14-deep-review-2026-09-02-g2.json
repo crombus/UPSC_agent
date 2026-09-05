@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-14",
+      "display_title": "Participatory Governance",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Participation ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "INFORMATION -> told after the decision; scheme publicity and proactive disclosure; not participation",
+            "CONSULTATION -> asked, decision-maker not bound; 2014 policy and the engagement platform",
+            "INVOLVEMENT -> take part in planning; village assembly in plan approval; ward meetings",
+            "CO-DECISION -> determine an outcome; participatory budgeting; assembly approval under PESA",
+            "CO-PRODUCTION -> produce the outcome jointly; community monitoring, user groups, social audit",
+            "DELEGATED CONTROL -> run the service; community-managed schemes with their own accountability",
+            "MUST REMEMBER: Participatory governance distributes voice across information,..."
+          ],
+          "source_references": [
+            "The participation ladder from information to delegated control",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "The Indian participation paradox",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MOST INSTITUTIONALISED -> pre-legislative consultation and the citizen-engagement platform",
+            "THEIR RUNG -> consultation, the weakest rung above being merely informed",
+            "MOST CO-DECISIONAL -> participatory budgeting over a defined share of a municipal budget",
+            "ITS SCALE -> scattered municipal and ward pilots rather than a universal practice",
+            "FINDING -> the forms of participation are institutionalised and the substance is not"
+          ],
+          "source_references": [
+            "The Indian participation paradox",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Consultation policy status card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "INSTRUMENT -> Pre-Legislative Consultation Policy, 2014",
+            "CONTENT -> publish the draft with explanatory material; ordinarily at least thirty days",
+            "EXCEPTIONS -> stated exceptions apply and the window may be curtailed",
+            "STATUS -> executive policy, not a statute; comments are not binding",
+            "GAP -> no general duty to publish a reasoned response to objections"
+          ],
+          "source_references": [
+            "The Pre-Legislative Consultation Policy of 2014 and its exact status",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Named participation forums",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "VILLAGE ASSEMBLY -> all registered voters in a Panchayat area; test: what can it decide",
+            "WARD COMMITTEE -> Article 243S; municipalities of three lakh or more; State law on composition",
+            "PARTICIPATORY BUDGETING -> co-decision over a defined budget share; pilot-scale in India",
+            "SCHEDULED AREAS -> PESA assembly powers; consultation before acquisition, not consent"
+          ],
+          "source_references": [
+            "The village assembly and the authority test",
+            "Ward Committees and the Article 243S threshold",
+            "Participatory budgeting as co-decision at pilot scale",
+            "Scheduled Areas, the Gram Sabha and consultation rather than consent",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Why decisions drift upward",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ADMINISTRATIVE CONVENIENCE -> one design is simpler to run than hundreds of local variants",
+            "-> CAPACITY ARGUMENT: genuine and self-fulfilling where authority is never given",
+            "-> POLITICAL-CONTROL INCENTIVE: discretionary allocation carries political credit",
+            "-> INFORMATION LOSS: local report to block to district to State to Union, filtered each step",
+            "-> DECISION WITHOUT CURRENT LOCAL INFORMATION",
+            "-> OUTCOME MISMATCH: wrong design, wrong sequence or arriving too late to be useful"
+          ],
+          "source_references": [
+            "Why decisions drift upward",
+            "Information loss in transmission and outcome mismatch",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two separations inside one demand",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "SEPARATION FROM INFORMATION -> the decision-maker lacks accurate, current local knowledge",
+            "SEPARATION FROM EXECUTION -> the decision-maker lacks awareness of and accountability for delivery",
+            "WHY IT MATTERS -> each has a different corrective and merging them loses the analytical mark",
+            "FIX FOR THE FIRST -> relocate priority-setting; FIX FOR THE SECOND -> relocate answerability"
+          ],
+          "source_references": [
+            "Two distinct separations inside one demand",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Counterweight card",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEGITIMATE CENTRALISATION -> scale in large infrastructure; inter-regional equity",
+            "LEGITIMATE CENTRALISATION -> specialised technical capacity; rights that must not vary locally",
+            "ELITE CAPTURE -> a local forum can reflect a dominant caste or economic group",
+            "CAPTURE SAFEGUARDS -> reservation, rotation, facilitation, disclosure, quorum, social audit"
+          ],
+          "source_references": [
+            "The legitimate rationales for central decision-making",
+            "Elite capture and the design that answers it",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Eight deliberation design tests",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "1 AUTHORITY -> is the forum deciding, or advising on a decision already taken",
+            "2 TIMING -> is it consulted before the options are foreclosed",
+            "3 INFORMATION -> budget, options and trade-offs in usable form and language",
+            "4 INCLUSION -> who is absent: women, landless, migrants, disabled persons, the poorest",
+            "5 FACILITATION -> independent facilitator, or the implementing agency running its own hearing",
+            "6 RECORD AND RESPONSE -> objections recorded and a reasoned response published",
+            "7 FEEDBACK LOOP -> does the participant learn what happened to the input",
+            "8 IN CONFLICT -> recognised representatives, agreed facts and a route to a binding outcome"
+          ],
+          "source_references": [
+            "The eight design tests that make deliberation real",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Consultation feedback matrix",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "COLUMN 1 -> stakeholder category that raised the issue",
+            "COLUMN 2 -> issue raised, stated in the objector's own terms",
+            "COLUMN 3 -> government response, accepted or rejected, with reasons",
+            "COLUMN 4 -> resulting change to the draft, if any",
+            "COLUMN 5 -> unresolved distributional effect that remains after the change"
+          ],
+          "source_references": [
+            "The Pre-Legislative Consultation Policy of 2014 and its exact status",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Partnership forms kept distinct",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "CONTRACTING -> the state buys delivery from a provider against a specification",
+            "CONVERGENCE -> several public agencies align at the point of delivery",
+            "CO-PRODUCTION -> citizens produce the outcome jointly through monitoring and user groups",
+            "PUBLIC-PRIVATE PARTNERSHIP -> risk and finance shared under a contract",
+            "RISK -> shared work becomes nobody's work unless one duty-holder stays identifiable",
+            "CLOSE DISTINCTION: Attendance is not participation, consultation is not consent, public..."
+          ],
+          "source_references": [
+            "Co-production, partnership forms and diffused accountability",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Who is absent from the forum",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "WOMEN -> attendance, speaking time and proxy participation are three different measures",
+            "LANDLESS AND MIGRANT HOUSEHOLDS -> often outside the electoral roll the forum rests on",
+            "THE POOREST -> bear the highest relative wage and time cost of attending",
+            "MINORITIES WITHIN THE VILLAGE -> a majority forum can decide against them",
+            "CONSEQUENCE -> participation is not a substitute for rights protection",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Gram Sabhas, ward committees,..."
+          ],
+          "source_references": [
+            "Absent participants, trade-offs and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a participation demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> subsidiarity as an information and execution argument, not as a democratic slogan",
+            "BUILD -> place the named mechanism on the ladder and ask what it can actually decide",
+            "CORRECT -> name legitimate centralisation and elite capture as the two counterweights",
+            "CLOSE -> design conditions, absent participants and a graded verdict with no invented count"
+          ],
+          "source_references": [
+            "Absent participants, trade-offs and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\14_Participatory-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-14\\g2\\governance-14_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

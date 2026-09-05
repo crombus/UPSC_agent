@@ -1,0 +1,151 @@
+{
+  "record_id": "medieval-indian-history-01:learner-v2:g6",
+  "topic_key": "medieval-indian-history-01",
+  "variant": "learner-v2",
+  "generation": 6,
+  "supersedes": "medieval-indian-history-01:learner-v2:g5",
+  "command": "Generate learner-v2 topic: Medieval History — Subject-wide Syllabus — India on the Eve of the Medieval Age & Arab-Turkish Contacts — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Solved-Practice-Workbook_2026-08-30.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Solved-Practice-Workbook_2026-08-30.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\assets",
+  "generated_on": "2026-08-30",
+  "approved": false,
+  "provenance": {
+    "workflow": "medieval-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\medival_history\\Satish Chandra History of Medieval India.pdf",
+      "books\\medival_history\\dokumen.pub_medieval-india-from-sultanat-to-the-mughals-part-i-8124119899-9788124119891.pdf"
+    ],
+    "live_sources": [
+      "https://pib.gov.in/PressReleasePage.aspx?PRID=2191073",
+      "https://whc.unesco.org/en/statesparties/in"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-08-30",
+    "superseded_v1": "medieval-indian-history-01:legacy-v1:g1",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md": "9e8eef80ce34563c7a9b659a7102da7bfa3e7dc348589b95aecc9f9ab4c5d4d2",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md": "271c003a281adabfa3713c666718775006835d4c9cd450a6f1511888a4507335",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md": "6a4af6cc4908ef985ccd92afe1772c5bb0713da800a51730329a436236c6b9c1",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "1a4552d27c0d690fcb32bc9b2f810147050e33c38cf9129ee6aaa53ec776efd8",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "7 routed application PYQs; 16 learning, 32 workbook and 8 remedial MCQs; 16 original solved Mains questions.",
+    "current_linkage_note": "The November 2025 Archaeological Survey of India workshop on Project Mausam was rechecked on 30 August 2026. It provides a bounded modern link to documentation of Indian Ocean movement, ports and cultural exchange. It does not prove any specific early Indo-Arab route, date or settlement without the medieval textual and archaeological record.",
+    "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "edab429a131926d4216e6e4e6d7c9320a5b8c2bc610f421e64f19b7359c59396",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Solved-Practice-Workbook_2026-08-30.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\medieval-indian-history--subject-wide-syllabus-content-specs\\medieval-indian-history-01-g6.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-deep-review-2026-08-30-g6.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md": "1424dfa571972ed031b2447e88e79eeef859e9a94e9dfb1158f26649bb8da1b3",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Solved-Practice-Workbook_2026-08-30.md": "fe62fd48a0dd91b100675e36753bfe7148b49306f05abaf2fd37bcc7ecee5c07",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.pdf": "ec52d070ae34acc54cbbda42281e946f7f4e5d3b918119f30d8cd0e5503005c7",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\medieval-indian-history-01_Solved-Practice-Workbook_2026-08-30.pdf": "d6b636f17b19ba5afc5547343342cbc9f1be55f66f52b10e1fa6e6f74a653c26",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\validation\\main-visual-audit-map.json": "d6fbd367e5148563a3bb187f4063aaa82343bf735a4b4bdf27589584f7298f62",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\validation\\workbook-visual-audit-map.json": "0f583914b6c344dbd70705166dc91973504d7228f338182bd97a744f51717d0c",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-deep-review-2026-08-30-g6.json": "9453421715fbf6fb1d74884d2bb5f1adf0ae3696188fe03775df77ff15b19db3",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Medieval-Indian-History\\deep-review\\medieval-indian-history-01-g6.json": "520bb3f7a958bee038d0756a8f08436766e7bc80197723a7e3910700220982ed",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g6\\assets\\medieval-indian-history-01_Teaching-Navigation_2026-08-30.png": "f2d1cc7c906ad65402d85d3aa1c3d02de8c3654e57f224e91d40be6313dca891",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.pdf": "0662a7c8beb25762e5d32ef80145ea4c512b2278b41e31e1dda5263788567162",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.txt": "d8233941bd3783c8ca60c771ad4a1fba2cd5b94f859ae9ee8f981b6fdf97c596",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\build-audit.json": "e003bfec55b29b93b252c29c4dc065bbb682a48b6b1db0cae6619dffc25873f6",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\master.png": "3533b36753556b50a68e9b2c1953fbd1362b453a67035747f65477defbcaf1d8",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\poster.pdf": "69a714246cc8d6a4431a3824a220f1e1b3dd041ba21443841da2880f22272f05",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\preservation-hashes.json": "9180834591f2a7b5aa3bc02e292732993604cc3f563efeb5c69240917e167bb2",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\README.txt": "d64424d35ad8ba370128ec70dc77b3eb24750a675883acd4926243818a5e8119",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\tiled.pdf": "27c69847f4def25b19d5f6c09e156d424edbd0a1a3973f04b956fafae67504c6",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\validation-report.txt": "e6c77cd98ac0ae3efe17f027b5d353b2a9070819d4a99b8f16bd9527514b1001",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\editable\\topic-spec.json": "520bb3f7a958bee038d0756a8f08436766e7bc80197723a7e3910700220982ed",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\contact-sheet-01.png": "406bfb3d2aae4d6331cd55fd6a4f5844421e61967e8e667aace1970caff07e4a",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\master-overview.png": "073920783d4c883a41c41f68de715cc155d1a78e9aa37ca12008198fd117e25f",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\page-001.png": "7e238b396367f7f724f84f171febf3c18e7579130c80569cc8844188ace0992a",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\page-002.png": "870f629c565224e6bedf3137fdbd93c3e6d5fcadf1eaaf8f8a15a84b8df9ba9d",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\page-003.png": "91ee81bbe639d9d17eb1a0efaa43ae389016db144260fc92e83cd7cf556cf3ad",
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\page-004.png": "7597ce82ac41c8423fec394b217b56570315313926099955e0532b529712e55c",
+      "upsc-ai-kit\\manifests\\v2\\medieval-indian-history--subject-wide-syllabus-content-specs\\medieval-indian-history-01-g6.json": "75d9cfa5d1c06acf5d03d84c8bf834f3f7e13cad0fa39435490eb735e42e4cf7"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "medieval-indian-history-01:learner-v2:g6"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-30",
+    "validator": "regenerate_medieval_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6",
+    "master_image": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Medieval-Indian-History\\deep-review\\medieval-indian-history-01-g6.json",
+    "graphical_spec_sha256": "520bb3f7a958bee038d0756a8f08436766e7bc80197723a7e3910700220982ed",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-deep-review-2026-08-30-g6.json",
+    "ascii_master_spec_sha256": "9453421715fbf6fb1d74884d2bb5f1adf0ae3696188fe03775df77ff15b19db3",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-medieval-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

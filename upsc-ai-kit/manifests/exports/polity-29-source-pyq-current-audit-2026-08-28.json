@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-29",
+  "control_date": "2026-08-28",
+  "approval": false,
+  "constitutional_sources": [
+    "Constitution Articles 270, 271, 275, 279, 280, 281, 282",
+    "Finance Commission (Miscellaneous Provisions) Act, 1951"
+  ],
+  "current_primary_sources": [
+    "Sixteenth Finance Commission Report Volume I, 2026-31",
+    "Explanatory Memorandum laid 1 February 2026",
+    "Union Budget 2026-27 Budget Speech and Finance Commission grant provision",
+    "Fifteenth Finance Commission Report 2021-26",
+    "Fourteenth Finance Commission Report 2015-20"
+  ],
+  "verified_current": {
+    "chair": "Arvind Panagariya",
+    "award_period": "2026-27 to 2030-31",
+    "vertical_devolution": "41%, accepted",
+    "horizontal_formula": "42.5/17.5/10/10/10/10 including GDP contribution",
+    "local_body_grants": "Rs 7,91,493 crore, five-year recommendation",
+    "state_disaster_funds": "Rs 2,04,401 crore, five-year recommendation",
+    "national_disaster_funds": "Rs 79,406 crore, five-year recommendation",
+    "budget_2026_27": "Rs 1.4 lakh crore for local-body and disaster grants"
+  },
+  "pyqs": [
+    {
+      "year": 2018,
+      "paper": "GS-II",
+      "q": 14,
+      "marks": 15,
+      "words": 250
+    },
+    {
+      "year": 2021,
+      "paper": "GS-II",
+      "q": 3,
+      "marks": 10,
+      "words": 150
+    },
+    {
+      "year": 2023,
+      "paper": "Prelims",
+      "q": 29
+    },
+    {
+      "year": 2025,
+      "paper": "Prelims",
+      "q": 66
+    },
+    {
+      "year": 2025,
+      "paper": "GS-II",
+      "q": 14,
+      "marks": 15,
+      "words": 250,
+      "ownership": "cross-link"
+    }
+  ],
+  "status_controls": [
+    "award envelope is not annual BE or release",
+    "accepted is distinct from accepted in principle/taken note/separate examination",
+    "no enacted Article 280(3)(bb)/(c) amendment claimed",
+    "no FC-16 cess cap or inclusion recommendation claimed"
+  ]
+}

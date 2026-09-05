@@ -1,0 +1,1189 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-15",
+  "subject": "Social-Justice",
+  "title": "LABOUR SOCIAL SECURITY, UNORGANISED AND GIG WORKERS",
+  "short_route": "STATUS LADDER → THREE STATUTORY CATEGORIES → CONTRIBUTION FRAMEWORK CARD → REGISTRATION TO BENEFIT → DELIVERY INSTITUTIONS → SCALE ANCHOR CARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-15_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-15-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "4639cb100fccc93d8221f893408d43170c0952d14b1de4e36c7576336b4d1540",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "STATUS LADDER",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "RUNG 1",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CODE ON SOCIAL SECURITY, 2020 IS PASSED",
+          "role": "comparison"
+        },
+        {
+          "text": "RUNG 2",
+          "role": "evidence"
+        },
+        {
+          "text": "BROUGHT INTO FORCE ON 21 NOVEMBER 2025",
+          "role": "primary"
+        },
+        {
+          "text": "RUNG 3",
+          "role": "outcome"
+        },
+        {
+          "text": "RULES AND SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "FINAL CENTRAL RULES NOTIFIED IN MAY 2026; STATE RULES",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RUNG 1 → enacted: the Code on Social Security, 2020 is passed",
+        "RUNG 2 → commenced: brought into force on 21 November 2025",
+        "RUNG 3 → rules and scheme: final Central Rules notified in May 2026; State rules",
+        "RUNG 4 → collected: a notified rate and an administered contribution ledger",
+        "RUNG 5 → delivered: registration, claims rules, grievance redress and a benefit received"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "RUNG 1 → enacted: the Code on Social Security, 2020 is passed",
+            "RUNG 2 → commenced: brought into force on 21 November 2025"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "RUNG 3 → rules and scheme: final Central Rules notified in May 2026; State rules pending relevance",
+            "RUNG 4 → collected: a notified rate and an administered contribution ledger"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RUNG 5 → delivered: registration, claims rules, grievance redress and a benefit received",
+            "RUNG 1 → enacted: the Code on Social Security, 2020 is passed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RUNG 5 → delivered: registration, claims rules, grievance redress and a benefit received.",
+      "source_references": [
+        "The Code on Social Security and its exact legal status",
+        "The status ladder that governs every claim here"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE STATUTORY CATEGORIES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE STATUTORY CATEGORIES",
+          "role": "primary"
+        },
+        {
+          "text": "GIG WORKER",
+          "role": "outcome"
+        },
+        {
+          "text": "EARNS FROM WORK OUTSIDE A TRADITIONAL EMPLOYER-EMPLOYEE RELATIONSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "PLATFORM WORKER",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKS OUTSIDE THAT RELATIONSHIP THROUGH AN ONLINE PLATFORM FOR",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL INTERMEDIARY OR MARKETPLACE CONNECTING USER AND PROVIDER",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FIRST TWO ARE WORKER CATEGORIES; THE THIRD IS",
+          "role": "comparison"
+        },
+        {
+          "text": "A DEFINITION CREATES ELIGIBILITY TO BE COVERED, NOT A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GIG WORKER → earns from work outside a traditional employer-employee relationship",
+        "PLATFORM WORKER → works outside that relationship through an online platform for payment",
+        "AGGREGATOR → digital intermediary or marketplace connecting user and provider",
+        "ROLE → the first two are worker categories; the third is the financing node",
+        "LIMIT → a definition creates eligibility to be covered, not a benefit"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "GIG WORKER → earns from work outside a traditional employer-employee relationship",
+          "AGGREGATOR → digital intermediary or marketplace connecting user and provider",
+          "LIMIT → a definition creates eligibility to be covered, not a benefit"
+        ],
+        [
+          "PLATFORM WORKER → works outside that relationship through an online platform for payment",
+          "ROLE → the first two are worker categories; the third is the financing node",
+          "GIG WORKER → earns from work outside a traditional employer-employee relationship"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GIG WORKER → earns from work outside a traditional employer-employee relationship",
+            "PLATFORM WORKER → works outside that relationship through an online platform for payment"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AGGREGATOR → digital intermediary or marketplace connecting user and provider",
+            "ROLE → the first two are worker categories; the third is the financing node"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → a definition creates eligibility to be covered, not a benefit",
+            "GIG WORKER → earns from work outside a traditional employer-employee relationship"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → a definition creates eligibility to be covered, not a benefit.",
+      "source_references": [
+        "What the Code means by a gig worker",
+        "What the Code means by a platform worker",
+        "What the Code means by an aggregator"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONTRIBUTION FRAMEWORK CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTRIBUTION FRAMEWORK CARD",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 114 OF THE CODE ON SOCIAL SECURITY, 2020",
+          "role": "outcome"
+        },
+        {
+          "text": "RATE FLOOR",
+          "role": "comparison"
+        },
+        {
+          "text": "AT LEAST ONE PER CENT OF AN AGGREGATOR'S ANNUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "RATE CEILING",
+          "role": "primary"
+        },
+        {
+          "text": "NOT MORE THAN TWO PER CENT OF THAT ANNUAL",
+          "role": "caution"
+        },
+        {
+          "text": "PAYOUT CAP",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE PER CENT OF AMOUNTS PAID OR PAYABLE TO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROVISION → Section 114 of the Code on Social Security, 2020",
+        "RATE FLOOR → at least one per cent of an aggregator's annual turnover",
+        "RATE CEILING → not more than two per cent of that annual turnover",
+        "PAYOUT CAP → five per cent of amounts paid or payable to gig and platform",
+        "STATUS → a framework for a notified rate; not proof of a collected levy"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PROVISION → Section 114 of the Code on Social Security, 2020",
+          "RATE CEILING → not more than two per cent of that annual turnover",
+          "STATUS → a framework for a notified rate; not proof of a collected levy"
+        ],
+        [
+          "RATE FLOOR → at least one per cent of an aggregator's annual turnover",
+          "PAYOUT CAP → five per cent of amounts paid or payable to gig and platform workers",
+          "PROVISION → Section 114 of the Code on Social Security, 2020"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PROVISION → Section 114 of the Code on Social Security, 2020",
+            "RATE FLOOR → at least one per cent of an aggregator's annual turnover"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RATE CEILING → not more than two per cent of that annual turnover",
+            "PAYOUT CAP → five per cent of amounts paid or payable to gig and platform workers"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → a framework for a notified rate; not proof of a collected levy",
+            "PROVISION → Section 114 of the Code on Social Security, 2020"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → a framework for a notified rate; not proof of a collected levy.",
+      "source_references": [
+        "The contribution framework in Section 114 and its exact numbers",
+        "Why a statutory range is not a collected contribution"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "REGISTRATION TO BENEFIT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REGISTRATION TO BENEFIT",
+          "role": "primary"
+        },
+        {
+          "text": "DATABASE ENTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTITY RECORDED WITH A UNIVERSAL ACCOUNT NUMBER SINCE 2021",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEME MATCHING",
+          "role": "evidence"
+        },
+        {
+          "text": "AGE, INCOME, OCCUPATION, CONTRIBUTION AND DOCUMENTATION RULES APPLY",
+          "role": "primary"
+        },
+        {
+          "text": "PAYMENT FRICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BANK ACCESS, DOCUMENTS, AWARENESS AND DATA QUALITY CAN INTERRUPT",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTCOME RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DATABASE ENTRY → identity recorded with a universal account number since 2021",
+        "SCHEME MATCHING: age, income, occupation, contribution and documentation rules apply",
+        "PAYMENT FRICTION: bank access, documents, awareness and data quality can interrupt",
+        "OUTCOME RISK: a high registration total can coexist with low pension or insurance uptake",
+        "RULE → registration is necessary and is not sufficient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "DATABASE ENTRY → identity recorded with a universal account number since 2021",
+            "SCHEME MATCHING: age, income, occupation, contribution and documentation rules apply"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "PAYMENT FRICTION: bank access, documents, awareness and data quality can interrupt",
+            "OUTCOME RISK: a high registration total can coexist with low pension or insurance uptake"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → registration is necessary and is not sufficient",
+            "DATABASE ENTRY → identity recorded with a universal account number since 2021"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → registration is necessary and is not sufficient.",
+      "source_references": [
+        "The national unorganised-worker database and what it is",
+        "Why registration is necessary but not sufficient"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DELIVERY INSTITUTIONS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DELIVERY INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PENSION ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "VOLUNTARY, CONTRIBUTORY, MATCHING CONTRIBUTIONS, SEPARATE ENROLMENT REQUIRED",
+          "role": "comparison"
+        },
+        {
+          "text": "PENSION VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "THREE THOUSAND RUPEES PER MONTH AFTER AGE SIXTY, SUBJECT",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTRUCTION BOARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE BOARDS UNDER THE 1996 FRAMEWORK, FUNDED BY THE",
+          "role": "institution"
+        },
+        {
+          "text": "FORMAL SECTOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PENSION ROUTE → voluntary, contributory, matching contributions, separate enrolment required",
+        "PENSION VALUE → three thousand rupees per month after age sixty, subject to conditions",
+        "CONSTRUCTION BOARDS → State boards under the 1996 framework, funded by the welfare cess",
+        "FORMAL SECTOR → provident fund and employee insurance where the applicable statutes cover",
+        "RULE → identify the owning institution before judging whether a worker is protected"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PENSION ROUTE → voluntary, contributory, matching contributions, separate enrolment required",
+          "CONSTRUCTION BOARDS → State boards under the 1996 framework, funded by the welfare cess",
+          "RULE → identify the owning institution before judging whether a worker is protected"
+        ],
+        [
+          "PENSION VALUE → three thousand rupees per month after age sixty, subject to conditions",
+          "FORMAL SECTOR → provident fund and employee insurance where the applicable statutes cover",
+          "PENSION ROUTE → voluntary, contributory, matching contributions, separate enrolment required"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PENSION ROUTE → voluntary, contributory, matching contributions, separate enrolment required",
+            "PENSION VALUE → three thousand rupees per month after age sixty, subject to conditions"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONSTRUCTION BOARDS → State boards under the 1996 framework, funded by the welfare cess",
+            "FORMAL SECTOR → provident fund and employee insurance where the applicable statutes cover"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → identify the owning institution before judging whether a worker is protected",
+            "PENSION ROUTE → voluntary, contributory, matching contributions, separate enrolment required"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify the owning institution before judging whether a worker is protected.",
+      "source_references": [
+        "The voluntary contributory pension route for unorganised workers",
+        "Occupation-specific welfare through the construction boards",
+        "The formal-sector institutions that continue to deliver"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SCALE ANCHOR CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCALE ANCHOR CARD",
+          "role": "primary"
+        },
+        {
+          "text": "A 2022 REPORT OF THE NATIONAL POLICY THINK TANK",
+          "role": "outcome"
+        },
+        {
+          "text": "7.7 MILLION GIG WORKERS IN 2020-21",
+          "role": "comparison"
+        },
+        {
+          "text": "23.5 MILLION BY 2029-30",
+          "role": "evidence"
+        },
+        {
+          "text": "A SCENARIO, NOT A WORKER REGISTRY OR A BENEFICIARY",
+          "role": "caution"
+        },
+        {
+          "text": "BACKGROUND STATUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE UNORGANISED WORKERS' SOCIAL SECURITY ACT, 2008",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → a 2022 report of the national policy think tank",
+        "ESTIMATE → 7.7 million gig workers in 2020-21",
+        "PROJECTION → 23.5 million by 2029-30",
+        "STATUS → a scenario, not a worker registry or a beneficiary count",
+        "BACKGROUND STATUTE → the Unorganised Workers' Social Security Act, 2008"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "SOURCE → a 2022 report of the national policy think tank",
+          "PROJECTION → 23.5 million by 2029-30",
+          "BACKGROUND STATUTE → the Unorganised Workers' Social Security Act, 2008"
+        ],
+        [
+          "ESTIMATE → 7.7 million gig workers in 2020-21",
+          "STATUS → a scenario, not a worker registry or a beneficiary count",
+          "SOURCE → a 2022 report of the national policy think tank"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOURCE → a 2022 report of the national policy think tank",
+            "ESTIMATE → 7.7 million gig workers in 2020-21"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PROJECTION → 23.5 million by 2029-30",
+            "STATUS → a scenario, not a worker registry or a beneficiary count"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "BACKGROUND STATUTE → the Unorganised Workers' Social Security Act, 2008",
+            "SOURCE → a 2022 report of the national policy think tank"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BACKGROUND STATUTE → the Unorganised Workers' Social Security Act, 2008.",
+      "source_references": [
+        "The scale anchor and the boundary on using it"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PLATFORM-POWER CHAIN",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLATFORM-POWER CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "ALGORITHMIC CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "RATINGS, INCENTIVES, TASK ALLOCATION AND DEACTIVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOME VOLATILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "VARIABLE DEMAND AND UNILATERAL INCENTIVE CHANGES",
+          "role": "primary"
+        },
+        {
+          "text": "CONTRIBUTION DIFFICULTY",
+          "role": "outcome"
+        },
+        {
+          "text": "IRREGULAR EARNINGS OBSTRUCT REGULAR CONTRIBUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSIFICATION BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALGORITHMIC CONTROL → ratings, incentives, task allocation and deactivation",
+        "INCOME VOLATILITY → variable demand and unilateral incentive changes",
+        "CONTRIBUTION DIFFICULTY → irregular earnings obstruct regular contributions",
+        "CLASSIFICATION BOUNDARY → recognition does not settle every labour-standard dispute",
+        "VOICE GAP → an application grievance channel is not bargaining or adjudication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ALGORITHMIC CONTROL → ratings, incentives, task allocation and deactivation",
+            "INCOME VOLATILITY → variable demand and unilateral incentive changes"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CONTRIBUTION DIFFICULTY → irregular earnings obstruct regular contributions",
+            "CLASSIFICATION BOUNDARY → recognition does not settle every labour-standard dispute"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VOICE GAP → an application grievance channel is not bargaining or adjudication",
+            "ALGORITHMIC CONTROL → ratings, incentives, task allocation and deactivation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VOICE GAP → an application grievance channel is not bargaining or adjudication.",
+      "source_references": [
+        "Algorithmic management as a distinct policy problem"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PORTABILITY TEST",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PORTABILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "PORTABLE CARD",
+          "role": "outcome"
+        },
+        {
+          "text": "A UNIVERSAL ACCOUNT NUMBER THAT FOLLOWS THE WORKER",
+          "role": "comparison"
+        },
+        {
+          "text": "PORTABLE BENEFIT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTRIBUTION RECORDS THAT FOLLOW THE WORKER AS WELL",
+          "role": "primary"
+        },
+        {
+          "text": "ALSO REQUIRED",
+          "role": "outcome"
+        },
+        {
+          "text": "ELIGIBILITY RULES, CLAIM SETTLEMENT AND GRIEVANCE ACROSS STATES AND",
+          "role": "comparison"
+        },
+        {
+          "text": "A BOARD-REGISTERED CONSTRUCTION WORKER HOLDS A BENEFIT; A DATABASE-ONLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PORTABLE CARD → a universal account number that follows the worker",
+        "PORTABLE BENEFIT → contribution records that follow the worker as well",
+        "ALSO REQUIRED → eligibility rules, claim settlement and grievance across States and platforms",
+        "CONTRAST → a board-registered construction worker holds a benefit; a database-only worker may not",
+        "RISK → cross-platform data creates surveillance exposure needing purpose limitation and consent"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PORTABLE CARD → a universal account number that follows the worker",
+          "ALSO REQUIRED → eligibility rules, claim settlement and grievance across States and platforms",
+          "RISK → cross-platform data creates surveillance exposure needing purpose limitation and consent"
+        ],
+        [
+          "PORTABLE BENEFIT → contribution records that follow the worker as well",
+          "CONTRAST → a board-registered construction worker holds a benefit; a database-only worker may not",
+          "PORTABLE CARD → a universal account number that follows the worker"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PORTABLE CARD → a universal account number that follows the worker",
+            "PORTABLE BENEFIT → contribution records that follow the worker as well"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ALSO REQUIRED → eligibility rules, claim settlement and grievance across States and platforms",
+            "CONTRAST → a board-registered construction worker holds a benefit; a database-only worker may not"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RISK → cross-platform data creates surveillance exposure needing purpose limitation and consent",
+            "PORTABLE CARD → a universal account number that follows the worker"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RISK → cross-platform data creates surveillance exposure needing purpose limitation and consent.",
+      "source_references": [
+        "Portability against interoperability",
+        "Why registration is necessary but not sufficient"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FINANCING MIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCING MIX",
+          "role": "primary"
+        },
+        {
+          "text": "TAX-FINANCED FLOOR",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCES EXCLUSION OF LOW AND IRREGULAR EARNERS; HIGHER FISCAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTRIBUTORY TOP-UP",
+          "role": "evidence"
+        },
+        {
+          "text": "DEEPENS COVER; EXCLUDES WORKERS WITH VOLATILE EARNINGS",
+          "role": "primary"
+        },
+        {
+          "text": "AGGREGATOR LEVY",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACES THE OBLIGATION ON THE PARTY WITH TURNOVER AND",
+          "role": "comparison"
+        },
+        {
+          "text": "THE LEVY MAY BE PASSED TO WORKERS OR USERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TAX-FINANCED FLOOR → reduces exclusion of low and irregular earners; higher fiscal cost",
+        "CONTRIBUTORY TOP-UP → deepens cover; excludes workers with volatile earnings",
+        "AGGREGATOR LEVY → places the obligation on the party with turnover and data",
+        "INCIDENCE → the levy may be passed to workers or users; transparency and analysis needed",
+        "CONCLUSION → a credible gig model usually needs both floor and top-up"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "TAX-FINANCED FLOOR → reduces exclusion of low and irregular earners; higher fiscal cost",
+          "AGGREGATOR LEVY → places the obligation on the party with turnover and data",
+          "CONCLUSION → a credible gig model usually needs both floor and top-up"
+        ],
+        [
+          "CONTRIBUTORY TOP-UP → deepens cover; excludes workers with volatile earnings",
+          "INCIDENCE → the levy may be passed to workers or users; transparency and analysis needed",
+          "TAX-FINANCED FLOOR → reduces exclusion of low and irregular earners; higher fiscal cost"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TAX-FINANCED FLOOR → reduces exclusion of low and irregular earners; higher fiscal cost",
+            "CONTRIBUTORY TOP-UP → deepens cover; excludes workers with volatile earnings"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AGGREGATOR LEVY → places the obligation on the party with turnover and data",
+            "INCIDENCE → the levy may be passed to workers or users; transparency and analysis needed"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUSION → a credible gig model usually needs both floor and top-up",
+            "TAX-FINANCED FLOOR → reduces exclusion of low and irregular earners; higher fiscal cost"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUSION → a credible gig model usually needs both floor and top-up.",
+      "source_references": [
+        "A universal floor against a contributory top-up",
+        "The contribution framework in Section 114 and its exact numbers"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROHIBITED INVENTIONS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROHIBITED INVENTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NO THRESHOLD",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO NINETY-DAY OR ONE-HUNDRED-AND-TWENTY-DAY NATIONAL ELIGIBILITY RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "NO LEVY CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ASSERTION OF A COLLECTED NATIONWIDE CONTRIBUTION OR FUND",
+          "role": "caution"
+        },
+        {
+          "text": "NO STATUS UPGRADE",
+          "role": "caution"
+        },
+        {
+          "text": "A DEFINITION DOES NOT SETTLE WAGES, HOURS, DISMISSAL OR",
+          "role": "caution"
+        },
+        {
+          "text": "NO INSURANCE SHORTCUT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NO THRESHOLD → no ninety-day or one-hundred-and-twenty-day national eligibility rule",
+        "NO LEVY CLAIM → no assertion of a collected nationwide contribution or fund balance",
+        "NO STATUS UPGRADE → a definition does not settle wages, hours, dismissal or bargaining",
+        "NO INSURANCE SHORTCUT → hospitalisation cover does not correct pay or deactivation",
+        "NO KEY → no option or answer letter for the routed objective demand"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "NO THRESHOLD → no ninety-day or one-hundred-and-twenty-day national eligibility rule",
+            "NO LEVY CLAIM → no assertion of a collected nationwide contribution or fund balance"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "NO STATUS UPGRADE → a definition does not settle wages, hours, dismissal or bargaining",
+            "NO INSURANCE SHORTCUT → hospitalisation cover does not correct pay or deactivation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO KEY → no option or answer letter for the routed objective demand",
+            "NO THRESHOLD → no ninety-day or one-hundred-and-twenty-day national eligibility rule"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO THRESHOLD → no ninety-day or one-hundred-and-twenty-day national eligibility rule.",
+      "source_references": [
+        "The thresholds and the safeguards that must not be invented",
+        "The 2024 objective demand and how it is covered"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ROUTED OBJECTIVE DEMAND",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUTED OBJECTIVE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "YEAR AND PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "2024 PRELIMS GENERAL STUDIES PAPER I, QUESTION NUMBERED 100",
+          "role": "comparison"
+        },
+        {
+          "text": "THE UNORGANISED-WORKER PENSION ROUTE, RENDERED NEUTRALLY IN THE AUDITED",
+          "role": "evidence"
+        },
+        {
+          "text": "KEY STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL SET-A KEY AVAILABLE LOCALLY; THE ANSWER IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "PACKAGE RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO OPTION, KEY OR INFERRED ANSWER LETTER IS STATED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 100",
+        "DEMAND → the unorganised-worker pension route, rendered neutrally in the audited ledger",
+        "KEY STATUS → official Set-A key available locally; the answer is not recorded there",
+        "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here",
+        "COVERAGE → voluntary enrolment, matching contributions, pension after sixty, taught as content"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 100",
+          "KEY STATUS → official Set-A key available locally; the answer is not recorded there",
+          "COVERAGE → voluntary enrolment, matching contributions, pension after sixty, taught as content"
+        ],
+        [
+          "DEMAND → the unorganised-worker pension route, rendered neutrally in the audited ledger",
+          "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here",
+          "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 100"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 100",
+            "DEMAND → the unorganised-worker pension route, rendered neutrally in the audited ledger"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "KEY STATUS → official Set-A key available locally; the answer is not recorded there",
+            "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "COVERAGE → voluntary enrolment, matching contributions, pension after sixty, taught as content",
+            "YEAR AND PAPER → 2024 Prelims General Studies Paper I, question numbered 100"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PACKAGE RULE → no option, key or inferred answer letter is stated anywhere here.",
+      "source_references": [
+        "The 2024 objective demand and how it is covered"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REFORM ARCHITECTURE AND ITS COSTS",
+      "structural_type": "process-flow",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REFORM ARCHITECTURE AND ITS COSTS",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLISH STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVISION-SPECIFIC COMMENCEMENT AND SCHEME STATUS MADE READABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "AUDITABLE FUND",
+          "role": "evidence"
+        },
+        {
+          "text": "RECEIPTS AND CLAIMS OPEN TO INSPECTION",
+          "role": "primary"
+        },
+        {
+          "text": "ASSISTED ENROLMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFLINE ROUTES SO DIGITAL EXCLUSION IS NOT BENEFIT EXCLUSION",
+          "role": "caution"
+        },
+        {
+          "text": "INDEPENDENT GRIEVANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUBLISH STATUS → provision-specific commencement and scheme status made readable",
+        "AUDITABLE FUND: receipts and claims open to inspection",
+        "ASSISTED ENROLMENT: offline routes so digital exclusion is not benefit exclusion",
+        "INDEPENDENT GRIEVANCE: a forum for deactivation and benefit disputes",
+        "COSTS → levy incidence, threshold exclusion, privacy exposure, insurance-led narrowness"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "PUBLISH STATUS → provision-specific commencement and scheme status made readable",
+            "AUDITABLE FUND: receipts and claims open to inspection"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ASSISTED ENROLMENT: offline routes so digital exclusion is not benefit exclusion",
+            "INDEPENDENT GRIEVANCE: a forum for deactivation and benefit disputes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COSTS → levy incidence, threshold exclusion, privacy exposure, insurance-led narrowness",
+            "PUBLISH STATUS → provision-specific commencement and scheme status made readable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COSTS → levy incidence, threshold exclusion, privacy exposure, insurance-led narrowness.",
+      "source_references": [
+        "The reform design the owners recommend and its costs",
+        "A universal floor against a contributory top-up"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CODE ON SOCIAL SECURITY, 2020",
+          "role": "outcome"
+        },
+        {
+          "text": "ENACTED FRAMEWORK THAT CONTAINS GIG/PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIVERY INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "EPFO, ESIC AND STATE BOCW WELFARE BOARDS REMAIN CENTRAL",
+          "role": "institution"
+        },
+        {
+          "text": "MOLE NATIONAL DATABASE/UAN INFRASTRUCTURE; USEFUL FOR MAPPING AND",
+          "role": "outcome"
+        },
+        {
+          "text": "VOLUNTARY CONTRIBUTORY PENSION ROUTE FOR ELIGIBLE UNORGANISED WORKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOMMENDED DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "Code on Social Security, 2020: enacted framework that contains gig/platform",
+            "Delivery institutions: EPFO, ESIC and State BOCW Welfare Boards remain central",
+            "e-Shram: MoLE national database/UAN infrastructure; useful for mapping and",
+            "PM-SYM: voluntary contributory pension route for eligible unorganised workers;"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Recommended design: publish provision-specific commencement and scheme status,",
+            "CAUTION: A rider engaged through two platforms may satisfy the Code definitions but still",
+            "CAUTION: A BOCW-registered migrant construction worker may receive a State-board benefit,",
+            "CAUTION: A platform calling a worker a “partner” may not defeat a future social-security"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Contribution incidence: An aggregator levy can finance protection but may be",
+            "CAUTION: Threshold design: Any work-day/earnings threshold could simplify administration",
+            "CAUTION: Data minimisation: Cross-platform portability improves protection but creates",
+            "CAUTION: Insurance-led bias: Hospitalisation or accident cover alone cannot correct"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

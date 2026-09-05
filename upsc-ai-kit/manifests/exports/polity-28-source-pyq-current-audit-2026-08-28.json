@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-28",
+  "controlled_on": "2026-08-28",
+  "sources": [
+    {
+      "authority": "Constitution of India",
+      "scope": "Articles 315-323"
+    },
+    {
+      "authority": "DoPT/Gazette",
+      "scope": "UPSC Exemption from Consultation Amendment Regulations, 2024"
+    },
+    {
+      "authority": "India Code/Gazette",
+      "scope": "Public Examinations Act and Rules, 2024"
+    },
+    {
+      "authority": "UPSC",
+      "scope": "current Chairman and institutional transparency controls"
+    },
+    {
+      "authority": "Supreme Court of India",
+      "scope": "Manbodhan Lal, Ashok Kumar Yadav, Shankarsan Dash, K. Manjusree, M.V. Thimmaiah and Tej Prakash Pathak"
+    },
+    {
+      "authority": "Audited PYQ routing ledgers",
+      "scope": "no directly routed recent question located"
+    }
+  ]
+}

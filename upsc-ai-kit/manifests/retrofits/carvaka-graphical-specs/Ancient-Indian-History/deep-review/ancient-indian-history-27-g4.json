@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-27",
+  "subject": "Ancient-Indian-History",
+  "title": "IMPERIAL CHOLAS: STATE, SOCIETY, ECONOMY & MARITIME POWER",
+  "short_route": "RULER CHRONOLOGY AND TURNING → POLITICAL GEOGRAPHY AS ZONES → KAVERI ECOLOGY TO IMPERIAL → STATE HIERARCHY AND LOCAL → UTTARAMERUR WITHOUT THE DEMOCRACY → LAND, REVENUE AND SOCIAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-27-deep-review-2026-08-30-g4.json",
+  "ascii_spec_sha256": "7cffffcfb68f25d16fd9f7ff23b2a38922023d01512802a4946b56c28e9515ae",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RULER CHRONOLOGY AND TURNING POINTS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RULER CHRONOLOGY AND TURNING POINTS",
+          "role": "primary"
+        },
+        {
+          "text": "C. 850",
+          "role": "outcome"
+        },
+        {
+          "text": "VIJAYALAYA SECURES TANJAVUR AND A LOWER-KAVERI FOOTHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "TAKKOLAM MARKS A MAJOR SETBACK UNDER PARANTAKA I",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJARAJA I EXPANDS, SURVEYS AND BUILDS BRIHADISVARA",
+          "role": "primary"
+        },
+        {
+          "text": "RAJENDRA I; GANGAIKONDACHOLAPURAM AND 1025 EXPEDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "1070 ONWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "KULOTTUNGA I LINKS CHOLA AND EASTERN CHALUKYA LINES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "c. 850 → Vijayalaya secures Tanjavur and a lower-Kaveri foothold",
+        "949 → Takkolam marks a major setback under Parantaka I",
+        "985-1014 → Rajaraja I expands, surveys and builds Brihadisvara",
+        "1012-1044 → Rajendra I; Gangaikondacholapuram and 1025 expedition",
+        "1070 onward → Kulottunga I links Chola and Eastern Chalukya lines"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "c. 850 → Vijayalaya secures Tanjavur and a lower-Kaveri foothold",
+            "949 → Takkolam marks a major setback under Parantaka I"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "985-1014 → Rajaraja I expands, surveys and builds Brihadisvara",
+            "1012-1044 → Rajendra I; Gangaikondacholapuram and 1025 expedition"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1070 onward → Kulottunga I links Chola and Eastern Chalukya lines",
+            "13th c. → Pandya resurgence and other pressures end imperial primacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "13th c. → Pandya resurgence and other pressures end imperial primacy.",
+      "source_references": [
+        "Chronology",
+        "Ruler sequence",
+        "Decline",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POLITICAL GEOGRAPHY AS ZONES",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POLITICAL GEOGRAPHY AS ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER KAVERI DELTA, TANJAVUR AND ROYAL-TEMPLE CENTRES",
+          "role": "comparison"
+        },
+        {
+          "text": "ANNEXED ZONES",
+          "role": "evidence"
+        },
+        {
+          "text": "TONDAIMANDALAM AND CHANGING SOUTHERN TERRITORIES",
+          "role": "primary"
+        },
+        {
+          "text": "CONTESTED BELTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PANDYA, CHERA AND WESTERN DECCAN FRONTIERS",
+          "role": "comparison"
+        },
+        {
+          "text": "DYNASTIC HINGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT CORE → lower Kaveri delta, Tanjavur and royal-temple centres",
+        "ANNEXED ZONES → Tondaimandalam and changing southern territories",
+        "CONTESTED BELTS → Pandya, Chera and western Deccan frontiers",
+        "DYNASTIC HINGE → Vengi and Eastern Chalukya marriage politics",
+        "ISLAND CONTROL → stronger and longer in northern Sri Lanka"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DIRECT CORE → lower Kaveri delta, Tanjavur and royal-temple centres",
+            "ANNEXED ZONES → Tondaimandalam and changing southern territories"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CONTESTED BELTS → Pandya, Chera and western Deccan frontiers",
+            "DYNASTIC HINGE → Vengi and Eastern Chalukya marriage politics"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ISLAND CONTROL → stronger and longer in northern Sri Lanka",
+            "MARITIME ARC → Maldives and Srivijaya targets; not mainland-style provinces."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MARITIME ARC → Maldives and Srivijaya targets; not mainland-style provinces.",
+      "source_references": [
+        "Political geography",
+        "Expansion",
+        "Owner boundaries",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "KAVERI ECOLOGY TO IMPERIAL CAPACITY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KAVERI ECOLOGY TO IMPERIAL CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "KAVERI WATER + DELTA SOILS TANKS, CHANNELS, BUNDS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGY ENABLED POWER; INSTITUTIONS AND COERCION ORGANISED IT.",
+          "role": "mechanism"
+        },
+        {
+          "text": "AGRARIAN BASE TEMPLES, ARMIES, OFFICIALS AND MONUMENTAL BUILDING IMPERIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KAVERI WATER + DELTA SOILS tanks, channels, bunds and coordinated irrigation wet-rice surplus + dense",
+        "agrarian base temples, armies, officials and monumental building imperial projection inland and across the Bay",
+        "LIMIT: ecology enabled power; institutions and coercion organised it."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KAVERI WATER + DELTA SOILS tanks, channels, bunds and coordinated irrigation wet-rice surplus + dense settlement + taxable",
+            "agrarian base temples, armies, officials and monumental building imperial projection inland and across the Bay of Bengal"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT: ecology enabled power; institutions and coercion organised it.",
+            "KAVERI WATER + DELTA SOILS tanks, channels, bunds and coordinated irrigation wet-rice surplus + dense settlement + taxable"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "agrarian base temples, armies, officials and monumental building imperial projection inland and across the Bay of Bengal",
+            "LIMIT: ecology enabled power; institutions and coercion organised it."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: ecology enabled power; institutions and coercion organised it.",
+      "source_references": [
+        "Kaveri delta",
+        "Irrigation",
+        "Agrarian core",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "STATE HIERARCHY AND LOCAL INSTITUTIONS",
+      "structural_type": "layered-governance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATE HIERARCHY AND LOCAL INSTITUTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ROYAL HOUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERAL VILLAGE ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "BRAHMADEYA CORPORATE BODY",
+          "role": "evidence"
+        },
+        {
+          "text": "MERCHANT OR MARKET-CENTRED BODY",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL COMMAND AND LOCALITY INSTITUTIONS OPERATED TOGETHER UNEQUALLY.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "KING / ROYAL HOUSE",
+        "ur / sabha / nagaram",
+        "UR → general village assembly",
+        "SABHA → Brahmadeya corporate body",
+        "NAGARAM → merchant or market-centred body"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KING / ROYAL HOUSE",
+            "ur / sabha / nagaram"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "UR → general village assembly",
+            "SABHA → Brahmadeya corporate body"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NAGARAM → merchant or market-centred body",
+            "VERDICT: royal command and locality institutions operated together unequally."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: royal command and locality institutions operated together unequally.",
+      "answer_line": "royal command and locality institutions operated together unequally.",
+      "source_references": [
+        "Administration",
+        "Ur",
+        "Sabha",
+        "Nagaram",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "UTTARAMERUR WITHOUT THE DEMOCRACY MYTH",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UTTARAMERUR WITHOUT THE DEMOCRACY MYTH",
+          "role": "primary"
+        },
+        {
+          "text": "ELIGIBLE LOCAL NOTABLES",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFICATIONS AND DISQUALIFICATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "WARD NOMINATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMES PLACED ON TICKETS",
+          "role": "primary"
+        },
+        {
+          "text": "POT-TICKET SELECTION FOR COMMITTEES",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMITTEE SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "ROTATION, ACCOUNTS AND REMOVAL RULES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ELIGIBLE LOCAL NOTABLES → qualifications and disqualifications",
+        "WARD NOMINATIONS → names placed on tickets",
+        "KUDAVOLAI → pot-ticket selection for committees",
+        "COMMITTEE SERVICE → rotation, accounts and removal rules",
+        "SECURE CLAIM: sophisticated sabha procedure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ELIGIBLE LOCAL NOTABLES → qualifications and disqualifications",
+            "WARD NOMINATIONS → names placed on tickets"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KUDAVOLAI → pot-ticket selection for committees",
+            "COMMITTEE SERVICE → rotation, accounts and removal rules"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SECURE CLAIM: sophisticated sabha procedure",
+            "LIMIT: restricted Brahmadeya participation, not universal adult franchise."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: restricted Brahmadeya participation, not universal adult franchise.",
+      "source_references": [
+        "Uttaramerur",
+        "Kudavolai",
+        "Local power",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LAND, REVENUE AND SOCIAL DIFFERENTIATION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAND, REVENUE AND SOCIAL DIFFERENTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "SURVEYED, CLASSIFIED, ENDOWED AND TAXED THROUGH VARIED RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND DUES PLUS LABOUR, PRODUCE AND TRANSACTION-LINKED DEMANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "VELLALA LANDHOLDERS, BRAHMANA BODIES, TEMPLES AND ROYAL AGENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTIVATORS, ARTISANS, HERDERS AND SERVICE COMMUNITIES",
+          "role": "primary"
+        },
+        {
+          "text": "UNEQUAL STATUS AND SEGREGATED LABOUR REMAIN VISIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "QUEENS AND TEMPLE DONORS APPEAR MORE CLEARLY THAN ORDINARY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LAND → surveyed, classified, endowed and taxed through varied rights",
+        "REVENUE → land dues plus labour, produce and transaction-linked demands",
+        "POWER → vellala landholders, Brahmana bodies, temples and royal agents",
+        "PRODUCTION → cultivators, artisans, herders and service communities",
+        "EXCLUSION → unequal status and segregated labour remain visible"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "LAND → surveyed, classified, endowed and taxed through varied rights",
+          "POWER → vellala landholders, Brahmana bodies, temples and royal agents",
+          "EXCLUSION → unequal status and segregated labour remain visible"
+        ],
+        [
+          "REVENUE → land dues plus labour, produce and transaction-linked demands",
+          "PRODUCTION → cultivators, artisans, herders and service communities",
+          "GENDER → queens and temple donors appear more clearly than ordinary women."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LAND → surveyed, classified, endowed and taxed through varied rights",
+            "REVENUE → land dues plus labour, produce and transaction-linked demands"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "POWER → vellala landholders, Brahmana bodies, temples and royal agents",
+            "PRODUCTION → cultivators, artisans, herders and service communities"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EXCLUSION → unequal status and segregated labour remain visible",
+            "GENDER → queens and temple donors appear more clearly than ordinary women."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENDER → queens and temple donors appear more clearly than ordinary women.",
+      "source_references": [
+        "Agrarian economy",
+        "Revenue",
+        "Society",
+        "Gender",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TEMPLE, MONUMENT AND INSTITUTIONAL POWER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TEMPLE, MONUMENT AND INSTITUTIONAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "OTHER GREAT TEMPLES ROYAL IDEOLOGY AND PUBLIC MONUMENTALITY ENDOWED",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVING WORSHIP ACROSS LATER POLITICAL PERIODS",
+          "role": "comparison"
+        },
+        {
+          "text": "READ ARCHITECTURE TOGETHER WITH SURPLUS, LABOUR AND AUTHORITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRIHADISVARA / OTHER GREAT TEMPLES royal ideology and public monumentality endowed land, lamps, food and",
+        "ritual services employment for specialists, artisans and performers inscriptions recording donors, taxes and institutional decisions",
+        "living worship across later political periods",
+        "RULE: read architecture together with surplus, labour and authority."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BRIHADISVARA / OTHER GREAT TEMPLES royal ideology and public monumentality endowed land, lamps, food and",
+            "ritual services employment for specialists, artisans and performers inscriptions recording donors, taxes and institutional decisions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "living worship across later political periods",
+            "RULE: read architecture together with surplus, labour and authority."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BRIHADISVARA / OTHER GREAT TEMPLES royal ideology and public monumentality endowed land, lamps, food and",
+            "ritual services employment for specialists, artisans and performers inscriptions recording donors, taxes and institutional decisions"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: read architecture together with surplus, labour and authority.",
+      "answer_line": "read architecture together with surplus, labour and authority.",
+      "source_references": [
+        "Temples",
+        "Brihadisvara",
+        "Great Living Chola Temples",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BRONZES, RELIGION AND LANGUAGE",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRONZES, RELIGION AND LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "LOST-WAX CASTING",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIVIDUALLY MODELLED PROCESSIONAL ICONS",
+          "role": "comparison"
+        },
+        {
+          "text": "THEOLOGY, MOVEMENT, RITUAL USE AND TECHNICAL MASTERY",
+          "role": "evidence"
+        },
+        {
+          "text": "SHAIVA BHAKTI",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPLE LITURGY AND NAYANMAR MEMORY",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL BUT UNEVEN INSTITUTIONAL PRESENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "TAMIL + SANSKRIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOST-WAX CASTING → individually modelled processional icons",
+        "NATARAJA → theology, movement, ritual use and technical mastery",
+        "SHAIVA BHAKTI → temple liturgy and Nayanmar memory",
+        "VAISHNAVA / BUDDHIST / JAINA → plural but uneven institutional presence",
+        "TAMIL + SANSKRIT → bilingual political, devotional and learned culture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LOST-WAX CASTING → individually modelled processional icons",
+            "NATARAJA → theology, movement, ritual use and technical mastery"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SHAIVA BHAKTI → temple liturgy and Nayanmar memory",
+            "VAISHNAVA / BUDDHIST / JAINA → plural but uneven institutional presence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TAMIL + SANSKRIT → bilingual political, devotional and learned culture",
+            "PROVENANCE RULE → an art object also has a temple and ownership history."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROVENANCE RULE → an art object also has a temple and ownership history.",
+      "source_references": [
+        "Bronzes",
+        "Nataraja",
+        "Religion",
+        "Language",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GUILDS, PORTS AND BAY OF BENGAL EXCHANGE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GUILDS, PORTS AND BAY OF BENGAL EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "KAVERI HINTERLAND",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCE, TEXTILES, METALWORK AND TEMPLE DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "NAGAPATTINAM + OTHER PORTS MERCHANT BODIES",
+          "role": "evidence"
+        },
+        {
+          "text": "SRI LANKA",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTHEAST ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "MONSOON + SHIPPING + CREDIT + DIPLOMACY SUSTAIN MOVEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE NETWORKS WERE NOT SIMPLY STATE-OWNED FLEETS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KAVERI HINTERLAND → produce, textiles, metalwork and temple demand",
+        "NAGAPATTINAM + OTHER PORTS merchant bodies: Ayyavole / Manigramam / Anjuvannam",
+        "SRI LANKA → MALDIVES → STRAITS → SOUTHEAST ASIA → CHINA",
+        "MONSOON + SHIPPING + CREDIT + DIPLOMACY sustain movement",
+        "LIMIT: trade networks were not simply state-owned fleets."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KAVERI HINTERLAND → produce, textiles, metalwork and temple demand",
+            "NAGAPATTINAM + OTHER PORTS merchant bodies: Ayyavole / Manigramam / Anjuvannam"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SRI LANKA → MALDIVES → STRAITS → SOUTHEAST ASIA → CHINA",
+            "MONSOON + SHIPPING + CREDIT + DIPLOMACY sustain movement"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: trade networks were not simply state-owned fleets.",
+            "KAVERI HINTERLAND → produce, textiles, metalwork and temple demand"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: trade networks were not simply state-owned fleets.",
+      "source_references": [
+        "Merchant guilds",
+        "Ports",
+        "Indian Ocean trade",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SRI LANKA AND SRIVIJAYA: COERCION WITH LIMITS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SRI LANKA AND SRIVIJAYA",
+          "role": "primary"
+        },
+        {
+          "text": "COERCION WITH LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "SRI LANKA SRIVIJAYA, 1025 TERRITORIAL CONQUEST RAPID STRIKE ON",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON POINT",
+          "role": "evidence"
+        },
+        {
+          "text": "MARITIME LOGISTICS AND ROYAL COERCIVE CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "EXPEDITIONARY SUCCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMANENT OCEANIC EMPIRE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SRI LANKA SRIVIJAYA, 1025 territorial conquest rapid strike on linked centres provincial administration no durable",
+        "province long resistance and reconquest commercial-strategic signalling stronger northern control target list from Chola inscription",
+        "COMMON POINT → maritime logistics and royal coercive capacity",
+        "CAUTION → expeditionary success != permanent oceanic empire."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "SRI LANKA SRIVIJAYA, 1025 territorial conquest rapid strike on linked centres provincial administration no durable mainland-style",
+          "COMMON POINT → maritime logistics and royal coercive capacity",
+          "SRI LANKA SRIVIJAYA, 1025 territorial conquest rapid strike on linked centres provincial administration no durable mainland-style"
+        ],
+        [
+          "province long resistance and reconquest commercial-strategic signalling stronger northern control target list from Chola inscription",
+          "CAUTION → expeditionary success != permanent oceanic empire.",
+          "province long resistance and reconquest commercial-strategic signalling stronger northern control target list from Chola inscription"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SRI LANKA SRIVIJAYA, 1025 territorial conquest rapid strike on linked centres provincial administration no durable mainland-style",
+            "province long resistance and reconquest commercial-strategic signalling stronger northern control target list from Chola inscription"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COMMON POINT → maritime logistics and royal coercive capacity",
+            "CAUTION → expeditionary success != permanent oceanic empire."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SRI LANKA SRIVIJAYA, 1025 territorial conquest rapid strike on linked centres provincial administration no durable mainland-style",
+            "province long resistance and reconquest commercial-strategic signalling stronger northern control target list from Chola inscription"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → expeditionary success != permanent oceanic empire.",
+      "source_references": [
+        "Sri Lanka",
+        "Srivijaya campaign",
+        "Maritime power",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "HOW HISTORIANS MODEL THE CHOLA STATE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HOW HISTORIANS MODEL THE CHOLA STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRALISED VIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONG MONARCHY, HIERARCHY, SURVEY AND TAXATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BURTON STEIN",
+          "role": "evidence"
+        },
+        {
+          "text": "SEGMENTARY STATE AND RITUALLY RADIATING SOVEREIGNTY",
+          "role": "institution"
+        },
+        {
+          "text": "INSCRIPTION-LED LOCALITY, LAND AND SOCIAL ANALYSIS",
+          "role": "evidence"
+        },
+        {
+          "text": "NEGOTIATED MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL FORCE + TEMPLE + NADU + SABHA +",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRALISED VIEW → strong monarchy, hierarchy, survey and taxation",
+        "BURTON STEIN → segmentary state and ritually radiating sovereignty",
+        "KARASHIMA / SUBBARAYALU → inscription-led locality, land and social analysis",
+        "NEGOTIATED MODEL → royal force + temple + nadu + sabha + local elites",
+        "BEST USE → compare evidence by region and reign"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CENTRALISED VIEW → strong monarchy, hierarchy, survey and taxation",
+            "BURTON STEIN → segmentary state and ritually radiating sovereignty"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KARASHIMA / SUBBARAYALU → inscription-led locality, land and social analysis",
+            "NEGOTIATED MODEL → royal force + temple + nadu + sabha + local elites"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BEST USE → compare evidence by region and reign",
+            "VERDICT: neither perfect bureaucracy nor autonomous village republic."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: neither perfect bureaucracy nor autonomous village republic.",
+      "source_references": [
+        "Historiography",
+        "Stein",
+        "Karashima",
+        "Subbarayalu",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DECLINE, LEGACY AND ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DECLINE, LEGACY AND ANSWER SPINE",
+          "role": "caution"
+        },
+        {
+          "text": "SUCCESSION STRAINS + FRONTIER WARS + PANDYA RESURGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HOYSALA PRESSURE + LOCALITY AND RESOURCE SHIFTS",
+          "role": "comparison"
+        },
+        {
+          "text": "END OF EMPIRE",
+          "role": "evidence"
+        },
+        {
+          "text": "END OF TEMPLES, IRRIGATION, TAMIL CULTURE OR TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "KAVERI-CENTRED AGRARIAN-IMPERIAL-COMMERCIAL FORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE/LOCALITY + ECONOMY/SOCIETY + TEMPLE/CULTURE + MARITIME REACH",
+          "role": "institution"
+        },
+        {
+          "text": "INSCRIPTIONS ARE ELITE; SEA POWER WAS SELECTIVE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CAUSES → succession strains + frontier wars + Pandya resurgence",
+        "Hoysala pressure + locality and resource shifts",
+        "END OF EMPIRE != end of temples, irrigation, Tamil culture or trade",
+        "OPEN → Kaveri-centred agrarian-imperial-commercial formation",
+        "BODY → state/locality + economy/society + temple/culture + maritime reach"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CAUSES → succession strains + frontier wars + Pandya resurgence",
+            "Hoysala pressure + locality and resource shifts",
+            "END OF EMPIRE != end of temples, irrigation, Tamil culture or trade"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "OPEN → Kaveri-centred agrarian-imperial-commercial formation",
+            "BODY → state/locality + economy/society + temple/culture + maritime reach",
+            "QUALIFY → inscriptions are elite; sea power was selective"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE → durable regional institutions outlasted imperial primacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → durable regional institutions outlasted imperial primacy.",
+      "source_references": [
+        "Decline",
+        "Legacy",
+        "Answer architecture",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\27_Imperial-Cholas-State-Society-Economy-and-Maritime-Power.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\27_Chola-State-Formation-Locality-Debates-and-Indian-Ocean-Networks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-27\\g4\\ancient-indian-history-27_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHOLA STATE FORMATION, LOCALITY DEBATES AND INDIAN OCEAN NETWORKS",
+          "role": "institution"
+        },
+        {
+          "text": "1. HOW TO INTERPRET THE CHOLA STATE",
+          "role": "institution"
+        },
+        {
+          "text": "2. READING INSCRIPTIONS CRITICALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "3. TEMPLE-CENTRED INTEGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "4. LOCAL INSTITUTIONS AND SOCIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "5. MARITIME POWER WITHOUT EXAGGERATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "6. COMPARATIVE FRAMES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Chola State Formation, Locality Debates and Indian Ocean Networks - OPTIONAL ADVANCED",
+            "1. How to interpret the Chola state",
+            "2. Reading inscriptions critically",
+            "3. Temple-centred integration"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Local institutions and social power",
+            "5. Maritime power without exaggeration",
+            "6. Comparative frames",
+            "7. Advanced answer architecture"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Inscriptions are abundant but purpose-built records of gifts, privileges, orders and praise.",
+            "Normative committee rules do not automatically prove universal implementation.",
+            "Survival is uneven: temple records over-represent institutions able to create and preserve stone",
+            "Royal titles and conquest lists are political claims requiring comparison with chronology and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

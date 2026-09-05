@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "international-relations-09-learner-v2-2026-09-03-validation",
+  "validated_on": "2026-09-03T09:33:17.127838+05:30",
+  "selection": "international-relations-09",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 234,
+    "scope": "International Relations Topic 09 sequential suite, International Relations Topics 01-08 regression suites, shared refresh suite and v2 export-foundation, section-index and topic-catalogue suites"
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-09",
+      "source_generation": 0,
+      "refreshed_generation": 1,
+      "subject": "International-Relations",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "international-relations-09",
+      "main_pdf_pages": 128,
+      "workbook_pdf_pages": 74,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 87,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-09-2026-09-03-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          126,
+          126,
+          126,
+          126,
+          127,
+          127,
+          127,
+          127,
+          127,
+          128,
+          128,
+          128
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Solved-Practice-Workbook_2026-09-03.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Complete-Learning-Session_2026-09-03.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Solved-Practice-Workbook_2026-09-03.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 128,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 74,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 5
+    }
+  ]
+}

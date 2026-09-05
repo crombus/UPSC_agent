@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-13-ascii-panels-2026-08-28-deep-review",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-13": {
+      "title": "Centre State and Inter State Relations",
+      "source_record": "polity-13:learner-v2:g3-allocation-pending",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md",
+      "quality_review": "Deep-content reconstruction from repaired Core, 11 verified PYQs, current official controls and marks-scaled answer guidance.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Four-dimensional constitutional map",
+          "structural_type": "relations-architecture",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "CENTRE-STATE AND INTER-STATE RELATIONS\n  +-- LEGISLATIVE: Articles 245-255 and Seventh Schedule\n  +-- ADMINISTRATIVE: Articles 256-263\n  +-- FINANCIAL: Articles 265-293 plus 246A / 269A / 279A\n  +-- INTER-STATE / MARKET: Articles 261-263 and 301-307\n\nMETHOD: identify field -> constitutional route -> check -> remedy."
+        },
+        {
+          "title": "Legislative competence and State-field entry",
+          "structural_type": "legislative-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "COMPETENCE FIRST\nArticle 245 reach -> Article 246 lists -> Article 248 residue\n  +-- Union 100 | State 61 | Concurrent 52\n  +-- Article 246A: special GST competence\n\nPARLIAMENT IN STATE FIELD\n249 Rajya Sabha | 250 Emergency | 252 State request | 253 treaty | 356 breakdown\nEach route has a separate trigger, duration and amendment consequence."
+        },
+        {
+          "title": "Doctrines, repugnancy and State Bills",
+          "structural_type": "doctrine-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "TRUE NATURE -> ENTRY -> RECONCILIATION -> CONFLICT\npith and substance -> harmonious construction -> Article 254 repugnancy\n*M. Karunanidhi* (1979): real, direct and irreconcilable Concurrent-field conflict\n\nSTATE BILL CONTROLS\nprior presidential sanction != Governor reservation under Article 200\nArticle 201 presidential consideration; no automatic assent after State reconsideration."
+        },
+        {
+          "title": "Administrative cooperation and central agencies",
+          "structural_type": "administrative-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLES 256-257\nState compliance + no impediment -> bounded Union directions\nARTICLES 258 / 258A -> reciprocal entrustment\nARTICLE 312 -> Rajya Sabha route for IAS / IPS / Indian Forest Service\n\nCBI / DSPE ACT\nState consent for ordinary operation; Articles 32/226 court orders remain possible\n2024 West Bengal ruling: Article 131 suit maintainable at preliminary stage, merits open."
+        },
+        {
+          "title": "Articles 355-365 and judicial limits",
+          "structural_type": "emergency-relations",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "DUTY -> REMEDY -> TEMPORARY CONSEQUENCE\nArticle 355 Union duty\nArticle 356 exceptional proclamation + Parliament + review\nArticle 357 temporary exercise of State legislative power\nArticle 360 separate financial-emergency route\nArticle 365 non-compliance may supply material, never automatic rule\n\n*State of Rajasthan* (1977) -> review not wholly excluded\n*S.R. Bommai* (1994) -> federalism, review and floor-test discipline."
+        },
+        {
+          "title": "Fiscal architecture from tax to borrowing",
+          "structural_type": "fiscal-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 265: authority of law\n268 / 269 / 269A -> assigned and apportioned revenue\n270 -> divisible pool | 271 -> Union surcharge outside sharing\n275 -> constitutional grants | 282 -> any-public-purpose grants\n280 -> Finance Commission | 292 / 293 -> borrowing\n285 / 289 -> reciprocal property and income tax immunities with exceptions."
+        },
+        {
+          "title": "Fiscal evolution, Sixteenth Finance Commission and GST",
+          "structural_type": "fiscal-evolution",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "PLAN ERA -> FC / GST / NITI ERA\nPlanning Commission discretion -> NITI has no devolution power\nSixteenth Finance Commission 2026-31 -> 41% vertical share\nhorizontal weights include income distance, demography, ecology and GDP contribution\n\nGST: Articles 246A + 269A + 279A\nUnion one-third votes | States two-thirds | three-fourths decision threshold\n*Mohit Minerals* (2022): Council recommendations are recommendatory, not binding."
+        },
+        {
+          "title": "River-water dispute route and jurisdiction",
+          "structural_type": "water-route",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 262 + 1956 ACT\nnegotiation -> dispute-specific tribunal -> publication -> implementation\nParliament may exclude court jurisdiction over the defined water dispute\nArticle 131 does not displace the special Article 262 statutory bar\n\nCURRENT CONTROL\n2019 Amendment Bill lapsed with the Seventeenth Lok Sabha\nA revised permanent-tribunal proposal is not enacted law\nCauvery implementation uses the 2018 Scheme and management institutions."
+        },
+        {
+          "title": "Intergovernmental forums and current operation",
+          "structural_type": "forums-current",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 263 INTER-STATE COUNCIL\nPresident establishes when public interest requires; inquiry, discussion, recommendation\n1990 presidential order | PM chair | advisory\n\nZONAL COUNCILS\nFive statutory councils under States Reorganisation Act 1956 | Home Minister chair\nNEC is separate under 1971 Act, not a sixth Zonal Council\n2026 official activity: Central, Northern, Eastern and Southern zonal mechanisms."
+        },
+        {
+          "title": "Common market, recognition and layered regulation",
+          "structural_type": "market-recognition",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 261 -> recognition of public acts, records and proceedings; civil execution\nARTICLES 301-304 -> free trade with bounded regulation and non-discrimination\n*Jindal Stainless* (2016): no tax-free promise; Article 304(a) targets discrimination\n\nMINOR MINERALS\nMMDR Section 3(e) Centre notifies category\nSection 15 States make concession rules -> layered power, not State exclusion."
+        },
+        {
+          "title": "Commissions, eleven PYQs and Prelims firewalls",
+          "structural_type": "exam-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "REFORM EVIDENCE\nRajamannar -> State autonomy | Sarkaria -> cooperative safeguards | Punchhi -> modern machinery\n\nELEVEN PYQ ROUTES\n2019 doctrines | 2020 centralisation | 2021 CBI | 2022 parties/autonomy\n2023 Article 356 + GST | 2024 relations reform + list trap\n2025 fiscal federalism + constitutional-body + minor-mineral traps\n\nFIREWALLS: Article 365 is not automatic; GST is not a Concurrent-list tax entry;\nZonal Councils are statutory; the 2019 water Bill is not law."
+        },
+        {
+          "title": "Marks-scaled answer spine and qualified verdict",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+          ],
+          "full_text": "10 MARKS: definition -> 2-3 anchors -> qualification -> verdict\n15 MARKS: thesis -> dimensions -> evidence/case -> counterpoint -> reform\n20 MARKS: legislative + administrative + fiscal + inter-State -> diagnosis -> reform\n\nEVIDENCE CHAIN\nclaim -> Article/institution -> operation -> State/Union counterpoint -> commission remedy\n\nVERDICT\nStrong Union power is constitutionally bounded; durable relations require consultation\nbefore compulsion, predictable finance, shared data and reviewable discretion."
+        }
+      ]
+    }
+  }
+}

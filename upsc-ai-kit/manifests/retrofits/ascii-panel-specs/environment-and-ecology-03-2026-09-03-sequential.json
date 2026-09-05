@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 03",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-03",
+      "display_title": "Ecological Succession and Biomes",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-03_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Succession decision tree",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "START -> newly exposed substrate or disturbed former community",
+            "NO DEVELOPED SOIL -> primary succession pathway",
+            "SOIL AND BIOLOGICAL LEGACIES REMAIN -> secondary succession pathway",
+            "DRIVERS -> autogenic community change plus allogenic external forcing",
+            "OUTCOME -> contingent trajectory, not one guaranteed endpoint"
+          ],
+          "source_references": [
+            "Ecological succession",
+            "Primary succession",
+            "Secondary succession"
+          ]
+        },
+        {
+          "title": "Primary succession rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BARE OR NEW SUBSTRATE -> pioneer establishment",
+            "WEATHERING AND ORGANIC INPUT -> initial soil development",
+            "HERBS OR OTHER COLONISTS -> more cover and resource capture",
+            "LATER COMMUNITIES -> increasing structural complexity where conditions permit",
+            "LIMIT -> no universal species list or completion time"
+          ],
+          "source_references": [
+            "Primary succession",
+            "Pioneer organisms"
+          ]
+        },
+        {
+          "title": "Secondary succession rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISTURBANCE -> prior vegetation reduced or removed",
+            "SOIL, ROOTS, SEEDS OR MICROBES REMAIN -> biological legacy",
+            "RAPID COLONISERS -> early recovery",
+            "COMPETITION AND RECRUITMENT -> later community change",
+            "LIMIT -> faster than primary does not mean instant or identical recovery"
+          ],
+          "source_references": [
+            "Secondary succession",
+            "Disturbance and reset"
+          ]
+        },
+        {
+          "title": "Sere vocabulary map",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SERE -> complete sequence at one site",
+            "SERAL STAGE -> one community within the sequence",
+            "LITHOSERE -> rock   PSAMMOSERE -> sand",
+            "HALOSERE -> saline   HYDROSERE -> fresh water",
+            "XEROSERE -> dry substrate; names identify starts, not fixed ends"
+          ],
+          "source_references": [
+            "Sere and seral stage",
+            "Named seres"
+          ]
+        },
+        {
+          "title": "Hydrarch and xerarch comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HYDRARCH -> begins in water or very wet substrate",
+            "XERARCH -> begins under dry conditions",
+            "BOTH -> may trend toward more mesic regional conditions",
+            "PATH -> depends on sediment, soil, colonists and disturbance",
+            "CAUTION -> convergence is not one universal sequence"
+          ],
+          "source_references": [
+            "Hydrarch and xerarch direction"
+          ]
+        },
+        {
+          "title": "Mechanism fork",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AUTOGENIC -> organisms alter litter, soil, shade or microclimate",
+            "ALLOGENIC -> flood, fire, erosion, deposition, climate or land use acts externally",
+            "FACILITATION -> early species improve later establishment",
+            "INHIBITION OR TOLERANCE -> alternative replacement mechanisms",
+            "RULE -> identify the driver before naming the mechanism"
+          ],
+          "source_references": [
+            "Autogenic mechanism",
+            "Allogenic mechanism",
+            "Facilitation, inhibition and tolerance"
+          ]
+        },
+        {
+          "title": "Climax theory pressure test",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "CLASSICAL CLAIM -> regional climate favours a relatively stable climax",
+            "PRESSURE -> disturbance history and species arrival differ among sites",
+            "MODERN READING -> multiple plausible stable states can occur",
+            "DISTURBANCE -> redirects or resets trajectories",
+            "VERDICT -> climate constrains but does not uniquely script every endpoint"
+          ],
+          "source_references": [
+            "Classical climax and modern qualification",
+            "Disturbance and reset"
+          ]
+        },
+        {
+          "title": "Restoration staging ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "1 STABILISE -> erosion, substrate and hydrology",
+            "2 REBUILD FUNCTION -> organic matter, soil biota and nutrient processes",
+            "3 ENABLE NATIVE RECRUITMENT -> propagules and suitable microclimate",
+            "4 RECOVER STRUCTURE -> composition, layering and connectivity",
+            "5 MONITOR -> function and trajectory, not planting count alone"
+          ],
+          "source_references": [
+            "Restoration staging"
+          ]
+        },
+        {
+          "title": "Scale vocabulary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HABITAT -> place used by a species",
+            "ECOSYSTEM -> bounded interacting biotic and abiotic functional unit",
+            "BIOME -> broad regional ecological category",
+            "FOREST LEGAL CATEGORY -> status under applicable law or interpretation",
+            "RULE -> one term cannot silently substitute for another"
+          ],
+          "source_references": [
+            "Biome versus ecosystem and habitat",
+            "Administrative, legal and ecological labels"
+          ]
+        },
+        {
+          "title": "Biome control matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "BROAD CLIMATE -> temperature and precipitation pattern",
+            "SOIL AND TOPOGRAPHY -> local water and nutrient conditions",
+            "FIRE AND HERBIVORY -> maintain or redirect open vegetation",
+            "LAND-USE HISTORY -> modifies present composition",
+            "BOUNDARY -> biome maps are gradients, not exact site-level lines"
+          ],
+          "source_references": [
+            "Climate and local biome modifiers",
+            "Biome boundaries and ecotones"
+          ]
+        },
+        {
+          "title": "Open ecosystem firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "GRASSLAND, SAVANNA, SCRUB -> may be natural ecological states",
+            "WASTELAND -> administrative or revenue label",
+            "FOREST -> legal category in the relevant context",
+            "PLANTATION -> land-cover intervention, not proof of restored biome",
+            "DECISION -> assess native biome before afforestation"
+          ],
+          "source_references": [
+            "Open Natural Ecosystems",
+            "Administrative, legal and ecological labels"
+          ]
+        },
+        {
+          "title": "PYQ and monitoring boundary",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2021 ROUTE -> pioneers surviving on surfaces without soil",
+            "2024 ESSAY -> forests and deserts used as a qualified ecological warning",
+            "FOREST COVER -> canopy trend, not successional-stage proof",
+            "RESTORATION CLAIM -> needs repeated composition, soil and function evidence",
+            "LIVE STUB -> adds no succession timeline, biome range or status"
+          ],
+          "source_references": [
+            "PYQ, monitoring and current boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

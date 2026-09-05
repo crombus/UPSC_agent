@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Ethics",
+    "display_name": "Ethics"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+      "upsc-ai-kit\\knowledge\\Ethics\\LEARNING-SESSION-COMMAND-INDEX.md"
+    ],
+    "notes": "Complete Ethics topic map in source order. Each Basic owner remains canonical and Advanced depth remains optional."
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-01",
+      "display_title": "Ethics and Human Interface",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-01-deep-review-2026-09-02-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-01\\carvaka-g5",
+      "generation_identity": "ethics-01:learner-v2:g5",
+      "approved": false,
+      "superseded_v1": "ethics-01:legacy-v1:g1",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "ethics-01:learner-v2:g5"
+    },
+    {
+      "topic_key": "ethics-02",
+      "display_title": "Human Values and Lessons from Leaders",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-02-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-02\\carvaka-g2",
+      "generation_identity": "ethics-02:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-02:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-03",
+      "display_title": "Attitude: Content, Structure and Persuasion",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-03-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-03\\carvaka-g2",
+      "generation_identity": "ethics-03:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-03:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-04",
+      "display_title": "Aptitude and Foundational Values for Civil Service",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-04-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2",
+      "generation_identity": "ethics-04:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-04:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-05",
+      "display_title": "Emotional Intelligence in Administration",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-05-deep-review-2026-09-02-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-05\\carvaka-g4",
+      "generation_identity": "ethics-05:learner-v2:g4",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "ethics-05:learner-v2:g4"
+    },
+    {
+      "topic_key": "ethics-06",
+      "display_title": "Indian Moral Thinkers and Philosophers",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g2\\ethics-06_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g2\\ethics-06_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g2\\ethics-06_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g2\\ethics-06_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-06-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g2",
+      "generation_identity": "ethics-06:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-06:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-07",
+      "display_title": "Western Moral Philosophers and Thinkers",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\07_Western-Moral-Philosophers-and-Thinkers.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\07_Western-Moral-Philosophers-and-Thinkers.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\07_Western-Moral-Philosophers-and-Thinkers.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-07\\g2\\ethics-07_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-07\\g2\\ethics-07_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-07\\g2\\ethics-07_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-07\\g2\\ethics-07_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-07\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-07-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-07\\carvaka-g2",
+      "generation_identity": "ethics-07:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-07:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-08",
+      "display_title": "Moral Theories: Deontology, Consequentialism, Virtue Ethics",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-08-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-08\\carvaka-g2",
+      "generation_identity": "ethics-08:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-08:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-09",
+      "display_title": "Public Service Values, Status and Ethical Dilemmas",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-09\\g2\\ethics-09_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-09\\g2\\ethics-09_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-09\\g2\\ethics-09_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-09\\g2\\ethics-09_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-09\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-09-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-09\\carvaka-g2",
+      "generation_identity": "ethics-09:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-09:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-10",
+      "display_title": "Sources of Ethical Guidance: Laws, Rules, Conscience",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-10-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-10\\carvaka-g2",
+      "generation_identity": "ethics-10:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-10:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-11",
+      "display_title": "Accountability and Ethical Governance",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-11-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-11\\carvaka-g2",
+      "generation_identity": "ethics-11:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-11:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-12",
+      "display_title": "Corporate Governance and International Ethics",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-12-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-12\\carvaka-g2",
+      "generation_identity": "ethics-12:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-12:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-13",
+      "display_title": "Emerging Ethics: Technology, AI and Environment",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-13\\g2\\ethics-13_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-13\\g2\\ethics-13_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-13\\g2\\ethics-13_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-13\\g2\\ethics-13_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-13\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-13-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-13\\carvaka-g2",
+      "generation_identity": "ethics-13:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-13:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-14",
+      "display_title": "Probity: Concept and Philosophical Basis of Governance",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g2\\ethics-14_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g2\\ethics-14_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g2\\ethics-14_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g2\\ethics-14_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-14-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-14\\carvaka-g2",
+      "generation_identity": "ethics-14:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-14:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-15",
+      "display_title": "Transparency, RTI and Information Sharing",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-15-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-15\\carvaka-g2",
+      "generation_identity": "ethics-15:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-15:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-16",
+      "display_title": "Codes of Ethics and Codes of Conduct",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-16\\g2\\ethics-16_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-16\\g2\\ethics-16_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-16\\g2\\ethics-16_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-16\\g2\\ethics-16_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-16\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-16-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-16\\carvaka-g2",
+      "generation_identity": "ethics-16:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-16:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-17",
+      "display_title": "Citizens' Charters, Work Culture and Service Delivery",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-17-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-17\\carvaka-g2",
+      "generation_identity": "ethics-17:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-17:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-18",
+      "display_title": "Utilization of Public Funds and Challenges of Corruption",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-18-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-18\\carvaka-g2",
+      "generation_identity": "ethics-18:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-18:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-19",
+      "display_title": "Corruption: Legal Framework",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\19_Corruption-Legal-Framework.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\19_Corruption-Legal-Framework.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\19_Corruption-Legal-Framework.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-19\\g2\\ethics-19_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-19\\g2\\ethics-19_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-19\\g2\\ethics-19_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-19\\g2\\ethics-19_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-19\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-19-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-19\\carvaka-g2",
+      "generation_identity": "ethics-19:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-19:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-20",
+      "display_title": "Anti-Corruption Institutions",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\20_Anti-Corruption-Institutions.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\20_Anti-Corruption-Institutions.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\20_Anti-Corruption-Institutions.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-20\\g2\\ethics-20_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-20\\g2\\ethics-20_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-20\\g2\\ethics-20_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-20\\g2\\ethics-20_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-20\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-20-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-20\\carvaka-g2",
+      "generation_identity": "ethics-20:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-20:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-21",
+      "display_title": "Protecting Honest Officials and Vigilance Administration",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-21-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-21\\carvaka-g2",
+      "generation_identity": "ethics-21:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-21:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-22",
+      "display_title": "Case Study Method and Answer Architecture",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-22-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-22\\carvaka-g2",
+      "generation_identity": "ethics-22:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-22:learner-v2:g2"
+    },
+    {
+      "topic_key": "ethics-23",
+      "display_title": "Comparative and Named Real Case Studies",
+      "syllabus_mapping": "Direct GS-IV Ethics syllabus ownership under the subject-wide topic map; verified questions retain official or routed provenance.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\23_Comparative-and-Named-Real-Case-Studies.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\23_Comparative-and-Named-Real-Case-Studies.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\23_Comparative-and-Named-Real-Case-Studies.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\README.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\ethics-23_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\ethics-23_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\ethics-23_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\ethics-23_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-23-deep-review-2026-09-02-g2.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-23\\carvaka-g2",
+      "generation_identity": "ethics-23:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 2,
+      "record_id": "ethics-23:learner-v2:g2"
+    }
+  ]
+}

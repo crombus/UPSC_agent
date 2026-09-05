@@ -1,0 +1,1134 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-22",
+  "subject": "Ancient-Indian-History",
+  "title": "POST-GUPTA INDIA: HARSHA & EASTERN INDIA",
+  "short_route": "CHRONOLOGY AND EVIDENCE DISCIPLINE → POST-GUPTA POLITICAL LANDSCAPE → PUSHYABHUTI RISE AND KANNAUJ → HARSHA'S GRADED SOVEREIGNTY AND → ADMINISTRATION, REVENUE AND SAMANTA → EASTERN INDIA REGIONAL STATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-22_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-22-23-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "9b50c283577bd85a66aa288c4c544997c7ce716b2ae2d8474d4cccd68aea65c5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CHRONOLOGY AND EVIDENCE DISCIPLINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY AND EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "C. 550 CE",
+          "role": "outcome"
+        },
+        {
+          "text": "GUPTA CONCENTRATION WEAKENS; REGIONAL HOUSES MULTIPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "606 CE",
+          "role": "evidence"
+        },
+        {
+          "text": "HARSHA SUCCEEDS AMID THE RAJYAVARDHANA-RAJYASHRI CRISIS C. 630S",
+          "role": "primary"
+        },
+        {
+          "text": "PULAKESHIN II CHECKS NORTHERN EXPANSION NEAR THE NARMADA",
+          "role": "outcome"
+        },
+        {
+          "text": "637 CE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHASHANKA DIES; EASTERN COMPETITION CONTINUES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "c. 550 CE → Gupta concentration weakens; regional houses multiply",
+        "606 CE → Harsha succeeds amid the Rajyavardhana-Rajyashri crisis c. 630s → Pulakeshin II checks",
+        "637 CE → Shashanka dies; eastern competition continues",
+        "647-648 CE → Harsha dies without a durable successor empire",
+        "SOURCES: Bana + Xuanzang + charters + coins + Aihole + archaeology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "c. 550 CE → Gupta concentration weakens; regional houses multiply",
+            "606 CE → Harsha succeeds amid the Rajyavardhana-Rajyashri crisis c. 630s → Pulakeshin II checks northern expansion near the Narmada"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "637 CE → Shashanka dies; eastern competition continues",
+            "647-648 CE → Harsha dies without a durable successor empire"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCES: Bana + Xuanzang + charters + coins + Aihole + archaeology",
+            "RULE: triangulate literary praise, pilgrim report and rival inscription."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: triangulate literary praise, pilgrim report and rival inscription.",
+      "answer_line": "triangulate literary praise, pilgrim report and rival inscription.",
+      "source_references": [
+        "Scope",
+        "Chronology",
+        "Evidence discipline"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POST-GUPTA POLITICAL LANDSCAPE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POST-GUPTA POLITICAL LANDSCAPE",
+          "role": "primary"
+        },
+        {
+          "text": "MAITRAKAS AND OTHER REGIONAL POWERS",
+          "role": "outcome"
+        },
+        {
+          "text": "MIDDLE GANGA",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER GUPTAS + MAUKHARIS",
+          "role": "evidence"
+        },
+        {
+          "text": "PUSHYABHUTIS UNDER HARSHA",
+          "role": "primary"
+        },
+        {
+          "text": "DECCAN LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "BADAMI CHALUKYAS UNDER PULAKESHIN II",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERAL STRONG REGIONAL STATES REPLACED ONE UNCONTESTED IMPERIAL CENTRE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST / WEST → Maitrakas and other regional powers",
+        "MIDDLE GANGA → Later Guptas + Maukharis",
+        "THANESAR-KANNAUJ → Pushyabhutis under Harsha",
+        "GAUDA → Shashanka",
+        "KAMARUPA → Bhaskaravarman"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST / WEST → Maitrakas and other regional powers",
+            "MIDDLE GANGA → Later Guptas + Maukharis",
+            "THANESAR-KANNAUJ → Pushyabhutis under Harsha"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GAUDA → Shashanka",
+            "KAMARUPA → Bhaskaravarman",
+            "DECCAN LIMIT → Badami Chalukyas under Pulakeshin II"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: several strong regional states replaced one uncontested imperial centre."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: several strong regional states replaced one uncontested imperial centre.",
+      "answer_line": "several strong regional states replaced one uncontested imperial centre.",
+      "source_references": [
+        "Political landscape",
+        "Regional powers"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PUSHYABHUTI RISE AND KANNAUJ SHIFT",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PUSHYABHUTI RISE AND KANNAUJ SHIFT",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGER THANESAR LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJYASHRI + GRAHAVARMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "MAUKHARI MARRIAGE BRIDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAHAVARMAN KILLED",
+          "role": "primary"
+        },
+        {
+          "text": "RAJYAVARDHANA CAMPAIGNS",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSION CRISIS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESCUE + CONSOLIDATION + MAUKHARI INHERITANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRABHAKARAVARDHANA → stronger Thanesar line",
+        "RAJYASHRI + GRAHAVARMAN → Maukhari marriage bridge",
+        "Grahavarman killed → Rajyavardhana campaigns → accession crisis",
+        "HARSHAVARDHANA → rescue + consolidation + Maukhari inheritance",
+        "THANESAR → KANNAUJ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PRABHAKARAVARDHANA → stronger Thanesar line",
+            "RAJYASHRI + GRAHAVARMAN → Maukhari marriage bridge",
+            "Grahavarman killed → Rajyavardhana campaigns → accession crisis"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HARSHAVARDHANA → rescue + consolidation + Maukhari inheritance",
+            "THANESAR → KANNAUJ",
+            "MECHANISM: kinship + strategy + Ganga-doab access + sovereignty prestige"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: Harsha inherited a crisis, not a ready-made pan-Indian empire."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: Harsha inherited a crisis, not a ready-made pan-Indian empire.",
+      "source_references": [
+        "Pushyabhutis",
+        "Maukharis",
+        "Kannauj"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HARSHA'S GRADED SOVEREIGNTY AND NARMADA LIMIT",
+      "structural_type": "layered-sovereignty",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "HARSHA'S GRADED SOVEREIGNTY AND NARMADA LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DIRECT CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "HARYANA, MUCH OF UP AND PARTS OF BIHAR",
+          "role": "comparison"
+        },
+        {
+          "text": "PROBABLE REACH",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTED EASTERN TERRITORIES INCLUDING ODISHA",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER ALLEGIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "KAMARUPA, VALABHI AND OTHER RULERS IN VARYING DEGREES",
+          "role": "comparison"
+        },
+        {
+          "text": "HARD LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIRECT CORE → Haryana, much of UP and parts of Bihar",
+        "PROBABLE REACH → selected eastern territories including Odisha",
+        "WIDER ALLEGIANCE → Kamarupa, Valabhi and other rulers in varying degrees",
+        "HARD LIMIT → Pulakeshin II and the Narmada frontier",
+        "BANA / XUANZANG → prestige-heavy northern view"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DIRECT CORE → Haryana, much of UP and parts of Bihar",
+            "PROBABLE REACH → selected eastern territories including Odisha",
+            "WIDER ALLEGIANCE → Kamarupa, Valabhi and other rulers in varying degrees"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HARD LIMIT → Pulakeshin II and the Narmada frontier",
+            "BANA / XUANZANG → prestige-heavy northern view",
+            "AIHOLE → rival Chalukya check"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: major north Indian hegemon; not a stable all-India emperor."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: major north Indian hegemon; not a stable all-India emperor.",
+      "answer_line": "major north Indian hegemon; not a stable all-India emperor.",
+      "source_references": [
+        "Harsha's campaigns",
+        "Narmada confrontation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADMINISTRATION, REVENUE AND SAMANTA ORDER",
+      "structural_type": "layered-governance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ADMINISTRATION, REVENUE AND SAMANTA ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "MOBILE CAMP",
+          "role": "outcome"
+        },
+        {
+          "text": "BHUKTI PROVINCIAL UNITS",
+          "role": "comparison"
+        },
+        {
+          "text": "VISHAYA DISTRICT UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICERS, VILLAGES AND REVENUE COLLECTORS",
+          "role": "primary"
+        },
+        {
+          "text": "SAMANTAS AND FEUDATORY RULERS",
+          "role": "outcome"
+        },
+        {
+          "text": "BHAGA + BHOGA + KARA + HIRANYA",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL FORCES REINFORCED BY SUBORDINATE CHIEFS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KING / MOBILE CAMP",
+        "bhukti provincial units",
+        "vishaya district units",
+        "officers, villages and revenue collectors",
+        "samantas and feudatory rulers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KING / MOBILE CAMP",
+            "bhukti provincial units",
+            "vishaya district units"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "officers, villages and revenue collectors",
+            "samantas and feudatory rulers",
+            "REVENUE: bhaga + bhoga + kara + hiranya"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ARMY: royal forces reinforced by subordinate chiefs",
+            "TENSION: delegated reach could integrate territory and enlarge local autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TENSION: delegated reach could integrate territory and enlarge local autonomy.",
+      "source_references": [
+        "Administration",
+        "Revenue",
+        "Samanta pattern"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EASTERN INDIA REGIONAL STATE FORMATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EASTERN INDIA REGIONAL STATE FORMATION",
+          "role": "institution"
+        },
+        {
+          "text": "SHASHANKA, PUNDRAVARDHANA, SAMATATA, GOLD ISSUES",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL LINES, CHARTERS, AGRAHARAS AND EXPANDING SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "KAMARUPA, VARMAN LINE AND BHASKARAVARMAN",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "SANSKRIT CHARTERS + FISCAL DISTRICTS + MILITARY CAMPS LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "CHRONOLOGY, ECOLOGY AND POLITICAL SCALE VARIED SHARPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT BEGIN EASTERN STATE HISTORY ONLY WITH THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BENGAL / GAUDA → Shashanka, Pundravardhana, Samatata, gold issues",
+        "ODISHA → regional lines, charters, agraharas and expanding settlement",
+        "ASSAM → Kamarupa, Varman line and Bhaskaravarman",
+        "COMMON PROCESS → Sanskrit charters + fiscal districts + military camps land rights + agrarian",
+        "DIFFERENCE → chronology, ecology and political scale varied sharply"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "BENGAL / GAUDA → Shashanka, Pundravardhana, Samatata, gold issues",
+          "ASSAM → Kamarupa, Varman line and Bhaskaravarman",
+          "DIFFERENCE → chronology, ecology and political scale varied sharply"
+        ],
+        [
+          "ODISHA → regional lines, charters, agraharas and expanding settlement",
+          "COMMON PROCESS → Sanskrit charters + fiscal districts + military camps land rights + agrarian expansion",
+          "RULE: do not begin eastern state history only with the Palas."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BENGAL / GAUDA → Shashanka, Pundravardhana, Samatata, gold issues",
+            "ODISHA → regional lines, charters, agraharas and expanding settlement"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ASSAM → Kamarupa, Varman line and Bhaskaravarman",
+            "COMMON PROCESS → Sanskrit charters + fiscal districts + military camps land rights + agrarian expansion"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DIFFERENCE → chronology, ecology and political scale varied sharply",
+            "RULE: do not begin eastern state history only with the Palas."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: do not begin eastern state history only with the Palas.",
+      "answer_line": "do not begin eastern state history only with the Palas.",
+      "source_references": [
+        "Gauda",
+        "Kamarupa",
+        "Eastern India"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LAND GRANTS AND AGRARIAN TRANSFORMATION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAND GRANTS AND AGRARIAN TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "CULTIVATED LAND + ROYAL CLAIM PURCHASE, CHARTER, BOUNDARY RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGIOUS BENEFICIARY CULTIVATION + LITERACY + FISCAL REALLOCATION +",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN PLATES",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL SCRIBES, MERCHANTS, LANDHOLDERS AND CULTIVATORS",
+          "role": "primary"
+        },
+        {
+          "text": "ELITE CHARTERS REVEAL PROCESS MORE CLEARLY THAN PEASANT EXPERIENCE.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FALLOW / CULTIVATED LAND + ROYAL CLAIM purchase, charter, boundary record and tax remission",
+        "Brahmana / monastery / religious beneficiary cultivation + literacy + fiscal reallocation + landed hierarchy",
+        "EASTERN PLATES → local scribes, merchants, landholders and cultivators",
+        "LIMIT: elite charters reveal process more clearly than peasant experience."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FALLOW / CULTIVATED LAND + ROYAL CLAIM purchase, charter, boundary record and tax remission",
+            "Brahmana / monastery / religious beneficiary cultivation + literacy + fiscal reallocation + landed hierarchy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "EASTERN PLATES → local scribes, merchants, landholders and cultivators",
+            "LIMIT: elite charters reveal process more clearly than peasant experience."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FALLOW / CULTIVATED LAND + ROYAL CLAIM purchase, charter, boundary record and tax remission",
+            "Brahmana / monastery / religious beneficiary cultivation + literacy + fiscal reallocation + landed hierarchy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: elite charters reveal process more clearly than peasant experience.",
+      "source_references": [
+        "Land grants",
+        "Agrarian expansion"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ECONOMY AND URBAN CHANGE DEBATE",
+      "structural_type": "argument-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ECONOMY AND URBAN CHANGE DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "DECLINE EVIDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "CONTRACTION OF SELECTED OLDER TOWNS AND COIN CHANGES",
+          "role": "comparison"
+        },
+        {
+          "text": "REORGANISATION EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "KANNAUJ RISES AS A STRATEGIC CENTRE EASTERN LAND WAS",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTES AND MARKETS PERSIST UNEVENLY",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL CONCENTRATION, NOT PROOF OF UNIVERSAL PROSPERITY",
+          "role": "caution"
+        },
+        {
+          "text": "DECLINE IN OLDER FORMS COEXISTED WITH REGIONAL CREATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DECLINE EVIDENCE → contraction of selected older towns and coin changes",
+        "REORGANISATION EVIDENCE",
+        "Kannauj rises as a strategic centre eastern land was purchased with gold",
+        "in selected records new camps, grants, monasteries and regional capitals appear",
+        "routes and markets persist unevenly"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DECLINE EVIDENCE → contraction of selected older towns and coin changes",
+            "REORGANISATION EVIDENCE",
+            "Kannauj rises as a strategic centre eastern land was purchased with gold"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "in selected records new camps, grants, monasteries and regional capitals appear",
+            "routes and markets persist unevenly",
+            "NALANDA → institutional concentration, not proof of universal prosperity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: decline in older forms coexisted with regional creation."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: decline in older forms coexisted with regional creation.",
+      "answer_line": "decline in older forms coexisted with regional creation.",
+      "source_references": [
+        "Economy",
+        "Urban-decline debate"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RELIGION, ASSEMBLIES AND POLITICAL THEATRE",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RELIGION, ASSEMBLIES AND POLITICAL THEATRE",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOLAR ASSOCIATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHAIVA IDIOMS",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONG BUDDHIST PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "KANNAUJ ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "DEBATE, HIERARCHY AND ROYAL DISPLAY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAYAGA ASSEMBLY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "EARLY LINE → solar associations",
+        "HARSHACHARITA / CHARTERS → Shaiva idioms",
+        "XUANZANG → strong Buddhist patronage",
+        "KANNAUJ ASSEMBLY → debate, hierarchy and royal display",
+        "PRAYAGA ASSEMBLY → Buddha + Shiva + Sun across successive days"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "EARLY LINE → solar associations",
+            "HARSHACHARITA / CHARTERS → Shaiva idioms",
+            "XUANZANG → strong Buddhist patronage"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KANNAUJ ASSEMBLY → debate, hierarchy and royal display",
+            "PRAYAGA ASSEMBLY → Buddha + Shiva + Sun across successive days",
+            "CHARITY → piety + redistribution + sovereignty performance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: overlapping royal affiliations, not one exclusive religious label."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: overlapping royal affiliations, not one exclusive religious label.",
+      "answer_line": "overlapping royal affiliations, not one exclusive religious label.",
+      "source_references": [
+        "Religion under Harsha",
+        "Kannauj and Prayaga assemblies"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NALANDA AND TRANS-ASIAN LEARNING NETWORKS",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NALANDA AND TRANS-ASIAN LEARNING NETWORKS",
+          "role": "primary"
+        },
+        {
+          "text": "LANDED SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "MONASTIC INFRASTRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN TEACHERS <→ NALANDA STUDY AND DEBATE <→ ASIAN",
+          "role": "evidence"
+        },
+        {
+          "text": "STUDY, TRAVEL AND CARRIAGE OF BUDDHIST TEXTS TO CHINA",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARATIVE EVIDENCE AND NUMERICAL CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "UNESCO SITE",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVIVING VIHARAS, TEMPLES, ART AND PLANNED LAYOUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROYAL / LANDED SUPPORT → monastic infrastructure",
+        "INDIAN TEACHERS <→ Nalanda study and debate <→ ASIAN PILGRIMS",
+        "XUANZANG → study, travel and carriage of Buddhist texts to China",
+        "YIJING → comparative evidence and numerical caution",
+        "UNESCO SITE → surviving viharas, temples, art and planned layout"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ROYAL / LANDED SUPPORT → monastic infrastructure",
+            "INDIAN TEACHERS <→ Nalanda study and debate <→ ASIAN PILGRIMS",
+            "XUANZANG → study, travel and carriage of Buddhist texts to China"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "YIJING → comparative evidence and numerical caution",
+            "UNESCO SITE → surviving viharas, temples, art and planned layout",
+            "SECURE CLAIM: major scholastic network"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: famous enrolment figures are estimates, not census data."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: famous enrolment figures are estimates, not census data.",
+      "source_references": [
+        "Nalanda",
+        "Learning networks"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SOURCE CRITICISM AND HISTORIOGRAPHY",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE CRITICISM AND HISTORIOGRAPHY",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESSION AND COURT WORLD",
+          "role": "institution"
+        },
+        {
+          "text": "LITERARY PRAISE",
+          "role": "comparison"
+        },
+        {
+          "text": "ELITE FOCUS",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUTES, NALANDA, ASSEMBLIES",
+          "role": "primary"
+        },
+        {
+          "text": "PILGRIM PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER WRITING",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICES, GRANTS, TAXES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BANA → accession and court world",
+        "literary praise / elite focus",
+        "XUANZANG → routes, Nalanda, assemblies",
+        "pilgrim purpose / later writing",
+        "CHARTERS → offices, grants, taxes"
+      ],
+      "matrix": [
+        [
+          "BANA → accession and court world",
+          "literary praise / elite focus"
+        ],
+        [
+          "XUANZANG → routes, Nalanda, assemblies",
+          "pilgrim purpose / later writing"
+        ],
+        [
+          "CHARTERS → offices, grants, taxes",
+          "selective documentary survival"
+        ],
+        [
+          "COINS → rulers, economy, symbols",
+          "circulation is not a border map"
+        ],
+        [
+          "AIHOLE → Narmada limit",
+          "rival prashasti and exaggeration"
+        ],
+        [
+          "SHARMA → structural transition",
+          "avoid universal decline"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "BANA → accession and court world",
+            "literary praise / elite focus",
+            "XUANZANG → routes, Nalanda, assemblies",
+            "pilgrim purpose / later writing",
+            "CHARTERS → offices, grants, taxes"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "selective documentary survival",
+            "COINS → rulers, economy, symbols",
+            "circulation is not a border map",
+            "AIHOLE → Narmada limit",
+            "rival prashasti and exaggeration"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "SHARMA → structural transition",
+            "avoid universal decline",
+            "METHOD: claim → source → corroboration → limitation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD: claim → source → corroboration → limitation.",
+      "source_references": [
+        "Source criticism",
+        "Historiography"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "POST-GUPTA ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "POST-GUPTA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "C. 550-750 AS CONTRACTION PLUS REGIONAL REORGANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PUSHYABHUTI RISE + KANNAUJ + GRADED SOVEREIGNTY",
+          "role": "comparison"
+        },
+        {
+          "text": "PULAKESHIN II AND THE NARMADA",
+          "role": "evidence"
+        },
+        {
+          "text": "GAUDA + KAMARUPA + ODISHA/BENGAL GRANTS",
+          "role": "primary"
+        },
+        {
+          "text": "SAMANTAS + LAND RIGHTS + AGRARIAN CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSEMBLIES + NALANDA + SOURCE TRIANGULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "HARSHA BRIEFLY REUNITED THE NORTH WHILE REGIONAL STATES DEEPENED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → c. 550-750 as contraction plus regional reorganisation",
+        "POLITY → Pushyabhuti rise + Kannauj + graded sovereignty",
+        "LIMIT → Pulakeshin II and the Narmada",
+        "EAST → Gauda + Kamarupa + Odisha/Bengal grants",
+        "STRUCTURE → samantas + land rights + agrarian change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → c. 550-750 as contraction plus regional reorganisation",
+            "POLITY → Pushyabhuti rise + Kannauj + graded sovereignty",
+            "LIMIT → Pulakeshin II and the Narmada"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "EAST → Gauda + Kamarupa + Odisha/Bengal grants",
+            "STRUCTURE → samantas + land rights + agrarian change",
+            "CULTURE → assemblies + Nalanda + source triangulation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE → Harsha briefly reunited the north while regional states deepened."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → Harsha briefly reunited the north while regional states deepened.",
+      "source_references": [
+        "UPSC answer architecture",
+        "PYQ routes"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "POST-GUPTA INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "HARSHA & EASTERN INDIA — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Post-Gupta India: Harsha & Eastern India — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "Historical PYQ Integration (2018-2023)",
+            "The Pushyabhutis initially had their base around Sthanishvara/Thanesar .",
+            "Harsha's reign involved military engagements; claims of success must be tested against rival records."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

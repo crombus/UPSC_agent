@@ -1,0 +1,1071 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-15",
+  "subject": "Ancient-Indian-History",
+  "title": "SIGNIFICANCE & DECLINE OF MAURYAN RULE",
+  "short_route": "DEFINE THE THREE MAURYAN → WHY MAURYAN RULE WAS → POST-ASHOKA CHRONOLOGY AND THIN → WEAK SUCCESSORS: USEFUL TRIGGER → CENTRALISATION AND DIFFERENTIATED-CONTROL DEBATE → FISCAL AND ECONOMIC CRISIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-15-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "fcbc7366b1c9b1b17623b1b01f0730806e42de5763cd13ad4ffdefd79d01cc6a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DEFINE THE THREE MAURYAN ENDINGS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEFINE THE THREE MAURYAN ENDINGS",
+          "role": "primary"
+        },
+        {
+          "text": "MAURYAN RULING LINE ENDS AT PATALIPUTRA",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL INTEGRATION WEAKENS UNEVENLY BY REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICES, ROUTES AND PRACTICES ARE ADAPTED OR ABANDONED",
+          "role": "evidence"
+        },
+        {
+          "text": "SCRIPTS, MONUMENTS, MEMORIES AND POLITICAL IDEAS PERSIST",
+          "role": "primary"
+        },
+        {
+          "text": "232 BCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASHOKA'S DEATH; NOT THE INSTANT END OF ALL FOUR",
+          "role": "caution"
+        },
+        {
+          "text": "A DECLINE ANSWER MUST IDENTIFY WHICH OBJECT IT IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DYNASTY: Mauryan ruling line ends at Pataliputra",
+        "EMPIRE: territorial integration weakens unevenly by region",
+        "INSTITUTIONS: offices, routes and practices are adapted or abandoned",
+        "LEGACY: scripts, monuments, memories and political ideas persist",
+        "232 BCE = Ashoka's death; not the instant end of all four processes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DYNASTY: Mauryan ruling line ends at Pataliputra",
+            "EMPIRE: territorial integration weakens unevenly by region"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "INSTITUTIONS: offices, routes and practices are adapted or abandoned",
+            "LEGACY: scripts, monuments, memories and political ideas persist"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "232 BCE = Ashoka's death; not the instant end of all four processes.",
+            "A decline answer must identify which object it is explaining."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A decline answer must identify which object it is explaining.",
+      "source_references": [
+        "Three objects of explanation",
+        "Scope and chronology",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WHY MAURYAN RULE WAS HISTORICALLY SIGNIFICANT",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHY MAURYAN RULE WAS HISTORICALLY SIGNIFICANT",
+          "role": "primary"
+        },
+        {
+          "text": "MAURYAN SIGNIFICANCE VIRTUALLY SUBCONTINENTAL POLITICAL HORIZON ROUTES, PROVINCIAL NODES",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG MEMORY IN BUDDHISM AND MODERN NATIONAL SYMBOLISM",
+          "role": "comparison"
+        },
+        {
+          "text": "UNPRECEDENTED SCALE DID NOT MEAN EQUAL DIRECT CONTROL EVERYWHERE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAURYAN SIGNIFICANCE virtually subcontinental political horizon routes, provincial nodes and differentiated administration earliest large corpus",
+        "royal public inscriptions dhamma as public ethical-political argument monumental stone, pillars, caves and stupa patronage",
+        "long memory in Buddhism and modern national symbolism",
+        "QUALIFY: unprecedented scale did not mean equal direct control everywhere."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MAURYAN SIGNIFICANCE virtually subcontinental political horizon routes, provincial nodes and differentiated administration earliest large corpus of",
+            "royal public inscriptions dhamma as public ethical-political argument monumental stone, pillars, caves and stupa patronage"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "long memory in Buddhism and modern national symbolism",
+            "QUALIFY: unprecedented scale did not mean equal direct control everywhere."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MAURYAN SIGNIFICANCE virtually subcontinental political horizon routes, provincial nodes and differentiated administration earliest large corpus of",
+            "royal public inscriptions dhamma as public ethical-political argument monumental stone, pillars, caves and stupa patronage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY: unprecedented scale did not mean equal direct control everywhere.",
+      "source_references": [
+        "Significance matrix",
+        "Mauryan legacy",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POST-ASHOKA CHRONOLOGY AND THIN EVIDENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POST-ASHOKA CHRONOLOGY AND THIN EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "232 BCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASHOKA DIES",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER RULER LISTS DIVERGE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAGARJUNI CAVE INSCRIPTIONS PROVIDE DIRECT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SHORT REIGNS AND DECLINING ROYAL EPIGRAPHIC VISIBILITY C. 187/185",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVENTIONAL BRIHADRATHA-PUSHYAMITRA TRANSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE THINS BEFORE THE FINAL COUP; SILENCE IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "232 BCE: Ashoka dies",
+        "later ruler lists diverge",
+        "Dasharatha: Nagarjuni cave inscriptions provide direct evidence",
+        "short reigns and declining royal epigraphic visibility c. 187/185 BCE: conventional Brihadratha-Pushyamitra transition",
+        "Evidence thins before the final coup; silence is not a complete narrative."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "232 BCE: Ashoka dies",
+            "later ruler lists diverge",
+            "Dasharatha: Nagarjuni cave inscriptions provide direct evidence"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "short reigns and declining royal epigraphic visibility c. 187/185 BCE: conventional Brihadratha-Pushyamitra transition",
+            "Evidence thins before the final coup; silence is not a complete narrative.",
+            "Dynastic termination at the centre followed earlier regional weakening."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Use approximate dates and identify textual versus inscriptional evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use approximate dates and identify textual versus inscriptional evidence.",
+      "source_references": [
+        "Later Mauryas",
+        "Chronology of decline",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WEAK SUCCESSORS: USEFUL TRIGGER, INCOMPLETE CAUSE",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WEAK SUCCESSORS",
+          "role": "primary"
+        },
+        {
+          "text": "USEFUL TRIGGER, INCOMPLETE CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MANY SHORT REIGNS + SUCCESSION UNCERTAINTY + EPIGRAPHIC THINNING",
+          "role": "comparison"
+        },
+        {
+          "text": "POSSIBLE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "COURT CONFLICT",
+          "role": "institution"
+        },
+        {
+          "text": "UNSTABLE APPOINTMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAKER LOYALTY",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER LISTS DO NOT GRADE EACH RULER'S COMPETENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE: many short reigns + succession uncertainty + epigraphic thinning",
+        "POSSIBLE MECHANISM: court conflict → unstable appointments → weaker loyalty",
+        "LIMIT: later lists do not grade each ruler's competence",
+        "VERDICT: succession shocks likely mattered through institutions and regions.",
+        "They do not alone explain frontier pressure, provincial agency or continuity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE: many short reigns + succession uncertainty + epigraphic thinning",
+            "POSSIBLE MECHANISM: court conflict → unstable appointments → weaker loyalty"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "LIMIT: later lists do not grade each ruler's competence",
+            "VERDICT: succession shocks likely mattered through institutions and regions."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "They do not alone explain frontier pressure, provincial agency or continuity.",
+            "EVIDENCE: many short reigns + succession uncertainty + epigraphic thinning"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: succession shocks likely mattered through institutions and regions.",
+      "answer_line": "succession shocks likely mattered through institutions and regions.",
+      "source_references": [
+        "Weak successors",
+        "Succession debate",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CENTRALISATION AND DIFFERENTIATED-CONTROL DEBATE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CENTRALISATION AND DIFFERENTIATED-CONTROL DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "OVER-CENTRALISED MODEL DIFFERENTIATED CONTROL MODEL COURT INSTABILITY SPREADS FAST",
+          "role": "institution"
+        },
+        {
+          "text": "COMMON TEST INFORMATION, REVENUE, COERCION AND LEGITIMACY MUST STILL",
+          "role": "comparison"
+        },
+        {
+          "text": "DECLINE MAY REVEAL BOTH TOP-HEAVY DEPENDENCE AND STRONG REGIONAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OVER-CENTRALISED MODEL DIFFERENTIATED CONTROL MODEL court instability spreads fast local mediation reduces daily central burden",
+        "depend on centre provinces retain adaptive capacity distance strains command detachment becomes easier when prestige",
+        "COMMON TEST information, revenue, coercion and legitimacy must still reach strategic zones.",
+        "Decline may reveal both top-heavy dependence and strong regional intermediaries."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "OVER-CENTRALISED MODEL DIFFERENTIATED CONTROL MODEL court instability spreads fast local mediation reduces daily central burden appointments",
+          "COMMON TEST information, revenue, coercion and legitimacy must still reach strategic zones.",
+          "OVER-CENTRALISED MODEL DIFFERENTIATED CONTROL MODEL court instability spreads fast local mediation reduces daily central burden appointments"
+        ],
+        [
+          "depend on centre provinces retain adaptive capacity distance strains command detachment becomes easier when prestige falls",
+          "Decline may reveal both top-heavy dependence and strong regional intermediaries.",
+          "depend on centre provinces retain adaptive capacity distance strains command detachment becomes easier when prestige falls"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OVER-CENTRALISED MODEL DIFFERENTIATED CONTROL MODEL court instability spreads fast local mediation reduces daily central burden appointments",
+            "depend on centre provinces retain adaptive capacity distance strains command detachment becomes easier when prestige falls"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COMMON TEST information, revenue, coercion and legitimacy must still reach strategic zones.",
+            "Decline may reveal both top-heavy dependence and strong regional intermediaries."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OVER-CENTRALISED MODEL DIFFERENTIATED CONTROL MODEL court instability spreads fast local mediation reduces daily central burden appointments",
+            "depend on centre provinces retain adaptive capacity distance strains command detachment becomes easier when prestige falls"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Decline may reveal both top-heavy dependence and strong regional intermediaries.",
+      "source_references": [
+        "Overcentralisation",
+        "Differentiated empire",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FISCAL AND ECONOMIC CRISIS HYPOTHESIS",
+      "structural_type": "argument-test",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FISCAL AND ECONOMIC CRISIS HYPOTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "LARGE ARMY + OFFICIALDOM + MONUMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH IMPERIAL COSTS PLAUSIBLE FISCAL PRESSURE AND EXTRACTION PROBLEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "BUT NO DIRECT TREASURY RECORD PROVES TERMINAL BANKRUPTCY",
+          "role": "caution"
+        },
+        {
+          "text": "AND TOWNS, TRADE, COIN USE AND AGRARIAN EXPANSION CONTINUE",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL STRAIN IS A MECHANISM TO TEST, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT USE DEBASEMENT OR DONATION CLAIMS WITHOUT DATED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LARGE ARMY + OFFICIALDOM + MONUMENTS → HIGH IMPERIAL COSTS plausible fiscal pressure and extraction",
+        "BUT no direct treasury record proves terminal bankruptcy",
+        "AND towns, trade, coin use and agrarian expansion continue regionally",
+        "VERDICT: fiscal strain is a mechanism to test, not a demonstrated general crisis.",
+        "Do not use debasement or donation claims without dated evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LARGE ARMY + OFFICIALDOM + MONUMENTS → HIGH IMPERIAL COSTS plausible fiscal pressure and extraction problems",
+            "BUT no direct treasury record proves terminal bankruptcy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AND towns, trade, coin use and agrarian expansion continue regionally",
+            "VERDICT: fiscal strain is a mechanism to test, not a demonstrated general crisis."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Do not use debasement or donation claims without dated evidence.",
+            "LARGE ARMY + OFFICIALDOM + MONUMENTS → HIGH IMPERIAL COSTS plausible fiscal pressure and extraction problems"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: fiscal strain is a mechanism to test, not a demonstrated general crisis.",
+      "answer_line": "fiscal strain is a mechanism to test, not a demonstrated general crisis.",
+      "source_references": [
+        "Fiscal crisis",
+        "Economic continuity",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ASHOKAN PACIFISM HYPOTHESIS UNDER EVIDENCE TEST",
+      "structural_type": "objection-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ASHOKAN PACIFISM HYPOTHESIS UNDER EVIDENCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DHAMMA AND NONVIOLENCE WEAKENED MILITARY PREPAREDNESS.",
+          "role": "outcome"
+        },
+        {
+          "text": "ROCK EDICT XIII RETAINS WARNING TO FOREST PEOPLES ARMY",
+          "role": "comparison"
+        },
+        {
+          "text": "PILLAR EDICT IV PRESUPPOSES PUNISHMENT AND CAPITAL PENALTY",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFE VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "RENUNCIATION OF AGGRESSIVE CONQUEST MAY AFFECT FRONTIER POSTURE, BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "ETHICAL POLICY AND COERCIVE SOVEREIGNTY COEXISTED.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLAIM: dhamma and nonviolence weakened military preparedness.",
+        "Rock Edict XIII retains warning to forest peoples army and coercive offices were not abolished",
+        "Pillar Edict IV presupposes punishment and capital penalty",
+        "SAFE VERDICT: renunciation of aggressive conquest may affect frontier posture, but no evidence shows total",
+        "Ethical policy and coercive sovereignty coexisted."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CLAIM: dhamma and nonviolence weakened military preparedness.",
+            "Rock Edict XIII retains warning to forest peoples army and coercive offices were not abolished"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "Pillar Edict IV presupposes punishment and capital penalty",
+            "SAFE VERDICT: renunciation of aggressive conquest may affect frontier posture, but no evidence shows total demilitarisation or a helpless state."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Ethical policy and coercive sovereignty coexisted.",
+            "CLAIM: dhamma and nonviolence weakened military preparedness."
+          ]
+        }
+      ],
+      "mechanism_strip": "SAFE VERDICT: renunciation of aggressive conquest may affect frontier posture, but no evidence shows total demilitarisation or a helpless state.",
+      "answer_line": "renunciation of aggressive conquest may affect frontier posture, but no evidence shows total demilitarisation or a helpless state.",
+      "source_references": [
+        "Pacifism debate",
+        "Coercion after Kalinga",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BRAHMANICAL REACTION HYPOTHESIS UNDER EVIDENCE TEST",
+      "structural_type": "objection-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BRAHMANICAL REACTION HYPOTHESIS UNDER EVIDENCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "SACRIFICE RESTRICTIONS AND HETERODOX PATRONAGE CAUSED BRAHMANA REVOLT.",
+          "role": "outcome"
+        },
+        {
+          "text": "SOME RITUAL SPECIALISTS MAY HAVE FACED GRIEVANCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "EDICTS REPEATEDLY RESPECT BRAHMANAS AND SHRAMANAS NO DIRECT EVIDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "DASHARATHA CONTINUED AJIVIKA PATRONAGE AFTER ASHOKA",
+          "role": "primary"
+        },
+        {
+          "text": "PUSHYAMITRA'S IDENTITY AND RITES DO NOT BY THEMSELVES EXPLAIN",
+          "role": "caution"
+        },
+        {
+          "text": "BOUNDED GRIEVANCE HYPOTHESIS, NOT A PROVEN MONOCAUSAL REVOLUTION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIM: sacrifice restrictions and heterodox patronage caused Brahmana revolt.",
+        "POSSIBLE: some ritual specialists may have faced grievance.",
+        "edicts repeatedly respect Brahmanas and shramanas no direct evidence proves an empirewide organised reaction",
+        "Dasharatha continued Ajivika patronage after Ashoka",
+        "Pushyamitra's identity and rites do not by themselves explain earlier decline."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CLAIM: sacrifice restrictions and heterodox patronage caused Brahmana revolt.",
+            "POSSIBLE: some ritual specialists may have faced grievance."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "edicts repeatedly respect Brahmanas and shramanas no direct evidence proves an empirewide organised reaction",
+            "Dasharatha continued Ajivika patronage after Ashoka"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Pushyamitra's identity and rites do not by themselves explain earlier decline.",
+            "VERDICT: bounded grievance hypothesis, not a proven monocausal revolution."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: bounded grievance hypothesis, not a proven monocausal revolution.",
+      "answer_line": "bounded grievance hypothesis, not a proven monocausal revolution.",
+      "source_references": [
+        "Brahmanical reaction",
+        "Religious policy",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REGIONAL AGENCY AND FRONTIER PRESSURE",
+      "structural_type": "spatial-causal-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "REGIONAL AGENCY AND FRONTIER PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTANCE + BACTRIAN GREEK PRESSURE + CHANGING FRONTIER ALLIANCES",
+          "role": "outcome"
+        },
+        {
+          "text": "CONQUERED REGION REQUIRING CORRECTIVE GOVERNANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENTIATED PENETRATION AND GROWING REGIONAL CAPACITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "GANGA CORE",
+          "role": "primary"
+        },
+        {
+          "text": "COURT SUCCESSION AND DYNASTIC TERMINATION REGIONAL ELITES REDIRECT REVENUE",
+          "role": "institution"
+        },
+        {
+          "text": "EMPIRE FRAGMENTS THROUGH SEVERAL THEATRES; ONE CAUSE CANNOT FIT",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST: distance + Bactrian Greek pressure + changing frontier alliances",
+        "KALINGA: conquered region requiring corrective governance",
+        "DECCAN/SOUTH: differentiated penetration and growing regional capacities",
+        "GANGA CORE: court succession and dynastic termination regional elites redirect revenue, troops and legitimacy",
+        "Empire fragments through several theatres; one cause cannot fit all regions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST: distance + Bactrian Greek pressure + changing frontier alliances",
+            "KALINGA: conquered region requiring corrective governance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DECCAN/SOUTH: differentiated penetration and growing regional capacities",
+            "GANGA CORE: court succession and dynastic termination regional elites redirect revenue, troops and legitimacy"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Empire fragments through several theatres; one cause cannot fit all regions.",
+            "NORTH-WEST: distance + Bactrian Greek pressure + changing frontier alliances"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Empire fragments through several theatres; one cause cannot fit all regions.",
+      "source_references": [
+        "Regionalisation",
+        "External pressure",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MULTI-CAUSAL DECLINE MECHANISM",
+      "structural_type": "causal-web",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MULTI-CAUSAL DECLINE MECHANISM",
+          "role": "caution"
+        },
+        {
+          "text": "SUCCESSION SHOCKS ---- WEAK COORDINATION ---- PROVINCIAL ASSERTION FISCAL/EXTRACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "FINAL COUP ENDS DYNASTY; IT DOES NOT SINGLE-HANDEDLY CAUSE",
+          "role": "caution"
+        },
+        {
+          "text": "COSTS -- FRONTIER PRESSURE DECLINING COERCIVE AND SYMBOLIC INTEGRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUCCESSION SHOCKS ---- weak coordination ---- provincial assertion fiscal/extraction strain -- communication",
+        "costs -- frontier pressure declining coercive and symbolic integration uneven imperial fragmentation",
+        "Final coup ends dynasty; it does not single-handedly cause the whole process."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SUCCESSION SHOCKS ---- weak coordination ---- provincial assertion fiscal/extraction strain -- communication",
+            "costs -- frontier pressure declining coercive and symbolic integration uneven imperial fragmentation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Final coup ends dynasty; it does not single-handedly cause the whole process.",
+            "SUCCESSION SHOCKS ---- weak coordination ---- provincial assertion fiscal/extraction strain -- communication"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "costs -- frontier pressure declining coercive and symbolic integration uneven imperial fragmentation",
+            "Final coup ends dynasty; it does not single-handedly cause the whole process."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Final coup ends dynasty; it does not single-handedly cause the whole process.",
+      "source_references": [
+        "Multi-causal synthesis",
+        "Decline mechanism",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONTINUITY THROUGH TRANSFORMATION",
+      "structural_type": "legacy-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONTINUITY THROUGH TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "ASHOKAN BRICK CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHUNGA ENLARGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER GATEWAYS AND SHRINES",
+          "role": "evidence"
+        },
+        {
+          "text": "LION CAPITAL",
+          "role": "primary"
+        },
+        {
+          "text": "MODERN NATIONAL EMBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "BRAHMI AND ROYAL INSCRIPTIONAL VISIBILITY CONTINUE IN NEW GENRES",
+          "role": "comparison"
+        },
+        {
+          "text": "MATERIAL NETWORKS OUTLIVE THE DYNASTY UNEVENLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SANCHI: Ashokan brick core → Shunga enlargement → later gateways and shrines",
+        "SARNATH: lion capital → modern national emblem",
+        "EPIGRAPHY: Brahmi and royal inscriptional visibility continue in new genres",
+        "ROUTES/TOWNS: material networks outlive the dynasty unevenly",
+        "RELIGION: Buddhist, Ajivika and other institutions continue and change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SANCHI: Ashokan brick core → Shunga enlargement → later gateways and shrines",
+            "SARNATH: lion capital → modern national emblem",
+            "EPIGRAPHY: Brahmi and royal inscriptional visibility continue in new genres"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ROUTES/TOWNS: material networks outlive the dynasty unevenly",
+            "RELIGION: Buddhist, Ajivika and other institutions continue and change",
+            "POLITY: regional states reuse selected capacities, not a complete Mauryan template"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Continuity is adaptation and reinterpretation, not unchanged survival.",
+            "Political fragmentation can coexist with economic and cultural persistence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Political fragmentation can coexist with economic and cultural persistence.",
+      "source_references": [
+        "Legacy",
+        "Sanchi and Sarnath",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY SIGNIFICANCE AND DECLINE SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY SIGNIFICANCE AND DECLINE SPINE",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE DYNASTY, EMPIRE AND LEGACY; DATE ASHOKA'S DEATH AND",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 1",
+          "role": "comparison"
+        },
+        {
+          "text": "SIGNIFICANCE IN SCALE, INSCRIPTIONS, DHAMMA, ROUTES AND MONUMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 2",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSION AND INSTITUTIONAL VULNERABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 3",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL, PACIFISM AND BRAHMANICAL-REACTION HYPOTHESES TESTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTRO: separate dynasty, empire and legacy; date Ashoka's death and final boundary.",
+        "BODY 1: significance in scale, inscriptions, dhamma, routes and monuments",
+        "BODY 2: succession and institutional vulnerability",
+        "BODY 3: fiscal, pacifism and Brahmanical-reaction hypotheses tested",
+        "BODY 4: regional agency, frontier pressure and differentiated chronology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INTRO: separate dynasty, empire and legacy; date Ashoka's death and final boundary.",
+            "BODY 1: significance in scale, inscriptions, dhamma, routes and monuments",
+            "BODY 2: succession and institutional vulnerability"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 3: fiscal, pacifism and Brahmanical-reaction hypotheses tested",
+            "BODY 4: regional agency, frontier pressure and differentiated chronology",
+            "COUNTER: thin sources and continuing economy/culture"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONCLUSION: interacting causes dissolved integration; legacy survived selectively.",
+            "WRITE: hypothesis → evidence → mechanism → counter-evidence → graded verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "WRITE: hypothesis → evidence → mechanism → counter-evidence → graded verdict.",
+      "answer_line": "hypothesis → evidence → mechanism → counter-evidence → graded verdict.",
+      "source_references": [
+        "Mains answer architecture",
+        "Consolidated register notes",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-15\\g3\\ancient-indian-history-15_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Edict-bearing Ashokan pillars were imperial monuments carrying the king's unique message to his people.",
+            "Mauryan emperors were not insular; they looked beyond the subcontinent, especially in Ashoka's moral diplomacy.",
+            "Mauryan art was linked to political ideology, religious practice and royal patronage.",
+            "The most imposing surviving remains are associated with the Maurya kings, especially Ashoka."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "geography-05-09-learner-v2-2026-09-01-completion",
+  "passed": true,
+  "test_count": 52,
+  "topic_count": 5,
+  "topics": [
+    {
+      "topic_key": "geography-05",
+      "generation": 2,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-05\\geography-05_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-05\\geography-05_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 66,
+      "workbook_pages": 30,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "geography-06",
+      "generation": 2,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-06\\geography-06_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-06\\geography-06_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 62,
+      "workbook_pages": 29,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "geography-07",
+      "generation": 2,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-07\\geography-07_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-07\\geography-07_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 58,
+      "workbook_pages": 26,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "geography-08",
+      "generation": 2,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-08\\geography-08_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-08\\geography-08_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 57,
+      "workbook_pages": 27,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "geography-09",
+      "generation": 2,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-09\\geography-09_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-09\\geography-09_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 61,
+      "workbook_pages": 30,
+      "ascii_panels": 12,
+      "mcqs": 80
+    }
+  ],
+  "changed_files_manifest": "upsc-ai-kit/manifests/exports/geography-05-09-learner-v2-2026-09-01-changed-files.txt"
+}

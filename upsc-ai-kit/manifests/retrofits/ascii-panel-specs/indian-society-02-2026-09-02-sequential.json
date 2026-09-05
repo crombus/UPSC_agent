@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Indian Society learner-v2 Topic 02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-02",
+      "display_title": "Caste System: Structure and Contemporary Dynamics",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\02_Caste-System-Structure-and-Contemporary-Dynamics_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Level of analysis",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "VARNA -> four-fold textual ideal type, normative",
+            "JATI -> local endogamous birth group, observable",
+            "SUB-JATI -> narrower endogamy circle inside a jati",
+            "RULE -> answer at the jati level, argue with the varna template"
+          ],
+          "source_references": [
+            "Varna, jati and the level problem"
+          ]
+        },
+        {
+          "title": "Four features and their rate of change",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "ENDOGAMY -> most consistently observed, changes least",
+            "HIERARCHY -> locally ranked by purity and pollution",
+            "HEREDITARY MEMBERSHIP -> fixed by birth",
+            "OCCUPATION LINK -> weakest joint, broken by urban work"
+          ],
+          "source_references": [
+            "The four defining features",
+            "Occupational decoupling"
+          ]
+        },
+        {
+          "title": "Marriage rules that operate together",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CASTE ENDOGAMY -> marry within the jati",
+            "GOTRA EXOGAMY -> marry outside the clan lineage",
+            "RESULT -> a bounded but non-consanguineous marriage circle",
+            "CONSEQUENCE -> caste is reproduced generation by generation"
+          ],
+          "source_references": [
+            "Endogamy and gotra exogamy"
+          ]
+        },
+        {
+          "title": "Mobility strategies",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SANSKRITISATION -> emulate a locally higher-status caste",
+            "EFFECT -> claims rank inside the existing hierarchy",
+            "WESTERNISATION -> new values from Western contact",
+            "EFFECT -> can subvert the hierarchy rather than confirm it"
+          ],
+          "source_references": [
+            "Sanskritisation",
+            "Westernisation and the contrast"
+          ]
+        },
+        {
+          "title": "Dominant caste test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NUMBERS -> is the caste locally numerous",
+            "LAND -> does it hold a significant share of local land",
+            "OFFICE -> does it control political and Panchayat positions",
+            "VERDICT -> dominance can sit below the ritual top"
+          ],
+          "source_references": [
+            "The dominant caste",
+            "Srinivas's village evidence"
+          ]
+        },
+        {
+          "title": "Caste and class",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "OVERLAP -> caste rank and economic class coincide locally",
+            "CROSS-CUTTING -> rich and poor households inside one caste",
+            "DRIVER -> urban employment and market credentials",
+            "LIMIT -> the overlap is loosening, not abolished"
+          ],
+          "source_references": [
+            "Caste and class"
+          ]
+        },
+        {
+          "title": "Associational reinvention",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "WEAKENED -> occupational allocation and public purity enforcement",
+            "REPLACED BY -> caste associations, trusts and electoral blocs",
+            "UNCHANGED -> endogamy and intimate-sphere discrimination",
+            "VERDICT -> change of register, not disappearance"
+          ],
+          "source_references": [
+            "Associational caste"
+          ]
+        },
+        {
+          "title": "Fluid and static resolved by level",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "STATIC LAYER -> endogamy, hereditary membership, segregation",
+            "FLUID LAYER -> rank claims, dominance, market mobility",
+            "WHY -> rank is locally constructed, boundary is marital",
+            "ANSWER -> the paradox is a level distinction, not a contradiction"
+          ],
+          "source_references": [
+            "The fluid-and-static paradox"
+          ]
+        },
+        {
+          "title": "Identity axes by arena",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MARRIAGE -> jati and sub-jati decide the boundary",
+            "SHRINE AND DEVOTION -> sect through doctrine and lineage",
+            "ELECTORAL MOBILISATION -> jati clusters and religion",
+            "DEVELOPMENT GRIEVANCE -> region and language"
+          ],
+          "source_references": [
+            "Sect, caste and arena-specific salience"
+          ]
+        },
+        {
+          "title": "Two marriage boundaries",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "INTERCASTE -> parity protects status and resource base",
+            "INTERRELIGIOUS -> belonging, kinship and community sanction",
+            "CIVIL ROUTE -> Special Marriage Act, 1954 exists across religions",
+            "VERDICT -> different guards, therefore different speeds"
+          ],
+          "source_references": [
+            "Marriage boundaries and the civil route"
+          ]
+        },
+        {
+          "title": "Measurement status",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PIB 30 APRIL 2025 -> caste enumeration announced for Census 2027",
+            "GAZETTE S.O. 2681(E) -> fixes the reference dates",
+            "STATUS -> prospective, so no caste count may be quoted",
+            "LIMIT -> not India's first historical caste enumeration"
+          ],
+          "source_references": [
+            "Measurement status and the complete answer spine"
+          ]
+        },
+        {
+          "title": "Caste answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the level and the demand family",
+            "BODY -> structure, mobility, dominance, association",
+            "TENSION -> what changed against what did not",
+            "CLOSE -> arena-specific verdict with the measurement caveat"
+          ],
+          "source_references": [
+            "Measurement status and the complete answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

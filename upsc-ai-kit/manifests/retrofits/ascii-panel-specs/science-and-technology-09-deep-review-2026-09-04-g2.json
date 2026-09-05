@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-09",
+      "display_title": "Artificial Intelligence Governance and IndiaAI",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "AI taxonomy ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARTIFICIAL INTELLIGENCE -> broad task-performing systems",
+            "MACHINE LEARNING -> patterns learned from data",
+            "DEEP LEARNING -> multilayer neural networks",
+            "GENERATIVE AI -> creates text, image, audio or code",
+            "RULE -> identify method, task and evidence before impact"
+          ],
+          "source_references": [
+            "AI-taxonomy boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Capability-to-deployment ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "RESEARCH CLAIM -> proposed method",
+            "BENCHMARK RESULT -> bounded evaluation",
+            "PROTOTYPE -> integrated demonstration",
+            "DEPLOYMENT -> real workflow with users and monitoring",
+            "OUTCOME -> measured benefit and harm after use"
+          ],
+          "source_references": [
+            "Capability-deployment boundary",
+            "Prediction-causation boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Foundation-model risk tree",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "PRETRAINED FOUNDATION MODEL -> broad downstream reuse",
+            "DATA / LICENCE -> provenance constraints",
+            "BIAS / SAFETY -> inherited application risk",
+            "HALLUCINATION -> fluent output without verification",
+            "CONTROL -> grounding, evaluation and human review"
+          ],
+          "source_references": [
+            "Foundation-model boundary",
+            "Hallucination-boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "IndiaAI institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MeitY -> ministry policy and rule-making anchor",
+            "INDIAAI / DIGITAL INDIA CORPORATION -> mission implementation",
+            "NITI AAYOG -> earlier strategy and think-tank role",
+            "SECTOR REGULATOR / DEPARTMENT -> deployment obligations",
+            "RULE -> strategy, mission, regulator and law stay separate"
+          ],
+          "source_references": [
+            "IndiaAI-mission boundary",
+            "Implementation-institution boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mission pillar wheel",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "COMPUTE + INNOVATION CENTRE + APPLICATIONS",
+            "AIKOSH + STARTUP FINANCING + FUTURESKILLS",
+            "SAFE AND TRUSTED AI -> governance tools and evaluation",
+            "PILLAR -> implementation domain",
+            "TRAP -> pillar name is not completed output"
+          ],
+          "source_references": [
+            "IndiaAI-mission boundary",
+            "Pillar-status boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Compute measurement firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GPU OBJECTIVE -> planned hardware measure",
+            "EMPANELLED CAPACITY -> procurement availability",
+            "COMPUTE UNIT -> provider-defined service measure",
+            "BOOKED / USED CAPACITY -> actual access or consumption",
+            "RULE -> never convert one measure into another"
+          ],
+          "source_references": [
+            "Compute-measure boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "AIKosh evidence gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DATASET LISTING -> discoverability",
+            "PROVENANCE / LICENCE -> lawful origin and permitted use",
+            "QUALITY / REPRESENTATION -> fitness for Indian context",
+            "ACCESS / SECURITY -> controlled use",
+            "OUTCOME -> platform presence alone proves none of these"
+          ],
+          "source_references": [
+            "AIKosh-data boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Use-case deployment chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PUBLIC PROBLEM -> define legitimate objective",
+            "DATA + MODEL -> build or procure component",
+            "INTERFACE + HUMAN WORKFLOW -> operational decision",
+            "MONITORING + APPEAL -> accountability after output",
+            "RULE -> model capability is not service outcome"
+          ],
+          "source_references": [
+            "Use-case-model boundary",
+            "Decision-support boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Risk lifecycle",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PROBLEM SELECTION -> exclusion or mission creep",
+            "DATA / TRAINING -> bias, privacy and provenance",
+            "EVALUATION / PROCUREMENT -> hidden failure or lock-in",
+            "DEPLOYMENT / UPDATE -> automation bias and drift",
+            "CONTROL -> impact assessment, logs, incidents and review"
+          ],
+          "source_references": [
+            "Risk-lifecycle boundary",
+            "Procurement-accountability boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Risk and control matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BIAS -> representative tests and remedy",
+            "PRIVACY -> lawful purpose and minimisation",
+            "SECURITY -> access control and resilience",
+            "SAFETY / OPACITY -> evaluation, explanation and escalation",
+            "MISINFORMATION -> provenance, labelling and enforcement",
+            "MUST REMEMBER: AI analysis separates model, training/inference, data, application,..."
+          ],
+          "source_references": [
+            "Bias-fairness boundary",
+            "Privacy-security boundary",
+            "Deepfake-instrument boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-09_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Instrument hierarchy",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ADVISORY -> persuasive communication",
+            "CONSULTATION REPORT / GUIDELINE -> non-binding framework",
+            "NOTIFIED RULE -> binding under parent Act",
+            "ACT -> primary legislation",
+            "SECTORAL LAW -> context-specific enforceable duty",
+            "CLOSE DISTINCTION: Model is not application, benchmark is not real-world safety, compute..."
+          ],
+          "source_references": [
+            "Guideline-law boundary",
+            "Sectoral-governance boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-09_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "AI governance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> method, model, use case and deployment",
+            "MAP -> mission pillar, ministry, implementer and regulator",
+            "TRACE -> data, model, procurement, decision and monitoring",
+            "RETAIN -> human reasons, contestability and remedy",
+            "VERIFY -> outlay, compute, model and summit status officially",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State model type, task, dataset/metric,..."
+          ],
+          "source_references": [
+            "Procurement-accountability boundary",
+            "Sectoral-governance boundary",
+            "Volatile-mission boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g2\\science-and-technology-09_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-09_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

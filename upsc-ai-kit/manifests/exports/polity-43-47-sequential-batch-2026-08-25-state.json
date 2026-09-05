@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-43-47-sequential-batch-2026-08-25",
+  "created_at": "2026-08-25T11:51:59+05:30",
+  "strict_order": [
+    "polity-43",
+    "polity-44",
+    "polity-45",
+    "polity-46",
+    "polity-47"
+  ],
+  "topics": [
+    {
+      "topic_key": "polity-43",
+      "title": "Political Parties",
+      "started_at": "2026-08-25T11:24:25+05:30",
+      "completed_at": "2026-08-25T11:27:19.456302+05:30",
+      "record_id": "polity-43:learner-v2:g2",
+      "counts": {
+        "sessions": 15,
+        "main_pdf_pages": 53,
+        "workbook_pdf_pages": 17,
+        "mcqs": 48,
+        "verified_pyqs": 1,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-43-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-43-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-43-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g2"
+      },
+      "factual_caveat": "India has no comprehensive constitutional party code. Registration, recognition, finance, defection and candidate disclosure arise from different legal instruments. The ECI cannot use Section 29A as a general merits-based deregistration power, and the electoral-bonds judgment did not create a complete campaign-finance code.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T11:24:25+05:30",
+        "A_completed": "2026-08-25T11:24:27+05:30",
+        "B_completed": "2026-08-25T11:24:29+05:30",
+        "C_completed": "2026-08-25T11:24:29+05:30",
+        "D_completed": "2026-08-25T11:24:29+05:30",
+        "E_completed": "2026-08-25T11:24:29+05:30",
+        "F_completed": "2026-08-25T11:24:59+05:30",
+        "G_completed": "2026-08-25T11:24:59+05:30",
+        "H_completed": "2026-08-25T11:27:05+05:30",
+        "I_completed": "2026-08-25T11:27:19.456302+05:30",
+        "J_completed": "2026-08-25T11:27:19.456302+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\43-Political-Parties",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-43-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30"
+    },
+    {
+      "topic_key": "polity-44",
+      "title": "Pressure Groups",
+      "started_at": "2026-08-25T11:31:50+05:30",
+      "completed_at": "2026-08-25T11:35:07.287928+05:30",
+      "record_id": "polity-44:learner-v2:g2",
+      "counts": {
+        "sessions": 19,
+        "main_pdf_pages": 55,
+        "workbook_pdf_pages": 17,
+        "mcqs": 48,
+        "verified_pyqs": 3,
+        "supporting_pyqs": 0,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-44-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-44-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-44-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-44-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-44.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g2"
+      },
+      "factual_caveat": "Pressure groups seek policy influence without assuming governmental office. Political parties, movements, NGOs, lobbyists and interest groups overlap in practice but are not synonyms. Protest remains subject to reasonable restrictions, and dated movements or funding rules are not converted into permanent generalisations.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T11:31:50+05:30",
+        "A_completed": "2026-08-25T11:31:54+05:30",
+        "B_completed": "2026-08-25T11:31:56+05:30",
+        "C_completed": "2026-08-25T11:31:56+05:30",
+        "D_completed": "2026-08-25T11:31:56+05:30",
+        "E_completed": "2026-08-25T11:31:56+05:30",
+        "F_completed": "2026-08-25T11:32:24+05:30",
+        "G_completed": "2026-08-25T11:32:24+05:30",
+        "H_completed": "2026-08-25T11:34:33+05:30",
+        "I_completed": "2026-08-25T11:35:07.287928+05:30",
+        "J_completed": "2026-08-25T11:35:07.287928+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 3,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\44-Pressure-Groups",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-44-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30"
+    },
+    {
+      "topic_key": "polity-45",
+      "title": "National Integration and Foreign Policy",
+      "started_at": "2026-08-25T11:35:11+05:30",
+      "completed_at": "2026-08-25T11:38:29.722762+05:30",
+      "record_id": "polity-45:learner-v2:g2",
+      "counts": {
+        "sessions": 17,
+        "main_pdf_pages": 55,
+        "workbook_pdf_pages": 18,
+        "mcqs": 48,
+        "verified_pyqs": 0,
+        "supporting_pyqs": 3,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\45-National-Integration-and-Foreign-Policy",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-45-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-45-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-45-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-45.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g2"
+      },
+      "factual_caveat": "National integration is constitutional accommodation, equal citizenship and civic fraternity, not cultural uniformity or unrestricted coercion. Article 51 is a non-justiciable directive; treaty-making and foreign-policy doctrines remain executive policy unless domestic law gives them legal effect.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T11:35:11+05:30",
+        "A_completed": "2026-08-25T11:35:35+05:30",
+        "B_completed": "2026-08-25T11:35:39+05:30",
+        "C_completed": "2026-08-25T11:35:39+05:30",
+        "D_completed": "2026-08-25T11:35:39+05:30",
+        "E_completed": "2026-08-25T11:35:39+05:30",
+        "F_completed": "2026-08-25T11:36:10+05:30",
+        "G_completed": "2026-08-25T11:36:10+05:30",
+        "H_completed": "2026-08-25T11:38:16+05:30",
+        "I_completed": "2026-08-25T11:38:29.722762+05:30",
+        "J_completed": "2026-08-25T11:38:29.722762+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 3,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\45-National-Integration-and-Foreign-Policy",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-45-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30"
+    },
+    {
+      "topic_key": "polity-46",
+      "title": "Administrative Tribunals",
+      "started_at": "2026-08-25T11:40:44+05:30",
+      "completed_at": "2026-08-25T11:43:58.659098+05:30",
+      "record_id": "polity-46:learner-v2:g2",
+      "counts": {
+        "sessions": 16,
+        "main_pdf_pages": 53,
+        "workbook_pdf_pages": 18,
+        "mcqs": 48,
+        "verified_pyqs": 3,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\46-Administrative-Tribunals",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-46-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-46-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-46-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-46.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g2"
+      },
+      "factual_caveat": "Tribunals supplement specialist adjudication; they do not replace High Courts or the Supreme Court. L. Chandra Kumar preserves Articles 226/227 review. CAT, SATs, other Article 323B tribunals, commissions, courts and Lok Adalats must not be collapsed into one institutional category.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T11:40:44+05:30",
+        "A_completed": "2026-08-25T11:41:08+05:30",
+        "B_completed": "2026-08-25T11:41:10+05:30",
+        "C_completed": "2026-08-25T11:41:10+05:30",
+        "D_completed": "2026-08-25T11:41:10+05:30",
+        "E_completed": "2026-08-25T11:41:10+05:30",
+        "F_completed": "2026-08-25T11:41:40+05:30",
+        "G_completed": "2026-08-25T11:41:40+05:30",
+        "H_completed": "2026-08-25T11:43:46+05:30",
+        "I_completed": "2026-08-25T11:43:58.659098+05:30",
+        "J_completed": "2026-08-25T11:43:58.659098+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 4,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\46-Administrative-Tribunals",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-46-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30"
+    },
+    {
+      "topic_key": "polity-47",
+      "title": "Comparative Constitutional Design",
+      "started_at": "2026-08-25T11:48:09+05:30",
+      "completed_at": "2026-08-25T11:51:59+05:30",
+      "gate_times": {
+        "A_started": "2026-08-25T11:48:09+05:30",
+        "A_completed": "2026-08-25T11:48:33+05:30",
+        "B_completed": "2026-08-25T11:48:35+05:30",
+        "C_completed": "2026-08-25T11:48:35+05:30",
+        "D_completed": "2026-08-25T11:48:35+05:30",
+        "E_completed": "2026-08-25T11:48:35+05:30",
+        "F_completed": "2026-08-25T11:51:18+05:30",
+        "G_completed": "2026-08-25T11:51:18+05:30",
+        "H_completed": "2026-08-25T11:51:23+05:30",
+        "I_completed": "2026-08-25T11:51:56+05:30",
+        "J_completed": "2026-08-25T11:51:59+05:30"
+      },
+      "record_id": "polity-47:learner-v2:g2",
+      "approved": false,
+      "counts": {
+        "sessions": 47,
+        "main_pdf_pages": 103,
+        "workbook_pdf_pages": 19,
+        "mcqs": 48,
+        "verified_pyqs": 8,
+        "supporting_pyqs": 0,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 8,
+        "original_mains_authored": 8
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design",
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\47-Comparative-Constitutional-Design",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-47-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-47-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-47-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-47-flow-learning-2026-08-25-validation.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g2"
+      },
+      "factual_caveat": "India borrowed constitutional techniques but adapted them to a written, supreme, federal-parliamentary and judicially reviewable Constitution. Comparison must identify function, context and Indian adaptation; the Indian President is not a US President, Rajya Sabha is not a US Senate, and Directive Principles are not an operational copy of Ireland.",
+      "gates_passed": 10,
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30"
+    }
+  ],
+  "existing_clean_topic_artifact_count": 600,
+  "existing_flow_topic_artifact_count": 225,
+  "existing_clean_hash_mismatches": [],
+  "existing_flow_hash_mismatches": [],
+  "prior_generated_topic_hash_mismatches": []
+}

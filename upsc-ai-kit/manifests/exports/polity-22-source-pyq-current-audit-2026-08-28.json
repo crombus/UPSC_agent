@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-22",
+  "record_id": "polity-22:learner-v2:g4",
+  "reviewed_on": "2026-08-28",
+  "constitutional_scope": "Articles 371-371J with bounded Article 370/35A and Fifth/Sixth Schedule interfaces",
+  "verified_controls": [
+    "Exact State, amendment origin, constitutional actor and mechanism for Articles 371-371J",
+    "In re Article 370 (2023) holdings and unresolved State-to-UT question",
+    "J&K remains UT with legislature; Ladakh remains UT without legislature; no enacted Statehood/Sixth Schedule change as of review date",
+    "AP Administrative Tribunal abolished by G.S.R. 30(E), 14 January 2020",
+    "Kalyana Karnataka current nomenclature distinguished from Article 371J constitutional wording"
+  ],
+  "pyq_profile": "One cross-owned 2025 Mains application and four routed Prelims demands with provenance limits.",
+  "result": "passed"
+}

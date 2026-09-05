@@ -1,0 +1,147 @@
+{
+  "record_id": "world-history-21:learner-v2:g2",
+  "topic_key": "world-history-21",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "world-history-21:learner-v2:g1",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Cold War End and New World Order — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "world-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [
+      "https://diplomacy.state.gov/about-nmad/",
+      "https://diplomacy.state.gov/berlin-wall/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md": "7589754228c225bb2567fd6771ae23d058645ec486aa4db9935b5260ebcdf927",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md": "caf95ab08bdd0be7dba2e4f9e780d76846447e7a174976b62fd0f17d1f07220e",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "The U.S. State Department's National Museum of American Diplomacy is scheduled to open to the public in October 2026 and houses a signed Berlin Wall segment associated with major actors in the diplomacy of 1989-91 and German reunification. This supplies a narrow public-history link to renewed attention to Cold War-ending diplomacy; the object is not evidence for a single-cause account of the Cold War's end or a single-cause 'new world order'.",
+    "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. All six Mains demands are original practice.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "ae0868b2e42e623e6630a31aeb0ad17c4eec443c7adfcf8feea00fa515ca3161",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Solved-Practice-Workbook_2026-09-01.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-21-g2.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-21-deep-review-2026-09-01-g2.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md": "ab397b7ab20226cad81df93f2b26858a9e008a1ab89cf2b211d4e4ae51eba32a",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Solved-Practice-Workbook_2026-09-01.md": "6a1abd1da94b05fbe255d5d5423226c7b623b24afb337dd35497855ee23a101c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.pdf": "23ab5425fa31691225068a5227b5abadd219da7d84a2abdf71ec073b421ec40e",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Solved-Practice-Workbook_2026-09-01.pdf": "fce6a5469fb5ae8c4870a2f05a367cfc602b031a314f590ab447e446bbf23a5e",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\validation\\main-visual-audit-map.json": "458cffd0573b64d21210c35c946c947ef7e1e764c4f202fecfbe331d67e1aa40",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\validation\\workbook-visual-audit-map.json": "09c1cb7f23320879d8faf26a2adf5e60061f0c6da6999c9bb46fd8d7b4e6dee7",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-21-deep-review-2026-09-01-g2.json": "7e9722dae960d557e2b4ea79dc476bb7abf9557545c67232a0718bdb18af77ac",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-21-g2.json": "646d2ff8985b5f9602fb50c57742c45e60e415dbe4540042a525ad35abf6d954",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\assets\\world-history-21_Teaching-Navigation_2026-09-01.png": "3fd2895e854023344dc49b7b135357f45b86048d979404ef5601a639fad908b1",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\ascii-master.pdf": "9e8728c5aa18c8f53318bd327b822ec7dfe6921eadd9cbec549ca56fa4da181e",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\ascii-master.txt": "58a3e32a5bacfc1035d2b1d1a67c3f4ec9ea95ec720220cdaaa128d050802bc9",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\build-audit.json": "b8357e64d5c6e1e34f2d8d542496cd470603d0d2771367a4e5dbe0a4b87b60ba",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\master.png": "c589fdfecbaa04d7945c3df8728119749cbef23a9a23f5f7d5b86b4ac1597967",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\poster.pdf": "c53bcfee37f2953771ea019742ebde210d72a1a30920891a275e4501a6f4d871",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\preservation-hashes.json": "da71bcff1619b03d2c694b41919838f320e221b9c960745e46db03a9fe661a13",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\README.txt": "589d49d89b4146f1058de183902158382a3a817bc8ac19c73ebc1711cab44d6f",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\tiled.pdf": "98b22c1e5705685166c3168ca14f7bddca611a72bba13d71c97c6947cdae711b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\validation-report.txt": "ee8ab2e0c8bf8333e763d086246307526982ee2290c0839651b73a57e08195a3",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\editable\\topic-spec.json": "646d2ff8985b5f9602fb50c57742c45e60e415dbe4540042a525ad35abf6d954",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\contact-sheet-01.png": "730e3a8ef66f6e8ae5b66e00c60759e363600416ae2786c8773828b583e9d1d7",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\master-overview.png": "6bc5cf9b2d059b681b93fe0140051040207bea2e372dd500e5186c8123dbadbb",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\page-001.png": "1049e6ddb061ac60e462c5da578030d53c6ae9df8128245af43317705b7b756c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\page-002.png": "276cd50578c3beff9b60a2514472ad63687bf485ce020df9c439ae3c0f0c39b5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\page-003.png": "f43500da4de5ade724f84bb0e3b0d7bd5bdf4d23f0652cf4dbd0614c867aa746",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\page-004.png": "721deb9b6581d09addda14b5173cf796aeb52d5e723472d4f6da4c1c0737fe0c",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-21-g2.json": "fb1849148c482ab96522ca5c9e47d734bc4bca49c745f8179273ad59edc2652d"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-21:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "regenerate_world_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-21-g2.json",
+    "graphical_spec_sha256": "646d2ff8985b5f9602fb50c57742c45e60e415dbe4540042a525ad35abf6d954",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-21-deep-review-2026-09-01-g2.json",
+    "ascii_master_spec_sha256": "7e9722dae960d557e2b4ea79dc476bb7abf9557545c67232a0718bdb18af77ac",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-21\\carvaka-g2\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-world-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

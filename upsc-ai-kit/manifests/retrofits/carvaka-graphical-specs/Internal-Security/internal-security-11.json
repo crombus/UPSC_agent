@@ -1,0 +1,1051 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-11",
+  "subject": "Internal-Security",
+  "title": "ORGANISED CRIME, NARCO-TERRORISM AND TRAFFICKING",
+  "short_route": "ENTERPRISE STRUCTURE MAP → CRIME-TERROR NEXUS MATRIX → REGIONAL-MODEL DIAGNOSTIC → ROUTE-GEOGRAPHY FIREWALL → SAFE SUPPLY-CHAIN MAP → NDPS PROPERTY LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-11_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-11-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "a19864a575e57b6fe41e2eb1cc8f2382ada4e6c68269007737cb0d8e1377d096",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ENTERPRISE STRUCTURE MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ENTERPRISE STRUCTURE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ISOLATED OFFENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE EVENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FLEXIBLE TASK-BASED LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUING ORGANISED ASSOCIATION",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISED CRIME",
+          "role": "outcome"
+        },
+        {
+          "text": "COORDINATED SERIOUS CRIME FOR MATERIAL BENEFIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ISOLATED OFFENCE → one event",
+        "NETWORK → flexible task-based links",
+        "SYNDICATE → continuing organised association",
+        "ORGANISED CRIME → coordinated serious crime for material benefit"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "ISOLATED OFFENCE → one event",
+          "SYNDICATE → continuing organised association",
+          "ISOLATED OFFENCE → one event"
+        ],
+        [
+          "NETWORK → flexible task-based links",
+          "ORGANISED CRIME → coordinated serious crime for material benefit",
+          "NETWORK → flexible task-based links"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ISOLATED OFFENCE → one event",
+            "NETWORK → flexible task-based links"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SYNDICATE → continuing organised association",
+            "ORGANISED CRIME → coordinated serious crime for material benefit"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "ISOLATED OFFENCE → one event",
+            "NETWORK → flexible task-based links"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ORGANISED CRIME → coordinated serious crime for material benefit.",
+      "source_references": [
+        "Organised-crime definition",
+        "Syndicate-network distinction"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CRIME-TERROR NEXUS MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRIME-TERROR NEXUS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISED CRIME",
+          "role": "outcome"
+        },
+        {
+          "text": "PARALLEL ILLICIT ECONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEOLOGICAL COERCION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED MEANS",
+          "role": "primary"
+        },
+        {
+          "text": "PROVED DRUG-ECONOMY INTERSECTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ORGANISED CRIME → PROFIT / PARALLEL ILLICIT ECONOMY",
+        "TERRORISM → POLITICAL / IDEOLOGICAL COERCION",
+        "SHARED MEANS → ROUTES / FINANCE / ARMS / PROTECTION",
+        "NARCO-TERRORISM → proved drug-economy intersection"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "ORGANISED CRIME → PROFIT / PARALLEL ILLICIT ECONOMY",
+          "SHARED MEANS → ROUTES / FINANCE / ARMS / PROTECTION",
+          "ORGANISED CRIME → PROFIT / PARALLEL ILLICIT ECONOMY"
+        ],
+        [
+          "TERRORISM → POLITICAL / IDEOLOGICAL COERCION",
+          "NARCO-TERRORISM → proved drug-economy intersection",
+          "TERRORISM → POLITICAL / IDEOLOGICAL COERCION"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ORGANISED CRIME → PROFIT / PARALLEL ILLICIT ECONOMY",
+            "TERRORISM → POLITICAL / IDEOLOGICAL COERCION"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SHARED MEANS → ROUTES / FINANCE / ARMS / PROTECTION",
+            "NARCO-TERRORISM → proved drug-economy intersection"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "ORGANISED CRIME → PROFIT / PARALLEL ILLICIT ECONOMY",
+            "TERRORISM → POLITICAL / IDEOLOGICAL COERCION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARED MEANS → ROUTES / FINANCE / ARMS / PROTECTION.",
+      "source_references": [
+        "Crime-terror ends boundary",
+        "Narco-terrorism definition"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REGIONAL-MODEL DIAGNOSTIC",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL-MODEL DIAGNOSTIC",
+          "role": "primary"
+        },
+        {
+          "text": "EXTORTION MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC PARALLEL TAX",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL MODEL",
+          "role": "evidence"
+        },
+        {
+          "text": "DIASPORA SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTE MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "LOGISTICS NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERVENTION FOLLOWS MODEL, NOT A UNIFORM SLOGAN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EXTORTION MODEL → DOMESTIC PARALLEL TAX / PROTECTION",
+        "EXTERNAL MODEL → CROSS-BORDER / DIASPORA SUPPORT",
+        "ROUTE MODEL → TRANSIT / MARKET / LOGISTICS NETWORK",
+        "RULE → intervention follows model, not a uniform slogan"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "EXTORTION MODEL → DOMESTIC PARALLEL TAX / PROTECTION",
+          "ROUTE MODEL → TRANSIT / MARKET / LOGISTICS NETWORK",
+          "EXTORTION MODEL → DOMESTIC PARALLEL TAX / PROTECTION"
+        ],
+        [
+          "EXTERNAL MODEL → CROSS-BORDER / DIASPORA SUPPORT",
+          "RULE → intervention follows model, not a uniform slogan",
+          "EXTERNAL MODEL → CROSS-BORDER / DIASPORA SUPPORT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "EXTORTION MODEL → DOMESTIC PARALLEL TAX / PROTECTION",
+            "EXTERNAL MODEL → CROSS-BORDER / DIASPORA SUPPORT"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ROUTE MODEL → TRANSIT / MARKET / LOGISTICS NETWORK",
+            "RULE → intervention follows model, not a uniform slogan"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "EXTORTION MODEL → DOMESTIC PARALLEL TAX / PROTECTION",
+            "EXTERNAL MODEL → CROSS-BORDER / DIASPORA SUPPORT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → intervention follows model, not a uniform slogan.",
+      "source_references": [
+        "Regional-model variation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ROUTE-GEOGRAPHY FIREWALL",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ROUTE-GEOGRAPHY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "GOLDEN CRESCENT",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD WESTERN SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSIT EXPOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "GOLDEN TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "BROAD EASTERN SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MARKET VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT PROVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GOLDEN CRESCENT → BROAD WESTERN SOURCE / TRANSIT EXPOSURE",
+        "GOLDEN TRIANGLE → BROAD EASTERN SOURCE / TRANSIT EXPOSURE",
+        "INDIA → BORDER / MARITIME / MARKET VULNERABILITY",
+        "NOT PROVED → case route, actor or sponsor"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "GOLDEN CRESCENT → BROAD WESTERN SOURCE / TRANSIT EXPOSURE",
+            "GOLDEN TRIANGLE → BROAD EASTERN SOURCE / TRANSIT EXPOSURE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDIA → BORDER / MARITIME / MARKET VULNERABILITY",
+            "NOT PROVED → case route, actor or sponsor"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "GOLDEN CRESCENT → BROAD WESTERN SOURCE / TRANSIT EXPOSURE",
+            "GOLDEN TRIANGLE → BROAD EASTERN SOURCE / TRANSIT EXPOSURE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT PROVED → case route, actor or sponsor.",
+      "source_references": [
+        "Route-geography boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SAFE SUPPLY-CHAIN MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SAFE SUPPLY-CHAIN MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ASSET CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "INTELLIGENCE + FINANCE + LAWFUL INTERDICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ROUTES, CONCEALMENT OR EVASION METHODS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → TRANSIT → DISTRIBUTION",
+        "PROCEEDS → LAUNDERING / ASSET CONTROL",
+        "RESPONSE → intelligence + finance + lawful interdiction",
+        "SAFETY → no routes, concealment or evasion methods"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SOURCE → TRANSIT → DISTRIBUTION",
+            "PROCEEDS → LAUNDERING / ASSET CONTROL"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE → intelligence + finance + lawful interdiction",
+            "SAFETY → no routes, concealment or evasion methods"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → TRANSIT → DISTRIBUTION",
+            "PROCEEDS → LAUNDERING / ASSET CONTROL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFETY → no routes, concealment or evasion methods.",
+      "source_references": [
+        "Non-operational supply chain"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NDPS PROPERTY LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NDPS PROPERTY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTITY CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "SEIZURE + EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PARALLEL FINANCIAL INVESTIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAPTER VA",
+          "role": "primary"
+        },
+        {
+          "text": "PMLA PROPERTY PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "COURT OUTCOME",
+          "role": "institution"
+        },
+        {
+          "text": "FORFEITURE WHERE ORDERED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OFFENCE / QUANTITY CATEGORY",
+        "SEIZURE + EVIDENCE",
+        "PARALLEL FINANCIAL INVESTIGATION",
+        "CHAPTER VA / PMLA PROPERTY PROCESS",
+        "COURT OUTCOME / FORFEITURE WHERE ORDERED"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "OFFENCE / QUANTITY CATEGORY",
+            "SEIZURE + EVIDENCE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARALLEL FINANCIAL INVESTIGATION",
+            "CHAPTER VA / PMLA PROPERTY PROCESS"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "COURT OUTCOME / FORFEITURE WHERE ORDERED",
+            "OFFENCE / QUANTITY CATEGORY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHAPTER VA / PMLA PROPERTY PROCESS; COURT OUTCOME / FORFEITURE WHERE ORDERED.",
+      "source_references": [
+        "NDPS framework",
+        "Follow-the-property route"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NARCOTICS INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NARCOTICS INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL NODAL COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "UT COORDINATION + FINANCIAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "OWN MANDATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NCB → CENTRAL NODAL COORDINATION / ENFORCEMENT",
+        "NCORD → APEX / EXECUTIVE / STATE / DISTRICT",
+        "ANTF → STATE / UT COORDINATION + FINANCIAL FOCUS",
+        "POLICE / CUSTOMS / BORDER / MARITIME → OWN MANDATES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NCB → CENTRAL NODAL COORDINATION / ENFORCEMENT",
+            "NCORD → APEX / EXECUTIVE / STATE / DISTRICT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ANTF → STATE / UT COORDINATION + FINANCIAL FOCUS",
+            "POLICE / CUSTOMS / BORDER / MARITIME → OWN MANDATES"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "NCB → CENTRAL NODAL COORDINATION / ENFORCEMENT",
+            "NCORD → APEX / EXECUTIVE / STATE / DISTRICT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLICE / CUSTOMS / BORDER / MARITIME → OWN MANDATES.",
+      "source_references": [
+        "NCB mandate",
+        "NCORD architecture",
+        "ANTF role"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ORGANISED-CRIME LAW MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORGANISED-CRIME LAW MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BNS 111",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANISED CRIME",
+          "role": "comparison"
+        },
+        {
+          "text": "BNS 112",
+          "role": "evidence"
+        },
+        {
+          "text": "PETTY ORGANISED CRIME",
+          "role": "primary"
+        },
+        {
+          "text": "STATE SPECIAL LAW",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE FORUM",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCEDURE QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BNS 111 → ORGANISED CRIME",
+        "BNS 112 → PETTY ORGANISED CRIME",
+        "STATE SPECIAL LAW → separate forum / procedure questions",
+        "RULE → offence coverage does not prove enforcement outcome"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "BNS 111 → ORGANISED CRIME",
+          "STATE SPECIAL LAW → separate forum / procedure questions",
+          "BNS 111 → ORGANISED CRIME"
+        ],
+        [
+          "BNS 112 → PETTY ORGANISED CRIME",
+          "RULE → offence coverage does not prove enforcement outcome",
+          "BNS 112 → PETTY ORGANISED CRIME"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "BNS 111 → ORGANISED CRIME",
+            "BNS 112 → PETTY ORGANISED CRIME"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STATE SPECIAL LAW → separate forum / procedure questions",
+            "RULE → offence coverage does not prove enforcement outcome"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "BNS 111 → ORGANISED CRIME",
+            "BNS 112 → PETTY ORGANISED CRIME"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → offence coverage does not prove enforcement outcome.",
+      "source_references": [
+        "BNS organised-crime offences"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TRAFFICKING-SMUGGLING TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRAFFICKING-SMUGGLING TEST",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLOITATION PURPOSE?",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAFFICKING ANALYSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "PAID IRREGULAR ENTRY?",
+          "role": "evidence"
+        },
+        {
+          "text": "MIGRANT-SMUGGLING ANALYSIS",
+          "role": "primary"
+        },
+        {
+          "text": "BORDER CROSSING",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT REQUIRED FOR TRAFFICKING",
+          "role": "caution"
+        },
+        {
+          "text": "VICTIM STATUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXPLOITATION PURPOSE? → TRAFFICKING ANALYSIS",
+        "PAID IRREGULAR ENTRY? → MIGRANT-SMUGGLING ANALYSIS",
+        "BORDER CROSSING → not required for trafficking",
+        "VICTIM STATUS → protect; do not presume complicity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "EXPLOITATION PURPOSE? → TRAFFICKING ANALYSIS",
+            "PAID IRREGULAR ENTRY? → MIGRANT-SMUGGLING ANALYSIS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "BORDER CROSSING → not required for trafficking",
+            "VICTIM STATUS → protect; do not presume complicity"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "EXPLOITATION PURPOSE? → TRAFFICKING ANALYSIS",
+            "PAID IRREGULAR ENTRY? → MIGRANT-SMUGGLING ANALYSIS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VICTIM STATUS → protect; do not presume complicity.",
+      "source_references": [
+        "Trafficking definition",
+        "Trafficking-smuggling boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "VICTIM-CENTRED RESPONSE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VICTIM-CENTRED RESPONSE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "IMMEDIATE SAFETY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL AID",
+          "role": "comparison"
+        },
+        {
+          "text": "WITNESS PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "INVESTIGATE RECRUITER",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENT RE-TRAFFICKING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → IMMEDIATE SAFETY",
+        "LEGAL AID / EVIDENCE / WITNESS PROTECTION",
+        "INVESTIGATE RECRUITER / FACILITATOR / PROCEEDS",
+        "REHABILITATE / REINTEGRATE / PREVENT RE-TRAFFICKING"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "IDENTIFY → IMMEDIATE SAFETY",
+            "LEGAL AID / EVIDENCE / WITNESS PROTECTION"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INVESTIGATE RECRUITER / FACILITATOR / PROCEEDS",
+            "REHABILITATE / REINTEGRATE / PREVENT RE-TRAFFICKING"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "IDENTIFY → IMMEDIATE SAFETY",
+            "LEGAL AID / EVIDENCE / WITNESS PROTECTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVESTIGATE RECRUITER / FACILITATOR / PROCEEDS; REHABILITATE / REINTEGRATE / PREVENT RE-TRAFFICKING.",
+      "source_references": [
+        "Victim-centred response"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ILLICIT-MARKET CONVERGENCE MAP",
+      "structural_type": "hub-and-spoke",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ILLICIT-MARKET CONVERGENCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED CRIMINAL-SERVICE HUB",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVE THE SHARED LINK CASE BY CASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHARED CRIMINAL-SERVICE HUB",
+        "SHARED SERVICES → documents / corruption / finance / transport",
+        "RULE → prove the shared link case by case"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SHARED CRIMINAL-SERVICE HUB",
+            "SHARED SERVICES → documents / corruption / finance / transport"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RULE → prove the shared link case by case",
+            "SHARED CRIMINAL-SERVICE HUB"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "SHARED SERVICES → documents / corruption / finance / transport",
+            "RULE → prove the shared link case by case"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → prove the shared link case by case.",
+      "source_references": [
+        "Illicit-market convergence"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND NETWORK-OUTCOME RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND NETWORK-OUTCOME RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "HUMAN-TRAFFICKING LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL + TRANSNATIONAL CRIME-TERROR NEXUS",
+          "role": "comparison"
+        },
+        {
+          "text": "NARCO-TERROR THREAT + COUNTERMEASURES",
+          "role": "evidence"
+        },
+        {
+          "text": "SEIZURE, NOTICE AND ARREST ARE NOT DISMANTLING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2018 → DRUG / LAUNDERING / HUMAN-TRAFFICKING LINK",
+        "2022 → NATIONAL + TRANSNATIONAL CRIME-TERROR NEXUS",
+        "2024 → NARCO-TERROR THREAT + COUNTERMEASURES",
+        "END → NETWORK / MONEY / LOGISTICS / PROTECTION / VICTIM",
+        "QUALIFY → seizure, notice and arrest are not dismantling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "2018 → DRUG / LAUNDERING / HUMAN-TRAFFICKING LINK",
+            "2022 → NATIONAL + TRANSNATIONAL CRIME-TERROR NEXUS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "2024 → NARCO-TERROR THREAT + COUNTERMEASURES",
+            "END → NETWORK / MONEY / LOGISTICS / PROTECTION / VICTIM"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → seizure, notice and arrest are not dismantling",
+            "2018 → DRUG / LAUNDERING / HUMAN-TRAFFICKING LINK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → seizure, notice and arrest are not dismantling.",
+      "source_references": [
+        "UNTOC-INTERPOL cooperation",
+        "Evidence-status firewall",
+        "Integrated-network end-state"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCORD'S FOUR-TIER DESIGN (APEX-EXECUTIVE-STATE-DISTRICT)",
+          "role": "institution"
+        },
+        {
+          "text": "ANTF'S FINANCIAL-INVESTIGATION PRIORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH STATE/UT'S ANTI",
+          "role": "institution"
+        },
+        {
+          "text": "NCB'S EXPANDED TECHNOLOGICAL MANDATE",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATING CRYPTO/DARKNET/",
+          "role": "outcome"
+        },
+        {
+          "text": "MCOCA AND NIA ACT AS COMPLEMENTARY, NOT OVERLAPPING, LEGAL",
+          "role": "caution"
+        },
+        {
+          "text": "BNS SECTIONS 111-112 CHANGE THE FORUM QUESTION, NOT THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCORD's four-tier design (Apex-Executive-State-District): built",
+            "ANTF's financial-investigation priority: each State/UT's Anti",
+            "NCB's expanded technological mandate: integrating crypto/darknet/",
+            "CAUTION: MCOCA and NIA Act as complementary, not overlapping, legal tools:"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: BNS Sections 111-112 change the forum question, not the offence",
+            "CAUTION: The two-track property attack, and where it breaks: NDPS Chapter",
+            "CAUTION: The Dawood Ibrahim/D-Company case as a boundary case for",
+            "CAUTION: Maritime narco-trafficking as a boundary case between this topic and"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Darknet/cryptocurrency trafficking as a boundary case with topic",
+            "CAUTION: A uniform national counter-narco-terrorism strategy risks",
+            "CAUTION: Technology-led detection (darknet/crypto monitoring) requires",
+            "CAUTION: Asset seizure/destruction figures (e.g., large-scale drug"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

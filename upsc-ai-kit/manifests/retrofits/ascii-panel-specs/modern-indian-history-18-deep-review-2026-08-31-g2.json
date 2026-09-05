@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-18",
+      "display_title": "First World War, the Home Rule League & the Lucknow Pact (1914–1918)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Wartime-to-transition chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "JUN 1914 -> Tilak released; wartime support and extraction begin",
+            "DEC 1915 -> Congress authorises Extremist readmission",
+            "APR-SEP 1916 -> Tilak and Besant create separate Leagues",
+            "DEC 1916 -> Lucknow publicly consummates double unity and Pact",
+            "1917 -> security action, internments and bounded Montagu promise",
+            "1918 -> reform division and Tilak's absence weaken the movement.",
+            "MUST REMEMBER: Tilak's and Annie Besant's Home Rule Leagues began separately in 1916; the",
+            "  Lucknow Congress and Congress-League Pact followed in December 1916, before the Montagu",
+            "  Declaration of 20 August 1917."
+          ],
+          "source_references": [
+            "War, chronology and the transition problem",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Loyalty, extraction and reciprocity gap",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "SUPPORT -> soldiers, money and materials",
+            "EXPECTATION -> constitutional reward after wartime loyalty",
+            "PRESSURE -> taxes, loans, recruitment, shortages and price rises",
+            "OFFSET -> selected industries and traders gain wartime opportunities",
+            "CONTRADICTION -> imperial liberty language versus colonial rule",
+            "GAP -> sacrifice is not matched by adequate political power",
+            "RESULT -> demand shifts from hopeful support to organised pressure."
+          ],
+          "source_references": [
+            "Wartime loyalty, extraction and expectation",
+            "The democratic contradiction of empire",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Congress repair before renewed agitation",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "1907 SURAT -> divided Congress",
+            "            JUN 1914 -> Tilak released",
+            "            DEC 1915 -> Congress authorises readmission",
+            "            WAR -> increases need for a united constitutional front",
+            "            DEC 1916 -> public reunion at Lucknow",
+            "LIMIT -> reunion restores cooperation, not ideological uniformity."
+          ],
+          "source_references": [
+            "Congress deadlock and Moderate-Extremist reunion",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Two Home Rule Leagues identity matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS       TILAK                     BESANT",
+            "launch     April 1916                September 1916",
+            "field      Maharashtra except        most other areas,",
+            "           Bombay; Karnataka; C.P.    including Bombay city",
+            "network    regional workers          Arundale, Wadia, Ramaswami Aiyar",
+            "rule       separate organisations; shared constitutional demand."
+          ],
+          "source_references": [
+            "Tilak's Home Rule League",
+            "Annie Besant's Home Rule League",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Home Rule demand and method",
+          "structural_type": "process",
+          "ascii_lines": [
+            "GOAL -> self-government within the British Empire",
+            "NOT GOAL -> immediate complete independence",
+            "PRESS -> New India, Commonweal and wider political journalism",
+            "CONTACT -> tours, lectures, pamphlets and public meetings",
+            "ORGANISATION -> branches, libraries and political classes",
+            "EFFECT -> continuous political education beyond annual sessions."
+          ],
+          "source_references": [
+            "Two Leagues, territorial division and shared demand",
+            "Political education, press and branch methods",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Repression feedback loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "            LEAGUE EXPANSION -> security cases, exclusions and student restrictions",
+            "            NOV 1916 -> Besant restricted",
+            "            JUNE 1917 -> Besant, Wadia and Arundale interned",
+            "            INTERNMENT -> civil-liberty protest and wider sympathy",
+            "RELEASE -> movement prestige rises",
+            "1917 -> Besant becomes Congress president."
+          ],
+          "source_references": [
+            "Repression and Besant's internment",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Lucknow double-unity map",
+          "structural_type": "split-rail",
+          "ascii_lines": [
+            "PRESIDENT -> Ambica Charan Mazumdar",
+            "TRACK A -> Moderates + Tilak's current achieve Congress reunion",
+            "TRACK B -> Congress + League adopt a joint constitutional scheme",
+            "BRIDGES -> Tilak, Besant and Jinnah; Malaviya dissents",
+            "MERGER POINT -> stronger wartime bargaining platform",
+            "CAUTION -> the two settlements carried different institutional costs."
+          ],
+          "source_references": [
+            "Lucknow Session and double unity",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Joint demand and constitutional ceiling",
+          "structural_type": "boundary-map",
+          "ascii_lines": [
+            "LEGISLATURES -> four-fifths elected",
+            "IMPERIAL COUNCIL -> proposed strength of 150",
+            "EXECUTIVE -> greater Indian participation",
+            "PROVINCES -> wider fiscal and internal authority",
+            "CEILING -> no immediate responsible government or sovereignty",
+            "VALUE -> common platform increases bargaining credibility."
+          ],
+          "source_references": [
+            "The Pact's joint constitutional programme",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Representation devices and provincial logic",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PUNJAB 50 | BENGAL 40 | BOMBAY 1/3 | U.P. 30",
+            "BIHAR 25 | C.P. 15 | MADRAS 15",
+            "CENTRE -> one-third of elected Indian members",
+            "SAFEGUARD -> three-fourths community opposition blocks a measure",
+            "1909 -> separate electorates statutory; 1916 -> Congress accepts them",
+            "RULE -> electorate, weightage and veto are distinct mechanisms."
+          ],
+          "source_references": [
+            "Separate electorates, weightage and provincial logic",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Lucknow balance sheet",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "GAIN -> Congress reunion",
+            "GAIN -> Congress-League common reform platform",
+            "GAIN -> concentrated pressure during wartime",
+            "COST -> communal category becomes a bargaining unit",
+            "COST -> separate electorates receive Congress acceptance",
+            "VERDICT -> real tactical advance with a durable contradiction.",
+            "CLOSE DISTINCTION: Home Rule mobilisation, Congress reunion and the Lucknow compromise were",
+            "  connected but institutionally distinct; separate electorates remained embedded in the pact."
+          ],
+          "source_references": [
+            "Significance and contradiction of Lucknow",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Montagu Declaration boundary ladder",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PRESSURE -> war needs + Home Rule + Lucknow unity",
+            "20 AUG 1917 -> responsible government stated as an objective",
+            "METHOD -> increasing Indian association",
+            "PACE -> gradual development",
+            "BOUNDARY -> executive discretion and imperial membership remain",
+            "SEQUEL -> promise opens, but does not settle, constitutional conflict.",
+            "EVIDENCE LIMIT: Wartime recruitment, taxation, repression, Ghadar activity and provincial",
+            "  league networks qualify a leadership-only account of political revival."
+          ],
+          "source_references": [
+            "Montagu Declaration as a bounded sequel",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Absorption, memory and examination bridge",
+          "structural_type": "transition-map",
+          "ascii_lines": [
+            "            1918 DECLINE -> moderate exit + reform division + Besant vacillation",
+            "            TILAK ABROAD -> principal organiser absent",
+            "            TRANSFER -> cadres, branches and propaganda habits later aid Congress",
+            "            2018 Q79 -> 1920 Swarajya Sabha renaming route; key unavailable",
+            "            2026 CWGC -> Punjab Registers recover omitted servicemen",
+            "            VERIFIED FIGURE -> 9,909 names added to CWGC records",
+            "BOUNDARY -> commemoration evidence, not nationalist causal proof."
+          ],
+          "source_references": [
+            "Decline, absorption, public memory and PYQ route",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-18\\g2\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

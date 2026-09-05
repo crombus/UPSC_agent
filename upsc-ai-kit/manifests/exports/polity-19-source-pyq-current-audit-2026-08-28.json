@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-19",
+  "identity": "polity-19:learner-v2:g5",
+  "completed_at": "2026-08-28T15:10:00+05:30",
+  "status": "passed",
+  "approval": false,
+  "constitutional_scope": [
+    "Articles 153-176",
+    "Articles 200-201",
+    "Article 213",
+    "Articles 356 and 361",
+    "Articles 371A and 371H",
+    "Sixth Schedule specified Governor functions"
+  ],
+  "judicial_controls": [
+    "Shamsher Singh (1974)",
+    "S.R. Bommai (1994)",
+    "Rameshwar Prasad (2006)",
+    "B.P. Singhal (2010)",
+    "Nabam Rebia (2016; referred issue pending)",
+    "Krishna Kumar Singh (2017)",
+    "Subhash Desai (2023)",
+    "2025 INSC 481",
+    "2025 INSC 1333 advisory opinion"
+  ],
+  "current_control": "Verified through 28 August 2026: no rigid court-created assent timelines or automatic deemed assent; prolonged unexplained inaction remains reviewable; the referred Nabam Rebia Speaker-removal issue remains unresolved in public authoritative records.",
+  "pyq_routes": {
+    "mains": 5,
+    "prelims": 4,
+    "metadata": "exact available paper/year/question/marks/word-limit and key provenance preserved"
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md": "2b5f1888780499ae761a5ee8d0d772b636c154bf87d97370d6d7039aaefce25f",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\19_Governor-CM-State-Council.md": "1fe14e3a2004452478d24a173831404700c502ddcc1f55a89b0b0c49c78161f7",
+    "upsc-ai-kit\\knowledge\\Polity\\19_Governor-CM-State-Council_Complete-Topic-Package.md": "4131000fd4b55498ebede068bacf1fb57501a24ac0e5b46c430021b58259ffca",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md": "b70cd23959df2719d01899f4b6efe655b4397d8a35df7483fd344433d3041a58",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": "f113d13e96e9aa95111ea60c628c1246db657385b3b6c72bd83f56f5de10d05d",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-19-2026-08-24-sequential.json": "32c9e77469d21c851a023ffa7e2c0ff42d3e414c93b5b899ad3f59b4927e95e2",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-19.json": "ca2c3e385e3a42719f3dab455cc2c592f99a8a7de4ae2db87d4a947471919bbb",
+    "tools\\deep_content_quality_overrides.json": "b5365690baaccc472a1b442838527e4805e1efe4e1ae0c0bc080daf3ccb5357b"
+  },
+  "live_sources": [
+    "https://api.sci.gov.in/jonew/judis/36321.pdf",
+    "https://api.sci.gov.in/supremecourt/2022/20234/20234_2022_1_1502_44512_Judgement_11-May-2023.pdf",
+    "https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf",
+    "https://interstatecouncil.gov.in/report-of-the-sarkaria-commission/",
+    "https://interstatecouncil.gov.in/report-of-the-commission-on-centre-state-relations/"
+  ]
+}

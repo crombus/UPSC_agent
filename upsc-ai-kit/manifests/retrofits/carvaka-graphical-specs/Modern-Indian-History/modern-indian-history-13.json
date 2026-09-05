@@ -1,0 +1,1011 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-13",
+  "subject": "Modern-Indian-History",
+  "title": "INDIA AND HER NEIGHBOURS (AFGHANISTAN, BURMA, NEPAL, TIBET, NW FRONTIER)",
+  "short_route": "IMPERIAL DEFENSIVE RING IN → GREAT GAME IN COLONIAL → CLOSE-BORDER POLICY IN COLONIAL → FORWARD POLICY IN COLONIAL → FIRST ANGLO-AFGHAN WAR IN → SECOND ANGLO-AFGHAN WAR IN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-13_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-09-13-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "30c049466d683d42eb66119533b25d6465381035cbcdba631988d27546935764",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "IMPERIAL DEFENSIVE RING IN COLONIAL FRONTIER POLICY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "IMPERIAL DEFENSIVE RING IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL DEFENSIVE RING",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITISH INDIA TREATED NEIGHBOURING STATES AND FRONTIER ZONES AS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE IMPERIAL DEFENSIVE RING TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER IMPERIAL DEFENSIVE RING TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Imperial defensive ring",
+        "EVIDENCE → British India treated neighbouring states and frontier zones as a strategic ring around",
+        "EXAM USE → use Imperial defensive ring to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Imperial defensive ring to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Imperial defensive ring",
+            "EVIDENCE → British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Imperial defensive ring to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Imperial defensive ring to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Imperial defensive ring",
+            "EVIDENCE → British India treated neighbouring states and frontier zones as a strategic ring around the Indian empire."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Imperial defensive ring to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Imperial defensive ring to another institution or theatre.",
+      "source_references": [
+        "Imperial defensive ring",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GREAT GAME IN COLONIAL FRONTIER POLICY",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GREAT GAME IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT GAME",
+          "role": "outcome"
+        },
+        {
+          "text": "THE GREAT GAME DESCRIBES ANGLO-RUSSIAN RIVALRY IN CENTRAL ASIA",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE GREAT GAME TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER GREAT GAME TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Great Game",
+        "EVIDENCE → The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy",
+        "EXAM USE → use Great Game to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Great Game to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Great Game",
+            "EVIDENCE → The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Great Game to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Great Game to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Great Game",
+            "EVIDENCE → The Great Game describes Anglo-Russian rivalry in Central Asia that shaped British policy toward Afghanistan."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Great Game to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Great Game to another institution or theatre.",
+      "source_references": [
+        "Great Game",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CLOSE-BORDER POLICY IN COLONIAL FRONTIER POLICY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLOSE-BORDER POLICY IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-BORDER POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE-BORDER POLICY SOUGHT TO DEFEND SETTLED LIMITS WITHOUT PERMANENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE CLOSE-BORDER POLICY TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER CLOSE-BORDER POLICY TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Close-border policy",
+        "EVIDENCE → Close-border policy sought to defend settled limits without permanent advance into tribal or",
+        "EXAM USE → use Close-border policy to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Close-border policy to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Close-border policy",
+          "EXAM USE → use Close-border policy to match actor, date, mechanism and limit.",
+          "FOCUS → Close-border policy"
+        ],
+        [
+          "EVIDENCE → Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory.",
+          "LIMIT → do not transfer Close-border policy to another institution or theatre.",
+          "EVIDENCE → Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Close-border policy",
+            "EVIDENCE → Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Close-border policy to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Close-border policy to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Close-border policy",
+            "EVIDENCE → Close-border policy sought to defend settled limits without permanent advance into tribal or Afghan territory."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Close-border policy to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Close-border policy to another institution or theatre.",
+      "source_references": [
+        "Close-border policy",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FORWARD POLICY IN COLONIAL FRONTIER POLICY",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FORWARD POLICY IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "FORWARD POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "FORWARD POLICY USED MISSIONS, POSTS, SUBSIDIES, WAR AND POLITICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE FORWARD POLICY TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER FORWARD POLICY TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Forward policy",
+        "EVIDENCE → Forward policy used missions, posts, subsidies, war and political control to pre empt",
+        "EXAM USE → use Forward policy to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Forward policy to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Forward policy",
+            "EVIDENCE → Forward policy used missions, posts, subsidies, war and political control to pre empt perceived rival influence."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Forward policy to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Forward policy to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Forward policy",
+            "EVIDENCE → Forward policy used missions, posts, subsidies, war and political control to pre empt perceived rival influence."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Forward policy to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Forward policy to another institution or theatre.",
+      "source_references": [
+        "Forward policy",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FIRST ANGLO-AFGHAN WAR IN COLONIAL FRONTIER POLICY",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FIRST ANGLO-AFGHAN WAR IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST ANGLO-AFGHAN WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FIRST ANGLO-AFGHAN WAR OF 1839-42 ENDED IN A",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE FIRST ANGLO-AFGHAN WAR TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER FIRST ANGLO-AFGHAN WAR TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → First Anglo-Afghan War",
+        "EVIDENCE → The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from",
+        "EXAM USE → use First Anglo-Afghan War to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer First Anglo-Afghan War to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → First Anglo-Afghan War",
+            "EVIDENCE → The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use First Anglo-Afghan War to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer First Anglo-Afghan War to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → First Anglo-Afghan War",
+            "EVIDENCE → The First Anglo-Afghan War of 1839-42 ended in a disastrous British retreat from"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use First Anglo-Afghan War to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer First Anglo-Afghan War to another institution or theatre.",
+      "source_references": [
+        "First Anglo-Afghan War",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SECOND ANGLO-AFGHAN WAR IN COLONIAL FRONTIER POLICY",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SECOND ANGLO-AFGHAN WAR IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND ANGLO-AFGHAN WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SECOND ANGLO-AFGHAN WAR OF 1878-80 REFLECTED LYTTON'S FORWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SECOND ANGLO-AFGHAN WAR TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER SECOND ANGLO-AFGHAN WAR TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Second Anglo-Afghan War",
+        "EVIDENCE → The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy.",
+        "EXAM USE → use Second Anglo-Afghan War to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Second Anglo-Afghan War to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Second Anglo-Afghan War",
+            "EVIDENCE → The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Second Anglo-Afghan War to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Second Anglo-Afghan War to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Second Anglo-Afghan War",
+            "EVIDENCE → The Second Anglo-Afghan War of 1878-80 reflected Lytton's forward policy."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Second Anglo-Afghan War to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Second Anglo-Afghan War to another institution or theatre.",
+      "source_references": [
+        "Second Anglo-Afghan War",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TREATY OF GANDAMAK IN COLONIAL FRONTIER POLICY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TREATY OF GANDAMAK IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "TREATY OF GANDAMAK",
+          "role": "outcome"
+        },
+        {
+          "text": "THE TREATY OF GANDAMAK OF 1879 FOLLOWED THE SECOND",
+          "role": "comparison"
+        },
+        {
+          "text": "BRITISH INFLUENCE OVER AFGHAN EXTERNAL AFFAIRS.",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "primary"
+        },
+        {
+          "text": "USE TREATY OF GANDAMAK TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER TREATY OF GANDAMAK TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Treaty of Gandamak",
+        "EVIDENCE → The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded",
+        "British influence over Afghan external affairs.",
+        "EXAM USE → use Treaty of Gandamak to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Treaty of Gandamak to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Treaty of Gandamak",
+            "EVIDENCE → The Treaty of Gandamak of 1879 followed the Second Anglo-Afghan War and expanded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "British influence over Afghan external affairs.",
+            "EXAM USE → use Treaty of Gandamak to match actor, date, mechanism and limit."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → do not transfer Treaty of Gandamak to another institution or theatre.",
+            "FOCUS → Treaty of Gandamak"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Treaty of Gandamak to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Treaty of Gandamak to another institution or theatre.",
+      "source_references": [
+        "Treaty of Gandamak",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DURAND LINE IN COLONIAL FRONTIER POLICY",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DURAND LINE IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "DURAND LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DURAND AGREEMENT OF 1893 MARKED THE AFGHAN FRONTIER",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE DURAND LINE TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER DURAND LINE TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Durand Line",
+        "EVIDENCE → The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic",
+        "EXAM USE → use Durand Line to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Durand Line to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Durand Line",
+            "EVIDENCE → The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Durand Line to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Durand Line to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Durand Line",
+            "EVIDENCE → The Durand agreement of 1893 marked the Afghan frontier sphere under colonial strategic pressure."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Durand Line to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Durand Line to another institution or theatre.",
+      "source_references": [
+        "Durand Line",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NORTH-WEST FRONTIER PROVINCE IN COLONIAL FRONTIER POLICY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NORTH-WEST FRONTIER PROVINCE IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-WEST FRONTIER PROVINCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CURZON CREATED THE NORTH-WEST FRONTIER PROVINCE IN 1901 AS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE NORTH-WEST FRONTIER PROVINCE TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER NORTH-WEST FRONTIER PROVINCE TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → North-West Frontier Province",
+        "EVIDENCE → Curzon created the North-West Frontier Province in 1901 as a special frontier administration.",
+        "EXAM USE → use North-West Frontier Province to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer North-West Frontier Province to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → North-West Frontier Province",
+          "EXAM USE → use North-West Frontier Province to match actor, date, mechanism and limit.",
+          "FOCUS → North-West Frontier Province"
+        ],
+        [
+          "EVIDENCE → Curzon created the North-West Frontier Province in 1901 as a special frontier administration.",
+          "LIMIT → do not transfer North-West Frontier Province to another institution or theatre.",
+          "EVIDENCE → Curzon created the North-West Frontier Province in 1901 as a special frontier administration."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → North-West Frontier Province",
+            "EVIDENCE → Curzon created the North-West Frontier Province in 1901 as a special frontier administration."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use North-West Frontier Province to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer North-West Frontier Province to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → North-West Frontier Province",
+            "EVIDENCE → Curzon created the North-West Frontier Province in 1901 as a special frontier administration."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use North-West Frontier Province to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer North-West Frontier Province to another institution or theatre.",
+      "source_references": [
+        "North-West Frontier Province",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FIRST ANGLO-BURMESE WAR IN COLONIAL FRONTIER POLICY",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FIRST ANGLO-BURMESE WAR IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST ANGLO-BURMESE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FIRST ANGLO-BURMESE WAR OF 1824-26 ENDED WITH THE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE FIRST ANGLO-BURMESE WAR TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER FIRST ANGLO-BURMESE WAR TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → First Anglo-Burmese War",
+        "EVIDENCE → The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo.",
+        "EXAM USE → use First Anglo-Burmese War to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer First Anglo-Burmese War to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → First Anglo-Burmese War",
+            "EVIDENCE → The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use First Anglo-Burmese War to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer First Anglo-Burmese War to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → First Anglo-Burmese War",
+            "EVIDENCE → The First Anglo-Burmese War of 1824-26 ended with the Treaty of Yandabo."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use First Anglo-Burmese War to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer First Anglo-Burmese War to another institution or theatre.",
+      "source_references": [
+        "First Anglo-Burmese War",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SECOND ANGLO-BURMESE WAR IN COLONIAL FRONTIER POLICY",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SECOND ANGLO-BURMESE WAR IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND ANGLO-BURMESE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SECOND ANGLO-BURMESE WAR OF 1852 LED TO THE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SECOND ANGLO-BURMESE WAR TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER SECOND ANGLO-BURMESE WAR TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Second Anglo-Burmese War",
+        "EVIDENCE → The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma",
+        "EXAM USE → use Second Anglo-Burmese War to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Second Anglo-Burmese War to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Second Anglo-Burmese War",
+            "EVIDENCE → The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Second Anglo-Burmese War to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Second Anglo-Burmese War to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Second Anglo-Burmese War",
+            "EVIDENCE → The Second Anglo-Burmese War of 1852 led to the annexation of Lower Burma under"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Second Anglo-Burmese War to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Second Anglo-Burmese War to another institution or theatre.",
+      "source_references": [
+        "Second Anglo-Burmese War",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "THIRD ANGLO-BURMESE WAR IN COLONIAL FRONTIER POLICY",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "THIRD ANGLO-BURMESE WAR IN COLONIAL FRONTIER POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "THIRD ANGLO-BURMESE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE THIRD ANGLO-BURMESE WAR OF 1885 LED TO THE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE THIRD ANGLO-BURMESE WAR TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER THIRD ANGLO-BURMESE WAR TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Third Anglo-Burmese War",
+        "EVIDENCE → The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma",
+        "EXAM USE → use Third Anglo-Burmese War to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Third Anglo-Burmese War to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Third Anglo-Burmese War",
+            "EVIDENCE → The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Third Anglo-Burmese War to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Third Anglo-Burmese War to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Third Anglo-Burmese War",
+            "EVIDENCE → The Third Anglo-Burmese War of 1885 led to the annexation of Upper Burma under"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Third Anglo-Burmese War to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Third Anglo-Burmese War to another institution or theatre.",
+      "source_references": [
+        "Third Anglo-Burmese War",
+        "India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH INDIA TREATED AFGHANISTAN, BURMA, NEPAL, TIBET, SIKKIM AND",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTANT FOREIGN-POLICY QUESTIONS BUT AS SECURITY EXTENSIONS OF THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE NORTH-WEST FRONTIER WAS DOMINATED BY FEAR OF RUSSIA",
+          "role": "evidence"
+        },
+        {
+          "text": "THE FIRST ANGLO-AFGHAN WAR (1839–42) SHOWED THE DANGER OF",
+          "role": "primary"
+        },
+        {
+          "text": "THE SECOND ANGLO-AFGHAN WAR (1878–80) PRODUCED THE TREATY OF",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FRONTIER WAS BOTH A MILITARY ZONE AND AN",
+          "role": "comparison"
+        },
+        {
+          "text": "BURMA WAS CONQUERED IN STAGES THROUGH THREE WARS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "British India treated Afghanistan, Burma, Nepal, Tibet, Sikkim and Bhutan not as",
+            "distant foreign-policy questions but as security extensions of the Indian empire.",
+            "The north-west frontier was dominated by fear of Russia, known as the Great Game , and by the debate between close-border and forward policies.",
+            "The First Anglo-Afghan War (1839–42) showed the danger of aggressive intervention"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "the Second Anglo-Afghan War (1878–80) produced the Treaty of Gandamak and reinforced British control over Afghan external relations.",
+            "CAUTION: The frontier was both a military zone and an ideological zone where imperial rulers claimed to defend India by controlling neighbours.",
+            "Burma was conquered in stages through three wars",
+            "after the Third Anglo-Burmese War (1885), Upper Burma was annexed and Burma remained tied administratively to India until 1937."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Nepal was not annexed after the Treaty of Sagauli; it became a buffer with a Residency and a source of Gurkha recruitment.",
+            "Tibet drew Curzon's attention because of fears about Russian influence; the Younghusband Mission of 1904 reflected forward frontier activism.",
+            "CAUTION: These policies left boundary legacies, strategic habits and frontier zones that continued to matter after independence.",
+            "First Anglo-Afghan War (1839–42) is associated with Auckland and the disastrous Kabul retreat."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

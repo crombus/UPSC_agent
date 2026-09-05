@@ -1,0 +1,770 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+  "subject": "Philosophy",
+  "title": "REASON, REVELATION AND FAITH",
+  "short_route": "THREE-TERM CONTROL → FOUR RELATION MODELS → REVELATION TYPES AND TESTS → AQUINAS AND NATURAL THEOLOGY → KIERKEGAARD, FIDEISM AND FAITH → SCIENCE, MIRACLE AND TESTIMONY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g13 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g13\\topic-05_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-05-ascii-g13-2026-09-03.json",
+  "ascii_spec_sha256": "b9b672950c112c4aa01acf7fb6b00068fcc5fdef22931955a59d159a37611ed1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE-TERM CONTROL",
+      "structural_type": "epistemic triad",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE-TERM CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLICLY ASSESSABLE INFERENCE, COHERENCE AND EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLAIMED DIVINE SELF-DISCLOSURE THROUGH EVENT, PERSON, TEXT OR EXPERIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUSTING COMMITMENT WITH COGNITIVE, VOLITIONAL AND PRACTICAL DIMENSIONS REASON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REASON: publicly assessable inference, coherence and evidence",
+        "REVELATION: claimed divine self-disclosure through event, person, text or experience",
+        "FAITH: trusting commitment with cognitive, volitional and practical dimensions reason tests interpretation revelation supplies content",
+        "it is not merely low-evidence assent."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "REASON: publicly assessable inference, coherence and evidence",
+            "REVELATION: claimed divine self-disclosure through event, person, text or experience"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAITH: trusting commitment with cognitive, volitional and practical dimensions reason tests interpretation revelation supplies content faith appropriates a",
+            "it is not merely low-evidence assent."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REASON: publicly assessable inference, coherence and evidence",
+            "REVELATION: claimed divine self-disclosure through event, person, text or experience"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Reason discovers and regulates, revelation claims disclosure, and faith adds trust, commitment and a way of life without becoming evidence-free belief.",
+      "source_references": [
+        "A. Three-term control"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR RELATION MODELS",
+      "structural_type": "model branching map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR RELATION MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "REASON AND FAITH",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE DEFEATS THE OTHER (STRONG RATIONALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT DOMAINS OR LANGUAGE-GAMES",
+          "role": "evidence"
+        },
+        {
+          "text": "MUTUAL QUESTIONS, ANALOGIES AND CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "ONE COHERENT ACCOUNT; NATURAL AND REVEALED THEOLOGY COOPERATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY WHICH REASON, WHICH FAITH AND WHICH CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REASON AND FAITH",
+        "CONFLICT: one defeats the other (strong rationalism / fideism)",
+        "INDEPENDENCE: distinct domains or language-games",
+        "DIALOGUE: mutual questions, analogies and correction",
+        "INTEGRATION: one coherent account; natural and revealed theology cooperate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "REASON AND FAITH",
+            "CONFLICT: one defeats the other (strong rationalism / fideism)",
+            "INDEPENDENCE: distinct domains or language-games"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIALOGUE: mutual questions, analogies and correction",
+            "INTEGRATION: one coherent account; natural and revealed theology cooperate",
+            "EXAM RULE: identify which reason, which faith and which claim"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "scientific mechanism, metaphysical ground and salvific meaning need not compete directly."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The live question is whether reason constitutes, regulates or interprets faith and which religious claim remains answerable to which evidence.",
+      "source_references": [
+        "B. Four relation models"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REVELATION TYPES AND TESTS",
+      "structural_type": "disclosure taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REVELATION TYPES AND TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "CREATION, CONSCIENCE, UNIVERSAL REASON",
+          "role": "outcome"
+        },
+        {
+          "text": "HISTORICAL ACT, PROPHET, INCARNATION, SCRIPTURE",
+          "role": "institution"
+        },
+        {
+          "text": "TRUTHS COMMUNICATED",
+          "role": "evidence"
+        },
+        {
+          "text": "GOD DISCLOSED IN ENCOUNTER/HISTORY",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHENTICATION TESTS INTERNAL COHERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MORAL FRUITS",
+          "role": "comparison"
+        },
+        {
+          "text": "HISTORICAL CREDIBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENERAL / NATURAL: creation, conscience, universal reason",
+        "SPECIAL: historical act, prophet, incarnation, scripture",
+        "PROPOSITIONAL: truths communicated",
+        "PERSONAL/EVENT: God disclosed in encounter/history",
+        "AUTHENTICATION TESTS internal coherence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GENERAL / NATURAL: creation, conscience, universal reason",
+            "SPECIAL: historical act, prophet, incarnation, scripture",
+            "PROPOSITIONAL: truths communicated"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERSONAL/EVENT: God disclosed in encounter/history",
+            "AUTHENTICATION TESTS internal coherence",
+            "moral fruits"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "historical credibility",
+            "communal continuity fit with prior knowledge",
+            "capacity to disclose rather than merely confirm desire circularity problem: scripture authenticates God while God authenticates scripture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Revelation must be classified by scope and content, then tested through testimony, coherence, tradition, moral fruit and rival-disclosure pressure.",
+      "source_references": [
+        "C. Revelation distinctions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AQUINAS AND NATURAL THEOLOGY",
+      "structural_type": "grace-reason architecture",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AQUINAS AND NATURAL THEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "ONE TRUTH, TWO ROUTES TRUTHS ACCESSIBLE TO REASON",
+          "role": "outcome"
+        },
+        {
+          "text": "THAT GOD EXISTS, SOME ATTRIBUTES, NATURAL LAW MYSTERIES ABOVE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRINITY, INCARNATION; NOT CONTRARY TO REASON GRACE PERFECTS NATURE",
+          "role": "caution"
+        },
+        {
+          "text": "IMPORTED METAPHYSICS MAY DOMESTICATE REVELATION REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "REASON DOES NOT GENERATE MYSTERY; IT REMOVES CONTRADICTION AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ONE TRUTH, TWO ROUTES truths accessible to reason: that God exists, some attributes, natural law",
+        "not contrary to reason grace perfects nature",
+        "revelation guides reason where inquiry is difficult or salvation urgent contradiction cannot be genuinely divine",
+        "it removes contradiction and clarifies implication."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONE TRUTH, TWO ROUTES truths accessible to reason: that God exists, some attributes, natural law mysteries above reason: Trinity, Incarnation",
+            "not contrary to reason grace perfects nature"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "revelation guides reason where inquiry is difficult or salvation urgent contradiction cannot be genuinely divine because truth cannot",
+            "it removes contradiction and clarifies implication."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ONE TRUTH, TWO ROUTES truths accessible to reason: that God exists, some attributes, natural law mysteries above reason: Trinity, Incarnation",
+            "not contrary to reason grace perfects nature"
+          ]
+        }
+      ],
+      "mechanism_strip": "ONE TRUTH, TWO ROUTES truths accessible to reason: that God exists, some attributes, natural law mysteries above reason: Trinity, Incarnation; not contrary to reason grace perfects nature; revelation guides reason where inquiry is difficult or salvation urgent contradiction cannot be genuinely divine because truth cannot conflict with truth objection: imported metaphysics may domesticate revelation reply: reason does not generate mystery; it removes contradiction and clarifies implication.",
+      "answer_line": "Aquinas lets reason establish preambles and revelation disclose mysteries that exceed but cannot contradict rational truth.",
+      "source_references": [
+        "D. Aquinas answer spine"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "KIERKEGAARD, FIDEISM AND FAITH",
+      "structural_type": "existential commitment ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KIERKEGAARD, FIDEISM AND FAITH",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECTIVE UNCERTAINTY + INFINITE PERSONAL CONCERN",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBJECTIVE APPROPRIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FAITH IS PASSIONATE COMMITMENT, NOT A THEOREM FORCED BY",
+          "role": "caution"
+        },
+        {
+          "text": "ABRAHAM EXPOSES THE “TELEOLOGICAL SUSPENSION OF THE ETHICAL” PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "PROPOSITIONAL ASSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUST AND ALLEGIANCE FAITH MAY EXCEED AVAILABLE PROOF WITHOUT",
+          "role": "comparison"
+        },
+        {
+          "text": "LEAP LICENSES FANATICISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OBJECTIVE UNCERTAINTY + INFINITE PERSONAL CONCERN → SUBJECTIVE APPROPRIATION",
+        "Kierkegaard: faith is passionate commitment, not a theorem forced by detached proof",
+        "Abraham exposes the “teleological suspension of the ethical” problem belief-that: propositional assent",
+        "belief-in: trust and allegiance faith may exceed available proof without affirming contradiction objection: leap licenses",
+        "reply: authentic faith entails inward risk, responsibility and transformation, not arbitrary immunity from criticism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "OBJECTIVE UNCERTAINTY + INFINITE PERSONAL CONCERN → SUBJECTIVE APPROPRIATION",
+            "Kierkegaard: faith is passionate commitment, not a theorem forced by detached proof"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Abraham exposes the “teleological suspension of the ethical” problem belief-that: propositional assent",
+            "belief-in: trust and allegiance faith may exceed available proof without affirming contradiction objection: leap licenses fanaticism"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "reply: authentic faith entails inward risk, responsibility and transformation, not arbitrary immunity from criticism.",
+            "OBJECTIVE UNCERTAINTY + INFINITE PERSONAL CONCERN → SUBJECTIVE APPROPRIATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Kierkegaard makes faith committed appropriation under objective uncertainty, not arbitrary immunity from evidence or ethical responsibility.",
+      "source_references": [
+        "E. Kierkegaard and supra-rational faith",
+        "F. Faith versus belief"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SCIENCE, MIRACLE AND TESTIMONY",
+      "structural_type": "claim-assessment matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCIENCE, MIRACLE AND TESTIMONY",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENCE ASKS REPEATABLE NATURAL MECHANISM; RELIGION MAY ASK GROUND",
+          "role": "mechanism"
+        },
+        {
+          "text": "HUME ON MIRACLES",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPORTION BELIEF TO EVIDENCE; FALSE TESTIMONY IS USUALLY MORE",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESS SPECIFIC EVENT, INDEPENDENT WITNESSES, BACKGROUND PROBABILITY AND DIVINE",
+          "role": "primary"
+        },
+        {
+          "text": "TESTIMONY IS INDISPENSABLE BUT DEFEASIBLE; MIRACLE CANNOT BE INFERRED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SCIENCE asks repeatable natural mechanism",
+        "religion may ask ground, value and destiny conflict arises when sacred interpretation makes empirical claims",
+        "HUME ON MIRACLES: proportion belief to evidence; false testimony is usually more probable than violation",
+        "REPLIES: assess specific event, independent witnesses, background probability and divine context",
+        "TESTIMONY is indispensable but defeasible; miracle cannot be inferred merely from anomaly."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "SCIENCE asks repeatable natural mechanism",
+          "HUME ON MIRACLES: proportion belief to evidence; false testimony is usually more probable than violation of uniform experience",
+          "TESTIMONY is indispensable but defeasible; miracle cannot be inferred merely from anomaly."
+        ],
+        [
+          "religion may ask ground, value and destiny conflict arises when sacred interpretation makes empirical claims or scientism makes total claims",
+          "REPLIES: assess specific event, independent witnesses, background probability and divine context",
+          "SCIENCE asks repeatable natural mechanism"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "SCIENCE asks repeatable natural mechanism",
+            "religion may ask ground, value and destiny conflict arises when sacred interpretation makes empirical claims or scientism makes total claims"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HUME ON MIRACLES: proportion belief to evidence; false testimony is usually more probable than violation of uniform experience",
+            "REPLIES: assess specific event, independent witnesses, background probability and divine context"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "TESTIMONY is indispensable but defeasible; miracle cannot be inferred merely from anomaly.",
+            "SCIENCE asks repeatable natural mechanism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Miracle and scientific claims remain defeasible evidence; unusual events do not authenticate one revelation without interpretation and testimony.",
+      "source_references": [
+        "G. Science and religion",
+        "H. Miracles and testimony"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "JUSTIFICATION AND INDIAN PARITY",
+      "structural_type": "epistemic comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JUSTIFICATION AND INDIAN PARITY",
+          "role": "primary"
+        },
+        {
+          "text": "BELIEF SHOULD MATCH PUBLICLY AVAILABLE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "REFORMED EPISTEMOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "BELIEF IN GOD MAY BE PROPERLY BASIC UNLESS DEFEATED",
+          "role": "evidence"
+        },
+        {
+          "text": "WITTGENSTEINIAN VIEW",
+          "role": "primary"
+        },
+        {
+          "text": "FAITH HAS GRAMMAR WITHIN A FORM OF LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN PARITY ŚRUTI/ŚABDA AS TESTIMONY",
+          "role": "comparison"
+        },
+        {
+          "text": "YUKTI AS REASONING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENTIALISM: belief should match publicly available evidence",
+        "REFORMED EPISTEMOLOGY: belief in God may be properly basic unless defeated",
+        "WITTGENSTEINIAN VIEW: faith has grammar within a form of life",
+        "INDIAN PARITY śruti/śabda as testimony",
+        "yukti as reasoning"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "EVIDENTIALISM: belief should match publicly available evidence",
+          "yukti as reasoning",
+          "Nyāya: āpta testimony is a pramāṇa but must be semantically and causally trustworthy"
+        ],
+        [
+          "REFORMED EPISTEMOLOGY: belief in God may be properly basic unless defeated",
+          "anubhava as realisation",
+          "Mīmāṃsā: authorless Veda avoids dependence on a divine speaker."
+        ],
+        [
+          "WITTGENSTEINIAN VIEW: faith has grammar within a form of life",
+          "Advaita: scripture initiates inquiry; reasoning removes contradiction",
+          ""
+        ],
+        [
+          "INDIAN PARITY śruti/śabda as testimony",
+          "knowledge culminates in direct realisation",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "EVIDENTIALISM: belief should match publicly available evidence",
+            "REFORMED EPISTEMOLOGY: belief in God may be properly basic unless defeated",
+            "WITTGENSTEINIAN VIEW: faith has grammar within a form of life",
+            "INDIAN PARITY śruti/śabda as testimony"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "yukti as reasoning",
+            "anubhava as realisation",
+            "Advaita: scripture initiates inquiry; reasoning removes contradiction",
+            "knowledge culminates in direct realisation"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "Nyāya: āpta testimony is a pramāṇa but must be semantically and causally trustworthy",
+            "Mīmāṃsā: authorless Veda avoids dependence on a divine speaker."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Religious belief may be inferential, properly basic or testimony-based, but Great-Pumpkin, diversity and defeater objections constrain every model.",
+      "source_references": [
+        "I. Justification debate",
+        "J. Indian parity"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SYNTHESIS",
+      "structural_type": "qualified epistemic rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE ALL THREE TERMS",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECT CONFLICT/INDEPENDENCE/DIALOGUE/INTEGRATION MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINGUISH REVELATION TYPE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED THINKER",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGEST OBJECTION AND REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN ŚRUTI-YUKTI-ANUBHAVA COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "PRACTICAL AND PUBLIC IMPLICATIONS AVOID “FAITH VERSUS REASON” AS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE all three terms → select conflict/independence/dialogue/integration model",
+        "distinguish revelation type → named thinker → strongest objection and reply",
+        "Indian śruti-yukti-anubhava comparison → practical and public implications avoid “faith versus reason” as a slogan",
+        "is contrary, above or supported by reason",
+        "QUALIFIED VERDICT: faith needs neither reduction to proof nor exemption from criticism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE all three terms → select conflict/independence/dialogue/integration model",
+            "distinguish revelation type → named thinker → strongest objection and reply"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Indian śruti-yukti-anubhava comparison → practical and public implications avoid “faith versus reason” as a slogan: ask whether faith",
+            "is contrary, above or supported by reason"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUALIFIED VERDICT: faith needs neither reduction to proof nor exemption from criticism",
+            "rationally responsible faith is interpretive trust answerable to coherence, evidence and moral fruit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Responsible faith exceeds conclusive proof while remaining open to reasoned criticism, interpretation, moral testing and revision.",
+      "source_references": [
+        "K. Eleven PYQ routes",
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE STATEMENT. REASON CAN INFER AND TEST SOME RELIGIOUS",
+          "role": "comparison"
+        },
+        {
+          "text": "IT IDENTIFIES PUBLICLY ACCESSIBLE PREMISES, DERIVES IMPLICATIONS, TESTS COHERENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESUPPOSITION. CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "REALITY IS INTELLIGIBLE AND REASON IS NOT WHOLLY CORRUPTED",
+          "role": "caution"
+        },
+        {
+          "text": "NATURAL THEOLOGY DIFFERS FROM PHILOSOPHY OF RELIGION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FORMER ARGUES TOWARD THEOLOGICAL CONCLUSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Doctrine statement. Reason can infer and test some religious claims without relying on a special historical disclosure.",
+            "Argument.",
+            "It identifies publicly accessible premises, derives implications, tests coherence, and distinguishes demonstration, probability and practical postulation."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Presupposition. CAUTION: Reality is intelligible and reason is not wholly corrupted or confined to empirical objects.",
+            "Distinction.",
+            "Natural theology differs from philosophy of religion: the former argues toward theological conclusions",
+            "the latter also analyses language, experience and warrant."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Canonical examples. Aquinas' preambles of faith; Nyāya inference to Īśvara.",
+            "Objection → reply.",
+            "CAUTION: Kant restricts speculative reason beyond possible experience.",
+            "Natural theologians reply that metaphysical inference concerns conditions of experience, not another observed object."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-01T18:58:23.092528+00:00",
+  "subject": "Geography",
+  "section": "Part A — Physical Geography",
+  "topic_count": 25,
+  "topic_validations_passed": 25,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_geography_part_a_deep_review (cwd=tools)",
+      "tests": 72,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_china_type_boundaries (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_british_type_boundaries (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_siberian_boundaries (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_laurentian_boundaries (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\ntest_polar_boundaries (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 72 tests in 3.038s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 1.803s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 10.891s\n\nOK"
+    }
+  ],
+  "test_count": 129,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 25,
+    "learning_and_workbook_pdfs_checked": 50,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "full_library_validation": {
+    "topic_count": 295,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+    "status": "passed"
+  },
+  "post_shared_checks": [
+    {
+      "command": "python tools\\sync_deep_review_tracker.py",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "Synced 295 topics; added=0 reset=0."
+    }
+  ]
+}

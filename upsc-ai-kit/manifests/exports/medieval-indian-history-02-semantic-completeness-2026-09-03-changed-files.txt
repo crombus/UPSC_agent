@@ -1,0 +1,69 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\medieval-indian-history-02-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-02\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-02\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-02\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-02\medieval-indian-history-02-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-02\medieval-indian-history-02-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\02-The-Ghaznavids-and-the-Ghurian-Invasions\README.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-02\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\medieval-indian-history-02_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\medieval-indian-history-02_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\validation\workbook-visual-audit-map.json
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\assets\medieval-indian-history-02_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\medieval-indian-history-02_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-02\g4\medieval-indian-history-02_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\02_Ghaznavids-and-Ghurian-Invasions.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-02-learner-v2-g4-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\medieval-indian-history-02-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-02-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-02-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\medieval-indian-history-02-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Medieval-Indian-History\deep-review\medieval-indian-history-02-g4.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\02-ghaznavids-ghurian-invasions-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus-content-specs\medieval-indian-history-02-g4.json
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

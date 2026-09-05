@@ -1,0 +1,1120 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-20",
+  "subject": "Medieval-Indian-History",
+  "title": "JAHANGIR & THE EARLY SEVENTEENTH CENTURY (NUR JAHAN)",
+  "short_route": "JAHANGIR'S REIGN: THE CHRONOLOGY → CONTINUITY, CONSOLIDATION AND CONTEST → ACCESSION, ORDERS AND THE → KHUSRAU AND GURU ARJAN → MEWAR 1615: PRESSURE JOINED → ENGLISH COMMERCIAL DIPLOMACY WITHOUT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-20_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-19-20-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "36ca8535b71812b22b3ac919be8297609408406ccfb5c22ec8ba601a8594151f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "JAHANGIR'S REIGN: THE CHRONOLOGY SPINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JAHANGIR'S REIGN",
+          "role": "primary"
+        },
+        {
+          "text": "THE CHRONOLOGY SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "KHUSRAU REVOLT AND GURU ARJAN EPISODE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARRIAGE TO NUR JAHAN",
+          "role": "evidence"
+        },
+        {
+          "text": "MEWAR SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ROE MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "KANGRA CAPTURED",
+          "role": "comparison"
+        },
+        {
+          "text": "QANDAHAR LOST; KHURRAM CRISIS INTENSIFIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1605 → accession",
+        "1606 → Khusrau revolt and Guru Arjan episode",
+        "1611 → marriage to Nur Jahan",
+        "1613-15 → Mewar settlement",
+        "1615-19 → Roe mission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1605 → accession",
+            "1606 → Khusrau revolt and Guru Arjan episode",
+            "1611 → marriage to Nur Jahan",
+            "1613-15 → Mewar settlement"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1615-19 → Roe mission",
+            "1620 → Kangra captured",
+            "1622 → Qandahar lost; Khurram crisis intensifies",
+            "1622-25 → Khurram rebellion"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1626 → Mahabat Khan coup",
+            "1627 → Jahangir dies; succession field is settled for Shah Jahan."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1627 → Jahangir dies; succession field is settled for Shah Jahan.",
+      "source_references": [
+        "Jahangir",
+        "Chronology",
+        "Khusrau",
+        "Nur Jahan",
+        "Mahabat Khan"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONTINUITY, CONSOLIDATION AND CONTEST",
+      "structural_type": "balance-sheet",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONTINUITY, CONSOLIDATION AND CONTEST",
+          "role": "primary"
+        },
+        {
+          "text": "AKBAR'S FISCAL-MILITARY STATE AND COMPOSITE ELITE SURVIVE",
+          "role": "institution"
+        },
+        {
+          "text": "MEWAR, KANGRA AND NEGOTIATED COMMERCIAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCES, HOUSEHOLD NETWORKS, NOBLES AND UNFINISHED FRONTIERS",
+          "role": "evidence"
+        },
+        {
+          "text": "CAMPAIGNS AND ADMINISTRATION CONTINUE DESPITE COURT CONFLICT",
+          "role": "institution"
+        },
+        {
+          "text": "QANDAHAR, DECCAN AND SUCCESSION EXPOSE COORDINATION PROBLEMS",
+          "role": "outcome"
+        },
+        {
+          "text": "NEITHER AUTOMATIC DECLINE NOR AN UNTROUBLED GOLDEN AGE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONTINUITY → Akbar's fiscal-military state and composite elite survive",
+        "CONSOLIDATION → Mewar, Kangra and negotiated commercial access",
+        "CONTEST → princes, household networks, nobles and unfinished frontiers",
+        "CAPACITY → campaigns and administration continue despite court conflict",
+        "LIMIT → Qandahar, Deccan and succession expose coordination problems"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONTINUITY → Akbar's fiscal-military state and composite elite survive",
+            "CONSOLIDATION → Mewar, Kangra and negotiated commercial access"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CONTEST → princes, household networks, nobles and unfinished frontiers",
+            "CAPACITY → campaigns and administration continue despite court conflict"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → Qandahar, Deccan and succession expose coordination problems",
+            "VERDICT → neither automatic decline nor an untroubled golden age."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → neither automatic decline nor an untroubled golden age.",
+      "source_references": [
+        "Continuity",
+        "Consolidation",
+        "Court politics",
+        "Decline debate"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ACCESSION, ORDERS AND THE CHAIN OF JUSTICE",
+      "structural_type": "claim-reach-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ACCESSION, ORDERS AND THE CHAIN OF JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "TITLES, REWARDS AND AUDIENCE REPRODUCE ELITE CONFIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "TWELVE ORDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "MEMOIR PUBLICISES A PROGRAMME OF RECTITUDE AND CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "GOLD CHAIN MAKES ROYAL ACCESSIBILITY VISIBLE AND AUDIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "PROCLAMATION MUST BE SEPARATED FROM LOCAL COMPLIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RULER-CENTRED DISCRETION IS NOT MODERN EQUAL RULE OF LAW",
+          "role": "caution"
+        },
+        {
+          "text": "SOCIAL REACH.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ACCESSION → titles, rewards and audience reproduce elite confidence",
+        "TWELVE ORDERS → memoir publicises a programme of rectitude and control",
+        "ZANJIR-I-ADL → gold chain makes royal accessibility visible and audible",
+        "IMPLEMENTATION → proclamation must be separated from local compliance",
+        "LIMIT → ruler-centred discretion is not modern equal rule of law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ACCESSION → titles, rewards and audience reproduce elite confidence",
+            "TWELVE ORDERS → memoir publicises a programme of rectitude and control"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ZANJIR-I-ADL → gold chain makes royal accessibility visible and audible",
+            "IMPLEMENTATION → proclamation must be separated from local compliance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → ruler-centred discretion is not modern equal rule of law",
+            "METHOD → object / claim / transmission / social reach."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → ruler-centred discretion is not modern equal rule of law.",
+      "source_references": [
+        "Accession",
+        "Twelve orders",
+        "Zanjir-i-adl",
+        "Justice"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KHUSRAU AND GURU ARJAN: EVENT PLUS SOURCE MATRIX",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KHUSRAU AND GURU ARJAN",
+          "role": "primary"
+        },
+        {
+          "text": "EVENT PLUS SOURCE MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "KHUSRAU 1606",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCELY SUCCESSION REVOLT MOVING THROUGH PUNJAB",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPERIAL SUSPICION AND SELF-JUSTIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "SIKH TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNITY MEMORY OF GURU ARJAN'S MARTYRDOM",
+          "role": "comparison"
+        },
+        {
+          "text": "OTHER ACCOUNTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KHUSRAU 1606 → princely succession revolt moving through Punjab",
+        "JAHANGIRNAMA → imperial suspicion and self-justification",
+        "SIKH TRADITION → community memory of Guru Arjan's martyrdom",
+        "OTHER ACCOUNTS → fiscal, political and religious dimensions need comparison",
+        "TURNING POINT → rupture deepens; later militarisation has its own chronology"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "KHUSRAU 1606 → princely succession revolt moving through Punjab",
+          "SIKH TRADITION → community memory of Guru Arjan's martyrdom",
+          "TURNING POINT → rupture deepens; later militarisation has its own chronology"
+        ],
+        [
+          "JAHANGIRNAMA → imperial suspicion and self-justification",
+          "OTHER ACCOUNTS → fiscal, political and religious dimensions need comparison",
+          "TRAP → avoid both communal monocause and sanitised denial of coercion."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "KHUSRAU 1606 → princely succession revolt moving through Punjab",
+            "JAHANGIRNAMA → imperial suspicion and self-justification"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "SIKH TRADITION → community memory of Guru Arjan's martyrdom",
+            "OTHER ACCOUNTS → fiscal, political and religious dimensions need comparison"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "TURNING POINT → rupture deepens; later militarisation has its own chronology",
+            "TRAP → avoid both communal monocause and sanitised denial of coercion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → avoid both communal monocause and sanitised denial of coercion.",
+      "source_references": [
+        "Khusrau",
+        "Guru Arjan",
+        "Punjab",
+        "Source criticism"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MEWAR 1615: PRESSURE JOINED TO ACCOMMODATION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEWAR 1615",
+          "role": "primary"
+        },
+        {
+          "text": "PRESSURE JOINED TO ACCOMMODATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MUGHAL PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "KHURRAM'S CAMPAIGN AND SUSTAINED IMPERIAL WEIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "MEWAR COST",
+          "role": "primary"
+        },
+        {
+          "text": "EXHAUSTION AND DISRUPTION MAKE SETTLEMENT ATTRACTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "MUGHAL SUZERAINTY IS RECOGNISED",
+          "role": "comparison"
+        },
+        {
+          "text": "AMAR SINGH AVOIDS PERSONAL ATTENDANCE; KARAN SINGH IS RECEIVED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MUGHAL PRESSURE → Khurram's campaign and sustained imperial weight",
+        "MEWAR COST → exhaustion and disruption make settlement attractive",
+        "HIERARCHY → Mughal suzerainty is recognised",
+        "HONOUR → Amar Singh avoids personal attendance; Karan Singh is received",
+        "RESTRAINT → no personal humiliation or compulsory marriage bargain"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "MUGHAL PRESSURE → Khurram's campaign and sustained imperial weight",
+          "HIERARCHY → Mughal suzerainty is recognised",
+          "RESTRAINT → no personal humiliation or compulsory marriage bargain"
+        ],
+        [
+          "MEWAR COST → exhaustion and disruption make settlement attractive",
+          "HONOUR → Amar Singh avoids personal attendance; Karan Singh is received",
+          "VERDICT → incorporation without dynastic absorption or equality."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MUGHAL PRESSURE → Khurram's campaign and sustained imperial weight",
+            "MEWAR COST → exhaustion and disruption make settlement attractive"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HIERARCHY → Mughal suzerainty is recognised",
+            "HONOUR → Amar Singh avoids personal attendance; Karan Singh is received"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RESTRAINT → no personal humiliation or compulsory marriage bargain",
+            "VERDICT → incorporation without dynastic absorption or equality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → incorporation without dynastic absorption or equality.",
+      "source_references": [
+        "Mewar settlement",
+        "Amar Singh",
+        "Karan Singh",
+        "Prince Khurram"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ENGLISH COMMERCIAL DIPLOMACY WITHOUT COLONIAL TELEOLOGY",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENGLISH COMMERCIAL DIPLOMACY WITHOUT COLONIAL TELEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "PETITIONING TRADE; MARITIME LEVERAGE, NOT SOVEREIGNTY",
+          "role": "caution"
+        },
+        {
+          "text": "ROE 1615-19",
+          "role": "comparison"
+        },
+        {
+          "text": "GIFTS, AUDIENCES, DELAYS AND RANK DISPUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "1618 FACILITIES",
+          "role": "primary"
+        },
+        {
+          "text": "TRADING PERMISSION ON MUGHAL TERMS, NOT TERRITORY",
+          "role": "caution"
+        },
+        {
+          "text": "REJECT COLONIAL TELEOLOGY; READ COMPANY RECORDS AS INTERESTED SOURCES.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HAWKINS / SWALLY → petitioning trade; maritime leverage, not sovereignty",
+        "ROE 1615-19 → gifts, audiences, delays and rank disputes",
+        "1618 FACILITIES → trading permission on Mughal terms, not territory",
+        "METHOD → reject colonial teleology; read Company records as interested sources."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HAWKINS / SWALLY → petitioning trade; maritime leverage, not sovereignty",
+            "ROE 1615-19 → gifts, audiences, delays and rank disputes"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "1618 FACILITIES → trading permission on Mughal terms, not territory",
+            "METHOD → reject colonial teleology; read Company records as interested sources."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HAWKINS / SWALLY → petitioning trade; maritime leverage, not sovereignty",
+            "ROE 1615-19 → gifts, audiences, delays and rank disputes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD → reject colonial teleology; read Company records as interested sources.",
+      "source_references": [
+        "William Hawkins",
+        "Thomas Roe",
+        "Swally",
+        "Surat",
+        "1618 farman"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NUR JAHAN'S AUTHORITY: EVIDENCE BEFORE LABEL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NUR JAHAN'S AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE BEFORE LABEL",
+          "role": "evidence"
+        },
+        {
+          "text": "PROXIMITY LINKS HOUSEHOLD AND SERVICE NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTED INTERVENTION; COINS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCEPTIONAL PUBLIC VISIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "COMMEMORATION AND ARCHITECTURAL PATRONAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONG EVIDENCE OF UNUSUAL AUTHORITY, NOT PROOF THAT SHE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACCESS / KINSHIP → proximity links household and service networks",
+        "FARMANS → directed intervention; COINS → exceptional public visibility",
+        "ITIMAD-UD-DAULAH → commemoration and architectural patronage",
+        "LIMIT → strong evidence of unusual authority, not proof that she ruled alone."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "ACCESS / KINSHIP → proximity links household and service networks",
+          "ITIMAD-UD-DAULAH → commemoration and architectural patronage",
+          "ACCESS / KINSHIP → proximity links household and service networks"
+        ],
+        [
+          "FARMANS → directed intervention; COINS → exceptional public visibility",
+          "LIMIT → strong evidence of unusual authority, not proof that she ruled alone.",
+          "FARMANS → directed intervention; COINS → exceptional public visibility"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "ACCESS / KINSHIP → proximity links household and service networks",
+            "FARMANS → directed intervention; COINS → exceptional public visibility"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "ITIMAD-UD-DAULAH → commemoration and architectural patronage",
+            "LIMIT → strong evidence of unusual authority, not proof that she ruled alone."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "ACCESS / KINSHIP → proximity links household and service networks",
+            "FARMANS → directed intervention; COINS → exceptional public visibility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → strong evidence of unusual authority, not proof that she ruled alone.",
+      "source_references": [
+        "Nur Jahan",
+        "Farmans",
+        "Coins",
+        "Ghiyas Beg",
+        "Itimad-ud-Daulah"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE FIXED-JUNTA THESIS UNDER REVIEW",
+      "structural_type": "myth-vs-rule",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE FIXED-JUNTA THESIS UNDER REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "FIXED-JUNTA CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "NUR JAHAN, KIN AND KHURRAM FORM ONE LASTING BLOC",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLIANCES SHIFT AFTER 1622; EMPEROR, PRINCES AND OFFICES REMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "GENDER RULE",
+          "role": "primary"
+        },
+        {
+          "text": "CORRECT EXAGGERATION WITHOUT ERASING EXCEPTIONAL FEMALE AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "BETTER MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANGING HOUSEHOLD-SERVICE NETWORKS AROUND ACCESS AND SUCCESSION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIXED-JUNTA CLAIM → Nur Jahan, kin and Khurram form one lasting bloc",
+        "TEST → alliances shift after 1622; emperor, princes and offices remain operative",
+        "GENDER RULE → correct exaggeration without erasing exceptional female agency",
+        "BETTER MODEL → changing household-service networks around access and succession."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FIXED-JUNTA CLAIM → Nur Jahan, kin and Khurram form one lasting bloc",
+            "TEST → alliances shift after 1622; emperor, princes and offices remain operative"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GENDER RULE → correct exaggeration without erasing exceptional female agency",
+            "BETTER MODEL → changing household-service networks around access and succession."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FIXED-JUNTA CLAIM → Nur Jahan, kin and Khurram form one lasting bloc",
+            "TEST → alliances shift after 1622; emperor, princes and offices remain operative"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENDER RULE → correct exaggeration without erasing exceptional female agency.",
+      "source_references": [
+        "Nur Jahan junta",
+        "Beni Prasad",
+        "Nurul Hasan",
+        "Faction"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHY KHURRAM REBELLED, 1622-25",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY KHURRAM REBELLED, 1622-25",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSION FEAR",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVAL CLAIMS AND CHANGING HOUSEHOLD ALIGNMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "QANDAHAR ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ABSENCE AND COMMAND RISKS; RESOURCES SUSTAIN BARGAINING",
+          "role": "primary"
+        },
+        {
+          "text": "NUR JAHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "PERCEIVED PREFERENCE SHARPENS KHURRAM'S INSECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGING PRESSURES CAUSE REBELLION; ADMINISTRATION SURVIVES THE TEST.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SUCCESSION FEAR → rival claims and changing household alignments",
+        "QANDAHAR ORDER → absence and command risks; resources sustain bargaining",
+        "NUR JAHAN / SHAHRYAR → perceived preference sharpens Khurram's insecurity",
+        "VERDICT → converging pressures cause rebellion; administration survives the test."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SUCCESSION FEAR → rival claims and changing household alignments",
+            "QANDAHAR ORDER → absence and command risks; resources sustain bargaining"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "NUR JAHAN / SHAHRYAR → perceived preference sharpens Khurram's insecurity",
+            "VERDICT → converging pressures cause rebellion; administration survives the test."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SUCCESSION FEAR → rival claims and changing household alignments",
+            "QANDAHAR ORDER → absence and command risks; resources sustain bargaining"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → converging pressures cause rebellion; administration survives the test.",
+      "source_references": [
+        "Prince Khurram",
+        "Qandahar 1622",
+        "Shahryar",
+        "Succession"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MAHABAT KHAN'S COUP, 1626",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MAHABAT KHAN'S COUP, 1626",
+          "role": "primary"
+        },
+        {
+          "text": "COURT TENSIONS MEET A TACTICAL RIVER-CROSSING OPENING",
+          "role": "institution"
+        },
+        {
+          "text": "MAHABAT CONTROLS THE EMPEROR'S PERSON WITH RAJPUT SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "SOVEREIGN BODY IS NOT TREASURY, SCRIBAL STATE OR BROAD",
+          "role": "caution"
+        },
+        {
+          "text": "NUR JAHAN",
+          "role": "primary"
+        },
+        {
+          "text": "COALITION AND MANOEUVRE SHOW WHY SPECTACULAR CAPTURE CANNOT GOVERN.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GRIEVANCE / JHELUM → court tensions meet a tactical river-crossing opening",
+        "SEIZURE → Mahabat controls the emperor's person with Rajput support",
+        "LIMIT → sovereign body is not treasury, scribal state or broad consent",
+        "NUR JAHAN → coalition and manoeuvre show why spectacular capture cannot govern."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GRIEVANCE / JHELUM → court tensions meet a tactical river-crossing opening",
+            "SEIZURE → Mahabat controls the emperor's person with Rajput support"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT → sovereign body is not treasury, scribal state or broad consent",
+            "NUR JAHAN → coalition and manoeuvre show why spectacular capture cannot govern."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GRIEVANCE / JHELUM → court tensions meet a tactical river-crossing opening",
+            "SEIZURE → Mahabat controls the emperor's person with Rajput support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NUR JAHAN → coalition and manoeuvre show why spectacular capture cannot govern.",
+      "source_references": [
+        "Mahabat Khan",
+        "Jhelum",
+        "Coup",
+        "Nur Jahan"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "JAHANGIR AS RULER AND HISTORICAL SOURCE",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JAHANGIR AS RULER AND HISTORICAL SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MEWAR AND KANGRA; DECCAN, QANDAHAR AND PRINCELY CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "INHERITED ACCOMMODATION COEXISTS WITH SELECTIVE COERCION",
+          "role": "comparison"
+        },
+        {
+          "text": "NATURE, ART AND SELF-FASHIONING; MEMOIR NEEDS CORROBORATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPABLE BUT UNEVEN; HEALTH AND HABIT CANNOT REPLACE INSTITUTIONS.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAPACITY / LIMITS → Mewar and Kangra; Deccan, Qandahar and princely conflict",
+        "RELIGION → inherited accommodation coexists with selective coercion",
+        "JAHANGIRNAMA → nature, art and self-fashioning; memoir needs corroboration",
+        "VERDICT → capable but uneven; health and habit cannot replace institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CAPACITY / LIMITS → Mewar and Kangra; Deccan, Qandahar and princely conflict",
+            "RELIGION → inherited accommodation coexists with selective coercion"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "JAHANGIRNAMA → nature, art and self-fashioning; memoir needs corroboration",
+            "VERDICT → capable but uneven; health and habit cannot replace institutions."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "CAPACITY / LIMITS → Mewar and Kangra; Deccan, Qandahar and princely conflict",
+            "RELIGION → inherited accommodation coexists with selective coercion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → capable but uneven; health and habit cannot replace institutions.",
+      "source_references": [
+        "Jahangirnama",
+        "Mewar",
+        "Kangra",
+        "Religious policy",
+        "Sources"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 20 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 20 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUITY PLUS ACTIVE POLITICAL REPRODUCTION AFTER 1605",
+          "role": "outcome"
+        },
+        {
+          "text": "NUR JAHAN",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDERS, SETTLEMENT TERMS, FARMANS, COINS, TOMB AND MEMOIR",
+          "role": "evidence"
+        },
+        {
+          "text": "EMPEROR, HOUSEHOLD, PRINCES, NOBLES AND FRONTIER PRESSURES",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE REACH, CHANGING FACTIONS, GENDER STRUCTURE AND COERCION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSOLIDATION WITH CONTEST, NOT DECLINE OR SOLE FEMALE RULE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → continuity plus active political reproduction after 1605",
+        "TRACE → accession → Khusrau → Mewar → Nur Jahan → 1622 → 1626",
+        "PROVE → orders, settlement terms, farmans, coins, tomb and memoir",
+        "ANALYSE → emperor, household, princes, nobles and frontier pressures",
+        "QUALIFY → source reach, changing factions, gender structure and coercion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → continuity plus active political reproduction after 1605",
+            "TRACE → accession → Khusrau → Mewar → Nur Jahan → 1622 → 1626"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PROVE → orders, settlement terms, farmans, coins, tomb and memoir",
+            "ANALYSE → emperor, household, princes, nobles and frontier pressures"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "QUALIFY → source reach, changing factions, gender structure and coercion",
+            "VERDICT → consolidation with contest, not decline or sole female rule."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → consolidation with contest, not decline or sole female rule.",
+      "source_references": [
+        "Answer architecture",
+        "Chronology",
+        "Evidence",
+        "Qualified verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART IXA - ADVANCED EVIDENCE AND ANSWER-WRITING HANDBOOK",
+          "role": "mechanism"
+        },
+        {
+          "text": "EVIDENCE BANK 1. ACCESSION AS POLITICAL WORK",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE BANK 2. JUSTICE AS AN IDIOM OF SOVEREIGNTY",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE BANK 3. PUNJAB, SUCCESSION AND COMMUNITY MEMORY",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE BANK 4. MEWAR AND THE VOCABULARY OF HIERARCHY",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE BANK 5. FORTS, FRONTIERS AND LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE BANK 6. MERCHANT DIPLOMACY WITHOUT COLONIAL TELEOLOGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PART IXA - ADVANCED EVIDENCE AND ANSWER-WRITING HANDBOOK",
+            "Evidence bank 1. Accession as political work",
+            "Evidence bank 2. Justice as an idiom of sovereignty",
+            "Evidence bank 3. Punjab, succession and community memory"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Evidence bank 4. Mewar and the vocabulary of hierarchy",
+            "Evidence bank 5. Forts, frontiers and limits",
+            "Evidence bank 6. Merchant diplomacy without colonial teleology",
+            "Evidence bank 7. Household politics as institution"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Evidence bank 8. Gender, material culture and attribution",
+            "Evidence bank 9. Historiography as an evidence test",
+            "Evidence bank 10. Khurram and resources of succession",
+            "Evidence bank 11. The body of the emperor and the state"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

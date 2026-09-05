@@ -1,0 +1,1252 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-45",
+  "subject": "Polity",
+  "title": "NATIONAL INTEGRATION AND FOREIGN POLICY",
+  "short_route": "BELONGING → RIGHTS → FEDERALISM → CHALLENGES → NIC → FOREIGN COMPETENCE → TREATIES → STRATEGIC AUTONOMY → LANGUAGE → SECURITY → PYQS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • target generation g4 • explicit approval required"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g4\\polity-45_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "generated-at-build",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL PATRIOTISM AND INTEGRATION BY ACCOMMODATION",
+      "structural_type": "integration-value-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL PATRIOTISM AND INTEGRATION BY ACCOMMODATION",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN A PLURAL FEDERATION SUSTAIN COMMON CITIZENSHIP WITHOUT",
+          "role": "comparison"
+        },
+        {
+          "text": "PREAMBLE UNITY AND INTEGRITY + FRATERNITY + DIGNITY +",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL PATRIOTISM LOYALTY TO CONSTITUTIONAL VALUES AND EQUAL CITIZENSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOMMODATION LINGUISTIC STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 29-30",
+          "role": "comparison"
+        },
+        {
+          "text": "FIFTH/SIXTH SCHEDULES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can a plural federation sustain common citizenship without cultural uniformity?",
+        "PREAMBLE unity and integrity + fraternity + dignity + justice + liberty + equality.",
+        "CONSTITUTIONAL PATRIOTISM loyalty to constitutional values and equal citizenship, not compulsory cultural sameness.",
+        "ACCOMMODATION linguistic States"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can a plural federation sustain common citizenship without cultural uniformity?",
+            "PREAMBLE unity and integrity + fraternity + dignity + justice + liberty + equality.",
+            "CONSTITUTIONAL PATRIOTISM loyalty to constitutional values and equal citizenship, not compulsory cultural sameness."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ACCOMMODATION linguistic States",
+            "Articles 29-30",
+            "Fifth/Sixth Schedules",
+            "Articles 371-371J"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "official-language pluralism.",
+            "COMMON SPINE single citizenship",
+            "integrated judiciary",
+            "All-India Services"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "national institutions.",
+            "India integrates through a calibrated blend, predominantly accommodationist."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India's predominantly accommodationist model builds unity by recognising multiple identities rather than demanding assimilation into a single national form.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RIGHTS, DPSPS, DUTIES AND COOPERATIVE-FEDERAL MECHANISMS",
+      "structural_type": "integration-instrument-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS, DPSPS, DUTIES AND COOPERATIVE-FEDERAL MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS EQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGIOUS LIBERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "CULTURAL/EDUCATIONAL PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "DPSP SOCIAL JUSTICE AND REDUCTION OF INEQUALITY REDUCE EXCLUSION-DRIVEN",
+          "role": "primary"
+        },
+        {
+          "text": "51A(C) SOVEREIGNTY, UNITY AND INTEGRITY",
+          "role": "outcome"
+        },
+        {
+          "text": "51A(E) HARMONY AND COMMON BROTHERHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "51A(I) PUBLIC PROPERTY AND NON-VIOLENCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIGHTS equality",
+        "religious liberty",
+        "cultural/educational protection",
+        "DPSP social justice and reduction of inequality reduce exclusion-driven alienation.",
+        "51A(c) sovereignty, unity and integrity"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "RIGHTS equality",
+          "51A(c) sovereignty, unity and integrity",
+          "FEDERAL MECHANISMS",
+          "local self-government."
+        ],
+        [
+          "religious liberty",
+          "51A(e) harmony and common brotherhood",
+          "Finance Commission",
+          "LIMIT duties are non-justiciable; emergency/security power remains rights- and review-bounded."
+        ],
+        [
+          "cultural/educational protection",
+          "51A(i) public property and non-violence.",
+          "Inter-State Council",
+          ""
+        ],
+        [
+          "DPSP social justice and reduction of inequality reduce exclusion-driven alienation.",
+          "S.R. Bommai (1994) federalism and secularism operate as basic-structure limits on central power.",
+          "linguistic reorganisation asymmetric autonomy",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RIGHTS equality",
+            "religious liberty",
+            "cultural/educational protection",
+            "DPSP social justice and reduction of inequality reduce exclusion-driven alienation."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "51A(c) sovereignty, unity and integrity",
+            "51A(e) harmony and common brotherhood",
+            "51A(i) public property and non-violence.",
+            "S.R. Bommai (1994) federalism and secularism operate as basic-structure limits on central power."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FEDERAL MECHANISMS",
+            "Finance Commission",
+            "Inter-State Council",
+            "linguistic reorganisation asymmetric autonomy"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "local self-government.",
+            "LIMIT duties are non-justiciable; emergency/security power remains rights- and review-bounded."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Union treaty competence follows executive authority over external affairs, but treaties affecting State subjects can create federal friction when legislative consultation is weak.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INTEGRATION CHALLENGE-RESPONSE MAP",
+      "structural_type": "integration-risk-response",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTEGRATION CHALLENGE-RESPONSE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CHALLENGES COMMUNALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE EXCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "SECESSIONISM/INSURGENCY INEQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MIGRATION STRESS",
+          "role": "primary"
+        },
+        {
+          "text": "IN RE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 6A (2024) CITIZENSHIP, MIGRATION AND REGIONAL PROTECTION REQUIRE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESPONSE LADDER EQUAL CITIZENSHIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHALLENGES communalism",
+        "caste exclusion",
+        "secessionism/insurgency inequality",
+        "migration stress",
+        "In Re: Section 6A (2024) citizenship, migration and regional protection require text, evidence and equality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHALLENGES communalism",
+            "caste exclusion",
+            "secessionism/insurgency inequality",
+            "migration stress"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "In Re: Section 6A (2024) citizenship, migration and regional protection require text, evidence and equality review.",
+            "RESPONSE LADDER equal citizenship → representation → devolution/asymmetry",
+            "development/fiscal justice → dialogue → lawful proportionate security",
+            "judicial review → reconciliation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION regional identity != secession",
+            "migration != collective guilt",
+            "dissent != disloyalty",
+            "security necessity != unrestricted power."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "OUTCOME integration is a continuing constitutional negotiation, not a completed event."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Distinction: mere settlement/ascertainment of a boundary does not need an amendment, but transfer of territory does.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NATIONAL INTEGRATION COUNCIL AND THE SHIFT FROM FORUM TO ARCHITECTURE",
+      "structural_type": "nic-status-accountability",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NATIONAL INTEGRATION COUNCIL AND THE SHIFT FROM FORUM TO",
+          "role": "institution"
+        },
+        {
+          "text": "NIC EXTRA-CONSTITUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIRED BY PRIME MINISTER",
+          "role": "comparison"
+        },
+        {
+          "text": "CREATED 1961.",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCATED STATUS LATEST LOCATED MEETING",
+          "role": "primary"
+        },
+        {
+          "text": "NO LATER OFFICIAL RECONSTITUTION OR MEETING IS ASSERTED THROUGH",
+          "role": "caution"
+        },
+        {
+          "text": "WHY IT MATTERED CROSS-PARTY, UNION-STATE AND CIVIL-SOCIETY DELIBERATION ON",
+          "role": "institution"
+        },
+        {
+          "text": "WHY IT WEAKENED IRREGULAR MEETINGS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NIC extra-constitutional",
+        "chaired by Prime Minister",
+        "created 1961.",
+        "LOCATED STATUS latest located meeting: 2013.",
+        "No later official reconstitution or meeting is asserted through 25 August 2026."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NIC extra-constitutional",
+            "chaired by Prime Minister",
+            "created 1961."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LOCATED STATUS latest located meeting: 2013.",
+            "No later official reconstitution or meeting is asserted through 25 August 2026.",
+            "WHY IT MATTERED cross-party, Union-State and civil-society deliberation on communalism and integration."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHY IT WEAKENED irregular meetings",
+            "non-binding output",
+            "alternative forums."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REFORM CHOICE reconstitute with agenda, evidence, State voice and published follow-up or strengthen equivalent cooperative-federal mechanisms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 51A(c), (e) and (i) link national integration to sovereignty, fraternity, women's dignity, public property and rejection of violence, making citizenship an active constitutional ethic.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FOREIGN-POLICY CONSTITUTIONAL COMPETENCE",
+      "structural_type": "foreign-policy-article-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FOREIGN-POLICY CONSTITUTIONAL COMPETENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 51 PEACE AND SECURITY",
+          "role": "institution"
+        },
+        {
+          "text": "HONOURABLE RELATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNATIONAL LAW/TREATIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 246 + UNION LIST 10-21 FOREIGN AFFAIRS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 73",
+          "role": "institution"
+        },
+        {
+          "text": "UNION EXECUTIVE POWER EXTENDS TO PARLIAMENTARY FIELDS AND TREATY-DERIVED",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 253",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 51 peace and security",
+        "honourable relations",
+        "international law/treaties",
+        "ARTICLE 246 + UNION LIST 10-21 foreign affairs",
+        "ARTICLE 73"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 51 peace and security",
+            "honourable relations",
+            "international law/treaties"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 246 + UNION LIST 10-21 foreign affairs",
+            "ARTICLE 73",
+            "Union executive power extends to parliamentary fields and treaty-derived rights/jurisdiction."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 253",
+            "Parliament may implement treaty/convention/international decisions notwithstanding ordinary legislative distribution.",
+            "CHAIN international negotiation → executive commitment → domestic-law test"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "legislation if rights/duties/law must change → judicial review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 51 is a non-justiciable directive; treaty-making and foreign-policy doctrines remain executive policy unless domestic law gives them legal effect.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TREATIES, TERRITORY AND DOMESTIC-LAW CASES",
+      "structural_type": "treaty-case-doctrine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TREATIES, TERRITORY AND DOMESTIC-LAW CASES",
+          "role": "primary"
+        },
+        {
+          "text": "BERUBARI UNION (1960) CESSION OF INDIAN TERRITORY REQUIRES CONSTITUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "MAGANBHAI ISHWARBHAI PATEL (1969) EXECUTIVE MAY IMPLEMENT A BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATION IS REQUIRED WHERE LAW OR RIGHTS MUST BE",
+          "role": "evidence"
+        },
+        {
+          "text": "JOLLY GEORGE VARGHESE V. BANK OF COCHIN (1980) INTERNATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "GRAMOPHONE COMPANY OF INDIA V. BIRENDRA BAHADUR PANDEY (1984)",
+          "role": "outcome"
+        },
+        {
+          "text": "VISHAKA (1997) INTERNATIONAL NORMS CAN FILL A DOMESTIC-LAW VACUUM",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAP TREATY BINDING INTERNATIONALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Berubari Union (1960) cession of Indian territory requires constitutional amendment.",
+        "Maganbhai Ishwarbhai Patel (1969) executive may implement a boundary settlement if existing domestic law need",
+        "legislation is required where law or rights must be altered.",
+        "Jolly George Varghese v. Bank of Cochin (1980) international covenant does not automatically override inconsistent",
+        "Gramophone Company of India v. Birendra Bahadur Pandey (1984) international law may guide interpretation where"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Berubari Union (1960) cession of Indian territory requires constitutional amendment.",
+            "Maganbhai Ishwarbhai Patel (1969) executive may implement a boundary settlement if existing domestic law need not change"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "legislation is required where law or rights must be altered.",
+            "Jolly George Varghese v. Bank of Cochin (1980) international covenant does not automatically override inconsistent domestic law."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Gramophone Company of India v. Birendra Bahadur Pandey (1984) international law may guide interpretation where domestic law is not contrary.",
+            "Vishaka (1997) international norms can fill a domestic-law vacuum consistently with Fundamental Rights."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP treaty binding internationally != automatic self-execution domestically.",
+            "Berubari Union (1960) cession of Indian territory requires constitutional amendment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The executive's near-monopoly on treaty-making, unchecked by any ratification requirement, is efficient but democratically thin: Parliament enters only to legislate implementation under Art 253, not to approve the treaty itself.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FROM NON-ALIGNMENT TO STRATEGIC AUTONOMY",
+      "structural_type": "foreign-policy-evolution-rail",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM NON-ALIGNMENT TO STRATEGIC AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "FOUNDATIONAL PRINCIPLES ANTI-COLONIALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "SOVEREIGN EQUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PEACEFUL COEXISTENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "UN SUPPORT.",
+          "role": "primary"
+        },
+        {
+          "text": "PANCHSHEEL 1954 TERRITORIAL INTEGRITY/SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-INTERFERENCE EQUALITY/MUTUAL BENEFIT",
+          "role": "comparison"
+        },
+        {
+          "text": "PEACEFUL COEXISTENCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOUNDATIONAL PRINCIPLES anti-colonialism",
+        "sovereign equality",
+        "peaceful coexistence",
+        "UN support.",
+        "PANCHSHEEL 1954 territorial integrity/sovereignty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FOUNDATIONAL PRINCIPLES anti-colonialism",
+            "sovereign equality",
+            "peaceful coexistence",
+            "UN support."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PANCHSHEEL 1954 territorial integrity/sovereignty",
+            "non-interference equality/mutual benefit",
+            "peaceful coexistence.",
+            "NON-ALIGNMENT independent judgment in bloc rivalry; not neutrality in every conflict."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRATEGIC AUTONOMY diversified partnerships + issue-based coalitions + defence/economic capacity.",
+            "CURRENT DIMENSIONS neighbourhood",
+            "Global South",
+            "UN reform."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT these are policy doctrines, not judicially enforceable constitutional commands."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A strong constitutional analysis scales evidence to the question while preserving the core tension between executive flexibility, legislative oversight and national interest.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DIASPORA, DEVELOPMENT, CLIMATE AND FEDERAL CONSULTATION",
+      "structural_type": "external-domestic-link-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIASPORA, DEVELOPMENT, CLIMATE AND FEDERAL CONSULTATION",
+          "role": "primary"
+        },
+        {
+          "text": "DIASPORA CONSULAR SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "CRISIS ASSISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "<→ HOST-STATE LAW AND PLURAL OVERSEAS INTERESTS.",
+          "role": "institution"
+        },
+        {
+          "text": "DEVELOPMENT PARTNERSHIP CAPACITY, CREDIT, INFRASTRUCTURE AND HUMANITARIAN COOPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "<→ DEBT, LOCAL OWNERSHIP AND DELIVERY CONCERNS.",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE EQUITY AND COMMON-BUT-DIFFERENTIATED RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL COMMITMENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIASPORA consular support",
+        "crisis assistance",
+        "<→ host-State law and plural overseas interests.",
+        "DEVELOPMENT PARTNERSHIP capacity, credit, infrastructure and humanitarian cooperation",
+        "<→ debt, local ownership and delivery concerns."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIASPORA consular support",
+            "crisis assistance",
+            "<→ host-State law and plural overseas interests."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DEVELOPMENT PARTNERSHIP capacity, credit, infrastructure and humanitarian cooperation",
+            "<→ debt, local ownership and delivery concerns.",
+            "CLIMATE equity and common-but-differentiated responsibility"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "national commitments → domestic energy/agriculture/industry policy.",
+            "FEDERAL CONSULTATION treaty effects on State subjects, border communities, trade and water require information-sharing and implementation cooperation.",
+            "INTEGRATION LINK external policy is durable when domestic regions and citizens see legitimate inclusion."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DEVELOPMENT PARTNERSHIP capacity, credit, infrastructure and humanitarian cooperation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 73 supports executive treaty-making, while Article 253 enables domestic implementation; the absence of general ratification leaves a significant parliamentary-oversight gap.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LANGUAGE, MINORITIES AND COMPOSITE CULTURE",
+      "structural_type": "reviewed-topic-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LANGUAGE, MINORITIES AND COMPOSITE CULTURE",
+          "role": "primary"
+        },
+        {
+          "text": "Article 343: Union official language",
+          "role": "outcome"
+        },
+        {
+          "text": "English continues by statute",
+          "role": "comparison"
+        },
+        {
+          "text": "Articles 29-30: cultural and educational rights",
+          "role": "evidence"
+        },
+        {
+          "text": "State official languages",
+          "role": "primary"
+        },
+        {
+          "text": "Eighth Schedule is distinct",
+          "role": "outcome"
+        },
+        {
+          "text": "Articles 350A-350B",
+          "role": "comparison"
+        },
+        {
+          "text": "No national-language declaration",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Article 343: Union official language",
+        "English continues by statute",
+        "Articles 29-30: cultural and educational rights"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Article 343: Union official language",
+            "English continues by statute",
+            "Articles 29-30: cultural and educational rights"
+          ]
+        },
+        {
+          "heading": "PLURAL DESIGN",
+          "role": "mechanism",
+          "items": [
+            "State official languages",
+            "Eighth Schedule is distinct",
+            "Articles 350A-350B"
+          ]
+        },
+        {
+          "heading": "CHECKS",
+          "role": "caution",
+          "items": [
+            "No national-language declaration",
+            "Article 351 does not erase plural safeguards"
+          ]
+        },
+        {
+          "heading": "OUTCOME",
+          "role": "outcome",
+          "items": [
+            "communication plus cultural security",
+            "composite culture under 51A(f)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Language policy integrates when communication and cultural security coexist.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g4\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EMERGENCY AND SECURITY POWER UNDER CONSTITUTIONAL LIMITS",
+      "structural_type": "reviewed-topic-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EMERGENCY AND SECURITY POWER UNDER CONSTITUTIONAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "Article 355: protection and constitutional government",
+          "role": "outcome"
+        },
+        {
+          "text": "targeted lawful security",
+          "role": "comparison"
+        },
+        {
+          "text": "Article 356 is exceptional",
+          "role": "evidence"
+        },
+        {
+          "text": "S. R. S.R. Bommai (1994): judicial review",
+          "role": "primary"
+        },
+        {
+          "text": "legality",
+          "role": "outcome"
+        },
+        {
+          "text": "necessity",
+          "role": "comparison"
+        },
+        {
+          "text": "proportionality",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Article 355: protection and constitutional government",
+        "targeted lawful security"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DUTY",
+          "role": "institution",
+          "items": [
+            "Article 355: protection and constitutional government",
+            "targeted lawful security"
+          ]
+        },
+        {
+          "heading": "EXCEPTION",
+          "role": "mechanism",
+          "items": [
+            "Article 356 is exceptional",
+            "S. R. S.R. Bommai (1994): judicial review"
+          ]
+        },
+        {
+          "heading": "CHECKS",
+          "role": "caution",
+          "items": [
+            "legality",
+            "necessity",
+            "proportionality",
+            "remedy"
+          ]
+        },
+        {
+          "heading": "OUTCOME",
+          "role": "outcome",
+          "items": [
+            "dissent is not disloyalty",
+            "security remains review-bounded"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Security strengthens integration only when exceptional power remains lawful, proportionate and reviewable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g4\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VERIFIED PYQ DEMAND MAP AND ANSWER EXECUTION",
+      "structural_type": "reviewed-topic-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VERIFIED PYQ DEMAND MAP AND ANSWER EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "2018 GS-I communalism",
+          "role": "outcome"
+        },
+        {
+          "text": "2022 GS-II BIMSTEC and SAARC",
+          "role": "comparison"
+        },
+        {
+          "text": "2023 GS-I ethnic identity",
+          "role": "evidence"
+        },
+        {
+          "text": "2023 GS-II diaspora",
+          "role": "primary"
+        },
+        {
+          "text": "decode directive",
+          "role": "outcome"
+        },
+        {
+          "text": "select owned doctrine",
+          "role": "comparison"
+        },
+        {
+          "text": "fit evidence to marks",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2018 GS-I communalism",
+        "2022 GS-II BIMSTEC and SAARC",
+        "2023 GS-I ethnic identity",
+        "2023 GS-II diaspora"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "QUESTIONS",
+          "role": "institution",
+          "items": [
+            "2018 GS-I communalism",
+            "2022 GS-II BIMSTEC and SAARC",
+            "2023 GS-I ethnic identity",
+            "2023 GS-II diaspora"
+          ]
+        },
+        {
+          "heading": "EXECUTION",
+          "role": "mechanism",
+          "items": [
+            "decode directive",
+            "select owned doctrine",
+            "fit evidence to marks"
+          ]
+        },
+        {
+          "heading": "CHECKS",
+          "role": "caution",
+          "items": [
+            "exact wording",
+            "word limit",
+            "answer every limb"
+          ]
+        },
+        {
+          "heading": "OUTCOME",
+          "role": "outcome",
+          "items": [
+            "mechanism",
+            "qualification",
+            "verdict"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Verified wording and directive-sensitive architecture prevent a generic essay from replacing the answer asked.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g4\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: UNITY WITHOUT UNIFORMITY, AUTONOMY WITHOUT ISOLATION",
+      "structural_type": "integration-foreign-policy-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "UNITY WITHOUT UNIFORMITY, AUTONOMY WITHOUT ISOLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "NIC ADVISORY, NOT CONSTITUTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 51 DPSP",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 73 EXECUTIVE",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 253 LEGISLATION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 3 INTERNAL BOUNDARY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "NIC advisory, not constitutional",
+        "Article 51 DPSP",
+        "Article 73 executive != Article 253 legislation",
+        "Article 3 internal boundary != foreign cession"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "NIC advisory, not constitutional",
+            "Article 51 DPSP",
+            "Article 73 executive != Article 253 legislation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 3 internal boundary != foreign cession",
+            "NAM != neutrality",
+            "policy doctrine != binding law.",
+            "MAINS SPINE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Preamble → rights/DPSP/duties → federal accommodation",
+            "challenge-response → NIC → competence/treaties",
+            "strategic autonomy → diaspora/climate/federal consultation.",
+            "QUALIFIED VERDICT national integration supplies domestic legitimacy and resilience"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "foreign policy protects sovereignty and expands national capability.",
+            "Both succeed through constitutional inclusion, strategic flexibility and accountable power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Durable national integration places proportionate security within a wider framework of rights, development, representation and federal trust rather than treating coercion as the sole instrument.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g3\\polity-45_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — NATIONAL INTEGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — PRINCIPLES OF INDIAN FOREIGN POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "A SENSE OF ONENESS/UNITY OVERRIDING DIVISIVE IDENTITIES (REGION, RELIGION",
+          "role": "evidence"
+        },
+        {
+          "text": "REGIONALISM, COMMUNALISM, CASTEISM, LINGUISM, AND EXTREMISM/INSURGENCY.",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL BASIS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 51 (DPSP) — PROMOTE INTERNATIONAL PEACE, HONOURABLE INTER-STATE",
+          "role": "institution"
+        },
+        {
+          "text": "THE NIC IS A CONSTITUTIONAL/STATUTORY BODY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — NATIONAL INTEGRATION",
+            "PART B — PRINCIPLES OF INDIAN FOREIGN POLICY",
+            "Meaning: a sense of oneness/unity overriding divisive identities (region, religion, caste, language).",
+            "Obstacles: regionalism, communalism, casteism, linguism, and extremism/insurgency."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Constitutional basis: Article 51 (DPSP) — promote international peace, honourable inter-state relations,",
+            "NOT: The NIC is a constitutional/statutory body → extra-constitutional, non-statutory advisory body (est. 1961).",
+            "NOT: Foreign policy has no constitutional basis → Article 51 (DPSP) provides the directive foundation.",
+            "NOT: Panchsheel was signed with the USSR → with China (1954, Tibet Treaty) , Nehru–Zhou Enlai."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: India signed the NPT/CTBT → India has not signed either (calls them discriminatory).",
+            "NOT: NAM means neutrality/isolation → it means an independent stance, not neutrality or non-involvement.",
+            "NOT: India cut ties with South Africa in 1947 → in 1954 (over apartheid).",
+            "CAUTION: NIC is effectively defunct — its last (16th) meeting was in 2013 ; it has not been reconstituted since 2014 ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

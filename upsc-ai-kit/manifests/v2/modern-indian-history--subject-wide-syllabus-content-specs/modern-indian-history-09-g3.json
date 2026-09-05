@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "topic_key": "modern-indian-history-09",
+  "title": "Social & Cultural Policy — Education, the Press, State & Society",
+  "generation": 3,
+  "generation_date": "2026-08-31",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "modern-indian-history-09:learner-v2:g2",
+  "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\09_Social-and-Cultural-Policy-Education-Press.md": "07b004e34cccf492413e1e732ef85fcb88e9b0d650b35e7cfab78ba25513f888",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md": "e6ade5afa8f05c88ea302d321cd8dd12128ebe4d07e30297c90aaa90d792bcd9",
+    "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g3\\modern-indian-history-09_Complete-Learning-Session_2026-08-31.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g3\\modern-indian-history-09_Solved-Practice-Workbook_2026-08-31.md"
+}

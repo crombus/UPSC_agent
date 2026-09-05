@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-08",
+      "display_title": "Transparency, Accountability, RTI, Grievance Redress and Social Audit",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Transparency to consequence",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "TRANSPARENCY -> visibility of records, spending and decisions",
+            "ANSWERABILITY -> an identifiable authority obliged to explain",
+            "ENFORCEABILITY -> correction, remedy or consequence",
+            "INDIAN PATTERN -> first built extensively, second unevenly, third rarely",
+            "MUST REMEMBER: Accountability requires an actor, forum, information, questioning,..."
+          ],
+          "source_references": [
+            "Transparency, answerability and enforceability",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Information-request route card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "ORDINARY REPLY -> 30 days from the public information officer",
+            "LIFE OR LIBERTY -> 48 hours",
+            "APPEALS -> first appeal ordinarily within 30 days; second appeal within 90 days",
+            "PENALTY -> two hundred and fifty rupees per day up to twenty-five thousand rupees",
+            "LIMIT -> obtains existing information; cannot create it or order a service"
+          ],
+          "source_references": [
+            "The information-request route",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Exemptions and the override",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EXEMPTIONS -> section 8, applied clause by clause",
+            "SEVERABILITY -> an exempt part does not withhold the whole record",
+            "OVERRIDE -> section 8(2) permits disclosure where public interest outweighs harm",
+            "EXCLUSION -> section 24 for listed organisations, with corruption and rights provisos preserved"
+          ],
+          "source_references": [
+            "Exemptions, severability and the override",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "The substituted exemption",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BEFORE -> the pre-substitution personal-information test, now superseded",
+            "13 AND 14 NOVEMBER 2025 -> section 44(3) substitution takes effect in the immediate tranche",
+            "UNAFFECTED -> the section 8(2) public-interest override remains available",
+            "PENDING -> constitutional challenges filed; no final judgment located as of 13 August 2026"
+          ],
+          "source_references": [
+            "The substituted personal-information exemption",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Social audit statutory basis",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SECTION 17 -> the Gram Sabha holds the monitoring and social-audit function",
+            "RULES OF 2011 -> an independent State Social Audit Unit facilitates the audit",
+            "CYCLE -> at least once every six months in every Gram Panchayat",
+            "COMPLETION -> public hearing followed by a mandated follow-up process"
+          ],
+          "source_references": [
+            "The statutory basis and its dual design",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two layers, one audit",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "COMMUNITY LAYER -> local knowledge, public legitimacy, presence of the affected people",
+            "INDEPENDENT UNIT -> facilitation, record access, training, separation from the implementer",
+            "CAPTURE RISK -> present at both layers and not removed by either alone",
+            "TRADE-OFF -> more independence reduces capture and reduces hyper-local knowledge"
+          ],
+          "source_references": [
+            "The statutory basis and its dual design",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two tests that decide quality",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INDEPENDENCE TEST -> is the facilitator structurally separate from the audited department",
+            "FOLLOW-UP TEST -> does a finding trigger timed recovery, discipline or process correction",
+            "ANSWERABILITY -> produced by the public hearing itself",
+            "ENFORCEABILITY -> produced only by the mandated action-taken process"
+          ],
+          "source_references": [
+            "The public hearing and its enforcement gap",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Visibility to correction",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DISCLOSURE -> published but sometimes aggregated, technical or stale",
+            "COMPREHENSION -> intelligible to the affected person, in their own language",
+            "VERIFICATION -> record compared against reality by an independent facilitator",
+            "ANSWERABILITY -> a named official explains in public, on the record",
+            "FOLLOW-UP AND CONSEQUENCE -> action-taken report, recovery, discipline; the usual break point"
+          ],
+          "source_references": [
+            "Where the visibility-to-correction chain breaks",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Accountability typology",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "HORIZONTAL -> public audit, legislative committees, vigilance, ombudsman, courts, regulators",
+            "VERTICAL -> elections, legislative questioning, political competition",
+            "SOCIAL -> information requests, social audit, public hearings, report cards, media",
+            "COUPLING RULE -> social answerability needs a horizontal instrument to supply consequence"
+          ],
+          "source_references": [
+            "The typology and its coupling rule",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Institutional division of labour",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "PUBLIC AUDITOR -> Articles 148 to 151; financial, compliance and performance audit",
+            "VIGILANCE COMMISSION -> Act of 2003; superintendence and advice, not conviction",
+            "CORRUPTION OMBUDSMAN -> Act of 2013; inquiry into covered corruption complaints",
+            "GRIEVANCE PLATFORM -> 21-day redress and 30-day appeal benchmarks, August 2024 guidelines",
+            "CLOSE DISTINCTION: RTI disclosure is not grievance adjudication, CAG audit is not..."
+          ],
+          "source_references": [
+            "The institutional division of labour",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Routing the remedy",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INFORMATION DENIED -> public information officer, first appeal, Information Commission",
+            "SERVICE DELAYED -> department, notified service-guarantee route, grievance platform",
+            "MONEY MISUSED -> social audit, performance audit, legislative scrutiny",
+            "CORRUPTION -> vigilance, corruption ombudsman, investigative agency",
+            "PERSONAL-DATA BREACH -> not an operative route until the Board is appointed and duties commence",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Apply RTI Act sections 4, 8, 10, 19 and 20..."
+          ],
+          "source_references": [
+            "Routing the remedy and four distinct functions",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Answer spine for an accountability demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> transparency, answerability and enforceability separated in sentence one",
+            "BUILD -> map the ecosystem, then apply the independence and follow-up tests to one case",
+            "CORRECT -> mandated action-taken process, independent facilitation, protection for reporters",
+            "CLOSE -> graded verdict, current-status caveat with dates, and stated question ownership"
+          ],
+          "source_references": [
+            "The uncommenced protection and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-08\\g2\\governance-08_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

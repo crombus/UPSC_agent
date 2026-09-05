@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "id": "polity-31-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12 Core panels plus one graphical Optional card",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-31": {
+      "title": "National Commissions SC ST BC",
+      "source_record": "polity-31:learner-v2:g2",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Evolution from Special Officer to three commissions",
+          "structural_type": "commission-evolution-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 2"
+          ],
+          "full_text": "ORIGINAL ARTICLE 338\nSpecial Officer for Scheduled Castes and Scheduled Tribes.\n\n65TH AMENDMENT ACT, 1990\ncombined National Commission for SCs and STs\n-> first constitutional commission constituted 12 March 1992.\n\n89TH AMENDMENT ACT, 2003\nArticle 338 retained for NCSC + Article 338A inserted for NCST\n-> separate commissions operational 19 February 2004.\n\nIndra Sawhney (1992) -> permanent backward-class body.\nNCBC Act, 1993 -> statutory NCBC.\n\n102ND AMENDMENT ACT, 2018\nArticle 338B + Article 342A + Article 366(26C)\n-> constitutional NCBC operational 15 August 2018.\n\n105TH AMENDMENT ACT, 2021\nState/UT own-list competence made explicit from 15 September 2021."
+        },
+        {
+          "title": "Composition, appointment, tenure and procedure",
+          "structural_type": "commission-membership-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 3"
+          ],
+          "full_text": "COMMON COMPOSITION\nChairperson + Vice-Chairperson + three other Members.\n\nAPPOINTMENT\nPresident by warrant under hand and seal.\n\nSERVICE CONDITIONS / TENURE\nsubject to parliamentary law, determined by presidential rules.\nThree-year term comes from governing rules, not the constitutional clause itself.\n\nPROCEDURE\neach Commission may regulate its own procedure.\n\nCONSTITUTIONAL STATUS\nentrenches existence, mandate and report route.\n\nLIMIT\nconstitutional status does not automatically guarantee timely appointments,\nregional reach, staff capacity, data quality or acceptance of recommendations."
+        },
+        {
+          "title": "Common duties and complaint-to-policy cycle",
+          "structural_type": "commission-duty-cycle",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+          ],
+          "full_text": "COMMON DUTIES UNDER CLAUSE (5)\ninvestigate and monitor safeguards.\ninquire into specific complaints of deprivation.\nparticipate and advise in socio-economic development planning.\nevaluate development progress.\npresent annual and other reports to President.\nrecommend measures for effective implementation and protection.\nperform other specified functions.\n\nEVIDENCE CYCLE\nsafeguard -> implementation record -> complaint/monitoring\n-> inquiry -> finding -> recommendation -> government response\n-> legislative scrutiny -> corrective law, policy or administration.\n\nLIMIT\nCommission scrutiny supports remedies; it does not replace police, tribunal or court."
+        },
+        {
+          "title": "Civil-court powers and remedial limits",
+          "structural_type": "commission-civil-power-limit",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+          ],
+          "full_text": "IN INVESTIGATION OR INQUIRY\nsummon and enforce attendance | examine on oath\n| require discovery/production | receive affidavit evidence\n| requisition public records | issue commissions\n| prescribed additional matters.\n\nLIMIT\ncivil-court powers gather evidence; they do not create ordinary civil jurisdiction,\ncriminal conviction, executable damages or power to invalidate legislation.\n\nREMEDY ROUTE\nfinding/recommendation -> competent executive, legislature, police, tribunal or court."
+        },
+        {
+          "title": "Reports, action memoranda and consultation",
+          "structural_type": "commission-report-consultation",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+          ],
+          "full_text": "REPORT ROUTE\nannual/other report -> President -> Parliament\n+ memorandum on action taken and rejected advice.\nState-related part -> Governor/State Government -> State legislature + memorandum.\n\nCONSULTATION\nUnion and State governments shall consult the relevant Commission\non major policy matters affecting the protected class.\n\nLIMIT\nconsultation is a constitutional hearing/accountability duty, not a veto."
+        },
+        {
+          "title": "NCSC and NCST: common engine, distinct domains",
+          "structural_type": "sc-st-domain-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+          ],
+          "full_text": "NCSC: ARTICLE 338\nSC safeguards, untouchability, representation, service discrimination\nand atrocity-prevention implementation.\n\nNCST: ARTICLE 338A\nST safeguards plus tribal land, forest, minor produce, displacement,\nresources, PESA and shifting-cultivation concerns under specified functions."
+        },
+        {
+          "title": "NCBC constitutionalisation and safeguard role",
+          "structural_type": "ncbc-constitutional-role",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+          ],
+          "full_text": "NCBC: ARTICLE 338B\n102nd Amendment, 2018 transformed the 1993 statutory NCBC\ninto a constitutional safeguard commission.\n\nCOMMON ENGINE\nmonitor safeguards | complaints | development advice/evaluation\n| reports | recommendations | specified additional functions.\n\nCONSULTATION\nmajor SEBC policy matters, subject to the Article 338B(9) exception\nfor State/UT own-list preparation under Article 342A(3).\n\nLIMIT\nNCBC advice does not itself amend the Central or a State SEBC list."
+        },
+        {
+          "title": "SC, ST and SEBC list-amendment authorities",
+          "structural_type": "protected-class-list-mechanics",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+          ],
+          "full_text": "SCHEDULED CASTES: ARTICLE 341\nPresident specifies by public notification for a State/UT;\nParliament later includes or excludes by law.\n\nSCHEDULED TRIBES: ARTICLE 342\nsame constitutional pattern; State consultation occurs at initial specification.\n\nSEBC CENTRAL LIST: ARTICLE 342A(1)-(2)\nPresident specifies for Central Government purposes;\nParliament includes or excludes by law.\n\nSTATE / UT LIST: ARTICLE 342A(3)\nState or UT may by law prepare and maintain its own list for own purposes.\n\nARTICLE 366(26C)\ndefines socially and educationally backward classes through Article 342A.\n\nCORE DISTINCTION\nCommission advice informs process; the constitutionally named authority changes legal status."
+        },
+        {
+          "title": "102nd, Maratha judgment and 105th Amendment",
+          "structural_type": "ncbc-federal-amendment-case-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+          ],
+          "full_text": "102ND AMENDMENT, 2018\nconstitutional NCBC + original Article 342A list wording.\n\nJaishri Laxmanrao Patil (2021)\nmajority read the 102nd Amendment as displacing independent State SEBC identification;\nthe Maratha quota also failed the separate 50% ceiling analysis.\n\n105TH AMENDMENT, 2021\nCentral List confined to Central purposes\n-> State/UT own lists expressly restored/clarified in Article 342A(3)\n-> Article 338B(9) consultation exception for that list-making purpose.\n\nTRAP\nreservation ceiling, identification authority and Commission consultation\nare separate constitutional questions.\n\nLIMIT\nthe 105th Amendment did not itself decide every quota, inclusion or creamy-layer dispute."
+        },
+        {
+          "title": "Davinder Singh (2024) and evidence-based SC sub-classification",
+          "structural_type": "sc-subclassification-doctrine",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+          ],
+          "full_text": "            Davinder Singh (2024)\n\nHOLDING\nStates may create evidence-based sub-classification within Scheduled Castes\nto distribute reservation benefits more equitably.\n\nCONDITIONS\nquantifiable and demonstrable material -> rational classification\n-> no deletion from or alteration of the Article 341 Presidential List\n-> judicial review remains.\n\nOVERRULED BOUNDARY\nE.V. Chinnaiah was overruled on the bar against SC sub-classification.\n\nCREAMY-LAYER CAUTION\nseparate judicial opinions discussed exclusion ideas;\ndo not present them as one unanimous, enacted SC/ST creamy-layer rule.\n\nCOMMISSION ROLE\nevidence, consultation and monitoring may inform policy but do not replace valid law."
+        },
+        {
+          "title": "Overlap, independence, capacity and coordinated reform",
+          "structural_type": "commission-reform-system",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+          ],
+          "full_text": "GAPS\nvacancies | regional access | complaint delay | weak data\n| delayed reports/responses | overlapping forums | advisory limits.\n\nREFORM\ntransparent appointments + timely staffing + common intake/referral\n-> joint inquiry protocols + public recommendation tracker\n-> research/data capacity + reasoned action memoranda.\n\nDESIGN VERDICT\ncoordinate specialised commissions; do not erase distinct SC, ST and SEBC safeguards."
+        },
+        {
+          "title": "PYQ routes, Prelims traps and Mains synthesis",
+          "structural_type": "commission-answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+          ],
+          "full_text": "IMPLEMENTATION GAPS\nvacancies + delayed reports + weak regional access + fragmented complaint data\n+ poor recommendation tracking + overlapping forums.\n\nREFORM\ntransparent appointments -> time-bound staffing -> common intake/referral\n-> joint inquiry protocol -> public action-taken dashboard\n-> research capacity -> reasoned government response.\n\nPRELIMS FIREWALL\n338 NCSC | 338A NCST | 338B NCBC\n| Chair + Vice-Chair + three Members\n| civil-court powers only for inquiry | recommendations generally advisory\n| 341 SC | 342 ST | 342A Central/State SEBC architecture.\n\nPYQ ROUTES\n2018 NCSC/minority reservation + umbrella commission\n| 2020 constitutionalisation | 2022 NCBC | 2023 body status | 2024 ST list.\n\nMAINS SPINE\nconstitutional purpose -> common powers -> distinct domain -> legal limit\n-> case/amendment -> implementation gap -> coordinated-specialisation verdict."
+        }
+      ]
+    }
+  }
+}

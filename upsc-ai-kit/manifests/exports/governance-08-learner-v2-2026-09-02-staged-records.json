@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "id": "governance-08-learner-v2-2026-09-02",
+  "selection": "governance-08",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "governance-08:learner-v2:g1",
+      "topic_key": "governance-08",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Governance — Subject-wide Syllabus — Transparency, Accountability, RTI, Grievance Redress and Social Audit",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Solved-Practice-Workbook_2026-09-02.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Solved-Practice-Workbook_2026-09-02.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\assets",
+      "generated_on": "2026-09-02",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Governance\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Governance\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Governance\\README.md",
+          "upsc-ai-kit\\knowledge\\Governance\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Governance\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Governance\\REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Governance\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+          "books\\more_previous_papers\\Gen_St_P2.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf"
+        ],
+        "live_sources": [],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Complete-Learning-Session_2026-09-02.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-02",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf": "24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+          "books\\more_previous_papers\\Gen_St_P2.pdf": "cb8e216e424a6d21ec0a8d86a7b97d1bca8f60f1e100aef1255ea044cf7884d8",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf": "7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf": "0b39500df905ed076f879029e4bb3b0336d7a59b857baf18ca937f3b67e6f13c",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Governance\\00_Master-Framework.md": "fe965593a361dc546317a49f253f6abb483b062bcafed71e40e0570a01a84fdf",
+          "upsc-ai-kit\\knowledge\\Governance\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit_Learner-V2-Complete-Topic-Package.md": "23678edfa468ab32a08b33e57e8fdf16de473a5d39084d12522b4fff239d1319",
+          "upsc-ai-kit\\knowledge\\Governance\\advanced\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md": "d9491c1b7692dc2e862a6e39971ff414135e503a3b789cd6caa0426866a020dc",
+          "upsc-ai-kit\\knowledge\\Governance\\ANSWER-WORTHINESS-AUDIT.md": "c6959cee17619506d65429d14f4fba908a8cd3b1547fdd021ae91fbe1072c373",
+          "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md": "3bef4f5a4f666a4291327c1630dacca6df425f8392d494d25a68fb3fa0461326",
+          "upsc-ai-kit\\knowledge\\Governance\\LEARNING-SESSION-COMMAND-INDEX.md": "32f60657cf6392ce38d7c009c077cdb5f7af63b2aefe27113781e23f0c2df2ae",
+          "upsc-ai-kit\\knowledge\\Governance\\learning-sessions\\v2\\subject-wide-syllabus\\governance-08_Learning-Session.md": "23678edfa468ab32a08b33e57e8fdf16de473a5d39084d12522b4fff239d1319",
+          "upsc-ai-kit\\knowledge\\Governance\\learning-sessions\\v2\\subject-wide-syllabus\\governance-08_Solved-Workbook.md": "2bebbaf139c7c18d9c4b26b34d4a48254ffc9593d18f82a363f6271a5b73f06b",
+          "upsc-ai-kit\\knowledge\\Governance\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "d0d820bcefe67279a3a365d3db0c119caf5d1f12e6a3df21c04708c74f9dd846",
+          "upsc-ai-kit\\knowledge\\Governance\\README.md": "890e22feed35161b588b962f6051718f7d44d471fa2e9fe858e851153492b653",
+          "upsc-ai-kit\\knowledge\\Governance\\REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md": "8657df5cb5f380ad6a3ad07c907b520fa9ab121edb70275fe8a6edc77db107b3",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-08-2026-09-02-sequential.json": "dc0d0fefc4967c3f2c7159beadd0b0a4a1b2e80df8fb555c07d91d0f23f7e81d",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Governance\\governance-08.json": "9d8151558f7ac581c97472ddab5c1a2f0306cd981fe484a8ac2f01db1a9650f5",
+          "upsc-ai-kit\\manifests\\v2\\governance--subject-wide-syllabus.json": "9fc9bcaf091e08f7bd682e5fc3679456fc863f2f3a1a2639e6c6b3d5ddeb616c",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "No new live official item was verified for this topic on 2026-09-02. A live check was attempted on that date and the official Press Information Bureau release page returned an access error, so no primary official page could be read and no secondary summary has been treated as an official source or imported. The only dated official elements used are those already carried by the repository owners with their status checks, namely the Right to Information Act, 2005 with its 30-day and 48-hour response periods, its first and second appeal periods and its two hundred and fifty rupees per day penalty subject to a twenty-five thousand rupee maximum; section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act, 2005 with the Audit of Schemes Rules, 2011 and their six-monthly audit facilitated by an independent State Social Audit Unit; the Meghalaya Community Participation and Public Services Social Audit Act, 2017; the Comptroller and Auditor-General under Articles 148 to 151; the Central Vigilance Commission Act, 2003; the Lokpal and Lokayuktas Act, 2013; the 21-day grievance and 30-day appeal benchmarks of the Comprehensive Guidelines of August 2024; the substitution of the personal-information exemption by section 44(3) of the Digital Personal Data Protection Act, 2023 with effect from 13 and 14 November 2025 while section 44(2) amending the Information Technology Act, 2000 is deferred to 13 May 2027; and the Whistle Blowers Protection Act, 2014 which received assent on 9 May 2014 and remains enacted and not commenced after the lapse of the 2015 amendment bill, all as re-verified on 13 August 2026. No Information Commission pendency, disposal, vacancy or application figure, no social-audit coverage percentage or recovery amount, no corruption-ombudsman case statistic, no grievance disposal rate and no outcome in the pending constitutional challenge is asserted. The composition, appointment and removal of the Information Commissions, the vigilance commission, the corruption ombudsman and the public auditor are cross-linked to Polity, the charter and service-standard architecture to the citizen-centric-administration owner, the data-protection commencement table to the digital-public-infrastructure owner, and the detailed information-request mechanics to the Ethics owner rather than restated here.",
+        "pyq_status_note": "One direct General Studies Paper-II Mains demand and two applied objective demands are routed to this topic across the audited ledgers, and every routed Mains stem used below was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2018-2023 Mains ledger routes the 2020 demand on recent amendments to the Right to Information Act and their impact on the autonomy and independence of the Information Commission to this owner as a cross-cutting demand shared with the Polity commission owner and the consolidated statutory-body owner, so the Governance half of that demand is answered here and the composition and amendment detail is cross-linked rather than restated. The audited 2024-2025 Mains ledger routes the 2024 demand on the Citizens' Charter as a landmark initiative that is yet to reach its full potential to this owner, while the charter architecture itself is held by the citizen-centric-administration file, so the solved card below answers the routed demand using this owner's accountability-ecosystem context and the other owner's charter structure. The audited 2026 Prelims ledger routes two applied accountability-routing demands here, on public-service accountability where vaccine distribution quality is compromised and on transparency and integrity in public procurement where adverse information is confidential; the 2026 Set-A key held locally is provisional, and no option, answer letter or distractor is recorded or inferred for either. No official answer key or marking scheme is held locally for any routed Mains demand, so every model solution below is an authored answer route rather than an official key.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "814254a62329b9eeced2c0613f86aed79ff473f57b04725877271c1338481fe1"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "governance-08:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-02",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "0aac433d2fae6840e24ff9d8f84243c8b611740defce7272db1b52103beda702",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\flowcharts\\governance-08\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-08-2026-09-02-sequential.json",
+        "ascii_master_spec_sha256": "dc0d0fefc4967c3f2c7159beadd0b0a4a1b2e80df8fb555c07d91d0f23f7e81d"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

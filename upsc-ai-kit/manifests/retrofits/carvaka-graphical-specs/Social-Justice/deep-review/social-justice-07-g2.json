@@ -1,0 +1,1177 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-07",
+  "subject": "Social-Justice",
+  "title": "SCHEDULED CASTES: RIGHTS, ATROCITIES AND WELFARE",
+  "short_route": "TWO CHANNELS → LAW BANK → OFFENCE CONVERSION TEST → PROCEDURAL CHAIN → AMENDMENT SEQUENCE → COURT NOTIFICATION CAUTION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-07-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "f2b2e1188279972822003844f7ff46275a2afb26ac96d6a71502be424a2753f9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO CHANNELS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE-BASED OFFENCE OR CASTE-BASED EXCLUSION FROM OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTION CHANNEL",
+          "role": "comparison"
+        },
+        {
+          "text": "ATROCITIES STATUTE 1989; SPECIAL COURT; RELIEF UNDER THE 1995",
+          "role": "institution"
+        },
+        {
+          "text": "DELIVERY CHANNEL",
+          "role": "primary"
+        },
+        {
+          "text": "UMBRELLA DEVELOPMENT FRAMEWORK; CREDIT CORPORATION; SCHOLARSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "SAFETY ON ONE SIDE; ASSETS, EDUCATION AND INCOME ON",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER CHANNEL REPAIRS THE OTHER CHANNEL'S DEFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEPRIVATION → caste-based offence or caste-based exclusion from opportunity",
+        "PROTECTION CHANNEL: atrocities statute 1989; Special Court; relief under the 1995 Rules",
+        "DELIVERY CHANNEL: umbrella development framework; credit corporation; scholarship",
+        "OUTCOME: safety on one side; assets, education and income on the other",
+        "TEST → neither channel repairs the other channel's defect"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEPRIVATION → caste-based offence or caste-based exclusion from opportunity",
+            "PROTECTION CHANNEL: atrocities statute 1989; Special Court; relief under the 1995 Rules"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELIVERY CHANNEL: umbrella development framework; credit corporation; scholarship",
+            "OUTCOME: safety on one side; assets, education and income on the other"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → neither channel repairs the other channel's defect",
+            "MUST REMEMBER: Scheduled Caste justice combines abolition of untouchability, equality,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Scheduled Caste justice combines abolition of untouchability, equality,.",
+      "source_references": [
+        "What this owner holds and why its PYQ record is stated as zero",
+        "The atrocities statute of 1989 as a special law",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAW BANK",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAW BANK",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 17",
+          "role": "institution"
+        },
+        {
+          "text": "ABOLISHES UNTOUCHABILITY; ITS PRACTICE IS AN OFFENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 23",
+          "role": "institution"
+        },
+        {
+          "text": "PROHIBITS FORCED LABOUR AND TRAFFICKING IN HUMAN BEINGS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 46",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIAL CARE FOR EDUCATIONAL AND ECONOMIC INTERESTS OF WEAKER",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 330 AND 332",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 17 → abolishes untouchability; its practice is an offence",
+        "ARTICLE 23 → prohibits forced labour and trafficking in human beings",
+        "ARTICLE 46 → special care for educational and economic interests of weaker sections",
+        "ARTICLES 330 AND 332 → reserved seats in the House of the People and State",
+        "ARTICLE 338 → the constitutional commission for the Scheduled Castes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 17 → abolishes untouchability; its practice is an offence",
+            "ARTICLE 23 → prohibits forced labour and trafficking in human beings"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 46 → special care for educational and economic interests of weaker sections",
+            "ARTICLES 330 AND 332 → reserved seats in the House of the People and State Assemblies"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 338 → the constitutional commission for the Scheduled Castes",
+            "ARTICLE 17 → abolishes untouchability; its practice is an offence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 338 → the constitutional commission for the Scheduled Castes.",
+      "source_references": [
+        "The constitutional and statutory bank for a Scheduled Caste answer",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OFFENCE CONVERSION TEST",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OFFENCE CONVERSION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY OFFENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ACT ALONE, UNDER THE GENERAL PENAL LAW",
+          "role": "institution"
+        },
+        {
+          "text": "THE ACT IS LISTED IN THE SCHEDULE TO THE",
+          "role": "institution"
+        },
+        {
+          "text": "THE VICTIM BELONGS TO A SCHEDULED CASTE OR SCHEDULED",
+          "role": "primary"
+        },
+        {
+          "text": "THE ACCUSED DOES NOT BELONG TO THOSE CATEGORIES",
+          "role": "caution"
+        },
+        {
+          "text": "ASSAULT, DISPOSSESSION, FORCED LABOUR, SEXUAL EXPLOITATION, PUBLIC HUMILIATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ORDINARY OFFENCE → the act alone, under the general penal law",
+        "ATROCITY → the act is listed in the Schedule to the 1989 Act",
+        "AND → the victim belongs to a Scheduled Caste or Scheduled Tribe",
+        "AND → the accused does not belong to those categories",
+        "SCOPE → assault, dispossession, forced labour, sexual exploitation, public humiliation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ORDINARY OFFENCE → the act alone, under the general penal law",
+          "AND → the victim belongs to a Scheduled Caste or Scheduled Tribe",
+          "SCOPE → assault, dispossession, forced labour, sexual exploitation, public humiliation"
+        ],
+        [
+          "ATROCITY → the act is listed in the Schedule to the 1989 Act",
+          "AND → the accused does not belong to those categories",
+          "ORDINARY OFFENCE → the act alone, under the general penal law"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORDINARY OFFENCE → the act alone, under the general penal law",
+            "ATROCITY → the act is listed in the Schedule to the 1989 Act"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AND → the victim belongs to a Scheduled Caste or Scheduled Tribe",
+            "AND → the accused does not belong to those categories"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SCOPE → assault, dispossession, forced labour, sexual exploitation, public humiliation",
+            "ORDINARY OFFENCE → the act alone, under the general penal law"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → assault, dispossession, forced labour, sexual exploitation, public humiliation.",
+      "source_references": [
+        "What counts as an atrocity and who may commit one",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PROCEDURAL CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROCEDURAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST INFORMATION REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "REGISTERED FOR A LISTED ATROCITY OFFENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATION BY AN OFFICER OF THE RANK OF DEPUTY",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIAL IN A STATE-NOTIFIED SPECIAL COURT WITH A SPECIAL",
+          "role": "institution"
+        },
+        {
+          "text": "MONETARY COMPENSATION, SHELTER AND TRAVEL EXPENSES UNDER THE 1995",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE FAILING JOINT INSTEAD OF CONDEMNING THE WHOLE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FIRST INFORMATION REPORT → registered for a listed atrocity offence",
+        "INVESTIGATION by an officer of the rank of Deputy Superintendent of Police or above",
+        "TRIAL in a State-notified Special Court with a Special Public Prosecutor",
+        "RELIEF: monetary compensation, shelter and travel expenses under the 1995 Rules",
+        "DIAGNOSIS → name the failing joint instead of condemning the whole statute"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIRST INFORMATION REPORT → registered for a listed atrocity offence",
+            "INVESTIGATION by an officer of the rank of Deputy Superintendent of Police or above"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRIAL in a State-notified Special Court with a Special Public Prosecutor",
+            "RELIEF: monetary compensation, shelter and travel expenses under the 1995 Rules"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIAGNOSIS → name the failing joint instead of condemning the whole statute",
+            "FIRST INFORMATION REPORT → registered for a listed atrocity offence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → name the failing joint instead of condemning the whole statute.",
+      "source_references": [
+        "The investigation, trial and relief route",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AMENDMENT SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AMENDMENT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL LAW WITH ENHANCED PENALTIES, SPECIAL COURTS AND VICTIM",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFENCE LIST EXPANDED; VICTIM AND WITNESS RIGHTS STRENGTHENED; COURT",
+          "role": "institution"
+        },
+        {
+          "text": "2018 RULING",
+          "role": "evidence"
+        },
+        {
+          "text": "ARREST AND ANTICIPATORY-BAIL PROTECTION UNDER THE ACT DILUTED",
+          "role": "institution"
+        },
+        {
+          "text": "2018 AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 18A RESTORES THE POSITION AND OVERRIDES THAT READING",
+          "role": "comparison"
+        },
+        {
+          "text": "PRATHVI RAJ CHAUHAN UPHOLDS SECTION 18A WITH A NARROW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1989 → special law with enhanced penalties, Special Courts and victim relief",
+        "2015 → offence list expanded; victim and witness rights strengthened; court architecture",
+        "2018 RULING → arrest and anticipatory-bail protection under the Act diluted",
+        "2018 AMENDMENT → Section 18A restores the position and overrides that reading",
+        "2020 → Prathvi Raj Chauhan upholds Section 18A with a narrow prima-facie safeguard"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1989 → special law with enhanced penalties, Special Courts and victim relief",
+            "2015 → offence list expanded; victim and witness rights strengthened; court architecture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2018 RULING → arrest and anticipatory-bail protection under the Act diluted",
+            "2018 AMENDMENT → Section 18A restores the position and overrides that reading"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2020 → Prathvi Raj Chauhan upholds Section 18A with a narrow prima-facie safeguard",
+            "1989 → special law with enhanced penalties, Special Courts and victim relief"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2020 → Prathvi Raj Chauhan upholds Section 18A with a narrow prima-facie safeguard.",
+      "source_references": [
+        "The 2015 amendment and the court-notification discipline",
+        "The 2018 amendment and the Act-Court-Amendment sequence",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COURT NOTIFICATION CAUTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COURT NOTIFICATION CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "SPECIAL COURTS AND EXCLUSIVE SPECIAL COURTS UNDER THE 2015",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTIFIED BY STATES UNDER THE ACT'S CONDITIONS",
+          "role": "institution"
+        },
+        {
+          "text": "WITH THE CHIEF JUSTICE OF THE CONCERNED HIGH COURT",
+          "role": "institution"
+        },
+        {
+          "text": "ASSUMING ONE EXCLUSIVE SPECIAL COURT EXISTS IN EVERY DISTRICT",
+          "role": "institution"
+        },
+        {
+          "text": "TREAT COURT AVAILABILITY AS A STATE-SPECIFIC FACT TO BE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DESIGN → Special Courts and Exclusive Special Courts under the 2015 architecture",
+        "REALITY → notified by States under the Act's conditions",
+        "CONCURRENCE → with the Chief Justice of the concerned High Court",
+        "ERROR → assuming one Exclusive Special Court exists in every district",
+        "USE → treat court availability as a State-specific fact to be verified"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DESIGN → Special Courts and Exclusive Special Courts under the 2015 architecture",
+          "CONCURRENCE → with the Chief Justice of the concerned High Court",
+          "USE → treat court availability as a State-specific fact to be verified"
+        ],
+        [
+          "REALITY → notified by States under the Act's conditions",
+          "ERROR → assuming one Exclusive Special Court exists in every district",
+          "DESIGN → Special Courts and Exclusive Special Courts under the 2015 architecture"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DESIGN → Special Courts and Exclusive Special Courts under the 2015 architecture",
+            "REALITY → notified by States under the Act's conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONCURRENCE → with the Chief Justice of the concerned High Court",
+            "ERROR → assuming one Exclusive Special Court exists in every district"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → treat court availability as a State-specific fact to be verified",
+            "DESIGN → Special Courts and Exclusive Special Courts under the 2015 architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → treat court availability as a State-specific fact to be verified.",
+      "source_references": [
+        "The 2015 amendment and the court-notification discipline",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DELIVERY CHANNELS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DELIVERY CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "UMBRELLA FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANNEL 1",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPMENT OF SCHEDULED CASTE DOMINATED VILLAGES, MODEL-VILLAGE COMPONENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHANNEL 2",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANTS FOR APPROVED DISTRICT AND STATE SOCIO-ECONOMIC DEVELOPMENT PROJECTS",
+          "role": "institution"
+        },
+        {
+          "text": "CHANNEL 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UMBRELLA FRAMEWORK → Ministry of Social Justice and Empowerment",
+        "CHANNEL 1 → development of Scheduled Caste dominated villages, model-village component",
+        "CHANNEL 2 → grants for approved district and State socio-economic development projects",
+        "CHANNEL 3 → hostel support in higher educational institutions",
+        "LIMIT → State proposals and annual approvals decide delivery; no individual entitlement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UMBRELLA FRAMEWORK → Ministry of Social Justice and Empowerment",
+            "CHANNEL 1 → development of Scheduled Caste dominated villages, model-village component"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHANNEL 2 → grants for approved district and State socio-economic development projects",
+            "CHANNEL 3 → hostel support in higher educational institutions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → State proposals and annual approvals decide delivery; no individual entitlement",
+            "UMBRELLA FRAMEWORK → Ministry of Social Justice and Empowerment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → State proposals and annual approvals decide delivery; no individual entitlement.",
+      "source_references": [
+        "The umbrella development framework and what it actually is",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CREDIT AND SCHOLARSHIP CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CREDIT AND SCHOLARSHIP CARD",
+          "role": "primary"
+        },
+        {
+          "text": "CREDIT CORPORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNMENT OF INDIA COMPANY UNDER THE SOCIAL JUSTICE MINISTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "TERM LOANS, MICRO-CREDIT AND SKILL-DEVELOPMENT FINANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DELIVERED THROUGH STATE CHANNELISING AGENCIES, NOT DIRECTLY TO A",
+          "role": "caution"
+        },
+        {
+          "text": "SCHOLARSHIP OBJECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAISE THE GROSS ENROLMENT RATIO OF SCHEDULED CASTE STUDENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "POST-MATRICULATION STAGE, STUDIES IN INDIA ONLY, STATE OF DOMICILE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CREDIT CORPORATION → Government of India company under the social justice ministry",
+        "INSTRUMENTS → term loans, micro-credit and skill-development finance",
+        "ROUTE → delivered through State channelising agencies, not directly to a borrower",
+        "SCHOLARSHIP OBJECTIVE → raise the gross enrolment ratio of Scheduled Caste students",
+        "SCOPE → post-matriculation stage, studies in India only, State of domicile selects"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CREDIT CORPORATION → Government of India company under the social justice ministry",
+          "ROUTE → delivered through State channelising agencies, not directly to a borrower",
+          "SCOPE → post-matriculation stage, studies in India only, State of domicile selects"
+        ],
+        [
+          "INSTRUMENTS → term loans, micro-credit and skill-development finance",
+          "SCHOLARSHIP OBJECTIVE → raise the gross enrolment ratio of Scheduled Caste students",
+          "CREDIT CORPORATION → Government of India company under the social justice ministry"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CREDIT CORPORATION → Government of India company under the social justice ministry",
+            "INSTRUMENTS → term loans, micro-credit and skill-development finance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ROUTE → delivered through State channelising agencies, not directly to a borrower",
+            "SCHOLARSHIP OBJECTIVE → raise the gross enrolment ratio of Scheduled Caste students"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SCOPE → post-matriculation stage, studies in India only, State of domicile selects",
+            "CREDIT CORPORATION → Government of India company under the social justice ministry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → post-matriculation stage, studies in India only, State of domicile selects.",
+      "source_references": [
+        "The concessional-credit corporation and its delivery route",
+        "The post-matriculation scholarship as a verified official anchor",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "JUDGMENT BOUNDARY BOX",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JUDGMENT BOUNDARY BOX",
+          "role": "primary"
+        },
+        {
+          "text": "DATA-SUPPORTED SUB-CLASSIFICATION WITHIN THE SCHEDULED CASTES IS PERMISSIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE EARLIER CONTRARY DECISION ON SUB-CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES NOT",
+          "role": "caution"
+        },
+        {
+          "text": "ALTER THE PRESIDENTIAL LIST OF SCHEDULED CASTES",
+          "role": "primary"
+        },
+        {
+          "text": "ITSELF ALLOT ANY SUB-QUOTA OR DIRECT ANY STATE TO",
+          "role": "institution"
+        },
+        {
+          "text": "NOT THE HOLDING",
+          "role": "caution"
+        },
+        {
+          "text": "CREAMY-LAYER OBSERVATIONS IN SEPARATE OPINIONS; NOTHING LEGISLATED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HELD → data-supported sub-classification within the Scheduled Castes is permissible",
+        "OVERRULED → the earlier contrary decision on sub-classification",
+        "DOES NOT → alter the Presidential List of Scheduled Castes",
+        "DOES NOT → itself allot any sub-quota or direct any State to sub-classify",
+        "NOT THE HOLDING → creamy-layer observations in separate opinions; nothing legislated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HELD → data-supported sub-classification within the Scheduled Castes is permissible",
+            "OVERRULED → the earlier contrary decision on sub-classification"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOES NOT → alter the Presidential List of Scheduled Castes",
+            "DOES NOT → itself allot any sub-quota or direct any State to sub-classify"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT THE HOLDING → creamy-layer observations in separate opinions; nothing legislated",
+            "HELD → data-supported sub-classification within the Scheduled Castes is permissible"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT THE HOLDING → creamy-layer observations in separate opinions; nothing legislated.",
+      "source_references": [
+        "The 2024 judgment on sub-classification and exactly what it decided",
+        "The creamy-layer observations were separate opinions and not a rule",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TARGETING TRADE-OFF",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TARGETING TRADE-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "REACHES SUB-GROUPS THAT A CATEGORY-WIDE SCHEME SYSTEMATICALLY MISSES",
+          "role": "outcome"
+        },
+        {
+          "text": "FRAGMENTS COLLECTIVE BARGAINING POWER; OPEN TO ELECTORAL EXPLOITATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "BACKWARDNESS AND REPRESENTATION DATA FOR EACH SUB-GROUP",
+          "role": "evidence"
+        },
+        {
+          "text": "A CLASSIFICATION WITHOUT EVIDENCE IS ARBITRARY AND LEGALLY VULNERABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE JUDGMENT PERMITS; IT DOES NOT MANDATE, SO INACTION",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 17 IS NOT THE WHOLE FIELD OF CASTE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPPORTUNITY → reaches sub-groups that a category-wide scheme systematically misses",
+        "RISK → fragments collective bargaining power; open to electoral exploitation",
+        "REQUIREMENT → backwardness and representation data for each sub-group",
+        "CONSEQUENCE → a classification without evidence is arbitrary and legally vulnerable",
+        "STATUS → the judgment permits; it does not mandate, so inaction is not unconstitutional"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OPPORTUNITY → reaches sub-groups that a category-wide scheme systematically misses",
+          "REQUIREMENT → backwardness and representation data for each sub-group",
+          "STATUS → the judgment permits; it does not mandate, so inaction is not unconstitutional"
+        ],
+        [
+          "RISK → fragments collective bargaining power; open to electoral exploitation",
+          "CONSEQUENCE → a classification without evidence is arbitrary and legally vulnerable",
+          "CLOSE DISTINCTION: Article 17 is not the whole field of caste discrimination,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPPORTUNITY → reaches sub-groups that a category-wide scheme systematically misses",
+            "RISK → fragments collective bargaining power; open to electoral exploitation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REQUIREMENT → backwardness and representation data for each sub-group",
+            "CONSEQUENCE → a classification without evidence is arbitrary and legally vulnerable"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → the judgment permits; it does not mandate, so inaction is not unconstitutional",
+            "CLOSE DISTINCTION: Article 17 is not the whole field of caste discrimination,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Article 17 is not the whole field of caste discrimination,.",
+      "source_references": [
+        "Within-category heterogeneity and why flat schemes may miss the worst off",
+        "The political-economy trade-off of sub-classification",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DATA DISCIPLINE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATA DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "REGISTERED CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "CASES THAT ENTERED THE SYSTEM IN A GIVEN REPORTING",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL PRESSURE, FEAR OF RETALIATION, POLICE RELUCTANCE, STATE VARIATION",
+          "role": "institution"
+        },
+        {
+          "text": "MUST BE READ WITH PENDENCY, INVESTIGATION QUALITY, WITNESS VULNERABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "SCALE ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED CASTES WERE 16.6 PER CENT OF THE POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTACH THE YEAR AND THE DENOMINATOR TO EVERY FIGURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REGISTERED CASES → cases that entered the system in a given reporting year",
+        "SUPPRESSORS → social pressure, fear of retaliation, police reluctance, State variation",
+        "CONVICTION → must be read with pendency, investigation quality, witness vulnerability",
+        "SCALE ANCHOR → Scheduled Castes were 16.6 per cent of the population in the 2011",
+        "RULE → attach the year and the denominator to every figure used"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "REGISTERED CASES → cases that entered the system in a given reporting year",
+          "CONVICTION → must be read with pendency, investigation quality, witness vulnerability",
+          "RULE → attach the year and the denominator to every figure used"
+        ],
+        [
+          "SUPPRESSORS → social pressure, fear of retaliation, police reluctance, State variation",
+          "SCALE ANCHOR → Scheduled Castes were 16.6 per cent of the population in the 2011 Census",
+          "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15-17, 46, reservation..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REGISTERED CASES → cases that entered the system in a given reporting year",
+            "SUPPRESSORS → social pressure, fear of retaliation, police reluctance, State variation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONVICTION → must be read with pendency, investigation quality, witness vulnerability",
+            "SCALE ANCHOR → Scheduled Castes were 16.6 per cent of the population in the 2011 Census"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → attach the year and the denominator to every figure used",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15-17, 46, reservation..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → attach the year and the denominator to every figure used.",
+      "source_references": [
+        "What registered atrocity data measure and what they do not",
+        "The scale anchor and how to use it",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ENTRY AGAINST CONVERSION",
+      "structural_type": "comparison",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ENTRY AGAINST CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "ENTRY SIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESERVATION, POST-MATRICULATION SCHOLARSHIP, CONCESSIONAL CREDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERSION SIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCRIMINATION, LANDLESSNESS, OCCUPATIONAL SEGREGATION, VIOLENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DALIT WOMEN FACE CASTE, GENDER-BASED VIOLENCE AND ECONOMIC DEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ENTRY INSTRUMENT DOES NOT REPAIR A CONVERSION FAILURE",
+          "role": "caution"
+        },
+        {
+          "text": "NO MAINS OR OBJECTIVE DEMAND IS ROUTED HERE AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENTRY SIDE → reservation, post-matriculation scholarship, concessional credit",
+        "CONVERSION SIDE → discrimination, landlessness, occupational segregation, violence",
+        "INTERSECTION → Dalit women face caste, gender-based violence and economic dependence",
+        "RULE → an entry instrument does not repair a conversion failure",
+        "OWNERSHIP → no Mains or objective demand is routed here and none is manufactured"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENTRY SIDE → reservation, post-matriculation scholarship, concessional credit",
+            "CONVERSION SIDE → discrimination, landlessness, occupational segregation, violence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERSECTION → Dalit women face caste, gender-based violence and economic dependence",
+            "RULE → an entry instrument does not repair a conversion failure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OWNERSHIP → no Mains or objective demand is routed here and none is manufactured",
+            "ENTRY SIDE → reservation, post-matriculation scholarship, concessional credit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → an entry instrument does not repair a conversion failure.",
+      "source_references": [
+        "Intersectionality and the mobility argument",
+        "The zero-direct-PYQ audit stated openly",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-07\\g2\\social-justice-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "POA ACT ENFORCEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "STATE-NOTIFIED SPECIAL/EXCLUSIVE SPECIAL COURTS, SPPS, DSP+",
+          "role": "institution"
+        },
+        {
+          "text": "PM-AJAY (MOSJE)",
+          "role": "evidence"
+        },
+        {
+          "text": "APPROVED STATE/DISTRICT PROJECTS FOR SC-DOMINATED-VILLAGE",
+          "role": "institution"
+        },
+        {
+          "text": "PSU UNDER MOSJE; PROVIDES CONCESSIONAL CREDIT THROUGH STATE CHANNELISING",
+          "role": "institution"
+        },
+        {
+          "text": "NCSC (ART 338)",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL BODY WITH POWERS TO INVESTIGATE SC-RIGHTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PoA Act enforcement: State-notified Special/Exclusive Special Courts, SPPs, DSP+",
+            "PM-AJAY (MoSJE): approved State/district projects for SC-dominated-village",
+            "NSFDC: PSU under MoSJE; provides concessional credit through state channelising",
+            "NCSC (Art 338): constitutional body with powers to investigate SC-rights"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: A case of social/economic boycott of an SC family: prosecutable under the 2015",
+            "CAUTION: A State taking data-supported action on sub-classification post- Davinder Singh must",
+            "CAUTION: Boundary case — manual-scavenging communities: face stigma and occupational",
+            "CAUTION: Under-reporting of atrocities: NCRB data reflects registered cases, not"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Special-court capacity: State notification, staffing and pendency vary; do not",
+            "CAUTION: Sub-classification political risk: Davinder Singh permits, but does not",
+            "CAUTION: PM-AJAY coverage vs saturation: umbrella schemes may spread resources thinly;",
+            "The 2018 Amendment to the PoA Act was passed to override the Supreme Court's"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

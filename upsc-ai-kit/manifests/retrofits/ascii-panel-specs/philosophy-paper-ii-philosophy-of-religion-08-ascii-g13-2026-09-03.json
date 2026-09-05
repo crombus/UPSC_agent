@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "benchmark": "Religion-and-Morality reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-08 immutable generation g13",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "title": "Religion and Morality",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\topic-08_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Four relation models",
+          "structural_type": "relation quadrant",
+          "source_session_heading_references": [
+            "A. Four relations"
+          ],
+          "lines": [
+            "RELIGION AND MORALITY",
+            " +-> DEPENDENCE: morality requires God/revelation",
+            " +-> INDEPENDENCE: moral truth is autonomous",
+            " +-> SUPPORT: morality is independent but religion motivates/sustains it",
+            " +-> TENSION: religious command or identity can conflict with moral judgement",
+            "                         |",
+            " separate ontology (what makes right), epistemology (how known),",
+            " motivation (why act) and sanction (reward/punishment); one answer need not settle all four."
+          ]
+        },
+        {
+          "panel_title": "2. Divine command theory",
+          "structural_type": "command-obligation chain",
+          "source_session_heading_references": [
+            "B. Divine command theory"
+          ],
+          "lines": [
+            "GOD COMMANDS X -> X IS OBLIGATORY",
+            " attractions: objective authority | categorical demand | accountability | motivation",
+            "                         |",
+            " versions:",
+            " voluntarist: rightness constituted by command",
+            " epistemic: revelation tells us independently grounded moral truth",
+            " motivational: love/judgement strengthens compliance",
+            "                         |",
+            " pressure: command identification, conflicting revelations, autonomy and arbitrariness."
+          ]
+        },
+        {
+          "panel_title": "3. Euthyphro and modified DCT",
+          "structural_type": "dilemma-reply tree",
+          "source_session_heading_references": [
+            "C. Euthyphro and modified DCT"
+          ],
+          "lines": [
+            "IS X GOOD BECAUSE GOD COMMANDS IT?",
+            " +-> YES: morality appears arbitrary; cruelty could become right",
+            " +-> NO: goodness is independent; God is not its foundation",
+            "                         |",
+            " MODIFIED DIVINE COMMAND THEORY",
+            " God's necessarily loving/good nature grounds value",
+            " divine commands flowing from that nature ground obligation",
+            "                         |",
+            " reply blocks arbitrary commands; objection asks whether “good nature” is intelligible",
+            " without a standard logically prior to command."
+          ]
+        },
+        {
+          "panel_title": "4. Kant and natural law",
+          "structural_type": "autonomy comparison",
+          "source_session_heading_references": [
+            "D. Kant and natural law"
+          ],
+          "lines": [
+            "KANT: moral law arises from rational autonomy, not heteronomous reward or threat",
+            " categorical imperative -> universal law + humanity as end",
+            " God and immortality are practical postulates of highest good, not sources of duty",
+            "                         |",
+            " NATURAL LAW: practical reason reads goods and purposes in human nature;",
+            " Aquinas joins rational participation in eternal law with divine order",
+            "                         |",
+            " contrast: obey because rationally right, not merely because commanded;",
+            " religion may complete moral hope without replacing moral deliberation."
+          ]
+        },
+        {
+          "panel_title": "5. Indian moral grounding",
+          "structural_type": "dharma-karma-liberation map",
+          "source_session_heading_references": [
+            "E. Indian grounding"
+          ],
+          "lines": [
+            "MĪMĀṂSĀ: dharma known through authorless Veda; apūrva links ritual act and result",
+            " NYĀYA: God administers karma, but deserts arise from agents' acts",
+            " BUDDHISM: intention, compassion and non-harm within dependent origination; no creator",
+            " JAINISM: ahiṃsā and vows purify jīva by blocking karmic influx",
+            " GĪTĀ/VEDĀNTA: dharma, niṣkāma karma, devotion and knowledge reshape agency",
+            "                         |",
+            " Indian ethics shows objective discipline without one uniform divine-command model."
+          ]
+        },
+        {
+          "panel_title": "6. Motivation and conduct",
+          "structural_type": "moral-motivation ladder",
+          "source_session_heading_references": [
+            "F. Why be moral all the time?",
+            "H. Religiosity and conduct"
+          ],
+          "lines": [
+            "WHY BE MORAL?",
+            " fear of punishment -> hope of reward -> social belonging -> character/virtue",
+            " -> respect for persons -> compassion -> love of good/God",
+            "                         |",
+            " lower motives may secure compliance but not moral maturity",
+            " religiosity can support self-control, service and forgiveness;",
+            " it can also rationalise bias when identity outruns universal concern",
+            " TEST: conduct and reasons, not ritual profession alone, reveal moral integration."
+          ]
+        },
+        {
+          "panel_title": "7. Violence, Nietzsche and moral critique",
+          "structural_type": "pathology-and-critique matrix",
+          "source_session_heading_references": [
+            "G. Religion without morality",
+            "I. Religious violence",
+            "J. Nietzsche"
+          ],
+          "lines": [
+            "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion",
+            " VIOLENCE PATH: exclusive truth + claimed sacred authorisation",
+            "              + denial of equal moral standing -> moral disengagement",
+            " safeguards: interpretation, conscience, rights, plural institutions, non-violence",
+            "                         |",
+            " NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality",
+            " objection to Nietzsche: power may erase equality and protection of weak",
+            " verdict: both religion and anti-religious critique need independent scrutiny of consequences."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer architecture",
+          "structural_type": "four-axis synthesis",
+          "source_session_heading_references": [
+            "K. Eleven PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "STATE precise dependence claim -> separate ground/knowledge/motive/sanction",
+            " -> DCT -> Euthyphro -> modified DCT -> Kant/natural law",
+            " -> Indian non-theistic and theistic models -> conduct/violence test -> verdict",
+            "                         |",
+            " CLOSE: morality need not depend on divine command for intelligibility,",
+            " yet religion can deepen moral motivation, community and hope;",
+            " its legitimacy depends on whether faith remains answerable to reason, dignity and justice."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-08:learner-v2:g13",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

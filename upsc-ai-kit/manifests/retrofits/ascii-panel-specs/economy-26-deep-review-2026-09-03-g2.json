@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-26",
+      "display_title": "Economic Survey Synthesis and Current Macro Dashboard",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Six-box macro dashboard",
+          "structural_type": "dashboard-grid",
+          "ascii_lines": [
+            "GROWTH + DEMAND",
+            "INFLATION + MONETARY",
+            "FISCAL + INVESTMENT",
+            "FINANCIAL + EXTERNAL + INCLUSION",
+            "MUST REMEMBER: A current macro dashboard must reconcile growth, inflation, employment,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Estimate-vintage ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "FAE / SAE -> early estimate",
+            "PROVISIONAL -> fuller data",
+            "REVISED -> later benchmark",
+            "DATE + VINTAGE travel with value"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "GDP-GVA-price boundary",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "GDP -> market prices",
+            "GVA -> basic prices",
+            "REAL -> volume after price adjustment",
+            "NOMINAL -> current-price value"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Demand-composition map",
+          "structural_type": "component-map",
+          "ascii_lines": [
+            "PFCE + GFCE",
+            "GROSS CAPITAL FORMATION",
+            "NET EXPORTS",
+            "SHARE != growth contribution"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Fiscal evidence ladder",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "BE -> forward plan",
+            "RE -> in-year reassessment",
+            "CGA PROVISIONAL -> realised to date/year",
+            "FINAL ACTUAL -> later outturn"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Inflation reading board",
+          "structural_type": "decomposition-board",
+          "ascii_lines": [
+            "HEADLINE CPI",
+            "FOOD + FUEL components",
+            "CORE proxy",
+            "EXPECTATIONS + POLICY stance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Stock-flow external map",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "RESERVES -> stock at date",
+            "EXTERNAL DEBT -> liability stock",
+            "CAD -> period flow",
+            "EXPORTS / IMPORTS -> period flows"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Labour-data boundary",
+          "structural_type": "method-board",
+          "ascii_lines": [
+            "PLFS PERIOD",
+            "USUAL / WEEKLY STATUS",
+            "LFPR / WPR / UR denominator",
+            "PUBLICATION LAG"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Survey-budget-outturn split",
+          "structural_type": "three-stage-map",
+          "ascii_lines": [
+            "SURVEY -> diagnosis / projection",
+            "BUDGET -> proposal / estimate",
+            "OFFICIAL RELEASE -> outturn",
+            "DO NOT blend evidence classes"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "V-to-K recovery test",
+          "structural_type": "causal-comparison",
+          "ascii_lines": [
+            "GDP PATH -> contraction then rebound",
+            "BASE EFFECT -> growth comparison",
+            "SECTORAL PATH -> uneven",
+            "JOBS + INFORMALITY -> K-shaped test",
+            "CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Cross-box synthesis loop",
+          "structural_type": "diagnostic-loop",
+          "ascii_lines": [
+            "HEADLINE",
+            "-> COMPONENT + DENOMINATOR",
+            "-> COMPARABLE PERIOD + VINTAGE",
+            "-> DRIVER + LIMIT + VERDICT",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Macro-dashboard answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LABEL value + unit + vintage",
+            "CLASSIFY stock / flow / ratio",
+            "CROSS-CHECK six boxes",
+            "CONCLUDE stability + productive capacity"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g2\\economy-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

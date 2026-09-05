@@ -1,0 +1,1049 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-05",
+  "subject": "Geography",
+  "title": "LANDFORMS BY RUNNING WATER / INDIA DRAINAGE AND INTERLINKING",
+  "short_route": "BASIN ANATOMY \u2192 RIVER-WORK ENGINE \u2192 LONG-PROFILE CONTROLS \u2192 MEANDER-FLOODPLAIN LOOP \u2192 DRAINAGE-PATTERN MATRIX \u2192 DRAINAGE-EVOLUTION FIREWALL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-05_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-05-06-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "cdced53c7642cf38f93db569b93edd026eb7a856abeea3042d2c156355a3ca26",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BASIN ANATOMY",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "BASIN ANATOMY",
+          "role": "primary"
+        },
+        {
+          "text": "DRAINAGE DIVIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "RUNOFF ENTERS TRIBUTARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUNK STREAM",
+          "role": "evidence"
+        },
+        {
+          "text": "BASIN RULE",
+          "role": "primary"
+        },
+        {
+          "text": "UPSTREAM CHANGE TRAVELS DOWNSTREAM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RIDGELINE \u2192 watershed / drainage divide",
+        "SLOPES \u2192 runoff enters tributaries",
+        "TRIBUTARIES \u2192 trunk stream \u2192 outlet",
+        "BASIN RULE \u2192 upstream change travels downstream"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "RIDGELINE \u2192 watershed / drainage divide",
+            "SLOPES \u2192 runoff enters tributaries"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRIBUTARIES \u2192 trunk stream \u2192 outlet",
+            "BASIN RULE \u2192 upstream change travels downstream"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "RIDGELINE \u2192 watershed / drainage divide",
+            "SLOPES \u2192 runoff enters tributaries"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRIBUTARIES \u2192 trunk stream \u2192 outlet; BASIN RULE \u2192 upstream change travels downstream.",
+      "source_references": [
+        "Basin, divide and channel network"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RIVER-WORK ENGINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RIVER-WORK ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "ENERGY + DISCHARGE",
+          "role": "outcome"
+        },
+        {
+          "text": "EROSION CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LOAD SIZE + VOLUME",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSPORT DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "COMPETENCE FALLS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPOSITION BEGINS",
+          "role": "comparison"
+        },
+        {
+          "text": "BED FORM ALTERS VELOCITY AND LOAD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENERGY + DISCHARGE \u2192 erosion capacity",
+        "LOAD SIZE + VOLUME \u2192 transport demand",
+        "COMPETENCE FALLS \u2192 deposition begins",
+        "FEEDBACK \u2192 bed form alters velocity and load"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ENERGY + DISCHARGE \u2192 erosion capacity",
+            "LOAD SIZE + VOLUME \u2192 transport demand"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPETENCE FALLS \u2192 deposition begins",
+            "FEEDBACK \u2192 bed form alters velocity and load"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ENERGY + DISCHARGE \u2192 erosion capacity",
+            "LOAD SIZE + VOLUME \u2192 transport demand"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK \u2192 bed form alters velocity and load.",
+      "source_references": [
+        "Erosion, transport and deposition"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LONG-PROFILE CONTROLS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LONG-PROFILE CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "BASE LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "POTENTIAL-ENERGY CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "ROCK + DISCHARGE",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL INCISION",
+          "role": "primary"
+        },
+        {
+          "text": "ABRASION, TRANSPORT AND STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "GRADED CURVE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVING DYNAMIC BALANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UPLIFT / BASE LEVEL \u2192 potential-energy change",
+        "ROCK + DISCHARGE \u2192 local incision",
+        "SEDIMENT \u2192 abrasion, transport and storage",
+        "GRADED CURVE \u2192 moving dynamic balance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "UPLIFT / BASE LEVEL \u2192 potential-energy change",
+            "ROCK + DISCHARGE \u2192 local incision"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEDIMENT \u2192 abrasion, transport and storage",
+            "GRADED CURVE \u2192 moving dynamic balance"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "UPLIFT / BASE LEVEL \u2192 potential-energy change",
+            "ROCK + DISCHARGE \u2192 local incision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEDIMENT \u2192 abrasion, transport and storage; GRADED CURVE \u2192 moving dynamic balance.",
+      "source_references": [
+        "Long profile and graded adjustment"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MEANDER-FLOODPLAIN LOOP",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MEANDER-FLOODPLAIN LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "OUTER BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "FASTER FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "INNER BANK",
+          "role": "evidence"
+        },
+        {
+          "text": "SLOWER FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "POINT BAR",
+          "role": "outcome"
+        },
+        {
+          "text": "NECK CUTOFF",
+          "role": "comparison"
+        },
+        {
+          "text": "OX-BOW LAKE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTER BANK \u2192 faster flow \u2192 erosion",
+        "INNER BANK \u2192 slower flow \u2192 point bar",
+        "NECK CUTOFF \u2192 ox-bow lake",
+        "OVERBANK SILT \u2192 floodplain + natural levee"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "OUTER BANK \u2192 faster flow \u2192 erosion",
+            "INNER BANK \u2192 slower flow \u2192 point bar"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NECK CUTOFF \u2192 ox-bow lake",
+            "OVERBANK SILT \u2192 floodplain + natural levee"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "OUTER BANK \u2192 faster flow \u2192 erosion",
+            "INNER BANK \u2192 slower flow \u2192 point bar"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INNER BANK \u2192 slower flow \u2192 point bar.",
+      "source_references": [
+        "Meanders, ox-bows and floodplains"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DRAINAGE-PATTERN MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DRAINAGE-PATTERN MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "UNIFORM RESISTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ALTERNATING RESISTANT BANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINTS AND FAULTS",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTWARD HIGH",
+          "role": "primary"
+        },
+        {
+          "text": "INWARD BASIN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DENDRITIC \u2192 uniform resistance",
+        "TRELLIS \u2192 alternating resistant bands",
+        "RECTANGULAR \u2192 joints and faults",
+        "RADIAL / CENTRIPETAL \u2192 outward high / inward basin"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "DENDRITIC \u2192 uniform resistance",
+          "RECTANGULAR \u2192 joints and faults",
+          "DENDRITIC \u2192 uniform resistance",
+          "RECTANGULAR \u2192 joints and faults"
+        ],
+        [
+          "TRELLIS \u2192 alternating resistant bands",
+          "RADIAL / CENTRIPETAL \u2192 outward high / inward basin",
+          "TRELLIS \u2192 alternating resistant bands",
+          "RADIAL / CENTRIPETAL \u2192 outward high / inward basin"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "DENDRITIC \u2192 uniform resistance",
+            "TRELLIS \u2192 alternating resistant bands"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "RECTANGULAR \u2192 joints and faults",
+            "RADIAL / CENTRIPETAL \u2192 outward high / inward basin"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "DENDRITIC \u2192 uniform resistance",
+            "TRELLIS \u2192 alternating resistant bands"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "RECTANGULAR \u2192 joints and faults",
+            "RADIAL / CENTRIPETAL \u2192 outward high / inward basin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RADIAL / CENTRIPETAL \u2192 outward high / inward basin.",
+      "source_references": [
+        "Drainage patterns as structural evidence"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DRAINAGE-EVOLUTION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DRAINAGE-EVOLUTION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER OLDER THAN UPLIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "COVER PATTERN INHERITED BELOW",
+          "role": "comparison"
+        },
+        {
+          "text": "HEADWARD EROSION DIVERTS NEIGHBOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "FIELD CUES",
+          "role": "primary"
+        },
+        {
+          "text": "ELBOW-WIND GAP",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ANTECEDENT \u2192 river older than uplift",
+        "SUPERIMPOSED \u2192 cover pattern inherited below",
+        "CAPTURE \u2192 headward erosion diverts neighbour",
+        "FIELD CUES \u2192 gorge / discordance / elbow-wind gap"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ANTECEDENT \u2192 river older than uplift",
+            "SUPERIMPOSED \u2192 cover pattern inherited below"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPTURE \u2192 headward erosion diverts neighbour",
+            "FIELD CUES \u2192 gorge / discordance / elbow-wind gap"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ANTECEDENT \u2192 river older than uplift",
+            "SUPERIMPOSED \u2192 cover pattern inherited below"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIELD CUES \u2192 gorge / discordance / elbow-wind gap.",
+      "source_references": [
+        "Antecedence, superimposition and capture"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA RIVER-SYSTEM CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA RIVER-SYSTEM CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH RELIEF, MIXED PERENNIAL INPUTS",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD SHIELD, MONSOON-DOMINANT REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG RIVERS AND MAJOR DELTAS",
+          "role": "evidence"
+        },
+        {
+          "text": "NARMADA-TAPI TROUGHS + SHORT GHATS STREAMS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HIMALAYAN \u2192 high relief, mixed perennial inputs",
+        "PENINSULAR \u2192 old shield, monsoon-dominant regime",
+        "EAST \u2192 long rivers and major deltas",
+        "WEST \u2192 Narmada-Tapi troughs + short Ghats streams"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "HIMALAYAN \u2192 high relief, mixed perennial inputs",
+          "EAST \u2192 long rivers and major deltas",
+          "HIMALAYAN \u2192 high relief, mixed perennial inputs",
+          "EAST \u2192 long rivers and major deltas"
+        ],
+        [
+          "PENINSULAR \u2192 old shield, monsoon-dominant regime",
+          "WEST \u2192 Narmada-Tapi troughs + short Ghats streams",
+          "PENINSULAR \u2192 old shield, monsoon-dominant regime",
+          "WEST \u2192 Narmada-Tapi troughs + short Ghats streams"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HIMALAYAN \u2192 high relief, mixed perennial inputs",
+            "PENINSULAR \u2192 old shield, monsoon-dominant regime"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EAST \u2192 long rivers and major deltas",
+            "WEST \u2192 Narmada-Tapi troughs + short Ghats streams"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "HIMALAYAN \u2192 high relief, mixed perennial inputs",
+            "PENINSULAR \u2192 old shield, monsoon-dominant regime"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "EAST \u2192 long rivers and major deltas",
+            "WEST \u2192 Narmada-Tapi troughs + short Ghats streams"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WEST \u2192 Narmada-Tapi troughs + short Ghats streams.",
+      "source_references": [
+        "Himalayan river systems",
+        "Peninsular river systems"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SOURCE-COURSE-MOUTH RAIL",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SOURCE-COURSE-MOUTH RAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "TIBETAN HEADWATERS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARABIAN SEA",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVPRAYAG NAME",
+          "role": "evidence"
+        },
+        {
+          "text": "BENGAL DELTA",
+          "role": "primary"
+        },
+        {
+          "text": "JOINED DELTA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INDUS \u2192 Tibetan headwaters \u2192 Arabian Sea",
+        "GANGA \u2192 Devprayag name \u2192 Bengal delta",
+        "BRAHMAPUTRA \u2192 Tsangpo-Siang \u2192 joined delta",
+        "PENINSULA \u2192 Godavari-Krishna-Kaveri / Narmada-Tapi"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INDUS \u2192 Tibetan headwaters \u2192 Arabian Sea",
+            "GANGA \u2192 Devprayag name \u2192 Bengal delta"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRAHMAPUTRA \u2192 Tsangpo-Siang \u2192 joined delta",
+            "PENINSULA \u2192 Godavari-Krishna-Kaveri / Narmada-Tapi"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "INDUS \u2192 Tibetan headwaters \u2192 Arabian Sea",
+            "GANGA \u2192 Devprayag name \u2192 Bengal delta"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "BRAHMAPUTRA \u2192 Tsangpo-Siang \u2192 joined delta",
+            "PENINSULA \u2192 Godavari-Krishna-Kaveri / Narmada-Tapi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRAHMAPUTRA \u2192 Tsangpo-Siang \u2192 joined delta; PENINSULA \u2192 Godavari-Krishna-Kaveri / Narmada-Tapi.",
+      "source_references": [
+        "Peninsular river systems"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DELTA BUDGET",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DELTA BUDGET",
+          "role": "primary"
+        },
+        {
+          "text": "BASIN SEDIMENT DELIVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "WAVES, TIDES AND CYCLONE SCOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPACTION + RELATIVE SEA LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRIBUTARY MOBILITY OR CONFINEMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INPUT \u2192 basin sediment delivery",
+        "REMOVAL \u2192 waves, tides and cyclone scour",
+        "VERTICAL \u2192 compaction + relative sea level",
+        "CHANNELS \u2192 distributary mobility or confinement"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "INPUT \u2192 basin sediment delivery",
+          "VERTICAL \u2192 compaction + relative sea level",
+          "INPUT \u2192 basin sediment delivery"
+        ],
+        [
+          "REMOVAL \u2192 waves, tides and cyclone scour",
+          "CHANNELS \u2192 distributary mobility or confinement",
+          "REMOVAL \u2192 waves, tides and cyclone scour"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "INPUT \u2192 basin sediment delivery",
+            "REMOVAL \u2192 waves, tides and cyclone scour"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERTICAL \u2192 compaction + relative sea level",
+            "CHANNELS \u2192 distributary mobility or confinement"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "INPUT \u2192 basin sediment delivery",
+            "REMOVAL \u2192 waves, tides and cyclone scour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERTICAL \u2192 compaction + relative sea level; CHANNELS \u2192 distributary mobility or confinement.",
+      "source_references": [
+        "Delta versus estuary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TRANSFER VIABILITY TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRANSFER VIABILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "SEASONAL WATER AFTER EXISTING CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMAND, SOIL, AQUIFER AND DELIVERY FIT",
+          "role": "comparison"
+        },
+        {
+          "text": "LOSS, ENERGY, ECOLOGY AND PEOPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "RECHARGE, EFFICIENCY, REUSE, OPERATIONS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DONOR \u2192 seasonal water after existing claims",
+        "RECIPIENT \u2192 demand, soil, aquifer and delivery fit",
+        "CORRIDOR \u2192 loss, energy, ecology and people",
+        "ALTERNATIVES \u2192 recharge, efficiency, reuse, operations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DONOR \u2192 seasonal water after existing claims",
+            "RECIPIENT \u2192 demand, soil, aquifer and delivery fit"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRIDOR \u2192 loss, energy, ecology and people",
+            "ALTERNATIVES \u2192 recharge, efficiency, reuse, operations"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DONOR \u2192 seasonal water after existing claims",
+            "RECIPIENT \u2192 demand, soil, aquifer and delivery fit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECIPIENT \u2192 demand, soil, aquifer and delivery fit.",
+      "source_references": [
+        "Inter-basin transfer accounting"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "KEN-BETWA BOUNDARY",
+      "structural_type": "case-study",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KEN-BETWA BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "KEN BASIN TO BETWA BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICIAL MATERIAL SAYS UNDER IMPLEMENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PANNA CONNECTIVITY + DOWNSTREAM FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "STATUS IS NOT MEASURED OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIRECTION \u2192 Ken basin to Betwa basin",
+        "STATUS \u2192 official material says under implementation",
+        "LANDSCAPE \u2192 Panna connectivity + downstream flow",
+        "RULE \u2192 status is not measured outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DIRECTION \u2192 Ken basin to Betwa basin",
+            "STATUS \u2192 official material says under implementation"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LANDSCAPE \u2192 Panna connectivity + downstream flow",
+            "RULE \u2192 status is not measured outcome"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DIRECTION \u2192 Ken basin to Betwa basin",
+            "STATUS \u2192 official material says under implementation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LANDSCAPE \u2192 Panna connectivity + downstream flow; RULE \u2192 status is not measured outcome.",
+      "source_references": [
+        "Ken-Betwa and Panna"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BASIN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BASIN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE + MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIN AND DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS, TIMING AND SEDIMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "BENEFIT MECHANISM AGAINST LIMITS",
+          "role": "mechanism"
+        },
+        {
+          "text": "SELECTIVE, ADAPTIVE AND BASIN-WIDE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE + MAP \u2192 basin and direction",
+        "EXPLAIN \u2192 process, timing and sediment",
+        "ASSESS \u2192 benefit mechanism against limits",
+        "VERDICT \u2192 selective, adaptive and basin-wide"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE + MAP \u2192 basin and direction",
+            "EXPLAIN \u2192 process, timing and sediment"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSESS \u2192 benefit mechanism against limits",
+            "VERDICT \u2192 selective, adaptive and basin-wide"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE + MAP \u2192 basin and direction",
+            "EXPLAIN \u2192 process, timing and sediment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSESS \u2192 benefit mechanism against limits; VERDICT \u2192 selective, adaptive and basin-wide.",
+      "source_references": [
+        "Verified routes and final basin spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE INDUS, GANGA AND BRAHMAPUTRA SYSTEMS CROSS INTERNATIONAL BOUNDARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTECEDENT DRAINAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVERS PREDATING THE HIMALAYA THAT MAINTAINED THEIR COURSE BY",
+          "role": "evidence"
+        },
+        {
+          "text": "RIVER CAPTURE (PIRACY)",
+          "role": "primary"
+        },
+        {
+          "text": "A MORE VIGOROUS RIVER, THROUGH HEADWARD EROSION, BEHEADS A",
+          "role": "outcome"
+        },
+        {
+          "text": "INDO-BRAHM HYPOTHESIS (KHULLAR)",
+          "role": "comparison"
+        },
+        {
+          "text": "A MIGHTY FORMER RIVER ALONG THE HIMALAYAN FOREDEEP WAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "The Indus, Ganga and Brahmaputra systems cross international boundaries and are mostly perennial.",
+            "Antecedent drainage: rivers predating the Himalaya that maintained their course by down-cutting as the range uplifted (deep transverse gorges).",
+            "River capture (piracy): a more vigorous river, through headward erosion, beheads a neighbouring river \u2014 a key process in Himalayan drainage evolution.",
+            "Indo-Brahm hypothesis (Khullar): a mighty former river along the Himalayan foredeep was"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "dismembered by successive captures into today's Indus, Ganga and Brahmaputra systems.",
+            "Most large Peninsular basins drain east; Narmada and Tapi flow west through structurally controlled",
+            "Objective: transfer water within Bundelkhand for irrigation, drinking water and power; quote",
+            "Concerns: submergence and fragmentation around Panna Tiger Reserve, downstream-flow effects,"
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Institutions: Central Water Commission, Ken-Betwa Link Project Authority; other links for comparison \u2014 Par-Tapi-Narmada, Damanganga-Pinjal.",
+            "Himalayan systems are mostly perennial; Peninsular regimes are more monsoon-seasonal and occupy an older landscape.",
+            "Antecedent river = older than the mountain it cuts across (deep gorge).",
+            "River capture driven by headward erosion (Khullar: Indo-Brahm captures)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

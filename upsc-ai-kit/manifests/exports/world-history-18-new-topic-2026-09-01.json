@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "topic_key": "world-history-18",
+  "subject": "World-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "world-history-18",
+  "title": "Decolonization of Africa and Asia",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Decolonization of Africa and Asia",
+  "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-18_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-18_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\18_Decolonization-of-Africa-and-Asia_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md"
+  ],
+  "local_ocr_sources": [
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://news.un.org/en/story/2026/02/1166971",
+    "https://press.un.org/en/2026/gacol3398.doc.htm"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+    "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+    "upsc-ai-kit\\knowledge\\World-History\\18_Decolonization-of-Africa-and-Asia_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-18_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-18_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-18-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-18.json",
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "The owner records two pre-2018 GS-I demands in neutral rendering only: the distinctive problems of Malayan decolonisation and the role of Western-educated Africans in West African nationalism. No verbatim 2015 or 2016 wording is held locally.",
+  "current_linkage_note": "Official UN coverage of the 2026 Special Committee on Decolonization session records 17 remaining Non-Self-Governing Territories and the continuing legacy of colonialism. The C-24 approved three draft resolutions concerning information dissemination, information from administering Powers, and visiting or special missions. This supplies a narrow link to decolonization as unfinished UN business; these remaining territories must not be conflated with the historical mass decolonization of Africa and Asia.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

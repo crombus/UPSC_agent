@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 23",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-23",
+      "display_title": "General Science: Biology and Physiology",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-23_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cell and organelle map",
+          "structural_type": "nested-cell-map",
+          "ascii_lines": [
+            "PROKARYOTE -> no membrane-bound nucleus or organelles",
+            "EUKARYOTE -> nucleus + compartmental organelles",
+            "RIBOSOME -> protein | MITOCHONDRION -> ATP",
+            "ER + GOLGI -> processing and movement",
+            "PLANT -> cellulose wall + chloroplast + large vacuole"
+          ],
+          "source_references": [
+            "Cell organisation and organelle boundary",
+            "Biomolecules and enzyme specificity"
+          ]
+        },
+        {
+          "title": "Membrane transport decision tree",
+          "structural_type": "transport-tree",
+          "ascii_lines": [
+            "SOLUTE DOWN GRADIENT -> diffusion",
+            "WATER + SELECTIVE MEMBRANE -> osmosis",
+            "AGAINST GRADIENT + ENERGY -> active transport",
+            "EXTERNAL TONICITY -> cell water response",
+            "TRAP -> movement depends on membrane and gradient"
+          ],
+          "source_references": [
+            "Membrane transport and water balance"
+          ]
+        },
+        {
+          "title": "Cell division comparison",
+          "structural_type": "two-column-division",
+          "ascii_lines": [
+            "MITOSIS -> one division -> two similar cells",
+            "ROLE -> growth and repair",
+            "MEIOSIS -> two divisions -> four haploid products",
+            "ROLE -> gametes + variation",
+            "CROSSING OVER != gene editing"
+          ],
+          "source_references": [
+            "Mitosis meiosis and variation"
+          ]
+        },
+        {
+          "title": "Gene-expression rail",
+          "structural_type": "information-rail",
+          "ascii_lines": [
+            "DNA --replication--> DNA",
+            "DNA --transcription--> mRNA",
+            "mRNA + tRNA + RIBOSOME --translation--> protein",
+            "microRNA -> post-transcriptional regulation",
+            "PROTEIN -> cell structure / enzyme / receptor / signal"
+          ],
+          "source_references": [
+            "DNA RNA gene expression and microRNA",
+            "Inheritance mutation and sex linkage"
+          ]
+        },
+        {
+          "title": "Nutrition and digestion route",
+          "structural_type": "organ-route",
+          "ascii_lines": [
+            "MOUTH -> amylase",
+            "STOMACH -> acid + pepsin",
+            "LIVER / BILE -> fat emulsification",
+            "PANCREAS + INTESTINE -> digestion completion",
+            "SMALL INTESTINE -> principal absorption"
+          ],
+          "source_references": [
+            "Digestion absorption and nutrition"
+          ]
+        },
+        {
+          "title": "Transport respiration excretion loop",
+          "structural_type": "physiology-loop",
+          "ascii_lines": [
+            "LUNGS -> alveolar gas exchange",
+            "BLOOD -> gases + nutrients + hormones + wastes",
+            "HEART -> pulmonary + systemic circulation",
+            "CELLS -> ATP-producing respiration",
+            "NEPHRON -> filtration + reabsorption + secretion"
+          ],
+          "source_references": [
+            "Blood heart and double circulation",
+            "Respiration gas exchange and cellular energy",
+            "Kidney nephron and homeostasis"
+          ]
+        },
+        {
+          "title": "Control and feedback ladder",
+          "structural_type": "feedback-ladder",
+          "ascii_lines": [
+            "RECEPTOR -> change detected",
+            "NERVOUS -> rapid wired response",
+            "ENDOCRINE -> blood-borne hormone response",
+            "TARGET -> physiological adjustment",
+            "NEGATIVE FEEDBACK -> restores regulated range"
+          ],
+          "source_references": [
+            "Nervous endocrine and feedback control",
+            "Hormones metabolism and internal stability"
+          ]
+        },
+        {
+          "title": "Immunity architecture",
+          "structural_type": "layered-defence",
+          "ascii_lines": [
+            "BARRIERS + PHAGOCYTES + COMPLEMENT -> innate",
+            "B CELL -> antibody / memory",
+            "T CELL -> helper / cytotoxic / regulatory roles",
+            "REGULATORY T CELL + Foxp3 -> peripheral tolerance",
+            "SELF-REACTIVITY CONTROL != no immune response"
+          ],
+          "source_references": [
+            "Innate adaptive and tolerance architecture"
+          ]
+        },
+        {
+          "title": "Disease transmission grid",
+          "structural_type": "agent-route-grid",
+          "ascii_lines": [
+            "BACTERIUM | VIRUS | FUNGUS | PROTOZOAN | HELMINTH",
+            "AIR | WATER/FOOD | BLOOD | CONTACT | VECTOR",
+            "VECTOR -> carries pathogen, is not disease",
+            "ZOONOSIS -> animal-human interface",
+            "PREVENTION -> mechanism-specific layers"
+          ],
+          "source_references": [
+            "Pathogen transmission vector and zoonosis map",
+            "Antibiotic antiviral and AMR boundary"
+          ]
+        },
+        {
+          "title": "Microbial ecology and resistance",
+          "structural_type": "selection-ecology-map",
+          "ascii_lines": [
+            "ANTIMICROBIAL PRESSURE -> selection",
+            "RESISTANT MICROBE -> survival + spread",
+            "BIOFILM -> matrix-protected community",
+            "MICROBIOME / PROBIOTIC -> context-dependent roles",
+            "EXTREMOPHILE LABEL -> tolerance, not universal safety"
+          ],
+          "source_references": [
+            "Antibiotic antiviral and AMR boundary",
+            "Biofilms microbiome probiotics and extremophiles"
+          ]
+        },
+        {
+          "title": "Plant function flow",
+          "structural_type": "plant-flow",
+          "ascii_lines": [
+            "ROOT -> water + mineral uptake",
+            "XYLEM -> upward transport",
+            "LEAF -> stomata + photosynthesis + transpiration",
+            "PHLOEM -> food translocation",
+            "C3 | C4 | CAM -> different carbon-fixation strategies"
+          ],
+          "source_references": [
+            "Plant physiology transport and stress response"
+          ]
+        },
+        {
+          "title": "PYQ and evidence-status rail",
+          "structural_type": "status-rail",
+          "ascii_lines": [
+            "TAXON / PLANT FORM / SPECIES PROPERTY -> exact classification",
+            "CELLULOSE -> cellulase -> sugars -> microbial metabolism",
+            "RESEARCH -> SURVEILLANCE -> PROGRAMME DELIVERY -> REGULATION",
+            "WHO VALIDATION != pathogen eradication",
+            "MECHANISM / ASSOCIATION / APPROVAL / OUTCOME -> separate rungs"
+          ],
+          "source_references": [
+            "Routed taxonomy and organism-form distinctions",
+            "Cellulose decomposition route",
+            "Health institution and evidence-status firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

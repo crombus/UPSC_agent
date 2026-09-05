@@ -1,0 +1,71 @@
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\philosophy-paper-ii-philosophy-of-religion-10-g12.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\10-Nature-of-Religious-Language.md
+notes\Flow-Learning\Philosophy Optional\10-Nature-of-Religious-Language\10-Nature-of-Religious-Language-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Philosophy Optional\10-Nature-of-Religious-Language\10-Nature-of-Religious-Language-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Philosophy Optional\10-Nature-of-Religious-Language\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\flowcharts\topic-10\carvaka-g12\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\topic-10_Complete-Learning-Session_2026-08-27.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\topic-10_Solved-Practice-Workbook_2026-08-27.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\ascii-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\ascii-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\graphical-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\inspection-manifest.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-03.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-04.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-05.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-06.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-07.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-08.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-09.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-10.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\main-contact-11.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-03.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-04.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-05.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-06.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\rendered-inspection\workbook-contact-07.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\SOURCE-CHANGE-AUDIT.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\validation\workbook-visual-audit-map.json
+tools\repair_philosophy_religious_language_g12.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\assets\topic-10_Teaching-Navigation_2026-08-27.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\topic-10_Complete-Learning-Session_2026-08-27.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-10\g12\topic-10_Solved-Practice-Workbook_2026-08-27.md
+upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Religious-Language.md
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-philosophy-of-religion-10-learner-v2-g12-2026-08-27-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-philosophy-of-religion-10-learner-v2-g12-2026-08-27-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-philosophy-of-religion-10-learner-v2-g12-2026-08-27-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-philosophy-of-religion-10-g12-2026-08-27.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Philosophy\philosophy-paper-ii-philosophy-of-religion-10-g12.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-philosophy-of-religion-content-specs\philosophy-paper-ii-philosophy-of-religion-10-g12.json

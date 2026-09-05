@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Governance learner-v2 Topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-06",
+      "display_title": "Digital Public Infrastructure and Data Governance",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Governance\\06_Digital-Public-Infrastructure-and-Data-Governance_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Rails, service and safeguard",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RAILS -> identity, payments, documents, consent, commerce and health infrastructure",
+            "SERVICE -> a specific departmental portal delivered on those rails",
+            "SAFEGUARD -> the data-protection statute, rules and enforcing body",
+            "WHY IT MATTERS -> rails raise systemic risks; a service raises departmental ones"
+          ],
+          "source_references": [
+            "Rails, service and safeguard as three layers"
+          ]
+        },
+        {
+          "title": "The stack card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "IDENTITY -> Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship",
+            "PAYMENTS -> Unified Payments Interface operated by the National Payments Corporation of India",
+            "DOCUMENTS -> DigiLocker under the Ministry of Electronics and Information Technology",
+            "CONSENT -> Account Aggregator regulated by the Reserve Bank of India under DEPA",
+            "COMMERCE AND HEALTH -> Open Network for Digital Commerce; Ayushman Bharat Digital Mission"
+          ],
+          "source_references": [
+            "The identity layer and its exact statutory anchor",
+            "Payments and documents layers"
+          ]
+        },
+        {
+          "title": "Two consent constructs",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ACCOUNT AGGREGATOR -> finance-specific; Reserve Bank regulated; cannot view or store the data",
+            "CONSENT MANAGER -> general-purpose registration under the 2025 Rules; commences 13 November 2026",
+            "SHARED LOGIC -> give, manage, review and withdraw consent through an interoperable platform",
+            "ERROR PREVENTED -> treating one registration as the other in a close-option question"
+          ],
+          "source_references": [
+            "Two consent managers that are not the same registration"
+          ]
+        },
+        {
+          "title": "Layer-specific risk matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "IDENTITY -> who is excluded by authentication failure",
+            "PAYMENTS AND DOCUMENTS -> who lacks the device, connectivity or literacy to self-serve",
+            "COMMERCE -> does the open protocol give smaller sellers genuinely equal visibility",
+            "HEALTH -> is sensitive data with higher re-identification risk adequately safeguarded"
+          ],
+          "source_references": [
+            "Commerce and health layers with distinct risks"
+          ]
+        },
+        {
+          "title": "Three-tranche commencement",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "13 NOVEMBER 2025 -> definitions, sections 18 to 26 establishing the Board, section 44(1) and 44(3)",
+            "13 NOVEMBER 2026 -> section 6(9) consent managers and section 27(1)(d)",
+            "13 MAY 2027 -> sections 3 to 5, sections 7 to 17 rights, sections 27 to 34 and section 44(2)",
+            "NOTIFICATIONS -> G.S.R. 843(E) commencement; G.S.R. 846(E) Rules; G.S.R. 892(E) corrigendum"
+          ],
+          "source_references": [
+            "The three-tranche commencement",
+            "The Rules and their notification identity"
+          ]
+        },
+        {
+          "title": "The section 44 split",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SECTION 44(3) -> substitutes the personal-information exemption in the transparency statute",
+            "STATUS -> immediate tranche; operative since 13 and 14 November 2025",
+            "SECTION 44(2) -> amends the Information Technology Act, 2000",
+            "STATUS -> deferred to 13 May 2027; challenges filed and no final judgment located"
+          ],
+          "source_references": [
+            "Two subsections that are routinely swapped"
+          ]
+        },
+        {
+          "title": "Enforcement sequence",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STAGE 1 ESTABLISHED -> the Board exists in law under section 18",
+            "STAGE 2 RECRUITMENT -> applications invited in May 2026 for one Chairperson and four Members",
+            "STAGE 3 PROCEDURE -> rules of procedure and digital-first conduct of proceedings",
+            "STAGE 4 AND 5 -> commenced substantive duties, then decided cases",
+            "CAUTION -> no appointment order located by the 21 July 2026 cut-off"
+          ],
+          "source_references": [
+            "The Board and the five-stage enforcement sequence"
+          ]
+        },
+        {
+          "title": "Authentication dependency",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "POPULATION-SCALE IDENTITY -> efficient targeting and de-duplication",
+            "AUTHENTICATION DEPENDENCY -> access becomes conditional on successful verification",
+            "FAILURE MODES -> worn biometrics, connectivity drop, address mismatch",
+            "OUTCOME -> inclusion at the median with a denial tail among intended beneficiaries",
+            "MITIGATION -> offline override, which reintroduces some discretion; a trade-off, not a fix"
+          ],
+          "source_references": [
+            "Authentication dependency and the reuse tension"
+          ]
+        },
+        {
+          "title": "Interoperability against purpose limitation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "INTEROPERABILITY -> the same rails reused across many public and private services",
+            "PURPOSE LIMITATION -> data collected for one purpose may not be silently reused",
+            "RECONCILERS -> granular purpose-specific consent, purpose tagging, data minimisation",
+            "PRACTICAL FAILURE -> consent fatigue, meaning habitual approval without comprehension"
+          ],
+          "source_references": [
+            "Authentication dependency and the reuse tension"
+          ]
+        },
+        {
+          "title": "Six binding constraints",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "DEVICE -> household handset shared and controlled by one member",
+            "CONNECTIVITY -> quality and cost, not merely coverage",
+            "LANGUAGE -> content and error messages outside the user's script",
+            "FUNCTIONAL LITERACY -> completing a task, not operating a phone",
+            "TRUST AND AUTHENTICATION -> fear of error, worn fingerprints, address mismatch"
+          ],
+          "source_references": [
+            "Six binding constraints and the intermediary paradox"
+          ]
+        },
+        {
+          "title": "Intermediary paradox and four safeguards",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "REALISTIC ROUTE -> assisted access through a centre, a shopkeeper or a family member",
+            "NEW RISK -> a fee, an error rate and access to the citizen's own credentials",
+            "SAFEGUARDS 1 AND 2 -> necessity and proportionality; minimisation with purpose tagging",
+            "SAFEGUARDS 3 AND 4 -> assisted and offline fallback; reasoned human review and appeal"
+          ],
+          "source_references": [
+            "Six binding constraints and the intermediary paradox"
+          ]
+        },
+        {
+          "title": "Answer spine for an adequacy demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> separate rails, service and safeguard, and name the layer at issue",
+            "BUILD -> state the tranche, the section and the date before evaluating adequacy",
+            "TEST -> exclusion tail, consent quality, reuse tension, enforcement stage",
+            "CLOSE -> graded verdict with a pending-challenge caveat and correct grievance routing"
+          ],
+          "source_references": [
+            "Remedy forums and honest question ownership"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-19",
+      "display_title": "Latin America (20th Century)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Informal empire mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "US STRATEGIC WEIGHT -> intervention capacity",
+            "COMMERCIAL/FINANCIAL POWER -> policy limits",
+            "DOMESTIC ELITES -> seek external backing",
+            "RESULT -> sovereignty real but constrained",
+            "MUST REMEMBER: Twentieth-century US power in Latin America usually operated as informal",
+            "  strategic, commercial, financial and political leverage interacting with domestic elites,",
+            "  armies and reform movements."
+          ],
+          "source_references": [
+            "Informal empire and constrained sovereignty",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Instability structure",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LAND -> oligarchic political power",
+            "EXPORTS -> commodity price vulnerability",
+            "ARMY -> repeated political arbitration",
+            "DEBT -> outside lenders narrow policy choice"
+          ],
+          "source_references": [
+            "Land, exports and military politics",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Revolution and intervention",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1954 -> Guatemalan reform overturned",
+            "1959 -> Cuban Revolution succeeds",
+            "1962 -> missile crisis globalises Cuba",
+            "1979 -> Sandinistas take power in Nicaragua"
+          ],
+          "source_references": [
+            "Guatemala and intervention",
+            "Cuba and surviving revolution",
+            "Nicaragua and counter-revolution",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Why Cuba differed",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GUATEMALA -> reform reversed",
+            "NICARAGUA -> revolution faces counter-pressure",
+            "CUBA -> revolution survives",
+            "PRICE -> Soviet alignment replaces isolated autonomy"
+          ],
+          "source_references": [
+            "Cuba and surviving revolution",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Regional diversity",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BRAZIL -> industrial growth plus inequality",
+            "MEXICO -> revolution plus long PRI dominance",
+            "VENEZUELA -> oil wealth plus instability",
+            "CUBA -> durable anti-US revolutionary state"
+          ],
+          "source_references": [
+            "Mexico: revolution institutionalised",
+            "Brazilian development without equality",
+            "Venezuela's oil and populism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Economic strategy arc",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "COMMODITY EXPORTS -> external shock exposure",
+            "ISI -> protected domestic industry",
+            "IMPORT/FISCAL LIMITS -> external borrowing",
+            "DEBT CRISIS -> austerity and liberalisation"
+          ],
+          "source_references": [
+            "ISI's purpose",
+            "Why ISI reached limits",
+            "Debt crisis and austerity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "ISI balance sheet",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GOAL -> replace imported manufactures",
+            "TOOLS -> tariffs, licensing and state investment",
+            "GAIN -> industrial diversification",
+            "LIMIT -> small markets and capital-goods imports"
+          ],
+          "source_references": [
+            "ISI's purpose",
+            "Why ISI reached limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Debt-to-society chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "INTEREST COMPOUNDS -> debt service grows",
+            "RESCHEDULING -> creditor conditions expand",
+            "AUSTERITY -> jobs and services contract",
+            "LEGITIMACY -> developmental state weakens"
+          ],
+          "source_references": [
+            "Debt crisis and austerity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bounded debt evidence",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEXICO 1982 -> IMF and debt rescheduling",
+            "$96 BILLION -> owner-bounded overseas debt",
+            "ARGENTINA -> inflation around 900 per cent",
+            "RULE -> figures illustrate cases, not the region"
+          ],
+          "source_references": [
+            "Mexico and Argentina evidence",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "US influence toolkit",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "COVERT/PROXY -> Guatemala and Nicaragua",
+            "HOSTILITY -> Cuba contained",
+            "FINANCE -> debt conditionality",
+            "STRUCTURE -> commercial and strategic predominance",
+            "CLOSE DISTINCTION: Mexico, Guatemala, Cuba, Nicaragua, Brazil and Venezuela followed different",
+            "  paths; revolution, coup, authoritarian development and populism cannot be collapsed into one",
+            "  regional cycle."
+          ],
+          "source_references": [
+            "Four instruments of US influence",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "External and internal loop",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INEQUALITY -> elites resist reform",
+            "ELITES -> seek outside protection",
+            "INTERVENTION -> inequality preserved",
+            "NEW MOVEMENTS -> challenge the same order",
+            "EVIDENCE LIMIT: Commodity dependence, ISI, borrowing, the 1980s debt crisis and liberalisation",
+            "  form a political-economy sequence whose numerical examples must remain country-, year- and",
+            "  source-bounded."
+          ],
+          "source_references": [
+            "Dependency and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Latin America answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "STRUCTURE -> land, exports, armies and US influence",
+            "CASES -> Mexico, Guatemala, Cuba and Nicaragua",
+            "ECONOMY -> ISI, debt and liberalisation",
+            "VERDICT -> constrained sovereignty with persistent agency"
+          ],
+          "source_references": [
+            "Dependency and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-19\\g2\\world-history-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

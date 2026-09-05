@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T09:10:11+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "c9cef2d4b339275e9cbb65481259f7f8a4b0d41975aef94623dba6aa041b98d3",
+    "sha256_after": "c9cef2d4b339275e9cbb65481259f7f8a4b0d41975aef94623dba6aa041b98d3",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8860,
+    "pdf_count": 2287,
+    "png_count": 761,
+    "txt_count": 966,
+    "markdown_count": 1452,
+    "json_count": 3379,
+    "total_bytes": 4048792335,
+    "by_extension": {
+      ".json": 3379,
+      ".md": 1452,
+      ".pdf": 2287,
+      ".png": 761,
+      ".txt": 966,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-01",
+      "topic_title": "Decline of the Mughal Empire (1707–1740s)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 1,
+      "source_record_id": "modern-indian-history-01:learner-v2:g6",
+      "source_generation": 6,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "60aece89019c4167f9add0c79661947e3c0f13145d9c177bddf3f1d8f57c9a0c",
+          "output_sha256": "60aece89019c4167f9add0c79661947e3c0f13145d9c177bddf3f1d8f57c9a0c",
+          "source_output_equal": true,
+          "bytes": 770063
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "7407814c55ede0fe8cfe8a0b395696fa6e985b95063f050405e7b7d15d82a051",
+          "output_sha256": "7407814c55ede0fe8cfe8a0b395696fa6e985b95063f050405e7b7d15d82a051",
+          "source_output_equal": true,
+          "bytes": 558251
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-01\\carvaka-g6\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "539be2970d0aad7669e5458bd7c028311f2487af62bae0f43a2aa1ca0b4be742",
+          "output_sha256": "539be2970d0aad7669e5458bd7c028311f2487af62bae0f43a2aa1ca0b4be742",
+          "source_output_equal": true,
+          "bytes": 2154125
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-01\\carvaka-g6\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "b5477bcfd168d283924a28a25311915bb1d42d4f26458df867f69053131ff7bd",
+          "output_sha256": "b5477bcfd168d283924a28a25311915bb1d42d4f26458df867f69053131ff7bd",
+          "source_output_equal": true,
+          "bytes": 2591944
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-01\\carvaka-g6\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "97712c95a1bdab860040562f9a2209eab69bf69d26eb29580a6fb6e81a3232c9",
+          "output_sha256": "97712c95a1bdab860040562f9a2209eab69bf69d26eb29580a6fb6e81a3232c9",
+          "source_output_equal": true,
+          "bytes": 1918252
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "14fc6076f6cb012ba494ae2a0e84ffd9ffc80ff4f3cc8acf48e743cda0c90c60",
+          "output_sha256": "14fc6076f6cb012ba494ae2a0e84ffd9ffc80ff4f3cc8acf48e743cda0c90c60",
+          "source_output_equal": true,
+          "bytes": 5077
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-01\\carvaka-g6\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\01-Decline-of-the-Mughal-Empire-1707-1740s\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "df07d6909640c86cc371fc771aabca81f0ef4b0bde006fea0c7e5b6061852243",
+          "output_sha256": "df07d6909640c86cc371fc771aabca81f0ef4b0bde006fea0c7e5b6061852243",
+          "source_output_equal": true,
+          "source_text_sha256": "14fc6076f6cb012ba494ae2a0e84ffd9ffc80ff4f3cc8acf48e743cda0c90c60",
+          "normalized_text_equal": true,
+          "bytes": 57580
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 82,
+        "solved_practice_workbook": 31,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 82,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 31,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10832
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

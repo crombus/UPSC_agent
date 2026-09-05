@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-11",
+      "display_title": "Forest Types and Forest Rights Act",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Four-vocabulary firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FOREST TYPE -> ecology, climate and vegetation",
+            "LEGAL CATEGORY -> Reserved, Protected or Village Forest",
+            "RECORDED FOREST AREA -> government forest record",
+            "FOREST OR TREE COVER -> canopy measurement",
+            "RULE -> never use one vocabulary as automatic proof of another",
+            "MUST REMEMBER: Forest analysis must separate ecological forest type, canopy-based forest..."
+          ],
+          "source_references": [
+            "Four forest vocabularies",
+            "Legal forest categories",
+            "Forest-cover measurement",
+            "Recorded forest area",
+            "Tree-cover boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Moisture-gradient map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "VERY WET -> tropical wet evergreen",
+            "TRANSITION -> semi-evergreen",
+            "SEASONAL MOISTURE -> moist deciduous",
+            "DRIER SEASONAL CLIMATE -> dry deciduous",
+            "ARIDITY -> thorn and drought-adapted vegetation"
+          ],
+          "source_references": [
+            "Ecological type drivers",
+            "Wet to dry sequence",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Mountain-zonation rail",
+          "structural_type": "route-map",
+          "ascii_lines": [
+            "LOWER SLOPES -> climate and aspect condition forest",
+            "MONTANE BELTS -> changing temperature and moisture",
+            "SUB-ALPINE -> upper tree-limit transition",
+            "ALPINE -> vegetation above forest limit",
+            "CAUTION -> local exposure and land use modify the ideal sequence"
+          ],
+          "source_references": [
+            "Ecological type drivers",
+            "Montane zonation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Legal-category matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RESERVED FOREST -> restrictive permission presumption",
+            "PROTECTED FOREST -> different permission and prohibition structure",
+            "VILLAGE FOREST -> statutory management category",
+            "UNCLASSED FOREST -> verify record and applicable legal basis",
+            "NONE -> an ecological type or canopy-density class"
+          ],
+          "source_references": [
+            "Legal forest categories",
+            "Reserved-Protected reversal",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Cover-record divergence",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RECORDED FOREST WITH LOW CANOPY -> legal record can remain",
+            "PLANTATION OR ORCHARD WITH CANOPY -> may enter cover measurement",
+            "FOREST COVER -> remote-sensing criterion",
+            "TREE COVER -> separate measurement category",
+            "RESULT -> area figures answer different questions"
+          ],
+          "source_references": [
+            "Forest-cover measurement",
+            "Recorded forest area",
+            "Tree-cover boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "FRA purpose gate",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "PAST EXCLUSION -> historical injustice",
+            "ELIGIBLE FOREST DWELLER -> statutory claimant category",
+            "RIGHT CLAIM -> evidence and procedure",
+            "RECOGNITION -> defined right and title",
+            "NO BLANKET TRANSFER -> State governance framework continues"
+          ],
+          "source_references": [
+            "FRA purpose",
+            "Recognition procedure",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Eligibility decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "CLAIMANT -> forest-dwelling Scheduled Tribe or OTFD",
+            "OCCUPATION -> before 13 December 2005",
+            "OTFD ONLY -> three generations or 75 years plus dependence",
+            "EVIDENCE -> apply statutory and Rules-based forms",
+            "PROCEDURE -> eligibility claim still requires verification"
+          ],
+          "source_references": [
+            "Eligibility and cutoff",
+            "Recognition procedure",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rights matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IFR -> prior habitation or self-cultivation under actual occupation",
+            "COMMUNITY RIGHTS -> customary access, grazing, water and MFP",
+            "CFR RIGHT -> protect, regenerate, conserve and manage resource",
+            "HABITAT RIGHT -> PVTG or pre-agricultural community route",
+            "RULE -> right categories have different holders and content"
+          ],
+          "source_references": [
+            "Individual forest right",
+            "Community rights",
+            "Community forest resource right",
+            "Habitat and special rights",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Recognition procedure",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "GRAM SABHA -> initiate, receive and verify claims",
+            "SDLC -> scrutinise and hear the intermediate claim stage",
+            "DLC -> final district-level decision",
+            "TITLE OR REASONED REJECTION -> outcome after procedure",
+            "NO ASSUMPTION -> filing or recommendation is not conferment"
+          ],
+          "source_references": [
+            "Recognition procedure",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Safeguard and facility gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "SECTION 4(5) -> no eviction before recognition process completes",
+            "LIMIT -> safeguard does not automatically approve every claim",
+            "SECTION 3(2) -> specified community facilities only",
+            "CONDITIONS -> retain area, tree and Gram Sabha limits from the owner",
+            "NO EXTENSION -> not a general non-forest-use exemption",
+            "CLOSE DISTINCTION: Forest cover is not recorded forest area, legal forest is not..."
+          ],
+          "source_references": [
+            "Section 4(5) safeguard",
+            "Section 3(2) facilities",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rights-conservation bridge",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "RECOGNISED TENURE -> stronger stewardship incentive may follow",
+            "CFR INSTITUTION -> community management authority",
+            "SUPPORT -> ecological, technical and livelihood capacity",
+            "MONITOR -> forest condition and distributional outcomes",
+            "QUALIFY -> title is an input, not automatic ecological success",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State dataset or legal definition, canopy..."
+          ],
+          "source_references": [
+            "Community forest resource right",
+            "Rights and conservation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PYQ answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> type, legal category, record, cover or right",
+            "DEFINE -> claimant, right holder and procedure",
+            "TRACE -> Gram Sabha, SDLC and DLC",
+            "APPLY -> bamboo, habitat, forest type, Miyawaki or resource demand",
+            "QUALIFY -> dated data and objective keys remain source-bounded"
+          ],
+          "source_references": [
+            "Audited PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1090 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-12",
+  "subject": "Indian-Art-and-Culture",
+  "title": "CRAFTS, TEXTILES, FOLK AND TRIBAL TRADITIONS",
+  "short_route": "CRAFT ECOLOGY ROOT → GI LEGAL BOUNDARY → CROSS-BORDER PROTECTION → IKAT MATRIX → TEXTILE PROCESS LADDER → SURFACE AND METAL PROCESS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-12-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "ae5e2e7b34ecde414006081e9ab1c5fdc52b4bd1f96f5a4453c4bb14d7985796",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CRAFT ECOLOGY ROOT",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CRAFT ECOLOGY ROOT",
+          "role": "primary"
+        },
+        {
+          "text": "RAW MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ECOLOGICAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNIQUE AND APPRENTICESHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "LABOUR AND TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS, GI AND SAFEGUARDING",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "CRAFT SURVIVAL DEPENDS ON RAW MATERIAL, SKILL, COMMUNITY, MARKET",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAW MATERIAL → ecological access",
+        "SKILL → technique and apprenticeship",
+        "COMMUNITY → labour and transmission",
+        "MARKET / LAW → access, GI and safeguarding",
+        "MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal recognition and safeguarding"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAW MATERIAL → ecological access",
+            "SKILL → technique and apprenticeship"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMUNITY → labour and transmission",
+            "MARKET / LAW → access, GI and safeguarding"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal recognition and safeguarding, while textiles",
+            "must pair technique and centre: Patola double ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal recognition and safeguarding, while textiles must pair technique and centre: Patola double ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery.",
+      "source_references": [
+        "The craft ecology chain",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GI LEGAL BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GI LEGAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGIN-LINKED PRODUCT NAME",
+          "role": "outcome"
+        },
+        {
+          "text": "TEN YEARS, RENEWABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "GOODS, NOT SERVICES",
+          "role": "caution"
+        },
+        {
+          "text": "NO AUTOMATIC LIVELIHOOD GUARANTEE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GI → origin-linked product name",
+        "TERM → ten years, renewable",
+        "SCOPE → goods, not services",
+        "LIMIT → no automatic livelihood guarantee"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GI → origin-linked product name",
+          "SCOPE → goods, not services",
+          "GI → origin-linked product name"
+        ],
+        [
+          "TERM → ten years, renewable",
+          "LIMIT → no automatic livelihood guarantee",
+          "TERM → ten years, renewable"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GI → origin-linked product name",
+            "TERM → ten years, renewable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCOPE → goods, not services",
+            "LIMIT → no automatic livelihood guarantee"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GI → origin-linked product name",
+            "TERM → ten years, renewable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → goods, not services; LIMIT → no automatic livelihood guarantee.",
+      "source_references": [
+        "What a GI legally protects",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CROSS-BORDER PROTECTION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CROSS-BORDER PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "DARJEELING TEA",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST INDIAN GI",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN GI",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMESTIC PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "KANGRA TEA",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE EU PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS DO NOT TRAVEL AUTOMATICALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DARJEELING TEA → first Indian GI",
+        "INDIAN GI → domestic protection",
+        "KANGRA TEA → separate EU protection",
+        "RULE → rights do not travel automatically"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DARJEELING TEA → first Indian GI",
+            "INDIAN GI → domestic protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KANGRA TEA → separate EU protection",
+            "RULE → rights do not travel automatically"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DARJEELING TEA → first Indian GI",
+            "INDIAN GI → domestic protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KANGRA TEA → separate EU protection; RULE → rights do not travel automatically.",
+      "source_references": [
+        "First GI and foreign protection",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IKAT MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "IKAT MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PATAN, DOUBLE IKAT",
+          "role": "outcome"
+        },
+        {
+          "text": "TELANGANA, SINGLE OR DOUBLE IKAT",
+          "role": "comparison"
+        },
+        {
+          "text": "RESIST-DYED YARN",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRE PLUS PROCESS MUST MATCH",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "PATOLA → Patan, double ikat",
+        "POCHAMPALLY → Telangana, single or double ikat",
+        "COMMON → resist-dyed yarn",
+        "TRAP → centre plus process must match"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PATOLA → Patan, double ikat",
+          "COMMON → resist-dyed yarn",
+          "PATOLA → Patan, double ikat"
+        ],
+        [
+          "POCHAMPALLY → Telangana, single or double ikat",
+          "TRAP → centre plus process must match",
+          "POCHAMPALLY → Telangana, single or double ikat"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PATOLA → Patan, double ikat",
+            "POCHAMPALLY → Telangana, single or double ikat"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON → resist-dyed yarn",
+            "TRAP → centre plus process must match"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PATOLA → Patan, double ikat",
+            "POCHAMPALLY → Telangana, single or double ikat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON → resist-dyed yarn; TRAP → centre plus process must match.",
+      "source_references": [
+        "Ikat close options",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TEXTILE PROCESS LADDER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TEXTILE PROCESS LADDER",
+          "role": "mechanism"
+        },
+        {
+          "text": "JOINED SILK BORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPLEMENTARY-WEFT BROCADE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHITE EMBROIDERY",
+          "role": "evidence"
+        },
+        {
+          "text": "RUNNING STITCH AND REUSED CLOTH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KANCHIPURAM → joined silk border",
+        "BANARASI → supplementary-weft brocade",
+        "CHIKANKARI → white embroidery",
+        "KANTHA → running stitch and reused cloth"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KANCHIPURAM → joined silk border",
+          "CHIKANKARI → white embroidery",
+          "KANCHIPURAM → joined silk border"
+        ],
+        [
+          "BANARASI → supplementary-weft brocade",
+          "KANTHA → running stitch and reused cloth",
+          "BANARASI → supplementary-weft brocade"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KANCHIPURAM → joined silk border",
+            "BANARASI → supplementary-weft brocade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHIKANKARI → white embroidery",
+            "KANTHA → running stitch and reused cloth"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KANCHIPURAM → joined silk border",
+            "BANARASI → supplementary-weft brocade"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHIKANKARI → white embroidery; KANTHA → running stitch and reused cloth.",
+      "source_references": [
+        "Brocade, silk and embroidery",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SURFACE AND METAL PROCESS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SURFACE AND METAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MORDANT OR RESIST COTTON SURFACE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOST-WAX METAL CASTING",
+          "role": "comparison"
+        },
+        {
+          "text": "DETERMINES TOOLS AND LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED CRAFT LABEL PROVES NOTHING",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A GEOGRAPHICAL INDICATION PROTECTS AN ORIGIN-LINKED GOODS NAME FOR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "KALAMKARI → mordant or resist cotton surface",
+        "DHOKRA → lost-wax metal casting",
+        "PROCESS → determines tools and labour",
+        "RULE → shared craft label proves nothing",
+        "CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for authorised users under the"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KALAMKARI → mordant or resist cotton surface",
+          "PROCESS → determines tools and labour",
+          "CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for authorised users under the 1999 Act, operational"
+        ],
+        [
+          "DHOKRA → lost-wax metal casting",
+          "RULE → shared craft label proves nothing",
+          "it is neither UNESCO status nor a quality certificate."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KALAMKARI → mordant or resist cotton surface",
+            "DHOKRA → lost-wax metal casting"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESS → determines tools and labour",
+            "RULE → shared craft label proves nothing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for authorised users under the 1999 Act, operational",
+            "it is neither UNESCO status nor a quality certificate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for authorised users under the 1999 Act, operational since 2003 with renewable ten-year registration; it is neither UNESCO status nor a quality certificate.",
+      "source_references": [
+        "Kalamkari, Dhokra and material process",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GLASS EVIDENCE CHAIN",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GLASS EVIDENCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MAHABHARATA AND SHATAPATHA BRAHMANA",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARCHAEOLOGICAL GLASS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "BEAD INDUSTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE CLASSES MUST REMAIN SEPARATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEXT → Mahabharata and Shatapatha Brahmana",
+        "PGW → archaeological glass evidence",
+        "BRAHMAPURI / KOLHAPUR → bead industry",
+        "LIMIT → evidence classes must remain separate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TEXT → Mahabharata and Shatapatha Brahmana",
+            "PGW → archaeological glass evidence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRAHMAPURI / KOLHAPUR → bead industry",
+            "LIMIT → evidence classes must remain separate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEXT → Mahabharata and Shatapatha Brahmana",
+            "PGW → archaeological glass evidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRAHMAPURI / KOLHAPUR → bead industry; LIMIT → evidence classes must remain separate.",
+      "source_references": [
+        "Glass craft chronology",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NORTH-EAST METHOD",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NORTH-EAST METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY THE WEAVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "ERI, MUGA, SILK OR COTTON",
+          "role": "comparison"
+        },
+        {
+          "text": "GINNING, SPINNING AND WEAVING",
+          "role": "evidence"
+        },
+        {
+          "text": "GARMENT AND MOTIF",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY → identify the weavers",
+        "FIBRE → Eri, Muga, silk or cotton",
+        "PROCESS → ginning, spinning and weaving",
+        "PRODUCT → garment and motif"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMUNITY → identify the weavers",
+            "FIBRE → Eri, Muga, silk or cotton"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESS → ginning, spinning and weaving",
+            "PRODUCT → garment and motif"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMUNITY → identify the weavers",
+            "FIBRE → Eri, Muga, silk or cotton"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROCESS → ginning, spinning and weaving; PRODUCT → garment and motif.",
+      "source_references": [
+        "North-East handloom method",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ERI-MUGA FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ERI-MUGA FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ERI, GARO-KHASI-JAINTIA",
+          "role": "outcome"
+        },
+        {
+          "text": "GOLDEN MUGA",
+          "role": "comparison"
+        },
+        {
+          "text": "MEKHELA CHADOR",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED GARMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GARMENT ALONE CANNOT IDENTIFY STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "MEGHALAYA → Eri, Garo-Khasi-Jaintia",
+        "ASSAM → golden Muga",
+        "MEKHELA CHADOR → shared garment",
+        "TRAP → garment alone cannot identify state"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MEGHALAYA → Eri, Garo-Khasi-Jaintia",
+          "MEKHELA CHADOR → shared garment",
+          "MEGHALAYA → Eri, Garo-Khasi-Jaintia"
+        ],
+        [
+          "ASSAM → golden Muga",
+          "TRAP → garment alone cannot identify state",
+          "ASSAM → golden Muga"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MEGHALAYA → Eri, Garo-Khasi-Jaintia",
+            "ASSAM → golden Muga"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEKHELA CHADOR → shared garment",
+            "TRAP → garment alone cannot identify state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MEGHALAYA → Eri, Garo-Khasi-Jaintia",
+            "ASSAM → golden Muga"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEKHELA CHADOR → shared garment; TRAP → garment alone cannot identify state.",
+      "source_references": [
+        "Eri and Muga firewall",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "REGIONAL HANDLOOM MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGIONAL HANDLOOM MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MOIRANG PHEE AND PHANEK",
+          "role": "outcome"
+        },
+        {
+          "text": "TRIBE-SPECIFIC MOTIFS AND NATURAL DYES",
+          "role": "comparison"
+        },
+        {
+          "text": "ADI, APATANI, NYISHI AND MONPA",
+          "role": "evidence"
+        },
+        {
+          "text": "PUAN, STRIPES AND EMBROIDERY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MANIPUR → Moirang Phee and Phanek",
+        "NAGALAND → tribe-specific motifs and natural dyes",
+        "ARUNACHAL → Adi, Apatani, Nyishi and Monpa",
+        "MIZORAM / TRIPURA → Puan, stripes and embroidery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MANIPUR → Moirang Phee and Phanek",
+            "NAGALAND → tribe-specific motifs and natural dyes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARUNACHAL → Adi, Apatani, Nyishi and Monpa",
+            "MIZORAM / TRIPURA → Puan, stripes and embroidery"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MANIPUR → Moirang Phee and Phanek",
+            "NAGALAND → tribe-specific motifs and natural dyes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MIZORAM / TRIPURA → Puan, stripes and embroidery.",
+      "source_references": [
+        "Manipur and Nagaland discriminators",
+        "Arunachal, Mizoram and Tripura",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CERTIFICATION GAP TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CERTIFICATION GAP TEST",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTION FACT VERIFIED?",
+          "role": "outcome"
+        },
+        {
+          "text": "WRITE ERI EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CERTIFICATION CRITERIA VERIFIED?",
+          "role": "evidence"
+        },
+        {
+          "text": "GI COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL INSTRUMENT ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCLOSE THE BOUNDED GAP",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PRODUCTION FACT VERIFIED? → write Eri evidence",
+        "CERTIFICATION CRITERIA VERIFIED? → no",
+        "GI COMPARISON → legal instrument only",
+        "VERDICT → disclose the bounded gap"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRODUCTION FACT VERIFIED? → write Eri evidence",
+            "CERTIFICATION CRITERIA VERIFIED? → no"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GI COMPARISON → legal instrument only",
+            "VERDICT → disclose the bounded gap"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRODUCTION FACT VERIFIED? → write Eri evidence",
+            "CERTIFICATION CRITERIA VERIFIED? → no"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GI COMPARISON → legal instrument only; VERDICT → disclose the bounded gap.",
+      "source_references": [
+        "Beyond the GI label",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CRAFT ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CRAFT ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL, SKILL AND COMMUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "REGION, PROCESS AND PRODUCT",
+          "role": "mechanism"
+        },
+        {
+          "text": "MARKET, LAW, ECOLOGY AND LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUS, OWNERSHIP AND SOURCE LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "GI DOES NOT GUARANTEE FAIR PRICE, ECOLOGY, LABOUR CONDITIONS",
+          "role": "caution"
+        },
+        {
+          "text": "INDIAN PROTECTION DOES NOT AUTOMATICALLY EXTEND ABROAD, AND FOLK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → material, skill and community",
+        "IDENTIFY → region, process and product",
+        "ANALYSE → market, law, ecology and labour",
+        "QUALIFY → status, ownership and source limits",
+        "EVIDENCE LIMIT: GI does not guarantee fair price, ecology, labour conditions or transmission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → material, skill and community",
+            "IDENTIFY → region, process and product"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → market, law, ecology and labour",
+            "QUALIFY → status, ownership and source limits"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: GI does not guarantee fair price, ecology, labour conditions or transmission,",
+            "Indian protection does not automatically extend abroad, and folk or tribal production must retain community, gender and appropriation limits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian protection does not automatically extend abroad, and folk or tribal production must retain community, gender and appropriation limits.",
+      "source_references": [
+        "Verified craft PYQs and live institutional link",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-12\\g4\\indian-art-and-culture-12_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE BOOK REPORTS 658 REGISTERED GOODS AS OF JULY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESENTING A GI TAG AS EQUIVALENT TO COMPREHENSIVE CRAFT-COMMUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTEMPTING TO FULLY RESOLVE THE INDUSTRIAL-REVOLUTION-AND-HANDICRAFTS",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATING ALL GI REGISTRATIONS AS DOMESTICALLY VALID INTERNATIONALLY.",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING \"TRIBAL CRAFT\" AS ANONYMOUS TIMELESS COMMUNITY EXPRESSION.",
+          "role": "outcome"
+        },
+        {
+          "text": "PROPOSING IVORY PRODUCTION AS HERITAGE REVIVAL. - HISTORICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERN HISTORY/ECONOMY OWNS THE INDUSTRIAL REVOLUTION-AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The book reports 658 registered goods as of July 2025 . For a later",
+            "NOT: Presenting a GI tag as equivalent to comprehensive craft-community",
+            "NOT: Attempting to fully resolve the Industrial-Revolution-and-handicrafts",
+            "NOT: Treating all GI registrations as domestically valid internationally."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating \"tribal craft\" as anonymous timeless community expression.",
+            "NOT: Proposing ivory production as heritage revival. - Historical",
+            "NOT: Modern History/Economy owns the Industrial Revolution-and",
+            "NOT: Indian Society owns the diversity-marginality correlation (2024"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "This file's craft-ecology-chain method is directly reusable for topic",
+            "00 Master-Framework.md Section 5 — the current-claim verification",
+            "CAUTION: Cross-links: Topic 07 (folk/tribal painting-craft market overlap),",
+            "Verified against Nitin — pdf , PDF pp. 378, 406-408 directly."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

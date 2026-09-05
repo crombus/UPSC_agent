@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "polity-33-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12 Core panels plus one Optional graphical card",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-33": {
+      "title": "Attorney General and Advocate General",
+      "source_record": "polity-33:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+      "quality_review": "Deep review against Articles 76/165, participation/privilege clauses, rules, ethics, case law and PYQs.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Federal constitutional map and institutional boundary",
+          "structural_type": "law-officer-constitutional-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 1"
+          ],
+          "full_text": "UNION -> Article 76 Attorney General for India\nSTATE -> Article 165 Advocate General for each State\nROLE -> legal advice + assigned legal duties + government representation\nNOT -> judge, minister, legislature member, prosecutor-general or final interpreter\n\nCORE: constitutional status defines the office; courts decide law and government decides policy."
+        },
+        {
+          "title": "Article 76 Attorney General clause spine",
+          "structural_type": "agi-article-76-spine",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 2"
+          ],
+          "full_text": "76(1) -> President appoints a person qualified as Supreme Court Judge\n76(2) -> advice, assigned legal duties and functions conferred by Constitution/law\n76(3) -> right of audience in all courts in India while performing duties\n76(4) -> President pleasure + remuneration determined by President\n\nLIMIT: opinion is advisory; audience is not automatic assignment in every case."
+        },
+        {
+          "title": "Article 165 Advocate General clause spine",
+          "structural_type": "advocate-general-article-165-spine",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 4"
+          ],
+          "full_text": "165(1) -> Governor appoints a person qualified as High Court Judge\n165(2) -> State-government advice, assigned duties and legal functions\n165(3) -> Governor pleasure + remuneration determined by Governor\n\nASYMMETRY: Article 165 has no express equivalent of Article 76(3) all-India audience.\nApplicable professional and State law controls courtroom practice."
+        },
+        {
+          "title": "Qualifications appointment tenure and remuneration",
+          "structural_type": "law-officer-office-lifecycle",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 3",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 5",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 6",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 7",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 8",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 9"
+          ],
+          "full_text": "AGI -> citizen + Article 124(3) alternative route; President appoints\nADVOCATE GENERAL -> citizen + Article 217(2) route; Governor appoints\nBOTH -> no fixed constitutional term; office during constitutional head pleasure\nUNION RULE 3 -> administrative term subject always to Article 76(4) pleasure\n\nTRAP: judicial qualification or retirement age does not become law-officer tenure."
+        },
+        {
+          "title": "Advice representation and audience distinctions",
+          "structural_type": "law-officer-duty-audience-system",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 10",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 11",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 12"
+          ],
+          "full_text": "ADVICE -> legal matter referred or assigned through government route\nREPRESENTATION -> specific brief in court or constitutional reference\nAUDIENCE -> entitlement to be heard; AGI has express Article 76(3) right\nPRACTICE -> professional capacity under governing law\n\nFOUR QUESTIONS: qualified? audience? assigned? conflict-free?\nOpinion neither binds government nor court."
+        },
+        {
+          "title": "Legislative participation privilege and no vote",
+          "structural_type": "law-officer-legislature-participation",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 13",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 14",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 15"
+          ],
+          "full_text": "ARTICLE 88 -> AGI may speak and take part in both Houses, joint sitting and named committee\nARTICLE 177 -> Advocate General may participate in State House(s) and named committee\nARTICLES 105(4) / 194(4) -> proceeding-linked privilege extension\nCOMMON LIMIT -> no vote by office; no elected membership or ministerial responsibility\n\nTRAP: permission to participate is not a legislative seat."
+        },
+        {
+          "title": "Rule 8 private practice conflicts and permissions",
+          "structural_type": "law-officer-professional-ethics-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 16",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 22",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 23"
+          ],
+          "full_text": "PRIVATE PRACTICE -> possible, but not unrestricted\nDO NOT -> advise or appear against Government / covered public entities\nDO NOT -> act where officer advised or is likely to advise government\nPERMISSION -> criminal defence and specified company/corporate positions\nPROCESS -> conflict check -> disclosure -> recusal/screen -> authorised brief\n\nUnion rules cannot be silently imposed on every State Advocate General."
+        },
+        {
+          "title": "AGI Solicitor General prosecutor and Law Minister",
+          "structural_type": "law-officer-classification-hierarchy",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 17",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 18",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 20"
+          ],
+          "full_text": "AGI -> constitutional office under Article 76\nSG / ASG -> executive law officers governed by Union rules; not constitutional offices\nADVOCATE GENERAL -> constitutional State office under Article 165\nPUBLIC PROSECUTOR -> criminal-procedure office\nLAW MINISTER -> political executive\nCAG -> independent constitutional auditor\n\nEXAM RULE: classify by creating source before comparing prestige or function."
+        },
+        {
+          "title": "Attorney General and Advocate General comparison",
+          "structural_type": "ag-advocate-general-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 19",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 21"
+          ],
+          "full_text": "DIMENSION       ATTORNEY GENERAL             ADVOCATE GENERAL\nSource          Article 76                   Article 165\nAppointer       President                    Governor\nQualification   Supreme Court Judge route    High Court Judge route\nAdvice          Government of India          State Government\nAudience text   all courts in India          no matching express clause\nLegislature     Article 88                   Article 177\nVote            none by office               none by office\nPleasure        President                    Governor"
+        },
+        {
+          "title": "Government client court duty and confidentiality",
+          "structural_type": "law-officer-government-client-ethics",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 22",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 23",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 24",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 25"
+          ],
+          "full_text": "GOVERNMENT CLIENT -> expects loyal, competent and confidential advice\nCOURT DUTY -> candour; no misleading submission or suppressed binding authority\nPROFESSIONAL PRIVILEGE -> protects qualifying communications subject to law and exceptions\nCONFLICT CONTROL -> identify prior/current interests -> disclose -> recuse or obtain permission\n\nBALANCE: loyalty to government operates within law and professional responsibility."
+        },
+        {
+          "title": "Independence, conventions and fair State panel selection",
+          "structural_type": "law-officer-independence-case",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 26",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 27",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 28"
+          ],
+          "full_text": "STRUCTURAL TENSION -> trusted counsel + pleasure tenure + assignment control\nCOUNTERWEIGHT -> qualification + court duty + conflict rules + reasoned advice\nSTATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016) -> State panel selection must be fair and\n  objective\nLIMIT -> judgment did not replace Governor appointment of Advocate General under Article 165\n\nREFORM: transparent criteria, conflict register, reasoned recusals and reviewable procedures."
+        },
+        {
+          "title": "Current controls PYQs traps and answer synthesis",
+          "structural_type": "law-officer-answer-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 29",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 30",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md#SESSION 31"
+          ],
+          "full_text": "CONTROL DATE -> 28 August 2026; no volatile officeholder frozen\nPYQ 2019 -> AGI as chief legal adviser\nPYQ 2025 -> responsibilities, rights and limitations\nPRELIMS 2022 -> AGI versus Solicitor General constitutional position\n\nFIREWALL: pleasure != impeachment | audience != assigned brief | speak != vote\n| privilege != blanket immunity | private practice != conflict-free practice\n\nMAINS: source -> function/right -> limits -> dual-role tension -> qualified reform."
+        }
+      ]
+    }
+  }
+}

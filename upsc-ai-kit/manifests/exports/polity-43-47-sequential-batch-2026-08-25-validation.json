@@ -1,0 +1,715 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-43-47-sequential-batch-2026-08-25",
+  "validated_at": "2026-08-25T12:05:03+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-43",
+      "polity-44",
+      "polity-45",
+      "polity-46",
+      "polity-47"
+    ],
+    "topic_count": 5,
+    "timestamps_monotonic": true,
+    "all_gate_timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-43",
+        "started_at": "2026-08-25T11:24:25+05:30",
+        "completed_at": "2026-08-25T11:27:19.456302+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-44",
+        "started_at": "2026-08-25T11:31:50+05:30",
+        "completed_at": "2026-08-25T11:35:07.287928+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-45",
+        "started_at": "2026-08-25T11:35:11+05:30",
+        "completed_at": "2026-08-25T11:38:29.722762+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-46",
+        "started_at": "2026-08-25T11:40:44+05:30",
+        "completed_at": "2026-08-25T11:43:58.659098+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-47",
+        "started_at": "2026-08-25T11:48:09+05:30",
+        "completed_at": "2026-08-25T11:51:59+05:30",
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 80,
+    "new_topic_records": [
+      "polity-43:learner-v2:g2",
+      "polity-44:learner-v2:g2",
+      "polity-45:learner-v2:g2",
+      "polity-46:learner-v2:g2",
+      "polity-47:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true,
+    "tracker_path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-43",
+        "title": "Political Parties",
+        "started_at": "2026-08-25T11:24:25+05:30",
+        "completed_at": "2026-08-25T11:27:19.456302+05:30",
+        "record_id": "polity-43:learner-v2:g2",
+        "counts": {
+          "sessions": 15,
+          "main_pdf_pages": 53,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-43-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-43-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-43-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\polity-43_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g2"
+        },
+        "factual_caveat": "India has no comprehensive constitutional party code. Registration, recognition, finance, defection and candidate disclosure arise from different legal instruments. The ECI cannot use Section 29A as a general merits-based deregistration power, and the electoral-bonds judgment did not create a complete campaign-finance code.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T11:24:25+05:30",
+          "A_completed": "2026-08-25T11:24:27+05:30",
+          "B_completed": "2026-08-25T11:24:29+05:30",
+          "C_completed": "2026-08-25T11:24:29+05:30",
+          "D_completed": "2026-08-25T11:24:29+05:30",
+          "E_completed": "2026-08-25T11:24:29+05:30",
+          "F_completed": "2026-08-25T11:24:59+05:30",
+          "G_completed": "2026-08-25T11:24:59+05:30",
+          "H_completed": "2026-08-25T11:27:05+05:30",
+          "I_completed": "2026-08-25T11:27:19.456302+05:30",
+          "J_completed": "2026-08-25T11:27:19.456302+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 2,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\43-Political-Parties",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-43-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 53,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\43-Political-Parties\\43-Political-Parties-Continuous-Flow-Learning.pdf",
+            "source_sha256": "912eb5976cda0182e5fbc1f9710cb64425cfd9065d758e3c605391ba525aafd9",
+            "destination_sha256": "912eb5976cda0182e5fbc1f9710cb64425cfd9065d758e3c605391ba525aafd9",
+            "equal": true,
+            "bytes": 55421
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\43-Political-Parties\\43-Political-Parties-Continuous-Flow-Learning.txt",
+            "source_sha256": "5f71c36c9fdc9b177a6dc5ba3d02a989d715e7e2b3d2e2a0708575130f9c296f",
+            "destination_sha256": "5f71c36c9fdc9b177a6dc5ba3d02a989d715e7e2b3d2e2a0708575130f9c296f",
+            "equal": true,
+            "bytes": 6120
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-44",
+        "title": "Pressure Groups",
+        "started_at": "2026-08-25T11:31:50+05:30",
+        "completed_at": "2026-08-25T11:35:07.287928+05:30",
+        "record_id": "polity-44:learner-v2:g2",
+        "counts": {
+          "sessions": 19,
+          "main_pdf_pages": 55,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 3,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-44-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-44-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-44-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-44-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-44.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g2"
+        },
+        "factual_caveat": "Pressure groups seek policy influence without assuming governmental office. Political parties, movements, NGOs, lobbyists and interest groups overlap in practice but are not synonyms. Protest remains subject to reasonable restrictions, and dated movements or funding rules are not converted into permanent generalisations.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T11:31:50+05:30",
+          "A_completed": "2026-08-25T11:31:54+05:30",
+          "B_completed": "2026-08-25T11:31:56+05:30",
+          "C_completed": "2026-08-25T11:31:56+05:30",
+          "D_completed": "2026-08-25T11:31:56+05:30",
+          "E_completed": "2026-08-25T11:31:56+05:30",
+          "F_completed": "2026-08-25T11:32:24+05:30",
+          "G_completed": "2026-08-25T11:32:24+05:30",
+          "H_completed": "2026-08-25T11:34:33+05:30",
+          "I_completed": "2026-08-25T11:35:07.287928+05:30",
+          "J_completed": "2026-08-25T11:35:07.287928+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\44-Pressure-Groups",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-44-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 55,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 5,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\44-Pressure-Groups\\44-Pressure-Groups-Continuous-Flow-Learning.pdf",
+            "source_sha256": "555e0cf0050e2153c881f1ed45781c8eb622348051abc649a9c28e7b5aa7c6e3",
+            "destination_sha256": "555e0cf0050e2153c881f1ed45781c8eb622348051abc649a9c28e7b5aa7c6e3",
+            "equal": true,
+            "bytes": 55250
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\44-Pressure-Groups\\44-Pressure-Groups-Continuous-Flow-Learning.txt",
+            "source_sha256": "80a6c77403e66f5512d0f9f7c50a5bc027c40b4afb4b8a7bef5e87cf3b3ae576",
+            "destination_sha256": "80a6c77403e66f5512d0f9f7c50a5bc027c40b4afb4b8a7bef5e87cf3b3ae576",
+            "equal": true,
+            "bytes": 5679
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-45",
+        "title": "National Integration and Foreign Policy",
+        "started_at": "2026-08-25T11:35:11+05:30",
+        "completed_at": "2026-08-25T11:38:29.722762+05:30",
+        "record_id": "polity-45:learner-v2:g2",
+        "counts": {
+          "sessions": 17,
+          "main_pdf_pages": 55,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 3,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\45-National-Integration-and-Foreign-Policy",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-45-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-45-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-45-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-45.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\polity-45_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g2"
+        },
+        "factual_caveat": "National integration is constitutional accommodation, equal citizenship and civic fraternity, not cultural uniformity or unrestricted coercion. Article 51 is a non-justiciable directive; treaty-making and foreign-policy doctrines remain executive policy unless domestic law gives them legal effect.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T11:35:11+05:30",
+          "A_completed": "2026-08-25T11:35:35+05:30",
+          "B_completed": "2026-08-25T11:35:39+05:30",
+          "C_completed": "2026-08-25T11:35:39+05:30",
+          "D_completed": "2026-08-25T11:35:39+05:30",
+          "E_completed": "2026-08-25T11:35:39+05:30",
+          "F_completed": "2026-08-25T11:36:10+05:30",
+          "G_completed": "2026-08-25T11:36:10+05:30",
+          "H_completed": "2026-08-25T11:38:16+05:30",
+          "I_completed": "2026-08-25T11:38:29.722762+05:30",
+          "J_completed": "2026-08-25T11:38:29.722762+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\45-National-Integration-and-Foreign-Policy",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-45-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 55,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\45-National-Integration-and-Foreign-Policy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\45-National-Integration-and-Foreign-Policy\\45-National-Integration-and-Foreign-Policy-Continuous-Flow-Learning.pdf",
+            "source_sha256": "f58d123c757199f3092c9b0f5c665b385b0b4826e116abe4229a6d0e38335c8c",
+            "destination_sha256": "f58d123c757199f3092c9b0f5c665b385b0b4826e116abe4229a6d0e38335c8c",
+            "equal": true,
+            "bytes": 55766
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\45-National-Integration-and-Foreign-Policy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\45-National-Integration-and-Foreign-Policy\\45-National-Integration-and-Foreign-Policy-Continuous-Flow-Learning.txt",
+            "source_sha256": "45d6adf5b9c8498b23b7f8cd41b93919e2b3b90a3eaaeba8201ea00dc4e6e32b",
+            "destination_sha256": "45d6adf5b9c8498b23b7f8cd41b93919e2b3b90a3eaaeba8201ea00dc4e6e32b",
+            "equal": true,
+            "bytes": 6531
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-46",
+        "title": "Administrative Tribunals",
+        "started_at": "2026-08-25T11:40:44+05:30",
+        "completed_at": "2026-08-25T11:43:58.659098+05:30",
+        "record_id": "polity-46:learner-v2:g2",
+        "counts": {
+          "sessions": 16,
+          "main_pdf_pages": 53,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 3,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\46-Administrative-Tribunals",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-46-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-46-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-46-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-46.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g2"
+        },
+        "factual_caveat": "Tribunals supplement specialist adjudication; they do not replace High Courts or the Supreme Court. L. Chandra Kumar preserves Articles 226/227 review. CAT, SATs, other Article 323B tribunals, commissions, courts and Lok Adalats must not be collapsed into one institutional category.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T11:40:44+05:30",
+          "A_completed": "2026-08-25T11:41:08+05:30",
+          "B_completed": "2026-08-25T11:41:10+05:30",
+          "C_completed": "2026-08-25T11:41:10+05:30",
+          "D_completed": "2026-08-25T11:41:10+05:30",
+          "E_completed": "2026-08-25T11:41:10+05:30",
+          "F_completed": "2026-08-25T11:41:40+05:30",
+          "G_completed": "2026-08-25T11:41:40+05:30",
+          "H_completed": "2026-08-25T11:43:46+05:30",
+          "I_completed": "2026-08-25T11:43:58.659098+05:30",
+          "J_completed": "2026-08-25T11:43:58.659098+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\46-Administrative-Tribunals",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-46-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 53,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\46-Administrative-Tribunals\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\46-Administrative-Tribunals\\46-Administrative-Tribunals-Continuous-Flow-Learning.pdf",
+            "source_sha256": "51da119b5c848c382fa5f0e55336beaef50e9c21792fb0f72f9dfd6c41637d64",
+            "destination_sha256": "51da119b5c848c382fa5f0e55336beaef50e9c21792fb0f72f9dfd6c41637d64",
+            "equal": true,
+            "bytes": 55318
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\46-Administrative-Tribunals\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\46-Administrative-Tribunals\\46-Administrative-Tribunals-Continuous-Flow-Learning.txt",
+            "source_sha256": "9c55c08928e49f323cbcfa4a10b7b1503dc0aea3564eb6c14a960ffff840e57e",
+            "destination_sha256": "9c55c08928e49f323cbcfa4a10b7b1503dc0aea3564eb6c14a960ffff840e57e",
+            "equal": true,
+            "bytes": 6111
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-47",
+        "title": "Comparative Constitutional Design",
+        "started_at": "2026-08-25T11:48:09+05:30",
+        "completed_at": "2026-08-25T11:51:59+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T11:48:09+05:30",
+          "A_completed": "2026-08-25T11:48:33+05:30",
+          "B_completed": "2026-08-25T11:48:35+05:30",
+          "C_completed": "2026-08-25T11:48:35+05:30",
+          "D_completed": "2026-08-25T11:48:35+05:30",
+          "E_completed": "2026-08-25T11:48:35+05:30",
+          "F_completed": "2026-08-25T11:51:18+05:30",
+          "G_completed": "2026-08-25T11:51:18+05:30",
+          "H_completed": "2026-08-25T11:51:23+05:30",
+          "I_completed": "2026-08-25T11:51:56+05:30",
+          "J_completed": "2026-08-25T11:51:59+05:30"
+        },
+        "record_id": "polity-47:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 47,
+          "main_pdf_pages": 103,
+          "workbook_pdf_pages": 19,
+          "mcqs": 48,
+          "verified_pyqs": 8,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 8,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\47-Comparative-Constitutional-Design",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-47-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-47-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-47-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-47-flow-learning-2026-08-25-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g2"
+        },
+        "factual_caveat": "India borrowed constitutional techniques but adapted them to a written, supreme, federal-parliamentary and judicially reviewable Constitution. Comparison must identify function, context and Indian adaptation; the Indian President is not a US President, Rajya Sabha is not a US Senate, and Directive Principles are not an operational copy of Ireland.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T12:04:11+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 103,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 19,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 9,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\47-Comparative-Constitutional-Design\\47-Comparative-Constitutional-Design-Continuous-Flow-Learning.pdf",
+            "source_sha256": "7848e15f62877b854440bad8bc6602d0d739e994672b02e664e318fbd0efdf47",
+            "destination_sha256": "7848e15f62877b854440bad8bc6602d0d739e994672b02e664e318fbd0efdf47",
+            "equal": true,
+            "bytes": 55585
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\47-Comparative-Constitutional-Design\\47-Comparative-Constitutional-Design-Continuous-Flow-Learning.txt",
+            "source_sha256": "8c80ed62ea08736d5cdd191e150e3e74b658b4224d5f9786a391daa73145b6e3",
+            "destination_sha256": "8c80ed62ea08736d5cdd191e150e3e74b658b4224d5f9786a391daa73145b6e3",
+            "equal": true,
+            "bytes": 6461
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      }
+    ],
+    "totals": {
+      "sessions": 114,
+      "main_pdf_pages": 319,
+      "workbook_pdf_pages": 89,
+      "mcqs": 240,
+      "verified_pyqs": 15,
+      "supporting_pyqs": 5,
+      "original_mains": 40,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45,
+      "flow_pages": 45
+    }
+  },
+  "inventories": {
+    "four_item_topics": 80,
+    "four_item_links_checked": 968,
+    "polity_flow_topics": 47,
+    "polity_flow_links_checked": 733,
+    "full_flow_topics": 80,
+    "full_flow_links_checked": 733,
+    "full_flow_topic_artifact_files_checked": 240,
+    "full_flow_pages": 705
+  },
+  "preservation": {
+    "prior_clean_artifact_files": 600,
+    "prior_flow_artifact_files": 225,
+    "clean_hash_mismatches": [],
+    "flow_hash_mismatches": [],
+    "prior_generated_hash_mismatches": []
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_v2_topic_command_catalog tools.test_v2_section_indexes tools.test_v2_export_foundation tools.test_retrofit_v2_core_first tools.test_refresh_all_v2_learning_sessions tools.test_polity_flowchart_case_years tools.test_plan_v2_topic_batch tools.test_export_four_item_library tools.test_export_flow_learning_library tools.test_carvaka_flowchart -q",
+    "passed": 127,
+    "failed": 0
+  },
+  "checks": {
+    "strict_sequence": true,
+    "all_gate_timestamps_monotonic": true,
+    "all_gates_passed": true,
+    "source_pyq_current_audits_passed": true,
+    "tracker_records_unapproved": true,
+    "legacy_history_retained": true,
+    "control_dates_passed": true,
+    "pdf_layouts_passed": true,
+    "ascii_equal": true,
+    "graphical_same_master": true,
+    "case_years_passed": true,
+    "mcq_rotation_passed": true,
+    "prior_75_clean_hashes_preserved": true,
+    "prior_75_flow_hashes_preserved": true,
+    "prior_generated_topics_preserved": true,
+    "four_item_inventory_80": true,
+    "polity_flow_inventory_47": true,
+    "full_flow_inventory_80": true,
+    "four_item_links_passed": true,
+    "polity_flow_links_passed": true,
+    "full_flow_links_passed": true,
+    "targeted_regressions_passed": true
+  },
+  "evidence_paths": {
+    "state": "upsc-ai-kit\\manifests\\exports\\polity-43-47-sequential-batch-2026-08-25-state.json",
+    "case_year": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-2026-08-25-validation.json",
+    "four_item": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-25-validation.json",
+    "polity_flow": "upsc-ai-kit\\manifests\\exports\\polity-01-47-flow-learning-2026-08-25-validation.json",
+    "full_flow": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-25-validation.json",
+    "report": "notes\\Final-Learning-Packages\\POLITY-43-47-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-43-47-sequential-batch-2026-08-25-changed-files.txt",
+    "changed_files_count": 312
+  }
+}

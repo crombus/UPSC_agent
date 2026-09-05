@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "batch_id": "environment-and-ecology-13-16-sequential-batch-2026-09-03",
+  "completed_on": "2026-09-03",
+  "subject": {
+    "key": "Environment-and-Ecology",
+    "display_name": "Environment and Ecology"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "manifest": "upsc-ai-kit\\manifests\\v2\\environment-and-ecology--subject-wide-syllabus.json",
+    "topic_count": 28,
+    "status": "materialized; 16 generated/unapproved/passed; 12 planned"
+  },
+  "execution": "strict-sequential-single-writer",
+  "generation_history_note": "Topics 13-16 g1 were finalized, then a post-final package audit found that an editorial-title transform demoted Session 15. Each topic was corrected append-only as g2; every g1 record and artifact remains preserved.",
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-13",
+      "display_title": "Air Pollution and CPCB Standards",
+      "generation": 2,
+      "record_id": "environment-and-ecology-13:learner-v2:g2",
+      "supersedes": "environment-and-ecology-13:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-13\\g2\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-13\\g2\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-13\\g2\\environment-and-ecology-13_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 76,
+      "workbook_pages": 37,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-13\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-14",
+      "display_title": "Water Pollution and River Cleaning Missions",
+      "generation": 2,
+      "record_id": "environment-and-ecology-14:learner-v2:g2",
+      "supersedes": "environment-and-ecology-14:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-14\\g2\\environment-and-ecology-14_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-14\\g2\\environment-and-ecology-14_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-14\\g2\\environment-and-ecology-14_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 72,
+      "workbook_pages": 35,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-14\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-15",
+      "display_title": "Solid Plastic and E-Waste Rules",
+      "generation": 2,
+      "record_id": "environment-and-ecology-15:learner-v2:g2",
+      "supersedes": "environment-and-ecology-15:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-15\\g2\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-15\\g2\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-15\\g2\\environment-and-ecology-15_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 74,
+      "workbook_pages": 36,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-15\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-16",
+      "display_title": "Environmental Impact Assessment and NGT",
+      "generation": 2,
+      "record_id": "environment-and-ecology-16:learner-v2:g2",
+      "supersedes": "environment-and-ecology-16:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\16_Environmental-Impact-Assessment-and-NGT.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\16_Environmental-Impact-Assessment-and-NGT.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-16\\g2\\environment-and-ecology-16_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-16\\g2\\environment-and-ecology-16_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-16\\g2\\environment-and-ecology-16_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 77,
+      "workbook_pages": 37,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-16\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    }
+  ],
+  "aggregate": {
+    "topic_count": 4,
+    "fact_anchors": 80,
+    "sessions": 60,
+    "mcqs": 320,
+    "mcq_distribution": {
+      "A": 80,
+      "B": 80,
+      "C": 80,
+      "D": 80
+    },
+    "original_mains": 24,
+    "original_mains_distribution": {
+      "10_mark": 8,
+      "15_mark": 8,
+      "20_mark": 8
+    },
+    "ascii_panels": 48,
+    "graphical_stages": 52,
+    "notes_pages": 299,
+    "workbook_pages": 145,
+    "learning_pdf_pages": 444,
+    "notes_bookmarks": 464,
+    "workbook_bookmarks": 364,
+    "graphical_poster_pages": 4,
+    "graphical_tiled_pages": 16
+  },
+  "tests": {
+    "passed": 107,
+    "passing_commands": [
+      "python -m unittest tools.test_generate_environment_and_ecology_01_sequential tools.test_generate_environment_and_ecology_02_sequential tools.test_generate_environment_and_ecology_03_sequential tools.test_generate_environment_and_ecology_04_sequential tools.test_generate_environment_and_ecology_05_sequential tools.test_generate_environment_and_ecology_06_sequential tools.test_generate_environment_and_ecology_07_sequential tools.test_generate_environment_and_ecology_08_sequential tools.test_generate_environment_and_ecology_09_sequential tools.test_generate_environment_and_ecology_10_sequential tools.test_generate_environment_and_ecology_11_sequential tools.test_generate_environment_and_ecology_12_sequential tools.test_generate_environment_and_ecology_13_sequential tools.test_generate_environment_and_ecology_14_sequential tools.test_generate_environment_and_ecology_15_sequential tools.test_generate_environment_and_ecology_16_sequential tools.test_refresh_all_v2_learning_sessions tools.test_carvaka_flowchart.GraphicalSpecTests.test_flat_repeated_closure_card_contract_is_rejected tools.test_carvaka_flowchart.GraphicalSpecTests.test_required_stage_contract_is_present"
+    ],
+    "windows_lock_retry": "Topic 14 g2 finalization encountered WinError 5 twice; the same finalize command succeeded after waiting, without regeneration.",
+    "unrelated_existing_failures_not_repaired": [
+      "tools.test_carvaka_flowchart.GraphicalSpecTests.test_all_active_topics_have_explicit_valid_specs: pre-existing International Relations subject spelling mismatch reported by prior Environment batches",
+      "tools.test_carvaka_flowchart.GraphicalArtifactTests.test_pilot_artifacts_pass_same_master_and_rail_validation: pre-existing polity-07 status-line contract failure reported by prior Environment batches"
+    ]
+  },
+  "approval": "false for every latest generated topic; explicit topic approval still required",
+  "section_progress": {
+    "approved": 0,
+    "generated_unapproved": 16,
+    "incomplete": 0,
+    "planned": 12
+  },
+  "changed_files_ledger": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-13-16-sequential-batch-2026-09-03-changed-files.txt",
+  "changed_files_count": 283
+}

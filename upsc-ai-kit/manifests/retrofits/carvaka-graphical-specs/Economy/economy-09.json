@@ -1,0 +1,1009 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-09",
+  "subject": "Economy",
+  "title": "UNION BUDGET, FISCAL POLICY AND DEFICIT INDICATORS",
+  "short_route": "BUDGET RECEIPT FORK → EXPENDITURE CLASSIFICATION → DEFICIT IDENTITY BOARD → EFFECTIVE MEASURES → ESTIMATE-VINTAGE RAIL → CONSTITUTIONAL DOCUMENT STACK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\learning-sessions\\v2\\subject-wide-syllabus\\economy-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-09-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "0e8dbb425d2b0a595d14136a47449a26b3887d181be6ac84256793eb8e86e832",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BUDGET RECEIPT FORK",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BUDGET RECEIPT FORK",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE RECEIPT",
+          "role": "outcome"
+        },
+        {
+          "text": "NO LIABILITY",
+          "role": "caution"
+        },
+        {
+          "text": "NO ASSET REDUCTION",
+          "role": "caution"
+        },
+        {
+          "text": "CAPITAL RECEIPT",
+          "role": "primary"
+        },
+        {
+          "text": "LIABILITY OR ASSET REDUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEBT CAPITAL RECEIPT",
+          "role": "comparison"
+        },
+        {
+          "text": "LOAN RECOVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REVENUE RECEIPT → no liability / no asset reduction",
+        "CAPITAL RECEIPT → liability or asset reduction",
+        "BORROWING → debt capital receipt",
+        "DISINVESTMENT / LOAN RECOVERY → non-debt capital receipt"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "REVENUE RECEIPT → no liability / no asset reduction",
+            "CAPITAL RECEIPT → liability or asset reduction"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BORROWING → debt capital receipt",
+            "DISINVESTMENT / LOAN RECOVERY → non-debt capital receipt"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "REVENUE RECEIPT → no liability / no asset reduction",
+            "CAPITAL RECEIPT → liability or asset reduction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISINVESTMENT / LOAN RECOVERY → non-debt capital receipt.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EXPENDITURE CLASSIFICATION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXPENDITURE CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE EXPENDITURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENT SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITAL EXPENDITURE",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSET OR LIABILITY REDUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNTING CLASS IS NOT A MORAL VERDICT",
+          "role": "caution"
+        },
+        {
+          "text": "QUALITY DEPENDS ON DESIGN AND OUTCOMES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "REVENUE EXPENDITURE → current service / transfer",
+        "CAPITAL EXPENDITURE → asset or liability reduction",
+        "ACCOUNTING CLASS is not a moral verdict",
+        "QUALITY depends on design and outcomes"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "REVENUE EXPENDITURE → current service / transfer",
+          "ACCOUNTING CLASS is not a moral verdict",
+          "REVENUE EXPENDITURE → current service / transfer"
+        ],
+        [
+          "CAPITAL EXPENDITURE → asset or liability reduction",
+          "QUALITY depends on design and outcomes",
+          "CAPITAL EXPENDITURE → asset or liability reduction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "REVENUE EXPENDITURE → current service / transfer",
+            "CAPITAL EXPENDITURE → asset or liability reduction"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ACCOUNTING CLASS is not a moral verdict",
+            "QUALITY depends on design and outcomes"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "REVENUE EXPENDITURE → current service / transfer",
+            "CAPITAL EXPENDITURE → asset or liability reduction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCOUNTING CLASS is not a moral verdict; QUALITY depends on design and outcomes.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DEFICIT IDENTITY BOARD",
+      "structural_type": "formula-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEFICIT IDENTITY BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "RE - RR",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL DEFICIT",
+          "role": "evidence"
+        },
+        {
+          "text": "TOTAL EXPENDITURE - NON-DEBT RECEIPTS",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "FD - INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP FLOW, PERIOD AND GOVERNMENT PERIMETER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "REVENUE DEFICIT = RE - RR",
+        "FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS",
+        "PRIMARY DEFICIT = FD - INTEREST",
+        "KEEP flow, period and government perimeter"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "REVENUE DEFICIT = RE - RR",
+            "FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "PRIMARY DEFICIT = FD - INTEREST",
+            "KEEP flow, period and government perimeter"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "REVENUE DEFICIT = RE - RR",
+            "FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EFFECTIVE MEASURES",
+      "structural_type": "formula-board",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EFFECTIVE MEASURES",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE DEFICIT - CAPITAL-ASSET GRANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFECTIVE CAPEX",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRE CAPEX + CAPITAL-ASSET GRANTS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFER ACCOUNTING IS REFINED",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME QUALITY STILL NEEDS VERIFICATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ERD = REVENUE DEFICIT - CAPITAL-ASSET GRANTS",
+        "EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS",
+        "TRANSFER accounting is refined",
+        "OUTCOME quality still needs verification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "ERD = REVENUE DEFICIT - CAPITAL-ASSET GRANTS",
+            "EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "TRANSFER accounting is refined",
+            "OUTCOME quality still needs verification"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "ERD = REVENUE DEFICIT - CAPITAL-ASSET GRANTS",
+            "EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ESTIMATE-VINTAGE RAIL",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ESTIMATE-VINTAGE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "BUDGET ESTIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "REVISED ESTIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "UPDATED IN-YEAR EXPECTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "REALISED ACCOUNT",
+          "role": "primary"
+        },
+        {
+          "text": "NEVER COMPARE WITHOUT LABELS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BUDGET ESTIMATE → authorisation / projection",
+        "REVISED ESTIMATE → updated in-year expectation",
+        "ACTUAL → realised account",
+        "NEVER compare without labels"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "BUDGET ESTIMATE → authorisation / projection",
+            "REVISED ESTIMATE → updated in-year expectation"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "ACTUAL → realised account",
+            "NEVER compare without labels"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "BUDGET ESTIMATE → authorisation / projection",
+            "REVISED ESTIMATE → updated in-year expectation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACTUAL → realised account; NEVER compare without labels.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CONSTITUTIONAL DOCUMENT STACK",
+      "structural_type": "document-stack",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL DOCUMENT STACK",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 112",
+          "role": "institution"
+        },
+        {
+          "text": "ANNUAL FINANCIAL STATEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FRBM ACT",
+          "role": "institution"
+        },
+        {
+          "text": "MEDIUM-TERM FISCAL DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "MACRO ASSUMPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "PARLIAMENT + CAG",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORISATION AND SCRUTINY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 112 → Annual Financial Statement",
+        "FRBM ACT → medium-term fiscal discipline",
+        "MEFS → macro assumptions",
+        "PARLIAMENT + CAG → authorisation and scrutiny"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "ARTICLE 112 → Annual Financial Statement",
+            "FRBM ACT → medium-term fiscal discipline"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "MEFS → macro assumptions",
+            "PARLIAMENT + CAG → authorisation and scrutiny"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 112 → Annual Financial Statement",
+            "FRBM ACT → medium-term fiscal discipline"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEFS → macro assumptions; PARLIAMENT + CAG → authorisation and scrutiny.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEBT-DYNAMICS CHAIN",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEBT-DYNAMICS CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY BALANCE + INTEREST",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL DEFICIT",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBT STOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "FUTURE INTEREST FEEDBACK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRIMARY BALANCE + INTEREST",
+        "FISCAL DEFICIT",
+        "DEBT STOCK",
+        "FUTURE INTEREST FEEDBACK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "PRIMARY BALANCE + INTEREST",
+            "FISCAL DEFICIT"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DEBT STOCK",
+            "FUTURE INTEREST FEEDBACK"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIMARY BALANCE + INTEREST",
+            "FISCAL DEFICIT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRIMARY BALANCE + INTEREST; FISCAL DEFICIT; DEBT STOCK; FUTURE INTEREST FEEDBACK.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CROWDING FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CROWDING FORK",
+          "role": "primary"
+        },
+        {
+          "text": "BORROWING DURING TIGHT FINANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SAVINGS PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CROWDING OUT",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPEX REMOVES BOTTLENECKS",
+          "role": "primary"
+        },
+        {
+          "text": "CROWDING IN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BORROWING DURING TIGHT FINANCE",
+        "rates / savings pressure → crowding out",
+        "CAPEX REMOVES BOTTLENECKS",
+        "productivity / demand → crowding in"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "BORROWING DURING TIGHT FINANCE",
+            "rates / savings pressure → crowding out"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CAPEX REMOVES BOTTLENECKS",
+            "productivity / demand → crowding in"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "BORROWING DURING TIGHT FINANCE",
+            "rates / savings pressure → crowding out"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAPEX REMOVES BOTTLENECKS; productivity / demand → crowding in.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HIDDEN-RISK PERIMETER",
+      "structural_type": "risk-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HIDDEN-RISK PERIMETER",
+          "role": "caution"
+        },
+        {
+          "text": "HEADLINE DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTRA-BUDGETARY BORROWING",
+          "role": "comparison"
+        },
+        {
+          "text": "DELAYED PAYMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "WIDER FISCAL RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HEADLINE DEFICIT",
+        "EXTRA-BUDGETARY BORROWING",
+        "DELAYED PAYMENTS → wider fiscal risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "HEADLINE DEFICIT",
+            "EXTRA-BUDGETARY BORROWING"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DELAYED PAYMENTS → wider fiscal risk",
+            "HEADLINE DEFICIT"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "EXTRA-BUDGETARY BORROWING",
+            "DELAYED PAYMENTS → wider fiscal risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXTRA-BUDGETARY BORROWING; DELAYED PAYMENTS → wider fiscal risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "STATE FISCAL QUALITY",
+      "structural_type": "dimension-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATE FISCAL QUALITY",
+          "role": "institution"
+        },
+        {
+          "text": "OWN-REVENUE MOBILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPENDITURE QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL PRUDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEBT SUSTAINABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OWN-REVENUE MOBILISATION",
+        "EXPENDITURE QUALITY",
+        "FISCAL PRUDENCE",
+        "DEBT SUSTAINABILITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "OWN-REVENUE MOBILISATION",
+            "EXPENDITURE QUALITY"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "FISCAL PRUDENCE",
+            "DEBT SUSTAINABILITY"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "OWN-REVENUE MOBILISATION",
+            "EXPENDITURE QUALITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWN-REVENUE MOBILISATION; EXPENDITURE QUALITY; FISCAL PRUDENCE; DEBT SUSTAINABILITY.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BUDGET 2026-27 STATUS CARD",
+      "structural_type": "vintage-card",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BUDGET 2026-27 STATUS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "2026-27 BE",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL DEFICIT 4.3% GDP",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPEX RS 12.22 LAKH CRORE",
+          "role": "evidence"
+        },
+        {
+          "text": "2025-26 RE",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL DEFICIT 4.4% GDP",
+          "role": "outcome"
+        },
+        {
+          "text": "RE, NOT ACTUALS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2026-27 BE → fiscal deficit 4.3% GDP",
+        "2026-27 BE → capex Rs 12.22 lakh crore",
+        "2025-26 RE → fiscal deficit 4.4% GDP",
+        "STATUS → BE / RE, not Actuals"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "2026-27 BE → fiscal deficit 4.3% GDP",
+            "2026-27 BE → capex Rs 12.22 lakh crore"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "2025-26 RE → fiscal deficit 4.4% GDP",
+            "STATUS → BE / RE, not Actuals"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "2026-27 BE → fiscal deficit 4.3% GDP",
+            "2026-27 BE → capex Rs 12.22 lakh crore"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2026-27 BE → capex Rs 12.22 lakh crore.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FISCAL-POLICY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FISCAL-POLICY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE IDENTITIES AND COVERAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHECK BE",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTUAL VINTAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESS COMPOSITION AND MULTIPLIER",
+          "role": "primary"
+        },
+        {
+          "text": "CONCLUDE ON DEBT PATH AND TRANSPARENCY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE identities and coverage",
+        "CHECK BE / RE / Actual vintage",
+        "ASSESS composition and multiplier",
+        "CONCLUDE on debt path and transparency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DEFINE identities and coverage",
+            "CHECK BE / RE / Actual vintage"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "ASSESS composition and multiplier",
+            "CONCLUDE on debt path and transparency"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE identities and coverage",
+            "CHECK BE / RE / Actual vintage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSESS composition and multiplier; CONCLUDE on debt path and transparency.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL IMPULSE DEPENDS ON CHANGES IN THE CYCLICALLY RELEVANT",
+          "role": "outcome"
+        },
+        {
+          "text": "DEBT SUSTAINABILITY DEPENDS ON THE INTEREST-GROWTH DIFFERENTIAL, PRIMARY BALANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC CAPEX CAN CROWD IN PRIVATE INVESTMENT WHEN IT",
+          "role": "evidence"
+        },
+        {
+          "text": "OFF-BUDGET BORROWING AND GUARANTEES CAN OBSCURE THE FULL PUBLIC-SECTOR",
+          "role": "primary"
+        },
+        {
+          "text": "AUTOMATIC STABILISERS WORK WITHOUT FRESH DECISIONS, WHILE DISCRETIONARY POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL RULES NEED CREDIBLE ESCAPE CLAUSES, TRANSPARENT ACCOUNTING AND",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF FINANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Fiscal impulse depends on changes in the cyclically relevant stance, not only the",
+            "CAUTION: Debt sustainability depends on the interest-growth differential, primary balance,",
+            "CAUTION: Public capex can crowd in private investment when it removes infrastructure bottlenecks",
+            "CAUTION: Off-budget borrowing and guarantees can obscure the full public-sector risk position."
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Automatic stabilisers work without fresh decisions, while discretionary policy is",
+            "CAUTION: Fiscal rules need credible escape clauses, transparent accounting and a medium-term",
+            "Ministry of Finance: prepares the Union Budget, borrowing programme and fiscal",
+            "Parliament: authorises taxation and expenditure through constitutional budget"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAG and parliamentary financial committees: audit and scrutinise public spending and",
+            "FRBM framework and fiscal councils or analytical bodies: provide medium-term",
+            "CAUTION: Borrowing to complete a productive transport network can expand future capacity;",
+            "CAUTION: A grant to a state used to create a capital asset enters effective capital expenditure"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-08",
+      "display_title": "Latin American Independence Movements",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Colonial hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PENINSULARES -> top imperial offices",
+            "CREOLES -> wealth without equal political access",
+            "MESTIZOS/INDIGENOUS/ENSLAVED -> subordinate mass base",
+            "CONFLICT -> elite grievance rests on unequal society",
+            "MUST REMEMBER: Haiti, Spanish American wars led by actors including Bolívar and San Martín,",
+            "  and Brazil's monarchical separation followed different chronologies, social coalitions and",
+            "  relations to Atlantic war.",
+            "MUST REMEMBER: Haiti, Spanish American wars led by actors including Bolívar and San Martín,",
+            "  and Brazil's monarchical separation followed different chronologies, social coalitions and",
+            "  relations to Atlantic war.",
+            "MUST REMEMBER: Haiti, Spanish American wars led by actors including Bolívar and San Martín,",
+            "  and Brazil's monarchical separation followed different chronologies, social coalitions and",
+            "  relations to Atlantic war."
+          ],
+          "source_references": [
+            "Colonial hierarchy and economic grievance",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ideas meet imperial collapse",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "TRADE MONOPOLY -> economic resentment",
+            "ATLANTIC REVOLUTIONS -> alternative political vocabulary",
+            "1808 NAPOLEONIC SHOCK -> metropolitan legitimacy collapses",
+            "JUNTAS -> autonomy claims move toward independence"
+          ],
+          "source_references": [
+            "Colonial hierarchy and economic grievance",
+            "The Iberian legitimacy collapse",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Haiti's distinct sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1791 -> slave revolution begins",
+            "ANTI-COLONIAL + ANTI-SLAVERY -> one social struggle",
+            "1804 -> independent Haiti",
+            "RESULT -> first free Black republic of modern era"
+          ],
+          "source_references": [
+            "Haiti's anti-slavery revolution",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Northern and southern liberators",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BOLIVAR -> New Granada 1819; Gran Colombia; northern project",
+            "SAN MARTIN -> Andes crossing 1817; Chile and Peru",
+            "MEETING POINT -> royalist power broken in Peru",
+            "DIFFERENCE -> continental political project versus southern army route"
+          ],
+          "source_references": [
+            "San Martin's southern theatre",
+            "Bolivar and northern liberation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mexico's reversal",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1810 -> Hidalgo's Grito de Dolores",
+            "POPULAR PHASE -> Indigenous and lower-class mobilisation",
+            "MORELOS -> struggle continues",
+            "1821 -> conservative settlement under Iturbide"
+          ],
+          "source_references": [
+            "Mexico's reversed revolutionary path",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Brazil's separate route",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1808 -> Portuguese court moves to Brazil",
+            "1822 -> independence under Pedro I",
+            "FORM -> monarchy, not a new republic",
+            "LIMIT -> slavery and hierarchy survive"
+          ],
+          "source_references": [
+            "Brazil's monarchical separation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Five paths, one region",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH -> Bolivar and Gran Colombia",
+            "SOUTH -> San Martin, Andes and Peru",
+            "MEXICO -> popular revolt to conservative settlement",
+            "BRAZIL + HAITI -> monarchy versus social revolution"
+          ],
+          "source_references": [
+            "The five-path comparison",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Military completion sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1819 -> New Granada and Gran Colombia",
+            "1821 -> Mexican independence",
+            "1824 -> Ayacucho breaks major royalist power",
+            "1825 -> Bolivia emerges"
+          ],
+          "source_references": [
+            "Bolivar and northern liberation",
+            "Ayacucho and the military collapse of Spanish rule",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Elite transfer mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PENINSULAR OFFICIAL -> displaced",
+            "CREOLE LANDOWNER -> becomes ruling elite",
+            "SOCIAL HIERARCHY -> land and racial power remain",
+            "VERDICT -> sovereignty changes faster than society"
+          ],
+          "source_references": [
+            "Creole leadership and elite transfer",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Caudillismo mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "LONG WAR -> military commanders gain legitimacy",
+            "WEAK INSTITUTIONS -> civilian authority remains fragile",
+            "ARMED CLIENTAGE -> personal loyalty substitutes for law",
+            "CAUDILLISMO -> strongman politics recurs",
+            "CLOSE DISTINCTION: Independence displaced Iberian sovereignty faster than it transformed",
+            "  landholding, racial hierarchy, slavery or creole elite power; state formation and social",
+            "  revolution are separate tests.",
+            "CLOSE DISTINCTION: Independence displaced Iberian sovereignty faster than it transformed",
+            "  landholding, racial hierarchy, slavery or creole elite power; state formation and social",
+            "  revolution are separate tests.",
+            "CLOSE DISTINCTION: Independence displaced Iberian sovereignty faster than it transformed",
+            "  landholding, racial hierarchy, slavery or creole elite power; state formation and social",
+            "  revolution are separate tests."
+          ],
+          "source_references": [
+            "Caudillismo's institutional mechanism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fragmentation after liberation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GRAN COLOMBIA -> continental federation attempted",
+            "DISTANCE + WEAK COMMUNICATION -> administration fragments",
+            "REGIONAL ELITES -> resist central authority",
+            "RESULT -> states emerge before shared nations",
+            "EVIDENCE LIMIT: Napoleonic crisis and Atlantic ideas created openings, but enslaved,",
+            "  Indigenous, mixed-race, creole and regional actors pursued different projects; Latin America",
+            "  was not a derivative European stage.",
+            "EVIDENCE LIMIT: Napoleonic crisis and Atlantic ideas created openings, but enslaved,",
+            "  Indigenous, mixed-race, creole and regional actors pursued different projects; Latin America",
+            "  was not a derivative European stage.",
+            "EVIDENCE LIMIT: Napoleonic crisis and Atlantic ideas created openings, but enslaved,",
+            "  Indigenous, mixed-race, creole and regional actors pursued different projects; Latin America",
+            "  was not a derivative European stage."
+          ],
+          "source_references": [
+            "Gran Colombia and failed continental unity",
+            "States before nations: final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Latin America answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CAUSE -> hierarchy + trade restriction + Atlantic ideas",
+            "TRIGGER -> Iberian collapse in 1808",
+            "COURSE -> five distinct regional paths",
+            "VERDICT -> independence without equal social transformation"
+          ],
+          "source_references": [
+            "States before nations: final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g2\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g3\\world-history-08_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-08\\g4\\world-history-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

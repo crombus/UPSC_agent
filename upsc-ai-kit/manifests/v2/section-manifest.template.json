@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Example-Subject",
+    "display_name": "Example Subject"
+  },
+  "section": {
+    "key": "example-section",
+    "name": "Example Official Section",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Example-Subject\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+    ],
+    "notes": "Replace this example with the complete official section topic list before generation."
+  },
+  "topics": [
+    {
+      "topic_key": "example-subject-01-example-topic",
+      "display_title": "Example Topic",
+      "syllabus_mapping": "Exact official clause and repository topic mapping.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Example-Subject\\basic\\01_Example-Topic.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Example-Subject\\basic\\01_Example-Topic.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Example-Subject\\advanced\\01_Example-Topic.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Example-Subject\\00_Master-Framework.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md"
+      ]
+    }
+  ]
+}

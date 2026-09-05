@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "polity-44-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-reviewed polity-44 successor source; twelve Core panels; prior generations remain immutable.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-44": {
+      "title": "Pressure Groups",
+      "source_record": "polity-44:learner-v2:g6",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+      "quality_review": "Substantive Core/PYQ/legal review completed; approval remains false.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Influence without office: definition and boundaries",
+          "structural_type": "definition-distinction-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 1"
+          ],
+          "full_text": "ROOT\nshared interest -> organisation -> influence over public decision\n\nDISTINGUISH\nparty: seeks office | pressure group: seeks influence\nNGO: legal/organisational vehicle | movement: broad change\nlobbyist: professional client representation\n\nLIMIT\nforms overlap; dominant purpose and conduct decide the label."
+        },
+        {
+          "title": "Constitutional channels and proportionate limits",
+          "structural_type": "constitutional-channel-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 2"
+          ],
+          "full_text": "ARTICLE 19\n19(1)(a) speech | 19(1)(b) peaceful unarmed assembly | 19(1)(c) association\nsubject to Articles 19(2)-(4).\n\nREMEDIES\nArticle 32 Supreme Court | Article 226 High Court.\n\nLIMIT\nno separate fundamental right to lobby, strike or occupy public ways indefinitely."
+        },
+        {
+          "title": "Typology without misclassification",
+          "structural_type": "pressure-group-typology",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 3"
+          ],
+          "full_text": "ALMOND-POWELL\nassociational: formal specialised membership\nnon-associational: identity/community articulation\ninstitutional: interest voiced within durable institutions\nanomic: spontaneous and episodic mobilisation\n\nTRAPS\nanomic != stable armed organisation\nstatutory regulator != ordinary voluntary pressure group."
+        },
+        {
+          "title": "Methods: insider, outsider and corporatist routes",
+          "structural_type": "method-spectrum-rail",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 4"
+          ],
+          "full_text": "INSIDER\nmeeting | consultation | committee | expert evidence | draft comments\n\nOUTSIDER\npetition | publicity | electoral signalling | protest | litigation\n\nCORPORATIST\nState-structured bargaining with selected peak associations.\n\nTEST\naccess + cohesion + expertise + numbers + salience + legitimacy."
+        },
+        {
+          "title": "Pluralist, elite and corporatist lenses",
+          "structural_type": "theory-comparison-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 5"
+          ],
+          "full_text": "PLURALIST\ncompetition and countervailing power\n<-> misses unequal organisation.\n\nELITE/CAPTURE\nwealth and access shape agendas\n<-> can miss mobilisation by weaker groups.\n\nCORPORATIST\ncoordination through peak bodies\n<-> outsider exclusion and State selection."
+        },
+        {
+          "title": "Business, labour and professional groups",
+          "structural_type": "sector-comparison-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 6"
+          ],
+          "full_text": "BUSINESS\nFICCI/CII/ASSOCHAM/NASSCOM -> aggregation + technical input + capture risk.\n\nLABOUR\nbargaining + tripartite consultation + lawful industrial action.\n\nPROFESSIONAL\nvoluntary advocacy bodies; separate statutory regulators.\n\nHISTORY\nMadras Labour Union 1918 | AITUC federation 1920."
+        },
+        {
+          "title": "Farmers' organisations: methods and effectiveness",
+          "structural_type": "farmer-effectiveness-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 7"
+          ],
+          "full_text": "METHODS\nrepresentation + price/procurement submissions + election signalling\n+ coalition + protest + media + litigation.\n\n2020-21\nmobilisation contributed decisively to conditions before Parliament's 2021 repeal.\n\nLIMIT\nvisibility != representation of every region, crop, tenant, woman or marginal farmer."
+        },
+        {
+          "title": "Environmental, civil-society and digital pressure",
+          "structural_type": "environmental-role-network",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "AWARENESS\nChipko | CSE research.\n\nPOLICY\nSilent Valley mobilisation | consultation | monitoring.\n\nADVOCACY\nNBA rehabilitation/review | eligible PIL under Articles 32/226.\n\nDIGITAL\nrapid agenda-setting <-> misinformation, astroturfing and platform opacity."
+        },
+        {
+          "title": "Protest rights and judicial boundary",
+          "structural_type": "protest-rights-balance",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 9"
+          ],
+          "full_text": "Damyanti Naranga v. Union of India (1971)\nassociation composition/autonomy.\n\nRamlila Maidan Incident (2012)\npeaceful assembly and police scrutiny.\n\nMazdoor Kisan Shakti Sangathan v. Union of India (2018)\nbalance protest with residents and regulation.\n\nAmit Sahni v. Commissioner of Police (2020)\nno indefinite occupation of public ways.\n\nSTRIKE\nregulated action != violence; no general fundamental right."
+        },
+        {
+          "title": "FCRA and lobbying: separate legal questions",
+          "structural_type": "regulatory-boundary-board",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "FCRA 2010/2020\nforeign-contribution receipt/use; Section 3 prohibitions;\nno transfer; SBI receipt account; 20% admin cap.\n\nNoel Harper v. Union of India (2022)\nframework upheld; passport-based Section 12A accommodation.\n\nLOBBYING\nno comprehensive standalone register as checked 28 Aug 2026;\ngeneral and sectoral laws still apply."
+        },
+        {
+          "title": "Transparent and inclusive consultation design",
+          "structural_type": "reform-architecture",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 11"
+          ],
+          "full_text": "NOTICE\ndraft + impact note + adequate period + accessible languages.\n\nDISCLOSURE\nmeetings + submissions + clients + funding + conflicts.\n\nREASONS\npublic response matrix.\n\nINTEGRITY\nrecusal + cooling-off + anti-corruption rules.\n\nINCLUSION\noutreach to under-organised interests; process audit, not policy veto."
+        },
+        {
+          "title": "PYQ and answer synthesis",
+          "structural_type": "pressure-group-exam-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md#SESSION 12"
+          ],
+          "full_text": "VERIFIED PYQS\n2019 farmers' methods/effectiveness 10/150\n2021 business associations/public policies 10/150\n2025 environmental groups awareness/policy/advocacy 15/250.\n\nANSWER SPINE\ndefine -> channel -> method -> evidence -> gain -> limit\n-> transparent inclusion -> qualified verdict.\n\nFINAL LINE\ncontinuous representation is democratic only when access and reasons are visible."
+        }
+      ]
+    }
+  }
+}
+
+
+

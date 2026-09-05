@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T15:52:58+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "04a1c687828fa863ca11e3276c67b8c3982186fc371605725df6be0be81f9bbf",
+    "sha256_after": "04a1c687828fa863ca11e3276c67b8c3982186fc371605725df6be0be81f9bbf",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8057,
+    "pdf_count": 2097,
+    "png_count": 723,
+    "txt_count": 890,
+    "markdown_count": 1318,
+    "json_count": 3014,
+    "total_bytes": 3757445027,
+    "by_extension": {
+      ".json": 3014,
+      ".md": 1318,
+      ".pdf": 2097,
+      ".png": 723,
+      ".txt": 890,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-05",
+      "topic_title": "The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "medieval-indian-history-05:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "1e9791024f2e696a05fac3f213e438b05f4eee3fe11b582bc5cb348e25f0aced",
+          "output_sha256": "1e9791024f2e696a05fac3f213e438b05f4eee3fe11b582bc5cb348e25f0aced",
+          "source_output_equal": true,
+          "bytes": 2661456
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "077f7516e6358a8dff2b63b01b8943a0670f297320561e429b0bac8fe7f26ad0",
+          "output_sha256": "077f7516e6358a8dff2b63b01b8943a0670f297320561e429b0bac8fe7f26ad0",
+          "source_output_equal": true,
+          "bytes": 290454
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-05\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "c9825476b3774503c01182bd15922eb7544512679df3c43394678230773fa1b7",
+          "output_sha256": "c9825476b3774503c01182bd15922eb7544512679df3c43394678230773fa1b7",
+          "source_output_equal": true,
+          "bytes": 2415289
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-05\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "254e832691e0168c87702724ce7d4a722d775bde91c4efe415f3fcbf1da3b7dd",
+          "output_sha256": "254e832691e0168c87702724ce7d4a722d775bde91c4efe415f3fcbf1da3b7dd",
+          "source_output_equal": true,
+          "bytes": 2665978
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-05\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "8d1a002b91e45c15be315a9ebaff4f2a2e9c3fc5fd0e4f74e44421b3c3981f56",
+          "output_sha256": "8d1a002b91e45c15be315a9ebaff4f2a2e9c3fc5fd0e4f74e44421b3c3981f56",
+          "source_output_equal": true,
+          "bytes": 2141773
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-05\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "ebf966e08897ae552cf1303b9b36b3a81d9ff03794fccfdc15eab61a3add8c4b",
+          "output_sha256": "ebf966e08897ae552cf1303b9b36b3a81d9ff03794fccfdc15eab61a3add8c4b",
+          "source_output_equal": true,
+          "bytes": 6090
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-05\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "fc1bf8430103b34503dcf38478d6f1b5ff70c3555a443fd17812f9fdfaf7a904",
+          "output_sha256": "fc1bf8430103b34503dcf38478d6f1b5ff70c3555a443fd17812f9fdfaf7a904",
+          "source_output_equal": true,
+          "source_text_sha256": "ebf966e08897ae552cf1303b9b36b3a81d9ff03794fccfdc15eab61a3add8c4b",
+          "normalized_text_equal": true,
+          "bytes": 58317
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 12,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 86,
+        "solved_practice_workbook": 26,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 86,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 26,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11776
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

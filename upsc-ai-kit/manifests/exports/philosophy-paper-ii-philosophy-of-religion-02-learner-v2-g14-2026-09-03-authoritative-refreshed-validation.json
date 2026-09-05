@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+  "record_id": "philosophy-paper-ii-philosophy-of-religion-02:learner-v2:g14",
+  "generation": 14,
+  "validated_on": "2026-09-03",
+  "validator": "tools\\validate_v2_export.py --refreshed-contract",
+  "manual_ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-02-ascii-g14-2026-09-03.json",
+  "asset_folder": "notes\\Learner-v2-Refreshed\\learning-session-v2\\philosophy-paper-ii-philosophy-of-religion-02\\assets",
+  "result": "passed",
+  "stdout": "V2 export validation passed."
+}

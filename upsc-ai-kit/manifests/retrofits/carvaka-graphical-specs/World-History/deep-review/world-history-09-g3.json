@@ -1,0 +1,1092 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-09",
+  "subject": "World-History",
+  "title": "WORLD IN 1914 AND OUTBREAK OF WWI",
+  "short_route": "ALLIANCE SYSTEM FORMATION → FOUR STRUCTURAL TENSIONS → BALKAN CRISIS LADDER → JULY TRIGGER AND FIRST → ESCALATION CHAIN → BALANCE-OF-POWER CASE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-09-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "1b9892936b8c3789a6e707583808541bc89c130bdf7e36c5566844664ef20bd7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ALLIANCE SYSTEM FORMATION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ALLIANCE SYSTEM FORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRIPLE ALLIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY, AUSTRIA-HUNGARY, ITALY",
+          "role": "comparison"
+        },
+        {
+          "text": "FRANCE AND RUSSIA ALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "ENTENTE CORDIALE",
+          "role": "primary"
+        },
+        {
+          "text": "BRITAIN AND RUSSIA COMPLETE THE ENTENTE ALIGNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLIANCE BLOCS, ARMS COMPETITION, IMPERIAL RIVALRY, NATIONALISM AND BALKAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1882 → Triple Alliance: Germany, Austria-Hungary, Italy",
+        "1894 → France and Russia ally",
+        "1904 → Entente Cordiale",
+        "1907 → Britain and Russia complete the Entente alignment",
+        "MUST REMEMBER: Alliance blocs, arms competition, imperial rivalry, nationalism and Balkan crises created structural danger"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1882 → Triple Alliance: Germany, Austria-Hungary, Italy",
+            "1894 → France and Russia ally"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1904 → Entente Cordiale",
+            "1907 → Britain and Russia complete the Entente alignment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Alliance blocs, arms competition, imperial rivalry, nationalism and Balkan crises created structural danger",
+            "Sarajevo was the trigger and the July Crisis converted a regional assassination into general war through state choices."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Alliance blocs, arms competition, imperial rivalry, nationalism and Balkan crises created structural danger; Sarajevo was the trigger and the July Crisis converted a regional assassination into general war through state choices.",
+      "source_references": [
+        "Europe's two alliance alignments",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR STRUCTURAL TENSIONS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR STRUCTURAL TENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NAVAL RACE",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITAIN FEARS RELATIVE GERMAN SEA POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "FRENCH REVANCHIST GRIEVANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "GERMANY READS ENTENTE AS STRATEGIC PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTRIA AND RUSSIA COMPETE THROUGH SERBIA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NAVAL RACE → Britain fears relative German sea power",
+        "ALSACE-LORRAINE → French revanchist grievance",
+        "ENCIRCLEMENT → Germany reads Entente as strategic pressure",
+        "BALKANS → Austria and Russia compete through Serbia"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAVAL RACE → Britain fears relative German sea power",
+            "ALSACE-LORRAINE → French revanchist grievance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENCIRCLEMENT → Germany reads Entente as strategic pressure",
+            "BALKANS → Austria and Russia compete through Serbia"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAVAL RACE → Britain fears relative German sea power",
+            "ALSACE-LORRAINE → French revanchist grievance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BALKANS → Austria and Russia compete through Serbia.",
+      "source_references": [
+        "Naval rivalry and Alsace-Lorraine",
+        "Bosnia and the Austro-Serb conflict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BALKAN CRISIS LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BALKAN CRISIS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTRIA-HUNGARY ANNEXES BOSNIA",
+          "role": "outcome"
+        },
+        {
+          "text": "AGADIR SHARPENS ANGLO-GERMAN MISTRUST",
+          "role": "comparison"
+        },
+        {
+          "text": "BALKAN WARS STRENGTHEN SERBIA",
+          "role": "evidence"
+        },
+        {
+          "text": "AUSTRIA SEEKS TO CURB SERBIAN NATIONALISM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1908 → Austria-Hungary annexes Bosnia",
+        "1911 → Agadir sharpens Anglo-German mistrust",
+        "1912-13 → Balkan Wars strengthen Serbia",
+        "1914 → Austria seeks to curb Serbian nationalism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1908 → Austria-Hungary annexes Bosnia",
+            "1911 → Agadir sharpens Anglo-German mistrust"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1912-13 → Balkan Wars strengthen Serbia",
+            "1914 → Austria seeks to curb Serbian nationalism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1908 → Austria-Hungary annexes Bosnia",
+            "1911 → Agadir sharpens Anglo-German mistrust"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1914 → Austria seeks to curb Serbian nationalism.",
+      "source_references": [
+        "Bosnia and the Austro-Serb conflict",
+        "Agadir and diplomatic mistrust",
+        "Balkan Wars and Serbian strength",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JULY TRIGGER AND FIRST DECISION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JULY TRIGGER AND FIRST DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "28 JUNE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCIP ASSASSINATES FRANZ FERDINAND AT SARAJEVO",
+          "role": "comparison"
+        },
+        {
+          "text": "AUSTRIA FRAMES DEMANDS SERBIA CANNOT FULLY ACCEPT",
+          "role": "evidence"
+        },
+        {
+          "text": "28 JULY",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTRIA-HUNGARY DECLARES WAR ON SERBIA",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSASSINATION TRIGGERS; VIENNA CHOOSES WAR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "28 JUNE → Princip assassinates Franz Ferdinand at Sarajevo",
+        "ULTIMATUM → Austria frames demands Serbia cannot fully accept",
+        "28 JULY → Austria-Hungary declares war on Serbia",
+        "RULE → assassination triggers; Vienna chooses war"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "28 JUNE → Princip assassinates Franz Ferdinand at Sarajevo",
+            "ULTIMATUM → Austria frames demands Serbia cannot fully accept"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "28 JULY → Austria-Hungary declares war on Serbia",
+            "RULE → assassination triggers; Vienna chooses war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "28 JUNE → Princip assassinates Franz Ferdinand at Sarajevo",
+            "ULTIMATUM → Austria frames demands Serbia cannot fully accept"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "28 JULY → Austria-Hungary declares war on Serbia.",
+      "source_references": [
+        "Sarajevo as trigger",
+        "Austria's ultimatum and declaration",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ESCALATION CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ESCALATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "GERMAN SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "AUSTRIA TAKES HARD LINE",
+          "role": "comparison"
+        },
+        {
+          "text": "RUSSIAN MOBILISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFLICT BECOMES GREAT-POWER CRISIS",
+          "role": "mechanism"
+        },
+        {
+          "text": "1/3 AUG",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY DECLARES WAR ON RUSSIA AND FRANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "4 AUG",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GERMAN SUPPORT → Austria takes hard line",
+        "RUSSIAN MOBILISATION → conflict becomes great-power crisis",
+        "1/3 AUG → Germany declares war on Russia and France",
+        "4 AUG → Belgium violated; Britain enters"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GERMAN SUPPORT → Austria takes hard line",
+            "RUSSIAN MOBILISATION → conflict becomes great-power crisis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1/3 AUG → Germany declares war on Russia and France",
+            "4 AUG → Belgium violated; Britain enters"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GERMAN SUPPORT → Austria takes hard line",
+            "RUSSIAN MOBILISATION → conflict becomes great-power crisis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1/3 AUG → Germany declares war on Russia and France.",
+      "source_references": [
+        "Germany's enabling support",
+        "Russian mobilisation and counter-mobilisation",
+        "Germany, Belgium and British entry",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BALANCE-OF-POWER CASE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BALANCE-OF-POWER CASE",
+          "role": "mechanism"
+        },
+        {
+          "text": "EUROPE DIVIDED INTO COUNTERWEIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY FEARS RELATIVE DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "NAVAL RATIO",
+          "role": "evidence"
+        },
+        {
+          "text": "BRITAIN WATCHES CHANNEL AND FLEET BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "EACH CRISIS SCORED AS A POWER TRANSFER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "BLOCS → Europe divided into counterweights",
+        "ENCIRCLEMENT → Germany fears relative decline",
+        "NAVAL RATIO → Britain watches Channel and fleet balance",
+        "BALKANS → each crisis scored as a power transfer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BLOCS → Europe divided into counterweights",
+            "ENCIRCLEMENT → Germany fears relative decline"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NAVAL RATIO → Britain watches Channel and fleet balance",
+            "BALKANS → each crisis scored as a power transfer"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BLOCS → Europe divided into counterweights",
+            "ENCIRCLEMENT → Germany fears relative decline"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BALKANS → each crisis scored as a power transfer.",
+      "source_references": [
+        "Balance of power: what it explains",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MOTIVES BALANCE CANNOT ABSORB",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MOTIVES BALANCE CANNOT ABSORB",
+          "role": "primary"
+        },
+        {
+          "text": "MULTINATIONAL EMPIRE'S SURVIVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH SLAV NATIONAL UNIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ALSACE-LORRAINE REVANCHISM",
+          "role": "evidence"
+        },
+        {
+          "text": "PREVENTIVE TIMING AND PRESTIGE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AUSTRIA → multinational empire's survival",
+        "SERBIA → South Slav national unification",
+        "FRANCE → Alsace-Lorraine revanchism",
+        "GERMANY/RUSSIA → preventive timing and prestige"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AUSTRIA → multinational empire's survival",
+          "FRANCE → Alsace-Lorraine revanchism",
+          "AUSTRIA → multinational empire's survival"
+        ],
+        [
+          "SERBIA → South Slav national unification",
+          "GERMANY/RUSSIA → preventive timing and prestige",
+          "SERBIA → South Slav national unification"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AUSTRIA → multinational empire's survival",
+            "SERBIA → South Slav national unification"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRANCE → Alsace-Lorraine revanchism",
+            "GERMANY/RUSSIA → preventive timing and prestige"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AUSTRIA → multinational empire's survival",
+            "SERBIA → South Slav national unification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRANCE → Alsace-Lorraine revanchism; GERMANY/RUSSIA → preventive timing and prestige.",
+      "source_references": [
+        "Balance of power: what it misses",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MOBILISATION AS MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MOBILISATION AS MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "RUSSIA MOBILISES",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY SEES NARROWING TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMAN PLAN",
+          "role": "evidence"
+        },
+        {
+          "text": "ATTACK FRANCE THROUGH BELGIUM",
+          "role": "primary"
+        },
+        {
+          "text": "MILITARY SEQUENCE COMPRESSES DIPLOMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGIC PLANS WIDEN A REGIONAL WAR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RUSSIA MOBILISES → Germany sees narrowing time",
+        "GERMAN PLAN → attack France through Belgium",
+        "TIMETABLES → military sequence compresses diplomacy",
+        "RESULT → strategic plans widen a regional war"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RUSSIA MOBILISES → Germany sees narrowing time",
+            "GERMAN PLAN → attack France through Belgium"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TIMETABLES → military sequence compresses diplomacy",
+            "RESULT → strategic plans widen a regional war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RUSSIA MOBILISES → Germany sees narrowing time",
+            "GERMAN PLAN → attack France through Belgium"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → strategic plans widen a regional war.",
+      "source_references": [
+        "Mobilisation rigidity and miscalculation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LIKELIHOOD VERSUS INEVITABILITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIKELIHOOD VERSUS INEVITABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "BLOCS, ARMS, BALKAN CRISES AND MISTRUST",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT INEVITABLE",
+          "role": "caution"
+        },
+        {
+          "text": "1905-06, 1908 AND 1911 WERE CONTAINED",
+          "role": "evidence"
+        },
+        {
+          "text": "JULY LEADERS MAKE SPECIFIC RISKY CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURE RAISES DANGER; AGENCY STARTS WAR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LIKELY → blocs, arms, Balkan crises and mistrust",
+        "NOT INEVITABLE → 1905-06, 1908 and 1911 were contained",
+        "BREAK → July leaders make specific risky choices",
+        "VERDICT → structure raises danger; agency starts war"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LIKELY → blocs, arms, Balkan crises and mistrust",
+          "BREAK → July leaders make specific risky choices",
+          "LIKELY → blocs, arms, Balkan crises and mistrust"
+        ],
+        [
+          "NOT INEVITABLE → 1905-06, 1908 and 1911 were contained",
+          "VERDICT → structure raises danger; agency starts war",
+          "NOT INEVITABLE → 1905-06, 1908 and 1911 were contained"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LIKELY → blocs, arms, Balkan crises and mistrust",
+            "NOT INEVITABLE → 1905-06, 1908 and 1911 were contained"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BREAK → July leaders make specific risky choices",
+            "VERDICT → structure raises danger; agency starts war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIKELY → blocs, arms, Balkan crises and mistrust",
+            "NOT INEVITABLE → 1905-06, 1908 and 1911 were contained"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → structure raises danger; agency starts war.",
+      "source_references": [
+        "Mobilisation rigidity and miscalculation",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RESPONSIBILITY AT TWO LEVELS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESPONSIBILITY AT TWO LEVELS",
+          "role": "primary"
+        },
+        {
+          "text": "VIENNA'S DECISION TO ATTACK SERBIA",
+          "role": "outcome"
+        },
+        {
+          "text": "BERLIN'S SUPPORT AND PREVENTIVE CALCULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RUSSIAN MOBILISATION AND GERMAN PLAN",
+          "role": "evidence"
+        },
+        {
+          "text": "ALLIANCES, NATIONALISM, PRESTIGE AND MILITARISATION",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIPLE ENTENTE AND TRIPLE ALLIANCE WERE DIPLOMATIC ALIGNMENTS, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IMMEDIATE → Vienna's decision to attack Serbia",
+        "ENABLING → Berlin's support and preventive calculation",
+        "ESCALATORY → Russian mobilisation and German plan",
+        "SYSTEMIC → alliances, nationalism, prestige and militarisation",
+        "CLOSE DISTINCTION: Triple Entente and Triple Alliance were diplomatic alignments, not automatic identical war plans"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IMMEDIATE → Vienna's decision to attack Serbia",
+            "ENABLING → Berlin's support and preventive calculation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ESCALATORY → Russian mobilisation and German plan",
+            "SYSTEMIC → alliances, nationalism, prestige and militarisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Triple Entente and Triple Alliance were diplomatic alignments, not automatic identical war plans",
+            "Italy's 1914 position and later Ottoman and Bulgarian entry prevent a static two-camp map."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Triple Entente and Triple Alliance were diplomatic alignments, not automatic identical war plans; Italy's 1914 position and later Ottoman and Bulgarian entry prevent a static two-camp map.",
+      "source_references": [
+        "Responsibility: agents and system",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ITALY AND BRITAIN TRAPS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ITALY AND BRITAIN TRAPS",
+          "role": "primary"
+        },
+        {
+          "text": "ALLIANCE MEMBER BUT NEUTRAL IN 1914; ALLIES IN 1915",
+          "role": "outcome"
+        },
+        {
+          "text": "NO BINDING FRENCH ALLIANCE OBLIGATION",
+          "role": "caution"
+        },
+        {
+          "text": "IMMEDIATE LEGAL-POLITICAL TRIGGER",
+          "role": "evidence"
+        },
+        {
+          "text": "ALIGNMENT, OBLIGATION AND ENTRY CAUSE ARE DIFFERENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "GERMAN RISK-TAKING MATTERED, BUT A MONOCAUSAL GUILT STORY OBSCURES",
+          "role": "caution"
+        },
+        {
+          "text": "AUSTRO-HUNGARIAN, RUSSIAN, FRENCH, BRITISH, SERBIAN AND IMPERIAL AGENCY AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ITALY → Alliance member but neutral in 1914; Allies in 1915",
+        "BRITAIN → no binding French alliance obligation",
+        "BELGIUM → immediate legal-political trigger",
+        "RULE → alignment, obligation and entry cause are different",
+        "EVIDENCE LIMIT: German risk-taking mattered, but a monocausal guilt story obscures"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ITALY → Alliance member but neutral in 1914; Allies in 1915",
+          "BELGIUM → immediate legal-political trigger",
+          "EVIDENCE LIMIT: German risk-taking mattered, but a monocausal guilt story obscures"
+        ],
+        [
+          "BRITAIN → no binding French alliance obligation",
+          "RULE → alignment, obligation and entry cause are different",
+          "Austro-Hungarian, Russian, French, British, Serbian and imperial agency and the difference between responsibility and inevitability."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → Alliance member but neutral in 1914; Allies in 1915",
+            "BRITAIN → no binding French alliance obligation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BELGIUM → immediate legal-political trigger",
+            "RULE → alignment, obligation and entry cause are different"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: German risk-taking mattered, but a monocausal guilt story obscures",
+            "Austro-Hungarian, Russian, French, British, Serbian and imperial agency and the difference between responsibility and inevitability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → alignment, obligation and entry cause are different.",
+      "source_references": [
+        "Europe's two alliance alignments",
+        "Germany, Belgium and British entry",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "OUTBREAK ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "OUTBREAK ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SARAJEVO, 28 JUNE",
+          "role": "outcome"
+        },
+        {
+          "text": "AUSTRO-SERB NATIONALITY CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPORT, MOBILISATION, BELGIUM",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCE STRUCTURE PLUS DISTINCT MOTIVES AND CHOICES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TRIGGER → Sarajevo, 28 June",
+        "REGIONAL → Austro-Serb nationality conflict",
+        "ESCALATION → support, mobilisation, Belgium",
+        "VERDICT → balance structure plus distinct motives and choices"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRIGGER → Sarajevo, 28 June",
+            "REGIONAL → Austro-Serb nationality conflict"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ESCALATION → support, mobilisation, Belgium",
+            "VERDICT → balance structure plus distinct motives and choices"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRIGGER → Sarajevo, 28 June",
+            "REGIONAL → Austro-Serb nationality conflict"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → balance structure plus distinct motives and choices.",
+      "source_references": [
+        "The complete escalation verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g2\\world-history-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-09\\g3\\world-history-09_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE AUSTRO-SERB QUARREL SPARKED THE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMAN BACKING OF AUSTRIA WAS CRUCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RUSSIAN POLICY AND REARMAMENT ALSO HELPED MAKE GERMANY FEEL",
+          "role": "evidence"
+        },
+        {
+          "text": "USE THE OUTBREAK OF WAR AS THE SETTING FOR",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-LINK INSTEAD OF DUPLICATING",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERN-INDIAN-HISTORY/BASIC/18 WWI-HOME-RULE-AND-LUCKNOW-PACT.MD AND BASIC/19 GANDHIS-RISE-ROWLATT-AND-JALLIANWALA.MD.",
+          "role": "comparison"
+        },
+        {
+          "text": "IN ANSWERS, ONE SENTENCE IS ENOUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "the Austro-Serb quarrel sparked the war;",
+            "German backing of Austria was crucial;",
+            "Russian policy and rearmament also helped make Germany feel pressed toward risk.",
+            "CAUTION: Use the outbreak of war as the setting for later Indian wartime expectations of reform, loyalty and postwar disappointment."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Cross-link instead of duplicating: Modern-Indian-History/basic/18 WWI-Home-Rule-and-Lucknow-Pact.md and basic/19 Gandhis-Rise-Rowlatt-and-Jallianwala.md.",
+            "CAUTION: In answers, one sentence is enough: the war globalized European conflict and",
+            "pulled colonies into a crisis whose political after-effects were felt far beyond Europe.",
+            "Sarajevo assassination: 28 June 1914."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Russia ordered general mobilization after Austria moved on Serbia.",
+            "German support for Austria is described by Lowe as a \"blank cheque\".",
+            "Belgian neutrality brought Britain directly into war.",
+            "Lowe discusses Fischer, Zuber, Turner and Mulligan within the blame debate."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

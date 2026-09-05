@@ -1,0 +1,490 @@
+{
+  "schema_version": 2,
+  "benchmark": "Carvaka-standard continuous master with a topic-specific Ethics twelve-panel atlas",
+  "generated_on": "2026-08-29",
+  "scope": "Ethics subject-wide syllabus topic 18",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-18",
+      "title": "Utilization of Public Funds and Challenges of Corruption",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-18_Learning-Session.md",
+      "source_record": "ethics-18:learner-v2:g1",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior artifacts and canonical Ethics owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "1. Public-funds fiduciary foundation",
+          "structural_type": "trust-chain",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "1. Public-funds fiduciary foundation",
+            "  [1] Citizens authorise public revenue",
+            "        |",
+            "        v",
+            "  [2] Legislature approves public purpose",
+            "        |",
+            "        v",
+            "  [3] Executive receives limited authority",
+            "        |",
+            "        v",
+            "  [4] Official acts as fiduciary steward",
+            "        |",
+            "        v",
+            "  [5] Law and sanction bound discretion",
+            "        |",
+            "        v",
+            "  [6] Beneficiaries hold legitimate claims",
+            "        |",
+            "        v",
+            "  [7] Records make reasons reviewable",
+            "        |",
+            "        v",
+            "  [8] Outcome and remedy complete trust",
+            "        |",
+            "        v",
+            "VERDICT -> Public money is entrusted power, not departmental property.",
+            "ANSWER USE -> Use to open every theory or case answer."
+          ]
+        },
+        {
+          "panel_title": "2. Budget-to-outcome chain",
+          "structural_type": "results-chain",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "2. Budget-to-outcome chain",
+            "  [1] Diagnose public need",
+            "        |",
+            "        v",
+            "  [2] Allocate realistic budget",
+            "        |",
+            "        v",
+            "  [3] Release funds on time",
+            "        |",
+            "        v",
+            "  [4] Procure lawful inputs",
+            "        |",
+            "        v",
+            "  [5] Deliver verified outputs",
+            "        |",
+            "        v",
+            "  [6] Enable citizen access",
+            "        |",
+            "        v",
+            "  [7] Measure intended outcomes",
+            "        |",
+            "        v",
+            "  [8] Learn and correct variance",
+            "        |",
+            "        v",
+            "VERDICT -> Expenditure is one link; it never proves delivery or outcome.",
+            "ANSWER USE -> Use for under-utilisation and accountability questions."
+          ]
+        },
+        {
+          "panel_title": "3. Four-E value-for-money matrix",
+          "structural_type": "four-axis-matrix",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "3. Four-E value-for-money matrix",
+            "  [1] Economy: input cost and quality",
+            "        |",
+            "        v",
+            "  [2] Efficiency: input-output relation",
+            "        |",
+            "        v",
+            "  [3] Effectiveness: objective achieved",
+            "        |",
+            "        v",
+            "  [4] Equity: distribution and access",
+            "        |",
+            "        v",
+            "  [5] Legality supplies the floor",
+            "        |",
+            "        v",
+            "  [6] Public purpose supplies direction",
+            "        |",
+            "        v",
+            "  [7] Evidence tests claimed performance",
+            "        |",
+            "        v",
+            "  [8] Trade-offs require recorded reasons",
+            "        |",
+            "        v",
+            "VERDICT -> Value for money is multidimensional and distribution-sensitive.",
+            "ANSWER USE -> Use for performance audit and scheme evaluation."
+          ]
+        },
+        {
+          "panel_title": "4. Failure-classification ladder",
+          "structural_type": "classification-ladder",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "4. Failure-classification ladder",
+            "  [1] Error: inadvertent mistake",
+            "        |",
+            "        v",
+            "  [2] Irregularity: rule departure",
+            "        |",
+            "        v",
+            "  [3] Waste: avoidable public loss",
+            "        |",
+            "        v",
+            "  [4] Negligence: deficient due care",
+            "        |",
+            "        v",
+            "  [5] Fraud: intentional deception",
+            "        |",
+            "        v",
+            "  [6] Abuse: improper discretion",
+            "        |",
+            "        v",
+            "  [7] Corruption: connected advantage",
+            "        |",
+            "        v",
+            "  [8] Overlap changes remedy and proof",
+            "        |",
+            "        v",
+            "VERDICT -> Classify before blaming; public loss can exist without enrichment.",
+            "ANSWER USE -> Use to prevent legal and ethical overstatement."
+          ]
+        },
+        {
+          "panel_title": "5. Financial-propriety control chain",
+          "structural_type": "control-stack",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "5. Financial-propriety control chain",
+            "  [1] Confirm authorised purpose",
+            "        |",
+            "        v",
+            "  [2] Estimate total genuine requirement",
+            "        |",
+            "        v",
+            "  [3] Identify competent sanction",
+            "        |",
+            "        v",
+            "  [4] Apply category-specific rules",
+            "        |",
+            "        v",
+            "  [5] Separate transaction roles",
+            "        |",
+            "        v",
+            "  [6] Verify receipt and milestones",
+            "        |",
+            "        v",
+            "  [7] Reconcile ledger bank and asset",
+            "        |",
+            "        v",
+            "  [8] Record variance and correction",
+            "        |",
+            "        v",
+            "VERDICT -> Controls allocate responsibility so convenience cannot become authority.",
+            "ANSWER USE -> Use for GFR, sanction and re-appropriation answers."
+          ]
+        },
+        {
+          "panel_title": "6. Procurement lifecycle integrity",
+          "structural_type": "lifecycle-rail",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "6. Procurement lifecycle integrity",
+            "  [1] Need and affordability",
+            "        |",
+            "        v",
+            "  [2] Neutral specification",
+            "        |",
+            "        v",
+            "  [3] Open market access",
+            "        |",
+            "        v",
+            "  [4] Published evaluation criteria",
+            "        |",
+            "        v",
+            "  [5] Conflict-safe reasoned award",
+            "        |",
+            "        v",
+            "  [6] Independent delivery verification",
+            "        |",
+            "        v",
+            "  [7] Controlled variation and payment",
+            "        |",
+            "        v",
+            "  [8] Warranty disposal and learning",
+            "        |",
+            "        v",
+            "VERDICT -> A fair tender can still be corrupted after award.",
+            "ANSWER USE -> Use for procurement and contract-management reform."
+          ]
+        },
+        {
+          "panel_title": "7. Bribery, collusion and cartel map",
+          "structural_type": "corruption-branch",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "7. Bribery, collusion and cartel map",
+            "  [1] Coercive bribe extorts entitlement",
+            "        |",
+            "        v",
+            "  [2] Protect victim and restore service",
+            "        |",
+            "        v",
+            "  [3] Collusive bribe benefits both sides",
+            "        |",
+            "        v",
+            "  [4] Trace public loss and both parties",
+            "        |",
+            "        v",
+            "  [5] Cartel simulates competition",
+            "        |",
+            "        v",
+            "  [6] Check bid rotation and cover bids",
+            "        |",
+            "        v",
+            "  [7] Trace beneficial ownership",
+            "        |",
+            "        v",
+            "  [8] Repair the enabling transaction",
+            "        |",
+            "        v",
+            "VERDICT -> Different corruption mechanisms require different evidence and remedies.",
+            "ANSWER USE -> Use for close distinctions and procurement cases."
+          ]
+        },
+        {
+          "panel_title": "8. Capture and nexus escalation",
+          "structural_type": "power-escalation",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "8. Capture and nexus escalation",
+            "  [1] Conflict distorts one decision",
+            "        |",
+            "        v",
+            "  [2] Repeated access normalises favour",
+            "        |",
+            "        v",
+            "  [3] Regulator depends on regulated data",
+            "        |",
+            "        v",
+            "  [4] Revolving-door incentive deepens bias",
+            "        |",
+            "        v",
+            "  [5] Political protection weakens enforcement",
+            "        |",
+            "        v",
+            "  [6] Business funds connected influence",
+            "        |",
+            "        v",
+            "  [7] State capture reshapes rules",
+            "        |",
+            "        v",
+            "  [8] Structural reform must break network",
+            "        |",
+            "        v",
+            "VERDICT -> Capture corrupts the rules of allocation, not only a single transaction.",
+            "ANSWER USE -> Use for mining, licensing and policy-capture analysis."
+          ]
+        },
+        {
+          "panel_title": "9. Audit and citizen-oversight stack",
+          "structural_type": "oversight-stack",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "9. Audit and citizen-oversight stack",
+            "  [1] Management control prevents error",
+            "        |",
+            "        v",
+            "  [2] Internal audit tests systems",
+            "        |",
+            "        v",
+            "  [3] CAG supplies external public audit",
+            "        |",
+            "        v",
+            "  [4] Performance audit tests three Es",
+            "        |",
+            "        v",
+            "  [5] Legislative committee demands answer",
+            "        |",
+            "        v",
+            "  [6] Social audit verifies lived delivery",
+            "        |",
+            "        v",
+            "  [7] Citizen complaint adds local evidence",
+            "        |",
+            "        v",
+            "  [8] Action taken creates consequence",
+            "        |",
+            "        v",
+            "VERDICT -> Oversight forms complement one another only when findings reach correction.",
+            "ANSWER USE -> Use for CAG, PAC and social-audit questions."
+          ]
+        },
+        {
+          "panel_title": "10. Anti-corruption stage architecture",
+          "structural_type": "stage-separation",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "10. Anti-corruption stage architecture",
+            "  [1] Prevention reduces opportunity",
+            "        |",
+            "        v",
+            "  [2] Detection identifies anomaly",
+            "        |",
+            "        v",
+            "  [3] Triage tests credibility and risk",
+            "        |",
+            "        v",
+            "  [4] Investigation gathers evidence",
+            "        |",
+            "        v",
+            "  [5] Adjudication determines responsibility",
+            "        |",
+            "        v",
+            "  [6] Sanction imposes lawful consequence",
+            "        |",
+            "        v",
+            "  [7] Remedy restores public interest",
+            "        |",
+            "        v",
+            "  [8] Learning redesigns the system",
+            "        |",
+            "        v",
+            "VERDICT -> An audit flag is not guilt, and punishment is not system repair.",
+            "ANSWER USE -> Use for institutional-design and due-process answers."
+          ]
+        },
+        {
+          "panel_title": "11. Technology with human verification",
+          "structural_type": "digital-control-loop",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "11. Technology with human verification",
+            "  [1] Digitise sanction and payment trail",
+            "        |",
+            "        v",
+            "  [2] Use role-based access",
+            "        |",
+            "        v",
+            "  [3] Flag duplicate and split patterns",
+            "        |",
+            "        v",
+            "  [4] Publish safe progress information",
+            "        |",
+            "        v",
+            "  [5] Verify identity and field delivery",
+            "        |",
+            "        v",
+            "  [6] Protect privacy and accessibility",
+            "        |",
+            "        v",
+            "  [7] Enable challenge and correction",
+            "        |",
+            "        v",
+            "  [8] Audit algorithms logs and overrides",
+            "        |",
+            "        v",
+            "VERDICT -> Technology changes observability, not the need for judgment and accountability.",
+            "ANSWER USE -> Use for PFMS, e-procurement and dashboard limits."
+          ]
+        },
+        {
+          "panel_title": "12. Examiner-ready answer spine",
+          "structural_type": "answer-spine",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "12. Examiner-ready answer spine",
+            "  [1] Define the precise failure",
+            "        |",
+            "        v",
+            "  [2] State public-trust thesis",
+            "        |",
+            "        v",
+            "  [3] Map budget-to-outcome mechanism",
+            "        |",
+            "        v",
+            "  [4] Apply four Es and equity",
+            "        |",
+            "        v",
+            "  [5] Name control and institution",
+            "        |",
+            "        v",
+            "  [6] Separate accountability stages",
+            "        |",
+            "        v",
+            "  [7] Add technology limit and remedy",
+            "        |",
+            "        v",
+            "  [8] Conclude with qualified stewardship",
+            "        |",
+            "        v",
+            "VERDICT -> Specific mechanism plus institution plus safeguard beats a generic anti-corruption",
+            "             list.",
+            "ANSWER USE -> Use to structure 10, 15 and 20-mark answers."
+          ]
+        }
+      ]
+    }
+  ]
+}

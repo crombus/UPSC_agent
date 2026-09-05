@@ -1,0 +1,572 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Internal-Security-Topics-01-04-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Internal-Security-Topics-05-08-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Internal-Security-Topics-09-12-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-01-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-02-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-03-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-04-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-05-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-06-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-07-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-08-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-09-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-10-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-11-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-12-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-01\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-01\internal-security-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-01\internal-security-01-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-02\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-02\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-02\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-02\internal-security-02-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-02\internal-security-02-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-03\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-03\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-03\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-03\internal-security-03-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-03\internal-security-03-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-04\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-04\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-04\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-04\internal-security-04-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-04\internal-security-04-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-05\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-05\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-05\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-05\internal-security-05-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-05\internal-security-05-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-06\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-06\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-06\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-06\internal-security-06-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-06\internal-security-06-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\internal-security-07-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\internal-security-07-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-08\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-08\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-08\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-08\internal-security-08-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-08\internal-security-08-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-09\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-09\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-09\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-09\internal-security-09-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-09\internal-security-09-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-10\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-10\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-10\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-10\internal-security-10-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-10\internal-security-10-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-11\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-11\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-11\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-11\internal-security-11-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-11\internal-security-11-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-11\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-12\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-12\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-12\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-12\internal-security-12-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-12\internal-security-12-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-12\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Internal-Security-Subject-Completion-2026-09-04.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Internal Security\INDEX.md
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\01-Internal-Security-Foundations-and-Governance\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\02-Terrorism-and-Counter-Terror-Architecture\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\03-Left-Wing-Extremism-and-Integrated-Response\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\04-North-East-Insurgency-and-Peace-Processes\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\06-Border-Management-and-Border-Area-Development\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\08-Cyber-Security-CII-and-Cybercrime\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\09-Social-Media-b3ee9b9f-Information-Warfare\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\10-Terror-Financing-Money-Laundering-and-FATF\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\11-Organised-Crime-Narco-Terrorism-and-Trafficking\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\12-Security-Forces-Intelligence-Coordination-and-Rights\README.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Internal-Security\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Internal-Security\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Internal-Security\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-01\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-02\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-03\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-04\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-05\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-06\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-08\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-09\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-10\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-11\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-12\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\internal-security-01_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\internal-security-01_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\internal-security-02_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\internal-security-02_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\internal-security-03_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\internal-security-03_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\internal-security-04_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\internal-security-04_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\internal-security-05_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\internal-security-05_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\internal-security-06_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\internal-security-06_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\internal-security-07_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\internal-security-07_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\internal-security-08_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\internal-security-08_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\internal-security-09_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\internal-security-09_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\internal-security-10_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\internal-security-10_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\internal-security-11_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\internal-security-11_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\internal-security-12_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\internal-security-12_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\validation\workbook-visual-audit-map.json
+tools\regenerate_internal_security_deep_review.py
+tools\test_export_flow_learning_library.py
+tools\test_regenerate_internal_security_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\assets\internal-security-01_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\internal-security-01_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-01\g3\internal-security-01_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\assets\internal-security-02_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\internal-security-02_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-02\g2\internal-security-02_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\assets\internal-security-03_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\internal-security-03_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-03\g2\internal-security-03_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\assets\internal-security-04_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\internal-security-04_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-04\g2\internal-security-04_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\assets\internal-security-05_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\internal-security-05_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-05\g2\internal-security-05_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\assets\internal-security-06_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\internal-security-06_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-06\g2\internal-security-06_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\assets\internal-security-07_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\internal-security-07_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g2\internal-security-07_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\assets\internal-security-08_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\internal-security-08_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-08\g2\internal-security-08_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\assets\internal-security-09_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\internal-security-09_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-09\g2\internal-security-09_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\assets\internal-security-10_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\internal-security-10_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-10\g2\internal-security-10_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\assets\internal-security-11_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\internal-security-11_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-11\g2\internal-security-11_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\assets\internal-security-12_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\internal-security-12_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-12\g2\internal-security-12_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\manifests\exports\deep-review-tracker-sync-2026-08-31.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-12-860039a87d63-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-12-860039a87d63.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04.json
+upsc-ai-kit\manifests\exports\internal-security-01-learner-v2-g3-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-01-learner-v2-g3-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-01-learner-v2-g3-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-02-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-02-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-02-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-03-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-03-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-03-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-04-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-04-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-04-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-05-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-05-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-05-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-06-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-06-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-06-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-07-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-07-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-07-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-08-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-08-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-08-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-09-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-09-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-09-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-10-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-10-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-10-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-11-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-11-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-11-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-12-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-12-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\internal-security-12-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\internal-security-deep-review-2026-09-04-changed-files.nul
+upsc-ai-kit\manifests\exports\internal-security-deep-review-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-deep-review-reconciliation-2026-09-04.json
+upsc-ai-kit\manifests\exports\internal-security-deep-review-validation-2026-09-04.json
+upsc-ai-kit\manifests\exports\internal-security-live-status-snapshot-2026-09-04.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-01-deep-review-2026-09-04-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-02-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-03-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-04-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-05-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-06-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-07-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-08-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-09-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-10-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-11-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-12-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-01-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-02-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-03-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-05-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-06-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-07-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-08-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-09-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-10-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-11-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-12-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-01-g3.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-02-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-03-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-04-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-05-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-06-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-07-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-08-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-09-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-10-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-11-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-12-g2.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

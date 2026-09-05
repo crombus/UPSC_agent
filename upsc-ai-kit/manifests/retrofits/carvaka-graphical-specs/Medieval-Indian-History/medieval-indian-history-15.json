@@ -1,0 +1,1137 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-15",
+  "subject": "Medieval-Indian-History",
+  "title": "AKBAR: CONSOLIDATION & EXPANSION OF THE EMPIRE",
+  "short_route": "CONSOLIDATION BEFORE DURABLE EXPANSION → AKBAR CHRONOLOGY 1542-1605 → THE FRACTURED FIELD OF → BAIRAM KHAN TO PERSONAL → NOBLE AND UZBEK CHALLENGE → MALWA AND GARH-KATANGA: COERCIVE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-15_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-15-16-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "b6ef675a0a4cfc343ddbedd803b388632fba5477c6ff13a36cb85500a444a348",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSOLIDATION BEFORE DURABLE EXPANSION",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSOLIDATION BEFORE DURABLE EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "1555 RESTORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MUGHAL FOOTHOLD, NOT A SETTLED EMPIRE",
+          "role": "caution"
+        },
+        {
+          "text": "1556 CRISIS",
+          "role": "evidence"
+        },
+        {
+          "text": "HEMU, SIKANDAR SUR, AFGHAN STRENGTH AND KABUL UNCERTAINTY",
+          "role": "primary"
+        },
+        {
+          "text": "BAIRAM KHAN STABILISES COMMAND DURING AKBAR'S MINORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD AND NOBLE ALTERNATIVES ARE DISCIPLINED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1555 RESTORATION → Mughal foothold, not a settled empire",
+        "1556 CRISIS → Hemu, Sikandar Sur, Afghan strength and Kabul uncertainty",
+        "REGENCY → Bairam Khan stabilises command during Akbar's minority",
+        "PERSONAL RULE → household and noble alternatives are disciplined",
+        "EXPANSION → campaigns are joined to alliances, ranks, jagirs and retention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1555 RESTORATION → Mughal foothold, not a settled empire",
+            "1556 CRISIS → Hemu, Sikandar Sur, Afghan strength and Kabul uncertainty"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "REGENCY → Bairam Khan stabilises command during Akbar's minority",
+            "PERSONAL RULE → household and noble alternatives are disciplined"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EXPANSION → campaigns are joined to alliances, ranks, jagirs and retention",
+            "VERDICT: durability came from reconquest + elite integration + institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: durability came from reconquest + elite integration + institutions.",
+      "answer_line": "durability came from reconquest + elite integration + institutions.",
+      "source_references": [
+        "Consolidation",
+        "State building",
+        "Elite integration"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AKBAR CHRONOLOGY 1542-1605",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AKBAR CHRONOLOGY 1542-1605",
+          "role": "primary"
+        },
+        {
+          "text": "1542 AMARKOT",
+          "role": "outcome"
+        },
+        {
+          "text": "1556 KALANAUR AND SECOND PANIPAT",
+          "role": "comparison"
+        },
+        {
+          "text": "BAIRAM KHAN REGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "ADHAM KHAN CRISIS",
+          "role": "primary"
+        },
+        {
+          "text": "UZBEK CHALLENGE BROKEN",
+          "role": "outcome"
+        },
+        {
+          "text": "GUJARAT CONQUEST AND RAPID RETURN",
+          "role": "comparison"
+        },
+        {
+          "text": "DAUD KHAN DEFEATED; HALDIGHATI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1542 Amarkot → 1556 Kalanaur and Second Panipat",
+        "1556-60 → Bairam Khan regency",
+        "1562 → Adham Khan crisis",
+        "1567 → Uzbek challenge broken",
+        "1568 → Chittor"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1542 Amarkot → 1556 Kalanaur and Second Panipat",
+            "1556-60 → Bairam Khan regency",
+            "1562 → Adham Khan crisis"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1567 → Uzbek challenge broken",
+            "1568 → Chittor",
+            "1572-73 → Gujarat conquest and rapid return"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1576 → Daud Khan defeated; Haldighati",
+            "1580-81 → eastern rebellion and Mirza Hakim",
+            "1605 → Akbar dies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1580-81 → eastern rebellion and Mirza Hakim | 1605 → Akbar dies.",
+      "source_references": [
+        "Chronology",
+        "Panipat II",
+        "Chittor",
+        "Gujarat",
+        "Haldighati"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE FRACTURED FIELD OF 1556",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE FRACTURED FIELD OF 1556",
+          "role": "primary"
+        },
+        {
+          "text": "FRAGILE RESTORED CENTRE AND YOUNG SOVEREIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "ADIL SHAH'S COMMANDER WITH AFGHAN ARMY, ELEPHANTS AND ARTILLERY",
+          "role": "comparison"
+        },
+        {
+          "text": "SIKANDAR SUR",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUING AFGHAN TERRITORIAL ALTERNATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "MIRZA FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTH-WESTERN DYNASTIC AND COMMUNICATIONS RISK",
+          "role": "caution"
+        },
+        {
+          "text": "PANIPAT II",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AKBAR / BAIRAM → fragile restored centre and young sovereign",
+        "HEMU → Adil Shah's commander with Afghan army, elephants and artillery",
+        "SIKANDAR SUR → continuing Afghan territorial alternative",
+        "KABUL / MIRZA FIELD → north-western dynastic and communications risk",
+        "PANIPAT II → Hemu's wound disrupts command; Mughal victory remains contingent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AKBAR / BAIRAM → fragile restored centre and young sovereign",
+            "HEMU → Adil Shah's commander with Afghan army, elephants and artillery"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SIKANDAR SUR → continuing Afghan territorial alternative",
+            "KABUL / MIRZA FIELD → north-western dynastic and communications risk"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PANIPAT II → Hemu's wound disrupts command; Mughal victory remains contingent",
+            "TRAP: the battle reopens consolidation; it does not end every rival at once."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "the battle reopens consolidation; it does not end every rival at once.",
+      "source_references": [
+        "Hemu",
+        "Sikandar Sur",
+        "Second Panipat",
+        "Contingency"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BAIRAM KHAN TO PERSONAL RULE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BAIRAM KHAN TO PERSONAL RULE",
+          "role": "primary"
+        },
+        {
+          "text": "1556-60 REGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "WAKIL MUTLAQ RALLIES NOBLES AND SECURES THE REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "DELEGATED POWER, COURT FACTIONS AND AKBAR'S GROWING AUTONOMY",
+          "role": "institution"
+        },
+        {
+          "text": "BAIRAM RESISTS, SUBMITS, IS PARDONED AND LEAVES FOR PILGRIMAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSEHOLD FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "MAHAM ANAGA, ADHAM KHAN AND ACCESS TO THE YOUNG",
+          "role": "comparison"
+        },
+        {
+          "text": "ATKA KHAN MURDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1556-60 REGENCY → wakil mutlaq rallies nobles and secures the regime",
+        "TENSION → delegated power, court factions and Akbar's growing autonomy",
+        "DISMISSAL → Bairam resists, submits, is pardoned and leaves for pilgrimage",
+        "HOUSEHOLD FIELD → Maham Anaga, Adham Khan and access to the young ruler",
+        "ATKA KHAN MURDER → Adham's execution re-centres sovereign authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1556-60 REGENCY → wakil mutlaq rallies nobles and secures the regime",
+            "TENSION → delegated power, court factions and Akbar's growing autonomy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DISMISSAL → Bairam resists, submits, is pardoned and leaves for pilgrimage",
+            "HOUSEHOLD FIELD → Maham Anaga, Adham Khan and access to the young ruler"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ATKA KHAN MURDER → Adham's execution re-centres sovereign authority",
+            "LESSON: regency enabled survival but could not become permanent kingship."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON: regency enabled survival but could not become permanent kingship.",
+      "source_references": [
+        "Bairam Khan",
+        "Wakil mutlaq",
+        "Adham Khan",
+        "Personal rule"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NOBLE AND UZBEK CHALLENGE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NOBLE AND UZBEK CHALLENGE",
+          "role": "primary"
+        },
+        {
+          "text": "OLD NOBLES",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMANDS AND JAGIRS CREATE BASES FOR BARGAINING",
+          "role": "comparison"
+        },
+        {
+          "text": "UZBEK REBELLION",
+          "role": "evidence"
+        },
+        {
+          "text": "KHAN-I-ZAMAN AND ALLIES RESIST CENTRALISING CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "MANOEUVRE, PARDON, TRANSFER AND FORCE DIVIDE THE OPPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "JUNE 1567",
+          "role": "comparison"
+        },
+        {
+          "text": "KHAN-I-ZAMAN DEFEATED; MAJOR INTERNAL ALTERNATIVE BROKEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLD NOBLES → commands and jagirs create bases for bargaining",
+        "UZBEK REBELLION → Khan-i-Zaman and allies resist centralising control",
+        "AKBAR → manoeuvre, pardon, transfer and force divide the opposition",
+        "JUNE 1567 → Khan-i-Zaman defeated; major internal alternative broken",
+        "EFFECT → mobilisation and reward become more credible for distant campaigns"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OLD NOBLES → commands and jagirs create bases for bargaining",
+            "UZBEK REBELLION → Khan-i-Zaman and allies resist centralising control"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AKBAR → manoeuvre, pardon, transfer and force divide the opposition",
+            "JUNE 1567 → Khan-i-Zaman defeated; major internal alternative broken"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EFFECT → mobilisation and reward become more credible for distant campaigns",
+            "QUALIFY: central security enabled expansion but did not abolish faction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY: central security enabled expansion but did not abolish faction.",
+      "source_references": [
+        "Uzbek rebellion",
+        "Khan-i-Zaman",
+        "Noble control"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MALWA AND GARH-KATANGA: COERCIVE LIMITS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MALWA AND GARH-KATANGA",
+          "role": "primary"
+        },
+        {
+          "text": "COERCIVE LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "BAZ BAHADUR DEFEATED; ADHAM CORRECTED; BAZ LATER ENTERS MUGHAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RANI DURGAVATI RESISTS; CONQUEST BRINGS DEATH AND PLUNDER",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPERIAL VIEW",
+          "role": "primary"
+        },
+        {
+          "text": "EXPANSION AND AGENT DISCIPLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL VIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "AGENCY AND RESOURCES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MALWA → Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service",
+        "GARH-KATANGA → Rani Durgavati resists; conquest brings death and plunder",
+        "IMPERIAL VIEW → expansion and agent discipline",
+        "REGIONAL VIEW → agency and resources",
+        "TRAP: integration joined selective accommodation to severe coercion."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "MALWA → Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service",
+          "IMPERIAL VIEW → expansion and agent discipline",
+          "TRAP: integration joined selective accommodation to severe coercion."
+        ],
+        [
+          "GARH-KATANGA → Rani Durgavati resists; conquest brings death and plunder",
+          "REGIONAL VIEW → agency and resources",
+          "MALWA → Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MALWA → Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service",
+            "GARH-KATANGA → Rani Durgavati resists; conquest brings death and plunder"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "IMPERIAL VIEW → expansion and agent discipline",
+            "REGIONAL VIEW → agency and resources"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP: integration joined selective accommodation to severe coercion.",
+            "MALWA → Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP: integration joined selective accommodation to severe coercion.",
+      "source_references": [
+        "Malwa",
+        "Baz Bahadur",
+        "Rani Durgavati",
+        "Garh-Katanga"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RAJPUT POLICY IN PHASES",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RAJPUT POLICY IN PHASES",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY ALLIES",
+          "role": "outcome"
+        },
+        {
+          "text": "AMBER BEFORE CHITTOR; SERVICE THROUGH MANSABS, OFFICE AND WATAN",
+          "role": "comparison"
+        },
+        {
+          "text": "GUJARAT PHASE",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJPUTS BECOME AN IMPERIAL ARM; AFTER 1578 PARTNERSHIP DEEPENS",
+          "role": "primary"
+        },
+        {
+          "text": "SURJAN HADA",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE WITHOUT MARRIAGE DISPROVES A MARRIAGE-ONLY EXPLANATION",
+          "role": "comparison"
+        },
+        {
+          "text": "HONOUR AND PATRONAGE SUSTAINED AN UNEQUAL POLITICAL ALLIANCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY ALLIES → Amber before Chittor; service through mansabs, office and watan",
+        "GUJARAT PHASE → Rajputs become an imperial arm; after 1578 partnership deepens",
+        "SURJAN HADA → service without marriage disproves a marriage-only explanation",
+        "LIMIT → honour and patronage sustained an unequal political alliance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "EARLY ALLIES → Amber before Chittor; service through mansabs, office and watan",
+            "GUJARAT PHASE → Rajputs become an imperial arm; after 1578 partnership deepens"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SURJAN HADA → service without marriage disproves a marriage-only explanation",
+            "LIMIT → honour and patronage sustained an unequal political alliance."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EARLY ALLIES → Amber before Chittor; service through mansabs, office and watan",
+            "GUJARAT PHASE → Rajputs become an imperial arm; after 1578 partnership deepens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → honour and patronage sustained an unequal political alliance.",
+      "source_references": [
+        "Rajput policy",
+        "Amber",
+        "Watan jagir",
+        "Surjan Hada"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CHITTOR, RANTHAMBHOR AND THE MEWAR EXCEPTION",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHITTOR, RANTHAMBHOR AND THE MEWAR EXCEPTION",
+          "role": "primary"
+        },
+        {
+          "text": "FLANK SECURITY AND ROUTES TOWARD MALWA AND GUJARAT",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGIC FORT, SYMBOLIC RESISTANCE AND MASSACRE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOST RAJAS",
+          "role": "evidence"
+        },
+        {
+          "text": "HONOUR, OFFICE AND LOCAL STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "SUBMISSION REMAINS UNRESOLVED",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCE BACKED SETTLEMENT; SETTLEMENT DID NOT ERASE REFUSAL OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAJASTHAN → flank security and routes toward Malwa and Gujarat",
+        "CHITTOR → strategic fort, symbolic resistance and massacre",
+        "RANTHAMBHOR → settlement",
+        "MOST RAJAS → honour, office and local status",
+        "MEWAR → submission remains unresolved"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAJASTHAN → flank security and routes toward Malwa and Gujarat",
+            "CHITTOR → strategic fort, symbolic resistance and massacre"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RANTHAMBHOR → settlement",
+            "MOST RAJAS → honour, office and local status"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MEWAR → submission remains unresolved",
+            "RULE: force backed settlement; settlement did not erase refusal or violence."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: force backed settlement; settlement did not erase refusal or violence.",
+      "answer_line": "force backed settlement; settlement did not erase refusal or violence.",
+      "source_references": [
+        "Chittor",
+        "Ranthambhor",
+        "Mewar",
+        "Rajput settlement"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GUJARAT AND BENGAL: CONQUEST PLUS RETENTION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GUJARAT AND BENGAL",
+          "role": "primary"
+        },
+        {
+          "text": "CONQUEST PLUS RETENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTS AND MARITIME ACCESS; 1572-73 CONQUEST FOLLOWED BY RAPID",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAYUN CONTRAST",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL COMMAND AND RETENTION ARE TREATED MORE DELIBERATELY",
+          "role": "primary"
+        },
+        {
+          "text": "AFGHAN RESISTANCE AND RIVER LOGISTICS; DAUD KHAN DEFEATED IN",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL NEEDS CONTINUING ATTENTION; CONQUEST IS NOT INSTANT PACIFICATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GUJARAT → ports and maritime access; 1572-73 conquest followed by rapid return",
+        "HUMAYUN CONTRAST → local command and retention are treated more deliberately",
+        "BIHAR-BENGAL → Afghan resistance and river logistics; Daud Khan defeated in 1576",
+        "LIMIT → Bengal needs continuing attention; conquest is not instant pacification."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "GUJARAT → ports and maritime access; 1572-73 conquest followed by rapid return",
+          "BIHAR-BENGAL → Afghan resistance and river logistics; Daud Khan defeated in 1576",
+          "GUJARAT → ports and maritime access; 1572-73 conquest followed by rapid return"
+        ],
+        [
+          "HUMAYUN CONTRAST → local command and retention are treated more deliberately",
+          "LIMIT → Bengal needs continuing attention; conquest is not instant pacification.",
+          "HUMAYUN CONTRAST → local command and retention are treated more deliberately"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GUJARAT → ports and maritime access; 1572-73 conquest followed by rapid return",
+            "HUMAYUN CONTRAST → local command and retention are treated more deliberately"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BIHAR-BENGAL → Afghan resistance and river logistics; Daud Khan defeated in 1576",
+            "LIMIT → Bengal needs continuing attention; conquest is not instant pacification."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GUJARAT → ports and maritime access; 1572-73 conquest followed by rapid return",
+            "HUMAYUN CONTRAST → local command and retention are treated more deliberately"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → Bengal needs continuing attention; conquest is not instant pacification.",
+      "source_references": [
+        "Gujarat",
+        "Rapid march",
+        "Bengal",
+        "Daud Khan"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "HALDIGHATI: COALITION AND OUTCOME",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COALITION AND OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "MAN SINGH'S MIXED FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJPUTS, BHILS AND HAKIM KHAN'S AFGHANS",
+          "role": "comparison"
+        },
+        {
+          "text": "BATTLE 1576",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL STRUGGLE OVER SUBMISSION AND REGIONAL AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "TACTICAL MUGHAL ADVANTAGE; RANA PRATAP CONTINUES RESISTANCE AND RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "MIXED COALITIONS DEFEAT A HINDU-VERSUS-MUSLIM FRAMING.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MUGHAL → Man Singh's mixed force",
+        "MEWAR → Rajputs, Bhils and Hakim Khan's Afghans",
+        "BATTLE 1576 → political struggle over submission and regional autonomy",
+        "OUTCOME → tactical Mughal advantage; Rana Pratap continues resistance and recovery",
+        "TRAP: mixed coalitions defeat a Hindu-versus-Muslim framing."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "MUGHAL → Man Singh's mixed force",
+          "BATTLE 1576 → political struggle over submission and regional autonomy",
+          "TRAP: mixed coalitions defeat a Hindu-versus-Muslim framing."
+        ],
+        [
+          "MEWAR → Rajputs, Bhils and Hakim Khan's Afghans",
+          "OUTCOME → tactical Mughal advantage; Rana Pratap continues resistance and recovery",
+          "MUGHAL → Man Singh's mixed force"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "MUGHAL → Man Singh's mixed force",
+            "MEWAR → Rajputs, Bhils and Hakim Khan's Afghans"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "BATTLE 1576 → political struggle over submission and regional autonomy",
+            "OUTCOME → tactical Mughal advantage; Rana Pratap continues resistance and recovery"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "TRAP: mixed coalitions defeat a Hindu-versus-Muslim framing.",
+            "MUGHAL → Man Singh's mixed force"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → tactical Mughal advantage; Rana Pratap continues resistance and recovery.",
+      "source_references": [
+        "Haldighati",
+        "Man Singh",
+        "Rana Pratap",
+        "Hakim Khan Sur"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REBELLION, FRONTIER AND SOURCE METHOD",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REBELLION, FRONTIER AND SOURCE METHOD",
+          "role": "evidence"
+        },
+        {
+          "text": "1580-81 REBELLION + MIRZA HAKIM",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL, NOBLE, KABUL AND PUNJAB PRESSURES",
+          "role": "comparison"
+        },
+        {
+          "text": "MOBILITY, LOYAL COMMANDERS AND A BROADER ELITE CONTAIN THE",
+          "role": "evidence"
+        },
+        {
+          "text": "ABUL FAZL",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL NARRATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "BARDIC MEMORY",
+          "role": "comparison"
+        },
+        {
+          "text": "DISSENT AND HONOUR LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1580-81 REBELLION + MIRZA HAKIM → fiscal, noble, Kabul and Punjab pressures",
+        "AKBAR → mobility, loyal commanders and a broader elite contain the crisis",
+        "ABUL FAZL → imperial narrative",
+        "BADAUNI / BARDIC MEMORY → dissent and honour limits",
+        "FATEHPUR SIKRI → material imperial centre, not proof of every policy outcome."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "1580-81 REBELLION + MIRZA HAKIM → fiscal, noble, Kabul and Punjab pressures",
+            "AKBAR → mobility, loyal commanders and a broader elite contain the crisis"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "ABUL FAZL → imperial narrative",
+            "BADAUNI / BARDIC MEMORY → dissent and honour limits"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "FATEHPUR SIKRI → material imperial centre, not proof of every policy outcome.",
+            "1580-81 REBELLION + MIRZA HAKIM → fiscal, noble, Kabul and Punjab pressures"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FATEHPUR SIKRI → material imperial centre, not proof of every policy outcome.",
+      "source_references": [
+        "1580-81 rebellion",
+        "Mirza Hakim",
+        "Abul Fazl",
+        "Fatehpur Sikri"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 15 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 15 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "AKBAR INHERITED A RESTORED BUT FRACTURED POLITICAL FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "PANIPAT II + CONTINUING AFGHAN AND FRONTIER CONTAINMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "REGENCY TRANSITION + HOUSEHOLD DISCIPLINE + UZBEK DEFEAT",
+          "role": "evidence"
+        },
+        {
+          "text": "MALWA, RAJASTHAN, GUJARAT AND BENGAL WITH VARIED MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "RAJPUT ALLIANCE AND COMPOSITE SERVICE WIDEN THE LOYALTY BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "DURABLE EMPIRE JOINED COERCION, ACCOMMODATION, MOBILITY AND RETENTION.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → Akbar inherited a restored but fractured political field",
+        "RECONQUEST → Panipat II + continuing Afghan and frontier containment",
+        "CENTRE → regency transition + household discipline + Uzbek defeat",
+        "EXPANSION → Malwa, Rajasthan, Gujarat and Bengal with varied mechanisms",
+        "INTEGRATION → Rajput alliance and composite service widen the loyalty base"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → Akbar inherited a restored but fractured political field",
+            "RECONQUEST → Panipat II + continuing Afghan and frontier containment"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CENTRE → regency transition + household discipline + Uzbek defeat",
+            "EXPANSION → Malwa, Rajasthan, Gujarat and Bengal with varied mechanisms"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "INTEGRATION → Rajput alliance and composite service widen the loyalty base",
+            "CLOSE → durable empire joined coercion, accommodation, mobility and retention."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → durable empire joined coercion, accommodation, mobility and retention.",
+      "source_references": [
+        "Answer architecture",
+        "Coercion and accommodation",
+        "Durability"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART 19",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED EVIDENCE WORKSHOPS AND COMPARATIVE DRILLS",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE CASEBOOK -- DEEPER TEACHING BEFORE FINAL REVISION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSOLIDATION & EXPANSION OF THE EMPIRE — ADVANCED",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Part 19: Advanced evidence workshops and comparative drills",
+            "Part 19: Evidence casebook -- deeper teaching before final revision",
+            "Akbar: Consolidation & Expansion of the Empire — ADVANCED",
+            "Mini-timeline"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

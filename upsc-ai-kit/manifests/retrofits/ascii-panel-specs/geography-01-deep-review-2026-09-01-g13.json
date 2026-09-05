@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_part_a_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-01",
+      "display_title": "The Earth and the Universe / India Location and Extent",
+      "active_generation": 13,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Earth in the cosmic hierarchy: origin, evidence and planetary setting",
+          "structural_type": "process-system-overview",
+          "source_references": [
+            "{'sessions': [1, 2, 3], 'sections': ['BASIC LEARNING SESSION', 'Planetary-geography rapid register'], 'markdown_lines': ['101-298', '2551-2572']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+---------------- EARTH IN THE COSMIC SYSTEM ----------------+\n| CENTRAL QUESTION: How did Earth acquire its place and traits? |\n+---------------------------------------------------------------+\n  Hot, dense early universe about 13.8 billion years ago\n                           |\n             expansion + cooling + structure\n             /             |              \\\n       redshift            CMB        light elements\n             \\             |              /\n              +------ convergent evidence ------+\n                           |\n       galaxies -> Milky Way -> Solar System -> Earth\n                           |\n rotating nebula -> disc -> accretion -> differentiated planets\n             /                                  \\\n terrestrial inner planets                 gas and ice giants\n                           |\n         LOCATION IN A SYSTEM PRECEDES EXPLANATION OF PROCESS",
+          "ascii_lines": [
+            "MUST REMEMBER: Earth-system explanation runs from universe and Solar-System scale through",
+            "  rotation, revolution, axial tilt, latitude-longitude and time to India's 8°4′N–37°6′N,",
+            "  68°7′E–97°25′E location, 82°30′E standard meridian and Indian Ocean setting."
+          ]
+        },
+        {
+          "title": "Stars, Solar-System bodies and the mass-controlled life cycle",
+          "structural_type": "classification-tree",
+          "source_references": [
+            "{'sessions': [2, 3], 'sections': ['BASIC LEARNING SESSION', 'Planetary-geography rapid register'], 'markdown_lines': ['166-298', '2554-2559']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "                         NEBULA\n                           |\n                       PROTOSTAR\n                           |\n                     MAIN SEQUENCE\n                 +---------+---------+\n                 |                   |\n             LOWER MASS           HIGHER MASS\n                 |                   |\n             red giant            supergiant\n                 |                   |\n           white dwarf             supernova\n                                     |\n                           +---------+---------+\n                           |                   |\n                      neutron star         black hole\n\nSOLAR-SYSTEM BODY FIREWALL\nasteroid = rocky body | comet = ice-rich body | meteoroid = small body\nmeteor = luminous passage in air | meteorite = fragment reaching ground\n\nMass raises fusion rate: massive stars generally burn faster and live less."
+        },
+        {
+          "title": "Earth geometry, motions and the seasonal energy sequence",
+          "structural_type": "causal-chain-with-branching",
+          "source_references": [
+            "{'sessions': [4, 5, 6], 'sections': ['BASIC LEARNING SESSION', 'Planetary-geography rapid register'], 'markdown_lines': ['299-482', '2559-2563']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+------------------ EARTH AS A MOVING GEOID ------------------+\n| Oblate spheroid: geometric form | Geoid: gravity equipotential |\n+---------------------------------------------------------------+\n                  ROTATION about axis\n                         |\n              day-night + time difference\n                         |\n             about 24 hours; west to east\n\n       REVOLUTION + 23.5 deg axial tilt from perpendicular\n                         |\n          changing solar angle and changing day length\n             /                         |                  \\\n June solstice                   equinoxes          Dec solstice\n Sun at 23.5 N                  Sun at Equator      Sun at 23.5 S\n N day maximum                 near-equal day       S day maximum\n             \\                         |                  /\n                    ANNUAL SEASONAL CYCLE\n\nDistance is not the cause: perihelion and aphelion do not create seasons."
+        },
+        {
+          "title": "Coordinates, world time and the International Date Line",
+          "structural_type": "spatial-grid-and-decision-flow",
+          "source_references": [
+            "{'sessions': [7, 8], 'sections': ['BASIC LEARNING SESSION', 'Planetary-geography rapid register'], 'markdown_lines': ['483-602', '2563-2566']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "                    COORDINATE READING GRID\n+----------------------+----------------------------------------+\n| LATITUDE             | LONGITUDE                              |\n| N or S of Equator    | E or W of Prime Meridian              |\n| parallel circles     | meridians meet at poles               |\n| controls solar angle | supplies angular basis for time       |\n+----------------------+----------------------------------------+\n                           |\n                  Earth turns 360 deg in 24 h\n                           |\n             15 deg = 1 hour | 1 deg = 4 minutes\n                           |\n                    EAST IS AHEAD IN TIME\n                           |\n             local time -> zone standard -> UTC offset\n                           |\n             International Date Line near 180 deg\n                 /                             \\\n cross westward: add one day       cross eastward: subtract one day\n\nA great circle has Earth's centre in its plane and gives the shortest route."
+        },
+        {
+          "title": "Magnetosphere and Earth interior: two evidence-based cross-sections",
+          "structural_type": "paired-cross-section",
+          "source_references": [
+            "{'sessions': [9, 10], 'sections': ['BASIC LEARNING SESSION', 'Planetary-geography rapid register'], 'markdown_lines': ['603-756', '2566-2571']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "SOLAR-TERRESTRIAL SECTION          EARTH-INTERIOR SECTION\nSun / CME                          crust\n    |                               |\nsolar wind                      Moho boundary\n    |                               |\nmagnetosphere                  solid mantle\n    |                               |\nreconnection                  Gutenberg boundary\n    |                               |\npolar particle paths          liquid outer core\n    |                          S waves stop; P waves refract\noxygen and nitrogen                |\n    |                         Lehmann boundary\nAURORAL LIGHT                 solid inner core\n\nEvidence converges:\nsolar particles + magnetic guidance + gas excitation -> aurora\nP-wave refraction + S-wave absence + shadow zones -> layered core\n\nDo not call the whole core liquid; the outer core is liquid, inner core solid."
+        },
+        {
+          "title": "India's coordinate frame, Tropic of Cancer and IST derivation",
+          "structural_type": "india-spatial-hierarchy",
+          "source_references": [
+            "{'sessions': [11, 12, 13, 14, 15, 16], 'sections': ['BASIC LEARNING SESSION', 'India Location and Extent rapid register'], 'markdown_lines': ['757-1115', '2573-2583']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+---------------- INDIA: ABSOLUTE FRAME ----------------+\n| Mainland latitude : 8 deg 4 N to 37 deg 6 N           |\n| Mainland longitude: 68 deg 7 E to 97 deg 25 E         |\n| N-S 3,214 km | E-W 2,933 km | area 3,287,263 sq km    |\n+--------------------------------------------------------+\n                         |\nTROPIC OF CANCER: 23.5 deg N across eight states, west to east\nGujarat -> Rajasthan -> Madhya Pradesh -> Chhattisgarh\n        -> Jharkhand -> West Bengal -> Tripura -> Mizoram\n                         |\nSTANDARD MERIDIAN: 82 deg 30 E, through Mirzapur\n82.5 x 4 minutes = 330 minutes = UTC + 5:30 = IST\n                         |\nLONGITUDINAL SPAN: 29 deg 18 min x 4 = about 117 minutes\n                         |\n       eastern local noon precedes western local noon\n\nOne civil time creates coordination; it does not erase solar-time difference."
+        },
+        {
+          "title": "India's oceanic situation, neighbours, coasts and island extensions",
+          "structural_type": "regional-map-and-comparison",
+          "source_references": [
+            "{'sessions': [16, 17, 18, 19, 20, 21], 'sections': ['BASIC LEARNING SESSION', 'India Location and Extent rapid register'], 'markdown_lines': ['1056-1405', '2580-2588']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "                          HIMALAYA\n          land neighbours + passes + climatic filtering\n                             |\nARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL\n western routes        northern Indian Ocean       eastern routes\n      |                         |                         |\nLakshadweep             Indian Ocean south      Andaman-Nicobar\ncoral atolls             route centrality       tectonic island arc\n                                                    |\n                              Ten Degree Channel: Andaman / Nicobar\n                                                    |\n                                             Andaman Sea to east\n\nLAND NEIGHBOURS: Pakistan, Afghanistan, China, Nepal, Bhutan,\n                 Bangladesh and Myanmar\nMARITIME NEIGHBOURS: Sri Lanka and Maldives\n\nLand border: 15,106.7 km | 2025 revised coastline: 11,098.81 km\nRevised measurement reflects GIS and high-water-line detail, not new territory."
+        },
+        {
+          "title": "Map-answer and Mains spine for India's locational significance",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": [
+            "{'sessions': [18, 19, 21, 22, 23, 24], 'sections': ['PYQS AND ANSWER PRACTICE', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['1178-1599', '2596-2670']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "QUESTION: Why is India's location significant without being deterministic?\n                             |\n1. DEFINE SCALE: Asian subdivision with continental size and diversity\n                             |\n2. DRAW MAP: Himalaya | peninsula | Arabian Sea | Bay | islands | routes\n                             |\n3. ADD EVIDENCE\n   coordinates -> Tropic -> IST -> coast -> neighbours -> island extensions\n                             |\n4. EXPLAIN MECHANISMS\n   latitude -> solar regime | mountains -> selective filter\n   ocean position -> trade, monsoon, ecology and security connections\n                             |\n5. QUALIFY\n   centrality does not equal control; borders and routes require safe mapping\n                             |\n6. VERDICT\n   location supplies opportunities and constraints;\n   connectivity, institutions and stewardship convert them into outcomes\n\nMAP RULE: schematic, not to scale, claim-relevant labels, no improvised borders."
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Evidence units available in this file",
+            "3. the atmosphere. Evidence: the aurora forms an oval centred on the...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. synthesis [LIMIT] scope, dating or cartographic caution.",
+            "2. Causal method Initial condition -> energy/force or driver ->...",
+            "3. [LIMIT] Maps below are schematic/not to scale and do not depict or...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTION: Rotation causes the diurnal cycle and Coriolis framework, revolution plus",
+            "  axial tilt causes seasons; local solar time is longitude-based while IST is a legal",
+            "  standard, and the Tropic of Cancer is not India's climatic divide by itself."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Learner-v2 generation g2 Part A - Physical Geography Prelims GS-I +...",
+            "2. Practice contract Every solved item has demand decoding, a detailed...",
+            "3. Classification: CORE PRELIMS + CORE MAINS",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "EVIDENCE LIMIT: Astronomical models, boundary lengths and current administrative counts",
+            "  require source/date discipline; location creates opportunities and constraints but does not",
+            "  mechanically determine monsoon, trade or strategy."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Evidence units available in this file",
+            "3. the atmosphere. Evidence: the aurora forms an oval centred on the...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g13\\geography-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

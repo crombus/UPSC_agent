@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-08",
+      "display_title": "The Rig Vedic Age (Early Vedic)",
+      "active_generation": 13,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Rig Veda as source and chronological spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FAMILY BOOKS (2-7) -> OTHER LAYERS (1, 8, 9, 10) -> REDACTION/ORAL PRESERVATION",
+            "earlier core trends     varied/later material      disciplined transmission",
+            "          |                         |                          |",
+            "          +-------------------------+--------------------------+",
+            "                                    v",
+            "Working early Vedic horizon: broadly c. 1500-1000 BCE, not a date for every hymn.",
+            "Text gives a poetic-ritual world; frequency and silence are not census data."
+          ],
+          "source_references": [
+            "SESSION 1 - THE RIG VEDA: CORPUS, COMPOSITION, LAYERS",
+            "SESSION 2 - RELATIVE CHRONOLOGY",
+            "SESSION 21 - CORPUS, LAYERS AND A WORKING CHRONOLOGY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Sapta-Sindhu textual geography",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "                    NORTH-WESTERN MILIEU",
+            "Kabul/Kubha ---- Indus/Sindhu ---- Punjab rivers ---- Sarasvati/Drishadvati zone",
+            " mountain routes       trunk river       pastoral/farming      eastern attention",
+            "                           |",
+            "                           v",
+            "Rivers organise praise, movement, pasture and conflict; geography is selective.",
+            "Ganga is marginal in this horizon; later Vedic expansion shifts the centre east.",
+            "Do not turn remembered rivers into precise political borders."
+          ],
+          "source_references": [
+            "SESSION 3 - GEOGRAPHICAL SETTING",
+            "SESSION 22 - GEOGRAPHY AS A NORTH-WESTERN TEXTUAL MILIEU",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Kin polity: authority without territorial state",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "KULA -> GRAMA -> VIS -> JANA",
+            "                    |",
+            "                    v",
+            "RAJAN: war leadership, protection, distribution and ritual status; not absolute monarch",
+            " |-- sabha: smaller/select assembly context | samiti: broader assembly",
+            " |-- purohita: adviser | senani: martial role | gramani: group leader",
+            " +-> bali: offering/tribute, not a regular land-revenue bureaucracy",
+            "Power rested on kin support, cattle, gifts, assemblies and successful leadership."
+          ],
+          "source_references": [
+            "SESSION 4 - POLITICAL ORGANISATION",
+            "SESSION 5 - ASSEMBLIES, OFFICIALS, BALI",
+            "SESSION 23 - KINSHIP, RAJAN AND ASSEMBLIES",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Cattle-agriculture economy loop",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PASTURE + WATER -> CATTLE WEALTH -> dairy, traction, gifts, status and conflict",
+            "                         |",
+            "                         v",
+            "mixed farming: barley/yava + cultivation + crafts + exchange + household production",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "mobility and raiding              settlement and seasonal cropping",
+            "          +--------------+--------------+",
+            "                         v",
+            "Pastoral predominance does not mean absence of agriculture or exchange."
+          ],
+          "source_references": [
+            "SESSION 7 - ECONOMY: CATTLE WEALTH",
+            "SESSION 8 - AGRICULTURE, WATER, CRAFTS, EXCHANGE",
+            "SESSION 24 - THE CATTLE-AGRICULTURE ECONOMY LOOP",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Society: kinship, difference and projection limits",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "HOUSEHOLD/KIN ORDER",
+            "       |",
+            " +-----+---------+----------+----------+",
+            " |               |          |          |",
+            "patrilineal   marriage   patron-client dasa/dasyu  status groups",
+            "tendency      alliances   gift ties    varied terms priests/warriors/commoners",
+            " +-----+---------+----------+----------+",
+            "                       |",
+            "                       v",
+            "Purusha Sukta is late in the corpus; later jati cannot be back-projected."
+          ],
+          "source_references": [
+            "SESSION 9 - SOCIETY: HOUSEHOLD, KINSHIP, FAMILY",
+            "SESSION 10 - SOCIAL DIFFERENTIATION, DASA/DASYU AND EARLY VARNA",
+            "SESSION 25 - SOCIAL DIFFERENTIATION WITHOUT LATER CASTE PROJECTION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Deities, rita, yajna and soma",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "RITA: ordered truth and cosmic-social regularity",
+            "          |",
+            "          v",
+            "DEITIES: Indra-war/rain | Agni-fire/mediator | Varuna-order | Soma-plant/deity",
+            "          |",
+            "          v",
+            "YAJNA: praise + offering + priestly speech -> protection, cattle and victory",
+            "          |",
+            "          v",
+            "Religion links ecology, warfare, gift economy and order; temples are not central."
+          ],
+          "source_references": [
+            "SESSION 11 - RELIGION: DEITY MATRIX",
+            "SESSION 12 - RITA, YAJNA, SOMA",
+            "SESSION 13 - FUNERARY IDEAS",
+            "SESSION 26 - DEITIES, RITA, YAJNA AND SOMA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Conflict, technology and cultural interaction",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "horse/chariot + bows/weapons + mobile war bands",
+            "                         |",
+            "                         v",
+            "cattle raids + route/pasture contests + Dasharajna coalition conflict",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "leadership and prestige           contact and incorporation",
+            "          +--------------+--------------+",
+            "                         v",
+            "Textual chariot terms matter; archaeological correlation remains independent."
+          ],
+          "source_references": [
+            "SESSION 6 - WARFARE, DASHARAJNA",
+            "SESSION 14 - MATERIAL CULTURE: HORSE, CHARIOT, WEAPONS",
+            "SESSION 15 - CONFLICT, MOBILITY, INTERACTION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Early to Later Vedic transformation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "EARLY VEDIC                         LATER VEDIC",
+            "north-west/Sapta-Sindhu             upper Ganga-Yamuna and eastward movement",
+            "jana and kin leadership             janapada, stronger monarchy and ratnins",
+            "cattle-centred mixed economy        plough agriculture, surplus and crafts",
+            "fluid differentiation               firmer varna/patriarchy and gotra",
+            "deity praise and yajna              royal ritual and Upanishadic questioning",
+            "VERDICT: cumulative transformation with regional variation, not abrupt rupture."
+          ],
+          "source_references": [
+            "SESSION 16 - HARAPPAN, POST-HARAPPAN AND RIGVEDIC COMPARISON",
+            "SESSION 17 - EARLY VERSUS LATER VEDIC",
+            "SESSION 18 - HISTORIOGRAPHICAL INTERPRETATIONS",
+            "SESSION 27 - EARLY-TO-LATER VEDIC CHANGE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Rig Vedic answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: source caution -> institution/economy -> hymn term -> qualification",
+            "15 MARKS: geography -> polity -> economy -> society -> religion -> archaeology caution",
+            "20 MARKS: corpus/layers -> Sapta-Sindhu -> kin system -> cattle-agriculture loop",
+            "          -> differentiation -> ritual worldview -> conflict/contact -> transition",
+            "AVOID: nomad-only, caste-complete, state/empire or homogeneous-date claims.",
+            "CLOSE: a layered pastoral-agricultural kin society undergoing differentiation."
+          ],
+          "source_references": [
+            "SESSION 18 - HISTORIOGRAPHICAL INTERPRETATIONS AND SOURCE CRITICISM",
+            "SESSION 20 - TERMINOLOGY BANK AND RAPID DISTINCTIONS",
+            "SESSION 27 - EARLY-TO-LATER VEDIC CHANGE AND THE ANSWER SPINE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Claim Named evidence Significance Limitation",
+            "3. Assess the usefulness and limits of the Rig Veda as a source for...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Evidence discipline: no current-affairs claim is forced into this...",
+            "2. Contested issues Competing interpretations are attributed, evidenced...",
+            "3. Inscription and coin evidence: contemporary names, titles, claims and...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Basic completeness: substantive owner material is retained in a...",
+            "2. Original solved 10-mark Mains 2",
+            "3. Original solved 15-mark Mains 2",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded..."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g13\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

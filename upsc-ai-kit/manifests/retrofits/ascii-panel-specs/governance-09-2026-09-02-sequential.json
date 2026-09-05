@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Governance learner-v2 Topic 09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-09",
+      "display_title": "Civil Services and Mission Karmayogi",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Governance\\09_Civil-Services-and-Mission-Karmayogi_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three designed traits, one package",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "NEUTRALITY -> impartial service to any elected government; not the absence of policy influence",
+            "PERMANENCE -> continuity and institutional memory across changes of political government",
+            "ANONYMITY -> confidential advice; the minister answers publicly for the policy outcome",
+            "RULE -> the three were designed together; weakening one destabilises the other two"
+          ],
+          "source_references": [
+            "Civil services as a structurally distinctive democratic institution"
+          ]
+        },
+        {
+          "title": "Neutrality: what it is and what it is not",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "IS -> impartial implementation of lawful policy irrespective of personal preference",
+            "IS -> the reason the same officer can serve successive, ideologically different governments",
+            "IS NOT -> silence, passivity or the absence of technical and expert policy advice",
+            "IS NOT -> loyalty to the government of the day rather than to the Constitution"
+          ],
+          "source_references": [
+            "Political neutrality as impartiality rather than passivity"
+          ]
+        },
+        {
+          "title": "Constitutional setting card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "ARTICLES 309 TO 311 -> recruitment, service conditions, pleasure doctrine, dismissal safeguards",
+            "ARTICLE 312 -> Parliament may create an All India Service after the Rajya Sabha resolution",
+            "GOVERNANCE USE -> tenure protection is the legal basis on which neutrality rests",
+            "BOUNDARY -> commission composition, appointment and removal detail is Polity-owned"
+          ],
+          "source_references": [
+            "The constitutional setting of Articles 309 to 312"
+          ]
+        },
+        {
+          "title": "Three layers of civil-service legitimacy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STRUCTURAL -> neutrality, permanence and anonymity built into the design",
+            "PROCEDURAL -> conduct rules, vigilance machinery, disciplinary process, appraisal",
+            "PERCEPTUAL -> sustained public belief that unelected discretion is exercised impartially",
+            "CLAIM -> the first two can be formally sound while the third erodes independently"
+          ],
+          "source_references": [
+            "Perceptual legitimacy as a variable distinct from structure and procedure"
+          ]
+        },
+        {
+          "title": "Six pillars of the capacity programme",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "1 POLICY FRAMEWORK -> the reform intent and its stated shift to role-based learning",
+            "2 INSTITUTIONAL FRAMEWORK -> including the Capacity Building Commission",
+            "3 COMPETENCY FRAMEWORK -> behavioural, functional and domain competencies mapped to roles",
+            "4 DIGITAL LEARNING FRAMEWORK -> the online platform that delivers modules at scale",
+            "5 ELECTRONIC HUMAN-RESOURCE MANAGEMENT -> the personnel data spine of the reform",
+            "6 MONITORING AND EVALUATION -> the pillar on which the verdict must ultimately rest"
+          ],
+          "source_references": [
+            "The six-pillar design of the national programme"
+          ]
+        },
+        {
+          "title": "Institutional chain in four tiers",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "APEX GUIDANCE -> Prime Minister's Human Resources Council",
+            "COORDINATION -> Cabinet Secretariat Coordination Unit",
+            "STANDARDS AND PLANS -> Capacity Building Commission, Annual Capacity Building Plans",
+            "PLATFORM OPERATION -> Karmayogi Bharat, the government-owned special purpose vehicle",
+            "TRAP -> the Commission sets standards; it does not operate the platform"
+          ],
+          "source_references": [
+            "The four-tier institutional chain"
+          ]
+        },
+        {
+          "title": "Dated capacity anchors",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "CABINET APPROVAL -> 2 September 2020, Ministry of Personnel, Public Grievances and Pensions",
+            "COMMISSION ESTABLISHED -> 1 April 2021, stated on the Commission's official website",
+            "OFFICIAL PAGE READ -> 2 September 2026; repository status re-verified 13 August 2026",
+            "INSTRUMENTS -> Annual Capacity Building Plans and the Karmayogi Competency Model"
+          ],
+          "source_references": [
+            "The Capacity Building Commission and its dated establishment"
+          ]
+        },
+        {
+          "title": "Output against outcome",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "OUTPUT -> enrolment, course counts, completions, certificates on a live dashboard",
+            "OUTCOME -> competency-to-post fit and trained behaviour visible in work products",
+            "OUTCOME -> service timelines, grievance recurrence, appeal outcomes, tenure stability",
+            "DISCIPLINE -> no platform total is asserted anywhere; the number changes daily"
+          ],
+          "source_references": [
+            "Platform outputs against workplace outcomes"
+          ]
+        },
+        {
+          "title": "Generalist, specialist and lateral entry",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GENERALIST -> breadth for coordination across sectors and levels of government",
+            "SPECIALIST -> depth for technology, finance and climate policy complexity",
+            "LATERAL ENTRY -> bounded, periodic recruitment at Joint Secretary, Director, Deputy Secretary",
+            "LIMIT -> shorter contractual tenure and weaker socialisation into permanent-service norms"
+          ],
+          "source_references": [
+            "Generalist, specialist and bounded lateral entry"
+          ]
+        },
+        {
+          "title": "How neutrality erodes",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "UNCONSTRAINED POSTING AND TRANSFER DISCRETION",
+            "-> officers anticipate the political executive's preference before advice is asked for",
+            "-> permanence protects the office, not the post: displacement is easier than dismissal",
+            "-> anonymity turns asymmetric: public blame in controversy, invisibility in achievement",
+            "-> perceived partiality erodes the legitimacy of unelected discretionary power"
+          ],
+          "source_references": [
+            "How neutrality erodes and what protects it"
+          ]
+        },
+        {
+          "title": "Reform conflict ladder",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "FIXED MINIMUM TENURE -> repairs arbitrary transfer; can entrench a poor performer",
+            "PERFORMANCE ACCOUNTABILITY -> repairs non-performance; can become a political lever",
+            "LATERAL ENTRY -> repairs domain deficit; raises representation and memory questions",
+            "CONTRACTUAL MISSION-MODE STAFFING -> buys speed; weakens tenure and neutrality guarantees"
+          ],
+          "source_references": [
+            "Judging capacity claims and stating reform conflicts honestly"
+          ]
+        },
+        {
+          "title": "Answer spine for a civil-services demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the function being tested rather than listing duties of the service",
+            "BUILD -> the three-trait package, then the legitimacy layer the stem actually engages",
+            "CORRECT -> pair every reform with the risk it buys and the protection that reconciles it",
+            "CLOSE -> graded verdict, outcome indicators instead of dashboard totals, stated ownership"
+          ],
+          "source_references": [
+            "Judging capacity claims and stating reform conflicts honestly"
+          ]
+        }
+      ]
+    }
+  ]
+}

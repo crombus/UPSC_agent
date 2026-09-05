@@ -1,0 +1,423 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-28",
+  "scope": "Political Theory subject-wide syllabus topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-01",
+      "title": "Nature and Significance of Political Theory",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-01_Learning-Session.md",
+      "source_record": "political-theory-01:learner-v2:g3",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "The Field, Its Scope and Its Exam Significance",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Field, Its Scope and Its Exam Significance",
+            "  [1] This chapter gives the module's basic vocabulary: what counts as political, what a",
+            "      theory is, and why political theory includes both factual explanation and.",
+            "        |",
+            "        v",
+            "  [2] Gauba treats political science and political philosophy as complementary, not rival,",
+            "      components of political theory; this is the base for later files on ideology.",
+            "        |",
+            "        v",
+            "  [3] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to",
+            "      moral sermon, or reducing it to data without a judgment on ends.",
+            "        |",
+            "        v",
+            "  [4] The significance of political theory lies in control of social life, social",
+            "      criticism and reconstruction, clarification of concepts, and encouragement to",
+            "      mutual.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The Field, Its Scope and Its Exam Significance is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Essential Vocabulary of Political Inquiry",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Essential Vocabulary of Political Inquiry",
+            "  [1] This chapter gives the module's basic vocabulary: what counts as political, what a",
+            "      theory is, and why political theory includes both factual explanation and.",
+            "        |",
+            "        v",
+            "  [2] Positivists and behaviouralists try to restrict valid knowledge to empirical and",
+            "      logical statements, but Gauba rejects the move to expel evaluative inquiry from.",
+            "        |",
+            "        v",
+            "  [3] Dante Germino identified revival with the recovery of political philosophy itself —",
+            "      critical inquiry into right political order, distinct both from reductionist.",
+            "        |",
+            "        v",
+            "  [4] Gauba treats political science and political philosophy as complementary, not rival,",
+            "      components of political theory; this is the base for later files on ideology.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Essential Vocabulary of Political Inquiry is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "The Facts-Logic-Values Argument",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Facts-Logic-Values Argument",
+            "  [1] Gauba begins by defining the political as the public sphere of rule-making,",
+            "      authoritative decision and regulation for the whole community (Gauba, PDF pp.15-16).",
+            "        |",
+            "        v",
+            "  [2] He then defines political theory as systematic knowledge and distinguishes",
+            "      empirical, logical and evaluative statements within that knowledge (Gauba, PDF",
+            "      p.16).",
+            "        |",
+            "        v",
+            "  [3] Positivists and behaviouralists try to restrict valid knowledge to empirical and",
+            "      logical statements, but Gauba rejects the move to expel evaluative inquiry from.",
+            "        |",
+            "        v",
+            "  [4] Political theory must therefore include both political science and political",
+            "      philosophy: science explains political reality, while philosophy asks what goals",
+            "      and.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The Facts-Logic-Values Argument is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Science, Philosophy, Theory and Ideology",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Science, Philosophy, Theory and Ideology",
+            "  [1] Gauba treats political science and political philosophy as complementary, not rival,",
+            "      components of political theory; this is the base for later files on ideology.",
+            "        |",
+            "        v",
+            "  [2] Political theory must therefore include both political science and political",
+            "      philosophy: science explains political reality, while philosophy asks what goals",
+            "      and.",
+            "        |",
+            "        v",
+            "  [3] Political science relies on observation, generalization and explanation; political",
+            "      philosophy seeks justification and concept-clarification (Gauba, PDF pp.18-20).",
+            "        |",
+            "        v",
+            "  [4] Theory must include both science and philosophy because public policy needs facts",
+            "      and values together (Gauba, PDF pp.17-18).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Science, Philosophy, Theory and Ideology is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Thinkers, Positions and Illustrative Applications",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Thinkers, Positions and Illustrative Applications",
+            "  [1] A question such as \"why do riots occur?\" belongs to political science when it seeks",
+            "      causal explanation through observation and generalization (Gauba, PDF pp.18-19.",
+            "        |",
+            "        v",
+            "  [2] A question such as \"what is a good society?\" belongs to political philosophy because",
+            "      it asks about ends, justification and value (Gauba, PDF p.17).",
+            "        |",
+            "        v",
+            "  [3] Clarifying whether \"freedom\" means non-interference, self-development or something",
+            "      else is part of political philosophy's concept-clarifying role (Gauba, PDF pp.19.",
+            "        |",
+            "        v",
+            "  [4] Gauba warns that vague political language allows demagogues and autocrats to exploit",
+            "      words like liberty, equality and democracy for emotional manipulation or.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Thinkers, Positions and Illustrative Applications is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Comparison Matrix and UPSC Trap Repair",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Comparison Matrix and UPSC Trap Repair",
+            "  [1] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to",
+            "      moral sermon, or reducing it to data without a judgment on ends.",
+            "        |",
+            "        v",
+            "  [2] This chapter gives the module's basic vocabulary: what counts as political, what a",
+            "      theory is, and why political theory includes both factual explanation and.",
+            "        |",
+            "        v",
+            "  [3] Gauba treats political science and political philosophy as complementary, not rival,",
+            "      components of political theory; this is the base for later files on ideology.",
+            "        |",
+            "        v",
+            "  [4] Gauba begins by defining the political as the public sphere of rule-making,",
+            "      authoritative decision and regulation for the whole community (Gauba, PDF pp.15-16).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Comparison Matrix and UPSC Trap Repair is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Ownership Boundaries and the Revision Spine",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Ownership Boundaries and the Revision Spine",
+            "  [1] Political means the public/common sphere of authoritative collective regulation",
+            "      (Gauba, PDF pp.15-16).",
+            "        |",
+            "        v",
+            "  [2] The chapter's three statement-types are empirical, logical and evaluative (Gauba,",
+            "      PDF p.16).",
+            "        |",
+            "        v",
+            "  [3] Political science relies on observation, generalization and explanation; political",
+            "      philosophy seeks justification and concept-clarification (Gauba, PDF pp.18-20).",
+            "        |",
+            "        v",
+            "  [4] Theory must include both science and philosophy because public policy needs facts",
+            "      and values together (Gauba, PDF pp.17-18).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Ownership Boundaries and the Revision Spine is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "The Decline and Revival Debate",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Decline and Revival Debate",
+            "  [1] Alfred Cobban described a decline of political theory under both capitalist and",
+            "      communist systems in the mid-twentieth century, yet still insisted that politics.",
+            "        |",
+            "        v",
+            "  [2] David Easton's 1953 complaint held that traditional political theory was",
+            "      speculative, tied to classical texts and the history of ideas, had produced no",
+            "      outstanding.",
+            "        |",
+            "        v",
+            "  [3] Easton's own 1969 post-behavioural turn makes the distinction explicit from inside",
+            "      the behavioural camp itself: he called on political science to become practically.",
+            "        |",
+            "        v",
+            "  [4] Leo Strauss argued that a positivist political science modelled on natural science",
+            "      ignored normative questions altogether and flattened qualitative distinctions.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The Decline and Revival Debate is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Qualified Thesis and Directive-Specific Architecture",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Qualified Thesis and Directive-Specific Architecture",
+            "  [1] Premises: (a) the political is the public/common sphere of authoritative rule",
+            "      (Gauba, PDF pp.15-16); (b) knowledge divides into empirical, logical and evaluative.",
+            "        |",
+            "        v",
+            "  [2] Mechanism: political life generates factual questions (\"why do riots occur?\") and",
+            "      value questions (\"what is a good society?\") simultaneously; a theory that excludes.",
+            "        |",
+            "        v",
+            "  [3] Conclusion: political theory as a whole must integrate both components; its",
+            "      significance lies in control of social life, social criticism/reconstruction.",
+            "        |",
+            "        v",
+            "  [4] The debate operates on two levels at once: a methodological dispute over what counts",
+            "      as valid evidence (Easton 1953 vs Strauss/Germino), and a civilizational.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Qualified Thesis and Directive-Specific Architecture is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+            "  [1] When an Indian governance debate is framed only in output/efficiency terms (coverage",
+            "      numbers, disbursement speed), the science/explanation vs.",
+            "        |",
+            "        v",
+            "  [2] Similarly, when a policy is defended purely as \"the will of an elected majority,\"",
+            "      the political-philosophy component asks whether that will still respects rights.",
+            "        |",
+            "        v",
+            "  [3] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to",
+            "      moral sermon, or reducing it to data without a judgment on ends.",
+            "        |",
+            "        v",
+            "  [4] The debate operates on two levels at once: a methodological dispute over what counts",
+            "      as valid evidence (Easton 1953 vs Strauss/Germino), and a civilizational.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Evidence, Objections, Indian Application and Mark-Scaled Answers is best",
+            "             presented through its central claim, causal logic, strongest limit and qualified",
+            "             verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] This chapter gives the module's basic vocabulary: what counts as political, what a",
+            "      theory is, and why political theory includes both factual explanation and.",
+            "        |",
+            "        v",
+            "  [2] Gauba treats political science and political philosophy as complementary, not rival,",
+            "      components of political theory; this is the base for later files on ideology.",
+            "        |",
+            "        v",
+            "  [3] In UPSC and PSIR answers, this topic prevents two common errors: reducing theory to",
+            "      moral sermon, or reducing it to data without a judgment on ends.",
+            "        |",
+            "        v",
+            "  [4] Gauba begins by defining the political as the public sphere of rule-making,",
+            "      authoritative decision and regulation for the whole community (Gauba, PDF pp.15-16).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] A strong answer can therefore use data to explain unemployment, but it still needs a",
+            "      philosophical yardstick to judge whether a given policy is fair, free or humane.",
+            "        |",
+            "        v",
+            "  [2] One-line answer spine: political theory is the systematic study of political life",
+            "      that explains reality through science and judges goals through philosophy.",
+            "        |",
+            "        v",
+            "  [3] This chapter gives the module's basic vocabulary: what counts as political, what a",
+            "      theory is, and why political theory includes both factual explanation and.",
+            "        |",
+            "        v",
+            "  [4] Gauba treats political science and political philosophy as complementary, not rival,",
+            "      components of political theory; this is the base for later files on ideology.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

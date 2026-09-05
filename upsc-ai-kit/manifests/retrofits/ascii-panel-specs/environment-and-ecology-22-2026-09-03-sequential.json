@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 22",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-22",
+      "display_title": "Multilateral Environmental Conventions (CBD, Basel, Stockholm, Montreal)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-22_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Convention scope compass",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CBD -> biodiversity conservation use and benefit-sharing",
+            "BASEL -> transboundary waste movement and disposal",
+            "STOCKHOLM -> persistent organic pollutant controls",
+            "VIENNA MONTREAL -> ozone-layer substance regime",
+            "RULE -> environmental object determines the mechanism"
+          ],
+          "source_references": [
+            "Treaty-scope map"
+          ]
+        },
+        {
+          "title": "Treaty legal-status ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ADOPTION -> text agreed",
+            "SIGNATURE -> authentication where applicable",
+            "RATIFICATION OR ACCESSION -> consent to be bound",
+            "ENTRY INTO FORCE -> operative under treaty conditions",
+            "DOMESTIC IMPLEMENTATION -> separate national legal step"
+          ],
+          "source_references": [
+            "Treaty-status sequence",
+            "Decision-obligation boundary"
+          ]
+        },
+        {
+          "title": "CBD family tree",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CBD -> parent biodiversity convention",
+            "OBJECTIVE 1 -> conservation",
+            "OBJECTIVE 2 -> sustainable use",
+            "OBJECTIVE 3 -> fair and equitable benefit-sharing",
+            "PROTOCOLS -> Cartagena biosafety and Nagoya ABS"
+          ],
+          "source_references": [
+            "CBD three objectives",
+            "CBD convention-protocol boundary"
+          ]
+        },
+        {
+          "title": "CBD protocol firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CARTAGENA -> living modified organisms and biosafety",
+            "NAGOYA -> genetic-resource access and benefit-sharing",
+            "AIA OR TRANSBOUNDARY PROCEDURE -> Cartagena context",
+            "PIC AND MUTUALLY AGREED TERMS -> Nagoya context",
+            "STATUS -> participation checked separately for each protocol"
+          ],
+          "source_references": [
+            "Cartagena biosafety pathway",
+            "Nagoya ABS pathway"
+          ]
+        },
+        {
+          "title": "CBD delivery chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONVENTION OBJECTIVES -> permanent treaty frame",
+            "COP FRAMEWORK OR DECISION -> collective direction",
+            "NATIONAL STRATEGY AND LAW -> domestic translation",
+            "FINANCE AND IMPLEMENTATION -> activity evidence",
+            "ECOLOGICAL OUTCOME -> separate measured result"
+          ],
+          "source_references": [
+            "CBD COP framework boundary"
+          ]
+        },
+        {
+          "title": "Basel movement-control rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WASTE CLASSIFICATION -> annex and national rule",
+            "EXPORT NOTIFICATION -> proposed movement disclosed",
+            "PRIOR INFORMED CONSENT -> importing state decision",
+            "MOVEMENT AND DISPOSAL -> environmentally sound management",
+            "BAN AMENDMENT -> separate stronger legal layer"
+          ],
+          "source_references": [
+            "Basel PIC mechanism",
+            "Basel Ban Amendment boundary",
+            "Basel waste-listing boundary"
+          ]
+        },
+        {
+          "title": "BRS cluster matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BASEL -> waste movement",
+            "ROTTERDAM -> listed chemical and pesticide trade",
+            "STOCKHOLM -> POP production use release and disposal controls",
+            "JOINT ADMINISTRATION -> operational coordination",
+            "NO MERGER -> three treaty objects and obligations remain distinct"
+          ],
+          "source_references": [
+            "Rotterdam cluster distinction",
+            "Treaty-scope map"
+          ]
+        },
+        {
+          "title": "POPs classification board",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PERSISTENCE -> resists degradation",
+            "BIOACCUMULATION -> builds in organisms and food webs",
+            "ADVERSE EFFECTS -> human or ecological harm",
+            "LONG RANGE TRANSPORT -> crosses boundaries",
+            "LISTING -> scientific review plus COP decision"
+          ],
+          "source_references": [
+            "Stockholm POP identity",
+            "POPRC-to-COP sequence"
+          ]
+        },
+        {
+          "title": "Stockholm annex map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANNEX A -> elimination",
+            "ANNEX B -> restriction",
+            "ANNEX C -> unintentional production",
+            "EXEMPTION OR ACCEPTABLE PURPOSE -> treaty-specific condition",
+            "DATE RULE -> current placement needs official list"
+          ],
+          "source_references": [
+            "Stockholm annex functions"
+          ]
+        },
+        {
+          "title": "POPRC decision sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "NOMINATION -> chemical proposed",
+            "SCREENING -> treaty criteria examined",
+            "RISK PROFILE AND EVALUATION -> scientific review",
+            "POPRC RECOMMENDATION -> advice, not final listing",
+            "COP DECISION -> legal listing step subject to treaty rules"
+          ],
+          "source_references": [
+            "POPRC-to-COP sequence",
+            "Decision-obligation boundary"
+          ]
+        },
+        {
+          "title": "Ozone treaty hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "VIENNA CONVENTION -> framework cooperation",
+            "MONTREAL PROTOCOL -> operative substance controls",
+            "SCHEDULES -> production and consumption phase-out",
+            "MULTILATERAL FUND -> developing-country implementation support",
+            "KIGALI -> HFC phase-down for climate impact"
+          ],
+          "source_references": [
+            "Vienna-Montreal hierarchy",
+            "Montreal control object",
+            "Kigali HFC boundary",
+            "Montreal implementation support"
+          ]
+        },
+        {
+          "title": "Convention answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDENTIFY -> treaty environmental object",
+            "PLACE -> convention protocol amendment or COP decision",
+            "TRACE -> consent listing schedule finance and national law",
+            "DISTINGUISH -> proposal adoption entry into force and outcome",
+            "VERIFY -> current party listing obligation and fund status"
+          ],
+          "source_references": [
+            "Decision-obligation boundary",
+            "Current evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

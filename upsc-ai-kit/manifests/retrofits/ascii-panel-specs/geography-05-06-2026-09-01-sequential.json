@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topics 05-06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-05",
+      "display_title": "Landforms by Running Water / India Drainage and Interlinking",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\05_India-Drainage-and-Interlinking_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Basin anatomy",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RIDGELINE -> watershed / drainage divide",
+            "SLOPES -> runoff enters tributaries",
+            "TRIBUTARIES -> trunk stream -> outlet",
+            "BASIN RULE -> upstream change travels downstream"
+          ],
+          "source_references": [
+            "Basin, divide and channel network"
+          ]
+        },
+        {
+          "title": "River-work engine",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ENERGY + DISCHARGE -> erosion capacity",
+            "LOAD SIZE + VOLUME -> transport demand",
+            "COMPETENCE FALLS -> deposition begins",
+            "FEEDBACK -> bed form alters velocity and load"
+          ],
+          "source_references": [
+            "Erosion, transport and deposition"
+          ]
+        },
+        {
+          "title": "Long-profile controls",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "UPLIFT / BASE LEVEL -> potential-energy change",
+            "ROCK + DISCHARGE -> local incision",
+            "SEDIMENT -> abrasion, transport and storage",
+            "GRADED CURVE -> moving dynamic balance"
+          ],
+          "source_references": [
+            "Long profile and graded adjustment"
+          ]
+        },
+        {
+          "title": "Meander-floodplain loop",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "OUTER BANK -> faster flow -> erosion",
+            "INNER BANK -> slower flow -> point bar",
+            "NECK CUTOFF -> ox-bow lake",
+            "OVERBANK SILT -> floodplain + natural levee"
+          ],
+          "source_references": [
+            "Meanders, ox-bows and floodplains"
+          ]
+        },
+        {
+          "title": "Drainage-pattern matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DENDRITIC -> uniform resistance",
+            "TRELLIS -> alternating resistant bands",
+            "RECTANGULAR -> joints and faults",
+            "RADIAL / CENTRIPETAL -> outward high / inward basin"
+          ],
+          "source_references": [
+            "Drainage patterns as structural evidence"
+          ]
+        },
+        {
+          "title": "Drainage-evolution firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANTECEDENT -> river older than uplift",
+            "SUPERIMPOSED -> cover pattern inherited below",
+            "CAPTURE -> headward erosion diverts neighbour",
+            "FIELD CUES -> gorge / discordance / elbow-wind gap"
+          ],
+          "source_references": [
+            "Antecedence, superimposition and capture"
+          ]
+        },
+        {
+          "title": "India river-system contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HIMALAYAN -> high relief, mixed perennial inputs",
+            "PENINSULAR -> old shield, monsoon-dominant regime",
+            "EAST -> long rivers and major deltas",
+            "WEST -> Narmada-Tapi troughs + short Ghats streams"
+          ],
+          "source_references": [
+            "Himalayan river systems",
+            "Peninsular river systems"
+          ]
+        },
+        {
+          "title": "Source-course-mouth rail",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "INDUS -> Tibetan headwaters -> Arabian Sea",
+            "GANGA -> Devprayag name -> Bengal delta",
+            "BRAHMAPUTRA -> Tsangpo-Siang -> joined delta",
+            "PENINSULA -> Godavari-Krishna-Kaveri / Narmada-Tapi"
+          ],
+          "source_references": [
+            "Peninsular river systems"
+          ]
+        },
+        {
+          "title": "Delta budget",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "INPUT -> basin sediment delivery",
+            "REMOVAL -> waves, tides and cyclone scour",
+            "VERTICAL -> compaction + relative sea level",
+            "CHANNELS -> distributary mobility or confinement"
+          ],
+          "source_references": [
+            "Delta versus estuary"
+          ]
+        },
+        {
+          "title": "Transfer viability test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "DONOR -> seasonal water after existing claims",
+            "RECIPIENT -> demand, soil, aquifer and delivery fit",
+            "CORRIDOR -> loss, energy, ecology and people",
+            "ALTERNATIVES -> recharge, efficiency, reuse, operations"
+          ],
+          "source_references": [
+            "Inter-basin transfer accounting"
+          ]
+        },
+        {
+          "title": "Ken-Betwa boundary",
+          "structural_type": "case-study",
+          "ascii_lines": [
+            "DIRECTION -> Ken basin to Betwa basin",
+            "STATUS -> official material says under implementation",
+            "LANDSCAPE -> Panna connectivity + downstream flow",
+            "RULE -> status is not measured outcome"
+          ],
+          "source_references": [
+            "Ken-Betwa and Panna"
+          ]
+        },
+        {
+          "title": "Basin answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE + MAP -> basin and direction",
+            "EXPLAIN -> process, timing and sediment",
+            "ASSESS -> benefit mechanism against limits",
+            "VERDICT -> selective, adaptive and basin-wide"
+          ],
+          "source_references": [
+            "Verified routes and final basin spine"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-06",
+      "display_title": "Landforms of Glaciation / Himalayan Glaciers-GLOF",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\06_Himalayan-Glaciers-GLOF_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Glacier budget",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "ACCUMULATION -> snowfall, avalanche and refreezing",
+            "ELA -> annual gain equals annual loss",
+            "ABLATION -> melt, sublimation and calving where relevant",
+            "NET BALANCE -> geometry responds with a lag"
+          ],
+          "source_references": [
+            "Accumulation, ablation and ELA"
+          ]
+        },
+        {
+          "title": "Retreat paradox",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ICE PARTICLES -> continue moving downslope",
+            "TERMINUS -> receives forward ice flux",
+            "ABLATION > DELIVERY -> snout shifts up-valley",
+            "METRIC RULE -> flow direction differs from margin change"
+          ],
+          "source_references": [
+            "Flow, retreat and debris cover"
+          ]
+        },
+        {
+          "title": "Erosion suite",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PLUCKING -> jointed blocks removed",
+            "ABRASION -> polish, striae and rock flour",
+            "CIRQUE / ARETE / HORN -> headwall system",
+            "U-TROUGH / HANGING VALLEY -> valley-scale overdeepening"
+          ],
+          "source_references": [
+            "Plucking and abrasion",
+            "Cirque-to-trough erosional suite"
+          ]
+        },
+        {
+          "title": "Fjord-ria firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FJORD -> glacial trough later flooded by sea",
+            "RIA -> river valley later drowned by sea",
+            "FJORD CUES -> deep water, steep walls, hanging valleys",
+            "RULE -> inundation preserves different pre-existing valleys"
+          ],
+          "source_references": [
+            "Fjords and rias"
+          ]
+        },
+        {
+          "title": "Depositional sorting",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TILL / MORAINE -> direct ice, generally unsorted",
+            "ESKER -> meltwater ridge in or under ice",
+            "OUTWASH -> braided meltwater, relatively sorted",
+            "DRUMLIN -> streamlined drift/till landform"
+          ],
+          "source_references": [
+            "Till, moraine, esker and outwash"
+          ]
+        },
+        {
+          "title": "Ice-mass family",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GROUNDED -> glacier, ice cap, ice sheet",
+            "FLOATING -> shelf, iceberg and sea ice",
+            "SEA LEVEL -> grounded loss adds ocean mass",
+            "BUTTRESSING -> shelf loss can accelerate inland discharge"
+          ],
+          "source_references": [
+            "Grounded and floating ice"
+          ]
+        },
+        {
+          "title": "Himalayan map hooks",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "GANGOTRI -> Bhagirathi",
+            "ZEMU -> Teesta",
+            "BARA SHIGRI -> Chenab system",
+            "SIACHEN -> Nubra-Shyok-Indus system"
+          ],
+          "source_references": [
+            "Himalayan glacier map hooks"
+          ]
+        },
+        {
+          "title": "Water-timing sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY LOSS -> local melt contribution may rise",
+            "STORED ICE DECLINES -> buffering weakens",
+            "LEAN SEASON -> reliability risk grows locally",
+            "QUALIFIER -> monsoon, snow and groundwater vary by basin"
+          ],
+          "source_references": [
+            "Glacier loss and water timing"
+          ]
+        },
+        {
+          "title": "Glacial-lake test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "BASIN / DAM -> how water is impounded",
+            "SLOPE + ICE -> possible displacement trigger",
+            "DAM CONDITION -> overtopping, piping or erosion",
+            "DOWNSTREAM -> exposure converts hazard into risk"
+          ],
+          "source_references": [
+            "How glacial lakes form",
+            "Hazard, exposure and South Lhonak"
+          ]
+        },
+        {
+          "title": "GLOF cascade",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TRIGGER -> slope failure, inflow or instability",
+            "WAVE / OVERTOPPING -> dam erosion begins",
+            "BREACH -> sudden release + sediment",
+            "VALLEY -> constrictions and assets shape consequences"
+          ],
+          "source_references": [
+            "GLOF trigger-to-breach chain"
+          ]
+        },
+        {
+          "title": "Risk-reduction stack",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "SATELLITE INVENTORY -> changing lakes and slopes",
+            "FIELD ASSESSMENT -> dam material and thresholds",
+            "WARNING + DRILLS -> last-mile action",
+            "LAND USE + DESIGN -> reduce exposure and fragility"
+          ],
+          "source_references": [
+            "Monitoring and risk reduction"
+          ]
+        },
+        {
+          "title": "Cryosphere answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> glacier, lake, GLOF and risk",
+            "MAP -> glacier-basin relation",
+            "EXPLAIN -> budget, trigger and breach",
+            "QUALIFY -> heterogeneity, attribution and data date"
+          ],
+          "source_references": [
+            "Verified routes and cryosphere spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

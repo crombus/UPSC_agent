@@ -1,0 +1,1070 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-08",
+  "subject": "Modern-Indian-History",
+  "title": "ADMINISTRATIVE ORGANISATION (CIVIL SERVICES, ARMY, POLICE, JUDICIARY, RULE OF LAW)",
+  "short_route": "THE COLONIAL STATE'S FOUR-PILLAR → PROFESSIONALISATION AND EXCLUSION GREW → TRAINING TO COMPETITION DID → THE DISTRICT STATE CONCENTRATED → THE ARMY BEFORE AND → MARTIAL RACES WAS A",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-08_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-07-08-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "221d5059df7fc105f4d832744fd171c6b76201ab60e5fd929a05467fb1fa74be",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE COLONIAL STATE'S FOUR-PILLAR MACHINE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE COLONIAL STATE'S FOUR-PILLAR MACHINE",
+          "role": "institution"
+        },
+        {
+          "text": "CIVIL SERVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMAND, REVENUE AND DISTRICT ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONQUEST, FRONTIER DEFENCE AND FINAL COERCIVE GUARANTEE",
+          "role": "evidence"
+        },
+        {
+          "text": "SURVEILLANCE, COLLECTION SUPPORT AND PUBLIC ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "PREDICTABLE LEGALITY AND IMPERIAL LEGITIMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON PURPOSE",
+          "role": "comparison"
+        },
+        {
+          "text": "EFFICIENT RULE WITHOUT REPRESENTATIVE ACCOUNTABILITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CIVIL SERVICE → command, revenue and district administration",
+        "ARMY → conquest, frontier defence and final coercive guarantee",
+        "POLICE → surveillance, collection support and public order",
+        "JUDICIARY / CODES → predictable legality and imperial legitimacy",
+        "COMMON PURPOSE → efficient rule without representative accountability."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CIVIL SERVICE → command, revenue and district administration",
+            "ARMY → conquest, frontier defence and final coercive guarantee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLICE → surveillance, collection support and public order",
+            "JUDICIARY / CODES → predictable legality and imperial legitimacy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMON PURPOSE → efficient rule without representative accountability.",
+            "CIVIL SERVICE → command, revenue and district administration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON PURPOSE → efficient rule without representative accountability.",
+      "source_references": [
+        "1. What Topic 08 owns: the colonial state's four-pillar machine",
+        "2. Why administration mattered: revenue, order, imperial control, not representation"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PROFESSIONALISATION AND EXCLUSION GREW TOGETHER",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROFESSIONALISATION AND EXCLUSION GREW TOGETHER",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH SALARIES + RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "LESS PRIVATE TRADE AND A MORE DISCIPLINED SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "COVENANTED POSTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPERIOR COMMAND RESERVED MAINLY FOR EUROPEANS",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRICT AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLECTOR AND MAGISTRATE BECOME THE LOCAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ADMINISTRATIVE CAPACITY STRENGTHENED THROUGH RACIAL CLOSURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIGH SALARIES + RULES → less private trade and a more disciplined service",
+        "COVENANTED POSTS → superior command reserved mainly for Europeans",
+        "DISTRICT AUTHORITY → collector and magistrate become the local state",
+        "VERDICT → administrative capacity strengthened through racial closure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HIGH SALARIES + RULES → less private trade and a more disciplined service",
+            "COVENANTED POSTS → superior command reserved mainly for Europeans"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTRICT AUTHORITY → collector and magistrate become the local state",
+            "VERDICT → administrative capacity strengthened through racial closure."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HIGH SALARIES + RULES → less private trade and a more disciplined service",
+            "COVENANTED POSTS → superior command reserved mainly for Europeans"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → administrative capacity strengthened through racial closure.",
+      "source_references": [
+        "3. Cornwallis and the covenanted service: professionalisation plus exclusion"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TRAINING TO COMPETITION DID NOT EQUAL INDIANISATION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRAINING TO COMPETITION DID NOT EQUAL INDIANISATION",
+          "role": "caution"
+        },
+        {
+          "text": "FORT WILLIAM",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGE AND ADMINISTRATIVE TRAINING IN INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPANY TRAINING IN BRITAIN BEFORE OPEN COMPETITION",
+          "role": "evidence"
+        },
+        {
+          "text": "1853 COMPETITION",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL MERIT PRINCIPLE; LONDON ACCESS BARRIERS REMAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "1878-79 STATUTORY SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITED NOMINATED ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORT WILLIAM → language and administrative training in India",
+        "HAILEYBURY → Company training in Britain before open competition",
+        "1853 COMPETITION → formal merit principle; London access barriers remain",
+        "1878-79 STATUTORY SERVICE → limited nominated route",
+        "1886 AITCHISON → classification and Indianisation remain contested."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORT WILLIAM → language and administrative training in India",
+            "HAILEYBURY → Company training in Britain before open competition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1853 COMPETITION → formal merit principle; London access barriers remain",
+            "1878-79 STATUTORY SERVICE → limited nominated route"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1886 AITCHISON → classification and Indianisation remain contested.",
+            "FORT WILLIAM → language and administrative training in India"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1886 AITCHISON → classification and Indianisation remain contested.",
+      "source_references": [
+        "4. Fort William, Haileybury, and the training/exclusion pipeline",
+        "5. Charter Act 1853 and the London exam: open competition without Indianisation",
+        "6. Statutory Civil Service, Aitchison, and the politics of Indianisation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE DISTRICT STATE CONCENTRATED AUTHORITY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE DISTRICT STATE CONCENTRATED AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNMENT OF INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY AND SUPERVISION",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRICT COLLECTOR-MAGISTRATE",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE PLUS EXECUTIVE-MAGISTERIAL COMMAND",
+          "role": "primary"
+        },
+        {
+          "text": "SUPERINTENDENT OF POLICE",
+          "role": "outcome"
+        },
+        {
+          "text": "COERCIVE HIERARCHY UNDER EXECUTIVE INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL SURVEILLANCE AND ENFORCEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT OF INDIA / PROVINCE → policy and supervision",
+        "DISTRICT COLLECTOR-MAGISTRATE → revenue plus executive-magisterial command",
+        "SUPERINTENDENT OF POLICE → coercive hierarchy under executive influence",
+        "THANA / DAROGA → local surveillance and enforcement",
+        "COURTS → legality around the same district-centred state."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOVERNMENT OF INDIA / PROVINCE → policy and supervision",
+            "DISTRICT COLLECTOR-MAGISTRATE → revenue plus executive-magisterial command"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUPERINTENDENT OF POLICE → coercive hierarchy under executive influence",
+            "THANA / DAROGA → local surveillance and enforcement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COURTS → legality around the same district-centred state.",
+            "GOVERNMENT OF INDIA / PROVINCE → policy and supervision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COURTS → legality around the same district-centred state.",
+      "source_references": [
+        "2. Why administration mattered: revenue, order, imperial control, not representation",
+        "13. Collector-magistrate-SP interlock: how revenue, police, and law fused on the ground"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE ARMY BEFORE AND AFTER 1857",
+      "structural_type": "before-after",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE ARMY BEFORE AND AFTER 1857",
+          "role": "primary"
+        },
+        {
+          "text": "BEFORE 1857",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN SEPOY MASS UNDER EUROPEAN OFFICERS ENABLES CONQUEST",
+          "role": "comparison"
+        },
+        {
+          "text": "1857 LESSON",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON MILITARY SOLIDARITY IS TREATED AS A REGIME THREAT",
+          "role": "primary"
+        },
+        {
+          "text": "AFTER 1857",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER EUROPEAN COMMAND, ARTILLERY CONTROL AND FRAGMENTED RECRUITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESERVE FIGHTING CAPACITY WHILE PREVENTING UNIFIED POLITICAL ACTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BEFORE 1857 → Indian sepoy mass under European officers enables conquest",
+        "1857 LESSON → common military solidarity is treated as a regime threat",
+        "AFTER 1857 → stronger European command, artillery control and fragmented recruitment",
+        "PURPOSE → preserve fighting capacity while preventing unified political action."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BEFORE 1857 → Indian sepoy mass under European officers enables conquest",
+            "1857 LESSON → common military solidarity is treated as a regime threat"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AFTER 1857 → stronger European command, artillery control and fragmented recruitment",
+            "PURPOSE → preserve fighting capacity while preventing unified political action."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BEFORE 1857 → Indian sepoy mass under European officers enables conquest",
+            "1857 LESSON → common military solidarity is treated as a regime threat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PURPOSE → preserve fighting capacity while preventing unified political action.",
+      "source_references": [
+        "7. Sepoy army before 1857: conquest and internal control",
+        "8. Post-1857 reorganisation: ratio, artillery, command, fragmentation"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MARTIAL RACES WAS A DOCTRINE OF RULE",
+      "structural_type": "ideology-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MARTIAL RACES WAS A DOCTRINE OF RULE",
+          "role": "primary"
+        },
+        {
+          "text": "COLONIAL CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTED GROUPS LABELLED NATURALLY MARTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RECRUITMENT CONCENTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PUNJAB, FRONTIER REGIONS AND NEPAL GAIN WEIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE UNITS + HONOUR CODES",
+          "role": "outcome"
+        },
+        {
+          "text": "LOYALTY ENGINEERED THROUGH DIFFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RACIAL CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLONIAL CLASSIFICATION → selected groups labelled naturally martial",
+        "RECRUITMENT CONCENTRATION → Punjab, frontier regions and Nepal gain weight",
+        "SEPARATE UNITS + HONOUR CODES → loyalty engineered through difference",
+        "RACIAL CLAIM → fit to fight but allegedly unfit to command",
+        "RULE → teach the category as ideology, never biological truth."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLONIAL CLASSIFICATION → selected groups labelled naturally martial",
+            "RECRUITMENT CONCENTRATION → Punjab, frontier regions and Nepal gain weight"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEPARATE UNITS + HONOUR CODES → loyalty engineered through difference",
+            "RACIAL CLAIM → fit to fight but allegedly unfit to command"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → teach the category as ideology, never biological truth.",
+            "COLONIAL CLASSIFICATION → selected groups labelled naturally martial"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → teach the category as ideology, never biological truth.",
+      "source_references": [
+        "9. Martial races as colonial governance theory, not ethnographic truth",
+        "10. Army policy to politics: recruitment regions, loyalty engineering, later blowback"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "POLICE DESIGN MOVED FROM THANA TO STATUTE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POLICE DESIGN MOVED FROM THANA TO STATUTE",
+          "role": "primary"
+        },
+        {
+          "text": "THANA AND DAROGA STRUCTURE UNDER DISTRICT AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRE-1861 PRACTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICING SERVES ORDER, REVENUE AND LOCAL SURVEILLANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICE ACT 1861",
+          "role": "institution"
+        },
+        {
+          "text": "PROVINCIAL INSPECTOR-GENERAL AND DISTRICT SUPERINTENDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGACY QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTIVE CONTROL VERSUS PUBLIC ACCOUNTABILITY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CORNWALLIS → thana and daroga structure under district authority",
+        "PRE-1861 PRACTICE → policing serves order, revenue and local surveillance",
+        "POLICE ACT 1861 → provincial Inspector-General and district Superintendent",
+        "LEGACY QUESTION → executive control versus public accountability."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORNWALLIS → thana and daroga structure under district authority",
+            "PRE-1861 PRACTICE → policing serves order, revenue and local surveillance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLICE ACT 1861 → provincial Inspector-General and district Superintendent",
+            "LEGACY QUESTION → executive control versus public accountability."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORNWALLIS → thana and daroga structure under district authority",
+            "PRE-1861 PRACTICE → policing serves order, revenue and local surveillance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGACY QUESTION → executive control versus public accountability.",
+      "source_references": [
+        "11. Thana, daroga, magistrate: Cornwallis's police foundation",
+        "12. Police Act 1861 and the district coercive hierarchy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POLICE WAS DESIGNED FOR ORDER, NOT CITIZEN SERVICE",
+      "structural_type": "purpose-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POLICE WAS DESIGNED FOR ORDER, NOT CITIZEN SERVICE",
+          "role": "caution"
+        },
+        {
+          "text": "REVENUE DISPUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRICT EXECUTIVE IDENTIFIES A THREAT",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICE SURVEILLANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INTELLIGENCE, ARREST AND CROWD CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "MAGISTERIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "EXECUTIVE DIRECTION GAINS LEGAL FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMY BACKSTOP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REVENUE DISPUTE / PROTEST → district executive identifies a threat",
+        "POLICE SURVEILLANCE → intelligence, arrest and crowd control",
+        "MAGISTERIAL POWER → executive direction gains legal force",
+        "ARMY BACKSTOP → escalated resistance meets military coercion",
+        "RESULT → regime security outranks accountable public service."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REVENUE DISPUTE / PROTEST → district executive identifies a threat",
+            "POLICE SURVEILLANCE → intelligence, arrest and crowd control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAGISTERIAL POWER → executive direction gains legal force",
+            "ARMY BACKSTOP → escalated resistance meets military coercion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → regime security outranks accountable public service.",
+            "REVENUE DISPUTE / PROTEST → district executive identifies a threat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → regime security outranks accountable public service.",
+      "source_references": [
+        "12. Police Act 1861 and the district coercive hierarchy",
+        "13. Collector-magistrate-SP interlock: how revenue, police, and law fused on the ground"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CODIFICATION MODERNISED AND CONTROLLED",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CODIFICATION MODERNISED AND CONTROLLED",
+          "role": "primary"
+        },
+        {
+          "text": "CORNWALLIS CODE",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL ORDERING AND JUDICIAL SEPARATION IN PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRICT COURTS",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED CIVIL AND CRIMINAL ADJUDICATION",
+          "role": "primary"
+        },
+        {
+          "text": "LAW COMMISSION TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIFORM WRITTEN CODES",
+          "role": "comparison"
+        },
+        {
+          "text": "IPC 1860 + PROCEDURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORNWALLIS CODE → institutional ordering and judicial separation in principle",
+        "SADAR / DISTRICT COURTS → graded civil and criminal adjudication",
+        "LAW COMMISSION TRADITION → uniform written codes",
+        "IPC 1860 + PROCEDURE → predictability across a centralised state",
+        "LIMIT → the same legal form could authorise repression."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORNWALLIS CODE → institutional ordering and judicial separation in principle",
+            "SADAR / DISTRICT COURTS → graded civil and criminal adjudication"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAW COMMISSION TRADITION → uniform written codes",
+            "IPC 1860 + PROCEDURE → predictability across a centralised state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → the same legal form could authorise repression.",
+            "CORNWALLIS CODE → institutional ordering and judicial separation in principle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → the same legal form could authorise repression.",
+      "source_references": [
+        "14. Cornwallis Code, Sadar courts, and codified legality",
+        "15. IPC/procedure codes and rule of law versus racial privilege"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RULE OF LAW HAD A RACIAL CEILING",
+      "structural_type": "contradiction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RULE OF LAW HAD A RACIAL CEILING",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIFORM LAW, EVIDENCE AND PROCEDURE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICAL ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "EXECUTIVE DOMINANCE AND POLITICAL OFFENCES",
+          "role": "primary"
+        },
+        {
+          "text": "RACIAL PRIVILEGE",
+          "role": "outcome"
+        },
+        {
+          "text": "EUROPEANS RESIST EQUAL JURISDICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ILBERT BILL 1883",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORMAL CLAIM → uniform law, evidence and procedure",
+        "PRACTICAL ORDER → executive dominance and political offences",
+        "RACIAL PRIVILEGE → Europeans resist equal jurisdiction",
+        "ILBERT BILL 1883 → collision makes the hierarchy visible",
+        "VERDICT → legalistic administration was not liberal citizenship."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORMAL CLAIM → uniform law, evidence and procedure",
+            "PRACTICAL ORDER → executive dominance and political offences"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RACIAL PRIVILEGE → Europeans resist equal jurisdiction",
+            "ILBERT BILL 1883 → collision makes the hierarchy visible"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → legalistic administration was not liberal citizenship.",
+            "FORMAL CLAIM → uniform law, evidence and procedure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → legalistic administration was not liberal citizenship.",
+      "source_references": [
+        "15. IPC/procedure codes and rule of law versus racial privilege",
+        "16. Ilbert Bill, nationalist critique, colonial legacy, and bounded current bridge"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ILBERT BILL EXPOSED ORGANISED RACIAL PRIVILEGE",
+      "structural_type": "event-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ILBERT BILL EXPOSED ORGANISED RACIAL PRIVILEGE",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFIED INDIAN JUDGES MAY TRY EUROPEAN BRITISH SUBJECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "EUROPEAN AGITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUALITY FRAMED AS A RACIAL THREAT",
+          "role": "evidence"
+        },
+        {
+          "text": "ORIGINAL PRINCIPLE DILUTED",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "HUMILIATION STRENGTHENS ORGANISED POLITICAL CRITIQUE",
+          "role": "comparison"
+        },
+        {
+          "text": "DECISIVE EVIDENCE THAT FORMAL LEGALITY STOPPED AT RACIAL POWER.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROPOSAL → qualified Indian judges may try European British subjects",
+        "EUROPEAN AGITATION → equality framed as a racial threat",
+        "COMPROMISE → original principle diluted",
+        "INDIAN RESPONSE → humiliation strengthens organised political critique",
+        "USE → decisive evidence that formal legality stopped at racial power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROPOSAL → qualified Indian judges may try European British subjects",
+            "EUROPEAN AGITATION → equality framed as a racial threat"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPROMISE → original principle diluted",
+            "INDIAN RESPONSE → humiliation strengthens organised political critique"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → decisive evidence that formal legality stopped at racial power.",
+            "PROPOSAL → qualified Indian judges may try European British subjects"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → decisive evidence that formal legality stopped at racial power.",
+      "source_references": [
+        "16. Ilbert Bill, nationalist critique, colonial legacy, and bounded current bridge"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTERLOCK, CONTRADICTION AND LEGACY",
+      "structural_type": "synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTERLOCK, CONTRADICTION AND LEGACY",
+          "role": "primary"
+        },
+        {
+          "text": "COLLECTOR COMMANDS THE DISTRICT",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICE AND ARMY SECURE EXTRACTION AND POLITICAL CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "COURTS AND CODES REGULARISE AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPERIOR COMMAND REMAINS RACIALLY RESTRICTED",
+          "role": "primary"
+        },
+        {
+          "text": "DURABLE INSTITUTIONS REQUIRE DEMOCRATIC REPURPOSING, NOT SIMPLE CELEBRATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REVENUE → collector commands the district",
+        "ORDER → police and army secure extraction and political control",
+        "LEGALITY → courts and codes regularise authority",
+        "EXCLUSION → superior command remains racially restricted",
+        "LEGACY → durable institutions require democratic repurposing, not simple celebration."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REVENUE → collector commands the district",
+            "ORDER → police and army secure extraction and political control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEGALITY → courts and codes regularise authority",
+            "EXCLUSION → superior command remains racially restricted"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGACY → durable institutions require democratic repurposing, not simple celebration.",
+            "REVENUE → collector commands the district"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGACY → durable institutions require democratic repurposing, not simple celebration.",
+      "source_references": [
+        "13. Collector-magistrate-SP interlock: how revenue, police, and law fused on the ground",
+        "16. Ilbert Bill, nationalist critique, colonial legacy, and bounded current bridge"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH RULE IN INDIA WAS MAINTAINED THROUGH A SMALL",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGE INDIAN SEPOY ARMY UNDER EUROPEAN COMMAND, A DISTRICT-CENTRED",
+          "role": "comparison"
+        },
+        {
+          "text": "CORNWALLIS PROFESSIONALISED THE COVENANTED CIVIL SERVICE THROUGH HIGH SALARIES",
+          "role": "evidence"
+        },
+        {
+          "text": "BUT ALSO HARDENED RACIAL EXCLUSION BY RESERVING SUPERIOR POSTS",
+          "role": "primary"
+        },
+        {
+          "text": "THE CIVIL SERVANT WAS COLLECTOR, MAGISTRATE, ADMINISTRATOR AND LOCAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 1853 COMPETITIVE EXAMINATION ANNOUNCED MERIT, BUT EXAMINATION IN",
+          "role": "comparison"
+        },
+        {
+          "text": "PREPARATION AND AGE RULES KEPT THE SERVICE SOCIALLY AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "British rule in India was maintained through a small but powerful European civil service, a",
+            "large Indian sepoy army under European command, a district-centred police system and codified courts.",
+            "Cornwallis professionalised the covenanted civil service through high salaries and anti-corruption measures,",
+            "but also hardened racial exclusion by reserving superior posts for Europeans."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The civil servant was collector, magistrate, administrator and local face of the state; the district became the basic unit of colonial power.",
+            "The 1853 competitive examination announced merit, but examination in London, expensive",
+            "preparation and age rules kept the service socially and racially exclusive.",
+            "CAUTION: The Indianisation demand became a political issue because Indians saw exclusion"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "from administration as both racial humiliation and denial of representative governance.",
+            "The colonial army made conquest possible and suppressed rebellion",
+            "after 1857, British policy increased the European ratio and divided recruitment by caste, religion and region.",
+            "The police system created under Cornwallis and later codified by the Police"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

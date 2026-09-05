@@ -1,0 +1,1228 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-13",
+  "subject": "Medieval-Indian-History",
+  "title": "STRUGGLE FOR EMPIRE: AFGHANS, RAJPUTS & HUMAYUN",
+  "short_route": "THE CENTRAL PROBLEM: CONQUEST → HUMAYUN CHRONOLOGY 1530-1556 → INHERITED BALANCE SHEET → BROTHERS: CHRONOLOGY BEFORE BLAME → RAJPUT-GUJARAT-MUGHAL WESTERN TRIANGLE → GUJARAT: VICTORY WITHOUT SETTLEMENT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-13-deep-review-2026-09-03-g4.json",
+  "ascii_spec_sha256": "f6c6b5d52a029f694ddefb0f3a6dab40badc66fb8f2baa7c3510df22da91129e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL PROBLEM: CONQUEST WITHOUT CONSOLIDATION",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE CENTRAL PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "CONQUEST WITHOUT CONSOLIDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "1530 INHERITANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI-AGRA CLAIM BUT SHALLOW REVENUE/PROVINCIAL ROOTS",
+          "role": "evidence"
+        },
+        {
+          "text": "FRATERNAL FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "KAMRAN + ASKARI + HINDAL HOLD COMMANDS/TERRITORIAL CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "AFGHAN FIELD",
+          "role": "comparison"
+        },
+        {
+          "text": "CHIEFS/FORTS/REVENUE PERSIST AFTER LODI DEFEAT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1530 INHERITANCE → Delhi-Agra claim but shallow revenue/provincial roots",
+        "FRATERNAL FIELD → Kamran + Askari + Hindal hold commands/territorial claims",
+        "AFGHAN FIELD → chiefs/forts/revenue persist after Lodi defeat",
+        "WEST → Bahadur Shah/Mewar/Gujarat",
+        "EAST → Sher Khan/Bihar-Bengal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1530 INHERITANCE → Delhi-Agra claim but shallow revenue/provincial roots",
+            "FRATERNAL FIELD → Kamran + Askari + Hindal hold commands/territorial claims",
+            "AFGHAN FIELD → chiefs/forts/revenue persist after Lodi defeat"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "WEST → Bahadur Shah/Mewar/Gujarat",
+            "EAST → Sher Khan/Bihar-Bengal",
+            "MUGHAL CHOICE → expansion outruns settlement, supply and communications"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "1539/40 → Chausa then Kannauj convert weakness into expulsion",
+            "VERDICT: structure + decisions + coalition + logistics + contingency.",
+            "MUST REMEMBER: Humayun's Gujarat, Afghan and Rajput theatres form one struggle for empire rather than isolated anecdotes."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: structure + decisions + coalition + logistics + contingency.",
+      "answer_line": "structure + decisions + coalition + logistics + contingency.",
+      "source_references": [
+        "Unfinished conquest",
+        "State capacity",
+        "Competing fields",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HUMAYUN CHRONOLOGY 1530-1556",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HUMAYUN CHRONOLOGY 1530-1556",
+          "role": "primary"
+        },
+        {
+          "text": "30 DEC 1530",
+          "role": "outcome"
+        },
+        {
+          "text": "DIN PANAH",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDU, CHAMPANER AND GUJARAT CAMPAIGN SUCCESSES",
+          "role": "evidence"
+        },
+        {
+          "text": "SIX-MONTH CHUNAR SIEGE AND EASTERN ADVANCE",
+          "role": "primary"
+        },
+        {
+          "text": "GAUR OCCUPATION AND COMMUNICATIONS CRISIS",
+          "role": "outcome"
+        },
+        {
+          "text": "26 JUN 1539",
+          "role": "comparison"
+        },
+        {
+          "text": "17 MAY 1540",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "30 Dec 1530 → accession",
+        "1533-34 → Din Panah",
+        "1535 → Mandu, Champaner and Gujarat campaign successes",
+        "1537-38 → six-month Chunar siege and eastern advance",
+        "1538-39 → Gaur occupation and communications crisis"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "30 Dec 1530 → accession",
+            "1533-34 → Din Panah",
+            "1535 → Mandu, Champaner and Gujarat campaign successes",
+            "1537-38 → six-month Chunar siege and eastern advance"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1538-39 → Gaur occupation and communications crisis",
+            "26 Jun 1539 → Chausa",
+            "17 May 1540 → Kannauj/Bilgram",
+            "1545 → Qandahar and Kabul recovered"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1555 Delhi",
+            "1556 death."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1545 → Qandahar and Kabul recovered | 1555 Delhi | 1556 death.",
+      "source_references": [
+        "Chronology",
+        "Din Panah",
+        "Chausa",
+        "Kannauj",
+        "Restoration",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INHERITED BALANCE SHEET",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INHERITED BALANCE SHEET",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI-AGRA CORE, TIMURID PRESTIGE AND CAMPAIGN CAPABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRETCHED TREASURY AND LARGE ASSIGNMENTS TO BEGS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONQUEST NOT CONVERTED INTO ROUTINE TERRITORIAL CONTROL",
+          "role": "caution"
+        },
+        {
+          "text": "AFGHAN CHIEFS AND SHER KHAN RETAIN REGIONAL DEPTH",
+          "role": "primary"
+        },
+        {
+          "text": "BAHADUR SHAH LINKS GUJARAT, MALWA AND RAJASTHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCELY-SHARE EXPECTATIONS COMPLICATE UNIFIED SOVEREIGNTY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ASSET → Delhi-Agra core, Timurid prestige and campaign capability",
+        "FINANCE → stretched treasury and large assignments to begs",
+        "ADMINISTRATION → conquest not converted into routine territorial control",
+        "EAST → Afghan chiefs and Sher Khan retain regional depth",
+        "WEST → Bahadur Shah links Gujarat, Malwa and Rajasthan"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "ASSET → Delhi-Agra core, Timurid prestige and campaign capability",
+          "ADMINISTRATION → conquest not converted into routine territorial control",
+          "WEST → Bahadur Shah links Gujarat, Malwa and Rajasthan"
+        ],
+        [
+          "FINANCE → stretched treasury and large assignments to begs",
+          "EAST → Afghan chiefs and Sher Khan retain regional depth",
+          "DYNASTY → princely-share expectations complicate unified sovereignty."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ASSET → Delhi-Agra core, Timurid prestige and campaign capability",
+            "FINANCE → stretched treasury and large assignments to begs"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ADMINISTRATION → conquest not converted into routine territorial control",
+            "EAST → Afghan chiefs and Sher Khan retain regional depth"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "WEST → Bahadur Shah links Gujarat, Malwa and Rajasthan",
+            "DYNASTY → princely-share expectations complicate unified sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WEST → Bahadur Shah links Gujarat, Malwa and Rajasthan.",
+      "source_references": [
+        "Finance",
+        "Begs",
+        "Afghan challenge",
+        "Bahadur Shah",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BROTHERS: CHRONOLOGY BEFORE BLAME",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY BEFORE BLAME",
+          "role": "primary"
+        },
+        {
+          "text": "TIMURID PATRIMONY",
+          "role": "outcome"
+        },
+        {
+          "text": "BROTHERS EXPECT TERRITORIES, HONOUR AND COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "PUNJAB/LAHORE-MULTAN RESOURCES; LATER KABUL RIVALRY",
+          "role": "evidence"
+        },
+        {
+          "text": "DELEGATED GUJARAT/OTHER COMMANDS; RIVALRY AND COOPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENT HOUSEHOLD AND AGRA ACTION DURING BENGAL CRISIS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARRANGEMENTS CONTAIN CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-COOPERATION SHARPENS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TIMURID PATRIMONY → brothers expect territories, honour and command",
+        "KAMRAN → Punjab/Lahore-Multan resources; later Kabul rivalry",
+        "ASKARI → delegated Gujarat/other commands; rivalry and cooperation",
+        "HINDAL → independent household and Agra action during Bengal crisis",
+        "EARLY → arrangements contain conflict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "TIMURID PATRIMONY → brothers expect territories, honour and command",
+            "KAMRAN → Punjab/Lahore-Multan resources; later Kabul rivalry",
+            "ASKARI → delegated Gujarat/other commands; rivalry and cooperation"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "HINDAL → independent household and Agra action during Bengal crisis",
+            "EARLY → arrangements contain conflict",
+            "POST-CHAUSA → non-cooperation sharpens"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECOVERY → kinship does not prevent coercion around Qandahar/Kabul",
+            "RULE: analyse resources and timing before moral labels."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE: analyse resources and timing before moral labels.",
+      "source_references": [
+        "Kamran",
+        "Askari",
+        "Hindal",
+        "Timurid succession",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RAJPUT-GUJARAT-MUGHAL WESTERN TRIANGLE",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RAJPUT-GUJARAT-MUGHAL WESTERN TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "BAHADUR SHAH",
+          "role": "outcome"
+        },
+        {
+          "text": "MALWA + CHITTOR PRESSURE + ARTILLERY + PORTUGUESE COAST",
+          "role": "comparison"
+        },
+        {
+          "text": "SUCCESSION AND REGIONAL INTERESTS; NO HOMOGENEOUS RAJPUT BLOC",
+          "role": "caution"
+        },
+        {
+          "text": "LATER TRADITION, NOT SECURE DIPLOMATIC DOCUMENTATION",
+          "role": "caution"
+        },
+        {
+          "text": "MANDSAUR PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "MANDU/CHAMPANER OPERATIONAL SUCCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL SETTLEMENT, SUPPLY, NOBLES AND ASKARI POSITION COLLAPSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BAHADUR SHAH → Malwa + Chittor pressure + artillery + Portuguese coast",
+        "MEWAR → succession and regional interests; no homogeneous Rajput bloc",
+        "KARNAVATI-RAKHI → later tradition, not secure diplomatic documentation",
+        "HUMAYUN → Mandsaur pressure → Mandu/Champaner operational success",
+        "FAILURE → local settlement, supply, nobles and Askari position collapse"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BAHADUR SHAH → Malwa + Chittor pressure + artillery + Portuguese coast",
+            "MEWAR → succession and regional interests; no homogeneous Rajput bloc",
+            "KARNAVATI-RAKHI → later tradition, not secure diplomatic documentation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HUMAYUN → Mandsaur pressure → Mandu/Champaner operational success",
+            "FAILURE → local settlement, supply, nobles and Askari position collapse",
+            "BAHADUR RETURNS → military victory did not create administration"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BOUNDARY: detailed Gujarat-Portuguese-Diu remains Topic 08."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BAHADUR RETURNS → military victory did not create administration.",
+      "source_references": [
+        "Bahadur Shah",
+        "Mewar",
+        "Chittor",
+        "Karnavati",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GUJARAT: VICTORY WITHOUT SETTLEMENT",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VICTORY WITHOUT SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MANDSOR PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "MILITARY RESULT",
+          "role": "comparison"
+        },
+        {
+          "text": "REAL OPERATIONAL SUCCESS AND TERRITORIAL SEIZURE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADMINISTRATIVE GAP",
+          "role": "primary"
+        },
+        {
+          "text": "THIN REVENUE, WEAK LOCAL COALITION AND DIVIDED COMMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "NOBLE PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY BEGS RESIST DURABLE RESIDENCE FAR FROM DELHI-AGRA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAMPAIGN → Mandsor pressure → Mandu → Champaner → Ahmedabad",
+        "MILITARY RESULT → real operational success and territorial seizure",
+        "ADMINISTRATIVE GAP → thin revenue, weak local coalition and divided command",
+        "NOBLE PROBLEM → many begs resist durable residence far from Delhi-Agra",
+        "REGIONAL RESPONSE → Bahadur Shah returns; Askari withdraws; Malwa is lost"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CAMPAIGN → Mandsor pressure → Mandu → Champaner → Ahmedabad",
+            "MILITARY RESULT → real operational success and territorial seizure"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ADMINISTRATIVE GAP → thin revenue, weak local coalition and divided command",
+            "NOBLE PROBLEM → many begs resist durable residence far from Delhi-Agra"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REGIONAL RESPONSE → Bahadur Shah returns; Askari withdraws; Malwa is lost",
+            "LESSON: winning forts is not the same as building a provincial regime."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MILITARY RESULT → real operational success and territorial seizure.",
+      "source_references": [
+        "Gujarat campaign",
+        "Mandu",
+        "Champaner",
+        "Askari",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SHER KHAN'S BIHAR-BENGAL SCALE-UP",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SHER KHAN'S BIHAR-BENGAL SCALE-UP",
+          "role": "primary"
+        },
+        {
+          "text": "FARID/SHER KHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "BIHAR SERVICE + ESTATES + CHIEFS + LOCAL KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORT/ROUTE BARGAINING ASSET",
+          "role": "evidence"
+        },
+        {
+          "text": "SURAJGARH 1534",
+          "role": "primary"
+        },
+        {
+          "text": "VICTORY RAISES PRESTIGE AND RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "GAUR AND WIDER FISCAL BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "ROHTAS + ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FARID/SHER KHAN → Bihar service + estates + chiefs + local knowledge",
+        "CHUNAR → fort/route bargaining asset",
+        "SURAJGARH 1534 → victory raises prestige and resources",
+        "BENGAL → tribute/pressure → Gaur and wider fiscal base",
+        "ROHTAS + ROUTES → protect resources/family and cut Mughal communications"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FARID/SHER KHAN → Bihar service + estates + chiefs + local knowledge",
+            "CHUNAR → fort/route bargaining asset",
+            "SURAJGARH 1534 → victory raises prestige and resources"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BENGAL → tribute/pressure → Gaur and wider fiscal base",
+            "ROHTAS + ROUTES → protect resources/family and cut Mughal communications",
+            "AFGHAN NETWORK → coalition built, not automatic tribal unity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BOUNDARY: administration/roads/revenue reform belongs to Topic 14."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFGHAN NETWORK → coalition built, not automatic tribal unity.",
+      "source_references": [
+        "Sher Khan",
+        "Bihar",
+        "Surajgarh",
+        "Gaur",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CHUNAR-GAUR COMMUNICATIONS TRAP",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHUNAR-GAUR COMMUNICATIONS TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "AGRA-DELHI CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "EASTERN MOVEMENT DEPENDS ON A LONG COMMUNICATION LINE",
+          "role": "comparison"
+        },
+        {
+          "text": "GATEWAY FORT AFFECTS LAND-RIVER MOVEMENT, SUPPLY AND REAR SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SYMBOLIC BENGAL OCCUPATION BUT NO DURABLE ADMINISTRATIVE BRIDGE",
+          "role": "caution"
+        },
+        {
+          "text": "MONSOON + DISTANCE + NOBLE STRAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "MUGHAL POSITION BECOMES BRITTLE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHER KHAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGRA-DELHI CORE → eastern movement depends on a long communication line",
+        "CHUNAR → gateway fort affects land-river movement, supply and rear security",
+        "GAUR → symbolic Bengal occupation but no durable administrative bridge",
+        "MONSOON + DISTANCE + NOBLE STRAIN → Mughal position becomes brittle",
+        "SHER KHAN → controls crossings and pressures the route back west"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRA-DELHI CORE → eastern movement depends on a long communication line",
+            "CHUNAR → gateway fort affects land-river movement, supply and rear security"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GAUR → symbolic Bengal occupation but no durable administrative bridge",
+            "MONSOON + DISTANCE + NOBLE STRAIN → Mughal position becomes brittle"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SHER KHAN → controls crossings and pressures the route back west",
+            "FORMULA: ambition + delayed logistics + severed communications = isolation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORMULA: ambition + delayed logistics + severed communications = isolation.",
+      "source_references": [
+        "Chunar",
+        "Gaur",
+        "Logistics",
+        "Communications",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CHAUSA AND KANNAUJ: DO NOT COLLAPSE THE BATTLES",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHAUSA AND KANNAUJ",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT COLLAPSE THE BATTLES",
+          "role": "caution"
+        },
+        {
+          "text": "CHAUSA 1539",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPOSED RIVER CAMP + MONSOON + SURPRISE + BROKEN",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAYUN ESCAPES",
+          "role": "primary"
+        },
+        {
+          "text": "REGIME DAMAGED BUT NOT YET EXPELLED",
+          "role": "caution"
+        },
+        {
+          "text": "KANNAUJ/BILGRAM 1540",
+          "role": "comparison"
+        },
+        {
+          "text": "SET BATTLE + COHESION/COMMAND/REINFORCEMENT CRISIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHAUSA 1539 → exposed river camp + monsoon + surprise + broken route",
+        "HUMAYUN ESCAPES → regime damaged but not yet expelled",
+        "KANNAUJ/BILGRAM 1540 → set battle + cohesion/command/reinforcement crisis",
+        "SHER SHAH WINS → Mughal territorial regime collapses",
+        "FACTORS → Afghan resources + logistics + brothers/nobles + decisions + weather"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CHAUSA 1539 → exposed river camp + monsoon + surprise + broken route",
+          "SHER SHAH WINS → Mughal territorial regime collapses",
+          "VERDICT: operational defeats activated deeper institutional fragility."
+        ],
+        [
+          "HUMAYUN ESCAPES → regime damaged but not yet expelled",
+          "FACTORS → Afghan resources + logistics + brothers/nobles + decisions + weather",
+          ""
+        ],
+        [
+          "KANNAUJ/BILGRAM 1540 → set battle + cohesion/command/reinforcement crisis",
+          "CAUTION → no single error, gun or exact troop/casualty total explains both",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHAUSA 1539 → exposed river camp + monsoon + surprise + broken route",
+            "HUMAYUN ESCAPES → regime damaged but not yet expelled",
+            "KANNAUJ/BILGRAM 1540 → set battle + cohesion/command/reinforcement crisis"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SHER SHAH WINS → Mughal territorial regime collapses",
+            "FACTORS → Afghan resources + logistics + brothers/nobles + decisions + weather",
+            "CAUTION → no single error, gun or exact troop/casualty total explains both"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: operational defeats activated deeper institutional fragility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → no single error, gun or exact troop/casualty total explains both.",
+      "source_references": [
+        "Chausa",
+        "Kannauj",
+        "Battle distinction",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EXILE, SAFAVID BARGAIN AND RESTORATION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EXILE, SAFAVID BARGAIN AND RESTORATION",
+          "role": "primary"
+        },
+        {
+          "text": "PUNJAB/SINDH/RAJASTHAN EXILE; REGIONAL RULERS CHOOSE INDEPENDENTLY",
+          "role": "outcome"
+        },
+        {
+          "text": "HAMIDA BANU + HOUSEHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "DYNASTIC NETWORK SURVIVES WITHOUT TERRITORY",
+          "role": "evidence"
+        },
+        {
+          "text": "1542 AMARKOT",
+          "role": "primary"
+        },
+        {
+          "text": "AKBAR BORN UNDER LOCAL PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAH TAHMASP",
+          "role": "comparison"
+        },
+        {
+          "text": "AID PLUS CEREMONY/SECTARIAN/QANDAHAR NEGOTIATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1540 → Punjab/Sindh/Rajasthan exile; regional rulers choose independently",
+        "HAMIDA BANU + HOUSEHOLD → dynastic network survives without territory",
+        "1542 AMARKOT → Akbar born under local protection",
+        "SHAH TAHMASP → aid plus ceremony/sectarian/Qandahar negotiation",
+        "1545 → Qandahar then Kabul recovery; Kamran conflict continues"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1540 → Punjab/Sindh/Rajasthan exile; regional rulers choose independently",
+            "HAMIDA BANU + HOUSEHOLD → dynastic network survives without territory",
+            "1542 AMARKOT → Akbar born under local protection"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SHAH TAHMASP → aid plus ceremony/sectarian/Qandahar negotiation",
+            "1545 → Qandahar then Kabul recovery; Kamran conflict continues",
+            "SUR FRAGMENTATION → opens Lahore/Machhiwara/Sirhind/Delhi route in 1555"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Safavid help was neither free nor total Persianization.",
+            "CLOSE DISTINCTION: Chausa (1539) preceded Kannauj/Bilgram (1540); restoration followed in"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Chausa (1539) preceded Kannauj/Bilgram (1540); restoration followed in.",
+      "source_references": [
+        "Exile",
+        "Shah Tahmasp",
+        "Qandahar",
+        "1555 restoration",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE, REHABILITATION AND HERITAGE",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE, REHABILITATION AND HERITAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSEHOLD/WOMEN/KINSHIP MEMORY",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER SELECTIVE MEMOIR",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL DYNASTIC RESTORATION",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPERIAL TELEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "TARIKH-I RASHIDI",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMURID/CENTRAL ASIAN LENS",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHOR LOYALTIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GULBADAN → household/women/kinship memory",
+        "later selective memoir",
+        "AKBARNAMA → official dynastic restoration",
+        "imperial teleology",
+        "TARIKH-I RASHIDI → Timurid/Central Asian lens"
+      ],
+      "matrix": [
+        [
+          "GULBADAN → household/women/kinship memory",
+          "later selective memoir"
+        ],
+        [
+          "AKBARNAMA → official dynastic restoration",
+          "imperial teleology"
+        ],
+        [
+          "TARIKH-I RASHIDI → Timurid/Central Asian lens",
+          "author loyalties"
+        ],
+        [
+          "NIZAMUDDIN → chronology",
+          "Dadrah/Daurah disagreement"
+        ],
+        [
+          "AFGHAN CHRONICLES → Sher/Sur memory",
+          "retrospective Mughal context"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "GULBADAN → household/women/kinship memory",
+            "later selective memoir",
+            "AKBARNAMA → official dynastic restoration",
+            "imperial teleology",
+            "TARIKH-I RASHIDI → Timurid/Central Asian lens"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "author loyalties",
+            "NIZAMUDDIN → chronology",
+            "Dadrah/Daurah disagreement",
+            "AFGHAN CHRONICLES → Sher/Sur memory",
+            "retrospective Mughal context"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "COIN/INSCRIPTION/FORT → public/material check, not uniform control",
+            "HUMAYUN TOMB → 1560s dynastic memory, never campaign evidence.",
+            "EVIDENCE LIMIT: Defeat cannot be explained only by personality: resources, alliances, Afghan resilience and imperial overstretch matter."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Defeat cannot be explained only by personality: resources, alliances, Afghan resilience and imperial overstretch matter.",
+      "source_references": [
+        "Source criticism",
+        "Historiography",
+        "Humayun's Tomb",
+        "UNESCO",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 13 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 13 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PERSPECTIVE + DATE + DISAGREEMENT + MINIMUM SECURE CHRONOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE/CONTROL + AFGHAN NETWORKS + FRATERNAL PATRIMONY",
+          "role": "comparison"
+        },
+        {
+          "text": "GUJARAT/MEWAR THEN BIHAR/BENGAL COMMUNICATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAUSA VERSUS KANNAUJ WITH LOGISTICS/COMMAND/CONTINGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "HAMIDA/AMARKOT + SAFAVID BARGAIN + QANDAHAR/KABUL",
+          "role": "outcome"
+        },
+        {
+          "text": "SUR FRAGMENTATION + BAIRAM + MACHHIWARA/SIRHIND + FRAGILE DELHI",
+          "role": "comparison"
+        },
+        {
+          "text": "SERIOUS ERRORS WITHIN STRUCTURAL LIMITS; RESTORATION NOT CONSOLIDATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → perspective + date + disagreement + minimum secure chronology",
+        "INHERIT → finance/control + Afghan networks + fraternal patrimony",
+        "THEATRES → Gujarat/Mewar then Bihar/Bengal communications",
+        "BATTLES → Chausa versus Kannauj with logistics/command/contingency",
+        "EXILE → Hamida/Amarkot + Safavid bargain + Qandahar/Kabul"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOURCE → perspective + date + disagreement + minimum secure chronology",
+            "INHERIT → finance/control + Afghan networks + fraternal patrimony",
+            "THEATRES → Gujarat/Mewar then Bihar/Bengal communications"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BATTLES → Chausa versus Kannauj with logistics/command/contingency",
+            "EXILE → Hamida/Amarkot + Safavid bargain + Qandahar/Kabul",
+            "RETURN → Sur fragmentation + Bairam + Machhiwara/Sirhind + fragile Delhi"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → serious errors within structural limits; restoration not consolidation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → serious errors within structural limits; restoration not consolidation.",
+      "source_references": [
+        "Answer architecture",
+        "Structure and agency",
+        "Qualified verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g4\\medieval-indian-history-13_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STRUGGLE FOR EMPIRE",
+          "role": "outcome"
+        },
+        {
+          "text": "AFGHANS, RAJPUTS & HUMAYUN — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Struggle for Empire: Afghans, Rajputs & Humayun — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Part II argues that Humayun's eastern campaign was driven not simply by punishing Sher Khan",
+            "but by the larger ambition to bring Bengal under a north Indian imperial aegis."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

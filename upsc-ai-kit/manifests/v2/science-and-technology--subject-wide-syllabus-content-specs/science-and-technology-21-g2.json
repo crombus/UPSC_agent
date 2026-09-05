@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "topic_key": "science-and-technology-21",
+  "title": "General Science: Physics Fundamentals",
+  "generation": 2,
+  "generation_date": "2026-09-04",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "science-and-technology-21:learner-v2:g1",
+  "source_basic": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-21_Learning-Session.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Science-and-Technology\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\00_Master-Framework.md": "2b36babfde788e4100b1c34774c2baa932c80b437f5e5b9904baf2f210fa3392",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md": "96754b21b92a51f4492a4f75415af84762d7e4ccfaa34d1cca90dfef7da284b1",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\ANSWER-WORTHINESS-AUDIT.md": "b352c374de259f1f88ed9f6dba6c3c199859e1ca52d6fbc42b7e0510167c37b4",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md": "73729a1417168595fb5ca0615a0d55c050eb782c0011a93545c9cd4b3bec1513",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\LEARNING-SESSION-COMMAND-INDEX.md": "e236007b9f12adadd6b9093d70822704dab7b8885c7817e1eb51712435df67d8",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-21_Learning-Session.md": "a03908d5cf024b7fbc640aca471fa8834bbda6b91f35825af8b6d135769e5960",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "d3c83a431b07b4f9876cc1bd299917da1c3a00f35e63029e1e7b2296224de790",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\README.md": "55a1fece0f88d5580186d4dfdfb406627cc6177b0d5510b854f1a8ce2b9f588f",
+    "upsc-ai-kit\\knowledge\\Science-and-Technology\\REVISION-CHART_Principles-Applications-and-Distinctive-Features.md": "9c08e01b9f85f60083d469bc117d48cd17986dca06fd5cbb9ccbd93f05b92913"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "The session lacks an explicit syllabus, evidence-class, contested-claim and approval contract."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Solved-Practice-Workbook_2026-09-04.md"
+}

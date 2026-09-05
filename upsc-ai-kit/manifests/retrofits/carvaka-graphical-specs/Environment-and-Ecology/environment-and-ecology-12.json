@@ -1,0 +1,1116 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-12",
+  "subject": "Environment-and-Ecology",
+  "title": "FOREST GOVERNANCE CAMPA AND GREEN INDIA MISSION",
+  "short_route": "DIVERSION-TO-FINANCE FIREWALL → PAYMENT DISTINCTION → FUND ARCHITECTURE → NATIONAL-STATE AUTHORITY MATRIX → PERFORMANCE CHAIN → PERMITTED-USE GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-12_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-12-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "6c694d99894975b02d9be6f4d93776c05d806074e46fbe9fce1738abe25a41e0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DIVERSION-TO-FINANCE FIREWALL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIVERSION-TO-FINANCE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT PROPOSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "FOREST-CONSERVATION LEGAL SCRUTINY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIOR CENTRAL APPROVAL OR EXEMPTION TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGAL DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "COMPENSATORY AFFORESTATION AND NPV WHERE APPLICABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "USER AGENCY PAYMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE TRIGGER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROJECT PROPOSAL → forest-conservation legal scrutiny",
+        "PRIOR CENTRAL APPROVAL OR EXEMPTION TEST → legal decision",
+        "CONDITIONS → compensatory afforestation and NPV where applicable",
+        "USER AGENCY PAYMENT → finance trigger",
+        "RULE → payment never substitutes for approval"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "PROJECT PROPOSAL → forest-conservation legal scrutiny",
+            "PRIOR CENTRAL APPROVAL OR EXEMPTION TEST → legal decision"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "CONDITIONS → compensatory afforestation and NPV where applicable",
+            "USER AGENCY PAYMENT → finance trigger"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → payment never substitutes for approval",
+            "PROJECT PROPOSAL → forest-conservation legal scrutiny"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITIONS → compensatory afforestation and NPV where applicable.",
+      "source_references": [
+        "Diversion approval first",
+        "CAMPA trigger"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PAYMENT DISTINCTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PAYMENT DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIED ECOSYSTEM-SERVICE VALUE IN THE APPROVAL FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "CA COST",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCES COMPENSATORY PLANTATION OR RESTORATION ACTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MAY ARISE FROM AN APPROVED DIVERSION CONDITION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE THAT ECOLOGICAL REPLACEMENT HAS OCCURRED",
+          "role": "evidence"
+        },
+        {
+          "text": "RATE, CATEGORY AND DATE FROM THE APPLICABLE ORDER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NPV → specified ecosystem-service value in the approval framework",
+        "CA COST → finances compensatory plantation or restoration activity",
+        "BOTH → may arise from an approved diversion condition",
+        "NEITHER → evidence that ecological replacement has occurred",
+        "VERIFY → rate, category and date from the applicable order"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NPV → specified ecosystem-service value in the approval framework",
+          "BOTH → may arise from an approved diversion condition",
+          "VERIFY → rate, category and date from the applicable order"
+        ],
+        [
+          "CA COST → finances compensatory plantation or restoration activity",
+          "NEITHER → evidence that ecological replacement has occurred",
+          "NPV → specified ecosystem-service value in the approval framework"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NPV → specified ecosystem-service value in the approval framework",
+            "CA COST → finances compensatory plantation or restoration activity"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOTH → may arise from an approved diversion condition",
+            "NEITHER → evidence that ecological replacement has occurred"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "VERIFY → rate, category and date from the applicable order",
+            "NPV → specified ecosystem-service value in the approval framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → rate, category and date from the applicable order.",
+      "source_references": [
+        "CAMPA trigger",
+        "NPV distinction"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FUND ARCHITECTURE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FUND ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CAF ACT 2016",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL FUND",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRALLY ASSIGNED RECEIPTS AND USES",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL PLANNING, COORDINATION AND MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE FUND",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CAF ACT 2016 → statutory framework",
+        "NATIONAL FUND → centrally assigned receipts and uses",
+        "NATIONAL AUTHORITY → central planning, coordination and monitoring",
+        "STATE FUND → state-assigned receipts and uses",
+        "STATE AUTHORITY → annual plan and on-ground implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CAF ACT 2016 → statutory framework",
+            "NATIONAL FUND → centrally assigned receipts and uses"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NATIONAL AUTHORITY → central planning, coordination and monitoring",
+            "STATE FUND → state-assigned receipts and uses"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE AUTHORITY → annual plan and on-ground implementation",
+            "CAF ACT 2016 → statutory framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE AUTHORITY → annual plan and on-ground implementation.",
+      "source_references": [
+        "CAF Act architecture",
+        "National authority boundary",
+        "State authority boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NATIONAL-STATE AUTHORITY MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NATIONAL-STATE AUTHORITY MATRIX",
+          "role": "institution"
+        },
+        {
+          "text": "COORDINATION, NATIONAL FUNCTIONS AND OVERSIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "PLAN PREPARATION, EXECUTION AND REPORTING",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSFER OR RELEASE",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCIAL STAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNTING STAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGICAL EVIDENCE STAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL → coordination, national functions and oversight",
+        "STATE → plan preparation, execution and reporting",
+        "TRANSFER OR RELEASE → financial stage",
+        "EXPENDITURE → accounting stage",
+        "OUTCOME → ecological evidence stage"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NATIONAL → coordination, national functions and oversight",
+          "TRANSFER OR RELEASE → financial stage",
+          "OUTCOME → ecological evidence stage"
+        ],
+        [
+          "STATE → plan preparation, execution and reporting",
+          "EXPENDITURE → accounting stage",
+          "NATIONAL → coordination, national functions and oversight"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NATIONAL → coordination, national functions and oversight",
+            "STATE → plan preparation, execution and reporting"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRANSFER OR RELEASE → financial stage",
+            "EXPENDITURE → accounting stage"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "OUTCOME → ecological evidence stage",
+            "NATIONAL → coordination, national functions and oversight"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPENDITURE → accounting stage; OUTCOME → ecological evidence stage.",
+      "source_references": [
+        "National authority boundary",
+        "State authority boundary",
+        "Fund-flow discipline"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PERFORMANCE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERFORMANCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY RECEIVED",
+          "role": "outcome"
+        },
+        {
+          "text": "APPROVED PROPOSED ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MONEY MADE AVAILABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "MONEY BOOKED AS SPENT",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT AND OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "PHYSICAL WORK THEN ECOLOGICAL EFFECT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ACCRUAL → money received",
+        "PLAN → approved proposed activity",
+        "RELEASE → money made available",
+        "EXPENDITURE → money booked as spent",
+        "OUTPUT AND OUTCOME → physical work then ecological effect"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "ACCRUAL → money received",
+            "PLAN → approved proposed activity"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "RELEASE → money made available",
+            "EXPENDITURE → money booked as spent"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT AND OUTCOME → physical work then ecological effect",
+            "ACCRUAL → money received"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTPUT AND OUTCOME → physical work then ecological effect.",
+      "source_references": [
+        "Fund-flow discipline",
+        "Output versus outcome"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PERMITTED-USE GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PERMITTED-USE GATE",
+          "role": "primary"
+        },
+        {
+          "text": "PROPOSED ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCATE ACT, RULES AND ANNUAL PLAN AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "PERMITTED USE",
+          "role": "evidence"
+        },
+        {
+          "text": "AFFORESTATION OR OTHER ELIGIBLE FOREST ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL OR STATE ROLE",
+          "role": "institution"
+        },
+        {
+          "text": "DATED SANCTION AND EXPENDITURE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NO FIGURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROPOSED ACTIVITY → locate Act, Rules and annual plan authority",
+        "PERMITTED USE → afforestation or other eligible forest activity",
+        "AUTHORITY → National or State role",
+        "RECORD → dated sanction and expenditure evidence",
+        "NO FIGURE → never infer allocation, spend or area"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PROPOSED ACTIVITY → locate Act, Rules and annual plan authority",
+            "PERMITTED USE → afforestation or other eligible forest activity"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTHORITY → National or State role",
+            "RECORD → dated sanction and expenditure evidence"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO FIGURE → never infer allocation, spend or area",
+            "PROPOSED ACTIVITY → locate Act, Rules and annual plan authority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO FIGURE → never infer allocation, spend or area.",
+      "source_references": [
+        "Permitted-use boundary",
+        "Live-data boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ECOLOGICAL EQUIVALENCE TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ECOLOGICAL EQUIVALENCE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "DIVERTED MATURE FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYERED STRUCTURE AND ACCUMULATED HISTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW PLANTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "YOUNG STAND WITH DIFFERENT LOCATION AND TRAJECTORY",
+          "role": "primary"
+        },
+        {
+          "text": "AREA MATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE COMPARISON ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "CANOPY GAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIVERTED MATURE FOREST → layered structure and accumulated history",
+        "NEW PLANTATION → young stand with different location and trajectory",
+        "AREA MATCH → administrative comparison only",
+        "CANOPY GAIN → does not prove biodiversity or hydrological recovery",
+        "VERDICT → compensation finance is not like-for-like replacement"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "DIVERTED MATURE FOREST → layered structure and accumulated history",
+          "AREA MATCH → administrative comparison only",
+          "VERDICT → compensation finance is not like-for-like replacement"
+        ],
+        [
+          "NEW PLANTATION → young stand with different location and trajectory",
+          "CANOPY GAIN → does not prove biodiversity or hydrological recovery",
+          "DIVERTED MATURE FOREST → layered structure and accumulated history"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "DIVERTED MATURE FOREST → layered structure and accumulated history",
+            "NEW PLANTATION → young stand with different location and trajectory"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AREA MATCH → administrative comparison only",
+            "CANOPY GAIN → does not prove biodiversity or hydrological recovery"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "VERDICT → compensation finance is not like-for-like replacement",
+            "DIVERTED MATURE FOREST → layered structure and accumulated history"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → compensation finance is not like-for-like replacement.",
+      "source_references": [
+        "Compensation limit",
+        "Output versus outcome"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SITE AND RIGHTS GATE",
+      "structural_type": "decision-gate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SITE AND RIGHTS GATE",
+          "role": "primary"
+        },
+        {
+          "text": "LAND IDENTIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY LEGAL AND RECORDED STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "MATCH NATIVE BIOME, SOIL, WATER AND CONNECTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CHECK RECOGNISED AND PENDING FRA RIGHTS",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUDE RIGHTS HOLDERS IN PLANNING AND MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "NO EMPTY-LAND ASSUMPTION",
+          "role": "caution"
+        },
+        {
+          "text": "DEGRADED DOES NOT MEAN UNUSED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAND IDENTIFIED → verify legal and recorded status",
+        "ECOLOGY → match native biome, soil, water and connectivity",
+        "TENURE → check recognised and pending FRA rights",
+        "COMMUNITY → include rights holders in planning and monitoring",
+        "NO EMPTY-LAND ASSUMPTION → degraded does not mean unused"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LAND IDENTIFIED → verify legal and recorded status",
+            "ECOLOGY → match native biome, soil, water and connectivity"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TENURE → check recognised and pending FRA rights",
+            "COMMUNITY → include rights holders in planning and monitoring"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO EMPTY-LAND ASSUMPTION → degraded does not mean unused",
+            "LAND IDENTIFIED → verify legal and recorded status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO EMPTY-LAND ASSUMPTION → degraded does not mean unused.",
+      "source_references": [
+        "Site and tenure due diligence"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GIM IDENTITY AND SCOPE",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GIM IDENTITY AND SCOPE",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL EIGHT-MISSION ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADAPTATION PLUS MITIGATION MISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORESTS, WETLANDS, MANGROVES AND CRITICAL HABITATS",
+          "role": "evidence"
+        },
+        {
+          "text": "AGROFORESTRY, SOCIAL FORESTRY AND URBAN TREE COVER",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST-DEPENDENT HOUSEHOLDS AND LOCAL COMMUNITIES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NAPCC → original eight-mission architecture",
+        "GIM → adaptation plus mitigation mission",
+        "ECOSYSTEMS → forests, wetlands, mangroves and critical habitats",
+        "LANDSCAPES → agroforestry, social forestry and urban tree cover",
+        "LIVELIHOODS → forest-dependent households and local communities"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NAPCC → original eight-mission architecture",
+            "GIM → adaptation plus mitigation mission"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECOSYSTEMS → forests, wetlands, mangroves and critical habitats",
+            "LANDSCAPES → agroforestry, social forestry and urban tree cover"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LIVELIHOODS → forest-dependent households and local communities",
+            "NAPCC → original eight-mission architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LANDSCAPES → agroforestry, social forestry and urban tree cover.",
+      "source_references": [
+        "GIM policy identity",
+        "GIM ecosystem scope"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TARGET-VERSUS-ACHIEVEMENT GATE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TARGET-VERSUS-ACHIEVEMENT GATE",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL TARGET",
+          "role": "outcome"
+        },
+        {
+          "text": "5 MHA COVER INCREASE",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALITY IMPROVEMENT OVER ANOTHER 5 MHA",
+          "role": "evidence"
+        },
+        {
+          "text": "LIVELIHOOD INCOME FOR ABOUT 3 MILLION FAMILIES",
+          "role": "primary"
+        },
+        {
+          "text": "ACHIEVEMENT CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "REQUIRES DATED MONITORING EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSION TARGET IS NOT ACTUAL OUTPUT OR OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OFFICIAL TARGET → 5 mha cover increase",
+        "OFFICIAL TARGET → quality improvement over another 5 mha",
+        "OFFICIAL TARGET → livelihood income for about 3 million families",
+        "ACHIEVEMENT CLAIM → requires dated monitoring evidence",
+        "RULE → mission target is not actual output or outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "OFFICIAL TARGET → 5 mha cover increase",
+            "OFFICIAL TARGET → quality improvement over another 5 mha"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL TARGET → livelihood income for about 3 million families",
+            "ACHIEVEMENT CLAIM → requires dated monitoring evidence"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → mission target is not actual output or outcome",
+            "OFFICIAL TARGET → 5 mha cover increase"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → mission target is not actual output or outcome.",
+      "source_references": [
+        "GIM official targets"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONVERGENCE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONVERGENCE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ECOSYSTEM-SERVICE MISSION OBJECTIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVERSION-TRIGGERED STATUTORY FINANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ELIGIBLE LABOUR AND ASSET CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "ALIGN PLANS, SITES AND MONITORING",
+          "role": "primary"
+        },
+        {
+          "text": "NO AUTOMATICITY",
+          "role": "caution"
+        },
+        {
+          "text": "INSTITUTIONS AND ACCOUNTS REMAIN DISTINCT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GIM → ecosystem-service mission objectives",
+        "CAMPA → diversion-triggered statutory finance",
+        "MGNREGS → eligible labour and asset channel",
+        "CONVERGENCE → align plans, sites and monitoring",
+        "NO AUTOMATICITY → institutions and accounts remain distinct"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "GIM → ecosystem-service mission objectives",
+          "MGNREGS → eligible labour and asset channel",
+          "NO AUTOMATICITY → institutions and accounts remain distinct"
+        ],
+        [
+          "CAMPA → diversion-triggered statutory finance",
+          "CONVERGENCE → align plans, sites and monitoring",
+          "GIM → ecosystem-service mission objectives"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "GIM → ecosystem-service mission objectives",
+            "CAMPA → diversion-triggered statutory finance"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MGNREGS → eligible labour and asset channel",
+            "CONVERGENCE → align plans, sites and monitoring"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO AUTOMATICITY → institutions and accounts remain distinct",
+            "GIM → ecosystem-service mission objectives"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO AUTOMATICITY → institutions and accounts remain distinct.",
+      "source_references": [
+        "GIM convergence",
+        "Mission-versus-CAMPA"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LAW METRIC AND PYQ SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LAW METRIC AND PYQ SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "2023 STATUTE PLUS FEBRUARY 2024 INTERIM DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "APPROVAL, NPV, CA COST AND FUND FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "GIM TARGETS SEPARATED FROM ACHIEVEMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCRUAL, SPEND, OUTPUT AND OUTCOME KEPT DISTINCT",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECTIVE PYQS AND FAILED LIVE FIGURES REMAIN ANSWER-FREE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LAW → 2023 statute plus February 2024 interim direction",
+        "FINANCE → approval, NPV, CA cost and fund flow",
+        "MISSION → GIM targets separated from achievements",
+        "METRIC → accrual, spend, output and outcome kept distinct",
+        "AUDIT → objective PYQs and failed live figures remain answer-free"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LAW → 2023 statute plus February 2024 interim direction",
+            "FINANCE → approval, NPV, CA cost and fund flow"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MISSION → GIM targets separated from achievements",
+            "METRIC → accrual, spend, output and outcome kept distinct"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "AUDIT → objective PYQs and failed live figures remain answer-free",
+            "LAW → 2023 statute plus February 2024 interim direction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIT → objective PYQs and failed live figures remain answer-free.",
+      "source_references": [
+        "Forest-law vintage",
+        "Green-credit boundary",
+        "Audited PYQ ownership",
+        "Live-data boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENT FIELD STUDIES AND CIVIL-SOCIETY ASSESSMENTS HAVE REPEATEDLY FLAGGED",
+          "role": "outcome"
+        },
+        {
+          "text": "BALANCED FRAMING",
+          "role": "comparison"
+        },
+        {
+          "text": "THESE ARE DOCUMENTED IMPLEMENTATION CRITIQUES FROM A RANGE OF",
+          "role": "evidence"
+        },
+        {
+          "text": "PRECISE, CURRENTLY ACCURATE FIGURES FOR TOTAL CAMPA FUND ACCRUAL",
+          "role": "primary"
+        },
+        {
+          "text": "THERE IS NO SINGLE, COMPREHENSIVE, INDEPENDENTLY VERIFIED NATIONAL DATASET",
+          "role": "caution"
+        },
+        {
+          "text": "GREEN INDIA MISSION'S AGGREGATE PHYSICAL/FINANCIAL PROGRESS REPORTING IS DISTRIBUTED",
+          "role": "comparison"
+        },
+        {
+          "text": "CAG AND PARLIAMENTARY STANDING COMMITTEE REVIEWS HAVE REPEATEDLY FLAGGED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Independent field studies and civil-society assessments have repeatedly flagged",
+            "CAUTION: Balanced framing: these are documented implementation critiques from a range of",
+            "CAUTION: Precise, currently accurate figures for total CAMPA fund accrual, state-wise",
+            "CAUTION: There is no single, comprehensive, independently verified national dataset tracking the"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Green India Mission's aggregate physical/financial progress reporting is distributed",
+            "CAG and parliamentary standing committee reviews have repeatedly flagged CAMPA fund",
+            "The Green India Mission's mandate spans forest quality, agroforestry, wetlands,",
+            "Independent assessments have flagged concerns about non-native/monoculture species use"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAMPA and GIM are governed by different institutional architectures (a single dedicated",
+            "NOT: CAMPA fund utilisation has been consistently rapid and fully matches accrued corpus",
+            "NOT: Compensatory afforestation is considered an ecologically equivalent, \"no net loss\"",
+            "NOT: The Green India Mission has a single, unified national tracking metric analogous to"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

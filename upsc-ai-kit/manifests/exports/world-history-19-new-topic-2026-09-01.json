@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "world-history-19",
+  "subject": "World-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "world-history-19",
+  "title": "Latin America (20th Century)",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Latin America (20th Century)",
+  "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-19_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-19_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\19_Latin-America-20th-Century_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md"
+  ],
+  "local_ocr_sources": [
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://www.ohchr.org/en/press-releases/2026/03/argentina-alarming-setbacks-transitional-justice-50th-anniversary-coup-detat"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+    "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+    "upsc-ai-kit\\knowledge\\World-History\\19_Latin-America-20th-Century_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-19_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-19_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-19-20-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-19.json",
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. All six Mains demands are original practice.",
+  "current_linkage_note": "A 19 March 2026 statement by UN human rights experts marks the fiftieth anniversary of the beginning of Argentina's 1976 military dictatorship and addresses transitional justice, truth, memory and guarantees of non-repetition after the return to democracy. This is a narrow current link to twentieth-century Latin American military rule and democratic transition; no unverified crowd or other numerical claim is imported.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

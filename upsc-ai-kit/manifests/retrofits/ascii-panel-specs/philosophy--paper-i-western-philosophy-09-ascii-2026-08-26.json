@@ -1,0 +1,235 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a manually authored Husserl method-essence-objectivity atlas",
+  "generated_on": "2026-08-26",
+  "scope": "Philosophy Optional Paper I Western Philosophy topic 09 only",
+  "constraints": {
+    "panel_count_per_topic": 10,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-09",
+      "title": "Phenomenology (Husserl)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g2\\topic-09_Complete-Learning-Session_2026-08-26.md",
+      "source_record": "philosophy-paper-i-western-philosophy-09:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved Cārvāka design reference and every legacy Husserl generation remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Crisis and the project of rigorous phenomenology",
+          "structural_type": "crisis-diagnostic-and-project-bridge",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "START -> philosophy must ground meaning, truth and objectivity without borrowed assumptions.",
+            "NATURALISM -> reduces reason and meaning to empirical natural or psychological processes.",
+            "HISTORICISM -> makes truth relative to a worldview, culture or historical epoch.",
+            "SCEPTICISM -> follows when objective validity cannot exceed contingent human facts.",
+            "PROJECT -> philosophy as rigorous science answerable to evidence and structures of givenness.",
+            "PHENOMENOLOGY -> disciplined description of how objects are given to consciousness.",
+            "MOTTO -> to the things themselves: subject-matters as given, not merely physical things.",
+            "NOT -> vague introspection, private images, appearance-talk or empirical psychology.",
+            "UNITY -> method + essences + anti-psychologism form one programme of objectivity.",
+            "LIMIT -> complete presuppositionlessness remains a regulative aspiration."
+          ]
+        },
+        {
+          "panel_title": "Natural attitude, profiles, horizons and object identity",
+          "structural_type": "world-horizon-and-profile-synthesis",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "NATURAL ATTITUDE -> ordinary, useful and unexamined positing of world and objects as existing.",
+            "GENERAL THESIS -> the world is simply there; it is operative before explicit belief.",
+            "NOT -> stupidity, a false doctrine or a worked-out theory of naive realism.",
+            "PROFILE / ADUMBRATION -> one perspectival presentation of a transcendent object.",
+            "TABLE -> front, side, rear and new-light profiles are intended as one identical thing.",
+            "HORIZON -> absent sides, possible uses, contexts and further confirmable appearances.",
+            "SYNTHESIS -> identification across changing profiles sustains object identity.",
+            "TRANSCENDENT OBJECT -> exceeds every finite presentation but is directly intended.",
+            "PROBLEM -> naive object-focus hides the correlation between object and givenness.",
+            "BRIDGE -> epoché changes attitude toward the posit without abandoning the world."
+          ]
+        },
+        {
+          "panel_title": "Epoché and the three reductions",
+          "structural_type": "method-sequence-and-three-way-contrast",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "EPOCHÉ -> suspend the natural attitude's existential posit for phenomenological inquiry.",
+            "NOT DENIAL -> no claim that the world is unreal, destroyed or only mental.",
+            "NOT DOUBT -> Cartesian doubt questions existence; Husserl neutralises the commitment.",
+            "PHENOMENOLOGICAL REDUCTION -> shift from object alone to object-givenness correlation.",
+            "TRANSCENDENTAL REDUCTION -> disclose the non-empirical field of sense-constitution.",
+            "EIDETIC REDUCTION -> move from factual instance to invariant possibility-condition.",
+            "NOT INTROSPECTION -> empirical self-observation remains a worldly psychology.",
+            "RETURN -> the same world is recovered as intended, meaningful and confirmable.",
+            "OBJECTION -> circularity, infeasibility, world-denial and transcendental idealism.",
+            "VERDICT -> powerful change of attitude; complete execution remains contestable."
+          ]
+        },
+        {
+          "panel_title": "Intentionality, fulfilment, transcendence and horizon",
+          "structural_type": "act-object-correlation-and-fulfilment-flow",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "INTENTIONALITY -> consciousness is consciousness of something; directedness, not purpose.",
+            "ACT / OBJECT -> perceiving, remembering, imagining and judging each intend an object.",
+            "EMPTY OR SIGNITIVE INTENTION -> meaning without intuitive presence of the object.",
+            "INTUITIVE FULFILMENT -> givenness confirms, enriches or disappoints what was meant.",
+            "IMMANENT -> experience as lived in the stream; not a private object inside the mind.",
+            "TRANSCENDENT -> physical object exceeds every profile and remains horizonally open.",
+            "HALLUCINATION -> genuinely intentional though no corresponding physical object exists.",
+            "EVIDENCE -> concordant fulfilment differs from mere directedness or felt certainty.",
+            "HORIZON -> possible further views, corrections, uses and intersubjective confirmations.",
+            "LIMIT -> phenomenology describes evidence but is not a full causal reliability theory."
+          ]
+        },
+        {
+          "panel_title": "Noesis, noema, constitution, evidence and truth",
+          "structural_type": "correlation-and-anti-picture-diagnostic",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "NOESIS -> intentional act or process: perceiving, judging, remembering, valuing.",
+            "NOEMA -> object-as-intended or noematic sense within the intentional correlation.",
+            "NOT PRIVATE PICTURE -> noema does not block access to a worldly object.",
+            "NOEMA QUALIFICATION -> not simply the physical object without its mode of givenness.",
+            "CONSTITUTION -> synthesis and disclosure of stable sense and objectivity.",
+            "NOT CREATION -> the mind does not causally manufacture physical objects.",
+            "SYNTHESIS -> profiles, retention, fulfilment and horizon yield one identifiable object.",
+            "EVIDENCE -> fulfilled givenness that justifies a judgment.",
+            "TRUTH -> validity not reducible to a subject's current feeling of evidence.",
+            "LIMIT -> noema interpretation and transcendental idealism remain disputed."
+          ]
+        },
+        {
+          "panel_title": "Temporal synthesis and the living present",
+          "structural_type": "temporal-triad-and-memory-contrast",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "PROBLEM -> isolated now-points could never be heard as one melody or meaningful sentence.",
+            "PRIMAL IMPRESSION -> the now-phase or source-point of the temporal object.",
+            "RETENTION -> just-past still held within present perception; primary memory.",
+            "PROTENTION -> open anticipation of the just-coming, fulfilled or disappointed.",
+            "LIVING PRESENT -> retention + primal impression + protention as one structured field.",
+            "RETENTION != RECOLLECTION -> present perception versus a fresh re-presentation.",
+            "PASSIVE SYNTHESIS -> temporal unity and identification before explicit judgment.",
+            "ACTIVE SYNTHESIS -> deliberate identification, predication and confirmation.",
+            "PAYOFF -> identity, habituality, sedimentation and non-atomistic experience.",
+            "LIMIT -> self-constituting absolute flow may stop regress only by stipulation."
+          ]
+        },
+        {
+          "panel_title": "Eidetic science and free imaginative variation",
+          "structural_type": "variation-test-and-science-comparison",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "EIDOS / ESSENCE -> invariant structure or possibility-condition of a phenomenon's kind.",
+            "FACTUAL SCIENCE -> actual individuals, causal regularities and contingent truths.",
+            "EIDETIC SCIENCE -> possible instances, invariants and a priori necessary structures.",
+            "METHOD -> choose case -> vary features -> test kind-change -> isolate invariant.",
+            "TRIANGLE -> colour, size and orientation vary; three-sidedness cannot be removed.",
+            "PROMISE -> wording may vary; an undertaking answerable to another remains essential.",
+            "PERCEPTION -> contents vary; perspectival and horizon-structured givenness remains.",
+            "NOT -> inductive average, dictionary definition, mysticism or separate Platonic realm.",
+            "OBJECTIONS -> cultural bias, selection bias, hidden concepts and limited imagination.",
+            "REPLY / LIMIT -> counter-variation and criticism help; exhaustiveness is never guaranteed."
+          ]
+        },
+        {
+          "panel_title": "Transcendental subjectivity, world-return and lifeworld",
+          "structural_type": "three-level-subject-and-world-return",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "EMPIRICAL PSYCHE -> psychophysical person within the world and studied causally.",
+            "DESCARTES -> thinking substance that must recover a doubted external world.",
+            "TRANSCENDENTAL SUBJECTIVITY -> field for which world, self and validity have sense.",
+            "WORLD RETURN -> bracketed world reappears as intended horizon, not a mental fabrication.",
+            "TRANSCENDENTAL IDEALISM -> being-for-us is tied to conditions of givenness.",
+            "LIFEWORLD -> pre-theoretical, practical and shared ground of experience.",
+            "SCIENCE -> idealises the lifeworld through measurement and mathematical abstraction.",
+            "CRISIS -> objectivism forgets the experiential source of scientific meaning.",
+            "REPLY -> late history, body, sedimentation and intersubjectivity internalise worldliness.",
+            "LIMIT -> expansion may reveal instability in the purified transcendental starting point."
+          ]
+        },
+        {
+          "panel_title": "Psychologism, ideal meaning and transcendental bridge",
+          "structural_type": "law-comparison-and-validity-bridge",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "PSYCHOLOGISM -> reduces logical laws, meanings, number or validity to mental facts.",
+            "DESCRIPTIVE PSYCHOLOGY -> legitimately studies real acts without grounding validity.",
+            "LOGICAL LAW -> ideal, normative, necessary, universal and a ground of correctness.",
+            "PSYCHOLOGICAL LAW -> empirical, causal, contingent and species-dependent.",
+            "ACT OF JUDGING -> real event; CONTENT / PROPOSITION -> ideal meaning.",
+            "TRUTH -> validity of content; EVIDENCE -> fulfilled givenness justifying assent.",
+            "CONSEQUENCE -> psychologism cannot explain error and tends to relativism or scepticism.",
+            "SELF-PRESSURE -> its reasoning claims more validity than its theory permits.",
+            "BRIDGE -> phenomenology explains how finite acts grasp ideal meanings.",
+            "LIMIT -> transcendental constitution avoids psychology but invites idealism."
+          ]
+        },
+        {
+          "panel_title": "Intersubjectivity, evaluation, legacy and answer spine",
+          "structural_type": "public-objectivity-and-evaluation-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "INTERSUBJECTIVITY -> condition for a world valid for subjects other than myself.",
+            "PAIRING -> passive association between my lived body and another expressive body.",
+            "APPRESENTATION -> other's stream co-intended but never originally presented to me.",
+            "NOT INFERENCE -> analogising transfer of sense, not deduction from behaviour.",
+            "ALTER EGO -> another centre with a here that is there from my viewpoint.",
+            "PUBLIC OBJECTIVITY -> potentially shareable and correctable validity-for-anyone.",
+            "CRITICISMS -> circularity, solipsism, idealism, body, language, history and noema.",
+            "LEGACY -> Heidegger and Merleau-Ponty inherit intentionality while revising reduction.",
+            "ANSWER SPINE -> project -> method -> correlation -> essence -> validity -> critique.",
+            "VERDICT -> descriptive precision and anti-reductionism with unresolved subject-priority."
+          ]
+        }
+      ]
+    }
+  ]
+}

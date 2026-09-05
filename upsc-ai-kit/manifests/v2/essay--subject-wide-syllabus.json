@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Essay",
+    "display_name": "Essay"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Essay\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Essay\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Essay\\README.md"
+    ],
+    "notes": "Materialised from the complete 16-topic Essay catalogue without generating, registering, staging, finalising or publishing any topic."
+  },
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "display_title": "Paper Rules, Choice and Selection",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 01.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\01_Paper-Rules-Choice-and-Selection.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\01_Paper-Rules-Choice-and-Selection.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\01_Paper-Rules-Choice-and-Selection.md"
+    },
+    {
+      "topic_key": "essay-02",
+      "display_title": "Philosophical Quote Decoding",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 02.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\02_Philosophical-Quote-Decoding.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\02_Philosophical-Quote-Decoding.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\02_Philosophical-Quote-Decoding.md"
+    },
+    {
+      "topic_key": "essay-03",
+      "display_title": "Issue-Based Prompt Scoping",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 03.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\03_Issue-Based-Prompt-Scoping.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\03_Issue-Based-Prompt-Scoping.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\03_Issue-Based-Prompt-Scoping.md"
+    },
+    {
+      "topic_key": "essay-04",
+      "display_title": "Brainstorming and Dimensional Expansion",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 04.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\04_Brainstorming-and-Dimensional-Expansion.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\04_Brainstorming-and-Dimensional-Expansion.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\04_Brainstorming-and-Dimensional-Expansion.md"
+    },
+    {
+      "topic_key": "essay-05",
+      "display_title": "Thesis, Central Argument and Argument Map",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 05.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\05_Thesis-Central-Argument-and-Argument-Map.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\05_Thesis-Central-Argument-and-Argument-Map.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\05_Thesis-Central-Argument-and-Argument-Map.md"
+    },
+    {
+      "topic_key": "essay-06",
+      "display_title": "Introductions and Conclusions",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 06.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\06_Introductions-and-Conclusions.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\06_Introductions-and-Conclusions.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\06_Introductions-and-Conclusions.md"
+    },
+    {
+      "topic_key": "essay-07",
+      "display_title": "Macro-Structure, Paragraph Flow and Transitions",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 07.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\07_Macro-Structure-Paragraph-Flow-and-Transitions.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\07_Macro-Structure-Paragraph-Flow-and-Transitions.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\07_Macro-Structure-Paragraph-Flow-and-Transitions.md"
+    },
+    {
+      "topic_key": "essay-08",
+      "display_title": "Argument, Counterargument and Synthesis",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 08.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\08_Argument-Counterargument-and-Synthesis.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\08_Argument-Counterargument-and-Synthesis.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\08_Argument-Counterargument-and-Synthesis.md"
+    },
+    {
+      "topic_key": "essay-09",
+      "display_title": "Evidence, Examples, Data and Quotation Discipline",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 09.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\09_Evidence-Examples-Data-and-Quotation-Discipline.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\09_Evidence-Examples-Data-and-Quotation-Discipline.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\09_Evidence-Examples-Data-and-Quotation-Discipline.md"
+    },
+    {
+      "topic_key": "essay-10",
+      "display_title": "Ethical and Philosophical Frameworks and Value Conflicts",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 10.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\10_Ethical-Philosophical-Frameworks-and-Value-Conflicts.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\10_Ethical-Philosophical-Frameworks-and-Value-Conflicts.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\10_Ethical-Philosophical-Frameworks-and-Value-Conflicts.md"
+    },
+    {
+      "topic_key": "essay-11",
+      "display_title": "Cross-Sector Lenses and Scale",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 11.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\11_Cross-Sector-Lenses-and-Scale.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\11_Cross-Sector-Lenses-and-Scale.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\11_Cross-Sector-Lenses-and-Scale.md"
+    },
+    {
+      "topic_key": "essay-12",
+      "display_title": "India-Centric Illustration Bank",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 12.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\12_India-Centric-Illustration-Bank.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\12_India-Centric-Illustration-Bank.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\12_India-Centric-Illustration-Bank.md"
+    },
+    {
+      "topic_key": "essay-13",
+      "display_title": "Time Management, Planning and Execution",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 13.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\13_Time-Management-Planning-and-Execution.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\13_Time-Management-Planning-and-Execution.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\13_Time-Management-Planning-and-Execution.md"
+    },
+    {
+      "topic_key": "essay-14",
+      "display_title": "Language, Style and Functional Visuals",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 14.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\14_Language-Style-and-Functional-Visuals.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\14_Language-Style-and-Functional-Visuals.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\14_Language-Style-and-Functional-Visuals.md"
+    },
+    {
+      "topic_key": "essay-15",
+      "display_title": "Self-Evaluation and Internal Practice Rubric",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 15.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\15_Self-Evaluation-and-Internal-Practice-Rubric.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\15_Self-Evaluation-and-Internal-Practice-Rubric.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\15_Self-Evaluation-and-Internal-Practice-Rubric.md"
+    },
+    {
+      "topic_key": "essay-16",
+      "display_title": "Practice Loops, PYQ Lab and Revision System",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 16.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Essay\\basic\\16_Practice-Loops-PYQ-Lab-and-Revision-System.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\16_Practice-Loops-PYQ-Lab-and-Revision-System.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\16_Practice-Loops-PYQ-Lab-and-Revision-System.md"
+    }
+  ]
+}

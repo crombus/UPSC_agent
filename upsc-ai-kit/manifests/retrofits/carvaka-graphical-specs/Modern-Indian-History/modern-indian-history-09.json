@@ -1,0 +1,1006 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-09",
+  "subject": "Modern-Indian-History",
+  "title": "SOCIAL & CULTURAL POLICY - EDUCATION, THE PRESS, STATE & SOCIETY",
+  "short_route": "HICKY'S BENGAL GAZETTE IN → CALCUTTA MADRASA IN COLONIAL → SANSKRIT COLLEGE AT BANARAS → FORT WILLIAM COLLEGE IN → CHARTER ACT OF 1813 → MACAULAY'S MINUTE IN COLONIAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-09-13-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "30c049466d683d42eb66119533b25d6465381035cbcdba631988d27546935764",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "HICKY'S BENGAL GAZETTE IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HICKY'S BENGAL GAZETTE IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "HICKY'S BENGAL GAZETTE",
+          "role": "outcome"
+        },
+        {
+          "text": "HICKY'S BENGAL GAZETTE BEGAN IN 1780 AND IS TREATED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE HICKY'S BENGAL GAZETTE TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER HICKY'S BENGAL GAZETTE TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Hicky's Bengal Gazette",
+        "EVIDENCE → Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper.",
+        "EXAM USE → use Hicky's Bengal Gazette to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Hicky's Bengal Gazette to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Hicky's Bengal Gazette",
+            "EVIDENCE → Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Hicky's Bengal Gazette to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Hicky's Bengal Gazette to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Hicky's Bengal Gazette",
+            "EVIDENCE → Hicky's Bengal Gazette began in 1780 and is treated as India's first newspaper."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Hicky's Bengal Gazette to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Hicky's Bengal Gazette to another institution or theatre.",
+      "source_references": [
+        "Hicky's Bengal Gazette",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CALCUTTA MADRASA IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CALCUTTA MADRASA IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "CALCUTTA MADRASA",
+          "role": "outcome"
+        },
+        {
+          "text": "WARREN HASTINGS FOUNDED THE CALCUTTA MADRASA IN 1781 WITHIN",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE CALCUTTA MADRASA TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER CALCUTTA MADRASA TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Calcutta Madrasa",
+        "EVIDENCE → Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy.",
+        "EXAM USE → use Calcutta Madrasa to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Calcutta Madrasa to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Calcutta Madrasa",
+            "EVIDENCE → Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Calcutta Madrasa to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Calcutta Madrasa to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Calcutta Madrasa",
+            "EVIDENCE → Warren Hastings founded the Calcutta Madrasa in 1781 within early Orientalist policy."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Calcutta Madrasa to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Calcutta Madrasa to another institution or theatre.",
+      "source_references": [
+        "Calcutta Madrasa",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SANSKRIT COLLEGE AT BANARAS IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SANSKRIT COLLEGE AT BANARAS IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "SANSKRIT COLLEGE AT BANARAS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SANSKRIT COLLEGE AT BANARAS WAS FOUNDED IN 1791",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SANSKRIT COLLEGE AT BANARAS TO MATCH ACTOR, DATE",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT TRANSFER SANSKRIT COLLEGE AT BANARAS TO ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Sanskrit College at Banaras",
+        "EVIDENCE → The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.",
+        "EXAM USE → use Sanskrit College at Banaras to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Sanskrit College at Banaras to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Sanskrit College at Banaras",
+          "EXAM USE → use Sanskrit College at Banaras to match actor, date, mechanism and limit.",
+          "FOCUS → Sanskrit College at Banaras"
+        ],
+        [
+          "EVIDENCE → The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution.",
+          "LIMIT → do not transfer Sanskrit College at Banaras to another institution or theatre.",
+          "EVIDENCE → The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Sanskrit College at Banaras",
+            "EVIDENCE → The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Sanskrit College at Banaras to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Sanskrit College at Banaras to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Sanskrit College at Banaras",
+            "EVIDENCE → The Sanskrit College at Banaras was founded in 1791 as an Orientalist institution."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Sanskrit College at Banaras to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Sanskrit College at Banaras to another institution or theatre.",
+      "source_references": [
+        "Sanskrit College at Banaras",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FORT WILLIAM COLLEGE IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FORT WILLIAM COLLEGE IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "FORT WILLIAM COLLEGE",
+          "role": "outcome"
+        },
+        {
+          "text": "WELLESLEY FOUNDED FORT WILLIAM COLLEGE IN 1800 TO TRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE FORT WILLIAM COLLEGE TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER FORT WILLIAM COLLEGE TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Fort William College",
+        "EVIDENCE → Wellesley founded Fort William College in 1800 to train European Company civil servants",
+        "EXAM USE → use Fort William College to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Fort William College to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Fort William College",
+            "EVIDENCE → Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Fort William College to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Fort William College to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Fort William College",
+            "EVIDENCE → Wellesley founded Fort William College in 1800 to train European Company civil servants in Indian languages and law."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Fort William College to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Fort William College to another institution or theatre.",
+      "source_references": [
+        "Fort William College",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CHARTER ACT OF 1813 IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CHARTER ACT OF 1813 IN COLONIAL EDUCATION AND PRESS",
+          "role": "institution"
+        },
+        {
+          "text": "CHARTER ACT OF 1813",
+          "role": "institution"
+        },
+        {
+          "text": "THE CHARTER ACT OF 1813 ASSIGNED ONE LAKH RUPEES",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE CHARTER ACT OF 1813 TO MATCH ACTOR, DATE",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER CHARTER ACT OF 1813 TO ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Charter Act of 1813",
+        "EVIDENCE → The Charter Act of 1813 assigned one lakh rupees to education and permitted",
+        "EXAM USE → use Charter Act of 1813 to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Charter Act of 1813 to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Charter Act of 1813",
+            "EVIDENCE → The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Charter Act of 1813 to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Charter Act of 1813 to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Charter Act of 1813",
+            "EVIDENCE → The Charter Act of 1813 assigned one lakh rupees to education and permitted missionary activity."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Charter Act of 1813 to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Charter Act of 1813 to another institution or theatre.",
+      "source_references": [
+        "Charter Act of 1813",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MACAULAY'S MINUTE IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MACAULAY'S MINUTE IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "MACAULAY'S MINUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "MACAULAY'S MINUTE OF 1835 ADVOCATED ENGLISH-MEDIUM WESTERN LEARNING FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE MACAULAY'S MINUTE TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER MACAULAY'S MINUTE TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Macaulay's Minute",
+        "EVIDENCE → Macaulay's Minute of 1835 advocated English-medium Western learning for higher education.",
+        "EXAM USE → use Macaulay's Minute to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Macaulay's Minute to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Macaulay's Minute",
+            "EVIDENCE → Macaulay's Minute of 1835 advocated English-medium Western learning for higher education."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Macaulay's Minute to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Macaulay's Minute to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Macaulay's Minute",
+            "EVIDENCE → Macaulay's Minute of 1835 advocated English-medium Western learning for higher education."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Macaulay's Minute to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Macaulay's Minute to another institution or theatre.",
+      "source_references": [
+        "Macaulay's Minute",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BENTINCK'S 1835 RESOLUTION IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BENTINCK'S 1835 RESOLUTION IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "BENTINCK'S 1835 RESOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BENTINCK'S 1835 RESOLUTION IMPLEMENTED THE ANGLICIST PREFERENCE IN STATE",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE BENTINCK'S 1835 RESOLUTION TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER BENTINCK'S 1835 RESOLUTION TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Bentinck's 1835 resolution",
+        "EVIDENCE → Bentinck's 1835 resolution implemented the Anglicist preference in state education.",
+        "EXAM USE → use Bentinck's 1835 resolution to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Bentinck's 1835 resolution to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Bentinck's 1835 resolution",
+            "EVIDENCE → Bentinck's 1835 resolution implemented the Anglicist preference in state education."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Bentinck's 1835 resolution to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Bentinck's 1835 resolution to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Bentinck's 1835 resolution",
+            "EVIDENCE → Bentinck's 1835 resolution implemented the Anglicist preference in state education."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Bentinck's 1835 resolution to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Bentinck's 1835 resolution to another institution or theatre.",
+      "source_references": [
+        "Bentinck's 1835 resolution",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "METCALFE'S PRESS POLICY IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "METCALFE'S PRESS POLICY IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "METCALFE'S PRESS POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "METCALFE'S 1835 PRESS LIBERALISATION EARNED HIM THE CONVENTIONAL TITLE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE METCALFE'S PRESS POLICY TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER METCALFE'S PRESS POLICY TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Metcalfe's press policy",
+        "EVIDENCE → Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press.",
+        "EXAM USE → use Metcalfe's press policy to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Metcalfe's press policy to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Metcalfe's press policy",
+            "EVIDENCE → Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Metcalfe's press policy to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Metcalfe's press policy to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Metcalfe's press policy",
+            "EVIDENCE → Metcalfe's 1835 press liberalisation earned him the conventional title liberator of the press."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Metcalfe's press policy to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Metcalfe's press policy to another institution or theatre.",
+      "source_references": [
+        "Metcalfe's press policy",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WOOD'S DESPATCH IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WOOD'S DESPATCH IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "WOOD'S DESPATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "WOOD'S DESPATCH OF 1854 PROPOSED GRANTS-IN-AID, EDUCATION DEPARTMENTS, TEACHER",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE WOOD'S DESPATCH TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER WOOD'S DESPATCH TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Wood's Despatch",
+        "EVIDENCE → Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling",
+        "EXAM USE → use Wood's Despatch to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Wood's Despatch to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Wood's Despatch",
+          "EXAM USE → use Wood's Despatch to match actor, date, mechanism and limit.",
+          "FOCUS → Wood's Despatch"
+        ],
+        [
+          "EVIDENCE → Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities.",
+          "LIMIT → do not transfer Wood's Despatch to another institution or theatre.",
+          "EVIDENCE → Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Wood's Despatch",
+            "EVIDENCE → Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Wood's Despatch to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Wood's Despatch to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Wood's Despatch",
+            "EVIDENCE → Wood's Despatch of 1854 proposed grants-in-aid, education departments, teacher training, vernacular primary schooling and universities."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Wood's Despatch to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Wood's Despatch to another institution or theatre.",
+      "source_references": [
+        "Wood's Despatch",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PRESIDENCY UNIVERSITIES IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRESIDENCY UNIVERSITIES IN COLONIAL EDUCATION AND PRESS",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENCY UNIVERSITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIVERSITIES AT CALCUTTA, BOMBAY AND MADRAS WERE ESTABLISHED IN",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE PRESIDENCY UNIVERSITIES TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER PRESIDENCY UNIVERSITIES TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Presidency universities",
+        "EVIDENCE → Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions.",
+        "EXAM USE → use Presidency universities to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Presidency universities to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Presidency universities",
+            "EVIDENCE → Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Presidency universities to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Presidency universities to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Presidency universities",
+            "EVIDENCE → Universities at Calcutta, Bombay and Madras were established in 1857 as examining institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Presidency universities to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Presidency universities to another institution or theatre.",
+      "source_references": [
+        "Presidency universities",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LICENSING ACT OF 1857 IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LICENSING ACT OF 1857 IN COLONIAL EDUCATION AND PRESS",
+          "role": "institution"
+        },
+        {
+          "text": "LICENSING ACT OF 1857",
+          "role": "institution"
+        },
+        {
+          "text": "THE LICENSING ACT OF 1857 MARKED RENEWED PRESS RESTRICTION",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE LICENSING ACT OF 1857 TO MATCH ACTOR, DATE",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER LICENSING ACT OF 1857 TO ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Licensing Act of 1857",
+        "EVIDENCE → The Licensing Act of 1857 marked renewed press restriction during the revolt crisis.",
+        "EXAM USE → use Licensing Act of 1857 to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Licensing Act of 1857 to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Licensing Act of 1857",
+            "EVIDENCE → The Licensing Act of 1857 marked renewed press restriction during the revolt crisis."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Licensing Act of 1857 to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Licensing Act of 1857 to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Licensing Act of 1857",
+            "EVIDENCE → The Licensing Act of 1857 marked renewed press restriction during the revolt crisis."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Licensing Act of 1857 to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Licensing Act of 1857 to another institution or theatre.",
+      "source_references": [
+        "Licensing Act of 1857",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "VERNACULAR PRESS ACT IN COLONIAL EDUCATION AND PRESS",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "VERNACULAR PRESS ACT IN COLONIAL EDUCATION AND PRESS",
+          "role": "institution"
+        },
+        {
+          "text": "VERNACULAR PRESS ACT",
+          "role": "institution"
+        },
+        {
+          "text": "LYTTON'S VERNACULAR PRESS ACT OF 1878 SPECIFICALLY TARGETED INDIAN-LANGUAGE",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE VERNACULAR PRESS ACT TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT TRANSFER VERNACULAR PRESS ACT TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Vernacular Press Act",
+        "EVIDENCE → Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers.",
+        "EXAM USE → use Vernacular Press Act to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Vernacular Press Act to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Vernacular Press Act",
+            "EVIDENCE → Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Vernacular Press Act to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Vernacular Press Act to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Vernacular Press Act",
+            "EVIDENCE → Lytton's Vernacular Press Act of 1878 specifically targeted Indian-language newspapers."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Vernacular Press Act to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Vernacular Press Act to another institution or theatre.",
+      "source_references": [
+        "Vernacular Press Act",
+        "Social & Cultural Policy - Education, the Press, State & Society"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY ORIENTALIST POLICY SUPPORTED INSTITUTIONS LIKE CALCUTTA MADRASA AND",
+          "role": "outcome"
+        },
+        {
+          "text": "REFLECTING AN ATTEMPT TO GOVERN THROUGH CLASSICAL LEARNING AND",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ANGLICIST VICTORY AFTER MACAULAY'S MINUTE AND BENTINCK'S 1835",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DOWNWARD FILTRATION THEORY ASSUMED THAT EDUCATING A SMALL",
+          "role": "primary"
+        },
+        {
+          "text": "WOOD'S DESPATCH, 1854 BROADENED THE FRAMEWORK BY RECOMMENDING A",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTRUCTION IN EACH PROVINCE, GRANTS-IN-AID, TEACHER TRAINING, VERNACULAR PRIMARY",
+          "role": "comparison"
+        },
+        {
+          "text": "ENGLISH EDUCATION SERVED COLONIAL ADMINISTRATIVE NEEDS, BUT IT ALSO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Early Orientalist policy supported institutions like Calcutta Madrasa and Sanskrit College ,",
+            "reflecting an attempt to govern through classical learning and traditional elites.",
+            "The Anglicist victory after Macaulay's Minute and Bentinck's 1835 resolution shifted state support toward English education and Western knowledge.",
+            "The downward filtration theory assumed that educating a small English-educated elite would spread knowledge to the wider population."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Wood's Despatch, 1854 broadened the framework by recommending a department of public",
+            "instruction in each province, grants-in-aid, teacher training, vernacular primary education and universities.",
+            "CAUTION: English education served colonial administrative needs, but it also produced the",
+            "intelligentsia that criticised colonial rule using liberal, rationalist and nationalist arguments."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Indian press began with Hicky's Bengal Gazette (1780) and expanded into English and vernacular spaces of debate.",
+            "Metcalfe's 1835 press policy earned him the title \"liberator of the press\", but later crises produced restrictions such as the Licensing Act of 1857.",
+            "Vernacular Press Act, 1878 under Lytton targeted Indian-language newspapers; Amrita Bazar Patrika famously shifted to English to escape its scope.",
+            "Reform legislation included abolition of Sati (1829) , suppression of female infanticide and thugee,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

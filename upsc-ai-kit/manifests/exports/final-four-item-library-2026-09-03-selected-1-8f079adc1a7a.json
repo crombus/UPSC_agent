@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T16:22:45+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "ec96e99f98f2fd7f7d0085162c3dafc0b2494fcfabc0e6339d35a4ac0715ce4f",
+    "sha256_after": "ec96e99f98f2fd7f7d0085162c3dafc0b2494fcfabc0e6339d35a4ac0715ce4f",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8075,
+    "pdf_count": 2097,
+    "png_count": 723,
+    "txt_count": 890,
+    "markdown_count": 1321,
+    "json_count": 3029,
+    "total_bytes": 3759123055,
+    "by_extension": {
+      ".json": 3029,
+      ".md": 1321,
+      ".pdf": 2097,
+      ".png": 723,
+      ".txt": 890,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-08",
+      "topic_title": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 8,
+      "source_record_id": "medieval-indian-history-08:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g5\\medieval-indian-history-08_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3fcc2c8d16410d711e532fb98fb85bfd64e57733d7046cb5c3582008ed1028f3",
+          "output_sha256": "3fcc2c8d16410d711e532fb98fb85bfd64e57733d7046cb5c3582008ed1028f3",
+          "source_output_equal": true,
+          "bytes": 1332691
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-08\\g5\\medieval-indian-history-08_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a2e8a726428d47cfe4d1dae728fb173b99b2eecd9d6c76397679560a1990bbb9",
+          "output_sha256": "a2e8a726428d47cfe4d1dae728fb173b99b2eecd9d6c76397679560a1990bbb9",
+          "source_output_equal": true,
+          "bytes": 192164
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-08\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "a164847c9221577bec91d866003e6bcf376a9e9546f8f279bc6e99216f19a947",
+          "output_sha256": "a164847c9221577bec91d866003e6bcf376a9e9546f8f279bc6e99216f19a947",
+          "source_output_equal": true,
+          "bytes": 2446500
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-08\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "ac049f875a4197fb87da1a1a1f4ffb7e3ebd6fceb7a1d68b3a4ec868c284c267",
+          "output_sha256": "ac049f875a4197fb87da1a1a1f4ffb7e3ebd6fceb7a1d68b3a4ec868c284c267",
+          "source_output_equal": true,
+          "bytes": 3292374
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-08\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "62589acd1b1ac5f5d8f56e2a0a926d0bf88f5e498ca0059d543f41ce57a8c3e8",
+          "output_sha256": "62589acd1b1ac5f5d8f56e2a0a926d0bf88f5e498ca0059d543f41ce57a8c3e8",
+          "source_output_equal": true,
+          "bytes": 2176987
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-08\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "4b02a2e390bafe5df3915f982f6261e8597de71809b18a42aa85f1b594a29602",
+          "output_sha256": "4b02a2e390bafe5df3915f982f6261e8597de71809b18a42aa85f1b594a29602",
+          "source_output_equal": true,
+          "bytes": 5947
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-08\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\08-Provincial-and-aef790ec-Prelims-extension\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f22dcce1cdb55f8aaec7148838ee3e1a79243b5602d6d1a2e277b31c424c5f15",
+          "output_sha256": "f22dcce1cdb55f8aaec7148838ee3e1a79243b5602d6d1a2e277b31c424c5f15",
+          "source_output_equal": true,
+          "source_text_sha256": "4b02a2e390bafe5df3915f982f6261e8597de71809b18a42aa85f1b594a29602",
+          "normalized_text_equal": true,
+          "bytes": 58316
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 9,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 68,
+        "solved_practice_workbook": 18,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 68,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 18,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12023
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

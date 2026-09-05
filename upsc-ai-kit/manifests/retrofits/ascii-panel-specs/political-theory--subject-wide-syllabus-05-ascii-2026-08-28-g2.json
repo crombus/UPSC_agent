@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-05",
+  "generation_identity": "political-theory-05:learner-v2:g2",
+  "generated_on": "2026-08-28",
+  "panel_count": 12,
+  "panels": [
+    {
+      "number": 1,
+      "title": "Orientation: Four Rival Responses to Modern Political Order"
+    },
+    {
+      "number": 2,
+      "title": "Socialism: Definitions, Types and Democratic Reform"
+    },
+    {
+      "number": 3,
+      "title": "Fascism: Doctrine, Leader Principle and Totalitarian State"
+    },
+    {
+      "number": 4,
+      "title": "Fascism: Social Basis, Critiques and Gauba's Verdict"
+    },
+    {
+      "number": 5,
+      "title": "Anarchism: Voluntary Order, Thinkers and Internal Strands"
+    },
+    {
+      "number": 6,
+      "title": "Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya"
+    },
+    {
+      "number": 7,
+      "title": "Four-Doctrine Synthesis, Traps and Answer Architecture"
+    },
+    {
+      "number": 8,
+      "title": "Conservatism I: Burke, Oakeshott and the Four Pillars"
+    },
+    {
+      "number": 9,
+      "title": "Conservatism II: Strands, Critiques and Comparative Change"
+    },
+    {
+      "number": 10,
+      "title": "Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers"
+    },
+    {
+      "number": 11,
+      "title": "MCQ Remediation and Trap Repair"
+    },
+    {
+      "number": 12,
+      "title": "PYQ Ownership and Answer Practice"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Geography learner-v2 Topics 26, 27, 29 \u2014 Generation 3 repair",
+  "date": "2026-09-01",
+  "variant": "learner-v2",
+  "generation": 3,
+  "reason": "Defective g2 packages had 0-27 MCQs instead of 80 and only ~4 manual ASCII panels instead of 12. g3 rebuilds all three topics from scratch using the established generate_geography_common architecture.",
+  "allow_existing_history": true,
+  "topics": [
+    {
+      "topic_key": "geography-26",
+      "record_id": "geography-26:learner-v2:g3",
+      "supersedes": "geography-26:learner-v2:g2",
+      "sessions": 15,
+      "mcqs": 80,
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "notes_pages": 56,
+      "workbook_pages": 25,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-27",
+      "record_id": "geography-27:learner-v2:g3",
+      "supersedes": "geography-27:learner-v2:g2",
+      "sessions": 15,
+      "mcqs": 80,
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "notes_pages": 55,
+      "workbook_pages": 24,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-29",
+      "record_id": "geography-29:learner-v2:g3",
+      "supersedes": "geography-29:learner-v2:g2",
+      "sessions": 15,
+      "mcqs": 80,
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "notes_pages": 53,
+      "workbook_pages": 23,
+      "approved": false
+    }
+  ],
+  "coverage_update": {
+    "manual_spec_topics": 227,
+    "manual_spec_panels": 2596
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "record_id": "ethics-15:learner-v2:g1",
+  "topic_key": "ethics-15",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: Ethics — Subject-wide Syllabus — Transparency, RTI and Information Sharing",
+  "main_pdf": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-15_Learning-Session_2026-08-29.pdf",
+  "workbook": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ethics-15_Solved-Workbook_2026-08-29.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-15_Learning-Session.md",
+  "asset_folder": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-15",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ethics-15:learner-v2:g1"
+  },
+  "provenance": {
+    "workflow": "learner-first-v2-ethics-topic-generator",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-15_Learning-Session.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-15_Solved-Workbook.md",
+    "pyq_corpus": [
+      "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-IV.pdf",
+      "books\\more_previous_papers\\QP-CSM19-GeneralStudies-IV.pdf",
+      "books\\more_previous_papers\\Gen_St_P4.pdf",
+      "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf",
+      "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf",
+      "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf",
+      "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+    ],
+    "local_reference_sources": [
+      "books\\ethics4.pdf"
+    ],
+    "subject_boundary": "This package directly owns its GS-IV syllabus clause. Exact recent questions are distinguished from neutral historical routing notes.",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.2"
+    },
+    "generation_date": "2026-08-29",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md": "449d3fc5dc2fbb3d37ed98181aa3a29fef74f82ff5d5354ec7926bab981c1a55",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md": "fa0043ff071a6eb9c3632008943efcaa63f5101c429e4dc41e2a857f5aad6040",
+      "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "9d8b81770fa122df7ad6ea5d1cefb33162dd8fe6679f875c9414ba7e0f4dfcb2",
+      "books\\ethics4.pdf": "c82700c9c363c76cb3585506b427ec8b44af9751752ecadaa50529c804806094",
+      "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-IV.pdf": "5c57ef7d28038027f22d79155a1231cc12ead619fee4486fc5b58fb06d161fa7",
+      "books\\more_previous_papers\\QP-CSM19-GeneralStudies-IV.pdf": "388c513003ccd720b11a9a9673b800043f5d56170f3e7ba2586267a226bde476",
+      "books\\more_previous_papers\\Gen_St_P4.pdf": "1c4bb9b81f6cc71ff637a4d726c06e82d2041d8be78adedbe26c91e94c95c22d",
+      "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf": "2ee353dd776190f65a1645012d5a17818caf2009bb64fe74f06cc015bbbf95c7",
+      "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf": "00dfe1a31d44ac4b42b60f9de9629580d9a356bd88679590ca6800e873375229",
+      "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf": "a47e11df4b5a3db466f0c8bc1ff66ecc1f275a29dbb774203239cdea5d6fa2ed",
+      "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf": "5038faf653a842c5f637756e7081ef8dcc663d09cea609947a377312a4da45f5",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf": "992d194aa7b5aa3b5a5c5ef8f4d8c69c03971b28a2e8a16efcbb878c6591c15f"
+    },
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-15_Learning-Session.md": "63fc160440a0af17fb9a84fe60e1d896d550572d2d605594954bfa3efe1f00a3",
+      "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-15_Solved-Workbook.md": "84a1cb6c0568112ca479225168e61c3fcff7d1352004fe63ecbc86dc3558d40b",
+      "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-15_Learning-Session_2026-08-29.pdf": "e3977f0854bdc5623d8e058c08494c56e78eca0f255a8c39bbf9d0b6af857a19",
+      "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ethics-15_Solved-Workbook_2026-08-29.pdf": "43a38f86c93b28d7827ec4e83fea2622bfcb8cf032bd30b3795a6f4870225b40",
+      "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-15\\ethics-15_concept-map_g1.png": "2eaaced753d07f65c6134fecce8064b5796bbba2e5030daddd1e3428e4d8af03",
+      "notes\\Ethics\\flowcharts\\ethics-15\\ethics-15_Twelve-Panel-ASCII-Master_2026-08-29-g1.md": "fd5841873dfcb8da871ce7cf0f774c29e4d0a21a8c627a988dbc4055aa1be8a0",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\ascii-master.pdf": "7954245251e355869e6b5be8302ff498bdea1ff2d4760c83c590c7a488e6197d",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-15-ascii-2026-08-29-g1.json": "b43c0b173cb35c2e5ebd2383be7d4e588fd2f4ef189a43f816eb5ae816fc4097",
+      "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-graphical-specs\\ethics-15-g1.json": "54c7234cfaa47c8923aef8b6bd5ff66e8b20a74a0ae9f1645a1350b73e9f8647",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\ascii-master.txt": "7e86ee6084e18997ab39f82692d000721d5166b9d1290f773046e33b99db3ea6",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\build-audit.json": "018a634dcda735beac2567985bda4a25f6b097640947abaebd74c60a053cb94e",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\master.png": "b1e0987c179f974ed58cb05da0d3e3cec24685761be003596281e3062fc990f2",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\poster.pdf": "6bbaed1deb3fa935ccf6038ee9638254f5d9531981831c3da87cb73e5588971b",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\preservation-hashes.json": "8a34218e7a9a51553825a6bc40460b998277acb1f11a1c11a54210c6d6c89520",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\README.txt": "8ef2f81d09da69ac1a77cc753e7b83412348e4e58c4322980f67f67db8f85f33",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\tiled.pdf": "18f609b9189617c2c88b3d655043afa754d826ae84d0a709f0f44561889fb048",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\validation-report.txt": "a8acbe38489d963ba7592e4a5aa7042650c42834e5fc5ded189419a858025ed9",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\editable\\topic-spec.json": "54c7234cfaa47c8923aef8b6bd5ff66e8b20a74a0ae9f1645a1350b73e9f8647",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\contact-sheet-01.png": "63d5062155ff0a5e3c7073a2d312f0ebbcb61eda4f5a7e8d9a9ae3efa7662640",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\master-overview.png": "81bede071c299beee365c9b442fc0bdea32b45232e3aefd634f6dc8290ea9ece",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\page-001.png": "ff53fd4bd844895a065c44e1469016a7074dac4aa971ab9acbf0145dd5fae857",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\page-002.png": "aa49387c4da9f4b206b2371cb209d2125b36b1dbafdf5b10207da69340d174b1",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\page-003.png": "7b024b99980b964fe493a54988826ded8b78dc9f00a3646a457f8f84a35aa461",
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\page-004.png": "6dc98c3aad8f406d36d5e73f9fa5df1ee48c1582e16cb6594fd3e6bd3f59a445"
+    },
+    "concept_visual": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-15\\ethics-15_concept-map_g1.png",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-15-ascii-2026-08-29-g1.json",
+    "ascii_master_pdf": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1",
+    "master_image": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\master.png",
+    "poster_pdf": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\tiled.pdf",
+    "editable": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-graphical-specs\\ethics-15-g1.json",
+    "graphical_spec_sha256": "54c7234cfaa47c8923aef8b6bd5ff66e8b20a74a0ae9f1645a1350b73e9f8647",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews",
+    "contact_sheets": [
+      "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\validation-report.txt",
+    "build_audit": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-15-ascii-2026-08-29-g1.json",
+    "ascii_master_spec_sha256": "b43c0b173cb35c2e5ebd2383be7d4e588fd2f4ef189a43f816eb5ae816fc4097",
+    "ascii_master_pdf": "notes\\Ethics\\flowcharts\\ethics-15\\continuous-at-a-glance-english-first-g1\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-ethics-twelve-panel-spec"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-29",
+    "validator": "tools/validate_v2_export.py"
+  }
+}

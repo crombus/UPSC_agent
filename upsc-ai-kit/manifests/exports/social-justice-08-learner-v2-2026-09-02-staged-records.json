@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "social-justice-08-learner-v2-2026-09-02",
+  "selection": "social-justice-08",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "social-justice-08:learner-v2:g1",
+      "topic_key": "social-justice-08",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Social Justice — Subject-wide Syllabus — Scheduled Tribes, PVTGs and Tribal Welfare",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Solved-Practice-Workbook_2026-09-02.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Solved-Practice-Workbook_2026-09-02.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\assets",
+      "generated_on": "2026-09-02",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Social-Justice\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\README.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+          "books\\more_previous_papers\\Gen_St_P2.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf"
+        ],
+        "live_sources": [
+          "https://tribal.nic.in/FRA.aspx (Ministry of Tribal Affairs, Forest Rights Act page, read on 2 September 2026)"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Complete-Learning-Session_2026-09-02.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-02",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf": "24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf": "26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+          "books\\more_previous_papers\\Gen_St_P2.pdf": "cb8e216e424a6d21ec0a8d86a7b97d1bca8f60f1e100aef1255ea044cf7884d8",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf": "7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf": "0b39500df905ed076f879029e4bb3b0336d7a59b857baf18ca937f3b67e6f13c",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md": "ea3d6a31999b7acd45eb2785dba07aae3a055a1158ab9541bada422930847471",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare_Learner-V2-Complete-Topic-Package.md": "e9bc83da33215af2fb3d14e17e3f677669b7e8b08fab007216add83ce626d1c6",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md": "a86bfb0ec1fbc96aeee132f9493d715c0be7317cf06a5443b194393bfc2c7ceb",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\ANSWER-WORTHINESS-AUDIT.md": "a30dc101d1984fe414e9d3bab3e68ada98935f9822abe0d896f4e0feb24f4d56",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md": "e785a88f0d560572948677a36ce4419275aaccedcbb0c00151114a64440f3377",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\LEARNING-SESSION-COMMAND-INDEX.md": "2f07d049840e6647e8bd97d08b8211b1f0a4c4f7767b9ef608c070d56a6dccd4",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-08_Learning-Session.md": "e9bc83da33215af2fb3d14e17e3f677669b7e8b08fab007216add83ce626d1c6",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-08_Solved-Workbook.md": "85fcb86d35e57344731e7e0a3afcdd126e363ad7b7a2398247560b45dd6bcb98",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "3992e8439869f5b57aac93f503df5ca58fd2dc3ef438d2d16a29976017d19448",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\README.md": "9b48e10a70b370eacb7902d07931872435c9128209c247c69c41491d0ff64a33",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md": "814e6f6baf6b2881ad1c2cc9fe2e27f4e1898771a5b699c76f4060331fc6768a",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-08-2026-09-02-sequential.json": "d1e866617871e160488ceacb434bbdd88e521baf0a5c141235b569000fcd0000",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Social-Justice\\social-justice-08.json": "2130babf28b8dbd925edf8012a3fa7b27182795f7e50af85e237dc775dbea87a",
+          "upsc-ai-kit\\manifests\\v2\\social-justice--subject-wide-syllabus.json": "e18fd3e0da87c8e1fd1e3b26c589794a5f000f5b660bc7dcd9805d079e6bbb3e",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "One live official page was verified for this topic on 2026-09-02. The Ministry of Tribal Affairs page for the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, read on that date, records that the Act recognises the rights of forest-dwelling tribal communities and other traditional forest dwellers to forest resources on which those communities were dependent for livelihood, habitation and other socio-cultural needs; that forest-management policy in colonial and post-colonial India had not until this enactment recognised the symbiotic relationship of Scheduled Tribes with forests; that the Act encompasses rights of self-cultivation and habitation usually regarded as individual rights, and community rights such as grazing, fishing and access to water bodies in forests, habitat rights for particularly vulnerable tribal groups, traditional seasonal resource access for nomadic and pastoral communities, access to biodiversity, community rights to intellectual property and traditional knowledge, recognition of traditional customary rights and the right to protect, regenerate, conserve or manage any community forest resource for sustainable use; that it provides for allocation of forest land for developmental purposes to meet basic infrastructural needs of the community; that in conjunction with the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Settlement Act, 2013 it protects the tribal population from eviction without rehabilitation and settlement; that it enjoins on the Gram Sabha and rights holders the responsibility of conserving biodiversity, wildlife, forests, adjoining catchment areas, water sources and ecologically sensitive areas and of stopping destructive practices affecting those resources or the cultural and natural heritage of the tribals; that the Gram Sabha is a highly empowered body enabling the tribal population to have a decisive say in the determination of local policies and schemes impacting them; and that the stated objectives are to undo the historical injustice occurred to the forest-dwelling communities, to ensure land tenure, livelihood and food security of the forest-dwelling Scheduled Tribes and other traditional forest dwellers, and to strengthen the conservation regime of the forests by including the responsibilities and authority on forest-rights holders for sustainable use, conservation of biodiversity and maintenance of ecological balance. That page also establishes, for the routed objective demand on the nodal ministry, that the Ministry of Tribal Affairs is the ministry that administers and publishes the Act, and no option or answer key is inferred for that demand because the ledger records the official keys as not held locally. Two further official checks were attempted on the same date, namely a ministry page for the vulnerable-group convergence mission and a ministry page for the vulnerable-group category, and both returned a not-found error, while the ministry's landing page returned an assistant interface only, so nothing was read or used from them and no secondary summary, coaching site or news report has been treated as an official source. The package therefore relies on that verified page together with the dated official anchors already carried by the repository owners, each cited with its issuing instrument or launch date: the three recognition categories of the forest-rights statute, with the individual title limited to the area under occupation subject to a ceiling of four hectares per nuclear family and heritable but not transferable or alienable; the Gram Sabha, Sub-Divisional Level Committee and District Level Committee claim chain; the recorded position that rejection of a claim does not justify automatic eviction and that the 2019 eviction direction was stayed; the cumulative safeguards under Section 4(2) for a critical wildlife habitat, namely completed rights recognition, a scientific case, a coexistence assessment, the free informed consent of the Gram Sabha and a secure resettlement and livelihood package; the Panchayats (Extension to the Scheduled Areas) Act, 1996 applying only to Scheduled Areas, with consultation before land acquisition and resettlement, ownership of minor forest produce, money-lending regulation and village-market management; the four identification criteria for particularly vulnerable tribal groups and the officially identified count of seventy-five communities; the convergence mission launched on 15 November 2023 for those seventy-five communities across eighteen States and Union Territories, with the status caution recorded on 21 July 2026 that a sanctioned-household or dashboard count is not proof of completed service delivery; the village-enterprise scheme with Van Dhan Vikas Kendras and minimum-support-price arrangements for minor forest produce; the residential-school norm of one school per block with at least fifty per cent Scheduled Tribe population and at least twenty thousand Scheduled Tribe persons or as per ministry criteria, covering Class VI to Class XII; Article 338A for the National Commission for Scheduled Tribes; the State tenancy and land-transfer laws named as the Chotanagpur Tenancy Act and the Andhra Pradesh Scheduled Areas Land Transfer Regulation; and the recorded authorities Samatha, the Orissa Mining Corporation matter concerning the Niyamgiri hills and the Xaxa Committee diagnosis. No claim, title, rejection, recognition, household, hamlet, school, enrolment, produce, price, sanction, budget or expenditure figure is asserted, no Census, National Family Health Survey, Periodic Labour Force Survey, NITI Aayog or Sustainable Development Goal value is asserted, no legal or constitutional provision is invented or upgraded in status, no interim judicial direction is described as a standing rule, no tribal community is homogenised with any other, and no previous-year question, official answer key or option is asserted or inferred.",
+        "pyq_status_note": "No General Studies Mains demand is routed to this owner in the audited routing ledgers, and exactly two objective demands are, so the ownership statement is a mixed one and is reported precisely. The two routed objective demands are 2019 Prelims General Studies Paper I Question 51 on the criteria for particularly vulnerable tribal groups in India and 2021 Prelims General Studies Paper I Question 84 on the nodal ministry for the Forest Rights Act, 2006, both recorded in the audited 2018-2023 Prelims routing ledger, which states expressly that the official 2018-2023 Prelims keys are not held locally, so no option, key or inferred answer is recorded for either demand and neither is converted into a solved question; both are instead covered as taught content, the four identification criteria being stated in full and the administering ministry being identified from its own official page. No Mains demand card is manufactured for this topic. The Basic and Advanced owners both discuss the 2025 General Studies Paper I question asking whether tribal development in India centres around the two axes of displacement and rehabilitation, but the audited 2024-2025 Mains routing ledger routes that question to the Indian Society owner, so no demand card is created for it here and no ownership is claimed over it; the same ledger routes the 2021 and 2022 General Studies Paper I demands on tribal knowledge systems and tribal diversity to that owner, the 2023 colonial-rule-and-tribals demand to the Modern History owner, and the Fifth Schedule, Scheduled Area and forest-rights objective demands of 2018, 2019, 2022, 2023, 2024 and 2025 to the Polity and Environment owners, so none of those is claimed either. The practice in this package therefore consists of six original Mains questions with model solutions, each written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, together with eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no Mains question on this owner's subject matter is routed here; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed anywhere in this package.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "4b0ca823e1506847b4b787065278e9907be2726d8a89e01c03cd4d07d38930c0"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "social-justice-08:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-02",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-08\\social-justice-08_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "c33c69a9b15f44dd4d1a24ea65e61fddcac44cd864e316b9397a449e265dfde6",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-08\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-08-2026-09-02-sequential.json",
+        "ascii_master_spec_sha256": "d1e866617871e160488ceacb434bbdd88e521baf0a5c141235b569000fcd0000"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

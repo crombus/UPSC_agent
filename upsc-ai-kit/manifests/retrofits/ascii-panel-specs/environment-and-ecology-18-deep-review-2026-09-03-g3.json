@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-18",
+      "display_title": "IPCC Assessment Reports",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Institutional identity map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IPCC -> scientific assessment by an intergovernmental body",
+            "UNFCCC -> treaty framework and negotiation process",
+            "COP OR CMA -> party decision-making forum",
+            "NATIONAL GOVERNMENT -> policy and implementation",
+            "RULE -> assessment evidence is not a negotiated obligation",
+            "MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis..."
+          ],
+          "source_references": [
+            "IPCC identity",
+            "WMO-UNEP origin",
+            "Policy-relevant boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Assessment-production rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PUBLISHED LITERATURE -> assessed evidence base",
+            "AUTHORS -> evaluate findings, agreement and gaps",
+            "DRAFTS -> expert and government review",
+            "REVISION -> comments addressed and traceability strengthened",
+            "PLENARY STATUS -> product-specific approval or acceptance"
+          ],
+          "source_references": [
+            "Assess-not-research mandate",
+            "Assessment-cycle sequence",
+            "Author-review architecture",
+            "Approval-acceptance distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Three-Working-Group matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WG I -> physical science, observations, drivers and projections",
+            "WG II -> impacts, adaptation and vulnerability",
+            "WG III -> mitigation pathways and enabling conditions",
+            "NO NEGOTIATION -> none sets a Party's NDC",
+            "INTEGRATION -> Synthesis Report joins assessment findings"
+          ],
+          "source_references": [
+            "Working Group I",
+            "Working Group II",
+            "Working Group III",
+            "Synthesis Report",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "TFI firewall",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "IPCC BODY -> Task Force on National Greenhouse Gas Inventories",
+            "FUNCTION -> methodology development and refinement",
+            "OUTPUT -> inventory guidance and methodology reports",
+            "NOT WG IV -> no fourth thematic assessment mandate",
+            "LINK -> supports comparable national reporting methods"
+          ],
+          "source_references": [
+            "TFI boundary",
+            "Special and methodology reports",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Report-family hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ASSESSMENT CYCLE -> Working Group contributions",
+            "SYNTHESIS REPORT -> integration across the cycle",
+            "SPECIAL REPORT -> defined urgent theme",
+            "METHODOLOGY REPORT -> measurement or inventory method",
+            "STATUS -> title, outline and publication are different facts"
+          ],
+          "source_references": [
+            "Synthesis Report",
+            "Special and methodology reports",
+            "Assessment-cycle sequence",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Cycle status gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SCOPING OR OUTLINE -> intended coverage",
+            "AUTHORING -> draft evidence assessment",
+            "REVIEW -> expert and government comments",
+            "APPROVAL OR ACCEPTANCE -> product-specific plenary act",
+            "PUBLICATION -> citable completed product"
+          ],
+          "source_references": [
+            "Assessment-cycle sequence",
+            "Author-review architecture",
+            "AR6-AR7 status",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "SPM governance ladder",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "SCIENTIST AUTHORS -> defend assessed basis",
+            "GOVERNMENT DELEGATIONS -> consider wording line by line",
+            "CONSISTENCY GATE -> summary must remain tied to report",
+            "APPROVED SPM -> policy-relevant high-level text",
+            "LIMIT -> not a treaty target or national law"
+          ],
+          "source_references": [
+            "Approval-acceptance distinction",
+            "Policy-relevant boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Calibrated-language matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONFIDENCE -> evidence and agreement supporting a finding",
+            "LIKELIHOOD -> assessed probability of a defined outcome",
+            "SCALE -> global, regional and local claims differ",
+            "ATTACHMENT -> term stays with its exact sentence",
+            "NO BORROWING -> one calibrated term cannot validate another claim"
+          ],
+          "source_references": [
+            "Confidence-likelihood distinction",
+            "Confidence discipline",
+            "Likelihood discipline",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Scenario firewall",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "ASSUMPTIONS -> socioeconomic or emissions pathway",
+            "MODEL RESPONSE -> conditional climate projection",
+            "RISK ASSESSMENT -> impacts under the stated pathway",
+            "POLICY OPTION -> separately evaluated",
+            "NOT FORECAST -> no unconditional prediction"
+          ],
+          "source_references": [
+            "Scenario-not-forecast",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Assessment-lag timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "LITERATURE CUT-OFF -> evidence eligible for assessment",
+            "DRAFT AND REVIEW -> synthesis takes time",
+            "PUBLICATION -> completed assessment baseline",
+            "NEW STUDIES -> may post-date the cut-off",
+            "NEXT PRODUCT -> later incorporation is not automatic",
+            "CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,..."
+          ],
+          "source_references": [
+            "Assessment-lag boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "AR6-AR7 status board",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AR6 -> completed assessment cycle",
+            "AR7 -> cycle in progress in official material checked",
+            "OUTLINE -> planned coverage, not evidence",
+            "SCHEDULE -> intended timing, not publication",
+            "EXAM RULE -> cite report, year, group and status exactly",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,..."
+          ],
+          "source_references": [
+            "AR6-AR7 status",
+            "Science-policy evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "IPCC answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> assessment body, origin and non-research mandate",
+            "ORGANISE -> WG I, WG II, WG III, TFI and Synthesis",
+            "TRACE -> authors, review, SPM and product status",
+            "QUALIFY -> confidence, likelihood, scenario and cut-off",
+            "CONNECT -> informs UNFCCC but does not negotiate policy"
+          ],
+          "source_references": [
+            "Science-policy evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

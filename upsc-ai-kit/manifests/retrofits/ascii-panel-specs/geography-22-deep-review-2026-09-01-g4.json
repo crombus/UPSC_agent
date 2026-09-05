@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-22",
+      "display_title": "Cool Temperate Western Margin British Type",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "British-type world map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "NW EUROPE -> Britain, France, Belgium, Netherlands, Denmark, Norway",
+            "NORTH AMERICA -> British Columbia coast (Rockies block inland)",
+            "SOUTHERN HEMISPHERE -> S. Chile, Tasmania, NZ South Island",
+            "LATITUDE BELT -> about 45-65 degrees N and S",
+            "MUST REMEMBER: Cool temperate western-margin British type follows year-round westerlies,",
+            "  maritime moderation, frequent frontal cyclones and orographic rain, producing mild winters,",
+            "  cool summers, small annual range and deciduous/mixed vegetation."
+          ],
+          "source_references": [
+            "British-type location and Westerlies",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Westerly-ocean mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WESTERLIES -> permanent onshore flow from warm ocean",
+            "NORTH ATLANTIC DRIFT -> warm current on seaward side",
+            "CYCLONIC ACTIVITY -> travelling frontal depressions",
+            "RESULT -> mild winters, cool summers, small annual range, rain all year"
+          ],
+          "source_references": [
+            "Maritime temperature regime",
+            "Rainfall regime",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Rockies-barrier contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NW EUROPE -> no major barrier, oceanic influence far inland",
+            "NORTH AMERICA -> Rockies block Westerlies, narrow BC coastal strip",
+            "SOUTHERN HEMISPHERE -> narrow landmasses, strong maritime influence",
+            "CAUSE -> mountain barriers and land width determine inland reach"
+          ],
+          "source_references": [
+            "NW European distribution",
+            "North American confinement",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "East-west asymmetry diagram",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WESTERN MARGIN -> onshore Westerlies, warm current, mild/small range",
+            "EASTERN MARGIN -> offshore Westerlies, cold current, cold/large range",
+            "WESTERN RAIN -> all year, autumn-winter max, frontal depressions",
+            "EASTERN RAIN -> summer max, winter snow, ports freeze"
+          ],
+          "source_references": [
+            "East-west asymmetry",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Four-type comparison matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BRITISH -> mild winter, cool summer, small range, all-year rain",
+            "LAURENTIAN -> cold winter, warm summer, large range, summer rain",
+            "SIBERIAN -> bitterly cold winter, short summer, very large range",
+            "CHINA TYPE -> cool-cold winter, hot summer, large range, monsoon rain"
+          ],
+          "source_references": [
+            "East-west asymmetry",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Fog-fisheries mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WARM CURRENT meets COLD CURRENT -> air chilled from below",
+            "RESULT -> dense persistent fog (navigation hazard)",
+            "MIXING + NUTRIENT SUPPLY -> over broad shallow continental shelf",
+            "RESULT -> major fishing ground (but productivity depends on catch levels)"
+          ],
+          "source_references": [
+            "Fog-and-fisheries mechanism",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Deciduous-vegetation identity",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "BRITISH TYPE -> deciduous: oak, ash, beech, elm, birch",
+            "LAURENTIAN -> mixed and coniferous forest",
+            "SIBERIAN -> taiga (boreal coniferous)",
+            "EXAM TRAP -> British type is deciduous, NOT coniferous"
+          ],
+          "source_references": [
+            "Deciduous forest vegetation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Maritime economy",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "DAIRYING + MIXED FARMING -> long grass-growing season, reliable moisture",
+            "ICE-FREE PORTS -> year-round trade and shipping",
+            "TEMPERATE CEREALS -> reliable growing conditions",
+            "EARLY INDUSTRIALISATION -> ports, water, equable climate in NW Europe"
+          ],
+          "source_references": [
+            "Dairying and early industrialisation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India Himalayan temperate map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "MOIST TEMPERATE -> J&K to Arunachal, 1500-3300 m: deodar, oak, fir",
+            "CHIR PINE BELT -> NW Himalaya, HP, Uttarakhand, NE: fire-prone",
+            "DRY TEMPERATE -> Ladakh margins, Lahaul-Spiti, Kinnaur: chilgoza, juniper",
+            "CONTROL -> altitude replaces latitude as the zonation driver"
+          ],
+          "source_references": [
+            "India temperate boundary",
+            "Himalayan forest belts",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Deodar species firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "DEODAR -> Cedrus deodara, a CONIFER (cedar family)",
+            "EXAM TRAP -> frequently tested: deodar is NOT a broadleaf tree",
+            "CHILGOZA -> dry-temperate conifer (Pinus gerardiana)",
+            "CHIR PINE -> subtropical montane, highly resinous and fire-prone",
+            "CLOSE DISTINCTION: Marine west coast differs from Mediterranean summer-dry climate and",
+            "  continental interiors; 'British type' is a climatic shorthand extending to other western",
+            "  margins, not a statement that all Britain is uniform."
+          ],
+          "source_references": [
+            "Dry temperate and deodar identity",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Water-security-fire chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "FOREST FLOOR SPONGE -> absorbs rain, feeds springs and rivers",
+            "FOREST LOSS -> reduced infiltration, spring decline, downstream shortage",
+            "CHIR PINE + DRY WEATHER -> fuel accumulation, rapid fire spread",
+            "FIRE DAMAGE -> soil loss, regeneration failure, catchment degradation",
+            "EVIDENCE LIMIT: North Atlantic circulation, latitude, relief and changing storm tracks jointly",
+            "  matter; Himalayan temperate forests are altitudinal analogues under monsoon influence, not",
+            "  marine-west-coast equivalents."
+          ],
+          "source_references": [
+            "Water security and fire risk",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "British-type answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> cool temperate western margin under permanent Westerlies",
+            "COMPARE -> east-west asymmetry: same latitude, opposite climate",
+            "EXPLAIN -> maritime moderation, frontal rain, deciduous vegetation",
+            "APPLY -> India's Himalayan temperate forests as altitude-based analogue"
+          ],
+          "source_references": [
+            "Routed 2024 PYQ and answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-22\\g4\\geography-22_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

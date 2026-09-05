@@ -1,0 +1,1085 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-11",
+  "subject": "Disaster-Management",
+  "title": "FOREST FIRE RISK MANAGEMENT",
+  "short_route": "FIRE TRIANGLE AND CONTROL → FIRE-TYPE MATRIX → FIRE-BEHAVIOUR TRIANGLE → IGNITION GOVERNANCE MAP → FSI ALERT RAIL → INITIAL RESPONSE CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-11-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "020c6f88e532156fcc5b4e2b23372a8b2c0e83a9205b0244f082b82b05014f8f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FIRE TRIANGLE AND CONTROL",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FIRE TRIANGLE AND CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "FUEL + HEAT + OXYGEN",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCE UNSAFE IGNITION",
+          "role": "comparison"
+        },
+        {
+          "text": "FUEL CONTINUITY",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERRUPT HEAT TRANSFER WHERE SAFE",
+          "role": "primary"
+        },
+        {
+          "text": "FIRE-FREE FOREST IS NOT A UNIVERSAL GOAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FUEL + HEAT + OXYGEN → COMBUSTION",
+        "PREVENT → reduce unsafe ignition / fuel continuity",
+        "RESPOND → interrupt heat transfer where safe",
+        "LIMIT → FIRE-FREE FOREST IS NOT A UNIVERSAL GOAL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "FUEL + HEAT + OXYGEN → COMBUSTION",
+            "PREVENT → reduce unsafe ignition / fuel continuity"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RESPOND → interrupt heat transfer where safe",
+            "LIMIT → FIRE-FREE FOREST IS NOT A UNIVERSAL GOAL"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "FUEL + HEAT + OXYGEN → COMBUSTION",
+            "PREVENT → reduce unsafe ignition / fuel continuity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → FIRE-FREE FOREST IS NOT A UNIVERSAL GOAL.",
+      "source_references": [
+        "Fire triangle",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FIRE-TYPE MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIRE-TYPE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "LITTER GRASS SHRUB LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANIC MATTER BELOW",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHIN SURFACE",
+          "role": "evidence"
+        },
+        {
+          "text": "TREE CANOPY",
+          "role": "primary"
+        },
+        {
+          "text": "VERTICAL FUEL AND CONDITIONS CONNECT LAYERS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SURFACE → litter grass shrub layer",
+        "GROUND → organic matter below / within surface",
+        "CROWN → tree canopy",
+        "TRANSITION → vertical fuel and conditions connect layers"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "SURFACE → litter grass shrub layer",
+          "CROWN → tree canopy",
+          "SURFACE → litter grass shrub layer"
+        ],
+        [
+          "GROUND → organic matter below / within surface",
+          "TRANSITION → vertical fuel and conditions connect layers",
+          "GROUND → organic matter below / within surface"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SURFACE → litter grass shrub layer",
+            "GROUND → organic matter below / within surface"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CROWN → tree canopy",
+            "TRANSITION → vertical fuel and conditions connect layers"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SURFACE → litter grass shrub layer",
+            "GROUND → organic matter below / within surface"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSITION → vertical fuel and conditions connect layers.",
+      "source_references": [
+        "Surface fire",
+        "Ground fire",
+        "Crown fire",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FIRE-BEHAVIOUR TRIANGLE",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIRE-BEHAVIOUR TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "DRYNESS WIND HUMIDITY TEMPERATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TYPE LOAD MOISTURE CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SLOPE ASPECT VALLEY ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "SPREAD INTENSITY SMOKE AND RESPONSE LIMITS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WEATHER → dryness wind humidity temperature",
+        "FUEL → type load moisture continuity",
+        "TOPOGRAPHY → slope aspect valley access",
+        "INTERACTION → spread intensity smoke and response limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "WEATHER → dryness wind humidity temperature",
+            "FUEL → type load moisture continuity"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TOPOGRAPHY → slope aspect valley access",
+            "INTERACTION → spread intensity smoke and response limits"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "WEATHER → dryness wind humidity temperature",
+            "FUEL → type load moisture continuity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERACTION → spread intensity smoke and response limits.",
+      "source_references": [
+        "Fire behaviour",
+        "Weather",
+        "Fuel",
+        "Topography",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IGNITION GOVERNANCE MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "IGNITION GOVERNANCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "LIGHTNING AND SOURCE-BOUNDED CAUSES",
+          "role": "evidence"
+        },
+        {
+          "text": "DELIBERATE HUMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "RESOURCE-USE MOTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCIDENTAL HUMAN",
+          "role": "primary"
+        },
+        {
+          "text": "ESCAPED HEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVENTION BY CAUSE NOT GENERIC BLAME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NATURAL → lightning and source-bounded causes",
+        "DELIBERATE HUMAN → land / resource-use motive",
+        "ACCIDENTAL HUMAN → escaped heat / equipment / smoking",
+        "RESPONSE → prevention by cause not generic blame"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "NATURAL → lightning and source-bounded causes",
+          "ACCIDENTAL HUMAN → escaped heat / equipment / smoking",
+          "NATURAL → lightning and source-bounded causes"
+        ],
+        [
+          "DELIBERATE HUMAN → land / resource-use motive",
+          "RESPONSE → prevention by cause not generic blame",
+          "DELIBERATE HUMAN → land / resource-use motive"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "NATURAL → lightning and source-bounded causes",
+            "DELIBERATE HUMAN → land / resource-use motive"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ACCIDENTAL HUMAN → escaped heat / equipment / smoking",
+            "RESPONSE → prevention by cause not generic blame"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NATURAL → lightning and source-bounded causes",
+            "DELIBERATE HUMAN → land / resource-use motive"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESPONSE → prevention by cause not generic blame.",
+      "source_references": [
+        "Ignition sources",
+        "Prevention governance",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FSI ALERT RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FSI ALERT RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 MODIS",
+          "role": "outcome"
+        },
+        {
+          "text": "SNPP-VIIRS DETECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "2 AUTOMATED PROCESSING AND FOREST FILTER",
+          "role": "evidence"
+        },
+        {
+          "text": "3 SMS",
+          "role": "primary"
+        },
+        {
+          "text": "MAP DISSEMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "4 FIELD VERIFY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1 MODIS / SNPP-VIIRS DETECTION",
+        "2 AUTOMATED PROCESSING AND FOREST FILTER",
+        "3 SMS / EMAIL / MAP DISSEMINATION",
+        "4 FIELD VERIFY → COMMAND → RESPONSE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 MODIS / SNPP-VIIRS DETECTION",
+            "2 AUTOMATED PROCESSING AND FOREST FILTER"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 SMS / EMAIL / MAP DISSEMINATION",
+            "4 FIELD VERIFY → COMMAND → RESPONSE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 MODIS / SNPP-VIIRS DETECTION",
+            "2 AUTOMATED PROCESSING AND FOREST FILTER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 SMS / EMAIL / MAP DISSEMINATION; 4 FIELD VERIFY → COMMAND → RESPONSE.",
+      "source_references": [
+        "Detection and FSI",
+        "Alert-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INITIAL RESPONSE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INITIAL RESPONSE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFY LOCATION AND ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL COMMAND + TRAINED PROTECTED CREW",
+          "role": "comparison"
+        },
+        {
+          "text": "TOOLS WATER COMMUNICATION AND SAFETY",
+          "role": "evidence"
+        },
+        {
+          "text": "ESCALATE IF CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITIONS EXCEEDED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ALERT → VERIFY LOCATION AND ACCESS",
+        "LOCAL COMMAND + TRAINED PROTECTED CREW",
+        "TOOLS WATER COMMUNICATION AND SAFETY",
+        "ESCALATE IF CAPACITY / CONDITIONS EXCEEDED"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ALERT → VERIFY LOCATION AND ACCESS",
+            "LOCAL COMMAND + TRAINED PROTECTED CREW"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TOOLS WATER COMMUNICATION AND SAFETY",
+            "ESCALATE IF CAPACITY / CONDITIONS EXCEEDED"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ALERT → VERIFY LOCATION AND ACCESS",
+            "LOCAL COMMAND + TRAINED PROTECTED CREW"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TOOLS WATER COMMUNICATION AND SAFETY; ESCALATE IF CAPACITY / CONDITIONS EXCEEDED.",
+      "source_references": [
+        "Initial response",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COMMUNITY PARTNERSHIP LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMUNITY PARTNERSHIP LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CONSULT ON RESOURCE-USE AND IGNITION DRIVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAIN + EQUIP + COMPENSATE",
+          "role": "comparison"
+        },
+        {
+          "text": "LINK EARLY REPORTING TO FOREST DEPARTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT OFFLOAD STATE DUTY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONSULT ON RESOURCE-USE AND IGNITION DRIVERS",
+        "TRAIN + EQUIP + COMPENSATE",
+        "LINK EARLY REPORTING TO FOREST DEPARTMENT",
+        "DO NOT OFFLOAD STATE DUTY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CONSULT ON RESOURCE-USE AND IGNITION DRIVERS",
+            "TRAIN + EQUIP + COMPENSATE"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LINK EARLY REPORTING TO FOREST DEPARTMENT",
+            "DO NOT OFFLOAD STATE DUTY"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSULT ON RESOURCE-USE AND IGNITION DRIVERS",
+            "TRAIN + EQUIP + COMPENSATE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK EARLY REPORTING TO FOREST DEPARTMENT; DO NOT OFFLOAD STATE DUTY.",
+      "source_references": [
+        "Community partnership",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FUEL-BREAK BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FUEL-BREAK BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "FIRE LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINTAINED BREAK IN FUEL CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESCRIBED BURN",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORISED PLANNED FUEL TREATMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECTIVES CONDITIONS SUPERVISION CONTINGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "GUARANTEED CONTAINMENT OR LICENCE FOR IGNITION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FIRE LINE → maintained break in fuel continuity",
+        "PRESCRIBED BURN → authorised planned fuel treatment",
+        "BOTH → objectives conditions supervision contingency",
+        "NEITHER → guaranteed containment or licence for ignition"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "FIRE LINE → maintained break in fuel continuity",
+          "BOTH → objectives conditions supervision contingency",
+          "FIRE LINE → maintained break in fuel continuity"
+        ],
+        [
+          "PRESCRIBED BURN → authorised planned fuel treatment",
+          "NEITHER → guaranteed containment or licence for ignition",
+          "PRESCRIBED BURN → authorised planned fuel treatment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "FIRE LINE → maintained break in fuel continuity",
+            "PRESCRIBED BURN → authorised planned fuel treatment"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOTH → objectives conditions supervision contingency",
+            "NEITHER → guaranteed containment or licence for ignition"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FIRE LINE → maintained break in fuel continuity",
+            "PRESCRIBED BURN → authorised planned fuel treatment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEITHER → guaranteed containment or licence for ignition.",
+      "source_references": [
+        "Fire lines",
+        "Prescribed burning boundary",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ECOLOGY-SUPPRESSION BALANCE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ECOLOGY-SUPPRESSION BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT ECOSYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRE REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "LIFE OR ASSET THREAT",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFETY-LED RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGY OBJECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDED MANAGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIVERSAL EXCLUSION OR UNIVERSAL BURNING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHAT ECOSYSTEM / FIRE REGIME / SEASON / INTENSITY?",
+        "LIFE OR ASSET THREAT → SAFETY-LED RESPONSE",
+        "FUEL / ECOLOGY OBJECTIVE → BOUNDED MANAGEMENT",
+        "TRAP → UNIVERSAL EXCLUSION OR UNIVERSAL BURNING"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WHAT ECOSYSTEM / FIRE REGIME / SEASON / INTENSITY?",
+            "LIFE OR ASSET THREAT → SAFETY-LED RESPONSE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "FUEL / ECOLOGY OBJECTIVE → BOUNDED MANAGEMENT",
+            "TRAP → UNIVERSAL EXCLUSION OR UNIVERSAL BURNING"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "WHAT ECOSYSTEM / FIRE REGIME / SEASON / INTENSITY?",
+            "LIFE OR ASSET THREAT → SAFETY-LED RESPONSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHAT ECOSYSTEM / FIRE REGIME / SEASON / INTENSITY?.",
+      "source_references": [
+        "Ecology-suppression trade-off",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SMOKE AND INTERFACE MAP",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SMOKE AND INTERFACE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST EDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "HOME ROAD POWER TOURISM SITE",
+          "role": "mechanism"
+        },
+        {
+          "text": "HEALTH MESSAGE + EVACUATION + UTILITY ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RESPONDER AND VULNERABLE-GROUP PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "FOREST-FIRE RISK JOINS FUEL, MOISTURE, WEATHER, IGNITION, TERRAIN, FOREST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIRE → SMOKE / VISIBILITY / TRANSPORT",
+        "FOREST EDGE → HOME ROAD POWER TOURISM SITE",
+        "HEALTH MESSAGE + EVACUATION + UTILITY ACTION",
+        "RESPONDER AND VULNERABLE-GROUP PROTECTION",
+        "MUST REMEMBER: Forest-fire risk joins fuel, moisture, weather, ignition, terrain, forest"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "FIRE → SMOKE / VISIBILITY / TRANSPORT",
+            "FOREST EDGE → HOME ROAD POWER TOURISM SITE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "HEALTH MESSAGE + EVACUATION + UTILITY ACTION",
+            "RESPONDER AND VULNERABLE-GROUP PROTECTION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Forest-fire risk joins fuel, moisture, weather, ignition, terrain, forest...",
+            "FIRE → SMOKE / VISIBILITY / TRANSPORT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Forest-fire risk joins fuel, moisture, weather, ignition, terrain, forest.",
+      "source_references": [
+        "Smoke and health",
+        "Wildland-urban interface",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-11_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RESTORATION SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RESTORATION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SAFETY + BURNT AREA",
+          "role": "outcome"
+        },
+        {
+          "text": "SEVERITY ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EROSION RUNOFF AND INVASIVE-SPECIES CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "LIVELIHOOD SUPPORT + ECOLOGICALLY SUITABLE RESTORATION",
+          "role": "primary"
+        },
+        {
+          "text": "MONITOR RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT EQUATE WITH PLANTING COUNT",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SAFETY + BURNT AREA / SEVERITY ASSESSMENT",
+        "EROSION RUNOFF AND INVASIVE-SPECIES CONTROL",
+        "LIVELIHOOD SUPPORT + ECOLOGICALLY SUITABLE RESTORATION",
+        "MONITOR RECOVERY → DO NOT EQUATE WITH PLANTING COUNT",
+        "CLOSE DISTINCTION: Hotspot is not confirmed fire; burnt area is not tree-cover loss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SAFETY + BURNT AREA / SEVERITY ASSESSMENT",
+            "EROSION RUNOFF AND INVASIVE-SPECIES CONTROL"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIVELIHOOD SUPPORT + ECOLOGICALLY SUITABLE RESTORATION",
+            "MONITOR RECOVERY → DO NOT EQUATE WITH PLANTING COUNT"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Hotspot is not confirmed fire; burnt area is not tree-cover loss;...",
+            "SAFETY + BURNT AREA / SEVERITY ASSESSMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Hotspot is not confirmed fire; burnt area is not tree-cover loss;.",
+      "source_references": [
+        "Restoration",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-11_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FOREST-FIRE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FOREST-FIRE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY FIRE + TRACE IGNITION WEATHER FUEL TOPOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADD COMMUNITY FIRE-LINE ECOLOGY SMOKE AND WUI GOVERNANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE ALERT CAPACITY CONTAINMENT AND RECOVERY OUTCOMES",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NAME SENSOR/PRODUCT, RESOLUTION, DATE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY FIRE + TRACE IGNITION WEATHER FUEL TOPOGRAPHY",
+        "PREVENT → DETECT → VERIFY → RESPOND → RESTORE",
+        "ADD COMMUNITY FIRE-LINE ECOLOGY SMOKE AND WUI GOVERNANCE",
+        "SEPARATE ALERT CAPACITY CONTAINMENT AND RECOVERY OUTCOMES",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name sensor/product, resolution, date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLASSIFY FIRE + TRACE IGNITION WEATHER FUEL TOPOGRAPHY",
+            "PREVENT → DETECT → VERIFY → RESPOND → RESTORE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ADD COMMUNITY FIRE-LINE ECOLOGY SMOKE AND WUI GOVERNANCE",
+            "SEPARATE ALERT CAPACITY CONTAINMENT AND RECOVERY OUTCOMES"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name sensor/product, resolution, date,...",
+            "CLASSIFY FIRE + TRACE IGNITION WEATHER FUEL TOPOGRAPHY"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name sensor/product, resolution, date,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name sensor/product, resolution, date,.",
+      "source_references": [
+        "Alert-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-11_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL MASTER PLAN FOR FOREST FIRE CONTROL'S FOUR-PART DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "MISSING DEDICATED INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "VISIONIAS EXPLICITLY RECOMMENDS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE FAST 3.0 INSTITUTIONAL CHAIN AS A GENUINE TECHNOLOGY-TRANSFER",
+          "role": "primary"
+        },
+        {
+          "text": "THE 44%-DETECTIONS-IN-3%-OF-LAND-AREA CONCENTRATION (PDF P. 47)",
+          "role": "outcome"
+        },
+        {
+          "text": "VISIONIAS NAMES SEVERAL SPECIFIC RESEARCH/DATA GAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS'S OWN CRITIQUE (SECTION 2) IS FUNDAMENTALLY AN EQUITY/",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "National Master Plan for Forest Fire Control's four-part design :",
+            "CAUTION: Missing dedicated institution : VisionIAS explicitly recommends",
+            "The FAST 3.0 institutional chain as a genuine technology-transfer",
+            "The 44%-detections-in-3%-of-land-area concentration (PDF p. 47)"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: VisionIAS names several specific research/data gaps: \"inadequate",
+            "VisionIAS's own critique (Section 2) is fundamentally an equity/",
+            "CAUTION: Fire-suppression cost versus long-term forest-management",
+            "CAUTION: Wildland-urban interface risk (a concept VisionIAS's own"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"FAST 3.0 exists, therefore forest-fire risk is managed\"",
+            "CAUTION: This is a long, source-explicit list of named institutional gaps —",
+            "CAUTION: VisionIAS explicitly names \"funding\" as one of the \"missing\"",
+            "Burnt Scar Assessment's semi-automated methodology (under FSI"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

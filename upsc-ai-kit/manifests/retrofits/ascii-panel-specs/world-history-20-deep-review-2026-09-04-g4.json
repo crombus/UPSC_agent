@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-20",
+      "display_title": "World Economy and Population since 1900",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "World economy phase map",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1900-45 -> war and Depression weaken Europe",
+            "1944-70s -> designed US-led order and bloc systems",
+            "1970s-90s -> oil, debt and North-South divergence",
+            "1990s-2008 -> globalisation then contagious crisis",
+            "MUST REMEMBER: War and Depression, Bretton Woods (1944), Cold War blocs, oil shocks and debt,",
+            "  post-1990 globalisation and the 2008 crisis form the economic chronology; integration",
+            "  transmitted gains and contagion unevenly.",
+            "MUST REMEMBER: War and Depression, Bretton Woods (1944), Cold War blocs, oil shocks and debt,",
+            "  post-1990 globalisation and the 2008 crisis form the economic chronology; integration",
+            "  transmitted gains and contagion unevenly.",
+            "MUST REMEMBER: War and Depression, Bretton Woods (1944), Cold War blocs, oil shocks and debt,",
+            "  post-1990 globalisation and the 2008 crisis form the economic chronology; integration",
+            "  transmitted gains and contagion unevenly."
+          ],
+          "source_references": [
+            "World economy from Europe to America",
+            "Designed postwar order",
+            "Oil shocks, debt and North-South conflict",
+            "Globalisation and financial contagion",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bretton Woods architecture",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "1944 -> designed postwar framework",
+            "IMF -> balance-of-payments adjustment",
+            "WORLD BANK -> reconstruction and development",
+            "GATT/WTO -> trade system outside UN agency status"
+          ],
+          "source_references": [
+            "Designed postwar order",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Divergence mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "UNEQUAL START -> different industrial capability",
+            "COMMODITY DEPENDENCE -> price vulnerability",
+            "DEBT -> policy autonomy contracts",
+            "RESULT -> integration produces varied convergence"
+          ],
+          "source_references": [
+            "Why the South diverged internally",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Oil and debt chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1973 PRICE RISE -> importer costs grow",
+            "PRODUCER PROFITS -> world balances shift",
+            "BORROWING -> vulnerable economies accumulate debt",
+            "PRICE/INTEREST REVERSAL -> crisis becomes self-compounding"
+          ],
+          "source_references": [
+            "Oil shocks, debt and North-South conflict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Population transition",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "STAGE 1 -> high births and deaths",
+            "STAGE 2 -> deaths fall; rapid growth",
+            "STAGE 3 -> fertility begins to fall",
+            "STAGE 4 -> low growth and ageing"
+          ],
+          "source_references": [
+            "Population explosion and transition",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Why deaths fall first",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MEDICINE -> survival improves",
+            "CLEAN WATER -> disease exposure falls",
+            "PUBLIC HEALTH -> mortality drops",
+            "FERTILITY LAG -> population grows rapidly"
+          ],
+          "source_references": [
+            "Population explosion and transition",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Population policy comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WELFARE ROUTE -> health, education and child survival",
+            "SOCIAL ROUTE -> urbanisation and women's employment",
+            "DIRECT CONTROL -> coercive fertility restrictions",
+            "VERDICT -> demographic results carry rights questions"
+          ],
+          "source_references": [
+            "Population pressure, ageing and policy",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Health as development",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "HIV/AIDS -> working-age mortality",
+            "LABOUR -> productive capacity falls",
+            "FAMILY -> care and dependency burdens rise",
+            "DEVELOPMENT -> unequal burden deepens"
+          ],
+          "source_references": [
+            "HIV/AIDS and development",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Depression cause map",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "OVERPRODUCTION -> unsold stocks and layoffs",
+            "UNEQUAL INCOME -> demand cannot absorb output",
+            "TARIFFS -> export route contracts",
+            "SPECULATION -> Crash reveals deeper imbalance"
+          ],
+          "source_references": [
+            "Why the Crash was a symptom",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Global transmission chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "US LOANS CALLED IN -> European finance contracts",
+            "BANK FAILURES -> savings and credit disappear",
+            "TRADE FALLS -> export economies weaken",
+            "TARIFFS -> national defence worsens global slump",
+            "CLOSE DISTINCTION: Rapid population growth followed falling mortality before fertility",
+            "  transition, while younger and ageing societies face different pressures; coercive and",
+            "  welfare-based population policies are not one category.",
+            "CLOSE DISTINCTION: Rapid population growth followed falling mortality before fertility",
+            "  transition, while younger and ageing societies face different pressures; coercive and",
+            "  welfare-based population policies are not one category.",
+            "CLOSE DISTINCTION: Rapid population growth followed falling mortality before fertility",
+            "  transition, while younger and ageing societies face different pressures; coercive and",
+            "  welfare-based population policies are not one category."
+          ],
+          "source_references": [
+            "How Depression became global",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "New Deal instrument families",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FINANCE -> guarantees and SEC",
+            "INCOME -> agriculture, relief and labour standards",
+            "PRODUCTION -> TVA and public works",
+            "REFORM -> Social Security and federal capacity",
+            "EVIDENCE LIMIT: The New Deal stabilised finance, relief, labour and social protection without",
+            "  ending mass unemployment; comparison with Nazi rearmament must retain dictatorship, racial",
+            "  exclusion and militarisation.",
+            "EVIDENCE LIMIT: The New Deal stabilised finance, relief, labour and social protection without",
+            "  ending mass unemployment; comparison with Nazi rearmament must retain dictatorship, racial",
+            "  exclusion and militarisation.",
+            "EVIDENCE LIMIT: The New Deal stabilised finance, relief, labour and social protection without",
+            "  ending mass unemployment; comparison with Nazi rearmament must retain dictatorship, racial",
+            "  exclusion and militarisation."
+          ],
+          "source_references": [
+            "Relief, recovery and reform",
+            "Finance and agriculture",
+            "Public works, welfare and labour",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "World economy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PHASES -> war, design, oil-debt and globalisation",
+            "INEQUALITY -> North-South divergence",
+            "POPULATION -> mortality-fertility gap",
+            "DEPRESSION -> structural causes, instruments and limits"
+          ],
+          "source_references": [
+            "Limits and comparative verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g2\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g3\\world-history-20_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-20\\g4\\world-history-20_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

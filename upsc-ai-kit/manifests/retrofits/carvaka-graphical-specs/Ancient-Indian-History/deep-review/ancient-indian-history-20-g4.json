@@ -1,0 +1,1096 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-20",
+  "subject": "Ancient-Indian-History",
+  "title": "THE GUPTA EMPIRE",
+  "short_route": "SOURCE-LED CHRONOLOGY → FORMATION AND CHANDRAGUPTA I → SAMUDRAGUPTA'S GRADED SOVEREIGNTY → CHANDRAGUPTA II AND WESTERN → LATE GUPTAS, HUNAS AND → TERRITORIALITY AND ADMINISTRATION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-20-deep-review-2026-08-30-g4.json",
+  "ascii_spec_sha256": "229bd5229c35e832de64298a09bca8fb16545bf92f87734a4e9825c4286198df",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SOURCE-LED CHRONOLOGY",
+      "structural_type": "evidence-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOURCE-LED CHRONOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "GUPTA ERA 319-20 CE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVENTIONAL IMPERIAL PHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAYAG PRASHASTI",
+          "role": "evidence"
+        },
+        {
+          "text": "CAMPAIGN CATEGORIES + ROYAL IDEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "TITLES, IMAGES, RITUAL AND MONETARY ZONES",
+          "role": "outcome"
+        },
+        {
+          "text": "COPPER PLATES",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICES, GRANTS AND LOCAL ACTORS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GUPTA ERA 319-20 CE → conventional imperial phase",
+        "PRAYAG PRASHASTI → campaign categories + royal ideology",
+        "COINS → titles, images, ritual and monetary zones",
+        "COPPER PLATES / SEALS → offices, grants and local actors",
+        "FAXIAN → selected Buddhist and social observations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "GUPTA ERA 319-20 CE → conventional imperial phase",
+            "PRAYAG PRASHASTI → campaign categories + royal ideology"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "COINS → titles, images, ritual and monetary zones",
+            "COPPER PLATES / SEALS → offices, grants and local actors"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "FAXIAN → selected Buddhist and social observations",
+            "RULE: triangulate sources; prashasti praise and coin circulation are not border maps."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: triangulate sources; prashasti praise and coin circulation are not border maps.",
+      "answer_line": "triangulate sources; prashasti praise and coin circulation are not border maps.",
+      "source_references": [
+        "Sources",
+        "Chronology",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FORMATION AND CHANDRAGUPTA I",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FORMATION AND CHANDRAGUPTA I",
+          "role": "primary"
+        },
+        {
+          "text": "SRI GUPTA",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANDRAGUPTA I MAHARAJA MAHARAJADHIRAJA",
+          "role": "comparison"
+        },
+        {
+          "text": "KUMARADEVI-LICHCHHAVI ALLIANCE REPRESENTED ON COIN TYPE",
+          "role": "evidence"
+        },
+        {
+          "text": "GANGA CORE + ALLIANCE + INHERITED ROUTES + SYMBOLIC",
+          "role": "primary"
+        },
+        {
+          "text": "THE COIN PROVES ADVERTISED ALLIANCE, NOT A MEASURABLE DOWRY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SRI GUPTA → GHATOTKACHA → CHANDRAGUPTA I maharaja maharajadhiraja",
+        "Kumaradevi-Lichchhavi alliance represented on coin type",
+        "Ganga core + alliance + inherited routes + symbolic legitimacy",
+        "LIMIT: the coin proves advertised alliance, not a measurable dowry or exact border."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "SRI GUPTA → GHATOTKACHA → CHANDRAGUPTA I maharaja maharajadhiraja",
+            "Kumaradevi-Lichchhavi alliance represented on coin type"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Ganga core + alliance + inherited routes + symbolic legitimacy",
+            "LIMIT: the coin proves advertised alliance, not a measurable dowry or exact border."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "SRI GUPTA → GHATOTKACHA → CHANDRAGUPTA I maharaja maharajadhiraja",
+            "Kumaradevi-Lichchhavi alliance represented on coin type"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: the coin proves advertised alliance, not a measurable dowry or exact border.",
+      "source_references": [
+        "Imperial formation",
+        "Chandragupta I",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SAMUDRAGUPTA'S GRADED SOVEREIGNTY",
+      "structural_type": "layered-sovereignty",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SAMUDRAGUPTA'S GRADED SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "RULERS UPROOTED",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER CORE INCORPORATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBORDINATED FOREST RULERS",
+          "role": "evidence"
+        },
+        {
+          "text": "FRONTIER STATES",
+          "role": "primary"
+        },
+        {
+          "text": "TRIBUTE, ORDERS AND OBEISANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPTURED, RELEASED AND REINSTATED",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTANT RULERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARYAVARTA → rulers uprooted → stronger core incorporation",
+        "ATAVIKA → subordinated forest rulers",
+        "FRONTIER STATES / GANAS → tribute, orders and obeisance",
+        "DAKSHINAPATHA → captured, released and reinstated",
+        "DISTANT RULERS / ISLANDS → gifts, service and prestige diplomacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ARYAVARTA → rulers uprooted → stronger core incorporation",
+            "ATAVIKA → subordinated forest rulers"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FRONTIER STATES / GANAS → tribute, orders and obeisance",
+            "DAKSHINAPATHA → captured, released and reinstated"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DISTANT RULERS / ISLANDS → gifts, service and prestige diplomacy",
+            "VERDICT: annexation, subordination and hegemony coexisted; not every name was a province."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: annexation, subordination and hegemony coexisted; not every name was a province.",
+      "answer_line": "annexation, subordination and hegemony coexisted; not every name was a province.",
+      "source_references": [
+        "Samudragupta",
+        "Prayag prashasti",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHANDRAGUPTA II AND WESTERN EXPANSION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHANDRAGUPTA II AND WESTERN EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSION AND ALLIANCE CAPACITY DEFEAT OF WESTERN KSHATRAPAS IN",
+          "role": "outcome"
+        },
+        {
+          "text": "UDAYAGIRI AND ROYAL IMAGERY STRENGTHEN VAISHNAVA POLITICAL COMMUNICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "VIKRAMADITYA/NAVARATNA TRADITIONS REQUIRE SOURCE AND CHRONOLOGY CONTROL.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUCCESSION AND ALLIANCE CAPACITY defeat of western Kshatrapas in Malwa-Gujarat access to western routes, silver-coin",
+        "Udayagiri and royal imagery strengthen Vaishnava political communication",
+        "CAUTION: Vikramaditya/Navaratna traditions require source and chronology control."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SUCCESSION AND ALLIANCE CAPACITY defeat of western Kshatrapas in Malwa-Gujarat access to western routes, silver-coin zone and prestige centres",
+            "Udayagiri and royal imagery strengthen Vaishnava political communication"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Vikramaditya/Navaratna traditions require source and chronology control.",
+            "SUCCESSION AND ALLIANCE CAPACITY defeat of western Kshatrapas in Malwa-Gujarat access to western routes, silver-coin zone and prestige centres"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Udayagiri and royal imagery strengthen Vaishnava political communication",
+            "CAUTION: Vikramaditya/Navaratna traditions require source and chronology control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: Vikramaditya/Navaratna traditions require source and chronology control.",
+      "source_references": [
+        "Chandragupta II",
+        "Western expansion",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LATE GUPTAS, HUNAS AND DECLINE",
+      "structural_type": "multi-causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "LATE GUPTAS, HUNAS AND DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "LATER GUPTAS SUCCESSION STRAINS + HUNA PRESSURE + FEUDATORY",
+          "role": "outcome"
+        },
+        {
+          "text": "DECLINE WAS CUMULATIVE AND REGIONAL, NOT ONE INVASION OR",
+          "role": "caution"
+        },
+        {
+          "text": "KUMARAGUPTA → SKANDAGUPTA → LATER GUPTAS SUCCESSION STRAINS +",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KUMARAGUPTA → SKANDAGUPTA → LATER GUPTAS succession strains + Huna pressure + feudatory autonomy",
+        "fiscal and military burdens + regional powers + changing networks contracting imperial authority",
+        "VERDICT: decline was cumulative and regional, not one invasion or instant collapse."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KUMARAGUPTA → SKANDAGUPTA → LATER GUPTAS succession strains + Huna pressure + feudatory autonomy",
+            "fiscal and military burdens + regional powers + changing networks contracting imperial authority"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VERDICT: decline was cumulative and regional, not one invasion or instant collapse.",
+            "KUMARAGUPTA → SKANDAGUPTA → LATER GUPTAS succession strains + Huna pressure + feudatory autonomy"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "fiscal and military burdens + regional powers + changing networks contracting imperial authority",
+            "VERDICT: decline was cumulative and regional, not one invasion or instant collapse."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: decline was cumulative and regional, not one invasion or instant collapse.",
+      "answer_line": "decline was cumulative and regional, not one invasion or instant collapse.",
+      "source_references": [
+        "Late Guptas",
+        "Decline",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TERRITORIALITY AND ADMINISTRATION",
+      "structural_type": "layered-governance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TERRITORIALITY AND ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "BHUKTI PROVINCIAL LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "VISHAYA DISTRICT LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "VILLAGE BODIES AND LOCAL NOTABLES",
+          "role": "evidence"
+        },
+        {
+          "text": "FEUDATORIES AND FRONTIER RULERS",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICES AND PRACTICE VARIED BY REGION; BENGAL PLATES ARE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTLY RULED CORE + DELEGATED ADMINISTRATION + LAYERED HEGEMONY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "KING / COURT",
+        "bhukti provincial level",
+        "vishaya district level",
+        "town / village bodies and local notables",
+        "feudatories and frontier rulers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KING / COURT",
+            "bhukti provincial level",
+            "vishaya district level"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "town / village bodies and local notables",
+            "feudatories and frontier rulers",
+            "OFFICES and practice varied by region; Bengal plates are especially visible."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EMPIRE = directly ruled core + delegated administration + layered hegemony."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EMPIRE = directly ruled core + delegated administration + layered hegemony.",
+      "source_references": [
+        "Territoriality",
+        "Administration",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LAND GRANTS AND FISCAL DECENTRALISATION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAND GRANTS AND FISCAL DECENTRALISATION",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL CHARTER",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE RIGHTS + EXEMPTIONS + BOUNDARY RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAHMANA OR RELIGIOUS BENEFICIARY",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL CULTIVATORS, LABOUR AND INTERMEDIARIES",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN EXPANSION + LEGITIMATION + FISCAL REALLOCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANTS COULD STRENGTHEN FRONTIER INTEGRATION WHILE ALSO ENLARGING LOCAL",
+          "role": "comparison"
+        },
+        {
+          "text": "READ THE EXACT RIGHTS; DO NOT ASSUME EVERY GRANT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ROYAL CHARTER",
+        "land / revenue rights + exemptions + boundary record",
+        "Brahmana or religious beneficiary",
+        "local cultivators, labour and intermediaries",
+        "agrarian expansion + legitimation + fiscal reallocation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ROYAL CHARTER",
+            "land / revenue rights + exemptions + boundary record",
+            "Brahmana or religious beneficiary"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "local cultivators, labour and intermediaries",
+            "agrarian expansion + legitimation + fiscal reallocation",
+            "DEBATE: grants could strengthen frontier integration while also enlarging local autonomy."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: read the exact rights; do not assume every grant transferred total sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: read the exact rights; do not assume every grant transferred total sovereignty.",
+      "answer_line": "read the exact rights; do not assume every grant transferred total sovereignty.",
+      "source_references": [
+        "Land grants",
+        "Decentralisation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ECONOMY, COINAGE AND URBAN CHANGE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ECONOMY, COINAGE AND URBAN CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "GOLD COINS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL HIGH-VALUE CAPACITY AND IMAGERY",
+          "role": "comparison"
+        },
+        {
+          "text": "SILVER ISSUES",
+          "role": "evidence"
+        },
+        {
+          "text": "WESTERN ZONE AFTER KSHATRAPA CONQUEST",
+          "role": "primary"
+        },
+        {
+          "text": "COPPER SCARCITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL MEDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN EVERYDAY MONETISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOLD COINS → royal high-value capacity and imagery",
+        "SILVER ISSUES → western zone after Kshatrapa conquest",
+        "COPPER SCARCITY / REGIONAL MEDIA → uneven everyday monetisation",
+        "GUILDS / CRAFTS / PORTS → continuity in selected nodes",
+        "URBAN EVIDENCE → contraction in some centres, persistence or relocation in others"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "GOLD COINS → royal high-value capacity and imagery",
+          "COPPER SCARCITY / REGIONAL MEDIA → uneven everyday monetisation",
+          "URBAN EVIDENCE → contraction in some centres, persistence or relocation in others"
+        ],
+        [
+          "SILVER ISSUES → western zone after Kshatrapa conquest",
+          "GUILDS / CRAFTS / PORTS → continuity in selected nodes",
+          "VERDICT: neither universal prosperity nor total urban collapse fits the evidence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GOLD COINS → royal high-value capacity and imagery",
+            "SILVER ISSUES → western zone after Kshatrapa conquest"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COPPER SCARCITY / REGIONAL MEDIA → uneven everyday monetisation",
+            "GUILDS / CRAFTS / PORTS → continuity in selected nodes"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "URBAN EVIDENCE → contraction in some centres, persistence or relocation in others",
+            "VERDICT: neither universal prosperity nor total urban collapse fits the evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: neither universal prosperity nor total urban collapse fits the evidence.",
+      "answer_line": "neither universal prosperity nor total urban collapse fits the evidence.",
+      "source_references": [
+        "Economy",
+        "Urban change",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SOCIETY, FAXIAN AND RELIGION",
+      "structural_type": "social-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIETY, FAXIAN AND RELIGION",
+          "role": "primary"
+        },
+        {
+          "text": "NORM AND LIVED DIVERSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LABOUR OBLIGATION IN SELECTED GRANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDDHIST PILGRIM LENS; CHANDALA PASSAGE AND INSTITUTIONAL OBSERVATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SHAKTA PATRONAGE + BUDDHIST AND JAIN CONTINUITIES",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL AND NON-ROYAL DONORS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL RELIGIOUS LANDSCAPE",
+          "role": "comparison"
+        },
+        {
+          "text": "NORMATIVE TEXTS AND TRAVELLER ACCOUNTS ARE NOT CENSUSES.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VARNA / JATI / OCCUPATION → norm and lived diversity",
+        "VISHTI → labour obligation in selected grants",
+        "FAXIAN → Buddhist pilgrim lens; Chandala passage and institutional observations",
+        "VAISHNAVA / SHAIVA / SHAKTA patronage + Buddhist and Jain continuities",
+        "ROYAL AND NON-ROYAL DONORS → plural religious landscape"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "VARNA / JATI / OCCUPATION → norm and lived diversity",
+          "FAXIAN → Buddhist pilgrim lens; Chandala passage and institutional observations",
+          "ROYAL AND NON-ROYAL DONORS → plural religious landscape"
+        ],
+        [
+          "VISHTI → labour obligation in selected grants",
+          "VAISHNAVA / SHAIVA / SHAKTA patronage + Buddhist and Jain continuities",
+          "LIMIT: normative texts and traveller accounts are not censuses."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VARNA / JATI / OCCUPATION → norm and lived diversity",
+            "VISHTI → labour obligation in selected grants"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FAXIAN → Buddhist pilgrim lens; Chandala passage and institutional observations",
+            "VAISHNAVA / SHAIVA / SHAKTA patronage + Buddhist and Jain continuities"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ROYAL AND NON-ROYAL DONORS → plural religious landscape",
+            "LIMIT: normative texts and traveller accounts are not censuses."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: normative texts and traveller accounts are not censuses.",
+      "source_references": [
+        "Society",
+        "Religion",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LITERATURE, SCIENCE AND ARTS",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LITERATURE, SCIENCE AND ARTS",
+          "role": "primary"
+        },
+        {
+          "text": "SANSKRIT COURT CULTURE",
+          "role": "institution"
+        },
+        {
+          "text": "AMARASIMHA TRADITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARYABHATIYA, 499 CE",
+          "role": "evidence"
+        },
+        {
+          "text": "MEHRAULI IRON PILLAR WITH ATTRIBUTION CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "UDAYAGIRI, SANCHI 17, BHITARGAON AND DEOGARH",
+          "role": "outcome"
+        },
+        {
+          "text": "MATHURA, SARNATH AND VAKATAKA-CONTEXT AJANTA",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME WORK, DATE, PATRONAGE CONTEXT AND OWNERSHIP LIMIT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SANSKRIT COURT CULTURE → Kalidasa / Amarasimha traditions",
+        "MATHEMATICS-ASTRONOMY → Aryabhatiya, 499 CE",
+        "METALLURGY → Mehrauli iron pillar with attribution caution",
+        "ARCHITECTURE → Udayagiri, Sanchi 17, Bhitargaon and Deogarh",
+        "SCULPTURE / PAINTING → Mathura, Sarnath and Vakataka-context Ajanta"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SANSKRIT COURT CULTURE → Kalidasa / Amarasimha traditions",
+            "MATHEMATICS-ASTRONOMY → Aryabhatiya, 499 CE"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "METALLURGY → Mehrauli iron pillar with attribution caution",
+            "ARCHITECTURE → Udayagiri, Sanchi 17, Bhitargaon and Deogarh"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SCULPTURE / PAINTING → Mathura, Sarnath and Vakataka-context Ajanta",
+            "RULE: name work, date, patronage context and ownership limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: name work, date, patronage context and ownership limit.",
+      "answer_line": "name work, date, patronage context and ownership limit.",
+      "source_references": [
+        "Culture",
+        "Science and art",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "GOLDEN AGE AND HISTORIOGRAPHY",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GOLDEN AGE AND HISTORIOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "DURABLE LITERATURE + SCIENCE + SCULPTURE + TEMPLE FORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "AGAINST UNIVERSAL LABEL",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL PRODUCTION BEYOND DIRECT GUPTA RULE HIERARCHY, EXCLUSION, VISHTI",
+          "role": "evidence"
+        },
+        {
+          "text": "ELITE-SOURCE BIAS",
+          "role": "evidence"
+        },
+        {
+          "text": "A BOUNDED CLASSICAL FLORESCENCE, NOT A CENSUS JUDGEMENT ON",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOR: durable literature + science + sculpture + temple forms + political prestige",
+        "AGAINST UNIVERSAL LABEL",
+        "regional production beyond direct Gupta rule hierarchy, exclusion, vishti and patriarchal norms uneven urban and",
+        "elite-source bias",
+        "VERDICT: a bounded classical florescence, not a census judgement on all society."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "FOR: durable literature + science + sculpture + temple forms + political prestige",
+            "AGAINST UNIVERSAL LABEL"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "regional production beyond direct Gupta rule hierarchy, exclusion, vishti and patriarchal norms uneven urban and monetary conditions",
+            "elite-source bias"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: a bounded classical florescence, not a census judgement on all society.",
+            "FOR: durable literature + science + sculpture + temple forms + political prestige"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: a bounded classical florescence, not a census judgement on all society.",
+      "answer_line": "a bounded classical florescence, not a census judgement on all society.",
+      "source_references": [
+        "Golden Age",
+        "Historiography",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "GUPTA ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GUPTA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "INSCRIPTION- AND COIN-LED LAYERED EMPIRE, C. 319-550 CE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANDRAGUPTA II",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE PRESSURES",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED SOVEREIGNTY + ADMINISTRATION + FEUDATORIES",
+          "role": "primary"
+        },
+        {
+          "text": "GRANTS + AGRARIAN BASE + COINS + URBAN VARIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "USE ONLY BOUNDED EXAMPLES; TOPIC 21 OWNS SOCIAL-CULTURAL DEPTH",
+          "role": "comparison"
+        },
+        {
+          "text": "GENRE, REGION, ATTRIBUTION AND DISTRIBUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN: inscription- and coin-led layered empire, c. 319-550 CE",
+        "RULERS: formation → Samudragupta → Chandragupta II → late pressures",
+        "POLITY: graded sovereignty + administration + feudatories",
+        "ECONOMY: grants + agrarian base + coins + urban variation",
+        "CULTURE: use only bounded examples; Topic 21 owns social-cultural depth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN: inscription- and coin-led layered empire, c. 319-550 CE",
+            "RULERS: formation → Samudragupta → Chandragupta II → late pressures",
+            "POLITY: graded sovereignty + administration + feudatories"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ECONOMY: grants + agrarian base + coins + urban variation",
+            "CULTURE: use only bounded examples; Topic 21 owns social-cultural depth",
+            "QUALIFY: genre, region, attribution and distribution"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: high-capacity core with negotiated and changing peripheries."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: high-capacity core with negotiated and changing peripheries.",
+      "source_references": [
+        "Answer architecture",
+        "Topic boundary",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\20_Gupta-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\g4\\ancient-indian-history-20_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE GUPTA EMPIRE — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Gupta Empire — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — Allahabad pillar as layered archive",
+            "Historical PYQ Integration (2018-2023)",
+            "The composer was Harishena , a court figure; therefore the inscription is both evidence and ideology."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

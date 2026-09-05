@@ -1,0 +1,1147 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-16",
+  "subject": "World-History",
+  "title": "UNITED NATIONS AND GLOBAL GOVERNANCE",
+  "short_route": "UN FOUNDING SEQUENCE → SIX PRINCIPAL BODIES → COURT AND AGENCY BOUNDARIES → LEAGUE VERSUS UN → SUCCESS-CONDITION MATRIX → SUEZ VERSUS HUNGARY, 1956",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-16-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "7cecad888e641a42f230ec2220efe9b6cf24bc3b6a2ffc0406dcdfb0f1123086",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "UN FOUNDING SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "UN FOUNDING SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DUMBARTON OAKS PROPOSALS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHARTER FRAMED AT SAN FRANCISCO",
+          "role": "comparison"
+        },
+        {
+          "text": "OCT 1945",
+          "role": "evidence"
+        },
+        {
+          "text": "UNITED NATIONS COMES INTO EXISTENCE",
+          "role": "primary"
+        },
+        {
+          "text": "PEACE, PROGRESS AND RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "DUMBARTON OAKS (1944), SAN FRANCISCO AND OCTOBER 1945 ANCHOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1944 → Dumbarton Oaks proposals",
+        "1945 → Charter framed at San Francisco",
+        "OCT 1945 → United Nations comes into existence",
+        "DESIGN → peace, progress and rights",
+        "MUST REMEMBER: Dumbarton Oaks (1944), San Francisco and October 1945 anchor the founding"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1944 → Dumbarton Oaks proposals",
+            "1945 → Charter framed at San Francisco"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OCT 1945 → United Nations comes into existence",
+            "DESIGN → peace, progress and rights"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Dumbarton Oaks (1944), San Francisco and October 1945 anchor the founding",
+            "the six principal bodies, Security Council composition and ICJ-ICC distinction must remain exact."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Dumbarton Oaks (1944), San Francisco and October 1945 anchor the founding; the six principal bodies, Security Council composition and ICJ-ICC distinction must remain exact.",
+      "source_references": [
+        "Founding after League failure",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SIX PRINCIPAL BODIES",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SIX PRINCIPAL BODIES",
+          "role": "primary"
+        },
+        {
+          "text": "GENERAL ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "DELIBERATION AND BUDGET",
+          "role": "comparison"
+        },
+        {
+          "text": "SECURITY COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "PEACE AND SECURITY",
+          "role": "primary"
+        },
+        {
+          "text": "ECOSOC + TRUSTEESHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL WORK AND TERRITORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ICJ + SECRETARIAT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENERAL ASSEMBLY → deliberation and budget",
+        "SECURITY COUNCIL → peace and security",
+        "ECOSOC + TRUSTEESHIP → social work and territories",
+        "ICJ + SECRETARIAT → law and administration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENERAL ASSEMBLY → deliberation and budget",
+            "SECURITY COUNCIL → peace and security"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECOSOC + TRUSTEESHIP → social work and territories",
+            "ICJ + SECRETARIAT → law and administration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GENERAL ASSEMBLY → deliberation and budget",
+            "SECURITY COUNCIL → peace and security"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECOSOC + TRUSTEESHIP → social work and territories.",
+      "source_references": [
+        "Six Charter bodies",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COURT AND AGENCY BOUNDARIES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COURT AND AGENCY BOUNDARIES",
+          "role": "institution"
+        },
+        {
+          "text": "PRINCIPAL UN JUDICIAL ORGAN",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE TREATY-BASED COURT",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIALISED AGENCIES",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENT LEGAL CATEGORIES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ICJ → principal UN judicial organ",
+        "ICC → separate treaty-based court",
+        "WHO/FAO/UNESCO → specialised agencies",
+        "UNICEF/UNRWA/WTO → different legal categories"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ICJ → principal UN judicial organ",
+          "WHO/FAO/UNESCO → specialised agencies",
+          "ICJ → principal UN judicial organ"
+        ],
+        [
+          "ICC → separate treaty-based court",
+          "UNICEF/UNRWA/WTO → different legal categories",
+          "ICC → separate treaty-based court"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ICJ → principal UN judicial organ",
+            "ICC → separate treaty-based court"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHO/FAO/UNESCO → specialised agencies",
+            "UNICEF/UNRWA/WTO → different legal categories"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ICJ → principal UN judicial organ",
+            "ICC → separate treaty-based court"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHO/FAO/UNESCO → specialised agencies; UNICEF/UNRWA/WTO → different legal categories.",
+      "source_references": [
+        "ICJ, ICC and category discipline",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LEAGUE VERSUS UN",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEAGUE VERSUS UN",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER UN PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGER UN REMIT",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNCIL CAN AUTHORISE FORCE",
+          "role": "institution"
+        },
+        {
+          "text": "VETO POLITICS AND NO STANDING ARMY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MEMBERSHIP → wider UN participation",
+        "SOCIAL WORK → larger UN remit",
+        "ENFORCEMENT → Council can authorise force",
+        "CONTINUITY → veto politics and no standing army"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MEMBERSHIP → wider UN participation",
+          "ENFORCEMENT → Council can authorise force",
+          "MEMBERSHIP → wider UN participation"
+        ],
+        [
+          "SOCIAL WORK → larger UN remit",
+          "CONTINUITY → veto politics and no standing army",
+          "SOCIAL WORK → larger UN remit"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MEMBERSHIP → wider UN participation",
+            "SOCIAL WORK → larger UN remit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENFORCEMENT → Council can authorise force",
+            "CONTINUITY → veto politics and no standing army"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MEMBERSHIP → wider UN participation",
+            "SOCIAL WORK → larger UN remit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTINUITY → veto politics and no standing army.",
+      "source_references": [
+        "UN versus League",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SUCCESS-CONDITION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SUCCESS-CONDITION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SUEZ AND WEST NEW GUINEA",
+          "role": "outcome"
+        },
+        {
+          "text": "KOREA VOTE DURING SOVIET BOYCOTT",
+          "role": "comparison"
+        },
+        {
+          "text": "HUNGARY AND CZECHOSLOVAKIA",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAK BACKING",
+          "role": "primary"
+        },
+        {
+          "text": "SOMALIA AND BOSNIA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AGREEMENT → Suez and West New Guinea",
+        "ABSENCE → Korea vote during Soviet boycott",
+        "COLLISION → Hungary and Czechoslovakia",
+        "WEAK BACKING → Somalia and Bosnia"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AGREEMENT → Suez and West New Guinea",
+          "COLLISION → Hungary and Czechoslovakia",
+          "AGREEMENT → Suez and West New Guinea"
+        ],
+        [
+          "ABSENCE → Korea vote during Soviet boycott",
+          "WEAK BACKING → Somalia and Bosnia",
+          "ABSENCE → Korea vote during Soviet boycott"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AGREEMENT → Suez and West New Guinea",
+            "ABSENCE → Korea vote during Soviet boycott"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLLISION → Hungary and Czechoslovakia",
+            "WEAK BACKING → Somalia and Bosnia"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGREEMENT → Suez and West New Guinea",
+            "ABSENCE → Korea vote during Soviet boycott"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COLLISION → Hungary and Czechoslovakia; WEAK BACKING → Somalia and Bosnia.",
+      "source_references": [
+        "Korea and collective enforcement",
+        "Suez versus Hungary",
+        "Somalia and Bosnia",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SUEZ VERSUS HUNGARY, 1956",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SUEZ VERSUS HUNGARY, 1956",
+          "role": "comparison"
+        },
+        {
+          "text": "CEASEFIRE AND PEACEKEEPING FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOVIET FORCE BLOCKS MEANINGFUL ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GREAT-POWER ALIGNMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "MANDATE FOLLOWS POLITICAL POSSIBILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUEZ → ceasefire and peacekeeping force",
+        "HUNGARY → Soviet force blocks meaningful action",
+        "VARIABLE → great-power alignment",
+        "LESSON → mandate follows political possibility"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SUEZ → ceasefire and peacekeeping force",
+          "VARIABLE → great-power alignment",
+          "SUEZ → ceasefire and peacekeeping force"
+        ],
+        [
+          "HUNGARY → Soviet force blocks meaningful action",
+          "LESSON → mandate follows political possibility",
+          "HUNGARY → Soviet force blocks meaningful action"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUEZ → ceasefire and peacekeeping force",
+            "HUNGARY → Soviet force blocks meaningful action"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VARIABLE → great-power alignment",
+            "LESSON → mandate follows political possibility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUEZ → ceasefire and peacekeeping force",
+            "HUNGARY → Soviet force blocks meaningful action"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VARIABLE → great-power alignment; LESSON → mandate follows political possibility.",
+      "source_references": [
+        "Suez versus Hungary",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PEACEKEEPING VERSUS ENFORCEMENT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PEACEKEEPING VERSUS ENFORCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT AND SEPARATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMBER-STATE COLLECTIVE ENFORCEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "GULF 1991",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNCIL-AUTHORISED COALITION",
+          "role": "institution"
+        },
+        {
+          "text": "AUTHORISATION DOES NOT EQUAL BLUE HELMETS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PEACEKEEPING → consent and separation",
+        "KOREA → member-state collective enforcement",
+        "GULF 1991 → Council-authorised coalition",
+        "RULE → authorisation does not equal blue helmets"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PEACEKEEPING → consent and separation",
+          "GULF 1991 → Council-authorised coalition",
+          "PEACEKEEPING → consent and separation"
+        ],
+        [
+          "KOREA → member-state collective enforcement",
+          "RULE → authorisation does not equal blue helmets",
+          "KOREA → member-state collective enforcement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PEACEKEEPING → consent and separation",
+            "KOREA → member-state collective enforcement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GULF 1991 → Council-authorised coalition",
+            "RULE → authorisation does not equal blue helmets"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PEACEKEEPING → consent and separation",
+            "KOREA → member-state collective enforcement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → authorisation does not equal blue helmets.",
+      "source_references": [
+        "Korea and collective enforcement",
+        "Gulf War authority",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CONTAINMENT WITHOUT RESOLUTION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONTAINMENT WITHOUT RESOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "IMMEDIATE VIOLENCE REDUCED",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLIANCE SUPERVISED",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL ISSUE",
+          "role": "evidence"
+        },
+        {
+          "text": "REMAINS CONTESTED",
+          "role": "primary"
+        },
+        {
+          "text": "CYPRUS AND KASHMIR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CEASEFIRE → immediate violence reduced",
+        "OBSERVATION → compliance supervised",
+        "POLITICAL ISSUE → remains contested",
+        "CASES → Cyprus and Kashmir"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CEASEFIRE → immediate violence reduced",
+            "OBSERVATION → compliance supervised"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICAL ISSUE → remains contested",
+            "CASES → Cyprus and Kashmir"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CEASEFIRE → immediate violence reduced",
+            "OBSERVATION → compliance supervised"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLITICAL ISSUE → remains contested; CASES → Cyprus and Kashmir.",
+      "source_references": [
+        "Ceasefire management without settlement",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "POST-COLD-WAR MISSION CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POST-COLD-WAR MISSION CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSITIONS STABILISED",
+          "role": "outcome"
+        },
+        {
+          "text": "COSTLY PARTIAL ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDATE AND FORCE GAPS",
+          "role": "evidence"
+        },
+        {
+          "text": "IRAQ 2003",
+          "role": "primary"
+        },
+        {
+          "text": "POWERFUL STATES BYPASS COUNCIL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CAMBODIA/MOZAMBIQUE → transitions stabilised",
+        "CONGO → costly partial order",
+        "SOMALIA/BOSNIA → mandate and force gaps",
+        "IRAQ 2003 → powerful states bypass Council"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CAMBODIA/MOZAMBIQUE → transitions stabilised",
+          "SOMALIA/BOSNIA → mandate and force gaps",
+          "CAMBODIA/MOZAMBIQUE → transitions stabilised"
+        ],
+        [
+          "CONGO → costly partial order",
+          "IRAQ 2003 → powerful states bypass Council",
+          "CONGO → costly partial order"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAMBODIA/MOZAMBIQUE → transitions stabilised",
+            "CONGO → costly partial order"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOMALIA/BOSNIA → mandate and force gaps",
+            "IRAQ 2003 → powerful states bypass Council"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAMBODIA/MOZAMBIQUE → transitions stabilised",
+            "CONGO → costly partial order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOMALIA/BOSNIA → mandate and force gaps; IRAQ 2003 → powerful states bypass Council.",
+      "source_references": [
+        "Congo's mixed record",
+        "Post-Cold-War transition successes",
+        "Somalia and Bosnia",
+        "Iraq and powerful-state bypass",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NON-MILITARY GOVERNANCE WEB",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NON-MILITARY GOVERNANCE WEB",
+          "role": "primary"
+        },
+        {
+          "text": "UDHR AND ILO",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO AND FAO",
+          "role": "comparison"
+        },
+        {
+          "text": "UNESCO AND UNICEF",
+          "role": "evidence"
+        },
+        {
+          "text": "UNRWA AND OCHA",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PEACEKEEPING, CEASEFIRE SUPERVISION AND SECURITY COUNCIL-AUTHORISED COLLECTIVE ENFORCEMENT ARE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RIGHTS/LABOUR → UDHR and ILO",
+        "HEALTH/FOOD → WHO and FAO",
+        "EDUCATION/CHILDREN → UNESCO and UNICEF",
+        "REFUGEES/RELIEF → UNRWA and OCHA",
+        "CLOSE DISTINCTION: Peacekeeping, ceasefire supervision and Security Council-authorised collective enforcement are different tools"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RIGHTS/LABOUR → UDHR and ILO",
+            "HEALTH/FOOD → WHO and FAO"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EDUCATION/CHILDREN → UNESCO and UNICEF",
+            "REFUGEES/RELIEF → UNRWA and OCHA"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Peacekeeping, ceasefire supervision and Security Council-authorised collective enforcement are different tools",
+            "Korea and the 1991 Gulf War were not ordinary blue-helmet operations."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Peacekeeping, ceasefire supervision and Security Council-authorised collective enforcement are different tools; Korea and the 1991 Gulf War were not ordinary blue-helmet operations.",
+      "source_references": [
+        "Global governance beyond security",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "1945 AUTHORITY MISMATCH",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "1945 AUTHORITY MISMATCH",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "POWER STRUCTURE OF 1945",
+          "role": "mechanism"
+        },
+        {
+          "text": "GENERAL ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "MEMBERSHIP TRANSFORMED BY DECOLONISATION",
+          "role": "primary"
+        },
+        {
+          "text": "KEEPS GREAT POWERS INSIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM CASE",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGITIMACY AND EFFECTIVENESS DIVERGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECURITY COUNCIL → power structure of 1945",
+        "GENERAL ASSEMBLY → membership transformed by decolonisation",
+        "VETO → keeps great powers inside",
+        "REFORM CASE → legitimacy and effectiveness diverge",
+        "EVIDENCE LIMIT: UN performance is function- and power-dependent: social, legal and humanitarian work can succeed"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SECURITY COUNCIL → power structure of 1945",
+          "VETO → keeps great powers inside",
+          "EVIDENCE LIMIT: UN performance is function- and power-dependent: social, legal and humanitarian work can succeed while veto collision"
+        ],
+        [
+          "GENERAL ASSEMBLY → membership transformed by decolonisation",
+          "REFORM CASE → legitimacy and effectiveness diverge",
+          "reform claims must carry a current source and date."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECURITY COUNCIL → power structure of 1945",
+            "GENERAL ASSEMBLY → membership transformed by decolonisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VETO → keeps great powers inside",
+            "REFORM CASE → legitimacy and effectiveness diverge"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: UN performance is function- and power-dependent: social, legal and humanitarian work can succeed while veto collision",
+            "reform claims must carry a current source and date."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: UN performance is function- and power-dependent: social, legal and humanitarian work can succeed while veto collision blocks enforcement; reform claims must carry a current source and date.",
+      "source_references": [
+        "Reform and balanced verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "LEAGUE LESSONS AND 1945 CHARTER",
+          "role": "outcome"
+        },
+        {
+          "text": "SIX BODIES AND LEGAL CATEGORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "CASES ORGANISED BY POWER ALIGNMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "FORUM STRENGTH, ENFORCEMENT CONSTRAINT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ORIGIN → League lessons and 1945 Charter",
+        "STRUCTURE → six bodies and legal categories",
+        "RECORD → cases organised by power alignment",
+        "VERDICT → forum strength, enforcement constraint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORIGIN → League lessons and 1945 Charter",
+            "STRUCTURE → six bodies and legal categories"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECORD → cases organised by power alignment",
+            "VERDICT → forum strength, enforcement constraint"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORIGIN → League lessons and 1945 Charter",
+            "STRUCTURE → six bodies and legal categories"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECORD → cases organised by power alignment; VERDICT → forum strength, enforcement constraint.",
+      "source_references": [
+        "Reform and balanced verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g2\\world-history-16_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-16\\g3\\world-history-16_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MORE CIVIL WARS AND FRACTURED STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "HUMANITARIAN CRISES MIXED WITH ARMED CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "PEACEKEEPING MISSIONS BECAME MORE COMPLEX THAN CLASSIC INTER-STATE CEASEFIRE",
+          "role": "institution"
+        },
+        {
+          "text": "STRONGER AND QUICKER PEACEKEEPING CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "BETTER CO-ORDINATION ACROSS AGENCIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEARER HANDLING OF TERRORISM AND HUMANITARIAN CRISES",
+          "role": "comparison"
+        },
+        {
+          "text": "A MORE WORKABLE RELATIONSHIP BETWEEN THE UN AND OVERWHELMING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "more civil wars and fractured states;",
+            "humanitarian crises mixed with armed conflict;",
+            "peacekeeping missions became more complex than classic inter-state ceasefire supervision.",
+            "stronger and quicker peacekeeping capacity;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "better co-ordination across agencies;",
+            "clearer handling of terrorism and humanitarian crises;",
+            "a more workable relationship between the UN and overwhelming US power.",
+            "The UN must be compared with the League through both strengths and surviving weaknesses."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Suez and Hungary are the classic paired contrast.",
+            "The Security Council veto is the central institutional brake, but not the whole story.",
+            "Peacekeeping and humanitarian governance must both appear in advanced answers.",
+            "Official current UN structure = six principal bodies."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

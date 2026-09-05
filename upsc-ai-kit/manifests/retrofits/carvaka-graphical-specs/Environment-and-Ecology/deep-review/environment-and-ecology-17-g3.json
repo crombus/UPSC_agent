@@ -1,0 +1,1158 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-17",
+  "subject": "Environment-and-Ecology",
+  "title": "CLIMATE CHANGE SCIENCE GREENHOUSE EFFECT",
+  "short_route": "GREENHOUSE-EFFECT FIREWALL → ENERGY-BALANCE RAIL → EMISSION-TO-CONCENTRATION LEDGER → FORCING-FEEDBACK FORK → WATER AND PARTICLE MATRIX → GAS COMPARISON GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-17-deep-review-2026-09-03-g3.json",
+  "ascii_spec_sha256": "63f2ac0c4f62522b4418603df489df394be9623262f7c544e27ad5e859934818",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GREENHOUSE-EFFECT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GREENHOUSE-EFFECT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORBS AND RE-EMITS OUTGOING LONGWAVE RADIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINTAINS A HABITABLE ENERGY BALANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN ENHANCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RAISES CONCENTRATIONS AND NET FORCING",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "WARMING PLUS WIDER SYSTEM CHANGES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATURAL EFFECT → absorbs and re-emits outgoing longwave radiation",
+        "FUNCTION → maintains a habitable energy balance",
+        "HUMAN ENHANCEMENT → raises concentrations and net forcing",
+        "CLIMATE RESPONSE → warming plus wider system changes",
+        "EXAM RULE → preserve the natural-versus-enhanced distinction"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NATURAL EFFECT → absorbs and re-emits outgoing longwave radiation",
+          "HUMAN ENHANCEMENT → raises concentrations and net forcing",
+          "EXAM RULE → preserve the natural-versus-enhanced distinction"
+        ],
+        [
+          "FUNCTION → maintains a habitable energy balance",
+          "CLIMATE RESPONSE → warming plus wider system changes",
+          "MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATURAL EFFECT → absorbs and re-emits outgoing longwave radiation",
+            "FUNCTION → maintains a habitable energy balance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HUMAN ENHANCEMENT → raises concentrations and net forcing",
+            "CLIMATE RESPONSE → warming plus wider system changes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM RULE → preserve the natural-versus-enhanced distinction",
+            "MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from.",
+      "source_references": [
+        "Natural greenhouse effect",
+        "Enhanced anthropogenic forcing",
+        "Shortwave-longwave distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ENERGY-BALANCE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENERGY-BALANCE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "INCOMING PREDOMINANTLY SHORTWAVE ENERGY",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORBS PART AND WARMS",
+          "role": "comparison"
+        },
+        {
+          "text": "EMITS OUTGOING LONGWAVE INFRARED ENERGY",
+          "role": "evidence"
+        },
+        {
+          "text": "GREENHOUSE GASES",
+          "role": "primary"
+        },
+        {
+          "text": "ABSORB AND RE-EMIT PART OF LONGWAVE FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "FORCING CHANGES ENERGY RETAINED BY THE CLIMATE SYSTEM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SUN → incoming predominantly shortwave energy",
+        "SURFACE → absorbs part and warms",
+        "EARTH → emits outgoing longwave infrared energy",
+        "GREENHOUSE GASES → absorb and re-emit part of longwave flow",
+        "IMBALANCE → forcing changes energy retained by the climate system"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUN → incoming predominantly shortwave energy",
+            "SURFACE → absorbs part and warms"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EARTH → emits outgoing longwave infrared energy",
+            "GREENHOUSE GASES → absorb and re-emit part of longwave flow"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMBALANCE → forcing changes energy retained by the climate system",
+            "SUN → incoming predominantly shortwave energy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMBALANCE → forcing changes energy retained by the climate system.",
+      "source_references": [
+        "Shortwave-longwave distinction",
+        "Forcing-feedback distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EMISSION-TO-CONCENTRATION LEDGER",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EMISSION-TO-CONCENTRATION LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "EMISSIONS FLOW DURING A STATED PERIOD",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONCENTRATION AFTER SOURCES AND SINKS INTERACT",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG-LIVED GASES BUILD AN ATMOSPHERIC STOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "FLOW CUT",
+          "role": "mechanism"
+        },
+        {
+          "text": "SLOWS ADDITION BUT DOES NOT ERASE THE STOCK",
+          "role": "caution"
+        },
+        {
+          "text": "CHANGES THE STOCK ONLY WITHIN A STATED BOUNDARY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ACTIVITY → emissions flow during a stated period",
+        "ATMOSPHERE → concentration after sources and sinks interact",
+        "ACCUMULATION → long-lived gases build an atmospheric stock",
+        "FLOW CUT → slows addition but does not erase the stock",
+        "REMOVAL → changes the stock only within a stated boundary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACTIVITY → emissions flow during a stated period",
+            "ATMOSPHERE → concentration after sources and sinks interact"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCUMULATION → long-lived gases build an atmospheric stock",
+            "FLOW CUT → slows addition but does not erase the stock"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REMOVAL → changes the stock only within a stated boundary",
+            "ACTIVITY → emissions flow during a stated period"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMOVAL → changes the stock only within a stated boundary.",
+      "source_references": [
+        "Emission-concentration distinction",
+        "Stock-flow distinction",
+        "Sink-source and gross-net",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FORCING-FEEDBACK FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FORCING-FEEDBACK FORK",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL OR IMPOSED ENERGY CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "RADIATIVE FORCING",
+          "role": "comparison"
+        },
+        {
+          "text": "CLIMATE RESPONSE TRIGGERED",
+          "role": "evidence"
+        },
+        {
+          "text": "AMPLIFIES INITIAL CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "POSITIVE FEEDBACK",
+          "role": "outcome"
+        },
+        {
+          "text": "DAMPENS INITIAL CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEGATIVE FEEDBACK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXTERNAL OR IMPOSED ENERGY CHANGE → radiative forcing",
+        "CLIMATE RESPONSE TRIGGERED → feedback",
+        "AMPLIFIES INITIAL CHANGE → positive feedback",
+        "DAMPENS INITIAL CHANGE → negative feedback",
+        "SIGN → direction of response, never moral value"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXTERNAL OR IMPOSED ENERGY CHANGE → radiative forcing",
+            "CLIMATE RESPONSE TRIGGERED → feedback"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AMPLIFIES INITIAL CHANGE → positive feedback",
+            "DAMPENS INITIAL CHANGE → negative feedback"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SIGN → direction of response, never moral value",
+            "EXTERNAL OR IMPOSED ENERGY CHANGE → radiative forcing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIGN → direction of response, never moral value.",
+      "source_references": [
+        "Forcing-feedback distinction",
+        "Feedback sign",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WATER AND PARTICLE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WATER AND PARTICLE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "WATER VAPOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "GREENHOUSE GAS COMMONLY ACTING AS FEEDBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "SULPHATE-LIKE AEROSOLS",
+          "role": "evidence"
+        },
+        {
+          "text": "OFTEN COOLING INFLUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "BLACK CARBON",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORBING WARMING INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SNOW OR ICE DEPOSITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WATER VAPOUR → greenhouse gas commonly acting as feedback",
+        "SULPHATE-LIKE AEROSOLS → often cooling influence",
+        "BLACK CARBON → absorbing warming influence",
+        "SNOW OR ICE DEPOSITION → can lower albedo",
+        "BOUNDARY → agent, location and mechanism determine the sign"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WATER VAPOUR → greenhouse gas commonly acting as feedback",
+          "BLACK CARBON → absorbing warming influence",
+          "BOUNDARY → agent, location and mechanism determine the sign"
+        ],
+        [
+          "SULPHATE-LIKE AEROSOLS → often cooling influence",
+          "SNOW OR ICE DEPOSITION → can lower albedo",
+          "WATER VAPOUR → greenhouse gas commonly acting as feedback"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WATER VAPOUR → greenhouse gas commonly acting as feedback",
+            "SULPHATE-LIKE AEROSOLS → often cooling influence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLACK CARBON → absorbing warming influence",
+            "SNOW OR ICE DEPOSITION → can lower albedo"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → agent, location and mechanism determine the sign",
+            "WATER VAPOUR → greenhouse gas commonly acting as feedback"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → agent, location and mechanism determine the sign.",
+      "source_references": [
+        "Water-vapour boundary",
+        "Aerosol-black-carbon boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GAS COMPARISON GATE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GAS COMPARISON GATE",
+          "role": "primary"
+        },
+        {
+          "text": "RELATIVE INTEGRATED INFLUENCE OVER A NAMED HORIZON",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFECT PER UNIT MASS UNDER THE METRIC",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSISTENCE IN THE ATMOSPHERE",
+          "role": "evidence"
+        },
+        {
+          "text": "EMISSION SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTITY RELEASED",
+          "role": "outcome"
+        },
+        {
+          "text": "NEAR-TERM AND CUMULATIVE LEVERS ARE NOT IDENTICAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GWP → relative integrated influence over a named horizon",
+        "POTENCY → effect per unit mass under the metric",
+        "LIFETIME → persistence in the atmosphere",
+        "EMISSION SCALE → quantity released",
+        "POLICY → near-term and cumulative levers are not identical"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GWP → relative integrated influence over a named horizon",
+          "LIFETIME → persistence in the atmosphere",
+          "POLICY → near-term and cumulative levers are not identical"
+        ],
+        [
+          "POTENCY → effect per unit mass under the metric",
+          "EMISSION SCALE → quantity released",
+          "GWP → relative integrated influence over a named horizon"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GWP → relative integrated influence over a named horizon",
+            "POTENCY → effect per unit mass under the metric"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIFETIME → persistence in the atmosphere",
+            "EMISSION SCALE → quantity released"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLICY → near-term and cumulative levers are not identical",
+            "GWP → relative integrated influence over a named horizon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLICY → near-term and cumulative levers are not identical.",
+      "source_references": [
+        "GWP time horizon",
+        "Potency-lifetime distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WEATHER-TO-CLIMATE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WEATHER-TO-CLIMATE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "INDIVIDUAL WEATHER OCCURRENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEASON OR YEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "SHORT-PERIOD VARIABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "FREQUENCY, INTENSITY AND PATTERN",
+          "role": "primary"
+        },
+        {
+          "text": "LONGER RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE TREND ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FLUCTUATION AROUND A TREND IS NOT TREND REVERSAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EVENT → individual weather occurrence",
+        "SEASON OR YEAR → short-period variability",
+        "DISTRIBUTION → frequency, intensity and pattern",
+        "LONGER RECORD → climate trend assessment",
+        "RULE → fluctuation around a trend is not trend reversal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EVENT → individual weather occurrence",
+            "SEASON OR YEAR → short-period variability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTRIBUTION → frequency, intensity and pattern",
+            "LONGER RECORD → climate trend assessment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → fluctuation around a trend is not trend reversal",
+            "EVENT → individual weather occurrence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → fluctuation around a trend is not trend reversal.",
+      "source_references": [
+        "Weather-climate distinction",
+        "Variability-trend distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ATTRIBUTION EVIDENCE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ATTRIBUTION EVIDENCE CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFINE THE MEASURED CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINGUISH SIGNAL FROM EXPECTED VARIABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARE HUMAN AND NATURAL INFLUENCES",
+          "role": "comparison"
+        },
+        {
+          "text": "MODELS PLUS PHYSICS PLUS RECORDS",
+          "role": "primary"
+        },
+        {
+          "text": "CONVERGING EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALIFIED CONTRIBUTION, NOT SLOGAN CAUSATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OBSERVATION → define the measured change",
+        "DETECTION → distinguish signal from expected variability",
+        "DRIVERS → compare human and natural influences",
+        "MODELS PLUS PHYSICS PLUS RECORDS → converging evidence",
+        "ATTRIBUTION → qualified contribution, not slogan causation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OBSERVATION → define the measured change",
+            "DETECTION → distinguish signal from expected variability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIVERS → compare human and natural influences",
+            "MODELS PLUS PHYSICS PLUS RECORDS → converging evidence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ATTRIBUTION → qualified contribution, not slogan causation",
+            "OBSERVATION → define the measured change"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MODELS PLUS PHYSICS PLUS RECORDS → converging evidence.",
+      "source_references": [
+        "Detection-attribution distinction",
+        "Event-attribution boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVENT-CLAIM FIREWALL",
+      "structural_type": "decision-gate",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EVENT-CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE EVENT CLASS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACE, DURATION AND METRIC",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARE WORLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "WITH AND WITHOUT HUMAN INFLUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ESTIMATE CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROBABILITY OR INTENSITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RETAIN OTHER DRIVERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE EVENT CLASS → place, duration and metric",
+        "COMPARE WORLDS → with and without human influence",
+        "ESTIMATE CHANGE → probability or intensity",
+        "RETAIN OTHER DRIVERS → exposure, vulnerability and variability",
+        "NO SOLE CAUSE → disaster impact is multi-causal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE EVENT CLASS → place, duration and metric",
+            "COMPARE WORLDS → with and without human influence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ESTIMATE CHANGE → probability or intensity",
+            "RETAIN OTHER DRIVERS → exposure, vulnerability and variability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO SOLE CAUSE → disaster impact is multi-causal",
+            "DEFINE EVENT CLASS → place, duration and metric"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO SOLE CAUSE → disaster impact is multi-causal.",
+      "source_references": [
+        "Event-attribution boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OBSERVATION-PROJECTION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OBSERVATION-PROJECTION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MEASURED PAST OR PRESENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLANATION OF OBSERVED CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONAL ASSUMPTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "MODELLED RESPONSE UNDER A SCENARIO",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT CLAIM WITH A PREDICTION HORIZON",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WEATHER IS NOT CLIMATE, EMISSION FLOW IS NOT CONCENTRATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OBSERVATION → measured past or present",
+        "ATTRIBUTION → explanation of observed change",
+        "SCENARIO → conditional assumptions",
+        "PROJECTION → modelled response under a scenario",
+        "FORECAST → different claim with a prediction horizon"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OBSERVATION → measured past or present",
+          "SCENARIO → conditional assumptions",
+          "FORECAST → different claim with a prediction horizon"
+        ],
+        [
+          "ATTRIBUTION → explanation of observed change",
+          "PROJECTION → modelled response under a scenario",
+          "CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OBSERVATION → measured past or present",
+            "ATTRIBUTION → explanation of observed change"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCENARIO → conditional assumptions",
+            "PROJECTION → modelled response under a scenario"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FORECAST → different claim with a prediction horizon",
+            "CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,.",
+      "source_references": [
+        "Observation-projection distinction",
+        "Scenario-not-forecast",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CLIMATE-RESPONSE FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLIMATE-RESPONSE FORK",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE REDUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SINK ENHANCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "MITIGATION WITH ACCOUNTING BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSURE OR VULNERABILITY REDUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDUAL HARM",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE LOSS-AND-DAMAGE QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MITIGATION AND ADAPTATION ARE COMPLEMENTARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE REDUCTION → mitigation",
+        "SINK ENHANCEMENT → mitigation with accounting boundary",
+        "EXPOSURE OR VULNERABILITY REDUCTION → adaptation",
+        "RESIDUAL HARM → separate loss-and-damage question",
+        "PORTFOLIO → mitigation and adaptation are complementary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE REDUCTION → mitigation",
+            "SINK ENHANCEMENT → mitigation with accounting boundary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPOSURE OR VULNERABILITY REDUCTION → adaptation",
+            "RESIDUAL HARM → separate loss-and-damage question"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PORTFOLIO → mitigation and adaptation are complementary",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario.",
+      "source_references": [
+        "Mitigation-adaptation distinction",
+        "Sink-source and gross-net",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SCIENCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SCIENCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL EFFECT, HUMAN ENHANCEMENT AND ENERGY FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "EMISSIONS, CONCENTRATIONS, STOCK AND NET BALANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORCING, FEEDBACK AND GAS-SPECIFIC PROPERTIES",
+          "role": "evidence"
+        },
+        {
+          "text": "TREND, DETECTION, ATTRIBUTION AND PROJECTION",
+          "role": "primary"
+        },
+        {
+          "text": "SCALE, SCENARIO, CONFIDENCE AND NO INVENTED FIGURES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → natural effect, human enhancement and energy flow",
+        "ACCOUNT → emissions, concentrations, stock and net balance",
+        "EXPLAIN → forcing, feedback and gas-specific properties",
+        "EVALUATE → trend, detection, attribution and projection",
+        "QUALIFY → scale, scenario, confidence and no invented figures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → natural effect, human enhancement and energy flow",
+            "ACCOUNT → emissions, concentrations, stock and net balance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN → forcing, feedback and gas-specific properties",
+            "EVALUATE → trend, detection, attribution and projection"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → scale, scenario, confidence and no invented figures",
+            "DEFINE → natural effect, human enhancement and energy flow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → scale, scenario, confidence and no invented figures.",
+      "source_references": [
+        "Impact and evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g3\\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S NATIONAL EMISSIONS PROFILE (AS REPORTED IN ITS PERIODIC",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL POINT",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA'S PER-CAPITA AND HISTORICAL CUMULATIVE EMISSIONS REMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "GLOBAL EMISSIONS AND REMAINING-CARBON-BUDGET FIGURES ARE PERIODICALLY UPDATED BY",
+          "role": "primary"
+        },
+        {
+          "text": "ATTRIBUTION-SCIENCE CONFIDENCE LEVELS VARY MEANINGFULLY BY EVENT TYPE (HIGH",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-SPECIFIC SECTORAL EMISSIONS DATA (FROM NATIONAL COMMUNICATIONS/BURS) IS REPORTED",
+          "role": "comparison"
+        },
+        {
+          "text": "IPCC AR6 ATTRIBUTION SCIENCE HAS SUBSTANTIALLY STRENGTHENED CONFIDENCE IN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: India's national emissions profile (as reported in its periodic UNFCCC national",
+            "CAUTION: Analytical point: India's per-capita and historical cumulative emissions remain",
+            "CAUTION: Global emissions and remaining-carbon-budget figures are periodically updated by IPCC",
+            "CAUTION: Attribution-science confidence levels vary meaningfully by event type (high confidence"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: India-specific sectoral emissions data (from national communications/BURs) is reported",
+            "IPCC AR6 attribution science has substantially strengthened confidence in linking",
+            "Aerosols exert a net cooling (negative radiative forcing) effect that partially masks",
+            "The remaining carbon budget concept reframes climate policy around a finite, depleting"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "India's methane and nitrous oxide emissions are disproportionately driven by",
+            "NOT: All extreme weather events can be attributed to climate change with equally high",
+            "NOT: Reducing air pollution (aerosols) has no bearing on the rate of global warming. - It",
+            "NOT: A distant net-zero target date alone is sufficient to remain within a fixed carbon"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

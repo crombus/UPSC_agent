@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T08:19:34+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "c2424a434b79388352a126ccf8251134ce56a282c48a22fa4f57a1fdb3f4d752",
+    "sha256_after": "c2424a434b79388352a126ccf8251134ce56a282c48a22fa4f57a1fdb3f4d752",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 2,
+  "subjects": {
+    "Medieval History": 2
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 2
+  },
+  "library_totals": {
+    "file_count": 3102,
+    "pdf_count": 937,
+    "png_count": 491,
+    "txt_count": 426,
+    "markdown_count": 409,
+    "json_count": 824,
+    "total_bytes": 1819520850,
+    "by_extension": {
+      ".json": 824,
+      ".md": 409,
+      ".pdf": 937,
+      ".png": 491,
+      ".txt": 426,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-11",
+      "topic_title": "Art, Architecture & Culture of the Sultanate",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 11,
+      "source_record_id": "medieval-indian-history-11:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-11\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "0c7acefd35304002aebfb57bd1b1ca34adc16f1a6c78eea75f868d5f7bfc87d4",
+          "output_sha256": "0c7acefd35304002aebfb57bd1b1ca34adc16f1a6c78eea75f868d5f7bfc87d4",
+          "source_output_equal": true,
+          "bytes": 1181782
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-11\\medieval-indian-history-11_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "70f019dd709bdd26a0c055518c3fda7963795ba4d51b1b83d364da941a7e1e98",
+          "output_sha256": "70f019dd709bdd26a0c055518c3fda7963795ba4d51b1b83d364da941a7e1e98",
+          "source_output_equal": true,
+          "bytes": 843254
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-11\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "fc52738c380406d81942271fc245d6574e13c807e04687ca06fb92a0832548cd",
+          "output_sha256": "fc52738c380406d81942271fc245d6574e13c807e04687ca06fb92a0832548cd",
+          "source_output_equal": true,
+          "bytes": 2301889
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-11\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "d5a25304e9e14062aeea5aef973ea7edc652c27ca9bb90472b6db0f5f3a0d78c",
+          "output_sha256": "d5a25304e9e14062aeea5aef973ea7edc652c27ca9bb90472b6db0f5f3a0d78c",
+          "source_output_equal": true,
+          "bytes": 3142371
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-11\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "b7401f0a0085c8676e6a6fff7ee824e37a94f940179a310c4b060d35ce774ee0",
+          "output_sha256": "b7401f0a0085c8676e6a6fff7ee824e37a94f940179a310c4b060d35ce774ee0",
+          "source_output_equal": true,
+          "bytes": 2042915
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-11\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "bd92c24158bb9d832826012c694a40ad5a043d018ac4f3402c5a77e60e3b450d",
+          "output_sha256": "bd92c24158bb9d832826012c694a40ad5a043d018ac4f3402c5a77e60e3b450d",
+          "source_output_equal": true,
+          "bytes": 5310
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-11\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\11-Art-Architecture-and-Culture-of-the-Sultanate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "bd92c24158bb9d832826012c694a40ad5a043d018ac4f3402c5a77e60e3b450d",
+          "output_sha256": "f2b5e1d29be4c7380c0f4c3452e44898959b0588a20b6cfa9ed3e982f0e1bbd7",
+          "normalized_text_equal": true,
+          "bytes": 57649
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 69,
+        "solved_practice_workbook": 40,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 69,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11956
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "medieval-indian-history-12",
+      "topic_title": "Babur & the Central Asian Backdrop",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 12,
+      "source_record_id": "medieval-indian-history-12:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-12\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "2b3bb06cff8749f5d8ccfbfb590dfe88980c3497cecda43731bf81383a696390",
+          "output_sha256": "2b3bb06cff8749f5d8ccfbfb590dfe88980c3497cecda43731bf81383a696390",
+          "source_output_equal": true,
+          "bytes": 2123731
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-12\\medieval-indian-history-12_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6f203034d05bc89a8d78498367ac4cd379c29e846bc9c1644ce9a1e9b5dd990f",
+          "output_sha256": "6f203034d05bc89a8d78498367ac4cd379c29e846bc9c1644ce9a1e9b5dd990f",
+          "source_output_equal": true,
+          "bytes": 407064
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-12\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "704463bc009100df7011ab7efc2c61fc598ed1d8a40e845600ccb18f307eaf4d",
+          "output_sha256": "704463bc009100df7011ab7efc2c61fc598ed1d8a40e845600ccb18f307eaf4d",
+          "source_output_equal": true,
+          "bytes": 2256301
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-12\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "75cbf59eed68c697b24e44109dc0844984eb34567878533b7615d53002ec8e03",
+          "output_sha256": "75cbf59eed68c697b24e44109dc0844984eb34567878533b7615d53002ec8e03",
+          "source_output_equal": true,
+          "bytes": 2618247
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-12\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9435effb77d36c6a6ba4f088f9179c0af13fe23048faaa6f5f6fadc3a387cad6",
+          "output_sha256": "9435effb77d36c6a6ba4f088f9179c0af13fe23048faaa6f5f6fadc3a387cad6",
+          "source_output_equal": true,
+          "bytes": 2010111
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-12\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f73632d0e956cd6e22b9e0a49518591894369f80f8fe89f309d315f31733c78d",
+          "output_sha256": "f73632d0e956cd6e22b9e0a49518591894369f80f8fe89f309d315f31733c78d",
+          "source_output_equal": true,
+          "bytes": 5243
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-12\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\12-Babur-and-the-Central-Asian-Backdrop\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "f73632d0e956cd6e22b9e0a49518591894369f80f8fe89f309d315f31733c78d",
+          "output_sha256": "40bba24a812324a4b86e2d6bb589ffab9e7bb3e6a11d5eca262c69493c9e7e7b",
+          "normalized_text_equal": true,
+          "bytes": 57554
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 60,
+        "solved_practice_workbook": 20,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 60,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11238
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

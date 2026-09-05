@@ -1,0 +1,49 @@
+{
+  "record_id": "geography-35:learner-v2:g1",
+  "topic_key": "geography-35",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: Geography — Part B — Human, Economic and Regional Geography — Indian Political Geography: Boundaries and Neighbours",
+  "main_pdf": "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\notes\\geography-35_Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\workbooks\\geography-35_Solved-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-35_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-35_Solved-Workbook.md",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-35:learner-v2:g1"
+  },
+  "provenance": {
+    "workflow": "geography-part-b-31-33-37-sequential",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\35_Indian-Political-Geography-Boundaries-and-Neighbours.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\35_Indian-Political-Geography-Boundaries-and-Neighbours.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\35_Indian-Political-Geography-Boundaries-and-Neighbours_Complete-Topic-Package.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-35_Learning-Session.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+    ]
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "tools/validate_v2_export.py"
+  }
+}

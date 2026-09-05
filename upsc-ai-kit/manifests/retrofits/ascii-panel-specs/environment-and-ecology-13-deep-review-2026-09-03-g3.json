@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-13",
+      "display_title": "Air Pollution and CPCB Standards",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Ambient-emission firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AMBIENT STANDARD -> concentration in outdoor receiving air",
+            "SOURCE STANDARD -> release from a named stack, vehicle or process",
+            "CONSENT CONDITION -> source-specific legal control",
+            "AQI -> public communication index",
+            "RULE -> never substitute one instrument for another",
+            "MUST REMEMBER: Air pollution analysis separates source, primary or secondary pollutant,..."
+          ],
+          "source_references": [
+            "Ambient-standard boundary",
+            "Emission-standard boundary",
+            "AQI communication role",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Concentration-to-exposure chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MONITOR -> pollutant concentration at place and time",
+            "AVERAGING PERIOD -> fixes the measurement window",
+            "PERSON LOCATION -> determines contact opportunity",
+            "DURATION AND ROUTE -> shape exposure",
+            "HEALTH CLAIM -> needs separate epidemiological evidence"
+          ],
+          "source_references": [
+            "Concentration versus exposure",
+            "NAAQS data discipline",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Pollutant formation map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PRIMARY EMISSION -> released directly",
+            "PRECURSOR -> enters atmospheric reaction",
+            "SUNLIGHT OR OXIDATION -> transformation pathway",
+            "SECONDARY POLLUTANT -> formed in air",
+            "CONTROL -> address direct emissions and precursors"
+          ],
+          "source_references": [
+            "Pollutant versus precursor",
+            "Primary and secondary pollution",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PM classification gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "PM2.5 OR PM10 -> aerodynamic size fraction",
+            "SIZE -> affects transport and deposition",
+            "COMPOSITION -> requires chemical evidence",
+            "SOURCE -> requires apportionment evidence",
+            "TRAP -> size label alone proves neither composition nor source"
+          ],
+          "source_references": [
+            "Particulate-size discipline",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Smog and acid-deposition matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SMOG -> precursor emissions plus sunlight-driven chemistry",
+            "SURFACE OZONE -> secondary oxidant",
+            "ACID DEPOSITION -> sulphur and nitrogen precursor pathway",
+            "WET OR DRY -> deposition routes",
+            "RULE -> precursor is not the final atmospheric product"
+          ],
+          "source_references": [
+            "Photochemical-smog chain",
+            "Acid-deposition chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "NAAQS data gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "POLLUTANT -> identify exact substance or fraction",
+            "UNIT -> preserve the notified unit",
+            "AVERAGING PERIOD -> annual, daily or shorter only if sourced",
+            "AREA AND COMPLIANCE RULE -> read notification",
+            "NO TABLE -> no invented limit"
+          ],
+          "source_references": [
+            "NAAQS data discipline",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "AQI statutory boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INPUT -> monitored pollutant concentrations",
+            "OUTPUT -> public-facing category",
+            "NAAQS -> notified ambient standard",
+            "SOURCE LIMIT -> separate emission control",
+            "VERDICT -> AQI category is not either standard table"
+          ],
+          "source_references": [
+            "AQI communication role",
+            "AQI category boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Institution and clearance ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CPCB -> national coordination and framework",
+            "SPCB OR PCC -> consent, monitoring and enforcement",
+            "CTE OR CTO -> source-operation permission layer",
+            "ENVIRONMENTAL CLEARANCE -> prior project-appraisal layer",
+            "RULE -> approvals remain legally distinct"
+          ],
+          "source_references": [
+            "CPCB and SPCB roles",
+            "Air Act and consent layer",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Monitoring evidence ladder",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "STATION -> one location",
+            "NETWORK -> spatial coverage",
+            "DATA COMPLETENESS -> usable time record",
+            "METEOROLOGY -> dispersion and accumulation context",
+            "INFERENCE -> scale only as far as evidence supports"
+          ],
+          "source_references": [
+            "Monitoring representativeness",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Source-apportionment cube",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CITY -> source mix changes by location",
+            "SEASON -> activity and meteorology change",
+            "POLLUTANT -> PM, ozone and gases have different pathways",
+            "METHOD -> model and sampling assumptions matter",
+            "NO UNIVERSAL SHARE -> date and scope every estimate",
+            "CLOSE DISTINCTION: Emission is not ambient concentration or exposure, AQI is not an..."
+          ],
+          "source_references": [
+            "Source-apportionment boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Programme-response architecture",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NCAP -> long-run structural planning",
+            "NON-ATTAINMENT -> standards-based classification over a period",
+            "GRAP -> episodic graded response",
+            "CAQM -> statutory Delhi-NCR regional coordination",
+            "NO SUBSTITUTION -> each serves a different function",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State pollutant, averaging time, unit,..."
+          ],
+          "source_references": [
+            "NCAP programme boundary",
+            "Non-attainment boundary",
+            "GRAP and CAQM boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> ambient, emission, concentration and exposure",
+            "TRACE -> source, precursor, atmospheric formation and receptor",
+            "GOVERN -> NAAQS, AQI, consent, NCAP, GRAP and CAQM",
+            "MEASURE -> station, averaging period and apportionment boundary",
+            "AUDIT -> target, attainment, current data and PYQ key stay distinct"
+          ],
+          "source_references": [
+            "Target versus attainment",
+            "Audited evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-13\\g3\\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

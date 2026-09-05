@@ -1,0 +1,925 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-25T08:31:23+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "678405eb1fa6bcc7a76b3d35309ba99419e56fdb1a151704d2eeecc38b54d78d",
+    "sha256_after": "678405eb1fa6bcc7a76b3d35309ba99419e56fdb1a151704d2eeecc38b54d78d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "325123df1911cd00ed885cf242af965a153119b3ac76ab0fd68352bc25ec7c07",
+    "sha256_after": "325123df1911cd00ed885cf242af965a153119b3ac76ab0fd68352bc25ec7c07",
+    "unchanged": true
+  },
+  "topic_count": 4,
+  "subjects": {
+    "Polity": 4
+  },
+  "sections": {
+    "Polity — Subject-wide Syllabus": 4
+  },
+  "library_totals": {
+    "file_count": 760,
+    "pdf_count": 460,
+    "png_count": 92,
+    "txt_count": 184,
+    "markdown_count": 23,
+    "json_count": 1,
+    "total_bytes": 763869811,
+    "by_extension": {
+      ".json": 1,
+      ".md": 23,
+      ".pdf": 460,
+      ".png": 92,
+      ".txt": 184
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "polity-52",
+      "topic_title": "NCRWC and Working of the Constitution",
+      "subject": "Polity",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 52,
+      "source_record_id": "polity-52:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\polity-52_Complete-Learning-Session_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a332c886f645d1d538449c8177f15c0208066bc6406a74aa65b2807c2aa29381",
+          "output_sha256": "a332c886f645d1d538449c8177f15c0208066bc6406a74aa65b2807c2aa29381",
+          "source_output_equal": true,
+          "bytes": 1794459
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\polity-52_Solved-Practice-Workbook_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "8983969e5c2a612469cfd4caf9d49e8e221692af4a528a56e7137e203867eba6",
+          "output_sha256": "8983969e5c2a612469cfd4caf9d49e8e221692af4a528a56e7137e203867eba6",
+          "source_output_equal": true,
+          "bytes": 466984
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2948fef03c9dd51766427299b60c342c216ab385fdc3b0d077f3a6525db6ca94",
+          "output_sha256": "2948fef03c9dd51766427299b60c342c216ab385fdc3b0d077f3a6525db6ca94",
+          "source_output_equal": true,
+          "bytes": 2004042
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a2a63de916e1e568a87a95a5417a2ef7316d94e33648cffee5a942373032f7b7",
+          "output_sha256": "a2a63de916e1e568a87a95a5417a2ef7316d94e33648cffee5a942373032f7b7",
+          "source_output_equal": true,
+          "bytes": 2693162
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "196e45b75990de9ab4cacf2dc0a79086357df55cf0a24acf6f3fa1ed6cff728b",
+          "output_sha256": "196e45b75990de9ab4cacf2dc0a79086357df55cf0a24acf6f3fa1ed6cff728b",
+          "source_output_equal": true,
+          "bytes": 1761016
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "2ee5647b597b3ac5593e2e17989d2654ba704b6943e231427e2e1194647a1024",
+          "output_sha256": "2ee5647b597b3ac5593e2e17989d2654ba704b6943e231427e2e1194647a1024",
+          "source_output_equal": true,
+          "bytes": 4871
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\52-NCRWC-and-Working-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "2ee5647b597b3ac5593e2e17989d2654ba704b6943e231427e2e1194647a1024",
+          "output_sha256": "b8325343a37ab5e6e84940dd1d07a8b768989bd6b55492000b5ee9c0bdb169ce",
+          "normalized_text_equal": true,
+          "bytes": 54650
+        }
+      },
+      "ascii": {
+        "text_panel_count": 9,
+        "pdf_panel_count": 9,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 15,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 12,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 18,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 15,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 17,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 14,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 15,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 16,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 14,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 67,
+        "solved_practice_workbook": 17,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 9
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 67,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 17,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 9,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          9565
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "polity-53",
+      "topic_title": "Special Provisions Relating to Certain Classes",
+      "subject": "Polity",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 53,
+      "source_record_id": "polity-53:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "596921496db73bdbab3961671e02471a7463b32a707fdde8ac036244371217ba",
+          "output_sha256": "596921496db73bdbab3961671e02471a7463b32a707fdde8ac036244371217ba",
+          "source_output_equal": true,
+          "bytes": 1691478
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Solved-Practice-Workbook_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "c8e6447c2dee6b8611e570473454bdad7cc83661a33c5b6b8967877127953f2a",
+          "output_sha256": "c8e6447c2dee6b8611e570473454bdad7cc83661a33c5b6b8967877127953f2a",
+          "source_output_equal": true,
+          "bytes": 447320
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "8cc090888ed6d7decfccb58268bce2e1e8af1ac88c7663b9268e85cddfc1531b",
+          "output_sha256": "8cc090888ed6d7decfccb58268bce2e1e8af1ac88c7663b9268e85cddfc1531b",
+          "source_output_equal": true,
+          "bytes": 1842707
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "6bcbe027abeec3f82f525a7ec915c7ddc34469f4e5c4be4003c31308cd9b1f56",
+          "output_sha256": "6bcbe027abeec3f82f525a7ec915c7ddc34469f4e5c4be4003c31308cd9b1f56",
+          "source_output_equal": true,
+          "bytes": 2018091
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "6b4c03f4a4016c34a71318badce3587922be9f6e5b35544a964970fc182da81a",
+          "output_sha256": "6b4c03f4a4016c34a71318badce3587922be9f6e5b35544a964970fc182da81a",
+          "source_output_equal": true,
+          "bytes": 1636598
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+          "output_sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+          "source_output_equal": true,
+          "bytes": 4438
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+          "output_sha256": "141767117edc97f6f989e1ac0a04cd29465a9e0d0cfe1980e6ea16b94574cbcb",
+          "normalized_text_equal": true,
+          "bytes": 54137
+        }
+      },
+      "ascii": {
+        "text_panel_count": 9,
+        "pdf_panel_count": 9,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 13,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 18,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 13,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 14,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 15,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 16,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 16,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 14,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 60,
+        "solved_practice_workbook": 16,
+        "graphical_poster": 1,
+        "graphical_tiled": 3,
+        "ascii_master_pdf": 9
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 60,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 3,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 9,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          8893
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "polity-54",
+      "topic_title": "Lok Adalats and Other Courts",
+      "subject": "Polity",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 54,
+      "source_record_id": "polity-54:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Complete-Learning-Session_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "6b595f2d5e1b7c6c311c46ff82d8db57b68732e2f538492796ced2c719ec72f2",
+          "output_sha256": "6b595f2d5e1b7c6c311c46ff82d8db57b68732e2f538492796ced2c719ec72f2",
+          "source_output_equal": true,
+          "bytes": 1653278
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Solved-Practice-Workbook_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "ab24e4c53e0566231ff27db90dfc7a2d9c565bcec3f2eceb4efd28fee2d3f194",
+          "output_sha256": "ab24e4c53e0566231ff27db90dfc7a2d9c565bcec3f2eceb4efd28fee2d3f194",
+          "source_output_equal": true,
+          "bytes": 477369
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "054cad5f826adbde0e84b2c0889bac4357a3a973a25a39ae8e37da556e3c7406",
+          "output_sha256": "054cad5f826adbde0e84b2c0889bac4357a3a973a25a39ae8e37da556e3c7406",
+          "source_output_equal": true,
+          "bytes": 1947801
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "6c14222b7020d41ae075833db9fdd90f4066d92b5dd1cabd25f32853d6581471",
+          "output_sha256": "6c14222b7020d41ae075833db9fdd90f4066d92b5dd1cabd25f32853d6581471",
+          "source_output_equal": true,
+          "bytes": 2749337
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "4096804a988b6569b672bfd833d6db79a59ff13b3acde457cd966305f89d810a",
+          "output_sha256": "4096804a988b6569b672bfd833d6db79a59ff13b3acde457cd966305f89d810a",
+          "source_output_equal": true,
+          "bytes": 1715512
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b7e50481f99b6a3a2e99adf3bc8b4ab41e4157c438776d814270266998cdb045",
+          "output_sha256": "b7e50481f99b6a3a2e99adf3bc8b4ab41e4157c438776d814270266998cdb045",
+          "source_output_equal": true,
+          "bytes": 4622
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\54-Lok-Adalats-and-Other-Courts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "b7e50481f99b6a3a2e99adf3bc8b4ab41e4157c438776d814270266998cdb045",
+          "output_sha256": "ace66ab8be7ef38d91f1211e601728edd839cfde8ca52256a35e9bc494ca979f",
+          "normalized_text_equal": true,
+          "bytes": 54510
+        }
+      },
+      "ascii": {
+        "text_panel_count": 9,
+        "pdf_panel_count": 9,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 16,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 15,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 16,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 16,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 13,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 15,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 18,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 16,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 14,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 66,
+        "solved_practice_workbook": 16,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 9
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 66,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 9,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          9291
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "polity-55",
+      "topic_title": "Constitutional Interpretation Doctrines",
+      "subject": "Polity",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 55,
+      "source_record_id": "polity-55:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "38901a6e6cda11146a39dbe1938e902d1c4ade29adfd7c547138d2b51b605cef",
+          "output_sha256": "38901a6e6cda11146a39dbe1938e902d1c4ade29adfd7c547138d2b51b605cef",
+          "source_output_equal": true,
+          "bytes": 1999698
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Solved-Practice-Workbook_2026-08-25.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a2422e119128095c51ed9009bad94da74bfdb0636e2ebbf883347fe6cd0f42cb",
+          "output_sha256": "a2422e119128095c51ed9009bad94da74bfdb0636e2ebbf883347fe6cd0f42cb",
+          "source_output_equal": true,
+          "bytes": 603250
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "fd6edfb9e92a42c88fa6471aa74122db64ce80c05edc621924729926fa32596a",
+          "output_sha256": "fd6edfb9e92a42c88fa6471aa74122db64ce80c05edc621924729926fa32596a",
+          "source_output_equal": true,
+          "bytes": 1854660
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "52fe789e89b68c6d98746b94cca98d3a19927b3c6e31ca85605c1aa74bdecf72",
+          "output_sha256": "52fe789e89b68c6d98746b94cca98d3a19927b3c6e31ca85605c1aa74bdecf72",
+          "source_output_equal": true,
+          "bytes": 2063672
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "5a4be975efa2a16cf11385327d6a700a648bfce376735ef45e0dd59415e373f1",
+          "output_sha256": "5a4be975efa2a16cf11385327d6a700a648bfce376735ef45e0dd59415e373f1",
+          "source_output_equal": true,
+          "bytes": 1641059
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "8dde35f8524cdf38300f7ba43a2be3caa3cd2d9f1ab841cee70526c135f06d2f",
+          "output_sha256": "8dde35f8524cdf38300f7ba43a2be3caa3cd2d9f1ab841cee70526c135f06d2f",
+          "source_output_equal": true,
+          "bytes": 4872
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\55-Constitutional-Interpretation-Doctrines\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "8dde35f8524cdf38300f7ba43a2be3caa3cd2d9f1ab841cee70526c135f06d2f",
+          "output_sha256": "afbc3051c8e0b7fe9a71bc676619fa618dc003a11360bfa95099d68c70976d50",
+          "normalized_text_equal": true,
+          "bytes": 54676
+        }
+      },
+      "ascii": {
+        "text_panel_count": 9,
+        "pdf_panel_count": 9,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 12,
+            "maximum_line_characters": 99,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 15,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 13,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 17,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 16,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 13,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 15,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 14,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 15,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 81,
+        "solved_practice_workbook": 17,
+        "graphical_poster": 1,
+        "graphical_tiled": 3,
+        "ascii_master_pdf": 9
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 17,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 3,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 9,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          8905
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

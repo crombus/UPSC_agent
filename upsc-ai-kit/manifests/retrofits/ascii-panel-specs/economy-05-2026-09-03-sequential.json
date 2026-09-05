@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-05",
+      "display_title": "Banking Structure, NBFCs and Financial Regulation",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\05_Banking-Structure-NBFCs-and-Financial-Regulation_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Banking legal perimeter",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "SCHEDULED BANK -> Second Schedule status",
+            "COMMERCIAL BANK -> deposits + payments + credit",
+            "CO-OPERATIVE BANK -> member form + banking oversight",
+            "NBFC -> financial company, not full bank powers"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Maturity transformation",
+          "structural_type": "balance-sheet-flow",
+          "ascii_lines": [
+            "WITHDRAWABLE DEPOSITS",
+            "-> pooled bank funding",
+            "-> longer loans and investments",
+            "RISK -> liquidity + credit + interest-rate mismatch"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Multi-tier architecture",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PSB / PRIVATE / FOREIGN",
+            "RRB / CO-OPERATIVE",
+            "SMALL FINANCE BANK",
+            "PAYMENTS BANK"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Differentiated-bank fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "SFB -> deposits + lending",
+            "PAYMENTS BANK -> deposits + payments",
+            "PAYMENTS BANK -> no own-balance-sheet lending",
+            "RULE -> similar licence family, different powers"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Rural-credit map",
+          "structural_type": "place-based-rail",
+          "ascii_lines": [
+            "RRB -> rural intermediary",
+            "LEAD BANK -> district coordination",
+            "SERVICE AREA -> local responsibility",
+            "LIMIT -> coverage does not ensure viable credit"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "PSL target board",
+          "structural_type": "target-matrix",
+          "ascii_lines": [
+            "MOST DOMESTIC BANKS -> 40 per cent overall",
+            "AGRICULTURE -> 18 per cent",
+            "SMALL/MARGINAL FARMERS -> 10 per cent",
+            "WEAKER SECTIONS -> 12 per cent"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "PSL status gate",
+          "structural_type": "legal-status-band",
+          "ascii_lines": [
+            "TARGETS COME FROM RBI MASTER DIRECTIONS",
+            "CATEGORIES AND SUB-TARGETS CAN CHANGE",
+            "QUOTE THE EFFECTIVE DIRECTION",
+            "DO NOT CALL A RATIO PERMANENT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "NBFC contagion chain",
+          "structural_type": "contagion-flow",
+          "ascii_lines": [
+            "WHOLESALE FUNDING + MATURITY MISMATCH",
+            "-> IL&FS / DHFL stress",
+            "-> mutual funds + banks + markets",
+            "LESSON -> non-bank stress can be systemic"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Depositor protection boundary",
+          "structural_type": "safety-net-map",
+          "ascii_lines": [
+            "DICGC -> eligible bank deposits",
+            "OWNER CAP -> Rs 5 lakh per depositor per bank",
+            "OUT -> securities + insurance + ordinary NBFC claims",
+            "PCA -> prevention, not payout"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Regulatory perimeter",
+          "structural_type": "regulator-map",
+          "ascii_lines": [
+            "RBI -> banks + NBFCs + payments",
+            "SEBI -> securities",
+            "IRDAI / PFRDA -> insurance / pensions",
+            "FSDC -> cross-sector coordination"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Balance-sheet and inclusion traps",
+          "structural_type": "classification-board",
+          "ascii_lines": [
+            "LOANS / INVESTMENTS -> assets",
+            "DEPOSITS -> liabilities",
+            "FI-INDEX -> Access + Usage + Quality",
+            "SYNDICATION -> shared exposure, not zero risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        },
+        {
+          "title": "Financial-regulation answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY institution and powers",
+            "MAP funding + leverage + safety net",
+            "TRACE contagion and supervision",
+            "BALANCE inclusion, diversity and stability"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

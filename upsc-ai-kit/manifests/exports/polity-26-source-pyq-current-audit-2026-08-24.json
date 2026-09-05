@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-26",
+  "title": "Scheduled and Tribal Areas",
+  "gate": "A",
+  "started_at": "2026-08-24T19:51:20+05:30",
+  "completed_at": "2026-08-24T19:52:09+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://tribal.nic.in/",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='tribal.nic.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tribal.nic.in', port=443) at 0x27003221d20>, 'Connection to tribal.nic.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T19:51:41+05:30"
+        },
+        {
+          "url": "https://panchayat.gov.in/",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='panchayat.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='panchayat.gov.in', port=443) at 0x2701a4692d0>, 'Connection to panchayat.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T19:52:02+05:30"
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "status_code": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "title": "India Code - Site Migration",
+          "evidence_excerpt": "India Code - Site Migration IndiaCode Website Migration The India Code website has been migrated from https://www.indiacode.nic.in to https://indiacode.gov.in . You will be automatically redirected to the new website in a few seconds. Redirecting...",
+          "accessed_at": "2026-08-24T19:52:03+05:30"
+        },
+        {
+          "url": "https://www.mha.gov.in/en/commoncontent/north-east-division",
+          "status_code": 503,
+          "final_url": "https://www.mha.gov.in/en/commoncontent/north-east-division",
+          "title": "Error",
+          "evidence_excerpt": "Error An error occurred while processing your request. Reference #102.1e5bef75.1787581331.652f761 https://errors.edgesuite.net/102.1e5bef75.1787581331.652f761",
+          "accessed_at": "2026-08-24T19:52:08+05:30"
+        },
+        {
+          "url": "https://www.sci.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.sci.gov.in/",
+          "title": "Supreme Court of India | India",
+          "evidence_excerpt": "Supreme Court of India | India Skip to main content Search Search Accessibility Links Accessibility Tools Color Contrast High Contrast Normal Contrast Highlight Links Invert Saturation Text Size Font Size Increase Font Size Decrease Normal Font Text Spacing Line Height Others Hide Images Big Cursor हिन्दी भारत का सर्वोच्च न्यायालय SUPREME COURT OF INDIA भारत का सर्वोच्च न्यायालय Supreme Court of India || यतो धर्मस्ततो जय: || Menu Toggle More Home About Us History Constitution Jurisdiction Calendar Committees Organization Chart Registry Officers Contact Us Judges Chief Justice & Judges Former C",
+          "accessed_at": "2026-08-24T19:52:09+05:30"
+        }
+      ],
+      "result": "Ministry of Tribal Affairs, Panchayati Raj, India Code, MHA and Supreme Court portals were rechecked on 24 August 2026. The Fifth and Sixth Schedules, PESA and FRA remain distinct operative layers."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 6,
+    "supporting_route_count": 0,
+    "total_routed_count": 6,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-24",
+    "fact": "Ministry of Tribal Affairs, Panchayati Raj, India Code, MHA and Supreme Court portals were rechecked on 24 August 2026. The Fifth and Sixth Schedules, PESA and FRA remain distinct operative layers.",
+    "caveat": "Ladakh or other extension demands, negotiating positions and accords are not constitutional amendments or Sixth Schedule inclusion by themselves. PESA consultation, recommendation and approval verbs must not be converted into one universal veto."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md": "4937405f71cc5a7943a49b5e35e85ff1f0fd861f0813e18e3cb98030bef06550",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\26_Scheduled-and-Tribal-Areas.md": "c03b041d174783768ff49988a8b6cd85c99238904b57da01d9e1ea774065f32b",
+    "upsc-ai-kit\\knowledge\\Polity\\26_Scheduled-and-Tribal-Areas_Complete-Topic-Package.md": "0ca589b50e0b6ffcede8ba619cbe86c78bac1e887c1fbd567e9712c13e4c2c29",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md": "3b39b5be1efd320f3e00a5acc4e3013aaeb101b9f531299009f359da788e0032",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions.md": "9be9ad241be8aaab7c6e3d7baf33c23f497860cbe0eb0a4cf67d15fd3db12f91",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md": "99fed1fedbd8eed0e648be4d62ab505827ea2a3beb99058554c2d3fb106d4cda",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\12_Forest-Governance-CAMPA-and-Green-India-Mission.md": "90654e0ec739689f385a5dc19ac7f90c196d4a75137ccd0413e2798f89aaadbd",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "Articles 244/244A and complete Fifth-Sixth Schedule comparison",
+    "Scheduled Area declaration, Governor, TAC, reports and regulations",
+    "district/regional councils, four-State scope and law/judicial/fiscal powers",
+    "PESA-FRA-land-resource interaction, safeguards and verified case limits",
+    "Article 371/Panchayat distinctions, autonomy-development tensions and reform"
+  ],
+  "topic_completeness_status": "passed",
+  "case_year_sources": [
+    {
+      "case_id": "samatha",
+      "canonical_label": "Samatha (1997)",
+      "decision_year": 1997,
+      "source_title": "Samatha v. State of Andhra Pradesh, judgment dated 11 July 1997",
+      "source_url": "https://indiankanoon.org/search/?formInput=Samatha+State+of+Andhra+Pradesh+11+July+1997"
+    },
+    {
+      "case_id": "orissa-mining-corporation",
+      "canonical_label": "Orissa Mining Corporation (2013)",
+      "decision_year": 2013,
+      "source_title": "Orissa Mining Corporation Ltd. v. Ministry of Environment and Forest, judgment dated 18 April 2013",
+      "source_url": "https://indiankanoon.org/search/?formInput=Orissa+Mining+Corporation+Ministry+Environment+Forest+18+April+2013"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-24",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "Ladakh or other extension demands, negotiating positions and accords are not constitutional amendments or Sixth Schedule inclusion by themselves. PESA consultation, recommendation and approval verbs must not be converted into one universal veto."
+  }
+}

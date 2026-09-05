@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Philosophy",
+    "display_name": "Philosophy Optional"
+  },
+  "section": {
+    "key": "paper-ii-socio-political-philosophy",
+    "name": "Philosophy Paper II — Socio-Political Philosophy",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+    ],
+    "notes": "Complete ten-topic official Socio-Political Philosophy section in syllabus/source order. Topics 01-07 are materialised as learner-v2; topics 08-10 remain planned until separately generated and validated."
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "display_title": "Social and Political Ideals",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 1: Social and Political ldeals : Equality, Justice, Liberty.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Social-Political-Ideals.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Social-Political-Ideals.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-01-ascii-g6-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-01\\carvaka-g6",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-01:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Social-Political-Ideals\\Social-Political-Ideals_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Social-Political-Ideals\\Social-Political-Ideals_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g6",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+      "display_title": "Sovereignty",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 2: Sovereignty : Austin, Bodin, Laski, Kautilya.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Sovereignty.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Sovereignty.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g6\\topic-02_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-02-ascii-g6-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-02\\carvaka-g6",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-02:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Sovereignty\\Sovereignty_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Sovereignty\\Sovereignty_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g6\\topic-02_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g6",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+      "display_title": "Individual and State",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 3: Individual and State : Rights; Duties and Accountability.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Individual-and-State.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Individual-and-State.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-03-ascii-g5-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g5",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-03:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Individual-and-State\\Individual-and-State_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Individual-and-State\\Individual-and-State_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+      "display_title": "Forms of Government",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 4: Forms of Government : Monarchy; Theocracy and Democracy.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Forms-of-Government.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Forms-of-Government.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-04-ascii-g5-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-04\\carvaka-g5",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-04:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Forms-of-Government\\Forms-of-Government_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Forms-of-Government\\Forms-of-Government_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-05",
+      "display_title": "Political Ideologies",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 5: Political Ideologies: Anarchism; Marxism and Socialism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Political-Ideologies.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Political-Ideologies.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-05-ascii-g4-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-05\\carvaka-g4",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-05:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Political-Ideologies\\Political-Ideologies_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Political-Ideologies\\Political-Ideologies_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-05:learner-v2:g4",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-06",
+      "display_title": "Humanism, Secularism and Multiculturalism",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 6: Humanism; Secularism; Multi-culturalism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Humanism-Secularism-Multiculturalism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Humanism-Secularism-Multiculturalism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g4\\topic-06_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g4\\topic-06_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g4\\topic-06_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-06-ascii-g4-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-06\\carvaka-g4",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-06:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Humanism-Secularism-Multiculturalism\\Humanism-Secularism-Multiculturalism_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Humanism-Secularism-Multiculturalism\\Humanism-Secularism-Multiculturalism_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g4\\topic-06_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-06:learner-v2:g4",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g4\\topic-06_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g4\\topic-06_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+      "display_title": "Crime and Punishment",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 7: Crime and Punishment : Corruption, Mass Violence, Genocide, Capital Punishment.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Crime-and-Punishment.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Crime-and-Punishment.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g7\\topic-07_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g7\\topic-07_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g7\\topic-07_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-07-ascii-g7-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-07\\carvaka-g7",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-07:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Crime-and-Punishment\\Crime-and-Punishment_Layered-Complete-Learning-Session_2026-08-20.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Crime-and-Punishment\\Crime-and-Punishment_Layered-Solved-Practice-Workbook_2026-08-20.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g7\\topic-07_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g7",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g7\\topic-07_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g7\\topic-07_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+      "display_title": "Development and Social Progress",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 8: Development and Social Progress.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g8\\topic-08_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g8\\topic-08_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g8\\topic-08_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-08-ascii-g8-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-08\\carvaka-g8",
+      "superseded_v1": "philosophy-paper-ii-socio-political-philosophy-08:legacy-v1:g1",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Complete-Learning-Session_2026-08-20.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Solved-Practice-Workbook_2026-08-20.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g8\\topic-08_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-08:learner-v2:g8",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g8\\topic-08_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g8\\topic-08_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+      "display_title": "Gender Discrimination",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 9: Gender Discrimination : Female Foeticide, Land and Property Rights; Empowerment.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-09-ascii-g7-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g7",
+      "superseded_v1": null,
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g7",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-09-03.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+      "display_title": "Caste Discrimination: Gandhi and Ambedkar",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Socio-Political Philosophy topic 10: Caste Discrimination : Gandhi and Ambedkar.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-g8-2026-09-03.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-10\\carvaka-g8",
+      "superseded_v1": null,
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Solved-Practice-Workbook_2026-09-03.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g8",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Complete-Learning-Session_2026-09-03.pdf"
+    }
+  ]
+}

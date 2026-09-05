@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-08",
+      "display_title": "Wildlife Protection Act and Schedules",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Legal-vintage timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1972 ACT -> original wildlife-protection framework",
+            "PRE-2022 -> six schedules",
+            "2022 AMENDMENT -> restructuring",
+            "POST-2022 -> four schedules",
+            "RULE -> answer the law applicable to the question's time point",
+            "MUST REMEMBER: The Wildlife Protection Act creates species schedules, protected areas,..."
+          ],
+          "source_references": [
+            "Legal vintage first",
+            "Six schedules to four",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Post-2022 schedule map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SCHEDULE I -> animals, greatest degree of protection",
+            "SCHEDULE II -> animals, lesser degree than Schedule I",
+            "SCHEDULE III -> specified plants",
+            "SCHEDULE IV -> CITES scheduled specimens and trade control",
+            "RULE -> Schedule IV is not another protection rung"
+          ],
+          "source_references": [
+            "Schedule I",
+            "Schedule II",
+            "Schedule III",
+            "Schedule IV",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Species-placement gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NAME A SPECIES -> identify legal date",
+            "CHECK -> current consolidated schedule or notification",
+            "IUCN STATUS -> separate scientific field",
+            "CITES APPENDIX -> separate trade field",
+            "NO MEMORY SHORTCUT -> placement can change"
+          ],
+          "source_references": [
+            "Species placement discipline",
+            "Science, law and trade",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Vermin time-point map",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "OLD STRUCTURE -> Schedule V vermin list",
+            "2022 CHANGE -> old Schedule V omitted",
+            "CURRENT OWNER ROUTE -> central notification",
+            "LIMITS -> specified area and period; Schedule I excluded",
+            "PYQ RULE -> use the law in force when the question is framed"
+          ],
+          "source_references": [
+            "Vermin time point",
+            "Audited PYQ vintage boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Prohibition and exception gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BASELINE -> hunting prohibited",
+            "CLAIMED EXCEPTION -> identify statutory purpose or condition",
+            "AUTHORITY -> Chief Wildlife Warden or other authorised officer",
+            "FORM -> applicable written permission or permit",
+            "RULE -> exception never becomes general permission"
+          ],
+          "source_references": [
+            "Hunting prohibition",
+            "Permit and exception",
+            "Dangerous or beyond recovery route",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Narrow animal-action route",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "DANGEROUS TO HUMAN LIFE -> test statutory condition",
+            "DISABLED OR DISEASED BEYOND RECOVERY -> test evidence",
+            "SCHEDULE -> determines applicable authority route",
+            "WRITTEN PERMISSION -> retain in the answer",
+            "NO EXTENSION -> do not invent a population-control exception"
+          ],
+          "source_references": [
+            "Dangerous or beyond recovery route",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "CITES authority split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MANAGEMENT AUTHORITY -> permits and certificates",
+            "SCIENTIFIC AUTHORITY -> conservation advice on trade",
+            "CHAPTER VB -> domestic international-trade machinery",
+            "SCHEDULE IV -> scheduled specimens",
+            "RULE -> advice, permission and species listing are separate functions"
+          ],
+          "source_references": [
+            "CITES Management Authority",
+            "CITES Scientific Authority",
+            "Chapter VB trade architecture",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "CITES incorporation firewall",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "CITES COP OR APPENDIX -> international decision",
+            "INDIAN LEGAL PROCESS -> applicable domestic update",
+            "SCHEDULE IV -> domestic scheduled-specimen status",
+            "PERMIT SYSTEM -> Management Authority action",
+            "NO AUTOMATICITY -> international change is not instant domestic text"
+          ],
+          "source_references": [
+            "Schedule IV",
+            "Species placement discipline",
+            "Chapter VB trade architecture",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Invasive alien species power",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IDENTIFY -> species claimed to be invasive",
+            "VERIFY -> applicable legal notification or order",
+            "CENTRAL POWER -> regulate or prohibit listed activities",
+            "IMPLEMENT -> trade, possession and proliferation controls as applicable",
+            "CAUTION -> no species list is inferred from the enabling power"
+          ],
+          "source_references": [
+            "Invasive alien species",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "WCCB statutory map",
+          "structural_type": "authority-map",
+          "ascii_lines": [
+            "SECTION 38Y -> constitution of WCCB on MoEFCC page",
+            "SECTION 38Z -> functions on MoEFCC page",
+            "INTELLIGENCE -> collection, collation and dissemination",
+            "COORDINATION -> enforcement and international cooperation",
+            "LIMIT -> WCCB does not replace every statutory decision-maker",
+            "CLOSE DISTINCTION: Current schedules must not be replaced by pre-2022 six-schedule..."
+          ],
+          "source_references": [
+            "WCCB statutory role",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Domestic authority matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHIEF WILDLIFE WARDEN -> state authorisation and enforcement route",
+            "WCCB -> organised wildlife-crime intelligence and coordination",
+            "NBWL -> protected-area governance role",
+            "NTCA -> tiger-specific statutory role",
+            "CITES AUTHORITIES -> international scheduled-specimen trade",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State Act/amendment commencement and..."
+          ],
+          "source_references": [
+            "State and Chief Wildlife Warden",
+            "NBWL and NTCA",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PYQ and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DATE -> pre-2022 or post-2022 structure",
+            "CLASSIFY -> Schedule I, II, III or IV function",
+            "TRACE -> prohibition, exception, authority and permit",
+            "SEPARATE -> IUCN risk, domestic schedule and CITES trade",
+            "QUALIFY -> verify current placement, penalty and objective key"
+          ],
+          "source_references": [
+            "Science, law and trade",
+            "Audited PYQ vintage boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-08\\g2\\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

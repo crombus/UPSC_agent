@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-20-ascii-panels-2026-08-28-reviewed",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-content reviewed State Legislature Core rail; g2 remains immutable.",
+  "constraints": {
+    "panels_per_topic": "10-14",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-20": {
+      "title": "State Legislature",
+      "source_record": "polity-20:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g5-source\\polity-20_g5-reviewed-source.md",
+      "quality_review": "Manual reconciliation against Articles 168-212, owners, official PYQs, judgments and current controls through 28 August 2026.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Articles 168-212: one mandatory House, one optional House",
+          "structural_type": "state-legislature-architecture",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "STATE LEGISLATURE UNDER ARTICLE 168\nGovernor + Assembly in every State\nGovernor + Assembly + Council in six bicameral States.\n\nSIX COUNCIL STATES\nAndhra Pradesh | Telangana | Uttar Pradesh | Bihar | Maharashtra | Karnataka\n\nCONSTITUTIONAL RAIL\n168-177 design/membership/sessions -> 178-195 officers/privilege\n-> 196-207 Bills/finance -> 208-212 procedure and judicial restraint.\n\nCORE: Assembly has direct mandate and confidence; Council offers optional delay and continuity."
+        },
+        {
+          "title": "Article 169 creation or abolition route",
+          "structural_type": "council-creation-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "STATE ASSEMBLY RESOLUTION\nmajority of total membership + at least two-thirds present and voting\n                         |\n                         v\nPARLIAMENT MAY ENACT ORDINARY LAW\nsimple majority | incidental constitutional text changes | not Article 368 amendment\n                         |\n                         v\nCOUNCIL CREATED OR ABOLISHED\n\nLIMITS\nResolution does not itself create a Council and does not compel Parliament to legislate."
+        },
+        {
+          "title": "Assembly and Council composition, duration and membership",
+          "structural_type": "house-membership-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "ASSEMBLY\nArticle 170 | direct territorial election | normal 60-500 with exceptions\nage 25 | five years unless sooner dissolved | confidence chamber.\n\nCOUNCIL\nArticle 171 | <= one-third Assembly; ordinarily >=40 | permanent | age 30\n1/3 local bodies | 1/12 graduates | 1/12 teachers | 1/3 MLAs | 1/6 nominated\nSTV for elected streams | one-third retire every two years | six-year member term.\n\nARTICLE 190\nresignation needs voluntary/genuine acceptance; unauthorised sixty-day absence may vacate seat."
+        },
+        {
+          "title": "Sessions, officers, quorum and participation",
+          "structural_type": "house-procedure-system",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 174\nGovernor summons on advice -> sitting -> adjournment -> prorogation -> Assembly dissolution\nno more than six months between last sitting and next session's first sitting.\n\nOFFICERS\nAssembly Speaker/Deputy Speaker | Council Chairman/Deputy Chairman\nremoval: majority of all then members + fourteen days notice.\nSpeaker survives dissolution until immediately before new Assembly's first meeting.\n\nARTICLE 189 DEFAULT\nuntil State law provides otherwise: ten or one-tenth, whichever greater.\nOrdinary vote: present and voting; chair has casting vote on equality."
+        },
+        {
+          "title": "Presiding officer neutrality and anti-defection control",
+          "structural_type": "speaker-defection-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "TENTH SCHEDULE\nparty exit/whip breach | independent joins | nominated joins after six months\nonly two-thirds merger defence survives.\n\nKihoto Hollohan (1992) -> Speaker is tribunal; judicial review survives.\nKeisham Meghachandra (2020) -> ordinarily three-month outer limit absent exception.\nPadi Kaushik Reddy (2025) -> Telangana petitions ordered concluded within three months.\nSubhash Desai (2023) -> political party, not faction, appoints authorised whip/leader.\nNabam Rebia (2016) referred Speaker-removal issue remains unresolved.\n\nREFORM: reasoned orders, equal procedure and independent adjudication proposal."
+        },
+        {
+          "title": "Privileges, accountability devices and review",
+          "structural_type": "privilege-accountability-boundary",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 194\nspeech/vote immunity + authorised publication protection -> functional legislative shield.\nSita Soren (2024) -> bribery is not protected by speech/vote privilege.\nAmarinder Singh (2010) -> privilege is no general punishment for unrelated past executive acts.\nRaja Ram Pal (2007) -> substantive illegality, mala fides and jurisdiction remain reviewable.\n\nACCOUNTABILITY\nquestions -> discussions -> motions -> budget scrutiny -> committees -> no-confidence.\nOnly Assembly confidence can make or unmake the ministry.\nTRAP: Governor is a legislative component, not an Article 194-protected member."
+        },
+        {
+          "title": "Ordinary Bills, lapse and unequal bicameralism",
+          "structural_type": "ordinary-bill-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "UNICAMERAL\nAssembly readings/committee/vote -> Article 200 assent gateway.\n\nBICAMERAL ASSEMBLY BILL\nAssembly passes -> Council delay up to 3 months -> Assembly repasses\n-> Council delay up to 1 month -> Assembly form prevails; no State joint sitting.\n\nCOUNCIL-ORIGINATED BILL\nCouncil passes -> Assembly rejects -> Bill ends; no reciprocal Council override.\n\nARTICLE 196 LAPSE\nprorogation: no lapse | pending only in Council: no lapse on Assembly dissolution\npending in Assembly or passed Assembly/pending Council: lapses on dissolution."
+        },
+        {
+          "title": "Money Bills and Article 207 financial categories",
+          "structural_type": "financial-bill-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "MONEY BILL: ARTICLES 198-199\nGovernor recommendation -> Assembly introduction -> Speaker certificate\n-> Council recommendations within 14 days -> Assembly decides -> Article 200.\nCouncil cannot reject, amend, vote grants or force joint sitting.\n\nARTICLE 207(1) WIDER FINANCIAL BILL\ncontains Article 199(1)(a)-(f) matter plus others -> recommendation + Assembly origin\n-> ordinary-Bill route after introduction.\n\nARTICLE 207(3) EXPENDITURE BILL\nmay originate in either House -> cannot be passed without Governor recommendation\nfor consideration -> not automatically a Money Bill."
+        },
+        {
+          "title": "Budget, funds, committees and executive scrutiny",
+          "structural_type": "budget-committee-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLES 202-207\nAnnual Financial Statement -> charged items discussed, not voted\n-> demands for grants voted only by Assembly -> appropriation authorises withdrawal\n-> Finance/financial legislation completes revenue authority.\n\nCOMMITTEE RAIL\nPublic Accounts -> audit and appropriation\nEstimates -> economy and administrative improvement\nPublic Undertakings -> State enterprise scrutiny\nState-specific subject/Bill committees -> evidence and clause-level examination.\n\nEFFECTIVE CONTROL = time + data + research + tracked government response."
+        },
+        {
+          "title": "Articles 200-201 assent and current legal control",
+          "structural_type": "assent-review-gateway",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 200\nassent | withhold | return non-Money Bill once | reserve for President\nmandatory reservation where High Court constitutional powers are endangered.\nARTICLE 201\nPresident may assent, withhold or direct return of non-Money Bill;\nrepassage does not compel presidential assent.\n\nState of Tamil Nadu v. Governor of Tamil Nadu (2025)\n-> timelines and deemed assent used on the facts.\nIn re Assent, Withholding or Reservation of Bills (2025)\n-> advisory; no rigid timelines or automatic deemed assent;\nprolonged unexplained inaction remains reviewable. No technical overruling claim."
+        },
+        {
+          "title": "Council versus Assembly and Rajya Sabha",
+          "structural_type": "upper-house-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "ASSEMBLY                         COUNCIL\nmandatory, direct                  optional, indirect/nominated\nmay dissolve                       permanent\nconfidence + grants                questions/debate, no confidence control\nfinal ordinary-Bill will           maximum 3+1 month delay\nMoney Bill control                 14-day recommendations\nArticle 169 initiation             existence depends on Assembly route.\n\nRAJYA SABHA CONTRAST\nmandatory federal House | broadly co-equal ordinary law | Articles 249 and 312 powers.\nCouncil legitimacy rests on scrutiny, not federal representation or final veto."
+        },
+        {
+          "title": "Current representation controls and exam synthesis",
+          "structural_type": "state-legislature-exam-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md"
+          ],
+          "full_text": "CURRENT AT 28 AUGUST 2026\nsix Council States | 106th Amendment reservation not operational\nCensus reference: 1 Mar 2027 generally; 1 Oct 2026 in specified snow-bound areas\n2026 delimitation-linked Bills failed/withdrawn and are not law.\n\nREFORM ROUTE\npredictable sittings | prior Bill publication | stronger committees\nnon-partisan research | timely Speaker decisions | transparent nominations\npublic assent tracker | modernised Council representation.\n\nMAINS SPINE\nArticle/design -> mechanism -> Assembly-Council comparison -> case/current evidence\n-> democratic or scrutiny consequence -> targeted reform -> representative-federal verdict."
+        }
+      ]
+    }
+  }
+}

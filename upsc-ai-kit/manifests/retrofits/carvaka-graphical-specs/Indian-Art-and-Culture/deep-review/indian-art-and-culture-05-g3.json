@@ -1,0 +1,1125 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-05",
+  "subject": "Indian-Art-and-Culture",
+  "title": "COLONIAL AND POST-INDEPENDENCE ARCHITECTURE",
+  "short_route": "COLONIAL SEQUENCE → ARCHITECTURE AS POWER → INDO-GOTHIC GRAMMAR → NEW DELHI AXIS → 1947 CONTINUITY TEST → POSTWAR ARCHITECT MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-05-deep-review-2026-09-04-g3.json",
+  "ascii_spec_sha256": "3a11dd7a140cb0a7a81efca24844d96c09f28f9c23d098e19e2ff603fe7c19f1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COLONIAL SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COLONIAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CHURCH, BAROQUE AND FORT",
+          "role": "outcome"
+        },
+        {
+          "text": "CARTESIAN SETTLEMENT GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "INDO-GOTHIC PUBLIC MONUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NEO-CLASSICAL IMPERIAL CAPITAL",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "COLONIAL ARCHITECTURE MUST SEPARATE PORTUGUESE CHURCH-FORT-PATIO FORMS, FRENCH",
+          "role": "comparison"
+        },
+        {
+          "text": "CARTESIAN PLANNING, BRITISH INDO-GOTHIC AND INDO-SARACENIC PROGRAMMES, AND POST-1911",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PORTUGUESE → church, Baroque and fort",
+        "FRENCH → Cartesian settlement grid",
+        "BRITISH → Indo-Gothic public monument",
+        "POST-1911 → Neo-Classical imperial capital",
+        "MUST REMEMBER: Colonial architecture must separate Portuguese church-fort-patio forms, French"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PORTUGUESE → church, Baroque and fort",
+            "FRENCH → Cartesian settlement grid"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRITISH → Indo-Gothic public monument",
+            "POST-1911 → Neo-Classical imperial capital"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Colonial architecture must separate Portuguese church-fort-patio forms, French",
+            "Cartesian planning, British Indo-Gothic and Indo-Saracenic programmes, and post-1911 imperial New Delhi before post-1947 debates."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Cartesian planning, British Indo-Gothic and Indo-Saracenic programmes, and post-1911 imperial New Delhi before post-1947 debates.",
+      "source_references": [
+        "Portuguese authority in church and fort",
+        "French planning as architecture",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARCHITECTURE AS POWER",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARCHITECTURE AS POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CHURCH, COMPANY OR COLONIAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "GRID, AXIS AND SEGREGATED PRECINCT",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY MADE VISIBLE",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC USE",
+          "role": "primary"
+        },
+        {
+          "text": "RULE ENTERS DAILY URBAN SPACE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SPONSOR → church, company or colonial state",
+        "PLAN → grid, axis and segregated precinct",
+        "MONUMENT → authority made visible",
+        "PUBLIC USE → rule enters daily urban space"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SPONSOR → church, company or colonial state",
+            "PLAN → grid, axis and segregated precinct"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MONUMENT → authority made visible",
+            "PUBLIC USE → rule enters daily urban space"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SPONSOR → church, company or colonial state",
+            "PLAN → grid, axis and segregated precinct"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PUBLIC USE → rule enters daily urban space.",
+      "source_references": [
+        "New Delhi and imperial axis",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INDO-GOTHIC GRAMMAR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDO-GOTHIC GRAMMAR",
+          "role": "primary"
+        },
+        {
+          "text": "POINTED ARCH AND RIBBED VAULT",
+          "role": "outcome"
+        },
+        {
+          "text": "DOME, JAALI AND TURRET",
+          "role": "comparison"
+        },
+        {
+          "text": "BALCONY AND VERANDA",
+          "role": "evidence"
+        },
+        {
+          "text": "COLONIAL REVIVAL HYBRID",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GOTHIC → pointed arch and ribbed vault",
+        "INDIAN → dome, jaali and turret",
+        "CLIMATE → balcony and veranda",
+        "RESULT → colonial revival hybrid"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GOTHIC → pointed arch and ribbed vault",
+          "CLIMATE → balcony and veranda",
+          "GOTHIC → pointed arch and ribbed vault"
+        ],
+        [
+          "INDIAN → dome, jaali and turret",
+          "RESULT → colonial revival hybrid",
+          "INDIAN → dome, jaali and turret"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOTHIC → pointed arch and ribbed vault",
+            "INDIAN → dome, jaali and turret"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLIMATE → balcony and veranda",
+            "RESULT → colonial revival hybrid"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOTHIC → pointed arch and ribbed vault",
+            "INDIAN → dome, jaali and turret"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLIMATE → balcony and veranda; RESULT → colonial revival hybrid.",
+      "source_references": [
+        "British Indo-Gothic hybridity",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NEW DELHI AXIS",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NEW DELHI AXIS",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESSIONAL VISTA",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPERIAL APPROACH",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE COMMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "VICEROY'S HOUSE",
+          "role": "primary"
+        },
+        {
+          "text": "ELEVATED AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPITAL PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENCE STAGED IN SPACE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROCESSIONAL VISTA → imperial approach",
+        "SECRETARIAT → administrative command",
+        "VICEROY'S HOUSE → elevated authority",
+        "CAPITAL PLAN → permanence staged in space"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCESSIONAL VISTA → imperial approach",
+            "SECRETARIAT → administrative command"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VICEROY'S HOUSE → elevated authority",
+            "CAPITAL PLAN → permanence staged in space"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROCESSIONAL VISTA → imperial approach",
+            "SECRETARIAT → administrative command"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VICEROY'S HOUSE → elevated authority; CAPITAL PLAN → permanence staged in space.",
+      "source_references": [
+        "New Delhi and imperial axis",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "1947 CONTINUITY TEST",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "1947 CONTINUITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGN INDIAN PATRON",
+          "role": "outcome"
+        },
+        {
+          "text": "MONUMENTAL CIVIC PLANNING",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL PROGRAMME AND SYMBOLISM",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEVEN ARCHITECTURAL DECOLONISATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CHANGE → sovereign Indian patron",
+        "CONTINUITY → monumental civic planning",
+        "CHANGE → national programme and symbolism",
+        "VERDICT → uneven architectural decolonisation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CHANGE → sovereign Indian patron",
+          "CHANGE → national programme and symbolism",
+          "CHANGE → sovereign Indian patron"
+        ],
+        [
+          "CONTINUITY → monumental civic planning",
+          "VERDICT → uneven architectural decolonisation",
+          "CONTINUITY → monumental civic planning"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHANGE → sovereign Indian patron",
+            "CONTINUITY → monumental civic planning"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHANGE → national programme and symbolism",
+            "VERDICT → uneven architectural decolonisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHANGE → sovereign Indian patron",
+            "CONTINUITY → monumental civic planning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHANGE → national programme and symbolism; VERDICT → uneven architectural decolonisation.",
+      "source_references": [
+        "The colonial-hangover critique",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "POSTWAR ARCHITECT MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POSTWAR ARCHITECT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "LE CORBUSIER",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANDIGARH STATE CAPITAL",
+          "role": "institution"
+        },
+        {
+          "text": "SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "CLIMATE, HOUSING AND SOCIAL USE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LE CORBUSIER → Chandigarh state capital",
+        "DEOLALIKAR → Supreme Court",
+        "CORREA/KANVINDE → institutions",
+        "BAKER/DOSHI → climate, housing and social use"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LE CORBUSIER → Chandigarh state capital",
+            "DEOLALIKAR → Supreme Court"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORREA/KANVINDE → institutions",
+            "BAKER/DOSHI → climate, housing and social use"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LE CORBUSIER → Chandigarh state capital",
+            "DEOLALIKAR → Supreme Court"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORREA/KANVINDE → institutions; BAKER/DOSHI → climate, housing and social use.",
+      "source_references": [
+        "Chandigarh's imported modernism",
+        "First Indian state commissions",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BAKER MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BAKER MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "LOCAL MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "LOWER EMBODIED COST",
+          "role": "comparison"
+        },
+        {
+          "text": "FILLER SLAB",
+          "role": "evidence"
+        },
+        {
+          "text": "LESS STEEL AND CEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THERMAL COMFORT",
+          "role": "outcome"
+        },
+        {
+          "text": "AFFORDABLE HOUSING USER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LOCAL MATERIAL → lower embodied cost",
+        "FILLER SLAB → less steel and cement",
+        "VENTILATION → thermal comfort",
+        "CLIENT → affordable housing user"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCAL MATERIAL → lower embodied cost",
+            "FILLER SLAB → less steel and cement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VENTILATION → thermal comfort",
+            "CLIENT → affordable housing user"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL MATERIAL → lower embodied cost",
+            "FILLER SLAB → less steel and cement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VENTILATION → thermal comfort; CLIENT → affordable housing user.",
+      "source_references": [
+        "Laurie Baker's client shift",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTIONAL MODERNISMS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL MODERNISMS",
+          "role": "primary"
+        },
+        {
+          "text": "COURTYARD AND OPEN-TO-SKY SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERN AND BRUTALIST INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSING AND CAMPUS URBANISM",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CLIMATE, USE AND PUBLIC PURPOSE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CORREA → courtyard and open-to-sky space",
+        "KANVINDE → modern and Brutalist institutions",
+        "DOSHI → housing and campus urbanism",
+        "COMMON TEST → climate, use and public purpose"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CORREA → courtyard and open-to-sky space",
+          "DOSHI → housing and campus urbanism",
+          "CORREA → courtyard and open-to-sky space"
+        ],
+        [
+          "KANVINDE → modern and Brutalist institutions",
+          "COMMON TEST → climate, use and public purpose",
+          "KANVINDE → modern and Brutalist institutions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORREA → courtyard and open-to-sky space",
+            "KANVINDE → modern and Brutalist institutions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOSHI → housing and campus urbanism",
+            "COMMON TEST → climate, use and public purpose"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORREA → courtyard and open-to-sky space",
+            "KANVINDE → modern and Brutalist institutions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON TEST → climate, use and public purpose.",
+      "source_references": [
+        "Correa and Kanvinde",
+        "Doshi's verified record",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AWARD PRECISION RAIL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AWARD PRECISION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DOSHI 1976",
+          "role": "outcome"
+        },
+        {
+          "text": "PADMA SHRI",
+          "role": "comparison"
+        },
+        {
+          "text": "DOSHI 2018",
+          "role": "evidence"
+        },
+        {
+          "text": "PRITZKER LAUREATE",
+          "role": "primary"
+        },
+        {
+          "text": "DOSHI 2020",
+          "role": "outcome"
+        },
+        {
+          "text": "PADMA BHUSHAN",
+          "role": "comparison"
+        },
+        {
+          "text": "DOSHI 2023",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOSHI 1976 → Padma Shri",
+        "DOSHI 2018 → Pritzker laureate",
+        "DOSHI 2020 → Padma Bhushan",
+        "DOSHI 2023 → Padma Vibhushan, posthumous"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOSHI 1976 → Padma Shri",
+            "DOSHI 2018 → Pritzker laureate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOSHI 2020 → Padma Bhushan",
+            "DOSHI 2023 → Padma Vibhushan, posthumous"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DOSHI 1976 → Padma Shri",
+            "DOSHI 2018 → Pritzker laureate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOSHI 2020 → Padma Bhushan; DOSHI 2023 → Padma Vibhushan, posthumous.",
+      "source_references": [
+        "Doshi's verified record",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PARLIAMENT CONTINUITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PARLIAMENT CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "1927 BUILDING",
+          "role": "outcome"
+        },
+        {
+          "text": "COLONIAL-ERA LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "2023 BUILDING",
+          "role": "evidence"
+        },
+        {
+          "text": "BIMAL PATEL, MAIN WORKPLACE",
+          "role": "primary"
+        },
+        {
+          "text": "OLD BUILDING",
+          "role": "outcome"
+        },
+        {
+          "text": "RETAINED AS SAMVIDHAN SADAN",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBATED LINK TO 1927 DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1927 BUILDING → colonial-era legislature",
+        "2023 BUILDING → Bimal Patel, main workplace",
+        "OLD BUILDING → retained as Samvidhan Sadan",
+        "MITAOLI → debated link to 1927 design",
+        "CLOSE DISTINCTION: Indo-Gothic and Lutyens-Baker Neo-Classical New Delhi are different phases"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1927 BUILDING → colonial-era legislature",
+          "OLD BUILDING → retained as Samvidhan Sadan",
+          "CLOSE DISTINCTION: Indo-Gothic and Lutyens-Baker Neo-Classical New Delhi are different phases"
+        ],
+        [
+          "2023 BUILDING → Bimal Patel, main workplace",
+          "MITAOLI → debated link to 1927 design",
+          "Chandigarh's modernism and foreign authorship complicate both a simple colonial continuity and a complete indigenous rupture."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1927 BUILDING → colonial-era legislature",
+            "2023 BUILDING → Bimal Patel, main workplace"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OLD BUILDING → retained as Samvidhan Sadan",
+            "MITAOLI → debated link to 1927 design"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Indo-Gothic and Lutyens-Baker Neo-Classical New Delhi are different phases",
+            "Chandigarh's modernism and foreign authorship complicate both a simple colonial continuity and a complete indigenous rupture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Chandigarh's modernism and foreign authorship complicate both a simple colonial continuity and a complete indigenous rupture.",
+      "source_references": [
+        "Parliament old and new",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "HERITAGE PRESSURE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HERITAGE PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "MUMBAI ENSEMBLES",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVING URBAN HERITAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN GROWTH",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESSURE ON SETTING",
+          "role": "primary"
+        },
+        {
+          "text": "HALL OF NATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERN-HERITAGE LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "AGE AND VALUE CAN DIVERGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MUMBAI ENSEMBLES → living urban heritage",
+        "URBAN GROWTH → pressure on setting",
+        "HALL OF NATIONS → modern-heritage loss",
+        "POLICY → age and value can diverge",
+        "EVIDENCE LIMIT: Built form organised maritime, railway-city and imperial authority, but post-Independence Revivalist and"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MUMBAI ENSEMBLES → living urban heritage",
+          "HALL OF NATIONS → modern-heritage loss",
+          "EVIDENCE LIMIT: Built form organised maritime, railway-city and imperial authority, but post-Independence Revivalist and"
+        ],
+        [
+          "URBAN GROWTH → pressure on setting",
+          "POLICY → age and value can diverge",
+          "Modernist categories remain analytical types rather than complete descriptions of every Indian architect."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MUMBAI ENSEMBLES → living urban heritage",
+            "URBAN GROWTH → pressure on setting"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HALL OF NATIONS → modern-heritage loss",
+            "POLICY → age and value can diverge"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Built form organised maritime, railway-city and imperial authority, but post-Independence Revivalist and",
+            "Modernist categories remain analytical types rather than complete descriptions of every Indian architect."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Built form organised maritime, railway-city and imperial authority, but post-Independence Revivalist and Modernist categories remain analytical types rather than complete descriptions of every Indian architect.",
+      "source_references": [
+        "Raj Rewal and modern heritage",
+        "Mumbai's living ensembles",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MODERN ARCHITECTURE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MODERN ARCHITECTURE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "COLONISER AND PHASE",
+          "role": "outcome"
+        },
+        {
+          "text": "BUILDING, ARCHITECT AND DEVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER, CLIMATE, CLIENT AND COST",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTINUITY, ATTRIBUTION AND CONSERVATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SEQUENCE → coloniser and phase",
+        "EVIDENCE → building, architect and device",
+        "ANALYSE → power, climate, client and cost",
+        "QUALIFY → continuity, attribution and conservation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEQUENCE → coloniser and phase",
+            "EVIDENCE → building, architect and device"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → power, climate, client and cost",
+            "QUALIFY → continuity, attribution and conservation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEQUENCE → coloniser and phase",
+            "EVIDENCE → building, architect and device"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYSE → power, climate, client and cost; QUALIFY → continuity, attribution and conservation.",
+      "source_references": [
+        "Zero-PYQ audit and answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\05_Colonial-and-Post-Independence-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g2\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-05\\g3\\indian-art-and-culture-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE VICTORIAN GOTHIC AND ART DECO ENSEMBLES OF MUMBAI",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING \"COLONIAL HANGOVER\" AS MEANING POST-INDEPENDENCE ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESENTING BAKER, CORREA AND KANVINDE AS PURSUING AN IDENTICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUMING THE NEW PARLIAMENT HOUSE'S CHAUSATH YOGINI REFERENCE APPLIES",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING EVEN THE OLD-BUILDING MITAOLI INFLUENCE AS PROVEN.",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERN HISTORY OWNS THE COLONIAL STATE'S POLITICAL ECONOMY AND",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNANCE/GEOGRAPHY OWNS URBAN PLANNING AND CITY-DEVELOPMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Victorian Gothic and Art Deco Ensembles of Mumbai remain a UNESCO",
+            "NOT: Treating \"colonial hangover\" as meaning post-Independence architecture",
+            "NOT: Presenting Baker, Correa and Kanvinde as pursuing an identical design",
+            "NOT: Assuming the new Parliament House's Chausath Yogini reference applies"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating even the old-building Mitaoli influence as proven. - It is a",
+            "NOT: Modern History owns the colonial state's political economy and",
+            "NOT: Governance/Geography owns urban planning and city-development",
+            "This file's colonial-continuity analysis is reusable wherever a later"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "00 Master-Framework.md Section 5 — the current-claim verification",
+            "CAUTION: Cross-links: Topic 04 (the medieval-era \"Indo-Saracenic\" term this",
+            "Verified against Nitin — pdf , PDF pp. 149-156 directly.",
+            "CAUTION: Open caution: the Victorian Gothic and Art Deco Ensembles of Mumbai's"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

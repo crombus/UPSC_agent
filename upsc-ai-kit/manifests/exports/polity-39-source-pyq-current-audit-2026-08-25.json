@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-39",
+  "title": "Cooperative Societies",
+  "gate": "A",
+  "started_at": "2026-08-25T09:14:14+05:30",
+  "completed_at": "2026-08-25T09:15:00+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://www.cooperation.gov.in/",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.cooperation.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cooperation.gov.in', port=443) at 0x19eec85a590>, 'Connection to www.cooperation.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-25T09:14:36+05:30"
+        },
+        {
+          "url": "https://crcs.gov.in/",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='crcs.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='crcs.gov.in', port=443) at 0x19eec85abc0>, 'Connection to crcs.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-25T09:14:57+05:30"
+        },
+        {
+          "url": "https://www.rbi.org.in/",
+          "status_code": 200,
+          "final_url": "https://www.rbi.org.in/",
+          "title": "Home | Official website of Reserve Bank of India",
+          "evidence_excerpt": "Home | Official website of Reserve Bank of India भारतीय रिज़र्व बैंक की आधिकारिक वेबसाइट में आपका स्वागत है Welcome to official website of Reserve Bank of India वेबसाइट देखने के लिए अपनी पसंदीदा भाषा का चयन करें Select your Preferred Language to Access the Website मेरा चयनित विकल्प याद रखें / Remember my choice हिंदी English X Skip to main content | Not pressed Not Pressed Pressed Not Pressed Not Pressed Pressed Not Pressed Change Language हिंदी Home About Us ▼ About Us Organisation & Functions ▶ Organisation Structure Departments Offices Training Establishment ▶ College of Agricultural Bankin",
+          "accessed_at": "2026-08-25T09:14:58+05:30"
+        },
+        {
+          "url": "https://www.nabard.org/",
+          "status_code": 200,
+          "final_url": "https://www.nabard.org/Hindi/Default.aspx",
+          "title": "मुखपृष्ठ - नाबार्ड - राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+          "evidence_excerpt": "मुखपृष्ठ - नाबार्ड - राष्ट्रीय कृषि और ग्रामीण विकास बैंक मुखपृष्ठ मुख्य विषयवस्तु में जाएं -A A +A A A A A A साइटमैप सहायता English राष्ट्रीय पोर्टल राष्ट्रीय कृषि और ग्रामीण विकास बैंक ग्रामीण समृद्धि को बढ़ावा देना हमसे संपर्क करें हमारे बारे में हम कौन हैं हम क्या करते हैं निदेशक मंडल ओरगनोग्राम प्रधान कार्यालय विभाग क्षेत्रीय कार्यालय डीडीएम/डीडीओ (जिला कार्यालय) नाबार्ड सहायक प्रशिक्षण प्रतिष्ठान सूचना केन्द्र परिपत्र वित्तीय रिपोर्ट मॉडल विनियोजनीय परियोजनाएं प्रकाशन केस स्टडी इकाई लागत क्रेडिट लिंक्ड योजनाएँ राष्ट्रीय स्तर के पेपर राज्य स्तरीय कागजात राज्य फोकस पेपर संभावित लिंक्ड योजन",
+          "accessed_at": "2026-08-25T09:15:00+05:30"
+        }
+      ],
+      "result": "The official Constitution, Rajendra N. Shah judgment, current Multi-State Co-operative Societies Act and 2023 amendment framework, Ministry/CRCS, RBI and NABARD material were rechecked on 25 August 2026. National Cooperation Policy 2025 is a dated policy anchor, not a transfer of State legislative competence."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 0,
+    "supporting_route_count": 3,
+    "total_routed_count": 3,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-25",
+    "fact": "The official Constitution, Rajendra N. Shah judgment, current Multi-State Co-operative Societies Act and 2023 amendment framework, Ministry/CRCS, RBI and NABARD material were rechecked on 25 August 2026. National Cooperation Policy 2025 is a dated policy anchor, not a transfer of State legislative competence.",
+    "caveat": "After Rajendra N. Shah, Part IXB cannot be written as a uniform binding code for ordinary State-field cooperatives. Article 19(1)(c), Article 43B and the valid multi-State field survive; Ministry, Registrar, financing, representative and operating cooperative bodies remain legally distinct."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md": "043e900f267770ef56b65edacc5e7e0d8f1574d0603ac8a8b4c3be3d9f97f9e2",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md": "2b297d64c287116c6f43008115f73787f8686cbca6bb1e670d59c9de4c2c898c",
+    "upsc-ai-kit\\knowledge\\Polity\\39_Cooperative-Societies_Complete-Topic-Package.md": "55aaea7bf4eb7e61d8d4b1a9d89c2079977525427c0014edc9e8e7bc0c3dad6e",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md": "96046681c879d826a79f34a3bd6292fc2f457774962577b58e3ca1930e2c9a9b",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md": "bec6b166eace786bf55a86c0fff15532fd6b67b108f321b7e058a5233ade3332",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": "f8bf3c2c0a5f8ac1c3a99f5a405f2d3fdd467df57fb3b88da6f4bc297afedf02",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md": "3b39b5be1efd320f3e00a5acc4e3013aaeb101b9f531299009f359da788e0032",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md": "bb3627668e5e094d0c87391f00a0707f6782530e4de50bffee218db44a129040",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "principles, evolution, economic functions and cooperative enterprise identity",
+    "97th Amendment triptych and Rajendra N. Shah's exact surviving scope",
+    "Articles 243ZH-243ZT with boards, elections, supersession, audit and returns",
+    "State cooperative law versus Entry 44 multi-State cooperative law",
+    "MSCS Act 2002 and authoritative 2023 amendment mechanisms",
+    "Ministry, CRCS, NCDC, representative bodies and operating societies distinguished",
+    "banking overlays, examples, governance failure, professionalisation and traps"
+  ],
+  "topic_completeness_status": "passed",
+  "canonical_owner_resolution": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\39_Cooperative-Societies_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+    "scope_note": "The complete canonical package is the assembly owner; Basic remains the independent core and Advanced remains subordinate enrichment."
+  },
+  "case_year_sources": [
+    {
+      "case_id": "rajendra-n-shah",
+      "canonical_label": "Union of India v. Rajendra N. Shah (2021)",
+      "decision_year": 2021,
+      "source_title": "Union of India v. Rajendra N. Shah, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Rajendra+N.+Shah+20+July+2021"
+    },
+    {
+      "case_id": "thalappalam",
+      "canonical_label": "Thalappalam Service Cooperative Bank (2013)",
+      "decision_year": 2013,
+      "source_title": "Thalappalam Service Cooperative Bank Ltd. v. State of Kerala, judgment dated 7 October 2013",
+      "source_url": "https://indiankanoon.org/search/?formInput=Thalappalam+Service+Cooperative+Bank+7+October+2013"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-25",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "After Rajendra N. Shah, Part IXB cannot be written as a uniform binding code for ordinary State-field cooperatives. Article 19(1)(c), Article 43B and the valid multi-State field survive; Ministry, Registrar, financing, representative and operating cooperative bodies remain legally distinct."
+  }
+}

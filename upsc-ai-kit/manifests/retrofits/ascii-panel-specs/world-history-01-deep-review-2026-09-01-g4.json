@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-01",
+      "display_title": "Enlightenment and Age of Revolutions Overview",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Enlightenment starting condition",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "INHERITED AUTHORITY -> Church, dynasty, privilege by birth",
+            "NEW TEST -> reason, nature, humanity, freedom, happiness",
+            "POLITICAL QUESTION -> by what right does power command?",
+            "RESULT -> authority must justify itself in public terms",
+            "MUST REMEMBER: Locke (1689), Montesquieu (1748) and Rousseau (1762) supplied distinct",
+            "  arguments about rights, divided power and popular sovereignty; ideas gave legitimacy while",
+            "  crisis and mobilisation determined revolutionary timing.",
+            "MUST REMEMBER: Locke (1689), Montesquieu (1748) and Rousseau (1762) supplied distinct",
+            "  arguments about rights, divided power and popular sovereignty; ideas gave legitimacy while",
+            "  crisis and mobilisation determined revolutionary timing."
+          ],
+          "source_references": [
+            "The eighteenth-century intellectual break",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Thinker-to-institution map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LOCKE -> natural rights + consent -> limited government",
+            "MONTESQUIEU -> separation of powers -> constitutional restraint",
+            "ROUSSEAU -> popular sovereignty -> people as source of authority",
+            "VOLTAIRE -> clerical criticism -> secular public debate"
+          ],
+          "source_references": [
+            "Locke: rights, consent and limited rule",
+            "Montesquieu: power checked by power",
+            "Rousseau and popular sovereignty",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Ideas, crisis and force",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "IDEAS -> make inherited privilege illegitimate",
+            "CRISIS -> fiscal stress, food stress, imperial grievance",
+            "MOBILISATION -> assemblies, pamphlets, crowds, organised groups",
+            "REVOLUTION -> legitimacy + momentum + force must interact"
+          ],
+          "source_references": [
+            "From ideas to revolutionary action",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Parallel Atlantic routes",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AMERICA -> external empire challenged -> federal republic",
+            "FRANCE -> internal privilege challenged -> social-legal rupture",
+            "SHARED -> rights, consent, sovereignty, constitutional argument",
+            "DIFFERENCE -> America broke a link; France broke a structure"
+          ],
+          "source_references": [
+            "America and France on the same axes",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Rights and exclusions ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "UNIVERSAL CLAIM -> rights belong to human beings or citizens",
+            "EARLY BOUNDARY -> property, race, sex and colonial status restrict membership",
+            "CONTRADICTION -> proclaimed equality outruns political practice",
+            "LEGACY -> excluded groups later use the same grammar to demand entry"
+          ],
+          "source_references": [
+            "The American constitutional route",
+            "The French social-revolutionary route",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Liberalism versus conservatism",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LIBERALISM -> consent, rights, law, representation",
+            "CONSERVATISM -> order, property, religion, gradual change",
+            "LIBERAL RISK -> restricted franchise and imperial compatibility",
+            "CONSERVATIVE RISK -> censorship and dynastic repression"
+          ],
+          "source_references": [
+            "Liberalism and conservatism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Nationalism's changing alliances",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CORE -> nation claimed as proper unit of sovereignty",
+            "LIBERAL ALLIANCE -> constitutions and national self-rule",
+            "CONSERVATIVE USE -> state-led unification and discipline",
+            "LATER FORMS -> racial, imperial and anti-colonial nationalisms"
+          ],
+          "source_references": [
+            "Nationalism as a mobile doctrine",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Capitalism's social mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PRIVATE OWNERSHIP + PROFIT -> investment and factory production",
+            "WAGE LABOUR -> workers depend on employers for livelihood",
+            "OUTPUT GROWTH -> productive capacity and consumption expand",
+            "UNREGULATED COST -> insecurity, long hours and class conflict"
+          ],
+          "source_references": [
+            "Capitalism and industrial society",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Socialist family tree",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SOCIALISM -> social ownership or control; many methods",
+            "COMMUNISM -> revolution + central planning + one-party practice",
+            "SOCIAL DEMOCRACY -> elections + regulation + redistribution",
+            "TEST -> ask who owns, who decides and by what method"
+          ],
+          "source_references": [
+            "Socialism, communism and social democracy",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Labour pressure becomes law",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1824 -> England repeals anti-union laws",
+            "1830s-40s -> Chartism links labour to franchise",
+            "TRADE UNIONS -> collective bargaining enters modern politics",
+            "FACTORY LAW -> laissez-faire yields to evidence of harm",
+            "CLOSE DISTINCTION: Liberalism, conservatism, nationalism, capitalism, socialism, communism and",
+            "  social democracy must be compared by authority, ownership, method and social constituency",
+            "  rather than treated as synonyms or a single linear progression.",
+            "CLOSE DISTINCTION: Liberalism, conservatism, nationalism, capitalism, socialism, communism and",
+            "  social democracy must be compared by authority, ownership, method and social constituency",
+            "  rather than treated as synonyms or a single linear progression."
+          ],
+          "source_references": [
+            "Trade unions and the constitutional social question",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Welfare-state causal synthesis",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "PROGRAMME -> socialist and labour demands for security",
+            "OPENING -> depression destroys private safeguards",
+            "CAPACITY -> total war expands administration and solidarity",
+            "OUTPUT -> Social Security 1935; Beveridge Report 1942",
+            "EVIDENCE LIMIT: Universal rights-language coexisted with exclusions based on property, sex,",
+            "  slavery, race and colonial status; later inclusion used the same grammar but was neither",
+            "  immediate nor inevitable.",
+            "EVIDENCE LIMIT: Universal rights-language coexisted with exclusions based on property, sex,",
+            "  slavery, race and colonial status; later inclusion used the same grammar but was neither",
+            "  immediate nor inevitable."
+          ],
+          "source_references": [
+            "The welfare-state synthesis and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Overview answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> Enlightenment climate or named doctrine",
+            "EVIDENCE -> thinker, document, institution and social base",
+            "ANALYSE -> form, timing, depth and effect on society",
+            "QUALIFY -> exclusions, variant forms and non-linear outcomes"
+          ],
+          "source_references": [
+            "The welfare-state synthesis and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g3\\world-history-01_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-01\\g4\\world-history-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

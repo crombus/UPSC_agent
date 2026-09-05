@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 03",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-03",
+      "display_title": "Community-Based DRR and Inclusive Protection",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-03_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "CBDRR co-production map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "COMMUNITY -> knowledge, priorities, first action",
+            "PRI / ULB -> local plan and services",
+            "DDMA / STATE -> authority, resources, standards",
+            "RULE -> participation complements public duty"
+          ],
+          "source_references": [
+            "CBDRR",
+            "Panchayats and ULBs"
+          ]
+        },
+        {
+          "title": "Knowledge bridge",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LOCAL -> routes, trust, seasonal and social detail",
+            "SCIENTIFIC -> hazard monitoring and forecasts",
+            "ADMINISTRATIVE -> authority, resources, evacuation orders",
+            "BEST RESULT -> combine and validate all three"
+          ],
+          "source_references": [
+            "Local knowledge"
+          ]
+        },
+        {
+          "title": "Community role cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BEFORE -> map risk, train, drill, plan",
+            "DURING -> relay warning, assist evacuation, first aid",
+            "AFTER -> verify needs, protect, restore livelihoods",
+            "SAFEGUARD -> trained roles and no harmful improvisation"
+          ],
+          "source_references": [
+            "Community first response",
+            "Community institutions"
+          ]
+        },
+        {
+          "title": "Local institution ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "HOUSEHOLD / WARD / VILLAGE",
+            "SHG / CBO / VOLUNTEER GROUP",
+            "PANCHAYAT / ULB",
+            "DDMA -> district plan, resources and accountability"
+          ],
+          "source_references": [
+            "Panchayats and ULBs",
+            "Community institutions"
+          ]
+        },
+        {
+          "title": "Volunteer readiness firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ENROLLED -> TRAINED -> REFRESHED",
+            "EQUIPPED -> ACTIVATION PROTOCOL -> SUPERVISED ACTION",
+            "AFTER-ACTION LEARNING -> RETENTION",
+            "HEADCOUNT ALONE -> NOT READINESS"
+          ],
+          "source_references": [
+            "Volunteer boundary"
+          ]
+        },
+        {
+          "title": "Social vulnerability matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "POVERTY / HOUSING / LIVELIHOOD",
+            "GENDER / AGE / DISABILITY / HEALTH",
+            "LANGUAGE / DOCUMENTS / DISPLACEMENT",
+            "INTERSECTIONS -> COMPOUND RISK"
+          ],
+          "source_references": [
+            "Social vulnerability",
+            "Intersectionality"
+          ]
+        },
+        {
+          "title": "Life-course protection",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHILDREN -> tracing, nutrition, safe learning",
+            "OLDER PERSONS -> medicine, mobility, care",
+            "WOMEN / GIRLS -> privacy, safety, health, voice",
+            "DESIGN -> distinct needs, no homogeneous category"
+          ],
+          "source_references": [
+            "Gender-responsive protection",
+            "Children",
+            "Older persons"
+          ]
+        },
+        {
+          "title": "Disability-inclusive chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PARTICIPATORY MAPPING -> ACCESSIBLE WARNING",
+            "ASSISTED EVACUATION -> BARRIER-FREE SHELTER",
+            "ASSISTIVE DEVICE / SUPPORT CONTINUITY",
+            "FEEDBACK -> CORRECT EXCLUSION"
+          ],
+          "source_references": [
+            "Persons with disabilities",
+            "Accessible warnings",
+            "Inclusive evacuation"
+          ]
+        },
+        {
+          "title": "Migrant-displacement firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DISPLACED -> movement caused by disaster impacts",
+            "MIGRANT -> may face language and documentation barriers",
+            "REFUGEE STATUS -> not automatic under 1951 Convention",
+            "PROTECTION -> domestic law and human-rights duties remain"
+          ],
+          "source_references": [
+            "Migrants and displaced persons"
+          ]
+        },
+        {
+          "title": "Warning-to-shelter route",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ACCESSIBLE MESSAGE -> CONFIRM COMPREHENSION",
+            "ASSISTED TRANSPORT -> SAFE ROUTE",
+            "DIGNIFIED ACCESSIBLE SHELTER",
+            "REGISTER + FEEDBACK + FAMILY LINK"
+          ],
+          "source_references": [
+            "Accessible warnings",
+            "Inclusive evacuation",
+            "Dignified shelters"
+          ]
+        },
+        {
+          "title": "Relief accountability loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "CLEAR ELIGIBILITY -> PUBLIC LIST / INFORMATION",
+            "DISAGGREGATED NEEDS -> DELIVERY",
+            "APPEAL / CORRECTION -> UPDATED LIST",
+            "PROTECTION MONITORING -> RECOVERY FEEDBACK"
+          ],
+          "source_references": [
+            "Accountable relief",
+            "Protection and psychosocial support"
+          ]
+        },
+        {
+          "title": "Inclusive answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "NAME GROUP -> IDENTIFY RISK MECHANISM",
+            "ASSIGN COMMUNITY + INSTITUTIONAL ROLE",
+            "DESIGN ACCESSIBLE WARNING EVACUATION SHELTER RELIEF",
+            "RESTORE AGENCY -> VERIFY OUTCOME"
+          ],
+          "source_references": [
+            "Community-led recovery",
+            "Participation-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

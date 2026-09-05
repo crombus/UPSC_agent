@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-38",
+      "display_title": "Economy, Land, Society & State: A Post-Independence Synthesis",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The economic model's rise and break, 1948-91",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "IPR 1948/1956 + MAHALANOBIS PLAN -> public sector \"commanding heights\"",
+            "GROWTH -> about 4% a year to the mid-1960s, but LICENCE-PERMIT RAJ throttles it",
+            "1991 -> balance-of-payments crisis forces LIBERALISATION (Rao-Manmohan Singh)",
+            "READING -> a CORRECTION of excess dirigisme, not a repudiation of the model",
+            "MUST REMEMBER: The synthesis runs from the 1948/1956 Industrial Policy Resolutions, Planning",
+            "  Commission and First Plan, zamindari abolition and Bhoodan, the mid-1960s Green Revolution,",
+            "  Naxalbari (1967) and CPI(ML) (1969), farmers' movements at Nasik (1980) and Sisauli (1986),",
+            "  Mandal implementation (1990) and the 1991 market turn."
+          ],
+          "source_references": [
+            "The economic model's rise and break, 1948-91",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Land reform disaggregated: zamindari vs tenancy vs ceiling",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMPONENT   | OUTCOME           | WHY",
+            "ZAMINDARI   | LARGELY SUCCEEDED | politically weak class, clear target",
+            "TENANCY     | LARGELY FAILED    | oral tenancies poorly recorded, evasion",
+            "CEILING     | LARGELY FAILED    | targeted the state's own political base"
+          ],
+          "source_references": [
+            "Land reform disaggregated",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bhoodan: gesture, not structural reform",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "MOVEMENT -> Bhoodan, led by Vinoba Bhave",
+            "BEGAN -> Pochampalli, 1951",
+            "METHOD -> voluntary land donation",
+            "LIMIT -> much donated land never effectively distributed; no structural reform"
+          ],
+          "source_references": [
+            "Bhoodan and its limits",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The Green Revolution's contested verdict",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CHANDRA'S READING -> diffusion to rice regions; scale-neutral technology",
+            "CRITICS' READING -> unequal access, regional lag, ecological cost",
+            "INITIAL CONCENTRATION -> Punjab, Haryana, western UP; wheat; mid-1960s",
+            "RULE -> state BOTH readings; do not assert either alone as settled"
+          ],
+          "source_references": [
+            "The Green Revolution debate",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Agrarian struggle: three moments, three classes",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TELANGANA (1946-47) -> landless and tenant struggle, at the moment of transfer",
+            "NAXALBARI (1967) -> launches Naxalite movement; CPI(ML) formed 1969",
+            "1980s FARMERS' MOVEMENTS -> Nasik (1980), Sisauli (1986); market demands",
+            "CLASS SHIFT -> from landless struggle to surplus-farmer market demands"
+          ],
+          "source_references": [
+            "Agrarian struggle across three moments",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Law-versus-society: caste, gender and communalism",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CASTE -> untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990",
+            "GENDER -> Hindu Code Bill (four Acts); women's movement, 1970s-90s",
+            "COMMUNALISM -> revived from the 1960s; endemic after the late 1970s; an ideology",
+            "COMMON PATTERN -> formal rights reform began early; social transformation lags"
+          ],
+          "source_references": [
+            "The law-versus-society gap across caste, gender and communalism",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The synthesis engine: state capacity to political organisation",
+          "structural_type": "flow",
+          "ascii_lines": [
+            "STATE CAPACITY inherited from the colonial order",
+            "   -> deployed for planning and heavy industry (achieved)",
+            "   -> withheld from rural property (tenancy/ceiling reform fails)",
+            "   -> technology substituted for reform in agriculture (Green Revolution)",
+            "   -> formal rights reform began; enforcement lags; excluded groups organise"
+          ],
+          "source_references": [
+            "The synthesis engine",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Thread 1: self-reliance's changing content, 1905-1991",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SWADESHI (1905) -> boycott + indigenous enterprise",
+            "GANDHIAN (1920-47) -> khadi, moral self-reliance",
+            "PLANNING (1948-66) -> capital-goods capacity, IPR/Mahalanobis",
+            "1991 ONWARD -> self-reliance redefined as competitiveness"
+          ],
+          "source_references": [
+            "Thread 1: the changing content of self-reliance",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Thread 2: agrarian distress and regime change",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MOMENT     | DISTRESS                  | OUTCOME",
+            "1857       | taluqdar dispossession    | Revolt; taluqdars later restored",
+            "1967       | two harvest failures      | Congress loses eight states",
+            "1975-77    | drought, oil shock        | JP movement, Emergency, 1977 defeat"
+          ],
+          "source_references": [
+            "Thread 2: agrarian distress and regime change",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Institutions in decay, democracy enduring",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "PARLIAMENT -> declining role from the late 1960s",
+            "CABINET -> eroded by a dominant PMO, from 1969",
+            "DEFECTION -> routine floor-crossing, curbed only by the 1985 Anti-Defection Act",
+            "YET -> democracy itself survived and deepened through this institutional decay",
+            "CLOSE DISTINCTION: Land reform must be disaggregated; Green Revolution output gains do not",
+            "  settle distributional or ecological debate; and the proposed Hindu Code became the Hindu",
+            "  Marriage Act 1955 plus three 1956 Acts, which expanded women's rights within Hindu personal",
+            "  law but did not create complete legal or social equality."
+          ],
+          "source_references": [
+            "Institutional decay amid democratic survival",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "PYQ reconciliation: 9 routed demands, three categories",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "9 ROUTED PRELIMS DEMANDS in this owner's local ledgers",
+            "CATEGORY 1 -> 7 current-affairs routing artefacts (NOT history; not answered)",
+            "CATEGORY 2 -> 1 covered history demand: land-reforms legislation, 2019",
+            "CATEGORY 3 -> 1 bounded gap: Hind Mazdoor Sabha founders, 1948, unattested",
+            "EVIDENCE LIMIT: Plan and land records, regional agrarian evidence, attributed Chandra and",
+            "  critical Green Revolution readings, India Code statutes and movement histories must support",
+            "  a graded verdict: state capacity transformed production and representation more consistently",
+            "  than property, equality or implementation."
+          ],
+          "source_references": [
+            "The PYQ reconciliation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Verdict scaffolds: three graded readings",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "MODEL VERDICT -> planning built the economy India needed; 1991 corrected it",
+            "LAND VERDICT -> reform worked as far as the state's political base allowed",
+            "SYNTHESIS VERDICT -> economy and politics transformed; social hierarchy least",
+            "USE -> pick the verdict matching the question's specific demand"
+          ],
+          "source_references": [
+            "Verdict scaffolds for synthesis answers",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

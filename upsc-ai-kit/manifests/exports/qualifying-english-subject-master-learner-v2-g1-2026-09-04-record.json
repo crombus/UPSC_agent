@@ -1,0 +1,40 @@
+{
+  "record_id": "qualifying-english-subject-master:learner-v2:g1",
+  "topic_key": "qualifying-english-subject-master",
+  "subject": "Qualifying-English",
+  "section": "Subject-Wide-Package",
+  "title": "UPSC Qualifying English Complete Skills Package",
+  "variant": "learner-v2",
+  "generation": 1,
+  "command": "Generate Qualifying-English subject-wide skills package",
+  "main_pdf": "notes\\Qualifying-English\\Subject-Wide-Package\\g1\\Qualifying-English_Complete-Skills-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Qualifying-English\\Subject-Wide-Package\\g1\\Qualifying-English_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Qualifying-English\\Subject-Wide-Package\\g1\\Qualifying-English_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Complete-Skills-Guide.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Workbook.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "format": {
+    "name": "qualifying-language-subject-package-v1",
+    "learning_sessions": 0,
+    "guide_source_sections": 12,
+    "practice_papers": 3,
+    "matching_solution_keys": 3,
+    "guide_pages": 34,
+    "workbook_pages": 11,
+    "solutions_pages": 11,
+    "empty_pdf_pages": 0
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "qualifying-english-subject-master:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "tools/publish_language_master_packages.py"
+  },
+  "refresh_profile": "qualifying-language-subject-package-v1"
+}

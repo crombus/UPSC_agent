@@ -1,0 +1,645 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-28",
+  "record_id": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g2",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+  "topic_title": "Caste Discrimination: Gandhi and Ambedkar",
+  "variant": "learner-v2",
+  "generation": 2,
+  "approval": false,
+  "canonical_sequence_number": 10,
+  "official_syllabus_verbatim": "Caste Discrimination: Gandhi and Ambedkar.",
+  "topic_adapter": "tools\\philosophy_socio_political_caste_gandhi_ambedkar_v2_spec.py",
+  "sources": {
+    "hashes": {
+      "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md": "d098a77948abd61630fb97707fdc324316b14760a237cd1a85c28a4e7ba17247",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184"
+    },
+    "verified_pyq_owner_count": 9,
+    "source_audit": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\source-audit.json"
+  },
+  "content_validation": {
+    "core_session_count": 10,
+    "advanced_session_count": 4,
+    "answer_grabbing_line_count": 10,
+    "verified_pyq_count": 9,
+    "mcq_count": 48,
+    "original_mains_practice_count": 3,
+    "deep_quality_status": "pass",
+    "deep_quality_severity_counts": {
+      "blocker": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "required_h2_order": [
+      "BASIC LEARNING SESSION",
+      "BASIC MCQS / REMEDIATION",
+      "PYQS AND ANSWER PRACTICE",
+      "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+      "CONSOLIDATED REGISTER NOTES"
+    ],
+    "register_notes_last": true,
+    "session_navigation": "SESSION N only; no Progress X/Y labels",
+    "core_syllabus_complete_without_advanced": true,
+    "advanced_optional_and_separated": true,
+    "verified_pyq_wording": "passed",
+    "mcq_rotation": "A->B->C->D",
+    "mcq_answer_text_key_consistency": "passed",
+    "workbook_distinct": true,
+    "english_first": true
+  },
+  "deliverables": {
+    "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook.md",
+    "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+    "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook_2026-08-28.pdf",
+    "concept_visual": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\assets\\philosophy-paper-ii-socio-political-philosophy-10\\caste-gandhi-ambedkar-map.png",
+    "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-2026-08-28.json",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-10-g2.json",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-10-g2.json",
+    "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2",
+    "ascii_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+    "hashes": {
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf": "82afdd54d7db41ce54270de81f999489c5203b600002106ac1076fb23842e33f",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.txt": "649607903c90745ba6e3f538eda0291480b5576b08780524e612c8f572bfd61c",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\build-audit.json": "9f59ba7e9ba4986068bdc181b43437d111e5fc33cf6c311fede4198e6e94f814",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\editable\\topic-spec.json": "06654cfc24c0aac43895b4a5cd384614d28ef0d942c013faac3476e8ed53310f",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\master.png": "f88a71123a6488bcf03d14aa5e80ef66eae4adeb4ac1bb2c5cae83b3d82196bc",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\poster.pdf": "065c99e51f08bd8ac8304eb959fe8d6071e3305647f19789882812067d37f3e7",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\preservation-hashes.json": "a0b1996b16f920a447fecf6b8c44434195f07679890b0b4861dd598cfe859be9",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\contact-sheet-01.png": "65dee4feb5cde9d5b592fec0ee9c1f29c6d7af5f17edf5ffc546ef67b5034398",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\master-overview.png": "ef80b116a09f8a37d08af35d54747a89f4a0665155deee18f8092f3cf7a7f411",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\page-001.png": "bb593b08b42fb4c95ae496890141ae3c5cb00402c12677ec0e4c17aad57392d6",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\page-002.png": "48bcdcdde98482378ab5611888dcbeb36fa5835c326dfee29836623d1af458f6",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\page-003.png": "1e245f192cfb14b4deb1cfe9743b33e74bee6c83eb4a30c3839a196f8298abfc",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\page-004.png": "3ba425d943a07f09f8dbbe9cfdea43a11ba8d7cae2aadfd75cb08f28386abe44",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\README.txt": "c214f96e114a190088be83f963be5edaa987c85cba3e9bc192bf0e3a828cca76",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\tiled.pdf": "7cd060bd701ce7cfe447e3c39d168fbfb4a809ab814e8a20a8f043e2d9a7aa7b",
+      "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\validation-report.txt": "e153500c37734b50548aba361ec4df8bf319f1974c61a8d4598127280a8fae80",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf": "3bef6206b0a0cebef35502ff2d1037f5a6bc34cd4bb09356583518da3d9f5e20",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\main-visual-audit-map.json": "32db0e86d076431a2a923fe00ddf4839c36a4bfc59d85df444b8d5613b90c975",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\ascii-contact-01.png": "b982d7e5101d77f9dde14f53021a1ee3e7d39d3e35842ed8d4f90f8a7fd9cb64",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\ascii-contact-02.png": "e9f1ac02af9ec76d9ee7dade60bc8d430917e09c2590cc1d52d75587e7533901",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\graphical-contact-01.png": "9529e010ae108df8eacf5fdad0e4956135c359460c53c15465d49e5ac60d35ba",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\inspection-manifest.json": "cfb3cc7ba83f9f784e25e07472232cc944f979a1e3b6eacfeecb7bccdfae1d98",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-01.png": "75f915d7a10ea477c95074416dc5a53071cac94acaff795914073e9f27d82f1b",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-02.png": "50c6f7535ae64b691d08ab248a74db86f074469a228a7859770356ee9b7d6846",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-03.png": "820749c07232a72f65afeb6a702f80f9f61dee6de2d4ca1549618df8d09e3ce0",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-04.png": "ad073f6369db3184b5df057fe93c75418800591048fcfbdc549a20c846ea1464",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-05.png": "bbabaee5b4e088fed0a2147986960d50f027122e4250e33a535e210f2cdd0787",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-06.png": "66e8c7e8a616cf2f61e244ab2334d9c78c20b85489e77371c204c7bf1e5f76a9",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-07.png": "3ecde409f2b4c053969a084e76d804c7a878dbd43c840290247b9aaea900ca3b",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-08.png": "9a8a49b7184cb764d255a8add5bb05b099dca4b80003381c2a59cfd01241c295",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-09.png": "214c0e79f81cb2666d45ccfa184429e10d1712ed34818bbb82a070263a1d7f0b",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-10.png": "adab7535da19f6f7cf6e55b7e18d2a726eaa3a58984f0f40488c900fbeff1a57",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\workbook-contact-01.png": "a17bd83ba797f9eb4254d239298bba50a1a65d6bf93af188ec1818ae0ddff4c4",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\workbook-contact-02.png": "0a68f2e256bedbea63437c24dc8f4954b884f69a9a55ec3b60c2f30ebc92d9c3",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\workbook-contact-03.png": "57de4b5de52e8428d96e4cbf415258e0270a097e61e889b1a34be5acf0d41ccf",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\source-audit.json": "099a8c75546c388d27081e68b9b18bd8dbd7a2e79d541282b9582ed3b596c953",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\workbook-visual-audit-map.json": "9fb4d15db6d2ba814c28b0478acbd9bb1dd670b786a2ae897a9b77dda0e42e7d",
+      "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook_2026-08-28.pdf": "d9763b5029a7991f5b08e926b84775110352c3625bd21edffeaf4b5e8d3a320b",
+      "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\assets\\philosophy-paper-ii-socio-political-philosophy-10\\caste-gandhi-ambedkar-map.png": "2b3733159e65a9f927d7410552fe117cf3d18e30b6ed47861c78d59aa8cfcb6f",
+      "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session.md": "e837fc9ed82a9c954a67f2a8ea49bf48c4982d60df8995bddb599b6590c3875b",
+      "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook.md": "9a9f792f079f0c8c762522372f695cb31fffe956c4a4dd51e5f92dd3aafdfa89",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-2026-08-28.json": "32cc1f79cc0be8ebc930257632d2c4c63a1605352d09fec7853d3cd0d93c05b6",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-10-g2.json": "ed028a7bb01564bed10d39e7a1e88b20a91678d68f61cbb473e7d060ebfe4178",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-10-g2.json": "06654cfc24c0aac43895b4a5cd384614d28ef0d942c013faac3476e8ed53310f"
+    }
+  },
+  "pdf_validation": {
+    "main": {
+      "pages": 55,
+      "bookmarks": 35,
+      "replacement_glyphs": 0,
+      "blank_pages": []
+    },
+    "workbook": {
+      "pages": 16,
+      "bookmarks": 6,
+      "replacement_glyphs": 0,
+      "blank_pages": []
+    },
+    "main_layout": {
+      "page_count": 55,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 16,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "master_flow_validation": {
+    "ascii_panel_count": 12,
+    "embedded_spec_equality": "passed",
+    "standalone_spec_equality": "passed",
+    "ascii_pdf": {
+      "passed": true,
+      "errors": [],
+      "text_panel_count": 12,
+      "pdf_panel_count": 12,
+      "pdf_page_count": 12,
+      "normalized_equal": true,
+      "blank_pages": [],
+      "replacement_glyph_pages": [],
+      "clipped_pages": [],
+      "page_metrics": [
+        {
+          "page": 1,
+          "line_count": 7,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 2,
+          "line_count": 6,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 3,
+          "line_count": 5,
+          "maximum_line_characters": 71,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 4,
+          "line_count": 6,
+          "maximum_line_characters": 72,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 5,
+          "line_count": 6,
+          "maximum_line_characters": 74,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 6,
+          "line_count": 5,
+          "maximum_line_characters": 62,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 7,
+          "line_count": 5,
+          "maximum_line_characters": 75,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 8,
+          "line_count": 6,
+          "maximum_line_characters": 70,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 9,
+          "line_count": 6,
+          "maximum_line_characters": 70,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 10,
+          "line_count": 6,
+          "maximum_line_characters": 83,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 11,
+          "line_count": 6,
+          "maximum_line_characters": 91,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        },
+        {
+          "page": 12,
+          "line_count": 7,
+          "maximum_line_characters": 76,
+          "font_size_points": 10.5,
+          "page_size_points": [
+            841.89,
+            595.28
+          ],
+          "header_body_gap_points": 18.18
+        }
+      ],
+      "minimum_font_size_points": 10.5,
+      "header_body_collision_check": "passed"
+    },
+    "graphical_metadata": {
+      "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2",
+      "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\master.png",
+      "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\poster.pdf",
+      "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\tiled.pdf",
+      "editable": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\editable",
+      "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-10-g2.json",
+      "graphical_spec_sha256": "06654cfc24c0aac43895b4a5cd384614d28ef0d942c013faac3476e8ed53310f",
+      "renderer": {
+        "name": "carvaka-continuous-at-a-glance-graphical-v2",
+        "version": "2.0"
+      },
+      "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+      "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+      "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews",
+      "contact_sheets": [
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\contact-sheet-01.png"
+      ],
+      "master_overview": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\previews\\master-overview.png",
+      "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\validation-report.txt",
+      "build_audit": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\build-audit.json",
+      "preservation_hashes": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\preservation-hashes.json",
+      "ascii_master": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.txt",
+      "ascii_master_preserved": true,
+      "core_stage_count": 12,
+      "card_count": 13,
+      "tiled_page_count": 4,
+      "approval": false,
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-2026-08-28.json",
+      "ascii_master_spec_sha256": "32cc1f79cc0be8ebc930257632d2c4c63a1605352d09fec7853d3cd0d93c05b6",
+      "ascii_master_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+      "ascii_master_source": "manual-authored-caste-gandhi-ambedkar-twelve-panel-spec"
+    },
+    "graphical_validation_errors": []
+  },
+  "rendered_visual_inspection": {
+    "state": "generated and inspected",
+    "contact_sheets": [
+      {
+        "label": "main",
+        "sheet": 1,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-01.png"
+      },
+      {
+        "label": "main",
+        "sheet": 2,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-02.png"
+      },
+      {
+        "label": "main",
+        "sheet": 3,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-03.png"
+      },
+      {
+        "label": "main",
+        "sheet": 4,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-04.png"
+      },
+      {
+        "label": "main",
+        "sheet": 5,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-05.png"
+      },
+      {
+        "label": "main",
+        "sheet": 6,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-06.png"
+      },
+      {
+        "label": "main",
+        "sheet": 7,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-07.png"
+      },
+      {
+        "label": "main",
+        "sheet": 8,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-08.png"
+      },
+      {
+        "label": "main",
+        "sheet": 9,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-09.png"
+      },
+      {
+        "label": "main",
+        "sheet": 10,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session_2026-08-28.pdf",
+        "pages": [
+          55
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\main-contact-10.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 1,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook_2026-08-28.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\workbook-contact-01.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 2,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook_2026-08-28.pdf",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\workbook-contact-02.png"
+      },
+      {
+        "label": "workbook",
+        "sheet": 3,
+        "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-10_Solved-Workbook_2026-08-28.pdf",
+        "pages": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\workbook-contact-03.png"
+      },
+      {
+        "label": "ascii",
+        "sheet": 1,
+        "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\ascii-contact-01.png"
+      },
+      {
+        "label": "ascii",
+        "sheet": 2,
+        "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\ascii-contact-02.png"
+      },
+      {
+        "label": "graphical",
+        "sheet": 1,
+        "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-10\\continuous-at-a-glance-english-first-g2\\tiled.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "image": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-10\\g2\\rendered-inspection\\graphical-contact-01.png"
+      }
+    ],
+    "graphical_tiled_pages": [
+      {
+        "page": 1,
+        "y_start": 0,
+        "y_end": 3234,
+        "height": 3234,
+        "overlap_px": 0,
+        "from_stage": "00",
+        "continues_stage": "03",
+        "crop_sha256": "5c464d5b3408bd4a6578b38e59ead270bbf8dbe1a01bbe239bce161dbe18471a"
+      },
+      {
+        "page": 2,
+        "y_start": 2725,
+        "y_end": 5959,
+        "height": 3234,
+        "overlap_px": 509,
+        "from_stage": "02",
+        "continues_stage": "06",
+        "crop_sha256": "b8ddd5c72b08c05317a7ee3b094e4ed38dea93cf2fef70918f2a43c63605275a"
+      },
+      {
+        "page": 3,
+        "y_start": 5451,
+        "y_end": 8685,
+        "height": 3234,
+        "overlap_px": 508,
+        "from_stage": "05",
+        "continues_stage": "09",
+        "crop_sha256": "b66c2d7949695efff5acfa680a60e11e07648754f2c495c56df05629de56e58e"
+      },
+      {
+        "page": 4,
+        "y_start": 8176,
+        "y_end": 11410,
+        "height": 3234,
+        "overlap_px": 509,
+        "from_stage": "09",
+        "continues_stage": "E",
+        "crop_sha256": "c4429c93f6a0fc4d363e04e97f410947c64d2cd46260378ed799595a508204ea"
+      }
+    ]
+  },
+  "publication": {
+    "requested": true,
+    "commands": [
+      {
+        "description": "Finalize learner-v2 topic",
+        "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\finalize_v2_topic.py --repository-root C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent --manifest C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy.json --record-file C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g2-2026-08-28-record.json",
+        "returncode": 0,
+        "output_tail": [
+          "Index saved: C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\EXPORT-PDF-COMMAND-INDEX.md",
+          "Commands: 516",
+          "Finalized philosophy-paper-ii-socio-political-philosophy-10 / learner-v2 / g2; approval was preserved exactly as supplied."
+        ]
+      },
+      {
+        "description": "Refresh topic catalogue and V2 command guide",
+        "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\generate_v2_topic_command_catalog.py --repository-root C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent --guide",
+        "returncode": 0,
+        "output_tail": [
+          "catalogue: upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+          "{\"ambiguous_or_unresolved_entries\": 0, \"duplicate_commands\": 0, \"duplicate_topic_keys\": 0, \"sections\": 27, \"source_ready_topics\": 516, \"subjects\": 23, \"topics\": 516}",
+          "command_guide: V2-SUBJECT-SECTION-COMMAND-INDEX.md"
+        ]
+      },
+      {
+        "description": "Refresh Philosophy and master learning-session indexes",
+        "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\generate_learning_session_command_indexes.py",
+        "returncode": 0,
+        "output_tail": [
+          "Generated 23 subject indexes and one master index."
+        ]
+      }
+    ],
+    "state_verification": {
+      "manifest_topic_count": 10,
+      "topic_number": 10,
+      "topic_state": "generated",
+      "approval": "pending explicit topic approval",
+      "validation": "passed",
+      "earlier_states": [
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated",
+        "generated"
+      ],
+      "later_states": [],
+      "catalog_consistent": true,
+      "command_index_consistent": true
+    }
+  },
+  "changed_files_manifest": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g2-2026-08-28-changed-files.txt"
+}

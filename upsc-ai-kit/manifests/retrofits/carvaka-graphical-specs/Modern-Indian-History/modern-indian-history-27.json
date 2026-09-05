@@ -1,0 +1,1118 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-27",
+  "subject": "Modern-Indian-History",
+  "title": "INDEPENDENCE & PARTITION (1946–1947)",
+  "short_route": "CABINET MISSION ATTEMPTED UNITY → DIRECT ACTION DAY: CALL → VIOLENCE OF 1946-47 WITHOUT → TWO ATTLEE STATEMENTS, ONE → MOUNTBATTEN AND THE ACCELERATED → 3 JUNE PLAN: A",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-27_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-26-27-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "f313038766bb24646457368ce882a541fcd25795190231a968ff93c3b4917167",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CABINET MISSION ATTEMPTED UNITY",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CABINET MISSION ATTEMPTED UNITY",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET MISSION 1946",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITY ATTEMPT, NOT A PARTITION INSTRUMENT",
+          "role": "caution"
+        },
+        {
+          "text": "A SOVEREIGN PAKISTAN",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION + GROUPS OF PROVINCES + PROVINCES (WEAK CENTRE)",
+          "role": "primary"
+        },
+        {
+          "text": "ACCEPTED (IN SOME FORM)",
+          "role": "outcome"
+        },
+        {
+          "text": "BY BOTH PARTIES IN JUNE AND JULY 1946",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOMPATIBLE READINGS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CABINET MISSION 1946 → UNITY ATTEMPT, NOT A PARTITION INSTRUMENT",
+        "REJECTED → a sovereign Pakistan",
+        "PROPOSED → Union + groups of provinces + provinces (weak centre)",
+        "ACCEPTED (in some form) → by both parties in June and July 1946",
+        "COLLAPSE → incompatible readings → withdrawal → loss of trust → Partition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CABINET MISSION 1946 → UNITY ATTEMPT, NOT A PARTITION INSTRUMENT",
+            "REJECTED → a sovereign Pakistan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROPOSED → Union + groups of provinces + provinces (weak centre)",
+            "ACCEPTED (in some form) → by both parties in June and July 1946"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COLLAPSE → incompatible readings → withdrawal → loss of trust → Partition",
+            "RULE → the Mission is where unity was last available, not where it ended."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the Mission is where unity was last available, not where it ended.",
+      "source_references": [
+        "The Cabinet Mission attempted unity and did not partition India"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DIRECT ACTION DAY: CALL, KILLINGS, CONSEQUENCES",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DIRECT ACTION DAY",
+          "role": "primary"
+        },
+        {
+          "text": "CALL, KILLINGS, CONSEQUENCES",
+          "role": "outcome"
+        },
+        {
+          "text": "16 AUG 1946",
+          "role": "comparison"
+        },
+        {
+          "text": "THREE SEPARABLE THINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL CALL",
+          "role": "primary"
+        },
+        {
+          "text": "MUSLIM LEAGUE, AFTER DEADLOCK AND ITS OWN WITHDRAWAL",
+          "role": "outcome"
+        },
+        {
+          "text": "MASS KILLINGS REMEMBERED AS THE GREAT CALCUTTA KILLINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER REGIONAL VIOLENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "16 AUG 1946 → DIRECT ACTION DAY → three separable things",
+        "POLITICAL CALL → Muslim League, after deadlock and its own withdrawal",
+        "CALCUTTA → mass killings remembered as the Great Calcutta Killings",
+        "LATER REGIONAL VIOLENCE → separate local actors, triggers and sequences",
+        "ORDER → Direct Action precedes the Congress-only Interim Government (2 Sep 1946)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "16 AUG 1946 → DIRECT ACTION DAY → three separable things",
+            "POLITICAL CALL → Muslim League, after deadlock and its own withdrawal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CALCUTTA → mass killings remembered as the Great Calcutta Killings",
+            "LATER REGIONAL VIOLENCE → separate local actors, triggers and sequences"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORDER → Direct Action precedes the Congress-only Interim Government (2 Sep 1946)",
+            "RULE → separate call, killings and spread; assign agency to actors, not communities."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → separate call, killings and spread; assign agency to actors, not communities.",
+      "source_references": [
+        "Direct Action Day, 16 August 1946: call, killings and consequences"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "VIOLENCE OF 1946-47 WITHOUT COLLECTIVE GUILT",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VIOLENCE OF 1946-47 WITHOUT COLLECTIVE GUILT",
+          "role": "primary"
+        },
+        {
+          "text": "1946-47 VIOLENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RECIPROCAL WAVES, REGIONALLY SPECIFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "PUNJAB (EACH WITH ITS OWN ACTORS AND TRIGGERS)",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISATIONS, ARMED BANDS, RUMOUR, COLLAPSE OF POLICING",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL SPLIT",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB AND BENGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TERRITORIAL DIVISION AND MASS VIOLENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1946-47 VIOLENCE → reciprocal waves, regionally specific",
+        "NOAKHALI → BIHAR → PUNJAB (each with its own actors and triggers)",
+        "DRIVERS → organisations, armed bands, rumour, collapse of policing",
+        "REGIONAL SPLIT → Punjab and Bengal: territorial division and mass violence",
+        "elsewhere: political settlement and a minority question"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1946-47 VIOLENCE → reciprocal waves, regionally specific",
+            "NOAKHALI → BIHAR → PUNJAB (each with its own actors and triggers)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIVERS → organisations, armed bands, rumour, collapse of policing",
+            "REGIONAL SPLIT → Punjab and Bengal: territorial division and mass violence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "elsewhere: political settlement and a minority question",
+            "RULE → agency belongs to organisations and leaderships, never to whole communities."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → agency belongs to organisations and leaderships, never to whole communities.",
+      "source_references": [
+        "The spread of violence in 1946-47 without collective guilt"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWO ATTLEE STATEMENTS, ONE DEADLINE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO ATTLEE STATEMENTS, ONE DEADLINE",
+          "role": "primary"
+        },
+        {
+          "text": "TWO ATTLEE STATEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT CONFLATE",
+          "role": "caution"
+        },
+        {
+          "text": "15 MAR 1946",
+          "role": "evidence"
+        },
+        {
+          "text": "\"A MINORITY WILL NOT BE ALLOWED TO PLACE A",
+          "role": "caution"
+        },
+        {
+          "text": "20 FEB 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFER TO RESPONSIBLE INDIAN HANDS, NOT LATER THAN JUNE",
+          "role": "caution"
+        },
+        {
+          "text": "A PUBLISHED OUTER LIMIT CONVERTS NEGOTIATION INTO A RACE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TWO ATTLEE STATEMENTS → do not conflate",
+        "15 MAR 1946 → \"a minority will not be allowed to place a veto\" →",
+        "20 FEB 1947 → transfer to responsible Indian hands, not later than June 1948",
+        "EFFECT → a published outer limit converts negotiation into a race against a date",
+        "RULE → one is about the veto, the other is about the deadline."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TWO ATTLEE STATEMENTS → do not conflate",
+          "20 FEB 1947 → transfer to responsible Indian hands, not later than June 1948",
+          "RULE → one is about the veto, the other is about the deadline."
+        ],
+        [
+          "15 MAR 1946 → \"a minority will not be allowed to place a veto\" → pre-Mission",
+          "EFFECT → a published outer limit converts negotiation into a race against a date",
+          "TWO ATTLEE STATEMENTS → do not conflate"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TWO ATTLEE STATEMENTS → do not conflate",
+            "15 MAR 1946 → \"a minority will not be allowed to place a veto\" → pre-Mission"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "20 FEB 1947 → transfer to responsible Indian hands, not later than June 1948",
+            "EFFECT → a published outer limit converts negotiation into a race against a date"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one is about the veto, the other is about the deadline.",
+            "TWO ATTLEE STATEMENTS → do not conflate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one is about the veto, the other is about the deadline.",
+      "source_references": [
+        "Attlee's statement of 20 February 1947 and the June 1948 deadline"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MOUNTBATTEN AND THE ACCELERATED TIMETABLE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MOUNTBATTEN AND THE ACCELERATED TIMETABLE",
+          "role": "primary"
+        },
+        {
+          "text": "MAR 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "MOUNTBATTEN ARRIVES AS LAST VICEROY",
+          "role": "comparison"
+        },
+        {
+          "text": "JUNE 1948 OUTER LIMIT COMPRESSED TO AUGUST 1947",
+          "role": "caution"
+        },
+        {
+          "text": "ADMINISTRATIVE, MILITARY AND BOUNDARY ARRANGEMENTS LEFT INCOMPLETE",
+          "role": "primary"
+        },
+        {
+          "text": "ANALYTICAL PLACE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLAINS EXECUTION AND DISORDER, NOT THE CHOICE TO PARTITION",
+          "role": "caution"
+        },
+        {
+          "text": "HASTE BELONGS IN CONSEQUENCES, NOT IN CAUSES.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAR 1947 → MOUNTBATTEN ARRIVES AS LAST VICEROY",
+        "DEADLINE → June 1948 outer limit compressed to August 1947",
+        "CONSEQUENCE → administrative, military and boundary arrangements left incomplete",
+        "ANALYTICAL PLACE → explains execution and disorder, not the choice to partition",
+        "RULE → haste belongs in consequences, not in causes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MAR 1947 → MOUNTBATTEN ARRIVES AS LAST VICEROY",
+            "DEADLINE → June 1948 outer limit compressed to August 1947"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → administrative, military and boundary arrangements left incomplete",
+            "ANALYTICAL PLACE → explains execution and disorder, not the choice to partition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → haste belongs in consequences, not in causes.",
+            "MAR 1947 → MOUNTBATTEN ARRIVES AS LAST VICEROY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → haste belongs in consequences, not in causes.",
+      "source_references": [
+        "Mountbatten as last Viceroy and the accelerated timetable"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "3 JUNE PLAN: A POLITICAL PLAN, NOT AN ACT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "3 JUNE PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "A POLITICAL PLAN, NOT AN ACT",
+          "role": "caution"
+        },
+        {
+          "text": "3 JUNE 1947",
+          "role": "comparison"
+        },
+        {
+          "text": "MOUNTBATTEN PLAN",
+          "role": "evidence"
+        },
+        {
+          "text": "A POLITICAL PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "PARTITION IN PRINCIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVIDES FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DIVISION OF PUNJAB AND BENGAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "3 JUNE 1947 → MOUNTBATTEN PLAN → a POLITICAL plan",
+        "ACCEPTS → Partition in principle",
+        "PROVIDES FOR → division of Punjab and Bengal",
+        "→ referendums in the North-West Frontier Province and Sylhet",
+        "→ boundary commissions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "3 JUNE 1947 → MOUNTBATTEN PLAN → a POLITICAL plan",
+            "ACCEPTS → Partition in principle",
+            "PROVIDES FOR → division of Punjab and Bengal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "→ referendums in the North-West Frontier Province and Sylhet",
+            "→ boundary commissions",
+            "LIMIT → not an Act of Parliament; transfers no power by itself"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → the political decision precedes the legal enactment of July 1947."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the political decision precedes the legal enactment of July 1947.",
+      "source_references": [
+        "The 3 June Plan as a political plan, not an Act"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THREE PARTITION MECHANISMS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE PARTITION MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "HOW PARTITION WAS CARRIED OUT",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE DIFFERENT PROCEDURES",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSEMBLY VOTES",
+          "role": "institution"
+        },
+        {
+          "text": "PUNJAB AND BENGAL, BY THE TWO NOTIONAL HALVES OF",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-WEST FRONTIER PROVINCE AND SYLHET DISTRICT OF ASSAM",
+          "role": "outcome"
+        },
+        {
+          "text": "→ BOTH RESULTS TOOK THEM INTO PAKISTAN",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY COMMISSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOW PARTITION WAS CARRIED OUT → three different procedures",
+        "ASSEMBLY VOTES → Punjab and Bengal, by the two notional halves of each assembly",
+        "REFERENDUMS → North-West Frontier Province and Sylhet district of Assam",
+        "→ both results took them into Pakistan",
+        "BOUNDARY COMMISSIONS → technical line-drawing, separate from both routes"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HOW PARTITION WAS CARRIED OUT → three different procedures",
+          "REFERENDUMS → North-West Frontier Province and Sylhet district of Assam",
+          "BOUNDARY COMMISSIONS → technical line-drawing, separate from both routes"
+        ],
+        [
+          "ASSEMBLY VOTES → Punjab and Bengal, by the two notional halves of each assembly",
+          "→ both results took them into Pakistan",
+          "RULE → match the province to its mechanism; never swap them."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOW PARTITION WAS CARRIED OUT → three different procedures",
+            "ASSEMBLY VOTES → Punjab and Bengal, by the two notional halves of each assembly"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFERENDUMS → North-West Frontier Province and Sylhet district of Assam",
+            "→ both results took them into Pakistan"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY COMMISSIONS → technical line-drawing, separate from both routes",
+            "RULE → match the province to its mechanism; never swap them."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → match the province to its mechanism; never swap them.",
+      "source_references": [
+        "Three partition mechanisms: assembly votes, referendums, commissions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIAN INDEPENDENCE ACT: ASSENT AND COMMENCEMENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIAN INDEPENDENCE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "ASSENT AND COMMENCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE LEGAL ENACTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL ASSENT",
+          "role": "evidence"
+        },
+        {
+          "text": "18 JULY 1947 (WESTMINSTER)",
+          "role": "primary"
+        },
+        {
+          "text": "TWO DOMINIONS, INDIA AND PAKISTAN, FROM 15 AUGUST 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "ALSO PROVIDES",
+          "role": "comparison"
+        },
+        {
+          "text": "LAPSE OF BRITISH PARAMOUNTCY OVER THE PRINCELY STATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN INDEPENDENCE ACT → the LEGAL enactment",
+        "ROYAL ASSENT → 18 July 1947 (Westminster)",
+        "COMMENCEMENT → two dominions, India and Pakistan, from 15 August 1947",
+        "ALSO PROVIDES → lapse of British paramountcy over the princely states",
+        "SEQUENCE → 3 June political plan → 18 July assent → 15 August commencement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIAN INDEPENDENCE ACT → the LEGAL enactment",
+            "ROYAL ASSENT → 18 July 1947 (Westminster)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMENCEMENT → two dominions, India and Pakistan, from 15 August 1947",
+            "ALSO PROVIDES → lapse of British paramountcy over the princely states"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEQUENCE → 3 June political plan → 18 July assent → 15 August commencement",
+            "RULE → assent and commencement are separate legal events."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → assent and commencement are separate legal events.",
+      "source_references": [
+        "The Indian Independence Act: Royal Assent and commencement"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STATUTORY COMMENCEMENT VERSUS COMMEMORATIVE OBSERVANCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUTORY COMMENCEMENT VERSUS COMMEMORATIVE OBSERVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT THE STATUTE SAYS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT COMMEMORATION SAYS BOTH DOMINIONS CREATED",
+          "role": "comparison"
+        },
+        {
+          "text": "PAKISTAN OBSERVES 14 AUGUST AS ITS NATIONAL DAY FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "CEREMONIES AT KARACHI (14TH) AND DELHI (15TH)",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY COMMENCEMENT IS ONE DATE; COMMEMORATIVE OBSERVANCE IS ANOTHER.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WHAT THE STATUTE SAYS",
+        "WHAT COMMEMORATION SAYS both dominions created",
+        "Pakistan observes 14 August as its national day from 15 August 1947",
+        "ceremonies at Karachi (14th) and Delhi (15th)",
+        "RULE → statutory commencement is one date; commemorative observance is another."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WHAT THE STATUTE SAYS",
+          "Pakistan observes 14 August as its national day from 15 August 1947",
+          "RULE → statutory commencement is one date; commemorative observance is another."
+        ],
+        [
+          "WHAT COMMEMORATION SAYS both dominions created",
+          "ceremonies at Karachi (14th) and Delhi (15th)",
+          "WHAT THE STATUTE SAYS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHAT THE STATUTE SAYS",
+            "WHAT COMMEMORATION SAYS both dominions created"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Pakistan observes 14 August as its national day from 15 August 1947",
+            "ceremonies at Karachi (14th) and Delhi (15th)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → statutory commencement is one date; commemorative observance is another.",
+            "WHAT THE STATUTE SAYS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → statutory commencement is one date; commemorative observance is another.",
+      "source_references": [
+        "14 August and 15 August: what the Act actually provides"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE LAPSE OF PARAMOUNTCY",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE LAPSE OF PARAMOUNTCY",
+          "role": "primary"
+        },
+        {
+          "text": "LAPSED (IT DID NOT TRANSFER)",
+          "role": "caution"
+        },
+        {
+          "text": "NOT INHERITED",
+          "role": "caution"
+        },
+        {
+          "text": "NEITHER DOMINION SUCCEEDED TO SUZERAINTY AUTOMATICALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "EACH STATE'S RELATIONSHIP HAD TO BE CREATED AFRESH",
+          "role": "institution"
+        },
+        {
+          "text": "ACCESSION OR AGREEMENT, NEGOTIATED STATE BY STATE",
+          "role": "institution"
+        },
+        {
+          "text": "\"LAPSED\" IS THE OPERATIVE VERB; \"TRANSFERRED\" IS THE ERROR.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PARAMOUNTCY → LAPSED (it did not transfer)",
+        "NOT INHERITED → neither dominion succeeded to suzerainty automatically",
+        "CONSEQUENCE → each state's relationship had to be created afresh",
+        "ROUTE → accession or agreement, negotiated state by state",
+        "RULE → \"lapsed\" is the operative verb; \"transferred\" is the error."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PARAMOUNTCY → LAPSED (it did not transfer)",
+            "NOT INHERITED → neither dominion succeeded to suzerainty automatically"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → each state's relationship had to be created afresh",
+            "ROUTE → accession or agreement, negotiated state by state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → \"lapsed\" is the operative verb; \"transferred\" is the error.",
+            "PARAMOUNTCY → LAPSED (it did not transfer)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → \"lapsed\" is the operative verb; \"transferred\" is the error.",
+      "source_references": [
+        "The lapse of British paramountcy"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RADCLIFFE: TWO COMMISSIONS, AWARDS OF 17 AUGUST",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWO COMMISSIONS, AWARDS OF 17 AUGUST",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "TWO COMMISSIONS, ONE CHAIRMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "PUNJAB COMMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "BENGAL COMMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "CHAIRED BY CYRIL RADCLIFFE",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL CONGRESS-NOMINATED AND LEAGUE-NOMINATED JUDGES",
+          "role": "comparison"
+        },
+        {
+          "text": "MEMBERS DIVIDE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BOUNDARY MECHANISM → two commissions, one chairman",
+        "PUNJAB COMMISSION",
+        "BENGAL COMMISSION → chaired by Cyril Radcliffe",
+        "COMPOSITION → equal Congress-nominated and League-nominated judges",
+        "DEADLOCK → members divide → decisions fall to the chairman"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOUNDARY MECHANISM → two commissions, one chairman",
+            "PUNJAB COMMISSION",
+            "BENGAL COMMISSION → chaired by Cyril Radcliffe"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPOSITION → equal Congress-nominated and League-nominated judges",
+            "DEADLOCK → members divide → decisions fall to the chairman",
+            "15 AUG 1947 → transfer of power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "17 AUG 1947 → awards published",
+            "CONSEQUENCE → border districts uncertain; violence already under way before the line."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → border districts uncertain; violence already under way before the line.",
+      "source_references": [
+        "Two Radcliffe commissions and the awards of 17 August 1947"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "RESPONSIBILITY, CONTINGENCY AND THE THREE REGISTERS",
+      "structural_type": "balance-sheet",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "RESPONSIBILITY, CONTINGENCY AND THE THREE REGISTERS",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS ACCEPTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RELUCTANT AND PRAGMATIC; DEADLOCK, VIOLENCE, GOVERNABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURE (1909 ONWARDS) + CONTINGENCY (DATED 1946-47 DECISIONS)",
+          "role": "evidence"
+        },
+        {
+          "text": "BRITISH POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "MUSLIM LEAGUE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNAL ORGANISATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MASS FEAR AND REGIONAL DYNAMICS; NO SINGLE VILLAIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONGRESS ACCEPTANCE → reluctant and pragmatic; deadlock, violence, governability",
+        "INEVITABILITY → structure (1909 onwards) + contingency (dated 1946-47 decisions)",
+        "RESPONSIBILITY → British policy",
+        "Muslim League",
+        "communal organisations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS ACCEPTANCE → reluctant and pragmatic; deadlock, violence, governability",
+            "INEVITABILITY → structure (1909 onwards) + contingency (dated 1946-47 decisions)",
+            "RESPONSIBILITY → British policy",
+            "Muslim League"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "communal organisations",
+            "mass fear and regional dynamics; no single villain",
+            "THREE REGISTERS → legal transfer",
+            "political triumph"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "humanitarian catastrophe",
+            "HUMAN COST → displacement around 10 to 15 million (broad estimate); deaths contested",
+            "GANDHI → in Calcutta and Bengal for communal peace, not celebrating in Delhi",
+            "RULE → record all three registers; a one-sided verdict answers only part."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → record all three registers; a one-sided verdict answers only part.",
+      "source_references": [
+        "Congress acceptance of Partition as reluctant pragmatism",
+        "Was Partition inevitable? Cumulative structure and contingency",
+        "Responsibility without a single villain",
+        "Two registers: legal transfer, political triumph, humanitarian catastrophe"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE TREATS PARTITION AS THE TRAGIC",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNALISATION PROCESS INTENSIFIED BY COLONIAL POLICY, LEAGUE SEPARATISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE CABINET MISSION SCHEME FAILED BECAUSE CONGRESS VIEWED INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "WHILE THE LEAGUE SAW COMPULSORY GROUPING AS THE MINIMUM",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT ACTION DAY AND SUBSEQUENT VIOLENCE CONVERTED ELITE CONSTITUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTITION CANNOT BE EXPLAINED BY ONE VILLAIN ALONE",
+          "role": "comparison"
+        },
+        {
+          "text": "IT REQUIRES ANALYSIS OF BRITISH HASTE, LEAGUE INTRANSIGENCE, CONGRESS'S",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence treats Partition as the tragic end of a long",
+            "communalisation process intensified by colonial policy, League separatism and the crisis of transfer.",
+            "The Cabinet Mission scheme failed because Congress viewed India as one sovereign nation-making unit,",
+            "while the League saw compulsory grouping as the minimum safeguard for Muslim-majority zones."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Direct Action Day and subsequent violence converted elite constitutional disagreement into mass fear and retaliatory communal mobilisation.",
+            "CAUTION: Partition cannot be explained by one villain alone",
+            "it requires analysis of British haste, League intransigence, Congress's acceptance, and the accumulated growth of communal ideology.",
+            "Congress leaders accepted Partition reluctantly because they feared a weak centre, continuing"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "communal paralysis and prolonged violence if the Cabinet Mission framework survived unreconciled.",
+            "The 3 June Plan operationalised partition through legislative votes, referendums and boundary commissions.",
+            "The Indian Independence Act created two dominions and allowed princely paramountcy to lapse, creating the next nation-building challenge.",
+            "CAUTION: The human tragedy of Partition lay in the gap between high-political decisions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

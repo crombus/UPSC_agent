@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Indian Society learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-01",
+      "display_title": "Salient Features and Diversity of Indian Society",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\01_Salient-Features-and-Diversity-of-Indian-Society_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Reading Indian diversity",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "AXES -> ethnicity, language, religion, region, caste and tribe",
+            "RELATION -> layered and overlapping, not parallel lists",
+            "TEST -> do the axes cross-cut or reinforce on one household",
+            "OUTCOME -> cohesion or compounded marginality"
+          ],
+          "source_references": [
+            "How to read Indian diversity"
+          ]
+        },
+        {
+          "title": "Four-term distinction",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DIVERSITY -> objective presence of different identities",
+            "PLURALITY -> coexistence with mutual recognition",
+            "DISPARITY -> unequal outcomes between groups or regions",
+            "MARGINALITY -> exclusion from opportunity, resources or voice"
+          ],
+          "source_references": [
+            "Diversity, plurality, disparity and marginality"
+          ]
+        },
+        {
+          "title": "Linguistic layer",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "FAMILIES -> Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman",
+            "RECOGNITION -> Eighth Schedule currently lists 22 languages",
+            "CENSUS 2011 -> 19,500 plus raw returns rationalised to 121 languages",
+            "LIMIT -> the four-family shorthand is not an exhaustive taxonomy"
+          ],
+          "source_references": [
+            "The linguistic layer and its recognition",
+            "Counting language and identity"
+          ]
+        },
+        {
+          "title": "Scale of recognised exclusion",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "CENSUS 2011 -> last completed full count",
+            "SCHEDULED TRIBES -> about 8.6 per cent of population",
+            "SCHEDULED CASTES -> about 16.6 per cent of population",
+            "STATUS -> a stock figure, never a current-year estimate"
+          ],
+          "source_references": [
+            "The scale of recognised historical exclusion"
+          ]
+        },
+        {
+          "title": "Cleavage test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "AXES UNCORRELATED -> cross-cutting, diversity stays plural",
+            "AXES OVERLAP ON ONE GROUP -> reinforcing, diversity compounds",
+            "REINFORCED STACK -> remoteness, low literacy, asset-poverty",
+            "VERDICT -> the correlation is conditional, not universal"
+          ],
+          "source_references": [
+            "Cross-cutting cleavages",
+            "Reinforcing cleavages"
+          ]
+        },
+        {
+          "title": "Integrative mechanisms",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SYNCRETIC IDIOM -> dargahs, Bhakti poets, shared shrines",
+            "FESTIVAL CIRCUIT -> Onam, Bihu and Pongal as composite belonging",
+            "CIVIC SPACE -> schools, markets, elections, public transport",
+            "MIGRATION -> mixed neighbourhoods normalise difference"
+          ],
+          "source_references": [
+            "Syncretism and composite culture",
+            "Everyday civic integration"
+          ]
+        },
+        {
+          "title": "Reinforcing case card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT -> 75 Particularly Vulnerable Tribal Groups",
+            "SPREAD -> 18 States and the UT of Andaman and Nicobar Islands",
+            "LIMIT -> administrative criteria, not a ranking of communities"
+          ],
+          "source_references": [
+            "The sharpest reinforcing case"
+          ]
+        },
+        {
+          "title": "Counter-evidence pair",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DIVERSITY WITHOUT MARGINALITY -> prosperous linguistic-minority traders",
+            "ALSO -> several Sikh and Jain business communities",
+            "MARGINALITY WITHOUT MARKER -> landless dominant-caste labourer",
+            "RULE -> the correlation is neither universal nor symmetric"
+          ],
+          "source_references": [
+            "Boundary cases that break the correlation"
+          ]
+        },
+        {
+          "title": "Continuity mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ABSORPTION -> add a tradition without extinguishing the earlier one",
+            "RECOGNITION -> Eighth Schedule listing of 22 languages",
+            "TERRITORY -> States Reorganisation Act, 1956 accommodates language",
+            "COST -> hierarchy persisted inside the same continuity"
+          ],
+          "source_references": [
+            "Accommodation as the continuity mechanism"
+          ]
+        },
+        {
+          "title": "Recognition and redistribution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RECOGNITION -> respect, visibility and cultural standing",
+            "REDISTRIBUTION -> land, credit, schooling and access",
+            "MISMATCH -> recognition alone leaves the asset gap intact",
+            "DIAGNOSIS -> identify the gap before choosing the instrument"
+          ],
+          "source_references": [
+            "Recognition, redistribution and causation"
+          ]
+        },
+        {
+          "title": "Evidence ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STRONG -> Census 2011 stocks and the dated official PVTG list",
+            "MODERATE -> named integrative practices and boundary cases",
+            "WEAK -> national aggregates about which sub-group is excluded",
+            "UNSUPPORTED -> any caste figure from prospective Census 2027"
+          ],
+          "source_references": [
+            "Measurement boundary and the complete answer spine"
+          ]
+        },
+        {
+          "title": "Diversity answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> state the proposition and the axis structure",
+            "BODY -> reinforcing cases, then cross-cutting counter-cases",
+            "REFRAME -> exclusion and remoteness are the mechanism",
+            "CLOSE -> conditional verdict plus the measurement caveat"
+          ],
+          "source_references": [
+            "Measurement boundary and the complete answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

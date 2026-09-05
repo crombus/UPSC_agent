@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-30",
+      "display_title": "Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Animal-economy value rail",
+          "structural_type": "value-chain",
+          "ascii_lines": [
+            "BIOLOGICAL ASSET",
+            "-> INPUT + HEALTH SYSTEM",
+            "-> PRODUCT FLOW",
+            "-> MARKET + HOUSEHOLD WELFARE",
+            "MUST REMEMBER: Animal rearing economics spans breeding, feed, health, housing, extension,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Stock-flow-statistics split",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "LIVESTOCK CENSUS -> stock",
+            "ISS -> annual production flow",
+            "BAHS -> compiled publication",
+            "YEAR + instrument must match"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Lifetime-return board",
+          "structural_type": "formula-board",
+          "ascii_lines": [
+            "OUTPUT + OFFSPRING + ASSET VALUE",
+            "- FEED + HEALTH + LABOUR",
+            "- MORTALITY + FINANCE + LOSS",
+            "= NET ENTERPRISE RETURN"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Productivity complement chain",
+          "structural_type": "bottleneck-map",
+          "ascii_lines": [
+            "GENETICS",
+            "x FEED",
+            "x HEALTH + MANAGEMENT",
+            "x CLIMATE + MARKET"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Dairy collection chain",
+          "structural_type": "value-chain",
+          "ascii_lines": [
+            "MILKING HOUSEHOLD",
+            "-> TESTING + PAYMENT",
+            "-> CHILLING + PROCESSING",
+            "-> CONSUMER + PRODUCER SHARE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Operation Flood institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "VILLAGE SOCIETY",
+            "-> DISTRICT UNION",
+            "-> STATE FEDERATION",
+            "COOPERATIVE != automatic good governance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Poultry risk allocation",
+          "structural_type": "principal-agent-map",
+          "ascii_lines": [
+            "INTEGRATOR -> chick + feed + market",
+            "FARMER -> shed + labour + utilities",
+            "CONTRACT -> mortality + quality rules",
+            "RISK REALLOCATED, not erased"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Disease externality loop",
+          "structural_type": "risk-map",
+          "ascii_lines": [
+            "UNDER-VACCINATION",
+            "-> NETWORK TRANSMISSION",
+            "-> ASSET + PUBLIC-HEALTH LOSS",
+            "SURVEILLANCE + COMPENSATION + BIOSECURITY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Aquatic-system split",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CAPTURE -> common-pool stock",
+            "AQUACULTURE -> managed farming",
+            "MSY != MEY",
+            "EFFLUENT + DISEASE boundaries"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "IFS circular flow",
+          "structural_type": "circular-flow",
+          "ascii_lines": [
+            "CROP RESIDUE -> FEED",
+            "MANURE -> SOIL / BIOGAS",
+            "POND -> NUTRIENT + INCOME",
+            "ABSORPTIVE LIMIT prevents waste transfer",
+            "CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Inclusion and value board",
+          "structural_type": "distribution-board",
+          "ascii_lines": [
+            "LANDLESS + SMALLHOLDER",
+            "WOMEN + PASTORALIST",
+            "OWNERSHIP + INCOME CONTROL",
+            "MARKET POWER + TIME BURDEN",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Animal-economy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE asset + production system",
+            "TRACE feed + health + market",
+            "TEST inclusion + biosecurity",
+            "CONCLUDE lifetime net social value"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g2\\economy-30_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

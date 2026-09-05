@@ -1,0 +1,449 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Medieval Indian History learner-v2 Topics 07-08",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-07",
+      "display_title": "Administration, Economy & Society under the Sultanate",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\07_Administration-Economy-Society-under-the-Sultanate_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Sultanate thematic chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "13th c. -> consolidation through court, iqta and inherited local structures",
+            "1296-1316 -> Alauddin tightens revenue, cavalry and market supervision",
+            "1320s-1351 -> sharing, assessment, cash demands and high-risk experiments",
+            "1351-1388 -> canals, karkhanas, elite conciliation and hereditary drift",
+            "15th c. -> weaker Delhi control and stronger regional landed interests",
+            "RULE: institutions changed by reign, region, distance and enforcement capacity."
+          ],
+          "source_references": [
+            "Chronology",
+            "Institutional change"
+          ]
+        },
+        {
+          "title": "State formation as a layered network",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "SULTAN / COURT -> sovereignty, appointments, campaign direction",
+            "CENTRAL DEPARTMENTS -> finance, army, correspondence and intelligence",
+            "IQTADARS / GOVERNORS -> troops, collection and provincial bargaining",
+            "KHUTS / MUQADDAMS / CHIEFS -> village access, information and mediation",
+            "CULTIVATORS / ARTISANS -> production, labour and taxable surplus",
+            "VERDICT: coercive at nodes, negotiated across the countryside."
+          ],
+          "source_references": [
+            "State formation",
+            "Local intermediaries"
+          ]
+        },
+        {
+          "title": "Central departments with chronology caution",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DIWAN-I-WIZARAT -> finance, accounts and revenue supervision",
+            "DIWAN-I-ARZ -> army review, horses, equipment and recruitment",
+            "DIWAN-I-INSHA -> royal correspondence and chancery practice",
+            "BARID NETWORK -> intelligence, reports and communication",
+            "SADR / QAZI FUNCTIONS -> grants, law and religious authority",
+            "CAUTION: portfolios and practical power were not identical in every reign."
+          ],
+          "source_references": [
+            "Central departments",
+            "Administrative caution"
+          ]
+        },
+        {
+          "title": "Iqta fiscal-military flow",
+          "structural_type": "process",
+          "ascii_lines": [
+            "CROWN ASSIGNS REVENUE CLAIM -> MUQTI / IQTADAR COLLECTS",
+            "                    |",
+            "authorised salary + troops + local administration",
+            "                    |",
+            "accounts and audit -> surplus expected for the centre",
+            "                    |",
+            "transfer restrains local roots; weak control encourages heredity",
+            "RULE: assignment of revenue was not unrestricted ownership of land."
+          ],
+          "source_references": [
+            "Iqta",
+            "Muqti",
+            "Audit"
+          ]
+        },
+        {
+          "title": "Revenue and local hierarchy",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "AGRARIAN OUTPUT -> assessment through law, custom and state demand",
+            "LOCAL ELITES -> khuts, muqaddams, chaudhris, chiefs and accountants",
+            "ALAUDDIN -> measurement, khalisa expansion and pressure on privileges",
+            "TUGHLAQ VARIANTS -> sharing, standard yields, canals and changing incidence",
+            "OUTCOME -> stronger surplus claims but uneven burden, flight and resistance",
+            "METHOD: separate nominal rate, collection practice and cultivator experience."
+          ],
+          "source_references": [
+            "Revenue",
+            "Khalisa",
+            "Rural elites"
+          ]
+        },
+        {
+          "title": "Army, logistics and urban regulation",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HORSES / REMOUNTS -> import routes, branding, inspection and fodder",
+            "CASH SALARIES -> coin supply, price conditions and treasury capacity",
+            "FORTS / ROADS -> frontier defence, messengers and grain movement",
+            "MARKET OVERSIGHT -> weights, supplies, intelligence and punishment",
+            "KOTWAL / QAZI -> policing and judicial plurality in towns",
+            "LESSON: military power rested on fiscal, commercial and informational systems."
+          ],
+          "source_references": [
+            "Army",
+            "Markets",
+            "Urban administration"
+          ]
+        },
+        {
+          "title": "Agrarian surplus and irrigation",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RAIN + WELLS + LIFTS + CANALS -> variable cultivation capacity",
+            "                    |",
+            "grain and cash crops -> village consumption + dues + marketable surplus",
+            "                    |",
+            "state, iqta holder and intermediaries compete over extraction",
+            "                    |",
+            "town demand and armies grow, while famine and harsh collection expose risk",
+            "CAUTION: public works did not distribute gains equally."
+          ],
+          "source_references": [
+            "Agriculture",
+            "Irrigation",
+            "Surplus transfer"
+          ]
+        },
+        {
+          "title": "Coinage and monetisation evidence",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "TANKA / JITTAL -> units and denominations in an expanding money economy",
+            "GOLD / SILVER / COPPER -> metal range, scarcity and regional variation",
+            "MINTS / LEGENDS -> authority, titles and public monetary claims",
+            "CASH REVENUE / SALARY -> links countryside, treasury, army and merchants",
+            "RBI PAGE -> official museum synthesis, not a complete price or welfare series",
+            "VERDICT: monetisation expanded unevenly; barter and payment in kind persisted."
+          ],
+          "source_references": [
+            "RBI coinage page",
+            "Tanka",
+            "Jittal",
+            "Monetisation"
+          ]
+        },
+        {
+          "title": "Urban craft and technology circuit",
+          "structural_type": "process",
+          "ascii_lines": [
+            "COURT + ARMY + MERCHANT DEMAND",
+            "            |",
+            "DELHI / DAULATABAD / MULTAN / CAMBAY and smaller qasbas",
+            "            |",
+            "textiles + paper + metal + leather + building crafts + royal karkhanas",
+            "            |",
+            "spinning wheel, carder's bow, improved looms, mortar and water lifting",
+            "RESULT: greater output and specialisation without equal gains for labour."
+          ],
+          "source_references": [
+            "Urbanisation",
+            "Crafts",
+            "Technology"
+          ]
+        },
+        {
+          "title": "Trade, transport and credit",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "VILLAGE PRODUCERS -> banjaras and local markets -> inland towns",
+            "MULTANIS / SAHS / BROKERS -> advances, exchange and merchant finance",
+            "HUNDIS -> transfer and credit across distance",
+            "CAMBAY / BENGAL PORTS -> Indian Ocean exchange and textile exports",
+            "HORSE IMPORTS -> military demand links coast, merchants and court",
+            "LIMIT: route activity does not prove uniform prosperity or state control."
+          ],
+          "source_references": [
+            "Trade",
+            "Hundis",
+            "Merchants",
+            "Transport"
+          ]
+        },
+        {
+          "title": "Social differentiation without static blocs",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "NOBLES / ULEMA -> status, office, grants and internal hierarchy",
+            "MERCHANTS / ARTISANS -> wealth at the top, insecurity lower down",
+            "RURAL GROUPS -> chiefs, privileged intermediaries, peasants and labourers",
+            "HINDU / MUSLIM COMMUNITIES -> conflict, interaction and differentiated mobility",
+            "SLAVERY / GENDER -> household, military and productive roles under coercion",
+            "RULE: avoid timeless census boxes and single-cause conversion claims."
+          ],
+          "source_references": [
+            "Social groups",
+            "Conversion",
+            "Slavery",
+            "Gender"
+          ]
+        },
+        {
+          "title": "Topic 07 evidence and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> changing military-fiscal state, centralising in aspiration",
+            "ADMIN -> court + departments + iqta + local intermediaries",
+            "ECONOMY -> agrarian surplus + money + towns + crafts + trade",
+            "SOCIETY -> layered elites, labour, caste, community, slavery and gender",
+            "METHOD -> chroniclers + travellers + coins + inscriptions + monuments",
+            "CLOSE -> negotiated in practice, regionally uneven and socially unequal."
+          ],
+          "source_references": [
+            "Historiography",
+            "Sources",
+            "Answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "medieval-indian-history-08",
+      "display_title": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\08_Provincial-Regional-Kingdoms_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Regionalisation chronology and map",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1338-42 Bengal break and Ilyas Shahi consolidation",
+            "1398 Timur shock -> Delhi contraction accelerates",
+            "1407 Gujarat formal independence -> 1411-42 Ahmad Shah consolidation",
+            "15th c. Malwa, Jaunpur, Kashmir and western-eastern balances",
+            "1459-1511 Mahmud Begarha -> 1484 Bahlul annexes Jaunpur",
+            "RULE: regional states were active systems, not debris between empires."
+          ],
+          "source_references": [
+            "Regionalisation",
+            "Chronology"
+          ]
+        },
+        {
+          "title": "Bengal delta autonomy circuit",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DISTANCE + RIVERS + HUMID CLIMATE -> costly external projection",
+            "INTERNAL WATERWAYS -> movement of grain, people and craft goods",
+            "ILYAS SHAHI ORGANISATION + EKDALA -> defensive and dynastic capacity",
+            "CHITTAGONG + TEXTILES + CHINA CONTACT -> wider commercial connection",
+            "GAUR / PANDUA + BENGALI PATRONAGE -> locally intelligible legitimacy",
+            "VERDICT: ecology created possibilities; institutions converted them into autonomy."
+          ],
+          "source_references": [
+            "Bengal",
+            "Delta ecology",
+            "Ilyas Shah"
+          ]
+        },
+        {
+          "title": "Gujarat port-hinterland state",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FERTILE INTERIOR + HANDICRAFT PRODUCTION",
+            "                |",
+            "AHMEDABAD markets, administration and building patronage",
+            "                |",
+            "ROADS / CARAVANS / CAMBAY and west-coast ports",
+            "                |",
+            "REVENUE + MERCHANT NETWORKS + MILITARY RESOURCES",
+            "CAUTION: ports were nodes in a territorial system, not automatic wealth machines."
+          ],
+          "source_references": [
+            "Gujarat",
+            "Ahmedabad",
+            "Ports",
+            "Mahmud Begarha"
+          ]
+        },
+        {
+          "title": "Malwa strategic plateau",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "                 MEWAR",
+            "                   / forts and corridors",
+            "GUJARAT <---- MALWA / MANDU ----> GANGA ROUTES",
+            "                   \\ Deccan links",
+            "MANDU -> defensible plateau capital, court and monumental patronage",
+            "POLITICS -> rivalry, alliances and border-state intervention",
+            "RULE: explain strategic geography without reducing events to religion alone."
+          ],
+          "source_references": [
+            "Malwa",
+            "Mandu",
+            "Mewar",
+            "Gujarat"
+          ]
+        },
+        {
+          "title": "Jaunpur power and cultural capital",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "GANGA-VALLEY LOCATION",
+            "        |",
+            "SHARQI COURT + revenue territory + military competition with Delhi",
+            "        |",
+            "learning, Persian culture and 'Shiraz of the East' reputation",
+            "        |",
+            "lofty gates, arches and an identifiable architectural idiom",
+            "1484 -> Bahlul Lodi annexes Jaunpur, but regional memory survives."
+          ],
+          "source_references": [
+            "Jaunpur",
+            "Sharqis",
+            "Cultural legitimacy"
+          ]
+        },
+        {
+          "title": "Kashmir reign contrast",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SIKANDAR SHAH                 ZAINUL ABIDIN / BUD SHAH",
+            "coercive religious measures       reversal and reconciliation",
+            "temple and grant disruption       restorations and return of groups",
+            "sharper exclusion                 Hindu officers and translation patronage",
+            "                                  crafts, agriculture and learning",
+            "RULE: do not project either reign across all Kashmir or all medieval India."
+          ],
+          "source_references": [
+            "Kashmir",
+            "Sikandar Shah",
+            "Zainul Abidin"
+          ]
+        },
+        {
+          "title": "Five regional capacity models",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BENGAL -> delta mobility, agrarian base, ports and language",
+            "GUJARAT -> port-hinterland trade, crafts, routes and urban capital",
+            "MALWA -> plateau position, Mandu and western-Deccan corridors",
+            "JAUNPUR -> Ganga-valley territory, learned court and Lodi rivalry",
+            "KASHMIR -> valley ecology, reconciliation and craft-cultural reconstruction",
+            "COMMON TEST: resources + coalition + institutions + legitimacy + limits."
+          ],
+          "source_references": [
+            "Comparative political economy",
+            "State capacity"
+          ]
+        },
+        {
+          "title": "Fifteenth-century balance of power",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "WEST: GUJARAT <-> MALWA <-> MEWAR",
+            "EAST: BENGAL <-> ORISSA / JAUNPUR",
+            "UPPER GANGA: JAUNPUR <-> LODI DELHI",
+            "NORTH-WEST: KASHMIR follows a distinct valley trajectory",
+            "LINKS: wars + exiles + marriages + corridors + commercial competition",
+            "CAUTION: balance describes recurring checks, not fixed modern borders or a treaty."
+          ],
+          "source_references": [
+            "Balance of power",
+            "Inter-state relations"
+          ]
+        },
+        {
+          "title": "Architecture and language as evidence",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BENGAL -> brick, curved roofs, Gaur-Pandua and Bengali patronage",
+            "GUJARAT -> fine stone, brackets, turrets, Ahmedabad and Champaner",
+            "MALWA -> Mandu scale, high plinths, palaces and glazed decoration",
+            "JAUNPUR -> monumental gateways, arches and learned prestige",
+            "KASHMIR -> translation, crafts and courtly reconciliation",
+            "RULE: material patronage shows claims and labour, not equality for every subject."
+          ],
+          "source_references": [
+            "Regional culture",
+            "Architecture",
+            "Language"
+          ]
+        },
+        {
+          "title": "Bounded Ahom political extension",
+          "structural_type": "process",
+          "ascii_lines": [
+            "13th c. Tai-Ahom migration -> Charaideo first capital and royal memory",
+            "BRAHMAPUTRA ECOLOGY -> wet-rice expansion, mobility and frontier adaptation",
+            "PAIK ROTATION -> household-linked labour and military mobilisation",
+            "OFFICIALS / KHELS -> organise service and productive capacity over time",
+            "BOUNDARY -> comparison beyond Delhi, not a substitute for the five core kingdoms",
+            "CAUTION: avoid equating rotational obligation with one timeless labour category."
+          ],
+          "source_references": [
+            "Ahom",
+            "Paik",
+            "Political ecology"
+          ]
+        },
+        {
+          "title": "Buranji and Moidam evidence ladder",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BURANJIS -> chronology and institutions | royal viewpoint and silences",
+            "MOIDAMS -> royal memory and labour | funerary evidence, not a fiscal ledger",
+            "UNESCO -> 90 moidams and 13th-19th c. tradition | heritage synthesis",
+            "LANDSCAPE -> hills, water and sacred setting | needs archaeological context",
+            "BEST USE -> triangulate chronicle, material site and institutional comparison",
+            "ROUTE OUT -> detailed cosmology, form and conservation to Art & Culture."
+          ],
+          "source_references": [
+            "Buranjis",
+            "Moidams",
+            "UNESCO",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Topic 08 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Delhi contraction redistributed sovereignty; it did not erase states",
+            "MAP -> delta, coast, plateau, Ganga plain, valley and Brahmaputra",
+            "MECHANISM -> resources + routes + elites + revenue + court legitimacy",
+            "COMPARE -> Bengal, Gujarat, Malwa, Jaunpur and Kashmir without flattening",
+            "EXTEND -> Paik, Buranjis and Charaideo within a strict Ahom boundary",
+            "CLOSE -> plural regional capacity shaped the setting inherited by later empires."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Regional state system",
+            "Ahom boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

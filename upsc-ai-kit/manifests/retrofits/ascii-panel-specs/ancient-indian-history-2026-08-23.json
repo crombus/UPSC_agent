@@ -1,0 +1,2135 @@
+{
+  "schema_version": 1,
+  "benchmark": "Notions-of-God approved 10-panel ASCII master",
+  "generated_on": "2026-08-23",
+  "scope": "Latest active learner-v2 Ancient Indian History topics 01-11 from EXPORT-PDF-STATUS.json",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false,
+    "package_markdown_untouched": true
+  },
+  "tracker_resolution": {
+    "tracker": "EXPORT-PDF-STATUS.json",
+    "selection_rule": "highest learner-v2 generation per topic",
+    "topics": "ancient-indian-history-01 through ancient-indian-history-11"
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "display_title": "Importance & Historiography of Ancient India",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g9\\ancient-indian-history-01_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Why ancient India matters: the complete inquiry",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "ANCIENT INDIA: WHY STUDY IT?",
+            "             |",
+            "   +---------+---------+---------+---------+",
+            "   |         |         |         |         |",
+            " chronology geography society  culture   present",
+            " how/when?  where?    varna,    texts,    identities,",
+            "                      caste,    scripts,  institutions,",
+            "                      labour    ideas     inherited debates",
+            "             |",
+            "             v",
+            "History is reconstruction of change through evidence, not a memory-list of rulers."
+          ],
+          "source_references": [
+            "SESSION 1 - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+            "The opening move: how, when and where",
+            "History beyond kings and battles"
+          ]
+        },
+        {
+          "title": "From surviving trace to historical claim",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "SURVIVING TRACE -> SOURCE CRITICISM -> CONTEXT -> CORROBORATION -> HISTORICAL CLAIM",
+            "       |                 |              |              |",
+            "       v                 v              v              v",
+            "text / object      author, date,   genre, layer,  agreement or",
+            "inscription / coin purpose, bias   find-context   productive conflict",
+            "       +-----------------+--------------+--------------+",
+            "                         v",
+            "             PROVISIONAL EXPLANATION WITH STATED LIMITS",
+            "Rule: absence of evidence may reflect preservation, excavation or elite silence."
+          ],
+          "source_references": [
+            "SESSION 2 - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+            "SESSION 3 - EVIDENCE ARCHITECTURE AND METHOD"
+          ]
+        },
+        {
+          "title": "Historiographical schools: claims and corrections",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ORIENTALIST -> IMPERIAL/COLONIAL -> NATIONALIST -> MARXIST -> SOCIAL/SUBALTERN TURNS",
+            " texts and     despotism,          agency and     mode, class,  gender, caste,",
+            " antiquity     stagnation,         unity,          surplus,      tribe, labour,",
+            " admired       period labels      achievement    production    ecology, region",
+            "      |              |                |              |              |",
+            "      +--------------+----------------+--------------+--------------+",
+            "                                     v",
+            "No school is a neutral final word: compare question, evidence, category and silence."
+          ],
+          "source_references": [
+            "SESSION 4 - COLONIAL, ORIENTALIST AND IMPERIAL HISTORIOGRAPHY",
+            "SESSION 5 - NATIONALIST HISTORIOGRAPHY",
+            "SESSION 6 - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN"
+          ]
+        },
+        {
+          "title": "Periodisation without communal boxes",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM: Hindu / Muslim / British labels make rulers religion the clock of history.",
+            "                         |",
+            "                         v",
+            "RESPONSE: use overlapping processes, not sealed civilisational blocks",
+            "  polity: lineage -> state -> empire -> regional formations",
+            " economy: foraging -> farming -> towns -> agrarian expansion",
+            " society: kinship -> varna ordering -> jati proliferation -> local negotiation",
+            " culture: oral/textual traditions + material practice + cross-regional exchange",
+            "VERDICT: dates organise; processes explain; regional change is asynchronous."
+          ],
+          "source_references": [
+            "SESSION 7 - PERIODISATION DEBATES"
+          ]
+        },
+        {
+          "title": "Unity in diversity: a historical mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ECOLOGICAL + LINGUISTIC + ETHNIC DIVERSITY",
+            "                    |",
+            "                    v",
+            "migration + intermarriage + trade + pilgrimage + conquest + textual circulation",
+            "                    |",
+            "          +---------+---------+",
+            "          |                   |",
+            " local persistence      shared repertoires",
+            " crops, cults, speech   epics, scripts, sacred places, state forms",
+            "          +---------+---------+",
+            "                    v",
+            "UNITY = repeated interaction and accommodation; not primordial sameness."
+          ],
+          "source_references": [
+            "SESSION 1 - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+            "Unity in diversity - the intermixture argument"
+          ]
+        },
+        {
+          "title": "Varna, caste and social history",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "NORMATIVE VARNA TEXTS ------ prescribe ranked fourfold order",
+            "          |",
+            "          | must be tested against",
+            "          v",
+            "INSCRIPTIONS + ARCHAEOLOGY + REGIONAL TEXTS + OCCUPATIONAL PRACTICE",
+            "          |",
+            "          v",
+            "HISTORICAL FIELD: jati, labour, gender, tribe, mobility, exclusion, patronage",
+            "          |",
+            "          v",
+            "Neither timeless rigidity nor automatic fluidity: institutions changed unevenly."
+          ],
+          "source_references": [
+            "SESSION 1 - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+            "Varna and caste: why Sharma singles this out",
+            "SESSION 6 - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN"
+          ]
+        },
+        {
+          "title": "Causation: explanation beyond great men",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "HISTORICAL CHANGE",
+            "      |",
+            " +----+-----+-------+-------+-------+",
+            " |          |       |       |       |",
+            "ecology  technology surplus power  ideas/ritual",
+            " |          |       |       |       |",
+            "constraint tool     resource state  legitimation",
+            " +----------+-------+-------+-------+",
+            "                    |",
+            "                    v",
+            "Agency selects among conditions; no single factor mechanically determines outcome."
+          ],
+          "source_references": [
+            "SESSION 2 - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+            "SESSION 6 - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN"
+          ]
+        },
+        {
+          "title": "Bias, silence and ethical reconstruction",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "ARCHIVE OVER-REPRESENTS: rulers | donors | literate elites | durable materials",
+            "ARCHIVE UNDER-REPRESENTS: women | labourers | forest groups | oral communities",
+            "                         |",
+            "                         v",
+            "CHECK: who produced it? for whom? what genre? what was unlikely to survive?",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "read statement critically       read silence cautiously",
+            "          +--------------+--------------+",
+            "                         v",
+            "VERDICT: recover plurality without inventing voices the evidence cannot supply."
+          ],
+          "source_references": [
+            "SESSION 8 - BIAS, SILENCES AND THE ETHICS OF INTERPRETATION",
+            "SESSION 9 - PUBLIC HISTORY AND LIVING STAKES"
+          ]
+        },
+        {
+          "title": "Historiography answer architecture: 10/15/20 marks",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define historiography -> name 2 schools -> one evidence contrast -> verdict",
+            "15 MARKS: frame issue -> colonial claim -> nationalist reply -> material/social turn",
+            "          -> source example -> limitation of each -> balanced judgement",
+            "20 MARKS: question/category -> school timeline -> evidence architecture -> neglected",
+            "          groups/regions -> periodisation dispute -> present stakes -> synthesis",
+            "MUST NAME: source, historian/school, explanatory gain, residual blind spot.",
+            "CLOSE: ancient history is plural, evidence-led reconstruction, not usable myth."
+          ],
+          "source_references": [
+            "SESSION 2 - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+            "SESSION 7 - PERIODISATION DEBATES",
+            "SESSION 9 - PUBLIC HISTORY AND LIVING STAKES"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "display_title": "Sources of Ancient Indian History",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g9\\ancient-indian-history-02_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "The source universe: trace to reconstruction",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "SOURCES OF ANCIENT INDIA",
+            "          |",
+            " +--------+---------+---------+---------+---------+",
+            " |        |         |         |         |         |",
+            "archaeology epigraphy coins  literature foreign  bio/environment",
+            " context   public text object+ text+oral observer  bones, seeds, pollen",
+            " +--------+---------+---------+---------+---------+",
+            "                    |",
+            "                    v",
+            "AUTHENTICATE -> DATE -> LOCATE -> READ GENRE/FUNCTION -> CORROBORATE -> QUALIFY"
+          ],
+          "source_references": [
+            "SESSION 1 - SOURCE CRITICISM",
+            "SESSION 17 - TRIANGULATION"
+          ]
+        },
+        {
+          "title": "Archaeology: context before object",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "SURVEY -> SITE -> GRID/TRENCH -> STRATIGRAPHY -> ASSEMBLAGE -> INTERPRETATION",
+            "                         |",
+            "                         v",
+            "Law of superposition: an undisturbed lower layer is relatively earlier.",
+            "Artefact alone: weak provenance | artefact in sealed context: stronger association",
+            "Industry = recurrent technique/tool set; culture = patterned material assemblage.",
+            "Intrusion, redeposition and mixed layers can break a simple sequence."
+          ],
+          "source_references": [
+            "SESSION 2 - ARCHAEOLOGY I",
+            "SESSION 3 - ARCHAEOLOGY II",
+            "SESSION 23 - LAB 3. ARCHAEOLOGY"
+          ]
+        },
+        {
+          "title": "Dating ladder: precision with error bars",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "RELATIVE DATE                         ABSOLUTE/CHRONOMETRIC DATE",
+            "stratigraphy -> seriation -> typology | radiocarbon -> calibrated range",
+            "cross-dating -> association           | TL/OSL -> last heating or light exposure",
+            "                                      | dendrochronology where wood survives",
+            "             +------------------------+------------------------+",
+            "                                      v",
+            "A date belongs to a sample and context, not automatically to an entire culture.",
+            "Report range, calibration and contamination risk; probability is not certainty."
+          ],
+          "source_references": [
+            "SESSION 4 - SCIENTIFIC DATING AND ARCHAEOMETRY",
+            "SESSION 16 - CHRONOLOGY"
+          ]
+        },
+        {
+          "title": "Inscriptions: public text under source criticism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MATERIAL + SCRIPT + LANGUAGE + FORMULA + FIND-SPOT",
+            "                         |",
+            "                         v",
+            "DECIPHER -> DATE -> TRANSLATE -> IDENTIFY ISSUER/AUDIENCE -> HISTORICAL USE",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "titles, grants, donors          failure, dissent and routine life omitted",
+            "                         |",
+            "                         v",
+            "Prashasti praises; land grant records a transaction; neither is transparent narrative."
+          ],
+          "source_references": [
+            "SESSION 6 - EPIGRAPHY I",
+            "SESSION 7 - EPIGRAPHY II",
+            "SESSION 25 - LAB 5. INSCRIPTIONS"
+          ]
+        },
+        {
+          "title": "Coins: object, text and economic instrument",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "COIN",
+            " |-- metal, weight, fabric -> standard, mint practice, debasement",
+            " |-- legend, script, title -> issuer and political idiom",
+            " |-- iconography -> religious/royal representation",
+            " |-- hoard/find context -> circulation, saving, frontier or crisis",
+            " |-- overstrike/imitation -> succession, appropriation and contact",
+            " |",
+            " +-> LIMIT: coin abundance is not a direct graph of total prosperity."
+          ],
+          "source_references": [
+            "SESSION 8 - NUMISMATICS I",
+            "SESSION 9 - NUMISMATICS II"
+          ]
+        },
+        {
+          "title": "Texts: genre, layer and transmission",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BRAHMANICAL          BUDDHIST/JAINA        SANGAM              MANUSCRIPT STATE",
+            "Veda, epic, Purana   canon, commentaries   poems, anthologies  copied much later",
+            "ritual/norm/memory   doctrine/institution  genre-coded society variant readings",
+            "       |                    |                 |                    |",
+            "       +--------------------+-----------------+--------------------+",
+            "                                v",
+            "Ask composition layer, redaction, audience and norm/practice gap before extracting fact.",
+            "Critical editions compare witnesses; they do not restore an uncontested original."
+          ],
+          "source_references": [
+            "SESSION 10 - MANUSCRIPTS, ORAL TRANSMISSION AND CRITICAL EDITIONS",
+            "SESSION 11 - BRAHMANICAL LITERARY SOURCES",
+            "SESSION 12 - BUDDHIST, JAINA AND SANGAM SOURCES"
+          ]
+        },
+        {
+          "title": "Foreign, linguistic, visual and biological witnesses",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOREIGN ACCOUNT       LINGUISTIC EVIDENCE      MATERIAL/BIO ARCHIVE",
+            "selective itinerary   family/contact/loanword  monument, bone, seed, pollen",
+            "outsider categories   language is not race     context and preservation govern use",
+            "Megasthenes/Faxian/   retroflexion/contact     diet, disease, crop and environment",
+            "Xuanzang/Periplus             |                         |",
+            "          +-------------------+-------------------------+",
+            "                              v",
+            "Use each as an angled witness; triangulate before converting observation into structure."
+          ],
+          "source_references": [
+            "SESSION 5 - BIOARCHAEOLOGY",
+            "SESSION 13 - FOREIGN ACCOUNTS",
+            "SESSION 14 - LINGUISTIC EVIDENCE",
+            "SESSION 15 - MONUMENTS, MATERIAL CULTURE AND VISUAL SOURCES"
+          ]
+        },
+        {
+          "title": "Triangulation and productive contradiction",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "QUESTION: urbanism / polity / trade / religion / social hierarchy",
+            "     |",
+            "     +-> text says X",
+            "     +-> inscription records Y",
+            "     +-> archaeology patterns Z",
+            "     +-> scientific evidence dates the context",
+            "     |",
+            "     v",
+            "AGREEMENT strengthens; contradiction prompts genre, region and chronology checks.",
+            "VERDICT: independent convergence is stronger than repetition in one tradition."
+          ],
+          "source_references": [
+            "SESSION 17 - TRIANGULATION",
+            "SESSION 18 - BIAS, SILENCE, PRESERVATION",
+            "SESSION 19 - INDIA-CENTRIC SOURCE LABS"
+          ]
+        },
+        {
+          "title": "Source-based answer architecture: 10/15/20 marks",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: identify source -> what it reveals -> named example -> one limitation",
+            "15 MARKS: classify sources -> compare powers -> triangulate a case -> qualify",
+            "20 MARKS: problem -> source matrix -> method/dating -> case clinics -> conflicts",
+            "          -> silences/preservation -> reasoned verdict on confidence",
+            "EVIDENCE SENTENCE: X indicates Y because Z; however, genre/context limits W.",
+            "Never end with all sources are important; state which source answers which question."
+          ],
+          "source_references": [
+            "SESSION 20 - UPSC SOURCE-SELECTION AND ANSWER-WRITING PROTOCOL",
+            "SESSION 28 - LAB 8. THE UPSC ANSWER-WORTHINESS CHECK"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "display_title": "Geographical Setting & Ecology",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g9\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Subcontinent as connected ecological regions",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "                    HIMALAYA / NORTH-WEST PASSES",
+            "       Kabul-Indus corridors | snowmelt rivers | frontier exchange",
+            "                              v",
+            "INDUS BASIN ---- THAR/ARAVALLI ---- GANGA PLAIN ---- BRAHMAPUTRA VALLEY",
+            " floodplains       copper/route      alluvium/rice       rain/river routes",
+            "                              |",
+            "                 VINDHYAS / CENTRAL BELT",
+            "                              |",
+            "DECCAN PLATEAU ---- EASTERN/WESTERN GHATS ---- COASTS AND DELTAS",
+            "black soils/metals  passes and rain shadow      ports, rice, maritime links"
+          ],
+          "source_references": [
+            "SESSION 1 - PHYSICAL ARCHITECTURE",
+            "SESSION 2 - HIMALAYAS, PASSES AND FRONTIER ZONES",
+            "SESSION 5 - PENINSULAR PLATEAUS, RIVER VALLEYS AND COASTS"
+          ]
+        },
+        {
+          "title": "River systems as opportunity and hazard",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "INDUS/GHAGGAR-HAKRA       GANGA-YAMUNA             PENINSULAR RIVERS",
+            "winter + monsoon flows    deep alluvium, doabs      plateau-cut, often seasonal",
+            "Harappan settlement       farming/state corridor   irrigation, deltas and ports",
+            "channel migration risk    flood/waterlogging risk  variable monsoon dependence",
+            "          |                       |                         |",
+            "          +-----------------------+-------------------------+",
+            "                                  v",
+            "Rivers enable water, silt and transport; institutions determine capture and resilience."
+          ],
+          "source_references": [
+            "SESSION 3 - INDUS AND GHAGGAR-HAKRA",
+            "SESSION 4 - GANGA-BRAHMAPUTRA PLAINS",
+            "SESSION 5 - PENINSULAR PLATEAUS"
+          ]
+        },
+        {
+          "title": "Monsoon-ecology-production loop",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "SEASONAL MONSOON",
+            "      |",
+            " +----+---------+---------+---------+",
+            " |              |         |         |",
+            "rain timing  river flow vegetation pasture  sailing winds",
+            " |              |         |         |",
+            "crop choice  flood risk forest work herding  maritime season",
+            " +----+---------+---------+---------+",
+            "                |",
+            "                v",
+            "Surplus and settlement depend on storage, water control, labour and risk-sharing."
+          ],
+          "source_references": [
+            "SESSION 6 - CLIMATE, MONSOON AND SEASONAL RHYTHMS",
+            "SESSION 8 - SOILS, FORESTS, WATER AND AGRICULTURE"
+          ]
+        },
+        {
+          "title": "Resource geography and specialised regions",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "RESOURCE -> REPRESENTATIVE ZONES -> HISTORICAL CAPACITY",
+            "copper   -> Aravalli/Khetri       -> tools, exchange, craft centres",
+            "iron     -> central/eastern India -> tools and weapons; use remains contextual",
+            "stone    -> Rohri/Deccan/Vindhya  -> lithics, architecture and sculpture",
+            "timber   -> forest belts          -> fuel, construction, boats, state frontier",
+            "salt     -> arid/coastal sources  -> essential exchange networks",
+            "elephant -> eastern forests       -> military resource, not sole cause of empire"
+          ],
+          "source_references": [
+            "SESSION 9 - METALS, STONE, TIMBER, SALT AND OTHER RESOURCES"
+          ]
+        },
+        {
+          "title": "Why settlements occupy particular landscapes",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "SITE SELECTION",
+            " |-- water reliability",
+            " |-- cultivable soil and grazing",
+            " |-- defensibility and flood safety",
+            " |-- raw-material access",
+            " |-- route, ford or port position",
+            " |-- disease and drainage constraints",
+            " |",
+            " +-> SETTLEMENT HIERARCHY: camp -> village -> craft centre -> town -> capital",
+            "Geography sets costs and options; social organisation converts them into settlement."
+          ],
+          "source_references": [
+            "SESSION 10 - SETTLEMENT ECOLOGY AND SITE SELECTION",
+            "SESSION 11 - GEOGRAPHY-SETTLEMENT-STATE-ECONOMY RELATIONSHIPS"
+          ]
+        },
+        {
+          "title": "Routes: movement creates historical corridors",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "LAND AND WATER ROUTES",
+            "       |",
+            " +-----+-----------+-----------+-----------+",
+            " |                 |           |           |",
+            "passes          riverways   plateau gaps coasts/monsoon sea",
+            " |                 |           |           |",
+            "migration       bulk goods  Deccan links ports and overseas exchange",
+            " +-----+-----------+-----------+-----------+",
+            "                   |",
+            "                   v",
+            "Goods, people, scripts, cults and technologies move; routes do not erase local agency."
+          ],
+          "source_references": [
+            "SESSION 12 - ROUTES, MIGRATION, TRADE AND CULTURAL INTERACTION"
+          ]
+        },
+        {
+          "title": "Changing historical landscapes",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PALAEOLITHIC -> NEOLITHIC/CHALCOLITHIC -> HARAPPAN -> VEDIC -> EARLY HISTORIC",
+            "mobile use      village mosaics          urban-rural  NW to Ganga  towns/states/routes",
+            "stone/water     crops/herds              basin links  forest edge  Magadha/Deccan/coasts",
+            "     |                 |                     |            |             |",
+            "     +-----------------+---------------------+------------+-------------+",
+            "                                      v",
+            "No all-India stage occurs simultaneously: regional sequences overlap and diverge."
+          ],
+          "source_references": [
+            "SESSION 14 - PREHISTORIC CHANGE",
+            "SESSION 15 - HARAPPAN ECOLOGY",
+            "SESSION 16 - VEDIC LANDSCAPES",
+            "SESSION 17 - EARLY HISTORIC URBANIZATION"
+          ]
+        },
+        {
+          "title": "Determinism versus possibilism",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "DETERMINIST CLAIM: fertile soil, iron, river or monsoon automatically produces a state.",
+            "EVIDENCE AGAINST: similar environments yield different timings and institutions.",
+            "POSSIBILIST CORRECTION: ecology offers constraints, opportunities and recurring risks.",
+            "MEDIATORS: technology + labour + property + exchange + political organisation + culture",
+            "                     |",
+            "                     v",
+            "VERDICT: explain why an opportunity was mobilised, by whom, and with what limits."
+          ],
+          "source_references": [
+            "SESSION 19 - ENVIRONMENTAL DETERMINISM VERSUS POSSIBILISM",
+            "SESSION 21 - SOURCE CRITICISM AND LIMITS OF HISTORICAL GEOGRAPHY"
+          ]
+        },
+        {
+          "title": "Historical-geography answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: locate region -> name resource/ecology -> mechanism -> named case",
+            "15 MARKS: text map -> opportunities + constraints -> institutional mediators -> variation",
+            "20 MARKS: physical frame -> river/monsoon/resource systems -> chronological cases",
+            "          -> routes and uneven regions -> determinism debate -> qualified synthesis",
+            "MAP RULE: label only places used in the argument; link each label to one consequence.",
+            "CLOSE: geography conditions history, but institutions select and transform options."
+          ],
+          "source_references": [
+            "SESSION 22 - UPSC MAP, TERMINOLOGY AND ANSWER-WRITING PROTOCOL",
+            "SESSION 27 - CORE MAP LAB 5"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "display_title": "The Stone Age: Palaeolithic & Mesolithic",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g9\\ancient-indian-history-04_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Stone Age chronological-climatic spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PLEISTOCENE                                      HOLOCENE",
+            "Lower Palaeolithic -> Middle Palaeolithic -> Upper Palaeolithic -> Mesolithic",
+            "handaxe/cleaver     flakes/prepared cores    blades/bone/art       microliths",
+            "mobile landscapes   flexible reduction       wider symbolism       diverse niches",
+            "        |                    |                       |                    |",
+            "        +--------------------+-----------------------+--------------------+",
+            "                                     v",
+            "Transitions are regionally staggered; tool change is not a single species timetable."
+          ],
+          "source_references": [
+            "SESSION 1 - GEOLOGICAL CONTEXT",
+            "SESSION 5 - LOWER PALAEOLITHIC",
+            "SESSION 8 - MIDDLE PALAEOLITHIC",
+            "SESSION 9 - UPPER PALAEOLITHIC",
+            "SESSION 14 - MESOLITHIC TRANSITION"
+          ]
+        },
+        {
+          "title": "Stone is a behavioural archive",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RAW-MATERIAL NODULE -> CORE REDUCTION -> FLAKE/BLADE -> TOOL USE -> DISCARD",
+            "          |                 |               |             |",
+            "source distance       skill/planning     edge damage   activity area",
+            "          +-----------------+---------------+-------------+",
+            "                            v",
+            "ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT -> BEHAVIOURAL INFERENCE",
+            "A labelled tool without context cannot establish age, species or complete lifeway."
+          ],
+          "source_references": [
+            "SESSION 3 - LITHIC EVIDENCE GRAMMAR",
+            "SESSION 4 - DATING AND ARCHAEOLOGICAL METHODS"
+          ]
+        },
+        {
+          "title": "Lithic systems compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LOWER                  MIDDLE                 UPPER                 MESOLITHIC",
+            "bifaces, cleavers      flake tools            blades, burins        geometric microliths",
+            "large cutting tools    prepared-core planning bone/ornament growth  hafted composites",
+            "quartzite common       raw-material economy   symbolic evidence     bow/sickle/barb uses",
+            "      |                      |                       |                    |",
+            "      +----------------------+-----------------------+--------------------+",
+            "Technology records choices; older techniques may persist beside newer ones."
+          ],
+          "source_references": [
+            "SESSION 5 - LOWER PALAEOLITHIC",
+            "SESSION 8 - MIDDLE PALAEOLITHIC",
+            "SESSION 9 - UPPER PALAEOLITHIC",
+            "SESSION 15 - MICROLITHS"
+          ]
+        },
+        {
+          "title": "Indian site map: region, site, significance",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "NORTH-WEST: Soan valley -> river-terrace lithics and sequence debates",
+            "NORTH: Belan valley -> long prehistoric sequence toward food production",
+            "CENTRAL: Bhimbetka -> shelters/rock art | Adamgarh -> Mesolithic evidence",
+            "WEST: Bagor -> Mesolithic settlement, subsistence and domestication debate",
+            "GANGA PLAIN: Sarai Nahar Rai, Mahadaha, Damdama -> burials and sedentism",
+            "SOUTH: Attirampakkam -> early Acheulian and Middle Palaeolithic chronology",
+            "DECCAN: Hunsgi-Baichbal -> quarry, factory and landscape organisation"
+          ],
+          "source_references": [
+            "SESSION 7 - ATTIRAMPAKKAM",
+            "SESSION 18 - ROCK ART",
+            "SESSION 19 - MAJOR INDIAN SITES"
+          ]
+        },
+        {
+          "title": "Mobility-subsistence-social loop",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "SEASONAL RESOURCES -> MOVEMENT SCHEDULE -> CAMP TYPE -> TOOL KIT -> SHARING NETWORK",
+            "        |                   |              |           |",
+            "game, fish, plants    base/special camp  hearths    portable/composite",
+            "        +-------------------+--------------+-----------+",
+            "                            |",
+            "                            v",
+            "Repeated occupation and storage may increase without full farming or permanent villages.",
+            "Burials show treatment of persons; rank needs patterned unequal evidence."
+          ],
+          "source_references": [
+            "SESSION 11 - MOBILITY, SETTLEMENT AND SOCIAL LIFE",
+            "SESSION 12 - SUBSISTENCE",
+            "SESSION 17 - BURIALS, RITUAL AND SOCIAL ORGANIZATION"
+          ]
+        },
+        {
+          "title": "Rock art and symbolic life: inference ladder",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT",
+            "                         |",
+            "                         v",
+            "secure: image, technique, relative sequence and demonstrated association",
+            "probable: hunting, dance, group action, animals and changing style",
+            "uncertain: exact myth, deity, artist identity or direct ritual meaning",
+            "                         |",
+            "                         v",
+            "VERDICT: art expands behavioural evidence but is not illustrated scripture."
+          ],
+          "source_references": [
+            "SESSION 13 - PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE",
+            "SESSION 18 - ROCK ART"
+          ]
+        },
+        {
+          "title": "Mesolithic transition: adaptation, not revolution",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "HOLOCENE WARMING + REGIONAL ECOLOGIES",
+            "                 |",
+            "                 v",
+            "small game/fish/plant niches + locality + microlithic composite tools",
+            "                 |",
+            "      +----------+----------+",
+            "      |                     |",
+            "seasonal mobility      repeated/semi-sedentary camps",
+            "      +----------+----------+",
+            "                 v",
+            "selective plant/animal management -> uneven pathways toward Neolithic production"
+          ],
+          "source_references": [
+            "SESSION 14 - MESOLITHIC TRANSITION",
+            "SESSION 16 - MESOLITHIC SUBSISTENCE, SEDENTARINESS AND DOMESTICATION DEBATES",
+            "SESSION 20 - CONTINUITY AND CHANGE TOWARD THE NEOLITHIC"
+          ]
+        },
+        {
+          "title": "Limits and current research",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM: sparse fossils + disturbed sites + broad tool labels + uncertain associations",
+            "FALSE SHORTCUTS: one tool = one people | innovation = migration | burial = hierarchy",
+            "RESPONSE: date contexts, reconstruct reduction sequence, compare regions, state confidence",
+            "Refined chronometry and landscape study can revise early dates.",
+            "VERDICT: Indian prehistory is a mosaic of long continuity and episodic innovation."
+          ],
+          "source_references": [
+            "SESSION 2 - HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD",
+            "SESSION 21 - HISTORIOGRAPHICAL DEBATES, SOURCE LIMITATIONS AND CURRENT RESEARCH"
+          ]
+        },
+        {
+          "title": "Stone Age answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define phase -> diagnostic technology -> two sites -> subsistence -> caution",
+            "15 MARKS: chronology -> lithic comparison -> ecology/mobility -> symbolic evidence -> limits",
+            "20 MARKS: geological frame -> methods -> four-stage technology -> regional site map",
+            "          -> economy/social life -> Mesolithic transition -> historiographical verdict",
+            "MUST DISTINGUISH: relative/absolute date; artefact/assemblage; microlith/sedentism.",
+            "CLOSE: technology records adaptive choices, not a uniform evolutionary ladder."
+          ],
+          "source_references": [
+            "ROADMAP, SYLLABUS BOUNDARY AND EVIDENCE DISCIPLINE",
+            "SESSION 21 - HISTORIOGRAPHICAL DEBATES"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "display_title": "Neolithic & Chalcolithic Cultures",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g9\\ancient-indian-history-05_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Food production: a regional mosaic",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FORAGING -> MANAGEMENT -> DOMESTICATION -> MIXED FARMING -> SURPLUS/STORAGE",
+            "    |            |              |               |              |",
+            "wild use    selective tending  heritable change crops+herds   delayed consumption",
+            "    +------------+--------------+---------------+--------------+",
+            "                                 v",
+            "No universal package: polished stone, pottery, herding and crops appear in varied order.",
+            "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies."
+          ],
+          "source_references": [
+            "SESSION 1 - MEANING AND CHRONOLOGY",
+            "SESSION 2 - TRANSITION FROM FORAGING TO FOOD PRODUCTION",
+            "SESSION 36 - TRANSITION, NOT A SINGLE REVOLUTION"
+          ]
+        },
+        {
+          "title": "Domestication evidence and causal debate",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "PLANTS: seed-size/rachis change + weed ecology + storage + grinding tools",
+            "ANIMALS: morphology + age/sex kill profile + corrals/dung + herd demography",
+            "CAUSES: climate | population | risk buffering | social competition | niche construction",
+            "                         |",
+            "                         v",
+            "VERDICT: domestication needs converging biological and contextual evidence.",
+            "Rice presence alone does not prove cultivation; secure date and morphology matter."
+          ],
+          "source_references": [
+            "SESSION 3 - WHY DOMESTICATION?",
+            "SESSION 4 - DOMESTICATION OF PLANTS",
+            "SESSION 5 - DOMESTICATION OF ANIMALS",
+            "SESSION 37 - WHAT COUNTS AS DOMESTICATION EVIDENCE?"
+          ]
+        },
+        {
+          "title": "Technology-settlement-social consequence chain",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "polished stone + microliths + bone tools + pottery",
+            "                      |",
+            "                      v",
+            "cultivation/herding -> houses -> storage -> longer residence -> accumulated property",
+            "                      |",
+            "          +-----------+-----------+",
+            "          |                       |",
+            "craft/exchange growth       disease, labour load and dietary risk",
+            "          +-----------+-----------+",
+            "                      v",
+            "household differentiation and settlement hierarchy become possible, not inevitable."
+          ],
+          "source_references": [
+            "SESSION 6 - POLISHED STONE, MICROLITHS, BONE TOOLS",
+            "SESSION 7 - POTTERY",
+            "SESSION 8 - SETTLEMENT, HOUSES, STORAGE",
+            "SESSION 9 - SUBSISTENCE, LABOUR, HEALTH"
+          ]
+        },
+        {
+          "title": "Indian Neolithic regional map",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "NORTH-WEST: Mehrgarh -> long farming/herding sequence before Harappan urbanism",
+            "KASHMIR: Burzahom, Gufkral -> pit dwellings, bone tools, agro-pastoralism",
+            "VINDHYA/MIDDLE GANGA: Koldihwa, Mahagara, Lahuradewa -> rice/date cautions",
+            "NORTH-EAST: shouldered celts and regional links; chronology remains uneven",
+            "SOUTH: Utnur, Piklihal, Tekkalakota, Hallur -> cattle, millets, ash mounds",
+            "RULE: attach each site to region + marker + chronological caution."
+          ],
+          "source_references": [
+            "SESSION 13 - REGIONAL MAP IN TEXT",
+            "SESSION 14 - MEHRGARH",
+            "SESSION 15 - KASHMIR",
+            "SESSION 16 - VINDHYAN FRINGES",
+            "SESSION 19 - SOUTH INDIAN NEOLITHIC"
+          ]
+        },
+        {
+          "title": "Ash mounds: formation-function debate",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT -> SOUTH INDIAN ASH MOUND",
+            "                         |",
+            "      +------------------+------------------+",
+            "      |                  |                  |",
+            "periodic pen burning  communal feasting  sanitation/fuel practice",
+            "      +------------------+------------------+",
+            "                         v",
+            "Repeated firing and cattle centrality are strong; one exclusive ritual meaning is not.",
+            "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list."
+          ],
+          "source_references": [
+            "SESSION 20 - ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS",
+            "SESSION 21 - SOUTH INDIAN CASE RECALL"
+          ]
+        },
+        {
+          "title": "Chalcolithic cultures: region-site-marker matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CULTURE/ZONE       CORE SITES             HIGH-YIELD MARKERS",
+            "Ganeshwar-Jodhpura Ganeshwar/Jodhpura     copper craft; Harappan contact",
+            "Ahar-Banas         Ahar, Balathal, Gilund  black-red ware; copper; farming",
+            "Kayatha            Kayatha                early Malwa sequence; rich deposits",
+            "Malwa              Navdatoli, Eran, Nagda  painted ware; large villages; spread",
+            "Jorwe              Inamgaon, Nevasa        Deccan hierarchy; Late Jorwe",
+            "OCP/Copper Hoards  upper Ganga sites       association varies; no ethnic label"
+          ],
+          "source_references": [
+            "SESSION 23 - CHALCOLITHIC INDIA",
+            "SESSION 25 - GANESHWAR-JODHPURA",
+            "SESSION 26 - AHAR-BANAS",
+            "SESSION 27 - KAYATHA",
+            "SESSION 28 - MALWA",
+            "SESSION 30 - JORWE",
+            "SESSION 33 - OCP, COPPER HOARDS"
+          ]
+        },
+        {
+          "title": "Chalcolithic rural political economy",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "VILLAGE HOUSEHOLDS -> crop/herd production -> storage -> craft work -> exchange",
+            "       |                    |                    |              |",
+            "unequal houses        risk and surplus      copper/pottery  regional networks",
+            "       +--------------------+--------------------+--------------+",
+            "                                v",
+            "Settlement hierarchy and differential burials may indicate inequality.",
+            "Most systems were regional and rural, not failed Harappan cities."
+          ],
+          "source_references": [
+            "SESSION 10 - CRAFTS, SPECIALIZATION AND EXCHANGE",
+            "SESSION 11 - SOCIAL DIFFERENTIATION",
+            "SESSION 40 - CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA"
+          ]
+        },
+        {
+          "title": "Decline, transformation and cultural labels",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "LATE JORWE/REGIONAL CHANGE: aridity + production stress + settlement reorganisation",
+            "                         |",
+            "                         v",
+            "some abandonment + smaller settlements + mobile strategies + local continuity",
+            "CAUTION 1: archaeological culture = material pattern, not a named people.",
+            "CAUTION 2: copper use does not displace stone or prove urbanisation.",
+            "CAUTION 3: Neolithic, Chalcolithic and Harappan worlds overlap and interact."
+          ],
+          "source_references": [
+            "SESSION 32 - DECLINE AND TRANSFORMATION",
+            "SESSION 34 - NEOLITHIC, CHALCOLITHIC AND HARAPPAN",
+            "SESSION 35 - INTERPRETATIONS AND SOURCE LIMITATIONS"
+          ]
+        },
+        {
+          "title": "Neolithic-Chalcolithic answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define phase -> process -> two regional sites -> evidence caution",
+            "15 MARKS: transition causes -> domestication proof -> technology/settlement -> comparison",
+            "20 MARKS: mosaic chronology -> regional map -> Chalcolithic matrix -> economy/society",
+            "          -> ash-mound debate -> transformation -> qualified synthesis",
+            "Use triads: region + site + marker; never write an undifferentiated site catalogue.",
+            "CLOSE: food production reorganised time, labour and settlement through diverse paths."
+          ],
+          "source_references": [
+            "SESSION 22 - REGIONAL NEOLITHIC COMPARISON",
+            "SESSION 38 - REGION-SITE-MARKER TRIADS",
+            "SESSION 39 - FROM PRODUCTION TO SOCIAL CONSEQUENCE"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "display_title": "The Harappan Civilization",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g9\\ancient-indian-history-06_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 10,
+      "panels": [
+        {
+          "title": "Harappan chronology: regional roots to localisation",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY/REGIONALISATION -> MATURE/INTEGRATION -> LATE/LOCALISATION",
+            "c. 3300-2600 BCE       c. 2600-1900 BCE       c. 1900-1300 BCE",
+            "regional towns/crafts  shared weights, seals,  de-urbanisation, local ceramics,",
+            "and exchange networks  script, urban systems   settlement shifts, continuities",
+            "          |                     |                         |",
+            "          +---------------------+-------------------------+",
+            "                                v",
+            "Civilisation = integrated urban-rural network; decline = regional transformation."
+          ],
+          "source_references": [
+            "SESSION 1 - TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL",
+            "SESSION 4 - FROM EARLIER FARMING COMMUNITIES",
+            "SESSION 26 - LATE HARAPPAN CONTINUITY"
+          ]
+        },
+        {
+          "title": "Harappan spatial system and site atlas",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "WEST: Sutkagendor -> Makran edge | NORTH: Manda -> Jammu frontier",
+            "CORE INDUS: Harappa -> urban/cemetery sequence | Mohenjo-daro -> Great Bath/drains",
+            "GHAGGAR: Kalibangan -> ploughed field/fire installations | Banawali -> fortified town",
+            "EAST: Rakhigarhi -> major Haryana complex | Alamgirpur -> eastern Late Harappan edge",
+            "KUTCH: Dholavira -> three-part city, reservoirs, signboard | Surkotada -> fortification",
+            "GUJARAT: Lothal -> basin/warehouse/craft debate | Rangpur -> regional sequence",
+            "SINDH: Chanhudaro -> craft centre; no classic citadel-lower-town profile"
+          ],
+          "source_references": [
+            "SESSION 3 - GEOGRAPHICAL EXTENT",
+            "SESSION 6 - SITE ATLAS I",
+            "SESSION 7 - SITE ATLAS II",
+            "SESSION 8 - SITE ATLAS III",
+            "SESSION 9 - SITE ATLAS IV"
+          ]
+        },
+        {
+          "title": "Urban-rural settlement hierarchy",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "FARM/PASTORAL HAMLETS -> VILLAGES -> CRAFT/ROUTE CENTRES -> REGIONAL CITIES",
+            " food and herds          storage       specialised output    coordination/consumption",
+            "        |                   |                 |                      |",
+            "        +-------------------+-----------------+----------------------+",
+            "                                  v",
+            "weights + seals + transport + shared styles connect unequal regional domains.",
+            "Urbanism depended on rural surplus and raw-material corridors; cities were not isolated."
+          ],
+          "source_references": [
+            "SESSION 5 - SETTLEMENT HIERARCHY AND THE URBAN-RURAL SYSTEM",
+            "SESSION 34 - FROM REGIONAL CULTURES TO URBAN INTEGRATION",
+            "SESSION 35 - EXTENT, ECOLOGY AND THE URBAN-RURAL SYSTEM"
+          ]
+        },
+        {
+          "title": "Built order, water and civic maintenance",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD HOUSES",
+            "                         |",
+            "                         v",
+            "wells/reservoirs -> bathing areas -> covered drains -> soak pits/inspection access",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "household investment              collective maintenance",
+            "          +--------------+--------------+",
+            "                         v",
+            "Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains."
+          ],
+          "source_references": [
+            "SESSION 10 - TOWN PLANNING",
+            "SESSION 11 - WATER, SANITATION, DRAINAGE",
+            "SESSION 30 - URBAN WATER AND BUILT FORM",
+            "SESSION 36 - PLANNING, WATER AND EVERYDAY MAINTENANCE"
+          ]
+        },
+        {
+          "title": "The Harappan economy as a linked system",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "AGRICULTURAL-PASTORAL BASE",
+            "          |",
+            " +--------+---------+---------+---------+",
+            " |                  |         |         |",
+            "wheat/barley     cattle    cotton    fishing/regional crops",
+            " +--------+---------+---------+---------+",
+            "          |",
+            "          v",
+            "SURPLUS -> craft workshops -> calibrated weights -> seals/transport -> exchange",
+            "CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important."
+          ],
+          "source_references": [
+            "SESSION 13 - AGRICULTURE, CROPS, SEASONS",
+            "SESSION 14 - PASTORALISM",
+            "SESSION 15 - CRAFT PRODUCTION",
+            "SESSION 17 - WEIGHTS, MEASURES",
+            "SESSION 37 - THE ECONOMY AS A LINKED SYSTEM"
+          ]
+        },
+        {
+          "title": "Internal and overseas exchange corridors",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "RAW MATERIAL FLOW",
+            "Baluchistan/Afghanistan -> metals/stones -> Indus cities",
+            "Rajasthan/Khetri -> copper corridor -> production zones",
+            "Gujarat/Kutch -> shell, carnelian, coastal routes -> crafts and ports",
+            "Indus/Makran/Gulf -> Dilmun/Magan -> Mesopotamia; Meluhha in cuneiform texts",
+            "                         |",
+            "                         v",
+            "Trade evidence = imports + texts + seals + production; it does not prove colonies.",
+            "Lothal basin has dockyard/reservoir interpretations: state the debate."
+          ],
+          "source_references": [
+            "SESSION 19 - INTERNAL EXCHANGE",
+            "SESSION 20 - LONG-DISTANCE TRADE, MELUHHA",
+            "SESSION 31 - PRODUCTION, MEASUREMENT AND EXCHANGE"
+          ]
+        },
+        {
+          "title": "Society and polity: evidence without invented kings",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "EVIDENCE: house variation + scarce goods + craft control + standards + public works",
+            "                         |",
+            "      +------------------+------------------+",
+            "      |                  |                  |",
+            "centralised state?   city/regional states? corporate or mercantile elites?",
+            "      +------------------+------------------+",
+            "                         v",
+            "NO secure palace, royal tomb or deciphered king-list; hierarchy existed, form is open.",
+            "VERDICT: coordinated institutions are certain; empire-level sovereignty is unproven."
+          ],
+          "source_references": [
+            "SESSION 21 - SOCIAL ORGANISATION",
+            "SESSION 22 - POLITY DEBATE",
+            "SESSION 38 - EVIDENCE LADDER FOR SCRIPT, POLITY, SOCIETY AND RELIGION"
+          ]
+        },
+        {
+          "title": "Script, seals and religion: evidence ladder",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "SECURE: short signs, seals/tablets, motifs, ritual installations, burials, figurines",
+            "PROBABLE: identity/transaction marking and differentiated ritual practices",
+            "DISPUTED: script language; proto-Shiva; mother-goddess system; universal fire altars",
+            "REJECT: reading later Hindu doctrine directly into every Harappan image.",
+            "                         |",
+            "                         v",
+            "Undeciphered script blocks direct access to office, belief and political vocabulary.",
+            "Use object + context + distribution before analogy."
+          ],
+          "source_references": [
+            "SESSION 18 - SEALS, SEALINGS AND THE UNDECIPHERED SCRIPT",
+            "SESSION 23 - RELIGION AND RITUAL",
+            "SESSION 24 - GENDER, BURIALS, HEALTH",
+            "SESSION 32 - SCRIPT, RITUAL AND AUTHORITY"
+          ]
+        },
+        {
+          "title": "De-urbanisation: interacting regional causes",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "river shifts/floods + aridification + exchange contraction + maintenance stress",
+            "                                  |",
+            "                                  v",
+            "weaker standards -> city contraction/abandonment -> settlement redistribution",
+            "                                  |",
+            "          +-----------------------+----------------------+",
+            "          |                                              |",
+            "loss: script, seals, large cities                continuity: crops, crafts, villages",
+            "                                  |",
+            "                                  v",
+            "No invasion or single river explains all regions; timings and outcomes differ."
+          ],
+          "source_references": [
+            "SESSION 25 - DECLINE AND DEURBANISATION",
+            "SESSION 26 - LATE HARAPPAN CONTINUITY",
+            "SESSION 33 - DECLINE AS TRANSFORMATION",
+            "SESSION 39 - DE-URBANISATION AS CAUSAL SEQUENCE"
+          ]
+        },
+        {
+          "title": "Harappan answer architecture: 10/15/20 marks",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: phase -> site-feature triad -> mechanism -> interpretation caution",
+            "15 MARKS: chronology -> spatial system -> urban form -> economy -> polity/religion limits",
+            "20 MARKS: integration -> site map -> urban-rural economy -> water/standards/trade",
+            "          -> society-polity evidence -> script/ritual limits -> transformation",
+            "BENCHMARK: material uniformity indicates integration, not automatic political unity.",
+            "CLOSE: a varied civilisation coordinated by standards, exchange and maintenance."
+          ],
+          "source_references": [
+            "SESSION 28 - PHASE -> PROCESS -> REGIONAL CHANGE",
+            "SESSION 29 - SITE-FEATURE TRIADS",
+            "SESSION 40 - SITE MEMORY METHOD AND THE FIVE-SENTENCE ANSWER"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "display_title": "The Aryan Problem & Identity of Aryan Culture",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g9\\ancient-indian-history-07_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Category firewall: language is not race",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TERM             VALID USE                         INVALID COLLAPSE",
+            "arya             self/cultural designation         biological race",
+            "Indo-Aryan       branch of Indo-Iranian languages  skull type or pure people",
+            "Indo-Iranian     linguistic-cultural relationship  one archaeological culture",
+            "Aryan culture    reconstructed practices/texts     uniform invading nation",
+            "                         |",
+            "                         v",
+            "Separate language, ancestry, material culture and identity before comparison."
+          ],
+          "source_references": [
+            "SESSION 1 - TERMINOLOGY - ARYA, ARYAN, INDO-ARYAN AND INDO-IRANIAN",
+            "SESSION 40 - THE CATEGORY FIREWALL"
+          ]
+        },
+        {
+          "title": "Why the Aryan problem persists",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "QUESTION: how did Indo-Aryan speech and early Vedic culture form in South Asia?",
+            "       |",
+            " +-----+---------+----------+----------+----------+",
+            " |               |          |          |          |",
+            "linguistics    Rig Veda archaeology  genetics  historiography/politics",
+            "relationship  layered text contexts   ancestry  colonial/present claims",
+            " +-----+---------+----------+----------+----------+",
+            "                       |",
+            "                       v",
+            "No class alone identifies a group, route, date and cultural outcome."
+          ],
+          "source_references": [
+            "SESSION 2 - WHY THERE IS AN ARYAN PROBLEM",
+            "SESSION 5 - EVIDENCE MATRIX"
+          ]
+        },
+        {
+          "title": "Working chronology and interaction corridor",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SINTASHTA/STEPPE -> CENTRAL ASIAN/BMAC CONTACT -> NORTH-WEST SOUTH ASIA -> VEDIC MILIEU",
+            "2nd millennium BCE technology/speech hypotheses -> interaction -> cultural synthesis",
+            "                 |                       |                       |",
+            "                 +-----------------------+-----------------------+",
+            "                                         v",
+            "Mitanni Indo-Aryan names and terms provide external attestation in western Asia.",
+            "A corridor model is not a mapped army route; scale and social process stay open."
+          ],
+          "source_references": [
+            "SESSION 6 - CHRONOLOGY",
+            "SESSION 8 - MITANNI EVIDENCE",
+            "SESSION 23 - BMAC",
+            "SESSION 24 - STEPPE, SINTASHTA",
+            "SESSION 25 - CORRIDOR MAP"
+          ]
+        },
+        {
+          "title": "Linguistic evidence: descent plus contact",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "regular sound correspondences + shared vocabulary + grammar",
+            "                         |",
+            "                         v",
+            "Indo-European family -> Indo-Iranian branch -> Indo-Aryan differentiation",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "inherited vocabulary             loanwords and retroflexion from contact",
+            "          +--------------+--------------+",
+            "                         v",
+            "Language transmission cannot alone specify genes, route or invasion."
+          ],
+          "source_references": [
+            "SESSION 3 - EARLY PHILOLOGY",
+            "SESSION 7 - INDO-EUROPEAN AND INDO-IRANIAN",
+            "SESSION 9 - CONTACT LINGUISTICS",
+            "SESSION 41 - LANGUAGE FAMILY LOGIC AND CONTACT"
+          ]
+        },
+        {
+          "title": "Rigvedic identity: a cultural system",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "RIG VEDA: layered oral corpus in a north-western Sapta-Sindhu milieu",
+            " |-- economy: cattle-centred pastoralism with agriculture and crafts",
+            " |-- polity: jana, vis, rajan, sabha, samiti; no territorial empire",
+            " |-- society: kinship/difference; later caste must not be projected backward",
+            " |-- religion: deities, rita, yajna, soma and praise-poetry",
+            " |-- warfare: horse/chariot terms and cattle/route conflicts",
+            " +-> identity is cultural-historical, not a racial phenotype."
+          ],
+          "source_references": [
+            "SESSION 10 - RIG VEDA AS A HISTORICAL SOURCE",
+            "SESSION 11 - TEXTUAL GEOGRAPHY",
+            "SESSION 34 - ECONOMY AND MATERIAL LIFE",
+            "SESSION 35 - KINSHIP, POLITY AND SOCIETY",
+            "SESSION 36 - RELIGION, LANGUAGE AND MEMORY"
+          ]
+        },
+        {
+          "title": "Archaeological cultures are not peoples",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "Cemetery H        Gandhara Grave/Swat     OCP/Copper Hoards      PGW",
+            "Punjab mortuary   frontier burials and    upper Ganga material   later plain horizon",
+            "change/continuity interaction             associations vary       settlement pattern",
+            "      |                    |                      |                   |",
+            "      +--------------------+----------------------+-------------------+",
+            "                                  v",
+            "None equals Aryan people by itself; relate dates, regions and practices cautiously.",
+            "Sanauli vehicles cannot settle horse-chariot identity without technical context."
+          ],
+          "source_references": [
+            "SESSION 16 - ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE",
+            "SESSION 18 - CEMETERY H",
+            "SESSION 19 - GANDHARA GRAVE/SWAT",
+            "SESSION 20 - OCP AND COPPER HOARDS",
+            "SESSION 21 - PAINTED GREY WARE",
+            "SESSION 22 - SANAULI"
+          ]
+        },
+        {
+          "title": "Archaeogenetics: result and claim boundary",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ANCIENT SAMPLE -> contamination control -> genetic components -> statistical model",
+            "                         |",
+            "                         v",
+            "Rakhigarhi: one Harappan-context genome; not the whole civilisation.",
+            "South/Central Asian aDNA models: later Steppe-related ancestry entered South Asia.",
+            "                         |",
+            "                         v",
+            "Ancestry can show mixture/timing ranges, not language or self-identity alone.",
+            "Sampling is sparse, uneven and vulnerable to political overclaim."
+          ],
+          "source_references": [
+            "SESSION 26 - ARCHAEOGENETICS",
+            "SESSION 27 - RAKHIGARHI GENOME",
+            "SESSION 28 - SOUTH AND CENTRAL ASIAN ADNA"
+          ]
+        },
+        {
+          "title": "Competing models and best-fit verdict",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "INVASION: rapid violent replacement -> simplistic and archaeologically weak",
+            "IN-MIGRATION: movement over time + interaction -> better multi-source fit",
+            "INDIGENOUS/OIT: local formation/outward movement -> must explain linguistic geography,",
+            "                Mitanni evidence and ancient-DNA patterns",
+            "SYNTHESIS: mobility + continuity + borrowing + intermarriage + cultural recomposition",
+            "                         |",
+            "                         v",
+            "VERDICT: migration is not conquest; continuity is not isolation; evidence is graded."
+          ],
+          "source_references": [
+            "SESSION 29 - COMPETING MODELS",
+            "SESSION 30 - WHY THE SIMPLISTIC INVASION MODEL IS REJECTED",
+            "SESSION 31 - MIGRATION/IN-MIGRATION",
+            "SESSION 32 - INDIGENOUS/OUT-OF-INDIA",
+            "SESSION 33 - INTERACTION AND SYNTHESIS"
+          ]
+        },
+        {
+          "title": "Aryan-problem answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define categories -> two evidence classes -> one limit -> cautious verdict",
+            "15 MARKS: historiography -> linguistic case -> text/archaeology -> genetics -> synthesis",
+            "20 MARKS: firewall -> evidence matrix -> corridor -> competing models",
+            "          -> Harappan continuity/contact -> political misuse -> graded conclusion",
+            "EVIDENCE VERB: supports / is consistent with / complicates; avoid proves when indirect.",
+            "CLOSE: early Vedic culture formed through mobility and South Asian interaction, not race."
+          ],
+          "source_references": [
+            "SESSION 37 - HARAPPAN-TO-VEDIC RELATIONSHIP",
+            "SESSION 38 - POLITICAL MISUSE",
+            "SESSION 39 - ANSWER-WRITING FRAMEWORK",
+            "SESSION 46 - MIGRATION, NOT INVASION, AND THE ANSWER SPINE"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "display_title": "The Rig Vedic Age (Early Vedic)",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g9\\ancient-indian-history-08_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Rig Veda as source and chronological spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FAMILY BOOKS (2-7) -> OTHER LAYERS (1, 8, 9, 10) -> REDACTION/ORAL PRESERVATION",
+            "earlier core trends     varied/later material      disciplined transmission",
+            "          |                         |                          |",
+            "          +-------------------------+--------------------------+",
+            "                                    v",
+            "Working early Vedic horizon: broadly c. 1500-1000 BCE, not a date for every hymn.",
+            "Text gives a poetic-ritual world; frequency and silence are not census data."
+          ],
+          "source_references": [
+            "SESSION 1 - THE RIG VEDA: CORPUS, COMPOSITION, LAYERS",
+            "SESSION 2 - RELATIVE CHRONOLOGY",
+            "SESSION 21 - CORPUS, LAYERS AND A WORKING CHRONOLOGY"
+          ]
+        },
+        {
+          "title": "Sapta-Sindhu textual geography",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "                    NORTH-WESTERN MILIEU",
+            "Kabul/Kubha ---- Indus/Sindhu ---- Punjab rivers ---- Sarasvati/Drishadvati zone",
+            " mountain routes       trunk river       pastoral/farming      eastern attention",
+            "                           |",
+            "                           v",
+            "Rivers organise praise, movement, pasture and conflict; geography is selective.",
+            "Ganga is marginal in this horizon; later Vedic expansion shifts the centre east.",
+            "Do not turn remembered rivers into precise political borders."
+          ],
+          "source_references": [
+            "SESSION 3 - GEOGRAPHICAL SETTING",
+            "SESSION 22 - GEOGRAPHY AS A NORTH-WESTERN TEXTUAL MILIEU"
+          ]
+        },
+        {
+          "title": "Kin polity: authority without territorial state",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "KULA -> GRAMA -> VIS -> JANA",
+            "                    |",
+            "                    v",
+            "RAJAN: war leadership, protection, distribution and ritual status; not absolute monarch",
+            " |-- sabha: smaller/select assembly context | samiti: broader assembly",
+            " |-- purohita: adviser | senani: martial role | gramani: group leader",
+            " +-> bali: offering/tribute, not a regular land-revenue bureaucracy",
+            "Power rested on kin support, cattle, gifts, assemblies and successful leadership."
+          ],
+          "source_references": [
+            "SESSION 4 - POLITICAL ORGANISATION",
+            "SESSION 5 - ASSEMBLIES, OFFICIALS, BALI",
+            "SESSION 23 - KINSHIP, RAJAN AND ASSEMBLIES"
+          ]
+        },
+        {
+          "title": "Cattle-agriculture economy loop",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PASTURE + WATER -> CATTLE WEALTH -> dairy, traction, gifts, status and conflict",
+            "                         |",
+            "                         v",
+            "mixed farming: barley/yava + cultivation + crafts + exchange + household production",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "mobility and raiding              settlement and seasonal cropping",
+            "          +--------------+--------------+",
+            "                         v",
+            "Pastoral predominance does not mean absence of agriculture or exchange."
+          ],
+          "source_references": [
+            "SESSION 7 - ECONOMY: CATTLE WEALTH",
+            "SESSION 8 - AGRICULTURE, WATER, CRAFTS, EXCHANGE",
+            "SESSION 24 - THE CATTLE-AGRICULTURE ECONOMY LOOP"
+          ]
+        },
+        {
+          "title": "Society: kinship, difference and projection limits",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "HOUSEHOLD/KIN ORDER",
+            "       |",
+            " +-----+---------+----------+----------+",
+            " |               |          |          |",
+            "patrilineal   marriage   patron-client dasa/dasyu  status groups",
+            "tendency      alliances   gift ties    varied terms priests/warriors/commoners",
+            " +-----+---------+----------+----------+",
+            "                       |",
+            "                       v",
+            "Purusha Sukta is late in the corpus; later jati cannot be back-projected."
+          ],
+          "source_references": [
+            "SESSION 9 - SOCIETY: HOUSEHOLD, KINSHIP, FAMILY",
+            "SESSION 10 - SOCIAL DIFFERENTIATION, DASA/DASYU AND EARLY VARNA",
+            "SESSION 25 - SOCIAL DIFFERENTIATION WITHOUT LATER CASTE PROJECTION"
+          ]
+        },
+        {
+          "title": "Deities, rita, yajna and soma",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "RITA: ordered truth and cosmic-social regularity",
+            "          |",
+            "          v",
+            "DEITIES: Indra-war/rain | Agni-fire/mediator | Varuna-order | Soma-plant/deity",
+            "          |",
+            "          v",
+            "YAJNA: praise + offering + priestly speech -> protection, cattle and victory",
+            "          |",
+            "          v",
+            "Religion links ecology, warfare, gift economy and order; temples are not central."
+          ],
+          "source_references": [
+            "SESSION 11 - RELIGION: DEITY MATRIX",
+            "SESSION 12 - RITA, YAJNA, SOMA",
+            "SESSION 13 - FUNERARY IDEAS",
+            "SESSION 26 - DEITIES, RITA, YAJNA AND SOMA"
+          ]
+        },
+        {
+          "title": "Conflict, technology and cultural interaction",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "horse/chariot + bows/weapons + mobile war bands",
+            "                         |",
+            "                         v",
+            "cattle raids + route/pasture contests + Dasharajna coalition conflict",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "leadership and prestige           contact and incorporation",
+            "          +--------------+--------------+",
+            "                         v",
+            "Textual chariot terms matter; archaeological correlation remains independent."
+          ],
+          "source_references": [
+            "SESSION 6 - WARFARE, DASHARAJNA",
+            "SESSION 14 - MATERIAL CULTURE: HORSE, CHARIOT, WEAPONS",
+            "SESSION 15 - CONFLICT, MOBILITY, INTERACTION"
+          ]
+        },
+        {
+          "title": "Early to Later Vedic transformation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "EARLY VEDIC                         LATER VEDIC",
+            "north-west/Sapta-Sindhu             upper Ganga-Yamuna and eastward movement",
+            "jana and kin leadership             janapada, stronger monarchy and ratnins",
+            "cattle-centred mixed economy        plough agriculture, surplus and crafts",
+            "fluid differentiation               firmer varna/patriarchy and gotra",
+            "deity praise and yajna              royal ritual and Upanishadic questioning",
+            "VERDICT: cumulative transformation with regional variation, not abrupt rupture."
+          ],
+          "source_references": [
+            "SESSION 16 - HARAPPAN, POST-HARAPPAN AND RIGVEDIC COMPARISON",
+            "SESSION 17 - EARLY VERSUS LATER VEDIC",
+            "SESSION 18 - HISTORIOGRAPHICAL INTERPRETATIONS",
+            "SESSION 27 - EARLY-TO-LATER VEDIC CHANGE"
+          ]
+        },
+        {
+          "title": "Rig Vedic answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: source caution -> institution/economy -> hymn term -> qualification",
+            "15 MARKS: geography -> polity -> economy -> society -> religion -> archaeology caution",
+            "20 MARKS: corpus/layers -> Sapta-Sindhu -> kin system -> cattle-agriculture loop",
+            "          -> differentiation -> ritual worldview -> conflict/contact -> transition",
+            "AVOID: nomad-only, caste-complete, state/empire or homogeneous-date claims.",
+            "CLOSE: a layered pastoral-agricultural kin society undergoing differentiation."
+          ],
+          "source_references": [
+            "SESSION 18 - HISTORIOGRAPHICAL INTERPRETATIONS AND SOURCE CRITICISM",
+            "SESSION 20 - TERMINOLOGY BANK AND RAPID DISTINCTIONS",
+            "SESSION 27 - EARLY-TO-LATER VEDIC CHANGE AND THE ANSWER SPINE"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "display_title": "The Later Vedic Phase",
+      "active_generation": 10,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g10\\ancient-indian-history-09_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 9,
+      "panels": [
+        {
+          "title": "Later Vedic source, chronology and eastward shift",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "RIGVEDIC LAYERS -> SAMAVEDA/YAJURVEDA/ATHARVAVEDA -> BRAHMANAS -> UPANISHADS",
+            "earlier NW world      ritual corpora              explanation    reflection/critique",
+            "                         |",
+            "                         v",
+            "broad c. 1000-600 BCE: Punjab/upper Ganga-Yamuna -> Kuru-Panchala -> Kosala-Videha",
+            "                         |",
+            "                         v",
+            "Textual sequence is relative and layered; it is not an annual political chronicle."
+          ],
+          "source_references": [
+            "SESSION 1 - TEXT-SOURCE MATRIX",
+            "SESSION 2 - CHRONOLOGY, GEOGRAPHY AND THE EASTWARD SHIFT"
+          ]
+        },
+        {
+          "title": "Forest-agriculture-iron-surplus mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "forest edge + alluvial soils + rainfall + growing labour organisation",
+            "                         |",
+            "                         v",
+            "iron in expanding use + heavier ploughing + cattle traction + crop diversification",
+            "                         |",
+            "                         v",
+            "stable fields/surplus -> larger settlements -> crafts -> political extraction",
+            "CAUTION: iron helped within an ecological-social package; it did not create states alone."
+          ],
+          "source_references": [
+            "SESSION 3 - SETTLEMENT, FORESTS",
+            "SESSION 4 - IRON TECHNOLOGY",
+            "SESSION 5 - AGRICULTURE",
+            "SESSION 10 - POLITICAL ECONOMY WITHOUT TECHNOLOGICAL DETERMINISM"
+          ]
+        },
+        {
+          "title": "Jana to janapada: territorial political change",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "KIN GROUP/JANA -> STABLE SETTLEMENT -> TERRITORIAL JANAPADA -> STRONGER KINGSHIP",
+            "       |                 |                    |                   |",
+            "lineage loyalty     fields/claims        bounded peoples      share, force, ritual",
+            "       +-----------------+--------------------+-------------------+",
+            "                                  v",
+            "Assemblies persist but lose relative weight; monarchy grows without instant bureaucracy.",
+            "This bridges to Mahajanapadas, but no inevitable one-way state ladder."
+          ],
+          "source_references": [
+            "SESSION 7 - FROM JANA TO JANAPADA",
+            "SESSION 8 - MONARCHY, RATNINS",
+            "SESSION 9 - ASSEMBLIES, BALI",
+            "SESSION 23 - BRIDGE TO MAHAJANAPADAS"
+          ]
+        },
+        {
+          "title": "Later Vedic political institution system",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "RAJAN",
+            " |-- ratnins: politically and ritually significant figures",
+            " |-- purohita: legitimation | senani: force | gramani: local linkage",
+            " |-- sabha/samiti: continued assemblies with changing influence",
+            " |-- bali and ruler share: less regular than later taxation",
+            " +-> royal rituals advertise supremacy and mobilise elite consensus",
+            "Authority grows through territory, surplus, ritual and force together."
+          ],
+          "source_references": [
+            "SESSION 8 - MONARCHY, RATNINS AND TRANSITIONAL ADMINISTRATION",
+            "SESSION 9 - ASSEMBLIES, BALI, THE RULER SHARE AND MILITARY CHANGE"
+          ]
+        },
+        {
+          "title": "Household, gender, varna and social ordering",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "GRIHAPATI-CENTRED HOUSEHOLD",
+            "          |",
+            " +--------+---------+---------+---------+",
+            " |                  |         |         |",
+            "patriliny        inheritance marriage  production/ritual authority",
+            " +--------+---------+---------+---------+",
+            "          |",
+            "          v",
+            "varna firms: Brahmana authority + Kshatriya power + producers + servants",
+            "Gender constraints grow in many texts; female seers/debaters prevent a uniform claim.",
+            "Gotra expands; later jati and full four-ashrama scheme require caution."
+          ],
+          "source_references": [
+            "SESSION 11 - HOUSEHOLD, GRIHAPATI",
+            "SESSION 12 - WOMEN, GENDER AND VARIATION",
+            "SESSION 13 - VARNA CONSOLIDATION",
+            "SESSION 14 - GOTRA, ASHRAMA"
+          ]
+        },
+        {
+          "title": "Sacrifice as political economy",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "SURPLUS + SPECIALISED PRIESTS + ROYAL AMBITION",
+            "                         |",
+            "                         v",
+            "RAJASUYA: consecration | ASHVAMEDHA: sovereignty | VAJAPEYA: power/prestige",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "redistributes gifts/animals       ranks ruler, priests and participants",
+            "          +--------------+--------------+",
+            "                         v",
+            "Ritual stages, legitimises and negotiates power; it does not merely reflect it."
+          ],
+          "source_references": [
+            "SESSION 15 - PRIESTLY SPECIALISATION",
+            "SESSION 16 - ROYAL RITUALS",
+            "SESSION 17 - RELIGIOUS CHANGE"
+          ]
+        },
+        {
+          "title": "Upanishadic turn: ritual transformed inward",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM: sacrifice promises results but leaves death, self and ultimate reality open.",
+            "                         |",
+            "                         v",
+            "karma/rebirth + brahman-atman inquiry + knowledge as liberating discipline",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "internalisation of sacrifice      critique/reinterpretation of ritual monopoly",
+            "                         |",
+            "                         v",
+            "Not total rejection: Upanishadic thought grows within and transforms Vedic tradition."
+          ],
+          "source_references": [
+            "SESSION 18 - THE UPANISHADIC TURN",
+            "SESSION 19 - EDUCATION, ORAL TRADITION AND INTELLECTUAL DEVELOPMENTS"
+          ]
+        },
+        {
+          "title": "Early versus Later Vedic comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS          EARLY VEDIC                 LATER VEDIC",
+            "space         Sapta-Sindhu/NW              upper Ganga-Yamuna/eastward",
+            "polity        jana, rajan, assemblies      janapada, kingship, ratnins",
+            "economy       cattle-centred mixed base    plough farming, surplus, crafts",
+            "society       flexible differentiation     firmer varna, patriarchy, gotra",
+            "religion      deity praise/yajna            royal rites + Upanishadic inquiry",
+            "material      mixed correlates             PGW useful; not an ethnic identity"
+          ],
+          "source_references": [
+            "SESSION 20 - PAINTED GREY WARE",
+            "SESSION 21 - EARLY VERSUS LATER VEDIC COMPARISON",
+            "SESSION 22 - CONTINUITY, TRANSFORMATION AND REGIONAL VARIATION",
+            "SESSION 24 - HISTORIOGRAPHY AND SOURCE CRITICISM"
+          ]
+        },
+        {
+          "title": "Later Vedic answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: identify change -> mechanism -> Vedic term/ritual -> continuity caveat",
+            "15 MARKS: source/space -> economy -> polity -> society -> religion -> PGW caution",
+            "20 MARKS: eastward ecology -> iron/agriculture -> jana-janapada -> institutions",
+            "          -> household/varna/gender -> sacrifice -> Upanishadic turn -> state bridge",
+            "Avoid iron-caused-kingdoms and women-lost-all-status claims; grade evidence.",
+            "CLOSE: territoriality, surplus and ritual hierarchy deepened cumulatively."
+          ],
+          "source_references": [
+            "SESSION 23 - BRIDGE TO MAHAJANAPADAS WITHOUT TELEOLOGY",
+            "SESSION 24 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+            "SESSION 25 - TERMINOLOGY BANK AND RAPID DISTINCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "display_title": "Jainism and Buddhism",
+      "active_generation": 10,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g10\\ancient-indian-history-10_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 10,
+      "panels": [
+        {
+          "title": "Sixth-century BCE shramana field",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING",
+            "                                      |",
+            "                                      v",
+            "                              SHRAMANA FIELD",
+            "       +----------------------+----------------------+-------------------+",
+            "       |                      |                      |                   |",
+            "     JAINA                 BUDDHIST                AJIVIKA          other schools",
+            "       +----------------------+----------------------+-------------------+",
+            "                                      v",
+            "Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ."
+          ],
+          "source_references": [
+            "SESSION 1 - SIXTH-CENTURY BCE SETTING",
+            "SESSION 2 - THE SHRAMANA FIELD"
+          ]
+        },
+        {
+          "title": "Jain cosmos, bondage and liberation",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "JIVA (conscious) + AJIVA (non-conscious) -> beginningless cosmos without creator",
+            "                         |",
+            "                         v",
+            "action/passions attract karmic matter -> bondage and repeated birth",
+            "                         |",
+            "                         v",
+            "samvara stops influx + nirjara sheds karma -> kevala-jnana -> moksha",
+            "                         |",
+            "                         v",
+            "Liberation is purification of an enduring individual soul, not annihilation."
+          ],
+          "source_references": [
+            "SESSION 5 - JAIN ONTOLOGY",
+            "SESSION 6 - JAIN KARMA, BONDAGE AND LIBERATION"
+          ]
+        },
+        {
+          "title": "Jain path and many-sided knowledge",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "TRIRATNA: right faith + right knowledge + right conduct",
+            "                         |",
+            "                         v",
+            "FIVE VOWS: ahimsa | satya | asteya | brahmacharya | aparigraha",
+            "monastic mahavrata = rigorous | lay anuvrata = limited practicable form",
+            "                         |",
+            "                         v",
+            "ANEKANTAVADA -> NAYAVADA standpoints -> SYADVADA qualified predication",
+            "Many-sidedness disciplines claims; it does not make contradictions equally true."
+          ],
+          "source_references": [
+            "SESSION 7 - JAIN TRIRATNA, FIVE VOWS",
+            "SESSION 8 - ANEKANTAVADA, SYADVADA AND NAYAVADA"
+          ]
+        },
+        {
+          "title": "Jain community, canon and spread",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "Parshvanatha -> Mahavira -> fourfold sangha -> councils/redactions -> sects",
+            "23rd Tirthankara 24th      monks/nuns/lay     Pataliputra/Valabhi  Digambara/Shvetambara",
+            "                         |",
+            "                         v",
+            "patronage and merchants -> Mathura, western India, Karnataka -> temples/literature",
+            "Sect differences include clothing, canon and liberation questions.",
+            "Avoid reducing separation to one famine story or treating all traditions as identical."
+          ],
+          "source_references": [
+            "SESSION 3 - PRE-MAHAVIRA JAIN TRADITION",
+            "SESSION 4 - MAHAVIRA",
+            "SESSION 9 - JAIN SANGHA",
+            "SESSION 10 - JAIN COUNCILS",
+            "SESSION 11 - DIGAMBARA, SHVETAMBARA",
+            "SESSION 12 - JAIN SPREAD"
+          ]
+        },
+        {
+          "title": "Buddhist diagnosis and disciplined path",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DUKKHA -> SAMUDAYA (craving/ignorance) -> NIRODHA -> EIGHTFOLD PATH",
+            "                                                  |",
+            "             +----------------+-------------------+",
+            "             |                |                   |",
+            "wisdom: view/intention   ethics: speech/action/livelihood   meditation: effort/mindfulness",
+            "                                                  |",
+            "                                                  v",
+            "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha."
+          ],
+          "source_references": [
+            "SESSION 13 - THE BUDDHA",
+            "SESSION 14 - FOUR NOBLE TRUTHS",
+            "SESSION 15 - EIGHTFOLD PATH, MIDDLE WAY"
+          ]
+        },
+        {
+          "title": "Dependent origination and no-self",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ignorance -> formations -> consciousness -> name-form -> six senses -> contact",
+            "-> feeling -> craving -> clinging -> becoming -> birth -> ageing-and-death",
+            "                         |",
+            "                         v",
+            "conditioned arising explains continuity without eternal atman or first creator.",
+            "aggregates: form, feeling, perception, formations, consciousness -> impermanent/anatta",
+            "karma preserves ethical causation through process; nirvana is not physical death."
+          ],
+          "source_references": [
+            "SESSION 16 - DEPENDENT ORIGINATION",
+            "SESSION 17 - IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA"
+          ]
+        },
+        {
+          "title": "Buddhist sangha, councils and canons",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "BUDDHA/DHAMMA -> monastic SANGHA under VINAYA <-> lay gifts, merit and protection",
+            "                         |",
+            "                         v",
+            "conventional councils: Rajagriha -> Vaishali -> Pataliputra -> regional recensions",
+            "                         |",
+            "                         v",
+            "Pali Tipitaka: Vinaya + Sutta + Abhidhamma; other witnesses survive in Sanskrit,",
+            "Chinese and Tibetan traditions. Councils are sectarian memories, not court minutes.",
+            "Women ordain, but institutional hierarchy and textual debate remain."
+          ],
+          "source_references": [
+            "SESSION 18 - SANGHA, VINAYA, LAY SUPPORT",
+            "SESSION 19 - WOMEN, SOCIAL ACCESS",
+            "SESSION 20 - BUDDHIST COUNCILS",
+            "SESSION 21 - BUDDHIST CANONS"
+          ]
+        },
+        {
+          "title": "Buddhist developments: schools to Vajrayana",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY SCHOOLS -> MAHAYANA -> MADHYAMAKA/YOGACARA -> VAJRAYANA",
+            "Vinaya/Abhidharma  bodhisattva ideal  emptiness/mind debates  mantra/mandala/tantra",
+            "multiple nikayas   new sutras         philosophy systems       ritual monasteries",
+            "                         |",
+            "                         v",
+            "Theravada is one surviving early tradition; Hinayana is a polemical label, not synonym.",
+            "Maitreya/paramitas fit Mahayana; Vajrayana is a later development."
+          ],
+          "source_references": [
+            "SESSION 22 - EARLY SCHOOLS AND THE THERAVADA-HINAYANA FIREWALL",
+            "SESSION 23 - MAHAYANA",
+            "SESSION 24 - MADHYAMAKA AND YOGACARA",
+            "SESSION 25 - VAJRAYANA"
+          ]
+        },
+        {
+          "title": "Networks, material culture and outcomes",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "GANGA HEARTLAND -> stupas/monasteries -> trade routes and political patronage",
+            "Mauryan/post-Mauryan support -> Sanchi, Bharhut and caves -> donors/artisans",
+            "NORTH-WEST/CENTRAL ASIA -> Silk routes -> China -> Korea/Japan",
+            "SRI LANKA -> Theravada transmission -> Southeast Asian histories",
+            "JAIN NETWORKS -> Mathura/western India/Deccan/Karnataka -> temples/manuscripts",
+            "                         |",
+            "                         v",
+            "Buddhism later declined/absorbed in India as patronage and monastery networks changed;",
+            "Jainism persisted through lay institutions, regional patrons and adaptive communities."
+          ],
+          "source_references": [
+            "SESSION 26 - WHY THE TRADITIONS BECAME POPULAR",
+            "SESSION 27 - PATRONAGE NETWORKS",
+            "SESSION 28 - REGIONAL AND INTERNATIONAL SPREAD",
+            "SESSION 29 - STUPAS, CAVES, MONASTERIES, IMAGES",
+            "SESSION 31 - BUDDHISM DECLINE",
+            "SESSION 32 - WHY JAINISM PERSISTED"
+          ]
+        },
+        {
+          "title": "Jainism-Buddhism comparison and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "AXIS: Jain jiva vs Buddhist anatta | karmic matter vs conditioned process",
+            "PATH: vows/austerity/triratna vs middle way/eightfold path",
+            "10 MARKS: doctrine -> mechanism/path -> named term -> distinction/caution",
+            "15 MARKS: context -> doctrine -> institution -> patronage/spread -> limitation",
+            "20 MARKS: shramana setting -> both systems -> councils/schools/material culture",
+            "          -> controlled comparison -> decline/persistence -> source qualification",
+            "CLOSE: both recast ethics/liberation through fundamentally different selves and paths."
+          ],
+          "source_references": [
+            "SESSION 30 - JAINISM AND BUDDHISM: A CONTROLLED COMPARISON",
+            "SESSION 33 - HISTORIOGRAPHY AND EVIDENCE LIMITS",
+            "SESSION 35 - CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "display_title": "Mahajanapadas & Rise of Magadha",
+      "active_generation": 10,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g10\\ancient-indian-history-11_Complete-Learning-Session_2026-08-23.md",
+      "panel_count": 10,
+      "panels": [
+        {
+          "title": "Mahajanapadas: long state-formation transition",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JANA -> JANAPADA -> MAHAJANAPADA -> IMPERIAL THRESHOLD",
+            "kin community  territorial base  large competing states  Magadhan/Mauryan platform",
+            "     |               |                    |                      |",
+            "     +---------------+--------------------+----------------------+",
+            "                              v",
+            "c. 1000-600 BCE changes -> c. 6th-4th centuries BCE competitive state system",
+            "Sixteen is a conventional list; state formation was neither simultaneous nor linear."
+          ],
+          "source_references": [
+            "SESSION 1 - CHRONOLOGY",
+            "SESSION 2 - FROM JANA TO JANAPADA TO MAHAJANAPADA",
+            "SESSION 28 - TRANSITION TO EMPIRE"
+          ]
+        },
+        {
+          "title": "Sixteen Mahajanapadas: political text map",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "NORTH-WEST: Gandhara, Kamboja | UPPER PLAIN: Kuru, Panchala, Matsya, Surasena",
+            "CENTRAL/WEST: Chedi, Avanti, Vatsa | TRANS-VINDHYAN: Assaka",
+            "MIDDLE/EAST GANGA: Kashi, Kosala, Anga, Magadha",
+            "REPUBLICAN EAST: Vajji, Malla | textual lists and placements can vary",
+            "                         |",
+            "                         v",
+            "FOUR LEADING MONARCHIES: Magadha, Kosala, Vatsa, Avanti",
+            "Map polity to capital, route and rivalry; do not draw fixed modern borders."
+          ],
+          "source_references": [
+            "SESSION 3 - THE SIXTEEN MAHAJANAPADAS",
+            "SESSION 4 - TEXT MAP",
+            "SESSION 5 - MAJOR MONARCHIES",
+            "SESSION 6 - EASTERN POLITIES",
+            "SESSION 7 - REGIONAL PROFILES"
+          ]
+        },
+        {
+          "title": "Monarchy and gana-sangha compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MONARCHY                         GANA-SANGHA",
+            "hereditary/dynastic rajan        assembly of chiefly lineages",
+            "court, officials, organised force deliberation among oligarchic elites",
+            "expanding taxation/territory     corporate sovereignty/confederacy",
+            "village heads link centre/local  non-elite, women and dependants excluded",
+            "       |                                  |",
+            "       +----------------+-----------------+",
+            "                        v",
+            "Two state forms: gana was not modern democracy; monarchy was not automatic progress."
+          ],
+          "source_references": [
+            "SESSION 9 - MONARCHICAL INSTITUTIONS",
+            "SESSION 10 - GANAS AND SANGHAS",
+            "SESSION 11 - MONARCHY VERSUS GANA-SANGHA"
+          ]
+        },
+        {
+          "title": "Second urbanisation: city-system mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "agricultural surplus + extraction + crafts + routes + merchant finance",
+            "                         |",
+            "                         v",
+            "Rajagriha | Kaushambi | Vaishali | Champa | later Pataliputra",
+            "                         |",
+            "                         v",
+            "NBPW horizon + craft quarters + markets + punch-marked coin circulation",
+            "                         |",
+            "                         v",
+            "Urbanisation was networked and uneven; NBPW and coins are indicators, not sole causes."
+          ],
+          "source_references": [
+            "SESSION 12 - SECOND URBANISATION",
+            "SESSION 13 - CITIES AND FORTIFICATIONS",
+            "SESSION 14 - CRAFTS, CORPORATE ORGANISATION, TRADE ROUTES",
+            "SESSION 15 - PUNCH-MARKED COINS"
+          ]
+        },
+        {
+          "title": "Agrarian political economy and social change",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "forest clearance/fields + iron in context + cattle/plough labour",
+            "                         |",
+            "                         v",
+            "surplus -> tax/share -> army/officials/forts -> market and town demand",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "gahapati household elites        setthi, merchants and craft groups",
+            "          +--------------+--------------+",
+            "                         v",
+            "Varna claims, new wealth and shramana critiques intersect in urbanising society."
+          ],
+          "source_references": [
+            "SESSION 16 - AGRICULTURE, IRON, SURPLUS, TAXATION AND SOCIAL CHANGE",
+            "SESSION 17 - STATE, SOCIETY AND THE SHRAMANA SETTING"
+          ]
+        },
+        {
+          "title": "Why Magadha? interacting causal matrix",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "MAGADHAN ASCENDANCY",
+            "       |",
+            " +-----+---------+---------+---------+---------+",
+            " |               |         |         |         |",
+            "Ganga plain    rivers    resources capitals   political agency",
+            "alluvium/rice transport  iron/     Rajagriha Bimbisara/Ajatashatru",
+            "                         elephants ->Pataliputra diplomacy, war, rule",
+            " +-----+---------+---------+---------+---------+",
+            "                       |",
+            "                       v",
+            "Advantages became power through institutions; no geography or resource monopoly alone."
+          ],
+          "source_references": [
+            "SESSION 18 - WHY MAGADHA? THE COMPLETE CAUSAL MATRIX",
+            "SESSION 19 - GEOGRAPHY AND RIVERS",
+            "SESSION 20 - IRON, ELEPHANTS, FORESTS",
+            "SESSION 21 - CAPITALS AND FORTIFICATIONS",
+            "SESSION 22 - POLITICAL AGENCY"
+          ]
+        },
+        {
+          "title": "Magadhan dynastic expansion sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BIMBISARA -> AJATASHATRU -> UDAYIN -> SHISHUNAGA -> NANDAS -> MAURYAN THRESHOLD",
+            "Anga, marriage  Kosala/Vajji wars Pataliputra    Avanti absorbed resources/army",
+            "      |              |              |               |                 |",
+            "      +--------------+--------------+---------------+-----------------+",
+            "                                      v",
+            "Expansion combined conquest, diplomacy, capital relocation and accumulation.",
+            "Traditions disagree on exact succession; use the sequence without false precision."
+          ],
+          "source_references": [
+            "SESSION 23 - HARYANKA EXPANSION",
+            "SESSION 24 - MAGADHA CONTESTS",
+            "SESSION 25 - SHISHUNAGA AND NANDA CONSOLIDATION"
+          ]
+        },
+        {
+          "title": "Archaeology and source limits of early Magadha",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "SOURCES: Buddhist/Jaina traditions + Puranic lists + archaeology + later reports",
+            "                         |",
+            "      +------------------+------------------+",
+            "      |                                     |",
+            "Rajagriha walls: imposing, dating debated   Pataliputra/Kumrahar: separate early",
+            "                                             settlement from Mauryan remains",
+            "                         |",
+            "                         v",
+            "VERDICT: texts preserve political memory; archaeology tests place and phase, not episode."
+          ],
+          "source_references": [
+            "SESSION 26 - RAJAGRIHA/RAJGIR",
+            "SESSION 27 - PATALIPUTRA AND KUMRAHAR",
+            "SESSION 30 - HISTORIOGRAPHY AND SOURCE CRITICISM"
+          ]
+        },
+        {
+          "title": "From competitive states to empire",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MAHAJANAPADA COMPETITION",
+            "          |",
+            "          v",
+            "larger armies + taxation + capitals + routes + diplomatic repertoires",
+            "          |",
+            "          v",
+            "Magadhan absorption of Anga, Vajji, Kosala links and Avanti rivalry",
+            "          |",
+            "          v",
+            "Nanda-scale accumulation -> institutional and territorial platform for Mauryas",
+            "Legacy is capacity-building, not destiny; rivals once had viable alternatives."
+          ],
+          "source_references": [
+            "SESSION 24 - MAGADHA CONTESTS",
+            "SESSION 28 - TRANSITION TO EMPIRE",
+            "SESSION 29 - TRADITIONAL EXPLANATIONS OF MAGADHA"
+          ]
+        },
+        {
+          "title": "Mahajanapada-Magadha answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define transition -> map 3 polities -> institution/economy -> caution",
+            "15 MARKS: state forms -> second urbanisation -> Magadha matrix -> dynasty sequence",
+            "20 MARKS: chronology/list/map -> monarchy/gana -> agrarian-urban economy",
+            "          -> Magadha matrix -> Haryanka-Nanda agency -> source limits -> empire bridge",
+            "AVOID: fixed borders, gana = democracy, iron/geography as single cause.",
+            "CLOSE: Magadha converted opportunity into durable power through strategy and institutions."
+          ],
+          "source_references": [
+            "SESSION 29 - TRADITIONAL EXPLANATIONS OF MAGADHA",
+            "SESSION 30 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+            "SESSION 31 - TERMINOLOGY BANK, MEMORY HOOKS AND INTEGRATED ANSWER SPINE"
+          ]
+        }
+      ]
+    }
+  ],
+  "quality_reviews": [
+    {
+      "topic_key": "ancient-indian-history-06",
+      "benchmark_role": "explicit subject benchmark",
+      "review": "Ten panels preserve phase-process-regional logic, site-feature recall, urban-rural convergence, evidence ladders and multi-causal decline. Palace, dockyard, priest-king and mother-goddess labels are bounded rather than repeated as facts."
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "benchmark_role": "explicit subject benchmark",
+      "review": "Ten panels keep Jain and Buddhist causal systems distinct, connect doctrine to sangha, canon and patronage, enforce terminology firewalls, and explain Buddhist transformation and Jain persistence without a generic decline list."
+    }
+  ]
+}

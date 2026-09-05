@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topic_key": "world-history-07",
+  "subject": "World-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "world-history-07",
+  "title": "New Imperialism and Scramble for Africa",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — New Imperialism and Scramble for Africa",
+  "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-07_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-07_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\07_New-Imperialism-and-Scramble-for-Africa_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md"
+  ],
+  "local_ocr_sources": [
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://au.int/en/pressreleases/20260525/au-leaders-issue-joint-africa-day-call-unity-reform-and-renewed-commitment"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+    "upsc-ai-kit\\knowledge\\World-History\\07_New-Imperialism-and-Scramble-for-Africa_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+    "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-07_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-07_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-06-07-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\world-history-07.json",
+    "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\World-History\\README.md",
+    "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this topic in the local 2018-2025 routing blocks. Owner probable questions remain original practice.",
+  "current_linkage_note": "The official African Union Africa Day 2026 release marks 63 years since the founding of the Organization of African Unity. It records AU leaders' calls for accelerated integration and global governance reform and explicitly references reparatory justice and the enduring legacy of slavery and colonialism. This supplies a narrow current link to the continuing legacy of imperialism and decolonisation; the page does not directly discuss the Berlin Conference or the Scramble for Africa.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

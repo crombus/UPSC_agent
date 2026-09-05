@@ -1,0 +1,1242 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-10",
+  "subject": "Medieval-Indian-History",
+  "title": "THE BHAKTI & SUFI MOVEMENTS",
+  "short_route": "PLURAL DEVOTIONAL CHRONOLOGY → BHAKTI FIELD WITHOUT FLATTENING → SUFI VOCABULARY AND TRANSMISSION → CHISHTI NETWORK AND SOCIAL → CHISHTI-SUHRAWARDI COMPARISON → SOUTHERN ROOTS AND VEDANTA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-10-deep-review-2026-09-03-g6.json",
+  "ascii_spec_sha256": "88a3de4fa2f7e7367316746cc0bc1c90359858fed1e0b95003df26c403f2748e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PLURAL DEVOTIONAL CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PLURAL DEVOTIONAL CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "6TH-9TH C. BRIDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "TAMIL ALVAR + NAYANAR HYMN/TEMPLE WORLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "11TH-13TH C.",
+          "role": "evidence"
+        },
+        {
+          "text": "RAMANUJA + NIMBARKA + MADHVA DISTINCT VEDANTA PATHS",
+          "role": "primary"
+        },
+        {
+          "text": "13TH-15TH C.",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMDEV + RAMANANDA TRADITIONS + LALLA + CHISHTI NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "15TH-16TH C.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "6th-9th c. BRIDGE → Tamil Alvar + Nayanar hymn/temple worlds",
+        "11th-13th c. → Ramanuja + Nimbarka + Madhva distinct Vedanta paths",
+        "13th-15th c. → Namdev + Ramananda traditions + Lalla + Chishti networks",
+        "15th-16th c. → Kabir + Ravidas + Nanak + Vallabha + Chaitanya + Shankaradeva",
+        "16th-17th c. → Mirabai + Surdas + Tulsidas + Dadu + Eknath + Tukaram"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "6th-9th c. BRIDGE → Tamil Alvar + Nayanar hymn/temple worlds",
+            "11th-13th c. → Ramanuja + Nimbarka + Madhva distinct Vedanta paths",
+            "13th-15th c. → Namdev + Ramananda traditions + Lalla + Chishti networks"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "15th-16th c. → Kabir + Ravidas + Nanak + Vallabha + Chaitanya + Shankaradeva",
+            "16th-17th c. → Mirabai + Surdas + Tulsidas + Dadu + Eknath + Tukaram",
+            "RULE → not one march, founder, doctrine, class or anti-caste programme"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → later Sikh politics and Mughal religious policy have other owners.",
+            "MUST REMEMBER: Bhakti and Sufi traditions were internally diverse across region, language, social location, doctrine and institution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → not one march, founder, doctrine, class or anti-caste programme.",
+      "source_references": [
+        "Chronology",
+        "Plurality",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BHAKTI FIELD WITHOUT FLATTENING",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BHAKTI FIELD WITHOUT FLATTENING",
+          "role": "primary"
+        },
+        {
+          "text": "DEVOTION THROUGH EMBODIED DIVINE FORMS AND NARRATIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVOTION TO A FORMLESS ABSOLUTE AND CRITIQUE OF FIXED",
+          "role": "comparison"
+        },
+        {
+          "text": "RITUAL, INSTITUTION, PILGRIMAGE AND INHERITED AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "ORAL PERFORMANCE, VERNACULAR MEMORY AND COMMUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "RAMANUJA, MADHVA, NIMBARKA AND DISTINCT PHILOSOPHICAL GRAMMARS",
+          "role": "outcome"
+        },
+        {
+          "text": "THESE CATEGORIES OVERLAP AND VARY BY REGION AND PERIOD.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SAGUNA → devotion through embodied divine forms and narratives",
+        "NIRGUNA → devotion to a formless absolute and critique of fixed representation",
+        "TEMPLE / SECT → ritual, institution, pilgrimage and inherited authority",
+        "POET-SAINT / SONG → oral performance, vernacular memory and community",
+        "VEDANTA → Ramanuja, Madhva, Nimbarka and distinct philosophical grammars"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAGUNA → devotion through embodied divine forms and narratives",
+            "NIRGUNA → devotion to a formless absolute and critique of fixed representation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TEMPLE / SECT → ritual, institution, pilgrimage and inherited authority",
+            "POET-SAINT / SONG → oral performance, vernacular memory and community"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VEDANTA → Ramanuja, Madhva, Nimbarka and distinct philosophical grammars",
+            "CAUTION: these categories overlap and vary by region and period."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: these categories overlap and vary by region and period.",
+      "source_references": [
+        "Saguna",
+        "Nirguna",
+        "Bhakti diversity",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SUFI VOCABULARY AND TRANSMISSION",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SUFI VOCABULARY AND TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "NORMATIVE LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "REALIZED TRUTH",
+          "role": "comparison"
+        },
+        {
+          "text": "AUDITION IN SELECTED TRADITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "EGO-EFFACEMENT AND ABIDING; TRANSLATIONS APPROXIMATE",
+          "role": "primary"
+        },
+        {
+          "text": "PIR-MURID + SILSILA",
+          "role": "outcome"
+        },
+        {
+          "text": "GUIDE, DISCIPLE AND TRANSMISSION CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVING CENTRE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHARIA → normative law",
+        "TARIQA → path/order",
+        "HAQIQA → realized truth",
+        "ZIKR → remembrance",
+        "SAMA → audition in selected traditions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SHARIA → normative law",
+            "TARIQA → path/order",
+            "HAQIQA → realized truth",
+            "ZIKR → remembrance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SAMA → audition in selected traditions",
+            "FANA / BAQA → ego-effacement and abiding; translations approximate",
+            "PIR-MURID + SILSILA → guide, disciple and transmission chain",
+            "KHANQAH → living centre"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DARGAH → posthumous shrine development",
+            "WAHDAT AL-WUJUD / SHUHUD → being/witnessing debates, not slogans",
+            "RULE: doctrine, order practice and later shrine custom must be separated."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: doctrine, order practice and later shrine custom must be separated.",
+      "answer_line": "doctrine, order practice and later shrine custom must be separated.",
+      "source_references": [
+        "Silsilah",
+        "Khanqah",
+        "Sama",
+        "Fana",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHISHTI NETWORK AND SOCIAL CREDIBILITY",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHISHTI NETWORK AND SOCIAL CREDIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "MUINUDDIN CHISHTI",
+          "role": "outcome"
+        },
+        {
+          "text": "BAKHTIYAR KAKI",
+          "role": "comparison"
+        },
+        {
+          "text": "NIZAMUDDIN AULIYA",
+          "role": "evidence"
+        },
+        {
+          "text": "NASIRUDDIN CHIRAGH",
+          "role": "primary"
+        },
+        {
+          "text": "BABA FARID AND PUNJABI MEMORY",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE + HOSPITALITY + COUNSEL + SAMA + RELATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULARITY DOES NOT PROVE A CENTRALLY PLANNED CONVERSION CAMPAIGN.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AJMER: Muinuddin Chishti",
+        "DELHI: Bakhtiyar Kaki → Nizamuddin Auliya → Nasiruddin Chiragh",
+        "AJODHAN: Baba Farid and Punjabi memory",
+        "MECHANISM → service + hospitality + counsel + sama + relative court distance",
+        "TRAP: popularity does not prove a centrally planned conversion campaign."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AJMER: Muinuddin Chishti",
+            "DELHI: Bakhtiyar Kaki → Nizamuddin Auliya → Nasiruddin Chiragh"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AJODHAN: Baba Farid and Punjabi memory",
+            "MECHANISM → service + hospitality + counsel + sama + relative court distance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP: popularity does not prove a centrally planned conversion campaign.",
+            "AJMER: Muinuddin Chishti"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "popularity does not prove a centrally planned conversion campaign.",
+      "source_references": [
+        "Chishti",
+        "Ajmer",
+        "Delhi",
+        "Ajodhan",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CHISHTI-SUHRAWARDI COMPARISON",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHISHTI-SUHRAWARDI COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICE, SAMA AND POVERTY IDEALS",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANTS, PROPERTY AND COURT LINKS IN MANY CENTRES",
+          "role": "institution"
+        },
+        {
+          "text": "LATER NORTH/PUNJAB NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNALLY VARIED",
+          "role": "primary"
+        },
+        {
+          "text": "MUHAMMAD GHAWTH/GWALIOR",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT AND YOGIC-KNOWLEDGE ENGAGEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "BAQI BILLAH/SIRHINDI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHISHTI → Ajmer/Delhi/Ajodhan/Gulbarga",
+        "service, sama and poverty ideals",
+        "SUHRAWARDI → Multan/Punjab",
+        "grants, property and court links in many centres",
+        "QADIRI → later north/Punjab networks"
+      ],
+      "matrix": [
+        [
+          "CHISHTI → Ajmer/Delhi/Ajodhan/Gulbarga",
+          "service, sama and poverty ideals"
+        ],
+        [
+          "SUHRAWARDI → Multan/Punjab",
+          "grants, property and court links in many centres"
+        ],
+        [
+          "QADIRI → later north/Punjab networks",
+          "internally varied"
+        ],
+        [
+          "SHATTARI → Muhammad Ghawth/Gwalior",
+          "court and yogic-knowledge engagement"
+        ],
+        [
+          "NAQSHBANDI → Baqi Billah/Sirhindi",
+          "silent zikr and law/reform emphasis"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHISHTI → Ajmer/Delhi/Ajodhan/Gulbarga",
+            "service, sama and poverty ideals",
+            "SUHRAWARDI → Multan/Punjab",
+            "grants, property and court links in many centres"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "QADIRI → later north/Punjab networks",
+            "internally varied",
+            "SHATTARI → Muhammad Ghawth/Gwalior",
+            "court and yogic-knowledge engagement"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NAQSHBANDI → Baqi Billah/Sirhindi",
+            "silent zikr and law/reform emphasis",
+            "STATE RELATION → refusal, gifts, patronage and office varied by person/reign",
+            "RULE: order labels are lineages, not moral or ethnic essences."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: order labels are lineages, not moral or ethnic essences.",
+      "answer_line": "order labels are lineages, not moral or ethnic essences.",
+      "source_references": [
+        "Chishti",
+        "Suhrawardi",
+        "Bahauddin Zakariya",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOUTHERN ROOTS AND VEDANTA PATHS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOUTHERN ROOTS AND VEDANTA PATHS",
+          "role": "primary"
+        },
+        {
+          "text": "VISHISHTADVAITA + PRAPATTI + SRI VAISHNAVA INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "DVAITADVAITA/BHEDABHEDA; EXACT CHRONOLOGY DISPUTED",
+          "role": "comparison"
+        },
+        {
+          "text": "DVAITA + UDUPI LINEAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RAMA DEVOTION/WIDER ACCESS; DISCIPLE LISTS CAUTIONED",
+          "role": "primary"
+        },
+        {
+          "text": "SHUDDHADVAITA + PUSHTIMARG",
+          "role": "outcome"
+        },
+        {
+          "text": "GAUDIYA KRISHNA BHAKTI + PUBLIC KIRTAN",
+          "role": "comparison"
+        },
+        {
+          "text": "SAGUNA/NIRGUNA DOES NOT MECHANICALLY PREDICT SOCIAL POLITICS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAMANUJA → Vishishtadvaita + prapatti + Sri Vaishnava institutions",
+        "NIMBARKA → Dvaitadvaita/Bhedabheda; exact chronology disputed",
+        "MADHVA → Dvaita + Udupi lineage",
+        "RAMANANDA → Rama devotion/wider access; disciple lists cautioned",
+        "VALLABHA → Shuddhadvaita + Pushtimarg"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "RAMANUJA → Vishishtadvaita + prapatti + Sri Vaishnava institutions",
+          "RAMANANDA → Rama devotion/wider access; disciple lists cautioned",
+          "CAUTION: saguna/nirguna does not mechanically predict social politics."
+        ],
+        [
+          "NIMBARKA → Dvaitadvaita/Bhedabheda; exact chronology disputed",
+          "VALLABHA → Shuddhadvaita + Pushtimarg",
+          ""
+        ],
+        [
+          "MADHVA → Dvaita + Udupi lineage",
+          "CHAITANYA → Gaudiya Krishna bhakti + public kirtan",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAMANUJA → Vishishtadvaita + prapatti + Sri Vaishnava institutions",
+            "NIMBARKA → Dvaitadvaita/Bhedabheda; exact chronology disputed",
+            "MADHVA → Dvaita + Udupi lineage"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RAMANANDA → Rama devotion/wider access; disciple lists cautioned",
+            "VALLABHA → Shuddhadvaita + Pushtimarg",
+            "CHAITANYA → Gaudiya Krishna bhakti + public kirtan"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: saguna/nirguna does not mechanically predict social politics."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: saguna/nirguna does not mechanically predict social politics.",
+      "source_references": [
+        "Alvars",
+        "Nayanars",
+        "Ramanuja",
+        "Madhva",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NORTHWARD TRANSMISSION WITH SOURCE CAUTION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NORTHWARD TRANSMISSION WITH SOURCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL LANGUAGES, TEMPLES, SECTS AND REMEMBERED GURU LINEAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMANANDA TRADITION AND DIVERSE DISCIPLE LISTS",
+          "role": "evidence"
+        },
+        {
+          "text": "NORTHERN RAMA DEVOTION, NIRGUNA CRITIQUE AND VERNACULAR PUBLICS",
+          "role": "primary"
+        },
+        {
+          "text": "HAGIOGRAPHIC GENEALOGY IS NOT A DATED ATTENDANCE REGISTER.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+        "regional languages, temples, sects and remembered guru lineages",
+        "RAMANANDA tradition and diverse disciple lists",
+        "northern Rama devotion, nirguna critique and vernacular publics",
+        "CAUTION: hagiographic genealogy is not a dated attendance register."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+            "regional languages, temples, sects and remembered guru lineages"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "RAMANANDA tradition and diverse disciple lists",
+            "northern Rama devotion, nirguna critique and vernacular publics"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "CAUTION: hagiographic genealogy is not a dated attendance register.",
+            "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: hagiographic genealogy is not a dated attendance register.",
+      "source_references": [
+        "Ramananda",
+        "Transmission",
+        "Hagiography",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "KABIR CRITIQUE AND CORPUS METHOD",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KABIR CRITIQUE AND CORPUS METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "EMPTY RITUAL, INHERITED RANK AND SECTARIAN CERTAINTY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSIBLE VERNACULAR AND MEMORABLE COUPLET",
+          "role": "comparison"
+        },
+        {
+          "text": "NIRGUNA DEVOTION WITH VOCABULARY CROSSING SOCIAL WORLDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ORAL CIRCULATION AND VARIANT LATER COMPILATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ETHICAL CHALLENGE AND COMMUNITY FORMATION, NOT ABOLISHED CASTE",
+          "role": "caution"
+        },
+        {
+          "text": "LIVE BRIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERN KABIR MEMORY CANNOT AUTHENTICATE MEDIEVAL WORDING.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRITIQUE → empty ritual, inherited rank and sectarian certainty",
+        "LANGUAGE → accessible vernacular and memorable couplet",
+        "THEOLOGY → nirguna devotion with vocabulary crossing social worlds",
+        "CORPUS → oral circulation and variant later compilations",
+        "EFFECT → ethical challenge and community formation, not abolished caste"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "CRITIQUE → empty ritual, inherited rank and sectarian certainty",
+          "THEOLOGY → nirguna devotion with vocabulary crossing social worlds",
+          "EFFECT → ethical challenge and community formation, not abolished caste"
+        ],
+        [
+          "LANGUAGE → accessible vernacular and memorable couplet",
+          "CORPUS → oral circulation and variant later compilations",
+          "LIVE BRIDGE → modern Kabir memory cannot authenticate medieval wording."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CRITIQUE → empty ritual, inherited rank and sectarian certainty",
+            "LANGUAGE → accessible vernacular and memorable couplet"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "THEOLOGY → nirguna devotion with vocabulary crossing social worlds",
+            "CORPUS → oral circulation and variant later compilations"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "EFFECT → ethical challenge and community formation, not abolished caste",
+            "LIVE BRIDGE → modern Kabir memory cannot authenticate medieval wording."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIVE BRIDGE → modern Kabir memory cannot authenticate medieval wording.",
+      "source_references": [
+        "Kabir",
+        "Nirguna",
+        "Corpus criticism",
+        "PIB",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NANAK HOUSEHOLDER ETHIC",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NANAK HOUSEHOLDER ETHIC",
+          "role": "primary"
+        },
+        {
+          "text": "ONE DIVINE REALITY + REMEMBRANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITIQUE OF EMPTY RITUAL, HIERARCHY AND RENUNCIATORY MONOPOLY",
+          "role": "evidence"
+        },
+        {
+          "text": "ETHICAL COMMUNITY ROOTED IN ORDINARY SOCIAL LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE NANAK'S MOMENT FROM LATER SIKH INSTITUTIONS.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ONE DIVINE REALITY + REMEMBRANCE",
+        "HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE",
+        "critique of empty ritual, hierarchy and renunciatory monopoly",
+        "ethical community rooted in ordinary social life",
+        "CAUTION: separate Nanak's moment from later Sikh institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ONE DIVINE REALITY + REMEMBRANCE",
+            "HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "critique of empty ritual, hierarchy and renunciatory monopoly",
+            "ethical community rooted in ordinary social life"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: separate Nanak's moment from later Sikh institutions.",
+            "ONE DIVINE REALITY + REMEMBRANCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: separate Nanak's moment from later Sikh institutions.",
+      "source_references": [
+        "Guru Nanak",
+        "Householder path",
+        "Ethical monotheism",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CHAITANYA PUBLIC DEVOTION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHAITANYA PUBLIC DEVOTION",
+          "role": "primary"
+        },
+        {
+          "text": "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLECTIVE SINGING, MOVEMENT AND EMBODIED PARTICIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BENGAL-PURI NETWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "PILGRIMAGE, DISCIPLES AND REMEMBERED CHARISMA",
+          "role": "primary"
+        },
+        {
+          "text": "BROADER AFFECTIVE PUBLIC AND LITERARY-CULTURAL TRANSMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC PARTICIPATION DID NOT AUTOMATICALLY ERASE HIERARCHY.",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+        "KIRTAN: collective singing, movement and embodied participation",
+        "BENGAL-PURI network: pilgrimage, disciples and remembered charisma",
+        "broader affective public and literary-cultural transmission",
+        "TRAP: public participation did not automatically erase hierarchy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+            "KIRTAN: collective singing, movement and embodied participation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BENGAL-PURI network: pilgrimage, disciples and remembered charisma",
+            "broader affective public and literary-cultural transmission"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP: public participation did not automatically erase hierarchy.",
+            "CLOSE DISTINCTION: Saguna and nirguna devotion, and Chishti and Suhrawardi silsilas, cannot be collapsed into one reform programme."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Saguna and nirguna devotion, and Chishti and Suhrawardi silsilas, cannot be collapsed into one reform programme.",
+      "source_references": [
+        "Chaitanya",
+        "Kirtan",
+        "Bengal",
+        "Puri",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BHAKTI-SUFI INTERACTION WITHOUT MERGER",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BHAKTI-SUFI INTERACTION WITHOUT MERGER",
+          "role": "primary"
+        },
+        {
+          "text": "LOVE + REMEMBRANCE + TEACHER/DISCIPLE + VERNACULAR PERFORMANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "INCARNATION + PROPHECY + SCRIPTURE + LAW REMAIN DIFFERENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMPLE/MATHA/PANTH ARE NOT KHANQAH/DARGAH/SILSILA",
+          "role": "caution"
+        },
+        {
+          "text": "SETTLEMENT + MARRIAGE + PATRONAGE + MOBILITY + LOCAL",
+          "role": "primary"
+        },
+        {
+          "text": "CAN PRESERVE ACCESS WHILE REPRODUCING CASTE/GENDER HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTRIBUTED VERSE + MANUSCRIPT LAYER + HAGIOGRAPHY + MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED ENCOUNTERS AND PARALLEL EXCHANGE, NOT A VAGUE SYNCRETIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OVERLAP → love + remembrance + teacher/disciple + vernacular performance",
+        "BOUNDARY → incarnation + prophecy + scripture + law remain different",
+        "SPACES → temple/matha/panth are not khanqah/dargah/silsila",
+        "CONVERSION → settlement + marriage + patronage + mobility + local persuasion",
+        "INSTITUTION → can preserve access while reproducing caste/gender hierarchy"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "OVERLAP → love + remembrance + teacher/disciple + vernacular performance",
+          "CONVERSION → settlement + marriage + patronage + mobility + local persuasion",
+          "VERDICT: named encounters and parallel exchange, not a vague syncretic merger."
+        ],
+        [
+          "BOUNDARY → incarnation + prophecy + scripture + law remain different",
+          "INSTITUTION → can preserve access while reproducing caste/gender hierarchy",
+          "EVIDENCE LIMIT: Composite culture describes negotiated interaction; it must not erase conflict, hierarchy or sectarian boundaries."
+        ],
+        [
+          "SPACES → temple/matha/panth are not khanqah/dargah/silsila",
+          "SOURCE → attributed verse + manuscript layer + hagiography + material evidence",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OVERLAP → love + remembrance + teacher/disciple + vernacular performance",
+            "BOUNDARY → incarnation + prophecy + scripture + law remain different",
+            "SPACES → temple/matha/panth are not khanqah/dargah/silsila"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CONVERSION → settlement + marriage + patronage + mobility + local persuasion",
+            "INSTITUTION → can preserve access while reproducing caste/gender hierarchy",
+            "SOURCE → attributed verse + manuscript layer + hagiography + material evidence"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: named encounters and parallel exchange, not a vague syncretic merger.",
+            "EVIDENCE LIMIT: Composite culture describes negotiated interaction; it must not erase conflict, hierarchy or sectarian boundaries."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: named encounters and parallel exchange, not a vague syncretic merger.",
+      "answer_line": "named encounters and parallel exchange, not a vague syncretic merger.",
+      "source_references": [
+        "Bhakti-Sufi comparison",
+        "Symbiosis",
+        "Boundaries",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 10 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 10 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PLURAL FIELDS AND EXACT QUESTION SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "REGION + LANGUAGE + SAINT/ORDER CHRONOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVOTION + PERFORMANCE + INSTITUTION + PATRONAGE + SOCIAL",
+          "role": "institution"
+        },
+        {
+          "text": "CASTE + GENDER + ECONOMY + DOCTRINE + SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "2019/2022 PRELIMS + 2018/2021 MAINS; KULAH-DARAN LINKS TOPIC 06",
+          "role": "outcome"
+        },
+        {
+          "text": "DURABLE VERNACULAR/INSTITUTIONAL IMPACT WITHOUT TOTAL SOCIAL MERGER.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE → plural fields and exact question scope",
+        "DATE/MAP → region + language + saint/order chronology",
+        "EVIDENCE → verse/manuscript/hagiography/malfuzat/inscription/shrine",
+        "MECHANISM → devotion + performance + institution + patronage + social access",
+        "LIMIT → caste + gender + economy + doctrine + source transmission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE → plural fields and exact question scope",
+            "DATE/MAP → region + language + saint/order chronology",
+            "EVIDENCE → verse/manuscript/hagiography/malfuzat/inscription/shrine"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MECHANISM → devotion + performance + institution + patronage + social access",
+            "LIMIT → caste + gender + economy + doctrine + source transmission",
+            "PYQS → 2019/2022 Prelims + 2018/2021 Mains; Kulah-Daran links Topic 06"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT → durable vernacular/institutional impact without total social merger."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → durable vernacular/institutional impact without total social merger.",
+      "source_references": [
+        "Answer architecture",
+        "Source method",
+        "Social impact",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE BHAKTI & SUFI MOVEMENTS — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Bhakti & Sufi Movements — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Historical PYQ Integration (2018-2023)",
+            "Chishti organisation in India was shaped by small-town withdrawal, Delhi popularity, and mass contact"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

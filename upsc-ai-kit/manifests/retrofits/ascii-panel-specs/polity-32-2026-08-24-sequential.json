@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "polity-32-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12 Core panels plus one Optional graphical card",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-32": {
+      "title": "CAG",
+      "source_record": "polity-32:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md",
+      "quality_review": "Deep-content repaired against Articles 148-151, DPC Act, official CAG guidance, cases and routed PYQs.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Democratic audit purpose and accountability chain",
+          "structural_type": "cag-democratic-accountability-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 1"
+          ],
+          "full_text": "LEGISLATURE AUTHORISES\ntax, appropriation and public purposes\n        |\nEXECUTIVE COLLECTS / SPENDS / RECORDS\n        |\nCAG TESTS INDEPENDENT EVIDENCE\n        |\nPresident or Governor causes report to be laid\n        |\nPAC / CoPU / legislature scrutinises -> executive responds\n\nLIMIT: audit informs control; it does not govern, punish or recover by itself."
+        },
+        {
+          "title": "Articles 148-151 constitutional spine",
+          "structural_type": "cag-constitutional-spine",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 2"
+          ],
+          "full_text": "ARTICLE 148 -> office, oath, removal safeguards, IAAD and charged expenses\nARTICLE 149 -> duties and powers prescribed by or under parliamentary law\nARTICLE 150 -> President prescribes Union/State account form on CAG advice\nARTICLE 151 -> CAG -> President/Governor -> legislature\n\nTRAP: the Constitution neither states the six-year/65 rule nor lists every audit type."
+        },
+        {
+          "title": "Appointment tenure removal and independence",
+          "structural_type": "cag-office-independence-architecture",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 3",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 4"
+          ],
+          "full_text": "APPOINTMENT -> President, warrant under hand and seal\nOATH -> President or nominee; Third Schedule\nTENURE -> DPC Act section 4: six years or age 65, whichever earlier\nREMOVAL -> same manner and grounds as Supreme Court Judge\nINSULATION -> no disadvantageous variation; charged office expenses; no further office\n\nLIMIT: strong post-appointment protection does not answer selection-process criticism."
+        },
+        {
+          "title": "Audit accounts and the 1976 boundary",
+          "structural_type": "cag-audit-accounts-boundary",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 5"
+          ],
+          "full_text": "ACCOUNTS create and compile the financial record\nAUDIT independently tests records and transactions\n1976 UNION DEPARTMENTALISATION -> ministries assumed much Union compilation\nDPC ACT SECTIONS 10-12 -> residual accounts roles where responsibility remains\nDPC ACT SECTIONS 13-20 -> audit mandate continues\n\nINDIA: predominantly ex-post auditor, not routine pre-withdrawal comptroller."
+        },
+        {
+          "title": "Public funds receipts grants and access",
+          "structural_type": "cag-public-funds-jurisdiction",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 6"
+          ],
+          "full_text": "SECTION 13 -> Consolidated Fund expenditure and fund transactions\nSECTION 14 -> substantially financed bodies under statutory tests\nSECTION 15 -> specific-purpose grants/loans and sanctioning procedures\nSECTION 16 -> receipts payable into Consolidated Funds\nSECTION 17 -> stores and stock | SECTION 18 -> records and information\n\nTEST: entity -> public-money nexus -> legal gateway -> proportionate record access."
+        },
+        {
+          "title": "Financial compliance propriety and performance audit",
+          "structural_type": "cag-audit-type-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 7"
+          ],
+          "full_text": "FINANCIAL -> is financial information fairly presented?\nCOMPLIANCE -> were law, sanction, rule and contract followed?\nPROPRIETY -> was discretion faithful, prudent and economical?\nPERFORMANCE -> economy + efficiency + effectiveness\nRECEIPTS / IT / ENVIRONMENT -> specialised objects or methods within legal mandate\n\nBOUNDARY: test implementation and results; do not replace a lawful policy choice."
+        },
+        {
+          "title": "Government companies and statutory corporations",
+          "structural_type": "cag-public-enterprise-routes",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "GOVERNMENT COMPANY\nCompanies Act section 139 -> CAG appoints statutory auditor\nsection 143 -> directions, supplementary audit/comments and test audit\n\nSTATUTORY CORPORATION\nestablishing law + DPC Act section 19 determine the route\n\nTRAP: ownership label alone does not establish identical CAG coverage."
+        },
+        {
+          "title": "Private entities PPPs and revenue nexus",
+          "structural_type": "cag-private-public-nexus",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 9"
+          ],
+          "full_text": "PRIVATE STATUS DOES NOT BAR OR CREATE AUDIT\nSections 14 / 15 / 16 / 20 or a special law must supply the gateway\nPPP audit follows grants, guarantees, assets, user fees or revenue share only as authorised\nTELECOM CASE (2014) -> records needed to verify Union revenue share could be accessed\n\nLIMIT: audit of the public nexus is not universal audit of unrelated private business."
+        },
+        {
+          "title": "Local bodies and federal audit variation",
+          "structural_type": "cag-local-body-federal-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 11"
+          ],
+          "full_text": "ARTICLES 243J / 243Z -> State legislatures provide local-account audit arrangements\nSTATE LAW -> primary auditor and procedure may vary\nCAG -> direct statutory/entrusted audit where applicable\nTECHNICAL GUIDANCE AND SUPPORT -> capacity and standardisation route\nFINANCE COMMISSION LINK -> local grants require traceable accounts and audit\n\nTRAP: India has no single uniform constitutional CAG audit model for every local body."
+        },
+        {
+          "title": "Reports PAC CoPU and legislative follow-up",
+          "structural_type": "cag-legislative-scrutiny-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "UNION: CAG -> President -> both Houses\nSTATE: CAG -> Governor -> State legislature\nPAC -> appropriation / finance accounts and relevant CAG reports\nCoPU -> public undertakings and related CAG reports\nCOMMITTEE -> evidence -> finding -> action-taken response -> follow-up\n\nCAG assists technically; report != committee conclusion != automatic liability."
+        },
+        {
+          "title": "Judicial controls and legal limits",
+          "structural_type": "cag-case-law-boundary",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 7",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 9",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "ARVIND GUPTA (2012) -> performance audit and the three Es supported\nS. SUBRAMANIAM BALAJI (2013) -> post-expenditure legality, validity and propriety\nARUN KUMAR AGRAWAL (2013) -> CAG report respected but legislative scrutiny remains\nAssociation of Unified Telecom Service Providers of India v. Union of India (2014) ->\n  revenue-share access, not universal private audit\n\nSYNTHESIS: broad evidence role + ex-post timing + no adjudicatory finality."
+        },
+        {
+          "title": "Comparison reform PYQ routes and answer spine",
+          "structural_type": "cag-reform-answer-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-32\\g4-source\\polity-32_g4-reviewed-source.md#SESSION 12"
+          ],
+          "full_text": "CAG -> constitutional audit | CGA -> Union executive accounting\nFINANCE COMMISSION -> Article 280 transfers | CAG -> Article 279 net proceeds certificate\nREFORM -> transparent selection + secure data + PPP clauses + timely tabling/follow-up\nPYQ 2018 -> appointment, terms and powers\nPYQ 2024 -> legality plus propriety\n\nMAINS SPINE: independence -> mandate -> audit type/entity route -> report chain\n-> limit -> targeted reform -> evidence-led accountability verdict."
+        }
+      ]
+    }
+  }
+}

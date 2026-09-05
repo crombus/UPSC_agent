@@ -1,0 +1,1117 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-19",
+  "subject": "Modern-Indian-History",
+  "title": "GANDHI'S RISE: CHAMPARAN, KHEDA, AHMEDABAD; ROWLATT & JALLIANWALA BAGH (1917–1919)",
+  "short_route": "FORMATION-TO-NATIONAL-LEADERSHIP CHRONOLOGY → SATYAGRAHA MECHANISM → CHAMPARAN LOCAL-AGENCY CHAIN → AHMEDABAD RELATIONSHIP AND DISPUTE → AHMEDABAD PRESSURE-TO-ARBITRATION SEQUENCE → KHEDA REMISSION CAMPAIGN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-19-deep-review-2026-09-04-g3.json",
+  "ascii_spec_sha256": "3ae833a2ef74411733a52b7500845b0a8bc7800abe349d9c5bd77e0cd5de5cad",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FORMATION-TO-NATIONAL-LEADERSHIP CHRONOLOGY",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FORMATION-TO-NATIONAL-LEADERSHIP CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTH AFRICAN FORMATION OF SATYAGRAHA",
+          "role": "outcome"
+        },
+        {
+          "text": "RETURN TO INDIA AND GOKHALE'S COUNSEL",
+          "role": "comparison"
+        },
+        {
+          "text": "AHMEDABAD AND KHEDA",
+          "role": "evidence"
+        },
+        {
+          "text": "FEB-APR 1919",
+          "role": "primary"
+        },
+        {
+          "text": "SATYAGRAHA SABHA AND ROWLATT HARTAL",
+          "role": "outcome"
+        },
+        {
+          "text": "13 APR 1919",
+          "role": "comparison"
+        },
+        {
+          "text": "JALLIANWALA; REPRESSION RESHAPES NATIONAL POLITICS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1893-1914 → South African formation of satyagraha",
+        "1915 → return to India and Gokhale's counsel",
+        "1917 → Champaran",
+        "1918 → Ahmedabad and Kheda",
+        "FEB-APR 1919 → Satyagraha Sabha and Rowlatt hartal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1893-1914 → South African formation of satyagraha",
+            "1915 → return to India and Gokhale's counsel",
+            "1917 → Champaran"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1918 → Ahmedabad and Kheda",
+            "FEB-APR 1919 → Satyagraha Sabha and Rowlatt hartal",
+            "13 APR 1919 → Jallianwala; repression reshapes national politics."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Champaran (1917), Ahmedabad mill dispute and Kheda (1918), the Rowlatt legislation and hartal of",
+            "1919, and Jallianwala Bagh on 13 April 1919 form a sequence of changing methods and scales."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Champaran (1917), Ahmedabad mill dispute and Kheda (1918), the Rowlatt legislation and hartal of 1919, and Jallianwala Bagh on 13 April 1919 form a sequence of changing methods and scales.",
+      "source_references": [
+        "South Africa, return in 1915 and Gokhale's counsel",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SATYAGRAHA MECHANISM",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SATYAGRAHA MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "GRIEVANCE MUST SURVIVE FACTUAL INQUIRY",
+          "role": "outcome"
+        },
+        {
+          "text": "LAW-BREAKING IS DECLARED, NOT CONCEALED",
+          "role": "caution"
+        },
+        {
+          "text": "OPPONENT IS PRESSURED WITHOUT PHYSICAL INJURY",
+          "role": "evidence"
+        },
+        {
+          "text": "SATYAGRAHI ACCEPTS PUNISHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISATION CONTROLS PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRESSION LOSES LEGITIMACY; NEGOTIATION OPENS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRUTH → grievance must survive factual inquiry",
+        "OPENNESS → law-breaking is declared, not concealed",
+        "NON-VIOLENCE → opponent is pressured without physical injury",
+        "SELF-SUFFERING → satyagrahi accepts punishment",
+        "DISCIPLINE → organisation controls participation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRUTH → grievance must survive factual inquiry",
+            "OPENNESS → law-breaking is declared, not concealed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-VIOLENCE → opponent is pressured without physical injury",
+            "SELF-SUFFERING → satyagrahi accepts punishment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISCIPLINE → organisation controls participation",
+            "POLITICAL EFFECT → repression loses legitimacy; negotiation opens."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLITICAL EFFECT → repression loses legitimacy; negotiation opens.",
+      "source_references": [
+        "Satyagraha principles and political mechanism",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CHAMPARAN LOCAL-AGENCY CHAIN",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHAMPARAN LOCAL-AGENCY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PLANTER PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTIVATOR GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RAJ KUMAR SHUKLA",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSISTENT LOCAL INVITATION",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHI ARRIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 8,000 STATEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDER TO LEAVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TINKATHIA = 3/20 / PLANTER PRESSURE → cultivator grievance",
+        "RAJ KUMAR SHUKLA → persistent local invitation",
+        "GANDHI ARRIVES → about 8,000 statements",
+        "ORDER TO LEAVE → open refusal and acceptance of legal risk",
+        "OFFICIAL INQUIRY → 25% refund → later tinkathia abolition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TINKATHIA = 3/20 / PLANTER PRESSURE → cultivator grievance",
+            "RAJ KUMAR SHUKLA → persistent local invitation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GANDHI ARRIVES → about 8,000 statements",
+            "ORDER TO LEAVE → open refusal and acceptance of legal risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICIAL INQUIRY → 25% refund → later tinkathia abolition",
+            "SIGNIFICANCE → local peasant issue enters national politics."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIGNIFICANCE → local peasant issue enters national politics.",
+      "source_references": [
+        "Champaran: Raj Kumar Shukla, tinkathia and local agency",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AHMEDABAD RELATIONSHIP AND DISPUTE MAP",
+      "structural_type": "relationship-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AHMEDABAD RELATIONSHIP AND DISPUTE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "WORKERS SEEK 50%",
+          "role": "outcome"
+        },
+        {
+          "text": "PLAGUE-BONUS AND WAGE CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "ANASUYA SARABHAI",
+          "role": "evidence"
+        },
+        {
+          "text": "LABOUR ORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "OWNERS OFFER 20%",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHI SUPPORTS 35%",
+          "role": "comparison"
+        },
+        {
+          "text": "AMBALAL SARABHAI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WORKERS SEEK 50% → plague-bonus and wage claim",
+        "ANASUYA SARABHAI → labour organisation",
+        "OWNERS OFFER 20% → Gandhi supports 35%",
+        "AMBALAL SARABHAI → mill owner and Gandhi associate",
+        "SIBLING LINK → access and mediation across opposing interests"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WORKERS SEEK 50% → plague-bonus and wage claim",
+            "ANASUYA SARABHAI → labour organisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OWNERS OFFER 20% → Gandhi supports 35%",
+            "AMBALAL SARABHAI → mill owner and Gandhi associate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SIBLING LINK → access and mediation across opposing interests",
+            "CAUTION → relationship does not erase class conflict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → relationship does not erase class conflict.",
+      "source_references": [
+        "Ahmedabad: plague bonus, wages and the Sarabhai relationship",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AHMEDABAD PRESSURE-TO-ARBITRATION SEQUENCE",
+      "structural_type": "procedure-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AHMEDABAD PRESSURE-TO-ARBITRATION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "WORKER PLEDGE AND 21-DAY STRIKE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCIPLINE BECOMES FRAGILE",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHI FASTS THREE DAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST FAST IN AN INDIAN STRUGGLE",
+          "role": "primary"
+        },
+        {
+          "text": "MORAL PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKERS AND OWNERS FACE REPUTATIONAL COST",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL SETTLEMENT ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISPUTE → worker pledge and 21-day strike",
+        "STALEMATE → discipline becomes fragile",
+        "GANDHI FASTS THREE DAYS → first fast in an Indian struggle",
+        "MORAL PRESSURE → workers and owners face reputational cost",
+        "ARBITRATION → institutional settlement route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISPUTE → worker pledge and 21-day strike",
+            "STALEMATE → discipline becomes fragile"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GANDHI FASTS THREE DAYS → first fast in an Indian struggle",
+            "MORAL PRESSURE → workers and owners face reputational cost"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARBITRATION → institutional settlement route",
+            "SOURCE GAP → outcome reported as 35% or 27.5%; preserve dispute."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE GAP → outcome reported as 35% or 27.5%; preserve dispute.",
+      "source_references": [
+        "Ahmedabad: first Indian fast, pledge and arbitration",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KHEDA REMISSION CAMPAIGN",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KHEDA REMISSION CAMPAIGN",
+          "role": "primary"
+        },
+        {
+          "text": "CROP FAILURE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR ANNAS OR LESS UNDER REVENUE RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "SUSPEND COLLECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "PATEL + INDULAL YAGNIK",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE-LEVEL ORGANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BETTER-OFF PROTECT POORER CULTIVATORS",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTACHMENT RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CROP FAILURE → four annas or less under revenue rules",
+        "DEMAND → suspend collection",
+        "PATEL + INDULAL YAGNIK → village-level organisation",
+        "PLEDGE → better-off protect poorer cultivators",
+        "ATTACHMENT RISK → property pressure and selective recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CROP FAILURE → four annas or less under revenue rules",
+            "DEMAND → suspend collection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PATEL + INDULAL YAGNIK → village-level organisation",
+            "PLEDGE → better-off protect poorer cultivators"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ATTACHMENT RISK → property pressure and selective recovery",
+            "RELIEF → bounded and uneven; not abolition of taxation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELIEF → bounded and uneven; not abolition of taxation.",
+      "source_references": [
+        "Kheda: crop failure, revenue remission and leadership",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THREE LOCAL LABORATORIES",
+      "structural_type": "split-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE LOCAL LABORATORIES",
+          "role": "primary"
+        },
+        {
+          "text": "INQUIRY PLUS DEFIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MILL WORKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "MILL OWNERS",
+          "role": "evidence"
+        },
+        {
+          "text": "FAST PLUS ARBITRATION",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CROP ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANISED WITHHOLDING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHAMPARAN → cultivators / planters / indigo / inquiry plus defiance",
+        "AHMEDABAD → mill workers / mill owners / wage-bonus / fast plus arbitration",
+        "KHEDA → cultivators / revenue state / crop assessment / organised withholding",
+        "COMMON → disciplined collective action opens negotiation",
+        "DIFFERENCE → grievance, opponent and leverage structure vary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHAMPARAN → cultivators / planters / indigo / inquiry plus defiance",
+            "AHMEDABAD → mill workers / mill owners / wage-bonus / fast plus arbitration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KHEDA → cultivators / revenue state / crop assessment / organised withholding",
+            "COMMON → disciplined collective action opens negotiation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIFFERENCE → grievance, opponent and leverage structure vary",
+            "RULE → treat the campaigns as laboratories, not identical templates."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → treat the campaigns as laboratories, not identical templates.",
+      "source_references": [
+        "Comparative anatomy of Champaran, Ahmedabad and Kheda",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ROWLATT EMERGENCY-POWER CARRYOVER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ROWLATT EMERGENCY-POWER CARRYOVER",
+          "role": "mechanism"
+        },
+        {
+          "text": "INFLATION, SCARCITY, EPIDEMIC DISTRESS AND COERCIVE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "1917 PROMISE",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM EXPECTATION RISES",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOMMENDS CONTINUED ANTI-REVOLUTIONARY POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "TWO BILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE BECOMES ACT XI ON 18 MARCH 1919",
+          "role": "institution"
+        },
+        {
+          "text": "RIGHTS EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WAR → inflation, scarcity, epidemic distress and coercive power",
+        "1917 PROMISE → reform expectation rises",
+        "COMMITTEE → recommends continued anti-revolutionary powers",
+        "TWO BILLS → one becomes Act XI on 18 March 1919",
+        "RIGHTS EFFECT → detention and reduced ordinary safeguards"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAR → inflation, scarcity, epidemic distress and coercive power",
+            "1917 PROMISE → reform expectation rises",
+            "COMMITTEE → recommends continued anti-revolutionary powers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TWO BILLS → one becomes Act XI on 18 March 1919",
+            "RIGHTS EFFECT → detention and reduced ordinary safeguards",
+            "POLITICAL EFFECT → post-war betrayal frame"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → not the Montagu-Chelmsford constitutional reform scheme."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → not the Montagu-Chelmsford constitutional reform scheme.",
+      "source_references": [
+        "Wartime hardship and the reform-repression contradiction",
+        "Rowlatt Committee, Bills and Act",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SABHA, HARTAL AND COMMUNICATION GAP",
+      "structural_type": "communication-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SABHA, HARTAL AND COMMUNICATION GAP",
+          "role": "primary"
+        },
+        {
+          "text": "FEB 1919",
+          "role": "outcome"
+        },
+        {
+          "text": "SATYAGRAHA SABHA IN BOMBAY",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIL DISOBEDIENCE PLUS ACCEPTANCE OF PUNISHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DATE CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "MESSAGE DOES NOT TRAVEL UNIFORMLY",
+          "role": "caution"
+        },
+        {
+          "text": "ACTS ON 30 MARCH",
+          "role": "comparison"
+        },
+        {
+          "text": "6 APRIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEB 1919 → Satyagraha Sabha in Bombay",
+        "PLEDGE → civil disobedience plus acceptance of punishment",
+        "DATE CHANGE → message does not travel uniformly",
+        "DELHI → acts on 30 March",
+        "6 APRIL → final all-India hartal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FEB 1919 → Satyagraha Sabha in Bombay",
+            "PLEDGE → civil disobedience plus acceptance of punishment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DATE CHANGE → message does not travel uniformly",
+            "DELHI → acts on 30 March"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "6 APRIL → final all-India hartal",
+            "LESSON → reach exceeded communication and discipline capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → reach exceeded communication and discipline capacity.",
+      "source_references": [
+        "Satyagraha Sabha, 6 April hartal and Delhi mismatch",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE HIMALAYAN-MISCALCULATION FEEDBACK",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE HIMALAYAN-MISCALCULATION FEEDBACK",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-INDIA APPEAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RAPID MOBILISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RAPID SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEVEN TRAINING",
+          "role": "primary"
+        },
+        {
+          "text": "SUSPENSION ON 18 APRIL",
+          "role": "outcome"
+        },
+        {
+          "text": "HIMALAYAN MISCALCULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALL-INDIA APPEAL → rapid mobilisation",
+        "RAPID SCALE → uneven training",
+        "UNEVEN TRAINING → violence",
+        "VIOLENCE → suspension on 18 April",
+        "SELF-CRITIQUE → Himalayan miscalculation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ALL-INDIA APPEAL → rapid mobilisation",
+            "RAPID SCALE → uneven training",
+            "UNEVEN TRAINING → violence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VIOLENCE → suspension on 18 April",
+            "SELF-CRITIQUE → Himalayan miscalculation",
+            "LATER RULE → disciplined organisation must precede mass action."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Satyagraha was not instant mass control: Ahmedabad joined labour arbitration,",
+            "Kheda relief claims varied, and Gandhi suspended the Rowlatt campaign after violence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER RULE → disciplined organisation must precede mass action.",
+      "source_references": [
+        "Violence and the Himalayan miscalculation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PUNJAB TRIGGER-TO-MASSACRE SEQUENCE",
+      "structural_type": "causal-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PUNJAB TRIGGER-TO-MASSACRE SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "WARTIME PUNJAB",
+          "role": "outcome"
+        },
+        {
+          "text": "RECRUITMENT PRESSURE AND REPRESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL POLITICS",
+          "role": "evidence"
+        },
+        {
+          "text": "KITCHLEW AND SATYAPAL",
+          "role": "primary"
+        },
+        {
+          "text": "10 APRIL ARREST",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRING, ATTACKS AND CONFRONTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "13 APRIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WARTIME PUNJAB → recruitment pressure and repression",
+        "LOCAL POLITICS → Kitchlew and Satyapal",
+        "10 APRIL ARREST / REMOVAL → firing, attacks and confrontation",
+        "13 APRIL → gathering at Jallianwala Bagh",
+        "REGINALD DYER → no warning / dispersal order; not Michael O'Dwyer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WARTIME PUNJAB → recruitment pressure and repression",
+            "LOCAL POLITICS → Kitchlew and Satyapal",
+            "10 APRIL ARREST / REMOVAL → firing, attacks and confrontation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "13 APRIL → gathering at Jallianwala Bagh",
+            "REGINALD DYER → no warning / dispersal order; not Michael O'Dwyer",
+            "EVIDENCE RULE → no disputed casualty total."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Official inquiry, local testimony, nationalist memory and later commemoration must be separated",
+            "the massacre's moral-political impact does not make every reported detail equally verified."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Official inquiry, local testimony, nationalist memory and later commemoration must be separated; the massacre's moral-political impact does not make every reported detail equally verified.",
+      "source_references": [
+        "Punjab context and the arrests of Kitchlew and Satya Pal",
+        "Jallianwala Bagh: enclosed space, Dyer and firing",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MARTIAL LAW, INQUIRY AND MORAL RUPTURE",
+      "structural_type": "accountability-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MARTIAL LAW, INQUIRY AND MORAL RUPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "13 APRIL MASSACRE",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMAL MARTIAL LAW FOLLOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIC ABUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "CRAWLING ORDER IN A PARTICULAR AMRITSAR LANE",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "HUNTER MAJORITY AND INDIAN MINORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13 APRIL MASSACRE → formal martial law follows",
+        "SPECIFIC ABUSE → crawling order in a particular Amritsar lane",
+        "OFFICIAL ROUTE → Hunter majority and Indian minority",
+        "INDIAN ROUTE → Congress Punjab Inquiry",
+        "MORAL RESPONSE → Tagore 1919; Gandhi returns medal in 1920"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "13 APRIL MASSACRE → formal martial law follows",
+            "SPECIFIC ABUSE → crawling order in a particular Amritsar lane",
+            "OFFICIAL ROUTE → Hunter majority and Indian minority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIAN ROUTE → Congress Punjab Inquiry",
+            "MORAL RESPONSE → Tagore 1919; Gandhi returns medal in 1920",
+            "DEC 1919 CONGRESS → Gandhi / C.R. Das compromise on reforms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRANSITION → consent recedes; Non-Cooperation later becomes credible."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSITION → consent recedes; Non-Cooperation later becomes credible.",
+      "source_references": [
+        "Martial law, crawling order and competing inquiries",
+        "Moral repudiation, consequences and Non-Cooperation bridge",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE PRESENTS GANDHI'S SOUTH AFRICAN EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SATYAGRAHA REQUIRED TRUTH, NON-VIOLENCE, SELF-SUFFERING, DISCIPLINE AND MOBILISATION THROUGH",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHI'S ASHRAMS, INCLUDING SABARMATI, WERE NOT RETREATS FROM POLITICS",
+          "role": "caution"
+        },
+        {
+          "text": "CHAMPARAN SHOWED GANDHI'S TECHNIQUE",
+          "role": "primary"
+        },
+        {
+          "text": "INVESTIGATE FACTS, MOBILISE PEASANTS, NEGOTIATE WITH AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AND CONVERT A LOCAL INJUSTICE INTO A PUBLIC MORAL",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHI'S NOVELTY LAY IN MAKING POLITICS INTELLIGIBLE TO ORDINARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence presents Gandhi's South African experience as a training",
+            "ground: satyagraha required truth, non-violence, self-suffering, discipline and mobilisation through local associations.",
+            "Gandhi's ashrams, including Sabarmati, were not retreats from politics; they trained cadres in simplicity, constructive work and moral discipline.",
+            "Champaran showed Gandhi's technique: investigate facts, mobilise peasants, negotiate with authority"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "and convert a local injustice into a public moral issue.",
+            "CAUTION: Gandhi's novelty lay in making politics intelligible to ordinary people while keeping protest under a disciplined ethical frame.",
+            "Rowlatt Satyagraha marked Gandhi's first attempt at an all-India agitation, but violence in places made him recognise the need for greater discipline.",
+            "Jallianwala Bagh and martial law in Punjab radicalised Indian opinion"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Tagore's renunciation of his knighthood (1919) and Gandhi's later return of the Kaiser-i-Hind medal (1920) symbolised moral repudiation of the Raj.",
+            "CAUTION: The episode marks the beginning of the Gandhian phase : leadership shifted from constitutional petitioning to morally charged mass politics.",
+            "CAUTION: It also taught Gandhi that non-violence had to be organised, trained and controlled, not merely proclaimed.",
+            "Satyagraha was developed during Gandhi's South African struggles against racial laws."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

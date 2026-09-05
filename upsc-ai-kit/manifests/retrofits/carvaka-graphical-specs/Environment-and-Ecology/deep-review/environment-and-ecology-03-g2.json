@@ -1,0 +1,1197 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-03",
+  "subject": "Environment-and-Ecology",
+  "title": "ECOLOGICAL SUCCESSION AND BIOMES",
+  "short_route": "SUCCESSION DECISION TREE → PRIMARY SUCCESSION RAIL → SECONDARY SUCCESSION RAIL → SERE VOCABULARY MAP → HYDRARCH AND XERARCH COMPARISON → MECHANISM FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-03-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "53911698d4559afadf6e134e8f8aca59ae84badfc06040c5af7f62583432497b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SUCCESSION DECISION TREE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUCCESSION DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "NEWLY EXPOSED SUBSTRATE OR DISTURBED FORMER COMMUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO DEVELOPED SOIL",
+          "role": "caution"
+        },
+        {
+          "text": "PRIMARY SUCCESSION PATHWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "SOIL AND BIOLOGICAL LEGACIES REMAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SECONDARY SUCCESSION PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTOGENIC COMMUNITY CHANGE PLUS ALLOGENIC EXTERNAL FORCING",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINGENT TRAJECTORY, NOT ONE GUARANTEED ENDPOINT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "START → newly exposed substrate or disturbed former community",
+        "NO DEVELOPED SOIL → primary succession pathway",
+        "SOIL AND BIOLOGICAL LEGACIES REMAIN → secondary succession pathway",
+        "DRIVERS → autogenic community change plus allogenic external forcing",
+        "OUTCOME → contingent trajectory, not one guaranteed endpoint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "START → newly exposed substrate or disturbed former community",
+            "NO DEVELOPED SOIL → primary succession pathway"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOIL AND BIOLOGICAL LEGACIES REMAIN → secondary succession pathway",
+            "DRIVERS → autogenic community change plus allogenic external forcing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME → contingent trajectory, not one guaranteed endpoint",
+            "MUST REMEMBER: Succession is directional community change driven by colonisation,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Succession is directional community change driven by colonisation,.",
+      "source_references": [
+        "Ecological succession",
+        "Primary succession",
+        "Secondary succession",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PRIMARY SUCCESSION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRIMARY SUCCESSION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "BARE OR NEW SUBSTRATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PIONEER ESTABLISHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "WEATHERING AND ORGANIC INPUT",
+          "role": "evidence"
+        },
+        {
+          "text": "INITIAL SOIL DEVELOPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "HERBS OR OTHER COLONISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MORE COVER AND RESOURCE CAPTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER COMMUNITIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BARE OR NEW SUBSTRATE → pioneer establishment",
+        "WEATHERING AND ORGANIC INPUT → initial soil development",
+        "HERBS OR OTHER COLONISTS → more cover and resource capture",
+        "LATER COMMUNITIES → increasing structural complexity where conditions permit",
+        "LIMIT → no universal species list or completion time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BARE OR NEW SUBSTRATE → pioneer establishment",
+            "WEATHERING AND ORGANIC INPUT → initial soil development"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HERBS OR OTHER COLONISTS → more cover and resource capture",
+            "LATER COMMUNITIES → increasing structural complexity where conditions permit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → no universal species list or completion time",
+            "BARE OR NEW SUBSTRATE → pioneer establishment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → no universal species list or completion time.",
+      "source_references": [
+        "Primary succession",
+        "Pioneer organisms",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SECONDARY SUCCESSION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECONDARY SUCCESSION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR VEGETATION REDUCED OR REMOVED",
+          "role": "outcome"
+        },
+        {
+          "text": "SOIL, ROOTS, SEEDS OR MICROBES REMAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOLOGICAL LEGACY",
+          "role": "evidence"
+        },
+        {
+          "text": "RAPID COLONISERS",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETITION AND RECRUITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER COMMUNITY CHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTURBANCE → prior vegetation reduced or removed",
+        "SOIL, ROOTS, SEEDS OR MICROBES REMAIN → biological legacy",
+        "RAPID COLONISERS → early recovery",
+        "COMPETITION AND RECRUITMENT → later community change",
+        "LIMIT → faster than primary does not mean instant or identical recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISTURBANCE → prior vegetation reduced or removed",
+            "SOIL, ROOTS, SEEDS OR MICROBES REMAIN → biological legacy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAPID COLONISERS → early recovery",
+            "COMPETITION AND RECRUITMENT → later community change"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → faster than primary does not mean instant or identical recovery",
+            "DISTURBANCE → prior vegetation reduced or removed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → faster than primary does not mean instant or identical recovery.",
+      "source_references": [
+        "Secondary succession",
+        "Disturbance and reset",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SERE VOCABULARY MAP",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SERE VOCABULARY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE SEQUENCE AT ONE SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "SERAL STAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE COMMUNITY WITHIN THE SEQUENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ROCK PSAMMOSERE",
+          "role": "primary"
+        },
+        {
+          "text": "SALINE HYDROSERE",
+          "role": "outcome"
+        },
+        {
+          "text": "FRESH WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "DRY SUBSTRATE; NAMES IDENTIFY STARTS, NOT FIXED ENDS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SERE → complete sequence at one site",
+        "SERAL STAGE → one community within the sequence",
+        "LITHOSERE → rock PSAMMOSERE → sand",
+        "HALOSERE → saline HYDROSERE → fresh water",
+        "XEROSERE → dry substrate; names identify starts, not fixed ends"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SERE → complete sequence at one site",
+          "LITHOSERE → rock PSAMMOSERE → sand",
+          "XEROSERE → dry substrate; names identify starts, not fixed ends"
+        ],
+        [
+          "SERAL STAGE → one community within the sequence",
+          "HALOSERE → saline HYDROSERE → fresh water",
+          "SERE → complete sequence at one site"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SERE → complete sequence at one site",
+            "SERAL STAGE → one community within the sequence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LITHOSERE → rock PSAMMOSERE → sand",
+            "HALOSERE → saline HYDROSERE → fresh water"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "XEROSERE → dry substrate; names identify starts, not fixed ends",
+            "SERE → complete sequence at one site"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "XEROSERE → dry substrate; names identify starts, not fixed ends.",
+      "source_references": [
+        "Sere and seral stage",
+        "Named seres",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HYDRARCH AND XERARCH COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HYDRARCH AND XERARCH COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "BEGINS IN WATER OR VERY WET SUBSTRATE",
+          "role": "outcome"
+        },
+        {
+          "text": "BEGINS UNDER DRY CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY TREND TOWARD MORE MESIC REGIONAL CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPENDS ON SEDIMENT, SOIL, COLONISTS AND DISTURBANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CONVERGENCE IS NOT ONE UNIVERSAL SEQUENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HYDRARCH → begins in water or very wet substrate",
+        "XERARCH → begins under dry conditions",
+        "BOTH → may trend toward more mesic regional conditions",
+        "PATH → depends on sediment, soil, colonists and disturbance",
+        "CAUTION → convergence is not one universal sequence"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HYDRARCH → begins in water or very wet substrate",
+          "BOTH → may trend toward more mesic regional conditions",
+          "CAUTION → convergence is not one universal sequence"
+        ],
+        [
+          "XERARCH → begins under dry conditions",
+          "PATH → depends on sediment, soil, colonists and disturbance",
+          "HYDRARCH → begins in water or very wet substrate"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HYDRARCH → begins in water or very wet substrate",
+            "XERARCH → begins under dry conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOTH → may trend toward more mesic regional conditions",
+            "PATH → depends on sediment, soil, colonists and disturbance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → convergence is not one universal sequence",
+            "HYDRARCH → begins in water or very wet substrate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → convergence is not one universal sequence.",
+      "source_references": [
+        "Hydrarch and xerarch direction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MECHANISM FORK",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MECHANISM FORK",
+          "role": "mechanism"
+        },
+        {
+          "text": "ORGANISMS ALTER LITTER, SOIL, SHADE OR MICROCLIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOOD, FIRE, EROSION, DEPOSITION, CLIMATE OR LAND USE ACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY SPECIES IMPROVE LATER ESTABLISHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "INHIBITION OR TOLERANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ALTERNATIVE REPLACEMENT MECHANISMS",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY THE DRIVER BEFORE NAMING THE MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "AUTOGENIC → organisms alter litter, soil, shade or microclimate",
+        "ALLOGENIC → flood, fire, erosion, deposition, climate or land use acts externally",
+        "FACILITATION → early species improve later establishment",
+        "INHIBITION OR TOLERANCE → alternative replacement mechanisms",
+        "RULE → identify the driver before naming the mechanism"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AUTOGENIC → organisms alter litter, soil, shade or microclimate",
+          "FACILITATION → early species improve later establishment",
+          "RULE → identify the driver before naming the mechanism"
+        ],
+        [
+          "ALLOGENIC → flood, fire, erosion, deposition, climate or land use acts externally",
+          "INHIBITION OR TOLERANCE → alternative replacement mechanisms",
+          "AUTOGENIC → organisms alter litter, soil, shade or microclimate"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AUTOGENIC → organisms alter litter, soil, shade or microclimate",
+            "ALLOGENIC → flood, fire, erosion, deposition, climate or land use acts externally"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FACILITATION → early species improve later establishment",
+            "INHIBITION OR TOLERANCE → alternative replacement mechanisms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → identify the driver before naming the mechanism",
+            "AUTOGENIC → organisms alter litter, soil, shade or microclimate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify the driver before naming the mechanism.",
+      "source_references": [
+        "Autogenic mechanism",
+        "Allogenic mechanism",
+        "Facilitation, inhibition and tolerance",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CLIMAX THEORY PRESSURE TEST",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CLIMAX THEORY PRESSURE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSICAL CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL CLIMATE FAVOURS A RELATIVELY STABLE CLIMAX",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTURBANCE HISTORY AND SPECIES ARRIVAL DIFFER AMONG SITES",
+          "role": "evidence"
+        },
+        {
+          "text": "MODERN READING",
+          "role": "primary"
+        },
+        {
+          "text": "MULTIPLE PLAUSIBLE STABLE STATES CAN OCCUR",
+          "role": "outcome"
+        },
+        {
+          "text": "REDIRECTS OR RESETS TRAJECTORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "CLIMATE CONSTRAINS BUT DOES NOT UNIQUELY SCRIPT EVERY ENDPOINT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLASSICAL CLAIM → regional climate favours a relatively stable climax",
+        "PRESSURE → disturbance history and species arrival differ among sites",
+        "MODERN READING → multiple plausible stable states can occur",
+        "DISTURBANCE → redirects or resets trajectories",
+        "VERDICT → climate constrains but does not uniquely script every endpoint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSICAL CLAIM → regional climate favours a relatively stable climax",
+            "PRESSURE → disturbance history and species arrival differ among sites"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MODERN READING → multiple plausible stable states can occur",
+            "DISTURBANCE → redirects or resets trajectories"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → climate constrains but does not uniquely script every endpoint",
+            "CLASSICAL CLAIM → regional climate favours a relatively stable climax"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → climate constrains but does not uniquely script every endpoint.",
+      "source_references": [
+        "Classical climax and modern qualification",
+        "Disturbance and reset",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RESTORATION STAGING LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESTORATION STAGING LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "1 STABILISE",
+          "role": "outcome"
+        },
+        {
+          "text": "EROSION, SUBSTRATE AND HYDROLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "2 REBUILD FUNCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANIC MATTER, SOIL BIOTA AND NUTRIENT PROCESSES",
+          "role": "primary"
+        },
+        {
+          "text": "3 ENABLE NATIVE RECRUITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROPAGULES AND SUITABLE MICROCLIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "4 RECOVER STRUCTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 STABILISE → erosion, substrate and hydrology",
+        "2 REBUILD FUNCTION → organic matter, soil biota and nutrient processes",
+        "3 ENABLE NATIVE RECRUITMENT → propagules and suitable microclimate",
+        "4 RECOVER STRUCTURE → composition, layering and connectivity",
+        "5 MONITOR → function and trajectory, not planting count alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 STABILISE → erosion, substrate and hydrology",
+            "2 REBUILD FUNCTION → organic matter, soil biota and nutrient processes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 ENABLE NATIVE RECRUITMENT → propagules and suitable microclimate",
+            "4 RECOVER STRUCTURE → composition, layering and connectivity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 MONITOR → function and trajectory, not planting count alone",
+            "1 STABILISE → erosion, substrate and hydrology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "5 MONITOR → function and trajectory, not planting count alone.",
+      "source_references": [
+        "Restoration staging",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SCALE VOCABULARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCALE VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "PLACE USED BY A SPECIES",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDED INTERACTING BIOTIC AND ABIOTIC FUNCTIONAL UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD REGIONAL ECOLOGICAL CATEGORY",
+          "role": "evidence"
+        },
+        {
+          "text": "FOREST LEGAL CATEGORY",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS UNDER APPLICABLE LAW OR INTERPRETATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE TERM CANNOT SILENTLY SUBSTITUTE FOR ANOTHER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "HABITAT → place used by a species",
+        "ECOSYSTEM → bounded interacting biotic and abiotic functional unit",
+        "BIOME → broad regional ecological category",
+        "FOREST LEGAL CATEGORY → status under applicable law or interpretation",
+        "RULE → one term cannot silently substitute for another"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HABITAT → place used by a species",
+          "BIOME → broad regional ecological category",
+          "RULE → one term cannot silently substitute for another"
+        ],
+        [
+          "ECOSYSTEM → bounded interacting biotic and abiotic functional unit",
+          "FOREST LEGAL CATEGORY → status under applicable law or interpretation",
+          "HABITAT → place used by a species"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HABITAT → place used by a species",
+            "ECOSYSTEM → bounded interacting biotic and abiotic functional unit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BIOME → broad regional ecological category",
+            "FOREST LEGAL CATEGORY → status under applicable law or interpretation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one term cannot silently substitute for another",
+            "HABITAT → place used by a species"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one term cannot silently substitute for another.",
+      "source_references": [
+        "Biome versus ecosystem and habitat",
+        "Administrative, legal and ecological labels",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BIOME CONTROL MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BIOME CONTROL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "BROAD CLIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPERATURE AND PRECIPITATION PATTERN",
+          "role": "comparison"
+        },
+        {
+          "text": "SOIL AND TOPOGRAPHY",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL WATER AND NUTRIENT CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "FIRE AND HERBIVORY",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINTAIN OR REDIRECT OPEN VEGETATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND-USE HISTORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BROAD CLIMATE → temperature and precipitation pattern",
+        "SOIL AND TOPOGRAPHY → local water and nutrient conditions",
+        "FIRE AND HERBIVORY → maintain or redirect open vegetation",
+        "LAND-USE HISTORY → modifies present composition",
+        "BOUNDARY → biome maps are gradients, not exact site-level lines"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BROAD CLIMATE → temperature and precipitation pattern",
+          "FIRE AND HERBIVORY → maintain or redirect open vegetation",
+          "BOUNDARY → biome maps are gradients, not exact site-level lines"
+        ],
+        [
+          "SOIL AND TOPOGRAPHY → local water and nutrient conditions",
+          "LAND-USE HISTORY → modifies present composition",
+          "CLOSE DISTINCTION: Primary is not secondary succession, pioneer is not universally..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BROAD CLIMATE → temperature and precipitation pattern",
+            "SOIL AND TOPOGRAPHY → local water and nutrient conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FIRE AND HERBIVORY → maintain or redirect open vegetation",
+            "LAND-USE HISTORY → modifies present composition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → biome maps are gradients, not exact site-level lines",
+            "CLOSE DISTINCTION: Primary is not secondary succession, pioneer is not universally..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Primary is not secondary succession, pioneer is not universally.",
+      "source_references": [
+        "Climate and local biome modifiers",
+        "Biome boundaries and ecotones",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "OPEN ECOSYSTEM FIREWALL",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OPEN ECOSYSTEM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "GRASSLAND, SAVANNA, SCRUB",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY BE NATURAL ECOLOGICAL STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE OR REVENUE LABEL",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGAL CATEGORY IN THE RELEVANT CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "LAND-COVER INTERVENTION, NOT PROOF OF RESTORED BIOME",
+          "role": "caution"
+        },
+        {
+          "text": "ASSESS NATIVE BIOME BEFORE AFFORESTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GRASSLAND, SAVANNA, SCRUB → may be natural ecological states",
+        "WASTELAND → administrative or revenue label",
+        "FOREST → legal category in the relevant context",
+        "PLANTATION → land-cover intervention, not proof of restored biome",
+        "DECISION → assess native biome before afforestation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GRASSLAND, SAVANNA, SCRUB → may be natural ecological states",
+          "FOREST → legal category in the relevant context",
+          "DECISION → assess native biome before afforestation"
+        ],
+        [
+          "WASTELAND → administrative or revenue label",
+          "PLANTATION → land-cover intervention, not proof of restored biome",
+          "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRASSLAND, SAVANNA, SCRUB → may be natural ecological states",
+            "WASTELAND → administrative or revenue label"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOREST → legal category in the relevant context",
+            "PLANTATION → land-cover intervention, not proof of restored biome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DECISION → assess native biome before afforestation",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance.",
+      "source_references": [
+        "Open Natural Ecosystems",
+        "Administrative, legal and ecological labels",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND MONITORING BOUNDARY",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND MONITORING BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "2021 ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "PIONEERS SURVIVING ON SURFACES WITHOUT SOIL",
+          "role": "comparison"
+        },
+        {
+          "text": "2024 ESSAY",
+          "role": "evidence"
+        },
+        {
+          "text": "FORESTS AND DESERTS USED AS A QUALIFIED ECOLOGICAL WARNING",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "CANOPY TREND, NOT SUCCESSIONAL-STAGE PROOF",
+          "role": "caution"
+        },
+        {
+          "text": "RESTORATION CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 ROUTE → pioneers surviving on surfaces without soil",
+        "2024 ESSAY → forests and deserts used as a qualified ecological warning",
+        "FOREST COVER → canopy trend, not successional-stage proof",
+        "RESTORATION CLAIM → needs repeated composition, soil and function evidence",
+        "LIVE STUB → adds no succession timeline, biome range or status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2021 ROUTE → pioneers surviving on surfaces without soil",
+            "2024 ESSAY → forests and deserts used as a qualified ecological warning"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOREST COVER → canopy trend, not successional-stage proof",
+            "RESTORATION CLAIM → needs repeated composition, soil and function evidence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIVE STUB → adds no succession timeline, biome range or status",
+            "2021 ROUTE → pioneers surviving on surfaces without soil"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIVE STUB → adds no succession timeline, biome range or status.",
+      "source_references": [
+        "PYQ, monitoring and current boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-03\\g2\\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST SURVEY OF INDIA (FSI)",
+          "role": "outcome"
+        },
+        {
+          "text": "BIENNIAL STATE OF FOREST REPORTS TRACK CANOPY-DENSITY",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL AFFORESTATION PROGRAMME",
+          "role": "evidence"
+        },
+        {
+          "text": "CAMPA-FUNDED PROJECTS",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTATION GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "AFFORESTATION TARGETS ARE FREQUENTLY REPORTED IN AREA (HECTARES",
+          "role": "comparison"
+        },
+        {
+          "text": "\"FOREST COVER\" AS MEASURED BY CANOPY-DENSITY THRESHOLD (FSI METHODOLOGY)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Forest Survey of India (FSI): biennial State of Forest Reports track canopy-density",
+            "MoEFCC / National Afforestation Programme / CAMPA-funded projects: implement",
+            "CAUTION: Implementation gap: afforestation targets are frequently reported in area (hectares",
+            "CAUTION: \"Forest cover\" as measured by canopy-density threshold (FSI methodology) cannot by"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Long-term successional trajectories (decades to centuries for true climax forest) are",
+            "CAUTION: Biome boundaries are not sharp lines but gradients (ecotones, Topic 01); treating biome",
+            "Primary succession lacks a pre-existing soil layer; secondary succession retains soil",
+            "Hydrarch succession begins in water and trends toward a drier (mesic) climax; xerarch"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Biome classification uses temperature and precipitation as primary variables, directly",
+            "India contains tropical wet evergreen, tropical dry deciduous, thorn/desert and montane",
+            "NOT: Climax community composition is uniquely and permanently fixed by climate alone.",
+            "NOT: Planting any tree species counts as ecological restoration toward climax. - Restoration"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

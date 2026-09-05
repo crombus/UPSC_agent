@@ -1,0 +1,1085 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-13",
+  "subject": "Ancient-Indian-History",
+  "title": "STATE & VARNA SOCIETY IN THE AGE OF THE BUDDHA",
+  "short_route": "PERIOD HORIZON AND SOURCE → FROM JANA TO TERRITORIAL → SECOND URBANISATION AS A → AGRARIAN BASE, IRON AND → STATE INSTITUTIONS AND DIFFERENTIATED → VARNA NORM AND SOCIAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-13_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-29-sequential.json",
+  "ascii_spec_sha256": "ccbb1d8d7da6b2a66cf79118b6e21163ef13e20aa27201942585ac184c059804",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PERIOD HORIZON AND SOURCE METHOD",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PERIOD HORIZON AND SOURCE METHOD",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER VEDIC BACKGROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "C. 600-400 BCE CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "C. 600-200 BCE WIDER HORIZON AGRARIAN AND VARNA CHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "NIKAYAS/VINAYA + JAINA TEXTS + DHARMASUTRAS/PANINI + ARCHAEOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT MAKE UNLIKE SOURCES EXACTLY CONTEMPORARY.",
+          "role": "caution"
+        },
+        {
+          "text": "NAMED SOURCE/SITE",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT IT PROVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LATER VEDIC BACKGROUND → c.",
+        "600-400 BCE CORE → c.",
+        "600-200 BCE WIDER HORIZON agrarian and varna change Buddha-age polities textual redaction and urban growth",
+        "SOURCES: Nikayas/Vinaya + Jaina texts + Dharmasutras/Panini + archaeology",
+        "Do not make unlike sources exactly contemporary."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "LATER VEDIC BACKGROUND → c.",
+            "600-400 BCE CORE → c."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "600-200 BCE WIDER HORIZON agrarian and varna change Buddha-age polities textual redaction and urban growth",
+            "SOURCES: Nikayas/Vinaya + Jaina texts + Dharmasutras/Panini + archaeology"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Do not make unlike sources exactly contemporary.",
+            "METHOD: claim → named source/site → what it proves → transmission limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD: claim → named source/site → what it proves → transmission limit.",
+      "source_references": [
+        "Defining the age",
+        "Sources and evidence method"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FROM JANA TO TERRITORIAL STATE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM JANA TO TERRITORIAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "KIN COMMUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLED TERRITORY",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGER COMPETING MAHAJANAPADAS",
+          "role": "evidence"
+        },
+        {
+          "text": "MONARCHIES AND GANA-SANGHAS",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE + ARMY + FORTIFIED CENTRES + OFFICIALS +",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL AUTHORITY BECAME MORE TERRITORIAL AND EXTRACTIVE.",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANGE WAS REGIONALLY UNEVEN AND DID NOT ERASE CLAN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KIN COMMUNITY / JANA",
+        "settled territory / JANAPADA",
+        "larger competing MAHAJANAPADAS",
+        "monarchies and gana-sanghas",
+        "MECHANISMS: revenue + army + fortified centres + officials + diplomacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KIN COMMUNITY / JANA",
+            "settled territory / JANAPADA",
+            "larger competing MAHAJANAPADAS"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "monarchies and gana-sanghas",
+            "MECHANISMS: revenue + army + fortified centres + officials + diplomacy",
+            "RESULT: political authority became more territorial and extractive."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: change was regionally uneven and did not erase clan structures.",
+            "TRAP: gana-sangha was restricted oligarchy, not modern democracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: political authority became more territorial and extractive.",
+      "answer_line": "TRAP: gana-sangha was restricted oligarchy, not modern democracy.",
+      "source_references": [
+        "State formation",
+        "Monarchy and gana-sangha"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SECOND URBANISATION AS A SYSTEM",
+      "structural_type": "system-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SECOND URBANISATION AS A SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN SURPLUS",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIALISED CRAFTS",
+          "role": "comparison"
+        },
+        {
+          "text": "TOWNS STATE DEMAND <- TAXES, ARMIES, OFFICIALS <- MERCHANTS",
+          "role": "institution"
+        },
+        {
+          "text": "URBANISATION WAS A NETWORK OF PRODUCTION, POWER AND CIRCULATION.",
+          "role": "mechanism"
+        },
+        {
+          "text": "NBPW IS AN ASSOCIATED MATERIAL HORIZON, NOT THE SINGLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AGRARIAN SURPLUS → SPECIALISED CRAFTS → EXCHANGE → TOWNS state demand <- taxes",
+        "armies, officials <- merchants and householders roads + rivers + coin use",
+        "Urbanisation was a network of production, power and circulation.",
+        "NBPW is an associated material horizon, not the single cause of towns."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRARIAN SURPLUS → SPECIALISED CRAFTS → EXCHANGE → TOWNS state demand <- taxes,",
+            "armies, officials <- merchants and householders roads + rivers + coin use"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Urbanisation was a network of production, power and circulation.",
+            "NBPW is an associated material horizon, not the single cause of towns."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "AGRARIAN SURPLUS → SPECIALISED CRAFTS → EXCHANGE → TOWNS state demand <- taxes,",
+            "armies, officials <- merchants and householders roads + rivers + coin use"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NBPW is an associated material horizon, not the single cause of towns.",
+      "source_references": [
+        "Second urbanisation",
+        "Urban criteria"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AGRARIAN BASE, IRON AND REVENUE",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AGRARIAN BASE, IRON AND REVENUE",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST CLEARANCE + PLOUGH AGRICULTURE + LABOUR LARGER AND",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL COMPETITION",
+          "role": "comparison"
+        },
+        {
+          "text": "IRON ENABLED TOOLS AND WEAPONS BUT DID NOT MECHANICALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOREST CLEARANCE + PLOUGH AGRICULTURE + LABOUR larger and more regular surplus shares, tribute",
+        "labour dues and market-related extraction treasury → officials → army → territorial competition",
+        "CAUTION: iron enabled tools and weapons but did not mechanically create states."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FOREST CLEARANCE + PLOUGH AGRICULTURE + LABOUR larger and more regular surplus shares, tribute,",
+            "labour dues and market-related extraction treasury → officials → army → territorial competition"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION: iron enabled tools and weapons but did not mechanically create states.",
+            "FOREST CLEARANCE + PLOUGH AGRICULTURE + LABOUR larger and more regular surplus shares, tribute,"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "labour dues and market-related extraction treasury → officials → army → territorial competition",
+            "CAUTION: iron enabled tools and weapons but did not mechanically create states."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: iron enabled tools and weapons but did not mechanically create states.",
+      "source_references": [
+        "Agriculture and iron",
+        "Revenue and state capacity"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "STATE INSTITUTIONS AND DIFFERENTIATED OFFICES",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATE INSTITUTIONS AND DIFFERENTIATED OFFICES",
+          "role": "institution"
+        },
+        {
+          "text": "RULING LINEAGE MINISTERS AND MAHAMATTAS",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE AND JUDICIAL FUNCTIONS ARMY AND COMMANDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "COERCION AND DEFENCE VILLAGE HEADS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL MEDIATION AND COLLECTION ENVOYS AND ALLIANCES",
+          "role": "primary"
+        },
+        {
+          "text": "INTERSTATE COMPETITION",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICE TERMS SHOW FUNCTIONAL DIFFERENTIATION, NOT A UNIFORM MAURYAN",
+          "role": "caution"
+        },
+        {
+          "text": "RESOURCES + INFORMATION + COMPLIANCE, NOT TITLES ALONE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAJAN / RULING LINEAGE ministers and mahamattas → revenue and judicial functions army and commanders",
+        "coercion and defence village heads → local mediation and collection envoys and alliances → interstate",
+        "Office terms show functional differentiation, not a uniform Mauryan bureaucracy.",
+        "Capacity = resources + information + compliance, not titles alone."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAJAN / RULING LINEAGE ministers and mahamattas → revenue and judicial functions army and commanders →",
+            "coercion and defence village heads → local mediation and collection envoys and alliances → interstate competition"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Office terms show functional differentiation, not a uniform Mauryan bureaucracy.",
+            "Capacity = resources + information + compliance, not titles alone."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RAJAN / RULING LINEAGE ministers and mahamattas → revenue and judicial functions army and commanders →",
+            "coercion and defence village heads → local mediation and collection envoys and alliances → interstate competition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Capacity = resources + information + compliance, not titles alone.",
+      "source_references": [
+        "Officials and administration",
+        "State capacity"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VARNA NORM AND SOCIAL PRACTICE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VARNA NORM AND SOCIAL PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "BRAHMANICAL NORM LIVED SOCIAL FIELD FOURFOLD RANKED VARNA OCCUPATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "VARNA ORGANISED CLAIMS TO HIERARCHY; IT DID NOT FULLY",
+          "role": "caution"
+        },
+        {
+          "text": "NEITHER TIMELESS RIGIDITY NOR UNRESTRICTED MOBILITY IS EVIDENCE-SAFE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRAHMANICAL NORM LIVED SOCIAL FIELD fourfold ranked varna occupations, jatis, clans and regions duty",
+        "and ritual status wealth, power, mobility and exclusion prescriptive texts Buddhist/Jaina texts + archaeology",
+        "Varna organised claims to hierarchy; it did not fully describe every social relation.",
+        "Neither timeless rigidity nor unrestricted mobility is evidence-safe."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "BRAHMANICAL NORM LIVED SOCIAL FIELD fourfold ranked varna occupations, jatis, clans and regions duty",
+          "Varna organised claims to hierarchy; it did not fully describe every social relation.",
+          "BRAHMANICAL NORM LIVED SOCIAL FIELD fourfold ranked varna occupations, jatis, clans and regions duty"
+        ],
+        [
+          "and ritual status wealth, power, mobility and exclusion prescriptive texts Buddhist/Jaina texts + archaeology",
+          "Neither timeless rigidity nor unrestricted mobility is evidence-safe.",
+          "and ritual status wealth, power, mobility and exclusion prescriptive texts Buddhist/Jaina texts + archaeology"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BRAHMANICAL NORM LIVED SOCIAL FIELD fourfold ranked varna occupations, jatis, clans and regions duty",
+            "and ritual status wealth, power, mobility and exclusion prescriptive texts Buddhist/Jaina texts + archaeology"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Varna organised claims to hierarchy; it did not fully describe every social relation.",
+            "Neither timeless rigidity nor unrestricted mobility is evidence-safe."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BRAHMANICAL NORM LIVED SOCIAL FIELD fourfold ranked varna occupations, jatis, clans and regions duty",
+            "and ritual status wealth, power, mobility and exclusion prescriptive texts Buddhist/Jaina texts + archaeology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Neither timeless rigidity nor unrestricted mobility is evidence-safe.",
+      "source_references": [
+        "Varna order",
+        "Norm and practice"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HOUSEHOLDERS, MERCHANTS, LABOUR AND DEPENDENCY",
+      "structural_type": "social-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HOUSEHOLDERS, MERCHANTS, LABOUR AND DEPENDENCY",
+          "role": "primary"
+        },
+        {
+          "text": "SUBSTANTIAL HOUSEHOLD HEAD",
+          "role": "outcome"
+        },
+        {
+          "text": "AGRARIAN AND SOCIAL AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "WEALTHY MERCHANT-FINANCIER IN URBAN-COMMERCIAL NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTIVATOR; CATEGORY CONTAINED UNEQUAL HOLDINGS AND DEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALISED PRODUCTION AND GUILD-LIKE ASSOCIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENT AND UNFREE LABOUR CATEGORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTSIDE HOUSEHOLD IDEAL YET DEPENDENT ON LAY PATRONAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GAHAPATI: substantial household head / agrarian and social authority",
+        "SETTHI: wealthy merchant-financier in urban-commercial networks",
+        "KASSAKA: cultivator; category contained unequal holdings and dependence",
+        "KAMMIKAS / ARTISANS: specialised production and guild-like association",
+        "DASA-KAMMAKARA: dependent and unfree labour categories"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GAHAPATI: substantial household head / agrarian and social authority",
+            "SETTHI: wealthy merchant-financier in urban-commercial networks",
+            "KASSAKA: cultivator; category contained unequal holdings and dependence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KAMMIKAS / ARTISANS: specialised production and guild-like association",
+            "DASA-KAMMAKARA: dependent and unfree labour categories",
+            "RENUNCIANTS: outside household ideal yet dependent on lay patronage"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Wealth could raise influence without automatically cancelling ritual hierarchy.",
+            "Use social terms with source and context; do not make them modern classes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use social terms with source and context; do not make them modern classes.",
+      "source_references": [
+        "Gahapati and setthi",
+        "Labour and dependency"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WOMEN, HOUSEHOLD POWER AND EXCLUSION",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WOMEN, HOUSEHOLD POWER AND EXCLUSION",
+          "role": "mechanism"
+        },
+        {
+          "text": "TEXTUAL NORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "PATRILINY, MARRIAGE CONTROL AND GENDERED DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDDHIST/JAINA MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "NUNS, DONORS, HOUSEHOLDERS AND DEBATES OVER ADMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL SILENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARCHAEOLOGY RARELY IDENTIFIES GENDER WITHOUT CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "AGENCY EXISTED WITHIN UNEQUAL INSTITUTIONS; ELITE WOMEN CANNOT STAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEXTUAL NORMS: patriliny, marriage control and gendered duties",
+        "BUDDHIST/JAINA MATERIAL: nuns, donors, householders and debates over admission",
+        "MATERIAL SILENCE: archaeology rarely identifies gender without context",
+        "Agency existed within unequal institutions; elite women cannot stand for all women.",
+        "Renunciation opened spaces but preserved hierarchy and dependence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "TEXTUAL NORMS: patriliny, marriage control and gendered duties",
+            "BUDDHIST/JAINA MATERIAL: nuns, donors, householders and debates over admission"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "MATERIAL SILENCE: archaeology rarely identifies gender without context",
+            "Agency existed within unequal institutions; elite women cannot stand for all women."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Renunciation opened spaces but preserved hierarchy and dependence.",
+            "VERDICT: recover variation without inventing equality or total seclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: recover variation without inventing equality or total seclusion.",
+      "answer_line": "recover variation without inventing equality or total seclusion.",
+      "source_references": [
+        "Women and gender",
+        "Social exclusions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SHRAMANA CHALLENGE AND SOCIAL RESPONSE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SHRAMANA CHALLENGE AND SOCIAL RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "RITUAL COST + URBAN CHANGE + SOCIAL MOBILITY +",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST, JAINA, AJIVIKA AND OTHER RENUNCIANT CRITIQUES ETHICS, KARMA",
+          "role": "comparison"
+        },
+        {
+          "text": "SHRAMANA MOVEMENTS CHALLENGED HIERARCHY UNEVENLY, NOT ALL SOCIAL RANKING.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RITUAL COST + URBAN CHANGE + SOCIAL MOBILITY + SUFFERING",
+        "Buddhist, Jaina, Ajivika and other renunciant critiques ethics, karma, rebirth, non-injury, discipline and",
+        "new communities merchant and ruler patronage + monastic institutions + doctrinal competition",
+        "LIMIT: shramana movements challenged hierarchy unevenly, not all social ranking."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RITUAL COST + URBAN CHANGE + SOCIAL MOBILITY + SUFFERING",
+            "Buddhist, Jaina, Ajivika and other renunciant critiques ethics, karma, rebirth, non-injury, discipline and"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "new communities merchant and ruler patronage + monastic institutions + doctrinal competition",
+            "LIMIT: shramana movements challenged hierarchy unevenly, not all social ranking."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RITUAL COST + URBAN CHANGE + SOCIAL MOBILITY + SUFFERING",
+            "Buddhist, Jaina, Ajivika and other renunciant critiques ethics, karma, rebirth, non-injury, discipline and"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: shramana movements challenged hierarchy unevenly, not all social ranking.",
+      "source_references": [
+        "Shramana movements",
+        "Patronage and critique"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MATERIAL EVIDENCE: POTTERY, COINS, TOWNS AND ROUTES",
+      "structural_type": "evidence-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MATERIAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "POTTERY, COINS, TOWNS AND ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSUMPTION AND EARLY-HISTORIC SETTLEMENT HORIZON",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFENCE, LABOUR MOBILISATION AND POLITICAL INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PUNCH-MARKED COINS",
+          "role": "primary"
+        },
+        {
+          "text": "MONETISED EXCHANGE IN SELECTED CIRCUITS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRAFT AREAS",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALISED PRODUCTION AND URBAN DEMAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NBPW → consumption and early-historic settlement horizon",
+        "FORTIFICATIONS → defence, labour mobilisation and political investment",
+        "PUNCH-MARKED COINS → monetised exchange in selected circuits",
+        "CRAFT AREAS → specialised production and urban demand",
+        "SETTLEMENT HIERARCHY → links villages, towns and political centres"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "NBPW → consumption and early-historic settlement horizon",
+          "CRAFT AREAS → specialised production and urban demand",
+          "No single marker proves a city, ruler, varna or religious community."
+        ],
+        [
+          "FORTIFICATIONS → defence, labour mobilisation and political investment",
+          "SETTLEMENT HIERARCHY → links villages, towns and political centres",
+          "Use convergence among artefact, layer, text and regional sequence."
+        ],
+        [
+          "PUNCH-MARKED COINS → monetised exchange in selected circuits",
+          "RIVERS/ROADS → movement of goods, armies, pilgrims and information",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "NBPW → consumption and early-historic settlement horizon",
+            "FORTIFICATIONS → defence, labour mobilisation and political investment",
+            "PUNCH-MARKED COINS → monetised exchange in selected circuits"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "CRAFT AREAS → specialised production and urban demand",
+            "SETTLEMENT HIERARCHY → links villages, towns and political centres",
+            "RIVERS/ROADS → movement of goods, armies, pilgrims and information"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "No single marker proves a city, ruler, varna or religious community.",
+            "Use convergence among artefact, layer, text and regional sequence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use convergence among artefact, layer, text and regional sequence.",
+      "source_references": [
+        "Archaeology and urbanisation",
+        "Coins and NBPW"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CHANGE AND CONTINUITY ACROSS POLITY AND SOCIETY",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHANGE AND CONTINUITY ACROSS POLITY AND SOCIETY",
+          "role": "primary"
+        },
+        {
+          "text": "LARGER STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "COIN USE",
+          "role": "comparison"
+        },
+        {
+          "text": "RENUNCIANT INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "AGRARIAN HOUSEHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "RITUAL HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL COMMUNITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MONARCHY VS GANA",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CHANGE: larger states",
+        "coin use",
+        "renunciant institutions",
+        "CONTINUITY: kinship",
+        "agrarian household"
+      ],
+      "matrix": [
+        [
+          "CONTINUITY: kinship",
+          "agrarian household",
+          "ritual hierarchy",
+          "local communities"
+        ],
+        [
+          "TENSION: monarchy vs gana",
+          "wealth vs status",
+          "norm vs practice",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHANGE: larger states",
+            "coin use",
+            "renunciant institutions",
+            "CONTINUITY: kinship",
+            "agrarian household"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ritual hierarchy",
+            "local communities",
+            "TENSION: monarchy vs gana",
+            "wealth vs status",
+            "norm vs practice"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REGIONALITY: Ganga plains != north-west != Deccan trajectories",
+            "The Buddha age was accelerated restructuring, not a total social revolution.",
+            "Best answers connect political capacity, economy, hierarchy and ethical critique."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Best answers connect political capacity, economy, hierarchy and ethical critique.",
+      "source_references": [
+        "Integrated synthesis",
+        "Change and continuity"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY BUDDHA-AGE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY BUDDHA-AGE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE SIXTH-FIFTH CENTURY BCE CORE WITHIN A WIDER",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 1",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE HIERARCHY AND CHRONOLOGY CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "BODY 2",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL STATES, INSTITUTIONS AND AGRARIAN EXTRACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 3",
+          "role": "comparison"
+        },
+        {
+          "text": "TOWNS, TRADE, HOUSEHOLDERS, ARTISANS AND LABOUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTRO: define the sixth-fifth century BCE core within a wider early-historic range.",
+        "BODY 1: source hierarchy and chronology caution",
+        "BODY 2: territorial states, institutions and agrarian extraction",
+        "BODY 3: towns, trade, householders, artisans and labour",
+        "BODY 4: varna norm, lived hierarchy, gender and shramana critique"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INTRO: define the sixth-fifth century BCE core within a wider early-historic range.",
+            "BODY 1: source hierarchy and chronology caution",
+            "BODY 2: territorial states, institutions and agrarian extraction"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 3: towns, trade, householders, artisans and labour",
+            "BODY 4: varna norm, lived hierarchy, gender and shramana critique",
+            "COUNTER: regional variation, composite texts and material-evidence limits"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONCLUSION: state, economy and society changed together but unevenly.",
+            "WRITE: process → named evidence → social effect → qualification."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "process → named evidence → social effect → qualification.",
+      "source_references": [
+        "Mains answer architecture",
+        "Consolidated register notes"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The political map contained monarchical states (rajyas), oligarchic states (ganas/sanghas), and tribal principalities .",
+            "The 16 great states were not identical; they differed in size, constitution, economy and military capacity.",
+            "The period saw land and agrarian expansion, early historic cities, crafts, guilds, money and new social elites.",
+            "Renunciant traditions emerged in a society where householders, traders, setthis and gahapatis became increasingly visible."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

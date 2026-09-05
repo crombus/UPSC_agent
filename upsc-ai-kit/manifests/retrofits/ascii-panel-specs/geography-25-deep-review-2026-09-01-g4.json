@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-25",
+      "display_title": "Arctic or Polar Climate",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Polar climate world distribution",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "ICE-CAP -> Greenland and high-latitude highlands, permanent snow cover",
+            "TUNDRA -> coastal Greenland, N. Canada, Alaska, Eurasian Arctic seaboard",
+            "SOUTHERN POLE -> Antarctica: continent under ice, no indigenous population",
+            "NORTHERN POLE -> Arctic: ocean basin surrounded by continental land masses",
+            "MUST REMEMBER: Polar climates separate tundra ET, where the warmest month is above 0°C but",
+            "  below 10°C, from ice-cap EF below 0°C year-round; low sun angle, high albedo, polar",
+            "  night/day, permafrost and short food webs structure Arctic and Antarctic systems."
+          ],
+          "source_references": [
+            "Polar climate location and subdivisions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Temperature-precipitation profile",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WARMEST MONTH -> seldom exceeds about 10 degrees C (June/July)",
+            "MONTHS ABOVE FREEZING -> no more than about four per year",
+            "PRECIPITATION -> low, mostly snow; polar climate = cold desert",
+            "BLIZZARDS -> wind redistributing existing snow, not heavy snowfall events"
+          ],
+          "source_references": [
+            "Temperature and precipitation character",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Tundra vegetation belt",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PERMAFROST -> prevents deep rooting, impedes drainage",
+            "SHORT GROWING SEASON -> warmest month below 10 degrees C",
+            "STUNTED PLANTS -> dwarf willows, birches, alders in sheltered spots",
+            "LICHEN GROUND COVER -> reindeer moss provides grazing for reindeer herds"
+          ],
+          "source_references": [
+            "Tundra vegetation and ecology",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Arctic-Antarctic asymmetry",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ARCTIC -> ocean surrounded by continents; mainly floating sea ice",
+            "ANTARCTIC -> continent surrounded by ocean; vast grounded ice sheet",
+            "WARMING -> Arctic amplification much faster; Antarctic more complex",
+            "GOVERNANCE -> Arctic: sovereign states + forum | Antarctic: treaty regime"
+          ],
+          "source_references": [
+            "Arctic-Antarctic asymmetry",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Ice-albedo feedback loop",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SEA ICE AND SNOW RETREAT -> bright surface replaced by dark ocean/ground",
+            "ALBEDO DROPS -> far more solar radiation absorbed instead of reflected",
+            "SURFACE WARMING -> further ice and snow retreat (self-reinforcing)",
+            "REINFORCING FACTORS -> thin polar atmosphere, ocean heat escape, poleward transport"
+          ],
+          "source_references": [
+            "Ice-albedo feedback mechanism",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Permafrost carbon feedback",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "WARMING -> thaws frozen ground containing ancient organic matter",
+            "DRY CONDITIONS -> decomposition releases carbon dioxide",
+            "WATERLOGGED CONDITIONS -> decomposition releases methane (stronger GHG)",
+            "FEEDBACK -> released GHGs cause further warming, further thaw"
+          ],
+          "source_references": [
+            "Permafrost carbon feedback",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Sea-level grounded-ice rule",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "FLOATING SEA ICE MELTS -> sea level does NOT rise (already displacing water)",
+            "GROUNDED ICE MELTS -> mass transferred to ocean, sea level RISES",
+            "ICE SHELVES LOST -> removes buttressing, accelerates grounded-ice discharge",
+            "EXAM RULE -> always distinguish floating from grounded in any polar answer"
+          ],
+          "source_references": [
+            "Sea-level grounded-ice rule",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Arctic shipping constraints",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ADVANTAGE -> routes shorter than Suez/Panama between NE Asia and NW Europe",
+            "MOBILE ICE -> unpredictable, hazardous despite retreat trend",
+            "RESCUE AND CHARTING -> thin capacity, incomplete surveys",
+            "NEAR-TERM TRAFFIC -> resource export and destination, not transit container"
+          ],
+          "source_references": [
+            "Arctic shipping and practical constraints",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India cold desert Ladakh",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "RAIN-SHADOW -> Greater Himalaya blocks SW monsoon, Trans-Himalaya stays arid",
+            "HIGH ALTITUDE -> intense insolation by day, sharp radiative cooling by night",
+            "WINTER PRECIPITATION -> light snow from western disturbances",
+            "BIOME CLASS -> cold desert, same as Sierra Nevada (USA) and Andes (Argentina)"
+          ],
+          "source_references": [
+            "India cold desert Ladakh",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India polar stations",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "DAKSHIN GANGOTRI (1983) -> first station, now decommissioned/buried in ice",
+            "MAITRI (1989) -> Schirmacher Oasis, Antarctica; operational",
+            "BHARATI (2012) -> Larsemann Hills, Antarctica; operational",
+            "HIMADRI (2008) -> Ny-Alesund, Svalbard; Arctic; HIMANSH -> Spiti, HP",
+            "CLOSE DISTINCTION: Arctic is mainly an ocean surrounded by continents while Antarctica is a",
+            "  high continent surrounded by ocean; sea ice differs from land ice, tundra from ice cap, and",
+            "  polar desert refers to low precipitation rather than absence of frozen water."
+          ],
+          "source_references": [
+            "India polar research programme",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India polar legal framework",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ANTARCTIC TREATY 1959 -> India acceded 1983; consultative party",
+            "INDIAN ANTARCTIC ACT 2022 -> domestic legislation for polar activities",
+            "ARCTIC POLICY 2022 -> six pillars; observer in Arctic forum",
+            "RESEARCH FOCUS -> teleconnections: Arctic ice loss to Indian monsoon disruption",
+            "EVIDENCE LIMIT: Amplification, sea-ice loss, ice-sheet mass balance and governance claims",
+            "  require hemisphere, variable, baseline and date; Ladakh/cold deserts are useful process",
+            "  comparisons but not polar climates."
+          ],
+          "source_references": [
+            "India polar legal framework",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Polar climate answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> cold desert north of Arctic Circle; ice-cap vs tundra subdivisions",
+            "DISTINGUISH -> Arctic ocean vs Antarctic continent; floating vs grounded ice",
+            "EXPLAIN -> ice-albedo feedback, permafrost carbon, four transmission channels",
+            "QUALIFY -> India's Ladakh analogue, polar research, 2021 PYQ four-channel spine"
+          ],
+          "source_references": [
+            "2021 PYQ demand and answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-10",
+      "display_title": "First World War and Aftermath",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Why quick war failed",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MARNE, SEPT 1914 -> German advance halted",
+            "DEFENSIVE FIREPOWER -> movement cannot exploit success",
+            "TRENCHES -> western front hardens",
+            "RESULT -> strategy shifts from manoeuvre to endurance",
+            "MUST REMEMBER: Mobilisation and stalemate in 1914, total-war economies, multiple European and",
+            "  imperial fronts, US entry and Russian exit in 1917, and the November 1918 armistice must",
+            "  remain chronologically distinct.",
+            "MUST REMEMBER: Mobilisation and stalemate in 1914, total-war economies, multiple European and",
+            "  imperial fronts, US entry and Russian exit in 1917, and the November 1918 armistice must",
+            "  remain chronologically distinct.",
+            "MUST REMEMBER: Mobilisation and stalemate in 1914, total-war economies, multiple European and",
+            "  imperial fronts, US entry and Russian exit in 1917, and the November 1918 armistice must",
+            "  remain chronologically distinct."
+          ],
+          "source_references": [
+            "Marne and the failure of quick victory",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Attrition battlefield",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "VERDUN 1916 -> prolonged exhaustion",
+            "SOMME 1916 -> huge cost and limited ground",
+            "DEFENCE -> machine-guns and artillery dominate",
+            "STRATEGIC TEST -> manpower, industry and morale"
+          ],
+          "source_references": [
+            "Verdun, Somme and attrition",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sea-war mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "BRITISH FLEET -> blockade Central Powers",
+            "JUTLAND -> no decisive tactical resolution",
+            "GERMAN U-BOATS -> unrestricted campaign",
+            "CONVOYS -> shipping losses reduced; British control survives"
+          ],
+          "source_references": [
+            "Sea power, blockade and Jutland",
+            "The submarine gamble and American entry",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "1917 strategic exchange",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "RUSSIA -> revolution and exit reduce Germany's eastern burden",
+            "USA -> entry adds finance, food, shipping, morale and troops",
+            "GERMAN GAMBLE -> submarine warfare helps trigger US entry",
+            "NET EFFECT -> American resources offset Russian withdrawal"
+          ],
+          "source_references": [
+            "The submarine gamble and American entry",
+            "Russia's exit and the 1918 opportunity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "How the Central Powers lost",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "TWO FRONTS -> Germany's structural burden",
+            "BLOCKADE -> supplies and civilian endurance weaken",
+            "1918 OFFENSIVE -> Ludendorff fails",
+            "ALLIES COLLAPSE -> Bulgaria, Habsburg and Ottoman systems fall"
+          ],
+          "source_references": [
+            "Ludendorff fails and Allied unity improves",
+            "Coalition collapse and armistice",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Total-war society",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STATE -> controls industry, transport and food",
+            "WOMEN -> enter expanded wartime production roles",
+            "CIVILIANS -> blockade and propaganda make home front strategic",
+            "EMPIRE -> colonial manpower and territory globalise the war"
+          ],
+          "source_references": [
+            "Total war and society",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Political earthquake",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RUSSIA -> Bolshevik rule",
+            "GERMANY -> revolution and Weimar Republic",
+            "HABSBURG/OTTOMAN -> empires collapse into new arrangements",
+            "GLOBAL POWER -> USA and Japan gain as Europe weakens"
+          ],
+          "source_references": [
+            "Revolutions, empires and global power",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Five-treaty matching",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "VERSAILLES -> Germany; ST GERMAIN -> Austria",
+            "TRIANON -> Hungary; NEUILLY -> Bulgaria",
+            "SEVRES -> Ottoman Turkey, rejected",
+            "LAUSANNE 1923 -> revised Turkish settlement"
+          ],
+          "source_references": [
+            "The settlement as five treaty routes",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Versailles containment",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TERRITORY -> Alsace-Lorraine, Poland, Danzig, Saar",
+            "MILITARY -> 100,000 army; no conscription or key weapons",
+            "RHINELAND -> demilitarised",
+            "AUSTRIA -> union with Germany forbidden"
+          ],
+          "source_references": [
+            "Versailles territory and military limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Article 231 and reparations",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ARTICLE 231 -> legal liability for Allied loss and damage",
+            "POLITICS -> read in Germany as war-guilt clause",
+            "1921 -> reparations fixed at £6600 million",
+            "EFFECT -> revisionist grievance plus enforcement problem",
+            "CLOSE DISTINCTION: Military victory, armistice, Paris peace treaties, Versailles provisions",
+            "  and the League settlement were separate stages; treaty grievance neither explains the whole",
+            "  war nor makes a second war automatic.",
+            "CLOSE DISTINCTION: Military victory, armistice, Paris peace treaties, Versailles provisions",
+            "  and the League settlement were separate stages; treaty grievance neither explains the whole",
+            "  war nor makes a second war automatic.",
+            "CLOSE DISTINCTION: Military victory, armistice, Paris peace treaties, Versailles provisions",
+            "  and the League settlement were separate stages; treaty grievance neither explains the whole",
+            "  war nor makes a second war automatic."
+          ],
+          "source_references": [
+            "Article 231, reparations and Turkey",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mandates: change and continuity",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "OLD LANGUAGE -> conquest and annexation",
+            "NEW LANGUAGE -> League trusteeship and preparation for independence",
+            "PRACTICE -> Britain and France retain imperial control",
+            "VERDICT -> empire survives under conditional justification",
+            "EVIDENCE LIMIT: Mass death, revolution, empire collapse, mandates, minority problems and",
+            "  colonial mobilisation remade the world beyond Europe, so aftermath cannot be reduced to",
+            "  German punishment alone.",
+            "EVIDENCE LIMIT: Mass death, revolution, empire collapse, mandates, minority problems and",
+            "  colonial mobilisation remade the world beyond Europe, so aftermath cannot be reduced to",
+            "  German punishment alone.",
+            "EVIDENCE LIMIT: Mass death, revolution, empire collapse, mandates, minority problems and",
+            "  colonial mobilisation remade the world beyond Europe, so aftermath cannot be reduced to",
+            "  German punishment alone."
+          ],
+          "source_references": [
+            "League and mandate ambiguity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "War-and-peace answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "COURSE -> failed quick war, attrition, blockade and coalition collapse",
+            "TOTAL WAR -> state, society, women, civilians and empire",
+            "SETTLEMENT -> treaty cluster, League, mandates and minorities",
+            "VERDICT -> political earthquake followed by unstable peace"
+          ],
+          "source_references": [
+            "Why the peace remained unstable",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g2\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g3\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-10\\g4\\world-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

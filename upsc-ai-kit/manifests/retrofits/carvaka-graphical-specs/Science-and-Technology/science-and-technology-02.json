@@ -1,0 +1,1110 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-02",
+  "subject": "Science-and-Technology",
+  "title": "SATELLITES, NAVIC, GAGAN AND APPLICATIONS",
+  "short_route": "SATELLITE SERVICE TAXONOMY → ORBIT-SERVICE MATRIX → END-TO-END SEGMENT CHAIN → OBSERVATION-TO-DECISION RAIL → COMMUNICATION RELAY LOOP → NAVIC SYSTEM MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-02_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-02-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "d6ef9330485e9c027dc5f69cbd1adf840358b620bc771f9f84ecfb8013e9acbf",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SATELLITE SERVICE TAXONOMY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SATELLITE SERVICE TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "EARTH OBSERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SENSED EARTH DATA AND DERIVED PRODUCTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RELAY THROUGH TRANSPONDERS AND GROUND NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "IMAGING, SOUNDING, RELAY AND WARNING SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "POSITION, NAVIGATION AND TIMING SIGNALS",
+          "role": "outcome"
+        },
+        {
+          "text": "PAYLOAD AND SERVICE DEFINE THE CLASS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "EARTH OBSERVATION → sensed Earth data and derived products",
+        "COMMUNICATION → relay through transponders and ground networks",
+        "METEOROLOGY → imaging, sounding, relay and warning support",
+        "NAVIGATION → position, navigation and timing signals",
+        "RULE → payload and service define the class"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "EARTH OBSERVATION → sensed Earth data and derived products",
+            "COMMUNICATION → relay through transponders and ground networks"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "METEOROLOGY → imaging, sounding, relay and warning support",
+            "NAVIGATION → position, navigation and timing signals"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → payload and service define the class",
+            "EARTH OBSERVATION → sensed Earth data and derived products"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → payload and service define the class.",
+      "source_references": [
+        "Satellite-class boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ORBIT-SERVICE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORBIT-SERVICE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUOUS REGIONAL VIEW AND FIXED GROUND GEOMETRY",
+          "role": "outcome"
+        },
+        {
+          "text": "DAILY-PERIOD GEOMETRY WITH CHANGING SKY POSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "POLAR LEO",
+          "role": "evidence"
+        },
+        {
+          "text": "REPEATED HIGH-INCLINATION EARTH COVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "SUN-SYNCHRONOUS LEO",
+          "role": "outcome"
+        },
+        {
+          "text": "NEAR-CONSTANT LOCAL-SOLAR-TIME IMAGING",
+          "role": "comparison"
+        },
+        {
+          "text": "ORBIT ENABLES SERVICE BUT DOES NOT NAME THE PAYLOAD",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GEO → continuous regional view and fixed ground geometry",
+        "IGSO / GSO → daily-period geometry with changing sky position",
+        "POLAR LEO → repeated high-inclination Earth coverage",
+        "SUN-SYNCHRONOUS LEO → near-constant local-solar-time imaging",
+        "RULE → orbit enables service but does not name the payload"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "GEO → continuous regional view and fixed ground geometry",
+          "POLAR LEO → repeated high-inclination Earth coverage",
+          "RULE → orbit enables service but does not name the payload"
+        ],
+        [
+          "IGSO / GSO → daily-period geometry with changing sky position",
+          "SUN-SYNCHRONOUS LEO → near-constant local-solar-time imaging",
+          "GEO → continuous regional view and fixed ground geometry"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "GEO → continuous regional view and fixed ground geometry",
+            "IGSO / GSO → daily-period geometry with changing sky position"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "POLAR LEO → repeated high-inclination Earth coverage",
+            "SUN-SYNCHRONOUS LEO → near-constant local-solar-time imaging"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → orbit enables service but does not name the payload",
+            "GEO → continuous regional view and fixed ground geometry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → orbit enables service but does not name the payload.",
+      "source_references": [
+        "Orbit-service boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "END-TO-END SEGMENT CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "END-TO-END SEGMENT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SPACE SEGMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SATELLITE BUS AND MISSION PAYLOAD",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL SEGMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "TRACKING, COMMAND AND HEALTH MANAGEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESSING SEGMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRECTION, CALIBRATION OR DATA PRODUCTS",
+          "role": "comparison"
+        },
+        {
+          "text": "USER SEGMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SPACE SEGMENT → satellite bus and mission payload",
+        "CONTROL SEGMENT → tracking, command and health management",
+        "PROCESSING SEGMENT → correction, calibration or data products",
+        "USER SEGMENT → receiver, department or operational workflow",
+        "OUTCOME → useful service only after all segments function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SPACE SEGMENT → satellite bus and mission payload",
+            "CONTROL SEGMENT → tracking, command and health management"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESSING SEGMENT → correction, calibration or data products",
+            "USER SEGMENT → receiver, department or operational workflow"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OUTCOME → useful service only after all segments function",
+            "SPACE SEGMENT → satellite bus and mission payload"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → useful service only after all segments function.",
+      "source_references": [
+        "Segment boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "OBSERVATION-TO-DECISION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OBSERVATION-TO-DECISION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "RECORDS REFLECTED OR EMITTED ENERGY",
+          "role": "outcome"
+        },
+        {
+          "text": "SENDS MEASUREMENTS TO A GROUND STATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CALIBRATION, CORRECTION AND PRODUCT GENERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "USER AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "INTERPRETS THE PRODUCT",
+          "role": "outcome"
+        },
+        {
+          "text": "MAPPING, CROP, WATER, WARNING OR RESPONSE ACTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SENSOR → records reflected or emitted energy",
+        "DOWNLINK → sends measurements to a ground station",
+        "PROCESSING → calibration, correction and product generation",
+        "USER AGENCY → interprets the product",
+        "DECISION → mapping, crop, water, warning or response action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SENSOR → records reflected or emitted energy",
+            "DOWNLINK → sends measurements to a ground station"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESSING → calibration, correction and product generation",
+            "USER AGENCY → interprets the product"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "DECISION → mapping, crop, water, warning or response action",
+            "SENSOR → records reflected or emitted energy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECISION → mapping, crop, water, warning or response action.",
+      "source_references": [
+        "Remote-sensing chain",
+        "Meteorology chain"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COMMUNICATION RELAY LOOP",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMMUNICATION RELAY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "TERRESTRIAL STATION SENDS A SIGNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RECEIVES, SHIFTS, AMPLIFIES AND RETRANSMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "SIGNAL REACHES A SERVICE FOOTPRINT",
+          "role": "evidence"
+        },
+        {
+          "text": "GROUND NETWORK",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTES CONTENT TO FINAL USERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SATELLITE CAPACITY IS NOT THE SAME AS DELIVERED ACCESS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "UPLINK → terrestrial station sends a signal",
+        "TRANSPONDER → receives, shifts, amplifies and retransmits",
+        "DOWNLINK → signal reaches a service footprint",
+        "GROUND NETWORK → routes content to final users",
+        "RULE → satellite capacity is not the same as delivered access"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "UPLINK → terrestrial station sends a signal",
+            "TRANSPONDER → receives, shifts, amplifies and retransmits"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOWNLINK → signal reaches a service footprint",
+            "GROUND NETWORK → routes content to final users"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → satellite capacity is not the same as delivered access",
+            "UPLINK → terrestrial station sends a signal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → satellite capacity is not the same as delivered access.",
+      "source_references": [
+        "Communication chain"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NAVIC SYSTEM MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NAVIC SYSTEM MAP",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL CONSTELLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT INDIAN PNT SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "GEO PLUS IGSO DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "NOMINAL REGIONAL GEOMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROL SEGMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ORBIT AND CLOCK MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "USER RECEIVER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REGIONAL CONSTELLATION → independent Indian PNT source",
+        "GEO PLUS IGSO DESIGN → nominal regional geometry",
+        "CONTROL SEGMENT → orbit and clock monitoring",
+        "USER RECEIVER → measures signal travel time",
+        "RULE → nominal design is not dated functional health"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "REGIONAL CONSTELLATION → independent Indian PNT source",
+            "GEO PLUS IGSO DESIGN → nominal regional geometry"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CONTROL SEGMENT → orbit and clock monitoring",
+            "USER RECEIVER → measures signal travel time"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → nominal design is not dated functional health",
+            "REGIONAL CONSTELLATION → independent Indian PNT source"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → nominal design is not dated functional health.",
+      "source_references": [
+        "NavIC-system boundary",
+        "NavIC-geometry boundary",
+        "PNT-mechanism boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NAVIC SERVICE AND SIGNAL STACK",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NAVIC SERVICE AND SIGNAL STACK",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN POSITIONING SERVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENCRYPTED SERVICE FOR AUTHORISED USERS",
+          "role": "comparison"
+        },
+        {
+          "text": "ORIGINAL SIGNAL LAYERS IN OWNER",
+          "role": "evidence"
+        },
+        {
+          "text": "MASS-MARKET INTEROPERABILITY DIRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "PAYLOAD SUPPORT DOES NOT PROVE DEVICE ADOPTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SPS → open positioning service",
+        "RS → encrypted service for authorised users",
+        "L5 / S → original signal layers in owner",
+        "L1 → mass-market interoperability direction",
+        "RULE → payload support does not prove device adoption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SPS → open positioning service",
+            "RS → encrypted service for authorised users"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "L5 / S → original signal layers in owner",
+            "L1 → mass-market interoperability direction"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → payload support does not prove device adoption",
+            "SPS → open positioning service"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → payload support does not prove device adoption.",
+      "source_references": [
+        "NavIC-service boundary",
+        "Signal-band boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CONSTELLATION-HEALTH FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSTELLATION-HEALTH FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CUMULATIVE MISSION COUNT",
+          "role": "outcome"
+        },
+        {
+          "text": "INTENDED ORBIT",
+          "role": "comparison"
+        },
+        {
+          "text": "ORBIT-RAISING COMPLETED",
+          "role": "evidence"
+        },
+        {
+          "text": "SPACECRAFT PERFORMING A STATED FUNCTION",
+          "role": "primary"
+        },
+        {
+          "text": "PNT CAPABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "FULL NAVIGATION SERVICE CONTRIBUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MESSAGE BROADCAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAUNCHED → cumulative mission count",
+        "INTENDED ORBIT → orbit-raising completed",
+        "OPERATIONAL → spacecraft performing a stated function",
+        "PNT CAPABLE → full navigation service contribution",
+        "MESSAGE BROADCAST → useful but not equivalent to PNT"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "LAUNCHED → cumulative mission count",
+          "OPERATIONAL → spacecraft performing a stated function",
+          "MESSAGE BROADCAST → useful but not equivalent to PNT"
+        ],
+        [
+          "INTENDED ORBIT → orbit-raising completed",
+          "PNT CAPABLE → full navigation service contribution",
+          "LAUNCHED → cumulative mission count"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "LAUNCHED → cumulative mission count",
+            "INTENDED ORBIT → orbit-raising completed"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OPERATIONAL → spacecraft performing a stated function",
+            "PNT CAPABLE → full navigation service contribution"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MESSAGE BROADCAST → useful but not equivalent to PNT",
+            "LAUNCHED → cumulative mission count"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MESSAGE BROADCAST → useful but not equivalent to PNT.",
+      "source_references": [
+        "Launch-health boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GAGAN CORRECTION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GAGAN CORRECTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "REFERENCE STATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "MEASURE GNSS ERROR",
+          "role": "comparison"
+        },
+        {
+          "text": "MASTER CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPUTES CORRECTION AND INTEGRITY",
+          "role": "primary"
+        },
+        {
+          "text": "UPLINK STATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SEND AUGMENTATION MESSAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "GEO PAYLOAD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REFERENCE STATIONS → measure GNSS error",
+        "MASTER CONTROL → computes correction and integrity",
+        "UPLINK STATIONS → send augmentation message",
+        "GEO PAYLOAD → rebroadcasts over a wide area",
+        "AIRCRAFT RECEIVER → applies correction and checks integrity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "REFERENCE STATIONS → measure GNSS error",
+            "MASTER CONTROL → computes correction and integrity"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UPLINK STATIONS → send augmentation message",
+            "GEO PAYLOAD → rebroadcasts over a wide area"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "AIRCRAFT RECEIVER → applies correction and checks integrity",
+            "REFERENCE STATIONS → measure GNSS error"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AIRCRAFT RECEIVER → applies correction and checks integrity.",
+      "source_references": [
+        "GAGAN-system boundary",
+        "SBAS architecture"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ACCURACY-INTEGRITY GATE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCURACY-INTEGRITY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "ESTIMATED POSITION CLOSE TO TRUE POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "WARNING WHEN INFORMATION MUST NOT BE USED",
+          "role": "caution"
+        },
+        {
+          "text": "TIME TO ALERT",
+          "role": "evidence"
+        },
+        {
+          "text": "WARNING MUST ARRIVE WITHIN A SAFE INTERVAL",
+          "role": "primary"
+        },
+        {
+          "text": "AVIATION USE",
+          "role": "outcome"
+        },
+        {
+          "text": "CERTIFICATION GOVERNS OPERATIONAL ACCEPTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "A PRECISE SIGNAL WITHOUT INTEGRITY IS UNSAFE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ACCURACY → estimated position close to true position",
+        "INTEGRITY → warning when information must not be used",
+        "TIME TO ALERT → warning must arrive within a safe interval",
+        "AVIATION USE → certification governs operational acceptance",
+        "RULE → a precise signal without integrity is unsafe"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "ACCURACY → estimated position close to true position",
+          "TIME TO ALERT → warning must arrive within a safe interval",
+          "RULE → a precise signal without integrity is unsafe"
+        ],
+        [
+          "INTEGRITY → warning when information must not be used",
+          "AVIATION USE → certification governs operational acceptance",
+          "ACCURACY → estimated position close to true position"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "ACCURACY → estimated position close to true position",
+            "INTEGRITY → warning when information must not be used"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TIME TO ALERT → warning must arrive within a safe interval",
+            "AVIATION USE → certification governs operational acceptance"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a precise signal without integrity is unsafe",
+            "ACCURACY → estimated position close to true position"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a precise signal without integrity is unsafe.",
+      "source_references": [
+        "Integrity-accuracy boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SBAS-GBAS INSTITUTION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SBAS-GBAS INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "WIDE-AREA CORRECTIONS REBROADCAST FROM SATELLITES",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL AIRPORT CORRECTIONS BROADCAST FROM THE GROUND",
+          "role": "comparison"
+        },
+        {
+          "text": "ISRO + AAI",
+          "role": "evidence"
+        },
+        {
+          "text": "GAGAN DEVELOPMENT PARTNERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "AVIATION OPERATIONAL ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "AVIATION CERTIFICATION ROLE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SBAS → wide-area corrections rebroadcast from satellites",
+        "GBAS → local airport corrections broadcast from the ground",
+        "ISRO + AAI → GAGAN development partnership",
+        "AAI → aviation operational role",
+        "DGCA → aviation certification role"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "SBAS → wide-area corrections rebroadcast from satellites",
+          "ISRO + AAI → GAGAN development partnership",
+          "DGCA → aviation certification role"
+        ],
+        [
+          "GBAS → local airport corrections broadcast from the ground",
+          "AAI → aviation operational role",
+          "SBAS → wide-area corrections rebroadcast from satellites"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "SBAS → wide-area corrections rebroadcast from satellites",
+            "GBAS → local airport corrections broadcast from the ground"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ISRO + AAI → GAGAN development partnership",
+            "AAI → aviation operational role"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DGCA → aviation certification role",
+            "SBAS → wide-area corrections rebroadcast from satellites"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GBAS → local airport corrections broadcast from the ground.",
+      "source_references": [
+        "SBAS-GBAS boundary",
+        "Institution-role boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PUBLIC-VALUE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PUBLIC-VALUE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "OBSERVATION COMMUNICATION METEOROLOGY PNT OR AUGMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPACE GROUND PROCESSING AND USER SEGMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "NAVIC CONSTELLATION FROM GAGAN SBAS",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARDS ADOPTION INTEGRITY PRIVACY JAMMING AND SPOOFING",
+          "role": "primary"
+        },
+        {
+          "text": "DATED HEALTH FREQUENCY COVERAGE ACCURACY AND CERTIFICATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → observation communication meteorology PNT or augmentation",
+        "TRACE → space ground processing and user segments",
+        "DISTINGUISH → NavIC constellation from GAGAN SBAS",
+        "TEST → standards adoption integrity privacy jamming and spoofing",
+        "VERIFY → dated health frequency coverage accuracy and certification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → observation communication meteorology PNT or augmentation",
+            "TRACE → space ground processing and user segments"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DISTINGUISH → NavIC constellation from GAGAN SBAS",
+            "TEST → standards adoption integrity privacy jamming and spoofing"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → dated health frequency coverage accuracy and certification",
+            "CLASSIFY → observation communication meteorology PNT or augmentation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → dated health frequency coverage accuracy and certification.",
+      "source_references": [
+        "Application-outcome boundary",
+        "Privacy-resilience boundary",
+        "Volatile constellation boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPS AND OPERATES SATELLITE PLATFORMS, THE NAVIC SPACE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ISRO BUILDS AND OPERATES THE NAVIGATION CONSTELLATION — IT",
+          "role": "comparison"
+        },
+        {
+          "text": "AAI + ISRO",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT DEVELOPERS OF GAGAN.",
+          "role": "primary"
+        },
+        {
+          "text": "AAI IS THE OPERATIONAL OWNER ON THE AVIATION SIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "USER MINISTRIES/AGENCIES SUCH AS IMD AND OTHER MOES BODIES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERT METEOROLOGICAL SATELLITE INPUTS INTO ACTIONABLE FORECASTS AND WARNINGS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "ISRO: develops and operates satellite platforms, the NavIC space and control segment and major application systems.",
+            "(Precisely: ISRO builds and operates the navigation constellation — it is not the sole \"owner\" of every downstream service built on it.)",
+            "AAI + ISRO: joint developers of GAGAN.",
+            "AAI is the operational owner on the aviation side, DGCA is the certifying regulator (RNP 0.1 in 2013,"
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "User ministries/agencies such as IMD and other MoES bodies: convert meteorological satellite inputs into actionable forecasts and warnings.",
+            "NRSC/Bhuvan ecosystem: exemplifies how data becomes policy utility.",
+            "CAUTION: Navigation systems sit at the overlap of civilian convenience, critical infrastructure and strategic autonomy",
+            "this makes standards, signal policy and device ecosystem choices important policy questions."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: GAGAN’s aviation utility shows that “space” is also an air-navigation governance issue, not only a scientific one.",
+            "CAUTION: Broader NavIC adoption depends on procurement standards, handset/chipset support, automotive integration and inter-operability politics.",
+            "CAUTION: An advanced answer can note that data accessibility, security restrictions and",
+            "commercial receiver availability often determine actual impact more than satellite launch success."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

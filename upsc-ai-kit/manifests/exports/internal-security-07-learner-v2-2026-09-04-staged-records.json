@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "internal-security-07-learner-v2-2026-09-04",
+  "selection": "internal-security-07",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "internal-security-07:learner-v2:g1",
+      "topic_key": "internal-security-07",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Internal Security — Subject-wide Syllabus — Maritime and Coastal Security",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\internal-security-07_Complete-Learning-Session_2026-09-04.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\internal-security-07_Solved-Practice-Workbook_2026-09-04.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\internal-security-07_Solved-Practice-Workbook_2026-09-04.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\assets",
+      "generated_on": "2026-09-04",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Learning-Session.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Internal-Security\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\README.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\REVISION-CHART_Threats-Responses-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\ANSWER-WORTHINESS-AUDIT.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\REVISION-CHART_Threats-Responses-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\03 UPSC 2024 Paper-III.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 3 3.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+        ],
+        "live_sources": [
+          "https://www.indiacode.nic.in/ — attempted 2026-09-04 for the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976; Coast Guard Act, 1978; SUA Act, 2002; and Anti-Maritime Piracy Act, 2022. Direct retrieval returned 403, so only owner-audited statutory distinctions are used.",
+          "https://www.mha.gov.in/en/divisionofmha/border-management-ii-division — attempted 2026-09-04 for the Coastal Security Scheme and marine-police capacity framework; direct retrieval returned 403. No current asset, station, vessel, training or coverage count is imported.",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=1996947 — searched and attempted 2026-09-04; the official PIB search result identifies a National Academy of Coastal Policing foundation course, while direct retrieval returned 403. The module uses it only as evidence that specialised coastal-police training exists, not as proof of readiness.",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=1952972 — searched and attempted 2026-09-04 for official coastal-security and maritime-domain-awareness material; direct retrieval returned 403. No unverified partner, liaison-officer, exercise or operational-result count is used."
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-04",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\03 UPSC 2024 Paper-III.pdf": "51f91299aef6c27c213b53762bc1390e3b0e3c3991090f805d61248a4e9e0cf7",
+          "books\\mains\\UPSC Mains 2025 GS Paper 3 3.pdf": "80f4ed13eb1545ec2502489178c2cb9ee4750d8925ec5783e747a2e5f8ec0d5a",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf": "6518b34b0850117bf0ad2d1c3bfeba997dd2967b66824e7e49585df8aa409d68",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf": "c5235bb71d1919b1de5d5c810a51b01f21e49340a586b432f024beff4b931253",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf": "a4bd4ef58e6c16af04463eb67312f0d19cfdc6b44d14d74d2727dde8333b691b",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf": "ec68c17680e62ba6b523fafdd46b8bc3a082c925b568b47a9aa2c4d6e484a7c2",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\00_Master-Framework.md": "3ac91ef366668e6c8aeb79f26182ed2ce80779c86885601c588ae756f0425e94",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md": "0a4b7ff9865977020afa57dfacf94820d35ba7673cf49721a9050c5584b707e8",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\ANSWER-WORTHINESS-AUDIT.md": "47dcb609b0a48118e4c289007d518a20a5840b44451d44dcff0707a8756b76e4",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md": "208a823f3f0d994db9284e311c48269f4e9bd239c600009c1c76aba62894aec1",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\LEARNING-SESSION-COMMAND-INDEX.md": "4f63b9c49cfd80a234389b07b0ab2c79794d4bb5b16298c2701e9036d2c2cf3c",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Learning-Session.md": "d4699089cff70bb273efda4837cabc0e85646b77055f8698a9f0d85498be44f7",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Solved-Workbook.md": "9c04b35b27d5ced7409ef420acc3026d463b641e73777bf68ce2d71af1499195",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "9b465579f37cb881dd20f18d15c48e4a3222b07038685a7e903d3356de5f2202",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\README.md": "ad212e2bdc2a716c71bd26df5dcfb0b396399b7fe0330dcf91fdc04c8d18f053",
+          "upsc-ai-kit\\knowledge\\Internal-Security\\REVISION-CHART_Threats-Responses-and-Distinctive-Features.md": "c99668c3305816b79a78df9965ca3929a782685a4d4b6cd294fc2eedeeab320b",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-07-2026-09-04-sequential.json": "687641fd041adb5eb6f2d3b084c8f137de8d6fa7db37dd0bd83c2c108369e009",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Internal-Security\\internal-security-07.json": "02e0123d26ec7d7a7689dd4e81d9a56177dffcb28454a8ce25de22c1a6770b74",
+          "upsc-ai-kit\\manifests\\v2\\internal-security--subject-wide-syllabus.json": "c07327e5208aadb3c0b4f79d9949caa7b85909d8663a6ea89a741e8ea8816b5f",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with A/B/C/D at 20 each; verified routed PYQ concepts; six solved original Mains answers weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "Live official attempts on 2026-09-04 confirmed no new operational readiness or outcome statistic. The module therefore uses stable owner-audited mandates and statutes, records the official coastal-police training search only as an institutional input, and requires dated Navy, Coast Guard, MHA, ports or police evidence for current performance claims.",
+        "pyq_status_note": "The audited ledgers route the 2022 maritime-security initiatives demand and the 2025 sea-trade, maritime/coastal challenge and way-forward demand here. OCR inspection confirmed both printed Mains stems. A 2022 UNCLOS Prelims concept is included only as a clearly labelled cross-owned zone-law card.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "2459eb16868f062690f892651969253fc6121f680afc3f02fa5514b6555b20ac"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "internal-security-07:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-04",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\internal-security-07_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "958de05a48c4cecbddbe2d9d70ed1fe863fc906f6307ae840c2a462298dac882",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-07\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-07-2026-09-04-sequential.json",
+        "ascii_master_spec_sha256": "687641fd041adb5eb6f2d3b084c8f137de8d6fa7db37dd0bd83c2c108369e009"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

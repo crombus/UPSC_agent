@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "benchmark": "Problem-of-Evil reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-03 immutable generation g14",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "title": "Problem of Evil",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\topic-03_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Forms of evil",
+          "structural_type": "problem taxonomy",
+          "source_session_heading_references": [
+            "A. Argument forms at a glance",
+            "B. Distinctions that earn marks"
+          ],
+          "lines": [
+            "EVIL",
+            " +-> moral: freely caused cruelty, oppression, betrayal",
+            " +-> natural: disease, earthquake, non-agential illness",
+            " +-> horrendous: suffering that threatens life's overall meaning",
+            " +-> animal/evolutionary: pain predating human agency",
+            "                         |",
+            " PROBLEM TYPES",
+            " logical: claims strict inconsistency only with evil-prevention bridges",
+            " evidential: amount/kinds of evil make God improbable",
+            " existential: suffering disrupts trust, worship and meaning."
+          ]
+        },
+        {
+          "panel_title": "2. Logical problem and defence",
+          "structural_type": "inconsistency-to-compatibility tree",
+          "source_session_heading_references": [
+            "A. Argument forms at a glance",
+            "C. Western response bank"
+          ],
+          "lines": [
+            "CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists",
+            " missing premise: a good, powerful being eliminates every evil it can",
+            "                         |",
+            " PLANTINGA FREE-WILL DEFENCE",
+            " significant freedom -> possibility of moral wrong",
+            " God cannot cause a creature to choose freely and guarantee only right choices",
+            " transworld depravity shows logical possibility of unavoidable misuse",
+            " RESULT: compatibility is defended; actual quantity of evil is not thereby explained."
+          ]
+        },
+        {
+          "panel_title": "3. Soul-making and natural order",
+          "structural_type": "developmental theodicy chain",
+          "source_session_heading_references": [
+            "C. Western response bank"
+          ],
+          "lines": [
+            "IRENAEUS / JOHN HICK",
+            " epistemic distance + stable natural laws + risk -> genuine agency",
+            " struggle -> courage, compassion, responsibility -> person-making",
+            "                         |",
+            " strength: addresses why a ready-made paradise may defeat mature freedom",
+            " objections: victims used as means; suffering is excessive and uneven;",
+            " infants, animals and horrors do not reliably improve sufferers",
+            " reply requires afterlife fulfilment/universal restoration, which adds further commitments."
+          ]
+        },
+        {
+          "panel_title": "4. Leibniz, Augustine and process revisions",
+          "structural_type": "response family comparison",
+          "source_session_heading_references": [
+            "C. Western response bank"
+          ],
+          "lines": [
+            "AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good",
+            " LEIBNIZ: best possible world balances laws, freedom and total compossibility",
+            " AQUINAS: God may permit evil for a greater good, never will evil as evil",
+            " PROCESS THEISM: God persuades but cannot unilaterally prevent every event",
+            "                         |",
+            " COSTS: privation does not lessen felt horror; “best” can seem complacent;",
+            " greater-good reasoning risks instrumentalising victims; process view revises omnipotence."
+          ]
+        },
+        {
+          "panel_title": "5. Evidential evil",
+          "structural_type": "probability balance",
+          "source_session_heading_references": [
+            "A. Argument forms at a glance",
+            "E. Hard-case checklist"
+          ],
+          "lines": [
+            "ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it;",
+            " therefore God's existence is improbable",
+            " hidden fawn case tests gratuitous natural suffering without human freedom",
+            "                         |",
+            " SKEPTICAL THEISM: limited human cognition cannot infer “no reason” from “no reason seen”",
+            " CORNEA: absence of evidence is evidence only where detection should be expected",
+            " objection: too much scepticism also weakens providential and moral reasoning",
+            " verdict must weigh epistemic humility against the specificity of apparently gratuitous evil."
+          ]
+        },
+        {
+          "panel_title": "6. Indian response matrix",
+          "structural_type": "comparative karma-liberation map",
+          "source_session_heading_references": [
+            "D. Indian comparison bank"
+          ],
+          "lines": [
+            "ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual",
+            " VIŚIṢṬĀDVAITA: real souls/world, karma, grace and purposeful divine order",
+            " NYĀYA: beginningless karma allocated by Īśvara; God is not arbitrary author of deserts",
+            " JAINA: karmic matter binds jīva; no creator bears responsibility",
+            " BUDDHISM: duḥkha from dependent origination, craving and ignorance; no creator problem",
+            "                         |",
+            " KARMA explains moral continuity but faces beginninglessness, verification,",
+            " victim-blaming and natural-evil pressures;",
+            " liberation routes answer suffering therapeutically, not always as a theodicy."
+          ]
+        },
+        {
+          "panel_title": "7. Hard cases and ethical limits",
+          "structural_type": "case-testing matrix",
+          "source_session_heading_references": [
+            "E. Hard-case checklist",
+            "H. Final judgement ladder"
+          ],
+          "lines": [
+            "TEST ANY THEODICY AGAINST",
+            " suffering of children | animal pain | mass atrocity",
+            "disabling harm | unequal exposure | hidden suffering",
+            "                         |",
+            " ASK: does response explain, merely defend logical possibility, or offer pastoral meaning?",
+            " does it preserve victim dignity? does it make preventable evil morally acceptable?",
+            "                         |",
+            " anti-theodicy warning: neat justification can repeat harm",
+            " reply: philosophical explanation need not command passive acceptance;",
+            " moral protest may itself express commitment to goodness."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ and answer synthesis",
+          "structural_type": "three-level answer spine",
+          "source_session_heading_references": [
+            "F. Seven PYQ routes",
+            "G. 10/15/20-mark answer spines"
+          ],
+          "lines": [
+            "DEFINE God-concept + evil type -> separate logical/evidential/existential demand",
+            " -> formal argument -> strongest defence/theodicy -> hard-case objection",
+            " -> Indian comparison on karma/duḥkha -> qualified verdict",
+            "                         |",
+            " 10 marks: one problem + one response + evaluation",
+            " 15 marks: logical/evidential distinction + two responses",
+            " 20 marks: Western and Indian matrix + hard cases + concept revision",
+            " CLOSE: evil may not disprove every God-concept, but it severely tests classical omni-God",
+            " belief and forces costs in freedom, providence, power, afterlife or human understanding."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-03:learner-v2:g14",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "batch_id": "environment-and-ecology-09-12-sequential-batch-2026-09-03",
+  "completed_on": "2026-09-03",
+  "subject": {
+    "key": "Environment-and-Ecology",
+    "display_name": "Environment and Ecology"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "manifest": "upsc-ai-kit\\manifests\\v2\\environment-and-ecology--subject-wide-syllabus.json",
+    "topic_count": 28,
+    "status": "materialized; 12 generated/unapproved/passed; 16 planned"
+  },
+  "execution": "strict-sequential-single-writer",
+  "generation_history_note": "Topic 09 g1 was finalized, then an authoring-session alignment defect was corrected append-only as g2; g1 remains preserved and g2 is the latest validated generation.",
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-09",
+      "display_title": "CITES and Wildlife Trade",
+      "generation": 2,
+      "record_id": "environment-and-ecology-09:learner-v2:g2",
+      "supersedes": "environment-and-ecology-09:learner-v2:g1",
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-09\\g2\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-09\\g2\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-09\\g2\\environment-and-ecology-09_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 70,
+      "workbook_pages": 35,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-09\\carvaka-g2",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-10",
+      "display_title": "CMS Bonn Convention Migratory Species",
+      "generation": 1,
+      "record_id": "environment-and-ecology-10:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-10\\environment-and-ecology-10_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-10\\environment-and-ecology-10_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-10\\environment-and-ecology-10_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 71,
+      "workbook_pages": 35,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-10\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-11",
+      "display_title": "Forest Types and Forest Rights Act",
+      "generation": 1,
+      "record_id": "environment-and-ecology-11:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-11\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-11\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-11\\environment-and-ecology-11_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 79,
+      "workbook_pages": 40,
+      "notes_bookmarks": 117,
+      "workbook_bookmarks": 92,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-11\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-12",
+      "display_title": "Forest Governance CAMPA and Green India Mission",
+      "generation": 1,
+      "record_id": "environment-and-ecology-12:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\12_Forest-Governance-CAMPA-and-Green-India-Mission.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\12_Forest-Governance-CAMPA-and-Green-India-Mission.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-12\\environment-and-ecology-12_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-12\\environment-and-ecology-12_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-12\\environment-and-ecology-12_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 78,
+      "workbook_pages": 39,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-12\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    }
+  ],
+  "aggregate": {
+    "topic_count": 4,
+    "fact_anchors": 80,
+    "sessions": 60,
+    "mcqs": 320,
+    "mcq_distribution": {
+      "A": 80,
+      "B": 80,
+      "C": 80,
+      "D": 80
+    },
+    "original_mains": 24,
+    "original_mains_distribution": {
+      "10_mark": 8,
+      "15_mark": 8,
+      "20_mark": 8
+    },
+    "ascii_panels": 48,
+    "graphical_stages": 52,
+    "notes_pages": 298,
+    "workbook_pages": 149,
+    "learning_pdf_pages": 447,
+    "notes_bookmarks": 465,
+    "workbook_bookmarks": 365,
+    "graphical_poster_pages": 4,
+    "graphical_tiled_pages": 16
+  },
+  "tests": {
+    "passed": 91,
+    "passing_commands": [
+      "python -m unittest tools.test_generate_environment_and_ecology_01_sequential tools.test_generate_environment_and_ecology_02_sequential tools.test_generate_environment_and_ecology_03_sequential tools.test_generate_environment_and_ecology_04_sequential tools.test_generate_environment_and_ecology_05_sequential tools.test_generate_environment_and_ecology_06_sequential tools.test_generate_environment_and_ecology_07_sequential tools.test_generate_environment_and_ecology_08_sequential tools.test_generate_environment_and_ecology_09_sequential tools.test_generate_environment_and_ecology_10_sequential tools.test_generate_environment_and_ecology_11_sequential tools.test_generate_environment_and_ecology_12_sequential tools.test_refresh_all_v2_learning_sessions tools.test_carvaka_flowchart.GraphicalSpecTests.test_flat_repeated_closure_card_contract_is_rejected tools.test_carvaka_flowchart.GraphicalSpecTests.test_required_stage_contract_is_present"
+    ],
+    "additional_targeted_refresh_regression": "40 tests passed after the long-path generation asset fix; included in the final 91-test cumulative command.",
+    "unrelated_existing_failures_not_repaired": [
+      "tools.test_carvaka_flowchart.GraphicalSpecTests.test_all_active_topics_have_explicit_valid_specs: International Relations subject spelling mismatch in pre-existing active specs",
+      "tools.test_carvaka_flowchart.GraphicalArtifactTests.test_pilot_artifacts_pass_same_master_and_rail_validation: pre-existing polity-07 status-line contract failure"
+    ]
+  },
+  "approval": "false for every latest generated topic; explicit topic approval still required",
+  "section_progress": {
+    "approved": 0,
+    "generated_unapproved": 12,
+    "incomplete": 0,
+    "planned": 16
+  },
+  "changed_files_ledger": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-09-12-sequential-batch-2026-09-03-changed-files.txt",
+  "changed_files_count": 196
+}

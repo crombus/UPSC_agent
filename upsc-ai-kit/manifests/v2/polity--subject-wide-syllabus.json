@@ -1,0 +1,1296 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Polity",
+    "display_name": "Polity"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Polity\\README.md"
+    ],
+    "notes": "Complete 55-topic Polity repository syllabus in source order. Each Basic/Core owner is canonical and exam-complete; optional Advanced material follows practice. Topic generation is tracked independently, so one generated topic never marks the whole section complete."
+  },
+  "topics": [
+    {
+      "topic_key": "polity-01",
+      "display_title": "Historical Background",
+      "syllabus_mapping": "Mains GS-II: Indian Constitution - historical underpinnings and evolution; Prelims GS-I: Indian Polity and Governance. Direct topic owner for the constitutional development chain, 1773-1947.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\Historical-Background-Complete-Topic-Package.md",
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\Polity\\Historical-Background-Complete-Topic-Package.md",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-01_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-01\\polity-01_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-01\\polity-01_Solved-Workbook_2026-08-21.pdf",
+      "superseded_v1": "polity-01:legacy-v1:g1"
+    },
+    {
+      "topic_key": "polity-02",
+      "display_title": "Making of the Constitution",
+      "syllabus_mapping": "Mains GS-II: Indian Constitution - historical underpinnings and evolution; Prelims GS-I: Indian Polity and Governance. Direct owner for the Constituent Assembly's demand, composition, process, legitimacy and constitutional transition.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\02_Making-of-the-Constitution_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\02_Making-of-the-Constitution.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf",
+        "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Making-of-the-Constitution.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-02_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-02\\polity-02_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-02\\polity-02_Solved-Workbook_2026-08-21.pdf",
+      "asset_folder": "notes\\Polity\\learning-session-v2\\polity-02\\assets",
+      "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+      "flowchart_previews": [
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+        "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p08.png"
+      ],
+      "generation_identity": "polity-02:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-02:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-section-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [],
+        "current_linkage_note": "No live current-affairs story was inserted. Samvidhan Divas (Constitution Day) is retained only as static context tied to 26 November; no 2026 commemorative claim is made.",
+        "pyq_status_note": "2024 Q61 is verified against the official Set-A key. The 2021 and 2023 model answers are constitutional/static-evidence solutions because local official keys are unavailable. The 2026 Q55 constitutional-text solution D conflicts with repository provisional key B and is explicitly not presented as an official final key."
+      }
+    },
+    {
+      "topic_key": "polity-03",
+      "display_title": "Salient Features",
+      "syllabus_mapping": "Mains GS-II: Indian Constitution — features and separation of powers; Prelims GS-I: Indian Polity and Governance. Architectural owner for the Constitution's salient design features, limitations and operating tensions.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\03_Salient-Features_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\03_Salient-Features.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Salient-Features.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-03_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-03\\polity-03_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-03\\polity-03_Solved-Workbook_2026-08-21.pdf",
+      "asset_folder": "notes\\Polity\\learning-session-v2\\polity-03\\assets",
+      "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+      "flowchart_previews": [
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+        "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p08.png"
+      ],
+      "generation_identity": "polity-03:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-03:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-section-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://egazette.gov.in/WriteReadData/2026/271834.pdf",
+          "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf",
+          "https://api.sci.gov.in/supremecourt/2013/21321/21321_2013_32_1501_28728_Judgement_20-Jul-2021.pdf"
+        ],
+        "current_linkage_note": "Only Gazette commencement, Article 370/J&K status and cooperative-society legal status were retained as dated supporting illustrations. No Governor timeline, implementation election, seat projection or decorative current-affairs claim was inserted."
+      }
+    },
+    {
+      "topic_key": "polity-04",
+      "display_title": "Preamble",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: Indian Constitution, constitutional values and India-US secular comparison. Normative owner for the Preamble's text, legal status, amendability and value architecture.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\04_Preamble_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md",
+        "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-04_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-04\\polity-04_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-04\\polity-04_Solved-Workbook_2026-08-21.pdf",
+      "asset_folder": "notes\\Polity\\learning-session-v2\\polity-04\\assets",
+      "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+      "flowchart_previews": [
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p08.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
+        "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p10.png"
+      ],
+      "generation_identity": "polity-04:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-04:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-section-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://api.sci.gov.in/supremecourt/2020/13773/13773_2020_1_39_57487_Judgement_25-Nov-2024.pdf"
+        ],
+        "current_linkage_note": "Dr Balram Singh (25 November 2024) remains the verified controlling public decision through exact official-domain/citation searches to 21 August 2026; no later official judgment or order altering it was located.",
+        "pyq_status_note": "2020 Prelims Q16 is the direct owner. 2024 GS-II Q15 and 2025 GS-II Q11 are verified from local official papers and retained as shared Preamble applications while their primary routing owners remain Comparative Constitutional Schemes and Supreme Court."
+      }
+    },
+    {
+      "topic_key": "polity-05",
+      "display_title": "Union and Territory",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-I: post-Independence consolidation and reorganisation; Mains GS-II: federal structure. Direct owner for Articles 1-4, territorial composition, integration, reorganisation, cession and current territorial status.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-05_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-05\\polity-05_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-05\\polity-05_Solved-Workbook_2026-08-21.pdf",
+      "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+      "flowchart_previews": [
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+        "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p07.png"
+      ],
+      "generation_identity": "polity-05:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-05:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-section-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/documents/constitution-of-india",
+          "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf",
+          "https://www.mha.gov.in/en/divisionofmha/jammu-kashmir-and-ladakh-affairs",
+          "https://www.mea.gov.in/outoging-visit-detail.htm?26048/Exchange+of+enclaves+between+India+and+Bangladesh",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=2170941",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=2240077"
+        ],
+        "current_linkage_note": "Official sources checked through 21 August 2026 support 28 States and 8 Union Territories, J&K as a UT with Legislature and Ladakh as a UT without Legislature. No later dated official status-changing notification or order was located; Ladakh Statehood and Sixth-Schedule demands remain under official dialogue rather than enacted law.",
+        "pyq_status_note": "2025 Prelims GS-I Q52 and official answer C are verified from the local official Set-A paper and key. 2018 Mains GS-I Q12 and 2022 Mains GS-I Q11 are owner-preserved and corroborated by the central routing ledger; no additional local official-paper file was found for those two Mains questions."
+      }
+    },
+    {
+      "topic_key": "polity-06",
+      "display_title": "Citizenship",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: Constitution, citizenship law, equality, federal asymmetry and current litigation. Direct owner for Articles 5-11, Citizenship Act acquisition/loss, single citizenship, Section 6A, OCI and CAA.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\06_Citizenship.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\06_Digital-Public-Infrastructure-and-Data-Governance.md",
+        "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\16_Citizenship-and-Its-Critiques.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-06_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-06\\polity-06_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-06\\polity-06_Solved-Workbook_2026-08-21.pdf",
+      "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+      "flowchart_previews": [
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p08.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p10.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p11.png",
+        "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p12.png"
+      ],
+      "flowchart_contact_sheet": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_contact-sheet.png",
+      "generation_identity": "polity-06:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-06:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-section-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/document/constitution-of-india-in-english",
+          "https://www.mha.gov.in/en/divisionofmha/foreigners-division/acts-rules-and-regulations-pertaining-foreigners-division",
+          "https://www.mha.gov.in/sites/default/files/2025-01/CitizenshipAct1955_02012025_0.pdf",
+          "https://www.mha.gov.in/sites/default/files/2025-01/TheCitizenshipAmendmentRules2024_02012025.pdf",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=2020671",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=2022130",
+          "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2046432",
+          "https://www.api.sci.gov.in/supremecourt/2009/16113/16113_2009_1_1501_56604_Judgement_17-Oct-2024.pdf",
+          "https://api.sci.gov.in/supremecourt/2025/5887/5887_2025_5_104_59110_Order_06-Feb-2025.pdf",
+          "https://api.sci.gov.in/supremecourt/2019/44931/44931_2019_1_34_68859_Order_19-Feb-2026.pdf",
+          "https://api.sci.gov.in/supremecourt/2019/44931/44931_2019_1_801_69505_Order_20-Mar-2026.pdf",
+          "https://www.mha.gov.in/en/divisionofmha/foreigners-division/overseas-citizen-of-india-cardholder",
+          "https://www.mha.gov.in/sites/default/files/2022-09/Notification_19032021%5B1%5D.pdf",
+          "https://uidai.gov.in/images/Aadhaar_Press_Release_18Feb_2020.pdf",
+          "https://www.mha.gov.in/sites/default/files/2025-09/Immigration_and_Foreigners_Act_2025_16092025.pdf",
+          "https://www.mha.gov.in/sites/default/files/2025-09/ImmigrationandForeignersExemptionOrder2025_16092025.pdf"
+        ],
+        "current_linkage_note": "Official sources checked through 21 August 2026 show the 2019 Act and 2024 Rules operative; no later citizenship amendment/rule altering the scheme was located. The 2025 immigration regime preserves but does not expand CAA citizenship eligibility; its 31 December 2024 exemption date is not the CAA's 31 December 2014 citizenship cut-off. CAA challenges have procedural Supreme Court orders in February/March 2026 but no located final judgment. Section 6A remains valid 4:1 with implementation monitoring, and the 2021 OCI notification remains the latest located Section 7B notification.",
+        "pyq_status_note": "2021 Prelims GS-I Q89 is the direct owner and 2018 Prelims GS-I Q12 is a genuine cross-topic citizenship-proof PYQ. Both question texts were verified from local official papers; direct local official keys were unavailable, so both answers are prominently labelled inferred. No direct Mains citizenship PYQ was located."
+      }
+    },
+    {
+      "topic_key": "polity-07",
+      "display_title": "Fundamental Rights",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: Constitution, Fundamental Rights, equality, liberty, secularism, minority rights, remedies and Emergency controls. Direct owner for Part III Articles 12-35 and related Articles 226, 300A, 358 and 359.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\07_Fundamental-Rights_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\07_Fundamental-Rights.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf",
+        "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-07_Learning-Session.md",
+      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-07\\polity-07_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-07\\polity-07_Solved-Workbook_2026-08-21.pdf",
+      "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+      "flowchart_previews": [
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p08.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
+        "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p10.png"
+      ],
+      "generation_identity": "polity-07:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-07:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-section-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+          "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+          "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf",
+          "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf",
+          "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf",
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/document/constitution-of-india-in-english",
+          "https://api.sci.gov.in/supremecourt/2017/27935/27935_2017_1_1501_50573_Judgement_15-Feb-2024.pdf",
+          "https://api.sci.gov.in/supremecourt/2010/25536/25536_2010_1_1501_54462_Judgement_01-Aug-2024.pdf",
+          "https://api.sci.gov.in/supremecourt/1992/78629/78629_1992_1_1501_57003_Judgement_05-Nov-2024.pdf",
+          "https://api.sci.gov.in/supremecourt/2025/47573/47573_2025_4_26_63701_Order_28-Aug-2025.pdf",
+          "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+          "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
+          "https://www.mha.gov.in/sites/default/files/BhartiyaNyayaSanhita_24022024.pdf",
+          "https://www.indiacode.nic.in/handle/123456789/20099"
+        ],
+        "current_linkage_note": "Official materials checked through 21 August 2026: no later altering official decision was located for Electoral Bonds, Davinder Singh or Property Owners; DPDP Act/Rules use final 13 November 2025 phased notifications and only their first tranche is operative by the control date; BNS/BNSS operate from 1 July 2024; the Supreme Court issued Section 152 vires notice on 28 August 2025 but no final merits disposition was located.",
+        "pyq_status_note": "All 21 owner-routed PYQs are preserved: six Mains; thirteen 2018-2023 Prelims solutions labelled inferred; 2024 Q76 officially keyed D; 2026 Q54 provisionally keyed D and explicitly non-official."
+      }
+    },
+    {
+      "topic_key": "polity-08",
+      "display_title": "Directive Principles",
+      "syllabus_mapping": "Mains GS-II: Constitution, polity and federal/parliamentary governance; Prelims GS-I: Indian Polity and Governance. Direct owner for Directive Principles.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+      "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\08_Directive-Principles_Complete-Topic-Package.md",
+      "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-08-source-pyq-current-audit-2026-08-24.json",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Solved-Practice-Workbook_2026-08-24.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\assets",
+      "generation_identity": "polity-08:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-08:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://nalsa.gov.in/"
+        ],
+        "current_linkage_note": "Official NALSA homepage accessed 24 August 2026 anchors Article 39A institutionally. No six-month controlling change to Part IV or Article 31C was located; no change is inferred.",
+        "pyq_status_note": "Exact routed wording retained. 2025 Q55 uses the verified local official Set-A key; 2020/2021 answers remain explicitly inferred; Mains models are independent because UPSC supplies no model solution."
+      }
+    },
+    {
+      "topic_key": "polity-09",
+      "display_title": "Fundamental Duties",
+      "syllabus_mapping": "Mains GS-II: Constitution, polity and federal/parliamentary governance; Prelims GS-I: Indian Polity and Governance. Direct owner for Fundamental Duties.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+      "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md",
+      "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-09-source-pyq-current-audit-2026-08-24.json",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Solved-Practice-Workbook_2026-08-24.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\assets",
+      "generation_identity": "polity-09:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-09:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://moef.gov.in/"
+        ],
+        "current_linkage_note": "Official MoEF page accessed 24 August 2026 is used only as a current Article 51A(g) administrative anchor. No later Durga Dutt merits ruling is claimed.",
+        "pyq_status_note": "No directly owned routed PYQ was found. Supporting 2020 Q8 and 2025 Q55 retain polity-08 ownership; 2025 key is official locally and 2020 remains inferred."
+      }
+    },
+    {
+      "topic_key": "polity-10",
+      "display_title": "Amendment and Basic Structure",
+      "syllabus_mapping": "Mains GS-II: Constitution, polity and federal/parliamentary governance; Prelims GS-I: Indian Polity and Governance. Direct owner for Amendment and Basic Structure.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+        "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+        "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf",
+        "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+      "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\10_Amendment-and-Basic-Structure_Complete-Topic-Package.md",
+      "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-10-source-pyq-current-audit-2026-08-24.json",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Complete-Learning-Session_2026-08-24.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Complete-Learning-Session_2026-08-24.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Solved-Practice-Workbook_2026-08-24.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\assets",
+      "generation_identity": "polity-10:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-10:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://egazette.gov.in/WriteReadData/2026/271834.pdf"
+        ],
+        "current_linkage_note": "Official Gazette S.O. 1922(E), fetched 24 August 2026, anchors the 106th Amendment commencement-versus-operation distinction; the defeated 131st Bill remains a proposal only.",
+        "pyq_status_note": "Exact wording retained for 2 Mains and 8 Prelims PYQs. Official local keys verified for 2024 Q66 and 2025 Q58; older objective answers remain explicitly inferred."
+      }
+    },
+    {
+      "topic_key": "polity-11",
+      "display_title": "Parliamentary System",
+      "syllabus_mapping": "Mains GS-II: Constitution, polity and federal/parliamentary governance; Prelims GS-I: Indian Polity and Governance. Direct owner for Parliamentary System.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\11_Parliamentary-System.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "books\\more_previous_papers\\GENERAL STUDIES PAPER II.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+      "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\11_Parliamentary-System_Complete-Topic-Package.md",
+      "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-11-source-pyq-current-audit-2026-08-24.json",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Complete-Learning-Session_2026-08-24.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Complete-Learning-Session_2026-08-24.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Solved-Practice-Workbook_2026-08-24.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\assets",
+      "generation_identity": "polity-11:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-11:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://cabsec.gov.in/",
+          "https://sansad.in/ls"
+        ],
+        "current_linkage_note": "Cabinet Secretariat and Digital Sansad were accessed on 24 August 2026. Cabinet coordination is the institutional anchor; the 129th Bill remains a proposal and Article 82A is not current text.",
+        "pyq_status_note": "Exact wording retained for 5 routed PYQs. Historical objective keys remain explicitly inferred; Mains models are independent."
+      }
+    },
+    {
+      "topic_key": "polity-12",
+      "display_title": "Federal System",
+      "syllabus_mapping": "Mains GS-II: Constitution, polity and federal/parliamentary governance; Prelims GS-I: Indian Polity and Governance. Direct owner for Federal System.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\12_Federal-System.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf",
+        "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+      "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\12_Federal-System_Complete-Topic-Package.md",
+      "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-12-source-pyq-current-audit-2026-08-24.json",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Solved-Practice-Workbook_2026-08-24.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\assets",
+      "generation_identity": "polity-12:learner-v2:g2",
+      "approved": false,
+      "superseded_v1": "polity-12:legacy-v1:g1",
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://gstcouncil.gov.in/",
+          "https://interstatecouncil.gov.in/"
+        ],
+        "current_linkage_note": "GST Council and Inter-State Council Secretariat official sites were accessed on 24 August 2026 as shared-rule anchors. Current fiscal, assent, CBI and delimitation controls remain explicitly bounded.",
+        "pyq_status_note": "Exact wording retained for 5 routed PYQs. Objective answers remain explicitly inferred where official keys are unavailable; Mains models are independent."
+      }
+    },
+    {
+      "topic_key": "polity-13",
+      "display_title": "Centre State and Inter State Relations",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 13.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\13_Centre-State-and-Inter-State-Relations.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md"
+    },
+    {
+      "topic_key": "polity-14",
+      "display_title": "Emergency Provisions",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 14.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md"
+    },
+    {
+      "topic_key": "polity-15",
+      "display_title": "President and Vice President",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 15.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\15_President-and-Vice-President.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md"
+    },
+    {
+      "topic_key": "polity-16",
+      "display_title": "PM and Council of Ministers",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 16.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\16_PM-and-Council-of-Ministers.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md"
+    },
+    {
+      "topic_key": "polity-17",
+      "display_title": "Parliament",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 17.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md"
+    },
+    {
+      "topic_key": "polity-18",
+      "display_title": "Supreme Court",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: structure, organisation and functioning of the judiciary, separation of powers and dispute-redress mechanisms. Direct owner for Articles 124-147, Supreme Court personnel, jurisdiction, constitutional powers, judicial review, PIL, independence and accountability.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\18_Supreme-Court_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\18_Supreme-Court.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+        "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+        "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
+      ],
+      "live_sources": [
+        "https://www.sci.gov.in/chief-justice-judges/",
+        "https://www.sci.gov.in/collegium-resolutions/",
+        "https://www.sci.gov.in/indian-judiciary-annual-report/",
+        "https://doj.gov.in/memorandum-of-procedure-of-appointment-of-supreme-court-judges/"
+      ],
+      "current_linkage_note": "Official sitting-judges roster counted 34 judges on 28 August 2026, equal to the 34-judge sanctioned strength under the 2019 Act. Current office-holder, working-strength, collegium and annual-report claims remain explicitly dated.",
+      "pyq_status_note": "Eight routed Mains demands retain year, paper, question number, marks and word-limit guidance. Seven routed Prelims demands retain key-provenance limits; no missing official key is fabricated.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md"
+    },
+    {
+      "topic_key": "polity-19",
+      "display_title": "Governor CM State Council",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: State executive, federal structure, separation of powers and dispute-redress mechanisms. Direct owner for Articles 153-167, related Articles 168-176, 200-201, 213, 356 and 361, Governor discretion, government formation, Chief Minister and State Council.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\19_Governor-CM-State-Council_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\19_Governor-CM-State-Council.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+      ],
+      "live_sources": [
+        "https://api.sci.gov.in/jonew/judis/36321.pdf",
+        "https://api.sci.gov.in/supremecourt/2022/20234/20234_2022_1_1502_44512_Judgement_11-May-2023.pdf",
+        "https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf",
+        "https://interstatecouncil.gov.in/report-of-the-sarkaria-commission/",
+        "https://interstatecouncil.gov.in/report-of-the-commission-on-centre-state-relations/"
+      ],
+      "current_linkage_note": "Assent doctrine and the unresolved Nabam Rebia reference were rechecked through 28 August 2026. B.P. Singhal, Subhash Desai and official commission reports provide appointment, removal, formation and reform controls.",
+      "pyq_status_note": "Five routed Mains and four routed Prelims demands retain metadata and key-provenance limits. Cross-owned federal and emergency questions are explicitly labelled rather than misrepresented as direct Governor PYQs.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md"
+    },
+    {
+      "topic_key": "polity-20",
+      "display_title": "State Legislature",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: State legislatures, structure, functioning, conduct of business, powers and privileges, federal and representative institutions. Direct owner for Articles 168-212, Article 169 optional bicameralism, Assembly/Council comparison, legislative and financial procedure, presiding officers, committees, privileges and scrutiny.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\20_State-Legislature_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+        "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+      ],
+      "live_sources": [
+        "https://prsindia.org/billtrack/the-delimitation-bill-2026",
+        "https://censusindia.gov.in/nada/index.php/catalog/45572/download/49769/GAZ_NOTIFICATION_07.pdf",
+        "https://api.sci.gov.in/supremecourt/2025/2745/2745_2025_1_1501_62743_Judgement_31-Jul-2025.pdf",
+        "https://www.api.sci.gov.in/supremecourt/2014/10177/10177_2014_1_1501_51211_Judgement_04-Mar-2024.pdf",
+        "https://api.sci.gov.in/jonew/judis/36262.pdf",
+        "https://api.sci.gov.in/jonew/judis/33205.pdf",
+        "https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf"
+      ],
+      "current_linkage_note": "Six Legislative Council States, the failed/withdrawn 2026 delimitation package, Census 2027 reference dates, the 106th Amendment activation sequence, current assent law and Padi Kaushik Reddy Speaker-delay control were rechecked through 28 August 2026.",
+      "pyq_status_note": "Two direct Mains PYQs and three routed Prelims demands retain exact available metadata and key-provenance limits; no unverified answer key is invented.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md"
+    },
+    {
+      "topic_key": "polity-21",
+      "display_title": "High Court and Subordinate Courts",
+      "syllabus_mapping": "Prelims GS-I: Indian Polity and Governance; Mains GS-II: structure, organisation and functioning of the judiciary and constitutional bodies. Direct owner for Articles 214-237, High Court composition and independence, Articles 226-229 jurisdiction/administration, subordinate judiciary appointments and control, access institutions and dated court-capacity reforms.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\21_High-Court-and-Subordinate-Courts.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\README.md",
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+        "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+        "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+        "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md",
+      "live_sources": [
+        "https://doj.gov.in/static/uploads/2026/07/b18601168f894d13fdde14296d79e6b3.pdf",
+        "https://api.sci.gov.in/supremecourt/2020/26442/26442_2020_1_41_69168_Order_11-Mar-2026.pdf",
+        "https://api.sci.gov.in/supremecourt/1989/60181/60181_1989_1_1501_61910_Judgement_20-May-2025.pdf",
+        "https://api.sci.gov.in/supremecourt/2024/39092/39092_2024_11_1504_61287_Judgement_29-Apr-2025.pdf",
+        "https://www.sci.gov.in/document/l-chandra-kumar-v-union-of-india-and-ors-1994-supp-6-scr-261/",
+        "https://www.sci.gov.in/collegium-resolutions/",
+        "https://pib.gov.in/Pressreleaseshare.aspx?PRID=1956920",
+        "https://ecourts.gov.in/ecourts_home/"
+      ],
+      "current_linkage_note": "The 1 July 2026 High Court strength statement, Rejanish Article 233 rule, 2025 All India Judges Association recruitment reforms, K. Valarmathi supervisory restraint, eCourts Phase III and collegium status were verified through 28 August 2026.",
+      "pyq_status_note": "Two cross-owned Mains PYQs and two routed Prelims demands retain exact available metadata and provenance limits; no unsupported objective key or official model is invented."
+    },
+    {
+      "topic_key": "polity-22",
+      "display_title": "Special Provisions",
+      "syllabus_mapping": "GS-II federal structure and polity; Part XXI asymmetric State provisions, with Prelims state-article matching and bounded Fifth/Sixth Schedule interfaces.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\22_Special-Provisions.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions.md",
+      "live_sources": [
+        "https://legislative.gov.in/document-category/constitution-of-india",
+        "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf",
+        "https://www.mha.gov.in/en/divisionofmha/jammu-kashmir-and-ladakh-affairs",
+        "https://www.indiacode.nic.in/show-data?actid=AC_CEN_5_5_00058_201406_1517807327989&orderno=97",
+        "https://kkrdb.karnataka.gov.in/en"
+      ],
+      "current_linkage_note": "Article 370/J&K/Ladakh status and operative Articles 371-371J were verified through 28 August 2026; no J&K Statehood or Ladakh Sixth Schedule change was treated as enacted.",
+      "pyq_status_note": "One cross-owned 2025 Mains application and four routed Prelims demands retain exact available metadata and provenance limits."
+    },
+    {
+      "topic_key": "polity-23",
+      "display_title": "Panchayati Raj",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 23.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\23_Panchayati-Raj_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\23_Panchayati-Raj.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Municipalities.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+        "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+        "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md",
+      "live_sources": [
+        "https://legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India",
+        "https://panchayat.gov.in/en/notice/devolution-index-report-2024/",
+        "https://panchayat.gov.in/en/document-category/pesa-rules-framed-by-pesa-states/",
+        "https://fincomindia.nic.in/commission-reports-sixteenth",
+        "https://api.sci.gov.in/jonew/judis/28143.pdf",
+        "https://api.sci.gov.in/supremecourt/2021/5892/5892_2021_33_1501_26888_Order_12-Mar-2021.pdf"
+      ],
+      "current_linkage_note": "Constitution, Devolution Index 2024, Sixteenth Finance Commission 2026-31 framework, PESA-rule directory and controlling local-election judgments verified through 28 August 2026; no changing dashboard total frozen.",
+      "pyq_status_note": "Three direct/cross-owned Mains demands, one supporting 2024 local-body demand and the 2025 intermediate-tier Prelims route retain exact available metadata without invented official model answers."
+    },
+    {
+      "topic_key": "polity-24",
+      "display_title": "Municipalities",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 24.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\24_Municipalities_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\24_Municipalities.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Geography\\28_Human-Settlements-and-Urbanisation_Complete-Topic-Package.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+        "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+        "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+        "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Municipalities.md",
+      "live_sources": [
+        "https://legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India",
+        "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol1-Main-Report.pdf",
+        "https://www.rbi.org.in/scripts/AnnualPublications.aspx?head=Report+on+Municipal+Finances",
+        "https://amrut.mohua.gov.in/uploads/AMRUT_2.0_Operational_Guidelines.pdf",
+        "https://www.sebi.gov.in/statistics/municipalbonds.html",
+        "https://api.sci.gov.in/jonew/judis/28143.pdf"
+      ],
+      "current_linkage_note": "Part IXA, RBI Municipal Finances 2022, Sixteenth Finance Commission 2026-31, AMRUT 2.0 and SEBI municipal-debt controls verified through 28 August 2026; changing dashboard totals are not frozen.",
+      "pyq_status_note": "2023 direct Mains, supporting 2020/2024 Mains and official-keyed 2024 Prelims routes retain exact available metadata."
+    },
+    {
+      "topic_key": "polity-25",
+      "display_title": "Union Territories",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 25.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\25_Union-Territories_Complete-Topic-Package.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\25_Union-Territories.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+        "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+        "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md",
+        "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md"
+    },
+    {
+      "topic_key": "polity-26",
+      "display_title": "Scheduled and Tribal Areas",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 26.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\26_Scheduled-and-Tribal-Areas.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md"
+    },
+    {
+      "topic_key": "polity-27",
+      "display_title": "Election Commission",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 27.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md"
+    },
+    {
+      "topic_key": "polity-28",
+      "display_title": "UPSC and SPSC",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 28.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\UPSC-and-SPSC.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\28_UPSC-and-SPSC.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\UPSC-and-SPSC.md"
+    },
+    {
+      "topic_key": "polity-29",
+      "display_title": "Finance Commission",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 29.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md"
+    },
+    {
+      "topic_key": "polity-30",
+      "display_title": "GST Council",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 30.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md"
+    },
+    {
+      "topic_key": "polity-31",
+      "display_title": "National Commissions SC ST BC",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 31.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\31_National-Commissions-SC-ST-BC.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md"
+    },
+    {
+      "topic_key": "polity-32",
+      "display_title": "CAG",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 32.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\CAG.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\32_CAG.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CAG.md"
+    },
+    {
+      "topic_key": "polity-33",
+      "display_title": "Attorney General and Advocate General",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 33.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md"
+    },
+    {
+      "topic_key": "polity-34",
+      "display_title": "NITI Aayog",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 34.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md"
+    },
+    {
+      "topic_key": "polity-35",
+      "display_title": "NHRC and SHRC",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 35.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md"
+    },
+    {
+      "topic_key": "polity-36",
+      "display_title": "CIC and SIC",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 36.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md"
+    },
+    {
+      "topic_key": "polity-37",
+      "display_title": "CVC and CBI",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 37.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md"
+    },
+    {
+      "topic_key": "polity-38",
+      "display_title": "Lokpal and Lokayuktas",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 38.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md"
+    },
+    {
+      "topic_key": "polity-39",
+      "display_title": "Cooperative Societies",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 39.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md"
+    },
+    {
+      "topic_key": "polity-40",
+      "display_title": "Official Language",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 40.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\40_Official-Language.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md"
+    },
+    {
+      "topic_key": "polity-41",
+      "display_title": "Public Services",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 41.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\41_Public-Services.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md"
+    },
+    {
+      "topic_key": "polity-42",
+      "display_title": "Anti Defection Law",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 42.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md"
+    },
+    {
+      "topic_key": "polity-43",
+      "display_title": "Political Parties",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 43.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md"
+    },
+    {
+      "topic_key": "polity-44",
+      "display_title": "Pressure Groups",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 44.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+      ],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md"
+    },
+    {
+      "topic_key": "polity-45",
+      "display_title": "National Integration and Foreign Policy",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 45.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\45_National-Integration-and-Foreign-Policy.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md"
+    },
+    {
+      "topic_key": "polity-46",
+      "display_title": "Administrative Tribunals",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 46.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md"
+    },
+    {
+      "topic_key": "polity-47",
+      "display_title": "Comparative Constitutional Design",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 47.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md"
+    },
+    {
+      "topic_key": "polity-48",
+      "display_title": "Ministries Departments and Central Secretariat",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 48.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md"
+    },
+    {
+      "topic_key": "polity-49",
+      "display_title": "Regulatory State and Quasi Judicial Institutions",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 49.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md"
+    },
+    {
+      "topic_key": "polity-50",
+      "display_title": "Concept of the Constitution",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 50.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md"
+    },
+    {
+      "topic_key": "polity-51",
+      "display_title": "Rights and Liabilities of the Government",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 51.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md",
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md"
+    },
+    {
+      "topic_key": "polity-52",
+      "display_title": "NCRWC and Working of the Constitution",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 52.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+      "source_advanced": null,
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md"
+    },
+    {
+      "topic_key": "polity-53",
+      "display_title": "Special Provisions Relating to Certain Classes",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 53.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+      "source_advanced": null,
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md"
+    },
+    {
+      "topic_key": "polity-54",
+      "display_title": "Lok Adalats and Other Courts",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 54.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md",
+      "source_advanced": null,
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md"
+    },
+    {
+      "topic_key": "polity-55",
+      "display_title": "Constitutional Interpretation Doctrines",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 55.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+      "source_advanced": null,
+      "cross_topic_sources": [],
+      "verified_pyq_sources": [],
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md"
+    }
+  ]
+}

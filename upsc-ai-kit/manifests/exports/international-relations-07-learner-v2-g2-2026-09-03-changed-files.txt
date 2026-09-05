@@ -1,0 +1,39 @@
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\international-relations-07-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-07\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-07\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-07\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-07\international-relations-07-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-07\international-relations-07-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-07\REVIEW-REPORT.md
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\previews\page-005.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-07\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\international-relations-07_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\international-relations-07_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\validation\workbook-visual-audit-map.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\assets\international-relations-07_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\international-relations-07_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-07\g2\international-relations-07_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\manifests\exports\international-relations-07-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\international-relations-07-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\international-relations-07-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\International Relations\deep-review\international-relations-07-g2.json
+upsc-ai-kit\manifests\v2\international relations--subject-wide-syllabus-content-specs\international-relations-07-g2.json
+upsc-ai-kit\manifests\v2\international-relations--subject-wide-syllabus.json

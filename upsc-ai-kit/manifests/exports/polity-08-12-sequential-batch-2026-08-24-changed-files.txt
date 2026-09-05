@@ -1,0 +1,337 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Philosophy Optional\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\INDEX.md
+notes\Final-Learning-Packages\POLITY-08-12-SEQUENTIAL-BATCH-REPORT.md
+notes\Final-Learning-Packages\Polity\INDEX.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\08-Directive-Principles\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\12-Federal-System\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Geography\learning-session-v2\human-economic-geography-pilot\indexes\NOTES-PDF-INDEX.md
+notes\Geography\learning-session-v2\human-economic-geography-pilot\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Geography\learning-session-v2\human-economic-geography-pilot\indexes\WORKBOOK-PDF-INDEX.md
+notes\Geography\learning-session-v2\part-a-physical-geography\indexes\NOTES-PDF-INDEX.md
+notes\Geography\learning-session-v2\part-a-physical-geography\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Geography\learning-session-v2\part-a-physical-geography\indexes\WORKBOOK-PDF-INDEX.md
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-08\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-12\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\polity-08_Complete-Learning-Session_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\polity-08_Solved-Practice-Workbook_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\polity-09_Complete-Learning-Session_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\polity-09_Solved-Practice-Workbook_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\polity-10_Complete-Learning-Session_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\polity-10_Solved-Practice-Workbook_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\polity-11_Complete-Learning-Session_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\polity-11_Solved-Practice-Workbook_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\polity-12_Complete-Learning-Session_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\polity-12_Solved-Practice-Workbook_2026-08-24.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\STAGED-RECORD.json
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy-pilot\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy-pilot\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-indian-philosophy-pilot\indexes\WORKBOOK-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-ii-philosophy-of-religion\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-ii-philosophy-of-religion\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-ii-philosophy-of-religion\indexes\WORKBOOK-PDF-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\export_four_item_library.py
+tools\generate_v2_topic_command_catalog.py
+tools\notions_style_ascii_master.py
+tools\refresh_all_v2_learning_sessions.py
+tools\refresh_all_v2_overrides.json
+tools\test_carvaka_flowchart.py
+tools\test_export_four_item_library.py
+tools\test_refresh_all_v2_learning_sessions.py
+upsc-ai-kit\knowledge\Ancient-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\CSAT\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Disaster-Management\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Economy\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Environment-and-Ecology\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Essay\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Ethics\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Geography\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Governance\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Indian-Art-and-Culture\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Indian-Society\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Internal-Security\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\International-Relations\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\01_part_iv_architecture.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\02_article_category_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\03_article_37_force_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\04_amendments_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\05_fr_dpsp_case_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\06_article_31c_decision_tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\07_implementation_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\08_nalsa_legal_aid_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\09_lok_adalat_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\10_ucc_argument_tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\11_article_44_reform_routes.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\12_dpsp_to_fr_conversion_cycle.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\13_criticism_defence_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\14_mains_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\assets\polity-08_Teaching-Navigation_2026-08-24.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\polity-08_Complete-Learning-Session_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-08\polity-08_Solved-Practice-Workbook_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\01_constitutional_placement.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\02_origin_amendment_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\03_eleven_duty_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\04_rights_duties_dpsp_triangle.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\05_enforceability_ladder.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\06_duty_statute_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\07_national_symbols_case_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\08_environment_jurisprudence.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\09_education_triad.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\10_verma_operationalisation_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\11_justiciability_argument_tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\12_mains_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\assets\polity-09_Teaching-Navigation_2026-08-24.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\polity-09_Complete-Learning-Session_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\polity-09_Solved-Practice-Workbook_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\01_flexibility_rigidity_spectrum.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\02_constituent_vs_legislative_power.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\03_three_route_decision_tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\04_article_368_procedure.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\05_dual_majority_arithmetic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\06_federal_ratification_list.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\07_doctrine_case_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\08_kesavananda_holding_architecture.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\09_elements_case_attribution_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\10_ninth_schedule_review_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\11_anjum_kadari_boundary.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\12_106th_commencement_vs_operation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\13_doctrine_criticism_defence.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\14_mains_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\assets\polity-10_Teaching-Navigation_2026-08-24.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\polity-10_Complete-Learning-Session_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\polity-10_Solved-Practice-Workbook_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\01_responsible_government_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\02_union_state_article_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\03_nominal_vs_real_executive.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\04_collective_responsibility_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\05_parliamentary_features_wheel.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\06_parliamentary_vs_presidential_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\07_why_india_chose_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\08_india_uk_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\09_cabinet_dominance_mechanism.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\10_accountability_correctives.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\11_onoe_tradeoff.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\12_mains_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\assets\polity-11_Teaching-Navigation_2026-08-24.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\polity-11_Complete-Learning-Session_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\polity-11_Solved-Practice-Workbook_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\01_federal_design_test.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\02_federation_types.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\03_federal_features.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\04_centralising_features.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\05_seventh_schedule.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\06_state_list_entry_routes.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\07_basic_structure_case_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\08_federal_modes.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\09_federal_institutions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\10_asymmetric_federalism.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\11_fiscal_federalism.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\12_live_friction_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\13_mains_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\14_trap_grid.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\assets\polity-12_Teaching-Navigation_2026-08-24.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\polity-12_Complete-Learning-Session_2026-08-24.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-12\polity-12_Solved-Practice-Workbook_2026-08-24.md
+upsc-ai-kit\knowledge\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Modern-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Philosophy\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Political-Theory\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Polity\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-08_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-09_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-10_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-11_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-12_Learning-Session.md
+upsc-ai-kit\knowledge\Qualifying-English\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Qualifying-Hindi\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Science-and-Technology\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Social-Justice\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\World-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-24-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-08-12-sequential-batch-2026-08-24-changed-files.txt
+upsc-ai-kit\manifests\exports\polity-08-12-sequential-batch-2026-08-24-validation.json
+upsc-ai-kit\manifests\exports\polity-08-12-sequential-batch-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-08-new-topic-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-08-source-pyq-current-audit-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-08-staged-records-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-08-validation-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-09-new-topic-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-09-source-pyq-current-audit-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-09-staged-records-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-09-validation-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-10-new-topic-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-10-source-pyq-current-audit-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-10-staged-records-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-10-validation-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-11-new-topic-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-11-source-pyq-current-audit-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-11-staged-records-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-11-validation-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-12-new-topic-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-12-source-pyq-current-audit-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-12-staged-records-2026-08-24.json
+upsc-ai-kit\manifests\exports\polity-12-validation-2026-08-24.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-2026-08-24-sequential-batch.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-08.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-09.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-10.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-11.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-12.json
+upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json
+upsc-ai-kit\manifests\v2\topic-catalog.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

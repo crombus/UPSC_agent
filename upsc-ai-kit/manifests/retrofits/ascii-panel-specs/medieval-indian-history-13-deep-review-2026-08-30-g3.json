@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-13",
+      "display_title": "Struggle for Empire: Afghans, Rajputs & Humayun",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The central problem: conquest without consolidation",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "BABUR'S VICTORIES -> a core, prestige and a dynastic claim",
+            "HUMAYUN'S INHERITANCE -> weak finance + thin administration + rival elites",
+            "COMPETING FIELDS -> Afghans in the east + Gujarat-Malwa + Rajput powers",
+            "IMPERIAL AMBITION -> Delhi, Gujarat and Bengal pursued before deep rooting",
+            "RESULT -> military reach repeatedly outruns revenue, routes and noble commitment",
+            "VERDICT: Humayun's fall joins structural weakness to avoidable choices.",
+            "MUST REMEMBER: Humayun's Gujarat, Afghan and Rajput theatres form one struggle for empire",
+            "  rather than isolated anecdotes."
+          ],
+          "source_references": [
+            "Unfinished conquest",
+            "State capacity",
+            "Competing fields",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Humayun chronology 1530-1556",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "30 Dec 1530 -> accession | 1533-34 -> Din Panah",
+            "1535 -> Mandu, Champaner and Gujarat campaign successes",
+            "1537-38 -> six-month Chunar siege and eastern advance",
+            "1538-39 -> Gaur occupation and communications crisis",
+            "26 Jun 1539 -> Chausa | 17 May 1540 -> Kannauj/Bilgram",
+            "1545 -> Qandahar and Kabul recovered | 1555 Delhi | 1556 death."
+          ],
+          "source_references": [
+            "Chronology",
+            "Din Panah",
+            "Chausa",
+            "Kannauj",
+            "Restoration",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Inherited balance sheet",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "ASSET -> Delhi-Agra core, Timurid prestige and campaign capability",
+            "FINANCE -> stretched treasury and large assignments to begs",
+            "ADMINISTRATION -> conquest not converted into routine territorial control",
+            "EAST -> Afghan chiefs and Sher Khan retain regional depth",
+            "WEST -> Bahadur Shah links Gujarat, Malwa and Rajasthan",
+            "DYNASTY -> princely-share expectations complicate unified sovereignty."
+          ],
+          "source_references": [
+            "Finance",
+            "Begs",
+            "Afghan challenge",
+            "Bahadur Shah",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Brothers: chronology before blame",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "KAMRAN -> Kabul/Qandahar, then Lahore-Multan and the Punjab hinge",
+            "EARLY PHASE -> khutba and sikka remain in Humayun's name",
+            "ASKARI -> Gujarat command becomes an administrative cohesion test",
+            "HINDAL -> Agra move matters during the stretched Bengal campaign",
+            "AFTER CHAUSA -> Kamran withholds hardened troops from Humayun",
+            "RULE: fraternal politics changes by time and theatre; avoid timeless guilt."
+          ],
+          "source_references": [
+            "Kamran",
+            "Askari",
+            "Hindal",
+            "Timurid succession",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Rajput-Gujarat-Mughal western triangle",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "GUJARAT-MALWA -> Bahadur Shah's wealth, artillery and regional expansion",
+            "MEWAR / CHITTOR -> Rajput power inside the western strategic field",
+            "DELHI-AGRA -> Mughal core threatened through eastern Rajasthan and Malwa",
+            "HUMAYUN -> supply pressure at Mandsor, then Mandu and Champaner",
+            "KARNAVATI STORY -> later memory; contemporary corroboration is absent",
+            "TRAP: Rajputs were not one permanent bloc and legend is not event proof."
+          ],
+          "source_references": [
+            "Bahadur Shah",
+            "Mewar",
+            "Chittor",
+            "Karnavati",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Gujarat: victory without settlement",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "CAMPAIGN -> Mandsor pressure -> Mandu -> Champaner -> Ahmedabad",
+            "MILITARY RESULT -> real operational success and territorial seizure",
+            "ADMINISTRATIVE GAP -> thin revenue, weak local coalition and divided command",
+            "NOBLE PROBLEM -> many begs resist durable residence far from Delhi-Agra",
+            "REGIONAL RESPONSE -> Bahadur Shah returns; Askari withdraws; Malwa is lost",
+            "LESSON: winning forts is not the same as building a provincial regime."
+          ],
+          "source_references": [
+            "Gujarat campaign",
+            "Mandu",
+            "Champaner",
+            "Askari",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Sher Khan's Bihar-Bengal scale-up",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "BIHAR BASE -> forts, revenue, Afghan networks and local knowledge",
+            "SURAJGARH 1534 -> Bengal checked and Sher Khan's standing enlarged",
+            "GAUR 1537-38 -> Bengal resources and strategic depth enter the contest",
+            "HUMAYUN AT CHUNAR -> six months spent before the Bengal advance",
+            "SHER KHAN MOVES WEST -> route nodes and communications threatened",
+            "OUTCOME: a regional Afghan project becomes an imperial alternative."
+          ],
+          "source_references": [
+            "Sher Khan",
+            "Bihar",
+            "Surajgarh",
+            "Gaur",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chunar-Gaur communications trap",
+          "structural_type": "process",
+          "ascii_lines": [
+            "AGRA-DELHI CORE -> eastern movement depends on a long communication line",
+            "CHUNAR -> gateway fort affects land-river movement, supply and rear security",
+            "GAUR -> symbolic Bengal occupation but no durable administrative bridge",
+            "MONSOON + DISTANCE + NOBLE STRAIN -> Mughal position becomes brittle",
+            "SHER KHAN -> controls crossings and pressures the route back west",
+            "FORMULA: ambition + delayed logistics + severed communications = isolation."
+          ],
+          "source_references": [
+            "Chunar",
+            "Gaur",
+            "Logistics",
+            "Communications",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chausa and Kannauj: do not collapse the battles",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHAUSA, 26 JUN 1539 -> river at Humayun's rear + surprise + near escape",
+            "EFFECT -> army shattered, confidence falls, but the contest is not yet closed",
+            "KANNAUJ, 17 MAY 1540 -> set battle against a stronger Afghan position",
+            "MUGHAL LIMIT -> hastily assembled force lacks Kamran's hardened troops",
+            "EFFECT -> Humayun loses north India and Sher Shah's sovereignty opens",
+            "TRAP: Chausa weakens; Kannauj decides the first-reign struggle."
+          ],
+          "source_references": [
+            "Chausa",
+            "Kannauj",
+            "Battle distinction",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Exile, Safavid bargain and restoration",
+          "structural_type": "process",
+          "ascii_lines": [
+            "1540 DEFEAT -> Sindh and a prolonged search for a viable base",
+            "SHAH TAHMASP -> assistance is strategic and politically conditioned",
+            "1545 -> Qandahar and Kabul recovery rebuilds a north-western platform",
+            "SUR FIELD -> succession conflict and fragmentation after Islam Shah",
+            "1555 -> Delhi-Agra recovered through restored capacity and opponent weakness",
+            "LIMIT: restoration proves resilience, not that the earlier collapse was trivial.",
+            "CLOSE DISTINCTION: Chausa (1539) preceded Kannauj/Bilgram (1540); restoration followed in",
+            "  1555."
+          ],
+          "source_references": [
+            "Exile",
+            "Shah Tahmasp",
+            "Qandahar",
+            "1555 restoration",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence, rehabilitation and heritage",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "NIZAMUDDIN AHMAD -> alternate chronology; compression and omissions",
+            "ABUL FAZL -> fuller reconstruction; later dynastic framing",
+            "MIRZA HAIDER -> critical testimony; one voice cannot explain a reign",
+            "KARNAVATI TRADITION -> later memory requiring corroboration",
+            "HUMAYUN'S TOMB -> later Akbar-era dynastic memory and conservation evidence",
+            "METHOD -> replace caricature with ranked evidence, agency and qualification.",
+            "EVIDENCE LIMIT: Defeat cannot be explained only by personality: resources, alliances, Afghan",
+            "  resilience and imperial overstretch matter."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Historiography",
+            "Humayun's Tomb",
+            "UNESCO",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 13 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Babur left a prestigious but unfinished conquest",
+            "STRUCTURE -> finance + brothers + unrooted nobles + competing regional powers",
+            "AGENCY -> Gujarat overreach, Bengal logistics and Sher Khan's superior timing",
+            "BATTLES -> Chausa operational shock; Kannauj decisive political displacement",
+            "RECOVERY -> Safavid-backed base + Sur fragmentation + 1555 return",
+            "CLOSE -> Humayun failed seriously, but not through a one-word moral defect."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Structure and agency",
+            "Qualified verdict",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\13_Struggle-for-Empire-Humayun-Afghans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-13\\g3\\medieval-indian-history-13_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

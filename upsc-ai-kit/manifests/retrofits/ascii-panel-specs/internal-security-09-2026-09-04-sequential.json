@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-09",
+      "display_title": "Social Media, Encrypted Messaging and Information Warfare",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-09_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Platform-actor map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "USER -> CREATES / SHARES CONTENT",
+            "PLATFORM -> HOSTS / RECOMMENDS / AMPLIFIES",
+            "INTERMEDIARY DUTY -> DUE PROCESS / GRIEVANCE / COMPLIANCE",
+            "STATE -> LAWFUL ORDER / INVESTIGATION / REVIEW",
+            "RULE -> four actors, not one undifferentiated speaker"
+          ],
+          "source_references": [
+            "Platform-intermediary distinction"
+          ]
+        },
+        {
+          "title": "Dual-use communication balance",
+          "structural_type": "balance-scale",
+          "ascii_lines": [
+            "GAIN -> PARTICIPATION / AWARENESS / EMERGENCY COMMUNICATION",
+            "RISK -> RADICALISATION / INCITEMENT / FRAUD / HOSTILE NARRATIVE",
+            "SAME ENABLER -> SPEED + REACH + DECENTRALISATION",
+            "VERDICT -> govern misuse without destroying legitimate security"
+          ],
+          "source_references": [
+            "Dual-use communication"
+          ]
+        },
+        {
+          "title": "Encryption lawful-access matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "E2EE -> CONTENT READABLE AT ENDPOINTS",
+            "ANONYMITY -> IDENTITY CONCEALMENT",
+            "RULE 4(2) -> FIRST ORIGINATOR ON DEFINED ORDER",
+            "DISPUTE -> METADATA REQUEST / SYSTEM ARCHITECTURE EFFECT",
+            "NOT THE ANSWER -> blanket weakening"
+          ],
+          "source_references": [
+            "End-to-end encryption",
+            "Encryption-anonymity boundary",
+            "Lawful-access debate"
+          ]
+        },
+        {
+          "title": "Information-disorder taxonomy",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MISINFORMATION -> FALSE / NO NECESSARY DECEPTIVE INTENT",
+            "DISINFORMATION -> FALSE OR MANIPULATED / DELIBERATE",
+            "MALINFORMATION -> GENUINE / MALICIOUS CONTEXT OR USE",
+            "REMEDY -> correction | attribution | contextual rebuttal"
+          ],
+          "source_references": [
+            "Misinformation",
+            "Disinformation",
+            "Malinformation"
+          ]
+        },
+        {
+          "title": "Influence-label ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PERSUASIVE CONTENT",
+            "-> SYSTEMATIC PROPAGANDA",
+            "-> COORDINATED INFLUENCE OPERATION",
+            "-> STRATEGIC INFORMATION WARFARE",
+            "RULE -> prove actor, coordination, objective and context"
+          ],
+          "source_references": [
+            "Propaganda-influence-warfare ladder"
+          ]
+        },
+        {
+          "title": "Information-operation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ACTOR -> NARRATIVE / CONTENT",
+            "-> PLATFORM / NETWORK AMPLIFICATION",
+            "-> TARGETED AUDIENCE",
+            "-> BEHAVIOURAL / INSTITUTIONAL CONSEQUENCE",
+            "TRAP -> reach is not proof of persuasion"
+          ],
+          "source_references": [
+            "Information-operation chain"
+          ]
+        },
+        {
+          "title": "Deepfake evidence ladder",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SYNTHETIC / MANIPULATED MEDIA DETECTED",
+            "-> VERIFY PROVENANCE + CONTEXT",
+            "-> ASSESS INTENT / COORDINATION / HARM",
+            "-> PRESERVE EVIDENCE + CORRECT / INVESTIGATE",
+            "NOT PROVED -> creator, sponsor or offence"
+          ],
+          "source_references": [
+            "Deepfake boundary",
+            "Attribution ladder"
+          ]
+        },
+        {
+          "title": "Intermediary law map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "RULE 3 -> DUE DILIGENCE / GRIEVANCE",
+            "RULE 4(1) -> SIGNIFICANT-INTERMEDIARY COMPLIANCE ROLES",
+            "RULE 7 -> SECTION 79 SAFE-HARBOUR CONSEQUENCE",
+            "SECTION 69A -> PRESCRIBED BLOCKING PROCESS",
+            "RULE -> duty and a specific lawful order remain distinct"
+          ],
+          "source_references": [
+            "Intermediary-duties map",
+            "Blocking-process boundary"
+          ]
+        },
+        {
+          "title": "Restriction proportionality rail",
+          "structural_type": "audit-ladder",
+          "ascii_lines": [
+            "LEGAL AUTHORITY + LEGITIMATE AIM",
+            "-> SUITABILITY + NECESSITY",
+            "-> LEAST-RESTRICTIVE / TIME-BOUND DESIGN",
+            "-> PUBLICATION / REVIEW / REMEDY",
+            "ANURADHA BHASIN -> no indefinite suspension"
+          ],
+          "source_references": [
+            "Network-restriction boundary",
+            "Rights-proportionality test"
+          ]
+        },
+        {
+          "title": "Incident-crime-operation firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CYBER INCIDENT -> CERT-In / ENTITY RESPONSE",
+            "CYBERCRIME -> STATE POLICE / I4C SUPPORT",
+            "INFORMATION OPERATION -> INTELLIGENCE + LEGAL + DIPLOMATIC ASSESSMENT",
+            "CONTENT GOVERNANCE -> platform and lawful-process layer"
+          ],
+          "source_references": [
+            "Cyber-content firewall"
+          ]
+        },
+        {
+          "title": "Cross-border attribution ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CONTENT / TECHNICAL INDICATOR",
+            "-> COORDINATION / INFRASTRUCTURE CONTROL",
+            "-> INTELLIGENCE + LEGAL EVIDENCE",
+            "-> PUBLIC POLITICAL FINDING",
+            "LIMIT -> jurisdiction and evidence access"
+          ],
+          "source_references": [
+            "Attribution ladder",
+            "Extraterritorial limit"
+          ]
+        },
+        {
+          "title": "PYQ and resilience rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2024 GS-III -> MULTI-LEVEL MEASURES + OTHER REMEDIES",
+            "2025 GS-IV -> CROSS-OWNED ETHICAL DILEMMAS",
+            "2023 GS-IV -> CROSS-OWNED CYBERBULLYING CASE",
+            "END -> VERIFY / COMMUNICATE / GOVERN / INVESTIGATE / EDUCATE",
+            "QUALIFY -> rights, evidence status and attribution confidence"
+          ],
+          "source_references": [
+            "Information-resilience end-state"
+          ]
+        }
+      ]
+    }
+  ]
+}

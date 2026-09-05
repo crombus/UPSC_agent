@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topic 27 rebuild",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-27",
+      "display_title": "Migration Theories and Patterns (India)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\27_Migration-Theories-and-Patterns-India_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Migration concept firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MIGRATION -> change in usual residence across a meaningful boundary",
+            "IMMIGRATION -> movement into a country or receiving region",
+            "EMIGRATION -> movement out of a country or sending region",
+            "DATA RULE -> place of birth and last usual residence answer different questions"
+          ],
+          "source_references": [
+            "Migration definition"
+          ]
+        },
+        {
+          "title": "Push-pull-obstacle model",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ORIGIN PUSH -> job loss, conflict, debt, disaster, social pressure",
+            "DESTINATION PULL -> wages, safety, education, amenities, networks",
+            "INTERVENING OBSTACLES -> distance, cost, borders, information gaps",
+            "SELECTIVITY -> age, gender, class and skills shape who actually moves"
+          ],
+          "source_references": [
+            "Push-pull logic",
+            "Lee framework"
+          ]
+        },
+        {
+          "title": "Ravenstein law strip",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MOST MOVES -> short distance rather than very long distance",
+            "STEP MIGRATION -> village to town to city to metropolis",
+            "COUNTER-STREAM -> each major flow generates some reverse movement",
+            "LIMIT -> use as an analytical guide, not as an absolute rule"
+          ],
+          "source_references": [
+            "Ravenstein laws",
+            "Step migration chain"
+          ]
+        },
+        {
+          "title": "Distance-decay and step migration",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DISTANCE RISES -> cost, uncertainty and social risk rise",
+            "OPPORTUNITY NODES -> nearer towns intercept part of the flow",
+            "NETWORKS -> reduce cost and keep corridors alive",
+            "RESULT -> many migrants move in stages rather than one leap"
+          ],
+          "source_references": [
+            "Distance-decay principle",
+            "Step migration chain"
+          ]
+        },
+        {
+          "title": "Migration stream matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RURAL-RURAL -> marriage, local farm labour, nearby relocation",
+            "RURAL-URBAN -> labour, services, education, construction",
+            "URBAN-URBAN -> professional, business and higher-education mobility",
+            "URBAN-RURAL -> return migration, retirement or peri-urban spillover"
+          ],
+          "source_references": [
+            "Stream classification",
+            "Rural-rural dominance",
+            "Rural-urban urbanisation link"
+          ]
+        },
+        {
+          "title": "Source-destination balance sheet",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SOURCE -> reduced pressure, remittances, but loss of young workers",
+            "DESTINATION -> labour gain, market expansion, but service pressure",
+            "AGE-SEX EFFECT -> selective migration alters both ends differently",
+            "VERDICT -> migration redistributes both opportunity and vulnerability"
+          ],
+          "source_references": [
+            "Source-destination effects",
+            "Remittance and labour restructuring"
+          ]
+        },
+        {
+          "title": "India official snapshot",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ALL-INDIA RATE -> 28.9% in MoSPI Migration in India 2020-21",
+            "RURAL RATE -> 26.5% | URBAN RATE -> 34.9%",
+            "INTRASTATE -> 87.5% | INTERSTATE -> 12.5%",
+            "RULE -> label the source-year before using any percentage"
+          ],
+          "source_references": [
+            "MoSPI all-India migration rate",
+            "Rural and urban migration rates",
+            "Intrastate versus interstate"
+          ]
+        },
+        {
+          "title": "Marriage migration dominance",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FEMALE MIGRANTS DUE TO MARRIAGE -> 86.8% in MoSPI 2020-21",
+            "ANALYTICAL RESULT -> raw migration totals are not equal to labour migration",
+            "RURAL-RURAL STREAM -> remains large because marriage mobility is large",
+            "EXAM USE -> separate social migration from labour migration explicitly"
+          ],
+          "source_references": [
+            "Marriage migration dominance",
+            "Rural-rural dominance"
+          ]
+        },
+        {
+          "title": "India corridor map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "SENDING BELTS -> Bihar, Uttar Pradesh, Odisha and east-central regions",
+            "GAINER ZONES -> Maharashtra, Gujarat, Delhi, Haryana and Punjab",
+            "CURRENT LOGIC -> labour moves toward industrial, farm and service corridors",
+            "QUALIFIER -> the same corridor may mix opportunity and distress migration"
+          ],
+          "source_references": [
+            "Net gainers and senders",
+            "Corridor logic"
+          ]
+        },
+        {
+          "title": "Circular migration and undercount",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "SEASONAL MOVEMENT -> brick kilns, harvesting, construction, informal work",
+            "USUAL-RESIDENCE DATA -> can miss repeated short-duration mobility",
+            "POLICY EFFECT -> portability of welfare becomes a major issue",
+            "CITY EFFECT -> rental insecurity and service pressure stay concentrated"
+          ],
+          "source_references": [
+            "Circular and seasonal migration",
+            "Circular undercount and urban stress"
+          ]
+        },
+        {
+          "title": "Large-city attraction logic",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DIVERSE JOB SET -> big cities offer multiple labour-market entry points",
+            "NETWORKS -> earlier migrants lower cost and risk for later migrants",
+            "TRANSPORT + SERVICES -> large nodes compress search costs",
+            "COUNTERPOINT -> some nearer towns intercept flows as opportunities expand"
+          ],
+          "source_references": [
+            "Rural-urban urbanisation link",
+            "Corridor logic",
+            "Circular undercount and urban stress"
+          ]
+        },
+        {
+          "title": "Migration answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> residence rule, stream type and whether migration is internal or international",
+            "EXPLAIN -> push, pull, obstacles, distance-decay and step migration",
+            "MAP -> marriage-heavy rural-rural and labour-heavy corridor movements in India",
+            "QUALIFY -> intrastate dominance, remittances, undercount and verified PYQ routing"
+          ],
+          "source_references": [
+            "Migration definition",
+            "Intrastate versus interstate",
+            "Remittance and labour restructuring"
+          ]
+        }
+      ]
+    }
+  ]
+}

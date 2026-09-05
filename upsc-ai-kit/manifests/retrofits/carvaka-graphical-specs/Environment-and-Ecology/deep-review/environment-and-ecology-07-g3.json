@@ -1,0 +1,1110 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-07",
+  "subject": "Environment-and-Ecology",
+  "title": "BIOSPHERE RESERVES AND RAMSAR SITES",
+  "short_route": "TWO-STEP BIOSPHERE STATUS → CORE BUFFER TRANSITION → BIOSPHERE FUNCTION TRIANGLE → RAMSAR THREE-PILLAR RAIL → RAMSAR STATUS FIREWALL → CRITERIA DISCIPLINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-07-deep-review-2026-09-03-g3.json",
+  "ascii_spec_sha256": "94d66524e02eec1aa25defa58584220ce3982e40fe8dd1d0e68bd7cc3600a9f2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO-STEP BIOSPHERE STATUS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO-STEP BIOSPHERE STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN NATIONAL DESIGNATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BIOSPHERE RESERVE PLANNING STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE NOMINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "UNESCO MAB PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "WORLD NETWORK INCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL RECOGNITION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT AUTOMATIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INDIAN NATIONAL DESIGNATION → Biosphere Reserve planning status",
+        "SEPARATE NOMINATION → UNESCO MAB process",
+        "WORLD NETWORK INCLUSION → international recognition",
+        "NOT AUTOMATIC → national status may exist without UNESCO status",
+        "RULE → always name which status and year is meant"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIAN NATIONAL DESIGNATION → Biosphere Reserve planning status",
+            "SEPARATE NOMINATION → UNESCO MAB process"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WORLD NETWORK INCLUSION → international recognition",
+            "NOT AUTOMATIC → national status may exist without UNESCO status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → always name which status and year is meant",
+            "MUST REMEMBER: Biosphere reserves use conservation-development-logistic zoning, whereas..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → always name which status and year is meant.",
+      "source_references": [
+        "National Biosphere Reserve designation",
+        "UNESCO World Network status",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CORE BUFFER TRANSITION",
+      "structural_type": "nested-zones",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CORE BUFFER TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-TERM CONSERVATION AND MINIMAL DISTURBANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESEARCH, MONITORING, EDUCATION AND COMPATIBLE USE",
+          "role": "comparison"
+        },
+        {
+          "text": "SETTLEMENTS, LIVELIHOODS AND SUSTAINABLE DEVELOPMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ZONES SUPPORT ONE LANDSCAPE STRATEGY",
+          "role": "primary"
+        },
+        {
+          "text": "ZONATION IS NOT THREE EQUAL LEGAL PROTECTION TIERS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CORE → long-term conservation and minimal disturbance",
+        "BUFFER → research, monitoring, education and compatible use",
+        "TRANSITION → settlements, livelihoods and sustainable development",
+        "INTERACTION → zones support one landscape strategy",
+        "CAUTION → zonation is not three equal legal protection tiers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORE → long-term conservation and minimal disturbance",
+            "BUFFER → research, monitoring, education and compatible use"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSITION → settlements, livelihoods and sustainable development",
+            "INTERACTION → zones support one landscape strategy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → zonation is not three equal legal protection tiers",
+            "CORE → long-term conservation and minimal disturbance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → zonation is not three equal legal protection tiers.",
+      "source_references": [
+        "Core zone",
+        "Buffer zone",
+        "Transition zone",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BIOSPHERE FUNCTION TRIANGLE",
+      "structural_type": "triangle",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BIOSPHERE FUNCTION TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "LANDSCAPES, ECOSYSTEMS, SPECIES AND GENETIC VARIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSTAINABLE HUMAN AND ECONOMIC ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGISTICAL SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "RESEARCH, MONITORING, EDUCATION AND TRAINING",
+          "role": "primary"
+        },
+        {
+          "text": "ASSIGNS COMPATIBLE FUNCTIONS ACROSS SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFECTIVENESS DEPENDS ON DOMESTIC IMPLEMENTATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONSERVATION → landscapes, ecosystems, species and genetic variation",
+        "DEVELOPMENT → sustainable human and economic activity",
+        "LOGISTICAL SUPPORT → research, monitoring, education and training",
+        "ZONATION → assigns compatible functions across space",
+        "VERDICT → effectiveness depends on domestic implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONSERVATION → landscapes, ecosystems, species and genetic variation",
+            "DEVELOPMENT → sustainable human and economic activity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOGISTICAL SUPPORT → research, monitoring, education and training",
+            "ZONATION → assigns compatible functions across space"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → effectiveness depends on domestic implementation",
+            "CONSERVATION → landscapes, ecosystems, species and genetic variation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOGISTICAL SUPPORT → research, monitoring, education and training.",
+      "source_references": [
+        "Three biosphere functions",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RAMSAR THREE-PILLAR RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RAMSAR THREE-PILLAR RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "WISE USE",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL WETLANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMSAR LIST",
+          "role": "evidence"
+        },
+        {
+          "text": "DESIGNATE SUITABLE WETLANDS AND MANAGE THEM",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSBOUNDARY WETLANDS, SYSTEMS AND SHARED SPECIES",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA PARTY DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "1 FEBRUARY 1982 ON MOEFCC PAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WISE USE → all wetlands",
+        "RAMSAR LIST → designate suitable wetlands and manage them",
+        "COOPERATION → transboundary wetlands, systems and shared species",
+        "INDIA PARTY DATE → 1 February 1982 on MoEFCC page",
+        "RULE → treaty obligation is broader than listed sites alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WISE USE → all wetlands",
+            "RAMSAR LIST → designate suitable wetlands and manage them"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COOPERATION → transboundary wetlands, systems and shared species",
+            "INDIA PARTY DATE → 1 February 1982 on MoEFCC page"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → treaty obligation is broader than listed sites alone",
+            "WISE USE → all wetlands"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → treaty obligation is broader than listed sites alone.",
+      "source_references": [
+        "Ramsar Convention",
+        "Wise use",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RAMSAR STATUS FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAMSAR STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "RAMSAR SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL WETLAND OF IMPORTANCE LISTING",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC NOTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN LEGAL INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MANAGEMENT PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATIONAL COMMITMENTS AND ACTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MONITORED ECOLOGICAL OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAMSAR SITE → international Wetland of Importance listing",
+        "DOMESTIC NOTIFICATION → Indian legal instrument",
+        "MANAGEMENT PLAN → operational commitments and actions",
+        "IMPLEMENTATION → monitored ecological outcome",
+        "RULE → one milestone never proves the next"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RAMSAR SITE → international Wetland of Importance listing",
+          "MANAGEMENT PLAN → operational commitments and actions",
+          "RULE → one milestone never proves the next"
+        ],
+        [
+          "DOMESTIC NOTIFICATION → Indian legal instrument",
+          "IMPLEMENTATION → monitored ecological outcome",
+          "RAMSAR SITE → international Wetland of Importance listing"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAMSAR SITE → international Wetland of Importance listing",
+            "DOMESTIC NOTIFICATION → Indian legal instrument"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MANAGEMENT PLAN → operational commitments and actions",
+            "IMPLEMENTATION → monitored ecological outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one milestone never proves the next",
+            "RAMSAR SITE → international Wetland of Importance listing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one milestone never proves the next.",
+      "source_references": [
+        "Ramsar designation",
+        "Designation and implementation",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CRITERIA DISCIPLINE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CRITERIA DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "SITE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "REPRESENTATIVE TYPE, SPECIES OR ECOLOGICAL FUNCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLICABLE RAMSAR CRITERIA",
+          "role": "evidence"
+        },
+        {
+          "text": "AT LEAST ONE",
+          "role": "primary"
+        },
+        {
+          "text": "CAN SUPPORT NOMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "USE ONLY READABLE OFFICIAL CRITERION TEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SHORTCUT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SITE EVIDENCE → representative type, species or ecological functions",
+        "TEST → applicable Ramsar criteria",
+        "AT LEAST ONE → can support nomination",
+        "THRESHOLD → use only readable official criterion text",
+        "NO SHORTCUT → designation cannot be inferred from importance alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SITE EVIDENCE → representative type, species or ecological functions",
+            "TEST → applicable Ramsar criteria"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AT LEAST ONE → can support nomination",
+            "THRESHOLD → use only readable official criterion text"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO SHORTCUT → designation cannot be inferred from importance alone",
+            "SITE EVIDENCE → representative type, species or ecological functions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO SHORTCUT → designation cannot be inferred from importance alone.",
+      "source_references": [
+        "Ramsar criteria boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ECOLOGICAL CHARACTER MAP",
+      "structural_type": "system-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ECOLOGICAL CHARACTER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BIOTIC AND ABIOTIC FEATURES",
+          "role": "outcome"
+        },
+        {
+          "text": "HYDROLOGY, NUTRIENT AND ECOLOGICAL INTERACTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFITS OR SERVICES",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNCTIONS VALUED BY PEOPLE AND ECOSYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "STATED TIME AND SITE BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "REQUIRES EVIDENCE, NOT A GENERIC DEGRADATION LABEL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMPONENTS → biotic and abiotic features",
+        "PROCESSES → hydrology, nutrient and ecological interactions",
+        "BENEFITS OR SERVICES → functions valued by people and ecosystems",
+        "BASELINE → stated time and site boundary",
+        "CHANGE → requires evidence, not a generic degradation label"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPONENTS → biotic and abiotic features",
+            "PROCESSES → hydrology, nutrient and ecological interactions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BENEFITS OR SERVICES → functions valued by people and ecosystems",
+            "BASELINE → stated time and site boundary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHANGE → requires evidence, not a generic degradation label",
+            "COMPONENTS → biotic and abiotic features"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHANGE → requires evidence, not a generic degradation label.",
+      "source_references": [
+        "Ecological character",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MONTREUX ACCOUNTABILITY LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MONTREUX ACCOUNTABILITY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "RAMSAR-LISTED SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGICAL CHARACTER CONCERN",
+          "role": "comparison"
+        },
+        {
+          "text": "MONTREUX RECORD",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGE OCCURRED, IS OCCURRING OR IS LIKELY",
+          "role": "primary"
+        },
+        {
+          "text": "ATTENTION AND ADVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRECTIVE MANAGEMENT ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT RECORD CAN CHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAMSAR-LISTED SITE → ecological character concern",
+        "MONTREUX RECORD → change occurred, is occurring or is likely",
+        "ATTENTION AND ADVICE → corrective management route",
+        "REVIEW → current record can change",
+        "RULE → Record status is neither delisting nor permanent stigma"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAMSAR-LISTED SITE → ecological character concern",
+            "MONTREUX RECORD → change occurred, is occurring or is likely"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ATTENTION AND ADVICE → corrective management route",
+            "REVIEW → current record can change"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → Record status is neither delisting nor permanent stigma",
+            "RAMSAR-LISTED SITE → ecological character concern"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → Record status is neither delisting nor permanent stigma.",
+      "source_references": [
+        "Montreux Record",
+        "Montreux status discipline",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTERNATIONAL AND DOMESTIC LAYERS",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INTERNATIONAL AND DOMESTIC LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "RAMSAR CONVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL WISE-USE FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMSAR DESIGNATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SITE RECOGNITION AND REPORTING",
+          "role": "primary"
+        },
+        {
+          "text": "WETLANDS RULES 2017",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC REGULATORY FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE WETLAND AUTHORITY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RAMSAR CONVENTION → international wise-use framework",
+        "RAMSAR DESIGNATION → site recognition and reporting",
+        "WETLANDS RULES 2017 → domestic regulatory framework",
+        "STATE WETLAND AUTHORITY → identification and implementation",
+        "NPCA → programme support; not the Ramsar designation itself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAMSAR CONVENTION → international wise-use framework",
+            "RAMSAR DESIGNATION → site recognition and reporting"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WETLANDS RULES 2017 → domestic regulatory framework",
+            "STATE WETLAND AUTHORITY → identification and implementation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NPCA → programme support; not the Ramsar designation itself",
+            "RAMSAR CONVENTION → international wise-use framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NPCA → programme support; not the Ramsar designation itself.",
+      "source_references": [
+        "Wetlands Rules 2017",
+        "State Wetland Authorities",
+        "NPCA transition",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROGRAMME TIME-POINT TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PROGRAMME TIME-POINT TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "OLDER DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL WETLAND CONSERVATION PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "PARALLEL PROGRAMME",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL LAKE CONSERVATION PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "2013 OWNER ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "MERGER INTO NPCA",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT ANSWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLDER DEMAND → National Wetland Conservation Programme",
+        "PARALLEL PROGRAMME → National Lake Conservation Plan",
+        "2013 OWNER ROUTE → merger into NPCA",
+        "CURRENT ANSWER → use NPCA with Wetlands Rules framework",
+        "CAUTION → do not rewrite a historical PYQ's original programme label"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OLDER DEMAND → National Wetland Conservation Programme",
+            "PARALLEL PROGRAMME → National Lake Conservation Plan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2013 OWNER ROUTE → merger into NPCA",
+            "CURRENT ANSWER → use NPCA with Wetlands Rules framework"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → do not rewrite a historical PYQ's original programme label",
+            "CLOSE DISTINCTION: UNESCO biosphere reserve is not a Wildlife Protection Act category,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: UNESCO biosphere reserve is not a Wildlife Protection Act category,.",
+      "source_references": [
+        "NPCA transition",
+        "Audited PYQ boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "OVERLAPPING DESIGNATION STACK",
+      "structural_type": "layered-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "OVERLAPPING DESIGNATION STACK",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL PARK OR SANCTUARY",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC WILDLIFE-LAW STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "TIGER RESERVE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIES-MANAGEMENT OVERLAY",
+          "role": "primary"
+        },
+        {
+          "text": "BIOSPHERE RESERVE",
+          "role": "outcome"
+        },
+        {
+          "text": "ZONED LANDSCAPE DESIGNATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMSAR SITE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL PARK OR SANCTUARY → domestic wildlife-law status",
+        "TIGER RESERVE → species-management overlay",
+        "BIOSPHERE RESERVE → zoned landscape designation",
+        "RAMSAR SITE → wetland international listing",
+        "RULE → map functions and boundaries separately"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATIONAL PARK OR SANCTUARY → domestic wildlife-law status",
+            "TIGER RESERVE → species-management overlay"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BIOSPHERE RESERVE → zoned landscape designation",
+            "RAMSAR SITE → wetland international listing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → map functions and boundaries separately",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify designation body, criteria, date,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify designation body, criteria, date,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify designation body, criteria, date,.",
+      "source_references": [
+        "Overlapping designations",
+        "Designation and implementation",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE AND ANSWER SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "BIOSPHERE STATUS, ZONE, RAMSAR STATUS OR DOMESTIC WETLAND LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "SITE BOUNDARY, DESIGNATION DATE AND COMPETENT AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ECOLOGICAL CHARACTER, WISE USE AND LIVELIHOOD MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CURRENT COUNT AND MONTREUX STATUS BEFORE CITING",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGNATION MATTERS ONLY THROUGH IMPLEMENTED MANAGEMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → biosphere status, zone, Ramsar status or domestic wetland law",
+        "FIX → site boundary, designation date and competent authority",
+        "ANALYSE → ecological character, wise use and livelihood mechanism",
+        "VERIFY → current count and Montreux status before citing",
+        "CONCLUDE → designation matters only through implemented management"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → biosphere status, zone, Ramsar status or domestic wetland law",
+            "FIX → site boundary, designation date and competent authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → ecological character, wise use and livelihood mechanism",
+            "VERIFY → current count and Montreux status before citing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUDE → designation matters only through implemented management",
+            "CLASSIFY → biosphere status, zone, Ramsar status or domestic wetland law"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUDE → designation matters only through implemented management.",
+      "source_references": [
+        "Montreux status discipline",
+        "Live count boundary",
+        "Audited PYQ boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S WETLANDS (CONSERVATION AND MANAGEMENT) RULES, 2017 (NOTIFIED UNDER",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPLEMENTATION CRITIQUE",
+          "role": "comparison"
+        },
+        {
+          "text": "WETLAND IDENTIFICATION, BOUNDARY DEMARCATION AND",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS IS THE CONCRETE MECHANISM THROUGH WHICH THE \"DESIGNATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDIA'S RAMSAR-SITE COUNT IS A FAST-MOVING FIGURE (100 SITES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NUMBER OF UNESCO-RECOGNISED (VERSUS PURELY DOMESTICALLY DECLARED) BIOSPHERE",
+          "role": "comparison"
+        },
+        {
+          "text": "ECOLOGICAL-CHARACTER-CHANGE ASSESSMENTS UNDERLYING MONTREUX RECORD ADDITIONS/REMOVALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Wetlands (Conservation and Management) Rules, 2017 (notified under the",
+            "CAUTION: Implementation critique: wetland identification, boundary demarcation and",
+            "CAUTION: This is the concrete mechanism through which the \"designation is not protection\" thesis",
+            "CAUTION: India's Ramsar-site count is a fast-moving figure (100 sites reached 5 June 2026 per PIB"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: The number of UNESCO-recognised (versus purely domestically declared) Biosphere",
+            "CAUTION: Ecological-character-change assessments underlying Montreux Record additions/removals",
+            "The Montreux Record lists Ramsar sites where ecological character has changed, is",
+            "India's Wetlands (Conservation and Management) Rules, 2017 establish State Wetland"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Only the core zone of a Biosphere Reserve typically carries independent, pre-existing",
+            "India reached 100 Ramsar sites on 5 June 2026, with Jai Prakash Narayan Bird Sanctuary",
+            "India's Montreux Record entries are Keoladeo National Park and Loktak Lake ;",
+            "Amrit Dharohar (Union Budget 2023-24) is the wetland-management/livelihood scheme"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

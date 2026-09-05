@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "id": "polity-27-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-27": {
+      "title": "Election Commission",
+      "source_record": "polity-27:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Article 324 and the collegial Election Commission",
+          "structural_type": "eci-constitutional-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 324\nsuperintendence, direction and control of rolls and elections to\nParliament | State legislatures | President | Vice-President.\n\nCOMPOSITION\nCEC + such number of Election Commissioners as President fixes.\nPresident may appoint Regional Commissioners after consulting the ECI.\n\nCOLLEGIALITY\nmulti-member Commission decides by majority under the governing statute.\n\nEXCLUSION\nlocal-body elections -> State Election Commissions under Articles 243K and 243ZA.\n\nCONSTITUTIONAL POSITION\nindependent election manager + distributed field machinery\nbounded by Constitution, enacted law, natural justice and judicial review."
+        },
+        {
+          "title": "Appointment Act, tenure, removal and independence safeguards",
+          "structural_type": "eci-appointment-independence-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+          ],
+          "full_text": "Anoop Baranwal (2023)\ninterim PM + Opposition leader + CJI committee only until Parliament made a law.\n\n2023 APPOINTMENT ACT\nSearch Committee led by Law Minister -> panel of five\n-> Selection Committee: PM + Union Cabinet Minister + Opposition leader\n-> President appoints.\n\nTERM\nsix years or age 65, whichever earlier; no reappointment under the Act.\n\nREMOVAL\nCEC -> like Supreme Court judge.\nEC/Regional Commissioner -> President only on CEC recommendation.\n\nCURRENT LEGAL CONTROL: 24 AUGUST 2026\nAct operates; challenge pending; no claim of final validation or invalidation.\n\nINDEPENDENCE TEST\nappointment + removal + finance + secretariat + staff + transparent reasons."
+        },
+        {
+          "title": "Election administration from schedule and rolls to repoll",
+          "structural_type": "election-administration-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 21",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 28",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 29",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 30",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 31",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 32"
+          ],
+          "full_text": "ADMINISTRATIVE CHAIN\nroll revision -> schedule announcement -> statutory notification\n-> nomination -> scrutiny -> withdrawal -> campaign\n-> poll -> count -> result -> election-petition route.\n\nROLLS\ncitizenship + qualifying age + ordinary residence + inclusion/deletion due process.\n\nFIELD CONTROL\nReturning Officers | observers | security coordination | expenditure teams.\n\nURGENT INTEGRITY POWER\nadjournment, repoll or countermand only through the applicable legal basis and facts.\n\nDISQUALIFICATION ADVICE\nPresident under Article 103 and Governor under Article 192 obtain ECI opinion.\nTenth Schedule disqualification belongs to Speaker/Chairman, not ECI."
+        },
+        {
+          "title": "RPA interface, delimitation boundary, voter registration and NOTA",
+          "structural_type": "rpa-delimitation-nota-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 26",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 45",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 47",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 48"
+          ],
+          "full_text": "RPA 1950\nseat allocation/delimitation framework + electoral rolls + eligibility architecture.\n\nRPA 1951\nconduct, candidates, expenses, corrupt practices, disqualifications and petitions.\n\nDELIMITATION\nDelimitation Commission is the statutory authority when constituted;\nCEC/ECI participates as law provides but is not the ordinary sole delimiting body.\n\nPeople's Union for Civil Liberties (2013)\nsecret NOTA protects voter expression and secrecy.\n\nNOTA LIMIT\nNOTA plurality does not automatically cancel the election or force a repoll.\n\nARTICLE 329\nelectoral process receives anti-interruption protection; post-result petition remains\navailable."
+        },
+        {
+          "title": "Political parties, symbols and Model Code enforcement",
+          "structural_type": "party-symbol-mcc-system",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 33",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 34",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 35",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 36",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 37",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 38"
+          ],
+          "full_text": "PARTY REGISTRATION\nRPA 1951 section 29A -> registration.\n\nRECOGNITION / SYMBOL\nSymbols Order, 1968 -> national/State recognition, reserved/free symbols\nand quasi-judicial symbol disputes.\n\nMODEL CODE OF CONDUCT\nconsensus-based non-statutory code -> operates from election-schedule announcement\nuntil completion -> rapid preventive correction and level-playing-field control.\n\nLEGAL OVERLAP\nbribery, communal appeals, expenditure and other conduct may independently violate law.\n\nLIMITS\nregistration != recognition | symbol jurisdiction != every internal party dispute\n| MCC is not by itself a complete penal code."
+        },
+        {
+          "title": "Campaign finance, criminalisation, paid news and social-media limits",
+          "structural_type": "campaign-integrity-risk-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 30",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 46",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 49",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 50",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 51",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 61"
+          ],
+          "full_text": "CAMPAIGN FINANCE\ncandidate account + statutory ceiling + observers/teams\n!= one identical ceiling for total political-party campaign spending.\n\nCRIMINALISATION\ncandidate affidavit disclosure + RPA disqualification + court process.\nECI cannot invent new conviction or disqualification grounds.\n\nPAID NEWS\nmedia monitoring -> evidence -> expense attribution or legal route where supported.\n\nSOCIAL MEDIA / DEEPFAKES\nad certification + MCC/advisories + applicable election/criminal/technology law.\nECI is not a general platform regulator or universal censor.\n\nTRANSPARENCY\nUnion of India v. Association for Democratic Reforms (2002)\n-> voter right to candidate information.\n\nREFORM TEST\nclear law + reasons + equal enforcement + rapid remedy + audit trail."
+        },
+        {
+          "title": "EVM-VVPAT architecture and current judicial controls",
+          "structural_type": "evm-vvpat-trust-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 39",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 40",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 41",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 56"
+          ],
+          "full_text": "POLLING CHAIN\nBallot Unit -> Control Unit -> VVPAT slip display/drop -> sealed records -> counting\nprotocol.\n\nVVPAT PURPOSE\nvoter-verifiable paper audit trail, not a take-home ballot.\n\nAssociation for Democratic Reforms v. Election Commission of India (2024)\nrejected paper-ballot return and universal 100% VVPAT counting;\nadded limited post-result technical safeguards.\n\n2025 FOLLOW-UP\ncandidate-requested diagnostic/check process operates within the Court's stated\nprotocol.\n\nANSWER DISCIPLINE\ndevice security + roll accuracy + staff neutrality + campaign fairness\n-> transparent audit + reasoned judicial/administrative safeguards.\n\nLIMIT unsupported fraud claims and unsupported infallibility claims are both\nexam-unsafe."
+        },
+        {
+          "title": "Article 324 case-law code: power, law, collegiality and rights",
+          "structural_type": "eci-case-law-doctrine-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 42",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 43",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 44",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 45",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 46",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 47"
+          ],
+          "full_text": "Mohinder Singh Gill (1977)\nArticle 324 is a reservoir where law is silent; it cannot override enacted law.\n\nA.C. Jose (1984)\nECI fills gaps but cannot act contrary to a field occupied by legislation/rules.\n\nT.N. Seshan (1995)\nmulti-member Commission and equal decision-making status are constitutionally valid.\n\nUnion of India v. Association for Democratic Reforms (2002)\ncandidate disclosure serves the voter's Article 19(1)(a) right.\n\nPeople's Union for Civil Liberties (2013)\nsecret NOTA protects expression; it is not a binding reject option.\n\nAnoop Baranwal (2023) -> temporary appointment rule until legislation.\nThe VVPAT ruling is separately controlled by its full 2024 case label in Stage 06."
+        },
+        {
+          "title": "ECI-SEC boundary, reform priorities, traps and final answer spine",
+          "structural_type": "eci-reform-answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 49",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 50",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 51",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 52",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 53",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 54",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 55",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 57",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 58",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 59",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md#SESSION 60"
+          ],
+          "full_text": "ECI                                  STATE ELECTION COMMISSION\nParliament/State legislature/P/VP     Panchayat and municipal elections\nArticle 324                           Articles 243K and 243ZA\nnational election statutes            State local-government election law.\n\nPRELIMS FIREWALL\nCEC removal != EC removal | ECI advice != Tenth Schedule decision\n| ECI assists delimitation != sole delimiting authority\n| party registration != recognition | NOTA != automatic repoll.\n\nREFORM\ncredible plural appointment + stable secretariat/finance\n-> equal collegial security with accountability -> transparent complaint orders\n-> cleaner rolls -> faster disputes -> audited technology and campaign enforcement.\n\nMAINS SPINE\nArticle 324 purpose -> power/function -> legal boundary -> case-year\n-> independence deficit -> accountable reform -> trust-ecosystem verdict."
+        },
+        {
+          "title": "Appointment-law status and institutional-independence test",
+          "structural_type": "appointment-law-current-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md#core"
+          ],
+          "full_text": "ARTICLE 324\nPresident appoints CEC and ECs subject to parliamentary law.\n\nANOOP BARANWAL (2023)\nPM + LoP + CJI was an interim rule only until Parliament enacted a law.\n\nACT 49 OF 2023\nSearch Committee -> eligible panel -> PM + LoP + nominated Cabinet Minister ->\nPresident.\n\nDATED CONTROL — 28 AUGUST 2026\nAct operative; official 22 March 2024 order declined interim interference; no later\nofficial stay or merits judgment located.\n\nREFORM TEST\nindependence + transparency + diversity + reasoned selection + equal institutional\nprotection."
+        },
+        {
+          "title": "Roll, delimitation and election-dispute boundaries",
+          "structural_type": "roll-delimitation-dispute-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md#core"
+          ],
+          "full_text": "RPA 1950\nseat allocation and electoral-roll infrastructure; ordinary residence, qualifying dates,\nrevision, claims and objections.\n\nDELIMITATION\nstatutory Delimitation Commission; ECI participates but is not ordinary sole authority.\n\nRPA 1951\nnominations, campaign, poll, corrupt practices, disputes and election petitions.\n\nARTICLE 329(b)\nno mid-process challenge that interrupts election; post-result election petition before\nHigh Court, then statutory Supreme Court appeal."
+        },
+        {
+          "title": "Scheduling, repoll and countermanding legality chain",
+          "structural_type": "poll-intervention-legality-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md#core"
+          ],
+          "full_text": "SCHEDULE ANNOUNCEMENT\nECI fixes the programme under Article 324 and election law; legal notification follows\nthe statutory authority and stage.\n\nDISTURBED POLL\nadjournment or repoll requires the applicable RPA/Conduct Rules ground and recorded\nmaterial.\n\nCANDIDATE DEATH / BOOTH CAPTURE / CORRUPT INFLUENCE\nuse the exact statutory provision; countermanding is not a free-standing political\ndiscretion.\n\nCONTROL\nreasoned order -> natural justice where applicable -> preserve election timetable ->\npost-result petition for final election challenge."
+        }
+      ]
+    }
+  }
+}

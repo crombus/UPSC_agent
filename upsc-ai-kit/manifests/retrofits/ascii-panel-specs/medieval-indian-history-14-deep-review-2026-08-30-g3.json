@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-14",
+      "display_title": "Sher Shah Sur & the Sur Empire",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From Farid to Sher Shah",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FARID -> practical exposure in family parganas around Sasaram",
+            "BIHAR POLITICS -> service, alliances, revenue knowledge and fort strategy",
+            "SHER KHAN -> enlarges an Afghan regional base after Panipat",
+            "SURAJGARH / GAUR -> Bengal resources and corridor depth",
+            "CHAUSA 1539 + KANNAUJ 1540 -> Mughal displacement and Sur sovereignty",
+            "VERDICT: administrative experience and opportunity precede imperial scale.",
+            "MUST REMEMBER: Sher Shah's reign (1540-45) linked conquest to sarkar-pargana administration,",
+            "  revenue, roads, sarais and currency."
+          ],
+          "source_references": [
+            "Farid",
+            "Sher Khan",
+            "Sasaram",
+            "Bihar",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Sur chronology c.1510-1555",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c.1510 -> Farid gains pargana-level experience",
+            "1534 -> Surajgarh | 1537 -> Gaur captured by Sher Khan's side",
+            "1539 -> Chausa | 1540 -> Kannauj and formal sovereignty",
+            "1542 -> Malwa | 1543-44 -> Multan, upper Sindh and Rajasthan fields",
+            "1544 -> Samel | May 1545 -> death during Kalinjar siege",
+            "1545-53 -> Islam Shah | 1555 -> Humayun returns after fragmentation."
+          ],
+          "source_references": [
+            "Chronology",
+            "Surajgarh",
+            "Samel",
+            "Kalinjar",
+            "Islam Shah",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Bihar-Bengal scale-up to sovereignty",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "LOCAL BASE -> land knowledge + Afghan followers + forts + revenue",
+            "BENGAL CONTEST -> Surajgarh and Gaur enlarge resources and reputation",
+            "ROUTE CONTROL -> Gangetic communications expose Humayun's eastern campaign",
+            "MILITARY VICTORY -> Chausa and Kannauj redistribute forts and elite loyalty",
+            "POLITICAL TASK -> battlefield success must become collection and enforcement",
+            "OUTCOME: Sher Khan becomes Sher Shah by converting scale into sovereignty."
+          ],
+          "source_references": [
+            "Bihar",
+            "Bengal",
+            "Route control",
+            "Sovereignty",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Empire and campaign fields",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BENGAL TO INDUS -> useful claim for the broad reach of the Sur realm",
+            "KASHMIR -> explicitly excluded from the standard extent formula",
+            "MALWA 1542 -> western-central expansion",
+            "MULTAN / UPPER SINDH -> north-western campaign and corridor field",
+            "RAJASTHAN / SAMEL -> coercion, negotiation and uneven control",
+            "RULE: map corridors, forts and campaigns; do not draw a modern solid border."
+          ],
+          "source_references": [
+            "Empire extent",
+            "Malwa",
+            "Multan",
+            "Samel",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Afghan monarchy and personal supervision",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "AFGHAN NOBLES -> expectations of dignity, counsel and assignments",
+            "SHER SHAH -> forceful monarchy, direct scrutiny and rapid decision",
+            "STRENGTH -> coordination can be concentrated under a masterful sovereign",
+            "LIMIT -> jagir/iqta expectations and coalition politics do not disappear",
+            "SUCCESSION -> Islam Shah asserts monarchy but deepens noble resentment",
+            "FRAGILITY -> high personal capacity is difficult to reproduce after the ruler."
+          ],
+          "source_references": [
+            "Afghan nobility",
+            "Personal despotism",
+            "Islam Shah",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Territory and mediated countryside",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SOVEREIGN CENTRE",
+            " -> SARKAR / SHIQ: territorial command and overlapping officials",
+            " -> PARGANA: assessment, records, policing and local information",
+            " -> VILLAGE: cultivators, muqaddams and other intermediaries",
+            "ZAMINDARS -> controlled, punished or negotiated with; not abolished",
+            "TRAP: this was neither Akbar's mature suba system nor modern ryotwari."
+          ],
+          "source_references": [
+            "Sarkar",
+            "Shiq",
+            "Pargana",
+            "Zamindar",
+            "Muqaddam",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Revenue measurement and record chain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SOWN LAND -> measurement",
+            " -> good / middling / bad classification",
+            " -> average yield and crop-rate schedule (rai)",
+            " -> general one-third state demand",
+            " -> patta records area, crop and amount due",
+            "QUALIFY -> cash/kind, local mediation, annual practice and Multan exception."
+          ],
+          "source_references": [
+            "Measurement",
+            "Rai",
+            "Patta",
+            "One-third",
+            "Multan",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Road-sarai-customs-dak circulation system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "ROADS -> old imperial corridors restored and improved",
+            "FOUR-ROAD FRAME -> Indus-Sonargaon; Agra-Rajasthan; Lahore-Multan; Burhanpur",
+            "SARAIS -> lodging + markets + relay + surveillance at two-karoh intervals",
+            "DAK / NEWS -> information and orders move through nodal stations",
+            "CUSTOMS -> duties simplified around entry and sale",
+            "RESULT -> commerce, army movement and coercive reach reinforce one another."
+          ],
+          "source_references": [
+            "Roads",
+            "Sarais",
+            "Dak",
+            "Customs",
+            "Two karohs",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Money, order and military controls",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "RUPEE -> fine silver standard with durable later influence, not first coin",
+            "TRIMETALLIC FIELD -> gold, silver and copper support exchange and payments",
+            "LAW AND ORDER -> merchant safety backed by harsh collective responsibility",
+            "CHEHRA -> descriptive roll of soldiers | DAGH -> branding of horses",
+            "CONTINUITY -> Alauddin precedent; Sher Shah revival; Akbar systematisation",
+            "RULE: administrative effectiveness is not the same as modern legality."
+          ],
+          "source_references": [
+            "Silver rupee",
+            "Law and order",
+            "Chehra",
+            "Dagh",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Forts, religion and succession limits",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "ROHTAS, NORTHWEST -> frontier control and Mughal-return check",
+            "ROHTASGARH, BIHAR -> distinct site; never conflate the two forts",
+            "RAISEN / PURAN MAL -> violence with political and religious readings",
+            "KALINJAR 1545 -> siege death ends Sher Shah's personal direction",
+            "ISLAM SHAH -> continuity plus sharper conflict with Afghan nobles",
+            "SUR COLLAPSE -> succession and faction reopen the field to Humayun.",
+            "CLOSE DISTINCTION: Patta-qabuliyat and measurement claims need source-aware wording rather",
+            "  than projection of later uniform practice."
+          ],
+          "source_references": [
+            "Rohtas",
+            "Rohtasgarh",
+            "Puran Mal",
+            "Kalinjar",
+            "Succession",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Continuity, source method and Akbar",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "SULTANATE -> measurement, assignments, dagh-chehra and road precedents",
+            "SUR -> practical revival, standardisation and fast integrated implementation",
+            "AKBAR -> wider scale, longer duration, mansabdari and refined revenue systems",
+            "SARWANI -> valuable retrospective Afghan memory; praise needs corroboration",
+            "SASARAM TOMB -> material evidence for patronage and legitimacy, not every reform",
+            "VERDICT: Sher Shah was a bridge and systematiser, not Akbar's full blueprint.",
+            "EVIDENCE LIMIT: Calling Sher Shah a Mughal precursor is useful only when institutional",
+            "  continuity and later adaptation are qualified."
+          ],
+          "source_references": [
+            "Continuity",
+            "Akbar",
+            "Sarwani",
+            "Sasaram tomb",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 14 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> short reign, dense state-building and a longer Sur phase",
+            "RISE -> pargana experience + Bihar-Bengal base + Mughal displacement",
+            "CAPACITY -> revenue + money + roads + information + order + military controls",
+            "MEDIATION -> zamindars and local officials remain inside the system",
+            "LIMITS -> uneven reach, harsh coercion, personal supervision and succession",
+            "CLOSE -> achievement lay in integration and execution within a longer process."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "State capacity",
+            "Qualified synthesis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\14_Sher-Shah-and-the-Sur-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g3\\medieval-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

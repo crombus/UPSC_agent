@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-25",
+      "display_title": "Decline of the Mughal Empire & the Eighteenth Century",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Chronology, 1707-1761",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1707-12 Bahadur Shah -> 1712-13 Jahandar/Zulfiqar",
+            "1713-19 Farrukhsiyar/Sayyids -> 1719 brief emperors",
+            "1719-48 Muhammad Shah | 1720 Sayyid fall | 1739 Nadir Shah",
+            "1748-54 Ahmad Shah -> 1754-59 Alamgir II -> Shah Jahan III/Shah Alam II",
+            "1748-67 Abdali invasions | 1761 Third Panipat",
+            "BOUND -> Buxar 1764/Diwani 1765 and Company state belong Modern History.",
+            "MUST REMEMBER: Mughal decline was multi-causal: jagirdari stress, succession, war, regional",
+            "  power and fiscal-military change interacted."
+          ],
+          "source_references": [
+            "1707-1761",
+            "Sayyid Brothers",
+            "Nadir Shah",
+            "Panipat",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Decline as a converging system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "NOT -> one weak ruler + one religion + one battle + immediate collapse",
+            "STRUCTURE -> succession + noble faction + jagir/agrarian stress + war",
+            "REGION -> successor states and resistance powers reorganise authority",
+            "SHOCK -> Nadir/Abdali exploit and deepen pre-existing weakness",
+            "CONTINUITY -> dynasty, trade, agriculture and culture persist unevenly",
+            "VERDICT -> central contraction plus regional reordering."
+          ],
+          "source_references": [
+            "Causation map",
+            "Political",
+            "Fiscal",
+            "Agrarian",
+            "Military",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Succession and the Sayyid wizarat",
+          "structural_type": "actor-timeline",
+          "ascii_lines": [
+            "NO PRIMOGENITURE -> prince needs province + army + noble/Rajput coalition",
+            "EMPEROR -> seal/title/appointment legitimacy persists after coercive decline",
+            "WAZIR/NOBLES -> compete for access, jagirs, governorships and succession",
+            "SAYYIDS -> Abdullah + Husain Ali make/unmake emperors; Farrukhsiyar 1719",
+            "1720 FALL -> does not restore uncontested monarchy",
+            "TRAP -> Irani/Turani/Hindustani labels are networks, not permanent parties."
+          ],
+          "source_references": [
+            "Bahadur Shah I",
+            "Farrukhsiyar",
+            "Sayyid Brothers",
+            "Wizarat",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Four jagirdari terms",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "JAGIR -> transferable revenue assignment | MANSAB -> rank/service claim",
+            "PAIBAQI -> revenue pool awaiting/available for assignment",
+            "BE-JAGIRI -> delay or shortage of suitable productive assignment",
+            "JAMA -> paper assessment | HASIL -> realised collection",
+            "TRANSFER -> restrains entrenchment but encourages short-term extraction",
+            "RULE -> crisis means malfunction and scarcity, not disappearance of jagirs."
+          ],
+          "source_references": [
+            "Jama",
+            "Hasil",
+            "Paibaqi",
+            "Be-jagiri",
+            "Jagir",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The jagirdari feedback loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "MORE CLAIMS -> mansabdars + Deccani/Maratha entrants + court rewards",
+            "POOR JAGIR -> low hasil + debt + thin contingent",
+            "EXTRACT -> short tenure encourages coercion/corruption",
+            "LOCAL RESPONSE -> zamindar bargain/resistance + peasant flight + chauth",
+            "RESULT -> still lower hasil -> faction for better office/assignment",
+            "VERDICT -> fiscal + administrative + military + social feedback."
+          ],
+          "source_references": [
+            "Jagirdari crisis",
+            "Extraction",
+            "Zamindar resistance",
+            "Contingents",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The inherited Deccan burden",
+          "structural_type": "legacy-chain",
+          "ascii_lines": [
+            "1687-1707 -> annexation + forts + garrisons + long supply + emperor absent north",
+            "CLAIMANTS -> defeated Deccani/Maratha elites enter Mughal service system",
+            "MARATHA WAR -> parallel revenue and mobile resistance reduce collection",
+            "AURANGZEB CHOICE -> buffers removed and settlements missed",
+            "INHERIT -> earlier mansab growth + agrarian/local power + no primogeniture",
+            "TRAP -> responsibility matters, but one ruler did not create every structure."
+          ],
+          "source_references": [
+            "Deccan legacy",
+            "Annexation",
+            "Maratha war",
+            "Jama-hasil gap",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "From centre to region: a spectrum",
+          "structural_type": "authority-spectrum",
+          "ascii_lines": [
+            "CENTRE -> emperor retains legitimacy and titles",
+            "AUTONOMOUS PROVINCE -> Mughal governor controls revenue/army, nominal loyalty",
+            "SUCCESSOR STATE -> durable court and provincial fiscal-military regime",
+            "RESISTANCE STATE -> zamindar/community/military base builds new authority",
+            "TRIBUTE/CHAUTH -> influence without uniform direct administration",
+            "RULE -> devolution and adaptation, not simple secession or anarchy."
+          ],
+          "source_references": [
+            "Centre-region spectrum",
+            "Autonomy",
+            "Imperial legitimacy",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bengal, Awadh and Hyderabad compared",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BENGAL -> Murshid Quli Khan; revenue control + commerce + nominal tribute",
+            "AWADH -> Saadat Khan; zamindar management + Ganga military-fiscal base",
+            "HYDERABAD -> Nizam-ul-Mulk; Deccan base after withdrawal from Delhi faction",
+            "COMMON -> Mughal titles/offices/administration and Persianate court",
+            "DIFFER -> ecology, revenue, military network and company exposure",
+            "TRAP -> autonomy did not begin with modern independence declarations."
+          ],
+          "source_references": [
+            "Bengal",
+            "Awadh",
+            "Hyderabad",
+            "Successor states",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Jats, Sikhs and Marathas: bounded snapshot",
+          "structural_type": "regional-snapshot",
+          "ascii_lines": [
+            "JATS -> Churaman/Badan Singh/Suraj Mal; Bharatpur forts + zamindari/routes",
+            "SIKHS -> Banda phase -> repression/reorganisation -> misls/Dal Khalsa",
+            "ROHILLAS -> Afghan service/migration networks establish Rohilkhand power",
+            "MARATHAS -> Shahu + Peshwa + Holkar/Scindia/Gaekwad/Bhonsle",
+            "INSTRUMENT -> chauth/sardeshmukhi + mobile armies + bargaining",
+            "TRAP -> no single anti-Mughal bloc or uniform successor empire."
+          ],
+          "source_references": [
+            "Jats",
+            "Sikhs",
+            "Marathas",
+            "Regional powers",
+            "Topic boundary",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Nadir Shah, Abdali and Panipat",
+          "structural_type": "shock-sequence",
+          "ascii_lines": [
+            "1739 KARNAL -> Mughal command/faction failure -> Delhi sack and extraction",
+            "NADIR -> devastating raid and exposure; not original cause or Indian annexation",
+            "ABDALI 1748-67 -> repeated Punjab/north-India interventions",
+            "1761 -> Abdali coalition defeats Marathas; Mughal emperor not main belligerent",
+            "CAUSE -> supply + alliances + non-combatants + Rohilla/Abdali coordination",
+            "LIMIT -> Panipat checks northern bid, not Maratha power or British inevitability.",
+            "CLOSE DISTINCTION: Hyderabad, Awadh and Bengal were successor states that adapted Mughal",
+            "  institutions, not mere evidence of anarchy."
+          ],
+          "source_references": [
+            "Nadir Shah",
+            "Abdali",
+            "Karnal",
+            "Third Battle of Panipat",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional economic and cultural continuity",
+          "structural_type": "continuity-map",
+          "ascii_lines": [
+            "CONTINUE -> agriculture + textiles + internal trade + credit + urban demand",
+            "DISRUPT -> war + multiple levies + route insecurity + invasion by region",
+            "BENGAL -> commercial strength can coexist with weak Delhi centre",
+            "PATRONAGE -> Awadh/Hyderabad/Rajasthan/Punjab/Bengal/Maratha courts",
+            "ARTISTS/LITERATI -> movement creates regional styles using Mughal forms",
+            "VERDICT -> political fragmentation is not civilisational darkness.",
+            "EVIDENCE LIMIT: The eighteenth century is a transition with regional growth and new",
+            "  competition, not a teleological prelude to British rule."
+          ],
+          "source_references": [
+            "Economic continuity",
+            "Jagat Seth",
+            "Regional patronage",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Non-inevitability and final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "PERIODISE -> 1687-1707 burden -> 1707-39 court/region -> 1739-61 multipolarity",
+            "EXPLAIN -> jagir feedback + succession/wizarat + local/regional power",
+            "SHOCK -> Nadir/Abdali reveal and deepen weakness",
+            "QUALIFY -> economy/culture and Mughal legitimacy continue unevenly",
+            "HISTORIOGRAPHY -> Sarkar + Chandra + agrarian + regional synthesis",
+            "PYQ -> zero direct Topic-25 routes, 2018-2026; Mains has no key",
+            "BRIDGE -> fragmentation permits Company gains; Modern History explains them."
+          ],
+          "source_references": [
+            "Non-inevitability",
+            "Answer architecture",
+            "Qualified verdict",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\25_Decline-of-the-Mughal-Empire.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g3\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g4\\medieval-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-25\\g5\\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

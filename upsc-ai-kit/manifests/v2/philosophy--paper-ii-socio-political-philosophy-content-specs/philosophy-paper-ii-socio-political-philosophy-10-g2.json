@@ -1,0 +1,755 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-28",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+  "variant": "learner-v2",
+  "generation": 2,
+  "approval": false,
+  "official_syllabus_verbatim": "Caste Discrimination: Gandhi and Ambedkar.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Learning-Session.md",
+  "source_provenance": {
+    "canonical_owner": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md",
+    "advanced_dossier": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+    "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+    "retained_learning_session": null,
+    "retained_workbook": null,
+    "assembly_mode": "source-complete-canonical-owner-fallback"
+  },
+  "core_sessions": [
+    {
+      "title": "Caste Discrimination: The Conceptual Grammar and Its Reproduction",
+      "plain": "Caste discrimination is not one interchangeable word. Varna is a fourfold normative classification in Brahmanical texts; jati is a locally organised, birth-based and generally endogamous group; caste is the wider order linking birth, status, occupation and closure; untouchability is an extreme practice of stigma and exclusion.",
+      "technical": "The philosophical target is birth-based graded inequality reproduced by endogamy, hereditary status, occupational closure, purity-pollution rules, sanctifying authority and unequal social-economic power. Ambedkar's decisive distinction is a division of labour from a hereditary, ranked division of labourers.",
+      "answer": "Caste persists not because work is divided, but because persons are ranked and closed into inherited social locations across generations.",
+      "keywords": [
+        "varna, jati, caste and untouchability",
+        "endogamy and hereditary status",
+        "purity-pollution and social closure",
+        "division of labourers",
+        "graded inequality"
+      ],
+      "usage": "Open a factors question by separating the four terms; then trace varna, jati, caste and untouchability separately; trace endogamy and hereditary status through purity-pollution and social closure to graded inequality; use 'division of labourers' against the functionalist defence; then give a qualified institutional-and-relational verdict.",
+      "mechanism": "Marriage closure reproduces birth membership; inherited membership attaches status and restricted occupations; ritual rules legitimate distance; sanctions and dependence make the hierarchy durable.",
+      "consequence": "The system fragments solidarity: a group can be subordinate above and superior below, so common resistance is obstructed by graded rather than merely binary inequality.",
+      "trap": "Never equate varna, jati, caste and untouchability, or describe Indian caste as a single unchanging historical institution.",
+      "objection": "A functional division of work can allow mobility and choice; why not call caste a traditional division of labour?",
+      "reply": "Because caste fixes and ranks workers by birth, restricts mobility and association, and makes the social worth of persons—not simply the allocation of tasks—hereditary.",
+      "limit": "Endogamy is central but not a complete explanation of regional variation, material power or the historical formation of every jati.",
+      "exam": "For 2024-style factor questions: define precisely, give four linked mechanisms, state the graded-inequality consequence and conclude that abolition requires changing both institutions and relations.",
+      "revision": [
+        "Varna is not identical with lived jati.",
+        "Untouchability is an intensified symptom of caste hierarchy, not a synonym for all caste.",
+        "Endogamy reproduces boundaries across generations.",
+        "Hereditary status assigns worth by birth.",
+        "Caste is a division of labourers, not merely labour.",
+        "Graded inequality weakens solidarity by distributing relative privilege through the hierarchy."
+      ],
+      "visuals": [
+        {
+          "title": "Four terms, four scopes",
+          "caption": "The distinctions stop a conceptual error before an answer begins.",
+          "lines": [
+            "VARNA -> textual fourfold normative classification",
+            "JATI  -> local birth-based, endogamous social group",
+            "CASTE -> order joining birth + rank + occupation + closure",
+            "UNTOUCHABILITY -> extreme stigma and exclusion within hierarchy"
+          ]
+        },
+        {
+          "title": "How caste reproduces itself",
+          "caption": "A causal chain, not a list of social features.",
+          "lines": [
+            "endogamy -> inherited membership -> hereditary status",
+            "        -> occupational closure -> dependence and sanction",
+            "        -> ranked social worth -> graded inequality"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Caste, Democracy and the Body Politic",
+      "plain": "Equal votes do not automatically make people social equals. Universal franchise can give subordinated groups voice and bargaining power, while caste can still shape candidate selection, patronage and bloc mobilisation.",
+      "technical": "Political democracy operates alongside a social order. Caste intersects with land, labour and education without being reducible to class; endogamy also regulates marriage and makes gender central to caste reproduction.",
+      "answer": "One person, one vote can open representation; it cannot by itself erase the unequal social value attached to persons by caste.",
+      "keywords": [
+        "universal franchise",
+        "representation and political assertion",
+        "caste supremacy and caste mobilisation",
+        "class, gender and endogamy",
+        "formal and social equality"
+      ],
+      "usage": "Treat caste in the body politic as ambivalent: distinguish an oppressed group's representation and political assertion from caste supremacy; connect universal franchise to formal and social equality, test caste mobilisation through class, gender and endogamy, and judge the programme by its anti-hierarchical effects.",
+      "mechanism": "Franchise creates constituencies and representation; inherited social power can still govern resources, party access and everyday association, keeping formal equality from becoming equal standing.",
+      "consequence": "Democracy may become a site of social bargaining and voice, yet political representation alone leaves the reproduction mechanism of caste intact.",
+      "trap": "Do not say all caste-based political assertion is anti-democratic, or that caste is reducible to class, occupation or gender alone.",
+      "objection": "If political mobilisation uses caste identity, does it necessarily reinforce caste?",
+      "reply": "No. Assertion can be an instrument of equal citizenship and voice; its normative character depends on whether it contests inherited hierarchy or reproduces it.",
+      "limit": "This distinction does not make electoral mobilisation pure: patronage, elite capture and bloc politics remain live risks.",
+      "exam": "For 2022 Q1(b), use franchise -> representation -> continuing social closure -> qualified verdict, with one caste-class-gender bridge.",
+      "revision": [
+        "Universal franchise changes political opportunity, not social hierarchy automatically.",
+        "Representation is necessary for voice but is not annihilation.",
+        "Caste and class interact but have distinct mechanisms.",
+        "Endogamy links caste continuity to control over marriage.",
+        "Political assertion by oppressed groups is not equivalent to caste supremacy."
+      ],
+      "visuals": [
+        {
+          "title": "Political democracy versus social hierarchy",
+          "caption": "The contradiction frames Ambedkar's social-democratic critique.",
+          "lines": [
+            "universal franchise -> equal vote -> constituency and voice",
+            "                         |",
+            "caste hierarchy -> unequal status -> unequal everyday power",
+            "                         |",
+            "TASK -> convert political equality into social equality"
+          ]
+        },
+        {
+          "title": "Three interacting, non-identical structures",
+          "caption": "Neither a class-only nor a culture-only explanation is enough.",
+          "lines": [
+            "CASTE: rank, endogamy, stigma",
+            "CLASS: land, labour, education, resources",
+            "GENDER: regulation of marriage and sexuality",
+            "intersection -> mutually reinforcing, not simply additive"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gandhi I: Periodising Varna, Caste and Untouchability",
+      "plain": "Gandhi's position changed across decades. An early idealised varna distinguished hereditary duty from superiority; his anti-untouchability campaign condemned exclusion; later writings were increasingly critical of birth-based caste barriers and more supportive of inter-caste marriage.",
+      "technical": "Periodisation is an interpretive discipline, not an excuse to erase the earlier theoretical liability: a supposedly rank-free hereditary allocation can still preserve birth allocation and social closure.",
+      "answer": "Gandhi cannot be reduced either to a defender of every caste form or to an opponent of every form of varna throughout his life.",
+      "keywords": [
+        "Gandhi's evolving position",
+        "idealised varna",
+        "birth allocation",
+        "anti-untouchability campaign",
+        "inter-caste marriage",
+        "historical contested terminology"
+      ],
+      "usage": "Periodise Gandhi's evolving position: state idealised varna and birth allocation, then the anti-untouchability campaign and later support for inter-caste marriage; flag the contested terminology; finally assess whether the later movement overcomes the hereditary-structure objection.",
+      "mechanism": "Gandhi sought to separate duty from rank, then mobilised religious and public conscience against exclusion; the unresolved mechanism is that inherited assignment can survive a formal denial of rank.",
+      "consequence": "The position makes moral responsibility of privileged castes visible but remains vulnerable where social position is still allocated by birth.",
+      "trap": "Do not call Gandhi's use of 'Harijan' an unqualified emancipatory term: identify it as historical usage and note its later rejection by many Dalit thinkers as paternalistic.",
+      "objection": "Does Gandhi's condemnation of untouchability prove that he rejected all forms of varna from the outset?",
+      "reply": "No. His early idealised varna/caste distinction and later trajectory must be held together; the earlier defence is precisely why periodisation matters.",
+      "limit": "The owner does not license unverified dates for every shift or verbatim quotations from Gandhi without a critical edition.",
+      "exam": "For a Gandhi stem, use chronology before evaluation: early ideal -> anti-untouchability -> later opening -> residual birth-allocation objection.",
+      "revision": [
+        "Gandhi's view is not timelessly fixed.",
+        "Earlier idealised varna was presented as duty without superiority.",
+        "The remaining problem is hereditary allocation itself.",
+        "Temple entry, sanitation work and anti-untouchability activism belong to the campaign phase.",
+        "'Harijan' is historical and contested terminology."
+      ],
+      "visuals": [
+        {
+          "title": "Gandhi: a staged position, not a slogan",
+          "caption": "Chronology protects both accuracy and criticism.",
+          "lines": [
+            "EARLIER -> idealised hereditary duty, no asserted superiority",
+            "CAMPAIGN -> untouchability condemned; temple entry and service",
+            "LATER   -> greater criticism of birth barriers/inter-caste marriage",
+            "QUESTION -> can birth allocation survive a denial of rank?"
+          ]
+        },
+        {
+          "title": "The varna liability",
+          "caption": "The objection locates the structural problem precisely.",
+          "lines": [
+            "idealised division of duty -> inherited allocation",
+            "inherited allocation -> restricted choice and association",
+            "therefore -> hierarchy can persist despite denied superiority"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gandhi II: Moral-Reform Diagnosis, Method and Achievement",
+      "plain": "For Gandhi, untouchability is a moral and religious wrong incompatible with truth, non-violence and equal spiritual worth. Reform therefore requires changed conduct by privileged castes, not sympathy alone.",
+      "technical": "The Gandhian method joins self-purification, repentance, satyagraha, constructive work, education, sanitation, common service and religious reinterpretation. Legal prohibition is necessary but cannot alone produce fellowship.",
+      "answer": "Gandhi makes the oppressor answerable to conscience: social equality cannot be secured by a law whose ethical meaning no one lives.",
+      "keywords": [
+        "ahimsa and truth",
+        "self-purification and repentance",
+        "satyagraha",
+        "constructive programme",
+        "religious reinterpretation",
+        "means and ends"
+      ],
+      "usage": "Build the answer through ahimsa and truth: untouchability violates moral unity; self-purification and repentance make privileged castes answerable; satyagraha, constructive programme and religious reinterpretation change practice; means-and-ends unity then supports a qualified fellowship verdict.",
+      "mechanism": "Moral condemnation activates responsibility among the privileged; constructive practices change everyday relations; non-violence seeks reform without reproducing domination through the means.",
+      "consequence": "His mass moral-political intervention made caste humiliation publicly visible and made political independence without internal reform appear incomplete.",
+      "trap": "Do not make Gandhi only 'conscience' or say that law was unnecessary; do not credit him with Ambedkar's structural diagnosis.",
+      "objection": "Can heart-change be dismissed because it lacks an institutional form?",
+      "reply": "No. Law cannot itself generate fellowship, and privileged responsibility matters; but this insight is insufficient if rights and autonomous voice are absent.",
+      "limit": "The method depends on moral transformability and offers no guaranteed transfer of power when the privileged refuse to change.",
+      "exam": "For 2022 Q2(b), give Gandhi's strongest case before two criticisms: paternalism/autonomy and structure/power; close with a conditional rather than dismissive verdict.",
+      "revision": [
+        "Untouchability violates ahimsa and truth.",
+        "Repentance is demanded from the privileged, not charity alone.",
+        "Satyagraha and constructive work are social practices.",
+        "Law is necessary but does not by itself generate fellowship.",
+        "Means must prefigure equal relations."
+      ],
+      "visuals": [
+        {
+          "title": "Gandhi's moral-reform argument",
+          "caption": "The method follows the diagnosis rather than appearing as a list.",
+          "lines": [
+            "equal spiritual worth -> untouchability is moral/religious wrong",
+            "-> repentance and self-purification -> changed conduct",
+            "-> satyagraha + constructive work -> everyday fellowship"
+          ]
+        },
+        {
+          "title": "What Gandhian reform can and cannot do",
+          "caption": "Its strength and limitation must appear in the same answer.",
+          "lines": [
+            "STRENGTH: mobilises conscience; locates privileged responsibility",
+            "LIMIT: goodwill cannot guarantee rights, power or representation",
+            "VERDICT: moral reform matters, but cannot substitute for safeguards"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gandhi III: Evaluation, Paternalism and the Structural Reply",
+      "plain": "A fair critique does not deny Gandhi's anti-untouchability work. It asks whether a reform led through the conscience of caste Hindus gives oppressed people sufficient autonomous voice and structural power.",
+      "technical": "Three linked objections are paternalism, structural insufficiency and the varna liability. Gandhi can reply that oppressor responsibility, constructive work and non-violent social practice are indispensable; the residual question is whether they transfer power.",
+      "answer": "Gandhi's moral reform identifies privileged responsibility, but its paternalism and structural insufficiency remain until autonomous voice, rights and power let oppressed people act as equal political agents.",
+      "keywords": [
+        "paternalism",
+        "autonomous voice",
+        "structural insufficiency",
+        "religious reform",
+        "rights and power",
+        "qualified Gandhian verdict"
+      ],
+      "usage": "State the paternalism, structural-insufficiency and varna objections; give Gandhi's religious-reform and privileged-responsibility reply; test both against autonomous voice, rights and power; then deliver a qualified Gandhian verdict rather than a catalogue of praise and blame.",
+      "mechanism": "Where representation, property and institutional access remain unchanged, conscience-based reform can leave dependency intact; constructive action improves relations but does not automatically alter their power conditions.",
+      "consequence": "The best synthesis makes Gandhian moral transformation a support for, not a replacement of, equal rights and self-representation.",
+      "trap": "Never manufacture a simple Gandhi-Ambedkar harmony or imply that their difference was only tone.",
+      "objection": "Does reliance on social conscience necessarily make Gandhi irrelevant to an anti-caste answer?",
+      "reply": "No. It identifies the moral work law cannot compel. Its relevance is conditional: it must serve equal agency rather than speak in place of it.",
+      "limit": "No amount of goodwill alone specifies institutional design, remedies or a route from social service to equal representation.",
+      "exam": "Use this session for the evaluative paragraph in Gandhi and comparison answers; it must not eclipse Gandhi's positive moral argument.",
+      "revision": [
+        "Paternalism concerns speaking for rather than enabling voice.",
+        "Structural criticism targets power, property and representation.",
+        "Gandhi's strongest reply is responsibility plus social practice.",
+        "Rights without fellowship are fragile; fellowship without rights is dependent on benevolence.",
+        "A defensible synthesis remains Ambedkarite in structure."
+      ],
+      "visuals": [
+        {
+          "title": "A critical answer's three moves",
+          "caption": "Each criticism earns marks only with its strongest reply.",
+          "lines": [
+            "paternalism -> autonomous oppressed leadership -> responsibility still matters",
+            "structure -> rights/representation needed -> practice changes relations",
+            "varna -> birth allocation persists -> later movement softens, not erases, liability"
+          ]
+        },
+        {
+          "title": "The non-substitution rule",
+          "caption": "The diagram prevents a false either/or.",
+          "lines": [
+            "moral transformation + enforceable equality + autonomous voice",
+            "NOT: conscience instead of rights",
+            "NOT: law instead of fraternity"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ambedkar I: Endogamy, Graded Inequality and the Caste Diagnosis",
+      "plain": "Ambedkar treats caste as a system, not merely a bad custom. Endogamy maintains closed marriage circles; hereditary status, religious authority and social-economic power make inequality reproduce itself.",
+      "technical": "In *Castes in India* (1916), endogamy is a central reproductive mechanism. Graded inequality explains why caste is not a single oppressor/oppressed binary: each level can be dominated from above yet invested in distinction from below.",
+      "answer": "Caste is a closed, ranked division of labourers; that is why removing one abusive practice cannot by itself produce fraternity.",
+      "keywords": [
+        "Castes in India (1916)",
+        "endogamy",
+        "closed marriage circle",
+        "division of labourers",
+        "graded inequality",
+        "anti-social and anti-national"
+      ],
+      "usage": "Anchor the mechanism in Castes in India (1916): endogamy closes the marriage circle, inherited membership creates a division of labourers, graded inequality fractures solidarity, and the anti-social consequence distinguishes cultural plurality from institutionalised unequal status.",
+      "mechanism": "Control over marriage preserves group boundaries; rank distributes incentives for distinction; sacred and material sanctions turn a social convention into a durable structure of power.",
+      "consequence": "Caste blocks public spirit, free association and collective action; it is anti-social not because all difference is wrong, but because difference is organised as unequal status.",
+      "trap": "Do not reduce Ambedkar to untouchability, class, occupation, or a single historical-origin claim about every caste.",
+      "objection": "Is endogamy merely a private marriage preference?",
+      "reply": "No. In this analysis it is a social mechanism that closes membership and transmits rank, though it must be paired with authority and power to explain the whole system.",
+      "limit": "Endogamy names a central mechanism, not an exhaustive historical genealogy or a substitute for regional variation.",
+      "exam": "For 2024 Q1(c) and 2021 Q4(a), make the mechanism do the explanatory work before listing remedies.",
+      "revision": [
+        "Endogamy is a mechanism of caste reproduction.",
+        "Caste ranks workers, not only tasks.",
+        "Graded inequality obstructs solidarity.",
+        "Cultural plurality differs from caste hierarchy.",
+        "Caste joins status, power, authority and inherited association."
+      ],
+      "visuals": [
+        {
+          "title": "Ambedkar's reproduction mechanism",
+          "caption": "The causal account connects family regulation to public hierarchy.",
+          "lines": [
+            "closed marriage circle -> endogamy -> inherited caste membership",
+            "-> rank and occupational closure -> social sanction and dependence",
+            "-> graded inequality -> fractured solidarity"
+          ]
+        },
+        {
+          "title": "Why graded inequality matters",
+          "caption": "The ladder explains a political problem that a binary model misses.",
+          "lines": [
+            "group A: privileged over B; group B: subordinated to A, superior to C",
+            "therefore -> distributed interest in distinction -> weak common solidarity"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ambedkar II: Annihilation Rather Than Reform of Abuse",
+      "plain": "Ambedkar rejects reform confined to untouchability because caste fragments society and denies free occupation and association. The question is not how to make hierarchy kinder but how to remove its reproductive and normative foundation.",
+      "technical": "In *Annihilation of Caste* (1936), the argument targets authority insofar as it sanctifies rank and separation. Inter-dining alone is not a reliable break; inter-caste marriage attacks endogamy, while education, organisation, self-respect and political agency enable collective emancipation.",
+      "answer": "Annihilation means dismantling the authority and social mechanisms that reproduce hereditary rank, not merely correcting its harshest outward practice.",
+      "keywords": [
+        "Annihilation of Caste (1936)",
+        "sanctified belief-system",
+        "inter-caste marriage",
+        "education, organisation and self-respect",
+        "reform and annihilation",
+        "free association"
+      ],
+      "usage": "Reconstruct Annihilation of Caste (1936) in order: sanctified belief supports rank; isolated reform leaves it intact; endogamy reproduces it; inter-caste marriage attacks closure; education, organisation, self-respect and free association support annihilation rather than adjustment.",
+      "mechanism": "The remedy meets the mechanism: inter-caste marriage attacks closure; critical education challenges authority; organisation turns scattered suffering into voice; rights and representation alter power.",
+      "consequence": "Anti-caste politics becomes a project of equal association and self-respect rather than a programme of benevolent uplift.",
+      "trap": "Do not turn annihilation into a slogan, quote it without edition/page, or say that inter-dining alone was Ambedkar's sufficient remedy.",
+      "objection": "Does attacking caste-sanctioning authority amount to denying freedom of belief?",
+      "reply": "No. The target is authority used to impose civic inferiority; freedom of belief cannot entail a right to impose hereditary disability.",
+      "limit": "The state cannot simply legislate belief away, which is why social action, self-respect, constitutional morality and conversion remain part of the wider programme.",
+      "exam": "For 2023 Q3(b), show the social significance (fraternity and association) and political significance (voice, rights, representation) separately.",
+      "revision": [
+        "Annihilation is not adjustment within a hierarchy.",
+        "Inter-caste marriage attacks the endogamous mechanism.",
+        "Education and organisation are political agency, not self-help slogans.",
+        "Scriptural authority is criticised where it sanctions inequality.",
+        "Religious freedom cannot justify civic disability."
+      ],
+      "visuals": [
+        {
+          "title": "The annihilation argument",
+          "caption": "A five-step argument prevents the answer from becoming rhetoric.",
+          "lines": [
+            "sanctified rank -> isolated reform leaves foundation intact",
+            "-> endogamy reproduces closure -> destroy/reconstruct sanction",
+            "-> equal association, marriage, agency and self-respect"
+          ]
+        },
+        {
+          "title": "Remedy matched to mechanism",
+          "caption": "Each remedy is tied to the problem it addresses.",
+          "lines": [
+            "endogamy -> inter-caste marriage",
+            "sanctioned belief -> critical rejection/reconstruction",
+            "powerlessness -> education + organisation + representation"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ambedkar III: Constitutional Morality, Social Democracy and Conversion",
+      "plain": "Ambedkar argues that political democracy cannot last on a social order that denies equal status. Liberty, equality and fraternity must be lived together, not treated as separate constitutional ornaments.",
+      "technical": "His programme includes enforceable rights, remedies, representation, education, organisation and institutions independent of dominant goodwill. Constitutional morality restrains inherited social authority; conversion to Buddhism in 1956 expresses ethical reconstruction around reason, compassion, equality and fraternity.",
+      "answer": "A constitution can give equal votes; social democracy asks whether persons can actually meet as equals, and fraternity supplies the social relation that law alone cannot create.",
+      "keywords": [
+        "liberty, equality and fraternity",
+        "social democracy",
+        "constitutional morality",
+        "representation and rights",
+        "educate, organise and self-respect",
+        "conversion and Navayana"
+      ],
+      "usage": "Move from diagnosis to remedy: social power enforces caste -> rights protect action -> representation enables self-speaking -> constitutional morality disciplines hierarchy -> fraternity makes democracy a mode of associated living.",
+      "mechanism": "Rights change enforceable power and protect collective action; representation checks social majorities; constitutional morality prevents inherited authority from determining civic status.",
+      "consequence": "Political democracy without social democracy becomes contradictory: formal equal citizenship coexists with unequal social worth.",
+      "trap": "Do not call Ambedkar a theorist of reservation alone, or call constitutional morality an automatic product of constitutional text.",
+      "objection": "If law cannot make people fraternal, is Ambedkar's programme merely legalism?",
+      "reply": "No. His programme joins law with education, organisation, self-respect, fraternity and conversion; law is necessary because moral goodwill cannot be relied upon.",
+      "limit": "Fraternity cannot be fully legislated, and legal safeguards can be evaded without public commitment to constitutional norms.",
+      "exam": "Use this as the final Ambedkar section in 2020/2021 answers and as the evaluative bridge to Gandhi in a comparison.",
+      "revision": [
+        "Liberty, equality and fraternity are an inseparable social-democratic triad.",
+        "Constitutional morality must be cultivated; text alone is insufficient.",
+        "Representation is autonomous voice, not benevolent concession.",
+        "Conversion is conscience and collective social critique, not ritual change alone.",
+        "Reservation is one safeguard in a wider emancipatory programme."
+      ],
+      "visuals": [
+        {
+          "title": "From political to social democracy",
+          "caption": "The route shows why legal equality is necessary but incomplete.",
+          "lines": [
+            "equal vote -> rights and remedies -> representation and power",
+            "-> constitutional morality -> fraternity -> social democracy",
+            "BREAKDOWN RISK: inherited hierarchy can evade each legal form"
+          ]
+        },
+        {
+          "title": "Ambedkar beyond reservation",
+          "caption": "A safeguard is not the whole philosophy.",
+          "lines": [
+            "annihilation | endogamy | rights | representation | fraternity",
+            "education + organisation + self-respect | conversion | economic independence"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Gandhi-Ambedkar Debate: Poona Pact, Religion and Secular Democracy",
+      "plain": "Both thinkers condemn untouchability, but disagree whether caste itself is the disease, who should lead reform and whether moral reform can secure equal citizenship without autonomous political power.",
+      "technical": "The 1932 Poona Pact followed the Communal Award's separate electoral arrangements for the Depressed Classes. It substituted reserved seats in joint electorates with a primary-election mechanism and increased reserved seats; the philosophical issue is autonomous voice under a social majority, not a seat-count anecdote.",
+      "answer": "Gandhi asks how a tradition may reform its conscience; Ambedkar asks how persons subordinated by that tradition acquire equal power to reject its hierarchy.",
+      "keywords": [
+        "reform from within and annihilation",
+        "heart-change and institutional power",
+        "Poona Pact (1932)",
+        "separate and joint electorates",
+        "autonomous representation",
+        "secular democracy"
+      ],
+      "usage": "Compare on common axes: target, root mechanism, reforming agent, method, religion, representation and democracy. Do not write two biographies or narrate the Pact without its autonomy question.",
+      "mechanism": "Gandhi foregrounds conscience, penance and ethical fellowship; Ambedkar foregrounds endogamy, sanction and power, answered by rights, representation and structural transformation.",
+      "consequence": "The debate reveals that institutions without changed norms may be evaded, while moral reform without rights leaves justice contingent on dominant goodwill.",
+      "trap": "Never call the Poona Pact a harmonious consensus, invent figures or negotiating details, or reduce the dispute to a personality clash.",
+      "objection": "Are Gandhi and Ambedkar simply complementary—one moral and one legal?",
+      "reply": "No. Their diagnoses are substantively different. A defensible synthesis is Ambedkarite in structure and rights, with Gandhian moral change serving rather than replacing anti-caste transformation.",
+      "limit": "Neither an institutional guarantee of fraternity nor a voluntary conversion of dominant conscience can be assumed complete.",
+      "exam": "For 2019/2025 comparisons: run the grid, interpret Poona, add secular democracy, give two objection/reply chains and end with a graded verdict.",
+      "revision": [
+        "Both attack untouchability; their diagnosis of caste diverges.",
+        "Poona Pact concerns representation and autonomous voice.",
+        "Gandhi fears permanent separation; Ambedkar fears dependency on dominant-caste votes.",
+        "Secular democracy requires equal civic standing across religious authority.",
+        "Conscience and rights are not simple substitutes."
+      ],
+      "visuals": [
+        {
+          "title": "The comparison grid",
+          "caption": "Use axes, not parallel biographies.",
+          "lines": [
+            "GANDHI: primary evil untouchability | reforming conscience | non-violent reform",
+            "AMBEDKAR: caste/graded inequality | autonomous organisation | rights and annihilation",
+            "SHARED TEST: can equal civic standing be institutionally secured?"
+          ]
+        },
+        {
+          "title": "Poona Pact: the philosophical question",
+          "caption": "The event matters because it concentrates a theory of representation.",
+          "lines": [
+            "separate electoral arrangements -> Gandhi's unity concern",
+            "joint electorate + reserved seats -> Ambedkar's autonomy concern",
+            "QUESTION -> who chooses the representatives of the subordinated?"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Constitutional Safeguards, Affirmative Action and the Integrated Verdict",
+      "plain": "The Constitution and statutes can prohibit practices and create remedies, but enactment does not demonstrate social transformation. A Philosophy answer must distinguish legal status from its justification and effect.",
+      "technical": "Article 17 abolishes untouchability; the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, brought into force in 1990, is an enacted protective penal statute. The Mandal Commission is a 1979/1980 commission report; *Indra Sawhney* (1992) is a judgment; the 103rd Amendment (2019) is an enabling amendment; *Janhit Abhiyan* (2022) upheld it by majority.",
+      "answer": "Safeguards can alter power and access, but annihilation concerns the valuation of persons: enactment, notification, enforcement and social change are distinct stages.",
+      "keywords": [
+        "Article 17",
+        "SC/ST Prevention of Atrocities Act, 1989",
+        "compensatory and representational justification",
+        "merit proxy and advantage not guilt",
+        "Mandal, Indra Sawhney, 103rd Amendment",
+        "enactment and transformation"
+      ],
+      "usage": "Classify Article 17 and the SC/ST Prevention of Atrocities Act 1989, then choose a compensatory or representational justification for affirmative action. Answer the merit-proxy objection through continuing advantage, distinguish enactment from transformation, concede design costs, and return to Ambedkar's wider social-democratic verdict.",
+      "mechanism": "Group-directed exclusion transmits through access, resources and social standing, so a group-conscious remedy may correct a non-neutral baseline. Internal filters recognise that group markers are proxies, not moral essences.",
+      "consequence": "The distinction prevents legal citation from replacing argument and prevents formal equality from being mistaken for achieved equal standing.",
+      "trap": "Do not say a commission enacted law, an enabling amendment automatically creates reservation, a judgment proves a philosophical premise, or a statute proves that discrimination ended.",
+      "objection": "Does affirmative action abandon merit by allocating through group identity?",
+      "reply": "Not necessarily: examination performance is a fallible proxy for role capacity under unequal access. The reply contests the proxy, not the value of merit, while conceding design problems.",
+      "limit": "Legal illustrations are dated and limited; they must remain illustrations inside a Gandhi-Ambedkar answer, not a substitute for the two doctrines.",
+      "exam": "End every answer by returning from safeguard to social democracy: use one correctly typed legal illustration and a direct, qualified verdict.",
+      "revision": [
+        "Article 17 is a constitutional rule, not evidence of completed change.",
+        "Commission report, statute, amendment and judgment are different instruments.",
+        "Reservation has compensatory, distributive, representational and anti-domination arguments.",
+        "Merit is role capacity; an exam score is a proxy.",
+        "Ambedkar's programme exceeds safeguards and quotas.",
+        "The NCSC Article 338 anchor illustrates institutional protection only."
+      ],
+      "visuals": [
+        {
+          "title": "Four stages that must never be collapsed",
+          "caption": "Legal success and social success are different claims.",
+          "lines": [
+            "enactment -> notification -> enforcement -> social transformation",
+            "a rule at stage 1 does NOT prove success at stage 4"
+          ]
+        },
+        {
+          "title": "Affirmative-action argument map",
+          "caption": "Select a ground; do not blend labels without explanation.",
+          "lines": [
+            "compensatory -> rectify transmitted group harm",
+            "distributive -> offset unequal opportunity",
+            "representational -> legitimate responsive institutions",
+            "anti-domination -> break monopoly of social power"
+          ]
+        }
+      ]
+    }
+  ],
+  "owner_session_ranges": {
+    "1": [
+      "§1.1-§1.4: conceptual foundation and mechanisms",
+      "§8: common traps"
+    ],
+    "2": [
+      "§1.5: caste and democracy",
+      "§5.1-§5.3: contemporary body politic",
+      "§11.4: evidence bank",
+      "§12: link-outs"
+    ],
+    "3": [
+      "§2.1-§2.2: Gandhi's doctrine and evolving position",
+      "§9: keyword bank"
+    ],
+    "4": [
+      "§2.3-§2.6: anti-untouchability argument, method and strengths"
+    ],
+    "5": [
+      "§2.7: objections and replies",
+      "§7: criticisms and replies",
+      "§11.2: 15-mark method"
+    ],
+    "6": [
+      "§3.1-§3.2 and §3.4: doctrine, endogamy and graded inequality",
+      "§10: PYQ routing",
+      "§11.6: stem-specific spines"
+    ],
+    "7": [
+      "§3.3: Annihilation of Caste",
+      "§3.7: education, organisation and self-respect"
+    ],
+    "8": [
+      "§3.5-§3.6 and §3.8-§3.10: democracy, rights, conversion and Marx contrast"
+    ],
+    "9": [
+      "§4.1-§4.6: Gandhi-Ambedkar debate and Poona Pact",
+      "§6: inter-thinker debates",
+      "§11.3: 20-mark method"
+    ],
+    "10": [
+      "§5A.1-§5A.5: affirmative action",
+      "§11.0-§11.1: directive decoder and 10-mark method",
+      "§11.5: verdict formulas"
+    ]
+  },
+  "advanced_session_titles": [
+    "Moral Reform versus Structural Reconstruction: the Residual Dispute",
+    "Caste as Status Hierarchy versus Labour Order",
+    "Constitutional Morality versus Social Fraternity",
+    "Ambedkar and Marx: Interacting, Not Reducible, Structures of Domination"
+  ],
+  "ascii_panels": [
+    {
+      "title": "The central question and conceptual grammar",
+      "structural_type": "root-question-and-distinction-map",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "CENTRAL QUESTION -> how does birth-based hierarchy reproduce itself,",
+        "and how do Gandhi and Ambedkar differently seek its transformation?",
+        "VARNA != JATI != CASTE != UNTOUCHABILITY",
+        "varna: textual classification | jati: local endogamous group",
+        "caste: order of birth, rank, occupation and closure",
+        "untouchability: intensified stigma and exclusion"
+      ]
+    },
+    {
+      "title": "Reproduction: endogamy to graded inequality",
+      "structural_type": "causal-reproduction-chain",
+      "sessions": [
+        1,
+        6
+      ],
+      "lines": [
+        "endogamy -> inherited membership -> hereditary status",
+        "-> occupational closure + purity/pollution + sanction",
+        "-> division of labourers -> graded inequality",
+        "-> fractured solidarity and restricted free association",
+        "TRAP -> caste is not merely work division, class or prejudice."
+      ]
+    },
+    {
+      "title": "Caste in democracy and the body politic",
+      "structural_type": "formal-social-democracy-contrast",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "universal franchise -> political voice, representation, bargaining",
+        "caste power -> patronage, candidate selection, social blocs",
+        "ASSERTION for equal citizenship != DEFENCE of hereditary supremacy",
+        "class + gender interact with caste; neither erases its mechanism."
+      ]
+    },
+    {
+      "title": "Gandhi's staged position",
+      "structural_type": "chronology-with-residual-objection",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "EARLIER -> idealised varna: hereditary duty, no asserted superiority",
+        "CAMPAIGN -> untouchability condemned; temple entry and common service",
+        "LATER -> increasingly critical of birth barriers; inter-caste marriage",
+        "RESIDUE -> inherited allocation can preserve closure despite denied rank",
+        "TERM -> 'Harijan' is historical usage and contested, not neutral."
+      ]
+    },
+    {
+      "title": "Gandhian moral reform: argument and method",
+      "structural_type": "ethical-method-flow",
+      "sessions": [
+        4,
+        5
+      ],
+      "lines": [
+        "equal spiritual worth -> untouchability violates truth and ahimsa",
+        "-> privileged caste responsibility, repentance, self-purification",
+        "-> satyagraha + constructive programme + reinterpretation",
+        "STRENGTH -> moral responsibility and changed daily practice",
+        "LIMIT -> conscience does not guarantee rights, power or voice."
+      ]
+    },
+    {
+      "title": "Ambedkar's caste diagnosis",
+      "structural_type": "mechanism-and-consequence-ladder",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "Castes in India (1916) -> endogamy closes the marriage circle",
+        "closed circle -> caste reproduction -> status hierarchy",
+        "graded inequality -> each level has stake in distinction below",
+        "RESULT -> caste is anti-social and weakens public spirit."
+      ]
+    },
+    {
+      "title": "Annihilation rather than adjustment",
+      "structural_type": "normative-foundation-replacement",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "Annihilation of Caste (1936) -> isolated reform leaves sanction intact",
+        "caste-sanctioning authority + endogamy + power must be confronted",
+        "inter-caste marriage attacks closure; education/organisation build agency",
+        "CONTROL -> reject imposed civic inferiority, not individual belief as such."
+      ]
+    },
+    {
+      "title": "Ambedkar's social-democratic programme",
+      "structural_type": "rights-to-fraternity-rail",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "rights + remedies -> protected action",
+        "representation -> autonomous political voice",
+        "constitutional morality -> civic norms above inherited authority",
+        "liberty + equality + fraternity -> social democracy",
+        "conversion (1956) -> ethical reconstruction, not mere ritual change."
+      ]
+    },
+    {
+      "title": "The Gandhi-Ambedkar matrix",
+      "structural_type": "parallel-seven-axis-comparison",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "TARGET: Gandhi untouchability/later barriers | Ambedkar caste itself",
+        "ROOT: corrupted conscience | endogamy, sanction, closure, power",
+        "AGENT: reformed society | autonomous oppressed organisation",
+        "METHOD: reform and non-violence | rights, representation, annihilation",
+        "DEMOCRACY: ethical fellowship | constitutional/social democracy"
+      ]
+    },
+    {
+      "title": "Poona Pact and secular democracy",
+      "structural_type": "representation-conflict-map",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "Communal Award (1932) -> separate electoral arrangements",
+        "Poona Pact (1932) -> joint electorate + reserved seats + primary-election mechanism",
+        "Gandhi: feared lasting separation | Ambedkar: feared dependent representatives",
+        "QUESTION -> who can choose a subordinated group's representatives?",
+        "TRAP -> interpret autonomy; do not narrate figures or harmony."
+      ]
+    },
+    {
+      "title": "Safeguards, affirmative action and legal-status discipline",
+      "structural_type": "justification-and-status-grid",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "Article 17 -> constitutional rule abolishing untouchability",
+        "1989 Act, in force 1990 -> enacted protective penal statute",
+        "grounds -> compensatory | distributive | representational | anti-domination",
+        "Mandal = report | Indra Sawhney (1992) = judgment",
+        "103rd Amendment (2019) = enabling amendment | Janhit Abhiyan (2022) = judgment"
+      ]
+    },
+    {
+      "title": "PYQ answer spine and qualified conclusion",
+      "structural_type": "directive-to-verdict-flow",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "DEFINE -> name the exact caste mechanism or thinker-axis",
+        "DISTINGUISH -> varna/jati/caste; reform/annihilation; law/social change",
+        "ARGUE -> named anchor -> analysis -> objection/reply -> residual limit",
+        "COMPARE -> run common axes, never two biographies",
+        "CONCLUDE -> Ambedkarite structure and rights; moral transformation serves it",
+        "PYQ ROUTES -> factors, Gandhi, Ambedkar, annihilation, body politic, debate."
+      ]
+    }
+  ],
+  "verified_pyq_count": 9,
+  "required_core_terms": [
+    "varna",
+    "jati",
+    "untouchability",
+    "endogamy",
+    "division of labourers",
+    "graded inequality",
+    "satyagraha",
+    "constructive programme",
+    "Annihilation of Caste",
+    "constitutional morality",
+    "social democracy",
+    "fraternity",
+    "Poona Pact",
+    "conversion",
+    "Article 17",
+    "representation"
+  ]
+}

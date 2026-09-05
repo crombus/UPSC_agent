@@ -1,0 +1,53 @@
+{
+  "record_id": "essay-03:learner-v2:g2",
+  "topic_key": "essay-03",
+  "subject": "Essay",
+  "section": "Subject-Wide-Syllabus",
+  "title": "Issue-Based Prompt Scoping",
+  "variant": "learner-v2",
+  "generation": 2,
+  "command": "Generate learner-v2 topic: Essay — Subject-wide Syllabus — Issue-Based Prompt Scoping",
+  "main_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-03\\g2\\essay-03_Knowledge-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Essay\\Subject-Wide-Syllabus\\essay-03\\g2\\essay-03_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-03\\g2\\essay-03_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-03\\essay-03_Knowledge-Guide.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-03\\essay-03_Practice-Workbook.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-03\\essay-03_Practice-Solutions.md",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "format": {
+    "name": "essay-specific-guide-v1",
+    "learning_sessions": 0,
+    "mcqs": 0,
+    "practice_topics": 3,
+    "practice_solutions": 3,
+    "solved_upsc_questions": 3,
+    "method_drills_retained": 6,
+    "guide_pages": 21,
+    "workbook_pages": 2,
+    "solutions_pages": 6
+  },
+  "provenance": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\03_Issue-Based-Prompt-Scoping.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\03_Issue-Based-Prompt-Scoping.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Essay\\basic\\03_Issue-Based-Prompt-Scoping.md": "7dd7a44c61b8b9cec362e1f721463706fa9984aaf1482a85458e6f2dbb4a1ba8",
+      "upsc-ai-kit\\knowledge\\Essay\\advanced\\03_Issue-Based-Prompt-Scoping.md": "cdd903d2aa45c6cb07a0a8af924ec8f054d1c9dbf6d111e93262321ca7fa6feb",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-03\\essay-03_Knowledge-Guide.md": "169be60f84fa08b3eaa18e55dd0be904d380ba5a4ea395b772991906ebd974c2",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-03\\essay-03_Practice-Workbook.md": "5b5e17ac002a15b1966ca5ed64f8e210056f7e15e61b9bf0bf4ed95b527af5af",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-03\\essay-03_Practice-Solutions.md": "16c05a05ec7b94d46518dbe1c11625f7206774360485a460a672f65207866f39"
+    },
+    "practice_profile": "Question-only Essay workbook with a separate solutions PDF; no MCQs and no learning sessions."
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "essay-03:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "tools/publish_essay_guides.py"
+  },
+  "refresh_profile": "essay-specific-guide-v1"
+}

@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-09",
+      "display_title": "CITES and Wildlife Trade",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Jurisdiction firewall",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "CITES -> international movement of listed specimens",
+            "DOMESTIC HUNTING -> domestic wildlife law",
+            "HABITAT LOSS -> land, forest and protected-area law",
+            "LOCAL CONSUMPTION -> domestic enforcement and demand reduction",
+            "RULE -> treaty scope is trade-specific, not species-protection complete",
+            "MUST REMEMBER: CITES regulates international trade in listed specimens through..."
+          ],
+          "source_references": [
+            "Trade jurisdiction",
+            "CITES-IUCN-CMS split",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Appendix comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "APPENDIX I -> threatened with extinction; particularly strict trade control",
+            "APPENDIX II -> trade controlled to avoid incompatible utilization",
+            "APPENDIX III -> one Party seeks cooperation for a species it regulates",
+            "COMMON THREAD -> international trade documents and verification",
+            "NOT A LADDER -> Appendix III is not a lower extinction-risk score"
+          ],
+          "source_references": [
+            "Appendix I boundary",
+            "Appendix II boundary",
+            "Appendix III boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Listing-to-transaction gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "LISTING FOUND -> verify accepted scientific name",
+            "IDENTIFY -> specimen or processed product",
+            "CLASSIFY -> import, export, re-export or introduction from sea",
+            "CHECK -> origin, purpose, reservation and required document",
+            "VERDICT -> listing alone never proves lawful or unlawful movement"
+          ],
+          "source_references": [
+            "Listing versus trade ban",
+            "Specimen discipline",
+            "Permit matrix",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Specimen and source check",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SHIPMENT LABEL -> compare with accepted taxon",
+            "PART OR DERIVATIVE -> verify recognizability and listing scope",
+            "SOURCE CLAIM -> inspect the transaction document",
+            "NO SHORTCUT -> captive or propagated origin is not presumed",
+            "OUTPUT -> source-bounded specimen identity"
+          ],
+          "source_references": [
+            "Specimen discipline",
+            "Source discipline",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Transaction matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IMPORT -> entry into a State",
+            "EXPORT -> departure from the State of origin",
+            "RE-EXPORT -> departure after prior import",
+            "INTRODUCTION FROM SEA -> separate Convention transaction",
+            "RULE -> required findings and documents vary by transaction"
+          ],
+          "source_references": [
+            "Permit matrix",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Science-to-permit chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SCIENTIFIC AUTHORITY -> assesses detriment",
+            "NDF -> science gate where applicable",
+            "LEGAL ACQUISITION -> separate compliance finding where required",
+            "MANAGEMENT AUTHORITY -> issues permit or certificate",
+            "BORDER -> document and specimen still require verification"
+          ],
+          "source_references": [
+            "Non-detriment finding",
+            "Legal-acquisition check",
+            "Management Authority",
+            "Scientific Authority",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Authority split",
+          "structural_type": "authority-map",
+          "ascii_lines": [
+            "SCIENTIFIC AUTHORITY -> trade-impact advice",
+            "MANAGEMENT AUTHORITY -> document administration",
+            "CUSTOMS -> border control and declaration checks",
+            "WCCB -> wildlife-crime intelligence and coordination",
+            "NO MERGER -> each institution keeps its own decision boundary"
+          ],
+          "source_references": [
+            "Management Authority",
+            "Scientific Authority",
+            "WCCB boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Appendix-change routes",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "APPENDIX I OR II -> COP amendment route",
+            "APPENDIX III -> unilateral Party request route",
+            "RESERVATION -> specified Party and specified taxon treatment",
+            "INDIAN UPDATE -> separate domestic legal step",
+            "CAUTION -> proposal, adoption and domestic effect are different states"
+          ],
+          "source_references": [
+            "Appendix amendment route",
+            "Reservation boundary",
+            "Domestic implementation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "India implementation bridge",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "CITES DECISION -> international treaty plane",
+            "SCHEDULE IV -> Indian scheduled-specimen plane",
+            "DESIGNATED AUTHORITIES -> science and permit plane",
+            "CUSTOMS AND WCCB -> enforcement plane",
+            "RULE -> no automaticity across the four planes"
+          ],
+          "source_references": [
+            "Domestic implementation",
+            "Enforcement chain",
+            "WCCB boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Enforcement weakest-link map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "POPULATION EVIDENCE -> credible NDF",
+            "PERMIT INTEGRITY -> authentic document",
+            "SPECIES IDENTIFICATION -> correct specimen match",
+            "BORDER COORDINATION -> customs and wildlife enforcement",
+            "DEMAND REDUCTION -> complementary domestic response",
+            "CLOSE DISTINCTION: Appendix I is not a universal trade ban, appendix status is not IUCN..."
+          ],
+          "source_references": [
+            "Non-detriment finding",
+            "Enforcement chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Convention distinction matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CITES -> international wildlife trade",
+            "IUCN -> scientific extinction-risk assessment",
+            "CMS -> migratory-range cooperation",
+            "WILDLIFE ACT -> domestic legal consequences",
+            "RULE -> one species may occupy all layers without merging them",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, appendix,..."
+          ],
+          "source_references": [
+            "CITES-IUCN-CMS split",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Audit and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SCOPE -> international trade only",
+            "APPENDIX -> I, II or III mechanics",
+            "TRANSACTION -> specimen, source, purpose and document",
+            "AUTHORITY -> science, permit and enforcement roles",
+            "QUALIFY -> zero direct PYQ and failed current-listing retrieval"
+          ],
+          "source_references": [
+            "Zero-direct-PYQ audit",
+            "Live-status boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g4\\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

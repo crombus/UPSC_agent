@@ -1,0 +1,385 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 32-33",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-32",
+      "display_title": "The Nehru Era — Hope, Foreign Policy & Legacy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Planning without a constitutional mandate",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PLANNING COMMISSION -> CABINET RESOLUTION, 15 MARCH 1950 (not constitutional)",
+            "CHAIRMAN -> Prime Minister Jawaharlal Nehru, ex officio",
+            "MANDATE -> assess resources -> formulate Five Year Plans -> allocate priorities",
+            "FIRST PLAN 1951-56 -> agriculture and irrigation priority; modest, largely on track",
+            "TRAP -> extra-constitutional body; never call it a constitutional authority"
+          ],
+          "source_references": [
+            "Planning without a constitutional mandate",
+            "The 1951-52 general election and the shape of dominance"
+          ]
+        },
+        {
+          "title": "The 1951-52 general election",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "FIRST GENERAL ELECTION -> OCT 1951 to FEB 1952, staggered polling",
+            "ELECTORATE -> about 173 million voters; universal adult franchise, first time",
+            "TURNOUT -> roughly 46 per cent",
+            "RESULT -> big SEAT majority for Congress on a vote share WELL UNDER 50 per cent",
+            "READ IT CORRECTLY -> majority of SEATS, not majority of VOTES cast nationally"
+          ],
+          "source_references": [
+            "The 1951-52 general election and the shape of dominance"
+          ]
+        },
+        {
+          "title": "Community Development, 1952, before Panchayati Raj, 1957",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "COMMUNITY DEVELOPMENT PROGRAMME -> launched 2 OCTOBER 1952",
+            "AIM -> rural reconstruction through block-level administration + local participation",
+            "LATER STEP -> Balwantrai Mehta Committee, 1957, recommends Panchayati Raj",
+            "SEQUENCE -> CDP (1952) COMES BEFORE Panchayati Raj recommendations (1957)",
+            "TRAP -> do not treat CDP and Panchayati Raj as the same 1952 initiative"
+          ],
+          "source_references": [
+            "Community Development and the promise of rural transformation"
+          ]
+        },
+        {
+          "title": "Avadi, 1955, to the Second Plan, 1956-61",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "AVADI SESSION -> Indian National Congress, JANUARY 1955, near Madras",
+            "RESOLUTION -> adopts \"SOCIALISTIC PATTERN OF SOCIETY\" as its goal",
+            "MEANING -> mixed economy, dominant/expanding public sector, NOT full socialism",
+            "1956 -> INDUSTRIAL POLICY RESOLUTION gives it legal/administrative form",
+            "1956-61 -> SECOND FIVE YEAR PLAN (Mahalanobis) operationalises it in investment"
+          ],
+          "source_references": [
+            "Avadi, 1955, and the socialistic pattern of society",
+            "The Industrial Policy Resolution of 1956",
+            "The Mahalanobis Second Plan: heavy industry over agriculture"
+          ]
+        },
+        {
+          "title": "The Industrial Policy Resolution, 1956: three schedules",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "INDUSTRIAL POLICY RESOLUTION -> 1956, supersedes the 1948 Resolution",
+            "+------------+------------------------------------------+",
+            "| SCHEDULE A | exclusive state responsibility            |",
+            "| SCHEDULE B | state-led, with private participation     |",
+            "| SCHEDULE C | left to private enterprise                |",
+            "+------------+------------------------------------------+",
+            "EFFECT -> \"commanding heights\" of the economy reserved for the public sector"
+          ],
+          "source_references": [
+            "The Industrial Policy Resolution of 1956"
+          ]
+        },
+        {
+          "title": "The Mahalanobis Second Plan and its neglected half",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SECOND FIVE YEAR PLAN -> 1956-61, architect P.C. MAHALANOBIS",
+            "PRIORITISED -> heavy industry, capital goods (\"machines that make machines\")",
+            "BUILT -> a substantial domestic industrial base over the plan period",
+            "NEGLECTED -> agricultural investment, comparatively",
+            "CONSEQUENCE -> feeds into the food shortfalls of the mid-1960s (topic 34)"
+          ],
+          "source_references": [
+            "The Mahalanobis Second Plan: heavy industry over agriculture"
+          ]
+        },
+        {
+          "title": "Panchsheel, 1954, to the 1962 war",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "APRIL 1954 -> PANCHSHEEL signed with China, with a Tibet agreement",
+            "AFTER 1954 -> \"Hindi-Chini Bhai Bhai\" friendship rhetoric popularised",
+            "OCT-NOV 1962 -> the SAME relationship collapses into the Sino-Indian War",
+            "TRAP -> do not read 1954-55 optimism backward as if the border dispute did not exist"
+          ],
+          "source_references": [
+            "Panchsheel, 1954, and its later collapse",
+            "The Sino-Indian War, 1962: from Bhai Bhai to ceasefire"
+          ]
+        },
+        {
+          "title": "Bandung, 1955, is not Belgrade, 1961: precursor to doctrine",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BANDUNG CONFERENCE -> APRIL 1955, Indonesia; 29 Afro-Asian states",
+            "ROLE -> precursor Afro-Asian gathering; NEHRU a leading voice",
+            "NOT THE SAME AS -> BELGRADE CONFERENCE, SEPTEMBER 1961",
+            "BELGRADE -> the actual FOUNDING SUMMIT of the Non-Aligned Movement",
+            "FOUNDERS AT BELGRADE -> Nehru, Tito, Nasser, Sukarno, Nkrumah",
+            "DOCTRINE THAT FOLLOWS -> judge each question on its merits; engage INDEPENDENTLY",
+            "NOT THIS -> passive neutrality or simple non-involvement",
+            "TRAP -> \"non-alignment\" and \"neutrality\" are NOT interchangeable terms"
+          ],
+          "source_references": [
+            "Bandung, 1955: Afro-Asian solidarity before Belgrade",
+            "Belgrade, 1961: the founding of the Non-Aligned Movement"
+          ]
+        },
+        {
+          "title": "Kerala, 1957: ballot, not revolution",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "KERALA STATE ELECTION -> 1957, first after the 1956 States Reorganisation",
+            "RESULT -> Communist Party of India wins; E.M.S. NAMBOODIRIPAD, Chief Minister",
+            "SIGNIFICANCE -> among the earliest instances anywhere of an elected communist government",
+            "LATER (Polity owner, not here) -> Centre dismisses the ministry under Article 356",
+            "BOUNDARY -> this session stops at the 1957 election and its democratic significance"
+          ],
+          "source_references": [
+            "Kerala, 1957: a communist government elected by ballot"
+          ]
+        },
+        {
+          "title": "Goa, December 1961: diplomacy, then Operation Vijay",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "GOA, DAMAN AND DIU -> remained under Portuguese rule after 1947",
+            "STEP 1 -> repeated Indian diplomatic efforts for a peaceful transfer",
+            "STEP 2 -> diplomacy fails",
+            "STEP 3 -> OPERATION VIJAY, DECEMBER 1961: Indian armed forces move in",
+            "OUTCOME -> Portuguese rule ends within days; territories integrated into the Union"
+          ],
+          "source_references": [
+            "Goa, December 1961: Operation Vijay"
+          ]
+        },
+        {
+          "title": "1962: the pivot the whole topic turns on",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "OCT-NOV 1962 -> SINO-INDIAN WAR along the Himalayan frontier",
+            "COURSE -> Indian reverses in NEFA and Ladakh",
+            "END -> China declares a UNILATERAL CEASEFIRE (not a negotiated settlement)",
+            "EXPOSES -> gaps in defence preparedness; limits of non-alignment's optimism",
+            "1963 -> KAMARAJ PLAN: Congress responds organisationally, not economically"
+          ],
+          "source_references": [
+            "The Sino-Indian War, 1962: from Bhai Bhai to ceasefire",
+            "The Kamaraj Plan, 1963: reviving the party organisation"
+          ]
+        },
+        {
+          "title": "Nehru's legacy: institutions and lessons held together",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "27 MAY 1964 -> Nehru dies, after nearly seventeen years as Prime Minister",
+            "ENDURING -> parliamentary democracy, planning, secularism, non-alignment",
+            "ALREADY TESTED -> 1962 exposed the limits of Panchsheel/Bandung-era optimism",
+            "UNRESOLVED, DEBATED -> the 1948 Kashmir referral to the United Nations",
+            "VERDICT -> real institutional achievement PAIRED WITH an exposed misjudgement"
+          ],
+          "source_references": [
+            "Kashmir at the United Nations, 1948: a debated choice",
+            "Nehru's legacy, 1964: institutions and lessons held together"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-33",
+      "display_title": "Party Politics 1947–67: The Congress System & the Opposition",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\33_Party-Politics-1947-67-Congress-System-and-Opposition_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The 1948 ban on dual party membership",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "CONGRESS CONSTITUTION -> amended 1948: BARS DUAL PARTY MEMBERSHIP",
+            "TARGET -> Congress Socialist Party (CSP) members inside Congress",
+            "FORCED CHOICE -> remain in Congress OR join an independent socialist party",
+            "RESULT -> most CSP leaders exit; an INDEPENDENT SOCIALIST PARTY is formed",
+            "CONSEQUENCE -> the non-Communist Left's long history OUTSIDE Congress begins"
+          ],
+          "source_references": [
+            "The 1948 ban on dual party membership"
+          ]
+        },
+        {
+          "title": "The Tandon-Nehru contest, 1950-51",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1950 -> CONGRESS PRESIDENTIAL CONTEST: Tandon defeats the Nehru-backed candidate",
+            "1950-51 -> friction: Tandon's conservative-Hindu leanings vs Nehru's secular line",
+            "1951 -> TANDON RESIGNS the Congress presidency",
+            "1951 -> NEHRU HIMSELF then takes over as Congress president",
+            "TRAP -> do not reverse this order or compress it into a single year"
+          ],
+          "source_references": [
+            "The Tandon-Nehru contest, 1950-51"
+          ]
+        },
+        {
+          "title": "Jana Sangh, 1951, is not Swatantra, 1959",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BHARATIYA JANA SANGH -> founded 1951, founder SYAMA PRASAD MOOKERJEE",
+            "LINK -> organisational links to the RSS network (state this carefully)",
+            "PLATFORM -> Hindu-nationalist cultural-political line",
+            "SWATANTRA PARTY -> founded 1959, founders RAJAGOPALACHARI / MASANI / RANGA",
+            "PLATFORM -> free-market, anti-collectivisation -> a DIFFERENT right-of-Congress line"
+          ],
+          "source_references": [
+            "The Bharatiya Jana Sangh, 1951",
+            "The Swatantra Party, 1959"
+          ]
+        },
+        {
+          "title": "KMPP, 1951, into the Praja Socialist Party, 1952",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1951 -> KISAN MAZDOOR PRAJA PARTY (KMPP) founded, led by J.B. KRIPALANI",
+            "1952 -> KMPP MERGES WITH THE SOCIALIST PARTY",
+            "1952 -> PRAJA SOCIALIST PARTY (PSP) formed as a result",
+            "AFTER 1952 -> the PSP itself splits and re-forms repeatedly through the 1950s-60s"
+          ],
+          "source_references": [
+            "KMPP into the Praja Socialist Party, 1951-52"
+          ]
+        },
+        {
+          "title": "The 1964 split in the Communist Party of India",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "EARLY 1960s -> ideological strain: the Sino-Soviet split",
+            "SHARPENED BY -> differing responses to the 1962 border war",
+            "1964 -> THE COMMUNIST PARTY OF INDIA SPLITS",
+            "RESULT -> CPI (one stream) and the new CPI(M)",
+            "CONSEQUENCE -> the organised Left enters the mid-1960s divided, not unified"
+          ],
+          "source_references": [
+            "The 1964 split in the Communist Party of India"
+          ]
+        },
+        {
+          "title": "Rajni Kothari's 'Congress system'",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "RAJNI KOTHARI -> political scientist, coins the term \"CONGRESS SYSTEM\"",
+            "CLAIM -> Congress functions as a \"PARTY OF CONSENSUS\", absorbing factions internally",
+            "OPPOSITION ROLE -> parties of \"PRESSURE\", not alternative-government contenders",
+            "ATTRIBUTION -> Kothari's analytical term, NOT a Congress self-description",
+            "BOUNDARY -> use only as an analytical lens on the evidence, never as fact-by-itself"
+          ],
+          "source_references": [
+            "Rajni Kothari's 'Congress system'"
+          ]
+        },
+        {
+          "title": "Seat majorities on a minority vote share",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "+-------+------------------------+---------------------------+",
+            "| YEAR  | CONGRESS SEAT RESULT    | CONGRESS NATIONAL VOTE    |",
+            "+-------+------------------------+---------------------------+",
+            "| 1952  | comfortable majority    | well under 50 per cent    |",
+            "| 1957  | comfortable majority    | well under 50 per cent    |",
+            "| 1962  | comfortable majority    | well under 50 per cent    |",
+            "+-------+------------------------+---------------------------+",
+            "MECHANISM -> first-past-the-post arithmetic acting on a fragmented opposition"
+          ],
+          "source_references": [
+            "Seat majorities on a minority vote share"
+          ]
+        },
+        {
+          "title": "The plural, fragmented Indian Left",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CPI -> pro-Soviet stream after the 1964 split",
+            "CPI(M) -> the new formation after the 1964 split",
+            "RSP / FORWARD BLOC -> smaller formations, strongest in Bengal and Kerala",
+            "KERALA, 1957 -> the era's clearest Left electoral success (topic 32)",
+            "READ IT CORRECTLY -> \"the Left\" was NEVER a single unified bloc, 1947-67"
+          ],
+          "source_references": [
+            "Smaller left formations and the plural Left"
+          ]
+        },
+        {
+          "title": "Congress as an umbrella, not a narrow party",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "CONGRESS ORGANISATION -> a broad UMBRELLA",
+            "CONTAINS -> Nehruvian planners + conservative traditionalists + regional bosses",
+            "MECHANISM -> factional competition happens INSIDE Congress, not mainly between parties",
+            "BY THE MID-1960s -> state-level \"SYNDICATE\" bosses become organisationally decisive",
+            "LINK FORWARD -> this factionalism shapes the 1966 succession contest (topic 34)"
+          ],
+          "source_references": [
+            "Congress as an umbrella organisation",
+            "The rise of state-level 'Syndicate' bosses"
+          ]
+        },
+        {
+          "title": "Lohia's 'non-Congressism': a doctrine ahead of its time",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RAM MANOHAR LOHIA -> leading Socialist figure, critic of Congress dominance",
+            "DOCTRINE -> \"NON-CONGRESSISM\": unite the opposition against Congress, despite ideology",
+            "1947-67 -> little practical electoral effect",
+            "1977 -> the SAME logic underlies the Janata coalition (topic 36)",
+            "TRAP -> do not claim non-Congressism succeeded electorally within this topic's period"
+          ],
+          "source_references": [
+            "Ram Manohar Lohia and 'non-Congressism'"
+          ]
+        },
+        {
+          "title": "The opposition's ideological range, 1947-67",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "+------------------+---------------------------------------------+",
+            "| PARTY/STREAM     | CORE POSITION                                |",
+            "+------------------+---------------------------------------------+",
+            "| Jana Sangh (1951) | Hindu-nationalist cultural politics          |",
+            "| Swatantra (1959)  | free-market economic conservatism            |",
+            "| PSP and streams   | non-Communist socialist politics             |",
+            "| CPI / CPI(M)      | organised communism, split from 1964         |",
+            "+------------------+---------------------------------------------+",
+            "PROBLEM -> real range, but FRAGMENTED, not unified, before 1967"
+          ],
+          "source_references": [
+            "The ideological range of the non-Congress opposition"
+          ]
+        },
+        {
+          "title": "1967: the watershed this whole topic foreshadows",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1948-1964 -> ban, splits, mergers, new parties reshape the opposition",
+            "1952 / 1957 / 1962 -> Congress SEAT majority stays large; VOTE SHARE keeps declining",
+            "1964 -> CPI splits into CPI/CPI(M)",
+            "1967 -> for the FIRST TIME, Congress loses power in EIGHT STATES",
+            "READ THE THREAD -> 1967 is the payoff of two decades of party-system change"
+          ],
+          "source_references": [
+            "1967: the watershed foreshadowed"
+          ]
+        }
+      ]
+    }
+  ]
+}

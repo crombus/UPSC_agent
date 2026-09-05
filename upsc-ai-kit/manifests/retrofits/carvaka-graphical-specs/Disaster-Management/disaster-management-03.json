@@ -1,0 +1,1034 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-03",
+  "subject": "Disaster-Management",
+  "title": "COMMUNITY-BASED DRR AND INCLUSIVE PROTECTION",
+  "short_route": "CBDRR CO-PRODUCTION MAP → KNOWLEDGE BRIDGE → COMMUNITY ROLE CYCLE → LOCAL INSTITUTION LADDER → VOLUNTEER READINESS FIREWALL → SOCIAL VULNERABILITY MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-03_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-03-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "23f8565b1306b8ecc85dd7e91f6f85f8055f2ea51a568417e32bf4c091a12b9b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CBDRR CO-PRODUCTION MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CBDRR CO-PRODUCTION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "KNOWLEDGE, PRIORITIES, FIRST ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL PLAN AND SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY, RESOURCES, STANDARDS",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTICIPATION COMPLEMENTS PUBLIC DUTY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY → knowledge, priorities, first action",
+        "PRI / ULB → local plan and services",
+        "DDMA / STATE → authority, resources, standards",
+        "RULE → participation complements public duty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "COMMUNITY → knowledge, priorities, first action",
+            "PRI / ULB → local plan and services"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DDMA / STATE → authority, resources, standards",
+            "RULE → participation complements public duty"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMUNITY → knowledge, priorities, first action",
+            "PRI / ULB → local plan and services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRI / ULB → local plan and services.",
+      "source_references": [
+        "CBDRR",
+        "Panchayats and ULBs"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "KNOWLEDGE BRIDGE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KNOWLEDGE BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTES, TRUST, SEASONAL AND SOCIAL DETAIL",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARD MONITORING AND FORECASTS",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY, RESOURCES, EVACUATION ORDERS",
+          "role": "evidence"
+        },
+        {
+          "text": "BEST RESULT",
+          "role": "primary"
+        },
+        {
+          "text": "COMBINE AND VALIDATE ALL THREE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LOCAL → routes, trust, seasonal and social detail",
+        "SCIENTIFIC → hazard monitoring and forecasts",
+        "ADMINISTRATIVE → authority, resources, evacuation orders",
+        "BEST RESULT → combine and validate all three"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "LOCAL → routes, trust, seasonal and social detail",
+          "ADMINISTRATIVE → authority, resources, evacuation orders",
+          "LOCAL → routes, trust, seasonal and social detail"
+        ],
+        [
+          "SCIENTIFIC → hazard monitoring and forecasts",
+          "BEST RESULT → combine and validate all three",
+          "SCIENTIFIC → hazard monitoring and forecasts"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "LOCAL → routes, trust, seasonal and social detail",
+            "SCIENTIFIC → hazard monitoring and forecasts"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADMINISTRATIVE → authority, resources, evacuation orders",
+            "BEST RESULT → combine and validate all three"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL → routes, trust, seasonal and social detail",
+            "SCIENTIFIC → hazard monitoring and forecasts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BEST RESULT → combine and validate all three.",
+      "source_references": [
+        "Local knowledge"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COMMUNITY ROLE CYCLE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMMUNITY ROLE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAP RISK, TRAIN, DRILL, PLAN",
+          "role": "caution"
+        },
+        {
+          "text": "RELAY WARNING, ASSIST EVACUATION, FIRST AID",
+          "role": "comparison"
+        },
+        {
+          "text": "VERIFY NEEDS, PROTECT, RESTORE LIVELIHOODS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAINED ROLES AND NO HARMFUL IMPROVISATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BEFORE → map risk, train, drill, plan",
+        "DURING → relay warning, assist evacuation, first aid",
+        "AFTER → verify needs, protect, restore livelihoods",
+        "SAFEGUARD → trained roles and no harmful improvisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "BEFORE → map risk, train, drill, plan",
+            "DURING → relay warning, assist evacuation, first aid"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AFTER → verify needs, protect, restore livelihoods",
+            "SAFEGUARD → trained roles and no harmful improvisation"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "BEFORE → map risk, train, drill, plan",
+            "DURING → relay warning, assist evacuation, first aid"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFEGUARD → trained roles and no harmful improvisation.",
+      "source_references": [
+        "Community first response",
+        "Community institutions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LOCAL INSTITUTION LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LOCAL INSTITUTION LADDER",
+          "role": "institution"
+        },
+        {
+          "text": "VOLUNTEER GROUP",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRICT PLAN, RESOURCES AND ACCOUNTABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD / WARD / VILLAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOUSEHOLD / WARD / VILLAGE",
+        "SHG / CBO / VOLUNTEER GROUP",
+        "PANCHAYAT / ULB",
+        "DDMA → district plan, resources and accountability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "HOUSEHOLD / WARD / VILLAGE",
+            "SHG / CBO / VOLUNTEER GROUP"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PANCHAYAT / ULB",
+            "DDMA → district plan, resources and accountability"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "HOUSEHOLD / WARD / VILLAGE",
+            "SHG / CBO / VOLUNTEER GROUP"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PANCHAYAT / ULB; DDMA → district plan, resources and accountability.",
+      "source_references": [
+        "Panchayats and ULBs",
+        "Community institutions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VOLUNTEER READINESS FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VOLUNTEER READINESS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ACTIVATION PROTOCOL",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPERVISED ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "AFTER-ACTION LEARNING",
+          "role": "evidence"
+        },
+        {
+          "text": "HEADCOUNT ALONE",
+          "role": "primary"
+        },
+        {
+          "text": "NOT READINESS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENROLLED → TRAINED → REFRESHED",
+        "EQUIPPED → ACTIVATION PROTOCOL → SUPERVISED ACTION",
+        "AFTER-ACTION LEARNING → RETENTION",
+        "HEADCOUNT ALONE → NOT READINESS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ENROLLED → TRAINED → REFRESHED",
+            "EQUIPPED → ACTIVATION PROTOCOL → SUPERVISED ACTION"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AFTER-ACTION LEARNING → RETENTION",
+            "HEADCOUNT ALONE → NOT READINESS"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ENROLLED → TRAINED → REFRESHED",
+            "EQUIPPED → ACTIVATION PROTOCOL → SUPERVISED ACTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFTER-ACTION LEARNING → RETENTION; HEADCOUNT ALONE → NOT READINESS.",
+      "source_references": [
+        "Volunteer boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOCIAL VULNERABILITY MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL VULNERABILITY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOUND RISK",
+          "role": "caution"
+        },
+        {
+          "text": "POVERTY / HOUSING / LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "GENDER / AGE / DISABILITY / HEALTH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POVERTY / HOUSING / LIVELIHOOD",
+        "GENDER / AGE / DISABILITY / HEALTH",
+        "LANGUAGE / DOCUMENTS / DISPLACEMENT",
+        "INTERSECTIONS → COMPOUND RISK"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "POVERTY / HOUSING / LIVELIHOOD",
+          "LANGUAGE / DOCUMENTS / DISPLACEMENT",
+          "POVERTY / HOUSING / LIVELIHOOD"
+        ],
+        [
+          "GENDER / AGE / DISABILITY / HEALTH",
+          "INTERSECTIONS → COMPOUND RISK",
+          "GENDER / AGE / DISABILITY / HEALTH"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "POVERTY / HOUSING / LIVELIHOOD",
+            "GENDER / AGE / DISABILITY / HEALTH"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LANGUAGE / DOCUMENTS / DISPLACEMENT",
+            "INTERSECTIONS → COMPOUND RISK"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "POVERTY / HOUSING / LIVELIHOOD",
+            "GENDER / AGE / DISABILITY / HEALTH"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LANGUAGE / DOCUMENTS / DISPLACEMENT; INTERSECTIONS → COMPOUND RISK.",
+      "source_references": [
+        "Social vulnerability",
+        "Intersectionality"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LIFE-COURSE PROTECTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIFE-COURSE PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "TRACING, NUTRITION, SAFE LEARNING",
+          "role": "outcome"
+        },
+        {
+          "text": "OLDER PERSONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDICINE, MOBILITY, CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVACY, SAFETY, HEALTH, VOICE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINCT NEEDS, NO HOMOGENEOUS CATEGORY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHILDREN → tracing, nutrition, safe learning",
+        "OLDER PERSONS → medicine, mobility, care",
+        "WOMEN / GIRLS → privacy, safety, health, voice",
+        "DESIGN → distinct needs, no homogeneous category"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "CHILDREN → tracing, nutrition, safe learning",
+          "WOMEN / GIRLS → privacy, safety, health, voice",
+          "CHILDREN → tracing, nutrition, safe learning"
+        ],
+        [
+          "OLDER PERSONS → medicine, mobility, care",
+          "DESIGN → distinct needs, no homogeneous category",
+          "OLDER PERSONS → medicine, mobility, care"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "CHILDREN → tracing, nutrition, safe learning",
+            "OLDER PERSONS → medicine, mobility, care"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "WOMEN / GIRLS → privacy, safety, health, voice",
+            "DESIGN → distinct needs, no homogeneous category"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CHILDREN → tracing, nutrition, safe learning",
+            "OLDER PERSONS → medicine, mobility, care"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WOMEN / GIRLS → privacy, safety, health, voice.",
+      "source_references": [
+        "Gender-responsive protection",
+        "Children",
+        "Older persons"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DISABILITY-INCLUSIVE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DISABILITY-INCLUSIVE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PARTICIPATORY MAPPING",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSIBLE WARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSISTED EVACUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "BARRIER-FREE SHELTER",
+          "role": "primary"
+        },
+        {
+          "text": "ASSISTIVE DEVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPORT CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRECT EXCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARTICIPATORY MAPPING → ACCESSIBLE WARNING",
+        "ASSISTED EVACUATION → BARRIER-FREE SHELTER",
+        "ASSISTIVE DEVICE / SUPPORT CONTINUITY",
+        "FEEDBACK → CORRECT EXCLUSION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PARTICIPATORY MAPPING → ACCESSIBLE WARNING",
+            "ASSISTED EVACUATION → BARRIER-FREE SHELTER"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSISTIVE DEVICE / SUPPORT CONTINUITY",
+            "FEEDBACK → CORRECT EXCLUSION"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PARTICIPATORY MAPPING → ACCESSIBLE WARNING",
+            "ASSISTED EVACUATION → BARRIER-FREE SHELTER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSISTIVE DEVICE / SUPPORT CONTINUITY; FEEDBACK → CORRECT EXCLUSION.",
+      "source_references": [
+        "Persons with disabilities",
+        "Accessible warnings",
+        "Inclusive evacuation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MIGRANT-DISPLACEMENT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MIGRANT-DISPLACEMENT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "MOVEMENT CAUSED BY DISASTER IMPACTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY FACE LANGUAGE AND DOCUMENTATION BARRIERS",
+          "role": "comparison"
+        },
+        {
+          "text": "REFUGEE STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT AUTOMATIC UNDER 1951 CONVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "DOMESTIC LAW AND HUMAN-RIGHTS DUTIES REMAIN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DISPLACED → movement caused by disaster impacts",
+        "MIGRANT → may face language and documentation barriers",
+        "REFUGEE STATUS → not automatic under 1951 Convention",
+        "PROTECTION → domestic law and human-rights duties remain"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "DISPLACED → movement caused by disaster impacts",
+          "REFUGEE STATUS → not automatic under 1951 Convention",
+          "DISPLACED → movement caused by disaster impacts"
+        ],
+        [
+          "MIGRANT → may face language and documentation barriers",
+          "PROTECTION → domestic law and human-rights duties remain",
+          "MIGRANT → may face language and documentation barriers"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DISPLACED → movement caused by disaster impacts",
+            "MIGRANT → may face language and documentation barriers"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REFUGEE STATUS → not automatic under 1951 Convention",
+            "PROTECTION → domestic law and human-rights duties remain"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DISPLACED → movement caused by disaster impacts",
+            "MIGRANT → may face language and documentation barriers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROTECTION → domestic law and human-rights duties remain.",
+      "source_references": [
+        "Migrants and displaced persons"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WARNING-TO-SHELTER ROUTE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WARNING-TO-SHELTER ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESSIBLE MESSAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFIRM COMPREHENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSISTED TRANSPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFE ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "DIGNIFIED ACCESSIBLE SHELTER",
+          "role": "outcome"
+        },
+        {
+          "text": "REGISTER + FEEDBACK + FAMILY LINK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ACCESSIBLE MESSAGE → CONFIRM COMPREHENSION",
+        "ASSISTED TRANSPORT → SAFE ROUTE",
+        "DIGNIFIED ACCESSIBLE SHELTER",
+        "REGISTER + FEEDBACK + FAMILY LINK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ACCESSIBLE MESSAGE → CONFIRM COMPREHENSION",
+            "ASSISTED TRANSPORT → SAFE ROUTE"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIGNIFIED ACCESSIBLE SHELTER",
+            "REGISTER + FEEDBACK + FAMILY LINK"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ACCESSIBLE MESSAGE → CONFIRM COMPREHENSION",
+            "ASSISTED TRANSPORT → SAFE ROUTE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIGNIFIED ACCESSIBLE SHELTER; REGISTER + FEEDBACK + FAMILY LINK.",
+      "source_references": [
+        "Accessible warnings",
+        "Inclusive evacuation",
+        "Dignified shelters"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RELIEF ACCOUNTABILITY LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RELIEF ACCOUNTABILITY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CLEAR ELIGIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC LIST",
+          "role": "comparison"
+        },
+        {
+          "text": "DISAGGREGATED NEEDS",
+          "role": "evidence"
+        },
+        {
+          "text": "UPDATED LIST",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTION MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOVERY FEEDBACK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLEAR ELIGIBILITY → PUBLIC LIST / INFORMATION",
+        "DISAGGREGATED NEEDS → DELIVERY",
+        "APPEAL / CORRECTION → UPDATED LIST",
+        "PROTECTION MONITORING → RECOVERY FEEDBACK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLEAR ELIGIBILITY → PUBLIC LIST / INFORMATION",
+            "DISAGGREGATED NEEDS → DELIVERY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "APPEAL / CORRECTION → UPDATED LIST",
+            "PROTECTION MONITORING → RECOVERY FEEDBACK"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLEAR ELIGIBILITY → PUBLIC LIST / INFORMATION",
+            "DISAGGREGATED NEEDS → DELIVERY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPEAL / CORRECTION → UPDATED LIST; PROTECTION MONITORING → RECOVERY FEEDBACK.",
+      "source_references": [
+        "Accountable relief",
+        "Protection and psychosocial support"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INCLUSIVE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INCLUSIVE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME GROUP",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY RISK MECHANISM",
+          "role": "caution"
+        },
+        {
+          "text": "ASSIGN COMMUNITY + INSTITUTIONAL ROLE",
+          "role": "evidence"
+        },
+        {
+          "text": "DESIGN ACCESSIBLE WARNING EVACUATION SHELTER RELIEF",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORE AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY OUTCOME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NAME GROUP → IDENTIFY RISK MECHANISM",
+        "ASSIGN COMMUNITY + INSTITUTIONAL ROLE",
+        "DESIGN ACCESSIBLE WARNING EVACUATION SHELTER RELIEF",
+        "RESTORE AGENCY → VERIFY OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NAME GROUP → IDENTIFY RISK MECHANISM",
+            "ASSIGN COMMUNITY + INSTITUTIONAL ROLE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DESIGN ACCESSIBLE WARNING EVACUATION SHELTER RELIEF",
+            "RESTORE AGENCY → VERIFY OUTCOME"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NAME GROUP → IDENTIFY RISK MECHANISM",
+            "ASSIGN COMMUNITY + INSTITUTIONAL ROLE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DESIGN ACCESSIBLE WARNING EVACUATION SHELTER RELIEF; RESTORE AGENCY → VERIFY OUTCOME.",
+      "source_references": [
+        "Community-led recovery",
+        "Participation-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "AAPDA MITRA AS THE INSTITUTIONAL VEHICLE FOR VOLUNTEER-BASED",
+          "role": "outcome"
+        },
+        {
+          "text": "CASCADING-TRAINING DESIGN CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS EXPLICITLY",
+          "role": "evidence"
+        },
+        {
+          "text": "TSUNAMI-SPECIFIC COMMUNITY ROLE",
+          "role": "primary"
+        },
+        {
+          "text": "SHGS, NGOS AND CBOS ARE NAMED",
+          "role": "outcome"
+        },
+        {
+          "text": "DISPLACEMENT STATISTICS REQUIRE CURRENT VERIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "INCLUSIVE EARLY WARNING (E.G. SIGN-LANGUAGE/BRAILLE/MULTI-LINGUAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Aapda Mitra as the institutional vehicle for volunteer-based",
+            "Cascading-training design choice : VisionIAS explicitly",
+            "Tsunami-specific community role : SHGs, NGOs and CBOs are named",
+            "CAUTION: Displacement statistics require current verification :"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Inclusive early warning (e.g. sign-language/Braille/multi-lingual",
+            "Attitudinal vulnerability as an equity-relevant, source-named",
+            "CAUTION: Displacement's named compounding harms — humanitarian",
+            "CAUTION: Volunteer-system scale versus quality is a genuine trade-off."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"community participation\" checklist fallacy. Naming",
+            "CAUTION: Accountability gap in relief distribution : VisionIAS notes",
+            "CAUTION: Aapda Mitra's financing (a Centrally Sponsored Scheme, implying",
+            "Monitoring community-based DRR's effectiveness (e.g. mock-drill"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

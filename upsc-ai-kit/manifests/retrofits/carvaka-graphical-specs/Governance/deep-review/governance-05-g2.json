@@ -1,0 +1,1166 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-05",
+  "subject": "Governance",
+  "title": "E-GOVERNANCE MODELS AND USER-CENTRICITY",
+  "short_route": "FIVE MODELS, ONE TYPOLOGY → THREE AXES THAT MUST → INTERACTIVE SERVICE MODEL CARD → DIGITISATION AGAINST E-GOVERNANCE → PROGRAMME AND ASSESSMENT CARD → TWIN SERVICE-COMPLETION PARAMETERS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-05-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "c85a2b5687253000262e82e3b785aa274dec5cdcb4781ffa410abd7044256bba",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FIVE MODELS, ONE TYPOLOGY",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FIVE MODELS, ONE TYPOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "WIDE ONE-WAY DISSEMINATION OF GOVERNMENT INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITICAL FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "TARGETED ROUTING OF INFORMATION OF CRITICAL VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARATIVE ANALYSIS",
+          "role": "primary"
+        },
+        {
+          "text": "CITIZEN-FACING PERFORMANCE BENCHMARKING",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILISATION AND NETWORKING",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGITAL ADVOCACY AND COLLECTIVE ACTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BROADCASTING → wide one-way dissemination of government information",
+        "CRITICAL FLOW → targeted routing of information of critical value",
+        "COMPARATIVE ANALYSIS → citizen-facing performance benchmarking",
+        "MOBILISATION AND NETWORKING → digital advocacy and collective action",
+        "INTERACTIVE SERVICE → two-way transaction with accountability designed in"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BROADCASTING → wide one-way dissemination of government information",
+            "CRITICAL FLOW → targeted routing of information of critical value",
+            "COMPARATIVE ANALYSIS → citizen-facing performance benchmarking"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOBILISATION AND NETWORKING → digital advocacy and collective action",
+            "INTERACTIVE SERVICE → two-way transaction with accountability designed in",
+            "RULE → a typology of functions, never an official maturity ladder"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: E-governance redesigns information, transactions and accountability across..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a typology of functions, never an official maturity ladder.",
+      "source_references": [
+        "What e-governance is and who is on the other side",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE AXES THAT MUST NOT COLLAPSE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE AXES THAT MUST NOT COLLAPSE",
+          "role": "caution"
+        },
+        {
+          "text": "MODEL AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHICH INFORMATION OR INTERACTION FUNCTION IS PERFORMED",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMAIN AXIS",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNMENT TO CITIZEN, BUSINESS, GOVERNMENT OR EMPLOYEE",
+          "role": "primary"
+        },
+        {
+          "text": "MATURITY AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESENCE, INTERACTION, TRANSACTION, INTEGRATION, TRANSFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ERROR PREVENTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MODEL AXIS → which information or interaction function is performed",
+        "DOMAIN AXIS → government to citizen, business, government or employee",
+        "MATURITY AXIS → presence, interaction, transaction, integration, transformation",
+        "ERROR PREVENTED → calling a downloadable-form page transactional"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MODEL AXIS → which information or interaction function is performed",
+          "MATURITY AXIS → presence, interaction, transaction, integration, transformation",
+          "MODEL AXIS → which information or interaction function is performed"
+        ],
+        [
+          "DOMAIN AXIS → government to citizen, business, government or employee",
+          "ERROR PREVENTED → calling a downloadable-form page transactional",
+          "DOMAIN AXIS → government to citizen, business, government or employee"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MODEL AXIS → which information or interaction function is performed",
+            "DOMAIN AXIS → government to citizen, business, government or employee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MATURITY AXIS → presence, interaction, transaction, integration, transformation",
+            "ERROR PREVENTED → calling a downloadable-form page transactional"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MODEL AXIS → which information or interaction function is performed",
+            "DOMAIN AXIS → government to citizen, business, government or employee"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR PREVENTED → calling a downloadable-form page transactional.",
+      "source_references": [
+        "The maturity axis kept separate from the model axis",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INTERACTIVE SERVICE MODEL CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTERACTIVE SERVICE MODEL CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINING FEATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLY, PAY, TRACK AND APPEAL WITHIN ONE ACCOUNTABLE TRANSACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A DIGITISED PAPER PROCESS OR AN INFORMATION PAGE WITH",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRANSPARENCY STRUCTURALLY, BECAUSE EACH STEP IS LOGGED",
+          "role": "primary"
+        },
+        {
+          "text": "EMBEDS ONLY CONDITIONALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOUNTABILITY, BECAUSE A LOG NAMES NO DUTY-HOLDER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINING FEATURE → apply, pay, track and appeal within one accountable transaction",
+        "NOT → a digitised paper process or an information page with a form attached",
+        "EMBEDS → transparency structurally, because each step is logged",
+        "EMBEDS ONLY CONDITIONALLY → accountability, because a log names no duty-holder"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DEFINING FEATURE → apply, pay, track and appeal within one accountable transaction",
+          "EMBEDS → transparency structurally, because each step is logged",
+          "DEFINING FEATURE → apply, pay, track and appeal within one accountable transaction"
+        ],
+        [
+          "NOT → a digitised paper process or an information page with a form attached",
+          "EMBEDS ONLY CONDITIONALLY → accountability, because a log names no duty-holder",
+          "NOT → a digitised paper process or an information page with a form attached"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINING FEATURE → apply, pay, track and appeal within one accountable transaction",
+            "NOT → a digitised paper process or an information page with a form attached"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EMBEDS → transparency structurally, because each step is logged",
+            "EMBEDS ONLY CONDITIONALLY → accountability, because a log names no duty-holder"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINING FEATURE → apply, pay, track and appeal within one accountable transaction",
+            "NOT → a digitised paper process or an information page with a form attached"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EMBEDS ONLY CONDITIONALLY → accountability, because a log names no duty-holder.",
+      "source_references": [
+        "The Interactive Service Model against the other four",
+        "Transparency separated from accountability",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DIGITISATION AGAINST E-GOVERNANCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DIGITISATION AGAINST E-GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PAPER AND PROCESS CONVERTED TO DIGITAL FORM; A PRECONDITION",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE SERVICE REDESIGNED AROUND THE CITIZEN'S TASK SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILURE MODE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIGITISING AN UNREFORMED PROCESS AUTOMATES THE DELAY",
+          "role": "mechanism"
+        },
+        {
+          "text": "DID THE APPROVAL CHAIN CHANGE, OR ONLY THE SURFACE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DIGITISATION → paper and process converted to digital form; a precondition",
+        "E-GOVERNANCE → the service redesigned around the citizen's task sequence",
+        "FAILURE MODE → digitising an unreformed process automates the delay",
+        "TEST → did the approval chain change, or only the surface on which it runs"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIGITISATION → paper and process converted to digital form; a precondition",
+          "FAILURE MODE → digitising an unreformed process automates the delay",
+          "DIGITISATION → paper and process converted to digital form; a precondition"
+        ],
+        [
+          "E-GOVERNANCE → the service redesigned around the citizen's task sequence",
+          "TEST → did the approval chain change, or only the surface on which it runs",
+          "E-GOVERNANCE → the service redesigned around the citizen's task sequence"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIGITISATION → paper and process converted to digital form; a precondition",
+            "E-GOVERNANCE → the service redesigned around the citizen's task sequence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAILURE MODE → digitising an unreformed process automates the delay",
+            "TEST → did the approval chain change, or only the surface on which it runs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIGITISATION → paper and process converted to digital form; a precondition",
+            "E-GOVERNANCE → the service redesigned around the citizen's task sequence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → did the approval chain change, or only the surface on which it runs.",
+      "source_references": [
+        "Digitisation is not e-governance",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROGRAMME AND ASSESSMENT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROGRAMME AND ASSESSMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "UMBRELLA PROGRAMME OF THE MINISTRY OF ELECTRONICS AND INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGITAL INFRASTRUCTURE, GOVERNANCE ON DEMAND, DIGITAL EMPOWERMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL E-GOVERNANCE SERVICE DELIVERY ASSESSMENT, RUN BY DARPG",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESSIBILITY, CONTENT, EASE OF USE, SECURITY, DELIVERY, INTEGRATION, TRACKING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DIGITAL INDIA → umbrella programme of the Ministry of Electronics and Information Technology",
+        "PILLARS → digital infrastructure, governance on demand, digital empowerment",
+        "ASSESSMENT → National e-Governance Service Delivery Assessment, run by DARPG",
+        "PARAMETERS → accessibility, content, ease of use, security, delivery, integration, tracking"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIGITAL INDIA → umbrella programme of the Ministry of Electronics and Information Technology",
+          "ASSESSMENT → National e-Governance Service Delivery Assessment, run by DARPG",
+          "DIGITAL INDIA → umbrella programme of the Ministry of Electronics and Information Technology"
+        ],
+        [
+          "PILLARS → digital infrastructure, governance on demand, digital empowerment",
+          "PARAMETERS → accessibility, content, ease of use, security, delivery, integration, tracking",
+          "PILLARS → digital infrastructure, governance on demand, digital empowerment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIGITAL INDIA → umbrella programme of the Ministry of Electronics and Information Technology",
+            "PILLARS → digital infrastructure, governance on demand, digital empowerment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSESSMENT → National e-Governance Service Delivery Assessment, run by DARPG",
+            "PARAMETERS → accessibility, content, ease of use, security, delivery, integration, tracking"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIGITAL INDIA → umbrella programme of the Ministry of Electronics and Information Technology",
+            "PILLARS → digital infrastructure, governance on demand, digital empowerment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARAMETERS → accessibility, content, ease of use, security, delivery, integration, tracking.",
+      "source_references": [
+        "Digital India as umbrella and its exact boundary",
+        "The assessment framework and its listed parameters",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TWIN SERVICE-COMPLETION PARAMETERS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWIN SERVICE-COMPLETION PARAMETERS",
+          "role": "primary"
+        },
+        {
+          "text": "END SERVICE DELIVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THE SERVICE COMPLETED ONLINE, NOT MERELY INITIATED",
+          "role": "caution"
+        },
+        {
+          "text": "INTEGRATED SERVICE DELIVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARE DEPARTMENTS AND SERVICES JOINED UP SEAMLESSLY",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT THE PAIR SEPARATES",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL INTERACTIVE DELIVERY FROM A FRONT END ON UNCHANGED",
+          "role": "comparison"
+        },
+        {
+          "text": "A SCORED PARAMETER CAN BE OPTIMISED WITHOUT CHANGING CITIZEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "END SERVICE DELIVERY → is the service completed online, not merely initiated",
+        "INTEGRATED SERVICE DELIVERY → are departments and services joined up seamlessly",
+        "WHAT THE PAIR SEPARATES → real interactive delivery from a front end on unchanged silos",
+        "CAUTION → a scored parameter can be optimised without changing citizen experience"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "END SERVICE DELIVERY → is the service completed online, not merely initiated",
+          "WHAT THE PAIR SEPARATES → real interactive delivery from a front end on unchanged silos",
+          "END SERVICE DELIVERY → is the service completed online, not merely initiated"
+        ],
+        [
+          "INTEGRATED SERVICE DELIVERY → are departments and services joined up seamlessly",
+          "CAUTION → a scored parameter can be optimised without changing citizen experience",
+          "INTEGRATED SERVICE DELIVERY → are departments and services joined up seamlessly"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "END SERVICE DELIVERY → is the service completed online, not merely initiated",
+            "INTEGRATED SERVICE DELIVERY → are departments and services joined up seamlessly"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHAT THE PAIR SEPARATES → real interactive delivery from a front end on unchanged silos",
+            "CAUTION → a scored parameter can be optimised without changing citizen experience"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "END SERVICE DELIVERY → is the service completed online, not merely initiated",
+            "INTEGRATED SERVICE DELIVERY → are departments and services joined up seamlessly"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → a scored parameter can be optimised without changing citizen experience.",
+      "source_references": [
+        "The twin service-completion parameters",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DATED STATUS CONTROLS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DATED STATUS CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "LATEST COMPLETED ASSESSMENT LOCATED",
+          "role": "outcome"
+        },
+        {
+          "text": "NESDA 2021",
+          "role": "comparison"
+        },
+        {
+          "text": "PORTAL LAUNCH",
+          "role": "evidence"
+        },
+        {
+          "text": "NESDA 2025 ASSESSMENT PORTAL LAUNCHED ON 25 MAY 2026",
+          "role": "primary"
+        },
+        {
+          "text": "A LAUNCHED PORTAL IS NOT A COMPLETED OR PUBLISHED",
+          "role": "caution"
+        },
+        {
+          "text": "DATED FIGURE",
+          "role": "comparison"
+        },
+        {
+          "text": "56 IDENTIFIED MANDATORY E-SERVICES, RE-VERIFIED 13 AUGUST 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LATEST COMPLETED ASSESSMENT LOCATED → NeSDA 2021",
+        "PORTAL LAUNCH → NeSDA 2025 assessment portal launched on 25 May 2026",
+        "RULE → a launched portal is not a completed or published assessment report",
+        "DATED FIGURE → 56 identified mandatory e-services, re-verified 13 August 2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LATEST COMPLETED ASSESSMENT LOCATED → NeSDA 2021",
+            "PORTAL LAUNCH → NeSDA 2025 assessment portal launched on 25 May 2026"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE → a launched portal is not a completed or published assessment report",
+            "DATED FIGURE → 56 identified mandatory e-services, re-verified 13 August 2026"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LATEST COMPLETED ASSESSMENT LOCATED → NeSDA 2021",
+            "PORTAL LAUNCH → NeSDA 2025 assessment portal launched on 25 May 2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a launched portal is not a completed or published assessment report.",
+      "source_references": [
+        "Dated implementation figures and the launch rule",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHY THE BACK-END BIAS IS STRUCTURAL",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY THE BACK-END BIAS IS STRUCTURAL",
+          "role": "primary"
+        },
+        {
+          "text": "1 PROCUREMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "A TENDER SPECIFIES DATABASES AND FEATURES, NOT TASK COMPLETION",
+          "role": "caution"
+        },
+        {
+          "text": "2 CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DEEP BACK-END EXPERTISE, THIN CITIZEN-EXPERIENCE DESIGN CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "3 METRICS",
+          "role": "outcome"
+        },
+        {
+          "text": "GO-LIVE AND FEATURE COUNT ARE MEASURED, DROP-OFF USUALLY IS",
+          "role": "comparison"
+        },
+        {
+          "text": "4 DEFAULT DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 PROCUREMENT → a tender specifies databases and features, not task completion",
+        "2 CAPACITY → deep back-end expertise, thin citizen-experience design capacity",
+        "3 METRICS → go-live and feature count are measured, drop-off usually is not",
+        "4 DEFAULT DESIGN → the interface is built around the departmental database",
+        "5 OUTCOME → a functional portal that reproduces the old opacity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 PROCUREMENT → a tender specifies databases and features, not task completion",
+            "2 CAPACITY → deep back-end expertise, thin citizen-experience design capacity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 METRICS → go-live and feature count are measured, drop-off usually is not",
+            "4 DEFAULT DESIGN → the interface is built around the departmental database"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 OUTCOME → a functional portal that reproduces the old opacity",
+            "1 PROCUREMENT → a tender specifies databases and features, not task completion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "5 OUTCOME → a functional portal that reproduces the old opacity.",
+      "source_references": [
+        "Why the back-end bias is structural",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "USE VALUE OF INFORMATION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "USE VALUE OF INFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "THE INFORMATION EXISTS SOMEWHERE; DIGITISATION SUPPLIES THIS ALMOST FREE",
+          "role": "outcome"
+        },
+        {
+          "text": "A CITIZEN CAN ACTUALLY OBTAIN IT",
+          "role": "comparison"
+        },
+        {
+          "text": "USE VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "TIMELY, INTELLIGIBLE, ACTIONABLE AT THE MOMENT OF DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN LEVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMAT, TIMING, GRANULARITY AND AN ACTION ATTACHED TO THE",
+          "role": "comparison"
+        },
+        {
+          "text": "INFORMATION WITHOUT AN IDENTIFIABLE DUTY-HOLDER PRODUCES AWARENESS, NOT REMEDY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AVAILABILITY → the information exists somewhere; digitisation supplies this almost free",
+        "ACCESSIBILITY → a citizen can actually obtain it",
+        "USE VALUE → timely, intelligible, actionable at the moment of decision",
+        "DESIGN LEVERS → format, timing, granularity and an action attached to the information",
+        "LIMIT → information without an identifiable duty-holder produces awareness, not remedy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AVAILABILITY → the information exists somewhere; digitisation supplies this almost free",
+            "ACCESSIBILITY → a citizen can actually obtain it"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "USE VALUE → timely, intelligible, actionable at the moment of decision",
+            "DESIGN LEVERS → format, timing, granularity and an action attached to the information"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → information without an identifiable duty-holder produces awareness, not remedy",
+            "AVAILABILITY → the information exists somewhere; digitisation supplies this almost free"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → information without an identifiable duty-holder produces awareness, not remedy.",
+      "source_references": [
+        "Availability, accessibility and use value",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SEVEN IMPLEMENTATION FACTORS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SEVEN IMPLEMENTATION FACTORS",
+          "role": "primary"
+        },
+        {
+          "text": "RE-ENGINEER BEFORE DIGITISING; OWNERSHIP CONTINUITY ACROSS TRANSFERS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEROPERABILITY AND OPEN STANDARDS INSTEAD OF ONE-OFF VENDOR STACKS",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA AND CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CLEAN SOURCE RECORDS; OFFICIALS AND CITIZENS TRAINED; ASSISTED ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "PEOPLE AND CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGE MANAGEMENT AND INCENTIVES; SECURITY, AUDIT TRAIL, FALLBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROCESS → re-engineer before digitising; ownership continuity across transfers",
+        "ARCHITECTURE → interoperability and open standards instead of one-off vendor stacks",
+        "DATA AND CAPACITY → clean source records; officials and citizens trained; assisted access",
+        "PEOPLE AND CONTINUITY → change management and incentives; security, audit trail, fallback",
+        "CLOSE DISTINCTION: Digitisation converts form, digitalisation changes a process, and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCESS → re-engineer before digitising; ownership continuity across transfers",
+            "ARCHITECTURE → interoperability and open standards instead of one-off vendor stacks"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DATA AND CAPACITY → clean source records; officials and citizens trained; assisted access",
+            "PEOPLE AND CONTINUITY → change management and incentives; security, audit trail, fallback"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Digitisation converts form, digitalisation changes a process, and...",
+            "PROCESS → re-engineer before digitising; ownership continuity across transfers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Digitisation converts form, digitalisation changes a process, and.",
+      "source_references": [
+        "Seven vital factors in an information-technology project",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THREE INADEQUACY BUCKETS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE INADEQUACY BUCKETS",
+          "role": "primary"
+        },
+        {
+          "text": "UNREFORMED PROCESS, POOR SOURCE DATA, ONLINE START WITH OFFLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUS WITHOUT REASONS, UNUSABLE RULES, DISPOSAL DASHBOARDS WITHOUT QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO NAMED OFFICER, TICKETS CLOSED WITHOUT THE CAPABILITY FIX",
+          "role": "caution"
+        },
+        {
+          "text": "STRUCTURAL POINT",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSPARENCY FEATURES CREATE NO ACCOUNTABILITY WITHOUT A DUTY-HOLDER",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE UMANG, DIGILOCKER, GOVERNMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EFFECTIVENESS → unreformed process, poor source data, online start with offline finish",
+        "TRANSPARENCY → status without reasons, unusable rules, disposal dashboards without quality",
+        "ACCOUNTABILITY → no named officer, tickets closed without the capability fix, no penalty",
+        "STRUCTURAL POINT → transparency features create no accountability without a duty-holder",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EFFECTIVENESS → unreformed process, poor source data, online start with offline finish",
+          "ACCOUNTABILITY → no named officer, tickets closed without the capability fix, no penalty",
+          "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government..."
+        ],
+        [
+          "TRANSPARENCY → status without reasons, unusable rules, disposal dashboards without quality",
+          "STRUCTURAL POINT → transparency features create no accountability without a duty-holder",
+          "EFFECTIVENESS → unreformed process, poor source data, online start with offline finish"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EFFECTIVENESS → unreformed process, poor source data, online start with offline finish",
+            "TRANSPARENCY → status without reasons, unusable rules, disposal dashboards without quality"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNTABILITY → no named officer, tickets closed without the capability fix, no penalty",
+            "STRUCTURAL POINT → transparency features create no accountability without a duty-holder"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government...",
+            "EFFECTIVENESS → unreformed process, poor source data, online start with offline finish"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government.",
+      "source_references": [
+        "The three inadequacy buckets and the exclusion checklist",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR AN E-GOVERNANCE EVALUATION",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR AN E-GOVERNANCE EVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE MODEL, THE INTERACTION DOMAIN AND THE MATURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR-STAGE BIAS MECHANISM, THEN THE TWIN COMPLETION PARAMETERS AS",
+          "role": "mechanism"
+        },
+        {
+          "text": "JOURNEY MAPPING, USABILITY TESTING, VERNACULAR AND LOW-BANDWIDTH DESIGN, ASSISTED",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH AN EXPLICIT DATED STATUS CAVEAT AND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the model, the interaction domain and the maturity stage separately",
+        "BUILD → four-stage bias mechanism, then the twin completion parameters as the benchmark",
+        "CORRECT → journey mapping, usability testing, vernacular and low-bandwidth design, assisted route",
+        "CLOSE → graded verdict with an explicit dated status caveat and stated question ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the model, the interaction domain and the maturity stage separately",
+            "BUILD → four-stage bias mechanism, then the twin completion parameters as the benchmark"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → journey mapping, usability testing, vernacular and low-bandwidth design, assisted route",
+            "CLOSE → graded verdict with an explicit dated status caveat and stated question ownership"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the model, the interaction domain and the maturity stage separately",
+            "BUILD → four-stage bias mechanism, then the twin completion parameters as the benchmark"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with an explicit dated status caveat and stated question ownership.",
+      "source_references": [
+        "The mediated interface and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\05_E-Governance-Models-and-User-Centricity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g2\\governance-05_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE INTERACTIVE SERVICE MODEL'S ACCOUNTABILITY CLAIM RESTS ON CITIZENS",
+          "role": "outcome"
+        },
+        {
+          "text": "E-PARTICIPATION/OPEN-DATA ASSESSMENTS MAY COMPLEMENT NESDA WORK, BUT THE CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE COMPARATIVE ANALYSIS MODEL (CITIZEN-FACING PERFORMANCE DASHBOARDS) CAN ITSELF",
+          "role": "evidence"
+        },
+        {
+          "text": "DARPG'S NESDA IS A PRINCIPAL BENCHMARKING CORRECTIVE FOR USER-CENTRICITY",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL INDIA'S BROADER MANDATE (DIGITAL INFRASTRUCTURE, GOVERNANCE ON DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "CITIZEN-EXPERIENCE/USABILITY TESTING, VERNACULAR-LANGUAGE INTERFACE DESIGN, AND",
+          "role": "comparison"
+        },
+        {
+          "text": "A WELL-DESIGNED INTERACTIVE SERVICE MODEL EXAMPLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The Interactive Service Model's accountability claim rests on citizens being able to",
+            "CAUTION: E-participation/open-data assessments may complement NeSDA work, but the core NeSDA",
+            "CAUTION: The Comparative Analysis Model (citizen-facing performance dashboards) can itself",
+            "DARPG's NeSDA is a principal benchmarking corrective for user-centricity, scoring"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Digital India's broader mandate (digital infrastructure, governance on demand, digital",
+            "CAUTION: Citizen-experience/usability testing, vernacular-language interface design, and",
+            "CAUTION: A well-designed Interactive Service Model example: an online license-renewal portal",
+            "CAUTION: Boundary/bias case: a portal that requires citizens to navigate multiple"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: A comparative-analysis dashboard publishing district-wise service-delivery timelines",
+            "CAUTION: Genuine user-centric redesign is slower and costlier than digitising an existing",
+            "CAUTION: Interactive Service Model transparency (visible status/timelines) does not automatically",
+            "CAUTION: NeSDA-style external assessment can itself be gamed (departments optimising for scored"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "record_id": "ethics-04:learner-v2:g2",
+  "topic_key": "ethics-04",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "ethics-04:learner-v2:g1",
+  "command": "Generate learner-v2 topic: Ethics — Subject-wide Syllabus — Aptitude and Foundational Values for Civil Service — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\assets",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ethics-04:learner-v2:g2"
+  },
+  "provenance": {
+    "workflow": "ethics-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.md",
+    "pyq_corpus": [
+      "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+    ],
+    "local_reference_sources": [
+      "books\\ethics4.pdf"
+    ],
+    "subject_boundary": "This package directly owns its GS-IV syllabus clause. Exact recent questions are distinguished from neutral historical routing notes.",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-02",
+    "superseded_v1": null,
+    "source_hashes": {
+      "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf": "5038faf653a842c5f637756e7081ef8dcc663d09cea609947a377312a4da45f5",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf": "992d194aa7b5aa3b5a5c5ef8f4d8c69c03971b28a2e8a16efcbb878c6591c15f",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+      "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md": "3a27b9051d45760ab37eb9a718eccb901b6792b4e6eae45e1cc3b2ed202bc29c",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md": "5b17b0536988347bd48caa6c2feae9a0cf1216b65eaf4cdd131284ff37d7bfaa",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md": "712a24e7251b4397ebfb6e29145dfd11667b9e6b801008cf1d7cf399b31e6a15",
+      "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "9d8b81770fa122df7ad6ea5d1cefb33162dd8fe6679f875c9414ba7e0f4dfcb2",
+      "upsc-ai-kit\\knowledge\\Ethics\\README.md": "6e36ff77410d49d1b8b2e485c4bd8efd8c5ec341f9f793c89afcccf1e9873cfc"
+    },
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.md": "abb3f66bff6a1f58c1faf4b3aa4cf5dfd88f93a87afaa99708ca9567f7fa3ada",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.md": "ba0e6d2cd3a61271e7f419286d9aea92b24c4eee63453097d6ebe7a0723e8061",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Complete-Learning-Session_2026-09-02.pdf": "df2bf3a72be17a9a795dac669b04ac5ffd00dfe5d4c581bdbf31e2050e1337ed",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.pdf": "7fac1176dccbf01ede9b4e296c05c5f099aaf1a3101e16f2d8187d45b9d3877b",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\validation\\main-visual-audit-map.json": "40fbcf4d4dd6d052d4e03467b2c8cbbc0c521db220db966e02a7410b5d1c10fc",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\validation\\workbook-visual-audit-map.json": "32143a23b95aedc422ce51e9239649f3043fe7fde3903bcfa0159666d1cf2c8f",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-04-deep-review-2026-09-02-g2.json": "29e248eb3e238a02ed05a1f1dd15e089da6c9dc6a48f87b2da186cf81fdd8b98",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ethics\\deep-review\\ethics-04-g2.json": "99b96dfd9b156332221cc7c3c506bc805a6e47fdbc8f6c2c381b525d5842dde0",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\assets\\ethics-04_concept-map_g1.png": "1b067ac8c27125aa044d30483e8ee0afc59c11f97b820ffd1b860f3cf200e975",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\assets\\ethics-04_main-visual-audit_g1.json": "58f9441acff9716fd682570e1620bd4bf4b44b93fcd0f8a1d3eff075f07ae373",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\assets\\ethics-04_workbook-visual-audit_g1.json": "0268bc241cbdf4d5e0d9787458f423f6abf448f5f848ff3aa3c3f3d71a9034e1",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\ascii-master.pdf": "06d76a0df78676e0b53a184900fef9b25172e7aed4cc13cf48d7fda4605b0267",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\ascii-master.txt": "79f5d93428c7cdd657a774632ab065bd33bbd74776988f9a2ea2564206fa7941",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\build-audit.json": "ab376e752c862b007498ed11350c77bb438b7396ed37bcd4db4c6dc0491e2d7b",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\master.png": "37f7f48a8688298750f55d26efa737e0c19eda3f827203450d214a165c2269f3",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\poster.pdf": "2ef79472088e85f93ddf2a59c96ab1b4a507d483994c767010c3a0de6fe5735f",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\preservation-hashes.json": "a21f112f55695b52e28a680c626bfce32fe4cc1a5f71ce700bd80982b6f15291",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\README.txt": "da2b423a11eef3b03be07d98e805a8255c3b6a1891e6a1a0a38098b23c3258eb",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\tiled.pdf": "f97a6c24956a3d460109b2fea2145174170e30140f6399394fc3be97a71588b7",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\validation-report.txt": "1dc613cd54e0eab38cc4b0d4f6f107f80ff48dde70addf82dfa80b00182be51b",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\editable\\topic-spec.json": "99b96dfd9b156332221cc7c3c506bc805a6e47fdbc8f6c2c381b525d5842dde0",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\contact-sheet-01.png": "1522d991cf122e4618bc5a8ce3bd2f9b604a77f8ee6c212bfad166214e502bed",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\master-overview.png": "a3048941fe238ead844687171959fc633da78b5af4b340eccfec8887d6329f85",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\page-001.png": "82bee24300c421790264b446fad4913b9e7784969ac8ed098106b969bc9d5d23",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\page-002.png": "05efa18617d1c3bc40c540dc662755dea2f8d40b8c3586056adf60af8ff8f7f1",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\page-003.png": "ed7f0782b7e79b098194de54c90933fe9c09d32d37b3417d2595a1cc5c179943",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\page-004.png": "63930c85f2db7e2c66fd5901da3d80d652fd6c36eb278bf9a335056fb95a05cc",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\page-005.png": "ba7d66940f49a00106f61e19bd313bf58da193d625e1b4e7b31192672a51204f",
+      "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-content-specs\\ethics-04-g2.json": "d62a5df8cbb2aef0bcedb6218b9a643ce82d2a12c582207b628f5c9093ab1eb2"
+    },
+    "concept_visual": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-04\\ethics-04_concept-map_g1.png",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-04-deep-review-2026-09-02-g2.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-content-specs\\ethics-04-g2.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md"
+    ],
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ethics\\deep-review\\ethics-04-g2.json",
+    "graphical_spec_sha256": "99b96dfd9b156332221cc7c3c506bc805a6e47fdbc8f6c2c381b525d5842dde0",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-04-deep-review-2026-09-02-g2.json",
+    "ascii_master_spec_sha256": "29e248eb3e238a02ed05a1f1dd15e089da6c9dc6a48f87b2da186cf81fdd8b98",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g2\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-ethics-deep-review-spec"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-02",
+    "validator": "regenerate_ethics_deep_review.py"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g2\\ethics-04_Solved-Practice-Workbook_2026-09-02.md",
+  "generated_on": "2026-09-02"
+}

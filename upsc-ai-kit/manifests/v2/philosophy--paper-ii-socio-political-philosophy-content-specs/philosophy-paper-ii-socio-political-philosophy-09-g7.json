@@ -1,0 +1,887 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+  "variant": "learner-v2",
+  "generation": 7,
+  "approval": false,
+  "official_syllabus_verbatim": "Gender Discrimination : Female Foeticide, Land and Property Rights; Empowerment.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-09-03.md",
+  "source_provenance": {
+    "canonical_owner": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
+    "advanced_dossier": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+    "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+    "retained_learning_session": null,
+    "retained_workbook": null,
+    "successor_source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g6\\topic-09_Complete-Learning-Session_2026-09-03.md",
+    "assembly_mode": "immutable-successor-from-latest-validated-learner-v2"
+  },
+  "core_sessions": [
+    {
+      "title": "Sex, Gender and Beauvoir's 'Other'",
+      "plain": "Sex is the biological fact of being male or female; gender is what a society decides that biological fact should mean -- roles, virtues, and limits. Simone de Beauvoir's line 'One is not born, but rather becomes, a woman' says the second part is made, not given.",
+      "technical": "Beauvoir's existentialist-feminist claim treats 'woman' as a social category constituted by being cast as Other against a male Self/Subject norm. This is the founding move that separates sex (biological difference) from gender (constructed meaning), against essentialist readings that collapse the two.",
+      "answer": "Open by stating the sex/gender distinction, cite Beauvoir's becoming thesis and the Self/Other structure, then show what work the distinction does for a discrimination argument: if gender is made, gender discrimination is a remediable social fact, not a natural order.",
+      "keywords": [
+        "sex versus gender",
+        "simone de beauvoir",
+        "the second sex",
+        "the other",
+        "biological-difference objection",
+        "essentialism objection"
+      ],
+      "usage": "Define sex versus gender, anchor the distinction in Simone de Beauvoir's Other, test the biological-difference and essentialism objections, and conclude whether the discrimination is natural or socially remediable.",
+      "mechanism": "Othering mechanism: the male is posited as the neutral Subject/norm; the female is defined only relationally, as what the Subject is not -- this relational deficit is then read back onto women as natural inferiority, naturalising a social hierarchy.",
+      "consequence": "Once woman is fixed as Other, her subordination looks like a fact about her nature rather than an effect of a social structure, which forecloses reform and stabilises unequal treatment as 'just how things are.'",
+      "trap": "Do not conflate 'sex is biological' with 'gender discrimination is biologically justified' -- the whole point of the distinction is that the second does not follow from the first.",
+      "objection": "Biological-difference objection: reproductive and physiological differences are real and cannot be wished away, so some differential treatment reflects nature, not discrimination.",
+      "reply": "Beauvoir and successors concede biological difference but deny that it fixes social meaning; the leap from 'physically different' to 'socially unequal' is a cultural inference, not a logical entailment, and it is precisely that inference gender theory contests.",
+      "limit": "The sex/gender split can itself be criticised (see Session 2) for smuggling back a 'raw' biological sex that is not itself culturally innocent -- flag this as an internal tension rather than resolve it here.",
+      "exam": "Secondary anchor for 2025 Q1(b) (gender as social construct) and 2019 Q3(b) (man-made concept, not naturally endowed) -- use this session to supply the Beauvoir citation those answers need.",
+      "revision": [
+        "Sex = biological; gender = social meaning attached to sex.",
+        "Beauvoir: 'One is not born, but rather becomes, a woman.'",
+        "Woman constructed as Other against male Subject/norm.",
+        "Othering naturalises hierarchy as if it were biological fact.",
+        "Biological-difference objection: real physiological differences exist.",
+        "Reply: difference does not entail differential social worth.",
+        "Distinction enables discrimination to be seen as remediable, not natural.",
+        "Watch for the internal tension explored fully in Session 2."
+      ],
+      "visuals": [
+        {
+          "title": "Self / Other Construction",
+          "lines": [
+            "  MALE NORM (Self/Subject)",
+            "        |",
+            "        |  defines by negation",
+            "        v",
+            "  FEMALE (constructed as Other)",
+            "        |",
+            "        v",
+            "  relational deficit read as 'natural' inferiority",
+            "  CATEGORY CARE: sex characteristics != assignment != identity/expression/role"
+          ],
+          "caption": "Shows how Beauvoir's Self/Other structure converts a relational position into an apparently natural hierarchy."
+        }
+      ]
+    },
+    {
+      "title": "Gender as a Cultural Category and Butler's Performativity",
+      "plain": "Judith Butler goes further than Beauvoir: gender is not a fixed inner identity expressed outwardly but something produced by repeating gestures, speech, and styles -- 'performativity,' not a single act of performance.",
+      "technical": "Gender Trouble argues gender is constituted through 'performative repetition' of stylised acts within a regulatory frame; there is no gendered substance behind the acts -- the doing is the being. This unsettles any stable, pre-social sex/gender binary.",
+      "answer": "State the shift from Beauvoir's 'becoming' to Butler's 'performative repetition,' then use it to answer whether gender is culturally, not biologically, constituted -- performativity supplies the mechanism Beauvoir's account leaves underspecified.",
+      "keywords": [
+        "gender as a cultural category",
+        "judith butler",
+        "gender performativity",
+        "gender trouble",
+        "performative repetition",
+        "discursive construction"
+      ],
+      "usage": "Deploy when a question explicitly opposes 'gender as cultural category' to 'sex as biological category,' or asks how gender is produced rather than merely defined.",
+      "mechanism": "Repetition mechanism: norms of masculinity/femininity are reiterated in everyday acts (dress, speech, comportment); each repetition both produces the appearance of a natural gender and disciplines deviation from it.",
+      "consequence": "If gender is performed rather than expressed, it is in principle unstable and open to subversive repetition -- but also means discrimination is reproduced daily through ordinary social practice, not only through law.",
+      "trap": "Do not present performativity as 'people choosing to perform gender like an act on a stage' -- Butler explicitly denies a prior chooser; the subject is itself an effect of the repetition.",
+      "objection": "Essentialism objection: without any stable pre-discursive sex, feminism loses the very subject ('woman') in whose name it claims to act, risking political incoherence.",
+      "reply": "Butler answers that provisional, strategic use of 'woman' as a political category remains available even without metaphysical fixity -- solidarity does not require essence, only a shared discursive position worth contesting.",
+      "limit": "Performativity explains how gender norms are reproduced but is criticised for being weaker on why particular norms (rather than others) become hegemonic -- economic and institutional accounts (Sessions 6-8) supply that missing structural piece.",
+      "exam": "Primary anchor for 2019 Q3(b) and 2022 Q3(b) (gender as cultural vs sex as biological category); secondary support for 2025 Q1(b).",
+      "revision": [
+        "Butler: gender is performative, not expressive of an inner essence.",
+        "Performative repetition of stylised acts constitutes gender.",
+        "No gendered substance exists prior to or behind the acts.",
+        "Repetition both produces and disciplines gender appearance.",
+        "Essentialism objection: risk of losing 'woman' as a stable subject.",
+        "Reply: strategic, provisional use of 'woman' still grounds solidarity.",
+        "Performativity explains reproduction, less so origin of specific norms.",
+        "Directly answers 'gender as cultural category vs sex as biological.'"
+      ],
+      "visuals": [
+        {
+          "title": "Performative Repetition Loop",
+          "lines": [
+            "   stylised act --> read as natural --> repeated",
+            "        ^                                   |",
+            "        |___________________________________|",
+            "        (regulatory norm reinforced each cycle)"
+          ],
+          "caption": "Illustrates Butler's claim that gender is an effect of repeated performance, not an expression of prior essence."
+        }
+      ],
+      "closure_keywords": [
+        "judith butler",
+        "gender trouble",
+        "gender performativity",
+        "discursive construction"
+      ]
+    },
+    {
+      "title": "Feminist Diagnoses and the Architecture of Equality",
+      "plain": "Different feminist schools diagnose the root cause of women's subordination differently (law, economy, culture, sexuality), and 'equality' itself splits into formal, substantive, and relational versions with different remedies.",
+      "technical": "The equality typology (formal, substantive, relational; equality of opportunity vs equality of outcome) determines what counts as a remedy: formal equality bars differential rules, substantive equality permits affirmative action to correct starting-point disadvantage.",
+      "answer": "Set out the equality typology first, then use it to adjudicate whether feminism aims at empowerment (substantive, outcome-sensitive) or equality (formal, rule-neutral) -- and show the two are not mutually exclusive.",
+      "keywords": [
+        "formal equality",
+        "substantive equality",
+        "relational equality",
+        "equality of opportunity",
+        "equality of outcome",
+        "affirmative action"
+      ],
+      "usage": "Use for any question forcing a choice between 'feminism as empowerment' and 'feminism as equality,' or asking to evaluate reservation/affirmative-action style remedies.",
+      "mechanism": "Formal equality removes explicit legal differentiation; substantive equality additionally compensates for unequal starting points via targeted measures; relational equality asks whether social relationships themselves remain hierarchical despite equal rules.",
+      "consequence": "Choosing formal equality alone can leave real disadvantage untouched (equal treatment of unequals reproduces inequality); choosing substantive equality invites the reverse-discrimination objection.",
+      "trap": "Do not treat 'equality' as one univocal idea -- an answer that fails to specify which equality is at stake will look conceptually loose to an examiner.",
+      "objection": "Reverse-discrimination objection: affirmative measures for women amount to discrimination against men, and adaptive preference arguments (women 'choosing' subordinate roles under constrained options) can be used to deny inequality exists at all.",
+      "reply": "Substantive-equality theorists reply that correcting a structural disadvantage is not equivalent to creating a new one, and that 'choice' made under adaptive preference does not settle whether the background options were themselves just.",
+      "limit": "The typology clarifies remedies but does not by itself settle *how much* substantive correction is warranted -- that judgement is made contextually, using the domain-specific sessions (foeticide, property, political representation) that follow.",
+      "exam": "Primary anchor for 2018 Q4(c) (empowerment vs equality); secondary support for 2025 Q1(b).",
+      "revision": [
+        "Formal equality: no explicit differential rule.",
+        "Substantive equality: compensates unequal starting points.",
+        "Relational equality: asks if social relations remain hierarchical.",
+        "Equality of opportunity vs equality of outcome is a related axis.",
+        "Affirmative action is a substantive-equality remedy.",
+        "Reverse-discrimination objection targets affirmative measures.",
+        "Adaptive preference objection can mask real constraint as 'choice.'",
+        "Empowerment and equality are not mutually exclusive goals."
+      ],
+      "visuals": [
+        {
+          "title": "Equality Typology Table",
+          "lines": [
+            "  TYPE          | REMEDY               | RISK",
+            "  formal        | equal rule            | ignores start-point gap",
+            "  substantive   | targeted correction   | reverse-discrimination charge",
+            "  relational    | restructure relations | hardest to operationalise",
+            "  SAMENESS risk -> male pattern hidden as neutral",
+            "  DIFFERENCE risk -> accommodation hardens into essence",
+            "  JUSTICE -> redistribution + recognition + representation"
+          ],
+          "caption": "Compares the three equality types against their typical remedy and the objection each remedy attracts."
+        }
+      ]
+    },
+    {
+      "title": "Female Foeticide: Doctrine, Distinctions, Causes and Missing Women",
+      "plain": "Female foeticide is the sex-selective abortion of female fetuses. It must be kept distinct from female infanticide (killing after birth) and dowry-linked violence, and it is driven by son preference operating through technology, not by technology alone.",
+      "technical": "Amartya Sen's 'missing women' argument uses skewed sex ratios as evidence of large-scale discrimination against women across South and East Asia; in India this is channelled through prenatal sex determination misuse despite the PCPNDT Act, 1994 prohibiting it.",
+      "answer": "Distinguish foeticide/infanticide/dowry-death precisely, cite Sen's missing-women statistic-as-argument (not a specific invented number), name the PCPNDT Act 1994 as the enacted legal response, and conclude that son preference (a gender-discrimination attitude), not technology per se, is the causal driver.",
+      "keywords": [
+        "female foeticide",
+        "sex-selective abortion",
+        "sex ratio at birth",
+        "missing women",
+        "amartya sen",
+        "pcpndt act 1994"
+      ],
+      "usage": "Define female foeticide as sex-selective abortion, use Amartya Sen's missing-women diagnosis, locate son preference before technology in the causal chain, classify the PCPNDT Act 1994, and end with a law-plus-substantive-equality verdict.",
+      "mechanism": "Son preference (rooted in dowry economics, patrilineal inheritance expectations, and old-age security norms) creates demand; prenatal diagnostic technology supplies the means; weak enforcement of the PCPNDT Act, 1994 fails to close the gap between demand and act.",
+      "consequence": "A skewed child sex ratio at birth, treated by Sen as an index of systemic discrimination rather than an isolated crime, with downstream effects on marriage markets and women's bargaining position.",
+      "trap": "Do not blame 'technology' as the primary cause -- the question '2021 Q4(b)' explicitly tests whether you will resist this simplification; technology is the instrument, son preference is the cause.",
+      "objection": "One could object that stringent law alone (PCPNDT Act) should have solved the problem, so continued prevalence shows the diagnosis (son preference, not technology) must be wrong.",
+      "reply": "Persistence despite legal prohibition supports, rather than refutes, the son-preference diagnosis: law changes formal permissibility, not the underlying discriminatory preference structure that drives demand around the law (a formal- vs substantive-equality point from Session 3).",
+      "limit": "This session documents doctrine and diagnosis; it does not assert any specific unverified statistic on national sex ratio or districtwise figures -- cite only the direction of skew and the named policy instruments (PCPNDT Act 1994, Beti Bachao Beti Padhao 2015).",
+      "exam": "Primary anchor for 2018 Q4(b), 2021 Q4(b), and 2023 Q3(c); secondary linkage into 2024 Q4(a)'s empowerment-and-foeticide question.",
+      "revision": [
+        "Female foeticide = sex-selective abortion; keep distinct from infanticide.",
+        "Amartya Sen: 'missing women' as an index of systemic discrimination.",
+        "PCPNDT Act, 1994 prohibits prenatal sex determination for selection.",
+        "Beti Bachao Beti Padhao (2015) is the named policy-response scheme.",
+        "Cause = son preference; technology is only the instrument.",
+        "Son preference is rooted in dowry, inheritance and old-age-security norms.",
+        "Legal prohibition persisting alongside the practice supports, not refutes, the diagnosis.",
+        "Never cite an invented sex-ratio figure; name direction and instruments only."
+      ],
+      "visuals": [
+        {
+          "title": "Foeticide Causal Chain",
+          "lines": [
+            "  son preference (discriminatory attitude)",
+            "        |",
+            "        v",
+            "  demand for sex determination",
+            "        |         (PCPNDT Act 1994 prohibits)",
+            "        v",
+            "  sex-selective abortion  -->  skewed sex ratio at birth"
+          ],
+          "caption": "Places son preference, not technology, as the causal root, with the PCPNDT Act positioned as the (imperfectly enforced) legal barrier."
+        }
+      ]
+    },
+    {
+      "title": "Land and Property Rights: Agarwal's Five Levels and the Legal Record",
+      "plain": "Bina Agarwal argues that owning land 'on paper' is not enough for women's empowerment; actual command must be tested through legal title, access/use, control, realised return, and exit/security.",
+      "technical": "Agarwal's five-level analysis (legal title / access-use / control / return / exit-security) disaggregates property rights into separable components. Legal title is neither necessary nor sufficient for actual command: informal access may exist without title, while title may yield no control, income, benefit or bargaining security.",
+      "answer": "State the five-level analysis, map India's legal record onto it (Hindu Succession Act, 2005 amendment giving daughters coparcenary rights; *Vineeta Sharma v. Rakesh Sharma*, 2020 as a Supreme Court judgment clarifying that amendment, not itself a statute), then assess title, access, control, realised return and exit/security separately.",
+      "keywords": [
+        "bina agarwal",
+        "five-level analysis of land rights",
+        "title access control return exit",
+        "coparcenary",
+        "hindu succession act 2005",
+        "vineeta sharma v rakesh sharma 2020"
+      ],
+      "usage": "State Bina Agarwal's five-level analysis, test legal title, access/use, control, return and exit/security, classify the Hindu Succession Act 2005 and Vineeta Sharma 2020 correctly, and conclude whether formal coparcenary title becomes effective empowerment.",
+      "mechanism": "The Hindu Succession Act, 2005 amendment strengthens legal title, but actual command depends separately on practical access/use, decision-making control, receipt of income and benefit, and the asset's capacity to provide fall-back security against abandonment or violence.",
+      "consequence": "Where custom, family pressure, or lack of enforcement blocks the other dimensions, women can hold title while male relatives retain effective control -- a gap between de jure and de facto empowerment.",
+      "trap": "Do not cite *Vineeta Sharma* as if it created the coparcenary right -- it is a 2020 Supreme Court judgment interpreting/clarifying the 2005 amendment's retrospective application; the statutory right itself dates to the 2005 amendment.",
+      "objection": "One could object that once law grants equal title, any remaining gap is a social/enforcement problem outside philosophy's remit, not a flaw in the rights framework itself.",
+      "reply": "Agarwal's reply is that a rights framework which stops at title while ignoring predictable social non-implementation is philosophically incomplete; empowerment theory must build access, control, return and exit/security into the very specification of the right, not treat them as separate 'implementation' add-ons.",
+      "limit": "This session states the doctrinal and legal-status facts precisely; for a current, narrowly illustrative example of courts extending inheritance logic to a further community context, see the optional CURRENT_ANCHOR note attached to this session (illustration only, not load-bearing doctrine).",
+      "exam": "Primary anchor for 2021 Q1(e) and 2023 Q1(c) (land/property rights and empowerment).",
+      "revision": [
+        "Agarwal's five levels: legal title, access/use, control, return, exit/security.",
+        "Legal title is neither necessary nor sufficient for actual command over land.",
+        "Hindu Succession Act, 2005 amendment: daughters get coparcenary rights.",
+        "Vineeta Sharma v. Rakesh Sharma (2020): SC judgment clarifying the amendment's application -- not the source statute.",
+        "De jure title can coexist with de facto male control.",
+        "Return asks who receives income/benefit; exit/security asks whether land strengthens the fall-back position.",
+        "Objection: gap is 'mere' enforcement, not a rights-framework flaw.",
+        "Reply: a complete rights framework must design in access, control, return and exit/security."
+      ],
+      "visuals": [
+        {
+          "title": "Agarwal's Five-Level Analysis",
+          "lines": [
+            "   LEGAL TITLE   (recognised in law or record)",
+            "   ACCESS / USE  (practical ability to use the asset)",
+            "   CONTROL       (decide cropping, leasing, sale or investment)",
+            "   RETURN        (receive the income and benefit)",
+            "   EXIT/SECURITY (fall-back protection against abandonment or violence)"
+          ],
+          "caption": "The five dimensions are analytically separate: title can exist without command, while some access can exist without title."
+        },
+        {
+          "title": "Indian Legal Instruments on Inheritance -- Status Table",
+          "lines": [
+            "  INSTRUMENT                         | KIND      | STATUS",
+            "  Hindu Succession Act 2005 amendment| statute   | enacted, coparcenary right",
+            "  Vineeta Sharma v Rakesh Sharma 2020| SC ruling | father alive not required",
+            "  Ram Charan & Ors v Sukhram & Ors   | SC ruling | illustration only, ST context,",
+            "  [2025] 8 SCR 272 / 2025 INSC 865   |           | decided 17-Jul-2025, distinct bench"
+          ],
+          "caption": "Distinguishes statute from judgment and marks the 2025 ruling as a scoped illustration, not a doctrinal expansion."
+        }
+      ],
+      "closure_keywords": [
+        "coparcenary",
+        "bina agarwal",
+        "hindu succession act 2005",
+        "title access control return exit"
+      ]
+    },
+    {
+      "title": "Empowerment: Dimensions of Power and Kabeer's Resources-Agency-Achievements",
+      "plain": "Empowerment is more than having resources; Naila Kabeer defines it as the process by which those denied the ability to make strategic life choices acquire that ability, running through resources, agency, and achievements.",
+      "technical": "Kabeer's tripartite model treats resources (pre-conditions) and agency (the ability to define and act on goals) as jointly producing achievements (functioning outcomes); power itself is analysed via power-over, power-to, power-with, and power-within registers. Martha Nussbaum's capability approach supplies the complementary test of whether a dignity-compatible threshold of real opportunity exists.",
+      "answer": "Introduce Kabeer's resources-agency-achievements chain, name the four power registers, and use the chain to test whether a given policy (land title, employment scheme, reservation) empowers or merely resources women without building agency.",
+      "keywords": [
+        "empowerment",
+        "naila kabeer",
+        "resources agency achievements",
+        "power over",
+        "power to",
+        "power with and power within",
+        "martha nussbaum"
+      ],
+      "usage": "Define empowerment through Naila Kabeer's resources-agency-achievements chain, distinguish power-over, power-to, power-with and power-within, apply Martha Nussbaum's capability threshold, test the policy's weakest link, and give a qualified verdict.",
+      "mechanism": "Resources (material, human, social) enable but do not guarantee agency; agency (decision-making, negotiation, resistance) must be separately exercised to convert resources into achievements (actual improved functioning and status).",
+      "consequence": "Interventions that deliver resources without cultivating agency (e.g. a bank account never controlled by the woman herself) produce no real gain in empowerment on Kabeer's test.",
+      "trap": "Do not treat 'access to a resource' as synonymous with 'empowerment' -- Kabeer's whole contribution is to insert agency as the necessary intermediate link.",
+      "objection": "A critic could argue the model is too demanding: if agency is required in addition to resources, almost no policy will count as empowering, making the concept practically useless.",
+      "reply": "Kabeer's reply is that the model is diagnostic, not a pass/fail gate -- it lets analysts locate exactly where an intervention breaks down (resource delivery vs agency-building vs achievement) rather than declaring policy failure wholesale.",
+      "limit": "Kabeer's model explains individual-level empowerment mechanics; it is complemented, not replaced, by the care-ethics and political-representation limits taken up in the next session.",
+      "exam": "Primary anchor for 2024 Q4(a) (empowerment as a condition for gender equality); secondary support for 2018 Q4(c).",
+      "revision": [
+        "Empowerment = process of acquiring the ability to make strategic life choices.",
+        "Kabeer's chain: resources -> agency -> achievements.",
+        "Resources are pre-conditions, not the empowerment itself.",
+        "Agency is the necessary intermediate, exercised capacity to choose/act.",
+        "Achievements are the resulting functioning outcomes.",
+        "Four power registers: power-over, power-to, power-with, power-within.",
+        "Resource delivery without agency-building fails Kabeer's test.",
+        "The model is diagnostic: it locates where an intervention breaks down."
+      ],
+      "visuals": [
+        {
+          "title": "Kabeer's Empowerment Chain",
+          "lines": [
+            "  RESOURCES  -->   AGENCY   -->  ACHIEVEMENTS",
+            " (material,      (ability to     (improved",
+            "  human, social)  choose & act)   functioning)",
+            "",
+            "  break at any link = no real empowerment gain"
+          ],
+          "caption": "Resources alone are insufficient; agency is the load-bearing middle link converting resources into achievements."
+        }
+      ],
+      "closure_keywords": [
+        "power to",
+        "power over",
+        "empowerment",
+        "naila kabeer"
+      ]
+    },
+    {
+      "title": "Care Ethics, the Limits of Empowerment and Political Representation",
+      "plain": "Carol Gilligan's ethic of care questions whether justice-as-rights frameworks capture women's moral reasoning, while the record on political representation shows legal empowerment (reservation) is necessary but not sufficient without real decision-making power.",
+      "technical": "Gilligan's ethic of care, grounded in relational responsibility rather than abstract rights-adjudication, is used to critique purely resource/rights-based empowerment models; the 106th Constitutional Amendment, 2023 (women's reservation in legislatures) illustrates the further, delimitation-conditional gap between legal entitlement and effective empowerment.",
+      "answer": "Introduce Gilligan's care ethic as a supplement/critique of rights-based empowerment, then test the 106th Amendment, 2023 against Kabeer's agency criterion -- noting precisely that its reservation is enacted but implementation is conditional on subsequent delimitation, so legal empowerment and effective empowerment can diverge in time as well as in kind.",
+      "keywords": [
+        "care ethics",
+        "carol gilligan",
+        "ethic of care",
+        "political representation",
+        "106th constitutional amendment 2023",
+        "delimitation"
+      ],
+      "usage": "Contrast Carol Gilligan's care ethics with a rights-only model, classify the 106th Constitutional Amendment 2023, explain the delimitation condition, test legal against effective political representation, and close with the residual empowerment limit.",
+      "mechanism": "Care ethics relocates moral reasoning in maintaining relationships and responsiveness to particular others rather than applying abstract universal rules; applied to representation, it asks whether reserved seats translate into responsive, agentic participation or remain symbolic if delimitation delays or dilutes actual seat allocation.",
+      "consequence": "A state can be legally empowering (constitutional reservation exists) while remaining practically unrealised (seats not yet allotted pending delimitation), reproducing the title-without-control problem seen with land rights (Session 5) at the political level.",
+      "trap": "Do not describe the 106th Amendment as already fully operational in seat allocation -- state precisely that its women's-reservation provision is enacted law whose implementation is conditional on a subsequent delimitation exercise; overstating current effect is a factual error.",
+      "objection": "One could object that care ethics, by emphasising relational responsibility, risks re-inscribing the very caregiving role that trapped women in unequal domestic labour in the first place.",
+      "reply": "Gilligan and successors reply that recognising care as a valuable moral orientation is compatible with also demanding it be shared across genders and properly weighted in public reasoning -- the aim is to add care to justice, not to confine women back to it.",
+      "limit": "This session shows empowerment's political-representation limit; it does not extend to disputing the 106th Amendment's constitutional validity, only to precisely qualifying its present implementation status.",
+      "exam": "Primary anchor, jointly with Session 6, for 2020 Q4(a) and 2024 Q4(a).",
+      "revision": [
+        "Gilligan's ethic of care: relational responsibility vs abstract rights.",
+        "Care ethics supplements, and can critique, rights-based empowerment models.",
+        "106th Constitutional Amendment, 2023 enacts legislative reservation for women.",
+        "Implementation is conditional on a subsequent delimitation exercise -- not yet self-executing.",
+        "Legal empowerment and effective/political empowerment can diverge in time.",
+        "Objection: care ethics risks re-confining women to caregiving roles.",
+        "Reply: the aim is shared care plus justice, not care instead of justice.",
+        "Do not overstate 106th Amendment as immediately fully operational."
+      ],
+      "visuals": [
+        {
+          "title": "Legal vs Effective Empowerment Gap",
+          "lines": [
+            "  106th Amendment: enacted 2023; commenced 16-Apr-2026",
+            "        |",
+            "        v  (conditional on)",
+            "  ARTICLE 334A CENSUS/DELIMITATION SEQUENCE",
+            "        |",
+            "        v",
+            "  seat allocation / effective representation: PENDING 03-Sep-2026"
+          ],
+          "caption": "Marks the precise gap between an enacted legal entitlement and its still-pending, delimitation-conditional effect."
+        }
+      ]
+    },
+    {
+      "title": "Feminist Schools in Debate: Marxist, Socialist, Radical, Pateman and Okin",
+      "plain": "Feminist schools disagree about the root cause of women's subordination: Marxist feminists point to capitalism, radical feminists to patriarchy as an independent system, socialist feminists to both together, and Pateman and Okin extend the critique into the social contract and the family itself.",
+      "technical": "Marxist feminism derives gender oppression from capitalist property relations and women's unpaid reproductive labour; radical feminism treats patriarchy as an autonomous system of male domination irreducible to class; socialist feminism proposes a 'dual systems' account combining both; Pateman's 'sexual contract' argues the social contract tradition presupposes prior male domination over women, and Okin's 'family as an object of justice' argues Rawlsian justice cannot bracket the unjust internal distribution of power within families.",
+      "answer": "State each school's causal diagnosis (capitalism / patriarchy / both), then bring in Pateman and Okin to show the debate extends beyond economic structure into the very contract-theoretic and family-based foundations of political obligation and justice.",
+      "keywords": [
+        "marxist feminism",
+        "socialist feminism",
+        "radical feminism",
+        "dual systems theory",
+        "carole pateman and the sexual contract",
+        "okin: family as object of justice"
+      ],
+      "usage": "Compare Marxist, radical and socialist feminism by root cause, use dual systems theory to test socialism's sufficiency, add Carole Pateman's sexual contract and Okin's family-as-justice critique, then adjudicate the strongest diagnosis rather than listing schools.",
+      "mechanism": "Marxist feminism: capitalist need for unpaid reproductive/domestic labour subordinates women structurally. Radical feminism: male control operates through sexuality, violence, and reproduction, independent of economic system. Dual systems theory: capitalism and patriarchy operate as two interacting but analytically distinct systems. Pateman: contract theory's 'free and equal' contractors presuppose a prior sexual contract subordinating women. Okin: justice theories that stop at the household's front door leave its internal power distribution unexamined and thus unjust.",
+      "consequence": "If patriarchy is autonomous of capitalism (radical/dual-systems view), then abolishing capitalism alone (a purely socialist transformation) will not by itself abolish gender subordination -- directly answering the 'gender equality within a socialist regime' PYQ.",
+      "trap": "Do not treat 'socialist feminism' and 'Marxist feminism' as synonyms -- socialist feminism's distinguishing move is precisely the dual-systems synthesis with an independent patriarchy axis, which orthodox Marxist feminism does not grant.",
+      "objection": "A Marxist could object that patriarchy itself has historically arisen from and is sustained by property relations, so treating it as an independent system is analytically redundant.",
+      "reply": "Radical/dual-systems feminists reply that patriarchal control over sexuality and reproduction predates and persists across different modes of production (including actually existing socialist states), which is empirical evidence for its analytic independence.",
+      "limit": "This session states the inter-school debate as doctrine; it does not adjudicate a single winner -- an exam answer should present the disagreement and take a reasoned, argued position rather than assert one school as simply correct.",
+      "exam": "Primary anchor for 2019 Q1(e) (gender equality within a socialist regime); also grounds ORIGINAL_MAINS on Pateman vs Okin.",
+      "revision": [
+        "Marxist feminism: capitalism as root cause via unpaid reproductive labour.",
+        "Radical feminism: patriarchy as an autonomous system, not reducible to class.",
+        "Socialist/dual-systems feminism: capitalism and patriarchy as two interacting systems.",
+        "Pateman: the 'sexual contract' underlies and is masked by the social contract.",
+        "Okin: family must be treated as an object of justice, not a private exemption.",
+        "PYQ test: can gender equality be realised within a socialist regime alone?",
+        "Dual-systems answer: no, if patriarchy is independent of economic system.",
+        "Do not conflate Marxist and socialist feminism -- the dual-systems move differs."
+      ],
+      "visuals": [
+        {
+          "title": "Feminist Schools -- Root-Cause Comparison",
+          "lines": [
+            "  SCHOOL      | ROOT CAUSE                | IMPLICATION",
+            "  liberal     | law/custom/education      | Wollstonecraft; Mill/Taylor",
+            "  existential | woman constituted as Other| Beauvoir: situation, not destiny",
+            "  marxist     | capitalism                | end capitalism -> end oppression",
+            "  radical     | patriarchy (autonomous)   | end patriarchy directly",
+            "  socialist   | capitalism + patriarchy   | must address both systems",
+            "  pateman/okin| contract & family design  | justice must reach the household"
+          ],
+          "caption": "Contrasts each school's causal diagnosis with its implied remedy, showing why 'socialism alone' is contested as a sufficient fix."
+        }
+      ],
+      "closure_keywords": [
+        "marxist feminism",
+        "radical feminism",
+        "socialist feminism",
+        "dual systems theory"
+      ]
+    },
+    {
+      "title": "Gender, Caste and Multiculturalism: The Indian Intersection",
+      "plain": "Gender discrimination does not act alone -- caste, religion, and community norms combine with gender to produce compounded disadvantage, and multicultural accommodation of group practices can itself conflict with women's equality within that group.",
+      "technical": "Kimberle Crenshaw's intersectionality shows that caste-gender disadvantage is not merely additive but produces distinct, structurally located harms; Susan Moller Okin's question 'Is multiculturalism bad for women?' presses whether group-cultural accommodation by the state can entrench internal patriarchal practice under the banner of protecting minority culture.",
+      "answer": "Introduce intersectionality to show caste and gender compound rather than merely add; then apply Okin's multiculturalism test to ask whether a given accommodation of group practice should yield to women's equality claims within that group, using India's caste-gender record as the operative example.",
+      "keywords": [
+        "intersectionality",
+        "kimberle crenshaw",
+        "caste and gender",
+        "multiculturalism",
+        "is multiculturalism bad for women",
+        "structural injustice"
+      ],
+      "usage": "Define intersectionality through Kimberle Crenshaw, show why caste and gender produce a distinct structural injustice, apply Okin's multiculturalism test to cultural accommodation, answer the self-governance objection, and conclude through equal citizenship.",
+      "mechanism": "Intersectional mechanism: caste position determines which forms of gender discrimination a woman faces (e.g. differential exposure to violence, labour exploitation, or land denial) such that 'women' as a single undifferentiated class obscures caste-specific harm. Multiculturalism mechanism: state deference to 'group rights' or personal-law autonomy can shield internally patriarchal norms from the equality scrutiny applied elsewhere in the same polity.",
+      "consequence": "A purely gender-only analysis, or a purely caste-only analysis, each under-describes the harm actually experienced by women at that intersection; policy calibrated to only one axis will systematically miss the other.",
+      "trap": "Do not present 'women' in the Indian context as a homogeneous category -- an answer that ignores caste stratification within gender discrimination will be marked as analytically thin on a synthesis question.",
+      "objection": "A multiculturalist could object that state intervention into group practices in the name of gender equality is itself a form of majoritarian or statist overreach into legitimate cultural self-governance.",
+      "reply": "Okin's reply is that a state committed to equal citizenship cannot consistently exempt any group's internal practice from the equality standard applied elsewhere -- protecting a culture cannot mean protecting some of its members' domination of others.",
+      "limit": "This session names the intersectional and multiculturalism problems precisely as live tensions; the optional Advanced module on Iris Marion Young's structural-injustice model extends, but is not required for, this core synthesis.",
+      "exam": "Synthesis anchor: no single dedicated PYQ, but this session equips answers to 2018 Q4(c) and 2024 Q4(a) with an intersectional dimension the pure equality/empowerment sessions alone do not supply.",
+      "revision": [
+        "Intersectionality (Crenshaw): caste and gender compound, not merely add.",
+        "'Women' in India is not a homogeneous analytic category.",
+        "Okin's test: is multiculturalism bad for women?",
+        "State deference to group/personal-law autonomy can shield internal patriarchy.",
+        "Objection: intervention is majoritarian overreach into cultural self-governance.",
+        "Reply: equal citizenship cannot exempt any group's internal domination.",
+        "Caste-specific harms are missed by gender-only or caste-only analysis.",
+        "Advanced (optional) link: Iris Marion Young's structural injustice model."
+      ],
+      "visuals": [
+        {
+          "title": "Intersection of Caste and Gender",
+          "lines": [
+            "INTERSECTIONALITY changes the MECHANISM; it is not arithmetic addition",
+            "  CASTE      -> endogamy, labour, land and status",
+            "  CLASS      -> work, services, time and bargaining resources",
+            "  COMMUNITY  -> external vulnerability + possible internal authority",
+            "  DISABILITY -> access, dependency and substituted decision-making",
+            "  SEXUALITY / GENDER IDENTITY -> stigma and compulsory role policing",
+            "  Crenshaw: intersectional method | hooks: margin-to-centre warning",
+            "  single-axis policy misses the institutionally distinct harm"
+          ],
+          "caption": "Depicts intersectionality's claim that the caste-gender cell is a distinct harm-location, not a simple sum of two separate axes."
+        },
+        {
+          "title": "Okin's Multiculturalism Dilemma Test",
+          "lines": [
+            "  group practice claims cultural protection",
+            "        |",
+            "        v",
+            "  does it entrench internal gender hierarchy?",
+            "     /            \\",
+            "   NO              YES",
+            "    |                |",
+            " accommodate    equality claim overrides accommodation"
+          ],
+          "caption": "A decision test for whether a cultural-accommodation claim should yield to an internal gender-equality claim."
+        }
+      ],
+      "closure_keywords": [
+        "caste and gender",
+        "multiculturalism",
+        "intersectionality",
+        "kimberle crenshaw"
+      ]
+    },
+    {
+      "title": "Integrated Answer Architecture: Directive Decoder, Evidence Bank and PYQ Routing",
+      "plain": "This closing session is not new doctrine but the toolkit for writing exam answers: how to read the directive word, which evidence to cite for which claim, and how every prior PYQ routes into the nine content sessions above.",
+      "technical": "Synthesises the owner file's keyword bank, seventeen documented traps, and PYQ-routing table into a single answer-construction spine usable across 10-, 15-, and 20-mark directive formats.",
+      "answer": "For any gender-discrimination prompt: (1) decode the directive word (discuss/examine/analyse/critically evaluate), (2) select the correct primary session(s) via the routing logic below, (3) deploy objection-reply structure from that session, (4) close with a verdict that is qualified, not absolute.",
+      "keywords": [
+        "directive decoder",
+        "evidence bank",
+        "pyq routing",
+        "objection-reply structure",
+        "answer architecture",
+        "verdict qualification"
+      ],
+      "usage": "Run the directive decoder, select from the evidence bank through PYQ routing, build the answer architecture around an objection-reply structure, and end with an explicitly qualified verdict.",
+      "mechanism": "Routing mechanism: match the PYQ's key noun phrase (foeticide -> Session 4; property/land -> Session 5; empowerment -> Sessions 6-7; 'man-made'/'cultural category' -> Sessions 1-2; equality-vs-empowerment framing -> Session 3; socialist regime -> Session 8; unmarked synthesis/caste framing -> Session 9) to the session holding the load-bearing doctrine, then borrow that session's objection/reply pair intact.",
+      "consequence": "Systematic routing prevents two common failures: citing the wrong thinker for a given claim, and writing a purely descriptive answer with no objection-reply movement, which examiners mark down for lacking critical engagement.",
+      "trap": "Do not answer every gender-discrimination question with the same generic Beauvoir-Butler opening regardless of what is actually asked -- route to the specific session(s) the directive requires and lead with that content instead.",
+      "objection": "A student might object that memorising a routing table is mechanical and does not itself generate original philosophical insight.",
+      "reply": "The routing table is scaffolding, not substitute content -- it ensures the correct doctrine is retrieved under time pressure so that the scarce exam minutes can be spent on the objection-reply and verdict, which is where original engagement actually happens.",
+      "limit": "This session assumes the content of Sessions 1-9 is already learned; it organises retrieval and presentation, it does not introduce any doctrine not already established above.",
+      "exam": "Applies to all 12 verified PYQs (2018-2025) and to all ORIGINAL_MAINS prompts defined in this module.",
+      "revision": [
+        "Step 1: decode the directive word before writing anything.",
+        "Step 2: route the prompt's key phrase to its primary session.",
+        "Step 3: borrow that session's objection-reply pair intact.",
+        "Step 4: close with a qualified verdict, never an unqualified absolute.",
+        "Foeticide keywords route to Session 4; property keywords to Session 5.",
+        "Empowerment keywords route to Sessions 6-7; socialist-regime keywords to Session 8.",
+        "'Man-made'/'cultural category' keywords route to Sessions 1-2.",
+        "Unmarked synthesis or caste framing routes to Session 9."
+      ],
+      "visuals": [
+        {
+          "title": "PYQ Keyword Router",
+          "lines": [
+            "  PROMPT KEYWORD           -> PRIMARY SESSION",
+            "  foeticide                -> 4",
+            "  land / property          -> 5",
+            "  empowerment              -> 6 / 7",
+            "  man-made / cultural cat. -> 1 / 2",
+            "  equality vs empowerment  -> 3",
+            "  socialist regime         -> 8",
+            "  caste / synthesis        -> 9"
+          ],
+          "caption": "A one-glance retrieval map from a prompt's key noun phrase to the session holding its load-bearing doctrine."
+        }
+      ]
+    }
+  ],
+  "owner_session_ranges": {
+    "1": [
+      "§1.1",
+      "§1.2",
+      "§1.6"
+    ],
+    "2": [
+      "§1.3",
+      "§1.3A"
+    ],
+    "3": [
+      "§1.4",
+      "§1.5",
+      "§1.6"
+    ],
+    "4": [
+      "§2.1",
+      "§2.2",
+      "§2.3",
+      "§2.4",
+      "§2.5",
+      "§2.6",
+      "§2.7",
+      "§2.8"
+    ],
+    "5": [
+      "§3.1",
+      "§3.2",
+      "§3.3",
+      "§3.4",
+      "§3.5",
+      "§3.6"
+    ],
+    "6": [
+      "§4.1",
+      "§4.2",
+      "§4.3",
+      "§4.4",
+      "§4.5"
+    ],
+    "7": [
+      "§4.3A",
+      "§4.6",
+      "§4.7",
+      "§4.8"
+    ],
+    "8": [
+      "§5.1",
+      "§5.2",
+      "§5.3",
+      "§5.3A",
+      "§5.4"
+    ],
+    "9": [
+      "§5.5",
+      "§5.6",
+      "§6",
+      "§7"
+    ],
+    "10": [
+      "§8",
+      "§9",
+      "§10.0",
+      "§10.1",
+      "§10.2",
+      "§10.3",
+      "§10.4",
+      "§10.5",
+      "§10.6",
+      "§11"
+    ]
+  },
+  "advanced_session_titles": [
+    "Advanced: Structural Injustice and Iris Marion Young's Model of Responsibility",
+    "Advanced: Capability-Based versus Property-Based Models of Women's Empowerment"
+  ],
+  "ascii_panels": [
+    {
+      "title": "Self / Other Construction",
+      "structural_type": "flow",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "  MALE NORM (Self/Subject)",
+        "        |  defines by negation",
+        "        v",
+        "  FEMALE (constructed as Other)",
+        "        |",
+        "        v",
+        "  relational deficit read as 'natural' inferiority"
+      ]
+    },
+    {
+      "title": "Performative Repetition Loop",
+      "structural_type": "cycle",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "   stylised act --> read as natural --> repeated",
+        "        ^                                   |",
+        "        |___________________________________|",
+        "        (regulatory norm reinforced each cycle)"
+      ]
+    },
+    {
+      "title": "Equality Typology Table",
+      "structural_type": "table",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "  TYPE          | REMEDY               | RISK",
+        "  formal        | equal rule            | ignores start-point gap",
+        "  substantive   | targeted correction   | reverse-discrimination charge",
+        "  relational    | restructure relations | hardest to operationalise"
+      ]
+    },
+    {
+      "title": "Foeticide Causal Chain",
+      "structural_type": "flow",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "  son preference (discriminatory attitude)",
+        "        |",
+        "        v",
+        "  demand for sex determination",
+        "        |         (PCPNDT Act 1994 prohibits)",
+        "        v",
+        "  sex-selective abortion  -->  skewed sex ratio at birth"
+      ]
+    },
+    {
+      "title": "Agarwal's Five-Level Analysis",
+      "structural_type": "hierarchy",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "   LEGAL TITLE   (recognised in law or record)",
+        "   ACCESS / USE  (practical ability to use the asset)",
+        "   CONTROL       (decide cropping, leasing, sale or investment)",
+        "   RETURN        (receive the income and benefit)",
+        "   EXIT/SECURITY (fall-back protection against abandonment or violence)"
+      ]
+    },
+    {
+      "title": "Indian Legal Instruments on Inheritance -- Status Table",
+      "structural_type": "table",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "  INSTRUMENT                         | KIND      | STATUS",
+        "  Hindu Succession Act 2005 amendment| statute   | enacted, coparcenary right",
+        "  Vineeta Sharma v Rakesh Sharma 2020| SC ruling | father alive not required",
+        "  Ram Charan & Ors v Sukhram & Ors   | SC ruling | illustration only, ST context,",
+        "  [2025] 8 SCR 272 / 2025 INSC 865   |           | decided 17-Jul-2025, distinct bench"
+      ]
+    },
+    {
+      "title": "Kabeer's Empowerment Chain",
+      "structural_type": "flow",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "  RESOURCES  -->   AGENCY   -->  ACHIEVEMENTS",
+        " (material,      (ability to     (improved",
+        "  human, social)  choose & act)   functioning)",
+        "",
+        "  break at any link = no real empowerment gain"
+      ]
+    },
+    {
+      "title": "Legal vs Effective Empowerment Gap",
+      "structural_type": "flow",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "  106th Amendment: enacted 2023; commenced 16-Apr-2026",
+        "        |",
+        "        v  (conditional on)",
+        "  ARTICLE 334A CENSUS/DELIMITATION SEQUENCE",
+        "        |",
+        "        v",
+        "  seat allocation / effective representation: PENDING 03-Sep-2026"
+      ]
+    },
+    {
+      "title": "Feminist Schools -- Root-Cause Comparison",
+      "structural_type": "table",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "  SCHOOL      | ROOT CAUSE                | IMPLICATION",
+        "  marxist     | capitalism                | end capitalism -> end oppression",
+        "  radical     | patriarchy (autonomous)   | end patriarchy directly",
+        "  socialist   | capitalism + patriarchy   | must address both systems",
+        "  pateman/okin| contract & family design  | justice must reach the household"
+      ]
+    },
+    {
+      "title": "Intersection of Caste and Gender",
+      "structural_type": "matrix",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "        GENDER axis  ---------->",
+        "  CASTE   |  low-caste woman: compounded, distinct harm",
+        "  axis    |  (not simply 'caste harm' + 'gender harm')",
+        "    |",
+        "    v",
+        "  single-axis policy (gender-only OR caste-only) misses this cell"
+      ]
+    },
+    {
+      "title": "Okin's Multiculturalism Dilemma Test",
+      "structural_type": "decision_tree",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "  group practice claims cultural protection",
+        "        |",
+        "        v",
+        "  does it entrench internal gender hierarchy?",
+        "     /            \\",
+        "   NO              YES",
+        "    |                |",
+        " accommodate    equality claim overrides accommodation"
+      ]
+    },
+    {
+      "title": "PYQ Keyword Router",
+      "structural_type": "table",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "  PROMPT KEYWORD           -> PRIMARY SESSION",
+        "  foeticide                -> 4",
+        "  land / property          -> 5",
+        "  empowerment              -> 6 / 7",
+        "  man-made / cultural cat. -> 1 / 2",
+        "  equality vs empowerment  -> 3",
+        "  socialist regime         -> 8",
+        "  caste / synthesis        -> 9"
+      ]
+    }
+  ],
+  "verified_pyq_count": 12,
+  "required_core_terms": [
+    "sex versus gender",
+    "simone de beauvoir",
+    "the second sex",
+    "the other",
+    "biological-difference objection",
+    "gender as a cultural category",
+    "judith butler",
+    "gender performativity",
+    "gender trouble",
+    "performative repetition",
+    "essentialism objection",
+    "discursive construction",
+    "patriarchy",
+    "formal equality",
+    "substantive equality",
+    "relational equality",
+    "equality of opportunity",
+    "equality of outcome",
+    "affirmative action",
+    "reverse-discrimination objection",
+    "adaptive preference",
+    "liberal feminism",
+    "marxist feminism",
+    "socialist feminism",
+    "radical feminism",
+    "dual systems theory",
+    "carole pateman",
+    "the sexual contract",
+    "susan moller okin",
+    "family as an object of justice",
+    "intersectionality",
+    "kimberle crenshaw",
+    "caste and gender",
+    "multiculturalism",
+    "is multiculturalism bad for women",
+    "female foeticide",
+    "sex-selective abortion",
+    "sex ratio at birth",
+    "missing women",
+    "amartya sen",
+    "pcpndt act 1994",
+    "beti bachao beti padhao",
+    "son preference",
+    "dowry",
+    "bina agarwal",
+    "five-level analysis of land rights",
+    "title access control return exit",
+    "coparcenary",
+    "hindu succession act 2005",
+    "vineeta sharma v rakesh sharma 2020",
+    "empowerment",
+    "power over",
+    "power to",
+    "power with",
+    "power within",
+    "naila kabeer",
+    "resources agency achievements",
+    "capability approach",
+    "martha nussbaum",
+    "care ethics",
+    "carol gilligan",
+    "ethic of care",
+    "political representation",
+    "106th constitutional amendment 2023",
+    "delimitation",
+    "women's reservation",
+    "structural injustice",
+    "iris marion young",
+    "exact printed ownership",
+    "trans-inclusive",
+    "gender identity",
+    "gender expression",
+    "Mary Wollstonecraft",
+    "Harriet Taylor Mill",
+    "bell hooks",
+    "Iris Marion Young",
+    "structural injustice",
+    "social connection",
+    "sameness/difference",
+    "redistribution",
+    "representation",
+    "disability",
+    "sexuality"
+  ]
+}

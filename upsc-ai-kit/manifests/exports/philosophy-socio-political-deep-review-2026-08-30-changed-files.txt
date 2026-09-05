@@ -1,0 +1,530 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Socio-Political-Philosophy-Topics-01-05-2026-08-30.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Socio-Political-Philosophy-Topics-06-10-2026-08-30.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-01-g2-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-02-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-03-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-04-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-05-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-06-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-07-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-08-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-09-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\philosophy-paper-ii-socio-political-philosophy-10-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\philosophy-paper-ii-socio-political-philosophy-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\philosophy-paper-ii-socio-political-philosophy-01-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-02\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-02\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-02\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-02\philosophy-paper-ii-socio-political-philosophy-02-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-02\philosophy-paper-ii-socio-political-philosophy-02-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-03\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-03\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-03\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-03\philosophy-paper-ii-socio-political-philosophy-03-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-03\philosophy-paper-ii-socio-political-philosophy-03-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-04\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-04\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-04\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-04\philosophy-paper-ii-socio-political-philosophy-04-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-04\philosophy-paper-ii-socio-political-philosophy-04-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-05\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-05\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-05\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-05\philosophy-paper-ii-socio-political-philosophy-05-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-05\philosophy-paper-ii-socio-political-philosophy-05-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-06\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-06\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-06\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-06\philosophy-paper-ii-socio-political-philosophy-06-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-06\philosophy-paper-ii-socio-political-philosophy-06-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-07\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-07\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-07\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-07\philosophy-paper-ii-socio-political-philosophy-07-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-07\philosophy-paper-ii-socio-political-philosophy-07-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-08\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-08\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-08\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-08\philosophy-paper-ii-socio-political-philosophy-08-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-08\philosophy-paper-ii-socio-political-philosophy-08-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-09\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-09\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-09\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-09\philosophy-paper-ii-socio-political-philosophy-09-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-09\philosophy-paper-ii-socio-political-philosophy-09-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-10\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-10\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-10\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-10\philosophy-paper-ii-socio-political-philosophy-10-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-10\philosophy-paper-ii-socio-political-philosophy-10-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\socio-political-philosophy-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Socio-Political-Philosophy-Section-Completion-2026-08-30.md
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Ethics\INDEX.md
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\01-Social-and-Political-Ideals\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\02-Sovereignty\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\03-Individual-and-State\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\04-Forms-of-Government\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\05-Political-Ideologies\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\06-Humanism-Secularism-and-Multiculturalism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\07-Crime-and-Punishment\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\08-Development-and-Social-Progress\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\09-Gender-Discrimination\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\10-Caste-Discrimination-Gandhi-and-Ambedkar\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Socio-Political Philosophy\INDEX.md
+notes\Final-Learning-Packages\Political Theory\INDEX.md
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\Polity\INDEX.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-01\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-02\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-03\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-04\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-05\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\previews\page-005.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-06\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\previews\page-005.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-07\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\previews\page-005.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-08\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-09\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\flowcharts\topic-10\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\topic-01_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\topic-01_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\topic-01_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\topic-01_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\topic-02_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\topic-02_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\topic-03_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\topic-03_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\topic-04_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\topic-04_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\topic-05_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\topic-05_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\topic-06_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\topic-06_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\topic-07_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\topic-07_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\topic-08_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\topic-08_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\topic-09_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\topic-09_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\topic-10_Complete-Learning-Session_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\topic-10_Solved-Practice-Workbook_2026-08-30.pdf
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\validation\workbook-visual-audit-map.json
+notes\Philosophy\learning-session-v2\paper-ii-socio-political-philosophy\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-ii-socio-political-philosophy\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-ii-socio-political-philosophy\indexes\WORKBOOK-PDF-INDEX.md
+tools\philosophy_socio_political_gender_discrimination_v2_spec.py
+tools\regenerate_philosophy_socio_political_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-II-Socio-Political-Philosophy\learning-sessions\topic-01\g3\topic-01_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\assets\philosophy-paper-ii-socio-political-philosophy-01\social-political-ideals-triad.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\topic-01_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g4\topic-01_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\assets\philosophy-paper-ii-socio-political-philosophy-01\social-political-ideals-triad.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\topic-01_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-01\g5\topic-01_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\assets\philosophy-paper-ii-socio-political-philosophy-02\sovereignty-location-structure-limit-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\topic-02_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-02\g3\topic-02_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\assets\philosophy-paper-ii-socio-political-philosophy-03\rights-duties-accountability-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\topic-03_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-03\g3\topic-03_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\assets\philosophy-paper-ii-socio-political-philosophy-04\monarchy-theocracy-democracy-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\topic-04_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-04\g3\topic-04_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\assets\philosophy-paper-ii-socio-political-philosophy-05\anarchism-marxism-socialism-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\topic-05_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-05\g3\topic-05_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\assets\philosophy-paper-ii-socio-political-philosophy-06\humanism-secularism-multiculturalism-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\topic-06_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-06\g3\topic-06_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\assets\philosophy-paper-ii-socio-political-philosophy-07\crime-and-punishment-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\topic-07_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-07\g3\topic-07_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\assets\philosophy-paper-ii-socio-political-philosophy-08\development-and-social-progress-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\topic-08_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-08\g4\topic-08_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\assets\philosophy-paper-ii-socio-political-philosophy-09\gender-discrimination-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\topic-09_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g4\topic-09_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\assets\philosophy-paper-ii-socio-political-philosophy-10\caste-gandhi-ambedkar-map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\topic-10_Complete-Learning-Session_2026-08-30.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-10\g4\topic-10_Solved-Practice-Workbook_2026-08-30.md
+upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Gender-Discrimination.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-30.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g4-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g4-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g5-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g5-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g5-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-02-learner-v2-g3-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-02-learner-v2-g3-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-02-learner-v2-g3-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-03-learner-v2-g3-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-03-learner-v2-g3-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-03-learner-v2-g3-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-04-learner-v2-g3-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-04-learner-v2-g3-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-04-learner-v2-g3-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-05-learner-v2-g3-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-05-learner-v2-g3-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-05-learner-v2-g3-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-06-learner-v2-g3-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-06-learner-v2-g3-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-06-learner-v2-g3-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-07-learner-v2-g3-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-07-learner-v2-g3-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-07-learner-v2-g3-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-08-learner-v2-g4-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-08-learner-v2-g4-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-08-learner-v2-g4-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-09-learner-v2-g4-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-09-learner-v2-g4-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-09-learner-v2-g4-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g4-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g4-2026-08-30-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g4-2026-08-30-validation.json
+upsc-ai-kit\manifests\exports\philosophy-socio-political-deep-review-2026-08-30-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-socio-political-deep-review-reconciliation-2026-08-30.json
+upsc-ai-kit\manifests\exports\philosophy-socio-political-deep-review-validation-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-01-ascii-g4-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-01-ascii-g5-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-02-ascii-g3-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-03-ascii-g3-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-04-ascii-g3-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-05-ascii-g3-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-06-ascii-g3-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-07-ascii-g3-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-08-ascii-g4-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-09-ascii-g4-2026-08-30.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy-paper-ii-socio-political-philosophy-10-ascii-g4-2026-08-30.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-01-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-01-g5.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-02-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-03-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-04-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-05-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-06-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-07-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-08-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-09-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-content-specs\philosophy-paper-ii-socio-political-philosophy-10-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-01-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-01-g5.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-02-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-03-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-04-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-05-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-06-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-07-g3.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-08-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-09-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy-graphical-specs\philosophy-paper-ii-socio-political-philosophy-10-g4.json
+upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

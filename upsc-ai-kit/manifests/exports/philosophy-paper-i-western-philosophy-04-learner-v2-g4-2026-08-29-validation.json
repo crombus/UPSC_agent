@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-western-philosophy-04",
+  "record_id": "philosophy-paper-i-western-philosophy-04:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "core_and_syllabus_complete": true,
+    "doctrinal_attribution_qualified": true,
+    "pyq_ledger_reconciled_2018_2025": true,
+    "answer_specific_improvement_and_compression": true,
+    "mcq_count_48": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "pdf_layout_clean": true
+  },
+  "metrics": {
+    "mcq_count": 48,
+    "main_pages": 89,
+    "workbook_pages": 41,
+    "answer_improvement_blocks": 28
+  },
+  "layout_errors": [],
+  "layout_metrics": {
+    "main": {
+      "page_count": 89,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook": {
+      "page_count": 41,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g4\\topic-04_Complete-Learning-Session_2026-08-29.md": "e212c4d007f85d19b8eb27a8a3e44798c4caf089484dd8fed679dee487c25e24",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g4\\topic-04_Solved-Practice-Workbook_2026-08-29.md": "d06a186f7beb384f57464f01828652ef4983545cf9a65fbe8791f84ccf2ebfc7",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g4\\topic-04_Complete-Learning-Session_2026-08-29.pdf": "c78c00f1a14474afe4d1aa45afa5b09f5f5f1baf578181622a4bbc956effbbb0",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g4\\topic-04_Solved-Practice-Workbook_2026-08-29.pdf": "0942962802a8683ac907eebb0771ccd7acf6cf4844b448867719784893b6cc40",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g4\\validation\\main-visual-audit-map.json": "fce07472f8f7b7f9dd62bd1e638dbbc88276423afa5b01f364f3d657befde417",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g4\\validation\\workbook-visual-audit-map.json": "a63dcd2c70290baf00bcecd898e78f5006be525c91ccca8c42178a5d5c09ea3d",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-graphical-specs\\philosophy-paper-i-western-philosophy-04-g4.json": "53cba9396c7910999e7159acb1fabc43a525a731c4ca998f91f436674d1587da",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-content-specs\\philosophy-paper-i-western-philosophy-04-g4.json": "7d1616e46186e3a6c4302de85e23305342e5c5cd507b84c0a14e52c4cd4ca89c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\ascii-master.pdf": "741fd9370c530769e10dd7e3c9b6385b5ccd56afdeacd498057873c27f255f1b",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\ascii-master.txt": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\build-audit.json": "37488d2ff15bbb24ad3fbb3caaee503ce50d15779f7fc790704bf6c4196f5234",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\master.png": "928d436cbf056f5de182bf15923764c6b8325b6fe0c31525997a927a6d691ffd",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\poster.pdf": "97f557214127501803640b1ec2a9e0a073d2713ceeff510676fbb565da0ad412",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\preservation-hashes.json": "7b399a95221c806d0c0eb725e4a75c19df5d3a3383c6d93f7d5596d78d245f4d",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\README.txt": "0c8f9f8c800c7f8f10a462744fc442549682b009d2db5cf7f01b0e0861cb7612",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\tiled.pdf": "d3407b55156252ffeff522ccc1485452a8843201bb5fa5107e886503ff5ab325",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\validation-report.txt": "6fc53cd2a3e6a58216a6bc8efdcfa356d06730378510d1c7270821f20721822a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\editable\\topic-spec.json": "53cba9396c7910999e7159acb1fabc43a525a731c4ca998f91f436674d1587da",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\previews\\contact-sheet-01.png": "2e8de86083a32181862deea1bc139716604c70ad644e3179338d9807b6da7c96",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\previews\\master-overview.png": "bd7d8b5814453b805c90dd648696c2464ca8c26e4d07f8389857766d505d9eda",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\previews\\page-001.png": "34b3dbac8bd9c4bdc6c00088d000f9cdd6182d4438947867bb854b0d5170352c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\previews\\page-002.png": "620a81679026556189f0b2a7adfad47e2d4b078c2739ff45ea6e9a7bf4028c79",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\previews\\page-003.png": "b7b2837a6e8e76d6f1578926db7d0f34dfe74dba244694aff15a17e762e8fb2f",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g4\\previews\\page-004.png": "aedb957bfa260acbfb4030567a71a59916f2ae01f4968f499c24f7f222f65747"
+  }
+}

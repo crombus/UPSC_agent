@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-15",
+      "display_title": "Indian Cinema, Film Institutions and Awards",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\15_Indian-Cinema-Film-Institutions-and-Awards_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Composite-art root",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "STORY / LITERATURE -> narrative",
+            "PERFORMANCE + DESIGN -> staged world",
+            "CAMERA + SOUND -> recorded form",
+            "EDITING + CIRCULATION -> cinematic meaning and reach"
+          ],
+          "source_references": [
+            "Cinema as a composite modern art"
+          ]
+        },
+        {
+          "title": "Film-form grammar",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CINEMATOGRAPHY -> moving image",
+            "EDITING -> shot arrangement",
+            "MISE-EN-SCENE -> within-frame design",
+            "DOCUMENTARY -> selected non-fiction"
+          ],
+          "source_references": [
+            "Camera, editing and the frame",
+            "Documentary and animation"
+          ]
+        },
+        {
+          "title": "Indigenisation timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1896 -> Bombay exhibition",
+            "1897 / 1899 -> Indian-shot and Indian-made shorts",
+            "1907 -> Indian-owned exhibition house",
+            "1913 -> indigenous silent feature"
+          ],
+          "source_references": [
+            "From exhibition to Indian production"
+          ]
+        },
+        {
+          "title": "Silent-era circuit",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SILENT IMAGE -> live instruments",
+            "PHALKE -> Raja Harishchandra",
+            "LANKA DAHAN -> box-office milestone",
+            "MASS PUBLIC -> myth, music and reproducibility"
+          ],
+          "source_references": [
+            "Silent film, live music and Phalke"
+          ]
+        },
+        {
+          "title": "Sound-colour sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931 -> Alam-Ara talkie",
+            "RECORDED SONG -> W.M. Khan",
+            "1933 -> Sairandhri, processed abroad",
+            "1937 -> Kisan Kanya, indigenous colour"
+          ],
+          "source_references": [
+            "Sound transforms cinema",
+            "The colour-film close option"
+          ]
+        },
+        {
+          "title": "Two-cinema matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMMERCIAL -> mass entertainment",
+            "PARALLEL -> social-realist alternative",
+            "COMMON -> production and distribution constraints",
+            "LIMIT -> reach and value are not identical"
+          ],
+          "source_references": [
+            "Parallel and commercial cinema"
+          ]
+        },
+        {
+          "title": "Representation test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WHAT IS SHOWN? -> representation",
+            "WHO PRODUCED IT? -> institutional choice",
+            "WHO WAS ADDRESSED? -> expected audience",
+            "LIMIT -> not a social census"
+          ],
+          "source_references": [
+            "Representation and social evidence"
+          ]
+        },
+        {
+          "title": "Multilingual field",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "LANGUAGE MARKET -> production",
+            "REGIONAL OFFICE -> administration",
+            "DUBBING -> fresh certification issue",
+            "RULE -> Indian cinema exceeds Hindi cinema"
+          ],
+          "source_references": [
+            "Indian cinema as many language markets"
+          ]
+        },
+        {
+          "title": "Regulatory chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CINEMATOGRAPH ACT -> statutory frame",
+            "CBFC -> certificate and modifications",
+            "PUBLIC EXHIBITION -> legal threshold",
+            "STATES -> enforcement in their domains"
+          ],
+          "source_references": [
+            "Cinematograph Act and CBFC"
+          ]
+        },
+        {
+          "title": "Institution function map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FTII -> training",
+            "NFAI -> preservation legacy",
+            "NFDC -> integrated development and promotion",
+            "IFFI / AWARDS -> exhibition and recognition"
+          ],
+          "source_references": [
+            "Training, archive and development"
+          ]
+        },
+        {
+          "title": "Recognition firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CERTIFICATE -> exhibition status",
+            "SELECTION -> festival programming",
+            "NOMINATION -> award consideration",
+            "WIN -> exact institution, category and year"
+          ],
+          "source_references": [
+            "Awards, preservation, Boong and PYQ boundary"
+          ]
+        },
+        {
+          "title": "Cinema answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "FORM -> camera, sound and editing",
+            "HISTORY -> dated firsts",
+            "INSTITUTION -> function and law",
+            "QUALIFY -> representation, preservation and award limits"
+          ],
+          "source_references": [
+            "Awards, preservation, Boong and PYQ boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

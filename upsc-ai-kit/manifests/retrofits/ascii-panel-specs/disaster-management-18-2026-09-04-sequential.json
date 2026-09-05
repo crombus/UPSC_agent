@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 18",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-18",
+      "display_title": "Governance, Capacity and International Cooperation",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-18_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Governance vocabulary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "POLICY -> DIRECTION",
+            "GOVERNANCE -> AUTHORITY / RULES",
+            "CAPACITY -> ABILITY TO PERFORM",
+            "COORDINATION -> ALIGNMENT | ACCOUNTABILITY -> DUTY + REVIEW"
+          ],
+          "source_references": [
+            "Policy governance capacity coordination accountability"
+          ]
+        },
+        {
+          "title": "Vertical architecture",
+          "structural_type": "governance-ladder",
+          "ascii_lines": [
+            "UNION -> NATIONAL POLICY STANDARD SUPPORT / COORDINATION",
+            "STATE -> STATE RISK GOVERNANCE AND LINE DEPARTMENTS",
+            "DISTRICT -> MULTI-SECTOR OPERATIONS",
+            "ULB / PRI / COMMUNITY -> LOCAL RISK ACTION AND FEEDBACK"
+          ],
+          "source_references": [
+            "Centre State local architecture"
+          ]
+        },
+        {
+          "title": "Whole-of-society ring",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PUBLIC AUTHORITIES AT THE CORE OF ACCOUNTABILITY",
+            "COMMUNITY / CIVIL SOCIETY / VOLUNTEERS",
+            "ACADEMIA / MEDIA / PRIVATE AND LIFELINE OPERATORS",
+            "PARTICIPATION COMPLEMENTS; DOES NOT ERASE PUBLIC DUTY"
+          ],
+          "source_references": [
+            "Whole-of-society"
+          ]
+        },
+        {
+          "title": "Plan-to-capability audit",
+          "structural_type": "audit-ladder",
+          "ascii_lines": [
+            "PLAN / SOP",
+            "TRAINED PEOPLE + AUTHORITY",
+            "EQUIPMENT FINANCE COMMUNICATION INTEROPERABILITY",
+            "EXERCISE -> CORRECT -> RETEST -> DEPLOYABLE CAPABILITY"
+          ],
+          "source_references": [
+            "Plan-to-capability gap",
+            "Preparedness exercises",
+            "Training and capacity development"
+          ]
+        },
+        {
+          "title": "Incident governance shell",
+          "structural_type": "role-map",
+          "ascii_lines": [
+            "LEADERSHIP / COMMAND",
+            "OPERATIONS | PLANNING | LOGISTICS",
+            "FINANCE / ADMINISTRATION | PUBLIC INFORMATION",
+            "TACTICS REMAIN HAZARD AND CONTEXT SPECIFIC"
+          ],
+          "source_references": [
+            "Incident command governance"
+          ]
+        },
+        {
+          "title": "Interoperability bridge",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COMMON TERMS + CONTACTS",
+            "DATA / REQUEST / RESOURCE STANDARDS",
+            "MUTUAL-AID AND COMMUNICATION PROCEDURES",
+            "CLEAR LEAD SUPPORT ESCALATION AND HANDOVER"
+          ],
+          "source_references": [
+            "Coordination and interoperability"
+          ]
+        },
+        {
+          "title": "Learning-accountability loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "RISK / LOSS / EXPENDITURE / EXERCISE DATA",
+            "AFTER-ACTION REVIEW + PUBLIC / LEGISLATIVE / INDEPENDENT SCRUTINY",
+            "ASSIGN CORRECTIVE OWNER DEADLINE RESOURCE",
+            "IMPLEMENT -> RETEST -> RETAIN INSTITUTIONAL MEMORY"
+          ],
+          "source_references": [
+            "Data learning and audit",
+            "Accountability chain"
+          ]
+        },
+        {
+          "title": "Sendai map",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 UNDERSTAND RISK",
+            "2 STRENGTHEN RISK GOVERNANCE",
+            "3 INVEST IN DRR FOR RESILIENCE",
+            "4 PREPARE / BUILD BACK BETTER | 7 TARGETS | VOLUNTARY"
+          ],
+          "source_references": [
+            "Sendai Framework"
+          ]
+        },
+        {
+          "title": "Global institution boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "UNDRR -> UN DRR COORDINATION",
+            "GPDRR -> REVIEW / KNOWLEDGE EXCHANGE",
+            "CDRI -> INFRASTRUCTURE RISK STANDARDS FINANCE RECOVERY",
+            "NONE PROVES NATIONAL IMPLEMENTATION OR ENFORCEMENT"
+          ],
+          "source_references": [
+            "UNDRR and GPDRR",
+            "CDRI"
+          ]
+        },
+        {
+          "title": "Regional cooperation ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "DIALOGUE / AGREEMENT",
+            "COMMON PROCEDURE / TRAINING / EXERCISE",
+            "ACTIVATION / ASSISTANCE / OUTPUT",
+            "CAPACITY OR RISK OUTCOME -> SEPARATE EVIDENCE"
+          ],
+          "source_references": [
+            "Regional cooperation",
+            "Agreement implementation outcome ladder"
+          ]
+        },
+        {
+          "title": "Assistance and localisation balance",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "AFFECTED-STATE CONSENT + DOMESTIC LAW + NATIONAL LEADERSHIP",
+            "INTERNATIONAL SURGE / EXPERTISE / FINANCE WHEN REQUESTED",
+            "LOCAL RESPONDER DECISION POWER RESOURCES AND INFORMATION",
+            "HUMANITARIAN ACCESS WITH SOVEREIGNTY AND ACCOUNTABILITY"
+          ],
+          "source_references": [
+            "International assistance legal status",
+            "Sovereignty and humanitarian diplomacy",
+            "Localisation"
+          ]
+        },
+        {
+          "title": "Governance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE TERMS -> MAP CENTRE STATE LOCAL AND SOCIETY ROLES",
+            "CONVERT PLANS / TRAINING / EXERCISES INTO AUDITED CAPABILITY",
+            "USE SENDAI UNDRR CDRI REGIONAL AND ASSISTANCE ROUTES PRECISELY",
+            "STOP AT VERIFIED AGREEMENT IMPLEMENTATION OUTPUT OR OUTCOME"
+          ],
+          "source_references": [
+            "Knowledge and technology cooperation",
+            "Governance-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

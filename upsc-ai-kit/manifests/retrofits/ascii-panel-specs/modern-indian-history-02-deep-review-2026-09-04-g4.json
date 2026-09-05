@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-02",
+      "display_title": "Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Eighteenth-century frame: crisis and reordering",
+          "structural_type": "scope-map",
+          "ascii_lines": [
+            "MUGHAL CENTRE CONTRACTS -> provincial, confederate and local arenas gain leverage",
+            "CORE QUESTION -> how revenue, armed labour, credit and legitimacy form regional states",
+            "TWO ERRORS -> pure chaos / universal prosperity",
+            "VERDICT -> uneven state formation, commercial continuity and social cost coexist.",
+            "MUST REMEMBER: Hyderabad, Awadh and Bengal adapted Mughal offices, while Maratha, Sikh, Jat,",
+            "  Mysore and other formations followed distinct fiscal-military and regional routes."
+          ],
+          "source_references": [
+            "01. Scope, periodisation and governing debate",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Three state types, not one hierarchy",
+          "structural_type": "classification-table",
+          "ascii_lines": [
+            "SUCCESSOR -> Bengal, Awadh, Hyderabad: Mughal office becomes practical autonomy",
+            "AUTONOMOUS / REGIONAL -> Mysore, Travancore, Rajput houses: older fields centralise selectively",
+            "NEW / MOBILISED -> Marathas, Sikhs, Jats, Rohillas: armed networks and local solidarities",
+            "RULE -> origin category does not predetermine capacity or welfare."
+          ],
+          "source_references": [
+            "03. Political map after Mughal weakening",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional chronology and bounded sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1707-20 -> succession, Shahu-Tarabai conflict and Banda Bahadur",
+            "1720s-40s -> Hyderabad, Awadh, Bengal consolidate; Baji Rao expands",
+            "1740s-61 -> Alivardi, Maratha northern bid, Sikh recovery and Afghan pressure",
+            "POST-1761 -> later Mysore, Ranjit Singh and Company only as bounded trajectory."
+          ],
+          "source_references": [
+            "01. Scope, periodisation and governing debate",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Hyderabad, Awadh and Bengal compared",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "HYDERABAD -> Nizam-ul-Mulk turns subedari and military authority into autonomy",
+            "AWADH -> Saadat Khan / Safdar Jang work through chiefs, taluqdars and imperial office",
+            "BENGAL -> Murshid Quli Khan and successors concentrate revenue and banking links",
+            "SHARED -> Mughal forms survive | DIFFERENCE -> alliance, finance and local control vary."
+          ],
+          "source_references": [
+            "05. Successor states",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Maratha confederacy: reach and coordination",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "SATARA / POONA -> chhatrapati, Peshwa and negotiated leadership",
+            "CHAUTH + SARDESHMUKHI -> fiscal claims interact with local collection",
+            "SCINDIA / HOLKAR / GAEKWAD / BHONSLE -> expanding houses and regional bases",
+            "TRAP -> neither a unitary nation-state nor only raiding; coordination had limits."
+          ],
+          "source_references": [
+            "06. Marathas",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sikhs: community, mobilisation and misls",
+          "structural_type": "process",
+          "ascii_lines": [
+            "KHALSA LEGACY -> persecution, mobilisation and armed community formation",
+            "BANDA BAHADUR -> early challenge; later repression changes the field",
+            "DAL KHALSA / MISLS -> fluid armed-territorial networks in Punjab",
+            "BOUNDARY -> Ranjit Singh belongs only as a later consolidating bridge."
+          ],
+          "source_references": [
+            "07. Sikhs",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mysore, Rajputs and Jats: bounded comparisons",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MYSORE -> Haidar Ali / Tipu: military and administrative centralisation, later bounded",
+            "RAJPUT STATES -> court, tribute, diplomacy and selective autonomy",
+            "JATS -> agrarian-zamindari mobilisation around Bharatpur and Suraj Mal",
+            "RULE -> compare resource route and legitimacy; avoid a single 'rebel state' label."
+          ],
+          "source_references": [
+            "08. Other regional states",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "State-formation engine",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "REVENUE ASSESSMENT + INTERMEDIARIES -> treasury and credit",
+            "CREDIT / BANKERS -> advances, remittance and military payment",
+            "ARMY -> enforces revenue and rewards clients -> court and patronage become durable",
+            "LIMIT -> warfare and extraction can strengthen rulers while burdening cultivators."
+          ],
+          "source_references": [
+            "04. State formation engine",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Society: hierarchy with differentiated agency",
+          "structural_type": "social-map",
+          "ascii_lines": [
+            "CASTE / CLASS / REGION -> condition access to land, work, honour and mobility",
+            "WOMEN -> elite sources show particular agency; ordinary labour needs cautious reconstruction",
+            "PEASANTS -> production base facing varied rents, dues, credit and war disruption",
+            "SOLDIERS / OFFICIALS -> selective mobility without dissolving hierarchy."
+          ],
+          "source_references": [
+            "12. Society: caste, gender and social groups",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Commercialisation links town and countryside",
+          "structural_type": "circulation-system",
+          "ascii_lines": [
+            "PEASANT SURPLUS -> markets, revenue and military supply",
+            "ARTISANS -> textiles, arms and specialised work | MERCHANTS -> brokerage and trade",
+            "BANKERS / HUNDIS -> credit and long-distance remittance",
+            "QUALIFY -> commercial dynamism does not prove equal prosperity or secure cultivation.",
+            "CLOSE DISTINCTION: Political plurality and warfare coexisted with credit, textile production,",
+            "  urban patronage and unequal social burdens; neither 'anarchy' nor universal prosperity fits",
+            "  all regions."
+          ],
+          "source_references": [
+            "13. Economy, commerce and production",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Culture and institutional continuity",
+          "structural_type": "culture-map",
+          "ascii_lines": [
+            "PERSIANATE COURTS + regional languages -> administrative and literary continuity",
+            "COURTS / TOWNS -> art, architecture, music and patronage shift regionally",
+            "MUGHAL SYMBOLS -> titles, coin, khutba and records remain politically usable",
+            "VERDICT -> cultural production persists amid war, hierarchy and changing patrons.",
+            "EVIDENCE LIMIT: Use revenue records, banking networks, courtly evidence and regional",
+            "  scholarship to qualify both colonial chaos narratives and over-corrective continuity claims."
+          ],
+          "source_references": [
+            "14. Culture, continuity and change",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Topic 02 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "CLASSIFY -> successor / autonomous-regional / newly mobilised states",
+            "COMPARE -> Hyderabad, Awadh, Bengal, Marathas, Sikhs, Mysore, Rajputs and Jats",
+            "EXPLAIN -> administration, revenue, army, credit and local alliances",
+            "INTEGRATE -> caste, gender, peasants, artisans and commercial networks",
+            "CLOSE -> neither chaos nor prosperity was universal; give a region-and-group verdict."
+          ],
+          "source_references": [
+            "23. Crisis, transition or regional resurgence",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\02_Indian-States-and-Society-18th-Century.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-02\\g4\\modern-indian-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

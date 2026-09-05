@@ -1,0 +1,1098 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-15",
+  "subject": "Modern-Indian-History",
+  "title": "MILITANT NATIONALISM, SWADESHI & THE PARTITION OF BENGAL (1905-1908)",
+  "short_route": "CURZON'S MEASURES FORMED A → THREE DATES THAT MUST → ADMINISTRATIVE PRETEXT VERSUS POLITICAL → SWADESHI AND BOYCOTT WERE → THE CONSTRUCTIVE PROGRAMME BUILT → CULTURAL MOBILISATION WIDENED AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-15_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-14-15-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "1d7de9ff3e5a90600aca24bb21aa1b85746bc9bf95b08e3767e012043656749b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CURZON'S MEASURES FORMED A PROVOCATION CHAIN",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CURZON'S MEASURES FORMED A PROVOCATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "1899 CALCUTTA CORPORATION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "REDUCED ELECTED INDIAN INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "1904 UNIVERSITIES ACT",
+          "role": "institution"
+        },
+        {
+          "text": "TIGHTER OFFICIAL SUPERVISION",
+          "role": "primary"
+        },
+        {
+          "text": "JUL 1905 PARTITION ANNOUNCED",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE CLAIM, POLITICAL DISTRUST",
+          "role": "comparison"
+        },
+        {
+          "text": "7 AUG 1905 BOYCOTT RESOLUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1899 CALCUTTA CORPORATION ACT → reduced elected Indian influence",
+        "1904 UNIVERSITIES ACT → tighter official supervision",
+        "JUL 1905 PARTITION ANNOUNCED → administrative claim, political distrust",
+        "7 AUG 1905 BOYCOTT RESOLUTION → organised anti-partition technique",
+        "16 OCT 1905 PARTITION EFFECTIVE → public mourning and mass mobilisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1899 CALCUTTA CORPORATION ACT → reduced elected Indian influence",
+            "1904 UNIVERSITIES ACT → tighter official supervision"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JUL 1905 PARTITION ANNOUNCED → administrative claim, political distrust",
+            "7 AUG 1905 BOYCOTT RESOLUTION → organised anti-partition technique"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "16 OCT 1905 PARTITION EFFECTIVE → public mourning and mass mobilisation",
+            "RESULT → Moderate frustration became militant self-assertion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "16 OCT 1905 PARTITION EFFECTIVE → public mourning and mass mobilisation.",
+      "source_references": [
+        "Mini-timeline",
+        "Causes of Extremism"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE DATES THAT MUST NOT BE MERGED",
+      "structural_type": "date-card",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE DATES THAT MUST NOT BE MERGED",
+          "role": "caution"
+        },
+        {
+          "text": "JULY 1905",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTITION ANNOUNCED",
+          "role": "comparison"
+        },
+        {
+          "text": "7 AUGUST 1905",
+          "role": "evidence"
+        },
+        {
+          "text": "CALCUTTA TOWN HALL BOYCOTT RESOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "16 OCTOBER 1905",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTITION TOOK EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "SURAT SPLIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JULY 1905 → partition announced",
+        "7 AUGUST 1905 → Calcutta Town Hall Boycott Resolution",
+        "16 OCTOBER 1905 → partition took effect",
+        "1907 → Surat split",
+        "1911-12 → annulment announced, capital shifted and provinces reorganised"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JULY 1905 → partition announced",
+            "7 AUGUST 1905 → Calcutta Town Hall Boycott Resolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "16 OCTOBER 1905 → partition took effect",
+            "1907 → Surat split"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1911-12 → annulment announced, capital shifted and provinces reorganised",
+            "EXAM RULE → identify announcement, movement launch, enforcement and reversal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM RULE → identify announcement, movement launch, enforcement and reversal.",
+      "source_references": [
+        "The 1905 sequence and the 7 August anchor",
+        "Factual-risk cautions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ADMINISTRATIVE PRETEXT VERSUS POLITICAL READING",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ADMINISTRATIVE PRETEXT VERSUS POLITICAL READING",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL CASE",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL WAS TOO LARGE FOR EFFICIENT ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONALIST READING",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVISION TARGETED A GROWING POLITICAL PUBLIC",
+          "role": "primary"
+        },
+        {
+          "text": "EASTERN PROVINCE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNAL AND REGIONAL BOUNDARIES GAINED POLITICAL WEIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULAR RESPONSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OFFICIAL CASE → Bengal was too large for efficient administration",
+        "NATIONALIST READING → division targeted a growing political public",
+        "EASTERN PROVINCE → communal and regional boundaries gained political weight",
+        "POPULAR RESPONSE → partition became evidence of divide and rule",
+        "ANALYTICAL RULE → distinguish stated rationale, perceived intent and outcome."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OFFICIAL CASE → Bengal was too large for efficient administration",
+            "NATIONALIST READING → division targeted a growing political public"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EASTERN PROVINCE → communal and regional boundaries gained political weight",
+            "POPULAR RESPONSE → partition became evidence of divide and rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANALYTICAL RULE → distinguish stated rationale, perceived intent and outcome.",
+            "OFFICIAL CASE → Bengal was too large for efficient administration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYTICAL RULE → distinguish stated rationale, perceived intent and outcome.",
+      "source_references": [
+        "Partition politics",
+        "Anti-partition core"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SWADESHI AND BOYCOTT WERE COMPLEMENTARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SWADESHI AND BOYCOTT WERE COMPLEMENTARY",
+          "role": "primary"
+        },
+        {
+          "text": "NEGATIVE ARM",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUSE FOREIGN GOODS AND SELECTED INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTRUCTIVE ARM",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCE, BUY AND ORGANISE INDIGENOUS ALTERNATIVES",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-RELIANCE PLUS PRESSURE ON COLONIAL AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BOYCOTT / NEGATIVE ARM → refuse foreign goods and selected institutions",
+        "SWADESHI / CONSTRUCTIVE ARM → produce, buy and organise indigenous alternatives",
+        "SHARED PURPOSE → self-reliance plus pressure on colonial authority",
+        "ECONOMIC EFFECT → selected local falls in imported-goods sales",
+        "LIMIT → supply, capital and participation varied across region and class."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BOYCOTT / NEGATIVE ARM → refuse foreign goods and selected institutions",
+          "SHARED PURPOSE → self-reliance plus pressure on colonial authority",
+          "LIMIT → supply, capital and participation varied across region and class."
+        ],
+        [
+          "SWADESHI / CONSTRUCTIVE ARM → produce, buy and organise indigenous alternatives",
+          "ECONOMIC EFFECT → selected local falls in imported-goods sales",
+          "BOYCOTT / NEGATIVE ARM → refuse foreign goods and selected institutions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOYCOTT / NEGATIVE ARM → refuse foreign goods and selected institutions",
+            "SWADESHI / CONSTRUCTIVE ARM → produce, buy and organise indigenous alternatives"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHARED PURPOSE → self-reliance plus pressure on colonial authority",
+            "ECONOMIC EFFECT → selected local falls in imported-goods sales"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → supply, capital and participation varied across region and class.",
+            "BOYCOTT / NEGATIVE ARM → refuse foreign goods and selected institutions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → supply, capital and participation varied across region and class.",
+      "source_references": [
+        "Effectiveness of boycott",
+        "Constructive programme"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE CONSTRUCTIVE PROGRAMME BUILT INSTITUTIONS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE CONSTRUCTIVE PROGRAMME BUILT INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIGENOUS PRODUCTION, STORES AND INVESTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL COUNCIL OF EDUCATION, 1906",
+          "role": "institution"
+        },
+        {
+          "text": "BENGAL NATIONAL COLLEGE AND AUROBINDO GHOSH",
+          "role": "evidence"
+        },
+        {
+          "text": "ALTERNATIVES TO COLONIAL LEGAL DEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL ORGANISATION, SERVICE AND PHYSICAL CULTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTEST JOINED DURABLE CAPACITY-BUILDING.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INDUSTRY → indigenous production, stores and investment",
+        "EDUCATION → National Council of Education, 1906",
+        "COLLEGE → Bengal National College and Aurobindo Ghosh",
+        "ARBITRATION → alternatives to colonial legal dependence",
+        "SAMITIS → local organisation, service and physical culture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDUSTRY → indigenous production, stores and investment",
+            "EDUCATION → National Council of Education, 1906"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLLEGE → Bengal National College and Aurobindo Ghosh",
+            "ARBITRATION → alternatives to colonial legal dependence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAMITIS → local organisation, service and physical culture",
+            "LEGACY → protest joined durable capacity-building."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAMITIS → local organisation, service and physical culture.",
+      "source_references": [
+        "Constructive programme - industry and education",
+        "Programme"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CULTURAL MOBILISATION WIDENED AND NARROWED POLITICS",
+      "structural_type": "two-sided",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CULTURAL MOBILISATION WIDENED AND NARROWED POLITICS",
+          "role": "primary"
+        },
+        {
+          "text": "SONGS, FESTIVALS, PROCESSIONS AND VANDE MATARAM",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICS ENTERED SCHOOLS, HOMES, STREETS AND MARKETPLACES",
+          "role": "comparison"
+        },
+        {
+          "text": "STUDENTS AND WOMEN GAINED VISIBLE ROLES",
+          "role": "evidence"
+        },
+        {
+          "text": "HINDU-INFLECTED SYMBOLS COULD LIMIT MUSLIM PARTICIPATION",
+          "role": "caution"
+        },
+        {
+          "text": "MOBILISATION AND EXCLUSION CAN ARISE FROM THE SAME IDIOM",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTURAL SYMBOLISM WAS NOT THE MOVEMENT'S WHOLE PROGRAMME.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WIDENED → songs, festivals, processions and Vande Mataram",
+        "WIDENED → politics entered schools, homes, streets and marketplaces",
+        "WIDENED → students and women gained visible roles",
+        "NARROWED → Hindu-inflected symbols could limit Muslim participation",
+        "ANALYSIS → mobilisation and exclusion can arise from the same idiom"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WIDENED → songs, festivals, processions and Vande Mataram",
+            "WIDENED → politics entered schools, homes, streets and marketplaces"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WIDENED → students and women gained visible roles",
+            "NARROWED → Hindu-inflected symbols could limit Muslim participation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANALYSIS → mobilisation and exclusion can arise from the same idiom",
+            "CAUTION → cultural symbolism was not the movement's whole programme."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → cultural symbolism was not the movement's whole programme.",
+      "source_references": [
+        "Cultural mobilisation and its ambivalence",
+        "Social reach"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MILITANT NATIONALISM WAS A PROGRAMME, NOT A MOOD",
+      "structural_type": "concept-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MILITANT NATIONALISM WAS A PROGRAMME, NOT A MOOD",
+          "role": "caution"
+        },
+        {
+          "text": "POLITICAL OBJECTIVE AND MORAL SELF-RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFIDENCE, SACRIFICE AND SELF-RELIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC AND INSTITUTIONAL WITHDRAWAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PASSIVE RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "NON-COOPERATION WITH UNJUST AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL EDUCATION",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMOUS MINDS AND INSTITUTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SWARAJ → political objective and moral self-rule",
+        "ATMA-SHAKTI → confidence, sacrifice and self-reliance",
+        "BOYCOTT → economic and institutional withdrawal",
+        "PASSIVE RESISTANCE → non-cooperation with unjust authority",
+        "NATIONAL EDUCATION → autonomous minds and institutions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SWARAJ → political objective and moral self-rule",
+            "ATMA-SHAKTI → confidence, sacrifice and self-reliance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOYCOTT → economic and institutional withdrawal",
+            "PASSIVE RESISTANCE → non-cooperation with unjust authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NATIONAL EDUCATION → autonomous minds and institutions",
+            "LEADERSHIP → Tilak, Lajpat Rai, B.C. Pal and Aurobindo."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEADERSHIP → Tilak, Lajpat Rai, B.C. Pal and Aurobindo.",
+      "source_references": [
+        "Extremism was a new ideology of active self-reliance",
+        "Leadership"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REGIONAL SPREAD WAS UNEVEN",
+      "structural_type": "regional-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL SPREAD WAS UNEVEN",
+          "role": "primary"
+        },
+        {
+          "text": "ANTI-PARTITION CORE, SAMITIS, EDUCATION AND CULTURAL ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TILAK'S ASSERTIVE POLITICAL IDIOM AND BOYCOTT SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "LAJPAT RAI AND AGRARIAN-POLITICAL DISCONTENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC MEETINGS, PRESS AND SWADESHI SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-INDIA CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNIQUE TRAVELLED",
+          "role": "comparison"
+        },
+        {
+          "text": "INTENSITY, LEADERSHIP AND SOCIAL COALITION DIFFERED BY REGION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BENGAL → anti-partition core, samitis, education and cultural action",
+        "MAHARASHTRA → Tilak's assertive political idiom and boycott support",
+        "PUNJAB → Lajpat Rai and agrarian-political discontent",
+        "MADRAS → public meetings, press and Swadeshi support",
+        "ALL-INDIA CLAIM → technique travelled"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BENGAL → anti-partition core, samitis, education and cultural action",
+          "PUNJAB → Lajpat Rai and agrarian-political discontent",
+          "ALL-INDIA CLAIM → technique travelled"
+        ],
+        [
+          "MAHARASHTRA → Tilak's assertive political idiom and boycott support",
+          "MADRAS → public meetings, press and Swadeshi support",
+          "LIMIT → intensity, leadership and social coalition differed by region."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENGAL → anti-partition core, samitis, education and cultural action",
+            "MAHARASHTRA → Tilak's assertive political idiom and boycott support"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUNJAB → Lajpat Rai and agrarian-political discontent",
+            "MADRAS → public meetings, press and Swadeshi support"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ALL-INDIA CLAIM → technique travelled",
+            "LIMIT → intensity, leadership and social coalition differed by region."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → intensity, leadership and social coalition differed by region.",
+      "source_references": [
+        "Regional spread",
+        "Counter-evidence, balance and variation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PARTICIPATION EXPANDED BUT DID NOT BECOME FULLY MASS",
+      "structural_type": "social-pyramid",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PARTICIPATION EXPANDED BUT DID NOT BECOME FULLY MASS",
+          "role": "caution"
+        },
+        {
+          "text": "VISIBLE CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "STUDENTS, PROFESSIONALS AND URBAN MIDDLE CLASSES",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW PARTICIPANTS",
+          "role": "evidence"
+        },
+        {
+          "text": "WOMEN, SELECTED WORKERS AND RURAL GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL ORGANISERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SAMITIS AND CULTURAL NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "THIN REACH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VISIBLE CORE → students, professionals and urban middle classes",
+        "NEW PARTICIPANTS → women, selected workers and rural groups",
+        "LOCAL ORGANISERS → samitis and cultural networks",
+        "THIN REACH → much of the peasantry and labour remained outside",
+        "UNEQUAL INCLUSION → Muslim participation varied and often weakened"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VISIBLE CORE → students, professionals and urban middle classes",
+            "NEW PARTICIPANTS → women, selected workers and rural groups"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOCAL ORGANISERS → samitis and cultural networks",
+            "THIN REACH → much of the peasantry and labour remained outside"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNEQUAL INCLUSION → Muslim participation varied and often weakened",
+            "VERDICT → wider than Moderate politics, narrower than Gandhian mobilisation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → wider than Moderate politics, narrower than Gandhian mobilisation.",
+      "source_references": [
+        "Social reach",
+        "Incomplete-mass-politics thesis"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CONGRESS COMPROMISE GAVE WAY TO THE SURAT RUPTURE",
+      "structural_type": "conflict-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONGRESS COMPROMISE GAVE WAY TO THE SURAT RUPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "BANARAS 1905",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS ACCEPTED SWADESHI AND BENGAL BOYCOTT",
+          "role": "comparison"
+        },
+        {
+          "text": "CALCUTTA 1906",
+          "role": "evidence"
+        },
+        {
+          "text": "NAOROJI BRIDGED SWARAJ, BOYCOTT, SWADESHI AND EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "SCOPE, PASSIVE RESISTANCE AND CONTROL OF ORGANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "1907 SURAT",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL BREAKDOWN AND FORMAL SPLIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BANARAS 1905 → Congress accepted Swadeshi and Bengal boycott",
+        "CALCUTTA 1906 → Naoroji bridged swaraj, boycott, Swadeshi and education",
+        "DISPUTE → scope, passive resistance and control of organisation",
+        "1907 SURAT → physical breakdown and formal split",
+        "STATE ADVANTAGE → divided opposition faced intensified repression"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BANARAS 1905 → Congress accepted Swadeshi and Bengal boycott",
+            "CALCUTTA 1906 → Naoroji bridged swaraj, boycott, Swadeshi and education"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISPUTE → scope, passive resistance and control of organisation",
+            "1907 SURAT → physical breakdown and formal split"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE ADVANTAGE → divided opposition faced intensified repression",
+            "LESSON → movement technique requires an organisation able to contain debate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → movement technique requires an organisation able to contain debate.",
+      "source_references": [
+        "Repression and the Surat split",
+        "Two-currents thesis"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DECLINE AND LEGACY MOVED IN OPPOSITE DIRECTIONS",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DECLINE AND LEGACY MOVED IN OPPOSITE DIRECTIONS",
+          "role": "caution"
+        },
+        {
+          "text": "REPRESSION, ARRESTS, DEPORTATION AND PRESS CONTROLS",
+          "role": "outcome"
+        },
+        {
+          "text": "SURAT SPLIT AND LIMITED RURAL ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BOYCOTT FATIGUE AND UNEVEN INDIGENOUS SUPPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "SELF-RELIANCE, NATIONAL EDUCATION AND CONSTRUCTIVE WORK",
+          "role": "primary"
+        },
+        {
+          "text": "BOYCOTT AND PASSIVE RESISTANCE BECAME NORMAL NATIONALIST TOOLS",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT ORGANISATIONAL HIGH TIDE, LONG STRATEGIC AFTERLIFE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DECLINE → repression, arrests, deportation and press controls",
+        "DECLINE → Surat split and limited rural organisation",
+        "DECLINE → boycott fatigue and uneven indigenous supply",
+        "LEGACY → self-reliance, national education and constructive work",
+        "LEGACY → boycott and passive resistance became normal nationalist tools"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DECLINE → repression, arrests, deportation and press controls",
+            "DECLINE → Surat split and limited rural organisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DECLINE → boycott fatigue and uneven indigenous supply",
+            "LEGACY → self-reliance, national education and constructive work"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGACY → boycott and passive resistance became normal nationalist tools",
+            "VERDICT → short organisational high tide, long strategic afterlife."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → short organisational high tide, long strategic afterlife.",
+      "source_references": [
+        "Achievement-and-limitation ledger",
+        "Transmission to Gandhian politics"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SWADESHI ANSWER-WRITING SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SWADESHI ANSWER-WRITING SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CURZONIAN REACTION AND BENGAL PARTITION",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERATE LIMITS, DISTRESS, REPRESSION AND ASIAN SELF-CONFIDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BOYCOTT, SWADESHI, EDUCATION, SAMITIS AND PASSIVE RESISTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "STUDENTS, WOMEN, REGIONS AND SELECTED WORKERS/RURAL GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "REPRESSION, DIVISION, SOCIAL NARROWNESS AND COMMUNAL TENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILED TO SUSTAIN PEAK MOBILISATION, TRANSFORMED NATIONALIST GRAMMAR.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TRIGGER → Curzonian reaction and Bengal partition",
+        "CAUSES → Moderate limits, distress, repression and Asian self-confidence",
+        "METHODS → boycott, Swadeshi, education, samitis and passive resistance",
+        "REACH → students, women, regions and selected workers/rural groups",
+        "LIMITS → repression, division, social narrowness and communal tension"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRIGGER → Curzonian reaction and Bengal partition",
+            "CAUSES → Moderate limits, distress, repression and Asian self-confidence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METHODS → boycott, Swadeshi, education, samitis and passive resistance",
+            "REACH → students, women, regions and selected workers/rural groups"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMITS → repression, division, social narrowness and communal tension",
+            "VERDICT → failed to sustain peak mobilisation, transformed nationalist grammar."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → failed to sustain peak mobilisation, transformed nationalist grammar.",
+      "source_references": [
+        "Mark-scaled structure",
+        "Verdict scaffolds"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE PRESENTS MILITANT NATIONALISM AS ROOTED",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERATE POLITICS, OFFICIAL REPRESSION, ECONOMIC HARDSHIP AND A CHANGING",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTREMISTS EMPHASISED SWARAJ , SELF-CONFIDENCE, SACRIFICE, BOYCOTT, PASSIVE RESISTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL EDUCATION RATHER THAN RELIANCE ON BRITISH LIBERAL CONSCIENCE.",
+          "role": "primary"
+        },
+        {
+          "text": "TILAK'S PUBLIC FESTIVALS, BANKIM'S VANDE MATARAM , VIVEKANANDA'S MESSAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "AND AUROBINDO'S POLITICAL WRITINGS FED A LANGUAGE OF ASSERTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTREMISM DID NOT SIMPLY REPLACE MODERATE NATIONALISM; IT RADICALISED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence presents militant nationalism as rooted in dissatisfaction with",
+            "Moderate politics, official repression, economic hardship and a changing international psychological climate.",
+            "Extremists emphasised swaraj , self-confidence, sacrifice, boycott, passive resistance and",
+            "national education rather than reliance on British liberal conscience."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Tilak's public festivals, Bankim's Vande Mataram , Vivekananda's message of strength",
+            "and Aurobindo's political writings fed a language of assertive nationalism.",
+            "CAUTION: Extremism did not simply replace Moderate nationalism; it radicalised existing economic critique and expanded methods of political action.",
+            "Swadeshi mobilised students, women, urban middle classes, zamindars in parts of Bengal, workers"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "in select strikes and sections of rural society through samitis and cultural networks.",
+            "Its constructive programme included indigenous industry, arbitration courts, national schools and physical-culture organisations.",
+            "Government repression, internal disagreements, limited peasant mobilisation and the Moderates-Extremists",
+            "split contributed to decline after the initial high tide."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

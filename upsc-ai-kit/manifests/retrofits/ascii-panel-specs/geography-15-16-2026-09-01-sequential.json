@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topics 15-16",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-15",
+      "display_title": "Hot Wet Equatorial Climate",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\15_India-Evergreen-Forests_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Equatorial climate map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EQUATOR -> persistent high solar receipt",
+            "AMAZON + CONGO -> major continental lowlands",
+            "MALAYSIA + EAST INDIES -> maritime expression",
+            "HIGHLANDS / MARGINS -> altitude or monsoon modification"
+          ],
+          "source_references": [
+            "Af location and equatorial setting"
+          ]
+        },
+        {
+          "title": "Convection day cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MORNING SUN -> moist surface heating",
+            "NOON ASCENT -> expanding and cooling air",
+            "AFTERNOON -> cumulonimbus thunderstorm",
+            "EVENING -> rain-cooled air; cycle can recur"
+          ],
+          "source_references": [
+            "Equatorial low and convection",
+            "Afternoon storms and equinox maxima"
+          ]
+        },
+        {
+          "title": "Temperature-range firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANNUAL RANGE -> usually very small",
+            "DIURNAL RANGE -> larger than annual range",
+            "CAUSE -> weak seasonality near Equator",
+            "CAUTION -> means do not cap daily extremes"
+          ],
+          "source_references": [
+            "Uniform heat and annual range",
+            "Diurnal range exceeds annual range"
+          ]
+        },
+        {
+          "title": "Rainfall identity",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RAIN ALL MONTHS -> supports Af reading",
+            "TRUE DRY SEASON -> test Am or Aw instead",
+            "TOTAL -> source notes often 150-250 cm",
+            "RULE -> distribution outranks one annual number"
+          ],
+          "source_references": [
+            "Year-round rainfall regime"
+          ]
+        },
+        {
+          "title": "Rainforest vertical profile",
+          "structural_type": "vertical-map",
+          "ascii_lines": [
+            "EMERGENTS -> crowns above main roof",
+            "CANOPY -> dense light-capturing layer",
+            "UNDERSTOREY -> shade-tolerant growth",
+            "FLOOR -> dark, humid, rapid decay"
+          ],
+          "source_references": [
+            "Rainforest layers"
+          ]
+        },
+        {
+          "title": "Nutrient-cycle loop",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LITTER -> rapid warm-wet decomposition",
+            "ROOT MAT -> rapid nutrient uptake",
+            "BIOMASS -> principal nutrient capital",
+            "HEAVY RAIN -> leaching after clearance"
+          ],
+          "source_references": [
+            "Nutrient paradox"
+          ]
+        },
+        {
+          "title": "Fallow decision",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SMALL CLEARING + LONG FALLOW -> recovery",
+            "SHORTENED FALLOW -> declining biomass",
+            "STEEP SLOPE + REPEATED FIRE -> erosion risk",
+            "TENURE + LIVELIHOOD -> management outcome"
+          ],
+          "source_references": [
+            "Shifting cultivation and fallow"
+          ]
+        },
+        {
+          "title": "Humid-tropics economy",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PLANTATION -> capital + labour + export crop",
+            "MIXED FOREST -> selective logging difficulty",
+            "RIVER / ROAD ACCESS -> extraction geography",
+            "RULE -> climate enables; institutions decide"
+          ],
+          "source_references": [
+            "Plantations and commercial forestry"
+          ]
+        },
+        {
+          "title": "India analogue map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WESTERN GHATS -> windward evergreen belt",
+            "NORTH-EAST -> wet evergreen / semi-evergreen",
+            "EASTERN HIMALAYAN FOOTHILLS -> transition",
+            "ANDAMAN-NICOBAR -> insular rainforest"
+          ],
+          "source_references": [
+            "India's equatorial-type boundary",
+            "Indian evergreen distribution"
+          ]
+        },
+        {
+          "title": "Official evidence firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "FSI REPORT -> dated biennial assessment",
+            "FOREST COVER -> canopy-based mapped class",
+            "FOREST TYPE -> ecological classification",
+            "LEGAL STATUS -> separate administrative category"
+          ],
+          "source_references": [
+            "Biodiversity, jhum and FSI evidence"
+          ]
+        },
+        {
+          "title": "Verified PYQ pair",
+          "structural_type": "exam-matrix",
+          "ascii_lines": [
+            "2021 -> rainforest vegetation structure",
+            "2023 -> nutrients and decomposition",
+            "LEDGER -> official answer letters withheld",
+            "METHOD -> teach distinction; do not invent key"
+          ],
+          "source_references": [
+            "Verified rainforest PYQ routes"
+          ]
+        },
+        {
+          "title": "Equatorial answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LOCATE -> equatorial lowland belt",
+            "DERIVE -> heat, convergence, convection, rain",
+            "LINK -> layers, nutrients and land use",
+            "QUALIFY -> India analogue and source limits"
+          ],
+          "source_references": [
+            "Verified rainforest PYQ routes"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-16",
+      "display_title": "Tropical Monsoon and Marine Climate",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\16_India-Monsoon-Mechanism_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Climate-type discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MONSOON Am -> seasonal wind reversal",
+            "TROPICAL MARINE -> onshore Trades most months",
+            "MONSOON RAIN -> strongly concentrated",
+            "MARINE RAIN -> generally steadier distribution"
+          ],
+          "source_references": [
+            "Monsoon and tropical marine identities"
+          ]
+        },
+        {
+          "title": "Three-level monsoon engine",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "THERMAL -> land-sea pressure reversal",
+            "DYNAMIC -> seasonal ITCZ migration",
+            "UPPER AIR -> jet reorganisation",
+            "OUTCOME -> cross-equatorial moist flow"
+          ],
+          "source_references": [
+            "Thermal, ITCZ and upper-air mechanism"
+          ]
+        },
+        {
+          "title": "Seasonal circulation rail",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "MAR-MAY -> thermal low and local storms",
+            "JUN-SEP -> southwest advance and rain",
+            "OCT-NOV -> withdrawal and Bay systems",
+            "DEC-FEB -> dry NE flow; WDs in north-west"
+          ],
+          "source_references": [
+            "India's four-season circulation"
+          ]
+        },
+        {
+          "title": "Onset evidence ladder",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "NORMAL DATE -> long-period reference",
+            "ONSET DECLARATION -> observed criteria met",
+            "BURST -> abrupt rain establishment",
+            "SEASON RESULT -> verified only after completion"
+          ],
+          "source_references": [
+            "Burst and onset",
+            "Northeast monsoon and IMD products"
+          ]
+        },
+        {
+          "title": "Arabian Sea branch map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "ARABIAN SEA -> moisture-bearing branch",
+            "WESTERN GHATS -> windward uplift and rain",
+            "LEEWARD DECCAN -> rain shadow",
+            "INTERIOR -> systems and relief modify totals"
+          ],
+          "source_references": [
+            "Arabian Sea branch"
+          ]
+        },
+        {
+          "title": "Bay branch map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BAY OF BENGAL -> branch and depressions",
+            "NORTH-EAST HILLS -> forced uplift",
+            "HIMALAYA -> blocks northward escape",
+            "GANGA PLAIN -> west-north-west rain route"
+          ],
+          "source_references": [
+            "Bay branch and depressions"
+          ]
+        },
+        {
+          "title": "Active-break switch",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TROUGH OVER PLAINS -> widespread active rain",
+            "BAY LOWS -> inland rain corridors",
+            "TROUGH TO FOOTHILLS -> plains break",
+            "CROP STAGE -> impact can exceed total deficit"
+          ],
+          "source_references": [
+            "Active and break monsoon"
+          ]
+        },
+        {
+          "title": "Jet and WD firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STWJ -> winter upper-air westerly regime",
+            "TROPICAL EASTERLY FLOW -> summer monsoon aloft",
+            "WESTERN DISTURBANCE -> extra-tropical system",
+            "MONSOON DEPRESSION -> tropical rain-bearing low"
+          ],
+          "source_references": [
+            "Jet-stream reorganisation",
+            "Western disturbances"
+          ]
+        },
+        {
+          "title": "Variability timescales",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MJO -> weeks / active-break modulation",
+            "ENSO -> inter-annual Pacific signal",
+            "IOD -> Indian Ocean seasonal signal",
+            "RULE -> none is a deterministic switch"
+          ],
+          "source_references": [
+            "ENSO, IOD and MJO"
+          ]
+        },
+        {
+          "title": "Coromandel rain chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SW MONSOON WITHDRAWS -> flow reverses",
+            "NE FLOW CROSSES BAY -> moisture gained",
+            "TAMIL NADU COAST -> onshore exposure",
+            "RAIN + CYCLONE RISK -> retreating season"
+          ],
+          "source_references": [
+            "Northeast monsoon and IMD products"
+          ]
+        },
+        {
+          "title": "Verified PYQ routes",
+          "structural_type": "exam-matrix",
+          "ascii_lines": [
+            "2023 GS-I -> Purvaiya and cultural ethos",
+            "2026 PRELIMS -> island climate and rain",
+            "2026 KEY -> provisional; no letter inferred",
+            "METHOD -> map wind, season and regional meaning"
+          ],
+          "source_references": [
+            "Verified Purvaiya and island PYQs"
+          ]
+        },
+        {
+          "title": "Monsoon answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> reversal and marine contrast",
+            "DERIVE -> thermal, ITCZ and jets",
+            "MAP -> branches, breaks and retreat",
+            "QUALIFY -> teleconnections and source status"
+          ],
+          "source_references": [
+            "Verified Purvaiya and island PYQs"
+          ]
+        }
+      ]
+    }
+  ]
+}

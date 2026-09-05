@@ -1,0 +1,483 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Ancient Indian History learner-v2 Topics 24-25",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-24",
+      "display_title": "Developments in Philosophy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\24_Developments-in-Philosophy_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Chronology and evidence discipline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "VEDIC HORIZON -> rta, sacrifice, sacred speech and speculative hymns",
+            "EARLY UPANISHADS -> brahman, atman, karma, rebirth and moksha debates",
+            "6th-5th c. BCE -> second urbanisation and shramana challenges",
+            "EARLY HISTORIC -> sutra traditions and sharper school identities",
+            "2nd c. CE -> RS Sharma places Badarayana's Brahmasutra",
+            "EARLY MEDIEVAL -> commentary, logic and later doxographic ordering",
+            "RULE: date texts and school formation cautiously; use rival-source triangulation."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Evidence discipline"
+          ]
+        },
+        {
+          "title": "An argumentative field, not one doctrine",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "DARSHANA -> a viewpoint or way of seeing",
+            "ANVIKSIKI -> inquiry as a named knowledge branch",
+            "QUESTIONS -> What is real? How is knowledge valid? What binds? What liberates?",
+            "METHODS -> dialogue + aphorism + commentary + debate + disciplined practice",
+            "WORLDLY AIMS -> dharma + artha + kama",
+            "LIBERATION AIM -> moksha develops alongside worldly concerns",
+            "VERDICT: plurality and contest are structural, not later exceptions."
+          ],
+          "source_references": [
+            "Darshana",
+            "Anviksiki",
+            "Purusharthas"
+          ]
+        },
+        {
+          "title": "Vedic to Upanishadic transition",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RTA / YAJNA / SACRED SPEECH",
+            "          |",
+            "speculative hymns question origin, order and knowledge",
+            "          |",
+            "Aranyakas and Upanishads interiorise ritual and stage dialogues",
+            "          |",
+            "BRAHMAN + ATMAN + KARMA + REBIRTH + RELEASE",
+            "CONTINUITY: inherited vocabulary and ritual setting",
+            "CHANGE: knowledge and self-inquiry gain sharper liberating force."
+          ],
+          "source_references": [
+            "Vedic background",
+            "Upanishadic developments"
+          ]
+        },
+        {
+          "title": "Shramana reconfiguration",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONTEXT -> towns + states + merchants + renouncers + debate",
+            "BUDDHISM -> conditioned arising, non-self, suffering and disciplined path",
+            "JAINISM -> jiva, karmic matter, many-sidedness and rigorous restraint",
+            "AJIVIKA -> niyati and ascetic discipline; mostly hostile external evidence",
+            "LOKAYATA -> materialist and sceptical critique; texts largely lost",
+            "COMMON MOVE -> challenge ritual monopoly and rethink action, bondage and release",
+            "LIMIT -> shramana schools disagreed profoundly with one another."
+          ],
+          "source_references": [
+            "Shramana milieu",
+            "Buddhism",
+            "Jainism",
+            "Ajivikas",
+            "Lokayata"
+          ]
+        },
+        {
+          "title": "Buddhist philosophical development",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY CORE -> four truths + dependent arising + non-self",
+            "ABHIDHARMA -> analytical classification of experienced processes",
+            "MAHAYANA -> bodhisattva horizon and expanded textual worlds",
+            "MADHYAMAKA -> emptiness as dependent existence, not nihilism",
+            "YOGACARA -> analysis of cognition and representation",
+            "DIGNAGA TRADITION -> sharper Buddhist epistemology and logic",
+            "CAUTION: later developments must not be projected into the earliest canon."
+          ],
+          "source_references": [
+            "Early Buddhism",
+            "Abhidharma",
+            "Mahayana",
+            "Madhyamaka",
+            "Yogacara"
+          ]
+        },
+        {
+          "title": "Jain, Ajivika and Charvaka evidence matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "JAINA -> own canons + later texts | jiva, karma, anekanta, syadvada",
+            "AJIVIKA -> Buddhist/Jaina reports + archaeology | niyati; hostile-source problem",
+            "CHARVAKA -> opponents' summaries | perception and materialist criticism",
+            "ANEKANTAVADA -> reality has multiple aspects",
+            "SYADVADA -> conditional predication; not random indecision",
+            "HARD RULE -> secure core claim before later anecdote",
+            "VERDICT: source survival shapes how confidently each school can be reconstructed."
+          ],
+          "source_references": [
+            "Jain philosophy",
+            "Ajivikas",
+            "Charvaka",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Astika, nastika and the six-school caveat",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "ASTIKA / NASTIKA != simple believer / atheist",
+            "CLASSIFICATION AXES -> Vedic authority, other world and polemical usage",
+            "SIX LATER ORTHODOX PAIRINGS:",
+            "  Samkhya <-> Yoga",
+            "  Nyaya <-> Vaisheshika",
+            "  Mimamsa <-> Vedanta",
+            "OLDER TRADITIONS -> real; neat six-school canon -> later crystallisation",
+            "TRAP: do not make one timeless list govern every ancient century."
+          ],
+          "source_references": [
+            "Astika and nastika",
+            "Six darshanas",
+            "Doxography"
+          ]
+        },
+        {
+          "title": "Samkhya and Yoga",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SAMKHYA                         YOGA",
+            "purusha / prakriti             related metaphysical framework",
+            "three gunas                    disciplined transformation of mind",
+            "real evolution of prakriti     citta-vritti-nirodha",
+            "analytic tattva sequence       eight-limbed practice",
+            "discrimination liberates       disciplined insight liberates",
+            "LINK: conceptual analysis <-> practical discipline",
+            "CAUTION: historical layers complicate one fixed founder-date story."
+          ],
+          "source_references": [
+            "Samkhya",
+            "Yoga",
+            "Eight limbs"
+          ]
+        },
+        {
+          "title": "Nyaya and Vaisheshika",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "NYAYA                           VAISHESHIKA",
+            "valid knowledge                categories and substances",
+            "perception + inference         atomistic analysis",
+            "comparison + testimony         qualities, motion and inherence",
+            "five-member inference          padartha classification",
+            "public reasoning               realist ontology",
+            "LINK: epistemic method <-> analysis of what exists",
+            "TRAP: Indian atomism is not identical to modern particle physics."
+          ],
+          "source_references": [
+            "Nyaya",
+            "Vaisheshika",
+            "Pramanas",
+            "Atomism"
+          ]
+        },
+        {
+          "title": "Mimamsa and early Vedanta",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PURVA MIMAMSA                   UTTARA MIMAMSA / VEDANTA",
+            "Vedic injunction and dharma    Upanishads + Gita + Brahmasutra",
+            "ritual hermeneutics            brahman, self and liberation",
+            "language and duty              competing later interpretations",
+            "textual authority central      textual authority central",
+            "BOUNDARY: early core != Shankara/Ramanuja projected backward",
+            "VERDICT: shared canon can sustain sharply different philosophical projects."
+          ],
+          "source_references": [
+            "Mimamsa",
+            "Early Vedanta",
+            "Chronological boundaries"
+          ]
+        },
+        {
+          "title": "Pramana and metaphysics comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "KNOWLEDGE -> perception | inference | comparison | testimony | other debates",
+            "SELF -> enduring self | plural selves | no-self | material person",
+            "CAUSATION -> transformation | new production | dependent arising",
+            "REALITY -> substance/categories | process | non-dual readings | plural aspects",
+            "LIBERATION -> knowledge | discipline | duty | ethical restraint | path",
+            "METHOD -> compare schools on one axis at a time",
+            "TRAP: do not assign every pramana to every school."
+          ],
+          "source_references": [
+            "Epistemology",
+            "Metaphysics",
+            "Causation",
+            "Liberation"
+          ]
+        },
+        {
+          "title": "Institutions, language and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "TRANSMISSION -> teacher lineages + monasteries + courts + debate halls",
+            "LANGUAGE -> Sanskrit + Pali + Prakrit + grammatical analysis",
+            "FORM -> sutra -> commentary -> counter-commentary",
+            "OPEN -> philosophy as a chronological, plural argumentative field",
+            "BODY -> Vedic/Upanishadic -> shramana -> darshana comparison",
+            "EVIDENCE -> named text or thinker + source limitation",
+            "CLOSE -> cumulative borrowing and contest, not spiritual homogeneity."
+          ],
+          "source_references": [
+            "Grammar and philosophy",
+            "Institutions",
+            "Answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-25",
+      "display_title": "Cultural Interaction with Asian Countries",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\25_Cultural-Interaction-with-Asian-Countries_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Chronology, geography and evidence",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "3rd millennium BCE -> Harappan-West Asian commercial contact",
+            "3rd c. BCE setting -> Sri Lankan mission memory develops in later chronicles",
+            "EARLY CE -> Central Asian, Chinese and Southeast Asian links widen",
+            "3rd-6th c. CE -> Buddhist and Shaiva networks visible across several regions",
+            "7th c. onward -> Srivijaya and major trans-Asian monastic circuits",
+            "SOURCES -> inscriptions + texts + pilgrims + ports + monuments + objects",
+            "RULE: region-specific dates outrank one diffusion timeline."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Evidence discipline"
+          ]
+        },
+        {
+          "title": "From Greater India to connected histories",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "OLDER MODEL -> Indianization / Greater India",
+            "USEFUL OBSERVATION -> real movement of scripts, religions and political idioms",
+            "CORE PROBLEM -> passive recipients + cultural ownership + empire-like language",
+            "CONNECTED MODEL:",
+            "  |-- transmission through routes and carriers",
+            "  |-- local selection and translation",
+            "  |-- hybrid form and new political meaning",
+            "  `-- return flows to Indian institutions",
+            "VERDICT: influence and Asian agency belong in the same sentence."
+          ],
+          "source_references": [
+            "Historiography",
+            "Connected histories",
+            "Localisation"
+          ]
+        },
+        {
+          "title": "Route ecology",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "NORTH-WEST -> Gandhara -> Bactria -> oasis Silk Roads -> China",
+            "HIMALAYAN -> Kashmir / Nepal -> Tibet",
+            "BAY OF BENGAL -> east-coast ports -> Sri Lanka / Myanmar / Malay world",
+            "STRAITS -> Kedah / Srivijaya -> Java / South China Sea",
+            "ARABIAN SEA -> west-coast links and wider exchange",
+            "MECHANISM -> monsoon timing + ports + hinterlands + intermediaries",
+            "LIMIT: a route or port does not prove political control."
+          ],
+          "source_references": [
+            "Land routes",
+            "Maritime routes",
+            "Monsoon timing"
+          ]
+        },
+        {
+          "title": "Carriers and media",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "PEOPLE -> merchants + monks + translators + diplomats + artisans",
+            "TEXTS -> sutras + chronicles + epics + legal and political vocabulary",
+            "OBJECTS -> relics + icons + manuscripts + coins + ritual goods",
+            "INSTITUTIONS -> monasteries + courts + ports + guilds + translation bureaux",
+            "POWER -> local rulers select portable idioms for local legitimacy",
+            "RETURN -> pilgrims, gifts and overseas endowments reshape Indian centres",
+            "RULE: identify carrier + route + institution + adapted outcome."
+          ],
+          "source_references": [
+            "Carriers",
+            "Texts and objects",
+            "Institutions"
+          ]
+        },
+        {
+          "title": "Gandhara, Central Asia and China",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "INDIA <-> GANDHARA HYBRID ZONE <-> CENTRAL ASIAN OASES <-> CHINA",
+            "KUSHANA NETWORKS -> political and commercial connectivity",
+            "MONKS / MANUSCRIPTS -> Buddhist transmission across changing routes",
+            "TRANSLATION INSTITUTIONS -> Chinese conceptual remaking, not word substitution",
+            "FAXIAN / XUANZANG / YIJING -> journeys into India and evidence carried back",
+            "ART -> shared vocabulary changes by material, patron and region",
+            "VERDICT: transmission repeatedly created new local Buddhist worlds."
+          ],
+          "source_references": [
+            "Gandhara",
+            "Central Asia",
+            "China",
+            "Pilgrims"
+          ]
+        },
+        {
+          "title": "Tibet and Sri Lanka",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TIBET                           SRI LANKA",
+            "Himalayan routes               maritime and short-sea routes",
+            "translation projects           Pali textual preservation",
+            "Indian teachers and texts      Mahavamsa mission tradition",
+            "monastic institutionalisation  relic, monastery and kingship links",
+            "local doctrinal development    Theravada consolidation and return influence",
+            "COMMON RULE: reception transformed what was received",
+            "SOURCE CAUTION: chronicle memory is not the same as contemporary inscription."
+          ],
+          "source_references": [
+            "Tibet",
+            "Sri Lanka",
+            "Chronicle memory"
+          ]
+        },
+        {
+          "title": "Southeast Asian localisation",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MYANMAR -> Pyu and later Buddhist networks",
+            "MAINLAND -> Dvaravati + Funan/Chenla + Champa + Khmer worlds",
+            "ISLAND -> Java + Sumatra + straits-centred Srivijaya",
+            "RELIGION -> Buddhist + Shaiva + Vaishnava idioms in different combinations",
+            "MONUMENTS -> Borobudur + Angkor + My Son; local plans and political meanings",
+            "POLITY -> Sanskritic titles and ritual adapted by Asian courts",
+            "LIMIT: shared vocabulary is not a map of Indian colonies."
+          ],
+          "source_references": [
+            "Mainland Southeast Asia",
+            "Island Southeast Asia",
+            "Localisation"
+          ]
+        },
+        {
+          "title": "Scripts, Sanskrit and local languages",
+          "structural_type": "process",
+          "ascii_lines": [
+            "INDIC SCRIPT / LANGUAGE MODEL",
+            "              |",
+            "local scribes select signs, terms and formulae",
+            "              |",
+            "phonology + grammar + political needs reshape the model",
+            "              |",
+            "new regional inscriptions and literary cultures",
+            "SANSKRIT -> portable prestige idiom, not proof of ethnic replacement",
+            "VERNACULARS -> active partners in localisation and court communication."
+          ],
+          "source_references": [
+            "Scripts",
+            "Sanskrit",
+            "Epigraphy",
+            "Local languages"
+          ]
+        },
+        {
+          "title": "Religion, epics and performance",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "BUDDHISM -> relics + sangha + pilgrimage + translation",
+            "SHAIVA / VAISHNAVA -> temples + ritual specialists + royal legitimation",
+            "RAMAYANA / MAHABHARATA -> retelling in local languages and performance forms",
+            "LOCAL CULTS -> absorb, redirect and coexist with imported idioms",
+            "EPIC VARIANTS -> evidence of creative adaptation, not textual corruption",
+            "PLURALITY -> different traditions travel through overlapping networks",
+            "VERDICT: transmission succeeded through translation into local worlds."
+          ],
+          "source_references": [
+            "Religion across Asia",
+            "Epics",
+            "Performance"
+          ]
+        },
+        {
+          "title": "Art and architecture: shared form, local work",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GANDHARA -> hybrid frontier art, not merely Greek art abroad",
+            "BAMIYAN -> Central Asian Buddhist landscape and monumental scale",
+            "BOROBUDUR -> Javanese Buddhist monument with local spatial logic",
+            "ANGKOR -> Khmer political-sacred landscape",
+            "MY SON -> Cham Shaiva architecture and regional technique",
+            "METHOD -> form + material + patron + ritual + local environment",
+            "TRAP: resemblance alone cannot establish date, route or political domination."
+          ],
+          "source_references": [
+            "Art",
+            "Architecture",
+            "Local form"
+          ]
+        },
+        {
+          "title": "Trade, political idioms and reciprocity",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "GOODS + SHIPPING + PORT-HINTERLAND NETWORKS",
+            "                 |",
+            "merchants, guilds, monasteries and courts meet",
+            "                 |",
+            "titles + scripts + rituals + images gain political value",
+            "                 |",
+            "local rulers recast them for regional sovereignty",
+            "RETURN FLOW -> pilgrims + Pali preservation + overseas gifts to Nalanda",
+            "LIMIT: commerce enables contact but does not mechanically cause cultural change."
+          ],
+          "source_references": [
+            "Trade goods",
+            "Kingship",
+            "Return flows",
+            "Nalanda-Srivijaya"
+          ]
+        },
+        {
+          "title": "Connected-history answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> multi-directional interaction across land and sea",
+            "FRAME -> influence + localisation + reciprocity",
+            "MECHANISM -> route + carrier + institution",
+            "CASES -> Gandhara/China + Sri Lanka/Tibet + Southeast Asia",
+            "MATERIAL -> text + script + relic + monument + trade good",
+            "LIMIT -> uneven archives; no automatic conquest or ownership claim",
+            "CLOSE -> a connected Asian world that retained regional diversity."
+          ],
+          "source_references": [
+            "Historical significance",
+            "Source method",
+            "Answer architecture"
+          ]
+        }
+      ]
+    }
+  ]
+}

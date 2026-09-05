@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topic 20",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-20",
+      "display_title": "Temperate Continental Steppe Climate",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\20_India-Wheat-Granary_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Temperate grassland world map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EURASIA -> steppes: Ukraine-Kazakhstan belt, continental interior",
+            "NORTH AMERICA -> prairies: Great Plains, USA and Canada",
+            "SOUTH AMERICA -> pampas: Argentina and Uruguay, maritime fringe",
+            "SOUTH AFRICA -> veld: elevated interior plateau",
+            "AUSTRALIA -> downs: eastern interior grasslands"
+          ],
+          "source_references": [
+            "Steppe location and continental setting"
+          ]
+        },
+        {
+          "title": "Continentality mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISTANCE FROM SEA -> weak maritime moderation",
+            "SUMMER -> strong heating of continental mass -> hot",
+            "WINTER -> strong radiative cooling -> cold",
+            "RESULT -> large annual temperature range, especially in Eurasia"
+          ],
+          "source_references": [
+            "Continentality and temperature range"
+          ]
+        },
+        {
+          "title": "Rainfall-moisture profile",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TOTAL ANNUAL -> about 25-75 cm, low to moderate",
+            "SEASONAL MAXIMUM -> late spring and early summer",
+            "DRY MARGIN -> shorter grass, steppe-desert transition",
+            "WET MARGIN -> taller grass, steppe-forest boundary"
+          ],
+          "source_references": [
+            "Rainfall regime and moisture deficit",
+            "Natural grassland and treelessness"
+          ]
+        },
+        {
+          "title": "Hemisphere asymmetry",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTHERN -> steppes and prairies: large continental mass, extreme range",
+            "SOUTHERN -> pampas, veld, downs: narrower landmass, maritime moderation",
+            "CAUSE -> continental mass determines winter severity",
+            "EXAM TRAP -> do not treat all five as climatically identical"
+          ],
+          "source_references": [
+            "Hemisphere contrast"
+          ]
+        },
+        {
+          "title": "Chernozem-soil chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GRASSLAND COVER -> deep root network decays in place",
+            "LOW LEACHING -> base-rich conditions preserved",
+            "HUMUS ACCUMULATES -> dark, deep, fertile soil profile",
+            "RESULT -> chernozem or black earth, among world's most fertile"
+          ],
+          "source_references": [
+            "Chernozem formation and fertility"
+          ]
+        },
+        {
+          "title": "Granary conversion timeline",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NATURAL STATE -> pastoral grassland, low-density use",
+            "RAIL + OCEAN FREIGHT -> access to distant industrial markets",
+            "MECHANISATION + HYV -> high output per worker on level plains",
+            "RESULT -> world's wheat granaries: Ukraine, prairies, pampas"
+          ],
+          "source_references": [
+            "Granary identity and wheat belts",
+            "Transport-conversion argument"
+          ]
+        },
+        {
+          "title": "Anti-determinism firewall",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PHYSICAL BASE -> fertile soil + level relief + suitable climate",
+            "CONVERSION AGENTS -> rail, freight, mechanisation, market demand",
+            "WITHOUT ACCESS -> same soil, no granary for centuries",
+            "CONCLUSION -> endowment is necessary, access is sufficient"
+          ],
+          "source_references": [
+            "Transport-conversion argument"
+          ]
+        },
+        {
+          "title": "Ecological-cost chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "SOD REMOVAL -> bare fine soil exposed to wind",
+            "DROUGHT YEAR -> vegetation fails, deflation peaks",
+            "ORGANIC DECLINE -> reduced humus, compaction risk",
+            "AQUIFER DRAWDOWN -> irrigation in semi-arid belt depletes groundwater"
+          ],
+          "source_references": [
+            "Ecological cost of ploughing"
+          ]
+        },
+        {
+          "title": "India wheat granary map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "PUNJAB-HARYANA-WESTERN UP -> Indo-Gangetic alluvial plain",
+            "SOIL -> alluvial, not chernozem (fundamental difference)",
+            "SEASON -> Rabi: sown Oct-Dec, harvested Mar-Apr",
+            "ENABLERS -> HYV seeds + irrigation + fertiliser + MSP procurement"
+          ],
+          "source_references": [
+            "India climate boundary",
+            "Alluvial-chernozem distinction"
+          ]
+        },
+        {
+          "title": "Green Revolution package",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "HYV SEMI-DWARF WHEAT -> raised yield potential",
+            "CANAL + TUBE-WELL IRRIGATION -> reduced rainfall dependence",
+            "CHEMICAL FERTILISERS -> supported intensive cultivation",
+            "MSP/PROCUREMENT -> assured floor price and central pool stocks"
+          ],
+          "source_references": [
+            "Green Revolution and granary conversion"
+          ]
+        },
+        {
+          "title": "Savanna-steppe comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LATITUDE -> tropical savanna versus temperate steppe/prairie",
+            "RAINFALL -> wet-and-dry seasonal versus low-total spring maximum",
+            "SOIL -> leached laterising versus base-rich chernozem/prairie",
+            "ECONOMY -> pastoral-subsistence versus mechanised-commercial grain"
+          ],
+          "source_references": [
+            "Sustainability and savanna-steppe comparison"
+          ]
+        },
+        {
+          "title": "Steppe answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> continental interior grassland with large annual range",
+            "LOCATE -> five regional names on a world map",
+            "EXPLAIN -> moisture deficit, chernozem, granary conversion",
+            "QUALIFY -> anti-determinism: access converted endowment into resource"
+          ],
+          "source_references": [
+            "PYQ boundary and answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

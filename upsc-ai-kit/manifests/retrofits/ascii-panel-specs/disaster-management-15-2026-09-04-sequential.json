@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-15",
+      "display_title": "Climate Risk, Adaptation and Loss and Damage",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-15_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Climate risk equation",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "CLIMATE HAZARD / TREND",
+            "+ EXPOSURE + VULNERABILITY - CAPACITY",
+            "-> DISASTER RISK",
+            "HAZARD SIGNAL ALONE DOES NOT FIX LOSS"
+          ],
+          "source_references": [
+            "Climate disaster risk equation",
+            "Hazard exposure vulnerability"
+          ]
+        },
+        {
+          "title": "Attribution firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "VARIABILITY -> FLUCTUATION",
+            "ANTHROPOGENIC CHANGE -> LONG-TERM HUMAN-INFLUENCED SHIFT",
+            "EVENT ATTRIBUTION -> CHANGED LIKELIHOOD / INTENSITY?",
+            "LOSS ATTRIBUTION -> WHY DID HARM OCCUR?"
+          ],
+          "source_references": [
+            "Climate variability and climate change",
+            "Attribution boundary"
+          ]
+        },
+        {
+          "title": "Three-policy map",
+          "structural_type": "venn-map",
+          "ascii_lines": [
+            "MITIGATION -> REDUCE FUTURE CLIMATE CHANGE",
+            "ADAPTATION -> ADJUST TO IMPACTS",
+            "DRR -> MANAGE EXISTING / PROSPECTIVE DISASTER RISK",
+            "OVERLAP EXISTS; PURPOSES REMAIN DISTINCT"
+          ],
+          "source_references": [
+            "Mitigation adaptation and DRR"
+          ]
+        },
+        {
+          "title": "Adaptation pathway",
+          "structural_type": "pathway-ladder",
+          "ascii_lines": [
+            "INCREMENTAL ADJUSTMENT",
+            "-> MONITOR THRESHOLDS AND DISTRIBUTION",
+            "-> TRANSFORMATION IF ACCEPTABLE RISK CANNOT BE MAINTAINED",
+            "-> AVOID MALADAPTIVE LOCK-IN"
+          ],
+          "source_references": [
+            "Incremental adaptation",
+            "Transformational adaptation",
+            "Maladaptation"
+          ]
+        },
+        {
+          "title": "Residual risk and limits",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RISK AFTER FEASIBLE ACTION -> RESIDUAL RISK",
+            "BARRIER REMOVABLE? -> SOFT LIMIT",
+            "NO ADAPTATION OPTION IN SYSTEM? -> HARD LIMIT",
+            "PREPARE PROTECT FINANCE AND ADDRESS REMAINING HARM"
+          ],
+          "source_references": [
+            "Residual risk",
+            "Limits to adaptation"
+          ]
+        },
+        {
+          "title": "Avoid minimise address",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 AVERT -> MITIGATION / RISK AVOIDANCE",
+            "2 MINIMISE -> ADAPTATION / DRR",
+            "3 ADDRESS -> REALISED OR RESIDUAL IMPACT",
+            "LOSS AND DAMAGE IS NOT EVERY DISASTER PAYMENT"
+          ],
+          "source_references": [
+            "Loss and damage",
+            "Avoid minimise address"
+          ]
+        },
+        {
+          "title": "Loss taxonomy",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ECONOMIC -> ASSETS OUTPUT INCOME; MONETARY METHOD",
+            "NON-ECONOMIC -> LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS",
+            "BOTH -> DISTRIBUTION AND BASELINE MATTER",
+            "DO NOT FORCE NON-MARKET HARM INTO ONE PRICE"
+          ],
+          "source_references": [
+            "Economic loss and damage",
+            "Non-economic loss and damage"
+          ]
+        },
+        {
+          "title": "UNFCCC status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "WIM -> KNOWLEDGE COORDINATION ACTION / SUPPORT",
+            "SANTIAGO NETWORK -> TECHNICAL-ASSISTANCE LAYER",
+            "FUND -> DATED GOVERNANCE / ACCESS / OPERATIONAL STATUS ONLY",
+            "DECISION != ACCESS != DISBURSEMENT != OUTCOME"
+          ],
+          "source_references": [
+            "Warsaw International Mechanism",
+            "Santiago Network and fund status"
+          ]
+        },
+        {
+          "title": "Climate-service chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "OBSERVE / MONITOR / FORECAST / PROJECT",
+            "CO-DESIGN FOR USER DECISION",
+            "COMMUNICATE UNCERTAINTY AND ACTION WINDOW",
+            "USE + FEEDBACK + EVALUATE DECISION OUTCOME"
+          ],
+          "source_references": [
+            "Climate services"
+          ]
+        },
+        {
+          "title": "Locally led test",
+          "structural_type": "accountability-map",
+          "ascii_lines": [
+            "LOCAL PRIORITIES AND DECISION POWER",
+            "PREDICTABLE ACCESSIBLE RESOURCES",
+            "LOCAL + TECHNICAL KNOWLEDGE",
+            "INCLUSION GRIEVANCE LEARNING AND ACCOUNTABILITY"
+          ],
+          "source_references": [
+            "Locally led adaptation"
+          ]
+        },
+        {
+          "title": "Justice and mobility",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "UNEQUAL EXPOSURE / CAPACITY -> UNEQUAL HARM",
+            "TEMPORARY / PROLONGED / INTERNAL / CROSS-BORDER MOVEMENT",
+            "NON-AUTOMATIC REFUGEE STATUS",
+            "PROTECTION LIVELIHOOD CULTURE AND DURABLE CHOICES"
+          ],
+          "source_references": [
+            "Displacement and justice"
+          ]
+        },
+        {
+          "title": "Climate-risk answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE RISK -> FIX ATTRIBUTION BOUNDARY",
+            "DISTINGUISH MITIGATION ADAPTATION DRR AND ADAPTATION PATHWAYS",
+            "TRACE RESIDUAL RISK -> LOSS AND DAMAGE -> JUSTICE",
+            "ADD CLIMATE SERVICES LOCAL LEADERSHIP + VERIFIED STATUS / OUTCOME"
+          ],
+          "source_references": [
+            "Mechanism-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

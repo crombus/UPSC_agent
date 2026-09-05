@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-08-26",
+  "out_of_scope_tree_count": 42,
+  "out_of_scope_hash_identical": true,
+  "tree_differences": [],
+  "source_owner_hash_identical": true,
+  "source_differences": [],
+  "shared_files_expected_to_change": [
+    "EXPORT-PDF-STATUS.json",
+    "EXPORT-PDF-COMMAND-INDEX.md",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "upsc-ai-kit/manifests/v2/topic-catalog.json",
+    "upsc-ai-kit/manifests/v2/philosophy--paper-i-western-philosophy.json",
+    "section indexes",
+    "clean navigation",
+    "Flow navigation"
+  ]
+}

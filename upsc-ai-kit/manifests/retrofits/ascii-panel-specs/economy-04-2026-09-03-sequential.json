@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-04",
+      "display_title": "RBI, Monetary Policy and Liquidity Management",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\04_RBI-Monetary-Policy-and-Liquidity-Management_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Policy signal versus implementation",
+          "structural_type": "two-track-rail",
+          "ascii_lines": [
+            "MPC -> repo-rate signal",
+            "RBI OPERATIONS -> liquidity alignment",
+            "WACR -> operating target",
+            "TRAP -> stance and quantity are distinct"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Liquidity corridor",
+          "structural_type": "corridor-map",
+          "ascii_lines": [
+            "MSF -> overnight backstop",
+            "REPO -> collateralised injection",
+            "WACR -> market operating rate",
+            "SDF -> uncollateralised absorption"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "CRR versus OMO",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CRR -> reserve impounding ratio",
+            "OMO -> outright G-sec transaction",
+            "CRR -> broad bank-resource effect",
+            "OMO -> durable liquidity + yield effect"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "MPC institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "RBI GOVERNOR",
+            "MONETARY-POLICY DEPUTY GOVERNOR",
+            "ONE RBI OFFICER + THREE EXTERNAL MEMBERS",
+            "SIX MEMBERS -> repo decision"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Inflation target frame",
+          "structural_type": "target-band",
+          "ascii_lines": [
+            "NOMINAL ANCHOR -> headline CPI",
+            "TARGET -> 4 per cent",
+            "TOLERANCE -> plus/minus 2 percentage points",
+            "MANDATE -> price stability while mindful of growth"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Transmission chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "REPO + COMMUNICATION",
+            "-> WACR + funding + deposit rates",
+            "-> lending rates + credit + demand",
+            "-> output and inflation with lags"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Pandemic package",
+          "structural_type": "instrument-stack",
+          "ascii_lines": [
+            "REPO REDUCTIONS",
+            "CRR EASING",
+            "OMO PURCHASES",
+            "TARGETED LONGER-TERM LIQUIDITY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Pass-through frictions",
+          "structural_type": "friction-map",
+          "ascii_lines": [
+            "EBLR LOANS -> faster response",
+            "DEPOSITS / LEGACY LOANS -> slower response",
+            "FRICTIONS -> funding + competition + risk",
+            "RESULT -> uneven burden"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Forex-liquidity bridge",
+          "structural_type": "sterilisation-flow",
+          "ascii_lines": [
+            "FOREX INTERVENTION",
+            "-> domestic liquidity changes",
+            "-> OMO / absorption offset",
+            "LIMIT -> volatility smoothing, not a fixed rate"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Money multiplier",
+          "structural_type": "multiplier-flow",
+          "ascii_lines": [
+            "RESERVE MONEY",
+            "-> bank deposits and lending",
+            "LOWER CRR / LEAKAGE -> higher potential multiplier",
+            "LIMIT -> banks may hold reserves or avoid risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "RBI balance-sheet traps",
+          "structural_type": "classification-board",
+          "ascii_lines": [
+            "NOTES ISSUED -> liability",
+            "G-SEC / FX INTEREST -> income source",
+            "PAYMENT STORAGE -> supervisory direction",
+            "COMMITTEES -> match sponsor and subject"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        },
+        {
+          "title": "Monetary-policy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DIAGNOSE inflation and output",
+            "STATE MPC signal",
+            "MAP liquidity implementation",
+            "TEST transmission, growth and external limits"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

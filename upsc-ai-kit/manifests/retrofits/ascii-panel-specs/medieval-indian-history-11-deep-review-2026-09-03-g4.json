@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-11",
+      "display_title": "Art, Architecture & Culture of the Sultanate",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Culture as power, technique and labour",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "SULTANATE CULTURE",
+            " -> POWER: conquest, patronage, legitimacy and memory",
+            " -> TECHNIQUE: trabeate + arcuate + mortar + dome transition",
+            " -> LABOUR: masons, stonecutters, designers and material supply",
+            " -> EXPRESSION: monuments, language, literature, music and institutions",
+            "VERDICT: architecture is the main archive, not the whole cultural field.",
+            "MUST REMEMBER: Trabeate and arcuate techniques interacted through adaptation, reuse,",
+            "  experimentation and dynastic patronage."
+          ],
+          "source_references": [
+            "Scope",
+            "Patronage",
+            "Craft labour",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Trabeate and arcuate load paths",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "TRABEATE -> vertical posts carry a horizontal lintel",
+            "CORBEL -> horizontal courses project inward; opening is not radially loaded",
+            "TRUE ARCH -> wedge voussoirs radiate; thrust moves into piers/abutments",
+            "DOME -> square-to-circle/polygon transition may use squinch or pendentive",
+            "LIME MORTAR + CENTRING + CURING + CUTTING -> material/workshop system",
+            "COEXISTENCE -> slab/beam, corbel, arch, vault and dome continue together",
+            "RULE: identify fabric/load path before assigning date, patron or invention."
+          ],
+          "source_references": [
+            "Trabeate",
+            "Arcuate",
+            "Voussoir",
+            "Squinch",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rupture, reuse and adaptation",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "QUWWAT-UL-ISLAM -> reused pillars + new ritual and political programme",
+            "ARHAI DIN KA JHONPRA -> early conversion/adaptation and new facade",
+            "SPOLIA -> evidence of appropriation and material reuse",
+            "WORKSHOP -> local carving and construction choices remain visible",
+            "LIMIT -> one documented complex cannot prove a universal policy",
+            "SAFE FORMULA -> rupture + adaptation + technical synthesis."
+          ],
+          "source_references": [
+            "Quwwat-ul-Islam",
+            "Arhai Din ka Jhonpra",
+            "Spolia",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Qutb complex as layered patronage",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AIBAK -> Quwwat-ul-Islam foundation/reuse + Minar initiation",
+            "ILTUTMISH -> mosque/Minar expansion + own tomb; Sultan Ghari elsewhere",
+            "ALAUDDIN -> mosque enlargement + Alai Darwaza + madrasa + Alai Minar base",
+            "LATER REPAIR -> Firuz and other interventions alter surviving Minar fabric",
+            "EVIDENCE -> inscription + masonry bond + reused carving + plan + repair record",
+            "SPOLIA -> appropriation/reuse/adaptation; no one motive fits every fragment",
+            "VERDICT: one complex contains several patrons, phases, functions and meanings."
+          ],
+          "source_references": [
+            "Qutb complex",
+            "Layered patronage",
+            "UNESCO",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Balban to Alai technical sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ILTUTMISH TOMB -> square-to-dome transition experiment",
+            "        |",
+            "BALBAN TOMB -> first surviving true arch in the assigned source",
+            "        |",
+            "ALAI DARWAZA -> mature radiating voussoirs, dome and proportion",
+            "        |",
+            "KHALJI URBAN AMBITION -> Siri and the incomplete Alai programme",
+            "TRAP: mature mastery is not the same claim as first surviving example."
+          ],
+          "source_references": [
+            "Iltutmish",
+            "Balban",
+            "Alai Darwaza",
+            "Siri",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tughlaq form and inference discipline",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "GHIYAS -> Tughlaqabad + tomb + platform/causeway/water setting",
+            "MUHAMMAD -> Jahanpanah + Adilabad; boundaries and functions partly uncertain",
+            "FIRUZ -> Kotla/Firozabad + pillar + repairs + Hauz Khas madrasa/tomb",
+            "FABRIC -> batter + rubble core + facing/plaster + trabeate/arcuate combination",
+            "CITY -> fort + court + mosque + stores + roads + hydraulic provisioning",
+            "DO NOT INFER -> poverty, insecurity, ideology or Egyptian origin from slope alone",
+            "RULE: observed fabric first; economic/political explanation second and qualified."
+          ],
+          "source_references": [
+            "Tughlaqabad",
+            "Batter",
+            "Ghiyasuddin Tughlaq tomb",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Regional adaptation matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BENGAL -> brick/terracotta + curved forms | rainfall/material context",
+            "GUJARAT -> stone screens/pillars/brackets | local workshop/merchant setting",
+            "MALWA -> Mandu platform/mass/colour | plateau-lake capital",
+            "JAUNPUR -> emphatic portals/proportion | distinct regional mosque idiom",
+            "KASHMIR -> timber-masonry/tiered roofs | valley materials/climate",
+            "DECCAN -> Gulbarga/Bidar + plaster/tile/madrasa | Topic 09 political owner",
+            "RULE: shared repertoire became regional form, not inferior Delhi copies."
+          ],
+          "source_references": [
+            "Bengal",
+            "Gujarat",
+            "Malwa",
+            "Jaunpur",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ornament and visual grammar",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "CALLIGRAPHY -> script becomes visual through scale and placement",
+            "ARABESQUE -> geometric-vegetal pattern joined to inscription",
+            "LOCAL MOTIFS -> lotus, bell and swastika in adapted workshop vocabularies",
+            "COLOUR / MATERIAL -> sandstone, marble and surface contrast",
+            "RELIGIOUS SPACE -> often non-figural, but avoid an absolute for all contexts",
+            "USE: surface grammar supports synthesis only when tied to a monument."
+          ],
+          "source_references": [
+            "Arabesque",
+            "Calligraphy",
+            "Local motifs",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Building types and social functions",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MOSQUE -> congregation, ritual orientation and community visibility",
+            "MINAR -> elevated landmark and call-to-prayer association",
+            "TOMB -> burial memory, patronage and skyline",
+            "MADRASA -> learning and learned patronage",
+            "KHANQAH -> Sufi discipline, teaching, hospitality and community",
+            "FORT / CITY -> defence, residence, supply, water and political theatre."
+          ],
+          "source_references": [
+            "Mosque",
+            "Minar",
+            "Tomb",
+            "Madrasa",
+            "Khanqah",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Language, literature and music",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PERSIAN -> chancery + chronicle + poetry | ARABIC -> law/religious scholarship",
+            "SANSKRIT -> continuing scholastic/court worlds | HINDAVI/REGIONAL -> plural publics",
+            "AUTHORS -> Hasan Nizami + Minhaj + Khusrau + Barani + Isami + Afif",
+            "GENRES -> panegyric, dynastic history, normative advice and verse history differ",
+            "MUSIC -> sama/qawwali genealogy + court/popular performance",
+            "CAUTION -> Khusrau is not safely sole inventor of tabla, sitar or qawwali",
+            "BOOK ARTS -> paper/copying/calligraphy/painting survive unevenly.",
+            "CLOSE DISTINCTION: Qutb complex, Alai Darwaza and Tughlaqabad must be read through feature,",
+            "  phase and political context."
+          ],
+          "source_references": [
+            "Persian",
+            "Regional languages",
+            "Amir Khusrau",
+            "Music",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and conservation ladder",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "1 INSCRIPTION -> patron/date/text/repair claim",
+            "2 FABRIC/STRATIGRAPHY -> construction phase, joint, reuse and alteration",
+            "3 PLAN/OBJECT -> function, circulation, material and workshop evidence",
+            "4 CHRONICLE/MANUSCRIPT -> patronage claim with genre bias",
+            "5 CONSERVATION RECORD -> replaced fabric, condition and modern name",
+            "6 UNESCO/ASI -> present authenticity/management, not medieval motive",
+            "RULE: reconstruction must mark certain, probable and speculative layers.",
+            "EVIDENCE LIMIT: Spolia or stylistic borrowing cannot by itself establish one motive, community",
+            "  relation or linear architectural rupture."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Conservation",
+            "UNESCO",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 11 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "DEFINE -> precise structural/cultural term; reject one Sultanate style",
+            "SEQUENCE -> Mamluk -> Khalji -> Tughlaq -> Sayyid/Lodi",
+            "MECHANISM -> material + load path + workshop + labour + water/city",
+            "CULTURE -> language + text + education + music + manuscript + crafts",
+            "COMPARE -> Delhi phase + one bounded regional adaptation",
+            "LIMIT -> inscription/fabric/chronicle/conservation and uncertain function",
+            "VERDICT -> rupture, localisation and negotiation without seamless synthesis."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Chronology",
+            "Qualified synthesis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\11_Sultanate-Art-and-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g3\\medieval-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-11\\g4\\medieval-indian-history-11_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

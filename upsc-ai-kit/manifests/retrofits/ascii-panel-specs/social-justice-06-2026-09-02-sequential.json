@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Social Justice learner-v2 Topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-06",
+      "display_title": "Children and Child Protection",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\06_Children-and-Child-Protection_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Four limbs",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PROTECTION FROM HARM -> sexual-offences statute 2012; child-marriage statute 2006",
+            "JUSTICE SYSTEM -> juvenile-justice statute 2015; Board for conflict, Committee for care",
+            "WELFARE AND CARE -> Mission Vatsalya; institutions, helpline 1098, sponsorship, foster care",
+            "OVERSIGHT -> child-rights commission under the 2005 Act; examine, inquire, recommend, inspect",
+            "USE -> locate the failure in one limb before proposing any remedy"
+          ],
+          "source_references": [
+            "The four limbs of the child-protection architecture"
+          ]
+        },
+        {
+          "title": "Age rules by statute",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SEXUAL OFFENCES 2012 -> child is any person below 18; the Act is gender-neutral",
+            "CHILD LABOUR 2016 -> complete ban below 14; hazardous-only ban for ages 14 to 18",
+            "CHILD MARRIAGE 2006 -> boy below 21 and girl below 18 recorded as the thresholds",
+            "JUVENILE JUSTICE 2015 -> 16 to 18 band matters only for a heinous offence",
+            "TRAP -> never carry one statute's age rule into another statute"
+          ],
+          "source_references": [
+            "Who is a child and why the sexual-offences statute is gender-neutral",
+            "The child-labour prohibition and its two thresholds",
+            "The child-marriage statute and the voidable against void distinction"
+          ]
+        },
+        {
+          "title": "Two tracks compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONFLICT WITH LAW -> Juvenile Justice Board; Magistrate plus two social workers",
+            "PURPOSE -> inquiry and disposal on a rehabilitative footing",
+            "CARE AND PROTECTION -> Child Welfare Committee; Chairperson plus four members",
+            "POWER -> exercises the powers of a Bench of Magistrates; foster care, sponsorship, adoption",
+            "ERROR -> routing a care case into an accusation track changes the whole outcome"
+          ],
+          "source_references": [
+            "The two categories of the juvenile-justice statute",
+            "The Board and the Committee are differently constituted bodies"
+          ]
+        },
+        {
+          "title": "Transfer sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STEP 1 -> offence alleged against a child aged 16 to 18",
+            "-> STEP 2: is the minimum punishment seven years or more, making it a heinous offence",
+            "-> STEP 3: Board conducts the Section 15 preliminary assessment of capacity and circumstances",
+            "-> STEP 4: only then may transfer under Section 18(3) follow to the Children's Court",
+            "LIMIT -> adult treatment is exceptional and never automatic"
+          ],
+          "source_references": [
+            "Heinous offence and the preliminary assessment gateway"
+          ]
+        },
+        {
+          "title": "Offence and procedure card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "GRADED OFFENCES -> penetrative assault, aggravated penetrative assault, sexual harassment",
+            "ALSO -> use of a child for pornography, including through electronic means",
+            "REPORTING -> mandatory for any person having knowledge of an offence",
+            "FORUM -> Special Courts; proceedings in camera",
+            "SUPPORT -> interpreter, special educator or support person for the child"
+          ],
+          "source_references": [
+            "The graded offences and the child-friendly procedure of the 2012 Act"
+          ]
+        },
+        {
+          "title": "Conventions pair",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONVENTION 138 -> Minimum Age Convention; a national minimum age for admission to work",
+            "AIM -> progressive abolition of child labour through an age floor",
+            "CONVENTION 182 -> Worst Forms of Child Labour Convention",
+            "AIM -> urgent elimination of slavery-like practice, trafficking, forced recruitment",
+            "ALSO -> commercial sexual exploitation, illicit activity, work harming health or morals"
+          ],
+          "source_references": [
+            "The two labour conventions carried by the routed objective demand"
+          ]
+        },
+        {
+          "title": "Marriage validity ladder",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "GENERAL RULE -> a child marriage is voidable at the option of the party who was a child",
+            "EFFECT -> the marriage stands in law until that party elects to avoid it",
+            "SPECIFIED SITUATIONS -> force, trafficking or an abducted child make the marriage void",
+            "PREVENTION -> Child Marriage Prohibition Officers may prevent solemnisation, seek injunction",
+            "TRAP -> writing void where the statute says voidable changes the legal consequence"
+          ],
+          "source_references": [
+            "The child-marriage statute and the voidable against void distinction"
+          ]
+        },
+        {
+          "title": "Persistence and instruments",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CAUSES -> schooling loss, poverty, safety fears, patriarchy, weak birth registration",
+            "-> PROHIBITION alone changes visibility rather than the household calculation",
+            "-> INSTRUMENTS: girls' schooling, safe travel, household economic security, registration",
+            "-> RESULT: the calculation changes and the practice falls rather than hides",
+            "CAUTION -> punishment alone can drive such unions underground"
+          ],
+          "source_references": [
+            "Why child marriage persists and what punishment alone cannot do"
+          ]
+        },
+        {
+          "title": "Welfare mission card",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "MISSION VATSALYA -> umbrella child-protection scheme, restructured from the earlier scheme",
+            "INSTITUTIONS -> Child Care Institutions established under the juvenile-justice statute",
+            "HELPLINE -> Child Helpline numbered 1098",
+            "FAMILY-BASED CARE -> sponsorship and foster care",
+            "BOUNDARY -> it funds statutory delivery; it creates no entitlement of its own"
+          ],
+          "source_references": [
+            "The umbrella welfare mission and what it funds"
+          ]
+        },
+        {
+          "title": "Commission design",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "STATUTE -> Commissions for Protection of Child Rights Act, 2005; statutory, not constitutional",
+            "COMPOSITION -> Chairperson and six Members, of whom at least two are women",
+            "POWERS -> examine safeguards, inquire into violations, recommend, inspect, issue advisories",
+            "PARALLEL -> State Commissions perform the same functions at State level",
+            "LIMIT -> recommendatory; it cannot make an order that binds like a court"
+          ],
+          "source_references": [
+            "The child-rights commission, its composition and its powers"
+          ]
+        },
+        {
+          "title": "Online harm and instrument map",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "ONLINE SEXUAL EXPLOITATION -> sexual-offences statute reaches electronic means",
+            "ABUSE MATERIAL -> cybercrime reporting portal category routed to State police cyber cells",
+            "PLATFORM DUTY -> intermediary rules; notice or order, takedown and cooperation duties",
+            "SIGNIFICANT INTERMEDIARIES -> additional due diligence; not one universal detection duty",
+            "COMPLAINT ROUTE -> the commission's electronic reporting box for child sexual abuse"
+          ],
+          "source_references": [
+            "The digital-era harms the owners actually name",
+            "The existing policy instruments for online child safety"
+          ]
+        },
+        {
+          "title": "Status and boundary",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "NOW -> sexual-offences statute, intermediary rules and reporting portals are operative",
+            "STATUS DATE -> as at 21 July 2026 the child-data duties are not in force",
+            "SCHEDULED -> substantive child-data duties including verifiable parental consent from 13 May 2027",
+            "DATED ANCHORS -> child marriage 20.1 per cent from 23.3; about 10.1 million workers aged 5 to 14",
+            "DENOMINATORS -> registration, disposal and conviction bases are not interchangeable"
+          ],
+          "source_references": [
+            "The data-protection child regime and its commencement status",
+            "Dated prevalence and scale anchors carried with their sources",
+            "The case-data discipline and the honest ownership statement"
+          ]
+        }
+      ]
+    }
+  ]
+}

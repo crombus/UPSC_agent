@@ -1,0 +1,146 @@
+{
+  "record_id": "world-history-11:learner-v2:g2",
+  "topic_key": "world-history-11",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "world-history-11:learner-v2:g1",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — International Relations 1919-39 — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "world-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [
+      "https://www.gov.uk/government/speeches/the-foreign-secretarys-locarno-centenary-speech"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md": "c988f48e71717f722df988f68d890540a8f91a9863e232723953d11986b7cb99",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md": "e9a56b4b752bbecad4b637874561d59dc3563a055252450366767740b7d93d33",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "The UK Foreign Secretary's Locarno centenary speech commemorates the hundredth anniversary of the 1925 treaty signing and reflects on its lessons for present security and multilateral cooperation. This supplies a narrow current link to interwar diplomacy and to the limits of the 'spirit of Locarno'; it does not alter the historical assessment of Locarno's incomplete guarantees.",
+    "pyq_status_note": "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. The 2021 democratic-system demand belongs to Topic 12.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "b88bcf44c5f0d45fe6833e75e36f448134befc3d959c9407b0a19da039110b46",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Solved-Practice-Workbook_2026-09-01.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-11-g2.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-11-deep-review-2026-09-01-g2.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.md": "f88cabba227a0aed77abcaa0dd100feb0d183c42897ec21a4c9aeec98cb4cee3",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Solved-Practice-Workbook_2026-09-01.md": "ae7643c59d76a914c50ed32687b00832c9d82ec134492a16eb4c21568dee6c86",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Complete-Learning-Session_2026-09-01.pdf": "25da184e850059f2ca7ae795e500de534cd6f8343821d9c5093cb62aa1b6b4df",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\world-history-11_Solved-Practice-Workbook_2026-09-01.pdf": "aa11bbe55f6247aa3799aabac4574e64b15b5fa3e08b62248272b400575488ff",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\validation\\main-visual-audit-map.json": "8dc0a225e2815633f50feb1ffb48311ae27c986b1a2c91b121e280fe3408475d",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\validation\\workbook-visual-audit-map.json": "93310cb1dd68a6c06e0406d318bcd4f726f1e232a7a6176fb7fc6cf3907b80d0",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-11-deep-review-2026-09-01-g2.json": "ecdaf9f22e23ed05307c21e9c65bb091a7cb7cacaf875fa8421f84ad62d47035",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-11-g2.json": "b504628c178e6a79aaf0ec0f1ed61e6f7efe0d134cfc469616f284d6b2228be4",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-11\\g2\\assets\\world-history-11_Teaching-Navigation_2026-09-01.png": "a704e893f37f77da5bf4ce1cf924e5cc0caec46e882f6d56ab6ec9f7da8df36c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\ascii-master.pdf": "b1a83b441539ec122ff56fa0ee96709798f15b2918f8cd29731342cb25e82e8d",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\ascii-master.txt": "68c70dcea86b51dd37adad8695b37716e2f4c60215f54944693524caf8a7074b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\build-audit.json": "2224eddae84082f2630d6bbee291f575dfed33f4ef56df69a754c339d3d5fe1d",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\master.png": "bfcf9d40a9f0417bbeff5015a6e33971b97289f66bc3c3f42bd17f737de311fb",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\poster.pdf": "c5a90ffd9831c56fe0a781e3591f59392614bae82bc71403f3f444112701b2bd",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\preservation-hashes.json": "3f26eac75d647fc7ac68670b5d8b82bcfefa6a75b10e2b96db499d6ff1df813e",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\README.txt": "9ee335e47942455dec617d745c16e087d6283a31ffa04b37d5972bf2139ef3ea",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\tiled.pdf": "f66db01c73b36eb767fee5b3dc5c2c5c298ad96cb11760e0a09e61ab36740994",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\validation-report.txt": "ed9d3231c32d053099ff4e1d0514f9cec258c168f3a45bfb4fbe97c0e623a8d0",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\editable\\topic-spec.json": "b504628c178e6a79aaf0ec0f1ed61e6f7efe0d134cfc469616f284d6b2228be4",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\contact-sheet-01.png": "53912185e71519ade88c2ca8ec7dfc6fa7af52bde91b280bc53d66d1a866e323",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\master-overview.png": "b9cac6b829cfe2937a2c25824145c1491ce15996c1ccf0826e507c7bbc0da4af",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\page-001.png": "a473dce1f90dbff106bc5a4cfe2d4e7f4d1d1e1d01714aaf62dd3967ea08e654",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\page-002.png": "a9ab60e718ca55e8f63c9cb47a66aa4fd457227d304c65e9fced677e0d609e3c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\page-003.png": "009f0925992083a3d62b5c205564d0fd4483bbbcc85e3106ec1c5dbba236f77f",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\page-004.png": "17da34a9a1988d92e707dcd6e660ae561a5f7a311f0f95012d8c3932476408af",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-11-g2.json": "4b6b573152d08021cca7f2175eb7ddb63e99580f06fcd557f6be0d0f6b3e6938"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-11:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "regenerate_world_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-11-g2.json",
+    "graphical_spec_sha256": "b504628c178e6a79aaf0ec0f1ed61e6f7efe0d134cfc469616f284d6b2228be4",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-11-deep-review-2026-09-01-g2.json",
+    "ascii_master_spec_sha256": "ecdaf9f22e23ed05307c21e9c65bb091a7cb7cacaf875fa8421f84ad62d47035",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-11\\carvaka-g2\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-world-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

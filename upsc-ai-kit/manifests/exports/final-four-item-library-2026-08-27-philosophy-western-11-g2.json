@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-27T06:13:23+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "7ff314ba884d3e312ad7c9713c959156adf8def1787c40c2ee6538c294cc1129",
+    "sha256_after": "7ff314ba884d3e312ad7c9713c959156adf8def1787c40c2ee6538c294cc1129",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Philosophy Optional": 1
+  },
+  "sections": {
+    "Philosophy Optional — Philosophy Paper I — Western Philosophy": 1
+  },
+  "library_totals": {
+    "file_count": 869,
+    "pdf_count": 515,
+    "png_count": 103,
+    "txt_count": 206,
+    "markdown_count": 29,
+    "json_count": 1,
+    "total_bytes": 1004554964,
+    "by_extension": {
+      ".json": 1,
+      ".md": 29,
+      ".pdf": 515,
+      ".png": 103,
+      ".txt": 206,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-11",
+      "topic_title": "Quine and Strawson",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "catalogue_number": 11,
+      "source_record_id": "philosophy-paper-i-western-philosophy-11:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\topic-11_Complete-Learning-Session_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "b97034c00d3b96e386b17afd3e547cc90fcdbbd03a8a07221df1e6c72f7f45ef",
+          "output_sha256": "b97034c00d3b96e386b17afd3e547cc90fcdbbd03a8a07221df1e6c72f7f45ef",
+          "source_output_equal": true,
+          "bytes": 638358
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\topic-11_Solved-Practice-Workbook_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "db08d0aa7b5fae724f1db10604f5a6ea5dd6e0631f92746b194685a0cbd78ca9",
+          "output_sha256": "db08d0aa7b5fae724f1db10604f5a6ea5dd6e0631f92746b194685a0cbd78ca9",
+          "source_output_equal": true,
+          "bytes": 415775
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "860f93348a8dc2fbc8107acba9648bb42edc09a00960ff5ae14d7d6468360d09",
+          "output_sha256": "860f93348a8dc2fbc8107acba9648bb42edc09a00960ff5ae14d7d6468360d09",
+          "source_output_equal": true,
+          "bytes": 2615008
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "d756b43c0501b0dd67936facac764caabad1a47d46386db17be29877b53cdf4a",
+          "output_sha256": "d756b43c0501b0dd67936facac764caabad1a47d46386db17be29877b53cdf4a",
+          "source_output_equal": true,
+          "bytes": 3489120
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "f73861468a20ea26a5da78d326ec436cd100930c873a3789dda41f40d38ded3c",
+          "output_sha256": "f73861468a20ea26a5da78d326ec436cd100930c873a3789dda41f40d38ded3c",
+          "source_output_equal": true,
+          "bytes": 2331252
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "33c3ba0ada18ea5ed4e5f4e83da9fc22562e313d75439ee88efa8fab2eb5936d",
+          "output_sha256": "33c3ba0ada18ea5ed4e5f4e83da9fc22562e313d75439ee88efa8fab2eb5936d",
+          "source_output_equal": true,
+          "bytes": 13461
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "37822d484a3bba04caf85331489bb70507d0adc2c77edf710b2f2c7267b02614",
+          "output_sha256": "37822d484a3bba04caf85331489bb70507d0adc2c77edf710b2f2c7267b02614",
+          "source_output_equal": true,
+          "source_text_sha256": "33c3ba0ada18ea5ed4e5f4e83da9fc22562e313d75439ee88efa8fab2eb5936d",
+          "normalized_text_equal": true,
+          "bytes": 59940
+        }
+      },
+      "ascii": {
+        "text_panel_count": 10,
+        "pdf_panel_count": 10,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 17,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 19,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 17,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 22,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 21,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 20,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 21,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 23,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 21,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 26,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 92,
+        "solved_practice_workbook": 37,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 10
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 92,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 37,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 10,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12112
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

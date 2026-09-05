@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-12",
+  "subject": "Internal-Security",
+  "title": "SECURITY FORCES, INTELLIGENCE COORDINATION AND RIGHTS",
+  "short_route": "CONSTITUTIONAL SECURITY MAP → FORCE-CATEGORY HIERARCHY → CURRENT CAPF FIREWALL → MANDATE FINGERPRINT MAP → AUXILIARY AND FORMATION FACTS → STATE-POLICE PRIMACY CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-12_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-12-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "ccde4bd4b225223d8fe85bcbb2bd6b3b9708080726098b2b449e502dd79a62ac",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL SECURITY MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL SECURITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "STATE LIST 1",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LIST 2",
+          "role": "institution"
+        },
+        {
+          "text": "UNION LIST 2A",
+          "role": "primary"
+        },
+        {
+          "text": "UNION FORCE IN AID OF CIVIL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 355",
+          "role": "institution"
+        },
+        {
+          "text": "UNION PROTECTIVE DUTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE LIST 1 → PUBLIC ORDER",
+        "STATE LIST 2 → POLICE",
+        "UNION LIST 2A → UNION FORCE IN AID OF CIVIL POWER",
+        "ARTICLE 355 → UNION PROTECTIVE DUTY",
+        "RULE → cooperation, not automatic substitution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "STATE LIST 1 → PUBLIC ORDER",
+            "STATE LIST 2 → POLICE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "UNION LIST 2A → UNION FORCE IN AID OF CIVIL POWER",
+            "ARTICLE 355 → UNION PROTECTIVE DUTY"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → cooperation, not automatic substitution",
+            "STATE LIST 1 → PUBLIC ORDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNION LIST 2A → UNION FORCE IN AID OF CIVIL POWER.",
+      "source_references": [
+        "Constitutional allocation"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FORCE-CATEGORY HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FORCE-CATEGORY HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "ARMED FORCES",
+          "role": "outcome"
+        },
+        {
+          "text": "MILITARY SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION POLICE",
+          "role": "evidence"
+        },
+        {
+          "text": "SECURITY FORCES",
+          "role": "primary"
+        },
+        {
+          "text": "STATE POLICE",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALISED AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARMED FORCES → MILITARY SERVICES",
+        "CAPFs → UNION POLICE / SECURITY FORCES",
+        "STATE POLICE → PUBLIC ORDER / CRIME / INVESTIGATION",
+        "SPECIALISED AGENCY → narrow response, intelligence or investigation role"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ARMED FORCES → MILITARY SERVICES",
+            "CAPFs → UNION POLICE / SECURITY FORCES"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "STATE POLICE → PUBLIC ORDER / CRIME / INVESTIGATION",
+            "SPECIALISED AGENCY → narrow response, intelligence or investigation role"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "ARMED FORCES → MILITARY SERVICES",
+            "CAPFs → UNION POLICE / SECURITY FORCES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPECIALISED AGENCY → narrow response, intelligence or investigation role.",
+      "source_references": [
+        "Force-category boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CURRENT CAPF FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CURRENT CAPF FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ASSAM RIFLES",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN COAST GUARD",
+          "role": "comparison"
+        },
+        {
+          "text": "HISTORICAL CPMF LABELS DO NOT CONTROL CURRENT TAXONOMY",
+          "role": "caution"
+        },
+        {
+          "text": "VERIFY CURRENT STRENGTH AND LEADERSHIP SEPARATELY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAPFs → ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG /",
+        "SEPARATE → SPG / RPF / INDIAN COAST GUARD",
+        "TRAP → historical CPMF labels do not control current taxonomy",
+        "RULE → verify current strength and leadership separately"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "CAPFs → ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG / SSB",
+          "TRAP → historical CPMF labels do not control current taxonomy",
+          "CAPFs → ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG / SSB"
+        ],
+        [
+          "SEPARATE → SPG / RPF / INDIAN COAST GUARD",
+          "RULE → verify current strength and leadership separately",
+          "SEPARATE → SPG / RPF / INDIAN COAST GUARD"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "CAPFs → ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG / SSB",
+            "SEPARATE → SPG / RPF / INDIAN COAST GUARD"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRAP → historical CPMF labels do not control current taxonomy",
+            "RULE → verify current strength and leadership separately"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPFs → ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG / SSB",
+            "SEPARATE → SPG / RPF / INDIAN COAST GUARD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → verify current strength and leadership separately.",
+      "source_references": [
+        "Current CAPF map"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MANDATE FINGERPRINT MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MANDATE FINGERPRINT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGNATED BORDER ROLES",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNAL SECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC-ORDER SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIFIED SECTORS",
+          "role": "primary"
+        },
+        {
+          "text": "ASSAM RIFLES",
+          "role": "outcome"
+        },
+        {
+          "text": "DUAL ARRANGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COAST GUARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BSF / ITBP / SSB → DESIGNATED BORDER ROLES",
+        "CRPF → INTERNAL SECURITY / PUBLIC-ORDER SUPPORT",
+        "CISF → INSTALLATIONS / SPECIFIED SECTORS",
+        "ASSAM RIFLES → DUAL ARRANGEMENT",
+        "COAST GUARD → MoD MARITIME FORCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "BSF / ITBP / SSB → DESIGNATED BORDER ROLES",
+            "CRPF → INTERNAL SECURITY / PUBLIC-ORDER SUPPORT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "CISF → INSTALLATIONS / SPECIFIED SECTORS",
+            "ASSAM RIFLES → DUAL ARRANGEMENT"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "COAST GUARD → MoD MARITIME FORCE",
+            "BSF / ITBP / SSB → DESIGNATED BORDER ROLES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BSF / ITBP / SSB → DESIGNATED BORDER ROLES.",
+      "source_references": [
+        "Force-mandate fingerprints",
+        "Dual-and-specialised forces"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AUXILIARY AND FORMATION FACTS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AUXILIARY AND FORMATION FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "HOME GUARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "UT ACTS + AUXILIARY ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "BORDER WING",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIFIED BORDER-SUPPORT CONTEXTS",
+          "role": "primary"
+        },
+        {
+          "text": "XXXIII CORPS",
+          "role": "outcome"
+        },
+        {
+          "text": "NO DEPLOYMENT OR READINESS INFERENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HOME GUARDS → STATE / UT ACTS + AUXILIARY ROLE",
+        "BORDER WING → specified border-support contexts",
+        "III / IV / XIV / XXXIII CORPS → DIMAPUR / TEZPUR / LEH /",
+        "LIMIT → no deployment or readiness inference"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "HOME GUARDS → STATE / UT ACTS + AUXILIARY ROLE",
+          "III / IV / XIV / XXXIII CORPS → DIMAPUR / TEZPUR / LEH / SUKNA",
+          "HOME GUARDS → STATE / UT ACTS + AUXILIARY ROLE"
+        ],
+        [
+          "BORDER WING → specified border-support contexts",
+          "LIMIT → no deployment or readiness inference",
+          "BORDER WING → specified border-support contexts"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "HOME GUARDS → STATE / UT ACTS + AUXILIARY ROLE",
+            "BORDER WING → specified border-support contexts"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "III / IV / XIV / XXXIII CORPS → DIMAPUR / TEZPUR / LEH / SUKNA",
+            "LIMIT → no deployment or readiness inference"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "HOME GUARDS → STATE / UT ACTS + AUXILIARY ROLE",
+            "BORDER WING → specified border-support contexts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "III / IV / XIV / XXXIII CORPS → DIMAPUR / TEZPUR / LEH / SUKNA.",
+      "source_references": [
+        "Home Guards status",
+        "Army Corps PYQ facts"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "STATE-POLICE PRIMACY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATE-POLICE PRIMACY CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL INTELLIGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE + WITNESS PRESERVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPLEMENTS EACH LAWFUL STAGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LOCAL INTELLIGENCE / COMPLAINT",
+        "FIRST RESPONSE / PUBLIC ORDER",
+        "EVIDENCE + WITNESS PRESERVATION",
+        "INVESTIGATION / HANDOFF",
+        "CENTRAL SUPPORT → supplements each lawful stage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "LOCAL INTELLIGENCE / COMPLAINT",
+            "FIRST RESPONSE / PUBLIC ORDER"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE + WITNESS PRESERVATION",
+            "INVESTIGATION / HANDOFF"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CENTRAL SUPPORT → supplements each lawful stage",
+            "LOCAL INTELLIGENCE / COMPLAINT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVESTIGATION / HANDOFF; CENTRAL SUPPORT → supplements each lawful stage.",
+      "source_references": [
+        "State-police primacy"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INTELLIGENCE CYCLE",
+      "structural_type": "cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTELLIGENCE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "QUALITY TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTION → COLLECTION → PROCESSING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECTION → COLLECTION → PROCESSING",
+        "ANALYSIS → DISSEMINATION → FEEDBACK",
+        "QUALITY TEST → relevance / corroboration / timeliness",
+        "RIGHTS TEST → legality / purpose / access / review"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "DIRECTION → COLLECTION → PROCESSING",
+            "ANALYSIS → DISSEMINATION → FEEDBACK"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUALITY TEST → relevance / corroboration / timeliness",
+            "RIGHTS TEST → legality / purpose / access / review"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DIRECTION → COLLECTION → PROCESSING",
+            "ANALYSIS → DISSEMINATION → FEEDBACK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RIGHTS TEST → legality / purpose / access / review.",
+      "source_references": [
+        "Intelligence cycle"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INTELLIGENCE INSTITUTION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTELLIGENCE INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "DOMESTIC INTELLIGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL INTELLIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARING COORDINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORISED DATA INTEGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "AUTOMATIC FIR, ARREST OR CONVICTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IB → DOMESTIC INTELLIGENCE",
+        "R&AW → EXTERNAL INTELLIGENCE",
+        "MAC / SMAC → SHARING COORDINATION",
+        "NATGRID → AUTHORISED DATA INTEGRATION",
+        "NONE → automatic FIR, arrest or conviction"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "IB → DOMESTIC INTELLIGENCE",
+          "MAC / SMAC → SHARING COORDINATION",
+          "NONE → automatic FIR, arrest or conviction"
+        ],
+        [
+          "R&AW → EXTERNAL INTELLIGENCE",
+          "NATGRID → AUTHORISED DATA INTEGRATION",
+          "IB → DOMESTIC INTELLIGENCE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "IB → DOMESTIC INTELLIGENCE",
+            "R&AW → EXTERNAL INTELLIGENCE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MAC / SMAC → SHARING COORDINATION",
+            "NATGRID → AUTHORISED DATA INTEGRATION"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "NONE → automatic FIR, arrest or conviction",
+            "IB → DOMESTIC INTELLIGENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NATGRID → AUTHORISED DATA INTEGRATION; NONE → automatic FIR, arrest or conviction.",
+      "source_references": [
+        "IB-R&AW boundary",
+        "MAC-SMAC coordination",
+        "NATGRID boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESPONSE-INVESTIGATION SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESPONSE-INVESTIGATION SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALISED TACTICAL RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED-OFFENCE INVESTIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE POLICE",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL CASE",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC ORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIAL COURT",
+          "role": "institution"
+        },
+        {
+          "text": "JUDICIAL PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "NSG → SPECIALISED TACTICAL RESPONSE",
+        "NIA → SCHEDULED-OFFENCE INVESTIGATION / PROSECUTION",
+        "STATE POLICE → LOCAL CASE / EVIDENCE / PUBLIC ORDER",
+        "SPECIAL COURT → JUDICIAL PROCESS"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "NSG → SPECIALISED TACTICAL RESPONSE",
+          "STATE POLICE → LOCAL CASE / EVIDENCE / PUBLIC ORDER",
+          "NSG → SPECIALISED TACTICAL RESPONSE"
+        ],
+        [
+          "NIA → SCHEDULED-OFFENCE INVESTIGATION / PROSECUTION",
+          "SPECIAL COURT → JUDICIAL PROCESS",
+          "NIA → SCHEDULED-OFFENCE INVESTIGATION / PROSECUTION"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "NSG → SPECIALISED TACTICAL RESPONSE",
+            "NIA → SCHEDULED-OFFENCE INVESTIGATION / PROSECUTION"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STATE POLICE → LOCAL CASE / EVIDENCE / PUBLIC ORDER",
+            "SPECIAL COURT → JUDICIAL PROCESS"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "NSG → SPECIALISED TACTICAL RESPONSE",
+            "NIA → SCHEDULED-OFFENCE INVESTIGATION / PROSECUTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE POLICE → LOCAL CASE / EVIDENCE / PUBLIC ORDER.",
+      "source_references": [
+        "NIA mandate",
+        "NSG mandate"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INTELLIGENCE-TO-JUDGMENT LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTELLIGENCE-TO-JUDGMENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "INTELLIGENCE LEAD",
+          "role": "outcome"
+        },
+        {
+          "text": "RESPONSE ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORENSICALLY PRESERVED EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "JUDICIAL FINDING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INTELLIGENCE LEAD",
+        "PREVENTIVE / RESPONSE ACTION",
+        "FORENSICALLY PRESERVED EVIDENCE",
+        "INVESTIGATION / CHARGE / PROSECUTION",
+        "JUDICIAL FINDING"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "INTELLIGENCE LEAD",
+            "PREVENTIVE / RESPONSE ACTION"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORENSICALLY PRESERVED EVIDENCE",
+            "INVESTIGATION / CHARGE / PROSECUTION"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "JUDICIAL FINDING",
+            "INTELLIGENCE LEAD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORENSICALLY PRESERVED EVIDENCE; INVESTIGATION / CHARGE / PROSECUTION; JUDICIAL FINDING.",
+      "source_references": [
+        "Intelligence-evidence chain"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RIGHTS AND REFORM ARCHITECTURE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RIGHTS AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PRAKASH SINGH",
+          "role": "outcome"
+        },
+        {
+          "text": "USE OF FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "D.K. BASU",
+          "role": "evidence"
+        },
+        {
+          "text": "CUSTODY SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "PHRA SECTION 19",
+          "role": "outcome"
+        },
+        {
+          "text": "NHRC ARMED-FORCES PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 33",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PRAKASH SINGH → STRUCTURE / TENURE / COMPLAINTS",
+        "USE OF FORCE → LEGALITY / NECESSITY / PROPORTIONALITY",
+        "D.K. BASU → ARREST / CUSTODY SAFEGUARDS",
+        "PHRA SECTION 19 → NHRC ARMED-FORCES PROCEDURE",
+        "ARTICLE 33 → specified service-right restrictions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "PRAKASH SINGH → STRUCTURE / TENURE / COMPLAINTS",
+            "USE OF FORCE → LEGALITY / NECESSITY / PROPORTIONALITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "D.K. BASU → ARREST / CUSTODY SAFEGUARDS",
+            "PHRA SECTION 19 → NHRC ARMED-FORCES PROCEDURE"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 33 → specified service-right restrictions",
+            "PRAKASH SINGH → STRUCTURE / TENURE / COMPLAINTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE OF FORCE → LEGALITY / NECESSITY / PROPORTIONALITY.",
+      "source_references": [
+        "Police-reform architecture",
+        "Use-of-force legality",
+        "Rights-accountability map"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ACCOUNTABLE-SECURITY RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ACCOUNTABLE-SECURITY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "2023 GS-III",
+          "role": "outcome"
+        },
+        {
+          "text": "CHALLENGES + INTELLIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATIVE ROLES",
+          "role": "evidence"
+        },
+        {
+          "text": "2023 PRELIMS",
+          "role": "primary"
+        },
+        {
+          "text": "HOME GUARDS LEGAL-STATUS DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "2026 PRELIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "HEADQUARTERS; PROVISIONAL KEY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2023 GS-III → CHALLENGES + INTELLIGENCE / INVESTIGATIVE ROLES",
+        "2023 PRELIMS → HOME GUARDS LEGAL-STATUS DISTINCTION",
+        "2026 PRELIMS → CORPS / HEADQUARTERS; PROVISIONAL KEY",
+        "END → SHARE / RESPOND / INVESTIGATE / PROSECUTE / REVIEW",
+        "QUALIFY → mandate, intelligence, evidence and outcome differ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "2023 GS-III → CHALLENGES + INTELLIGENCE / INVESTIGATIVE ROLES",
+            "2023 PRELIMS → HOME GUARDS LEGAL-STATUS DISTINCTION"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "2026 PRELIMS → CORPS / HEADQUARTERS; PROVISIONAL KEY",
+            "END → SHARE / RESPOND / INVESTIGATE / PROSECUTE / REVIEW"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → mandate, intelligence, evidence and outcome differ",
+            "2023 GS-III → CHALLENGES + INTELLIGENCE / INVESTIGATIVE ROLES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → mandate, intelligence, evidence and outcome differ.",
+      "source_references": [
+        "Federal coordination",
+        "Technology-evidence end-state"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT CAPF/SEPARATE-ORGANISATION MAP (BASIC TOPIC SECTION 1)",
+          "role": "outcome"
+        },
+        {
+          "text": "MAC/SMAC AS THE SURVIVING COOPERATIVE-COORDINATION MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "NATGRID'S OPERATIONAL-STATUS QUESTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SINGH'S BOOK RECORDS IT AS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE-POLICE REFORM AS THE NAMED, COURT-SUPERVISED ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "CURRENT-ANCHOR INSTITUTIONAL DETAIL",
+          "role": "comparison"
+        },
+        {
+          "text": "FORCE STRENGTH, AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "Current CAPF/separate-organisation map (basic topic Section 1):",
+            "CAUTION: MAC/SMAC as the surviving cooperative-coordination model: as",
+            "CAUTION: NATGRID's operational-status question: Singh's book records it as",
+            "CAUTION: State-police reform as the named, court-supervised route:"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Current-anchor institutional detail: force strength, agency",
+            "CAUTION: Assam Rifles' dual mandate as the clearest command-and-control",
+            "CAUTION: CISF's fee-based private-sector security role as an institutional",
+            "CAUTION: Rights/accountability as a boundary case running through every"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: State-police capacity-building is politically and fiscally harder",
+            "CAUTION: Intelligence-sharing platforms (MAC/NATGRID) are necessary but not",
+            "CAUTION: Accountability mechanisms that lag capability investment risk",
+            "CAUTION: Secrecy is a genuine operational requirement, not a pretext — which"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

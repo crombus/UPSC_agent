@@ -1,0 +1,1113 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-14",
+  "subject": "Indian-Art-and-Culture",
+  "title": "HERITAGE CONSERVATION, INSTITUTIONS AND UNESCO",
+  "short_route": "FOUR-CATEGORY FIREWALL → CONDITIONAL-STATUS LOOP → INSTITUTION MANDATE MAP → CONSTITUTIONAL LADDER → BOUNDARY FIREWALL → THREAT-RESPONSE MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-14-deep-review-2026-09-04-g5.json",
+  "ascii_spec_sha256": "457c56016acc3e6cd46b12f1b5e7a556760c69235cffab945eb3204a4517380a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR-CATEGORY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-CATEGORY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "TANGIBLE OR MIXED PROPERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVING PRACTICE AND TRANSMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "DOCUMENTARY RECORD",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMESTIC ORIGIN-LINKED IP",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "HERITAGE GOVERNANCE SEPARATES THE 1972 WORLD HERITAGE CONVENTION, 2003",
+          "role": "comparison"
+        },
+        {
+          "text": "INTANGIBLE HERITAGE CONVENTION, MEMORY OF THE WORLD DOCUMENTARY PROGRAMME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHS → tangible or mixed property",
+        "ICH → living practice and transmission",
+        "MoW → documentary record",
+        "GI → domestic origin-linked IP",
+        "MUST REMEMBER: Heritage governance separates the 1972 World Heritage Convention, 2003"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WHS → tangible or mixed property",
+          "GI → domestic origin-linked IP",
+          "ASI statutes and the three Akademi mandates."
+        ],
+        [
+          "ICH → living practice and transmission",
+          "MUST REMEMBER: Heritage governance separates the 1972 World Heritage Convention, 2003",
+          ""
+        ],
+        [
+          "MoW → documentary record",
+          "Intangible Heritage Convention, Memory of the World documentary programme, domestic GI law,",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHS → tangible or mixed property",
+            "ICH → living practice and transmission",
+            "MoW → documentary record"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GI → domestic origin-linked IP",
+            "MUST REMEMBER: Heritage governance separates the 1972 World Heritage Convention, 2003",
+            "Intangible Heritage Convention, Memory of the World documentary programme, domestic GI law,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ASI statutes and the three Akademi mandates."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Intangible Heritage Convention, Memory of the World documentary programme, domestic GI law,.",
+      "source_references": [
+        "The four-category firewall",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONDITIONAL-STATUS LOOP",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONDITIONAL-STATUS LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "RECOGNITION AND DUTY",
+          "role": "outcome"
+        },
+        {
+          "text": "MANAGEMENT SCRUTINY",
+          "role": "comparison"
+        },
+        {
+          "text": "DANGER LIST",
+          "role": "evidence"
+        },
+        {
+          "text": "CORRECTIVE PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "IMPROVEMENT CAN RESTORE STATUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INSCRIPTION → recognition and duty",
+        "MONITORING → management scrutiny",
+        "DANGER LIST → corrective pressure",
+        "REMOVAL → improvement can restore status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INSCRIPTION → recognition and duty",
+            "MONITORING → management scrutiny"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DANGER LIST → corrective pressure",
+            "REMOVAL → improvement can restore status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSCRIPTION → recognition and duty",
+            "MONITORING → management scrutiny"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DANGER LIST → corrective pressure; REMOVAL → improvement can restore status.",
+      "source_references": [
+        "World Heritage as conditional obligation",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INSTITUTION MANDATE MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTION MANDATE MAP",
+          "role": "institution"
+        },
+        {
+          "text": "MONUMENTS AND ARCHAEOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "PERFORMING ARTS",
+          "role": "comparison"
+        },
+        {
+          "text": "LITERATURE AND FINE ARTS",
+          "role": "evidence"
+        },
+        {
+          "text": "MANUSCRIPTS AND RECORDS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ASI → monuments and archaeology",
+        "SNA → performing arts",
+        "SAHITYA / LKA → literature and fine arts",
+        "NMM / ARCHIVES → manuscripts and records"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ASI → monuments and archaeology",
+            "SNA → performing arts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAHITYA / LKA → literature and fine arts",
+            "NMM / ARCHIVES → manuscripts and records"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ASI → monuments and archaeology",
+            "SNA → performing arts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAHITYA / LKA → literature and fine arts.",
+      "source_references": [
+        "Akademis and cultural institutions",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONSTITUTIONAL LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 29",
+          "role": "institution"
+        },
+        {
+          "text": "COMMUNITY CULTURAL RIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 49",
+          "role": "institution"
+        },
+        {
+          "text": "STATE MONUMENT DUTY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 51A(F)",
+          "role": "institution"
+        },
+        {
+          "text": "CITIZEN DUTY",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATIONAL PROTECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 29 → community cultural right",
+        "ARTICLE 49 → State monument duty",
+        "ARTICLE 51A(f) → citizen duty",
+        "STATUTES → operational protection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 29 → community cultural right",
+            "ARTICLE 49 → State monument duty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 51A(f) → citizen duty",
+            "STATUTES → operational protection"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 29 → community cultural right",
+            "ARTICLE 49 → State monument duty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 51A(f) → citizen duty; STATUTES → operational protection.",
+      "source_references": [
+        "Constitutional heritage duties",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BOUNDARY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOUNDARY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "AMASR 100 M",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERALLY PROHIBITED",
+          "role": "comparison"
+        },
+        {
+          "text": "AMASR NEXT 200 M",
+          "role": "evidence"
+        },
+        {
+          "text": "UNESCO BUFFER",
+          "role": "primary"
+        },
+        {
+          "text": "MAPPED MANAGEMENT ZONE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE LEGAL SOURCES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AMASR 100 m → generally prohibited",
+        "AMASR next 200 m → regulated",
+        "UNESCO BUFFER → mapped management zone",
+        "RULE → separate legal sources"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AMASR 100 m → generally prohibited",
+          "UNESCO BUFFER → mapped management zone",
+          "AMASR 100 m → generally prohibited"
+        ],
+        [
+          "AMASR next 200 m → regulated",
+          "RULE → separate legal sources",
+          "AMASR next 200 m → regulated"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AMASR 100 m → generally prohibited",
+            "AMASR next 200 m → regulated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNESCO BUFFER → mapped management zone",
+            "RULE → separate legal sources"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AMASR 100 m → generally prohibited",
+            "AMASR next 200 m → regulated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNESCO BUFFER → mapped management zone; RULE → separate legal sources.",
+      "source_references": [
+        "AMASR zones and UNESCO buffers",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREAT-RESPONSE MATRIX",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREAT-RESPONSE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "VISITOR LOAD",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS MANAGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATION AND MONITORING",
+          "role": "evidence"
+        },
+        {
+          "text": "DOCUMENTATION AND CONSERVATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSMISSION LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRACTITIONER SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VISITOR LOAD → access management",
+        "URBAN / CLIMATE → regulation and monitoring",
+        "DISASTER / DECAY → documentation and conservation",
+        "TRANSMISSION LOSS → practitioner support",
+        "CLOSE DISTINCTION: Tentative List is not inscription, UNESCO does not acquire sovereignty"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VISITOR LOAD → access management",
+          "TRANSMISSION LOSS → practitioner support",
+          "Kala Akademi mandates are not interchangeable."
+        ],
+        [
+          "URBAN / CLIMATE → regulation and monitoring",
+          "CLOSE DISTINCTION: Tentative List is not inscription, UNESCO does not acquire sovereignty,",
+          ""
+        ],
+        [
+          "DISASTER / DECAY → documentation and conservation",
+          "recognition does not itself safeguard transmission, and Sahitya, Sangeet Natak and Lalit",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VISITOR LOAD → access management",
+            "URBAN / CLIMATE → regulation and monitoring",
+            "DISASTER / DECAY → documentation and conservation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSMISSION LOSS → practitioner support",
+            "CLOSE DISTINCTION: Tentative List is not inscription, UNESCO does not acquire sovereignty,",
+            "recognition does not itself safeguard transmission, and Sahitya, Sangeet Natak and Lalit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kala Akademi mandates are not interchangeable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Tentative List is not inscription, UNESCO does not acquire sovereignty, recognition does not itself safeguard transmission, and Sahitya, Sangeet Natak and Lalit.",
+      "source_references": [
+        "Threats and instrument fit",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONSERVATION-RESTORATION TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSERVATION-RESTORATION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "STABILISE EXISTING FABRIC",
+          "role": "outcome"
+        },
+        {
+          "text": "RETURN TO CHOSEN EARLIER STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PREFERRED IN CONSERVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "RISK RISES WITH RECONSTRUCTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONSERVE → stabilise existing fabric",
+        "RESTORE → return to chosen earlier state",
+        "REVERSIBILITY → preferred in conservation",
+        "AUTHENTICITY → risk rises with reconstruction"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONSERVE → stabilise existing fabric",
+          "REVERSIBILITY → preferred in conservation",
+          "CONSERVE → stabilise existing fabric"
+        ],
+        [
+          "RESTORE → return to chosen earlier state",
+          "AUTHENTICITY → risk rises with reconstruction",
+          "RESTORE → return to chosen earlier state"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONSERVE → stabilise existing fabric",
+            "RESTORE → return to chosen earlier state"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVERSIBILITY → preferred in conservation",
+            "AUTHENTICITY → risk rises with reconstruction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSERVE → stabilise existing fabric",
+            "RESTORE → return to chosen earlier state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REVERSIBILITY → preferred in conservation; AUTHENTICITY → risk rises with reconstruction.",
+      "source_references": [
+        "Conservation versus restoration",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LIVING-SITE BALANCE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIVING-SITE BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ACTIVE WORSHIP?",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECT ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESS DISPLACEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FRAGILE FABRIC?",
+          "role": "primary"
+        },
+        {
+          "text": "REGULATE USE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGOTIATE, DO NOT EMPTY THE SITE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACTIVE WORSHIP? → protect access",
+        "LIVELIHOOD? → assess displacement",
+        "FRAGILE FABRIC? → regulate use",
+        "VERDICT → negotiate, do not empty the site"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACTIVE WORSHIP? → protect access",
+            "LIVELIHOOD? → assess displacement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRAGILE FABRIC? → regulate use",
+            "VERDICT → negotiate, do not empty the site"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACTIVE WORSHIP? → protect access",
+            "LIVELIHOOD? → assess displacement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → negotiate, do not empty the site.",
+      "source_references": [
+        "Community rights and living use",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MOIDAMS FORM MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MOIDAMS FORM MAP",
+          "role": "primary"
+        },
+        {
+          "text": "HOLLOW ROYAL BURIAL CHAMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTH-COVERED FORM",
+          "role": "comparison"
+        },
+        {
+          "text": "SHRINE + WALL",
+          "role": "evidence"
+        },
+        {
+          "text": "RITUAL ENCLOSURE",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUING ANCESTOR PRACTICE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "VAULT → hollow royal burial chamber",
+        "MOUND → earth-covered form",
+        "SHRINE + WALL → ritual enclosure",
+        "LANDSCAPE → continuing ancestor practice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VAULT → hollow royal burial chamber",
+            "MOUND → earth-covered form"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHRINE + WALL → ritual enclosure",
+            "LANDSCAPE → continuing ancestor practice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VAULT → hollow royal burial chamber",
+            "MOUND → earth-covered form"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHRINE + WALL → ritual enclosure; LANDSCAPE → continuing ancestor practice.",
+      "source_references": [
+        "Moidams form and status",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RECENT WH LEDGER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RECENT WH LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "DHOLAVIRA AND RAMAPPA",
+          "role": "outcome"
+        },
+        {
+          "text": "SANTINIKETAN AND HOYSALAS",
+          "role": "comparison"
+        },
+        {
+          "text": "MOIDAMS, MARATHA FORTS, SARNATH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2016 → Nalanda",
+        "2021 → Dholavira and Ramappa",
+        "2023 → Santiniketan and Hoysalas",
+        "2024 / 2025 / 2026 → Moidams, Maratha forts, Sarnath"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2016 → Nalanda",
+            "2021 → Dholavira and Ramappa"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2023 → Santiniketan and Hoysalas",
+            "2024 / 2025 / 2026 → Moidams, Maratha forts, Sarnath"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2016 → Nalanda",
+            "2021 → Dholavira and Ramappa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2024 / 2025 / 2026 → Moidams, Maratha forts, Sarnath.",
+      "source_references": [
+        "Recent World Heritage chronology",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SCHEME-STATUTE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCHEME-STATUTE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ADOPT A HERITAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "AMENITIES PARTNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "ADARSH SMARAK",
+          "role": "evidence"
+        },
+        {
+          "text": "VISITOR AMENITIES",
+          "role": "primary"
+        },
+        {
+          "text": "FUNDING MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "AMASR / ANTIQUITIES → statutes",
+        "ADOPT A HERITAGE → amenities partnership",
+        "ADARSH SMARAK → visitor amenities",
+        "NCF → funding mechanism"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AMASR / ANTIQUITIES → statutes",
+          "ADARSH SMARAK → visitor amenities",
+          "AMASR / ANTIQUITIES → statutes"
+        ],
+        [
+          "ADOPT A HERITAGE → amenities partnership",
+          "NCF → funding mechanism",
+          "ADOPT A HERITAGE → amenities partnership"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AMASR / ANTIQUITIES → statutes",
+            "ADOPT A HERITAGE → amenities partnership"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADARSH SMARAK → visitor amenities",
+            "NCF → funding mechanism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AMASR / ANTIQUITIES → statutes",
+            "ADOPT A HERITAGE → amenities partnership"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADARSH SMARAK → visitor amenities; NCF → funding mechanism.",
+      "source_references": [
+        "Schemes, funds and statutes",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "HERITAGE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HERITAGE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY AND THREAT",
+          "role": "outcome"
+        },
+        {
+          "text": "LAW, BODY, FUND OR SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "NAMED SITE OR PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPACITY, COMMUNITY AND DYNAMIC STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "EVERY CURRENT LIST, COUNT, DANGER STATUS, INSTITUTIONAL PROGRAMME OR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSE → category and threat",
+        "MATCH → law, body, fund or scheme",
+        "EVIDENCE → named site or practice",
+        "QUALIFY → capacity, community and dynamic status",
+        "EVIDENCE LIMIT: Every current list, count, danger status, institutional programme or law claim needs source"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIAGNOSE → category and threat",
+            "MATCH → law, body, fund or scheme"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE → named site or practice",
+            "QUALIFY → capacity, community and dynamic status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Every current list, count, danger status, institutional programme or law claim needs source, date and status",
+            "conservation must reconcile authenticity, living use, community rights, tourism and disaster risk."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Every current list, count, danger status, institutional programme or law claim needs source, date and status; conservation must reconcile authenticity, living use, community rights, tourism and disaster risk.",
+      "source_references": [
+        "Sarnath, safeguarding PYQ and final spine",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g5\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNESCO INSCRIBED MOIDAMS — THE MOUND-BURIAL SYSTEM OF THE",
+          "role": "outcome"
+        },
+        {
+          "text": "AS VERIFIED ON 21 JULY 2026, INDIA HOLDS 44",
+          "role": "comparison"
+        },
+        {
+          "text": "ASI'S LIVE MONUMENTS PAGE STATES THAT IT PROTECTS AND",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESENTING UNESCO WHS/ICH INSCRIPTION AS A PURELY BENEFICIAL, COST",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATING WHS STATUS AS PERMANENT AND UNCONDITIONAL ONCE GRANTED.",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING THE MOIDAMS AS ONLY AN AHOM POLITICAL-HISTORY EXAMPLE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSUMING ANY SPECIFIC ARTEFACT HAS BEEN REPATRIATED TO INDIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "UNESCO inscribed Moidams — the Mound-Burial System of the Ahom",
+            "As verified on 21 July 2026, India holds 44 WH properties; Maratha",
+            "ASI's live Monuments page states that it protects and maintains",
+            "NOT: Presenting UNESCO WHS/ICH inscription as a purely beneficial, cost"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating WHS status as permanent and unconditional once granted.",
+            "NOT: Treating the Moidams as only an Ahom political-history example.",
+            "NOT: Assuming any specific artefact has been repatriated to India without",
+            "NOT: Treating SNA, LKA, Sahitya Akademi, ASI and the National Archives as"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NOT: Treating the AMASR 100 m/200 m spatial regime as UNESCO's buffer-zone",
+            "NOT: Polity owns the full constitutional/fundamental-rights doctrine",
+            "NOT: Economy owns heritage tourism's economic-sectoral analysis (job",
+            "NOT: Current Affairs owns day-to-day event chronology beyond the dated"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

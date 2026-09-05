@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-06",
+      "display_title": "Sculpture, Pottery and Iconography",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Six-variable reading rail",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "MATERIAL -> what carving or casting permits",
+            "POSTURE + ATTRIBUTE -> identity and action",
+            "PATRON + SITE -> commissioned context",
+            "COMPARISON -> similarity, difference and limit",
+            "MUST REMEMBER: Sculpture and pottery must be read through material, technique, posture,",
+            "  attribute, patron and site, from lost-wax casting and pottery sequences to Gandhara,",
+            "  Mathura, Amaravati, Gupta and Chola visual programmes."
+          ],
+          "source_references": [
+            "How to read sculpture",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Lost-wax and label firewall",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WAX MODEL -> clay investment",
+            "HEAT -> wax leaves a cavity",
+            "MOLTEN METAL -> bronze form",
+            "MEANING -> separate from a museum label"
+          ],
+          "source_references": [
+            "Lost-wax bronze and Harappan labels",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Pottery chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "NEOLITHIC -> coarse hand-made ware",
+            "CHALCOLITHIC -> Ahar, Malwa and Jorwe painted wares",
+            "HARAPPAN / PGW -> separate chronological markers",
+            "NBPW -> fine early historic tableware"
+          ],
+          "source_references": [
+            "Pottery as chronological evidence",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Three-school matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GANDHARA -> grey stone, Buddhist, layered influence",
+            "MATHURA -> red stone, three religions, attributes",
+            "AMARAVATI -> limestone, Buddhist narrative, tribhanga",
+            "RULE -> compare on the same axes"
+          ],
+          "source_references": [
+            "Gandhara's layered idiom",
+            "Mathura's indigenous breadth",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Aniconic to iconic",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "EMPTY THRONE / TREE / WHEEL -> symbolic presence",
+            "DEVOTIONAL CHANGE -> human image becomes central",
+            "GANDHARA + MATHURA -> overlapping early-CE contexts",
+            "CAUTION -> no uncontested sole origin"
+          ],
+          "source_references": [
+            "Aniconism and the iconic shift",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Gupta bridge",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SARNATH -> cream sandstone",
+            "BODY -> subtle modelling and thin drapery",
+            "SULTANGANJ -> late or post-Gupta caution",
+            "BRIDGE -> restraint before denser temple programmes"
+          ],
+          "source_references": [
+            "Gupta restraint and dating limits",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Nataraja chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AIHOLE -> early known antecedent",
+            "CHOLA -> canonical portable bronze",
+            "TEMPLE PROCESSION -> ritual mobility",
+            "RULE -> peak is not origin"
+          ],
+          "source_references": [
+            "Nataraja from Aihole to Chola",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Nataraja attribute map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "DAMARU / FIRE -> creation and destruction",
+            "ABHAYA / RAISED FOOT -> reassurance and release",
+            "APASMARA -> ignorance subdued",
+            "AUREOLE -> recurring time"
+          ],
+          "source_references": [
+            "Nataraja from Aihole to Chola",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Lion-bull evidence ladder",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "HARAPPAN -> bull visible, meaning unrecoverable",
+            "RAMPURVA -> inscribed lion, uninscribed bull",
+            "SARNATH -> animals inside a Buddhist-imperial system",
+            "TEMPLE -> Nandi, Yali and Vyala gain placed roles"
+          ],
+          "source_references": [
+            "Lion and bull across media",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Temple animal placement",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NANDI -> axial pavilion before Shiva",
+            "YALI -> composite guardian on southern pillars",
+            "VYALA -> lion-bodied hybrid at Khajuraho",
+            "DISTINCTION -> building, guardian and motif",
+            "CLOSE DISTINCTION: Gandhara, Mathura and Amaravati differ by material, religious scope and",
+            "  visual grammar; symbolic Buddha representation preceded broadly overlapping Gandhara-Mathura",
+            "  iconic production, so sole-origin claims are unsafe."
+          ],
+          "source_references": [
+            "Nandi, Yali and Vyala",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Social-evidence test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "FIGURE -> dancer, musician, teacher or couple",
+            "PATRON -> selected what became visible",
+            "CLAIM -> valued activity or ritual idiom",
+            "LIMIT -> not a census of society",
+            "EVIDENCE LIMIT: Pashupati, Mother Goddess and Priest-King are modern Harappan labels; Chola",
+            "  bronzes canonised rather than originated Nataraja, and temple sculpture records",
+            "  patron-selected visibility rather than a social census."
+          ],
+          "source_references": [
+            "Sculpture as social evidence",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Sculpture answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> school, object or symbol",
+            "EVIDENCE -> material, posture, attribute and site",
+            "COMPARE -> period or regional workshop",
+            "QUALIFY -> attribution, priority and social inference"
+          ],
+          "source_references": [
+            "Verified PYQs and final answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\06_Sculpture-Pottery-and-Iconography.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-06\\g2\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

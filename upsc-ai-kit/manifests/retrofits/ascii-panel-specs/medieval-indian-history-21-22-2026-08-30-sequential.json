@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Medieval Indian History learner-v2 Topics 21-22",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-21",
+      "display_title": "Shah Jahan & the Evolution of the Mughal Ruling Class",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\21_Shah-Jahan-Evolution-Mughal-Ruling-Class_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Visible apex and managed strain",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "VISIBLE CAPACITY -> revenue claim, armies, court, capital and monuments",
+            "MANAGED STRAIN -> growing rank claims meet uneven realised revenue",
+            "COURT SPLENDOUR -> evidence of coordination, not universal prosperity",
+            "MONTH-RATING -> adaptation inside a functioning order, not final collapse",
+            "VERDICT -> an imperial apex carrying an expanding claim-resource mismatch."
+          ],
+          "source_references": [
+            "Golden age",
+            "Managed strain",
+            "Month-scale",
+            "State capacity"
+          ]
+        },
+        {
+          "title": "Shah Jahan chronology, 1628-58",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1628 -> accession after a courtly succession settlement",
+            "1633 / 1636 -> Ahmadnagar ends; Bijapur-Golconda framework follows",
+            "1638 -> Shahjahanabad foundation and capital-making process",
+            "1646-47 -> Balkh venture | 1649-53 -> Qandahar loss and failed recovery",
+            "1656-57 -> renewed Deccan pressure | 1657 -> imperial illness",
+            "1658 -> Dharmat and Samugarh; sovereignty is violently reconfigured."
+          ],
+          "source_references": [
+            "Shah Jahan",
+            "Deccan",
+            "Shahjahanabad",
+            "Balkh",
+            "Succession"
+          ]
+        },
+        {
+          "title": "The ruling class as a composite service elite",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "CENTRE -> emperor distributes rank, honour, command and revenue claims",
+            "SERVICE ELITE -> mansabdars link court access to military-administrative duty",
+            "GROUP LABELS -> Turani, Irani, Hindustani, Rajput, Afghan and Deccani overlap",
+            "LOCAL LINKS -> houses, clients and regional networks add capacity and leverage",
+            "SAFE CLAIM -> diversity widened; no percentage without date and denominator."
+          ],
+          "source_references": [
+            "Mansabdar",
+            "Composite nobility",
+            "Rajputs",
+            "Deccanis"
+          ]
+        },
+        {
+          "title": "Recruitment, reproduction and faction",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ENTRY -> competence, recommendation, household service and imperial favour",
+            "FORMAL RULE -> mansab is appointed, transferable and not automatically hereditary",
+            "SOCIAL FACT -> kin, clients, training and reputation reproduce advantage",
+            "FACTION -> shifting patronage coalition, not a permanent ethnic voting bloc",
+            "PRESSURE -> promotion and good jagirs intensify competition around princes."
+          ],
+          "source_references": [
+            "Recruitment",
+            "Patronage",
+            "Non-heredity",
+            "Faction"
+          ]
+        },
+        {
+          "title": "Mansabdari evolution and verification",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ALAUDDIN / SHER SHAH -> earlier branding and descriptive controls",
+            "AKBAR -> mature mansab; zat status-pay and sawar cavalry obligation",
+            "JAHANGIR -> du-aspa sih-aspa raises specified cavalry duty, not zat",
+            "SHAH JAHAN -> context-bound contingent ratios and closer claim management",
+            "CONTROL LIMIT -> nominal rank, inspected muster and field strength can diverge."
+          ],
+          "source_references": [
+            "Zat",
+            "Sawar",
+            "Dagh",
+            "Chehra",
+            "Du-aspa sih-aspa"
+          ]
+        },
+        {
+          "title": "Jagir vocabulary: claim is not ownership",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "JAGIR -> transferable assignment of a state revenue claim for service",
+            "JAGIRDAR -> imperial assignee | ZAMINDAR -> locally rooted, variable intermediary",
+            "KHALISA -> revenue retained for the crown",
+            "JAMA -> assessed or estimated claim | HASIL -> realised collection",
+            "WATAN -> hereditary-local association in context, not an ordinary transferable jagir",
+            "TRAP -> none of these terms is simply modern private landownership."
+          ],
+          "source_references": [
+            "Jagir",
+            "Jagirdar",
+            "Zamindar",
+            "Jama",
+            "Hasil",
+            "Khalisa"
+          ]
+        },
+        {
+          "title": "How the month-scale worked",
+          "structural_type": "process",
+          "ascii_lines": [
+            "NOMINAL JAMA -> jagir appears to support twelve months of entitlement",
+            "REALISATION TEST -> war, control, survey and collection reduce usable return",
+            "MONTH RATING -> twelve becomes eight, six, five, four or less in context",
+            "ADJUSTMENT -> salary and sawar obligation scale to effective yield",
+            "POLITICAL EFFECT -> pressure for better assignments, patrons and collection",
+            "TRAP -> month-rating is a reduction device, not a bonus."
+          ],
+          "source_references": [
+            "Month-scale",
+            "Jama",
+            "Hasil",
+            "Salary",
+            "Sawar"
+          ]
+        },
+        {
+          "title": "From paper rank to effective force",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "HIGHER MANSAB CLAIMS -> larger salary and cavalry obligations",
+            "UNEQUAL JAGIR YIELD -> nominal jama exceeds realised hasil",
+            "SHORT RATING -> pay, remounts and contingent support are compressed",
+            "ELITE RESPONSE -> bargaining, patronage competition or harder local extraction",
+            "STATE RESPONSE -> transfer, muster, ratio rules and fresh assignments",
+            "VERDICT -> recurring management reveals strain without proving collapse."
+          ],
+          "source_references": [
+            "Mansab inflation",
+            "Jagir",
+            "Hasil",
+            "Remounts",
+            "Managed strain"
+          ]
+        },
+        {
+          "title": "Expansion creates resources and claimants",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "DECCAN GAINS -> forts, tribute claims, routes and assessed revenue",
+            "NEW COSTS -> garrisons, commanders, transport, remounts and collection friction",
+            "BALKH -> tactical capacity without durable retention",
+            "QANDAHAR -> mobilisation cannot overcome every siege and supply constraint",
+            "VERDICT -> map expansion and fiscal realisation must be tested separately."
+          ],
+          "source_references": [
+            "Deccan",
+            "Balkh",
+            "Qandahar",
+            "Expansion paradox",
+            "Logistics"
+          ]
+        },
+        {
+          "title": "Grandeur as political economy",
+          "structural_type": "two-sided-system",
+          "ascii_lines": [
+            "MONUMENTS / CAPITAL -> coordinate labour, workshops, materials and transport",
+            "SOVEREIGNTY -> court, fort, mosque, tomb and city make hierarchy visible",
+            "URBAN DEMAND -> artisans and suppliers can benefit from concentrated consumption",
+            "AGRARIAN BASE -> revenue extraction and distribution remain unequal",
+            "TRAP -> splendour is neither a treasury balance nor proof of universal welfare",
+            "TRAP -> monuments alone did not cause Mughal decline."
+          ],
+          "source_references": [
+            "Taj Mahal",
+            "Red Fort",
+            "Jama Masjid",
+            "Shahjahanabad"
+          ]
+        },
+        {
+          "title": "Succession as a ruling-class stress test",
+          "structural_type": "actor-network",
+          "ascii_lines": [
+            "TRIGGER 1657 -> illness creates uncertainty without primogeniture",
+            "PRINCES -> Dara, Shuja, Aurangzeb and Murad command regional-household bases",
+            "NOBLES -> choose through access, survival, command and expected reward",
+            "1658 -> Dharmat and Samugarh shift control of the imperial centre",
+            "RESULT -> institutions persist while their sovereign command is violently reassigned",
+            "TRAP -> faction is not ethnicity and war is not instant state collapse."
+          ],
+          "source_references": [
+            "Dara Shukoh",
+            "Shah Shuja",
+            "Aurangzeb",
+            "Murad Bakhsh"
+          ]
+        },
+        {
+          "title": "Topic 21 final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> visible imperial apex plus managed claim-resource strain",
+            "DEFINE -> ruling class, mansab, jagir, jama, hasil and month-rating",
+            "TRACE -> composite recruitment -> expanding claims -> uneven realisation",
+            "PROVE -> Deccan/frontier costs, capital-making and the 1657-58 stress test",
+            "QUALIFY -> no false percentages, monument ledger or inevitable-collapse story",
+            "VERDICT -> high capacity adapted to pressure but did not eliminate it."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Ruling class",
+            "Fiscal mechanism",
+            "Verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "medieval-indian-history-22",
+      "display_title": "Aurangzeb: Religious Policy, North India & the Rajputs",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\22_Aurangzeb-Religious-Policy-North-India-Rajputs_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Differentiated rule under pressure",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "PERSONAL ORTHODOXY -> preference and public legitimacy matter",
+            "SOVEREIGNTY -> emperor still selects officials, policy, war and regulation",
+            "LOCAL ADMINISTRATION -> orders acquire uneven reach through officials and powerholders",
+            "POLITICAL FIELD -> Rajputs, Sikhs, zamindars and sect communities act independently",
+            "VERDICT -> religion is consequential but cannot explain every conflict alone."
+          ],
+          "source_references": [
+            "Aurangzeb",
+            "Orthodoxy",
+            "Statecraft",
+            "Differentiated rule"
+          ]
+        },
+        {
+          "title": "Aurangzeb chronology, 1658-1707",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1658 -> accession | 1665 -> Shivaji treaty boundary",
+            "1667 -> Jai Singh dies | c.1669 -> Jat rising and temple-order context",
+            "1672 -> Satnami revolt | 1675 -> Guru Tegh Bahadur executed",
+            "1678 -> Jaswant Singh dies | 1679 -> jizyah and Rajput war",
+            "1681 -> Prince Akbar rebels | 1698 -> Ajit receives recognition",
+            "1699 -> Khalsa established | 1707 -> unresolved reign ends."
+          ],
+          "source_references": [
+            "Chronology",
+            "Jizyah",
+            "Guru Tegh Bahadur",
+            "Marwar",
+            "Khalsa"
+          ]
+        },
+        {
+          "title": "Sharia, zawabit and imperial choice",
+          "structural_type": "triangle",
+          "ascii_lines": [
+            "SHARIA -> legal-moral idiom and learned authority",
+            "ZAWABIT -> ruler-made administrative regulations for order and necessity",
+            "SOVEREIGNTY -> emperor chooses, patronises, appoints and enforces",
+            "FATAWA-I-ALAMGIRI -> Hanafi compendium, not a modern constitution",
+            "ULAMA / QAZIS / SADRS -> influential specialists, not a replacement cabinet",
+            "RULE -> law informs policy; administration determines reach."
+          ],
+          "source_references": [
+            "Sharia",
+            "Zawabit",
+            "Fatawa-i-Alamgiri",
+            "Ulama"
+          ]
+        },
+        {
+          "title": "Jizyah, 1679: fiscal form and political signal",
+          "structural_type": "three-column",
+          "ascii_lines": [
+            "FISCAL FORM -> poll tax; neither land revenue nor customs duty",
+            "RELIGIOUS STATUS -> classical idiom of differentiated subjecthood",
+            "POLITICAL SIGNAL -> visible reversal of an Akbar-era position",
+            "IMPLEMENTATION -> collectors, exemptions, corruption and uneven local contact",
+            "EFFECT -> alienation and mistrust; no proof of a single revolt or total decline",
+            "SAFE VERDICT -> fiscal in form, religious in idiom, political in consequence."
+          ],
+          "source_references": [
+            "Jizyah 1679",
+            "Poll tax",
+            "Differentiation",
+            "Political signal"
+          ]
+        },
+        {
+          "title": "Temple policy: test one action at a time",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "1 SECURE -> dated and corroborated site-specific action",
+            "2 PROBABLE -> source-supported local action with limited corroboration",
+            "3 CONTESTED -> later tradition or disputed attribution",
+            "4 UNSUPPORTED -> list without date, action or provenance",
+            "CLASSIFY -> demolition, conversion, confiscation, closure, restriction or grant",
+            "RULE -> protection evidence and destruction evidence must both retain scope."
+          ],
+          "source_references": [
+            "Temple policy",
+            "1669 order",
+            "Kashi",
+            "Mathura",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Composite nobility: inclusion is not equality",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "INCLUSION -> Hindu, Rajput and later Maratha elites can hold rank and command",
+            "EQUALITY -> asks whether fiscal, legal and symbolic distinctions still operate",
+            "EARLY RAJPUT SERVICE -> Jai Singh and Jaswant Singh show inherited partnership",
+            "LATER RUPTURE -> particular houses resist while others remain in imperial service",
+            "VERDICT -> composite recruitment coexists with discriminatory public policy."
+          ],
+          "source_references": [
+            "Composite nobility",
+            "Inclusion",
+            "Equality",
+            "Rajputs",
+            "Marathas"
+          ]
+        },
+        {
+          "title": "Guru Tegh Bahadur: source and consequence",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "MUGHAL FRAME -> law, order and imperial authority",
+            "SIKH TRADITION -> martyrdom and defence of religious freedom",
+            "HISTORIAN'S TASK -> compare genre, silence, memory and later amplification",
+            "1675 CONSEQUENCE -> martyr memory sharpens community-state relations",
+            "1699 KHALSA -> leadership, organisation and politics mediate the later outcome",
+            "TRAP -> one execution did not mechanically create every later development."
+          ],
+          "source_references": [
+            "Guru Tegh Bahadur",
+            "1675",
+            "Sikh tradition",
+            "Khalsa 1699"
+          ]
+        },
+        {
+          "title": "Jats and Satnamis: compare mechanisms",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "JATS c.1669 -> Mathura corridor; zamindari, agrarian and local coercive setting",
+            "RECURRENCE -> Rajaram and later Churaman mark a longer regional process",
+            "SATNAMIS 1672 -> Narnaul clash escalates through community mobilisation",
+            "IMPERIAL RESPONSE -> rapid suppression shows coercive capacity still exists",
+            "RULE -> neither episode is purely class, purely religious or national revolt",
+            "VERDICT -> local state-society contact can turn grievance into armed challenge."
+          ],
+          "source_references": [
+            "Gokula",
+            "Jats",
+            "Satnamis",
+            "Narnaul",
+            "Local resistance"
+          ]
+        },
+        {
+          "title": "Marwar: succession becomes legitimacy crisis",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "1678 -> Jaswant Singh dies without a surviving male heir at that moment",
+            "POSTHUMOUS CLAIM -> Ajit Singh becomes the Rathor legitimacy focus",
+            "KHALISA -> crown administration during dispute, not automatic permanent annexation",
+            "OCCUPATION -> searches, force and temple actions destroy confidence",
+            "DURGADAS / RATHORS -> claimant protection turns dispute into organised resistance",
+            "VERDICT -> precedent without credible honour becomes statecraft failure."
+          ],
+          "source_references": [
+            "Jaswant Singh",
+            "Ajit Singh",
+            "Khalisa",
+            "Durgadas",
+            "Marwar"
+          ]
+        },
+        {
+          "title": "Mewar and Prince Akbar, 1681",
+          "structural_type": "actor-network",
+          "ascii_lines": [
+            "MEWAR MOTIVES -> kinship, security, autonomy and fear of Marwar occupation",
+            "TERRAIN -> Aravalli passes raise pursuit, supply and occupation costs",
+            "PRINCE AKBAR -> dynastic alternative attracts a contingent Rajput coalition",
+            "FAILURE -> fragile trust and imperial counter-moves defeat the immediate challenge",
+            "AFTERMATH -> military failure does not restore alliance credibility",
+            "CAUTION -> famous forged-letter story requires provenance labelling."
+          ],
+          "source_references": [
+            "Mewar",
+            "Rana Raj Singh",
+            "Prince Akbar",
+            "Aravalli",
+            "Durgadas"
+          ]
+        },
+        {
+          "title": "Religious policy and Mughal weakening",
+          "structural_type": "causal-balance",
+          "ascii_lines": [
+            "CONTRIBUTION -> legitimacy loss, alliance mistrust and higher enforcement cost",
+            "NAMED EVIDENCE -> jizyah, temple cases, 1675 execution and Rajput breach",
+            "COUNTER-EVIDENCE -> composite recruitment and functioning coercive institutions",
+            "OTHER PRESSURES -> Deccan war, jagir-rank competition and regional assertion",
+            "METHOD -> weigh mechanism, timing, reach and source type",
+            "VERDICT -> consequential and contributory, never a complete monocausal theory."
+          ],
+          "source_references": [
+            "Religious policy",
+            "Legitimacy",
+            "Mughal weakening",
+            "Causation"
+          ]
+        },
+        {
+          "title": "Topic 22 final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> orthodoxy and statecraft operate together under pressure",
+            "TRACE -> policy phases -> jizyah / temple cases -> local and Rajput conflicts",
+            "PROVE -> dated case, action type, source reach and political mechanism",
+            "COMPARE -> inclusion versus equality; succession versus annexation",
+            "QUALIFY -> no communal monocause, blanket denial or universal-destruction list",
+            "VERDICT -> policy choices worsened a multi-causal imperial problem."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Evidence scale",
+            "Rajputs",
+            "Qualified verdict"
+          ]
+        }
+      ]
+    }
+  ]
+}

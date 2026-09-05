@@ -1,0 +1,1091 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-24",
+  "subject": "Modern-Indian-History",
+  "title": "THE GOVERNMENT OF INDIA ACT 1935 & THE CONGRESS MINISTRIES (1937–1939)",
+  "short_route": "CONSTITUTIONAL LINEAGE, SIMON TO → TWO HALVES OF THE → DYARCHY: ABOLISHED PROVINCIALLY, UNREALISED → GOVERNOR'S POWERS VERSUS SECTION → RESERVED SUBJECTS AND RESIDUARY → FRANCHISE REFORM AS A",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-24_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-24-25-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "ea0436f8dbf69feebc81b5decf670db9b87e31e359d3ae2008a90bf3b756f0a7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL LINEAGE, SIMON TO ROYAL ASSENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL LINEAGE, SIMON TO ROYAL ASSENT",
+          "role": "primary"
+        },
+        {
+          "text": "SIMON REPORT (1930)",
+          "role": "outcome"
+        },
+        {
+          "text": "RTCS (1930-32)",
+          "role": "comparison"
+        },
+        {
+          "text": "WHITE PAPER (1933)",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT SELECT COMMITTEE (1934)",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL ASSENT (1935)",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMISSION EVIDENCE + CONSTITUTIONAL NEGOTIATION + PARLIAMENTARY REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "FIVE ORDERED STAGES; NONE MAY BE SKIPPED OR REORDERED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIMON REPORT (1930) → RTCs (1930-32) → WHITE PAPER (1933)",
+        "JOINT SELECT COMMITTEE (1934) → ROYAL ASSENT (1935)",
+        "INPUTS → commission evidence + constitutional negotiation + parliamentary review",
+        "RULE → five ordered stages; none may be skipped or reordered."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SIMON REPORT (1930) → RTCs (1930-32) → WHITE PAPER (1933)",
+            "JOINT SELECT COMMITTEE (1934) → ROYAL ASSENT (1935)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INPUTS → commission evidence + constitutional negotiation + parliamentary review",
+            "RULE → five ordered stages; none may be skipped or reordered."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SIMON REPORT (1930) → RTCs (1930-32) → WHITE PAPER (1933)",
+            "JOINT SELECT COMMITTEE (1934) → ROYAL ASSENT (1935)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → five ordered stages; none may be skipped or reordered.",
+      "source_references": [
+        "Constitutional lineage: from Simon to royal assent"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWO HALVES OF THE ACT, FEDERATION NEVER IN FORCE",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO HALVES OF THE ACT, FEDERATION NEVER IN FORCE",
+          "role": "institution"
+        },
+        {
+          "text": "FEDERAL HALF",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL-INDIA FEDERATION + CENTRAL DYARCHY",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER IN FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVINCIAL HALF",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL AUTONOMY, DYARCHY ABOLISHED",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATED 1937",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESSION FAILURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEDERAL HALF → All-India Federation + central dyarchy → NEVER IN FORCE",
+        "PROVINCIAL HALF → provincial autonomy, dyarchy abolished → OPERATED 1937",
+        "ACCESSION FAILURE → princely threshold remained unmet",
+        "RULE → the federation's non-operation must never be blurred with the record."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FEDERAL HALF → All-India Federation + central dyarchy → NEVER IN FORCE",
+            "PROVINCIAL HALF → provincial autonomy, dyarchy abolished → OPERATED 1937"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCESSION FAILURE → princely threshold remained unmet",
+            "RULE → the federation's non-operation must never be blurred with the record."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FEDERAL HALF → All-India Federation + central dyarchy → NEVER IN FORCE",
+            "PROVINCIAL HALF → provincial autonomy, dyarchy abolished → OPERATED 1937"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the federation's non-operation must never be blurred with the record.",
+      "source_references": [
+        "Two halves of the Act and the federation that never operated"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DYARCHY: ABOLISHED PROVINCIALLY, UNREALISED CENTRALLY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ABOLISHED PROVINCIALLY, UNREALISED CENTRALLY",
+          "role": "primary"
+        },
+        {
+          "text": "1919 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PROVINCIAL DYARCHY (RESERVED + TRANSFERRED SUBJECTS)",
+          "role": "comparison"
+        },
+        {
+          "text": "1935 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PROVINCIAL DYARCHY ABOLISHED",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL AUTONOMY BEGINS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVINCIAL MINISTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESPONSIBLE FOR ALL PROVINCIAL SUBJECTS AND DEPARTMENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1919 ACT → provincial dyarchy (reserved + transferred subjects)",
+        "1935 ACT → provincial dyarchy ABOLISHED → provincial autonomy begins",
+        "PROVINCIAL MINISTERS → responsible for all provincial subjects and departments",
+        "CENTRAL DYARCHY → proposed only for the federal centre → never operated."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1919 ACT → provincial dyarchy (reserved + transferred subjects)",
+          "PROVINCIAL MINISTERS → responsible for all provincial subjects and departments",
+          "1919 ACT → provincial dyarchy (reserved + transferred subjects)"
+        ],
+        [
+          "1935 ACT → provincial dyarchy ABOLISHED → provincial autonomy begins",
+          "CENTRAL DYARCHY → proposed only for the federal centre → never operated.",
+          "1935 ACT → provincial dyarchy ABOLISHED → provincial autonomy begins"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1919 ACT → provincial dyarchy (reserved + transferred subjects)",
+            "1935 ACT → provincial dyarchy ABOLISHED → provincial autonomy begins"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROVINCIAL MINISTERS → responsible for all provincial subjects and departments",
+            "CENTRAL DYARCHY → proposed only for the federal centre → never operated."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1919 ACT → provincial dyarchy (reserved + transferred subjects)",
+            "1935 ACT → provincial dyarchy ABOLISHED → provincial autonomy begins"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CENTRAL DYARCHY → proposed only for the federal centre → never operated.",
+      "source_references": [
+        "Provincial dyarchy abolished, not merely modified"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GOVERNOR'S POWERS VERSUS SECTION 93",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GOVERNOR'S POWERS VERSUS SECTION 93",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIAL RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUOUS STANDING POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "SECTION 93",
+          "role": "evidence"
+        },
+        {
+          "text": "EMERGENCY TAKEOVER ONLY ON BREAKDOWN OF MACHINERY",
+          "role": "primary"
+        },
+        {
+          "text": "NORMAL AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTERS GOVERN WHILE RESERVE POWERS REMAIN IN THE BACKGROUND",
+          "role": "comparison"
+        },
+        {
+          "text": "1939 RESIGNATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISCRETIONARY / SPECIAL RESPONSIBILITY → continuous standing power",
+        "SECTION 93 → emergency takeover only on breakdown of machinery",
+        "NORMAL AUTONOMY → ministers govern while reserve powers remain in the background",
+        "1939 RESIGNATION → caused by war declaration, not Section 93 action."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DISCRETIONARY / SPECIAL RESPONSIBILITY → continuous standing power",
+          "NORMAL AUTONOMY → ministers govern while reserve powers remain in the background",
+          "DISCRETIONARY / SPECIAL RESPONSIBILITY → continuous standing power"
+        ],
+        [
+          "SECTION 93 → emergency takeover only on breakdown of machinery",
+          "1939 RESIGNATION → caused by war declaration, not Section 93 action.",
+          "SECTION 93 → emergency takeover only on breakdown of machinery"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISCRETIONARY / SPECIAL RESPONSIBILITY → continuous standing power",
+            "SECTION 93 → emergency takeover only on breakdown of machinery"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NORMAL AUTONOMY → ministers govern while reserve powers remain in the background",
+            "1939 RESIGNATION → caused by war declaration, not Section 93 action."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISCRETIONARY / SPECIAL RESPONSIBILITY → continuous standing power",
+            "SECTION 93 → emergency takeover only on breakdown of machinery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1939 RESIGNATION → caused by war declaration, not Section 93 action.",
+      "source_references": [
+        "Governor's discretionary powers and special responsibilities",
+        "Section 93: the background emergency reserve power"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RESERVED SUBJECTS AND RESIDUARY POWER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RESERVED SUBJECTS AND RESIDUARY POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "RESERVED TO GOVERNOR-GENERAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL AFFAIRS",
+          "role": "comparison"
+        },
+        {
+          "text": "ECCLESIASTICAL AFFAIRS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIBAL AREAS",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDUARY POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ALSO WITH THE GOVERNOR-GENERAL, NOT ANY LEGISLATURE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESERVED TO GOVERNOR-GENERAL",
+        "External Affairs",
+        "Ecclesiastical Affairs",
+        "Tribal Areas",
+        "RESIDUARY POWER → also with the Governor-General, not any legislature."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESERVED TO GOVERNOR-GENERAL",
+            "External Affairs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Ecclesiastical Affairs",
+            "Tribal Areas"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESIDUARY POWER → also with the Governor-General, not any legislature.",
+            "RESERVED TO GOVERNOR-GENERAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESIDUARY POWER → also with the Governor-General, not any legislature.",
+      "source_references": [
+        "Reserved central subjects and residuary power"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FRANCHISE REFORM AS A QUALIFIED RANGE",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FRANCHISE REFORM AS A QUALIFIED RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUGHLY 30 TO 35 MILLION VOTERS (SOURCE-DEPENDENT)",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARE OF POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUGHLY 10 TO 14 PER CENT (DENOMINATOR-DEPENDENT)",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPERTY, TAX, INCOME AND EDUCATION RESTRICTIONS REMAINED",
+          "role": "primary"
+        },
+        {
+          "text": "STATE AS A QUALIFIED RANGE; STILL SHORT OF UNIVERSAL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ELECTORATE → roughly 30 to 35 million voters (source-dependent)",
+        "SHARE OF POPULATION → roughly 10 to 14 per cent (denominator-dependent)",
+        "QUALIFICATIONS → property, tax, income and education restrictions remained",
+        "RULE → state as a qualified range; still short of universal adult franchise."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ELECTORATE → roughly 30 to 35 million voters (source-dependent)",
+          "QUALIFICATIONS → property, tax, income and education restrictions remained",
+          "ELECTORATE → roughly 30 to 35 million voters (source-dependent)"
+        ],
+        [
+          "SHARE OF POPULATION → roughly 10 to 14 per cent (denominator-dependent)",
+          "RULE → state as a qualified range; still short of universal adult franchise.",
+          "SHARE OF POPULATION → roughly 10 to 14 per cent (denominator-dependent)"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ELECTORATE → roughly 30 to 35 million voters (source-dependent)",
+            "SHARE OF POPULATION → roughly 10 to 14 per cent (denominator-dependent)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUALIFICATIONS → property, tax, income and education restrictions remained",
+            "RULE → state as a qualified range; still short of universal adult franchise."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELECTORATE → roughly 30 to 35 million voters (source-dependent)",
+            "SHARE OF POPULATION → roughly 10 to 14 per cent (denominator-dependent)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → state as a qualified range; still short of universal adult franchise.",
+      "source_references": [
+        "Franchise reform as a qualified range, not one exact figure"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RBI ACT 1934 VERSUS THE 1935 ACT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RBI ACT 1934 VERSUS THE 1935 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "RESERVE BANK OF INDIA ACT",
+          "role": "institution"
+        },
+        {
+          "text": "RBI FOUNDED",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNMENT OF INDIA ACT",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE CONSTITUTIONAL STATUTE",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL CONSTITUTIONAL PROVISIONS BEGIN OPERATING",
+          "role": "outcome"
+        },
+        {
+          "text": "RBI'S ORIGIN IS THE 1934 ACT, NEVER THE 1935",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "1934 → Reserve Bank of India Act → RBI founded",
+        "1935 → Government of India Act → separate constitutional statute",
+        "1937 → provincial constitutional provisions begin operating",
+        "TRAP → RBI's origin is the 1934 Act, never the 1935 Act."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1934 → Reserve Bank of India Act → RBI founded",
+          "1937 → provincial constitutional provisions begin operating",
+          "1934 → Reserve Bank of India Act → RBI founded"
+        ],
+        [
+          "1935 → Government of India Act → separate constitutional statute",
+          "TRAP → RBI's origin is the 1934 Act, never the 1935 Act.",
+          "1935 → Government of India Act → separate constitutional statute"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1934 → Reserve Bank of India Act → RBI founded",
+            "1935 → Government of India Act → separate constitutional statute"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1937 → provincial constitutional provisions begin operating",
+            "TRAP → RBI's origin is the 1934 Act, never the 1935 Act."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1934 → Reserve Bank of India Act → RBI founded",
+            "1935 → Government of India Act → separate constitutional statute"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → RBI's origin is the 1934 Act, never the 1935 Act.",
+      "source_references": [
+        "RBI Act 1934 versus the Government of India Act 1935"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FEDERAL COURT AND BURMA: PARALLEL 1937 TRACKS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FEDERAL COURT AND BURMA",
+          "role": "institution"
+        },
+        {
+          "text": "PARALLEL 1937 TRACKS",
+          "role": "outcome"
+        },
+        {
+          "text": "1935 ACT PROVISIONS",
+          "role": "institution"
+        },
+        {
+          "text": "TWO PARALLEL 1937 DEVELOPMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "FEDERAL COURT OF INDIA",
+          "role": "institution"
+        },
+        {
+          "text": "BEGINS FUNCTIONING, 1937",
+          "role": "outcome"
+        },
+        {
+          "text": "BURMA SEPARATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TAKES EFFECT, 1937",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1935 ACT PROVISIONS → two parallel 1937 developments",
+        "FEDERAL COURT OF INDIA → begins functioning, 1937",
+        "BURMA SEPARATION → takes effect, 1937",
+        "RULE → parallel, not sequential or causally connected."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1935 ACT PROVISIONS → two parallel 1937 developments",
+            "FEDERAL COURT OF INDIA → begins functioning, 1937"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BURMA SEPARATION → takes effect, 1937",
+            "RULE → parallel, not sequential or causally connected."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1935 ACT PROVISIONS → two parallel 1937 developments",
+            "FEDERAL COURT OF INDIA → begins functioning, 1937"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → parallel, not sequential or causally connected.",
+      "source_references": [
+        "Federal Court and Burma separation: parallel 1937 developments"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "1937 ELECTION AND MINISTRY TIMING, NWFP AND ASSAM",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "1937 ELECTION AND MINISTRY TIMING, NWFP AND ASSAM",
+          "role": "primary"
+        },
+        {
+          "text": "FEB 1937",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTIONS; CONGRESS LARGEST IN MOST PROVINCES",
+          "role": "comparison"
+        },
+        {
+          "text": "JUL 1937",
+          "role": "evidence"
+        },
+        {
+          "text": "SIX MINISTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "MADRAS, BOMBAY, UP, BIHAR, CP AND ORISSA",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER 1937",
+          "role": "comparison"
+        },
+        {
+          "text": "NWFP BECOMES THE SEVENTH CONGRESS MINISTRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEB 1937 → elections; Congress largest in most provinces",
+        "JUL 1937 → six ministries: Madras, Bombay, UP, Bihar, CP and Orissa",
+        "LATER 1937 → NWFP becomes the seventh Congress ministry",
+        "1938 → Assam becomes the eighth after coalition arrangements break down",
+        "RULE → eight is the eventual, not the simultaneous, total."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FEB 1937 → elections; Congress largest in most provinces",
+            "JUL 1937 → six ministries: Madras, Bombay, UP, Bihar, CP and Orissa"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LATER 1937 → NWFP becomes the seventh Congress ministry",
+            "1938 → Assam becomes the eighth after coalition arrangements break down"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → eight is the eventual, not the simultaneous, total.",
+            "FEB 1937 → elections; Congress largest in most provinces"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → eight is the eventual, not the simultaneous, total.",
+      "source_references": [
+        "1937 elections, ministry timing, NWFP and Assam"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OFFICE-ACCEPTANCE DEBATE",
+      "structural_type": "balance-sheet",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OFFICE-ACCEPTANCE DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "REFORMIST AND ORGANISATIONAL OPPORTUNITY WITHIN AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "RISK OF LEGITIMISING A REJECTED CONSTITUTIONAL STRUCTURE",
+          "role": "caution"
+        },
+        {
+          "text": "SAFEGUARD TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "CONGRESS SOUGHT ASSURANCES AGAINST ROUTINE GOVERNOR INTERFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITIONAL ACCEPTANCE, WATCHING FOR GOVERNOR INTERFERENCE.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FOR → reformist and organisational opportunity within autonomy",
+        "AGAINST → risk of legitimising a rejected constitutional structure",
+        "SAFEGUARD TEST → Congress sought assurances against routine governor interference",
+        "OUTCOME → conditional acceptance, watching for governor interference."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOR → reformist and organisational opportunity within autonomy",
+            "AGAINST → risk of legitimising a rejected constitutional structure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAFEGUARD TEST → Congress sought assurances against routine governor interference",
+            "OUTCOME → conditional acceptance, watching for governor interference."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOR → reformist and organisational opportunity within autonomy",
+            "AGAINST → risk of legitimising a rejected constitutional structure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → conditional acceptance, watching for governor interference.",
+      "source_references": [
+        "The 1937 office-acceptance debate inside Congress"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MINISTRIES' ACHIEVEMENTS AND STRUCTURAL LIMITS",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MINISTRIES' ACHIEVEMENTS AND STRUCTURAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "CIVIL LIBERTIES, PRISONER RELEASE, TENANCY/DEBT REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "PROHIBITION, PRIMARY EDUCATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTRICTED FINANCE, LANDLORD LEGISLATURES, GOVERNOR RESERVE POWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL GAINS; LABOUR UNREST AND AGRARIAN DISTRESS NOT FULLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACHIEVEMENTS → civil liberties, prisoner release, tenancy/debt reform",
+        "ACHIEVEMENTS → prohibition, primary education",
+        "LIMITS → restricted finance, landlord legislatures, governor reserve powers",
+        "RESULT → real gains; labour unrest and agrarian distress not fully resolved."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACHIEVEMENTS → civil liberties, prisoner release, tenancy/debt reform",
+            "ACHIEVEMENTS → prohibition, primary education"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMITS → restricted finance, landlord legislatures, governor reserve powers",
+            "RESULT → real gains; labour unrest and agrarian distress not fully resolved."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACHIEVEMENTS → civil liberties, prisoner release, tenancy/debt reform",
+            "ACHIEVEMENTS → prohibition, primary education"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → real gains; labour unrest and agrarian distress not fully resolved.",
+      "source_references": [
+        "Achievements and structural limits of the Congress ministries"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "1939 RESIGNATION TO LAHORE, AND THE PYQ ANCHORS",
+      "structural_type": "timeline",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "1939 RESIGNATION TO LAHORE, AND THE PYQ ANCHORS",
+          "role": "primary"
+        },
+        {
+          "text": "OCT-NOV 1939",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRIES RESIGN (UNCONSULTED WAR DECLARATION)",
+          "role": "comparison"
+        },
+        {
+          "text": "22 DEC 1939",
+          "role": "evidence"
+        },
+        {
+          "text": "LEAGUE DELIVERANCE DAY",
+          "role": "primary"
+        },
+        {
+          "text": "MAR 1940",
+          "role": "outcome"
+        },
+        {
+          "text": "LAHORE RESOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE LINK IN A CHAIN, NOT SOLE CAUSE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OCT-NOV 1939 → ministries resign (unconsulted war declaration)",
+        "22 DEC 1939 → League Deliverance Day",
+        "MAR 1940 → Lahore Resolution → one link in a chain, not sole cause",
+        "PYQ → 2024 Q62 key confirmed; 2018 Q38 source-backed, no key held."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OCT-NOV 1939 → ministries resign (unconsulted war declaration)",
+            "22 DEC 1939 → League Deliverance Day"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAR 1940 → Lahore Resolution → one link in a chain, not sole cause",
+            "PYQ → 2024 Q62 key confirmed; 2018 Q38 source-backed, no key held."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OCT-NOV 1939 → ministries resign (unconsulted war declaration)",
+            "22 DEC 1939 → League Deliverance Day"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PYQ → 2024 Q62 key confirmed; 2018 Q38 source-backed, no key held.",
+      "source_references": [
+        "1939 resignation and the League's Deliverance Day",
+        "Lahore Resolution as one link, not the whole causal chain",
+        "PYQ anchors: confirmed 2024 key and cautious 2018 residuary recall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE ACT GREW OUT OF THE SIMON REPORT",
+          "role": "institution"
+        },
+        {
+          "text": "ITS FEDERAL SCHEME FAILED BECAUSE PRINCELY STATES DID NOT",
+          "role": "caution"
+        },
+        {
+          "text": "PROVINCIAL AUTONOMY GAVE ELECTED MINISTRIES MORE ROOM THAN UNDER",
+          "role": "evidence"
+        },
+        {
+          "text": "BUT GOVERNORS RETAINED SPECIAL POWERS, SAFEGUARDS AND DISCRETIONARY AUTHORITY.",
+          "role": "primary"
+        },
+        {
+          "text": "THE ACT EXTENDED SEPARATE ELECTORATES AND SPECIAL REPRESENTATION, REINFORCING",
+          "role": "institution"
+        },
+        {
+          "text": "COLONIAL PRACTICE OF SEGMENTING THE ELECTORATE BY COMMUNITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONALISTS SAW THE ACT AS A \"CHARTER OF SLAVERY\"",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Act grew out of the Simon Report , RTCs , White Paper (1933) and Joint Select Committee .",
+            "Its federal scheme failed because princely states did not accede.",
+            "Provincial autonomy gave elected ministries more room than under dyarchy,",
+            "but governors retained special powers, safeguards and discretionary authority."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The Act extended separate electorates and special representation, reinforcing the",
+            "colonial practice of segmenting the electorate by community and interest.",
+            "Nationalists saw the Act as a \"charter of slavery\" even while recognising that elections could be used to mobilise and demonstrate popular support.",
+            "CAUTION: Nehru's phrase \"a machine with strong brakes but no engine\" captured"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "the nationalist critique: constitutional machinery existed, but real sovereignty did not.",
+            "Congress debated whether entering ministries would blunt mass struggle or open a new arena for anti-colonial work.",
+            "After winning majorities, Congress formed ministries in Bombay, Madras, United Provinces,",
+            "Bihar, Central Provinces, Orissa , and later NWFP and Assam ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

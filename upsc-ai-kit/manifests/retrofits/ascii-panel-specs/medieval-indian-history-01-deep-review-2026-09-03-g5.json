@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-01",
+      "display_title": "India on the Eve of the Medieval Age & Arab-Turkish Contacts",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Transition without a political vacuum",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PALA ---- PRATIHARA ---- RASHTRAKUTA competitive order",
+            "                         |",
+            "                 regional redistribution",
+            "                         |",
+            "GAHADAVALA | CHAUHAN | PARAMARA | CHALUKYA | CHANDELLA | TOMARA",
+            "SOUTHERN AXIS -> Chola state, ports and Indian Ocean networks",
+            "VERDICT: substantial state capacity survived; pooled command remained difficult.",
+            "MUST REMEMBER: Regional states and active Indian Ocean networks mean political plurality, not",
+            "  a civilisational vacuum.",
+            "MUST REMEMBER: Regional states and active Indian Ocean networks mean political plurality, not",
+            "  a civilisational vacuum."
+          ],
+          "source_references": [
+            "Political setting",
+            "Regional successor states",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Four contact layers",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "COMMERCIAL -> Arab and Indian merchants, ports and monsoon routes",
+            "CULTURAL -> numerals, astronomy, medicine, language and translation",
+            "FRONTIER -> Sind, Kabul, Zabul, Jalalabad and Punjab",
+            "MILITARY-INSTITUTIONAL -> cavalry, roads, iqta logic and concentrated command",
+            "RULE: contact preceded conquest, and the four layers changed at different speeds."
+          ],
+          "source_references": [
+            "Scope",
+            "Arab-Turkish distinction",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chronology of contact and frontier change",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "711-12 -> Muhammad bin Qasim establishes limited Arab rule in Sindh",
+            "963 / 977 -> Alptigin and Sabuktigin build the Ghazni frontier state",
+            "998-1030 -> Mahmud: Punjab incorporation differs from raids into the plains",
+            "1025-26 -> Somnath raid; motives and booty numbers require source caution",
+            "1178 / 1191 -> Ghurid defeats in Gujarat and Tarain I preserve contingency",
+            "1192 / 1194 -> Tarain II and Chandawar create a new conquest bridge",
+            "c. 1200 -> Aibak and eastern commanders move toward delegated state formation."
+          ],
+          "source_references": [
+            "Chronology",
+            "Transition",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Monsoon maritime circuit",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PERSIAN GULF / RED SEA",
+            "          |",
+            "Arab and Indian merchants + monsoon navigation",
+            "          |",
+            "GUJARAT COAST ---- MALABAR COAST ---- SRI LANKA / SOUTHEAST ASIA",
+            "          |",
+            "goods + resident communities + worship spaces + knowledge",
+            "LIMIT: a mosque or merchant settlement does not prove foreign sovereignty."
+          ],
+          "source_references": [
+            "Arab maritime trade",
+            "Malabar",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Sind as conquest and conduit",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "711-12 CAMPAIGN -> Muhammad bin Qasim defeats Dahir and holds key Sindh towns",
+            "RULE -> garrisons + taxation + retained local personnel + negotiated accommodation",
+            "LIMIT -> Sindh and Multan foothold, not a straight road to all-India conquest",
+            "CHACHNAMA -> early-13th-century Persian narrative about 8th-century events",
+            "SOURCE RULE -> chronicle + inscription + coin + archaeology must be compared",
+            "CONDUIT -> merchants + mathematics + astronomy + medicine + translation",
+            "VERDICT: limited conquest and durable contact were both historically important."
+          ],
+          "source_references": [
+            "Sind",
+            "Knowledge transfer",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Formation of the Persianate-Turkish package",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ABBASID FRAGMENTATION",
+            "        |",
+            "regional Iranian and Central Asian military states",
+            "        |",
+            "Turkic commanders + Islamisation + Persian language and court culture",
+            "        |",
+            "cavalry command + documentary kingship + revenue-service institutions",
+            "TRAP: Persianate describes culture and administration, not ethnicity."
+          ],
+          "source_references": [
+            "Persianisation",
+            "Turkish military elites",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Frontier depth and the outer bastions",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "CENTRAL ASIA -> GHAZNI -> KABUL -> JALALABAD -> PUNJAB -> GANGA PLAIN",
+            "                         roads, bases, supply and intelligence",
+            "HINDU SHAHI CONTROL -> strategic depth",
+            "SHAHI LOSSES + PUNJAB BASE -> shorter operational corridor",
+            "COUNTER-EVIDENCE -> Gujarat 1178-79 and Tarain 1191 defeats",
+            "VERDICT: access enabled campaigns; it did not determine victory."
+          ],
+          "source_references": [
+            "Hindu Shahis",
+            "Outer bastions",
+            "Frontier logistics",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rajput capacity and coordination",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "STRENGTHS                         LIMITS",
+            "agrarian revenue                   rival sovereign centres",
+            "forts and feudatory armies         uneven intelligence sharing",
+            "regional legitimacy               delayed pooled reinforcement",
+            "Gujarat and Tarain I victories     Prithviraj's political isolation",
+            "VERDICT: courage and capacity existed; durable common command was weaker."
+          ],
+          "source_references": [
+            "Rajput political order",
+            "Coordination",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Military-fiscal interaction",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "REVENUE ASSIGNMENT / IQTA LOGIC -> maintained mounted force",
+            "ROADS + BASES + REMOUNTS -> mobility and operational endurance",
+            "RECONNAISSANCE + RESERVES -> tactical flexibility",
+            "CONCENTRATED COMMAND -> rapid decision and reinforcement",
+            "NO SINGLE CAUSE: horses without finance, roads and command were insufficient."
+          ],
+          "source_references": [
+            "Iqta",
+            "Cavalry",
+            "Military organisation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Condition, mechanism and trigger",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CONDITION -> frontier-depth loss + regional rivalry",
+            "MECHANISM -> mobility + fiscal concentration + logistics + command",
+            "TRIGGER -> leadership + diplomacy + tactical adaptation",
+            "COUNTERFACT -> Turkish reverses show structures changed odds, not certainty",
+            "FINAL FORMULA: probability, not inevitability; organisation, not race.",
+            "CLOSE DISTINCTION: Arab maritime and Sind contacts preceded the later Persianate-Turkish",
+            "  military-state transition.",
+            "CLOSE DISTINCTION: Arab maritime and Sind contacts preceded the later Persianate-Turkish",
+            "  military-state transition."
+          ],
+          "source_references": [
+            "Causation",
+            "Contingency",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence discipline",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "ARABIC / PERSIAN CHRONICLES -> campaigns and ideals | patronage and hindsight",
+            "CHACHNAMA -> remembered Sindh conquest | late Persian multi-genre narrative",
+            "INSCRIPTIONS / COINS -> local acts and authority | uneven survival and reach",
+            "ARCHAEOLOGY -> ports, forts and settlements | identification and dating limits",
+            "LATER EPICS -> political memory | recension, romance and anachronism",
+            "PRITHVIRAJA VIJAYA / RASO -> nearer eulogy versus much later literary memory",
+            "METHOD: claim -> source date/genre -> corroboration -> explicit uncertainty.",
+            "EVIDENCE LIMIT: Persianate identifies a cultural-administrative formation, not a single",
+            "  ethnicity or automatic sovereignty."
+          ],
+          "source_references": [
+            "Sources",
+            "Historical method",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 01 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> India was connected and politically regionalised, not isolated",
+            "SEA -> trade, settlements and knowledge without automatic conquest",
+            "WEST/CENTRAL ASIA -> Persianised Turkish military states",
+            "FRONTIER -> Shahi depth, roads and Punjab base",
+            "POLITY -> Rajput capacity plus coordination limits",
+            "CAUSATION -> condition + mechanism + contingent trigger",
+            "CLOSE -> interaction and institutional recombination shaped the transition."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Synthesis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

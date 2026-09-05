@@ -1,0 +1,877 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-06",
+  "subject": "Ancient-Indian-History",
+  "title": "THE HARAPPAN CIVILIZATION",
+  "short_route": "HARAPPAN CHRONOLOGY: REGIONAL ROOTS → HARAPPAN SPATIAL SYSTEM AND → URBAN-RURAL SETTLEMENT HIERARCHY → BUILT ORDER, WATER AND → THE HARAPPAN ECONOMY AS → INTERNAL AND OVERSEAS EXCHANGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g11\\ancient-indian-history-06_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+  "ascii_spec_sha256": "baf7da5ce98398bca090baed193c39edb2911b01ad2f9aa4e329a4379f259e1c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "HARAPPAN CHRONOLOGY: REGIONAL ROOTS TO LOCALISATION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HARAPPAN CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL ROOTS TO LOCALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LATE/LOCALISATION C. 3300-2600 BCE C. 2600-1900 BCE C. 1900-1300",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATED URBAN-RURAL NETWORK; DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "REGIONAL TRANSFORMATION.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EARLY/REGIONALISATION → MATURE/INTEGRATION → LATE/LOCALISATION c.",
+        "3300-2600 BCE c.",
+        "2600-1900 BCE c.",
+        "1900-1300 BCE regional towns/crafts shared weights, seals, de-urbanisation, local ceramics, and exchange networks script, urban",
+        "Civilisation = integrated urban-rural network; decline = regional transformation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "EARLY/REGIONALISATION → MATURE/INTEGRATION → LATE/LOCALISATION c.",
+            "3300-2600 BCE c."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "2600-1900 BCE c.",
+            "1900-1300 BCE regional towns/crafts shared weights, seals, de-urbanisation, local ceramics, and exchange networks script, urban systems settlement shifts,"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Civilisation = integrated urban-rural network; decline = regional transformation.",
+            "EARLY/REGIONALISATION → MATURE/INTEGRATION → LATE/LOCALISATION c."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Civilisation = integrated urban-rural network; decline = regional transformation.",
+      "source_references": [
+        "SESSION 1 - TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL",
+        "SESSION 4 - FROM EARLIER FARMING COMMUNITIES",
+        "SESSION 26 - LATE HARAPPAN CONTINUITY"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HARAPPAN SPATIAL SYSTEM AND SITE ATLAS",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HARAPPAN SPATIAL SYSTEM AND SITE ATLAS",
+          "role": "primary"
+        },
+        {
+          "text": "MAKRAN EDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "JAMMU FRONTIER",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE INDUS",
+          "role": "evidence"
+        },
+        {
+          "text": "URBAN/CEMETERY SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT BATH/DRAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLOUGHED FIELD/FIRE INSTALLATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "FORTIFIED TOWN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WEST: Sutkagendor → Makran edge",
+        "NORTH: Manda → Jammu frontier",
+        "CORE INDUS: Harappa → urban/cemetery sequence",
+        "Mohenjo-daro → Great Bath/drains",
+        "GHAGGAR: Kalibangan → ploughed field/fire installations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "WEST: Sutkagendor → Makran edge",
+            "NORTH: Manda → Jammu frontier",
+            "CORE INDUS: Harappa → urban/cemetery sequence",
+            "Mohenjo-daro → Great Bath/drains",
+            "GHAGGAR: Kalibangan → ploughed field/fire installations"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Banawali → fortified town",
+            "EAST: Rakhigarhi → major Haryana complex",
+            "Alamgirpur → eastern Late Harappan edge",
+            "KUTCH: Dholavira → three-part city, reservoirs, signboard",
+            "Surkotada → fortification"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GUJARAT: Lothal → basin/warehouse/craft debate",
+            "Rangpur → regional sequence",
+            "SINDH: Chanhudaro → craft centre; no classic citadel-lower-town profile"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SINDH: Chanhudaro → craft centre; no classic citadel-lower-town profile.",
+      "source_references": [
+        "SESSION 3 - GEOGRAPHICAL EXTENT",
+        "SESSION 6 - SITE ATLAS I",
+        "SESSION 7 - SITE ATLAS II",
+        "SESSION 8 - SITE ATLAS III",
+        "SESSION 9 - SITE ATLAS IV"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "URBAN-RURAL SETTLEMENT HIERARCHY",
+      "structural_type": "institution-system",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "URBAN-RURAL SETTLEMENT HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "FARM/PASTORAL HAMLETS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRAFT/ROUTE CENTRES",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL CITIES FOOD AND HERDS STORAGE SPECIALISED OUTPUT COORDINATION/CONSUMPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "URBANISM DEPENDED ON RURAL SURPLUS AND RAW-MATERIAL CORRIDORS; CITIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FARM/PASTORAL HAMLETS → VILLAGES → CRAFT/ROUTE CENTRES → REGIONAL CITIES food and herds storage specialised",
+        "+ seals + transport + shared styles connect unequal regional domains.",
+        "Urbanism depended on rural surplus and raw-material corridors; cities were not isolated."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FARM/PASTORAL HAMLETS → VILLAGES → CRAFT/ROUTE CENTRES → REGIONAL CITIES food and herds storage specialised output coordination/consumption weights",
+            "+ seals + transport + shared styles connect unequal regional domains."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Urbanism depended on rural surplus and raw-material corridors; cities were not isolated.",
+            "FARM/PASTORAL HAMLETS → VILLAGES → CRAFT/ROUTE CENTRES → REGIONAL CITIES food and herds storage specialised output coordination/consumption weights"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "+ seals + transport + shared styles connect unequal regional domains.",
+            "Urbanism depended on rural surplus and raw-material corridors; cities were not isolated."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Urbanism depended on rural surplus and raw-material corridors; cities were not isolated.",
+      "source_references": [
+        "SESSION 5 - SETTLEMENT HIERARCHY AND THE URBAN-RURAL SYSTEM",
+        "SESSION 34 - FROM REGIONAL CULTURES TO URBAN INTEGRATION",
+        "SESSION 35 - EXTENT, ECOLOGY AND THE URBAN-RURAL SYSTEM"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BUILT ORDER, WATER AND CIVIC MAINTENANCE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUILT ORDER, WATER AND CIVIC MAINTENANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD",
+          "role": "outcome"
+        },
+        {
+          "text": "BATHING AREAS",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERED DRAINS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOAK PITS/INSPECTION ACCESS HOUSEHOLD INVESTMENT COLLECTIVE MAINTENANCE",
+          "role": "primary"
+        },
+        {
+          "text": "DHOLAVIRA ADAPTS RESERVOIRS TO ARIDITY; MOHENJO-DARO STRESSES WELLS AND",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD HOUSES wells/reservoirs → bathing areas →",
+        "soak pits/inspection access household investment collective maintenance",
+        "Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD HOUSES wells/reservoirs → bathing areas → covered drains →",
+            "soak pits/inspection access household investment collective maintenance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains.",
+            "PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD HOUSES wells/reservoirs → bathing areas → covered drains →"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "soak pits/inspection access household investment collective maintenance",
+            "Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains.",
+      "source_references": [
+        "SESSION 10 - TOWN PLANNING",
+        "SESSION 11 - WATER, SANITATION, DRAINAGE",
+        "SESSION 30 - URBAN WATER AND BUILT FORM",
+        "SESSION 36 - PLANNING, WATER AND EVERYDAY MAINTENANCE"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE HARAPPAN ECONOMY AS A LINKED SYSTEM",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE HARAPPAN ECONOMY AS A LINKED SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "AGRICULTURAL-PASTORAL BASE WHEAT/BARLEY CATTLE COTTON FISHING/REGIONAL CROPS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRAFT WORKSHOPS",
+          "role": "comparison"
+        },
+        {
+          "text": "CALIBRATED WEIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "BEADS, SHELL, FAIENCE, POTTERY, COPPER/BRONZE; STONE REMAINS IMPORTANT.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AGRICULTURAL-PASTORAL BASE wheat/barley cattle cotton fishing/regional crops",
+        "SURPLUS → craft workshops → calibrated weights → seals/transport → exchange",
+        "CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRICULTURAL-PASTORAL BASE wheat/barley cattle cotton fishing/regional crops",
+            "SURPLUS → craft workshops → calibrated weights → seals/transport → exchange"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important.",
+            "AGRICULTURAL-PASTORAL BASE wheat/barley cattle cotton fishing/regional crops"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SURPLUS → craft workshops → calibrated weights → seals/transport → exchange",
+            "CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important.",
+      "source_references": [
+        "SESSION 13 - AGRICULTURE, CROPS, SEASONS",
+        "SESSION 14 - PASTORALISM",
+        "SESSION 15 - CRAFT PRODUCTION",
+        "SESSION 17 - WEIGHTS, MEASURES",
+        "SESSION 37 - THE ECONOMY AS A LINKED SYSTEM"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INTERNAL AND OVERSEAS EXCHANGE CORRIDORS",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTERNAL AND OVERSEAS EXCHANGE CORRIDORS",
+          "role": "primary"
+        },
+        {
+          "text": "RAW MATERIAL FLOW",
+          "role": "evidence"
+        },
+        {
+          "text": "INDUS CITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "COPPER CORRIDOR",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCTION ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "SHELL, CARNELIAN, COASTAL ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "CRAFTS AND PORTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MESOPOTAMIA; MELUHHA IN CUNEIFORM TEXTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAW MATERIAL FLOW",
+        "Baluchistan/Afghanistan → metals/stones → Indus cities",
+        "Rajasthan/Khetri → copper corridor → production zones",
+        "Gujarat/Kutch → shell, carnelian, coastal routes → crafts and ports",
+        "Indus/Makran/Gulf → Dilmun/Magan → Mesopotamia; Meluhha in cuneiform texts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAW MATERIAL FLOW",
+            "Baluchistan/Afghanistan → metals/stones → Indus cities",
+            "Rajasthan/Khetri → copper corridor → production zones"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Gujarat/Kutch → shell, carnelian, coastal routes → crafts and ports",
+            "Indus/Makran/Gulf → Dilmun/Magan → Mesopotamia; Meluhha in cuneiform texts",
+            "Trade evidence = imports + texts + seals + production; it does not prove colonies."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Lothal basin has dockyard/reservoir interpretations: state the debate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Lothal basin has dockyard/reservoir interpretations: state the debate.",
+      "source_references": [
+        "SESSION 19 - INTERNAL EXCHANGE",
+        "SESSION 20 - LONG-DISTANCE TRADE, MELUHHA",
+        "SESSION 31 - PRODUCTION, MEASUREMENT AND EXCHANGE"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SOCIETY AND POLITY: EVIDENCE WITHOUT INVENTED KINGS",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SOCIETY AND POLITY",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE WITHOUT INVENTED KINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSE VARIATION + SCARCE GOODS + CRAFT CONTROL +",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SECURE PALACE, ROYAL TOMB OR DECIPHERED KING-LIST; HIERARCHY",
+          "role": "caution"
+        },
+        {
+          "text": "COORDINATED INSTITUTIONS ARE CERTAIN; EMPIRE-LEVEL SOVEREIGNTY IS UNPROVEN.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE: house variation + scarce goods + craft control + standards + public works centralised",
+        "city/regional states?",
+        "corporate or mercantile elites?",
+        "NO secure palace, royal tomb or deciphered king-list; hierarchy existed, form is open.",
+        "VERDICT: coordinated institutions are certain; empire-level sovereignty is unproven."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE: house variation + scarce goods + craft control + standards + public works centralised state?",
+            "city/regional states?"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "corporate or mercantile elites?",
+            "NO secure palace, royal tomb or deciphered king-list; hierarchy existed, form is open."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: coordinated institutions are certain; empire-level sovereignty is unproven.",
+            "EVIDENCE: house variation + scarce goods + craft control + standards + public works centralised state?"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: coordinated institutions are certain; empire-level sovereignty is unproven.",
+      "answer_line": "coordinated institutions are certain; empire-level sovereignty is unproven.",
+      "source_references": [
+        "SESSION 21 - SOCIAL ORGANISATION",
+        "SESSION 22 - POLITY DEBATE",
+        "SESSION 38 - EVIDENCE LADDER FOR SCRIPT, POLITY, SOCIETY AND RELIGION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SCRIPT, SEALS AND RELIGION: EVIDENCE LADDER",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SCRIPT, SEALS AND RELIGION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "SHORT SIGNS, SEALS/TABLETS, MOTIFS, RITUAL INSTALLATIONS, BURIALS, FIGURINES",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY/TRANSACTION MARKING AND DIFFERENTIATED RITUAL PRACTICES",
+          "role": "evidence"
+        },
+        {
+          "text": "SCRIPT LANGUAGE; PROTO-SHIVA; MOTHER-GODDESS SYSTEM; UNIVERSAL FIRE ALTARS",
+          "role": "primary"
+        },
+        {
+          "text": "READING LATER HINDU DOCTRINE DIRECTLY INTO EVERY HARAPPAN IMAGE.",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDECIPHERED SCRIPT BLOCKS DIRECT ACCESS TO OFFICE, BELIEF AND",
+          "role": "comparison"
+        },
+        {
+          "text": "USE OBJECT + CONTEXT + DISTRIBUTION BEFORE ANALOGY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECURE: short signs, seals/tablets, motifs, ritual installations, burials, figurines",
+        "PROBABLE: identity/transaction marking and differentiated ritual practices",
+        "DISPUTED: script language; proto-Shiva; mother-goddess system; universal fire altars",
+        "REJECT: reading later Hindu doctrine directly into every Harappan image.",
+        "Undeciphered script blocks direct access to office, belief and political vocabulary."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SECURE: short signs, seals/tablets, motifs, ritual installations, burials, figurines",
+            "PROBABLE: identity/transaction marking and differentiated ritual practices"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "DISPUTED: script language; proto-Shiva; mother-goddess system; universal fire altars",
+            "REJECT: reading later Hindu doctrine directly into every Harappan image."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Undeciphered script blocks direct access to office, belief and political vocabulary.",
+            "Use object + context + distribution before analogy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use object + context + distribution before analogy.",
+      "source_references": [
+        "SESSION 18 - SEALS, SEALINGS AND THE UNDECIPHERED SCRIPT",
+        "SESSION 23 - RELIGION AND RITUAL",
+        "SESSION 24 - GENDER, BURIALS, HEALTH",
+        "SESSION 32 - SCRIPT, RITUAL AND AUTHORITY"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DE-URBANISATION: INTERACTING REGIONAL CAUSES",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTERACTING REGIONAL CAUSES",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER SHIFTS/FLOODS + ARIDIFICATION + EXCHANGE CONTRACTION + MAINTENANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CITY CONTRACTION/ABANDONMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SETTLEMENT REDISTRIBUTION LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "SCRIPT, SEALS, LARGE CITIES CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "CROPS, CRAFTS, VILLAGES",
+          "role": "outcome"
+        },
+        {
+          "text": "NO INVASION OR SINGLE RIVER EXPLAINS ALL REGIONS; TIMINGS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "river shifts/floods + aridification + exchange contraction + maintenance stress weaker standards → city contraction/abandonment",
+        "loss: script, seals, large cities continuity: crops, crafts, villages",
+        "No invasion or single river explains all regions; timings and outcomes differ."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "river shifts/floods + aridification + exchange contraction + maintenance stress weaker standards → city contraction/abandonment → settlement redistribution",
+            "loss: script, seals, large cities continuity: crops, crafts, villages"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "No invasion or single river explains all regions; timings and outcomes differ.",
+            "river shifts/floods + aridification + exchange contraction + maintenance stress weaker standards → city contraction/abandonment → settlement redistribution"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "loss: script, seals, large cities continuity: crops, crafts, villages",
+            "No invasion or single river explains all regions; timings and outcomes differ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "No invasion or single river explains all regions; timings and outcomes differ.",
+      "source_references": [
+        "SESSION 25 - DECLINE AND DEURBANISATION",
+        "SESSION 26 - LATE HARAPPAN CONTINUITY",
+        "SESSION 33 - DECLINE AS TRANSFORMATION",
+        "SESSION 39 - DE-URBANISATION AS CAUSAL SEQUENCE"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "HARAPPAN ANSWER ARCHITECTURE: 10/15/20 MARKS",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HARAPPAN ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10/15/20 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "SITE-FEATURE TRIAD",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERPRETATION CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "SPATIAL SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN FORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: phase → site-feature triad → mechanism → interpretation caution",
+        "15 MARKS: chronology → spatial system → urban form → economy → polity/religion limits",
+        "20 MARKS: integration → site map → urban-rural economy → water/standards/trade",
+        "society-polity evidence → script/ritual limits → transformation",
+        "BENCHMARK: material uniformity indicates integration, not automatic political unity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: phase → site-feature triad → mechanism → interpretation caution",
+            "15 MARKS: chronology → spatial system → urban form → economy → polity/religion limits"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: integration → site map → urban-rural economy → water/standards/trade",
+            "society-polity evidence → script/ritual limits → transformation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BENCHMARK: material uniformity indicates integration, not automatic political unity.",
+            "CLOSE: a varied civilisation coordinated by standards, exchange and maintenance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE: a varied civilisation coordinated by standards, exchange and maintenance.",
+      "source_references": [
+        "SESSION 28 - PHASE -> PROCESS -> REGIONAL CHANGE",
+        "SESSION 29 - SITE-FEATURE TRIADS",
+        "SESSION 40 - SITE MEMORY METHOD AND THE FIVE-SENTENCE ANSWER"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. DEBATES & INTERPRETATIONS (HIGH-YIELD TABLE)",
+          "role": "comparison"
+        },
+        {
+          "text": "GENETICS AND HARAPPAN/VEDIC QUESTIONS — [OPTIONAL ADVANCED]",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "+ EXACT PYQ APPLICATION (2025 GS-I)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Debates & interpretations (high-yield table)",
+            "Genetics and Harappan/Vedic Questions — [OPTIONAL ADVANCED]"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "+ Exact PYQ application (2025 GS-I)",
+            "5. UPSC Traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "Optional Advanced Studios: Distinct Refinements — [OPTIONAL ADVANCED]",
+            "A1. Urbanism, Households and Craft — [OPTIONAL ADVANCED]",
+            "A2. Standardisation and Authority — [OPTIONAL ADVANCED]"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

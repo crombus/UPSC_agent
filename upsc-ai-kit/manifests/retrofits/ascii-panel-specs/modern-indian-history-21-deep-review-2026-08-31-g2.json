@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-21",
+      "display_title": "Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Post-1922 debate chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "FEB 1922 -> Non-Cooperation withdrawn; Congress faces a strategic vacuum",
+            "1922 -> No-changer versus Pro-changer debate opens over the next method",
+            "DEC 1922 GAYA -> council-entry proposal rejected; some sources date founding here",
+            "1 JAN 1923 (WORKING DATE) -> Swaraj Party founded by C.R. Das and Motilal Nehru",
+            "NOTE -> Swarajya Sabha (1920, ex-Home Rule League) is a different, older body",
+            "OCT 1924, KANPUR -> Hindustan Republican Association founded with a republican programme.",
+            "MUST REMEMBER: The Swaraj Party was formed in 1923 by C.R. Das and Motilal Nehru; constructive",
+            "  work, council obstruction, HRA-Kakori and the 1928 HSRA reorientation were distinct",
+            "  post-withdrawal strategies."
+          ],
+          "source_references": [
+            "The 1922 strategic vacuum and the No-changer/Pro-changer debate",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "No-changer vs Swarajist comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS         NO-CHANGERS                     SWARAJISTS",
+            "method       khadi, schools, unity work      council-entry and obstruction",
+            "arena        villages, local institutions    legislatures and budgets",
+            "aim          preparation before struggle     exposing dyarchy from within",
+            "leaders      Gandhian constructive workers   C.R. Das and Motilal Nehru",
+            "rule -> both remained within Congress; this was a tactical, not a national, split."
+          ],
+          "source_references": [
+            "No-changers and constructive work after withdrawal",
+            "Swaraj Party formation and council-entry logic",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Swarajist rise-and-decline arc",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "1 JAN 1923 -> Swaraj Party founded for council-entry and obstruction",
+            "1923 ELECTIONS -> strong Swarajist performance in the legislatures",
+            "EFFECT -> exposes the structural weakness of dyarchy and the budget settlement",
+            "1925 -> C.R. Das's death weakens Swarajist leadership and momentum",
+            "LATER 1920s -> ministries and patronage erode obstruction's returns over time."
+          ],
+          "source_references": [
+            "Swarajist achievements in the 1923 legislatures",
+            "Swarajist decline after 1925",
+            "Continuity: both wings reassemble for 1930",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "HRA formation and republican programme",
+          "structural_type": "process",
+          "ascii_lines": [
+            "OCT 1924, KANPUR -> Hindustan Republican Association founded",
+            "LEADERS -> Sachindranath Sanyal, Ram Prasad Bismil, Jogesh Chatterjee",
+            "AIM -> armed overthrow of colonial rule and a republican India",
+            "METHOD -> underground organisation and fund-raising for revolutionary action",
+            "CONTEXT -> revives after the 1922 withdrawal discredited non-violence for some youth."
+          ],
+          "source_references": [
+            "HRA formation and the republican programme",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Kakori-to-executions sequence",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1925 -> Kakori train action raises funds for revolutionary activity",
+            "CASE -> Kakori conspiracy case tried against HRA revolutionaries",
+            "1927 -> Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri executed",
+            "EFFECT -> first mass martyr cult of the interwar revolutionary period",
+            "RULE -> Kakori is HRA; do not place Bhagat Singh in this case."
+          ],
+          "source_references": [
+            "Kakori conspiracy and the 1927 executions",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Naujawan Bharat Sabha bridge",
+          "structural_type": "process",
+          "ascii_lines": [
+            "MARCH 1926, LAHORE -> Naujawan Bharat Sabha founded",
+            "ROLE -> Bhagat Singh a leading organiser among its founders",
+            "FRONT -> open, legal front, organisationally distinct from underground HRA/HSRA",
+            "IDEOLOGY -> socialist and secular political education, ahead of a formal party turn",
+            "BRIDGE -> feeds personnel and ideas into the 1928 HSRA reorganisation."
+          ],
+          "source_references": [
+            "Naujawan Bharat Sabha and youth mobilisation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "HRA to HSRA ideological turn",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS          HRA (from Oct 1924, Kanpur)       HSRA (from Sep 1928, Ferozeshah Kotla)",
+            "programme     republican overthrow             socialist republican overthrow",
+            "leaders       Sanyal, Bismil, Chatterjee        Bhagat Singh, Azad, Sukhdev, Vohra",
+            "case          Kakori conspiracy (1925)          Saunders, Assembly Bomb, Lahore case",
+            "turn -> one lineage renamed, not rival bodies; adds anti-imperialist, anti-capitalist theory."
+          ],
+          "source_references": [
+            "HRA's reorganisation as HSRA: the socialist turn",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Lajpat Rai to Saunders causal chain",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "SIMON COMMISSION PROTEST -> lathi-charge injures Lala Lajpat Rai",
+            "INJURIES -> contribute to his death",
+            "HSRA RESPONSE -> plans retaliation against the officer held responsible",
+            "DEC 1928 -> Saunders killed by HSRA revolutionaries",
+            "EFFECT -> sharpens confrontation ahead of the 1929 Assembly action."
+          ],
+          "source_references": [
+            "Lala Lajpat Rai, Saunders and the road to the Assembly bomb",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Assembly bomb symbolic logic",
+          "structural_type": "process",
+          "ascii_lines": [
+            "8 APRIL 1929 -> Bhagat Singh and Batukeshwar Dutt act in the Assembly",
+            "METHOD -> bombs designed to be non-lethal; leaflets and slogans follow",
+            "INTENT -> \"to make the deaf hear\", not to kill",
+            "CHOICE -> both accept arrest rather than flee, turning the trial into a platform",
+            "CASE -> separate Assembly Bomb Case, Sessions Court: life imprisonment for both."
+          ],
+          "source_references": [
+            "The Assembly bomb: symbolic and non-lethal intent",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Lahore Conspiracy Case and jail resistance",
+          "structural_type": "accountability-map",
+          "ascii_lines": [
+            "CASE -> Lahore Conspiracy Case (separate from Assembly Bomb Case) tries Singh, Sukhdev, Rajguru",
+            "DEMAND -> hunger strike for better treatment of political prisoners",
+            "13 SEP 1929 -> Jatin Das dies after a jail hunger strike (63 or 64 days, sources vary)",
+            "OCT 1930 -> Special Tribunal sentences Bhagat Singh, Sukhdev and Rajguru to death",
+            "23 MAR 1931 -> the three are executed at Lahore.",
+            "CLOSE DISTINCTION: Bhagat Singh's politics included republican and socialist argument, not",
+            "  only martyrdom; HSRA action, trade-union work and Congress politics should not be collapsed",
+            "  into one revolutionary stream."
+          ],
+          "source_references": [
+            "Lahore Conspiracy Case, the jail hunger strike and Jatin Das",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Bhagat Singh's thought and martyrdom",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "POSITION -> rationalist, atheist and socialist political thought",
+            "ENEMY -> defined as both imperialism and class exploitation",
+            "METHOD -> courtroom and public trial used as political theatre",
+            "LEGACY -> political thinker as well as martyr; do not reduce him to sentiment alone",
+            "CAUTION -> describe his position analytically; do not quote his writings verbatim.",
+            "EVIDENCE LIMIT: Legislative records, organisational manifestos, prison writings and police",
+            "  files must be cross-read to avoid hero worship, colonial criminalisation and retrospective",
+            "  ideological simplification."
+          ],
+          "source_references": [
+            "Bhagat Singh as rationalist political thinker and the 1931 execution",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Four streams balance sheet incl. Chittagong",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "STREAM 1 -> Swarajists expose dyarchy from inside the legislatures",
+            "STREAM 2 -> No-changers build khadi, schools and rural cadre",
+            "STREAM 3 -> HRA-HSRA supply martyr tradition and socialist vocabulary",
+            "STREAM 4 -> 1930 Chittagong Armoury Raid, Surya Sen, women revolutionaries in Bengal",
+            "VERDICT -> the 1920s were not a lull; they built what 1930 required."
+          ],
+          "source_references": [
+            "Chittagong and the plural revolutionary field of the 1920s",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\21_Swarajists-and-Revolutionaries-1920s.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

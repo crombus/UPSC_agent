@@ -1,0 +1,910 @@
+{
+  "schema_version": 1,
+  "id": "continuous-core-first-2026-08-22",
+  "created_on": "2026-08-22",
+  "state": "completed",
+  "selection": "latest completed learner-v2 tracker record per topic_key; duplicate old generations excluded",
+  "validation_report": "upsc-ai-kit\\manifests\\retrofits\\continuous-core-first-retrofit-2026-08-22-validation.json",
+  "changed_file_report": "upsc-ai-kit\\manifests\\retrofits\\continuous-core-first-retrofit-2026-08-22-changed-files.txt",
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-01:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-01_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-01_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-01_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 9,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-02:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-02_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-02_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-02_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 31,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-03:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-03_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-03_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-03_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 29,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-04:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-04_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-04_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-04_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 21,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-05:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-05_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-05_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-05_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 44,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-06:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-06_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-06_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-06_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 43,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-07:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-07_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-07_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-07_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 47,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "ancient-indian-history-08:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-08_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\notes\\ancient-indian-history-08_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-08_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 27,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "status": "succeeded",
+      "generation": 6,
+      "source": "ancient-indian-history-09:learner-v2:g5",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-09_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\notes\\ancient-indian-history-09_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-09_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 25,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "status": "succeeded",
+      "generation": 6,
+      "source": "ancient-indian-history-10:learner-v2:g5",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-10_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-core-first-g4-core-first-g5-core-first-g6\\notes\\ancient-indian-history-10_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-10_Solved-Workbook_2026-08-22.pdf",
+      "closure_flows": 35,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "status": "succeeded",
+      "generation": 6,
+      "source": "ancient-indian-history-11:learner-v2:g5",
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-11_Learning-Session.md",
+      "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\notes\\ancient-indian-history-11_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-11_Solved-Workbook_2026-08-22.pdf",
+      "closure_flows": 31,
+      "flowchart": {
+        "folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6",
+        "master_image": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\master.png",
+        "poster_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\poster.pdf",
+        "tiled_pdf": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\tiled.pdf",
+        "previews": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\previews",
+        "contact_sheets": [
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-01.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-02.png",
+          "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "geography-01",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "geography-01:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography-core-first-g3-core-first-g4-core-first-g5\\geography-01_Learning-Session.md",
+      "main_pdf": "notes\\Geography\\learning-session-v2\\part-a-physical-geography-core-first-g3-core-first-g4-core-first-g5\\notes\\geography-01_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\workbooks\\geography-01_Solved-Workbook_2026-08-22.pdf",
+      "closure_flows": 24,
+      "flowchart": {
+        "folder": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "geography-02",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "geography-02:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography-core-first-g3-core-first-g4-core-first-g5\\geography-02_Learning-Session.md",
+      "main_pdf": "notes\\Geography\\learning-session-v2\\part-a-physical-geography-core-first-g3-core-first-g4-core-first-g5\\notes\\geography-02_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\workbooks\\geography-02_Solved-Workbook_2026-08-22.pdf",
+      "closure_flows": 29,
+      "flowchart": {
+        "folder": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "geography-28-human-settlements-and-urbanisation:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\geography-28-human-settlements-and-urbanisation_Learning-Session.md",
+      "main_pdf": "notes\\Geography\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\geography-28-human-settlements-and-urbanisation_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Geography\\learning-session-v2\\geography-28-human-settlements-and-urbanisation\\geography-28-human-settlements-and-urbanisation_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 16,
+      "flowchart": {
+        "folder": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "geography-30-primary-economic-activities-agriculture:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\geography-30-primary-economic-activities-agriculture_Learning-Session.md",
+      "main_pdf": "notes\\Geography\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\geography-30-primary-economic-activities-agriculture_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Geography\\learning-session-v2\\geography-30-primary-economic-activities-agriculture\\geography-30-primary-economic-activities-agriculture_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 12,
+      "flowchart": {
+        "folder": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "geography-32-industries-and-industrial-regions:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\geography-32-industries-and-industrial-regions_Learning-Session.md",
+      "main_pdf": "notes\\Geography\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\geography-32-industries-and-industrial-regions_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Geography\\learning-session-v2\\geography-32-industries-and-industrial-regions\\geography-32-industries-and-industrial-regions_Solved-Workbook_2026-08-20.pdf",
+      "closure_flows": 8,
+      "flowchart": {
+        "folder": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "status": "succeeded",
+      "generation": 6,
+      "source": "philosophy-paper-i-indian-philosophy-01:learner-v2:g5",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\notes\\philosophy-paper-i-indian-philosophy-01_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\philosophy-paper-i-indian-philosophy-01\\philosophy-paper-i-indian-philosophy-01_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 9,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews",
+        "approved_reference_reused": true
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-i-indian-philosophy-02:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-i-indian-philosophy-02_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\philosophy-paper-i-indian-philosophy-02\\philosophy-paper-i-indian-philosophy-02_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 56,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-05.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-i-indian-philosophy-03:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-i-indian-philosophy-03_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\philosophy-paper-i-indian-philosophy-03\\philosophy-paper-i-indian-philosophy-03_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 117,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-05.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-06.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-07.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-08.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-09.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-i-indian-philosophy-04:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-i-indian-philosophy-04_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\philosophy-paper-i-indian-philosophy-04\\philosophy-paper-i-indian-philosophy-04_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 122,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-05.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-06.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-07.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-08.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-09.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-10.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-i-indian-philosophy-05:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-i-indian-philosophy-05_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\philosophy-paper-i-indian-philosophy-05\\philosophy-paper-i-indian-philosophy-05_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 87,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-04.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-05.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-06.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-07.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-01_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-ii-philosophy-of-religion-01_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-01_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 5,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-ii-philosophy-of-religion-02:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-02_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-ii-philosophy-of-religion-02_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-02_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 10,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-ii-philosophy-of-religion-03:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-03_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-ii-philosophy-of-religion-03_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-03_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 10,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "status": "succeeded",
+      "generation": 5,
+      "source": "philosophy-paper-ii-philosophy-of-religion-04:learner-v2:g4",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-04_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\notes\\philosophy-paper-ii-philosophy-of-religion-04_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-04_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 24,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "status": "succeeded",
+      "generation": 4,
+      "source": "philosophy-paper-ii-philosophy-of-religion-05:learner-v2:g3",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-05_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\notes\\philosophy-paper-ii-philosophy-of-religion-05_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-05_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 7,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "status": "succeeded",
+      "generation": 4,
+      "source": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g3",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-06_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\notes\\philosophy-paper-ii-philosophy-of-religion-06_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-06_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 5,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "status": "succeeded",
+      "generation": 4,
+      "source": "philosophy-paper-ii-philosophy-of-religion-07:learner-v2:g3",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-07_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\notes\\philosophy-paper-ii-philosophy-of-religion-07_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-07_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 7,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "status": "succeeded",
+      "generation": 4,
+      "source": "philosophy-paper-ii-philosophy-of-religion-08:learner-v2:g3",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-08_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\notes\\philosophy-paper-ii-philosophy-of-religion-08_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-08_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 7,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "status": "succeeded",
+      "generation": 4,
+      "source": "philosophy-paper-ii-philosophy-of-religion-09:learner-v2:g3",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-09_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\notes\\philosophy-paper-ii-philosophy-of-religion-09_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-09_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 7,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "status": "succeeded",
+      "generation": 4,
+      "source": "philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g3",
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-10_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\notes\\philosophy-paper-ii-philosophy-of-religion-10_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\workbooks\\philosophy-paper-ii-philosophy-of-religion-10_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 7,
+      "flowchart": {
+        "folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4",
+        "master_image": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4\\master.png",
+        "poster_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+        "tiled_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+        "previews": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4\\previews",
+        "contact_sheets": [
+          "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png"
+        ],
+        "validation_report": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-01",
+      "status": "succeeded",
+      "generation": 7,
+      "source": "polity-01:learner-v2:g6",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-01_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\notes\\polity-01_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-01\\polity-01_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 16,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7",
+        "master_image": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-02",
+      "status": "succeeded",
+      "generation": 7,
+      "source": "polity-02:learner-v2:g6",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-02_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\notes\\polity-02_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-02\\polity-02_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 19,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7",
+        "master_image": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-04",
+      "status": "succeeded",
+      "generation": 7,
+      "source": "polity-04:learner-v2:g6",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-04_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\notes\\polity-04_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-04\\polity-04_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 20,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7",
+        "master_image": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-05",
+      "status": "succeeded",
+      "generation": 7,
+      "source": "polity-05:learner-v2:g6",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-05_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\notes\\polity-05_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-05\\polity-05_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 15,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7",
+        "master_image": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-06",
+      "status": "succeeded",
+      "generation": 7,
+      "source": "polity-06:learner-v2:g6",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-06_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\notes\\polity-06_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-06\\polity-06_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 24,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7",
+        "master_image": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-07",
+      "status": "succeeded",
+      "generation": 8,
+      "source": "polity-07:learner-v2:g7",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8\\polity-07_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8\\notes\\polity-07_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-07\\polity-07_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 27,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8",
+        "master_image": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-02.png",
+          "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-03.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    },
+    {
+      "topic_key": "polity-03",
+      "status": "succeeded",
+      "generation": 8,
+      "source": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-03_Learning-Session.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8\\polity-03_Learning-Session.md",
+      "main_pdf": "notes\\Polity\\learning-session-v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8\\notes\\polity-03_Learning-Session_2026-08-22.pdf",
+      "workbook": "notes\\Polity\\learning-session-v2\\polity-03\\polity-03_Solved-Workbook_2026-08-21.pdf",
+      "closure_flows": 22,
+      "flowchart": {
+        "folder": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8",
+        "master_image": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\master.png",
+        "poster_pdf": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\poster.pdf",
+        "tiled_pdf": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\tiled.pdf",
+        "previews": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\previews",
+        "contact_sheets": [
+          "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-01.png",
+          "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-02.png"
+        ],
+        "validation_report": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8\\validation-report.txt",
+        "approved_reference_reused": false
+      }
+    }
+  ],
+  "counts": {
+    "processed": 38,
+    "succeeded": 38,
+    "failed": 0,
+    "planned": 0
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-15",
+      "display_title": "Vaccines, Monoclonal Antibodies and Biopharma",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-15_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Immune-object recognition map",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "PATHOGEN / PRODUCT -> contains or presents ANTIGEN",
+            "EPITOPE -> specific recognised part of antigen",
+            "B-CELL RECEPTOR / ANTIBODY -> binds epitope",
+            "T-CELL RECEPTOR -> recognises presented antigen fragment",
+            "IMMUNOGEN -> antigen capable of provoking an immune response"
+          ],
+          "source_references": [
+            "Antigen-antibody boundary",
+            "Adaptive-immune mechanism"
+          ]
+        },
+        {
+          "title": "Active passive antiviral triad",
+          "structural_type": "three-way-comparison",
+          "ascii_lines": [
+            "VACCINE -> antigen/code -> endogenous response -> memory",
+            "mAb -> ready-made antibody -> direct binding -> temporary effect",
+            "ANTIVIRAL -> replication-step inhibition -> pharmacological action",
+            "ONSET / DURATION / PURPOSE -> compare, never merge"
+          ],
+          "source_references": [
+            "Active-passive-antiviral boundary",
+            "Monoclonal-antibody mechanism"
+          ]
+        },
+        {
+          "title": "Adaptive immunity process rail",
+          "structural_type": "process-rail",
+          "ascii_lines": [
+            "ANTIGEN PRESENTATION -> lymphocyte activation",
+            "B CELL -> plasma cell -> antibodies",
+            "B / T CELL -> memory populations",
+            "HELPER T CELL -> coordination; CYTOTOXIC T CELL -> cellular killing",
+            "RULE -> antibody titre is not the entire immune response"
+          ],
+          "source_references": [
+            "Adaptive-immune mechanism"
+          ]
+        },
+        {
+          "title": "Vaccine platform taxonomy",
+          "structural_type": "branch-matrix",
+          "ascii_lines": [
+            "WHOLE PATHOGEN -> live attenuated | inactivated",
+            "SELECTED MATERIAL -> subunit | toxoid | VLP | conjugate",
+            "GENETIC CODE -> viral vector | mRNA | DNA",
+            "COMPARE -> antigen form | replication | cell location | manufacture",
+            "DO NOT IMPORT -> product approval, efficacy or present availability"
+          ],
+          "source_references": [
+            "Whole-pathogen platform boundary",
+            "Subunit-toxoid-VLP-conjugate boundary",
+            "Vector-mRNA-DNA boundary"
+          ]
+        },
+        {
+          "title": "Genetic-platform cellular map",
+          "structural_type": "cell-compartment-map",
+          "ascii_lines": [
+            "VIRAL VECTOR -> engineered carrier delivers antigen code",
+            "mRNA + LNP -> CYTOPLASM -> translation",
+            "DNA -> NUCLEUS -> transcription -> mRNA",
+            "ANTIGEN EXPRESSION -> B/T response -> memory",
+            "TRAP -> active immunity does not mean identical delivery"
+          ],
+          "source_references": [
+            "Vector-mRNA-DNA boundary",
+            "Adjuvant-and-formulation boundary"
+          ]
+        },
+        {
+          "title": "Monoclonal antibody production chain",
+          "structural_type": "assembly-chain",
+          "ascii_lines": [
+            "B CELL + MYELOMA -> HYBRIDOMA CLONE",
+            "OR SEQUENCE DISCOVERY -> ANTIBODY ENGINEERING",
+            "RECOMBINANT MAMMALIAN CELL LINE -> EXPRESSION",
+            "HARVEST -> PURIFICATION -> FORMULATION -> FILL-FINISH",
+            "TARGET BINDING != PROVEN CLINICAL BENEFIT"
+          ],
+          "source_references": [
+            "Monoclonal-antibody mechanism",
+            "Hybridoma-recombinant-production boundary",
+            "Antibody-engineering boundary"
+          ]
+        },
+        {
+          "title": "Biopharma manufacturing quality system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL",
+            "UPSTREAM -> culture / fermentation / bioreactor",
+            "DOWNSTREAM -> capture / purification / clearance",
+            "FILL-FINISH -> sterile product and packaging",
+            "RELEASE -> identity / purity / potency / sterility / consistency"
+          ],
+          "source_references": [
+            "Biopharma-manufacturing chain",
+            "Quality-and-scale-up boundary"
+          ]
+        },
+        {
+          "title": "Cold-chain integrity loop",
+          "structural_type": "control-loop",
+          "ascii_lines": [
+            "VALIDATED STORAGE -> monitored transport -> delivery point",
+            "DATA LOGGER / INDICATOR -> deviation detection",
+            "EXCURSION -> quarantine / assessment / disposition",
+            "CONTINGENCY -> power, equipment, route and stock response",
+            "OUTCOME -> integrity enables access; it does not prove uptake"
+          ],
+          "source_references": [
+            "Cold-chain boundary",
+            "Efficacy-effectiveness-access firewall"
+          ]
+        },
+        {
+          "title": "Clinical and regulatory ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PRECLINICAL -> laboratory and animal evidence",
+            "PHASE I -> initial safety / dose",
+            "PHASE II -> expanded dose, safety and response evidence",
+            "PHASE III -> larger-population benefit and safety",
+            "AUTHORISATION -> MANUFACTURE / RELEASE -> PHASE IV SURVEILLANCE"
+          ],
+          "source_references": [
+            "Clinical-development ladder",
+            "CDSCO-NDCTR boundary",
+            "Pharmacovigilance-and-AEFI boundary"
+          ]
+        },
+        {
+          "title": "Indian institution router",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DBT -> biotech policy, missions and research support",
+            "BIRAC -> translation, enterprise and mission implementation",
+            "ICMR -> biomedical research and evidence",
+            "CDSCO / DCGI -> trials and new-drug / biologic regulation",
+            "IPC / PvPI -> pharmacovigilance coordination and safety learning"
+          ],
+          "source_references": [
+            "CDSCO-NDCTR boundary",
+            "DBT-BIRAC-ICMR boundary",
+            "Mission-and-policy status boundary",
+            "Pharmacovigilance-and-AEFI boundary"
+          ]
+        },
+        {
+          "title": "Biosimilar comparability pyramid",
+          "structural_type": "evidence-pyramid",
+          "ascii_lines": [
+            "FOUNDATION -> extensive analytical and quality comparability",
+            "NEXT -> functional and appropriate non-clinical comparison",
+            "NEXT -> justified clinical PK/PD, efficacy, safety, immunogenicity",
+            "AFTER USE -> pharmacovigilance and traceability",
+            "RULE -> BIOSIMILAR != GENERIC != AUTOMATIC INTERCHANGEABILITY"
+          ],
+          "source_references": [
+            "Biosimilar-generic boundary",
+            "Pharmacovigilance-and-AEFI boundary"
+          ]
+        },
+        {
+          "title": "Biopharma claim and answer firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> immune mechanism and product category",
+            "CLASSIFY -> platform / mAb / biosimilar",
+            "TRACE -> trial + regulation + manufacturing + cold chain",
+            "MAP -> CDSCO / DBT / BIRAC / ICMR / PvPI",
+            "QUALIFY -> efficacy != effectiveness != approval != access != impact"
+          ],
+          "source_references": [
+            "Antigen-antibody boundary",
+            "CDSCO-NDCTR boundary",
+            "DBT-BIRAC-ICMR boundary",
+            "Efficacy-effectiveness-access firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

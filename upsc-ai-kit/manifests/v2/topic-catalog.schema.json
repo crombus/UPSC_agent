@@ -1,0 +1,302 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.upsc-agent/schemas/learner-v2-topic-catalog.json",
+  "title": "Learner-v2 full topic command catalogue",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "variant",
+    "catalogue_policy",
+    "discovery_sources",
+    "statistics",
+    "duplicates",
+    "topics"
+  ],
+  "properties": {
+    "$schema": {
+      "const": "topic-catalog.schema.json"
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "variant": {
+      "const": "learner-v2"
+    },
+    "catalogue_policy": {
+      "type": "object"
+    },
+    "discovery_sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "statistics": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "subjects",
+        "sections",
+        "topics",
+        "source_ready_topics",
+        "ambiguous_or_unresolved_entries",
+        "duplicate_topic_keys",
+        "duplicate_commands"
+      ],
+      "properties": {
+        "subjects": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sections": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "topics": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "source_ready_topics": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "ambiguous_or_unresolved_entries": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "duplicate_topic_keys": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "duplicate_commands": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "duplicates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "topic_keys",
+        "commands"
+      ],
+      "properties": {
+        "topic_keys": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "commands": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/topic"
+      }
+    }
+  },
+  "$defs": {
+    "repositoryPath": {
+      "type": "string",
+      "minLength": 1,
+      "not": {
+        "pattern": "^[A-Za-z]:"
+      }
+    },
+    "topic": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "subject",
+        "section",
+        "topic_key",
+        "topic_order",
+        "source_number",
+        "display_title",
+        "learner_v2_command",
+        "export_mapping",
+        "source_basic",
+        "source_canonical",
+        "source_advanced",
+        "tracker_topic_keys",
+        "syllabus_sources",
+        "index_sources",
+        "discovery_status",
+        "ambiguity_warning"
+      ],
+      "properties": {
+        "subject": {
+          "type": "object",
+          "required": [
+            "key",
+            "display_name",
+            "order"
+          ],
+          "properties": {
+            "key": {
+              "type": "string",
+              "minLength": 1
+            },
+            "display_name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "order": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        },
+        "section": {
+          "type": "object",
+          "required": [
+            "key",
+            "name",
+            "basis",
+            "order"
+          ],
+          "properties": {
+            "key": {
+              "type": "string",
+              "minLength": 1
+            },
+            "name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "basis": {
+              "type": "string",
+              "minLength": 1
+            },
+            "order": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        },
+        "topic_key": {
+          "type": "string",
+          "minLength": 1
+        },
+        "topic_order": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source_number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "display_title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "learner_v2_command": {
+          "type": "string",
+          "pattern": "^Generate learner-v2 topic: "
+        },
+        "export_mapping": {
+          "type": "object",
+          "required": [
+            "topic_key",
+            "command",
+            "source"
+          ],
+          "properties": {
+            "topic_key": {
+              "type": "string",
+              "minLength": 1
+            },
+            "command": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "source": {
+              "oneOf": [
+                {
+                  "$ref": "#/$defs/repositoryPath"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          }
+        },
+        "source_basic": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/repositoryPath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "source_canonical": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/repositoryPath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "source_advanced": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/repositoryPath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "tracker_topic_keys": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "syllabus_sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/repositoryPath"
+          }
+        },
+        "index_sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/repositoryPath"
+          }
+        },
+        "discovery_status": {
+          "enum": [
+            "source-ready",
+            "unresolved"
+          ]
+        },
+        "ambiguity_warning": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

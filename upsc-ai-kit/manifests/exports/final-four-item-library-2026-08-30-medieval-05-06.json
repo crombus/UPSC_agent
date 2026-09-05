@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T04:48:54+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "c82087442f1b5803574670dcafbf4697ea2957050ac677127b45d14c797f4c4f",
+    "sha256_after": "c82087442f1b5803574670dcafbf4697ea2957050ac677127b45d14c797f4c4f",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 2,
+  "subjects": {
+    "Medieval History": 2
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 2
+  },
+  "library_totals": {
+    "file_count": 2979,
+    "pdf_count": 907,
+    "png_count": 485,
+    "txt_count": 414,
+    "markdown_count": 386,
+    "json_count": 772,
+    "total_bytes": 1762480039,
+    "by_extension": {
+      ".json": 772,
+      ".md": 386,
+      ".pdf": 907,
+      ".png": 485,
+      ".txt": 414,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-05",
+      "topic_title": "The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "medieval-indian-history-05:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-05\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "c012cbbf17cbc1a63dab587069b5ac715a28f1d5d4bd4b843588f40a61041099",
+          "output_sha256": "c012cbbf17cbc1a63dab587069b5ac715a28f1d5d4bd4b843588f40a61041099",
+          "source_output_equal": true,
+          "bytes": 2640995
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-05\\medieval-indian-history-05_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6039234d4c9075d41f667089044ee00338d48ce7266c10058adf2ad8c58da809",
+          "output_sha256": "6039234d4c9075d41f667089044ee00338d48ce7266c10058adf2ad8c58da809",
+          "source_output_equal": true,
+          "bytes": 566544
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-05\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "4d8930bab1ed24e0971534ab1b38f5bbb8df9806c631d2db791c9cbc50fb7f8b",
+          "output_sha256": "4d8930bab1ed24e0971534ab1b38f5bbb8df9806c631d2db791c9cbc50fb7f8b",
+          "source_output_equal": true,
+          "bytes": 2313658
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-05\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "18b6bad8df634eb1463b99a7cad177651649556f18fa301c992b1d9ddb50b01e",
+          "output_sha256": "18b6bad8df634eb1463b99a7cad177651649556f18fa301c992b1d9ddb50b01e",
+          "source_output_equal": true,
+          "bytes": 2647123
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-05\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7f364557429f63a05994633f027d5c202611e4fcc268b82a3500b2a0f5727b02",
+          "output_sha256": "7f364557429f63a05994633f027d5c202611e4fcc268b82a3500b2a0f5727b02",
+          "source_output_equal": true,
+          "bytes": 2053939
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-05\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "020115df66d02c65bce7aa16136d9a5ecf65d92dc1e9579122f633a58e3696bc",
+          "output_sha256": "020115df66d02c65bce7aa16136d9a5ecf65d92dc1e9579122f633a58e3696bc",
+          "source_output_equal": true,
+          "bytes": 5541
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-05\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "020115df66d02c65bce7aa16136d9a5ecf65d92dc1e9579122f633a58e3696bc",
+          "output_sha256": "9ca872d137499ead9177d265acfdbd0ddc8ac325e17ccec6d1f0a03a8f7444f8",
+          "normalized_text_equal": true,
+          "bytes": 57758
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 80,
+        "solved_practice_workbook": 22,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 80,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 22,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11402
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "medieval-indian-history-06",
+      "topic_title": "Decline of the Sultanate: Timur, Sayyids & Lodis",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 6,
+      "source_record_id": "medieval-indian-history-06:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-06\\medieval-indian-history-06_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "8d1dc4e75a1ab60c7023b45deb11e62117692ed32af68169354310942d9e64e7",
+          "output_sha256": "8d1dc4e75a1ab60c7023b45deb11e62117692ed32af68169354310942d9e64e7",
+          "source_output_equal": true,
+          "bytes": 3482825
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-06\\medieval-indian-history-06_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "e13f0b499e33c3fd4bdefa3ed393ef3a6a6ac8b13c09b51d60f43c9792d68274",
+          "output_sha256": "e13f0b499e33c3fd4bdefa3ed393ef3a6a6ac8b13c09b51d60f43c9792d68274",
+          "source_output_equal": true,
+          "bytes": 562760
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-06\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "78ce511fbd47103663a92c7cad03970008069e20e920c658cd78d16094d09d46",
+          "output_sha256": "78ce511fbd47103663a92c7cad03970008069e20e920c658cd78d16094d09d46",
+          "source_output_equal": true,
+          "bytes": 2383209
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-06\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "fcc55db0946540a6655286a7cf0521aa61fc78c7a209e6346c35031ddfd6dfe0",
+          "output_sha256": "fcc55db0946540a6655286a7cf0521aa61fc78c7a209e6346c35031ddfd6dfe0",
+          "source_output_equal": true,
+          "bytes": 2708877
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-06\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "b2508417ab364a38f560e55e0d0850d36bb0e0e3e1c757e31d2ad9e716bc6815",
+          "output_sha256": "b2508417ab364a38f560e55e0d0850d36bb0e0e3e1c757e31d2ad9e716bc6815",
+          "source_output_equal": true,
+          "bytes": 2120394
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-06\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "42da6d05ccbff6239d662e20a28d4c91faf0bc42b8935b8c2e6ab8fbf91933d0",
+          "output_sha256": "42da6d05ccbff6239d662e20a28d4c91faf0bc42b8935b8c2e6ab8fbf91933d0",
+          "source_output_equal": true,
+          "bytes": 5573
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-06\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "42da6d05ccbff6239d662e20a28d4c91faf0bc42b8935b8c2e6ab8fbf91933d0",
+          "output_sha256": "dacec7be795e9c32caac8fcbd95abf12a0925ee9e6b50a2c511e6006aa7226ad",
+          "normalized_text_equal": true,
+          "bytes": 57855
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 10,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 9,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 79,
+        "solved_practice_workbook": 20,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 79,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11566
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

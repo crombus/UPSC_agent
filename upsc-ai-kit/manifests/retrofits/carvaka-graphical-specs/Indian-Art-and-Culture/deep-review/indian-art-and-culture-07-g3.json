@@ -1,0 +1,1121 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-07",
+  "subject": "Indian-Art-and-Culture",
+  "title": "PAINTING TRADITIONS",
+  "short_route": "PAINTING READING AXES → MURAL TECHNIQUE FIREWALL → BAGH IDENTIFICATION CARD → SOUTHERN MURAL SURVIVAL → FORMAT-PATRONAGE SHIFT → MUGHAL ATELIER CHANGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-07-deep-review-2026-09-04-g3.json",
+  "ascii_spec_sha256": "b3104da984b434d366d76c09541afa966c62e354913581a59cc43763541e90ae",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PAINTING READING AXES",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PAINTING READING AXES",
+          "role": "primary"
+        },
+        {
+          "text": "ROCK, WALL, PAGE, ALBUM OR CANVAS",
+          "role": "outcome"
+        },
+        {
+          "text": "ENGRAVING, DRY PLASTER, WASH OR PRINT",
+          "role": "comparison"
+        },
+        {
+          "text": "MONASTERY, COURT, MARKET OR COMMUNITY",
+          "role": "institution"
+        },
+        {
+          "text": "COLLECTIVE, PRIVATE OR MASS",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "PAINTING CHRONOLOGY RUNS FROM ROCK ART AND AJANTA-BAGH MURALS",
+          "role": "comparison"
+        },
+        {
+          "text": "PALLAVA-CHOLA WALLS, PALA AND JAIN MANUSCRIPTS, MUGHAL ATELIERS, REGIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORMAT → rock, wall, page, album or canvas",
+        "TECHNIQUE → engraving, dry plaster, wash or print",
+        "PATRON → monastery, court, market or community",
+        "AUDIENCE → collective, private or mass",
+        "MUST REMEMBER: Painting chronology runs from rock art and Ajanta-Bagh murals through"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORMAT → rock, wall, page, album or canvas",
+            "TECHNIQUE → engraving, dry plaster, wash or print",
+            "PATRON → monastery, court, market or community"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUDIENCE → collective, private or mass",
+            "MUST REMEMBER: Painting chronology runs from rock art and Ajanta-Bagh murals through",
+            "Pallava-Chola walls, Pala and Jain manuscripts, Mughal ateliers, regional miniatures,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Company-bazaar publics and nationalist modern responses."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Pallava-Chola walls, Pala and Jain manuscripts, Mughal ateliers, regional miniatures,.",
+      "source_references": [
+        "Painting vocabulary and rock art",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MURAL TECHNIQUE FIREWALL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MURAL TECHNIQUE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PREPARED PLASTER, PIGMENT AFTER DRYING",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUE FRESCO",
+          "role": "comparison"
+        },
+        {
+          "text": "PIGMENT INTO WET PLASTER",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT TRANSFER AJANTA'S LABEL AUTOMATICALLY",
+          "role": "caution"
+        },
+        {
+          "text": "TECHNIQUE MUST BE SITE-SPECIFIC",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AJANTA → prepared plaster, pigment after drying",
+        "TRUE FRESCO → pigment into wet plaster",
+        "BAGH → do not transfer Ajanta's label automatically",
+        "RULE → technique must be site-specific"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AJANTA → prepared plaster, pigment after drying",
+          "BAGH → do not transfer Ajanta's label automatically",
+          "AJANTA → prepared plaster, pigment after drying"
+        ],
+        [
+          "TRUE FRESCO → pigment into wet plaster",
+          "RULE → technique must be site-specific",
+          "TRUE FRESCO → pigment into wet plaster"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AJANTA → prepared plaster, pigment after drying",
+            "TRUE FRESCO → pigment into wet plaster"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BAGH → do not transfer Ajanta's label automatically",
+            "RULE → technique must be site-specific"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AJANTA → prepared plaster, pigment after drying",
+            "TRUE FRESCO → pigment into wet plaster"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BAGH → do not transfer Ajanta's label automatically.",
+      "source_references": [
+        "Ajanta's dry-plaster technique",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BAGH IDENTIFICATION CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BAGH IDENTIFICATION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "BAGHNI RIVER, DHAR DISTRICT",
+          "role": "outcome"
+        },
+        {
+          "text": "CAVE 4",
+          "role": "comparison"
+        },
+        {
+          "text": "RANG MAHAL, JATAKA MURALS",
+          "role": "evidence"
+        },
+        {
+          "text": "BAGH PAINTINGS GENERALLY",
+          "role": "primary"
+        },
+        {
+          "text": "NO MODERN-FORM EQUIVALENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SITE → Baghni river, Dhar district",
+        "CAVE 4 → Rang Mahal, Jataka murals",
+        "HALLISALASYA → Bagh paintings generally",
+        "LIMIT → no modern-form equivalence"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SITE → Baghni river, Dhar district",
+          "HALLISALASYA → Bagh paintings generally",
+          "SITE → Baghni river, Dhar district"
+        ],
+        [
+          "CAVE 4 → Rang Mahal, Jataka murals",
+          "LIMIT → no modern-form equivalence",
+          "CAVE 4 → Rang Mahal, Jataka murals"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SITE → Baghni river, Dhar district",
+            "CAVE 4 → Rang Mahal, Jataka murals"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HALLISALASYA → Bagh paintings generally",
+            "LIMIT → no modern-form equivalence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SITE → Baghni river, Dhar district",
+            "CAVE 4 → Rang Mahal, Jataka murals"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HALLISALASYA → Bagh paintings generally; LIMIT → no modern-form equivalence.",
+      "source_references": [
+        "Bagh and Hallisalasya",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SOUTHERN MURAL SURVIVAL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOUTHERN MURAL SURVIVAL",
+          "role": "primary"
+        },
+        {
+          "text": "KANCHIPURAM AND PANAMALAI",
+          "role": "outcome"
+        },
+        {
+          "text": "SITTANAVASAL BRIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "VIJAYA CHOLISHWARAM AND BRIHADISHVARA",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER SUPERIMPOSITION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PALLAVA → Kanchipuram and Panamalai",
+        "PANDYA → Sittanavasal bridge",
+        "CHOLA → Vijaya Cholishwaram and Brihadishvara",
+        "NAYAKA → later superimposition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PALLAVA → Kanchipuram and Panamalai",
+            "PANDYA → Sittanavasal bridge"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHOLA → Vijaya Cholishwaram and Brihadishvara",
+            "NAYAKA → later superimposition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PALLAVA → Kanchipuram and Panamalai",
+            "PANDYA → Sittanavasal bridge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHOLA → Vijaya Cholishwaram and Brihadishvara; NAYAKA → later superimposition.",
+      "source_references": [
+        "Pallava and Chola mural survival",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FORMAT-PATRONAGE SHIFT",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FORMAT-PATRONAGE SHIFT",
+          "role": "primary"
+        },
+        {
+          "text": "MONUMENTAL WALL",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL SPONSOR",
+          "role": "comparison"
+        },
+        {
+          "text": "PORTABLE DEVOTIONAL PAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVATE CONNOISSEURIAL PATRON",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET AND PUBLIC",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MONUMENTAL WALL → institutional sponsor",
+        "MANUSCRIPT → portable devotional page",
+        "ALBUM → private connoisseurial patron",
+        "PRINT / CANVAS → market and public"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MONUMENTAL WALL → institutional sponsor",
+            "MANUSCRIPT → portable devotional page"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALBUM → private connoisseurial patron",
+            "PRINT / CANVAS → market and public"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MONUMENTAL WALL → institutional sponsor",
+            "MANUSCRIPT → portable devotional page"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALBUM → private connoisseurial patron; PRINT / CANVAS → market and public.",
+      "source_references": [
+        "From wall to portable page",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MUGHAL ATELIER CHANGE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MUGHAL ATELIER CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "NARRATIVE MANUSCRIPT SERIES",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLABORATIVE KARKHANA",
+          "role": "comparison"
+        },
+        {
+          "text": "ALBUM PORTRAIT AND NATURAL HISTORY",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILE TRAINED ARTISTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AKBAR → narrative manuscript series",
+        "WORKSHOP → collaborative karkhana",
+        "JAHANGIR → album portrait and natural history",
+        "CONTINUITY → mobile trained artists"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AKBAR → narrative manuscript series",
+          "JAHANGIR → album portrait and natural history",
+          "AKBAR → narrative manuscript series"
+        ],
+        [
+          "WORKSHOP → collaborative karkhana",
+          "CONTINUITY → mobile trained artists",
+          "WORKSHOP → collaborative karkhana"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AKBAR → narrative manuscript series",
+            "WORKSHOP → collaborative karkhana"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAHANGIR → album portrait and natural history",
+            "CONTINUITY → mobile trained artists"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AKBAR → narrative manuscript series",
+            "WORKSHOP → collaborative karkhana"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAHANGIR → album portrait and natural history; CONTINUITY → mobile trained artists.",
+      "source_references": [
+        "Akbar's collaborative atelier",
+        "Jahangir's album and natural history",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REGIONAL MINIATURE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGIONAL MINIATURE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BANI THANI, NIHAL CHAND",
+          "role": "outcome"
+        },
+        {
+          "text": "BOLD LINE AND INTENSE COLOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "LYRICAL NATURALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "SATURATED PERSIANATE COURT IDIOM",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "KISHANGARH → Bani Thani, Nihal Chand",
+        "BASOHLI → bold line and intense colour",
+        "GULER / KANGRA → lyrical naturalism",
+        "DECCAN → saturated Persianate court idiom"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KISHANGARH → Bani Thani, Nihal Chand",
+            "BASOHLI → bold line and intense colour"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GULER / KANGRA → lyrical naturalism",
+            "DECCAN → saturated Persianate court idiom"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KISHANGARH → Bani Thani, Nihal Chand",
+            "BASOHLI → bold line and intense colour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GULER / KANGRA → lyrical naturalism; DECCAN → saturated Persianate court idiom.",
+      "source_references": [
+        "Kishangarh and Bani Thani",
+        "Pahari and Deccani discriminators",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SOUTH INDIAN DISTINCTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOUTH INDIAN DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GESSO RELIEF AND GOLD COATING",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE COURT TRADITION",
+          "role": "institution"
+        },
+        {
+          "text": "DEVOTIONAL ICON",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED BROAD PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED REGION IS NOT IDENTITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TANJORE → gesso relief and gold coating",
+        "MYSORE → separate court tradition",
+        "DEVOTIONAL ICON → shared broad purpose",
+        "TRAP → shared region is not identity"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TANJORE → gesso relief and gold coating",
+          "DEVOTIONAL ICON → shared broad purpose",
+          "TANJORE → gesso relief and gold coating"
+        ],
+        [
+          "MYSORE → separate court tradition",
+          "TRAP → shared region is not identity",
+          "MYSORE → separate court tradition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TANJORE → gesso relief and gold coating",
+            "MYSORE → separate court tradition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEVOTIONAL ICON → shared broad purpose",
+            "TRAP → shared region is not identity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TANJORE → gesso relief and gold coating",
+            "MYSORE → separate court tradition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEVOTIONAL ICON → shared broad purpose; TRAP → shared region is not identity.",
+      "source_references": [
+        "Tanjore and Mysore",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "COLONIAL PUBLIC MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COLONIAL PUBLIC MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "EUROPEAN PATRON AND DOCUMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMERCIAL PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "RAVI VARMA",
+          "role": "evidence"
+        },
+        {
+          "text": "ACADEMIC REALISM AND PRINTS",
+          "role": "primary"
+        },
+        {
+          "text": "BENGAL SCHOOL",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONALIST WASH IDIOM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COMPANY → European patron and documentation",
+        "BAZAAR / KALIGHAT → commercial public",
+        "RAVI VARMA → academic realism and prints",
+        "BENGAL SCHOOL → nationalist wash idiom"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COMPANY → European patron and documentation",
+          "RAVI VARMA → academic realism and prints",
+          "COMPANY → European patron and documentation"
+        ],
+        [
+          "BAZAAR / KALIGHAT → commercial public",
+          "BENGAL SCHOOL → nationalist wash idiom",
+          "BAZAAR / KALIGHAT → commercial public"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPANY → European patron and documentation",
+            "BAZAAR / KALIGHAT → commercial public"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAVI VARMA → academic realism and prints",
+            "BENGAL SCHOOL → nationalist wash idiom"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMPANY → European patron and documentation",
+            "BAZAAR / KALIGHAT → commercial public"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RAVI VARMA → academic realism and prints; BENGAL SCHOOL → nationalist wash idiom.",
+      "source_references": [
+        "Company, bazaar and colonial publics",
+        "Ravi Varma and Bengal School",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FOLK-PAINTING DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOLK-PAINTING DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "MITHILA LINE-AND-FILL",
+          "role": "outcome"
+        },
+        {
+          "text": "WHITE GEOMETRIC FIGURES ON EARTH GROUND",
+          "role": "comparison"
+        },
+        {
+          "text": "ODISHA CLOTH OR PALM LEAF",
+          "role": "evidence"
+        },
+        {
+          "text": "NARRATIVE TEXTILE PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "AJANTA IS MORE SAFELY DESCRIBED AS FRESCO SECCO OR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MADHUBANI → Mithila line-and-fill",
+        "WARLI → white geometric figures on earth ground",
+        "PATTACHITRA → Odisha cloth or palm leaf",
+        "KALAMKARI → narrative textile process",
+        "CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MADHUBANI → Mithila line-and-fill",
+          "PATTACHITRA → Odisha cloth or palm leaf",
+          "CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet fresco"
+        ],
+        [
+          "WARLI → white geometric figures on earth ground",
+          "KALAMKARI → narrative textile process",
+          "Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore retain distinct identifiers."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MADHUBANI → Mithila line-and-fill",
+            "WARLI → white geometric figures on earth ground"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PATTACHITRA → Odisha cloth or palm leaf",
+            "KALAMKARI → narrative textile process"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet fresco",
+            "Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore retain distinct identifiers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet fresco; Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore retain distinct identifiers.",
+      "source_references": [
+        "Folk and tribal production systems",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SURVIVAL-BIAS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SURVIVAL-BIAS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SURVIVING OBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "LITERARY REFERENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICE WAS KNOWN",
+          "role": "primary"
+        },
+        {
+          "text": "MISSING WALL",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESERVATION GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT EQUATE SURVIVAL WITH PRODUCTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SURVIVING OBJECT → direct evidence",
+        "LITERARY REFERENCE → practice was known",
+        "MISSING WALL → preservation gap",
+        "VERDICT → do not equate survival with production",
+        "EVIDENCE LIMIT: Survival scarcity does not prove low original production, shared Persianate resources do not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SURVIVING OBJECT → direct evidence",
+            "LITERARY REFERENCE → practice was known"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MISSING WALL → preservation gap",
+            "VERDICT → do not equate survival with production"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Survival scarcity does not prove low original production, shared Persianate resources do not",
+            "make every miniature Mughal, and folk or tribal traditions require region, support, community and function."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → do not equate survival with production.",
+      "source_references": [
+        "Pallava and Chola mural survival",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PAINTING ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PAINTING ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAT AND TECHNIQUE",
+          "role": "outcome"
+        },
+        {
+          "text": "PATRON AND AUDIENCE CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NAMED SCHOOL ON COMMON AXES",
+          "role": "evidence"
+        },
+        {
+          "text": "SURVIVAL, ATTRIBUTION AND CURRENT STATUS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → format and technique",
+        "TRACE → patron and audience change",
+        "COMPARE → named school on common axes",
+        "QUALIFY → survival, attribution and current status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → format and technique",
+            "TRACE → patron and audience change"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → named school on common axes",
+            "QUALIFY → survival, attribution and current status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → format and technique",
+            "TRACE → patron and audience change"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → named school on common axes; QUALIFY → survival, attribution and current status.",
+      "source_references": [
+        "PYQ audit and living institutional link",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NO URGENT CURRENT-STATUS CORRECTION IS REQUIRED FOR THIS TOPIC'S",
+          "role": "caution"
+        },
+        {
+          "text": "TREATING THE PAUCITY OF SURVIVING PALLAVA MURALS AS PROOF",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING MUGHAL MINIATURE PAINTING AS CONTINUOUS WITH, RATHER THAN",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATING THE BENGAL SCHOOL AS MERELY \"TRADITIONAL-STYLE\" PAINTING.",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING MUGHAL, RAJASTHANI, PAHARI AND DECCANI AS ISOLATED ETHNIC",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERN HISTORY OWNS THE SWADESHI MOVEMENT AND THE POLITICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN SOCIETY OWNS THE SOCIO-ECONOMIC CONDITIONS OF PRACTISING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "No urgent current-status correction is required for this topic's core",
+            "NOT: Treating the paucity of surviving Pallava murals as proof mural",
+            "NOT: Treating Mughal miniature painting as continuous with, rather than a",
+            "NOT: Treating the Bengal School as merely \"traditional-style\" painting."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating Mughal, Rajasthani, Pahari and Deccani as isolated ethnic",
+            "NOT: Modern History owns the Swadeshi movement and the political",
+            "NOT: Indian Society owns the socio-economic conditions of practising",
+            "This file's format-patronage method is reusable wherever another"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Foundation companion: basic/07 Painting-Traditions.md.",
+            "00 Master-Framework.md Section 4 — the evidence hierarchy, applied",
+            "CAUTION: Cross-links: Topic 03 (Pallava/Chola mural evidence supporting",
+            "Verified against Nitin — pdf , PDF pp. 309-377 directly (chapter"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

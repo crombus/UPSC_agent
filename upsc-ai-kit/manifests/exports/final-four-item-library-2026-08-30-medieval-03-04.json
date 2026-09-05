@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T03:55:32+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b9d4dfe9ac0ff8bb6640d85f69d6fb3659b4adb70f60c2f16b328beb6a2fe6ec",
+    "sha256_after": "b9d4dfe9ac0ff8bb6640d85f69d6fb3659b4adb70f60c2f16b328beb6a2fe6ec",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 2,
+  "subjects": {
+    "Medieval History": 2
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 2
+  },
+  "library_totals": {
+    "file_count": 2963,
+    "pdf_count": 897,
+    "png_count": 483,
+    "txt_count": 410,
+    "markdown_count": 386,
+    "json_count": 772,
+    "total_bytes": 1740864523,
+    "by_extension": {
+      ".json": 772,
+      ".md": 386,
+      ".pdf": 897,
+      ".png": 483,
+      ".txt": 410,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-03",
+      "topic_title": "Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 3,
+      "source_record_id": "medieval-indian-history-03:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-03\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "93b8a587c3c7c533a5d2b4ab47086bfc5a02c9eb72c833971f260bb038ed558b",
+          "output_sha256": "93b8a587c3c7c533a5d2b4ab47086bfc5a02c9eb72c833971f260bb038ed558b",
+          "source_output_equal": true,
+          "bytes": 729283
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-03\\medieval-indian-history-03_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6308296e0c032510d94b12f48269c0bb7727e31cef159b33e825cbfdb2711a9b",
+          "output_sha256": "6308296e0c032510d94b12f48269c0bb7727e31cef159b33e825cbfdb2711a9b",
+          "source_output_equal": true,
+          "bytes": 535002
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-03\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "a8839407d6427e16a01476e41402e05eebf50c0ff35a11e17c592c949e3eb754",
+          "output_sha256": "a8839407d6427e16a01476e41402e05eebf50c0ff35a11e17c592c949e3eb754",
+          "source_output_equal": true,
+          "bytes": 2244171
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-03\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "b974d71aedef9ed79d9343b8af788b5f0ad791e22fa139cc2b7342f0afe6ee27",
+          "output_sha256": "b974d71aedef9ed79d9343b8af788b5f0ad791e22fa139cc2b7342f0afe6ee27",
+          "source_output_equal": true,
+          "bytes": 2554730
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-03\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "d9ec84738919d24d836a646a295042978dfc3ee24dacb8f6387984c648234d6a",
+          "output_sha256": "d9ec84738919d24d836a646a295042978dfc3ee24dacb8f6387984c648234d6a",
+          "source_output_equal": true,
+          "bytes": 1992904
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-03\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "6cdc04b93c65e3bfa05b0b2dba88cd2e22c65ebcd77a9d0993e1cc664d9791ed",
+          "output_sha256": "6cdc04b93c65e3bfa05b0b2dba88cd2e22c65ebcd77a9d0993e1cc664d9791ed",
+          "source_output_equal": true,
+          "bytes": 4910
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-03\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\03-Foundation-of-the-Delhi-Sultanate-The-Slave-Mamluk-Dynasty\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "6cdc04b93c65e3bfa05b0b2dba88cd2e22c65ebcd77a9d0993e1cc664d9791ed",
+          "output_sha256": "56eeccbba9ef3d42e974a268769bfc0441d89b39fb9647b6c6b2825eed8a3765",
+          "normalized_text_equal": true,
+          "bytes": 57304
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 9,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 76,
+        "solved_practice_workbook": 28,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 76,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11286
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "medieval-indian-history-04",
+      "topic_title": "The Khaljis: Alauddin Khalji & Market Reforms",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 4,
+      "source_record_id": "medieval-indian-history-04:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-04\\medieval-indian-history-04_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "28b7194e214877b87c7b7f6528bfd32e772cd0e4b0c9e1c00e2d4c5845b1f259",
+          "output_sha256": "28b7194e214877b87c7b7f6528bfd32e772cd0e4b0c9e1c00e2d4c5845b1f259",
+          "source_output_equal": true,
+          "bytes": 2897111
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-04\\medieval-indian-history-04_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6c167368224619c6acdb25ae3b1a0438491f44cb916678180abd5b642d133671",
+          "output_sha256": "6c167368224619c6acdb25ae3b1a0438491f44cb916678180abd5b642d133671",
+          "source_output_equal": true,
+          "bytes": 545368
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-04\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "56879320308d1648f9146b85dbdfeaa547d4ec3b34b0d5b3f0c153c208a68ce5",
+          "output_sha256": "56879320308d1648f9146b85dbdfeaa547d4ec3b34b0d5b3f0c153c208a68ce5",
+          "source_output_equal": true,
+          "bytes": 2151590
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-04\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "38364d2206ab6b12eddcdb564587c7f4c2d84a4473cc959e4b8a710f104ee088",
+          "output_sha256": "38364d2206ab6b12eddcdb564587c7f4c2d84a4473cc959e4b8a710f104ee088",
+          "source_output_equal": true,
+          "bytes": 2609041
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-04\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "4bbf05dc6529945e34a460fd0b99a5d30feb2748f44e5985c7f7d23372770d84",
+          "output_sha256": "4bbf05dc6529945e34a460fd0b99a5d30feb2748f44e5985c7f7d23372770d84",
+          "source_output_equal": true,
+          "bytes": 1915505
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-04\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "d0f85370f75daa691c2976757cd88f1f00b2a1faac6b62da6fec4ef7ce35449d",
+          "output_sha256": "d0f85370f75daa691c2976757cd88f1f00b2a1faac6b62da6fec4ef7ce35449d",
+          "source_output_equal": true,
+          "bytes": 4877
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-04\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "d0f85370f75daa691c2976757cd88f1f00b2a1faac6b62da6fec4ef7ce35449d",
+          "output_sha256": "b3fa636ea11295d3701c766b5786d8062a347d0db8a51f98da4d8600968c3528",
+          "normalized_text_equal": true,
+          "bytes": 57263
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 9,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 78,
+        "solved_practice_workbook": 21,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10792
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

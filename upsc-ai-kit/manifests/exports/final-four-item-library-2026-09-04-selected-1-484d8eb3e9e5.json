@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T14:56:19+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "ae2f8b051ae87a233ad95f2c9cc49a1b04767c23c347e81dc1dad0494933b42a",
+    "sha256_after": "ae2f8b051ae87a233ad95f2c9cc49a1b04767c23c347e81dc1dad0494933b42a",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Indian Art and Culture": 1
+  },
+  "sections": {
+    "Indian Art and Culture — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9809,
+    "pdf_count": 2417,
+    "png_count": 787,
+    "txt_count": 1018,
+    "markdown_count": 1628,
+    "json_count": 3944,
+    "total_bytes": 4241858951,
+    "by_extension": {
+      ".json": 3944,
+      ".md": 1628,
+      ".pdf": 2417,
+      ".png": 787,
+      ".txt": 1018,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-02",
+      "topic_title": "Mauryan, Buddhist, Jain and Rock-Cut Heritage",
+      "subject": "Indian Art and Culture",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 2,
+      "source_record_id": "indian-art-and-culture-02:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a6e868522dd5e99844a2141438fd69c69ec82e7f81fb4d824d377aa56271dced",
+          "output_sha256": "a6e868522dd5e99844a2141438fd69c69ec82e7f81fb4d824d377aa56271dced",
+          "source_output_equal": true,
+          "bytes": 605708
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "f156cb06241b768ad08ea4602aacd024833f136bf4b9f24b2a725685f675687a",
+          "output_sha256": "f156cb06241b768ad08ea4602aacd024833f136bf4b9f24b2a725685f675687a",
+          "source_output_equal": true,
+          "bytes": 432504
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-02\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "fd5af8978780691efb9f3107b355255251dbbf581b335528117a70c5235e2433",
+          "output_sha256": "fd5af8978780691efb9f3107b355255251dbbf581b335528117a70c5235e2433",
+          "source_output_equal": true,
+          "bytes": 1824244
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-02\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c44b115f631e394d3b0096c1800d402398b589173a2f5fcea5e3cca9ffc7ed3b",
+          "output_sha256": "c44b115f631e394d3b0096c1800d402398b589173a2f5fcea5e3cca9ffc7ed3b",
+          "source_output_equal": true,
+          "bytes": 2199698
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-02\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "708f71fbacfa85eabdc9d31ef78743b97a0f5d92888ece0e86bc9620bc039fd0",
+          "output_sha256": "708f71fbacfa85eabdc9d31ef78743b97a0f5d92888ece0e86bc9620bc039fd0",
+          "source_output_equal": true,
+          "bytes": 1616695
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-02\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a13f66c96646541c5909ab74e892e46154ecc184df743b1303eeee8774e9d13e",
+          "output_sha256": "a13f66c96646541c5909ab74e892e46154ecc184df743b1303eeee8774e9d13e",
+          "source_output_equal": true,
+          "bytes": 3857
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-02\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\02-Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "98d469f9b4cf0effe5ab3aa89c5a29cff05199f2f81ddd5f00822037d61a8179",
+          "output_sha256": "98d469f9b4cf0effe5ab3aa89c5a29cff05199f2f81ddd5f00822037d61a8179",
+          "source_output_equal": true,
+          "source_text_sha256": "a13f66c96646541c5909ab74e892e46154ecc184df743b1303eeee8774e9d13e",
+          "normalized_text_equal": true,
+          "bytes": 56008
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 45,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 78,
+        "solved_practice_workbook": 32,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 32,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10672
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

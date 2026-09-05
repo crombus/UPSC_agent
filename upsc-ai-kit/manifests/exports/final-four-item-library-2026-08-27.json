@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-27T18:48:23+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "6732823b98b2cc926317661953887acf1cf3a467c3a5810edea4d5e8886e999a",
+    "sha256_after": "6732823b98b2cc926317661953887acf1cf3a467c3a5810edea4d5e8886e999a",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Polity": 1
+  },
+  "sections": {
+    "Polity — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 1042,
+    "pdf_count": 545,
+    "png_count": 196,
+    "txt_count": 219,
+    "markdown_count": 49,
+    "json_count": 18,
+    "total_bytes": 1069130964,
+    "by_extension": {
+      ".json": 18,
+      ".md": 49,
+      ".pdf": 545,
+      ".png": 196,
+      ".txt": 219,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "polity-02",
+      "topic_title": "Making of the Constitution",
+      "subject": "Polity",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 2,
+      "source_record_id": "polity-02:learner-v2:g17",
+      "source_generation": 17,
+      "destination_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "ed3f99f67b563439876f09e0d343e112f9fc8feb41cdf74ef9958340af9dbf59",
+          "output_sha256": "ed3f99f67b563439876f09e0d343e112f9fc8feb41cdf74ef9958340af9dbf59",
+          "source_output_equal": true,
+          "bytes": 1964561
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Solved-Practice-Workbook_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "507d7688186b2d86b1ba81bc5b87216daac7b5b90db1f9274a60e6939253ef09",
+          "output_sha256": "507d7688186b2d86b1ba81bc5b87216daac7b5b90db1f9274a60e6939253ef09",
+          "source_output_equal": true,
+          "bytes": 438841
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "f05c61e9ca87171e03c431ee1e079ffedba68f42d444189532308ff1c92b3b73",
+          "output_sha256": "f05c61e9ca87171e03c431ee1e079ffedba68f42d444189532308ff1c92b3b73",
+          "source_output_equal": true,
+          "bytes": 2380636
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "529365b994e52753f22682bb04fbf5a6ebdcae6f56b686792a079572757a6c06",
+          "output_sha256": "529365b994e52753f22682bb04fbf5a6ebdcae6f56b686792a079572757a6c06",
+          "source_output_equal": true,
+          "bytes": 2967892
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9a6bb1a62cc6bb5076c7b9ace336fe97094784bd9bd3001672ada741d70049ea",
+          "output_sha256": "9a6bb1a62cc6bb5076c7b9ace336fe97094784bd9bd3001672ada741d70049ea",
+          "source_output_equal": true,
+          "bytes": 2121286
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "e67e77fe6f78511213f72a6cf418842b7118145f7a35c9861f50bfd044b77717",
+          "output_sha256": "e67e77fe6f78511213f72a6cf418842b7118145f7a35c9861f50bfd044b77717",
+          "source_output_equal": true,
+          "bytes": 7628
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\02-Making-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "e67e77fe6f78511213f72a6cf418842b7118145f7a35c9861f50bfd044b77717",
+          "output_sha256": "aa58bf2a1ae465896e39dadefa6c354fb6f2783b3886848e12d79bfcf564dd4a",
+          "normalized_text_equal": true,
+          "bytes": 57483
+        }
+      },
+      "ascii": {
+        "text_panel_count": 10,
+        "pdf_panel_count": 10,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 17,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 14,
+            "maximum_line_characters": 103,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 15,
+            "maximum_line_characters": 106,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 15,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 16,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 14,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 13,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 13,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 19,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 74,
+        "solved_practice_workbook": 18,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 10
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 74,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 18,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 10,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10502
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

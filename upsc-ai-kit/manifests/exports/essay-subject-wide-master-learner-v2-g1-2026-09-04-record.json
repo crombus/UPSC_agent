@@ -1,0 +1,53 @@
+{
+  "record_id": "essay-subject-wide-master:learner-v2:g1",
+  "topic_key": "essay-subject-wide-master",
+  "subject": "Essay",
+  "section": "Subject-Wide-Syllabus",
+  "title": "Complete Essay Subject-Wide Guide, PYQs and Practice",
+  "variant": "learner-v2",
+  "generation": 1,
+  "command": "Generate Essay subject-wide master package",
+  "main_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\master\\g1\\Essay_Complete-Subject-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Essay\\Subject-Wide-Syllabus\\master\\g1\\Essay_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\master\\g1\\Essay_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\master\\Essay_Complete-Subject-Guide-and-Solved-PYQs.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\master\\Essay_Subject-Wide-Practice-Workbook.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\master\\Essay_Subject-Wide-Practice-Solutions.md",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "format": {
+    "name": "essay-subject-wide-master-v1",
+    "knowledge_topics": 16,
+    "solved_pyqs": 100,
+    "practice_topics": 132,
+    "practice_solutions": 132,
+    "learning_sessions": 0,
+    "mcqs": 0,
+    "guide_pages": 211,
+    "workbook_pages": 20,
+    "solutions_pages": 133,
+    "guide_bookmarks": 0,
+    "workbook_bookmarks": 0,
+    "solutions_bookmarks": 0
+  },
+  "provenance": {
+    "source_manifest": "upsc-ai-kit\\manifests\\v2\\essay--subject-wide-syllabus.json",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Essay\\PYQ-Corpus-2013-2025.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\master\\Essay_Complete-Subject-Guide-and-Solved-PYQs.md": "5c4a88edcfbc8b6347f1181bad6bfb2f9af1f482e0bc20c26c107f855e2a5db4",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\master\\Essay_Subject-Wide-Practice-Workbook.md": "92387bd013d75b08f16978d48de5aa90fcd4d5cca538eb754356f5210001d809",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\master\\Essay_Subject-Wide-Practice-Solutions.md": "0fbf57cbc574d2d5c1628b3fc6357e954bc99d4a93674bc29000366e43409d04"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "essay-subject-wide-master:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "tools/publish_essay_master_package.py"
+  },
+  "refresh_profile": "essay-subject-wide-master-v1"
+}

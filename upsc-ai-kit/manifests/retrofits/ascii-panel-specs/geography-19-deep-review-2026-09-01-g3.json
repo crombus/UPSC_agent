@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-19",
+      "display_title": "Mediterranean Climate",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Five-region world map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "MEDITERRANEAN BASIN -> largest expression",
+            "CALIFORNIA + CENTRAL CHILE -> west coasts",
+            "CAPE -> south-west South Africa",
+            "SW / SOUTH AUSTRALIA -> fifth region",
+            "MUST REMEMBER: Mediterranean Cs climate results from summer subtropical-high subsidence and",
+            "  winter westerly cyclone/frontal rain on western margins, supporting sclerophyll vegetation,",
+            "  winter cereals, vines, olives and high summer fire risk."
+          ],
+          "source_references": [
+            "Cs western-margin map",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Seasonal pressure switch",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "SUMMER -> subtropical high shifts poleward",
+            "SUBSIDENCE -> clear sky and drought",
+            "WINTER -> westerlies shift equatorward",
+            "DEPRESSIONS -> frontal rain arrives"
+          ],
+          "source_references": [
+            "Summer subtropical high",
+            "Winter westerly rain",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Climate identity firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEDITERRANEAN -> summer dry / winter wet",
+            "MONSOON -> summer wet / winter drier",
+            "EASTERN MARGIN -> rain through much of year",
+            "RULE -> rainfall season outranks latitude alone"
+          ],
+          "source_references": [
+            "Summer-dry winter-wet identity",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Local-wind matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SIROCCO -> hot, dusty, Sahara origin",
+            "MISTRAL -> cold, Rhone-valley outflow",
+            "BORA -> cold, Adriatic downslope wind",
+            "TRAP -> local Mediterranean winds are not all hot"
+          ],
+          "source_references": [
+            "Sirocco, Mistral and Bora",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Sclerophyll design",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "LEAF -> small, hard, waxy or leathery",
+            "ROOT -> deep access to stored moisture",
+            "BARK -> drought and fire protection",
+            "STRUCTURE -> scrub or open woodland"
+          ],
+          "source_references": [
+            "Sclerophyll adaptations",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Regional scrub names",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "MAQUIS -> Mediterranean basin",
+            "CHAPARRAL -> California",
+            "MALLEE -> Australia",
+            "FORM CONVERGES -> species remain regional"
+          ],
+          "source_references": [
+            "Maquis, chaparral and mallee",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Growth-season calendar",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "AUTUMN -> rain returns after drought",
+            "WINTER -> moisture but cooler growth",
+            "SPRING -> best moisture-temperature overlap",
+            "SUMMER -> drought and fire stress"
+          ],
+          "source_references": [
+            "Seasonal growth rhythm",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Agricultural system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WINTER RAIN -> cereals and soil recharge",
+            "DEEP-ROOTED TREES -> survive dry summer",
+            "SUN + IRRIGATION -> fruit and vegetables",
+            "MARKETS -> high-value export horticulture"
+          ],
+          "source_references": [
+            "Orchards and irrigated horticulture",
+            "Winter cereals and viticulture",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Wildfire chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "WET SEASON -> biomass and fine fuel",
+            "SUMMER DROUGHT -> fuel desiccation",
+            "HEAT + WIND + IGNITION -> rapid spread",
+            "LAND MANAGEMENT -> exposure and recovery"
+          ],
+          "source_references": [
+            "Wildfire geography",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India analogue map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "KASHMIR -> temperate fruit valleys",
+            "HIMACHAL -> Kullu and Shimla apple belts",
+            "UTTARAKHAND -> suitable hill orchards",
+            "MAHARASHTRA -> grape belt, not Cs climate",
+            "CLOSE DISTINCTION: Mediterranean climate is not confined to the Mediterranean Basin, winter",
+            "  rainfall is not monsoonal reversal, and chaparral, maquis, fynbos and mallee are regional",
+            "  analogues rather than identical floras."
+          ],
+          "source_references": [
+            "India analogue boundary",
+            "Himalayan fruit regions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Apple viability ladder",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "WINTER CHILL -> cultivar-specific dormancy",
+            "SITE -> frost, hail, aspect and water",
+            "HARVEST -> grading and storage",
+            "MARKET -> roads, cold chain and timing",
+            "EVIDENCE LIMIT: Fire is climate-enabled but ignition, fuel management and settlement shape",
+            "  disaster; Himalayan fruit belts share horticultural traits but not the complete",
+            "  Mediterranean circulation regime."
+          ],
+          "source_references": [
+            "Chilling, perishability and grapes",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Mediterranean answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LOCATE -> western margins at 30-45 degrees",
+            "DERIVE -> summer high / winter westerlies",
+            "LINK -> sclerophyll, crops and fire",
+            "QUALIFY -> India is an orchard analogue only"
+          ],
+          "source_references": [
+            "ICAR adaptation and PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

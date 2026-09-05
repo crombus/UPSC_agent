@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-18",
+  "title": "Liberty, Equality and Property",
+  "generation": 4,
+  "generation_date": "2026-08-30",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "political-theory-18:learner-v2:g2",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Political-Theory\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\18_Liberty-Equality-and-Property.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\18_Liberty-Equality-and-Property.md",
+  "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "learning_contract": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "All 28 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 28 solved items lack explicit directive-and-demand decoding.",
+    "All 28 solved items lack an executable mark-scaled compression plan.",
+    "13 solved item(s) lack `Why this earns marks`: Solved PYQ 2 - 2019 Q1(a), 10 marks; Solved PYQ 4 - 2020 Q1(a), 10 marks; Solved PYQ 5 - 2021 Q1(a), 10 marks; Solved PYQ 6 - 2021 Q1(b), 10 marks",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\topic-18_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\topic-18_Solved-Practice-Workbook_2026-08-30.md"
+}

@@ -1,0 +1,1264 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-11",
+  "subject": "International-Relations",
+  "title": "GLOBALISATION, TRADE AGREEMENTS AND EXTERNAL-POLICY EFFECTS",
+  "short_route": "CENTRAL QUESTION AND THE → THREE TRANSMISSION CHANNELS INTO → HOW THE TRADE ORGANISATION → MINISTERIAL CYCLE AND THE → THE APPELLATE VOID AND → ONE AGREEMENT, THREE LEGAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-11-deep-review-2026-09-03-g3.json",
+  "ascii_spec_sha256": "f2b0825f987cb2be9f9d5caabe488ef3579a6e1374600336b131396fd3eb056e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL QUESTION AND THE CO-PRESENCE ANSWER",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL QUESTION AND THE CO-PRESENCE ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "HAS GLOBALISATION ENDED OR IS IT BEING CONTESTED?",
+          "role": "outcome"
+        },
+        {
+          "text": "WANING, NOT ENDED; INTEGRATION AND CONTROL OPERATE TOGETHER",
+          "role": "caution"
+        },
+        {
+          "text": "TRADE, CAPITAL, TECHNOLOGY AND INFORMATION INTEGRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGN NATIONALISM",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL CONTROL OVER TRADE, TECHNOLOGY, BORDERS AND STRATEGIC INDUSTRIES",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTIONISM, EXPORT CONTROLS, BUY-NATIONAL POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "CO-PRESENT FORCES OF DIFFERING STRENGTH ACROSS SECTORS AND STATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → has globalisation ended or is it being contested?",
+        "ANSWER → waning, not ended; integration and control operate together",
+        "GLOBALISATION → trade, capital, technology and information integration",
+        "SOVEREIGN NATIONALISM → national control over trade, technology, borders and strategic industries: protectionism, export controls",
+        "RELATION → co-present forces of differing strength across sectors and states"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → has globalisation ended or is it being contested?",
+            "ANSWER → waning, not ended; integration and control operate together",
+            "GLOBALISATION → trade, capital, technology and information integration"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOVEREIGN NATIONALISM → national control over trade, technology, borders and strategic industries: protectionism, export controls, buy-national policy",
+            "RELATION → co-present forces of differing strength across sectors and states",
+            "PYQ WORDING → the 2025 demand itself says waning, never ended"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → tariff and balance-of-payments mechanics to Economy",
+            "de-risking detail to topic 03; the organisation's full structure to topic 12",
+            "MUST REMEMBER: Globalisation and trade agreements transmit tariffs, services rules,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Globalisation and trade agreements transmit tariffs, services rules,.",
+      "source_references": [
+        "What this external-effects owner holds and how its boundaries are routed",
+        "Co-presence rather than succession as the governing frame",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE TRANSMISSION CHANNELS INTO INDIAN INTERESTS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE TRANSMISSION CHANNELS INTO INDIAN INTERESTS",
+          "role": "primary"
+        },
+        {
+          "text": "TRADE CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "STALLED MULTILATERAL LIBERALISATION MIGRATION OF LIBERALISATION INTO BILATERAL AND",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGY CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPORT CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "INVESTMENT SCREENING",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE CHANNEL",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBON-BORDER MEASURES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRADE CHANNEL → protectionism",
+        "stalled multilateral liberalisation migration of liberalisation into bilateral and plurilateral agreements",
+        "TECHNOLOGY CHANNEL → export controls",
+        "investment screening",
+        "CLIMATE CHANNEL → carbon-border measures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TRADE CHANNEL → protectionism",
+            "stalled multilateral liberalisation migration of liberalisation into bilateral and plurilateral agreements",
+            "TECHNOLOGY CHANNEL → export controls",
+            "investment screening"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLIMATE CHANNEL → carbon-border measures",
+            "green-subsidy competition",
+            "COMBINED INSTRUMENT → one measure can be trade, industrial policy and climate",
+            "INDIA AS BENEFICIARY → diversification interest, owned in detail by topic 03"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "INDIA AS TARGET → others' tariffs and carbon-border measures",
+            "RULE → name the channel before describing the effect"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → name the channel before describing the effect.",
+      "source_references": [
+        "The three transmission channels that carry the shift to India",
+        "What this external-effects owner holds and how its boundaries are routed",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HOW THE TRADE ORGANISATION IS ACTUALLY BUILT",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HOW THE TRADE ORGANISATION IS ACTUALLY BUILT",
+          "role": "primary"
+        },
+        {
+          "text": "RUN BY MEMBER GOVERNMENTS; NO DELEGATED BOARD OR HEAD",
+          "role": "caution"
+        },
+        {
+          "text": "MINISTERIAL CONFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "TOPMOST BODY; MEETS AT LEAST ONCE EVERY TWO YEARS",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERAL COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "THE SAME BODY IN THREE GUISES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISPUTE SETTLEMENT BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE POLICY REVIEW BODY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEMBER-DRIVEN → run by member governments; no delegated board or head",
+        "MINISTERIAL CONFERENCE → topmost body; meets at least once every two years",
+        "GENERAL COUNCIL → the same body in three guises",
+        "General Council",
+        "Dispute Settlement Body"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "MEMBER-DRIVEN → run by member governments; no delegated board or head",
+            "MINISTERIAL CONFERENCE → topmost body; meets at least once every two years",
+            "GENERAL COUNCIL → the same body in three guises",
+            "General Council"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Dispute Settlement Body",
+            "Trade Policy Review Body",
+            "SECTOR COUNCILS → Goods",
+            "Trade-Related Intellectual Property"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "DECISION RULE → normally by consensus among the whole membership",
+            "ENFORCEMENT → by members themselves; sanctions authorised by the membership",
+            "FOUNDED 1995 → India a founding member",
+            "VERDICT → weakened in negotiation, not irrelevant in rules and disputes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → weakened in negotiation, not irrelevant in rules and disputes.",
+      "source_references": [
+        "What the trade organisation is and how it actually decides",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MINISTERIAL CYCLE AND THE CONSENSUS CHOKEPOINT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MINISTERIAL CYCLE AND THE CONSENSUS CHOKEPOINT",
+          "role": "mechanism"
+        },
+        {
+          "text": "26 FEBRUARY - 2 MARCH 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "MC13, ABU DHABI; ABU DHABI MINISTERIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DECLARATION; DECISIONS ON DISPUTE-SETTLEMENT REFORM, SPECIAL AND DIFFERENTIAL TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "26 MARCH 2026",
+          "role": "primary"
+        },
+        {
+          "text": "MC14 OPENS AT YAOUNDE; FOUNDATIONAL-ISSUES BREAKOUT",
+          "role": "outcome"
+        },
+        {
+          "text": "27 MARCH 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTER-FACILITATED REFORM BREAKOUTS AND REFORM PLENARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "26 FEBRUARY - 2 MARCH 2024 → MC13, Abu Dhabi; Abu Dhabi Ministerial",
+        "Declaration; decisions on dispute-settlement reform, special and differential treatment, LDC graduation and electronic commerce",
+        "26 MARCH 2026 → MC14 opens at Yaounde; foundational-issues breakout",
+        "27 MARCH 2026 → minister-facilitated reform breakouts and reform plenary",
+        "THIRD DAY → dispute-settlement reform update; ministerial sessions on fisheries subsidies, Investment Facilitation for Development"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "26 FEBRUARY - 2 MARCH 2024 → MC13, Abu Dhabi; Abu Dhabi Ministerial",
+            "Declaration; decisions on dispute-settlement reform, special and differential treatment, LDC graduation and electronic commerce",
+            "26 MARCH 2026 → MC14 opens at Yaounde; foundational-issues breakout"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "27 MARCH 2026 → minister-facilitated reform breakouts and reform plenary",
+            "THIRD DAY → dispute-settlement reform update; ministerial sessions on fisheries subsidies, Investment Facilitation for Development incorporation,",
+            "E-commerce Work Programme and moratorium, agriculture, development and LDCs"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "30 MARCH 2026 → Heads of Delegation meeting and closing session",
+            "CHOKEPOINT → 165 of 166 supported incorporation; consensus absent; it failed",
+            "LESSON → the veto point is procedural, never majoritarian"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → the veto point is procedural, never majoritarian.",
+      "source_references": [
+        "The ministerial cycle and what the fourteenth conference actually did",
+        "Consensus as the veto point that near-unanimity cannot overcome",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE APPELLATE VOID AND INDIA'S OWN NOTIFIED APPEALS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE APPELLATE VOID AND INDIA'S OWN NOTIFIED APPEALS",
+          "role": "primary"
+        },
+        {
+          "text": "10 DECEMBER 2019",
+          "role": "outcome"
+        },
+        {
+          "text": "APPELLATE BODY LOSES ITS QUORUM FOR NEW APPEALS",
+          "role": "comparison"
+        },
+        {
+          "text": "30 NOVEMBER 2020",
+          "role": "evidence"
+        },
+        {
+          "text": "ZERO MEMBERS; APPEALS CAN BE FILED INTO THE VOID",
+          "role": "primary"
+        },
+        {
+          "text": "INTERIM APPEAL ARBITRATION UNDER DSU ARTICLE 25; INDIA NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CURRENT NOTIFIED APPEALS INVOLVING INDIA, AS LISTED BY THE",
+          "role": "comparison"
+        },
+        {
+          "text": "24 DECEMBER 2021",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 DECEMBER 2019 → Appellate Body loses its quorum for new appeals",
+        "30 NOVEMBER 2020 → zero members; appeals can be filed into the void",
+        "MPIA → interim appeal arbitration under DSU Article 25; India not a participant",
+        "CURRENT NOTIFIED APPEALS INVOLVING INDIA, AS LISTED BY THE ORGANISATION",
+        "24 December 2021 → DS579 sugar and sugarcane (Brazil)"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "10 DECEMBER 2019 → Appellate Body loses its quorum for new appeals",
+          "24 December 2021 → DS579 sugar and sugarcane (Brazil)",
+          "8 December 2023 → DS582 tariff treatment, ICT sector"
+        ],
+        [
+          "30 NOVEMBER 2020 → zero members; appeals can be filed into the void",
+          "24 December 2021 → DS580 sugar and sugarcane (Australia)",
+          "COST → two-sided: no binding appellate review for India either"
+        ],
+        [
+          "MPIA → interim appeal arbitration under DSU Article 25; India not a participant",
+          "24 December 2021 → DS581 sugar and sugarcane (Guatemala)",
+          ""
+        ],
+        [
+          "CURRENT NOTIFIED APPEALS INVOLVING INDIA, AS LISTED BY THE ORGANISATION",
+          "17 May 2023 → DS584 tariff treatment on certain goods (Japan)",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "10 DECEMBER 2019 → Appellate Body loses its quorum for new appeals",
+            "30 NOVEMBER 2020 → zero members; appeals can be filed into the void",
+            "MPIA → interim appeal arbitration under DSU Article 25; India not a participant",
+            "CURRENT NOTIFIED APPEALS INVOLVING INDIA, AS LISTED BY THE ORGANISATION"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "24 December 2021 → DS579 sugar and sugarcane (Brazil)",
+            "24 December 2021 → DS580 sugar and sugarcane (Australia)",
+            "24 December 2021 → DS581 sugar and sugarcane (Guatemala)",
+            "17 May 2023 → DS584 tariff treatment on certain goods (Japan)"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "8 December 2023 → DS582 tariff treatment, ICT sector",
+            "COST → two-sided: no binding appellate review for India either"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST → two-sided: no binding appellate review for India either.",
+      "source_references": [
+        "Appeals into the void and the two-sided cost of a paralysed appellate stage",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ONE AGREEMENT, THREE LEGAL STEPS, THREE DATES",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ONE AGREEMENT, THREE LEGAL STEPS, THREE DATES",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1 ADOPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "AGREEMENT ON FISHERIES SUBSIDIES ADOPTED AT MC12",
+          "role": "comparison"
+        },
+        {
+          "text": "17 JUNE 2022; PROHIBITS HARMFUL FISHERIES SUBSIDIES FIRST AGREEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST BROAD BINDING MULTILATERAL AGREEMENT ON OCEAN SUSTAINABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "ONLY THE SECOND MULTILATERAL AGREEMENT REACHED SINCE ITS INCEPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "STEP 2 ENTRY INTO FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ON TWO-THIRDS ACCEPTANCE; THRESHOLD REACHED AT A CEREMONY ON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 ADOPTION → Agreement on Fisheries Subsidies adopted at MC12",
+        "17 June 2022; prohibits harmful fisheries subsidies first agreement of the organisation to focus on",
+        "first broad binding multilateral agreement on ocean sustainability",
+        "only the second multilateral agreement reached since its inception",
+        "STEP 2 ENTRY INTO FORCE → on two-thirds acceptance; threshold reached at a ceremony on"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "STEP 1 ADOPTION → Agreement on Fisheries Subsidies adopted at MC12,",
+            "17 June 2022; prohibits harmful fisheries subsidies first agreement of the organisation to focus on the environment",
+            "first broad binding multilateral agreement on ocean sustainability"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "only the second multilateral agreement reached since its inception",
+            "STEP 2 ENTRY INTO FORCE → on two-thirds acceptance; threshold reached at a ceremony on 15 September 2025",
+            "STEP 3 INDIVIDUAL ACCEPTANCE → India deposits its instrument, 20 July 2026"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "MANDATE → MC11 Buenos Aires Ministerial Decision and SDG 14.6",
+            "CONTINUING → additional provisions under the Negotiating Group on Rules"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTINUING → additional provisions under the Negotiating Group on Rules.",
+      "source_references": [
+        "The fisheries agreement as the clean adoption-to-acceptance sequence",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AGRICULTURE AND THE REFORM DEMAND INDIA ACTUALLY MAKES",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AGRICULTURE AND THE REFORM DEMAND INDIA ACTUALLY MAKES",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC-STOCKHOLDING PROCUREMENT COLLIDES WITH DOMESTIC-SUPPORT RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 2013 BALI PEACE CLAUSE SHIELDS ELIGIBLE PROGRAMMES FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SHIELD CARRIES NOTIFICATION AND PROGRAMME CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERIM PROTECTION IS NOT THE PERMANENT SETTLEMENT INDIA SEEKS",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA'S DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESERVE PUBLIC STOCKHOLDING AND SPECIAL AND DIFFERENTIAL TREATMENT WHILE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCER SUPPORT, CONSUMER FOOD SECURITY AND EXPORT EFFECTS TOGETHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → public-stockholding procurement collides with domestic-support rules",
+        "RESPONSE: the 2013 Bali peace clause shields eligible programmes from specified legal challenge while a",
+        "LIMIT → the shield carries notification and programme conditions",
+        "LIMIT → interim protection is not the permanent settlement India seeks",
+        "INDIA'S DEMAND → preserve public stockholding and special and differential treatment while improving subsidy and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PROBLEM → public-stockholding procurement collides with domestic-support rules",
+            "RESPONSE: the 2013 Bali peace clause shields eligible programmes from specified legal challenge while a permanent solution is negotiated",
+            "LIMIT → the shield carries notification and programme conditions"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → interim protection is not the permanent settlement India seeks",
+            "INDIA'S DEMAND → preserve public stockholding and special and differential treatment while improving subsidy and market-access rules",
+            "BALANCE → producer support, consumer food security and export effects together"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "DIAGNOSIS → reform here is distributive, not merely procedural"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → reform here is distributive, not merely procedural.",
+      "source_references": [
+        "Agriculture, public stockholding and the reform demand India actually makes",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE LEGAL-STAGE LADDER FOR INDIA'S AGREEMENTS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE LEGAL-STAGE LADDER FOR INDIA'S AGREEMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "IN FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-UAE CEPA, 1 MAY 2022",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-AUSTRALIA ECTA, 29 DECEMBER 2022",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-EFTA TEPA, SIGNED 10 MARCH 2024, IN FORCE 1",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-UK CETA, SIGNED LONDON 24 JULY 2025, IN FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "DOUBLE CONTRIBUTIONS CONVENTION IN FORCE THE SAME DAY; UP",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-OMAN CEPA, 18 DECEMBER 2025; INDIA-NEW ZEALAND, 27 APRIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IN FORCE → India-UAE CEPA, 1 May 2022",
+        "IN FORCE → India-Australia ECTA, 29 December 2022",
+        "IN FORCE → India-EFTA TEPA, signed 10 March 2024, in force 1 October 2025",
+        "IN FORCE → India-UK CETA, signed London 24 July 2025, in force 15 July 2026",
+        "Double Contributions Convention in force the same day; up to 60 months of home-country social-security"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "IN FORCE → India-UAE CEPA, 1 May 2022",
+          "Double Contributions Convention in force the same day; up to 60 months of home-country social-security coverage for detached workers",
+          "NEITHER → India-United States: interim framework and continuing negotiation"
+        ],
+        [
+          "IN FORCE → India-Australia ECTA, 29 December 2022",
+          "SIGNED → India-Oman CEPA, 18 December 2025; India-New Zealand, 27 April 2026",
+          "RULE → concluded, signed, ratified and in force are four different claims"
+        ],
+        [
+          "IN FORCE → India-EFTA TEPA, signed 10 March 2024, in force 1 October 2025",
+          "CONCLUDED → India-Chile CEPA, 5 December 2025",
+          ""
+        ],
+        [
+          "IN FORCE → India-UK CETA, signed London 24 July 2025, in force 15 July 2026",
+          "CONCLUDED ONLY → India-EU FTA, 27 January 2026; not signed, not in force",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "IN FORCE → India-UAE CEPA, 1 May 2022",
+            "IN FORCE → India-Australia ECTA, 29 December 2022",
+            "IN FORCE → India-EFTA TEPA, signed 10 March 2024, in force 1 October 2025",
+            "IN FORCE → India-UK CETA, signed London 24 July 2025, in force 15 July 2026"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Double Contributions Convention in force the same day; up to 60 months of home-country social-security coverage for detached workers",
+            "SIGNED → India-Oman CEPA, 18 December 2025; India-New Zealand, 27 April 2026",
+            "CONCLUDED → India-Chile CEPA, 5 December 2025",
+            "CONCLUDED ONLY → India-EU FTA, 27 January 2026; not signed, not in force"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEITHER → India-United States: interim framework and continuing negotiation",
+            "RULE → concluded, signed, ratified and in force are four different claims"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → concluded, signed, ratified and in force are four different claims.",
+      "source_references": [
+        "The status vocabulary that decides whether a trade claim is true",
+        "The European trade partnership in force and the objective that is not an outcome",
+        "The United Kingdom agreement in force and its social-security companion",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FOUR VERBS IN ONE COMMUNIQUE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR VERBS IN ONE COMMUNIQUE",
+          "role": "primary"
+        },
+        {
+          "text": "16TH INDIA-EU SUMMIT, 27 JANUARY 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "FREE TRADE AGREEMENT NEGOTIATIONS; NOT SIGNED, NOT IN FORCE",
+          "role": "caution"
+        },
+        {
+          "text": "SECURITY AND DEFENCE PARTNERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "NEGOTIATIONS ON A SECURITY OF INFORMATION AGREEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TOWARDS 2030",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-EU JOINT COMPREHENSIVE STRATEGIC AGENDA",
+          "role": "comparison"
+        },
+        {
+          "text": "OBLIGATION LEVEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "16th INDIA-EU SUMMIT, 27 JANUARY 2026",
+        "CONCLUDED → free trade agreement negotiations; not signed, not in force",
+        "SIGNED → Security and Defence Partnership",
+        "LAUNCHED → negotiations on a Security of Information Agreement",
+        "ADOPTED → Towards 2030: India-EU Joint Comprehensive Strategic Agenda"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "16th INDIA-EU SUMMIT, 27 JANUARY 2026",
+          "LAUNCHED → negotiations on a Security of Information Agreement",
+          "SEPARATE BOUNDARY → India announced on 4 November 2019 that it would not join the Regional Comprehensive Economic Partnership"
+        ],
+        [
+          "CONCLUDED → free trade agreement negotiations; not signed, not in force",
+          "ADOPTED → Towards 2030: India-EU Joint Comprehensive Strategic Agenda",
+          "RULE → reproduce the verb the source actually used"
+        ],
+        [
+          "SIGNED → Security and Defence Partnership",
+          "OBLIGATION LEVEL → four verbs, four different obligations, one document",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "16th INDIA-EU SUMMIT, 27 JANUARY 2026",
+            "CONCLUDED → free trade agreement negotiations; not signed, not in force",
+            "SIGNED → Security and Defence Partnership"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LAUNCHED → negotiations on a Security of Information Agreement",
+            "ADOPTED → Towards 2030: India-EU Joint Comprehensive Strategic Agenda",
+            "OBLIGATION LEVEL → four verbs, four different obligations, one document"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEPARATE BOUNDARY → India announced on 4 November 2019 that it would not join the Regional Comprehensive Economic Partnership",
+            "RULE → reproduce the verb the source actually used"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → reproduce the verb the source actually used.",
+      "source_references": [
+        "Concluded negotiations and the same-summit verb discipline",
+        "The withdrawal decision that defines India's own trade boundary",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE CARBON-BORDER REGIME IN OPERATION",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE CARBON-BORDER REGIME IN OPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINITIVE REGIME",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLIES FROM 1 JANUARY 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITIONAL PHASE",
+          "role": "evidence"
+        },
+        {
+          "text": "2023 TO 2025",
+          "role": "primary"
+        },
+        {
+          "text": "IMPORTER AUTHORISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PURCHASE AND SURRENDER OF CERTIFICATES MATCHING THE EMBEDDED CARBON",
+          "role": "comparison"
+        },
+        {
+          "text": "IRON AND STEEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINITIVE REGIME → applies from 1 January 2026",
+        "TRANSITIONAL PHASE → 2023 to 2025",
+        "OBLIGATIONS → importer authorisation",
+        "purchase and surrender of certificates matching the embedded carbon emissions of imported goods",
+        "SECTORS → cement"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "DEFINITIVE REGIME → applies from 1 January 2026",
+          "SECTORS → cement",
+          "CLASSIFICATION → trade instrument, industrial-policy tool and climate measure"
+        ],
+        [
+          "TRANSITIONAL PHASE → 2023 to 2025",
+          "iron and steel",
+          "INDIA → affected through market access, standards and negotiating strategy without being a party to the European Union's internal law"
+        ],
+        [
+          "OBLIGATIONS → importer authorisation",
+          "electricity hydrogen",
+          "CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry..."
+        ],
+        [
+          "purchase and surrender of certificates matching the embedded carbon emissions of imported goods",
+          "PRICE → calculated from EU Emissions Trading System allowance auction prices",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "DEFINITIVE REGIME → applies from 1 January 2026",
+            "TRANSITIONAL PHASE → 2023 to 2025",
+            "OBLIGATIONS → importer authorisation",
+            "purchase and surrender of certificates matching the embedded carbon emissions of imported goods"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SECTORS → cement",
+            "iron and steel",
+            "electricity hydrogen",
+            "PRICE → calculated from EU Emissions Trading System allowance auction prices"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFICATION → trade instrument, industrial-policy tool and climate measure",
+            "INDIA → affected through market access, standards and negotiating strategy without being a party to the European Union's internal law",
+            "CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry.",
+      "source_references": [
+        "The carbon-border mechanism as the third channel in operation",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TARIFF VOLATILITY AS THE TRANSMISSION MECHANISM",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TARIFF VOLATILITY AS THE TRANSMISSION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "7 AUGUST 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "25 PER CENT RECIPROCAL DUTY ON INDIA TAKES EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "27 AUGUST 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "ADDITIONAL 25 PER CENT DUTY LINKED TO RUSSIAN OIL",
+          "role": "primary"
+        },
+        {
+          "text": "7 FEBRUARY 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ADDITIONAL RUSSIAN-OIL-LINKED DUTY IS REMOVED",
+          "role": "comparison"
+        },
+        {
+          "text": "FEBRUARY 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "7 AUGUST 2025 → 25 per cent reciprocal duty on India takes effect",
+        "27 AUGUST 2025 → additional 25 per cent duty linked to Russian oil",
+        "7 FEBRUARY 2026 → the additional Russian-oil-linked duty is removed",
+        "FEBRUARY 2026 → additional duties under the International Emergency",
+        "Economic Powers Act end"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "7 AUGUST 2025 → 25 per cent reciprocal duty on India takes effect",
+            "27 AUGUST 2025 → additional 25 per cent duty linked to Russian oil",
+            "7 FEBRUARY 2026 → the additional Russian-oil-linked duty is removed",
+            "FEBRUARY 2026 → additional duties under the International Emergency"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Economic Powers Act end",
+            "24 JULY 2026 → a separate 10 per cent duty under Section 301 begins",
+            "STATUS → another state's domestic measures; exposure, not Indian obligation",
+            "MECHANISM → a duty lasting under six months still shaped a negotiating cycle"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "ANSWER LINE → volatility, not level, is what transmits",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules.",
+      "source_references": [
+        "Unilateral tariff action and why volatility rather than level is the mechanism",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A GLOBALISATION OR TRADE-EFFECTS DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A GLOBALISATION OR TRADE-EFFECTS DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE BOTH FORCES AND STATE THAT THEY ARE CO-PRESENT",
+          "role": "institution"
+        },
+        {
+          "text": "NAME TRADE, TECHNOLOGY OR CLIMATE BEFORE DESCRIBING THE EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE DATED INSTRUMENT PER CHANNEL, EACH AT ITS EXACT",
+          "role": "evidence"
+        },
+        {
+          "text": "DUAL POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA AS DIVERSIFICATION BENEFICIARY AND AS MEASURE TARGET",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUED ORGANISATION ENGAGEMENT, AGREEMENT NEGOTIATION AND DOMESTIC STRATEGIC-SECTOR POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "RULES-OF-ORIGIN FRAGMENTATION, TRANSITION COST, CONTESTED PROPORTIONALITY OF CLIMATE MEASURES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → define both forces and state that they are co-present, not sequential",
+        "CHANNEL → name trade, technology or climate before describing the effect",
+        "EVIDENCE → one dated instrument per channel, each at its exact legal stage",
+        "DUAL POSITION → India as diversification beneficiary and as measure target",
+        "RESPONSE → continued organisation engagement, agreement negotiation and domestic strategic-sector policy, which is Economy's operational"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "OPEN → define both forces and state that they are co-present, not sequential",
+            "CHANNEL → name trade, technology or climate before describing the effect",
+            "EVIDENCE → one dated instrument per channel, each at its exact legal stage"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DUAL POSITION → India as diversification beneficiary and as measure target",
+            "RESPONSE → continued organisation engagement, agreement negotiation and domestic strategic-sector policy, which is Economy's operational domain",
+            "CONCEDE → rules-of-origin fragmentation, transition cost, contested proportionality of climate measures, two-sided appellate paralysis"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "OWNERSHIP → the 2025 elucidate, 2018 reform and 2022 climate-fora demands",
+            "CLOSE → open enough for markets and technology, resilient enough to absorb volatility, and active enough to shape the rules that transmit it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → open enough for markets and technology, resilient enough to absorb volatility, and active enough to shape the rules that transmit it.",
+      "source_references": [
+        "Honest question ownership for this external-effects owner",
+        "Agreement proliferation as continuity of liberalisation and its fragmentation cost",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g2\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RETAINS ITS DISPUTE-SETTLEMENT AND BASELINE-RULE FUNCTION, BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "BILATERAL FTA/CEPA ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-EFTA TEPA (SIGNED 10 MARCH 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "BEYOND TRADE IN THE SAME SUMMITS",
+          "role": "primary"
+        },
+        {
+          "text": "THE 16TH INDIA-EU SUMMIT ALSO SIGNED",
+          "role": "outcome"
+        },
+        {
+          "text": "MINILATERAL TRADE-TECHNOLOGY FRAMEWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARRANGEMENTS COMBINING TRADE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE AND INSTRUMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "WTO: retains its dispute-settlement and baseline-rule function, but",
+            "Bilateral FTA/CEPA architecture: India-EFTA TEPA (signed 10 March 2024,",
+            "Beyond trade in the same summits: the 16th India-EU Summit also signed",
+            "CAUTION: Minilateral trade-technology frameworks: arrangements combining trade,"
+          ]
+        },
+        {
+          "heading": "STATUS, DATE AND FIGURE LIMIT",
+          "role": "caution",
+          "items": [
+            "Carbon-border and green-subsidy measures: the EU's Carbon Border",
+            "Unilateral tariff measures as external-policy effects: the 2025-26 US",
+            "Direct PYQ boundary case (2025 Q10): the question's own \"waning —",
+            "CAUTION: Boundary case — India as both beneficiary and target: India"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE DIPLOMATIC NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case — climate policy as trade policy: carbon-border-type",
+            "CAUTION: Boundary case — FTA proliferation as globalisation, not retreat: the",
+            "CAUTION: FTA proliferation fragments the rules landscape: a growing patchwork",
+            "CAUTION: De-risking has real economic transition costs: reducing"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

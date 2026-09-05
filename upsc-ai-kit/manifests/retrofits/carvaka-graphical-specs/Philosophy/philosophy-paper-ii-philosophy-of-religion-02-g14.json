@@ -1,0 +1,797 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+  "subject": "Philosophy",
+  "title": "PROOFS FOR THE EXISTENCE OF GOD AND THEIR CRITIQUE",
+  "short_route": "PROOF ARCHITECTURE → ONTOLOGICAL LINE → COSMOLOGICAL FAMILY → DESIGN AND FINE-TUNING → MORAL ARGUMENT → NYĀYA-UDAYANA PROOF CLUSTER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g14 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-02-ascii-g14-2026-09-03.json",
+  "ascii_spec_sha256": "96e8313b3e4dd7adb2a418cc6f98ab13dfe1c6d08e298d8c2a287b0c8e0d8997",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PROOF ARCHITECTURE",
+      "structural_type": "argument-family tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROOF ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "THEISTIC ARGUMENTS START FROM DIFFERENT DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT OF GOD",
+          "role": "comparison"
+        },
+        {
+          "text": "ONTOLOGICAL (A PRIORI)",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINGENT/MOVED/CAUSED WORLD",
+          "role": "primary"
+        },
+        {
+          "text": "COSMOLOGICAL (A POSTERIORI)",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDER AND PURPOSIVENESS",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE OBLIGATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THEISTIC ARGUMENTS START FROM DIFFERENT DATA",
+        "concept of God → ONTOLOGICAL (a priori)",
+        "contingent/moved/caused world → COSMOLOGICAL (a posteriori)",
+        "order and purposiveness → TELEOLOGICAL",
+        "objective obligation → MORAL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "THEISTIC ARGUMENTS START FROM DIFFERENT DATA",
+            "concept of God → ONTOLOGICAL (a priori)",
+            "contingent/moved/caused world → COSMOLOGICAL (a posteriori)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "order and purposiveness → TELEOLOGICAL",
+            "objective obligation → MORAL",
+            "Indian effect/order/language/karma → NYĀYA-UDAYANA"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CONTROL: proofs may be deductive, abductive or cumulative",
+            "never judge all by the standard of a single demonstrative syllogism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Classify each proof's force, then test premise, inference and theological identification separately; 'proof' does not guarantee demonstration.",
+      "source_references": [
+        "Register 1 — The architecture of theistic proof"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ONTOLOGICAL LINE",
+      "structural_type": "modal argument and critique",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ONTOLOGICAL LINE",
+          "role": "primary"
+        },
+        {
+          "text": "THAT THAN WHICH NOTHING GREATER CAN BE CONCEIVED EXISTING",
+          "role": "outcome"
+        },
+        {
+          "text": "NECESSARY EXISTENCE BELONGS TO SUPREMELY PERFECT BEING",
+          "role": "comparison"
+        },
+        {
+          "text": "MODAL FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "POSSIBLY NECESSARY GOD",
+          "role": "primary"
+        },
+        {
+          "text": "NECESSARILY GOD, IF S5 POSSIBILITY IS GRANTED",
+          "role": "outcome"
+        },
+        {
+          "text": "PERFECT-ISLAND PARODY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXISTENCE IS NOT A REAL PREDICATE REPLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANSELM: God = that than which nothing greater can be conceived existing in reality existing",
+        "therefore the greatest conceivable being exists in reality",
+        "DESCARTES: necessary existence belongs to supremely perfect being",
+        "MODAL FORM: possibly necessary God → necessarily God, if S5 possibility is granted",
+        "GAUNILO: perfect-island parody"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ANSELM: God = that than which nothing greater can be conceived existing in reality existing only in understanding",
+            "therefore the greatest conceivable being exists in reality"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "DESCARTES: necessary existence belongs to supremely perfect being",
+            "MODAL FORM: possibly necessary God → necessarily God, if S5 possibility is granted"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "GAUNILO: perfect-island parody",
+            "KANT: existence is not a real predicate reply: necessary being is unlike contingent islands; pressure shifts to coherent possibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Anselm promises necessary existence, but Gaunilo and Kant shift the burden to coherent possibility and the legitimacy of existential predication.",
+      "source_references": [
+        "Register 2 — Ontological argument"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COSMOLOGICAL FAMILY",
+      "structural_type": "causal regress tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COSMOLOGICAL FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "UNMOVED MOVER",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFICIENT CAUSES",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST CAUSE CONTINGENCY",
+          "role": "mechanism"
+        },
+        {
+          "text": "NECESSARY BEING; NOT “EVERY EVENT HAS A CAUSE”",
+          "role": "caution"
+        },
+        {
+          "text": "WHATEVER BEGINS HAS A CAUSE; UNIVERSE BEGAN; THEREFORE A",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRINCIPLE OF SUFFICIENT REASON",
+          "role": "comparison"
+        },
+        {
+          "text": "WHY SOMETHING RATHER THAN NOTHING?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AQUINAS: motion → unmoved mover",
+        "efficient causes → first cause contingency → necessary being; not “every event has a cause”",
+        "KALĀM: whatever begins has a cause; universe began; therefore a cause",
+        "LEIBNIZ: principle of sufficient reason → why something rather than nothing?",
+        "HUME: causal principle may not extend beyond experience; universe may be brute"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "AQUINAS: motion → unmoved mover",
+            "efficient causes → first cause contingency → necessary being; not “every event has a cause”",
+            "KALĀM: whatever begins has a cause; universe began; therefore a cause"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEIBNIZ: principle of sufficient reason → why something rather than nothing?",
+            "HUME: causal principle may not extend beyond experience; universe may be brute",
+            "RUSSELL: universe is “just there”; composition fallacy"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REPLY: argument concerns contingent totality's explanation, not a member-cause in time."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Aquinas explains present dependence, Leibniz contingent totality and the kalam a temporal beginning; each faces a different regress or brute-fact pressure.",
+      "source_references": [
+        "Register 3 — Cosmological arguments"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DESIGN AND FINE-TUNING",
+      "structural_type": "abductive comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DESIGN AND FINE-TUNING",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLEX PURPOSIVE ADAPTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "WATCHMAKER ANALOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "LIFE-PERMITTING CONSTANTS APPEAR WITHIN NARROW RANGE RIVAL EXPLANATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSICAL NECESSITY",
+          "role": "primary"
+        },
+        {
+          "text": "MULTIVERSE + SELECTION EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNKNOWN DEEPER LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAK ANALOGY, MANY DESIGNERS, IMPERFECT DESIGNER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PALEY: complex purposive adaptation → watchmaker analogy → designer",
+        "FINE-TUNING: life-permitting constants appear within narrow range rival explanations",
+        "physical necessity",
+        "chance / multiverse + selection effect",
+        "unknown deeper law"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PALEY: complex purposive adaptation → watchmaker analogy → designer",
+          "chance / multiverse + selection effect",
+          "DARWIN: adaptation by selection verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged."
+        ],
+        [
+          "FINE-TUNING: life-permitting constants appear within narrow range rival explanations",
+          "unknown deeper law",
+          ""
+        ],
+        [
+          "physical necessity",
+          "HUME: weak analogy, many designers, imperfect designer",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PALEY: complex purposive adaptation → watchmaker analogy → designer",
+            "FINE-TUNING: life-permitting constants appear within narrow range rival explanations",
+            "physical necessity"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "chance / multiverse + selection effect",
+            "unknown deeper law",
+            "HUME: weak analogy, many designers, imperfect designer"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "DARWIN: adaptation by selection verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged."
+          ]
+        }
+      ],
+      "mechanism_strip": "HUME: weak analogy, many designers, imperfect designer | DARWIN: adaptation by selection verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged.",
+      "answer_line": "Hume defeats a demonstrative design inference and its rich divine attributes; teleology survives, if at all, as contested probabilistic explanation.",
+      "source_references": [
+        "Register 4 — Teleological argument"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MORAL ARGUMENT",
+      "structural_type": "normativity-to-ground chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MORAL ARGUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MORALITY DOES NOT THEORETICALLY PROVE GOD HIGHEST GOOD (VIRTUE",
+          "role": "caution"
+        },
+        {
+          "text": "PRACTICAL POSTULATES",
+          "role": "comparison"
+        },
+        {
+          "text": "FREEDOM + IMMORTALITY + GOD CONTEMPORARY ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECTIVE MORAL OBLIGATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ADEQUATE PERSONAL GROUND OBJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "EUTHYPHRO DILEMMA; SECULAR REALISM CAN GROUND MORAL FACTS REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "MODIFIED DIVINE COMMAND GROUNDS OBLIGATION IN COMMANDS FLOWING FROM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KANT: morality does not theoretically prove God highest good (virtue proportioned to happiness) → practical",
+        "freedom + immortality + God contemporary route: objective moral obligations → adequate personal ground objection",
+        "secular realism can ground moral facts reply: modified divine command grounds obligation in commands flowing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "KANT: morality does not theoretically prove God highest good (virtue proportioned to happiness) → practical postulates",
+            "freedom + immortality + God contemporary route: objective moral obligations → adequate personal ground objection: Euthyphro dilemma"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "secular realism can ground moral facts reply: modified divine command grounds obligation in commands flowing from good nature",
+            "KANT: morality does not theoretically prove God highest good (virtue proportioned to happiness) → practical postulates"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "freedom + immortality + God contemporary route: objective moral obligations → adequate personal ground objection: Euthyphro dilemma",
+            "secular realism can ground moral facts reply: modified divine command grounds obligation in commands flowing from good nature"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Lawgiver, objective-value and Kantian highest-good arguments begin from different moral data and do not establish the same conclusion.",
+      "source_references": [
+        "Register 5 — Moral argument"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NYĀYA-UDAYANA PROOF CLUSTER",
+      "structural_type": "Indian inference tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NYĀYA-UDAYANA PROOF CLUSTER",
+          "role": "primary"
+        },
+        {
+          "text": "UDAYANA'S ROUTES TO ĪŚVARA KĀRYĀT",
+          "role": "outcome"
+        },
+        {
+          "text": "WORLD AS EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "MAKER ĀYOJANĀT",
+          "role": "evidence"
+        },
+        {
+          "text": "ATOMIC COMBINATION",
+          "role": "primary"
+        },
+        {
+          "text": "ARRANGER DHṚTYĀDEḤ",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPORT/DISSOLUTION PADĀT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVENTIONAL WORD-USE PRATYAYATAḤ",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UDAYANA'S ROUTES TO ĪŚVARA kāryāt: world as effect → maker āyojanāt: atomic combination → arranger",
+        "conventional word-use pratyayataḥ: trustworthy cognition śruteḥ/vākyāt: Vedic discourse saṃkhyāviśeṣāt: determinate magnitudes adṛṣṭāt: karmic allocation",
+        "ĪŚVARA = omniscient efficient cause",
+        "eternal atoms = material causes not creation ex nihilo",
+        "proof aims at intelligent coordination of a realist cosmos."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "UDAYANA'S ROUTES TO ĪŚVARA kāryāt: world as effect → maker āyojanāt: atomic combination → arranger dhṛtyādeḥ: support/dissolution padāt",
+            "conventional word-use pratyayataḥ: trustworthy cognition śruteḥ/vākyāt: Vedic discourse saṃkhyāviśeṣāt: determinate magnitudes adṛṣṭāt: karmic allocation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ĪŚVARA = omniscient efficient cause",
+            "eternal atoms = material causes not creation ex nihilo"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "proof aims at intelligent coordination of a realist cosmos.",
+            "UDAYANA'S ROUTES TO ĪŚVARA kāryāt: world as effect → maker āyojanāt: atomic combination → arranger dhṛtyādeḥ: support/dissolution padāt"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Udayana's cumulative proof cluster infers an omniscient efficient cause that orders eternal atoms and karmic fruits rather than creating matter.",
+      "source_references": [
+        "Register 6 — Nyāya–Udayana theism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIAN AND WESTERN CRITIQUES",
+      "structural_type": "multi-school objection matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIAN AND WESTERN CRITIQUES",
+          "role": "primary"
+        },
+        {
+          "text": "NO PERCEPTION OF GOD; INFERENCE OVERREACHES",
+          "role": "caution"
+        },
+        {
+          "text": "MOMENTARY DEPENDENT SERIES NEEDS NO PERMANENT CREATOR",
+          "role": "caution"
+        },
+        {
+          "text": "BEGINNINGLESS JĪVA/AJĪVA AND KARMA; CREATION MAKES GOD RESPONSIBLE FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "VEDA IS AUTHORLESS; DHARMA/APŪRVA EXPLAINS RITUAL FRUIT WITHOUT DIVINE",
+          "role": "primary"
+        },
+        {
+          "text": "CAUSAL/DESIGN INFERENCE EXCEEDS CATEGORIES OR EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "NYĀYA REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNCONSCIOUS ATOMS, APŪRVA OR KARMA CANNOT INTELLIGENTLY ALLOCATE ORDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CĀRVĀKA: no perception of God; inference overreaches",
+        "BUDDHIST: momentary dependent series needs no permanent creator",
+        "JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil",
+        "MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author",
+        "HUME/KANT: causal/design inference exceeds categories or experience"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "CĀRVĀKA: no perception of God; inference overreaches",
+          "MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author",
+          "COUNTER: coordination may show explanatory gap, not uniquely the Nyāya God."
+        ],
+        [
+          "BUDDHIST: momentary dependent series needs no permanent creator",
+          "HUME/KANT: causal/design inference exceeds categories or experience",
+          ""
+        ],
+        [
+          "JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil",
+          "NYĀYA REPLY: unconscious atoms, apūrva or karma cannot intelligently allocate order",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CĀRVĀKA: no perception of God; inference overreaches",
+            "BUDDHIST: momentary dependent series needs no permanent creator",
+            "JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author",
+            "HUME/KANT: causal/design inference exceeds categories or experience",
+            "NYĀYA REPLY: unconscious atoms, apūrva or karma cannot intelligently allocate order"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "COUNTER: coordination may show explanatory gap, not uniquely the Nyāya God."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Jain, Buddhist, Mimamsa, Samkhya and Carvaka critiques relocate explanatory work differently and must not be flattened into one atheistic objection.",
+      "source_references": [
+        "Register 7 — Jaina, Buddhist, Mīmāṃsā and Cārvāka critiques"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "CUMULATIVE VERDICT AND ANSWER PLAN",
+      "structural_type": "proof comparison convergence",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CUMULATIVE VERDICT AND ANSWER PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE TARGET GOD",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSIFY ARGUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMALISE PREMISES",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSE HIDDEN BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGEST NAMED CRITIC",
+          "role": "outcome"
+        },
+        {
+          "text": "BEST REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST WHAT CONCLUSION ACTUALLY ESTABLISHES ONTOLOGICAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE target God → classify argument → formalise premises → expose hidden bridge",
+        "strongest named critic → best reply → test what conclusion actually establishes ontological: necessity if",
+        "cosmological: ground if PSR design: probability, not deduction",
+        "moral: practical/normative support",
+        "Nyāya: intelligent order within atomism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "DEFINE target God → classify argument → formalise premises → expose hidden bridge",
+            "strongest named critic → best reply → test what conclusion actually establishes ontological: necessity if possibility",
+            "cosmological: ground if PSR design: probability, not deduction"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "moral: practical/normative support",
+            "Nyāya: intelligent order within atomism",
+            "QUALIFIED VERDICT: no proof compels every rational agent"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "together they can form a cumulative case only if their contested modal, causal, probabilistic and moral premises stand."
+          ]
+        }
+      ],
+      "mechanism_strip": "QUALIFIED VERDICT: no proof compels every rational agent; together they can form a cumulative case only if their contested modal, causal, probabilistic and moral premises stand.",
+      "answer_line": "No single proof compels; a cumulative case can raise probability only if its modal, causal, analogical and moral premises retain independent force.",
+      "source_references": [
+        "Register 8 — Comparative synthesis and answer architecture",
+        "Register 11 — Last-minute memory spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED CARDS MOVED FROM THE COMPLETE LEARNER SOURCE —",
+          "role": "evidence"
+        },
+        {
+          "text": "CANONICAL ADVANCED DOCTRINE DOSSIERS — [OPTIONAL ADVANCED]",
+          "role": "comparison"
+        },
+        {
+          "text": "PHILOSOPHY OF RELIGION DOSSIER",
+          "role": "evidence"
+        },
+        {
+          "text": "TOPIC 2 — [OPTIONAL ADVANCED]",
+          "role": "primary"
+        },
+        {
+          "text": "DOCTRINE STATEMENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "ANSELM ARGUES A PRIORI FROM THE CONCEPT OF GOD",
+          "role": "comparison"
+        },
+        {
+          "text": "(1) EVEN THE DENIER UNDERSTANDS THE CONCEPT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced cards moved from the complete learner source — [OPTIONAL ADVANCED]",
+            "Canonical advanced doctrine dossiers — [OPTIONAL ADVANCED]",
+            "Philosophy of Religion dossier: Topic 2 — [OPTIONAL ADVANCED]",
+            "Doctrine statement."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Anselm argues a priori from the concept of God as that than which no greater can be conceived to existence not merely in understanding but in reality.",
+            "Argument.",
+            "(1) Even the denier understands the concept",
+            "(2) existing in reality is greater than existing only in understanding"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "(3) if God existed only in understanding, a greater could be conceived",
+            "(4) contradiction",
+            "therefore God exists.",
+            "Descartes recasts existence as inseparable from supremely perfect being."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

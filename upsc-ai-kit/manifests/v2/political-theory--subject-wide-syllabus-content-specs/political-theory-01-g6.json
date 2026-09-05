@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-01",
+  "title": "Nature and Significance of Political Theory",
+  "generation": 6,
+  "generation_date": "2026-08-30",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "political-theory-01:learner-v2:g3",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Political-Theory\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\01_Nature-and-Significance-of-Political-Theory.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\01_Nature-and-Significance-of-Political-Theory.md",
+  "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "learning_contract": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "All 6 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 6 solved items lack explicit directive-and-demand decoding.",
+    "All 6 solved items lack an executable mark-scaled compression plan.",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.",
+    "The stored ASCII/graphical source contains 10 conclusive dangling sentence fragment(s), so the flows are not independently safe."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\topic-01_Solved-Practice-Workbook_2026-08-30.md"
+}

@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-03",
+      "display_title": "The Beginnings of European Settlements (Portuguese → Dutch → English → French)",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Scope: contact, settlement and empire are different stages",
+          "structural_type": "scope-map",
+          "ascii_lines": [
+            "CAPE ROUTE 1498 -> repeated trade -> factory by Indian permission",
+            "FACTORY -> fortified settlement -> presidency / regional coordination",
+            "POSSIBLE COMPANY-STATE -> additionally needs finance, army, allies, victory and revenue",
+            "ANTI-TELEOLOGY -> neither a European charter nor the first voyage made conquest inevitable.",
+            "MUST REMEMBER: The maritime sequence runs through the Portuguese arrival in 1498 and Goa in",
+            "  1510, the English Company charter of 1600, the Dutch VOC of 1602 and the French Company of",
+            "  1664."
+          ],
+          "source_references": [
+            "01. Scope: five stages, not one inevitable conquest",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Indian Ocean setting and mercantilist armed commerce",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "PRE-1498 -> monsoon routes + Asian merchants + Indian ports and manufactures",
+            "MERCANTILISM -> chartered monopoly seeks bullion, commodities and protected markets",
+            "ARMED COMMERCE -> ship cannon + fort + pass + diplomacy + corporate privilege",
+            "LIMIT -> Europeans entered an existing oceanic economy; older circuits did not disappear."
+          ],
+          "source_references": [
+            "02. Maritime background: the Indian Ocean before the Europeans",
+            "21. Commodities, bullion and the port-hinterland network",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Portuguese Estado da India and cartaz",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "1498 CALICUT -> 1505 Estado administration -> GOA captured 1510 / capital 1530",
+            "ESTADO -> Crown + viceroy/governor + fleet + forts + royal factories",
+            "CARTAZ -> coerced shipping pass; fortified nodes at Goa, Cochin, Diu and Daman",
+            "LIMIT -> nodal and contested control, never a complete monopoly of Indian Ocean trade."
+          ],
+          "source_references": [
+            "05. Portuguese arrival and the Estado da India",
+            "06. Cartaz, naval power, diplomacy and conflict",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Portuguese cultural transfer and bounded Goa heritage",
+          "structural_type": "evidence-map",
+          "ascii_lines": [
+            "XAVIER -> Goa 1542; founding Jesuit companion; died off China, remains at Bom Jesus",
+            "GOA PRESS 1556 | INQUISITION 1560 -> mission, print, coercion and accommodation coexist",
+            "CROPS -> papaya, pineapple and guava through Portuguese networks; no exact transfer year",
+            "UNESCO -> Indo-Portuguese forms + local adaptation; threats include damp, weathering, termites."
+          ],
+          "source_references": [
+            "07. Portuguese trade, mission, printing, crops and cultural exchange",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Dutch VOC: commercial strength, India inside an Asian portfolio",
+          "structural_type": "portfolio-map",
+          "ascii_lines": [
+            "VOC 1602 -> joint-stock capital + treaty, war and fortification powers",
+            "INDIAN NODES -> Masulipatnam, Pulicat, Nagapattinam, Surat, Chinsura and Cochin",
+            "PRIORITY -> Indian textiles finance an Indonesia-centred spice and intra-Asian portfolio",
+            "CHECKS -> Colachel 1741 / Bedara 1759; political retreat did not instantly end trade."
+          ],
+          "source_references": [
+            "09. Dutch VOC: structure, Indian bases and Indonesian priority",
+            "10. Why Dutch power in India remained commercial",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "English entry: charter, naval credibility and Mughal permission",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "EIC CHARTER 1600 -> corporate monopoly in English law, not Indian sovereignty",
+            "SWALLY 1612 -> naval credibility alters Mughal bargaining",
+            "SURAT FACTORY 1613 -> licensed depot; ROE 1615-19 -> privileges confirmed",
+            "CHILD'S WAR 1686-90 -> Mughal victory proves early Company weakness and contingency."
+          ],
+          "source_references": [
+            "11. English EIC foundation, early voyages and Mughal diplomacy",
+            "12. Surat and the first English factory network",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "English fortified settlement chain",
+          "structural_type": "coastal-chain",
+          "ascii_lines": [
+            "MASULIPATNAM 1611 -> MADRAS lease 1639 -> Fort St George from 1640",
+            "BOMBAY -> Portuguese possession -> Crown 1661 -> Company 1668 -> presidency HQ 1687",
+            "BENGAL -> Hugli / Kasimbazar -> three-village Calcutta hub -> 1698 zamindari -> 1717 farman",
+            "CAUTION -> Job Charnock is a conventional association, not an uncontested sole founder."
+          ],
+          "source_references": [
+            "13. Coromandel chain: Masulipatnam, Madras and Fort St George",
+            "14. Bombay: Crown transfer, harbour geography and presidency shift",
+            "15. Bengal factories, Calcutta and the pre-Plassey boundary",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Institutional vocabulary that prevents category errors",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHARTER -> home sovereign creates company | FARMAN -> Indian sovereign grants privilege",
+            "FACTORY -> depot + factors | FORT -> defended enclave, not automatic hinterland rule",
+            "PRESIDENCY -> regional council coordinating factories, fleets, defence and diplomacy",
+            "COMPANY-STATE -> enforceable war, justice, taxation and territory; capacity must match claim."
+          ],
+          "source_references": [
+            "16. Charter, farman, factory, fort and presidency: terminology that decides marks",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "French Compagnie and Indian settlement chain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "COMPAGNIE DES INDES 1664 -> Colbert / Louis XIV state-backed monopoly",
+            "SURAT 1668 -> MASULIPATNAM 1669 -> PONDICHERRY 1673-74 -> CHANDERNAGORE c.1690-92",
+            "DUPLEIX -> trade + trained troops + claimant politics; Indian allies retain their own aims",
+            "LIMIT -> finance, naval continuity and home-state priorities constrain French intervention."
+          ],
+          "source_references": [
+            "17. French Compagnie des Indes and the settlement chain",
+            "18. Dupleix and the bounded bridge to Carnatic rivalry",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Carnatic conclusion: European rivalry becomes Indian politics",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FIRST WAR 1746-48 -> French take Madras -> Aix-la-Chapelle restores it",
+            "SECOND 1749-54 -> Carnatic / Hyderabad claimants + Arcot -> Dupleix recalled",
+            "THIRD 1756-63 -> Seven Years' War -> WANDIWASH 1760 breaks French field power",
+            "PARIS 1763 -> factories survive, political ambition checked; no single-cause English victory.",
+            "CLOSE DISTINCTION: A factory was a trading station, not automatically territorial sovereignty;",
+            "  cartaz, naval force, diplomacy, farmans and fortified settlements had different",
+            "  legal-political effects."
+          ],
+          "source_references": [
+            "18. Dupleix and the bounded bridge to Carnatic rivalry",
+            "24. Inter-European rivalry before territorial conquest",
+            "25. Why the English gained relative advantage - without teleology",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Indian agency and the port-hinterland engine",
+          "structural_type": "actor-network",
+          "ascii_lines": [
+            "RULERS -> grant, revise, resist and use rival companies against one another",
+            "MERCHANTS / BANKERS / DUBASHES -> credit, brokerage, customs and information",
+            "WEAVERS / ARTISANS / SHIPBUILDERS / LABOUR -> make commercial settlements viable",
+            "ASYMMETRY -> agency was real but unequal; forts still depended on surrounding Indian society.",
+            "EVIDENCE LIMIT: European archives privilege company aims; Indian merchants, rulers, port",
+            "  ecologies and Asian commercial rivals are necessary evidence against a Europe-only",
+            "  inevitability story."
+          ],
+          "source_references": [
+            "20. Indian rulers, merchants, brokers, artisans and port communities",
+            "21. Commodities, bullion and the port-hinterland network",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Topic 03 answer and PYQ spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "COMPARE -> Estado/cartaz | VOC portfolio | EIC presidency chain | French state backing",
+            "EXPLAIN -> mercantilism + navy + finance + Indian permission/agency + political contingency",
+            "PYQ TRAPS -> Broach window; Xavier death/remains; Goa-Bijapur; Madras grant; three crops",
+            "CLOSE -> Wandiwash/Paris end European rivalry; Plassey-Buxar mechanics pass to Topic 04."
+          ],
+          "source_references": [
+            "27. Historiography and source criticism",
+            "28. Terminology, chronology, memory hooks and high-frequency traps",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-03\\g3\\modern-indian-history-03_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

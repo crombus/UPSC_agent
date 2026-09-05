@@ -1,0 +1,491 @@
+{
+  "schema_version": 2,
+  "benchmark": "Carvaka-standard continuous master with a topic-specific Ethics twelve-panel atlas",
+  "generated_on": "2026-08-29",
+  "scope": "Ethics subject-wide syllabus topic 22",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-22",
+      "title": "Case Study Method and Answer Architecture",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-22_Learning-Session.md",
+      "source_record": "ethics-22:learner-v2:g1",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior artifacts and canonical Ethics owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "1. Eight-element case-study rail",
+          "structural_type": "eight-stage-rail",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "1. Eight-element case-study rail",
+            "  [1] Facts: given versus assumed",
+            "        |",
+            "        v",
+            "  [2] Stakeholders: direct and silent",
+            "        |",
+            "        v",
+            "  [3] Constraints: hard bounds",
+            "        |",
+            "        v",
+            "  [4] Options: three or more",
+            "        |",
+            "        v",
+            "  [5] Evaluation: theories and checks",
+            "        |",
+            "        v",
+            "  [6] Decision: decisive reason",
+            "        |",
+            "        v",
+            "  [7] Implementation: actor and message",
+            "        |",
+            "        v",
+            "  [8] Residual risk: monitor and review",
+            "        |",
+            "        v",
+            "VERDICT -> A case answer is a complete decision process, not a moral reaction.",
+            "ANSWER USE -> Use as the universal opening architecture."
+          ]
+        },
+        {
+          "panel_title": "2. Constraint gate before option design",
+          "structural_type": "constraint-funnel",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "2. Constraint gate before option design",
+            "  [1] Legality defines permission",
+            "        |",
+            "        v",
+            "  [2] Delegation defines authority",
+            "        |",
+            "        v",
+            "  [3] Jurisdiction defines forum",
+            "        |",
+            "        v",
+            "  [4] Time defines urgency",
+            "        |",
+            "        v",
+            "  [5] Information defines confidence",
+            "        |",
+            "        v",
+            "  [6] Resources define capacity",
+            "        |",
+            "        v",
+            "  [7] Safety defines tolerable exposure",
+            "        |",
+            "        v",
+            "  [8] Survivors become real options",
+            "        |",
+            "        v",
+            "VERDICT -> Impossible or unlawful proposals should never enter later balancing.",
+            "ANSWER USE -> Use before listing options in every administrative case."
+          ]
+        },
+        {
+          "panel_title": "3. Six-check evaluation matrix",
+          "structural_type": "threshold-weight-matrix",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "3. Six-check evaluation matrix",
+            "  [1] Conflict: hard threshold",
+            "        |",
+            "        v",
+            "  [2] Legality: hard threshold",
+            "        |",
+            "        v",
+            "  [3] Public interest: weighted",
+            "        |",
+            "        v",
+            "  [4] Proportionality: weighted",
+            "        |",
+            "        v",
+            "  [5] Transparency: weighted",
+            "        |",
+            "        v",
+            "  [6] Compassion: weighted",
+            "        |",
+            "        v",
+            "  [7] Long-term effects: projected",
+            "        |",
+            "        v",
+            "  [8] Decisive weight: stated",
+            "        |",
+            "        v",
+            "VERDICT -> Eliminate first, weigh second and explain what controlled the choice.",
+            "ANSWER USE -> Use for the ethical-evaluation element."
+          ]
+        },
+        {
+          "panel_title": "4. Conflict-of-interest resolution sequence",
+          "structural_type": "four-step-control-chain",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "4. Conflict-of-interest resolution sequence",
+            "  [1] Detect personal-interest link",
+            "        |",
+            "        v",
+            "  [2] Disclose connection in writing",
+            "        |",
+            "        v",
+            "  [3] Recuse from the decision",
+            "        |",
+            "        v",
+            "  [4] Refer to untainted authority",
+            "        |",
+            "        v",
+            "  [5] State objective criteria",
+            "        |",
+            "        v",
+            "  [6] Apply criteria consistently",
+            "        |",
+            "        v",
+            "  [7] Preserve the scoring trail",
+            "        |",
+            "        v",
+            "  [8] Publish or defend the rationale",
+            "        |",
+            "        v",
+            "VERDICT -> Personal honesty cannot substitute for an unconflicted process.",
+            "ANSWER USE -> Use in procurement, licensing and privileged-information cases."
+          ]
+        },
+        {
+          "panel_title": "5. Nested dilemma and steelman loop",
+          "structural_type": "decompose-test-recombine",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "5. Nested dilemma and steelman loop",
+            "  [1] Identify dilemma one",
+            "        |",
+            "        v",
+            "  [2] Run compact ethical checks",
+            "        |",
+            "        v",
+            "  [3] Identify dilemma two",
+            "        |",
+            "        v",
+            "  [4] Run compact ethical checks",
+            "        |",
+            "        v",
+            "  [5] Recombine compatible decisions",
+            "        |",
+            "        v",
+            "  [6] State strongest objection",
+            "        |",
+            "        v",
+            "  [7] Absorb valid objection",
+            "        |",
+            "        v",
+            "  [8] Confirm or revise decision",
+            "        |",
+            "        v",
+            "VERDICT -> Decomposition clarifies the problem; steelmanning tests the solution.",
+            "ANSWER USE -> Use for dense cases with multiple genuine conflicts."
+          ]
+        },
+        {
+          "panel_title": "6. Residual-risk closing formula",
+          "structural_type": "risk-control-equation",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "6. Residual-risk closing formula",
+            "  [1] Name inherent danger",
+            "        |",
+            "        v",
+            "  [2] List preventive controls",
+            "        |",
+            "        v",
+            "  [3] Test control weakness",
+            "        |",
+            "        v",
+            "  [4] Add uncertainty exposure",
+            "        |",
+            "        v",
+            "  [5] State surviving risk",
+            "        |",
+            "        v",
+            "  [6] Choose monitoring indicator",
+            "        |",
+            "        v",
+            "  [7] Name accountable authority",
+            "        |",
+            "        v",
+            "  [8] Set review or trigger date",
+            "        |",
+            "        v",
+            "VERDICT -> Residual risk equals inherent risk reduced by controls, with uncertainty retained.",
+            "ANSWER USE -> Use as the final paragraph of every solved case."
+          ]
+        },
+        {
+          "panel_title": "7. Written-order response to pressure",
+          "structural_type": "record-escalate-continue",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "7. Written-order response to pressure",
+            "  [1] Identify improper oral direction",
+            "        |",
+            "        v",
+            "  [2] Record its substance promptly",
+            "        |",
+            "        v",
+            "  [3] Seek written confirmation",
+            "        |",
+            "        v",
+            "  [4] State professional objection",
+            "        |",
+            "        v",
+            "  [5] Preserve supporting evidence",
+            "        |",
+            "        v",
+            "  [6] Refer through proper hierarchy",
+            "        |",
+            "        v",
+            "  [7] Continue lawful substantive duty",
+            "        |",
+            "        v",
+            "  [8] Escalate impropriety if persistent",
+            "        |",
+            "        v",
+            "VERDICT -> Writing fixes responsibility and converts private resistance into institutional",
+            "             accountability.",
+            "ANSWER USE -> Use for ministerial, superior and corporate pressure."
+          ]
+        },
+        {
+          "panel_title": "8. Whistleblowing and dissent ladder",
+          "structural_type": "four-rung-ladder",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "8. Whistleblowing and dissent ladder",
+            "  [1] Preserve credible evidence",
+            "        |",
+            "        v",
+            "  [2] Report to competent superior",
+            "        |",
+            "        v",
+            "  [3] Skip a compromised recipient",
+            "        |",
+            "        v",
+            "  [4] Use independent internal tier",
+            "        |",
+            "        v",
+            "  [5] Use authorised external channel",
+            "        |",
+            "        v",
+            "  [6] Protect identity and safety",
+            "        |",
+            "        v",
+            "  [7] Consider public disclosure last",
+            "        |",
+            "        v",
+            "  [8] Review retaliation and follow-up",
+            "        |",
+            "        v",
+            "VERDICT -> Escalate only as far as failure and continuing harm require.",
+            "ANSWER USE -> Use when loyalty, secrecy and public interest conflict."
+          ]
+        },
+        {
+          "panel_title": "9. Resignation decision test",
+          "structural_type": "last-resort-gate",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "9. Resignation decision test",
+            "  [1] Record personal non-participation",
+            "        |",
+            "        v",
+            "  [2] Test internal resistance",
+            "        |",
+            "        v",
+            "  [3] Test independent escalation",
+            "        |",
+            "        v",
+            "  [4] Assess continuing public influence",
+            "        |",
+            "        v",
+            "  [5] Assess complicity from remaining",
+            "        |",
+            "        v",
+            "  [6] Assess impact of departure",
+            "        |",
+            "        v",
+            "  [7] Define the resignation trigger",
+            "        |",
+            "        v",
+            "  [8] Resign only if net protection rises",
+            "        |",
+            "        v",
+            "VERDICT -> Resignation is ethical only when it protects the public better than principled",
+            "             service.",
+            "ANSWER USE -> Use whenever an option list includes exit from office."
+          ]
+        },
+        {
+          "panel_title": "10. Scarce-resource triage cycle",
+          "structural_type": "criteria-review-cycle",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "10. Scarce-resource triage cycle",
+            "  [1] Measure actual scarcity",
+            "        |",
+            "        v",
+            "  [2] Protect lawful basic minima",
+            "        |",
+            "        v",
+            "  [3] Choose relevant criteria",
+            "        |",
+            "        v",
+            "  [4] Publish criteria in advance",
+            "        |",
+            "        v",
+            "  [5] Add vulnerability safeguard",
+            "        |",
+            "        v",
+            "  [6] Record each allocation",
+            "        |",
+            "        v",
+            "  [7] Provide rapid review route",
+            "        |",
+            "        v",
+            "  [8] Revise as conditions change",
+            "        |",
+            "        v",
+            "VERDICT -> Transparent criteria are ethically superior to hidden case-by-case discretion.",
+            "ANSWER USE -> Use for beds, staff, water, relief and compensation."
+          ]
+        },
+        {
+          "panel_title": "11. Domain adaptation map",
+          "structural_type": "cross-domain-matrix",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "11. Domain adaptation map",
+            "  [1] Administration: lawful authority",
+            "        |",
+            "        v",
+            "  [2] Corporate: stakeholder duty",
+            "        |",
+            "        v",
+            "  [3] Research: consent and truth",
+            "        |",
+            "        v",
+            "  [4] Health: triage and dignity",
+            "        |",
+            "        v",
+            "  [5] Police: force and due process",
+            "        |",
+            "        v",
+            "  [6] Environment: future generations",
+            "        |",
+            "        v",
+            "  [7] Technology: privacy and harm",
+            "        |",
+            "        v",
+            "  [8] Disaster: continuity and compassion",
+            "        |",
+            "        v",
+            "VERDICT -> The architecture stays constant while standards, institutions and evidence change.",
+            "ANSWER USE -> Use to transfer the method without copying remedies blindly."
+          ]
+        },
+        {
+          "panel_title": "12. Time-bound examiner answer spine",
+          "structural_type": "answer-clock",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "12. Time-bound examiner answer spine",
+            "  [1] Minute one: demand and facts",
+            "        |",
+            "        v",
+            "  [2] Minute two: stakeholders",
+            "        |",
+            "        v",
+            "  [3] Minute three: constraints",
+            "        |",
+            "        v",
+            "  [4] Minutes four-six: options",
+            "        |",
+            "        v",
+            "  [5] Minutes seven-ten: evaluation",
+            "        |",
+            "        v",
+            "  [6] Minutes eleven-twelve: decision",
+            "        |",
+            "        v",
+            "  [7] Minutes thirteen-fourteen: execution",
+            "        |",
+            "        v",
+            "  [8] Minute fifteen: residual risk",
+            "        |",
+            "        v",
+            "VERDICT -> Compress every element; do not sacrifice the ending to an oversized introduction.",
+            "ANSWER USE -> Use as a planning clock for a twenty-mark case."
+          ]
+        }
+      ]
+    }
+  ]
+}

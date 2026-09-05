@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-07",
+      "display_title": "Biosphere Reserves and Ramsar Sites",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two-step biosphere status",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INDIAN NATIONAL DESIGNATION -> Biosphere Reserve planning status",
+            "SEPARATE NOMINATION -> UNESCO MAB process",
+            "WORLD NETWORK INCLUSION -> international recognition",
+            "NOT AUTOMATIC -> national status may exist without UNESCO status",
+            "RULE -> always name which status and year is meant",
+            "MUST REMEMBER: Biosphere reserves use conservation-development-logistic zoning, whereas..."
+          ],
+          "source_references": [
+            "National Biosphere Reserve designation",
+            "UNESCO World Network status",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Core buffer transition",
+          "structural_type": "nested-zones",
+          "ascii_lines": [
+            "CORE -> long-term conservation and minimal disturbance",
+            "BUFFER -> research, monitoring, education and compatible use",
+            "TRANSITION -> settlements, livelihoods and sustainable development",
+            "INTERACTION -> zones support one landscape strategy",
+            "CAUTION -> zonation is not three equal legal protection tiers"
+          ],
+          "source_references": [
+            "Core zone",
+            "Buffer zone",
+            "Transition zone",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Biosphere function triangle",
+          "structural_type": "triangle",
+          "ascii_lines": [
+            "CONSERVATION -> landscapes, ecosystems, species and genetic variation",
+            "DEVELOPMENT -> sustainable human and economic activity",
+            "LOGISTICAL SUPPORT -> research, monitoring, education and training",
+            "ZONATION -> assigns compatible functions across space",
+            "VERDICT -> effectiveness depends on domestic implementation"
+          ],
+          "source_references": [
+            "Three biosphere functions",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ramsar three-pillar rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WISE USE -> all wetlands",
+            "RAMSAR LIST -> designate suitable wetlands and manage them",
+            "COOPERATION -> transboundary wetlands, systems and shared species",
+            "INDIA PARTY DATE -> 1 February 1982 on MoEFCC page",
+            "RULE -> treaty obligation is broader than listed sites alone"
+          ],
+          "source_references": [
+            "Ramsar Convention",
+            "Wise use",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ramsar status firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RAMSAR SITE -> international Wetland of Importance listing",
+            "DOMESTIC NOTIFICATION -> Indian legal instrument",
+            "MANAGEMENT PLAN -> operational commitments and actions",
+            "IMPLEMENTATION -> monitored ecological outcome",
+            "RULE -> one milestone never proves the next"
+          ],
+          "source_references": [
+            "Ramsar designation",
+            "Designation and implementation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Criteria discipline",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "SITE EVIDENCE -> representative type, species or ecological functions",
+            "TEST -> applicable Ramsar criteria",
+            "AT LEAST ONE -> can support nomination",
+            "THRESHOLD -> use only readable official criterion text",
+            "NO SHORTCUT -> designation cannot be inferred from importance alone"
+          ],
+          "source_references": [
+            "Ramsar criteria boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ecological character map",
+          "structural_type": "system-map",
+          "ascii_lines": [
+            "COMPONENTS -> biotic and abiotic features",
+            "PROCESSES -> hydrology, nutrient and ecological interactions",
+            "BENEFITS OR SERVICES -> functions valued by people and ecosystems",
+            "BASELINE -> stated time and site boundary",
+            "CHANGE -> requires evidence, not a generic degradation label"
+          ],
+          "source_references": [
+            "Ecological character",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Montreux accountability loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "RAMSAR-LISTED SITE -> ecological character concern",
+            "MONTREUX RECORD -> change occurred, is occurring or is likely",
+            "ATTENTION AND ADVICE -> corrective management route",
+            "REVIEW -> current record can change",
+            "RULE -> Record status is neither delisting nor permanent stigma"
+          ],
+          "source_references": [
+            "Montreux Record",
+            "Montreux status discipline",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "International and domestic layers",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "RAMSAR CONVENTION -> international wise-use framework",
+            "RAMSAR DESIGNATION -> site recognition and reporting",
+            "WETLANDS RULES 2017 -> domestic regulatory framework",
+            "STATE WETLAND AUTHORITY -> identification and implementation",
+            "NPCA -> programme support; not the Ramsar designation itself"
+          ],
+          "source_references": [
+            "Wetlands Rules 2017",
+            "State Wetland Authorities",
+            "NPCA transition",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Programme time-point timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "OLDER DEMAND -> National Wetland Conservation Programme",
+            "PARALLEL PROGRAMME -> National Lake Conservation Plan",
+            "2013 OWNER ROUTE -> merger into NPCA",
+            "CURRENT ANSWER -> use NPCA with Wetlands Rules framework",
+            "CAUTION -> do not rewrite a historical PYQ's original programme label",
+            "CLOSE DISTINCTION: UNESCO biosphere reserve is not a Wildlife Protection Act category,..."
+          ],
+          "source_references": [
+            "NPCA transition",
+            "Audited PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Overlapping designation stack",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "NATIONAL PARK OR SANCTUARY -> domestic wildlife-law status",
+            "TIGER RESERVE -> species-management overlay",
+            "BIOSPHERE RESERVE -> zoned landscape designation",
+            "RAMSAR SITE -> wetland international listing",
+            "RULE -> map functions and boundaries separately",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify designation body, criteria, date,..."
+          ],
+          "source_references": [
+            "Overlapping designations",
+            "Designation and implementation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> biosphere status, zone, Ramsar status or domestic wetland law",
+            "FIX -> site boundary, designation date and competent authority",
+            "ANALYSE -> ecological character, wise use and livelihood mechanism",
+            "VERIFY -> current count and Montreux status before citing",
+            "CONCLUDE -> designation matters only through implemented management"
+          ],
+          "source_references": [
+            "Montreux status discipline",
+            "Live count boundary",
+            "Audited PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-07\\g3\\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

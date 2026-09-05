@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-02T06:52:00.901221+00:00",
+  "subject": "Indian Society",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 15,
+  "topic_validations_passed": 15,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_indian_society_deep_review (cwd=tools)",
+      "tests": 139,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_disparity_and_diversity_are_kept_independent (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_four_concepts_and_movement_forms_are_preserved (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_index_anchor_is_edition_bound_and_limited (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_no_state_ranking_or_income_figure_is_asserted (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_lived_practice_vocabulary_is_preserved (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_normative_doctrine_is_separated_from_descriptive_outcome (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_practice_analysis_names_a_mechanism_not_a_community (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_routed_pyq_status_and_support_role_are_transparent (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_uttarakhand_code_status_is_exact (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 139 tests in 2.911s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_01_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_01_sequential.IndianSociety01GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_01_sequential.IndianSociety01GeneratorTests) ... ok\ntest_diversity_evidence_and_claim_limits_are_preserved (test_generate_indian_society_01_sequential.IndianSociety01GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_01_sequential.IndianSociety01GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_01_sequential.IndianSociety01GeneratorTests) ... ok\ntest_verified_pyq_wording_is_reproduced_without_invention (test_generate_indian_society_01_sequential.IndianSociety01GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.162s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_02_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\ntest_caste_structure_and_mobility_evidence_is_preserved (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\ntest_five_verified_pyq_demands_are_reproduced (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_02_sequential.IndianSociety02GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.162s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_03_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_three_verified_pyq_demands_are_reproduced (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_tribal_policy_and_official_evidence_are_preserved (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\ntest_unkeyed_prelims_item_is_not_solved (test_generate_indian_society_03_sequential.IndianSociety03GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.175s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_04_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_four_verified_pyq_demands_are_reproduced (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_kinship_evidence_and_data_limits_are_preserved (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_matriliny_is_not_presented_as_matriarchy (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_04_sequential.IndianSociety04GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.173s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_05_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\ntest_rural_structure_and_measurement_limits_are_preserved (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\ntest_zero_direct_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_05_sequential.IndianSociety05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.151s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_06_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_no_unsourced_demographic_statistic_is_asserted (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_population_determinants_and_data_boundaries_are_preserved (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_06_sequential.IndianSociety06GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.224s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_07_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_access_indicators_are_dated_and_not_treated_as_agency (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_organisational_forms_and_trichotomy_are_preserved (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_07_sequential.IndianSociety07GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.184s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_08_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_capability_and_reform_diagnoses_are_preserved (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_cross_owned_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_multidimensional_estimate_is_dated_and_bounded (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_08_sequential.IndianSociety08GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.211s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_09_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_deprivation_theory_and_conflict_design_are_preserved (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_poverty_estimate_is_dated_and_not_attributed_to_a_programme (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_09_sequential.IndianSociety09GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.183s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_10_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_urban_mechanisms_and_justice_tests_are_preserved (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\ntest_urbanisation_share_is_labelled_a_projection (test_generate_indian_society_10_sequential.IndianSociety10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.177s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_11_sequential (cwd=tools)",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_cross_owner_conflict_is_recorded_not_resolved (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_globalisation_channels_and_distinctions_are_preserved (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_labour_statistics_carry_period_and_boundary (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_provisional_survey_status_is_stated (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_11_sequential.IndianSociety11GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 0.194s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_12_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_change_vocabulary_and_scholars_are_preserved (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_cross_owner_conflict_is_recorded_not_resolved (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_cryptocurrency_answer_stays_on_the_society_layer (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_durable_theory_topic_forces_no_current_anchor (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_secularisation_boundary_is_kept_three_way (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_12_sequential.IndianSociety12GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.190s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_13_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_communalism_is_separated_from_religious_belief (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_escalation_chain_is_kept_conditional (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_mobilisation_mechanisms_are_preserved (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_no_riot_or_casualty_statistic_is_asserted (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_statute_is_bounded_and_no_litigation_outcome_is_claimed (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\ntest_zero_recent_pyq_is_recorded_honestly (test_generate_indian_society_13_sequential.IndianSociety13GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.193s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_14_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_accommodation_record_and_statute_are_present (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_disparity_and_diversity_are_kept_independent (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_four_concepts_and_movement_forms_are_preserved (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_index_anchor_is_edition_bound_and_limited (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_no_state_ranking_or_income_figure_is_asserted (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_routed_pyq_status_is_transparent_and_unfabricated (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_14_sequential.IndianSociety14GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.204s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_society_15_sequential (cwd=tools)",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_lived_practice_vocabulary_is_preserved (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_normative_doctrine_is_separated_from_descriptive_outcome (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_practice_analysis_names_a_mechanism_not_a_community (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_routed_pyq_status_and_support_role_are_transparent (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\ntest_uttarakhand_code_status_is_exact (test_generate_indian_society_15_sequential.IndianSociety15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 0.185s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 15.846s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 2.074s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 11.745s\n\nOK"
+    }
+  ],
+  "test_count": 339,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 15,
+    "learning_and_workbook_pdfs_checked": 30,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "full_library_validation": {
+    "topic_count": 319,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02-validation.json",
+    "status": "passed"
+  },
+  "post_shared_checks": [
+    {
+      "command": "python tools\\sync_deep_review_tracker.py",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "Synced 319 topics; added=0 reset=0."
+    }
+  ],
+  "final_persistent_verification": {
+    "represented": 15,
+    "passed": 15,
+    "score": 98,
+    "hard_gate_failures": 0,
+    "tracker_mismatches": 0,
+    "approval": false,
+    "latest_identity_agreement": true,
+    "generation_transitions_verified": 15,
+    "preserved_intermediates_verified": true,
+    "final_library_topic_count": 319,
+    "targeted_final_tests": 210,
+    "targeted_final_test_failures": 0,
+    "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\indian-society-deep-review-2026-09-02-changed-files.txt",
+    "nul_inventory": "upsc-ai-kit\\manifests\\exports\\indian-society-deep-review-2026-09-02-changed-files.nul",
+    "inventory_count": 4980
+  }
+}

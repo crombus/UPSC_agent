@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Essay learner-v2 Topic 03",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "essay-03",
+      "display_title": "Issue-Based Prompt Scoping",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-03_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Issue classification gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "CONCRETE PHENOMENON NAMED?",
+            "CAUSAL OR EVALUATIVE CLAIM PRESENT?",
+            "LITERAL READING ALREADY CONTESTABLE?",
+            "YES -> SCOPE | NO -> DECODE FIRST"
+          ],
+          "source_references": [
+            "Issue-statement prompt",
+            "Classification gate"
+          ]
+        },
+        {
+          "title": "Demand types",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "QUESTION -> judgment required",
+            "ALTERNATIVES -> compare and qualify",
+            "CAUSAL ASSERTION -> test links",
+            "VALUE CLAIM -> define evaluative standard"
+          ],
+          "source_references": [
+            "Directive or demand",
+            "Causal demand",
+            "Evaluative demand"
+          ]
+        },
+        {
+          "title": "Object-qualifier lock",
+          "structural_type": "firewall",
+          "ascii_lines": [
+            "OBJECT -> exact phenomenon or relationship",
+            "QUALIFIER -> named population, place or judgment",
+            "THESIS -> must preserve both",
+            "DRIFT -> adjacent subject matter without argumentative function"
+          ],
+          "source_references": [
+            "Object",
+            "Qualifier",
+            "Thesis boundary"
+          ]
+        },
+        {
+          "title": "Scope coordinates",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WHERE -> geography",
+            "WHEN -> time horizon",
+            "WHO -> actor",
+            "AT WHAT LEVEL -> scale"
+          ],
+          "source_references": [
+            "Geography",
+            "Time",
+            "Actor",
+            "Scale"
+          ]
+        },
+        {
+          "title": "Causal chain test",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "ASSERTED CAUSE",
+            "MECHANISM -> EVIDENCE",
+            "MEDIATOR OR FEEDBACK",
+            "LIMIT -> QUALIFIED EFFECT"
+          ],
+          "source_references": [
+            "Causal demand",
+            "Hidden tension"
+          ]
+        },
+        {
+          "title": "Evaluative standard",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PROMPT WORD -> threat, anomaly, myth or complex",
+            "STANDARD -> what would make the judgment true",
+            "EVIDENCE -> cases supporting or weakening it",
+            "VERDICT -> graded rather than absolute"
+          ],
+          "source_references": [
+            "Evaluative demand",
+            "Thesis boundary"
+          ]
+        },
+        {
+          "title": "Hidden-tension map",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "PROMISED BENEFIT",
+            "OBSERVED OR ASSERTED COST",
+            "CONDITIONS ALTERING THE BALANCE",
+            "SYNTHESIS -> responsibility across actors"
+          ],
+          "source_references": [
+            "Hidden tension",
+            "Counter-case",
+            "Synthesis"
+          ]
+        },
+        {
+          "title": "Exclusion box",
+          "structural_type": "boundary-map",
+          "ascii_lines": [
+            "IN -> material proving the exact relationship",
+            "OUT -> generic history of the whole domain",
+            "OUT -> unrelated schemes and statistics",
+            "RE-ENTRY -> only with a clear argumentative function"
+          ],
+          "source_references": [
+            "Excluded material",
+            "Policy-catalogue avoidance"
+          ]
+        },
+        {
+          "title": "Definition-to-thesis bridge",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DEFINE NECESSARY TERMS",
+            "STATE OBJECT AND QUALIFIERS",
+            "NAME CAUSAL OR EVALUATIVE BURDEN",
+            "WRITE CONDITIONAL THESIS"
+          ],
+          "source_references": [
+            "Definition boundary",
+            "Thesis boundary",
+            "Directive or demand"
+          ]
+        },
+        {
+          "title": "GS-collapse warning",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GS LIST -> causes, effects, schemes",
+            "ESSAY MOVE -> claim, mechanism, counter-case",
+            "GS LIST -> parallel headings",
+            "ESSAY MOVE -> connected paragraph argument"
+          ],
+          "source_references": [
+            "GS-answer collapse",
+            "Policy-catalogue avoidance"
+          ]
+        },
+        {
+          "title": "Counter-case to synthesis",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "THESIS -> strongest supporting mechanism",
+            "COUNTER-CASE -> rival effect or limit",
+            "CONDITION -> when each side dominates",
+            "SYNTHESIS -> distributed responsibility and feasible action"
+          ],
+          "source_references": [
+            "Counter-case",
+            "Synthesis"
+          ]
+        },
+        {
+          "title": "Scoping answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> DEMAND -> OBJECT -> QUALIFIER",
+            "GEOGRAPHY -> TIME -> ACTOR -> SCALE",
+            "MECHANISM -> TENSION -> EXCLUSIONS",
+            "THESIS -> COUNTER-CASE -> SYNTHESIS"
+          ],
+          "source_references": [
+            "Classification gate",
+            "Scope creep",
+            "Synthesis"
+          ]
+        }
+      ]
+    }
+  ]
+}

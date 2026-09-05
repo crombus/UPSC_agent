@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "notions-style-ascii-master-repair-2026-08-23-geography-04-title-correction",
+  "validated_on": "2026-08-23T13:42:19.736310+05:30",
+  "selection": "geography-04 duplicate-panel-title correction",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "geography-04",
+      "source_generation": 5,
+      "refreshed_generation": 6,
+      "subject": "Geography",
+      "section": "Part-A-Physical-Geography",
+      "topic_folder": "geography-04",
+      "main_pdf_pages": 78,
+      "workbook_pdf_pages": 20,
+      "session_count": 20,
+      "ascii_panel_count": 8,
+      "ascii_max_line_width": 99,
+      "ascii_branch_count": 59,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g6\\geography-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g6\\geography-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g6\\geography-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g6\\geography-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-04\\carvaka-g6"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    }
+  ]
+}

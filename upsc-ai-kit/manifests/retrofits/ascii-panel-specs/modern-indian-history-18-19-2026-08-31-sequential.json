@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 18-19",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-18",
+      "display_title": "First World War, the Home Rule League & the Lucknow Pact (1914–1918)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\18_First-World-War-Home-Rule-League-Lucknow-Pact_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Wartime-to-transition chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "JUN 1914 -> Tilak released; wartime support and extraction begin",
+            "DEC 1915 -> Congress authorises Extremist readmission",
+            "APR-SEP 1916 -> Tilak and Besant create separate Leagues",
+            "DEC 1916 -> Lucknow publicly consummates double unity and Pact",
+            "1917 -> security action, internments and bounded Montagu promise",
+            "1918 -> reform division and Tilak's absence weaken the movement."
+          ],
+          "source_references": [
+            "War, chronology and the transition problem"
+          ]
+        },
+        {
+          "title": "Loyalty, extraction and reciprocity gap",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "SUPPORT -> soldiers, money and materials",
+            "EXPECTATION -> constitutional reward after wartime loyalty",
+            "PRESSURE -> taxes, loans, recruitment, shortages and price rises",
+            "OFFSET -> selected industries and traders gain wartime opportunities",
+            "CONTRADICTION -> imperial liberty language versus colonial rule",
+            "GAP -> sacrifice is not matched by adequate political power",
+            "RESULT -> demand shifts from hopeful support to organised pressure."
+          ],
+          "source_references": [
+            "Wartime loyalty, extraction and expectation",
+            "The democratic contradiction of empire"
+          ]
+        },
+        {
+          "title": "Congress repair before renewed agitation",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "1907 SURAT -> divided Congress",
+            "            JUN 1914 -> Tilak released",
+            "            DEC 1915 -> Congress authorises readmission",
+            "            WAR -> increases need for a united constitutional front",
+            "            DEC 1916 -> public reunion at Lucknow",
+            "LIMIT -> reunion restores cooperation, not ideological uniformity."
+          ],
+          "source_references": [
+            "Congress deadlock and Moderate-Extremist reunion"
+          ]
+        },
+        {
+          "title": "Two Home Rule Leagues identity matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS       TILAK                     BESANT",
+            "launch     April 1916                September 1916",
+            "field      Maharashtra except        most other areas,",
+            "           Bombay; Karnataka; C.P.    including Bombay city",
+            "network    regional workers          Arundale, Wadia, Ramaswami Aiyar",
+            "rule       separate organisations; shared constitutional demand."
+          ],
+          "source_references": [
+            "Tilak's Home Rule League",
+            "Annie Besant's Home Rule League"
+          ]
+        },
+        {
+          "title": "Home Rule demand and method",
+          "structural_type": "process",
+          "ascii_lines": [
+            "GOAL -> self-government within the British Empire",
+            "NOT GOAL -> immediate complete independence",
+            "PRESS -> New India, Commonweal and wider political journalism",
+            "CONTACT -> tours, lectures, pamphlets and public meetings",
+            "ORGANISATION -> branches, libraries and political classes",
+            "EFFECT -> continuous political education beyond annual sessions."
+          ],
+          "source_references": [
+            "Two Leagues, territorial division and shared demand",
+            "Political education, press and branch methods"
+          ]
+        },
+        {
+          "title": "Repression feedback loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "            LEAGUE EXPANSION -> security cases, exclusions and student restrictions",
+            "            NOV 1916 -> Besant restricted",
+            "            JUNE 1917 -> Besant, Wadia and Arundale interned",
+            "            INTERNMENT -> civil-liberty protest and wider sympathy",
+            "RELEASE -> movement prestige rises",
+            "1917 -> Besant becomes Congress president."
+          ],
+          "source_references": [
+            "Repression and Besant's internment"
+          ]
+        },
+        {
+          "title": "Lucknow double-unity map",
+          "structural_type": "split-rail",
+          "ascii_lines": [
+            "PRESIDENT -> Ambica Charan Mazumdar",
+            "TRACK A -> Moderates + Tilak's current achieve Congress reunion",
+            "TRACK B -> Congress + League adopt a joint constitutional scheme",
+            "BRIDGES -> Tilak, Besant and Jinnah; Malaviya dissents",
+            "MERGER POINT -> stronger wartime bargaining platform",
+            "CAUTION -> the two settlements carried different institutional costs."
+          ],
+          "source_references": [
+            "Lucknow Session and double unity"
+          ]
+        },
+        {
+          "title": "Joint demand and constitutional ceiling",
+          "structural_type": "boundary-map",
+          "ascii_lines": [
+            "LEGISLATURES -> four-fifths elected",
+            "IMPERIAL COUNCIL -> proposed strength of 150",
+            "EXECUTIVE -> greater Indian participation",
+            "PROVINCES -> wider fiscal and internal authority",
+            "CEILING -> no immediate responsible government or sovereignty",
+            "VALUE -> common platform increases bargaining credibility."
+          ],
+          "source_references": [
+            "The Pact's joint constitutional programme"
+          ]
+        },
+        {
+          "title": "Representation devices and provincial logic",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PUNJAB 50 | BENGAL 40 | BOMBAY 1/3 | U.P. 30",
+            "BIHAR 25 | C.P. 15 | MADRAS 15",
+            "CENTRE -> one-third of elected Indian members",
+            "SAFEGUARD -> three-fourths community opposition blocks a measure",
+            "1909 -> separate electorates statutory; 1916 -> Congress accepts them",
+            "RULE -> electorate, weightage and veto are distinct mechanisms."
+          ],
+          "source_references": [
+            "Separate electorates, weightage and provincial logic"
+          ]
+        },
+        {
+          "title": "Lucknow balance sheet",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "GAIN -> Congress reunion",
+            "GAIN -> Congress-League common reform platform",
+            "GAIN -> concentrated pressure during wartime",
+            "COST -> communal category becomes a bargaining unit",
+            "COST -> separate electorates receive Congress acceptance",
+            "VERDICT -> real tactical advance with a durable contradiction."
+          ],
+          "source_references": [
+            "Significance and contradiction of Lucknow"
+          ]
+        },
+        {
+          "title": "Montagu Declaration boundary ladder",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PRESSURE -> war needs + Home Rule + Lucknow unity",
+            "20 AUG 1917 -> responsible government stated as an objective",
+            "METHOD -> increasing Indian association",
+            "PACE -> gradual development",
+            "BOUNDARY -> executive discretion and imperial membership remain",
+            "SEQUEL -> promise opens, but does not settle, constitutional conflict."
+          ],
+          "source_references": [
+            "Montagu Declaration as a bounded sequel"
+          ]
+        },
+        {
+          "title": "Absorption, memory and examination bridge",
+          "structural_type": "transition-map",
+          "ascii_lines": [
+            "            1918 DECLINE -> moderate exit + reform division + Besant vacillation",
+            "            TILAK ABROAD -> principal organiser absent",
+            "            TRANSFER -> cadres, branches and propaganda habits later aid Congress",
+            "            2018 Q79 -> 1920 Swarajya Sabha renaming route; key unavailable",
+            "            2026 CWGC -> Punjab Registers recover omitted servicemen",
+            "            VERIFIED FIGURE -> 9,909 names added to CWGC records",
+            "BOUNDARY -> commemoration evidence, not nationalist causal proof."
+          ],
+          "source_references": [
+            "Decline, absorption, public memory and PYQ route"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-19",
+      "display_title": "Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\19_Gandhis-Rise-Champaran-Kheda-Ahmedabad-Rowlatt-Jallianwala_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Formation-to-national-leadership chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1893-1914 -> South African formation of satyagraha",
+            "1915 -> return to India and Gokhale's counsel",
+            "1917 -> Champaran",
+            "1918 -> Ahmedabad and Kheda",
+            "FEB-APR 1919 -> Satyagraha Sabha and Rowlatt hartal",
+            "13 APR 1919 -> Jallianwala; repression reshapes national politics."
+          ],
+          "source_references": [
+            "South Africa, return in 1915 and Gokhale's counsel"
+          ]
+        },
+        {
+          "title": "Satyagraha mechanism",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "TRUTH -> grievance must survive factual inquiry",
+            "OPENNESS -> law-breaking is declared, not concealed",
+            "NON-VIOLENCE -> opponent is pressured without physical injury",
+            "SELF-SUFFERING -> satyagrahi accepts punishment",
+            "DISCIPLINE -> organisation controls participation",
+            "POLITICAL EFFECT -> repression loses legitimacy; negotiation opens."
+          ],
+          "source_references": [
+            "Satyagraha principles and political mechanism"
+          ]
+        },
+        {
+          "title": "Champaran local-agency chain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "TINKATHIA = 3/20 / PLANTER PRESSURE -> cultivator grievance",
+            "RAJ KUMAR SHUKLA -> persistent local invitation",
+            "GANDHI ARRIVES -> about 8,000 statements",
+            "ORDER TO LEAVE -> open refusal and acceptance of legal risk",
+            "OFFICIAL INQUIRY -> 25% refund -> later tinkathia abolition",
+            "SIGNIFICANCE -> local peasant issue enters national politics."
+          ],
+          "source_references": [
+            "Champaran: Raj Kumar Shukla, tinkathia and local agency"
+          ]
+        },
+        {
+          "title": "Ahmedabad relationship and dispute map",
+          "structural_type": "relationship-map",
+          "ascii_lines": [
+            "WORKERS SEEK 50% -> plague-bonus and wage claim",
+            "ANASUYA SARABHAI -> labour organisation",
+            "OWNERS OFFER 20% -> Gandhi supports 35%",
+            "AMBALAL SARABHAI -> mill owner and Gandhi associate",
+            "SIBLING LINK -> access and mediation across opposing interests",
+            "CAUTION -> relationship does not erase class conflict."
+          ],
+          "source_references": [
+            "Ahmedabad: plague bonus, wages and the Sarabhai relationship"
+          ]
+        },
+        {
+          "title": "Ahmedabad pressure-to-arbitration sequence",
+          "structural_type": "procedure-sequence",
+          "ascii_lines": [
+            "DISPUTE -> worker pledge and 21-day strike",
+            "STALEMATE -> discipline becomes fragile",
+            "GANDHI FASTS THREE DAYS -> first fast in an Indian struggle",
+            "MORAL PRESSURE -> workers and owners face reputational cost",
+            "ARBITRATION -> institutional settlement route",
+            "SOURCE GAP -> outcome reported as 35% or 27.5%; preserve dispute."
+          ],
+          "source_references": [
+            "Ahmedabad: first Indian fast, pledge and arbitration"
+          ]
+        },
+        {
+          "title": "Kheda remission campaign",
+          "structural_type": "process",
+          "ascii_lines": [
+            "CROP FAILURE -> four annas or less under revenue rules",
+            "DEMAND -> suspend collection",
+            "PATEL + INDULAL YAGNIK -> village-level organisation",
+            "PLEDGE -> better-off protect poorer cultivators",
+            "ATTACHMENT RISK -> property pressure and selective recovery",
+            "RELIEF -> bounded and uneven; not abolition of taxation."
+          ],
+          "source_references": [
+            "Kheda: crop failure, revenue remission and leadership"
+          ]
+        },
+        {
+          "title": "Three local laboratories",
+          "structural_type": "split-rail",
+          "ascii_lines": [
+            "CHAMPARAN -> cultivators / planters / indigo / inquiry plus defiance",
+            "AHMEDABAD -> mill workers / mill owners / wage-bonus / fast plus arbitration",
+            "KHEDA -> cultivators / revenue state / crop assessment / organised withholding",
+            "COMMON -> disciplined collective action opens negotiation",
+            "DIFFERENCE -> grievance, opponent and leverage structure vary",
+            "RULE -> treat the campaigns as laboratories, not identical templates."
+          ],
+          "source_references": [
+            "Comparative anatomy of Champaran, Ahmedabad and Kheda"
+          ]
+        },
+        {
+          "title": "Rowlatt emergency-power carryover",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "WAR -> inflation, scarcity, epidemic distress and coercive power",
+            "1917 PROMISE -> reform expectation rises",
+            "COMMITTEE -> recommends continued anti-revolutionary powers",
+            "TWO BILLS -> one becomes Act XI on 18 March 1919",
+            "RIGHTS EFFECT -> detention and reduced ordinary safeguards",
+            "POLITICAL EFFECT -> post-war betrayal frame",
+            "TRAP -> not the Montagu-Chelmsford constitutional reform scheme."
+          ],
+          "source_references": [
+            "Wartime hardship and the reform-repression contradiction",
+            "Rowlatt Committee, Bills and Act"
+          ]
+        },
+        {
+          "title": "Sabha, hartal and communication gap",
+          "structural_type": "communication-flow",
+          "ascii_lines": [
+            "FEB 1919 -> Satyagraha Sabha in Bombay",
+            "PLEDGE -> civil disobedience plus acceptance of punishment",
+            "DATE CHANGE -> message does not travel uniformly",
+            "DELHI -> acts on 30 March",
+            "6 APRIL -> final all-India hartal",
+            "LESSON -> reach exceeded communication and discipline capacity."
+          ],
+          "source_references": [
+            "Satyagraha Sabha, 6 April hartal and Delhi mismatch"
+          ]
+        },
+        {
+          "title": "The Himalayan-miscalculation feedback",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "ALL-INDIA APPEAL -> rapid mobilisation",
+            "RAPID SCALE -> uneven training",
+            "UNEVEN TRAINING -> violence",
+            "VIOLENCE -> suspension on 18 April",
+            "SELF-CRITIQUE -> Himalayan miscalculation",
+            "LATER RULE -> disciplined organisation must precede mass action."
+          ],
+          "source_references": [
+            "Violence and the Himalayan miscalculation"
+          ]
+        },
+        {
+          "title": "Punjab trigger-to-massacre sequence",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "WARTIME PUNJAB -> recruitment pressure and repression",
+            "            LOCAL POLITICS -> Kitchlew and Satyapal",
+            "            10 APRIL ARREST / REMOVAL -> firing, attacks and confrontation",
+            "13 APRIL -> gathering at Jallianwala Bagh",
+            "            REGINALD DYER -> no warning / dispersal order; not Michael O'Dwyer",
+            "EVIDENCE RULE -> no disputed casualty total."
+          ],
+          "source_references": [
+            "Punjab context and the arrests of Kitchlew and Satya Pal",
+            "Jallianwala Bagh: enclosed space, Dyer and firing"
+          ]
+        },
+        {
+          "title": "Martial law, inquiry and moral rupture",
+          "structural_type": "accountability-map",
+          "ascii_lines": [
+            "13 APRIL MASSACRE -> formal martial law follows",
+            "SPECIFIC ABUSE -> crawling order in a particular Amritsar lane",
+            "OFFICIAL ROUTE -> Hunter majority and Indian minority",
+            "INDIAN ROUTE -> Congress Punjab Inquiry",
+            "MORAL RESPONSE -> Tagore 1919; Gandhi returns medal in 1920",
+            "DEC 1919 CONGRESS -> Gandhi / C.R. Das compromise on reforms",
+            "TRANSITION -> consent recedes; Non-Cooperation later becomes credible."
+          ],
+          "source_references": [
+            "Martial law, crawling order and competing inquiries",
+            "Moral repudiation, consequences and Non-Cooperation bridge"
+          ]
+        }
+      ]
+    }
+  ]
+}

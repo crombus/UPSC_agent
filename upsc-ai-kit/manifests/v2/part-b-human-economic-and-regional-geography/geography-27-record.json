@@ -1,0 +1,45 @@
+{
+  "main_pdf": "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\notes\\geography-27_Learning-Session_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-27_Learning-Session.md",
+  "variant": "learner-v2",
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "tools/validate_v2_export.py"
+  },
+  "command": "Generate learner-v2 topic: Geography — Part B — Human, Economic and Regional Geography — Migration Theories and Patterns (India)",
+  "approved": false,
+  "generated_on": "2026-09-01",
+  "provenance": {
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-27_Learning-Session.md",
+    "workflow": "geography-27-learner-v2-direct-generator",
+    "generation_date": "2026-09-01",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+    ],
+    "renderer": {
+      "version": "2.5",
+      "name": "tools/markdown_learning_pdf.py"
+    },
+    "superseded_v1": "geography-27:legacy-v1:g1",
+    "local_ocr_sources": []
+  },
+  "supersedes": "geography-27:legacy-v1:g1",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-27_Solved-Workbook.md",
+  "workbook": "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\workbooks\\geography-27_Solved-Workbook_2026-09-01.pdf",
+  "generation": 2,
+  "approval": {
+    "approved_on": null,
+    "scope": "geography-27:learner-v2:g2",
+    "approved": false
+  },
+  "topic_key": "geography-27",
+  "record_id": "geography-27:learner-v2:g2"
+}

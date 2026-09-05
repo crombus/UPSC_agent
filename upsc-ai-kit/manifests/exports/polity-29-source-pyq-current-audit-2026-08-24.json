@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-29",
+  "title": "Finance Commission",
+  "gate": "A",
+  "started_at": "2026-08-24T20:55:27+05:30",
+  "completed_at": "2026-08-24T20:55:31+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://fincomindia.nic.in/",
+          "status_code": 200,
+          "final_url": "https://fincomindia.nic.in/",
+          "title": ":: Finance Commission, India ::",
+          "evidence_excerpt": ":: Finance Commission, India :: भारत सरकार GOVERNMENT OF INDIA वित्त मत्रांलय Ministry of Finance SIXTEENTH FINANCE COMMISSION OF INDIA SIXTEENTH FINANCE COMMISSION OF INDIA Home About Us About Finance Commission Constitutional Provisions Finance Commission Act Finance Commission Rules Sixteenth Finance Commission Composition Notifications & Media Gallery 16 th Finance Commission Report Finance Commission Repository Related Links Sixteenth Finance Commission Report tabled in Parliament Dr. Arvind Panagariya Chairman of the 16th Finance Commission of India Arvind Panagariya is Professor of Econ",
+          "accessed_at": "2026-08-24T20:55:27+05:30"
+        },
+        {
+          "url": "https://www.indiabudget.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.indiabudget.gov.in/",
+          "title": "India Budget | Ministry of Finance | Government of India",
+          "evidence_excerpt": "India Budget | Ministry of Finance | Government of India Note: The Budget data in excel has been generated from System. In case of any inconsistency, pdf files will be treated as final for Budget 2026-2027 Download Mobile Application भारत सरकार GOVERNMENT OF INDIA वित्त मंत्रालय Ministry of Finance Screen Reader Access Skip to main content A + A A - A A Language हिन्दी Go केन्द्रीय बजट Union Budget Previous Next Budget Highlights (Key Features of Budget) Union Budget Documents 2026-2027 Finance Minister's Speech - Speech Word Key to Budget Document, 2026 Budget Highlights (Key Features) Annual",
+          "accessed_at": "2026-08-24T20:55:28+05:30"
+        },
+        {
+          "url": "https://www.pib.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.pib.gov.in/index.aspx?reg=48&lang=2",
+          "title": "Press Information Bureau",
+          "evidence_excerpt": "Press Information Bureau",
+          "accessed_at": "2026-08-24T20:55:29+05:30"
+        },
+        {
+          "url": "https://legislative.gov.in/document/constitution-of-india-in-english",
+          "status_code": 200,
+          "final_url": "https://www.legislative.gov.in/document/constitution-of-india-in-english",
+          "title": "",
+          "evidence_excerpt": "",
+          "accessed_at": "2026-08-24T20:55:29+05:30"
+        },
+        {
+          "url": "https://cag.gov.in/en",
+          "status_code": 200,
+          "final_url": "https://cag.gov.in/en",
+          "title": "Home | Comptroller and Auditor General of India",
+          "evidence_excerpt": "Home | Comptroller and Auditor General of India This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser. MENU About Us About Us CAG of India Our Vision, Mission and Core Values Organisation Chart History of Indian Audit and Accounts Department Former Comptroller and Auditors General International Relations Audit Advisory Board Our Mandate Constitutional Provisions Duties, Power and Conditions of Service Act Audit Regulations Disclosure Recruitment Annual Report Peer Re",
+          "accessed_at": "2026-08-24T20:55:31+05:30"
+        }
+      ],
+      "result": "The Sixteenth Finance Commission's official report, submitted on 17 November 2025, the Explanatory Memorandum tabled on 1 February 2026 and Union Budget 2026-27 remain the dated controls for the 2026-31 award. Recommendation, acceptance and implementation are kept distinct."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 4,
+    "supporting_route_count": 1,
+    "total_routed_count": 5,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-24",
+    "fact": "The Sixteenth Finance Commission's official report, submitted on 17 November 2025, the Explanatory Memorandum tabled on 1 February 2026 and Union Budget 2026-27 remain the dated controls for the 2026-31 award. Recommendation, acceptance and implementation are kept distinct.",
+    "caveat": "The Finance Commission is periodic and advisory. Its tax-devolution recommendations concern net shareable proceeds, not gross tax revenue; cesses and surcharges require separate treatment, and local-body augmentation remains textually linked to State Finance Commission recommendations."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md": "c66815bf8b63bc7e21ea8066fcfeeac443b7f533462252894d19bcf26f04b5be",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md": "bb4ebb9b449ad22b6802ee7b8773c661bb9100e179378e5eb397cdf3dd2b4680",
+    "upsc-ai-kit\\knowledge\\Polity\\29_Finance-Commission_Complete-Topic-Package.md": "2d4fcd236011ddd241050749abd99bef3f66edd7cb9287b1ce62e68a229d1044",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md": "bec6b166eace786bf55a86c0fff15532fd6b67b108f321b7e058a5233ade3332",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md": "3b39b5be1efd320f3e00a5acc4e3013aaeb101b9f531299009f359da788e0032",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Municipalities.md": "5d398deba4f5cbff91b0aea3acf84d7ff0e5721cb226d1dad771e3b644e45947",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md": "5069ee71741313bce14e6ab94d21fe884ea3cdbcf4f27ae2e8ab82d0c678da0b",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\CAG.md": "af5ebdbd6857699d3069270e4838dc0290759985a3b87fbdaa0cd87d108d4e2e",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md": "796b468e6b663a1a3c7e89500c6e97ff429c6b194469504fe7265aac9747914d",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md": "fd99b497c081397790cda792eb40fef958d9d004e47b5e62cfde66d0409d3053",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md": "36c908bc19957ee1acf9955fe5380bc97522e0d7cb11a24773cc6f26fe56ae7a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "Articles 280-281 with Articles 270, 271, 275, 279 and 282",
+    "composition, qualifications, tenure, procedure and evidentiary powers",
+    "vertical and horizontal devolution, divisible pool and formula criteria",
+    "grants-in-aid, local-body augmentation and disaster financing",
+    "Fourteenth, Fifteenth and Sixteenth Commission mandates and dated status",
+    "cesses, surcharges, borrowing, off-budget risk and performance debates",
+    "Finance Commission comparison, fiscal-federalism traps and answer frameworks"
+  ],
+  "topic_completeness_status": "passed",
+  "case_year_sources": [
+    {
+      "case_id": "bhim-singh-article-282",
+      "canonical_label": "Bhim Singh (2010)",
+      "decision_year": 2010,
+      "source_title": "Bhim Singh v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Bhim+Singh+Union+of+India+Article+282+2010"
+    },
+    {
+      "case_id": "mohit-minerals",
+      "canonical_label": "Mohit Minerals (2022)",
+      "decision_year": 2022,
+      "source_title": "Union of India v. Mohit Minerals, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Union+of+India+v+Mohit+Minerals+19+May+2022"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-24",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "The Finance Commission is periodic and advisory. Its tax-devolution recommendations concern net shareable proceeds, not gross tax revenue; cesses and surcharges require separate treatment, and local-body augmentation remains textually linked to State Finance Commission recommendations."
+  }
+}

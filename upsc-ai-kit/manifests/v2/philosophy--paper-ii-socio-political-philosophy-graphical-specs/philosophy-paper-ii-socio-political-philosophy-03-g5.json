@@ -1,0 +1,1318 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+  "subject": "Philosophy",
+  "title": "INDIVIDUAL AND STATE",
+  "short_route": "THE CENTRAL QUESTION OF → GROUNDING A RIGHT: NATURE → THE STRUCTURE OF A → DUTIES, THE INVERSION OF → ACCOUNTABILITY: THREE CHANNELS AND → LIBERAL, IDEALIST AND CONTRACTARIAN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-03-ascii-g5-2026-09-03.json",
+  "ascii_spec_sha256": "55dba50447e3c99c4573f88ecc857a6707c7d5707529be2a0786fbaa8e35b85e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION OF THE INDIVIDUAL-STATE RELATION AND ITS VOCABULARY",
+      "structural_type": "root-question-and-conceptual-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE CENTRAL QUESTION OF THE INDIVIDUAL-STATE RELATION AND ITS",
+          "role": "institution"
+        },
+        {
+          "text": "ON WHAT TERMS MAY ORGANISED PUBLIC AUTHORITY BIND A",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE LINKED IDEAS",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS (JUSTIFIED CLAIMS)",
+          "role": "evidence"
+        },
+        {
+          "text": "DUTIES (WHAT IS OWED)",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNTABILITY (POWER THAT MUST ANSWER)",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDIVIDUAL SOCIETY GOVERNMENT STATE AGENCY, DIGNITY, WHOLE WEB OF",
+          "role": "institution"
+        },
+        {
+          "text": "AUTHORITY NOW; BINDING POWER OVER VOLUNTARY BODIES TRANSIENT A",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → on what terms may organised public authority BIND a person, and what",
+        "THREE LINKED IDEAS: RIGHTS (justified claims)",
+        "DUTIES (what is owed)",
+        "ACCOUNTABILITY (power that must answer)",
+        "INDIVIDUAL SOCIETY GOVERNMENT STATE agency, dignity, whole web of the organ that organised public interests"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION → on what terms may organised public authority BIND a person, and what may that person CLAIM, OWE and DEMAND in return?",
+            "THREE LINKED IDEAS: RIGHTS (justified claims)",
+            "DUTIES (what is owed)",
+            "ACCOUNTABILITY (power that must answer)",
+            "INDIVIDUAL SOCIETY GOVERNMENT STATE agency, dignity, whole web of the organ that organised public interests, moral cooperation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "binding power over voluntary bodies transient a territory",
+            "WHY A STATE → order and security",
+            "rights protection",
+            "public goods",
+            "justice and welfare"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "BUT the protector can DOMINATE → power must be JUSTIFIED, LIMITED, ANSWERABLE",
+            "LEGITIMACY (a right to rule subjects have reason to accept) vs COERCION (a gang)",
+            "SPECTRUM → minimal",
+            "CONTROL → define the terms FIRST, locate on the spectrum SECOND, adjudicate LAST."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGITIMACY (a right to rule subjects have reason to accept) vs COERCION (a gang).",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GROUNDING A RIGHT: NATURE, LAW AND THE CRITICAL MORAL REGISTER",
+      "structural_type": "doctrine-derivation-with-limits",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GROUNDING A RIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "NATURE, LAW AND THE CRITICAL MORAL REGISTER",
+          "role": "outcome"
+        },
+        {
+          "text": "A RIGHT IS A JUSTIFIED CLAIM, LIBERTY, POWER OR",
+          "role": "mechanism"
+        },
+        {
+          "text": "WHY IS IT OWED?",
+          "role": "evidence"
+        },
+        {
+          "text": "NATURAL (LOCKE) LEGAL (BENTHAM) MORAL RIGHTS HELD IN THE",
+          "role": "primary"
+        },
+        {
+          "text": "LAW NAMES A CLAIMANT, REASONING BEFORE ANY LIFE, LIBERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "FIDUCIARY TRUST; NONSENSE UPON STILTS; VALID BUT UNJUST LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHT TO RESIST CHILDREN OF LAW ANTI-COLONIAL CLAIMS)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION → a right is a JUSTIFIED CLAIM, LIBERTY, POWER or IMMUNITY: why is it",
+        "NATURAL (Locke) LEGAL (Bentham) MORAL rights held in the a right exists where justified by",
+        "ethical state of nature: law names a CLAIMANT, reasoning BEFORE any life, liberty, a DUTY-BEARER",
+        "and a enactment property REMEDY government is a natural rights are grounds criticism of a",
+        "FIDUCIARY TRUST; NONSENSE UPON STILTS; VALID but unjust law breach forfeits it real rights are"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "QUESTION → a right is a JUSTIFIED CLAIM, LIBERTY, POWER or IMMUNITY: why is it owed?",
+            "NATURAL (Locke) LEGAL (Bentham) MORAL rights held in the a right exists where justified by",
+            "ethical state of nature: law names a CLAIMANT, reasoning BEFORE any life, liberty, a DUTY-BEARER",
+            "and a enactment property REMEDY government is a natural rights are grounds criticism of a"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FIDUCIARY TRUST; NONSENSE UPON STILTS; VALID but unjust law breach forfeits it real rights are the (anti-slavery,",
+            "right to resist CHILDREN OF LAW anti-colonial claims)",
+            "PRESUPPOSITIONS → intrinsic moral status",
+            "institutional enforceability"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "standards of justice not exhausted by positive law",
+            "TRAP → Bentham rejects NATURAL rights, not legal rights; legal validity is never the same thing as moral legitimacy.",
+            "VERDICT → a mature order needs all three registers: nature grounds, law enforces, morality judges."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → a mature order needs all three registers: nature grounds, law enforces, morality judges.",
+      "answer_line": "TRAP → Bentham rejects NATURAL rights, not legal rights; legal validity is never the same thing as moral legitimacy.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE STRUCTURE OF A RIGHT AND THE CORRELATIVITY VERDICT",
+      "structural_type": "analytic-classification-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE STRUCTURE OF A RIGHT AND THE CORRELATIVITY VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT ACTUALLY ENTAILS",
+          "role": "outcome"
+        },
+        {
+          "text": "A STRICT DUTY-PARTNER EXISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO POSITIVE DUTY TO ASSIST ME",
+          "role": "caution"
+        },
+        {
+          "text": "I CAN ALTER LEGAL RELATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "YOU CANNOT ALTER MY STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT DOES A RIGHT PROTECT?",
+          "role": "comparison"
+        },
+        {
+          "text": "WILL THEORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHAT IT ACTUALLY ENTAILS",
+        "a STRICT duty-partner exists",
+        "NO positive duty to assist me",
+        "I can alter legal relations",
+        "you cannot alter my status"
+      ],
+      "matrix": [
+        [
+          "INCIDENT",
+          "CORRELATIVE",
+          "OPPOSITE",
+          "WHAT IT ACTUALLY ENTAILS"
+        ],
+        [
+          "CLAIM-RIGHT",
+          "duty",
+          "no-right",
+          "a STRICT duty-partner exists"
+        ],
+        [
+          "LIBERTY",
+          "no-right",
+          "duty",
+          "NO positive duty to assist me"
+        ],
+        [
+          "POWER",
+          "liability",
+          "disability",
+          "I can alter legal relations"
+        ],
+        [
+          "IMMUNITY",
+          "disability",
+          "liability",
+          "you cannot alter my status"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "WHAT IT ACTUALLY ENTAILS",
+            "a STRICT duty-partner exists",
+            "NO positive duty to assist me",
+            "I can alter legal relations",
+            "you cannot alter my status"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "WHAT DOES A RIGHT PROTECT?",
+            "WILL THEORY → control over another's duty; fits autonomy; fails for children",
+            "INTEREST THEORY → protection of a vital interest; fits welfare; underplays agency",
+            "most working systems run a MIXED account",
+            "HOW FAR DOES IT TRAVEL? HUMAN RIGHTS owed to all simply as human beings"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "UNIVERSALIST → equal worth; protection from cruelty is a common aspiration",
+            "RELATIVIST → personhood, authority and obligation are read through culture",
+            "BALANCE → universality of ASPIRATION need not mean uniformity of ARTICULATION",
+            "CORRELATIVITY VERDICT → conceptual for claim-rights, institutional for the rest",
+            "normatively necessary, not a one-to-one logical identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORRELATIVITY VERDICT → conceptual for claim-rights, institutional for the rest;.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DUTIES, THE INVERSION OF THE USUAL ORDER, AND THE PRIORITY VERDICT",
+      "structural_type": "comparison-and-graded-verdict",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DUTIES, THE INVERSION OF THE USUAL ORDER, AND THE",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IS OWED TO PERSONS, COMMUNITY AND INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL DUTY MORAL DUTY LAW, CONSTITUTION, STATUTE CONSCIENCE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOCRATIC CITIZENSHIP DEPENDS ON HABITS (TOLERANCE, HONESTY, RESTRAINT) THAT",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDHI'S INVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "PERFORM THE DUTY AND THE RIGHT FOLLOWS; THE TRUE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT STATIST",
+          "role": "caution"
+        },
+        {
+          "text": "DUTIES RUN TO CONSCIENCE AND COMMUNITY, SO THEY CAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DUTY = what is OWED to persons, community and institutions -- not mere obedience",
+        "LEGAL DUTY MORAL DUTY law, constitution, statute conscience and ethical reason sanction + REMEDY",
+        "praise, blame, public criticism law cannot codify the whole of ethical life → democratic",
+        "citizenship depends on habits (tolerance, honesty, restraint) that law alone cannot manufacture",
+        "GANDHI'S INVERSION → perform the duty and the right follows; the true source of rights"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "DUTY = what is OWED to persons, community and institutions -- not mere obedience",
+          "GANDHI'S INVERSION → perform the duty and the right follows; the true source of rights is duty; self-rule (swaraj) begins with rule over oneself",
+          "PRIORITY DEBATE → rights-first shields dissent but risks entitlement culture"
+        ],
+        [
+          "LEGAL DUTY MORAL DUTY law, constitution, statute conscience and ethical reason sanction + REMEDY",
+          "NOT statist: duties run to conscience and community, so they can license disobedience to unjust power",
+          "duty-first revives reciprocity but can postpone the claims of the powerless"
+        ],
+        [
+          "praise, blame, public criticism law cannot codify the whole of ethical life → democratic",
+          "INDIA → Article 51A, inserted by the Constitution (Forty-second Amendment) Act,",
+          "VERDICT → CO-ORIGINALITY WITH A SEQUENCING CAVEAT: foreground duty if the culture requires it; never demote rights to conditional grants."
+        ],
+        [
+          "citizenship depends on habits (tolerance, honesty, restraint) that law alone cannot manufacture",
+          "1976, is NON-JUSTICIABLE: exhortation, never court-enforceable command",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "DUTY = what is OWED to persons, community and institutions -- not mere obedience",
+            "LEGAL DUTY MORAL DUTY law, constitution, statute conscience and ethical reason sanction + REMEDY",
+            "praise, blame, public criticism law cannot codify the whole of ethical life → democratic",
+            "citizenship depends on habits (tolerance, honesty, restraint) that law alone cannot manufacture"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GANDHI'S INVERSION → perform the duty and the right follows; the true source of rights is duty; self-rule (swaraj) begins with rule over oneself",
+            "NOT statist: duties run to conscience and community, so they can license disobedience to unjust power",
+            "INDIA → Article 51A, inserted by the Constitution (Forty-second Amendment) Act,",
+            "1976, is NON-JUSTICIABLE: exhortation, never court-enforceable command"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "PRIORITY DEBATE → rights-first shields dissent but risks entitlement culture",
+            "duty-first revives reciprocity but can postpone the claims of the powerless",
+            "VERDICT → CO-ORIGINALITY WITH A SEQUENCING CAVEAT: foreground duty if the culture requires it; never demote rights to conditional grants."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → CO-ORIGINALITY WITH A SEQUENCING CAVEAT: foreground duty if the culture requires it; never demote rights to conditional grants.",
+      "answer_line": "foreground duty if the culture requires it; never demote rights to conditional grants.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ACCOUNTABILITY: THREE CHANNELS AND THE DIRECTION THE EXAMINER TESTS",
+      "structural_type": "causal-mechanism-with-correction",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE CHANNELS AND THE DIRECTION THE EXAMINER TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "THE STATE CLAIMS COERCIVE AUTHORITY, SO EACH ACT MUST",
+          "role": "institution"
+        },
+        {
+          "text": "POLITICAL LEGAL MORAL ELECTIONS, OPPOSITION, RULE OF LAW, JUDICIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER BECOMES AUTHORITY. REMOVE ALL THREE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ELECTIONS ALONE",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL ANSWERABILITY WITH SUBSTANTIVE DOMINATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTION CORRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A STEM MAY ASSUME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PREMISE → the state claims COERCIVE authority, so each act must be explicable to those",
+        "POLITICAL LEGAL MORAL elections, opposition, rule of law, judicial public reason, dignity legislature",
+        "free press review, due process, of the governed remedy you can REMOVE rulers",
+        "rulers are UNDER the law rulers must give and reviewable SHAREABLE reasons",
+        "TOGETHER → power becomes AUTHORITY. Remove all three → DOMINATION."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PREMISE → the state claims COERCIVE authority, so each act must be explicable to those bound by it",
+            "POLITICAL LEGAL MORAL elections, opposition, rule of law, judicial public reason, dignity legislature,",
+            "free press review, due process, of the governed remedy you can REMOVE rulers",
+            "rulers are UNDER the law rulers must give and reviewable SHAREABLE reasons"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TOGETHER → power becomes AUTHORITY. Remove all three → DOMINATION.",
+            "Elections alone → formal answerability with substantive domination.",
+            "DIRECTION CORRECTION → a stem may assume: citizen answerable TO the state.",
+            "Rights principally make the STATE answerable to citizens (Locke's fiduciary trust cashed out as judicial review and periodic elections)."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CONCEDE → rights also generate RESPONSIBILITIES (free speech, duty not to defame)",
+            "VERDICT → RECIPROCAL accountability; keep ACCOUNTABILITY (answering for power) apart from RESPONSIBILITY (duties that accompany a right)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → RECIPROCAL accountability; keep ACCOUNTABILITY (answering for power) apart from RESPONSIBILITY (duties that accompany a right).",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LIBERAL, IDEALIST AND CONTRACTARIAN PICTURES OF THE SAME RELATION",
+      "structural_type": "theory-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIBERAL, IDEALIST AND CONTRACTARIAN PICTURES OF THE SAME RELATION",
+          "role": "primary"
+        },
+        {
+          "text": "STATE OF NATURE",
+          "role": "institution"
+        },
+        {
+          "text": "THE BARGAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "WAR OF ALL AGAINST ALL",
+          "role": "evidence"
+        },
+        {
+          "text": "ALMOST NONE",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFER FOR",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNED BY NATURAL LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITED GOVT AS A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE OF NATURE",
+        "THE BARGAIN",
+        "war of all against all",
+        "almost none: bare",
+        "transfer for"
+      ],
+      "matrix": [
+        [
+          "THINKER",
+          "STATE OF NATURE",
+          "THE BARGAIN",
+          "RESISTANCE"
+        ],
+        [
+          "HOBBES",
+          "war of all against all",
+          "near-total",
+          "almost none: bare"
+        ],
+        [
+          "transfer for",
+          "self-preservation",
+          "",
+          ""
+        ],
+        [
+          "LOCKE",
+          "governed by natural law;",
+          "LIMITED govt as a",
+          "YES, on breach of"
+        ],
+        [
+          "rights precede government",
+          "fiduciary TRUST",
+          "trust",
+          ""
+        ],
+        [
+          "ROUSSEAU",
+          "free but corrupted by",
+          "surrender to the",
+          "self-rule through"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "STATE OF NATURE",
+            "THE BARGAIN",
+            "war of all against all",
+            "almost none: bare",
+            "transfer for"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "rights precede government",
+            "fiduciary TRUST",
+            "free but corrupted by",
+            "surrender to the",
+            "self-rule through"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "LIBERAL IDEALIST MARXIST (as relation-theory) person prior; state family → civil society base shapes superstructure",
+            "instrumental; limited → STATE = actuality of state as class instrument",
+            "government and a ethical life (Hegel); formal rights can mask real private sphere GREEN removes hindrances unfreedom",
+            "RISK: atomism RISK: deifying the state RISK: undervalued liberties",
+            "ROUSSEAU'S HINGE → forced to be free is defensible only with his own conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADEQUACY VERDICT → contract grounds limits and consent, yet abstracts from real inequality, so human rights need a supplement beyond the contractors.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RADICAL AND SITUATED CRITIQUES AND THE UNCONDITIONAL-RIGHTS CHARGE",
+      "structural_type": "problem-response-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RADICAL AND SITUATED CRITIQUES AND THE UNCONDITIONAL-RIGHTS CHARGE",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDUAL PHILOSOPHICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THE STATE'S RIGHT TO RULE IS",
+          "role": "institution"
+        },
+        {
+          "text": "KEEPS THE QUESTION, REJECTS ANARCHISM",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESUMPTIVELY ILLEGITIMATE",
+          "role": "primary"
+        },
+        {
+          "text": "THE STATELESS CONCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO ADJUDICATES, DEFENDS",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATES AT SCALE?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REPLY / RESIDUAL philosophical",
+        "the state's right to rule is",
+        "keeps the QUESTION, rejects anarchism",
+        "presumptively illegitimate",
+        "the stateless conclusion"
+      ],
+      "matrix": [
+        [
+          "Marxist",
+          "equal legal rights coexist",
+          "do not abolish rights; back",
+          ""
+        ],
+        [
+          "with material domination",
+          "them with real capabilities welfare",
+          "formal liberty is empty",
+          "a social minimum ENLARGES"
+        ],
+        [
+          "without means",
+          "effective freedom; counter",
+          "",
+          ""
+        ],
+        [
+          "cost is bureaucracy communitarian",
+          "the self is socially",
+          "membership and common goods",
+          ""
+        ],
+        [
+          "constituted, not pre-social",
+          "must still protect dissent feminist",
+          "the abstract individual hides",
+          "care, dependence and the"
+        ],
+        [
+          "dependence and private power",
+          "personal as political",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "REPLY / RESIDUAL philosophical",
+            "the state's right to rule is",
+            "keeps the QUESTION, rejects anarchism",
+            "presumptively illegitimate",
+            "the stateless conclusion"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "them with real capabilities welfare",
+            "formal liberty is empty",
+            "a social minimum ENLARGES",
+            "without means",
+            "effective freedom; counter"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "the abstract individual hides",
+            "care, dependence and the",
+            "dependence and private power",
+            "personal as political",
+            "GANDHI'S CIRCLES → individual at the centre; each outer ring SERVES the inner"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → bounded rights do NOT entail anarchy; only a naive absolutism would.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POLITICAL OBLIGATION: SIX GROUNDS DRIVEN THROUGH FOUR TESTS",
+      "structural_type": "test-grid-with-collapse-chain",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POLITICAL OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "SIX GROUNDS DRIVEN THROUGH FOUR TESTS",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THERE A MORAL DUTY TO OBEY THE LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT FEAR (A GUNMAN OBLIGES WITHOUT OBLIGATING)",
+          "role": "caution"
+        },
+        {
+          "text": "NOT AGREEMENT WITH CONTENT NOT LEGAL VALIDITY (A SEPARATE",
+          "role": "caution"
+        },
+        {
+          "text": "FOUR TESTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT FAIR PLAY NATURAL DUTY ASSOCIATIVE GRATITUDE ANARCHISM",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCKE, HOBBES, HART, RAWLS RAWLS DWORKIN CLASSICAL WOLFF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → is there a MORAL duty to obey the law BECAUSE it is law?",
+        "not fear (a gunman obliges without obligating)",
+        "not agreement with content not legal validity (a separate, jurisprudential question)",
+        "FOUR TESTS → GENERALITY",
+        "CONSENT FAIR PLAY NATURAL DUTY ASSOCIATIVE GRATITUDE ANARCHISM"
+      ],
+      "matrix": [
+        [
+          "not fear (a gunman obliges without obligating)",
+          "not agreement with content not legal validity (a separate, jurisprudential question)",
+          "",
+          ""
+        ],
+        [
+          "FOUR TESTS → GENERALITY",
+          "PARTICULARITY",
+          "CONTENT-INDEPENDENCE",
+          "DEFEASIBILITY"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PROBLEM → is there a MORAL duty to obey the law BECAUSE it is law?",
+            "not fear (a gunman obliges without obligating)",
+            "not agreement with content not legal validity (a separate, jurisprudential question)",
+            "FOUR TESTS → GENERALITY"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONSENT FAIR PLAY NATURAL DUTY ASSOCIATIVE GRATITUDE ANARCHISM",
+            "Locke, Hobbes, Hart, Rawls Rawls Dworkin classical Wolff,",
+            "Rousseau Simmons tacit consent unavoidable fails membership benefactor no general from residence benefits",
+            "PARTICULARITY may be may also duty is is not truly cannot bind →"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "binds me unjust and oppress established voluntary (Nozick) to ANY just unchosen state",
+            "RAZ, SERVICE CONCEPTION → authority is legitimate when its directives help subjects conform to reasons that already apply; directives are PRE-EMPTIVE",
+            "DWORKIN, TAKING RIGHTS SERIOUSLY (1977) → rules apply all-or-nothing, PRINCIPLES have WEIGHT; hard cases are decided by principle; RIGHTS ARE TRUMPS",
+            "TRAP → never give the service conception to Simmons or anarchism to Raz."
+          ]
+        }
+      ],
+      "mechanism_strip": "PROBLEM → is there a MORAL duty to obey the law BECAUSE it is law?",
+      "answer_line": "TRAP → never give the service conception to Simmons or anarchism to Raz.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE LADDER OF REFUSAL AND THE INDIAN CONSTITUTIONAL LIMIT",
+      "structural_type": "graded-ladder-with-legal-caution",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE LADDER OF REFUSAL AND THE INDIAN CONSTITUTIONAL LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "IF THE DUTY TO OBEY IS DEFEASIBLE, WHEN IS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LEGAL DISSENT -------- WITHIN THE LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "SPEECH, VOTE, PETITION, LITIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CONSCIENTIOUS OBJECTION -- PERSONAL EXEMPTION; MAY BE PRIVATE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CIVIL DISOBEDIENCE ------- ESSENTIALLY PUBLIC APPEAL TO SHARED",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-VIOLENT; DELIBERATE BREACH; ACCEPTS THE PENALTY",
+          "role": "comparison"
+        },
+        {
+          "text": "AFFIRMS THE RULE OF LAW WHILE CONTESTING ONE LAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IF the duty to obey is DEFEASIBLE, when is refusal justified? -- refusal is GRADED",
+        "[1] LEGAL DISSENT -------- within the law: speech, vote, petition, litigation",
+        "[2] CONSCIENTIOUS OBJECTION -- personal EXEMPTION; may be private; accepts the penalty; accepts the system's",
+        "[3] CIVIL DISOBEDIENCE ------- ESSENTIALLY PUBLIC appeal to shared principles",
+        "NON-VIOLENT; deliberate breach; ACCEPTS THE PENALTY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "IF the duty to obey is DEFEASIBLE, when is refusal justified? -- refusal is GRADED",
+            "[1] LEGAL DISSENT -------- within the law: speech, vote, petition, litigation",
+            "[2] CONSCIENTIOUS OBJECTION -- personal EXEMPTION; may be private; accepts the penalty; accepts the system's legitimacy",
+            "[3] CIVIL DISOBEDIENCE ------- ESSENTIALLY PUBLIC appeal to shared principles",
+            "NON-VIOLENT; deliberate breach; ACCEPTS THE PENALTY"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] RESISTANCE → REVOLUTION - withdraws allegiance from acts, or from the whole order; gravest bar of justification",
+            "CONDITIONS FOR RUNG 3 → seriously unjust law",
+            "channels exhausted or blocked open and non-violent",
+            "penalty accepted",
+            "nearly just society (Rawls)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Salt Satyagraha, 1930 (announced, non-violent, arrest accepted)",
+            "Ambedkar, Constituent Assembly, 25 November 1949: once constitutional methods exist, unconstitutional methods are the GRAMMAR OF ANARCHY",
+            "INDIA → Articles 19(1)(a) and 19(1)(b) protect PROTEST subject to reasonable restrictions under 19(2) and 19(3); there is NO right to break the law.",
+            "TENSION → Gandhi assumes no constitutional voice, Ambedkar assumes there is one",
+            "the live question is whether channels are genuinely open to THAT group."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "affirms the rule of law while contesting one law.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE ANSWER ENGINE: STAGED DEBATES, TRAP BANK AND THE GRADED VERDICT",
+      "structural_type": "integrated-answer-spine",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE ANSWER ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "STAGED DEBATES, TRAP BANK AND THE GRADED VERDICT",
+          "role": "caution"
+        },
+        {
+          "text": "SIX-MOVE SPINE FOR ANY STEM ON THIS CLAUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE KEY TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LOCATE ON THE SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "TOTALITARIAN STATELESS",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] STATE THE RIVALS",
+          "role": "institution"
+        },
+        {
+          "text": "[4] OBJECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIX-MOVE SPINE FOR ANY STEM ON THIS CLAUSE",
+        "[1] DEFINE the key term → right",
+        "[2] LOCATE on the spectrum → minimal",
+        "totalitarian stateless",
+        "[3] STATE the rivals → liberal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "SIX-MOVE SPINE FOR ANY STEM ON THIS CLAUSE",
+            "[1] DEFINE the key term → right",
+            "[2] LOCATE on the spectrum → minimal",
+            "totalitarian stateless",
+            "[3] STATE the rivals → liberal"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "1949 judicial review",
+            "[6] GRADED VERDICT → neither an atom outside society nor a cell inside the state",
+            "DEBATES YOU MUST BE ABLE TO STAGE",
+            "Hobbes vs Locke on resistance",
+            "Locke vs Rousseau on the will liberal vs communitarian on the self"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "TRAP BANK → state is not government",
+            "Bentham is not anti-all-rights",
+            "Article 51A is not enforceable",
+            "India has CONSTITUTIONAL supremacy, not parliamentary sovereignty",
+            "never fabricate a case, article, quotation or date"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REVISION RULE → a twenty-marker is won in paragraphs four and five, where the criticism of your OWN thesis is voiced before the verdict is delivered.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ORGANIC AND MECHANISTIC VIEWS WITH LIBERTY LIMITS",
+      "structural_type": "two-metaphor-and-coercion-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORGANIC AND MECHANISTIC VIEWS WITH LIBERTY LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISTIC VIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIOR PERSONS CREATE THE STATE AS AN INSTRUMENT",
+          "role": "institution"
+        },
+        {
+          "text": "ORGANIC VIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL LIFE PARTLY CONSTITUTES THE DEVELOPED PERSON",
+          "role": "primary"
+        },
+        {
+          "text": "LIBERAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "ATOMISM, HOLLOW FORMAL FREEDOM AND UNCHECKED PRIVATE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ORGANIC RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MECHANISTIC VIEW → prior persons create the state as an instrument",
+        "ORGANIC VIEW → political life partly constitutes the developed person",
+        "LIBERAL RISK → atomism, hollow formal freedom and unchecked private power",
+        "ORGANIC RISK → conscience and rights absorbed into the political whole",
+        "NEGATIVE FREEDOM → protected non-interference"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "MECHANISTIC VIEW → prior persons create the state as an instrument",
+          "ORGANIC RISK → conscience and rights absorbed into the political whole",
+          "HARM PRINCIPLE → coercion presumptively prevents harm to others"
+        ],
+        [
+          "ORGANIC VIEW → political life partly constitutes the developed person",
+          "NEGATIVE FREEDOM → protected non-interference",
+          "PATERNALISM → interference for the person's own good; hard form is suspect"
+        ],
+        [
+          "LIBERAL RISK → atomism, hollow formal freedom and unchecked private power",
+          "POSITIVE FREEDOM → effective capacity through enabling conditions",
+          "SYNTHESIS → institutions serve persons whose agency is socially formed"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "MECHANISTIC VIEW → prior persons create the state as an instrument",
+            "ORGANIC VIEW → political life partly constitutes the developed person",
+            "LIBERAL RISK → atomism, hollow formal freedom and unchecked private power"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ORGANIC RISK → conscience and rights absorbed into the political whole",
+            "NEGATIVE FREEDOM → protected non-interference",
+            "POSITIVE FREEDOM → effective capacity through enabling conditions"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "HARM PRINCIPLE → coercion presumptively prevents harm to others",
+            "PATERNALISM → interference for the person's own good; hard form is suspect",
+            "SYNTHESIS → institutions serve persons whose agency is socially formed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS → institutions serve persons whose agency is socially formed.",
+      "source_references": [
+        "SESSION 1",
+        "SESSION 6",
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NEUTRALITY COMMON GOOD AND THE PLATO-ARISTOTLE COMPARISON",
+      "structural_type": "normative-boundary-and-comparative-grid",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NEUTRALITY COMMON GOOD AND THE PLATO-ARISTOTLE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "FAIR TERMS AMONG RIVAL CONCEPTIONS OF THE GOOD",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC PROMOTION OF GENUINE GOODS OR CAPABILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVATE SPHERE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTS AUTONOMY BUT NEVER IMMUNISES HARM OR DOMINATION",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITARIAN CHECK",
+          "role": "outcome"
+        },
+        {
+          "text": "EMBEDDED SELF, COMMON GOODS, DUTIES AND BELONGING",
+          "role": "comparison"
+        },
+        {
+          "text": "MINORITY SAFEGUARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEUTRALITY → fair terms among rival conceptions of the good",
+        "PERFECTIONISM → public promotion of genuine goods or capabilities",
+        "PRIVATE SPHERE → protects autonomy but never immunises harm or domination",
+        "COMMUNITARIAN CHECK → embedded self, common goods, duties and belonging",
+        "MINORITY SAFEGUARD → dissenters retain equal rights and civic standing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "NEUTRALITY → fair terms among rival conceptions of the good",
+            "PERFECTIONISM → public promotion of genuine goods or capabilities",
+            "PRIVATE SPHERE → protects autonomy but never immunises harm or domination"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMMUNITARIAN CHECK → embedded self, common goods, duties and belonging",
+            "MINORITY SAFEGUARD → dissenters retain equal rights and civic standing",
+            "PLATO → philosopher-rule and guardian unity tilt toward statism"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "ARISTOTLE → natural polis plus household, property and political plurality",
+            "COMPARATIVE VERDICT → Aristotle is the better middle, not a modern liberal",
+            "LIMIT → both are perfectionist; Aristotle retains major exclusions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARATIVE VERDICT → Aristotle is the better middle, not a modern liberal.",
+      "source_references": [
+        "SESSION 6",
+        "SESSION 7",
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE INDIVIDUAL-STATE FRAME",
+          "role": "institution"
+        },
+        {
+          "text": "CONCEPTS AND WHY A STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — RIGHTS I",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT A RIGHT IS AND ITS SOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — RIGHTS II",
+          "role": "outcome"
+        },
+        {
+          "text": "HOHFELD, WILL/INTEREST, HUMAN RIGHTS AND CORRELATIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — DUTIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Individual-State Frame: Concepts and Why a State",
+            "ADVANCED SESSION 2 — Rights I: What a Right Is and Its Sources",
+            "ADVANCED SESSION 3 — Rights II: Hohfeld, Will/Interest, Human Rights and Correlativity",
+            "ADVANCED SESSION 4 — Duties: Nature, Gandhi's Duty-Centrism and the Priority Debate"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Accountability of Public Power",
+            "ADVANCED SESSION 6 — Theories of the Relationship: Liberal, Idealist and Social Contract",
+            "ADVANCED SESSION 7 — Radical and Situated Critiques: Anarchist, Marxist, Welfare, Communitarian, Feminist",
+            "ADVANCED SESSION 8 — Political Obligation: Why Should the Individual Obey the State?"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Disobedience, Resistance and the Indian Constitutional Application",
+            "ADVANCED SESSION 10 — Inter-Thinker Debates, Criticisms and Common Traps",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite: Rights, duties and accountability"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

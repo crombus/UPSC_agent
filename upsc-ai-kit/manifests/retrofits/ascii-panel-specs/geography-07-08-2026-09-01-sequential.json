@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topics 07-08",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-07",
+      "display_title": "Arid Desert Landforms / Thar Desertification",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\07_Thar-Desertification_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Concept firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DESERT -> climatic region",
+            "ARIDITY -> long-term moisture deficit",
+            "DROUGHT -> temporary anomaly",
+            "DESERTIFICATION -> degradation within drylands"
+          ],
+          "source_references": [
+            "Desert, aridity, drought and degradation"
+          ]
+        },
+        {
+          "title": "Desert-forming controls",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SUBTROPICAL HIGH -> descending dry air",
+            "CONTINENTALITY / RAIN SHADOW -> moisture loss",
+            "COLD CURRENT -> stable dry coastal air",
+            "POLAR COLD -> low absolute moisture"
+          ],
+          "source_references": [
+            "Why deserts form"
+          ]
+        },
+        {
+          "title": "Aeolian transport",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CREEP -> coarse grains roll or slide",
+            "SALTATION -> sand grains bounce",
+            "SUSPENSION -> fine dust travels far",
+            "DEPOSITION -> velocity or carrying power falls"
+          ],
+          "source_references": [
+            "Creep, saltation and suspension"
+          ]
+        },
+        {
+          "title": "Dune discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BARCHAN -> limited sand, horns downwind",
+            "TRANSVERSE -> abundant sand, one dominant wind",
+            "LONGITUDINAL -> aligned with resultant winds",
+            "PARABOLIC / STAR -> vegetation anchor / multidirectional winds"
+          ],
+          "source_references": [
+            "Dune types and wind regimes"
+          ]
+        },
+        {
+          "title": "Water in the desert",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STORM RUNOFF -> wadi discharge",
+            "MOUNTAIN FRONT -> alluvial fan",
+            "FANS COALESCE -> bajada",
+            "CLOSED BASIN -> playa and salt concentration"
+          ],
+          "source_references": [
+            "Wadis, fans, pediments and playas"
+          ]
+        },
+        {
+          "title": "Thar spatial anatomy",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WEST -> sandy Marusthali core",
+            "EAST -> Bagar and Aravalli transition",
+            "SOUTHWEST -> Luni and saline-basin route",
+            "NORTH -> canal-alluvial transformation"
+          ],
+          "source_references": [
+            "Thar regional mosaic"
+          ]
+        },
+        {
+          "title": "Susceptibility-to-degradation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "VARIABLE RAIN + WIND -> natural stress",
+            "COVER LOSS + SOIL DISTURBANCE -> exposure",
+            "WATER MISMANAGEMENT -> salinity or depletion",
+            "THRESHOLD CROSSED -> recovery capacity declines"
+          ],
+          "source_references": [
+            "Human acceleration and thresholds"
+          ]
+        },
+        {
+          "title": "Aravalli boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "RELIEF -> modifies local wind and runoff",
+            "DRAINAGE -> divides and routes water",
+            "HABITAT -> supports connectivity",
+            "LIMIT -> not an impermeable desert wall"
+          ],
+          "source_references": [
+            "Aravalli ecological functions"
+          ]
+        },
+        {
+          "title": "Canal balance",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BENEFIT -> water supply and production",
+            "SEEPAGE -> water-table rise",
+            "POOR DRAINAGE -> waterlogging and salinity",
+            "MANAGEMENT -> crop-water fit + drainage + monitoring"
+          ],
+          "source_references": [
+            "Indira Gandhi Canal trade-offs"
+          ]
+        },
+        {
+          "title": "LDN response hierarchy",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "AVOID -> protect functioning land",
+            "REDUCE -> improve grazing, tillage and water use",
+            "REVERSE -> restore soil, grass and drainage",
+            "BALANCE -> monitor gains and losses transparently"
+          ],
+          "source_references": [
+            "PYQ boundary and LDN"
+          ]
+        },
+        {
+          "title": "Restoration matrix",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WIND EROSION -> cover, shelter and dune management",
+            "RUNOFF EROSION -> contour and watershed treatment",
+            "SALINITY -> drainage and water balance",
+            "RANGELAND DECLINE -> native grass + institutions"
+          ],
+          "source_references": [
+            "Restoration and monitoring"
+          ]
+        },
+        {
+          "title": "Desertification answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> retain UNCCD dryland boundary",
+            "MAP -> locate process and pressure",
+            "DIAGNOSE -> susceptibility plus accelerator",
+            "RESPOND -> process-matched, monitored and qualified"
+          ],
+          "source_references": [
+            "PYQ ownership and current boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-08",
+      "display_title": "Limestone and Karst Landforms / India Caves-Meghalayan Age",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\08_India-Caves-Meghalayan-Age_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Karst coupled system",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "RECHARGE -> joints, bedding and sink points",
+            "DISSOLUTION -> openings enlarge underground",
+            "CONDUITS -> springs export water and solute",
+            "SURFACE + CAVE -> one hydrological landscape"
+          ],
+          "source_references": [
+            "Karst, cave and cavern"
+          ]
+        },
+        {
+          "title": "Carbonate cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CO2 + WATER -> weak carbonic acid",
+            "ACID + CaCO3 -> dissolved bicarbonate",
+            "TRANSPORT -> solution moves through conduits",
+            "DEGASSING -> calcite can precipitate"
+          ],
+          "source_references": [
+            "Carbonation and calcite reversal"
+          ]
+        },
+        {
+          "title": "Karst prerequisites",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ROCK -> soluble, thick and exposed to recharge",
+            "STRUCTURE -> joints and bedding pathways",
+            "FLOW -> gradient plus outlet / base level",
+            "TIME -> sustained dissolution and removal"
+          ],
+          "source_references": [
+            "Rock, structure, recharge and base level"
+          ]
+        },
+        {
+          "title": "Hydrological zones",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EPKARST -> shallow storage and routing",
+            "VADOSE -> descending water in air-filled voids",
+            "WATER TABLE -> fluctuating boundary",
+            "PHREATIC -> saturated tubes and loops"
+          ],
+          "source_references": [
+            "Epikarst, vadose and phreatic zones"
+          ]
+        },
+        {
+          "title": "Surface-karst ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "KARREN -> small solution grooves",
+            "DOLINE -> closed depression",
+            "UVALA / POLJE -> larger composite / structural basin",
+            "SWALLOW HOLE -> surface stream transfers underground"
+          ],
+          "source_references": [
+            "Surface karst landforms"
+          ]
+        },
+        {
+          "title": "Cave-development sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "INCEPTION -> favourable fracture or bedding plane",
+            "PHREATIC -> passage enlarges under saturation",
+            "VADOSE -> stream incises after water-table fall",
+            "LATE CHANGE -> collapse, fill or renewed solution"
+          ],
+          "source_references": [
+            "Cave development and modification"
+          ]
+        },
+        {
+          "title": "Speleothem map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STALACTITE -> roof drip deposit",
+            "STALAGMITE -> floor splash / drip deposit",
+            "COLUMN -> roof and floor forms join",
+            "FLOWSTONE / CURTAIN -> film flow on wall or slope"
+          ],
+          "source_references": [
+            "Speleothems and deposition"
+          ]
+        },
+        {
+          "title": "India cave firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MAWMLUH / MAWSMAI / SIJU -> Meghalaya limestone",
+            "BORRA / BELUM -> natural caves in Andhra Pradesh",
+            "AJANTA / ELLORA -> human rock-cut architecture",
+            "RULE -> location does not replace genetic classification"
+          ],
+          "source_references": [
+            "Indian natural-cave map",
+            "Natural versus rock-cut caves"
+          ]
+        },
+        {
+          "title": "Proxy pipeline",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CLIMATE -> rainfall, vegetation and soil CO2",
+            "RECHARGE -> route and residence time",
+            "CALCITE -> isotope / element signal",
+            "CHRONOLOGY -> dated series with uncertainty"
+          ],
+          "source_references": [
+            "Speleothems as climate proxies"
+          ]
+        },
+        {
+          "title": "Meghalayan hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "QUATERNARY -> Period",
+            "HOLOCENE -> Epoch",
+            "MEGHALAYAN -> Age / Stage",
+            "GSSP -> KM-A speleothem at Mawmluh"
+          ],
+          "source_references": [
+            "Time hierarchy and GSSP",
+            "Mawmluh and the Meghalayan"
+          ]
+        },
+        {
+          "title": "Status and narrative caution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "4.2 ka EVENT -> correlation guide",
+            "GSSP POINT -> physical lower boundary",
+            "MEGHALAYAN -> named formal interval",
+            "ANTHROPOCENE -> not a ratified Epoch"
+          ],
+          "source_references": [
+            "4.2 ka and Anthropocene cautions"
+          ]
+        },
+        {
+          "title": "Karst conservation spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "MAP -> recharge, passages, springs and values",
+            "AVOID -> irreversible quarry and pollution pathways",
+            "MANAGE -> visitation, waste and water use",
+            "MONITOR -> hydrology, biodiversity and structural change"
+          ],
+          "source_references": [
+            "Values, threats, PYQ boundary and conservation"
+          ]
+        }
+      ]
+    }
+  ]
+}

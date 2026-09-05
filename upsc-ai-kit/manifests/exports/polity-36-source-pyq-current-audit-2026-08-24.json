@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-36",
+  "title": "CIC and SIC",
+  "gate": "A",
+  "started_at": "2026-08-24T22:21:11+05:30",
+  "completed_at": "2026-08-24T22:22:25+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://dopt.gov.in/sites/default/files/RTI%20Act%202005%20%28updated%20as%20on%2018-11-2025%29.pdf",
+          "status_code": 200,
+          "final_url": "https://dopt.gov.in/sites/default/files/RTI%20Act%202005%20%28updated%20as%20on%2018-11-2025%29.pdf",
+          "title": "",
+          "evidence_excerpt": "%PDF-1.7 %���� 1 0 obj < >/Metadata 777 0 R/ViewerPreferences 778 0 R>> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/XObject< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream x����n�0\u0010��\u0002�\u000es����\u0000A\u0000�Y��YZ�����q\u0015ۇX��\u0016�ۗT]$q�ĕ��b�����,T�_Ջ�ɴ����_ד��\u0006�⠪���\u0018��/���l��ԋjY ��n踪�r��\u000f\u0007�\u0003��&\u0018a��Z\u0011� �@���\u0004\u0019 �2M���e� �Ҥ8&@\b� F�i��@�a��\u0001A��0���� \u0015� ��0k����$M�\u0019ɯa�!M�섟�$\b�F�<\u0001ht�r�Q��Ѩ\u0007MQ�)\u0007f\u0001uH48:\u001b\u0000\u0014����y�lpz\b��8Y� +��/ü�)\u0018d�u%�\u0002�Ĉ�i^ \u0017���dG.\u001a��Pĺ`��XR�nX<.��ݰD\\,�\u0011y3p}\\2.\u0017� �TT.a(\"� ���%5�����5R\u0006�ш",
+          "accessed_at": "2026-08-24T22:21:12+05:30"
+        },
+        {
+          "url": "https://dopt.gov.in/sites/default/files/RTI%20Rules%202019.pdf",
+          "status_code": 200,
+          "final_url": "https://dopt.gov.in/sites/default/files/RTI%20Rules%202019.pdf",
+          "title": "",
+          "evidence_excerpt": "%PDF-1.7 %���� 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < >/Rotate 0/Type/Page>> endobj 5 0 obj < >stream H�tWɮdG\u0011��W� nI�r\u000e\u00119�\u0010²@\u0006��\u0013\u001b�\u0002\u0019�\u000f˵0���@�dfDd�{�݋>�\u0015�!��x\u000fϘ�a�5����٧z�� �u|�􅂿w��֞y�Y\u0007��y��>\u0014�8�r��\u0016����u� � �d�����\u000f�����<9]B��﷯nsQ��in��\u0002�\u0001B\u000fsd抈���\u0012�vgJ��2<��\u000f\u0003� s�Q0]p��\u000e�:��-�C� X��?g,�*��,�*�LK\u0019�2X�p�&S OKM�^\u001b�L�%���\u0018I��\b�O�k�႗�陖T_�)A��U�芫`�#V\u0019���\u0016V �n����5�S�)8�PkŢ\u0011�{\u001bD��ʤ\u0000��w��\u0017�3`�!� \u0016�\"#\u0011�^\u0001g�ɐO��-�\u0005��֮8 \u0006\u000f�\u0001.��l����\u0015��*x�\u00050z `��G� ;�ۗv@�\u000e(�\u0019+P��\u0001;��1�\u0012���>��Ou�-�*�~9\u0017�ێ0S��\u0005�.�*vK�5��W, �Su��\u0007����\u0019C �^�1`��q_\u0019e�:�6�v�ʀ�Y���q��%X=\u0004�]�R-�u�]0�M\u0005z�F�d�}Ta^",
+          "accessed_at": "2026-08-24T22:21:14+05:30"
+        },
+        {
+          "url": "https://dopt.gov.in/rti/proactive-disclosures/important-files-ir-division",
+          "status_code": 200,
+          "final_url": "https://dopt.gov.in/rti/proactive-disclosures/important-files-ir-division",
+          "title": "Request Rejected",
+          "evidence_excerpt": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: 10179138663655828034 [Go Back]",
+          "accessed_at": "2026-08-24T22:21:14+05:30"
+        },
+        {
+          "url": "https://cic.gov.in/annual-reports",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='cic.gov.in', port=443): Max retries exceeded with url: /annual-reports (Caused by ConnectTimeoutError(<HTTPSConnection(host='cic.gov.in', port=443) at 0x1bd7602e8c0>, 'Connection to cic.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T22:21:35+05:30"
+        },
+        {
+          "url": "https://cic.gov.in/complaint",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='cic.gov.in', port=443): Max retries exceeded with url: /complaint (Caused by ConnectTimeoutError(<HTTPSConnection(host='cic.gov.in', port=443) at 0x1bd7602f040>, 'Connection to cic.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T22:21:56+05:30"
+        },
+        {
+          "url": "https://api.sci.gov.in/jonew/judis/38918.pdf",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='api.sci.gov.in', port=443): Max retries exceeded with url: /jonew/judis/38918.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.sci.gov.in', port=443) at 0x1bd75c46290>, 'Connection to api.sci.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T22:22:18+05:30"
+        },
+        {
+          "url": "https://api.sci.gov.in/jonew/judis/38344.pdf",
+          "status_code": 200,
+          "final_url": "https://api.sci.gov.in/jonew/judis/38344.pdf",
+          "title": "",
+          "evidence_excerpt": "�!\u0004\u0000%PDF-1.4 %�������� 2 0 obj < > stream x��X���6 }���s�NDR�- (��=E �]� �6\u0001�n��K~�G\u0017�W9������cS����L�V_.�J�����#������w��w����zV���+���Qb�U\u00147�j��s��� O�bD�><]���d���z��N�=G Z}�t�=^�m\u0011��\u000e� S���������� �� �\u0016 tx�^�\u0016m��N7��^s4\u0018 /\u000f\u001b§äéêó\u001aÐ¢S��N^�X a�w���o��[���\u0001w:� �F���{ KM\u0013����t L�s��m��\u0018��d3{\u0002@����\u0013��� t�8�\\9�������� I�NH��s�$\bITICXP�8��_���)�\u001a��%G \u0005:3���@ uu�l`�4�k$t��>e�K<\u001ah�q��M��01���P�\u0006�<\u0010�t�6 d\"�\u0001_K����s����\u0007Y[�;��\u0003�P� �\u0010�G�\u000e�����K@\u0011\b{ \u0011��C�K�j���,��3�U\u0007�C��\":�N�\u001a4\u0015\u0011�dj� �C�p\u0014�X\u0018Xn�t1�� >��_r�����'��I\u0011 \\������Xl����\u0001v��{ �� PB�m��V�y\u0005�s����v�s\u0011� � ��*L�0 �����\u0005ur��P�X ���=���\u0013��!7 ���u",
+          "accessed_at": "2026-08-24T22:22:25+05:30"
+        }
+      ],
+      "result": "The DoPT consolidated RTI Act as on 18 November 2025, the 2019 service-condition Rules, CIC materials, the 13 November 2025 DPDP commencement control and Supreme Court judgments were rechecked on 24 August 2026. Officeholders and backlog totals are not frozen."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 1,
+    "supporting_route_count": 0,
+    "total_routed_count": 1,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-24",
+    "fact": "The DoPT consolidated RTI Act as on 18 November 2025, the 2019 service-condition Rules, CIC materials, the 13 November 2025 DPDP commencement control and Supreme Court judgments were rechecked on 24 August 2026. Officeholders and backlog totals are not frozen.",
+    "caveat": "Information Commissions are statutory complaint and appellate bodies, not ordinary courts or record-creation agencies. The 2019 amendment shifted service conditions to Central rules, while the current privacy clause must still be read with section 8(2), severability and review."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md": "3cbf7a22ecc2ae7539567c9c06c60281acd864cd47ef088f912ed22a1b5ffa05",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md": "65a5c4ac3dc2961f59bb8ec0d832d5f9d82c3ca3fba9d5e847d10922d5b47b60",
+    "upsc-ai-kit\\knowledge\\Polity\\36_CIC-and-SIC_Complete-Topic-Package.md": "2ebd81b25f87adfcca9dc862ea36baef1372a7254b5ab76cab87899813ce4ddd",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "e2d678b584899a0b44a58ca55cf2ed13845dca69b49acdd81cd4cce37b810a3c",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ab6c80529f3b1895a45f3be6fcfaec26a8c3f060e683b03a84cf9adf4a869a95",
+    "upsc-ai-kit\\knowledge\\Governance\\basic\\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md": "3bef4f5a4f666a4291327c1630dacca6df425f8392d494d25a68fb3fa0461326",
+    "upsc-ai-kit\\knowledge\\Governance\\basic\\06_Digital-Public-Infrastructure-and-Data-Governance.md": "63ae02c866ae80b2c45b9262a8d7a310cce454521ac84ed4b48e20da88ee1f14",
+    "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md": "6111622119c4c43e6a78a30ac9765a1a1e85523f9c3c963c4464bf3739a99610",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "RTI Act status, constitutional right-to-know root and definitions",
+    "PIO-FAA-Commission route with transfer, fee and exact timelines",
+    "CIC-SIC composition, appointment, eligibility and jurisdiction",
+    "2019 amendment and current delegated service-condition rules",
+    "sections 18-20 inquiry, appeal, orders, compensation and penalty",
+    "sections 8, 9, 10, 11 and 24 exemptions and procedures",
+    "case law, no-record-creation boundary, privacy, backlog and reform"
+  ],
+  "topic_completeness_status": "passed",
+  "case_year_sources": [
+    {
+      "case_id": "raj-narain",
+      "canonical_label": "State of U.P. v. Raj Narain (1975)",
+      "decision_year": 1975,
+      "source_title": "State of U.P. v. Raj Narain, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+UP+v+Raj+Narain+24+January+1975"
+    },
+    {
+      "case_id": "sp-gupta",
+      "canonical_label": "S.P. Gupta v. Union of India (1981)",
+      "decision_year": 1981,
+      "source_title": "S.P. Gupta v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=S+P+Gupta+v+Union+of+India+30+December+1981"
+    },
+    {
+      "case_id": "cbse-aditya-bandopadhyay",
+      "canonical_label": "CBSE v. Aditya Bandopadhyay (2011)",
+      "decision_year": 2011,
+      "source_title": "CBSE v. Aditya Bandopadhyay, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/judis/38344.pdf"
+    },
+    {
+      "case_id": "cic-state-manipur",
+      "canonical_label": "Chief Information Commissioner v. State of Manipur (2011)",
+      "decision_year": 2011,
+      "source_title": "Chief Information Commissioner v. State of Manipur, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/judis/38918.pdf"
+    },
+    {
+      "case_id": "rbi-jayantilal-mistry",
+      "canonical_label": "RBI v. Jayantilal N. Mistry (2015)",
+      "decision_year": 2015,
+      "source_title": "RBI v. Jayantilal N. Mistry, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/judis/43192.pdf"
+    },
+    {
+      "case_id": "subhash-chandra-agarwal",
+      "canonical_label": "Subhash Chandra Agarwal (2019)",
+      "decision_year": 2019,
+      "source_title": "CPIO, Supreme Court of India v. Subhash Chandra Agarwal, judgment dated 13 November 2019",
+      "source_url": "https://api.sci.gov.in/supremecourt/2009/36624/36624_2009_1_1502_18247_Judgement_13-Nov-2019.pdf"
+    },
+    {
+      "case_id": "anjali-bhardwaj",
+      "canonical_label": "Anjali Bhardwaj v. Union of India (2019)",
+      "decision_year": 2019,
+      "source_title": "Anjali Bhardwaj v. Union of India, judgment dated 15 February 2019",
+      "source_url": "https://api.sci.gov.in/supremecourt/2018/15968/15968_2018_Judgement_15-Feb-2019.pdf"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-24",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "Information Commissions are statutory complaint and appellate bodies, not ordinary courts or record-creation agencies. The 2019 amendment shifted service conditions to Central rules, while the current privacy clause must still be read with section 8(2), severability and review."
+  }
+}

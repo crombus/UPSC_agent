@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "social-justice-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "social_justice_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-10",
+      "display_title": "Minorities: Rights and Welfare",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two limbs of minority policy",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISADVANTAGE -> cultural and educational vulnerability plus measurable capability deficits",
+            "-> PROTECTIVE LIMB: Articles 29 and 30; Articles 350A and 350B; statutory commission monitoring",
+            "-> DEVELOPMENTAL LIMB: pan-India skilling umbrella; area-based infrastructure targeting",
+            "-> ENDOWMENT LIMB: Waqf Act, 1995; State Waqf Boards under the Central Waqf Council",
+            "TEST -> attainment, livelihood and representation, not scheme coverage",
+            "MUST REMEMBER: Minority justice combines equal citizenship, freedom of conscience,..."
+          ],
+          "source_references": [
+            "What this owner holds and why its previous-year record is stated as zero",
+            "The constitutional bank for a minority answer",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Constitutional bank",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ARTICLE 29 -> any section with a distinct language, script or culture may conserve it",
+            "ARTICLE 30 -> minorities may establish and administer educational institutions of their choice",
+            "SCOPE OF 30 -> religious and linguistic minorities alike",
+            "ARTICLE 350A -> instruction in the mother tongue at the primary stage",
+            "ARTICLE 350B -> Special Officer for Linguistic Minorities"
+          ],
+          "source_references": [
+            "The constitutional bank for a minority answer",
+            "Article 30 covers religious and linguistic minorities alike",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Notification card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PROVISION -> Section 2(c) of the National Commission for Minorities Act, 1992",
+            "ACT -> notification by the central government at the national level",
+            "AS OF 2014 -> six communities centrally notified",
+            "LIST -> Muslims, Christians, Sikhs, Buddhists, Parsis, Jains",
+            "LATEST ADDITION -> Jains, notified in 2014"
+          ],
+          "source_references": [
+            "The centrally notified minority communities and the notifying provision",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Commission comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MINORITIES COMMISSION -> statutory, under the 1992 Act; commission constituted in 1993",
+            "COMPOSITION -> Chairperson, Vice-Chairperson and five Members",
+            "FUNCTIONS -> evaluate development, monitor safeguards, hear complaints, recommend, study",
+            "POWER -> advisory; recommendations are not self-executing orders",
+            "CONTRAST -> the SC, ST and backward-class commissions are constitutional after amendment"
+          ],
+          "source_references": [
+            "The commission for minorities is statutory and not constitutional",
+            "Composition, mandate and the limit of an advisory body",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "State-unit principle",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "QUESTION -> is this community a minority for Article 30 purposes",
+            "HOLDING -> TMA Pai Foundation, 2002: determined at the State level",
+            "CONSEQUENCE -> a minority in one State need not be a minority in another",
+            "RIGHT -> establish and administer, including fee fixation and student selection",
+            "LIMIT -> reasonable regulation to prevent maladministration is permissible"
+          ],
+          "source_references": [
+            "Minority status is determined at the State level",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ministry statement card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PURPOSE -> opportunities in education, skilling and employment for minority communities",
+            "PROBLEM -> dispersed, unorganised art and craft sector; informal-employment vulnerability",
+            "MERGED -> Seekho aur Kamao, USTTAD, Hamari Dharohar, Nai Roshni, Nai Manzil",
+            "TYPE -> Central Sector scheme aligned with the Fifteenth Finance Commission cycle to 2025-26",
+            "ALIGNMENT -> Sustainable Development Goals 1, 5, 8 and 10"
+          ],
+          "source_references": [
+            "The ministry's own account of the umbrella livelihood scheme",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Instrument separation",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "UMBRELLA ROUTES -> traditional and non-traditional skilling; leadership; bridge education; credit",
+            "REACH -> pan-India, individual capability support",
+            "AREA ROUTE -> infrastructure in minority-concentration blocks, districts and towns",
+            "THRESHOLD -> minority population above a threshold, typically twenty-five per cent or higher",
+            "ERROR -> citing the umbrella as evidence that area infrastructure was delivered"
+          ],
+          "source_references": [
+            "What the umbrella merged and what it is not",
+            "Area targeting is a different instrument from capability support",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Volatility rule",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CLAIM -> a named scholarship supports minority students in class X in State Y",
+            "-> CHECK: the contemporaneous ministry or National Scholarship Portal notice for that year",
+            "-> IF UNVERIFIED: do not name the scholarship; describe the route instead",
+            "-> BRIDGE EDUCATION CONTINUING is not proof that an earlier scholarship continues",
+            "RULE -> a historical scheme list is the commonest source of an outdated confident claim"
+          ],
+          "source_references": [
+            "Scholarship names are annual notifications and not permanent entitlements",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Endowment architecture",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "WAQF -> dedication of property for a pious, religious or charitable purpose in Muslim law",
+            "STATUTE -> the Waqf Act, 1995 as amended",
+            "STATE WAQF BOARDS -> statutory bodies managing registration, management and disputes",
+            "CENTRAL WAQF COUNCIL -> oversight of the boards",
+            "PURPOSE -> endowment revenue supports the dedicated religious or charitable purpose"
+          ],
+          "source_references": [
+            "What a waqf is and who administers it",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Two routes into waqf status",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WAQF BY DEED -> a formal documented dedication of the property",
+            "WAQF BY USER -> long uninterrupted religious or charitable use without documentation",
+            "REFORM -> the 2025 amendment prospectively abolishes waqf by user for future claims",
+            "WHY IT MATTERS -> the undocumented route is where disputes with government land arise",
+            "NOT STAYED -> the interim order did not stay that prospective abolition",
+            "CLOSE DISTINCTION: Minority is context- and provision-specific, Article 30 is not..."
+          ],
+          "source_references": [
+            "Waqf by deed and waqf by user",
+            "What the same order refused to stay and what it capped",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Interim order ledger",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "5 APRIL 2025 -> presidential assent; Waqf (Amendment) Act, 2025, Act No. 14 of 2025",
+            "15 SEPTEMBER 2025 -> wholesale stay refused as warranted only in the rarest of cases",
+            "STAYED -> five years of practising Islam before creating a waqf, until States frame a mechanism",
+            "STAYED -> unilateral determination of disputed government-versus-waqf status by a Collector",
+            "CAPPED -> non-Muslim members at 4 of 22 on the Council and 3 of 11 on a State Board",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 14-16 and 25-30, NCM/minority..."
+          ],
+          "source_references": [
+            "The amending Act of 2025 and its enactment",
+            "What the interim order of 15 September 2025 stayed",
+            "What the same order refused to stay and what it capped",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and boundary",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "NAMED DIAGNOSIS -> the 2006 committee on education, employment, credit and representation",
+            "SIGNIFICANCE -> shifted the debate from rhetoric to measurable capability gaps",
+            "LIMIT -> dated findings varying by region, class and gender; do not universalise",
+            "MEASUREMENT GAP -> outputs tracked; attainment, employment and representation not tracked",
+            "OWNERSHIP -> no Mains or objective demand is routed here and none is manufactured"
+          ],
+          "source_references": [
+            "The Sachar diagnosis and the outcome-measurement gap",
+            "An interim arrangement is not a final constitutional ruling",
+            "The transparent ownership statement for this owner",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-10\\g2\\social-justice-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

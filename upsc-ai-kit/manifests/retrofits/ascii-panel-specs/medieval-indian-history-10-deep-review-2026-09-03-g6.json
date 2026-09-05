@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-10",
+      "display_title": "The Bhakti & Sufi Movements",
+      "active_generation": 6,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Plural devotional chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "6th-9th c. BRIDGE -> Tamil Alvar + Nayanar hymn/temple worlds",
+            "11th-13th c. -> Ramanuja + Nimbarka + Madhva distinct Vedanta paths",
+            "13th-15th c. -> Namdev + Ramananda traditions + Lalla + Chishti networks",
+            "15th-16th c. -> Kabir + Ravidas + Nanak + Vallabha + Chaitanya + Shankaradeva",
+            "16th-17th c. -> Mirabai + Surdas + Tulsidas + Dadu + Eknath + Tukaram",
+            "RULE -> not one march, founder, doctrine, class or anti-caste programme",
+            "BOUNDARY -> later Sikh politics and Mughal religious policy have other owners.",
+            "MUST REMEMBER: Bhakti and Sufi traditions were internally diverse across region, language,",
+            "  social location, doctrine and institution."
+          ],
+          "source_references": [
+            "Chronology",
+            "Plurality",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Bhakti field without flattening",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "SAGUNA -> devotion through embodied divine forms and narratives",
+            "NIRGUNA -> devotion to a formless absolute and critique of fixed representation",
+            "TEMPLE / SECT -> ritual, institution, pilgrimage and inherited authority",
+            "POET-SAINT / SONG -> oral performance, vernacular memory and community",
+            "VEDANTA -> Ramanuja, Madhva, Nimbarka and distinct philosophical grammars",
+            "CAUTION: these categories overlap and vary by region and period."
+          ],
+          "source_references": [
+            "Saguna",
+            "Nirguna",
+            "Bhakti diversity",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Sufi vocabulary and transmission",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SHARIA -> normative law | TARIQA -> path/order | HAQIQA -> realized truth",
+            "ZIKR -> remembrance | SAMA -> audition in selected traditions",
+            "FANA / BAQA -> ego-effacement and abiding; translations approximate",
+            "PIR-MURID + SILSILA -> guide, disciple and transmission chain",
+            "KHANQAH -> living centre | DARGAH -> posthumous shrine development",
+            "WAHDAT AL-WUJUD / SHUHUD -> being/witnessing debates, not slogans",
+            "RULE: doctrine, order practice and later shrine custom must be separated."
+          ],
+          "source_references": [
+            "Silsilah",
+            "Khanqah",
+            "Sama",
+            "Fana",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chishti network and social credibility",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "AJMER: Muinuddin Chishti",
+            "          |",
+            "DELHI: Bakhtiyar Kaki -> Nizamuddin Auliya -> Nasiruddin Chiragh",
+            "          |",
+            "AJODHAN: Baba Farid and Punjabi memory",
+            "MECHANISM -> service + hospitality + counsel + sama + relative court distance",
+            "TRAP: popularity does not prove a centrally planned conversion campaign."
+          ],
+          "source_references": [
+            "Chishti",
+            "Ajmer",
+            "Delhi",
+            "Ajodhan",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chishti-Suhrawardi comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHISHTI -> Ajmer/Delhi/Ajodhan/Gulbarga | service, sama and poverty ideals",
+            "SUHRAWARDI -> Multan/Punjab | grants, property and court links in many centres",
+            "QADIRI -> later north/Punjab networks | internally varied",
+            "SHATTARI -> Muhammad Ghawth/Gwalior | court and yogic-knowledge engagement",
+            "NAQSHBANDI -> Baqi Billah/Sirhindi | silent zikr and law/reform emphasis",
+            "STATE RELATION -> refusal, gifts, patronage and office varied by person/reign",
+            "RULE: order labels are lineages, not moral or ethnic essences."
+          ],
+          "source_references": [
+            "Chishti",
+            "Suhrawardi",
+            "Bahauddin Zakariya",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Southern roots and Vedanta paths",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "RAMANUJA -> Vishishtadvaita + prapatti + Sri Vaishnava institutions",
+            "NIMBARKA -> Dvaitadvaita/Bhedabheda; exact chronology disputed",
+            "MADHVA -> Dvaita + Udupi lineage",
+            "RAMANANDA -> Rama devotion/wider access; disciple lists cautioned",
+            "VALLABHA -> Shuddhadvaita + Pushtimarg",
+            "CHAITANYA -> Gaudiya Krishna bhakti + public kirtan",
+            "CAUTION: saguna/nirguna does not mechanically predict social politics."
+          ],
+          "source_references": [
+            "Alvars",
+            "Nayanars",
+            "Ramanuja",
+            "Madhva",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Northward transmission with source caution",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+            " -> regional languages, temples, sects and remembered guru lineages",
+            " -> RAMANANDA tradition and diverse disciple lists",
+            " -> northern Rama devotion, nirguna critique and vernacular publics",
+            "CAUTION: hagiographic genealogy is not a dated attendance register."
+          ],
+          "source_references": [
+            "Ramananda",
+            "Transmission",
+            "Hagiography",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Kabir critique and corpus method",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "CRITIQUE -> empty ritual, inherited rank and sectarian certainty",
+            "LANGUAGE -> accessible vernacular and memorable couplet",
+            "THEOLOGY -> nirguna devotion with vocabulary crossing social worlds",
+            "CORPUS -> oral circulation and variant later compilations",
+            "EFFECT -> ethical challenge and community formation, not abolished caste",
+            "LIVE BRIDGE -> modern Kabir memory cannot authenticate medieval wording."
+          ],
+          "source_references": [
+            "Kabir",
+            "Nirguna",
+            "Corpus criticism",
+            "PIB",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Nanak householder ethic",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ONE DIVINE REALITY + REMEMBRANCE",
+            " -> HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE",
+            " -> critique of empty ritual, hierarchy and renunciatory monopoly",
+            " -> ethical community rooted in ordinary social life",
+            "CAUTION: separate Nanak's moment from later Sikh institutions."
+          ],
+          "source_references": [
+            "Guru Nanak",
+            "Householder path",
+            "Ethical monotheism",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chaitanya public devotion",
+          "structural_type": "process",
+          "ascii_lines": [
+            "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+            " -> KIRTAN: collective singing, movement and embodied participation",
+            " -> BENGAL-PURI network: pilgrimage, disciples and remembered charisma",
+            " -> broader affective public and literary-cultural transmission",
+            "TRAP: public participation did not automatically erase hierarchy.",
+            "CLOSE DISTINCTION: Saguna and nirguna devotion, and Chishti and Suhrawardi silsilas, cannot be",
+            "  collapsed into one reform programme."
+          ],
+          "source_references": [
+            "Chaitanya",
+            "Kirtan",
+            "Bengal",
+            "Puri",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Bhakti-Sufi interaction without merger",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "OVERLAP -> love + remembrance + teacher/disciple + vernacular performance",
+            "BOUNDARY -> incarnation + prophecy + scripture + law remain different",
+            "SPACES -> temple/matha/panth are not khanqah/dargah/silsila",
+            "CONVERSION -> settlement + marriage + patronage + mobility + local persuasion",
+            "INSTITUTION -> can preserve access while reproducing caste/gender hierarchy",
+            "SOURCE -> attributed verse + manuscript layer + hagiography + material evidence",
+            "VERDICT: named encounters and parallel exchange, not a vague syncretic merger.",
+            "EVIDENCE LIMIT: Composite culture describes negotiated interaction; it must not erase",
+            "  conflict, hierarchy or sectarian boundaries."
+          ],
+          "source_references": [
+            "Bhakti-Sufi comparison",
+            "Symbiosis",
+            "Boundaries",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 10 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "DEFINE -> plural fields and exact question scope",
+            "DATE/MAP -> region + language + saint/order chronology",
+            "EVIDENCE -> verse/manuscript/hagiography/malfuzat/inscription/shrine",
+            "MECHANISM -> devotion + performance + institution + patronage + social access",
+            "LIMIT -> caste + gender + economy + doctrine + source transmission",
+            "PYQS -> 2019/2022 Prelims + 2018/2021 Mains; Kulah-Daran links Topic 06",
+            "VERDICT -> durable vernacular/institutional impact without total social merger."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Source method",
+            "Social impact",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\10_Bhakti-and-Sufi-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g3\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g4\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g5\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-10\\g6\\medieval-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

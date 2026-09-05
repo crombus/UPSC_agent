@@ -1,0 +1,38 @@
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\international-relations-05-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-05\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-05\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-05\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-05\international-relations-05-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-05\international-relations-05-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-05\REVIEW-REPORT.md
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\flowcharts\iac-05\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\international-relations-05_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\international-relations-05_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\validation\workbook-visual-audit-map.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\assets\international-relations-05_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\international-relations-05_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International Relations\IR\learning-sessions\iac-05\g4\international-relations-05_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\manifests\exports\international-relations-05-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\international-relations-05-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\international-relations-05-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\International Relations\deep-review\international-relations-05-g4.json
+upsc-ai-kit\manifests\v2\international relations--subject-wide-syllabus-content-specs\international-relations-05-g4.json
+upsc-ai-kit\manifests\v2\international-relations--subject-wide-syllabus.json

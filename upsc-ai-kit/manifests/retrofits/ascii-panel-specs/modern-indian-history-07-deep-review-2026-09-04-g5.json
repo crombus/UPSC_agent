@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-07",
+      "display_title": "Economic Impact of British Rule (Drain, deindustrialisation, land-revenue, famines)",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Extraction became structural underdevelopment",
+          "structural_type": "causal-ladder",
+          "ascii_lines": [
+            "COMPANY PLUNDER -> early direct extraction after conquest and Diwani",
+            "SYSTEMIC DRAIN -> home charges, remittances, profits, pensions and imperial costs",
+            "STRUCTURAL CHANGE -> revenue pressure, deindustrialisation and dependent trade",
+            "OUTCOME -> poverty and modernisation without autonomous development.",
+            "MUST REMEMBER: Drain, deindustrialisation, land-revenue pressure and famine vulnerability are",
+            "  related mechanisms, not interchangeable slogans; Dadabhai Naoroji and R.C. Dutt made",
+            "  specific economic arguments."
+          ],
+          "source_references": [
+            "1. Periodisation and the extraction-to-underdevelopment frame",
+            "21. Comparative synthesis: extraction, transformation and colonial modernisation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Three land-revenue systems compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PERMANENT -> zamindari estate | fixed in perpetuity | Bengal-Bihar-Orissa",
+            "RYOTWARI -> individual ryot | periodic revision | Madras-Bombay",
+            "MAHALWARI -> village or mahal | periodic revision | north-west and Punjab",
+            "COMMON CORE -> cash demand and secure colonial revenue, with different risk carriers."
+          ],
+          "source_references": [
+            "3. The Permanent Settlement, 1793: Cornwallis, zamindar property and fixed demand",
+            "4. The Ryotwari settlement: Read, Munro, and direct settlement with uncertainty",
+            "5. The Mahalwari settlement: Holt Mackenzie's framework and Bird's implementation",
+            "6. Comparative synthesis of the three land-revenue systems",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Commercialisation shifted risk downward",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "EXPORT DEMAND / PLANTER ADVANCE -> cash-crop commitment",
+            "REVENUE CALENDAR + CREDIT -> dependence on moneylender or planter",
+            "PRICE / HARVEST SHOCK -> cultivator bears the loss while claims remain due",
+            "RESULT -> indebtedness, land alienation and differentiated agrarian protest."
+          ],
+          "source_references": [
+            "7. Commercialisation: crops, coercion, credit and risk",
+            "19. Poverty, demography, indebtedness and ecological/social variation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Indigo, Pabna and Deccan were not one movement",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "INDIGO 1859-60 -> European planters -> collective refusal to sow",
+            "PABNA FROM 1873 -> zamindars -> leagues, rent resistance and litigation",
+            "DECCAN 1875 -> moneylenders -> seizure and destruction of debt bonds",
+            "EXAM RULE -> match target, grievance and repertoire before comparing outcomes."
+          ],
+          "source_references": [
+            "8. Case studies in economic protest: Indigo, Pabna, Deccan",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Deindustrialisation was a causal web",
+          "structural_type": "causal-web",
+          "ascii_lines": [
+            "ENGLISH MECHANISATION -> cheaper factory cloth",
+            "TARIFF ASYMMETRY -> unequal access to British and Indian markets",
+            "COURT DECLINE -> lost elite demand for fine crafts",
+            "RAIL PENETRATION -> imports reach interior markets",
+            "RESULT -> uneven output and employment decline, not total craft extinction."
+          ],
+          "source_references": [
+            "9. The deindustrialisation causal web",
+            "11. Artisan displacement, de-urbanisation and the limits of \"deindustrialisation\"",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The 2024 how-far answer",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "NECESSARY CONDITION -> Industrial Revolution lowered British production costs",
+            "TRANSMISSION MECHANISMS -> tariffs, political power, court decline and rail access",
+            "VARIATION -> region, craft and timing prevent a total-extinction claim",
+            "VERDICT -> substantially responsible, but not sufficient without colonial policy."
+          ],
+          "source_references": [
+            "10. The 2024 \"how far\" demand: Industrial Revolution and Indian handicrafts",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Drain theory names channels, not an invented total",
+          "structural_type": "channel-map",
+          "ascii_lines": [
+            "INDIAN REVENUE -> home charges and India Office costs",
+            "OFFICIAL INCOME -> salaries, pensions and private remittances",
+            "BRITISH CAPITAL -> profits, interest and guaranteed returns",
+            "IMPERIAL PROCUREMENT / WAR -> stores and external costs charged to India",
+            "RULE -> explain mechanism and significance; do not invent a percentage."
+          ],
+          "source_references": [
+            "12. Drain theory: plunder, systemic drain and its channels",
+            "13. Naoroji, R.C. Dutt and M.G. Ranade: the nationalist economic critique",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Export surplus could finance transfer",
+          "structural_type": "process-map",
+          "ascii_lines": [
+            "INDIAN EXPORTS EXCEED VISIBLE IMPORTS -> apparent trade surplus",
+            "COUNCIL-BILL MECHANISM -> sterling claims and rupee payments connect the accounts",
+            "HOME CHARGES / REMITTANCES -> surplus services external obligations",
+            "ANALYTICAL POINT -> a surplus need not mean resources remained available in India."
+          ],
+          "source_references": [
+            "14. Export surplus, Council Bills and the colonial fiscal-financial system",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Infrastructure had a dual effect",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "IMPERIAL DESIGN -> troops, administration, raw-material export and import reach",
+            "FINANCING -> private British capital protected through the Guarantee System",
+            "UNINTENDED EFFECT -> market integration and later nationalist mobility",
+            "SAFE VERDICT -> modern infrastructure without autonomous developmental priority."
+          ],
+          "source_references": [
+            "15. Infrastructure: railways, ports, roads, telegraph, canals and forests",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Colonial industrialisation was real but constrained",
+          "structural_type": "balance-map",
+          "ascii_lines": [
+            "GROWTH -> plantations, jute, cotton, coal, mines and later steel",
+            "OWNERSHIP -> foreign capital remained powerful in key sectors",
+            "CONSTRAINTS -> finance, policy bias, technology and narrow domestic demand",
+            "VERDICT -> industry developed unevenly; deindustrialisation did not mean zero industry.",
+            "CLOSE DISTINCTION: Permanent, Ryotwari and Mahalwari settlements differed by region,",
+            "  assessment unit and intermediary structure; no one settlement covered all India or remained",
+            "  unchanged in practice."
+          ],
+          "source_references": [
+            "16. Colonial industrialisation: plantations, mines and modern industry",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Famine was shock plus structural amplification",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "CLIMATE / HARVEST SHOCK -> immediate scarcity risk",
+            "REVENUE RIGIDITY + COMMERCIALISATION -> weak household buffers",
+            "PRICE-LED TRANSPORT + LAISSEZ-FAIRE RELIEF -> entitlement failure",
+            "ADMINISTRATIVE DELAY -> mortality and distress deepen",
+            "RULE -> avoid both climate-only and export-only explanations.",
+            "EVIDENCE LIMIT: Nationalist, Marxist and revisionist scholarship must be tied to wage, trade,",
+            "  craft, revenue and mortality evidence, with regional variation and data limits made",
+            "  explicit."
+          ],
+          "source_references": [
+            "17. Famine causation: climate shock versus entitlement and governance",
+            "18. The famine case sequence and colonial famine policy",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Historiography and final synthesis",
+          "structural_type": "synthesis",
+          "ascii_lines": [
+            "NATIONALIST -> drain and deindustrialisation explain poverty",
+            "STRUCTURAL -> dependent integration into world capitalism",
+            "REVISIONIST -> disputes scale and measurement, not all structural change",
+            "REGIONAL -> outcomes varied by place, sector and social group",
+            "SYNTHESIS -> extraction and transformation must be assessed together."
+          ],
+          "source_references": [
+            "20. Historiography of the colonial economy",
+            "21. Comparative synthesis: extraction, transformation and colonial modernisation",
+            "22. Topic boundaries and a bounded current link",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

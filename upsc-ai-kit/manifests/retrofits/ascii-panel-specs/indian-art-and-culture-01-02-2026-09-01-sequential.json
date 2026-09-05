@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topics 01-02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-01",
+      "display_title": "Architecture Foundations and Harappan Urbanism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\01_Architecture-Foundations-and-Harappan-Urbanism_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Architecture reading method",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "MATERIAL -> brick, stone, mortar and finish",
+            "PLAN -> grid, zoning, circulation and water",
+            "FUNCTION -> domestic, civic, storage or ritual",
+            "EVIDENCE LIMIT -> form is not an inscription"
+          ],
+          "source_references": [
+            "How to read architecture"
+          ]
+        },
+        {
+          "title": "Harappan city grid",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "NORTH-SOUTH STREET -> planned urban axis",
+            "EAST-WEST STREET -> right-angle crossing",
+            "BLOCKS -> houses and facilities organised",
+            "INFERENCE -> pre-planning, not a named ruler"
+          ],
+          "source_references": [
+            "Grid planning and pre-planning"
+          ]
+        },
+        {
+          "title": "Two-part settlement",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CITADEL -> raised western public zone",
+            "LOWER TOWN -> larger residential zone",
+            "HOUSE SIZE -> differentiation is visible",
+            "CAUTION -> caste hierarchy is not proved"
+          ],
+          "source_references": [
+            "Citadel and lower town"
+          ]
+        },
+        {
+          "title": "Brick-to-authority chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "STANDARD BRICK -> repeatable construction",
+            "GYPSUM MORTAR -> joined layered masonry",
+            "DISTANT SITES -> shared technical norm",
+            "LIMIT -> no proven centralised empire"
+          ],
+          "source_references": [
+            "Brick modules and coordination"
+          ]
+        },
+        {
+          "title": "Drainage as a network",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BATHROOM -> small household drain",
+            "STREET -> larger covered drain",
+            "CESSPIT -> sediment captured",
+            "REMOVABLE COVER -> regular cleaning possible"
+          ],
+          "source_references": [
+            "The drainage network"
+          ]
+        },
+        {
+          "title": "Great Bath evidence test",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "FORM -> tank with surrounding rooms",
+            "DIRECT CLAIM -> collective public water structure",
+            "INFERENCE -> ceremonial or ritual cleansing",
+            "PROHIBITION -> no invented priesthood or rite"
+          ],
+          "source_references": [
+            "Great Bath and ritual inference"
+          ]
+        },
+        {
+          "title": "Naming public structures",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RAISED PLATFORM + AIR DUCTS -> storage likely",
+            "MODERN LABEL -> conventionally called granary",
+            "NO INSCRIPTION -> function remains debated",
+            "PALACE/TEMPLE -> not securely identified"
+          ],
+          "source_references": [
+            "Public buildings and labels"
+          ]
+        },
+        {
+          "title": "Regional urban solutions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MOHENJO-DARO -> Great Bath and drains",
+            "DHOLAVIRA -> fortifications and reservoirs",
+            "LOTHAL -> debated basin",
+            "KALIBANGAN/HARAPPA -> distinct local plans"
+          ],
+          "source_references": [
+            "Dholavira's regional solution",
+            "Lothal, Harappa and Kalibangan"
+          ]
+        },
+        {
+          "title": "Evidence ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STRONG -> grid, brick, drain and reservoir",
+            "MODERATE -> storage and functional zoning",
+            "WEAK -> precise hierarchy and authority form",
+            "UNSUPPORTED -> named king, temple or state faith"
+          ],
+          "source_references": [
+            "The script and inference ceiling"
+          ]
+        },
+        {
+          "title": "Civic and monumental contrast",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HARAPPAN -> streets, wells, baths and drains",
+            "EGYPT/MESOPOTAMIA -> royal-sacred monuments",
+            "ANALYSIS -> different visible investment",
+            "QUALIFY -> preservation and naming biases remain"
+          ],
+          "source_references": [
+            "Civic versus monumental comparison"
+          ]
+        },
+        {
+          "title": "Water architecture firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HARAPPAN -> settlement supply and sanitation",
+            "STEPWELL -> arid storage and patronage",
+            "TEMPLE TANK -> ritual and processional space",
+            "RULE -> shared water does not prove descent"
+          ],
+          "source_references": [
+            "PYQ and water-architecture boundaries"
+          ]
+        },
+        {
+          "title": "Harappan answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> civic urbanism thesis",
+            "BODY -> grid, zoning, drainage and brick",
+            "COMPARE -> Dholavira, Lothal and monumentality",
+            "CLOSE -> no confirmed palace or temple"
+          ],
+          "source_references": [
+            "Complete answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "indian-art-and-culture-02",
+      "display_title": "Mauryan, Buddhist, Jain and Rock-Cut Heritage",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mauryan art classification",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "COURT -> pillars and palace architecture",
+            "NON-COURTLY -> yaksha, terracotta and donors",
+            "CROSSOVER -> royal Ajivika cave dedications",
+            "VERDICT -> useful categories, porous boundary"
+          ],
+          "source_references": [
+            "Court art and category limits"
+          ]
+        },
+        {
+          "title": "Ashokan pillar system",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CHUNAR SANDSTONE -> monolithic shaft",
+            "POLISH -> imperial finish",
+            "CAPITAL -> lion, bull or other animal forms",
+            "INSCRIPTION -> message varies by site"
+          ],
+          "source_references": [
+            "Ashokan pillars as communication"
+          ]
+        },
+        {
+          "title": "Barabar evidence card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PLACE -> Jehanabad district, Bihar",
+            "DATE -> third century BCE",
+            "PATRONS -> Ashoka and Dasharatha",
+            "SECT -> Ajivikas, not Buddhists"
+          ],
+          "source_references": [
+            "Barabar, Nagarjuni and the Ajivikas"
+          ]
+        },
+        {
+          "title": "Stupa anatomy",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ANDA -> relic mound",
+            "VEDIKA + PATH -> boundary and movement",
+            "HARMIKA + CHATTRA -> summit and honour",
+            "TORANA -> narrative gateway"
+          ],
+          "source_references": [
+            "Stupa origin and anatomy"
+          ]
+        },
+        {
+          "title": "Sanchi accretion",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAURYAN -> brick core and pillar",
+            "SUNGA -> enlargement and stone facing",
+            "SATAVAHANA PERIOD -> carved toranas",
+            "GUPTA -> shrines and later additions"
+          ],
+          "source_references": [
+            "Sanchi as a layered monument"
+          ]
+        },
+        {
+          "title": "Chaitya versus vihara",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHAITYA -> prayer and assembly",
+            "CHAITYA PLAN -> apse, columns and stupa",
+            "VIHARA -> monastic residence",
+            "RULE -> function explains form"
+          ],
+          "source_references": [
+            "Chaitya and vihara"
+          ]
+        },
+        {
+          "title": "Ajanta identifier",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WAGHORA RIVER -> horseshoe gorge",
+            "SAHYADRI -> rock-cut setting",
+            "EARLY PHASE -> Satavahana-linked",
+            "LATER PHASE -> Vakataka florescence"
+          ],
+          "source_references": [
+            "Ajanta's landscape and phases"
+          ]
+        },
+        {
+          "title": "Ellora shared hillside",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BUDDHIST -> monasteries and worship halls",
+            "BRAHMANICAL -> Kailasha among major works",
+            "JAIN -> Digambara cave group",
+            "CHRONOLOGY -> broad sequence with overlap"
+          ],
+          "source_references": [
+            "Ellora and the Kailasha monolith"
+          ]
+        },
+        {
+          "title": "Inscription evidence test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TEXT -> names patron or claim",
+            "CONTEXT -> monument and language",
+            "GENRE -> grant, edict or eulogy",
+            "SILENCE -> omission limits neutrality"
+          ],
+          "source_references": [
+            "Udayagiri-Khandagiri",
+            "Inscriptions and evidence limits"
+          ]
+        },
+        {
+          "title": "Jain architecture scales",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CAVE -> Udayagiri-Khandagiri and Ellora",
+            "TEMPLE -> Dilwara, Ranakpur and Khajuraho",
+            "COLOSSUS -> Shravanabelagola ritual focus",
+            "LANDSCAPE -> Palitana and Shikharji"
+          ],
+          "source_references": [
+            "Jain architecture beyond caves"
+          ]
+        },
+        {
+          "title": "Image-programme transition",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "EARLY -> Buddha represented by symbols",
+            "STUPA -> narrative and aniconic programme",
+            "LATER -> anthropomorphic Buddha images",
+            "SHRINE -> figural image joins sacred focus"
+          ],
+          "source_references": [
+            "Aniconic and iconic programmes"
+          ]
+        },
+        {
+          "title": "Rock-cut answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> excavated, durable architecture",
+            "EVIDENCE -> plan, patron, inscription and style",
+            "COMPARE -> Barabar, Ajanta and Ellora",
+            "QUALIFY -> durable patronage is not all social life"
+          ],
+          "source_references": [
+            "Verified PYQ answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

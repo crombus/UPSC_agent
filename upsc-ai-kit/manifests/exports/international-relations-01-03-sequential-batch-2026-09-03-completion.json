@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "batch_id": "international-relations-01-03-sequential-batch-2026-09-03",
+  "scope": "International Relations learner-v2 Topics 01-03 sequential batch",
+  "generated_on": "2026-09-03",
+  "validated_at": "2026-09-03T07:31:02.026244+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "international-relations-01",
+      "international-relations-02",
+      "international-relations-03"
+    ],
+    "topic_count": 3,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "international-relations-01:learner-v2:g2",
+      "international-relations-02:learner-v2:g2",
+      "international-relations-03:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 281,
+    "baseline_panels": 3244,
+    "authored_topics": 284,
+    "authored_panels": 3280,
+    "topic_delta": 3,
+    "panel_delta": 36,
+    "integrity_errors": []
+  },
+  "aggregate": {
+    "main_pdf_pages": 375,
+    "workbook_pdf_pages": 219,
+    "mcqs": 240,
+    "learning_sessions": 45,
+    "ascii_panels": 36,
+    "graphical_stages": 39
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-01",
+      "record_id": "international-relations-01:learner-v2:g2",
+      "variant": "learner-v2",
+      "generation": 2,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 120,
+        "workbook_pdf_pages": 70
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\international-relations-01-learner-v2-g2-2026-09-03-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\international-relations-01-learner-v2-g2-2026-09-03-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-01\\international-relations-01_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-01\\international-relations-01_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-01\\international-relations-01_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-01\\international-relations-01_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "international-relations-02",
+      "record_id": "international-relations-02:learner-v2:g2",
+      "variant": "learner-v2",
+      "generation": 2,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 125,
+        "workbook_pdf_pages": 73
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\international-relations-02-learner-v2-g2-2026-09-03-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\international-relations-02-learner-v2-g2-2026-09-03-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-02\\international-relations-02_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-02\\international-relations-02_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-02\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-02\\international-relations-02_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "international-relations-03",
+      "record_id": "international-relations-03:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 130,
+        "workbook_pdf_pages": 76
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\international-relations-03-learner-v2-g1-2026-09-03-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\international-relations-03-learner-v2-g1-2026-09-03-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-03\\international-relations-03_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-03\\international-relations-03_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-03\\international-relations-03_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-03\\international-relations-03_Solved-Practice-Workbook_2026-09-03.md"
+    }
+  ],
+  "errors": []
+}

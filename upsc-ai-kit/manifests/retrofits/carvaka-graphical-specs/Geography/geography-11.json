@@ -1,0 +1,1076 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-11",
+  "subject": "Geography",
+  "title": "ISLANDS AND CORAL REEFS / INDIA ISLANDS-GREAT NICOBAR",
+  "short_route": "ISLAND-ORIGIN TREE \u2192 REEF-BUILDING ENGINE \u2192 REEF-TYPE CROSS-SECTION \u2192 DARWIN SEQUENCE \u2192 DALY QUALIFICATION \u2192 BLEACHING OUTCOME FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-11_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-10-11-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "5f4a579e5f5a472eaa95279729a7a24f3a35cf8f3fd73d045d0c0314378451aa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ISLAND-ORIGIN TREE",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISLAND-ORIGIN TREE",
+          "role": "primary"
+        },
+        {
+          "text": "CRUST OR SHELF AFFINITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MAGMA BUILDS OCEANIC EDIFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "REEF CARBONATE + WAVE-BUILT SEDIMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "RIVER, CURRENT OR BARRIER ACCUMULATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CONTINENTAL \u2192 crust or shelf affinity",
+        "VOLCANIC \u2192 magma builds oceanic edifice",
+        "CORAL \u2192 reef carbonate + wave-built sediment",
+        "DEPOSITIONAL \u2192 river, current or barrier accumulation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "CONTINENTAL \u2192 crust or shelf affinity",
+            "VOLCANIC \u2192 magma builds oceanic edifice"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "CORAL \u2192 reef carbonate + wave-built sediment",
+            "DEPOSITIONAL \u2192 river, current or barrier accumulation"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "CONTINENTAL \u2192 crust or shelf affinity",
+            "VOLCANIC \u2192 magma builds oceanic edifice"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "CORAL \u2192 reef carbonate + wave-built sediment",
+            "DEPOSITIONAL \u2192 river, current or barrier accumulation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORAL \u2192 reef carbonate + wave-built sediment; DEPOSITIONAL \u2192 river, current or barrier accumulation.",
+      "source_references": [
+        "Island origin classes"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REEF-BUILDING ENGINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REEF-BUILDING ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "CALCIUM-CARBONATE SKELETON",
+          "role": "outcome"
+        },
+        {
+          "text": "PHOTOSYNTHETIC SYMBIOSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "LIGHT + CLEAR WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "REEF PRODUCTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "SEDIMENT STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "BLEACHING OR DECLINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLYP \u2192 calcium-carbonate skeleton",
+        "ZOOXANTHELLAE \u2192 photosynthetic symbiosis",
+        "LIGHT + CLEAR WATER \u2192 reef productivity",
+        "HEAT / SEDIMENT STRESS \u2192 bleaching or decline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "POLYP \u2192 calcium-carbonate skeleton",
+            "ZOOXANTHELLAE \u2192 photosynthetic symbiosis"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIGHT + CLEAR WATER \u2192 reef productivity",
+            "HEAT / SEDIMENT STRESS \u2192 bleaching or decline"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "POLYP \u2192 calcium-carbonate skeleton",
+            "ZOOXANTHELLAE \u2192 photosynthetic symbiosis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HEAT / SEDIMENT STRESS \u2192 bleaching or decline.",
+      "source_references": [
+        "Coral polyp and reef metabolism",
+        "Coral growth conditions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REEF-TYPE CROSS-SECTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REEF-TYPE CROSS-SECTION",
+          "role": "primary"
+        },
+        {
+          "text": "SHORE CONTACT + NARROW LAGOON",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFSHORE REEF + BROAD LAGOON",
+          "role": "comparison"
+        },
+        {
+          "text": "RING REEF AROUND LAGOON",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND RELATION, LAGOON AND FOUNDATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FRINGING \u2192 shore contact + narrow lagoon",
+        "BARRIER \u2192 offshore reef + broad lagoon",
+        "ATOLL \u2192 ring reef around lagoon",
+        "TEST \u2192 land relation, lagoon and foundation"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "FRINGING \u2192 shore contact + narrow lagoon",
+          "ATOLL \u2192 ring reef around lagoon",
+          "FRINGING \u2192 shore contact + narrow lagoon",
+          "ATOLL \u2192 ring reef around lagoon"
+        ],
+        [
+          "BARRIER \u2192 offshore reef + broad lagoon",
+          "TEST \u2192 land relation, lagoon and foundation",
+          "BARRIER \u2192 offshore reef + broad lagoon",
+          "TEST \u2192 land relation, lagoon and foundation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "FRINGING \u2192 shore contact + narrow lagoon",
+            "BARRIER \u2192 offshore reef + broad lagoon"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ATOLL \u2192 ring reef around lagoon",
+            "TEST \u2192 land relation, lagoon and foundation"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "FRINGING \u2192 shore contact + narrow lagoon",
+            "BARRIER \u2192 offshore reef + broad lagoon"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "ATOLL \u2192 ring reef around lagoon",
+            "TEST \u2192 land relation, lagoon and foundation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ATOLL \u2192 ring reef around lagoon; TEST \u2192 land relation, lagoon and foundation.",
+      "source_references": [
+        "Fringing reef anatomy",
+        "Barrier reef anatomy",
+        "Atoll and lagoon"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DARWIN SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DARWIN SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "VOLCANIC ISLAND + FRINGING REEF",
+          "role": "outcome"
+        },
+        {
+          "text": "SLOW SUBSIDENCE + UPWARD CORAL GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "BARRIER REEF + WIDER LAGOON",
+          "role": "evidence"
+        },
+        {
+          "text": "ISLAND SUBMERGED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "VOLCANIC ISLAND + FRINGING REEF",
+        "SLOW SUBSIDENCE + UPWARD CORAL GROWTH",
+        "BARRIER REEF + WIDER LAGOON",
+        "ISLAND SUBMERGED \u2192 ATOLL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "VOLCANIC ISLAND + FRINGING REEF",
+            "SLOW SUBSIDENCE + UPWARD CORAL GROWTH"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BARRIER REEF + WIDER LAGOON",
+            "ISLAND SUBMERGED \u2192 ATOLL"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "VOLCANIC ISLAND + FRINGING REEF",
+            "SLOW SUBSIDENCE + UPWARD CORAL GROWTH"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BARRIER REEF + WIDER LAGOON; ISLAND SUBMERGED \u2192 ATOLL.",
+      "source_references": [
+        "Darwin and Daly models"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DALY QUALIFICATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DALY QUALIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "GLACIAL SEA-LEVEL FALL",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSED PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "WAVE PLANATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FOUNDATION SHAPING",
+          "role": "primary"
+        },
+        {
+          "text": "POST-GLACIAL RISE",
+          "role": "outcome"
+        },
+        {
+          "text": "RENEWED REEF GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "COMBINE SEA LEVEL, BIOLOGY AND TECTONICS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GLACIAL SEA-LEVEL FALL \u2192 exposed platform",
+        "WAVE PLANATION \u2192 foundation shaping",
+        "POST-GLACIAL RISE \u2192 renewed reef growth",
+        "VERDICT \u2192 combine sea level, biology and tectonics"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "GLACIAL SEA-LEVEL FALL \u2192 exposed platform",
+          "POST-GLACIAL RISE \u2192 renewed reef growth",
+          "GLACIAL SEA-LEVEL FALL \u2192 exposed platform"
+        ],
+        [
+          "WAVE PLANATION \u2192 foundation shaping",
+          "VERDICT \u2192 combine sea level, biology and tectonics",
+          "WAVE PLANATION \u2192 foundation shaping"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "GLACIAL SEA-LEVEL FALL \u2192 exposed platform",
+            "WAVE PLANATION \u2192 foundation shaping"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POST-GLACIAL RISE \u2192 renewed reef growth",
+            "VERDICT \u2192 combine sea level, biology and tectonics"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "GLACIAL SEA-LEVEL FALL \u2192 exposed platform",
+            "WAVE PLANATION \u2192 foundation shaping"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT \u2192 combine sea level, biology and tectonics.",
+      "source_references": [
+        "Darwin and Daly models"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BLEACHING OUTCOME FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BLEACHING OUTCOME FORK",
+          "role": "primary"
+        },
+        {
+          "text": "POLLUTION STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SYMBIONT LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "PALE OR WHITE COLONY",
+          "role": "evidence"
+        },
+        {
+          "text": "STRESS EASES",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBLE RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRESS PERSISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISEASE, MORTALITY, EROSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THERMAL / LIGHT / POLLUTION STRESS",
+        "SYMBIONT LOSS \u2192 pale or white colony",
+        "STRESS EASES \u2192 possible recovery",
+        "STRESS PERSISTS \u2192 disease, mortality, erosion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "THERMAL / LIGHT / POLLUTION STRESS",
+            "SYMBIONT LOSS \u2192 pale or white colony"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRESS EASES \u2192 possible recovery",
+            "STRESS PERSISTS \u2192 disease, mortality, erosion"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "THERMAL / LIGHT / POLLUTION STRESS",
+            "SYMBIONT LOSS \u2192 pale or white colony"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRESS EASES \u2192 possible recovery; STRESS PERSISTS \u2192 disease, mortality, erosion.",
+      "source_references": [
+        "Bleaching, mortality and recovery"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REEF-SERVICE CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REEF-SERVICE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "REEF COMPLEXITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITAT + FISHERIES",
+          "role": "comparison"
+        },
+        {
+          "text": "REEF CREST",
+          "role": "evidence"
+        },
+        {
+          "text": "WAVE-ENERGY ATTENUATION",
+          "role": "primary"
+        },
+        {
+          "text": "CARBONATE PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ISLAND SEDIMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVELIHOOD + EXPOSURE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REEF COMPLEXITY \u2192 habitat + fisheries",
+        "REEF CREST \u2192 wave-energy attenuation",
+        "CARBONATE PRODUCTION \u2192 island sediment",
+        "DEGRADATION \u2192 livelihood + exposure risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "REEF COMPLEXITY \u2192 habitat + fisheries",
+            "REEF CREST \u2192 wave-energy attenuation"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CARBONATE PRODUCTION \u2192 island sediment",
+            "DEGRADATION \u2192 livelihood + exposure risk"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "REEF COMPLEXITY \u2192 habitat + fisheries",
+            "REEF CREST \u2192 wave-energy attenuation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CARBONATE PRODUCTION \u2192 island sediment; DEGRADATION \u2192 livelihood + exposure risk.",
+      "source_references": [
+        "Reef ecosystem services and limits"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA ISLAND CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA ISLAND CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "TECTONIC ARC, HIGH RELIEF, SEISMIC SETTING",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW CORAL ATOLLS AND REEFS",
+          "role": "comparison"
+        },
+        {
+          "text": "TEN DEGREE",
+          "role": "evidence"
+        },
+        {
+          "text": "NICOBAR DIVIDE",
+          "role": "primary"
+        },
+        {
+          "text": "NINE DEGREE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAIN LAKSHADWEEP DIVIDE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "A&N \u2192 tectonic arc, high relief, seismic setting",
+        "LAKSHADWEEP \u2192 low coral atolls and reefs",
+        "TEN DEGREE \u2192 Andaman / Nicobar divide",
+        "NINE DEGREE \u2192 Minicoy / main Lakshadweep divide"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "A&N \u2192 tectonic arc, high relief, seismic setting",
+          "TEN DEGREE \u2192 Andaman / Nicobar divide",
+          "A&N \u2192 tectonic arc, high relief, seismic setting",
+          "TEN DEGREE \u2192 Andaman / Nicobar divide"
+        ],
+        [
+          "LAKSHADWEEP \u2192 low coral atolls and reefs",
+          "NINE DEGREE \u2192 Minicoy / main Lakshadweep divide",
+          "LAKSHADWEEP \u2192 low coral atolls and reefs",
+          "NINE DEGREE \u2192 Minicoy / main Lakshadweep divide"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "A&N \u2192 tectonic arc, high relief, seismic setting",
+            "LAKSHADWEEP \u2192 low coral atolls and reefs"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEN DEGREE \u2192 Andaman / Nicobar divide",
+            "NINE DEGREE \u2192 Minicoy / main Lakshadweep divide"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "A&N \u2192 tectonic arc, high relief, seismic setting",
+            "LAKSHADWEEP \u2192 low coral atolls and reefs"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "TEN DEGREE \u2192 Andaman / Nicobar divide",
+            "NINE DEGREE \u2192 Minicoy / main Lakshadweep divide"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NINE DEGREE \u2192 Minicoy / main Lakshadweep divide.",
+      "source_references": [
+        "Andaman-Nicobar tectonic arc",
+        "Lakshadweep coral system"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GREAT NICOBAR VALUE MAP",
+      "structural_type": "evidence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GREAT NICOBAR VALUE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TECTONIC ISLAND",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTHQUAKE-TSUNAMI EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOSPHERE RESERVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE-BUFFER-TRANSITION LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "REEFS + BEACHES + FORESTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONNECTED HABITATS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIGENOUS COMMUNITIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TECTONIC ISLAND \u2192 earthquake-tsunami exposure",
+        "BIOSPHERE RESERVE \u2192 core-buffer-transition logic",
+        "REEFS + BEACHES + FORESTS \u2192 connected habitats",
+        "INDIGENOUS COMMUNITIES \u2192 rights and livelihood"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TECTONIC ISLAND \u2192 earthquake-tsunami exposure",
+            "BIOSPHERE RESERVE \u2192 core-buffer-transition logic"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REEFS + BEACHES + FORESTS \u2192 connected habitats",
+            "INDIGENOUS COMMUNITIES \u2192 rights and livelihood"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "TECTONIC ISLAND \u2192 earthquake-tsunami exposure",
+            "BIOSPHERE RESERVE \u2192 core-buffer-transition logic"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "REEFS + BEACHES + FORESTS \u2192 connected habitats",
+            "INDIGENOUS COMMUNITIES \u2192 rights and livelihood"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REEFS + BEACHES + FORESTS \u2192 connected habitats.",
+      "source_references": [
+        "Great Nicobar biosphere value"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROJECT-STATUS FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROJECT-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PORT + AIRPORT + TOWNSHIP + POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLEARANCE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFEGUARDS TO IMPLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "12 FEB 2026",
+          "role": "primary"
+        },
+        {
+          "text": "FINAL FOREST APPROVAL NOT GRANTED",
+          "role": "caution"
+        },
+        {
+          "text": "OFFICIAL CLAIM IS NOT MEASURED OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROPOSAL \u2192 port + airport + township + power",
+        "CLEARANCE CONDITIONS \u2192 safeguards to implement",
+        "12 FEB 2026 \u2192 final forest approval not granted",
+        "RULE \u2192 official claim is not measured outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PROPOSAL \u2192 port + airport + township + power",
+            "CLEARANCE CONDITIONS \u2192 safeguards to implement"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "12 FEB 2026 \u2192 final forest approval not granted",
+            "RULE \u2192 official claim is not measured outcome"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PROPOSAL \u2192 port + airport + township + power",
+            "CLEARANCE CONDITIONS \u2192 safeguards to implement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE \u2192 official claim is not measured outcome.",
+      "source_references": [
+        "Project components and approval status"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ISLAND APPRAISAL GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISLAND APPRAISAL GATE",
+          "role": "primary"
+        },
+        {
+          "text": "STRATEGIC AND ECONOMIC RATIONALE",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARD, FRESHWATER AND CARRYING CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS + CUMULATIVE EFFECTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALTERNATIVES, SAFEGUARDS, MONITORING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NEED \u2192 strategic and economic rationale",
+        "PLACE \u2192 hazard, freshwater and carrying capacity",
+        "PEOPLE / ECOLOGY \u2192 rights + cumulative effects",
+        "DECISION \u2192 alternatives, safeguards, monitoring"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NEED \u2192 strategic and economic rationale",
+            "PLACE \u2192 hazard, freshwater and carrying capacity"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PEOPLE / ECOLOGY \u2192 rights + cumulative effects",
+            "DECISION \u2192 alternatives, safeguards, monitoring"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NEED \u2192 strategic and economic rationale",
+            "PLACE \u2192 hazard, freshwater and carrying capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PEOPLE / ECOLOGY \u2192 rights + cumulative effects.",
+      "source_references": [
+        "PYQ reef route and island appraisal"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ISLAND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ISLAND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGIN AND REEF TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARC, ATOLL, CHANNEL AND LAGOON",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAT, HAZARD, RIGHTS AND STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "ISLAND-SPECIFIC AND PRECAUTIONARY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY \u2192 origin and reef type",
+        "MAP \u2192 arc, atoll, channel and lagoon",
+        "ASSESS \u2192 heat, hazard, rights and status",
+        "VERDICT \u2192 island-specific and precautionary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "CLASSIFY \u2192 origin and reef type",
+            "MAP \u2192 arc, atoll, channel and lagoon"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSESS \u2192 heat, hazard, rights and status",
+            "VERDICT \u2192 island-specific and precautionary"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "CLASSIFY \u2192 origin and reef type",
+            "MAP \u2192 arc, atoll, channel and lagoon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSESS \u2192 heat, hazard, rights and status; VERDICT \u2192 island-specific and precautionary.",
+      "source_references": [
+        "PYQ reef route and island appraisal"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARAKAN YOMA EXTENSION; TECTONIC/FOLD-BELT LINK.",
+          "role": "outcome"
+        },
+        {
+          "text": "NICOBAR ISLANDS BELONG TO THE TECTONIC ISLAND ARC AND",
+          "role": "comparison"
+        },
+        {
+          "text": "BARREN ISLAND",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S ONLY ACTIVE VOLCANO.",
+          "role": "primary"
+        },
+        {
+          "text": "VOLCANIC ISLAND; BARREN ISLAND IS INDIA'S ONLY HISTORICALLY ACTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTIRELY CORAL ATOLLS IN ARABIAN SEA.",
+          "role": "comparison"
+        },
+        {
+          "text": "A&N REGION LIES IN A MAJOR EARTHQUAKE ZONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "Andaman = Arakan Yoma extension; tectonic/fold-belt link.",
+            "Nicobar islands belong to the tectonic island arc and are fringed by coral reefs; they are not simply coral atolls.",
+            "Barren Island = India's only active volcano.",
+            "Narcondam = volcanic island; Barren Island is India's only historically active volcano."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Lakshadweep = entirely coral atolls in Arabian Sea.",
+            "A&N region lies in a major earthquake zone.",
+            "Saddle Peak is in North Andaman and is the archipelago's highest point.",
+            "NOT: Lakshadweep is volcanic like Barren Island \u2192 Lakshadweep is coral/atoll ; Barren Island is volcanic."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "NOT: Andaman Islands are coral like Lakshadweep \u2192 Andamans are linked to the Arakan Yoma fold chain .",
+            "NOT: Narcondam is India's active volcano \u2192 Barren Island is active; Narcondam is dormant.",
+            "NOT: Bay of Bengal and Arabian Sea islands have the same origin \u2192 Bay islands are tectonic/volcanic/coral mix; Lakshadweep is coral.",
+            "NOT: Island geography is only physical \u2192 Indian islands also have strategic, ecological and disaster-risk dimensions."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

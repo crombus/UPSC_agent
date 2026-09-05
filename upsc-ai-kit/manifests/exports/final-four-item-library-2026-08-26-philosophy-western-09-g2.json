@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-26T17:07:02+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "1b91cf7034e90d7998a872fc1a7657314057a96d10c289bbe2bdbd0706857d7c",
+    "sha256_after": "1b91cf7034e90d7998a872fc1a7657314057a96d10c289bbe2bdbd0706857d7c",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Philosophy Optional": 1
+  },
+  "sections": {
+    "Philosophy Optional — Philosophy Paper I — Western Philosophy": 1
+  },
+  "library_totals": {
+    "file_count": 853,
+    "pdf_count": 505,
+    "png_count": 101,
+    "txt_count": 202,
+    "markdown_count": 29,
+    "json_count": 1,
+    "total_bytes": 986061987,
+    "by_extension": {
+      ".json": 1,
+      ".md": 29,
+      ".pdf": 505,
+      ".png": 101,
+      ".txt": 202,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-09",
+      "topic_title": "Phenomenology (Husserl)",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "catalogue_number": 9,
+      "source_record_id": "philosophy-paper-i-western-philosophy-09:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g2\\topic-09_Complete-Learning-Session_2026-08-26.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "45469e65fb0fde51ec82a8cf7338febca40901e05111ae92bcbe14e7474a7459",
+          "output_sha256": "45469e65fb0fde51ec82a8cf7338febca40901e05111ae92bcbe14e7474a7459",
+          "source_output_equal": true,
+          "bytes": 561823
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g2\\topic-09_Solved-Practice-Workbook_2026-08-26.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "130933cd87cd21906e376bbc95329bc29205ea43b55051dfc1b4caaeea269bf0",
+          "output_sha256": "130933cd87cd21906e376bbc95329bc29205ea43b55051dfc1b4caaeea269bf0",
+          "source_output_equal": true,
+          "bytes": 360218
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-09\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e616e75d2cff4c263ae720ef7321df34404c7fca2f39cfa61ace7c098dde270c",
+          "output_sha256": "e616e75d2cff4c263ae720ef7321df34404c7fca2f39cfa61ace7c098dde270c",
+          "source_output_equal": true,
+          "bytes": 2529094
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-09\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f6774ed47219c02336fc2ba3b4f2cdea7897764c0182a94504af8b31a5ec0da1",
+          "output_sha256": "f6774ed47219c02336fc2ba3b4f2cdea7897764c0182a94504af8b31a5ec0da1",
+          "source_output_equal": true,
+          "bytes": 2878529
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-09\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1bf84c1f7c0fd4e37778bb3d7cfc4730007a6db8262d18bf5fcaf4c63b44a8e8",
+          "output_sha256": "1bf84c1f7c0fd4e37778bb3d7cfc4730007a6db8262d18bf5fcaf4c63b44a8e8",
+          "source_output_equal": true,
+          "bytes": 2229352
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-09\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a67b793475ac9c64dceeddf286e7b2859aeda06f7251afc70cf3d590d0759878",
+          "output_sha256": "a67b793475ac9c64dceeddf286e7b2859aeda06f7251afc70cf3d590d0759878",
+          "source_output_equal": true,
+          "bytes": 9069
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-09\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\09-Phenomenology-Husserl\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "977af876af2903fbae3dc5ad22e7e97af8a95811f312762c5c39c3501567c736",
+          "output_sha256": "977af876af2903fbae3dc5ad22e7e97af8a95811f312762c5c39c3501567c736",
+          "source_output_equal": true,
+          "source_text_sha256": "a67b793475ac9c64dceeddf286e7b2859aeda06f7251afc70cf3d590d0759878",
+          "normalized_text_equal": true,
+          "bytes": 57935
+        }
+      },
+      "ascii": {
+        "text_panel_count": 10,
+        "pdf_panel_count": 10,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 11,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 11,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 11,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 11,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 78,
+        "solved_practice_workbook": 31,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 10
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 31,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 10,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11476
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

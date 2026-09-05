@@ -1,0 +1,122 @@
+{
+  "record_id": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g4",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g3",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper II — Socio-Political Philosophy — Gender Discrimination — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-08-30.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-philosophy-socio-political-topic-adapter",
+    "topic_adapter": "tools\\philosophy_socio_political_gender_discrimination_v2_spec.py",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+    "legacy_v1_source_package": null,
+    "legacy_v1_workbook": null,
+    "assembly_mode": "source-complete-canonical-owner-fallback",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+    "official_syllabus": "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "official_syllabus_verbatim": "Gender Discrimination: Female Foeticide, Land and Property Rights, Empowerment.",
+    "philosophy_readme": "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-08-30.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-09-g4.json",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1 learner-v2 indexed renderer"
+    },
+    "generation_date": "2026-08-30",
+    "superseded_v1": null,
+    "english_first": true,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+      "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md": "71ed70f45245cb18ccd89f0eaf1e34d7a195bc54bfb4d6665ac2dd549dfc63c2"
+    },
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.md": "d7436bcb7c8fded7d7e93ed90811936594055910728f90d949df75703bb564ab",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-08-30.md": "e8bd0553a727492adc99f3b8716688963b700b55ff8240a733b996f781f078d2",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.pdf": "446d7db05091ab298cdfb98719b895905dff51fd306920127ef263eef45f4acf",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-08-30.pdf": "aa8d5371adee02f6a48de10e788c2eeabcead2af3a5faaccabf94bb8c027a45d",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\validation\\main-visual-audit-map.json": "510a4456fab076175576b5db0e3be5876a24b6b3d7dce764290cf87c6b4a34a3",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\validation\\workbook-visual-audit-map.json": "98626c5d59f9a42b4ecd1d15d9bd21b18a53472b96973d6d3f2677e9814e565b",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-socio-political-philosophy-09-ascii-g4-2026-08-30.json": "ebf8e643fa5b662469cbd90f7d63c394b0b568513ca5ed0bf5f7f58a1c5a4e31",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-09-g4.json": "6ceee5a537945150c6e1b4f8c6352e464b5e2637ad35b1b1cb936b22fd60e7fd",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-09-g4.json": "ca34aa17968b98b2ee86cea7b10550f6a7d3e0a7c8a23c06815302c9c3574348",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\assets\\philosophy-paper-ii-socio-political-philosophy-09\\gender-discrimination-map.png": "0f27ee13fd9309e6c7660a8d02cbc4e18f2ca9c8b79ea5d1cc74f4f5e718de93",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\ascii-master.pdf": "70feee1f71a587f032eda5effd60a34a45050c0fe2cff2d5dbeb3d845e17cc4e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\ascii-master.txt": "2824d9b50cf01da0385e0eadfc1bbffbbe0680c30a8c80ad11a4d5ac47338302",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\build-audit.json": "dcb6012b3713721f17d8a04cd363503e80737c22ac5e21f22dbd16f607fdfc8b",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\master.png": "81931a24b2578dbec2f67cc24df70ee79a6b4339e2b490890703a4ddbde50bc4",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\poster.pdf": "9613e7814981f32a887727470550830a76c1dde494942e48a606db3e94e97503",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\preservation-hashes.json": "1f3d18b104ff3e0dc6116ec9a393a7f276a7c60eb91996c16e7b86ef0ced36ad",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\README.txt": "2004488ebe06cafcff920022893f788214e1c7264efc2113b46d58e3841c88fe",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\tiled.pdf": "2c1394720713187b23f08b19d0a339f031ab19f4306b24f3cdeba09384b796a2",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\validation-report.txt": "056a66100c0fe7be2fc31c2dd0b0aeaf70bcd8ff039dc7c5ed0414bdab019f89",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\editable\\topic-spec.json": "6ceee5a537945150c6e1b4f8c6352e464b5e2637ad35b1b1cb936b22fd60e7fd",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\contact-sheet-01.png": "fd14841a872ae8eef0e85aa86dccf9b2b5420f46be01e9db07024abecb6e7d2b",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\master-overview.png": "70a0ce0ded4b9a0732f08d06a06e957a29a9a447f2a1e3ee7d537189aa54702d",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\page-001.png": "a8295542c999832e33e6b9b470ddee40a62e04a241d420c2f12659dace7addbd",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\page-002.png": "6fc510924953ac0919b85a8089b55281c19b58d6d62f7a05f6680194b2db3693",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\page-003.png": "29696183ec604b4ff7a277a8e37db8045f1e6c9e1faa5eb682074948db6370cb",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\page-004.png": "41a0e51f9b7e00be1482bc77bcb873562a0a79eb7f90aacd694b3e4b4155353b"
+    },
+    "concept_visual": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\assets\\philosophy-paper-ii-socio-political-philosophy-09\\gender-discrimination-map.png",
+    "main_visual_audit_map": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-09\\g3\\main-visual-audit-map.json",
+    "workbook_visual_audit_map": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\validation\\philosophy-paper-ii-socio-political-philosophy-09\\g3\\workbook-visual-audit-map.json",
+    "ascii_master_pdf": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-09\\continuous-at-a-glance-english-first-g3\\ascii-master.pdf",
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "repair_scope": "fresh immutable identity; answer-specific demand/improvement/compression; topic-01 named-session contract and objective-key syntax; topic-09 dated commencement/status discipline"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-30",
+    "validator": "regenerate_philosophy_socio_political_deep_review.py"
+  },
+  "generated_on": "2026-08-30",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-09-g4.json",
+    "graphical_spec_sha256": "6ceee5a537945150c6e1b4f8c6352e464b5e2637ad35b1b1cb936b22fd60e7fd",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-09\\carvaka-g4\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-gender-discrimination-twelve-panel-spec"
+  }
+}

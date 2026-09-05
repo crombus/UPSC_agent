@@ -1,0 +1,1151 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-03",
+  "subject": "Social-Justice",
+  "title": "HEALTH SYSTEMS, PUBLIC HEALTH AND UNIVERSAL HEALTH COVERAGE",
+  "short_route": "COVERAGE CUBE → POLICY AND MISSION CARD → TWO PILLARS KEPT APART → TWO ENROLMENT ROUTES → SOURCE DISCIPLINE CARD → IMPOVERISHMENT MECHANISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-03_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-03-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "14ac84c4af4865974ae739ca08aaed0f1efab04cfbfc411df46f92540385d8ec",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COVERAGE CUBE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "COVERAGE CUBE",
+          "role": "primary"
+        },
+        {
+          "text": "WHO IS COVERED, ALL CITIZENS OR IDENTIFIED BENEFICIARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "PROMOTIVE, PREVENTIVE, CURATIVE AND REHABILITATIVE CARE",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCIAL PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "HOW LITTLE THE HOUSEHOLD PAYS AT THE POINT OF",
+          "role": "primary"
+        },
+        {
+          "text": "A SYSTEM CAN WIDEN ONE EDGE WHILE NARROWING ANOTHER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "POPULATION → breadth: who is covered, all citizens or identified beneficiaries",
+        "SERVICES → depth: promotive, preventive, curative and rehabilitative care",
+        "FINANCIAL PROTECTION → height: how little the household pays at the point of care",
+        "RULE → a system can widen one edge while narrowing another; test all three"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "POPULATION → breadth: who is covered, all citizens or identified beneficiaries",
+            "SERVICES → depth: promotive, preventive, curative and rehabilitative care"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "FINANCIAL PROTECTION → height: how little the household pays at the point of care",
+            "RULE → a system can widen one edge while narrowing another; test all three"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POPULATION → breadth: who is covered, all citizens or identified beneficiaries",
+            "SERVICES → depth: promotive, preventive, curative and rehabilitative care"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a system can widen one edge while narrowing another; test all three.",
+      "source_references": [
+        "Universal health coverage and its three dimensions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POLICY AND MISSION CARD",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POLICY AND MISSION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY 2017",
+          "role": "outcome"
+        },
+        {
+          "text": "RAISE PUBLIC HEALTH EXPENDITURE TO 2.5 PER CENT OF",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "A POLICY DOCUMENT, NOT AN ENACTED STATUTE; COMMITMENTS, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "RURAL MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "LAUNCHED 12 APRIL 2005 FOR THE RURAL POPULATION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN MISSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POLICY 2017 → raise public health expenditure to 2.5 per cent of gross domestic product",
+        "ITS STATUS → a policy document, not an enacted statute; commitments, not entitlements",
+        "RURAL MISSION → launched 12 April 2005 for the rural population and vulnerable groups",
+        "URBAN MISSION → Union Cabinet decision dated 1 May 2013 created it as a sub-mission",
+        "SPECIAL FOCUS → Empowered Action Group States, North East, Jammu and Kashmir, Himachal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OFFICIAL EVIDENCE / DATE",
+          "role": "evidence",
+          "items": [
+            "POLICY 2017 → raise public health expenditure to 2.5 per cent of gross domestic product",
+            "ITS STATUS → a policy document, not an enacted statute; commitments, not entitlements"
+          ]
+        },
+        {
+          "heading": "WHAT IT PROVES",
+          "role": "mechanism",
+          "items": [
+            "RURAL MISSION → launched 12 April 2005 for the rural population and vulnerable groups",
+            "URBAN MISSION → Union Cabinet decision dated 1 May 2013 created it as a sub-mission"
+          ]
+        },
+        {
+          "heading": "CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "SPECIAL FOCUS → Empowered Action Group States, North East, Jammu and Kashmir, Himachal",
+            "BENCHMARK → facilities measured against the Indian Public Health Standards"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BENCHMARK → facilities measured against the Indian Public Health Standards.",
+      "source_references": [
+        "The National Health Policy of 2017 and what it is not",
+        "The National Health Mission and its two sub-missions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO PILLARS KEPT APART",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO PILLARS KEPT APART",
+          "role": "primary"
+        },
+        {
+          "text": "PILLAR ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "WELLNESS CENTRES AND HEALTH MANDIRS; COMPREHENSIVE PRIMARY HEALTH CARE",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS PACKAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "TWELVE SERVICES INCLUDING NON-COMMUNICABLE DISEASE AND MENTAL HEALTH",
+          "role": "primary"
+        },
+        {
+          "text": "ITS STAFF",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNITY HEALTH OFFICER OR MID-LEVEL HEALTH PROVIDER",
+          "role": "comparison"
+        },
+        {
+          "text": "PILLAR TWO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PILLAR ONE → wellness centres and health mandirs; comprehensive primary health care",
+        "ITS PACKAGE → twelve services including non-communicable disease and mental health",
+        "ITS STAFF → community health officer or mid-level health provider",
+        "PILLAR TWO → cashless secondary and tertiary hospitalisation cover",
+        "ITS QUANTUM → up to five lakh rupees per family per year at empanelled hospitals"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PILLAR ONE → wellness centres and health mandirs; comprehensive primary health care",
+          "ITS STAFF → community health officer or mid-level health provider",
+          "ITS QUANTUM → up to five lakh rupees per family per year at empanelled hospitals"
+        ],
+        [
+          "ITS PACKAGE → twelve services including non-communicable disease and mental health",
+          "PILLAR TWO → cashless secondary and tertiary hospitalisation cover",
+          "PILLAR ONE → wellness centres and health mandirs; comprehensive primary health care"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PILLAR ONE → wellness centres and health mandirs; comprehensive primary health care",
+            "ITS PACKAGE → twelve services including non-communicable disease and mental health"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ITS STAFF → community health officer or mid-level health provider",
+            "PILLAR TWO → cashless secondary and tertiary hospitalisation cover"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITS QUANTUM → up to five lakh rupees per family per year at empanelled hospitals",
+            "PILLAR ONE → wellness centres and health mandirs; comprehensive primary health care"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ITS QUANTUM → up to five lakh rupees per family per year at empanelled hospitals.",
+      "source_references": [
+        "The primary-care pillar of Ayushman Bharat",
+        "The hospitalisation pillar of Ayushman Bharat and its two enrolment routes"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWO ENROLMENT ROUTES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO ENROLMENT ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "CORE ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "ELIGIBILITY-BASED, IDENTIFIED THROUGH CENSUS DEPRIVATION CRITERIA",
+          "role": "comparison"
+        },
+        {
+          "text": "AGE ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVERY CITIZEN AGED SEVENTY AND ABOVE MAY ENROL REGARDLESS",
+          "role": "primary"
+        },
+        {
+          "text": "THE AGE ROUTE IS UNIVERSAL ONLY FOR THAT AGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ERROR TO AVOID",
+          "role": "comparison"
+        },
+        {
+          "text": "WRITING AN AGE-SPECIFIC EXPANSION UP AS UNIVERSAL COVER FOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE ROUTE → eligibility-based, identified through census deprivation criteria",
+        "AGE ROUTE → every citizen aged seventy and above may enrol regardless of income",
+        "PRECISION → the age route is universal only for that age group",
+        "ERROR TO AVOID → writing an age-specific expansion up as universal cover for all ages"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CORE ROUTE → eligibility-based, identified through census deprivation criteria",
+          "PRECISION → the age route is universal only for that age group",
+          "CORE ROUTE → eligibility-based, identified through census deprivation criteria"
+        ],
+        [
+          "AGE ROUTE → every citizen aged seventy and above may enrol regardless of income",
+          "ERROR TO AVOID → writing an age-specific expansion up as universal cover for all ages",
+          "AGE ROUTE → every citizen aged seventy and above may enrol regardless of income"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CORE ROUTE → eligibility-based, identified through census deprivation criteria",
+            "AGE ROUTE → every citizen aged seventy and above may enrol regardless of income"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRECISION → the age route is universal only for that age group",
+            "ERROR TO AVOID → writing an age-specific expansion up as universal cover for all ages"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORE ROUTE → eligibility-based, identified through census deprivation criteria",
+            "AGE ROUTE → every citizen aged seventy and above may enrol regardless of income"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR TO AVOID → writing an age-specific expansion up as universal cover for all ages.",
+      "source_references": [
+        "The hospitalisation pillar of Ayushman Bharat and its two enrolment routes"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOURCE DISCIPLINE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE DISCIPLINE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "HEALTH AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPLEMENTS THE HOSPITALISATION PILLAR; EMPANELS AND PAYS CLAIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "HEALTH ACCOUNTS",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL ESTIMATES OF PUBLIC, PRIVATE AND OUT-OF-POCKET SPENDING",
+          "role": "primary"
+        },
+        {
+          "text": "47.1 PER CENT IN 2019-20; 44.4 PER CENT IN",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER CONFUSE THE PUBLICATION DATE WITH THE ACCOUNTING YEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "A HIGH SHARE SIGNALS WEAK PUBLIC PROVISION, NOT HIGH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HEALTH AUTHORITY → implements the hospitalisation pillar; empanels and pays claims",
+        "HEALTH ACCOUNTS → official estimates of public, private and out-of-pocket spending",
+        "SEQUENCE → 47.1 per cent in 2019-20; 44.4 per cent in 2020-21; 39.4 per cent",
+        "RULE → never confuse the publication date with the accounting year",
+        "MEANING → a high share signals weak public provision, not high utilisation"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "HEALTH AUTHORITY → implements the hospitalisation pillar; empanels and pays claims",
+          "SEQUENCE → 47.1 per cent in 2019-20; 44.4 per cent in 2020-21; 39.4 per cent in 2021-22",
+          "MEANING → a high share signals weak public provision, not high utilisation"
+        ],
+        [
+          "HEALTH ACCOUNTS → official estimates of public, private and out-of-pocket spending",
+          "RULE → never confuse the publication date with the accounting year",
+          "HEALTH AUTHORITY → implements the hospitalisation pillar; empanels and pays claims"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HEALTH AUTHORITY → implements the hospitalisation pillar; empanels and pays claims",
+            "HEALTH ACCOUNTS → official estimates of public, private and out-of-pocket spending"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SEQUENCE → 47.1 per cent in 2019-20; 44.4 per cent in 2020-21; 39.4 per cent in 2021-22",
+            "RULE → never confuse the publication date with the accounting year"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "MEANING → a high share signals weak public provision, not high utilisation",
+            "HEALTH AUTHORITY → implements the hospitalisation pillar; empanels and pays claims"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never confuse the publication date with the accounting year.",
+      "source_references": [
+        "The health authority and the health accounts must not be conflated",
+        "Out-of-pocket expenditure and its dated official sequence"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "IMPOVERISHMENT MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IMPOVERISHMENT MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CARE IS SOUGHT FROM A PROVIDER OUTSIDE THE FUNDED",
+          "role": "outcome"
+        },
+        {
+          "text": "OUT-OF-POCKET PAYMENT AT THE POINT OF SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CATASTROPHIC SPENDING",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOVE A THRESHOLD SHARE OF HOUSEHOLD INCOME OR CONSUMPTION",
+          "role": "primary"
+        },
+        {
+          "text": "ASSET SALE OR DEBT",
+          "role": "outcome"
+        },
+        {
+          "text": "YEARS OF ACCUMULATION ARE UNDONE BY ONE HOSPITALISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS IS WHERE THE HEALTH OWNER MEETS THE POVERTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ILLNESS → care is sought from a provider outside the funded public layer",
+        "OUT-OF-POCKET PAYMENT at the point of service",
+        "CATASTROPHIC SPENDING: above a threshold share of household income or consumption",
+        "ASSET SALE OR DEBT: years of accumulation are undone by one hospitalisation",
+        "LINK → this is where the health owner meets the poverty owner"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ILLNESS → care is sought from a provider outside the funded public layer",
+            "OUT-OF-POCKET PAYMENT at the point of service"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CATASTROPHIC SPENDING: above a threshold share of household income or consumption",
+            "ASSET SALE OR DEBT: years of accumulation are undone by one hospitalisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LINK → this is where the health owner meets the poverty owner",
+            "ILLNESS → care is sought from a provider outside the funded public layer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK → this is where the health owner meets the poverty owner.",
+      "source_references": [
+        "Catastrophic health expenditure as the impoverishment mechanism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REFERRAL SPINE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REFERRAL SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST CONTACT; OUTREACH AND COMMUNITY-LEVEL SERVICES",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMARY HEALTH CENTRE",
+          "role": "comparison"
+        },
+        {
+          "text": "PREVENTIVE, PROMOTIVE AND BASIC CURATIVE CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNITY HEALTH CENTRE",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALIST OUTPATIENT AND INPATIENT CARE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRICT HOSPITAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SECONDARY CARE AND THE GATEWAY TO TERTIARY REFERRAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUB-CENTRE → first contact; outreach and community-level services",
+        "PRIMARY HEALTH CENTRE → preventive, promotive and basic curative care",
+        "COMMUNITY HEALTH CENTRE → specialist outpatient and inpatient care",
+        "DISTRICT HOSPITAL → secondary care and the gateway to tertiary referral",
+        "USE → name the failing tier; a vacancy, a diagnostic gap and a specialist shortage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "SUB-CENTRE → first contact; outreach and community-level services",
+            "PRIMARY HEALTH CENTRE → preventive, promotive and basic curative care"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "COMMUNITY HEALTH CENTRE → specialist outpatient and inpatient care",
+            "DISTRICT HOSPITAL → secondary care and the gateway to tertiary referral"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → name the failing tier; a vacancy, a diagnostic gap and a specialist shortage differ",
+            "SUB-CENTRE → first contact; outreach and community-level services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → name the failing tier; a vacancy, a diagnostic gap and a specialist shortage differ.",
+      "source_references": [
+        "The tiered public delivery structure",
+        "Primary, secondary and tertiary care"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MARKETISATION AND ITS HARMS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MARKETISATION AND ITS HARMS",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE DOMINANCE IN CURATIVE CARE",
+          "role": "outcome"
+        },
+        {
+          "text": "OFTEN UNREGULATED OR UNDER-REGULATED",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH COSTS AND UNNECESSARY PROCEDURES",
+          "role": "evidence"
+        },
+        {
+          "text": "CATASTROPHIC SPENDING AND INEQUITABLE ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT DENY PRIVATE CAPACITY, AND DO NOT ASSUME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRIVATE DOMINANCE IN CURATIVE CARE → often unregulated or under-regulated",
+        "HIGH COSTS and unnecessary procedures",
+        "CATASTROPHIC SPENDING and inequitable access",
+        "BALANCE → do not deny private capacity, and do not assume regulation is automatic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "PRIVATE DOMINANCE IN CURATIVE CARE → often unregulated or under-regulated",
+            "HIGH COSTS and unnecessary procedures"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CATASTROPHIC SPENDING and inequitable access",
+            "BALANCE → do not deny private capacity, and do not assume regulation is automatic"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIVATE DOMINANCE IN CURATIVE CARE → often unregulated or under-regulated",
+            "HIGH COSTS and unnecessary procedures"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BALANCE → do not deny private capacity, and do not assume regulation is automatic.",
+      "source_references": [
+        "Marketisation of health care and what it produces"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REGULATORY TOOLKIT",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGULATORY TOOLKIT",
+          "role": "primary"
+        },
+        {
+          "text": "CLINICAL ESTABLISHMENTS ACT, 2010",
+          "role": "institution"
+        },
+        {
+          "text": "REGISTRATION AND REGULATION OF ESTABLISHMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "STATES MUST ADOPT IT OR NOTIFY EQUIVALENT LEGISLATION; ADOPTION",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE CAPPING",
+          "role": "outcome"
+        },
+        {
+          "text": "EXERCISED OVER DEVICES BY THE PHARMACEUTICAL PRICING AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATMENT GUIDELINES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLINICAL ESTABLISHMENTS ACT, 2010 → registration and regulation of establishments",
+        "ITS CONDITION → States must adopt it or notify equivalent legislation; adoption varies",
+        "PRICE CAPPING → exercised over devices by the pharmaceutical pricing authority",
+        "TREATMENT GUIDELINES → promote rational care and cost control; uptake varies",
+        "RULE → name the adoption gap a regulatory recommendation is meant to close"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CLINICAL ESTABLISHMENTS ACT, 2010 → registration and regulation of establishments",
+          "PRICE CAPPING → exercised over devices by the pharmaceutical pricing authority",
+          "RULE → name the adoption gap a regulatory recommendation is meant to close"
+        ],
+        [
+          "ITS CONDITION → States must adopt it or notify equivalent legislation; adoption varies",
+          "TREATMENT GUIDELINES → promote rational care and cost control; uptake varies",
+          "CLINICAL ESTABLISHMENTS ACT, 2010 → registration and regulation of establishments"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CLINICAL ESTABLISHMENTS ACT, 2010 → registration and regulation of establishments",
+            "ITS CONDITION → States must adopt it or notify equivalent legislation; adoption varies"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRICE CAPPING → exercised over devices by the pharmaceutical pricing authority",
+            "TREATMENT GUIDELINES → promote rational care and cost control; uptake varies"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → name the adoption gap a regulatory recommendation is meant to close",
+            "CLINICAL ESTABLISHMENTS ACT, 2010 → registration and regulation of establishments"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → name the adoption gap a regulatory recommendation is meant to close.",
+      "source_references": [
+        "The regulatory toolkit and its enforcement condition"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FINANCING FAMILIES AND CHAIN",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCING FAMILIES AND CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL HEALTH INSURANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTRIBUTION-LINKED POOLING, AS IN THE EMPLOYEES SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERAL REVENUE, AS IN THE HEALTH MISSION AND THE",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE COLLECTION TO RISK POOLING TO STRATEGIC PURCHASING TO",
+          "role": "caution"
+        },
+        {
+          "text": "INSURANCE LEAVES PREVENTION, MEDICINES AND OUTPATIENT SPENDING UNRESOLVED",
+          "role": "outcome"
+        },
+        {
+          "text": "CALLING THE TAX-FUNDED PILLAR A CONTRIBUTORY INSURANCE SCHEME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SOCIAL HEALTH INSURANCE → contribution-linked pooling, as in the employees system",
+        "TAX-FUNDED → general revenue, as in the health mission and the hospitalisation pillar",
+        "CHAIN → revenue collection to risk pooling to strategic purchasing to provision",
+        "GAP → insurance leaves prevention, medicines and outpatient spending unresolved",
+        "TRAP → calling the tax-funded pillar a contributory insurance scheme"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "SOCIAL HEALTH INSURANCE → contribution-linked pooling, as in the employees system",
+          "CHAIN → revenue collection to risk pooling to strategic purchasing to provision",
+          "TRAP → calling the tax-funded pillar a contributory insurance scheme"
+        ],
+        [
+          "TAX-FUNDED → general revenue, as in the health mission and the hospitalisation pillar",
+          "GAP → insurance leaves prevention, medicines and outpatient spending unresolved",
+          "SOCIAL HEALTH INSURANCE → contribution-linked pooling, as in the employees system"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOCIAL HEALTH INSURANCE → contribution-linked pooling, as in the employees system",
+            "TAX-FUNDED → general revenue, as in the health mission and the hospitalisation pillar"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CHAIN → revenue collection to risk pooling to strategic purchasing to provision",
+            "GAP → insurance leaves prevention, medicines and outpatient spending unresolved"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → calling the tax-funded pillar a contributory insurance scheme",
+            "SOCIAL HEALTH INSURANCE → contribution-linked pooling, as in the employees system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → calling the tax-funded pillar a contributory insurance scheme.",
+      "source_references": [
+        "Social health insurance against tax-funded provision",
+        "The health financing chain and what insurance cannot buy"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMMUNITY HEALTH MAPPING",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMMUNITY HEALTH MAPPING",
+          "role": "primary"
+        },
+        {
+          "text": "REACH THE UNDERSERVED FIRST RATHER THAN THE EASIEST TO",
+          "role": "outcome"
+        },
+        {
+          "text": "VILLAGE HEALTH, SANITATION AND NUTRITION COMMITTEES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-SECTORAL ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER, SANITATION, NUTRITION AND GENDER EQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "APPROPRIATE TECHNOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "FRONTLINE HEALTH ACTIVISTS AND AUXILIARY NURSE MIDWIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE UPGRADED WELLNESS CENTRE AS THE NAMED INDIAN DELIVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EQUITY → reach the underserved first rather than the easiest to reach",
+        "PARTICIPATION → village health, sanitation and nutrition committees",
+        "INTER-SECTORAL ACTION → water, sanitation, nutrition and gender equality",
+        "APPROPRIATE TECHNOLOGY → frontline health activists and auxiliary nurse midwives",
+        "INSTITUTION → the upgraded wellness centre as the named Indian delivery point"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "EQUITY → reach the underserved first rather than the easiest to reach",
+          "INTER-SECTORAL ACTION → water, sanitation, nutrition and gender equality",
+          "INSTITUTION → the upgraded wellness centre as the named Indian delivery point"
+        ],
+        [
+          "PARTICIPATION → village health, sanitation and nutrition committees",
+          "APPROPRIATE TECHNOLOGY → frontline health activists and auxiliary nurse midwives",
+          "EQUITY → reach the underserved first rather than the easiest to reach"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EQUITY → reach the underserved first rather than the easiest to reach",
+            "PARTICIPATION → village health, sanitation and nutrition committees"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INTER-SECTORAL ACTION → water, sanitation, nutrition and gender equality",
+            "APPROPRIATE TECHNOLOGY → frontline health activists and auxiliary nurse midwives"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSTITUTION → the upgraded wellness centre as the named Indian delivery point",
+            "EQUITY → reach the underserved first rather than the easiest to reach"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTITUTION → the upgraded wellness centre as the named Indian delivery point.",
+      "source_references": [
+        "Community health and the Alma-Ata inheritance",
+        "Delivery instruments and the State implementing layer"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CAPACITY LIMITS AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CAPACITY LIMITS AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "UNION FINANCING AND STANDARDS DEPEND ON STATE DELIVERY CAPACITY",
+          "role": "institution"
+        },
+        {
+          "text": "WORKFORCE VACANCIES AND UNEVEN CAPACITY LIMIT IDENTICAL NATIONAL SCHEMES",
+          "role": "caution"
+        },
+        {
+          "text": "MENTAL HEALTH",
+          "role": "evidence"
+        },
+        {
+          "text": "A STATUTORY RIGHT AND A TELE-SERVICE STILL NEED DISTRICT",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE COVERAGE DIMENSION TESTED; BUILD",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVISION PLUS REGULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GRADED VERDICT WITH A DASHBOARD-COUNT CAVEAT AND A REVERSAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONDITION → Union financing and standards depend on State delivery capacity",
+        "GAP → workforce vacancies and uneven capacity limit identical national schemes",
+        "MENTAL HEALTH → a statutory right and a tele-service still need district professionals",
+        "OPEN → name the coverage dimension tested; BUILD → provision plus regulation",
+        "CLOSE → graded verdict with a dashboard-count caveat and a reversal condition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "CONDITION → Union financing and standards depend on State delivery capacity",
+            "GAP → workforce vacancies and uneven capacity limit identical national schemes"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "MENTAL HEALTH → a statutory right and a tele-service still need district professionals",
+            "OPEN → name the coverage dimension tested; BUILD → provision plus regulation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → graded verdict with a dashboard-count caveat and a reversal condition",
+            "CONDITION → Union financing and standards depend on State delivery capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with a dashboard-count caveat and a reversal condition.",
+      "source_references": [
+        "System capacity, federalism and the workforce constraint",
+        "Mental health as a rights framework with a capacity gap",
+        "The dashboard-output boundary and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EXPAND HWC/AAM FOR COMPREHENSIVE PRIMARY CARE — REDUCES NEED",
+          "role": "outcome"
+        },
+        {
+          "text": "STRENGTHEN NHM (FREE DRUGS, DIAGNOSTICS, WORKFORCE) — IMPROVES PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "PM-JAY FOR SECONDARY/TERTIARY COVER — SHIFTS HOSPITALISATION COST FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATORY ENFORCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CLINICAL ESTABLISHMENTS ACT, PRICE CAPS (NPPA FOR",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC-PRIVATE PARTNERSHIPS WITH ACCOUNTABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPANEL PRIVATE PROVIDERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "Expand HWC/AAM for comprehensive primary care — reduces need for",
+            "Strengthen NHM (free drugs, diagnostics, workforce) — improves public",
+            "PM-JAY for secondary/tertiary cover — shifts hospitalisation cost from",
+            "Regulatory enforcement: Clinical Establishments Act, price caps (NPPA for"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Public-private partnerships with accountability: empanel private providers",
+            "NHP 2017: Policy, not statute; sets vision for UHC, primary-care-led",
+            "NHM (NRHM + NUHM): Centrally-sponsored scheme; provides flexi-pool funds,",
+            "Ayushman Bharat - HWC/AAM: Target: 1.5 lakh HWCs (upgraded SCs/PHCs);"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "Ayushman Bharat - PM-JAY: Its core route uses notified eligibility criteria",
+            "CAUTION: Clinical Establishments Act adoption: Some states have adopted or enacted",
+            "2024 Q17: The question directly tests the state's role against",
+            "PM-JAY 70+ expansion: The all-citizen 70+ route is operational, regardless of"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

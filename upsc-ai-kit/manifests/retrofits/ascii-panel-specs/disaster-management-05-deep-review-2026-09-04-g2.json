@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-05",
+      "display_title": "Earthquake Risk and Resilient Construction",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Seismic risk grammar",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "HAZARD -> ground shaking and secondary effects",
+            "EXPOSURE -> people buildings infrastructure lifelines",
+            "VULNERABILITY -> site + design + construction + maintenance",
+            "CAPACITY -> preparedness response and recovery"
+          ],
+          "source_references": [
+            "Seismic risk",
+            "Exposure",
+            "Constructed vulnerability",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Magnitude-intensity firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MAGNITUDE -> event size / energy measure",
+            "INTENSITY -> observed effects at a location",
+            "ONE EVENT -> varying local intensities",
+            "TRAP -> scales are not interchangeable"
+          ],
+          "source_references": [
+            "Magnitude and intensity",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Zoning-to-site ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SEISMIC ZONE -> broad expected hazard",
+            "MICROZONATION -> finer local variation",
+            "SITE ASSESSMENT -> project-specific conditions",
+            "NONE OF THESE -> predicts the next event"
+          ],
+          "source_references": [
+            "Zoning and prediction",
+            "Site effects and microzonation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Site-effect map",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "GROUND / SLOPE / SOIL CONDITION",
+            "        -> modifies shaking or secondary risk",
+            "BUILT FORM + ACCESS",
+            "        -> modifies exposure response and loss"
+          ],
+          "source_references": [
+            "Site effects and microzonation",
+            "Risk-sensitive land use",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Vulnerability chain",
+          "structural_type": "failure-tree",
+          "ascii_lines": [
+            "IRREGULAR FORM | WEAK CONNECTION | POOR WORKMANSHIP",
+            "UNAUTHORISED ALTERATION | DEGRADED MATERIAL",
+            "FAILED APPROVAL / INSPECTION / MAINTENANCE",
+            "RESULT -> collapse or service disruption risk"
+          ],
+          "source_references": [
+            "Constructed vulnerability",
+            "Compliance chain",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mitigation matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "STRUCTURAL -> safe new build + assessed strengthening",
+            "NON-STRUCTURAL -> land use + enforcement + drills",
+            "CONTENTS -> secure fixtures equipment utilities",
+            "RULE -> combine; do not substitute one for all"
+          ],
+          "source_references": [
+            "Structural mitigation",
+            "Non-structural mitigation",
+            "Non-structural components",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Code-to-compliance rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 STANDARD / BYE-LAW",
+            "2 COMPETENT DESIGN",
+            "3 TRAINED CONSTRUCTION",
+            "4 APPROVAL -> INSPECTION -> MAINTENANCE"
+          ],
+          "source_references": [
+            "Code-compliant design",
+            "Compliance chain",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ductility concept box",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "DEFORMATION CAPACITY",
+            "        -> controlled energy dissipation",
+            "        -> supports life-safety objective",
+            "BOUNDARY -> concept only, no detailing instruction"
+          ],
+          "source_references": [
+            "Ductility concept",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Retrofit priority funnel",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SCREEN EXISTING STOCK",
+            "PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY",
+            "DETAILED ASSESSMENT -> SANCTION -> WORK -> VERIFY",
+            "AUDIT / LISTING ALONE -> NOT COMPLETION"
+          ],
+          "source_references": [
+            "Retrofitting boundary",
+            "Institutional responsibility",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Lifeline continuity map",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HOSPITAL + EOC + FIRE / RESCUE",
+            "POWER + WATER + TELECOM",
+            "ROAD / BRIDGE / ACCESS",
+            "TEST -> physical safety AND post-event function",
+            "MUST REMEMBER: Earthquake risk combines seismic hazard, exposed people and assets,..."
+          ],
+          "source_references": [
+            "Lifeline resilience",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-05_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Monitoring-prediction boundary",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SENSOR -> EVENT DETECTION -> PARAMETER REPORT",
+            "HAZARD ASSESSMENT -> PLANNING INPUT",
+            "PREPAREDNESS -> PROTECTIVE ACTION",
+            "NOT -> precise future magnitude place and time",
+            "CLOSE DISTINCTION: Magnitude is not intensity; earthquake occurrence is not disaster..."
+          ],
+          "source_references": [
+            "Prediction boundary",
+            "Monitoring boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-05_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Earthquake answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE RISK -> SEPARATE MAGNITUDE INTENSITY",
+            "MAP ZONE + SITE + EXPOSURE + VULNERABILITY",
+            "COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES",
+            "TEST ENFORCEMENT EQUITY CONTINUITY AND VERIFIED OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Source every magnitude, intensity, zone,..."
+          ],
+          "source_references": [
+            "Equity and informality",
+            "Safety-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-05\\g2\\disaster-management-05_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-05_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "map_and_current_status_discipline": true,
+    "human_economic_regional_spatial_control": true,
+    "models_india_data_policy_chronology_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-33",
+      "display_title": "Transport, Trade and the Indian Space Programme",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Transport to trade chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MINE OR FARM -> production point with dispersed origins",
+            "ROADHEAD -> flexible collection over short hauls",
+            "RAIL OR WATERWAY CORRIDOR -> bulk trunk haul over long distance",
+            "PORT OR AIRPORT -> break of bulk and interface with global routes",
+            "WORLD MARKET -> exchange completed through connectivity, cost and time",
+            "MUST REMEMBER: Transport geography explains networks through nodes, links, accessibility,",
+            "  connectivity, density, hierarchy, break-of-bulk, modal cost and hinterland; trade adds",
+            "  comparative advantage, corridors, ports, logistics and chokepoints, while India's space",
+            "  programme links launch, satellite, application and governance institutions."
+          ],
+          "source_references": [
+            "Transport as economic circulation",
+            "Network vocabulary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Modal cost structure comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ROAD -> low terminal cost, high per-km cost; short hauls and door-to-door delivery",
+            "RAIL -> higher terminal cost, lower per-km cost; medium to long bulk hauls",
+            "WATER -> highest terminal cost, lowest per-km cost; long bulky low-value cargo",
+            "AIR -> costly throughout; justified by high value-to-weight, urgency or inaccessibility",
+            "PIPELINE -> very high fixed cost, very low operating cost; continuous liquid or gas flow"
+          ],
+          "source_references": [
+            "Six modes and their limits",
+            "Modal cost structure",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Modal choice decision rule",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "IDENTIFY CARGO -> bulk, value density, urgency and perishability",
+            "IF haul is short -> terminal cost dominates, road usually wins",
+            "IF haul exceeds the road-rail break-even -> rail or water recovers its terminal cost",
+            "IF value-to-weight is very high or access is difficult -> air becomes defensible",
+            "ALWAYS -> treat freight as an intermodal chain, not a single modal verdict"
+          ],
+          "source_references": [
+            "Break-even and value density",
+            "Intermodal chain rule",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Network vocabulary rail",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "HINTERLAND -> inland area served by a port, city or route",
+            "NODE -> junction or terminal where flows converge",
+            "CORRIDOR -> linear axis of intense transport and economic activity",
+            "BREAK OF BULK -> port, railhead or dry port where cargo changes mode",
+            "HUB AND SPOKE -> one major hub redistributes flows to smaller nodes"
+          ],
+          "source_references": [
+            "Network vocabulary",
+            "Intermodal chain rule",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Port site versus situation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SITE -> depth, shelter, tidal range, foreshore, expansion land, siltation risk",
+            "SITUATION -> hinterland productivity, inland connectivity, position on shipping lanes",
+            "CORRECTABILITY -> site can be dredged and engineered; situation cannot",
+            "GROWTH RULE -> situation normally decides which ports grow",
+            "POLICY -> freight corridors and inland container depots are port instruments"
+          ],
+          "source_references": [
+            "Site versus situation",
+            "Site is engineerable, situation is not",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Port type worked comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NATURAL HARBOUR -> excellent site; stays small if the hinterland is poor",
+            "ESTUARINE PORT -> good route situation, but siltation and draught limit the site",
+            "ARTIFICIAL DEEP-WATER PORT -> engineered site chosen for hinterland reach and rail links",
+            "SATELLITE CONTAINER TERMINAL -> deep draught and back-up land beside a congested parent",
+            "TRANSHIPMENT HUB -> situation is the route itself, so it lives without a local hinterland"
+          ],
+          "source_references": [
+            "Site versus situation",
+            "Hinterland competition boundary",
+            "Containerisation and hub concentration",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Containerisation hierarchy effect",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "STANDARD CARGO UNIT -> handling time and cost collapse at every transfer",
+            "INTERMODAL TRANSFER BECOMES ROUTINE -> production fragments across countries",
+            "ADVANTAGE SHIFTS -> deep draught, crane productivity and inland rail connectivity",
+            "TRAFFIC CONCENTRATES -> fewer, larger hubs with feeder services to the rest",
+            "ANSWER USE -> a hierarchy argument that needs no throughput statistic"
+          ],
+          "source_references": [
+            "Containerisation and hub concentration",
+            "Hinterland competition boundary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Chokepoint vulnerability rail",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "NARROW PASSAGE -> world shipping is funnelled through a small cross-section",
+            "DISRUPTION -> voyages lengthen and rerouting begins immediately",
+            "COST TRANSMISSION -> freight and insurance rise far beyond the affected region",
+            "POLICY RESPONSE -> chokepoint security, alternative routes and canal capacity",
+            "READING -> the passage is valuable as route control, not as a water body"
+          ],
+          "source_references": [
+            "Chokepoint vulnerability",
+            "Transport as economic circulation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Transport and development two-way fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NEW LINK OPENS -> relative accessibility of every node changes, not only the two joined",
+            "IF junctions, local loading and complementary investment exist -> corridor growth follows",
+            "IF they are absent -> the tunnel effect carries benefit to the endpoints",
+            "IF local producers are weak -> backwash exposes them and speeds out-migration",
+            "VERDICT -> connectivity is necessary but not sufficient for regional development"
+          ],
+          "source_references": [
+            "Two-way transport-development relation",
+            "Tunnel and backwash caveats",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "India multimodal corridor ladder",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "BHARATMALA -> economic corridors, inter-corridors, border and port connectivity",
+            "DEDICATED FREIGHT CORRIDORS -> separate freight from passenger congestion on major axes",
+            "SAGARMALA -> port modernisation, port-led industrialisation and coastal connectivity",
+            "PM GATI SHAKTI -> network integration replacing mode-wise sectoral planning",
+            "TRADE MAP -> western container and petroleum gateway; eastern bulk and mineral coast",
+            "CLOSE DISTINCTION: Road/rail density differs from effective accessibility, port capacity from",
+            "  throughput, inland waterway declaration from operational traffic, trade balance from current",
+            "  account, ISRO from the Department of Space and NewSpace India Limited, and",
+            "  navigation/communication/earth-observation missions retain distinct functions."
+          ],
+          "source_references": [
+            "India multimodal corridor programmes",
+            "India coastal trade contrast",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Space as applied geography",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "EARTH OBSERVATION -> land use, crop condition, forests, water bodies, coasts, glaciers",
+            "METEOROLOGY -> cyclone tracking and monsoon monitoring feeding warning systems",
+            "NAVIGATION AND COMMUNICATION -> positioning, timing and remote-region connectivity",
+            "GIS INTEGRATION -> imagery plus terrain, infrastructure and socio-economic layers",
+            "OUTPUT -> site selection, corridor alignment, watershed planning, damage assessment",
+            "EVIDENCE LIMIT: Golden Quadrilateral, Dedicated Freight Corridors, Bharatmala, Sagarmala,",
+            "  major ports, National Waterway-1, Delhi–Mumbai corridor, Malacca/Hormuz/Suez and",
+            "  PSLV/GSLV/LVM3, INSAT/GSAT, IRS/EOS and NavIC form named map-institution anchors; project",
+            "  and mission claims require official date/status qualification."
+          ],
+          "source_references": [
+            "Space as observation instrument",
+            "GIS convergence rule",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Space institutions and the operational-orbit caution",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "ISRO -> national space architecture organised around application, not prestige",
+            "SRIHARIKOTA -> east-coast launch site with over-sea trajectory safety advantage",
+            "NSIL AND IN-SPACe -> commercialisation and non-governmental participation",
+            "NavIC -> indigenous navigation supporting transport timing and positioning",
+            "NVS-02 ON 29 JAN 2025 -> reached transfer orbit but not its intended NavIC slot"
+          ],
+          "source_references": [
+            "Space institutional ladder",
+            "Application-led space orientation",
+            "NVS-02 launch-versus-operations anchor",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\33_Transport-Trade-and-Indian-Space-Programme.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

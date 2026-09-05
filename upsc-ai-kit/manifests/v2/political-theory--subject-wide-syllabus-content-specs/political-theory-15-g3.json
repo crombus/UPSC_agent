@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-15",
+  "title": "Power, Authority and Legitimacy",
+  "generation": 3,
+  "generation_date": "2026-08-30",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "political-theory-15:learner-v2:g2",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Political-Theory\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\15_Power-Authority-and-Legitimacy.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\15_Power-Authority-and-Legitimacy.md",
+  "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "learning_contract": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "All 6 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 6 solved items lack explicit directive-and-demand decoding.",
+    "All 6 solved items lack an executable mark-scaled compression plan.",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\topic-15_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\topic-15_Solved-Practice-Workbook_2026-08-30.md"
+}

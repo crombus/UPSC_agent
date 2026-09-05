@@ -1,0 +1,1091 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-26",
+  "subject": "Environment-and-Ecology",
+  "title": "DISASTER MANAGEMENT FRAMEWORK AND SENDAI",
+  "short_route": "DISASTER-RISK EQUATION → HAZARD-TO-DISASTER THRESHOLD → RISK-REDUCTION LADDER → BUILD BACK BETTER LOOP → DOMESTIC ARCHITECTURE FIREWALL → TRAINING-RESPONSE SPLIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-26_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-26-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "620d9afb74088a6a190ad9bf48da5821afdf3ff45b1daa6ee5e93a151ecbe264",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DISASTER-RISK EQUATION",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DISASTER-RISK EQUATION",
+          "role": "caution"
+        },
+        {
+          "text": "POTENTIALLY DAMAGING PROCESS OR EVENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "PEOPLE ASSETS SYSTEMS IN HARM'S WAY",
+          "role": "comparison"
+        },
+        {
+          "text": "SUSCEPTIBILITY TO DAMAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESOURCES AND ABILITY TO MANAGE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "INTERACTION ACROSS A STATED PLACE AND TIME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HAZARD → potentially damaging process or event",
+        "EXPOSURE → people assets systems in harm's way",
+        "VULNERABILITY → susceptibility to damage",
+        "CAPACITY → resources and ability to manage risk",
+        "RISK → interaction across a stated place and time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HAZARD → potentially damaging process or event",
+            "EXPOSURE → people assets systems in harm's way"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VULNERABILITY → susceptibility to damage",
+            "CAPACITY → resources and ability to manage risk"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RISK → interaction across a stated place and time",
+            "HAZARD → potentially damaging process or event"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RISK → interaction across a stated place and time.",
+      "source_references": [
+        "Hazard boundary",
+        "Exposure boundary",
+        "Vulnerability boundary",
+        "Capacity boundary",
+        "Risk relation"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HAZARD-TO-DISASTER THRESHOLD",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HAZARD-TO-DISASTER THRESHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "HAZARD OCCURS",
+          "role": "outcome"
+        },
+        {
+          "text": "PHYSICAL OR HUMAN-INDUCED EVENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPOSED SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTACT WITH PEOPLE ASSETS OR ECOSYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "VULNERABILITY AND LOW CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSSES AMPLIFY",
+          "role": "comparison"
+        },
+        {
+          "text": "COPING ABILITY SEVERELY TESTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HAZARD OCCURS → physical or human-induced event",
+        "EXPOSED SYSTEM → contact with people assets or ecosystems",
+        "VULNERABILITY AND LOW CAPACITY → losses amplify",
+        "COPING ABILITY SEVERELY TESTED → serious disruption",
+        "DISASTER → not every hazard crosses this threshold"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HAZARD OCCURS → physical or human-induced event",
+            "EXPOSED SYSTEM → contact with people assets or ecosystems"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VULNERABILITY AND LOW CAPACITY → losses amplify",
+            "COPING ABILITY SEVERELY TESTED → serious disruption"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DISASTER → not every hazard crosses this threshold",
+            "HAZARD OCCURS → physical or human-induced event"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISASTER → not every hazard crosses this threshold.",
+      "source_references": [
+        "Disaster boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RISK-REDUCTION LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RISK-REDUCTION LADDER",
+          "role": "caution"
+        },
+        {
+          "text": "AVOID CREATION OR EXISTENCE OF RISK WHERE POSSIBLE",
+          "role": "caution"
+        },
+        {
+          "text": "REDUCE ADVERSE IMPACT OF REMAINING RISK",
+          "role": "caution"
+        },
+        {
+          "text": "READY PLANS WARNINGS SKILLS AND RESOURCES",
+          "role": "evidence"
+        },
+        {
+          "text": "IMMEDIATE LIFE-SAVING AND BASIC NEEDS",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORE AND IMPROVE WHILE REDUCING FUTURE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREVENTION → avoid creation or existence of risk where possible",
+        "MITIGATION → reduce adverse impact of remaining risk",
+        "PREPAREDNESS → ready plans warnings skills and resources",
+        "RESPONSE → immediate life-saving and basic needs",
+        "RECOVERY → restore and improve while reducing future risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PREVENTION → avoid creation or existence of risk where possible",
+            "MITIGATION → reduce adverse impact of remaining risk"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PREPAREDNESS → ready plans warnings skills and resources",
+            "RESPONSE → immediate life-saving and basic needs"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RECOVERY → restore and improve while reducing future risk",
+            "PREVENTION → avoid creation or existence of risk where possible"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECOVERY → restore and improve while reducing future risk.",
+      "source_references": [
+        "Prevention-mitigation distinction",
+        "Preparedness boundary",
+        "Response boundary",
+        "Recovery boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BUILD BACK BETTER LOOP",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUILD BACK BETTER LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "DAMAGE AND NEEDS ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTABLISH RECOVERY BASELINE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTORE ESSENTIAL FUNCTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "REBUILD ASSETS AND SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "RISK-INFORMED IMPROVEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "AVOID OLD VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PREVENTION MITIGATION AND PREPAREDNESS IMPROVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DAMAGE AND NEEDS ASSESSMENT → establish recovery baseline",
+        "REHABILITATION → restore essential functions",
+        "RECONSTRUCTION → rebuild assets and systems",
+        "RISK-INFORMED IMPROVEMENT → avoid old vulnerability",
+        "FEEDBACK → prevention mitigation and preparedness improve"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "DAMAGE AND NEEDS ASSESSMENT → establish recovery baseline",
+            "REHABILITATION → restore essential functions"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "RECONSTRUCTION → rebuild assets and systems",
+            "RISK-INFORMED IMPROVEMENT → avoid old vulnerability"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FEEDBACK → prevention mitigation and preparedness improve",
+            "DAMAGE AND NEEDS ASSESSMENT → establish recovery baseline"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DAMAGE AND NEEDS ASSESSMENT → establish recovery baseline.",
+      "source_references": [
+        "Build-Back-Better boundary",
+        "Cycle-continuum boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DOMESTIC ARCHITECTURE FIREWALL",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DOMESTIC ARCHITECTURE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DISASTER MANAGEMENT ACT",
+          "role": "institution"
+        },
+        {
+          "text": "DOMESTIC LEGAL BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL POLICY AND GUIDELINES",
+          "role": "evidence"
+        },
+        {
+          "text": "EXECUTIVE COORDINATION AND IMPLEMENTATION SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "SDMA AND DDMA",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE AND DISTRICT STATUTORY LEVELS",
+          "role": "institution"
+        },
+        {
+          "text": "ROLES COME FROM DOMESTIC LAW, NOT SENDAI TEXT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DISASTER MANAGEMENT ACT → domestic legal base",
+        "NDMA → national policy and guidelines",
+        "NEC → executive coordination and implementation support",
+        "SDMA AND DDMA → state and district statutory levels",
+        "RULE → roles come from domestic law, not Sendai text"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DISASTER MANAGEMENT ACT → domestic legal base",
+            "NDMA → national policy and guidelines"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEC → executive coordination and implementation support",
+            "SDMA AND DDMA → state and district statutory levels"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → roles come from domestic law, not Sendai text",
+            "DISASTER MANAGEMENT ACT → domestic legal base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → roles come from domestic law, not Sendai text.",
+      "source_references": [
+        "Domestic-law boundary",
+        "NDMA-NEC boundary",
+        "State-district boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TRAINING-RESPONSE SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRAINING-RESPONSE SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "TRAINING RESEARCH DOCUMENTATION CAPACITY DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIALISED DISASTER RESPONSE OPERATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY AND GUIDANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRICT PLANNING AND IMPLEMENTATION CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTION TYPE DETERMINES THE ANSWER",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NIDM → training research documentation capacity development",
+        "NDRF → specialised disaster response operations",
+        "NDMA → policy and guidance",
+        "DDMA → district planning and implementation context",
+        "RULE → institution type determines the answer"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NIDM → training research documentation capacity development",
+          "NDMA → policy and guidance",
+          "RULE → institution type determines the answer"
+        ],
+        [
+          "NDRF → specialised disaster response operations",
+          "DDMA → district planning and implementation context",
+          "NIDM → training research documentation capacity development"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NIDM → training research documentation capacity development",
+            "NDRF → specialised disaster response operations"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NDMA → policy and guidance",
+            "DDMA → district planning and implementation context"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → institution type determines the answer",
+            "NIDM → training research documentation capacity development"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DDMA → district planning and implementation context; RULE → institution type determines the answer.",
+      "source_references": [
+        "NIDM-NDRF boundary",
+        "State-district boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SENDAI IDENTITY CARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SENDAI IDENTITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "2015 TO 2030",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL VOLUNTARY NON-BINDING FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "PREVENT NEW AND REDUCE EXISTING DISASTER RISK",
+          "role": "caution"
+        },
+        {
+          "text": "PEOPLE LIVELIHOODS HEALTH ASSETS AND SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN STATUTE FUND OR RESPONSE FORCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PERIOD → 2015 to 2030",
+        "NATURE → global voluntary non-binding framework",
+        "PURPOSE → prevent new and reduce existing disaster risk",
+        "SCOPE → people livelihoods health assets and systems",
+        "NOT → Indian statute fund or response force"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "PERIOD → 2015 to 2030",
+          "PURPOSE → prevent new and reduce existing disaster risk",
+          "NOT → Indian statute fund or response force"
+        ],
+        [
+          "NATURE → global voluntary non-binding framework",
+          "SCOPE → people livelihoods health assets and systems",
+          "PERIOD → 2015 to 2030"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "PERIOD → 2015 to 2030",
+            "NATURE → global voluntary non-binding framework"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PURPOSE → prevent new and reduce existing disaster risk",
+            "SCOPE → people livelihoods health assets and systems"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NOT → Indian statute fund or response force",
+            "PERIOD → 2015 to 2030"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT → Indian statute fund or response force.",
+      "source_references": [
+        "Sendai identity"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FOUR PRIORITIES RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR PRIORITIES RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PRIORITY 1",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDERSTAND DISASTER RISK",
+          "role": "caution"
+        },
+        {
+          "text": "PRIORITY 2",
+          "role": "evidence"
+        },
+        {
+          "text": "STRENGTHEN RISK GOVERNANCE",
+          "role": "caution"
+        },
+        {
+          "text": "PRIORITY 3",
+          "role": "outcome"
+        },
+        {
+          "text": "INVEST IN RESILIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIORITY 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIORITY 1 → understand disaster risk",
+        "PRIORITY 2 → strengthen risk governance",
+        "PRIORITY 3 → invest in resilience",
+        "PRIORITY 4 → preparedness response and Build Back Better",
+        "RULE → fields of action, not the seven global targets"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "PRIORITY 1 → understand disaster risk",
+            "PRIORITY 2 → strengthen risk governance"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "PRIORITY 3 → invest in resilience",
+            "PRIORITY 4 → preparedness response and Build Back Better"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → fields of action, not the seven global targets",
+            "PRIORITY 1 → understand disaster risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → fields of action, not the seven global targets.",
+      "source_references": [
+        "Priorities-targets boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SEVEN-TARGET LOGIC",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SEVEN-TARGET LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "TARGETS A TO D",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIALLY REDUCE SPECIFIED LOSSES",
+          "role": "comparison"
+        },
+        {
+          "text": "MORTALITY AND AFFECTED PEOPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN IMPACT DIRECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ECONOMIC AND CRITICAL-SERVICE LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "SYSTEM IMPACT DIRECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "TARGETS E TO G",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TARGETS A TO D → substantially reduce specified losses",
+        "MORTALITY AND AFFECTED PEOPLE → human impact directions",
+        "ECONOMIC AND CRITICAL-SERVICE LOSS → system impact directions",
+        "TARGETS E TO G → substantially increase strategies cooperation warnings",
+        "RULE → indicator values require official monitoring metadata"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "TARGETS A TO D → substantially reduce specified losses",
+          "ECONOMIC AND CRITICAL-SERVICE LOSS → system impact directions",
+          "RULE → indicator values require official monitoring metadata"
+        ],
+        [
+          "MORTALITY AND AFFECTED PEOPLE → human impact directions",
+          "TARGETS E TO G → substantially increase strategies cooperation warnings",
+          "TARGETS A TO D → substantially reduce specified losses"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "TARGETS A TO D → substantially reduce specified losses",
+            "MORTALITY AND AFFECTED PEOPLE → human impact directions"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ECONOMIC AND CRITICAL-SERVICE LOSS → system impact directions",
+            "TARGETS E TO G → substantially increase strategies cooperation warnings"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → indicator values require official monitoring metadata",
+            "TARGETS A TO D → substantially reduce specified losses"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → indicator values require official monitoring metadata.",
+      "source_references": [
+        "Priorities-targets boundary",
+        "Global-domestic boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GLOBAL-DOMESTIC BRIDGE",
+      "structural_type": "layered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GLOBAL-DOMESTIC BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "GLOBAL PRINCIPLES PRIORITIES AND TARGETS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITIES POWERS DUTIES AND FUNDS",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL AND STATE PLANS",
+          "role": "institution"
+        },
+        {
+          "text": "DOMESTIC IMPLEMENTATION CHOICES",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTOR AGENCIES",
+          "role": "comparison"
+        },
+        {
+          "text": "WARNINGS INFRASTRUCTURE HEALTH AND RELIEF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SENDAI → global principles priorities and targets",
+        "INDIAN LAW → authorities powers duties and funds",
+        "NATIONAL AND STATE PLANS → domestic implementation choices",
+        "SECTOR AGENCIES → warnings infrastructure health and relief",
+        "ALIGNMENT → policy bridge, not legal identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SENDAI → global principles priorities and targets",
+            "INDIAN LAW → authorities powers duties and funds"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NATIONAL AND STATE PLANS → domestic implementation choices",
+            "SECTOR AGENCIES → warnings infrastructure health and relief"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ALIGNMENT → policy bridge, not legal identity",
+            "SENDAI → global principles priorities and targets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECTOR AGENCIES → warnings infrastructure health and relief.",
+      "source_references": [
+        "Domestic-law boundary",
+        "Global-domestic boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE STATUS SCREEN",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE STATUS SCREEN",
+          "role": "evidence"
+        },
+        {
+          "text": "LOSS FIGURE",
+          "role": "outcome"
+        },
+        {
+          "text": "EVENT DATE DEFINITION AND REPORTING SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TARGET PROGRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDICATOR BASELINE AND PERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY WARNING",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARD GEOGRAPHY REACH AND ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "LOSS FIGURE → event date definition and reporting source",
+        "TARGET PROGRESS → indicator baseline and period",
+        "EARLY WARNING → hazard geography reach and access",
+        "INSTITUTIONAL POWER → current statutory provision",
+        "PLAN STATUS → dated official edition or amendment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LOSS FIGURE → event date definition and reporting source",
+            "TARGET PROGRESS → indicator baseline and period"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EARLY WARNING → hazard geography reach and access",
+            "INSTITUTIONAL POWER → current statutory provision"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PLAN STATUS → dated official edition or amendment",
+            "LOSS FIGURE → event date definition and reporting source"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLAN STATUS → dated official edition or amendment.",
+      "source_references": [
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DISASTER ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DISASTER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "HAZARD EXPOSURE VULNERABILITY CAPACITY RISK AND DISASTER",
+          "role": "caution"
+        },
+        {
+          "text": "PREVENTION MITIGATION PREPAREDNESS RESPONSE RECOVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "NDMA NEC NIDM NDRF SDMA AND DDMA BY OWNED",
+          "role": "evidence"
+        },
+        {
+          "text": "FOUR SENDAI PRIORITIES FROM SEVEN GLOBAL TARGETS",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC LAW PLAN LOSS INDICATOR AND WARNING EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → hazard exposure vulnerability capacity risk and disaster",
+        "SEQUENCE → prevention mitigation preparedness response recovery",
+        "MAP → NDMA NEC NIDM NDRF SDMA and DDMA by owned role",
+        "SEPARATE → four Sendai priorities from seven global targets",
+        "VERIFY → domestic law plan loss indicator and warning evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → hazard exposure vulnerability capacity risk and disaster",
+            "SEQUENCE → prevention mitigation preparedness response recovery"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP → NDMA NEC NIDM NDRF SDMA and DDMA by owned role",
+            "SEPARATE → four Sendai priorities from seven global targets"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → domestic law plan loss indicator and warning evidence",
+            "DEFINE → hazard exposure vulnerability capacity risk and disaster"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → domestic law plan loss indicator and warning evidence.",
+      "source_references": [
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE SENDAI FRAMEWORK AND INDIA'S EVOLVING DISASTER POLICY INCREASINGLY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL SIGNIFICANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS FRAMING DIRECTLY INTEGRATES DISASTER-MANAGEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S CYCLONE EARLY-WARNING AND EVACUATION CAPABILITY (LED BY IMD",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUING GAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY-WARNING AND PREPAREDNESS CAPABILITY IS MARKEDLY STRONGER FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARATIVE CASUALTY-REDUCTION CLAIMS ACROSS DIFFERENT DISASTER EVENTS (E.G., CITING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The Sendai Framework and India's evolving disaster policy increasingly recognise",
+            "CAUTION: Analytical significance: this framing directly integrates disaster-management",
+            "India's cyclone early-warning and evacuation capability (led by IMD forecasting combined",
+            "CAUTION: Continuing gaps: early-warning and preparedness capability is markedly stronger for"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Comparative casualty-reduction claims across different disaster events (e.g., citing",
+            "CAUTION: District-level disaster-management capacity assessments (staffing, resourcing,",
+            "CAUTION: Quantifying the specific risk-reduction value of ecosystem-based measures (e.g., exact",
+            "The Sendai Framework represents a paradigm shift from \"disaster management\" (managing"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "District Disaster Management Authorities (DDMAs), chaired by the District Magistrate/",
+            "Ecosystem-based disaster-risk reduction (mangroves, wetlands, forests as risk-reduction",
+            "India's cyclone early-warning/evacuation capability has matured substantially further",
+            "NOT: The Sendai Framework primarily emphasises improving emergency response capability as its"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

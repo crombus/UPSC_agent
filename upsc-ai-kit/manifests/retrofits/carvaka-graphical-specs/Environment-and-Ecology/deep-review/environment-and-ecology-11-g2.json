@@ -1,0 +1,1174 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-11",
+  "subject": "Environment-and-Ecology",
+  "title": "FOREST TYPES AND FOREST RIGHTS ACT",
+  "short_route": "FOUR-VOCABULARY FIREWALL → MOISTURE-GRADIENT MAP → MOUNTAIN-ZONATION RAIL → LEGAL-CATEGORY MATRIX → COVER-RECORD DIVERGENCE → FRA PURPOSE GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-11-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "3cbb3c2d91937ed7d763fe48e75a882eaebde3d0780ffb7c41b29d6d5dbf8b0c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR-VOCABULARY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-VOCABULARY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGY, CLIMATE AND VEGETATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL CATEGORY",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVED, PROTECTED OR VILLAGE FOREST",
+          "role": "primary"
+        },
+        {
+          "text": "RECORDED FOREST AREA",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNMENT FOREST RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "FOREST OR TREE COVER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOREST TYPE → ecology, climate and vegetation",
+        "LEGAL CATEGORY → Reserved, Protected or Village Forest",
+        "RECORDED FOREST AREA → government forest record",
+        "FOREST OR TREE COVER → canopy measurement",
+        "RULE → never use one vocabulary as automatic proof of another"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOREST TYPE → ecology, climate and vegetation",
+          "RECORDED FOREST AREA → government forest record",
+          "RULE → never use one vocabulary as automatic proof of another"
+        ],
+        [
+          "LEGAL CATEGORY → Reserved, Protected or Village Forest",
+          "FOREST OR TREE COVER → canopy measurement",
+          "MUST REMEMBER: Forest analysis must separate ecological forest type, canopy-based forest..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOREST TYPE → ecology, climate and vegetation",
+            "LEGAL CATEGORY → Reserved, Protected or Village Forest"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECORDED FOREST AREA → government forest record",
+            "FOREST OR TREE COVER → canopy measurement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never use one vocabulary as automatic proof of another",
+            "MUST REMEMBER: Forest analysis must separate ecological forest type, canopy-based forest..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never use one vocabulary as automatic proof of another.",
+      "source_references": [
+        "Four forest vocabularies",
+        "Legal forest categories",
+        "Forest-cover measurement",
+        "Recorded forest area",
+        "Tree-cover boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MOISTURE-GRADIENT MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MOISTURE-GRADIENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "VERY WET",
+          "role": "outcome"
+        },
+        {
+          "text": "TROPICAL WET EVERGREEN",
+          "role": "comparison"
+        },
+        {
+          "text": "SEASONAL MOISTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "MOIST DECIDUOUS",
+          "role": "primary"
+        },
+        {
+          "text": "DRIER SEASONAL CLIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "DRY DECIDUOUS",
+          "role": "comparison"
+        },
+        {
+          "text": "THORN AND DROUGHT-ADAPTED VEGETATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERY WET → tropical wet evergreen",
+        "TRANSITION → semi-evergreen",
+        "SEASONAL MOISTURE → moist deciduous",
+        "DRIER SEASONAL CLIMATE → dry deciduous",
+        "ARIDITY → thorn and drought-adapted vegetation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VERY WET → tropical wet evergreen",
+            "TRANSITION → semi-evergreen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEASONAL MOISTURE → moist deciduous",
+            "DRIER SEASONAL CLIMATE → dry deciduous"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARIDITY → thorn and drought-adapted vegetation",
+            "VERY WET → tropical wet evergreen"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRIER SEASONAL CLIMATE → dry deciduous; ARIDITY → thorn and drought-adapted vegetation.",
+      "source_references": [
+        "Ecological type drivers",
+        "Wet to dry sequence",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MOUNTAIN-ZONATION RAIL",
+      "structural_type": "route-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MOUNTAIN-ZONATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER SLOPES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE AND ASPECT CONDITION FOREST",
+          "role": "comparison"
+        },
+        {
+          "text": "MONTANE BELTS",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGING TEMPERATURE AND MOISTURE",
+          "role": "primary"
+        },
+        {
+          "text": "UPPER TREE-LIMIT TRANSITION",
+          "role": "caution"
+        },
+        {
+          "text": "VEGETATION ABOVE FOREST LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "LOCAL EXPOSURE AND LAND USE MODIFY THE IDEAL SEQUENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOWER SLOPES → climate and aspect condition forest",
+        "MONTANE BELTS → changing temperature and moisture",
+        "SUB-ALPINE → upper tree-limit transition",
+        "ALPINE → vegetation above forest limit",
+        "CAUTION → local exposure and land use modify the ideal sequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOWER SLOPES → climate and aspect condition forest",
+            "MONTANE BELTS → changing temperature and moisture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUB-ALPINE → upper tree-limit transition",
+            "ALPINE → vegetation above forest limit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → local exposure and land use modify the ideal sequence",
+            "LOWER SLOPES → climate and aspect condition forest"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → local exposure and land use modify the ideal sequence.",
+      "source_references": [
+        "Ecological type drivers",
+        "Montane zonation",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LEGAL-CATEGORY MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGAL-CATEGORY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVED FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTRICTIVE PERMISSION PRESUMPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECTED FOREST",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENT PERMISSION AND PROHIBITION STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY MANAGEMENT CATEGORY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNCLASSED FOREST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESERVED FOREST → restrictive permission presumption",
+        "PROTECTED FOREST → different permission and prohibition structure",
+        "VILLAGE FOREST → statutory management category",
+        "UNCLASSED FOREST → verify record and applicable legal basis",
+        "NONE → an ecological type or canopy-density class"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RESERVED FOREST → restrictive permission presumption",
+          "VILLAGE FOREST → statutory management category",
+          "NONE → an ecological type or canopy-density class"
+        ],
+        [
+          "PROTECTED FOREST → different permission and prohibition structure",
+          "UNCLASSED FOREST → verify record and applicable legal basis",
+          "RESERVED FOREST → restrictive permission presumption"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESERVED FOREST → restrictive permission presumption",
+            "PROTECTED FOREST → different permission and prohibition structure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VILLAGE FOREST → statutory management category",
+            "UNCLASSED FOREST → verify record and applicable legal basis"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NONE → an ecological type or canopy-density class",
+            "RESERVED FOREST → restrictive permission presumption"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NONE → an ecological type or canopy-density class.",
+      "source_references": [
+        "Legal forest categories",
+        "Reserved-Protected reversal",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COVER-RECORD DIVERGENCE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COVER-RECORD DIVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "RECORDED FOREST WITH LOW CANOPY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL RECORD CAN REMAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "PLANTATION OR ORCHARD WITH CANOPY",
+          "role": "evidence"
+        },
+        {
+          "text": "MAY ENTER COVER MEASUREMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOTE-SENSING CRITERION",
+          "role": "comparison"
+        },
+        {
+          "text": "TREE COVER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RECORDED FOREST WITH LOW CANOPY → legal record can remain",
+        "PLANTATION OR ORCHARD WITH CANOPY → may enter cover measurement",
+        "FOREST COVER → remote-sensing criterion",
+        "TREE COVER → separate measurement category",
+        "RESULT → area figures answer different questions"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RECORDED FOREST WITH LOW CANOPY → legal record can remain",
+          "FOREST COVER → remote-sensing criterion",
+          "RESULT → area figures answer different questions"
+        ],
+        [
+          "PLANTATION OR ORCHARD WITH CANOPY → may enter cover measurement",
+          "TREE COVER → separate measurement category",
+          "RECORDED FOREST WITH LOW CANOPY → legal record can remain"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RECORDED FOREST WITH LOW CANOPY → legal record can remain",
+            "PLANTATION OR ORCHARD WITH CANOPY → may enter cover measurement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOREST COVER → remote-sensing criterion",
+            "TREE COVER → separate measurement category"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → area figures answer different questions",
+            "RECORDED FOREST WITH LOW CANOPY → legal record can remain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLANTATION OR ORCHARD WITH CANOPY → may enter cover measurement.",
+      "source_references": [
+        "Forest-cover measurement",
+        "Recorded forest area",
+        "Tree-cover boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FRA PURPOSE GATE",
+      "structural_type": "layered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FRA PURPOSE GATE",
+          "role": "primary"
+        },
+        {
+          "text": "PAST EXCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "HISTORICAL INJUSTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "ELIGIBLE FOREST DWELLER",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY CLAIMANT CATEGORY",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHT CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE AND PROCEDURE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFINED RIGHT AND TITLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PAST EXCLUSION → historical injustice",
+        "ELIGIBLE FOREST DWELLER → statutory claimant category",
+        "RIGHT CLAIM → evidence and procedure",
+        "RECOGNITION → defined right and title",
+        "NO BLANKET TRANSFER → State governance framework continues"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PAST EXCLUSION → historical injustice",
+            "ELIGIBLE FOREST DWELLER → statutory claimant category"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RIGHT CLAIM → evidence and procedure",
+            "RECOGNITION → defined right and title"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO BLANKET TRANSFER → State governance framework continues",
+            "PAST EXCLUSION → historical injustice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO BLANKET TRANSFER → State governance framework continues.",
+      "source_references": [
+        "FRA purpose",
+        "Recognition procedure",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ELIGIBILITY DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ELIGIBILITY DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST-DWELLING SCHEDULED TRIBE OR OTFD",
+          "role": "outcome"
+        },
+        {
+          "text": "BEFORE 13 DECEMBER 2005",
+          "role": "comparison"
+        },
+        {
+          "text": "OTFD ONLY",
+          "role": "evidence"
+        },
+        {
+          "text": "THREE GENERATIONS OR 75 YEARS PLUS DEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "APPLY STATUTORY AND RULES-BASED FORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "ELIGIBILITY CLAIM STILL REQUIRES VERIFICATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLAIMANT → forest-dwelling Scheduled Tribe or OTFD",
+        "OCCUPATION → before 13 December 2005",
+        "OTFD ONLY → three generations or 75 years plus dependence",
+        "EVIDENCE → apply statutory and Rules-based forms",
+        "PROCEDURE → eligibility claim still requires verification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLAIMANT → forest-dwelling Scheduled Tribe or OTFD",
+            "OCCUPATION → before 13 December 2005"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OTFD ONLY → three generations or 75 years plus dependence",
+            "EVIDENCE → apply statutory and Rules-based forms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROCEDURE → eligibility claim still requires verification",
+            "CLAIMANT → forest-dwelling Scheduled Tribe or OTFD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OTFD ONLY → three generations or 75 years plus dependence.",
+      "source_references": [
+        "Eligibility and cutoff",
+        "Recognition procedure",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RIGHTS MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR HABITATION OR SELF-CULTIVATION UNDER ACTUAL OCCUPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNITY RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CUSTOMARY ACCESS, GRAZING, WATER AND MFP",
+          "role": "evidence"
+        },
+        {
+          "text": "CFR RIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECT, REGENERATE, CONSERVE AND MANAGE RESOURCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITAT RIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "PVTG OR PRE-AGRICULTURAL COMMUNITY ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IFR → prior habitation or self-cultivation under actual occupation",
+        "COMMUNITY RIGHTS → customary access, grazing, water and MFP",
+        "CFR RIGHT → protect, regenerate, conserve and manage resource",
+        "HABITAT RIGHT → PVTG or pre-agricultural community route",
+        "RULE → right categories have different holders and content"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IFR → prior habitation or self-cultivation under actual occupation",
+          "CFR RIGHT → protect, regenerate, conserve and manage resource",
+          "RULE → right categories have different holders and content"
+        ],
+        [
+          "COMMUNITY RIGHTS → customary access, grazing, water and MFP",
+          "HABITAT RIGHT → PVTG or pre-agricultural community route",
+          "IFR → prior habitation or self-cultivation under actual occupation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IFR → prior habitation or self-cultivation under actual occupation",
+            "COMMUNITY RIGHTS → customary access, grazing, water and MFP"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CFR RIGHT → protect, regenerate, conserve and manage resource",
+            "HABITAT RIGHT → PVTG or pre-agricultural community route"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → right categories have different holders and content",
+            "IFR → prior habitation or self-cultivation under actual occupation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → right categories have different holders and content.",
+      "source_references": [
+        "Individual forest right",
+        "Community rights",
+        "Community forest resource right",
+        "Habitat and special rights",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RECOGNITION PROCEDURE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RECOGNITION PROCEDURE",
+          "role": "primary"
+        },
+        {
+          "text": "GRAM SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "INITIATE, RECEIVE AND VERIFY CLAIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "SCRUTINISE AND HEAR THE INTERMEDIATE CLAIM STAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "FINAL DISTRICT-LEVEL DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "TITLE OR REASONED REJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTCOME AFTER PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ASSUMPTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GRAM SABHA → initiate, receive and verify claims",
+        "SDLC → scrutinise and hear the intermediate claim stage",
+        "DLC → final district-level decision",
+        "TITLE OR REASONED REJECTION → outcome after procedure",
+        "NO ASSUMPTION → filing or recommendation is not conferment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRAM SABHA → initiate, receive and verify claims",
+            "SDLC → scrutinise and hear the intermediate claim stage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DLC → final district-level decision",
+            "TITLE OR REASONED REJECTION → outcome after procedure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO ASSUMPTION → filing or recommendation is not conferment",
+            "GRAM SABHA → initiate, receive and verify claims"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO ASSUMPTION → filing or recommendation is not conferment.",
+      "source_references": [
+        "Recognition procedure",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SAFEGUARD AND FACILITY GATE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SAFEGUARD AND FACILITY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 4(5)",
+          "role": "outcome"
+        },
+        {
+          "text": "NO EVICTION BEFORE RECOGNITION PROCESS COMPLETES",
+          "role": "caution"
+        },
+        {
+          "text": "SAFEGUARD DOES NOT AUTOMATICALLY APPROVE EVERY CLAIM",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 3(2)",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFIED COMMUNITY FACILITIES ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "RETAIN AREA, TREE AND GRAM SABHA LIMITS FROM THE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO EXTENSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECTION 4(5) → no eviction before recognition process completes",
+        "LIMIT → safeguard does not automatically approve every claim",
+        "SECTION 3(2) → specified community facilities only",
+        "CONDITIONS → retain area, tree and Gram Sabha limits from the owner",
+        "NO EXTENSION → not a general non-forest-use exemption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECTION 4(5) → no eviction before recognition process completes",
+            "LIMIT → safeguard does not automatically approve every claim"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECTION 3(2) → specified community facilities only",
+            "CONDITIONS → retain area, tree and Gram Sabha limits from the owner"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO EXTENSION → not a general non-forest-use exemption",
+            "CLOSE DISTINCTION: Forest cover is not recorded forest area, legal forest is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Forest cover is not recorded forest area, legal forest is not.",
+      "source_references": [
+        "Section 4(5) safeguard",
+        "Section 3(2) facilities",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RIGHTS-CONSERVATION BRIDGE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RIGHTS-CONSERVATION BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "RECOGNISED TENURE",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER STEWARDSHIP INCENTIVE MAY FOLLOW",
+          "role": "comparison"
+        },
+        {
+          "text": "CFR INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "COMMUNITY MANAGEMENT AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGICAL, TECHNICAL AND LIVELIHOOD CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FOREST CONDITION AND DISTRIBUTIONAL OUTCOMES",
+          "role": "comparison"
+        },
+        {
+          "text": "TITLE IS AN INPUT, NOT AUTOMATIC ECOLOGICAL SUCCESS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RECOGNISED TENURE → stronger stewardship incentive may follow",
+        "CFR INSTITUTION → community management authority",
+        "SUPPORT → ecological, technical and livelihood capacity",
+        "MONITOR → forest condition and distributional outcomes",
+        "QUALIFY → title is an input, not automatic ecological success"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RECOGNISED TENURE → stronger stewardship incentive may follow",
+            "CFR INSTITUTION → community management authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUPPORT → ecological, technical and livelihood capacity",
+            "MONITOR → forest condition and distributional outcomes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → title is an input, not automatic ecological success",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State dataset or legal definition, canopy..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State dataset or legal definition, canopy...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State dataset or legal definition, canopy.",
+      "source_references": [
+        "Community forest resource right",
+        "Rights and conservation",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "TYPE, LEGAL CATEGORY, RECORD, COVER OR RIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIMANT, RIGHT HOLDER AND PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "GRAM SABHA, SDLC AND DLC",
+          "role": "evidence"
+        },
+        {
+          "text": "BAMBOO, HABITAT, FOREST TYPE, MIYAWAKI OR RESOURCE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "DATED DATA AND OBJECTIVE KEYS REMAIN SOURCE-BOUNDED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → type, legal category, record, cover or right",
+        "DEFINE → claimant, right holder and procedure",
+        "TRACE → Gram Sabha, SDLC and DLC",
+        "APPLY → bamboo, habitat, forest type, Miyawaki or resource demand",
+        "QUALIFY → dated data and objective keys remain source-bounded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → type, legal category, record, cover or right",
+            "DEFINE → claimant, right holder and procedure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE → Gram Sabha, SDLC and DLC",
+            "APPLY → bamboo, habitat, forest type, Miyawaki or resource demand"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → dated data and objective keys remain source-bounded",
+            "CLASSIFY → type, legal category, record, cover or right"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → dated data and objective keys remain source-bounded.",
+      "source_references": [
+        "Audited PYQ boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-11\\g2\\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURAL TENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE WILDLIFE PROTECTION ACT'S CORE/CRITICAL-HABITAT RELOCATION",
+          "role": "institution"
+        },
+        {
+          "text": "DOCUMENTED FRICTION",
+          "role": "evidence"
+        },
+        {
+          "text": "IN VARIOUS PROTECTED-AREA LANDSCAPES, RELOCATION PROCESSES",
+          "role": "primary"
+        },
+        {
+          "text": "BALANCED FRAMING FOR MAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESENT THIS NOT AS ONE LAW BEING \"CORRECT\" AND",
+          "role": "caution"
+        },
+        {
+          "text": "THE CHAMPION-SETH-STYLE CLASSIFICATION (USED AS THE STANDARD REFERENCE FRAMEWORK)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Structural tension: the Wildlife Protection Act's core/critical-habitat relocation",
+            "CAUTION: Documented friction: in various protected-area landscapes, relocation processes",
+            "CAUTION: Balanced framing for Mains: present this not as one law being \"correct\" and the",
+            "CAUTION: The Champion-Seth-style classification (used as the standard reference framework) is"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: FSI's canopy-density-based forest-cover measurement (very dense, moderately dense, open",
+            "CAUTION: FRA claims-processing statistics (total claims filed, titles granted, rejection rates)",
+            "CAUTION: CFR-area statistics (total community forest resource area formally vested) are",
+            "CAUTION: Assessing whether CFR rights have measurably improved forest-conservation outcomes"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The FRA's claims process runs through Gram Sabha, Sub-Divisional Level Committee and",
+            "Community Forest Resource (CFR) rights are distinct from Community Rights and Individual",
+            "High claim-rejection rates in several states have been linked primarily to demanding",
+            "FSI's canopy-density-based forest-cover categories (very dense/moderately dense/open"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

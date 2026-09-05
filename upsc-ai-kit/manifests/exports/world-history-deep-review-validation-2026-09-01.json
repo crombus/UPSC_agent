@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-01T11:30:49.3552+05:30",
+  "subject": "World History",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 21,
+  "topic_validations_passed": 21,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_world_history_deep_review (cwd=tools)",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_q_heading_mcqs_are_rotated (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_contested_topics_are_qualified (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_long_output_paths_remain_windows_safe (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_manifest_order_contains_all_twenty_one_topics (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_original_mains_gets_full_exam_contract (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_porcelain_parser_preserves_unicode_spaces_and_renames (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_review_controls_cover_exact_chronology (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_review_lines_respect_ascii_width (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_source_contract_requires_non_eurocentric_discipline (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.038s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_01_02_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_america250_is_the_only_direct_live_linkage_in_this_batch (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic01_keeps_ideas_crisis_and_mobilisation_together (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic01_thinker_dates_and_doctrines_are_preserved (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic02_chronology_and_documents_are_not_conflated (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic02_rights_and_exclusions_are_balanced (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic02_verified_2019_demand_is_solved (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.124s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_03_04_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic03_phase_chronology_is_precise (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic03_terror_napoleon_and_exclusions_are_balanced (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic03_verified_2019_and_2025_demands_are_solved (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic04_invention_sequence_and_social_response (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic04_verified_railway_and_handicraft_demands_are_solved (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topics03_04_keep_bounded_no_live_item_language (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.112s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_05_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_belgium_1848_and_dual_verdict_are_bounded (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_concert_holy_alliance_and_congresses_are_distinct (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_topic05_keeps_bounded_no_live_item_language (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_vienna_principles_and_map_changes_are_preserved (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.059s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_06_07_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_no_unverified_pyq_is_claimed (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_scramble_precision_and_african_agency (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_topic06_remains_bounded_without_live_source (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_topic07_uses_only_the_verified_au_linkage (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_unification_chronology_and_comparison (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.101s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_08_09_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_latin_america_five_paths_and_social_verdict (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_topic08_uses_only_the_verified_panama_linkage (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_topic09_exact_pyq_and_balance_qualification (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_topic09_remains_bounded_without_live_source (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.110s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_10_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_course_total_war_and_treaty_cluster (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_current_linkage_remains_bounded (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_topic09_pyq_not_misowned (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.065s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_11_12_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_fascism_comparison_and_power_transfer_are_precise (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_interwar_chronology_and_collective_security_verdict (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_topic11_uses_only_verified_locarno_linkage (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_topic12_uses_bounded_un_remembrance_link (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_topic12_verified_2021_demand_is_transparent (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.323s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_13_14_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_no_unverified_pyqs_are_claimed (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_revolution_chronology_and_stalinist_cost_are_bounded (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_second_world_war_is_global_cumulative_and_source_bounded (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_topic13_remains_bounded_without_live_source (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_topic14_uses_only_bounded_nuremberg_linkage (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.301s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_15_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_cold_war_chronology_and_global_agency_are_precise (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_middle_east_and_detente_are_qualified (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_no_unverified_pyq_is_claimed (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_only_verified_diplomacy_museum_links_are_used (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.167s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_16_17_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_china_chronology_reform_and_bloc_diversity_are_precise (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_topic16_uses_only_verified_un80_sources (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_topic17_remains_bounded_without_live_source (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_topics16_17_have_no_claimed_pyq (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_un_structure_and_case_categories_are_precise (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.299s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_18_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_both_legacy_pyq_demands_are_transparent_and_solved (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_decolonisation_routes_and_postcolonial_mechanisms_are_specific (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_topic18_uses_only_verified_c24_sources (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.177s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_19_20_sequential (cwd=tools)",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_spec_is_registered_for_production_rendering (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_latin_america_cases_and_mechanisms_are_specific (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_legacy_2013_depression_demand_is_neutral_and_solved (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_topic19_has_no_claimed_pyq (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_topic19_uses_only_verified_argentina_source (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_topic20_uses_only_verified_un_economy_and_population_sources (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_world_economy_population_and_depression_logic_is_precise (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.316s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_21_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_spec_is_registered_for_production_rendering (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_collapse_chronology_and_causal_boundaries_are_precise (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_eu_and_new_order_distinctions_are_precise (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_topic21_has_no_claimed_pyq (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_topic21_uses_only_verified_state_department_sources (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.158s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Ran 13 tests in 1.655s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 22.512s\n\nOK"
+    }
+  ],
+  "test_count": 154,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 21,
+    "learning_and_workbook_pdfs_checked": 42,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "full_library_validation": {
+    "topic_count": 264,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+    "status": "passed"
+  },
+  "post_shared_checks": [
+    {
+      "command": "python tools\\sync_deep_review_tracker.py",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "Synced 259 topics; added=0 reset=0."
+    }
+  ]
+}

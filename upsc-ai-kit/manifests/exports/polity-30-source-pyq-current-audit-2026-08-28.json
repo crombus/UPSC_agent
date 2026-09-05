@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-30",
+  "control_date": "2026-08-28",
+  "approval": false,
+  "constitutional_sources": [
+    "101st Constitutional Amendment Act, 2016",
+    "Articles 246A, 269A, 279A, 366(12A) and related Seventh Schedule entries"
+  ],
+  "official_sources": [
+    "GST Council Procedure and Conduct of Business Regulations",
+    "CGST Act, IGST Act and GST Compensation to States Act, 2017",
+    "56th GST Council meeting release and FAQ dated 3 September 2025",
+    "GST Council newsletter archive through April 2026"
+  ],
+  "judicial_sources": [
+    "Union of India v. Mohit Minerals, judgment dated 19 May 2022"
+  ],
+  "verified_controls": [
+    "quorum one-half",
+    "Union vote one-third; States together two-thirds",
+    "decision at least three-fourths weighted votes present and voting",
+    "recommendations persuasive for legislatures",
+    "delegated action remains statute-bound",
+    "five-year compensation entitlement ended June 2022",
+    "no complete publicly verified Article 279A(11) mechanism asserted operational",
+    "Council rate release is not self-executing law"
+  ],
+  "pyqs": [
+    {
+      "year": 2018,
+      "paper": "Prelims",
+      "q": 97,
+      "ownership": "adjacent historical GST mechanics"
+    },
+    {
+      "year": 2019,
+      "paper": "GS-III",
+      "q": 1,
+      "marks": 10,
+      "words": 150,
+      "ownership": "adjacent economy"
+    },
+    {
+      "year": 2020,
+      "paper": "GS-III",
+      "q": 12,
+      "marks": 15,
+      "words": 250,
+      "ownership": "adjacent economy"
+    },
+    {
+      "year": 2023,
+      "paper": "GS-II",
+      "q": 15,
+      "marks": 15,
+      "words": 250,
+      "ownership": "direct"
+    },
+    {
+      "year": 2025,
+      "paper": "GS-II",
+      "q": 14,
+      "marks": 15,
+      "words": 250,
+      "ownership": "adjacent fiscal federalism"
+    }
+  ]
+}

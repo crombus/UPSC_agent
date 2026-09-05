@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-03",
+      "display_title": "Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mamluk century chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1206-10 -> Aibak; 1210-11 -> Aram Shah rupture; 1211-36 -> Iltutmish",
+            "1236 -> Ruknuddin; 1236-40 -> Razia; 1240-42 -> Bahram Shah",
+            "1242-46 -> Masud; 1246-66 -> Nasiruddin Mahmud with Balban rising",
+            "1266-87 -> Balban; 1285 -> Prince Muhammad killed on Mongol frontier",
+            "1287-90 -> Qaiqabad and factional crisis; 1290 -> Khalji transition",
+            "RULE: foundation was repeated survival, consolidation and succession repair.",
+            "MUST REMEMBER: Core reign order is Aibak (1206-10), Iltutmish (1211-36), Raziya (1236-40) and",
+            "  Balban (1266-87)."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Military slavery and household power",
+          "structural_type": "process",
+          "ascii_lines": [
+            "PURCHASE / CAPTURE -> household training -> patronage and command",
+            "                    -> manumission -> office, iqta and marriage ties",
+            "                    -> governor, kingmaker or sovereign",
+            "MAMLUK = trained military-household status, not plantation labour",
+            "LIMIT: the 1206-1290 rulers were not one simple hereditary bloodline."
+          ],
+          "source_references": [
+            "Mamluk institution",
+            "Manumission",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and source discipline",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "HASAN NIZAMI -> Aibak conquest world | panegyric and selectivity",
+            "MINHAJ -> Iltutmish, Raziya, offices | court-clerical and gendered lens",
+            "BARANI -> Balban and nobility | later, aristocratic and normative",
+            "COINS / INSCRIPTIONS -> titles, mints, patrons | claims are not border maps",
+            "MONUMENTS -> patronage and technique | repair phases and reuse need caution."
+          ],
+          "source_references": [
+            "Sources",
+            "Historical method",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Conquest to consolidation",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "GHURID VICTORIES -> forts, garrisons and delegated commanders",
+            "AIBAK -> continuity after 1206, Lahore-Delhi axis, limited independent reign",
+            "ILTUTMISH -> defeats rivals + restores provinces + secures revenue and Delhi",
+            "RESULT -> an Indian-centred Sultanate able to survive the Ghurid rupture",
+            "VERDICT: Aibak founded continuity; Iltutmish consolidated sovereignty."
+          ],
+          "source_references": [
+            "Aibak",
+            "Iltutmish",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Iltutmish and the rival-frontier problem",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "YILDIZ / GHAZNI <- NORTH-WEST -> QUBACHA / MULTAN-SIND",
+            "                           |",
+            "                     DELHI CORE",
+            "                           |",
+            "        BENGAL-BIHAR detachments + RAJPUT frontier resistance",
+            "1221: deny Jalaluddin Mangbarani a risky alliance as Chinggis approaches",
+            "METHOD: selective war, delay, recognition and provincial reassertion."
+          ],
+          "source_references": [
+            "Iltutmish",
+            "Mongol frontier",
+            "Regional consolidation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Iltutmish's institutional bundle",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "RIVALS -> Yildiz + Qubacha; FRONTIERS -> Bengal + Rajput forts + Mongols",
+            "IQTA -> revenue-service assignment under central review, not land ownership",
+            "MONEY -> silver tanka + copper jital; circulation is not a border map",
+            "DEPARTMENTS -> finance + correspondence + army + justice in evolving forms",
+            "DELHI -> court + mint + market + scholars + Sufis + military households",
+            "1229 INVESTITURE -> symbolic legitimacy after consolidation, not caliphal rule",
+            "LOCAL CONTINUITY -> chiefs, cultivators, scribes and institutions remained necessary."
+          ],
+          "source_references": [
+            "Iqta",
+            "Coinage",
+            "Caliphate",
+            "Delhi",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Succession and Raziya",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "ILtutmish's death -> weak succession rules + court faction",
+            "RUKNUDDIN / SHAH TURKAN -> rapid crisis",
+            "RAZIYA -> recognised ability + sovereign presentation + wider appointments",
+            "                 |",
+            "gendered expectations + elite resistance + provincial military conflict",
+            "VERDICT: gender mattered through institutions; it was not the only cause."
+          ],
+          "source_references": [
+            "Succession crisis",
+            "Raziya",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Crown and Chihalgani",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "ELITE SLAVE OFFICERS              SULTANATE CROWN",
+            "household loyalty networks         appointment and removal claims",
+            "iqtas and provincial commands      revenue and central office",
+            "collective bargaining power        need for obedience and succession",
+            "CHIHILGANI: remembered corporate elite, not exactly forty cabinet ministers",
+            "TENSION: the same network that built the state could constrain the monarch."
+          ],
+          "source_references": [
+            "Chihalgani",
+            "Nobility",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Balban's kingship architecture",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "DIVINE SHADOW / MAJESTY",
+            "          |",
+            "sijda and paibos + court distance + high-born nobility",
+            "          |",
+            "spies, justice, army review and punishment",
+            "          |",
+            "royal awe intended to discipline faction and rebellion",
+            "CAUTION: Barani's later normative account must not be read as a transcript."
+          ],
+          "source_references": [
+            "Balban",
+            "Kingship",
+            "Court ritual",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Balban's security state",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MEWAT / DOAB disorder -> roads, policing, forts and coercion",
+            "MONGOL pressure -> frontier commands, garrisons and prince Muhammad",
+            "BENGAL / TUGHRIL rebellion -> direct punitive expedition",
+            "SUCCESS -> stronger centre and defended approaches",
+            "LIMIT -> succession remained fragile; territorial depth stayed uneven.",
+            "CLOSE DISTINCTION: The iqta was a revenue-service assignment; the Chahalgani was an elite",
+            "  grouping, not a representative parliament.",
+            "CLOSE DISTINCTION: The iqta was a revenue-service assignment; the Chahalgani was an elite",
+            "  grouping, not a representative parliament."
+          ],
+          "source_references": [
+            "Law and order",
+            "Mongol frontier",
+            "Bengal",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Architecture as political evidence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AIBAK -> Quwwat-ul-Islam + Arhai Din ka Jhonpra + Qutb Minar beginning",
+            "ILTUTMISH -> Qutb phases + Sultan Ghari + royal tomb",
+            "BALBAN -> tomb linked with an important surviving true-arch phase",
+            "SPOLIA / REUSE -> appropriation plus available material and craft",
+            "WORKSHOPS -> Indian masons and transregional forms create experimentation",
+            "RULE: monument + inscription + construction/repair phase must be compared.",
+            "EVIDENCE LIMIT: Court chronicles illuminate kingship and conflict but must be checked for",
+            "  patronage, gender and retrospective bias."
+          ],
+          "source_references": [
+            "Qutb complex",
+            "Sultan Ghari",
+            "Balban's tomb",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 03 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> foundation was post-conquest state formation, not one event",
+            "INSTITUTION -> military households, iqta, coinage and Delhi",
+            "POLITICS -> Aibak continuity, Iltutmish consolidation, Raziya's test",
+            "MONARCHY -> Chihalgani tension and Balban's coercive repair",
+            "LIMITS -> Mongols, Bengal, succession and negotiated regional control",
+            "CLOSE -> durable core, uneven reach, major institutional legacy."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Synthesis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\03_Slave-Mamluk-Dynasty.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g3\\medieval-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-03\\g4\\medieval-indian-history-03_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

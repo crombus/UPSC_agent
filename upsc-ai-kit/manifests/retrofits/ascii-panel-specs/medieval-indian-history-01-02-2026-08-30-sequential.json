@@ -1,0 +1,423 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Medieval Indian History learner-v2 Topics 01-02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-01",
+      "display_title": "India on the Eve of the Medieval Age & Arab-Turkish Contacts",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\01_India-on-the-Eve-of-the-Medieval-Age-Arab-Turkish-Contacts_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Transition without a political vacuum",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PALA ---- PRATIHARA ---- RASHTRAKUTA competitive order",
+            "                         |",
+            "                 regional redistribution",
+            "                         |",
+            "GAHADAVALA | CHAUHAN | PARAMARA | CHALUKYA | CHANDELLA | TOMARA",
+            "SOUTHERN AXIS -> Chola state, ports and Indian Ocean networks",
+            "VERDICT: substantial state capacity survived; pooled command remained difficult."
+          ],
+          "source_references": [
+            "Political setting",
+            "Regional successor states"
+          ]
+        },
+        {
+          "title": "Four contact layers",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "COMMERCIAL -> Arab and Indian merchants, ports and monsoon routes",
+            "CULTURAL -> numerals, astronomy, medicine, language and translation",
+            "FRONTIER -> Sind, Kabul, Zabul, Jalalabad and Punjab",
+            "MILITARY-INSTITUTIONAL -> cavalry, roads, iqta logic and concentrated command",
+            "RULE: contact preceded conquest, and the four layers changed at different speeds."
+          ],
+          "source_references": [
+            "Scope",
+            "Arab-Turkish distinction"
+          ]
+        },
+        {
+          "title": "Chronology of contact and frontier change",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "711-12 -> Arab conquest of Sind",
+            "8th-10th c. -> Arab settlements and trade strengthen on the Malabar coast",
+            "963 -> Alp-tigin establishes himself at Ghazni",
+            "990-91 -> Hindu Shahi frontier setback around Kabul-Jalalabad",
+            "1173 -> Muizz al-Din takes Ghazni",
+            "1191 / 1192 -> First and Second Battles of Tarain",
+            "1206 -> independent Delhi Sultanate consolidation begins after Ghurid rupture."
+          ],
+          "source_references": [
+            "Chronology",
+            "Transition"
+          ]
+        },
+        {
+          "title": "Monsoon maritime circuit",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PERSIAN GULF / RED SEA",
+            "          |",
+            "Arab and Indian merchants + monsoon navigation",
+            "          |",
+            "GUJARAT COAST ---- MALABAR COAST ---- SRI LANKA / SOUTHEAST ASIA",
+            "          |",
+            "goods + resident communities + worship spaces + knowledge",
+            "LIMIT: a mosque or merchant settlement does not prove foreign sovereignty."
+          ],
+          "source_references": [
+            "Arab maritime trade",
+            "Malabar"
+          ]
+        },
+        {
+          "title": "Sind as conquest and conduit",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ARAB POLITICAL FOOTHOLD IN SIND",
+            "             |",
+            "frontier towns + administrators + scholars + merchant routes",
+            "             |",
+            "translation and circulation of numerals, astronomy and medicine",
+            "             |",
+            "INDO-ARAB INTELLECTUAL CONTACT",
+            "CAUTION: Sind did not create a straight political line to the Sultanate."
+          ],
+          "source_references": [
+            "Sind",
+            "Knowledge transfer"
+          ]
+        },
+        {
+          "title": "Formation of the Persianate-Turkish package",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ABBASID FRAGMENTATION",
+            "        |",
+            "regional Iranian and Central Asian military states",
+            "        |",
+            "Turkic commanders + Islamisation + Persian language and court culture",
+            "        |",
+            "cavalry command + documentary kingship + revenue-service institutions",
+            "TRAP: Persianate describes culture and administration, not ethnicity."
+          ],
+          "source_references": [
+            "Persianisation",
+            "Turkish military elites"
+          ]
+        },
+        {
+          "title": "Frontier depth and the outer bastions",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "CENTRAL ASIA -> GHAZNI -> KABUL -> JALALABAD -> PUNJAB -> GANGA PLAIN",
+            "                         roads, bases, supply and intelligence",
+            "HINDU SHAHI CONTROL -> strategic depth",
+            "SHAHI LOSSES + PUNJAB BASE -> shorter operational corridor",
+            "COUNTER-EVIDENCE -> Gujarat 1178-79 and Tarain 1191 defeats",
+            "VERDICT: access enabled campaigns; it did not determine victory."
+          ],
+          "source_references": [
+            "Hindu Shahis",
+            "Outer bastions",
+            "Frontier logistics"
+          ]
+        },
+        {
+          "title": "Rajput capacity and coordination",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "STRENGTHS                         LIMITS",
+            "agrarian revenue                   rival sovereign centres",
+            "forts and feudatory armies         uneven intelligence sharing",
+            "regional legitimacy               delayed pooled reinforcement",
+            "Gujarat and Tarain I victories     Prithviraj's political isolation",
+            "VERDICT: courage and capacity existed; durable common command was weaker."
+          ],
+          "source_references": [
+            "Rajput political order",
+            "Coordination"
+          ]
+        },
+        {
+          "title": "Military-fiscal interaction",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "REVENUE ASSIGNMENT / IQTA LOGIC -> maintained mounted force",
+            "ROADS + BASES + REMOUNTS -> mobility and operational endurance",
+            "RECONNAISSANCE + RESERVES -> tactical flexibility",
+            "CONCENTRATED COMMAND -> rapid decision and reinforcement",
+            "NO SINGLE CAUSE: horses without finance, roads and command were insufficient."
+          ],
+          "source_references": [
+            "Iqta",
+            "Cavalry",
+            "Military organisation"
+          ]
+        },
+        {
+          "title": "Condition, mechanism and trigger",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CONDITION -> frontier-depth loss + regional rivalry",
+            "MECHANISM -> mobility + fiscal concentration + logistics + command",
+            "TRIGGER -> leadership + diplomacy + tactical adaptation",
+            "COUNTERFACT -> Turkish reverses show structures changed odds, not certainty",
+            "FINAL FORMULA: probability, not inevitability; organisation, not race."
+          ],
+          "source_references": [
+            "Causation",
+            "Contingency"
+          ]
+        },
+        {
+          "title": "Evidence discipline",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "TRAVELLERS -> routes and perceptions | itinerary and outsider limits",
+            "CHRONICLES -> court claims and campaigns | patronage and rhetoric",
+            "COINS -> titles and circulation | not automatic border maps",
+            "INSCRIPTIONS -> local claims and genealogy | formula and survival bias",
+            "ARCHAEOLOGY -> ports and settlements | identification and dating cautions",
+            "METHOD: claim -> named evidence -> corroboration -> explicit limit."
+          ],
+          "source_references": [
+            "Sources",
+            "Historical method"
+          ]
+        },
+        {
+          "title": "Topic 01 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> India was connected and politically regionalised, not isolated",
+            "SEA -> trade, settlements and knowledge without automatic conquest",
+            "WEST/CENTRAL ASIA -> Persianised Turkish military states",
+            "FRONTIER -> Shahi depth, roads and Punjab base",
+            "POLITY -> Rajput capacity plus coordination limits",
+            "CAUSATION -> condition + mechanism + contingent trigger",
+            "CLOSE -> interaction and institutional recombination shaped the transition."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Synthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "medieval-indian-history-02",
+      "display_title": "The Ghaznavids & the Ghurian Invasions",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three phases that must remain separate",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "GHAZNAVID PHASE             GHURID PHASE              DELHI SULTANATE",
+            "c. 990s-1186               1175-1206                from 1206",
+            "frontier war + raids       territorial bridgehead   Indian-centred consolidation",
+            "Punjab / Lahore base       Delhi-doab expansion      Aibak and Iltutmish",
+            "Mahmud != Muizz al-Din != Aibak."
+          ],
+          "source_references": [
+            "Scope",
+            "Core distinctions"
+          ]
+        },
+        {
+          "title": "Campaign chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "963 -> Alp-tigin at Ghazni | 977 -> Sabuktigin",
+            "1001 -> Jayapala defeated | 1009 -> Anandapala defeated",
+            "1025-26 -> Somnath campaign | 1186 -> Ghurids take Lahore",
+            "1191 -> Tarain I, Ghurid defeat | 1192 -> Tarain II, Ghurid victory",
+            "1194 -> Chandawar | 1206 -> Muizz al-Din dies",
+            "RULE: battlefield victory and durable consolidation are different stages."
+          ],
+          "source_references": [
+            "Chronology",
+            "Campaign sequence"
+          ]
+        },
+        {
+          "title": "Source criticism matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "AL-UTBI -> Ghaznavid court claims | panegyric; ends before Somnath",
+            "AL-BIRUNI -> comparative inquiry | elite textual and regional limits",
+            "BAYHAQI -> court and administration | fragmentary survival",
+            "HASAN NIZAMI -> early conquest | ornate Aibak-linked legitimation",
+            "MINHAJ -> Ghurid-Delhi sequence | written decades later",
+            "COINS / INSCRIPTIONS -> titles and local claims | require contextual reading."
+          ],
+          "source_references": [
+            "Sources",
+            "Historiography"
+          ]
+        },
+        {
+          "title": "From Samanid service to Ghaznavid rule",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SAMANID PERSIANATE COURT",
+            "          |",
+            "Turkic military commanders and service networks",
+            "          |",
+            "Alp-tigin at Ghazni -> Sabuktigin -> Mahmud",
+            "          |",
+            "roads, cavalry, taxation, court culture and frontier warfare",
+            "VERDICT: a state-formation process, not an ethnic migration explanation."
+          ],
+          "source_references": [
+            "Samanids",
+            "Ghaznavid rise"
+          ]
+        },
+        {
+          "title": "Hindu Shahi resistance and frontier breach",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "KABUL / JALALABAD -> PESHAWAR -> SALT RANGE -> PUNJAB",
+            "        Hindu Shahi strategic depth and fortified corridors",
+            "Sabuktigin pressure -> Jayapala 1001 -> Anandapala 1009 -> Nandana",
+            "Kashmir 1015 failure -> weather and terrain still constrained Ghaznavids",
+            "VERDICT: prolonged resistance preceded a changing Punjab frontier."
+          ],
+          "source_references": [
+            "Hindu Shahis",
+            "Punjab"
+          ]
+        },
+        {
+          "title": "Mahmud's campaigns: reach and limits",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "DURABLE BASE -> Ghazni + Punjab / Lahore",
+            "REPEATED TARGETS -> frontier forts, Multan, Mathura-Kanauj and Somnath",
+            "METHODS -> campaigning, tribute, plunder, garrisons and local arrangements",
+            "LIMITS -> no comparable permanent Ghaznavid Gangetic administration",
+            "RULE: repeated deep raids do not equal uniform territorial occupation."
+          ],
+          "source_references": [
+            "Mahmud's campaigns",
+            "Territorial limits"
+          ]
+        },
+        {
+          "title": "Mahmud's motives as a matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FISCAL -> movable wealth and military finance",
+            "STRATEGIC -> rivals, frontier security and Punjab control",
+            "POLITICAL -> prestige and dynastic legitimation",
+            "RELIGIOUS -> ghazi and iconoclast rhetoric",
+            "CULTURAL -> court patronage and Persianate kingship",
+            "VERDICT: motives reinforced one another and varied by campaign."
+          ],
+          "source_references": [
+            "Motives",
+            "Multi-causal analysis"
+          ]
+        },
+        {
+          "title": "Somnath and al-Biruni: event versus evidence",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "SOMNATH EVENT -> later textual layers, memory and political reuse",
+            "AL-UTBI -> cannot narrate 1025 because his account ends earlier",
+            "AL-BIRUNI -> scholarship on Indian learning, not a neutral social census",
+            "MATERIAL / REGIONAL EVIDENCE -> checks court and later literary claims",
+            "METHOD: identify date, genre, patron, report, corroboration and limit."
+          ],
+          "source_references": [
+            "Somnath",
+            "Al-Biruni",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Ghaznavid and Ghurid projects compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GHAZNAVIDS                        GHURIDS",
+            "Punjab bridgehead + raids          staged territorial advance",
+            "Ghazni-Lahore axis                 Multan-Punjab-Delhi-doab axis",
+            "deep campaigns, limited plains     commanders, garrisons and vassalage",
+            "state focus remained westward      wider north Indian succession problem",
+            "LINK: Ghurids displaced the last Ghaznavid at Lahore in 1186."
+          ],
+          "source_references": [
+            "Ghaznavids",
+            "Ghurids",
+            "Comparison"
+          ]
+        },
+        {
+          "title": "Tarain I and II",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "1191 TARAIN I                    1192 TARAIN II",
+            "Ghurid defeat                      Ghurid return and victory",
+            "Rajput capacity demonstrated       mounted harassment and reserves matter",
+            "no inevitable Turkish success      learning and command alter outcome",
+            "AFTERMATH -> occupation remained uneven; forts, rebellions and local deals continued."
+          ],
+          "source_references": [
+            "Tarain",
+            "Contingency"
+          ]
+        },
+        {
+          "title": "Battlefield victory to consolidation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "VICTORY",
+            "  -> commander delegation and garrisons",
+            "  -> vassalage, tribute and negotiated local rule",
+            "  -> revenue access and route security",
+            "  -> suppression of rebellions and rival Turkish claims",
+            "  -> post-1206 Aibak-Iltutmish consolidation",
+            "TRAP: Ghurid opening != instantly complete Delhi Sultanate."
+          ],
+          "source_references": [
+            "Aibak",
+            "Conquest and consolidation"
+          ]
+        },
+        {
+          "title": "Topic 02 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> distinguish Ghaznavid raid-base pattern from Ghurid advance",
+            "CONTEXT -> Samanids, military service, roads and frontier geography",
+            "MAHMUD -> campaigns + motives + Punjab base + limits",
+            "GHURIDS -> Lahore, Tarain, Chandawar and delegated occupation",
+            "CAUSES -> organisation and contingency, not racial or weapon determinism",
+            "SOURCES -> court rhetoric checked by texts, coins and monuments",
+            "CLOSE -> conquest opened a process; consolidation remained contested."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Synthesis"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topics 06-07",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-06",
+      "display_title": "Sculpture, Pottery and Iconography",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\06_Sculpture-Pottery-and-Iconography_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Six-variable reading rail",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "MATERIAL -> what carving or casting permits",
+            "POSTURE + ATTRIBUTE -> identity and action",
+            "PATRON + SITE -> commissioned context",
+            "COMPARISON -> similarity, difference and limit"
+          ],
+          "source_references": [
+            "How to read sculpture"
+          ]
+        },
+        {
+          "title": "Lost-wax and label firewall",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WAX MODEL -> clay investment",
+            "HEAT -> wax leaves a cavity",
+            "MOLTEN METAL -> bronze form",
+            "MEANING -> separate from a museum label"
+          ],
+          "source_references": [
+            "Lost-wax bronze and Harappan labels"
+          ]
+        },
+        {
+          "title": "Pottery chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "NEOLITHIC -> coarse hand-made ware",
+            "CHALCOLITHIC -> Ahar, Malwa and Jorwe painted wares",
+            "HARAPPAN / PGW -> separate chronological markers",
+            "NBPW -> fine early historic tableware"
+          ],
+          "source_references": [
+            "Pottery as chronological evidence"
+          ]
+        },
+        {
+          "title": "Three-school matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GANDHARA -> grey stone, Buddhist, layered influence",
+            "MATHURA -> red stone, three religions, attributes",
+            "AMARAVATI -> limestone, Buddhist narrative, tribhanga",
+            "RULE -> compare on the same axes"
+          ],
+          "source_references": [
+            "Gandhara's layered idiom",
+            "Mathura's indigenous breadth"
+          ]
+        },
+        {
+          "title": "Aniconic to iconic",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "EMPTY THRONE / TREE / WHEEL -> symbolic presence",
+            "DEVOTIONAL CHANGE -> human image becomes central",
+            "GANDHARA + MATHURA -> overlapping early-CE contexts",
+            "CAUTION -> no uncontested sole origin"
+          ],
+          "source_references": [
+            "Aniconism and the iconic shift"
+          ]
+        },
+        {
+          "title": "Gupta bridge",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SARNATH -> cream sandstone",
+            "BODY -> subtle modelling and thin drapery",
+            "SULTANGANJ -> late or post-Gupta caution",
+            "BRIDGE -> restraint before denser temple programmes"
+          ],
+          "source_references": [
+            "Gupta restraint and dating limits"
+          ]
+        },
+        {
+          "title": "Nataraja chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AIHOLE -> early known antecedent",
+            "CHOLA -> canonical portable bronze",
+            "TEMPLE PROCESSION -> ritual mobility",
+            "RULE -> peak is not origin"
+          ],
+          "source_references": [
+            "Nataraja from Aihole to Chola"
+          ]
+        },
+        {
+          "title": "Nataraja attribute map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "DAMARU / FIRE -> creation and destruction",
+            "ABHAYA / RAISED FOOT -> reassurance and release",
+            "APASMARA -> ignorance subdued",
+            "AUREOLE -> recurring time"
+          ],
+          "source_references": [
+            "Nataraja from Aihole to Chola"
+          ]
+        },
+        {
+          "title": "Lion-bull evidence ladder",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "HARAPPAN -> bull visible, meaning unrecoverable",
+            "RAMPURVA -> inscribed lion, uninscribed bull",
+            "SARNATH -> animals inside a Buddhist-imperial system",
+            "TEMPLE -> Nandi, Yali and Vyala gain placed roles"
+          ],
+          "source_references": [
+            "Lion and bull across media"
+          ]
+        },
+        {
+          "title": "Temple animal placement",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NANDI -> axial pavilion before Shiva",
+            "YALI -> composite guardian on southern pillars",
+            "VYALA -> lion-bodied hybrid at Khajuraho",
+            "DISTINCTION -> building, guardian and motif"
+          ],
+          "source_references": [
+            "Nandi, Yali and Vyala"
+          ]
+        },
+        {
+          "title": "Social-evidence test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "FIGURE -> dancer, musician, teacher or couple",
+            "PATRON -> selected what became visible",
+            "CLAIM -> valued activity or ritual idiom",
+            "LIMIT -> not a census of society"
+          ],
+          "source_references": [
+            "Sculpture as social evidence"
+          ]
+        },
+        {
+          "title": "Sculpture answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> school, object or symbol",
+            "EVIDENCE -> material, posture, attribute and site",
+            "COMPARE -> period or regional workshop",
+            "QUALIFY -> attribution, priority and social inference"
+          ],
+          "source_references": [
+            "Verified PYQs and final answer spine"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "indian-art-and-culture-07",
+      "display_title": "Painting Traditions",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\07_Painting-Traditions_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Painting reading axes",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "FORMAT -> rock, wall, page, album or canvas",
+            "TECHNIQUE -> engraving, dry plaster, wash or print",
+            "PATRON -> monastery, court, market or community",
+            "AUDIENCE -> collective, private or mass"
+          ],
+          "source_references": [
+            "Painting vocabulary and rock art"
+          ]
+        },
+        {
+          "title": "Mural technique firewall",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AJANTA -> prepared plaster, pigment after drying",
+            "TRUE FRESCO -> pigment into wet plaster",
+            "BAGH -> do not transfer Ajanta's label automatically",
+            "RULE -> technique must be site-specific"
+          ],
+          "source_references": [
+            "Ajanta's dry-plaster technique"
+          ]
+        },
+        {
+          "title": "Bagh identification card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SITE -> Baghni river, Dhar district",
+            "CAVE 4 -> Rang Mahal, Jataka murals",
+            "HALLISALASYA -> Bagh paintings generally",
+            "LIMIT -> no modern-form equivalence"
+          ],
+          "source_references": [
+            "Bagh and Hallisalasya"
+          ]
+        },
+        {
+          "title": "Southern mural survival",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PALLAVA -> Kanchipuram and Panamalai",
+            "PANDYA -> Sittanavasal bridge",
+            "CHOLA -> Vijaya Cholishwaram and Brihadishvara",
+            "NAYAKA -> later superimposition"
+          ],
+          "source_references": [
+            "Pallava and Chola mural survival"
+          ]
+        },
+        {
+          "title": "Format-patronage shift",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MONUMENTAL WALL -> institutional sponsor",
+            "MANUSCRIPT -> portable devotional page",
+            "ALBUM -> private connoisseurial patron",
+            "PRINT / CANVAS -> market and public"
+          ],
+          "source_references": [
+            "From wall to portable page"
+          ]
+        },
+        {
+          "title": "Mughal atelier change",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AKBAR -> narrative manuscript series",
+            "WORKSHOP -> collaborative karkhana",
+            "JAHANGIR -> album portrait and natural history",
+            "CONTINUITY -> mobile trained artists"
+          ],
+          "source_references": [
+            "Akbar's collaborative atelier",
+            "Jahangir's album and natural history"
+          ]
+        },
+        {
+          "title": "Regional miniature map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "KISHANGARH -> Bani Thani, Nihal Chand",
+            "BASOHLI -> bold line and intense colour",
+            "GULER / KANGRA -> lyrical naturalism",
+            "DECCAN -> saturated Persianate court idiom"
+          ],
+          "source_references": [
+            "Kishangarh and Bani Thani",
+            "Pahari and Deccani discriminators"
+          ]
+        },
+        {
+          "title": "South Indian distinction",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TANJORE -> gesso relief and gold coating",
+            "MYSORE -> separate court tradition",
+            "DEVOTIONAL ICON -> shared broad purpose",
+            "TRAP -> shared region is not identity"
+          ],
+          "source_references": [
+            "Tanjore and Mysore"
+          ]
+        },
+        {
+          "title": "Colonial public matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMPANY -> European patron and documentation",
+            "BAZAAR / KALIGHAT -> commercial public",
+            "RAVI VARMA -> academic realism and prints",
+            "BENGAL SCHOOL -> nationalist wash idiom"
+          ],
+          "source_references": [
+            "Company, bazaar and colonial publics",
+            "Ravi Varma and Bengal School"
+          ]
+        },
+        {
+          "title": "Folk-painting discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MADHUBANI -> Mithila line-and-fill",
+            "WARLI -> white geometric figures on earth ground",
+            "PATTACHITRA -> Odisha cloth or palm leaf",
+            "KALAMKARI -> narrative textile process"
+          ],
+          "source_references": [
+            "Folk and tribal production systems"
+          ]
+        },
+        {
+          "title": "Survival-bias ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SURVIVING OBJECT -> direct evidence",
+            "LITERARY REFERENCE -> practice was known",
+            "MISSING WALL -> preservation gap",
+            "VERDICT -> do not equate survival with production"
+          ],
+          "source_references": [
+            "Pallava and Chola mural survival"
+          ]
+        },
+        {
+          "title": "Painting answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> format and technique",
+            "TRACE -> patron and audience change",
+            "COMPARE -> named school on common axes",
+            "QUALIFY -> survival, attribution and current status"
+          ],
+          "source_references": [
+            "PYQ audit and living institutional link"
+          ]
+        }
+      ]
+    }
+  ]
+}

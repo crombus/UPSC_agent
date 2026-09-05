@@ -1,0 +1,1919 @@
+{
+  "schema_version": 1,
+  "id": "deep-content-quality-repair-2026-08-23",
+  "validated_on": "2026-08-23T11:58:45.590825+05:30",
+  "selection": "all affected latest learner-v2 topics from exhaustive deep audit",
+  "audit": "upsc-ai-kit\\manifests\\retrofits\\deep-content-quality-audit-2026-08-23.json",
+  "topic_count": 40,
+  "affected_topic_keys": [
+    "ancient-indian-history-01",
+    "ancient-indian-history-02",
+    "ancient-indian-history-03",
+    "ancient-indian-history-04",
+    "ancient-indian-history-05",
+    "ancient-indian-history-06",
+    "ancient-indian-history-07",
+    "ancient-indian-history-08",
+    "ancient-indian-history-09",
+    "ancient-indian-history-10",
+    "ancient-indian-history-11",
+    "geography-01",
+    "geography-02",
+    "geography-03",
+    "geography-04",
+    "geography-28-human-settlements-and-urbanisation",
+    "geography-30-primary-economic-activities-agriculture",
+    "geography-32-industries-and-industrial-regions",
+    "philosophy-paper-i-indian-philosophy-01",
+    "philosophy-paper-i-indian-philosophy-02",
+    "philosophy-paper-i-indian-philosophy-03",
+    "philosophy-paper-i-indian-philosophy-04",
+    "philosophy-paper-i-indian-philosophy-05",
+    "philosophy-paper-ii-philosophy-of-religion-01",
+    "philosophy-paper-ii-philosophy-of-religion-02",
+    "philosophy-paper-ii-philosophy-of-religion-03",
+    "philosophy-paper-ii-philosophy-of-religion-04",
+    "philosophy-paper-ii-philosophy-of-religion-05",
+    "philosophy-paper-ii-philosophy-of-religion-06",
+    "philosophy-paper-ii-philosophy-of-religion-07",
+    "philosophy-paper-ii-philosophy-of-religion-08",
+    "philosophy-paper-ii-philosophy-of-religion-09",
+    "philosophy-paper-ii-philosophy-of-religion-10",
+    "polity-01",
+    "polity-02",
+    "polity-03",
+    "polity-04",
+    "polity-05",
+    "polity-06",
+    "polity-07"
+  ],
+  "passed": true,
+  "staged_deep_content_quality_passed": true,
+  "staged_deep_content_quality_errors": [],
+  "tests": {
+    "passed": 85,
+    "command": "python -m unittest tools.test_refresh_all_v2_learning_sessions tools.test_retrofit_v2_core_first tools.test_v2_export_foundation tools.test_v2_section_indexes tools.test_v2_topic_command_catalog tools.test_plan_v2_topic_batch"
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-01",
+      "main_pdf_pages": 148,
+      "workbook_pdf_pages": 39,
+      "session_count": 9,
+      "mcq_count": 32,
+      "mcq_key_counts": {
+        "A": 8,
+        "B": 8,
+        "C": 8,
+        "D": 8
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g8\\ancient-indian-history-01_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g8\\ancient-indian-history-01_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g8\\ancient-indian-history-01_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g8\\ancient-indian-history-01_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-01\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 148,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 39,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-02",
+      "main_pdf_pages": 93,
+      "workbook_pdf_pages": 19,
+      "session_count": 29,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g8\\ancient-indian-history-02_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g8\\ancient-indian-history-02_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g8\\ancient-indian-history-02_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g8\\ancient-indian-history-02_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-02\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 93,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 19,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-03",
+      "main_pdf_pages": 88,
+      "workbook_pdf_pages": 15,
+      "session_count": 27,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g8\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g8\\ancient-indian-history-03_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g8\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g8\\ancient-indian-history-03_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-03\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 88,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 15,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-04",
+      "main_pdf_pages": 97,
+      "workbook_pdf_pages": 38,
+      "session_count": 21,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g8\\ancient-indian-history-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g8\\ancient-indian-history-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g8\\ancient-indian-history-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g8\\ancient-indian-history-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-04\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 97,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 38,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-05",
+      "main_pdf_pages": 88,
+      "workbook_pdf_pages": 13,
+      "session_count": 40,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g8\\ancient-indian-history-05_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g8\\ancient-indian-history-05_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g8\\ancient-indian-history-05_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g8\\ancient-indian-history-05_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-05\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 88,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 13,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-06",
+      "main_pdf_pages": 82,
+      "workbook_pdf_pages": 14,
+      "session_count": 40,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g8\\ancient-indian-history-06_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g8\\ancient-indian-history-06_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g8\\ancient-indian-history-06_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g8\\ancient-indian-history-06_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-06\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 82,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 14,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-07",
+      "main_pdf_pages": 89,
+      "workbook_pdf_pages": 13,
+      "session_count": 46,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g8\\ancient-indian-history-07_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g8\\ancient-indian-history-07_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g8\\ancient-indian-history-07_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g8\\ancient-indian-history-07_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-07\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 89,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 13,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-08",
+      "main_pdf_pages": 72,
+      "workbook_pdf_pages": 13,
+      "session_count": 27,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g8\\ancient-indian-history-08_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g8\\ancient-indian-history-08_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g8\\ancient-indian-history-08_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g8\\ancient-indian-history-08_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-08\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 13,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "source_generation": 8,
+      "refreshed_generation": 9,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-09",
+      "main_pdf_pages": 112,
+      "workbook_pdf_pages": 42,
+      "session_count": 25,
+      "mcq_count": 60,
+      "mcq_key_counts": {
+        "A": 15,
+        "B": 15,
+        "C": 15,
+        "D": 15
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g9\\ancient-indian-history-09_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g9\\ancient-indian-history-09_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g9\\ancient-indian-history-09_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-09\\g9\\ancient-indian-history-09_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-09\\carvaka-g9"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 112,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 42,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "source_generation": 8,
+      "refreshed_generation": 9,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-10",
+      "main_pdf_pages": 147,
+      "workbook_pdf_pages": 64,
+      "session_count": 35,
+      "mcq_count": 60,
+      "mcq_key_counts": {
+        "A": 15,
+        "B": 15,
+        "C": 15,
+        "D": 15
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g9\\ancient-indian-history-10_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g9\\ancient-indian-history-10_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g9\\ancient-indian-history-10_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g9\\ancient-indian-history-10_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-10\\carvaka-g9"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 147,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "source_generation": 8,
+      "refreshed_generation": 9,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-11",
+      "main_pdf_pages": 131,
+      "workbook_pdf_pages": 56,
+      "session_count": 31,
+      "mcq_count": 60,
+      "mcq_key_counts": {
+        "A": 15,
+        "B": 15,
+        "C": 15,
+        "D": 15
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g9\\ancient-indian-history-11_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g9\\ancient-indian-history-11_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g9\\ancient-indian-history-11_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g9\\ancient-indian-history-11_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-11\\carvaka-g9"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 131,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 56,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-01",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Geography",
+      "section": "Part-A-Physical-Geography",
+      "topic_folder": "geography-01",
+      "main_pdf_pages": 62,
+      "workbook_pdf_pages": 16,
+      "session_count": 24,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g8\\geography-01_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g8\\geography-01_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g8\\geography-01_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g8\\geography-01_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-01\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 62,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-02",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Geography",
+      "section": "Part-A-Physical-Geography",
+      "topic_folder": "geography-02",
+      "main_pdf_pages": 95,
+      "workbook_pdf_pages": 17,
+      "session_count": 29,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g8\\geography-02_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g8\\geography-02_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g8\\geography-02_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g8\\geography-02_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-02\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 95,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 17,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-03",
+      "source_generation": 3,
+      "refreshed_generation": 4,
+      "subject": "Geography",
+      "section": "Part-A-Physical-Geography",
+      "topic_folder": "geography-03",
+      "main_pdf_pages": 59,
+      "workbook_pdf_pages": 21,
+      "session_count": 19,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g4\\geography-03_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g4\\geography-03_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g4\\geography-03_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g4\\geography-03_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-03\\carvaka-g4"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-04",
+      "source_generation": 3,
+      "refreshed_generation": 4,
+      "subject": "Geography",
+      "section": "Part-A-Physical-Geography",
+      "topic_folder": "geography-04",
+      "main_pdf_pages": 78,
+      "workbook_pdf_pages": 20,
+      "session_count": 20,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g4\\geography-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g4\\geography-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g4\\geography-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g4\\geography-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-04\\carvaka-g4"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Geography",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "geography-28",
+      "main_pdf_pages": 64,
+      "workbook_pdf_pages": 16,
+      "session_count": 16,
+      "mcq_count": 32,
+      "mcq_key_counts": {
+        "A": 8,
+        "B": 8,
+        "C": 8,
+        "D": 8
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\g8\\geography-28_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\g8\\geography-28_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\g8\\geography-28_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\g8\\geography-28_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\flowcharts\\geography-28\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Geography",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "geography-30",
+      "main_pdf_pages": 66,
+      "workbook_pdf_pages": 28,
+      "session_count": 11,
+      "mcq_count": 24,
+      "mcq_key_counts": {
+        "A": 6,
+        "B": 6,
+        "C": 6,
+        "D": 6
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g8\\geography-30_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g8\\geography-30_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g8\\geography-30_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g8\\geography-30_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\flowcharts\\geography-30\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 66,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Geography",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "geography-32",
+      "main_pdf_pages": 53,
+      "workbook_pdf_pages": 20,
+      "session_count": 8,
+      "mcq_count": 28,
+      "mcq_key_counts": {
+        "A": 7,
+        "B": 7,
+        "C": 7,
+        "D": 7
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\g8\\geography-32_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\g8\\geography-32_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\g8\\geography-32_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\g8\\geography-32_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\flowcharts\\geography-32\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 53,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "source_generation": 8,
+      "refreshed_generation": 9,
+      "subject": "Philosophy",
+      "section": "Paper-I-Indian-Philosophy",
+      "topic_folder": "topic-01",
+      "main_pdf_pages": 110,
+      "workbook_pdf_pages": 35,
+      "session_count": 8,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\g9\\topic-01_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\g9\\topic-01_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\g9\\topic-01_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\g9\\topic-01_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g9"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 110,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 35,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "topic-02",
+      "main_pdf_pages": 72,
+      "workbook_pdf_pages": 21,
+      "session_count": 9,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g8\\topic-02_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g8\\topic-02_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g8\\topic-02_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g8\\topic-02_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "topic-03",
+      "main_pdf_pages": 77,
+      "workbook_pdf_pages": 25,
+      "session_count": 11,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\g8\\topic-03_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\g8\\topic-03_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\g8\\topic-03_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\g8\\topic-03_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-03\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 77,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "topic-04",
+      "main_pdf_pages": 83,
+      "workbook_pdf_pages": 28,
+      "session_count": 12,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g8\\topic-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g8\\topic-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g8\\topic-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g8\\topic-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 83,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Compatibility-Pilot",
+      "topic_folder": "topic-05",
+      "main_pdf_pages": 66,
+      "workbook_pdf_pages": 19,
+      "session_count": 9,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 66,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 19,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "source_generation": 8,
+      "refreshed_generation": 9,
+      "subject": "Philosophy",
+      "section": "Philosophy-of-Religion",
+      "topic_folder": "Notions-of-God",
+      "main_pdf_pages": 106,
+      "workbook_pdf_pages": 40,
+      "session_count": 13,
+      "mcq_count": 44,
+      "mcq_key_counts": {
+        "A": 11,
+        "B": 11,
+        "C": 11,
+        "D": 11
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g9\\Notions-of-God_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g9\\Notions-of-God_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g9\\Notions-of-God_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g9\\Notions-of-God_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g9"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 106,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-02",
+      "main_pdf_pages": 107,
+      "workbook_pdf_pages": 40,
+      "session_count": 10,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g8\\topic-02_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g8\\topic-02_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g8\\topic-02_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g8\\topic-02_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-02\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 107,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-03",
+      "main_pdf_pages": 63,
+      "workbook_pdf_pages": 14,
+      "session_count": 10,
+      "mcq_count": 40,
+      "mcq_key_counts": {
+        "A": 10,
+        "B": 10,
+        "C": 10,
+        "D": 10
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g8\\topic-03_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g8\\topic-03_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g8\\topic-03_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g8\\topic-03_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-03\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 63,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 14,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "source_generation": 7,
+      "refreshed_generation": 8,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-04",
+      "main_pdf_pages": 65,
+      "workbook_pdf_pages": 28,
+      "session_count": 10,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g8\\topic-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g8\\topic-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g8\\topic-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g8\\topic-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-04\\carvaka-g8"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-05",
+      "main_pdf_pages": 54,
+      "workbook_pdf_pages": 24,
+      "session_count": 7,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g7\\topic-05_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g7\\topic-05_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-05\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 54,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 24,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-06",
+      "main_pdf_pages": 51,
+      "workbook_pdf_pages": 21,
+      "session_count": 7,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g7\\topic-06_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g7\\topic-06_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 51,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-07",
+      "main_pdf_pages": 47,
+      "workbook_pdf_pages": 21,
+      "session_count": 7,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g7\\topic-07_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g7\\topic-07_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g7\\topic-07_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g7\\topic-07_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-07\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 47,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-08",
+      "main_pdf_pages": 57,
+      "workbook_pdf_pages": 25,
+      "session_count": 7,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g7\\topic-08_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g7\\topic-08_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g7\\topic-08_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g7\\topic-08_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-08\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 57,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-09",
+      "main_pdf_pages": 60,
+      "workbook_pdf_pages": 28,
+      "session_count": 7,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g7\\topic-09_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g7\\topic-09_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g7\\topic-09_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-09\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 60,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 28,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "source_generation": 6,
+      "refreshed_generation": 7,
+      "subject": "Philosophy",
+      "section": "Paper-Ii-Philosophy-Of-Religion",
+      "topic_folder": "topic-10",
+      "main_pdf_pages": 63,
+      "workbook_pdf_pages": 31,
+      "session_count": 7,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g7\\topic-10_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g7\\topic-10_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g7\\topic-10_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g7\\topic-10_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g7"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 63,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 31,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-01",
+      "source_generation": 9,
+      "refreshed_generation": 10,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-01",
+      "main_pdf_pages": 74,
+      "workbook_pdf_pages": 16,
+      "session_count": 16,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g10\\polity-01_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g10\\polity-01_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g10\\polity-01_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g10\\polity-01_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-01\\carvaka-g10"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 74,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-02",
+      "source_generation": 9,
+      "refreshed_generation": 10,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-02",
+      "main_pdf_pages": 76,
+      "workbook_pdf_pages": 17,
+      "session_count": 19,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g10\\polity-02_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g10\\polity-02_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g10\\polity-02_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g10\\polity-02_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g10"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 76,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 17,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-03",
+      "source_generation": 10,
+      "refreshed_generation": 11,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-03",
+      "main_pdf_pages": 77,
+      "workbook_pdf_pages": 18,
+      "session_count": 22,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g11\\polity-03_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g11\\polity-03_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g11\\polity-03_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g11\\polity-03_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g11"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 77,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 18,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-04",
+      "source_generation": 9,
+      "refreshed_generation": 10,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-04",
+      "main_pdf_pages": 78,
+      "workbook_pdf_pages": 21,
+      "session_count": 20,
+      "mcq_count": 27,
+      "mcq_key_counts": {
+        "A": 7,
+        "B": 7,
+        "C": 6,
+        "D": 7
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g10\\polity-04_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g10\\polity-04_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g10\\polity-04_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g10\\polity-04_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g10"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 21,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-05",
+      "source_generation": 9,
+      "refreshed_generation": 10,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-05",
+      "main_pdf_pages": 55,
+      "workbook_pdf_pages": 14,
+      "session_count": 15,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g10\\polity-05_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g10\\polity-05_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g10\\polity-05_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g10\\polity-05_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g10"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 14,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-06",
+      "source_generation": 9,
+      "refreshed_generation": 10,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-06",
+      "main_pdf_pages": 68,
+      "workbook_pdf_pages": 14,
+      "session_count": 24,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g10\\polity-06_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g10\\polity-06_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g10\\polity-06_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g10\\polity-06_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-06\\carvaka-g10"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 68,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 14,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "polity-07",
+      "source_generation": 10,
+      "refreshed_generation": 11,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-07",
+      "main_pdf_pages": 96,
+      "workbook_pdf_pages": 23,
+      "session_count": 27,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g11\\polity-07_Complete-Learning-Session_2026-08-23.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g11\\polity-07_Solved-Practice-Workbook_2026-08-23.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g11\\polity-07_Complete-Learning-Session_2026-08-23.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g11\\polity-07_Solved-Practice-Workbook_2026-08-23.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-07\\carvaka-g11"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 96,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    }
+  ],
+  "state": "finalized",
+  "finalized_on": "2026-08-23T12:00:40.646799+05:30",
+  "tracker_sha256": "ca3c2aaee6c94d66433ca51735980a5fd94bc198ad4d5fc040ef5c9f7edf0776",
+  "all_latest_topic_count": 40,
+  "all_latest_deep_content_quality_passed": true,
+  "all_latest_blocker_count": 0,
+  "all_latest_high_count": 0,
+  "all_latest_medium_count": 0,
+  "latest_tracker_resolution_passed": true,
+  "old_generations_retained": true,
+  "all_new_approvals_false": true,
+  "post_finalize_verification": {
+    "latest_topic_count": 40,
+    "numbered_session_count": 734,
+    "content_failures": [],
+    "artifact_failures": [],
+    "changed_file_entries": 1407,
+    "missing_changed_files": [],
+    "relevant_tests_passed": 85
+  }
+}

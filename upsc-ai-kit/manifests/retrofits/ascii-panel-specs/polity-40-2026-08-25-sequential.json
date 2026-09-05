@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "polity-40-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-40": {
+      "title": "Official Language",
+      "source_record": "polity-40:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g5-source\\polity-40_g5-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Part XVII settlement: official language without a national language",
+          "structural_type": "constitutional-language-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+          ],
+          "full_text": "ROOT QUESTION\nHow does one Union preserve common administration without linguistic uniformity?\n\nPART XVII\nChapter I: Articles 343-344 | Union language.\nChapter II: Articles 345-347 | regional languages.\nChapter III: Articles 348-349 | courts and authoritative legal texts.\nChapter IV: Articles 350-351 | grievances, minorities and Hindi development.\n\nCORE DISTINCTIONS\nUnion official language != national language.\nscheduled != official everywhere | classical != scheduled | policy != Constitution.\n\nSETTLEMENT\nHindi in Devanagari + international form of Indian numerals\npaired with statutory continuation of English and federal safeguards."
+        },
+        {
+          "title": "Articles 343-344 and the statutory continuation of English",
+          "structural_type": "union-language-transition-clock",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+          ],
+          "full_text": "ARTICLE 343\nHindi in Devanagari = official language of Union.\nInternational form of Indian numerals = official numeral form.\nEnglish transition period did not create an automatic 1965 switch-off.\n\nOFFICIAL LANGUAGES ACT 1963, AS AMENDED\nsection 3 continues English for Union official purposes and parliamentary business.\nsection 3(5) uses a high-consent legislative lock for specified discontinuance.\n\nARTICLE 344\nPresident's Commission at five years and ten years from commencement.\n30-member constitutional parliamentary committee: 20 Lok Sabha + 10 Rajya Sabha.\n\nDO NOT COLLAPSE\nArticle 344 committee != section 4 statutory Committee on Official Language."
+        },
+        {
+          "title": "1963 Act: continuation and consent lock",
+          "structural_type": "statutory-safeguard-ladder",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g3-source\\polity-40_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "SECTION 3\nEnglish continues in addition to Hindi for specified Union purposes and parliamentary business.\n\nCOMMUNICATION\nUnion to non-Hindi-official-language State -> English.\nHindi State to non-Hindi State in Hindi -> accompanying English translation.\n\nADMINISTRATIVE SAFEGUARDS\nsection 3(2) translation | 3(3) bilingual instruments\n| 3(4) efficiency, public interest and employee non-disadvantage.\n\nSECTION 3(5) LOCK\nall specified State Legislatures + Lok Sabha + Rajya Sabha.\nExecutive preference, one State or one House cannot discontinue the protected use."
+        },
+        {
+          "title": "Articles 345-347: State choice and intergovernmental communication",
+          "structural_type": "state-language-federal-tree",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+          ],
+          "full_text": "ARTICLE 345\nState Legislature may adopt one or more languages in use in the State, or Hindi.\nEnglish continues until State law otherwise provides within the constitutional frame.\n\nARTICLE 346\nUnion-State and inter-State communication follows the authorised Union language,\nsubject to agreement permitting Hindi between States.\n\nARTICLE 347\nPresident may recognise a language for specified State purposes on substantial-demand grounds.\n\nTRAPS\nEighth-Schedule inclusion is not a prerequisite for State official-language choice.\nArticle 347 is not automatic recognition or a general national-language declaration."
+        },
+        {
+          "title": "Articles 348-349: courts, judgments and authoritative texts",
+          "structural_type": "court-language-translation-gates",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 348 BASELINE\nEnglish for Supreme Court and High Court proceedings until Parliament provides otherwise.\nEnglish authoritative texts for Bills, Acts, ordinances, orders, rules and bye-laws.\n\nHIGH COURT PROCEEDINGS\nGovernor + previous presidential consent -> Hindi or State official language.\nArticle 348(2) expressly excludes judgments, decrees and orders.\n\nSECTION 7 ROUTE\nauthorised non-English High Court judgment/decree/order in addition to English\n-> High Court-authorised English translation.\n\nARTICLE 349\nhistorically time-bounded special procedure; not a routine present-day gate.\n\nLIMIT\nmachine or general-information translation is not automatically authoritative law."
+        },
+        {
+          "title": "Authoritative-text hierarchy across Constitution and statutes",
+          "structural_type": "authoritative-text-route-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g3-source\\polity-40_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "ENGLISH BASELINE\nArticle 348(1): court proceedings and authoritative legislative/delegated texts.\n\nHINDI ROUTES\n1963 Act section 5: authorised Hindi Central texts.\nsection 6: authorised Hindi State text in specified cases.\n\nOTHER SCHEDULED LANGUAGES\nAuthoritative Texts (Central Laws) Act 1973:\nPresidential authority + Official Gazette -> authoritative Central-law translation.\n\nHIGH COURT JUDGMENTS\nsection 7: authorised non-English judgment + High Court-authorised English translation.\n\nTRAP\ntranslation utility, including machine output, does not itself confer authority."
+        },
+        {
+          "title": "Articles 350, 350A, 350B and 351: access and development",
+          "structural_type": "access-minority-development-stack",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+          ],
+          "full_text": "ARTICLE 350\nrepresentation for grievance redress may use a language used in the Union or State.\n\nARTICLE 350A\nendeavour to provide mother-tongue instruction facilities at primary stage\nfor children belonging to linguistic-minority groups.\n\nARTICLE 350B\nSpecial Officer investigates safeguards -> reports to President\n-> laid before Parliament and sent to concerned State governments.\n\nARTICLE 351\nUnion duty to promote Hindi and develop it as a medium for India's composite culture,\ndrawing vocabulary principally from Sanskrit and secondarily from other languages.\n\nBALANCE\npromotion of Hindi operates with, not above, plural safeguards and federal consent."
+        },
+        {
+          "title": "1976 Rules: administrative routing",
+          "structural_type": "rules-routing-decision-tree",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g3-source\\polity-40_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "RULES 1976\nofficial portal shows amendments in 1987, 2007 and 2011; extent excludes Tamil Nadu.\n\nFIRST QUESTION\nCentral office to non-Central recipient -> Rule 3 and Region A/B/C.\nCentral office to Central office -> Rule 4.\n\nDOCUMENT CONTROLS\nreply to Hindi -> Hindi | section 3(3) documents -> Hindi + English.\napplications/file notes -> employee safeguards under Rules 7-8.\n\nCURRENT CAUTION\nA/B/C are administrative communication categories, not constitutional rankings.\nDo not silently modernise territorial names beyond the authoritative rule text."
+        },
+        {
+          "title": "Eighth Schedule and separate policy categories",
+          "structural_type": "language-category-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 16"
+          ],
+          "full_text": "EIGHTH SCHEDULE\n22 languages in the current official Constitution.\n14 original -> Sindhi -> Konkani/Manipuri/Nepali -> Bodo/Dogri/Maithili/Santhali\n-> Oriya renamed Odia.\n\nEFFECT\nconstitutional recognition and Article 344/351 relevance.\nNo automatic Union, State, court or school-medium status follows.\n\nCLASSICAL STATUS\nseparate Union executive recognition.\nOctober 2024 additions brought the official count then reported to eleven.\n\nTHREE-LANGUAGE FORMULA\neducation-policy framework with State implementation variation.\nIt is not a constitutional national-language command."
+        },
+        {
+          "title": "Language cases: competence, minority context and protected choice",
+          "structural_type": "case-doctrine-triangle",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 23"
+          ],
+          "full_text": "Gujarat University v. Shri Krishna (1963)\nmedium/language power must respect the Union-State education competence boundary.\n\nD.A.V. College v. State of Punjab (1971)\nlinguistic-minority safeguards require contextual constitutional analysis.\n\nState of Karnataka v. Associated Management (2014)\ncompulsory mother-tongue medium cannot override protected educational choice.\n\nDOCTRINAL TRIANGLE\nlegislative competence | speech/choice rights | linguistic-minority safeguards.\n\nLIMIT\nnone of these decisions declares a national language or erases Article 350A."
+        },
+        {
+          "title": "Federal accommodation, court access and translation technology",
+          "structural_type": "access-technology-balance",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 19",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 20"
+          ],
+          "full_text": "LEGITIMATE GOALS\nadministrative interoperability | citizen access | cultural recognition\n| judicial usability | educational inclusion.\n\nRISKS\nimposition | exclusion from employment/services | translation error\n| authoritative-text confusion | weak minority facilities | digital language divide.\n\nTECHNOLOGY CHAIN\nmultilingual intake -> translation/interpretation -> human legal review\n-> authority label -> version control -> accessible publication.\n\nFEDERAL METHOD\nconsent + capacity + phased implementation + reciprocal communication.\n\nLIMIT\npolicy targets, committee recommendations and software outputs do not amend Part XVII."
+        },
+        {
+          "title": "UPSC traps, verified PYQ and qualified answer synthesis",
+          "structural_type": "exam-language-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 21",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md#SESSION 23"
+          ],
+          "full_text": "PRELIMS FIREWALL\nofficial != national | 22 scheduled languages | Hindi script = Devanagari\n| numerals = international form | English continuation = statute\n| Article 348(2) excludes judgments | section 7 supplies separate route\n| Article 350 grievance right | 350A instruction facility | 350B Special Officer\n| classical and three-language categories are separate.\n\n2024 PRELIMS ROUTE\n21st, 71st and 92nd Amendment language additions.\n\nMAINS SPINE\nconstitutional compromise -> Part XVII -> 1963 Act\n-> State autonomy -> court/text hierarchy -> minority safeguards\n-> category distinctions -> access technology -> federal verdict.\n\nCONCLUSION\nmultilingual unity requires exact law, consent and authoritative parity."
+        }
+      ]
+    }
+  }
+}

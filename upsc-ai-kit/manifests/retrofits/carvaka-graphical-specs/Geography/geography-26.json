@@ -1,0 +1,1112 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-26",
+  "subject": "Geography",
+  "title": "WORLD POPULATION AND DEMOGRAPHIC TRANSITION",
+  "short_route": "POPULATION BALANCE EQUATION \u2192 DEMOGRAPHIC TRANSITION SPINE \u2192 POPULATION PYRAMID READING \u2192 DEPENDENCY TO DIVIDEND FORK \u2192 POPULATION-RESOURCE TRIANGLE \u2192 INDIA DEMOGRAPHIC TIMELINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-26_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-26-2026-09-01-sequential-g3.json",
+  "ascii_spec_sha256": "0986fdf4037a048540e1f78f9834eba0145b5475972a9848f5139f9b50f32cc4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POPULATION BALANCE EQUATION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POPULATION BALANCE EQUATION",
+          "role": "primary"
+        },
+        {
+          "text": "POPULATION AT T2",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULATION AT T1 + BIRTHS - DEATHS +/- MIGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TIME-SPECIFIC SNAPSHOT, NOT A CONTINUOUS LIVE COUNTER",
+          "role": "caution"
+        },
+        {
+          "text": "GROWTH RATE",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME OF ALL THREE COMPONENTS TOGETHER",
+          "role": "outcome"
+        },
+        {
+          "text": "BIRTH RATE ALONE CANNOT EXPLAIN TOTAL POPULATION CHANGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "POPULATION AT T2 = population at T1 + births - deaths +/- migration",
+        "CENSUS \u2192 time-specific snapshot, not a continuous live counter",
+        "GROWTH RATE \u2192 outcome of all three components together",
+        "TRAP \u2192 birth rate alone cannot explain total population change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "POPULATION AT T2 = population at T1 + births - deaths +/- migration",
+            "CENSUS \u2192 time-specific snapshot, not a continuous live counter"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GROWTH RATE \u2192 outcome of all three components together",
+            "TRAP \u2192 birth rate alone cannot explain total population change"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "POPULATION AT T2 = population at T1 + births - deaths +/- migration",
+            "CENSUS \u2192 time-specific snapshot, not a continuous live counter"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP \u2192 birth rate alone cannot explain total population change.",
+      "source_references": [
+        "Census snapshot rule",
+        "Vital-rate toolkit"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DEMOGRAPHIC TRANSITION SPINE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEMOGRAPHIC TRANSITION SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 1",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH BIRTH, HIGH DEATH, UNSTABLE GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "DEATH RATE FALLS FIRST, BIRTH STAYS HIGH",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILITY FALLS, GROWTH SLOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE 4/5",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAGE 1 \u2192 high birth, high death, unstable growth",
+        "STAGE 2 \u2192 death rate falls first, birth stays high",
+        "STAGE 3 \u2192 fertility falls, growth slows",
+        "STAGE 4/5 \u2192 low rates, then ageing or decline in some societies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STAGE 1 \u2192 high birth, high death, unstable growth",
+            "STAGE 2 \u2192 death rate falls first, birth stays high"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAGE 3 \u2192 fertility falls, growth slows",
+            "STAGE 4/5 \u2192 low rates, then ageing or decline in some societies"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STAGE 1 \u2192 high birth, high death, unstable growth",
+            "STAGE 2 \u2192 death rate falls first, birth stays high"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STAGE 4/5 \u2192 low rates, then ageing or decline in some societies.",
+      "source_references": [
+        "Mortality-first transition logic",
+        "Stage 1 and Stage 2 profile",
+        "Stage 3 to Stage 5 profile"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POPULATION PYRAMID READING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POPULATION PYRAMID READING",
+          "role": "primary"
+        },
+        {
+          "text": "BROAD BASE, YOUTHFUL AGE STRUCTURE, HIGH FERTILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERATED BASE AND FULLER MIDDLE, SLOWER GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "NARROW BASE AND WIDER UPPER AGES, AGEING TREND",
+          "role": "evidence"
+        },
+        {
+          "text": "READING RULE",
+          "role": "primary"
+        },
+        {
+          "text": "SHAPE, DEPENDENCY AND LABOUR SUPPLY MOVE TOGETHER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "EXPANSIVE \u2192 broad base, youthful age structure, high fertility",
+        "STATIONARY \u2192 moderated base and fuller middle, slower growth",
+        "CONSTRICTIVE \u2192 narrow base and wider upper ages, ageing trend",
+        "READING RULE \u2192 shape, dependency and labour supply move together"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "EXPANSIVE \u2192 broad base, youthful age structure, high fertility",
+          "CONSTRICTIVE \u2192 narrow base and wider upper ages, ageing trend",
+          "EXPANSIVE \u2192 broad base, youthful age structure, high fertility"
+        ],
+        [
+          "STATIONARY \u2192 moderated base and fuller middle, slower growth",
+          "READING RULE \u2192 shape, dependency and labour supply move together",
+          "STATIONARY \u2192 moderated base and fuller middle, slower growth"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EXPANSIVE \u2192 broad base, youthful age structure, high fertility",
+            "STATIONARY \u2192 moderated base and fuller middle, slower growth"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTRICTIVE \u2192 narrow base and wider upper ages, ageing trend",
+            "READING RULE \u2192 shape, dependency and labour supply move together"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "EXPANSIVE \u2192 broad base, youthful age structure, high fertility",
+            "STATIONARY \u2192 moderated base and fuller middle, slower growth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING RULE \u2192 shape, dependency and labour supply move together.",
+      "source_references": [
+        "Population pyramid types",
+        "Dependency and dividend condition"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DEPENDENCY TO DIVIDEND FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEPENDENCY TO DIVIDEND FORK",
+          "role": "primary"
+        },
+        {
+          "text": "WORKING-AGE SHARE RISES",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENCY RATIO CAN FALL",
+          "role": "comparison"
+        },
+        {
+          "text": "IF HEALTH + EDUCATION + SKILLS + JOBS IMPROVE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVIDEND WINDOW",
+          "role": "primary"
+        },
+        {
+          "text": "IF LABOUR ABSORPTION FAILS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNEMPLOYMENT AND INFORMALITY RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOGRAPHY GIVES POTENTIAL, INSTITUTIONS DECIDE THE OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WORKING-AGE SHARE RISES \u2192 dependency ratio can fall",
+        "IF health + education + skills + jobs improve \u2192 dividend window",
+        "IF labour absorption fails \u2192 unemployment and informality rise",
+        "VERDICT \u2192 demography gives potential, institutions decide the outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WORKING-AGE SHARE RISES \u2192 dependency ratio can fall",
+            "IF health + education + skills + jobs improve \u2192 dividend window"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IF labour absorption fails \u2192 unemployment and informality rise",
+            "VERDICT \u2192 demography gives potential, institutions decide the outcome"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WORKING-AGE SHARE RISES \u2192 dependency ratio can fall",
+            "IF health + education + skills + jobs improve \u2192 dividend window"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT \u2192 demography gives potential, institutions decide the outcome.",
+      "source_references": [
+        "Dependency and dividend condition",
+        "Ageing with momentum"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "POPULATION-RESOURCE TRIANGLE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POPULATION-RESOURCE TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "TOO FEW PEOPLE TO USE RESOURCES FULLY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE LOWERS LIVING STANDARDS AND EMPLOYMENT QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIMUM POPULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "RELATIVE BALANCE OF PEOPLE, RESOURCES AND TECHNOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "SHIFT RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNOLOGY, TRADE AND INSTITUTIONS CAN MOVE THE OPTIMUM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "UNDER-POPULATION \u2192 too few people to use resources fully",
+        "OVER-POPULATION \u2192 pressure lowers living standards and employment quality",
+        "OPTIMUM POPULATION \u2192 relative balance of people, resources and technology",
+        "SHIFT RULE \u2192 technology, trade and institutions can move the optimum"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "UNDER-POPULATION \u2192 too few people to use resources fully",
+          "OPTIMUM POPULATION \u2192 relative balance of people, resources and technology",
+          "UNDER-POPULATION \u2192 too few people to use resources fully"
+        ],
+        [
+          "OVER-POPULATION \u2192 pressure lowers living standards and employment quality",
+          "SHIFT RULE \u2192 technology, trade and institutions can move the optimum",
+          "OVER-POPULATION \u2192 pressure lowers living standards and employment quality"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "UNDER-POPULATION \u2192 too few people to use resources fully",
+            "OVER-POPULATION \u2192 pressure lowers living standards and employment quality"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPTIMUM POPULATION \u2192 relative balance of people, resources and technology",
+            "SHIFT RULE \u2192 technology, trade and institutions can move the optimum"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "UNDER-POPULATION \u2192 too few people to use resources fully",
+            "OVER-POPULATION \u2192 pressure lowers living standards and employment quality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHIFT RULE \u2192 technology, trade and institutions can move the optimum.",
+      "source_references": [
+        "Over-under-optimum population",
+        "Optimum population shifts"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIA DEMOGRAPHIC TIMELINE",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIA DEMOGRAPHIC TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "STAGNATION UNDER HIGH BIRTH AND HIGH DEATH RATES",
+          "role": "outcome"
+        },
+        {
+          "text": "STEADY GROWTH AFTER THE TURNING POINT",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULATION EXPLOSION AS MORTALITY FALLS SHARPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "SLOWING GROWTH AS FERTILITY DECLINE DEEPENS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1901-1921 \u2192 stagnation under high birth and high death rates",
+        "1921-1951 \u2192 steady growth after the turning point",
+        "1951-1981 \u2192 population explosion as mortality falls sharply",
+        "1981-2011 \u2192 slowing growth as fertility decline deepens"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "1901-1921 \u2192 stagnation under high birth and high death rates",
+            "1921-1951 \u2192 steady growth after the turning point"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1951-1981 \u2192 population explosion as mortality falls sharply",
+            "1981-2011 \u2192 slowing growth as fertility decline deepens"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "1901-1921 \u2192 stagnation under high birth and high death rates",
+            "1921-1951 \u2192 steady growth after the turning point"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "1951-1981 \u2192 population explosion as mortality falls sharply",
+            "1981-2011 \u2192 slowing growth as fertility decline deepens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1981-2011 \u2192 slowing growth as fertility decline deepens.",
+      "source_references": [
+        "India 1901-1921 stagnation",
+        "India 1921 turning point",
+        "India 1951-1981 explosion",
+        "India 1981-2011 slowdown"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA DATA-SOURCE FIREWALL",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA DATA-SOURCE FIREWALL",
+          "role": "evidence"
+        },
+        {
+          "text": "CENSUS 2011",
+          "role": "outcome"
+        },
+        {
+          "text": "1.21 BILLION TOTAL; SEX RATIO 943; LITERACY 74.04%",
+          "role": "comparison"
+        },
+        {
+          "text": "SRS 2022",
+          "role": "evidence"
+        },
+        {
+          "text": "TFR 2.0; FERTILITY ANCHOR, NOT CENSUS COUNT",
+          "role": "caution"
+        },
+        {
+          "text": "UN WPP 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "MID-2024 ESTIMATE ABOUT 1.45 BILLION PROJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP INSTRUMENT, DATE AND STATUS LABEL ATTACHED TO EVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENSUS 2011 \u2192 1.21 billion total; sex ratio 943; literacy 74.04%",
+        "SRS 2022 / NFHS-5 \u2192 TFR 2.0; fertility anchor, not census count",
+        "UN WPP 2024 \u2192 mid-2024 estimate about 1.45 billion projection",
+        "RULE \u2192 keep instrument, date and status label attached to every figure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CENSUS 2011 \u2192 1.21 billion total; sex ratio 943; literacy 74.04%",
+            "SRS 2022 / NFHS-5 \u2192 TFR 2.0; fertility anchor, not census count"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UN WPP 2024 \u2192 mid-2024 estimate about 1.45 billion projection",
+            "RULE \u2192 keep instrument, date and status label attached to every figure"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "CENSUS 2011 \u2192 1.21 billion total; sex ratio 943; literacy 74.04%",
+            "SRS 2022 / NFHS-5 \u2192 TFR 2.0; fertility anchor, not census count"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "UN WPP 2024 \u2192 mid-2024 estimate about 1.45 billion projection",
+            "RULE \u2192 keep instrument, date and status label attached to every figure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE \u2192 keep instrument, date and status label attached to every figure.",
+      "source_references": [
+        "Census 2011 total",
+        "Census 2011 social indicators",
+        "SRS-NFHS fertility anchor",
+        "UN 2024 projection boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "KERALA-EAG CONTRAST RAIL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KERALA-EAG CONTRAST RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY FERTILITY DECLINE, HIGHER LITERACY, LATER-AGEING PRESSURES",
+          "role": "caution"
+        },
+        {
+          "text": "EAG STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE YOUTHFUL STRUCTURES AND SLOWER TRANSITION TIMING",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL AVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HIDES STAGGERED STATE-LEVEL TRANSITION STAGES",
+          "role": "institution"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA CONTAINS EARLY, MIDDLE AND LATE TRANSITION SPACES TOGETHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KERALA \u2192 early fertility decline, higher literacy, later-ageing pressures",
+        "EAG STATES \u2192 more youthful structures and slower transition timing",
+        "NATIONAL AVERAGE \u2192 hides staggered state-level transition stages",
+        "EXAM USE \u2192 India contains early, middle and late transition spaces together"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "KERALA \u2192 early fertility decline, higher literacy, later-ageing pressures",
+          "NATIONAL AVERAGE \u2192 hides staggered state-level transition stages",
+          "KERALA \u2192 early fertility decline, higher literacy, later-ageing pressures"
+        ],
+        [
+          "EAG STATES \u2192 more youthful structures and slower transition timing",
+          "EXAM USE \u2192 India contains early, middle and late transition spaces together",
+          "EAG STATES \u2192 more youthful structures and slower transition timing"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "KERALA \u2192 early fertility decline, higher literacy, later-ageing pressures",
+            "EAG STATES \u2192 more youthful structures and slower transition timing"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NATIONAL AVERAGE \u2192 hides staggered state-level transition stages",
+            "EXAM USE \u2192 India contains early, middle and late transition spaces together"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "KERALA \u2192 early fertility decline, higher literacy, later-ageing pressures",
+            "EAG STATES \u2192 more youthful structures and slower transition timing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM USE \u2192 India contains early, middle and late transition spaces together.",
+      "source_references": [
+        "Kerala-EAG contrast",
+        "Ageing with momentum"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AGEING WITH POPULATION MOMENTUM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGEING WITH POPULATION MOMENTUM",
+          "role": "primary"
+        },
+        {
+          "text": "REPLACEMENT-LEVEL TFR",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES NOT STOP GROWTH IMMEDIATELY",
+          "role": "caution"
+        },
+        {
+          "text": "YOUNG COHORT BULGE",
+          "role": "evidence"
+        },
+        {
+          "text": "POPULATION MOMENTUM KEEPS TOTALS RISING",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY-TRANSITION STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD-AGE BURDEN APPEARS SOONER",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE-TRANSITION STATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REPLACEMENT-LEVEL TFR \u2192 does not stop growth immediately",
+        "YOUNG COHORT BULGE \u2192 population momentum keeps totals rising",
+        "EARLY-TRANSITION STATES \u2192 old-age burden appears sooner",
+        "LATE-TRANSITION STATES \u2192 youth bulge and migration pressure persist longer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "REPLACEMENT-LEVEL TFR \u2192 does not stop growth immediately",
+            "YOUNG COHORT BULGE \u2192 population momentum keeps totals rising"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EARLY-TRANSITION STATES \u2192 old-age burden appears sooner",
+            "LATE-TRANSITION STATES \u2192 youth bulge and migration pressure persist longer"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "REPLACEMENT-LEVEL TFR \u2192 does not stop growth immediately",
+            "YOUNG COHORT BULGE \u2192 population momentum keeps totals rising"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATE-TRANSITION STATES \u2192 youth bulge and migration pressure persist longer.",
+      "source_references": [
+        "SRS-NFHS fertility anchor",
+        "Ageing with momentum"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SEX RATIO INTERPRETATION RULE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEX RATIO INTERPRETATION RULE",
+          "role": "primary"
+        },
+        {
+          "text": "SEX RATIO",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAPED BY BIRTHS, MORTALITY AND MIGRATION TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "LABOUR MIGRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CAN SKEW ALL-AGE RATIOS WITHOUT CHANGING BIRTHS",
+          "role": "primary"
+        },
+        {
+          "text": "CHILD SEX RATIO",
+          "role": "outcome"
+        },
+        {
+          "text": "ISOLATES A DIFFERENT PART OF THE DEMOGRAPHIC PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFE ANSWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEX RATIO \u2192 shaped by births, mortality and migration together",
+        "LABOUR MIGRATION \u2192 can skew all-age ratios without changing births",
+        "CHILD SEX RATIO \u2192 isolates a different part of the demographic problem",
+        "SAFE ANSWER \u2192 define the measure before comparing regions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SEX RATIO \u2192 shaped by births, mortality and migration together",
+            "LABOUR MIGRATION \u2192 can skew all-age ratios without changing births"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHILD SEX RATIO \u2192 isolates a different part of the demographic problem",
+            "SAFE ANSWER \u2192 define the measure before comparing regions"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SEX RATIO \u2192 shaped by births, mortality and migration together",
+            "LABOUR MIGRATION \u2192 can skew all-age ratios without changing births"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE ANSWER \u2192 define the measure before comparing regions.",
+      "source_references": [
+        "Vital-rate toolkit",
+        "Census 2011 social indicators"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WORLD DIVERGENCE UNDER ONE MODEL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WORLD DIVERGENCE UNDER ONE MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "SUB-SAHARAN AFRICA",
+          "role": "outcome"
+        },
+        {
+          "text": "YOUTHFUL, HIGH-GROWTH STRUCTURES REMAIN COMMON",
+          "role": "comparison"
+        },
+        {
+          "text": "EAST ASIA",
+          "role": "evidence"
+        },
+        {
+          "text": "LOW FERTILITY, AGEING AND LABOUR SHORTAGE CONCERNS",
+          "role": "primary"
+        },
+        {
+          "text": "DIVIDEND WINDOW PLUS INTERNAL DIVERGENCE AT THE SAME TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE TRANSITION MODEL YIELDS VERY DIFFERENT POLICY PROBLEMS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SUB-SAHARAN AFRICA \u2192 youthful, high-growth structures remain common",
+        "EUROPE / EAST ASIA \u2192 low fertility, ageing and labour shortage concerns",
+        "INDIA \u2192 dividend window plus internal divergence at the same time",
+        "LESSON \u2192 one transition model yields very different policy problems"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "SUB-SAHARAN AFRICA \u2192 youthful, high-growth structures remain common",
+          "INDIA \u2192 dividend window plus internal divergence at the same time",
+          "SUB-SAHARAN AFRICA \u2192 youthful, high-growth structures remain common"
+        ],
+        [
+          "EUROPE / EAST ASIA \u2192 low fertility, ageing and labour shortage concerns",
+          "LESSON \u2192 one transition model yields very different policy problems",
+          "EUROPE / EAST ASIA \u2192 low fertility, ageing and labour shortage concerns"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SUB-SAHARAN AFRICA \u2192 youthful, high-growth structures remain common",
+            "EUROPE / EAST ASIA \u2192 low fertility, ageing and labour shortage concerns"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIA \u2192 dividend window plus internal divergence at the same time",
+            "LESSON \u2192 one transition model yields very different policy problems"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SUB-SAHARAN AFRICA \u2192 youthful, high-growth structures remain common",
+            "EUROPE / EAST ASIA \u2192 low fertility, ageing and labour shortage concerns"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON \u2192 one transition model yields very different policy problems.",
+      "source_references": [
+        "Stage 3 to Stage 5 profile",
+        "Ageing with momentum"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "POPULATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "POPULATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "INDICATOR, CENSUS OR SURVEY, AND WHAT EXACTLY IS BEING",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSITION STAGE, PYRAMID SHAPE AND DEPENDENCY CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "WORLD CONTRAST PLUS KERALA-EAG OR OTHER STATE DIVERGENCE",
+          "role": "institution"
+        },
+        {
+          "text": "PROJECTION VERSUS CENSUS, DIVIDEND VERSUS MOMENTUM, NO FABRICATED PYQ",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 indicator, census or survey, and what exactly is being measured",
+        "ORDER \u2192 transition stage, pyramid shape and dependency condition",
+        "LOCATE \u2192 world contrast plus Kerala-EAG or other state divergence",
+        "QUALIFY \u2192 projection versus census, dividend versus momentum, no fabricated PYQ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 indicator, census or survey, and what exactly is being measured",
+            "ORDER \u2192 transition stage, pyramid shape and dependency condition"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOCATE \u2192 world contrast plus Kerala-EAG or other state divergence",
+            "QUALIFY \u2192 projection versus census, dividend versus momentum, no fabricated PYQ"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 indicator, census or survey, and what exactly is being measured",
+            "ORDER \u2192 transition stage, pyramid shape and dependency condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY \u2192 projection versus census, dividend versus momentum, no fabricated PYQ.",
+      "source_references": [
+        "Population geography baseline",
+        "Kerala-EAG contrast",
+        "UN 2024 projection boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTHERN AND SOME WESTERN STATES MOVED EARLIER TOWARDS LOWER",
+          "role": "outcome"
+        },
+        {
+          "text": "SEVERAL EAG OR HISTORICALLY LAGGING STATES RETAINED YOUTHFUL AGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LONGER, WHICH KEPT NATIONAL MOMENTUM HIGH EVEN AS ALL-INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "THEREFORE INDIA SIMULTANEOUSLY CONTAINS AGEING POCKETS , REPLACEMENT-LEVEL STATES",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICE OF THE REGISTRAR GENERAL AND CENSUS COMMISSIONER, INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENSUS AND SRS.",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "CAUTION: Southern and some western states moved earlier towards lower fertility, better female literacy and slower growth.",
+            "CAUTION: Several EAG or historically lagging states retained youthful age structures for",
+            "longer, which kept national momentum high even as all-India fertility fell.",
+            "CAUTION: Therefore India simultaneously contains ageing pockets , replacement-level states , and youth-bulge states ."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Office of the Registrar General and Census Commissioner, India : Census and SRS.",
+            "Ministry of Health and Family Welfare : NFHS.",
+            "UN DESA Population Division : World Population Prospects for dated international comparison.",
+            "CAUTION: In Mains, naming the source often upgrades credibility more than adding an unverified number."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "1921 is widely treated as India's demographic turning point.",
+            "India has reached replacement-level fertility at the national scale in recent official estimates, but not uniformly across all states.",
+            "The last completed Census is 2011.",
+            "Census, SRS and NFHS answer different questions and should not be mixed casually."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

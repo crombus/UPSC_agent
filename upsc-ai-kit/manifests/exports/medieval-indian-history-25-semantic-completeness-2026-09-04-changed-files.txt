@@ -1,0 +1,106 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\medieval-indian-history-25-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-25\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-25\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-25\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-25\medieval-indian-history-25-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-25\medieval-indian-history-25-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-25\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\25-Decline-of-the-42d09116-Eighteenth-Century\README.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-25\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\medieval-indian-history-25_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\validation\workbook-visual-audit-map.json
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\00_00_cover.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\01_01_periodisation_scope.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\02_02_source_method_wheel.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\03_03_historiography_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\04_04_succession_wizarat_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\05_05_decline_causation_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\06_06_jama_hasil_paibaqi_bejagiri.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\07_07_jagirdari_feedback_loop.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\08_08_deccan_exhaustion_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\09_09_noble_factionalism.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\10_10_zamindar_resistance_spectrum.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\11_11_centre_region_spectrum.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\12_12_successor_state_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\13_13_bengal_revenue_schematic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\14_14_awadh_accommodation_schematic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\15_15_hyderabad_subedari_schematic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\16_16_jats_sikhs_marathas_snapshot.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\17_17_maratha_fiscal_claim.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\18_18_nadir_shah_route.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\19_19_nadir_shah_causes_consequences.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\20_20_abdali_invasions_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\21_21_panipat_coalition_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\22_22_panipat_causes_aftermath.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\23_23_fragmentation_vs_continuity.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\24_24_trade_credit_craft.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\25_25_cultural_patronage.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\26_26_non_inevitability_tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\27_27_topic_boundary_bridge.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\28_28_teleology_caution.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\29_29_pyq_route_panel.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\30_30_fact_risk_ledger.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\31_31_answer_spine_10.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\32_32_answer_spine_15.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\33_33_answer_spine_20.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\34_34_upsc_traps_grid.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\35_35_rapid_recall.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\assets\medieval-indian-history-25_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\medieval-indian-history-25_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-25\g5\medieval-indian-history-25_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\25_Decline-of-the-Mughal-Empire.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-1-4120c9245b77-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-1-4120c9245b77.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-25-learner-v2-g5-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-25-learner-v2-g5-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-25-semantic-completeness-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\medieval-indian-history-25-semantic-validation-2026-09-04.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\medieval-indian-history-25-deep-review-2026-09-04-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Medieval-Indian-History\deep-review\medieval-indian-history-25-g5.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\25-mughal-decline-eighteenth-century-semantic-completeness-review-2026-09-04.md
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus-content-specs\medieval-indian-history-25-g5.json
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

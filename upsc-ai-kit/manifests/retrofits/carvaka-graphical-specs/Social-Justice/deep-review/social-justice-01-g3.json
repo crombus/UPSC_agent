@@ -1,0 +1,1147 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-01",
+  "subject": "Social-Justice",
+  "title": "SOCIAL JUSTICE, INCLUSION AND WELFARE-STATE FRAMEWORK",
+  "short_route": "THREE DIMENSIONS OF JUSTICE → EQUALITY LADDER → CONSTITUTIONAL ANCHOR → CAPABILITY STANDARD → AUTHORITIES BANK → SOCIAL PROTECTION FLOOR CARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-01-deep-review-2026-09-03-g3.json",
+  "ascii_spec_sha256": "69875ea9e5eb906241e3c20cfca8bf67ea097c512023d34576000db828e895c9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE DIMENSIONS OF JUSTICE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE DIMENSIONS OF JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "WHO RECEIVES WHAT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFERS, RESERVATION, SERVICES, SOCIAL SECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW IS THE HARM UNDONE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPENSATION, REHABILITATION, PENALTY, RESTORATION",
+          "role": "primary"
+        },
+        {
+          "text": "WHOSE PERSONHOOD IS DENIED",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-DISCRIMINATION LAW, REPRESENTATION, DIGNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MOST VULNERABLE-GROUP POLICY NEEDS ALL THREE; FAILURE IN ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTRIBUTIVE → who receives what: transfers, reservation, services, social security",
+        "CORRECTIVE → how is the harm undone: compensation, rehabilitation, penalty, restoration",
+        "RECOGNITIVE → whose personhood is denied: anti-discrimination law, representation, dignity",
+        "RULE → most vulnerable-group policy needs all three; failure in one perpetuates injustice",
+        "MUST REMEMBER: Social justice joins equal citizenship, redistribution, recognition"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DISTRIBUTIVE → who receives what: transfers, reservation, services, social security",
+          "RECOGNITIVE → whose personhood is denied: anti-discrimination law, representation, dignity",
+          "MUST REMEMBER: Social justice joins equal citizenship, redistribution, recognition,..."
+        ],
+        [
+          "CORRECTIVE → how is the harm undone: compensation, rehabilitation, penalty, restoration",
+          "RULE → most vulnerable-group policy needs all three; failure in one perpetuates injustice",
+          "DISTRIBUTIVE → who receives what: transfers, reservation, services, social security"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISTRIBUTIVE → who receives what: transfers, reservation, services, social security",
+            "CORRECTIVE → how is the harm undone: compensation, rehabilitation, penalty, restoration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECOGNITIVE → whose personhood is denied: anti-discrimination law, representation, dignity",
+            "RULE → most vulnerable-group policy needs all three; failure in one perpetuates injustice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Social justice joins equal citizenship, redistribution, recognition,...",
+            "DISTRIBUTIVE → who receives what: transfers, reservation, services, social security"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → most vulnerable-group policy needs all three; failure in one perpetuates injustice.",
+      "source_references": [
+        "Distributive justice and what it asks",
+        "Corrective justice and what it asks",
+        "Recognitive justice and what it asks",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EQUALITY LADDER",
+      "structural_type": "process-flow",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EQUALITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL EQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME RULE FOR ALL; STRUCTURAL DISADVANTAGE SURVIVES THE RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTANTIVE EQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVATION, TARGETED TRANSFERS, SPECIAL PROVISIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CAPABILITY EQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DID THE SUPPORT EXPAND WHAT A PERSON CAN DO",
+          "role": "comparison"
+        },
+        {
+          "text": "INPUT DELIVERED IS NOT THE SAME CLAIM AS CAPABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FORMAL EQUALITY → same rule for all; structural disadvantage survives the rule",
+        "SUBSTANTIVE EQUALITY: reservation, targeted transfers, special provisions",
+        "CAPABILITY EQUALITY: did the support expand what a person can do and be",
+        "TEST → input delivered is not the same claim as capability expanded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORMAL EQUALITY → same rule for all; structural disadvantage survives the rule",
+            "SUBSTANTIVE EQUALITY: reservation, targeted transfers, special provisions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPABILITY EQUALITY: did the support expand what a person can do and be",
+            "TEST → input delivered is not the same claim as capability expanded"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FORMAL EQUALITY → same rule for all; structural disadvantage survives the rule",
+            "SUBSTANTIVE EQUALITY: reservation, targeted transfers, special provisions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORMAL EQUALITY → same rule for all; structural disadvantage survives the rule.",
+      "source_references": [
+        "Formal equality, substantive equality and capability equality",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONSTITUTIONAL ANCHOR",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL ANCHOR",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIALIST REPUBLIC; JUSTICE SOCIAL, ECONOMIC AND POLITICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IV",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 38, 39, 41 TO 43, 46 TO 47",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 46",
+          "role": "institution"
+        },
+        {
+          "text": "EDUCATIONAL AND ECONOMIC INTERESTS OF SCS, STS AND WEAKER",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT DIRECTLY JUSTICIABLE; INTERPRETIVE AID, RECORDED WITH MINERVA MILLS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREAMBLE → socialist republic; justice social, economic and political",
+        "PART IV → Articles 38, 39, 41 to 43, 46 to 47 direct the welfare",
+        "ARTICLE 46 → educational and economic interests of SCs, STs and weaker sections",
+        "LIMIT → not directly justiciable; interpretive aid, recorded with Minerva Mills 1980"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PREAMBLE → socialist republic; justice social, economic and political",
+            "PART IV → Articles 38, 39, 41 to 43, 46 to 47 direct the welfare state"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 46 → educational and economic interests of SCs, STs and weaker sections",
+            "LIMIT → not directly justiciable; interpretive aid, recorded with Minerva Mills 1980"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PREAMBLE → socialist republic; justice social, economic and political",
+            "PART IV → Articles 38, 39, 41 to 43, 46 to 47 direct the welfare state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → not directly justiciable; interpretive aid, recorded with Minerva Mills 1980.",
+      "source_references": [
+        "The welfare state as the institutional vehicle in the Indian Constitution",
+        "Multi-dimensional Indian applications and the boundary case",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CAPABILITY STANDARD",
+      "structural_type": "root-axes",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CAPABILITY STANDARD",
+          "role": "primary"
+        },
+        {
+          "text": "ACHIEVED STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "BEING NOURISHED, BEING HEALTHY, BEING LITERATE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE REAL FREEDOMS TO ACHIEVE THOSE STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "OPEN-ENDED FRAMEWORK; SPECIFICATION LEFT TO PUBLIC REASONING",
+          "role": "primary"
+        },
+        {
+          "text": "TEN CENTRAL CAPABILITIES AS A THRESHOLD A JUST SOCIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL INCOME YIELDS UNEQUAL CAPABILITY ACROSS HEALTH AND EXCLUSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FUNCTIONINGS → achieved states: being nourished, being healthy, being literate",
+        "CAPABILITIES → the real freedoms to achieve those states",
+        "SEN → open-ended framework; specification left to public reasoning",
+        "NUSSBAUM → ten central capabilities as a threshold a just society must secure",
+        "CONSEQUENCE → equal income yields unequal capability across health and exclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FUNCTIONINGS → achieved states: being nourished, being healthy, being literate",
+            "CAPABILITIES → the real freedoms to achieve those states"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEN → open-ended framework; specification left to public reasoning",
+            "NUSSBAUM → ten central capabilities as a threshold a just society must secure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → equal income yields unequal capability across health and exclusion",
+            "FUNCTIONINGS → achieved states: being nourished, being healthy, being literate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → equal income yields unequal capability across health and exclusion.",
+      "source_references": [
+        "Functionings and capabilities in Amartya Sen's framework",
+        "Nussbaum's central capabilities as a threshold specification",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AUTHORITIES BANK",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AUTHORITIES BANK",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENCE PRINCIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "INEQUALITY JUST ONLY IF IT BENEFITS THE LEAST ADVANTAGED",
+          "role": "comparison"
+        },
+        {
+          "text": "FAIR EQUALITY OF OPPORTUNITY AS THE COMPANION STANDARD",
+          "role": "evidence"
+        },
+        {
+          "text": "REDISTRIBUTION, RECOGNITION AND REPRESENTATION; MISRECOGNITION BLOCKS DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "WARNING AGAINST POLITICAL EQUALITY AMID SOCIAL AND ECONOMIC INEQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNITION CANNOT SUBSTITUTE FOR SERVICES, ASSETS AND EMPLOYMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RAWLS → difference principle: inequality just only if it benefits the least advantaged",
+        "RAWLS → fair equality of opportunity as the companion standard",
+        "FRASER → redistribution, recognition and representation; misrecognition blocks distribution",
+        "AMBEDKAR → warning against political equality amid social and economic inequality",
+        "QUALIFY → recognition cannot substitute for services, assets and employment"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RAWLS → difference principle: inequality just only if it benefits the least advantaged",
+          "FRASER → redistribution, recognition and representation; misrecognition blocks distribution",
+          "QUALIFY → recognition cannot substitute for services, assets and employment"
+        ],
+        [
+          "RAWLS → fair equality of opportunity as the companion standard",
+          "AMBEDKAR → warning against political equality amid social and economic inequality",
+          "RAWLS → difference principle: inequality just only if it benefits the least advantaged"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAWLS → difference principle: inequality just only if it benefits the least advantaged",
+            "RAWLS → fair equality of opportunity as the companion standard"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRASER → redistribution, recognition and representation; misrecognition blocks distribution",
+            "AMBEDKAR → warning against political equality amid social and economic inequality"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → recognition cannot substitute for services, assets and employment",
+            "RAWLS → difference principle: inequality just only if it benefits the least advantaged"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → recognition cannot substitute for services, assets and employment.",
+      "source_references": [
+        "Rawls's difference principle as a distributive standard",
+        "Fraser's triad and Ambedkar's warning about political equality",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOCIAL PROTECTION FLOOR CARD",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOCIAL PROTECTION FLOOR CARD",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL PROTECTION FLOORS RECOMMENDATION, 2012, NO. 202",
+          "role": "caution"
+        },
+        {
+          "text": "GUARANTEE 1",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESS TO ESSENTIAL HEALTH CARE, INCLUDING MATERNITY CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "GUARANTEE 2",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC INCOME SECURITY FOR CHILDREN",
+          "role": "outcome"
+        },
+        {
+          "text": "NUTRITION, EDUCATION AND CARE",
+          "role": "comparison"
+        },
+        {
+          "text": "GUARANTEE 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INSTRUMENT → Social Protection Floors Recommendation, 2012, No. 202",
+        "GUARANTEE 1 → access to essential health care, including maternity care",
+        "GUARANTEE 2 → basic income security for children: nutrition, education and care",
+        "GUARANTEE 3 → basic income security in active age: sickness, unemployment, maternity, disability",
+        "GUARANTEE 4 → basic income security for older persons"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INSTRUMENT → Social Protection Floors Recommendation, 2012, No. 202",
+            "GUARANTEE 1 → access to essential health care, including maternity care"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GUARANTEE 2 → basic income security for children: nutrition, education and care",
+            "GUARANTEE 3 → basic income security in active age: sickness, unemployment, maternity, disability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GUARANTEE 4 → basic income security for older persons",
+            "STATUS → a Recommendation, not a ratified Convention; no self-executing domestic duty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → a Recommendation, not a ratified Convention; no self-executing domestic duty.",
+      "source_references": [
+        "ILO Recommendation 202 and the social protection floor",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "UNIVERSALISM AGAINST TARGETING",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "UNIVERSALISM AGAINST TARGETING",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER STIGMA, LOWER EXCLUSION ERROR, HIGHER COST, HIGHER INCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCENTRATED RESOURCES, DOCUMENTATION BARRIERS, IDENTIFICATION DISPUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "ERROR PAIR",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUSION ERROR IS LEAKAGE; EXCLUSION ERROR IS THE ELIGIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIVERSAL BASIC SERVICES LAYERED ON TARGETED TRANSFERS AND RESERVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "A PROMISE TO END LEAKAGE MUST STATE ITS EXCLUSION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "UNIVERSALISM → lower stigma, lower exclusion error, higher cost, higher inclusion error",
+        "TARGETING → concentrated resources, documentation barriers, identification disputes",
+        "ERROR PAIR → inclusion error is leakage; exclusion error is the eligible left out",
+        "INDIAN PRACTICE → universal basic services layered on targeted transfers and reservation",
+        "RULE → a promise to end leakage must state its exclusion consequence"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "UNIVERSALISM → lower stigma, lower exclusion error, higher cost, higher inclusion error",
+          "ERROR PAIR → inclusion error is leakage; exclusion error is the eligible left out",
+          "RULE → a promise to end leakage must state its exclusion consequence"
+        ],
+        [
+          "TARGETING → concentrated resources, documentation barriers, identification disputes",
+          "INDIAN PRACTICE → universal basic services layered on targeted transfers and reservation",
+          "UNIVERSALISM → lower stigma, lower exclusion error, higher cost, higher inclusion error"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNIVERSALISM → lower stigma, lower exclusion error, higher cost, higher inclusion error",
+            "TARGETING → concentrated resources, documentation barriers, identification disputes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ERROR PAIR → inclusion error is leakage; exclusion error is the eligible left out",
+            "INDIAN PRACTICE → universal basic services layered on targeted transfers and reservation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a promise to end leakage must state its exclusion consequence",
+            "UNIVERSALISM → lower stigma, lower exclusion error, higher cost, higher inclusion error"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a promise to end leakage must state its exclusion consequence.",
+      "source_references": [
+        "Universalism against targeting as a design choice",
+        "Inclusion error against exclusion error",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EQUITY TYPES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EQUITY TYPES",
+          "role": "primary"
+        },
+        {
+          "text": "HORIZONTAL EQUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUALS TREATED EQUALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "VERTICAL EQUITY",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEQUALS TREATED UNEQUALLY IN PROPORTION TO DISADVANTAGE",
+          "role": "primary"
+        },
+        {
+          "text": "AFFIRMATIVE ACTION OPERATIONALISES VERTICAL EQUITY, NOT A BREACH OF",
+          "role": "caution"
+        },
+        {
+          "text": "VERTICAL EQUITY NEEDS A DEFENSIBLE MEASURE OF DISADVANTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "CREAMY-LAYER EXCLUSION SHOWS TARGETING INSIDE AFFIRMATIVE ACTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HORIZONTAL EQUITY → equals treated equally",
+        "VERTICAL EQUITY → unequals treated unequally in proportion to disadvantage",
+        "APPLICATION → affirmative action operationalises vertical equity, not a breach of equality",
+        "CONDITION → vertical equity needs a defensible measure of disadvantage",
+        "BOUNDARY → creamy-layer exclusion shows targeting inside affirmative action"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HORIZONTAL EQUITY → equals treated equally",
+          "APPLICATION → affirmative action operationalises vertical equity, not a breach of equality",
+          "BOUNDARY → creamy-layer exclusion shows targeting inside affirmative action"
+        ],
+        [
+          "VERTICAL EQUITY → unequals treated unequally in proportion to disadvantage",
+          "CONDITION → vertical equity needs a defensible measure of disadvantage",
+          "HORIZONTAL EQUITY → equals treated equally"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HORIZONTAL EQUITY → equals treated equally",
+            "VERTICAL EQUITY → unequals treated unequally in proportion to disadvantage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPLICATION → affirmative action operationalises vertical equity, not a breach of equality",
+            "CONDITION → vertical equity needs a defensible measure of disadvantage"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → creamy-layer exclusion shows targeting inside affirmative action",
+            "HORIZONTAL EQUITY → equals treated equally"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → creamy-layer exclusion shows targeting inside affirmative action.",
+      "source_references": [
+        "Horizontal and vertical equity in affirmative action",
+        "Multi-dimensional Indian applications and the boundary case",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WELFARE-STATE MODELS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WELFARE-STATE MODELS",
+          "role": "institution"
+        },
+        {
+          "text": "STATE ACTS AFTER FAMILY AND MARKET FAIL; MEANS-TESTED AND",
+          "role": "institution"
+        },
+        {
+          "text": "UNIVERSAL SERVICES AS A CITIZENSHIP RIGHT; DE-STIGMATISED BUT COSTLIER",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORDED AS A HYBRID",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY ENTITLEMENTS LAYERED ON TARGETED SCHEMES",
+          "role": "primary"
+        },
+        {
+          "text": "NAMED ENTITLEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL FOOD SECURITY ACT, 2013; RIGHT TO EDUCATION ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RESIDUAL → state acts after family and market fail; means-tested and stigmatised",
+        "INSTITUTIONAL → universal services as a citizenship right; de-stigmatised but costlier",
+        "INDIA → recorded as a hybrid: statutory entitlements layered on targeted schemes",
+        "NAMED ENTITLEMENTS → National Food Security Act, 2013; Right to Education Act, 2009"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESIDUAL → state acts after family and market fail; means-tested and stigmatised",
+            "INSTITUTIONAL → universal services as a citizenship right; de-stigmatised but costlier"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIA → recorded as a hybrid: statutory entitlements layered on targeted schemes",
+            "NAMED ENTITLEMENTS → National Food Security Act, 2013; Right to Education Act, 2009"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESIDUAL → state acts after family and market fail; means-tested and stigmatised",
+            "INSTITUTIONAL → universal services as a citizenship right; de-stigmatised but costlier"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NAMED ENTITLEMENTS → National Food Security Act, 2013; Right to Education Act, 2009.",
+      "source_references": [
+        "Residual, institutional and hybrid welfare states",
+        "Rights-based against charity-based welfare and the paper-promise risk",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FIVE-STAGE WELFARE MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FIVE-STAGE WELFARE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONSTITUTIONAL FOUNDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PREAMBLE AND DIRECTIVE PRINCIPLES SET THE DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATIVE CONCRETISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTIVE STATUTES AND ENTITLEMENT STATUTES",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEME DESIGN AND BUDGET",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFERS, SERVICES AND AFFIRMATIVE ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL DELIVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL FOUNDATION → Preamble and Directive Principles set the direction",
+        "LEGISLATIVE CONCRETISATION: protective statutes and entitlement statutes",
+        "SCHEME DESIGN AND BUDGET: transfers, services and affirmative action",
+        "INSTITUTIONAL DELIVERY: ministries, commissions, anganwadi, health centre, school",
+        "OUTCOME MEASUREMENT: household surveys, administrative data and social audit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONSTITUTIONAL FOUNDATION → Preamble and Directive Principles set the direction",
+            "LEGISLATIVE CONCRETISATION: protective statutes and entitlement statutes",
+            "SCHEME DESIGN AND BUDGET: transfers, services and affirmative action"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTITUTIONAL DELIVERY: ministries, commissions, anganwadi, health centre, school",
+            "OUTCOME MEASUREMENT: household surveys, administrative data and social audit",
+            "STOP TEST → an answer that ends at scheme design has described intent, not justice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Formal equality is not substantive equality, welfare is not charity,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Formal equality is not substantive equality, welfare is not charity,.",
+      "source_references": [
+        "The five-stage welfare mechanism from Constitution to measured outcome",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FIVE RECURRING WELFARE GAPS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FIVE RECURRING WELFARE GAPS",
+          "role": "primary"
+        },
+        {
+          "text": "THE ELIGIBLE PERSON IS NOT CORRECTLY LISTED; FIX THE",
+          "role": "caution"
+        },
+        {
+          "text": "THE PROHIBITION OR PROTECTION IS NOT APPLIED; NAME THE",
+          "role": "caution"
+        },
+        {
+          "text": "THE ENTITLEMENT DOES NOT REACH THE PERSON; TRACE THE",
+          "role": "caution"
+        },
+        {
+          "text": "WHAT ARRIVES IS TOO POOR TO CHANGE ANYTHING; MEASURE",
+          "role": "primary"
+        },
+        {
+          "text": "NOBODY ESTABLISHES WHETHER IT WORKED; DEMAND THE SURVEY AND",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "MAP RIGHTS-HOLDER, DUTY-BEARER, INSTITUTION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "IDENTIFICATION → the eligible person is not correctly listed; fix the roll, not the slogan",
+        "ENFORCEMENT → the prohibition or protection is not applied; name the enforcing authority",
+        "DELIVERY → the entitlement does not reach the person; trace the last mile",
+        "QUALITY → what arrives is too poor to change anything; measure the service, not the",
+        "OUTCOME-LEARNING → nobody establishes whether it worked; demand the survey and the round"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFICATION → the eligible person is not correctly listed; fix the roll, not the slogan",
+            "ENFORCEMENT → the prohibition or protection is not applied; name the enforcing authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELIVERY → the entitlement does not reach the person; trace the last mile",
+            "QUALITY → what arrives is too poor to change anything; measure the service, not the count"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME-LEARNING → nobody establishes whether it worked; demand the survey and the round",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map rights-holder, duty-bearer, institution,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map rights-holder, duty-bearer, institution,.",
+      "source_references": [
+        "The five recurring welfare gaps",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A SOCIAL-JUSTICE DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A SOCIAL-JUSTICE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE DEPRIVATION AND THE DIMENSION OF JUSTICE IT",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE THE ENTITLEMENT, THE SCHEME THAT CARRIES IT AND",
+          "role": "comparison"
+        },
+        {
+          "text": "CITE A DATED SURVEY OR ADMINISTRATIVE SOURCE AND STATE",
+          "role": "institution"
+        },
+        {
+          "text": "GRADED VERDICT PLUS THE NAMED GAP AND AN EXPLICIT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the deprivation and the dimension of justice it engages",
+        "BUILD → separate the entitlement, the scheme that carries it and the delivery that reaches",
+        "TEST → cite a dated survey or administrative source and state what it cannot prove",
+        "CLOSE → graded verdict plus the named gap and an explicit indicator caveat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the deprivation and the dimension of justice it engages",
+            "BUILD → separate the entitlement, the scheme that carries it and the delivery that reaches"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → cite a dated survey or administrative source and state what it cannot prove",
+            "CLOSE → graded verdict plus the named gap and an explicit indicator caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the deprivation and the dimension of justice it engages",
+            "BUILD → separate the entitlement, the scheme that carries it and the delivery that reaches"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict plus the named gap and an explicit indicator caveat.",
+      "source_references": [
+        "Commissions, the measurement boundary and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-01\\g3\\social-justice-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "PREAMBLE (\"SOCIALIST,\" \"JUSTICE — SOCIAL, ECONOMIC",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATIVE CONCRETISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTIVE LAWS (SC/ST ATROCITIES ACT, RPWD",
+          "role": "institution"
+        },
+        {
+          "text": "ILO RECOMMENDATION 202 (2012)",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTABLISHES A SOCIAL-PROTECTION FLOOR AS A",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL COMMISSIONS (NCW, NCM, NCPCR, NHRC)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Constitutional anchor: Preamble (\"socialist,\" \"justice — social, economic",
+            "Legislative concretisation: Protective laws (SC/ST Atrocities Act, RPwD",
+            "ILO Recommendation 202 (2012): Establishes a social-protection floor as a",
+            "CAUTION: Institutional commissions (NCW, NCM, NCPCR, NHRC): Quasi-judicial bodies"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: NFSA 2013 as rights-based entitlement: Shifts PDS from discretionary scheme",
+            "CAUTION: RTE 2009 + NEP 2020 tension: RTE mandates free, compulsory education 6-14;",
+            "CAUTION: Manual scavenging as three-dimension test case: Prohibition (corrective),",
+            "CAUTION: Boundary case — creamy-layer exclusion in OBC reservation: Targeting within"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Universalism vs targeting: Universalism reduces stigma and exclusion error",
+            "CAUTION: Rights-based framing vs fiscal constraint: Entitlements (NFSA, RTE) create",
+            "CAUTION: Capability measurement difficulty: Functionings are easier to observe",
+            "CAUTION: Commission overload: NCW, NCM, NCPCR and NHRC can investigate and recommend"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

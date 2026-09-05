@@ -1,0 +1,1067 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-12",
+  "subject": "Science-and-Technology",
+  "title": "DATA PROTECTION: DPDP ACT AND CYBERSECURITY",
+  "short_route": "PRIVACY AND CYBER TWIN → DPDP ACTOR CHAIN → SCOPE GATEWAY → LEGAL STATUS STAIRCASE → THREE-TRANCHE CHRONOLOGY → LAWFUL PROCESSING AND RIGHTS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-12_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-12-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "64b9ab3bb0f0e0d1f2ebe83416b6d99a137c2029a612aef41ca3ab7a7c2631c8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PRIVACY AND CYBER TWIN RAIL",
+      "structural_type": "dual-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PRIVACY AND CYBER TWIN RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "LAWFUL COLLECTION, USE, RETENTION AND REDRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVENTION, DETECTION, RESPONSE AND RECOVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME BREACH",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO QUESTIONS AND POTENTIALLY TWO RESPONSE CHAINS",
+          "role": "primary"
+        },
+        {
+          "text": "DPDP BOARD",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLEMENTARY DOMAINS ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRIVACY → lawful collection, use, retention and redress",
+        "CYBERSECURITY → prevention, detection, response and recovery",
+        "SAME BREACH → two questions and potentially two response chains",
+        "DPDP BOARD != CERT-In != NCIIPC != I4C",
+        "RULE → complementary domains are not interchangeable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PRIVACY → lawful collection, use, retention and redress",
+            "CYBERSECURITY → prevention, detection, response and recovery"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SAME BREACH → two questions and potentially two response chains",
+            "DPDP BOARD != CERT-In != NCIIPC != I4C"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → complementary domains are not interchangeable",
+            "PRIVACY → lawful collection, use, retention and redress"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DPDP BOARD != CERT-In != NCIIPC != I4C.",
+      "source_references": [
+        "Privacy-cybersecurity boundary",
+        "Breach-and-status discipline"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DPDP ACTOR CHAIN",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DPDP ACTOR CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "DATA PRINCIPAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS-BEARING INDIVIDUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA FIDUCIARY",
+          "role": "evidence"
+        },
+        {
+          "text": "DECIDES PURPOSE AND MEANS",
+          "role": "primary"
+        },
+        {
+          "text": "DATA PROCESSOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTS FOR FIDUCIARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT MANAGER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DATA PRINCIPAL → rights-bearing individual",
+        "DATA FIDUCIARY → decides purpose and means",
+        "DATA PROCESSOR → acts for Fiduciary",
+        "CONSENT MANAGER → Board-registered consent interface",
+        "BOARD → specified adjudication; TDSAT hears appeals"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DATA PRINCIPAL → rights-bearing individual",
+            "DATA FIDUCIARY → decides purpose and means"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DATA PROCESSOR → acts for Fiduciary",
+            "CONSENT MANAGER → Board-registered consent interface"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "BOARD → specified adjudication; TDSAT hears appeals",
+            "DATA PRINCIPAL → rights-bearing individual"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSENT MANAGER → Board-registered consent interface; BOARD → specified adjudication; TDSAT hears appeals.",
+      "source_references": [
+        "DPDP actor boundary",
+        "Board-role boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SCOPE GATEWAY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SCOPE GATEWAY",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONAL DATA?",
+          "role": "outcome"
+        },
+        {
+          "text": "IF NO, DPDP PERSONAL-DATA ROUTE STOPS",
+          "role": "caution"
+        },
+        {
+          "text": "DIGITAL OR DIGITISED LATER?",
+          "role": "evidence"
+        },
+        {
+          "text": "IF YES, SCOPE CAN ATTACH",
+          "role": "primary"
+        },
+        {
+          "text": "OUTSIDE INDIA?",
+          "role": "outcome"
+        },
+        {
+          "text": "GOODS OR SERVICES OFFERED IN INDIA TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT AUTOMATICALLY COVERED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PERSONAL DATA? → if no, DPDP personal-data route stops",
+        "DIGITAL OR DIGITISED LATER? → if yes, scope can attach",
+        "OUTSIDE INDIA? → goods or services offered in India test",
+        "ANONYMISED / NON-PERSONAL → not automatically covered",
+        "RULE → identify data class before compliance claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PERSONAL DATA? → if no, DPDP personal-data route stops",
+            "DIGITAL OR DIGITISED LATER? → if yes, scope can attach"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "OUTSIDE INDIA? → goods or services offered in India test",
+            "ANONYMISED / NON-PERSONAL → not automatically covered"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → identify data class before compliance claim",
+            "PERSONAL DATA? → if no, DPDP personal-data route stops"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify data class before compliance claim.",
+      "source_references": [
+        "Scope boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LEGAL STATUS STAIRCASE",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGAL STATUS STAIRCASE",
+          "role": "primary"
+        },
+        {
+          "text": "PARENT STATUTE EXISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTRUMENT PUBLISHED IN GAZETTE",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIED PROVISION IS IN FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL EVIDENCE REQUIRED",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLICABLE PROCEEDING OR OUTCOME REQUIRED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ENACTED → parent statute exists",
+        "NOTIFIED → instrument published in Gazette",
+        "COMMENCED → specified provision is in force",
+        "STAFFED / ADJUDICATING → institutional evidence required",
+        "ENFORCED → applicable proceeding or outcome required"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ENACTED → parent statute exists",
+            "NOTIFIED → instrument published in Gazette"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMENCED → specified provision is in force",
+            "STAFFED / ADJUDICATING → institutional evidence required"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "ENFORCED → applicable proceeding or outcome required",
+            "ENACTED → parent statute exists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STAFFED / ADJUDICATING → institutional evidence required; ENFORCED → applicable proceeding or outcome required.",
+      "source_references": [
+        "Legal-status ladder",
+        "Board-role boundary",
+        "Breach-and-status discipline"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THREE-TRANCHE CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THREE-TRANCHE CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "13 NOV 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINITIONS, BOARD PROVISIONS, RTI AMENDMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE YEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "S.6(9), S.27(1)(D), RULE 4",
+          "role": "primary"
+        },
+        {
+          "text": "EIGHTEEN MONTHS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIVE COMPLIANCE CORE AND PENALTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "RULES NOTIFIED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13 NOV 2025 → definitions, Board provisions, RTI amendment",
+        "ONE YEAR → s.6(9), s.27(1)(d), rule 4",
+        "EIGHTEEN MONTHS → substantive compliance core and penalties",
+        "RULES NOTIFIED → does not erase deferred dates",
+        "DATE CHECK → re-verify before present-tense writing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "13 NOV 2025 → definitions, Board provisions, RTI amendment",
+            "ONE YEAR → s.6(9), s.27(1)(d), rule 4"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "EIGHTEEN MONTHS → substantive compliance core and penalties",
+            "RULES NOTIFIED → does not erase deferred dates"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DATE CHECK → re-verify before present-tense writing",
+            "13 NOV 2025 → definitions, Board provisions, RTI amendment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULES NOTIFIED → does not erase deferred dates.",
+      "source_references": [
+        "Immediate-tranche boundary",
+        "One-year-tranche boundary",
+        "Eighteen-month-tranche boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LAWFUL PROCESSING AND RIGHTS LOOP",
+      "structural_type": "process-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAWFUL PROCESSING AND RIGHTS LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFIED INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT OR S.7 CERTAIN LEGITIMATE USE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAWFUL GROUND",
+          "role": "evidence"
+        },
+        {
+          "text": "FIDUCIARY AND PROCESSOR RESPONSIBILITIES",
+          "role": "primary"
+        },
+        {
+          "text": "NOMINATION S.15 DUTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS HOLDER ALSO HAS STATUTORY DUTIES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NOTICE → specified information",
+        "CONSENT OR s.7 CERTAIN LEGITIMATE USE → lawful ground",
+        "PROCESSING → Fiduciary and Processor responsibilities",
+        "ACCESS / CORRECTION / ERASURE / GRIEVANCE / NOMINATION s.15 DUTIES → rights holder also"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "NOTICE → specified information",
+            "CONSENT OR s.7 CERTAIN LEGITIMATE USE → lawful ground"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESSING → Fiduciary and Processor responsibilities",
+            "ACCESS / CORRECTION / ERASURE / GRIEVANCE / NOMINATION s.15 DUTIES → rights holder also has statutory duties"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "NOTICE → specified information",
+            "CONSENT OR s.7 CERTAIN LEGITIMATE USE → lawful ground"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCESS / CORRECTION / ERASURE / GRIEVANCE / NOMINATION s.15 DUTIES → rights holder also has statutory duties.",
+      "source_references": [
+        "Consent-legitimate-use boundary",
+        "Rights-duties boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SDF GOVERNANCE STACK",
+      "structural_type": "risk-pyramid",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SDF GOVERNANCE STACK",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNMENT NOTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CREATES SDF STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK FACTORS",
+          "role": "caution"
+        },
+        {
+          "text": "SCALE, SENSITIVITY AND PUBLIC CONSEQUENCES",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-BASED DPO",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNANCE CONTACT",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENT AUDITOR + DPIA + AUDITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT NOTIFICATION → creates SDF status",
+        "RISK FACTORS → scale, sensitivity and public consequences",
+        "INDIA-BASED DPO → governance contact",
+        "INDEPENDENT AUDITOR + DPIA + AUDITS → added assurance",
+        "TRAP → large entity is not automatically an SDF"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "GOVERNMENT NOTIFICATION → creates SDF status",
+            "RISK FACTORS → scale, sensitivity and public consequences"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "INDIA-BASED DPO → governance contact",
+            "INDEPENDENT AUDITOR + DPIA + AUDITS → added assurance"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → large entity is not automatically an SDF",
+            "GOVERNMENT NOTIFICATION → creates SDF status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → large entity is not automatically an SDF.",
+      "source_references": [
+        "SDF boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SECTIONS 16 AND 17 MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SECTIONS 16 AND 17 MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIFIED RESTRICTED DESTINATIONS; PERMISSIVE DEFAULT",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTORAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY IMPOSE STRICTER LOCALISATION S.17(1)",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESSING-SPECIFIC EXEMPTIONS S.17(2)(A)",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIFIED STATE-INSTRUMENTALITY EXEMPTION",
+          "role": "institution"
+        },
+        {
+          "text": "TRANSFER RULE AND EXEMPTION RULE ANSWER DIFFERENT QUESTIONS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "s.16 → notified restricted destinations; permissive default",
+        "SECTORAL RULE → may impose stricter localisation s.17(1) → processing-specific exemptions s.17(2)(a) → notified State-instrumentality",
+        "RULE → transfer rule and exemption rule answer different questions"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "s.16 → notified restricted destinations; permissive default",
+          "RULE → transfer rule and exemption rule answer different questions",
+          "SECTORAL RULE → may impose stricter localisation s.17(1) → processing-specific exemptions s.17(2)(a) → notified State-instrumentality exemption"
+        ],
+        [
+          "SECTORAL RULE → may impose stricter localisation s.17(1) → processing-specific exemptions s.17(2)(a) → notified State-instrumentality exemption",
+          "s.16 → notified restricted destinations; permissive default",
+          "RULE → transfer rule and exemption rule answer different questions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "s.16 → notified restricted destinations; permissive default",
+            "SECTORAL RULE → may impose stricter localisation s.17(1) → processing-specific exemptions s.17(2)(a) → notified State-instrumentality exemption"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RULE → transfer rule and exemption rule answer different questions",
+            "s.16 → notified restricted destinations; permissive default"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTORAL RULE → may impose stricter localisation s.17(1) → processing-specific exemptions s.17(2)(a) → notified State-instrumentality exemption",
+            "RULE → transfer rule and exemption rule answer different questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → transfer rule and exemption rule answer different questions.",
+      "source_references": [
+        "Section-16 boundary",
+        "Section-17 boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONSEQUENTIAL AMENDMENT FORK",
+      "structural_type": "replacement-diagram",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CONSEQUENTIAL AMENDMENT FORK",
+          "role": "primary"
+        },
+        {
+          "text": "RTI S.8(1)(J) SUBSTITUTED IN IMMEDIATE TRANCHE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVACY <→ TRANSPARENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTESTED RIGHTS BALANCE S.44(2)",
+          "role": "evidence"
+        },
+        {
+          "text": "IT ACT S.43A OMISSION IN DEFERRED TRANCHE",
+          "role": "institution"
+        },
+        {
+          "text": "LIVE CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY PARENT ACT, SECTION AND COMMENCEMENT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "s.44(3) → RTI s.8(1)(j) substituted in immediate tranche",
+        "PRIVACY <→ TRANSPARENCY → contested rights balance s.44(2) → IT Act s.43A omission in deferred",
+        "LIVE CHANGE != SCHEDULED CHANGE",
+        "RULE → identify parent Act, section and commencement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "s.44(3) → RTI s.8(1)(j) substituted in immediate tranche",
+            "PRIVACY <→ TRANSPARENCY → contested rights balance s.44(2) → IT Act s.43A omission in deferred tranche"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "LIVE CHANGE != SCHEDULED CHANGE",
+            "RULE → identify parent Act, section and commencement"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "s.44(3) → RTI s.8(1)(j) substituted in immediate tranche",
+            "PRIVACY <→ TRANSPARENCY → contested rights balance s.44(2) → IT Act s.43A omission in deferred tranche"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify parent Act, section and commencement.",
+      "source_references": [
+        "RTI-amendment boundary",
+        "Eighteen-month-tranche boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PENALTY RAIL",
+      "structural_type": "penalty-scale",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PENALTY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY-SAFEGUARD FAILURE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAXIMUM RS 250 CRORE",
+          "role": "comparison"
+        },
+        {
+          "text": "BREACH NOTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHILDREN'S DUTIES",
+          "role": "primary"
+        },
+        {
+          "text": "MAXIMUM RS 200 CRORE",
+          "role": "outcome"
+        },
+        {
+          "text": "SDF DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MAXIMUM RS 150 CRORE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECURITY-SAFEGUARD FAILURE → maximum Rs 250 crore",
+        "BREACH NOTICE / CHILDREN'S DUTIES → maximum Rs 200 crore",
+        "SDF DUTIES → maximum Rs 150 crore",
+        "CHARACTER → civil and financial",
+        "NOT INCLUDED → imprisonment or automatic victim compensation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SECURITY-SAFEGUARD FAILURE → maximum Rs 250 crore",
+            "BREACH NOTICE / CHILDREN'S DUTIES → maximum Rs 200 crore"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SDF DUTIES → maximum Rs 150 crore",
+            "CHARACTER → civil and financial"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT INCLUDED → imprisonment or automatic victim compensation",
+            "SECURITY-SAFEGUARD FAILURE → maximum Rs 250 crore"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT INCLUDED → imprisonment or automatic victim compensation.",
+      "source_references": [
+        "Penalty boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CYBER INSTITUTION ROUTER",
+      "structural_type": "routing-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CYBER INSTITUTION ROUTER",
+          "role": "institution"
+        },
+        {
+          "text": "INCIDENT RESPONSE AND DIRECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTIFIED CII PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CYBERCRIME COORDINATION, PORTAL AND 1930",
+          "role": "evidence"
+        },
+        {
+          "text": "DATA PROTECTION BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "DPDP COMPLIANCE ADJUDICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTE BY FUNCTION, STATUTE AND ADMINISTRATIVE HOME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CERT-In / MeitY / s.70B → incident response and directions",
+        "NCIIPC / NTRO / s.70A → notified CII protection",
+        "I4C / MHA → cybercrime coordination, portal and 1930",
+        "DATA PROTECTION BOARD → DPDP compliance adjudication",
+        "RULE → route by function, statute and administrative home"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CERT-In / MeitY / s.70B → incident response and directions",
+            "NCIIPC / NTRO / s.70A → notified CII protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "I4C / MHA → cybercrime coordination, portal and 1930",
+            "DATA PROTECTION BOARD → DPDP compliance adjudication"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → route by function, statute and administrative home",
+            "CERT-In / MeitY / s.70B → incident response and directions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → route by function, statute and administrative home.",
+      "source_references": [
+        "CERT-In role boundary",
+        "NCIIPC role boundary",
+        "I4C role boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ROUTED PYQ ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ROUTED PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DATA-PROTECTION REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "STRENGTHS PLUS WEAKNESSES",
+          "role": "comparison"
+        },
+        {
+          "text": "GDPR COMPARATOR; DIGITAL-SIGNATURE AUTHENTICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DPDP CONTEXT, SALIENT FEATURES AND DATED STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVACY COMPLIANCE PLUS CYBER RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS, RESILIENCE, CAPACITY AND STATUS DISCIPLINE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "2018 → data-protection report: strengths plus weaknesses",
+        "2019 → GDPR comparator; digital-signature authentication",
+        "2024 → DPDP context, salient features and dated status",
+        "BREACH → privacy compliance plus cyber response",
+        "CONCLUDE → rights, resilience, capacity and status discipline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "2018 → data-protection report: strengths plus weaknesses",
+            "2019 → GDPR comparator; digital-signature authentication"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "2024 → DPDP context, salient features and dated status",
+            "BREACH → privacy compliance plus cyber response"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUDE → rights, resilience, capacity and status discipline",
+            "2018 → data-protection report: strengths plus weaknesses"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUDE → rights, resilience, capacity and status discipline.",
+      "source_references": [
+        "GDPR-signature-PKI boundary",
+        "Breach-and-status discipline",
+        "Legal-status ladder"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INNOVATION VERSUS PRIVACY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE LAW AIMS TO PROTECT PERSONAL DATA WHILE AVOIDING",
+          "role": "comparison"
+        },
+        {
+          "text": "BOARD DESIGN AND INDEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE BOARD IS A DIGITALLY FUNCTIONING ADJUDICATOR, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "THE STRONGEST CRITIQUE IS THEREFORE STRUCTURAL (COMPOSITION, TENURE, APPOINTMENT)",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEMENT ASYMMETRY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE STATE IS BOTH THE LARGEST PROCESSOR OF PERSONAL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Innovation versus privacy: the law aims to protect personal data while avoiding a blanket anti-innovation posture.",
+            "CAUTION: Board design and independence: the Board is a digitally functioning adjudicator, not a full-spectrum regulator — it",
+            "The strongest critique is therefore structural (composition, tenure, appointment) rather than merely capacity-based.",
+            "CAUTION: Enforcement asymmetry: the State is both the largest processor of personal data in India and the entity"
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "A privacy regime whose principal risk-holder can opt out by notification is analytically incomplete, whatever its private-sector provisions.",
+            "CAUTION: The RTI amendment (s.44(3)): by substituting RTI s.8(1)(j) with a broad exemption for \"information which relates to",
+            "This pits privacy against transparency — a genuine rights-versus-rights conflict, not a technical amendment, and the most likely",
+            "CAUTION: Cross-border transfer model: India did not adopt an absolute data-localisation model in the reviewed Act text"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "instead it retained a notification-based restriction power — lighter than the 2019 Bill, but creating regulatory uncertainty because",
+            "CAUTION: What the Act omits: no separate class of sensitive personal data, no explicit right to data",
+            "portability or erasure-by-design, no statutory data-breach compensation to individuals, no framework for non-personal data , and no",
+            "algorithmic-decision safeguard — the last being the visible seam where DPDP meets AI governance (Topic 09)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

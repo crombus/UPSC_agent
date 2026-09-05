@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-23",
+      "display_title": "The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Western Deccan: terrain becomes a fort network",
+          "structural_type": "spatial-system",
+          "ascii_lines": [
+            "SAHYADRI RIDGE -> height, narrow passes and monsoon friction",
+            "MAVAL VALLEYS -> recruits, grain, local intelligence and short movement",
+            "KONKAN COAST -> creeks, customs, ports and access to maritime rivals",
+            "FORT NODE -> garrison + store + signal + refuge + route surveillance",
+            "NETWORK EFFECT -> inland plateau, passes and coast support one another",
+            "LIMIT -> geography enables choices; organisation converts it into power.",
+            "MUST REMEMBER: Shivaji's coronation (1674), fort network, revenue claims and military mobility",
+            "  formed a negotiated regional polity."
+          ],
+          "source_references": [
+            "Western Deccan",
+            "Maval",
+            "Konkan",
+            "Fort network",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chronology from the 1640s to 1707",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1640s -> Torna, Murumbdev-Rajgad and Kondana build a Poona-Maval base",
+            "1656 -> Javli | 1659 -> Pratapgad | 1663 -> Poona raid | 1664 -> Surat",
+            "1665 -> Purandar | 1666 -> Agra rupture | 1670 -> territorial recovery",
+            "1674 -> Raigad coronation | 1680 -> Shivaji dies",
+            "1689 -> Sambhaji executed | Rajaram shifts resistance toward Jinji",
+            "1700 -> Tarabai's regency | 1707 -> Aurangzeb dies with war unresolved."
+          ],
+          "source_references": [
+            "1640s-1707",
+            "Javli",
+            "Purandar",
+            "Raigad",
+            "Tarabai",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Purandar, Agra and recovery",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MUGHAL PRESSURE -> Jai Singh combines siege, diplomacy and Bijapur strategy",
+            "PURANDAR 1665 -> 23 forts ceded, 12 retained; Sambhaji receives mansab 5000",
+            "INCORPORATION TEST -> service and a retained base coexist uneasily",
+            "AGRA 1666 -> rank dispute, confinement and escape destroy political trust",
+            "RECOVERY FROM 1670 -> forts and initiative return; surrender was not final",
+            "SOURCE RULE -> escape is secure; basket details remain a source version."
+          ],
+          "source_references": [
+            "Treaty of Purandar",
+            "Agra 1666",
+            "Recovery after 1670",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Coronation and the language of sovereignty",
+          "structural_type": "legitimacy-ladder",
+          "ascii_lines": [
+            "POWER ALREADY BUILT -> forts, revenue, command and negotiated authority",
+            "RAIGAD 1674 -> public claim to chhatrapati sovereignty",
+            "GAGA BHATTA -> Kshatriya genealogy addresses contested status",
+            "RITUAL EFFECT -> ruler stands above chiefs in a legible royal idiom",
+            "POLITICAL EFFECT -> household, territory and administration gain one centre",
+            "LIMIT -> coronation crowned state-building; it did not create capacity alone."
+          ],
+          "source_references": [
+            "Raigad 1674",
+            "Chhatrapati",
+            "Gaga Bhatta",
+            "Kshatriya debate",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Ashtapradhan: eight offices, not a cabinet",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PESHWA -> general coordination | AMATYA / MAZUMDAR -> finance",
+            "SACHIV -> correspondence | MANTRI / WAQIA-NAVIS -> records and intelligence",
+            "SENAPATI / SAR-I-NAUBAT -> military | SUMANT / DABIR -> external affairs",
+            "NYAYADHISH -> justice | PANDITRAO -> religious grants and duties",
+            "CONTROL PRINCIPLE -> each office answers to the ruler",
+            "TRAP -> no collective responsibility, parliamentary cabinet or later Peshwa rule."
+          ],
+          "source_references": [
+            "Ashtapradhan",
+            "Ruler-centred offices",
+            "Cabinet trap",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Chauth and sardeshmukhi are distinct claims",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHAUTH -> one-quarter fiscal claim, often tied to protection and restraint",
+            "SARDESHMUKHI -> additional ten-percent claim in a superior-right idiom",
+            "COLLECTION -> agents bargain, coerce and overlap with existing revenue systems",
+            "POLITICAL EFFECT -> payment may acknowledge power without settled sovereignty",
+            "LOCAL EFFECT -> payer can seek relief while parallel authority becomes normal",
+            "TRAP -> neither pure plunder nor automatic lawful title explains every case."
+          ],
+          "source_references": [
+            "Chauth",
+            "Sardeshmukhi",
+            "Parallel fiscal authority",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Cavalry and ganimi kava",
+          "structural_type": "military-system",
+          "ascii_lines": [
+            "BARGIR -> horse and equipment associated with state provision",
+            "SILHEDAR -> maintains his own horse and equipment",
+            "GANIMI KAVA -> surprise + intelligence + supply attack + selective engagement",
+            "FORT ANCHOR -> stores, refuge, signals and route control sustain mobility",
+            "LOCAL KNOWLEDGE -> converts short movement into operational advantage",
+            "LIMIT -> not invincibility, a social census or modern ideological insurgency."
+          ],
+          "source_references": [
+            "Bargir",
+            "Silhedar",
+            "Ganimi kava",
+            "Fort logistics",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Coast and navy: capability with scale limits",
+          "structural_type": "coastal-network",
+          "ascii_lines": [
+            "KONKAN -> creeks, ports, customs and sea forts connect war to commerce",
+            "RIVALS -> Sidis of Janjira, Portuguese and English shape naval choices",
+            "PEOPLE -> Koli, Bhandari, Muslim and other sailors prevent a closed identity",
+            "VESSELS -> gurab and galivat labels require source and context",
+            "CAPABILITY -> regional escort, defence, raiding and coastal communication",
+            "LIMIT -> not an oceanic blue-water navy or a licence to invent fleet numbers."
+          ],
+          "source_references": [
+            "Konkan",
+            "Sidis",
+            "Sea forts",
+            "Regional navy",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Resistance after Shivaji",
+          "structural_type": "succession-network",
+          "ascii_lines": [
+            "SAMBHAJI 1680-89 -> leadership under pressure; execution removes a head",
+            "RAJARAM -> movement to Jinji creates strategic depth beyond Maharashtra",
+            "SANTAJI / DHANAJI -> strike communications and dispersed imperial forces",
+            "RAMCHANDRA PANT / SHANKARAJI -> administration and patronage sustain networks",
+            "TARABAI FROM 1700 -> regency supplies legitimacy and political coordination",
+            "RESULT -> decapitation changes the war into a more decentralised resistance."
+          ],
+          "source_references": [
+            "Sambhaji",
+            "Rajaram",
+            "Jinji",
+            "Santaji",
+            "Dhanaji",
+            "Tarabai",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Annexation removes buffers",
+          "structural_type": "gain-cost-balance",
+          "ascii_lines": [
+            "BIJAPUR 1686 + GOLCONDA 1687 -> territory, forts and nominal revenue gained",
+            "BUFFER LOSS -> Mughals now confront mobile Maratha networks more directly",
+            "NEW CLAIMANTS -> absorbed elites add service and jagir expectations",
+            "NEW COSTS -> garrisons, siege trains, supply, policing and collection friction",
+            "REALISATION PROBLEM -> conquered jama does not guarantee usable hasil",
+            "VERDICT -> annexation enlarged the map while narrowing strategic flexibility.",
+            "CLOSE DISTINCTION: Ashtapradhan was not a modern cabinet; chauth and sardeshmukhi varied by",
+            "  claim, agreement, collection and territory."
+          ],
+          "source_references": [
+            "Bijapur 1686",
+            "Golconda 1687",
+            "Buffer removal",
+            "Deccan costs",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Jagirdari terms and the feedback loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "MANSAB -> rank and service claim | JAGIR -> transferable revenue assignment",
+            "JAMA -> assessed claim | HASIL -> realised collection",
+            "PAIBAQI -> reserve assignable pool | BE-JAGIRI -> shortage of usable assignments",
+            "WAR / INFLATED JAMA -> weak hasil -> troop and remount shortfall",
+            "HARDER EXTRACTION -> local resistance / private pacts -> further disturbance",
+            "RESULT -> fiscal, agrarian, administrative and military strain reinforce one another.",
+            "EVIDENCE LIMIT: Deccan war and jagirdari crisis interacted with succession, ecology and",
+            "  regional resistance but do not alone explain decline."
+          ],
+          "source_references": [
+            "Mansab",
+            "Jagir",
+            "Jama",
+            "Hasil",
+            "Paibaqi",
+            "Be-jagiri",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 23 final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> ecology became power through institutions, networks and sovereignty",
+            "TRACE -> early forts -> Purandar / Agra -> recovery -> coronation",
+            "EXPLAIN -> offices + revenue + chauth claims + mobile war + bounded navy",
+            "EXTEND -> Sambhaji -> Rajaram / Jinji -> Tarabai's decentralised resistance",
+            "CONNECT -> annexation and long war intensify the jagirdari feedback loop",
+            "QUALIFY -> reject hero myth, nationalism, cabinet analogy and instant collapse."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "State-building",
+            "Deccan war",
+            "Jagirdari crisis",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\23_Marathas-Shivaji-and-Deccan.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-23\\g3\\medieval-indian-history-23_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1003 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-05",
+  "subject": "Disaster-Management",
+  "title": "EARTHQUAKE RISK AND RESILIENT CONSTRUCTION",
+  "short_route": "SEISMIC RISK GRAMMAR → MAGNITUDE-INTENSITY FIREWALL → ZONING-TO-SITE LADDER → SITE-EFFECT MAP → VULNERABILITY CHAIN → MITIGATION MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-05_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-05-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "e20ef9d70a47701ae02ad4253adee6d452827d7a5d87f0254b31bd48f7554de3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SEISMIC RISK GRAMMAR",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SEISMIC RISK GRAMMAR",
+          "role": "caution"
+        },
+        {
+          "text": "GROUND SHAKING AND SECONDARY EFFECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PEOPLE BUILDINGS INFRASTRUCTURE LIFELINES",
+          "role": "comparison"
+        },
+        {
+          "text": "SITE + DESIGN + CONSTRUCTION + MAINTENANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PREPAREDNESS RESPONSE AND RECOVERY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HAZARD → ground shaking and secondary effects",
+        "EXPOSURE → people buildings infrastructure lifelines",
+        "VULNERABILITY → site + design + construction + maintenance",
+        "CAPACITY → preparedness response and recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HAZARD → ground shaking and secondary effects",
+            "EXPOSURE → people buildings infrastructure lifelines"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "VULNERABILITY → site + design + construction + maintenance",
+            "CAPACITY → preparedness response and recovery"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "HAZARD → ground shaking and secondary effects",
+            "EXPOSURE → people buildings infrastructure lifelines"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VULNERABILITY → site + design + construction + maintenance.",
+      "source_references": [
+        "Seismic risk",
+        "Exposure",
+        "Constructed vulnerability"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MAGNITUDE-INTENSITY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MAGNITUDE-INTENSITY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "EVENT SIZE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENERGY MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "OBSERVED EFFECTS AT A LOCATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE EVENT",
+          "role": "primary"
+        },
+        {
+          "text": "VARYING LOCAL INTENSITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALES ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAGNITUDE → event size / energy measure",
+        "INTENSITY → observed effects at a location",
+        "ONE EVENT → varying local intensities",
+        "TRAP → scales are not interchangeable"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "MAGNITUDE → event size / energy measure",
+          "ONE EVENT → varying local intensities",
+          "MAGNITUDE → event size / energy measure"
+        ],
+        [
+          "INTENSITY → observed effects at a location",
+          "TRAP → scales are not interchangeable",
+          "INTENSITY → observed effects at a location"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "MAGNITUDE → event size / energy measure",
+            "INTENSITY → observed effects at a location"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ONE EVENT → varying local intensities",
+            "TRAP → scales are not interchangeable"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MAGNITUDE → event size / energy measure",
+            "INTENSITY → observed effects at a location"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ONE EVENT → varying local intensities; TRAP → scales are not interchangeable.",
+      "source_references": [
+        "Magnitude and intensity"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ZONING-TO-SITE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ZONING-TO-SITE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SEISMIC ZONE",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD EXPECTED HAZARD",
+          "role": "comparison"
+        },
+        {
+          "text": "FINER LOCAL VARIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SITE ASSESSMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT-SPECIFIC CONDITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "NONE OF THESE",
+          "role": "comparison"
+        },
+        {
+          "text": "PREDICTS THE NEXT EVENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEISMIC ZONE → broad expected hazard",
+        "MICROZONATION → finer local variation",
+        "SITE ASSESSMENT → project-specific conditions",
+        "NONE OF THESE → predicts the next event"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SEISMIC ZONE → broad expected hazard",
+            "MICROZONATION → finer local variation"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SITE ASSESSMENT → project-specific conditions",
+            "NONE OF THESE → predicts the next event"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SEISMIC ZONE → broad expected hazard",
+            "MICROZONATION → finer local variation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NONE OF THESE → predicts the next event.",
+      "source_references": [
+        "Zoning and prediction",
+        "Site effects and microzonation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SITE-EFFECT MAP",
+      "structural_type": "causal-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SITE-EFFECT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SOIL CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "MODIFIES SHAKING OR SECONDARY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "BUILT FORM + ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "MODIFIES EXPOSURE RESPONSE AND LOSS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GROUND / SLOPE / SOIL CONDITION",
+        "modifies shaking or secondary risk",
+        "BUILT FORM + ACCESS",
+        "modifies exposure response and loss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "GROUND / SLOPE / SOIL CONDITION",
+            "modifies shaking or secondary risk"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUILT FORM + ACCESS",
+            "modifies exposure response and loss"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "GROUND / SLOPE / SOIL CONDITION",
+            "modifies shaking or secondary risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUILT FORM + ACCESS; modifies exposure response and loss.",
+      "source_references": [
+        "Site effects and microzonation",
+        "Risk-sensitive land use"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VULNERABILITY CHAIN",
+      "structural_type": "failure-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VULNERABILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IRREGULAR FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAK CONNECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "POOR WORKMANSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "UNAUTHORISED ALTERATION",
+          "role": "primary"
+        },
+        {
+          "text": "DEGRADED MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "FAILED APPROVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLAPSE OR SERVICE DISRUPTION RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IRREGULAR FORM",
+        "WEAK CONNECTION",
+        "POOR WORKMANSHIP",
+        "UNAUTHORISED ALTERATION",
+        "DEGRADED MATERIAL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "IRREGULAR FORM",
+            "WEAK CONNECTION",
+            "POOR WORKMANSHIP"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNAUTHORISED ALTERATION",
+            "DEGRADED MATERIAL",
+            "FAILED APPROVAL / INSPECTION / MAINTENANCE"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → collapse or service disruption risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IRREGULAR FORM | WEAK CONNECTION | POOR WORKMANSHIP.",
+      "source_references": [
+        "Constructed vulnerability",
+        "Compliance chain"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MITIGATION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MITIGATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SAFE NEW BUILD + ASSESSED STRENGTHENING",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND USE + ENFORCEMENT + DRILLS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECURE FIXTURES EQUIPMENT UTILITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "COMBINE; DO NOT SUBSTITUTE ONE FOR ALL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL → safe new build + assessed strengthening",
+        "NON-STRUCTURAL → land use + enforcement + drills",
+        "CONTENTS → secure fixtures equipment utilities",
+        "RULE → combine; do not substitute one for all"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "STRUCTURAL → safe new build + assessed strengthening",
+          "CONTENTS → secure fixtures equipment utilities",
+          "STRUCTURAL → safe new build + assessed strengthening"
+        ],
+        [
+          "NON-STRUCTURAL → land use + enforcement + drills",
+          "RULE → combine; do not substitute one for all",
+          "NON-STRUCTURAL → land use + enforcement + drills"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "STRUCTURAL → safe new build + assessed strengthening",
+            "NON-STRUCTURAL → land use + enforcement + drills"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONTENTS → secure fixtures equipment utilities",
+            "RULE → combine; do not substitute one for all"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL → safe new build + assessed strengthening",
+            "NON-STRUCTURAL → land use + enforcement + drills"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → combine; do not substitute one for all.",
+      "source_references": [
+        "Structural mitigation",
+        "Non-structural mitigation",
+        "Non-structural components"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CODE-TO-COMPLIANCE RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CODE-TO-COMPLIANCE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 STANDARD",
+          "role": "outcome"
+        },
+        {
+          "text": "2 COMPETENT DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "3 TRAINED CONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4 APPROVAL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1 STANDARD / BYE-LAW",
+        "2 COMPETENT DESIGN",
+        "3 TRAINED CONSTRUCTION",
+        "4 APPROVAL → INSPECTION → MAINTENANCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 STANDARD / BYE-LAW",
+            "2 COMPETENT DESIGN"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 TRAINED CONSTRUCTION",
+            "4 APPROVAL → INSPECTION → MAINTENANCE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 STANDARD / BYE-LAW",
+            "2 COMPETENT DESIGN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 TRAINED CONSTRUCTION; 4 APPROVAL → INSPECTION → MAINTENANCE.",
+      "source_references": [
+        "Code-compliant design",
+        "Compliance chain"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DUCTILITY CONCEPT BOX",
+      "structural_type": "concept-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DUCTILITY CONCEPT BOX",
+          "role": "primary"
+        },
+        {
+          "text": "DEFORMATION CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROLLED ENERGY DISSIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPORTS LIFE-SAFETY OBJECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT ONLY, NO DETAILING INSTRUCTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFORMATION CAPACITY",
+        "controlled energy dissipation",
+        "supports life-safety objective",
+        "BOUNDARY → concept only, no detailing instruction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFORMATION CAPACITY",
+            "controlled energy dissipation"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "supports life-safety objective",
+            "BOUNDARY → concept only, no detailing instruction"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFORMATION CAPACITY",
+            "controlled energy dissipation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "supports life-safety objective; BOUNDARY → concept only, no detailing instruction.",
+      "source_references": [
+        "Ductility concept"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RETROFIT PRIORITY FUNNEL",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RETROFIT PRIORITY FUNNEL",
+          "role": "primary"
+        },
+        {
+          "text": "SCREEN EXISTING STOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DETAILED ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "LISTING ALONE",
+          "role": "primary"
+        },
+        {
+          "text": "NOT COMPLETION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SCREEN EXISTING STOCK",
+        "PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY",
+        "DETAILED ASSESSMENT → SANCTION → WORK → VERIFY",
+        "AUDIT / LISTING ALONE → NOT COMPLETION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SCREEN EXISTING STOCK",
+            "PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DETAILED ASSESSMENT → SANCTION → WORK → VERIFY",
+            "AUDIT / LISTING ALONE → NOT COMPLETION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SCREEN EXISTING STOCK",
+            "PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DETAILED ASSESSMENT → SANCTION → WORK → VERIFY.",
+      "source_references": [
+        "Retrofitting boundary",
+        "Institutional responsibility"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LIFELINE CONTINUITY MAP",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LIFELINE CONTINUITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "HOSPITAL + EOC + FIRE",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER + WATER + TELECOM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PHYSICAL SAFETY AND POST-EVENT FUNCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOSPITAL + EOC + FIRE / RESCUE",
+        "POWER + WATER + TELECOM",
+        "ROAD / BRIDGE / ACCESS",
+        "TEST → physical safety AND post-event function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HOSPITAL + EOC + FIRE / RESCUE",
+            "POWER + WATER + TELECOM"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ROAD / BRIDGE / ACCESS",
+            "TEST → physical safety AND post-event function"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "HOSPITAL + EOC + FIRE / RESCUE",
+            "POWER + WATER + TELECOM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROAD / BRIDGE / ACCESS; TEST → physical safety AND post-event function.",
+      "source_references": [
+        "Lifeline resilience"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MONITORING-PREDICTION BOUNDARY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MONITORING-PREDICTION BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "EVENT DETECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PARAMETER REPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "HAZARD ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANNING INPUT",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTIVE ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRECISE FUTURE MAGNITUDE PLACE AND TIME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SENSOR → EVENT DETECTION → PARAMETER REPORT",
+        "HAZARD ASSESSMENT → PLANNING INPUT",
+        "PREPAREDNESS → PROTECTIVE ACTION",
+        "NOT → precise future magnitude place and time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SENSOR → EVENT DETECTION → PARAMETER REPORT",
+            "HAZARD ASSESSMENT → PLANNING INPUT"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PREPAREDNESS → PROTECTIVE ACTION",
+            "NOT → precise future magnitude place and time"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SENSOR → EVENT DETECTION → PARAMETER REPORT",
+            "HAZARD ASSESSMENT → PLANNING INPUT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT → precise future magnitude place and time.",
+      "source_references": [
+        "Prediction boundary",
+        "Monitoring boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EARTHQUAKE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EARTHQUAKE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE MAGNITUDE INTENSITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP ZONE + SITE + EXPOSURE + VULNERABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES",
+          "role": "primary"
+        },
+        {
+          "text": "TEST ENFORCEMENT EQUITY CONTINUITY AND VERIFIED OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE RISK → SEPARATE MAGNITUDE INTENSITY",
+        "MAP ZONE + SITE + EXPOSURE + VULNERABILITY",
+        "COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES",
+        "TEST ENFORCEMENT EQUITY CONTINUITY AND VERIFIED OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE RISK → SEPARATE MAGNITUDE INTENSITY",
+            "MAP ZONE + SITE + EXPOSURE + VULNERABILITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES",
+            "TEST ENFORCEMENT EQUITY CONTINUITY AND VERIFIED OUTCOME"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE RISK → SEPARATE MAGNITUDE INTENSITY",
+            "MAP ZONE + SITE + EXPOSURE + VULNERABILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES.",
+      "source_references": [
+        "Equity and informality",
+        "Safety-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RESPONSIBILITY IS EXPLICITLY BIFURCATED BY STRUCTURE TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATION AND ENFORCEMENT MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "STATE GOVERNMENTS MUST",
+          "role": "institution"
+        },
+        {
+          "text": "LIFELINE-STRUCTURE IDENTIFICATION IS STATE-SPECIFIC, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "HIMALAYAN-BELT DEVELOPMENT PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOURTEEN STATES LIE IN THE",
+          "role": "comparison"
+        },
+        {
+          "text": "EARTHQUAKE EARLY WARNING IS NOT THE SAME AS EARTHQUAKE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Responsibility is explicitly bifurcated by structure type : all",
+            "Regulation and enforcement mechanism : State Governments must",
+            "Lifeline-structure identification is State-specific, not",
+            "CAUTION: Himalayan-belt development pressure : fourteen States lie in the"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Earthquake early warning is not the same as earthquake",
+            "Any claim about current seismic-monitoring-station density, network",
+            "CAUTION: The withdrawn seismic-zonation revision is the sharpest available",
+            "CAUTION: Informal/rural construction bears disproportionate seismic risk :"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: New-construction codes versus existing-stock retrofitting is a",
+            "NOT: The \"a National Building Code exists, therefore buildings are",
+            "CAUTION: State-level variation in retrofitting pace (Section 3) is a",
+            "CAUTION: VisionIAS does not detail a specific seismic-retrofitting financing"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

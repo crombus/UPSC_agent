@@ -1,0 +1,1237 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+  "subject": "Philosophy",
+  "title": "CRIME AND PUNISHMENT",
+  "short_route": "THE CENTRAL QUESTION OF → CONDITIONS OF RESPONSIBLE PUNISHMENT → THE RETRIBUTIVE ARGUMENT: DESERT → DETERRENCE AND INCAPACITATION WEIGHED → REFORM, DIGNITY AND THE → THE THREE-QUESTION GRID AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-07-ascii-g5-2026-09-03.json",
+  "ascii_spec_sha256": "d60bbdb29488c85343c7301e2cc3e167961051cfeec3331118ad9c3258c42fb2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION OF THE CLAUSE AND THE THREE DOORS FROM WRONG TO PUNISHMENT",
+      "structural_type": "root-question-and-three-gate-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE CENTRAL QUESTION OF THE CLAUSE AND THE THREE",
+          "role": "primary"
+        },
+        {
+          "text": "WHEN, AND ON WHAT TERMS, MAY A POLITICAL COMMUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE DOORS, THREE SEPARATE KEYS (NEVER OPEN DOOR 3",
+          "role": "comparison"
+        },
+        {
+          "text": "DOOR 1 WRONGDOING",
+          "role": "evidence"
+        },
+        {
+          "text": "HAS A JUSTIFIED ETHICAL NORM BEEN BREACHED?",
+          "role": "primary"
+        },
+        {
+          "text": "DOOR 2 CRIMINALISATION→ MAY THE STATE BRING THIS INSIDE",
+          "role": "institution"
+        },
+        {
+          "text": "DOOR 3 PUNISHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "BY WHICH THEORY, AND WITHIN WHICH LIMITS?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → when, and on what terms, may a political community turn a wrong",
+        "THREE DOORS, THREE SEPARATE KEYS (never open door 3 from door 1)",
+        "DOOR 1 WRONGDOING → has a justified ethical norm been breached?",
+        "DOOR 2 CRIMINALISATION→ may the state bring this inside the code?",
+        "DOOR 3 PUNISHMENT → by which theory, and within which limits?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION → when, and on what terms, may a political community turn a wrong into a crime and attach punishment to it?",
+            "THREE DOORS, THREE SEPARATE KEYS (never open door 3 from door 1)",
+            "DOOR 1 WRONGDOING → has a justified ethical norm been breached?",
+            "DOOR 2 CRIMINALISATION→ may the state bring this inside the code?",
+            "DOOR 3 PUNISHMENT → by which theory, and within which limits?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "B overlap → murder, theft: legal AND moral wrong (paradigm)",
+            "C wrong only → a grave moral wrong the code never reached",
+            "CONSEQUENCE → validity does not prove justice; wrongness does not prove criminalisability",
+            "THREE ACCOUNTS OF CRIME, WITH THE LIMIT ATTACHED TO EACH legal-positivist → what has the law prohibited?",
+            "limit: validity certainty and fair notice != justice moral → what wrongful harm occurred?"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DEFENCES → JUSTIFICATION defends act",
+            "EXCUSE reduces blame/control",
+            "THE CRIMINALISATION FILTER -- five gates in series harm → rights → public wrong → culpability → proportionality",
+            "FAIL ANY GATE → criminalisation unjustified, however disliked",
+            "CONTROL → abhorrence is not a licence; the theory of punishment begins only after gate five has been cleared."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → abhorrence is not a licence; the theory of punishment begins only after gate five has been cleared.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONDITIONS OF RESPONSIBLE PUNISHMENT AND THE CLASSIFICATION OF THE SEVEN THEORIES",
+      "structural_type": "responsibility-conditions-and-theory-classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONDITIONS OF RESPONSIBLE PUNISHMENT AND THE CLASSIFICATION OF THE",
+          "role": "primary"
+        },
+        {
+          "text": "HARD TREATMENT + AUTHORITATIVE CENSURE, IMPOSED BY A COMPETENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SEVEN ENABLING CONDITIONS (ALL MUST HOLD BEFORE ANY THEORY",
+          "role": "comparison"
+        },
+        {
+          "text": "1 PUBLIC LAW KNOWN IN ADVANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONDUCT IS GUIDABLE",
+          "role": "primary"
+        },
+        {
+          "text": "2 VOLUNTARY ACT OR LEGALLY RELEVANT OMISSION",
+          "role": "institution"
+        },
+        {
+          "text": "3 CULPABILITY GRADED",
+          "role": "comparison"
+        },
+        {
+          "text": "INTENTION KNOWLEDGE RECKLESSNESS NEGLIGENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUNISHMENT = hard treatment + AUTHORITATIVE CENSURE, imposed by a competent public authority for a",
+        "SEVEN ENABLING CONDITIONS (all must hold before any theory is reached)",
+        "1 public law known in advance → conduct is guidable",
+        "2 voluntary act or legally relevant omission",
+        "3 culpability GRADED: intention knowledge recklessness negligence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PUNISHMENT = hard treatment + AUTHORITATIVE CENSURE, imposed by a competent public authority for a proved breach",
+            "SEVEN ENABLING CONDITIONS (all must hold before any theory is reached)",
+            "1 public law known in advance → conduct is guidable",
+            "2 voluntary act or legally relevant omission",
+            "3 culpability GRADED: intention knowledge recklessness negligence"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "or control, and an official may be responsible for culpable omission",
+            "FREEDOM → compatibilism asks for reasons-responsive control",
+            "SEVEN THEORIES",
+            "CENTRAL TEST",
+            "MAIN DANGER retributive"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "biased confinement reformative",
+            "victims neglected restorative",
+            "restitution + participation",
+            "imbalance expressive",
+            "hard-treatment gap"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → punishment differs from revenge by being public, proportionate, impartial and rule-governed.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE RETRIBUTIVE ARGUMENT: DESERT AS GROUND AND AS CEILING",
+      "structural_type": "desert-argument-mechanism-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE RETRIBUTIVE ARGUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DESERT AS GROUND AND AS CEILING",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNISH BECAUSE A CULPABLE WRONG WAS DONE, NOT IN",
+          "role": "caution"
+        },
+        {
+          "text": "FOUR-STEP ARGUMENT (REPRODUCE AS NUMBERED PREMISES)",
+          "role": "evidence"
+        },
+        {
+          "text": "(1) THE CRIME ASSERTS A MAXIM INCOMPATIBLE WITH EQUAL",
+          "role": "primary"
+        },
+        {
+          "text": "(2) IMPUTABLE AGENCY MAKES THE OFFENDER ANSWERABLE FOR IT",
+          "role": "outcome"
+        },
+        {
+          "text": "(3) A PROPORTIONATE LEGAL RESPONSE PUBLICLY DENIES THAT MAXIM",
+          "role": "comparison"
+        },
+        {
+          "text": "(4) THE DENIAL EXPRESSES RESPECT FOR RIGHT, NOT PRIVATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIM → punish BECAUSE a culpable wrong was done, not in order to produce a",
+        "FOUR-STEP ARGUMENT (reproduce as numbered premises)",
+        "(1) the crime asserts a MAXIM incompatible with equal right",
+        "(2) IMPUTABLE AGENCY makes the offender answerable for it",
+        "(3) a PROPORTIONATE legal response publicly denies that maxim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CLAIM → punish BECAUSE a culpable wrong was done, not in order to produce a future benefit",
+            "FOUR-STEP ARGUMENT (reproduce as numbered premises)",
+            "(1) the crime asserts a MAXIM incompatible with equal right",
+            "(2) IMPUTABLE AGENCY makes the offender answerable for it",
+            "(3) a PROPORTIONATE legal response publicly denies that maxim"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "(4) the denial expresses RESPECT FOR RIGHT, not private revenge",
+            "KANT: punishment answers the culpable act; the offender is an end, never a mere instrument of deterrence",
+            "HEGEL: punishment is the ANNULMENT of the crime's wrongful claim; it restores right and honours the offender as a responsible agent",
+            "OBJECTION → suffering does not undo suffering; desert alone does not show why the STATE should add pain to the world",
+            "REPLY → LIMITING (negative) RETRIBUTIVISM never WITHOUT desert"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "never BEYOND desert maximising form: desert REQUIRES the penalty → rights objection bites here",
+            "limiting form: desert PERMITS up to a ceiling → rights objection fails here",
+            "RESIDUAL LIMIT → the limiting form buys defence by surrendering the positive aim, so Q1 remains unanswered and passes to the grid.",
+            "CONTROL → retribution is public, proportionate and impartial",
+            "vengeance is private, unbounded and partisan."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → retribution is public, proportionate and impartial;.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DETERRENCE AND INCAPACITATION WEIGHED ON THE SAME AXES",
+      "structural_type": "prevention-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DETERRENCE AND INCAPACITATION WEIGHED ON THE SAME AXES",
+          "role": "primary"
+        },
+        {
+          "text": "FORWARD-LOOKING PREVENTION SPLITS INTO TWO ARGUMENTS WITH TWO TARGETS",
+          "role": "outcome"
+        },
+        {
+          "text": "DETERRENCE (WORKS ON REASONS) INCAPACITATION (WORKS ON OPPORTUNITY) SPECIFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS OFFENDER RESTRAINS A DANGEROUS OFFENDER GENERAL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVERYONE ELSE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "NECESSITY AND RISK DANGER",
+          "role": "caution"
+        },
+        {
+          "text": "INDEFINITE OR V DISCRIMINATORY CONFINEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUR PRESUPPOSITIONS OF THE DETERRENT CLAIM PERSONS RESPOND TO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORWARD-LOOKING PREVENTION splits into two arguments with two targets",
+        "DETERRENCE (works on REASONS) INCAPACITATION (works on OPPORTUNITY) specific → this offender restrains a dangerous",
+        "offender general → everyone else test: necessity and risk danger: indefinite or v discriminatory confinement",
+        "FOUR PRESUPPOSITIONS OF THE DETERRENT CLAIM persons respond to perceived costs sanctions are known and",
+        "sufficiently certain preventive benefit exceeds direct and collateral harm less harmful alternatives are inadequate"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "FORWARD-LOOKING PREVENTION splits into two arguments with two targets",
+          "sufficiently certain preventive benefit exceeds direct and collateral harm less harmful alternatives are inadequate",
+          "rights should constrain utility independently at Q3 how much ---------- FAILS: no ceiling without a desert limit"
+        ],
+        [
+          "DETERRENCE (works on REASONS) INCAPACITATION (works on OPPORTUNITY) specific → this offender restrains a dangerous",
+          "BECCARIA / BENTHAM → CERTAINTY and PROMPTNESS outweigh SEVERITY",
+          "CONTROL → comparative deterrent effect is an EMPIRICAL CONTROVERSY"
+        ],
+        [
+          "offender general → everyone else test: necessity and risk danger: indefinite or v discriminatory confinement",
+          "all punishment is an evil, justified only by preventing a greater evil",
+          "never report it as proved or disproved."
+        ],
+        [
+          "FOUR PRESUPPOSITIONS OF THE DETERRENT CLAIM persons respond to perceived costs sanctions are known and",
+          "WHERE THE OBJECTION LANDS at Q1 general aim ------- strong: prevention is a statable purpose at Q2 who",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "FORWARD-LOOKING PREVENTION splits into two arguments with two targets",
+            "DETERRENCE (works on REASONS) INCAPACITATION (works on OPPORTUNITY) specific → this offender restrains a dangerous",
+            "offender general → everyone else test: necessity and risk danger: indefinite or v discriminatory confinement",
+            "FOUR PRESUPPOSITIONS OF THE DETERRENT CLAIM persons respond to perceived costs sanctions are known and"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "sufficiently certain preventive benefit exceeds direct and collateral harm less harmful alternatives are inadequate",
+            "BECCARIA / BENTHAM → CERTAINTY and PROMPTNESS outweigh SEVERITY",
+            "all punishment is an evil, justified only by preventing a greater evil",
+            "WHERE THE OBJECTION LANDS at Q1 general aim ------- strong: prevention is a statable purpose at Q2 who"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "rights should constrain utility independently at Q3 how much ---------- FAILS: no ceiling without a desert limit",
+            "CONTROL → comparative deterrent effect is an EMPIRICAL CONTROVERSY",
+            "never report it as proved or disproved."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "prevention is a statable purpose at Q2 who may be punished FAILS: permits convicting a known innocent reply → rule-utilitarian legality and due process are themselves utility-maximising rules rejoinder→ protection then rests on a calculation that could come out the other way; rights should constrain utility independently at Q3 how much ---------- FAILS: no ceiling without a desert limit.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REFORM, DIGNITY AND THE TWO PROPORTIONALITY DIMENSIONS FOR JUVENILES",
+      "structural_type": "proportionality-decision-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REFORM, DIGNITY AND THE TWO PROPORTIONALITY DIMENSIONS FOR JUVENILES",
+          "role": "primary"
+        },
+        {
+          "text": "REFORMATIVE THESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE OFFENDER IS CAPABLE OF MORAL DEVELOPMENT AND OF",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGNITY ARGUMENT, FOUR STEPS",
+          "role": "evidence"
+        },
+        {
+          "text": "(1) PERSONS ARE MORE THAN THEIR WORST ACT",
+          "role": "institution"
+        },
+        {
+          "text": "(2) RESPONSIBLE AGENCY CAN BE IMPAIRED AND REBUILT",
+          "role": "outcome"
+        },
+        {
+          "text": "(3) A HUMANE STATE REDUCES WRONGDOING BY CAPABILITY, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "(4) PUNISHMENT MUST PRESERVE A ROUTE BACK TO MEMBERSHIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REFORMATIVE THESIS → the offender is capable of moral development and of return to lawful",
+        "DIGNITY ARGUMENT, four steps",
+        "(1) persons are more than their worst act",
+        "(2) responsible agency can be impaired and rebuilt",
+        "(3) a humane state reduces wrongdoing by CAPABILITY, not degradation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "REFORMATIVE THESIS → the offender is capable of moral development and of return to lawful membership",
+            "DIGNITY ARGUMENT, four steps",
+            "(1) persons are more than their worst act",
+            "(2) responsible agency can be impaired and rebuilt",
+            "(3) a humane state reduces wrongdoing by CAPABILITY, not degradation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ignorance, addiction, trauma, exclusion, distorted incentives -- WITHOUT denying responsibility",
+            "TWO DIMENSIONS OF PROPORTIONALITY",
+            "ORDINAL → ranks offences against one another",
+            "CARDINAL → fixes how severe the WHOLE penal scale may be",
+            "JUVENILE DECISION SEQUENCE seriousness of harm → intention and understanding → developmental"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "RESULT → harm may rank high ORDINALLY while reduced and developing agency lowers CULPABILITY, so the deserved point on the",
+            "CARDINAL scale falls",
+            "VERDICT → the nature of the crime is RELEVANT but NOT CONCLUSIVE",
+            "offence-centred and offender-centred views are integrated",
+            "OBJECTION → compulsory treatment pathologises dissent, runs indefinitely"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → the nature of the crime is RELEVANT but NOT CONCLUSIVE;.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE THREE-QUESTION GRID AND THE MIXED OR LIMITING THEORY",
+      "structural_type": "justifying-question-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE THREE-QUESTION GRID AND THE MIXED OR LIMITING THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "THE CLASSIC MISTAKE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE ANSWER OFFERED TO THREE DIFFERENT QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE QUESTION",
+          "role": "evidence"
+        },
+        {
+          "text": "BEST ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "FAILS FOR",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY SHOULD THE",
+          "role": "comparison"
+        },
+        {
+          "text": "PURE INSTITUTION EXIST?",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "THE CLASSIC MISTAKE → one answer offered to three different questions",
+        "THE QUESTION",
+        "BEST ANSWER",
+        "FAILS FOR",
+        "why should the"
+      ],
+      "matrix": [
+        [
+          "Q",
+          "THE QUESTION",
+          "BEST ANSWER",
+          "FAILS FOR"
+        ],
+        [
+          "GENERAL JUSTIFYING AIM",
+          "protection, security",
+          "",
+          ""
+        ],
+        [
+          "DISTRIBUTION/LIABILITY",
+          "voluntary act,",
+          "",
+          ""
+        ],
+        [
+          "AMOUNT/SEVERITY",
+          "cardinal ceiling",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "THE CLASSIC MISTAKE → one answer offered to three different questions",
+            "THE QUESTION",
+            "BEST ANSWER",
+            "FAILS FOR",
+            "why should the"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "whom may we punish,",
+            "pure on what condition?",
+            "desert: guilt,",
+            "voluntary act,",
+            "how much punishment"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "THE SEPARATION ARGUMENT (associated with Hart)",
+            "(1) an institution may be justified by its general benefit while its applications follow an independent principle of fairness",
+            "(2) ordinary institutional reasoning: the point of promise-keeping differs from the rules fixing who is bound by a given promise",
+            "(3) prevention supplies the AIM; desert supplies the SIDE-CONSTRAINT",
+            "(4) therefore MIXED / TWO-LEVEL THEORY: consequentialist in aim, retributivist in constraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → each objection now has an ADDRESS: punishing the innocent lands at Q2; why-inflict-suffering lands at Q1.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EXPRESSIVE, COMMUNICATIVE AND RESTORATIVE THEORIES COMPARED",
+      "structural_type": "penal-family-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXPRESSIVE, COMMUNICATIVE AND RESTORATIVE THEORIES COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT SEPARATES PUNISHMENT FROM A MERE PENALTY?",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDEMNATION A PARKING FINE AND A CONVICTION BOTH IMPOSE",
+          "role": "comparison"
+        },
+        {
+          "text": "WRONGFUL CONVICTION IS A DISTINCT WRONG; DEGRADING PUNISHMENT IS",
+          "role": "evidence"
+        },
+        {
+          "text": "VINDICATION, NOT A MERE RELEASE",
+          "role": "caution"
+        },
+        {
+          "text": "RESTORATIVE DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO-WAY ADDRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATIONAL OFFENDER IS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHAT SEPARATES PUNISHMENT FROM A MERE PENALTY?",
+        "→ CONDEMNATION a parking fine and a conviction both impose hardship",
+        "only the second carries authoritative reprobation (FEINBERG) explains → wrongful conviction is a distinct wrong",
+        "degrading punishment is objectionable apart from severity",
+        "acquittal is a"
+      ],
+      "matrix": [
+        [
+          "repair needed central question",
+          "what is deserved",
+          "are you",
+          "who was hurt,"
+        ],
+        [
+          "answerable?",
+          "what is needed?",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "WHAT SEPARATES PUNISHMENT FROM A MERE PENALTY?",
+            "→ CONDEMNATION a parking fine and a conviction both impose hardship",
+            "only the second carries authoritative reprobation (FEINBERG) explains → wrongful conviction is a distinct wrong",
+            "degrading punishment is objectionable apart from severity",
+            "acquittal is a"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "object of",
+            "active judgment",
+            "participant aim",
+            "reintegration hard treatment",
+            "credible censure"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "are you",
+            "who was hurt,",
+            "what is needed?",
+            "DUFF'S STANDING CONDITION → a polity that has denied a person the conditions of citizenship has weakened its STANDING to call him to account.",
+            "An argument about standing, not about causation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FOUCAULT CAVEAT → discipline, panopticism, docile bodies, produced delinquency: GENEALOGY of penal power, never a justification.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CORRUPTION: ENTRUSTED POWER, PARTICULARISM AND THE SYSTEMIC-ETHICAL VERDICT",
+      "structural_type": "corruption-wrong-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENTRUSTED POWER, PARTICULARISM AND THE SYSTEMIC-ETHICAL VERDICT",
+          "role": "mechanism"
+        },
+        {
+          "text": "MISUSE OF ENTRUSTED PUBLIC OR INSTITUTIONAL POWER THROUGH PARTIAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "FAVOURITISM, NEPOTISM, EMBEZZLEMENT, REGULATORY CAPTURE, ABUSE OF DISCRETION",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE WRONGS, IN ORDER OF DEPTH BREACH OF FIDUCIARY",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICE CREATES OBLIGATIONS VIOLATION OF IMPARTIALITY",
+          "role": "primary"
+        },
+        {
+          "text": "LIKE CASES TREATED UNLIKE INJURY TO THE RULE OF",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVATE ACCESS DISPLACES PUBLIC RULES HARM TO CIVIC AGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "CITIZENS BECOME CLIENTS, NOT EQUALS INSTITUTIONAL CORROSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CORRUPTION = misuse of ENTRUSTED public or institutional power through partial, concealed or improperly exchanged",
+        "Wider than bribery: favouritism, nepotism, embezzlement, regulatory capture, abuse of discretion",
+        "FIVE WRONGS, IN ORDER OF DEPTH breach of fiduciary trust → office creates obligations violation",
+        "→ like cases treated unlike injury to the rule of law → private access displaces",
+        "harm to civic agency → citizens become clients, not equals institutional corrosion → honest action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CORRUPTION = misuse of ENTRUSTED public or institutional power through partial, concealed or improperly exchanged advantage.",
+            "Wider than bribery: favouritism, nepotism, embezzlement, regulatory capture, abuse of discretion",
+            "FIVE WRONGS, IN ORDER OF DEPTH breach of fiduciary trust → office creates obligations violation of impartiality",
+            "→ like cases treated unlike injury to the rule of law → private access displaces public rules",
+            "harm to civic agency → citizens become clients, not equals institutional corrosion → honest action becomes costly"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARTICULARISTIC vs UNIVERSALISTIC STANDARDS (2025 Q1a route)",
+            "(1) personal relations generate GENUINE duties",
+            "(2) public office is entrusted for a specified common purpose",
+            "(3) discharging private loyalty through office costs unrepresented citizens",
+            "(4) corruption = a legitimate PARTICULAR loyalty acted upon inside a role governed by UNIVERSAL criteria"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REMEDY → role boundaries, conflict-of-interest rules, recusal not the abolition of loyalty",
+            "ETHICAL or SYSTEMIC?",
+            "(2022 Q1c route) ethical: greed, dishonesty, weak integrity → moral education systemic: opacity, monopoly, discretion, impunity → transparency,",
+            "VERDICT → an ETHICAL ACT inside a SYSTEMIC ECOLOGY; structure shapes opportunity and cost but does not erase agency.",
+            "REGIME → no regime is automatically immune; regime type affects information, accountability and competition, not outcomes alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → an ETHICAL ACT inside a SYSTEMIC ECOLOGY; structure shapes opportunity and cost but does not erase agency.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MASS VIOLENCE: MECHANISMS AND THE FIVE KINDS OF COLLECTIVE RESPONSIBILITY",
+      "structural_type": "responsibility-taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MASS VIOLENCE",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISMS AND THE FIVE KINDS OF COLLECTIVE RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGE-SCALE VIOLENCE AGAINST POPULATIONS PRODUCED BY ORGANISED COERCION, COLLECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "SIX MECHANISMS THAT LOWER THE THRESHOLD DEHUMANISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "VICTIMS FIGURED AS CONTAMINANTS OR NON-PERSONS MORAL EXCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY RESTRAINTS WITHDRAWN FROM AN OUT-GROUP DIFFUSION OF RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AGENCY TREATED AS FRAGMENTED OBEDIENCE AND BUREAUCRACY",
+          "role": "comparison"
+        },
+        {
+          "text": "HARM ROUTINISED AS ROLE-PERFORMANCE POLARISATION AND PROPAGANDA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MASS VIOLENCE = large-scale violence against populations produced by organised coercion, collective mobilisation or cascading",
+        "SIX MECHANISMS THAT LOWER THE THRESHOLD dehumanisation → victims figured as contaminants or non-persons moral",
+        "restraints withdrawn from an out-group diffusion of responsibility → agency treated as fragmented obedience and",
+        "routinised as role-performance polarisation and propaganda → ambiguity and dissent suppressed security dilemma → pre-emption",
+        "ARENDT → thoughtlessness, cliche and careerism, not demonic depth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MASS VIOLENCE = large-scale violence against populations produced by organised coercion, collective mobilisation or cascading participation",
+            "SIX MECHANISMS THAT LOWER THE THRESHOLD dehumanisation → victims figured as contaminants or non-persons moral exclusion → ordinary",
+            "restraints withdrawn from an out-group diffusion of responsibility → agency treated as fragmented obedience and bureaucracy → harm",
+            "routinised as role-performance polarisation and propaganda → ambiguity and dissent suppressed security dilemma → pre-emption reinterpreted as self-defence",
+            "ARENDT → thoughtlessness, cliche and careerism, not demonic depth"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "defensible where the",
+            "institutions, body has real agency",
+            "commands, parties political responsibility",
+            "partly: grounds",
+            "citizens reparation and reform"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "role and situation inherited/metaphysical",
+            "NO -- the perpetrator's",
+            "rejected guilt",
+            "own reasoning",
+            "RULE → guilt is INDIVIDUAL; responsibility admits collective forms"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → guilt is INDIVIDUAL; responsibility admits collective forms.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GENOCIDE: LEMKIN'S COINAGE, THE 1948 CONVENTION AND THE NEIGHBOURING CATEGORIES",
+      "structural_type": "genocide-concept-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LEMKIN'S COINAGE, THE 1948 CONVENTION AND THE NEIGHBOURING CATEGORIES",
+          "role": "primary"
+        },
+        {
+          "text": "1944 LEMKIN, AXIS RULE IN OCCUPIED EUROPE",
+          "role": "outcome"
+        },
+        {
+          "text": "COINS GENOCIDE FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "GREEK GENOS (RACE, TRIBE) + LATIN -CIDE (KILLING)",
+          "role": "evidence"
+        },
+        {
+          "text": "LEMKIN'S CONCEPTION",
+          "role": "primary"
+        },
+        {
+          "text": "A COORDINATED PLAN AIMED AT DESTROYING THE ESSENTIAL FOUNDATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONS, CULTURE, LANGUAGE, RELIGION, ECONOMIC EXISTENCE, PERSONAL SECURITY, LIBERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "1948 CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1944 LEMKIN, Axis Rule in Occupied Europe → coins GENOCIDE from",
+        "Greek genos (race, tribe) + Latin -cide (killing)",
+        "LEMKIN'S CONCEPTION → a coordinated plan aimed at destroying the ESSENTIAL FOUNDATIONS OF THE LIFE",
+        "Killing is ONE method.",
+        "1948 CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "1944 LEMKIN, Axis Rule in Occupied Europe → coins GENOCIDE from",
+            "Greek genos (race, tribe) + Latin -cide (killing)",
+            "LEMKIN'S CONCEPTION → a coordinated plan aimed at destroying the ESSENTIAL FOUNDATIONS OF THE LIFE of a group",
+            "Killing is ONE method.",
+            "1948 CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GENOCIDE → specified acts + SPECIFIC INTENT to destroy, in whole or in part, a NATIONAL, ETHNICAL, RACIAL or RELIGIOUS group, AS SUCH.",
+            "1951 → entry into force.",
+            "PRECISION → the adopted text is NARROWER than Lemkin; political groups are NOT among the protected categories",
+            "WHY IT IS A DISTINCTIVE MORAL WRONG victims attacked as MEMBERS of a group",
+            "marked for destruction cultural and generational continuity is targeted the perpetrator claims power to"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "decide which human plurality exists individual killing and collective annihilatory purpose are joined",
+            "NEIGHBOURING CATEGORIES -- do not merge them mass violence → scale and pattern",
+            "no fixed intent test genocide → specific intent against a protected group crimes against humanity→ widespread or systematic",
+            "CONTROL → not every massacre is genocide; intent is decisive, may be inferred from a pattern, and NO episode or actor is named here."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1944 LEMKIN, Axis Rule in Occupied Europe → coins GENOCIDE from.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CAPITAL PUNISHMENT: THE ARGUMENT TREE, OBJECTIONS AND REPLIES",
+      "structural_type": "objection-and-reply-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CAPITAL PUNISHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE ARGUMENT TREE, OBJECTIONS AND REPLIES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE STATE'S INTENTIONAL EXECUTION OF A CONVICTED AND SECURED",
+          "role": "institution"
+        },
+        {
+          "text": "FOR AGAINST RETRIBUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAVEST CULPABLE FALLIBILITY + IRREVERSIBILITY KILLING, GRAVEST RESPONSE DIGNITY",
+          "role": "primary"
+        },
+        {
+          "text": "THE STATE KILLS A DETERRENCE [EMPIRICAL, CONTESTED] RESTRAINED PERSON",
+          "role": "institution"
+        },
+        {
+          "text": "IS THE RIGHT TO LIFE ABSOLUTE? (2025 Q3A ROUTE)",
+          "role": "comparison"
+        },
+        {
+          "text": "(1) A RIGHT MAY BE FUNDAMENTAL WITHOUT BEING EXCEPTIONLESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPITAL PUNISHMENT = the state's intentional execution of a convicted and SECURED offender -- irreversible",
+        "and it removes the very agent whose responsibility, reform and rights penal theory relies upon",
+        "FOR AGAINST retribution: gravest culpable fallibility + IRREVERSIBILITY killing, gravest response dignity: the state kills",
+        "a deterrence [EMPIRICAL, CONTESTED] restrained person incapacitation -- but secure deterrence uncertainty custody also incapacitates",
+        "unequal administration public affirmation of the equal foreclosure of reform value of victims death-row suffering"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPITAL PUNISHMENT = the state's intentional execution of a convicted and SECURED offender -- irreversible,",
+            "and it removes the very agent whose responsibility, reform and rights penal theory relies upon",
+            "FOR AGAINST retribution: gravest culpable fallibility + IRREVERSIBILITY killing, gravest response dignity: the state kills",
+            "a deterrence [EMPIRICAL, CONTESTED] restrained person incapacitation -- but secure deterrence uncertainty custody also incapacitates",
+            "unequal administration public affirmation of the equal foreclosure of reform value of victims death-row suffering"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "(2) it yields to a PRESENT unjust threat: self-defence, necessity",
+            "(3) execution follows CUSTODY and ADJUDICATION",
+            "(4) less final means of incapacitation are available",
+            "(5) therefore the defensive permission does NOT transfer",
+            "KANTIAN TENSION → desert supports the penalty; persons-as-ends intensifies concern about certainty and instrumental deterrence"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "retained the penalty, formulated the rarest of rare limitation",
+            "Law Commission Report No.",
+            "262 (2015) → ADVISORY REPORT",
+            "recommended abolition for ordinary crimes, excluding specified terrorism related and war contexts.",
+            "Not legislation, not a judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(5) therefore the defensive permission does NOT transfer.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTEGRATED ANSWER SPINE, DIRECTIVE DECODER AND THE GRADED VERDICT BANK",
+      "structural_type": "integrated-answer-and-revision-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTEGRATED ANSWER SPINE, DIRECTIVE DECODER AND THE GRADED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR STANDING DEBATES OF THE CLAUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "KANT VS BENTHAM",
+          "role": "comparison"
+        },
+        {
+          "text": "DESERT VS PREVENTION; BACKWARD VS FORWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "SANCTIFIED SUFFERING VS INSTRUMENTALISING RETRIBUTION VS REFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "A FALSE ALTERNATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "DESERT SETS THE UPPER LIMIT, HUMANE REFORM WORKS INSIDE",
+          "role": "caution"
+        },
+        {
+          "text": "ARENDT VS MONSTER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FOUR STANDING DEBATES OF THE CLAUSE",
+        "Kant vs Bentham → desert vs prevention; backward vs forward",
+        "sanctified suffering vs instrumentalising retribution vs reform → a FALSE alternative: desert sets the upper",
+        "Arendt vs monster → thoughtless bureaucratic participation vs theories of evil evil placed outside ordinary",
+        "the two are not exclusive loyalty vs impartiality→ particular bonds are real, but entrusted office"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FOUR STANDING DEBATES OF THE CLAUSE",
+            "Kant vs Bentham → desert vs prevention; backward vs forward",
+            "sanctified suffering vs instrumentalising retribution vs reform → a FALSE alternative: desert sets the upper limit, humane reform works inside it",
+            "Arendt vs monster → thoughtless bureaucratic participation vs theories of evil evil placed outside ordinary humanity",
+            "the two are not exclusive loyalty vs impartiality→ particular bonds are real, but entrusted office is not private property"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Discuss → theory, rival, objection, reply, verdict",
+            "Critically examine → two objections, replies, residual problems",
+            "Is X justified? → Q1 aim, Q2 liability, Q3 amount, verdict",
+            "Abolish or retain? → name the CRITERION first, then apply",
+            "Is X a form of Y? → state Y's conditions, test X, graded verdict"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "on the SAME question → one objection, reply, residual limit → one correctly classified illustration → GRADED VERDICT",
+            "GRADED VERDICT BANK -- adapt, never reproduce mechanically layered",
+            "standing conditional-appropriateness",
+            "differentiated-responsibility critical-qualification",
+            "FINAL CONTROL → separate philosophical validity from implementation and from empirical effect; that separation is the marked move."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRADED VERDICT BANK -- adapt, never reproduce mechanically layered | question-separating | fallibility | standing conditional-appropriateness | differentiated-responsibility critical-qualification.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — CRIME AS LEGAL WRONG VERSUS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — CONDITIONS OF JUST PUNISHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RESPONSIBILITY, CULPABILITY AND THE FIVE THEORIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — RETRIBUTIVISM",
+          "role": "primary"
+        },
+        {
+          "text": "DESERT, KANT, HEGEL AND THE LIMITS OF PUNISHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — DETERRENCE AND INCAPACITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE UTILITARIAN JUSTIFICATION OF PUNISHMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+            "ADVANCED SESSION 2 — Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+            "ADVANCED SESSION 3 — Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+            "ADVANCED SESSION 4 — Deterrence and Incapacitation: the Utilitarian Justification of Punishment"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Reform, Dignity, Proportionality and Juveniles",
+            "ADVANCED SESSION 6 — The Three-Question Grid and the Mixed / Limiting Theory",
+            "ADVANCED SESSION 7 — Expressive, Communicative and Restorative Theories; Foucault's Caution",
+            "ADVANCED SESSION 8 — Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Capital Punishment: the Argument Tree and the Indian Position",
+            "ADVANCED SESSION 10 — Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite: Crime, punishment, corruption, mass violence, genocide and capital punishment as named syllabus terms"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

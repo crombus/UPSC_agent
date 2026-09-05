@@ -1,0 +1,1080 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-09",
+  "subject": "Disaster-Management",
+  "title": "DROUGHT, HEAT WAVES AND SLOW-ONSET RISK",
+  "short_route": "DROUGHT IDENTITY FIREWALL → DROUGHT-FAMILY MATRIX → SLOW-ONSET CASCADE → DECLARATION DASHBOARD → HEAT HAZARD-TO-HARM CHAIN → WET-BULB FIREWALL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-09-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "5785c5c555e8cfaf634cf9feee09a188a9de6c086a7df3187248b6388851732e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DROUGHT IDENTITY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DROUGHT IDENTITY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PERSISTENT CLIMATIC MOISTURE CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPORARY DEFICIT RELATIVE TO LOCAL EXPECTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPLY-DEMAND-ACCESS CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "SERIOUS DISRUPTION BEYOND COPING CAPACITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARIDITY → persistent climatic moisture condition",
+        "DROUGHT → temporary deficit relative to local expectation",
+        "SCARCITY → supply-demand-access condition",
+        "DISASTER → serious disruption beyond coping capacity"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "ARIDITY → persistent climatic moisture condition",
+          "SCARCITY → supply-demand-access condition",
+          "ARIDITY → persistent climatic moisture condition"
+        ],
+        [
+          "DROUGHT → temporary deficit relative to local expectation",
+          "DISASTER → serious disruption beyond coping capacity",
+          "DROUGHT → temporary deficit relative to local expectation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ARIDITY → persistent climatic moisture condition",
+            "DROUGHT → temporary deficit relative to local expectation"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SCARCITY → supply-demand-access condition",
+            "DISASTER → serious disruption beyond coping capacity"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ARIDITY → persistent climatic moisture condition",
+            "DROUGHT → temporary deficit relative to local expectation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DROUGHT → temporary deficit relative to local expectation.",
+      "source_references": [
+        "Aridity versus drought",
+        "Socio-economic drought",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DROUGHT-FAMILY MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DROUGHT-FAMILY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SOIL MOISTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVERS RESERVOIRS LAKES AQUIFERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "METEOROLOGICAL → precipitation",
+        "AGRICULTURAL → soil moisture / crop water",
+        "HYDROLOGICAL → rivers reservoirs lakes aquifers",
+        "SOCIOECONOMIC / ECOLOGICAL → services-livelihoods / ecosystems"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "METEOROLOGICAL → precipitation",
+          "HYDROLOGICAL → rivers reservoirs lakes aquifers",
+          "METEOROLOGICAL → precipitation"
+        ],
+        [
+          "AGRICULTURAL → soil moisture / crop water",
+          "SOCIOECONOMIC / ECOLOGICAL → services-livelihoods / ecosystems",
+          "AGRICULTURAL → soil moisture / crop water"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "METEOROLOGICAL → precipitation",
+            "AGRICULTURAL → soil moisture / crop water"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HYDROLOGICAL → rivers reservoirs lakes aquifers",
+            "SOCIOECONOMIC / ECOLOGICAL → services-livelihoods / ecosystems"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "METEOROLOGICAL → precipitation",
+            "AGRICULTURAL → soil moisture / crop water"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HYDROLOGICAL → rivers reservoirs lakes aquifers; SOCIOECONOMIC / ECOLOGICAL → services-livelihoods / ecosystems.",
+      "source_references": [
+        "Meteorological drought",
+        "Agricultural drought",
+        "Hydrological drought",
+        "Socio-economic drought",
+        "Ecological drought",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SLOW-ONSET CASCADE",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SLOW-ONSET CASCADE",
+          "role": "primary"
+        },
+        {
+          "text": "RAINFALL DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "SOIL-MOISTURE STRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "GROUNDWATER DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "CROP ECOSYSTEM LIVELIHOOD AND HEALTH EFFECTS",
+          "role": "primary"
+        },
+        {
+          "text": "LAGS DIFFER",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITOR EACH STAGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RAINFALL DEFICIT → SOIL-MOISTURE STRESS",
+        "STORAGE / GROUNDWATER DECLINE",
+        "CROP ECOSYSTEM LIVELIHOOD AND HEALTH EFFECTS",
+        "LAGS DIFFER → MONITOR EACH STAGE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RAINFALL DEFICIT → SOIL-MOISTURE STRESS",
+            "STORAGE / GROUNDWATER DECLINE"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CROP ECOSYSTEM LIVELIHOOD AND HEALTH EFFECTS",
+            "LAGS DIFFER → MONITOR EACH STAGE"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RAINFALL DEFICIT → SOIL-MOISTURE STRESS",
+            "STORAGE / GROUNDWATER DECLINE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CROP ECOSYSTEM LIVELIHOOD AND HEALTH EFFECTS; LAGS DIFFER → MONITOR EACH STAGE.",
+      "source_references": [
+        "Slow-onset cascade",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DECLARATION DASHBOARD",
+      "structural_type": "layered-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DECLARATION DASHBOARD",
+          "role": "primary"
+        },
+        {
+          "text": "RAINFALL + VEGETATIVE INDICES",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP-SOWING PROGRESSION + SOIL MOISTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "HYDROLOGICAL INDICES",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADE STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT INVENT ONE CUT-OFF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAINFALL + VEGETATIVE INDICES",
+        "CROP-SOWING PROGRESSION + SOIL MOISTURE",
+        "HYDROLOGICAL INDICES",
+        "GRADE STATUS → DO NOT INVENT ONE CUT-OFF"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "RAINFALL + VEGETATIVE INDICES",
+            "CROP-SOWING PROGRESSION + SOIL MOISTURE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "HYDROLOGICAL INDICES",
+            "GRADE STATUS → DO NOT INVENT ONE CUT-OFF"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RAINFALL + VEGETATIVE INDICES",
+            "CROP-SOWING PROGRESSION + SOIL MOISTURE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRADE STATUS → DO NOT INVENT ONE CUT-OFF.",
+      "source_references": [
+        "Multi-indicator declaration",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HEAT HAZARD-TO-HARM CHAIN",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HEAT HAZARD-TO-HARM CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IMD HAZARD CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOT NIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "= HEAT STRESS AND UNEQUAL HARM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IMD HAZARD CLASSIFICATION",
+        "HUMIDITY / RADIATION / WIND / HOT NIGHT",
+        "WORK / HEALTH / HOUSING / WATER / COOLING",
+        "= HEAT STRESS AND UNEQUAL HARM"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "IMD HAZARD CLASSIFICATION",
+            "HUMIDITY / RADIATION / WIND / HOT NIGHT"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WORK / HEALTH / HOUSING / WATER / COOLING",
+            "= HEAT STRESS AND UNEQUAL HARM"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "IMD HAZARD CLASSIFICATION",
+            "HUMIDITY / RADIATION / WIND / HOT NIGHT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORK / HEALTH / HOUSING / WATER / COOLING.",
+      "source_references": [
+        "Heat-wave hazard",
+        "Heat stress",
+        "Exposure inequality",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WET-BULB FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WET-BULB FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "AMBIENT AIR TEMPERATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "EVAPORATIVE-COOLING POTENTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "IMD HEAT WAVE",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATIONAL METEOROLOGICAL CRITERIA",
+          "role": "primary"
+        },
+        {
+          "text": "NONE IS A UNIVERSAL PERSON-SAFE THRESHOLD",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DRY-BULB → ambient air temperature",
+        "WET-BULB → evaporative-cooling potential",
+        "IMD HEAT WAVE → operational meteorological criteria",
+        "TRAP → NONE IS A UNIVERSAL PERSON-SAFE THRESHOLD"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "DRY-BULB → ambient air temperature",
+          "IMD HEAT WAVE → operational meteorological criteria",
+          "DRY-BULB → ambient air temperature"
+        ],
+        [
+          "WET-BULB → evaporative-cooling potential",
+          "TRAP → NONE IS A UNIVERSAL PERSON-SAFE THRESHOLD",
+          "WET-BULB → evaporative-cooling potential"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DRY-BULB → ambient air temperature",
+            "WET-BULB → evaporative-cooling potential"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "IMD HEAT WAVE → operational meteorological criteria",
+            "TRAP → NONE IS A UNIVERSAL PERSON-SAFE THRESHOLD"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DRY-BULB → ambient air temperature",
+            "WET-BULB → evaporative-cooling potential"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → NONE IS A UNIVERSAL PERSON-SAFE THRESHOLD.",
+      "source_references": [
+        "Wet-bulb boundary",
+        "Heat-wave hazard",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HEAT ACTION PLAN RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HEAT ACTION PLAN RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 SEASONAL RISK AND RESPONSIBILITY MAP",
+          "role": "caution"
+        },
+        {
+          "text": "2 FORECAST",
+          "role": "comparison"
+        },
+        {
+          "text": "WARNING AND PUBLIC MESSAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "3 WATER COOLING WORK SCHOOL AND HEALTH ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "4 REVIEW REACH EQUITY AND OUTCOMES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 SEASONAL RISK AND RESPONSIBILITY MAP",
+        "2 FORECAST / WARNING AND PUBLIC MESSAGE",
+        "3 WATER COOLING WORK SCHOOL AND HEALTH ACTION",
+        "4 REVIEW REACH EQUITY AND OUTCOMES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 SEASONAL RISK AND RESPONSIBILITY MAP",
+            "2 FORECAST / WARNING AND PUBLIC MESSAGE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 WATER COOLING WORK SCHOOL AND HEALTH ACTION",
+            "4 REVIEW REACH EQUITY AND OUTCOMES"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 SEASONAL RISK AND RESPONSIBILITY MAP",
+            "2 FORECAST / WARNING AND PUBLIC MESSAGE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 WATER COOLING WORK SCHOOL AND HEALTH ACTION.",
+      "source_references": [
+        "Heat Action Plan",
+        "Monitoring-to-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WATER-AGRICULTURE PORTFOLIO",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WATER-AGRICULTURE PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "DRINKING WATER + DEMAND MANAGEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SURFACE WATER MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "WATERSHED RECHARGE STORAGE GOVERNANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CROP LIVESTOCK LIVELIHOOD CONTINGENCY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DRINKING WATER + DEMAND MANAGEMENT",
+        "GROUND / SURFACE WATER MONITORING",
+        "WATERSHED RECHARGE STORAGE GOVERNANCE",
+        "CROP LIVESTOCK LIVELIHOOD CONTINGENCY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DRINKING WATER + DEMAND MANAGEMENT",
+            "GROUND / SURFACE WATER MONITORING"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "WATERSHED RECHARGE STORAGE GOVERNANCE",
+            "CROP LIVESTOCK LIVELIHOOD CONTINGENCY"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DRINKING WATER + DEMAND MANAGEMENT",
+            "GROUND / SURFACE WATER MONITORING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATERSHED RECHARGE STORAGE GOVERNANCE; CROP LIVESTOCK LIVELIHOOD CONTINGENCY.",
+      "source_references": [
+        "Water-risk portfolio",
+        "Agriculture and livelihoods",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "URBAN-LABOUR-HEALTH MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "URBAN-LABOUR-HEALTH MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "BUILT FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "COOL ROOF SHADE VENTILATION TREES",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMING REST WATER COMMUNICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SURVEILLANCE TRIAGE REFERRAL CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "POOR HOUSING INFORMAL WORK VULNERABLE GROUPS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BUILT FORM → cool roof shade ventilation trees",
+        "LABOUR → timing rest water communication",
+        "HEALTH → surveillance triage referral continuity",
+        "ACCESS → poor housing informal work vulnerable groups"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "BUILT FORM → cool roof shade ventilation trees",
+          "HEALTH → surveillance triage referral continuity",
+          "BUILT FORM → cool roof shade ventilation trees"
+        ],
+        [
+          "LABOUR → timing rest water communication",
+          "ACCESS → poor housing informal work vulnerable groups",
+          "LABOUR → timing rest water communication"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "BUILT FORM → cool roof shade ventilation trees",
+            "LABOUR → timing rest water communication"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HEALTH → surveillance triage referral continuity",
+            "ACCESS → poor housing informal work vulnerable groups"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "BUILT FORM → cool roof shade ventilation trees",
+            "LABOUR → timing rest water communication"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCESS → poor housing informal work vulnerable groups.",
+      "source_references": [
+        "Urban heat measures",
+        "Labour and health measures",
+        "Exposure inequality",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COMPOUND-RISK WEB",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPOUND-RISK WEB",
+          "role": "caution"
+        },
+        {
+          "text": "POWER PRESSURE",
+          "role": "mechanism"
+        },
+        {
+          "text": "COOLING DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "DRY FUEL",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "DEEPER LIVELIHOOD AND SERVICE STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "DROUGHT AND HEAT ARE SLOW-ONSET OR COMPOUNDING RISKS SHAPED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DROUGHT → WATER / CROP / POWER PRESSURE",
+        "HEAT → HEALTH / LABOUR / COOLING DEMAND",
+        "DRY FUEL → FIRE RISK",
+        "FEEDBACK → DEEPER LIVELIHOOD AND SERVICE STRESS",
+        "MUST REMEMBER: Drought and heat are slow-onset or compounding risks shaped by"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DROUGHT → WATER / CROP / POWER PRESSURE",
+            "HEAT → HEALTH / LABOUR / COOLING DEMAND"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DRY FUEL → FIRE RISK",
+            "FEEDBACK → DEEPER LIVELIHOOD AND SERVICE STRESS"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Drought and heat are slow-onset or compounding risks shaped by...",
+            "DROUGHT → WATER / CROP / POWER PRESSURE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Drought and heat are slow-onset or compounding risks shaped by.",
+      "source_references": [
+        "Compound risk",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-09_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EARLY ACTION OR MALADAPTATION",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EARLY ACTION OR MALADAPTATION",
+          "role": "primary"
+        },
+        {
+          "text": "FORECAST + VULNERABILITY SIGNAL?",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY WATER HEALTH LABOUR LIVELIHOOD ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ENERGY WATER LAND ACCESS MAINTENANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "FAIL TEST",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFERRED RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "METEOROLOGICAL DROUGHT IS NOT AGRICULTURAL OR HYDROLOGICAL DROUGHT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FORECAST + VULNERABILITY SIGNAL?",
+        "YES → EARLY WATER HEALTH LABOUR LIVELIHOOD ACTION",
+        "TEST → ENERGY WATER LAND ACCESS MAINTENANCE",
+        "FAIL TEST → MALADAPTATION / TRANSFERRED RISK",
+        "CLOSE DISTINCTION: Meteorological drought is not agricultural or hydrological drought"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "FORECAST + VULNERABILITY SIGNAL?",
+            "YES → EARLY WATER HEALTH LABOUR LIVELIHOOD ACTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TEST → ENERGY WATER LAND ACCESS MAINTENANCE",
+            "FAIL TEST → MALADAPTATION / TRANSFERRED RISK"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Meteorological drought is not agricultural or hydrological drought;...",
+            "FORECAST + VULNERABILITY SIGNAL?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Meteorological drought is not agricultural or hydrological drought;.",
+      "source_references": [
+        "Early action and maladaptation",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-09_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SLOW-ONSET ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SLOW-ONSET ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINGUISH ARIDITY SCARCITY AND DROUGHT TYPES",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE LAGS + MONITOR MULTIPLE INDICATORS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE HEAT HAZARD FROM STRESS AND EXPOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "DESIGN EARLY ACTION + TEST EQUITY MALADAPTATION OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PRESERVE IMD THRESHOLD, STATION/REGION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DISTINGUISH ARIDITY SCARCITY AND DROUGHT TYPES",
+        "TRACE LAGS + MONITOR MULTIPLE INDICATORS",
+        "SEPARATE HEAT HAZARD FROM STRESS AND EXPOSURE",
+        "DESIGN EARLY ACTION + TEST EQUITY MALADAPTATION OUTCOME",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve IMD threshold, station/region"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DISTINGUISH ARIDITY SCARCITY AND DROUGHT TYPES",
+            "TRACE LAGS + MONITOR MULTIPLE INDICATORS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SEPARATE HEAT HAZARD FROM STRESS AND EXPOSURE",
+            "DESIGN EARLY ACTION + TEST EQUITY MALADAPTATION OUTCOME"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve IMD threshold, station/region,...",
+            "DISTINGUISH ARIDITY SCARCITY AND DROUGHT TYPES"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve IMD threshold, station/region,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve IMD threshold, station/region,.",
+      "source_references": [
+        "Monitoring-to-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g2\\disaster-management-09_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-09_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "HEAT-WAVE LOCAL-STATUS STATEMENT AS DOCUMENT-PERIOD EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "COLD WAVE'S EXPLICIT NON-NATIONAL-PLAN DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "DROUGHT'S MULTI-INDICATOR DECLARATION PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "BUNDELKHAND MENTHA CULTIVATION AS A CONCRETE POLITICAL-ECONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "CWMI AND THE FALKENMARK INDEX AS TWO DISTINCT MEASUREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS'S OWN CRITIQUE OF HEAT-WAVE MANAGEMENT NAMES \"LACK OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Heat-wave local-status statement as document-period evidence :",
+            "Cold wave's explicit non-national-plan design : VisionIAS states",
+            "CAUTION: Drought's multi-indicator declaration process : drought-affected",
+            "Bundelkhand Mentha cultivation as a concrete political-economy"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CWMI and the Falkenmark Index as two distinct measurement",
+            "CAUTION: VisionIAS's own critique of heat-wave management names \"lack of",
+            "CAUTION: Anticipatory action potential : because drought is explicitly a",
+            "VisionIAS's HAP community-outreach material names specific"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Drought-linked distress migration and heat-linked occupational",
+            "CAUTION: Short-term relief versus long-term structural adaptation is the",
+            "CAUTION: Water-intensive cropping versus farmer income : discouraging",
+            "NOT: The \"a Heat Action Plan exists, therefore heat risk is managed\""
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

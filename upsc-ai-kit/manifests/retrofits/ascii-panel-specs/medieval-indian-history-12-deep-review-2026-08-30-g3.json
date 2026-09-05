@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-12",
+      "display_title": "Babur & the Central Asian Backdrop",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Central Asian political field",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "TIMURID FRAGMENTS -> competing princes and unstable coalitions",
+            "UZBEKS / SHAIBANI -> pressure and consolidation in Transoxiana",
+            "SAFAVIDS / SHAH ISMAIL -> temporary opening after Merv, 1510",
+            "OTTOMANS / CHALDIRAN, 1514 -> regional balance shifts indirectly",
+            "BABUR -> Farghana and Samarqand claimant searching for a durable base",
+            "RULE: regional geopolitics constrained agency; it did not cause Panipat alone.",
+            "MUST REMEMBER: Babur's route runs from Farghana (1494) through Kabul (1504) to Panipat, Khanwa",
+            "  and Ghagra (1526-29)."
+          ],
+          "source_references": [
+            "Timurids",
+            "Uzbeks",
+            "Safavids",
+            "Ottomans",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Babur chronology 1494-1530",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1494 Farghana -> 1497 / 1501 Samarqand captures and losses",
+            "1504 Kabul -> 1510 Merv opening -> 1514 Chaldiran context",
+            "1519-20 Bhira and Sialkot -> November 1525 final march",
+            "1526 Panipat -> 1527 Khanwa -> 1528 Chanderi -> 1529 Ghagra",
+            "30 December 1530 -> Babur dies at Agra",
+            "MEMORY: Central Asian constraint -> Indian opening -> staged consolidation."
+          ],
+          "source_references": [
+            "Chronology",
+            "Farghana",
+            "Kabul",
+            "Battle sequence",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Layered identity and legitimacy",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "PATERNAL -> Timurid descent and sovereign prestige",
+            "MATERNAL -> Chagatai / Chingizid association",
+            "MILITARY-POLITICAL -> Turco-Mongol practices and mobile cavalry world",
+            "CULTURAL -> Persianate court culture + Chagatai Turkish literary expression",
+            "INDIAN DYNASTIC LABEL -> Mughal",
+            "TRAP: identity explains legitimacy and networks, not biological destiny."
+          ],
+          "source_references": [
+            "Timurid",
+            "Chagatai",
+            "Persianate",
+            "Mughal",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Samarqand cycle: prestige versus resources",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "SAMARQAND -> Timurid legitimacy + affluent strategic centre",
+            "CAPTURE -> symbolic success",
+            "SUPPLY + MONEY + HINTERLAND + FOLLOWER LOYALTY -> insufficient",
+            "UZBEK PRESSURE + unstable coalitions -> repeated loss",
+            "LEARNING -> manoeuvre, resource discipline and limits of city possession",
+            "OUTCOME -> Central Asian failure redirects rather than predestines policy."
+          ],
+          "source_references": [
+            "Samarqand",
+            "Resource base",
+            "Shaibani Khan",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Kabul-Qandahar strategic bridge",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "KABUL 1504 -> survival base, recruitment and southward platform",
+            "QANDAHAR -> rear security and Iranian-Central Asian interface",
+            "KABUL -> routes toward Kashgar, China, Transoxiana and Turkistan",
+            "QANDAHAR -> routes toward Khurasan, Iran and West Asia",
+            "LIMIT -> route potential did not automatically solve fiscal weakness",
+            "BRIDGE -> Indian agrarian resources + north-western security and trade."
+          ],
+          "source_references": [
+            "Kabul",
+            "Qandahar",
+            "Trade",
+            "Strategic geography",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Punjab and the Lodi opening",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "BABUR'S EARLIER PUNJAB MOVES + TIMURID CLAIMS",
+            "                    |",
+            "IBRAHIM LODI-NOBLE TENSIONS + DAULAT KHAN + ALAM KHAN",
+            "                    |",
+            "local opening, information and favourable timing",
+            "                    |",
+            "BABUR EXPANDS BEYOND THE INVITERS' LIMITED PURPOSE",
+            "FORMULA: external push + internal opening + converting agency."
+          ],
+          "source_references": [
+            "Punjab",
+            "Ibrahim Lodi",
+            "Daulat Khan",
+            "Alam Khan",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Final march and Panipat frontage",
+          "structural_type": "process",
+          "ascii_lines": [
+            "NOVEMBER 1525 -> Babur leaves Kabul after securing rear and flank",
+            " -> Punjab movement and communication control",
+            " -> narrow prepared frontage at Panipat",
+            " -> carts linked by raw-hide ropes + breastworks + firing positions",
+            " -> gaps retained for cavalry action",
+            "TRAP: not a straight unprepared ride from Kabul to one battle."
+          ],
+          "source_references": [
+            "1525 campaign",
+            "Panipat",
+            "Logistics",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Panipat combined-arms system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "FIRE -> artillery and matchlockmen under Ustad Ali and Mustafa",
+            "FIX -> carts, ropes, breastworks and constrained frontage",
+            "MOVE -> mounted archery, cavalry gaps and tulghuma flanking",
+            "COMMAND -> sequencing, reserve use and battlefield coordination",
+            "CONTEXT -> Ibrahim's organisation and deployment also matter",
+            "VERDICT: guns were important inside a system, never a solitary miracle."
+          ],
+          "source_references": [
+            "Combined arms",
+            "Tulghuma",
+            "Ustad Ali",
+            "Mustafa",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "After Panipat: decision to stay",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PANIPAT -> Delhi-Agra centre opens",
+            "BUT -> forts resist + Afghans remain + begs dislike India + supplies strain",
+            "BABUR DISTRIBUTES WEALTH + appeals to followers + chooses settlement",
+            "INDIAN RESOURCES -> support a new political base",
+            "RESULT -> invasion begins to become state formation",
+            "LIMIT -> Humayun and the Sur interregnum expose continuing fragility."
+          ],
+          "source_references": [
+            "Post-Panipat",
+            "Decision to stay",
+            "State formation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Panipat-Khanwa-Ghagra ladder",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "PANIPAT 1526 -> Ibrahim Lodi -> removes the Delhi sultanate centre",
+            "KHANWA 1527 -> Rana Sanga coalition -> checks a rival north Indian alignment",
+            "CHANDERI 1528 -> bounded follow-through against a Rajput stronghold",
+            "GHAGRA 1529 -> eastern Afghan resistance in a Bengal-linked setting",
+            "TACTICS may recur; opponents, theatres and political functions change",
+            "TRAP: consolidation was staged, not complete in April 1526.",
+            "CLOSE DISTINCTION: Central Asian constraint, Indian political openings and Babur's choices",
+            "  together explain conquest and settlement."
+          ],
+          "source_references": [
+            "Panipat",
+            "Khanwa",
+            "Chanderi",
+            "Ghagra",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Baburnama and heritage source method",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BABURNAMA -> Chagatai Turkish first-person chronology and observation",
+            "STRENGTH -> routes, places, campaigns, gardens and ruler perception",
+            "LIMIT -> selective memory, self-fashioning, rhetoric and number inflation",
+            "BAGH-E BABUR -> tomb, terraces, water works and layered later interventions",
+            "UNESCO -> archaeology, documents, images and conservation reconstruction",
+            "RULE: material heritage can corroborate context, not every memoir claim.",
+            "EVIDENCE LIMIT: The Baburnama is unusually proximate first-person evidence, but",
+            "  self-fashioning and transmission limit neutrality."
+          ],
+          "source_references": [
+            "Baburnama",
+            "Bagh-e Babur",
+            "UNESCO",
+            "Source criticism",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 12 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Central Asian failure made India attractive, not inevitable",
+            "PUSH -> Timurid fragmentation + Uzbek pressure + Kabul resource limits",
+            "OPENING -> Punjab claims + Lodi fissures + invitations",
+            "MECHANISM -> prepared combined arms and Babur's command",
+            "CONSOLIDATION -> decision to stay + Panipat-Khanwa-Ghagra ladder",
+            "CLOSE -> a real but fragile Mughal foundation joined two strategic worlds."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Causation",
+            "Qualified foundation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\12_Babur-and-Central-Asian-Backdrop.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-12\\g3\\medieval-indian-history-12_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

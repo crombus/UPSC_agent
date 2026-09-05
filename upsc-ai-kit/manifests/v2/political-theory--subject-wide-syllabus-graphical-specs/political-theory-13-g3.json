@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-13",
+  "subject": "Political Theory",
+  "title": "DIVERSE PERSPECTIVES ON THE STATE",
+  "short_route": "THE STATE-THEORY PROBLEM AND → DEFINITIONS AND THE CHAPTER → THE SIX-TEST COMPARISON GRID → ORGANIC, CONTRACT AND LIBERAL → CRITICAL, COMMUNITARIAN, GANDHIAN, FEMINIST → TEN-PERSPECTIVE COMPARATIVE MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g3\\topic-13_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-13-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "07e0db92edea61869bb6a6dd1bae0d50edf8d4bf7d7bfc1b4af5e3a9973a7582",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE STATE-THEORY PROBLEM AND ITS STAKES",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE STATE-THEORY PROBLEM AND ITS STAKES",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] STATE THEORY ASKS ABOUT ORIGIN, PURPOSE, LIBERTY, INEQUALITY",
+          "role": "institution"
+        },
+        {
+          "text": "[2] GAUBA COMPARES COMPETING IMAGES RATHER THAN ANNOUNCING ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE STATE APPEARS AS ETHICAL WHOLE, INSTRUMENT, CLASS",
+          "role": "institution"
+        },
+        {
+          "text": "[4] A THEORY BECOMES MISLEADING WHEN ITS PARTIAL INSIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE THEORY IS PLURAL BECAUSE POLITICAL POWER HAS SEVERAL",
+          "role": "institution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The State-Theory Problem and Its Stakes",
+        "[1] State theory asks about origin, purpose, liberty, inequality, society and change.",
+        "[2] Gauba compares competing images rather than announcing one final state doctrine.",
+        "[3] The state appears as ethical whole, instrument, class relation and group coordinator."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The State-Theory Problem and Its Stakes",
+            "[1] State theory asks about origin, purpose, liberty, inequality, society and change."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Gauba compares competing images rather than announcing one final state doctrine.",
+            "[3] The state appears as ethical whole, instrument, class relation and group coordinator.",
+            "[4] A theory becomes misleading when its partial insight is treated as exhaustive."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → State theory is plural because political power has several dimensions.",
+            "ANSWER USE → Name the dimension before selecting or combining perspectives."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → State theory is plural because political power has several dimensions.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DEFINITIONS AND THE CHAPTER SEQUENCE",
+      "structural_type": "doctrine-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEFINITIONS AND THE CHAPTER SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ORGANIC THEORY TREATS THE STATE AS NATURAL; CONTRACT",
+          "role": "institution"
+        },
+        {
+          "text": "[2] LAISSEZ-FAIRE LIMITS THE STATE, WHILE WELFARE LIBERALISM MAKES",
+          "role": "institution"
+        },
+        {
+          "text": "[3] MARXIST, COMMUNITARIAN AND POST-COLONIAL VIEWS RELOCATE THE SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] GANDHIAN, FEMINIST AND PLURALIST VIEWS CHALLENGE COERCION, PATRIARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINITIONS LOCATE EACH PERSPECTIVE BEFORE EVALUATION BEGINS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Definitions and the Chapter Sequence",
+        "[1] Organic theory treats the state as natural; contract theory treats it as artificial.",
+        "[2] Laissez-faire limits the state, while welfare liberalism makes freedom enabling.",
+        "[3] Marxist, communitarian and post-colonial views relocate the source of political power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Definitions and the Chapter Sequence",
+            "[1] Organic theory treats the state as natural; contract theory treats it as artificial."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Laissez-faire limits the state, while welfare liberalism makes freedom enabling.",
+            "[3] Marxist, communitarian and post-colonial views relocate the source of political power.",
+            "[4] Gandhian, feminist and pluralist views challenge coercion, patriarchy and monopoly."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Definitions locate each perspective before evaluation begins.",
+            "ANSWER USE → Contrast the image of the state, not only the thinker's name."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Definitions locate each perspective before evaluation begins.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE SIX-TEST COMPARISON GRID",
+      "structural_type": "argument-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE SIX-TEST COMPARISON GRID",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ORIGIN ASKS WHETHER THE STATE IS NATURAL, CONTRACTED",
+          "role": "institution"
+        },
+        {
+          "text": "[2] PURPOSE COMPARES GOOD LIFE, RIGHTS, WELFARE, CLASS RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] LIBERTY RANGES FROM OBEDIENCE THROUGH NON-INTERFERENCE TO CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] INEQUALITY, CIVIL SOCIETY AND ROUTE TO CHANGE COMPLETE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SIX-TEST GRID CONVERTS A LIST OF THEORIES INTO",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Six-Test Comparison Grid",
+        "[1] Origin asks whether the state is natural, contracted, class-produced or colonial.",
+        "[2] Purpose compares good life, rights, welfare, class rule, swaraj and coordination.",
+        "[3] Liberty ranges from obedience through non-interference to capacity and self-rule."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Purpose compares good life, rights, welfare, class rule, swaraj and coordination.",
+          "VERDICT → The six-test grid converts a list of theories into disciplined comparison."
+        ],
+        [
+          "The Six-Test Comparison Grid",
+          "[3] Liberty ranges from obedience through non-interference to capacity and self-rule.",
+          "ANSWER USE → Apply the same dimensions to every perspective in the answer."
+        ],
+        [
+          "[1] Origin asks whether the state is natural, contracted, class-produced or colonial.",
+          "[4] Inequality, civil society and route to change complete the mandatory six-test grid.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Six-Test Comparison Grid",
+            "[1] Origin asks whether the state is natural, contracted, class-produced or colonial."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Purpose compares good life, rights, welfare, class rule, swaraj and coordination.",
+            "[3] Liberty ranges from obedience through non-interference to capacity and self-rule.",
+            "[4] Inequality, civil society and route to change complete the mandatory six-test grid."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → The six-test grid converts a list of theories into disciplined comparison.",
+            "ANSWER USE → Apply the same dimensions to every perspective in the answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The six-test grid converts a list of theories into disciplined comparison.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ORGANIC, CONTRACT AND LIBERAL THINKERS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORGANIC, CONTRACT AND LIBERAL THINKERS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ARISTOTLE, BURKE AND HEGEL DEVELOP NATURAL, HISTORICAL AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] HOBBES, LOCKE AND ROUSSEAU USE CONTRACT FOR SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SMITH, BENTHAM, JAMES MILL, SPENCER AND NOZICK DEFEND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] J.S. MILL, GREEN, HOBHOUSE, LASKI AND MACIVER REVISE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIBERAL TRADITIONS DISAGREE INTERNALLY ABOUT AUTHORITY, RIGHTS AND WELFARE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Organic, Contract and Liberal Thinkers",
+        "[1] Aristotle, Burke and Hegel develop natural, historical and ethical state images.",
+        "[2] Hobbes, Locke and Rousseau use contract for security, rights and popular sovereignty.",
+        "[3] Smith, Bentham, James Mill, Spencer and Nozick defend different limited-state arguments."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Hobbes, Locke and Rousseau use contract for security, rights and popular sovereignty.",
+          "VERDICT → Liberal traditions disagree internally about authority, rights and welfare."
+        ],
+        [
+          "Organic, Contract and Liberal Thinkers",
+          "[3] Smith, Bentham, James Mill, Spencer and Nozick defend different limited-state arguments.",
+          "ANSWER USE → Separate contract, minimal-state and positive-liberal arguments."
+        ],
+        [
+          "[1] Aristotle, Burke and Hegel develop natural, historical and ethical state images.",
+          "[4] J.S. Mill, Green, Hobhouse, Laski and MacIver revise liberalism toward welfare.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Organic, Contract and Liberal Thinkers",
+            "[1] Aristotle, Burke and Hegel develop natural, historical and ethical state images."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Hobbes, Locke and Rousseau use contract for security, rights and popular sovereignty.",
+            "[3] Smith, Bentham, James Mill, Spencer and Nozick defend different limited-state arguments.",
+            "[4] J.S. Mill, Green, Hobhouse, Laski and MacIver revise liberalism toward welfare."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Liberal traditions disagree internally about authority, rights and welfare.",
+            "ANSWER USE → Separate contract, minimal-state and positive-liberal arguments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Liberal traditions disagree internally about authority, rights and welfare.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CRITICAL, COMMUNITARIAN, GANDHIAN, FEMINIST AND PLURALIST THINKERS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CRITICAL, COMMUNITARIAN, GANDHIAN, FEMINIST AND PLURALIST THINKERS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARX, ENGELS AND LENIN EXPLAIN CLASS RULE; GRAMSCI",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MILIBAND ARGUES INSTRUMENTAL CAPTURE; POULANTZAS ANSWERS WITH BOUNDED",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] COMMUNITARIANS STRESS EMBEDDED SELVES; POST-COLONIAL THEORY STRESSES INHERITED",
+          "role": "primary"
+        },
+        {
+          "text": "[4] GANDHI, MILLETT, EISENSTEIN AND PLURALISTS EXPOSE COERCIVE, GENDERED",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITICAL THEORIES DIFFER OVER CLASS, COMMUNITY, EMPIRE, COERCION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Critical, Communitarian, Gandhian, Feminist and Pluralist Thinkers",
+        "[1] Marx, Engels and Lenin explain class rule; Gramsci adds coercion and hegemony.",
+        "[2] Miliband argues instrumental capture; Poulantzas answers with bounded relative autonomy.",
+        "[3] Communitarians stress embedded selves; post-colonial theory stresses inherited state forms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Critical, Communitarian, Gandhian, Feminist and Pluralist Thinkers",
+            "[1] Marx, Engels and Lenin explain class rule; Gramsci adds coercion and hegemony."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Miliband argues instrumental capture; Poulantzas answers with bounded relative autonomy.",
+            "[3] Communitarians stress embedded selves; post-colonial theory stresses inherited state forms.",
+            "[4] Gandhi, Millett, Eisenstein and pluralists expose coercive, gendered and dispersed power."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Critical theories differ over class, community, empire, coercion and gender.",
+            "ANSWER USE → Use one internal debate before moving across traditions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Critical theories differ over class, community, empire, coercion and gender.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TEN-PERSPECTIVE COMPARATIVE MATRIX",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TEN-PERSPECTIVE COMPARATIVE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TEN PERSPECTIVES MUST BE COMPARED THROUGH THE SAME",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ORGANIC AND CONTRACT VIEWS PRIORITISE ETHICAL WHOLE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MINIMAL, WELFARE AND MARXIST VIEWS DISAGREE ABOUT LIBERTY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] COMMUNITARIAN, POST-COLONIAL, GANDHIAN, FEMINIST AND PLURALIST LENSES WIDEN",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH PERSPECTIVE ILLUMINATES ONE STATE FUNCTION AND OBSCURES ANOTHER.",
+          "role": "institution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Ten-Perspective Comparative Matrix",
+        "[1] Ten perspectives must be compared through the same six dimensions, not merely listed.",
+        "[2] Organic and contract views prioritise ethical whole and authorised protection differently.",
+        "[3] Minimal, welfare and Marxist views disagree about liberty, property and structural power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Ten-Perspective Comparative Matrix",
+            "[1] Ten perspectives must be compared through the same six dimensions, not merely listed."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Organic and contract views prioritise ethical whole and authorised protection differently.",
+            "[3] Minimal, welfare and Marxist views disagree about liberty, property and structural power.",
+            "[4] Communitarian, post-colonial, Gandhian, feminist and pluralist lenses widen the agenda."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Each perspective illuminates one state function and obscures another.",
+            "ANSWER USE → Compare attraction, mechanism and strongest limitation together."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Compare attraction, mechanism and strongest limitation together.",
+      "answer_line": "VERDICT → Each perspective illuminates one state function and obscures another.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TRAP REPAIR, BOUNDARIES, REVISION AND SOURCES",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRAP REPAIR, BOUNDARIES, REVISION AND SOURCES",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] REJECT THE CLAIMS THAT ALL CONTRACT THEORISTS, LIBERALS",
+          "role": "caution"
+        },
+        {
+          "text": "[2] KEEP MILIBAND DISTINCT FROM POULANTZAS AND MILLETT DISTINCT",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] LOCKE'S TEXT WAS LARGELY COMPOSED BEFORE 1688 BUT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PLURALISM DISPERSES POWER BUT DOES NOT PROVE EQUAL",
+          "role": "caution"
+        },
+        {
+          "text": "PRECISION DEPENDS ON RESISTING FALSE MERGERS AND UNSAFE HISTORICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Trap Repair, Boundaries, Revision and Sources",
+        "[1] Reject the claims that all contract theorists, liberals or feminist thinkers agree.",
+        "[2] Keep Miliband distinct from Poulantzas and Millett distinct from Eisenstein.",
+        "[3] Locke's text was largely composed before 1688 but later read as vindicating the settlement."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Trap Repair, Boundaries, Revision and Sources",
+            "[1] Reject the claims that all contract theorists, liberals or feminist thinkers agree."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Keep Miliband distinct from Poulantzas and Millett distinct from Eisenstein.",
+            "[3] Locke's text was largely composed before 1688 but later read as vindicating the settlement.",
+            "[4] Pluralism disperses power but does not prove equal groups or a neutral state."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Precision depends on resisting false mergers and unsafe historical claims.",
+            "ANSWER USE → Turn every common misconception into an explicit correction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Precision depends on resisting false mergers and unsafe historical claims.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THESES, DIRECTIVES AND MARXIST ARGUMENT RECONSTRUCTION",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THESES, DIRECTIVES AND MARXIST ARGUMENT RECONSTRUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A RIGOROUS THESIS IDENTIFIES WHICH STATE IMAGE AND",
+          "role": "institution"
+        },
+        {
+          "text": "[2] DIRECTIVE CONTROL PREVENTS LIBERALISM, MARXISM OR FEMINISM FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MILIBAND'S PERSONNEL AND LEVERAGE CLAIM MEETS POULANTZAS'S STRUCTURAL-AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] RELATIVE AUTONOMY REMAINS BOUNDED IF THE ACCOUNT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVE AUTONOMY EXPLAINS MEDIATION WITHOUT MAKING CLASS POWER IRRELEVANT.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses, Directives and Marxist Argument Reconstruction",
+        "[1] A rigorous thesis identifies which state image and which comparison dimension matter.",
+        "[2] Directive control prevents liberalism, Marxism or feminism from being flattened.",
+        "[3] Miliband's personnel and leverage claim meets Poulantzas's structural-autonomy objection."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses, Directives and Marxist Argument Reconstruction",
+            "[1] A rigorous thesis identifies which state image and which comparison dimension matter."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Directive control prevents liberalism, Marxism or feminism from being flattened.",
+            "[3] Miliband's personnel and leverage claim meets Poulantzas's structural-autonomy objection.",
+            "[4] Relative autonomy remains bounded if the account is to retain a Marxist explanation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Relative autonomy explains mediation without making class power irrelevant.",
+            "ANSWER USE → Present claim, objection and bounded reply in that order."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Relative autonomy explains mediation without making class power irrelevant.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NAMED EVIDENCE AND MARK-SCALED ARCHITECTURE",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "NAMED EVIDENCE AND MARK-SCALED ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ARISTOTLE, LOCKE, MACAULAY, MILIBAND AND POULANTZAS SUPPLY NAMED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MILLETT AND EISENSTEIN PROVIDE DISTINCT FEMINIST ROUTES INTO",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SOLIDARITY AND EASTERN EUROPEAN ENVIRONMENTAL GROUPS ILLUSTRATE ASSOCIATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MARK-SCALED ANSWERS MOVE FROM ONE PAIR TO CROSS-CLUSTER",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED TEXTS AND CASES MUST PERFORM AN ANALYTICAL ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Named Evidence and Mark-Scaled Architecture",
+        "[1] Aristotle, Locke, Macaulay, Miliband and Poulantzas supply named evidence units.",
+        "[2] Millett and Eisenstein provide distinct feminist routes into state criticism.",
+        "[3] Solidarity and Eastern European environmental groups illustrate associational pressure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Named Evidence and Mark-Scaled Architecture",
+            "[1] Aristotle, Locke, Macaulay, Miliband and Poulantzas supply named evidence units."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Millett and Eisenstein provide distinct feminist routes into state criticism.",
+            "[3] Solidarity and Eastern European environmental groups illustrate associational pressure.",
+            "[4] Mark-scaled answers move from one pair to cross-cluster comparison and internal debate."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Named texts and cases must perform an analytical role, not decorate the answer.",
+            "ANSWER USE → Link evidence to one comparison dimension and one limitation."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Link evidence to one comparison dimension and one limitation.",
+      "answer_line": "VERDICT → Named texts and cases must perform an analytical role, not decorate the answer.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIAN APPLICATION AND PROPOSITION METHOD",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIAN APPLICATION AND PROPOSITION METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] INDIA'S POST-COLONIAL STATE COMBINES INHERITED INSTITUTIONS WITH A",
+          "role": "institution"
+        },
+        {
+          "text": "[2] THE 1-2 JULY 2026 E-GOVERNANCE CONFERENCE ILLUSTRATES SERVICE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] AI-ENABLED ADMINISTRATION ALSO RAISES SURVEILLANCE, ACCESS, NEUTRALITY AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] USE CURRENT EVIDENCE TO TEST PERSPECTIVES, NOT TO",
+          "role": "caution"
+        },
+        {
+          "text": "DIGITAL GOVERNANCE CAN EXPRESS WELFARE CAPACITY AND INTENSIFY DOMINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Indian Application and Proposition Method",
+        "[1] India's post-colonial state combines inherited institutions with a new legitimating order.",
+        "[2] The 1-2 July 2026 e-Governance conference illustrates service and capacity-building.",
+        "[3] AI-enabled administration also raises surveillance, access, neutrality and accountability issues."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Indian Application and Proposition Method",
+            "[1] India's post-colonial state combines inherited institutions with a new legitimating order."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] The 1-2 July 2026 e-Governance conference illustrates service and capacity-building.",
+            "[3] AI-enabled administration also raises surveillance, access, neutrality and accountability issues.",
+            "[4] Use current evidence to test perspectives, not to declare one theory finally correct."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Digital governance can express welfare capacity and intensify domination risks.",
+            "ANSWER USE → Apply several lenses without treating a current programme as proof."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Digital governance can express welfare capacity and intensify domination risks.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TEST NATURAL VERSUS ARTIFICIAL STATE AND",
+          "role": "institution"
+        },
+        {
+          "text": "[2] THEY ALSO TEST STATE ABOVE SOCIETY VERSUS STATE",
+          "role": "institution"
+        },
+        {
+          "text": "[3] THINKER GROUPS MUST NOT ERASE HOBBES-LOCKE-ROUSSEAU OR MILIBAND-POULANTZAS",
+          "role": "caution"
+        },
+        {
+          "text": "[4] EVERY CORRECT OPTION SHOULD IDENTIFY PERSPECTIVE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLOSE OPTIONS ARE SEPARATED BY STATE IMAGE, FREEDOM CONCEPT",
+          "role": "institution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options test natural versus artificial state and negative versus positive liberty.",
+        "[2] They also test state above society versus state within society.",
+        "[3] Thinker groups must not erase Hobbes-Locke-Rousseau or Miliband-Poulantzas differences."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close options test natural versus artificial state and negative versus positive liberty."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] They also test state above society versus state within society.",
+            "[3] Thinker groups must not erase Hobbes-Locke-Rousseau or Miliband-Poulantzas differences.",
+            "[4] Every correct option should identify perspective, mechanism and theoretical limit."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options are separated by state image, freedom concept and power location.",
+            "ANSWER USE → State the decisive distinction before selecting an answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close options are separated by state image, freedom concept and power location.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NO DIRECTLY OWNED VERIFIED UPSC PYQ IS ASSIGNED",
+          "role": "caution"
+        },
+        {
+          "text": "[2] SIX ORIGINAL QUESTIONS COVER COMPARISON, INTERNAL DEBATE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] A STRONG ANSWER APPLIES THE SIX-TEST GRID AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "NO SINGLE IMAGE EXHAUSTS THE STATE'S ETHICAL, COERCIVE AND",
+          "role": "caution"
+        },
+        {
+          "text": "ORIGINAL PRACTICE PRESERVES OWNERSHIP WHILE TESTING THE COMPLETE THEORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] No directly owned verified UPSC PYQ is assigned to this Political Theory topic.",
+        "[2] Six original questions cover comparison, internal debate and agenda-widening critiques.",
+        "[3] A strong answer applies the six-test grid and one named objection-reply pair."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] No directly owned verified UPSC PYQ is assigned to this Political Theory topic."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Six original questions cover comparison, internal debate and agenda-widening critiques.",
+            "[3] A strong answer applies the six-test grid and one named objection-reply pair.",
+            "[4] Final recall: no single image exhausts the state's ethical, coercive and social roles."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Original practice preserves ownership while testing the complete theory grid.",
+            "ANSWER USE → Conclude by naming which lens best answers the question's demand."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Original practice preserves ownership while testing the complete theory grid.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

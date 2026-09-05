@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-08-27",
+  "topic_key": "philosophy-paper-i-western-philosophy-11",
+  "generated_record_id": "philosophy-paper-i-western-philosophy-11:learner-v2:g2",
+  "superseded_record_id": "philosophy-paper-i-western-philosophy-11:legacy-v1:g1",
+  "legacy_v1_package_preserved": true,
+  "out_of_scope_tree_count": 5,
+  "out_of_scope_hash_identical": true,
+  "tree_differences": [],
+  "source_owner_hash_identical": true,
+  "source_differences": [],
+  "shared_files_expected_to_change": [
+    "EXPORT-PDF-STATUS.json",
+    "EXPORT-PDF-COMMAND-INDEX.md",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy.json",
+    "section indexes",
+    "clean latest package/navigation",
+    "Flow Learning latest copy/navigation"
+  ],
+  "known_unrelated_warning": "The pre-existing Paper II Socio-Political Philosophy ASCII metadata mismatch remains isolated and was not modified by this generation.",
+  "status": "passed"
+}

@@ -1,0 +1,1128 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-25",
+  "subject": "Medieval-Indian-History",
+  "title": "DECLINE OF THE MUGHAL EMPIRE & THE EIGHTEENTH CENTURY",
+  "short_route": "CHRONOLOGY, 1707-1761 → DECLINE AS A CONVERGING → SUCCESSION AND THE SAYYID → FOUR JAGIRDARI TERMS → THE JAGIRDARI FEEDBACK LOOP → THE INHERITED DECCAN BURDEN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-25_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-23-25-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "c29fedb8ff4d1ac5ca105f5a5620db240f5641fe183274a86464c98873282395",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CHRONOLOGY, 1707-1761",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY, 1707-1761",
+          "role": "primary"
+        },
+        {
+          "text": "AURANGZEB DIES; CONTESTED SUCCESSION OPENS THE CORE PERIOD",
+          "role": "outcome"
+        },
+        {
+          "text": "JAHANDAR FALLS; FARRUKHSIYAR RISES WITH SAYYID SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "FARRUKHSIYAR DEPOSED; REPEATED ENTHRONEMENTS EXPOSE KINGMAKING",
+          "role": "evidence"
+        },
+        {
+          "text": "SAYYIDS FALL",
+          "role": "primary"
+        },
+        {
+          "text": "NIZAM ESTABLISHES DECCAN AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "NADIR SHAH DEFEATS THE MUGHALS AND SACKS DELHI",
+          "role": "comparison"
+        },
+        {
+          "text": "ABDALI INVASIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1707 → Aurangzeb dies; contested succession opens the core period",
+        "1712-13 → Jahandar falls; Farrukhsiyar rises with Sayyid support",
+        "1719 → Farrukhsiyar deposed; repeated enthronements expose kingmaking",
+        "1720 → Sayyids fall",
+        "1724 → Nizam establishes Deccan autonomy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1707 → Aurangzeb dies; contested succession opens the core period",
+            "1712-13 → Jahandar falls; Farrukhsiyar rises with Sayyid support",
+            "1719 → Farrukhsiyar deposed; repeated enthronements expose kingmaking"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1720 → Sayyids fall",
+            "1724 → Nizam establishes Deccan autonomy",
+            "1739 → Nadir Shah defeats the Mughals and sacks Delhi"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1748-61 → Abdali invasions",
+            "14 Jan 1761 → Third Battle of Panipat."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1748-61 → Abdali invasions | 14 Jan 1761 → Third Battle of Panipat.",
+      "source_references": [
+        "1707-1761",
+        "Sayyid Brothers",
+        "Nadir Shah",
+        "Panipat"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DECLINE AS A CONVERGING SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DECLINE AS A CONVERGING SYSTEM",
+          "role": "caution"
+        },
+        {
+          "text": "SUCCESSION CONFLICT + WIZARAT COMPETITION + NOBLE FACTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "JAGIR SCARCITY + JAMA-HASIL GAP + SHORT-TERM EXTRACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ZAMINDAR RESISTANCE, PEASANT FLIGHT AND UNEVEN COLLECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "DECCAN EXHAUSTION, WEAK CONTINGENTS AND FRONTIER SHOCKS",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL GOVERNORS CONVERT OFFICE INTO DURABLE AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO STRAND ALONE EXPLAINS TIMING, REACH OR CONTINUITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLITICAL → succession conflict + wizarat competition + noble factions",
+        "FISCAL → jagir scarcity + jama-hasil gap + short-term extraction",
+        "AGRARIAN → zamindar resistance, peasant flight and uneven collection",
+        "MILITARY → Deccan exhaustion, weak contingents and frontier shocks",
+        "REGIONAL → provincial governors convert office into durable autonomy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "POLITICAL → succession conflict + wizarat competition + noble factions",
+            "FISCAL → jagir scarcity + jama-hasil gap + short-term extraction"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AGRARIAN → zamindar resistance, peasant flight and uneven collection",
+            "MILITARY → Deccan exhaustion, weak contingents and frontier shocks"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REGIONAL → provincial governors convert office into durable autonomy",
+            "RULE → no strand alone explains timing, reach or continuity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → no strand alone explains timing, reach or continuity.",
+      "source_references": [
+        "Causation map",
+        "Political",
+        "Fiscal",
+        "Agrarian",
+        "Military"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SUCCESSION AND THE SAYYID WIZARAT",
+      "structural_type": "actor-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SUCCESSION AND THE SAYYID WIZARAT",
+          "role": "primary"
+        },
+        {
+          "text": "BAHADUR SHAH I",
+          "role": "outcome"
+        },
+        {
+          "text": "WINS THE 1707 SUCCESSION BUT SETTLES NO FIRM RULE",
+          "role": "caution"
+        },
+        {
+          "text": "JAHANDAR SHAH",
+          "role": "evidence"
+        },
+        {
+          "text": "ZULFIQAR KHAN'S PATRONAGE SHOWS WAZIR-CENTRED LEVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "FARRUKHSIYAR 1713",
+          "role": "outcome"
+        },
+        {
+          "text": "THRONE SECURED THROUGH THE SAYYID BROTHERS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SAME COALITION DEPOSES AND KILLS HIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BAHADUR SHAH I → wins the 1707 succession but settles no firm rule",
+        "JAHANDAR SHAH → Zulfiqar Khan's patronage shows wazir-centred leverage",
+        "FARRUKHSIYAR 1713 → throne secured through the Sayyid Brothers",
+        "1719 → the same coalition deposes and kills him",
+        "ABDULLAH / HUSSAIN ALI → office, army and patronage sustain kingmaking"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "BAHADUR SHAH I → wins the 1707 succession but settles no firm rule",
+            "JAHANDAR SHAH → Zulfiqar Khan's patronage shows wazir-centred leverage"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "FARRUKHSIYAR 1713 → throne secured through the Sayyid Brothers",
+            "1719 → the same coalition deposes and kills him"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "ABDULLAH / HUSSAIN ALI → office, army and patronage sustain kingmaking",
+            "1720 → rival nobles remove them; factional rule outlives the episode."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1720 → rival nobles remove them; factional rule outlives the episode.",
+      "source_references": [
+        "Bahadur Shah I",
+        "Farrukhsiyar",
+        "Sayyid Brothers",
+        "Wizarat"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FOUR JAGIRDARI TERMS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR JAGIRDARI TERMS",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESSED OR ESTIMATED REVENUE CLAIM ON PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE ACTUALLY REALISED AFTER CONTROL, HARVEST AND COLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE POOL AVAILABLE FOR ASSIGNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SHORTAGE OF SUFFICIENTLY PRODUCTIVE AND USABLE JAGIRS",
+          "role": "primary"
+        },
+        {
+          "text": "A HIGH JAMA CAN CONCEAL A WEAK HASIL",
+          "role": "outcome"
+        },
+        {
+          "text": "JAGIR IS A TRANSFERABLE REVENUE ASSIGNMENT, NOT PRIVATE OWNERSHIP.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "JAMA → assessed or estimated revenue claim on paper",
+        "HASIL → revenue actually realised after control, harvest and collection",
+        "PAIBAQI → reserve pool available for assignment",
+        "BE-JAGIRI → shortage of sufficiently productive and usable jagirs",
+        "MEASUREMENT → a high jama can conceal a weak hasil"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "JAMA → assessed or estimated revenue claim on paper",
+          "PAIBAQI → reserve pool available for assignment",
+          "MEASUREMENT → a high jama can conceal a weak hasil"
+        ],
+        [
+          "HASIL → revenue actually realised after control, harvest and collection",
+          "BE-JAGIRI → shortage of sufficiently productive and usable jagirs",
+          "TRAP → jagir is a transferable revenue assignment, not private ownership."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "JAMA → assessed or estimated revenue claim on paper",
+            "HASIL → revenue actually realised after control, harvest and collection"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PAIBAQI → reserve pool available for assignment",
+            "BE-JAGIRI → shortage of sufficiently productive and usable jagirs"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MEASUREMENT → a high jama can conceal a weak hasil",
+            "TRAP → jagir is a transferable revenue assignment, not private ownership."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → jagir is a transferable revenue assignment, not private ownership.",
+      "source_references": [
+        "Jama",
+        "Hasil",
+        "Paibaqi",
+        "Be-jagiri",
+        "Jagir"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE JAGIRDARI FEEDBACK LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE JAGIRDARI FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "MORE CLAIMANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAK PAIBAQI",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESSURE FOR PRODUCTIVE ASSIGNMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SHORT TENURE",
+          "role": "primary"
+        },
+        {
+          "text": "POOR JAGIR",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSIGNEE SEEKS RAPID EXTRACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL PRESSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MORE CLAIMANTS / WEAK PAIBAQI → pressure for productive assignments",
+        "SHORT TENURE / POOR JAGIR → assignee seeks rapid extraction",
+        "LOCAL PRESSURE → zamindar resistance, evasion, debt, flight or negotiation",
+        "LOWER HASIL → contingent maintenance and imperial service weaken",
+        "MILITARY FAILURE / DISTURBANCE → collection becomes still harder"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MORE CLAIMANTS / WEAK PAIBAQI → pressure for productive assignments",
+            "SHORT TENURE / POOR JAGIR → assignee seeks rapid extraction"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LOCAL PRESSURE → zamindar resistance, evasion, debt, flight or negotiation",
+            "LOWER HASIL → contingent maintenance and imperial service weaken"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MILITARY FAILURE / DISTURBANCE → collection becomes still harder",
+            "RESULT → fiscal, agrarian and political strain reproduces itself."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → fiscal, agrarian and political strain reproduces itself.",
+      "source_references": [
+        "Jagirdari crisis",
+        "Extraction",
+        "Zamindar resistance",
+        "Contingents"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE INHERITED DECCAN BURDEN",
+      "structural_type": "legacy-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE INHERITED DECCAN BURDEN",
+          "role": "primary"
+        },
+        {
+          "text": "1686-87 ANNEXATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "MORE TERRITORY, FORTS, ELITES AND PAPER REVENUE",
+          "role": "comparison"
+        },
+        {
+          "text": "1687-1707 WAR",
+          "role": "evidence"
+        },
+        {
+          "text": "SIEGE, TRANSPORT, GARRISON AND REMOUNT COSTS ACCUMULATE",
+          "role": "primary"
+        },
+        {
+          "text": "BUFFER REMOVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT CONFLICT WITH DISPERSED MARATHA NETWORKS EXPANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTURBED DISTRICTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1686-87 ANNEXATIONS → more territory, forts, elites and paper revenue",
+        "1687-1707 WAR → siege, transport, garrison and remount costs accumulate",
+        "BUFFER REMOVAL → direct conflict with dispersed Maratha networks expands",
+        "DISTURBED DISTRICTS → assessed jama outruns reliable hasil",
+        "POST-1707 INHERITANCE → claimant pressure and military obligations remain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1686-87 ANNEXATIONS → more territory, forts, elites and paper revenue",
+            "1687-1707 WAR → siege, transport, garrison and remount costs accumulate"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BUFFER REMOVAL → direct conflict with dispersed Maratha networks expands",
+            "DISTURBED DISTRICTS → assessed jama outruns reliable hasil"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "POST-1707 INHERITANCE → claimant pressure and military obligations remain",
+            "VERDICT → Deccan war is a legacy mechanism, not the whole decline story."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Deccan war is a legacy mechanism, not the whole decline story.",
+      "source_references": [
+        "Deccan legacy",
+        "Annexation",
+        "Maratha war",
+        "Jama-hasil gap"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FROM CENTRE TO REGION: A SPECTRUM",
+      "structural_type": "authority-spectrum",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FROM CENTRE TO REGION",
+          "role": "primary"
+        },
+        {
+          "text": "A SPECTRUM",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT CENTRE",
+          "role": "comparison"
+        },
+        {
+          "text": "APPOINTMENT, REVENUE ORDER AND MILITARY COMMAND FROM DELHI",
+          "role": "evidence"
+        },
+        {
+          "text": "NEGOTIATED PROVINCE",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNOR AND LOCAL ELITES BARGAIN WITHIN IMPERIAL FORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "DE FACTO AUTONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVINCIAL RULER CONTROLS REVENUE, ARMY AND SUCCESSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT CENTRE → appointment, revenue order and military command from Delhi",
+        "NEGOTIATED PROVINCE → governor and local elites bargain within imperial forms",
+        "DE FACTO AUTONOMY → provincial ruler controls revenue, army and succession",
+        "FORMAL DEFERENCE → title, coin, khutba or confirmation may still invoke emperor",
+        "LOCAL POWER → zamindars and chiefs can cooperate, resist or become state-builders"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DIRECT CENTRE → appointment, revenue order and military command from Delhi",
+            "NEGOTIATED PROVINCE → governor and local elites bargain within imperial forms"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DE FACTO AUTONOMY → provincial ruler controls revenue, army and succession",
+            "FORMAL DEFERENCE → title, coin, khutba or confirmation may still invoke emperor"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LOCAL POWER → zamindars and chiefs can cooperate, resist or become state-builders",
+            "TRAP → autonomy is a process; it is not one simultaneous declaration."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → autonomy is a process; it is not one simultaneous declaration.",
+      "source_references": [
+        "Centre-region spectrum",
+        "Autonomy",
+        "Imperial legitimacy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BENGAL, AWADH AND HYDERABAD COMPARED",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BENGAL, AWADH AND HYDERABAD COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "MURSHID QULI KHAN STABILISES REVENUE AND LIMITS JAGIR DISRUPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SAADAT KHAN BUILDS THROUGH ACCOMMODATION WITH ZAMINDARS AND TALUQDARS",
+          "role": "comparison"
+        },
+        {
+          "text": "NIZAM-UL-MULK CONVERTS SUBEDARI AND MILITARY POWER AFTER 1724",
+          "role": "mechanism"
+        },
+        {
+          "text": "REVENUE, ARMY AND PATRONAGE BECOME REGIONALLY CONTROLLED",
+          "role": "primary"
+        },
+        {
+          "text": "MUGHAL TITLES AND SYMBOLIC LEGITIMACY OFTEN REMAIN USEFUL",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL SETTLEMENT, LOCAL ALLIANCE AND MILITARY CONVERSION VARY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BENGAL → Murshid Quli Khan stabilises revenue and limits jagir disruption",
+        "AWADH → Saadat Khan builds through accommodation with zamindars and taluqdars",
+        "HYDERABAD → Nizam-ul-Mulk converts subedari and military power after 1724",
+        "SHARED → revenue, army and patronage become regionally controlled",
+        "SHARED → Mughal titles and symbolic legitimacy often remain useful"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "BENGAL → Murshid Quli Khan stabilises revenue and limits jagir disruption",
+          "HYDERABAD → Nizam-ul-Mulk converts subedari and military power after 1724",
+          "SHARED → Mughal titles and symbolic legitimacy often remain useful"
+        ],
+        [
+          "AWADH → Saadat Khan builds through accommodation with zamindars and taluqdars",
+          "SHARED → revenue, army and patronage become regionally controlled",
+          "DIFFERENCE → fiscal settlement, local alliance and military conversion vary."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BENGAL → Murshid Quli Khan stabilises revenue and limits jagir disruption",
+            "AWADH → Saadat Khan builds through accommodation with zamindars and taluqdars"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HYDERABAD → Nizam-ul-Mulk converts subedari and military power after 1724",
+            "SHARED → revenue, army and patronage become regionally controlled"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SHARED → Mughal titles and symbolic legitimacy often remain useful",
+            "DIFFERENCE → fiscal settlement, local alliance and military conversion vary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIFFERENCE → fiscal settlement, local alliance and military conversion vary.",
+      "source_references": [
+        "Bengal",
+        "Awadh",
+        "Hyderabad",
+        "Successor states"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "JATS, SIKHS AND MARATHAS: BOUNDED SNAPSHOT",
+      "structural_type": "regional-snapshot",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JATS, SIKHS AND MARATHAS",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDED SNAPSHOT",
+          "role": "outcome"
+        },
+        {
+          "text": "AGRARIAN-ZAMINDARI POWER CONSOLIDATES AROUND BHARATPUR",
+          "role": "mechanism"
+        },
+        {
+          "text": "KHALSA, MISLS AND ARMED COMMUNITY FORMATION RESHAPE PUNJAB POLITICS",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAUTH CLAIMS AND CONFEDERATE EXPANSION REACH MALWA AND THE",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL WEAKENING OPENS SPACE, BUT EACH ROUTE HAS DISTINCT",
+          "role": "outcome"
+        },
+        {
+          "text": "SHIVAJI'S STATE DETAIL BELONGS TO TOPIC 23",
+          "role": "institution"
+        },
+        {
+          "text": "LATER CONFEDERACY AND COMPANY WARS REQUIRE THEIR PROPER OWNERS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JATS → agrarian-zamindari power consolidates around Bharatpur",
+        "SIKHS → Khalsa, misls and armed community formation reshape Punjab politics",
+        "MARATHAS → chauth claims and confederate expansion reach Malwa and the north",
+        "COMMON → imperial weakening opens space, but each route has distinct institutions",
+        "BOUNDARY → Shivaji's state detail belongs to Topic 23"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "JATS → agrarian-zamindari power consolidates around Bharatpur",
+            "SIKHS → Khalsa, misls and armed community formation reshape Punjab politics"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MARATHAS → chauth claims and confederate expansion reach Malwa and the north",
+            "COMMON → imperial weakening opens space, but each route has distinct institutions"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BOUNDARY → Shivaji's state detail belongs to Topic 23",
+            "BOUNDARY → later confederacy and Company wars require their proper owners."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → later confederacy and Company wars require their proper owners.",
+      "source_references": [
+        "Jats",
+        "Sikhs",
+        "Marathas",
+        "Regional powers",
+        "Topic boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NADIR SHAH, ABDALI AND PANIPAT",
+      "structural_type": "shock-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NADIR SHAH, ABDALI AND PANIPAT",
+          "role": "primary"
+        },
+        {
+          "text": "NADIR SHAH 1739",
+          "role": "outcome"
+        },
+        {
+          "text": "KARNAL DEFEAT EXPOSES WEAKNESS; DELHI LOSES TREASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERE FISCAL AND PRESTIGE SHOCK ACCELERATES AN OLDER CRISIS",
+          "role": "evidence"
+        },
+        {
+          "text": "ABDALI 1748-61",
+          "role": "primary"
+        },
+        {
+          "text": "REPEATED INVASIONS KEEP THE NORTHWEST UNDER PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PANIPAT 1761",
+          "role": "comparison"
+        },
+        {
+          "text": "ABDALI COALITION DEFEATS SADASHIVRAO BHAU'S MARATHA FORCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NADIR SHAH 1739 → Karnal defeat exposes weakness; Delhi loses treasure",
+        "EFFECT → severe fiscal and prestige shock accelerates an older crisis",
+        "ABDALI 1748-61 → repeated invasions keep the northwest under pressure",
+        "PANIPAT 1761 → Abdali coalition defeats Sadashivrao Bhau's Maratha force",
+        "LIMIT → Panipat checks northern expansion but does not end Maratha power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NADIR SHAH 1739 → Karnal defeat exposes weakness; Delhi loses treasure",
+            "EFFECT → severe fiscal and prestige shock accelerates an older crisis"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ABDALI 1748-61 → repeated invasions keep the northwest under pressure",
+            "PANIPAT 1761 → Abdali coalition defeats Sadashivrao Bhau's Maratha force"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → Panipat checks northern expansion but does not end Maratha power",
+            "TRAP → neither 1739 nor 1761 alone makes later British rule inevitable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → neither 1739 nor 1761 alone makes later British rule inevitable.",
+      "source_references": [
+        "Nadir Shah",
+        "Abdali",
+        "Karnal",
+        "Third Battle of Panipat"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REGIONAL ECONOMIC AND CULTURAL CONTINUITY",
+      "structural_type": "continuity-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGIONAL ECONOMIC AND CULTURAL CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL CENTRE CONTRACTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PATRONAGE AND RESOURCES SHIFT REGIONALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSES SUCH AS JAGAT SETH REMAIN INFLUENTIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUTES AND PRODUCTION PERSIST UNEVENLY ACROSS REGIONS",
+          "role": "primary"
+        },
+        {
+          "text": "COURTS SUPPORT ART, LITERATURE AND ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WARFARE, EXTRACTION AND LOCAL LOSSES REMAIN REAL",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL REORGANISATION, NOT UNIFORM ECONOMIC-CULTURAL COLLAPSE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLITICAL CENTRE CONTRACTS → patronage and resources shift regionally",
+        "BANKERS / CREDIT → houses such as Jagat Seth remain influential",
+        "TRADE / CRAFT → routes and production persist unevenly across regions",
+        "AWADH / HYDERABAD / BENGAL → courts support art, literature and architecture",
+        "QUALIFY → warfare, extraction and local losses remain real"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "POLITICAL CENTRE CONTRACTS → patronage and resources shift regionally",
+            "BANKERS / CREDIT → houses such as Jagat Seth remain influential"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRADE / CRAFT → routes and production persist unevenly across regions",
+            "AWADH / HYDERABAD / BENGAL → courts support art, literature and architecture"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "QUALIFY → warfare, extraction and local losses remain real",
+            "VERDICT → regional reorganisation, not uniform economic-cultural collapse."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → regional reorganisation, not uniform economic-cultural collapse.",
+      "source_references": [
+        "Economic continuity",
+        "Jagat Seth",
+        "Regional patronage"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NON-INEVITABILITY AND FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NON-INEVITABILITY AND FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DECLINE IS DEVOLUTION AND CONVERGING STRAIN, NOT INSTANT DISAPPEARANCE",
+          "role": "caution"
+        },
+        {
+          "text": "JAGIRDARI LOOP",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL AUTONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTERNAL SHOCKS",
+          "role": "primary"
+        },
+        {
+          "text": "HYDERABAD BY DISTINCT MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "POLITICAL FRAGMENTATION WITH ECONOMIC-CULTURAL CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RULER-ONLY BLAME, ONE-CAUSE CRISIS AND AUTOMATIC COLONIAL SUCCESSION",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "OPEN → decline is devolution and converging strain, not instant disappearance",
+        "TRACE → succession → jagirdari loop → regional autonomy → external shocks",
+        "COMPARE → Bengal / Awadh / Hyderabad by distinct mechanism",
+        "BALANCE → political fragmentation with economic-cultural continuity",
+        "REJECT → ruler-only blame, one-cause crisis and automatic colonial succession"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → decline is devolution and converging strain, not instant disappearance",
+            "TRACE → succession → jagirdari loop → regional autonomy → external shocks"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COMPARE → Bengal / Awadh / Hyderabad by distinct mechanism",
+            "BALANCE → political fragmentation with economic-cultural continuity"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REJECT → ruler-only blame, one-cause crisis and automatic colonial succession",
+            "CLOSE → 1707-61 created opportunities; later outcomes remained contingent."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → 1707-61 created opportunities; later outcomes remained contingent.",
+      "source_references": [
+        "Non-inevitability",
+        "Answer architecture",
+        "Qualified verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED EVIDENCE NOTEBOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "TWENTY-FOUR SOURCE-TO-ARGUMENT LABS",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE AND ANSWER-WRITING DRILLS",
+          "role": "evidence"
+        },
+        {
+          "text": "DECLINE OF THE MUGHAL EMPIRE & THE EIGHTEENTH CENTURY",
+          "role": "caution"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Advanced evidence notebook: twenty-four source-to-argument labs",
+            "Evidence and answer-writing drills",
+            "Decline of the Mughal Empire & the Eighteenth Century — ADVANCED",
+            "Mini-timeline"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles",
+            "+ Historiography ladder (PYQ-gap)"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

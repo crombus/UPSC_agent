@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-14",
+      "display_title": "Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Irrigation accounting ladder",
+          "structural_type": "measurement-ladder",
+          "ascii_lines": [
+            "CREATED POTENTIAL",
+            "-> UTILISED POTENTIAL",
+            "-> RELIABLE FIELD DELIVERY",
+            "-> WATER PRODUCTIVITY / FARM OUTCOME",
+            "MUST REMEMBER: Agricultural productivity and resilience depend on water, soil, seed,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PMKSY distinction board",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "HAR KHET KO PANI -> access",
+            "PER DROP MORE CROP -> application efficiency",
+            "STATE PLAN -> decentralised project choice",
+            "CONVERGENCE -> source to field"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Micro-irrigation rebound",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "LESS WATER PER UNIT",
+            "-> LOWER PRIVATE COST / MORE AREA",
+            "-> WATER-INTENSIVE CROP MAY PERSIST",
+            "-> BASIN SAVING NOT AUTOMATIC"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Water-energy-crop nexus",
+          "structural_type": "causal-triangle",
+          "ascii_lines": [
+            "CHEAP POWER",
+            "PROCUREMENT INCENTIVE",
+            "GROUNDWATER ACCESS",
+            "JOINT EFFECT -> extraction + crop lock-in"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Watershed rail",
+          "structural_type": "ridge-valley-flow",
+          "ascii_lines": [
+            "RIDGE -> vegetation + contour treatment",
+            "MID-SLOPE -> bunds + moisture retention",
+            "DRAINAGE -> check / recharge structures",
+            "VALLEY -> productive use + maintenance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Groundwater governance",
+          "structural_type": "common-pool-map",
+          "ascii_lines": [
+            "PRIVATE PUMP",
+            "SHARED AQUIFER",
+            "LOCAL WATER BUDGET",
+            "CROP + EXTRACTION RULES"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Credit-insurance fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "KCC -> pre-harvest liquidity",
+            "INSURANCE -> covered-loss transfer",
+            "NABARD / BANK -> finance architecture",
+            "CLAIM -> trigger + assessment + settlement"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Insurance outcome chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ENROLMENT",
+            "-> PREMIUM + NOTIFIED SCOPE",
+            "-> LOSS ASSESSMENT",
+            "-> ADMISSIBLE CLAIM -> SETTLEMENT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Basis-risk board",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "AREA YIELD -> lower verification cost",
+            "FARM LOSS -> may diverge",
+            "WEATHER INDEX -> proxy trigger",
+            "DATA + TIMELINESS decide trust"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Sustainable-practice map",
+          "structural_type": "practice-tree",
+          "ascii_lines": [
+            "CONSERVATION -> minimum disturbance + residue + rotation",
+            "PRECISION -> drip + fertigation + tensiometer",
+            "DIVERSIFICATION -> integrated farming",
+            "ORGANIC -> certification and transition context",
+            "CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tenant-access gate",
+          "structural_type": "eligibility-flow",
+          "ascii_lines": [
+            "ACTUAL CULTIVATOR",
+            "-> RECORD / LEASE EVIDENCE",
+            "-> CREDIT / INSURANCE ELIGIBILITY",
+            "-> COVERAGE OR EXCLUSION",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Resilience answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SEPARATE potential, use and efficiency",
+            "LINK water, energy, crop and credit",
+            "TRACE enrolment to claim settlement",
+            "CONCLUDE with aquifer + tenant governance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-14\\g2\\economy-14_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

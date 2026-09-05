@@ -1,0 +1,1049 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-23",
+  "subject": "Geography",
+  "title": "COOL TEMPERATE CONTINENTAL SIBERIAN",
+  "short_route": "SIBERIAN CLIMATE WORLD DISTRIBUTION \u2192 CLIMATE CHARACTER PROFILE \u2192 CONIFER ADAPTATION CHAIN \u2192 SOFTWOOD ECONOMIC CHAIN \u2192 CARBON STORAGE MECHANISM \u2192 FIRE-THAW FEEDBACK LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-23_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-23-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "08d58f7e7b34f1d488bdc24d67fcc05a8c5fa83660d82f85eaa24cf203bbc5c3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SIBERIAN CLIMATE WORLD DISTRIBUTION",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIBERIAN CLIMATE WORLD DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "LARGEST SINGLE TAIGA BAND, CONTINENTAL INTERIOR",
+          "role": "outcome"
+        },
+        {
+          "text": "BOREAL BELT FROM ROCKIES TO ATLANTIC COAST",
+          "role": "comparison"
+        },
+        {
+          "text": "SWEDEN AND FINLAND SHARE THE EUROPEAN TAIGA",
+          "role": "evidence"
+        },
+        {
+          "text": "SOUTHERN HEMISPHERE",
+          "role": "primary"
+        },
+        {
+          "text": "NO LAND BROAD ENOUGH AT THESE LATITUDES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SIBERIA \u2192 largest single taiga band, continental interior",
+        "CANADA \u2192 boreal belt from Rockies to Atlantic coast",
+        "SCANDINAVIA \u2192 Sweden and Finland share the European taiga",
+        "SOUTHERN HEMISPHERE \u2192 absent: no land broad enough at these latitudes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SIBERIA \u2192 largest single taiga band, continental interior",
+            "CANADA \u2192 boreal belt from Rockies to Atlantic coast"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCANDINAVIA \u2192 Sweden and Finland share the European taiga",
+            "SOUTHERN HEMISPHERE \u2192 absent: no land broad enough at these latitudes"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "SIBERIA \u2192 largest single taiga band, continental interior",
+            "CANADA \u2192 boreal belt from Rockies to Atlantic coast"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SCANDINAVIA \u2192 Sweden and Finland share the European taiga",
+            "SOUTHERN HEMISPHERE \u2192 absent: no land broad enough at these latitudes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOUTHERN HEMISPHERE \u2192 absent: no land broad enough at these latitudes.",
+      "source_references": [
+        "Northern Hemisphere exclusivity and boundaries"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CLIMATE CHARACTER PROFILE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLIMATE CHARACTER PROFILE",
+          "role": "primary"
+        },
+        {
+          "text": "BITTERLY COLD, LONG, SUB-ARCTIC; VERY LARGE ANNUAL RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT, COOL; BRIEF WARM GROWING SEASON",
+          "role": "comparison"
+        },
+        {
+          "text": "LOW TO MODERATE; LIGHT SUMMER MAXIMUM",
+          "role": "evidence"
+        },
+        {
+          "text": "PRECIPITATION TYPE",
+          "role": "primary"
+        },
+        {
+          "text": "MOSTLY SNOW IN WINTER; FRONTAL AND CONVECTIONAL IN SUMMER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WINTER \u2192 bitterly cold, long, sub-Arctic; very large annual range",
+        "SUMMER \u2192 short, cool; brief warm growing season",
+        "RAINFALL \u2192 low to moderate; light summer maximum",
+        "PRECIPITATION TYPE \u2192 mostly snow in winter; frontal and convectional in summer"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "WINTER \u2192 bitterly cold, long, sub-Arctic; very large annual range",
+          "RAINFALL \u2192 low to moderate; light summer maximum",
+          "WINTER \u2192 bitterly cold, long, sub-Arctic; very large annual range"
+        ],
+        [
+          "SUMMER \u2192 short, cool; brief warm growing season",
+          "PRECIPITATION TYPE \u2192 mostly snow in winter; frontal and convectional in summer",
+          "SUMMER \u2192 short, cool; brief warm growing season"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WINTER \u2192 bitterly cold, long, sub-Arctic; very large annual range",
+            "SUMMER \u2192 short, cool; brief warm growing season"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAINFALL \u2192 low to moderate; light summer maximum",
+            "PRECIPITATION TYPE \u2192 mostly snow in winter; frontal and convectional in summer"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WINTER \u2192 bitterly cold, long, sub-Arctic; very large annual range",
+            "SUMMER \u2192 short, cool; brief warm growing season"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRECIPITATION TYPE \u2192 mostly snow in winter; frontal and convectional in summer.",
+      "source_references": [
+        "Climate character"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONIFER ADAPTATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONIFER ADAPTATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CONICAL SHAPE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHEDS SNOW LOAD, PREVENTS BRANCH BREAKAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEEDLE LEAVES",
+          "role": "evidence"
+        },
+        {
+          "text": "REDUCED SURFACE AREA MINIMISES TRANSPIRATION LOSS",
+          "role": "primary"
+        },
+        {
+          "text": "SHALLOW ROOTS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLOIT THIN ACTIVE LAYER ABOVE PERMAFROST",
+          "role": "comparison"
+        },
+        {
+          "text": "CONIFERS DOMINATE WHERE BROADLEAF TREES CANNOT SURVIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONICAL SHAPE \u2192 sheds snow load, prevents branch breakage",
+        "NEEDLE LEAVES \u2192 reduced surface area minimises transpiration loss",
+        "SHALLOW ROOTS \u2192 exploit thin active layer above permafrost",
+        "RESULT \u2192 conifers dominate where broadleaf trees cannot survive"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "CONICAL SHAPE \u2192 sheds snow load, prevents branch breakage",
+            "NEEDLE LEAVES \u2192 reduced surface area minimises transpiration loss"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHALLOW ROOTS \u2192 exploit thin active layer above permafrost",
+            "RESULT \u2192 conifers dominate where broadleaf trees cannot survive"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "CONICAL SHAPE \u2192 sheds snow load, prevents branch breakage",
+            "NEEDLE LEAVES \u2192 reduced surface area minimises transpiration loss"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT \u2192 conifers dominate where broadleaf trees cannot survive.",
+      "source_references": [
+        "Conifer adaptations"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SOFTWOOD ECONOMIC CHAIN",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOFTWOOD ECONOMIC CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "UNIFORM LOW-DIVERSITY STANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "MECHANISED EXTRACTION FEASIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG-FIBRE SOFTWOOD",
+          "role": "evidence"
+        },
+        {
+          "text": "IDEAL FOR PULP AND PAPER MANUFACTURE",
+          "role": "primary"
+        },
+        {
+          "text": "FROZEN GROUND AND RIVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "NATURAL WINTER HAULAGE SURFACES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPRING THAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNIFORM LOW-DIVERSITY STANDS \u2192 mechanised extraction feasible",
+        "LONG-FIBRE SOFTWOOD \u2192 ideal for pulp and paper manufacture",
+        "FROZEN GROUND AND RIVERS \u2192 natural winter haulage surfaces",
+        "SPRING THAW \u2192 river floating of logs to downstream mills"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "UNIFORM LOW-DIVERSITY STANDS \u2192 mechanised extraction feasible",
+            "LONG-FIBRE SOFTWOOD \u2192 ideal for pulp and paper manufacture"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FROZEN GROUND AND RIVERS \u2192 natural winter haulage surfaces",
+            "SPRING THAW \u2192 river floating of logs to downstream mills"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "UNIFORM LOW-DIVERSITY STANDS \u2192 mechanised extraction feasible",
+            "LONG-FIBRE SOFTWOOD \u2192 ideal for pulp and paper manufacture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPRING THAW \u2192 river floating of logs to downstream mills.",
+      "source_references": [
+        "Softwood economic value",
+        "Biological poverty as commercial advantage"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CARBON STORAGE MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CARBON STORAGE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "COLD SLOWS DECOMPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANIC MATTER ACCUMULATES IN SOIL AND PEAT",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCKS CARBON IN FROZEN GROUND FOR MILLENNIA",
+          "role": "evidence"
+        },
+        {
+          "text": "BELOW-GROUND CARBON",
+          "role": "primary"
+        },
+        {
+          "text": "DISPROPORTIONATELY LARGE COMPARED TO ABOVE-GROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "BOREAL ZONE IS A GLOBALLY SIGNIFICANT CARBON RESERVOIR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COLD SLOWS DECOMPOSITION \u2192 organic matter accumulates in soil and peat",
+        "PERMAFROST \u2192 locks carbon in frozen ground for millennia",
+        "BELOW-GROUND CARBON \u2192 disproportionately large compared to above-ground",
+        "RESULT \u2192 boreal zone is a globally significant carbon reservoir"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "COLD SLOWS DECOMPOSITION \u2192 organic matter accumulates in soil and peat",
+            "PERMAFROST \u2192 locks carbon in frozen ground for millennia"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BELOW-GROUND CARBON \u2192 disproportionately large compared to above-ground",
+            "RESULT \u2192 boreal zone is a globally significant carbon reservoir"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "COLD SLOWS DECOMPOSITION \u2192 organic matter accumulates in soil and peat",
+            "PERMAFROST \u2192 locks carbon in frozen ground for millennia"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT \u2192 boreal zone is a globally significant carbon reservoir.",
+      "source_references": [
+        "Carbon storage mechanism"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FIRE-THAW FEEDBACK LOOP",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FIRE-THAW FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "LENGTHENS FIRE SEASON AND THAWS PERMAFROST",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEASES STORED CARBON DIRECTLY THROUGH COMBUSTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPOSES FROZEN ORGANIC MATTER TO DECOMPOSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEASED CARBON CAUSES FURTHER WARMING (SELF-REINFORCING)",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WARMING \u2192 lengthens fire season and thaws permafrost",
+        "FIRE \u2192 releases stored carbon directly through combustion",
+        "THAW \u2192 exposes frozen organic matter to decomposition",
+        "FEEDBACK \u2192 released carbon causes further warming (self-reinforcing)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WARMING \u2192 lengthens fire season and thaws permafrost",
+            "FIRE \u2192 releases stored carbon directly through combustion"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THAW \u2192 exposes frozen organic matter to decomposition",
+            "FEEDBACK \u2192 released carbon causes further warming (self-reinforcing)"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WARMING \u2192 lengthens fire season and thaws permafrost",
+            "FIRE \u2192 releases stored carbon directly through combustion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK \u2192 released carbon causes further warming (self-reinforcing).",
+      "source_references": [
+        "Fire-thaw feedback and sink-to-source risk"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PERMAFROST ENGINEERING IMPACT",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERMAFROST ENGINEERING IMPACT",
+          "role": "primary"
+        },
+        {
+          "text": "THAWING PERMAFROST",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUND LOSES BEARING CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ROADS AND RAILWAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBSIDENCE, CRACKING, REALIGNMENT NEEDED",
+          "role": "primary"
+        },
+        {
+          "text": "STRESS FRACTURES AND LEAK RISK",
+          "role": "caution"
+        },
+        {
+          "text": "FOUNDATION FAILURE ACROSS SETTLED SUB-ARCTIC",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "THAWING PERMAFROST \u2192 ground loses bearing capacity",
+        "ROADS AND RAILWAYS \u2192 subsidence, cracking, realignment needed",
+        "PIPELINES \u2192 stress fractures and leak risk",
+        "BUILDINGS \u2192 foundation failure across settled sub-Arctic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "THAWING PERMAFROST \u2192 ground loses bearing capacity",
+            "ROADS AND RAILWAYS \u2192 subsidence, cracking, realignment needed"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PIPELINES \u2192 stress fractures and leak risk",
+            "BUILDINGS \u2192 foundation failure across settled sub-Arctic"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "THAWING PERMAFROST \u2192 ground loses bearing capacity",
+            "ROADS AND RAILWAYS \u2192 subsidence, cracking, realignment needed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROADS AND RAILWAYS \u2192 subsidence, cracking, realignment needed.",
+      "source_references": [
+        "Permafrost engineering consequence"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HIMALAYAN ALTITUDINAL ZONATION",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HIMALAYAN ALTITUDINAL ZONATION",
+          "role": "primary"
+        },
+        {
+          "text": "CHIR PINE BELT, 100-200 CM RAIN, FIRE-PRONE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEODAR, SPRUCE IN WESTERN HIMALAYA",
+          "role": "comparison"
+        },
+        {
+          "text": "SILVER-FIR (ABIES) AT 2200-3000 M, NW AND NE",
+          "role": "evidence"
+        },
+        {
+          "text": "TREELESS PASTURES ABOVE TREELINE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUBTROPICAL \u2192 chir pine belt, 100-200 cm rain, fire-prone",
+        "TEMPERATE \u2192 deodar, spruce in western Himalaya",
+        "SUBALPINE \u2192 silver-fir (Abies) at 2200-3000 m, NW and NE",
+        "ALPINE \u2192 bugyals/mergs: treeless pastures above treeline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SUBTROPICAL \u2192 chir pine belt, 100-200 cm rain, fire-prone",
+            "TEMPERATE \u2192 deodar, spruce in western Himalaya"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUBALPINE \u2192 silver-fir (Abies) at 2200-3000 m, NW and NE",
+            "ALPINE \u2192 bugyals/mergs: treeless pastures above treeline"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "SUBTROPICAL \u2192 chir pine belt, 100-200 cm rain, fire-prone",
+            "TEMPERATE \u2192 deodar, spruce in western Himalaya"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SUBALPINE \u2192 silver-fir (Abies) at 2200-3000 m, NW and NE",
+            "ALPINE \u2192 bugyals/mergs: treeless pastures above treeline"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUBALPINE \u2192 silver-fir (Abies) at 2200-3000 m, NW and NE.",
+      "source_references": [
+        "Himalayan altitudinal zonation",
+        "Chir pine and fire ecology"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HIMALAYAN CONIFER IDENTIFICATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HIMALAYAN CONIFER IDENTIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "SILVER-FIR (ABIES)",
+          "role": "outcome"
+        },
+        {
+          "text": "2200-3000 M; PLANKING, PULP, PAPER, MATCHES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPRUCE (PICEA SMITHIANA)",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH WET-TEMPERATE BELT; SOFTWOOD",
+          "role": "primary"
+        },
+        {
+          "text": "DEODAR (CEDRUS DEODARA)",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN HIMALAYA; DURABLE TIMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "CHIR PINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SILVER-FIR (Abies) \u2192 2200-3000 m; planking, pulp, paper, matches",
+        "SPRUCE (Picea smithiana) \u2192 high wet-temperate belt; softwood",
+        "DEODAR (Cedrus deodara) \u2192 western Himalaya; durable timber",
+        "CHIR PINE \u2192 subtropical montane; resinous, fire-prone"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "SILVER-FIR (Abies) \u2192 2200-3000 m; planking, pulp, paper, matches",
+          "DEODAR (Cedrus deodara) \u2192 western Himalaya; durable timber",
+          "SILVER-FIR (Abies) \u2192 2200-3000 m; planking, pulp, paper, matches"
+        ],
+        [
+          "SPRUCE (Picea smithiana) \u2192 high wet-temperate belt; softwood",
+          "CHIR PINE \u2192 subtropical montane; resinous, fire-prone",
+          "SPRUCE (Picea smithiana) \u2192 high wet-temperate belt; softwood"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SILVER-FIR (Abies) \u2192 2200-3000 m; planking, pulp, paper, matches",
+            "SPRUCE (Picea smithiana) \u2192 high wet-temperate belt; softwood"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEODAR (Cedrus deodara) \u2192 western Himalaya; durable timber",
+            "CHIR PINE \u2192 subtropical montane; resinous, fire-prone"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SILVER-FIR (Abies) \u2192 2200-3000 m; planking, pulp, paper, matches",
+            "SPRUCE (Picea smithiana) \u2192 high wet-temperate belt; softwood"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEODAR (Cedrus deodara) \u2192 western Himalaya; durable timber.",
+      "source_references": [
+        "Key Himalayan conifers",
+        "Chir pine and fire ecology"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TREELINE AND ALPINE PASTURES",
+      "structural_type": "process-flow",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TREELINE AND ALPINE PASTURES",
+          "role": "primary"
+        },
+        {
+          "text": "CONIFEROUS FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "GIVES WAY AT THE TREELINE ALTITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "ALPINE SCRUB",
+          "role": "evidence"
+        },
+        {
+          "text": "DWARF SHRUBS IN TRANSITION ZONE",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN GRASSY MEADOWS FOR SUMMER GRAZING",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMANENT SNOW ABOVE THE PASTORAL BELT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONIFEROUS FOREST \u2192 gives way at the treeline altitude",
+        "ALPINE SCRUB \u2192 dwarf shrubs in transition zone",
+        "BUGYALS/MERGS \u2192 open grassy meadows for summer grazing",
+        "SNOWLINE \u2192 permanent snow above the pastoral belt"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "CONIFEROUS FOREST \u2192 gives way at the treeline altitude",
+            "ALPINE SCRUB \u2192 dwarf shrubs in transition zone"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUGYALS/MERGS \u2192 open grassy meadows for summer grazing",
+            "SNOWLINE \u2192 permanent snow above the pastoral belt"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "CONIFEROUS FOREST \u2192 gives way at the treeline altitude",
+            "ALPINE SCRUB \u2192 dwarf shrubs in transition zone"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SNOWLINE \u2192 permanent snow above the pastoral belt.",
+      "source_references": [
+        "Treeline and alpine ecology"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BIOME COMPARISON STRIP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BIOME COMPARISON STRIP",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH-LATITUDE CONIFEROUS, BELOW-GROUND CARBON, SOFTWOOD ECONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "MID-LATITUDE GRASSLAND, CHERNOZEM SOIL, MECHANISED GRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "TROPICAL GRASSLAND, LATERISED SOIL, PASTORAL SUBSISTENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "LATITUDE, RAINFALL REGIME, SOIL TYPE AND ECONOMIC SYSTEM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TAIGA \u2192 high-latitude coniferous, below-ground carbon, softwood economy",
+        "STEPPE \u2192 mid-latitude grassland, chernozem soil, mechanised grain",
+        "SAVANNA \u2192 tropical grassland, laterised soil, pastoral subsistence",
+        "DISTINGUISHER \u2192 latitude, rainfall regime, soil type and economic system"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "TAIGA \u2192 high-latitude coniferous, below-ground carbon, softwood economy",
+          "SAVANNA \u2192 tropical grassland, laterised soil, pastoral subsistence",
+          "TAIGA \u2192 high-latitude coniferous, below-ground carbon, softwood economy"
+        ],
+        [
+          "STEPPE \u2192 mid-latitude grassland, chernozem soil, mechanised grain",
+          "DISTINGUISHER \u2192 latitude, rainfall regime, soil type and economic system",
+          "STEPPE \u2192 mid-latitude grassland, chernozem soil, mechanised grain"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "TAIGA \u2192 high-latitude coniferous, below-ground carbon, softwood economy",
+            "STEPPE \u2192 mid-latitude grassland, chernozem soil, mechanised grain"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAVANNA \u2192 tropical grassland, laterised soil, pastoral subsistence",
+            "DISTINGUISHER \u2192 latitude, rainfall regime, soil type and economic system"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "TAIGA \u2192 high-latitude coniferous, below-ground carbon, softwood economy",
+            "STEPPE \u2192 mid-latitude grassland, chernozem soil, mechanised grain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTINGUISHER \u2192 latitude, rainfall regime, soil type and economic system.",
+      "source_references": [
+        "Savanna-steppe-taiga comparison"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SIBERIAN CLIMATE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SIBERIAN CLIMATE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NORTHERN HEMISPHERE BOREAL CONIFEROUS BELT WITH EXTREME CONTINENTAL RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SIBERIA, CANADA, SCANDINAVIA; ABSENT IN SOUTHERN HEMISPHERE",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD-ADAPTATION, SOFTWOOD ECONOMY, CARBON STORAGE, FIRE-THAW FEEDBACK",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S ALTITUDINAL ANALOGUE; TRANSPARENT ZERO-DIRECT-PYQ BOUNDARY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 Northern Hemisphere boreal coniferous belt with extreme continental range",
+        "LOCATE \u2192 Siberia, Canada, Scandinavia; absent in Southern Hemisphere",
+        "EXPLAIN \u2192 cold-adaptation, softwood economy, carbon storage, fire-thaw feedback",
+        "QUALIFY \u2192 India's altitudinal analogue; transparent zero-direct-PYQ boundary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 Northern Hemisphere boreal coniferous belt with extreme continental range",
+            "LOCATE \u2192 Siberia, Canada, Scandinavia; absent in Southern Hemisphere"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN \u2192 cold-adaptation, softwood economy, carbon storage, fire-thaw feedback",
+            "QUALIFY \u2192 India's altitudinal analogue; transparent zero-direct-PYQ boundary"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 Northern Hemisphere boreal coniferous belt with extreme continental range",
+            "LOCATE \u2192 Siberia, Canada, Scandinavia; absent in Southern Hemisphere"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY \u2192 India's altitudinal analogue; transparent zero-direct-PYQ boundary.",
+      "source_references": [
+        "PYQ boundary and answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MONTANE WET-TEMPERATE FOREST BELTS VARY EAST-WEST AND BY ASPECT",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOVE THE CONIFEROUS BELT LIE ALPINE SCRUB, MEADOWS (BUGYALS/MERGS)",
+          "role": "comparison"
+        },
+        {
+          "text": "THESE SOFTWOOD CONIFERS ARE INDIA'S CHIEF SOURCE OF PULP",
+          "role": "evidence"
+        },
+        {
+          "text": "ALPINE SUMMER PASTURES ; TRIBAL GRAZING GROUNDS.",
+          "role": "primary"
+        },
+        {
+          "text": "SILVER-FIR (ABIES)",
+          "role": "outcome"
+        },
+        {
+          "text": "2200\u20133000 M ; USED FOR WOOD-PULP/PAPER/MATCHES.",
+          "role": "comparison"
+        },
+        {
+          "text": "PICEA SMITHIANA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "Montane wet-temperate forest belts vary east-west and by aspect; source altitude/temperature bands",
+            "Above the coniferous belt lie alpine scrub, meadows (bugyals/mergs) , then snow \u2014 the treeline",
+            "CAUTION: These softwood conifers are India's chief source of pulp, paper and match timber, mirroring the",
+            "\"Mergs\"/bugyals = alpine summer pastures ; tribal grazing grounds."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Silver-fir (Abies) = 2200\u20133000 m ; used for wood-pulp/paper/matches.",
+            "Picea smithiana = spruce ; Cedrus deodara = deodar (durable, sleepers).",
+            "Vegetation zonation is altitudinal (tropical \u2192 conifer \u2192 alpine) in a short vertical distance.",
+            "NOT: Deodar and silver-fir are broadleaf trees \u2192 both are conifers (softwood) ."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "NOT: Alpine \"mergs/bugyals\" are forests \u2192 they are grassy alpine pastures above the treeline .",
+            "Altitudinal vegetation zonation of the Himalaya and how warming-driven treeline/snowline shifts",
+            "Himalayan permafrost as an emerging hazard: rock-glacier thaw, slope failure and the case for",
+            "Subject: Geography \u00b7 Tier: Advanced (India-applied) \u00b7 GS Paper: GS-I / GS-III Grounded in: Majid Husain, India geography + D.R."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

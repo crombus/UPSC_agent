@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T10:41:02+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "a86dddb6f3b3e1a85f7856c394daa251b3dbae1a6c6f2bb15f3a327b3409e14a",
+    "sha256_after": "a86dddb6f3b3e1a85f7856c394daa251b3dbae1a6c6f2bb15f3a327b3409e14a",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9114,
+    "pdf_count": 2347,
+    "png_count": 773,
+    "txt_count": 990,
+    "markdown_count": 1482,
+    "json_count": 3507,
+    "total_bytes": 4133737293,
+    "by_extension": {
+      ".json": 3507,
+      ".md": 1482,
+      ".pdf": 2347,
+      ".png": 773,
+      ".txt": 990,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-19",
+      "topic_title": "Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 19,
+      "source_record_id": "modern-indian-history-19:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "c55158173a0b6fe443168c3e751ab46bb3401f549a9c4bcb9d61c1a98daac861",
+          "output_sha256": "c55158173a0b6fe443168c3e751ab46bb3401f549a9c4bcb9d61c1a98daac861",
+          "source_output_equal": true,
+          "bytes": 602321
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g3\\modern-indian-history-19_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "c9c0c5478422adb593d13ffd9cd1dec94da6813493b9f3163cb8c6f0f5dfacb3",
+          "output_sha256": "c9c0c5478422adb593d13ffd9cd1dec94da6813493b9f3163cb8c6f0f5dfacb3",
+          "source_output_equal": true,
+          "bytes": 484717
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-19\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "cd5e09411e48747c7bfb4be3e2d65c26eb43c674da4637d983b8094c6a9e1444",
+          "output_sha256": "cd5e09411e48747c7bfb4be3e2d65c26eb43c674da4637d983b8094c6a9e1444",
+          "source_output_equal": true,
+          "bytes": 2219640
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-19\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "bd2f0dbb2e2bc4f6d4a673596543d43f9e6ac1471c6242eac0b6b2d795fcb11b",
+          "output_sha256": "bd2f0dbb2e2bc4f6d4a673596543d43f9e6ac1471c6242eac0b6b2d795fcb11b",
+          "source_output_equal": true,
+          "bytes": 2653778
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-19\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "6aa630d23d6130d06cfcd5fa7c672ee155cbf26dd60b8f33b6550817fb17edfc",
+          "output_sha256": "6aa630d23d6130d06cfcd5fa7c672ee155cbf26dd60b8f33b6550817fb17edfc",
+          "source_output_equal": true,
+          "bytes": 1981371
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-19\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "25d6512f52f61170a8e03607682537964bd8738878c8d822e459b6c1727198a3",
+          "output_sha256": "25d6512f52f61170a8e03607682537964bd8738878c8d822e459b6c1727198a3",
+          "source_output_equal": true,
+          "bytes": 5324
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-19\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\19-Gandhis-Rise-5c985d3b-Bagh-1917-1919\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "e22dcab7e36e06f71ca739b45c987c4c280a94d150954dce924d90f344155d3b",
+          "output_sha256": "e22dcab7e36e06f71ca739b45c987c4c280a94d150954dce924d90f344155d3b",
+          "source_output_equal": true,
+          "source_text_sha256": "25d6512f52f61170a8e03607682537964bd8738878c8d822e459b6c1727198a3",
+          "normalized_text_equal": true,
+          "bytes": 57732
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 64,
+        "solved_practice_workbook": 34,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10652
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

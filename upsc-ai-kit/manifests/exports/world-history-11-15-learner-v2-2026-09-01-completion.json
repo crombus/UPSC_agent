@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "world-history-11-15-learner-v2-2026-09-01-completion",
+  "passed": true,
+  "test_count": 99,
+  "topic_count": 5,
+  "topics": [
+    {
+      "topic_key": "world-history-11",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-11\\world-history-11_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-11\\world-history-11_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 60,
+      "workbook_pages": 24,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "world-history-12",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-12\\world-history-12_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-12\\world-history-12_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 63,
+      "workbook_pages": 25,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "world-history-13",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-13\\world-history-13_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-13\\world-history-13_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 62,
+      "workbook_pages": 24,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "world-history-14",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-14\\world-history-14_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-14\\world-history-14_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 62,
+      "workbook_pages": 25,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "world-history-15",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-15\\world-history-15_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-15\\world-history-15_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 65,
+      "workbook_pages": 25,
+      "ascii_panels": 12,
+      "mcqs": 80
+    }
+  ],
+  "changed_files_manifest": "upsc-ai-kit/manifests/exports/world-history-11-15-learner-v2-2026-09-01-changed-files.txt"
+}

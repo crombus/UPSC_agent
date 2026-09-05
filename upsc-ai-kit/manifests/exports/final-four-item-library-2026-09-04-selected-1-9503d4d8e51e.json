@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T08:12:39+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "6f517fb756de45f9f9c510888882c7505d4404f9b642f39be835630f303fa727",
+    "sha256_after": "6f517fb756de45f9f9c510888882c7505d4404f9b642f39be835630f303fa727",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8543,
+    "pdf_count": 2177,
+    "png_count": 739,
+    "txt_count": 922,
+    "markdown_count": 1414,
+    "json_count": 3276,
+    "total_bytes": 3890494587,
+    "by_extension": {
+      ".json": 3276,
+      ".md": 1414,
+      ".pdf": 2177,
+      ".png": 739,
+      ".txt": 922,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-21",
+      "topic_title": "Shah Jahan & the Evolution of the Mughal Ruling Class",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 21,
+      "source_record_id": "medieval-indian-history-21:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "470d1e3001725837b8e588d54f070d6a114b13ecf6d543cd9641b3c02ca3cd42",
+          "output_sha256": "470d1e3001725837b8e588d54f070d6a114b13ecf6d543cd9641b3c02ca3cd42",
+          "source_output_equal": true,
+          "bytes": 7058343
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-21\\g4\\medieval-indian-history-21_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "9f8a7a9cd44d76cc43ac43d9d2b1e5931d154fd60996956c62e9a8d333b7114b",
+          "output_sha256": "9f8a7a9cd44d76cc43ac43d9d2b1e5931d154fd60996956c62e9a8d333b7114b",
+          "source_output_equal": true,
+          "bytes": 294898
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-21\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "6a4dbc1bee43cc4a393581b40c749c0b23b55712caeb3cce009c3db808845678",
+          "output_sha256": "6a4dbc1bee43cc4a393581b40c749c0b23b55712caeb3cce009c3db808845678",
+          "source_output_equal": true,
+          "bytes": 2349529
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-21\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "fd20fc56439a3d51f53cf501f6918d1ba243929d11fd6557a1aa15bb5b241ff9",
+          "output_sha256": "fd20fc56439a3d51f53cf501f6918d1ba243929d11fd6557a1aa15bb5b241ff9",
+          "source_output_equal": true,
+          "bytes": 2688850
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-21\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "0477b62347f06342a50048655307858a02ee35d4fa892f6d50e54324d0ceabf0",
+          "output_sha256": "0477b62347f06342a50048655307858a02ee35d4fa892f6d50e54324d0ceabf0",
+          "source_output_equal": true,
+          "bytes": 2098796
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-21\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "04b675e4b65e0bf5e0c3270a413163f747e8ac4fe07f5559dee2a95614bcc813",
+          "output_sha256": "04b675e4b65e0bf5e0c3270a413163f747e8ac4fe07f5559dee2a95614bcc813",
+          "source_output_equal": true,
+          "bytes": 6906
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-21\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\21-Shah-Jahan-and-the-b19eec2a-Mughal-Ruling-Class\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "bea1993930700fbede8f64cb48403927ea7c9b10d5469342fbb87e4dc02d462d",
+          "output_sha256": "bea1993930700fbede8f64cb48403927ea7c9b10d5469342fbb87e4dc02d462d",
+          "source_output_equal": true,
+          "source_text_sha256": "04b675e4b65e0bf5e0c3270a413163f747e8ac4fe07f5559dee2a95614bcc813",
+          "normalized_text_equal": true,
+          "bytes": 59013
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 8,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 106,
+        "solved_practice_workbook": 23,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 106,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11294
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

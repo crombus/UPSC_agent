@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T07:40:04+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b47aa85354bab23b70d4f41b4bcbd3ab329a791d63c25070829b407ee9536e8b",
+    "sha256_after": "b47aa85354bab23b70d4f41b4bcbd3ab329a791d63c25070829b407ee9536e8b",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 2,
+  "subjects": {
+    "Medieval History": 2
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 2
+  },
+  "library_totals": {
+    "file_count": 3086,
+    "pdf_count": 927,
+    "png_count": 489,
+    "txt_count": 422,
+    "markdown_count": 409,
+    "json_count": 824,
+    "total_bytes": 1800459385,
+    "by_extension": {
+      ".json": 824,
+      ".md": 409,
+      ".pdf": 927,
+      ".png": 489,
+      ".txt": 422,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-09",
+      "topic_title": "Vijayanagara & the Bahmani Kingdom (Deccan)",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "medieval-indian-history-09:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-09\\medieval-indian-history-09_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "03a914bc20632a2d1b6bd42b0a350f94413f967ea32b3c042ef8b84a849150ad",
+          "output_sha256": "03a914bc20632a2d1b6bd42b0a350f94413f967ea32b3c042ef8b84a849150ad",
+          "source_output_equal": true,
+          "bytes": 1882379
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-09\\medieval-indian-history-09_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "17c5710e13b021c392711502bdccdc607224f3ded3a65219e963e49464f585bc",
+          "output_sha256": "17c5710e13b021c392711502bdccdc607224f3ded3a65219e963e49464f585bc",
+          "source_output_equal": true,
+          "bytes": 427410
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-09\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "3975bb99e61bfb7bb200d58f2d6e774cea69245464fe7a1d1615eca161105b74",
+          "output_sha256": "3975bb99e61bfb7bb200d58f2d6e774cea69245464fe7a1d1615eca161105b74",
+          "source_output_equal": true,
+          "bytes": 2277539
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-09\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "2081a30c8f59683fe845bc23e83df3376ffed08ff8172168446afa0d99f8e780",
+          "output_sha256": "2081a30c8f59683fe845bc23e83df3376ffed08ff8172168446afa0d99f8e780",
+          "source_output_equal": true,
+          "bytes": 2640649
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-09\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "2c4300724cde0b603b1f0f4de824b9d17eea562634c67b692aee4e471fe701d0",
+          "output_sha256": "2c4300724cde0b603b1f0f4de824b9d17eea562634c67b692aee4e471fe701d0",
+          "source_output_equal": true,
+          "bytes": 2032664
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-09\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "e0001008590c4538a80fab1c116acacf8d45463dac712280e46f46fd43255df9",
+          "output_sha256": "e0001008590c4538a80fab1c116acacf8d45463dac712280e46f46fd43255df9",
+          "source_output_equal": true,
+          "bytes": 5245
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-09\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\09-Vijayanagara-and-the-Bahmani-Kingdom-Deccan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "e0001008590c4538a80fab1c116acacf8d45463dac712280e46f46fd43255df9",
+          "output_sha256": "03e714eff410b39b7acd104c361e84bcf64b6ca8747b42718cb683b9df150239",
+          "normalized_text_equal": true,
+          "bytes": 57424
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 9,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 9,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 66,
+        "solved_practice_workbook": 20,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 66,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11252
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "medieval-indian-history-10",
+      "topic_title": "The Bhakti & Sufi Movements",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 10,
+      "source_record_id": "medieval-indian-history-10:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-10\\medieval-indian-history-10_Complete-Learning-Session_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3aea4bc7f1ceab3451fc529633e6bab52e16012a0337f646529401770a62d9b0",
+          "output_sha256": "3aea4bc7f1ceab3451fc529633e6bab52e16012a0337f646529401770a62d9b0",
+          "source_output_equal": true,
+          "bytes": 1530713
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-10\\medieval-indian-history-10_Solved-Practice-Workbook_2026-08-30.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6064fcd672b8b7b697653c3286de2ce13c376cf6e1ba472b6111f39841e08846",
+          "output_sha256": "6064fcd672b8b7b697653c3286de2ce13c376cf6e1ba472b6111f39841e08846",
+          "source_output_equal": true,
+          "bytes": 391731
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-10\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "b6217aa6420fbbbd5aec324c8a6c75f16bfc78835ad50c66c4a747b387f7f95d",
+          "output_sha256": "b6217aa6420fbbbd5aec324c8a6c75f16bfc78835ad50c66c4a747b387f7f95d",
+          "source_output_equal": true,
+          "bytes": 2248820
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-10\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "1bc7db3168959e272e4868e0f0700ba2a6d691da9fd09850c8d05ad61a652e63",
+          "output_sha256": "1bc7db3168959e272e4868e0f0700ba2a6d691da9fd09850c8d05ad61a652e63",
+          "source_output_equal": true,
+          "bytes": 2525147
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-10\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "d4f868089a66804320b944d35e956b17173b0e279cdd5ac0173858bd8ae4d0f0",
+          "output_sha256": "d4f868089a66804320b944d35e956b17173b0e279cdd5ac0173858bd8ae4d0f0",
+          "source_output_equal": true,
+          "bytes": 1982050
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-10\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "6b8d5d4a7819f1b442c47875d9cb9395426a2cebe9a4f1d27d7d4008afb66888",
+          "output_sha256": "6b8d5d4a7819f1b442c47875d9cb9395426a2cebe9a4f1d27d7d4008afb66888",
+          "source_output_equal": true,
+          "bytes": 5161
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-10\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\10-The-Bhakti-and-Sufi-Movements\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "6b8d5d4a7819f1b442c47875d9cb9395426a2cebe9a4f1d27d7d4008afb66888",
+          "output_sha256": "eeddc111de666cb39b364f7445b5c40161f99b875e2b81d81bc4aa73b3289923",
+          "normalized_text_equal": true,
+          "bytes": 57465
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 64,
+        "solved_practice_workbook": 22,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 22,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11440
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

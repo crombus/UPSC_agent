@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Philosophy",
+    "display_name": "Philosophy Optional"
+  },
+  "section": {
+    "key": "paper-i-western-philosophy",
+    "name": "Philosophy Paper I — Western Philosophy",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+    ],
+    "notes": "Complete eleven-topic official Western Philosophy section in syllabus/source order. Topics 01-11 are materialised as learner-v2; every topic remains unapproved until its exact generation is explicitly approved."
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-01",
+      "display_title": "Plato and Aristotle",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 1: Plato and Aristotle : Ideas; Substance; Form and Matter; Causation; Actuality and Potentiality.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-01:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g7\\topic-01_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g7",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Complete-Learning-Session_2026-08-18.md",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "philosophy-paper-i-western-philosophy-01:learner-v2:g7",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g7\\topic-01_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g7\\topic-01_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-02",
+      "display_title": "Rationalism",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 2: Rationalism (Descartes, Spinoza, Leibniz); Cartesian Method and Certain Knowledge; Substance; God; Mind-Body Dualism; Determinism and Freedom.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Rationalism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Rationalism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-02-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-02:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\topic-02_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g6",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Rationalism\\Rationalism_Layered-Complete-Learning-Session_2026-08-18.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Rationalism\\Rationalism_Layered-Solved-Practice-Workbook_2026-08-18.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "philosophy-paper-i-western-philosophy-02:learner-v2:g6",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-03",
+      "display_title": "Empiricism",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 3: Empiricism (Locke, Berkeley, Hume) : Theory of Knowledge; Substance and Qualities; Self and God; Scepticism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Empiricism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Empiricism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-03-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-03:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g5\\topic-03_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g5",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Empiricism\\Empiricism_Layered-Complete-Learning-Session_2026-08-18.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Empiricism\\Empiricism_Layered-Solved-Practice-Workbook_2026-08-18.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-i-western-philosophy-03:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-04",
+      "display_title": "Kant",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 4: Kant: Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Kant.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Kant.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-04-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-04:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g6\\topic-04_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g6",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Kant\\Kant_Layered-Complete-Learning-Session_2026-08-18.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Kant\\Kant_Layered-Solved-Practice-Workbook_2026-08-18.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "philosophy-paper-i-western-philosophy-04:learner-v2:g6",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g6\\topic-04_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g6\\topic-04_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-05",
+      "display_title": "Hegel",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 5: Hegel : Dialectical Method; Absolute Idealism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Hegel.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Hegel.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-05-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-05:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g7\\topic-05_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g7",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Hegel\\Hegel_Layered-Complete-Learning-Session_2026-08-18.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Hegel\\Hegel_Layered-Solved-Practice-Workbook_2026-08-18.md",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "philosophy-paper-i-western-philosophy-05:learner-v2:g7",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-06",
+      "display_title": "Moore, Russell and Early Wittgenstein",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 6: Moore, Russell and Early Wittgenstein : Defence of Commonsense; Refutation of Idealism; Logical Atomism; Logical Constructions; Incomplete Symbols; Picture Theory of Meaning; Sying and Showing.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-06-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-06:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g5\\topic-06_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g5\\topic-06_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g5\\topic-06_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-06\\carvaka-g5",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Moore-Russell-Early-Wittgenstein\\Moore-Russell-Early-Wittgenstein_Layered-Complete-Learning-Session_2026-08-18.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Moore-Russell-Early-Wittgenstein\\Moore-Russell-Early-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-18.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-i-western-philosophy-06:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g5\\topic-06_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g5\\topic-06_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-07",
+      "display_title": "Logical Positivism",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 7: Logical Positivism : Verification Theory of Meaning; Rejection of Metaphysics; Linguistic Theory of Necessary Propositions.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Logical-Positivism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Logical-Positivism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-07-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-07:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g5\\topic-07_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-07\\carvaka-g5",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Logical-Positivism\\Logical-Positivism_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Logical-Positivism\\Logical-Positivism_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-i-western-philosophy-07:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-08",
+      "display_title": "Later Wittgenstein",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 8: Later Wittgenstein : Meaning and Use; Language-games; Critique of Private Language.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-08-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-08:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g5",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-i-western-philosophy-08:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-09",
+      "display_title": "Phenomenology (Husserl)",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 9: Phenomenology (Husserl): Method; Theory of Essences; Avoidance of Psychologism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-09-ascii-2026-08-26.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-09:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-09\\carvaka-g4",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Phenomenology-Husserl\\Phenomenology-Husserl_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "philosophy-paper-i-western-philosophy-09:learner-v2:g4",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-10",
+      "display_title": "Existentialism",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 10: Existentialism (Kierkegaard, Sarte, Heidegger): Existence and Essence; Choice, Responsibility and Authentic Existence; Being-in-the-world and Temporality.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Existentialism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Existentialism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-10-ascii-2026-08-27-g3.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-10:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-10\\carvaka-g6",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "philosophy-paper-i-western-philosophy-10:learner-v2:g6",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Complete-Learning-Session_2026-09-02.pdf"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-11",
+      "display_title": "Quine and Strawson",
+      "syllabus_mapping": "Philosophy Optional, Paper I, Western Philosophy topic 11: Quine and Strawson : Critique of Empiricism; Theory of Basic Particulars and Persons.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md"
+      ],
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-11-ascii-2026-08-27.json",
+      "superseded_v1": "philosophy-paper-i-western-philosophy-11:legacy-v1:g1",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Complete-Learning-Session_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Solved-Practice-Workbook_2026-09-02.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g5",
+      "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Complete-Learning-Session_2026-08-19.md",
+      "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "philosophy-paper-i-western-philosophy-11:learner-v2:g5",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Complete-Learning-Session_2026-09-02.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Complete-Learning-Session_2026-09-02.pdf"
+    }
+  ]
+}

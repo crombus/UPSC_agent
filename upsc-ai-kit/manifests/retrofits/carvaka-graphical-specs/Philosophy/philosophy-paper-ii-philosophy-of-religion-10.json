@@ -1,0 +1,772 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "subject": "Philosophy",
+  "title": "NATURE OF RELIGIOUS LANGUAGE",
+  "short_route": "TWO-AXIS CONTROL → UNIVOCAL, EQUIVOCAL AND ANALOGICAL → SYMBOL, NEGATION AND INDICATION → COGNITIVE SPECTRUM → VERIFICATION AND FALSIFICATION → USE, SELF-INVOLVEMENT AND FORMS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 repaired in place; prior artifacts unchanged outside the scoped current generation"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g11\\topic-10_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "e63024680b7d5d533aa883522db37d9b5a5422a860f7e0e78f96da1e8816180d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO-AXIS CONTROL",
+      "structural_type": "semantic gateway",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TWO-AXIS CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS LANGUAGE HAS TWO DISTINCT QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "AXIS 1 — MODE OF PREDICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "AXIS 2 — LOGICAL STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "“GOD IS GOOD” MAY BE ANALOGICAL AND COGNITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "“I COMMIT MYSELF TO GOD” MAY BE MEANINGFUL WITHOUT",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER MERGE HOW WORDS MEAN WITH WHETHER UTTERANCES ASSERT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RELIGIOUS LANGUAGE HAS TWO DISTINCT QUESTIONS",
+        "AXIS 1 — MODE OF PREDICATION: univocal",
+        "AXIS 2 — LOGICAL STATUS: cognitive/factual",
+        "“God is good” may be analogical AND cognitive",
+        "“I commit myself to God” may be meaningful without describing an observable object"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RELIGIOUS LANGUAGE HAS TWO DISTINCT QUESTIONS",
+            "AXIS 1 — MODE OF PREDICATION: univocal"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AXIS 2 — LOGICAL STATUS: cognitive/factual",
+            "“God is good” may be analogical AND cognitive"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "“I commit myself to God” may be meaningful without describing an observable object",
+            "NEVER merge how words mean with whether utterances assert facts."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A complete answer must keep two axes separate: how religious predicates refer and whether religious utterances assert facts.",
+      "source_references": [
+        "A. Two-axis control"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "UNIVOCAL, EQUIVOCAL AND ANALOGICAL",
+      "structural_type": "predication comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "UNIVOCAL, EQUIVOCAL AND ANALOGICAL",
+          "role": "primary"
+        },
+        {
+          "text": "SAME MEANING FOR GOD AND CREATURES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLARITY, BUT RISKS ANTHROPOMORPHISM",
+          "role": "comparison"
+        },
+        {
+          "text": "WHOLLY DIFFERENT MEANING",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTS TRANSCENDENCE, BUT BLOCKS KNOWLEDGE/INFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "RELATED MEANING GROUNDED IN CAUSAL PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALOGY OF ATTRIBUTION/PROPORTIONALITY; CREATURELY GOODNESS REFLECTS DIVINE SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOME UNIVOCAL CONCEPT OF BEING IS NEEDED FOR VALID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNIVOCAL: same meaning for God and creatures → clarity, but risks anthropomorphism",
+        "EQUIVOCAL: wholly different meaning → protects transcendence, but blocks knowledge/inference",
+        "ANALOGICAL: related meaning grounded in causal participation",
+        "AQUINAS: analogy of attribution/proportionality; creaturely goodness reflects divine source",
+        "SCOTUS: some univocal concept of being is needed for valid reasoning about God tension: enough"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "UNIVOCAL: same meaning for God and creatures → clarity, but risks anthropomorphism",
+          "ANALOGICAL: related meaning grounded in causal participation",
+          "SCOTUS: some univocal concept of being is needed for valid reasoning about God tension: enough continuity for truth,"
+        ],
+        [
+          "EQUIVOCAL: wholly different meaning → protects transcendence, but blocks knowledge/inference",
+          "AQUINAS: analogy of attribution/proportionality; creaturely goodness reflects divine source",
+          "enough difference for transcendence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "UNIVOCAL: same meaning for God and creatures → clarity, but risks anthropomorphism",
+            "EQUIVOCAL: wholly different meaning → protects transcendence, but blocks knowledge/inference"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ANALOGICAL: related meaning grounded in causal participation",
+            "AQUINAS: analogy of attribution/proportionality; creaturely goodness reflects divine source"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "SCOTUS: some univocal concept of being is needed for valid reasoning about God tension: enough continuity for truth,",
+            "enough difference for transcendence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Scotus demands a minimal univocal concept for valid inference, while Aquinas insists that causal participation secures continuity without placing God and creatures in one genus.",
+      "source_references": [
+        "B. Univocal, equivocal and analogical",
+        "C. Aquinas and Scotus"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SYMBOL, NEGATION AND INDICATION",
+      "structural_type": "three-mode branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SYMBOL, NEGATION AND INDICATION",
+          "role": "primary"
+        },
+        {
+          "text": "SYMBOL PARTICIPATES IN THE REALITY IT DISCLOSES AND OPENS",
+          "role": "outcome"
+        },
+        {
+          "text": "VIA NEGATIVA",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD IS NOT FINITE, COMPOSITE OR DEPENDENT",
+          "role": "caution"
+        },
+        {
+          "text": "SUPEREMINENT TRANSCENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN “NETI NETI”",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT THIS, NOT THIS; REMOVES FINITE OBJECTIFICATION",
+          "role": "caution"
+        },
+        {
+          "text": "INDIRECT MEANING WHEN LITERAL SENSE FAILS LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TILLICH: symbol participates in the reality it discloses and opens levels of reality/self symbols are",
+        "VIA NEGATIVA: God is not finite, composite or dependent",
+        "PSEUDO-DIONYSIUS: affirmation → negation → supereminent transcendence",
+        "INDIAN “NETI NETI”: not this, not this; removes finite objectification",
+        "LAKṢAṆĀ/indication: indirect meaning when literal sense fails limit: pure negation must retain some positive orientation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "TILLICH: symbol participates in the reality it discloses and opens levels of reality/self symbols are living and can die; they are not arbitrary signs",
+            "VIA NEGATIVA: God is not finite, composite or dependent"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PSEUDO-DIONYSIUS: affirmation → negation → supereminent transcendence",
+            "INDIAN “NETI NETI”: not this, not this; removes finite objectification"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "LAKṢAṆĀ/indication: indirect meaning when literal sense fails limit: pure negation must retain some positive orientation or reference disappears.",
+            "TILLICH: symbol participates in the reality it discloses and opens levels of reality/self symbols are living and can die; they are not arbitrary signs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "For Tillich, a religious symbol participates in the reality it discloses and opens levels of reality and self otherwise inaccessible, but it must remain distinguishable from mere emotional projection.",
+      "source_references": [
+        "D. Symbol",
+        "E. Negation and indication"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COGNITIVE SPECTRUM",
+      "structural_type": "status classification matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COGNITIVE SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "COGNITIVE REALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "GOD-TALK STATES TRUTHS THAT MAY BE WARRANTED OR FALSE",
+          "role": "comparison"
+        },
+        {
+          "text": "LANGUAGE EXPRESSES A FORM OF LIFE, ORIENTATION OR CONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICULATES ATTITUDE/COMMITMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PRAYER, VOW, CONFESSION AND BLESSING DO SOMETHING",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMS IDENTITY AND DISCLOSES A WORLD OF MEANING UTTERANCES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COGNITIVE REALISM: God-talk states truths that may be warranted or false",
+        "ANTI-REALISM/NON-REALISM: language expresses a form of life, orientation or construction",
+        "EXPRESSIVISM: articulates attitude/commitment",
+        "PERFORMATIVISM: prayer, vow, confession and blessing do something",
+        "MYTHIC/NARRATIVE: forms identity and discloses a world of meaning utterances can have several functions"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "COGNITIVE REALISM: God-talk states truths that may be warranted or false",
+          "EXPRESSIVISM: articulates attitude/commitment",
+          "MYTHIC/NARRATIVE: forms identity and discloses a world of meaning utterances can have several functions"
+        ],
+        [
+          "ANTI-REALISM/NON-REALISM: language expresses a form of life, orientation or construction",
+          "PERFORMATIVISM: prayer, vow, confession and blessing do something",
+          "functional richness does not itself settle reference."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "COGNITIVE REALISM: God-talk states truths that may be warranted or false",
+            "ANTI-REALISM/NON-REALISM: language expresses a form of life, orientation or construction"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EXPRESSIVISM: articulates attitude/commitment",
+            "PERFORMATIVISM: prayer, vow, confession and blessing do something"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "MYTHIC/NARRATIVE: forms identity and discloses a world of meaning utterances can have several functions",
+            "functional richness does not itself settle reference."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Non-cognitive theories clarify commitment and form of life, but they become reductive if they deny that believers also intend claims about reality.",
+      "source_references": [
+        "F. Cognitive spectrum"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VERIFICATION AND FALSIFICATION",
+      "structural_type": "analytic debate tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "VERIFICATION AND FALSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "COGNITIVELY MEANINGFUL FACTUAL CLAIMS MUST BE ANALYTIC OR EMPIRICALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "TRADITIONAL GOD-TALK APPEARS MEANINGLESS, NOT MERELY FALSE",
+          "role": "caution"
+        },
+        {
+          "text": "ESCHATOLOGICAL VERIFICATION — CELESTIAL-CITY PARABLE; CONFIRMATION MAY OCCUR AFTER",
+          "role": "evidence"
+        },
+        {
+          "text": "BELIEVERS LET “GOD LOVES US” DIE BY A THOUSAND",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS BLIK IS UNFALSIFIABLE ORIENTATION YET MEANINGFUL",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTISAN TRUSTS STRANGER DESPITE COUNTER-EVIDENCE; COMMITMENT REMAINS EVIDENTIALLY TESTED",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT COUNTS AGAINST THE CLAIM, AND WHAT KIND OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AYER: cognitively meaningful factual claims must be analytic or empirically verifiable",
+        "traditional God-talk appears meaningless, not merely false",
+        "HICK: eschatological verification — celestial-city parable; confirmation may occur after death",
+        "FLEW: believers let “God loves us” die by a thousand qualifications",
+        "HARE: religious blik is unfalsifiable orientation yet meaningful"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "AYER: cognitively meaningful factual claims must be analytic or empirically verifiable",
+            "traditional God-talk appears meaningless, not merely false",
+            "HICK: eschatological verification — celestial-city parable; confirmation may occur after death"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "FLEW: believers let “God loves us” die by a thousand qualifications",
+            "HARE: religious blik is unfalsifiable orientation yet meaningful",
+            "MITCHELL: partisan trusts stranger despite counter-evidence"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "commitment remains evidentially tested key test: what counts against the claim, and what kind of claim is it?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The verification and falsification debates test whether religious claims exclude any possible state of affairs; a meaningful theology must specify evidential risk without demanding laboratory verification.",
+      "source_references": [
+        "G. Verification and falsification"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "USE, SELF-INVOLVEMENT AND FORMS OF LIFE",
+      "structural_type": "language-use map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "USE, SELF-INVOLVEMENT AND FORMS OF LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "MEANING IS USE WITHIN A LANGUAGE-GAME AND FORM OF",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGIOUS ASSERTIONS EXPRESS INTENTION TO FOLLOW AN AGAPEISTIC WAY",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME WORD, DIFFERENT GRAMMAR",
+          "role": "evidence"
+        },
+        {
+          "text": "“FATHER” BIOLOGICAL/SECULAR",
+          "role": "primary"
+        },
+        {
+          "text": "“FATHER” RELATIONAL RELIGIOUS USE",
+          "role": "outcome"
+        },
+        {
+          "text": "“CREATION” TEMPORAL MANUFACTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPENDENCE ON ULTIMATE SOURCE OBJECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WITTGENSTEIN: meaning is use within a language-game and form of life prayer, lament, confession and",
+        "BRAITHWAITE: religious assertions express intention to follow an agapeistic way of life",
+        "SAME WORD, DIFFERENT GRAMMAR",
+        "“father” biological/secular",
+        "“Father” relational religious use"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "WITTGENSTEIN: meaning is use within a language-game and form of life prayer, lament, confession and worship are not failed scientific hypotheses",
+            "BRAITHWAITE: religious assertions express intention to follow an agapeistic way of life",
+            "SAME WORD, DIFFERENT GRAMMAR"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "“father” biological/secular",
+            "“Father” relational religious use",
+            "“creation” temporal manufacture"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "dependence on ultimate source objection: use may explain intelligibility, but cannot by itself guarantee truth or protect critique."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Religious and secular language share grammar, but religious use is distinguished by its ultimate referent, self-involving force, communal practice and resistance to exhaustive literalisation.",
+      "source_references": [
+        "H. Use and self-involvement",
+        "I. Secular and religious use"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MYSTICISM, ADVAITA AND PLURALISM BRIDGES",
+      "structural_type": "cross-tradition semantic map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MYSTICISM, ADVAITA AND PLURALISM BRIDGES",
+          "role": "primary"
+        },
+        {
+          "text": "INEFFABILITY PRESSURES LITERAL DESCRIPTION; PARADOX AND SYMBOL POINT BEYOND",
+          "role": "outcome"
+        },
+        {
+          "text": "NIRGUṆA BRAHMAN BEYOND LIMITING PREDICATES; SAGUṆA LANGUAGE VALID EMPIRICALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENT CONCEPTUAL SCHEMES MAY REFER TO OR CONSTRUCT DIVERSE",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSLATION WITHOUT ERASING DOCTRINAL DIFFERENCE ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARE REFERENCE, PREDICATION, FUNCTION AND LIFE-CONTEXT SEPARATELY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MYSTICISM: ineffability pressures literal description; paradox and symbol point beyond concepts",
+        "ADVAITA: nirguṇa Brahman beyond limiting predicates",
+        "saguṇa language valid empirically mahāvākya interpretation uses implication to remove incompatible literal attributes",
+        "PLURALISM: different conceptual schemes may refer to or construct diverse ultimates challenge: translation without erasing",
+        "compare reference, predication, function and life-context separately."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MYSTICISM: ineffability pressures literal description; paradox and symbol point beyond concepts",
+            "ADVAITA: nirguṇa Brahman beyond limiting predicates"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "saguṇa language valid empirically mahāvākya interpretation uses implication to remove incompatible literal attributes",
+            "PLURALISM: different conceptual schemes may refer to or construct diverse ultimates challenge: translation without erasing doctrinal difference answer"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "compare reference, predication, function and life-context separately.",
+            "MYSTICISM: ineffability pressures literal description; paradox and symbol point beyond concepts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism.",
+      "source_references": [
+        "J. Symbol and mysticism",
+        "K. Advaita and pluralism bridges"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER ARCHITECTURE",
+      "structural_type": "semantic-status convergence",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY UTTERANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYSE MODE OF PREDICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSIFY LOGICAL STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED THEORY (AQUINAS/TILLICH/AYER/FLEW/HARE/MITCHELL/WITTGENSTEIN)",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGEST OBJECTION/REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN ANALOGY OR NEGATION BRIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIGIOUS LANGUAGE NEED NOT BE LITERAL TO BE MEANINGFUL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY utterance → analyse mode of predication → classify logical status",
+        "named theory (Aquinas/Tillich/Ayer/Flew/Hare/Mitchell/Wittgenstein)",
+        "strongest objection/reply → Indian analogy or negation bridge → verdict",
+        "CLOSE: religious language need not be literal to be meaningful, but analogy, symbol, use or",
+        "adequacy requires semantic intelligibility, critical vulnerability and lived function."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "IDENTIFY utterance → analyse mode of predication → classify logical status",
+            "named theory (Aquinas/Tillich/Ayer/Flew/Hare/Mitchell/Wittgenstein)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "strongest objection/reply → Indian analogy or negation bridge → verdict",
+            "CLOSE: religious language need not be literal to be meaningful, but analogy, symbol, use or commitment cannot automatically secure factual truth"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "adequacy requires semantic intelligibility, critical vulnerability and lived function.",
+            "IDENTIFY utterance → analyse mode of predication → classify logical status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A strong answer identifies the utterance's function, applies the relevant theory, tests its strongest objection and closes with a qualified account of cognitive content.",
+      "source_references": [
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE STATEMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "PREDICATES SUCH AS GOOD AND WISE APPLY TO GOD",
+          "role": "evidence"
+        },
+        {
+          "text": "(1) CREATURES DEPEND CAUSALLY ON GOD AND DISPLAY PERFECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "(2) EFFECTS RESEMBLE CAUSES WITHOUT MATCHING THEIR MODE",
+          "role": "outcome"
+        },
+        {
+          "text": "(3) PERFECTION TERMS CAN THEREFORE SIGNIFY TRULY WHILE THEIR",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESUPPOSITION. CAUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Doctrine statement.",
+            "Predicates such as good and wise apply to God neither in exactly the creaturely sense nor in a wholly unrelated sense, but analogically.",
+            "Argument."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "(1) Creatures depend causally on God and display perfections",
+            "(2) effects resemble causes without matching their mode",
+            "(3) perfection terms can therefore signify truly while their mode of possession differs infinitely.",
+            "Presupposition. CAUTION: Causal participation warrants semantic continuity and pure perfections can be separated from creaturely limitation."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Distinction.",
+            "Analogy of attribution relates secondary instances to a primary source",
+            "proportionality compares relations according to distinct modes of being.",
+            "Canonical example."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

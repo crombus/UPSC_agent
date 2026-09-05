@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-08-26T13:14:41.965261+05:30",
+  "status": "passed",
+  "scope": {
+    "subject": "Philosophy Optional",
+    "subjects": [
+      "Philosophy Optional"
+    ],
+    "topic_prefix": "philosophy-paper-i-western-philosophy-",
+    "selected_topic_keys": [
+      "philosophy-paper-i-western-philosophy-02"
+    ],
+    "active_exported_topic_keys": [
+      "philosophy-paper-i-western-philosophy-01",
+      "philosophy-paper-i-western-philosophy-02"
+    ],
+    "dynamic_topic_count": true,
+    "latest_validated_learner_v2_only": true,
+    "inventory_derivation": "latest passed learner-v2 record per topic_key, matched to one clean package by exact record_id and generation",
+    "expected_topic_count": null,
+    "derived_topic_count": 2,
+    "difference_from_expected": null,
+    "exact_latest_validated_completed_inventory": true,
+    "catalogue_fallback_topic_keys": []
+  },
+  "summary": {
+    "topic_folder_count": 2,
+    "pdf_count": 2,
+    "txt_count": 2,
+    "readme_count": 2,
+    "total_pdf_pages": 20,
+    "subject_counts": {
+      "Philosophy Optional": 2
+    },
+    "subject_page_totals": {
+      "Philosophy Optional": 20
+    },
+    "artifact_hash_list_sha256": "99c176c60418767f5826bc7c8f94201bb343997bcc61f8e5b9931cf40c0777a2",
+    "pdf_hashes_equal": true,
+    "txt_hashes_equal": true,
+    "case_year_compliance": true,
+    "non_polity_date_year_retention": true,
+    "continuous_master_completeness": true,
+    "pdf_layout_passed": true
+  },
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "d0418e615c6637f578e65896a1e41f6e7c45868ba2cc020e6e23af3434f438a1",
+    "sha256_after": "d0418e615c6637f578e65896a1e41f6e7c45868ba2cc020e6e23af3434f438a1",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "325123df1911cd00ed885cf242af965a153119b3ac76ab0fd68352bc25ec7c07",
+    "sha256_after": "325123df1911cd00ed885cf242af965a153119b3ac76ab0fd68352bc25ec7c07",
+    "unchanged": true
+  },
+  "source_packages": {
+    "path": "notes\\Final-Learning-Packages",
+    "before": {
+      "file_count": 797,
+      "total_bytes": 926477327,
+      "aggregate_sha256": "af6294e5f1e84cc4d3176c0f3d3e55444b68e0c96bf28f8bb486a42c9d028a67"
+    },
+    "after": {
+      "file_count": 797,
+      "total_bytes": 926477327,
+      "aggregate_sha256": "af6294e5f1e84cc4d3176c0f3d3e55444b68e0c96bf28f8bb486a42c9d028a67"
+    },
+    "unchanged": true
+  },
+  "navigation_links": {
+    "checked_link_count": 22,
+    "markdown_file_count": 5,
+    "broken_links": [],
+    "passed": true
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_v2_section_indexes tools.test_v2_topic_command_catalog tools.test_v2_export_foundation tools.test_carvaka_flowchart tools.test_export_flow_learning_library",
+    "passed_count": 67,
+    "status": "passed"
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-01",
+      "number": 1,
+      "title": "Plato and Aristotle",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "record_id": "philosophy-paper-i-western-philosophy-01:learner-v2:g2",
+      "generation": 2,
+      "metadata_resolution": "retained exact published record/source-package identity",
+      "hashes": {
+        "pdf": {
+          "source": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "destination": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.pdf",
+          "source_sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af",
+          "destination_sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af",
+          "equal": true,
+          "bytes": 56464
+        },
+        "txt": {
+          "source": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "destination": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.txt",
+          "source_sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082",
+          "destination_sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082",
+          "equal": true,
+          "bytes": 7568
+        }
+      },
+      "case_year": {
+        "status": "passed",
+        "expected_case_count": 0,
+        "errors": []
+      },
+      "date_year_retention": {
+        "status": "passed",
+        "source_destination_text_equal": true,
+        "token_sequence_equal": true,
+        "token_count": 0,
+        "unique_tokens": [],
+        "errors": []
+      },
+      "continuous_master": {
+        "status": "passed",
+        "errors": [],
+        "panel_count": 10,
+        "declared_panel_total": 10,
+        "continuous_panel_sequence": true,
+        "nonempty_line_count": 119,
+        "character_count": 7548,
+        "minimum_panel_count": 8,
+        "minimum_nonempty_lines": 60,
+        "minimum_character_count": 4000,
+        "unique_content_line_ratio": 0.844,
+        "placeholder_markers": [],
+        "not_a_short_summary": true,
+        "required_dimensions": {}
+      },
+      "pdf_validation": {
+        "status": "passed",
+        "errors": [],
+        "page_count": 10,
+        "blank_pages": [],
+        "clipped_text_pages": [],
+        "replacement_glyph_pages": [],
+        "normalized_equal": true
+      },
+      "repaired_source_evidence": {
+        "status": "not-found",
+        "path": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-repair-2026-08-24-validation.json"
+      },
+      "errors": [],
+      "status": "passed",
+      "source_topic_dir": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle",
+      "destination_folder": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle",
+      "destination_pdf": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.pdf",
+      "destination_txt": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.txt",
+      "readme": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\README.txt"
+    },
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-02",
+      "number": 2,
+      "title": "Rationalism",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "record_id": "philosophy-paper-i-western-philosophy-02:learner-v2:g2",
+      "generation": 2,
+      "metadata_resolution": "catalogue metadata verified by exact tracker/source-package identity; clean-package folder retained for deterministic naming",
+      "hashes": {
+        "pdf": {
+          "source": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "destination": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.pdf",
+          "source_sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083",
+          "destination_sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083",
+          "equal": true,
+          "bytes": 57030
+        },
+        "txt": {
+          "source": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "destination": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.txt",
+          "source_sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81",
+          "destination_sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81",
+          "equal": true,
+          "bytes": 7284
+        }
+      },
+      "case_year": {
+        "status": "passed",
+        "expected_case_count": 0,
+        "errors": []
+      },
+      "date_year_retention": {
+        "status": "passed",
+        "source_destination_text_equal": true,
+        "token_sequence_equal": true,
+        "token_count": 0,
+        "unique_tokens": [],
+        "errors": []
+      },
+      "continuous_master": {
+        "status": "passed",
+        "errors": [],
+        "panel_count": 10,
+        "declared_panel_total": 10,
+        "continuous_panel_sequence": true,
+        "nonempty_line_count": 109,
+        "character_count": 7264,
+        "minimum_panel_count": 8,
+        "minimum_nonempty_lines": 60,
+        "minimum_character_count": 4000,
+        "unique_content_line_ratio": 0.9091,
+        "placeholder_markers": [],
+        "not_a_short_summary": true,
+        "required_dimensions": {}
+      },
+      "pdf_validation": {
+        "status": "passed",
+        "errors": [],
+        "page_count": 10,
+        "blank_pages": [],
+        "clipped_text_pages": [],
+        "replacement_glyph_pages": [],
+        "normalized_equal": true
+      },
+      "repaired_source_evidence": {
+        "status": "not-found",
+        "path": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-repair-2026-08-24-validation.json"
+      },
+      "errors": [],
+      "status": "passed",
+      "source_topic_dir": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism",
+      "destination_folder": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism",
+      "destination_pdf": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.pdf",
+      "destination_txt": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.txt",
+      "readme": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\README.txt"
+    }
+  ],
+  "exceptions": [],
+  "report": "notes\\Flow-Learning\\Philosophy\\RATIONALISM-FLOW-LEARNING-REPORT-2026-08-26.md",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-i-western-philosophy-02-flow-learning-g2-2026-08-26-validation.json"
+}

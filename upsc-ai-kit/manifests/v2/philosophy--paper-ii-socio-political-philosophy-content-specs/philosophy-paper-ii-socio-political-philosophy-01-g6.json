@@ -1,0 +1,645 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+  "variant": "learner-v2",
+  "generation": 6,
+  "approval": false,
+  "official_syllabus_verbatim": "Social and Political ldeals : Equality, Justice, Liberty.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-09-03.md",
+  "source_provenance": {
+    "canonical_owner": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Social-Political-Ideals.md",
+    "advanced_dossier": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
+    "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+    "retained_learning_session": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Social-Political-Ideals\\Social-Political-Ideals_Layered-Complete-Learning-Session_2026-08-19.md",
+    "retained_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Social-Political-Ideals\\Social-Political-Ideals_Layered-Solved-Practice-Workbook_2026-08-19.md",
+    "successor_source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-30.md",
+    "assembly_mode": "immutable-successor-from-latest-validated-learner-v2"
+  },
+  "core_sessions": [
+    {
+      "title": "The Ideals Triad: Map, Working Thesis and the Ordering Problem",
+      "plain": "Equality, liberty and justice answer different questions but must be ordered together in political institutions.",
+      "technical": "Equality concerns equal moral status and distribution, liberty concerns protected non-interference and agency, and justice supplies the rule for adjudicating their conflicts.",
+      "answer": "Equality and liberty make rival claims on institutions; justice is architectonic because it decides which liberties are basic and which inequalities are justified.",
+      "keywords": [
+        "equal moral worth",
+        "negative liberty",
+        "basic liberties",
+        "fair opportunity",
+        "justice as mediation"
+      ],
+      "usage": "Define the three ideals separately, expose the conflict between liberty and equality, and use justice to state a qualified institutional ordering.",
+      "mechanism": "Political institutions allocate status, choice, burdens and benefits; equality and liberty generate claims, and justice ranks or reconciles them.",
+      "consequence": "A credible answer treats the triad as interdependent without collapsing one ideal into another.",
+      "trap": "Do not write three disconnected mini-essays or assume that equality means sameness and liberty means licence.",
+      "objection": "Justice cannot be a neutral referee because rival theories of justice already privilege different liberties and equalities.",
+      "reply": "The mediation thesis is procedural rather than neutral: it makes the ordering rule explicit and open to public justification.",
+      "limit": "Do not write that justice mechanically harmonises every conflict; identify the contested criterion and defend a graded ordering.",
+      "exam": "Define the three ideals separately, expose the conflict between liberty and equality, and use justice to state a qualified institutional ordering.",
+      "revision": [
+        "Equality, liberty and justice answer different questions but must be ordered together in political institutions.",
+        "Political institutions allocate status, choice, burdens and benefits; equality and liberty generate claims, and justice ranks or reconciles them.",
+        "A credible answer treats the triad as interdependent without collapsing one ideal into another.",
+        "Do not write three disconnected mini-essays or assume that equality means sameness and liberty means licence."
+      ],
+      "visuals": [
+        {
+          "title": "The Ideals Triad: Map, Working Thesis and the Ordering Problem — argument rail",
+          "lines": [
+            "START -> Equality, liberty and justice answer different questions but must be ordered together in political institutions.",
+            "MECHANISM -> Political institutions allocate status, choice, burdens and benefits; equality and liberty generate claims, and justice ranks or reconciles them.",
+            "VERDICT -> A credible answer treats the triad as interdependent without collapsing one ideal into another."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome",
+      "plain": "Equality begins with equal moral worth but must be specified as legal, political, social or economic equality.",
+      "technical": "Formal equality removes explicit legal privilege, while substantive equality tests whether social power and conversion conditions make opportunity genuinely usable.",
+      "answer": "Equality is not identity of condition; it is a demand that relevant differences, unequal opportunities and status hierarchies be publicly justified.",
+      "keywords": [
+        "equal moral worth",
+        "formal equality",
+        "political equality",
+        "social equality",
+        "fair equality of opportunity"
+      ],
+      "usage": "Move from equal worth through the four forms, distinguish formal from fair opportunity, and qualify outcome-sensitive correction.",
+      "mechanism": "Equal moral worth shifts the burden of proof onto inherited hierarchy; substantive equality then examines access, capability and status.",
+      "consequence": "Formal equality is necessary but may reproduce disadvantage when starting positions and social power remain unequal.",
+      "trap": "Do not move from equality before law directly to achieved equality without showing the opportunity and capability mechanism.",
+      "objection": "Substantive equality can become paternalistic levelling and can underweight responsibility, choice and incentive.",
+      "reply": "The strongest egalitarian reply targets arbitrary background disadvantage rather than every chosen difference in outcome.",
+      "limit": "Do not equate equality with identical talents, treatment or final holdings; always state the relevant metric.",
+      "exam": "Move from equal worth through the four forms, distinguish formal from fair opportunity, and qualify outcome-sensitive correction.",
+      "revision": [
+        "Equality begins with equal moral worth but must be specified as legal, political, social or economic equality.",
+        "Equal moral worth shifts the burden of proof onto inherited hierarchy; substantive equality then examines access, capability and status.",
+        "Formal equality is necessary but may reproduce disadvantage when starting positions and social power remain unequal.",
+        "Do not move from equality before law directly to achieved equality without showing the opportunity and capability mechanism."
+      ],
+      "visuals": [
+        {
+          "title": "Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome — argument rail",
+          "lines": [
+            "START -> Equality begins with equal moral worth but must be specified as legal, political, social or economic equality.",
+            "MECHANISM -> Equal moral worth shifts the burden of proof onto inherited hierarchy; substantive equality then examines access, capability and status.",
+            "VERDICT -> Formal equality is necessary but may reproduce disadvantage when starting positions and social power remain unequal."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need",
+      "plain": "Rousseau, Mill and Marx diagnose different ways in which apparently natural inequality is socially produced.",
+      "technical": "Rousseau distinguishes natural from moral-political inequality, Mill attacks manufactured female subordination, and Marx shows how formally equal exchange can reproduce class exploitation.",
+      "answer": "The crucial philosophical move is to ask whether inequality reflects relevant difference or an institution that converts difference into dependence and domination.",
+      "keywords": [
+        "natural inequality",
+        "moral-political inequality",
+        "individuality",
+        "manufactured subordination",
+        "distribution according to need"
+      ],
+      "usage": "Compare each thinker's causal mechanism, then distinguish status equality, individuality and material need before giving a synthesis.",
+      "mechanism": "Convention, gender hierarchy and class structure transform physical difference or legal equality into social dependence.",
+      "consequence": "Anti-subordination requires legal status, protected individuality and attention to material structure.",
+      "trap": "Do not merge Rousseau, Mill and Marx into one egalitarian doctrine; preserve their different mechanisms and remedies.",
+      "objection": "The three diagnoses rest on incompatible views of property, individuality and the legitimate scope of social transformation.",
+      "reply": "They can still be compared through one controlled question: how institutions turn difference into hierarchy or dependence.",
+      "limit": "Do not attribute Marx's higher communist distributive formula to immediate socialism or treat Rousseau's natural differences as political entitlements.",
+      "exam": "Compare each thinker's causal mechanism, then distinguish status equality, individuality and material need before giving a synthesis.",
+      "revision": [
+        "Rousseau, Mill and Marx diagnose different ways in which apparently natural inequality is socially produced.",
+        "Convention, gender hierarchy and class structure transform physical difference or legal equality into social dependence.",
+        "Anti-subordination requires legal status, protected individuality and attention to material structure.",
+        "Do not merge Rousseau, Mill and Marx into one egalitarian doctrine; preserve their different mechanisms and remedies."
+      ],
+      "visuals": [
+        {
+          "title": "Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need — argument rail",
+          "lines": [
+            "START -> Rousseau, Mill and Marx diagnose different ways in which apparently natural inequality is socially produced.",
+            "MECHANISM -> Convention, gender hierarchy and class structure transform physical difference or legal equality into social dependence.",
+            "VERDICT -> Anti-subordination requires legal status, protected individuality and attention to material structure."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Equality III: Equality of What? — Sen, Cohen and Dworkin",
+      "plain": "The equality-of-what debate asks which space—resources, welfare, capabilities or social relations—should be equalised.",
+      "technical": "Dworkin focuses resources and luck, Sen focuses capability to function, Cohen presses ethos and access to advantage, and relational egalitarians target hierarchy and humiliation.",
+      "answer": "An equality claim is incomplete until it identifies its metric, its treatment of choice and luck, and the social relation it seeks to transform.",
+      "keywords": [
+        "equality of resources",
+        "capability",
+        "brute luck",
+        "option luck",
+        "relational equality"
+      ],
+      "usage": "Name the metric, explain its conversion mechanism, test disability and responsibility objections, and compare distributive with relational equality.",
+      "mechanism": "Resources are converted into real opportunities under unequal personal and social conditions, so identical bundles can yield unequal freedom.",
+      "consequence": "The chosen metric changes who appears disadvantaged and which remedy counts as egalitarian.",
+      "trap": "Do not answer equality-of-what with a list of thinkers; compare the metric, conversion rule and residual objection.",
+      "objection": "No single metric captures need, agency, expensive preference, disability, responsibility and civic standing without loss.",
+      "reply": "Metric pluralism can retain a primary evaluative space while adding responsibility and anti-humiliation constraints.",
+      "limit": "Do not cite Sen as advocating equal outcomes; capability evaluates real freedom, not identical functionings.",
+      "exam": "Name the metric, explain its conversion mechanism, test disability and responsibility objections, and compare distributive with relational equality.",
+      "revision": [
+        "The equality-of-what debate asks which space—resources, welfare, capabilities or social relations—should be equalised.",
+        "Resources are converted into real opportunities under unequal personal and social conditions, so identical bundles can yield unequal freedom.",
+        "The chosen metric changes who appears disadvantaged and which remedy counts as egalitarian.",
+        "Do not answer equality-of-what with a list of thinkers; compare the metric, conversion rule and residual objection."
+      ],
+      "visuals": [
+        {
+          "title": "Equality III: Equality of What? — Sen, Cohen and Dworkin — argument rail",
+          "lines": [
+            "START -> The equality-of-what debate asks which space—resources, welfare, capabilities or social relations—should be equalised.",
+            "MECHANISM -> Resources are converted into real opportunities under unequal personal and social conditions, so identical bundles can yield unequal freedom.",
+            "VERDICT -> The chosen metric changes who appears disadvantaged and which remedy counts as egalitarian."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Liberty I: Meaning, Berlin's Two Concepts and Mill's Harm Principle",
+      "plain": "Liberty concerns both freedom from interference and the conditions of self-direction.",
+      "technical": "Berlin distinguishes negative from positive liberty, while Mill's harm principle places the burden of proof on coercion aimed at self-regarding conduct.",
+      "answer": "A liberty answer must identify who is free, from what constraint, to do what, and under whose authority coercion is justified.",
+      "keywords": [
+        "negative liberty",
+        "positive liberty",
+        "harm principle",
+        "self-regarding acts",
+        "value pluralism"
+      ],
+      "usage": "Define Berlin's two concepts, apply Mill's harm threshold, distinguish harm from offence, and confront paternalism.",
+      "mechanism": "Negative liberty protects a sphere against interference; positive liberty asks whether the agent can direct her life; the harm principle tests coercion.",
+      "consequence": "Liberty requires both a protected domain and disciplined justification of interventions that claim to enable freedom.",
+      "trap": "Do not treat offence, immorality and harm as interchangeable or ignore Berlin's warning about coercive self-mastery.",
+      "objection": "Positive liberty can authorise coercion in the name of a supposedly rational or true self.",
+      "reply": "Enabling conditions can expand agency if they remain rights-bound, contestable and non-perfectionist.",
+      "limit": "Do not reduce negative liberty to absence of every rule or positive liberty to whatever policy claims to improve welfare.",
+      "exam": "Define Berlin's two concepts, apply Mill's harm threshold, distinguish harm from offence, and confront paternalism.",
+      "revision": [
+        "Liberty concerns both freedom from interference and the conditions of self-direction.",
+        "Negative liberty protects a sphere against interference; positive liberty asks whether the agent can direct her life; the harm principle tests coercion.",
+        "Liberty requires both a protected domain and disciplined justification of interventions that claim to enable freedom.",
+        "Do not treat offence, immorality and harm as interchangeable or ignore Berlin's warning about coercive self-mastery."
+      ],
+      "visuals": [
+        {
+          "title": "Liberty I: Meaning, Berlin's Two Concepts and Mill's Harm Principle — argument rail",
+          "lines": [
+            "START -> Liberty concerns both freedom from interference and the conditions of self-direction.",
+            "MECHANISM -> Negative liberty protects a sphere against interference; positive liberty asks whether the agent can direct her life; the harm principle tests coercion.",
+            "VERDICT -> Liberty requires both a protected domain and disciplined justification of interventions that claim to enable freedom."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Liberty II: Hobbes, Locke, Rousseau, Green and the Equality Relation",
+      "plain": "Hobbes, Locke, Rousseau and Green connect liberty to different relations between law, consent, security and effective capacity.",
+      "technical": "Hobbes stresses absence of impediment under order, Locke liberty under known law, Rousseau autonomy through self-legislation, and Green positive capacity for worthwhile action.",
+      "answer": "Law can restrict particular choices yet constitute liberty when it secures status, consent and the effective conditions of agency.",
+      "keywords": [
+        "absence of impediment",
+        "liberty under law",
+        "general will",
+        "self-legislation",
+        "positive freedom"
+      ],
+      "usage": "Compare the thinker's account of law and agency, then test whether enabling conditions protect or paternalistically replace choice.",
+      "mechanism": "Security, known law, civic authorship and social capability each alter whether formal choice is usable and non-dominating.",
+      "consequence": "Liberty and equality can complement one another when fair conditions enlarge everyone's effective agency.",
+      "trap": "Do not present liberty and equality as always zero-sum; identify when redistribution enables rather than suppresses freedom.",
+      "objection": "Once the state defines worthwhile capacity, positive freedom can erase plural values and personal responsibility.",
+      "reply": "Green's insight is strongest when enabling provision expands option sets while rights and contestation constrain perfectionism.",
+      "limit": "Do not call Hobbes a positive-liberty theorist or infer that Rousseau licenses any state command as the general will.",
+      "exam": "Compare the thinker's account of law and agency, then test whether enabling conditions protect or paternalistically replace choice.",
+      "revision": [
+        "Hobbes, Locke, Rousseau and Green connect liberty to different relations between law, consent, security and effective capacity.",
+        "Security, known law, civic authorship and social capability each alter whether formal choice is usable and non-dominating.",
+        "Liberty and equality can complement one another when fair conditions enlarge everyone's effective agency.",
+        "Do not present liberty and equality as always zero-sum; identify when redistribution enables rather than suppresses freedom."
+      ],
+      "visuals": [
+        {
+          "title": "Liberty II: Hobbes, Locke, Rousseau, Green and the Equality Relation — argument rail",
+          "lines": [
+            "START -> Hobbes, Locke, Rousseau and Green connect liberty to different relations between law, consent, security and effective capacity.",
+            "MECHANISM -> Security, known law, civic authorship and social capability each alter whether formal choice is usable and non-dominating.",
+            "VERDICT -> Liberty and equality can complement one another when fair conditions enlarge everyone's effective agency."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Liberty III: Technological Society and Republican Non-Domination",
+      "plain": "Technological society can expand choice while creating surveillance and platform dependence that expose persons to arbitrary power.",
+      "technical": "Republican liberty as non-domination distinguishes actual interference from standing subjection to an uncontrolled capacity to interfere.",
+      "answer": "In technological society, republican non-domination shows why a person may be left alone yet remain unfree when another actor can arbitrarily track, rank, exclude or manipulate her choices.",
+      "keywords": [
+        "non-domination",
+        "arbitrary power",
+        "surveillance",
+        "platform dependence",
+        "contestability"
+      ],
+      "usage": "Separate interference from domination, explain the standing-power mechanism, and test whether law makes technological power contestable.",
+      "mechanism": "Data concentration and platform control create a standing capacity to shape options even without a discrete act of interference.",
+      "consequence": "Freedom requires institutional contestability as well as a count of actual interferences.",
+      "trap": "Do not say non-domination is merely Berlin's negative liberty; its object is uncontrolled status and power.",
+      "objection": "The domination standard may classify every dependency or unequal capacity as unfreedom and demand excessive regulation.",
+      "reply": "Republican analysis targets uncontrolled arbitrary power, not all dependence; public rules and effective contestation are decisive.",
+      "limit": "Do not assume privacy, access or innovation automatically settles liberty; specify the power relation and remedy.",
+      "exam": "Separate interference from domination, explain the standing-power mechanism, and test whether law makes technological power contestable.",
+      "revision": [
+        "Technological society can expand choice while creating surveillance and platform dependence that expose persons to arbitrary power.",
+        "Data concentration and platform control create a standing capacity to shape options even without a discrete act of interference.",
+        "Freedom requires institutional contestability as well as a count of actual interferences.",
+        "Do not say non-domination is merely Berlin's negative liberty; its object is uncontrolled status and power."
+      ],
+      "visuals": [
+        {
+          "title": "Liberty III: Technological Society and Republican Non-Domination — argument rail",
+          "lines": [
+            "START -> Technological society can expand choice while creating surveillance and platform dependence that expose persons to arbitrary power.",
+            "MECHANISM -> Data concentration and platform control create a standing capacity to shape options even without a discrete act of interference.",
+            "VERDICT -> Freedom requires institutional contestability as well as a count of actual interferences."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Justice I: Procedure, Substance, Classical Forms and Corrective Justice",
+      "plain": "Justice asks what is due in distribution, correction and institutional order.",
+      "technical": "Plato treats justice as harmony, Aristotle distinguishes distributive proportion from corrective restoration, and utilitarianism tests institutions by aggregate welfare.",
+      "answer": "The examiner rewards a justice answer that names the rule of allocation, the relevant criterion and the method of rectifying wrong.",
+      "keywords": [
+        "justice as harmony",
+        "distributive justice",
+        "corrective justice",
+        "relevant criterion",
+        "aggregate welfare"
+      ],
+      "usage": "Move from Plato's order to Aristotle's two forms, identify the criteria dispute, and test utilitarian aggregation against separateness of persons.",
+      "mechanism": "Distributive justice assigns shares by a criterion; corrective justice restores a disturbed equality after wrong.",
+      "consequence": "Justice requires both prospective allocation and retrospective rectification, with reasons for the chosen criterion.",
+      "trap": "Do not confuse Aristotle's proportionate equality with equal numerical shares in every context.",
+      "objection": "Harmony can freeze hierarchy, proportionality leaves the criterion contested, and aggregation can sacrifice minorities.",
+      "reply": "The traditions remain useful when their allocation, correction and institutional functions are distinguished rather than absolutised.",
+      "limit": "Do not call every legal decision just or treat corrective justice as a complete theory of distributive shares.",
+      "exam": "Move from Plato's order to Aristotle's two forms, identify the criteria dispute, and test utilitarian aggregation against separateness of persons.",
+      "revision": [
+        "Justice asks what is due in distribution, correction and institutional order.",
+        "Distributive justice assigns shares by a criterion; corrective justice restores a disturbed equality after wrong.",
+        "Justice requires both prospective allocation and retrospective rectification, with reasons for the chosen criterion.",
+        "Do not confuse Aristotle's proportionate equality with equal numerical shares in every context."
+      ],
+      "visuals": [
+        {
+          "title": "Justice I: Procedure, Substance, Classical Forms and Corrective Justice — argument rail",
+          "lines": [
+            "START -> Justice asks what is due in distribution, correction and institutional order.",
+            "MECHANISM -> Distributive justice assigns shares by a criterion; corrective justice restores a disturbed equality after wrong.",
+            "VERDICT -> Justice requires both prospective allocation and retrospective rectification, with reasons for the chosen criterion."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict",
+      "plain": "Rawls, Nozick, Sen and Ambedkar offer rival standards for judging institutions and realised social relations.",
+      "technical": "Rawls prioritises equal basic liberties and fair opportunity, Nozick historical entitlement, Sen capabilities and public reasoning, and Ambedkar social democracy grounded in liberty, equality and fraternity.",
+      "answer": "Modern justice turns on whether fairness is judged by institutional choice, historical entitlement, realised capability or anti-caste social relations.",
+      "keywords": [
+        "original position",
+        "difference principle",
+        "entitlement theory",
+        "capability approach",
+        "social democracy"
+      ],
+      "usage": "State each currency of justice, compare patterned and historical views, add capability and fraternity, and conclude with a qualified institutional test.",
+      "mechanism": "Each theory selects a different informational basis and therefore ranks institutions and inequalities differently.",
+      "consequence": "The best comparative answer explains why the same distribution can be fair under one theory and unjust under another.",
+      "trap": "Do not use Ambedkar decoratively; connect fraternity and social democracy to caste-based status inequality.",
+      "objection": "Each view risks neglecting something central: history, structure, feasibility, responsibility or entrenched status domination.",
+      "reply": "A layered verdict can protect basic liberties, rectify unjust acquisition, expand capabilities and test fraternity in lived relations.",
+      "limit": "Do not merge Rawls's difference principle with equal outcome, Nozick with selfishness, or Sen with one fixed capability list.",
+      "exam": "State each currency of justice, compare patterned and historical views, add capability and fraternity, and conclude with a qualified institutional test.",
+      "revision": [
+        "Rawls, Nozick, Sen and Ambedkar offer rival standards for judging institutions and realised social relations.",
+        "Each theory selects a different informational basis and therefore ranks institutions and inequalities differently.",
+        "The best comparative answer explains why the same distribution can be fair under one theory and unjust under another.",
+        "Do not use Ambedkar decoratively; connect fraternity and social democracy to caste-based status inequality."
+      ],
+      "visuals": [
+        {
+          "title": "Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict — argument rail",
+          "lines": [
+            "START -> Rawls, Nozick, Sen and Ambedkar offer rival standards for judging institutions and realised social relations.",
+            "MECHANISM -> Each theory selects a different informational basis and therefore ranks institutions and inequalities differently.",
+            "VERDICT -> The best comparative answer explains why the same distribution can be fair under one theory and unjust under another."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    },
+    {
+      "title": "Debates, Criticisms, PYQ Traps and Integrated Verdicts",
+      "plain": "Synthesis requires explicit distinctions, objections and an ordering verdict across equality, liberty and justice.",
+      "technical": "The triad is reconstructed through metrics of equality, concepts of liberty and rival procedural, distributive, historical, capability and relational theories of justice.",
+      "answer": "A high-scoring synthesis states the conflict precisely, names the controlling criterion and concedes the strongest residual cost.",
+      "keywords": [
+        "ordering problem",
+        "metric",
+        "non-domination",
+        "rectification",
+        "qualified verdict"
+      ],
+      "usage": "Decode the directive, define the relevant ideal, compare named theories, apply one Indian example and close with a defended hierarchy or balance.",
+      "mechanism": "Definition fixes the evaluative space, comparison exposes conflict, objection tests the rule, and qualification produces the verdict.",
+      "consequence": "The answer becomes reusable for direct, comparative and critical PYQs without losing doctrinal precision.",
+      "trap": "Do not substitute quotations or current examples for the philosophical mechanism and the directive's exact demand.",
+      "objection": "An eclectic synthesis can become an unprincipled list that avoids choosing among incompatible ideals.",
+      "reply": "A disciplined synthesis states lexical priorities, thresholds or burden-of-proof rules and identifies where trade-offs remain.",
+      "limit": "Do not end with the slogan that all ideals are equally important; state which claim prevails, under what condition and why.",
+      "exam": "Decode the directive, define the relevant ideal, compare named theories, apply one Indian example and close with a defended hierarchy or balance.",
+      "revision": [
+        "Synthesis requires explicit distinctions, objections and an ordering verdict across equality, liberty and justice.",
+        "Definition fixes the evaluative space, comparison exposes conflict, objection tests the rule, and qualification produces the verdict.",
+        "The answer becomes reusable for direct, comparative and critical PYQs without losing doctrinal precision.",
+        "Do not substitute quotations or current examples for the philosophical mechanism and the directive's exact demand."
+      ],
+      "visuals": [
+        {
+          "title": "Debates, Criticisms, PYQ Traps and Integrated Verdicts — argument rail",
+          "lines": [
+            "START -> Synthesis requires explicit distinctions, objections and an ordering verdict across equality, liberty and justice.",
+            "MECHANISM -> Definition fixes the evaluative space, comparison exposes conflict, objection tests the rule, and qualification produces the verdict.",
+            "VERDICT -> The answer becomes reusable for direct, comparative and critical PYQs without losing doctrinal precision."
+          ],
+          "caption": "A compact claim–mechanism–verdict route."
+        }
+      ]
+    }
+  ],
+  "owner_session_ranges": {},
+  "advanced_session_titles": [
+    "The Ideals Triad: Map, Working Thesis and the Ordering Problem",
+    "Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome",
+    "Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need",
+    "Equality III: Equality of What? — Sen, Cohen and Dworkin",
+    "Liberty I: Meaning, Berlin's Two Concepts and Mill's Harm Principle",
+    "Liberty II: Hobbes, Locke, Rousseau, Green and the Equality Relation",
+    "Liberty III: Technological Society and Republican Non-Domination",
+    "Justice I: Procedure, Substance, Classical Forms and Corrective Justice",
+    "Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict",
+    "Debates, Criticisms, PYQ Traps and Integrated Verdicts"
+  ],
+  "ascii_panels": [
+    {
+      "title": "Printed clause boundary and the ideals triad",
+      "structural_type": "ownership gate and triadic map",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "OFFICIAL OWNER -> Equality, Justice and Liberty only",
+        "EQUALITY asks in what respect persons must count as equals",
+        "LIBERTY asks which protected choices and capacities agency requires",
+        "JUSTICE asks what is due, by which rule and through which procedure",
+        "democracy and citizenship enter only as the 2018 PYQ setting",
+        "rights, duties, sovereignty and government retain their later owners",
+        "thesis -> distinct ideals, institutionally interdependent"
+      ]
+    },
+    {
+      "title": "Individual claims and social institutions",
+      "structural_type": "two-level comparison matrix",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "INDIVIDUAL EQUALITY -> equal moral worth and equal concern",
+        "SOCIAL EQUALITY -> no arbitrary status hierarchy or inherited stigma",
+        "INDIVIDUAL LIBERTY -> protected thought, choice and self-direction",
+        "SOCIAL LIBERTY -> usable options plus freedom from domination",
+        "INDIVIDUAL JUSTICE -> due treatment, reasons and rectification",
+        "INSTITUTIONAL JUSTICE -> fair procedure, distribution and status order",
+        "bridge -> legality may exist without legitimacy"
+      ]
+    },
+    {
+      "title": "Equality from formal status to substantive opportunity",
+      "structural_type": "progressive equality ladder",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "equal moral worth -> birth hierarchy bears the burden of justification",
+        "formal or legal equality -> the same public legal status",
+        "political equality -> citizenship, vote and eligibility for office",
+        "social equality -> freedom from caste rank, stigma and humiliation",
+        "economic equality -> fair background conditions and life chances",
+        "formal opportunity -> offices are legally open",
+        "fair opportunity -> access is realistically usable",
+        "outcome concern -> thresholds and least-advantaged protection"
+      ]
+    },
+    {
+      "title": "Rousseau Mill and Marx on socially produced inequality",
+      "structural_type": "three-thinker causal comparison",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "ROUSSEAU -> natural difference becomes domination through convention",
+        "moral-political inequality -> wealth, honour, power and dependence",
+        "MILL -> equal civic status and women's equality with individuality",
+        "manufactured subordination cannot prove natural inferiority",
+        "MARX -> formally equal exchange can conceal class exploitation",
+        "equal right can reproduce inequality when needs differ",
+        "higher communist rule -> contribution by ability, distribution by need"
+      ]
+    },
+    {
+      "title": "Equality of what and the metric decision",
+      "structural_type": "metric decision tree",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "DWORKIN -> resources; brute luck differs from option luck",
+        "SEN -> capability asks what persons are actually able to do and be",
+        "conversion conditions make equal resources yield unequal freedom",
+        "COHEN -> an unequal ethos can defeat formally just institutions",
+        "LUCK EGALITARIANISM -> correct brute-luck disadvantage",
+        "RELATIONAL EQUALITY -> end hierarchy and second-class standing",
+        "trap -> capability is not equal income or identical functioning"
+      ]
+    },
+    {
+      "title": "Berlin Mill and the justified limit of coercion",
+      "structural_type": "liberty distinction and harm test",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "NEGATIVE LIBERTY -> freedom from interference",
+        "POSITIVE LIBERTY -> self-direction and being one's own master",
+        "Berlin warns against coercion for an alleged true or rational self",
+        "MILL -> coercion needs prevention of harm to others",
+        "self-regarding conduct receives a presumption of liberty",
+        "offence, dislike and paternal benefit are not automatically harm",
+        "answer test -> who is free, from what, to do what, under whose power"
+      ]
+    },
+    {
+      "title": "Law security autonomy and effective freedom",
+      "structural_type": "four-thinker liberty rail",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "HOBBES -> order secures residual liberty where law is silent",
+        "LOCKE -> known law protects rights against arbitrary government",
+        "ROUSSEAU -> autonomy is civic self-legislation through general will",
+        "GREEN -> freedom includes effective capacity for worthwhile action",
+        "poverty, ignorance and dependency can hollow non-interference",
+        "equality can enable liberty by reducing dependency",
+        "limit -> enabling provision must not become perfectionist compulsion"
+      ]
+    },
+    {
+      "title": "Technology and republican non-domination",
+      "structural_type": "standing-power diagnostic",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "technology expands communication, association and knowledge",
+        "surveillance and platform dependence create standing power",
+        "INTERFERENCE is an act; DOMINATION is uncontrolled capacity",
+        "Pettit -> an indulgent master can dominate without interfering",
+        "contestable interest-tracking law can constitute freedom",
+        "Code on Wages commenced 21-Nov-2025; status is not implementation",
+        "PYQ route -> liberty is realisable only under accountable power"
+      ]
+    },
+    {
+      "title": "Formal procedural and substantive justice",
+      "structural_type": "three-form justice matrix",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "FORMAL JUSTICE -> apply announced principles consistently",
+        "PROCEDURAL JUSTICE -> fair hearing, publicity and impartial process",
+        "SUBSTANTIVE JUSTICE -> just principle, distribution and status relation",
+        "fair procedure can reproduce unjust starting conditions",
+        "substantive correction without due process can become arbitrary",
+        "best synthesis -> fair procedure plus defensible substantive criteria",
+        "LEGAL JUSTICE -> impartial law and moral assessment of law",
+        "POLITICAL JUSTICE -> equal citizenship, voice and non-arbitrary power",
+        "SOCIO-ECONOMIC JUSTICE -> fair burdens, benefits and real opportunity",
+        "RECOGNITION-STATUS JUSTICE -> no stigma or second-class standing",
+        "legality identifies validity; legitimacy asks moral justification"
+      ]
+    },
+    {
+      "title": "Plato Aristotle utilitarianism and corrective repair",
+      "structural_type": "classical justice comparison",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "PLATO -> harmony when each part performs its proper function",
+        "objection -> functional harmony can freeze hierarchy",
+        "ARISTOTLE DISTRIBUTIVE -> proportion by a relevant criterion",
+        "criteria -> need, desert, merit, contribution, equality, compensation",
+        "ARISTOTLE CORRECTIVE -> arithmetic restoration after a wrong",
+        "UTILITARIANISM -> aggregate welfare risks sacrificing separate persons",
+        "justice needs allocation, procedure, substance and rectification"
+      ]
+    },
+    {
+      "title": "Rawls Nozick Sen and Ambedkar",
+      "structural_type": "modern justice debate grid",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "RAWLS -> original position and veil model fair choice",
+        "equal basic liberties have lexical priority",
+        "fair equality of opportunity precedes the difference principle",
+        "NOZICK -> acquisition, transfer and rectification, not a pattern",
+        "SEN -> capability and public reasoning compare remediable injustice",
+        "institutional justice differs from realised justice in actual lives",
+        "AMBEDKAR -> political democracy needs equality and fraternity"
+      ]
+    },
+    {
+      "title": "Fourteen PYQs and the executable answer spine",
+      "structural_type": "directive and evidence rail",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "OWNER CORPUS -> 14 verified parts across every year 2018-2025",
+        "DEFINE -> strongest sense of the ideal in the stem",
+        "DISTINGUISH -> metric, interference, procedure, substance or repair",
+        "ARGUE -> claim, named thinker or example, analysis, qualification",
+        "COUNTER -> strongest objection and best reply",
+        "COMPARE -> run both positions down shared axes",
+        "HOW FAR -> state the conditions under which the claim holds and fails",
+        "END -> justice orders liberty and equality without replacing either"
+      ]
+    }
+  ],
+  "verified_pyq_count": 14,
+  "required_core_terms": [
+    "Social and Political ldeals : Equality, Justice, Liberty.",
+    "equal moral worth",
+    "formal equality",
+    "substantive equality",
+    "equality of opportunity",
+    "equality of outcome",
+    "negative liberty",
+    "positive liberty",
+    "harm principle",
+    "non-domination",
+    "formal justice",
+    "procedural justice",
+    "substantive justice",
+    "legal justice",
+    "political justice",
+    "socio-economic justice",
+    "recognition/status justice",
+    "distributive justice",
+    "corrective justice",
+    "justice as fairness",
+    "entitlement theory",
+    "legality",
+    "legitimacy",
+    "rights and duties",
+    "citizenship and democracy",
+    "Code on Wages",
+    "S.O. 5322(E)",
+    "exactly **14** primary parts"
+  ]
+}

@@ -1,0 +1,2246 @@
+{
+  "schema_version": 1,
+  "snapshot_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-06",
+  "canonical_sequence_number": 6,
+  "planned_generation": 2,
+  "approval": false,
+  "tracker_resolution": "Only philosophy-paper-i-western-philosophy-06:legacy-v1:g1 exists; the next learner-v2 generation is g2.",
+  "target_absence": {
+    "knowledge_g2": true,
+    "notes_g2": true,
+    "flow_g2": true
+  },
+  "shared_file_hashes": {
+    "EXPORT-PDF-STATUS.json": "74da42c3fb9ecd210dc95b548077bb4bc50a735184a2a194a2fd99038e3458c6",
+    "EXPORT-PDF-COMMAND-INDEX.md": "8f7fcc9d0c117a0ce470a47ae7c114ec4feb9be9f4c5556de5c9d848fb82d9da",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "170d70e14e059a9793c9e93007314f55c3f82213397e6ca5c3a8a68e9c3d381a",
+    "upsc-ai-kit/manifests/v2/topic-catalog.json": "325123df1911cd00ed885cf242af965a153119b3ac76ab0fd68352bc25ec7c07",
+    "upsc-ai-kit/manifests/v2/philosophy--paper-i-western-philosophy.json": "344d06c8af36af91c632c3aa6a4e209d588b267bc536dc6f128ee69af95bb86f"
+  },
+  "source_hashes": {
+    "upsc-ai-kit/knowledge/Philosophy/OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit/knowledge/Philosophy/README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Moore-Russell-EarlyWittgenstein.md": "03bc8ae8503af7892a566d1d78fa22c8d15de30efe0af94353473db1de8dd2e1",
+    "upsc-ai-kit/knowledge/Philosophy/_advanced/Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+    "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+    "upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Moore-Russell-Early-Wittgenstein/Moore-Russell-Early-Wittgenstein_Layered-Complete-Learning-Session_2026-08-18.md": "7ea908a8257ab3cd851d6468eef021278ac3b373d61134abbcc6c1c4557ebdba",
+    "upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Moore-Russell-Early-Wittgenstein/Moore-Russell-Early-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-18.md": "b4164819dd591b7ca54d91b68472f907a5f128c9332606f54287dc7f0c3184fc"
+  },
+  "out_of_scope_tree_fingerprints": {
+    "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-01": {
+      "file_count": 3,
+      "total_bytes": 395427,
+      "aggregate_sha256": "fada09ff505a157520e1f62c1a2bd031f784a910989e0b85995122e04aae4e45",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\assets\\Plato-Aristotle-Ontology-Bridge.png",
+          "bytes": 121922,
+          "sha256": "e356eb78c3565427ce100a44936128079c76cf91aa32d308940131b6556058bd"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 210260,
+          "sha256": "339226f95a981a4ddc95b47a689779dd0033483ff8c006062a10f5be5e0ca91c"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 63245,
+          "sha256": "1681e0526f2e1f74eeeb720789fd63f27a3f34c8a3194267b9d1f8580a2b4574"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-01": {
+      "file_count": 4,
+      "total_bytes": 1000768,
+      "aggregate_sha256": "e0b338836c90b54685462b24689f1202813eb9a83a52f0ad841f7396cdbf7040",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 545259,
+          "sha256": "377de17b26e2c47a0c98874baae110e8a2fe8019954890a130751c1277ebf647"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 349502,
+          "sha256": "43d10f3d972348151683220c0a62b253c0f906f46e23439594ad1cfaea75084f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 95435,
+          "sha256": "6b156b453dca76049aa4cf8219793fb79d0f71a92df19dc2f09ec7f7d4ba9e6e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 10572,
+          "sha256": "a96f9b8b2689f15aebf99ba28f92364553627dd1a7165a867923c9b116e7dda0"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/flowcharts/topic-01": {
+      "file_count": 17,
+      "total_bytes": 13566465,
+      "aggregate_sha256": "e82b8ae49e2ba8492ea9209243597e47d04bd185600f214372a28913eaaed5f6",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 56464,
+          "sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\ascii-master.txt",
+          "bytes": 7568,
+          "sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\build-audit.json",
+          "bytes": 7724,
+          "sha256": "a9e40b8fcb642dcb207993403272d7a476eed753d942533b921fb696143d1dc3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 36049,
+          "sha256": "4a053a51910e91a81ae6e0b2043b742721fd4d206603015241d978c972081b18"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\master.png",
+          "bytes": 1927772,
+          "sha256": "14be0a798da33bc1b39b2312ca3feb036f7d1c4e70351c4ec665e66eba98791d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\poster.pdf",
+          "bytes": 2199795,
+          "sha256": "74ffc55e9934f3b11e0b2f882269099dfc61af589a8f9f793c8eec5ce2f86d8c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6142,
+          "sha256": "65fd2bb6073a7d4124dfce2731877f1e107fe28162b0e4a57487253dea1b644f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 2853154,
+          "sha256": "cc4f7c6ec7611dd4b711374b912f3ea4e2f536104a5f5756705568f562b0bb59"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1356979,
+          "sha256": "7cbbb0c8517ffe0d638e4cbecd2700e0337a198b27222b1e89fb3a2b488f54ad"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 581881,
+          "sha256": "88b96677dddc4b2d097968d809d20b17651d25e4b94df647f58e70462cddeb0d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 627583,
+          "sha256": "5d81acb60799c0edfb034666d9b1a855bec8d2d0444c67ad364315b7dfae45f5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 648354,
+          "sha256": "90fdb06873f859924af55c4fa15521535d14ed4a664a02ffc9b546453eb3b2a8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 615764,
+          "sha256": "a52e2bea016f5bcb538be8b5171320834bd717ab40b1b3f297da8d884612fed8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\README.txt",
+          "bytes": 1447,
+          "sha256": "09d0e881e0320cf0923fb27b24197c36d49bb3222745cc27eab248e4bf15a83e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\tiled.pdf",
+          "bytes": 2638257,
+          "sha256": "6a7da060d786450c00ca5a4671d74f759391f558e546a17e926afe6e28b536ed"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g2\\validation-report.txt",
+          "bytes": 1323,
+          "sha256": "daab35229bee01bc9b8a6ea7a5c1af1ca886629a80a81816ef56b5c816f605a7"
+        }
+      ]
+    },
+    "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-02": {
+      "file_count": 3,
+      "total_bytes": 412709,
+      "aggregate_sha256": "45897b190fc658f2465f567f5a0138646cb06bf768b95e799672947ae6e23345",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\assets\\Rationalism-Problem-Sequence.png",
+          "bytes": 133479,
+          "sha256": "ba261987fb11b5c03521f731fedb6a898ac48ca72347ef4d11776e12100eb53a"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 215852,
+          "sha256": "f7e8b7882f7fa4b1f8f4c3552f116299c58a25b0920f7494680f466f9a8916c8"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 63378,
+          "sha256": "f3127f88f5dea90048a7c50a5d6d61fcd06c2b047a7cb9757a1aaa33652ecd78"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-02": {
+      "file_count": 23,
+      "total_bytes": 27788907,
+      "aggregate_sha256": "b98018e1b76b23da8c7424878929a319b0cd7d5a70b370cc82eb4f7b0256b5ea",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 566451,
+          "sha256": "fca03f45beeebffc98f5a64941d22afca3bd1e0d5e1e1313ed4fbe1daf102916"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 366668,
+          "sha256": "f3aab6be490891e7158296423ac273c5931e5b37dde815d3792012cbb47e867b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 88658,
+          "sha256": "44542f72ff34cccc19e203bebe80d74079c21b1e52824fd4dc77bdfe34420e98"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 390586,
+          "sha256": "4060ce178ae6798fd402b52fc7278bee4f4591b792ae2485092d5b9efff5a957"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 364670,
+          "sha256": "4610865d2ae3a7276204226d178ef477f9eb553176c64624916dce3704941faf"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 222849,
+          "sha256": "08ef07426e572f21577c98182a888451ff5303d0f0122d550416ea48afc3cbda"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 3939,
+          "sha256": "99da3908f62a3c5a9752caeae0026de50ecf6626154ca4aa81dfeee7e27bcd1d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1562006,
+          "sha256": "44014cd047627f30282ede301837fade9f43983ae520bce9e0edd29534891fd3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1593928,
+          "sha256": "142bb62873b6f3002c5d296f840f6c841c7ae4dbe925fe7252d8a1b6ba60f239"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 2048323,
+          "sha256": "39cf76a355afc3a56c90093f9fc65a2458bbcc66a3af06e7632dd031463ce0c9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 2007507,
+          "sha256": "9765511ea2b839d7a585ae3b659ca72e54e2820cc66e94d19d6129c27a0fd12b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1830190,
+          "sha256": "a7862eaf214a1c019800f5733b32091ca9019d7df845e8e397e08fa315a7197a"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1735944,
+          "sha256": "4fcecb0aa2fabe966174d1c29bdf9d155363e0908c165cdd25d6651bd0bfa69d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 1839203,
+          "sha256": "282284dde53109b9951f751b0899ae877f16247c8595bb0ecad000a27a7b6954"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1650472,
+          "sha256": "a694813481dc433c624278440c6414b7a1971dc9b1f5763186c8fb1ef2d86130"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 2180530,
+          "sha256": "db7c42b03416e223d895f1f9c989f496f11cc4ff7b70f2826d4d89d275e852bc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 2022451,
+          "sha256": "83327ad8a7149b33491c70967e5711243ee354c8117515cebb80f6d611a5e048"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 2423547,
+          "sha256": "0a2876b400e2b0269880edbb2107d8c8647412ceb8fcef203a2af0e8d7634b97"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 1615669,
+          "sha256": "12cddf64fec9c28df6b57969728962438fe42af90c62db90acbf7b385b38e104"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 698084,
+          "sha256": "6857638c39b9636830585d8995a20729ac3e179382e866e9936f208781bcbe91"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 2127041,
+          "sha256": "74f4461dc2089b1b8fc2db2da98008e535b91deeda6d8cdd7d859f8cde64060c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 445255,
+          "sha256": "6b64f35aa351c62f9d0f153aa61a2b851b7c9912d6deb7f0b51110f0ef3536d5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 4936,
+          "sha256": "54785255d02056341928ff90344fa591e847157334e42a7fba55267ab16a7dbd"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/flowcharts/topic-02": {
+      "file_count": 17,
+      "total_bytes": 14127731,
+      "aggregate_sha256": "fb3ed1d595a621b3be472b2452fb9184117144ce2f358f68f4114ed54b66135c",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57030,
+          "sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\ascii-master.txt",
+          "bytes": 7284,
+          "sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\build-audit.json",
+          "bytes": 7741,
+          "sha256": "e6dd4f76e63a683b2c0ed19f8da78ee881d1df1d14061ca4f96569f2fdeadffc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 36969,
+          "sha256": "d22e51d64885ef7d6a913bdcff40495090405f90d645f6ea530991ed9814b1ff"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\master.png",
+          "bytes": 2073264,
+          "sha256": "aaf4b816834ed75f42bb624183d63f46a6380d60a67b1d259fd8a42439b6f420"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\poster.pdf",
+          "bytes": 2341659,
+          "sha256": "82e5a438c91fcec375934b505e5b424cf06073a768546e4f8f32a1749be82e00"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6102,
+          "sha256": "1eef21a773b1c65c722f48ac6c2afc70aa4b1d654e5e32ed7ddd47b588a4ef01"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 2933309,
+          "sha256": "d7de14999d5c7dad420beaa916f17389f52dffb00e69f39087d83f1129e8cb65"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1454590,
+          "sha256": "d9305623ec6764f273945092d164cc079565f8c79a36dbcca0b403cf38ba982e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 655954,
+          "sha256": "e02b5bf8525fe3fb2d6a69b123902bf390064a639ec471a4c78eb438b28a17e1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 648057,
+          "sha256": "0b27c0842ac1d42fffeb00b7f912cd057b9941037830657626f1832f0485d5fc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 626268,
+          "sha256": "2085bf59525b09d757143c36def8ed94c6d799226a5dbc2bc4a6961bd4c34af4"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 599735,
+          "sha256": "1e97e6a951c0a8b1f06d67fee034a6bef6f2200ee448716183e8e7ee0b507652"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\README.txt",
+          "bytes": 1442,
+          "sha256": "365078e41928ac81084d02b5796d15f6fceca9a3fbd6d9ba91d22c6784f293cc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\tiled.pdf",
+          "bytes": 2676803,
+          "sha256": "1c686f04a9134b8fd751c4fff63c261d1b1111b428ede2de7db00773caa62f6b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-02\\carvaka-g2\\validation-report.txt",
+          "bytes": 1315,
+          "sha256": "c93bda02940da0618727d770fc962dc732c8e6f973a6d6989bd72168b97760f6"
+        }
+      ]
+    },
+    "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-03": {
+      "file_count": 3,
+      "total_bytes": 412475,
+      "aggregate_sha256": "bffa39a5871b866d0d6a9f6cc397dd83e86743af58299e90c8805fcb2b152c2d",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\assets\\Empiricism-Pressure-Sequence.png",
+          "bytes": 133338,
+          "sha256": "3ba7d48064227d8d083606b7d32492da79840525e94b3e7ffe31997a0ece1588"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 211400,
+          "sha256": "ccaa72c437fbe2d1cf5d8a23c55a29ef8c12219b44ef270db0f45d81da458b07"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 67737,
+          "sha256": "6da6ceb0ef59301f3630d0ac650e464517a21ed56f5ce47778d31b41d4425f59"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-03": {
+      "file_count": 27,
+      "total_bytes": 27476790,
+      "aggregate_sha256": "bd23e30f7c7381d90130d30b5920a5015a24f143971df3b2aba9d30d2997108b",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 537064,
+          "sha256": "76c6ac219725a34940c2f328eafe68a6d6b2569bcbc8f50533aaed22b55fadb0"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 355497,
+          "sha256": "05851e178308ca329f0200fdfdcb7dfbeb46f316f3872d60a39071755576d198"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 74849,
+          "sha256": "18aa40c8e799a28ad26748a37304cc2e75955caf46a18b9b1eebdc7937594b60"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 239850,
+          "sha256": "47506234d97891fd3a23d6a276c321b746401beec4e49c4648649ed33f2e7797"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 256419,
+          "sha256": "ca5964b57f3f7320f95ec2146d43e17284774814dc6ca4fe9fae34c5ef7e160e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 258346,
+          "sha256": "b6ea596d45212074f90b379ce3b74b96273f57c7947f2814cf1e75b7a9f5639d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\ascii-contact-04.png",
+          "bytes": 159993,
+          "sha256": "130bfdb2b1cee0be1bcd5653e5a568db4fc84ebc1567f5b3caf8339d819069ed"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 2173121,
+          "sha256": "17f048322b0156a967422c53187123e9a15eceac095d0186daa7312a4d152186"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\graphical-contact-02.png",
+          "bytes": 2145513,
+          "sha256": "405d9d0fe6ad931c2da7d640c97287f50dc2979d0345175a407e6a52cbb1a00c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 5113,
+          "sha256": "c2f1552b9b07a200350f027d8ce68f19417f36db5846afe578e8bf2cd05ce570"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 1248293,
+          "sha256": "6f775826d269ab798b4f297fb9a0d29c74de5b55fb0e618777fb181750945d1c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 1149376,
+          "sha256": "d86f426c0ee7fb5b47a7675151995076d195e9648f19b9632bb96eaba4dc3f5d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 1208630,
+          "sha256": "92425b18c3fde42290dac43ded5d278163a1ff862a6b03a0baaedf27d6c10159"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 1585566,
+          "sha256": "309f65d7a3a72925ca3d5bddbabe7c8f72ea0ae852d8c3c4881d91e4c399da21"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 1194477,
+          "sha256": "9394f515fba24240f75ab3284bc7b9c650aa035c75ae12e9bf79168474629b95"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 1277589,
+          "sha256": "154a5748da83edb97be60822b8bcd4c1f2de881a9051bb3bee87b1aeaffc6a78"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 1451975,
+          "sha256": "533ca00c15c93aba11f91f8979d9baca24a0b51d87134ba762b4996bedcc46cc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 1369051,
+          "sha256": "194bad15adfb8fb876f86aae7de3b5022a48834ec3fc7a55b481fcfeba060bf2"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 1432083,
+          "sha256": "2595dd86341185614608b0527ff59cccff0245caaf8c42ebf6abcb5545ebb2d4"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 1365504,
+          "sha256": "615d3a2f117a27b7dd601ff57b8559f35335db85ba00e3229bf3f31371ff46bb"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 1394182,
+          "sha256": "18e183941a4c44969bd061b1f1af0ead0dcb5ac3b8afd9d1a8ddca11dbd96f4d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 1618756,
+          "sha256": "4e5f9f94298e307a0676c99e6a5981c1ab5a0f8896502e0ffd6d63034606aebd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 1785362,
+          "sha256": "6720d7c798e8bba1149f131516e1095ed1ff1ea19c97472d06e829ff69c23231"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1264901,
+          "sha256": "ab09bfad46f6b579799222ca23868e5ffd3f14aa123ec6b13786e5842bfe3288"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\main-contact-15.png",
+          "bytes": 248988,
+          "sha256": "4c189348507435b9a1b945ba4c169e58b34703518f1d4f1e349bceb39f4e7cf1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 1672635,
+          "sha256": "593837c7be20ae28d4fb6078886872b0fe9d7fabfe08b20e054f4dcfc2204e32"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 3657,
+          "sha256": "6aa52e9220b5a76131e738384dbc05bcfe5c16304f0e17b10f6f3e9278275256"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/flowcharts/topic-03": {
+      "file_count": 17,
+      "total_bytes": 14587719,
+      "aggregate_sha256": "29ee208977edccaa7df4d8e0dcbb99b20fba17e964f41a39ca2addfb8e148c2f",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 56387,
+          "sha256": "aa9c39a9651639ad71a78bfb15edff73d8a883bcbd8da06f2c0acb1431f99926"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\ascii-master.txt",
+          "bytes": 6868,
+          "sha256": "ad21be42d0bbbbae98ee57400f4810a50ebffef1c911d3533e45868ce00e7fbe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\build-audit.json",
+          "bytes": 7741,
+          "sha256": "45e4538818f2e92ea1fd570ba454ef6135c858866c223ae25962733c8b005590"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 38518,
+          "sha256": "22abdcb0f1eb91c083ba3a043013eafae34df0029b1395f5af718092c855a7a1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\master.png",
+          "bytes": 2071996,
+          "sha256": "ef472f4abc5b3c61f2ed56ca5ed007f9c53e7e972cac43853070259e8f8e79f5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\poster.pdf",
+          "bytes": 2341358,
+          "sha256": "cc66dcaea66d0936ecb8841679610374fe81d816c91912b27768692990399a18"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6092,
+          "sha256": "edf145a774761eff577359469cdde6448a6ff5e0085c59c5b3fa9ee00502c65b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3097950,
+          "sha256": "9ab986a4caa21a9361c6ba347a5bfd519e280cda25132b2fa8a76836444d81d8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1485275,
+          "sha256": "05e042be86f21fc3262d0b0207d2b329fce32cf590054ae81f2dc419803a633e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 639340,
+          "sha256": "fc977f1084de167df2f334351f5a29c528cd61c6c481bf037467bcb14035803f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 703638,
+          "sha256": "d4abcfc42958bd8e93980a02299725962980387c8ea610c8f95ae2fe51dc7f27"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 649885,
+          "sha256": "a5357f2fd0a0ea25e8cd78116cbbbd43a0dfe94a645ded0c5e219353450fb621"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 666667,
+          "sha256": "4bf5342a0109fd164f20479732442d5a26f1271ded1a3929fe9b92cc8bd3c21f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\README.txt",
+          "bytes": 1441,
+          "sha256": "022077921a27f78b6dfb9dc02cf5518b60aaf3fdf7c88ee1be9963c5078ae24c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\tiled.pdf",
+          "bytes": 2813039,
+          "sha256": "814327908b236e3e4f0b588ad6ecbd73d619367bea0601a7e46a501b8a011eb1"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-03\\carvaka-g2\\validation-report.txt",
+          "bytes": 1315,
+          "sha256": "b452b64225e43236023ed333284da2dfbd2e691681fd4db87938d8b13f722121"
+        }
+      ]
+    },
+    "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-04": {
+      "file_count": 3,
+      "total_bytes": 429905,
+      "aggregate_sha256": "485ebeb23c2b3b43bd679ae08046eb1ae38b4ebed0059c136fc08647b8906427",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\assets\\Kant-Critical-Architecture.png",
+          "bytes": 103680,
+          "sha256": "e6a16d02a185fb3a3c0b87b0ed4f1c7461970454008cbe716d44aca4cda0efaf"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 240215,
+          "sha256": "e971952dc557414a10210d4d26489eff0f5a275e997e663098bd4a41deba9139"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 86010,
+          "sha256": "10629ecbc6183a6a03d26db6da32c0d59d7743ac5974c245466a07cfd4a633df"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-04": {
+      "file_count": 4,
+      "total_bytes": 1002461,
+      "aggregate_sha256": "fab01654d4a1fff68e4f3a43a4b1e5f01fab999f3d58440ab717d8e28e3ee24b",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 540153,
+          "sha256": "49461e78e96358c495b4c23d114bc46adf3e85dbf5370a8816edeaf91fd927ea"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 343119,
+          "sha256": "bde12e40f8402fb5f7a638b7bb3f7057763c2e9d5d2c8679df1e5af32d6d94dd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 105913,
+          "sha256": "dcdc5c894a0cad2f1be9c81e23fb3a5c072bac03c145eb69485d66d209b135d8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 13276,
+          "sha256": "706ce7330bfdb63edf4f2581d783e67ed2048759e1b3ecb6f0c816a665297b99"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/flowcharts/topic-04": {
+      "file_count": 17,
+      "total_bytes": 15344330,
+      "aggregate_sha256": "f477b9f253a8de2ec8597fa55f1e810684e0c36c49fa969c3d6f744b3ac4f8b2",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 57512,
+          "sha256": "733c1845c0ff934d01549853404f0e63d3f0e771ee2d21d1f75ed3217f1e3a05"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\ascii-master.txt",
+          "bytes": 8960,
+          "sha256": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\build-audit.json",
+          "bytes": 7706,
+          "sha256": "30e1821025e6a6ba8fb36a6ca4c0d0ab44a817ea9b2c66301122174b79d3ef45"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 42395,
+          "sha256": "b0908e96da89502ac806c09aea532afbcb9d36b6f55522af5ce07042daea07ae"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\master.png",
+          "bytes": 2250836,
+          "sha256": "668136e227f6f2e8a11be88f5ee088638f41d01525cb4bd09cec4c987d484256"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\poster.pdf",
+          "bytes": 2545959,
+          "sha256": "39447c5ce3a978b5720626e298cf924d8af4c629ac8d2967fe33dff204ee6377"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6032,
+          "sha256": "16e27913c414e2ec44d0121986f527940d3992f3e6d4aa6c92cd4b96d7578896"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3209204,
+          "sha256": "9bd207bfa36aa38d9e7ac5eab75345a1e93d82937dc0a790e6ffeee6f25af519"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1611020,
+          "sha256": "3e565a90a9ab9000a455250508bf0790e7452238d20782043444a1c0fdbf0801"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 703448,
+          "sha256": "348664d68766b8af2cf9ee5d1811618c85d9a9fccb440c4ee256fad06e15d0ee"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 665871,
+          "sha256": "620a81679026556189f0b2a7adfad47e2d4b078c2739ff45ea6e9a7bf4028c79"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 707458,
+          "sha256": "b7b2837a6e8e76d6f1578926db7d0f34dfe74dba244694aff15a17e762e8fb2f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 659843,
+          "sha256": "aedb957bfa260acbfb4030567a71a59916f2ae01f4968f499c24f7f222f65747"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\README.txt",
+          "bytes": 1435,
+          "sha256": "4923638eef1cd8f9373b4964392f0e16dd6f885b4a7ffbf904f9fd636840df39"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\tiled.pdf",
+          "bytes": 2865130,
+          "sha256": "3279315cec986342a9e443696e5a0c52acabd29e2bc5adb74cbe3f9f7cb70b13"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-04\\carvaka-g2\\validation-report.txt",
+          "bytes": 1312,
+          "sha256": "c56ab3d4645911b723162541c132e7fcefdba112929efd2123f2d804918e4ab1"
+        }
+      ]
+    },
+    "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-05": {
+      "file_count": 3,
+      "total_bytes": 433617,
+      "aggregate_sha256": "887f8a7c105a52599c426e5ffb576423ab998aabed66e157e300b282ad4ec187",
+      "files": [
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\assets\\Hegel-Dialectical-System.png",
+          "bytes": 101865,
+          "sha256": "b795d9e5377fb18257f7d01752500c337ce9105f3b7392ba5238c9a46e54b66d"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Complete-Learning-Session_2026-08-26.md",
+          "bytes": 243028,
+          "sha256": "6cc017b15f95ff091f8b60f600ab18eaeb982176e7a7bcc46b00f1242de41108"
+        },
+        {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Solved-Practice-Workbook_2026-08-26.md",
+          "bytes": 88724,
+          "sha256": "341da900781ef29a3cbe9dc3372f387f1664eb4585ab7ca04528689c9facb57f"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-05": {
+      "file_count": 26,
+      "total_bytes": 45685658,
+      "aggregate_sha256": "2039c9b0fea9ae25845f0367fddedc71413146c12d402d31bf1ce5d660e792ba",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Complete-Learning-Session_2026-08-26.pdf",
+          "bytes": 542378,
+          "sha256": "786028b3a4e819b15c4b00d0aabcbec74391e22c374297880a4d068dc016301c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\topic-05_Solved-Practice-Workbook_2026-08-26.pdf",
+          "bytes": 348905,
+          "sha256": "0ce11d0dafc3608ff5e7045af3072cd19020fca0e70e89e316a807ce8ac048dc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\main-visual-audit-map.json",
+          "bytes": 95824,
+          "sha256": "58c7d6c819a95c4031938421a0b740e767e7b3ef23f9c20b66512a3a0a2074a8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+          "bytes": 651956,
+          "sha256": "68ad87384aebd90a15a8a798f991fef5805206c7da813d1f8ecb2e5f4727b2e8"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+          "bytes": 660292,
+          "sha256": "0366b45ad9a14164fa08e23669dd05fee99b3271bab960ed0fd3577a00317f34"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+          "bytes": 363226,
+          "sha256": "5ed2ec7f2240251e769b2a3a3750ab05421a24cfdb8decc17794b2941c04ec43"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+          "bytes": 1729005,
+          "sha256": "71aca16377820828574d241e279c727d6d49dd17fa15c4f91d129e70e384edf3"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\inspection-manifest.json",
+          "bytes": 5154,
+          "sha256": "bbdbb7b3a1a070803d33aed47bef88ca7177eb863f41f6286479d9cf618f8541"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+          "bytes": 2036007,
+          "sha256": "d333cfd01ca8afc6f2ca2b2b1ac94291fea22adfa4be61765f8e3b81bc1e4fdc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+          "bytes": 2145071,
+          "sha256": "f3608326a2856d0ceae1023a0b23ddf971dcd50fc145255e41d30d18f91fdf9c"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+          "bytes": 2324391,
+          "sha256": "2121e374067ef8509f188e609f2009d8af572cfc92b5d4359912d37e4baaf963"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+          "bytes": 2247186,
+          "sha256": "378ed77ff29cf44d10463bbb8c71073019f8e8483bb5d48f6b76f710447b01cd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+          "bytes": 2520854,
+          "sha256": "bc37c3c402cd7c90c94cb8df43b9f6995d6dbcb6e37ddf0468f2149d149457ee"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+          "bytes": 2677311,
+          "sha256": "7ccf1534ebc3e97e56118e2dd227aee9035c3838b64ab52b19e59c761c6daf5d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+          "bytes": 2663813,
+          "sha256": "aa01e4c4d218a5a7f91bf3c228d45e4f2e906bf19d237a1129f6d4e33d05e198"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+          "bytes": 2139336,
+          "sha256": "f7eec1427f69a8d95ce12b8172fb2aaaf5fcd95c98b85c68bab4429496b59749"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+          "bytes": 2685575,
+          "sha256": "129e662558a2b38bc979e4b3a6d4a2f2a303f95a745aab375d88a52e56884a4b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+          "bytes": 2399754,
+          "sha256": "5f4329d6e31ea585a9e4ccbad5be16f47110bb2073ba42bd52ae1cf4c1f1788e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+          "bytes": 2608775,
+          "sha256": "5fffdf9502eb8756d3145cbc5c894750779bf26095c919c6329a49e0b2eaf727"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+          "bytes": 3440871,
+          "sha256": "56c3866e693d7feef427882b30a817336c3ef8c75f0d0f032f887c34a571bb3b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+          "bytes": 2860076,
+          "sha256": "2b0071fc509edd552b011ece6d8e469e7c8dda572a0505abfb641aa2c232232e"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+          "bytes": 1042826,
+          "sha256": "0b5d93f4335cd84ca32913e200a5035695621163d6753146e756c2fe77ff54fb"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+          "bytes": 2436537,
+          "sha256": "078e1b78b32b0a3b5707afef27ba869494a480536468a75dfd358d829490f165"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+          "bytes": 2546733,
+          "sha256": "8808b35458ea131a7808e19fe59aa5244dfcc7aa3a3d7fa60e9a678a29f3ef07"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\rendered-inspection\\workbook-contact-03.png",
+          "bytes": 2500524,
+          "sha256": "c3cae698220d1bc795ad86bb304895ef3f9e2dee85c61a6e7eaec0026cb9634f"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g2\\validation\\workbook-visual-audit-map.json",
+          "bytes": 13278,
+          "sha256": "cedf1db19ee7790f0f405de9befd15750002b81a453a20a1657e2798a676acf5"
+        }
+      ]
+    },
+    "notes/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/flowcharts/topic-05": {
+      "file_count": 17,
+      "total_bytes": 16061798,
+      "aggregate_sha256": "3c4f6fd2eb175bd98f74327cffd3a3b591a7425de87c6a14f524a513c382cb6d",
+      "files": [
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\ascii-master.pdf",
+          "bytes": 58313,
+          "sha256": "a3aa90b8e67942eca7fbc61628f1cd583fc835cd0988cade66b57b12a36af150"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\ascii-master.txt",
+          "bytes": 9749,
+          "sha256": "e690e5c47f3adb5039a07b906016269d71a93e7b23ff8b4f21bc9c0adc1f61e9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\build-audit.json",
+          "bytes": 7719,
+          "sha256": "f4ad8473272217e6044d897ea60b51130e41b06378dfd9409525aed9c08f47fc"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\editable\\README.txt",
+          "bytes": 209,
+          "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\editable\\topic-spec.json",
+          "bytes": 43613,
+          "sha256": "7edbe1be8988a2e8f6a6ec0dd5ce56b5b4a9521c1c5cb5d19d37587396867cf9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\master.png",
+          "bytes": 2240798,
+          "sha256": "338cb855d6ebc4a8c825d6279cade13a4540b5d0ea7c53f426a538b12e6bbdf9"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\poster.pdf",
+          "bytes": 2551053,
+          "sha256": "f610c3185fd840cfa4b933a3411490b68fb38d9a6f5f6c5ffb7495b725affb8d"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\preservation-hashes.json",
+          "bytes": 6042,
+          "sha256": "07a6f3a616ceaac9b9cd7257b301c81f54308a9a9af0c0c0d508993ebc9ff9ae"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\contact-sheet-01.png",
+          "bytes": 3473653,
+          "sha256": "2c61d36b8c05fd4ff9e8a24833bf3022e409f1187417e308c479ccf6783f4d3b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\master-overview.png",
+          "bytes": 1677886,
+          "sha256": "9efb130fe9c1a5d83ced851d4d9bf98e75b9f4cb8a0538867acba8ab9ab6889b"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-001.png",
+          "bytes": 760134,
+          "sha256": "251d16661d22031dd510980a275ee6043b28a4e825cd418e7f6bdeaf5d184d70"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-002.png",
+          "bytes": 763552,
+          "sha256": "d9d541521558a5a1bc9fceecc6bc9c498aa2ae857cf3057a6eb1c75502880da0"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-003.png",
+          "bytes": 705506,
+          "sha256": "7070fbbc6802ec25c78bd7d2067525d8ff74bb2459321539c6f845c58a719cbd"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\previews\\page-004.png",
+          "bytes": 729796,
+          "sha256": "de2583cdf62bd6945232a8d52cd169a5ac2f9d9446c958fa0c29679e4d4c46fe"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\README.txt",
+          "bytes": 1436,
+          "sha256": "b956bfae7c5341f9436f186c12fbc71500ee1a65c023fa1789e3d672fefe5704"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\tiled.pdf",
+          "bytes": 3031025,
+          "sha256": "169fb039e2b810fa09f74dae0adae2389fd3dc1205627fed1b53a969837006d6"
+        },
+        {
+          "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-05\\carvaka-g2\\validation-report.txt",
+          "bytes": 1314,
+          "sha256": "b4f33edfa75bd36f22c7313851c1bb9baa5ac79141504d6404c987defca2b5c2"
+        }
+      ]
+    },
+    "notes/Final-Learning-Packages/Philosophy Optional/Philosophy Paper I — Western Philosophy/01-Plato-and-Aristotle": {
+      "file_count": 8,
+      "total_bytes": 7725299,
+      "aggregate_sha256": "879d1f172fecc445d1c895e0a6c1b297b1a2df37a97ba732e992ae082e8e803d",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 545259,
+          "sha256": "377de17b26e2c47a0c98874baae110e8a2fe8019954890a130751c1277ebf647"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 349502,
+          "sha256": "43d10f3d972348151683220c0a62b253c0f906f46e23439594ad1cfaea75084f"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2199795,
+          "sha256": "74ffc55e9934f3b11e0b2f882269099dfc61af589a8f9f793c8eec5ce2f86d8c"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 1927772,
+          "sha256": "14be0a798da33bc1b39b2312ca3feb036f7d1c4e70351c4ec665e66eba98791d"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2638257,
+          "sha256": "6a7da060d786450c00ca5a4671d74f759391f558e546a17e926afe6e28b536ed"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 56464,
+          "sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 7568,
+          "sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\01-Plato-and-Aristotle\\README.txt",
+          "bytes": 682,
+          "sha256": "693b7bf27b8e4e3d004699a126a5629bbf51647332c292bed6b8873d743aa4b1"
+        }
+      ]
+    },
+    "notes/Final-Learning-Packages/Philosophy Optional/Philosophy Paper I — Western Philosophy/02-Rationalism": {
+      "file_count": 8,
+      "total_bytes": 8089825,
+      "aggregate_sha256": "99752b90128c5d076914c57dc9c0fee1439a5764d65348f144b7410d71893946",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 566451,
+          "sha256": "fca03f45beeebffc98f5a64941d22afca3bd1e0d5e1e1313ed4fbe1daf102916"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 366668,
+          "sha256": "f3aab6be490891e7158296423ac273c5931e5b37dde815d3792012cbb47e867b"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2341659,
+          "sha256": "82e5a438c91fcec375934b505e5b424cf06073a768546e4f8f32a1749be82e00"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2073264,
+          "sha256": "aaf4b816834ed75f42bb624183d63f46a6380d60a67b1d259fd8a42439b6f420"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2676803,
+          "sha256": "1c686f04a9134b8fd751c4fff63c261d1b1111b428ede2de7db00773caa62f6b"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57030,
+          "sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 7284,
+          "sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\02-Rationalism\\README.txt",
+          "bytes": 666,
+          "sha256": "5ee4c4a66f56732f409c5f4bfaab58bd1c1fab32482a356eef5568180229da3a"
+        }
+      ]
+    },
+    "notes/Final-Learning-Packages/Philosophy Optional/Philosophy Paper I — Western Philosophy/03-Empiricism": {
+      "file_count": 8,
+      "total_bytes": 8182873,
+      "aggregate_sha256": "7518db16ca3cbeafe403143b69a53826eb66990dae1e71740596c4f5b885fb5a",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 537064,
+          "sha256": "76c6ac219725a34940c2f328eafe68a6d6b2569bcbc8f50533aaed22b55fadb0"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 355497,
+          "sha256": "05851e178308ca329f0200fdfdcb7dfbeb46f316f3872d60a39071755576d198"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2341358,
+          "sha256": "cc66dcaea66d0936ecb8841679610374fe81d816c91912b27768692990399a18"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2071996,
+          "sha256": "ef472f4abc5b3c61f2ed56ca5ed007f9c53e7e972cac43853070259e8f8e79f5"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2813039,
+          "sha256": "814327908b236e3e4f0b588ad6ecbd73d619367bea0601a7e46a501b8a011eb1"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 56387,
+          "sha256": "aa9c39a9651639ad71a78bfb15edff73d8a883bcbd8da06f2c0acb1431f99926"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 6868,
+          "sha256": "ad21be42d0bbbbae98ee57400f4810a50ebffef1c911d3533e45868ce00e7fbe"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\03-Empiricism\\README.txt",
+          "bytes": 664,
+          "sha256": "6c428571028d816cfe72384b33873fe0fcf633925da2e31ba68799ab62c616a5"
+        }
+      ]
+    },
+    "notes/Final-Learning-Packages/Philosophy Optional/Philosophy Paper I — Western Philosophy/04-Kant": {
+      "file_count": 8,
+      "total_bytes": 8612321,
+      "aggregate_sha256": "2732227d6fe72fe15a661bc6cf5401ac4ac1f10deb2b26f3da17e8d5b67ed49c",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 540153,
+          "sha256": "49461e78e96358c495b4c23d114bc46adf3e85dbf5370a8816edeaf91fd927ea"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 343119,
+          "sha256": "bde12e40f8402fb5f7a638b7bb3f7057763c2e9d5d2c8679df1e5af32d6d94dd"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2545959,
+          "sha256": "39447c5ce3a978b5720626e298cf924d8af4c629ac8d2967fe33dff204ee6377"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2250836,
+          "sha256": "668136e227f6f2e8a11be88f5ee088638f41d01525cb4bd09cec4c987d484256"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 2865130,
+          "sha256": "3279315cec986342a9e443696e5a0c52acabd29e2bc5adb74cbe3f9f7cb70b13"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 57512,
+          "sha256": "733c1845c0ff934d01549853404f0e63d3f0e771ee2d21d1f75ed3217f1e3a05"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 8960,
+          "sha256": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\04-Kant\\README.txt",
+          "bytes": 652,
+          "sha256": "b8b9caeceba2c21468ebf01fd067e18fcdfb2092d979017f928680285939c13f"
+        }
+      ]
+    },
+    "notes/Final-Learning-Packages/Philosophy Optional/Philosophy Paper I — Western Philosophy/05-Hegel": {
+      "file_count": 8,
+      "total_bytes": 8782875,
+      "aggregate_sha256": "037e14d7b3f19c86bbb674a625c06e9f46fa8e64864633fb721f8dc2c1bf0c94",
+      "files": [
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "bytes": 542378,
+          "sha256": "786028b3a4e819b15c4b00d0aabcbec74391e22c374297880a4d068dc016301c"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "bytes": 348905,
+          "sha256": "0ce11d0dafc3608ff5e7045af3072cd19020fca0e70e89e316a807ce8ac048dc"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "bytes": 2551053,
+          "sha256": "f610c3185fd840cfa4b933a3411490b68fb38d9a6f5f6c5ffb7495b725affb8d"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "bytes": 2240798,
+          "sha256": "338cb855d6ebc4a8c825d6279cade13a4540b5d0ea7c53f426a538b12e6bbdf9"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "bytes": 3031025,
+          "sha256": "169fb039e2b810fa09f74dae0adae2389fd3dc1205627fed1b53a969837006d6"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "bytes": 58313,
+          "sha256": "a3aa90b8e67942eca7fbc61628f1cd583fc835cd0988cade66b57b12a36af150"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "bytes": 9749,
+          "sha256": "e690e5c47f3adb5039a07b906016269d71a93e7b23ff8b4f21bc9c0adc1f61e9"
+        },
+        {
+          "path": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\05-Hegel\\README.txt",
+          "bytes": 654,
+          "sha256": "91628954defe87942f222a5eb61f3758974dc238a35217ef1bc5c1a595a9216c"
+        }
+      ]
+    },
+    "notes/Flow-Learning/Philosophy/Philosophy Optional/01-Plato-and-Aristotle": {
+      "file_count": 3,
+      "total_bytes": 65832,
+      "aggregate_sha256": "ae34cafa62b7330959574dd1083b20aee29ce50843ad7a96b029f3b28625955e",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.pdf",
+          "bytes": 56464,
+          "sha256": "a2af4709a6590ad2f6a886e4748e270dca7f8d6ef5aa38c5123e38bb5e3401af"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\01-Plato-and-Aristotle-Continuous-Flow-Learning.txt",
+          "bytes": 7568,
+          "sha256": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\01-Plato-and-Aristotle\\README.txt",
+          "bytes": 1800,
+          "sha256": "ea29a2670689402793541979e30b3574a37fad84c06ee3cc7f251188a4598c5a"
+        }
+      ]
+    },
+    "notes/Flow-Learning/Philosophy/Philosophy Optional/02-Rationalism": {
+      "file_count": 3,
+      "total_bytes": 66066,
+      "aggregate_sha256": "fcce288afc56425db4af011b1a05b73ffcc3e1b0bda62410e4a6db1ad39f1a45",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.pdf",
+          "bytes": 57030,
+          "sha256": "32cd433e6f0115d3178398b2294a32283a86216ac697717dd2e1efdc77c92083"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\02-Rationalism-Continuous-Flow-Learning.txt",
+          "bytes": 7284,
+          "sha256": "25bfee2a7ca6a1517d50386f51796e4a58dd9c96edff4cf827de93c7c5dccc81"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\02-Rationalism\\README.txt",
+          "bytes": 1752,
+          "sha256": "e0ec3003fb7e6bc10ccbc5ce067f62b93104182e735d9b46fb4ed4bbbaaaa1c7"
+        }
+      ]
+    },
+    "notes/Flow-Learning/Philosophy/Philosophy Optional/03-Empiricism": {
+      "file_count": 3,
+      "total_bytes": 65001,
+      "aggregate_sha256": "f04a4b5303b22f0c98a406b7d4bcecb1d6b07d96e56be9d4d61c070db8043f5e",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism\\03-Empiricism-Continuous-Flow-Learning.pdf",
+          "bytes": 56387,
+          "sha256": "aa9c39a9651639ad71a78bfb15edff73d8a883bcbd8da06f2c0acb1431f99926"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism\\03-Empiricism-Continuous-Flow-Learning.txt",
+          "bytes": 6868,
+          "sha256": "ad21be42d0bbbbae98ee57400f4810a50ebffef1c911d3533e45868ce00e7fbe"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\03-Empiricism\\README.txt",
+          "bytes": 1746,
+          "sha256": "eec05df3cd6a94453ed7b6b14fab31df713ce4e48f2b26ebab49847527041ffa"
+        }
+      ]
+    },
+    "notes/Flow-Learning/Philosophy/Philosophy Optional/04-Kant": {
+      "file_count": 3,
+      "total_bytes": 68182,
+      "aggregate_sha256": "4b5e43384a41777adf2c4dac81a5f8e07161f396fb5935a4d57310c6005c13e1",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant\\04-Kant-Continuous-Flow-Learning.pdf",
+          "bytes": 57512,
+          "sha256": "733c1845c0ff934d01549853404f0e63d3f0e771ee2d21d1f75ed3217f1e3a05"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant\\04-Kant-Continuous-Flow-Learning.txt",
+          "bytes": 8960,
+          "sha256": "b071912f1d6c6c31c4514709b73b81ba3cf4ccdd72ee51c9cb3a14ee4cc6ef00"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\04-Kant\\README.txt",
+          "bytes": 1710,
+          "sha256": "e0890663d2d4c7e3f7f52bbbe527fdb3bbd4a183c371e4c0e31c033a5d4841ea"
+        }
+      ]
+    },
+    "notes/Flow-Learning/Philosophy/Philosophy Optional/05-Hegel": {
+      "file_count": 3,
+      "total_bytes": 69778,
+      "aggregate_sha256": "99e549d5500c42a6144e562902b2fa43e6838b269079e963516042e248f177e0",
+      "files": [
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel\\05-Hegel-Continuous-Flow-Learning.pdf",
+          "bytes": 58313,
+          "sha256": "a3aa90b8e67942eca7fbc61628f1cd583fc835cd0988cade66b57b12a36af150"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel\\05-Hegel-Continuous-Flow-Learning.txt",
+          "bytes": 9749,
+          "sha256": "e690e5c47f3adb5039a07b906016269d71a93e7b23ff8b4f21bc9c0adc1f61e9"
+        },
+        {
+          "path": "notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\05-Hegel\\README.txt",
+          "bytes": 1716,
+          "sha256": "9890b545e6c991612296a69c60bff93df8c31f39773d091bfb5216e34bfe821d"
+        }
+      ]
+    }
+  },
+  "git_status_snapshot": [
+    " M AGENTS.md",
+    " M AGENT_MEMORY.md",
+    " M EXPORT-PDF-COMMAND-INDEX.md",
+    " M EXPORT-PDF-STATUS.json",
+    " M LEARNING-SESSION-PREFERENCES.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/README.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/ascii-master.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/build-audit.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/editable/topic-spec.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/master.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/poster.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/preservation-hashes.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/previews/contact-sheet-01.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/previews/master-overview.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/previews/page-001.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/previews/page-002.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/previews/page-003.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/tiled.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-01/continuous-at-a-glance-english-first-g14/validation-report.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/README.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/build-audit.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/editable/topic-spec.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/master.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/poster.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/preservation-hashes.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/previews/contact-sheet-01.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/previews/master-overview.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/previews/page-001.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/previews/page-002.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/previews/page-003.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/tiled.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-02/continuous-at-a-glance-english-first-g13/validation-report.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/README.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/build-audit.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/editable/topic-spec.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/master.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/poster.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/preservation-hashes.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/previews/contact-sheet-01.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/previews/master-overview.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/previews/page-001.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/previews/page-002.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/previews/page-003.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/previews/page-004.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/tiled.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-03/continuous-at-a-glance-english-first-g13/validation-report.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/README.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/build-audit.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/editable/topic-spec.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/master.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/poster.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/preservation-hashes.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/previews/contact-sheet-01.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/previews/master-overview.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/previews/page-001.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/previews/page-002.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/previews/page-003.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/tiled.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-04/continuous-at-a-glance-english-first-g13/validation-report.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/README.txt",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/build-audit.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/editable/topic-spec.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/master.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/poster.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/preservation-hashes.json",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/previews/contact-sheet-01.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/previews/master-overview.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/previews/page-001.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/previews/page-002.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/previews/page-003.png",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/tiled.pdf",
+    " M notes/Philosophy/flowcharts/philosophy-paper-i-indian-philosophy-05/continuous-at-a-glance-english-first-g13/validation-report.txt",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/notes/philosophy-paper-i-indian-philosophy-01_Learning-Session_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/notes/philosophy-paper-i-indian-philosophy-02_Learning-Session_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/notes/philosophy-paper-i-indian-philosophy-03_Learning-Session_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/notes/philosophy-paper-i-indian-philosophy-04_Learning-Session_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/notes/philosophy-paper-i-indian-philosophy-05_Learning-Session_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/workbooks/philosophy-paper-i-indian-philosophy-01_Solved-Workbook_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/workbooks/philosophy-paper-i-indian-philosophy-02_Solved-Workbook_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/workbooks/philosophy-paper-i-indian-philosophy-03_Solved-Workbook_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/workbooks/philosophy-paper-i-indian-philosophy-04_Solved-Workbook_2026-08-25.pdf",
+    " M notes/Philosophy/learning-session-v2/paper-i-indian-philosophy/workbooks/philosophy-paper-i-indian-philosophy-05_Solved-Workbook_2026-08-25.pdf",
+    " M tools/generate_export_command_index.py",
+    " M tools/generate_learning_session_command_indexes.py",
+    " M tools/markdown_learning_pdf.py",
+    " M upsc-ai-kit/knowledge/Ancient-Indian-History/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/CSAT/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Disaster-Management/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Economy/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Environment-and-Ecology/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Essay/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Ethics/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Geography/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Governance/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Indian-Art-and-Culture/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Indian-Society/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Internal-Security/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/International-Relations/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Medieval-Indian-History/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Modern-Indian-History/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Philosophy/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-i-indian-philosophy/philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+    " M upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-i-indian-philosophy/philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+    " M upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-i-indian-philosophy/philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+    " M upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-i-indian-philosophy/philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+    " M upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-i-indian-philosophy/philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+    " M upsc-ai-kit/knowledge/Political-Theory/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Polity/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Polity/advanced/48_Ministries-Departments-and-Central-Secretariat.md",
+    " M upsc-ai-kit/knowledge/Polity/advanced/49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
+    " M upsc-ai-kit/knowledge/Polity/basic/Constitutional-Interpretation-Doctrines.md",
+    " M upsc-ai-kit/knowledge/Polity/basic/Lok-Adalats-and-Other-Courts.md",
+    " M upsc-ai-kit/knowledge/Polity/basic/NCRWC-and-Working-of-the-Constitution.md",
+    " M upsc-ai-kit/knowledge/Polity/basic/Special-Provisions-Relating-to-Certain-Classes.md",
+    " M upsc-ai-kit/knowledge/Qualifying-English/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Qualifying-Hindi/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/STUDY-INDEX.md",
+    " M upsc-ai-kit/knowledge/STUDY-SCHEDULE-CHECKLIST.md",
+    " M upsc-ai-kit/knowledge/STUDY-TIMETABLE.md",
+    " M upsc-ai-kit/knowledge/Science-and-Technology/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/Social-Justice/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/knowledge/World-History/LEARNING-SESSION-COMMAND-INDEX.md",
+    " M upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+    " M upsc-ai-kit/manifests/v2/philosophy--paper-i-indian-philosophy-graphical-specs/philosophy-paper-i-indian-philosophy-01-g14.json",
+    " M upsc-ai-kit/manifests/v2/philosophy--paper-i-indian-philosophy-graphical-specs/philosophy-paper-i-indian-philosophy-02-g13.json",
+    " M upsc-ai-kit/manifests/v2/philosophy--paper-i-indian-philosophy-graphical-specs/philosophy-paper-i-indian-philosophy-03-g13.json",
+    " M upsc-ai-kit/manifests/v2/philosophy--paper-i-indian-philosophy-graphical-specs/philosophy-paper-i-indian-philosophy-04-g13.json",
+    " M upsc-ai-kit/manifests/v2/philosophy--paper-i-indian-philosophy-graphical-specs/philosophy-paper-i-indian-philosophy-05-g13.json",
+    " M upsc-ai-kit/skills/study/SKILL.md",
+    " M upsc-ai-kit/tools/build_study_index.py",
+    "?? .agent-scratch/",
+    "?? .copilot-polity-flowchart-audit.txt",
+    "?? .polity-case-year-contact-review.png",
+    "?? UPSC-PROGRESS-TRACKER.md",
+    "?? V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "?? _fix_topic06_session_rotation.py",
+    "?? _gen_topic06_visuals.py",
+    "?? _gen_topic06_workbook_assemble.py",
+    "?? _gen_topic06_workbook_mcqs.py",
+    "?? _topic40_sources/",
+    "?? extra/",
+    "?? instructions/",
+    "?? notes/Ancient-Indian-History/flowcharts/",
+    "?? notes/Ancient-Indian-History/learning-session-v2/",
+    "?? notes/Easy-Learning/",
+    "?? notes/Final-Learning-Packages/",
+    "?? notes/Flow-Learning/",
+    "?? notes/Geography/25_India-Cold-Desert-and-Poles_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Geography/25_India-Cold-Desert-and-Poles_Solved-Workbook_2026-08-19.pdf",
+    "?? notes/Geography/26_World-Population-and-Demographic-Transition_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Geography/26_World-Population-and-Demographic-Transition_Solved-Workbook_2026-08-19.pdf",
+    "?? notes/Geography/27_Migration-Theories-and-Patterns-India_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Geography/27_Migration-Theories-and-Patterns-India_Solved-Workbook_2026-08-19.pdf",
+    "?? notes/Geography/28_Human-Settlements-and-Urbanisation_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Geography/28_Human-Settlements-and-Urbanisation_Solved-Workbook_2026-08-19.pdf",
+    "?? notes/Geography/29_Regional-Development-and-Five-Year-Plans_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Geography/29_Regional-Development-and-Five-Year-Plans_Solved-Workbook_2026-08-19.pdf",
+    "?? notes/Geography/30_Primary-Economic-Activities-Agriculture_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Geography/30_Primary-Economic-Activities-Agriculture_Solved-Workbook_2026-08-19.pdf",
+    "?? notes/Geography/31_Mineral-Energy-Resources-World-and-India_Complete-Topic-Package_2026-08-20.pdf",
+    "?? notes/Geography/31_Mineral-Energy-Resources-World-and-India_Solved-Workbook_2026-08-20.pdf",
+    "?? notes/Geography/32_Industries-and-Industrial-Regions_Complete-Topic-Package_2026-08-20.pdf",
+    "?? notes/Geography/32_Industries-and-Industrial-Regions_Solved-Workbook_2026-08-20.pdf",
+    "?? notes/Geography/assets/25_India-Cold-Desert-and-Poles/",
+    "?? notes/Geography/assets/26_World-Population-and-Demographic-Transition/",
+    "?? notes/Geography/assets/27_Migration-Theories-and-Patterns-India/",
+    "?? notes/Geography/assets/28_Human-Settlements-and-Urbanisation/",
+    "?? notes/Geography/assets/29_Regional-Development-and-Five-Year-Plans/",
+    "?? notes/Geography/assets/30_Primary-Economic-Activities-Agriculture/",
+    "?? notes/Geography/assets/31_Mineral-Energy-Resources-World-and-India/",
+    "?? notes/Geography/assets/32_Industries-and-Industrial-Regions/",
+    "?? notes/Geography/flowcharts/",
+    "?? notes/Geography/learning-session-v2/",
+    "?? notes/Learner-v2-Refreshed/",
+    "?? notes/Modern-Indian-History/04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Complete-Learning-Session_2026-08-19.pdf",
+    "?? notes/Modern-Indian-History/04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Premium-Solved-PYQ-Workbook_2026-08-19.pdf",
+    "?? notes/Modern-Indian-History/05_British-Territorial-Expansion-Mysore-Marathas-Sikhs-Subsidiary-Alliance-Lapse_Complete-Learning-Session_2026-08-19.pdf",
+    "?? notes/Modern-Indian-History/05_British-Territorial-Expansion-Mysore-Marathas-Sikhs-Subsidiary-Alliance-Lapse_Premium-Solved-PYQ-Workbook_2026-08-19.pdf",
+    "?? notes/Modern-Indian-History/06_Structure-of-Government-and-Constitutional-Development-1757-1858_Complete-Learning-Session_2026-08-19.pdf",
+    "?? notes/Modern-Indian-History/06_Structure-of-Government-and-Constitutional-Development-1757-1858_Premium-Solved-PYQ-Workbook_2026-08-19.pdf",
+    "?? notes/Modern-Indian-History/07_Economic-Impact-of-British-Rule-Drain-Deindustrialisation-Land-Revenue-Famines_Complete-Learning-Session_2026-08-20.pdf",
+    "?? notes/Modern-Indian-History/07_Economic-Impact-of-British-Rule-Drain-Deindustrialisation-Land-Revenue-Famines_Premium-Solved-PYQ-Workbook_2026-08-20.pdf",
+    "?? notes/Modern-Indian-History/_pdf_qa_check/",
+    "?? notes/Modern-Indian-History/assets/04_British-Conquest-of-Bengal/",
+    "?? notes/Modern-Indian-History/assets/05_British-Territorial-Expansion/",
+    "?? notes/Modern-Indian-History/assets/06_Constitutional-Development-1757-1858/",
+    "?? notes/Modern-Indian-History/assets/07_Economic-Impact-of-British-Rule/",
+    "?? notes/Philosophy/flowcharts/philosophy-paper-ii-socio-political-philosophy-01/",
+    "?? notes/Philosophy/learning-session-v2/paper-i-western-philosophy/",
+    "?? notes/Philosophy/learning-session-v2/paper-ii-socio-political-philosophy/",
+    "?? notes/Polity/34_NITI-Aayog_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/34_NITI-Aayog_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/35_NHRC-and-SHRC_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/35_NHRC-and-SHRC_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/36_CIC-and-SIC_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/36_CIC-and-SIC_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/37_CVC-and-CBI_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/37_CVC-and-CBI_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/38_Lokpal-and-Lokayuktas_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/38_Lokpal-and-Lokayuktas_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/39_Cooperative-Societies_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/39_Cooperative-Societies_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/40_Official-Language_Complete-Topic-Package_2026-08-19.pdf",
+    "?? notes/Polity/40_Official-Language_Solved-Practice-Workbook_2026-08-19.pdf",
+    "?? notes/Polity/41_Public-Services_Complete-Topic-Package_2026-08-20.pdf",
+    "?? notes/Polity/41_Public-Services_Solved-Practice-Workbook_2026-08-20.pdf",
+    "?? notes/Polity/42_Anti-Defection-Law_Complete-Topic-Package_2026-08-20.pdf",
+    "?? notes/Polity/42_Anti-Defection-Law_Solved-Practice-Workbook_2026-08-20.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/47_Comparative-Constitutional-Design_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/48_Ministries-Departments-and-Central-Secretariat_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/49_Regulatory-State-and-Quasi-Judicial-Institutions_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/50_Concept-of-the-Constitution_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/51_Rights-and-Liabilities-of-the-Government_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/52_NCRWC-and-Working-of-the-Constitution_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/53_Special-Provisions-Relating-to-Certain-Classes_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/54_Lok-Adalats-and-Other-Courts_Session-Level.pdf",
+    "?? notes/Polity/Session-Level-Topic-PDFs/55_Constitutional-Interpretation-Doctrines_Session-Level.pdf",
+    "?? notes/Polity/Topic-PDFs/47_Comparative-Constitutional-Design_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/48_Ministries-Departments-and-Central-Secretariat_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/49_Regulatory-State-and-Quasi-Judicial-Institutions_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/50_Concept-of-the-Constitution_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/51_Rights-and-Liabilities-of-the-Government_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/52_NCRWC-and-Working-of-the-Constitution_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/53_Special-Provisions-Relating-to-Certain-Classes_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/54_Lok-Adalats-and-Other-Courts_Deep-Learning.pdf",
+    "?? notes/Polity/Topic-PDFs/55_Constitutional-Interpretation-Doctrines_Deep-Learning.pdf",
+    "?? notes/Polity/assets/16_PM-and-Council-of-Ministers/",
+    "?? notes/Polity/assets/17_Parliament/",
+    "?? notes/Polity/assets/18_Supreme-Court/",
+    "?? notes/Polity/assets/19_Governor-CM-State-Council/",
+    "?? notes/Polity/assets/20_State-Legislature/",
+    "?? notes/Polity/assets/21_High-Court-and-Subordinate-Courts/",
+    "?? notes/Polity/assets/22_Special-Provisions/",
+    "?? notes/Polity/assets/23_Panchayati-Raj/",
+    "?? notes/Polity/assets/24_Municipalities/",
+    "?? notes/Polity/assets/25_Union-Territories/",
+    "?? notes/Polity/assets/26_Scheduled-and-Tribal-Areas/",
+    "?? notes/Polity/assets/27_Election-Commission/",
+    "?? notes/Polity/assets/28_UPSC-and-SPSC/",
+    "?? notes/Polity/assets/29_Finance-Commission/",
+    "?? notes/Polity/assets/30_GST-Council/",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/01_why_do_these_commissions_exist.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/02_historical_evolution_officer_combined_commission_spe.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/03_shared_constitutional_design_of_articles_338_338a_an.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/04_the_six_common_duties.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/05_civil_court_powers_exact_scope_and_exact_list.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/06_reporting_constitutional_accountability_not_a_privat.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/07_consultation_on_major_policy_matters.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/08_ncsc_article_338_and_the_sc_safeguard_domain.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/09_ncst_article_338a_and_the_distinctive_tribal_domain.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/10_ncbc_from_statutory_list_adviser_to_constitutional_s.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/11_articles_341_and_342_sc_and_st_list_mechanics.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/12_article_342a_and_article_366_26c_central_and_state_s.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/13_the_amendment_and_case_trajectory.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/14_overlap_without_institutional_conflation.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/15_independence_accountability_and_practical_limits.png",
+    "?? notes/Polity/assets/31_National-Commissions-SC-ST-BC/16_answer_writing_architecture.png",
+    "?? notes/Polity/assets/32_CAG/",
+    "?? notes/Polity/assets/33_Attorney-General-and-Advocate-General/",
+    "?? notes/Polity/assets/34_NITI-Aayog/",
+    "?? notes/Polity/assets/35_NHRC-and-SHRC/",
+    "?? notes/Polity/assets/36_CIC-and-SIC/",
+    "?? notes/Polity/assets/37_CVC-and-CBI/",
+    "?? notes/Polity/assets/38_Lokpal-and-Lokayuktas/",
+    "?? notes/Polity/assets/39_Cooperative-Societies/",
+    "?? notes/Polity/assets/40_Official-Language/",
+    "?? notes/Polity/assets/41_Public-Services/",
+    "?? notes/Polity/assets/42_Anti-Defection-Law/",
+    "?? notes/Polity/assets/43_Political-Parties/",
+    "?? notes/Polity/assets/44_Pressure-Groups/",
+    "?? notes/Polity/assets/45_National-Integration-and-Foreign-Policy/",
+    "?? notes/Polity/assets/46_Administrative-Tribunals/",
+    "?? notes/Polity/assets/47_Comparative-Constitutional-Design/",
+    "?? notes/Polity/assets/48_Ministries-Departments-and-Central-Secretariat/",
+    "?? notes/Polity/assets/49_Regulatory-State-and-Quasi-Judicial-Institutions/",
+    "?? notes/Polity/assets/50_Concept-of-the-Constitution/",
+    "?? notes/Polity/assets/51_Rights-and-Liabilities-of-the-Government/",
+    "?? notes/Polity/assets/52_NCRWC-and-Working-of-the-Constitution/",
+    "?? notes/Polity/assets/53_Special-Provisions-Relating-to-Certain-Classes/",
+    "?? notes/Polity/assets/54_Lok-Adalats-and-Other-Courts/",
+    "?? notes/Polity/assets/55_Constitutional-Interpretation-Doctrines/",
+    "?? notes/Polity/flowcharts/",
+    "?? notes/Polity/learning-session-v2/",
+    "?? tools/_tipcheck.py",
+    "?? tools/_tipcheck2.py",
+    "?? tools/_tipcheck3.py",
+    "?? tools/_wraplen_check.py",
+    "?? tools/build_carvaka_graphical_specs.py",
+    "?? tools/build_polity01.py",
+    "?? tools/carvaka_flowchart.py",
+    "?? tools/deep_content_quality_overrides.json",
+    "?? tools/easy_learning_pdf.py",
+    "?? tools/export_flow_learning_library.py",
+    "?? tools/export_four_item_library.py",
+    "?? tools/finalize_polity_23_27_batch.py",
+    "?? tools/finalize_polity_28_32_batch.py",
+    "?? tools/finalize_polity_33_37_batch.py",
+    "?? tools/finalize_polity_38_42_batch.py",
+    "?? tools/finalize_polity_43_47_batch.py",
+    "?? tools/finalize_polity_48_51_batch.py",
+    "?? tools/finalize_polity_52_55_batch.py",
+    "?? tools/finalize_v2_topic.py",
+    "?? tools/generate_philosophy_socio_political_v2.py",
+    "?? tools/generate_philosophy_western_empiricism_v2.py",
+    "?? tools/generate_philosophy_western_hegel_v2.py",
+    "?? tools/generate_philosophy_western_kant_v2.py",
+    "?? tools/generate_philosophy_western_plato_aristotle_v2.py",
+    "?? tools/generate_philosophy_western_rationalism_v2.py",
+    "?? tools/generate_polity_13_17_sequential.py",
+    "?? tools/generate_polity_18_22_sequential.py",
+    "?? tools/generate_polity_23_27_sequential.py",
+    "?? tools/generate_polity_28_32_sequential.py",
+    "?? tools/generate_polity_33_37_sequential.py",
+    "?? tools/generate_polity_38_42_sequential.py",
+    "?? tools/generate_polity_43_47_sequential.py",
+    "?? tools/generate_polity_48_51_sequential.py",
+    "?? tools/generate_polity_52_55_sequential.py",
+    "?? tools/generate_v2_section_indexes.py",
+    "?? tools/generate_v2_topic_command_catalog.py",
+    "?? tools/notions_style_ascii_master.py",
+    "?? tools/philosophy_indian_religion_deep_quality_repair.py",
+    "?? tools/philosophy_indian_religion_rendered_visual_reaudit.py",
+    "?? tools/philosophy_indian_religion_reviewed_content.py",
+    "?? tools/philosophy_western_empiricism_v2_spec.py",
+    "?? tools/philosophy_western_hegel_v2_spec.py",
+    "?? tools/philosophy_western_kant_v2_spec.py",
+    "?? tools/philosophy_western_rationalism_v2_spec.py",
+    "?? tools/plan_v2_topic_batch.py",
+    "?? tools/polity_answer_line_visual_repair.py",
+    "?? tools/polity_flowchart_case_years.py",
+    "?? tools/refresh_all_v2_learning_sessions.py",
+    "?? tools/refresh_all_v2_overrides.json",
+    "?? tools/repair_philosophy_indian_pyq_wording.py",
+    "?? tools/repair_philosophy_religion_mcq_rotation.py",
+    "?? tools/repair_philosophy_residual_semantics.py",
+    "?? tools/repair_polity_flowchart_case_years.py",
+    "?? tools/retrofit_v2_core_first.py",
+    "?? tools/sync_philosophy_indian_religion_clean_copies.py",
+    "?? tools/test_carvaka_flowchart.py",
+    "?? tools/test_easy_learning_pdf.py",
+    "?? tools/test_export_flow_learning_library.py",
+    "?? tools/test_export_four_item_library.py",
+    "?? tools/test_philosophy_indian_religion_deep_quality_repair.py",
+    "?? tools/test_plan_v2_topic_batch.py",
+    "?? tools/test_polity_answer_line_visual_repair.py",
+    "?? tools/test_polity_flowchart_case_years.py",
+    "?? tools/test_refresh_all_v2_learning_sessions.py",
+    "?? tools/test_retrofit_v2_core_first.py",
+    "?? tools/test_v2_export_foundation.py",
+    "?? tools/test_v2_section_indexes.py",
+    "?? tools/test_v2_topic_command_catalog.py",
+    "?? tools/test_validate_philosophy_indian_religion_rendered_visual_reaudit.py",
+    "?? tools/test_validate_polity_answer_line_visual_repair.py",
+    "?? tools/validate_philosophy_indian_religion_deep_quality_repair.py",
+    "?? tools/validate_philosophy_indian_religion_rendered_visual_reaudit.py",
+    "?? tools/validate_polity_answer_line_visual_repair.py",
+    "?? tools/validate_v2_export.py",
+    "?? upsc-ai-kit/knowledge/Ancient-Indian-History/learning-sessions/v2/",
+    "?? upsc-ai-kit/knowledge/Easy-Learning/",
+    "?? upsc-ai-kit/knowledge/Geography/25_India-Cold-Desert-and-Poles_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/26_World-Population-and-Demographic-Transition_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/27_Migration-Theories-and-Patterns-India_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/28_Human-Settlements-and-Urbanisation_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/29_Regional-Development-and-Five-Year-Plans_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/30_Primary-Economic-Activities-Agriculture_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/31_Mineral-Energy-Resources-World-and-India_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/32_Industries-and-Industrial-Regions_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Geography/learning-sessions/",
+    "?? upsc-ai-kit/knowledge/Learner-v2-Refreshed/",
+    "?? upsc-ai-kit/knowledge/Modern-Indian-History/04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Modern-Indian-History/05_British-Territorial-Expansion-Mysore-Marathas-Sikhs-Subsidiary-Alliance-Lapse_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Modern-Indian-History/06_Structure-of-Government-and-Constitutional-Development-1757-1858_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Modern-Indian-History/07_Economic-Impact-of-British-Rule-Drain-Deindustrialisation-Land-Revenue-Famines_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Modern-Indian-History/learning-sessions/",
+    "?? upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-ii-socio-political-philosophy/",
+    "?? upsc-ai-kit/knowledge/Polity/34_NITI-Aayog_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/35_NHRC-and-SHRC_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/36_CIC-and-SIC_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/37_CVC-and-CBI_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/38_Lokpal-and-Lokayuktas_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/39_Cooperative-Societies_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/40_Official-Language_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/41_Public-Services_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/42_Anti-Defection-Law_Complete-Topic-Package.md",
+    "?? upsc-ai-kit/knowledge/Polity/Terminal-Learning-Sessions/",
+    "?? upsc-ai-kit/knowledge/Polity/advanced/50_Concept-of-the-Constitution.md",
+    "?? upsc-ai-kit/knowledge/Polity/advanced/51_Rights-and-Liabilities-of-the-Government.md",
+    "?? upsc-ai-kit/knowledge/Polity/advanced/52_NCRWC-and-Working-of-the-Constitution.md",
+    "?? upsc-ai-kit/knowledge/Polity/advanced/53_Special-Provisions-Relating-to-Certain-Classes.md",
+    "?? upsc-ai-kit/knowledge/Polity/advanced/54_Lok-Adalats-and-Other-Courts.md",
+    "?? upsc-ai-kit/knowledge/Polity/advanced/55_Constitutional-Interpretation-Doctrines.md",
+    "?? upsc-ai-kit/knowledge/Polity/learning-sessions/",
+    "?? upsc-ai-kit/manifests/exports/all-completed-topics-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/all-completed-topics-flow-learning-2026-08-25-baseline-84.json",
+    "?? upsc-ai-kit/manifests/exports/all-completed-topics-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/easy-learning-citizenship-2026-08-24-preview/",
+    "?? upsc-ai-kit/manifests/exports/easy-learning-citizenship-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/easy-learning-fundamental-rights-2026-08-24-preview/",
+    "?? upsc-ai-kit/manifests/exports/easy-learning-fundamental-rights-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-23-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-01-g2-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-01-g2.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-02-g2-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-02-g2.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-03-g2-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-03-g2.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-04-g2-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-04-g2.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-05-g2-validation.json",
+    "?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-26-philosophy-western-05-g2.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-deep-quality-repair-2026-08-25-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-deep-quality-repair-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-deep-quality-repair-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-indian-religion-rendered-visual-reaudit-2026-08-26-visual-inventory.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-01-flow-learning-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-record.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-02-flow-learning-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-02-learner-v2-g2-2026-08-26-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-02-learner-v2-g2-2026-08-26-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-02-learner-v2-g2-2026-08-26-record.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-02-learner-v2-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-03-flow-learning-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-03-learner-v2-g2-2026-08-26-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-03-learner-v2-g2-2026-08-26-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-03-learner-v2-g2-2026-08-26-record.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-03-learner-v2-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-04-flow-learning-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-record.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-05-flow-learning-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-05-learner-v2-g2-2026-08-26-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-05-learner-v2-g2-2026-08-26-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-05-learner-v2-g2-2026-08-26-record.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-i-western-philosophy-05-learner-v2-g2-2026-08-26-validation.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g2-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g2-2026-08-25-record.json",
+    "?? upsc-ai-kit/manifests/exports/philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g2-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-17-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-22-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-27-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-32-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-37-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-42-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-47-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-51-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-55-completion-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-01-55-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-08-12-sequential-batch-2026-08-24-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-08-12-sequential-batch-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-08-12-sequential-batch-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-08-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-08-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-08-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-08-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-09-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-09-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-09-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-09-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-10-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-10-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-10-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-10-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-11-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-11-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-11-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-11-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-12-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-12-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-12-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-12-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-13-17-sequential-batch-2026-08-24-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-13-17-sequential-batch-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-13-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-13-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-13-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-13-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-14-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-14-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-14-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-14-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-15-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-15-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-15-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-15-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-16-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-16-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-16-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-16-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-17-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-17-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-17-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-17-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-22-sequential-batch-2026-08-24-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-18-22-sequential-batch-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-22-sequential-batch-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-18-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-19-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-19-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-19-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-19-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-19-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-20-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-20-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-20-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-20-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-20-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-21-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-21-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-21-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-21-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-21-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-22-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-22-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-22-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-22-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-22-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-27-sequential-batch-2026-08-24-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-23-27-sequential-batch-2026-08-24-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-27-sequential-batch-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-23-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-24-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-24-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-24-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-24-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-24-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-25-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-25-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-25-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-25-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-25-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-26-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-26-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-26-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-26-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-26-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-27-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-27-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-27-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-27-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-27-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-32-sequential-batch-2026-08-24-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-28-32-sequential-batch-2026-08-24-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-32-sequential-batch-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-28-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-29-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-29-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-29-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-29-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-29-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-30-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-30-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-30-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-30-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-30-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-31-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-31-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-31-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-31-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-31-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-32-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-32-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-32-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-32-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-32-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-37-sequential-batch-2026-08-24-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-33-37-sequential-batch-2026-08-24-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-37-sequential-batch-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-33-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-34-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-34-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-34-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-34-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-34-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-35-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-35-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-35-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-35-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-35-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-36-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-36-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-36-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-36-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-36-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-37-flow-learning-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-37-new-topic-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-37-source-pyq-current-audit-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-37-staged-records-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-37-validation-2026-08-24.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-42-sequential-batch-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-38-42-sequential-batch-2026-08-25-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-42-sequential-batch-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-38-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-39-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-39-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-39-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-39-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-39-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-40-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-40-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-40-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-40-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-40-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-41-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-41-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-41-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-41-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-41-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-42-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-42-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-42-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-42-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-42-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-47-sequential-batch-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-43-47-sequential-batch-2026-08-25-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-47-sequential-batch-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-43-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-44-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-44-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-44-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-44-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-44-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-45-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-45-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-45-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-45-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-45-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-46-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-46-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-46-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-46-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-46-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-47-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-47-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-47-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-47-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-47-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-51-sequential-batch-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-48-51-sequential-batch-2026-08-25-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-51-sequential-batch-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-48-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-49-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-49-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-49-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-49-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-49-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-50-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-50-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-50-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-50-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-50-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-51-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-51-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-51-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-51-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-51-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-55-sequential-batch-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-52-55-sequential-batch-2026-08-25-state.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-55-sequential-batch-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-52-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-53-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-53-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-53-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-53-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-53-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-54-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-54-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-54-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-54-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-54-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-55-flow-learning-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-55-new-topic-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-55-source-pyq-current-audit-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-55-staged-records-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-55-validation-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/exports/polity-answer-line-visual-boundary-repair-2026-08-25-baseline.json",
+    "?? upsc-ai-kit/manifests/exports/polity-answer-line-visual-boundary-repair-2026-08-25-changed-files.txt",
+    "?? upsc-ai-kit/manifests/exports/polity-answer-line-visual-boundary-repair-2026-08-25-final-package-hashes.json",
+    "?? upsc-ai-kit/manifests/exports/polity-answer-line-visual-boundary-repair-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-flowchart-case-year-2026-08-25-validation.json",
+    "?? upsc-ai-kit/manifests/exports/polity-flowchart-case-year-repair-2026-08-24-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/ancient-indian-history-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/geography-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-i-western-philosophy-02-ascii-2026-08-26.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-i-western-philosophy-03-ascii-2026-08-26.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-i-western-philosophy-04-ascii-2026-08-26.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-i-western-philosophy-05-ascii-2026-08-26.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-i-western-philosophy-ascii-2026-08-26.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy--paper-ii-socio-political-philosophy-ascii-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/philosophy-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-13-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-14-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-15-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-16-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-17-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-18-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-19-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-20-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-2026-08-24-sequential-batch.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-21-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-22-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-23-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-24-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-25-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-26-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-27-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-28-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-29-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-30-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-31-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-32-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-33-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-34-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-35-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-36-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-37-2026-08-24-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-38-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-39-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-40-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-41-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-42-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-43-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-44-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-45-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-46-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-47-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-48-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-49-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-50-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-51-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-52-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-53-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-54-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-55-2026-08-25-sequential.json",
+    "?? upsc-ai-kit/manifests/retrofits/authored-notions-style-ascii-master-2026-08-23-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/authored-notions-style-ascii-master-2026-08-23-staged-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/authored-notions-style-ascii-master-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/carvaka-graphical-pilot-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/carvaka-graphical-specs/",
+    "?? upsc-ai-kit/manifests/retrofits/carvaka-graphical-standard-2026-08-23-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/carvaka-graphical-standard-2026-08-23-staged-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/carvaka-graphical-standard-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/continuous-core-first-retrofit-2026-08-22-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/continuous-core-first-retrofit-2026-08-22-stage-order.json",
+    "?? upsc-ai-kit/manifests/retrofits/continuous-core-first-retrofit-2026-08-22-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/continuous-core-first-retrofit-2026-08-22.json",
+    "?? upsc-ai-kit/manifests/retrofits/deep-content-quality-audit-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/deep-content-quality-repair-2026-08-23-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/deep-content-quality-repair-2026-08-23-staged-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/deep-content-quality-repair-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/learner-v2-refreshed-2026-08-22-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/learner-v2-refreshed-2026-08-22-pilot-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/learner-v2-refreshed-2026-08-22-staged-pilot-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/learner-v2-refreshed-2026-08-22-staged-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/learner-v2-refreshed-2026-08-22-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/learner-v2-refreshed-2026-08-22.json",
+    "?? upsc-ai-kit/manifests/retrofits/notions-style-ascii-master-design-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/notions-style-ascii-master-repair-2026-08-23-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/notions-style-ascii-master-repair-2026-08-23-geography-04-correction-staged-record.json",
+    "?? upsc-ai-kit/manifests/retrofits/notions-style-ascii-master-repair-2026-08-23-geography-04-correction-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/notions-style-ascii-master-repair-2026-08-23-staged-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/notions-style-ascii-master-repair-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/retrofits/philosophy-indian-pyq-wording-repair-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/retrofits/philosophy-indian-religion-reviewed-semantic-map-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/retrofits/philosophy-religion-mcq-rotation-reviewed-map-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/retrofits/polity-answer-line-reviewed-map-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/retrofits/polity-answer-line-visual-boundary-overrides-2026-08-25.json",
+    "?? upsc-ai-kit/manifests/retrofits/semantic-aid-quality-audit-2026-08-23.json",
+    "?? upsc-ai-kit/manifests/retrofits/semantic-aid-repair-2026-08-23-changed-files.txt",
+    "?? upsc-ai-kit/manifests/retrofits/semantic-aid-repair-2026-08-23-staged-records.json",
+    "?? upsc-ai-kit/manifests/retrofits/semantic-aid-repair-2026-08-23-validation.json",
+    "?? upsc-ai-kit/manifests/v2/README.md",
+    "?? upsc-ai-kit/manifests/v2/ancient-indian-history--subject-wide-syllabus.json",
+    "?? upsc-ai-kit/manifests/v2/geography--human-economic-geography-pilot.json",
+    "?? upsc-ai-kit/manifests/v2/geography--part-a-physical-geography.json",
+    "?? upsc-ai-kit/manifests/v2/philosophy--paper-i-western-philosophy-content-specs/",
+    "?? upsc-ai-kit/manifests/v2/philosophy--paper-i-western-philosophy-graphical-specs/",
+    "?? upsc-ai-kit/manifests/v2/philosophy--paper-i-western-philosophy.json",
+    "?? upsc-ai-kit/manifests/v2/philosophy--paper-ii-philosophy-of-religion.json",
+    "?? upsc-ai-kit/manifests/v2/philosophy--paper-ii-socio-political-philosophy-graphical-specs/",
+    "?? upsc-ai-kit/manifests/v2/philosophy--paper-ii-socio-political-philosophy.json",
+    "?? upsc-ai-kit/manifests/v2/polity--subject-wide-syllabus.json",
+    "?? upsc-ai-kit/manifests/v2/section-manifest.schema.json",
+    "?? upsc-ai-kit/manifests/v2/section-manifest.template.json",
+    "?? upsc-ai-kit/manifests/v2/topic-catalog.json",
+    "?? upsc-ai-kit/manifests/v2/topic-catalog.schema.json",
+    "?? upsc-ai-kit/practice/"
+  ],
+  "write_scope": [
+    "Moore-Russell-Early-Wittgenstein topic-06 g2 technical/knowledge/flow outputs",
+    "topic-06 durable generator and specs",
+    "strict validator policy/test",
+    "required shared tracker/catalog/index/report/navigation files",
+    "scoped clean and Philosophy Flow Learning outputs"
+  ],
+  "concurrency_note": "Hashes capture the current shared dirty working tree. Final verification compares prior Western Philosophy generations and source owners without overwriting unrelated work."
+}

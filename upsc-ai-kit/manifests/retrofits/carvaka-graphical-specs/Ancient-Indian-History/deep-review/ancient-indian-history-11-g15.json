@@ -1,0 +1,1063 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-11",
+  "subject": "Ancient-Indian-History",
+  "title": "MAHAJANAPADAS & RISE OF MAGADHA",
+  "short_route": "MAHAJANAPADAS: LONG STATE-FORMATION TRANSITION → SIXTEEN MAHAJANAPADAS: POLITICAL TEXT → MONARCHY AND GANA-SANGHA COMPARED → SECOND URBANISATION: CITY-SYSTEM MECHANISM → AGRARIAN POLITICAL ECONOMY AND → WHY MAGADHA? INTERACTING CAUSAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g15 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-11-deep-review-2026-08-30-g15.json",
+  "ascii_spec_sha256": "4357c751c505f9760c90d9075bfad7624abb0e9e2585458b1a7e001cc6e4a140",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MAHAJANAPADAS: LONG STATE-FORMATION TRANSITION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LONG STATE-FORMATION TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL THRESHOLD KIN COMMUNITY TERRITORIAL BASE LARGE COMPETING STATES",
+          "role": "mechanism"
+        },
+        {
+          "text": "C. 6TH-4TH CENTURIES BCE COMPETITIVE STATE SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "SIXTEEN IS A CONVENTIONAL LIST; STATE FORMATION WAS NEITHER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "JANA → JANAPADA → MAHAJANAPADA → IMPERIAL THRESHOLD kin community territorial base large competing states",
+        "1000-600 BCE changes → c.",
+        "6th-4th centuries BCE competitive state system",
+        "Sixteen is a conventional list; state formation was neither simultaneous nor linear."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "JANA → JANAPADA → MAHAJANAPADA → IMPERIAL THRESHOLD kin community territorial base large competing states Magadhan/Mauryan platform c.",
+            "1000-600 BCE changes → c."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "6th-4th centuries BCE competitive state system",
+            "Sixteen is a conventional list; state formation was neither simultaneous nor linear."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "JANA → JANAPADA → MAHAJANAPADA → IMPERIAL THRESHOLD kin community territorial base large competing states Magadhan/Mauryan platform c.",
+            "1000-600 BCE changes → c."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The mahajanapada (large territorial polity) age was an early-historic system in which larger territorial states, towns, exchange networks and renunciant traditions overlapped across uneven regional chronologies.",
+      "source_references": [
+        "SESSION 1 - CHRONOLOGY",
+        "SESSION 2 - FROM JANA TO JANAPADA TO MAHAJANAPADA",
+        "SESSION 28 - TRANSITION TO EMPIRE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SIXTEEN MAHAJANAPADAS: POLITICAL TEXT MAP",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIXTEEN MAHAJANAPADAS",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL TEXT MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHARA, KAMBOJA",
+          "role": "comparison"
+        },
+        {
+          "text": "UPPER PLAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "KURU, PANCHALA, MATSYA, SURASENA",
+          "role": "primary"
+        },
+        {
+          "text": "CHEDI, AVANTI, VATSA",
+          "role": "outcome"
+        },
+        {
+          "text": "MIDDLE/EAST GANGA",
+          "role": "comparison"
+        },
+        {
+          "text": "KASHI, KOSALA, ANGA, MAGADHA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST: Gandhara, Kamboja",
+        "UPPER PLAIN: Kuru, Panchala, Matsya, Surasena",
+        "CENTRAL/WEST: Chedi, Avanti, Vatsa",
+        "TRANS-VINDHYAN: Assaka",
+        "MIDDLE/EAST GANGA: Kashi, Kosala, Anga, Magadha"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST: Gandhara, Kamboja",
+            "UPPER PLAIN: Kuru, Panchala, Matsya, Surasena",
+            "CENTRAL/WEST: Chedi, Avanti, Vatsa"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRANS-VINDHYAN: Assaka",
+            "MIDDLE/EAST GANGA: Kashi, Kosala, Anga, Magadha",
+            "REPUBLICAN EAST: Vajji, Malla"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "textual lists and placements can vary",
+            "FOUR LEADING MONARCHIES: Magadha, Kosala, Vatsa, Avanti",
+            "Map polity to capital, route and rivalry; do not draw fixed modern borders."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The political map is best remembered as connected corridors—from Gandhara-Kamboja through the upper and middle Ganga systems to Avanti-Chedi and Ashmaka on the Godavari—not as isolated dots.",
+      "source_references": [
+        "SESSION 3 - THE SIXTEEN MAHAJANAPADAS",
+        "SESSION 4 - TEXT MAP",
+        "SESSION 5 - MAJOR MONARCHIES",
+        "SESSION 6 - EASTERN POLITIES",
+        "SESSION 7 - REGIONAL PROFILES",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MONARCHY AND GANA-SANGHA COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MONARCHY AND GANA-SANGHA COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "MONARCHY GANA-SANGHA HEREDITARY/DYNASTIC RAJAN ASSEMBLY OF CHIEFLY LINEAGES COURT",
+          "role": "institution"
+        },
+        {
+          "text": "TWO STATE FORMS",
+          "role": "institution"
+        },
+        {
+          "text": "GANA WAS NOT MODERN DEMOCRACY; MONARCHY WAS NOT AUTOMATIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MONARCHY GANA-SANGHA hereditary/dynastic rajan assembly of chiefly lineages court, officials, organised force deliberation among oligarchic",
+        "elites expanding taxation/territory corporate sovereignty/confederacy village heads link centre/local non-elite, women and dependants excluded",
+        "Two state forms: gana was not modern democracy; monarchy was not automatic progress."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "MONARCHY GANA-SANGHA hereditary/dynastic rajan assembly of chiefly lineages court, officials, organised force deliberation among oligarchic",
+          "Two state forms: gana was not modern democracy; monarchy was not automatic progress.",
+          "elites expanding taxation/territory corporate sovereignty/confederacy village heads link centre/local non-elite, women and dependants excluded"
+        ],
+        [
+          "elites expanding taxation/territory corporate sovereignty/confederacy village heads link centre/local non-elite, women and dependants excluded",
+          "MONARCHY GANA-SANGHA hereditary/dynastic rajan assembly of chiefly lineages court, officials, organised force deliberation among oligarchic",
+          "Two state forms: gana was not modern democracy; monarchy was not automatic progress."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MONARCHY GANA-SANGHA hereditary/dynastic rajan assembly of chiefly lineages court, officials, organised force deliberation among oligarchic",
+            "elites expanding taxation/territory corporate sovereignty/confederacy village heads link centre/local non-elite, women and dependants excluded"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Two state forms: gana was not modern democracy; monarchy was not automatic progress.",
+            "MONARCHY GANA-SANGHA hereditary/dynastic rajan assembly of chiefly lineages court, officials, organised force deliberation among oligarchic"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "elites expanding taxation/territory corporate sovereignty/confederacy village heads link centre/local non-elite, women and dependants excluded",
+            "Two state forms: gana was not modern democracy; monarchy was not automatic progress."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Monarchies concentrated authority in a dynasty and court, whereas gana-sanghas (clan-based oligarchic polities/confederacies) shared it among restricted elite clans; neither form was socially egalitarian.",
+      "source_references": [
+        "SESSION 9 - MONARCHICAL INSTITUTIONS",
+        "SESSION 10 - GANAS AND SANGHAS",
+        "SESSION 11 - MONARCHY VERSUS GANA-SANGHA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SECOND URBANISATION: CITY-SYSTEM MECHANISM",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECOND URBANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "CITY-SYSTEM MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "AGRICULTURAL SURPLUS + EXTRACTION + CRAFTS + ROUTES +",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER PATALIPUTRA",
+          "role": "evidence"
+        },
+        {
+          "text": "NBPW HORIZON + CRAFT QUARTERS + MARKETS + PUNCH-MARKED",
+          "role": "primary"
+        },
+        {
+          "text": "URBANISATION WAS NETWORKED AND UNEVEN; NBPW AND COINS ARE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "agricultural surplus + extraction + crafts + routes + merchant finance",
+        "later Pataliputra",
+        "NBPW horizon + craft quarters + markets + punch-marked coin circulation",
+        "Urbanisation was networked and uneven; NBPW and coins are indicators, not sole causes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "agricultural surplus + extraction + crafts + routes + merchant finance",
+            "later Pataliputra"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "NBPW horizon + craft quarters + markets + punch-marked coin circulation",
+            "Urbanisation was networked and uneven; NBPW and coins are indicators, not sole causes."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "agricultural surplus + extraction + crafts + routes + merchant finance",
+            "later Pataliputra"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The material economy joined village surplus to NBPW towns, craft specialists, gahapati (substantial householders), setthi (wealthy merchant-bankers), punch-marked coins and uneven exchange without displacing local extraction or payments in kind.",
+      "source_references": [
+        "SESSION 12 - SECOND URBANISATION",
+        "SESSION 13 - CITIES AND FORTIFICATIONS",
+        "SESSION 14 - CRAFTS, CORPORATE ORGANISATION, TRADE ROUTES",
+        "SESSION 15 - PUNCH-MARKED COINS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AGRARIAN POLITICAL ECONOMY AND SOCIAL CHANGE",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRARIAN POLITICAL ECONOMY AND SOCIAL CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST CLEARANCE/FIELDS + IRON IN CONTEXT + CATTLE/PLOUGH LABOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET AND TOWN DEMAND GAHAPATI HOUSEHOLD ELITES SETTHI, MERCHANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "VARNA CLAIMS, NEW WEALTH AND SHRAMANA CRITIQUES INTERSECT IN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "forest clearance/fields + iron in context + cattle/plough labour surplus → tax/share → army/officials/forts",
+        "→ market and town demand gahapati household elites setthi, merchants and craft groups",
+        "Varna claims, new wealth and shramana critiques intersect in urbanising society."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "forest clearance/fields + iron in context + cattle/plough labour surplus → tax/share → army/officials/forts",
+            "→ market and town demand gahapati household elites setthi, merchants and craft groups"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Varna claims, new wealth and shramana critiques intersect in urbanising society.",
+            "forest clearance/fields + iron in context + cattle/plough labour surplus → tax/share → army/officials/forts"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "→ market and town demand gahapati household elites setthi, merchants and craft groups",
+            "Varna claims, new wealth and shramana critiques intersect in urbanising society."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Second urbanisation was a regionally uneven interaction of agrarian surplus, fortified towns, NBPW, crafts, exchange and state extraction, not the automatic product of iron or coinage.",
+      "source_references": [
+        "SESSION 16 - AGRICULTURE, IRON, SURPLUS, TAXATION AND SOCIAL CHANGE",
+        "SESSION 17 - STATE, SOCIETY AND THE SHRAMANA SETTING",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WHY MAGADHA? INTERACTING CAUSAL MATRIX",
+      "structural_type": "root-branch",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY MAGADHA? INTERACTING CAUSAL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MAGADHAN ASCENDANCY",
+          "role": "outcome"
+        },
+        {
+          "text": "GANGA PLAIN RIVERS RESOURCES CAPITALS POLITICAL AGENCY ALLUVIUM/RICE TRANSPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANTAGES BECAME POWER THROUGH INSTITUTIONS; NO GEOGRAPHY OR RESOURCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAGADHAN ASCENDANCY",
+        "Ganga plain rivers resources capitals political agency alluvium/rice transport iron/ Rajagriha Bimbisara/Ajatashatru elephants →Pataliputra diplomacy",
+        "Advantages became power through institutions; no geography or resource monopoly alone."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "MAGADHAN ASCENDANCY",
+          "Advantages became power through institutions; no geography or resource monopoly alone.",
+          "Ganga plain rivers resources capitals political agency alluvium/rice transport iron/ Rajagriha Bimbisara/Ajatashatru elephants →Pataliputra diplomacy, war, rule"
+        ],
+        [
+          "Ganga plain rivers resources capitals political agency alluvium/rice transport iron/ Rajagriha Bimbisara/Ajatashatru elephants →Pataliputra diplomacy, war, rule",
+          "MAGADHAN ASCENDANCY",
+          "Advantages became power through institutions; no geography or resource monopoly alone."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MAGADHAN ASCENDANCY",
+            "Ganga plain rivers resources capitals political agency alluvium/rice transport iron/ Rajagriha Bimbisara/Ajatashatru elephants →Pataliputra diplomacy, war, rule"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Advantages became power through institutions; no geography or resource monopoly alone.",
+            "MAGADHAN ASCENDANCY"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Ganga plain rivers resources capitals political agency alluvium/rice transport iron/ Rajagriha Bimbisara/Ajatashatru elephants →Pataliputra diplomacy, war, rule",
+            "Advantages became power through institutions; no geography or resource monopoly alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ganga plain rivers resources capitals political agency alluvium/rice transport iron/ Rajagriha Bimbisara/Ajatashatru elephants →Pataliputra diplomacy, war, rule.",
+      "source_references": [
+        "SESSION 18 - WHY MAGADHA? THE COMPLETE CAUSAL MATRIX",
+        "SESSION 19 - GEOGRAPHY AND RIVERS",
+        "SESSION 20 - IRON, ELEPHANTS, FORESTS",
+        "SESSION 21 - CAPITALS AND FORTIFICATIONS",
+        "SESSION 22 - POLITICAL AGENCY",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MAGADHAN DYNASTIC EXPANSION SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MAGADHAN DYNASTIC EXPANSION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "MAURYAN THRESHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "ANGA, MARRIAGE KOSALA/VAJJI WARS PATALIPUTRA AVANTI ABSORBED RESOURCES/ARMY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANSION COMBINED CONQUEST, DIPLOMACY, CAPITAL RELOCATION AND ACCUMULATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "TRADITIONS DISAGREE ON EXACT SUCCESSION; USE THE SEQUENCE WITHOUT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BIMBISARA → AJATASHATRU → UDAYIN → SHISHUNAGA → NANDAS → MAURYAN THRESHOLD",
+        "Anga, marriage Kosala/Vajji wars Pataliputra Avanti absorbed resources/army",
+        "Expansion combined conquest, diplomacy, capital relocation and accumulation.",
+        "Traditions disagree on exact succession; use the sequence without false precision."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "BIMBISARA → AJATASHATRU → UDAYIN → SHISHUNAGA → NANDAS → MAURYAN THRESHOLD",
+            "Anga, marriage Kosala/Vajji wars Pataliputra Avanti absorbed resources/army"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Expansion combined conquest, diplomacy, capital relocation and accumulation.",
+            "Traditions disagree on exact succession; use the sequence without false precision."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "BIMBISARA → AJATASHATRU → UDAYIN → SHISHUNAGA → NANDAS → MAURYAN THRESHOLD",
+            "Anga, marriage Kosala/Vajji wars Pataliputra Avanti absorbed resources/army"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Bimbisara's importance lay in combining Anga's conquest with Champa-oriented control, marriage alliances and layered administration, though exact dates and patronage stories remain tradition-bound.",
+      "source_references": [
+        "SESSION 23 - HARYANKA EXPANSION",
+        "SESSION 24 - MAGADHA CONTESTS",
+        "SESSION 25 - SHISHUNAGA AND NANDA CONSOLIDATION",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARCHAEOLOGY AND SOURCE LIMITS OF EARLY MAGADHA",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ARCHAEOLOGY AND SOURCE LIMITS OF EARLY MAGADHA",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDDHIST/JAINA TRADITIONS + PURANIC LISTS + ARCHAEOLOGY + LATER",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJAGRIHA WALLS",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPOSING, DATING DEBATED PATALIPUTRA/KUMRAHAR",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE EARLY SETTLEMENT FROM MAURYAN REMAINS",
+          "role": "primary"
+        },
+        {
+          "text": "TEXTS PRESERVE POLITICAL MEMORY; ARCHAEOLOGY TESTS PLACE AND PHASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCES: Buddhist/Jaina traditions + Puranic lists + archaeology + later reports",
+        "Rajagriha walls: imposing, dating debated Pataliputra/Kumrahar: separate early settlement from Mauryan remains",
+        "VERDICT: texts preserve political memory; archaeology tests place and phase, not episode."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SOURCES: Buddhist/Jaina traditions + Puranic lists + archaeology + later reports",
+            "Rajagriha walls: imposing, dating debated Pataliputra/Kumrahar: separate early settlement from Mauryan remains"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "VERDICT: texts preserve political memory; archaeology tests place and phase, not episode.",
+            "SOURCES: Buddhist/Jaina traditions + Puranic lists + archaeology + later reports"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Rajagriha walls: imposing, dating debated Pataliputra/Kumrahar: separate early settlement from Mauryan remains",
+            "VERDICT: texts preserve political memory; archaeology tests place and phase, not episode."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: texts preserve political memory; archaeology tests place and phase, not episode.",
+      "answer_line": "texts preserve political memory; archaeology tests place and phase, not episode.",
+      "source_references": [
+        "SESSION 26 - RAJAGRIHA/RAJGIR",
+        "SESSION 27 - PATALIPUTRA AND KUMRAHAR",
+        "SESSION 30 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FROM COMPETITIVE STATES TO EMPIRE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM COMPETITIVE STATES TO EMPIRE",
+          "role": "primary"
+        },
+        {
+          "text": "MAHAJANAPADA COMPETITION LARGER ARMIES + TAXATION + CAPITALS +",
+          "role": "outcome"
+        },
+        {
+          "text": "MAGADHAN ABSORPTION OF ANGA, VAJJI, KOSALA LINKS AND AVANTI",
+          "role": "comparison"
+        },
+        {
+          "text": "NANDA-SCALE ACCUMULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL AND TERRITORIAL PLATFORM FOR MAURYAS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGACY IS CAPACITY-BUILDING, NOT DESTINY; RIVALS ONCE HAD VIABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAHAJANAPADA COMPETITION larger armies + taxation + capitals + routes + diplomatic repertoires",
+        "Magadhan absorption of Anga, Vajji, Kosala links and Avanti rivalry",
+        "Nanda-scale accumulation → institutional and territorial platform for Mauryas",
+        "Legacy is capacity-building, not destiny; rivals once had viable alternatives."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MAHAJANAPADA COMPETITION larger armies + taxation + capitals + routes + diplomatic repertoires",
+            "Magadhan absorption of Anga, Vajji, Kosala links and Avanti rivalry"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Nanda-scale accumulation → institutional and territorial platform for Mauryas",
+            "Legacy is capacity-building, not destiny; rivals once had viable alternatives."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MAHAJANAPADA COMPETITION larger armies + taxation + capitals + routes + diplomatic repertoires",
+            "Magadhan absorption of Anga, Vajji, Kosala links and Avanti rivalry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Magadhan accumulation prepared Nanda and Mauryan imperial scale, but empire was contingent rather than inevitable and the Alexander horizon remains a bounded transition.",
+      "source_references": [
+        "SESSION 24 - MAGADHA CONTESTS",
+        "SESSION 28 - TRANSITION TO EMPIRE",
+        "SESSION 29 - TRADITIONAL EXPLANATIONS OF MAGADHA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MAHAJANAPADA-MAGADHA ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MAHAJANAPADA-MAGADHA ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE TRANSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP 3 POLITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE FORMS",
+          "role": "institution"
+        },
+        {
+          "text": "SECOND URBANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAGADHA MATRIX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: define transition → map 3 polities → institution/economy → caution",
+        "15 MARKS: state forms → second urbanisation → Magadha matrix → dynasty sequence",
+        "20 MARKS: chronology/list/map → monarchy/gana → agrarian-urban economy",
+        "Magadha matrix → Haryanka-Nanda agency → source limits → empire bridge",
+        "AVOID: fixed borders, gana = democracy, iron/geography as single cause."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: define transition → map 3 polities → institution/economy → caution",
+            "15 MARKS: state forms → second urbanisation → Magadha matrix → dynasty sequence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: chronology/list/map → monarchy/gana → agrarian-urban economy",
+            "Magadha matrix → Haryanka-Nanda agency → source limits → empire bridge"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "AVOID: fixed borders, gana = democracy, iron/geography as single cause.",
+            "CLOSE: Magadha converted opportunity into durable power through strategy and institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Magadha's rise rested on a portfolio of agrarian, riverine, defensive, resource, fiscal-military and demographic advantages converted into power by institutions and rulers.",
+      "source_references": [
+        "SESSION 29 - TRADITIONAL EXPLANATIONS OF MAGADHA",
+        "SESSION 30 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+        "SESSION 31 - TERMINOLOGY BANK, MEMORY HOOKS AND INTEGRATED ANSWER SPINE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT AFFAIRS.",
+          "role": "primary"
+        },
+        {
+          "text": "2. CLAIM NAMED EVIDENCE SIGNIFICANCE LIMITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. YEAR PAPER Q PYQ DEMAND (NEUTRAL RENDERING) DIRECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAT SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. = from source book = inference / standard knowledge = current affairs.",
+        "2. Claim Named evidence Significance Limitation",
+        "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. Claim Named evidence Significance Limitation",
+          "VERDICT: Source type controls the strength and limits of the historical claim."
+        ],
+        [
+          "1. = from source book = inference / standard knowledge = current affairs.",
+          "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source...",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. Claim Named evidence Significance Limitation",
+            "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source..."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "answer_line": "Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SOURCE LAYER TOPIC 11 USE NON-NEGOTIABLE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "2. CONTESTED ISSUES COMPETING INTERPRETATIONS ARE ATTRIBUTED, EVIDENCED",
+          "role": "evidence"
+        },
+        {
+          "text": "3. INSCRIPTION AND COIN EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTEMPORARY NAMES, TITLES, CLAIMS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFICATION EARNS MARKS; FALSE CERTAINTY IS A HARD FAILURE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. Source layer Topic 11 use Non-negotiable limit",
+        "2. Contested issues Competing interpretations are attributed, evidenced",
+        "3. Inscription and coin evidence: contemporary names, titles, claims and",
+        "VERDICT: Qualification earns marks; false certainty is a hard failure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. Source layer Topic 11 use Non-negotiable limit"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Contested issues Competing interpretations are attributed, evidenced...",
+            "3. Inscription and coin evidence: contemporary names, titles, claims and..."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+      "answer_line": "Qualification earns marks; false certainty is a hard failure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Anguttara Nikaya list includes Kashi, Kosala, Anga, Magadha, Vajji, Malla,",
+            "Chedi, Vatsa, Kuru, Panchala, Matsya, Shurasena, Ashmaka, Avanti, Gandhara and Kamboja.",
+            "Political conflicts were struggles for power over people, land and resources.",
+            "Successful states harnessed economic and human resources and developed effective strategies of administration and control."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

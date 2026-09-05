@@ -1,0 +1,145 @@
+{
+  "record_id": "world-history-12:learner-v2:g4",
+  "topic_key": "world-history-12",
+  "variant": "learner-v2",
+  "generation": 4,
+  "supersedes": "world-history-12:learner-v2:g3",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Rise of Fascism: Italy, Germany, Japan — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Solved-Practice-Workbook_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Solved-Practice-Workbook_2026-09-04.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\assets",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "provenance": {
+    "workflow": "world-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [
+      "https://www.un.org/en/outreach-programme-holocaust/united-nations-holocaust-memorial-observance"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-04",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md": "6d902828a12ba1116736f2ba376fa94338f0398a3ae539fac01a3798d7a2177a",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md": "e3a97d9d8085b225fb346630443c09fb260e0792613cb2e8850c12d0c50f969c",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "The official United Nations Holocaust Memorial Observance on 27 January 2026 used the theme 'Holocaust Remembrance for Dignity and Human Rights'. This is a bounded remembrance link to the consequences of Nazism within this comparative topic; it is not evidence about Italian fascism or Japanese militarism.",
+    "pyq_status_note": "The owner verifies one 2021 GS-I demand in neutral rendering only: evaluate the challenge to the democratic state system between the two World Wars. Verbatim official wording is not held locally.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "eb5c1868528a8dd4b98f57699a3c5078b2270a16639e62391c25eedba8ad0e3c",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Solved-Practice-Workbook_2026-09-04.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-12-g4.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-12-deep-review-2026-09-04-g4.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.md": "15aa200e475eae04ed75a5f86386563bb081f1e6a9eba8429ea620b09e6db332",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Solved-Practice-Workbook_2026-09-04.md": "bcc1e8478d105ac8f072ddc32da3f51dbf12033cb9fbf3b2adbd24ecc4fa28af",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Complete-Learning-Session_2026-09-04.pdf": "b7879b9784aab7c0384a1863d325a330957dfa9627ee20cd737c76c646b2a054",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\world-history-12_Solved-Practice-Workbook_2026-09-04.pdf": "7855125a04b07ae3e8b3ce39d387ab01bd2c22f5b51280befe81cb230010a32d",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\validation\\main-visual-audit-map.json": "24b7e439bde01dda3bd079c50135261707b9665cf1ecc5c98fd9f8b0e2af679b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\validation\\workbook-visual-audit-map.json": "24492dd232f2c62aabc883a0b0b87d492d4d2fc3c40e21a7fa44a1aa3e59d9fe",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-12-deep-review-2026-09-04-g4.json": "922815cebc90b0318ad72f85095d8ffd38a1f8011c38149fe2d99cf042ffb460",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-12-g4.json": "3a83f59ab202b81d4538b33287ec658e35d3b9664569a8486ab1f789396a34a0",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-12\\g4\\assets\\world-history-12_Teaching-Navigation_2026-09-01.png": "cb6c5b3351cf527a36015d71f3c4d5af4d14c2c4c0a662882dc7e998851c1bb1",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\ascii-master.pdf": "22a2d35572521ddd7cbd6bfdb73467e3cda15823343a4fd0cbd345f787c291e3",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\ascii-master.txt": "88164b610a239212c405725435b0d7bdae8a64e7d8af4c1d65c9ed50db48330a",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\build-audit.json": "63bf4df03a207c4a505a406cd88d680c7edb843d0f66138ec05f02d2de856f00",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\master.png": "3650801bbeeee6e2384063c202c0a97e4d25a7e70dd89b45c98d448d3a5b2eff",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\poster.pdf": "7745ddff3045a1ce1d0f27cfd0656e2bb3720c18bfb067039b3ca882be5ff6fb",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\preservation-hashes.json": "5780a338ab84292260ed8921b006268dc12679fa5bd272ae4bf125b0876a4c3e",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\README.txt": "81e0a9d8d7eae84fdcd43269db59502963a1db0dbd386c548b7e2192c43f49a1",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\tiled.pdf": "77a7e8bfd8611c2414a13f5d6c783bdd63e96dde874b3c3f41672d50528541c3",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\validation-report.txt": "54b212fac336f4374640f541c72f40ed75c3866288770b32d1f2a06d3a7af391",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\editable\\topic-spec.json": "3a83f59ab202b81d4538b33287ec658e35d3b9664569a8486ab1f789396a34a0",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\contact-sheet-01.png": "8fa387e4af59f5866a9350062a6a0cfb30fed2f786d3fea3542b6b8e25fa1f00",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\master-overview.png": "d6e500bb4c68c971bd3b5a4c689a1a757ca70d3d16831845baf78e2ce1d49219",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\page-001.png": "3fb52c9109fc24c66e2b2151c82765d4b8dc9ae76c8064fdea752acb271de4f7",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\page-002.png": "71df53ad05c1bad4f3770d659082ebd95d8933083dd7e11d842c3b3b033a3f30",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\page-003.png": "f6e241f203dd87881e552376f85c996026b237ab16366ef1e9af5cbe569d24d6",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\page-004.png": "596a1c0c2bac618c3f2fcfada5e17f2ff4a44c40287ab9c2a71c8cc0cdfc34ee",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-12-g4.json": "d0d6495eb741909749c8b4ac89f91cbb4bf31abad1e8c217e411f831390ac84d"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-12:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "regenerate_world_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4",
+    "master_image": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-12-g4.json",
+    "graphical_spec_sha256": "3a83f59ab202b81d4538b33287ec658e35d3b9664569a8486ab1f789396a34a0",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-12-deep-review-2026-09-04-g4.json",
+    "ascii_master_spec_sha256": "922815cebc90b0318ad72f85095d8ffd38a1f8011c38149fe2d99cf042ffb460",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-12\\carvaka-g4\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-world-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

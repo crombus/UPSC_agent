@@ -1,0 +1,1044 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-10",
+  "subject": "Geography",
+  "title": "COASTAL LANDFORMS / INDIA COAST AND CRZ",
+  "short_route": "COASTAL-SYSTEM BALANCE \u2192 REFRACTION MAP \u2192 EROSIONAL SEQUENCE \u2192 CLIFF RETREAT SECTION \u2192 DEPOSITIONAL DISCRIMINATOR \u2192 RELATIVE SEA-LEVEL FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-10_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-10-11-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "5f4a579e5f5a472eaa95279729a7a24f3a35cf8f3fd73d045d0c0314378451aa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COASTAL-SYSTEM BALANCE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COASTAL-SYSTEM BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WAVES + TIDES + CURRENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MARINE ENERGY",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVERS + CLIFFS + OFFSHORE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEDIMENT SUPPLY",
+          "role": "primary"
+        },
+        {
+          "text": "SEA LEVEL + LAND MOTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOMMODATION SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAN WORKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WAVES + TIDES + CURRENTS \u2192 marine energy",
+        "RIVERS + CLIFFS + OFFSHORE \u2192 sediment supply",
+        "SEA LEVEL + LAND MOTION \u2192 accommodation space",
+        "HUMAN WORKS \u2192 redistribute erosion and accretion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WAVES + TIDES + CURRENTS \u2192 marine energy",
+            "RIVERS + CLIFFS + OFFSHORE \u2192 sediment supply"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA LEVEL + LAND MOTION \u2192 accommodation space",
+            "HUMAN WORKS \u2192 redistribute erosion and accretion"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WAVES + TIDES + CURRENTS \u2192 marine energy",
+            "RIVERS + CLIFFS + OFFSHORE \u2192 sediment supply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEA LEVEL + LAND MOTION \u2192 accommodation space.",
+      "source_references": [
+        "Coastal system and sediment budget"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REFRACTION MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REFRACTION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DEEP WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "WAVE FRONTS TRAVEL FASTER",
+          "role": "comparison"
+        },
+        {
+          "text": "SHALLOW HEADLAND",
+          "role": "evidence"
+        },
+        {
+          "text": "FRONTS SLOW AND CONVERGE",
+          "role": "primary"
+        },
+        {
+          "text": "FRONTS DIVERGE AND ENERGY DISPERSES",
+          "role": "outcome"
+        },
+        {
+          "text": "EROSION FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPOSITIONAL SHELTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEEP WATER \u2192 wave fronts travel faster",
+        "SHALLOW HEADLAND \u2192 fronts slow and converge",
+        "BAY \u2192 fronts diverge and energy disperses",
+        "RESULT \u2192 erosion focus / depositional shelter"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEEP WATER \u2192 wave fronts travel faster",
+            "SHALLOW HEADLAND \u2192 fronts slow and converge"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BAY \u2192 fronts diverge and energy disperses",
+            "RESULT \u2192 erosion focus / depositional shelter"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "DEEP WATER \u2192 wave fronts travel faster",
+            "SHALLOW HEADLAND \u2192 fronts slow and converge"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "BAY \u2192 fronts diverge and energy disperses",
+            "RESULT \u2192 erosion focus / depositional shelter"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BAY \u2192 fronts diverge and energy disperses; RESULT \u2192 erosion focus / depositional shelter.",
+      "source_references": [
+        "Wave refraction and energy concentration"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EROSIONAL SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EROSIONAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "HYDRAULIC ACTION + ABRASION",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDENING AND ROOF ATTACK",
+          "role": "comparison"
+        },
+        {
+          "text": "ROOF COLLAPSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JOINT / FAULT \u2192 hydraulic action + abrasion",
+        "CAVE \u2192 widening and roof attack",
+        "ARCH \u2192 roof collapse \u2192 STACK",
+        "STACK \u2192 undercutting \u2192 STUMP"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "JOINT / FAULT \u2192 hydraulic action + abrasion",
+            "CAVE \u2192 widening and roof attack"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARCH \u2192 roof collapse \u2192 STACK",
+            "STACK \u2192 undercutting \u2192 STUMP"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "JOINT / FAULT \u2192 hydraulic action + abrasion",
+            "CAVE \u2192 widening and roof attack"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JOINT / FAULT \u2192 hydraulic action + abrasion.",
+      "source_references": [
+        "Marine erosion agents",
+        "Cave, arch, stack and stump"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CLIFF RETREAT SECTION",
+      "structural_type": "replacement-diagram",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CLIFF RETREAT SECTION",
+          "role": "primary"
+        },
+        {
+          "text": "WAVE NOTCH",
+          "role": "outcome"
+        },
+        {
+          "text": "BASAL UNDERCUTTING",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTABILITY AND COLLAPSE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEBRIS REMOVAL",
+          "role": "primary"
+        },
+        {
+          "text": "RENEWED ATTACK",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDENING WAVE-CUT PLATFORM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WAVE NOTCH \u2192 basal undercutting",
+        "OVERHANG \u2192 instability and collapse",
+        "DEBRIS REMOVAL \u2192 renewed attack",
+        "RETREAT \u2192 widening wave-cut platform"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WAVE NOTCH \u2192 basal undercutting",
+            "OVERHANG \u2192 instability and collapse"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEBRIS REMOVAL \u2192 renewed attack",
+            "RETREAT \u2192 widening wave-cut platform"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WAVE NOTCH \u2192 basal undercutting",
+            "OVERHANG \u2192 instability and collapse"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEBRIS REMOVAL \u2192 renewed attack; RETREAT \u2192 widening wave-cut platform.",
+      "source_references": [
+        "Cliff, notch and wave-cut platform"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DEPOSITIONAL DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEPOSITIONAL DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "ONE END ATTACHED",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSSES BAY OR MOUTH",
+          "role": "comparison"
+        },
+        {
+          "text": "WATER ENCLOSED BEHIND BAR",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINS ISLAND TO LAND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SPIT \u2192 one end attached",
+        "BAR \u2192 crosses bay or mouth",
+        "LAGOON \u2192 water enclosed behind bar",
+        "TOMBOLO \u2192 joins island to land"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "SPIT \u2192 one end attached",
+          "LAGOON \u2192 water enclosed behind bar",
+          "SPIT \u2192 one end attached"
+        ],
+        [
+          "BAR \u2192 crosses bay or mouth",
+          "TOMBOLO \u2192 joins island to land",
+          "BAR \u2192 crosses bay or mouth"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SPIT \u2192 one end attached",
+            "BAR \u2192 crosses bay or mouth"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAGOON \u2192 water enclosed behind bar",
+            "TOMBOLO \u2192 joins island to land"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SPIT \u2192 one end attached",
+            "BAR \u2192 crosses bay or mouth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAGOON \u2192 water enclosed behind bar; TOMBOLO \u2192 joins island to land.",
+      "source_references": [
+        "Longshore drift and spits",
+        "Bars, lagoons and tombolos"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RELATIVE SEA-LEVEL FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RELATIVE SEA-LEVEL FORK",
+          "role": "primary"
+        },
+        {
+          "text": "LAND RISE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA FALL",
+          "role": "comparison"
+        },
+        {
+          "text": "RAISED BEACH + TERRACE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSED MARINE FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "LAND FALL",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "DROWNED RIVER VALLEY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAND RISE / SEA FALL \u2192 emergence",
+        "RAISED BEACH + TERRACE \u2192 exposed marine forms",
+        "LAND FALL / SEA RISE \u2192 submergence",
+        "RIA = drowned river valley / FJORD = glacial trough"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "LAND RISE / SEA FALL \u2192 emergence",
+            "RAISED BEACH + TERRACE \u2192 exposed marine forms"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAND FALL / SEA RISE \u2192 submergence",
+            "RIA = drowned river valley / FJORD = glacial trough"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "LAND RISE / SEA FALL \u2192 emergence",
+            "RAISED BEACH + TERRACE \u2192 exposed marine forms"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RIA = drowned river valley / FJORD = glacial trough.",
+      "source_references": [
+        "Emergent and submergent coasts"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "STORM-SURGE CHAIN",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STORM-SURGE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CYCLONE WIND + LOW PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER SETUP",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACK + SHELF + BATHYMETRY",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL AMPLIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH TIDE + WAVES + RIVER FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPOUND LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPOSURE + WEAK EVACUATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CYCLONE WIND + LOW PRESSURE \u2192 water setup",
+        "TRACK + SHELF + BATHYMETRY \u2192 local amplification",
+        "HIGH TIDE + WAVES + RIVER FLOW \u2192 compound level",
+        "EXPOSURE + WEAK EVACUATION \u2192 disaster risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "CYCLONE WIND + LOW PRESSURE \u2192 water setup",
+            "TRACK + SHELF + BATHYMETRY \u2192 local amplification"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HIGH TIDE + WAVES + RIVER FLOW \u2192 compound level",
+            "EXPOSURE + WEAK EVACUATION \u2192 disaster risk"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "CYCLONE WIND + LOW PRESSURE \u2192 water setup",
+            "TRACK + SHELF + BATHYMETRY \u2192 local amplification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HIGH TIDE + WAVES + RIVER FLOW \u2192 compound level.",
+      "source_references": [
+        "Storm surge and compound water level"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA COAST CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA COAST CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "BROADER PLAINS + LARGE DELTAS",
+          "role": "outcome"
+        },
+        {
+          "text": "NARROWER PLAIN + MANY ESTUARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "PORT TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPTH, SHELTER, SILTATION, ENGINEERING",
+          "role": "primary"
+        },
+        {
+          "text": "TENDENCY, NOT UNIVERSAL BINARY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EAST \u2192 broader plains + large deltas",
+        "WEST \u2192 narrower plain + many estuaries",
+        "PORT TEST \u2192 depth, shelter, siltation, engineering",
+        "RULE \u2192 tendency, not universal binary"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "EAST \u2192 broader plains + large deltas",
+          "PORT TEST \u2192 depth, shelter, siltation, engineering",
+          "EAST \u2192 broader plains + large deltas",
+          "PORT TEST \u2192 depth, shelter, siltation, engineering"
+        ],
+        [
+          "WEST \u2192 narrower plain + many estuaries",
+          "RULE \u2192 tendency, not universal binary",
+          "WEST \u2192 narrower plain + many estuaries",
+          "RULE \u2192 tendency, not universal binary"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EAST \u2192 broader plains + large deltas",
+            "WEST \u2192 narrower plain + many estuaries"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PORT TEST \u2192 depth, shelter, siltation, engineering",
+            "RULE \u2192 tendency, not universal binary"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "EAST \u2192 broader plains + large deltas",
+            "WEST \u2192 narrower plain + many estuaries"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "PORT TEST \u2192 depth, shelter, siltation, engineering",
+            "RULE \u2192 tendency, not universal binary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PORT TEST \u2192 depth, shelter, siltation, engineering; RULE \u2192 tendency, not universal binary.",
+      "source_references": [
+        "India east-west coastal map"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NCCR EVIDENCE BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NCCR EVIDENCE BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "1990-2018 ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 33.6 PERCENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 26.9 PERCENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 39.6 PERCENT; NOT AN ANNUAL RATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PERIOD \u2192 1990-2018 assessment",
+        "ERODING \u2192 about 33.6 percent",
+        "ACCRETING \u2192 about 26.9 percent",
+        "STABLE \u2192 about 39.6 percent; not an annual rate"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "PERIOD \u2192 1990-2018 assessment",
+          "ACCRETING \u2192 about 26.9 percent",
+          "PERIOD \u2192 1990-2018 assessment"
+        ],
+        [
+          "ERODING \u2192 about 33.6 percent",
+          "STABLE \u2192 about 39.6 percent; not an annual rate",
+          "ERODING \u2192 about 33.6 percent"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PERIOD \u2192 1990-2018 assessment",
+            "ERODING \u2192 about 33.6 percent"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCRETING \u2192 about 26.9 percent",
+            "STABLE \u2192 about 39.6 percent; not an annual rate"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PERIOD \u2192 1990-2018 assessment",
+            "ERODING \u2192 about 33.6 percent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STABLE \u2192 about 39.6 percent; not an annual rate.",
+      "source_references": [
+        "NCCR shoreline evidence"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CRZ IMPLEMENTATION LADDER",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRZ IMPLEMENTATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY-SPECIFIC NATIONAL RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "HTL/LTL AND TECHNICAL INPUTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSULTATION + APPROVAL + LOCAL MAP",
+          "role": "evidence"
+        },
+        {
+          "text": "APPRAISAL, DECISION, COMPLIANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NOTIFICATION \u2192 category-specific national rules",
+        "MAPPING \u2192 HTL/LTL and technical inputs",
+        "CZMP \u2192 consultation + approval + local map",
+        "PROJECT \u2192 appraisal, decision, compliance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NOTIFICATION \u2192 category-specific national rules",
+            "MAPPING \u2192 HTL/LTL and technical inputs"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CZMP \u2192 consultation + approval + local map",
+            "PROJECT \u2192 appraisal, decision, compliance"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NOTIFICATION \u2192 category-specific national rules",
+            "MAPPING \u2192 HTL/LTL and technical inputs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CZMP \u2192 consultation + approval + local map.",
+      "source_references": [
+        "CRZ category and CZMP logic",
+        "Institutions and clearance boundaries"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COASTAL RESPONSE HIERARCHY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COASTAL RESPONSE HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "KEEP NEW EXPOSURE OUT OF HIGH-RISK SPACE",
+          "role": "caution"
+        },
+        {
+          "text": "BUFFERS + RESILIENT USE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVE ASSETS WHERE PERSISTENCE FAILS",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTIVE WORKS WITH DOWNDRIFT AUDIT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AVOID \u2192 keep new exposure out of high-risk space",
+        "RESTORE / ACCOMMODATE \u2192 buffers + resilient use",
+        "RETREAT \u2192 move assets where persistence fails",
+        "PROTECT \u2192 selective works with downdrift audit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "AVOID \u2192 keep new exposure out of high-risk space",
+            "RESTORE / ACCOMMODATE \u2192 buffers + resilient use"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RETREAT \u2192 move assets where persistence fails",
+            "PROTECT \u2192 selective works with downdrift audit"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "AVOID \u2192 keep new exposure out of high-risk space",
+            "RESTORE / ACCOMMODATE \u2192 buffers + resilient use"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESTORE / ACCOMMODATE \u2192 buffers + resilient use.",
+      "source_references": [
+        "PYQ route and integrated response"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COAST ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COAST ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE + MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCESS AND COASTAL SECTOR",
+          "role": "mechanism"
+        },
+        {
+          "text": "ENERGY, SEDIMENT AND SEA-LEVEL CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIOD, CATEGORY, PLAN AND STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATED, ADAPTIVE AND LOCALLY MAPPED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE + MAP \u2192 process and coastal sector",
+        "DERIVE \u2192 energy, sediment and sea-level chain",
+        "VERIFY \u2192 period, category, plan and status",
+        "VERDICT \u2192 integrated, adaptive and locally mapped"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE + MAP \u2192 process and coastal sector",
+            "DERIVE \u2192 energy, sediment and sea-level chain"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERIFY \u2192 period, category, plan and status",
+            "VERDICT \u2192 integrated, adaptive and locally mapped"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE + MAP \u2192 process and coastal sector",
+            "DERIVE \u2192 energy, sediment and sea-level chain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEFINE + MAP \u2192 process and coastal sector.",
+      "source_references": [
+        "PYQ route and integrated response"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "D.R. KHULLAR LISTS CYCLONE DANGERS AS GALES/STRONG WINDS, TORRENTIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "KHULLAR NOTES MOST CASUALTIES FROM CYCLONES ARE CAUSED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "TIDAL WAVES/STORM SURGES, WITH SEVERE SURGES PENETRATING INLAND FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "LOW PRESSURE RAISES SEA LEVEL SLIGHTLY, BUT THE MAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IS STRONG ONSHORE CYCLONE WINDS PILING SEAWATER AGAINST A",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SHALLOW, FUNNEL-SHAPED BAY OF BENGAL AND DELTAIC EAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "D.R. Khullar lists cyclone dangers as gales/strong winds, torrential rain and high tidal waves, also called storm surges .",
+            "Khullar notes most casualties from cyclones are caused by coastal inundation by",
+            "tidal waves/storm surges, with severe surges penetrating inland from the coast.",
+            "CAUTION: Mechanism: low pressure raises sea level slightly, but the main driver"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "is strong onshore cyclone winds piling seawater against a shallow coast.",
+            "CAUTION: India link: the shallow, funnel-shaped Bay of Bengal and deltaic east coast make Odisha-West Bengal-Bangladesh especially surge-prone.",
+            "Majid Husain describes tropical muddy coasts with mangroves in sediment-rich lagoons, bays, deltas and estuaries, and also mentions salt marshes.",
+            "D.R. Khullar notes mangroves occur along India's sheltered estuaries, tidal creeks, backwaters, salt marshes and mudflats."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Blue carbon = carbon stored by coastal and marine ecosystems,",
+            "especially mangroves, seagrasses and salt marshes, in biomass and waterlogged sediments.",
+            "CAUTION: India link: Sundarbans, Mahanadi-Godavari-Krishna deltas, Gulf of Kachchh, Gulf of",
+            "Mannar and Andaman-Nicobar ecosystems link coastal protection with climate mitigation."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

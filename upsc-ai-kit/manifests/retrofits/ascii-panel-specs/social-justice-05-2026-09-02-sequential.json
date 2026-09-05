@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Social Justice learner-v2 Topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-05",
+      "display_title": "Women and Gender Justice",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\05_Women-and-Gender-Justice_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three-term spine",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "EQUALITY -> same rules, same rights, outcome-neutral treatment (Articles 14, 15(1), 16)",
+            "-> EQUITY: differentiated instruments enabled by Article 15(3) to offset unequal starts",
+            "-> EMPOWERMENT: measured expansion of agency, capability and voice",
+            "TEST -> naming a scheme proves equity was attempted, not that empowerment occurred"
+          ],
+          "source_references": [
+            "Gender equality, gender equity and women's empowerment as three distinct terms"
+          ]
+        },
+        {
+          "title": "Protection instruments",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "DOMESTIC VIOLENCE ACT 2005 -> protection order, residence order, monetary relief",
+            "IMPLEMENTING ARM -> Protection Officer; forum -> Magistrate",
+            "CRIMINAL EDGE -> breach of a protection order is the offence under Section 31",
+            "SCOPE -> wife, qualifying live-in partner, sister, mother, any domestic relationship",
+            "LIMIT -> shared-household right is contested where the property is the in-laws'"
+          ],
+          "source_references": [
+            "The domestic-violence statute of 2005 and the character of its reliefs",
+            "Who counts as an aggrieved woman and what a domestic relationship covers"
+          ]
+        },
+        {
+          "title": "Two reliefs compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PROTECTION ORDER -> object is safety; restrains violence, contact and related acts",
+            "RESIDENCE ORDER -> object is housing security; right to reside in the shared household",
+            "OWNERSHIP -> residence right does not depend on the woman holding title",
+            "THIRD HEAD -> monetary relief is separate from both and must be named separately"
+          ],
+          "source_references": [
+            "Protection order and residence order are different reliefs"
+          ]
+        },
+        {
+          "title": "Workplace safety ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STATUTE -> Sexual Harassment of Women at Workplace Act, 2013",
+            "TEN OR MORE EMPLOYEES -> employer must constitute an Internal Committee",
+            "FEWER THAN TEN OR UNORGANISED -> district Local Committee under the District Officer",
+            "INQUIRY -> ninety days; default attracts penalty and repeat default licence action",
+            "GAP -> external member often unappointed; district capacity uneven"
+          ],
+          "source_references": [
+            "The workplace statute of 2013 and the Internal Committee",
+            "The Local Committee as the unorganised-sector extension"
+          ]
+        },
+        {
+          "title": "Umbrella mission map",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "MISSION SHAKTI 2021 -> umbrella of the Ministry of Women and Child Development",
+            "SAMBAL (safety) -> One Stop Centres, Women Helpline, Beti Bachao Beti Padhao, Nari Adalat",
+            "SAMARTHYA (empowerment) -> shelter, maternity benefit, childcare, working-women hostels",
+            "RULE -> check current guidelines before attaching a component to a sub-scheme"
+          ],
+          "source_references": [
+            "The umbrella mission and its two tracks"
+          ]
+        },
+        {
+          "title": "Maternity split",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "LABOUR-LAW LIMB -> Maternity Benefit Act, 1961 as amended 2017; employer obligation",
+            "ENTITLEMENT -> 26 weeks paid leave, first two surviving children, covered establishments",
+            "TRANSFER LIMB -> conditional payment of 5,000 rupees in two instalments, first child",
+            "SECOND CHILD -> 6,000 rupees in one instalment only if that child is a girl",
+            "BOUNDARY -> the transfer replaces wages, never the employer's leave duty"
+          ],
+          "source_references": [
+            "Maternity leave as a labour-law entitlement",
+            "The maternity cash transfer and why it is not leave"
+          ]
+        },
+        {
+          "title": "Oversight status card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "WOMEN'S COMMISSION -> statutory, National Commission for Women Act, 1990",
+            "POWERS -> investigate, take suo motu cognisance, review law, advise, inspect institutions",
+            "LIMIT -> recommends; cannot make an order that binds like a court",
+            "CONTRAST -> Scheduled Caste commission Article 338; Scheduled Tribe commission Article 338A",
+            "DEMAND -> constitutionalisation asks about entrenchment, not about renaming"
+          ],
+          "source_references": [
+            "The women's commission, its statutory powers and its limits",
+            "Statutory body against constitutional body and the constitutionalisation demand"
+          ]
+        },
+        {
+          "title": "Allocation against outcome",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GENDER BUDGET STATEMENT -> Part A, schemes with 100 per cent women-specific allocation",
+            "PART B -> schemes with 30 to 99 per cent pro-women allocation",
+            "WHAT IT IS -> transparency over allocation; it is not a separate budget",
+            "WHAT IT IS NOT -> an outcome measure; survey indicators test empowerment",
+            "PROPOSAL -> a third outcome-tracking part is a recommendation, not a current feature"
+          ],
+          "source_references": [
+            "Gender budgeting as allocation tracking rather than outcome measurement"
+          ]
+        },
+        {
+          "title": "Representation rail",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "LOCAL BODIES -> Articles 243D and 243T reserve seats for women in panchayats, municipalities",
+            "RECORDED SHARE -> one-third at the local level under the 73rd Amendment settlement",
+            "106th AMENDMENT -> one-third reservation in the Lok Sabha and State Assemblies",
+            "CONDITION -> operational after the census and delimitation sequence under Article 334A",
+            "LIMIT -> presence does not by itself defeat proxy control or party gatekeeping"
+          ],
+          "source_references": [
+            "Reserved seats, the 106th Amendment and the limit of numerical presence"
+          ]
+        },
+        {
+          "title": "Case bank used narrowly",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "VISHAKA -> linked equality and dignity to workplace protection before the 2013 statute",
+            "SHAYARA BANO -> scrutinised one discriminatory personal-law practice, not personal law at large",
+            "JOSEPH SHINE -> rejected a paternalistic adultery offence; autonomy, not marital property",
+            "RULE -> pair a provision with a holding; do not list case names as an argument"
+          ],
+          "source_references": [
+            "Judicial doctrine used narrowly"
+          ]
+        },
+        {
+          "title": "Time and infrastructure",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TIME USE SURVEY -> makes cooking, cleaning and care visible as work",
+            "-> UNPAID CARE TIME reduces the time available for paid work and mobility",
+            "-> CHILDCARE, WATER, TRANSPORT, SAFE WORK act as economic infrastructure",
+            "-> RELEASED TIME is the mechanism that converts a formal right into participation",
+            "TRAP -> stopping at education and empowerment schemes misses the structural barrier"
+          ],
+          "source_references": [
+            "Unpaid care work and the infrastructure that would reduce it"
+          ]
+        },
+        {
+          "title": "Data boundary",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "FIFTH ROUND -> 78.6 per cent account use; 54.0 per cent mobile-phone use, ages 15 to 49",
+            "SIXTH ROUND -> released 29 May 2026 for 2023-24; cite separately, never mixed",
+            "CHILD MARRIAGE -> 20.1 per cent of women aged 20 to 24 married before 18, from 23.3",
+            "REGISTRATION -> case data reflect reporting and police practice, not prevalence",
+            "OWNERSHIP -> 2024 equality-equity-empowerment demand is routed to Indian Society"
+          ],
+          "source_references": [
+            "The access baseline of the fifth survey round and the rule against mixing rounds",
+            "The child-marriage prevalence anchor and what a prevalence figure proves",
+            "The measurement boundary and the honest ownership statement"
+          ]
+        }
+      ]
+    }
+  ]
+}

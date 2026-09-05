@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-06",
+      "display_title": "Structure of Government & Constitutional Development, 1757–1858",
+      "active_generation": 6,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The Company-state constitutional problem",
+          "structural_type": "problem-map",
+          "ascii_lines": [
+            "LONDON COMPANY -> shareholders, directors, trade and patronage",
+            "INDIAN SOVEREIGN -> revenue, war, justice and legislation after Diwani",
+            "CONTRADICTION -> private profit joined to public coercive power",
+            "PARLIAMENTARY RESPONSE -> regulate, supervise, centralise and finally transfer rule.",
+            "MUST REMEMBER: Regulating Act 1773, Pitt's India Act 1784, Charter Acts 1813, 1833 and 1853,",
+            "  and Government of India Act 1858 changed different corporate, executive, legislative and",
+            "  patronage arrangements."
+          ],
+          "source_references": [
+            "1. A private corporation as revenue, war and justice authority",
+            "2. The crisis that forced Parliament to act, 1770-73: fiscal, political, and patronage -- not humanitarian",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regulating Act 1773: first framework",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "GOVERNOR-GENERAL OF BENGAL + COUNCIL OF FOUR -> Warren Hastings first",
+            "BOMBAY / MADRAS -> subordinated in war and peace, with practical ambiguities",
+            "SUPREME COURT AT CALCUTTA -> begins 1774 under Crown-appointed judges",
+            "DIRECTORS REPORT TO MINISTRY -> oversight begins, but Company rule continues."
+          ],
+          "source_references": [
+            "3. The Regulating Act, 1773: institutions on paper",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Why the 1773 design malfunctioned",
+          "structural_type": "failure-map",
+          "ascii_lines": [
+            "COUNCIL ARITHMETIC -> Francis-Clavering-Monson majority can outvote Hastings",
+            "JURISDICTIONAL OVERLAP -> Supreme Court clashes with Company revenue and civil courts",
+            "CASES -> Nand Kumar, Patna and Cossijurah expose uncertainty",
+            "LESSON -> constitutional repair follows administrative conflict, not a smooth master plan."
+          ],
+          "source_references": [
+            "4. Why the Regulating Act failed in practice: the Hastings-Council deadlock",
+            "5. The Supreme Court and jurisdictional conflict: Nand Kumar, Patna, Cossijurah",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Amending Act 1781: targeted jurisdictional repair",
+          "structural_type": "before-after",
+          "ascii_lines": [
+            "BEFORE -> official acts and revenue matters exposed to disputed Court reach",
+            "1781 -> official public acts exempted; revenue jurisdiction excluded",
+            "PERSONAL LAW -> Hindu and Muslim law to guide relevant cases",
+            "LIMIT -> corrected Court-executive conflict, not the Council voting problem."
+          ],
+          "source_references": [
+            "6. The Amending Act (Act of Settlement), 1781: precise corrections, not a general fix",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Pitt's India Act 1784: dual control in Britain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "COURT OF DIRECTORS -> commerce, appointments and routine Company administration",
+            "BOARD OF CONTROL -> Crown-supervised political, military and revenue direction",
+            "INDIA -> stronger Bengal control over presidencies and smaller executive council",
+            "VERDICT -> supervision without immediate Crown takeover."
+          ],
+          "source_references": [
+            "7. Pitt's India Act, 1784: Board of Control, dual government, and stronger central command",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Executive consolidation, 1786-1793",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1786 -> Cornwallis may override council in special cases and serve as commander",
+            "1793 -> override power generalised to future governors-general and governors",
+            "1793 -> Company monopoly renewed for twenty years",
+            "DIRECTION -> stronger personal executive within a still Company-run constitution."
+          ],
+          "source_references": [
+            "8. The Act of 1786 and Charter Act, 1793: executive authority and continuity",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Charter Act 1813: partial commercial opening",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ENDED -> Company monopoly over Indian trade",
+            "RETAINED -> tea monopoly and trade with China",
+            "ADDED -> Crown sovereignty claim, missionary entry and education provision",
+            "MEANING -> British industrial access expands while the Company remains territorial ruler."
+          ],
+          "source_references": [
+            "9. Charter Act, 1813: free trade, missions, education, and a partial opening",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Charter Act 1833: all-India centralisation",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "GG OF BENGAL -> GOVERNOR-GENERAL OF INDIA; William Bentinck first",
+            "PRESIDENCY LEGISLATURES -> legislative power centralised in the Government of India",
+            "LAW MEMBER + LAW COMMISSION -> Macaulay and codification drive",
+            "COMPANY COMMERCE ENDS -> corporation becomes a purely administrative agency."
+          ],
+          "source_references": [
+            "10. Charter Act, 1833: all-India centralisation, the Law Member, and codification",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The 1833 equality promise and practice gap",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "STATUTORY LANGUAGE -> Indians not to be excluded from Company office by identity",
+            "INSTITUTIONAL REALITY -> patronage and racial barriers remain",
+            "EXAM DISTINCTION -> 1833 voices open eligibility; it does not create the 1853 exam",
+            "ANALYTICAL USE -> liberal language coexists with an unrepresentative imperial state."
+          ],
+          "source_references": [
+            "11. Charter Act, 1833: the non-discrimination promise and the practice gap",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Charter Act 1853: legislature and recruitment",
+          "structural_type": "process-map",
+          "ascii_lines": [
+            "EXECUTIVE COUNCIL -> legislative members added for a distinct law-making function",
+            "CENTRAL LEGISLATIVE COUNCIL -> procedure resembles a small official parliament",
+            "OPEN COMPETITION -> civil-service recruitment principle implemented through later rules",
+            "LIMIT -> London examination and access barriers make formal openness unequal in practice.",
+            "CLOSE DISTINCTION: Distinguish enactment from commencement and policy from implementation: the",
+            "  1833 Act ended Company commerce, while open competitive recruitment developed through later",
+            "  measures."
+          ],
+          "source_references": [
+            "12. Charter Act, 1853: legislative-executive separation and the civil-service reform sequence, 1833-1855",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Government of India Act 1858: transfer, not reinvention",
+          "structural_type": "before-after",
+          "ascii_lines": [
+            "ABOLISHED -> Company rule, Court of Directors and Board of Control",
+            "CREATED -> Secretary of State for India assisted by an India Council",
+            "INDIA -> Governor-General also becomes Viceroy; Canning first",
+            "CONTINUITY -> central executive, councils, codes and bureaucracy largely survive transfer.",
+            "EVIDENCE LIMIT: Read statutory text with Company practice and parliamentary inquiry;",
+            "  constitutional centralisation did not remove distance, discretion, corruption or racial",
+            "  exclusion."
+          ],
+          "source_references": [
+            "13. The Government of India Act, 1858: transfer to the Crown, Secretary of State, India Council, and Viceroy",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Constitutional ladder, 1773-1858",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1773 OVERSIGHT -> 1781 JURISDICTIONAL REPAIR -> 1784 CROWN SUPERVISION",
+            "1813 MONOPOLY BREACH -> 1833 CENTRAL GOVERNMENT + CODIFICATION",
+            "1853 LEGISLATIVE SPECIALISATION + COMPETITIVE RECRUITMENT",
+            "1858 CROWN RULE -> sovereign changes; colonial centralisation remains."
+          ],
+          "source_references": [
+            "14. Institutional themes across 1773-1858: centralisation, codification, bureaucracy, and exclusion",
+            "15. Historiography of the Company-state: three readings and a defensible synthesis",
+            "16. Comparative synthesis: the constitutional ladder, provision-to-effect table, and answer architecture",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g6\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

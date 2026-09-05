@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-01",
+      "display_title": "National Income: GDP, GVA, GNP, NDP and Measurement",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\01_National-Income-GDP-GVA-GNP-NDP-and-Measurement_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Territory before arithmetic",
+          "structural_type": "boundary-map",
+          "ascii_lines": [
+            "DOMESTIC TERRITORY -> GDP",
+            "NORMAL RESIDENCE -> GNP",
+            "NFIA BRIDGE -> GDP + NFIA",
+            "TRAP -> location and ownership are not the same boundary"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Gross-to-net ladder",
+          "structural_type": "replacement-ladder",
+          "ascii_lines": [
+            "GDP -> minus depreciation -> NDP",
+            "GNP -> minus depreciation -> NNP",
+            "GROSS -> capital consumption retained",
+            "NET -> capital consumption deducted"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Three-method convergence",
+          "structural_type": "triangular-flow",
+          "ascii_lines": [
+            "PRODUCTION -> value added",
+            "INCOME -> wages + profits + rent + mixed income",
+            "EXPENDITURE -> C + I + G + (X - M)",
+            "IDENTITY -> one output, three measurement routes"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "GDP-GVA tax bridge",
+          "structural_type": "equation-band",
+          "ascii_lines": [
+            "GVA AT BASIC PRICES",
+            "+ PRODUCT TAXES",
+            "- PRODUCT SUBSIDIES",
+            "= GDP AT MARKET PRICES"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Nominal-real decoder",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "NOMINAL -> current prices -> size and ratios",
+            "REAL -> base-year prices -> volume growth",
+            "DEFLATOR -> nominal / real x 100",
+            "LIMIT -> base revision changes the comparison frame"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Production-boundary gate",
+          "structural_type": "inclusion-gate",
+          "ascii_lines": [
+            "IN -> current final goods and services",
+            "IN -> permitted imputations and government services",
+            "OUT -> embedded intermediate inputs and pure transfers",
+            "OUT -> old assets except current brokerage"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Informal-sector estimation",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "MISSING COMPLETE ACCOUNTS",
+            "-> surveys + administrative sources",
+            "-> benchmark-indicator extrapolation",
+            "LIMIT -> shocks can break historical ratios"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Base-year revision timeline",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "2015 -> shift to 2011-12 base",
+            "27 FEB 2026 -> release of 2022-23-base series",
+            "19 JUL 2026 CUTOFF -> full back series pending",
+            "RULE -> never splice unsupported series"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Capacity diagnosis",
+          "structural_type": "gap-diagram",
+          "ascii_lines": [
+            "ACTUAL < POTENTIAL -> negative output gap",
+            "ACTUAL NEAR CAPACITY -> demand stimulus meets supply limits",
+            "POTENTIAL -> labour + capital + productivity",
+            "LIMIT -> capacity is estimated, not observed"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Saving-to-growth conversion",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "SAVING -> INVESTMENT",
+            "INVESTMENT -> capital formation",
+            "ICOR -> capital needed per extra output",
+            "HIGH ICOR -> weak conversion efficiency"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Cross-country comparison fork",
+          "structural_type": "purpose-fork",
+          "ascii_lines": [
+            "PPP -> common basket -> purchasing power",
+            "MARKET RATE -> external value -> trade and debt",
+            "SAME OUTPUT, DIFFERENT PRICE BASIS",
+            "RULE -> quote source and reference year"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        },
+        {
+          "title": "Examiner closing spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> boundary + formula",
+            "VERIFY -> base year + period + vintage",
+            "ANALYSE -> coverage + method + efficiency",
+            "QUALIFY -> distribution + unpaid work + ecology"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/01_National-Income-GDP-GVA-and-Measurement.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

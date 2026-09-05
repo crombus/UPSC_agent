@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-13",
+      "display_title": "Communalism",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "What the term names",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "OBJECT -> religious identity used as a political and social organising axis",
+            "NOT THE OBJECT -> personal belief, devotion or ritual observance",
+            "CONSEQUENCE -> preventive instruments are institutional and informational",
+            "ERROR -> aiming a recommendation at faith instead of at organisation",
+            "MUST REMEMBER: Communalism politicises religious identity by representing internally diverse",
+            "  communities as bounded, homogeneous and opposed interest blocs; its mechanisms include elite",
+            "  competition, historical narratives, segregation, rumours, organisational mobilisation and",
+            "  institutional failures."
+          ],
+          "source_references": [
+            "What communalism names",
+            "Mobilisation against piety",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Three forms card",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MAJORITY -> mobilisation by a dominant group asserting primacy",
+            "MINORITY -> defensive or assertive mobilisation by a minority group",
+            "SEPARATIST -> demand for separate political or territorial status",
+            "LIMIT -> one heuristic, and never a licence to flatten power asymmetry"
+          ],
+          "source_references": [
+            "The three forms and the limits of the typology",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Theory debate",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PRIMORDIALISM -> ancient, durable, emotionally meaningful attachment",
+            "INSTRUMENTALISM -> actors activate and frame identity for mobilisation gain",
+            "CONSTRUCTIVISM -> boundaries harden through sustained mobilisation over time",
+            "SHARED LIMIT -> neither view makes conflict natural or inevitable"
+          ],
+          "source_references": [
+            "Primordial attachment and instrumental activation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two explanations, one interaction",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "POWER STRUGGLE -> competition over office, resources and status",
+            "RELATIVE DEPRIVATION -> perceived unfair gap against a reference group",
+            "INTERACTION -> organisation converts a grievance into mobilisation",
+            "ASYMMETRY -> grievance without organisation need not become violence"
+          ],
+          "source_references": [
+            "Power struggle beside relative deprivation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two-layer risk model",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STRUCTURAL -> segregation, resource competition, grievance, weak institutions",
+            "TRIGGER -> a specific incident, a provocative act or an inflammatory rumour",
+            "RULE -> removing only the trigger leaves the structural risk intact",
+            "OUTPUT -> an interruption strategy must address both layers"
+          ],
+          "source_references": [
+            "Structural conditions and proximate triggers",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Escalation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "RUMOUR -> unverified account circulates where information channels are distrusted",
+            "REFRAMING -> a local dispute becomes a community-versus-community event",
+            "SEGREGATION -> routine contact stops and informal trust repair disappears",
+            "STATUS -> a diagnostic risk heuristic, never a universal chronology"
+          ],
+          "source_references": [
+            "Rumour amplification and segregation",
+            "Violence as a contingent outcome",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Presence against impartiality",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PRESENCE -> police and administrative machinery are deployed on the ground",
+            "IMPARTIALITY -> even-handed action regardless of the community involved",
+            "EFFECT -> only the second produces the trust-repair result",
+            "TEST -> ask what was done, not how many were deployed"
+          ],
+          "source_references": [
+            "Impartiality against mere presence",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Trust-repair sequence",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "STEP ONE -> immediate credible fact verification against the rumour",
+            "STEP TWO -> visible even-handed investigation, arrest and protection",
+            "STEP THREE -> sustained contact through joint civic and economic institutions",
+            "TIMING -> step three is far slower than step one, so order matters"
+          ],
+          "source_references": [
+            "The trust-repair sequence",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Statute card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "STATUTE -> Places of Worship (Special Provisions) Act, 1991, Section 4",
+            "FREEZE -> religious character as it stood on 15 August 1947",
+            "EXCEPTIONS -> Ayodhya plus specified monuments and settled categories",
+            "STATUS -> legislative stability mechanism, not adjudication on the merits"
+          ],
+          "source_references": [
+            "The 1991 Act and its status boundary",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Economy and identity",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "REFORM -> differentiated gains, insecure work, local resource competition",
+            "FRAMING -> identity entrepreneurs convert insecurity into a communal narrative",
+            "COUNTER-CONDITION -> civic institutions and credible impartiality",
+            "PROHIBITION -> no aggregate reform explains a specific episode by itself",
+            "CLOSE DISTINCTION: Religion is not communalism, religiosity is not violence, communal identity",
+            "  is not internally homogeneous, prejudice is not automatically collective violence, and",
+            "  secular constitutional regulation is not hostility to religion."
+          ],
+          "source_references": [
+            "Post-liberalisation economy and identity framing",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two registers",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "NATIONAL INTEGRATION -> institutional and constitutional management of diversity",
+            "COMMUNAL HARMONY -> everyday social coexistence and inter-community trust",
+            "RELATION -> the first does not automatically deliver the second",
+            "CROSS-LINKED -> the National Integration Council's status belongs to Polity",
+            "EVIDENCE LIMIT: Use colonial representation and post-Independence examples with constitutional",
+            "  Articles 14-16, 25-30 and public-order boundaries; analyse triggering events separately from",
+            "  enabling structures, avoid collective blame, and distinguish legal norms, enforcement and",
+            "  social reconciliation."
+          ],
+          "source_references": [
+            "National integration beside communal harmony",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Communalism answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define mobilisation and separate it from religious belief",
+            "BODY -> structural layer, trigger layer and the actor who links them",
+            "TEST -> power struggle against relative deprivation, with interaction named",
+            "CLOSE -> verification, impartiality and contact, with reversibility stated"
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\13_Communalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g2\\indian-society-13_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

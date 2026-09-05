@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "section": "paper-i-indian-philosophy",
+  "topic_order": [
+    "philosophy-paper-i-indian-philosophy-01",
+    "philosophy-paper-i-indian-philosophy-02",
+    "philosophy-paper-i-indian-philosophy-03",
+    "philosophy-paper-i-indian-philosophy-04",
+    "philosophy-paper-i-indian-philosophy-05",
+    "philosophy-paper-i-indian-philosophy-06",
+    "philosophy-paper-i-indian-philosophy-07",
+    "philosophy-paper-i-indian-philosophy-08",
+    "philosophy-paper-i-indian-philosophy-09"
+  ],
+  "sequential_stop_policy": "regenerated official-order topics 3-3; earlier topics revalidated and later topics preserved",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-indian-philosophy-pilot.json",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "approval": false,
+  "source_order": [
+    "Markdown knowledge owners",
+    "OCR-searchable local PDFs already reconciled in retained source sessions",
+    "live current affairs only where retained and relevant",
+    "Qdrant not required"
+  ],
+  "results": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "title": "Carvaka (Cārvāka / Lokāyata)",
+      "generation": 15,
+      "record_id": "philosophy-paper-i-indian-philosophy-01:learner-v2:g15",
+      "approval": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-01_Learning-Session_2026-08-29.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-01_Solved-Workbook_2026-08-29.pdf",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-english-first-g15",
+      "validation": "passed",
+      "resumed": true,
+      "metrics": {
+        "source_pyqs": 9,
+        "output_pyqs": 9,
+        "mcq_count": 48,
+        "mcq_rotation": "A->B->C->D",
+        "main_pdf": {
+          "pages": 114,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 43
+        },
+        "workbook_pdf": {
+          "pages": 42,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 5
+        },
+        "main_layout": {
+          "page_count": 114,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook_layout": {
+          "page_count": 42,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "title": "Jainism",
+      "generation": 15,
+      "record_id": "philosophy-paper-i-indian-philosophy-02:learner-v2:g15",
+      "approval": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-02_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-02_Solved-Workbook_2026-09-02.pdf",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-english-first-g15",
+      "validation": "passed",
+      "resumed": true,
+      "metrics": {
+        "source_pyqs": 9,
+        "output_pyqs": 9,
+        "mcq_count": 48,
+        "mcq_rotation": "A->B->C->D",
+        "main_pdf": {
+          "pages": 77,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 33
+        },
+        "workbook_pdf": {
+          "pages": 27,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 5
+        },
+        "main_layout": {
+          "page_count": 77,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook_layout": {
+          "page_count": 27,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "title": "Schools of Buddhism",
+      "generation": 15,
+      "record_id": "philosophy-paper-i-indian-philosophy-03:learner-v2:g15",
+      "approval": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+      "main_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-03_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-03_Solved-Workbook_2026-09-02.pdf",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-english-first-g15",
+      "validation": "passed",
+      "metrics": {
+        "source_pyqs": 13,
+        "output_pyqs": 13,
+        "mcq_count": 52,
+        "mcq_rotation": "A->B->C->D",
+        "main_pdf": {
+          "pages": 81,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 36
+        },
+        "workbook_pdf": {
+          "pages": 29,
+          "replacement_glyphs": 0,
+          "empty_text_pages": [],
+          "bookmarks": 4
+        },
+        "main_layout": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook_layout": {
+          "page_count": 29,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "authoritative_validation": "tools\\validate_v2_export.py (standard learner-v2 workflow) passed after final repair"
+    }
+  ],
+  "shared_state_before": {
+    "EXPORT-PDF-COMMAND-INDEX.md": "12ff1cfdf4500b649e9fb3f4cd7301c0422e1e3da37fcbdec22021af40e3aabc",
+    "EXPORT-PDF-STATUS.json": "3f5dbd1078fc2d70219a53019cd18ad9e63d77b04180c02f03b064c4fa2da6ca",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json": "6d39e1b7099a33293a81d7c0dd748506b85d4795069cfbaa355f609d8e97329e",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-indian-philosophy-pilot.json": "5f6d6082e23d6f88dc523e4a6c6134ba4b7869c50c8af2d8455cb7108a0a34db",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "89cf9372278adae70ef46d4fe991da4b9633f25fcaf9e4f251e65d689742e305"
+  },
+  "shared_state_after": {
+    "EXPORT-PDF-COMMAND-INDEX.md": "883761b194a063b33d221126245723d9ab0f389595052549f0b89aeaad8cf7ce",
+    "EXPORT-PDF-STATUS.json": "4c4b37e1a36cad2e6504106bad0e1d12d8e98d9bd04c33146af6a645e418b32b",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json": "8a1eb0dd95176a41a1132c4824cb056096ece8eee51fb37b912bcc9c51cef820",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-indian-philosophy-pilot.json": "fdf43dfb71d8f3fe3914893e9b6b2f575eb7d5154336ab79cd2afcf19dfdaa70",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "89cf9372278adae70ef46d4fe991da4b9633f25fcaf9e4f251e65d689742e305"
+  },
+  "global_checks": {
+    "topic_count": 3,
+    "official_order": [
+      "Carvaka (Cārvāka / Lokāyata)",
+      "Jainism",
+      "Schools of Buddhism",
+      "Nyaya-Vaisesika (Nyāya–Vaiśeṣika)",
+      "Samkhya (Sāṃkhya)",
+      "Yoga",
+      "Mimamsa (Mīmāṃsā)",
+      "Schools of Vedanta (Vedānta)",
+      "Aurobindo"
+    ],
+    "all_validation_passed": true,
+    "all_approved_false": true,
+    "manifest_complete": true
+  }
+}

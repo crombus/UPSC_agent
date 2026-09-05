@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-12",
+      "display_title": "Social Change and Modernisation",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Lens set for social change",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "MACRO -> structural-functional equilibrium against conflict-driven contradiction",
+            "OLDER FAMILIES -> evolutionary unilinear development and cyclical rise and fall",
+            "TRANSMISSION -> diffusionist spread of practices, technology and ideas",
+            "EXCLUDED -> reform chronology owned by Modern Indian History",
+            "MUST REMEMBER: Social change alters institutions, relations, norms and identities through",
+            "  Sanskritisation, westernisation, secularisation, modernisation, democratisation, education,",
+            "  technology, migration, social movements and state action; continuity and change coexist at",
+            "  different speeds."
+          ],
+          "source_references": [
+            "How a social-change question is framed",
+            "The two macro-theories side by side",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "One episode, two readings",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EPISODE -> an untouchability practice ends in a village",
+            "FUNCTIONAL READING -> the system reduces disruptive tension and renegotiates roles",
+            "CONFLICT READING -> sustained lower-caste mobilisation defeats entrenched interest",
+            "ANSWER RULE -> state which mechanism the evidence better supports"
+          ],
+          "source_references": [
+            "Choosing the better-supported reading",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Three axes card",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SANSKRITISATION -> status axis, position changes inside an unchanged hierarchy",
+            "WESTERNISATION -> value axis, equality, individual rights and rationality",
+            "MODERNISATION -> structural axis, rational-legal institutions and role differentiation",
+            "PROHIBITION -> the three are not stages of one ladder"
+          ],
+          "source_references": [
+            "Sanskritisation as status claim",
+            "Westernisation as value import",
+            "Modernisation and the three axes",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Status inconsistency chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INPUT -> new resources through education, migration income or market access",
+            "RESPONSE -> Sanskritise, Westernise, modernise or combine, by social context",
+            "MISMATCH -> new values and structural position without matching local status",
+            "OUTPUT -> the inconsistency generates further pressure for change"
+          ],
+          "source_references": [
+            "Status inconsistency as a change engine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two cultural streams",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "GREAT TRADITION -> pan-Indian, textual, reflective stream",
+            "LITTLE TRADITION -> local, oral, folk stream",
+            "AUTHORSHIP -> Robert Redfield, applied to Indian villages by McKim Marriott",
+            "RELATION -> continuous interaction, never isolation"
+          ],
+          "source_references": [
+            "Great Tradition and Little Tradition",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two-way exchange",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "UNIVERSALISATION -> local deity or festival rises into pan-Indian recognition",
+            "CARRIERS -> pilgrimage networks, textual incorporation, patronage",
+            "PAROCHIALISATION -> pan-Indian ritual adapted to local resources and language",
+            "RESULT -> layered, regionally variable practice rather than uniform culture"
+          ],
+          "source_references": [
+            "Universalisation and parochialisation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Three levels of the religious question",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SECULARISATION -> institutional differentiation of religious authority",
+            "SECULARISM -> legal and political doctrine of state neutrality",
+            "DESACRALISATION -> experiential decline of the sacred in particular practices",
+            "ERROR -> collapsing any two of the three into one term"
+          ],
+          "source_references": [
+            "Secularisation and its two neighbours",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Continuity mechanisms",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FAMILY AND KIN -> socialisation against migration and education pressure",
+            "RITUAL AND FESTIVAL -> shared practice against media and market pressure",
+            "LANGUAGE AND REGION -> regional culture against standardisation pressure",
+            "ADAPTATION -> universalisation and parochialisation absorb the pressure"
+          ],
+          "source_references": [
+            "Continuity alongside change",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Custom and reason test",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "STEP ONE -> identify the practice and its lived meaning",
+            "STEP TWO -> ask whether an application blocks inquiry, agency or evidence",
+            "STEP THREE -> name reform, education and internal dissent as mechanisms",
+            "LIMIT -> never move from a practice to a verdict about a community"
+          ],
+          "source_references": [
+            "Custom, reason and obscurantism",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Technology on the society layer",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "SOCIETY LAYER -> access, trust, work, identity and unequal risk",
+            "CROSS-LINKED -> instrument mechanics owned by Economy and Science and Technology",
+            "PROHIBITION -> no price, legal status or adoption figure is asserted",
+            "OUTPUT -> a social effect argued from access and use, not from a label",
+            "CLOSE DISTINCTION: Modernisation is not westernisation, secularisation is not necessarily",
+            "  declining belief, Sanskritisation is not structural equality, mobility is not transformation",
+            "  of the hierarchy, and legal reform is not identical to normative or behavioural change."
+          ],
+          "source_references": [
+            "Technology as a social-change question",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Evidence-status card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "NAMED SCHOLARS -> M. N. Srinivas, Robert Redfield, McKim Marriott",
+            "DATED ANCHOR -> none is required for this durable-theory topic",
+            "RECENT DEMANDS -> one routed 2025 demand, three routed 2018 to 2021 demands",
+            "PROHIBITION -> no village study, survey figure or date is invented",
+            "EVIDENCE LIMIT: Use M.N. Srinivas and Yogendra Singh as bounded analytical frameworks,",
+            "  alongside education, media, urban and movement examples; avoid linear tradition-to-modernity",
+            "  teleology and identify feedback, resistance, regional paths and unintended effects."
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Social-change answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the lens and the axis the question is testing",
+            "BODY -> apply the India-specific vocabulary with one worked example",
+            "TEST -> continuity mechanisms against their parallel change pressures",
+            "CLOSE -> graded verdict with the cross-owner boundary stated"
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

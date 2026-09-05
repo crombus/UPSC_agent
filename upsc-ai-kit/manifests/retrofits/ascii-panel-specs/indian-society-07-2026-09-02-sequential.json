@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Indian Society learner-v2 Topic 07",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-07",
+      "display_title": "Women and Women's Organisations",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\07_Women-and-Womens-Organisations_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Organisational layering",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "REFORM ERA -> elite-led advocacy on widow remarriage and child marriage",
+            "EARLY NATIONAL -> Women's Indian Association, then All India Women's Conference 1927",
+            "RIGHTS ERA -> National Federation of Indian Women on wages and dowry",
+            "ECONOMIC ERA -> Self Employed Women's Association, then federated self-help groups"
+          ],
+          "source_references": [
+            "How women's organising is layered",
+            "Early national bodies and the precedence rule"
+          ]
+        },
+        {
+          "title": "Precedence card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "EARLIER BODY -> Women's Indian Association",
+            "FOUNDED 1927 -> All India Women's Conference, education first",
+            "LATER SCOPE -> legal and social reform advocacy",
+            "PROHIBITION -> never describe the 1927 body as India's first"
+          ],
+          "source_references": [
+            "Early national bodies and the precedence rule"
+          ]
+        },
+        {
+          "title": "Four organisational models",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RIGHTS ADVOCACY -> All India Women's Conference platform work",
+            "WAGE AND DOWRY -> National Federation of Indian Women mobilisation",
+            "TRADE UNION -> Self Employed Women's Association collective bargaining",
+            "SAVINGS FEDERATION -> self-help groups federating upward"
+          ],
+          "source_references": [
+            "Rights and wage organising after Independence",
+            "Economic organising through a trade union",
+            "Federated savings and credit as the mass form"
+          ]
+        },
+        {
+          "title": "Trichotomy definitions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EQUALITY -> equal rights, status and opportunity as the baseline",
+            "EQUITY -> context-responsive measures against unequal starting conditions",
+            "EMPOWERMENT -> expanded agency, capability, resources and voice",
+            "RULE -> a right or a coverage figure never proves the third term"
+          ],
+          "source_references": [
+            "Equality, equity and empowerment defined"
+          ]
+        },
+        {
+          "title": "Where the chain stalls",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "INSTRUMENT EXISTS -> is it reachable by this woman at all",
+            "REACHED -> was it actually taken up rather than merely offered",
+            "USED -> did the use change a recognised decision",
+            "STALL POINT -> coverage without uptake, or uptake without follow-through"
+          ],
+          "source_references": [
+            "Why the trichotomy is not a ladder",
+            "Membership against substantive voice"
+          ]
+        },
+        {
+          "title": "Time and space constraints",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "TIME -> unpaid care and domestic work compress schooling and paid work",
+            "SPACE -> mobility limits, harassment and safety condition public presence",
+            "WORK -> workplace access and treatment shape continuity of employment",
+            "DIGITAL -> internet and device access shape information and market reach"
+          ],
+          "source_references": [
+            "Time poverty and the care burden",
+            "Mobility, safety and contested space"
+          ]
+        },
+        {
+          "title": "Access indicator card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> National Family Health Survey round five, 2019-21",
+            "ACCOUNT USE -> 78.6 per cent of women aged 15-49 with an account they used",
+            "INTERNET -> 33.3 per cent had ever used the internet",
+            "STATUS -> dated reach indicators; round six was released 29 May 2026"
+          ],
+          "source_references": [
+            "Reading access indicators honestly"
+          ]
+        },
+        {
+          "title": "Intersectional reach",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "UNIVERSAL FRAMING -> women treated as one analytical category",
+            "CRITIQUE -> caste, class, tribe and religion differentiate constraint",
+            "EVIDENCE -> separate Dalit and tribal women's organisations emerged",
+            "READING -> a corrective to reach, not a fragmentation of the movement"
+          ],
+          "source_references": [
+            "The intersectionality cut"
+          ]
+        },
+        {
+          "title": "Three boundary cases",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "EQUALITY WITHOUT EQUITY -> full legal rights, no income or mobility support",
+            "EQUITY WITHOUT EMPOWERMENT -> credit received, loan use controlled by another",
+            "FULL CHAIN -> credit, collective bargaining, then an independent decision",
+            "COMPOUNDED -> caste-based wage discrimination added to gender constraint"
+          ],
+          "source_references": [
+            "Three boundary cases"
+          ]
+        },
+        {
+          "title": "Gig-work verdict",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GAIN -> wider entry, flexible hours, independent earning opportunity",
+            "COST -> income volatility, algorithmic control, thin social protection",
+            "TEST -> do earnings, safety and voice improve together",
+            "BOUNDARY -> platform legal status is owned by Social Justice"
+          ],
+          "source_references": [
+            "The gig-economy test"
+          ]
+        },
+        {
+          "title": "Causal restraint",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "REPORTED CATEGORY -> an outcome record, never a proof of cause",
+            "STRESSORS -> candidate pathways, examined without attribution",
+            "FRAME -> National Suicide Prevention Strategy of 2022, surveillance to resilience",
+            "CLOSE -> support access and non-stigmatising discussion"
+          ],
+          "source_references": [
+            "Evidence restraint and the answer spine"
+          ]
+        },
+        {
+          "title": "Women and organisations spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define the exact term the directive names",
+            "BODY -> organisational mechanism, then reach across caste and class",
+            "TEST -> instrument reached, taken up, and converted into a decision",
+            "CLOSE -> agency verdict with the coverage-is-not-agency caveat"
+          ],
+          "source_references": [
+            "Evidence restraint and the answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

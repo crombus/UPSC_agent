@@ -1,0 +1,768 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-03",
+  "subject": "Ancient-Indian-History",
+  "title": "GEOGRAPHICAL SETTING & ECOLOGY",
+  "short_route": "SUBCONTINENT AS CONNECTED ECOLOGICAL → RIVER SYSTEMS AS OPPORTUNITY → MONSOON-ECOLOGY-PRODUCTION LOOP → RESOURCE GEOGRAPHY AND SPECIALISED → WHY SETTLEMENTS OCCUPY PARTICULAR → ROUTES: MOVEMENT CREATES HISTORICAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\g11\\ancient-indian-history-03_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+  "ascii_spec_sha256": "baf7da5ce98398bca090baed193c39edb2911b01ad2f9aa4e329a4379f259e1c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SUBCONTINENT AS CONNECTED ECOLOGICAL REGIONS",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SUBCONTINENT AS CONNECTED ECOLOGICAL REGIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-WEST PASSES",
+          "role": "outcome"
+        },
+        {
+          "text": "KABUL-INDUS CORRIDORS",
+          "role": "comparison"
+        },
+        {
+          "text": "SNOWMELT RIVERS",
+          "role": "evidence"
+        },
+        {
+          "text": "FRONTIER EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "INDUS BASIN ---- THAR/ARAVALLI ---- GANGA PLAIN ---- BRAHMAPUTRA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL BELT",
+          "role": "comparison"
+        },
+        {
+          "text": "DECCAN PLATEAU ---- EASTERN/WESTERN GHATS ---- COASTS AND DELTAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIMALAYA / NORTH-WEST PASSES",
+        "Kabul-Indus corridors",
+        "snowmelt rivers",
+        "frontier exchange",
+        "INDUS BASIN ---- THAR/ARAVALLI ---- GANGA PLAIN ---- BRAHMAPUTRA VALLEY floodplains copper/route alluvium/rice rain/river routes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HIMALAYA / NORTH-WEST PASSES",
+            "Kabul-Indus corridors",
+            "snowmelt rivers"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "frontier exchange",
+            "INDUS BASIN ---- THAR/ARAVALLI ---- GANGA PLAIN ---- BRAHMAPUTRA VALLEY floodplains copper/route alluvium/rice rain/river routes",
+            "VINDHYAS / CENTRAL BELT"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DECCAN PLATEAU ---- EASTERN/WESTERN GHATS ---- COASTS AND DELTAS black soils/metals passes and rain shadow ports, rice, maritime links"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECCAN PLATEAU ---- EASTERN/WESTERN GHATS ---- COASTS AND DELTAS black soils/metals passes and rain shadow ports, rice, maritime links.",
+      "source_references": [
+        "SESSION 1 - PHYSICAL ARCHITECTURE",
+        "SESSION 2 - HIMALAYAS, PASSES AND FRONTIER ZONES",
+        "SESSION 5 - PENINSULAR PLATEAUS, RIVER VALLEYS AND COASTS"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RIVER SYSTEMS AS OPPORTUNITY AND HAZARD",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIVER SYSTEMS AS OPPORTUNITY AND HAZARD",
+          "role": "primary"
+        },
+        {
+          "text": "INDUS/GHAGGAR-HAKRA GANGA-YAMUNA PENINSULAR RIVERS WINTER + MONSOON FLOWS DEEP",
+          "role": "outcome"
+        },
+        {
+          "text": "HARAPPAN SETTLEMENT FARMING/STATE CORRIDOR IRRIGATION, DELTAS AND PORTS CHANNEL",
+          "role": "institution"
+        },
+        {
+          "text": "RIVERS ENABLE WATER, SILT AND TRANSPORT; INSTITUTIONS DETERMINE CAPTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDUS/GHAGGAR-HAKRA GANGA-YAMUNA PENINSULAR RIVERS winter + monsoon flows deep alluvium, doabs plateau-cut, often seasonal",
+        "Harappan settlement farming/state corridor irrigation, deltas and ports channel migration risk flood/waterlogging risk variable monsoon",
+        "Rivers enable water, silt and transport; institutions determine capture and resilience."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "INDUS/GHAGGAR-HAKRA GANGA-YAMUNA PENINSULAR RIVERS winter + monsoon flows deep alluvium, doabs plateau-cut, often seasonal",
+          "Rivers enable water, silt and transport; institutions determine capture and resilience.",
+          "Harappan settlement farming/state corridor irrigation, deltas and ports channel migration risk flood/waterlogging risk variable monsoon dependence"
+        ],
+        [
+          "Harappan settlement farming/state corridor irrigation, deltas and ports channel migration risk flood/waterlogging risk variable monsoon dependence",
+          "INDUS/GHAGGAR-HAKRA GANGA-YAMUNA PENINSULAR RIVERS winter + monsoon flows deep alluvium, doabs plateau-cut, often seasonal",
+          "Rivers enable water, silt and transport; institutions determine capture and resilience."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INDUS/GHAGGAR-HAKRA GANGA-YAMUNA PENINSULAR RIVERS winter + monsoon flows deep alluvium, doabs plateau-cut, often seasonal",
+            "Harappan settlement farming/state corridor irrigation, deltas and ports channel migration risk flood/waterlogging risk variable monsoon dependence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Rivers enable water, silt and transport; institutions determine capture and resilience.",
+            "INDUS/GHAGGAR-HAKRA GANGA-YAMUNA PENINSULAR RIVERS winter + monsoon flows deep alluvium, doabs plateau-cut, often seasonal"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Harappan settlement farming/state corridor irrigation, deltas and ports channel migration risk flood/waterlogging risk variable monsoon dependence",
+            "Rivers enable water, silt and transport; institutions determine capture and resilience."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rivers enable water, silt and transport; institutions determine capture and resilience.",
+      "source_references": [
+        "SESSION 3 - INDUS AND GHAGGAR-HAKRA",
+        "SESSION 4 - GANGA-BRAHMAPUTRA PLAINS",
+        "SESSION 5 - PENINSULAR PLATEAUS"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MONSOON-ECOLOGY-PRODUCTION LOOP",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MONSOON-ECOLOGY-PRODUCTION LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "SEASONAL MONSOON RAIN TIMING RIVER FLOW VEGETATION PASTURE SAILING",
+          "role": "mechanism"
+        },
+        {
+          "text": "SURPLUS AND SETTLEMENT DEPEND ON STORAGE, WATER CONTROL, LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "SEASONAL MONSOON RAIN TIMING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEASONAL MONSOON rain timing river flow vegetation pasture sailing winds crop choice flood risk forest",
+        "Surplus and settlement depend on storage, water control, labour and risk-sharing."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SEASONAL MONSOON rain timing river flow vegetation pasture sailing winds crop choice flood risk forest work herding maritime season",
+            "Surplus and settlement depend on storage, water control, labour and risk-sharing."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SEASONAL MONSOON rain timing river flow vegetation pasture sailing winds crop choice flood risk forest work herding maritime season",
+            "Surplus and settlement depend on storage, water control, labour and risk-sharing."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SEASONAL MONSOON rain timing river flow vegetation pasture sailing winds crop choice flood risk forest work herding maritime season",
+            "Surplus and settlement depend on storage, water control, labour and risk-sharing."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Surplus and settlement depend on storage, water control, labour and risk-sharing.",
+      "source_references": [
+        "SESSION 6 - CLIMATE, MONSOON AND SEASONAL RHYTHMS",
+        "SESSION 8 - SOILS, FORESTS, WATER AND AGRICULTURE"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RESOURCE GEOGRAPHY AND SPECIALISED REGIONS",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RESOURCE GEOGRAPHY AND SPECIALISED REGIONS",
+          "role": "primary"
+        },
+        {
+          "text": "REPRESENTATIVE ZONES",
+          "role": "outcome"
+        },
+        {
+          "text": "HISTORICAL CAPACITY COPPER",
+          "role": "comparison"
+        },
+        {
+          "text": "TOOLS, EXCHANGE, CRAFT CENTRES IRON",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL/EASTERN INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "TOOLS AND WEAPONS; USE REMAINS CONTEXTUAL STONE",
+          "role": "outcome"
+        },
+        {
+          "text": "LITHICS, ARCHITECTURE AND SCULPTURE TIMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "FOREST BELTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESOURCE → REPRESENTATIVE ZONES → HISTORICAL CAPACITY copper → Aravalli/Khetri → tools, exchange, craft centres",
+        "use remains contextual stone → Rohri/Deccan/Vindhya → lithics, architecture and sculpture timber → forest belts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "RESOURCE → REPRESENTATIVE ZONES → HISTORICAL CAPACITY copper → Aravalli/Khetri → tools, exchange, craft centres iron → central/eastern",
+            "use remains contextual stone → Rohri/Deccan/Vindhya → lithics, architecture and sculpture timber → forest belts → fuel, construction,"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "RESOURCE → REPRESENTATIVE ZONES → HISTORICAL CAPACITY copper → Aravalli/Khetri → tools, exchange, craft centres iron → central/eastern",
+            "use remains contextual stone → Rohri/Deccan/Vindhya → lithics, architecture and sculpture timber → forest belts → fuel, construction,"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "RESOURCE → REPRESENTATIVE ZONES → HISTORICAL CAPACITY copper → Aravalli/Khetri → tools, exchange, craft centres iron → central/eastern",
+            "use remains contextual stone → Rohri/Deccan/Vindhya → lithics, architecture and sculpture timber → forest belts → fuel, construction,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESOURCE → REPRESENTATIVE ZONES → HISTORICAL CAPACITY copper → Aravalli/Khetri → tools, exchange, craft centres iron → central/eastern India → tools and weapons; use remains contextual stone → Rohri/Deccan/Vindhya → lithics, architecture and sculpture timber → forest belts → fuel, construction, boats, state frontier salt → arid/coastal sources → essential exchange networks elephant → eastern forests → military resource, not sole cause of empire.",
+      "source_references": [
+        "SESSION 9 - METALS, STONE, TIMBER, SALT AND OTHER RESOURCES"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WHY SETTLEMENTS OCCUPY PARTICULAR LANDSCAPES",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY SETTLEMENTS OCCUPY PARTICULAR LANDSCAPES",
+          "role": "primary"
+        },
+        {
+          "text": "SITE SELECTION WATER RELIABILITY CULTIVABLE SOIL AND GRAZING DEFENSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLEMENT HIERARCHY",
+          "role": "comparison"
+        },
+        {
+          "text": "CRAFT CENTRE",
+          "role": "evidence"
+        },
+        {
+          "text": "GEOGRAPHY SETS COSTS AND OPTIONS; SOCIAL ORGANISATION CONVERTS THEM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SITE SELECTION water reliability cultivable soil and grazing defensibility and flood safety raw-material access route",
+        "position disease and drainage constraints",
+        "SETTLEMENT HIERARCHY: camp → village → craft centre → town → capital",
+        "Geography sets costs and options; social organisation converts them into settlement."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SITE SELECTION water reliability cultivable soil and grazing defensibility and flood safety raw-material access route, ford or port",
+            "position disease and drainage constraints"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SETTLEMENT HIERARCHY: camp → village → craft centre → town → capital",
+            "Geography sets costs and options; social organisation converts them into settlement."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SITE SELECTION water reliability cultivable soil and grazing defensibility and flood safety raw-material access route, ford or port",
+            "position disease and drainage constraints"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Geography sets costs and options; social organisation converts them into settlement.",
+      "source_references": [
+        "SESSION 10 - SETTLEMENT ECOLOGY AND SITE SELECTION",
+        "SESSION 11 - GEOGRAPHY-SETTLEMENT-STATE-ECONOMY RELATIONSHIPS"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ROUTES: MOVEMENT CREATES HISTORICAL CORRIDORS",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MOVEMENT CREATES HISTORICAL CORRIDORS",
+          "role": "primary"
+        },
+        {
+          "text": "LAND AND WATER ROUTES PASSES RIVERWAYS PLATEAU GAPS COASTS/MONSOON",
+          "role": "outcome"
+        },
+        {
+          "text": "GOODS, PEOPLE, SCRIPTS, CULTS AND TECHNOLOGIES MOVE; ROUTES DO",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND AND WATER ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAND AND WATER ROUTES passes riverways plateau gaps coasts/monsoon sea migration bulk goods Deccan links",
+        "Goods, people, scripts, cults and technologies move; routes do not erase local agency."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LAND AND WATER ROUTES passes riverways plateau gaps coasts/monsoon sea migration bulk goods Deccan links ports and overseas exchange",
+            "Goods, people, scripts, cults and technologies move; routes do not erase local agency."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LAND AND WATER ROUTES passes riverways plateau gaps coasts/monsoon sea migration bulk goods Deccan links ports and overseas exchange",
+            "Goods, people, scripts, cults and technologies move; routes do not erase local agency."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LAND AND WATER ROUTES passes riverways plateau gaps coasts/monsoon sea migration bulk goods Deccan links ports and overseas exchange",
+            "Goods, people, scripts, cults and technologies move; routes do not erase local agency."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Goods, people, scripts, cults and technologies move; routes do not erase local agency.",
+      "source_references": [
+        "SESSION 12 - ROUTES, MIGRATION, TRADE AND CULTURAL INTERACTION"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CHANGING HISTORICAL LANDSCAPES",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHANGING HISTORICAL LANDSCAPES",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY HISTORIC MOBILE USE VILLAGE MOSAICS URBAN-RURAL NW TO",
+          "role": "outcome"
+        },
+        {
+          "text": "NO ALL-INDIA STAGE OCCURS SIMULTANEOUSLY",
+          "role": "caution"
+        },
+        {
+          "text": "REGIONAL SEQUENCES OVERLAP AND DIVERGE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PALAEOLITHIC → NEOLITHIC/CHALCOLITHIC → HARAPPAN → VEDIC → EARLY HISTORIC mobile use village mosaics urban-rural",
+        "towns/states/routes stone/water crops/herds basin links forest edge Magadha/Deccan/coasts",
+        "No all-India stage occurs simultaneously: regional sequences overlap and diverge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "PALAEOLITHIC → NEOLITHIC/CHALCOLITHIC → HARAPPAN → VEDIC → EARLY HISTORIC mobile use village mosaics urban-rural NW to Ganga",
+            "towns/states/routes stone/water crops/herds basin links forest edge Magadha/Deccan/coasts"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "No all-India stage occurs simultaneously: regional sequences overlap and diverge.",
+            "PALAEOLITHIC → NEOLITHIC/CHALCOLITHIC → HARAPPAN → VEDIC → EARLY HISTORIC mobile use village mosaics urban-rural NW to Ganga"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "towns/states/routes stone/water crops/herds basin links forest edge Magadha/Deccan/coasts",
+            "No all-India stage occurs simultaneously: regional sequences overlap and diverge."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "No all-India stage occurs simultaneously: regional sequences overlap and diverge.",
+      "source_references": [
+        "SESSION 14 - PREHISTORIC CHANGE",
+        "SESSION 15 - HARAPPAN ECOLOGY",
+        "SESSION 16 - VEDIC LANDSCAPES",
+        "SESSION 17 - EARLY HISTORIC URBANIZATION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DETERMINISM VERSUS POSSIBILISM",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DETERMINISM VERSUS POSSIBILISM",
+          "role": "comparison"
+        },
+        {
+          "text": "DETERMINIST CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILE SOIL, IRON, RIVER OR MONSOON AUTOMATICALLY PRODUCES A",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE AGAINST",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMILAR ENVIRONMENTS YIELD DIFFERENT TIMINGS AND INSTITUTIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBILIST CORRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGY OFFERS CONSTRAINTS, OPPORTUNITIES AND RECURRING RISKS.",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGY + LABOUR + PROPERTY + EXCHANGE + POLITICAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DETERMINIST CLAIM: fertile soil, iron, river or monsoon automatically produces a state.",
+        "EVIDENCE AGAINST: similar environments yield different timings and institutions.",
+        "POSSIBILIST CORRECTION: ecology offers constraints, opportunities and recurring risks.",
+        "MEDIATORS: technology + labour + property + exchange + political organisation + culture",
+        "VERDICT: explain why an opportunity was mobilised, by whom, and with what limits."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "DETERMINIST CLAIM: fertile soil, iron, river or monsoon automatically produces a state.",
+            "EVIDENCE AGAINST: similar environments yield different timings and institutions."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "POSSIBILIST CORRECTION: ecology offers constraints, opportunities and recurring risks.",
+            "MEDIATORS: technology + labour + property + exchange + political organisation + culture"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: explain why an opportunity was mobilised, by whom, and with what limits.",
+            "DETERMINIST CLAIM: fertile soil, iron, river or monsoon automatically produces a state."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: explain why an opportunity was mobilised, by whom, and with what limits.",
+      "answer_line": "explain why an opportunity was mobilised, by whom, and with what limits.",
+      "source_references": [
+        "SESSION 19 - ENVIRONMENTAL DETERMINISM VERSUS POSSIBILISM",
+        "SESSION 21 - SOURCE CRITICISM AND LIMITS OF HISTORICAL GEOGRAPHY"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "HISTORICAL-GEOGRAPHY ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HISTORICAL-GEOGRAPHY ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCATE REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME RESOURCE/ECOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED CASE",
+          "role": "primary"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "TEXT MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "OPPORTUNITIES + CONSTRAINTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: locate region → name resource/ecology → mechanism → named case",
+        "15 MARKS: text map → opportunities + constraints → institutional mediators → variation",
+        "20 MARKS: physical frame → river/monsoon/resource systems → chronological cases",
+        "routes and uneven regions → determinism debate → qualified synthesis",
+        "MAP RULE: label only places used in the argument; link each label to one consequence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: locate region → name resource/ecology → mechanism → named case",
+            "15 MARKS: text map → opportunities + constraints → institutional mediators → variation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: physical frame → river/monsoon/resource systems → chronological cases",
+            "routes and uneven regions → determinism debate → qualified synthesis"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MAP RULE: label only places used in the argument; link each label to one consequence.",
+            "CLOSE: geography conditions history, but institutions select and transform options."
+          ]
+        }
+      ],
+      "mechanism_strip": "MAP RULE: label only places used in the argument; link each label to one consequence.",
+      "answer_line": "label only places used in the argument; link each label to one consequence.",
+      "source_references": [
+        "SESSION 22 - UPSC MAP, TERMINOLOGY AND ANSWER-WRITING PROTOCOL",
+        "SESSION 27 - CORE MAP LAB 5"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Historical PYQ Integration (2018-2023)",
+            "Optional Advanced Studios: Environmental Interpretation Without Determinism — [OPTIONAL ADVANCED]",
+            "A1. Palaeoenvironment Proxies and Error Bounds — [OPTIONAL ADVANCED]",
+            "A2. Landscape Archaeology and Remote Sensing — [OPTIONAL ADVANCED]"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 13",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-13",
+      "display_title": "Air Pollution and CPCB Standards",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-13_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Ambient-emission firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AMBIENT STANDARD -> concentration in outdoor receiving air",
+            "SOURCE STANDARD -> release from a named stack, vehicle or process",
+            "CONSENT CONDITION -> source-specific legal control",
+            "AQI -> public communication index",
+            "RULE -> never substitute one instrument for another"
+          ],
+          "source_references": [
+            "Ambient-standard boundary",
+            "Emission-standard boundary",
+            "AQI communication role"
+          ]
+        },
+        {
+          "title": "Concentration-to-exposure chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MONITOR -> pollutant concentration at place and time",
+            "AVERAGING PERIOD -> fixes the measurement window",
+            "PERSON LOCATION -> determines contact opportunity",
+            "DURATION AND ROUTE -> shape exposure",
+            "HEALTH CLAIM -> needs separate epidemiological evidence"
+          ],
+          "source_references": [
+            "Concentration versus exposure",
+            "NAAQS data discipline"
+          ]
+        },
+        {
+          "title": "Pollutant formation map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PRIMARY EMISSION -> released directly",
+            "PRECURSOR -> enters atmospheric reaction",
+            "SUNLIGHT OR OXIDATION -> transformation pathway",
+            "SECONDARY POLLUTANT -> formed in air",
+            "CONTROL -> address direct emissions and precursors"
+          ],
+          "source_references": [
+            "Pollutant versus precursor",
+            "Primary and secondary pollution"
+          ]
+        },
+        {
+          "title": "PM classification gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "PM2.5 OR PM10 -> aerodynamic size fraction",
+            "SIZE -> affects transport and deposition",
+            "COMPOSITION -> requires chemical evidence",
+            "SOURCE -> requires apportionment evidence",
+            "TRAP -> size label alone proves neither composition nor source"
+          ],
+          "source_references": [
+            "Particulate-size discipline"
+          ]
+        },
+        {
+          "title": "Smog and acid-deposition matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SMOG -> precursor emissions plus sunlight-driven chemistry",
+            "SURFACE OZONE -> secondary oxidant",
+            "ACID DEPOSITION -> sulphur and nitrogen precursor pathway",
+            "WET OR DRY -> deposition routes",
+            "RULE -> precursor is not the final atmospheric product"
+          ],
+          "source_references": [
+            "Photochemical-smog chain",
+            "Acid-deposition chain"
+          ]
+        },
+        {
+          "title": "NAAQS data gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "POLLUTANT -> identify exact substance or fraction",
+            "UNIT -> preserve the notified unit",
+            "AVERAGING PERIOD -> annual, daily or shorter only if sourced",
+            "AREA AND COMPLIANCE RULE -> read notification",
+            "NO TABLE -> no invented limit"
+          ],
+          "source_references": [
+            "NAAQS data discipline"
+          ]
+        },
+        {
+          "title": "AQI statutory boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INPUT -> monitored pollutant concentrations",
+            "OUTPUT -> public-facing category",
+            "NAAQS -> notified ambient standard",
+            "SOURCE LIMIT -> separate emission control",
+            "VERDICT -> AQI category is not either standard table"
+          ],
+          "source_references": [
+            "AQI communication role",
+            "AQI category boundary"
+          ]
+        },
+        {
+          "title": "Institution and clearance ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CPCB -> national coordination and framework",
+            "SPCB OR PCC -> consent, monitoring and enforcement",
+            "CTE OR CTO -> source-operation permission layer",
+            "ENVIRONMENTAL CLEARANCE -> prior project-appraisal layer",
+            "RULE -> approvals remain legally distinct"
+          ],
+          "source_references": [
+            "CPCB and SPCB roles",
+            "Air Act and consent layer"
+          ]
+        },
+        {
+          "title": "Monitoring evidence ladder",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "STATION -> one location",
+            "NETWORK -> spatial coverage",
+            "DATA COMPLETENESS -> usable time record",
+            "METEOROLOGY -> dispersion and accumulation context",
+            "INFERENCE -> scale only as far as evidence supports"
+          ],
+          "source_references": [
+            "Monitoring representativeness"
+          ]
+        },
+        {
+          "title": "Source-apportionment cube",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CITY -> source mix changes by location",
+            "SEASON -> activity and meteorology change",
+            "POLLUTANT -> PM, ozone and gases have different pathways",
+            "METHOD -> model and sampling assumptions matter",
+            "NO UNIVERSAL SHARE -> date and scope every estimate"
+          ],
+          "source_references": [
+            "Source-apportionment boundary"
+          ]
+        },
+        {
+          "title": "Programme-response architecture",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NCAP -> long-run structural planning",
+            "NON-ATTAINMENT -> standards-based classification over a period",
+            "GRAP -> episodic graded response",
+            "CAQM -> statutory Delhi-NCR regional coordination",
+            "NO SUBSTITUTION -> each serves a different function"
+          ],
+          "source_references": [
+            "NCAP programme boundary",
+            "Non-attainment boundary",
+            "GRAP and CAQM boundary"
+          ]
+        },
+        {
+          "title": "Evidence and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> ambient, emission, concentration and exposure",
+            "TRACE -> source, precursor, atmospheric formation and receptor",
+            "GOVERN -> NAAQS, AQI, consent, NCAP, GRAP and CAQM",
+            "MEASURE -> station, averaging period and apportionment boundary",
+            "AUDIT -> target, attainment, current data and PYQ key stay distinct"
+          ],
+          "source_references": [
+            "Target versus attainment",
+            "Audited evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

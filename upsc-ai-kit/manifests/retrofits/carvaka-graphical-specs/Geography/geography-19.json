@@ -1,0 +1,1079 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-19",
+  "subject": "Geography",
+  "title": "MEDITERRANEAN CLIMATE",
+  "short_route": "FIVE-REGION WORLD MAP \u2192 SEASONAL PRESSURE SWITCH \u2192 CLIMATE IDENTITY FIREWALL \u2192 LOCAL-WIND MATRIX \u2192 SCLEROPHYLL DESIGN \u2192 REGIONAL SCRUB NAMES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-19_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-19-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "cd24dd3af492218fb06fe33582c93191e80ddadf10178b1cf83227f3ee299edd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FIVE-REGION WORLD MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FIVE-REGION WORLD MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MEDITERRANEAN BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGEST EXPRESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "CALIFORNIA + CENTRAL CHILE",
+          "role": "evidence"
+        },
+        {
+          "text": "WEST COASTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTH-WEST SOUTH AFRICA",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH AUSTRALIA",
+          "role": "comparison"
+        },
+        {
+          "text": "FIFTH REGION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEDITERRANEAN BASIN \u2192 largest expression",
+        "CALIFORNIA + CENTRAL CHILE \u2192 west coasts",
+        "CAPE \u2192 south-west South Africa",
+        "SW / SOUTH AUSTRALIA \u2192 fifth region"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MEDITERRANEAN BASIN \u2192 largest expression",
+            "CALIFORNIA + CENTRAL CHILE \u2192 west coasts"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPE \u2192 south-west South Africa",
+            "SW / SOUTH AUSTRALIA \u2192 fifth region"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "MEDITERRANEAN BASIN \u2192 largest expression",
+            "CALIFORNIA + CENTRAL CHILE \u2192 west coasts"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "CAPE \u2192 south-west South Africa",
+            "SW / SOUTH AUSTRALIA \u2192 fifth region"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAPE \u2192 south-west South Africa; SW / SOUTH AUSTRALIA \u2192 fifth region.",
+      "source_references": [
+        "Cs western-margin map"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SEASONAL PRESSURE SWITCH",
+      "structural_type": "seasonal-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SEASONAL PRESSURE SWITCH",
+          "role": "primary"
+        },
+        {
+          "text": "SUBTROPICAL HIGH SHIFTS POLEWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEAR SKY AND DROUGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERLIES SHIFT EQUATORWARD",
+          "role": "evidence"
+        },
+        {
+          "text": "FRONTAL RAIN ARRIVES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUMMER \u2192 subtropical high shifts poleward",
+        "SUBSIDENCE \u2192 clear sky and drought",
+        "WINTER \u2192 westerlies shift equatorward",
+        "DEPRESSIONS \u2192 frontal rain arrives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SUMMER \u2192 subtropical high shifts poleward",
+            "SUBSIDENCE \u2192 clear sky and drought"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WINTER \u2192 westerlies shift equatorward",
+            "DEPRESSIONS \u2192 frontal rain arrives"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "SUMMER \u2192 subtropical high shifts poleward",
+            "SUBSIDENCE \u2192 clear sky and drought"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "WINTER \u2192 westerlies shift equatorward",
+            "DEPRESSIONS \u2192 frontal rain arrives"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WINTER \u2192 westerlies shift equatorward; DEPRESSIONS \u2192 frontal rain arrives.",
+      "source_references": [
+        "Summer subtropical high",
+        "Winter westerly rain"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CLIMATE IDENTITY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLIMATE IDENTITY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SUMMER DRY",
+          "role": "outcome"
+        },
+        {
+          "text": "WINTER WET",
+          "role": "comparison"
+        },
+        {
+          "text": "SUMMER WET",
+          "role": "evidence"
+        },
+        {
+          "text": "WINTER DRIER",
+          "role": "primary"
+        },
+        {
+          "text": "EASTERN MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "RAIN THROUGH MUCH OF YEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "RAINFALL SEASON OUTRANKS LATITUDE ALONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEDITERRANEAN \u2192 summer dry / winter wet",
+        "MONSOON \u2192 summer wet / winter drier",
+        "EASTERN MARGIN \u2192 rain through much of year",
+        "RULE \u2192 rainfall season outranks latitude alone"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "MEDITERRANEAN \u2192 summer dry / winter wet",
+          "EASTERN MARGIN \u2192 rain through much of year",
+          "MEDITERRANEAN \u2192 summer dry / winter wet"
+        ],
+        [
+          "MONSOON \u2192 summer wet / winter drier",
+          "RULE \u2192 rainfall season outranks latitude alone",
+          "MONSOON \u2192 summer wet / winter drier"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MEDITERRANEAN \u2192 summer dry / winter wet",
+            "MONSOON \u2192 summer wet / winter drier"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EASTERN MARGIN \u2192 rain through much of year",
+            "RULE \u2192 rainfall season outranks latitude alone"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "MEDITERRANEAN \u2192 summer dry / winter wet",
+            "MONSOON \u2192 summer wet / winter drier"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EASTERN MARGIN \u2192 rain through much of year.",
+      "source_references": [
+        "Summer-dry winter-wet identity"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LOCAL-WIND MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOCAL-WIND MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "HOT, DUSTY, SAHARA ORIGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "COLD, RHONE-VALLEY OUTFLOW",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD, ADRIATIC DOWNSLOPE WIND",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL MEDITERRANEAN WINDS ARE NOT ALL HOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SIROCCO \u2192 hot, dusty, Sahara origin",
+        "MISTRAL \u2192 cold, Rhone-valley outflow",
+        "BORA \u2192 cold, Adriatic downslope wind",
+        "TRAP \u2192 local Mediterranean winds are not all hot"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "SIROCCO \u2192 hot, dusty, Sahara origin",
+          "BORA \u2192 cold, Adriatic downslope wind",
+          "SIROCCO \u2192 hot, dusty, Sahara origin",
+          "BORA \u2192 cold, Adriatic downslope wind"
+        ],
+        [
+          "MISTRAL \u2192 cold, Rhone-valley outflow",
+          "TRAP \u2192 local Mediterranean winds are not all hot",
+          "MISTRAL \u2192 cold, Rhone-valley outflow",
+          "TRAP \u2192 local Mediterranean winds are not all hot"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "SIROCCO \u2192 hot, dusty, Sahara origin",
+            "MISTRAL \u2192 cold, Rhone-valley outflow"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "BORA \u2192 cold, Adriatic downslope wind",
+            "TRAP \u2192 local Mediterranean winds are not all hot"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "SIROCCO \u2192 hot, dusty, Sahara origin",
+            "MISTRAL \u2192 cold, Rhone-valley outflow"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "BORA \u2192 cold, Adriatic downslope wind",
+            "TRAP \u2192 local Mediterranean winds are not all hot"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP \u2192 local Mediterranean winds are not all hot.",
+      "source_references": [
+        "Sirocco, Mistral and Bora"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SCLEROPHYLL DESIGN",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SCLEROPHYLL DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL, HARD, WAXY OR LEATHERY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEP ACCESS TO STORED MOISTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DROUGHT AND FIRE PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SCRUB OR OPEN WOODLAND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LEAF \u2192 small, hard, waxy or leathery",
+        "ROOT \u2192 deep access to stored moisture",
+        "BARK \u2192 drought and fire protection",
+        "STRUCTURE \u2192 scrub or open woodland"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "LEAF \u2192 small, hard, waxy or leathery",
+            "ROOT \u2192 deep access to stored moisture"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "BARK \u2192 drought and fire protection",
+            "STRUCTURE \u2192 scrub or open woodland"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "LEAF \u2192 small, hard, waxy or leathery",
+            "ROOT \u2192 deep access to stored moisture"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "BARK \u2192 drought and fire protection",
+            "STRUCTURE \u2192 scrub or open woodland"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BARK \u2192 drought and fire protection; STRUCTURE \u2192 scrub or open woodland.",
+      "source_references": [
+        "Sclerophyll adaptations"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REGIONAL SCRUB NAMES",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL SCRUB NAMES",
+          "role": "primary"
+        },
+        {
+          "text": "MEDITERRANEAN BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "FORM CONVERGES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIES REMAIN REGIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MAQUIS \u2192 Mediterranean basin",
+        "CHAPARRAL \u2192 California",
+        "MALLEE \u2192 Australia",
+        "FORM CONVERGES \u2192 species remain regional"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "MAQUIS \u2192 Mediterranean basin",
+          "MALLEE \u2192 Australia",
+          "MAQUIS \u2192 Mediterranean basin",
+          "MALLEE \u2192 Australia"
+        ],
+        [
+          "CHAPARRAL \u2192 California",
+          "FORM CONVERGES \u2192 species remain regional",
+          "CHAPARRAL \u2192 California",
+          "FORM CONVERGES \u2192 species remain regional"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MAQUIS \u2192 Mediterranean basin",
+            "CHAPARRAL \u2192 California"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MALLEE \u2192 Australia",
+            "FORM CONVERGES \u2192 species remain regional"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "MAQUIS \u2192 Mediterranean basin",
+            "CHAPARRAL \u2192 California"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "MALLEE \u2192 Australia",
+            "FORM CONVERGES \u2192 species remain regional"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MALLEE \u2192 Australia; FORM CONVERGES \u2192 species remain regional.",
+      "source_references": [
+        "Maquis, chaparral and mallee"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GROWTH-SEASON CALENDAR",
+      "structural_type": "seasonal-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GROWTH-SEASON CALENDAR",
+          "role": "primary"
+        },
+        {
+          "text": "RAIN RETURNS AFTER DROUGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "MOISTURE BUT COOLER GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "BEST MOISTURE-TEMPERATURE OVERLAP",
+          "role": "evidence"
+        },
+        {
+          "text": "DROUGHT AND FIRE STRESS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AUTUMN \u2192 rain returns after drought",
+        "WINTER \u2192 moisture but cooler growth",
+        "SPRING \u2192 best moisture-temperature overlap",
+        "SUMMER \u2192 drought and fire stress"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "AUTUMN \u2192 rain returns after drought",
+            "WINTER \u2192 moisture but cooler growth"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPRING \u2192 best moisture-temperature overlap",
+            "SUMMER \u2192 drought and fire stress"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "AUTUMN \u2192 rain returns after drought",
+            "WINTER \u2192 moisture but cooler growth"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SPRING \u2192 best moisture-temperature overlap",
+            "SUMMER \u2192 drought and fire stress"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPRING \u2192 best moisture-temperature overlap; SUMMER \u2192 drought and fire stress.",
+      "source_references": [
+        "Seasonal growth rhythm"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGRICULTURAL SYSTEM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRICULTURAL SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "WINTER RAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CEREALS AND SOIL RECHARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEEP-ROOTED TREES",
+          "role": "evidence"
+        },
+        {
+          "text": "SURVIVE DRY SUMMER",
+          "role": "primary"
+        },
+        {
+          "text": "SUN + IRRIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FRUIT AND VEGETABLES",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH-VALUE EXPORT HORTICULTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WINTER RAIN \u2192 cereals and soil recharge",
+        "DEEP-ROOTED TREES \u2192 survive dry summer",
+        "SUN + IRRIGATION \u2192 fruit and vegetables",
+        "MARKETS \u2192 high-value export horticulture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WINTER RAIN \u2192 cereals and soil recharge",
+            "DEEP-ROOTED TREES \u2192 survive dry summer"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUN + IRRIGATION \u2192 fruit and vegetables",
+            "MARKETS \u2192 high-value export horticulture"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WINTER RAIN \u2192 cereals and soil recharge",
+            "DEEP-ROOTED TREES \u2192 survive dry summer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUN + IRRIGATION \u2192 fruit and vegetables; MARKETS \u2192 high-value export horticulture.",
+      "source_references": [
+        "Orchards and irrigated horticulture",
+        "Winter cereals and viticulture"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WILDFIRE CHAIN",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WILDFIRE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "WET SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "BIOMASS AND FINE FUEL",
+          "role": "comparison"
+        },
+        {
+          "text": "SUMMER DROUGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "FUEL DESICCATION",
+          "role": "primary"
+        },
+        {
+          "text": "HEAT + WIND + IGNITION",
+          "role": "outcome"
+        },
+        {
+          "text": "RAPID SPREAD",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND MANAGEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WET SEASON \u2192 biomass and fine fuel",
+        "SUMMER DROUGHT \u2192 fuel desiccation",
+        "HEAT + WIND + IGNITION \u2192 rapid spread",
+        "LAND MANAGEMENT \u2192 exposure and recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WET SEASON \u2192 biomass and fine fuel",
+            "SUMMER DROUGHT \u2192 fuel desiccation"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HEAT + WIND + IGNITION \u2192 rapid spread",
+            "LAND MANAGEMENT \u2192 exposure and recovery"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WET SEASON \u2192 biomass and fine fuel",
+            "SUMMER DROUGHT \u2192 fuel desiccation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HEAT + WIND + IGNITION \u2192 rapid spread.",
+      "source_references": [
+        "Wildfire geography"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIA ANALOGUE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA ANALOGUE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPERATE FRUIT VALLEYS",
+          "role": "outcome"
+        },
+        {
+          "text": "KULLU AND SHIMLA APPLE BELTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUITABLE HILL ORCHARDS",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAPE BELT, NOT CS CLIMATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KASHMIR \u2192 temperate fruit valleys",
+        "HIMACHAL \u2192 Kullu and Shimla apple belts",
+        "UTTARAKHAND \u2192 suitable hill orchards",
+        "MAHARASHTRA \u2192 grape belt, not Cs climate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "KASHMIR \u2192 temperate fruit valleys",
+            "HIMACHAL \u2192 Kullu and Shimla apple belts"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UTTARAKHAND \u2192 suitable hill orchards",
+            "MAHARASHTRA \u2192 grape belt, not Cs climate"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "KASHMIR \u2192 temperate fruit valleys",
+            "HIMACHAL \u2192 Kullu and Shimla apple belts"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "UTTARAKHAND \u2192 suitable hill orchards",
+            "MAHARASHTRA \u2192 grape belt, not Cs climate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UTTARAKHAND \u2192 suitable hill orchards; MAHARASHTRA \u2192 grape belt, not Cs climate.",
+      "source_references": [
+        "India analogue boundary",
+        "Himalayan fruit regions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "APPLE VIABILITY LADDER",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "APPLE VIABILITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "WINTER CHILL",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTIVAR-SPECIFIC DORMANCY",
+          "role": "comparison"
+        },
+        {
+          "text": "FROST, HAIL, ASPECT AND WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADING AND STORAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ROADS, COLD CHAIN AND TIMING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WINTER CHILL \u2192 cultivar-specific dormancy",
+        "SITE \u2192 frost, hail, aspect and water",
+        "HARVEST \u2192 grading and storage",
+        "MARKET \u2192 roads, cold chain and timing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WINTER CHILL \u2192 cultivar-specific dormancy",
+            "SITE \u2192 frost, hail, aspect and water"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HARVEST \u2192 grading and storage",
+            "MARKET \u2192 roads, cold chain and timing"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WINTER CHILL \u2192 cultivar-specific dormancy",
+            "SITE \u2192 frost, hail, aspect and water"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HARVEST \u2192 grading and storage; MARKET \u2192 roads, cold chain and timing.",
+      "source_references": [
+        "Chilling, perishability and grapes"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MEDITERRANEAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MEDITERRANEAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN MARGINS AT 30-45 DEGREES",
+          "role": "outcome"
+        },
+        {
+          "text": "SUMMER HIGH",
+          "role": "comparison"
+        },
+        {
+          "text": "WINTER WESTERLIES",
+          "role": "evidence"
+        },
+        {
+          "text": "SCLEROPHYLL, CROPS AND FIRE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA IS AN ORCHARD ANALOGUE ONLY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LOCATE \u2192 western margins at 30-45 degrees",
+        "DERIVE \u2192 summer high / winter westerlies",
+        "LINK \u2192 sclerophyll, crops and fire",
+        "QUALIFY \u2192 India is an orchard analogue only"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "LOCATE \u2192 western margins at 30-45 degrees",
+            "DERIVE \u2192 summer high / winter westerlies"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LINK \u2192 sclerophyll, crops and fire",
+            "QUALIFY \u2192 India is an orchard analogue only"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "LOCATE \u2192 western margins at 30-45 degrees",
+            "DERIVE \u2192 summer high / winter westerlies"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY \u2192 India is an orchard analogue only.",
+      "source_references": [
+        "ICAR adaptation and PYQ boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA HAS NO TRUE MEDITERRANEAN (CS) CLIMATE .",
+          "role": "caution"
+        },
+        {
+          "text": "HIMALAYAN TEMPERATE HORTICULTURE IS INDIA\u2019S MEDITERRANEAN-STYLE ORCHARD ANALOGUE.",
+          "role": "comparison"
+        },
+        {
+          "text": "HIMALAYAS ARE KNOWN FOR APPLE, PEACH, CHERRY, PEAR, MULBERRY",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLE IS A TEMPERATE FRUIT CROP .",
+          "role": "primary"
+        },
+        {
+          "text": "APPLE SUITABILITY DEPENDS ON WINTER CHILLING, FROST/HAIL EXPOSURE, GROWING-SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "NUMERICAL THRESHOLDS VARY BY CULTIVAR AND ORCHARD ALTITUDE; USE",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLE ORCHARDS SHOULD BE FREE FROM HAILSTORMS AND FROST.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "India has no true Mediterranean (Cs) climate .",
+            "Himalayan temperate horticulture is India\u2019s Mediterranean-style orchard analogue.",
+            "Himalayas are known for apple, peach, cherry, pear, mulberry, walnut, almond and apricot orchards.",
+            "Apple is a temperate fruit crop ."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Apple suitability depends on winter chilling, frost/hail exposure, growing-season temperature and water.",
+            "Numerical thresholds vary by cultivar and orchard altitude; use them only with the source context.",
+            "Apple orchards should be free from hailstorms and frost.",
+            "Main apple areas: Kullu, Shimla, Kashmir Valley, hilly Uttarakhand ."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Apple is perishable and requires quick, efficient transport.",
+            "Nashik and adjoining Maharashtra districts form a major grape/wine belt; Sangli is also important for grapes.",
+            "NOT: India has a Mediterranean climate in Kashmir \u2192 India lacks true Cs; Kashmir is a temperate horticultural analogue.",
+            "NOT: Indian grapes are grown mainly in the Himalayas \u2192 Main viticulture belt is Nashik\u2013Sangli, Maharashtra."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

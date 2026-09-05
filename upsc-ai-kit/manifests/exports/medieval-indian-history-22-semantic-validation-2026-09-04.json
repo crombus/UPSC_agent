@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-22",
+  "record_id": "medieval-indian-history-22:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval_false": true,
+    "h2_order": true,
+    "canonical": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "agreement": true,
+    "layout": true,
+    "same_master": true,
+    "hashes": true,
+    "tests": true,
+    "validator": true,
+    "final_library": true,
+    "topic23_untouched": true,
+    "queue": true
+  },
+  "metrics": {
+    "main_pages": 96,
+    "workbook_pages": 28,
+    "solved_blocks": 11,
+    "mcqs": 80,
+    "ascii_panels": 12,
+    "graphical_stages": 12,
+    "master_dimensions_px": [
+      4800,
+      11258
+    ],
+    "tile_pages": 4,
+    "tile_overlap_min_px": 559,
+    "ascii_max_line_characters": 92,
+    "targeted_tests": 86,
+    "deliverable_hashes_checked": 90
+  },
+  "deliverable_hash_errors": {}
+}

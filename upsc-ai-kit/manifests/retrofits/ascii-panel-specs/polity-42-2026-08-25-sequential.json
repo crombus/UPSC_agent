@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "id": "polity-42-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-42": {
+      "title": "Anti Defection Law",
+      "source_record": "polity-42:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g4-source\\polity-42_g4-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From 1967 instability to the 52nd and 91st Amendment design",
+          "structural_type": "defection-amendment-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 2",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+          ],
+          "full_text": "ROOT QUESTION\nHow can party-government stability be protected without extinguishing legislative judgment?\n\n1967 defections -> Committee on Defections -> 52nd Amendment Act 1985.\nTenth Schedule effective 1 March 1985.\n\n52ND AMENDMENT\nArticles 101, 102, 190, 191 + Tenth Schedule.\n\n91ST AMENDMENT\nsplit defence deleted | ministry-size caps\n| Articles 75(1B), 164(1B), 361B office disabilities.\n\nCURRENT PARAGRAPH MAP\n1 definitions | 2 grounds | 3 omitted | 4 merger\n| 5 presiding exemption | 6 decision | 7 invalid court bar | 8 rules."
+        },
+        {
+          "title": "Grounds and member-type rules",
+          "structural_type": "member-ground-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+          ],
+          "full_text": "PARTY MEMBER\nvoluntarily gives up membership\nOR votes/abstains contrary to direction without prior permission,\nunless condoned within fifteen days.\n\nINDEPENDENT MEMBER\njoining a political party after election -> disqualification.\nNo six-month window.\n\nNOMINATED MEMBER\nmay join within six months from taking the seat;\njoining after that period -> disqualification.\n\nRavi S. Naik (1994)\nvoluntarily giving up is wider than formal resignation and may be inferred from conduct.\n\nTRAP\ndissenting speech alone is not automatically paragraph 2(1)(b) voting conduct."
+        },
+        {
+          "title": "Political party, legislature party and the exact whip test",
+          "structural_type": "party-whip-authority-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 19"
+          ],
+          "full_text": "ORIGINAL POLITICAL PARTY\nparty to which the member belongs for Schedule purposes.\n\nLEGISLATURE PARTY\nHouse members belonging to the same political party.\n\nWHIP TEST\nauthorised party direction -> vote or abstention\n-> no prior permission -> no condonation within fifteen days.\n\nSubhash Desai (2023)\nthe political party, not a legislature-party faction acting alone,\nauthorises the whip/leader for Tenth Schedule purposes.\n\nCURRENT LAW\ndirection may reach ordinary votes under the text.\n\nPROPOSAL\nrestrict whips to confidence, no-confidence, Money Bills or core manifesto matters."
+        },
+        {
+          "title": "Merger, deleted split and the narrow presiding-officer exemption",
+          "structural_type": "merger-replacement-diagram",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+          ],
+          "full_text": "PARAGRAPH 3\none-third split defence omitted by the 91st Amendment.\n\nPARAGRAPH 4\noriginal political party merger + not less than two-thirds of legislature party agree\n-> protected choice to join merger or operate as separate group under the text.\n\nINTERPRETIVE CAUTION\ntwo-thirds legislators cannot be written as a free-standing permission to switch parties;\noriginal-party and deeming provisions remain central and live disputes must be qualified.\n\nPARAGRAPH 5\nnarrow exemption for specified presiding officers on giving up/rejoining party\nsubject to exact office and timing conditions.\n\nTRAP\nSpeaker neutrality aspiration does not create a general exemption for every office-holder."
+        },
+        {
+          "title": "Presiding-officer process, natural justice and judicial review",
+          "structural_type": "adjudication-review-rail",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "FIRST INSTANCE\nSpeaker/Chairman decides; if that officer is concerned, House elects another member.\n\nPROCESS\npetition -> maintainability/facts -> notice -> reply/evidence -> hearing\n-> reasoned decision -> seat consequence.\n\nKihoto Hollohan (1992)\npresiding officer acts as tribunal; paragraph 7 invalid for lack of ratification;\nlimited judicial review survives for jurisdictional error, mala fides and natural justice.\n\nKeisham Meghachandra Singh (2020)\nabsent exceptional circumstances, petitions should ordinarily be decided within three months.\n\nLIMIT\ncourts ordinarily do not replace the Speaker as first-instance fact finder."
+        },
+        {
+          "title": "Resignation, disqualification and the 91st-Amendment office bars",
+          "structural_type": "exit-consequence-chronology",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 17"
+          ],
+          "full_text": "CHRONOLOGY\nalleged defection -> petition -> resignation -> Speaker decisions -> judicial review.\n\nShrimanth Balasaheb Patil (2019)\nresignation does not erase antecedent disqualification;\nSpeaker cannot add an extra re-election ban beyond constitutional text.\n\nDIRECT EFFECT\nloss of House membership under Articles 102(2)/191(2).\n\nOFFICE DISABILITIES\nArticles 75(1B), 164(1B), 361B\n-> minister/remunerative-political-post bar for the constitutionally defined period.\n\nLIMIT\nTenth Schedule disqualification is not a criminal conviction or universal public-office ban."
+        },
+        {
+          "title": "Case-law chronology and controlled propositions",
+          "structural_type": "case-doctrine-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CASE SPINE\nKihoto Hollohan (1992) -> Schedule upheld; paragraph 7 invalid; review survives.\nRavi S. Naik (1994) -> voluntary giving up may be inferred from conduct.\nG. Viswanathan (1996) -> expulsion does not erase deemed party belonging.\nRajendra Singh Rana (2007) -> inaction cannot protect an unsupported split claim.\nNabam Rebia (2016) -> removal-notice restriction; correctness later referred.\nShrimanth Balasaheb Patil (2019) -> resignation does not erase prior defection.\nKeisham Meghachandra Singh (2020) -> ordinary three-month outer limit.\nSubhash Desai (2023) -> political party authorises whip; institutional roles separated."
+        },
+        {
+          "title": "Delay, judicial remedies and current doctrinal control",
+          "structural_type": "delay-remedy-status-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "TEXT\nTenth Schedule contains no express deadline.\n\nJUDICIAL CONTROL\nKihoto Hollohan (1992) -> ordinarily review after decision.\nRajendra Singh Rana (2007) -> court may correct disabling inaction.\nKeisham Meghachandra Singh (2020) -> ordinarily three months from filing,\nabsent exceptional circumstances supported by reasons.\nTelangana judgment (2025) -> case-specific three-month direction.\n\nPENDING DOCTRINE\nSubhash Desai (2023) referred Nabam Rebia (2016) to seven judges.\nNo verified later merits ruling by 28 August 2026.\n\nTRAP\nconstitutional silence is not unlimited delay; a judicial norm is not enacted text."
+        },
+        {
+          "title": "Nabam Rebia (2016) and Subhash Desai (2023): institutional roles",
+          "structural_type": "institutional-conflict-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 19"
+          ],
+          "full_text": "Nabam Rebia (2016)\nSpeaker facing a pending removal notice was held disabled from deciding defection petitions.\n\nPENDING QUALIFICATION\nSubhash Desai (2023) referred correctness of that rule to a seven-judge bench.\nDo not write Nabam Rebia (2016) as finally overruled.\n\nSubhash Desai (2023)\npolitical party authorises whip | Speaker determines party identity for Schedule purpose\n| ECI symbol proceeding is separate | Governor cannot decide intra-party leadership.\n\nDISTRIBUTED ROLES\nSpeaker -> defection | ECI -> symbol/order field\n| Governor -> constitutional functions | court -> review.\n\nTRAP\nfloor test, symbol dispute and defection petition answer different legal questions."
+        },
+        {
+          "title": "Democratic balance, comparison and reform choices",
+          "structural_type": "stability-freedom-reform-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 20",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 21",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 24"
+          ],
+          "full_text": "GAINS\nreduces open floor-crossing | protects mandate | supports government stability.\n\nCOSTS\nbroad whip suppresses deliberation | Speaker incentives | strategic delay\n| merger engineering | resignation tactics | weakened committee scrutiny.\n\nCOMPARE\nTenth Schedule -> Speaker/Chairman.\nArticles 102(1)/191(1) post-election question -> President/Governor on ECI opinion.\nRPA -> statutory grounds/procedure | privilege -> House discipline\n| symbol dispute -> ECI field.\n\nREFORM OPTIONS\nnarrow whip | independent tribunal/ECI-advice model | statutory time limit\n| reasoned public procedure | neutral presiding-office safeguards.\n\nSTATUS\nthese are proposals unless enacted or judicially ordered in a particular case."
+        },
+        {
+          "title": "Verified PYQs and executable answer architecture",
+          "structural_type": "pyq-answer-spine",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "VERIFIED PYQS\n2022 Prelims Q16 -> nominated-member window + no express decision time-frame; answer B.\n2025 Prelims Q88 -> Speaker/Chairman decider + political party appears; answer D.\n2023 GS-II Q5 -> State presiding officers, impartiality and best democratic practices.\n\nPRELIMS FILTER\nmember type -> conduct -> period -> threshold -> decider -> review.\n\nMAINS SPINE\nhistory -> paragraph 2 grounds -> paragraph 4 defence -> paragraph 6 process\n-> judicial review and delay -> resignation/office bars -> evaluation -> reform.\n\nCOMPRESSION\nretain exact text + one controlling case + mechanism + qualification + verdict."
+        },
+        {
+          "title": "UPSC traps, verified PYQs and qualified answer synthesis",
+          "structural_type": "exam-defection-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 25",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 26",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md#SESSION 27"
+          ],
+          "full_text": "PRELIMS FIREWALL\n52nd created | 91st tightened | split deleted | merger two-thirds\n| giving up wider than resignation | independent no window\n| nominated six months | condonation fifteen days\n| Speaker first | judicial review survives | defection not crime.\n\nVERIFIED ROUTES\n2022 Prelims -> nominated members.\n2025 Prelims -> political-party and Tenth Schedule distinction.\n2023 GS-II supporting route -> presiding-officer impartiality.\n\nMAINS SPINE\nhistory -> grounds/member types -> party/whip\n-> merger -> process/review/delay -> resignation/office bars\n-> institutional conflicts -> stability-freedom balance -> bounded reform.\n\nVERDICT\nstability needs discipline, but democratic legitimacy needs a narrower whip,\nneutral adjudication and enforceable decision time."
+        }
+      ]
+    }
+  }
+}

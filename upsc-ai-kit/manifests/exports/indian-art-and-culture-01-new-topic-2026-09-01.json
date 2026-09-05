@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "topic_key": "indian-art-and-culture-01",
+  "subject": "Indian-Art-and-Culture",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "indian-art-and-culture-01",
+  "title": "Architecture Foundations and Harappan Urbanism",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: Indian Art and Culture — Subject-wide Syllabus — Architecture Foundations and Harappan Urbanism",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-01_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-01_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\01_Architecture-Foundations-and-Harappan-Urbanism_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Nitin Singhania's Indian Art and Culture.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://whc.unesco.org/en/list/1645/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\01_Architecture-Foundations-and-Harappan-Urbanism_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-01_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-01_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-01-02-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Art-and-Culture\\indian-art-and-culture-01.json",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "books\\Nitin Singhania's Indian Art and Culture.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "One direct Mains demand is verified: 2025 GS-I on the salient features of Harappan architecture. Its wording is reproduced only from the routed repository owner; no additional PYQ is invented.",
+  "current_linkage_note": "UNESCO's official Dholavira property page was fetched on 2026-09-01. It corroborates planned urban areas, fortifications, reservoirs and drainage. The package imports no changing count, excavation claim or unsupported measurement from the page.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

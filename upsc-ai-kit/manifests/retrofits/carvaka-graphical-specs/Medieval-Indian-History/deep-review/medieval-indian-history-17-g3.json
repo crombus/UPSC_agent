@@ -1,0 +1,1114 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-17",
+  "subject": "Medieval-Indian-History",
+  "title": "AKBAR'S RELIGIOUS VIEWS: IBADAT KHANA & DIN-I-ILAHI",
+  "short_route": "EVOLUTION, NOT A SUDDEN → FIVE LAYERS OF AKBAR'S → IBADAT KHANA DEBATE CYCLE → INTERFAITH ENCOUNTER: INFLUENCE IS → THE DEBATE PARADOX → MAHZAR: SCOPE BEFORE SIGNIFICANCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-17-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "3a94e1097afdea3a5e01edcd8b09440f7807b77c28e7fc5d157ee81bee821388",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EVOLUTION, NOT A SUDDEN CREED",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EVOLUTION, NOT A SUDDEN CREED",
+          "role": "caution"
+        },
+        {
+          "text": "PILGRIM TAX REMITTED",
+          "role": "outcome"
+        },
+        {
+          "text": "JIZYAH ABOLISHED",
+          "role": "comparison"
+        },
+        {
+          "text": "IBADAT KHANA BUILT AT FATEHPUR SIKRI",
+          "role": "evidence"
+        },
+        {
+          "text": "DEBATES WIDENED BEYOND MUSLIM PARTICIPANTS",
+          "role": "primary"
+        },
+        {
+          "text": "MAHZAR GIVES AKBAR A BOUNDED ARBITRAL ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "REBELLION AND ORTHODOX OPPOSITION SHARPEN THE SOVEREIGNTY ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC DEBATES CLOSE; TAUHID-I-ILAHI DISCIPLESHIP PHASE EMERGES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1563 → pilgrim tax remitted",
+        "1564 → jizyah abolished",
+        "1575 → Ibadat Khana built at Fatehpur Sikri",
+        "1578 → debates widened beyond Muslim participants",
+        "1579 → Mahzar gives Akbar a bounded arbitral role"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1563 → pilgrim tax remitted",
+            "1564 → jizyah abolished",
+            "1575 → Ibadat Khana built at Fatehpur Sikri"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1578 → debates widened beyond Muslim participants",
+            "1579 → Mahzar gives Akbar a bounded arbitral role",
+            "1580-81 → rebellion and orthodox opposition sharpen the sovereignty issue"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1581-82 → public debates close; Tauhid-i-Ilahi discipleship phase emerges.",
+            "MUST REMEMBER: Ibadat Khana (1575), Mahzar (1579), sulh-i kul and Tauhid-i-Ilahi belong to an evolving imperial debate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Ibadat Khana (1575), Mahzar (1579), sulh-i kul and Tauhid-i-Ilahi belong to an evolving imperial debate.",
+      "source_references": [
+        "Chronology",
+        "Pilgrim tax",
+        "Jizyah",
+        "Ibadat Khana",
+        "Mahzar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FIVE LAYERS OF AKBAR'S RELIGIOUS POLICY",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FIVE LAYERS OF AKBAR'S RELIGIOUS POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "CHISHTI LINKS, INQUIRY, PRAYER AND SPIRITUAL SEARCH",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTED RELIGIOUS DISABILITIES REMOVED IN 1563-64",
+          "role": "comparison"
+        },
+        {
+          "text": "IBADAT KHANA, TRANSLATIONS AND COMPARATIVE ENCOUNTER",
+          "role": "evidence"
+        },
+        {
+          "text": "MAHZAR AND FINAL IMPERIAL ARBITRATION",
+          "role": "primary"
+        },
+        {
+          "text": "SULH-I-KUL, JUSTICE AND NON-SECTARIAN ACCOMMODATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SMALL TAUHID-I-ILAHI CIRCLE AROUND THE SOVEREIGN.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PERSONAL → Chishti links, inquiry, prayer and spiritual search",
+        "FISCAL → selected religious disabilities removed in 1563-64",
+        "INTELLECTUAL → Ibadat Khana, translations and comparative encounter",
+        "SOVEREIGN → Mahzar and final imperial arbitration",
+        "GOVERNING → sulh-i-kul, justice and non-sectarian accommodation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PERSONAL → Chishti links, inquiry, prayer and spiritual search",
+            "FISCAL → selected religious disabilities removed in 1563-64"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "INTELLECTUAL → Ibadat Khana, translations and comparative encounter",
+            "SOVEREIGN → Mahzar and final imperial arbitration"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GOVERNING → sulh-i-kul, justice and non-sectarian accommodation",
+            "DISCIPLESHIP → small Tauhid-i-Ilahi circle around the sovereign."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLESHIP → small Tauhid-i-Ilahi circle around the sovereign.",
+      "source_references": [
+        "Personal belief",
+        "State policy",
+        "Sulh-i-kul",
+        "Discipleship",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "IBADAT KHANA DEBATE CYCLE",
+      "structural_type": "process",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "IBADAT KHANA DEBATE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "BUILD 1575",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT-LINKED PRAYER AND DISPUTATION FORUM",
+          "role": "institution"
+        },
+        {
+          "text": "FIRST PHASE",
+          "role": "evidence"
+        },
+        {
+          "text": "ULAMA, SUFIS, SCHOLARS AND COMPANIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DOCTRINE, PRECEDENCE AND COURT STATUS BECOME ENTANGLED",
+          "role": "institution"
+        },
+        {
+          "text": "HINDU, JAIN, CHRISTIAN AND ZOROASTRIAN INTERLOCUTORS",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE VOICES, BUT NO SHARED THEOLOGICAL SETTLEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BUILD 1575 → court-linked prayer and disputation forum",
+        "FIRST PHASE → ulama, Sufis, scholars and companions",
+        "CONFLICT → doctrine, precedence and court status become entangled",
+        "WIDENING → Hindu, Jain, Christian and Zoroastrian interlocutors",
+        "PARADOX → more voices, but no shared theological settlement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BUILD 1575 → court-linked prayer and disputation forum",
+            "FIRST PHASE → ulama, Sufis, scholars and companions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CONFLICT → doctrine, precedence and court status become entangled",
+            "WIDENING → Hindu, Jain, Christian and Zoroastrian interlocutors"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PARADOX → more voices, but no shared theological settlement",
+            "CLOSURE → public forum ends; private inquiry and translation continue."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSURE → public forum ends; private inquiry and translation continue.",
+      "source_references": [
+        "Ibadat Khana",
+        "Participants",
+        "Debate",
+        "Closure",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INTERFAITH ENCOUNTER: INFLUENCE IS NOT CONVERSION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTERFAITH ENCOUNTER",
+          "role": "primary"
+        },
+        {
+          "text": "INFLUENCE IS NOT CONVERSION",
+          "role": "caution"
+        },
+        {
+          "text": "INTERLOCUTORS AND TRANSLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT AKBAR BECOMING HINDU",
+          "role": "caution"
+        },
+        {
+          "text": "PETITIONS AND ANIMAL-LIFE CONCERNS",
+          "role": "primary"
+        },
+        {
+          "text": "NOT A UNIVERSAL PERMANENT BAN",
+          "role": "caution"
+        },
+        {
+          "text": "BOOKS, IMAGES AND THEOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "COURTESY IS NOT CHRISTIAN CONVERSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HINDU → interlocutors and translation",
+        "not Akbar becoming Hindu",
+        "JAIN → petitions and animal-life concerns",
+        "not a universal permanent ban",
+        "JESUIT → books, images and theology"
+      ],
+      "matrix": [
+        [
+          "HINDU → interlocutors and translation",
+          "not Akbar becoming Hindu"
+        ],
+        [
+          "JAIN → petitions and animal-life concerns",
+          "not a universal permanent ban"
+        ],
+        [
+          "JESUIT → books, images and theology",
+          "courtesy is not Christian conversion"
+        ],
+        [
+          "ZOROASTRIAN → Meherji Rana and light symbols",
+          "symbolism is not adoption"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HINDU → interlocutors and translation",
+            "not Akbar becoming Hindu",
+            "JAIN → petitions and animal-life concerns",
+            "not a universal permanent ban"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "JESUIT → books, images and theology",
+            "courtesy is not Christian conversion",
+            "ZOROASTRIAN → Meherji Rana and light symbols",
+            "symbolism is not adoption"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SUFI-ISLAMIC → tawhid and pir-murid idiom remain central continuities",
+            "RULE: state the encounter, evidence, bounded influence and non-equivalence."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: state the encounter, evidence, bounded influence and non-equivalence.",
+      "answer_line": "state the encounter, evidence, bounded influence and non-equivalence.",
+      "source_references": [
+        "Hindu",
+        "Jain",
+        "Jesuit",
+        "Zoroastrian",
+        "Sufi",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE DEBATE PARADOX",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE DEBATE PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL FORUM",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTICIPANTS COMPETE BEFORE THE EMPEROR",
+          "role": "comparison"
+        },
+        {
+          "text": "DOCTRINAL CERTAINTY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARGUMENT HARDENS RATHER THAN DISSOLVES",
+          "role": "primary"
+        },
+        {
+          "text": "COURT STATUS",
+          "role": "institution"
+        },
+        {
+          "text": "THEOLOGICAL DISPUTE ALSO BECOMES POLITICAL RIVALRY",
+          "role": "comparison"
+        },
+        {
+          "text": "AKBAR'S LESSON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROYAL FORUM → participants compete before the emperor",
+        "DOCTRINAL CERTAINTY → argument hardens rather than dissolves",
+        "COURT STATUS → theological dispute also becomes political rivalry",
+        "AKBAR'S LESSON → no one clerical network can secure plural order",
+        "POLICY SHIFT → theological concord yields to non-sectarian governance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ROYAL FORUM → participants compete before the emperor",
+            "DOCTRINAL CERTAINTY → argument hardens rather than dissolves"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COURT STATUS → theological dispute also becomes political rivalry",
+            "AKBAR'S LESSON → no one clerical network can secure plural order"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "POLICY SHIFT → theological concord yields to non-sectarian governance",
+            "VERDICT: dialogue failed as consensus but mattered for statecraft."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: dialogue failed as consensus but mattered for statecraft.",
+      "answer_line": "dialogue failed as consensus but mattered for statecraft.",
+      "source_references": [
+        "Debate failure",
+        "Court politics",
+        "Statecraft",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MAHZAR: SCOPE BEFORE SIGNIFICANCE",
+      "structural_type": "myth-vs-rule",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCOPE BEFORE SIGNIFICANCE",
+          "role": "primary"
+        },
+        {
+          "text": "AKBAR BECAME POPE, PROPHET OR AN INFALLIBLE LAWGIVER",
+          "role": "outcome"
+        },
+        {
+          "text": "AFTER JURISTS DISAGREE, HE SELECTS AN EXISTING OPINION FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "CLERICAL MONOPOLY NARROWS AS IMPERIAL ARBITRATION GROWS",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDED JURISTIC CHOICE IS NOT UNLIMITED SACRED LEGISLATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MYTH → Akbar became pope, prophet or an infallible lawgiver",
+        "RULE → after jurists disagree, he selects an existing opinion for public welfare",
+        "SIGNIFICANCE → clerical monopoly narrows as imperial arbitration grows",
+        "LIMIT → bounded juristic choice is not unlimited sacred legislation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MYTH → Akbar became pope, prophet or an infallible lawgiver",
+            "RULE → after jurists disagree, he selects an existing opinion for public welfare"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SIGNIFICANCE → clerical monopoly narrows as imperial arbitration grows",
+            "LIMIT → bounded juristic choice is not unlimited sacred legislation."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MYTH → Akbar became pope, prophet or an infallible lawgiver",
+            "RULE → after jurists disagree, he selects an existing opinion for public welfare"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → after jurists disagree, he selects an existing opinion for public welfare.",
+      "source_references": [
+        "Mahzar",
+        "Imperial sovereignty",
+        "Decree of Infallibility",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SULH-I-KUL AS A GOVERNING PRINCIPLE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SULH-I-KUL AS A GOVERNING PRINCIPLE",
+          "role": "primary"
+        },
+        {
+          "text": "A PLURAL, RANKED EMPIRE NEEDS ORDER BEYOND THEOLOGICAL AGREEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE, TAX REFORM, WIDER SERVICE AND CALIBRATED PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE EMPEROR STILL DEFINES INCLUSION, PROTECTION AND COERCION",
+          "role": "evidence"
+        },
+        {
+          "text": "DURABLE IMPERIAL IDIOM, NOT MODERN CONSTITUTIONAL SECULARISM.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → a plural, ranked empire needs order beyond theological agreement",
+        "MECHANISM → justice, tax reform, wider service and calibrated patronage",
+        "LIMIT → the emperor still defines inclusion, protection and coercion",
+        "VERDICT: durable imperial idiom, not modern constitutional secularism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PROBLEM → a plural, ranked empire needs order beyond theological agreement",
+            "MECHANISM → justice, tax reform, wider service and calibrated patronage"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT → the emperor still defines inclusion, protection and coercion",
+            "VERDICT: durable imperial idiom, not modern constitutional secularism."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PROBLEM → a plural, ranked empire needs order beyond theological agreement",
+            "MECHANISM → justice, tax reform, wider service and calibrated patronage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: durable imperial idiom, not modern constitutional secularism.",
+      "source_references": [
+        "Sulh-i-kul",
+        "Justice",
+        "Composite nobility",
+        "Limits",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TAUHID-I-ILAHI: NEITHER MASS RELIGION NOR NOTHING",
+      "structural_type": "balance-sheet",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NEITHER MASS RELIGION NOR NOTHING",
+          "role": "primary"
+        },
+        {
+          "text": "SCRIPTURE, PRIESTHOOD, CONGREGATION AND MASS MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "INITIATION, CONDUCT, GREETINGS AND GRADED DEVOTION LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SMALL ELITE CIRCLE; BIRBAL; SUFI-LIKE GUIDE-DISCIPLE BOND",
+          "role": "evidence"
+        },
+        {
+          "text": "LOYALIST SPIRITUAL FELLOWSHIP, NOT A NEW UNIVERSAL RELIGION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ABSENT → scripture, priesthood, congregation and mass mission",
+        "PRESENT → initiation, conduct, greetings and graded devotion language",
+        "SCALE / IDIOM → small elite circle; Birbal; Sufi-like guide-disciple bond",
+        "VERDICT: loyalist spiritual fellowship, not a new universal religion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ABSENT → scripture, priesthood, congregation and mass mission",
+            "PRESENT → initiation, conduct, greetings and graded devotion language"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SCALE / IDIOM → small elite circle; Birbal; Sufi-like guide-disciple bond",
+            "VERDICT: loyalist spiritual fellowship, not a new universal religion."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ABSENT → scripture, priesthood, congregation and mass mission",
+            "PRESENT → initiation, conduct, greetings and graded devotion language"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: loyalist spiritual fellowship, not a new universal religion.",
+      "answer_line": "loyalist spiritual fellowship, not a new universal religion.",
+      "source_references": [
+        "Tauhid-i-Ilahi",
+        "Din-i-Ilahi",
+        "Birbal",
+        "Discipleship",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INCLUSION AND COERCION IN ONE EMPIRE",
+      "structural_type": "tension-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INCLUSION AND COERCION IN ONE EMPIRE",
+          "role": "primary"
+        },
+        {
+          "text": "TAX RELIEF, SERVICE, DIALOGUE AND NON-SECTARIAN JUSTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "RANK, CONQUEST AND PUNISHMENT REMAIN SOVEREIGN TOOLS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ORDERS ARE UNEVEN; POLICY DEPENDS ON THE RULER",
+          "role": "primary"
+        },
+        {
+          "text": "PRAISE INNOVATION WITHOUT INVENTING EQUALITY OR NEUTRALITY.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INCLUSION → tax relief, service, dialogue and non-sectarian justice",
+        "HIERARCHY / COERCION → rank, conquest and punishment remain sovereign tools",
+        "SOCIAL LIMIT → orders are uneven; policy depends on the ruler",
+        "RULE: praise innovation without inventing equality or neutrality."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INCLUSION → tax relief, service, dialogue and non-sectarian justice",
+            "HIERARCHY / COERCION → rank, conquest and punishment remain sovereign tools"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SOCIAL LIMIT → orders are uneven; policy depends on the ruler",
+            "RULE: praise innovation without inventing equality or neutrality."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "INCLUSION → tax relief, service, dialogue and non-sectarian justice",
+            "HIERARCHY / COERCION → rank, conquest and punishment remain sovereign tools"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE: praise innovation without inventing equality or neutrality.",
+      "source_references": [
+        "Inclusion",
+        "Coercion",
+        "Hierarchy",
+        "Implementation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SOURCE TRIANGLE AND EVIDENTIARY LIMITS",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE TRIANGLE AND EVIDENTIARY LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "ABUL FAZL",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY AND KINGSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "COURTLY LEGITIMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DISSENT AND ENCOUNTER",
+          "role": "primary"
+        },
+        {
+          "text": "POLEMIC AND CONVERSION HOPES",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY ACTS AND SETTING",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN REACH, NO TRANSCRIPT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ABUL FAZL → policy and kingship",
+        "courtly legitimation",
+        "BADAUNI / JESUITS → dissent and encounter",
+        "polemic and conversion hopes",
+        "ORDERS / ARCHITECTURE → policy acts and setting"
+      ],
+      "matrix": [
+        [
+          "ABUL FAZL → policy and kingship",
+          "courtly legitimation"
+        ],
+        [
+          "BADAUNI / JESUITS → dissent and encounter",
+          "polemic and conversion hopes"
+        ],
+        [
+          "ORDERS / ARCHITECTURE → policy acts and setting",
+          "uneven reach, no transcript"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "ABUL FAZL → policy and kingship",
+            "courtly legitimation",
+            "BADAUNI / JESUITS → dissent and encounter"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "polemic and conversion hopes",
+            "ORDERS / ARCHITECTURE → policy acts and setting",
+            "uneven reach, no transcript"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "METHOD: state what each source proves, cannot prove and needs checked.",
+            "CLOSE DISTINCTION: Din-i-Ilahi/Tauhid-i-Ilahi was a restricted ethical discipleship, not a mass religion with a population census."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Din-i-Ilahi/Tauhid-i-Ilahi was a restricted ethical discipleship, not a mass religion with a population census.",
+      "source_references": [
+        "Abul Fazl",
+        "Badauni",
+        "Jesuits",
+        "Material evidence",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "2025 GS-I SYNCRETISM ANSWER MAP",
+      "structural_type": "answer-synthesis",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "2025 GS-I SYNCRETISM ANSWER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "LAYERED STATE-BUILDING PROGRAMME, NOT A SUDDEN MASS FAITH",
+          "role": "caution"
+        },
+        {
+          "text": "1563-64 FISCAL CHANGE; IBADAT KHANA INQUIRY AND WIDENING",
+          "role": "comparison"
+        },
+        {
+          "text": "MAHZAR ARBITRATION; SULH-I-KUL AND COMPOSITE LEGITIMACY",
+          "role": "evidence"
+        },
+        {
+          "text": "TAUHID FELLOWSHIP WAS SMALL AND POLICY REMAINED RULER-CENTRED.",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ABUL FAZL, BADAUNI AND LATER HISTORIANS SUPPLY DIFFERENTLY POSITIONED",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → layered state-building programme, not a sudden mass faith",
+        "EARLY → 1563-64 fiscal change; Ibadat Khana inquiry and widening",
+        "STATE → Mahzar arbitration; sulh-i-kul and composite legitimacy",
+        "CLOSE → Tauhid fellowship was small and policy remained ruler-centred.",
+        "EVIDENCE LIMIT: Abul Fazl, Badauni and later historians supply differently positioned evidence that must be"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → layered state-building programme, not a sudden mass faith",
+            "EARLY → 1563-64 fiscal change; Ibadat Khana inquiry and widening"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "STATE → Mahzar arbitration; sulh-i-kul and composite legitimacy",
+            "CLOSE → Tauhid fellowship was small and policy remained ruler-centred."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE LIMIT: Abul Fazl, Badauni and later historians supply differently positioned evidence that must be attributed and compared.",
+            "OPEN → layered state-building programme, not a sudden mass faith"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Abul Fazl, Badauni and later historians supply differently positioned evidence that must be attributed and compared.",
+      "source_references": [
+        "2025 GS-I",
+        "Religious syncretism",
+        "Answer architecture",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 17 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 17 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE BELIEF, DEBATE, SOVEREIGNTY, GOVERNANCE AND FELLOWSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "TAXES, IBADAT KHANA, MAHZAR, SULH-I-KUL AND TAUHID EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PLURAL EMPIRE, ELITE INTEGRATION AND PUBLIC ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE BIAS, COERCION, HIERARCHY AND LIMITED IMPLEMENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INNOVATIVE STATE FORMATION, NOT MODERN SECULARISM OR MASS RELIGION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → separate belief, debate, sovereignty, governance and fellowship",
+        "TRACE → 1563-64 → 1575 → 1578 → 1579 → 1581-82",
+        "PROVE → taxes, Ibadat Khana, Mahzar, sulh-i-kul and Tauhid evidence",
+        "ANALYSE → plural empire, elite integration and public order",
+        "QUALIFY → source bias, coercion, hierarchy and limited implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE → separate belief, debate, sovereignty, governance and fellowship",
+            "TRACE → 1563-64 → 1575 → 1578 → 1579 → 1581-82"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PROVE → taxes, Ibadat Khana, Mahzar, sulh-i-kul and Tauhid evidence",
+            "ANALYSE → plural empire, elite integration and public order"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "QUALIFY → source bias, coercion, hierarchy and limited implementation",
+            "VERDICT → innovative state formation, not modern secularism or mass religion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → innovative state formation, not modern secularism or mass religion.",
+      "source_references": [
+        "Answer architecture",
+        "Chronology",
+        "Qualified verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-17\\g3\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "AKBAR'S RELIGIOUS VIEWS",
+          "role": "outcome"
+        },
+        {
+          "text": "IBADAT KHANA & DIN-I-ILAHI — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "+ EXACT PYQ APPLICATION (2025 GS-I)",
+          "role": "outcome"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "comparison"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "+ Exact PYQ application (2025 GS-I)",
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "6. Current link",
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "The debates were held on Thursday nights; participants included sufi shaikhs, ulama, learned men and Akbar's companions."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-06",
+      "display_title": "Border Management and Border Area Development",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Border-management system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "BORDER SECURITY -> guarding / defence",
+            "BORDER MANAGEMENT -> guarding + regulation",
+            "                         + development + legal mobility",
+            "                         + bilateral mechanisms",
+            "RULE -> the wider system is the answer unit"
+          ],
+          "source_references": [
+            "Security-management distinction",
+            "Four-element framework",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Boundary-line matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IB -> mutually recognised / demarcated international boundary",
+            "LoC -> military control line in J&K context",
+            "LAC -> differently perceived India-China alignment",
+            "AGPL -> Siachen-sector line north of NJ 9842"
+          ],
+          "source_references": [
+            "Boundary vocabulary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "China-border answer map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISPUTED / DIFFERENTLY PERCEIVED LAC",
+            "-> PATROL / INFRASTRUCTURE / ESCALATION RISK",
+            "-> MILITARY-DIPLOMATIC MECHANISMS",
+            "-> DE-ESCALATION INPUT, NOT BOUNDARY SETTLEMENT"
+          ],
+          "source_references": [
+            "China-border character",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Pakistan segment map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RADCLIFFE IB -> guarding / smuggling / legal crossings",
+            "LoC -> military ceasefire + infiltration dimension",
+            "AGPL -> high-altitude military / logistics dimension",
+            "SIR CREEK -> separately unsettled maritime-adjacent issue"
+          ],
+          "source_references": [
+            "Pakistan-border segmentation",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Settled-by-instrument ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2014 -> INDIA-BANGLADESH MARITIME ARBITRAL AWARD",
+            "2015 -> LAND BOUNDARY AGREEMENT",
+            "2015 -> CONSTITUTION (100TH AMENDMENT) ACT",
+            "LESSON -> legal instrument can change boundary status"
+          ],
+          "source_references": [
+            "Bangladesh settled-by-instrument case",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mobility-regulation balance",
+          "structural_type": "balance-scale",
+          "ascii_lines": [
+            "NEPAL -> OPEN BORDER + LEGITIMATE MOVEMENT",
+            "MYANMAR -> ETHNIC / LIVELIHOOD LINKS + FMR STATUS",
+            "SECURITY -> risk-based checks and intelligence",
+            "SAFEGUARD -> notification clarity + community consultation"
+          ],
+          "source_references": [
+            "Nepal open-border case",
+            "Myanmar FMR status rule",
+            "Community-security link",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Force-to-border architecture",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "BSF -> PAKISTAN / BANGLADESH",
+            "ITBP -> CHINA",
+            "SSB -> NEPAL / BHUTAN",
+            "ASSAM RIFLES -> MYANMAR",
+            "PRINCIPLE -> one border, one force; verify actual overlap"
+          ],
+          "source_references": [
+            "Border-specific force map",
+            "One-border-one-force boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Scheme purpose firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BADP -> BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD",
+            "BIM -> BORDER INFRASTRUCTURE / GUARDING ASSETS",
+            "VVP -> SELECT NORTHERN VILLAGES; NO BADP OVERLAP",
+            "RULE -> sanction / outlay / asset is not outcome"
+          ],
+          "source_references": [
+            "BADP purpose",
+            "BIM purpose",
+            "BADP-BIM distinction",
+            "Vibrant Villages boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "CIBMS capability chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SENSOR -> NETWORK -> FUSED AWARENESS",
+            "-> COMMAND DECISION -> LAWFUL RESPONSE",
+            "-> RECOVERY / FORENSICS -> INVESTIGATION",
+            "TRAP -> a detected track is not an interdiction"
+          ],
+          "source_references": [
+            "CIBMS role",
+            "Input-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Legal-crossing system",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INTEGRATED CHECK POST",
+            "-> CUSTOMS + IMMIGRATION + REGULATORY SERVICES",
+            "LPAI -> DEVELOPMENT / MANAGEMENT OF LAND PORTS",
+            "RESULT SOUGHT -> facilitation and enforcement together",
+            "MUST REMEMBER: Border management integrates boundary status, border-guarding force,..."
+          ],
+          "source_references": [
+            "ICP-LPAI role",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-06_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Adversarial UAV response",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "VECTOR -> SURVEILLANCE / WEAPON / CONTRABAND",
+            "DETECT -> IDENTIFY -> LAWFUL COUNTER-ACTION",
+            "RECOVER -> FORENSICS -> ATTRIBUTION / PROSECUTION",
+            "LIMIT -> no unsourced incident or interception count",
+            "CLOSE DISTINCTION: International Boundary is not Line of Control or Line of Actual..."
+          ],
+          "source_references": [
+            "Adversarial-UAV classification",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-06_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "PYQ and end-state rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2020 -> MYANMAR / BANGLADESH / LoC COMPARISON",
+            "2023 -> UAV VECTOR + CAPABILITY + EVIDENCE",
+            "2024 -> CHINA / PAKISTAN + BADP / BIM",
+            "END -> differentiated borders + community + audited outcomes",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Match each frontier to the correct force..."
+          ],
+          "source_references": [
+            "Differentiated end-state",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-06\\g2\\internal-security-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-06_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

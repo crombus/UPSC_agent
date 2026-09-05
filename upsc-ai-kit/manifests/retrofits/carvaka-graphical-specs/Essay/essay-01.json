@@ -1,0 +1,1052 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-01",
+  "subject": "Essay",
+  "title": "PAPER RULES, CHOICE AND SELECTION",
+  "short_route": "OFFICIAL PAPER BOUNDARY → SECTION-CHOICE CONSTRAINT → PAPER-LAYOUT CAUTIONS → OFFICIAL VERSUS STRATEGIC → PROMPT VIABILITY GATE → FAMILIARITY TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-01_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-01-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "a9398f843d73557e2a22f88acaaf83cacf775329a1787fd9441a1955c47ad997",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "OFFICIAL PAPER BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OFFICIAL PAPER BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "2024 PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEAN TWO-ESSAY AND ONE-PER-SECTION INSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 PAPER",
+          "role": "evidence"
+        },
+        {
+          "text": "GARBLED ENGLISH LINE BUT TWO SECTIONS REMAIN CLEAR",
+          "role": "primary"
+        },
+        {
+          "text": "THREE-HOUR DURATION",
+          "role": "outcome"
+        },
+        {
+          "text": "AUDITED FACT IS NOT A PREDICTION OF A FUTURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2024 PAPER → clean two-essay and one-per-section instruction",
+        "2025 PAPER → garbled English line but two sections remain clear",
+        "SCHEME → three-hour duration",
+        "FIREWALL → audited fact is not a prediction of a future paper"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "2024 PAPER → clean two-essay and one-per-section instruction",
+          "SCHEME → three-hour duration",
+          "2024 PAPER → clean two-essay and one-per-section instruction"
+        ],
+        [
+          "2025 PAPER → garbled English line but two sections remain clear",
+          "FIREWALL → audited fact is not a prediction of a future paper",
+          "2025 PAPER → garbled English line but two sections remain clear"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "2024 PAPER → clean two-essay and one-per-section instruction",
+            "2025 PAPER → garbled English line but two sections remain clear"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SCHEME → three-hour duration",
+            "FIREWALL → audited fact is not a prediction of a future paper"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "2024 PAPER → clean two-essay and one-per-section instruction",
+            "2025 PAPER → garbled English line but two sections remain clear"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIREWALL → audited fact is not a prediction of a future paper.",
+      "source_references": [
+        "2024 printed instruction",
+        "2025 audited boundary",
+        "Duration boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SECTION-CHOICE CONSTRAINT",
+      "structural_type": "numbered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECTION-CHOICE CONSTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION A",
+          "role": "outcome"
+        },
+        {
+          "text": "SCAN FOUR PROMPTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOOSE ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION B",
+          "role": "primary"
+        },
+        {
+          "text": "TWO ESSAYS",
+          "role": "outcome"
+        },
+        {
+          "text": "BOTH CHOICES FROM THE SAME SECTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SECTION A → scan four prompts → choose one",
+        "SECTION B → scan four prompts → choose one",
+        "PAIR → two essays",
+        "INVALID → both choices from the same Section"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "SECTION A → scan four prompts → choose one",
+            "SECTION B → scan four prompts → choose one"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "PAIR → two essays",
+            "INVALID → both choices from the same Section"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "SECTION A → scan four prompts → choose one",
+            "SECTION B → scan four prompts → choose one"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVALID → both choices from the same Section.",
+      "source_references": [
+        "One-per-section constraint",
+        "Four-prompt choice set"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PAPER-LAYOUT CAUTIONS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PAPER-LAYOUT CAUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "HINDI THEN ENGLISH",
+          "role": "outcome"
+        },
+        {
+          "text": "2024 B NUMBERING",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 B NUMBERING",
+          "role": "evidence"
+        },
+        {
+          "text": "READ HEADINGS BEFORE RELYING ON NUMBERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BILINGUAL → Hindi then English",
+        "2024 B NUMBERING → restarts",
+        "2025 B NUMBERING → continues",
+        "ACTION → read headings before relying on numbers"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "BILINGUAL → Hindi then English",
+          "2025 B NUMBERING → continues",
+          "BILINGUAL → Hindi then English"
+        ],
+        [
+          "2024 B NUMBERING → restarts",
+          "ACTION → read headings before relying on numbers",
+          "2024 B NUMBERING → restarts"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "BILINGUAL → Hindi then English",
+            "2024 B NUMBERING → restarts"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "2025 B NUMBERING → continues",
+            "ACTION → read headings before relying on numbers"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "BILINGUAL → Hindi then English",
+            "2024 B NUMBERING → restarts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACTION → read headings before relying on numbers.",
+      "source_references": [
+        "Bilingual display",
+        "Numbering instability"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "OFFICIAL VERSUS STRATEGIC",
+      "structural_type": "firewall",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OFFICIAL VERSUS STRATEGIC",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTEMPT STRUCTURE AND AUDITED WORDING",
+          "role": "outcome"
+        },
+        {
+          "text": "SCAN, SCORE, ALLOCATE AND COMMIT",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT PRINTED",
+          "role": "caution"
+        },
+        {
+          "text": "GRANULAR RUBRIC OR PARAGRAPH COUNT",
+          "role": "primary"
+        },
+        {
+          "text": "NEVER PROMOTE A HEURISTIC INTO AN INSTRUCTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OFFICIAL → attempt structure and audited wording",
+        "STRATEGY → scan, score, allocate and commit",
+        "NOT PRINTED → granular rubric or paragraph count",
+        "RULE → never promote a heuristic into an instruction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "OFFICIAL → attempt structure and audited wording",
+            "STRATEGY → scan, score, allocate and commit"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NOT PRINTED → granular rubric or paragraph count",
+            "RULE → never promote a heuristic into an instruction"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICIAL → attempt structure and audited wording",
+            "STRATEGY → scan, score, allocate and commit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never promote a heuristic into an instruction.",
+      "source_references": [
+        "Rubric boundary",
+        "Rule-strategy firewall",
+        "Time allocation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROMPT VIABILITY GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROMPT VIABILITY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "RESTATABLE CLAIM?",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFIED THESIS?",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT DIMENSIONS?",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFE EVIDENCE?",
+          "role": "evidence"
+        },
+        {
+          "text": "IF ANY ANSWER IS NO, RAISE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESTATABLE CLAIM?",
+        "QUALIFIED THESIS?",
+        "DISTINCT DIMENSIONS?",
+        "SAFE EVIDENCE? → if any answer is no, raise risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "RESTATABLE CLAIM?",
+            "QUALIFIED THESIS?"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "DISTINCT DIMENSIONS?",
+            "SAFE EVIDENCE? → if any answer is no, raise risk"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "RESTATABLE CLAIM?",
+            "QUALIFIED THESIS?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE EVIDENCE? → if any answer is no, raise risk.",
+      "source_references": [
+        "Thesis-fit",
+        "Interpretive clarity",
+        "Dimension distinctness",
+        "Evidence availability"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FAMILIARITY TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FAMILIARITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILIAR + THESIS-FIT",
+          "role": "outcome"
+        },
+        {
+          "text": "FAMILIAR + FACT STACK",
+          "role": "comparison"
+        },
+        {
+          "text": "UNFAMILIAR + CLEAR TENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "POTENTIALLY SAFER",
+          "role": "primary"
+        },
+        {
+          "text": "TRACTABILITY OUTRANKS COMFORT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FAMILIAR + THESIS-FIT → usable",
+        "FAMILIAR + FACT STACK → unsafe",
+        "UNFAMILIAR + CLEAR TENSION → potentially safer",
+        "DECISION → tractability outranks comfort"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "FAMILIAR + THESIS-FIT → usable",
+          "UNFAMILIAR + CLEAR TENSION → potentially safer",
+          "FAMILIAR + THESIS-FIT → usable"
+        ],
+        [
+          "FAMILIAR + FACT STACK → unsafe",
+          "DECISION → tractability outranks comfort",
+          "FAMILIAR + FACT STACK → unsafe"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "FAMILIAR + THESIS-FIT → usable",
+            "FAMILIAR + FACT STACK → unsafe"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "UNFAMILIAR + CLEAR TENSION → potentially safer",
+            "DECISION → tractability outranks comfort"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "FAMILIAR + THESIS-FIT → usable",
+            "FAMILIAR + FACT STACK → unsafe"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNFAMILIAR + CLEAR TENSION → potentially safer; DECISION → tractability outranks comfort.",
+      "source_references": [
+        "Familiarity limit",
+        "Thesis-fit"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ORIGINALITY BOUNDARY",
+      "structural_type": "dialectic",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ORIGINALITY BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "PLAIN READING",
+          "role": "outcome"
+        },
+        {
+          "text": "FAITHFUL BUT CONTESTABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "ORIGINAL MOVE",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALIFIED CONNECTION OR SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "ECCENTRIC MOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSES THE PRINTED RELATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ORIGINALITY THAT REMAINS TEXT-BOUND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLAIN READING → faithful but contestable",
+        "ORIGINAL MOVE → qualified connection or synthesis",
+        "ECCENTRIC MOVE → loses the printed relation",
+        "KEEP → originality that remains text-bound"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "PLAIN READING → faithful but contestable",
+            "ORIGINAL MOVE → qualified connection or synthesis"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ECCENTRIC MOVE → loses the printed relation",
+            "KEEP → originality that remains text-bound"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "PLAIN READING → faithful but contestable",
+            "ORIGINAL MOVE → qualified connection or synthesis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECCENTRIC MOVE → loses the printed relation; KEEP → originality that remains text-bound.",
+      "source_references": [
+        "Originality limit",
+        "Interpretive clarity"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EVIDENCE-RISK SCREEN",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE-RISK SCREEN",
+          "role": "caution"
+        },
+        {
+          "text": "NAMED AND SAFELY RECALLABLE ILLUSTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "USEFUL BUT DETAIL UNCERTAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "INVENTED NUMBER, AUTHOR OR FORCED EXAMPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "PREFER THE PROMPT WITH STRONGER EVIDENCE SAFETY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GREEN → named and safely recallable illustration",
+        "AMBER → useful but detail uncertain",
+        "RED → invented number, author or forced example",
+        "CHOICE → prefer the prompt with stronger evidence safety"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "GREEN → named and safely recallable illustration",
+            "AMBER → useful but detail uncertain"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "RED → invented number, author or forced example",
+            "CHOICE → prefer the prompt with stronger evidence safety"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "GREEN → named and safely recallable illustration",
+            "AMBER → useful but detail uncertain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHOICE → prefer the prompt with stronger evidence safety.",
+      "source_references": [
+        "Evidence availability",
+        "Risk screening",
+        "Attribution boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONCLUSION FEASIBILITY",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CONCLUSION FEASIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "EARNED SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCED ENDING",
+          "role": "comparison"
+        },
+        {
+          "text": "WARNING THAT CHOICE MAY BE WEAK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS → DIMENSIONS → COUNTER-VIEW",
+        "COUNTER-VIEW → QUALIFICATION",
+        "QUALIFICATION → EARNED SYNTHESIS",
+        "FORCED ENDING → warning that choice may be weak"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "THESIS → DIMENSIONS → COUNTER-VIEW",
+            "COUNTER-VIEW → QUALIFICATION"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "QUALIFICATION → EARNED SYNTHESIS",
+            "FORCED ENDING → warning that choice may be weak"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "THESIS → DIMENSIONS → COUNTER-VIEW",
+            "COUNTER-VIEW → QUALIFICATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORCED ENDING → warning that choice may be weak.",
+      "source_references": [
+        "Thesis-fit",
+        "Risk screening"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TWO-ESSAY PORTFOLIO",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TWO-ESSAY PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "ESSAY A",
+          "role": "outcome"
+        },
+        {
+          "text": "CLARITY + DEPTH + EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ESSAY B",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED BUDGET",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNING + DRAFTING + REVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "PAIR TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER CHOICE SHOULD IMPOVERISH THE OTHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ESSAY A → clarity + depth + evidence",
+        "ESSAY B → clarity + depth + evidence",
+        "SHARED BUDGET → planning + drafting + revision",
+        "PAIR TEST → neither choice should impoverish the other"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "ESSAY A → clarity + depth + evidence",
+            "ESSAY B → clarity + depth + evidence"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SHARED BUDGET → planning + drafting + revision",
+            "PAIR TEST → neither choice should impoverish the other"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "ESSAY A → clarity + depth + evidence",
+            "ESSAY B → clarity + depth + evidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAIR TEST → neither choice should impoverish the other.",
+      "source_references": [
+        "Two-essay portfolio",
+        "Time allocation"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMMITMENT RULE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMITMENT RULE",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDED SCAN",
+          "role": "outcome"
+        },
+        {
+          "text": "VIABILITY PASSED",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "SWITCH ONCE BEFORE DRAFTING EXPANDS",
+          "role": "primary"
+        },
+        {
+          "text": "LATE DOUBT",
+          "role": "outcome"
+        },
+        {
+          "text": "RETURN TO THESIS AND EVIDENCE MAP",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT CHASE A FASHIONABLE ALTERNATIVE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BOUNDED SCAN → viability passed → commit",
+        "EARLY FAILURE → switch once before drafting expands",
+        "LATE DOUBT → return to thesis and evidence map",
+        "DISCIPLINE → do not chase a fashionable alternative"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "BOUNDED SCAN → viability passed → commit",
+            "EARLY FAILURE → switch once before drafting expands"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "LATE DOUBT → return to thesis and evidence map",
+            "DISCIPLINE → do not chase a fashionable alternative"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDED SCAN → viability passed → commit",
+            "EARLY FAILURE → switch once before drafting expands"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → do not chase a fashionable alternative.",
+      "source_references": [
+        "Commitment discipline",
+        "Risk screening"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SELECTION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SELECTION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "READ RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCAN EACH SECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSIFY PROMPTS",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST THESIS",
+          "role": "primary"
+        },
+        {
+          "text": "TEST DIMENSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SCREEN RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS",
+        "TEST THESIS → TEST DIMENSIONS → TEST EVIDENCE",
+        "SCREEN RISK → TEST THE PAIR → ALLOCATE TIME",
+        "COMMIT → DECODE OR SCOPE → PLAN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS",
+            "TEST THESIS → TEST DIMENSIONS → TEST EVIDENCE"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SCREEN RISK → TEST THE PAIR → ALLOCATE TIME",
+            "COMMIT → DECODE OR SCOPE → PLAN"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS",
+            "TEST THESIS → TEST DIMENSIONS → TEST EVIDENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS.",
+      "source_references": [
+        "Rule-strategy firewall",
+        "Two-essay portfolio",
+        "Commitment discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "APHORISM PROMPTS (MOST OF BOTH YEARS' SECTIONS)",
+          "role": "outcome"
+        },
+        {
+          "text": "ISSUE-STATEMENT PROMPTS (E.G. 2024-B5 ON SOCIAL MEDIA/FOMO)",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH-FIT PROMPT",
+          "role": "evidence"
+        },
+        {
+          "text": "THESIS EMERGES WITHIN ABOUT A MINUTE, ≥2 REAL",
+          "role": "primary"
+        },
+        {
+          "text": "LOW-FIT PROMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANY OF THE ABOVE MISSING, OR ONLY RECOVERABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEREST VS. TRACTABILITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Aphorism prompts (most of both years' Sections): compressed,",
+            "Issue-statement prompts (e.g. 2024-B5 on social media/FOMO): more",
+            "High-fit prompt: thesis emerges within about a minute, ≥2 real",
+            "Low-fit prompt: any of the above missing, or only recoverable"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Interest vs. tractability: the assumption that liking a subject",
+            "Familiarity vs. depth: a \"familiar\" topic invites GS-answer",
+            "Speed vs. reversibility: choice happens early and is costly to",
+            "NOT: Sunk-cost persistence: continuing with a poorly-fitting prompt"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Over-deliberation: spending disproportionate time optimising",
+            "NOT: Choosing purely to avoid a weaker Section , ignoring that both",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Choice as a portfolio/risk decision"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

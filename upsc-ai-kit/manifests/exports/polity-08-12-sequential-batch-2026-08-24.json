@@ -1,0 +1,373 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-08-12-sequential-batch-2026-08-24",
+  "requested_order": [
+    "polity-08",
+    "polity-09",
+    "polity-10",
+    "polity-11",
+    "polity-12"
+  ],
+  "execution_policy": "strictly sequential; a topic begins only after the previous topic passes gates A-I",
+  "started_at": "2026-08-24T08:07:00+05:30",
+  "completed_at": "2026-08-24T09:07:29+05:30",
+  "status": "passed",
+  "topics": [
+    {
+      "sequence": 1,
+      "topic_key": "polity-08",
+      "title": "Directive Principles",
+      "started_at": "2026-08-24T08:07:00+05:30",
+      "completed_at": "2026-08-24T08:22:50+05:30",
+      "status": "passed",
+      "generation_identity": "polity-08:learner-v2:g2",
+      "record_id": "polity-08:learner-v2:g2",
+      "approval": false,
+      "gates": {
+        "A_source_pyq_current_audit": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-08-source-pyq-current-audit-2026-08-24.json"
+        },
+        "B_full_learning_markdown": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md"
+        },
+        "C_complete_workbook": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Solved-Practice-Workbook_2026-08-24.md"
+        },
+        "D_authored_ascii_master": {
+          "status": "passed",
+          "panels": 9,
+          "embedded_standalone_equal": true
+        },
+        "E_carvaka_graphical_package": {
+          "status": "passed",
+          "core_stages": 9,
+          "extra_stages": 1
+        },
+        "F_pdfs_validation": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-08-validation-2026-08-24.json"
+        },
+        "G_atomic_tracker_indexes": {
+          "status": "passed",
+          "tracker_record": "polity-08:learner-v2:g2"
+        },
+        "H_clean_library_publish": {
+          "status": "passed",
+          "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\08-Directive-Principles"
+        },
+        "I_library_links_hashes": {
+          "status": "passed",
+          "library_topic_count_after_publish": 41,
+          "all_six_copied_hashes_equal": true
+        }
+      },
+      "counts": {
+        "sessions": 15,
+        "main_pdf_pages": 59,
+        "workbook_pdf_pages": 16,
+        "mcqs": 36,
+        "verified_pyqs": 8,
+        "original_mains": 7,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9
+      },
+      "tests": [
+        "tools.test_export_four_item_library: 7/7 passed",
+        "new-topic validation: passed",
+        "tracker/index finalize: passed",
+        "clean-library validation and six artifact hash checks: passed"
+      ],
+      "factual_caveat": "No controlling official Part IV or Article 31C change was located in the strict six-month window. The official NALSA page accessed 24 August 2026 is the current Article 39A institutional anchor; the January 2026 Uttarakhand UCC ordinance is only near-window context."
+    },
+    {
+      "sequence": 2,
+      "topic_key": "polity-09",
+      "title": "Fundamental Duties",
+      "started_at": "2026-08-24T08:22:50+05:30",
+      "completed_at": "2026-08-24T08:30:02+05:30",
+      "status": "passed",
+      "generation_identity": "polity-09:learner-v2:g2",
+      "record_id": "polity-09:learner-v2:g2",
+      "approval": false,
+      "gates": {
+        "A_source_pyq_current_audit": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-09-source-pyq-current-audit-2026-08-24.json"
+        },
+        "B_full_learning_markdown": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md"
+        },
+        "C_complete_workbook": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Solved-Practice-Workbook_2026-08-24.md"
+        },
+        "D_authored_ascii_master": {
+          "status": "passed",
+          "panels": 9,
+          "embedded_standalone_equal": true
+        },
+        "E_carvaka_graphical_package": {
+          "status": "passed",
+          "core_stages": 9,
+          "extra_stages": 1
+        },
+        "F_pdfs_validation": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-09-validation-2026-08-24.json"
+        },
+        "G_atomic_tracker_indexes": {
+          "status": "passed",
+          "tracker_record": "polity-09:learner-v2:g2"
+        },
+        "H_clean_library_publish": {
+          "status": "passed",
+          "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties"
+        },
+        "I_library_links_hashes": {
+          "status": "passed",
+          "library_topic_count_after_publish": 42,
+          "all_six_copied_hashes_equal": true
+        }
+      },
+      "counts": {
+        "sessions": 13,
+        "main_pdf_pages": 49,
+        "workbook_pdf_pages": 12,
+        "mcqs": 32,
+        "verified_pyqs": 2,
+        "original_mains": 7,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9
+      },
+      "tests": [
+        "new-topic validation: passed",
+        "tracker/index finalize: passed",
+        "clean-library validation and six artifact hash checks: passed"
+      ],
+      "factual_caveat": "No later official Durga Dutt merits decision was located in the strict six-month window. The official MoEF page accessed 24 August 2026 is a bounded Article 51A(g) administrative anchor, not proof of direct enforceability."
+    },
+    {
+      "sequence": 3,
+      "topic_key": "polity-10",
+      "title": "Amendment and Basic Structure",
+      "started_at": "2026-08-24T08:30:02+05:30",
+      "completed_at": "2026-08-24T08:37:41+05:30",
+      "status": "passed",
+      "generation_identity": "polity-10:learner-v2:g2",
+      "record_id": "polity-10:learner-v2:g2",
+      "approval": false,
+      "gates": {
+        "A_source_pyq_current_audit": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-10-source-pyq-current-audit-2026-08-24.json"
+        },
+        "B_full_learning_markdown": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Complete-Learning-Session_2026-08-24.md"
+        },
+        "C_complete_workbook": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Solved-Practice-Workbook_2026-08-24.md"
+        },
+        "D_authored_ascii_master": {
+          "status": "passed",
+          "panels": 9,
+          "embedded_standalone_equal": true
+        },
+        "E_carvaka_graphical_package": {
+          "status": "passed",
+          "core_stages": 9,
+          "extra_stages": 1
+        },
+        "F_pdfs_validation": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-10-validation-2026-08-24.json"
+        },
+        "G_atomic_tracker_indexes": {
+          "status": "passed",
+          "tracker_record": "polity-10:learner-v2:g2"
+        },
+        "H_clean_library_publish": {
+          "status": "passed",
+          "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure"
+        },
+        "I_library_links_hashes": {
+          "status": "passed",
+          "library_topic_count_after_publish": 43,
+          "all_six_copied_hashes_equal": true
+        }
+      },
+      "counts": {
+        "sessions": 15,
+        "main_pdf_pages": 59,
+        "workbook_pdf_pages": 17,
+        "mcqs": 36,
+        "verified_pyqs": 10,
+        "original_mains": 7,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9
+      },
+      "tests": [
+        "new-topic validation: passed",
+        "tracker/index finalize: passed",
+        "clean-library validation and six artifact hash checks: passed"
+      ],
+      "factual_caveat": "Gazette S.O. 1922(E) verifies 106th Amendment commencement, not operational reservation. The defeated 131st Amendment Bill is used only as a proposal and arithmetic illustration."
+    },
+    {
+      "sequence": 4,
+      "topic_key": "polity-11",
+      "title": "Parliamentary System",
+      "started_at": "2026-08-24T08:37:41+05:30",
+      "completed_at": "2026-08-24T08:45:59+05:30",
+      "status": "passed",
+      "generation_identity": "polity-11:learner-v2:g2",
+      "record_id": "polity-11:learner-v2:g2",
+      "approval": false,
+      "gates": {
+        "A_source_pyq_current_audit": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-11-source-pyq-current-audit-2026-08-24.json"
+        },
+        "B_full_learning_markdown": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Complete-Learning-Session_2026-08-24.md"
+        },
+        "C_complete_workbook": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Solved-Practice-Workbook_2026-08-24.md"
+        },
+        "D_authored_ascii_master": {
+          "status": "passed",
+          "panels": 9,
+          "embedded_standalone_equal": true
+        },
+        "E_carvaka_graphical_package": {
+          "status": "passed",
+          "core_stages": 9,
+          "extra_stages": 1
+        },
+        "F_pdfs_validation": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-11-validation-2026-08-24.json"
+        },
+        "G_atomic_tracker_indexes": {
+          "status": "passed",
+          "tracker_record": "polity-11:learner-v2:g2"
+        },
+        "H_clean_library_publish": {
+          "status": "passed",
+          "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System"
+        },
+        "I_library_links_hashes": {
+          "status": "passed",
+          "library_topic_count_after_publish": 44,
+          "all_six_copied_hashes_equal": true
+        }
+      },
+      "counts": {
+        "sessions": 13,
+        "main_pdf_pages": 52,
+        "workbook_pdf_pages": 16,
+        "mcqs": 32,
+        "verified_pyqs": 5,
+        "original_mains": 6,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9
+      },
+      "tests": [
+        "new-topic validation: passed",
+        "32-MCQ content-preserving rebalance: passed",
+        "tracker/index finalize: passed",
+        "clean-library validation and six artifact hash checks: passed"
+      ],
+      "factual_caveat": "Cabinet Secretariat is used as a current institutional anchor. The 129th Amendment Bill remains a proposal; Article 82A is not treated as current text and no implementation year is claimed."
+    },
+    {
+      "sequence": 5,
+      "topic_key": "polity-12",
+      "title": "Federal System",
+      "started_at": "2026-08-24T08:45:59+05:30",
+      "completed_at": "2026-08-24T08:53:22+05:30",
+      "status": "passed",
+      "generation_identity": "polity-12:learner-v2:g2",
+      "record_id": "polity-12:learner-v2:g2",
+      "approval": false,
+      "gates": {
+        "A_source_pyq_current_audit": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-12-source-pyq-current-audit-2026-08-24.json"
+        },
+        "B_full_learning_markdown": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md"
+        },
+        "C_complete_workbook": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Solved-Practice-Workbook_2026-08-24.md"
+        },
+        "D_authored_ascii_master": {
+          "status": "passed",
+          "panels": 9,
+          "embedded_standalone_equal": true
+        },
+        "E_carvaka_graphical_package": {
+          "status": "passed",
+          "core_stages": 9,
+          "extra_stages": 1
+        },
+        "F_pdfs_validation": {
+          "status": "passed",
+          "evidence": "upsc-ai-kit\\manifests\\exports\\polity-12-validation-2026-08-24.json"
+        },
+        "G_atomic_tracker_indexes": {
+          "status": "passed",
+          "tracker_record": "polity-12:learner-v2:g2"
+        },
+        "H_clean_library_publish": {
+          "status": "passed",
+          "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\12-Federal-System"
+        },
+        "I_library_links_hashes": {
+          "status": "passed",
+          "library_topic_count_after_publish": 45,
+          "all_six_copied_hashes_equal": true
+        }
+      },
+      "counts": {
+        "sessions": 13,
+        "main_pdf_pages": 44,
+        "workbook_pdf_pages": 13,
+        "mcqs": 36,
+        "verified_pyqs": 5,
+        "original_mains": 7,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9
+      },
+      "tests": [
+        "new-topic validation: passed",
+        "36-MCQ content-preserving rebalance: passed",
+        "tracker/index finalize: passed",
+        "clean-library validation and six artifact hash checks: passed"
+      ],
+      "factual_caveat": "GST Council and Inter-State Council Secretariat are current shared-rule anchors. GST Council recommendations are not treated as binding; no speculative delimitation or representation date is claimed."
+    }
+  ],
+  "validation": "upsc-ai-kit\\manifests\\exports\\polity-08-12-sequential-batch-2026-08-24-validation.json",
+  "summary_totals": {
+    "sessions": 69,
+    "main_pdf_pages": 263,
+    "workbook_pdf_pages": 74,
+    "mcqs": 172,
+    "verified_pyqs": 30,
+    "original_mains": 34,
+    "ascii_panels": 45,
+    "graphical_core_stages": 45
+  },
+  "full_library_topic_count": 45,
+  "tests_passed": 93
+}

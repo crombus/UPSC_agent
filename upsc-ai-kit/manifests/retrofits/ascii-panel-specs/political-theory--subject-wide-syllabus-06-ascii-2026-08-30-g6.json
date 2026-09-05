@@ -1,0 +1,435 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-30",
+  "scope": "Political Theory subject-wide syllabus topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-06",
+      "title": "Feminism, Sex and Gender",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g6\\topic-06_Complete-Learning-Session_2026-08-30.md",
+      "source_record": "political-theory-06:learner-v2:g6",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Patriarchy, Feminism and the Central Political Question",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Patriarchy, Feminism and the Central Political Question",
+            "  [1] Gauba treats feminism as a protest against the inferior status assigned to women by",
+            "      patriarchy, not as a denial that biological differences exist. (PDF pp.84-86)",
+            "        |",
+            "        v",
+            "  [2] The sex-gender distinction is central for answering why inequality can be socially",
+            "      constructed even when biological difference is real. (PDF pp.84-86)",
+            "        |",
+            "        v",
+            "  [3] The three streams of feminism provide a compact framework for PSIR and GS-II answers",
+            "      on equality, citizenship and justice. (PDF pp.88-90)",
+            "        |",
+            "        v",
+            "  [4] The topic teaches how power can operate through family roles, labour division,",
+            "      culture and political exclusion, not only through law or property. (PDF pp.85-87)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Patriarchy, Feminism and the Central Political Question is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Sex, Gender and the Social Construction of Hierarchy",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Sex, Gender and the Social Construction of Hierarchy",
+            "  [1] Gender roles such as aggressiveness/dominance for men and",
+            "      submissiveness/expressiveness for women are treated as cultural instruments of",
+            "      social control. (PDF p.85)",
+            "        |",
+            "        v",
+            "  [2] Patriarchy: literally rule of the father, now used for wider male domination in",
+            "      household, labour market and social life. (PDF p.84)",
+            "        |",
+            "        v",
+            "  [3] Gender: culturally constructed images, expectations and status-distinctions attached",
+            "      to women and men. (PDF pp.84-85)",
+            "        |",
+            "        v",
+            "  [4] Gender inequality: a conventional or cultural inequality, hence open to criticism",
+            "      and change. (PDF p.86)",
+            "        |",
+            "        v",
+            "  [5] He then distinguishes sex from gender so that biological difference is separated",
+            "      from socially assigned inferiority. (PDF pp.84-86)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Sex, Gender and the Social Construction of Hierarchy is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Core Distinctions, Thinkers and Feminist Streams",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Core Distinctions, Thinkers and Feminist Streams",
+            "  [1] Shulamith Firestone: radical feminist who ties women's subordination to reproductive",
+            "      biology and seeks release from that dependence through technological change. (PDF",
+            "      p.89)",
+            "        |",
+            "        v",
+            "  [2] Kate Millett: radical feminist who interprets the relation between sexes as a power",
+            "      relation sustained by ideology. (PDF p.89)",
+            "        |",
+            "        v",
+            "  [3] Sheila Rowbotham: socialist feminist linking women's liberation with struggle",
+            "      against capitalism and other oppressions. (PDF pp.89-90)",
+            "        |",
+            "        v",
+            "  [4] Natural inequality vs conventional inequality: Gauba uses Rousseau's distinction to",
+            "      show that gender inequality belongs to the alterable second category. (PDF p.86)",
+            "        |",
+            "        v",
+            "  [5] Legal equality vs substantive equality: early feminism attacked barriers to",
+            "      education, property and vote; later feminism asks whether equal law alone changes",
+            "      social power. (PDF pp.88-91)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Core Distinctions, Thinkers and Feminist Streams is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Illustrations, Comparative Matrix and Trap Repair",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Illustrations, Comparative Matrix and Trap Repair",
+            "  [1] Gauba's examples of girls being socialized toward obedience and boys toward",
+            "      assertiveness show how gender roles are culturally produced. (PDF p.87)",
+            "        |",
+            "        v",
+            "  [2] The early rights agenda focused on education, property, divorce and suffrage because",
+            "      these exclusions had no necessary connection with female biology. (PDF pp.87-88)",
+            "        |",
+            "        v",
+            "  [3] A safe classroom example is to contrast biological maternity with culturally",
+            "      assigned ideas that women must therefore remain outside public life.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Illustrations, Comparative Matrix and Trap Repair is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Ownership Boundaries, Revision Spine and Source Discipline",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Ownership Boundaries, Revision Spine and Source Discipline",
+            "  [1] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,",
+            "      Fifth Edition (2009), Ch.2, PDF pp.84-93.",
+            "        |",
+            "        v",
+            "  [2] Use Rousseau's natural/conventional inequality distinction to show why gender",
+            "      hierarchy is alterable. (PDF p.86)",
+            "        |",
+            "        v",
+            "  [3] Classify feminism into liberal, radical and socialist streams with one thinker each.",
+            "      (PDF pp.88-90)",
+            "        |",
+            "        v",
+            "  [4] End by warning against using Gauba's dated numerical claims as present-day evidence.",
+            "      (PDF pp.86, 91-93)",
+            "        |",
+            "        v",
+            "  [5] Key anchors: feminism, patriarchy, sex-gender distinction (PDF pp.84-86);",
+            "      socialization and inequality (PDF pp.86-87); Wollstonecraft, Mill and three streams",
+            "      of feminism (PDF pp.88-90).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Ownership Boundaries, Revision Spine and Source Discipline is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Later Provenance and Marxist Feminism",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Later Provenance and Marxist Feminism",
+            "  [1] Exam use: if a question specifically says \"Marxist feminism,\" lead with the",
+            "      domestic-labour/social-reproduction claim; if it says \"socialist feminism,\" lead",
+            "      with Rowbotham's dual-systems synthesis; the two labels overlap but are not simple",
+            "      synonyms.",
+            "        |",
+            "        v",
+            "  [2] Gauba's chapter grounds the sex/gender distinction and the liberal/radical/socialist",
+            "      typology; it does not itself discuss Simone de Beauvoir, Gayle Rubin, Ann Oakley,",
+            "      Carole Pateman, Susan Moller Okin, Judith Butler or Kimberlé Crenshaw. Everything",
+            "      below is a standard PSIR/political-theory extension used by examiners beyond this",
+            "      specific book, flagged throughout, and is not tied to a page number in the primary",
+            "      source.",
+            "        |",
+            "        v",
+            "  [3] Ann Oakley (Sex, Gender and Society, 1972) is usually credited with popularising the",
+            "      working sex/gender terminology in sociology — sex as biological, gender as the",
+            "      culturally learned, historically variable content attached to that biology.",
+            "        |",
+            "        v",
+            "  [4] Claim: women's oppression is generated principally by the capitalist mode of",
+            "      production, especially unpaid domestic/reproductive labour that reproduces the",
+            "      workforce free of charge.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Later Provenance and Marxist Feminism is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Pateman and Okin: Contract, Justice and the Family",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Pateman and Okin: Contract, Justice and the Family",
+            "  [1] Susan Moller Okin (Justice, Gender, and the Family, 1989): Claim — theories of",
+            "      justice (she targets Rawls) wrongly treat the family as a pre-political given rather",
+            "      than a site justice must examine. Evidence — unequal domestic burden restricts",
+            "      women's access to the \"primary goods\" (time, income, position) public justice is",
+            "      meant to distribute. Significance — extends justice from state/market into the",
+            "      household. Limit — risks over-extending justice into every private relationship,",
+            "      which is why most syntheses still preserve some sphere of family autonomy alongside",
+            "      gender-just background conditions.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Pateman and Okin: Contract, Justice and the Family is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Butler, Performativity and Intersectionality",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Butler, Performativity and Intersectionality",
+            "  [1] Judith Butler (Gender Trouble, 1990): gender is not a cultural coating on a stable",
+            "      biological sex but performative — produced through repeated, stylised acts (speech,",
+            "      gesture, dress, behaviour) that create the appearance of a natural gendered self; on",
+            "      this account even \"sex\" is partly constituted through gendered discourse, not a",
+            "      wholly pre-discursive bedrock.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Butler, Performativity and Intersectionality is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Objection-Reply Chains and Cautious Indian Application",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Objection-Reply Chains and Cautious Indian Application",
+            "  [1] Objection: if gender is entirely performative/socially constructed (Butler),",
+            "      feminism loses a stable category of \"woman\" around which to organise and to claim",
+            "      rights. Reply: many feminist theorists respond that political claims can be built on",
+            "      provisionally, strategically stabilised categories even while accepting the category",
+            "      is historically constructed (\"strategic essentialism\"); legal sex-discrimination",
+            "      categories function pragmatically regardless of deeper philosophical instability.",
+            "      Present as a live, contested debate — not a settled result.",
+            "        |",
+            "        v",
+            "  [2] Objection: radical feminism's emphasis on patriarchy as the primary, near-universal",
+            "      structure of oppression risks treating \"women\" as one undifferentiated class,",
+            "      erasing differences of race, class and caste among women. Reply: Crenshaw's",
+            "      intersectionality and Marxist/socialist feminism's attention to class supply the",
+            "      corrective — oppression is compounded and differently configured across axes,",
+            "      producing a more accurate map of whose subordination is being explained. This reply",
+            "      strengthens rather than replaces the original radical-feminist insight that",
+            "      sexual/reproductive domination is analytically distinct from class or race",
+            "      domination.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Objection-Reply Chains and Cautious Indian Application is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Directive Decoding and Mark-Scaled Answer Architecture",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Directive Decoding and Mark-Scaled Answer Architecture",
+            "  [1] \"Distinguish sex and gender\" → definitional/analytical directive: give the",
+            "      distinction plus why it matters, not two one-line definitions.",
+            "        |",
+            "        v",
+            "  [2] \"Discuss/Examine feminism as a critique of patriarchy\" → needs both diagnosis (what",
+            "      patriarchy is, how gender is produced) and the feminist reply; do not describe",
+            "      patriarchy without the feminist response.",
+            "        |",
+            "        v",
+            "  [3] \"Critically examine feminist perspectives on X\" → requires thesis + at least two",
+            "      schools compared + at least one objection/reply, ending in a reasoned verdict, not a",
+            "      neutral list.",
+            "        |",
+            "        v",
+            "  [4] Thesis (1-2 lines): feminism protests patriarchal subordination via the sex/gender",
+            "      distinction; formal legal equality alone is insufficient.",
+            "        |",
+            "        v",
+            "  [5] Body: sex vs gender (claim→evidence→significance) + one stream",
+            "      (liberal/radical/socialist/Marxist) with its core mechanism.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Directive Decoding and Mark-Scaled Answer Architecture is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Feminism: concern with the status and role of women in relation to men, combined",
+            "      with protest against injustice suffered because of sex.",
+            "        |",
+            "        v",
+            "  [2] Patriarchy: literally rule of the father, now used for wider male domination in",
+            "      household, labour market and social life.",
+            "        |",
+            "        v",
+            "  [3] Sex: biological difference, such as reproductive function and secondary",
+            "      characteristics.",
+            "        |",
+            "        v",
+            "  [4] Gender: culturally constructed images, expectations and status-distinctions attached",
+            "      to women and men.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Butler's Gender Trouble argues gender is constituted through performative repetition",
+            "      of stylised acts within a regulatory, discursive frame -- there is no gendered",
+            "      substance prior to or behind the repeated acts. This treats gender as thoroughly",
+            "      cultural: produced, disciplined, and reproduced through social practice, in contrast",
+            "      to sex, which denotes a biological given. The cultural-category reading explains",
+            "      variation across societies and time in what counts as masculine or feminine, which a",
+            "      purely biological account cannot.",
+            "        |",
+            "        v",
+            "  [2] Formal equality demands the removal of explicit differential rules; substantive",
+            "      equality goes further, licensing affirmative measures to correct unequal starting",
+            "      points; relational equality asks whether social relationships remain hierarchical",
+            "      regardless of formal rules. Empowerment, on Kabeer's tripartite model, requires",
+            "      resources, agency, and achievements -- it is the process by which formal or",
+            "      substantive equality is actually converted into lived capacity. On this reading,",
+            "      equality supplies the normative target and empowerment supplies the causal mechanism",
+            "      by which that target is reached.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

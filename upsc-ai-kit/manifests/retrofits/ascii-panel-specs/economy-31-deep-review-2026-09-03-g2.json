@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-31",
+      "display_title": "Energy Infrastructure Economics, Power, Fuels and Energy Security",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Energy-service value rail",
+          "structural_type": "value-chain",
+          "ascii_lines": [
+            "PRIMARY RESOURCE / IMPORT",
+            "-> CONVERSION + NETWORK",
+            "-> DISTRIBUTION + END USE",
+            "-> RELIABLE AFFORDABLE SERVICE",
+            "MUST REMEMBER: Energy infrastructure connects primary energy, conversion, generation,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Power-energy distinction",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MW / GW -> power capacity",
+            "MWh / GWh -> energy flow",
+            "CAPACITY SHARE != generation share",
+            "ELECTRICITY != total energy"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Electricity-layer map",
+          "structural_type": "layer-map",
+          "ascii_lines": [
+            "GENERATION",
+            "TRANSMISSION + SYSTEM OPERATION",
+            "DISTRIBUTION + RETAIL",
+            "MARKET + REGULATION"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Real-time balance board",
+          "structural_type": "formula-board",
+          "ascii_lines": [
+            "GENERATION + IMPORT + DISCHARGE",
+            "=",
+            "DEMAND + EXPORT + CHARGE + LOSS",
+            "RESERVE + FLEXIBILITY protect balance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Institutional perimeter",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "CEA -> technical planning",
+            "CERC / SERC -> regulation",
+            "GRID-INDIA / SLDC -> operation",
+            "DISCOM -> retail service"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tariff-finance split",
+          "structural_type": "four-way-map",
+          "ascii_lines": [
+            "EXPLICIT STATE SUBSIDY",
+            "CROSS-SUBSIDY",
+            "REGULATORY ASSET",
+            "DISCOM DEBT / UNDER-RECOVERY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "DISCOM diagnostic",
+          "structural_type": "risk-board",
+          "ascii_lines": [
+            "AT&C -> energy recovery",
+            "ACS-ARR -> revenue-cost gap",
+            "PPA + SUBSIDY + COLLECTION",
+            "ONE RATIO cannot diagnose all stress"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Petroleum perimeter",
+          "structural_type": "value-chain",
+          "ascii_lines": [
+            "UPSTREAM -> production",
+            "MIDSTREAM -> pipeline + storage",
+            "DOWNSTREAM -> refining + marketing",
+            "PNGRB excludes crude + gas production"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Energy-security dimensions and resilience pentagon",
+          "structural_type": "five-part-map",
+          "ascii_lines": [
+            "PHYSICAL AVAILABILITY",
+            "INFRASTRUCTURE ACCESSIBILITY",
+            "USER AFFORDABILITY",
+            "SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Renewable-integration chain",
+          "structural_type": "system-map",
+          "ascii_lines": [
+            "VARIABLE CAPACITY",
+            "-> GRID + FORECAST",
+            "-> FLEXIBILITY + STORAGE",
+            "-> RELIABLE GENERATION VALUE",
+            "CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Status and unit ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ANNOUNCED / BILL",
+            "APPROVED / SANCTIONED / OUTLAY",
+            "INSTALLED CAPACITY",
+            "GENERATION + SERVICE OUTCOME",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Energy-economics answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE carrier + unit + layer",
+            "TRACE network + tariff + regulator",
+            "TEST security + transition",
+            "CONCLUDE service, not headline capacity"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

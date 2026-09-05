@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 10",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-10",
+      "display_title": "National Quantum Mission and Quantum Technology",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-10_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Bit and qubit card",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CLASSICAL BIT -> recorded as 0 or 1",
+            "QUBIT -> amplitudes over basis states",
+            "MEASUREMENT -> one classical outcome with probability",
+            "SPEED -> not the defining difference",
+            "RULE -> state description is not two stored classical bits"
+          ],
+          "source_references": [
+            "Bit-qubit boundary",
+            "Superposition-boundary"
+          ]
+        },
+        {
+          "title": "Quantum principle split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SUPERPOSITION -> one system in a combination of basis states",
+            "ENTANGLEMENT -> joint state of two or more systems",
+            "NO-CLONING -> arbitrary unknown state cannot be copied perfectly",
+            "NO SIGNALLING -> entanglement does not transmit messages faster",
+            "RULE -> each principle answers a different question"
+          ],
+          "source_references": [
+            "Superposition-boundary",
+            "Entanglement-boundary",
+            "No-cloning boundary"
+          ]
+        },
+        {
+          "title": "Algorithm mechanism rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PREPARE STATE -> initialise qubits",
+            "QUANTUM GATES -> transform amplitudes",
+            "INTERFERENCE -> suppress and reinforce paths",
+            "MEASUREMENT -> obtain classical sample",
+            "TRAP -> superposition does not reveal every answer"
+          ],
+          "source_references": [
+            "Interference-measurement boundary"
+          ]
+        },
+        {
+          "title": "Decoherence engineering stack",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "ENVIRONMENTAL INTERACTION -> phase information degrades",
+            "COHERENCE TIME -> finite computation window",
+            "CRYOGENICS / VACUUM / SHIELDING -> reduce disturbance",
+            "CONTROL ELECTRONICS / MATERIALS -> execute accurate gates",
+            "OUTCOME -> engineering, not theory alone, limits scale"
+          ],
+          "source_references": [
+            "Decoherence-boundary",
+            "Materials-devices boundary"
+          ]
+        },
+        {
+          "title": "Physical-to-logical ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PHYSICAL QUBIT -> noisy hardware element",
+            "ERROR CHARACTERISATION -> measure failure channels",
+            "ERROR-CORRECTING CODE -> redundant encoding",
+            "LOGICAL QUBIT -> protected information unit",
+            "RULE -> raw qubit count is not useful capability"
+          ],
+          "source_references": [
+            "Physical-logical boundary",
+            "Qubit-target boundary"
+          ]
+        },
+        {
+          "title": "Four technology families",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMPUTING -> selected information-processing algorithms",
+            "COMMUNICATION -> quantum-state links and key distribution",
+            "SENSING / METROLOGY -> precision measurement",
+            "MATERIALS / DEVICES -> enabling hardware substrate",
+            "TRAP -> quantum technology is not computing alone"
+          ],
+          "source_references": [
+            "Computing-boundary",
+            "Communication-boundary",
+            "Sensing-metrology boundary",
+            "Materials-devices boundary"
+          ]
+        },
+        {
+          "title": "QKD security chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "QUANTUM STATES -> distribute key material",
+            "DISTURBANCE TEST -> reveal possible interception",
+            "AUTHENTICATED ENDPOINTS -> prevent impersonation",
+            "CLASSICAL ENCRYPTION -> protects message content",
+            "RULE -> QKD alone is not a complete secure network"
+          ],
+          "source_references": [
+            "QKD-boundary"
+          ]
+        },
+        {
+          "title": "QKD versus PQC",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "QKD -> quantum hardware and physical link",
+            "PQC -> classical quantum-resistant algorithms",
+            "QKD PURPOSE -> specialised key distribution",
+            "PQC PURPOSE -> broad standards and software migration",
+            "POLICY -> complementary tools with different timelines"
+          ],
+          "source_references": [
+            "QKD-PQC boundary",
+            "Cryptographic-readiness boundary"
+          ]
+        },
+        {
+          "title": "NQM institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MINISTRY OF SCIENCE AND TECHNOLOGY -> ministerial umbrella",
+            "DST -> implementing department",
+            "NQM -> national capability mission",
+            "T-HUBS -> four vertical ecosystem anchors",
+            "RULE -> department, mission and hub are distinct"
+          ],
+          "source_references": [
+            "NQM-mission boundary",
+            "DST-ministry boundary",
+            "Four-hub boundary"
+          ]
+        },
+        {
+          "title": "Four T-Hub map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IISc BENGALURU -> Quantum Computing",
+            "IIT MADRAS WITH C-DOT -> Quantum Communication",
+            "IIT BOMBAY -> Quantum Sensing and Metrology",
+            "IIT DELHI -> Quantum Materials and Devices",
+            "TRAP -> hub creation is not operational capability"
+          ],
+          "source_references": [
+            "Four-hub boundary"
+          ]
+        },
+        {
+          "title": "Readiness ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CABINET APPROVAL -> mission authority and outlay",
+            "TARGET -> intended future capability",
+            "RESEARCH PROTOTYPE -> bounded demonstration",
+            "VALIDATED SYSTEM -> repeatable performance evidence",
+            "OPERATIONAL DEPLOYMENT -> field use with sustainment"
+          ],
+          "source_references": [
+            "Target-achievement boundary",
+            "Qubit-target boundary"
+          ]
+        },
+        {
+          "title": "Quantum claim firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> qubit, superposition, entanglement and decoherence",
+            "CLASSIFY -> computing, communication, sensing or materials",
+            "SEPARATE -> physical and logical qubits; QKD and PQC",
+            "LABEL -> approval, target, prototype, validation and operation",
+            "VERIFY -> outlay, qubits, distance and startup claims officially"
+          ],
+          "source_references": [
+            "Cryptographic-readiness boundary",
+            "Volatile-claim boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

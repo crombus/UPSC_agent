@@ -1,0 +1,1132 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-13",
+  "subject": "Environment-and-Ecology",
+  "title": "AIR POLLUTION AND CPCB STANDARDS",
+  "short_route": "AMBIENT-EMISSION FIREWALL → CONCENTRATION-TO-EXPOSURE CHAIN → POLLUTANT FORMATION MAP → PM CLASSIFICATION GATE → SMOG AND ACID-DEPOSITION MATRIX → NAAQS DATA GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-13_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-13-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "12f0041ca3e60c5420648dde0bdeb73c2c710d9bda137c8c061799e13e10b89d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "AMBIENT-EMISSION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AMBIENT-EMISSION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "AMBIENT STANDARD",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCENTRATION IN OUTDOOR RECEIVING AIR",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE STANDARD",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEASE FROM A NAMED STACK, VEHICLE OR PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONSENT CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE-SPECIFIC LEGAL CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC COMMUNICATION INDEX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AMBIENT STANDARD → concentration in outdoor receiving air",
+        "SOURCE STANDARD → release from a named stack, vehicle or process",
+        "CONSENT CONDITION → source-specific legal control",
+        "AQI → public communication index",
+        "RULE → never substitute one instrument for another"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "AMBIENT STANDARD → concentration in outdoor receiving air",
+          "CONSENT CONDITION → source-specific legal control",
+          "RULE → never substitute one instrument for another"
+        ],
+        [
+          "SOURCE STANDARD → release from a named stack, vehicle or process",
+          "AQI → public communication index",
+          "AMBIENT STANDARD → concentration in outdoor receiving air"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "AMBIENT STANDARD → concentration in outdoor receiving air",
+            "SOURCE STANDARD → release from a named stack, vehicle or process"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONSENT CONDITION → source-specific legal control",
+            "AQI → public communication index"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → never substitute one instrument for another",
+            "AMBIENT STANDARD → concentration in outdoor receiving air"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never substitute one instrument for another.",
+      "source_references": [
+        "Ambient-standard boundary",
+        "Emission-standard boundary",
+        "AQI communication role"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONCENTRATION-TO-EXPOSURE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONCENTRATION-TO-EXPOSURE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "POLLUTANT CONCENTRATION AT PLACE AND TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "AVERAGING PERIOD",
+          "role": "comparison"
+        },
+        {
+          "text": "FIXES THE MEASUREMENT WINDOW",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSON LOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "DETERMINES CONTACT OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DURATION AND ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHAPE EXPOSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MONITOR → pollutant concentration at place and time",
+        "AVERAGING PERIOD → fixes the measurement window",
+        "PERSON LOCATION → determines contact opportunity",
+        "DURATION AND ROUTE → shape exposure",
+        "HEALTH CLAIM → needs separate epidemiological evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "MONITOR → pollutant concentration at place and time",
+            "AVERAGING PERIOD → fixes the measurement window"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "PERSON LOCATION → determines contact opportunity",
+            "DURATION AND ROUTE → shape exposure"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "HEALTH CLAIM → needs separate epidemiological evidence",
+            "MONITOR → pollutant concentration at place and time"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONITOR → pollutant concentration at place and time.",
+      "source_references": [
+        "Concentration versus exposure",
+        "NAAQS data discipline"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POLLUTANT FORMATION MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POLLUTANT FORMATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY EMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEASED DIRECTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "ENTERS ATMOSPHERIC REACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUNLIGHT OR OXIDATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFORMATION PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECONDARY POLLUTANT",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMED IN AIR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIMARY EMISSION → released directly",
+        "PRECURSOR → enters atmospheric reaction",
+        "SUNLIGHT OR OXIDATION → transformation pathway",
+        "SECONDARY POLLUTANT → formed in air",
+        "CONTROL → address direct emissions and precursors"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "PRIMARY EMISSION → released directly",
+            "PRECURSOR → enters atmospheric reaction"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "SUNLIGHT OR OXIDATION → transformation pathway",
+            "SECONDARY POLLUTANT → formed in air"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTROL → address direct emissions and precursors",
+            "PRIMARY EMISSION → released directly"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECONDARY POLLUTANT → formed in air; CONTROL → address direct emissions and precursors.",
+      "source_references": [
+        "Pollutant versus precursor",
+        "Primary and secondary pollution"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PM CLASSIFICATION GATE",
+      "structural_type": "decision-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PM CLASSIFICATION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "PM2.5 OR PM10",
+          "role": "outcome"
+        },
+        {
+          "text": "AERODYNAMIC SIZE FRACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "AFFECTS TRANSPORT AND DEPOSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "REQUIRES CHEMICAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "REQUIRES APPORTIONMENT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SIZE LABEL ALONE PROVES NEITHER COMPOSITION NOR SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PM2.5 OR PM10 → aerodynamic size fraction",
+        "SIZE → affects transport and deposition",
+        "COMPOSITION → requires chemical evidence",
+        "SOURCE → requires apportionment evidence",
+        "TRAP → size label alone proves neither composition nor source"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PM2.5 OR PM10 → aerodynamic size fraction",
+            "SIZE → affects transport and deposition"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPOSITION → requires chemical evidence",
+            "SOURCE → requires apportionment evidence"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → size label alone proves neither composition nor source",
+            "PM2.5 OR PM10 → aerodynamic size fraction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → size label alone proves neither composition nor source.",
+      "source_references": [
+        "Particulate-size discipline"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SMOG AND ACID-DEPOSITION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SMOG AND ACID-DEPOSITION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PRECURSOR EMISSIONS PLUS SUNLIGHT-DRIVEN CHEMISTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "SURFACE OZONE",
+          "role": "comparison"
+        },
+        {
+          "text": "SECONDARY OXIDANT",
+          "role": "evidence"
+        },
+        {
+          "text": "ACID DEPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "SULPHUR AND NITROGEN PRECURSOR PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "WET OR DRY",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPOSITION ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SMOG → precursor emissions plus sunlight-driven chemistry",
+        "SURFACE OZONE → secondary oxidant",
+        "ACID DEPOSITION → sulphur and nitrogen precursor pathway",
+        "WET OR DRY → deposition routes",
+        "RULE → precursor is not the final atmospheric product"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "SMOG → precursor emissions plus sunlight-driven chemistry",
+          "ACID DEPOSITION → sulphur and nitrogen precursor pathway",
+          "RULE → precursor is not the final atmospheric product"
+        ],
+        [
+          "SURFACE OZONE → secondary oxidant",
+          "WET OR DRY → deposition routes",
+          "SMOG → precursor emissions plus sunlight-driven chemistry"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "SMOG → precursor emissions plus sunlight-driven chemistry",
+            "SURFACE OZONE → secondary oxidant"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ACID DEPOSITION → sulphur and nitrogen precursor pathway",
+            "WET OR DRY → deposition routes"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → precursor is not the final atmospheric product",
+            "SMOG → precursor emissions plus sunlight-driven chemistry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → precursor is not the final atmospheric product.",
+      "source_references": [
+        "Photochemical-smog chain",
+        "Acid-deposition chain"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NAAQS DATA GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NAAQS DATA GATE",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY EXACT SUBSTANCE OR FRACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESERVE THE NOTIFIED UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "AVERAGING PERIOD",
+          "role": "evidence"
+        },
+        {
+          "text": "ANNUAL, DAILY OR SHORTER ONLY IF SOURCED",
+          "role": "primary"
+        },
+        {
+          "text": "AREA AND COMPLIANCE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "READ NOTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO TABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLLUTANT → identify exact substance or fraction",
+        "UNIT → preserve the notified unit",
+        "AVERAGING PERIOD → annual, daily or shorter only if sourced",
+        "AREA AND COMPLIANCE RULE → read notification",
+        "NO TABLE → no invented limit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "POLLUTANT → identify exact substance or fraction",
+            "UNIT → preserve the notified unit"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AVERAGING PERIOD → annual, daily or shorter only if sourced",
+            "AREA AND COMPLIANCE RULE → read notification"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO TABLE → no invented limit",
+            "POLLUTANT → identify exact substance or fraction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AVERAGING PERIOD → annual, daily or shorter only if sourced.",
+      "source_references": [
+        "NAAQS data discipline"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AQI STATUTORY BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AQI STATUTORY BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "MONITORED POLLUTANT CONCENTRATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC-FACING CATEGORY",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFIED AMBIENT STANDARD",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE EMISSION CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "AQI CATEGORY IS NOT EITHER STANDARD TABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INPUT → monitored pollutant concentrations",
+        "OUTPUT → public-facing category",
+        "NAAQS → notified ambient standard",
+        "SOURCE LIMIT → separate emission control",
+        "VERDICT → AQI category is not either standard table"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "INPUT → monitored pollutant concentrations",
+          "NAAQS → notified ambient standard",
+          "VERDICT → AQI category is not either standard table"
+        ],
+        [
+          "OUTPUT → public-facing category",
+          "SOURCE LIMIT → separate emission control",
+          "INPUT → monitored pollutant concentrations"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "INPUT → monitored pollutant concentrations",
+            "OUTPUT → public-facing category"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NAAQS → notified ambient standard",
+            "SOURCE LIMIT → separate emission control"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "VERDICT → AQI category is not either standard table",
+            "INPUT → monitored pollutant concentrations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → AQI category is not either standard table.",
+      "source_references": [
+        "AQI communication role",
+        "AQI category boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTION AND CLEARANCE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTION AND CLEARANCE LADDER",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL COORDINATION AND FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "SPCB OR PCC",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT, MONITORING AND ENFORCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CTE OR CTO",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE-OPERATION PERMISSION LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "ENVIRONMENTAL CLEARANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIOR PROJECT-APPRAISAL LAYER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CPCB → national coordination and framework",
+        "SPCB OR PCC → consent, monitoring and enforcement",
+        "CTE OR CTO → source-operation permission layer",
+        "ENVIRONMENTAL CLEARANCE → prior project-appraisal layer",
+        "RULE → approvals remain legally distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CPCB → national coordination and framework",
+            "SPCB OR PCC → consent, monitoring and enforcement"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CTE OR CTO → source-operation permission layer",
+            "ENVIRONMENTAL CLEARANCE → prior project-appraisal layer"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → approvals remain legally distinct",
+            "CPCB → national coordination and framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPCB OR PCC → consent, monitoring and enforcement.",
+      "source_references": [
+        "CPCB and SPCB roles",
+        "Air Act and consent layer"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MONITORING EVIDENCE LADDER",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MONITORING EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE LOCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPATIAL COVERAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA COMPLETENESS",
+          "role": "evidence"
+        },
+        {
+          "text": "USABLE TIME RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "DISPERSION AND ACCUMULATION CONTEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALE ONLY AS FAR AS EVIDENCE SUPPORTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATION → one location",
+        "NETWORK → spatial coverage",
+        "DATA COMPLETENESS → usable time record",
+        "METEOROLOGY → dispersion and accumulation context",
+        "INFERENCE → scale only as far as evidence supports"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "STATION → one location",
+            "NETWORK → spatial coverage"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DATA COMPLETENESS → usable time record",
+            "METEOROLOGY → dispersion and accumulation context"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "INFERENCE → scale only as far as evidence supports",
+            "STATION → one location"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INFERENCE → scale only as far as evidence supports.",
+      "source_references": [
+        "Monitoring representativeness"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SOURCE-APPORTIONMENT CUBE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE-APPORTIONMENT CUBE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE MIX CHANGES BY LOCATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ACTIVITY AND METEOROLOGY CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PM, OZONE AND GASES HAVE DIFFERENT PATHWAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "MODEL AND SAMPLING ASSUMPTIONS MATTER",
+          "role": "primary"
+        },
+        {
+          "text": "NO UNIVERSAL SHARE",
+          "role": "caution"
+        },
+        {
+          "text": "DATE AND SCOPE EVERY ESTIMATE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CITY → source mix changes by location",
+        "SEASON → activity and meteorology change",
+        "POLLUTANT → PM, ozone and gases have different pathways",
+        "METHOD → model and sampling assumptions matter",
+        "NO UNIVERSAL SHARE → date and scope every estimate"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CITY → source mix changes by location",
+          "POLLUTANT → PM, ozone and gases have different pathways",
+          "NO UNIVERSAL SHARE → date and scope every estimate"
+        ],
+        [
+          "SEASON → activity and meteorology change",
+          "METHOD → model and sampling assumptions matter",
+          "CITY → source mix changes by location"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CITY → source mix changes by location",
+            "SEASON → activity and meteorology change"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "POLLUTANT → PM, ozone and gases have different pathways",
+            "METHOD → model and sampling assumptions matter"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO UNIVERSAL SHARE → date and scope every estimate",
+            "CITY → source mix changes by location"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO UNIVERSAL SHARE → date and scope every estimate.",
+      "source_references": [
+        "Source-apportionment boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PROGRAMME-RESPONSE ARCHITECTURE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROGRAMME-RESPONSE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-RUN STRUCTURAL PLANNING",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDARDS-BASED CLASSIFICATION OVER A PERIOD",
+          "role": "comparison"
+        },
+        {
+          "text": "EPISODIC GRADED RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY DELHI-NCR REGIONAL COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "NO SUBSTITUTION",
+          "role": "caution"
+        },
+        {
+          "text": "EACH SERVES A DIFFERENT FUNCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NCAP → long-run structural planning",
+        "NON-ATTAINMENT → standards-based classification over a period",
+        "GRAP → episodic graded response",
+        "CAQM → statutory Delhi-NCR regional coordination",
+        "NO SUBSTITUTION → each serves a different function"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NCAP → long-run structural planning",
+          "GRAP → episodic graded response",
+          "NO SUBSTITUTION → each serves a different function"
+        ],
+        [
+          "NON-ATTAINMENT → standards-based classification over a period",
+          "CAQM → statutory Delhi-NCR regional coordination",
+          "NCAP → long-run structural planning"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NCAP → long-run structural planning",
+            "NON-ATTAINMENT → standards-based classification over a period"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GRAP → episodic graded response",
+            "CAQM → statutory Delhi-NCR regional coordination"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO SUBSTITUTION → each serves a different function",
+            "NCAP → long-run structural planning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO SUBSTITUTION → each serves a different function.",
+      "source_references": [
+        "NCAP programme boundary",
+        "Non-attainment boundary",
+        "GRAP and CAQM boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE AND ANSWER SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "AMBIENT, EMISSION, CONCENTRATION AND EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE, PRECURSOR, ATMOSPHERIC FORMATION AND RECEPTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "NAAQS, AQI, CONSENT, NCAP, GRAP AND CAQM",
+          "role": "evidence"
+        },
+        {
+          "text": "STATION, AVERAGING PERIOD AND APPORTIONMENT BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "TARGET, ATTAINMENT, CURRENT DATA AND PYQ KEY STAY DISTINCT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → ambient, emission, concentration and exposure",
+        "TRACE → source, precursor, atmospheric formation and receptor",
+        "GOVERN → NAAQS, AQI, consent, NCAP, GRAP and CAQM",
+        "MEASURE → station, averaging period and apportionment boundary",
+        "AUDIT → target, attainment, current data and PYQ key stay distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → ambient, emission, concentration and exposure",
+            "TRACE → source, precursor, atmospheric formation and receptor"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOVERN → NAAQS, AQI, consent, NCAP, GRAP and CAQM",
+            "MEASURE → station, averaging period and apportionment boundary"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "AUDIT → target, attainment, current data and PYQ key stay distinct",
+            "DEFINE → ambient, emission, concentration and exposure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIT → target, attainment, current data and PYQ key stay distinct.",
+      "source_references": [
+        "Target versus attainment",
+        "Audited evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EFFECTIVE AIR-POLLUTION POLICY DEPENDS ON ACCURATE SOURCE APPORTIONMENT (SCIENTIFICALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON ANALYTICAL ERROR TO AVOID",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING CROP-RESIDUE BURNING AS THE DOMINANT",
+          "role": "evidence"
+        },
+        {
+          "text": "NCAP SET CITY-SPECIFIC PARTICULATE-MATTER (PM2.5/PM10) REDUCTION TARGETS FOR IDENTIFIED",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTATION CRITIQUE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROGRESS TRACKING UNDER NCAP HAS FACED CHALLENGES",
+          "role": "comparison"
+        },
+        {
+          "text": "BALANCED FRAMING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Effective air-pollution policy depends on accurate source apportionment (scientifically",
+            "CAUTION: Common analytical error to avoid: treating crop-residue burning as the dominant,",
+            "NCAP set city-specific particulate-matter (PM2.5/PM10) reduction targets for identified",
+            "CAUTION: Implementation critique: progress tracking under NCAP has faced challenges"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Balanced framing: NCAP represents a scientifically sound target-setting framework;",
+            "CAUTION: Real-time AQI readings depend on monitoring-station density and placement; sparse",
+            "CAUTION: NAAQS permissible limits are themselves periodically reviewed against evolving health",
+            "CAUTION: Attributing health outcomes (mortality, morbidity) precisely to a specific pollution"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "The Commission for Air Quality Management in NCR and Adjoining Areas Act, 2021",
+            "GRAP is a reactive, severity-triggered emergency-response mechanism; NCAP is a",
+            "Source apportionment studies show the relative contribution of crop-residue burning to",
+            "CAQM was established partly because prior coordination on Delhi-NCR air pollution had"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

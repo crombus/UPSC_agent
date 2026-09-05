@@ -1,0 +1,1084 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-03",
+  "subject": "Indian-Society",
+  "title": "TRIBE AND TRIBAL SOCIETY",
+  "short_route": "CATEGORY BOUNDARY → THREE POLICY POSITIONS → PANCHSHEEL CONTENT → WHY DISPLACEMENT RECURS → TWO MECHANISMS OF LAND → REHABILITATION TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\learning-sessions\\v2\\subject-wide-syllabus\\indian-society-03_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-03-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "270bbda227a8c4efaf0fb83ff1e707f0797ff30820840b1ac9fa2b886d9243c5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CATEGORY BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CATEGORY BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "NO SINGLE UNIVERSAL SOCIOLOGICAL CHECKLIST",
+          "role": "caution"
+        },
+        {
+          "text": "SCHEDULED TRIBE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL NOTIFICATION UNDER ARTICLE 342",
+          "role": "institution"
+        },
+        {
+          "text": "HISTORICAL THESIS ABOUT LONG CASTE-SOCIETY INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "THE THESIS NEVER OVERRIDES THE LEGAL CATEGORY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TRIBE → no single universal sociological checklist",
+        "SCHEDULED TRIBE → constitutional notification under Article 342",
+        "CONTINUUM → historical thesis about long caste-society interaction",
+        "RULE → the thesis never overrides the legal category"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "TRIBE → no single universal sociological checklist",
+          "CONTINUUM → historical thesis about long caste-society interaction",
+          "TRIBE → no single universal sociological checklist"
+        ],
+        [
+          "SCHEDULED TRIBE → constitutional notification under Article 342",
+          "RULE → the thesis never overrides the legal category",
+          "SCHEDULED TRIBE → constitutional notification under Article 342"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TRIBE → no single universal sociological checklist",
+            "SCHEDULED TRIBE → constitutional notification under Article 342"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONTINUUM → historical thesis about long caste-society interaction",
+            "RULE → the thesis never overrides the legal category"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRIBE → no single universal sociological checklist",
+            "SCHEDULED TRIBE → constitutional notification under Article 342"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the thesis never overrides the legal category.",
+      "source_references": [
+        "What a tribe is and is not",
+        "The tribe-caste continuum and its limit"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE POLICY POSITIONS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE POLICY POSITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ISOLATION, SHIELD FROM MARKET AND SETTLER EXPLOITATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSIMILATION, ABSORPTION AS BACKWARD HINDUS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION, DEVELOPMENT ON TRIBALS' OWN GENIUS",
+          "role": "evidence"
+        },
+        {
+          "text": "NONE FULLY IMPLEMENTED, UNEVEN ACCULTURATION FOLLOWED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ELWIN → isolation, shield from market and settler exploitation",
+        "GHURYE → assimilation, absorption as backward Hindus",
+        "NEHRU → integration, development on tribals' own genius",
+        "OUTCOME → none fully implemented, uneven acculturation followed"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "ELWIN → isolation, shield from market and settler exploitation",
+          "NEHRU → integration, development on tribals' own genius",
+          "ELWIN → isolation, shield from market and settler exploitation"
+        ],
+        [
+          "GHURYE → assimilation, absorption as backward Hindus",
+          "OUTCOME → none fully implemented, uneven acculturation followed",
+          "GHURYE → assimilation, absorption as backward Hindus"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ELWIN → isolation, shield from market and settler exploitation",
+            "GHURYE → assimilation, absorption as backward Hindus"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NEHRU → integration, development on tribals' own genius",
+            "OUTCOME → none fully implemented, uneven acculturation followed"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELWIN → isolation, shield from market and settler exploitation",
+            "GHURYE → assimilation, absorption as backward Hindus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → none fully implemented, uneven acculturation followed.",
+      "source_references": [
+        "Elwin's isolation",
+        "Ghurye's assimilation",
+        "Nehru's Panchsheel integration"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PANCHSHEEL CONTENT",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PANCHSHEEL CONTENT",
+          "role": "primary"
+        },
+        {
+          "text": "OWN GENIUS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPMENT ON TRIBAL TERMS",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND AND FOREST",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS RETAINED RATHER THAN SURRENDERED",
+          "role": "primary"
+        },
+        {
+          "text": "EDUCATION, HEALTH AND ADMINISTRATION SUPPLIED",
+          "role": "outcome"
+        },
+        {
+          "text": "BOTH MUSEUM ISOLATION AND FORCED ABSORPTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OWN GENIUS → development on tribal terms",
+        "LAND AND FOREST → rights retained rather than surrendered",
+        "SERVICES → education, health and administration supplied",
+        "REJECTED → both museum isolation and forced absorption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OWN GENIUS → development on tribal terms",
+            "LAND AND FOREST → rights retained rather than surrendered"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SERVICES → education, health and administration supplied",
+            "REJECTED → both museum isolation and forced absorption"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OWN GENIUS → development on tribal terms",
+            "LAND AND FOREST → rights retained rather than surrendered"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REJECTED → both museum isolation and forced absorption.",
+      "source_references": [
+        "Nehru's Panchsheel integration"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WHY DISPLACEMENT RECURS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY DISPLACEMENT RECURS",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "MINERALS, FORESTS AND HYDEL IN TRIBAL REGIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECT SITING",
+          "role": "evidence"
+        },
+        {
+          "text": "MINING, DAMS AND INDUSTRIAL CORRIDORS",
+          "role": "primary"
+        },
+        {
+          "text": "SUBSISTENCE BASE AND IDENTITY ANCHORED IN THAT LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPMENT FELT AS TRADE-OFF, NOT SHARED GAIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESOURCE GEOGRAPHY → minerals, forests and hydel in tribal regions",
+        "PROJECT SITING → mining, dams and industrial corridors",
+        "LOSS → subsistence base and identity anchored in that land",
+        "EXPERIENCE → development felt as trade-off, not shared gain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "RESOURCE GEOGRAPHY → minerals, forests and hydel in tribal regions",
+            "PROJECT SITING → mining, dams and industrial corridors"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "LOSS → subsistence base and identity anchored in that land",
+            "EXPERIENCE → development felt as trade-off, not shared gain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESOURCE GEOGRAPHY → minerals, forests and hydel in tribal regions",
+            "PROJECT SITING → mining, dams and industrial corridors"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPERIENCE → development felt as trade-off, not shared gain.",
+      "source_references": [
+        "Why projects are sited in tribal regions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TWO MECHANISMS OF LAND LOSS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO MECHANISMS OF LAND LOSS",
+          "role": "primary"
+        },
+        {
+          "text": "ACUTE, PROJECT-DRIVEN, SINGLE EVENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND ALIENATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SLOW TRANSFER THROUGH DEBT OR ENCROACHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "REMEDY 1",
+          "role": "primary"
+        },
+        {
+          "text": "RESETTLEMENT DESIGN AND LIVELIHOOD RESTORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "REMEDY 2",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTRICTION AND RESTORATION OF TRANSFERRED LAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISPLACEMENT → acute, project-driven, single event",
+        "LAND ALIENATION → slow transfer through debt or encroachment",
+        "REMEDY 1 → resettlement design and livelihood restoration",
+        "REMEDY 2 → restriction and restoration of transferred land"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DISPLACEMENT → acute, project-driven, single event",
+          "REMEDY 1 → resettlement design and livelihood restoration",
+          "DISPLACEMENT → acute, project-driven, single event"
+        ],
+        [
+          "LAND ALIENATION → slow transfer through debt or encroachment",
+          "REMEDY 2 → restriction and restoration of transferred land",
+          "LAND ALIENATION → slow transfer through debt or encroachment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DISPLACEMENT → acute, project-driven, single event",
+            "LAND ALIENATION → slow transfer through debt or encroachment"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REMEDY 1 → resettlement design and livelihood restoration",
+            "REMEDY 2 → restriction and restoration of transferred land"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISPLACEMENT → acute, project-driven, single event",
+            "LAND ALIENATION → slow transfer through debt or encroachment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMEDY 2 → restriction and restoration of transferred land.",
+      "source_references": [
+        "Displacement and land alienation"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REHABILITATION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REHABILITATION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "LAND FOR LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "WAS AN EQUIVALENT LAND BASE RESTORED",
+          "role": "comparison"
+        },
+        {
+          "text": "WAS THE EARNING SYSTEM REBUILT, NOT JUST PAID FOR",
+          "role": "caution"
+        },
+        {
+          "text": "WAS THE VILLAGE RELOCATED INTACT OR SCATTERED",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORATION MEANS GAIN, COMPENSATION ALONE MEANS LOSS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LAND FOR LAND → was an equivalent land base restored",
+        "LIVELIHOOD → was the earning system rebuilt, not just paid for",
+        "COMMUNITY → was the village relocated intact or scattered",
+        "VERDICT → restoration means gain, compensation alone means loss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "LAND FOR LAND → was an equivalent land base restored",
+            "LIVELIHOOD → was the earning system rebuilt, not just paid for"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "COMMUNITY → was the village relocated intact or scattered",
+            "VERDICT → restoration means gain, compensation alone means loss"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LAND FOR LAND → was an equivalent land base restored",
+            "LIVELIHOOD → was the earning system rebuilt, not just paid for"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → restoration means gain, compensation alone means loss.",
+      "source_references": [
+        "Rehabilitation as restoration or compensation",
+        "What decides the welfare sign"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "VULNERABILITY CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VULNERABILITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "MINISTRY OF TRIBAL AFFAIRS LIST DATED 9 JULY 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "75 PARTICULARLY VULNERABLE TRIBAL GROUPS",
+          "role": "comparison"
+        },
+        {
+          "text": "18 STATES AND THE UT OF ANDAMAN AND NICOBAR",
+          "role": "evidence"
+        },
+        {
+          "text": "PRE-AGRICULTURAL TECHNOLOGY, LOW LITERACY, SUBSISTENCE ECONOMY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+        "COUNT → 75 Particularly Vulnerable Tribal Groups",
+        "SPREAD → 18 States and the UT of Andaman and Nicobar Islands",
+        "CRITERIA → pre-agricultural technology, low literacy, subsistence economy"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+          "SPREAD → 18 States and the UT of Andaman and Nicobar Islands",
+          "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024"
+        ],
+        [
+          "COUNT → 75 Particularly Vulnerable Tribal Groups",
+          "CRITERIA → pre-agricultural technology, low literacy, subsistence economy",
+          "COUNT → 75 Particularly Vulnerable Tribal Groups"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT → 75 Particularly Vulnerable Tribal Groups"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SPREAD → 18 States and the UT of Andaman and Nicobar Islands",
+            "CRITERIA → pre-agricultural technology, low literacy, subsistence economy"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT → 75 Particularly Vulnerable Tribal Groups"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRITERIA → pre-agricultural technology, low literacy, subsistence economy.",
+      "source_references": [
+        "Particularly Vulnerable Tribal Groups as the sharpest case"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGGREGATION SPLIT",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGGREGATION SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "AGGREGATE FOR",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTIFICATION, ENTITLEMENT PORTABILITY, ATROCITY PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DISAGGREGATE FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "LIVELIHOOD DESIGN AND SCHEME TARGETING",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST-DEPENDENT, SETTLED CULTIVATOR, URBAN TRIBAL WORKER",
+          "role": "outcome"
+        },
+        {
+          "text": "FIFTH SCHEDULE BELTS AGAINST SIXTH SCHEDULE POLITIES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AGGREGATE FOR → notification, entitlement portability, atrocity protection",
+        "DISAGGREGATE FOR → livelihood design and scheme targeting",
+        "VARIATION → forest-dependent, settled cultivator, urban tribal worker",
+        "CONTEXT → Fifth Schedule belts against Sixth Schedule polities"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "AGGREGATE FOR → notification, entitlement portability, atrocity protection",
+          "VARIATION → forest-dependent, settled cultivator, urban tribal worker",
+          "AGGREGATE FOR → notification, entitlement portability, atrocity protection"
+        ],
+        [
+          "DISAGGREGATE FOR → livelihood design and scheme targeting",
+          "CONTEXT → Fifth Schedule belts against Sixth Schedule polities",
+          "DISAGGREGATE FOR → livelihood design and scheme targeting"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "AGGREGATE FOR → notification, entitlement portability, atrocity protection",
+            "DISAGGREGATE FOR → livelihood design and scheme targeting"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "VARIATION → forest-dependent, settled cultivator, urban tribal worker",
+            "CONTEXT → Fifth Schedule belts against Sixth Schedule polities"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGGREGATE FOR → notification, entitlement portability, atrocity protection",
+            "DISAGGREGATE FOR → livelihood design and scheme targeting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTEXT → Fifth Schedule belts against Sixth Schedule polities.",
+      "source_references": [
+        "Aggregation for rights, disaggregation for design",
+        "Fifth Schedule, Sixth Schedule and identity assertion"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "KNOWLEDGE DOMAINS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KNOWLEDGE DOMAINS",
+          "role": "primary"
+        },
+        {
+          "text": "SEASONAL INDICATORS, FIRE AND FALLOW PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANT REMEDIES HELD IN PRACTITIONER LINEAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "CUSTOMARY RULES ON FOREST PRODUCE, GRAZING, WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "CRAFT AND COSMOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "APPRENTICESHIP TECHNIQUE AND SACRED GROVES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ECOLOGICAL → seasonal indicators, fire and fallow practice",
+        "MEDICINAL → plant remedies held in practitioner lineages",
+        "GOVERNANCE → customary rules on forest produce, grazing, water",
+        "CRAFT AND COSMOLOGY → apprenticeship technique and sacred groves"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ECOLOGICAL → seasonal indicators, fire and fallow practice",
+            "MEDICINAL → plant remedies held in practitioner lineages"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "GOVERNANCE → customary rules on forest produce, grazing, water",
+            "CRAFT AND COSMOLOGY → apprenticeship technique and sacred groves"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECOLOGICAL → seasonal indicators, fire and fallow practice",
+            "MEDICINAL → plant remedies held in practitioner lineages"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRAFT AND COSMOLOGY → apprenticeship technique and sacred groves.",
+      "source_references": [
+        "Tribal knowledge systems"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MODE CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MODE CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "HELD IN PRACTICE, NOT ABSTRACTED INTO MODELS",
+          "role": "caution"
+        },
+        {
+          "text": "AUTHORED BY A COMMUNITY, NOT AN INDIVIDUAL",
+          "role": "caution"
+        },
+        {
+          "text": "ORAL AND PLACE-SPECIFIC",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSMITTED BY SPEECH, INDEXED TO ONE TRACT",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-RUN USE RATHER THAN CONTROLLED TESTING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "EMBEDDED → held in practice, not abstracted into models",
+        "COLLECTIVE → authored by a community, not an individual",
+        "ORAL AND PLACE-SPECIFIC → transmitted by speech, indexed to one tract",
+        "VALIDATION → long-run use rather than controlled testing"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "EMBEDDED → held in practice, not abstracted into models",
+          "ORAL AND PLACE-SPECIFIC → transmitted by speech, indexed to one tract",
+          "EMBEDDED → held in practice, not abstracted into models"
+        ],
+        [
+          "COLLECTIVE → authored by a community, not an individual",
+          "VALIDATION → long-run use rather than controlled testing",
+          "COLLECTIVE → authored by a community, not an individual"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EMBEDDED → held in practice, not abstracted into models",
+            "COLLECTIVE → authored by a community, not an individual"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ORAL AND PLACE-SPECIFIC → transmitted by speech, indexed to one tract",
+            "VALIDATION → long-run use rather than controlled testing"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "EMBEDDED → held in practice, not abstracted into models",
+            "COLLECTIVE → authored by a community, not an individual"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VALIDATION → long-run use rather than controlled testing.",
+      "source_references": [
+        "Tribal knowledge systems"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EROSION AND PROHIBITION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EROSION AND PROHIBITION",
+          "role": "primary"
+        },
+        {
+          "text": "SEVERS THE ECOLOGY THE KNOWLEDGE WAS INDEXED TO",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHOOLING AND MARKET",
+          "role": "comparison"
+        },
+        {
+          "text": "BREAK ORAL TRANSMISSION CHAINS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROHIBITION 1",
+          "role": "primary"
+        },
+        {
+          "text": "NO SUBSTITUTE FOR PUBLIC HEALTH OR FORMAL EDUCATION",
+          "role": "caution"
+        },
+        {
+          "text": "PROHIBITION 2",
+          "role": "comparison"
+        },
+        {
+          "text": "NO UNVERIFIED REMEDY ATTRIBUTED TO A NAMED TRIBE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DISPLACEMENT → severs the ecology the knowledge was indexed to",
+        "SCHOOLING AND MARKET → break oral transmission chains",
+        "PROHIBITION 1 → no substitute for public health or formal education",
+        "PROHIBITION 2 → no unverified remedy attributed to a named tribe"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "DISPLACEMENT → severs the ecology the knowledge was indexed to",
+            "SCHOOLING AND MARKET → break oral transmission chains"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "PROHIBITION 1 → no substitute for public health or formal education",
+            "PROHIBITION 2 → no unverified remedy attributed to a named tribe"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISPLACEMENT → severs the ecology the knowledge was indexed to",
+            "SCHOOLING AND MARKET → break oral transmission chains"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION 2 → no unverified remedy attributed to a named tribe.",
+      "source_references": [
+        "Tribal knowledge systems",
+        "Scale, PYQ routes and the answer spine"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TRIBAL ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TRIBAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE OPINION AND THE FRAMING BEING TESTED",
+          "role": "institution"
+        },
+        {
+          "text": "DISPLACEMENT AXIS, THEN REHABILITATION ADEQUACY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT THE FRAMING OMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTITY, SERVICES, SELF-GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE DATED OFFICIAL EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → state the opinion and the framing being tested",
+        "BODY → displacement axis, then rehabilitation adequacy",
+        "ADD → what the framing omits: identity, services, self-governance",
+        "CLOSE → graded verdict with the dated official evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OPEN → state the opinion and the framing being tested",
+            "BODY → displacement axis, then rehabilitation adequacy"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ADD → what the framing omits: identity, services, self-governance",
+            "CLOSE → graded verdict with the dated official evidence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → state the opinion and the framing being tested",
+            "BODY → displacement axis, then rehabilitation adequacy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the dated official evidence.",
+      "source_references": [
+        "Scale, PYQ routes and the answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FIFTH AND SIXTH SCHEDULE GOVERNANCE (CROSS-LINKED, NOT RESTATED)",
+          "role": "caution"
+        },
+        {
+          "text": "PVTG-TARGETED DEVELOPMENT (CROSS-LINKED)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ADMINISTRATIVE/WELFARE ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSULTATION AND CONSENT SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN LAW CREATES GRAM SABHA CONSULTATION OR",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — SUCCESSFUL INTEGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "A TRIBAL COMMUNITY THAT RETAINS LAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORETICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Fifth and Sixth Schedule governance (cross-linked, not restated): constitutional",
+            "PVTG-targeted development (cross-linked): the administrative/welfare architecture",
+            "CAUTION: Consultation and consent safeguards: Indian law creates Gram Sabha consultation or",
+            "CAUTION: Boundary case 1 — successful integration: a tribal community that retains land"
+          ]
+        },
+        {
+          "heading": "DATA / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Boundary case 2 — assimilation without consent: a tribal group whose land was",
+            "CAUTION: Boundary case 3 — rehabilitation contrast: a community relocated for a project but",
+            "CAUTION: Development-versus-autonomy trade-off: resource extraction in tribal regions",
+            "CAUTION: Consent-versus-project-timeline trade-off: genuine Gram Sabha consultation takes"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE SOCIAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Compensation-versus-restoration trade-off: cash compensation is administratively",
+            "Verrier Elwin's isolationist position emerged from fieldwork among central Indian tribal",
+            "G.S. Ghurye's historical assimilationist view described tribes as “backward Hindus”;",
+            "MoTA's dated list identifies 75 PVTGs in 18 States and the UT of Andaman & Nicobar"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

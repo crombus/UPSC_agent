@@ -1,0 +1,397 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 26-27",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-26",
+      "display_title": "Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission-1945-1946_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two Indian National Armies, 1942 and 1943",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1942 -> FIRST INA -> Mohan Singh + Indian POWs (Malaya, Singapore) + Japanese support",
+            "EARLY 1943 -> first INA collapses; Mohan Singh removed and arrested over subsidiary status",
+            "MAY 1943 -> Subhas Chandra Bose reaches Southeast Asia and reorganises the force",
+            "OCT 1943 -> SECOND INA under Azad Hind -> larger, politically directed, claimant government",
+            "RULE -> two armies, two dates, two leaderships; never one continuous force."
+          ],
+          "source_references": [
+            "Two Indian National Armies: 1942 under Mohan Singh, 1943 under Bose"
+          ]
+        },
+        {
+          "title": "Rash Behari Bose: political cover, not field command",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INDIAN INDEPENDENCE LEAGUE  (political roof over the prisoner-of-war army)",
+            "|-- RASH BEHARI BOSE -> convenes Tokyo and Bangkok conferences; negotiates with Japan",
+            "|-- HANDOVER 1943 -> League and INA leadership pass to Subhas Chandra Bose",
+            "`-- FIELD COMMAND -> Mohan Singh (1942), then Bose's INA officers (1943-45)",
+            "RULE -> political sponsorship and field command are two different offices."
+          ],
+          "source_references": [
+            "Rash Behari Bose: political cover, not field command"
+          ]
+        },
+        {
+          "title": "Azad Hind: government, army and symbols",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PROVISIONAL GOVERNMENT OF AZAD HIND (Singapore, October 1943)",
+            "|-- SUPREME COMMANDER -> Subhas Chandra Bose | SLOGAN -> \"Dilli Chalo\"",
+            "|-- ARMY -> reorganised INA | WOMEN'S UNIT -> Rani of Jhansi Regiment (Lakshmi Sahgal)",
+            "|-- TERRITORY CLAIMED -> Andaman and Nicobar renamed Shaheed and Swaraj",
+            "RULE -> a claimant government's symbols, not a record of battlefield success."
+          ],
+          "source_references": [
+            "Azad Hind: provisional government, army and symbols"
+          ]
+        },
+        {
+          "title": "Imphal-Kohima and the military verdict",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "8 MAR 1944 -> Imphal campaign launched with Japanese forces -> objective: Delhi",
+            "IMPHAL + KOHIMA -> advance broken; retreat through Burma destroys the formation",
+            "CAUSES -> supply failure + monsoon + Allied air power (military, not political)",
+            "AUG 1945 -> Bose officially reported dead in an air crash; nothing beyond the report",
+            "RULE -> the military verdict is defeat; the political verdict comes later."
+          ],
+          "source_references": [
+            "Imphal-Kohima: state the military verdict plainly"
+          ]
+        },
+        {
+          "title": "Red Fort trial: three defendants, one message",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "RED FORT TRIAL (1945-46) -> three officers tried together",
+            "|-- SHAH NAWAZ KHAN (Muslim) | PREM SAHGAL / SEHGAL (Hindu) | G.S. DHILLON (Sikh)",
+            "|-- DEFENCE -> Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Nehru, Asaf Ali",
+            "|-- CONGRESS -> INA Relief and Enquiry Committee; INA becomes an election plank",
+            "EFFECT -> prosecution reads as punishment of patriotism across three communities."
+          ],
+          "source_references": [
+            "The first Red Fort trial and its cross-communal symbolism"
+          ]
+        },
+        {
+          "title": "What actually happened to the sentences",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "CONVICTION -> waging war against the King -> transportation for life",
+            "REMISSION -> Commander-in-Chief remits the sentences -> officers released",
+            "PRESSURE -> army opinion favours leniency; NWFP Governor urges abandonment",
+            "RESULT -> wider prosecutions abandoned; the sentences were not carried out",
+            "RULE -> a government retreat, not an execution."
+          ],
+          "source_references": [
+            "What actually happened to the Red Fort sentences"
+          ]
+        },
+        {
+          "title": "Weighing INA and RIN inside a multi-causal endgame",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "WHY THE BRITISH LEFT -> ranked, not listed",
+            "|-- COLLABORATION COLLAPSE -> services, police, armed forces no longer reliable",
+            "|-- WARTIME EXHAUSTION -> economic depletion, demobilisation, Labour government",
+            "|-- MASS NATIONALISM -> 1920-22, 1930-34, 1942 -> consent already impossible",
+            "|-- INTERNATIONAL + DEADLOCK -> decolonisation climate; 1946 constitutional impasse",
+            "CHRONOLOGY GUARD -> Mission dispatch decided 22 Jan 1946, before the 18 Feb strike",
+            "RULE -> INA and RIN sharpen the timing; they do not replace the other causes."
+          ],
+          "source_references": [
+            "Weighing INA and RIN inside a multi-causal endgame"
+          ]
+        },
+        {
+          "title": "Failed negotiations of 1944-45",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "APR 1944 -> C.R. FORMULA -> plebiscite in contiguous Muslim-majority districts",
+            "             -> deferred until after transfer of power; not an official Congress offer",
+            "SEP 1944 -> GANDHI-JINNAH TALKS BREAK DOWN -> separation within the family vs sovereignty",
+            "25 JUN - 14 JUL 1945 -> SIMLA CONFERENCE (Wavell) -> all-Indian Executive Council",
+            "BREAKDOWN -> League claims a monopoly of Muslim nominations; Azad is Congress president."
+          ],
+          "source_references": [
+            "Failed negotiations of 1944-45: C.R. Formula, Gandhi-Jinnah, Simla"
+          ]
+        },
+        {
+          "title": "Elections of winter 1945-46: mandate, not plebiscite",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "WINTER 1945-46 ELECTIONS -> two mandates in two separate electorates",
+            "|-- CONGRESS -> over 90% of general seats; 80.9% of general-constituency votes",
+            "|-- MUSLIM LEAGUE -> 74.7% of votes cast in Muslim constituencies",
+            "|-- FRANCHISE -> about 10% of the population; separate electorates",
+            "LIMIT -> no boundary, constitution or population question was on any ballot",
+            "RULE -> mandate, not plebiscite; representation was settled, territory was not."
+          ],
+          "source_references": [
+            "Elections of the winter of 1945-46: mandate, not plebiscite"
+          ]
+        },
+        {
+          "title": "RIN uprising: 18 February 1946 and its limits",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "18 FEB 1946 -> HMIS TALWAR, BOMBAY -> ratings' uprising begins",
+            "GRIEVANCES -> demobilisation anxiety, rations and service conditions, racial insult",
+            "DEMANDS -> better conditions, non-victimisation of strikers, free trials for INA men",
+            "SCALE -> commonly cited estimates: roughly 20,000 ratings, 78 ships, 20 shore stations",
+            "LIMITS -> short-lived, urban, service-centred; surrendered within days",
+            "RESPONSES -> Congress withholds official support (tactics and timing judged wrong)",
+            "          -> Patel urges surrender before overwhelming British mobilisation in Bombay",
+            "          -> Jinnah's surrender advice addressed to Muslim ratings alone",
+            "          -> workers, students and the left supply the civilian sympathy",
+            "DISPATCH -> 22 JAN 1946 Cabinet decides to send the Mission (before the uprising)",
+            "         -> Attlee's 19 FEB 1946 Commons announcement had been slated a week earlier",
+            "RULE -> the uprising did not cause or trigger the dispatch of the Cabinet Mission."
+          ],
+          "source_references": [
+            "18 February 1946: how the Royal Indian Navy uprising began",
+            "Scale of the uprising: commonly cited estimates, carefully qualified",
+            "Why the uprising was not a nationwide revolution",
+            "Divided political responses to the uprising"
+          ]
+        },
+        {
+          "title": "Cabinet Mission: 16 May plan and 16 June proposal",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CABINET MISSION 1946 -> Pethick-Lawrence | Stafford Cripps | A.V. Alexander",
+            "16 MAY 1946 -> LONG-TERM PLAN -> sovereign Pakistan rejected; three-tier union",
+            "    UNION SUBJECTS -> foreign affairs, defence, communications",
+            "                   -> plus power to raise the finances required for those subjects",
+            "16 JUN 1946 -> SEPARATE INTERIM-GOVERNMENT PROPOSAL -> a different document",
+            "RULE -> one mission, two dated documents; never merge them."
+          ],
+          "source_references": [
+            "Cabinet Mission: the 16 May plan and the 16 June proposal"
+          ]
+        },
+        {
+          "title": "Sections A, B and C and the endgame to 9 December 1946",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SECTIONS -> A: Madras, Bombay, United Provinces, Bihar, Central Provinces, Orissa",
+            "          -> B: Punjab, North-West Frontier Province, Sind, British Baluchistan",
+            "          -> C: Bengal, Assam        (grouping = federal device inside one union)",
+            "6 JUN -> League accepts (grouping read as compulsory) | 7 JUL -> Nehru's AICC statement",
+            "29 JUL -> League withdraws | 16 AUG -> Direct Action Day | 2 SEP -> Interim Government",
+            "26 OCT -> League joins | 6 DEC -> HMG concedes the compulsory-grouping reading",
+            "9 DEC 1946 -> Constituent Assembly first meets; League boycotts",
+            "RULE -> incompatible readings plus incompatible goals; no single cause of failure."
+          ],
+          "source_references": [
+            "Groups, incompatible readings and the endgame to 9 December 1946"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-27",
+      "display_title": "Independence & Partition (1946–1947)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\27_Independence-and-Partition-1946-1947_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cabinet Mission attempted unity",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "CABINET MISSION 1946 -> UNITY ATTEMPT, NOT A PARTITION INSTRUMENT",
+            "|-- REJECTED -> a sovereign Pakistan",
+            "|-- PROPOSED -> Union + groups of provinces + provinces (weak centre)",
+            "|-- ACCEPTED (in some form) -> by both parties in June and July 1946",
+            "COLLAPSE -> incompatible readings -> withdrawal -> loss of trust -> Partition",
+            "RULE -> the Mission is where unity was last available, not where it ended."
+          ],
+          "source_references": [
+            "The Cabinet Mission attempted unity and did not partition India"
+          ]
+        },
+        {
+          "title": "Direct Action Day: call, killings, consequences",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "16 AUG 1946 -> DIRECT ACTION DAY -> three separable things",
+            "|-- POLITICAL CALL -> Muslim League, after deadlock and its own withdrawal",
+            "|-- CALCUTTA -> mass killings remembered as the Great Calcutta Killings",
+            "|-- LATER REGIONAL VIOLENCE -> separate local actors, triggers and sequences",
+            "ORDER -> Direct Action precedes the Congress-only Interim Government (2 Sep 1946)",
+            "RULE -> separate call, killings and spread; assign agency to actors, not communities."
+          ],
+          "source_references": [
+            "Direct Action Day, 16 August 1946: call, killings and consequences"
+          ]
+        },
+        {
+          "title": "Violence of 1946-47 without collective guilt",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "1946-47 VIOLENCE -> reciprocal waves, regionally specific",
+            "|-- NOAKHALI -> BIHAR -> PUNJAB (each with its own actors and triggers)",
+            "|-- DRIVERS -> organisations, armed bands, rumour, collapse of policing",
+            "|-- REGIONAL SPLIT -> Punjab and Bengal: territorial division and mass violence",
+            "                   -> elsewhere: political settlement and a minority question",
+            "RULE -> agency belongs to organisations and leaderships, never to whole communities."
+          ],
+          "source_references": [
+            "The spread of violence in 1946-47 without collective guilt"
+          ]
+        },
+        {
+          "title": "Two Attlee statements, one deadline",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TWO ATTLEE STATEMENTS -> do not conflate",
+            "|-- 15 MAR 1946 -> \"a minority will not be allowed to place a veto\" -> pre-Mission",
+            "`-- 20 FEB 1947 -> transfer to responsible Indian hands, not later than June 1948",
+            "EFFECT -> a published outer limit converts negotiation into a race against a date",
+            "RULE -> one is about the veto, the other is about the deadline."
+          ],
+          "source_references": [
+            "Attlee's statement of 20 February 1947 and the June 1948 deadline"
+          ]
+        },
+        {
+          "title": "Mountbatten and the accelerated timetable",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAR 1947 -> MOUNTBATTEN ARRIVES AS LAST VICEROY",
+            "DEADLINE -> June 1948 outer limit compressed to August 1947",
+            "CONSEQUENCE -> administrative, military and boundary arrangements left incomplete",
+            "ANALYTICAL PLACE -> explains execution and disorder, not the choice to partition",
+            "RULE -> haste belongs in consequences, not in causes."
+          ],
+          "source_references": [
+            "Mountbatten as last Viceroy and the accelerated timetable"
+          ]
+        },
+        {
+          "title": "3 June Plan: a political plan, not an Act",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "3 JUNE 1947 -> MOUNTBATTEN PLAN -> a POLITICAL plan",
+            "|-- ACCEPTS -> Partition in principle",
+            "|-- PROVIDES FOR -> division of Punjab and Bengal",
+            "|                -> referendums in the North-West Frontier Province and Sylhet",
+            "|                -> boundary commissions",
+            "LIMIT -> not an Act of Parliament; transfers no power by itself",
+            "RULE -> the political decision precedes the legal enactment of July 1947."
+          ],
+          "source_references": [
+            "The 3 June Plan as a political plan, not an Act"
+          ]
+        },
+        {
+          "title": "Three partition mechanisms",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HOW PARTITION WAS CARRIED OUT -> three different procedures",
+            "|-- ASSEMBLY VOTES -> Punjab and Bengal, by the two notional halves of each assembly",
+            "|-- REFERENDUMS -> North-West Frontier Province and Sylhet district of Assam",
+            "|                -> both results took them into Pakistan",
+            "`-- BOUNDARY COMMISSIONS -> technical line-drawing, separate from both routes",
+            "RULE -> match the province to its mechanism; never swap them."
+          ],
+          "source_references": [
+            "Three partition mechanisms: assembly votes, referendums, commissions"
+          ]
+        },
+        {
+          "title": "Indian Independence Act: assent and commencement",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "INDIAN INDEPENDENCE ACT -> the LEGAL enactment",
+            "|-- ROYAL ASSENT -> 18 July 1947 (Westminster)",
+            "|-- COMMENCEMENT -> two dominions, India and Pakistan, from 15 August 1947",
+            "|-- ALSO PROVIDES -> lapse of British paramountcy over the princely states",
+            "SEQUENCE -> 3 June political plan -> 18 July assent -> 15 August commencement",
+            "RULE -> assent and commencement are separate legal events."
+          ],
+          "source_references": [
+            "The Indian Independence Act: Royal Assent and commencement"
+          ]
+        },
+        {
+          "title": "Statutory commencement versus commemorative observance",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WHAT THE STATUTE SAYS      | WHAT COMMEMORATION SAYS",
+            "---------------------------|-------------------------------------------------",
+            "both dominions created     | Pakistan observes 14 August as its national day",
+            "from 15 August 1947        | ceremonies at Karachi (14th) and Delhi (15th)",
+            "RULE -> statutory commencement is one date; commemorative observance is another."
+          ],
+          "source_references": [
+            "14 August and 15 August: what the Act actually provides"
+          ]
+        },
+        {
+          "title": "The lapse of paramountcy",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "PARAMOUNTCY -> LAPSED (it did not transfer)",
+            "|-- NOT INHERITED -> neither dominion succeeded to suzerainty automatically",
+            "|-- CONSEQUENCE -> each state's relationship had to be created afresh",
+            "|-- ROUTE -> accession or agreement, negotiated state by state",
+            "RULE -> \"lapsed\" is the operative verb; \"transferred\" is the error."
+          ],
+          "source_references": [
+            "The lapse of British paramountcy"
+          ]
+        },
+        {
+          "title": "Radcliffe: two commissions, awards of 17 August",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BOUNDARY MECHANISM -> two commissions, one chairman",
+            "|-- PUNJAB COMMISSION | BENGAL COMMISSION -> chaired by Cyril Radcliffe",
+            "|-- COMPOSITION -> equal Congress-nominated and League-nominated judges",
+            "|-- DEADLOCK -> members divide -> decisions fall to the chairman",
+            "15 AUG 1947 -> transfer of power | 17 AUG 1947 -> awards published",
+            "CONSEQUENCE -> border districts uncertain; violence already under way before the line."
+          ],
+          "source_references": [
+            "Two Radcliffe commissions and the awards of 17 August 1947"
+          ]
+        },
+        {
+          "title": "Responsibility, contingency and the three registers",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "CONGRESS ACCEPTANCE -> reluctant and pragmatic; deadlock, violence, governability",
+            "INEVITABILITY -> structure (1909 onwards) + contingency (dated 1946-47 decisions)",
+            "RESPONSIBILITY -> British policy | Muslim League | Congress | communal organisations",
+            "               -> mass fear and regional dynamics; no single villain",
+            "THREE REGISTERS -> legal transfer | political triumph | humanitarian catastrophe",
+            "HUMAN COST -> displacement around 10 to 15 million (broad estimate); deaths contested",
+            "GANDHI -> in Calcutta and Bengal for communal peace, not celebrating in Delhi",
+            "RULE -> record all three registers; a one-sided verdict answers only part."
+          ],
+          "source_references": [
+            "Congress acceptance of Partition as reluctant pragmatism",
+            "Was Partition inevitable? Cumulative structure and contingency",
+            "Responsibility without a single villain",
+            "Two registers: legal transfer, political triumph, humanitarian catastrophe"
+          ]
+        }
+      ]
+    }
+  ]
+}

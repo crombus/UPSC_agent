@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-55",
+  "title": "Constitutional Interpretation Doctrines",
+  "gate": "A",
+  "started_at": "2026-08-25T13:52:38+05:30",
+  "completed_at": "2026-08-25T13:52:42+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://www.sci.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.sci.gov.in/",
+          "title": "Supreme Court of India | India",
+          "evidence_excerpt": "Supreme Court of India | India Skip to main content Search Search Accessibility Links Accessibility Tools Color Contrast High Contrast Normal Contrast Highlight Links Invert Saturation Text Size Font Size Increase Font Size Decrease Normal Font Text Spacing Line Height Others Hide Images Big Cursor हिन्दी भारत का सर्वोच्च न्यायालय SUPREME COURT OF INDIA भारत का सर्वोच्च न्यायालय Supreme Court of India || यतो धर्मस्ततो जय: || Menu Toggle More Home About Us History Constitution Jurisdiction Calendar Committees Organization Chart Registry Officers Contact Us Judges Chief Justice & Judges Former C",
+          "accessed_at": "2026-08-25T13:52:39+05:30"
+        },
+        {
+          "url": "https://api.sci.gov.in/",
+          "status_code": 200,
+          "final_url": "https://api.sci.gov.in/",
+          "title": "",
+          "evidence_excerpt": "",
+          "accessed_at": "2026-08-25T13:52:39+05:30"
+        },
+        {
+          "url": "https://legislative.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.legislative.gov.in/",
+          "title": "",
+          "evidence_excerpt": "",
+          "accessed_at": "2026-08-25T13:52:42+05:30"
+        },
+        {
+          "url": "https://www.legalaffairs.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.legalaffairs.gov.in/",
+          "title": "",
+          "evidence_excerpt": "",
+          "accessed_at": "2026-08-25T13:52:42+05:30"
+        }
+      ],
+      "result": "The official Constitution/Supreme Court portals and the controlling decision-year ledger were rechecked on 25 August 2026. Decided holdings are separated from later references, reviews, interim orders and pending questions; no pending doctrinal issue is presented as settled law."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 2,
+    "supporting_route_count": 4,
+    "total_routed_count": 6,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-25",
+    "fact": "The official Constitution/Supreme Court portals and the controlling decision-year ledger were rechecked on 25 August 2026. Decided holdings are separated from later references, reviews, interim orders and pending questions; no pending doctrinal issue is presented as settled law.",
+    "caveat": "A doctrine is a structured test anchored in text, structure and precedent, not a substitute for the governing Article. Interpretation, amendment and judicial legislation are distinct. Bench strength, decision year, legal effect and limitation must accompany every case-based doctrine."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md": "bfe229a90803b397509751a1ccbcb191bb19a3b50ef9946bd984f6a419eead21",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md": "977fd9c87777ed0ec26757f576938e7355e9b0827e4f3201d718abe33db9e9d6",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md": "bec6b166eace786bf55a86c0fff15532fd6b67b108f321b7e058a5233ade3332",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": "f8bf3c2c0a5f8ac1c3a99f5a405f2d3fdd467df57fb3b88da6f4bc297afedf02",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ab6c80529f3b1895a45f3be6fcfaec26a8c3f060e683b03a84cf9adf4a869a95",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md": "7d6af70b6a6193d46a9158f3da2c9931c1b23f0f7072c129d9ca82bc969b81f4",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md": "8025473592cb72bbda35a10b8af15d4ebbd79c56899cc0f53a06795976326444",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md": "7f366e4f264e1ada809d837a95ef4dc3ea885f495ad35d4489e8ba82a4c29d51",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "textual, structural, historical, purposive and precedent-based methods",
+    "severability, eclipse, waiver, reading down/into and invalidity remedies",
+    "pith and substance, colourability, ancillary power, nexus and Article 254",
+    "harmonious construction, prospective overruling and basic structure",
+    "presumption, arbitrariness, manifest arbitrariness and proportionality",
+    "constitutional morality, transformative constitutionalism and ERP caution",
+    "pleasure, expectation, estoppel, casus omissus, silence and conventions",
+    "Articles 141/142, bench strength and competence/rights/remedy decision trees"
+  ],
+  "topic_completeness_status": "passed",
+  "canonical_owner_resolution": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md",
+    "scope_note": "The Basic/Core Markdown is the canonical owner and remains independently UPSC-complete. Cross-topic owners supplement it; Advanced remains subordinate optional enrichment."
+  },
+  "case_year_sources": [
+    {
+      "case_id": "rmd-union",
+      "canonical_label": "R.M.D. Chamarbaugwala v. Union of India (1957)",
+      "decision_year": 1957,
+      "source_title": "R.M.D. Chamarbaugwala v. Union of India, Supreme Court judgment dated 9 April 1957",
+      "source_url": "https://indiankanoon.org/search/?formInput=R+M+D+Chamarbaugwala+Union+of+India+9+April+1957"
+    },
+    {
+      "case_id": "bhikaji-narain",
+      "canonical_label": "Bhikaji Narain Dhakras (1955)",
+      "decision_year": 1955,
+      "source_title": "Bhikaji Narain Dhakras v. State of Madhya Pradesh, Supreme Court judgment dated 29 September 1955",
+      "source_url": "https://indiankanoon.org/search/?formInput=Bhikaji+Narain+Dhakras+29+September+1955"
+    },
+    {
+      "case_id": "basheshar-nath",
+      "canonical_label": "Basheshar Nath (1958)",
+      "decision_year": 1958,
+      "source_title": "Basheshar Nath v. Commissioner of Income Tax, Supreme Court judgment dated 19 November 1958",
+      "source_url": "https://indiankanoon.org/search/?formInput=Basheshar+Nath+Commissioner+Income+Tax+1959"
+    },
+    {
+      "case_id": "prafulla-kumar",
+      "canonical_label": "Prafulla Kumar Mukherjee (1947)",
+      "decision_year": 1947,
+      "source_title": "Prafulla Kumar Mukherjee v. Bank of Commerce, Privy Council decision of 1947",
+      "source_url": "https://indiankanoon.org/search/?formInput=Prafulla+Kumar+Mukherjee+Bank+of+Commerce+1947"
+    },
+    {
+      "case_id": "fn-balsara",
+      "canonical_label": "State of Bombay v. F.N. Balsara (1951)",
+      "decision_year": 1951,
+      "source_title": "State of Bombay v. F.N. Balsara, Supreme Court judgment dated 25 May 1951",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+Bombay+F+N+Balsara+25+May+1951"
+    },
+    {
+      "case_id": "kc-gajapati",
+      "canonical_label": "K.C. Gajapati Narayan Deo (1953)",
+      "decision_year": 1953,
+      "source_title": "K.C. Gajapati Narayan Deo v. State of Orissa, Supreme Court judgment dated 30 January 1953",
+      "source_url": "https://indiankanoon.org/search/?formInput=K+C+Gajapati+Narayan+Deo+30+January+1953"
+    },
+    {
+      "case_id": "rmd-state-bombay",
+      "canonical_label": "State of Bombay v. R.M.D. Chamarbaugwala (1957)",
+      "decision_year": 1957,
+      "source_title": "State of Bombay v. R.M.D. Chamarbaugwala, Supreme Court judgment dated 4 April 1957",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+Bombay+R+M+D+Chamarbaugwala+4+April+1957"
+    },
+    {
+      "case_id": "deep-chand",
+      "canonical_label": "Deep Chand v. State of Uttar Pradesh (1959)",
+      "decision_year": 1959,
+      "source_title": "Deep Chand v. State of Uttar Pradesh, Supreme Court judgment dated 15 January 1959",
+      "source_url": "https://indiankanoon.org/search/?formInput=Deep+Chand+State+Uttar+Pradesh+15+January+1959"
+    },
+    {
+      "case_id": "m-karunanidhi",
+      "canonical_label": "M. Karunanidhi v. Union of India (1979)",
+      "decision_year": 1979,
+      "source_title": "M. Karunanidhi v. Union of India, Supreme Court judgment dated 8 May 1979",
+      "source_url": "https://indiankanoon.org/search/?formInput=M+Karunanidhi+Union+India+8+May+1979"
+    },
+    {
+      "case_id": "kerala-education-bill",
+      "canonical_label": "In re Kerala Education Bill (1958)",
+      "decision_year": 1958,
+      "source_title": "In re Kerala Education Bill, Supreme Court advisory opinion dated 22 May 1958",
+      "source_url": "https://indiankanoon.org/search/?formInput=In+re+Kerala+Education+Bill+22+May+1958"
+    },
+    {
+      "case_id": "kedar-nath-singh",
+      "canonical_label": "Kedar Nath Singh (1962)",
+      "decision_year": 1962,
+      "source_title": "Kedar Nath Singh v. State of Bihar, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Kedar+Nath+Singh+v+State+of+Bihar+20+January+1962"
+    },
+    {
+      "case_id": "golaknath",
+      "canonical_label": "I.C. Golaknath (1967)",
+      "decision_year": 1967,
+      "source_title": "I.C. Golaknath v. State of Punjab, judgment dated 27 February 1967",
+      "source_url": "https://indiankanoon.org/docfragment/120358/"
+    },
+    {
+      "case_id": "kesavananda-bharati",
+      "canonical_label": "Kesavananda Bharati (1973)",
+      "decision_year": 1973,
+      "source_title": "Kesavananda Bharati v. State of Kerala, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/docfragment/257876/"
+    },
+    {
+      "case_id": "minerva-mills",
+      "canonical_label": "Minerva Mills (1980)",
+      "decision_year": 1980,
+      "source_title": "Minerva Mills Ltd. v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Minerva+Mills+v+Union+of+India"
+    },
+    {
+      "case_id": "ram-krishna-dalmia",
+      "canonical_label": "Ram Krishna Dalmia (1958)",
+      "decision_year": 1958,
+      "source_title": "Ram Krishna Dalmia v. Justice S.R. Tendolkar, Supreme Court judgment dated 28 March 1958",
+      "source_url": "https://indiankanoon.org/search/?formInput=Ram+Krishna+Dalmia+Justice+Tendolkar+28+March+1958"
+    },
+    {
+      "case_id": "ep-royappa",
+      "canonical_label": "E.P. Royappa (1973)",
+      "decision_year": 1973,
+      "source_title": "E.P. Royappa v. State of Tamil Nadu, judgment dated 23 November 1973",
+      "source_url": "https://indiankanoon.org/docfragment/1327287/"
+    },
+    {
+      "case_id": "shayara-bano",
+      "canonical_label": "Shayara Bano v. Union of India (2017)",
+      "decision_year": 2017,
+      "source_title": "Shayara Bano v. Union of India, Supreme Court judgment dated 22 August 2017",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shayara+Bano+Union+India+22+August+2017"
+    },
+    {
+      "case_id": "modern-dental-college",
+      "canonical_label": "Modern Dental College (2016)",
+      "decision_year": 2016,
+      "source_title": "Modern Dental College and Research Centre v. State of Madhya Pradesh, Supreme Court judgment dated 2 May 2016",
+      "source_url": "https://indiankanoon.org/search/?formInput=Modern+Dental+College+Madhya+Pradesh+2+May+2016"
+    },
+    {
+      "case_id": "puttaswamy-privacy",
+      "canonical_label": "K.S. Puttaswamy (2017)",
+      "decision_year": 2017,
+      "source_title": "Justice K.S. Puttaswamy (Retd.) v. Union of India, privacy judgment dated 24 August 2017",
+      "source_url": "https://indiankanoon.org/docfragment/91938676/"
+    },
+    {
+      "case_id": "anuradha-bhasin",
+      "canonical_label": "Anuradha Bhasin (2020)",
+      "decision_year": 2020,
+      "source_title": "Anuradha Bhasin v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Anuradha+Bhasin+v+Union+of+India+10+January+2020"
+    },
+    {
+      "case_id": "navtej-singh-johar",
+      "canonical_label": "Navtej Singh Johar v. Union of India (2018)",
+      "decision_year": 2018,
+      "source_title": "Navtej Singh Johar v. Union of India, Supreme Court judgment dated 6 September 2018",
+      "source_url": "https://indiankanoon.org/search/?formInput=Navtej+Singh+Johar+Union+of+India+6+September+2018"
+    },
+    {
+      "case_id": "shirur-mutt",
+      "canonical_label": "Shirur Mutt (1954)",
+      "decision_year": 1954,
+      "source_title": "Commissioner, Hindu Religious Endowments v. Shirur Mutt, Supreme Court judgment dated 16 April 1954",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shirur+Mutt+16+April+1954"
+    },
+    {
+      "case_id": "indian-young-lawyers",
+      "canonical_label": "Indian Young Lawyers Association (2018)",
+      "decision_year": 2018,
+      "source_title": "Indian Young Lawyers Association v. State of Kerala, Supreme Court judgment dated 28 September 2018",
+      "source_url": "https://indiankanoon.org/search/?formInput=Indian+Young+Lawyers+Association+28+September+2018"
+    },
+    {
+      "case_id": "shamsher-singh",
+      "canonical_label": "Shamsher Singh (1974)",
+      "decision_year": 1974,
+      "source_title": "Shamsher Singh v. State of Punjab, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shamsher+Singh+v+State+of+Punjab+23+August+1974"
+    },
+    {
+      "case_id": "navjyoti-cooperative",
+      "canonical_label": "Navjyoti Cooperative Group Housing (1992)",
+      "decision_year": 1992,
+      "source_title": "Navjyoti Cooperative Group Housing Society v. Union of India, Supreme Court judgment dated 17 December 1992",
+      "source_url": "https://indiankanoon.org/search/?formInput=Navjyoti+Cooperative+Group+Housing+17+December+1992"
+    },
+    {
+      "case_id": "motilal-padampat",
+      "canonical_label": "Motilal Padampat Sugar Mills (1978)",
+      "decision_year": 1978,
+      "source_title": "Motilal Padampat Sugar Mills v. State of Uttar Pradesh, Supreme Court judgment dated 12 December 1978",
+      "source_url": "https://indiankanoon.org/search/?formInput=Motilal+Padampat+Sugar+Mills+State+Uttar+Pradesh+1979"
+    },
+    {
+      "case_id": "padma-sundara-rao",
+      "canonical_label": "Padma Sundara Rao (2002)",
+      "decision_year": 2002,
+      "source_title": "Padma Sundara Rao v. State of Tamil Nadu, Supreme Court judgment dated 13 March 2002",
+      "source_url": "https://indiankanoon.org/search/?formInput=Padma+Sundara+Rao+Tamil+Nadu+13+March+2002"
+    },
+    {
+      "case_id": "supreme-court-bar-association",
+      "canonical_label": "Supreme Court Bar Association (1998)",
+      "decision_year": 1998,
+      "source_title": "Supreme Court Bar Association v. Union of India, judgment dated 17 April 1998",
+      "source_url": "https://indiankanoon.org/search/?formInput=Supreme+Court+Bar+Association+v+Union+of+India+17+April+1998"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-25",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "A doctrine is a structured test anchored in text, structure and precedent, not a substitute for the governing Article. Interpretation, amendment and judicial legislation are distinct. Bench strength, decision year, legal effect and limitation must accompany every case-based doctrine."
+  }
+}

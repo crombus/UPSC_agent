@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-17",
+  "subject": "Political Theory",
+  "title": "HUMAN RIGHTS, CIVIL LIBERTIES AND DEMOCRATIC RIGHTS",
+  "short_route": "HUMAN RIGHTS, CIVIL LIBERTIES → HOHFELD AND THE NEGATIVE-POSITIVE → NATURAL, LEGAL, HISTORICAL AND → LOCKE, PAINE, GREEN AND → BURKE, LASKI, MARX AND → THESES, DIRECTIVES AND RIGHTS-ANSWER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g3\\topic-17_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-17-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "0ace8a1e54c29220bdcb7c36f3a0ed55a5c9c51c9eae4ddac46eece2891b8f7f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "HUMAN RIGHTS, CIVIL LIBERTIES AND DEMOCRATIC RIGHTS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "HUMAN RIGHTS, CIVIL LIBERTIES AND DEMOCRATIC RIGHTS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HUMAN RIGHTS ATTACH TO PERSONS THROUGH DIGNITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] CIVIL LIBERTIES PROTECT LEGAL FREEDOM AGAINST ARBITRARY PUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DEMOCRATIC RIGHTS ENABLE CITIZENS TO PARTICIPATE IN COLLECTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE CATEGORIES OVERLAP BUT ARE NOT ARRANGED IN",
+          "role": "caution"
+        },
+        {
+          "text": "RIGHTS CATEGORIES OVERLAP BECAUSE DIGNITY, LIBERTY AND PARTICIPATION INTERDEPEND.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Human Rights, Civil Liberties and Democratic Rights",
+        "[1] Human rights attach to persons through dignity and universal moral concern.",
+        "[2] Civil liberties protect legal freedom against arbitrary public power.",
+        "[3] Democratic rights enable citizens to participate in collective self-government."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Human Rights, Civil Liberties and Democratic Rights",
+            "[1] Human rights attach to persons through dignity and universal moral concern."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Civil liberties protect legal freedom against arbitrary public power.",
+            "[3] Democratic rights enable citizens to participate in collective self-government.",
+            "[4] The categories overlap but are not arranged in one rigid hierarchy."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Rights categories overlap because dignity, liberty and participation interdepend.",
+            "ANSWER USE → Distinguish them through holder, function and duty-bearer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rights categories overlap because dignity, liberty and participation interdepend.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HOHFELD AND THE NEGATIVE-POSITIVE OBLIGATION GRID",
+      "structural_type": "doctrine-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HOHFELD AND THE NEGATIVE-POSITIVE OBLIGATION GRID",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HOHFELD SEPARATES CLAIM, LIBERTY, POWER AND IMMUNITY POSITIONS.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] NEGATIVE DUTIES REQUIRE RESTRAINT; POSITIVE DUTIES REQUIRE PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MOST REAL RIGHTS COMBINE BOTH DIMENSIONS THROUGH INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] EVERY ANSWER SHOULD IDENTIFY HOLDER, DUTY-BEARER, CONTENT AND",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGATIVE AND POSITIVE IDENTIFY OBLIGATION DIMENSIONS, NOT SEALED RIGHT-TYPES.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Hohfeld and the Negative-Positive Obligation Grid",
+        "[1] Hohfeld separates claim, liberty, power and immunity positions.",
+        "[2] Negative duties require restraint; positive duties require protection or provision.",
+        "[3] Most real rights combine both dimensions through institutions and remedies."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Negative duties require restraint; positive duties require protection or provision.",
+          "VERDICT → Negative and positive identify obligation dimensions, not sealed right-types."
+        ],
+        [
+          "Hohfeld and the Negative-Positive Obligation Grid",
+          "[3] Most real rights combine both dimensions through institutions and remedies.",
+          "ANSWER USE → Map every right through Hohfeldian position and required duty."
+        ],
+        [
+          "[1] Hohfeld separates claim, liberty, power and immunity positions.",
+          "[4] Every answer should identify holder, duty-bearer, content and remedy.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Hohfeld and the Negative-Positive Obligation Grid",
+            "[1] Hohfeld separates claim, liberty, power and immunity positions."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Negative duties require restraint; positive duties require protection or provision.",
+            "[3] Most real rights combine both dimensions through institutions and remedies.",
+            "[4] Every answer should identify holder, duty-bearer, content and remedy."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Negative and positive identify obligation dimensions, not sealed right-types.",
+            "ANSWER USE → Map every right through Hohfeldian position and required duty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Negative and positive identify obligation dimensions, not sealed right-types.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NATURAL, LEGAL, HISTORICAL AND PERSONALITY THEORIES",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NATURAL, LEGAL, HISTORICAL AND PERSONALITY THEORIES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NATURAL-RIGHTS THEORIES GIVE CLAIMS MORAL FORCE BEFORE LEGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LEGAL THEORIES STRESS PUBLIC DEFINITION, GUARANTEE AND ENFORCEABILITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] HISTORICAL THEORIES GROUND RIGHTS IN EVOLVED PRACTICES AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PERSONALITY THEORIES CONNECT RIGHTS TO MORAL DEVELOPMENT AND",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS THEORIES SEPARATE MORAL SOURCE, LEGAL GUARANTEE, HISTORY AND",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Natural, Legal, Historical and Personality Theories",
+        "[1] Natural-rights theories give claims moral force before legal recognition.",
+        "[2] Legal theories stress public definition, guarantee and enforceability.",
+        "[3] Historical theories ground rights in evolved practices and inheritance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Natural, Legal, Historical and Personality Theories",
+            "[1] Natural-rights theories give claims moral force before legal recognition."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Legal theories stress public definition, guarantee and enforceability.",
+            "[3] Historical theories ground rights in evolved practices and inheritance.",
+            "[4] Personality theories connect rights to moral development and common good."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Rights theories separate moral source, legal guarantee, history and personality.",
+            "ANSWER USE → Compare the source of validity before judging institutional force."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rights theories separate moral source, legal guarantee, history and personality.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LOCKE, PAINE, GREEN AND BARKER",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOCKE, PAINE, GREEN AND BARKER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LOCKE GROUNDS RESISTANCE IN LIFE, LIBERTY, PROPERTY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PAINE ATTACKS INHERITED PRIVILEGE THROUGH UNIVERSAL NATURAL EQUALITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GREEN LINKS RIGHTS TO SOCIAL RECOGNITION AND MORAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] BARKER JOINS PERSONALITY-GROUNDING TO LEGAL GUARANTEE WITHOUT COLLAPSING",
+          "role": "outcome"
+        },
+        {
+          "text": "BARKER BRIDGES MORAL PURPOSE AND LAW WITHOUT PROVING EFFECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Locke, Paine, Green and Barker",
+        "[1] Locke grounds resistance in life, liberty, property and limited trust.",
+        "[2] Paine attacks inherited privilege through universal natural equality.",
+        "[3] Green links rights to social recognition and moral self-development."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Paine attacks inherited privilege through universal natural equality.",
+          "VERDICT → Barker bridges moral purpose and law without proving effective enjoyment."
+        ],
+        [
+          "Locke, Paine, Green and Barker",
+          "[3] Green links rights to social recognition and moral self-development.",
+          "ANSWER USE → Keep validity, recognition, enforceability and realisation distinct."
+        ],
+        [
+          "[1] Locke grounds resistance in life, liberty, property and limited trust.",
+          "[4] Barker joins personality-grounding to legal guarantee without collapsing the two.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Locke, Paine, Green and Barker",
+            "[1] Locke grounds resistance in life, liberty, property and limited trust."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Paine attacks inherited privilege through universal natural equality.",
+            "[3] Green links rights to social recognition and moral self-development.",
+            "[4] Barker joins personality-grounding to legal guarantee without collapsing the two."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Barker bridges moral purpose and law without proving effective enjoyment.",
+            "ANSWER USE → Keep validity, recognition, enforceability and realisation distinct."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Barker bridges moral purpose and law without proving effective enjoyment.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BURKE, LASKI, MARX AND NOZICK",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BURKE, LASKI, MARX AND NOZICK",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] BURKE PROTECTS PRESCRIPTIVE INHERITANCE BUT RISKS PRESERVING INHERITED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LASKI TREATS RIGHTS AS SOCIAL CONDITIONS OF PERSONALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MARX EXPOSES CLASS POWER BENEATH FORMALLY EQUAL RIGHTS.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] NOZICK DEFENDS SIDE-CONSTRAINTS AND AN ANTI-REDISTRIBUTIVE MINIMAL STATE.",
+          "role": "institution"
+        },
+        {
+          "text": "RIGHTS CAN PROTECT AGENCY AND STILL CONCEAL UNEQUAL SOCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Burke, Laski, Marx and Nozick",
+        "[1] Burke protects prescriptive inheritance but risks preserving inherited exclusion.",
+        "[2] Laski treats rights as social conditions of personality and common welfare.",
+        "[3] Marx exposes class power beneath formally equal rights."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Burke, Laski, Marx and Nozick",
+            "[1] Burke protects prescriptive inheritance but risks preserving inherited exclusion."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Laski treats rights as social conditions of personality and common welfare.",
+            "[3] Marx exposes class power beneath formally equal rights.",
+            "[4] Nozick defends side-constraints and an anti-redistributive minimal state."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Rights can protect agency and still conceal unequal social power.",
+            "ANSWER USE → Compare welfare, class and libertarian critiques through one dispute."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rights can protect agency and still conceal unequal social power.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESES, DIRECTIVES AND RIGHTS-ANSWER ARCHITECTURE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THESES, DIRECTIVES AND RIGHTS-ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A THESIS SHOULD IDENTIFY THE RIGHTS THEORY, OBLIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECTIVE CONTROL DETERMINES WHETHER COMPARISON, CRITICISM OR APPLICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GENERATIONS ANSWERS MUST DISTINGUISH MNEMONIC VALUE FROM HISTORICAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] COVENANT ANSWERS MUST SEPARATE IMMEDIATE DUTIES FROM PROGRESSIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVE FIDELITY DETERMINES THE THEORY, DUTY AND REMEDY REQUIRED.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses, Directives and Rights-Answer Architecture",
+        "[1] A thesis should identify the rights theory, obligation structure and enforcement level.",
+        "[2] Directive control determines whether comparison, criticism or application dominates.",
+        "[3] Generations answers must distinguish mnemonic value from historical accuracy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses, Directives and Rights-Answer Architecture",
+            "[1] A thesis should identify the rights theory, obligation structure and enforcement level."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Directive control determines whether comparison, criticism or application dominates.",
+            "[3] Generations answers must distinguish mnemonic value from historical accuracy.",
+            "[4] Covenant answers must separate immediate duties from progressive realisation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Directive fidelity determines the theory, duty and remedy required.",
+            "ANSWER USE → State the obligation structure in the thesis before examples."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Directive fidelity determines the theory, duty and remedy required.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MACINTYRE AND ACCURATE FEMINIST CRITIQUES",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MACINTYRE AND ACCURATE FEMINIST CRITIQUES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MACINTYRE CHALLENGES ABSTRACT RIGHTS-TALK FROM TRADITIONS AND SOCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] FEMINIST CRITIQUE TESTS WHETHER NEUTRAL RIGHTS CONCEAL PATRIARCHAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] FIRESTONE FOREGROUNDS SEX-CLASS AND REPRODUCTIVE CONTROL.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] ROWBOTHAM JOINS WOMEN'S OPPRESSION TO CAPITALISM, LABOUR AND",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNITY AND FEMINIST CRITIQUES EXPOSE DIFFERENT LIMITS OF ABSTRACTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MacIntyre and Accurate Feminist Critiques",
+        "[1] MacIntyre challenges abstract rights-talk from traditions and social practices.",
+        "[2] Feminist critique tests whether neutral rights conceal patriarchal power.",
+        "[3] Firestone foregrounds sex-class and reproductive control."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "MacIntyre and Accurate Feminist Critiques",
+            "[1] MacIntyre challenges abstract rights-talk from traditions and social practices."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Feminist critique tests whether neutral rights conceal patriarchal power.",
+            "[3] Firestone foregrounds sex-class and reproductive control.",
+            "[4] Rowbotham joins women's oppression to capitalism, labour and historical struggle."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Community and feminist critiques expose different limits of abstraction.",
+            "ANSWER USE → Separate MacIntyre, Firestone and Rowbotham by mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Separate MacIntyre, Firestone and Rowbotham by mechanism.",
+      "answer_line": "VERDICT → Community and feminist critiques expose different limits of abstraction.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GENERATIONS OF RIGHTS AND INDIVISIBILITY",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GENERATIONS OF RIGHTS AND INDIVISIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FIRST-GENERATION RIGHTS PROTECT CIVIL AND POLITICAL AGENCY BUT",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] SECOND-GENERATION RIGHTS CONTAIN PROGRESSIVE AND IMMEDIATE OBLIGATIONS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THIRD-GENERATION CLAIMS HAVE UNEQUAL LEGAL STATUS AND ENFORCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] INDIVISIBILITY MEANS MUTUAL SUPPORT, NOT IDENTICAL DUTIES OR",
+          "role": "caution"
+        },
+        {
+          "text": "GENERATIONS ORGANISE CLAIMS BUT CANNOT RANK OR DATE THEM",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Generations of Rights and Indivisibility",
+        "[1] First-generation rights protect civil and political agency but need institutions.",
+        "[2] Second-generation rights contain progressive and immediate obligations.",
+        "[3] Third-generation claims have unequal legal status and enforcement paths."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Generations of Rights and Indivisibility",
+            "[1] First-generation rights protect civil and political agency but need institutions."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Second-generation rights contain progressive and immediate obligations.",
+            "[3] Third-generation claims have unequal legal status and enforcement paths.",
+            "[4] Indivisibility means mutual support, not identical duties or remedies."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Generations organise claims but cannot rank or date them universally.",
+            "ANSWER USE → Add actual legal status, immediate duties and interdependence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Generations organise claims but cannot rank or date them universally.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NUREMBERG, UDHR, ICCPR AND ICESCR",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "NUREMBERG, UDHR, ICCPR AND ICESCR",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE UDHR IS A GLOBAL STANDARD RATHER THAN",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ICCPR DUTIES STRESS RESPECT, ENSURE AND EFFECTIVE REMEDY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ICESCR COMBINES PROGRESSIVE REALISATION WITH IMMEDIATE NON-DISCRIMINATION AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] NUREMBERG SUPPLIED AN ACCOUNTABILITY PRECEDENT, NOT THE WHOLE",
+          "role": "caution"
+        },
+        {
+          "text": "HUMAN-RIGHTS INSTRUMENTS DIFFER IN FORM, DUTY AND ENFORCEMENT ROUTE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Nuremberg, UDHR, ICCPR and ICESCR",
+        "[1] The UDHR is a global standard rather than a treaty with Covenant form.",
+        "[2] ICCPR duties stress respect, ensure and effective remedy.",
+        "[3] ICESCR combines progressive realisation with immediate non-discrimination and steps."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Nuremberg, UDHR, ICCPR and ICESCR",
+            "[1] The UDHR is a global standard rather than a treaty with Covenant form."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] ICCPR duties stress respect, ensure and effective remedy.",
+            "[3] ICESCR combines progressive realisation with immediate non-discrimination and steps.",
+            "[4] Nuremberg supplied an accountability precedent, not the whole origin of human rights."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Human-rights instruments differ in form, duty and enforcement route.",
+            "ANSWER USE → Distinguish UDHR standard-setting from Covenant obligations."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Human-rights instruments differ in form, duty and enforcement route.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RESTRICTIONS, EMERGENCIES, HORIZONTAL EFFECT AND PROTECTION",
+      "structural_type": "answer-spine",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RESTRICTIONS, EMERGENCIES, HORIZONTAL EFFECT AND PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ORDINARY RESTRICTIONS REQUIRE LAW, PERMITTED AIM, NECESSITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] EMERGENCY DEROGATION IS NARROWER AND LEAVES SPECIFIED NON-DEROGABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] HORIZONTAL HARMS MAY REQUIRE LEGISLATION OR POSITIVE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "[4] THE NHRC DETENTION CASE IS AN ALLEGATION AND",
+          "role": "outcome"
+        },
+        {
+          "text": "LAWFUL LIMITS AND EMERGENCY DEROGATION REQUIRE SEPARATE STRUCTURED TESTS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Restrictions, Emergencies, Horizontal Effect and Protection",
+        "[1] Ordinary restrictions require law, permitted aim, necessity and proportionality.",
+        "[2] Emergency derogation is narrower and leaves specified non-derogable rights intact.",
+        "[3] Horizontal harms may require legislation or positive state protection."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Restrictions, Emergencies, Horizontal Effect and Protection",
+            "[1] Ordinary restrictions require law, permitted aim, necessity and proportionality."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Emergency derogation is narrower and leaves specified non-derogable rights intact.",
+            "[3] Horizontal harms may require legislation or positive state protection.",
+            "[4] The NHRC detention case is an allegation and response anchor, not an adjudicated finding."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Lawful limits and emergency derogation require separate structured tests.",
+            "ANSWER USE → Use the NHRC case only as an allegation and institutional response."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Lawful limits and emergency derogation require separate structured tests.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TEST MORAL VALIDITY, RECOGNITION, ENFORCEABILITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] CIVIL LIBERTIES MAY PROTECT NON-CITIZENS WHILE ELECTORAL RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ABSOLUTE-RIGHT LANGUAGE MUST BE CONFINED TO THE APPLICABLE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] SOCIAL MOVEMENTS CAN DEEPEN EFFECTIVE RIGHTS WITHOUT THEMSELVES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE OPTIONS TURN ON LEGAL LEVEL, OBLIGATION, HOLDER AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options test moral validity, recognition, enforceability and realisation.",
+        "[2] Civil liberties may protect non-citizens while electoral rights usually depend on citizenship.",
+        "[3] Absolute-right language must be confined to the applicable legal rule and context."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close options test moral validity, recognition, enforceability and realisation."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Civil liberties may protect non-citizens while electoral rights usually depend on citizenship.",
+            "[3] Absolute-right language must be confined to the applicable legal rule and context.",
+            "[4] Social movements can deepen effective rights without themselves replacing legal guarantee."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options turn on legal level, obligation, holder and remedy.",
+            "ANSWER USE → Reject absolute language unless the specific rule supports it."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Reject absolute language unless the specific rule supports it.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SEVEN RIGHTS PYQS ARE CROSS-APPLIED FROM INDIVIDUAL AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PRIMARY PHILOSOPHY OWNERSHIP REMAINS EXPLICIT IN EVERY TRANSFERRED",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SIX ORIGINAL QUESTIONS TEST TAXONOMY, THEORIES, GENERATIONS AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS REQUIRE JUSTIFICATION, LAW, REMEDY AND USABLE INSTITUTIONAL ACCESS.",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS BECOME REAL THROUGH JUSTIFICATION, RECOGNITION, REMEDY AND ACCESS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Seven rights PYQs are cross-applied from Individual and State.",
+        "[2] Primary Philosophy ownership remains explicit in every transferred question.",
+        "[3] Six original questions test taxonomy, theories, generations and enforcement."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Seven rights PYQs are cross-applied from Individual and State."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Primary Philosophy ownership remains explicit in every transferred question.",
+            "[3] Six original questions test taxonomy, theories, generations and enforcement.",
+            "[4] Final recall: rights require justification, law, remedy and usable institutional access."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Rights become real through justification, recognition, remedy and access.",
+            "ANSWER USE → Preserve Philosophy ownership and end with institutional plurality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rights become real through justification, recognition, remedy and access.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

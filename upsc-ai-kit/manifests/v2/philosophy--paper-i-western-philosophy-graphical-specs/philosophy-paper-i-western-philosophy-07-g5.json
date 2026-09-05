@@ -1,0 +1,881 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-07",
+  "subject": "Philosophy",
+  "title": "LOGICAL POSITIVISM",
+  "short_route": "SCIENTIFIC WORLDVIEW/ATTRIBUTION → COGNITIVE MEANING → STRONG/WEAK → SCIENCE/CONFIRMATION → METAPHYSICS/VALUE → ANALYTIC NECESSITY → PROTOCOLS/PHYSICALISM → CARNAP → SELF-APPLICATION/BOUNDARIES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-07-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "c26a9dd75c803eea8e3ecfd9f8f90e6c2164dcdeef9028c9548397b5a2ccb81d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "VIENNA CIRCLE PROGRAMME AND THE ANALYTIC-SYNTHETIC DIVISION",
+      "structural_type": "programme-map-and-classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VIENNA CIRCLE: SCHLICK, CARNAP, NEURATH",
+          "role": "primary"
+        },
+        {
+          "text": "AYER: ENGLISH EXPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPERIENCE + MODERN LOGIC",
+          "role": "evidence"
+        },
+        {
+          "text": "PHILOSOPHY AS CLARIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTIC / SYNTHETIC DIVISION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "START → Vienna Circle: Schlick, Carnap, Neurath; Ayer is the English expositor.",
+        "INFLUENCES → empiricism + mathematical logic + early Wittgenstein.",
+        "PHILOSOPHY → logical clarification, not a rival source of empirical facts.",
+        "COGNITIVE MEANING → truth-apt factual content or analytic logical function.",
+        "ANALYTIC → true by meanings/rules; necessary; non-factual yet meaningful."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROGRAMME",
+          "role": "evidence",
+          "items": [
+            "Empiricism controls factual claims through possible experience.",
+            "Modern logic exposes form concealed by ordinary grammar.",
+            "Philosophy clarifies scientific language rather than adding rival facts."
+          ]
+        },
+        {
+          "heading": "MEANING DIVISION",
+          "role": "mechanism",
+          "items": [
+            "Analytic propositions are necessary and non-factual.",
+            "Synthetic propositions are contingent and empirically answerable.",
+            "Cognitive meaning is not the same as truth, proof or total significance."
+          ]
+        },
+        {
+          "heading": "HISTORICAL CAUTIONS",
+          "role": "outcome",
+          "items": [
+            "Schlick, Carnap and Neurath did not retain one unchanged formula.",
+            "Ayer popularised and revised the doctrine in an English setting.",
+            "Unity of science was an ambition with internal limits and disputes."
+          ]
+        }
+      ],
+      "mechanism_strip": "Empiricism supplies experiential control + mathematical logic supplies analysis -> philosophy clarifies propositions -> analytic rules and synthetic factual claims are separated.",
+      "answer_line": "Logical positivism joins empiricism, logic and scientific clarification, but Vienna Circle, Ayer, Carnap and Neurath positions are not one formula.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "VERIFICATION CRITERION, STRONG-WEAK FORK AND IN-PRINCIPLE ACCESS",
+      "structural_type": "criterion-fork-and-access-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POSSIBLE EXPERIENTIAL DIFFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ACTUAL != IN-PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG: CONCLUSIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAK: PROBABILIFYING",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFIRMATION != TRUTH OR PROOF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FACTUAL P → cognitively meaningful only if experience could count for or against P.",
+        "ACTUAL VERIFICATION → the evidence has been gathered now.",
+        "IN-PRACTICE TESTABILITY → present technology and conditions make checking feasible.",
+        "IN-PRINCIPLE VERIFIABILITY → relevant observations can be specified in principle.",
+        "STRONG → experience could conclusively establish truth; sharp but over-exclusive."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FACTUAL P → cognitively meaningful only if experience could count for or against P.",
+            "ACTUAL VERIFICATION → the evidence has been gathered now.",
+            "IN-PRACTICE TESTABILITY → present technology and conditions make checking feasible.",
+            "IN-PRINCIPLE VERIFIABILITY → relevant observations can be specified in principle."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRONG → experience could conclusively establish truth; sharp but over-exclusive.",
+            "WEAK → possible evidence raises/lowers probability; Ayer's broader repair.",
+            "CONFIRMATION → partial evidential support, not conclusive proof or truth itself.",
+            "PRESSURE → laws, past, other minds, dispositions and theory terms."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP → falsifiability is Popper's rival demarcation rule, not this doctrine.",
+            "DILEMMA → strong kills science; weak risks readmitting metaphysics."
+          ]
+        }
+      ],
+      "mechanism_strip": "Candidate factual proposition -> identify possible experiential difference -> strong route seeks conclusive verification; weak route seeks relevant confirming or disconfirming evidence.",
+      "answer_line": "Verification tests cognitive/factual significance, not truth or every expressive, emotive, practical and poetic use.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POSITIVE CASE AND SCIENTIFIC HARD CASES",
+      "structural_type": "motivation-to-indirect-confirmation-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UNIVERSAL LAWS EXCEED FINITE DATA",
+          "role": "primary"
+        },
+        {
+          "text": "DISPOSITIONS AND PAST EVENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "OTHER MINDS: INDIRECT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "THEORY TERMS VIA PREDICTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SCIENCE SAVED, BOUNDARY SOFTENED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POSITIVE CASE → evidence, operational clarity, public testing, anti-obscurantism.",
+        "UNIVERSAL LAW → finite observations never conclusively verify every instance.",
+        "DISPOSITION → meaningful tendency may remain unmanifested in the present case.",
+        "PAST EVENT → current traces, records and testimony provide indirect evidence.",
+        "OTHER MIND → behaviour/expression provide public but non-conclusive evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "POSITIVE CASE → evidence, operational clarity, public testing, anti-obscurantism.",
+            "UNIVERSAL LAW → finite observations never conclusively verify every instance.",
+            "DISPOSITION → meaningful tendency may remain unmanifested in the present case.",
+            "PAST EVENT → current traces, records and testimony provide indirect evidence."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OTHER MIND → behaviour/expression provide public but non-conclusive evidence.",
+            "THEORETICAL ENTITY → electron-talk belongs to a predictive theoretical network.",
+            "ROUTE → theory + conditions + auxiliaries → prediction → observation report.",
+            "RESULT → confirm, weaken or revise the connected system."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REPLY → public predictive integration differs from insulation from evidence.",
+            "LIMIT → science is saved as sentence-by-sentence demarcation becomes less sharp."
+          ]
+        }
+      ],
+      "mechanism_strip": "Ayer's strong/conclusive and weak/probable formulations face the science/metaphysics dilemma; 1936 and the 1946 revision must be distinguished.",
+      "answer_line": "Verificationism gained its force from the demand that factual language incur an evidential risk, but scientific laws and theoretical terms reveal that this risk is normally indirect and holistic rather than a one-sentence reduction to observation.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EARLY WITTGENSTEIN'S INFLUENCE AND THE POSITIVIST ADDITION",
+      "structural_type": "inheritance-addition-boundary-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FACTUAL SAYING + TAUTOLOGICAL LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY WITTGENSTEIN INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGICAL SYNTAX EXPOSES FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "VERIFICATION: POSITIVIST ADDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT IDENTIFY THE PROGRAMMES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRACTATUS INFLUENCE → facts can be said; logic is tautological; philosophy clarifies.",
+        "TAUTOLOGY → shows logical form but does not picture a contingent fact.",
+        "SAYING/SHOWING → cannot be identified wholesale with positivist verificationism.",
+        "CIRCLE'S ADDITION → factual meaning requires possible experiential verification.",
+        "MODERN LOGIC → analyse logical form beneath misleading surface grammar."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "TRACTATUS INFLUENCE → facts can be said; logic is tautological; philosophy clarifies.",
+            "TAUTOLOGY → shows logical form but does not picture a contingent fact.",
+            "SAYING/SHOWING → cannot be identified wholesale with positivist verificationism.",
+            "CIRCLE'S ADDITION → factual meaning requires possible experiential verification."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MODERN LOGIC → analyse logical form beneath misleading surface grammar.",
+            "LOGICAL SYNTAX → reveals misuse of categories, terms and quantificational forms.",
+            "PHILOSOPHY → clarification of scientific language and limits of assertion.",
+            "HISTORICAL CAUTION → influence does not make Wittgenstein a uniform Circle member."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "AYER CAUTION → English exposition is not identical with every Vienna doctrine.",
+            "ANSWER LINE → inherited logical boundary plus an original empiricist meaning test."
+          ]
+        }
+      ],
+      "mechanism_strip": "Tractarian fact/tautology boundary + empiricist demand for experiential control -> verification criterion and anti-metaphysical logical diagnosis.",
+      "answer_line": "Universal laws, historical claims and theoretical terms gain indirect system-level support; confirmation loosens the original meaning criterion.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "METAPHYSICAL PSEUDO-PROPOSITION DIAGNOSTIC",
+      "structural_type": "diagnostic-decision-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PSEUDO-PROPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "NO CRITERION OF APPLICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GRAMMATICAL DISGUISE / CATEGORY ERROR",
+          "role": "evidence"
+        },
+        {
+          "text": "COGNITIVELY MEANINGLESS, NOT FALSE",
+          "role": "outcome"
+        },
+        {
+          "text": "SIGNIFICANCE MAY REMAIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ASSERTION-LIKE SENTENCE → first ask: analytic or tautological?",
+        "IF NO → what possible experience would bear on truth or falsity?",
+        "IF NONE → inspect each term's criterion of application.",
+        "CHECK → grammatical disguise, category mistake and misuse of logical syntax.",
+        "PSEUDO-PROPOSITION → assertion-like form without cognitive factual content."
+      ],
+      "matrix": [
+        [
+          "SOURCE / DOCTRINE",
+          "ARGUMENT / MECHANISM",
+          "IMPLICATION / VERDICT"
+        ],
+        [
+          "ASSERTION-LIKE SENTENCE → first ask: analytic or tautological?",
+          "PSEUDO-PROPOSITION → assertion-like form without cognitive factual content.",
+          "NOT WORTHLESS → expressive, historical or existential significance may remain."
+        ],
+        [
+          "IF NO → what possible experience would bear on truth or falsity?",
+          "CARNAP → logical analysis diagnoses malformed or empty metaphysical constructions.",
+          "LIMIT → the verdict is only as strong as the verification criterion itself."
+        ],
+        [
+          "IF NONE → inspect each term's criterion of application.",
+          "AYER → unverifiable factual pretence fails the cognitive-meaning criterion.",
+          ""
+        ],
+        [
+          "CHECK → grammatical disguise, category mistake and misuse of logical syntax.",
+          "NOT FALSE → the positivist denies truth-conditions, not merely correspondence.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ASSERTION-LIKE SENTENCE → first ask: analytic or tautological?",
+            "IF NO → what possible experience would bear on truth or falsity?",
+            "IF NONE → inspect each term's criterion of application.",
+            "CHECK → grammatical disguise, category mistake and misuse of logical syntax."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PSEUDO-PROPOSITION → assertion-like form without cognitive factual content.",
+            "CARNAP → logical analysis diagnoses malformed or empty metaphysical constructions.",
+            "AYER → unverifiable factual pretence fails the cognitive-meaning criterion.",
+            "NOT FALSE → the positivist denies truth-conditions, not merely correspondence."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "NOT WORTHLESS → expressive, historical or existential significance may remain.",
+            "LIMIT → the verdict is only as strong as the verification criterion itself."
+          ]
+        }
+      ],
+      "mechanism_strip": "Assertion-like sentence -> analytic? -> if no, specify possible experiential test -> if none, inspect term-use and logical syntax -> diagnose pseudo-proposition.",
+      "answer_line": "The Circle adds empirical verification to Tractarian truth-condition pressures; the *Tractatus* is not itself verificationist.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RELIGION, ETHICS AND AESTHETICS: STATUS VERSUS SIGNIFICANCE",
+      "structural_type": "dual-status-function-classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FACTUAL STATUS != HUMAN SIGNIFICANCE",
+          "role": "primary"
+        },
+        {
+          "text": "EMOTIVE: EXPRESS ATTITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESCRIPTIVE / PERSUASIVE FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RELIGIOUS AND AESTHETIC USES VARY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO TRADITIONAL CARICATURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIRST QUESTION → does the utterance contain a factual, testable component?",
+        "ETHICAL JUDGEMENT → Ayer treats basic evaluation as non-cognitive expression.",
+        "EMOTIVE SIGNIFICANCE → evinces/influences attitudes; does not report a fact.",
+        "REPORTING FEELING != EXPRESSING APPROVAL.",
+        "PRESCRIPTIVE FUNCTION → recommends conduct or commitment."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FIRST QUESTION → does the utterance contain a factual, testable component?",
+            "ETHICAL JUDGEMENT → Ayer treats basic evaluation as non-cognitive expression.",
+            "EMOTIVE SIGNIFICANCE → evinces/influences attitudes; does not report a fact.",
+            "REPORTING FEELING != EXPRESSING APPROVAL."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESCRIPTIVE FUNCTION → recommends conduct or commitment.",
+            "RELIGIOUS LANGUAGE → may mix historical claims, symbols and devotional practice.",
+            "AESTHETIC LANGUAGE → evaluation and response need not be measurement reports.",
+            "FAIRNESS → analyse sentence-functions; never caricature a whole tradition."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OBJECTION → reasons, consistency and embedded ethics pressure simple emotivism.",
+            "VERDICT → non-factual cognitive status does not erase human significance."
+          ]
+        }
+      ],
+      "mechanism_strip": "Metaphysics is diagnosed as non-factual pseudo-statement, while value utterances may retain emotive/expressive roles.",
+      "answer_line": "Logical positivism narrows the cognitive factual status of ethical, religious and aesthetic utterances, but cognitive non-factuality does not erase their emotive, expressive, prescriptive or cultural significance.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LINGUISTIC THEORY OF NECESSARY PROPOSITIONS",
+      "structural_type": "rule-tautology-nonfactual-function-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NECESSITY BY RULE OR CONVENTION",
+          "role": "primary"
+        },
+        {
+          "text": "ANALYTIC / TAUTOLOGICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGIC AND MATHEMATICS NON-FACTUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISE INFERENCE AND REPRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "KANT AND QUINE PRESSURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EMPIRICIST PROBLEM → how can logic and mathematics be necessary and a priori?",
+        "ANSWER → analytic/tautological truth by definitions, conventions and rules.",
+        "TAUTOLOGY → true under every admissible assignment; no contingent fact asserted.",
+        "LOGIC/MATHEMATICS → organise inference and representation within a framework.",
+        "MEANINGFUL → non-factual logical role; empirical verification is unnecessary."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "EMPIRICIST PROBLEM → how can logic and mathematics be necessary and a priori?",
+            "ANSWER → analytic/tautological truth by definitions, conventions and rules.",
+            "TAUTOLOGY → true under every admissible assignment; no contingent fact asserted.",
+            "LOGIC/MATHEMATICS → organise inference and representation within a framework."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEANINGFUL → non-factual logical role; empirical verification is unnecessary.",
+            "CONVENTIONALISM → framework rules explain necessity without supersensible objects.",
+            "EARLY WITTGENSTEIN → tautology influence, not wholesale doctrinal identity.",
+            "KANT → synthetic a priori challenges reduction to analyticity."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUINE → analytic-synthetic boundary appears circular and unstable.",
+            "REPLY/LIMIT → strict consequences within chosen rules; choice standards need defence."
+          ]
+        }
+      ],
+      "mechanism_strip": "Definitions and inferential conventions fix symbol-use -> analytic/tautological result follows -> the result organises reasoning but adds no contingent fact.",
+      "answer_line": "Necessary propositions are linguistic/analytic rather than synthetic a priori; Quine later pressures rather than simply settles the distinction.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PROTOCOL STATEMENTS AND THE INTERNAL SHIFT TOWARD CONFIRMATION",
+      "structural_type": "foundation-debate-and-development-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PROTOCOL STATEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SCHLICK: FOUNDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NEURATH: PUBLIC AND REVISABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSICALISM / UNITY OF SCIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCTION -> CONFIRMATION SHIFT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROTOCOL STATEMENT → basic observation report used as an evidential checkpoint.",
+        "SCHLICK → more foundational experiential role for observation reports.",
+        "NEURATH → public, revisable protocols; no private incorrigible foundation.",
+        "THEORY → predicts event; protocol records it; mismatch triggers distributed revision.",
+        "PHYSICALISM → public coordination language, not crude denial of mental discourse."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "PROTOCOL STATEMENT → basic observation report used as an evidential checkpoint.",
+            "SCHLICK → more foundational experiential role for observation reports.",
+            "NEURATH → public, revisable protocols; no private incorrigible foundation.",
+            "THEORY → predicts event; protocol records it; mismatch triggers distributed revision."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "PHYSICALISM → public coordination language, not crude denial of mental discourse.",
+            "UNITY OF SCIENCE → intersubjective integration remained an ambition, not one formula.",
+            "DEVELOPMENT → strict reduction → probability → confirmation.",
+            "FURTHER SHIFT → reduction sentences, syntax/semantics and theoretical-term toleration."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "THEORY-LADENNESS → observation is not a neutral language-free bedrock.",
+            "VERDICT → practice survives through revisability as foundational verification weakens."
+          ]
+        }
+      ],
+      "mechanism_strip": "Theory generates predictions -> protocol reports record public observations -> reports and theory are compared -> conflict may revise either report, auxiliary or theory.",
+      "answer_line": "Phenomenalist, physicalist and protocol programmes trade private certainty, public testability and revisability differently.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CARNAPIAN TOLERANCE, FRAMEWORKS AND CONVENTIONALIST REFINEMENT",
+      "structural_type": "framework-choice-and-question-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRINCIPLE OF TOLERANCE",
+          "role": "primary"
+        },
+        {
+          "text": "LINGUISTIC FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL ANALYTIC / FACTUAL QUESTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICAL ADOPTION QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CHOICE STANDARDS NEED JUSTIFICATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRINCIPLE OF TOLERANCE → state rules clearly; no single compulsory logical language.",
+        "LINGUISTIC FRAMEWORK → syntax, semantics and standards for internal questions.",
+        "INTERNAL ANALYTIC QUESTION → answered through framework rules.",
+        "INTERNAL FACTUAL QUESTION → answered through evidence inside the framework.",
+        "ADOPTION QUESTION → practical comparison: clarity, economy, fruitfulness, coordination."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PRINCIPLE OF TOLERANCE → state rules clearly; no single compulsory logical language.",
+          "ADOPTION QUESTION → practical comparison: clarity, economy, fruitfulness, coordination.",
+          "OBJECTION → standards of framework choice themselves require justification."
+        ],
+        [
+          "LINGUISTIC FRAMEWORK → syntax, semantics and standards for internal questions.",
+          "CONVENTIONAL CHOICE != arbitrary consequence inside an adopted system.",
+          "LIMIT → conceptual engineering does not dissolve every substantive ontological issue."
+        ],
+        [
+          "INTERNAL ANALYTIC QUESTION → answered through framework rules.",
+          "ONTOLOGY → some disputes can be recast as framework proposals rather than discoveries.",
+          ""
+        ],
+        [
+          "INTERNAL FACTUAL QUESTION → answered through evidence inside the framework.",
+          "THEORETICAL TERMS → retained when disciplined by inferential and test relations.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PRINCIPLE OF TOLERANCE → state rules clearly; no single compulsory logical language.",
+            "LINGUISTIC FRAMEWORK → syntax, semantics and standards for internal questions.",
+            "INTERNAL ANALYTIC QUESTION → answered through framework rules.",
+            "INTERNAL FACTUAL QUESTION → answered through evidence inside the framework."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADOPTION QUESTION → practical comparison: clarity, economy, fruitfulness, coordination.",
+            "CONVENTIONAL CHOICE != arbitrary consequence inside an adopted system.",
+            "ONTOLOGY → some disputes can be recast as framework proposals rather than discoveries.",
+            "THEORETICAL TERMS → retained when disciplined by inferential and test relations."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "OBJECTION → standards of framework choice themselves require justification.",
+            "LIMIT → conceptual engineering does not dissolve every substantive ontological issue."
+          ]
+        }
+      ],
+      "mechanism_strip": "Carnap distinguishes framework-internal questions from pragmatic adoption; Quine's bounded objection does not erase the Carnapian reply.",
+      "answer_line": "Carnap's tolerance converts philosophy from policing one compulsory language into the explicit construction and comparison of frameworks, though practical framework choice cannot itself be reduced to an analytic truth.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "SELF-APPLICATION, SUCCESSOR CRITIQUES, EVALUATION AND ANSWER SPINE",
+      "structural_type": "dilemma-comparison-matrix-and-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SELF-APPLICATION DILEMMA",
+          "role": "primary"
+        },
+        {
+          "text": "POPPER: FALSIFIABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "QUINE: HOLISM + ANTI-ANALYTICITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CLARITY AND EVIDENCE: ENDURING LEGACY",
+          "role": "outcome"
+        },
+        {
+          "text": "METHOD SURVIVES; FINAL TRIBUNAL FAILS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SELF-APPLICATION → is the verification principle analytic or empirically verifiable?",
+        "IF NEITHER → it fails its own test; if stipulative → its universal authority weakens.",
+        "POPPER → falsifiability demarcates science; it is not a positivist meaning criterion.",
+        "QUINE → attacks analyticity and isolated testing; experience meets a web of belief.",
+        "KANT → synthetic a priori challenges the linguistic reduction of necessity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "SELF-APPLICATION → is the verification principle analytic or empirically verifiable?",
+            "IF NEITHER → it fails its own test; if stipulative → its universal authority weakens.",
+            "POPPER → falsifiability demarcates science; it is not a positivist meaning criterion.",
+            "QUINE → attacks analyticity and isolated testing; experience meets a web of belief."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "KANT → synthetic a priori challenges the linguistic reduction of necessity.",
+            "STRENGTHS → clarity, evidence, anti-obscurantism, philosophy of science/language.",
+            "WEAKNESSES → self-reference, laws, theory-ladenness, values, unstable analyticity.",
+            "DISTINGUISH → meaning"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "ANSWER SPINE → context → definitions → three doctrines → objections/replies.",
+            "CONCLUSION → enduring method of clarification, unsuccessful final tribunal of meaning."
+          ]
+        }
+      ],
+      "mechanism_strip": "Verification principle applies to itself -> neither clear analytic truth nor empirical proposition -> stipulation/recommendation reply -> authority weakens; successor critiques target different components.",
+      "answer_line": "Self-application is one pressure; Popper changes to demarcation, while Quine and later Wittgenstein retain separate ownership.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — PLACEMENT, THE ONE-SCREEN MAP AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — STRONG VS WEAK VERIFICATION; IN-PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — THE POSITIVE CASE FOR VERIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — THE TRACTATUS-TO-VERIFICATION LINEAGE AND ITS",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — REJECTION OF METAPHYSICS - THE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — ETHICS, THEOLOGY AND EMOTIVISM",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — THE LINGUISTIC THEORY OF NECESSARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Placement, the One-Screen Map and the Verification Meaning-Filter",
+            "ADVANCED SESSION 2 — Strong vs Weak Verification; In-Principle vs In-Practice; Ayer's Revisions and Church",
+            "ADVANCED SESSION 3 — The Positive Case for Verification - Why Intelligent People Believed It",
+            "ADVANCED SESSION 4 — The Tractatus-to-Verification Lineage and Its Precise Correction"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Rejection of Metaphysics - the Grammatical/Logical Diagnostic and Pseudo-Statements",
+            "ADVANCED SESSION 6 — Ethics, Theology and Emotivism - Ayer vs Stevenson",
+            "ADVANCED SESSION 7 — The Linguistic Theory of Necessary Propositions and the Meaning of Universal Statements",
+            "ADVANCED SESSION 8 — The Protocol-Sentence Debate - Positivism's Internal Crisis"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Carnap's Principle of Tolerance - Frameworks, Internal/External, and Ontology as Choice",
+            "ADVANCED SESSION 10 — Criticisms and Replies - the Succession to Popper, Quine and Later Wittgenstein",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Meaning is not truth."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-21",
+  "subject": "World-History",
+  "title": "COLD WAR END AND NEW WORLD ORDER",
+  "short_route": "SOVIET COLLAPSE MECHANISM → AGENCY ABOVE AND BELOW → COLLAPSE CHRONOLOGY → YUGOSLAV BREAKDOWN → BOSNIA TO KOSOVO → EUROPEAN INTEGRATION LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-21-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "7e9722dae960d557e2b4ea79dc476bb7abf9557545c67232a0718bdb18af77ac",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SOVIET COLLAPSE MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SOVIET COLLAPSE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PERFORMANCE LEGITIMACY FALLS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITICISM AND REFORM EXPAND",
+          "role": "comparison"
+        },
+        {
+          "text": "ALTERNATIVES ORGANISE",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-USE OF FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROL BECOMES IRREVERSIBLE COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "GORBACHEV'S REFORM PHASE, EASTERN EUROPEAN REVOLUTIONS OF 1989, GERMAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAGNATION → performance legitimacy falls",
+        "GLASNOST/PERESTROIKA → criticism and reform expand",
+        "NATIONALISM/YELTSIN → alternatives organise",
+        "NON-USE OF FORCE → control becomes irreversible collapse",
+        "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, German unification in 1990"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STAGNATION → performance legitimacy falls",
+            "GLASNOST/PERESTROIKA → criticism and reform expand",
+            "NATIONALISM/YELTSIN → alternatives organise"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-USE OF FORCE → control becomes irreversible collapse",
+            "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, German unification in 1990",
+            "and dissolution of the USSR in 1991 are distinct stages in the Cold"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "War's end."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, German unification in 1990 and dissolution of the USSR in 1991 are distinct stages in the Cold.",
+      "source_references": [
+        "Economic stagnation and reform intent",
+        "Glasnost and perestroika",
+        "Nationalism and Yeltsin",
+        "The decisive non-use of force",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AGENCY ABOVE AND BELOW",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGENCY ABOVE AND BELOW",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM AND RESTRAINT FROM ABOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVAL ELITE CENTRE",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANISED STRIKES FROM BELOW",
+          "role": "evidence"
+        },
+        {
+          "text": "STRUCTURE, CHOICE AND MOBILISATION CONVERGE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GORBACHEV → reform and restraint from above",
+        "YELTSIN → rival elite centre",
+        "SOLIDARITY → organised strikes from below",
+        "RESULT → structure, choice and mobilisation converge"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GORBACHEV → reform and restraint from above",
+          "SOLIDARITY → organised strikes from below",
+          "GORBACHEV → reform and restraint from above"
+        ],
+        [
+          "YELTSIN → rival elite centre",
+          "RESULT → structure, choice and mobilisation converge",
+          "YELTSIN → rival elite centre"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GORBACHEV → reform and restraint from above",
+            "YELTSIN → rival elite centre"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOLIDARITY → organised strikes from below",
+            "RESULT → structure, choice and mobilisation converge"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GORBACHEV → reform and restraint from above",
+            "YELTSIN → rival elite centre"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOLIDARITY → organised strikes from below; RESULT → structure, choice and mobilisation converge.",
+      "source_references": [
+        "Nationalism and Yeltsin",
+        "Solidarity and society from below",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COLLAPSE CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COLLAPSE CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "GORBACHEV TAKES POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUG 1988",
+          "role": "comparison"
+        },
+        {
+          "text": "SOLIDARITY STRIKES IN POLAND",
+          "role": "evidence"
+        },
+        {
+          "text": "EASTERN EUROPEAN REGIMES COLLAPSE",
+          "role": "primary"
+        },
+        {
+          "text": "USSR DISSOLVES; GORBACHEV RESIGNS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1985 → Gorbachev takes power",
+        "AUG 1988 → Solidarity strikes in Poland",
+        "1989 → eastern European regimes collapse",
+        "1991 → USSR dissolves; Gorbachev resigns"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1985 → Gorbachev takes power",
+            "AUG 1988 → Solidarity strikes in Poland"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1989 → eastern European regimes collapse",
+            "1991 → USSR dissolves; Gorbachev resigns"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1985 → Gorbachev takes power",
+            "AUG 1988 → Solidarity strikes in Poland"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1989 → eastern European regimes collapse; 1991 → USSR dissolves; Gorbachev resigns.",
+      "source_references": [
+        "1989 and 1991 endpoints",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "YUGOSLAV BREAKDOWN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "YUGOSLAV BREAKDOWN",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL ORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSES COMMUNIST BINDING FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "MOBILISE AGGRESSIVE NATIONALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "MIXED POPULATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL CLAIMS OVERLAP",
+          "role": "outcome"
+        },
+        {
+          "text": "WAR AND DISPLACEMENT DEEPEN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FEDERAL ORDER → loses communist binding framework",
+        "LEADERS → mobilise aggressive nationalism",
+        "MIXED POPULATIONS → territorial claims overlap",
+        "HESITATION → war and displacement deepen"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FEDERAL ORDER → loses communist binding framework",
+            "LEADERS → mobilise aggressive nationalism"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MIXED POPULATIONS → territorial claims overlap",
+            "HESITATION → war and displacement deepen"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FEDERAL ORDER → loses communist binding framework",
+            "LEADERS → mobilise aggressive nationalism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MIXED POPULATIONS → territorial claims overlap; HESITATION → war and displacement deepen.",
+      "source_references": [
+        "Yugoslavia beyond ancient hatred",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BOSNIA TO KOSOVO",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BOSNIA TO KOSOVO",
+          "role": "primary"
+        },
+        {
+          "text": "YUGOSLAV WARS AND ETHNIC CLEANSING",
+          "role": "outcome"
+        },
+        {
+          "text": "DAYTON SETTLES BOSNIA",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPUTES REMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "KOSOVO CRISIS AND NATO INTERVENTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1991-95 → Yugoslav wars and ethnic cleansing",
+        "1995 → Dayton settles Bosnia",
+        "BOUNDARIES → disputes remain",
+        "1999 → Kosovo crisis and NATO intervention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1991-95 → Yugoslav wars and ethnic cleansing",
+            "1995 → Dayton settles Bosnia"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOUNDARIES → disputes remain",
+            "1999 → Kosovo crisis and NATO intervention"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1991-95 → Yugoslav wars and ethnic cleansing",
+            "1995 → Dayton settles Bosnia"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARIES → disputes remain; 1999 → Kosovo crisis and NATO intervention.",
+      "source_references": [
+        "Bosnia, Dayton and Kosovo",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EUROPEAN INTEGRATION LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EUROPEAN INTEGRATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ECSC POOLS STRATEGIC INDUSTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATY OF ROME CREATES EEC",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST ENLARGEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "MAASTRICHT CREATES DEEPER EU FRAMEWORK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1951-52 → ECSC pools strategic industry",
+        "1957 → Treaty of Rome creates EEC",
+        "1973 → first enlargement",
+        "1992-93 → Maastricht creates deeper EU framework"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1951-52 → ECSC pools strategic industry",
+            "1957 → Treaty of Rome creates EEC"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1973 → first enlargement",
+            "1992-93 → Maastricht creates deeper EU framework"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1951-52 → ECSC pools strategic industry",
+            "1957 → Treaty of Rome creates EEC"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1973 → first enlargement; 1992-93 → Maastricht creates deeper EU framework.",
+      "source_references": [
+        "European integration's Cold War roots",
+        "Maastricht and deeper union",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEEPENING VERSUS WIDENING",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEEPENING VERSUS WIDENING",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL AND MONETARY AUTHORITY EXPANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "MORE STATES ENTER",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMER COMMUNIST STATES JOIN",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGNTY AND UNEQUAL ECONOMIES PERSIST",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEEPENING → political and monetary authority expands",
+        "WIDENING → more states enter",
+        "2004 → former communist states join",
+        "TENSION → sovereignty and unequal economies persist"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DEEPENING → political and monetary authority expands",
+          "2004 → former communist states join",
+          "DEEPENING → political and monetary authority expands"
+        ],
+        [
+          "WIDENING → more states enter",
+          "TENSION → sovereignty and unequal economies persist",
+          "WIDENING → more states enter"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEEPENING → political and monetary authority expands",
+            "WIDENING → more states enter"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2004 → former communist states join",
+            "TENSION → sovereignty and unequal economies persist"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEEPENING → political and monetary authority expands",
+            "WIDENING → more states enter"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2004 → former communist states join; TENSION → sovereignty and unequal economies persist.",
+      "source_references": [
+        "Maastricht and deeper union",
+        "Eastern enlargement",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NEW-ORDER CLAIM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NEW-ORDER CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "USA APPEARS SOLE SUPERPOWER",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT REMAINS INCOMPLETE",
+          "role": "comparison"
+        },
+        {
+          "text": "UN AUTHORITY STILL MATTERS",
+          "role": "evidence"
+        },
+        {
+          "text": "UNIPOLAR MOMENT, CONTESTED ORDER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAPABILITY → USA appears sole superpower",
+        "LEGITIMACY → consent remains incomplete",
+        "INSTITUTIONS → UN authority still matters",
+        "VERDICT → unipolar moment, contested order"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CAPABILITY → USA appears sole superpower",
+          "INSTITUTIONS → UN authority still matters",
+          "CAPABILITY → USA appears sole superpower"
+        ],
+        [
+          "LEGITIMACY → consent remains incomplete",
+          "VERDICT → unipolar moment, contested order",
+          "LEGITIMACY → consent remains incomplete"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPABILITY → USA appears sole superpower",
+            "LEGITIMACY → consent remains incomplete"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTITUTIONS → UN authority still matters",
+            "VERDICT → unipolar moment, contested order"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPABILITY → USA appears sole superpower",
+            "LEGITIMACY → consent remains incomplete"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTITUTIONS → UN authority still matters; VERDICT → unipolar moment, contested order.",
+      "source_references": [
+        "Unipolar capability",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WAR-ON-TERROR SEQUENCE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WAR-ON-TERROR SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "11 SEPT 2001",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSNATIONAL ATTACK",
+          "role": "comparison"
+        },
+        {
+          "text": "TALIBAN REGIME TARGETED",
+          "role": "evidence"
+        },
+        {
+          "text": "DISPERSED NETWORKS BECOME CENTRAL",
+          "role": "primary"
+        },
+        {
+          "text": "IRAQ 2003",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERVENTION DIVIDES THE ORDER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "11 SEPT 2001 → transnational attack",
+        "AFGHANISTAN → Taliban regime targeted",
+        "SECURITY → dispersed networks become central",
+        "IRAQ 2003 → intervention divides the order"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "11 SEPT 2001 → transnational attack",
+            "AFGHANISTAN → Taliban regime targeted"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECURITY → dispersed networks become central",
+            "IRAQ 2003 → intervention divides the order"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "11 SEPT 2001 → transnational attack",
+            "AFGHANISTAN → Taliban regime targeted"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECURITY → dispersed networks become central; IRAQ 2003 → intervention divides the order.",
+      "source_references": [
+        "September 11 and Afghanistan",
+        "Iraq and legitimacy limits",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "IRAQ LEGITIMACY TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "IRAQ LEGITIMACY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "US-UK CAPACITY TO INVADE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO CLEAR SECURITY COUNCIL BASIS",
+          "role": "caution"
+        },
+        {
+          "text": "INSTITUTIONAL DISAGREEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPABILITY CANNOT MANUFACTURE LEGITIMACY",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC STAGNATION, NATIONALITY PRESSURES, LEGITIMACY LOSS, ARMS BURDENS, REFORM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "POWER → US-UK capacity to invade",
+        "AUTHORISATION → no clear Security Council basis",
+        "RESULT → institutional disagreement",
+        "LESSON → capability cannot manufacture legitimacy",
+        "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens, reform choices and international diplomacy"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "POWER → US-UK capacity to invade",
+          "RESULT → institutional disagreement",
+          "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens, reform choices and international diplomacy interacted"
+        ],
+        [
+          "AUTHORISATION → no clear Security Council basis",
+          "LESSON → capability cannot manufacture legitimacy",
+          "neither Western pressure nor one leader alone supplies a sufficient cause."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POWER → US-UK capacity to invade",
+            "AUTHORISATION → no clear Security Council basis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → institutional disagreement",
+            "LESSON → capability cannot manufacture legitimacy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens, reform choices and international diplomacy interacted",
+            "neither Western pressure nor one leader alone supplies a sufficient cause."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens, reform choices and international diplomacy interacted; neither Western pressure nor one leader alone supplies a sufficient cause.",
+      "source_references": [
+        "Iraq and legitimacy limits",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ARAB SPRING DIVERGENCE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARAB SPRING DIVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DEC 2010",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTESTS BEGIN IN TUNISIA",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON GRIEVANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "UPRISINGS SPREAD",
+          "role": "primary"
+        },
+        {
+          "text": "RESPONSE CAPACITY DIFFERS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTCOMES DIVERGE SHARPLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEC 2010 → protests begin in Tunisia",
+        "COMMON GRIEVANCE → uprisings spread",
+        "STATE/ARMY → response capacity differs",
+        "EXTERNAL ROLE → outcomes diverge sharply",
+        "EVIDENCE LIMIT: The post-1991 order combined a US-led unipolar moment with EU integration, globalisation, regional"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEC 2010 → protests begin in Tunisia",
+            "COMMON GRIEVANCE → uprisings spread"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE/ARMY → response capacity differs",
+            "EXTERNAL ROLE → outcomes diverge sharply"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: The post-1991 order combined a US-led unipolar moment with EU integration, globalisation, regional wars",
+            "and continuing Russian, Chinese and Global South agency, so neither final-peace nor Western-teleology claims are safe."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: The post-1991 order combined a US-led unipolar moment with EU integration, globalisation, regional wars and continuing Russian, Chinese and Global South agency, so neither final-peace nor Western-teleology claims are safe.",
+      "source_references": [
+        "Arab Spring and non-teleological verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NEW WORLD ORDER ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NEW WORLD ORDER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STAGNATION, REFORM, MOBILISATION AND RESTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "YUGOSLAV FRAGMENTATION PLUS EU ENLARGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "US PREDOMINANCE TESTED BY TERROR AND IRAQ",
+          "role": "evidence"
+        },
+        {
+          "text": "NO LINEAR DEMOCRATIC OR UNIPOLAR SETTLEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COLLAPSE → stagnation, reform, mobilisation and restraint",
+        "EUROPE → Yugoslav fragmentation plus EU enlargement",
+        "ORDER → US predominance tested by terror and Iraq",
+        "VERDICT → no linear democratic or unipolar settlement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLLAPSE → stagnation, reform, mobilisation and restraint",
+            "EUROPE → Yugoslav fragmentation plus EU enlargement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORDER → US predominance tested by terror and Iraq",
+            "VERDICT → no linear democratic or unipolar settlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COLLAPSE → stagnation, reform, mobilisation and restraint",
+            "EUROPE → Yugoslav fragmentation plus EU enlargement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → no linear democratic or unipolar settlement.",
+      "source_references": [
+        "Arab Spring and non-teleological verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LOWE'S POST-1991 RUSSIA SECTIONS ARE ESPECIALLY USEFUL FOR MAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "OF COMMUNISM DID NOT AUTOMATICALLY CREATE A HEALTHY DEMOCRACY",
+          "role": "caution"
+        },
+        {
+          "text": "LOWE DOES NOT TREAT YUGOSLAVIA AS AN INEVITABLE EXPLOSION",
+          "role": "caution"
+        },
+        {
+          "text": "MILOSEVIC'S SERBIAN NATIONALISM, TUDJMAN'S CROATIAN NATIONALISM, BOSNIA'S MIXED DEMOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL RESPONSE WAS LATE, HESITANT AND INCONSISTENT BEFORE NATO",
+          "role": "outcome"
+        },
+        {
+          "text": "BOSNIA AND KOSOVO ARE BEST REMEMBERED AS TESTS OF",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWE NARRATES 9/11, AFGHANISTAN AND IRAQ IN DETAIL.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Lowe's post-1991 Russia sections are especially useful for Mains because they show that the collapse",
+            "of communism did not automatically create a healthy democracy or a fair market economy .",
+            "Lowe does not treat Yugoslavia as an inevitable explosion of \"ancient\" hatred.",
+            "Milosevic's Serbian nationalism, Tudjman's Croatian nationalism, Bosnia's mixed demography and the weakness of compromise made violence more likely."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "International response was late, hesitant and inconsistent before NATO acted more decisively.",
+            "Bosnia and Kosovo are best remembered as tests of post-Cold-War Europe and the UN, not just Balkan history.",
+            "Lowe narrates 9/11, Afghanistan and Iraq in detail.",
+            "CAUTION: He also includes a strong critical discussion of American foreign policy and whether state violence can itself be called terrorism."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: For UPSC, treat that section as historiographical debate , not as an unqualified fact to parrot.",
+            "CAUTION: The safer exam line is: the Iraq War damaged the legitimacy of the post-Cold-War order because the justifications became heavily disputed.",
+            "CAUTION: The Arab Spring is Lowe's reminder that authoritarian collapse does not by itself settle the problem of legitimate order.",
+            "25 June 2025, NATO Hague Summit Declaration: allies committed by 2035 to invest 5% of GDP annually"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

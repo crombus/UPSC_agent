@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T16:09:25+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "054de233d6e171b0aea0df1133a1cf57b6693cb4620782719898564802f8db62",
+    "sha256_after": "054de233d6e171b0aea0df1133a1cf57b6693cb4620782719898564802f8db62",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Indian Art and Culture": 1
+  },
+  "sections": {
+    "Indian Art and Culture — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9926,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1659,
+    "json_count": 4042,
+    "total_bytes": 4221200611,
+    "by_extension": {
+      ".json": 4042,
+      ".md": 1659,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-11",
+      "topic_title": "Languages, Scripts, Literature and Manuscripts",
+      "subject": "Indian Art and Culture",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 11,
+      "source_record_id": "indian-art-and-culture-11:learner-v2:g8",
+      "source_generation": 8,
+      "destination_folder": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g8\\indian-art-and-culture-11_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "63c9e3f572086551dc721bab723c0e5c6fbb48ad258c384d1b0bf80f5a62859c",
+          "output_sha256": "63c9e3f572086551dc721bab723c0e5c6fbb48ad258c384d1b0bf80f5a62859c",
+          "source_output_equal": true,
+          "bytes": 617350
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-11\\g8\\indian-art-and-culture-11_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "2ffbd903fcd1ae0100b59f1ecfd52678790ce58a8041e351e94c4eb3d99a1db9",
+          "output_sha256": "2ffbd903fcd1ae0100b59f1ecfd52678790ce58a8041e351e94c4eb3d99a1db9",
+          "source_output_equal": true,
+          "bytes": 461182
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-11\\carvaka-g8\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "bb52b4b0f1f6efb39517e97bba5c39dac0183ff920e1ebf8e14bedcbdbb7352e",
+          "output_sha256": "bb52b4b0f1f6efb39517e97bba5c39dac0183ff920e1ebf8e14bedcbdbb7352e",
+          "source_output_equal": true,
+          "bytes": 1872310
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-11\\carvaka-g8\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a2acfefc68f28c9d85be65d0dd51db99be0b7293d65e4839fdd68bbaab661133",
+          "output_sha256": "a2acfefc68f28c9d85be65d0dd51db99be0b7293d65e4839fdd68bbaab661133",
+          "source_output_equal": true,
+          "bytes": 2290418
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-11\\carvaka-g8\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "d1a09e8e562340130f37b73574746301b642b048a8e0e28316501bea1e75c474",
+          "output_sha256": "d1a09e8e562340130f37b73574746301b642b048a8e0e28316501bea1e75c474",
+          "source_output_equal": true,
+          "bytes": 1663379
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-11\\carvaka-g8\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "87a58a2310d3eb829ef79d0eaa6d5740be41d65406d97086769f133f41cfc836",
+          "output_sha256": "87a58a2310d3eb829ef79d0eaa6d5740be41d65406d97086769f133f41cfc836",
+          "source_output_equal": true,
+          "bytes": 3294
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\flowcharts\\iac-11\\carvaka-g8\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Art and Culture\\Subject-wide Syllabus\\11-Languages-Scripts-Literature-and-Manuscripts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "5db6fdd7105cd888a909354bb4faf9052983de9b672f72de986466d72635d18d",
+          "output_sha256": "5db6fdd7105cd888a909354bb4faf9052983de9b672f72de986466d72635d18d",
+          "source_output_equal": true,
+          "source_text_sha256": "87a58a2310d3eb829ef79d0eaa6d5740be41d65406d97086769f133f41cfc836",
+          "normalized_text_equal": true,
+          "bytes": 56026
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 48,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 72,
+        "solved_practice_workbook": 36,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 36,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10590
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-09",
+      "display_title": "Union Budget, Fiscal Policy and Deficit Indicators",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Budget receipt fork",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "REVENUE RECEIPT -> no liability / no asset reduction",
+            "CAPITAL RECEIPT -> liability or asset reduction",
+            "BORROWING -> debt capital receipt",
+            "DISINVESTMENT / LOAN RECOVERY -> non-debt capital receipt"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Expenditure classification",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "REVENUE EXPENDITURE -> current service / transfer",
+            "CAPITAL EXPENDITURE -> asset or liability reduction",
+            "ACCOUNTING CLASS is not a moral verdict",
+            "QUALITY depends on design and outcomes"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Deficit identity board",
+          "structural_type": "formula-board",
+          "ascii_lines": [
+            "REVENUE DEFICIT = RE - RR",
+            "FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS",
+            "PRIMARY DEFICIT = FD - INTEREST",
+            "KEEP flow, period and government perimeter"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Effective measures",
+          "structural_type": "formula-board",
+          "ascii_lines": [
+            "ERD = REVENUE DEFICIT - CAPITAL-ASSET GRANTS",
+            "EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS",
+            "TRANSFER accounting is refined",
+            "OUTCOME quality still needs verification"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Estimate-vintage rail",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "BUDGET ESTIMATE -> authorisation / projection",
+            "REVISED ESTIMATE -> updated in-year expectation",
+            "ACTUAL -> realised account",
+            "NEVER compare without labels"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Constitutional document stack",
+          "structural_type": "document-stack",
+          "ascii_lines": [
+            "ARTICLE 112 -> Annual Financial Statement",
+            "FRBM ACT -> medium-term fiscal discipline",
+            "MEFS -> macro assumptions",
+            "PARLIAMENT + CAG -> authorisation and scrutiny"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Debt-dynamics chain",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "PRIMARY BALANCE + INTEREST",
+            "-> FISCAL DEFICIT",
+            "-> DEBT STOCK",
+            "-> FUTURE INTEREST FEEDBACK"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Crowding fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "BORROWING DURING TIGHT FINANCE",
+            "-> rates / savings pressure -> crowding out",
+            "CAPEX REMOVES BOTTLENECKS",
+            "-> productivity / demand -> crowding in"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Hidden-risk perimeter",
+          "structural_type": "risk-map",
+          "ascii_lines": [
+            "HEADLINE DEFICIT",
+            "+ GUARANTEES",
+            "+ EXTRA-BUDGETARY BORROWING",
+            "+ DELAYED PAYMENTS -> wider fiscal risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "State fiscal quality",
+          "structural_type": "dimension-board",
+          "ascii_lines": [
+            "OWN-REVENUE MOBILISATION",
+            "EXPENDITURE QUALITY",
+            "FISCAL PRUDENCE",
+            "DEBT SUSTAINABILITY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Budget 2026-27 status card",
+          "structural_type": "vintage-card",
+          "ascii_lines": [
+            "2026-27 BE -> fiscal deficit 4.3% GDP",
+            "2026-27 BE -> capex Rs 12.22 lakh crore",
+            "2025-26 RE -> fiscal deficit 4.4% GDP",
+            "STATUS -> BE / RE, not Actuals"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        },
+        {
+          "title": "Fiscal-policy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE identities and coverage",
+            "CHECK BE / RE / Actual vintage",
+            "ASSESS composition and multiplier",
+            "CONCLUDE on debt path and transparency"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

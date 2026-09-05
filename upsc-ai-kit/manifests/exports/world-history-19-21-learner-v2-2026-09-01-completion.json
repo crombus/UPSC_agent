@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "world-history-19-21-learner-v2-2026-09-01-completion",
+  "passed": true,
+  "test_count": 127,
+  "topic_count": 3,
+  "topics": [
+    {
+      "topic_key": "world-history-19",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-19\\world-history-19_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-19\\world-history-19_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 59,
+      "workbook_pages": 24,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "world-history-20",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-20\\world-history-20_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 69,
+      "workbook_pages": 24,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "world-history-21",
+      "generation": 1,
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-21\\world-history-21_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-21\\world-history-21_Solved-Practice-Workbook_2026-09-01.pdf",
+      "main_pages": 59,
+      "workbook_pages": 23,
+      "ascii_panels": 12,
+      "mcqs": 80
+    }
+  ],
+  "changed_files_manifest": "upsc-ai-kit/manifests/exports/world-history-19-21-learner-v2-2026-09-01-changed-files.txt"
+}

@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-06",
+      "display_title": "Defence R&D: DRDO and Missile Systems",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-06_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Developer user producer map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SERVICES -> articulate requirement and conduct user evaluation",
+            "DRDO -> design, develop, integrate and test",
+            "PRODUCTION AGENCY -> manufacture and quality assurance",
+            "SERVICES -> accept, induct, train and operate",
+            "RULE -> one institution cannot be substituted for another"
+          ],
+          "source_references": [
+            "DRDO-developer boundary",
+            "Requirement-user boundary",
+            "Production-agency boundary"
+          ]
+        },
+        {
+          "title": "MSS subsystem chain",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "DRDL / RCI / ASL / TBRL / ITR -> specialised roles",
+            "AIRFRAME + PROPULSION -> controlled flight",
+            "NAVIGATION + GUIDANCE + HOMING -> target solution",
+            "WARHEAD + LAUNCH + COMMAND SYSTEM -> weapon integration",
+            "RULE -> subsystem success is not integrated-system status"
+          ],
+          "source_references": [
+            "MSS-cluster boundary",
+            "Subsystem-chain boundary"
+          ]
+        },
+        {
+          "title": "Ballistic versus cruise",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BALLISTIC -> powered boost then largely ballistic path",
+            "CRUISE -> sustained powered and guided atmospheric flight",
+            "BALLISTIC DRIVER -> rocket boost and trajectory",
+            "CRUISE DRIVER -> air-breathing propulsion and aerodynamic control",
+            "TRAP -> range alone never determines the class"
+          ],
+          "source_references": [
+            "Ballistic-cruise boundary"
+          ]
+        },
+        {
+          "title": "Hypersonic taxonomy",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "HYPERSONIC -> speed description, not one weapon class",
+            "BOOST-GLIDE -> rocket boost then manoeuvring glide",
+            "HYPERSONIC CRUISE -> sustained scramjet-type propulsion",
+            "BALLISTIC RE-ENTRY -> may also be hypersonic",
+            "RULE -> identify flight profile before status or capability"
+          ],
+          "source_references": [
+            "Hypersonic-class boundary"
+          ]
+        },
+        {
+          "title": "Operational-role matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SAM / AKASH -> surface launch against aerial threats",
+            "AAM / ASTRA -> aircraft launch against aerial threats",
+            "ATGM / NAG -> guided anti-armour role",
+            "PINAKA -> rocket-artillery land fires",
+            "RULE -> launch point, target and role travel together"
+          ],
+          "source_references": [
+            "SAM-AAM boundary",
+            "ATGM boundary",
+            "Rocket-artillery boundary"
+          ]
+        },
+        {
+          "title": "Weapon and platform split",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "MISSILE -> guided weapon",
+            "LAUNCHER -> ground or shipboard launch equipment",
+            "AIRCRAFT / SHIP / SUBMARINE -> delivery platform",
+            "MULTI-PLATFORM CONFIGURATION -> does not merge categories",
+            "SPACE LAUNCH VEHICLE -> separate non-weapon function"
+          ],
+          "source_references": [
+            "Missile-platform boundary"
+          ]
+        },
+        {
+          "title": "IGMDP lineage",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1983 -> IGMDP begins",
+            "PRITHVI / TRISHUL / AKASH / NAG -> programme families",
+            "AGNI -> technology-demonstrator lineage",
+            "MARCH 2012 -> programme closure",
+            "RULE -> later systems require their own programme provenance"
+          ],
+          "source_references": [
+            "IGMDP-history boundary"
+          ]
+        },
+        {
+          "title": "BrahMos institutional card",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DRDO -> Indian joint-venture partner",
+            "NPOM -> Russian joint-venture partner",
+            "BRAHMOS AEROSPACE -> developer and producer entity",
+            "SYSTEM CLASS -> supersonic cruise missile",
+            "TRAP -> neither solo domestic nor ballistic"
+          ],
+          "source_references": [
+            "BrahMos-JV boundary"
+          ]
+        },
+        {
+          "title": "Status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "DEVELOPMENTAL TRIAL -> tested proposition",
+            "USER EVALUATION -> service-oriented validation",
+            "READY FOR INDUCTION -> recommendation, not induction",
+            "CONTRACT / DELIVERY / INDUCTION -> separate evidence",
+            "DEPLOYMENT -> requires its own official confirmation"
+          ],
+          "source_references": [
+            "Test-status ladder",
+            "AoN-contract boundary"
+          ]
+        },
+        {
+          "title": "Air-defence system rail",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "SENSORS -> detect and track",
+            "COMMAND-AND-CONTROL -> fuse, classify and assign",
+            "INTERCEPTORS -> engage selected threat classes",
+            "LOGISTICS / READINESS -> sustain coverage",
+            "TRAP -> announcement or one interceptor is not a shield"
+          ],
+          "source_references": [
+            "Integrated-air-defence boundary"
+          ]
+        },
+        {
+          "title": "Routed PYQ firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STEALTH -> reduced observability, not invisibility",
+            "EXPLOSIVES -> category fact, not warhead detail",
+            "THAAD -> United States missile-defence system",
+            "FOBS -> fractional-orbit strike concept",
+            "RULE -> answer only the routed technical distinction"
+          ],
+          "source_references": [
+            "Stealth-detection boundary",
+            "Explosives-category boundary",
+            "THAAD-FOBS boundary"
+          ]
+        },
+        {
+          "title": "Capability-claim firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> weapon class and operational role",
+            "MAP -> developer, user, producer and platform",
+            "TRACE -> subsystem and test-to-service chain",
+            "LABEL -> announced, tested, contracted, inducted or deployed",
+            "VERIFY -> range, speed, stages, guidance and warhead officially"
+          ],
+          "source_references": [
+            "Volatile-capability boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

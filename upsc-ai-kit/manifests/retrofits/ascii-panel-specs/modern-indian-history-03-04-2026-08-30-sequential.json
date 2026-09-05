@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Modern Indian History learner-v2 Topics 03-04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-03",
+      "display_title": "The Beginnings of European Settlements (Portuguese → Dutch → English → French)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Scope: contact, settlement and empire are different stages",
+          "structural_type": "scope-map",
+          "ascii_lines": [
+            "CAPE ROUTE 1498 -> repeated trade -> factory by Indian permission",
+            "FACTORY -> fortified settlement -> presidency / regional coordination",
+            "POSSIBLE COMPANY-STATE -> additionally needs finance, army, allies, victory and revenue",
+            "ANTI-TELEOLOGY -> neither a European charter nor the first voyage made conquest inevitable."
+          ],
+          "source_references": [
+            "01. Scope: five stages, not one inevitable conquest"
+          ]
+        },
+        {
+          "title": "Indian Ocean setting and mercantilist armed commerce",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "PRE-1498 -> monsoon routes + Asian merchants + Indian ports and manufactures",
+            "MERCANTILISM -> chartered monopoly seeks bullion, commodities and protected markets",
+            "ARMED COMMERCE -> ship cannon + fort + pass + diplomacy + corporate privilege",
+            "LIMIT -> Europeans entered an existing oceanic economy; older circuits did not disappear."
+          ],
+          "source_references": [
+            "02. Maritime background: the Indian Ocean before the Europeans",
+            "21. Commodities, bullion and the port-hinterland network"
+          ]
+        },
+        {
+          "title": "Portuguese Estado da India and cartaz",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "1498 CALICUT -> 1505 Estado administration -> GOA captured 1510 / capital 1530",
+            "ESTADO -> Crown + viceroy/governor + fleet + forts + royal factories",
+            "CARTAZ -> coerced shipping pass; fortified nodes at Goa, Cochin, Diu and Daman",
+            "LIMIT -> nodal and contested control, never a complete monopoly of Indian Ocean trade."
+          ],
+          "source_references": [
+            "05. Portuguese arrival and the Estado da India",
+            "06. Cartaz, naval power, diplomacy and conflict"
+          ]
+        },
+        {
+          "title": "Portuguese cultural transfer and bounded Goa heritage",
+          "structural_type": "evidence-map",
+          "ascii_lines": [
+            "XAVIER -> Goa 1542; founding Jesuit companion; died off China, remains at Bom Jesus",
+            "GOA PRESS 1556 | INQUISITION 1560 -> mission, print, coercion and accommodation coexist",
+            "CROPS -> papaya, pineapple and guava through Portuguese networks; no exact transfer year",
+            "UNESCO -> Indo-Portuguese forms + local adaptation; threats include damp, weathering, termites."
+          ],
+          "source_references": [
+            "07. Portuguese trade, mission, printing, crops and cultural exchange"
+          ]
+        },
+        {
+          "title": "Dutch VOC: commercial strength, India inside an Asian portfolio",
+          "structural_type": "portfolio-map",
+          "ascii_lines": [
+            "VOC 1602 -> joint-stock capital + treaty, war and fortification powers",
+            "INDIAN NODES -> Masulipatnam, Pulicat, Nagapattinam, Surat, Chinsura and Cochin",
+            "PRIORITY -> Indian textiles finance an Indonesia-centred spice and intra-Asian portfolio",
+            "CHECKS -> Colachel 1741 / Bedara 1759; political retreat did not instantly end trade."
+          ],
+          "source_references": [
+            "09. Dutch VOC: structure, Indian bases and Indonesian priority",
+            "10. Why Dutch power in India remained commercial"
+          ]
+        },
+        {
+          "title": "English entry: charter, naval credibility and Mughal permission",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "EIC CHARTER 1600 -> corporate monopoly in English law, not Indian sovereignty",
+            "SWALLY 1612 -> naval credibility alters Mughal bargaining",
+            "SURAT FACTORY 1613 -> licensed depot; ROE 1615-19 -> privileges confirmed",
+            "CHILD'S WAR 1686-90 -> Mughal victory proves early Company weakness and contingency."
+          ],
+          "source_references": [
+            "11. English EIC foundation, early voyages and Mughal diplomacy",
+            "12. Surat and the first English factory network"
+          ]
+        },
+        {
+          "title": "English fortified settlement chain",
+          "structural_type": "coastal-chain",
+          "ascii_lines": [
+            "MASULIPATNAM 1611 -> MADRAS lease 1639 -> Fort St George from 1640",
+            "BOMBAY -> Portuguese possession -> Crown 1661 -> Company 1668 -> presidency HQ 1687",
+            "BENGAL -> Hugli / Kasimbazar -> three-village Calcutta hub -> 1698 zamindari -> 1717 farman",
+            "CAUTION -> Job Charnock is a conventional association, not an uncontested sole founder."
+          ],
+          "source_references": [
+            "13. Coromandel chain: Masulipatnam, Madras and Fort St George",
+            "14. Bombay: Crown transfer, harbour geography and presidency shift",
+            "15. Bengal factories, Calcutta and the pre-Plassey boundary"
+          ]
+        },
+        {
+          "title": "Institutional vocabulary that prevents category errors",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHARTER -> home sovereign creates company | FARMAN -> Indian sovereign grants privilege",
+            "FACTORY -> depot + factors | FORT -> defended enclave, not automatic hinterland rule",
+            "PRESIDENCY -> regional council coordinating factories, fleets, defence and diplomacy",
+            "COMPANY-STATE -> enforceable war, justice, taxation and territory; capacity must match claim."
+          ],
+          "source_references": [
+            "16. Charter, farman, factory, fort and presidency: terminology that decides marks"
+          ]
+        },
+        {
+          "title": "French Compagnie and Indian settlement chain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "COMPAGNIE DES INDES 1664 -> Colbert / Louis XIV state-backed monopoly",
+            "SURAT 1668 -> MASULIPATNAM 1669 -> PONDICHERRY 1673-74 -> CHANDERNAGORE c.1690-92",
+            "DUPLEIX -> trade + trained troops + claimant politics; Indian allies retain their own aims",
+            "LIMIT -> finance, naval continuity and home-state priorities constrain French intervention."
+          ],
+          "source_references": [
+            "17. French Compagnie des Indes and the settlement chain",
+            "18. Dupleix and the bounded bridge to Carnatic rivalry"
+          ]
+        },
+        {
+          "title": "Carnatic conclusion: European rivalry becomes Indian politics",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FIRST WAR 1746-48 -> French take Madras -> Aix-la-Chapelle restores it",
+            "SECOND 1749-54 -> Carnatic / Hyderabad claimants + Arcot -> Dupleix recalled",
+            "THIRD 1756-63 -> Seven Years' War -> WANDIWASH 1760 breaks French field power",
+            "PARIS 1763 -> factories survive, political ambition checked; no single-cause English victory."
+          ],
+          "source_references": [
+            "18. Dupleix and the bounded bridge to Carnatic rivalry",
+            "24. Inter-European rivalry before territorial conquest",
+            "25. Why the English gained relative advantage - without teleology"
+          ]
+        },
+        {
+          "title": "Indian agency and the port-hinterland engine",
+          "structural_type": "actor-network",
+          "ascii_lines": [
+            "RULERS -> grant, revise, resist and use rival companies against one another",
+            "MERCHANTS / BANKERS / DUBASHES -> credit, brokerage, customs and information",
+            "WEAVERS / ARTISANS / SHIPBUILDERS / LABOUR -> make commercial settlements viable",
+            "ASYMMETRY -> agency was real but unequal; forts still depended on surrounding Indian society."
+          ],
+          "source_references": [
+            "20. Indian rulers, merchants, brokers, artisans and port communities",
+            "21. Commodities, bullion and the port-hinterland network"
+          ]
+        },
+        {
+          "title": "Topic 03 answer and PYQ spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "COMPARE -> Estado/cartaz | VOC portfolio | EIC presidency chain | French state backing",
+            "EXPLAIN -> mercantilism + navy + finance + Indian permission/agency + political contingency",
+            "PYQ TRAPS -> Broach window; Xavier death/remains; Goa-Bijapur; Madras grant; three crops",
+            "CLOSE -> Wandiwash/Paris end European rivalry; Plassey-Buxar mechanics pass to Topic 04."
+          ],
+          "source_references": [
+            "27. Historiography and source criticism",
+            "28. Terminology, chronology, memory hooks and high-frequency traps"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-04",
+      "display_title": "The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Bengal before 1756: successor state and sovereignty conflict",
+          "structural_type": "scope-map",
+          "ascii_lines": [
+            "BENGAL -> wealthy Mughal successor state, not a political vacuum",
+            "1717 FARMAN -> bounded privilege for Company trade | DASTAK ABUSE -> servants' private trade",
+            "FORTIFICATION + customs + jurisdiction -> commercial dispute becomes sovereignty dispute",
+            "SIRAJ 1756 -> inherits court rivalry and a Company testing Nawabi authority."
+          ],
+          "source_references": [
+            "1. Bengal's political economy before 1756"
+          ]
+        },
+        {
+          "title": "Calcutta crisis and the Black Hole caution",
+          "structural_type": "escalation-ladder",
+          "ascii_lines": [
+            "UNAUTHORISED FORTIFICATION -> Kasimbazar seized -> Fort William falls in June 1756",
+            "CLIVE / WATSON -> Calcutta recovered -> Alinagar -> Chandernagore removed as counterweight",
+            "BLACK HOLE -> Holwell is an interested, weakly corroborated narrator",
+            "RULE -> never make a disputed body count or atrocity story the causal centre of conquest."
+          ],
+          "source_references": [
+            "2. Siraj-ud-Daulah, the Calcutta crisis and the fall of Fort William, 1756",
+            "3. The 'Black Hole' of Calcutta: what the evidence supports, and what it does not"
+          ]
+        },
+        {
+          "title": "Plassey's hidden battle: conspiracy and collaboration",
+          "structural_type": "actor-network",
+          "ascii_lines": [
+            "COMPANY / CLIVE -> regime-change plan + secret correspondence + coercive leverage",
+            "MIR JAFAR -> throne | JAGAT SETH -> credit and security | RAI DURLABH -> office",
+            "AMICHAND -> broker later deceived | MIR MADAN / MOHAN LAL -> loyal resistance",
+            "VERDICT -> interests explain collaboration better than a one-word betrayal morality tale."
+          ],
+          "source_references": [
+            "4. Plassey's hidden battle: the conspiracy network of 1757"
+          ]
+        },
+        {
+          "title": "Plassey and the Mir Jafar client regime",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PLASSEY, 23 JUNE 1757 -> conspiracy neutralises most Nawabi command",
+            "RESULT -> Mir Jafar installed; Company becomes kingmaker and gains political entry",
+            "CLIENT CYCLE -> dependence -> transfers / concessions -> deeper Company leverage",
+            "LIMIT -> Plassey changed the ruler; it did not yet grant legal-fiscal sovereignty."
+          ],
+          "source_references": [
+            "5. Plassey, 23 June 1757: why this was a political coup, not a conventional military triumph",
+            "6. Mir Jafar's Bengal and Company extraction, 1757-60"
+          ]
+        },
+        {
+          "title": "Mir Qasim: reform, equality and conflict",
+          "structural_type": "process",
+          "ascii_lines": [
+            "MIR QASIM 1760 -> shifts capital to Munger + strengthens administration and army",
+            "COMPANY PRIVATE TRADE -> duty privilege distorts competition and weakens Nawabi revenue",
+            "RESPONSE 1763 -> abolish inland duties for all traders: equality, not modern nationalism",
+            "COMPANY RESISTS LOST ADVANTAGE -> war -> Mir Qasim seeks an Awadh-Mughal coalition."
+          ],
+          "source_references": [
+            "7. Mir Qasim, Munger and the equality crisis, 1760-63"
+          ]
+        },
+        {
+          "title": "Buxar: coalition breadth versus unified Company command",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "COALITION -> Mir Qasim + Shuja-ud-Daula + Shah Alam II; distinct motives",
+            "STRUCTURAL WEAKNESS -> separate treasuries, commands and political objectives",
+            "COMPANY -> Hector Munro's integrated command, supply and payment system",
+            "BUXAR, 22 OCTOBER 1764 -> open military supremacy, unlike Plassey's palace coup."
+          ],
+          "source_references": [
+            "8. The road to Buxar: Mir Qasim, Shuja-ud-Daula and Shah Alam II form a coalition",
+            "9. Buxar, 22 October 1764: why this battle mattered more than Plassey"
+          ]
+        },
+        {
+          "title": "Three-stage conquest thesis",
+          "structural_type": "three-stage-chain",
+          "ascii_lines": [
+            "PLASSEY 1757 -> POLITICAL ENTRY: client Nawab and Company kingmaking",
+            "BUXAR 1764 -> MILITARY SUPREMACY: Bengal-Awadh-emperor coalition defeated",
+            "ALLAHABAD / DIWANI 1765 -> LEGAL-FISCAL TITLE: revenue authority institutionalised",
+            "RULE -> Plassey alone did not complete Company sovereignty over Bengal."
+          ],
+          "source_references": [
+            "9. Buxar, 22 October 1764: why this battle mattered more than Plassey",
+            "10. The Treaty of Allahabad, 1765: two treaties, one day"
+          ]
+        },
+        {
+          "title": "Allahabad, Diwani, Nizamat and the Awadh buffer",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SHAH ALAM II SETTLEMENT -> Company receives Diwani of Bengal, Bihar and Orissa",
+            "SHUJA-UD-DAULA SETTLEMENT -> Awadh restored as a strategic buffer, not annexed",
+            "DIWANI -> revenue / civil side | NIZAMAT -> nominal police, criminal and military side",
+            "CAUTION -> Diwani was not Nawabship and the legal split was not equal power-sharing."
+          ],
+          "source_references": [
+            "10. The Treaty of Allahabad, 1765: two treaties, one day",
+            "11. Diwani and Nizamat: one power, two legal labels"
+          ]
+        },
+        {
+          "title": "Dual Government: power separated from responsibility",
+          "structural_type": "accountability-loop",
+          "ascii_lines": [
+            "1765-72 -> Company holds revenue power through Indian deputies",
+            "NAWAB'S ESTABLISHMENT -> nominal Nizamat and public responsibility without resources",
+            "PARADOX -> Company power without responsibility / Nawab responsibility without power",
+            "RESULT -> extraction incentives + diffused accountability + weak corrective capacity."
+          ],
+          "source_references": [
+            "12. The Dual Government, 1765-72: Clive's design and its accountability paradox"
+          ]
+        },
+        {
+          "title": "Famine, accountability and the 1772 termination",
+          "structural_type": "causal-web",
+          "ascii_lines": [
+            "1770 FAMINE -> harvest failure / drought and disease create the natural shock",
+            "DUAL GOVERNMENT -> revenue rigidity and administrative confusion amplify vulnerability",
+            "CAUTION -> Company policy mattered but did not alone cause drought or the catastrophe",
+            "HASTINGS 1772 -> ends Dual Government; direct administration bridges to Topic 06."
+          ],
+          "source_references": [
+            "13. The Bengal famine of 1770: a bounded causal reading",
+            "16. Comparative synthesis: Plassey, Buxar, Allahabad and the Dual Government, and the bridge forward"
+          ]
+        },
+        {
+          "title": "Company-state, early drain mechanism and historiography",
+          "structural_type": "lens-map",
+          "ascii_lines": [
+            "TRADE PRIVILEGE -> kingmaking -> Diwani -> revenue funds purchases and armies",
+            "INDIAN AGENCY -> collaboration, resistance and administration operate under unequal power",
+            "LENSES -> nationalist extraction | collaboration | corporate-fiscal state | Bengal continuity",
+            "2026 MEMORY ANCHOR -> revisit Plassey beyond betrayal; static causation remains book-grounded."
+          ],
+          "source_references": [
+            "14. From trader to revenue sovereign: the Company's transformation and the spectrum of Indian agency",
+            "15. Reading the conquest: four historiographical lenses"
+          ]
+        },
+        {
+          "title": "Topic 04 answer spine and boundaries",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> sovereignty conflict over privilege, private trade, fortification and jurisdiction",
+            "TRACE -> conspiracy / client regime -> reform and war -> Buxar -> Diwani -> Dual Government",
+            "WEIGH -> collaboration + Company capacity; famine is multicausal; reject false precision",
+            "CLOSE -> 1772 ends this topic; expansion and 1773+ regulation pass to Topics 05-06."
+          ],
+          "source_references": [
+            "15. Reading the conquest: four historiographical lenses",
+            "16. Comparative synthesis: Plassey, Buxar, Allahabad and the Dual Government, and the bridge forward"
+          ]
+        }
+      ]
+    }
+  ]
+}

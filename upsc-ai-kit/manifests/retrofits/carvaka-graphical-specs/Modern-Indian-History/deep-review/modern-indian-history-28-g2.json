@@ -1,0 +1,1163 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-28",
+  "subject": "Modern-Indian-History",
+  "title": "INTEGRATION OF THE PRINCELY STATES & THE MAKING OF THE REPUBLIC",
+  "short_route": "LAPSE OF PARAMOUNTCY AND → COUNTING CONVENTION: WHY MORE → THE STATES DEPARTMENT AS → THREE SUBJECTS TAKEN, EVERYTHING → THE ACCESSION CALENDAR OF → THE PRINCE SQUEEZED FROM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-28-deep-review-2026-08-31-g2.json",
+  "ascii_spec_sha256": "0f4485342f85622bd1239abb6ac0377ba4c524d9b7ecd0e085df4aedb114b571",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LAPSE OF PARAMOUNTCY AND THE CONSTRUCTED UNION",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAPSE OF PARAMOUNTCY AND THE CONSTRUCTED UNION",
+          "role": "primary"
+        },
+        {
+          "text": "15 AUG 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITISH RULE ENDS",
+          "role": "comparison"
+        },
+        {
+          "text": "PARAMOUNTCY LAPSES (IT IS NOT TRANSFERRED)",
+          "role": "caution"
+        },
+        {
+          "text": "BRITISH INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "PARTITIONED BY STATUTE; SUCCESSOR DOMINIONS DEFINED IN LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCELY INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SUCCESSOR SOVEREIGN IN LAW",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "15 AUG 1947 → BRITISH RULE ENDS → paramountcy LAPSES (it is not transferred)",
+        "BRITISH INDIA → partitioned by statute; successor dominions defined in law",
+        "PRINCELY INDIA → no successor sovereign in law → authority must be constructed",
+        "INSTRUMENTS USED → agreement + leverage + popular pressure + force in one case",
+        "RULE → lapse, not transfer; the single word that generates the whole topic."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "15 AUG 1947 → BRITISH RULE ENDS → paramountcy LAPSES (it is not transferred)",
+            "BRITISH INDIA → partitioned by statute; successor dominions defined in law",
+            "PRINCELY INDIA → no successor sovereign in law → authority must be constructed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENTS USED → agreement + leverage + popular pressure + force in one case",
+            "RULE → lapse, not transfer; the single word that generates the whole topic.",
+            "MUST REMEMBER: Accession, administrative integration and constitutional reorganisation were distinct: Junagadh, Hyderabad"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "and Jammu and Kashmir followed different legal, military and political sequences."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → lapse, not transfer; the single word that generates the whole topic.",
+      "source_references": [
+        "Independence was not integration: the problem the lapse created",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COUNTING CONVENTION: WHY MORE THAN 560 IS THE SAFE FORM",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COUNTING CONVENTION",
+          "role": "primary"
+        },
+        {
+          "text": "WHY MORE THAN 560 IS THE SAFE FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "\"MORE THAN 560\"",
+          "role": "comparison"
+        },
+        {
+          "text": "REQUIRED FORMULATION IN BOTH REPOSITORY OWNERS",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENT CLASSIFICATION RULES FOR ESTATES, JAGIRS, MINOR HOLDINGS",
+          "role": "primary"
+        },
+        {
+          "text": "\"OVER 560\"",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FORM USED ON OFFICIAL COMMEMORATIVE PAGES LOCAL OCR",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRUPTED IN EXTRACTION; CANNOT ARBITRATE BETWEEN TOTALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "\"more than 560\"",
+        "required formulation in both repository owners",
+        "562 / 565",
+        "different classification rules for estates, jagirs, minor holdings",
+        "\"over 560\""
+      ],
+      "matrix": [
+        [
+          "CLAIM",
+          "STATUS",
+          ""
+        ],
+        [
+          "\"more than 560\"",
+          "required formulation in both repository owners",
+          ""
+        ],
+        [
+          "562 / 565",
+          "different classification rules for estates, jagirs, minor holdings",
+          ""
+        ],
+        [
+          "\"over 560\"",
+          "the form used on official commemorative pages local OCR numeral",
+          "corrupted in extraction; cannot arbitrate between totals"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "\"more than 560\"",
+            "required formulation in both repository owners",
+            "562 / 565"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "different classification rules for estates, jagirs, minor holdings",
+            "\"over 560\"",
+            "the form used on official commemorative pages local OCR numeral"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "corrupted in extraction; cannot arbitrate between totals",
+            "VERDICT → the disagreement is about enumeration conventions, not about history."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → the disagreement is about enumeration conventions, not about history.",
+      "source_references": [
+        "How many states: the discipline behind more than 560",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE STATES DEPARTMENT AS A WORKING MACHINE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE STATES DEPARTMENT AS A WORKING MACHINE",
+          "role": "primary"
+        },
+        {
+          "text": "STATES DEPARTMENT (CREATED 27 JUNE 1947)",
+          "role": "outcome"
+        },
+        {
+          "text": "SARDAR VALLABHBHAI PATEL, HOME AND STATES MINISTER",
+          "role": "comparison"
+        },
+        {
+          "text": "V.P. MENON, DRAFTING, NEGOTIATION, ADMINISTRATIVE SEQUENCING",
+          "role": "evidence"
+        },
+        {
+          "text": "APPEAL TO PATRIOTISM + NARROW LEGAL DEMAND + WARNING",
+          "role": "primary"
+        },
+        {
+          "text": "STANDARDISED INSTRUMENTS OF ACCESSION AND STANDSTILL ARRANGEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMING RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTER, SECRETARY AND DEPARTMENT TOGETHER, NEVER ONE MAN ALONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATES DEPARTMENT (created 27 June 1947)",
+        "MINISTER → Sardar Vallabhbhai Patel, Home and States Minister",
+        "SECRETARY → V.P. Menon, drafting, negotiation, administrative sequencing",
+        "METHOD → appeal to patriotism + narrow legal demand + warning of stiffer terms",
+        "PRODUCT → standardised Instruments of Accession and standstill arrangements"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATES DEPARTMENT (created 27 June 1947)",
+            "MINISTER → Sardar Vallabhbhai Patel, Home and States Minister"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECRETARY → V.P. Menon, drafting, negotiation, administrative sequencing",
+            "METHOD → appeal to patriotism + narrow legal demand + warning of stiffer terms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRODUCT → standardised Instruments of Accession and standstill arrangements",
+            "NAMING RULE → minister, secretary and department together, never one man alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NAMING RULE → minister, secretary and department together, never one man alone.",
+      "source_references": [
+        "The States Department: a minister, a secretary and a machine",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THREE SUBJECTS TAKEN, EVERYTHING ELSE LEFT BEHIND",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE SUBJECTS TAKEN, EVERYTHING ELSE LEFT BEHIND",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFERRED AT ACCESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "RETAINED BY THE RULER AT ACCESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTERNAL AFFAIRS",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE AND TAXATION INSIDE THE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "COURTS AND INTERNAL JUSTICE SUCCESSION, TITLES, CEREMONIAL PRIVILEGE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHY IT WORKED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRANSFERRED AT ACCESSION",
+        "RETAINED BY THE RULER AT ACCESSION",
+        "internal administration",
+        "External Affairs",
+        "revenue and taxation inside the state"
+      ],
+      "matrix": [
+        [
+          "TRANSFERRED AT ACCESSION",
+          "RETAINED BY THE RULER AT ACCESSION"
+        ],
+        [
+          "Defence",
+          "internal administration"
+        ],
+        [
+          "External Affairs",
+          "revenue and taxation inside the state"
+        ],
+        [
+          "Communications",
+          "courts and internal justice succession, titles, ceremonial privilege"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRANSFERRED AT ACCESSION",
+            "RETAINED BY THE RULER AT ACCESSION",
+            "internal administration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "External Affairs",
+            "revenue and taxation inside the state",
+            "courts and internal justice succession, titles, ceremonial privilege"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHY IT WORKED → the three taken were exactly the three no state could exercise alone",
+            "WHY IT LOOKED SMALL → the ruler's visible world was untouched on the day of signature."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHY IT LOOKED SMALL → the ruler's visible world was untouched on the day of signature.",
+      "source_references": [
+        "The three-subject formula and why its narrowness worked",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE ACCESSION CALENDAR OF 1947",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE ACCESSION CALENDAR OF 1947",
+          "role": "primary"
+        },
+        {
+          "text": "20 FEB 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "PARAMOUNTCY WILL NOT BE HANDED TO ANY GOVERNMENT OF",
+          "role": "caution"
+        },
+        {
+          "text": "APR 1947",
+          "role": "evidence"
+        },
+        {
+          "text": "SOME STATES JOIN THE CONSTITUENT ASSEMBLY; OTHERS ANNOUNCE INDEPENDENCE",
+          "role": "institution"
+        },
+        {
+          "text": "18 JUN 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "STATES BECOME INDEPENDENT SOVEREIGN STATES ON TERMINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "27 JUN 1947",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "20 FEB 1947 → Attlee: paramountcy will not be handed to any government of British",
+        "APR 1947 → some states join the Constituent Assembly; others announce independence hopes",
+        "18 JUN 1947 → Jinnah: states become independent sovereign states on termination",
+        "27 JUN 1947 → States Department created; Patel takes charge, V.P. Menon as Secretary",
+        "15 AUG 1947 → all states except Junagadh, Jammu and Kashmir, Hyderabad have acceded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "20 FEB 1947 → Attlee: paramountcy will not be handed to any government of British India",
+            "APR 1947 → some states join the Constituent Assembly; others announce independence hopes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "18 JUN 1947 → Jinnah: states become independent sovereign states on termination",
+            "27 JUN 1947 → States Department created; Patel takes charge, V.P. Menon as Secretary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "15 AUG 1947 → all states except Junagadh, Jammu and Kashmir, Hyderabad have acceded",
+            "READ AS → a seven-week campaign against a legal vacuum, not a leisurely negotiation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READ AS → a seven-week campaign against a legal vacuum, not a leisurely negotiation.",
+      "source_references": [
+        "Attlee and Jinnah: the encouragement the princes received",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE PRINCE SQUEEZED FROM ABOVE AND BELOW",
+      "structural_type": "balance-sheet",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE PRINCE SQUEEZED FROM ABOVE AND BELOW",
+          "role": "primary"
+        },
+        {
+          "text": "PRESSURE FROM ABOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATES DEPARTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCEDE NARROWLY NOW, OR FACE STIFFER TERMS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESSURE FROM BELOW",
+          "role": "primary"
+        },
+        {
+          "text": "STATES' PEOPLES' CONFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMOCRATIC ORDER AND INTEGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESSURE FROM OUTSIDE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRESSURE FROM ABOVE → States Department: accede narrowly now, or face stiffer terms",
+        "PRESSURE FROM BELOW → States' Peoples' Conference: democratic order and integration",
+        "PRESSURE FROM OUTSIDE → Partition violence makes isolation dangerous, not sovereign",
+        "DOCTRINE AGAINST HIM → political power belongs to the people of a state, not to",
+        "BARGAIN OFFERED → three subjects surrendered; dignities, succession and income retained"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRESSURE FROM ABOVE → States Department: accede narrowly now, or face stiffer terms",
+            "PRESSURE FROM BELOW → States' Peoples' Conference: democratic order and integration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESSURE FROM OUTSIDE → Partition violence makes isolation dangerous, not sovereign",
+            "DOCTRINE AGAINST HIM → political power belongs to the people of a state, not to the ruler"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BARGAIN OFFERED → three subjects surrendered; dignities, succession and income retained",
+            "OUTCOME → the overwhelming majority accede without force being used at all."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → the overwhelming majority accede without force being used at all.",
+      "source_references": [
+        "Two pressures on the princes: their own people and Partition",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FOUR STAGES, FOUR INSTRUMENTS, FOUR DIFFICULTIES",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FOUR STAGES, FOUR INSTRUMENTS, FOUR DIFFICULTIES",
+          "role": "primary"
+        },
+        {
+          "text": "1 ACCESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTRUMENT OF ACCESSION, THREE SUBJECTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BY 15 AUG 1947",
+          "role": "evidence"
+        },
+        {
+          "text": "2 MERGER",
+          "role": "primary"
+        },
+        {
+          "text": "MERGER AGREEMENTS, UNIONS, ATTACHMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "FROM DEC 1947",
+          "role": "comparison"
+        },
+        {
+          "text": "3 DEMOCRATISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 ACCESSION → Instrument of Accession, three subjects → by 15 Aug 1947",
+        "2 MERGER → merger agreements, unions, attachments → from Dec 1947",
+        "3 DEMOCRATISATION → elections, courts, services inside old states → uneven and slower",
+        "4 INCORPORATION → Constitution and single citizenship → 26 Jan 1950",
+        "STRUCTURAL ERROR → treating stage one as the finished process"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 ACCESSION → Instrument of Accession, three subjects → by 15 Aug 1947",
+            "2 MERGER → merger agreements, unions, attachments → from Dec 1947"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 DEMOCRATISATION → elections, courts, services inside old states → uneven and slower",
+            "4 INCORPORATION → Constitution and single citizenship → 26 Jan 1950"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL ERROR → treating stage one as the finished process",
+            "CORRECTION → each stage has its own instrument, its own date and its own difficulty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORRECTION → each stage has its own instrument, its own date and its own difficulty.",
+      "source_references": [
+        "Accession, merger, democratisation, incorporation: four stages",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JUNAGADH SETTLED BY COUNTING PEOPLE",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JUNAGADH SETTLED BY COUNTING PEOPLE",
+          "role": "primary"
+        },
+        {
+          "text": "NAWAB ACCEDES TO PAKISTAN",
+          "role": "outcome"
+        },
+        {
+          "text": "AGAINST POPULATION AND AGAINST GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULATION OVERWHELMINGLY HINDU",
+          "role": "evidence"
+        },
+        {
+          "text": "POPULAR MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NAWAB FLEES",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVISIONAL GOVERNMENT FORMED INSIDE THE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "DEWAN SHAH NAWAZ BHUTTO INVITES THE GOVERNMENT OF INDIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NAWAB accedes to Pakistan → against population and against geography",
+        "POPULATION overwhelmingly Hindu → popular movement → Nawab flees",
+        "PROVISIONAL GOVERNMENT formed inside the state",
+        "DEWAN Shah Nawaz Bhutto invites the Government of India to intervene",
+        "INDIAN TROOPS enter; PLEBISCITE held FEBRUARY 1948 → result favours India"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAWAB accedes to Pakistan → against population and against geography",
+            "POPULATION overwhelmingly Hindu → popular movement → Nawab flees"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROVISIONAL GOVERNMENT formed inside the state",
+            "DEWAN Shah Nawaz Bhutto invites the Government of India to intervene"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIAN TROOPS enter; PLEBISCITE held FEBRUARY 1948 → result favours India",
+            "DISCIPLINE → the source calls the result overwhelming; no percentage is asserted here."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → the source calls the result overwhelming; no percentage is asserted here.",
+      "source_references": [
+        "Junagadh: the ruler-subject mismatch and February 1948",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HYDERABAD: NEGOTIATION EXHAUSTED BEFORE FORCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NEGOTIATION EXHAUSTED BEFORE FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-AUG 1947",
+          "role": "outcome"
+        },
+        {
+          "text": "NIZAM CLAIMS INDEPENDENT STATUS; STATE LANDLOCKED INSIDE INDIA",
+          "role": "institution"
+        },
+        {
+          "text": "NOV 1947",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDSTILL AGREEMENT SIGNED; REPRESENTATIVE GOVERNMENT HOPED FOR",
+          "role": "primary"
+        },
+        {
+          "text": "ITTIHAD UL MUSLIMIN AND RAZAKARS GROW; STATE CONGRESS SATYAGRAHA",
+          "role": "institution"
+        },
+        {
+          "text": "COMMUNIST-LED PEASANT STRUGGLE CONTINUES IN THE TELANGANA REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "JUN 1948",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRE-AUG 1947 → Nizam claims independent status; state landlocked inside India",
+        "NOV 1947 → STANDSTILL AGREEMENT signed; representative government hoped for",
+        "1947-48 → Ittihad ul Muslimin and Razakars grow; State Congress satyagraha",
+        "Communist-led peasant struggle continues in the Telangana region",
+        "JUN 1948 → Patel presses for unqualified accession and responsible government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRE-AUG 1947 → Nizam claims independent status; state landlocked inside India",
+            "NOV 1947 → STANDSTILL AGREEMENT signed; representative government hoped for",
+            "1947-48 → Ittihad ul Muslimin and Razakars grow; State Congress satyagraha"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Communist-led peasant struggle continues in the Telangana region",
+            "JUN 1948 → Patel presses for unqualified accession and responsible government",
+            "SEP 1948 → OPERATION POLO / POLICE ACTION → Nizam surrenders → accedes to the Union"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISCIPLINE → no casualty figure and no troop figure is asserted for this episode."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → no casualty figure and no troop figure is asserted for this episode.",
+      "source_references": [
+        "Hyderabad: standstill, Razakars and September 1948",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "KASHMIR: THE FIXED ORDER OF EVENTS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE FIXED ORDER OF EVENTS",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "MAHARAJA HARI SINGH ACCEDES TO NEITHER DOMINION",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL CONFERENCE UNDER SHEIKH ABDULLAH FAVOURS ACCESSION TO INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "OCTOBER 1947 TRIBAL INVASION ADVANCES TOWARDS SRINAGAR",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → Maharaja Hari Singh accedes to neither dominion",
+        "STEP 2 → National Conference under Sheikh Abdullah favours accession to India",
+        "STEP 3 → OCTOBER 1947 tribal invasion advances towards Srinagar",
+        "STEP 4 → Maharaja appeals to India for military assistance",
+        "STEP 5 → Instrument of Accession signed; Sheikh Abdullah heads the administration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STEP 1 → Maharaja Hari Singh accedes to neither dominion",
+            "STEP 2 → National Conference under Sheikh Abdullah favours accession to India",
+            "STEP 3 → OCTOBER 1947 tribal invasion advances towards Srinagar",
+            "STEP 4 → Maharaja appeals to India for military assistance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP 5 → Instrument of Accession signed; Sheikh Abdullah heads the administration",
+            "STEP 6 → troops flown to Srinagar only AFTER accession",
+            "STEP 7 → 30 DEC 1947 reference to the UN Security Council; fighting continues",
+            "STOP LINE → restraint beyond step seven; contested later claims are not taught here."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The Instrument of Accession transferred specified subjects, not an identical final settlement in every state",
+            "Hyderabad's September 1948 action and Kashmir's",
+            "October 1947 accession cannot be analogised mechanically."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The Instrument of Accession transferred specified subjects, not an identical final settlement in every state; Hyderabad's September 1948 action and Kashmir's.",
+      "source_references": [
+        "Kashmir: October 1947, accession, and disciplined restraint",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THE MERGER MAP OF THE SECOND STAGE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE MERGER MAP OF THE SECOND STAGE",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND STAGE (FROM DECEMBER 1947)",
+          "role": "outcome"
+        },
+        {
+          "text": "TURNING ACCEDING UNITS INTO GOVERNABLE PROVINCES",
+          "role": "comparison"
+        },
+        {
+          "text": "SMALL STATES ATTACHED TO NEIGHBOURING PROVINCES OR CENTRALLY ADMINISTERED",
+          "role": "evidence"
+        },
+        {
+          "text": "MADHYA BHARAT",
+          "role": "primary"
+        },
+        {
+          "text": "PATIALA AND EAST PUNJAB STATES UNION",
+          "role": "outcome"
+        },
+        {
+          "text": "→ SAURASHTRA",
+          "role": "comparison"
+        },
+        {
+          "text": "JAMMU AND KASHMIR AS SEPARATE STATES OF THE UNION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECOND STAGE (from December 1947) → turning acceding units into governable provinces",
+        "MERGED → small states attached to neighbouring provinces or centrally administered",
+        "UNIONS → Madhya Bharat",
+        "Patiala and East Punjab States Union",
+        "→ Saurashtra"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECOND STAGE (from December 1947) → turning acceding units into governable provinces",
+            "MERGED → small states attached to neighbouring provinces or centrally administered",
+            "UNIONS → Madhya Bharat",
+            "Patiala and East Punjab States Union"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "→ Saurashtra",
+            "RETAINED → Mysore",
+            "Jammu and Kashmir as separate states of the Union",
+            "RESULT → a deliberately asymmetrical map that later reorganisation would revisit."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: States Ministry papers, accession instruments and regional evidence must qualify",
+            "triumphalist inevitability and recognise rulers, popular movements, borders and international conflict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → a deliberately asymmetrical map that later reorganisation would revisit.",
+      "source_references": [
+        "Unions and mergers: making unviable states administrable",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PRICE PAID, PROCESS COMPLETED, COMMEMORATION HANDLED",
+      "structural_type": "balance-sheet",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PRICE PAID, PROCESS COMPLETED, COMMEMORATION HANDLED",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRIVY PURSES, TITLES, SUCCESSION, CEREMONIAL PRIVILEGE RETAINED BY RULERS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT ABOLISHED DURING INITIAL INTEGRATION; OWNER DATES ABOLITION TO",
+          "role": "caution"
+        },
+        {
+          "text": "NO PURSE AMOUNT IS ASSERTED ANYWHERE IN THIS PACKAGE",
+          "role": "caution"
+        },
+        {
+          "text": "COMPLETION→ CONSTITUTION ADOPTED 26 NOV 1949; IN FORCE 26",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENCE 15 AUG 1947 AND REPUBLIC 26 JAN 1950",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF CULTURE TWO-YEAR PROGRAMME FROM 31 OCT 2024",
+          "role": "comparison"
+        },
+        {
+          "text": "PIB BACKGROUNDER 30 OCT 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRICE → privy purses, titles, succession, ceremonial privilege retained by rulers",
+        "not abolished during initial integration; owner dates abolition to 1971",
+        "no purse amount is asserted anywhere in this package",
+        "COMPLETION→ Constitution adopted 26 Nov 1949; in force 26 Jan 1950; single citizenship",
+        "independence 15 Aug 1947 and republic 26 Jan 1950 answer different questions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRICE → privy purses, titles, succession, ceremonial privilege retained by rulers",
+            "not abolished during initial integration; owner dates abolition to 1971",
+            "no purse amount is asserted anywhere in this package"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPLETION→ Constitution adopted 26 Nov 1949; in force 26 Jan 1950; single citizenship",
+            "independence 15 Aug 1947 and republic 26 Jan 1950 answer different questions",
+            "COMMEMORATION → Ministry of Culture two-year programme from 31 Oct 2024 at the Statue of Unity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PIB Backgrounder 30 Oct 2025: Rashtriya Ekta Diwas annually on 31 October",
+            "CAUTION → the commemorative phrase \"by 15 August 1947 or shortly thereafter\" compresses a chronology that runs to February and September 1948."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → the commemorative phrase \"by 15 August 1947 or shortly thereafter\" compresses a chronology that runs to February and September 1948.",
+      "source_references": [
+        "Privy purses and privileges: the price carried forward",
+        "From acceding state to citizen: 1949 and 1950",
+        "Commemoration and chronology: reading Ekta Diwas as a historian",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\28_Integration-of-Princely-States.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-28\\g2\\modern-indian-history-28_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE INDIAN INDEPENDENCE ACT ENDED BRITISH PARAMOUNTCY, CREATING A",
+          "role": "institution"
+        },
+        {
+          "text": "PRINCELY RULERS COULD NOT SIMPLY BE ASSUMED TO BE",
+          "role": "caution"
+        },
+        {
+          "text": "PATEL AND V.P. MENON COMBINED PERSUASION, CONCESSIONS, PRESSURE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "THE INSTRUMENT OF ACCESSION WAS DELIBERATELY LIMITED TO DEFENCE",
+          "role": "primary"
+        },
+        {
+          "text": "AND COMMUNICATIONS TO MAKE ACCESSION POLITICALLY ACCEPTABLE AND ADMINISTRATIVELY",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANDRA DISTINGUISHES TWO STAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESSION ON THE THREE COMMON SUBJECTS, THEN MERGER, DEMOCRATISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Indian Independence Act ended British paramountcy, creating a legal vacuum in which",
+            "princely rulers could not simply be assumed to be part of India.",
+            "Patel and V.P. Menon combined persuasion, concessions, pressure and the leverage created by peoples' movements in the states.",
+            "The Instrument of Accession was deliberately limited to Defence, External Affairs"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "and Communications to make accession politically acceptable and administratively quick.",
+            "Chandra distinguishes two stages: accession on the three common subjects, then merger, democratisation and constitutional integration.",
+            "CAUTION: Junagadh demonstrated the use of popular will and geography against a ruler's accession to Pakistan.",
+            "CAUTION: Hyderabad demonstrated the limits of negotiation when an inland state sought independence and Razakar mobilisation threatened order."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Kashmir demonstrated the security dimension of accession, linking legal accession to war, UN involvement and later constitutional debate.",
+            "CAUTION: The making of the Republic transformed accession into a constitutional",
+            "Union, but debates over autonomy, federalism and special provisions continued.",
+            "CAUTION: Patel was Home and States Minister; V.P. Menon was central to the States Department's negotiations."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

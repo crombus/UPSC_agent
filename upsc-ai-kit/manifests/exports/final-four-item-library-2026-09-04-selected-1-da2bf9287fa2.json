@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T11:54:50+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "09aba2f485cb8b7906fc4e0de590a60eb84b7fddbe70d4481835f49a9b24ecef",
+    "sha256_after": "09aba2f485cb8b7906fc4e0de590a60eb84b7fddbe70d4481835f49a9b24ecef",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9395,
+    "pdf_count": 2397,
+    "png_count": 783,
+    "txt_count": 1010,
+    "markdown_count": 1531,
+    "json_count": 3659,
+    "total_bytes": 4204848469,
+    "by_extension": {
+      ".json": 3659,
+      ".md": 1531,
+      ".pdf": 2397,
+      ".png": 783,
+      ".txt": 1010,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-37",
+      "topic_title": "The Rajiv Years & the Run-up to the Millennium",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 37,
+      "source_record_id": "modern-indian-history-37:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g5\\modern-indian-history-37_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "431bc6023c0f519fbae28fdeaaa127720e076c6251afd8e34d14c57b46825f8a",
+          "output_sha256": "431bc6023c0f519fbae28fdeaaa127720e076c6251afd8e34d14c57b46825f8a",
+          "source_output_equal": true,
+          "bytes": 580170
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g5\\modern-indian-history-37_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "9d6c158b5ba073cda4ed7d099da8b2078e8853648279e1e1997bc0fd13da677e",
+          "output_sha256": "9d6c158b5ba073cda4ed7d099da8b2078e8853648279e1e1997bc0fd13da677e",
+          "source_output_equal": true,
+          "bytes": 463171
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-37\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "d64cee8f676c69576febf2c09d850a46a19f83644568f6ad49a67900fbd3e206",
+          "output_sha256": "d64cee8f676c69576febf2c09d850a46a19f83644568f6ad49a67900fbd3e206",
+          "source_output_equal": true,
+          "bytes": 2225774
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-37\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "9edcbc7c70787da1e1f468164e3d31e47aeaaebddb5d5a1ea1c536f785e0662a",
+          "output_sha256": "9edcbc7c70787da1e1f468164e3d31e47aeaaebddb5d5a1ea1c536f785e0662a",
+          "source_output_equal": true,
+          "bytes": 2718314
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-37\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "b81dd7bd9710d346e4865f3784ff3847dd0e514605fbc386748a04316107f30e",
+          "output_sha256": "b81dd7bd9710d346e4865f3784ff3847dd0e514605fbc386748a04316107f30e",
+          "source_output_equal": true,
+          "bytes": 1993281
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-37\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "06e1c8c1e7db49c8a72b69d94a968160ec9262a951bb92ec03da97934446865e",
+          "output_sha256": "06e1c8c1e7db49c8a72b69d94a968160ec9262a951bb92ec03da97934446865e",
+          "source_output_equal": true,
+          "bytes": 4885
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-37\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\37-The-Rajiv-Years-and-the-Run-up-to-the-Millennium\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "e92a8c444afa4f013ff41b418972efc0cef50506d7dfe6482a19e945c03f0887",
+          "output_sha256": "e92a8c444afa4f013ff41b418972efc0cef50506d7dfe6482a19e945c03f0887",
+          "source_output_equal": true,
+          "source_text_sha256": "06e1c8c1e7db49c8a72b69d94a968160ec9262a951bb92ec03da97934446865e",
+          "normalized_text_equal": true,
+          "bytes": 57211
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 64,
+        "solved_practice_workbook": 33,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 33,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10678
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

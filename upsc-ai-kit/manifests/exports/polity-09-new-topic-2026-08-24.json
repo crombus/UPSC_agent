@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-09",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-09",
+  "title": "Fundamental Duties",
+  "generation_date": "2026-08-24",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Fundamental Duties",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-09_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://moef.gov.in/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+    "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-09_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-09.json",
+    "upsc-ai-kit\\manifests\\exports\\polity-09-source-pyq-current-audit-2026-08-24.json"
+  ],
+  "practice_profile": "2 verified supporting PYQs; 24 hard original MCQs; 8 remedial MCQs; 7 original solved Mains questions; duty-law, case and diagram practice retained.",
+  "current_linkage_note": "Official MoEF page accessed 24 August 2026 is used only as a current Article 51A(g) administrative anchor. No later Durga Dutt merits ruling is claimed.",
+  "pyq_status_note": "No directly owned routed PYQ was found. Supporting 2020 Q8 and 2025 Q55 retain polity-08 ownership; 2025 key is official locally and 2020 remains inferred."
+}

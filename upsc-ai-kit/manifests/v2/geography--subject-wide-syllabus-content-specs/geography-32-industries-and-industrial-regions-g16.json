@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-32-industries-and-industrial-regions",
+  "title": "Industries and Industrial Regions",
+  "generation": 16,
+  "generation_date": "2026-09-02",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "geography-32-industries-and-industrial-regions:learner-v2:g12",
+  "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md": "e8c1a5fbe4ea76be86872d0a710e17de0827f2c59c92c850685529520d1ef649",
+    "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md": "98ac15fa1decfefd970b411d3c656f3ba7c15991f6301c2aa6380079207a46db",
+    "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md": "4acdd8164c51fb5df1df84d15b6947c20c19b6b75e048f15c441b0730125449a",
+    "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "5423e188aa0c98932e8b8bc5f9d9a465c14593fd0dee3ea3a916f04b72dc1f2b",
+    "upsc-ai-kit\\knowledge\\Geography\\README.md": "7b84c8c11f68d489f7579c037dbbd8384435bb9d64e0d64b9e352bfedc8ff008"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "The session lacks an explicit syllabus, evidence-class, contested-claim and approval contract.",
+    "The predecessor master flow has 8 panels and lacks a dedicated evidence-control, contested-boundary and answer-spine closure.",
+    "The package lacks a topic-specific Geography chronology, spatial distinction and evidence/historiography qualification control.",
+    "Visual-first Core progression is incomplete: sessions=8, visual gateways=0."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-02.md"
+}

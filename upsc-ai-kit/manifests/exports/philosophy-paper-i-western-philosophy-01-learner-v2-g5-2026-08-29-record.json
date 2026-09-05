@@ -1,0 +1,120 @@
+{
+  "record_id": "philosophy-paper-i-western-philosophy-01:learner-v2:g5",
+  "topic_key": "philosophy-paper-i-western-philosophy-01",
+  "variant": "learner-v2",
+  "generation": 5,
+  "supersedes": "philosophy-paper-i-western-philosophy-01:learner-v2:g4",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper I — Western Philosophy — Plato and Aristotle — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-29.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Solved-Practice-Workbook_2026-08-29.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-29.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-v2-refreshed-philosophy-western-one-topic-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Complete-Learning-Session_2026-08-18.md",
+    "legacy_v1_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Solved-Practice-Workbook_2026-08-18.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "official_syllabus": "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "philosophy_readme": "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-29.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Solved-Practice-Workbook_2026-08-29.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-content-specs\\philosophy-paper-i-western-philosophy-01-g5.json",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1 learner-v2 indexed renderer"
+    },
+    "generation_date": "2026-08-29",
+    "superseded_v1": "philosophy-paper-i-western-philosophy-01:legacy-v1:g1",
+    "english_first": true,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md": "8648a1e57c3391b259ed3f5ca343734b3d31ab448a5aba7712baef83d27bd841",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+      "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Complete-Learning-Session_2026-08-18.md": "5f70fb47c8494336bae4b3ffe10d8c8e74d137588c161e7c83be43248b61ba80",
+      "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Plato-Aristotle\\Plato-Aristotle_Layered-Solved-Practice-Workbook_2026-08-18.md": "2137b5e6ea012bc5ac0b82a03458506ade8adc3f15610fe800a0c0d5c9783c2b"
+    },
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-29.md": "6a1c0b17be2e954532f0b56336fec9eae7a6a426b46c65d7a08024a9ecdf693a",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Solved-Practice-Workbook_2026-08-29.md": "f809f9e30cce82e97ccd4926f04ae957c581a1a5a4f52ac14b5d886325bc0de3",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-29.pdf": "a952dfc2652b2245e9e854fad0f982d8b6e0c91ff23b8e90159e1939c46f2c54",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\topic-01_Solved-Practice-Workbook_2026-08-29.pdf": "0b7d2f9ed217ca578c52789b0f4d2544194c7ae24cb958d30c9b886cfabe19a4",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\validation\\main-visual-audit-map.json": "48c80fce9a7e92e96a8fd25f33053e483945a8bb0110e2356fc222f8aa14f4ef",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\validation\\workbook-visual-audit-map.json": "4531c68da3b2c6be52f18213cde6114f80cbc4f254740b06b9600d5778cc3c55",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-graphical-specs\\philosophy-paper-i-western-philosophy-01-g5.json": "4ef2c37f486f74878b10f2a0b3a59b8de8eed3661b9035a0000b2506965f868e",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-content-specs\\philosophy-paper-i-western-philosophy-01-g5.json": "ff4fea4b03d715f92a3e36b094444205f77becfed94a9acca93e4dc1ec60a049",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\ascii-master.pdf": "385b9355ecba9300e1aeb29343209d46440a899159874fa7eaf7a8533e573ff0",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\ascii-master.txt": "0cb66be33bb23f945bc05c87737b3eb89bb794bc599a088d6bdae6a6219e7082",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\build-audit.json": "5e3f1f142fe3e40de27c29fcbacb2d424e361d0d6e989f774dc61926a6f08dcc",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\master.png": "90d62d682fc6c4baa20fe2c5d01064e2853353862d49da1fd453f0d612648325",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\poster.pdf": "d390cdbeac66e11959b939b0fe56a1fee01c218d352a621ed86a35aea90d11f7",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\preservation-hashes.json": "cb42b6b5f37faa77c9fdff7d433a9dec3f5507192f8a6911c97d8100282fed4a",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\README.txt": "9b6969cfe57aaf7f1e7f1a2c052d7da1a99d2e1f356ac865bf58a20dc0864ed3",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\tiled.pdf": "86a46eb7913c5902c457c354899a8787e4fab6b7135ab35e9238214e8961711e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\validation-report.txt": "6ccf3193e48ddd009a309ae05b3dadfeeb50a5c241e8d035f574965c4163cd35",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\editable\\topic-spec.json": "4ef2c37f486f74878b10f2a0b3a59b8de8eed3661b9035a0000b2506965f868e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\contact-sheet-01.png": "fd39f760a71ac0e5bc8cdeb76d661a03042af1dc3d3f60a25d1bed1001c68372",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\master-overview.png": "a96e6446c30438a5b200ce4c0792a31cd87531bc68d1e5e6dbd5d448a0941c14",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\page-001.png": "87f5a5b5a05e24915b2bbccdf2d7f53894164c6f0be1e3ab70066571566c5859",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\page-002.png": "5d81acb60799c0edfb034666d9b1a855bec8d2d0444c67ad364315b7dfae45f5",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\page-003.png": "90fdb06873f859924af55c4fa15521535d14ed4a664a02ffc9b546453eb3b2a8",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\page-004.png": "a52e2bea016f5bcb538be8b5171320834bd717ab40b1b3f297da8d884612fed8"
+    },
+    "concept_visual": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\assets\\Plato-Aristotle-Ontology-Bridge.png",
+    "main_visual_audit_map": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\validation\\main-visual-audit-map.json",
+    "workbook_visual_audit_map": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g5\\validation\\workbook-visual-audit-map.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\ascii-master.pdf",
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "repair_scope": "answer-specific execution/compression guidance; 48-question hard-MCQ floor; fresh four-artifact identity and audits"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-i-western-philosophy-01:learner-v2:g5"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-29",
+    "validator": "tools/regenerate_philosophy_western_deep_review.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-29",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-graphical-specs\\philosophy-paper-i-western-philosophy-01-g5.json",
+    "graphical_spec_sha256": "4ef2c37f486f74878b10f2a0b3a59b8de8eed3661b9035a0000b2506965f868e",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 10,
+    "card_count": 11,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-01\\carvaka-g5\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-plato-aristotle-spec"
+  }
+}

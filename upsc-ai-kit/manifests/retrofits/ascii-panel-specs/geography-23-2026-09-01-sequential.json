@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topic 23",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-23",
+      "display_title": "Cool Temperate Continental Siberian",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\23_India-Subalpine-Alpine-Belt_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Siberian climate world distribution",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "SIBERIA -> largest single taiga band, continental interior",
+            "CANADA -> boreal belt from Rockies to Atlantic coast",
+            "SCANDINAVIA -> Sweden and Finland share the European taiga",
+            "SOUTHERN HEMISPHERE -> absent: no land broad enough at these latitudes"
+          ],
+          "source_references": [
+            "Northern Hemisphere exclusivity and boundaries"
+          ]
+        },
+        {
+          "title": "Climate character profile",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WINTER -> bitterly cold, long, sub-Arctic; very large annual range",
+            "SUMMER -> short, cool; brief warm growing season",
+            "RAINFALL -> low to moderate; light summer maximum",
+            "PRECIPITATION TYPE -> mostly snow in winter; frontal and convectional in summer"
+          ],
+          "source_references": [
+            "Climate character"
+          ]
+        },
+        {
+          "title": "Conifer adaptation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONICAL SHAPE -> sheds snow load, prevents branch breakage",
+            "NEEDLE LEAVES -> reduced surface area minimises transpiration loss",
+            "SHALLOW ROOTS -> exploit thin active layer above permafrost",
+            "RESULT -> conifers dominate where broadleaf trees cannot survive"
+          ],
+          "source_references": [
+            "Conifer adaptations"
+          ]
+        },
+        {
+          "title": "Softwood economic chain",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "UNIFORM LOW-DIVERSITY STANDS -> mechanised extraction feasible",
+            "LONG-FIBRE SOFTWOOD -> ideal for pulp and paper manufacture",
+            "FROZEN GROUND AND RIVERS -> natural winter haulage surfaces",
+            "SPRING THAW -> river floating of logs to downstream mills"
+          ],
+          "source_references": [
+            "Softwood economic value",
+            "Biological poverty as commercial advantage"
+          ]
+        },
+        {
+          "title": "Carbon storage mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "COLD SLOWS DECOMPOSITION -> organic matter accumulates in soil and peat",
+            "PERMAFROST -> locks carbon in frozen ground for millennia",
+            "BELOW-GROUND CARBON -> disproportionately large compared to above-ground",
+            "RESULT -> boreal zone is a globally significant carbon reservoir"
+          ],
+          "source_references": [
+            "Carbon storage mechanism"
+          ]
+        },
+        {
+          "title": "Fire-thaw feedback loop",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "WARMING -> lengthens fire season and thaws permafrost",
+            "FIRE -> releases stored carbon directly through combustion",
+            "THAW -> exposes frozen organic matter to decomposition",
+            "FEEDBACK -> released carbon causes further warming (self-reinforcing)"
+          ],
+          "source_references": [
+            "Fire-thaw feedback and sink-to-source risk"
+          ]
+        },
+        {
+          "title": "Permafrost engineering impact",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "THAWING PERMAFROST -> ground loses bearing capacity",
+            "ROADS AND RAILWAYS -> subsidence, cracking, realignment needed",
+            "PIPELINES -> stress fractures and leak risk",
+            "BUILDINGS -> foundation failure across settled sub-Arctic"
+          ],
+          "source_references": [
+            "Permafrost engineering consequence"
+          ]
+        },
+        {
+          "title": "Himalayan altitudinal zonation",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "SUBTROPICAL -> chir pine belt, 100-200 cm rain, fire-prone",
+            "TEMPERATE -> deodar, spruce in western Himalaya",
+            "SUBALPINE -> silver-fir (Abies) at 2200-3000 m, NW and NE",
+            "ALPINE -> bugyals/mergs: treeless pastures above treeline"
+          ],
+          "source_references": [
+            "Himalayan altitudinal zonation",
+            "Chir pine and fire ecology"
+          ]
+        },
+        {
+          "title": "Himalayan conifer identification",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SILVER-FIR (Abies) -> 2200-3000 m; planking, pulp, paper, matches",
+            "SPRUCE (Picea smithiana) -> high wet-temperate belt; softwood",
+            "DEODAR (Cedrus deodara) -> western Himalaya; durable timber",
+            "CHIR PINE -> subtropical montane; resinous, fire-prone"
+          ],
+          "source_references": [
+            "Key Himalayan conifers",
+            "Chir pine and fire ecology"
+          ]
+        },
+        {
+          "title": "Treeline and alpine pastures",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONIFEROUS FOREST -> gives way at the treeline altitude",
+            "ALPINE SCRUB -> dwarf shrubs in transition zone",
+            "BUGYALS/MERGS -> open grassy meadows for summer grazing",
+            "SNOWLINE -> permanent snow above the pastoral belt"
+          ],
+          "source_references": [
+            "Treeline and alpine ecology"
+          ]
+        },
+        {
+          "title": "Biome comparison strip",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TAIGA -> high-latitude coniferous, below-ground carbon, softwood economy",
+            "STEPPE -> mid-latitude grassland, chernozem soil, mechanised grain",
+            "SAVANNA -> tropical grassland, laterised soil, pastoral subsistence",
+            "DISTINGUISHER -> latitude, rainfall regime, soil type and economic system"
+          ],
+          "source_references": [
+            "Savanna-steppe-taiga comparison"
+          ]
+        },
+        {
+          "title": "Siberian climate answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> Northern Hemisphere boreal coniferous belt with extreme continental range",
+            "LOCATE -> Siberia, Canada, Scandinavia; absent in Southern Hemisphere",
+            "EXPLAIN -> cold-adaptation, softwood economy, carbon storage, fire-thaw feedback",
+            "QUALIFY -> India's altitudinal analogue; transparent zero-direct-PYQ boundary"
+          ],
+          "source_references": [
+            "PYQ boundary and answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

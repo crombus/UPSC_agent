@@ -1,0 +1,436 @@
+{
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Geography",
+    "display_name": "Geography"
+  },
+  "schema_version": 1,
+  "section": {
+    "complete_syllabus_section": true,
+    "scope": "official-section",
+    "syllabus_sources": [
+      "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md"
+    ],
+    "name": "Part B — Human, Economic and Regional Geography",
+    "notes": "Materialised on demand from the full learner-v2 topic catalogue. The user does not need to create or edit JSON manually.",
+    "key": "part-b-human-economic-and-regional-geography"
+  },
+  "topics": [
+    {
+      "superseded_v1": "geography-26:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\26_World-Population-and-Demographic-Transition.md",
+      "topic_key": "geography-26",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\26_World-Population-and-Demographic-Transition.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "World Population and Demographic Transition",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 26.",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "geography-26:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g5\\geography-26_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g5\\geography-26_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g5\\geography-26_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g5\\geography-26_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-26-deep-review-2026-09-02-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-26\\carvaka-g5",
+      "generation_identity": "geography-26:learner-v2:g5"
+    },
+    {
+      "superseded_v1": "geography-27:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\27_Migration-Theories-and-Patterns-India.md",
+      "topic_key": "geography-27",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\27_Migration-Theories-and-Patterns-India.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Migration Theories and Patterns (India)",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 27.",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "geography-27:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-27-deep-review-2026-09-02-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g5",
+      "generation_identity": "geography-27:learner-v2:g5"
+    },
+    {
+      "superseded_v1": "geography-28:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\28_Human-Settlements-and-Urbanisation.md",
+      "topic_key": "geography-28",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\28_Human-Settlements-and-Urbanisation.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Human Settlements and Urbanisation",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 28.",
+      "status": "generated_unapproved",
+      "generation": 14,
+      "record_id": "geography-28-human-settlements-and-urbanisation:learner-v2:g14",
+      "operational_topic_key": "geography-28-human-settlements-and-urbanisation",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-28-human-settlements-and-urbanisation-deep-review-2026-09-02-g14.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-28\\carvaka-g14",
+      "generation_identity": "geography-28-human-settlements-and-urbanisation:learner-v2:g14",
+      "tracker_topic_keys": [
+        "geography-28-human-settlements-and-urbanisation"
+      ]
+    },
+    {
+      "superseded_v1": "geography-29:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\29_Regional-Development-and-Five-Year-Plans.md",
+      "topic_key": "geography-29",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\29_Regional-Development-and-Five-Year-Plans.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Regional Development and Five Year Plans",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 29.",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "geography-29:learner-v2:g5",
+      "operational_topic_key": "geography-29",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-29-deep-review-2026-09-02-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-29\\carvaka-g5",
+      "generation_identity": "geography-29:learner-v2:g5"
+    },
+    {
+      "superseded_v1": "geography-30:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\30_Primary-Economic-Activities-Agriculture.md",
+      "topic_key": "geography-30",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\30_Primary-Economic-Activities-Agriculture.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Primary Economic Activities: Agriculture",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 30.",
+      "status": "generated_unapproved",
+      "generation": 14,
+      "record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g14",
+      "operational_topic_key": "geography-30-primary-economic-activities-agriculture",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-30-primary-economic-activities-agriculture-deep-review-2026-09-02-g14.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g14",
+      "generation_identity": "geography-30-primary-economic-activities-agriculture:learner-v2:g14",
+      "tracker_topic_keys": [
+        "geography-30-primary-economic-activities-agriculture"
+      ]
+    },
+    {
+      "superseded_v1": "geography-31:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\31_Mineral-Energy-Resources-World-and-India.md",
+      "topic_key": "geography-31",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\31_Mineral-Energy-Resources-World-and-India.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Mineral and Energy Resources: World and India",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 31.",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "geography-31:learner-v2:g4",
+      "operational_topic_key": "geography-31",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-31-deep-review-2026-09-02-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-31\\carvaka-g4",
+      "generation_identity": "geography-31:learner-v2:g4"
+    },
+    {
+      "superseded_v1": "geography-32:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\32_Industries-and-Industrial-Regions.md",
+      "topic_key": "geography-32",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\32_Industries-and-Industrial-Regions.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Industries and Industrial Regions",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 32.",
+      "status": "generated_unapproved",
+      "generation": 16,
+      "record_id": "geography-32-industries-and-industrial-regions:learner-v2:g16",
+      "operational_topic_key": "geography-32-industries-and-industrial-regions",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g16\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-32-industries-and-industrial-regions-deep-review-2026-09-02-g16.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-32\\carvaka-g16",
+      "generation_identity": "geography-32-industries-and-industrial-regions:learner-v2:g16",
+      "tracker_topic_keys": [
+        "geography-32-industries-and-industrial-regions"
+      ]
+    },
+    {
+      "superseded_v1": "geography-33:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\33_Transport-Trade-and-Indian-Space-Programme.md",
+      "topic_key": "geography-33",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\33_Transport-Trade-and-Indian-Space-Programme.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Transport, Trade and the Indian Space Programme",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 33.",
+      "status": "generated_unapproved",
+      "generation": 3,
+      "record_id": "geography-33:learner-v2:g3",
+      "operational_topic_key": "geography-33",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\geography-33_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-33\\g3\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-33-deep-review-2026-09-02-g3.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-33\\carvaka-g3",
+      "generation_identity": "geography-33:learner-v2:g3"
+    },
+    {
+      "superseded_v1": "geography-34:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\34_World-Regional-Geography-Continents-Countries.md",
+      "topic_key": "geography-34",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\34_World-Regional-Geography-Continents-Countries.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "World Regional Geography: Continents and Countries",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 34.",
+      "status": "generated_unapproved",
+      "generation": 3,
+      "record_id": "geography-34:learner-v2:g3",
+      "operational_topic_key": "geography-34",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-34-deep-review-2026-09-02-g3.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-34\\carvaka-g3",
+      "generation_identity": "geography-34:learner-v2:g3"
+    },
+    {
+      "superseded_v1": "geography-35:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\35_Indian-Political-Geography-Boundaries-and-Neighbours.md",
+      "topic_key": "geography-35",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\35_Indian-Political-Geography-Boundaries-and-Neighbours.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Indian Political Geography: Boundaries and Neighbours",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 35.",
+      "status": "generated_unapproved",
+      "generation": 3,
+      "record_id": "geography-35:learner-v2:g3",
+      "operational_topic_key": "geography-35",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-35\\g3\\geography-35_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-35\\g3\\geography-35_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-35\\g3\\geography-35_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-35\\g3\\geography-35_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-35\\g3\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-35-deep-review-2026-09-02-g3.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-35\\carvaka-g3",
+      "generation_identity": "geography-35:learner-v2:g3"
+    },
+    {
+      "superseded_v1": "geography-36:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\36_Contemporary-Geographical-Issues-India.md",
+      "topic_key": "geography-36",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\36_Contemporary-Geographical-Issues-India.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Contemporary Geographical Issues (India)",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 36.",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "geography-36:learner-v2:g4",
+      "operational_topic_key": "geography-36",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-36-deep-review-2026-09-02-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-36\\carvaka-g4",
+      "generation_identity": "geography-36:learner-v2:g4"
+    },
+    {
+      "superseded_v1": "geography-37:legacy-v1:g1",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\00_Master-Framework.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\README.md",
+        "upsc-ai-kit\\\\knowledge\\\\Geography\\\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "source_advanced": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\advanced\\\\37_Cultural-and-Social-Geography-of-India.md",
+      "topic_key": "geography-37",
+      "source_canonical": "upsc-ai-kit\\\\knowledge\\\\Geography\\\\basic\\\\37_Cultural-and-Social-Geography-of-India.md",
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-INDEX.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-PRELIMS-2026.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+        "upsc-ai-kit\\\\knowledge\\\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+      ],
+      "display_title": "Cultural and Social Geography of India",
+      "syllabus_mapping": "Prelims GS-I: Indian and World Geography; repository Part B topic 37.",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "geography-37:learner-v2:g4",
+      "operational_topic_key": "geography-37",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Solved-Practice-Workbook_2026-09-02.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Solved-Practice-Workbook_2026-09-02.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-37-deep-review-2026-09-02-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-37\\carvaka-g4",
+      "generation_identity": "geography-37:learner-v2:g4"
+    }
+  ]
+}

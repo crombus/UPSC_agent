@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-27",
+      "display_title": "Independence & Partition (1946–1947)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cabinet Mission attempted unity",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "CABINET MISSION 1946 -> UNITY ATTEMPT, NOT A PARTITION INSTRUMENT",
+            "|-- REJECTED -> a sovereign Pakistan",
+            "|-- PROPOSED -> Union + groups of provinces + provinces (weak centre)",
+            "|-- ACCEPTED (in some form) -> by both parties in June and July 1946",
+            "COLLAPSE -> incompatible readings -> withdrawal -> loss of trust -> Partition",
+            "RULE -> the Mission is where unity was last available, not where it ended.",
+            "MUST REMEMBER: The 1946 elections, Cabinet Mission breakdown, Direct Action Day on 16 August,",
+            "  Interim Government from 2 September, Attlee statement of 20 February 1947 and 3 June Plan",
+            "  led to the Independence Act."
+          ],
+          "source_references": [
+            "The Cabinet Mission attempted unity and did not partition India",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Direct Action Day: call, killings, consequences",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "16 AUG 1946 -> DIRECT ACTION DAY -> three separable things",
+            "|-- POLITICAL CALL -> Muslim League, after deadlock and its own withdrawal",
+            "|-- CALCUTTA -> mass killings remembered as the Great Calcutta Killings",
+            "|-- LATER REGIONAL VIOLENCE -> separate local actors, triggers and sequences",
+            "ORDER -> Direct Action precedes the Congress-only Interim Government (2 Sep 1946)",
+            "RULE -> separate call, killings and spread; assign agency to actors, not communities."
+          ],
+          "source_references": [
+            "Direct Action Day, 16 August 1946: call, killings and consequences",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Violence of 1946-47 without collective guilt",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "1946-47 VIOLENCE -> reciprocal waves, regionally specific",
+            "|-- NOAKHALI -> BIHAR -> PUNJAB (each with its own actors and triggers)",
+            "|-- DRIVERS -> organisations, armed bands, rumour, collapse of policing",
+            "|-- REGIONAL SPLIT -> Punjab and Bengal: territorial division and mass violence",
+            "                   -> elsewhere: political settlement and a minority question",
+            "RULE -> agency belongs to organisations and leaderships, never to whole communities."
+          ],
+          "source_references": [
+            "The spread of violence in 1946-47 without collective guilt",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Two Attlee statements, one deadline",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TWO ATTLEE STATEMENTS -> do not conflate",
+            "|-- 15 MAR 1946 -> \"a minority will not be allowed to place a veto\" -> pre-Mission",
+            "`-- 20 FEB 1947 -> transfer to responsible Indian hands, not later than June 1948",
+            "EFFECT -> a published outer limit converts negotiation into a race against a date",
+            "RULE -> one is about the veto, the other is about the deadline."
+          ],
+          "source_references": [
+            "Attlee's statement of 20 February 1947 and the June 1948 deadline",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Mountbatten and the accelerated timetable",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAR 1947 -> MOUNTBATTEN ARRIVES AS LAST VICEROY",
+            "DEADLINE -> June 1948 outer limit compressed to August 1947",
+            "CONSEQUENCE -> administrative, military and boundary arrangements left incomplete",
+            "ANALYTICAL PLACE -> explains execution and disorder, not the choice to partition",
+            "RULE -> haste belongs in consequences, not in causes."
+          ],
+          "source_references": [
+            "Mountbatten as last Viceroy and the accelerated timetable",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "3 June Plan: a political plan, not an Act",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "3 JUNE 1947 -> MOUNTBATTEN PLAN -> a POLITICAL plan",
+            "|-- ACCEPTS -> Partition in principle",
+            "|-- PROVIDES FOR -> division of Punjab and Bengal",
+            "|                -> referendums in the North-West Frontier Province and Sylhet",
+            "|                -> boundary commissions",
+            "LIMIT -> not an Act of Parliament; transfers no power by itself",
+            "RULE -> the political decision precedes the legal enactment of July 1947."
+          ],
+          "source_references": [
+            "The 3 June Plan as a political plan, not an Act",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Three partition mechanisms",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HOW PARTITION WAS CARRIED OUT -> three different procedures",
+            "|-- ASSEMBLY VOTES -> Punjab and Bengal, by the two notional halves of each assembly",
+            "|-- REFERENDUMS -> North-West Frontier Province and Sylhet district of Assam",
+            "|                -> both results took them into Pakistan",
+            "`-- BOUNDARY COMMISSIONS -> technical line-drawing, separate from both routes",
+            "RULE -> match the province to its mechanism; never swap them."
+          ],
+          "source_references": [
+            "Three partition mechanisms: assembly votes, referendums, commissions",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Indian Independence Act: assent and commencement",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "INDIAN INDEPENDENCE ACT -> the LEGAL enactment",
+            "|-- ROYAL ASSENT -> 18 July 1947 (Westminster)",
+            "|-- COMMENCEMENT -> two dominions, India and Pakistan, from 15 August 1947",
+            "|-- ALSO PROVIDES -> lapse of British paramountcy over the princely states",
+            "SEQUENCE -> 3 June political plan -> 18 July assent -> 15 August commencement",
+            "RULE -> assent and commencement are separate legal events."
+          ],
+          "source_references": [
+            "The Indian Independence Act: Royal Assent and commencement",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Statutory commencement versus commemorative observance",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WHAT THE STATUTE SAYS      | WHAT COMMEMORATION SAYS",
+            "---------------------------|-------------------------------------------------",
+            "both dominions created     | Pakistan observes 14 August as its national day",
+            "from 15 August 1947        | ceremonies at Karachi (14th) and Delhi (15th)",
+            "RULE -> statutory commencement is one date; commemorative observance is another."
+          ],
+          "source_references": [
+            "14 August and 15 August: what the Act actually provides",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "The lapse of paramountcy",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "PARAMOUNTCY -> LAPSED (it did not transfer)",
+            "|-- NOT INHERITED -> neither dominion succeeded to suzerainty automatically",
+            "|-- CONSEQUENCE -> each state's relationship had to be created afresh",
+            "|-- ROUTE -> accession or agreement, negotiated state by state",
+            "RULE -> \"lapsed\" is the operative verb; \"transferred\" is the error.",
+            "CLOSE DISTINCTION: The Indian Independence Act received royal assent on 18 July 1947; transfer",
+            "  dates, Radcliffe Award publication and mass displacement must remain separately dated."
+          ],
+          "source_references": [
+            "The lapse of British paramountcy",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Radcliffe: two commissions, awards of 17 August",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BOUNDARY MECHANISM -> two commissions, one chairman",
+            "|-- PUNJAB COMMISSION | BENGAL COMMISSION -> chaired by Cyril Radcliffe",
+            "|-- COMPOSITION -> equal Congress-nominated and League-nominated judges",
+            "|-- DEADLOCK -> members divide -> decisions fall to the chairman",
+            "15 AUG 1947 -> transfer of power | 17 AUG 1947 -> awards published",
+            "CONSEQUENCE -> border districts uncertain; violence already under way before the line.",
+            "EVIDENCE LIMIT: Partition requires League, Congress, British, provincial and popular agency",
+            "  plus gendered violence and refugee evidence; communal inevitability and single-person blame",
+            "  are both inadequate."
+          ],
+          "source_references": [
+            "Two Radcliffe commissions and the awards of 17 August 1947",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Responsibility, contingency and the three registers",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "CONGRESS ACCEPTANCE -> reluctant and pragmatic; deadlock, violence, governability",
+            "INEVITABILITY -> structure (1909 onwards) + contingency (dated 1946-47 decisions)",
+            "RESPONSIBILITY -> British policy | Muslim League | Congress | communal organisations",
+            "               -> mass fear and regional dynamics; no single villain",
+            "THREE REGISTERS -> legal transfer | political triumph | humanitarian catastrophe",
+            "HUMAN COST -> displacement around 10 to 15 million (broad estimate); deaths contested",
+            "GANDHI -> in Calcutta and Bengal for communal peace, not celebrating in Delhi",
+            "RULE -> record all three registers; a one-sided verdict answers only part."
+          ],
+          "source_references": [
+            "Congress acceptance of Partition as reluctant pragmatism",
+            "Was Partition inevitable? Cumulative structure and contingency",
+            "Responsibility without a single villain",
+            "Two registers: legal transfer, political triumph, humanitarian catastrophe",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\27_Independence-and-Partition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-27\\g2\\modern-indian-history-27_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1355 @@
+{
+  "schema_version": 1,
+  "repair_id": "polity-flowchart-case-year-repair-2026-08-24",
+  "validated_at": "2026-08-24T22:39:11.878979+05:30",
+  "status": "passed",
+  "scope": {
+    "topic_keys": [
+      "polity-01",
+      "polity-02",
+      "polity-03",
+      "polity-04",
+      "polity-05",
+      "polity-06",
+      "polity-07",
+      "polity-08",
+      "polity-09",
+      "polity-10",
+      "polity-11",
+      "polity-12",
+      "polity-13",
+      "polity-14",
+      "polity-15",
+      "polity-16",
+      "polity-17",
+      "polity-18",
+      "polity-19",
+      "polity-20",
+      "polity-21",
+      "polity-22",
+      "polity-23",
+      "polity-24",
+      "polity-25",
+      "polity-26",
+      "polity-27",
+      "polity-28",
+      "polity-29",
+      "polity-30",
+      "polity-31",
+      "polity-32",
+      "polity-33",
+      "polity-34",
+      "polity-35",
+      "polity-36",
+      "polity-37"
+    ],
+    "active_latest_only": true,
+    "tracker_generation_created": false,
+    "approval_state_changed": false
+  },
+  "summary": {
+    "topic_count": 37,
+    "distinct_case_count": 116,
+    "case_year_errors": 0,
+    "contact_sheet_count": 37,
+    "preview_count": 143,
+    "final_library_source_output_equal": true
+  },
+  "cases": [
+    {
+      "case_id": "ac-jose",
+      "canonical_label": "A.C. Jose (1984)",
+      "decision_year": 1984,
+      "source_title": "A.C. Jose v. Sivan Pillai, judgment dated 5 March 1984",
+      "source_url": "https://indiankanoon.org/search/?formInput=A+C+Jose+Sivan+Pillai+5+March+1984"
+    },
+    {
+      "case_id": "adm-jabalpur",
+      "canonical_label": "ADM Jabalpur (1976)",
+      "decision_year": 1976,
+      "source_title": "ADM Jabalpur v. Shivkant Shukla, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=ADM+Jabalpur+v+Shivkant+Shukla+28+April+1976"
+    },
+    {
+      "case_id": "adr-candidate-disclosure",
+      "canonical_label": "Union of India v. Association for Democratic Reforms (2002)",
+      "decision_year": 2002,
+      "source_title": "Union of India v. Association for Democratic Reforms, judgment dated 2 May 2002",
+      "source_url": "https://indiankanoon.org/search/?formInput=Union+of+India+Association+for+Democratic+Reforms+2+May+2002"
+    },
+    {
+      "case_id": "adr-vvpat",
+      "canonical_label": "Association for Democratic Reforms v. Election Commission of India (2024)",
+      "decision_year": 2024,
+      "source_title": "Association for Democratic Reforms v. Election Commission of India, judgment dated 26 April 2024",
+      "source_url": "https://indiankanoon.org/search/?formInput=Association+for+Democratic+Reforms+Election+Commission+India+26+April+2024+VVPAT"
+    },
+    {
+      "case_id": "ak-gopalan",
+      "canonical_label": "A.K. Gopalan (1950)",
+      "decision_year": 1950,
+      "source_title": "A.K. Gopalan v. State of Madras, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=A+K+Gopalan+v+State+of+Madras+19+May+1950"
+    },
+    {
+      "case_id": "alok-kumar-verma",
+      "canonical_label": "Alok Kumar Verma v. Union of India (2019)",
+      "decision_year": 2019,
+      "source_title": "Alok Kumar Verma v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Alok+Kumar+Verma+v+Union+of+India+8+January+2019"
+    },
+    {
+      "case_id": "anjali-bhardwaj",
+      "canonical_label": "Anjali Bhardwaj v. Union of India (2019)",
+      "decision_year": 2019,
+      "source_title": "Anjali Bhardwaj v. Union of India, judgment dated 15 February 2019",
+      "source_url": "https://api.sci.gov.in/supremecourt/2018/15968/15968_2018_Judgement_15-Feb-2019.pdf"
+    },
+    {
+      "case_id": "anjum-kadari",
+      "canonical_label": "Anjum Kadari (2024)",
+      "decision_year": 2024,
+      "source_title": "Anjum Kadari v. Union of India, 2024 INSC 831",
+      "source_url": "https://indiankanoon.org/search/?formInput=Anjum+Kadari+2024+INSC+831"
+    },
+    {
+      "case_id": "anoop-baranwal",
+      "canonical_label": "Anoop Baranwal (2023)",
+      "decision_year": 2023,
+      "source_title": "Anoop Baranwal v. Union of India, Constitution Bench judgment dated 2 March 2023",
+      "source_url": "https://indiankanoon.org/search/?formInput=Anoop+Baranwal+Union+of+India+2+March+2023"
+    },
+    {
+      "case_id": "anuradha-bhasin",
+      "canonical_label": "Anuradha Bhasin (2020)",
+      "decision_year": 2020,
+      "source_title": "Anuradha Bhasin v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Anuradha+Bhasin+v+Union+of+India+10+January+2020"
+    },
+    {
+      "case_id": "article-370",
+      "canonical_label": "In Re: Article 370 of the Constitution (2023)",
+      "decision_year": 2023,
+      "source_title": "In Re: Article 370 of the Constitution, Supreme Court judgment dated 11 December 2023",
+      "source_url": "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf"
+    },
+    {
+      "case_id": "arun-kumar-agrawal",
+      "canonical_label": "Arun Kumar Agrawal (2013)",
+      "decision_year": 2013,
+      "source_title": "Arun Kumar Agrawal v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Arun+Kumar+Agrawal+Union+of+India+CAG+report+2013"
+    },
+    {
+      "case_id": "arvind-gupta-cag",
+      "canonical_label": "Arvind Gupta (2012)",
+      "decision_year": 2012,
+      "source_title": "Arvind Gupta v. Union of India, Supreme Court order on performance audit",
+      "source_url": "https://indiankanoon.org/search/?formInput=Arvind+Gupta+Union+of+India+CAG+performance+audit+2012"
+    },
+    {
+      "case_id": "ashok-kumar-yadav",
+      "canonical_label": "Ashok Kumar Yadav (1985)",
+      "decision_year": 1985,
+      "source_title": "Ashok Kumar Yadav v. State of Haryana, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Ashok+Kumar+Yadav+State+of+Haryana+10+May+1985"
+    },
+    {
+      "case_id": "assent-advisory-opinion",
+      "canonical_label": "In re Assent, Withholding or Reservation of Bills (2025)",
+      "decision_year": 2025,
+      "source_title": "In re Assent, Withholding or Reservation of Bills, advisory opinion dated 20 November 2025",
+      "source_url": "https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf"
+    },
+    {
+      "case_id": "berubari-union",
+      "canonical_label": "Berubari Union (1960)",
+      "decision_year": 1960,
+      "source_title": "In Re: Berubari Union, Supreme Court advisory opinion",
+      "source_url": "https://indiankanoon.org/search/?formInput=In+Re+Berubari+Union+14+March+1960"
+    },
+    {
+      "case_id": "bhim-singh-article-282",
+      "canonical_label": "Bhim Singh (2010)",
+      "decision_year": 2010,
+      "source_title": "Bhim Singh v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Bhim+Singh+Union+of+India+Article+282+2010"
+    },
+    {
+      "case_id": "bijoe-emmanuel",
+      "canonical_label": "Bijoe Emmanuel (1986)",
+      "decision_year": 1986,
+      "source_title": "Bijoe Emmanuel v. State of Kerala, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Bijoe+Emmanuel+v+State+of+Kerala+11+August+1986"
+    },
+    {
+      "case_id": "brijeshwar-singh-chahal",
+      "canonical_label": "State of Punjab v. Brijeshwar Singh Chahal (2016)",
+      "decision_year": 2016,
+      "source_title": "State of Punjab v. Brijeshwar Singh Chahal, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/bosir/orderpdf/2812218.pdf"
+    },
+    {
+      "case_id": "cbse-aditya-bandopadhyay",
+      "canonical_label": "CBSE v. Aditya Bandopadhyay (2011)",
+      "decision_year": 2011,
+      "source_title": "CBSE v. Aditya Bandopadhyay, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/judis/38344.pdf"
+    },
+    {
+      "case_id": "champakam-dorairajan",
+      "canonical_label": "Champakam Dorairajan (1951)",
+      "decision_year": 1951,
+      "source_title": "State of Madras v. Champakam Dorairajan, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+Madras+v+Champakam+Dorairajan+9+April+1951"
+    },
+    {
+      "case_id": "chandra-mohan",
+      "canonical_label": "Chandra Mohan (1966)",
+      "decision_year": 1966,
+      "source_title": "Chandra Mohan v. State of Uttar Pradesh, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Chandra+Mohan+v+State+of+Uttar+Pradesh+1966"
+    },
+    {
+      "case_id": "cic-state-manipur",
+      "canonical_label": "Chief Information Commissioner v. State of Manipur (2011)",
+      "decision_year": 2011,
+      "source_title": "Chief Information Commissioner v. State of Manipur, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/judis/38918.pdf"
+    },
+    {
+      "case_id": "cpdr-west-bengal",
+      "canonical_label": "State of West Bengal v. Committee for Protection of Democratic Rights (2010)",
+      "decision_year": 2010,
+      "source_title": "State of West Bengal v. Committee for Protection of Democratic Rights, Constitution Bench judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+West+Bengal+Committee+for+Protection+of+Democratic+Rights+2010"
+    },
+    {
+      "case_id": "davinder-singh",
+      "canonical_label": "Davinder Singh (2024)",
+      "decision_year": 2024,
+      "source_title": "State of Punjab v. Davinder Singh, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+Punjab+v+Davinder+Singh+1+August+2024"
+    },
+    {
+      "case_id": "dc-wadhwa",
+      "canonical_label": "D.C. Wadhwa (1986)",
+      "decision_year": 1986,
+      "source_title": "D.C. Wadhwa v. State of Bihar, judgment dated 20 December 1986",
+      "source_url": "https://indiankanoon.org/docfragment/504006/"
+    },
+    {
+      "case_id": "ds-nakara",
+      "canonical_label": "D.S. Nakara (1982)",
+      "decision_year": 1982,
+      "source_title": "D.S. Nakara v. Union of India, judgment dated 17 December 1982",
+      "source_url": "https://indiankanoon.org/docfragment/1416283/"
+    },
+    {
+      "case_id": "eevfam",
+      "canonical_label": "EEVFAM (2016)",
+      "decision_year": 2016,
+      "source_title": "Extra Judicial Execution Victim Families Association v. Union of India, judgment dated 8 July 2016",
+      "source_url": "https://api.sci.gov.in/jonew/judis/43775.pdf"
+    },
+    {
+      "case_id": "ep-royappa",
+      "canonical_label": "E.P. Royappa (1973)",
+      "decision_year": 1973,
+      "source_title": "E.P. Royappa v. State of Tamil Nadu, judgment dated 23 November 1973",
+      "source_url": "https://indiankanoon.org/docfragment/1327287/"
+    },
+    {
+      "case_id": "excel-wear",
+      "canonical_label": "Excel Wear (1978)",
+      "decision_year": 1978,
+      "source_title": "Excel Wear v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Excel+Wear+v+Union+of+India+29+September+1978"
+    },
+    {
+      "case_id": "fertico-marketing",
+      "canonical_label": "Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)",
+      "decision_year": 2020,
+      "source_title": "Fertico Marketing and Investment Pvt. Ltd. v. CBI, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Fertico+Marketing+Investment+Pvt+Ltd+v+CBI+2020"
+    },
+    {
+      "case_id": "first-judges-case",
+      "canonical_label": "First Judges Case (1981)",
+      "decision_year": 1981,
+      "source_title": "S.P. Gupta v. Union of India, judgment dated 30 December 1981",
+      "source_url": "https://indiankanoon.org/search/?formInput=S+P+Gupta+v+Union+of+India+30+December+1981"
+    },
+    {
+      "case_id": "fourth-judges-case",
+      "canonical_label": "Fourth Judges Case (2015)",
+      "decision_year": 2015,
+      "source_title": "Supreme Court Advocates-on-Record Association v. Union of India, NJAC judgment dated 16 October 2015",
+      "source_url": "https://indiankanoon.org/search/?formInput=NJAC+judgment+16+October+2015"
+    },
+    {
+      "case_id": "fouziya-imtiaz-shaikh",
+      "canonical_label": "State of Goa v. Fouziya Imtiaz Shaikh (2021)",
+      "decision_year": 2021,
+      "source_title": "State of Goa v. Fouziya Imtiaz Shaikh, judgment dated 12 March 2021",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+Goa+Fouziya+Imtiaz+Shaikh+12+March+2021"
+    },
+    {
+      "case_id": "gb-pant-university",
+      "canonical_label": "G.B. Pant University (2000)",
+      "decision_year": 2000,
+      "source_title": "G.B. Pant University of Agriculture and Technology v. State of Uttar Pradesh, judgment dated 10 August 2000",
+      "source_url": "https://indiankanoon.org/docfragment/198698/"
+    },
+    {
+      "case_id": "gnctd-aid-advice",
+      "canonical_label": "GNCTD aid-and-advice judgment (2018)",
+      "decision_year": 2018,
+      "source_title": "Government of NCT of Delhi v. Union of India, Constitution Bench judgment dated 4 July 2018",
+      "source_url": "https://indiankanoon.org/search/?formInput=Government+of+NCT+Delhi+Union+of+India+4+July+2018"
+    },
+    {
+      "case_id": "gnctd-services",
+      "canonical_label": "Delhi services judgment (2023)",
+      "decision_year": 2023,
+      "source_title": "Government of NCT of Delhi v. Union of India, Constitution Bench services judgment dated 11 May 2023",
+      "source_url": "https://indiankanoon.org/search/?formInput=Government+of+NCT+Delhi+Union+of+India+11+May+2023+services"
+    },
+    {
+      "case_id": "golaknath",
+      "canonical_label": "I.C. Golaknath (1967)",
+      "decision_year": 1967,
+      "source_title": "I.C. Golaknath v. State of Punjab, judgment dated 27 February 1967",
+      "source_url": "https://indiankanoon.org/docfragment/120358/"
+    },
+    {
+      "case_id": "hussainara-khatoon",
+      "canonical_label": "Hussainara Khatoon (1979)",
+      "decision_year": 1979,
+      "source_title": "Hussainara Khatoon v. State of Bihar, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Hussainara+Khatoon+9+March+1979"
+    },
+    {
+      "case_id": "indira-gandhi",
+      "canonical_label": "Indira Nehru Gandhi v. Raj Narain (1975)",
+      "decision_year": 1975,
+      "source_title": "Indira Nehru Gandhi v. Raj Narain, judgment dated 7 November 1975",
+      "source_url": "https://indiankanoon.org/docfragment/936707/"
+    },
+    {
+      "case_id": "indra-sawhney",
+      "canonical_label": "Indra Sawhney (1992)",
+      "decision_year": 1992,
+      "source_title": "Indra Sawhney v. Union of India, judgment dated 16 November 1992",
+      "source_url": "https://indiankanoon.org/docfragment/1363234/"
+    },
+    {
+      "case_id": "ir-coelho",
+      "canonical_label": "I.R. Coelho (2007)",
+      "decision_year": 2007,
+      "source_title": "I.R. Coelho v. State of Tamil Nadu, judgment dated 11 January 2007",
+      "source_url": "https://indiankanoon.org/docfragment/322504/"
+    },
+    {
+      "case_id": "jaishri-laxmanrao-patil",
+      "canonical_label": "Jaishri Laxmanrao Patil (2021)",
+      "decision_year": 2021,
+      "source_title": "Jaishri Laxmanrao Patil v. Chief Minister, Maharashtra, judgment dated 5 May 2021",
+      "source_url": "https://api.sci.gov.in/supremecourt/2019/23618/23618_2019_35_1501_27992_Judgement_05-May-2021.pdf"
+    },
+    {
+      "case_id": "janhit-abhiyan",
+      "canonical_label": "Janhit Abhiyan (2022)",
+      "decision_year": 2022,
+      "source_title": "Janhit Abhiyan v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Janhit+Abhiyan+v+Union+of+India+7+November+2022"
+    },
+    {
+      "case_id": "jarnail-singh",
+      "canonical_label": "Jarnail Singh (2018)",
+      "decision_year": 2018,
+      "source_title": "Jarnail Singh v. Lachhmi Narain Gupta, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Jarnail+Singh+Lachhmi+Narain+Gupta+26+September+2018"
+    },
+    {
+      "case_id": "jaya-thakur",
+      "canonical_label": "Dr Jaya Thakur v. Union of India (2023)",
+      "decision_year": 2023,
+      "source_title": "Dr Jaya Thakur v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Dr+Jaya+Thakur+v+Union+of+India+2023+INSC+616"
+    },
+    {
+      "case_id": "k-krishna-murthy",
+      "canonical_label": "K. Krishna Murthy (2010)",
+      "decision_year": 2010,
+      "source_title": "K. Krishna Murthy v. Union of India, judgment dated 11 May 2010",
+      "source_url": "https://indiankanoon.org/search/?formInput=K+Krishna+Murthy+Union+of+India+11+May+2010"
+    },
+    {
+      "case_id": "k-lakshminarayanan",
+      "canonical_label": "K. Lakshminarayanan (2018)",
+      "decision_year": 2018,
+      "source_title": "K. Lakshminarayanan v. Union of India, judgment dated 6 December 2018",
+      "source_url": "https://indiankanoon.org/search/?formInput=K+Lakshminarayanan+Union+of+India+6+December+2018"
+    },
+    {
+      "case_id": "k-manjusree",
+      "canonical_label": "K. Manjusree (2008)",
+      "decision_year": 2008,
+      "source_title": "K. Manjusree v. State of Andhra Pradesh, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=K+Manjusree+State+of+Andhra+Pradesh+15+February+2008"
+    },
+    {
+      "case_id": "kazi-lhendup-dorji",
+      "canonical_label": "Kazi Lhendup Dorji v. CBI (1994)",
+      "decision_year": 1994,
+      "source_title": "Kazi Lhendup Dorji v. CBI, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Kazi+Lhendup+Dorji+v+CBI+1994"
+    },
+    {
+      "case_id": "kedar-nath-singh",
+      "canonical_label": "Kedar Nath Singh (1962)",
+      "decision_year": 1962,
+      "source_title": "Kedar Nath Singh v. State of Bihar, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Kedar+Nath+Singh+v+State+of+Bihar+20+January+1962"
+    },
+    {
+      "case_id": "kehar-singh",
+      "canonical_label": "Kehar Singh (1988)",
+      "decision_year": 1988,
+      "source_title": "Kehar Singh v. Union of India, judgment dated 16 December 1988",
+      "source_url": "https://indiankanoon.org/docfragment/1152284/"
+    },
+    {
+      "case_id": "kesavananda-bharati",
+      "canonical_label": "Kesavananda Bharati (1973)",
+      "decision_year": 1973,
+      "source_title": "Kesavananda Bharati v. State of Kerala, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/docfragment/257876/"
+    },
+    {
+      "case_id": "kihoto-hollohan",
+      "canonical_label": "Kihoto Hollohan (1992)",
+      "decision_year": 1992,
+      "source_title": "Kihoto Hollohan v. Zachillhu, judgment dated 18 February 1992",
+      "source_url": "https://indiankanoon.org/search/?formInput=Kihoto+Hollohan+v+Zachillhu+18+February+1992"
+    },
+    {
+      "case_id": "kishansing-tomar",
+      "canonical_label": "Kishansing Tomar (2006)",
+      "decision_year": 2006,
+      "source_title": "Kishansing Tomar v. Municipal Corporation of Ahmedabad, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Kishansing+Tomar+Municipal+Corporation+Ahmedabad+2006"
+    },
+    {
+      "case_id": "krishna-kumar-singh",
+      "canonical_label": "Krishna Kumar Singh (2017)",
+      "decision_year": 2017,
+      "source_title": "Krishna Kumar Singh v. State of Bihar, judgment dated 2 January 2017",
+      "source_url": "https://indiankanoon.org/docfragment/107225908/"
+    },
+    {
+      "case_id": "l-chandra-kumar",
+      "canonical_label": "L. Chandra Kumar (1997)",
+      "decision_year": 1997,
+      "source_title": "L. Chandra Kumar v. Union of India, judgment dated 18 March 1997",
+      "source_url": "https://indiankanoon.org/search/?formInput=L+Chandra+Kumar+v+Union+of+India+18+March+1997"
+    },
+    {
+      "case_id": "lic-consumer-education",
+      "canonical_label": "LIC of India (1995)",
+      "decision_year": 1995,
+      "source_title": "L.I.C. of India v. Consumer Education and Research Centre, judgment dated 10 May 1995",
+      "source_url": "https://indiankanoon.org/docfragment/1513693/"
+    },
+    {
+      "case_id": "m-nagaraj",
+      "canonical_label": "M. Nagaraj (2006)",
+      "decision_year": 2006,
+      "source_title": "M. Nagaraj v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=M+Nagaraj+v+Union+of+India+19+October+2006"
+    },
+    {
+      "case_id": "maganbhai",
+      "canonical_label": "Maganbhai Ishwarbhai Patel (1969)",
+      "decision_year": 1969,
+      "source_title": "Maganbhai Ishwarbhai Patel v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Maganbhai+Ishwarbhai+Patel+v+Union+of+India+9+January+1969"
+    },
+    {
+      "case_id": "manbodhan-lal-srivastava",
+      "canonical_label": "State of U.P. v. Manbodhan Lal Srivastava (1957)",
+      "decision_year": 1957,
+      "source_title": "State of U.P. v. Manbodhan Lal Srivastava, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+Uttar+Pradesh+v+Manbodhan+Lal+Srivastava+1957"
+    },
+    {
+      "case_id": "maneka-gandhi",
+      "canonical_label": "Maneka Gandhi (1978)",
+      "decision_year": 1978,
+      "source_title": "Maneka Gandhi v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Maneka+Gandhi+v+Union+of+India+25+January+1978"
+    },
+    {
+      "case_id": "maru-ram",
+      "canonical_label": "Maru Ram (1980)",
+      "decision_year": 1980,
+      "source_title": "Maru Ram v. Union of India, judgment dated 11 November 1980",
+      "source_url": "https://indiankanoon.org/docfragment/1222748/"
+    },
+    {
+      "case_id": "minerva-mills",
+      "canonical_label": "Minerva Mills (1980)",
+      "decision_year": 1980,
+      "source_title": "Minerva Mills Ltd. v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Minerva+Mills+v+Union+of+India"
+    },
+    {
+      "case_id": "mohinder-singh-gill",
+      "canonical_label": "Mohinder Singh Gill (1977)",
+      "decision_year": 1977,
+      "source_title": "Mohinder Singh Gill v. Chief Election Commissioner, judgment dated 2 December 1977",
+      "source_url": "https://indiankanoon.org/search/?formInput=Mohinder+Singh+Gill+Chief+Election+Commissioner+2+December+1977"
+    },
+    {
+      "case_id": "mohit-minerals",
+      "canonical_label": "Mohit Minerals (2022)",
+      "decision_year": 2022,
+      "source_title": "Union of India v. Mohit Minerals, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Union+of+India+v+Mohit+Minerals+19+May+2022"
+    },
+    {
+      "case_id": "mv-thimmaiah",
+      "canonical_label": "M.V. Thimmaiah (2007)",
+      "decision_year": 2007,
+      "source_title": "M.V. Thimmaiah v. Union Public Service Commission, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=M+V+Thimmaiah+Union+Public+Service+Commission+2007"
+    },
+    {
+      "case_id": "nabam-rebia",
+      "canonical_label": "Nabam Rebia (2016)",
+      "decision_year": 2016,
+      "source_title": "Nabam Rebia v. Deputy Speaker, judgment dated 13 July 2016",
+      "source_url": "https://indiankanoon.org/search/?formInput=Nabam+Rebia+v+Deputy+Speaker+13+July+2016"
+    },
+    {
+      "case_id": "naveen-jindal",
+      "canonical_label": "Naveen Jindal (2004)",
+      "decision_year": 2004,
+      "source_title": "Union of India v. Naveen Jindal, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Union+of+India+v+Naveen+Jindal+23+January+2004"
+    },
+    {
+      "case_id": "nc-dhoundial",
+      "canonical_label": "N.C. Dhoundial v. Union of India (2003)",
+      "decision_year": 2003,
+      "source_title": "N.C. Dhoundial v. Union of India, judgment dated 4 December 2003",
+      "source_url": "https://api.sci.gov.in/jonew/judis/25688.pdf"
+    },
+    {
+      "case_id": "orissa-mining-corporation",
+      "canonical_label": "Orissa Mining Corporation (2013)",
+      "decision_year": 2013,
+      "source_title": "Orissa Mining Corporation Ltd. v. Ministry of Environment and Forest, judgment dated 18 April 2013",
+      "source_url": "https://indiankanoon.org/search/?formInput=Orissa+Mining+Corporation+Ministry+Environment+Forest+18+April+2013"
+    },
+    {
+      "case_id": "paramjit-kaur",
+      "canonical_label": "Paramjit Kaur v. State of Punjab (1999)",
+      "decision_year": 1999,
+      "source_title": "Paramjit Kaur v. State of Punjab, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Paramjit+Kaur+State+of+Punjab+NHRC+1999"
+    },
+    {
+      "case_id": "pradeep-kumar-biswas",
+      "canonical_label": "Pradeep Kumar Biswas (2002)",
+      "decision_year": 2002,
+      "source_title": "Pradeep Kumar Biswas v. Indian Institute of Chemical Biology, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Pradeep+Kumar+Biswas+16+February+2002"
+    },
+    {
+      "case_id": "property-owners",
+      "canonical_label": "Property Owners Association (2024)",
+      "decision_year": 2024,
+      "source_title": "Property Owners Association v. State of Maharashtra, judgment dated 5 November 2024",
+      "source_url": "https://indiankanoon.org/docfragment/114205571/"
+    },
+    {
+      "case_id": "pucl-nota",
+      "canonical_label": "People's Union for Civil Liberties (2013)",
+      "decision_year": 2013,
+      "source_title": "People's Union for Civil Liberties v. Union of India, NOTA judgment dated 27 September 2013",
+      "source_url": "https://indiankanoon.org/search/?formInput=People%27s+Union+for+Civil+Liberties+Union+of+India+27+September+2013+NOTA"
+    },
+    {
+      "case_id": "puttaswamy-aadhaar",
+      "canonical_label": "K.S. Puttaswamy (Aadhaar) (2018)",
+      "decision_year": 2018,
+      "source_title": "Justice K.S. Puttaswamy (Retd.) v. Union of India, Aadhaar judgment dated 26 September 2018",
+      "source_url": "https://indiankanoon.org/docfragment/127517806/"
+    },
+    {
+      "case_id": "puttaswamy-privacy",
+      "canonical_label": "K.S. Puttaswamy (2017)",
+      "decision_year": 2017,
+      "source_title": "Justice K.S. Puttaswamy (Retd.) v. Union of India, privacy judgment dated 24 August 2017",
+      "source_url": "https://indiankanoon.org/docfragment/91938676/"
+    },
+    {
+      "case_id": "raj-narain",
+      "canonical_label": "State of U.P. v. Raj Narain (1975)",
+      "decision_year": 1975,
+      "source_title": "State of U.P. v. Raj Narain, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+UP+v+Raj+Narain+24+January+1975"
+    },
+    {
+      "case_id": "raja-ram-pal",
+      "canonical_label": "Raja Ram Pal (2007)",
+      "decision_year": 2007,
+      "source_title": "Raja Ram Pal v. Hon'ble Speaker, Lok Sabha, judgment dated 10 January 2007",
+      "source_url": "https://indiankanoon.org/search/?formInput=Raja+Ram+Pal+10+January+2007"
+    },
+    {
+      "case_id": "rajendra-n-shah",
+      "canonical_label": "Union of India v. Rajendra N. Shah (2021)",
+      "decision_year": 2021,
+      "source_title": "Union of India v. Rajendra N. Shah, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Rajendra+N.+Shah+20+July+2021"
+    },
+    {
+      "case_id": "rameshwar-prasad",
+      "canonical_label": "Rameshwar Prasad (2006)",
+      "decision_year": 2006,
+      "source_title": "Rameshwar Prasad v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Rameshwar+Prasad+v+Union+of+India+24+January+2006"
+    },
+    {
+      "case_id": "rbi-jayantilal-mistry",
+      "canonical_label": "RBI v. Jayantilal N. Mistry (2015)",
+      "decision_year": 2015,
+      "source_title": "RBI v. Jayantilal N. Mistry, Supreme Court judgment",
+      "source_url": "https://api.sci.gov.in/jonew/judis/43192.pdf"
+    },
+    {
+      "case_id": "rc-cooper",
+      "canonical_label": "R.C. Cooper (1970)",
+      "decision_year": 1970,
+      "source_title": "R.C. Cooper v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=R+C+Cooper+v+Union+of+India+10+February+1970"
+    },
+    {
+      "case_id": "rojer-mathew",
+      "canonical_label": "Rojer Mathew v. South Indian Bank (2019)",
+      "decision_year": 2019,
+      "source_title": "Rojer Mathew v. South Indian Bank, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Rojer+Mathew+v+South+Indian+Bank+13+November+2019"
+    },
+    {
+      "case_id": "rupa-ashok-hurra",
+      "canonical_label": "Rupa Ashok Hurra (2002)",
+      "decision_year": 2002,
+      "source_title": "Rupa Ashok Hurra v. Ashok Hurra, judgment dated 10 April 2002",
+      "source_url": "https://indiankanoon.org/search/?formInput=Rupa+Ashok+Hurra+v+Ashok+Hurra+10+April+2002"
+    },
+    {
+      "case_id": "sajjan-singh",
+      "canonical_label": "Sajjan Singh (1964)",
+      "decision_year": 1964,
+      "source_title": "Sajjan Singh v. State of Rajasthan, judgment dated 30 October 1964",
+      "source_url": "https://indiankanoon.org/docfragment/1308308/"
+    },
+    {
+      "case_id": "samatha",
+      "canonical_label": "Samatha (1997)",
+      "decision_year": 1997,
+      "source_title": "Samatha v. State of Andhra Pradesh, judgment dated 11 July 1997",
+      "source_url": "https://indiankanoon.org/search/?formInput=Samatha+State+of+Andhra+Pradesh+11+July+1997"
+    },
+    {
+      "case_id": "sampat-prakash",
+      "canonical_label": "Sampat Prakash (1968)",
+      "decision_year": 1968,
+      "source_title": "Sampat Prakash v. State of Jammu and Kashmir, judgment dated 10 October 1968",
+      "source_url": "https://indiankanoon.org/search/?formInput=Sampat+Prakash+v+State+of+Jammu+and+Kashmir+10+October+1968"
+    },
+    {
+      "case_id": "sankalchand-sheth",
+      "canonical_label": "Sankalchand Himmatlal Sheth (1977)",
+      "decision_year": 1977,
+      "source_title": "Union of India v. Sankalchand Himmatlal Sheth, judgment dated 19 September 1977",
+      "source_url": "https://indiankanoon.org/search/?formInput=Sankalchand+Himmatlal+Sheth+19+September+1977"
+    },
+    {
+      "case_id": "second-judges-case",
+      "canonical_label": "Second Judges Case (1993)",
+      "decision_year": 1993,
+      "source_title": "Supreme Court Advocates-on-Record Association v. Union of India, judgment dated 6 October 1993",
+      "source_url": "https://indiankanoon.org/search/?formInput=Second+Judges+Case+6+October+1993"
+    },
+    {
+      "case_id": "section-6a",
+      "canonical_label": "In Re: Section 6A (2024)",
+      "decision_year": 2024,
+      "source_title": "In Re: Section 6A of the Citizenship Act 1955, Supreme Court judgment dated 17 October 2024",
+      "source_url": "https://indiankanoon.org/search/?formInput=In+Re+Section+6A+Citizenship+Act+17+October+2024"
+    },
+    {
+      "case_id": "shamsher-singh",
+      "canonical_label": "Shamsher Singh (1974)",
+      "decision_year": 1974,
+      "source_title": "Shamsher Singh v. State of Punjab, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shamsher+Singh+v+State+of+Punjab+23+August+1974"
+    },
+    {
+      "case_id": "shankari-prasad",
+      "canonical_label": "Shankari Prasad (1951)",
+      "decision_year": 1951,
+      "source_title": "Shankari Prasad Singh Deo v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shankari+Prasad+5+October+1951"
+    },
+    {
+      "case_id": "shankarsan-dash",
+      "canonical_label": "Shankarsan Dash (1991)",
+      "decision_year": 1991,
+      "source_title": "Shankarsan Dash v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shankarsan+Dash+Union+of+India+30+April+1991"
+    },
+    {
+      "case_id": "shreya-singhal",
+      "canonical_label": "Shreya Singhal (2015)",
+      "decision_year": 2015,
+      "source_title": "Shreya Singhal v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shreya+Singhal+v+Union+of+India+24+March+2015"
+    },
+    {
+      "case_id": "shyam-narayan-chouksey",
+      "canonical_label": "Shyam Narayan Chouksey (2018)",
+      "decision_year": 2018,
+      "source_title": "Shyam Narayan Chouksey v. Union of India, final order dated 9 January 2018",
+      "source_url": "https://indiankanoon.org/search/?formInput=Shyam+Narayan+Chouksey+9+January+2018"
+    },
+    {
+      "case_id": "sita-soren",
+      "canonical_label": "Sita Soren (2024)",
+      "decision_year": 2024,
+      "source_title": "Sita Soren v. Union of India, Supreme Court judgment dated 4 March 2024",
+      "source_url": "https://indiankanoon.org/search/?formInput=Sita+Soren+v+Union+of+India+4+March+2024"
+    },
+    {
+      "case_id": "sp-gupta",
+      "canonical_label": "S.P. Gupta v. Union of India (1981)",
+      "decision_year": 1981,
+      "source_title": "S.P. Gupta v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=S+P+Gupta+v+Union+of+India+30+December+1981"
+    },
+    {
+      "case_id": "sr-bommai",
+      "canonical_label": "S.R. Bommai (1994)",
+      "decision_year": 1994,
+      "source_title": "S.R. Bommai v. Union of India, judgment dated 11 March 1994",
+      "source_url": "https://indiankanoon.org/docfragment/139734870/"
+    },
+    {
+      "case_id": "sr-chaudhuri",
+      "canonical_label": "S.R. Chaudhuri (2001)",
+      "decision_year": 2001,
+      "source_title": "S.R. Chaudhuri v. State of Punjab, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=S+R+Chaudhuri+v+State+of+Punjab+17+August+2001"
+    },
+    {
+      "case_id": "state-of-rajasthan",
+      "canonical_label": "State of Rajasthan v. Union of India (1977)",
+      "decision_year": 1977,
+      "source_title": "State of Rajasthan v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+Rajasthan+v+Union+of+India+6+May+1977"
+    },
+    {
+      "case_id": "state-tamil-nadu-governor",
+      "canonical_label": "State of Tamil Nadu v. Governor of Tamil Nadu (2025)",
+      "decision_year": 2025,
+      "source_title": "State of Tamil Nadu v. Governor of Tamil Nadu, 2025 INSC 481, judgment dated 8 April 2025",
+      "source_url": "https://api.sci.gov.in/supremecourt/2023/44785/44785_2023_1_1501_61019_Judgement_08-Apr-2025.pdf"
+    },
+    {
+      "case_id": "subhash-chandra-agarwal",
+      "canonical_label": "Subhash Chandra Agarwal (2019)",
+      "decision_year": 2019,
+      "source_title": "CPIO, Supreme Court of India v. Subhash Chandra Agarwal, judgment dated 13 November 2019",
+      "source_url": "https://api.sci.gov.in/supremecourt/2009/36624/36624_2009_1_1502_18247_Judgement_13-Nov-2019.pdf"
+    },
+    {
+      "case_id": "subhash-desai",
+      "canonical_label": "Subhash Desai (2023)",
+      "decision_year": 2023,
+      "source_title": "Subhash Desai v. Principal Secretary, Governor of Maharashtra, judgment dated 11 May 2023",
+      "source_url": "https://indiankanoon.org/search/?formInput=Subhash+Desai+Governor+Maharashtra+11+May+2023"
+    },
+    {
+      "case_id": "subramaniam-balaji",
+      "canonical_label": "S. Subramaniam Balaji (2013)",
+      "decision_year": 2013,
+      "source_title": "S. Subramaniam Balaji v. State of Tamil Nadu, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=S+Subramaniam+Balaji+State+of+Tamil+Nadu+2013+CAG"
+    },
+    {
+      "case_id": "supreme-court-bar-association",
+      "canonical_label": "Supreme Court Bar Association (1998)",
+      "decision_year": 1998,
+      "source_title": "Supreme Court Bar Association v. Union of India, judgment dated 17 April 1998",
+      "source_url": "https://indiankanoon.org/search/?formInput=Supreme+Court+Bar+Association+v+Union+of+India+17+April+1998"
+    },
+    {
+      "case_id": "tej-prakash-pathak",
+      "canonical_label": "Tej Prakash Pathak (2024)",
+      "decision_year": 2024,
+      "source_title": "Tej Prakash Pathak v. Rajasthan High Court, 2024 INSC 847",
+      "source_url": "https://indiankanoon.org/search/?formInput=Tej+Prakash+Pathak+Rajasthan+High+Court+2024+INSC+847"
+    },
+    {
+      "case_id": "telecom-service-providers",
+      "canonical_label": "Association of Unified Telecom Service Providers of India v. Union of India (2014)",
+      "decision_year": 2014,
+      "source_title": "Association of Unified Telecom Service Providers of India v. Union of India, judgment dated 17 April 2014",
+      "source_url": "https://indiankanoon.org/doc/112886265/"
+    },
+    {
+      "case_id": "third-judges-case",
+      "canonical_label": "Third Judges Case (1998)",
+      "decision_year": 1998,
+      "source_title": "In re Special Reference No. 1 of 1998, advisory opinion dated 28 October 1998",
+      "source_url": "https://indiankanoon.org/search/?formInput=Special+Reference+No+1+of+1998+Third+Judges+Case"
+    },
+    {
+      "case_id": "thommandru-vijayalakshmi",
+      "canonical_label": "CBI v. Thommandru Hannah Vijayalakshmi (2021)",
+      "decision_year": 2021,
+      "source_title": "CBI v. Thommandru Hannah Vijayalakshmi, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=CBI+v+Thommandru+Hannah+Vijayalakshmi+2021"
+    },
+    {
+      "case_id": "tn-seshan",
+      "canonical_label": "T.N. Seshan (1995)",
+      "decision_year": 1995,
+      "source_title": "T.N. Seshan v. Union of India, judgment dated 14 July 1995",
+      "source_url": "https://indiankanoon.org/search/?formInput=T+N+Seshan+Union+of+India+14+July+1995"
+    },
+    {
+      "case_id": "vikas-gawali",
+      "canonical_label": "Vikas Kishanrao Gawali (2021)",
+      "decision_year": 2021,
+      "source_title": "Vikas Kishanrao Gawali v. State of Maharashtra, judgment dated 4 March 2021",
+      "source_url": "https://indiankanoon.org/search/?formInput=Vikas+Kishanrao+Gawali+State+of+Maharashtra+4+March+2021"
+    },
+    {
+      "case_id": "vineet-narain",
+      "canonical_label": "Vineet Narain v. Union of India (1997)",
+      "decision_year": 1997,
+      "source_title": "Vineet Narain v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Vineet+Narain+v+Union+of+India+18+December+1997"
+    },
+    {
+      "case_id": "vishaka",
+      "canonical_label": "Vishaka (1997)",
+      "decision_year": 1997,
+      "source_title": "Vishaka v. State of Rajasthan, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Vishaka+v+State+of+Rajasthan+13+August+1997"
+    },
+    {
+      "case_id": "waman-rao",
+      "canonical_label": "Waman Rao (1980)",
+      "decision_year": 1980,
+      "source_title": "Waman Rao v. Union of India, judgment dated 13 November 1980",
+      "source_url": "https://indiankanoon.org/docfragment/1124708/"
+    },
+    {
+      "case_id": "west-bengal-union-2024",
+      "canonical_label": "State of West Bengal v. Union of India (2024)",
+      "decision_year": 2024,
+      "source_title": "State of West Bengal v. Union of India, 2024 INSC 502",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+West+Bengal+v+Union+of+India+2024+INSC+502"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "polity-01",
+      "record_id": "polity-01:learner-v2:g14",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 0,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-01.json"
+    },
+    {
+      "topic_key": "polity-02",
+      "record_id": "polity-02:learner-v2:g14",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 0,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-02.json"
+    },
+    {
+      "topic_key": "polity-03",
+      "record_id": "polity-03:learner-v2:g15",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 3,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-03.json"
+    },
+    {
+      "topic_key": "polity-04",
+      "record_id": "polity-04:learner-v2:g14",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 6,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-04.json"
+    },
+    {
+      "topic_key": "polity-05",
+      "record_id": "polity-05:learner-v2:g14",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 2,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-05.json"
+    },
+    {
+      "topic_key": "polity-06",
+      "record_id": "polity-06:learner-v2:g14",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 1,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-06.json"
+    },
+    {
+      "topic_key": "polity-07",
+      "record_id": "polity-07:learner-v2:g15",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 20,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-07.json"
+    },
+    {
+      "topic_key": "polity-08",
+      "record_id": "polity-08:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 3,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 5,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-08.json"
+    },
+    {
+      "topic_key": "polity-09",
+      "record_id": "polity-09:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 3,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 3,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-09.json"
+    },
+    {
+      "topic_key": "polity-10",
+      "record_id": "polity-10:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 3,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 9,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-10.json"
+    },
+    {
+      "topic_key": "polity-11",
+      "record_id": "polity-11:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 3,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 0,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-11.json"
+    },
+    {
+      "topic_key": "polity-12",
+      "record_id": "polity-12:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 3,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 4,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-12.json"
+    },
+    {
+      "topic_key": "polity-13",
+      "record_id": "polity-13:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 0,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-13-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-13.json"
+    },
+    {
+      "topic_key": "polity-14",
+      "record_id": "polity-14:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 4,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-14-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-14.json"
+    },
+    {
+      "topic_key": "polity-15",
+      "record_id": "polity-15:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 5,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-15-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-15.json"
+    },
+    {
+      "topic_key": "polity-16",
+      "record_id": "polity-16:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 2,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-16-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-16.json"
+    },
+    {
+      "topic_key": "polity-17",
+      "record_id": "polity-17:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 3,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-17-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-17.json"
+    },
+    {
+      "topic_key": "polity-18",
+      "record_id": "polity-18:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 14,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-18-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-18.json"
+    },
+    {
+      "topic_key": "polity-19",
+      "record_id": "polity-19:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 9,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-19-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-19.json"
+    },
+    {
+      "topic_key": "polity-20",
+      "record_id": "polity-20:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 6,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-20-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-20.json"
+    },
+    {
+      "topic_key": "polity-21",
+      "record_id": "polity-21:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 7,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-21-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-21.json"
+    },
+    {
+      "topic_key": "polity-22",
+      "record_id": "polity-22:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 2,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-22-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-22.json"
+    },
+    {
+      "topic_key": "polity-23",
+      "record_id": "polity-23:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 4,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-23-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-23.json"
+    },
+    {
+      "topic_key": "polity-24",
+      "record_id": "polity-24:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 4,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-24-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-24.json"
+    },
+    {
+      "topic_key": "polity-25",
+      "record_id": "polity-25:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 4,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-25-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-25.json"
+    },
+    {
+      "topic_key": "polity-26",
+      "record_id": "polity-26:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 2,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-26-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-26.json"
+    },
+    {
+      "topic_key": "polity-27",
+      "record_id": "polity-27:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 7,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-27-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-27.json"
+    },
+    {
+      "topic_key": "polity-28",
+      "record_id": "polity-28:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 6,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-28-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-28.json"
+    },
+    {
+      "topic_key": "polity-29",
+      "record_id": "polity-29:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 2,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-29-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-29.json"
+    },
+    {
+      "topic_key": "polity-30",
+      "record_id": "polity-30:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 1,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-30-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-30.json"
+    },
+    {
+      "topic_key": "polity-31",
+      "record_id": "polity-31:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 3,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-31-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-31.json"
+    },
+    {
+      "topic_key": "polity-32",
+      "record_id": "polity-32:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 4,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-32-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-32.json"
+    },
+    {
+      "topic_key": "polity-33",
+      "record_id": "polity-33:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 1,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-33-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-33.json"
+    },
+    {
+      "topic_key": "polity-34",
+      "record_id": "polity-34:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 0,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-34.json"
+    },
+    {
+      "topic_key": "polity-35",
+      "record_id": "polity-35:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 3,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-35.json"
+    },
+    {
+      "topic_key": "polity-36",
+      "record_id": "polity-36:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 7,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-36.json"
+    },
+    {
+      "topic_key": "polity-37",
+      "record_id": "polity-37:learner-v2:g2",
+      "passed": true,
+      "layout_status": "passed",
+      "contact_sheet_count": 1,
+      "preview_count": 4,
+      "final_library_source_output_equal": true,
+      "expected_case_count": 8,
+      "errors": [],
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-37-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-37.json"
+    }
+  ]
+}

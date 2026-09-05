@@ -1,0 +1,19 @@
+{
+  "topic_key": "geography-22",
+  "generation": 2,
+  "identity": "geography-22:learner-v2:g2",
+  "status": "passed",
+  "checks": {
+    "markdown_valid": true,
+    "main_pdf_valid": true,
+    "workbook_pdf_valid": true,
+    "session_count": 15,
+    "mcq_count": 80,
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 13,
+    "mains_question_count": 6,
+    "abcd_rotation": true
+  },
+  "defects": [],
+  "published": true
+}

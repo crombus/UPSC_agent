@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "science-and-technology-04-learner-v2-2026-09-03",
+  "selection": "science-and-technology-04",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "science-and-technology-04:learner-v2:g1",
+      "topic_key": "science-and-technology-04",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Science and Technology — Subject-wide Syllabus — Nuclear Power and the Three-Stage Programme",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\science-and-technology-04_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\science-and-technology-04_Solved-Practice-Workbook_2026-09-03.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\science-and-technology-04_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\science-and-technology-04_Solved-Practice-Workbook_2026-09-03.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\assets",
+      "generated_on": "2026-09-03",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\04_Nuclear-Power-and-Three-Stage-Programme.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-04_Learning-Session.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\04_Nuclear-Power-and-Three-Stage-Programme.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\README.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\REVISION-CHART_Principles-Applications-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\ANSWER-WORTHINESS-AUDIT.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\REVISION-CHART_Principles-Applications-and-Distinctive-Features.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\03 UPSC 2024 Paper-III.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 3 3.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+        ],
+        "live_sources": [
+          "https://dae.gov.in/prototype-fast-breeder-reactor-at-kalpakkam-tamil-nadu-attains-first-criticality/ — attempted 2026-09-03; substantive DAE text confirmed PFBR first criticality on 6 April 2026, its 500 MWe rating, IGCAR design, BHAVINI execution, MOX fuel, U-238 blanket and the explicit boundary that criticality is the start of a controlled chain reaction. It was not rewritten as grid synchronisation, commercial operation or completion of Stage 2."
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\science-and-technology-04_Complete-Learning-Session_2026-09-03.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-03",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\03 UPSC 2024 Paper-III.pdf": "51f91299aef6c27c213b53762bc1390e3b0e3c3991090f805d61248a4e9e0cf7",
+          "books\\mains\\UPSC Mains 2025 GS Paper 3 3.pdf": "80f4ed13eb1545ec2502489178c2cb9ee4750d8925ec5783e747a2e5f8ec0d5a",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf": "6518b34b0850117bf0ad2d1c3bfeba997dd2967b66824e7e49585df8aa409d68",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf": "c5235bb71d1919b1de5d5c810a51b01f21e49340a586b432f024beff4b931253",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf": "a4bd4ef58e6c16af04463eb67312f0d19cfdc6b44d14d74d2727dde8333b691b",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf": "ec68c17680e62ba6b523fafdd46b8bc3a082c925b568b47a9aa2c4d6e484a7c2",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\00_Master-Framework.md": "2b36babfde788e4100b1c34774c2baa932c80b437f5e5b9904baf2f210fa3392",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\04_Nuclear-Power-and-Three-Stage-Programme.md": "49fc49f4a98cef8de1409a31244f61fee9b88747daf88b0c83e5c1197f3382ec",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\ANSWER-WORTHINESS-AUDIT.md": "b352c374de259f1f88ed9f6dba6c3c199859e1ca52d6fbc42b7e0510167c37b4",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\04_Nuclear-Power-and-Three-Stage-Programme.md": "3ee73d893c1dd84d2c59123e26b26f90e3e99fe2b72b6873eb8eb6bf309863d1",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\LEARNING-SESSION-COMMAND-INDEX.md": "e236007b9f12adadd6b9093d70822704dab7b8885c7817e1eb51712435df67d8",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-04_Learning-Session.md": "8676636785f9a4a43839785f2e617b1d758ed089d1235b2a4039156f99fc3253",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-04_Solved-Workbook.md": "e74fbd3203f1d0f81902db7120db7738518b7cbcc679b03767924105d674e7ae",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "d3c83a431b07b4f9876cc1bd299917da1c3a00f35e63029e1e7b2296224de790",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\README.md": "55a1fece0f88d5580186d4dfdfb406627cc6177b0d5510b854f1a8ce2b9f588f",
+          "upsc-ai-kit\\knowledge\\Science-and-Technology\\REVISION-CHART_Principles-Applications-and-Distinctive-Features.md": "9c08e01b9f85f60083d469bc117d48cd17986dca06fd5cbb9ccbd93f05b92913",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-04-2026-09-03-sequential.json": "101bf9f1e26ef3ea98a5f940a34fc5067de834ffc241d254670b4b35b90496b2",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Science-and-Technology\\science-and-technology-04.json": "d712ac7ec164ce81ae8df7cc3b11de96813b1bf73219149008f7e5bc6ef025e5",
+          "upsc-ai-kit\\manifests\\v2\\science-and-technology--subject-wide-syllabus.json": "2d04696013d340a1dcebd16f474c9ddfdb711f87bca384b373b313c60f42e984",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with A/B/C/D at 20 each; verified routed PYQ concepts; six solved original Mains answers weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "DAE substantive text fetched on 2026-09-03 confirms PFBR first criticality and its bounded technical/institutional claims. It does not establish grid synchronisation, commercial operation, breeder-fleet deployment or Stage-3 completion.",
+        "pyq_status_note": "Audited ledgers route a 2020 IAEA-safeguards objective concept here. The package adds original practice but invents no direct Mains PYQ or objective key.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "8997601345c8c6ab474465400fd0dad3f3da87bf58ffb9cac778fbd8b9ac85c2"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "science-and-technology-04:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\science-and-technology-04_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "67dc30362a55299e46b25ff20513fff0bfcb8e05215f0ce06c2050198c6ff05c",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-04\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-04-2026-09-03-sequential.json",
+        "ascii_master_spec_sha256": "101bf9f1e26ef3ea98a5f940a34fc5067de834ffc241d254670b4b35b90496b2"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

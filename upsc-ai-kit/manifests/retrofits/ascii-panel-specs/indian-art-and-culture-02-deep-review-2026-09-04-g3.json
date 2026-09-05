@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-02",
+      "display_title": "Mauryan, Buddhist, Jain and Rock-Cut Heritage",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mauryan art classification",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "COURT -> pillars and palace architecture",
+            "NON-COURTLY -> yaksha, terracotta and donors",
+            "CROSSOVER -> royal Ajivika cave dedications",
+            "VERDICT -> useful categories, porous boundary",
+            "MUST REMEMBER: The Mauryan-to-rock-cut sequence distinguishes Ashokan pillars and",
+            "  Barabar-Nagarjuni Ajivika caves, stupa accretion at Sanchi, chaitya-vihara functions, Ajanta",
+            "  phases, Ellora's plural complex and later Jain and Shaiva sites.",
+            "MUST REMEMBER: The Mauryan-to-rock-cut sequence distinguishes Ashokan pillars and",
+            "  Barabar-Nagarjuni Ajivika caves, stupa accretion at Sanchi, chaitya-vihara functions, Ajanta",
+            "  phases, Ellora's plural complex and later Jain and Shaiva sites."
+          ],
+          "source_references": [
+            "Court art and category limits",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ashokan pillar system",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CHUNAR SANDSTONE -> monolithic shaft",
+            "POLISH -> imperial finish",
+            "CAPITAL -> lion, bull or other animal forms",
+            "INSCRIPTION -> message varies by site"
+          ],
+          "source_references": [
+            "Ashokan pillars as communication",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Barabar evidence card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PLACE -> Jehanabad district, Bihar",
+            "DATE -> third century BCE",
+            "PATRONS -> Ashoka and Dasharatha",
+            "SECT -> Ajivikas, not Buddhists"
+          ],
+          "source_references": [
+            "Barabar, Nagarjuni and the Ajivikas",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Stupa anatomy",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ANDA -> relic mound",
+            "VEDIKA + PATH -> boundary and movement",
+            "HARMIKA + CHATTRA -> summit and honour",
+            "TORANA -> narrative gateway"
+          ],
+          "source_references": [
+            "Stupa origin and anatomy",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sanchi accretion",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAURYAN -> brick core and pillar",
+            "SUNGA -> enlargement and stone facing",
+            "SATAVAHANA PERIOD -> carved toranas",
+            "GUPTA -> shrines and later additions"
+          ],
+          "source_references": [
+            "Sanchi as a layered monument",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Chaitya versus vihara",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHAITYA -> prayer and assembly",
+            "CHAITYA PLAN -> apse, columns and stupa",
+            "VIHARA -> monastic residence",
+            "RULE -> function explains form"
+          ],
+          "source_references": [
+            "Chaitya and vihara",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ajanta identifier",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WAGHORA RIVER -> horseshoe gorge",
+            "SAHYADRI -> rock-cut setting",
+            "EARLY PHASE -> Satavahana-linked",
+            "LATER PHASE -> Vakataka florescence"
+          ],
+          "source_references": [
+            "Ajanta's landscape and phases",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ellora shared hillside",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BUDDHIST -> monasteries and worship halls",
+            "BRAHMANICAL -> Kailasha among major works",
+            "JAIN -> Digambara cave group",
+            "CHRONOLOGY -> broad sequence with overlap"
+          ],
+          "source_references": [
+            "Ellora and the Kailasha monolith",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Inscription evidence test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TEXT -> names patron or claim",
+            "CONTEXT -> monument and language",
+            "GENRE -> grant, edict or eulogy",
+            "SILENCE -> omission limits neutrality"
+          ],
+          "source_references": [
+            "Udayagiri-Khandagiri",
+            "Inscriptions and evidence limits",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Jain architecture scales",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CAVE -> Udayagiri-Khandagiri and Ellora",
+            "TEMPLE -> Dilwara, Ranakpur and Khajuraho",
+            "COLOSSUS -> Shravanabelagola ritual focus",
+            "LANDSCAPE -> Palitana and Shikharji",
+            "CLOSE DISTINCTION: A chaitya is a prayer or assembly hall and a vihara is a residence; a stupa",
+            "  has relic-votive functions and pre-Buddhist antecedents, while Sanchi's Ashokan core, later",
+            "  enlargement, gateways and additions are separate layers.",
+            "CLOSE DISTINCTION: A chaitya is a prayer or assembly hall and a vihara is a residence; a stupa",
+            "  has relic-votive functions and pre-Buddhist antecedents, while Sanchi's Ashokan core, later",
+            "  enlargement, gateways and additions are separate layers."
+          ],
+          "source_references": [
+            "Jain architecture beyond caves",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Image-programme transition",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "EARLY -> Buddha represented by symbols",
+            "STUPA -> narrative and aniconic programme",
+            "LATER -> anthropomorphic Buddha images",
+            "SHRINE -> figural image joins sacred focus",
+            "EVIDENCE LIMIT: Hathigumpha and donor inscriptions identify claims and patrons but are",
+            "  selective records; Elephanta attribution remains debated and Ellora's Buddhist, Brahmanical",
+            "  and Jain phases overlap.",
+            "EVIDENCE LIMIT: Hathigumpha and donor inscriptions identify claims and patrons but are",
+            "  selective records; Elephanta attribution remains debated and Ellora's Buddhist, Brahmanical",
+            "  and Jain phases overlap."
+          ],
+          "source_references": [
+            "Aniconic and iconic programmes",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Rock-cut answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> excavated, durable architecture",
+            "EVIDENCE -> plan, patron, inscription and style",
+            "COMPARE -> Barabar, Ajanta and Ellora",
+            "QUALIFY -> durable patronage is not all social life"
+          ],
+          "source_references": [
+            "Verified PYQ answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\02_Mauryan-Buddhist-Jain-and-Rock-Cut-Heritage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g2\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-02\\g3\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

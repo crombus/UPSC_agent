@@ -1,0 +1,762 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+  "subject": "Philosophy",
+  "title": "RELIGIOUS PLURALISM AND THE PROBLEM OF ABSOLUTE TRUTH",
+  "short_route": "FOUR AXES OF DIVERSITY → EXCLUSIVISM-INCLUSIVISM-PLURALISM → JOHN HICK → VEDĀNTIC MODELS → JAIN MANY-SIDEDNESS → TOLERANCE AND RELIGIOUS FREEDOM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g13 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-09-ascii-g13-2026-09-03.json",
+  "ascii_spec_sha256": "77b6264279a0fb570ecca34b497f513fcc67094460a1adc025cb1a14aec5a54f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR AXES OF DIVERSITY",
+      "structural_type": "pluralism coordinate map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FOUR AXES OF DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES TRUTH",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTRADICTORY DOCTRINAL CLAIMS SALVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO CAN ATTAIN LIBERATION/SALVATION?",
+          "role": "evidence"
+        },
+        {
+          "text": "EPISTEMIC STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "ARE OTHERS REASONABLE/JUSTIFIED?",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIC STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT FREEDOM AND EQUALITY ARE OWED?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES truth: contradictory doctrinal claims salvation: who can attain liberation/salvation?",
+        "epistemic status: are others reasonable/justified?",
+        "civic status: what freedom and equality are owed?",
+        "PLURALISM can answer one axis without answering all tolerance is a political/moral practice",
+        "it is not yet a metaphysical claim that all religions are equally true."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES truth: contradictory doctrinal claims salvation: who can attain liberation/salvation?",
+            "epistemic status: are others reasonable/justified?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "civic status: what freedom and equality are owed?",
+            "PLURALISM can answer one axis without answering all tolerance is a political/moral practice"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "it is not yet a metaphysical claim that all religions are equally true.",
+            "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES truth: contradictory doctrinal claims salvation: who can attain liberation/salvation?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Separate truth, salvation, epistemic access and civic coexistence; success on one axis neither proves nor requires pluralism on the others.",
+      "source_references": [
+        "A. Four axes"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EXCLUSIVISM-INCLUSIVISM-PLURALISM",
+      "structural_type": "E-I-P branching tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ONE TRADITION ALONE HAS SAVING TRUTH",
+          "role": "primary"
+        },
+        {
+          "text": "ONE NORM IS FINAL, BUT GRACE/TRUTH OPERATES BEYOND EXPLICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTIPLE TRADITIONS ARE VALID RESPONSES/ROUTES TO ULTIMATE REALITY STRENGTHS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSIVISM PRESERVES DETERMINATE TRUTH; INCLUSIVISM WIDENS SALVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PLURALISM EXPLAINS DIVERSITY AND SUPPORTS HUMILITY COSTS",
+          "role": "primary"
+        },
+        {
+          "text": "PATRONISING ABSORPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "FLATTENING REAL CONTRADICTIONS EACH MODEL MUST STATE TRUTH CRITERION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "EXCLUSIVISM: one tradition alone has saving truth",
+        "INCLUSIVISM: one norm is final, but grace/truth operates beyond explicit membership",
+        "PLURALISM: multiple traditions are valid responses/routes to ultimate reality strengths: exclusivism preserves determinate truth",
+        "inclusivism widens salvation",
+        "pluralism explains diversity and supports humility costs: exclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "EXCLUSIVISM: one tradition alone has saving truth",
+            "INCLUSIVISM: one norm is final, but grace/truth operates beyond explicit membership",
+            "PLURALISM: multiple traditions are valid responses/routes to ultimate reality strengths: exclusivism preserves determinate truth"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "inclusivism widens salvation",
+            "pluralism explains diversity and supports humility costs: exclusion",
+            "patronising absorption"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "flattening real contradictions each model must state truth criterion, salvation criterion and view of disagreement."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Exclusivism reserves a decisive norm, inclusivism fulfils others through one centre and pluralism permits several authentic responses or ends.",
+      "source_references": [
+        "B. E-I-P map"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "JOHN HICK",
+      "structural_type": "Real-to-traditions map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JOHN HICK",
+          "role": "primary"
+        },
+        {
+          "text": "THE REAL AN SICH (NOUMENAL, BEYOND FULL CONCEPTUAL CAPTURE)",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL REPRESENTATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD, ALLAH, ĪŚVARA",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-PERSONAL REPRESENTATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "BRAHMAN, NIRVĀṆA, EMPTINESS RELIGIONS ASSESSED BY TRANSFORMATION FROM SELF-CENTREDNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "KANTIAN DISTINCTION EXPLAINS DIVERSITY WITHOUT DECLARING ALL PROPOSITIONS IDENTICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "HICK IMPOSES A META-THEORY; THE REAL BECOMES UNKNOWABLE; TRANSFORMATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE REAL AN SICH (noumenal, beyond full conceptual capture) culturally shaped human responses",
+        "personal representations: God, Allah, Īśvara",
+        "non-personal representations: Brahman, nirvāṇa, emptiness religions assessed by transformation from self-centredness to Reality-centredness",
+        "KANTIAN distinction explains diversity without declaring all propositions identical objections: Hick imposes a meta-theory",
+        "the Real becomes unknowable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "THE REAL AN SICH (noumenal, beyond full conceptual capture) culturally shaped human responses",
+            "personal representations: God, Allah, Īśvara"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "non-personal representations: Brahman, nirvāṇa, emptiness religions assessed by transformation from self-centredness to Reality-centredness",
+            "KANTIAN distinction explains diversity without declaring all propositions identical objections: Hick imposes a meta-theory"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "the Real becomes unknowable",
+            "transformation test is vague."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Hick's Real explains conditioned manifestations, but noumenal unknowability, self-reference and identity-redescription pressure the meta-theory.",
+      "source_references": [
+        "C. Hick"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VEDĀNTIC MODELS",
+      "structural_type": "Indian unity-difference comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VEDĀNTIC MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "ONE BRAHMAN; DIFFERENCES BELONG TO EMPIRICAL STANDPOINT",
+          "role": "outcome"
+        },
+        {
+          "text": "MANY PATHS MAY PREPARE FOR NON-DUAL KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "REAL PLURALITY WITHIN BRAHMAN'S UNITY; DEVOTION TO PERSONAL GOD",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVERSE RELIGIOUS PATHS CAN REALISE ONE ULTIMATE",
+          "role": "primary"
+        },
+        {
+          "text": "ABSOLUTE-TRUTH PROBLEM IF ALL VIEWS ARE PARTIAL, IS “ALL",
+          "role": "outcome"
+        },
+        {
+          "text": "REPLY REQUIRES STANDPOINT DISCIPLINE, NOT EFFORTLESS EQUIVALENCE OF INCOMPATIBLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ADVAITA: one Brahman; differences belong to empirical standpoint",
+        "many paths may prepare for non-dual knowledge",
+        "RĀMĀNUJA: real plurality within Brahman's unity; devotion to personal God remains final",
+        "RĀMAKṚṢṆA/VIVEKĀNANDA: diverse religious paths can realise one ultimate",
+        "ABSOLUTE-TRUTH PROBLEM if all views are partial, is “all are partial” itself absolute?"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ADVAITA: one Brahman; differences belong to empirical standpoint",
+          "RĀMĀNUJA: real plurality within Brahman's unity; devotion to personal God remains final",
+          "ABSOLUTE-TRUTH PROBLEM if all views are partial, is “all are partial” itself absolute?"
+        ],
+        [
+          "many paths may prepare for non-dual knowledge",
+          "RĀMAKṚṢṆA/VIVEKĀNANDA: diverse religious paths can realise one ultimate",
+          "reply requires standpoint discipline, not effortless equivalence of incompatible claims."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ADVAITA: one Brahman; differences belong to empirical standpoint",
+            "many paths may prepare for non-dual knowledge"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RĀMĀNUJA: real plurality within Brahman's unity; devotion to personal God remains final",
+            "RĀMAKṚṢṆA/VIVEKĀNANDA: diverse religious paths can realise one ultimate"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "ABSOLUTE-TRUTH PROBLEM if all views are partial, is “all are partial” itself absolute?",
+            "reply requires standpoint discipline, not effortless equivalence of incompatible claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Vivekananda and Vedanta support convergence and acceptance, but one neo-Vedantic framework must not erase distinct doctrines or ends.",
+      "source_references": [
+        "D. Vedāntic pluralism",
+        "E. Absolute truth"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "JAIN MANY-SIDEDNESS",
+      "structural_type": "anekānta dialogue map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JAIN MANY-SIDEDNESS",
+          "role": "primary"
+        },
+        {
+          "text": "REALITY HAS MANY ASPECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH FINITE STATEMENT ARISES FROM A STANDPOINT",
+          "role": "comparison"
+        },
+        {
+          "text": "PREDICATE CONDITIONALLY — IN A CERTAIN RESPECT PLURALIST USE",
+          "role": "evidence"
+        },
+        {
+          "text": "RIVAL RELIGIONS MAY DISCLOSE DIFFERENT ASPECTS WITHOUT EXHAUSTIVE POSSESSION",
+          "role": "primary"
+        },
+        {
+          "text": "EPISTEMIC HUMILITY + NON-VIOLENCE IN JUDGEMENT LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "CONTRADICTIONS ARE RECONCILED ONLY IF RESPECTS GENUINELY DIFFER",
+          "role": "comparison"
+        },
+        {
+          "text": "SYĀDVĀDA CANNOT SIMPLY PRONOUNCE EVERY DOCTRINE TRUE IN THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANEKĀNTAVĀDA: reality has many aspects",
+        "NAYAVĀDA: each finite statement arises from a standpoint",
+        "SYĀDVĀDA: predicate conditionally — in a certain respect pluralist use: rival religions may disclose different",
+        "possession strength: epistemic humility + non-violence in judgement limit: contradictions are reconciled only if respects",
+        "syādvāda cannot simply pronounce every doctrine true in the same sense."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ANEKĀNTAVĀDA: reality has many aspects",
+            "NAYAVĀDA: each finite statement arises from a standpoint"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SYĀDVĀDA: predicate conditionally — in a certain respect pluralist use: rival religions may disclose different aspects without exhaustive",
+            "possession strength: epistemic humility + non-violence in judgement limit: contradictions are reconciled only if respects genuinely differ"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "syādvāda cannot simply pronounce every doctrine true in the same sense.",
+            "ANEKĀNTAVĀDA: reality has many aspects"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Jain many-sidedness qualifies assertions by standpoint and supports humility without making contradictions true in the same respect.",
+      "source_references": [
+        "F. Jain many-sidedness"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TOLERANCE AND RELIGIOUS FREEDOM",
+      "structural_type": "civic ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TOLERANCE AND RELIGIOUS FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "REFRAIN FROM COERCION DESPITE DISAGREEMENT RESPECT",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNISE EQUAL STANDING",
+          "role": "comparison"
+        },
+        {
+          "text": "RECIPROCAL REASON-GIVING FREEDOM",
+          "role": "evidence"
+        },
+        {
+          "text": "BELIEF, PRACTICE, CHANGE OF RELIGION, NON-BELIEF, ASSOCIATION",
+          "role": "primary"
+        },
+        {
+          "text": "LIMITS COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "HARM TO RIGHTS MAY BE REGULATED BUT OFFENCE OR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TOLERANCE: refrain from coercion despite disagreement respect: recognise equal standing",
+        "dialogue: reciprocal reason-giving freedom: belief, practice, change of religion, non-belief, association",
+        "LIMITS coercion",
+        "harm to rights may be regulated but offence or theological falsity alone is not sufficient",
+        "principled pluralism protects persons and conscience, not every practice from criticism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "TOLERANCE: refrain from coercion despite disagreement respect: recognise equal standing",
+            "dialogue: reciprocal reason-giving freedom: belief, practice, change of religion, non-belief, association"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMITS coercion",
+            "harm to rights may be regulated but offence or theological falsity alone is not sufficient ground for suppression"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "principled pluralism protects persons and conscience, not every practice from criticism.",
+            "TOLERANCE: refrain from coercion despite disagreement respect: recognise equal standing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Tolerance and freedom secure equal civic standing under disagreement; they do not prove equal religious truth or salvation.",
+      "source_references": [
+        "G. Tolerance",
+        "H. Religious freedom"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONFLICT, UNIFICATION AND DEEP DISAGREEMENT",
+      "structural_type": "dialogue-convergence map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONFLICT, UNIFICATION AND DEEP DISAGREEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CONFLICT SOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSIVE REVELATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SACRED HISTORY",
+          "role": "evidence"
+        },
+        {
+          "text": "GRIEVANCE RESPONSES",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON ETHICAL CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARATIVE THEOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL NEUTRALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONFLICT SOURCES: exclusive revelation",
+        "sacred history",
+        "grievance responses: syncretism",
+        "common ethical core",
+        "comparative theology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CONFLICT SOURCES: exclusive revelation",
+            "sacred history",
+            "grievance responses: syncretism"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "common ethical core",
+            "comparative theology",
+            "legal neutrality"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DEEP DISAGREEMENT persists because standards of evidence are tradition-shaped humility != relativism: give reasons, admit fallibility, seek overlap,",
+            "preserve dissent objections to pluralism: self-refuting, imperial meta-theory, doctrinal dilution reply: modest pluralism can defend equal civic respect",
+            "without equalising every truth claim."
+          ]
+        }
+      ],
+      "mechanism_strip": "DEEP DISAGREEMENT persists because standards of evidence are tradition-shaped humility != relativism: give reasons, admit fallibility, seek overlap, preserve dissent objections to pluralism: self-refuting, imperial meta-theory, doctrinal dilution reply: modest pluralism can defend equal civic respect without equalising every truth claim.",
+      "answer_line": "Deep disagreement explains persistent divergence and makes dialogue, fallibilism and explicit frameworks rational duties rather than proof of relativism.",
+      "source_references": [
+        "I. Conflict and unification",
+        "J. Deep disagreement",
+        "K. Strong objections"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE",
+      "structural_type": "same-axis comparative synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP EXCLUSIVISM/INCLUSIVISM/PLURALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPLAIN HICK EXACTLY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARE ADVAITA/RĀMĀNUJA/JAIN ANEKĀNTA",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST ABSOLUTE-TRUTH OBJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVE FROM METAPHYSICAL DIVERSITY TO TOLERANCE/FREEDOM WITH LIMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFIED CONCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE axis → map exclusivism/inclusivism/pluralism → explain Hick exactly",
+        "compare Advaita/Rāmānuja/Jain anekānta → test absolute-truth objection",
+        "move from metaphysical diversity to tolerance/freedom with limits",
+        "qualified conclusion",
+        "CLOSE: defensible pluralism is neither “all religions say the same” nor relativism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE axis → map exclusivism/inclusivism/pluralism → explain Hick exactly",
+            "compare Advaita/Rāmānuja/Jain anekānta → test absolute-truth objection"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "move from metaphysical diversity to tolerance/freedom with limits",
+            "qualified conclusion"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CLOSE: defensible pluralism is neither “all religions say the same” nor relativism",
+            "it combines truth-seeking, fallibilism, transformative comparison and equal civic liberty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Defensible pluralism preserves truth constraints, acknowledges hard contradictions and separates metaphysical theory from civic respect.",
+      "source_references": [
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE STATEMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSIVISM MAKES ONE TRADITION'S DECISIVE TRUTH/SALVATION CLAIM UNIQUELY VALID",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUSIVISM GRANTS TRUTH OR SALVATION BEYOND IT WHILE INTERPRETING",
+          "role": "primary"
+        },
+        {
+          "text": "EXCLUSIVISM APPEALS TO DETERMINATE REVELATION AND NON-CONTRADICTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "INCLUSIVISM ADDS UNIVERSALITY OF DIVINE GRACE WHILE PRESERVING NORMATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESUPPOSITION. CAUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Doctrine statement.",
+            "Exclusivism makes one tradition's decisive truth/salvation claim uniquely valid",
+            "inclusivism grants truth or salvation beyond it while interpreting that success through the home tradition."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Argument.",
+            "Exclusivism appeals to determinate revelation and non-contradiction.",
+            "Inclusivism adds universality of divine grace while preserving normative priority.",
+            "Presupposition. CAUTION: One revelation has privileged warrant, and salvation can be specified independently enough to compare traditions."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Distinction. Inclusivism is not pluralism: others are included on terms set by the privileged tradition.",
+            "Canonical example. Rahner's \"anonymous Christian\" is a standard inclusivist model.",
+            "Objection → reply.",
+            "CAUTION: Inclusivism appears patronising."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

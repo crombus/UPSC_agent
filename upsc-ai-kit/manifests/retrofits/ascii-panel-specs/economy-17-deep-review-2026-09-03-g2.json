@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-17",
+      "display_title": "MSMEs, PLI, Semiconductors and Manufacturing Strategy",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "MSME classification clock",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "1 JULY 2020 -> earlier composite thresholds",
+            "21 MARCH 2025 -> S.O. 1364(E)",
+            "1 APRIL 2025 -> revised thresholds effective",
+            "ALWAYS attach investment + turnover + vintage",
+            "MUST REMEMBER: MSME, PLI, semiconductor and manufacturing strategies address scale,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Current threshold matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MICRO -> 2.5 investment / 10 turnover",
+            "SMALL -> 25 investment / 100 turnover",
+            "MEDIUM -> 125 investment / 500 turnover",
+            "UNIT -> Rs crore; both ceilings apply"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "MSME constraint map",
+          "structural_type": "problem-tree",
+          "ascii_lines": [
+            "IDENTITY -> Udyam",
+            "COLLATERAL RISK -> CGTMSE",
+            "RECEIVABLES DELAY -> TReDS",
+            "CAPABILITY -> clusters + standards + technology"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "TReDS transaction rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MSME SUPPLIER -> invoice",
+            "BUYER -> accepts receivable",
+            "FINANCIER -> discounts accepted claim",
+            "PLATFORM -> M1xchange / other RBI-regulated TReDS"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PLI status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SCHEME OUTLAY",
+            "-> APPLICANT SELECTION",
+            "-> ANNOUNCED / ACTUAL INVESTMENT",
+            "-> VERIFIED OUTPUT -> DISBURSEMENT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PLI scorecard",
+          "structural_type": "evaluation-board",
+          "ascii_lines": [
+            "ADDITIONAL INVESTMENT + OUTPUT",
+            "DOMESTIC VALUE + PRODUCTIVITY",
+            "JOBS + EXPORTS",
+            "SUPPLIER / R&D SPILLOVERS - FISCAL COST"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Anchor-supplier bridge",
+          "structural_type": "ecosystem-flow",
+          "ascii_lines": [
+            "LARGE ANCHOR FIRM",
+            "-> QUALITY / COST / DELIVERY REQUIREMENTS",
+            "-> MSME SUPPLIER UPGRADING",
+            "-> BROADER DOMESTIC SPILLOVERS"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Semiconductor chain",
+          "structural_type": "value-chain-map",
+          "ascii_lines": [
+            "DESIGN + IP",
+            "-> MATERIALS + EQUIPMENT",
+            "-> WAFER FABRICATION",
+            "-> ATMP / OSAT -> DOWNSTREAM ELECTRONICS"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Fab versus packaging",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FAB -> manufactures wafers",
+            "ATMP / OSAT -> assembly + test + mark + package",
+            "DESIGN -> architecture + IP",
+            "ASSEMBLY -> final electronics; not automatically a fab"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Fab enabling ecosystem",
+          "structural_type": "input-wheel",
+          "ascii_lines": [
+            "RELIABLE POWER + ULTRA-PURE WATER",
+            "PROCESS TALENT + TECHNOLOGY PARTNER",
+            "CLEAN LOGISTICS + MATERIALS",
+            "DEMAND + SUPPLIERS + LONG GESTATION",
+            "CLOSE DISTINCTION: MSME classification is not informality, registration is not survival,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Domestic-value trap",
+          "structural_type": "cause-effect-board",
+          "ascii_lines": [
+            "GROSS OUTPUT RISES",
+            "BUT HIGH-VALUE INPUTS MAY REMAIN IMPORTED",
+            "-> SHALLOW LOCAL VALUE ADDITION",
+            "-> MEASURE stage-wise capability",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use current notified thresholds/status only..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Manufacturing answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY firm + bind constraint",
+            "MATCH instrument to finance / scale / technology",
+            "TRACE semiconductor stages and status",
+            "EVALUATE additionality + spillovers + exit rules"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-17\\g2\\economy-17_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

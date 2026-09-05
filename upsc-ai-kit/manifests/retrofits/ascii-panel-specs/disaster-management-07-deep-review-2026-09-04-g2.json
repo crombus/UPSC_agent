@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-07",
+      "display_title": "Cyclones, Storm Surge and Coastal Preparedness",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Compound cyclone hazard map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "WIND -> structure debris power telecom",
+            "RAIN -> riverine flash pluvial urban flood",
+            "STORM SURGE + WAVES -> coastal inundation erosion",
+            "CASCADE -> transport health water and livelihoods"
+          ],
+          "source_references": [
+            "Compound cyclone hazard",
+            "Wind hazard",
+            "Rainfall hazard",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cyclogenesis boundary",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WARM WATER + INSTABILITY + MOISTURE",
+            "CORIOLIS + DISTURBANCE + LIMITED SHEAR",
+            "CYCLONIC SYSTEM",
+            "DM FOCUS -> exposure warning action continuity"
+          ],
+          "source_references": [
+            "Cyclogenesis boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Coastal water firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STORM SURGE -> cyclone wind and pressure",
+            "TIDE -> astronomical gravitational cycle",
+            "TSUNAMI -> sudden water displacement",
+            "TOTAL WATER LEVEL -> interacting but distinct components"
+          ],
+          "source_references": [
+            "Storm surge",
+            "Surge tide tsunami firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "IMD information rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 OBSERVE / ANALYSE",
+            "2 CLASSIFY / FORECAST TRACK AND INTENSITY",
+            "3 ISSUE IMPACT AND HAZARD INFORMATION",
+            "4 UPDATE AS UNCERTAINTY CHANGES"
+          ],
+          "source_references": [
+            "IMD classification",
+            "Forecast and warning",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Colour-stage matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "GREEN / YELLOW / ORANGE / RED -> ACTION LEVEL",
+            "WATCH / ALERT / WARNING / POST-LANDFALL -> BULLETIN STAGE",
+            "COLOUR != LEAD-TIME SEQUENCE",
+            "BOTH -> require local action protocol"
+          ],
+          "source_references": [
+            "Action codes and bulletin stages",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Warning-to-evacuation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "OFFICIAL FORECAST -> AREA DECISION",
+            "TRANSPORT + ROUTE + LIVESTOCK / ASSET PLAN",
+            "ACCESSIBLE SHELTER + REGISTRATION",
+            "ALL CLEAR / RETURN -> COMPETENT AUTHORITY"
+          ],
+          "source_references": [
+            "Evacuation decision",
+            "Last-mile preparedness",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Shelter readiness test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SAFE SITE AND ACCESS?",
+            "WATER SANITATION POWER ACCESSIBILITY?",
+            "TRAINED MANAGEMENT AND MAINTENANCE?",
+            "NO -> ASSET EXISTS BUT READINESS UNPROVEN"
+          ],
+          "source_references": [
+            "Cyclone shelters",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Critical-service web",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "EOC / HOSPITAL / RESCUE",
+            "POWER / WATER / TELECOM",
+            "ROAD / PORT / SUPPLY CHAIN",
+            "REDUNDANCY -> ASSESS -> RESTORE"
+          ],
+          "source_references": [
+            "Critical-service continuity",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Housing-to-ecosystem portfolio",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HOUSING -> siting code compliance maintenance",
+            "INFRASTRUCTURE -> lifeline hardening and redundancy",
+            "ECOSYSTEM -> mangrove dune wetland protection",
+            "RULE -> layered defence with residual risk"
+          ],
+          "source_references": [
+            "Resilient housing",
+            "Coastal ecosystems",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "NCRMP status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PROJECT APPROVAL -> ASSET CREATION",
+            "PHASE COMPLETION -> STATE / LOCAL HAND-OFF",
+            "OPERATION + MAINTENANCE + DRILLS",
+            "CURRENT READINESS -> needs separate evidence",
+            "MUST REMEMBER: Cyclone disaster risk joins wind, storm surge, heavy rainfall, waves,..."
+          ],
+          "source_references": [
+            "NCRMP status",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-07_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Livelihood recovery loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "WARNING -> BOAT GEAR LIVESTOCK AND MARKET ACTION",
+            "IMPACT -> RELIEF + SOCIAL PROTECTION",
+            "REPAIR / REOPEN -> SAFER CONDITIONS",
+            "BUILD BACK BETTER -> REDUCE FUTURE EXPOSURE",
+            "CLOSE DISTINCTION: Cyclone category is not storm-surge height; forecast landfall is not..."
+          ],
+          "source_references": [
+            "Livelihood preparedness",
+            "Build Back Better",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-07_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Cyclone answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE COMPOUND HAZARD -> SEPARATE SURGE TIDE TSUNAMI",
+            "MAP IMD CLASSIFICATION FORECAST COLOUR AND BULLETIN STAGE",
+            "CONNECT EVACUATION SHELTER LIFELINES HOUSING AND ECOSYSTEMS",
+            "ADD LIVELIHOODS BBB MAINTENANCE AND OUTCOME QUALIFICATION",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use IMD terminology and timestamped..."
+          ],
+          "source_references": [
+            "Differentiated coastal risk",
+            "Warning-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-07\\g2\\disaster-management-07_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-07_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "scope": "Geography learner-v2 Part B \u2014 Topics 31, 33, 34, 35, 36 and 37",
+  "date": "2026-09-01",
+  "variant": "learner-v2",
+  "section": {
+    "key": "part-b-human-economic-and-regional-geography",
+    "name": "Part B \u2014 Human, Economic and Regional Geography",
+    "manifest": "upsc-ai-kit\\manifests\\v2\\geography--part-b-human-economic-and-regional-geography.json",
+    "pilot_manifest_inspected": "upsc-ai-kit\\manifests\\v2\\geography--human-economic-geography-pilot.json",
+    "pilot_manifest_note": "The pilot manifest is a completed-topic index for geography-28, geography-30 and geography-32 only. It is explicitly not the complete Part B section, so the six requested topics were resolved against the full Part B section manifest and the live topic catalogue."
+  },
+  "architecture": "tools/generate_geography_common.py sequential authoring engine as repaired for the geography-26/27/29 generation 3 rebuild; no lightweight foundation format was used.",
+  "source_order": [
+    "repository Markdown Basic and Advanced owners plus cross-topic Geography Markdown",
+    "OCR-searchable local Geography books retained as supplementary evidence",
+    "verified live official sources for current linkages only",
+    "Qdrant not used; it remained an optional fallback"
+  ],
+  "generation_determination": "Each topic's next learner-v2 generation was read from live tracker history. geography-31 held geography-31:legacy-v1:g1 and therefore advanced to learner-v2 g2 superseding it. geography-33, 34, 35, 36 and 37 held no prior record of any variant, so they take learner-v2 g1 with supersedes null, matching tools/refresh_all_v2_learning_sessions.py next_new_topic_generation and the 93 existing learner-v2 g1 records in the tracker.",
+  "topics": [
+    {
+      "topic_key": "geography-31",
+      "display_title": "Mineral and Energy Resources: World and India",
+      "record_id": "geography-31:learner-v2:g2",
+      "generation": 2,
+      "supersedes": "geography-31:legacy-v1:g1",
+      "sessions": 15,
+      "mcqs": 80,
+      "answer_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "solved_pyq_cards": 5,
+      "pyq_ownership": "Five verified GS-I Mains demands routed to this owner: 2018 Q5, 2021 Q5, 2021 Q16, 2022 Q6 and 2025 Q14.",
+      "notes_pages": 68,
+      "workbook_pages": 34,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-33",
+      "display_title": "Transport, Trade and the Indian Space Programme",
+      "record_id": "geography-33:learner-v2:g1",
+      "generation": 1,
+      "supersedes": null,
+      "sessions": 15,
+      "mcqs": 80,
+      "answer_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "solved_pyq_cards": 2,
+      "pyq_ownership": "Two verified GS-I Mains demands routed to this owner: 2019 Q16 and 2022 Q16.",
+      "notes_pages": 68,
+      "workbook_pages": 34,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-34",
+      "display_title": "World Regional Geography: Continents and Countries",
+      "record_id": "geography-34:learner-v2:g1",
+      "generation": 1,
+      "supersedes": null,
+      "sessions": 15,
+      "mcqs": 80,
+      "answer_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "solved_pyq_cards": 0,
+      "pyq_ownership": "No direct Mains PYQ is routed to this owner. Routed Prelims demand is recorded transparently with no key or option letter inferred.",
+      "notes_pages": 71,
+      "workbook_pages": 34,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-35",
+      "display_title": "Indian Political Geography: Boundaries and Neighbours",
+      "record_id": "geography-35:learner-v2:g1",
+      "generation": 1,
+      "supersedes": null,
+      "sessions": 15,
+      "mcqs": 80,
+      "answer_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "solved_pyq_cards": 0,
+      "pyq_ownership": "No direct Mains PYQ is routed to this owner. Routed Prelims demand is recorded transparently with no key or option letter inferred.",
+      "notes_pages": 70,
+      "workbook_pages": 34,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-36",
+      "display_title": "Contemporary Geographical Issues (India)",
+      "record_id": "geography-36:learner-v2:g1",
+      "generation": 1,
+      "supersedes": null,
+      "sessions": 15,
+      "mcqs": 80,
+      "answer_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "solved_pyq_cards": 3,
+      "pyq_ownership": "Three verified GS-I Mains demands routed to this owner: 2019 Q14, 2023 Q5 and 2024 Q14.",
+      "notes_pages": 70,
+      "workbook_pages": 38,
+      "approved": false
+    },
+    {
+      "topic_key": "geography-37",
+      "display_title": "Cultural and Social Geography of India",
+      "record_id": "geography-37:learner-v2:g1",
+      "generation": 1,
+      "supersedes": null,
+      "sessions": 15,
+      "mcqs": 80,
+      "answer_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "mains_weights": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
+      ],
+      "facts": 20,
+      "solved_pyq_cards": 2,
+      "pyq_ownership": "Two verified GS-I Mains demands routed to this owner: 2019 Q18 through the Advanced companion and 2025 Q17 through the Basic owner.",
+      "notes_pages": 75,
+      "workbook_pages": 40,
+      "approved": false
+    }
+  ],
+  "coverage_update": {
+    "baseline_manual_spec_topics": 227,
+    "baseline_manual_spec_panels": 2596,
+    "observed_baseline_before_this_batch": {
+      "manual_spec_topics": 227,
+      "manual_spec_panels": 2596
+    },
+    "manual_spec_topics": 233,
+    "manual_spec_panels": 2668,
+    "calculation": "Six new topics were registered in tools/notions_style_ascii_master.py MANUAL_SPEC_FILENAMES, each contributing exactly 12 manually authored panels. 227 + 6 = 233 topics and 2596 + 72 = 2668 panels, confirmed by loading the live spec directory rather than by assumption."
+  },
+  "verification": {
+    "targeted_tests": [
+      "tools/test_generate_geography_31_sequential.py",
+      "tools/test_generate_geography_33_sequential.py",
+      "tools/test_generate_geography_34_sequential.py",
+      "tools/test_generate_geography_35_sequential.py",
+      "tools/test_generate_geography_36_sequential.py",
+      "tools/test_generate_geography_37_sequential.py"
+    ],
+    "shared_tests": [
+      "tools/test_refresh_all_v2_learning_sessions.py",
+      "tools/test_v2_section_indexes.py",
+      "tools/test_v2_topic_command_catalog.py",
+      "tools/test_v2_export_foundation.py",
+      "tools/test_generate_geography_25_sequential.py",
+      "tools/test_generate_geography_26_sequential.py",
+      "tools/test_generate_geography_27_sequential.py",
+      "tools/test_generate_geography_29_sequential.py"
+    ],
+    "pre_render_simulation": "tools/simulate_geography_partb_prerender.py ran sessionize, MCQ rebalance, manual ASCII master embedding, ASCII master validation, core-completeness checks and the deep semantic content audit for every topic before any PDF was rendered. All six returned empty error and defect lists.",
+    "post_finalize_assertion": "tools/assert_v2_tracker_record.py reloaded EXPORT-PDF-STATUS.json after each refresh.finalize and asserted the exact new learner-v2 record existed exactly once with approved false and real artifact paths, before the next topic began.",
+    "programmatic_proof": "tools/prove_geography_partb_batch.py independently proved 15 sessions, 80 unique MCQs, an A20/B20/C20/D20 distribution, a strict A-B-C-D cycle, 12 embedded and 12 registered ASCII panels, 13 graphical stages, the 10/10/15/15/20/20 Mains weights, 20 fact anchors, required H2 order with register notes last, complete Basic and Advanced owner heading preservation, and live PDF page counts for all six topics."
+  },
+  "issues_fixed": [
+    "tools/generate_geography_common.py assumed every topic superseded a legacy-v1 record. It now accepts SUPERSEDES_TEMPLATE = None and emits supersedes null, which is required for the five Part-B topics that hold no prior tracker history.",
+    "tools/geography_generator_test_support.py now accepts a null expected supersedes template so the shared batch contract can assert a first-generation learner-v2 record.",
+    "tools/notions_style_ascii_master.py MANUAL_SPEC_FILENAMES and the shared coverage assertions in tools/test_refresh_all_v2_learning_sessions.py were updated to the live 233-topic / 2668-panel baseline instead of a guessed figure.",
+    "An initial geography-37 draft carried 21 fact anchors, which broke the 20-fact contract and the session-plan coverage set. The cultural and social scope anchors were merged into one and every dependent Mains and session index was recomputed."
+  ],
+  "approval_note": "Every record in this batch remains approved:false. Nothing in this batch was approved, and no earlier approval was inherited."
+}

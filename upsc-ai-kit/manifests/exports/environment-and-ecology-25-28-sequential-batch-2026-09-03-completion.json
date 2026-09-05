@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "batch_id": "environment-and-ecology-25-28-sequential-batch-2026-09-03",
+  "completed_on": "2026-09-03",
+  "subject": {
+    "key": "Environment-and-Ecology",
+    "display_name": "Environment and Ecology"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "manifest": "upsc-ai-kit\\manifests\\v2\\environment-and-ecology--subject-wide-syllabus.json",
+    "topic_count": 28,
+    "status": "materialized; 28 generated/unapproved/passed; 0 planned"
+  },
+  "execution": "strict-sequential-single-writer",
+  "generation_history_note": "Topics 25-28 were finalized sequentially as first learner-v2 generations g1. Existing Topics 01-24 tracker records and artifacts remain present; no prior generation was removed or superseded by this batch.",
+  "preserved_history": {
+    "topic_count": 24,
+    "all_topics_01_24_present": true,
+    "generation_lists": {
+      "environment-and-ecology-01": [
+        2
+      ],
+      "environment-and-ecology-02": [
+        1
+      ],
+      "environment-and-ecology-03": [
+        1
+      ],
+      "environment-and-ecology-04": [
+        1
+      ],
+      "environment-and-ecology-05": [
+        1
+      ],
+      "environment-and-ecology-06": [
+        1
+      ],
+      "environment-and-ecology-07": [
+        1
+      ],
+      "environment-and-ecology-08": [
+        1
+      ],
+      "environment-and-ecology-09": [
+        1,
+        2
+      ],
+      "environment-and-ecology-10": [
+        1
+      ],
+      "environment-and-ecology-11": [
+        1
+      ],
+      "environment-and-ecology-12": [
+        1
+      ],
+      "environment-and-ecology-13": [
+        1,
+        2
+      ],
+      "environment-and-ecology-14": [
+        1,
+        2
+      ],
+      "environment-and-ecology-15": [
+        1,
+        2
+      ],
+      "environment-and-ecology-16": [
+        1,
+        2
+      ],
+      "environment-and-ecology-17": [
+        1,
+        2
+      ],
+      "environment-and-ecology-18": [
+        1,
+        2
+      ],
+      "environment-and-ecology-19": [
+        1
+      ],
+      "environment-and-ecology-20": [
+        1,
+        2
+      ],
+      "environment-and-ecology-21": [
+        1,
+        2
+      ],
+      "environment-and-ecology-22": [
+        1,
+        2
+      ],
+      "environment-and-ecology-23": [
+        1,
+        2
+      ],
+      "environment-and-ecology-24": [
+        1,
+        2
+      ]
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-25",
+      "display_title": "Renewable Energy and Green Hydrogen",
+      "generation": 1,
+      "record_id": "environment-and-ecology-25:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-25\\g1\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-25\\g1\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-25\\g1\\environment-and-ecology-25_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 83,
+      "workbook_pages": 41,
+      "notes_bookmarks": 118,
+      "workbook_bookmarks": 93,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-25\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-26",
+      "display_title": "Disaster Management Framework and Sendai",
+      "generation": 1,
+      "record_id": "environment-and-ecology-26:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-26\\g1\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-26\\g1\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-26\\g1\\environment-and-ecology-26_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 71,
+      "workbook_pages": 35,
+      "notes_bookmarks": 118,
+      "workbook_bookmarks": 93,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-26\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-27",
+      "display_title": "Environmental Institutions (MoEFCC, CPCB, NBA, WII)",
+      "generation": 1,
+      "record_id": "environment-and-ecology-27:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-27\\g1\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-27\\g1\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-27\\g1\\environment-and-ecology-27_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 75,
+      "workbook_pages": 36,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-27\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    },
+    {
+      "topic_key": "environment-and-ecology-28",
+      "display_title": "Species and Current Affairs Tracker",
+      "generation": 1,
+      "record_id": "environment-and-ecology-28:learner-v2:g1",
+      "supersedes": null,
+      "approved": false,
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/validate_v2_export.py"
+      },
+      "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-28\\g1\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-28\\g1\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-28\\g1\\environment-and-ecology-28_Solved-Practice-Workbook_2026-09-03.pdf",
+      "notes_pages": 79,
+      "workbook_pages": 38,
+      "notes_bookmarks": 116,
+      "workbook_bookmarks": 91,
+      "fact_anchors": 20,
+      "sessions": 15,
+      "mcqs": 80,
+      "mcq_distribution": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "original_mains": {
+        "10_mark": 2,
+        "15_mark": 2,
+        "20_mark": 2
+      },
+      "ascii_panels": 12,
+      "graphical_stages": 13,
+      "package_validation": "passed",
+      "graphical_validation": "passed",
+      "graphical_folder": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\flowcharts\\environment-and-ecology-28\\carvaka-g1",
+      "graphical_poster_pages": 1,
+      "graphical_tiled_pages": 4
+    }
+  ],
+  "aggregate": {
+    "topic_count": 4,
+    "fact_anchors": 80,
+    "sessions": 60,
+    "mcqs": 320,
+    "mcq_distribution": {
+      "A": 80,
+      "B": 80,
+      "C": 80,
+      "D": 80
+    },
+    "original_mains": 24,
+    "original_mains_distribution": {
+      "10_mark": 8,
+      "15_mark": 8,
+      "20_mark": 8
+    },
+    "ascii_panels": 48,
+    "graphical_stages": 52,
+    "notes_pages": 308,
+    "workbook_pages": 150,
+    "learning_pdf_pages": 458,
+    "notes_bookmarks": 468,
+    "workbook_bookmarks": 368,
+    "graphical_poster_pages": 4,
+    "graphical_tiled_pages": 16
+  },
+  "tests": {
+    "required_suites_passed": 142,
+    "topic_specific_confirmation": {
+      "passed": 5,
+      "command": "python -m unittest tools\\test_generate_environment_and_ecology_25_28_sequential.py"
+    },
+    "cumulative_environment": {
+      "passed": 102,
+      "command": "python -m unittest discover -s tools -p \"test_generate_environment_and_ecology_*_sequential.py\""
+    },
+    "shared_refresh_manual_flow": {
+      "passed": 40,
+      "command": "python -m unittest tools\\test_refresh_all_v2_learning_sessions.py"
+    },
+    "formal_validations_passed": 4,
+    "formal_validation_scope": "Topics 25-28 g1: refreshed contract, PDFs, tracker paths, contents/bookmarks, manual ASCII specs and graphical package",
+    "workflow_failures_and_recovery": [
+      "Topic 25 staging initially stopped because future manual-spec filenames 26-28 had been registered before those files existed. The list was made sequential and Topic 25 staging was retried against the same authored source without regenerating it.",
+      "Topic 28 authoring self-check found one required phrase missing. The authored anchor was corrected before staging; no tracker record or finalized artifact existed at that point."
+    ],
+    "windows_lock_retry": "No Windows lock retry was required.",
+    "unrelated_existing_failures_not_repaired": [
+      "A broader test_carvaka_flowchart.py run reported two existing unrelated failures: Polity polity-07 status-line validation and an International Relations subject-key spelling mismatch. This batch did not modify those files."
+    ]
+  },
+  "approval": "false for every latest Environment and Ecology topic; explicit topic approval still required",
+  "section_progress": {
+    "approved": 0,
+    "generated_unapproved": 28,
+    "incomplete": 0,
+    "planned": 0,
+    "latest_generation_topics": 28
+  },
+  "changed_files_ledger": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-25-28-sequential-batch-2026-09-03-changed-files.txt",
+  "changed_files_count": 158
+}

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 11",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-11",
+      "display_title": "Semiconductor Mission and Electronics Manufacturing",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-11_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Design-to-device rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DESIGN / IP / EDA -> architecture, verification and tape-out",
+            "FOUNDRY / FAB -> transistor and interconnect layers on wafer",
+            "DICING -> wafer becomes individual dies",
+            "ATMP / OSAT -> assemble, test, mark and package",
+            "BOARD / MODULE / DEVICE -> downstream electronics integration"
+          ],
+          "source_references": [
+            "Value-chain boundary",
+            "Front-end-back-end boundary",
+            "EDA-design-IP boundary"
+          ]
+        },
+        {
+          "title": "Semiconductor business-model matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FAB -> physical wafer-manufacturing plant",
+            "FABLESS -> designs and outsources wafer manufacture",
+            "FOUNDRY -> manufactures to customers' designs",
+            "IDM -> designs and fabricates its own products",
+            "RULE -> plant type and firm model answer different questions"
+          ],
+          "source_references": [
+            "Fabless-foundry-IDM boundary"
+          ]
+        },
+        {
+          "title": "Front-end versus back-end",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FRONT END -> deposition, lithography, etching, doping, metallisation",
+            "OUTPUT -> processed wafer containing dies",
+            "BACK END -> bonding, encapsulation, testing, marking, packaging",
+            "ATMP -> process description; OSAT -> outsourced service model",
+            "TRAP -> back-end capacity is not front-end fabrication"
+          ],
+          "source_references": [
+            "Front-end-back-end boundary",
+            "ATMP-OSAT boundary"
+          ]
+        },
+        {
+          "title": "Node and lithography ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "MATURE / MID-RANGE -> broad automotive, industrial and power uses",
+            "DUV -> mature and mid-range lithography route",
+            "LEADING EDGE -> rising complexity and capital intensity",
+            "EUV -> concentrated equipment and export-control chokepoint",
+            "RULE -> verify every project-specific node claim officially"
+          ],
+          "source_references": [
+            "Process-node boundary",
+            "DUV-EUV boundary"
+          ]
+        },
+        {
+          "title": "Advanced integration map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "CHIPLETS -> specialised dies combined as one system",
+            "2.5D / 3D -> denser package-level integration",
+            "THROUGH-SILICON VIAS -> vertical interconnect route",
+            "HETEROGENEOUS INTEGRATION -> combine unlike functions or processes",
+            "INSIGHT -> performance gains need not begin with smaller lithography"
+          ],
+          "source_references": [
+            "Advanced-packaging boundary"
+          ]
+        },
+        {
+          "title": "Materials taxonomy",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "COMPOUND SEMICONDUCTORS -> GaN / GaAs / InP / SiC",
+            "POWER / RF / OPTOELECTRONICS -> application families",
+            "SILICON PHOTONICS -> silicon optical-interconnect platform",
+            "POLICY GROUPING -> may place unlike technologies together",
+            "RULE -> scheme nomenclature does not change material physics"
+          ],
+          "source_references": [
+            "Compound-photonics boundary"
+          ]
+        },
+        {
+          "title": "Fab viability chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RELIABLE POWER + ULTRA-PURE WATER -> stable processing",
+            "GASES + CHEMICALS + EQUIPMENT -> controlled process steps",
+            "REPEATED RUNS -> yield learning",
+            "RELIABILITY EVIDENCE -> customer qualification",
+            "OUTCOME -> inauguration alone is not competitive production"
+          ],
+          "source_references": [
+            "Utility-yield boundary",
+            "Facility-status boundary"
+          ]
+        },
+        {
+          "title": "Institution and scheme map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MeitY -> parent ministry",
+            "ISM -> implementing agency",
+            "SEMICON INDIA -> scheme package",
+            "DLI -> design-focused channel",
+            "SPECS / PLI -> separate complementary electronics incentives"
+          ],
+          "source_references": [
+            "ISM-institution boundary",
+            "DLI-boundary",
+            "Electronics-incentive boundary"
+          ]
+        },
+        {
+          "title": "Semicon 1.0 to 2.0",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SEMICON INDIA 1.0 -> Rs 76,000 crore umbrella",
+            "FOUR CHANNELS -> fabs, displays, compound/sensor/ATMP, DLI",
+            "15 JUL 2026 -> Semicon 2.0 Cabinet approval",
+            "SEMICON 2.0 -> Rs 1,27,500 crore approved outlay",
+            "SIX PILLARS -> design, tools/materials, fabs, back end, R&D, talent"
+          ],
+          "source_references": [
+            "Semicon-one architecture",
+            "Semicon-two boundary"
+          ]
+        },
+        {
+          "title": "Facility evidence map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DHOLERA -> fab; later named compound-fab plus ATMP approval",
+            "MORIGAON -> officially identified OSAT / ATMP location",
+            "SANAND -> officially identified back-end cluster and inaugurations",
+            "SURAT -> Suchi Semicon OSAT approval",
+            "RULE -> location must travel with project and status verb"
+          ],
+          "source_references": [
+            "Official-location boundary",
+            "Commissioning-evidence boundary"
+          ]
+        },
+        {
+          "title": "Status firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "APPROVED -> policy permission and support decision",
+            "AGREEMENT / GROUNDBREAKING -> financing or construction milestone",
+            "INAUGURATED / PRESENTED -> physical or demonstration milestone",
+            "QUALIFIED COMMERCIAL SUPPLY -> separate operating evidence",
+            "RULE -> never skip a rung or invent production"
+          ],
+          "source_references": [
+            "Facility-status boundary",
+            "Commissioning-evidence boundary",
+            "Volatile-claim boundary"
+          ]
+        },
+        {
+          "title": "PYQ answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> value chain, fab models and ATMP / OSAT",
+            "MAP -> ISM, four Semicon 1.0 channels and Semicon 2.0 pillars",
+            "ANALYSE -> tools, utilities, talent, yield and qualification",
+            "EVIDENCE -> DHRUV64 and facilities with exact status verbs",
+            "QUALIFY -> no project total, node, commercial output or answer key"
+          ],
+          "source_references": [
+            "Processor-fabrication boundary",
+            "Volatile-claim boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-25",
+      "display_title": "Second World War, the Cripps Mission & Quit India (1939–1942)",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Unconsulted belligerency and the response chain",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "3 SEP 1939 -> Viceroy declares India a belligerent, no consultation",
+            "OCT-NOV 1939 -> Congress ministries resign",
+            "22 DEC 1939 -> League Deliverance Day -> MAR 1940 -> Lahore Resolution",
+            "RULE -> three connected but separately dated stages.",
+            "MUST REMEMBER: India was declared at war on 3 September 1939; the August Offer, Individual",
+            "  Satyagraha, Cripps Mission of March-April 1942 and Quit India resolution of 8 August 1942",
+            "  were different constitutional-political moments."
+          ],
+          "source_references": [
+            "Unconsulted belligerency: 3 September 1939",
+            "Resignation to the Lahore Resolution: the connected chain",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "August Offer: promise and minority-consent veto",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "8 AUG 1940 -> AUGUST OFFER",
+            "PROMISE -> expanded, representative post-war constitution-making body",
+            "CONDITION -> no constitution without minority consent (effective veto)",
+            "LIMIT -> no immediate national government offered."
+          ],
+          "source_references": [
+            "August Offer, 1940: promise and its minority-consent veto",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Individual Satyagraha: sequence and limited objective",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "17 OCT 1940 -> Vinoba Bhave, first satyagrahi",
+            "NEXT -> Jawaharlal Nehru, second satyagrahi",
+            "METHOD -> selected individuals publicly assert the right to oppose the war",
+            "OBJECTIVE -> limited anti-war free-speech right, not mass civil disobedience."
+          ],
+          "source_references": [
+            "Individual Satyagraha: sequence and its limited objective",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Cripps arrival and the March 1942 proposals",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAR 1942 -> Cripps arrives in India",
+            "LATE MAR 1942 -> proposals announced",
+            "OFFER -> Dominion status after the war + post-war constitution-making body",
+            "LIMIT -> no change to India's status during the war itself."
+          ],
+          "source_references": [
+            "Cripps Mission: arrival and the March 1942 proposals",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Cripps scheme: opt-out and princely nomination",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "OPT-OUT -> any province or princely state may not join the new union",
+            "PRINCELY SEATS -> members nominated by rulers, not popularly elected",
+            "UNION DESIGN -> accession would be negotiated after the war",
+            "EFFECT -> both features fuelled objections from different political groups."
+          ],
+          "source_references": [
+            "Cripps scheme: opt-out clause and ruler-nominated princely seats",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "British wartime control and no immediate cabinet",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DEFENCE + WAR CONDUCT -> remain under British control throughout the war",
+            "NATIONAL CABINET -> none created immediately",
+            "EXECUTIVE GAP -> Indian leaders receive no present control over the wartime state",
+            "RULE -> a separate objection from the opt-out and princely-nomination features."
+          ],
+          "source_references": [
+            "British wartime control and the absence of an immediate cabinet",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Multi-party rejection of the Cripps proposals",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "CONGRESS -> deferred, conditional offer; no immediate responsible government",
+            "LEAGUE -> no guarantee of a separate Pakistan",
+            "SIKH / HINDU MAHASABHA -> separate minority and communal objections",
+            "PRINCELY OPINION -> concerns over opt-out and accession arrangements."
+          ],
+          "source_references": [
+            "Multi-party rejection: different groups, different reasons",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Post-dated cheque phrase, cautious provenance",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SHORT PHRASE -> \"post-dated cheque\" -> well attested, safe to use",
+            "LONGER VERSION -> adds a crashing bank -> provenance uncertain",
+            "REFERENCE -> the criticism concerns deferred Cripps promises",
+            "RULE -> applies to Cripps only, never to the 1940 August Offer."
+          ],
+          "source_references": [
+            "The 'post-dated cheque' phrase and its cautious use",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Quit India's two-stage resolution",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "14 JUL 1942, WARDHA -> Congress Working Committee approves resolution",
+            "8 AUG 1942, BOMBAY -> All-India Congress Committee ratifies resolution",
+            "POLITICAL MOVE -> committee draft becomes the national organisation's mandate",
+            "RULE -> two distinct bodies and dates; never a single date."
+          ],
+          "source_references": [
+            "Quit India's two-stage resolution: Wardha then Bombay",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Operation Zero Hour, the following morning after Bombay",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "8 AUG 1942 -> AICC ratifies Quit India resolution at Bombay",
+            "9 AUG 1942 (early hours) -> Operation Zero Hour: mass arrests begin",
+            "CONSEQUENCE -> central leadership is removed before an organised campaign develops",
+            "RULE -> within hours, on the following calendar day; not a full 24-hour gap.",
+            "CLOSE DISTINCTION: Cripps offered a post-war constitution-making route with a provincial",
+            "  non-accession option, not immediate full independence; Quit India combined central arrests",
+            "  with decentralised underground and parallel action."
+          ],
+          "source_references": [
+            "Operation Zero Hour: arrests the following morning",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Do or Die, Gowalia Tank and underground resistance",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "8 AUG 1942 -> Gandhi's \"Do or Die\" call, before his arrest",
+            "GOWALIA TANK, BOMBAY -> Aruna Asaf Ali hoists the Congress flag",
+            "UNDERGROUND -> Usha Mehta's Congress Radio",
+            "UNDERGROUND -> Jayaprakash Narayan and Ram Manohar Lohia organise resistance.",
+            "EVIDENCE LIMIT: Official repression records, underground communications, local rebellions and",
+            "  the 1943 Bengal famine context qualify both leaderless-chaos and perfectly",
+            "  coordinated-revolution narratives."
+          ],
+          "source_references": [
+            "Do or Die, Gowalia Tank and the underground resistance",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Parallel governments, social base and results",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "PARALLEL GOVERNMENTS -> Ballia; Jatiya Sarkar (Tamluk); Prati Sarkar (Satara)",
+            "BASE -> students, workers, peasants; regionally variable intensity",
+            "ALIGNMENTS -> League aloof/opposed; CPI People's War line; Mahasabha/princes distant",
+            "RESULTS -> suppressed within months; no solo independence; lasting sentiment shown."
+          ],
+          "source_references": [
+            "Parallel national governments: Ballia, Tamluk and Satara",
+            "Social base, repression caution and political alignments",
+            "Results of Quit India and the 2024 Mains anchor",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\25_WWII-Cripps-Mission-and-Quit-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

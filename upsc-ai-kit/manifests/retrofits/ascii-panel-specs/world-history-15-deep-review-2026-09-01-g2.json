@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-15",
+      "display_title": "Cold War and International Relations",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cold War security dilemma",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "USSR -> security belt in eastern Europe",
+            "WEST -> reads belt as expansion",
+            "CONTAINMENT -> USSR reads encirclement",
+            "RESULT -> defensive acts reproduce hostility",
+            "MUST REMEMBER: Truman containment, Marshall aid, NATO, Soviet consolidation and the Warsaw",
+            "  Pact frame one sequence, while Korea, Cuba, Vietnam, détente, renewed tension and the",
+            "  1989-91 end phase changed its form."
+          ],
+          "source_references": [
+            "Cold War definition and security dilemma",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Origins weighting",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IDEOLOGY -> defines friend and threat",
+            "POWER VACUUM -> creates strategic stakes",
+            "ATOMIC ASYMMETRY -> raises mistrust",
+            "WARTIME LEGACY -> begins rivalry with low trust"
+          ],
+          "source_references": [
+            "Ideology, atoms and wartime legacy",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Containment sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1947 -> Truman Doctrine and Marshall Plan",
+            "1948 -> Czechoslovakia hardens division",
+            "1948-49 -> Berlin blockade and airlift",
+            "1949 -> NATO, Soviet bomb and communist China"
+          ],
+          "source_references": [
+            "Containment through doctrine and aid",
+            "Czechoslovakia and the Berlin blockade",
+            "1949 and institutional bipolarity",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Korean escalation",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "NORTH INVADES -> June 1950",
+            "UN/US FORCE -> advances north",
+            "CHINA -> enters the war",
+            "1953 -> frontier remains near 38th parallel"
+          ],
+          "source_references": [
+            "Korea as civil and international war",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Thaw versus control",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "THAW -> Korean armistice and Austrian treaty",
+            "COEXISTENCE -> rhetoric of reduced tension",
+            "WARSAW PACT -> bloc institutionalised in 1955",
+            "HUNGARY 1956 -> Soviet sphere enforced by force"
+          ],
+          "source_references": [
+            "Thaw and coercive limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Berlin and Cuba",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BERLIN WALL 1961 -> division made physical",
+            "CUBA 1962 -> nuclear confrontation peaks",
+            "COMMON RULE -> avoid direct general war",
+            "RESULT -> stability through restraint, not settlement"
+          ],
+          "source_references": [
+            "Berlin Wall and frozen division",
+            "Cuba and nuclear restraint",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Global Cold War map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ASIA -> Korea, Vietnam and China",
+            "LATIN AMERICA -> Cuba and Chile",
+            "MIDDLE EAST -> Suez and Arab-Israeli wars",
+            "AFGHANISTAN -> renewed confrontation after 1979"
+          ],
+          "source_references": [
+            "Global theatres and local agency",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Middle East causal layers",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LOCAL -> nationalism, territory and refugees",
+            "POST-IMPERIAL -> decolonisation and borders",
+            "STRATEGIC -> oil and state security",
+            "SUPERPOWERS -> internationalise rather than create all causes"
+          ],
+          "source_references": [
+            "Middle East beyond the proxy label",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Detente mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CUBA -> nuclear risk becomes undeniable",
+            "SALT I 1972 -> arms competition regulated",
+            "US-CHINA OPENING -> triangular diplomacy",
+            "HELSINKI 1975 -> norms without ending rivalry"
+          ],
+          "source_references": [
+            "Detente's instruments and limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Non-alignment as agency",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "REFUSAL -> no automatic bloc membership",
+            "SOVEREIGNTY -> room for independent policy",
+            "LEVERAGE -> aid and support sought from both sides",
+            "CAUTION -> pressure persists despite autonomy",
+            "CLOSE DISTINCTION: Bipolar structure did not erase non-alignment, decolonised-state agency,",
+            "  intra-bloc disputes or the Sino-Soviet split; proxy arenas had local causes and actors."
+          ],
+          "source_references": [
+            "Global theatres and local agency",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Communist bloc fracture",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "AFTER 1956 -> Sino-Soviet relations deteriorate",
+            "DOCTRINE/TERRITORY -> dispute widens",
+            "1972 -> US-China opening exploits the rift",
+            "1979 -> communist China attacks communist Vietnam",
+            "EVIDENCE LIMIT: Nuclear deterrence constrained direct superpower war but enabled arms racing",
+            "  and risk; détente was managed competition, not the end of ideology or conflict."
+          ],
+          "source_references": [
+            "The communist bloc fractures",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Cold War answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ORIGINS -> security dilemma read through ideology",
+            "CRISES -> Berlin, Korea and Cuba define limits",
+            "GLOBAL -> local causes, agency and fractured blocs",
+            "END -> structural weakness plus reform and non-use of force"
+          ],
+          "source_references": [
+            "Gorbachev and multi-causal ending",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-15\\g2\\world-history-15_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

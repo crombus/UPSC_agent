@@ -1,0 +1,1141 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-07",
+  "subject": "Governance",
+  "title": "CITIZEN-CENTRIC ADMINISTRATION",
+  "short_route": "THREE PILLARS, ONE ARCHITECTURE → PROMISE AGAINST ENTITLEMENT → FIVE-ELEMENT SERVICE-GUARANTEE TEST → TWO DIFFERENT REMEDIES → GRIEVANCE PLATFORM CARD → DATED BENCHMARKS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-07-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "f9651cfd166f395fc69275e36a524f78873079d791331427cfc9089aedcda18c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE PILLARS, ONE ARCHITECTURE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE PILLARS, ONE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CITIZENS' CHARTER",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT SERVICE, BY WHEN, AT WHAT STANDARD, WITH WHAT",
+          "role": "comparison"
+        },
+        {
+          "text": "GRIEVANCE REDRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE ROUTE THAT OPERATES WHEN THE PROMISE IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "SERVICE DELIVERY CAPABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "STAFF, PROCESS AND TECHNOLOGY THAT MAKE THE PROMISE DELIVERABLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE PILLARS FAIL WHENEVER THEY MOVE APART FROM ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITIZENS' CHARTER → what service, by when, at what standard, with what remedy",
+        "GRIEVANCE REDRESS → the route that operates when the promise is not met",
+        "SERVICE DELIVERY CAPABILITY → staff, process and technology that make the promise deliverable",
+        "RULE → the pillars fail whenever they move apart from one another",
+        "MUST REMEMBER: Citizen-centric administration begins with the user's entitlement and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CITIZENS' CHARTER → what service, by when, at what standard, with what remedy",
+            "GRIEVANCE REDRESS → the route that operates when the promise is not met"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SERVICE DELIVERY CAPABILITY → staff, process and technology that make the promise deliverable",
+            "RULE → the pillars fail whenever they move apart from one another"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Citizen-centric administration begins with the user's entitlement and...",
+            "CITIZENS' CHARTER → what service, by when, at what standard, with what remedy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the pillars fail whenever they move apart from one another.",
+      "source_references": [
+        "The three Sevottam pillars",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PROMISE AGAINST ENTITLEMENT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROMISE AGAINST ENTITLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE STATEMENT ADOPTED IN INDIA FROM 1997 ON THE",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE GUARANTEE STATUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LAW FROM MADHYA PRADESH, 2010, FOR NOTIFIED SERVICES",
+          "role": "institution"
+        },
+        {
+          "text": "A STANDARD STATED AGAINST AN ENTITLEMENT WITH AN ADDRESSEE",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY COVERAGE IS PARTIAL, NOTIFIED AND STATE-SPECIFIC",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CHARTER → administrative statement adopted in India from 1997 on the United Kingdom model",
+        "SERVICE GUARANTEE STATUTE → State law from Madhya Pradesh, 2010, for notified services",
+        "DIFFERENCE → a standard stated against an entitlement with an addressee and a consequence",
+        "LIMIT → statutory coverage is partial, notified and State-specific"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CHARTER → administrative statement adopted in India from 1997 on the United Kingdom model",
+          "DIFFERENCE → a standard stated against an entitlement with an addressee and a consequence",
+          "CHARTER → administrative statement adopted in India from 1997 on the United Kingdom model"
+        ],
+        [
+          "SERVICE GUARANTEE STATUTE → State law from Madhya Pradesh, 2010, for notified services",
+          "LIMIT → statutory coverage is partial, notified and State-specific",
+          "SERVICE GUARANTEE STATUTE → State law from Madhya Pradesh, 2010, for notified services"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHARTER → administrative statement adopted in India from 1997 on the United Kingdom model",
+            "SERVICE GUARANTEE STATUTE → State law from Madhya Pradesh, 2010, for notified services"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIFFERENCE → a standard stated against an entitlement with an addressee and a consequence",
+            "LIMIT → statutory coverage is partial, notified and State-specific"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHARTER → administrative statement adopted in India from 1997 on the United Kingdom model",
+            "SERVICE GUARANTEE STATUTE → State law from Madhya Pradesh, 2010, for notified services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → statutory coverage is partial, notified and State-specific.",
+      "source_references": [
+        "The charter and its administrative origin",
+        "Statutory service guarantees as the enforcement limb",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FIVE-ELEMENT SERVICE-GUARANTEE TEST",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE-ELEMENT SERVICE-GUARANTEE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "1 NOTIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "AN UNLISTED SERVICE CARRIES NO STATUTORY TIMELINE",
+          "role": "caution"
+        },
+        {
+          "text": "2 DESIGNATED OFFICER",
+          "role": "evidence"
+        },
+        {
+          "text": "WITHOUT AN ADDRESSEE THERE IS NO ACCOUNTABILITY",
+          "role": "caution"
+        },
+        {
+          "text": "3 TIMELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIED AND RUNNING FROM A DEFINED TRIGGER",
+          "role": "comparison"
+        },
+        {
+          "text": "4 APPEAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 NOTIFIED → an unlisted service carries no statutory timeline",
+        "2 DESIGNATED OFFICER → without an addressee there is no accountability",
+        "3 TIMELINE → specified and running from a defined trigger",
+        "4 APPEAL → a first and a second appeal, each with its own timeline",
+        "5 DEFAULT → penalty, compensation, deemed approval or nothing"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1 NOTIFIED → an unlisted service carries no statutory timeline",
+          "3 TIMELINE → specified and running from a defined trigger",
+          "5 DEFAULT → penalty, compensation, deemed approval or nothing"
+        ],
+        [
+          "2 DESIGNATED OFFICER → without an addressee there is no accountability",
+          "4 APPEAL → a first and a second appeal, each with its own timeline",
+          "1 NOTIFIED → an unlisted service carries no statutory timeline"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 NOTIFIED → an unlisted service carries no statutory timeline",
+            "2 DESIGNATED OFFICER → without an addressee there is no accountability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 TIMELINE → specified and running from a defined trigger",
+            "4 APPEAL → a first and a second appeal, each with its own timeline"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 DEFAULT → penalty, compensation, deemed approval or nothing",
+            "1 NOTIFIED → an unlisted service carries no statutory timeline"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "5 DEFAULT → penalty, compensation, deemed approval or nothing.",
+      "source_references": [
+        "The five-element service-guarantee test",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWO DIFFERENT REMEDIES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO DIFFERENT REMEDIES",
+          "role": "primary"
+        },
+        {
+          "text": "IMPOSED ON THE DEFAULTING OFFICER; A DETERRENT INSIDE THE",
+          "role": "outcome"
+        },
+        {
+          "text": "PAID TO THE AGGRIEVED CITIZEN; A REMEDY FOR THE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "MANY STATE STATUTES SUPPLY THE FIRST WITHOUT THE SECOND",
+          "role": "institution"
+        },
+        {
+          "text": "APPEAL AND COMPENSATION DESIGN DIFFER BY STATE AND MUST",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PENALTY → imposed on the defaulting officer; a deterrent inside the administration",
+        "COMPENSATION → paid to the aggrieved citizen; a remedy for the person harmed",
+        "COMMON DESIGN → many State statutes supply the first without the second",
+        "CAUTION → appeal and compensation design differ by State and must not be generalised"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PENALTY → imposed on the defaulting officer; a deterrent inside the administration",
+          "COMMON DESIGN → many State statutes supply the first without the second",
+          "PENALTY → imposed on the defaulting officer; a deterrent inside the administration"
+        ],
+        [
+          "COMPENSATION → paid to the aggrieved citizen; a remedy for the person harmed",
+          "CAUTION → appeal and compensation design differ by State and must not be generalised",
+          "COMPENSATION → paid to the aggrieved citizen; a remedy for the person harmed"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PENALTY → imposed on the defaulting officer; a deterrent inside the administration",
+            "COMPENSATION → paid to the aggrieved citizen; a remedy for the person harmed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON DESIGN → many State statutes supply the first without the second",
+            "CAUTION → appeal and compensation design differ by State and must not be generalised"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PENALTY → imposed on the defaulting officer; a deterrent inside the administration",
+            "COMPENSATION → paid to the aggrieved citizen; a remedy for the person harmed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → appeal and compensation design differ by State and must not be generalised.",
+      "source_references": [
+        "Penalty against compensation and State variation",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GRIEVANCE PLATFORM CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GRIEVANCE PLATFORM CARD",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION PLATFORM TO LODGE, ROUTE, TRACK, ESCALATE AND GIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPARTMENT OF ADMINISTRATIVE REFORMS AND PUBLIC GRIEVANCES",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT IT DOES",
+          "role": "primary"
+        },
+        {
+          "text": "MAKES DELAY VISIBLE AND GIVES THE GRIEVANCE AN ADDRESSEE",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT IT CANNOT DO",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPEL A SERVICE, DECIDE AN ENTITLEMENT OR AWARD COMPENSATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHAT IT IS → Union platform to lodge, route, track, escalate and give feedback",
+        "OPERATOR → Department of Administrative Reforms and Public Grievances",
+        "WHAT IT DOES → makes delay visible and gives the grievance an addressee",
+        "WHAT IT CANNOT DO → compel a service, decide an entitlement or award compensation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WHAT IT IS → Union platform to lodge, route, track, escalate and give feedback",
+          "WHAT IT DOES → makes delay visible and gives the grievance an addressee",
+          "WHAT IT IS → Union platform to lodge, route, track, escalate and give feedback"
+        ],
+        [
+          "OPERATOR → Department of Administrative Reforms and Public Grievances",
+          "WHAT IT CANNOT DO → compel a service, decide an entitlement or award compensation",
+          "OPERATOR → Department of Administrative Reforms and Public Grievances"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHAT IT IS → Union platform to lodge, route, track, escalate and give feedback",
+            "OPERATOR → Department of Administrative Reforms and Public Grievances"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHAT IT DOES → makes delay visible and gives the grievance an addressee",
+            "WHAT IT CANNOT DO → compel a service, decide an entitlement or award compensation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHAT IT IS → Union platform to lodge, route, track, escalate and give feedback",
+            "OPERATOR → Department of Administrative Reforms and Public Grievances"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHAT IT CANNOT DO → compel a service, decide an entitlement or award compensation.",
+      "source_references": [
+        "The grievance platform and what it cannot do",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DATED BENCHMARKS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DATED BENCHMARKS",
+          "role": "primary"
+        },
+        {
+          "text": "REDRESS BENCHMARK",
+          "role": "outcome"
+        },
+        {
+          "text": "21 DAYS",
+          "role": "comparison"
+        },
+        {
+          "text": "APPEAL BENCHMARK",
+          "role": "evidence"
+        },
+        {
+          "text": "30 DAYS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPREHENSIVE GUIDELINES FOR HANDLING PUBLIC GRIEVANCES, AUGUST 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE AND REVISABLE, NOT A JUDICIAL LIMITATION PERIOD",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REDRESS BENCHMARK → 21 days",
+        "APPEAL BENCHMARK → 30 days",
+        "SOURCE → Comprehensive Guidelines for Handling Public Grievances, August 2024",
+        "CHARACTER → administrative and revisable, not a judicial limitation period"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REDRESS BENCHMARK → 21 days",
+            "APPEAL BENCHMARK → 30 days"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOURCE → Comprehensive Guidelines for Handling Public Grievances, August 2024",
+            "CHARACTER → administrative and revisable, not a judicial limitation period"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REDRESS BENCHMARK → 21 days",
+            "APPEAL BENCHMARK → 30 days"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHARACTER → administrative and revisable, not a judicial limitation period.",
+      "source_references": [
+        "Dated grievance benchmarks",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIVE REASONS THE PROMISE FALLS SHORT",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIVE REASONS THE PROMISE FALLS SHORT",
+          "role": "primary"
+        },
+        {
+          "text": "NON-CONSULTATIVE DRAFTING AND STANDARDS CHOSEN FOR ADMINISTRATIVE CONVENIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO STATUTORY PENALTY OUTSIDE NOTIFIED SERVICES",
+          "role": "caution"
+        },
+        {
+          "text": "COMPLAINTS LOGGED AND ROUTED RATHER THAN RESOLVED",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CAPABILITY PILLAR NOT STRENGTHENED ALONGSIDE THE PROMISE",
+          "role": "caution"
+        },
+        {
+          "text": "CHARTERS RARELY DISPLAYED OR EXPLAINED AT THE POINT OF",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DESIGN → non-consultative drafting and standards chosen for administrative convenience",
+        "ENFORCEMENT → no statutory penalty outside notified services",
+        "FOLLOW-THROUGH → complaints logged and routed rather than resolved",
+        "CAPACITY → the capability pillar not strengthened alongside the promise",
+        "AWARENESS → charters rarely displayed or explained at the point of service"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DESIGN → non-consultative drafting and standards chosen for administrative convenience",
+            "ENFORCEMENT → no statutory penalty outside notified services"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOLLOW-THROUGH → complaints logged and routed rather than resolved",
+            "CAPACITY → the capability pillar not strengthened alongside the promise"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AWARENESS → charters rarely displayed or explained at the point of service",
+            "DESIGN → non-consultative drafting and standards chosen for administrative convenience"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AWARENESS → charters rarely displayed or explained at the point of service.",
+      "source_references": [
+        "Five reasons the promise falls short",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ADOPTION AGAINST QUALITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ADOPTION AGAINST QUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "CHARTERS WIDELY ADOPTED ACROSS DEPARTMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITY GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "UNMEASURABLE STANDARDS AND NO NAMED RESPONSIBLE OFFICER",
+          "role": "caution"
+        },
+        {
+          "text": "SECOND GAP",
+          "role": "primary"
+        },
+        {
+          "text": "ACKNOWLEDGEMENT STANDARDS INSTEAD OF RESOLVED-OUTCOME STANDARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "THIRD GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "NO REVISION CYCLE, SO THE PROMISE AGES AGAINST THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROLIFERATION → charters widely adopted across departments",
+        "QUALITY GAP → unmeasurable standards and no named responsible officer",
+        "SECOND GAP → acknowledgement standards instead of resolved-outcome standards",
+        "THIRD GAP → no revision cycle, so the promise ages against the service"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PROLIFERATION → charters widely adopted across departments",
+          "SECOND GAP → acknowledgement standards instead of resolved-outcome standards",
+          "PROLIFERATION → charters widely adopted across departments"
+        ],
+        [
+          "QUALITY GAP → unmeasurable standards and no named responsible officer",
+          "THIRD GAP → no revision cycle, so the promise ages against the service",
+          "QUALITY GAP → unmeasurable standards and no named responsible officer"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROLIFERATION → charters widely adopted across departments",
+            "QUALITY GAP → unmeasurable standards and no named responsible officer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECOND GAP → acknowledgement standards instead of resolved-outcome standards",
+            "THIRD GAP → no revision cycle, so the promise ages against the service"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROLIFERATION → charters widely adopted across departments",
+            "QUALITY GAP → unmeasurable standards and no named responsible officer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THIRD GAP → no revision cycle, so the promise ages against the service.",
+      "source_references": [
+        "Proliferation against quality",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LAYER MISMATCH",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAYER MISMATCH",
+          "role": "primary"
+        },
+        {
+          "text": "PROMISE LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVELY WELL BUILT AND EASIEST TO REFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTIAL, NOTIFIED AND GEOGRAPHICALLY UNEVEN",
+          "role": "primary"
+        },
+        {
+          "text": "ESCALATION LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "VISIBLE, NON-ADJUDICATORY, DEPENDENT ON THE RECEIVING DEPARTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPABILITY LAYER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROMISE LAYER → relatively well built and easiest to reform",
+        "STATUTORY LAYER → partial, notified and geographically uneven",
+        "ESCALATION LAYER → visible, non-adjudicatory, dependent on the receiving department",
+        "CAPABILITY LAYER → frequently the weakest and the actual bottleneck",
+        "CONSEQUENCE → rewriting charter language reforms the strongest layer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROMISE LAYER → relatively well built and easiest to reform",
+            "STATUTORY LAYER → partial, notified and geographically uneven"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ESCALATION LAYER → visible, non-adjudicatory, dependent on the receiving department",
+            "CAPABILITY LAYER → frequently the weakest and the actual bottleneck"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → rewriting charter language reforms the strongest layer",
+            "PROMISE LAYER → relatively well built and easiest to reform"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → rewriting charter language reforms the strongest layer.",
+      "source_references": [
+        "The layer-mismatch diagnosis",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "STANDARD TO REMEDY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STANDARD TO REMEDY",
+          "role": "primary"
+        },
+        {
+          "text": "STANDARD SET",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSULTATIVE, MEASURABLE, OUTCOME-EXPRESSED, OFFICER NAMED",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPLAYED AT THE SERVICE POINT, IN THE LOCAL LANGUAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "IS IT AUTO-DETECTABLE AGAINST THE TIMELINE, OR MUST THE",
+          "role": "primary"
+        },
+        {
+          "text": "GRIEVANCE ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPARTMENT, THEN PLATFORM, THEN APPEAL, IN THE CORRECT FORUM",
+          "role": "comparison"
+        },
+        {
+          "text": "PENALTY, COMPENSATION OR NOTHING, FEEDING BACK INTO STANDARD-SETTING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STANDARD SET → consultative, measurable, outcome-expressed, officer named",
+        "PUBLICISED → displayed at the service point, in the local language, actually known",
+        "BREACH → is it auto-detectable against the timeline, or must the citizen notice",
+        "GRIEVANCE ROUTE → department, then platform, then appeal, in the correct forum",
+        "CONSEQUENCE → penalty, compensation or nothing, feeding back into standard-setting"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STANDARD SET → consultative, measurable, outcome-expressed, officer named",
+            "PUBLICISED → displayed at the service point, in the local language, actually known"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BREACH → is it auto-detectable against the timeline, or must the citizen notice",
+            "GRIEVANCE ROUTE → department, then platform, then appeal, in the correct forum"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → penalty, compensation or nothing, feeding back into standard-setting",
+            "CLOSE DISTINCTION: Citizen charter is a publicly stated service commitment, not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Citizen charter is a publicly stated service commitment, not.",
+      "source_references": [
+        "Where the standard-to-remedy chain breaks",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LAST-MILE STAKEHOLDERS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LAST-MILE STAKEHOLDERS",
+          "role": "primary"
+        },
+        {
+          "text": "FRONTLINE OFFICIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "FACES THE PENALTY AND CONTROLS INTAKE WHEN CAPABILITY LAGS",
+          "role": "comparison"
+        },
+        {
+          "text": "DESIGNATED OFFICER",
+          "role": "evidence"
+        },
+        {
+          "text": "THE ADDRESSEE ON WHOM THE ENFORCEABILITY CLAIM RESTS",
+          "role": "primary"
+        },
+        {
+          "text": "APPELLATE OFFICER",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DIFFERENCE BETWEEN A COMPLAINT AND A REMEDY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAVEL, DOCUMENTS, WAGE LOSS AND AN INTERMEDIARY FEE NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FRONTLINE OFFICIAL → faces the penalty and controls intake when capability lags",
+        "DESIGNATED OFFICER → the addressee on whom the enforceability claim rests",
+        "APPELLATE OFFICER → the difference between a complaint and a remedy",
+        "CITIZEN → travel, documents, wage loss and an intermediary fee no statistic records",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Sevottam, time-bound service laws, Common"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FRONTLINE OFFICIAL → faces the penalty and controls intake when capability lags",
+            "DESIGNATED OFFICER → the addressee on whom the enforceability claim rests"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPELLATE OFFICER → the difference between a complaint and a remedy",
+            "CITIZEN → travel, documents, wage loss and an intermediary fee no statistic records"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Sevottam, time-bound service laws, Common...",
+            "FRONTLINE OFFICIAL → faces the penalty and controls intake when capability lags"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Sevottam, time-bound service laws, Common.",
+      "source_references": [
+        "Perception at the counter and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A CHARTER DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A CHARTER DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE DESIGN-STAGE CAUSE BEFORE ANY IMPLEMENTATION CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "THREE PILLARS, THEN THE FIVE-ELEMENT TEST APPLIED TO ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP EACH MEASURE TO THE LIMITATION IT REPAIRS, AND",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT, STATE-VARIATION CAVEAT AND STATED QUESTION OWNERSHIP",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the design-stage cause before any implementation cause",
+        "BUILD → three pillars, then the five-element test applied to one service",
+        "CORRECT → map each measure to the limitation it repairs, and keep capability in the",
+        "CLOSE → graded verdict, State-variation caveat and stated question ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the design-stage cause before any implementation cause",
+            "BUILD → three pillars, then the five-element test applied to one service"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → map each measure to the limitation it repairs, and keep capability in the pair",
+            "CLOSE → graded verdict, State-variation caveat and stated question ownership"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the design-stage cause before any implementation cause",
+            "BUILD → three pillars, then the five-element test applied to one service"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict, State-variation caveat and stated question ownership.",
+      "source_references": [
+        "Perception at the counter and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g2\\governance-07_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE RTS MODEL'S OWN SUCCESS (STATUTORY TIMELINE + OFFICER-LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "A CHARTER DRAFTED WITHOUT GENUINE USER CONSULTATION RISKS SPECIFYING",
+          "role": "comparison"
+        },
+        {
+          "text": "CPGRAMS-STATE INTEGRATION VARIES, MEANING A CITIZEN'S PRACTICAL GRIEVANCE-REDRESS",
+          "role": "institution"
+        },
+        {
+          "text": "DARPG PERIODICALLY ISSUES CHARTER-PREPARATION GUIDELINES RECOMMENDING MEASURABLE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE RTS ACTS GENERALLY USE NOTIFIED SERVICES, DESIGNATED OFFICERS",
+          "role": "institution"
+        },
+        {
+          "text": "DARPG'S 2024 CPGRAMS GUIDELINES SET A 21-DAY CENTRAL REDRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANDING RTS-STYLE STATUTORY COVERAGE TO A WIDER RANGE OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The RTS model's own success (statutory timeline + officer-level penalty) is itself",
+            "CAUTION: A charter drafted without genuine user consultation risks specifying standards around",
+            "CAUTION: CPGRAMS-state integration varies, meaning a citizen's practical grievance-redress",
+            "DARPG periodically issues charter-preparation guidelines recommending measurable"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "State RTS Acts generally use notified services, designated officers and appeal;",
+            "DARPG's 2024 CPGRAMS guidelines set a 21-day central redress benchmark and strengthen",
+            "CAUTION: Expanding RTS-style statutory coverage to a wider range of services, and integrating",
+            "CAUTION: A municipal single-window property-tax and trade-license counter that also links to a"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Boundary case: a charter promising \"grievance redressal within 15 days\" with no",
+            "CAUTION: A CPGRAMS grievance repeatedly transferred between departments without resolution",
+            "CAUTION: Expanding RTS-style statutory coverage to every possible public service would impose a",
+            "CAUTION: Strong penalty provisions on individual officers can incentivise defensive,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-22",
+      "display_title": "Employment, Labour Codes, Skills and Demographic Dividend",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Jobs quality dashboard",
+          "structural_type": "evaluation-board",
+          "ascii_lines": [
+            "QUANTITY + HOURS",
+            "PRODUCTIVITY + REAL EARNINGS",
+            "SECURITY + CONDITIONS",
+            "MOBILITY + PROTECTION",
+            "MUST REMEMBER: Employment analysis separates labour force, workforce, unemployment,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Labour indicators matrix",
+          "structural_type": "formula-board",
+          "ascii_lines": [
+            "LFPR = labour force / specified population",
+            "WPR = employed / specified population",
+            "UR = unemployed / labour force",
+            "DENOMINATOR must be named"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PLFS reference-period clock",
+          "structural_type": "comparison-strip",
+          "ascii_lines": [
+            "USUAL STATUS -> longer reference",
+            "CURRENT WEEKLY STATUS -> seven-day reference",
+            "AGE + RURAL/URBAN -> always state",
+            "ONE headline cannot replace disaggregation"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Unemployment mechanism tree",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "FRICTIONAL -> transition",
+            "STRUCTURAL -> mismatch",
+            "SEASONAL / CYCLICAL -> timing + demand",
+            "DISGUISED -> surplus labour"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Human-capital chain",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "HEALTH + FOUNDATION LEARNING",
+            "-> SKILL + EXPERIENCE",
+            "-> PRODUCTIVE MATCH",
+            "-> EARNINGS + ADAPTABILITY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Certification-to-outcome ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ENROLLED",
+            "-> TRAINED",
+            "-> CERTIFIED",
+            "-> PLACED -> RETAINED -> WAGE GAIN"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Demographic dividend converter",
+          "structural_type": "conversion-flow",
+          "ascii_lines": [
+            "WORKING-AGE SHARE",
+            "x HEALTH + EDUCATION",
+            "x PARTICIPATION + JOBS",
+            "x PRODUCTIVITY -> DIVIDEND"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Care-economy constraint map",
+          "structural_type": "two-track-map",
+          "ascii_lines": [
+            "UNPAID CARE -> time constraint",
+            "CARE SERVICES -> participation support",
+            "GDP BOUNDARY -> not value judgement",
+            "3R -> recognise + reduce + redistribute"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Labour Codes map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "WAGES 2019",
+            "INDUSTRIAL RELATIONS 2020",
+            "SOCIAL SECURITY 2020",
+            "OSHWC 2020"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Implementation status rail",
+          "structural_type": "status-flow",
+          "ascii_lines": [
+            "ENACTED 2019-20",
+            "-> COMMENCEMENT 21 NOV 2025",
+            "-> FINAL CENTRAL RULES MAY 2026",
+            "-> STATE RULES + ENFORCEMENT vary",
+            "CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "New-work boundary",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FIXED-TERM",
+            "CASUAL / CONTRACT",
+            "GIG / PLATFORM",
+            "TEST wages + security + bargaining separately",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Employment answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE indicator + denominator",
+            "DIAGNOSE unemployment type",
+            "LINK skills to demand",
+            "CONCLUDE jobs + earnings + portable protection"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1089 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-06",
+  "subject": "Modern-Indian-History",
+  "title": "STRUCTURE OF GOVERNMENT & CONSTITUTIONAL DEVELOPMENT, 1757–1858",
+  "short_route": "THE COMPANY-STATE CONSTITUTIONAL PROBLEM → REGULATING ACT 1773: FIRST → WHY THE 1773 DESIGN → AMENDING ACT 1781: TARGETED → PITT'S INDIA ACT 1784 → EXECUTIVE CONSOLIDATION, 1786-1793",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-06-deep-review-2026-09-04-g5.json",
+  "ascii_spec_sha256": "62f17a44edabae91b1785be1d05b8afad7da44ef650bf4e91e6a75f9f7a68bdd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE COMPANY-STATE CONSTITUTIONAL PROBLEM",
+      "structural_type": "problem-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE COMPANY-STATE CONSTITUTIONAL PROBLEM",
+          "role": "institution"
+        },
+        {
+          "text": "LONDON COMPANY",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAREHOLDERS, DIRECTORS, TRADE AND PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN SOVEREIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE, WAR, JUSTICE AND LEGISLATION AFTER DIWANI",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE PROFIT JOINED TO PUBLIC COERCIVE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARLIAMENTARY RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATE, SUPERVISE, CENTRALISE AND FINALLY TRANSFER RULE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LONDON COMPANY → shareholders, directors, trade and patronage",
+        "INDIAN SOVEREIGN → revenue, war, justice and legislation after Diwani",
+        "CONTRADICTION → private profit joined to public coercive power",
+        "PARLIAMENTARY RESPONSE → regulate, supervise, centralise and finally transfer rule.",
+        "MUST REMEMBER: Regulating Act 1773, Pitt's India Act 1784, Charter Acts 1813, 1833 and 1853"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LONDON COMPANY → shareholders, directors, trade and patronage",
+            "INDIAN SOVEREIGN → revenue, war, justice and legislation after Diwani"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTRADICTION → private profit joined to public coercive power",
+            "PARLIAMENTARY RESPONSE → regulate, supervise, centralise and finally transfer rule."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Regulating Act 1773, Pitt's India Act 1784, Charter Acts 1813, 1833 and 1853,",
+            "and Government of India Act 1858 changed different corporate, executive, legislative and patronage arrangements."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARLIAMENTARY RESPONSE → regulate, supervise, centralise and finally transfer rule.",
+      "source_references": [
+        "1. A private corporation as revenue, war and justice authority",
+        "2. The crisis that forced Parliament to act, 1770-73: fiscal, political, and patronage -- not humanitarian",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REGULATING ACT 1773: FIRST FRAMEWORK",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGULATING ACT 1773",
+          "role": "institution"
+        },
+        {
+          "text": "FIRST FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNOR-GENERAL OF BENGAL + COUNCIL OF FOUR",
+          "role": "institution"
+        },
+        {
+          "text": "WARREN HASTINGS FIRST",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBORDINATED IN WAR AND PEACE, WITH PRACTICAL AMBIGUITIES",
+          "role": "primary"
+        },
+        {
+          "text": "SUPREME COURT AT CALCUTTA",
+          "role": "institution"
+        },
+        {
+          "text": "BEGINS 1774 UNDER CROWN-APPOINTED JUDGES",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTORS REPORT TO MINISTRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNOR-GENERAL OF BENGAL + COUNCIL OF FOUR → Warren Hastings first",
+        "BOMBAY / MADRAS → subordinated in war and peace, with practical ambiguities",
+        "SUPREME COURT AT CALCUTTA → begins 1774 under Crown-appointed judges",
+        "DIRECTORS REPORT TO MINISTRY → oversight begins, but Company rule continues."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOVERNOR-GENERAL OF BENGAL + COUNCIL OF FOUR → Warren Hastings first",
+            "BOMBAY / MADRAS → subordinated in war and peace, with practical ambiguities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUPREME COURT AT CALCUTTA → begins 1774 under Crown-appointed judges",
+            "DIRECTORS REPORT TO MINISTRY → oversight begins, but Company rule continues."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOVERNOR-GENERAL OF BENGAL + COUNCIL OF FOUR → Warren Hastings first",
+            "BOMBAY / MADRAS → subordinated in war and peace, with practical ambiguities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIRECTORS REPORT TO MINISTRY → oversight begins, but Company rule continues.",
+      "source_references": [
+        "3. The Regulating Act, 1773: institutions on paper",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WHY THE 1773 DESIGN MALFUNCTIONED",
+      "structural_type": "failure-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WHY THE 1773 DESIGN MALFUNCTIONED",
+          "role": "primary"
+        },
+        {
+          "text": "COUNCIL ARITHMETIC",
+          "role": "institution"
+        },
+        {
+          "text": "FRANCIS-CLAVERING-MONSON MAJORITY CAN OUTVOTE HASTINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "JURISDICTIONAL OVERLAP",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPREME COURT CLASHES WITH COMPANY REVENUE AND CIVIL COURTS",
+          "role": "institution"
+        },
+        {
+          "text": "NAND KUMAR, PATNA AND COSSIJURAH EXPOSE UNCERTAINTY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL REPAIR FOLLOWS ADMINISTRATIVE CONFLICT, NOT A SMOOTH MASTER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COUNCIL ARITHMETIC → Francis-Clavering-Monson majority can outvote Hastings",
+        "JURISDICTIONAL OVERLAP → Supreme Court clashes with Company revenue and civil courts",
+        "CASES → Nand Kumar, Patna and Cossijurah expose uncertainty",
+        "LESSON → constitutional repair follows administrative conflict, not a smooth master plan."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COUNCIL ARITHMETIC → Francis-Clavering-Monson majority can outvote Hastings",
+            "JURISDICTIONAL OVERLAP → Supreme Court clashes with Company revenue and civil courts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CASES → Nand Kumar, Patna and Cossijurah expose uncertainty",
+            "LESSON → constitutional repair follows administrative conflict, not a smooth master plan."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COUNCIL ARITHMETIC → Francis-Clavering-Monson majority can outvote Hastings",
+            "JURISDICTIONAL OVERLAP → Supreme Court clashes with Company revenue and civil courts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → constitutional repair follows administrative conflict, not a smooth master plan.",
+      "source_references": [
+        "4. Why the Regulating Act failed in practice: the Hastings-Council deadlock",
+        "5. The Supreme Court and jurisdictional conflict: Nand Kumar, Patna, Cossijurah",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AMENDING ACT 1781: TARGETED JURISDICTIONAL REPAIR",
+      "structural_type": "before-after",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AMENDING ACT 1781",
+          "role": "institution"
+        },
+        {
+          "text": "TARGETED JURISDICTIONAL REPAIR",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICIAL ACTS AND REVENUE MATTERS EXPOSED TO DISPUTED COURT",
+          "role": "institution"
+        },
+        {
+          "text": "OFFICIAL PUBLIC ACTS EXEMPTED; REVENUE JURISDICTION EXCLUDED",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSONAL LAW",
+          "role": "primary"
+        },
+        {
+          "text": "HINDU AND MUSLIM LAW TO GUIDE RELEVANT CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRECTED COURT-EXECUTIVE CONFLICT, NOT THE COUNCIL VOTING PROBLEM.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BEFORE → official acts and revenue matters exposed to disputed Court reach",
+        "1781 → official public acts exempted; revenue jurisdiction excluded",
+        "PERSONAL LAW → Hindu and Muslim law to guide relevant cases",
+        "LIMIT → corrected Court-executive conflict, not the Council voting problem."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BEFORE → official acts and revenue matters exposed to disputed Court reach",
+            "1781 → official public acts exempted; revenue jurisdiction excluded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERSONAL LAW → Hindu and Muslim law to guide relevant cases",
+            "LIMIT → corrected Court-executive conflict, not the Council voting problem."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BEFORE → official acts and revenue matters exposed to disputed Court reach",
+            "1781 → official public acts exempted; revenue jurisdiction excluded"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → corrected Court-executive conflict, not the Council voting problem.",
+      "source_references": [
+        "6. The Amending Act (Act of Settlement), 1781: precise corrections, not a general fix",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PITT'S INDIA ACT 1784: DUAL CONTROL IN BRITAIN",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PITT'S INDIA ACT 1784",
+          "role": "institution"
+        },
+        {
+          "text": "DUAL CONTROL IN BRITAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT OF DIRECTORS",
+          "role": "institution"
+        },
+        {
+          "text": "COMMERCE, APPOINTMENTS AND ROUTINE COMPANY ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "BOARD OF CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "CROWN-SUPERVISED POLITICAL, MILITARY AND REVENUE DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER BENGAL CONTROL OVER PRESIDENCIES AND SMALLER EXECUTIVE COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "SUPERVISION WITHOUT IMMEDIATE CROWN TAKEOVER.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COURT OF DIRECTORS → commerce, appointments and routine Company administration",
+        "BOARD OF CONTROL → Crown-supervised political, military and revenue direction",
+        "INDIA → stronger Bengal control over presidencies and smaller executive council",
+        "VERDICT → supervision without immediate Crown takeover."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COURT OF DIRECTORS → commerce, appointments and routine Company administration",
+            "BOARD OF CONTROL → Crown-supervised political, military and revenue direction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIA → stronger Bengal control over presidencies and smaller executive council",
+            "VERDICT → supervision without immediate Crown takeover."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COURT OF DIRECTORS → commerce, appointments and routine Company administration",
+            "BOARD OF CONTROL → Crown-supervised political, military and revenue direction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDIA → stronger Bengal control over presidencies and smaller executive council.",
+      "source_references": [
+        "7. Pitt's India Act, 1784: Board of Control, dual government, and stronger central command",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EXECUTIVE CONSOLIDATION, 1786-1793",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EXECUTIVE CONSOLIDATION, 1786-1793",
+          "role": "primary"
+        },
+        {
+          "text": "CORNWALLIS MAY OVERRIDE COUNCIL IN SPECIAL CASES AND SERVE",
+          "role": "institution"
+        },
+        {
+          "text": "OVERRIDE POWER GENERALISED TO FUTURE GOVERNORS-GENERAL AND GOVERNORS",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPANY MONOPOLY RENEWED FOR TWENTY YEARS",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGER PERSONAL EXECUTIVE WITHIN A STILL COMPANY-RUN CONSTITUTION.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1786 → Cornwallis may override council in special cases and serve as commander",
+        "1793 → override power generalised to future governors-general and governors",
+        "1793 → Company monopoly renewed for twenty years",
+        "DIRECTION → stronger personal executive within a still Company-run constitution."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1786 → Cornwallis may override council in special cases and serve as commander",
+            "1793 → override power generalised to future governors-general and governors"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1793 → Company monopoly renewed for twenty years",
+            "DIRECTION → stronger personal executive within a still Company-run constitution."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1786 → Cornwallis may override council in special cases and serve as commander",
+            "1793 → override power generalised to future governors-general and governors"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIRECTION → stronger personal executive within a still Company-run constitution.",
+      "source_references": [
+        "8. The Act of 1786 and Charter Act, 1793: executive authority and continuity",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CHARTER ACT 1813: PARTIAL COMMERCIAL OPENING",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHARTER ACT 1813",
+          "role": "institution"
+        },
+        {
+          "text": "PARTIAL COMMERCIAL OPENING",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPANY MONOPOLY OVER INDIAN TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "TEA MONOPOLY AND TRADE WITH CHINA",
+          "role": "evidence"
+        },
+        {
+          "text": "CROWN SOVEREIGNTY CLAIM, MISSIONARY ENTRY AND EDUCATION PROVISION",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH INDUSTRIAL ACCESS EXPANDS WHILE THE COMPANY REMAINS TERRITORIAL",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ENDED → Company monopoly over Indian trade",
+        "RETAINED → tea monopoly and trade with China",
+        "ADDED → Crown sovereignty claim, missionary entry and education provision",
+        "MEANING → British industrial access expands while the Company remains territorial ruler."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ENDED → Company monopoly over Indian trade",
+          "ADDED → Crown sovereignty claim, missionary entry and education provision",
+          "ENDED → Company monopoly over Indian trade"
+        ],
+        [
+          "RETAINED → tea monopoly and trade with China",
+          "MEANING → British industrial access expands while the Company remains territorial ruler.",
+          "RETAINED → tea monopoly and trade with China"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENDED → Company monopoly over Indian trade",
+            "RETAINED → tea monopoly and trade with China"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADDED → Crown sovereignty claim, missionary entry and education provision",
+            "MEANING → British industrial access expands while the Company remains territorial ruler."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENDED → Company monopoly over Indian trade",
+            "RETAINED → tea monopoly and trade with China"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEANING → British industrial access expands while the Company remains territorial ruler.",
+      "source_references": [
+        "9. Charter Act, 1813: free trade, missions, education, and a partial opening",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CHARTER ACT 1833: ALL-INDIA CENTRALISATION",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHARTER ACT 1833",
+          "role": "institution"
+        },
+        {
+          "text": "ALL-INDIA CENTRALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GG OF BENGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNOR-GENERAL OF INDIA; WILLIAM BENTINCK FIRST",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESIDENCY LEGISLATURES",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATIVE POWER CENTRALISED IN THE GOVERNMENT OF INDIA",
+          "role": "mechanism"
+        },
+        {
+          "text": "LAW MEMBER + LAW COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "MACAULAY AND CODIFICATION DRIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GG OF BENGAL → GOVERNOR-GENERAL OF INDIA; William Bentinck first",
+        "PRESIDENCY LEGISLATURES → legislative power centralised in the Government of India",
+        "LAW MEMBER + LAW COMMISSION → Macaulay and codification drive",
+        "COMPANY COMMERCE ENDS → corporation becomes a purely administrative agency."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GG OF BENGAL → GOVERNOR-GENERAL OF INDIA; William Bentinck first",
+            "PRESIDENCY LEGISLATURES → legislative power centralised in the Government of India"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAW MEMBER + LAW COMMISSION → Macaulay and codification drive",
+            "COMPANY COMMERCE ENDS → corporation becomes a purely administrative agency."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GG OF BENGAL → GOVERNOR-GENERAL OF INDIA; William Bentinck first",
+            "PRESIDENCY LEGISLATURES → legislative power centralised in the Government of India"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPANY COMMERCE ENDS → corporation becomes a purely administrative agency.",
+      "source_references": [
+        "10. Charter Act, 1833: all-India centralisation, the Law Member, and codification",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE 1833 EQUALITY PROMISE AND PRACTICE GAP",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE 1833 EQUALITY PROMISE AND PRACTICE GAP",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY LANGUAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIANS NOT TO BE EXCLUDED FROM COMPANY OFFICE BY",
+          "role": "caution"
+        },
+        {
+          "text": "INSTITUTIONAL REALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PATRONAGE AND RACIAL BARRIERS REMAIN",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "1833 VOICES OPEN ELIGIBILITY; IT DOES NOT CREATE THE",
+          "role": "caution"
+        },
+        {
+          "text": "ANALYTICAL USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATUTORY LANGUAGE → Indians not to be excluded from Company office by identity",
+        "INSTITUTIONAL REALITY → patronage and racial barriers remain",
+        "EXAM DISTINCTION → 1833 voices open eligibility; it does not create the 1853 exam",
+        "ANALYTICAL USE → liberal language coexists with an unrepresentative imperial state."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATUTORY LANGUAGE → Indians not to be excluded from Company office by identity",
+            "INSTITUTIONAL REALITY → patronage and racial barriers remain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM DISTINCTION → 1833 voices open eligibility; it does not create the 1853 exam",
+            "ANALYTICAL USE → liberal language coexists with an unrepresentative imperial state."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUTORY LANGUAGE → Indians not to be excluded from Company office by identity",
+            "INSTITUTIONAL REALITY → patronage and racial barriers remain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYTICAL USE → liberal language coexists with an unrepresentative imperial state.",
+      "source_references": [
+        "11. Charter Act, 1833: the non-discrimination promise and the practice gap",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CHARTER ACT 1853: LEGISLATURE AND RECRUITMENT",
+      "structural_type": "process-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHARTER ACT 1853",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATURE AND RECRUITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXECUTIVE COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATIVE MEMBERS ADDED FOR A DISTINCT LAW-MAKING FUNCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL LEGISLATIVE COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "PROCEDURE RESEMBLES A SMALL OFFICIAL PARLIAMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN COMPETITION",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIL-SERVICE RECRUITMENT PRINCIPLE IMPLEMENTED THROUGH LATER RULES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXECUTIVE COUNCIL → legislative members added for a distinct law-making function",
+        "CENTRAL LEGISLATIVE COUNCIL → procedure resembles a small official parliament",
+        "OPEN COMPETITION → civil-service recruitment principle implemented through later rules",
+        "LIMIT → London examination and access barriers make formal openness unequal in practice.",
+        "CLOSE DISTINCTION: Distinguish enactment from commencement and policy from implementation: the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXECUTIVE COUNCIL → legislative members added for a distinct law-making function",
+            "CENTRAL LEGISLATIVE COUNCIL → procedure resembles a small official parliament"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPEN COMPETITION → civil-service recruitment principle implemented through later rules",
+            "LIMIT → London examination and access barriers make formal openness unequal in practice."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Distinguish enactment from commencement and policy from implementation: the",
+            "1833 Act ended Company commerce, while open competitive recruitment developed through later measures."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1833 Act ended Company commerce, while open competitive recruitment developed through later measures.",
+      "source_references": [
+        "12. Charter Act, 1853: legislative-executive separation and the civil-service reform sequence, 1833-1855",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "GOVERNMENT OF INDIA ACT 1858: TRANSFER, NOT REINVENTION",
+      "structural_type": "before-after",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GOVERNMENT OF INDIA ACT 1858",
+          "role": "institution"
+        },
+        {
+          "text": "TRANSFER, NOT REINVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "COMPANY RULE, COURT OF DIRECTORS AND BOARD OF CONTROL",
+          "role": "institution"
+        },
+        {
+          "text": "SECRETARY OF STATE FOR INDIA ASSISTED BY AN INDIA",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR-GENERAL ALSO BECOMES VICEROY; CANNING FIRST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL EXECUTIVE, COUNCILS, CODES AND BUREAUCRACY LARGELY SURVIVE TRANSFER.",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "READ STATUTORY TEXT WITH COMPANY PRACTICE AND PARLIAMENTARY INQUIRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ABOLISHED → Company rule, Court of Directors and Board of Control",
+        "CREATED → Secretary of State for India assisted by an India Council",
+        "INDIA → Governor-General also becomes Viceroy; Canning first",
+        "CONTINUITY → central executive, councils, codes and bureaucracy largely survive transfer.",
+        "EVIDENCE LIMIT: Read statutory text with Company practice and parliamentary inquiry"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ABOLISHED → Company rule, Court of Directors and Board of Control",
+            "CREATED → Secretary of State for India assisted by an India Council"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIA → Governor-General also becomes Viceroy; Canning first",
+            "CONTINUITY → central executive, councils, codes and bureaucracy largely survive transfer."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Read statutory text with Company practice and parliamentary inquiry",
+            "constitutional centralisation did not remove distance, discretion, corruption or racial exclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ABOLISHED → Company rule, Court of Directors and Board of Control.",
+      "source_references": [
+        "13. The Government of India Act, 1858: transfer to the Crown, Secretary of State, India Council, and Viceroy",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CONSTITUTIONAL LADDER, 1773-1858",
+      "structural_type": "timeline",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL LADDER, 1773-1858",
+          "role": "primary"
+        },
+        {
+          "text": "1773 OVERSIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "1781 JURISDICTIONAL REPAIR",
+          "role": "comparison"
+        },
+        {
+          "text": "1784 CROWN SUPERVISION",
+          "role": "evidence"
+        },
+        {
+          "text": "1813 MONOPOLY BREACH",
+          "role": "primary"
+        },
+        {
+          "text": "1833 CENTRAL GOVERNMENT + CODIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "1853 LEGISLATIVE SPECIALISATION + COMPETITIVE RECRUITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "1858 CROWN RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1773 OVERSIGHT → 1781 JURISDICTIONAL REPAIR → 1784 CROWN SUPERVISION",
+        "1813 MONOPOLY BREACH → 1833 CENTRAL GOVERNMENT + CODIFICATION",
+        "1853 LEGISLATIVE SPECIALISATION + COMPETITIVE RECRUITMENT",
+        "1858 CROWN RULE → sovereign changes; colonial centralisation remains."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1773 OVERSIGHT → 1781 JURISDICTIONAL REPAIR → 1784 CROWN SUPERVISION",
+            "1813 MONOPOLY BREACH → 1833 CENTRAL GOVERNMENT + CODIFICATION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1853 LEGISLATIVE SPECIALISATION + COMPETITIVE RECRUITMENT",
+            "1858 CROWN RULE → sovereign changes; colonial centralisation remains."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1773 OVERSIGHT → 1781 JURISDICTIONAL REPAIR → 1784 CROWN SUPERVISION",
+            "1813 MONOPOLY BREACH → 1833 CENTRAL GOVERNMENT + CODIFICATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1858 CROWN RULE → sovereign changes; colonial centralisation remains.",
+      "source_references": [
+        "14. Institutional themes across 1773-1858: centralisation, codification, bureaucracy, and exclusion",
+        "15. Historiography of the Company-state: three readings and a defensible synthesis",
+        "16. Comparative synthesis: the constitutional ladder, provision-to-effect table, and answer architecture",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-06\\g5\\modern-indian-history-06_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMPANY'S TERRITORIAL AUTHORITY AFTER 1765 CREATED A CONTRADICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "A PROFIT-SEEKING COMMERCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CORPORATION WAS COLLECTING REVENUE, MAINTAINING ARMIES AND DISPENSING JUSTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE REGULATING ACT, 1773 WAS PARLIAMENT'S FIRST SERIOUS ATTEMPT",
+          "role": "institution"
+        },
+        {
+          "text": "GIVING BENGAL PRIMACY, ESTABLISHING A GOVERNOR-GENERAL-IN-COUNCIL AND CREATING THE",
+          "role": "institution"
+        },
+        {
+          "text": "THE ACT'S DEFECTS WERE IMMEDIATE",
+          "role": "institution"
+        },
+        {
+          "text": "CONFLICT BETWEEN THE GOVERNOR-GENERAL AND COUNCIL, TENSION BETWEEN THE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Company's territorial authority after 1765 created a contradiction: a profit-seeking commercial",
+            "corporation was collecting revenue, maintaining armies and dispensing justice in India.",
+            "The Regulating Act, 1773 was Parliament's first serious attempt to control this contradiction by",
+            "giving Bengal primacy, establishing a Governor-General-in-Council and creating the Supreme Court at Calcutta."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The Act's defects were immediate: conflict between the Governor-General and Council, tension between the Supreme",
+            "Court and Company courts, and unclear limits of Bombay and Madras in war and diplomacy.",
+            "The Amending Act, 1781 attempted to remove these practical defects by",
+            "clarifying jurisdiction and protecting official actions from excessive judicial interference."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: The constitutional story is therefore not a smooth liberal evolution",
+            "it is a sequence of emergency repairs to keep imperial extraction administratively stable.",
+            "Pitt's India Act, 1784 produced dual government in Britain: the Court of Directors managed Company",
+            "affairs while the Board of Control supervised political matters in the name of the Crown."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

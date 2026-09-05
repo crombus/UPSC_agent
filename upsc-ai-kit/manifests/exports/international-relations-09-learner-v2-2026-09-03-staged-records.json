@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "international-relations-09-learner-v2-2026-09-03",
+  "selection": "international-relations-09",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "international-relations-09:learner-v2:g1",
+      "topic_key": "international-relations-09",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: International Relations — Subject-wide Syllabus — Indian Diaspora, Consular Protection and Soft Power",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Solved-Practice-Workbook_2026-09-03.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Solved-Practice-Workbook_2026-09-03.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\assets",
+      "generated_on": "2026-09-03",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\International-Relations\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\README.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\REVISION-CHART_Actors-Interests-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\International-Relations\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf"
+        ],
+        "live_sources": [
+          "https://www.mea.gov.in/press-releases.htm — attempted 2026-09-03; the request redirected to a browser-requirement stub and returned no press release text, so no live item was taken from it.",
+          "https://www.mea.gov.in/bilateral-documents.htm — attempted 2026-09-03; the request redirected to a browser-requirement stub and returned no bilateral document text, so no live item was taken from it.",
+          "https://www.mea.gov.in/foreign-relation.htm — attempted 2026-09-03; the request redirected to the Ministry's own error page, so no country brief was taken from it.",
+          "https://www.pib.gov.in/indexd.aspx?reg=3&lang=1 — attempted 2026-09-03; the request returned HTTP 403, so no release was taken from it.",
+          "https://madad.gov.in/ — attempted 2026-09-03; the Ministry's consular grievance portal redirected to its landing page and returned only a title line with no grievance, caseload or scheme data, so no consular figure was taken from it and the repository owners' dated figures were used unchanged.",
+          "https://www.emigrate.gov.in/ — attempted 2026-09-03; the emigration clearance portal returned only the words E-migrate with no registration, clearance or grievance table, so no emigration or worker figure was taken from it.",
+          "https://www.iccr.gov.in/ — attempted 2026-09-03; the request failed with a host-resolution error, so no cultural-diplomacy programme, centre count or scholarship claim was taken from the Indian Council for Cultural Relations.",
+          "https://legal.un.org/avl/ha/vccr/vccr.html — attempted 2026-09-03; the United Nations Audiovisual Library of International Law returned substantive official text on the Vienna Convention on Consular Relations, including the Vienna conference of 4 March to 22 April 1963 attended by delegates of ninety-five States, the adoption and opening for signature on 24 April 1963 together with the two Optional Protocols, entry into force on 19 March 1967, the Convention's 79 articles and the content of Article 36. That text is used only for those treaty facts and no Indian consular case, figure or outcome was taken from it.",
+          "https://legal.un.org/ilc/texts/instruments/english/conventions/9_2_1963.pdf — attempted 2026-09-03; the request returned a PDF whose raw bytes could not be simplified to readable text, so no treaty article wording was quoted from it."
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-03",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+          "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+          "upsc-ai-kit\\knowledge\\International-Relations\\00_Master-Framework.md": "718e39a4e3e789c4767b41b4db0583d2f39d3a8a7f695cb1db61ff7c532dbed0",
+          "upsc-ai-kit\\knowledge\\International-Relations\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power_Learner-V2-Complete-Topic-Package.md": "fed4a0648cb17014a47e92f53111b6da86e2e36c2050fb8183acc1234010b0c9",
+          "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md": "12a8602e30c3aaf6de73a3294d384211be7d945a1f4d4368edb1052a3e112ef2",
+          "upsc-ai-kit\\knowledge\\International-Relations\\ANSWER-WORTHINESS-AUDIT.md": "6721bf220e8afbc1ab9ebe3c4a6e51f6772d6737721f7e5b2dfdf0f4587d4822",
+          "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md": "06d446aa614ed86c376333d455e6d2c94120ecc323949c0ef51a8b79b0cc777a",
+          "upsc-ai-kit\\knowledge\\International-Relations\\LEARNING-SESSION-COMMAND-INDEX.md": "ecf35e7c15faaa93b60e590cc52fe2482c85e3f07117f9e20372b64e91fb813e",
+          "upsc-ai-kit\\knowledge\\International-Relations\\learning-sessions\\v2\\subject-wide-syllabus\\international-relations-09_Learning-Session.md": "fed4a0648cb17014a47e92f53111b6da86e2e36c2050fb8183acc1234010b0c9",
+          "upsc-ai-kit\\knowledge\\International-Relations\\learning-sessions\\v2\\subject-wide-syllabus\\international-relations-09_Solved-Workbook.md": "893beef65d0df7c0974acc2de51e6191b4195597d0ffae165878634d28219b1e",
+          "upsc-ai-kit\\knowledge\\International-Relations\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "14221783254785e067847c15363ce1fe52d8b1706ed0242a108172d64ac10300",
+          "upsc-ai-kit\\knowledge\\International-Relations\\README.md": "26844c446c28a5e6d02bad3b728e87a12d68a921d2af197f486d6007532ce349",
+          "upsc-ai-kit\\knowledge\\International-Relations\\REVISION-CHART_Actors-Interests-and-Distinctive-Features.md": "e9aa7db75bfe0e0ea3ab5a654989930e569a606a78bf96f69e5c1d54112e134a",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-09-2026-09-03-sequential.json": "ec4feea39df3e6bc522f9c9b6ed394db0ffbd841e8f747660acd98b0b0c75c6b",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\International-Relations\\international-relations-09.json": "20a71cd419055f7fd54c721c508f427a4bd6f490e75ab4444d71979e341cd5a4",
+          "upsc-ai-kit\\manifests\\v2\\international-relations--subject-wide-syllabus.json": "4ce762067ba31956a242420b87018e66b9d9cca8d550170755f13c4441ba9d5e",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "Live official verification was attempted on 2026-09-03 in the priority order required for this topic: the Ministry of External Affairs pages first, then the Ministry's consular and emigration portals, then the Indian Council for Cultural Relations, then the United Nations as the custodian of the consular treaty framework. Every outcome is recorded exactly as observed. The Ministry of External Affairs press-release, bilateral-document and country-brief pages returned a browser-requirement stub or the Ministry's own error page, the Press Information Bureau index returned HTTP 403, the consular grievance portal and the emigration clearance portal returned only title lines, the Indian Council for Cultural Relations site failed with a host-resolution error, and the United Nations treaty text file returned unreadable raw bytes, so no Indian official item and no treaty quotation was obtained from any of them. The United Nations Audiovisual Library of International Law page on the Vienna Convention on Consular Relations did return substantive official text, and it is used here only for the treaty facts that page actually states. The package therefore uses the dated official anchors already carried by the repository owners together with that single verified treaty source, each with its actor, exact evidentiary level and date. It invents no diaspora, migrant or overseas-population figure, no remittance value or source share, no evacuation, consular-caseload or insurance count, no legal entitlement, citizenship or Overseas Citizen status, no scheme launch or coverage claim, no cultural-institution figure, no host-country political outcome, no date, no previous-year question, no answer key and no current claim.",
+        "pyq_status_note": "Two General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2020 General Studies Paper II question 10 on the Indian diaspora in the politics and economy of America and European countries, a Comment with examples demand of 10 marks and 150 words, for which the ledger records that the Core route supersedes the older Advanced ownership; and 2023 General Studies Paper II question 10 on the Indian diaspora in the West and its economic and political benefits, a Describe demand of 10 marks and 150 words on the same superseding route, for which the ledger records that the word limit was taken from the paper's instruction block because the printed per-question tail carries only the mark value, a provenance defect that is reported here rather than repaired by invented wording. No objective demand from any audited Prelims routing ledger is routed to this owner, so none is listed, invented or answered. The Basic and Advanced owners additionally cite a 2017 General Studies Paper II demand on the role of the Indian diaspora in the economy and society of South-East Asian countries; that year falls outside the audited 2018-2023 and 2024-2025 routing ledgers and the wording is not confirmable from the locally held official papers, so it is recorded here as an owner-cited demand without a question number and is deliberately not converted into a solved demand card. The Basic and Advanced owners also record that no General Studies Paper II Mains question in the audited 2024-2025 papers directly names the diaspora, consular protection or soft power, and that absence is stated honestly instead of force-fitting an adjacent question. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the two routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 5,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "6ac2a68a63c6f05a8412b275c7d96c07ef13aefdc3beeb20b646c788269b3dc1"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "international-relations-09:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-03",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-09\\international-relations-09_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "3e3799a635dff701dd3b8855e9f7f8fa6e80233a408e2db12ed22aa86b3fedc9",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\flowcharts\\international-relations-09\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 5,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-09-2026-09-03-sequential.json",
+        "ascii_master_spec_sha256": "ec4feea39df3e6bc522f9c9b6ed394db0ffbd841e8f747660acd98b0b0c75c6b"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-14",
+      "display_title": "Climate Classification (Koppen) / India Climatic Regions",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Classification design gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PURPOSE -> comparison, explanation or planning",
+            "VARIABLES -> temperature, rain or water balance",
+            "METHOD -> thresholds, period, scale, interpolation",
+            "OUTPUT -> useful model with explicit limits",
+            "MUST REMEMBER: Köppen classification uses temperature and precipitation thresholds with",
+            "  seasonality letters; India must be mapped as regional climate regimes shaped by latitude,",
+            "  altitude, continentality, relief and monsoon circulation rather than memorised codes alone."
+          ],
+          "source_references": [
+            "Why classify climate",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Koppen major groups",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "A -> tropical thermal regime",
+            "B -> dryness threshold first",
+            "C / D -> coldest-month convention matters",
+            "E -> warmest month below 10 C; H added later"
+          ],
+          "source_references": [
+            "Koppen's empirical design",
+            "Polar E and highland H",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Tropical code grammar",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "Af -> no dry season",
+            "Am -> monsoon short dry season logic",
+            "Aw / As -> dry winter / dry summer",
+            "RULE -> first letter climate, second rainfall"
+          ],
+          "source_references": [
+            "Tropical A climates",
+            "Second-letter grammar",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Dry-climate gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "TEMPERATURE + RAIN SEASON -> dryness threshold",
+            "PRECIPITATION BELOW THRESHOLD -> B group",
+            "DRIER -> BW desert",
+            "LESS DRY -> BS steppe; h/k thermal suffix"
+          ],
+          "source_references": [
+            "Dry B climates",
+            "Third-letter grammar",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "C-D threshold firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COLDEST MONTH -> C/D discriminator",
+            "CONVENTION 1 -> minus 3 C boundary",
+            "CONVENTION 2 -> 0 C boundary",
+            "ANSWER RULE -> state convention before mapping"
+          ],
+          "source_references": [
+            "Temperate C and continental D",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Normal-to-trend ladder",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "NORMAL -> stated 30-year reference",
+            "ANOMALY -> observation minus normal",
+            "VARIABILITY -> spread and recurrence",
+            "TREND -> multi-period direction with uncertainty"
+          ],
+          "source_references": [
+            "Normals and reference periods",
+            "Anomaly, variability and trend",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Climate-boundary model",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STATIONS / GRIDS -> measured variables",
+            "QUALITY CONTROL -> comparable records",
+            "INTERPOLATION + THRESHOLDS -> class map",
+            "GROUND REALITY -> transition, not wall"
+          ],
+          "source_references": [
+            "Mapped boundaries and scale",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India control matrix",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LATITUDE + ALTITUDE -> thermal structure",
+            "RELIEF -> uplift, rain shadow, cold barrier",
+            "SEA DISTANCE -> maritime / continental range",
+            "MONSOON + WDs + OCEAN -> seasonal variability"
+          ],
+          "source_references": [
+            "Controls of India's climatic mosaic",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India code-map boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "COMMON TYPES -> tropical, dry, subtropical, highland",
+            "EXACT CODE -> depends on dataset and threshold",
+            "BOUNDARY -> depends on scale and interpolation",
+            "RULE -> cite source, period and convention"
+          ],
+          "source_references": [
+            "Koppen regions applied to India",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Classification comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KOPPEN -> temperature + precipitation thresholds",
+            "TREWARTHA -> modified thermal zonation",
+            "THORNTHWAITE -> water balance + PET",
+            "CHOICE -> match method to question purpose",
+            "CLOSE DISTINCTION: A/B/C/D/E are major climate groups, second and third letters carry",
+            "  moisture/thermal meaning, and climate region differs from vegetation biome or agro-climatic",
+            "  zone even when boundaries broadly correlate."
+          ],
+          "source_references": [
+            "Trewartha, Thornthwaite and planning regions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Planning overlay",
+          "structural_type": "layer-map",
+          "ascii_lines": [
+            "CLIMATE TYPE -> long-period thermal-rain pattern",
+            "AGRO-CLIMATE -> crop and season context",
+            "AGRO-ECOLOGY -> soil + landform + growing period",
+            "RISK LAYER -> hazards, exposure and vulnerability",
+            "EVIDENCE LIMIT: Threshold classification simplifies transitional and highland mosaics; map",
+            "  answers should state dataset/scale and avoid treating a code boundary as a permanent",
+            "  administrative or ecological line."
+          ],
+          "source_references": [
+            "Trewartha, Thornthwaite and planning regions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Climate answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> purpose, variables and period",
+            "DECODE -> letters and thresholds",
+            "MAP -> India with transition caveat",
+            "COMPARE -> method, use, limitation and verdict"
+          ],
+          "source_references": [
+            "Classification evidence and exam application",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g3\\geography-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

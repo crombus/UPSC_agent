@@ -1,0 +1,1096 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-08",
+  "subject": "Environment-and-Ecology",
+  "title": "WILDLIFE PROTECTION ACT AND SCHEDULES",
+  "short_route": "LEGAL-VINTAGE TIMELINE → POST-2022 SCHEDULE MAP → SPECIES-PLACEMENT GATE → VERMIN TIME-POINT MAP → PROHIBITION AND EXCEPTION GATE → NARROW ANIMAL-ACTION ROUTE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-08_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-08-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "f04839c37e59d0351d6f245f27ee0bc6ed226d3676b2b57f379b20bb40336643",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LEGAL-VINTAGE TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LEGAL-VINTAGE TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "1972 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "ORIGINAL WILDLIFE-PROTECTION FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "SIX SCHEDULES",
+          "role": "evidence"
+        },
+        {
+          "text": "2022 AMENDMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR SCHEDULES",
+          "role": "outcome"
+        },
+        {
+          "text": "ANSWER THE LAW APPLICABLE TO THE QUESTION'S TIME POINT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1972 ACT → original wildlife-protection framework",
+        "PRE-2022 → six schedules",
+        "2022 AMENDMENT → restructuring",
+        "POST-2022 → four schedules",
+        "RULE → answer the law applicable to the question's time point"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "1972 ACT → original wildlife-protection framework",
+            "PRE-2022 → six schedules"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2022 AMENDMENT → restructuring",
+            "POST-2022 → four schedules"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → answer the law applicable to the question's time point",
+            "1972 ACT → original wildlife-protection framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → answer the law applicable to the question's time point.",
+      "source_references": [
+        "Legal vintage first",
+        "Six schedules to four"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POST-2022 SCHEDULE MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POST-2022 SCHEDULE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULE I",
+          "role": "outcome"
+        },
+        {
+          "text": "ANIMALS, GREATEST DEGREE OF PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULE II",
+          "role": "evidence"
+        },
+        {
+          "text": "ANIMALS, LESSER DEGREE THAN SCHEDULE I",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULE III",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIED PLANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULE IV",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCHEDULE I → animals, greatest degree of protection",
+        "SCHEDULE II → animals, lesser degree than Schedule I",
+        "SCHEDULE III → specified plants",
+        "SCHEDULE IV → CITES scheduled specimens and trade control",
+        "RULE → Schedule IV is not another protection rung"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SCHEDULE I → animals, greatest degree of protection",
+            "SCHEDULE II → animals, lesser degree than Schedule I"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULE III → specified plants",
+            "SCHEDULE IV → CITES scheduled specimens and trade control"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → Schedule IV is not another protection rung",
+            "SCHEDULE I → animals, greatest degree of protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → Schedule IV is not another protection rung.",
+      "source_references": [
+        "Schedule I",
+        "Schedule II",
+        "Schedule III",
+        "Schedule IV"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SPECIES-PLACEMENT GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SPECIES-PLACEMENT GATE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME A SPECIES",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY LEGAL DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT CONSOLIDATED SCHEDULE OR NOTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "IUCN STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE SCIENTIFIC FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "CITES APPENDIX",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE TRADE FIELD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NAME A SPECIES → identify legal date",
+        "CHECK → current consolidated schedule or notification",
+        "IUCN STATUS → separate scientific field",
+        "CITES APPENDIX → separate trade field",
+        "NO MEMORY SHORTCUT → placement can change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NAME A SPECIES → identify legal date",
+            "CHECK → current consolidated schedule or notification"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IUCN STATUS → separate scientific field",
+            "CITES APPENDIX → separate trade field"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO MEMORY SHORTCUT → placement can change",
+            "NAME A SPECIES → identify legal date"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CITES APPENDIX → separate trade field; NO MEMORY SHORTCUT → placement can change.",
+      "source_references": [
+        "Species placement discipline",
+        "Science, law and trade"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VERMIN TIME-POINT MAP",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VERMIN TIME-POINT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "OLD STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULE V VERMIN LIST",
+          "role": "comparison"
+        },
+        {
+          "text": "2022 CHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "OLD SCHEDULE V OMITTED",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT OWNER ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL NOTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIED AREA AND PERIOD; SCHEDULE I EXCLUDED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLD STRUCTURE → Schedule V vermin list",
+        "2022 CHANGE → old Schedule V omitted",
+        "CURRENT OWNER ROUTE → central notification",
+        "LIMITS → specified area and period; Schedule I excluded",
+        "PYQ RULE → use the law in force when the question is framed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "OLD STRUCTURE → Schedule V vermin list",
+            "2022 CHANGE → old Schedule V omitted"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CURRENT OWNER ROUTE → central notification",
+            "LIMITS → specified area and period; Schedule I excluded"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PYQ RULE → use the law in force when the question is framed",
+            "OLD STRUCTURE → Schedule V vermin list"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PYQ RULE → use the law in force when the question is framed.",
+      "source_references": [
+        "Vermin time point",
+        "Audited PYQ vintage boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROHIBITION AND EXCEPTION GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROHIBITION AND EXCEPTION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "HUNTING PROHIBITED",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIMED EXCEPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY STATUTORY PURPOSE OR CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "CHIEF WILDLIFE WARDEN OR OTHER AUTHORISED OFFICER",
+          "role": "primary"
+        },
+        {
+          "text": "APPLICABLE WRITTEN PERMISSION OR PERMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCEPTION NEVER BECOMES GENERAL PERMISSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BASELINE → hunting prohibited",
+        "CLAIMED EXCEPTION → identify statutory purpose or condition",
+        "AUTHORITY → Chief Wildlife Warden or other authorised officer",
+        "FORM → applicable written permission or permit",
+        "RULE → exception never becomes general permission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "BASELINE → hunting prohibited",
+            "CLAIMED EXCEPTION → identify statutory purpose or condition"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "AUTHORITY → Chief Wildlife Warden or other authorised officer",
+            "FORM → applicable written permission or permit"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → exception never becomes general permission",
+            "BASELINE → hunting prohibited"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUTHORITY → Chief Wildlife Warden or other authorised officer.",
+      "source_references": [
+        "Hunting prohibition",
+        "Permit and exception",
+        "Dangerous or beyond recovery route"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NARROW ANIMAL-ACTION ROUTE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NARROW ANIMAL-ACTION ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "DANGEROUS TO HUMAN LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST STATUTORY CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "DISABLED OR DISEASED BEYOND RECOVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DETERMINES APPLICABLE AUTHORITY ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "WRITTEN PERMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "RETAIN IN THE ANSWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DANGEROUS TO HUMAN LIFE → test statutory condition",
+        "DISABLED OR DISEASED BEYOND RECOVERY → test evidence",
+        "SCHEDULE → determines applicable authority route",
+        "WRITTEN PERMISSION → retain in the answer",
+        "NO EXTENSION → do not invent a population-control exception"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DANGEROUS TO HUMAN LIFE → test statutory condition",
+            "DISABLED OR DISEASED BEYOND RECOVERY → test evidence"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULE → determines applicable authority route",
+            "WRITTEN PERMISSION → retain in the answer"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO EXTENSION → do not invent a population-control exception",
+            "DANGEROUS TO HUMAN LIFE → test statutory condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO EXTENSION → do not invent a population-control exception.",
+      "source_references": [
+        "Dangerous or beyond recovery route"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CITES AUTHORITY SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CITES AUTHORITY SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "MANAGEMENT AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMITS AND CERTIFICATES",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENTIFIC AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSERVATION ADVICE ON TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "CHAPTER VB",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC INTERNATIONAL-TRADE MACHINERY",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULE IV",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MANAGEMENT AUTHORITY → permits and certificates",
+        "SCIENTIFIC AUTHORITY → conservation advice on trade",
+        "CHAPTER VB → domestic international-trade machinery",
+        "SCHEDULE IV → scheduled specimens",
+        "RULE → advice, permission and species listing are separate functions"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "MANAGEMENT AUTHORITY → permits and certificates",
+          "CHAPTER VB → domestic international-trade machinery",
+          "RULE → advice, permission and species listing are separate functions"
+        ],
+        [
+          "SCIENTIFIC AUTHORITY → conservation advice on trade",
+          "SCHEDULE IV → scheduled specimens",
+          "MANAGEMENT AUTHORITY → permits and certificates"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "MANAGEMENT AUTHORITY → permits and certificates",
+            "SCIENTIFIC AUTHORITY → conservation advice on trade"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CHAPTER VB → domestic international-trade machinery",
+            "SCHEDULE IV → scheduled specimens"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → advice, permission and species listing are separate functions",
+            "MANAGEMENT AUTHORITY → permits and certificates"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → advice, permission and species listing are separate functions.",
+      "source_references": [
+        "CITES Management Authority",
+        "CITES Scientific Authority",
+        "Chapter VB trade architecture"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CITES INCORPORATION FIREWALL",
+      "structural_type": "layered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CITES INCORPORATION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CITES COP OR APPENDIX",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN LEGAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "APPLICABLE DOMESTIC UPDATE",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULE IV",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC SCHEDULED-SPECIMEN STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMIT SYSTEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITES COP OR APPENDIX → international decision",
+        "INDIAN LEGAL PROCESS → applicable domestic update",
+        "SCHEDULE IV → domestic scheduled-specimen status",
+        "PERMIT SYSTEM → Management Authority action",
+        "NO AUTOMATICITY → international change is not instant domestic text"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CITES COP OR APPENDIX → international decision",
+            "INDIAN LEGAL PROCESS → applicable domestic update"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULE IV → domestic scheduled-specimen status",
+            "PERMIT SYSTEM → Management Authority action"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO AUTOMATICITY → international change is not instant domestic text",
+            "CITES COP OR APPENDIX → international decision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO AUTOMATICITY → international change is not instant domestic text.",
+      "source_references": [
+        "Schedule IV",
+        "Species placement discipline",
+        "Chapter VB trade architecture"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INVASIVE ALIEN SPECIES POWER",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INVASIVE ALIEN SPECIES POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "SPECIES CLAIMED TO BE INVASIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLICABLE LEGAL NOTIFICATION OR ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "REGULATE OR PROHIBIT LISTED ACTIVITIES",
+          "role": "primary"
+        },
+        {
+          "text": "TRADE, POSSESSION AND PROLIFERATION CONTROLS AS APPLICABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO SPECIES LIST IS INFERRED FROM THE ENABLING POWER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → species claimed to be invasive",
+        "VERIFY → applicable legal notification or order",
+        "CENTRAL POWER → regulate or prohibit listed activities",
+        "IMPLEMENT → trade, possession and proliferation controls as applicable",
+        "CAUTION → no species list is inferred from the enabling power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "IDENTIFY → species claimed to be invasive",
+            "VERIFY → applicable legal notification or order"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "CENTRAL POWER → regulate or prohibit listed activities",
+            "IMPLEMENT → trade, possession and proliferation controls as applicable"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → no species list is inferred from the enabling power",
+            "IDENTIFY → species claimed to be invasive"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → no species list is inferred from the enabling power.",
+      "source_references": [
+        "Invasive alien species"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WCCB STATUTORY MAP",
+      "structural_type": "authority-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WCCB STATUTORY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 38Y",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTION OF WCCB ON MOEFCC PAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 38Z",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNCTIONS ON MOEFCC PAGE",
+          "role": "primary"
+        },
+        {
+          "text": "COLLECTION, COLLATION AND DISSEMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEMENT AND INTERNATIONAL COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WCCB DOES NOT REPLACE EVERY STATUTORY DECISION-MAKER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECTION 38Y → constitution of WCCB on MoEFCC page",
+        "SECTION 38Z → functions on MoEFCC page",
+        "INTELLIGENCE → collection, collation and dissemination",
+        "COORDINATION → enforcement and international cooperation",
+        "LIMIT → WCCB does not replace every statutory decision-maker"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SECTION 38Y → constitution of WCCB on MoEFCC page",
+            "SECTION 38Z → functions on MoEFCC page"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTELLIGENCE → collection, collation and dissemination",
+            "COORDINATION → enforcement and international cooperation"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → WCCB does not replace every statutory decision-maker",
+            "SECTION 38Y → constitution of WCCB on MoEFCC page"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → WCCB does not replace every statutory decision-maker.",
+      "source_references": [
+        "WCCB statutory role"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DOMESTIC AUTHORITY MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOMESTIC AUTHORITY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CHIEF WILDLIFE WARDEN",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE AUTHORISATION AND ENFORCEMENT ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "ORGANISED WILDLIFE-CRIME INTELLIGENCE AND COORDINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTED-AREA GOVERNANCE ROLE",
+          "role": "primary"
+        },
+        {
+          "text": "TIGER-SPECIFIC STATUTORY ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "CITES AUTHORITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNATIONAL SCHEDULED-SPECIMEN TRADE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHIEF WILDLIFE WARDEN → state authorisation and enforcement route",
+        "WCCB → organised wildlife-crime intelligence and coordination",
+        "NBWL → protected-area governance role",
+        "NTCA → tiger-specific statutory role",
+        "CITES AUTHORITIES → international scheduled-specimen trade"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CHIEF WILDLIFE WARDEN → state authorisation and enforcement route",
+          "NBWL → protected-area governance role",
+          "CITES AUTHORITIES → international scheduled-specimen trade"
+        ],
+        [
+          "WCCB → organised wildlife-crime intelligence and coordination",
+          "NTCA → tiger-specific statutory role",
+          "CHIEF WILDLIFE WARDEN → state authorisation and enforcement route"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CHIEF WILDLIFE WARDEN → state authorisation and enforcement route",
+            "WCCB → organised wildlife-crime intelligence and coordination"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NBWL → protected-area governance role",
+            "NTCA → tiger-specific statutory role"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "CITES AUTHORITIES → international scheduled-specimen trade",
+            "CHIEF WILDLIFE WARDEN → state authorisation and enforcement route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHIEF WILDLIFE WARDEN → state authorisation and enforcement route.",
+      "source_references": [
+        "State and Chief Wildlife Warden",
+        "NBWL and NTCA"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-2022 OR POST-2022 STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULE I, II, III OR IV FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROHIBITION, EXCEPTION, AUTHORITY AND PERMIT",
+          "role": "evidence"
+        },
+        {
+          "text": "IUCN RISK, DOMESTIC SCHEDULE AND CITES TRADE",
+          "role": "caution"
+        },
+        {
+          "text": "VERIFY CURRENT PLACEMENT, PENALTY AND OBJECTIVE KEY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DATE → pre-2022 or post-2022 structure",
+        "CLASSIFY → Schedule I, II, III or IV function",
+        "TRACE → prohibition, exception, authority and permit",
+        "SEPARATE → IUCN risk, domestic schedule and CITES trade",
+        "QUALIFY → verify current placement, penalty and objective key"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DATE → pre-2022 or post-2022 structure",
+            "CLASSIFY → Schedule I, II, III or IV function"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE → prohibition, exception, authority and permit",
+            "SEPARATE → IUCN risk, domestic schedule and CITES trade"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → verify current placement, penalty and objective key",
+            "DATE → pre-2022 or post-2022 structure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → verify current placement, penalty and objective key.",
+      "source_references": [
+        "Science, law and trade",
+        "Audited PYQ vintage boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "WILDLIFE CRIME CONTROL BUREAU (WCCB)",
+          "role": "outcome"
+        },
+        {
+          "text": "COORDINATES INTELLIGENCE, INVESTIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTATION GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "WILDLIFE-CRIME PROSECUTION IN INDIA HAS FACED DOCUMENTED",
+          "role": "primary"
+        },
+        {
+          "text": "INVASIVE-ALIEN-SPECIES REGULATION IS A NEWLY EMPOWERED BUT STILL MATURING",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPREHENSIVE, REAL-TIME NATIONAL DATA ON WILDLIFE-CRIME PROSECUTION OUTCOMES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE EXACT, CURRENT SPECIES-TO-SCHEDULE MAPPING IS SUBJECT TO PERIODIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "Wildlife Crime Control Bureau (WCCB): coordinates intelligence, investigation",
+            "CAUTION: Implementation gap: wildlife-crime prosecution in India has faced documented",
+            "CAUTION: Invasive-alien-species regulation is a newly empowered but still maturing governance",
+            "CAUTION: Comprehensive, real-time national data on wildlife-crime prosecution outcomes"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: The exact, current species-to-Schedule mapping is subject to periodic gazette",
+            "The Wildlife (Protection) Amendment Act, 2022 restructured six schedules into four and",
+            "Post-2022 schedule content: I and II = animals (greater/lesser protection), III =",
+            "The 2022 amendment empowered the central government to regulate/manage invasive alien"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "The amendment gave statutory footing to India's CITES Management Authority and",
+            "The Wildlife Crime Control Bureau (WCCB) coordinates intelligence and enforcement",
+            "Schedule IV's CITES-mirroring structure is a legal-alignment mechanism, not an automatic,",
+            "NOT: CITES Appendix changes automatically and instantly amend India's Schedule IV without any"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

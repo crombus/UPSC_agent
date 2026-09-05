@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with the manually authored Social and Political Ideals twelve-panel atlas",
+  "generated_on": "2026-09-03",
+  "scope": "Philosophy Optional Paper II Socio-Political Philosophy topic 01 only",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "title": "Social and Political Ideals",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-09-03.md",
+      "source_record": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g6",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, all prior topic artifacts, canonical owners and retained packages remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Printed clause boundary and the ideals triad",
+          "structural_type": "ownership gate and triadic map",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "OFFICIAL OWNER -> Equality, Justice and Liberty only",
+            "EQUALITY asks in what respect persons must count as equals",
+            "LIBERTY asks which protected choices and capacities agency requires",
+            "JUSTICE asks what is due, by which rule and through which procedure",
+            "democracy and citizenship enter only as the 2018 PYQ setting",
+            "rights, duties, sovereignty and government retain their later owners",
+            "thesis -> distinct ideals, institutionally interdependent"
+          ]
+        },
+        {
+          "panel_title": "Individual claims and social institutions",
+          "structural_type": "two-level comparison matrix",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "INDIVIDUAL EQUALITY -> equal moral worth and equal concern",
+            "SOCIAL EQUALITY -> no arbitrary status hierarchy or inherited stigma",
+            "INDIVIDUAL LIBERTY -> protected thought, choice and self-direction",
+            "SOCIAL LIBERTY -> usable options plus freedom from domination",
+            "INDIVIDUAL JUSTICE -> due treatment, reasons and rectification",
+            "INSTITUTIONAL JUSTICE -> fair procedure, distribution and status order",
+            "bridge -> legality may exist without legitimacy"
+          ]
+        },
+        {
+          "panel_title": "Equality from formal status to substantive opportunity",
+          "structural_type": "progressive equality ladder",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "equal moral worth -> birth hierarchy bears the burden of justification",
+            "formal or legal equality -> the same public legal status",
+            "political equality -> citizenship, vote and eligibility for office",
+            "social equality -> freedom from caste rank, stigma and humiliation",
+            "economic equality -> fair background conditions and life chances",
+            "formal opportunity -> offices are legally open",
+            "fair opportunity -> access is realistically usable",
+            "outcome concern -> thresholds and least-advantaged protection"
+          ]
+        },
+        {
+          "panel_title": "Rousseau Mill and Marx on socially produced inequality",
+          "structural_type": "three-thinker causal comparison",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "ROUSSEAU -> natural difference becomes domination through convention",
+            "moral-political inequality -> wealth, honour, power and dependence",
+            "MILL -> equal civic status and women's equality with individuality",
+            "manufactured subordination cannot prove natural inferiority",
+            "MARX -> formally equal exchange can conceal class exploitation",
+            "equal right can reproduce inequality when needs differ",
+            "higher communist rule -> contribution by ability, distribution by need"
+          ]
+        },
+        {
+          "panel_title": "Equality of what and the metric decision",
+          "structural_type": "metric decision tree",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "DWORKIN -> resources; brute luck differs from option luck",
+            "SEN -> capability asks what persons are actually able to do and be",
+            "conversion conditions make equal resources yield unequal freedom",
+            "COHEN -> an unequal ethos can defeat formally just institutions",
+            "LUCK EGALITARIANISM -> correct brute-luck disadvantage",
+            "RELATIONAL EQUALITY -> end hierarchy and second-class standing",
+            "trap -> capability is not equal income or identical functioning"
+          ]
+        },
+        {
+          "panel_title": "Berlin Mill and the justified limit of coercion",
+          "structural_type": "liberty distinction and harm test",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "NEGATIVE LIBERTY -> freedom from interference",
+            "POSITIVE LIBERTY -> self-direction and being one's own master",
+            "Berlin warns against coercion for an alleged true or rational self",
+            "MILL -> coercion needs prevention of harm to others",
+            "self-regarding conduct receives a presumption of liberty",
+            "offence, dislike and paternal benefit are not automatically harm",
+            "answer test -> who is free, from what, to do what, under whose power"
+          ]
+        },
+        {
+          "panel_title": "Law security autonomy and effective freedom",
+          "structural_type": "four-thinker liberty rail",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "HOBBES -> order secures residual liberty where law is silent",
+            "LOCKE -> known law protects rights against arbitrary government",
+            "ROUSSEAU -> autonomy is civic self-legislation through general will",
+            "GREEN -> freedom includes effective capacity for worthwhile action",
+            "poverty, ignorance and dependency can hollow non-interference",
+            "equality can enable liberty by reducing dependency",
+            "limit -> enabling provision must not become perfectionist compulsion"
+          ]
+        },
+        {
+          "panel_title": "Technology and republican non-domination",
+          "structural_type": "standing-power diagnostic",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "technology expands communication, association and knowledge",
+            "surveillance and platform dependence create standing power",
+            "INTERFERENCE is an act; DOMINATION is uncontrolled capacity",
+            "Pettit -> an indulgent master can dominate without interfering",
+            "contestable interest-tracking law can constitute freedom",
+            "Code on Wages commenced 21-Nov-2025; status is not implementation",
+            "PYQ route -> liberty is realisable only under accountable power"
+          ]
+        },
+        {
+          "panel_title": "Formal procedural and substantive justice",
+          "structural_type": "three-form justice matrix",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "FORMAL JUSTICE -> apply announced principles consistently",
+            "PROCEDURAL JUSTICE -> fair hearing, publicity and impartial process",
+            "SUBSTANTIVE JUSTICE -> just principle, distribution and status relation",
+            "fair procedure can reproduce unjust starting conditions",
+            "substantive correction without due process can become arbitrary",
+            "best synthesis -> fair procedure plus defensible substantive criteria",
+            "LEGAL JUSTICE -> impartial law and moral assessment of law",
+            "POLITICAL JUSTICE -> equal citizenship, voice and non-arbitrary power",
+            "SOCIO-ECONOMIC JUSTICE -> fair burdens, benefits and real opportunity",
+            "RECOGNITION-STATUS JUSTICE -> no stigma or second-class standing",
+            "legality identifies validity; legitimacy asks moral justification"
+          ]
+        },
+        {
+          "panel_title": "Plato Aristotle utilitarianism and corrective repair",
+          "structural_type": "classical justice comparison",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "PLATO -> harmony when each part performs its proper function",
+            "objection -> functional harmony can freeze hierarchy",
+            "ARISTOTLE DISTRIBUTIVE -> proportion by a relevant criterion",
+            "criteria -> need, desert, merit, contribution, equality, compensation",
+            "ARISTOTLE CORRECTIVE -> arithmetic restoration after a wrong",
+            "UTILITARIANISM -> aggregate welfare risks sacrificing separate persons",
+            "justice needs allocation, procedure, substance and rectification"
+          ]
+        },
+        {
+          "panel_title": "Rawls Nozick Sen and Ambedkar",
+          "structural_type": "modern justice debate grid",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "RAWLS -> original position and veil model fair choice",
+            "equal basic liberties have lexical priority",
+            "fair equality of opportunity precedes the difference principle",
+            "NOZICK -> acquisition, transfer and rectification, not a pattern",
+            "SEN -> capability and public reasoning compare remediable injustice",
+            "institutional justice differs from realised justice in actual lives",
+            "AMBEDKAR -> political democracy needs equality and fraternity"
+          ]
+        },
+        {
+          "panel_title": "Fourteen PYQs and the executable answer spine",
+          "structural_type": "directive and evidence rail",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "OWNER CORPUS -> 14 verified parts across every year 2018-2025",
+            "DEFINE -> strongest sense of the ideal in the stem",
+            "DISTINGUISH -> metric, interference, procedure, substance or repair",
+            "ARGUE -> claim, named thinker or example, analysis, qualification",
+            "COUNTER -> strongest objection and best reply",
+            "COMPARE -> run both positions down shared axes",
+            "HOW FAR -> state the conditions under which the claim holds and fails",
+            "END -> justice orders liberty and equality without replacing either"
+          ]
+        }
+      ]
+    }
+  ]
+}

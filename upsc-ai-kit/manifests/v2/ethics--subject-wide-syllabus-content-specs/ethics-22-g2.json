@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "ethics-22",
+  "title": "Case Study Method and Answer Architecture",
+  "generation": 2,
+  "generation_date": "2026-09-02",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "ethics-22:learner-v2:g1",
+  "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md"
+  ],
+  "source_hashes": {
+    "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf": "5038faf653a842c5f637756e7081ef8dcc663d09cea609947a377312a4da45f5",
+    "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf": "992d194aa7b5aa3b5a5c5ef8f4d8c69c03971b28a2e8a16efcbb878c6591c15f",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+    "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md": "3a27b9051d45760ab37eb9a718eccb901b6792b4e6eae45e1cc3b2ed202bc29c",
+    "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md": "30c07d9bf15dbc4b36c1f2dbe95f80efb17f8c848bd73795b0f47c68422f7740",
+    "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md": "facb021b70cf3a3e72cd8530c6b8a229f3054330690cdb7b3a55d3c18a714c3c",
+    "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "9d8b81770fa122df7ad6ea5d1cefb33162dd8fe6679f875c9414ba7e0f4dfcb2",
+    "upsc-ai-kit\\knowledge\\Ethics\\README.md": "6e36ff77410d49d1b8b2e485c4bd8efd8c5ec341f9f793c89afcccf1e9873cfc"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "The session lacks an explicit syllabus, evidence-class, contested-claim and approval contract.",
+    "Solved items use a generic examiner-model status pointer rather than a self-contained detailed model answer built from the named evidence.",
+    "The package lacks a topic-specific Ethics chronology, spatial distinction and evidence/historiography qualification control.",
+    "Visual-first Core progression is incomplete: sessions=10, visual gateways=0."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Solved-Practice-Workbook_2026-09-02.md"
+}

@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-14",
+      "display_title": "Heritage Conservation, Institutions and UNESCO",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Four-category firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WHS -> tangible or mixed property",
+            "ICH -> living practice and transmission",
+            "MoW -> documentary record",
+            "GI -> domestic origin-linked IP",
+            "MUST REMEMBER: Heritage governance separates the 1972 World Heritage Convention, 2003",
+            "  Intangible Heritage Convention, Memory of the World documentary programme, domestic GI law,",
+            "  ASI statutes and the three Akademi mandates."
+          ],
+          "source_references": [
+            "The four-category firewall",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Conditional-status loop",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INSCRIPTION -> recognition and duty",
+            "MONITORING -> management scrutiny",
+            "DANGER LIST -> corrective pressure",
+            "REMOVAL -> improvement can restore status"
+          ],
+          "source_references": [
+            "World Heritage as conditional obligation",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Institution mandate map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "ASI -> monuments and archaeology",
+            "SNA -> performing arts",
+            "SAHITYA / LKA -> literature and fine arts",
+            "NMM / ARCHIVES -> manuscripts and records"
+          ],
+          "source_references": [
+            "Akademis and cultural institutions",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Constitutional ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARTICLE 29 -> community cultural right",
+            "ARTICLE 49 -> State monument duty",
+            "ARTICLE 51A(f) -> citizen duty",
+            "STATUTES -> operational protection"
+          ],
+          "source_references": [
+            "Constitutional heritage duties",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Boundary firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AMASR 100 m -> generally prohibited",
+            "AMASR next 200 m -> regulated",
+            "UNESCO BUFFER -> mapped management zone",
+            "RULE -> separate legal sources"
+          ],
+          "source_references": [
+            "AMASR zones and UNESCO buffers",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Threat-response matrix",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "VISITOR LOAD -> access management",
+            "URBAN / CLIMATE -> regulation and monitoring",
+            "DISASTER / DECAY -> documentation and conservation",
+            "TRANSMISSION LOSS -> practitioner support"
+          ],
+          "source_references": [
+            "Threats and instrument fit",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Conservation-restoration test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONSERVE -> stabilise existing fabric",
+            "RESTORE -> return to chosen earlier state",
+            "REVERSIBILITY -> preferred in conservation",
+            "AUTHENTICITY -> risk rises with reconstruction"
+          ],
+          "source_references": [
+            "Conservation versus restoration",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Living-site balance",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ACTIVE WORSHIP? -> protect access",
+            "LIVELIHOOD? -> assess displacement",
+            "FRAGILE FABRIC? -> regulate use",
+            "VERDICT -> negotiate, do not empty the site"
+          ],
+          "source_references": [
+            "Community rights and living use",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Moidams form map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "VAULT -> hollow royal burial chamber",
+            "MOUND -> earth-covered form",
+            "SHRINE + WALL -> ritual enclosure",
+            "LANDSCAPE -> continuing ancestor practice"
+          ],
+          "source_references": [
+            "Moidams form and status",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Recent WH ledger",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2016 -> Nalanda",
+            "2021 -> Dholavira and Ramappa",
+            "2023 -> Santiniketan and Hoysalas",
+            "2024 / 2025 -> Moidams and Maratha forts",
+            "CLOSE DISTINCTION: Tentative List is not inscription, UNESCO does not acquire sovereignty,",
+            "  recognition does not itself safeguard transmission, and Sahitya, Sangeet Natak and Lalit",
+            "  Kala Akademi mandates are not interchangeable."
+          ],
+          "source_references": [
+            "Recent World Heritage chronology",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Scheme-statute firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AMASR / ANTIQUITIES -> statutes",
+            "ADOPT A HERITAGE -> amenities partnership",
+            "ADARSH SMARAK -> visitor amenities",
+            "NCF -> funding mechanism",
+            "EVIDENCE LIMIT: Every current list, count, danger status, institutional programme or law claim",
+            "  needs source, date and status; conservation must reconcile authenticity, living use,",
+            "  community rights, tourism and disaster risk."
+          ],
+          "source_references": [
+            "Schemes, funds and statutes",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Heritage answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DIAGNOSE -> category and threat",
+            "MATCH -> law, body, fund or scheme",
+            "EVIDENCE -> named site or practice",
+            "QUALIFY -> capacity, community and dynamic status"
+          ],
+          "source_references": [
+            "Maratha Landscapes, safeguarding PYQ and final spine",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\14_Heritage-Conservation-Institutions-and-UNESCO.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g2\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

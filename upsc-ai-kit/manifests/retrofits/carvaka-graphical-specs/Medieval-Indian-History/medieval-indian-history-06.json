@@ -1,0 +1,1120 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-06",
+  "subject": "Medieval-Indian-History",
+  "title": "DECLINE OF THE SULTANATE: TIMUR, SAYYIDS & LODIS",
+  "short_route": "FROM FIRUZ'S DEATH TO → STRUCTURAL FRAGMENTATION WEB → DECLINE VERSUS REGIONALISATION → TIMUR'S RAID AS EXTERNAL → HOW TO READ TIMUR'S → SAYYID RULER LADDER AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-05-06-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "01becc92047b5b9f732574437352e75071156a1e994335bf386a75c9ab788fb0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FROM FIRUZ'S DEATH TO PANIPAT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM FIRUZ'S DEATH TO PANIPAT",
+          "role": "primary"
+        },
+        {
+          "text": "1388 FIRUZ DIES",
+          "role": "outcome"
+        },
+        {
+          "text": "SUCCESSION AND FACTIONAL CRISIS",
+          "role": "comparison"
+        },
+        {
+          "text": "1398 TIMUR SACKS DELHI",
+          "role": "evidence"
+        },
+        {
+          "text": "1414 KHIZR KHAN ENTERS DELHI",
+          "role": "primary"
+        },
+        {
+          "text": "1414-51 SAYYIDS",
+          "role": "outcome"
+        },
+        {
+          "text": "1451 BAHLUL LODI",
+          "role": "comparison"
+        },
+        {
+          "text": "1484 JAUNPUR ANNEXED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1388 Firuz dies → succession and factional crisis",
+        "1398 Timur sacks Delhi → 1414 Khizr Khan enters Delhi",
+        "1414-51 Sayyids → 1451 Bahlul Lodi",
+        "1484 Jaunpur annexed → 1489-1517 Sikandar Lodi",
+        "1526 Ibrahim defeated by Babur at First Panipat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1388 Firuz dies → succession and factional crisis",
+            "1398 Timur sacks Delhi → 1414 Khizr Khan enters Delhi"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1414-51 Sayyids → 1451 Bahlul Lodi",
+            "1484 Jaunpur annexed → 1489-1517 Sikandar Lodi"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1526 Ibrahim defeated by Babur at First Panipat",
+            "RULE: Delhi contraction, regional vitality and dynastic transition overlap."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: Delhi contraction, regional vitality and dynastic transition overlap.",
+      "answer_line": "Delhi contraction, regional vitality and dynastic transition overlap.",
+      "source_references": [
+        "Chronology",
+        "Transition"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STRUCTURAL FRAGMENTATION WEB",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STRUCTURAL FRAGMENTATION WEB",
+          "role": "primary"
+        },
+        {
+          "text": "UNCERTAIN SUCCESSION + HEREDITARY OFFICE + NOBLE FACTION PROVINCIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DELHI CONTRACTS BEFORE TIMUR; THE INVASION ACCELERATES AN EXISTING",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTANCE, COMMUNICATION AND ARMY COSTS WEAKEN RAPID CENTRAL RESPONSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNCERTAIN SUCCESSION + HEREDITARY OFFICE + NOBLE FACTION provincial commanders retain revenue and military resources",
+        "distance, communication and army costs weaken rapid central response regional agrarian-commercial bases sustain alternative courts",
+        "DELHI CONTRACTS before Timur; the invasion accelerates an existing crisis."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "UNCERTAIN SUCCESSION + HEREDITARY OFFICE + NOBLE FACTION provincial commanders retain revenue and military resources",
+            "distance, communication and army costs weaken rapid central response regional agrarian-commercial bases sustain alternative courts"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DELHI CONTRACTS before Timur; the invasion accelerates an existing crisis.",
+            "UNCERTAIN SUCCESSION + HEREDITARY OFFICE + NOBLE FACTION provincial commanders retain revenue and military resources"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "distance, communication and army costs weaken rapid central response regional agrarian-commercial bases sustain alternative courts",
+            "DELHI CONTRACTS before Timur; the invasion accelerates an existing crisis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DELHI CONTRACTS before Timur; the invasion accelerates an existing crisis.",
+      "source_references": [
+        "Fragmentation",
+        "Post-Firuz crisis"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DECLINE VERSUS REGIONALISATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DECLINE VERSUS REGIONALISATION",
+          "role": "caution"
+        },
+        {
+          "text": "DELHI-CENTRED VIEW SUBCONTINENTAL VIEW SHRINKING COERCIVE REACH BENGAL, GUJARAT",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMUR'S DESTRUCTIVE RAID REGIONAL POLITICAL RECOMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "VALID CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "SULTANATE DECLINE INVALID CLAIM",
+          "role": "caution"
+        },
+        {
+          "text": "ALL-INDIA CIVILISATIONAL VOID",
+          "role": "outcome"
+        },
+        {
+          "text": "BEST FORMULA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL CONTRACTION PLUS REGIONAL STATE FORMATION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DELHI-CENTRED VIEW SUBCONTINENTAL VIEW shrinking coercive reach Bengal, Gujarat, Malwa and Jaunpur",
+        "states prestige loss and civil war active courts, trade and cultural patronage",
+        "Timur's destructive raid regional political recomposition",
+        "VALID CLAIM: Sultanate decline INVALID CLAIM: all-India civilisational void",
+        "BEST FORMULA: central contraction plus regional state formation."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "DELHI-CENTRED VIEW SUBCONTINENTAL VIEW shrinking coercive reach Bengal, Gujarat, Malwa and Jaunpur",
+          "Timur's destructive raid regional political recomposition",
+          "BEST FORMULA: central contraction plus regional state formation."
+        ],
+        [
+          "states prestige loss and civil war active courts, trade and cultural patronage",
+          "VALID CLAIM: Sultanate decline INVALID CLAIM: all-India civilisational void",
+          "DELHI-CENTRED VIEW SUBCONTINENTAL VIEW shrinking coercive reach Bengal, Gujarat, Malwa and Jaunpur"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DELHI-CENTRED VIEW SUBCONTINENTAL VIEW shrinking coercive reach Bengal, Gujarat, Malwa and Jaunpur",
+            "states prestige loss and civil war active courts, trade and cultural patronage"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Timur's destructive raid regional political recomposition",
+            "VALID CLAIM: Sultanate decline INVALID CLAIM: all-India civilisational void"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BEST FORMULA: central contraction plus regional state formation.",
+            "DELHI-CENTRED VIEW SUBCONTINENTAL VIEW shrinking coercive reach Bengal, Gujarat, Malwa and Jaunpur"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BEST FORMULA: central contraction plus regional state formation.",
+      "source_references": [
+        "Regionalisation",
+        "Balance of power"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TIMUR'S RAID AS EXTERNAL SHOCK",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TIMUR'S RAID AS EXTERNAL SHOCK",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "DELHI, 1398",
+          "role": "comparison"
+        },
+        {
+          "text": "PLUNDER + STRATEGY + CONQUEST IDEOLOGY AND SELF-JUSTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "BATTLE, SACK, KILLING, CAPTIVITY AND SEVERE DISRUPTION",
+          "role": "primary"
+        },
+        {
+          "text": "NO DURABLE ALL-INDIA TIMURID ADMINISTRATION",
+          "role": "caution"
+        },
+        {
+          "text": "POLITICAL EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESTIGE COLLAPSE AND OPENINGS FOR LOCAL POWERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL ASIA → INDUS / PUNJAB → DELHI, 1398",
+        "MOTIVES → plunder + strategy + conquest ideology and self-justification",
+        "DELHI → battle, sack, killing, captivity and severe disruption",
+        "WITHDRAWAL → no durable all-India Timurid administration",
+        "POLITICAL EFFECT → prestige collapse and openings for local powers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL ASIA → INDUS / PUNJAB → DELHI, 1398",
+            "MOTIVES → plunder + strategy + conquest ideology and self-justification"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "DELHI → battle, sack, killing, captivity and severe disruption",
+            "WITHDRAWAL → no durable all-India Timurid administration"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLITICAL EFFECT → prestige collapse and openings for local powers",
+            "CAUTION: dramatic numbers in victory traditions are reported, not verified totals."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: dramatic numbers in victory traditions are reported, not verified totals.",
+      "source_references": [
+        "Timur",
+        "Delhi sack",
+        "Consequences"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HOW TO READ TIMUR'S EVIDENCE",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HOW TO READ TIMUR'S EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TIMURID MEMOIR TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "RULER VOICE AND JUSTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TEXTUAL LAYERING",
+          "role": "evidence"
+        },
+        {
+          "text": "COURT CHRONICLES",
+          "role": "institution"
+        },
+        {
+          "text": "CAMPAIGN SEQUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PATRONAGE AND VICTORY RHETORIC",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER PERSIAN HISTORIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TIMURID MEMOIR TRADITION → ruler voice and justification",
+        "textual layering",
+        "COURT CHRONICLES → campaign sequence",
+        "patronage and victory rhetoric",
+        "LATER PERSIAN HISTORIES → memory and synthesis"
+      ],
+      "matrix": [
+        [
+          "TIMURID MEMOIR TRADITION → ruler voice and justification",
+          "textual layering"
+        ],
+        [
+          "COURT CHRONICLES → campaign sequence",
+          "patronage and victory rhetoric"
+        ],
+        [
+          "LATER PERSIAN HISTORIES → memory and synthesis",
+          "distance from event"
+        ],
+        [
+          "URBAN / MATERIAL TRACE → disruption and recovery",
+          "incomplete survival"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "TIMURID MEMOIR TRADITION → ruler voice and justification",
+            "textual layering",
+            "COURT CHRONICLES → campaign sequence",
+            "patronage and victory rhetoric"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "LATER PERSIAN HISTORIES → memory and synthesis",
+            "distance from event",
+            "URBAN / MATERIAL TRACE → disruption and recovery",
+            "incomplete survival"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "REGIONAL POLITICS → tests whether Delhi's fall equalled India's collapse",
+            "METHOD: secure minimum + source label + numerical caution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER PERSIAN HISTORIES → memory and synthesis | distance from event.",
+      "source_references": [
+        "Timurid sources",
+        "Source criticism"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SAYYID RULER LADDER AND WEAK SOVEREIGNTY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SAYYID RULER LADDER AND WEAK SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "KHIZR KHAN 1414-21",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB BASE, TIMURID ASSOCIATION, DELHI CAPTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "MUBARAK SHAH 1421-34",
+          "role": "evidence"
+        },
+        {
+          "text": "REPEATED PRESSURE AND LIMITED RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "MUHAMMAD SHAH 1434-45",
+          "role": "outcome"
+        },
+        {
+          "text": "NARROWER AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ALAM SHAH 1445-51",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KHIZR KHAN 1414-21 → Punjab base, Timurid association, Delhi capture",
+        "MUBARAK SHAH 1421-34 → repeated pressure and limited recovery",
+        "MUHAMMAD SHAH 1434-45 → narrower authority",
+        "ALAM SHAH 1445-51 → withdrawal; Bahlul takes Delhi",
+        "STRUCTURE → tribute missions + mobile campaigns + contested hinterland"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "KHIZR KHAN 1414-21 → Punjab base, Timurid association, Delhi capture",
+            "MUBARAK SHAH 1421-34 → repeated pressure and limited recovery"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "MUHAMMAD SHAH 1434-45 → narrower authority",
+            "ALAM SHAH 1445-51 → withdrawal; Bahlul takes Delhi"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURE → tribute missions + mobile campaigns + contested hinterland",
+            "VERDICT: Sayyids preserved Delhi's symbol more than broad coercive reach."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Sayyids preserved Delhi's symbol more than broad coercive reach.",
+      "answer_line": "Sayyids preserved Delhi's symbol more than broad coercive reach.",
+      "source_references": [
+        "Sayyid dynasty",
+        "Khizr Khan",
+        "Weak sovereignty"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AFGHAN POLITICAL TRADITION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AFGHAN POLITICAL TRADITION",
+          "role": "primary"
+        },
+        {
+          "text": "LINEAGE AND ROH RECRUITMENT COULD AGGREGATE FIGHTING POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CHIEFS EXPECTED VOICE, HONOUR AND NEGOTIATED DISTRIBUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUALITY CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "ARMED NOBLES RESISTED EXTREME ROYAL DISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "MONARCHY PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL AUDIT AND DISCIPLINE LOOKED LIKE STATUS LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUALITY AMONG CHIEFS WAS NOT SOCIAL EQUALITY FOR SUBJECTS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOLIDARITY → lineage and Roh recruitment could aggregate fighting power",
+        "CONSULTATION → chiefs expected voice, honour and negotiated distribution",
+        "EQUALITY CLAIM → armed nobles resisted extreme royal distance",
+        "MONARCHY PROBLEM → central audit and discipline looked like status loss",
+        "CAUTION → equality among chiefs was not social equality for subjects"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "SOLIDARITY → lineage and Roh recruitment could aggregate fighting power",
+          "EQUALITY CLAIM → armed nobles resisted extreme royal distance",
+          "CAUTION → equality among chiefs was not social equality for subjects"
+        ],
+        [
+          "CONSULTATION → chiefs expected voice, honour and negotiated distribution",
+          "MONARCHY PROBLEM → central audit and discipline looked like status loss",
+          "RESULT → mobilisation strength and recurrent centre-noble tension."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SOLIDARITY → lineage and Roh recruitment could aggregate fighting power",
+            "CONSULTATION → chiefs expected voice, honour and negotiated distribution"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "EQUALITY CLAIM → armed nobles resisted extreme royal distance",
+            "MONARCHY PROBLEM → central audit and discipline looked like status loss"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION → equality among chiefs was not social equality for subjects",
+            "RESULT → mobilisation strength and recurrent centre-noble tension."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → mobilisation strength and recurrent centre-noble tension.",
+      "source_references": [
+        "Afghan nobility",
+        "Kingship",
+        "Political culture"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BAHLUL'S CONSOLIDATION STRATEGY",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BAHLUL'S CONSOLIDATION STRATEGY",
+          "role": "primary"
+        },
+        {
+          "text": "SIRHIND BASE + AFGHAN RECRUITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "1451 DELHI TAKEOVER THROUGH BARGAINING AND OPPORTUNITY PERSONAL ALLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARQI CONTEST",
+          "role": "evidence"
+        },
+        {
+          "text": "JAUNPUR ANNEXED IN 1484",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI RECOVERED RANGE, BUT PARTITION LOGIC REMAINED EMBEDDED.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PUNJAB / SIRHIND BASE + AFGHAN RECRUITMENT",
+        "1451 Delhi takeover through bargaining and opportunity personal alliance, territorial sharing and repeated campaigning",
+        "Sharqi contest → Jaunpur annexed in 1484",
+        "VERDICT: Delhi recovered range, but partition logic remained embedded."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PUNJAB / SIRHIND BASE + AFGHAN RECRUITMENT",
+            "1451 Delhi takeover through bargaining and opportunity personal alliance, territorial sharing and repeated campaigning"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Sharqi contest → Jaunpur annexed in 1484",
+            "VERDICT: Delhi recovered range, but partition logic remained embedded."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PUNJAB / SIRHIND BASE + AFGHAN RECRUITMENT",
+            "1451 Delhi takeover through bargaining and opportunity personal alliance, territorial sharing and repeated campaigning"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Delhi recovered range, but partition logic remained embedded.",
+      "answer_line": "Delhi recovered range, but partition logic remained embedded.",
+      "source_references": [
+        "Bahlul Lodi",
+        "Jaunpur",
+        "Afghan mobilisation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SIKANDAR'S STATE-BUILDING TOOLKIT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIKANDAR'S STATE-BUILDING TOOLKIT",
+          "role": "institution"
+        },
+        {
+          "text": "COURT DISCIPLINE, FARMAN RITUAL AND JAGIR ACCOUNT CHECKS",
+          "role": "institution"
+        },
+        {
+          "text": "RENT-ROLLS AND GAZZ-I-SIKANDARI MEASUREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "GRAIN OCTROI ABOLITION, ROADS AND PRICE STABILITY REPORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "AGRA FOUNDED IN 1506 FOR DOAB AND WESTERN-EASTERN ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "PERSIAN LEARNING BESIDE SHARPER RELIGIOUS ORTHODOXY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGEST LODI RECOVERY, STILL BOUNDED BY AFGHAN BARGAINING.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NOBLES → court discipline, farman ritual and jagir account checks",
+        "REVENUE → rent-rolls and gazz-i-Sikandari measurement",
+        "ECONOMY → grain octroi abolition, roads and price stability reports",
+        "GEOGRAPHY → Agra founded in 1506 for doab and western-eastern routes",
+        "CULTURE → Persian learning beside sharper religious orthodoxy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NOBLES → court discipline, farman ritual and jagir account checks",
+            "REVENUE → rent-rolls and gazz-i-Sikandari measurement"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ECONOMY → grain octroi abolition, roads and price stability reports",
+            "GEOGRAPHY → Agra founded in 1506 for doab and western-eastern routes"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CULTURE → Persian learning beside sharper religious orthodoxy",
+            "VERDICT: strongest Lodi recovery, still bounded by Afghan bargaining."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: strongest Lodi recovery, still bounded by Afghan bargaining.",
+      "answer_line": "strongest Lodi recovery, still bounded by Afghan bargaining.",
+      "source_references": [
+        "Sikandar Lodi",
+        "Administration",
+        "Agra"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "IBRAHIM'S FRACTURE AND PANIPAT SYSTEM",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IBRAHIM'S FRACTURE AND PANIPAT SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "IBRAHIM CENTRALISES",
+          "role": "outcome"
+        },
+        {
+          "text": "AFGHAN NOBLES FEAR STATUS AND AUTONOMY LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "DAULAT KHAN, ALAM KHAN AND OTHER RIVALS WIDEN COALITION",
+          "role": "evidence"
+        },
+        {
+          "text": "BABUR BRINGS MOBILE CAVALRY + FIELD CARTS + MATCHLOCKS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTILLERY + TULUGHMA",
+          "role": "outcome"
+        },
+        {
+          "text": "LODI NUMERICAL MASS LACKS EQUIVALENT COORDINATION AT PANIPAT, 1526",
+          "role": "comparison"
+        },
+        {
+          "text": "GUNS MATTERED INSIDE SUPERIOR LEADERSHIP AND BATTLEFIELD ORGANISATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IBRAHIM CENTRALISES → Afghan nobles fear status and autonomy loss",
+        "Daulat Khan, Alam Khan and other rivals widen coalition breakdown",
+        "BABUR brings mobile cavalry + field carts + matchlocks / artillery + tulughma",
+        "Lodi numerical mass lacks equivalent coordination at Panipat, 1526",
+        "VERDICT: guns mattered inside superior leadership and battlefield organisation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "IBRAHIM CENTRALISES → Afghan nobles fear status and autonomy loss",
+            "Daulat Khan, Alam Khan and other rivals widen coalition breakdown"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BABUR brings mobile cavalry + field carts + matchlocks / artillery + tulughma",
+            "Lodi numerical mass lacks equivalent coordination at Panipat, 1526"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: guns mattered inside superior leadership and battlefield organisation.",
+            "IBRAHIM CENTRALISES → Afghan nobles fear status and autonomy loss"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: guns mattered inside superior leadership and battlefield organisation.",
+      "answer_line": "guns mattered inside superior leadership and battlefield organisation.",
+      "source_references": [
+        "Ibrahim Lodi",
+        "First Panipat",
+        "Babur"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "1526: DECISIVE BUT NOT INSTANTLY FINAL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DECISIVE BUT NOT INSTANTLY FINAL",
+          "role": "caution"
+        },
+        {
+          "text": "LODI DYNASTY FALLS AND MUGHAL IMPERIAL PROJECT ENTERS DELHI-AGRA",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE LOCALITIES, SERVICE ELITES, FORTS AND AGRARIAN STRUCTURES",
+          "role": "comparison"
+        },
+        {
+          "text": "AFGHAN AND RAJPUT POWERS REMAIN POLITICALLY CONSEQUENTIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "FIELD ARTILLERY GAINS SALIENCE, BUT ADAPTATION IS ORGANISATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "LODI TOMB LANDSCAPES AND REPAIRS PRESERVE LATE-SULTANATE AFTERLIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "DYNASTIC REPLACEMENT IS NOT IMMEDIATE SUBCONTINENTAL CONSOLIDATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHANGE → Lodi dynasty falls and Mughal imperial project enters Delhi-Agra",
+        "CONTINUITY → revenue localities, service elites, forts and agrarian structures",
+        "RESISTANCE → Afghan and Rajput powers remain politically consequential",
+        "MILITARY → field artillery gains salience, but adaptation is organisational",
+        "HERITAGE → Lodi tomb landscapes and repairs preserve late-Sultanate afterlives"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CHANGE → Lodi dynasty falls and Mughal imperial project enters Delhi-Agra",
+          "RESISTANCE → Afghan and Rajput powers remain politically consequential",
+          "HERITAGE → Lodi tomb landscapes and repairs preserve late-Sultanate afterlives"
+        ],
+        [
+          "CONTINUITY → revenue localities, service elites, forts and agrarian structures",
+          "MILITARY → field artillery gains salience, but adaptation is organisational",
+          "RULE: dynastic replacement is not immediate subcontinental consolidation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHANGE → Lodi dynasty falls and Mughal imperial project enters Delhi-Agra",
+            "CONTINUITY → revenue localities, service elites, forts and agrarian structures"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RESISTANCE → Afghan and Rajput powers remain politically consequential",
+            "MILITARY → field artillery gains salience, but adaptation is organisational"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HERITAGE → Lodi tomb landscapes and repairs preserve late-Sultanate afterlives",
+            "RULE: dynastic replacement is not immediate subcontinental consolidation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE: dynastic replacement is not immediate subcontinental consolidation.",
+      "source_references": [
+        "Transition to Mughal rule",
+        "Continuity",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 06 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 06 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE DECLINE AS DELHI'S CONTRACTION, NOT INDIA'S COLLAPSE",
+          "role": "caution"
+        },
+        {
+          "text": "SUCCESSION, ELITE AUTONOMY, FISCAL-MILITARY STRAIN AND REGIONAL BASES",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMUR ACCELERATES WEAKNESS; LABEL EVIDENCE AND NUMBERS CAUTIOUSLY",
+          "role": "evidence"
+        },
+        {
+          "text": "SAYYID SYMBOLISM, BAHLUL'S RECOVERY AND SIKANDAR'S ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "IBRAHIM-NOBLE FRACTURE PLUS BABUR'S INTEGRATED BATTLEFIELD SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "1526 WAS DECISIVE DYNASTICALLY, INCOMPLETE POLITICALLY AND CONTINUOUS INSTITUTIONALLY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → define decline as Delhi's contraction, not India's collapse",
+        "CAUSES → succession, elite autonomy, fiscal-military strain and regional bases",
+        "SHOCK → Timur accelerates weakness; label evidence and numbers cautiously",
+        "TRANSITION → Sayyid symbolism, Bahlul's recovery and Sikandar's administration",
+        "ENDGAME → Ibrahim-noble fracture plus Babur's integrated battlefield system"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → define decline as Delhi's contraction, not India's collapse",
+            "CAUSES → succession, elite autonomy, fiscal-military strain and regional bases"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SHOCK → Timur accelerates weakness; label evidence and numbers cautiously",
+            "TRANSITION → Sayyid symbolism, Bahlul's recovery and Sikandar's administration"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ENDGAME → Ibrahim-noble fracture plus Babur's integrated battlefield system",
+            "CLOSE → 1526 was decisive dynastically, incomplete politically and continuous institutionally."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → 1526 was decisive dynastically, incomplete politically and continuous institutionally.",
+      "source_references": [
+        "Answer architecture",
+        "Decline debate",
+        "Panipat"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DECLINE OF THE SULTANATE",
+          "role": "caution"
+        },
+        {
+          "text": "TIMUR, SAYYIDS & LODIS — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Decline of the Sultanate: Timur, Sayyids & Lodis — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept: Afghan kingship vs Turkish kingship",
+            "Timur's 1398 invasion hastened the fall of the Tughlaqs",
+            "before it, two rival kings had already appeared in Delhi/Firuzabad and provincial kingdoms had broken away."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

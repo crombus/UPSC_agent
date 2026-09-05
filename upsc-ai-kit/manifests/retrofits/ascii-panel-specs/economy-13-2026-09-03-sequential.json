@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 13",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-13",
+      "display_title": "APMC, e-NAM, FPOs and Agricultural Supply Chains",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Agricultural-market layers",
+          "structural_type": "layer-map",
+          "ascii_lines": [
+            "STATE APMC LAW -> legal venue + rules",
+            "e-NAM -> electronic bid / discovery layer",
+            "ASSAY + WAREHOUSE -> quality + storage",
+            "PAYMENT + LOGISTICS -> completed trade"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Farm-to-market rail",
+          "structural_type": "supply-flow",
+          "ascii_lines": [
+            "FARM LOT",
+            "-> AGGREGATION + GRADING",
+            "-> BID / CONTRACT",
+            "-> STORAGE + TRANSPORT + SETTLEMENT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "APMC-e-NAM distinction",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "APMC -> state-law institution",
+            "e-NAM -> platform across participating mandis",
+            "LAW REFORM != DIGITAL REFORM",
+            "DIGITAL REFORM != PHYSICAL INFRASTRUCTURE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Assay-to-settlement chain",
+          "structural_type": "transaction-flow",
+          "ascii_lines": [
+            "SAMPLE + ASSAY",
+            "-> STANDARD GRADE",
+            "-> COMPARABLE BID",
+            "-> PAYMENT + DELIVERY + GRIEVANCE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "FPO legal-role board",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FPO -> farmer-member producer organisation",
+            "FORM -> producer company / cooperative / other",
+            "ROLE -> pool inputs, produce and services",
+            "RETURN -> member benefit; not guaranteed profit"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "FPO viability wheel",
+          "structural_type": "viability-wheel",
+          "ascii_lines": [
+            "MEMBER TRUST + GOVERNANCE",
+            "WORKING CAPITAL + MANAGEMENT",
+            "BUSINESS VOLUME + QUALITY",
+            "RELIABLE BUYER + PAYMENT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Warehouse-finance rail",
+          "structural_type": "collateral-flow",
+          "ascii_lines": [
+            "ACCREDITED STORAGE",
+            "-> ASSAYED INVENTORY",
+            "-> NEGOTIABLE RECEIPT",
+            "-> CREDIT -> DELAYED SALE CHOICE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Reform model comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "KARNATAKA ReMS -> integrate rules + assay + platform",
+            "BIHAR REPEAL -> legal exit, infrastructure still needed",
+            "2020 OUTSIDE-APMC LAW -> new channel",
+            "2021 REPEAL -> status + trust matter"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Intermediary replacement",
+          "structural_type": "function-map",
+          "ascii_lines": [
+            "TRADITIONAL AGENT may be bypassed",
+            "AGGREGATION still required",
+            "GRADING + FINANCE still required",
+            "LOGISTICS performer changes; function remains"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Market-power board",
+          "structural_type": "power-matrix",
+          "ascii_lines": [
+            "MANY SMALL SELLERS",
+            "FEW LOCAL BUYERS",
+            "TIED CREDIT / INFORMATION GAP",
+            "FPO + COMPETITION can rebalance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "High-value crop gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "CAN IT BE GROWN?",
+            "CAN IT BE STORED / MOVED?",
+            "IS QUALITY MEASURABLE?",
+            "IS THERE A RELIABLE BUYER?"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        },
+        {
+          "title": "Marketing answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SEPARATE law, platform and infrastructure",
+            "TRACE product, payment, information and risk",
+            "TEST FPO and buyer bargaining power",
+            "CONCLUDE with integrated reform"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

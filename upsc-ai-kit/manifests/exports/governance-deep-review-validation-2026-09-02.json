@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-02T16:26:47.414221+00:00",
+  "subject": "Governance",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 16,
+  "topic_validations_passed": 16,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_governance_deep_review (cwd=tools)",
+      "tests": 219,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_previous_batch_identity_is_unchanged (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_results_chain_is_complete_and_ordered (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_zero_direct_pyq_audit_is_transparent_and_unmanufactured (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_anti_doping_layer_marks_the_unverified_amendment (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_autonomy_is_bounded_and_monopoly_is_named (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_canonical_owner_title_is_preserved_with_plural_tournaments (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_governance_layers_and_institutional_roles_are_exact (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_legal_character_distinctions_are_correct (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_live_official_anchor_is_dated_and_policy_intention_is_bounded (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_mcq_rotation_is_strict_in_both_deliverables (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_no_decorative_match_or_athlete_trivia_is_asserted (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_routed_objective_demand_infers_no_answer (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_statute_trail_and_status_ladder_are_complete (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_tournament_architecture_and_entry_routes_are_precise (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 219 tests in 7.991s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_01_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_conceptual_vocabulary_is_preserved (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_index_edition_status_is_exact_and_bounded (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_norm_to_instrument_anchors_are_named_with_limits (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_rule_of_law_index_attribution_is_correct (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_this_is_the_first_topic_of_the_sequence (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\ntest_zero_direct_mains_pyq_audit_is_transparent (test_generate_governance_01_sequential.Governance01GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.220s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_02_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_coordination_is_separated_from_authority (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_four_routed_demands_are_solved_and_ownership_is_transparent (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_implementation_theory_vocabulary_is_preserved (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_programme_design_figures_are_bounded (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_statute_scope_rule_is_exact (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\ntest_targeting_error_distinction_is_kept (test_generate_governance_02_sequential.Governance02GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.253s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_03_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_accountability_direction_and_grid_are_present (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_corporate_responsibility_is_statutory_and_rule_bounded (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_legal_vehicle_boundaries_are_exact (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_multi_level_planning_evidence_is_named (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_prohibited_figures_are_declared (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_routed_demands_are_solved_and_conflict_is_recorded (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_03_sequential.Governance03GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.277s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_04_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_civil_society_scope_is_wider_than_ngos (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_exclusion_limit_and_representation_gate_are_stated (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_foreign_funding_and_identification_layers_are_exact (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_micro_finance_evaluation_is_graded_and_bounded (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_no_mobilisation_count_is_asserted (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_six_routed_demands_and_two_recorded_conflicts (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_social_capital_typology_is_sequenced (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\ntest_structural_category_is_separated_from_political_label (test_generate_governance_04_sequential.Governance04GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.292s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_05_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_assessment_parameters_and_dated_status_are_exact (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_back_end_bias_is_explained_as_a_mechanism (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_five_models_are_named_and_not_ranked (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_no_unsourced_status_claim_is_asserted (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_six_routed_mains_demands_are_solved (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_three_axes_are_kept_separate (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_transparency_and_accountability_are_separated (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\ntest_use_value_and_inclusion_checklist_are_complete (test_generate_governance_05_sequential.Governance05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.308s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_06_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_ai_guidelines_are_marked_non_statutory (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_board_status_is_bounded (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_commencement_is_stated_by_tranche_and_date (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_exclusion_stack_and_safeguards_are_complete (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_objective_demands_are_not_converted_into_answers (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_section_44_split_is_correct (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_stack_components_carry_exact_owners (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_three_layers_are_separated (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\ntest_two_consent_constructs_are_distinguished (test_generate_governance_06_sequential.Governance06GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.318s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_07_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_chain_break_and_quality_measure (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_charter_origin_and_design_stage_limitation (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_grievance_platform_limits_and_dated_benchmarks (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_layer_mismatch_and_capability_counterpoint (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_penalty_and_compensation_are_separated (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_statutory_guarantee_and_five_element_test (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_three_pillars_and_architecture_scope (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\ntest_two_routed_demands_and_one_recorded_conflict (test_generate_governance_07_sequential.Governance07GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.258s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_08_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_answerability_and_enforceability_tests (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_dual_layer_design_is_not_contrasted (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_exemption_structure_and_current_status (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_information_route_timelines_are_exact (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_routed_demands_and_provisional_key_discipline (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_routing_and_four_functions_are_stated (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_social_audit_statutory_basis_is_complete (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_three_part_chain_is_separated (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\ntest_whistle_blower_gap_is_stated_exactly (test_generate_governance_08_sequential.Governance08GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.284s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_09_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_capacity_building_commission_live_anchor_is_dated (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_constitutional_setting_is_exact_and_bounded (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_institutional_chain_is_four_tiered_and_not_collapsed (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_lateral_entry_scope_is_bounded (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_mission_karmayogi_status_is_dated_and_not_fabricated (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_politicisation_chain_and_protections_are_paired (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_routed_demands_and_recorded_ownership_conflict (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\ntest_three_classical_traits_are_taught_as_one_package (test_generate_governance_09_sequential.Governance09GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.253s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_10_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_both_commissions_are_dated_and_correctly_attributed (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_federal_step_and_attribution_trap_are_stated (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_fifteen_report_routing_table_is_complete (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_five_status_ladder_is_complete_with_its_evidence (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_nodal_department_cannot_compel (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_paper_three_reports_are_excluded_not_forced (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_recommendation_is_never_presented_as_law (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\ntest_zero_direct_mains_ownership_is_recorded_honestly (test_generate_governance_10_sequential.Governance10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.263s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_11_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_capture_is_described_as_lawful (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_competition_regulator_is_exact_and_case_free (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_each_regulator_has_its_own_statute (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_financial_architecture_proposal_is_not_adoption (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_routed_demands_and_recorded_ownership_conflict (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_tribunal_reform_status_is_dated_and_unresolved (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_trilemma_is_paired_not_listed (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\ntest_trust_based_regulation_is_bounded (test_generate_governance_11_sequential.Governance11GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.312s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_12_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_benchmark_carries_no_invented_percentage (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_constitutional_functional_domains_are_exact (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_fiscal_architecture_is_complete (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_live_official_anchor_is_dated_and_bounded (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_merger_is_balanced_with_a_decision_rule (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_planning_committees_use_exact_articles_and_rules (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_routed_demands_and_provisional_key_discipline (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_scheduled_areas_precision_is_consultation_not_consent (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\ntest_three_legs_are_taught_as_inputs_not_outcomes (test_generate_governance_12_sequential.Governance12GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.310s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_13_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_error_framework_is_complete_with_the_asymmetry_judgment (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_live_official_anchor_is_dated_and_bounded (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_procurement_and_local_finance_layers_are_exact (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_release_architecture_carries_its_dated_notification_trail (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_routed_demand_is_single_verified_and_word_for_word (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_savings_claim_carries_no_invented_total (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_the_2021_model_is_marked_as_superseded_and_bounded (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_the_tool_stack_is_taught_as_four_distinct_layers (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\ntest_transfer_scope_is_broader_than_cash (test_generate_governance_13_sequential.Governance13GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.349s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_14_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_consultation_policy_status_is_exact (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_live_official_anchor_is_dated_and_bounded (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_named_forums_carry_their_exact_anchors (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_participation_ladder_is_complete_and_ordered (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_quality_and_frequency_are_separated (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_routed_demands_and_recorded_routing_conflict (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_scale_and_capture_are_stated_honestly (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\ntest_subsidiarity_is_taught_as_an_efficiency_principle (test_generate_governance_14_sequential.Governance14GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.277s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_15_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_attribution_baseline_and_method_limits_are_present (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_budget_framework_coverage_carries_its_year_rule (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_delta_ranking_carries_its_gaming_risk (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_district_and_block_programmes_are_kept_separate (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_evaluation_office_is_dated_and_bounded (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_indicator_failure_modes_are_paired_with_corrections (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_results_chain_is_complete_and_ordered (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\ntest_zero_direct_pyq_audit_is_transparent_and_unmanufactured (test_generate_governance_15_sequential.Governance15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.265s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_governance_16_sequential (cwd=tools)",
+      "tests": 16,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_anti_doping_layer_marks_the_unverified_amendment (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_autonomy_is_bounded_and_monopoly_is_named (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_canonical_owner_title_is_preserved_with_plural_tournaments (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_governance_layers_and_institutional_roles_are_exact (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_legal_character_distinctions_are_correct (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_live_official_anchor_is_dated_and_policy_intention_is_bounded (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_mcq_rotation_is_strict_in_both_deliverables (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_no_decorative_match_or_athlete_trivia_is_asserted (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_routed_objective_demand_infers_no_answer (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_statute_trail_and_status_ladder_are_complete (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\ntest_tournament_architecture_and_entry_routes_are_precise (test_generate_governance_16_sequential.Governance16GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.312s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 16.343s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 2.006s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.001s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 13.399s\n\nOK"
+    }
+  ],
+  "test_count": 499,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 16,
+    "learning_and_workbook_pdfs_checked": 32,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "canonical_source_change_status": "unchanged_hash_locked",
+  "canonical_source_owner_count": 48,
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\governance-deep-review-2026-09-02-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\governance-deep-review-2026-09-02-changed-files.nul",
+  "changed_file_inventory_count": 5449,
+  "changed_file_inventory_missing_paths": 0,
+  "full_library_validation": {
+    "topic_count": 348,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-02-validation.json",
+    "status": "passed"
+  },
+  "post_shared_checks": [
+    {
+      "command": "Governance-scoped live EXPORT/MASTER/REVIEW identity check",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "All 16 Governance identities agree; unrelated concurrent identities were not reset or overwritten."
+    }
+  ]
+}

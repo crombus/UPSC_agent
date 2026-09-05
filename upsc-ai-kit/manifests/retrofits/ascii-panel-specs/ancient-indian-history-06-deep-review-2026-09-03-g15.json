@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-06",
+      "display_title": "The Harappan Civilization",
+      "active_generation": 15,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Harappan chronology: regional roots to localisation",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY/REGIONALISATION -> MATURE/INTEGRATION -> LATE/LOCALISATION",
+            "c. 3300-2600 BCE       c. 2600-1900 BCE       c. 1900-1300 BCE",
+            "regional towns/crafts  shared weights, seals,  de-urbanisation, local ceramics,",
+            "and exchange networks  script, urban systems   settlement shifts, continuities",
+            "          |                     |                         |",
+            "          +---------------------+-------------------------+",
+            "                                v",
+            "Civilisation = integrated urban-rural network; decline = regional transformation."
+          ],
+          "source_references": [
+            "SESSION 1 - TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL",
+            "SESSION 4 - FROM EARLIER FARMING COMMUNITIES",
+            "SESSION 26 - LATE HARAPPAN CONTINUITY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Harappan spatial system and site atlas",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "WEST: Sutkagendor -> Makran edge | NORTH: Manda -> Jammu frontier",
+            "CORE INDUS: Harappa -> urban/cemetery sequence | Mohenjo-daro -> Great Bath/drains",
+            "GHAGGAR: Kalibangan -> ploughed field/fire installations | Banawali -> fortified town",
+            "EAST: Rakhigarhi -> major Haryana complex | Alamgirpur -> eastern Late Harappan edge",
+            "KUTCH: Dholavira -> three-part city, reservoirs, signboard | Surkotada -> fortification",
+            "GUJARAT: Lothal -> basin/warehouse/craft debate | Rangpur -> regional sequence",
+            "SINDH: Chanhudaro -> craft centre; no classic citadel-lower-town profile"
+          ],
+          "source_references": [
+            "SESSION 3 - GEOGRAPHICAL EXTENT",
+            "SESSION 6 - SITE ATLAS I",
+            "SESSION 7 - SITE ATLAS II",
+            "SESSION 8 - SITE ATLAS III",
+            "SESSION 9 - SITE ATLAS IV",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Urban-rural settlement hierarchy",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "FARM/PASTORAL HAMLETS -> VILLAGES -> CRAFT/ROUTE CENTRES -> REGIONAL CITIES",
+            " food and herds          storage       specialised output    coordination/consumption",
+            "        |                   |                 |                      |",
+            "        +-------------------+-----------------+----------------------+",
+            "                                  v",
+            "weights + seals + transport + shared styles connect unequal regional domains.",
+            "Urbanism depended on rural surplus and raw-material corridors; cities were not isolated."
+          ],
+          "source_references": [
+            "SESSION 5 - SETTLEMENT HIERARCHY AND THE URBAN-RURAL SYSTEM",
+            "SESSION 34 - FROM REGIONAL CULTURES TO URBAN INTEGRATION",
+            "SESSION 35 - EXTENT, ECOLOGY AND THE URBAN-RURAL SYSTEM",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Built order, water and civic maintenance",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PLANNED STREETS + STANDARD BRICKS + PLATFORMS + COURTYARD HOUSES",
+            "                         |",
+            "                         v",
+            "wells/reservoirs -> bathing areas -> covered drains -> soak pits/inspection access",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "household investment              collective maintenance",
+            "          +--------------+--------------+",
+            "                         v",
+            "Dholavira adapts reservoirs to aridity; Mohenjo-daro stresses wells and drains."
+          ],
+          "source_references": [
+            "SESSION 10 - TOWN PLANNING",
+            "SESSION 11 - WATER, SANITATION, DRAINAGE",
+            "SESSION 30 - URBAN WATER AND BUILT FORM",
+            "SESSION 36 - PLANNING, WATER AND EVERYDAY MAINTENANCE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The Harappan economy as a linked system",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "AGRICULTURAL-PASTORAL BASE",
+            "          |",
+            " +--------+---------+---------+---------+",
+            " |                  |         |         |",
+            "wheat/barley     cattle    cotton    fishing/regional crops",
+            " +--------+---------+---------+---------+",
+            "          |",
+            "          v",
+            "SURPLUS -> craft workshops -> calibrated weights -> seals/transport -> exchange",
+            "CRAFTS: beads, shell, faience, pottery, copper/bronze; stone remains important."
+          ],
+          "source_references": [
+            "SESSION 13 - AGRICULTURE, CROPS, SEASONS",
+            "SESSION 14 - PASTORALISM",
+            "SESSION 15 - CRAFT PRODUCTION",
+            "SESSION 17 - WEIGHTS, MEASURES",
+            "SESSION 37 - THE ECONOMY AS A LINKED SYSTEM",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Internal and overseas exchange corridors",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "RAW MATERIAL FLOW",
+            "Baluchistan/Afghanistan -> metals/stones -> Indus cities",
+            "Rajasthan/Khetri -> copper corridor -> production zones",
+            "Gujarat/Kutch -> shell, carnelian, coastal routes -> crafts and ports",
+            "Indus/Makran/Gulf -> Dilmun/Magan -> Mesopotamia; Meluhha in cuneiform texts",
+            "                         |",
+            "                         v",
+            "Trade evidence = imports + texts + seals + production; it does not prove colonies.",
+            "Lothal basin has dockyard/reservoir interpretations: state the debate."
+          ],
+          "source_references": [
+            "SESSION 19 - INTERNAL EXCHANGE",
+            "SESSION 20 - LONG-DISTANCE TRADE, MELUHHA",
+            "SESSION 31 - PRODUCTION, MEASUREMENT AND EXCHANGE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Society and polity: evidence without invented kings",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "EVIDENCE: house variation + scarce goods + craft control + standards + public works",
+            "                         |",
+            "      +------------------+------------------+",
+            "      |                  |                  |",
+            "centralised state?   city/regional states? corporate or mercantile elites?",
+            "      +------------------+------------------+",
+            "                         v",
+            "NO secure palace, royal tomb or deciphered king-list; hierarchy existed, form is open.",
+            "VERDICT: coordinated institutions are certain; empire-level sovereignty is unproven."
+          ],
+          "source_references": [
+            "SESSION 21 - SOCIAL ORGANISATION",
+            "SESSION 22 - POLITY DEBATE",
+            "SESSION 38 - EVIDENCE LADDER FOR SCRIPT, POLITY, SOCIETY AND RELIGION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Script, seals and religion: evidence ladder",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "SECURE: short signs, seals/tablets, motifs, ritual installations, burials, figurines",
+            "PROBABLE: identity/transaction marking and differentiated ritual practices",
+            "DISPUTED: script language; proto-Shiva; mother-goddess system; universal fire altars",
+            "REJECT: reading later Hindu doctrine directly into every Harappan image.",
+            "                         |",
+            "                         v",
+            "Undeciphered script blocks direct access to office, belief and political vocabulary.",
+            "Use object + context + distribution before analogy."
+          ],
+          "source_references": [
+            "SESSION 18 - SEALS, SEALINGS AND THE UNDECIPHERED SCRIPT",
+            "SESSION 23 - RELIGION AND RITUAL",
+            "SESSION 24 - GENDER, BURIALS, HEALTH",
+            "SESSION 32 - SCRIPT, RITUAL AND AUTHORITY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "De-urbanisation: interacting regional causes",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "river shifts/floods + aridification + exchange contraction + maintenance stress",
+            "                                  |",
+            "                                  v",
+            "weaker standards -> city contraction/abandonment -> settlement redistribution",
+            "                                  |",
+            "          +-----------------------+----------------------+",
+            "          |                                              |",
+            "loss: script, seals, large cities                continuity: crops, crafts, villages",
+            "                                  |",
+            "                                  v",
+            "No invasion or single river explains all regions; timings and outcomes differ."
+          ],
+          "source_references": [
+            "SESSION 25 - DECLINE AND DEURBANISATION",
+            "SESSION 26 - LATE HARAPPAN CONTINUITY",
+            "SESSION 33 - DECLINE AS TRANSFORMATION",
+            "SESSION 39 - DE-URBANISATION AS CAUSAL SEQUENCE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Harappan answer architecture: 10/15/20 marks",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: phase -> site-feature triad -> mechanism -> interpretation caution",
+            "15 MARKS: chronology -> spatial system -> urban form -> economy -> polity/religion limits",
+            "20 MARKS: integration -> site map -> urban-rural economy -> water/standards/trade",
+            "          -> society-polity evidence -> script/ritual limits -> transformation",
+            "BENCHMARK: material uniformity indicates integration, not automatic political unity.",
+            "CLOSE: a varied civilisation coordinated by standards, exchange and maintenance."
+          ],
+          "source_references": [
+            "SESSION 28 - PHASE -> PROCESS -> REGIONAL CHANGE",
+            "SESSION 29 - SITE-FEATURE TRIADS",
+            "SESSION 40 - SITE MEMORY METHOD AND THE FIVE-SENTENCE ANSWER",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. Separate excavated fact from function label and social interpretation.",
+            "2. Anchor every claim in site, phase, context, comparison and regional variation.",
+            "3. The undeciphered script limits named claims about language, rulers and doctrine.",
+            "VERDICT: Harappan history is strongest on material systems, weakest on named ideas."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Citadel, granary, dockyard, Priest-King and Pashupati are modern labels.",
+            "2. Horse evidence is rare and disputed; standardisation does not prove one empire.",
+            "3. Deurbanisation was regional and multi-causal, not one invasion or drought.",
+            "VERDICT: State the secure evidence first, then grade each interpretation."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\06_Harappan-Civilization.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g14\\ancient-indian-history-06_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\g15\\ancient-indian-history-06_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

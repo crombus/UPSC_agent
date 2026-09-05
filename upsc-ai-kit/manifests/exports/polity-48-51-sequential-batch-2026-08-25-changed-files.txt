@@ -1,0 +1,274 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md
+notes\Final-Learning-Packages\POLITY-48-51-SEQUENTIAL-BATCH-REPORT.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\48-Ministries-Departments-and-Central-Secretariat\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\49-Regulatory-State-and-Quasi-Judicial-Institutions\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\README.txt
+notes\Flow-Learning\ALL-COMPLETED-TOPICS-FLOW-LEARNING-REPORT.md
+notes\Flow-Learning\POLITY-01-51-FLOW-LEARNING-REPORT.md
+notes\Flow-Learning\Polity\48-Ministries-Departments-and-Central-Secretariat\48-Ministries-Departments-and-Central-Secretariat-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Polity\48-Ministries-Departments-and-Central-Secretariat\48-Ministries-Departments-and-Central-Secretariat-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Polity\48-Ministries-Departments-and-Central-Secretariat\README.txt
+notes\Flow-Learning\Polity\49-Regulatory-State-and-Quasi-Judicial-Institutions\49-Regulatory-State-and-Quasi-Judicial-Institutions-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Polity\49-Regulatory-State-and-Quasi-Judicial-Institutions\49-Regulatory-State-and-Quasi-Judicial-Institutions-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Polity\49-Regulatory-State-and-Quasi-Judicial-Institutions\README.txt
+notes\Flow-Learning\Polity\50-Concept-of-the-Constitution\50-Concept-of-the-Constitution-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Polity\50-Concept-of-the-Constitution\50-Concept-of-the-Constitution-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Polity\50-Concept-of-the-Constitution\README.txt
+notes\Flow-Learning\Polity\51-Rights-and-Liabilities-of-the-Government\51-Rights-and-Liabilities-of-the-Government-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Polity\51-Rights-and-Liabilities-of-the-Government\51-Rights-and-Liabilities-of-the-Government-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Polity\51-Rights-and-Liabilities-of-the-Government\README.txt
+notes\Flow-Learning\START-HERE.md
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-48\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-49\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\polity-48_Complete-Learning-Session_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\polity-48_Solved-Practice-Workbook_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\polity-49_Complete-Learning-Session_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\polity-49_Solved-Practice-Workbook_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\polity-50_Complete-Learning-Session_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\polity-50_Solved-Practice-Workbook_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\STAGED-RECORD.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\polity-51_Complete-Learning-Session_2026-08-25.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\polity-51_Solved-Practice-Workbook_2026-08-25.pdf
+notes\Polity\Session-Level-Topic-PDFs\48_Ministries-Departments-and-Central-Secretariat_Session-Level.pdf
+notes\Polity\Session-Level-Topic-PDFs\49_Regulatory-State-and-Quasi-Judicial-Institutions_Session-Level.pdf
+notes\Polity\Session-Level-Topic-PDFs\50_Concept-of-the-Constitution_Session-Level.pdf
+notes\Polity\Session-Level-Topic-PDFs\51_Rights-and-Liabilities-of-the-Government_Session-Level.pdf
+notes\Polity\Topic-PDFs\48_Ministries-Departments-and-Central-Secretariat_Deep-Learning.pdf
+notes\Polity\Topic-PDFs\49_Regulatory-State-and-Quasi-Judicial-Institutions_Deep-Learning.pdf
+notes\Polity\Topic-PDFs\50_Concept-of-the-Constitution_Deep-Learning.pdf
+notes\Polity\Topic-PDFs\51_Rights-and-Liabilities-of-the-Government_Deep-Learning.pdf
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\finalize_polity_48_51_batch.py
+tools\generate_polity_48_51_sequential.py
+tools\polity_flowchart_case_years.py
+tools\refresh_all_v2_learning_sessions.py
+tools\test_polity_flowchart_case_years.py
+tools\test_refresh_all_v2_learning_sessions.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\01_1_the_missing_operating_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\02_2_constitutional_foundation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\03_formal_name_versus_real_responsibility.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\04_3_allocation_of_business_rules_versus_transaction_of.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\05_why_the_distinction_matters.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\06_creation_and_reorganisation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\07_4_ministry_department_and_portfolio.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\08_political_and_administrative_heads.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\09_main_functions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\10_6_secretariat_and_executive_agencies.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\11_7_how_a_major_proposal_moves.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\12_position.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\13_what_it_is_not.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\14_10_cabinet_secretariat_versus_pmo.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\assets\polity-48_Teaching-Navigation_2026-08-25.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\polity-48_Complete-Learning-Session_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-48\polity-48_Solved-Practice-Workbook_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\01_1_the_three_words_describe_different_things.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\02_2_source_based_taxonomy.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\03_constitutional_versus_statutory.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\04_3_functional_taxonomy.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\05_regulatory_cycle.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\06_5_quasi_judicial_body_precise_meaning.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\07_natural_justice.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\08_6_why_the_regulatory_state_expanded.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\09_7_major_accountability_and_rights_bodies.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\10_finance_and_markets.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\11_social_environmental_and_professional_regulation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\12_9b_bci_and_law_commission_source_and_function_distin.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\13_abuse_of_dominant_position.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\14_ipab_lesson.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\assets\polity-49_Teaching-Navigation_2026-08-25.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\polity-49_Complete-Learning-Session_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-49\polity-49_Solved-Practice-Workbook_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\01_1_core_proposition.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\02_2_what_a_constitution_does.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\03_3_constitution_constitutional_law_and_ordinary_law.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\04_4_1_evolved_and_enacted.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\05_4_2_codified_and_uncodified.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\06_4_3_rigid_and_flexible.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\07_4_4_federal_and_unitary.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\08_4_5_procedural_and_prescriptive.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\09_essential_elements.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\10_7_indian_constitutional_synthesis.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\11_8_2_thesis_options.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\12_8_4_evidence_bank.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\13_10_upsc_traps_and_source_discipline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\14_constituent_power_and_constituted_institutions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\assets\polity-50_Teaching-Navigation_2026-08-25.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\polity-50_Complete-Learning-Session_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\polity-50_Solved-Practice-Workbook_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\01_1_core_proposition.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\02_2_article_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\03_3_1_succession_articles_294_295.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\04_3_2_escheat_lapse_and_bona_vacantia_article_296.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\05_3_3_maritime_resources_article_297.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\06_3_4_trade_and_property_article_298.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\07_4_1_three_constitutional_formalities.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\08_4_2_personal_liability.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\09_5_1_proper_party.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\10_6_public_official_protection_do_not_mix_the_sources.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\11_continuing_weakness.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\12_8_2_thesis_options.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\13_8_4_evidence_units.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\14_10_upsc_traps_and_source_discipline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\assets\polity-51_Teaching-Navigation_2026-08-25.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\polity-51_Complete-Learning-Session_2026-08-25.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\polity-51_Solved-Practice-Workbook_2026-08-25.md
+upsc-ai-kit\knowledge\Polity\advanced\48_Ministries-Departments-and-Central-Secretariat.md
+upsc-ai-kit\knowledge\Polity\advanced\49_Regulatory-State-and-Quasi-Judicial-Institutions.md
+upsc-ai-kit\knowledge\Polity\advanced\50_Concept-of-the-Constitution.md
+upsc-ai-kit\knowledge\Polity\advanced\51_Rights-and-Liabilities-of-the-Government.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-48_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-49_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-50_Learning-Session.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-51_Learning-Session.md
+upsc-ai-kit\manifests\exports\all-completed-topics-flow-learning-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-01-51-flow-learning-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\polity-48-51-sequential-batch-2026-08-25-changed-files.txt
+upsc-ai-kit\manifests\exports\polity-48-51-sequential-batch-2026-08-25-state.json
+upsc-ai-kit\manifests\exports\polity-48-51-sequential-batch-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\polity-48-flow-learning-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\polity-48-new-topic-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-48-source-pyq-current-audit-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-48-staged-records-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-48-validation-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-49-flow-learning-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\polity-49-new-topic-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-49-source-pyq-current-audit-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-49-staged-records-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-49-validation-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-50-flow-learning-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\polity-50-new-topic-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-50-source-pyq-current-audit-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-50-staged-records-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-50-validation-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-51-flow-learning-2026-08-25-validation.json
+upsc-ai-kit\manifests\exports\polity-51-new-topic-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-51-source-pyq-current-audit-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-51-staged-records-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-51-validation-2026-08-25.json
+upsc-ai-kit\manifests\exports\polity-flowchart-case-year-2026-08-25-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-48-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-49-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-50-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-51-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-48.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-49.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-50.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-51.json
+upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json
+upsc-ai-kit\manifests\v2\topic-catalog.json

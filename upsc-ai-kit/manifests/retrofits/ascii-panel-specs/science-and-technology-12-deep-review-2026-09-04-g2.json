@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-12",
+      "display_title": "Data Protection: DPDP Act and Cybersecurity",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Privacy and cyber twin rail",
+          "structural_type": "dual-rail",
+          "ascii_lines": [
+            "PRIVACY -> lawful collection, use, retention and redress",
+            "CYBERSECURITY -> prevention, detection, response and recovery",
+            "SAME BREACH -> two questions and potentially two response chains",
+            "DPDP BOARD != CERT-In != NCIIPC != I4C",
+            "RULE -> complementary domains are not interchangeable"
+          ],
+          "source_references": [
+            "Privacy-cybersecurity boundary",
+            "Breach-and-status discipline",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "DPDP actor chain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DATA PRINCIPAL -> rights-bearing individual",
+            "DATA FIDUCIARY -> decides purpose and means",
+            "DATA PROCESSOR -> acts for Fiduciary",
+            "CONSENT MANAGER -> Board-registered consent interface",
+            "BOARD -> specified adjudication; TDSAT hears appeals"
+          ],
+          "source_references": [
+            "DPDP actor boundary",
+            "Board-role boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Scope gateway",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PERSONAL DATA? -> if no, DPDP personal-data route stops",
+            "DIGITAL OR DIGITISED LATER? -> if yes, scope can attach",
+            "OUTSIDE INDIA? -> goods or services offered in India test",
+            "ANONYMISED / NON-PERSONAL -> not automatically covered",
+            "RULE -> identify data class before compliance claim"
+          ],
+          "source_references": [
+            "Scope boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Legal status staircase",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ENACTED -> parent statute exists",
+            "NOTIFIED -> instrument published in Gazette",
+            "COMMENCED -> specified provision is in force",
+            "STAFFED / ADJUDICATING -> institutional evidence required",
+            "ENFORCED -> applicable proceeding or outcome required"
+          ],
+          "source_references": [
+            "Legal-status ladder",
+            "Board-role boundary",
+            "Breach-and-status discipline",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Three-tranche chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "13 NOV 2025 -> definitions, Board provisions, RTI amendment",
+            "ONE YEAR -> s.6(9), s.27(1)(d), rule 4",
+            "EIGHTEEN MONTHS -> substantive compliance core and penalties",
+            "RULES NOTIFIED -> does not erase deferred dates",
+            "DATE CHECK -> re-verify before present-tense writing"
+          ],
+          "source_references": [
+            "Immediate-tranche boundary",
+            "One-year-tranche boundary",
+            "Eighteen-month-tranche boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Lawful processing and rights loop",
+          "structural_type": "process-loop",
+          "ascii_lines": [
+            "NOTICE -> specified information",
+            "CONSENT OR s.7 CERTAIN LEGITIMATE USE -> lawful ground",
+            "PROCESSING -> Fiduciary and Processor responsibilities",
+            "ACCESS / CORRECTION / ERASURE / GRIEVANCE / NOMINATION",
+            "s.15 DUTIES -> rights holder also has statutory duties"
+          ],
+          "source_references": [
+            "Consent-legitimate-use boundary",
+            "Rights-duties boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "SDF governance stack",
+          "structural_type": "risk-pyramid",
+          "ascii_lines": [
+            "GOVERNMENT NOTIFICATION -> creates SDF status",
+            "RISK FACTORS -> scale, sensitivity and public consequences",
+            "INDIA-BASED DPO -> governance contact",
+            "INDEPENDENT AUDITOR + DPIA + AUDITS -> added assurance",
+            "TRAP -> large entity is not automatically an SDF"
+          ],
+          "source_references": [
+            "SDF boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sections 16 and 17 matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "s.16 -> notified restricted destinations; permissive default",
+            "SECTORAL RULE -> may impose stricter localisation",
+            "s.17(1) -> processing-specific exemptions",
+            "s.17(2)(a) -> notified State-instrumentality exemption",
+            "RULE -> transfer rule and exemption rule answer different questions"
+          ],
+          "source_references": [
+            "Section-16 boundary",
+            "Section-17 boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Consequential amendment fork",
+          "structural_type": "replacement-diagram",
+          "ascii_lines": [
+            "s.44(3) -> RTI s.8(1)(j) substituted in immediate tranche",
+            "PRIVACY <-> TRANSPARENCY -> contested rights balance",
+            "s.44(2) -> IT Act s.43A omission in deferred tranche",
+            "LIVE CHANGE != SCHEDULED CHANGE",
+            "RULE -> identify parent Act, section and commencement"
+          ],
+          "source_references": [
+            "RTI-amendment boundary",
+            "Eighteen-month-tranche boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Penalty rail",
+          "structural_type": "penalty-scale",
+          "ascii_lines": [
+            "SECURITY-SAFEGUARD FAILURE -> maximum Rs 250 crore",
+            "BREACH NOTICE / CHILDREN'S DUTIES -> maximum Rs 200 crore",
+            "SDF DUTIES -> maximum Rs 150 crore",
+            "CHARACTER -> civil and financial",
+            "NOT INCLUDED -> imprisonment or automatic victim compensation",
+            "MUST REMEMBER: The DPDP Act separates Data Principal, Data Fiduciary, Significant Data..."
+          ],
+          "source_references": [
+            "Penalty boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-12_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Cyber institution router",
+          "structural_type": "routing-map",
+          "ascii_lines": [
+            "CERT-In / MeitY / s.70B -> incident response and directions",
+            "NCIIPC / NTRO / s.70A -> notified CII protection",
+            "I4C / MHA -> cybercrime coordination, portal and 1930",
+            "DATA PROTECTION BOARD -> DPDP compliance adjudication",
+            "RULE -> route by function, statute and administrative home",
+            "CLOSE DISTINCTION: Consent is not the only lawful route, the Data Protection Board is not..."
+          ],
+          "source_references": [
+            "CERT-In role boundary",
+            "NCIIPC role boundary",
+            "I4C role boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-12_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Routed PYQ answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2018 -> data-protection report: strengths plus weaknesses",
+            "2019 -> GDPR comparator; digital-signature authentication",
+            "2024 -> DPDP context, salient features and dated status",
+            "BREACH -> privacy compliance plus cyber response",
+            "CONCLUDE -> rights, resilience, capacity and status discipline",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite Act/rule/advisory date and status;..."
+          ],
+          "source_references": [
+            "GDPR-signature-PKI boundary",
+            "Breach-and-status discipline",
+            "Legal-status ladder",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-12\\g2\\science-and-technology-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-12_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\medieval-indian-history-05-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-05\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-05\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-05\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-05\medieval-indian-history-05-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-05\medieval-indian-history-05-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\05-The-Tughlaqs-Muhammad-bin-Tughlaq-and-Firuz-Shah\README.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-05\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\medieval-indian-history-05_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\validation\workbook-visual-audit-map.json
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\00_tughlaq_comparative_cover.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\01_tughlaq_chronology_evidence_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\02_ghiyas_transition_death_s-c9dcd22efd.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\03_muhammad_empire_pressures_map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\04_five_experiments_overview.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\05_delhi_daulatabad_phases_myths.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\06_token_currency_trust_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\07_doab_tax_famine_rebellion_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\08_diwan_i_kohi_agricultural_model.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\09_khurasan_qarachil_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\10_rebellions_fragmentation_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\11_muhammad_state_capacity_diagnostic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\12_source_matrix_barani_isam-6f55d0a205.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\13_firuz_accession_political_bargain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\14_hereditary_iqta_offices_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\15_revenue_cess_irrigation_p-5dbd4158ab.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\16_canal_public_works_network.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\17_firuz_urban_architecture_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\18_ashokan_pillar_transport_process.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\19_diwan_i_bandagan_ecosystem.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\20_welfare_departments_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\21_conciliation_vs_orthodoxy_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\22_muhammad_vs_firuz_structural_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\23_succession_breakdown_causal_web.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\24_historiography_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\25_gs1_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\assets\medieval-indian-history-05_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-05\g4\medieval-indian-history-05_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\05_Tughlaqs.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-1-5590d2258547-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-1-5590d2258547.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-05-learner-v2-g4-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\medieval-indian-history-05-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-05-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-05-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\medieval-indian-history-05-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Medieval-Indian-History\deep-review\medieval-indian-history-05-g4.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\05-tughlaqs-muhammad-firuz-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus-content-specs\medieval-indian-history-05-g4.json
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

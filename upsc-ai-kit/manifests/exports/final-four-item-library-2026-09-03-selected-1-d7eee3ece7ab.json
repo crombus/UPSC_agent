@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T17:45:55+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "01ff9f5f2a8e457e38f032b9829841fc2b705d02a5c28aa52d1e0a1755489dc8",
+    "sha256_after": "01ff9f5f2a8e457e38f032b9829841fc2b705d02a5c28aa52d1e0a1755489dc8",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Medieval History": 1
+  },
+  "sections": {
+    "Medieval History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8213,
+    "pdf_count": 2142,
+    "png_count": 732,
+    "txt_count": 908,
+    "markdown_count": 1334,
+    "json_count": 3082,
+    "total_bytes": 3831680080,
+    "by_extension": {
+      ".json": 3082,
+      ".md": 1334,
+      ".pdf": 2142,
+      ".png": 732,
+      ".txt": 908,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-14",
+      "topic_title": "Sher Shah Sur & the Sur Empire",
+      "subject": "Medieval History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 14,
+      "source_record_id": "medieval-indian-history-14:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d881763d888a0de3974117cf556bd8b1ef2d7d7d3bfd09fe863eb8ba6f33e39d",
+          "output_sha256": "d881763d888a0de3974117cf556bd8b1ef2d7d7d3bfd09fe863eb8ba6f33e39d",
+          "source_output_equal": true,
+          "bytes": 3435358
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-14\\g5\\medieval-indian-history-14_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "48acb5f855888d6a840a37980327c78c94f2a84a24b0f1cae2f6067851dd3da6",
+          "output_sha256": "48acb5f855888d6a840a37980327c78c94f2a84a24b0f1cae2f6067851dd3da6",
+          "source_output_equal": true,
+          "bytes": 231897
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-14\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "a8e3eb2ab08f433115e200f94a2c0ba95caf88d29fd84fc10f8b8a0e15d61e60",
+          "output_sha256": "a8e3eb2ab08f433115e200f94a2c0ba95caf88d29fd84fc10f8b8a0e15d61e60",
+          "source_output_equal": true,
+          "bytes": 2500798
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-14\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "17599951675b7c0b2f35d6d5d269f6f37aca2aed1aa1f8968d91a1b8f39443ac",
+          "output_sha256": "17599951675b7c0b2f35d6d5d269f6f37aca2aed1aa1f8968d91a1b8f39443ac",
+          "source_output_equal": true,
+          "bytes": 3348232
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-14\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "91f7293e987ef29640e156fca9716a04731f0cccacfe9ecb03681c80b9ece569",
+          "output_sha256": "91f7293e987ef29640e156fca9716a04731f0cccacfe9ecb03681c80b9ece569",
+          "source_output_equal": true,
+          "bytes": 2222343
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-14\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "21f5558c671e9f8cfe4fea3af0fca0130c6965e073ac956b57176e57de004206",
+          "output_sha256": "21f5558c671e9f8cfe4fea3af0fca0130c6965e073ac956b57176e57de004206",
+          "source_output_equal": true,
+          "bytes": 6427
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-14\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Medieval History\\Subject-wide Syllabus\\14-Sher-Shah-Sur-and-the-Sur-Empire\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "d4359a759a56ac84f1d43ce68612e03609df2258a6499e7185b45bb657a79568",
+          "output_sha256": "d4359a759a56ac84f1d43ce68612e03609df2258a6499e7185b45bb657a79568",
+          "source_output_equal": true,
+          "source_text_sha256": "21f5558c671e9f8cfe4fea3af0fca0130c6965e073ac956b57176e57de004206",
+          "normalized_text_equal": true,
+          "bytes": 58762
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 10,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 82,
+        "solved_practice_workbook": 22,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 82,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 22,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12286
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

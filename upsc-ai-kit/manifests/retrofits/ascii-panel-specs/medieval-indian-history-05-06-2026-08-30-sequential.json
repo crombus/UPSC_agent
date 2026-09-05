@@ -1,0 +1,448 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Medieval Indian History learner-v2 Topics 05-06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-05",
+      "display_title": "The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\05_The-Tughlaqs-Muhammad-bin-Tughlaq-Firuz-Shah_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tughlaq chronology and evidence spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1320 Ghiyasuddin -> 1325 Muhammad bin Tughlaq",
+            "1327-35 Daulatabad phases -> c.1329-33 token currency",
+            "1330s doab crisis, cultivation scheme and regional rebellions",
+            "1351 Firuz succeeds during Sindh campaign -> 1388 Firuz dies",
+            "EVIDENCE: Barani + Isami + Ibn Battuta + Afif + coins + canals + monuments",
+            "RULE: separate secure event, chronicler judgement and later legend."
+          ],
+          "source_references": [
+            "Chronology",
+            "Sources"
+          ]
+        },
+        {
+          "title": "Three Tughlaq state strategies",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "GHIYASUDDIN -> moderated restoration, cultivation and frontier authority",
+            "MUHAMMAD -> scale, uniformity, experimentation and direct supervision",
+            "FIRUZ -> conciliation, heredity, public works and reduced military horizon",
+            "SHORT RUN -> restoration | high-risk mobilisation | negotiated stability",
+            "LONG RUN -> unfinished consolidation | fragmentation | weaker central checks",
+            "VERDICT: compare objectives, instruments, costs and durability."
+          ],
+          "source_references": [
+            "Ghiyasuddin",
+            "Muhammad bin Tughlaq",
+            "Firuz Shah"
+          ]
+        },
+        {
+          "title": "Muhammad's problem of imperial scale",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "NORTH-WEST -> frontier risk and strategic ambition",
+            "DELHI-DOAB -> grain, revenue, money and army provisioning",
+            "DECCAN -> distance, direct rule, Daulatabad and local resistance",
+            "BENGAL / GUJARAT / SINDH -> governors, routes and delayed communication",
+            "ELITES -> old nobles + foreigners + Indian converts + new appointees",
+            "DIAGNOSIS: ambition outran information, trust and enforcement capacity."
+          ],
+          "source_references": [
+            "Imperial scale",
+            "State capacity"
+          ]
+        },
+        {
+          "title": "Five experiment clusters",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DAULATABAD -> southern supervision | migration and dual-capital logistics",
+            "TOKEN MONEY -> monetary flexibility | authentication and redemption",
+            "DOAB RESET -> higher dependable revenue | assessment and famine resilience",
+            "DIWAN-I-AMIR-I-KOHI -> cultivation | credit and honest supervision",
+            "KHURASAN / QARACHIL -> frontier initiative | finance, terrain and intelligence",
+            "TEST EACH: rational aim -> required instrument -> implementation failure."
+          ],
+          "source_references": [
+            "Experiments",
+            "Administrative instruments"
+          ]
+        },
+        {
+          "title": "Daulatabad without the empty-Delhi myth",
+          "structural_type": "process",
+          "ascii_lines": [
+            "DEOGIR / DAULATABAD chosen for central and Deccan position",
+            "                |",
+            "court, officials, leading groups and some religious-commercial networks moved",
+            "                |",
+            "Delhi continued to live and mint; coercion and hardship were still real",
+            "                |",
+            "southern breakaways reduced the project's strategic purpose",
+            "VERDICT: second-capital experiment, not total permanent evacuation."
+          ],
+          "source_references": [
+            "Daulatabad",
+            "Migration",
+            "Myth correction"
+          ]
+        },
+        {
+          "title": "Token currency credibility chain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "STATE ASSIGNS COPPER / BRASS A HIGHER FACE VALUE",
+            "                |",
+            "success requires mint control + recognisable standard + tax acceptance",
+            "                |",
+            "weak verification -> private imitation and counterfeit expansion",
+            "                |",
+            "trust collapses -> redemption burden -> withdrawal",
+            "LESSON: monetary design failed through enforcement and credibility gaps."
+          ],
+          "source_references": [
+            "Token currency",
+            "Counterfeiting",
+            "Trust"
+          ]
+        },
+        {
+          "title": "Doab crisis and agrarian repair",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "STANDARD YIELD / OFFICIAL PRICE + HIGH DEMAND",
+            "                |",
+            "harsh collection + famine stress -> flight, resistance and rebellion",
+            "                |",
+            "SONDHAR loans + DIWAN-I-AMIR-I-KOHI cultivation programme",
+            "                |",
+            "corruption, weak monitoring and over-ambitious scale limit recovery",
+            "RULE: separate fiscal objective, collector behaviour and climate."
+          ],
+          "source_references": [
+            "Doab taxation",
+            "Diwan-i-Amir-i-Kohi",
+            "Sondhar"
+          ]
+        },
+        {
+          "title": "Khurasan and Qarachil separated",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KHURASAN PROJECT                 QARACHIL EXPEDITION",
+            "north-west strategic opening       Himalayan frontier campaign",
+            "large recruited force              terrain and supply problem",
+            "changed external conditions        severe operational losses",
+            "not simply world conquest          not an invasion of China",
+            "COMMON LIMIT: strategic ambition exceeded sustainable logistics."
+          ],
+          "source_references": [
+            "Khurasan project",
+            "Qarachil expedition"
+          ]
+        },
+        {
+          "title": "Reading the Tughlaq archive",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BARANI -> policy detail and elite criticism | later, moralising, aristocratic",
+            "ISAMI -> displacement and Deccan memory | hostile political location",
+            "IBN BATTUTA -> witnessed court and travel | dramatic, selective, personal",
+            "AFIF / FUTUHAT -> Firuz institutions | praise and ruler self-fashioning",
+            "COINS / CANALS / MONUMENTS -> material claims | survival is uneven",
+            "METHOD: corroborate genre, date, patronage, silence and material trace."
+          ],
+          "source_references": [
+            "Barani",
+            "Isami",
+            "Ibn Battuta",
+            "Afif",
+            "Material evidence"
+          ]
+        },
+        {
+          "title": "Firuz's conciliation bargain",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "SMALLER GOVERNABLE HORIZON",
+            "          |",
+            "noble salaries and lighter audits + hereditary offices and iqtas",
+            "          |",
+            "soldier wajh claims + ulema support + reduced punitive intensity",
+            "          |",
+            "short-term peace and elite compliance",
+            "          |",
+            "long-term oligarchic closure, localised army and weaker central discipline."
+          ],
+          "source_references": [
+            "Firuz Shah",
+            "Heredity",
+            "Elite conciliation"
+          ]
+        },
+        {
+          "title": "Works, welfare, slavery and orthodoxy",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CANALS / HAQQ-I-SHARB -> cultivation and revenue in the northern core",
+            "TOWNS / KOTLA / REPAIRS -> urban patronage and dynastic display",
+            "DIWAN-I-KHAIRAT / DAR-UL-SHIFA -> bounded charity and care",
+            "DIWAN-I-BANDAGAN -> trained coerced service and a political faction",
+            "JIZYA / ULEMA -> sharper juristic orthodoxy beside translation and repair",
+            "VERDICT: developmental energy coexisted with hierarchy and coercion."
+          ],
+          "source_references": [
+            "Public works",
+            "Welfare",
+            "Slaves",
+            "Religious policy"
+          ]
+        },
+        {
+          "title": "Topic 05 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Tughlaq history is a test of state capacity, not eccentricity alone",
+            "CONTEXT -> Ghiyasuddin's restoration and an unusually large inherited empire",
+            "MUHAMMAD -> aim, instrument, failure mode and uneven afterlife of each project",
+            "FIRUZ -> conciliation, works and welfare balanced against heredity and orthodoxy",
+            "SOURCES -> compare chroniclers with coins, canals, inscriptions and monuments",
+            "CLOSE -> over-centralisation and negotiated devolution produced different fragilities."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Comparative verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "medieval-indian-history-06",
+      "display_title": "Decline of the Sultanate: Timur, Sayyids & Lodis",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\06_Decline-of-the-Sultanate-Timur-Sayyids-Lodis_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From Firuz's death to Panipat",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1388 Firuz dies -> succession and factional crisis",
+            "1398 Timur sacks Delhi -> 1414 Khizr Khan enters Delhi",
+            "1414-51 Sayyids -> 1451 Bahlul Lodi",
+            "1484 Jaunpur annexed -> 1489-1517 Sikandar Lodi",
+            "1526 Ibrahim defeated by Babur at First Panipat",
+            "RULE: Delhi contraction, regional vitality and dynastic transition overlap."
+          ],
+          "source_references": [
+            "Chronology",
+            "Transition"
+          ]
+        },
+        {
+          "title": "Structural fragmentation web",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "UNCERTAIN SUCCESSION + HEREDITARY OFFICE + NOBLE FACTION",
+            "          |",
+            "provincial commanders retain revenue and military resources",
+            "          |",
+            "distance, communication and army costs weaken rapid central response",
+            "          |",
+            "regional agrarian-commercial bases sustain alternative courts",
+            "          |",
+            "DELHI CONTRACTS before Timur; the invasion accelerates an existing crisis."
+          ],
+          "source_references": [
+            "Fragmentation",
+            "Post-Firuz crisis"
+          ]
+        },
+        {
+          "title": "Decline versus regionalisation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DELHI-CENTRED VIEW               SUBCONTINENTAL VIEW",
+            "shrinking coercive reach           Bengal, Gujarat, Malwa and Jaunpur states",
+            "prestige loss and civil war        active courts, trade and cultural patronage",
+            "Timur's destructive raid          regional political recomposition",
+            "VALID CLAIM: Sultanate decline     INVALID CLAIM: all-India civilisational void",
+            "BEST FORMULA: central contraction plus regional state formation."
+          ],
+          "source_references": [
+            "Regionalisation",
+            "Balance of power"
+          ]
+        },
+        {
+          "title": "Timur's raid as external shock",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "CENTRAL ASIA -> INDUS / PUNJAB -> DELHI, 1398",
+            "MOTIVES -> plunder + strategy + conquest ideology and self-justification",
+            "DELHI -> battle, sack, killing, captivity and severe disruption",
+            "WITHDRAWAL -> no durable all-India Timurid administration",
+            "POLITICAL EFFECT -> prestige collapse and openings for local powers",
+            "CAUTION: dramatic numbers in victory traditions are reported, not verified totals."
+          ],
+          "source_references": [
+            "Timur",
+            "Delhi sack",
+            "Consequences"
+          ]
+        },
+        {
+          "title": "How to read Timur's evidence",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "TIMURID MEMOIR TRADITION -> ruler voice and justification | textual layering",
+            "COURT CHRONICLES -> campaign sequence | patronage and victory rhetoric",
+            "LATER PERSIAN HISTORIES -> memory and synthesis | distance from event",
+            "URBAN / MATERIAL TRACE -> disruption and recovery | incomplete survival",
+            "REGIONAL POLITICS -> tests whether Delhi's fall equalled India's collapse",
+            "METHOD: secure minimum + source label + numerical caution."
+          ],
+          "source_references": [
+            "Timurid sources",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Sayyid ruler ladder and weak sovereignty",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "KHIZR KHAN 1414-21 -> Punjab base, Timurid association, Delhi capture",
+            "MUBARAK SHAH 1421-34 -> repeated pressure and limited recovery",
+            "MUHAMMAD SHAH 1434-45 -> narrower authority",
+            "ALAM SHAH 1445-51 -> withdrawal; Bahlul takes Delhi",
+            "STRUCTURE -> tribute missions + mobile campaigns + contested hinterland",
+            "VERDICT: Sayyids preserved Delhi's symbol more than broad coercive reach."
+          ],
+          "source_references": [
+            "Sayyid dynasty",
+            "Khizr Khan",
+            "Weak sovereignty"
+          ]
+        },
+        {
+          "title": "Afghan political tradition",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "SOLIDARITY -> lineage and Roh recruitment could aggregate fighting power",
+            "CONSULTATION -> chiefs expected voice, honour and negotiated distribution",
+            "EQUALITY CLAIM -> armed nobles resisted extreme royal distance",
+            "MONARCHY PROBLEM -> central audit and discipline looked like status loss",
+            "CAUTION -> equality among chiefs was not social equality for subjects",
+            "RESULT -> mobilisation strength and recurrent centre-noble tension."
+          ],
+          "source_references": [
+            "Afghan nobility",
+            "Kingship",
+            "Political culture"
+          ]
+        },
+        {
+          "title": "Bahlul's consolidation strategy",
+          "structural_type": "process",
+          "ascii_lines": [
+            "PUNJAB / SIRHIND BASE + AFGHAN RECRUITMENT",
+            "                |",
+            "1451 Delhi takeover through bargaining and opportunity",
+            "                |",
+            "personal alliance, territorial sharing and repeated campaigning",
+            "                |",
+            "Sharqi contest -> Jaunpur annexed in 1484",
+            "VERDICT: Delhi recovered range, but partition logic remained embedded."
+          ],
+          "source_references": [
+            "Bahlul Lodi",
+            "Jaunpur",
+            "Afghan mobilisation"
+          ]
+        },
+        {
+          "title": "Sikandar's state-building toolkit",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NOBLES -> court discipline, farman ritual and jagir account checks",
+            "REVENUE -> rent-rolls and gazz-i-Sikandari measurement",
+            "ECONOMY -> grain octroi abolition, roads and price stability reports",
+            "GEOGRAPHY -> Agra founded in 1506 for doab and western-eastern routes",
+            "CULTURE -> Persian learning beside sharper religious orthodoxy",
+            "VERDICT: strongest Lodi recovery, still bounded by Afghan bargaining."
+          ],
+          "source_references": [
+            "Sikandar Lodi",
+            "Administration",
+            "Agra"
+          ]
+        },
+        {
+          "title": "Ibrahim's fracture and Panipat system",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "IBRAHIM CENTRALISES -> Afghan nobles fear status and autonomy loss",
+            "          |",
+            "Daulat Khan, Alam Khan and other rivals widen coalition breakdown",
+            "          |",
+            "BABUR brings mobile cavalry + field carts + matchlocks / artillery + tulughma",
+            "          |",
+            "Lodi numerical mass lacks equivalent coordination at Panipat, 1526",
+            "VERDICT: guns mattered inside superior leadership and battlefield organisation."
+          ],
+          "source_references": [
+            "Ibrahim Lodi",
+            "First Panipat",
+            "Babur"
+          ]
+        },
+        {
+          "title": "1526: decisive but not instantly final",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CHANGE -> Lodi dynasty falls and Mughal imperial project enters Delhi-Agra",
+            "CONTINUITY -> revenue localities, service elites, forts and agrarian structures",
+            "RESISTANCE -> Afghan and Rajput powers remain politically consequential",
+            "MILITARY -> field artillery gains salience, but adaptation is organisational",
+            "HERITAGE -> Lodi tomb landscapes and repairs preserve late-Sultanate afterlives",
+            "RULE: dynastic replacement is not immediate subcontinental consolidation."
+          ],
+          "source_references": [
+            "Transition to Mughal rule",
+            "Continuity",
+            "Architecture"
+          ]
+        },
+        {
+          "title": "Topic 06 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> define decline as Delhi's contraction, not India's collapse",
+            "CAUSES -> succession, elite autonomy, fiscal-military strain and regional bases",
+            "SHOCK -> Timur accelerates weakness; label evidence and numbers cautiously",
+            "TRANSITION -> Sayyid symbolism, Bahlul's recovery and Sikandar's administration",
+            "ENDGAME -> Ibrahim-noble fracture plus Babur's integrated battlefield system",
+            "CLOSE -> 1526 was decisive dynastically, incomplete politically and continuous institutionally."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Decline debate",
+            "Panipat"
+          ]
+        }
+      ]
+    }
+  ]
+}

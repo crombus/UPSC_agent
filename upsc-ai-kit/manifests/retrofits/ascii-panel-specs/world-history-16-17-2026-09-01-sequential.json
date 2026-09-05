@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "World History learner-v2 Topics 16-17",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-16",
+      "display_title": "United Nations and Global Governance",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\16_United-Nations-and-Global-Governance_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "UN founding sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1944 -> Dumbarton Oaks proposals",
+            "1945 -> Charter framed at San Francisco",
+            "OCT 1945 -> United Nations comes into existence",
+            "DESIGN -> peace, progress and rights"
+          ],
+          "source_references": [
+            "Founding after League failure"
+          ]
+        },
+        {
+          "title": "Six principal bodies",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GENERAL ASSEMBLY -> deliberation and budget",
+            "SECURITY COUNCIL -> peace and security",
+            "ECOSOC + TRUSTEESHIP -> social work and territories",
+            "ICJ + SECRETARIAT -> law and administration"
+          ],
+          "source_references": [
+            "Six Charter bodies"
+          ]
+        },
+        {
+          "title": "Court and agency boundaries",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ICJ -> principal UN judicial organ",
+            "ICC -> separate treaty-based court",
+            "WHO/FAO/UNESCO -> specialised agencies",
+            "UNICEF/UNRWA/WTO -> different legal categories"
+          ],
+          "source_references": [
+            "ICJ, ICC and category discipline"
+          ]
+        },
+        {
+          "title": "League versus UN",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MEMBERSHIP -> wider UN participation",
+            "SOCIAL WORK -> larger UN remit",
+            "ENFORCEMENT -> Council can authorise force",
+            "CONTINUITY -> veto politics and no standing army"
+          ],
+          "source_references": [
+            "UN versus League"
+          ]
+        },
+        {
+          "title": "Success-condition matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AGREEMENT -> Suez and West New Guinea",
+            "ABSENCE -> Korea vote during Soviet boycott",
+            "COLLISION -> Hungary and Czechoslovakia",
+            "WEAK BACKING -> Somalia and Bosnia"
+          ],
+          "source_references": [
+            "Korea and collective enforcement",
+            "Suez versus Hungary",
+            "Somalia and Bosnia"
+          ]
+        },
+        {
+          "title": "Suez versus Hungary, 1956",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SUEZ -> ceasefire and peacekeeping force",
+            "HUNGARY -> Soviet force blocks meaningful action",
+            "VARIABLE -> great-power alignment",
+            "LESSON -> mandate follows political possibility"
+          ],
+          "source_references": [
+            "Suez versus Hungary"
+          ]
+        },
+        {
+          "title": "Peacekeeping versus enforcement",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PEACEKEEPING -> consent and separation",
+            "KOREA -> member-state collective enforcement",
+            "GULF 1991 -> Council-authorised coalition",
+            "RULE -> authorisation does not equal blue helmets"
+          ],
+          "source_references": [
+            "Korea and collective enforcement",
+            "Gulf War authority"
+          ]
+        },
+        {
+          "title": "Containment without resolution",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CEASEFIRE -> immediate violence reduced",
+            "OBSERVATION -> compliance supervised",
+            "POLITICAL ISSUE -> remains contested",
+            "CASES -> Cyprus and Kashmir"
+          ],
+          "source_references": [
+            "Ceasefire management without settlement"
+          ]
+        },
+        {
+          "title": "Post-Cold-War mission contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CAMBODIA/MOZAMBIQUE -> transitions stabilised",
+            "CONGO -> costly partial order",
+            "SOMALIA/BOSNIA -> mandate and force gaps",
+            "IRAQ 2003 -> powerful states bypass Council"
+          ],
+          "source_references": [
+            "Congo's mixed record",
+            "Post-Cold-War transition successes",
+            "Somalia and Bosnia",
+            "Iraq and powerful-state bypass"
+          ]
+        },
+        {
+          "title": "Non-military governance web",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "RIGHTS/LABOUR -> UDHR and ILO",
+            "HEALTH/FOOD -> WHO and FAO",
+            "EDUCATION/CHILDREN -> UNESCO and UNICEF",
+            "REFUGEES/RELIEF -> UNRWA and OCHA"
+          ],
+          "source_references": [
+            "Global governance beyond security"
+          ]
+        },
+        {
+          "title": "1945 authority mismatch",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SECURITY COUNCIL -> power structure of 1945",
+            "GENERAL ASSEMBLY -> membership transformed by decolonisation",
+            "VETO -> keeps great powers inside",
+            "REFORM CASE -> legitimacy and effectiveness diverge"
+          ],
+          "source_references": [
+            "Reform and balanced verdict"
+          ]
+        },
+        {
+          "title": "UN answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ORIGIN -> League lessons and 1945 Charter",
+            "STRUCTURE -> six bodies and legal categories",
+            "RECORD -> cases organised by power alignment",
+            "VERDICT -> forum strength, enforcement constraint"
+          ],
+          "source_references": [
+            "Reform and balanced verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "world-history-17",
+      "display_title": "China, Communism and Asia",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\17_China-Communism-and-Asia_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "China's state-collapse chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "FOREIGN PRESSURE -> Qing legitimacy erodes",
+            "1911 -> dynasty falls",
+            "YUAN SHIKAI -> republic becomes military dictatorship",
+            "WARLORDS -> central authority fragments"
+          ],
+          "source_references": [
+            "Foreign pressure and Qing legitimacy",
+            "1911 and Yuan's military state"
+          ]
+        },
+        {
+          "title": "Competing political routes",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SUN YAT-SEN -> nationalism, democracy and livelihood",
+            "KMT -> republican-national state project",
+            "CCP 1921 -> communist organisation",
+            "1927 -> alliance breaks into civil war"
+          ],
+          "source_references": [
+            "Sun Yat-sen and competing republicanism",
+            "CCP formation and KMT rupture"
+          ]
+        },
+        {
+          "title": "Mao's rural strategy",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SMALL URBAN PROLETARIAT -> orthodox route weak",
+            "PEASANTS -> mass rural constituency",
+            "LAND REFORM -> material political claim",
+            "DISCIPLINE -> local governing legitimacy"
+          ],
+          "source_references": [
+            "Mao's rural strategy"
+          ]
+        },
+        {
+          "title": "Long March mechanism",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1934-35 -> communist retreat",
+            "SURVIVAL -> leadership preserved",
+            "MAO -> dominance consolidated",
+            "MEMORY -> retreat converted into legitimacy"
+          ],
+          "source_references": [
+            "Long March and leadership"
+          ]
+        },
+        {
+          "title": "Why the CCP won",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KMT -> corruption, inflation and poor administration",
+            "CCP -> discipline, land reform and peasant contact",
+            "JAPANESE WAR -> KMT burden rises",
+            "1949 -> Mao proclaims PRC; Chiang retreats"
+          ],
+          "source_references": [
+            "Japanese invasion reshapes civil war",
+            "Why the KMT lost",
+            "Why the CCP won and founded the PRC"
+          ]
+        },
+        {
+          "title": "Mao-era balance sheet",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONSOLIDATION -> unity and landlord power weakened",
+            "HUNDRED FLOWERS -> criticism followed by repression",
+            "GREAT LEAP -> communes, disruption and famine",
+            "CULTURAL REVOLUTION -> education and administration damaged"
+          ],
+          "source_references": [
+            "Early one-party consolidation",
+            "Great Leap Forward",
+            "Cultural Revolution"
+          ]
+        },
+        {
+          "title": "Great Leap mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CRASH TARGETS -> administrative pressure rises",
+            "COMMUNES -> rural production reorganised",
+            "FEEDBACK FAILS -> error travels upward",
+            "RESULT -> severe disruption and famine"
+          ],
+          "source_references": [
+            "Great Leap Forward"
+          ]
+        },
+        {
+          "title": "Cultural Revolution mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MASS CAMPAIGN -> alleged enemies attacked",
+            "EDUCATION -> continuity broken",
+            "ADMINISTRATION -> authority destabilised",
+            "SOCIAL ORDER -> prolonged damage, 1966-76"
+          ],
+          "source_references": [
+            "Cultural Revolution"
+          ]
+        },
+        {
+          "title": "Deng's reform boundary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ECONOMY -> decollectivisation and market mechanisms",
+            "EXTERNAL -> investment and opening",
+            "POLITICS -> one-party rule retained",
+            "1989 -> force blocks political liberalisation"
+          ],
+          "source_references": [
+            "Deng reform and Tiananmen"
+          ]
+        },
+        {
+          "title": "Asian communist diversity",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH KOREA -> division and extreme centralisation",
+            "VIETNAM -> anti-colonial nationalism plus communism",
+            "CAMBODIA -> Khmer Rouge extremism",
+            "LAOS -> durable one-party pragmatic adjustment"
+          ],
+          "source_references": [
+            "Comparative Asian communisms"
+          ]
+        },
+        {
+          "title": "Sino-Soviet split",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1950 -> treaty of friendship and assistance",
+            "AFTER 1956 -> doctrine, aid and territory divide",
+            "1979 -> China attacks Soviet-aligned Vietnam",
+            "1989 -> formal reconciliation in Beijing"
+          ],
+          "source_references": [
+            "Sino-Soviet fracture and final verdict"
+          ]
+        },
+        {
+          "title": "China answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CRISIS -> dynasty falls without a functioning state",
+            "VICTORY -> rural organisation out-governs KMT",
+            "MAO -> unity plus self-generated catastrophe",
+            "REFORM -> markets without democracy; bloc fractures"
+          ],
+          "source_references": [
+            "Sino-Soviet fracture and final verdict"
+          ]
+        }
+      ]
+    }
+  ]
+}

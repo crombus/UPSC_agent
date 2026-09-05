@@ -1,0 +1,1080 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-12",
+  "subject": "Geography",
+  "title": "THE OCEANS: CURRENTS, TIDES, SALINITY / INDIAN OCEAN AND IOD",
+  "short_route": "OCEAN-CURRENT FORCE CHAIN \u2192 DENSITY-OVERTURNING CHAIN \u2192 GYRE COMPARISON \u2192 UPWELLING-FOOD WEB \u2192 TIDE GEOMETRY \u2192 LOCAL TIDAL RANGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-12_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-12-13-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "2d656a13c74c65009dd8de0662666c5eadcde2e7ca1501c529bbb98dc86e2d4c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "OCEAN-CURRENT FORCE CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OCEAN-CURRENT FORCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "WIND STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SURFACE MOMENTUM",
+          "role": "comparison"
+        },
+        {
+          "text": "TURNING BY HEMISPHERE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESSURE GRADIENT",
+          "role": "primary"
+        },
+        {
+          "text": "GEOSTROPHIC TENDENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIN + FRICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "REALISED CURRENT PATH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WIND STRESS \u2192 surface momentum",
+        "CORIOLIS \u2192 turning by hemisphere",
+        "PRESSURE GRADIENT \u2192 geostrophic tendency",
+        "BASIN + FRICTION \u2192 realised current path"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WIND STRESS \u2192 surface momentum",
+            "CORIOLIS \u2192 turning by hemisphere"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESSURE GRADIENT \u2192 geostrophic tendency",
+            "BASIN + FRICTION \u2192 realised current path"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WIND STRESS \u2192 surface momentum",
+            "CORIOLIS \u2192 turning by hemisphere"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRESSURE GRADIENT \u2192 geostrophic tendency; BASIN + FRICTION \u2192 realised current path.",
+      "source_references": [
+        "Surface-current force balance"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DENSITY-OVERTURNING CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DENSITY-OVERTURNING CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "DENSITY INCREASE",
+          "role": "outcome"
+        },
+        {
+          "text": "DENSITY DECREASE",
+          "role": "comparison"
+        },
+        {
+          "text": "DENSE WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "SINKING AND SPREADING",
+          "role": "primary"
+        },
+        {
+          "text": "MIXING + TOPOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERTURNING PATHWAYS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COOLING / EVAPORATION \u2192 density increase",
+        "FRESHWATER / WARMING \u2192 density decrease",
+        "DENSE WATER \u2192 sinking and spreading",
+        "MIXING + TOPOGRAPHY \u2192 overturning pathways"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "COOLING / EVAPORATION \u2192 density increase",
+            "FRESHWATER / WARMING \u2192 density decrease"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DENSE WATER \u2192 sinking and spreading",
+            "MIXING + TOPOGRAPHY \u2192 overturning pathways"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "COOLING / EVAPORATION \u2192 density increase",
+            "FRESHWATER / WARMING \u2192 density decrease"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DENSE WATER \u2192 sinking and spreading; MIXING + TOPOGRAPHY \u2192 overturning pathways.",
+      "source_references": [
+        "Thermohaline density circulation"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GYRE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GYRE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH SUBTROPICS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOCKWISE TENDENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTH SUBTROPICS",
+          "role": "evidence"
+        },
+        {
+          "text": "ANTICLOCKWISE TENDENCY",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN LIMB",
+          "role": "outcome"
+        },
+        {
+          "text": "NARROW, SWIFT, WARM",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN LIMB",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH SUBTROPICS \u2192 clockwise tendency",
+        "SOUTH SUBTROPICS \u2192 anticlockwise tendency",
+        "WESTERN LIMB \u2192 narrow, swift, warm",
+        "EASTERN LIMB \u2192 broad, cool, upwelling-prone"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "NORTH SUBTROPICS \u2192 clockwise tendency",
+          "WESTERN LIMB \u2192 narrow, swift, warm",
+          "NORTH SUBTROPICS \u2192 clockwise tendency"
+        ],
+        [
+          "SOUTH SUBTROPICS \u2192 anticlockwise tendency",
+          "EASTERN LIMB \u2192 broad, cool, upwelling-prone",
+          "SOUTH SUBTROPICS \u2192 anticlockwise tendency"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NORTH SUBTROPICS \u2192 clockwise tendency",
+            "SOUTH SUBTROPICS \u2192 anticlockwise tendency"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WESTERN LIMB \u2192 narrow, swift, warm",
+            "EASTERN LIMB \u2192 broad, cool, upwelling-prone"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NORTH SUBTROPICS \u2192 clockwise tendency",
+            "SOUTH SUBTROPICS \u2192 anticlockwise tendency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WESTERN LIMB \u2192 narrow, swift, warm; EASTERN LIMB \u2192 broad, cool, upwelling-prone.",
+      "source_references": [
+        "Gyres and boundary currents"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "UPWELLING-FOOD WEB",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UPWELLING-FOOD WEB",
+          "role": "primary"
+        },
+        {
+          "text": "ALONGSHORE WIND",
+          "role": "outcome"
+        },
+        {
+          "text": "EKMAN TRANSPORT OFFSHORE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEEPER WATER RISES",
+          "role": "evidence"
+        },
+        {
+          "text": "NUTRIENT SUPPLY",
+          "role": "primary"
+        },
+        {
+          "text": "OXYGEN, LIGHT, HABITAT, FISHING PRESSURE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ALONGSHORE WIND \u2192 Ekman transport offshore",
+        "DEEPER WATER RISES \u2192 nutrient supply",
+        "PHYTOPLANKTON \u2192 zooplankton \u2192 fish",
+        "LIMITS \u2192 oxygen, light, habitat, fishing pressure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ALONGSHORE WIND \u2192 Ekman transport offshore",
+            "DEEPER WATER RISES \u2192 nutrient supply"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PHYTOPLANKTON \u2192 zooplankton \u2192 fish",
+            "LIMITS \u2192 oxygen, light, habitat, fishing pressure"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ALONGSHORE WIND \u2192 Ekman transport offshore",
+            "DEEPER WATER RISES \u2192 nutrient supply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PHYTOPLANKTON \u2192 zooplankton \u2192 fish; LIMITS \u2192 oxygen, light, habitat, fishing pressure.",
+      "source_references": [
+        "Upwelling and fisheries"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TIDE GEOMETRY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TIDE GEOMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "FULL MOON",
+          "role": "outcome"
+        },
+        {
+          "text": "ALIGNED FORCES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPRING TIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "LARGER RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "QUARTER MOON",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTIAL OFFSET",
+          "role": "comparison"
+        },
+        {
+          "text": "NEAP TIDE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEW / FULL MOON \u2192 aligned forces",
+        "SPRING TIDE \u2192 larger range",
+        "QUARTER MOON \u2192 partial offset",
+        "NEAP TIDE \u2192 smaller range"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "NEW / FULL MOON \u2192 aligned forces",
+          "QUARTER MOON \u2192 partial offset",
+          "NEW / FULL MOON \u2192 aligned forces"
+        ],
+        [
+          "SPRING TIDE \u2192 larger range",
+          "NEAP TIDE \u2192 smaller range",
+          "SPRING TIDE \u2192 larger range"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NEW / FULL MOON \u2192 aligned forces",
+            "SPRING TIDE \u2192 larger range"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUARTER MOON \u2192 partial offset",
+            "NEAP TIDE \u2192 smaller range"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NEW / FULL MOON \u2192 aligned forces",
+            "SPRING TIDE \u2192 larger range"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUARTER MOON \u2192 partial offset; NEAP TIDE \u2192 smaller range.",
+      "source_references": [
+        "Tide-generating forces",
+        "Spring and neap tides"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LOCAL TIDAL RANGE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOCAL TIDAL RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "ASTRONOMICAL FORCING",
+          "role": "outcome"
+        },
+        {
+          "text": "INCOMING TIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHELF DEPTH + BAY SHAPE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESONANCE + FRICTION",
+          "role": "primary"
+        },
+        {
+          "text": "TIMING AND HEIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME FORCING, DIFFERENT LOCAL RANGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ASTRONOMICAL FORCING \u2192 incoming tide",
+        "SHELF DEPTH + BAY SHAPE \u2192 amplification",
+        "RESONANCE + FRICTION \u2192 timing and height",
+        "RULE \u2192 same forcing, different local range"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ASTRONOMICAL FORCING \u2192 incoming tide",
+            "SHELF DEPTH + BAY SHAPE \u2192 amplification"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESONANCE + FRICTION \u2192 timing and height",
+            "RULE \u2192 same forcing, different local range"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ASTRONOMICAL FORCING \u2192 incoming tide",
+            "SHELF DEPTH + BAY SHAPE \u2192 amplification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESONANCE + FRICTION \u2192 timing and height; RULE \u2192 same forcing, different local range.",
+      "source_references": [
+        "Spring and neap tides"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SALINITY BUDGET",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SALINITY BUDGET",
+          "role": "primary"
+        },
+        {
+          "text": "EVAPORATION + BRINE",
+          "role": "outcome"
+        },
+        {
+          "text": "SALINITY RISES",
+          "role": "comparison"
+        },
+        {
+          "text": "RAIN + RIVER + MELT",
+          "role": "evidence"
+        },
+        {
+          "text": "SALINITY FALLS",
+          "role": "primary"
+        },
+        {
+          "text": "ADVECTION + MIXING",
+          "role": "outcome"
+        },
+        {
+          "text": "REDISTRIBUTE SALT",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMP + SALINITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVAPORATION + BRINE \u2192 salinity rises",
+        "RAIN + RIVER + MELT \u2192 salinity falls",
+        "ADVECTION + MIXING \u2192 redistribute salt",
+        "TEMP + SALINITY \u2192 density and stratification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EVAPORATION + BRINE \u2192 salinity rises",
+            "RAIN + RIVER + MELT \u2192 salinity falls"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADVECTION + MIXING \u2192 redistribute salt",
+            "TEMP + SALINITY \u2192 density and stratification"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "EVAPORATION + BRINE \u2192 salinity rises",
+            "RAIN + RIVER + MELT \u2192 salinity falls"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RAIN + RIVER + MELT \u2192 salinity falls.",
+      "source_references": [
+        "Salinity controls and halocline"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARABIAN-BAY CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARABIAN-BAY CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "ARABIAN SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER EVAPORATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BAY OF BENGAL",
+          "role": "evidence"
+        },
+        {
+          "text": "RAIN + LARGE RIVER INPUT",
+          "role": "primary"
+        },
+        {
+          "text": "GENERAL RESULT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARABIAN SEA MORE SALINE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEASON AND LOCAL MIXING MATTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARABIAN SEA \u2192 stronger evaporation",
+        "BAY OF BENGAL \u2192 rain + large river input",
+        "GENERAL RESULT \u2192 Arabian Sea more saline",
+        "QUALIFIER \u2192 season and local mixing matter"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "ARABIAN SEA \u2192 stronger evaporation",
+          "GENERAL RESULT \u2192 Arabian Sea more saline",
+          "ARABIAN SEA \u2192 stronger evaporation"
+        ],
+        [
+          "BAY OF BENGAL \u2192 rain + large river input",
+          "QUALIFIER \u2192 season and local mixing matter",
+          "BAY OF BENGAL \u2192 rain + large river input"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ARABIAN SEA \u2192 stronger evaporation",
+            "BAY OF BENGAL \u2192 rain + large river input"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GENERAL RESULT \u2192 Arabian Sea more saline",
+            "QUALIFIER \u2192 season and local mixing matter"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ARABIAN SEA \u2192 stronger evaporation",
+            "BAY OF BENGAL \u2192 rain + large river input"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BAY OF BENGAL \u2192 rain + large river input.",
+      "source_references": [
+        "Arabian Sea and Bay of Bengal"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MONSOON-CURRENT SWITCH",
+      "structural_type": "seasonal-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MONSOON-CURRENT SWITCH",
+          "role": "primary"
+        },
+        {
+          "text": "SW MONSOON",
+          "role": "outcome"
+        },
+        {
+          "text": "WINDS DRIVE SUMMER REORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOMALI SECTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONG CURRENT + UPWELLING",
+          "role": "primary"
+        },
+        {
+          "text": "NE MONSOON",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTHERN FLOWS REVERSE/REORGANISE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SW MONSOON \u2192 winds drive summer reorganisation",
+        "SOMALI SECTOR \u2192 strong current + upwelling",
+        "NE MONSOON \u2192 northern flows reverse/reorganise",
+        "MAP RULE \u2192 label every arrow by season"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SW MONSOON \u2192 winds drive summer reorganisation",
+            "SOMALI SECTOR \u2192 strong current + upwelling"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NE MONSOON \u2192 northern flows reverse/reorganise",
+            "MAP RULE \u2192 label every arrow by season"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "SW MONSOON \u2192 winds drive summer reorganisation",
+            "SOMALI SECTOR \u2192 strong current + upwelling"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "NE MONSOON \u2192 northern flows reverse/reorganise",
+            "MAP RULE \u2192 label every arrow by season"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP RULE \u2192 label every arrow by season.",
+      "source_references": [
+        "Seasonal monsoon-current reversal"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "IOD COUPLED SEESAW",
+      "structural_type": "mechanism-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "IOD COUPLED SEESAW",
+          "role": "primary"
+        },
+        {
+          "text": "WEST-EAST SST CONTRAST",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE GRADIENT",
+          "role": "comparison"
+        },
+        {
+          "text": "THERMOCLINE AND UPWELLING RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "RAINFALL SHIFTS ZONALLY",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDITIONAL ON TIMING + ENSO + MJO",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WEST-EAST SST CONTRAST \u2192 pressure gradient",
+        "WINDS \u2192 thermocline and upwelling response",
+        "CONVECTION \u2192 rainfall shifts zonally",
+        "INDIA EFFECT \u2192 conditional on timing + ENSO + MJO"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "WEST-EAST SST CONTRAST \u2192 pressure gradient",
+            "WINDS \u2192 thermocline and upwelling response"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONVECTION \u2192 rainfall shifts zonally",
+            "INDIA EFFECT \u2192 conditional on timing + ENSO + MJO"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "WEST-EAST SST CONTRAST \u2192 pressure gradient",
+            "WINDS \u2192 thermocline and upwelling response"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "CONVECTION \u2192 rainfall shifts zonally",
+            "INDIA EFFECT \u2192 conditional on timing + ENSO + MJO"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDIA EFFECT \u2192 conditional on timing + ENSO + MJO.",
+      "source_references": [
+        "IOD coupled mechanism",
+        "IOD phases and uncertainty"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "OBSERVATION-TO-SERVICE CHAIN",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OBSERVATION-TO-SERVICE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "OCEAN + WEATHER OBSERVATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "DATA MANAGEMENT AND PRODUCTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ANALYSIS AND FORECAST ENSEMBLES",
+          "role": "evidence"
+        },
+        {
+          "text": "MARINE SERVICE WITH UNCERTAINTY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OMNI / RAMA \u2192 ocean + weather observations",
+        "INCOIS \u2192 data management and products",
+        "MODELS \u2192 analysis and forecast ensembles",
+        "USER \u2192 marine service with uncertainty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "OMNI / RAMA \u2192 ocean + weather observations",
+            "INCOIS \u2192 data management and products"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MODELS \u2192 analysis and forecast ensembles",
+            "USER \u2192 marine service with uncertainty"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "OMNI / RAMA \u2192 ocean + weather observations",
+            "INCOIS \u2192 data management and products"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OMNI / RAMA \u2192 ocean + weather observations.",
+      "source_references": [
+        "INCOIS observing architecture"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "OCEAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "OCEAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEPTH, SCALE AND SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCE, DENSITY OR GRAVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIN, CURRENT, TIDE OR SALINITY",
+          "role": "evidence"
+        },
+        {
+          "text": "VARIABILITY, ECOLOGY AND EVIDENCE DATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 depth, scale and season",
+        "DERIVE \u2192 force, density or gravity",
+        "MAP \u2192 basin, current, tide or salinity",
+        "QUALIFY \u2192 variability, ecology and evidence date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 depth, scale and season",
+            "DERIVE \u2192 force, density or gravity"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP \u2192 basin, current, tide or salinity",
+            "QUALIFY \u2192 variability, ecology and evidence date"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 depth, scale and season",
+            "DERIVE \u2192 force, density or gravity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP \u2192 basin, current, tide or salinity; QUALIFY \u2192 variability, ecology and evidence date.",
+      "source_references": [
+        "Verified PYQs and ocean answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE ARABIAN SEA HOSTS ONE OF THE WORLD'S STRONGEST",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY HERE",
+          "role": "comparison"
+        },
+        {
+          "text": "MONSOON-DRIVEN PRODUCTIVITY AND ORGANIC-MATTER DECAY COMBINE WITH WEAK VENTILATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "LOSS OF FIXED NITROGEN VIA DENITRIFICATION/ANAMMOX , RELEASE OF",
+          "role": "primary"
+        },
+        {
+          "text": "FISHERY SHIFTS, AND REPLACEMENT OF DIATOMS BY HYPOXIA-TOLERANT NOCTILUCA",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJID HUSAIN LINKS ABNORMALLY HIGH SEA TEMPERATURES WITH CORAL",
+          "role": "comparison"
+        },
+        {
+          "text": "MARINE HEATWAVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "CAUTION: The Arabian Sea hosts one of the world's strongest tropical oxygen-minimum zones at",
+            "CAUTION: Why here: monsoon-driven productivity and organic-matter decay combine with weak ventilation.",
+            "CAUTION: Consequences: loss of fixed nitrogen via denitrification/anammox , release of the greenhouse gas nitrous oxide (N\u2082O) ,",
+            "fishery shifts, and replacement of diatoms by hypoxia-tolerant Noctiluca (green Noctiluca blooms) \u2014 an India-relevant fisheries/climate concern."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Majid Husain links abnormally high sea temperatures with coral bleaching, where heat stress kills the microscopic algae that colour and feed corals.",
+            "CAUTION: Marine heatwave = a prolonged spell of unusually high sea-surface temperature",
+            "over a specific ocean region, relative to its normal seasonal range.",
+            "CAUTION: Mechanism: ocean warming + weak winds/mixing + persistent high pressure can suppress cooling and keep surface waters anomalously warm."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "CAUTION: India link: Arabian Sea and Bay of Bengal warming can intensify cyclones, stress corals and alter fisheries/monsoon moisture supply.",
+            "North Indian Ocean currents reverse seasonally with the monsoon.",
+            "Summer = SW Monsoon Drift; winter = NE Monsoon Drift.",
+            "South Indian Ocean has a normal subtropical gyre."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

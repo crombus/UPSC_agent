@@ -1,0 +1,1113 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-02",
+  "subject": "Medieval-Indian-History",
+  "title": "THE GHAZNAVIDS & THE GHURIAN INVASIONS",
+  "short_route": "THREE PHASES THAT MUST → CAMPAIGN CHRONOLOGY → SOURCE CRITICISM MATRIX → FROM SAMANID SERVICE TO → HINDU SHAHI RESISTANCE AND → MAHMUD'S CAMPAIGNS: REACH AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-02_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-02-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "641ca2a46aa013ec038aff9130b3c80e41be1affc6811143ae78ecd539c8b006",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE PHASES THAT MUST REMAIN SEPARATE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THREE PHASES THAT MUST REMAIN SEPARATE",
+          "role": "primary"
+        },
+        {
+          "text": "GHAZNAVID PHASE GHURID PHASE DELHI SULTANATE C. 990S-1186 1175-1206",
+          "role": "outcome"
+        },
+        {
+          "text": "LAHORE BASE DELHI-DOAB EXPANSION AIBAK AND ILTUTMISH",
+          "role": "comparison"
+        },
+        {
+          "text": "MUIZZ AL-DIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GHAZNAVID PHASE GHURID PHASE DELHI SULTANATE c. 990s-1186 1175-1206 from 1206 frontier war + raids",
+        "Punjab / Lahore base Delhi-doab expansion Aibak and Iltutmish",
+        "Mahmud != Muizz al-Din != Aibak."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "GHAZNAVID PHASE GHURID PHASE DELHI SULTANATE c. 990s-1186 1175-1206 from 1206 frontier war + raids territorial bridgehead Indian-centred consolidation",
+            "Punjab / Lahore base Delhi-doab expansion Aibak and Iltutmish"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Mahmud != Muizz al-Din != Aibak.",
+            "GHAZNAVID PHASE GHURID PHASE DELHI SULTANATE c. 990s-1186 1175-1206 from 1206 frontier war + raids territorial bridgehead Indian-centred consolidation"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Punjab / Lahore base Delhi-doab expansion Aibak and Iltutmish",
+            "Mahmud != Muizz al-Din != Aibak."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Punjab / Lahore base Delhi-doab expansion Aibak and Iltutmish.",
+      "source_references": [
+        "Scope",
+        "Core distinctions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CAMPAIGN CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CAMPAIGN CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "ALP-TIGIN AT GHAZNI",
+          "role": "outcome"
+        },
+        {
+          "text": "JAYAPALA DEFEATED",
+          "role": "comparison"
+        },
+        {
+          "text": "ANANDAPALA DEFEATED",
+          "role": "evidence"
+        },
+        {
+          "text": "SOMNATH CAMPAIGN",
+          "role": "primary"
+        },
+        {
+          "text": "GHURIDS TAKE LAHORE",
+          "role": "outcome"
+        },
+        {
+          "text": "TARAIN I, GHURID DEFEAT",
+          "role": "comparison"
+        },
+        {
+          "text": "TARAIN II, GHURID VICTORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "963 → Alp-tigin at Ghazni",
+        "977 → Sabuktigin",
+        "1001 → Jayapala defeated",
+        "1009 → Anandapala defeated",
+        "1025-26 → Somnath campaign"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "963 → Alp-tigin at Ghazni",
+            "977 → Sabuktigin",
+            "1001 → Jayapala defeated",
+            "1009 → Anandapala defeated"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1025-26 → Somnath campaign",
+            "1186 → Ghurids take Lahore",
+            "1191 → Tarain I, Ghurid defeat",
+            "1192 → Tarain II, Ghurid victory"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1194 → Chandawar",
+            "1206 → Muizz al-Din dies",
+            "RULE: battlefield victory and durable consolidation are different stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: battlefield victory and durable consolidation are different stages.",
+      "answer_line": "battlefield victory and durable consolidation are different stages.",
+      "source_references": [
+        "Chronology",
+        "Campaign sequence"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SOURCE CRITICISM MATRIX",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE CRITICISM MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "GHAZNAVID COURT CLAIMS",
+          "role": "institution"
+        },
+        {
+          "text": "PANEGYRIC; ENDS BEFORE SOMNATH",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARATIVE INQUIRY",
+          "role": "evidence"
+        },
+        {
+          "text": "ELITE TEXTUAL AND REGIONAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "COURT AND ADMINISTRATION",
+          "role": "institution"
+        },
+        {
+          "text": "FRAGMENTARY SURVIVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "HASAN NIZAMI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AL-UTBI → Ghaznavid court claims",
+        "panegyric; ends before Somnath",
+        "AL-BIRUNI → comparative inquiry",
+        "elite textual and regional limits",
+        "BAYHAQI → court and administration"
+      ],
+      "matrix": [
+        [
+          "AL-UTBI → Ghaznavid court claims",
+          "panegyric; ends before Somnath"
+        ],
+        [
+          "AL-BIRUNI → comparative inquiry",
+          "elite textual and regional limits"
+        ],
+        [
+          "BAYHAQI → court and administration",
+          "fragmentary survival"
+        ],
+        [
+          "HASAN NIZAMI → early conquest",
+          "ornate Aibak-linked legitimation"
+        ],
+        [
+          "MINHAJ → Ghurid-Delhi sequence",
+          "written decades later"
+        ],
+        [
+          "COINS / INSCRIPTIONS → titles and local claims",
+          "require contextual reading."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "AL-UTBI → Ghaznavid court claims",
+            "panegyric; ends before Somnath",
+            "AL-BIRUNI → comparative inquiry",
+            "elite textual and regional limits"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "BAYHAQI → court and administration",
+            "fragmentary survival",
+            "HASAN NIZAMI → early conquest",
+            "ornate Aibak-linked legitimation"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "MINHAJ → Ghurid-Delhi sequence",
+            "written decades later",
+            "COINS / INSCRIPTIONS → titles and local claims",
+            "require contextual reading."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COINS / INSCRIPTIONS → titles and local claims | require contextual reading.",
+      "source_references": [
+        "Sources",
+        "Historiography"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FROM SAMANID SERVICE TO GHAZNAVID RULE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM SAMANID SERVICE TO GHAZNAVID RULE",
+          "role": "primary"
+        },
+        {
+          "text": "SAMANID PERSIANATE COURT",
+          "role": "institution"
+        },
+        {
+          "text": "TURKIC MILITARY COMMANDERS AND SERVICE NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "ALP-TIGIN AT GHAZNI",
+          "role": "evidence"
+        },
+        {
+          "text": "MAHMUD ROADS, CAVALRY, TAXATION, COURT CULTURE AND FRONTIER WARFARE",
+          "role": "institution"
+        },
+        {
+          "text": "A STATE-FORMATION PROCESS, NOT AN ETHNIC MIGRATION EXPLANATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SAMANID PERSIANATE COURT",
+        "Turkic military commanders and service networks",
+        "Alp-tigin at Ghazni → Sabuktigin → Mahmud roads, cavalry, taxation, court culture and frontier warfare",
+        "VERDICT: a state-formation process, not an ethnic migration explanation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAMANID PERSIANATE COURT",
+            "Turkic military commanders and service networks"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Alp-tigin at Ghazni → Sabuktigin → Mahmud roads, cavalry, taxation, court culture and frontier warfare",
+            "VERDICT: a state-formation process, not an ethnic migration explanation."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SAMANID PERSIANATE COURT",
+            "Turkic military commanders and service networks"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: a state-formation process, not an ethnic migration explanation.",
+      "answer_line": "a state-formation process, not an ethnic migration explanation.",
+      "source_references": [
+        "Samanids",
+        "Ghaznavid rise"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HINDU SHAHI RESISTANCE AND FRONTIER BREACH",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HINDU SHAHI RESISTANCE AND FRONTIER BREACH",
+          "role": "primary"
+        },
+        {
+          "text": "SALT RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "HINDU SHAHI STRATEGIC DEPTH AND FORTIFIED CORRIDORS",
+          "role": "comparison"
+        },
+        {
+          "text": "SABUKTIGIN PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "JAYAPALA 1001",
+          "role": "primary"
+        },
+        {
+          "text": "ANANDAPALA 1009",
+          "role": "outcome"
+        },
+        {
+          "text": "KASHMIR 1015 FAILURE",
+          "role": "comparison"
+        },
+        {
+          "text": "WEATHER AND TERRAIN STILL CONSTRAINED GHAZNAVIDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KABUL / JALALABAD → PESHAWAR → SALT RANGE → PUNJAB",
+        "Hindu Shahi strategic depth and fortified corridors",
+        "Sabuktigin pressure → Jayapala 1001 → Anandapala 1009 → Nandana",
+        "Kashmir 1015 failure → weather and terrain still constrained Ghaznavids",
+        "VERDICT: prolonged resistance preceded a changing Punjab frontier."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "KABUL / JALALABAD → PESHAWAR → SALT RANGE → PUNJAB",
+            "Hindu Shahi strategic depth and fortified corridors"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Sabuktigin pressure → Jayapala 1001 → Anandapala 1009 → Nandana",
+            "Kashmir 1015 failure → weather and terrain still constrained Ghaznavids"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: prolonged resistance preceded a changing Punjab frontier.",
+            "KABUL / JALALABAD → PESHAWAR → SALT RANGE → PUNJAB"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: prolonged resistance preceded a changing Punjab frontier.",
+      "source_references": [
+        "Hindu Shahis",
+        "Punjab"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MAHMUD'S CAMPAIGNS: REACH AND LIMITS",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MAHMUD'S CAMPAIGNS",
+          "role": "primary"
+        },
+        {
+          "text": "REACH AND LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "DURABLE BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "GHAZNI + PUNJAB",
+          "role": "evidence"
+        },
+        {
+          "text": "REPEATED TARGETS",
+          "role": "primary"
+        },
+        {
+          "text": "FRONTIER FORTS, MULTAN, MATHURA-KANAUJ AND SOMNATH",
+          "role": "outcome"
+        },
+        {
+          "text": "CAMPAIGNING, TRIBUTE, PLUNDER, GARRISONS AND LOCAL ARRANGEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO COMPARABLE PERMANENT GHAZNAVID GANGETIC ADMINISTRATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DURABLE BASE → Ghazni + Punjab / Lahore",
+        "REPEATED TARGETS → frontier forts, Multan, Mathura-Kanauj and Somnath",
+        "METHODS → campaigning, tribute, plunder, garrisons and local arrangements",
+        "LIMITS → no comparable permanent Ghaznavid Gangetic administration",
+        "RULE: repeated deep raids do not equal uniform territorial occupation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DURABLE BASE → Ghazni + Punjab / Lahore",
+            "REPEATED TARGETS → frontier forts, Multan, Mathura-Kanauj and Somnath"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "METHODS → campaigning, tribute, plunder, garrisons and local arrangements",
+            "LIMITS → no comparable permanent Ghaznavid Gangetic administration"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: repeated deep raids do not equal uniform territorial occupation.",
+            "DURABLE BASE → Ghazni + Punjab / Lahore"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: repeated deep raids do not equal uniform territorial occupation.",
+      "answer_line": "repeated deep raids do not equal uniform territorial occupation.",
+      "source_references": [
+        "Mahmud's campaigns",
+        "Territorial limits"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MAHMUD'S MOTIVES AS A MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MAHMUD'S MOTIVES AS A MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MOVABLE WEALTH AND MILITARY FINANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVALS, FRONTIER SECURITY AND PUNJAB CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESTIGE AND DYNASTIC LEGITIMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "GHAZI AND ICONOCLAST RHETORIC",
+          "role": "primary"
+        },
+        {
+          "text": "COURT PATRONAGE AND PERSIANATE KINGSHIP",
+          "role": "institution"
+        },
+        {
+          "text": "MOTIVES REINFORCED ONE ANOTHER AND VARIED BY CAMPAIGN.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FISCAL → movable wealth and military finance",
+        "STRATEGIC → rivals, frontier security and Punjab control",
+        "POLITICAL → prestige and dynastic legitimation",
+        "RELIGIOUS → ghazi and iconoclast rhetoric",
+        "CULTURAL → court patronage and Persianate kingship"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "FISCAL → movable wealth and military finance",
+          "POLITICAL → prestige and dynastic legitimation",
+          "CULTURAL → court patronage and Persianate kingship"
+        ],
+        [
+          "STRATEGIC → rivals, frontier security and Punjab control",
+          "RELIGIOUS → ghazi and iconoclast rhetoric",
+          "VERDICT: motives reinforced one another and varied by campaign."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FISCAL → movable wealth and military finance",
+            "STRATEGIC → rivals, frontier security and Punjab control"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "POLITICAL → prestige and dynastic legitimation",
+            "RELIGIOUS → ghazi and iconoclast rhetoric"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CULTURAL → court patronage and Persianate kingship",
+            "VERDICT: motives reinforced one another and varied by campaign."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: motives reinforced one another and varied by campaign.",
+      "answer_line": "motives reinforced one another and varied by campaign.",
+      "source_references": [
+        "Motives",
+        "Multi-causal analysis"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SOMNATH AND AL-BIRUNI: EVENT VERSUS EVIDENCE",
+      "structural_type": "evidence-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SOMNATH AND AL-BIRUNI",
+          "role": "primary"
+        },
+        {
+          "text": "EVENT VERSUS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOMNATH EVENT",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER TEXTUAL LAYERS, MEMORY AND POLITICAL REUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "CANNOT NARRATE 1025 BECAUSE HIS ACCOUNT ENDS EARLIER",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOLARSHIP ON INDIAN LEARNING, NOT A NEUTRAL SOCIAL CENSUS",
+          "role": "caution"
+        },
+        {
+          "text": "REGIONAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHECKS COURT AND LATER LITERARY CLAIMS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SOMNATH EVENT → later textual layers, memory and political reuse",
+        "AL-UTBI → cannot narrate 1025 because his account ends earlier",
+        "AL-BIRUNI → scholarship on Indian learning, not a neutral social census",
+        "MATERIAL / REGIONAL EVIDENCE → checks court and later literary claims",
+        "METHOD: identify date, genre, patron, report, corroboration and limit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SOMNATH EVENT → later textual layers, memory and political reuse",
+            "AL-UTBI → cannot narrate 1025 because his account ends earlier"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "AL-BIRUNI → scholarship on Indian learning, not a neutral social census",
+            "MATERIAL / REGIONAL EVIDENCE → checks court and later literary claims"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "METHOD: identify date, genre, patron, report, corroboration and limit.",
+            "SOMNATH EVENT → later textual layers, memory and political reuse"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD: identify date, genre, patron, report, corroboration and limit.",
+      "source_references": [
+        "Somnath",
+        "Al-Biruni",
+        "Source criticism"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GHAZNAVID AND GHURID PROJECTS COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GHAZNAVID AND GHURID PROJECTS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "GHAZNAVIDS GHURIDS",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB BRIDGEHEAD + RAIDS STAGED TERRITORIAL ADVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "GHAZNI-LAHORE AXIS MULTAN-PUNJAB-DELHI-DOAB AXIS DEEP CAMPAIGNS, LIMITED PLAINS COMMANDERS",
+          "role": "evidence"
+        },
+        {
+          "text": "GHURIDS DISPLACED THE LAST GHAZNAVID AT LAHORE IN 1186.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GHAZNAVIDS GHURIDS",
+        "Punjab bridgehead + raids staged territorial advance",
+        "Ghazni-Lahore axis Multan-Punjab-Delhi-doab axis deep campaigns, limited plains commanders, garrisons and",
+        "vassalage state focus remained westward wider north Indian succession problem",
+        "LINK: Ghurids displaced the last Ghaznavid at Lahore in 1186."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "GHAZNAVIDS GHURIDS",
+          "Ghazni-Lahore axis Multan-Punjab-Delhi-doab axis deep campaigns, limited plains commanders, garrisons and",
+          "LINK: Ghurids displaced the last Ghaznavid at Lahore in 1186."
+        ],
+        [
+          "Punjab bridgehead + raids staged territorial advance",
+          "vassalage state focus remained westward wider north Indian succession problem",
+          "GHAZNAVIDS GHURIDS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GHAZNAVIDS GHURIDS",
+            "Punjab bridgehead + raids staged territorial advance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Ghazni-Lahore axis Multan-Punjab-Delhi-doab axis deep campaigns, limited plains commanders, garrisons and",
+            "vassalage state focus remained westward wider north Indian succession problem"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LINK: Ghurids displaced the last Ghaznavid at Lahore in 1186.",
+            "GHAZNAVIDS GHURIDS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK: Ghurids displaced the last Ghaznavid at Lahore in 1186.",
+      "source_references": [
+        "Ghaznavids",
+        "Ghurids",
+        "Comparison"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TARAIN I AND II",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TARAIN I AND II",
+          "role": "primary"
+        },
+        {
+          "text": "1191 TARAIN I 1192 TARAIN II",
+          "role": "outcome"
+        },
+        {
+          "text": "GHURID DEFEAT GHURID RETURN AND VICTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "RAJPUT CAPACITY DEMONSTRATED MOUNTED HARASSMENT AND RESERVES MATTER NO",
+          "role": "caution"
+        },
+        {
+          "text": "OCCUPATION REMAINED UNEVEN; FORTS, REBELLIONS AND LOCAL DEALS CONTINUED.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1191 TARAIN I 1192 TARAIN II",
+        "Ghurid defeat Ghurid return and victory",
+        "Rajput capacity demonstrated mounted harassment and reserves matter no inevitable Turkish success learning and command",
+        "AFTERMATH → occupation remained uneven; forts, rebellions and local deals continued."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "1191 TARAIN I 1192 TARAIN II",
+          "Rajput capacity demonstrated mounted harassment and reserves matter no inevitable Turkish success learning and command alter outcome",
+          "1191 TARAIN I 1192 TARAIN II"
+        ],
+        [
+          "Ghurid defeat Ghurid return and victory",
+          "AFTERMATH → occupation remained uneven; forts, rebellions and local deals continued.",
+          "Ghurid defeat Ghurid return and victory"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1191 TARAIN I 1192 TARAIN II",
+            "Ghurid defeat Ghurid return and victory"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Rajput capacity demonstrated mounted harassment and reserves matter no inevitable Turkish success learning and command alter outcome",
+            "AFTERMATH → occupation remained uneven; forts, rebellions and local deals continued."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "1191 TARAIN I 1192 TARAIN II",
+            "Ghurid defeat Ghurid return and victory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFTERMATH → occupation remained uneven; forts, rebellions and local deals continued.",
+      "source_references": [
+        "Tarain",
+        "Contingency"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BATTLEFIELD VICTORY TO CONSOLIDATION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BATTLEFIELD VICTORY TO CONSOLIDATION",
+          "role": "primary"
+        },
+        {
+          "text": "COMMANDER DELEGATION AND GARRISONS",
+          "role": "outcome"
+        },
+        {
+          "text": "VASSALAGE, TRIBUTE AND NEGOTIATED LOCAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "REVENUE ACCESS AND ROUTE SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPPRESSION OF REBELLIONS AND RIVAL TURKISH CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "POST-1206 AIBAK-ILTUTMISH CONSOLIDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GHURID OPENING",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTANTLY COMPLETE DELHI SULTANATE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "commander delegation and garrisons",
+        "vassalage, tribute and negotiated local rule",
+        "revenue access and route security",
+        "suppression of rebellions and rival Turkish claims",
+        "post-1206 Aibak-Iltutmish consolidation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "commander delegation and garrisons",
+            "vassalage, tribute and negotiated local rule"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "revenue access and route security",
+            "suppression of rebellions and rival Turkish claims"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "post-1206 Aibak-Iltutmish consolidation",
+            "TRAP: Ghurid opening != instantly complete Delhi Sultanate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP: Ghurid opening != instantly complete Delhi Sultanate.",
+      "source_references": [
+        "Aibak",
+        "Conquest and consolidation"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 02 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 02 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINGUISH GHAZNAVID RAID-BASE PATTERN FROM GHURID ADVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SAMANIDS, MILITARY SERVICE, ROADS AND FRONTIER GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "CAMPAIGNS + MOTIVES + PUNJAB BASE + LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "LAHORE, TARAIN, CHANDAWAR AND DELEGATED OCCUPATION",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISATION AND CONTINGENCY, NOT RACIAL OR WEAPON DETERMINISM",
+          "role": "caution"
+        },
+        {
+          "text": "COURT RHETORIC CHECKED BY TEXTS, COINS AND MONUMENTS",
+          "role": "institution"
+        },
+        {
+          "text": "CONQUEST OPENED A PROCESS; CONSOLIDATION REMAINED CONTESTED.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "OPEN → distinguish Ghaznavid raid-base pattern from Ghurid advance",
+        "CONTEXT → Samanids, military service, roads and frontier geography",
+        "MAHMUD → campaigns + motives + Punjab base + limits",
+        "GHURIDS → Lahore, Tarain, Chandawar and delegated occupation",
+        "CAUSES → organisation and contingency, not racial or weapon determinism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → distinguish Ghaznavid raid-base pattern from Ghurid advance",
+            "CONTEXT → Samanids, military service, roads and frontier geography",
+            "MAHMUD → campaigns + motives + Punjab base + limits"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GHURIDS → Lahore, Tarain, Chandawar and delegated occupation",
+            "CAUSES → organisation and contingency, not racial or weapon determinism",
+            "SOURCES → court rhetoric checked by texts, coins and monuments"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE → conquest opened a process; consolidation remained contested."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → conquest opened a process; consolidation remained contested.",
+      "source_references": [
+        "Answer architecture",
+        "Synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE GHAZNAVIDS & THE GHURIAN INVASIONS — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Ghaznavids & the Ghurian Invasions — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — Causes of Rajput defeat",
+            "Satish Chandra rejects a flat picture of Mahmud as only a raider: he breached",
+            "India's outer defences by ousting the Hindu Shahis from Afghanistan and conquering Punjab."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

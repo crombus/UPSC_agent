@@ -1,0 +1,1128 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-33",
+  "subject": "Geography",
+  "title": "TRANSPORT, TRADE AND THE INDIAN SPACE PROGRAMME",
+  "short_route": "TRANSPORT TO TRADE CHAIN \u2192 MODAL COST STRUCTURE COMPARISON \u2192 MODAL CHOICE DECISION RULE \u2192 NETWORK VOCABULARY RAIL \u2192 PORT SITE VERSUS SITUATION \u2192 PORT TYPE WORKED COMPARISON",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-33_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-33-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "f6b99306a20494fa994f1ef3bf977a1f40e3b5904de59c96a37f38fbe10004eb",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRANSPORT TO TRADE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRANSPORT TO TRADE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MINE OR FARM",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCTION POINT WITH DISPERSED ORIGINS",
+          "role": "comparison"
+        },
+        {
+          "text": "FLEXIBLE COLLECTION OVER SHORT HAULS",
+          "role": "evidence"
+        },
+        {
+          "text": "RAIL OR WATERWAY CORRIDOR",
+          "role": "primary"
+        },
+        {
+          "text": "BULK TRUNK HAUL OVER LONG DISTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT OR AIRPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "BREAK OF BULK AND INTERFACE WITH GLOBAL ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MINE OR FARM \u2192 production point with dispersed origins",
+        "ROADHEAD \u2192 flexible collection over short hauls",
+        "RAIL OR WATERWAY CORRIDOR \u2192 bulk trunk haul over long distance",
+        "PORT OR AIRPORT \u2192 break of bulk and interface with global routes",
+        "WORLD MARKET \u2192 exchange completed through connectivity, cost and time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MINE OR FARM \u2192 production point with dispersed origins",
+            "ROADHEAD \u2192 flexible collection over short hauls"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAIL OR WATERWAY CORRIDOR \u2192 bulk trunk haul over long distance",
+            "PORT OR AIRPORT \u2192 break of bulk and interface with global routes"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WORLD MARKET \u2192 exchange completed through connectivity, cost and time",
+            "MINE OR FARM \u2192 production point with dispersed origins"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORLD MARKET \u2192 exchange completed through connectivity, cost and time.",
+      "source_references": [
+        "Transport as economic circulation",
+        "Network vocabulary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MODAL COST STRUCTURE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MODAL COST STRUCTURE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "LOW TERMINAL COST, HIGH PER-KM COST; SHORT HAULS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGHER TERMINAL COST, LOWER PER-KM COST; MEDIUM TO LONG",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGHEST TERMINAL COST, LOWEST PER-KM COST; LONG BULKY LOW-VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "COSTLY THROUGHOUT; JUSTIFIED BY HIGH VALUE-TO-WEIGHT, URGENCY OR INACCESSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "VERY HIGH FIXED COST, VERY LOW OPERATING COST; CONTINUOUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ROAD \u2192 low terminal cost, high per-km cost; short hauls and door-to-door delivery",
+        "RAIL \u2192 higher terminal cost, lower per-km cost; medium to long bulk hauls",
+        "WATER \u2192 highest terminal cost, lowest per-km cost; long bulky low-value cargo",
+        "AIR \u2192 costly throughout; justified by high value-to-weight, urgency or inaccessibility",
+        "PIPELINE \u2192 very high fixed cost, very low operating cost; continuous liquid or gas flow"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "ROAD \u2192 low terminal cost, high per-km cost; short hauls and door-to-door delivery",
+          "WATER \u2192 highest terminal cost, lowest per-km cost; long bulky low-value cargo",
+          "PIPELINE \u2192 very high fixed cost, very low operating cost; continuous liquid or gas flow"
+        ],
+        [
+          "RAIL \u2192 higher terminal cost, lower per-km cost; medium to long bulk hauls",
+          "AIR \u2192 costly throughout; justified by high value-to-weight, urgency or inaccessibility",
+          "ROAD \u2192 low terminal cost, high per-km cost; short hauls and door-to-door delivery"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ROAD \u2192 low terminal cost, high per-km cost; short hauls and door-to-door delivery",
+            "RAIL \u2192 higher terminal cost, lower per-km cost; medium to long bulk hauls"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WATER \u2192 highest terminal cost, lowest per-km cost; long bulky low-value cargo",
+            "AIR \u2192 costly throughout; justified by high value-to-weight, urgency or inaccessibility"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PIPELINE \u2192 very high fixed cost, very low operating cost; continuous liquid or gas flow",
+            "ROAD \u2192 low terminal cost, high per-km cost; short hauls and door-to-door delivery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PIPELINE \u2192 very high fixed cost, very low operating cost; continuous liquid or gas flow.",
+      "source_references": [
+        "Six modes and their limits",
+        "Modal cost structure"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MODAL CHOICE DECISION RULE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MODAL CHOICE DECISION RULE",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY CARGO",
+          "role": "outcome"
+        },
+        {
+          "text": "BULK, VALUE DENSITY, URGENCY AND PERISHABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "IF HAUL IS SHORT",
+          "role": "evidence"
+        },
+        {
+          "text": "TERMINAL COST DOMINATES, ROAD USUALLY WINS",
+          "role": "primary"
+        },
+        {
+          "text": "IF HAUL EXCEEDS THE ROAD-RAIL BREAK-EVEN",
+          "role": "outcome"
+        },
+        {
+          "text": "RAIL OR WATER RECOVERS ITS TERMINAL COST",
+          "role": "comparison"
+        },
+        {
+          "text": "IF VALUE-TO-WEIGHT IS VERY HIGH OR ACCESS IS DIFFICULT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY CARGO \u2192 bulk, value density, urgency and perishability",
+        "IF haul is short \u2192 terminal cost dominates, road usually wins",
+        "IF haul exceeds the road-rail break-even \u2192 rail or water recovers its terminal cost",
+        "IF value-to-weight is very high or access is difficult \u2192 air becomes defensible",
+        "ALWAYS \u2192 treat freight as an intermodal chain, not a single modal verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "IDENTIFY CARGO \u2192 bulk, value density, urgency and perishability",
+            "IF haul is short \u2192 terminal cost dominates, road usually wins"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IF haul exceeds the road-rail break-even \u2192 rail or water recovers its terminal cost",
+            "IF value-to-weight is very high or access is difficult \u2192 air becomes defensible"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ALWAYS \u2192 treat freight as an intermodal chain, not a single modal verdict",
+            "IDENTIFY CARGO \u2192 bulk, value density, urgency and perishability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALWAYS \u2192 treat freight as an intermodal chain, not a single modal verdict.",
+      "source_references": [
+        "Break-even and value density",
+        "Intermodal chain rule"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NETWORK VOCABULARY RAIL",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NETWORK VOCABULARY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "INLAND AREA SERVED BY A PORT, CITY OR ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "JUNCTION OR TERMINAL WHERE FLOWS CONVERGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LINEAR AXIS OF INTENSE TRANSPORT AND ECONOMIC ACTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "BREAK OF BULK",
+          "role": "primary"
+        },
+        {
+          "text": "PORT, RAILHEAD OR DRY PORT WHERE CARGO CHANGES MODE",
+          "role": "outcome"
+        },
+        {
+          "text": "HUB AND SPOKE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE MAJOR HUB REDISTRIBUTES FLOWS TO SMALLER NODES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HINTERLAND \u2192 inland area served by a port, city or route",
+        "NODE \u2192 junction or terminal where flows converge",
+        "CORRIDOR \u2192 linear axis of intense transport and economic activity",
+        "BREAK OF BULK \u2192 port, railhead or dry port where cargo changes mode",
+        "HUB AND SPOKE \u2192 one major hub redistributes flows to smaller nodes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "HINTERLAND \u2192 inland area served by a port, city or route",
+            "NODE \u2192 junction or terminal where flows converge"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRIDOR \u2192 linear axis of intense transport and economic activity",
+            "BREAK OF BULK \u2192 port, railhead or dry port where cargo changes mode"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "HUB AND SPOKE \u2192 one major hub redistributes flows to smaller nodes",
+            "HINTERLAND \u2192 inland area served by a port, city or route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HUB AND SPOKE \u2192 one major hub redistributes flows to smaller nodes.",
+      "source_references": [
+        "Network vocabulary",
+        "Intermodal chain rule"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PORT SITE VERSUS SITUATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PORT SITE VERSUS SITUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPTH, SHELTER, TIDAL RANGE, FORESHORE, EXPANSION LAND, SILTATION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "HINTERLAND PRODUCTIVITY, INLAND CONNECTIVITY, POSITION ON SHIPPING LANES",
+          "role": "comparison"
+        },
+        {
+          "text": "SITE CAN BE DREDGED AND ENGINEERED; SITUATION CANNOT",
+          "role": "evidence"
+        },
+        {
+          "text": "GROWTH RULE",
+          "role": "primary"
+        },
+        {
+          "text": "SITUATION NORMALLY DECIDES WHICH PORTS GROW",
+          "role": "outcome"
+        },
+        {
+          "text": "FREIGHT CORRIDORS AND INLAND CONTAINER DEPOTS ARE PORT INSTRUMENTS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SITE \u2192 depth, shelter, tidal range, foreshore, expansion land, siltation risk",
+        "SITUATION \u2192 hinterland productivity, inland connectivity, position on shipping lanes",
+        "CORRECTABILITY \u2192 site can be dredged and engineered; situation cannot",
+        "GROWTH RULE \u2192 situation normally decides which ports grow",
+        "POLICY \u2192 freight corridors and inland container depots are port instruments"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "SITE \u2192 depth, shelter, tidal range, foreshore, expansion land, siltation risk",
+          "CORRECTABILITY \u2192 site can be dredged and engineered; situation cannot",
+          "POLICY \u2192 freight corridors and inland container depots are port instruments"
+        ],
+        [
+          "SITUATION \u2192 hinterland productivity, inland connectivity, position on shipping lanes",
+          "GROWTH RULE \u2192 situation normally decides which ports grow",
+          "SITE \u2192 depth, shelter, tidal range, foreshore, expansion land, siltation risk"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SITE \u2192 depth, shelter, tidal range, foreshore, expansion land, siltation risk",
+            "SITUATION \u2192 hinterland productivity, inland connectivity, position on shipping lanes"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECTABILITY \u2192 site can be dredged and engineered; situation cannot",
+            "GROWTH RULE \u2192 situation normally decides which ports grow"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "POLICY \u2192 freight corridors and inland container depots are port instruments",
+            "SITE \u2192 depth, shelter, tidal range, foreshore, expansion land, siltation risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GROWTH RULE \u2192 situation normally decides which ports grow.",
+      "source_references": [
+        "Site versus situation",
+        "Site is engineerable, situation is not"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PORT TYPE WORKED COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PORT TYPE WORKED COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL HARBOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCELLENT SITE; STAYS SMALL IF THE HINTERLAND IS POOR",
+          "role": "comparison"
+        },
+        {
+          "text": "ESTUARINE PORT",
+          "role": "evidence"
+        },
+        {
+          "text": "GOOD ROUTE SITUATION, BUT SILTATION AND DRAUGHT LIMIT THE",
+          "role": "caution"
+        },
+        {
+          "text": "ARTIFICIAL DEEP-WATER PORT",
+          "role": "outcome"
+        },
+        {
+          "text": "ENGINEERED SITE CHOSEN FOR HINTERLAND REACH AND RAIL LINKS",
+          "role": "comparison"
+        },
+        {
+          "text": "SATELLITE CONTAINER TERMINAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATURAL HARBOUR \u2192 excellent site; stays small if the hinterland is poor",
+        "ESTUARINE PORT \u2192 good route situation, but siltation and draught limit the site",
+        "ARTIFICIAL DEEP-WATER PORT \u2192 engineered site chosen for hinterland reach and rail links",
+        "SATELLITE CONTAINER TERMINAL \u2192 deep draught and back-up land beside a congested parent",
+        "TRANSHIPMENT HUB \u2192 situation is the route itself, so it lives without a local hinterland"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "NATURAL HARBOUR \u2192 excellent site; stays small if the hinterland is poor",
+          "ARTIFICIAL DEEP-WATER PORT \u2192 engineered site chosen for hinterland reach and rail links",
+          "TRANSHIPMENT HUB \u2192 situation is the route itself, so it lives without a local hinterland"
+        ],
+        [
+          "ESTUARINE PORT \u2192 good route situation, but siltation and draught limit the site",
+          "SATELLITE CONTAINER TERMINAL \u2192 deep draught and back-up land beside a congested parent",
+          "NATURAL HARBOUR \u2192 excellent site; stays small if the hinterland is poor"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NATURAL HARBOUR \u2192 excellent site; stays small if the hinterland is poor",
+            "ESTUARINE PORT \u2192 good route situation, but siltation and draught limit the site"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARTIFICIAL DEEP-WATER PORT \u2192 engineered site chosen for hinterland reach and rail links",
+            "SATELLITE CONTAINER TERMINAL \u2192 deep draught and back-up land beside a congested parent"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "TRANSHIPMENT HUB \u2192 situation is the route itself, so it lives without a local hinterland",
+            "NATURAL HARBOUR \u2192 excellent site; stays small if the hinterland is poor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSHIPMENT HUB \u2192 situation is the route itself, so it lives without a local hinterland.",
+      "source_references": [
+        "Site versus situation",
+        "Hinterland competition boundary",
+        "Containerisation and hub concentration"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONTAINERISATION HIERARCHY EFFECT",
+      "structural_type": "causal-system",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONTAINERISATION HIERARCHY EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "STANDARD CARGO UNIT",
+          "role": "outcome"
+        },
+        {
+          "text": "HANDLING TIME AND COST COLLAPSE AT EVERY TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERMODAL TRANSFER BECOMES ROUTINE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCTION FRAGMENTS ACROSS COUNTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANTAGE SHIFTS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEP DRAUGHT, CRANE PRODUCTIVITY AND INLAND RAIL CONNECTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAFFIC CONCENTRATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STANDARD CARGO UNIT \u2192 handling time and cost collapse at every transfer",
+        "INTERMODAL TRANSFER BECOMES ROUTINE \u2192 production fragments across countries",
+        "ADVANTAGE SHIFTS \u2192 deep draught, crane productivity and inland rail connectivity",
+        "TRAFFIC CONCENTRATES \u2192 fewer, larger hubs with feeder services to the rest",
+        "ANSWER USE \u2192 a hierarchy argument that needs no throughput statistic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STANDARD CARGO UNIT \u2192 handling time and cost collapse at every transfer",
+            "INTERMODAL TRANSFER BECOMES ROUTINE \u2192 production fragments across countries"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADVANTAGE SHIFTS \u2192 deep draught, crane productivity and inland rail connectivity",
+            "TRAFFIC CONCENTRATES \u2192 fewer, larger hubs with feeder services to the rest"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ANSWER USE \u2192 a hierarchy argument that needs no throughput statistic",
+            "STANDARD CARGO UNIT \u2192 handling time and cost collapse at every transfer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE \u2192 a hierarchy argument that needs no throughput statistic.",
+      "source_references": [
+        "Containerisation and hub concentration",
+        "Hinterland competition boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CHOKEPOINT VULNERABILITY RAIL",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHOKEPOINT VULNERABILITY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "NARROW PASSAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "WORLD SHIPPING IS FUNNELLED THROUGH A SMALL CROSS-SECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "VOYAGES LENGTHEN AND REROUTING BEGINS IMMEDIATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "COST TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "FREIGHT AND INSURANCE RISE FAR BEYOND THE AFFECTED REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOKEPOINT SECURITY, ALTERNATIVE ROUTES AND CANAL CAPACITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NARROW PASSAGE \u2192 world shipping is funnelled through a small cross-section",
+        "DISRUPTION \u2192 voyages lengthen and rerouting begins immediately",
+        "COST TRANSMISSION \u2192 freight and insurance rise far beyond the affected region",
+        "POLICY RESPONSE \u2192 chokepoint security, alternative routes and canal capacity",
+        "READING \u2192 the passage is valuable as route control, not as a water body"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NARROW PASSAGE \u2192 world shipping is funnelled through a small cross-section",
+            "DISRUPTION \u2192 voyages lengthen and rerouting begins immediately"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COST TRANSMISSION \u2192 freight and insurance rise far beyond the affected region",
+            "POLICY RESPONSE \u2192 chokepoint security, alternative routes and canal capacity"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "READING \u2192 the passage is valuable as route control, not as a water body",
+            "NARROW PASSAGE \u2192 world shipping is funnelled through a small cross-section"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING \u2192 the passage is valuable as route control, not as a water body.",
+      "source_references": [
+        "Chokepoint vulnerability",
+        "Transport as economic circulation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TRANSPORT AND DEVELOPMENT TWO-WAY FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRANSPORT AND DEVELOPMENT TWO-WAY FORK",
+          "role": "primary"
+        },
+        {
+          "text": "NEW LINK OPENS",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVE ACCESSIBILITY OF EVERY NODE CHANGES, NOT ONLY THE",
+          "role": "caution"
+        },
+        {
+          "text": "IF JUNCTIONS, LOCAL LOADING AND COMPLEMENTARY INVESTMENT EXIST",
+          "role": "evidence"
+        },
+        {
+          "text": "CORRIDOR GROWTH FOLLOWS",
+          "role": "primary"
+        },
+        {
+          "text": "IF THEY ARE ABSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE TUNNEL EFFECT CARRIES BENEFIT TO THE ENDPOINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "IF LOCAL PRODUCERS ARE WEAK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEW LINK OPENS \u2192 relative accessibility of every node changes, not only the two joined",
+        "IF junctions, local loading and complementary investment exist \u2192 corridor growth follows",
+        "IF they are absent \u2192 the tunnel effect carries benefit to the endpoints",
+        "IF local producers are weak \u2192 backwash exposes them and speeds out-migration",
+        "VERDICT \u2192 connectivity is necessary but not sufficient for regional development"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NEW LINK OPENS \u2192 relative accessibility of every node changes, not only the two joined",
+            "IF junctions, local loading and complementary investment exist \u2192 corridor growth follows"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IF they are absent \u2192 the tunnel effect carries benefit to the endpoints",
+            "IF local producers are weak \u2192 backwash exposes them and speeds out-migration"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "VERDICT \u2192 connectivity is necessary but not sufficient for regional development",
+            "NEW LINK OPENS \u2192 relative accessibility of every node changes, not only the two joined"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT \u2192 connectivity is necessary but not sufficient for regional development.",
+      "source_references": [
+        "Two-way transport-development relation",
+        "Tunnel and backwash caveats"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIA MULTIMODAL CORRIDOR LADDER",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA MULTIMODAL CORRIDOR LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ECONOMIC CORRIDORS, INTER-CORRIDORS, BORDER AND PORT CONNECTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEDICATED FREIGHT CORRIDORS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE FREIGHT FROM PASSENGER CONGESTION ON MAJOR AXES",
+          "role": "evidence"
+        },
+        {
+          "text": "PORT MODERNISATION, PORT-LED INDUSTRIALISATION AND COASTAL CONNECTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "PM GATI SHAKTI",
+          "role": "outcome"
+        },
+        {
+          "text": "NETWORK INTEGRATION REPLACING MODE-WISE SECTORAL PLANNING",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE MAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BHARATMALA \u2192 economic corridors, inter-corridors, border and port connectivity",
+        "DEDICATED FREIGHT CORRIDORS \u2192 separate freight from passenger congestion on major axes",
+        "SAGARMALA \u2192 port modernisation, port-led industrialisation and coastal connectivity",
+        "PM GATI SHAKTI \u2192 network integration replacing mode-wise sectoral planning",
+        "TRADE MAP \u2192 western container and petroleum gateway; eastern bulk and mineral coast"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "BHARATMALA \u2192 economic corridors, inter-corridors, border and port connectivity",
+            "DEDICATED FREIGHT CORRIDORS \u2192 separate freight from passenger congestion on major axes"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAGARMALA \u2192 port modernisation, port-led industrialisation and coastal connectivity",
+            "PM GATI SHAKTI \u2192 network integration replacing mode-wise sectoral planning"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "TRADE MAP \u2192 western container and petroleum gateway; eastern bulk and mineral coast",
+            "BHARATMALA \u2192 economic corridors, inter-corridors, border and port connectivity"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "DEDICATED FREIGHT CORRIDORS \u2192 separate freight from passenger congestion on major axes",
+            "SAGARMALA \u2192 port modernisation, port-led industrialisation and coastal connectivity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE MAP \u2192 western container and petroleum gateway; eastern bulk and mineral coast.",
+      "source_references": [
+        "India multimodal corridor programmes",
+        "India coastal trade contrast"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SPACE AS APPLIED GEOGRAPHY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SPACE AS APPLIED GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "EARTH OBSERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND USE, CROP CONDITION, FORESTS, WATER BODIES, COASTS, GLACIERS",
+          "role": "comparison"
+        },
+        {
+          "text": "CYCLONE TRACKING AND MONSOON MONITORING FEEDING WARNING SYSTEMS",
+          "role": "evidence"
+        },
+        {
+          "text": "NAVIGATION AND COMMUNICATION",
+          "role": "primary"
+        },
+        {
+          "text": "POSITIONING, TIMING AND REMOTE-REGION CONNECTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GIS INTEGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "IMAGERY PLUS TERRAIN, INFRASTRUCTURE AND SOCIO-ECONOMIC LAYERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARTH OBSERVATION \u2192 land use, crop condition, forests, water bodies, coasts, glaciers",
+        "METEOROLOGY \u2192 cyclone tracking and monsoon monitoring feeding warning systems",
+        "NAVIGATION AND COMMUNICATION \u2192 positioning, timing and remote-region connectivity",
+        "GIS INTEGRATION \u2192 imagery plus terrain, infrastructure and socio-economic layers",
+        "OUTPUT \u2192 site selection, corridor alignment, watershed planning, damage assessment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EARTH OBSERVATION \u2192 land use, crop condition, forests, water bodies, coasts, glaciers",
+            "METEOROLOGY \u2192 cyclone tracking and monsoon monitoring feeding warning systems"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NAVIGATION AND COMMUNICATION \u2192 positioning, timing and remote-region connectivity",
+            "GIS INTEGRATION \u2192 imagery plus terrain, infrastructure and socio-economic layers"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "OUTPUT \u2192 site selection, corridor alignment, watershed planning, damage assessment",
+            "EARTH OBSERVATION \u2192 land use, crop condition, forests, water bodies, coasts, glaciers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTPUT \u2192 site selection, corridor alignment, watershed planning, damage assessment.",
+      "source_references": [
+        "Space as observation instrument",
+        "GIS convergence rule"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SPACE INSTITUTIONS AND THE OPERATIONAL-ORBIT CAUTION",
+      "structural_type": "institutional-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SPACE INSTITUTIONS AND THE OPERATIONAL-ORBIT CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "NATIONAL SPACE ARCHITECTURE ORGANISED AROUND APPLICATION, NOT PRESTIGE",
+          "role": "caution"
+        },
+        {
+          "text": "EAST-COAST LAUNCH SITE WITH OVER-SEA TRAJECTORY SAFETY ADVANTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NSIL AND IN-SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMERCIALISATION AND NON-GOVERNMENTAL PARTICIPATION",
+          "role": "primary"
+        },
+        {
+          "text": "INDIGENOUS NAVIGATION SUPPORTING TRANSPORT TIMING AND POSITIONING",
+          "role": "outcome"
+        },
+        {
+          "text": "NVS-02 ON 29 JAN 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "REACHED TRANSFER ORBIT BUT NOT ITS INTENDED NAVIC SLOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ISRO \u2192 national space architecture organised around application, not prestige",
+        "SRIHARIKOTA \u2192 east-coast launch site with over-sea trajectory safety advantage",
+        "NSIL AND IN-SPACe \u2192 commercialisation and non-governmental participation",
+        "NavIC \u2192 indigenous navigation supporting transport timing and positioning",
+        "NVS-02 ON 29 JAN 2025 \u2192 reached transfer orbit but not its intended NavIC slot"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ISRO \u2192 national space architecture organised around application, not prestige",
+            "SRIHARIKOTA \u2192 east-coast launch site with over-sea trajectory safety advantage"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NSIL AND IN-SPACe \u2192 commercialisation and non-governmental participation",
+            "NavIC \u2192 indigenous navigation supporting transport timing and positioning"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NVS-02 ON 29 JAN 2025 \u2192 reached transfer orbit but not its intended NavIC slot",
+            "ISRO \u2192 national space architecture organised around application, not prestige"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NVS-02 ON 29 JAN 2025 \u2192 reached transfer orbit but not its intended NavIC slot.",
+      "source_references": [
+        "Space institutional ladder",
+        "Application-led space orientation",
+        "NVS-02 launch-versus-operations anchor"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CORRIDOR-LED GROWTH VS EXCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJOR CORRIDORS CAN ACCELERATE GROWTH BUT MAY BYPASS WEAKER",
+          "role": "comparison"
+        },
+        {
+          "text": "PORT-LED DEVELOPMENT VS ECOLOGICAL PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "COASTAL EXPANSION CREATES BOTH LOGISTICS GAINS AND ENVIRONMENTAL CONCERNS.",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCIALISATION OF SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "NSIL AND IN-SPACE MARK A SHIFT FROM PURELY STATE-LED",
+          "role": "institution"
+        },
+        {
+          "text": "STRATEGIC AUTONOMY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "CAUTION: Corridor-led growth vs exclusion: major corridors can accelerate growth but may bypass weaker interiors unless feeder networks improve.",
+            "CAUTION: Port-led development vs ecological pressure: coastal expansion creates both logistics gains and environmental concerns.",
+            "CAUTION: Commercialisation of space: NSIL and IN-SPACe mark a shift from purely state-led missions to a broader space economy.",
+            "CAUTION: Strategic autonomy: navigation, remote sensing and launch capability reduce dependence on foreign systems."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Bharatmala is about corridor and connectivity logic, not only lane widening.",
+            "DFCs are freight-separation projects that improve logistics efficiency.",
+            "Sagarmala links ports with logistics and industrial development.",
+            "Sriharikota's east-coast location supports safer over-sea launch trajectories."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "NavIC is India's indigenous navigation system.",
+            "ISRO's transport relevance lies in navigation, communication, weather and mapping, not only exploration missions.",
+            "NOT: Ports matter only to coastal states - They serve large inland hinterlands.",
+            "NOT: DFCs are just railway upgrades - They restructure freight geography."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

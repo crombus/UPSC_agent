@@ -1,0 +1,591 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-48-51-sequential-batch-2026-08-25",
+  "validated_at": "2026-08-25T13:00:58+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-48",
+      "polity-49",
+      "polity-50",
+      "polity-51"
+    ],
+    "topic_count": 4,
+    "timestamps_monotonic": true,
+    "all_gate_timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-48",
+        "started_at": "2026-08-25T12:31:26+05:30",
+        "completed_at": "2026-08-25T12:35:06.992400+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-49",
+        "started_at": "2026-08-25T12:35:12+05:30",
+        "completed_at": "2026-08-25T12:38:34.860336+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-50",
+        "started_at": "2026-08-25T12:44:09+05:30",
+        "completed_at": "2026-08-25T12:47:10.384243+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-51",
+        "started_at": "2026-08-25T12:50:07+05:30",
+        "completed_at": "2026-08-25T12:53:20+05:30",
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 84,
+    "new_topic_records": [
+      "polity-48:learner-v2:g2",
+      "polity-49:learner-v2:g2",
+      "polity-50:learner-v2:g2",
+      "polity-51:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true,
+    "tracker_path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-48",
+        "title": "Ministries Departments and Central Secretariat",
+        "started_at": "2026-08-25T12:31:26+05:30",
+        "completed_at": "2026-08-25T12:35:06.992400+05:30",
+        "record_id": "polity-48:learner-v2:g2",
+        "counts": {
+          "sessions": 42,
+          "main_pdf_pages": 93,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 2,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-48-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-48-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-48-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\polity-48_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g2"
+        },
+        "factual_caveat": "Articles 73, 74, 77 and 78 establish the executive framework, while the 1961 business rules allocate and route work. The Central Secretariat is the collective policy machinery, not the Cabinet Secretariat or PMO. Attached offices, autonomous bodies, CPSEs and statutory regulators retain distinct legal identities; reorganisation is a dated executive-rule fact.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T12:31:26+05:30",
+          "A_completed": "2026-08-25T12:31:29+05:30",
+          "B_completed": "2026-08-25T12:31:32+05:30",
+          "C_completed": "2026-08-25T12:31:32+05:30",
+          "D_completed": "2026-08-25T12:31:32+05:30",
+          "E_completed": "2026-08-25T12:31:32+05:30",
+          "F_completed": "2026-08-25T12:32:12+05:30",
+          "G_completed": "2026-08-25T12:32:12+05:30",
+          "H_completed": "2026-08-25T12:34:27+05:30",
+          "I_completed": "2026-08-25T12:35:06.992400+05:30",
+          "J_completed": "2026-08-25T12:35:06.992400+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\48-Ministries-Departments-and-Central-Secretariat",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-48-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T13:00:31+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 93,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 0,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\48-Ministries-Departments-and-Central-Secretariat\\48-Ministries-Departments-and-Central-Secretariat-Continuous-Flow-Learning.pdf",
+            "source_sha256": "3c4921467adc3ff1436e3a3cfa94fb85fe7d787a8dee0d7b38bfd1bb7d413183",
+            "destination_sha256": "3c4921467adc3ff1436e3a3cfa94fb85fe7d787a8dee0d7b38bfd1bb7d413183",
+            "equal": true,
+            "bytes": 55265
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\48-Ministries-Departments-and-Central-Secretariat\\48-Ministries-Departments-and-Central-Secretariat-Continuous-Flow-Learning.txt",
+            "source_sha256": "e97c2d65a4703607af5ed3b19bf78abf2f52f9f35b65fd5a9ffdb2242abd553d",
+            "destination_sha256": "e97c2d65a4703607af5ed3b19bf78abf2f52f9f35b65fd5a9ffdb2242abd553d",
+            "equal": true,
+            "bytes": 6298
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-49",
+        "title": "Regulatory State and Quasi Judicial Institutions",
+        "started_at": "2026-08-25T12:35:12+05:30",
+        "completed_at": "2026-08-25T12:38:34.860336+05:30",
+        "record_id": "polity-49:learner-v2:g2",
+        "counts": {
+          "sessions": 63,
+          "main_pdf_pages": 119,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 4,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\49-Regulatory-State-and-Quasi-Judicial-Institutions",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-49-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-49-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-49-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-49.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g2"
+        },
+        "factual_caveat": "Statutory, regulatory and quasi-judicial describe different axes. A regulator is quasi-judicial only while performing an adjudicatory function. Independence does not remove legislative, audit, transparency, appeal or judicial-review accountability, and a consultation paper or proposed digital regime is not law.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T12:35:12+05:30",
+          "A_completed": "2026-08-25T12:35:16+05:30",
+          "B_completed": "2026-08-25T12:35:19+05:30",
+          "C_completed": "2026-08-25T12:35:19+05:30",
+          "D_completed": "2026-08-25T12:35:19+05:30",
+          "E_completed": "2026-08-25T12:35:19+05:30",
+          "F_completed": "2026-08-25T12:36:06+05:30",
+          "G_completed": "2026-08-25T12:36:06+05:30",
+          "H_completed": "2026-08-25T12:38:19+05:30",
+          "I_completed": "2026-08-25T12:38:34.860336+05:30",
+          "J_completed": "2026-08-25T12:38:34.860336+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\49-Regulatory-State-and-Quasi-Judicial-Institutions",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-49-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T13:00:31+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 119,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\49-Regulatory-State-and-Quasi-Judicial-Institutions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\49-Regulatory-State-and-Quasi-Judicial-Institutions\\49-Regulatory-State-and-Quasi-Judicial-Institutions-Continuous-Flow-Learning.pdf",
+            "source_sha256": "32b480acbbc9bc8e3cfa054785e39acde7a3d86c2e751b2c185c79f1520020a2",
+            "destination_sha256": "32b480acbbc9bc8e3cfa054785e39acde7a3d86c2e751b2c185c79f1520020a2",
+            "equal": true,
+            "bytes": 55151
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\49-Regulatory-State-and-Quasi-Judicial-Institutions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\49-Regulatory-State-and-Quasi-Judicial-Institutions\\49-Regulatory-State-and-Quasi-Judicial-Institutions-Continuous-Flow-Learning.txt",
+            "source_sha256": "f857ce9d677ad111c80f8b4125a8ad6515f24130b7621399b72cbf72978da788",
+            "destination_sha256": "f857ce9d677ad111c80f8b4125a8ad6515f24130b7621399b72cbf72978da788",
+            "equal": true,
+            "bytes": 5746
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-50",
+        "title": "Concept of the Constitution",
+        "started_at": "2026-08-25T12:44:09+05:30",
+        "completed_at": "2026-08-25T12:47:10.384243+05:30",
+        "record_id": "polity-50:learner-v2:g2",
+        "counts": {
+          "sessions": 25,
+          "main_pdf_pages": 64,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 3,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-50-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-50-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-50-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-50-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-50.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2"
+        },
+        "factual_caveat": "This topic owns the higher-order idea of a constitution and constitutionalism, not a duplicate list of salient features or the history of constitution-making. Living, original-meaning, transformative and morality-based approaches are bounded interpretive lenses; none authorises free-standing personal preference.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T12:44:09+05:30",
+          "A_completed": "2026-08-25T12:44:11+05:30",
+          "B_completed": "2026-08-25T12:44:14+05:30",
+          "C_completed": "2026-08-25T12:44:14+05:30",
+          "D_completed": "2026-08-25T12:44:14+05:30",
+          "E_completed": "2026-08-25T12:44:14+05:30",
+          "F_completed": "2026-08-25T12:44:48+05:30",
+          "G_completed": "2026-08-25T12:44:48+05:30",
+          "H_completed": "2026-08-25T12:46:56+05:30",
+          "I_completed": "2026-08-25T12:47:10.384243+05:30",
+          "J_completed": "2026-08-25T12:47:10.384243+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\50-Concept-of-the-Constitution",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-50-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T13:00:31+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 64,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 6,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\50-Concept-of-the-Constitution\\50-Concept-of-the-Constitution-Continuous-Flow-Learning.pdf",
+            "source_sha256": "3009363817f1cec036663ed11212134e082c7f52674d6050b4e8e34233729eb3",
+            "destination_sha256": "3009363817f1cec036663ed11212134e082c7f52674d6050b4e8e34233729eb3",
+            "equal": true,
+            "bytes": 54980
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\50-Concept-of-the-Constitution\\50-Concept-of-the-Constitution-Continuous-Flow-Learning.txt",
+            "source_sha256": "680fad35fe5000f5a80ee30b5a366660ec1ae6ef106520dedce343f8981e4106",
+            "destination_sha256": "680fad35fe5000f5a80ee30b5a366660ec1ae6ef106520dedce343f8981e4106",
+            "equal": true,
+            "bytes": 5615
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-51",
+        "title": "Rights and Liabilities of the Government",
+        "started_at": "2026-08-25T12:50:07+05:30",
+        "completed_at": "2026-08-25T12:53:20+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T12:50:07+05:30",
+          "A_completed": "2026-08-25T12:50:11+05:30",
+          "B_completed": "2026-08-25T12:50:13+05:30",
+          "C_completed": "2026-08-25T12:50:13+05:30",
+          "D_completed": "2026-08-25T12:50:13+05:30",
+          "E_completed": "2026-08-25T12:50:13+05:30",
+          "F_completed": "2026-08-25T12:52:58+05:30",
+          "G_completed": "2026-08-25T12:52:59+05:30",
+          "H_completed": "2026-08-25T12:53:03+05:30",
+          "I_completed": "2026-08-25T12:53:16+05:30",
+          "J_completed": "2026-08-25T12:53:20+05:30"
+        },
+        "record_id": "polity-51:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 29,
+          "main_pdf_pages": 66,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 1,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\51-Rights-and-Liabilities-of-the-Government",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-51-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-51-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-51-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-51.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-51-flow-learning-2026-08-25-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\polity-51_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\polity-51_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\polity-51_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\polity-51_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g2"
+        },
+        "factual_caveat": "Articles 294-300 create governmental legal capacity and liability; they do not establish blanket sovereign immunity. Article 299 form, Contract Act Section 70 restitution, private tort, constitutional tort, Article 361 official protection and CPC notice are separate legal routes.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T13:00:31+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 66,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 9,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\51-Rights-and-Liabilities-of-the-Government\\51-Rights-and-Liabilities-of-the-Government-Continuous-Flow-Learning.pdf",
+            "source_sha256": "dc853425fd86189e815319bd0787921161f71d4c8fe57c66084b803fb4d33b02",
+            "destination_sha256": "dc853425fd86189e815319bd0787921161f71d4c8fe57c66084b803fb4d33b02",
+            "equal": true,
+            "bytes": 54832
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\51-Rights-and-Liabilities-of-the-Government\\51-Rights-and-Liabilities-of-the-Government-Continuous-Flow-Learning.txt",
+            "source_sha256": "1d68eb605e526a56df36180cac0c360d9fc37381ac8116ba9c873edcb6ad1753",
+            "destination_sha256": "1d68eb605e526a56df36180cac0c360d9fc37381ac8116ba9c873edcb6ad1753",
+            "equal": true,
+            "bytes": 5438
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      }
+    ],
+    "totals": {
+      "sessions": 159,
+      "main_pdf_pages": 342,
+      "workbook_pdf_pages": 70,
+      "mcqs": 192,
+      "verified_pyqs": 5,
+      "supporting_pyqs": 6,
+      "original_mains": 32,
+      "ascii_panels": 36,
+      "graphical_core_stages": 36,
+      "flow_pages": 36
+    }
+  },
+  "inventories": {
+    "four_item_topics": 84,
+    "four_item_links_checked": 1016,
+    "polity_flow_topics": 51,
+    "polity_flow_links_checked": 769,
+    "full_flow_topics": 84,
+    "full_flow_links_checked": 769,
+    "full_flow_topic_artifact_files_checked": 252,
+    "full_flow_pages": 741
+  },
+  "preservation": {
+    "prior_clean_artifact_files": 640,
+    "prior_flow_artifact_files": 240,
+    "clean_hash_mismatches": [],
+    "flow_hash_mismatches": [],
+    "prior_generated_hash_mismatches": []
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_v2_topic_command_catalog tools.test_v2_section_indexes tools.test_v2_export_foundation tools.test_retrofit_v2_core_first tools.test_refresh_all_v2_learning_sessions tools.test_polity_flowchart_case_years tools.test_plan_v2_topic_batch tools.test_export_four_item_library tools.test_export_flow_learning_library tools.test_carvaka_flowchart -q",
+    "passed": 127,
+    "failed": 0
+  },
+  "checks": {
+    "strict_sequence": true,
+    "all_gate_timestamps_monotonic": true,
+    "all_gates_passed": true,
+    "source_pyq_current_audits_passed": true,
+    "tracker_records_unapproved": true,
+    "legacy_history_retained": true,
+    "control_dates_passed": true,
+    "pdf_layouts_passed": true,
+    "ascii_equal": true,
+    "graphical_same_master": true,
+    "case_years_passed": true,
+    "mcq_rotation_passed": true,
+    "prior_80_clean_hashes_preserved": true,
+    "prior_80_flow_hashes_preserved": true,
+    "prior_generated_topics_preserved": true,
+    "four_item_inventory_84": true,
+    "polity_flow_inventory_51": true,
+    "full_flow_inventory_84": true,
+    "four_item_links_passed": true,
+    "polity_flow_links_passed": true,
+    "full_flow_links_passed": true,
+    "targeted_regressions_passed": true
+  },
+  "evidence_paths": {
+    "state": "upsc-ai-kit\\manifests\\exports\\polity-48-51-sequential-batch-2026-08-25-state.json",
+    "case_year": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-2026-08-25-validation.json",
+    "four_item": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-25-validation.json",
+    "polity_flow": "upsc-ai-kit\\manifests\\exports\\polity-01-51-flow-learning-2026-08-25-validation.json",
+    "full_flow": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-25-validation.json",
+    "report": "notes\\Final-Learning-Packages\\POLITY-48-51-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-48-51-sequential-batch-2026-08-25-changed-files.txt",
+    "changed_files_count": 274
+  }
+}

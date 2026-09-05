@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "benchmark": "Carvaka-standard continuous master with a manually authored, topic-specific Social and Political Ideals atlas",
+  "generated_on": "2026-08-25",
+  "scope": "Philosophy Optional Paper II Socio-Political Philosophy topic 01 only",
+  "constraints": {
+    "panel_count_per_topic": 10,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "title": "Social and Political Ideals",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-socio-political-philosophy\\philosophy-paper-ii-socio-political-philosophy-01_Learning-Session.md",
+      "source_record": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved reference and all legacy-v1 Socio-Political Philosophy artifacts remain immutable.",
+      "panels": [
+        {
+          "panel_title": "The triad and the ordering problem",
+          "structural_type": "triadic mediation map",
+          "source_session_heading_references": [
+            "The triad and the ordering problem"
+          ],
+          "lines": [
+            "START -> political institutions distribute status, choice, burdens and benefits",
+            "EQUALITY asks: in what respect must persons be treated as equals?",
+            "LIBERTY asks: what protected sphere and effective agency must each person have?",
+            "JUSTICE asks: what is due, by which rule, and with which rectification?",
+            "liberty without fair conditions can protect accumulated power",
+            "equality without relevant differentiation can become mechanical levelling",
+            "justice mediates basic liberties, justified inequalities and equal civic dignity",
+            "answer thesis -> the three ideals are distinct but institutionally interdependent"
+          ]
+        },
+        {
+          "panel_title": "Equality from equal worth to real opportunity",
+          "structural_type": "four-level equality ladder",
+          "source_session_heading_references": [
+            "Equality from equal worth to real opportunity"
+          ],
+          "lines": [
+            "equal moral worth -> arbitrary birth hierarchy bears the burden of justification",
+            "formal or legal equality -> equality before law and equal protection",
+            "political equality -> equal citizenship, vote and eligibility for public office",
+            "social equality -> freedom from stigma, caste rank and inherited civic humiliation",
+            "economic equality -> limits on disparities that destroy fair background conditions",
+            "formal opportunity -> offices are legally open",
+            "fair opportunity -> education, health and social power make access realistically open",
+            "outcome concern -> use thresholds, needs or protection of the least advantaged",
+            "trap -> equality is not sameness of talent, choice or final result"
+          ]
+        },
+        {
+          "panel_title": "Rousseau Mill and Marx on unequal social power",
+          "structural_type": "thinker contrast matrix",
+          "source_session_heading_references": [
+            "Rousseau Mill and Marx on unequal social power"
+          ],
+          "lines": [
+            "ROUSSEAU -> natural differences become domination through convention and property",
+            "natural inequality -> age, strength, health and intelligence",
+            "moral or political inequality -> wealth, honour, power and dependence",
+            "MILL -> equal legal and civic status plus individuality and women's equality",
+            "The Subjection of Women -> alleged natural subordination is socially manufactured",
+            "MARX -> formally equal exchange can conceal class exploitation",
+            "equal right can reproduce inequality when persons and needs differ",
+            "higher communist rule -> contribution by ability and distribution by need",
+            "comparison -> status equality, anti-subordination and material structure must connect"
+          ]
+        },
+        {
+          "panel_title": "Equality of what and the metric decision",
+          "structural_type": "metric decision tree",
+          "source_session_heading_references": [
+            "Equality of what and the metric decision"
+          ],
+          "lines": [
+            "RESOURCE METRIC -> Dworkin equalises resources while distinguishing brute and option luck",
+            "CAPABILITY METRIC -> Sen asks what persons are actually able to do and be",
+            "same resources can yield unequal freedom because conversion conditions differ",
+            "COHEN -> institutions alone are insufficient when incentives express an unequal ethos",
+            "LUCK EGALITARIANISM -> correct disadvantage traceable to brute luck",
+            "RELATIONAL EQUALITY -> end hierarchy, humiliation and second-class civic standing",
+            "Indian use -> distinguish equal rule, access, capability and equal social status",
+            "trap -> no single metric settles every question of need, choice, disability and dignity"
+          ]
+        },
+        {
+          "panel_title": "Berlin and Mill on the protected sphere",
+          "structural_type": "two-concept liberty comparison",
+          "source_session_heading_references": [
+            "Berlin and Mill on the protected sphere"
+          ],
+          "lines": [
+            "NEGATIVE LIBERTY -> area in which one is left free from interference",
+            "POSITIVE LIBERTY -> self-direction, autonomy and being one's own master",
+            "Berlin warns -> rulers may coerce the empirical self for an alleged true self",
+            "value pluralism -> political goods can conflict without one final harmony",
+            "MILL'S HARM PRINCIPLE -> coercion is justified to prevent harm to others",
+            "self-regarding conduct receives a strong presumption of liberty",
+            "other-regarding harm permits regulation, but offence alone is not harm",
+            "reply to spillovers -> liberty shifts the burden of proof onto coercion"
+          ]
+        },
+        {
+          "panel_title": "From contract liberty to effective freedom",
+          "structural_type": "contract-to-positive-freedom chain",
+          "source_session_heading_references": [
+            "From contract liberty to effective freedom"
+          ],
+          "lines": [
+            "HOBBES -> absence of external impediment; secure order makes residual liberty possible",
+            "LOCKE -> liberty under known law protects life, liberty, property and consent",
+            "ROUSSEAU -> autonomy is obedience to a law citizens prescribe through the general will",
+            "GREEN -> real freedom is the capacity to develop and pursue worthwhile purposes",
+            "poverty, ignorance and dependency can hollow out merely formal non-interference",
+            "conflict -> unrestricted economic liberty can generate unequal social power",
+            "complementarity -> a minimum equal status protects everyone's usable liberty",
+            "qualified verdict -> enabling freedom must not become perfectionist compulsion"
+          ]
+        },
+        {
+          "panel_title": "Technology domination and republican liberty",
+          "structural_type": "domination mechanism map",
+          "source_session_heading_references": [
+            "Technology domination and republican liberty"
+          ],
+          "lines": [
+            "modern technology expands communication, association and access to knowledge",
+            "surveillance, behavioural profiling and platform dependence alter the freedom relation",
+            "INTERFERENCE is an act; DOMINATION is exposure to uncontrolled arbitrary power",
+            "Pettit's test -> can the affected person contest power on equal public terms?",
+            "an indulgent master may not interfere yet still dominates through standing capacity",
+            "rule-bound contestable law can constitute freedom rather than merely restrict it",
+            "trap -> privacy, access and security must be analysed as liberty conditions, not slogans",
+            "PYQ route -> assess whether technological society makes liberty unreal or differently fragile"
+          ]
+        },
+        {
+          "panel_title": "Justice from harmony to proportion and repair",
+          "structural_type": "classical justice matrix",
+          "source_session_heading_references": [
+            "Justice from harmony to proportion and repair"
+          ],
+          "lines": [
+            "PLATO -> justice is harmony when each part performs its proper function",
+            "city and soul analogy -> reason governs with spirit while appetite remains ordered",
+            "objection -> functional harmony can freeze hierarchy and suppress individual claims",
+            "ARISTOTLE DISTRIBUTIVE JUSTICE -> proportionate shares by a relevant criterion",
+            "criteria dispute -> merit, need, equality and desert produce rival distributions",
+            "CORRECTIVE JUSTICE -> restore balance after voluntary or involuntary wrong",
+            "compensation asks what loss occurred, who caused it and what repair is proportionate",
+            "UTILITARIAN TEST -> aggregate welfare can sacrifice separate persons or minorities",
+            "justice therefore needs both allocation and rectification"
+          ]
+        },
+        {
+          "panel_title": "Rawls Nozick Sen and Ambedkar",
+          "structural_type": "modern justice debate grid",
+          "source_session_heading_references": [
+            "Rawls Nozick Sen and Ambedkar"
+          ],
+          "lines": [
+            "RAWLS -> original position plus veil of ignorance models fair choice",
+            "first principle -> equal basic liberties with lexical priority",
+            "second principle -> fair equality of opportunity plus the difference principle",
+            "NOZICK -> justice depends on acquisition, transfer and rectification, not a pattern",
+            "minimal state protects entitlement but may preserve unequal starting structures",
+            "SEN -> compare remediable injustice through capability and public reasoning",
+            "institutional justice (nīti) differs from realised justice (nyāya) in actual lives",
+            "AMBEDKAR -> political democracy fails without social equality and fraternity",
+            "comparison -> fairness, entitlement, capability and anti-caste dignity order differently"
+          ]
+        },
+        {
+          "panel_title": "Integrated verdict PYQ traps and answer spine",
+          "structural_type": "integrative answer-writing rail",
+          "source_session_heading_references": [
+            "Integrated verdict PYQ traps and answer spine"
+          ],
+          "lines": [
+            "DEFINE -> state the strongest sense of the ideal named in the question",
+            "DISTINGUISH -> status, opportunity, outcome; interference, mastery, domination",
+            "ARGUE -> use one named thinker and explain the mechanism, not a decorative quotation",
+            "COUNTER -> present the strongest objection or rival ordering principle",
+            "INDIA -> use caste, gender, reservation or digital power only when concept-led",
+            "PYQ anchors -> Mill, Rousseau, Marx, Berlin, Plato, Rawls, Nozick and Sen",
+            "close-option trap -> liberty is not licence; equality is not sameness; justice is not law",
+            "10 marks -> definition, distinction, thinker, objection, verdict",
+            "15 or 20 marks -> compare positions, add Indian application and qualify the synthesis",
+            "END -> justice orders liberty and equality without replacing either ideal"
+          ]
+        }
+      ]
+    }
+  ]
+}

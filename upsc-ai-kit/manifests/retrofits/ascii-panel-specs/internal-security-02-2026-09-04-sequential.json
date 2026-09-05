@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-02",
+      "display_title": "Terrorism and Counter-Terror Architecture",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-02_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Terrorism concept map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "PURPOSE -> political / religious / ideological coercion",
+            "METHOD -> planned, organised, systematic violence",
+            "ACTOR -> state, proxy, network or individual",
+            "OUTCOME SOUGHT -> fear, compliance, legitimacy erosion"
+          ],
+          "source_references": [
+            "Terrorism definition",
+            "State-proxy boundary"
+          ]
+        },
+        {
+          "title": "Three-category firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TERRORISM -> broad coercive violence category",
+            "INSURGENCY -> armed rebellion with claimed social support",
+            "NAXALISM -> Maoist guerrilla route to state power",
+            "RULE -> overlap does not erase distinct objectives"
+          ],
+          "source_references": [
+            "Terrorism-insurgency-Naxalism"
+          ]
+        },
+        {
+          "title": "Manifestation matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "HINTERLAND MODULES | J&K PROXY VIOLENCE",
+            "NORTH-EAST INSURGENCY | LEFT-WING EXTREMISM",
+            "FOR EACH -> actor + vulnerability + finance + response",
+            "CURRENT EXAMPLE -> use dated official status only"
+          ],
+          "source_references": [
+            "Manifestation categories"
+          ]
+        },
+        {
+          "title": "Funding disruption chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOURCE -> sponsor / extortion / contraband / charity",
+            "TRANSFER -> hawala / cash / counterfeit / digital channel",
+            "USE -> recruitment / logistics / propaganda",
+            "RESPONSE -> intelligence + financial investigation + prosecution"
+          ],
+          "source_references": [
+            "Funding architecture"
+          ]
+        },
+        {
+          "title": "Counter-terror function chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PREVENTION / INTELLIGENCE",
+            "-> CONTAINMENT / SPECIALISED RESPONSE",
+            "-> INVESTIGATION",
+            "-> PROSECUTION",
+            "-> RECOVERY / RESILIENCE"
+          ],
+          "source_references": [
+            "Counter-terror chain"
+          ]
+        },
+        {
+          "title": "Post-26/11 institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NIA -> scheduled-offence investigation",
+            "MAC / SMAC -> intelligence sharing",
+            "NATGRID -> data-linkage architecture",
+            "NCTC -> contested centralisation proposal",
+            "NSG HUBS -> specialised crisis response"
+          ],
+          "source_references": [
+            "Post-26/11 build-out",
+            "NIA boundary",
+            "MAC-SMAC boundary"
+          ]
+        },
+        {
+          "title": "Federal response architecture",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "STATE POLICE -> first response, scene, evidence, local order",
+            "CENTRAL AGENCIES -> scheduled investigation / intelligence support",
+            "SPECIAL COURTS -> trial",
+            "RULE -> cooperation without institutional substitution"
+          ],
+          "source_references": [
+            "State-police primacy",
+            "NIA boundary"
+          ]
+        },
+        {
+          "title": "NCTC decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NEED -> real-time national coordination",
+            "PROPOSED POWER -> search / arrest / investigation",
+            "OBJECTION -> State police competence + intelligence-arrest separation",
+            "DURABLE MODEL -> coordinated platforms and case-based investigation"
+          ],
+          "source_references": [
+            "NCTC federalism issue"
+          ]
+        },
+        {
+          "title": "UAPA designation ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CENTRAL NOTIFICATION -> FOURTH SCHEDULE DESIGNATION",
+            "APPLICATION / REVIEW -> STATUTORY ROUTE",
+            "ARREST / CHARGE-SHEET -> SEPARATE CRIMINAL PROCESS",
+            "CONVICTION -> JUDICIAL FINDING AFTER TRIAL"
+          ],
+          "source_references": [
+            "UAPA 2019 designation",
+            "Designation-conviction firewall"
+          ]
+        },
+        {
+          "title": "NIA amendment map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "OUTSIDE INDIA -> Indian citizen / interest nexus",
+            "EXPANDED SCHEDULE -> specified additional offences",
+            "SPECIAL COURTS -> Sessions Courts may be designated",
+            "RULE -> jurisdictional power is not a case outcome"
+          ],
+          "source_references": [
+            "NIA 2019 amendment"
+          ]
+        },
+        {
+          "title": "BNS-UAPA forum choice",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BNS 113 -> general penal law",
+            "UAPA -> special anti-terror law",
+            "SP-RANK DECISION -> route selected",
+            "CONSEQUENCE -> agency, bail and sanction framework differ",
+            "RULE -> both remain in force"
+          ],
+          "source_references": [
+            "BNS-UAPA concurrency",
+            "UAPA bail boundary"
+          ]
+        },
+        {
+          "title": "PRAHAAR policy rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PREVENT -> RESPOND -> AGGREGATE CAPACITIES",
+            "RIGHTS / RULE OF LAW -> ATTENUATE CONDITIONS",
+            "ALIGN INTERNATIONALLY -> RECOVER / BUILD RESILIENCE",
+            "QUALIFY -> policy, not agency; framework, not outcome"
+          ],
+          "source_references": [
+            "PRAHAAR policy",
+            "Policy-agency-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

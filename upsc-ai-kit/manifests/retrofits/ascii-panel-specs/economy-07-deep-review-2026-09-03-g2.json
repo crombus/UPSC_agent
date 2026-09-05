@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-07",
+      "display_title": "Money Market, Capital Market and Financial Instruments",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Market maturity fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MONEY MARKET -> short-term funds + liquidity",
+            "CAPITAL MARKET -> medium/long debt + equity",
+            "CLASSIFY BY -> tenor + claim + function",
+            "NOT BY -> issuer name alone",
+            "MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Issue-to-trade rail",
+          "structural_type": "market-flow",
+          "ascii_lines": [
+            "SAVER FUNDS",
+            "-> PRIMARY ISSUE -> fresh issuer finance",
+            "-> SECONDARY TRADE -> investor liquidity",
+            "-> PRICE DISCOVERY -> future financing signal"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Government borrowing ladder",
+          "structural_type": "tenor-ladder",
+          "ascii_lines": [
+            "TREASURY BILL -> short tenor",
+            "DATED G-SEC -> longer maturity",
+            "RBI -> auction and market architecture",
+            "ROLLOVER RISK persists at short tenor"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Overnight market map",
+          "structural_type": "segment-map",
+          "ascii_lines": [
+            "CALL MONEY -> unsecured overnight",
+            "REPO -> collateralised bilateral funding",
+            "TREPS -> tri-party collateral platform",
+            "CBLO -> older mechanism replaced by TREPS"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Corporate and bank funding",
+          "structural_type": "issuer-map",
+          "ascii_lines": [
+            "CORPORATE -> Commercial Paper",
+            "BANK / ELIGIBLE INSTITUTION -> Certificate of Deposit",
+            "CP -> unsecured + rollover-sensitive",
+            "CD -> negotiable short-term liability"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Regulatory division",
+          "structural_type": "regulator-map",
+          "ascii_lines": [
+            "RBI -> money market + G-Secs + payment rails",
+            "SEBI -> securities issuance + exchanges",
+            "IFSCA -> unified IFSC perimeter",
+            "KEEP instrument, venue and regulator distinct"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "G-Sec trading infrastructure",
+          "structural_type": "infrastructure-chain",
+          "ascii_lines": [
+            "NDS-OM -> electronic G-Sec trading",
+            "CCIL -> clearing and settlement",
+            "SGL / DEMAT -> ownership records",
+            "DIRECT / INDIRECT / BROKER CONNECT -> access modes"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Liquidity quality board",
+          "structural_type": "quality-matrix",
+          "ascii_lines": [
+            "DEPTH -> absorb order size",
+            "BREADTH -> participant and instrument range",
+            "IMMEDIACY -> transact quickly",
+            "RESILIENCE -> recover after shocks"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Risk and return dimensions",
+          "structural_type": "dimension-board",
+          "ascii_lines": [
+            "MATURITY is not LIQUIDITY",
+            "LIQUIDITY is not SAFETY",
+            "RATING is not GUARANTEE",
+            "YIELD reflects expectations + premia + risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Payment-system fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "RTGS -> real time + gross + transaction-wise",
+            "NEFT -> batch settlement",
+            "BOTH -> owner records continuous operation",
+            "PAYMENT RAIL is not a capital-market security",
+            "CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Receivables and physical assets",
+          "structural_type": "classification-board",
+          "ascii_lines": [
+            "TReDS -> accepted MSME receivable discounting",
+            "ETF / SWAP -> financial instruments",
+            "MOTOR VEHICLE -> physical asset",
+            "COLLATERAL status does not change asset class",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Financial-market answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY tenor, issuer and claim",
+            "MAP primary versus secondary function",
+            "TRACE trading, clearing and settlement",
+            "BALANCE depth with disclosure and resilience"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g2\\economy-07_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\\Final-Learning-Packages\\Ancient History\\INDEX.md
+notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\INDEX.md
+notes\\Final-Learning-Packages\\CATALOGUE.md
+notes\\Final-Learning-Packages\\Geography\\INDEX.md
+notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\INDEX.md
+notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\INDEX.md
+notes\\Final-Learning-Packages\\MASTER-TRACKER.json
+notes\\Final-Learning-Packages\\MASTER-TRACKER.md
+notes\\Final-Learning-Packages\\Philosophy Optional\\INDEX.md
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Indian Philosophy\\INDEX.md
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\11-Quine-and-Strawson\\README.txt
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper I — Western Philosophy\\INDEX.md
+notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Philosophy of Religion\\INDEX.md
+notes\\Final-Learning-Packages\\Polity\\INDEX.md
+notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\INDEX.md
+notes\\Final-Learning-Packages\\START-HERE.md
+notes\\Flow-Learning\\Philosophy Optional\\01-Plato-and-Aristotle\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\02-Rationalism\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\03-Empiricism\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\04-Kant\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\05-Hegel\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\06-Moore-Russell-and-Early-Wittgenstein\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\07-Logical-Positivism\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\08-Later-Wittgenstein\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\09-Phenomenology-Husserl\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\10-Existentialism\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\11-Quine-and-Strawson\\11-Quine-and-Strawson-Continuous-Flow-Learning.pdf
+notes\\Flow-Learning\\Philosophy Optional\\11-Quine-and-Strawson\\11-Quine-and-Strawson-Continuous-Flow-Learning.txt
+notes\\Flow-Learning\\Philosophy Optional\\11-Quine-and-Strawson\\README.txt
+notes\\Flow-Learning\\Philosophy Optional\\INDEX.md
+notes\\Flow-Learning\\PHILOSOPHY-OPTIONAL-01-11-FLOW-LEARNING-REPORT.md
+notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\11-Quine-and-Strawson\\11-Quine-and-Strawson-Continuous-Flow-Learning.pdf
+notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\11-Quine-and-Strawson\\11-Quine-and-Strawson-Continuous-Flow-Learning.txt
+notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\11-Quine-and-Strawson\\README.txt
+notes\\Flow-Learning\\Philosophy\\Philosophy Optional\\INDEX.md
+notes\\Flow-Learning\\Philosophy\\START-HERE.md
+notes\\Flow-Learning\\Philosophy\\TRACKER.md
+notes\\Flow-Learning\\START-HERE.md
+notes\\Flow-Learning\\TRACKER.md
+notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\reports\\Quine-Strawson-g2-TOPIC-REPORT-2026-08-27.md
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\previews\page-005.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-11\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\topic-11_Complete-Learning-Session_2026-08-27.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\topic-11_Solved-Practice-Workbook_2026-08-27.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\ascii-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\ascii-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\ascii-contact-03.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\graphical-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\graphical-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\inspection-manifest.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-03.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-04.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-05.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-06.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-07.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\main-contact-08.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\workbook-contact-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\workbook-contact-02.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\rendered-inspection\workbook-contact-03.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\source-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\validation\workbook-visual-audit-map.json
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\WORKBOOK-PDF-INDEX.md
+tools\\build_philosophy_western_quine_strawson_baseline.py
+tools\\inspect_philosophy_western_quine_strawson_rendered_visuals.py
+tools\\reset_philosophy_western_quine_strawson_targets.py
+tools\\verify_philosophy_western_quine_strawson_out_of_scope.py
+tools\generate_philosophy_western_moore_russell_early_wittgenstein_v2.py
+tools\generate_philosophy_western_quine_strawson_v2.py
+tools\philosophy_western_quine_strawson_v2_spec.py
+tools\test_v2_export_foundation.py
+tools\validate_v2_export.py
+upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-27-philosophy-western-11-g2-validation.json
+upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-27-philosophy-western-11-g2.json
+upsc-ai-kit\\manifests\\exports\\philosophy-paper-i-western-philosophy-11-flow-learning-g2-2026-08-27-validation.json
+upsc-ai-kit\\manifests\\exports\\philosophy-paper-i-western-philosophy-11-learner-v2-g2-2026-08-27-out-of-scope-verification.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\assets\Quine-Strawson-Two-Project-Map.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\topic-11_Complete-Learning-Session_2026-08-27.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-11\g2\topic-11_Solved-Practice-Workbook_2026-08-27.md
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g2-2026-08-27-baseline.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g2-2026-08-27-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g2-2026-08-27-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-11-learner-v2-g2-2026-08-27-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy--paper-i-western-philosophy-11-ascii-2026-08-27.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-11-g2.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-11-g2.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

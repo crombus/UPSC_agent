@@ -1,0 +1,1054 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-03",
+  "subject": "Modern-Indian-History",
+  "title": "THE BEGINNINGS OF EUROPEAN SETTLEMENTS (PORTUGUESE → DUTCH → ENGLISH → FRENCH)",
+  "short_route": "SCOPE: CONTACT, SETTLEMENT AND → INDIAN OCEAN SETTING AND → PORTUGUESE ESTADO DA INDIA → PORTUGUESE CULTURAL TRANSFER AND → DUTCH VOC: COMMERCIAL STRENGTH → ENGLISH ENTRY: CHARTER, NAVAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-03_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-03-04-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "9c6dbb4c38112e0e5dbd6e4bcd87ed169a0a9ac025c83e63eed46f3da18619af",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SCOPE: CONTACT, SETTLEMENT AND EMPIRE ARE DIFFERENT STAGES",
+      "structural_type": "scope-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONTACT, SETTLEMENT AND EMPIRE ARE DIFFERENT STAGES",
+          "role": "primary"
+        },
+        {
+          "text": "CAPE ROUTE 1498",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "FACTORY BY INDIAN PERMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "FORTIFIED SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE COMPANY-STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ADDITIONALLY NEEDS FINANCE, ARMY, ALLIES, VICTORY AND REVENUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPE ROUTE 1498 → repeated trade → factory by Indian permission",
+        "FACTORY → fortified settlement → presidency / regional coordination",
+        "POSSIBLE COMPANY-STATE → additionally needs finance, army, allies, victory and revenue",
+        "ANTI-TELEOLOGY → neither a European charter nor the first voyage made conquest inevitable."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPE ROUTE 1498 → repeated trade → factory by Indian permission",
+            "FACTORY → fortified settlement → presidency / regional coordination"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POSSIBLE COMPANY-STATE → additionally needs finance, army, allies, victory and revenue",
+            "ANTI-TELEOLOGY → neither a European charter nor the first voyage made conquest inevitable."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPE ROUTE 1498 → repeated trade → factory by Indian permission",
+            "FACTORY → fortified settlement → presidency / regional coordination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANTI-TELEOLOGY → neither a European charter nor the first voyage made conquest inevitable.",
+      "source_references": [
+        "01. Scope: five stages, not one inevitable conquest"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INDIAN OCEAN SETTING AND MERCANTILIST ARMED COMMERCE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN OCEAN SETTING AND MERCANTILIST ARMED COMMERCE",
+          "role": "primary"
+        },
+        {
+          "text": "MONSOON ROUTES + ASIAN MERCHANTS + INDIAN PORTS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "CHARTERED MONOPOLY SEEKS BULLION, COMMODITIES AND PROTECTED MARKETS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMED COMMERCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SHIP CANNON + FORT + PASS + DIPLOMACY +",
+          "role": "primary"
+        },
+        {
+          "text": "EUROPEANS ENTERED AN EXISTING OCEANIC ECONOMY; OLDER CIRCUITS DID",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRE-1498 → monsoon routes + Asian merchants + Indian ports and manufactures",
+        "MERCANTILISM → chartered monopoly seeks bullion, commodities and protected markets",
+        "ARMED COMMERCE → ship cannon + fort + pass + diplomacy + corporate privilege",
+        "LIMIT → Europeans entered an existing oceanic economy; older circuits did not disappear."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRE-1498 → monsoon routes + Asian merchants + Indian ports and manufactures",
+            "MERCANTILISM → chartered monopoly seeks bullion, commodities and protected markets"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMED COMMERCE → ship cannon + fort + pass + diplomacy + corporate privilege",
+            "LIMIT → Europeans entered an existing oceanic economy; older circuits did not disappear."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRE-1498 → monsoon routes + Asian merchants + Indian ports and manufactures",
+            "MERCANTILISM → chartered monopoly seeks bullion, commodities and protected markets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → Europeans entered an existing oceanic economy; older circuits did not disappear.",
+      "source_references": [
+        "02. Maritime background: the Indian Ocean before the Europeans",
+        "21. Commodities, bullion and the port-hinterland network"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PORTUGUESE ESTADO DA INDIA AND CARTAZ",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PORTUGUESE ESTADO DA INDIA AND CARTAZ",
+          "role": "primary"
+        },
+        {
+          "text": "1498 CALICUT",
+          "role": "outcome"
+        },
+        {
+          "text": "1505 ESTADO ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GOA CAPTURED 1510",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPITAL 1530",
+          "role": "primary"
+        },
+        {
+          "text": "CROWN + VICEROY/GOVERNOR + FLEET + FORTS + ROYAL",
+          "role": "outcome"
+        },
+        {
+          "text": "COERCED SHIPPING PASS; FORTIFIED NODES AT GOA, COCHIN, DIU",
+          "role": "comparison"
+        },
+        {
+          "text": "NODAL AND CONTESTED CONTROL, NEVER A COMPLETE MONOPOLY OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1498 CALICUT → 1505 Estado administration → GOA captured 1510 / capital 1530",
+        "ESTADO → Crown + viceroy/governor + fleet + forts + royal factories",
+        "CARTAZ → coerced shipping pass; fortified nodes at Goa, Cochin, Diu and Daman",
+        "LIMIT → nodal and contested control, never a complete monopoly of Indian Ocean trade."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1498 CALICUT → 1505 Estado administration → GOA captured 1510 / capital 1530",
+            "ESTADO → Crown + viceroy/governor + fleet + forts + royal factories"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CARTAZ → coerced shipping pass; fortified nodes at Goa, Cochin, Diu and Daman",
+            "LIMIT → nodal and contested control, never a complete monopoly of Indian Ocean trade."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1498 CALICUT → 1505 Estado administration → GOA captured 1510 / capital 1530",
+            "ESTADO → Crown + viceroy/governor + fleet + forts + royal factories"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → nodal and contested control, never a complete monopoly of Indian Ocean trade.",
+      "source_references": [
+        "05. Portuguese arrival and the Estado da India",
+        "06. Cartaz, naval power, diplomacy and conflict"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PORTUGUESE CULTURAL TRANSFER AND BOUNDED GOA HERITAGE",
+      "structural_type": "evidence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PORTUGUESE CULTURAL TRANSFER AND BOUNDED GOA HERITAGE",
+          "role": "primary"
+        },
+        {
+          "text": "GOA 1542; FOUNDING JESUIT COMPANION; DIED OFF CHINA, REMAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "GOA PRESS 1556",
+          "role": "comparison"
+        },
+        {
+          "text": "INQUISITION 1560",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSION, PRINT, COERCION AND ACCOMMODATION COEXIST",
+          "role": "primary"
+        },
+        {
+          "text": "PAPAYA, PINEAPPLE AND GUAVA THROUGH PORTUGUESE NETWORKS; NO EXACT",
+          "role": "caution"
+        },
+        {
+          "text": "INDO-PORTUGUESE FORMS + LOCAL ADAPTATION; THREATS INCLUDE DAMP, WEATHERING",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "XAVIER → Goa 1542; founding Jesuit companion; died off China, remains at Bom Jesus",
+        "GOA PRESS 1556",
+        "INQUISITION 1560 → mission, print, coercion and accommodation coexist",
+        "CROPS → papaya, pineapple and guava through Portuguese networks; no exact transfer year",
+        "UNESCO → Indo-Portuguese forms + local adaptation; threats include damp, weathering, termites."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "XAVIER → Goa 1542; founding Jesuit companion; died off China, remains at Bom Jesus",
+            "GOA PRESS 1556"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INQUISITION 1560 → mission, print, coercion and accommodation coexist",
+            "CROPS → papaya, pineapple and guava through Portuguese networks; no exact transfer year"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNESCO → Indo-Portuguese forms + local adaptation; threats include damp, weathering, termites.",
+            "XAVIER → Goa 1542; founding Jesuit companion; died off China, remains at Bom Jesus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNESCO → Indo-Portuguese forms + local adaptation; threats include damp, weathering, termites.",
+      "source_references": [
+        "07. Portuguese trade, mission, printing, crops and cultural exchange"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DUTCH VOC: COMMERCIAL STRENGTH, INDIA INSIDE AN ASIAN PORTFOLIO",
+      "structural_type": "portfolio-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DUTCH VOC",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCIAL STRENGTH, INDIA INSIDE AN ASIAN PORTFOLIO",
+          "role": "outcome"
+        },
+        {
+          "text": "VOC 1602",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT-STOCK CAPITAL + TREATY, WAR AND FORTIFICATION POWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN NODES",
+          "role": "primary"
+        },
+        {
+          "text": "MASULIPATNAM, PULICAT, NAGAPATTINAM, SURAT, CHINSURA AND COCHIN",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN TEXTILES FINANCE AN INDONESIA-CENTRED SPICE AND INTRA-ASIAN PORTFOLIO",
+          "role": "comparison"
+        },
+        {
+          "text": "COLACHEL 1741",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VOC 1602 → joint-stock capital + treaty, war and fortification powers",
+        "INDIAN NODES → Masulipatnam, Pulicat, Nagapattinam, Surat, Chinsura and Cochin",
+        "PRIORITY → Indian textiles finance an Indonesia-centred spice and intra-Asian portfolio",
+        "CHECKS → Colachel 1741 / Bedara 1759; political retreat did not instantly end trade."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VOC 1602 → joint-stock capital + treaty, war and fortification powers",
+            "INDIAN NODES → Masulipatnam, Pulicat, Nagapattinam, Surat, Chinsura and Cochin"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRIORITY → Indian textiles finance an Indonesia-centred spice and intra-Asian portfolio",
+            "CHECKS → Colachel 1741 / Bedara 1759; political retreat did not instantly end trade."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VOC 1602 → joint-stock capital + treaty, war and fortification powers",
+            "INDIAN NODES → Masulipatnam, Pulicat, Nagapattinam, Surat, Chinsura and Cochin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHECKS → Colachel 1741 / Bedara 1759; political retreat did not instantly end trade.",
+      "source_references": [
+        "09. Dutch VOC: structure, Indian bases and Indonesian priority",
+        "10. Why Dutch power in India remained commercial"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ENGLISH ENTRY: CHARTER, NAVAL CREDIBILITY AND MUGHAL PERMISSION",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENGLISH ENTRY",
+          "role": "primary"
+        },
+        {
+          "text": "CHARTER, NAVAL CREDIBILITY AND MUGHAL PERMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "EIC CHARTER 1600",
+          "role": "comparison"
+        },
+        {
+          "text": "CORPORATE MONOPOLY IN ENGLISH LAW, NOT INDIAN SOVEREIGNTY",
+          "role": "caution"
+        },
+        {
+          "text": "SWALLY 1612",
+          "role": "primary"
+        },
+        {
+          "text": "NAVAL CREDIBILITY ALTERS MUGHAL BARGAINING",
+          "role": "outcome"
+        },
+        {
+          "text": "SURAT FACTORY 1613",
+          "role": "comparison"
+        },
+        {
+          "text": "LICENSED DEPOT; ROE 1615-19",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EIC CHARTER 1600 → corporate monopoly in English law, not Indian sovereignty",
+        "SWALLY 1612 → naval credibility alters Mughal bargaining",
+        "SURAT FACTORY 1613 → licensed depot; ROE 1615-19 → privileges confirmed",
+        "CHILD'S WAR 1686-90 → Mughal victory proves early Company weakness and contingency."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EIC CHARTER 1600 → corporate monopoly in English law, not Indian sovereignty",
+            "SWALLY 1612 → naval credibility alters Mughal bargaining"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SURAT FACTORY 1613 → licensed depot; ROE 1615-19 → privileges confirmed",
+            "CHILD'S WAR 1686-90 → Mughal victory proves early Company weakness and contingency."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EIC CHARTER 1600 → corporate monopoly in English law, not Indian sovereignty",
+            "SWALLY 1612 → naval credibility alters Mughal bargaining"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHILD'S WAR 1686-90 → Mughal victory proves early Company weakness and contingency.",
+      "source_references": [
+        "11. English EIC foundation, early voyages and Mughal diplomacy",
+        "12. Surat and the first English factory network"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ENGLISH FORTIFIED SETTLEMENT CHAIN",
+      "structural_type": "coastal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ENGLISH FORTIFIED SETTLEMENT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MASULIPATNAM 1611",
+          "role": "outcome"
+        },
+        {
+          "text": "MADRAS LEASE 1639",
+          "role": "comparison"
+        },
+        {
+          "text": "FORT ST GEORGE FROM 1640",
+          "role": "evidence"
+        },
+        {
+          "text": "PORTUGUESE POSSESSION",
+          "role": "primary"
+        },
+        {
+          "text": "CROWN 1661",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPANY 1668",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENCY HQ 1687",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MASULIPATNAM 1611 → MADRAS lease 1639 → Fort St George from 1640",
+        "BOMBAY → Portuguese possession → Crown 1661 → Company 1668 → presidency HQ 1687",
+        "BENGAL → Hugli / Kasimbazar → three-village Calcutta hub → 1698 zamindari → 1717 farman",
+        "CAUTION → Job Charnock is a conventional association, not an uncontested sole founder."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MASULIPATNAM 1611 → MADRAS lease 1639 → Fort St George from 1640",
+            "BOMBAY → Portuguese possession → Crown 1661 → Company 1668 → presidency HQ 1687"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BENGAL → Hugli / Kasimbazar → three-village Calcutta hub → 1698 zamindari → 1717 farman",
+            "CAUTION → Job Charnock is a conventional association, not an uncontested sole founder."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MASULIPATNAM 1611 → MADRAS lease 1639 → Fort St George from 1640",
+            "BOMBAY → Portuguese possession → Crown 1661 → Company 1668 → presidency HQ 1687"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → Job Charnock is a conventional association, not an uncontested sole founder.",
+      "source_references": [
+        "13. Coromandel chain: Masulipatnam, Madras and Fort St George",
+        "14. Bombay: Crown transfer, harbour geography and presidency shift",
+        "15. Bengal factories, Calcutta and the pre-Plassey boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTIONAL VOCABULARY THAT PREVENTS CATEGORY ERRORS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL VOCABULARY THAT PREVENTS CATEGORY ERRORS",
+          "role": "primary"
+        },
+        {
+          "text": "HOME SOVEREIGN CREATES COMPANY",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN SOVEREIGN GRANTS PRIVILEGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPOT + FACTORS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFENDED ENCLAVE, NOT AUTOMATIC HINTERLAND RULE",
+          "role": "caution"
+        },
+        {
+          "text": "REGIONAL COUNCIL COORDINATING FACTORIES, FLEETS, DEFENCE AND DIPLOMACY",
+          "role": "institution"
+        },
+        {
+          "text": "ENFORCEABLE WAR, JUSTICE, TAXATION AND TERRITORY; CAPACITY MUST MATCH",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CHARTER → home sovereign creates company",
+        "FARMAN → Indian sovereign grants privilege",
+        "FACTORY → depot + factors",
+        "FORT → defended enclave, not automatic hinterland rule",
+        "PRESIDENCY → regional council coordinating factories, fleets, defence and diplomacy"
+      ],
+      "matrix": [
+        [
+          "CHARTER → home sovereign creates company",
+          "FARMAN → Indian sovereign grants privilege"
+        ],
+        [
+          "FACTORY → depot + factors",
+          "FORT → defended enclave, not automatic hinterland rule"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHARTER → home sovereign creates company",
+            "FARMAN → Indian sovereign grants privilege"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FACTORY → depot + factors",
+            "FORT → defended enclave, not automatic hinterland rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRESIDENCY → regional council coordinating factories, fleets, defence and diplomacy",
+            "COMPANY-STATE → enforceable war, justice, taxation and territory; capacity must match claim."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FACTORY → depot + factors | FORT → defended enclave, not automatic hinterland rule.",
+      "source_references": [
+        "16. Charter, farman, factory, fort and presidency: terminology that decides marks"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FRENCH COMPAGNIE AND INDIAN SETTLEMENT CHAIN",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FRENCH COMPAGNIE AND INDIAN SETTLEMENT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "COMPAGNIE DES INDES 1664",
+          "role": "outcome"
+        },
+        {
+          "text": "LOUIS XIV STATE-BACKED MONOPOLY",
+          "role": "institution"
+        },
+        {
+          "text": "SURAT 1668",
+          "role": "evidence"
+        },
+        {
+          "text": "MASULIPATNAM 1669",
+          "role": "primary"
+        },
+        {
+          "text": "PONDICHERRY 1673-74",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANDERNAGORE C.1690-92",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE + TRAINED TROOPS + CLAIMANT POLITICS; INDIAN ALLIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPAGNIE DES INDES 1664 → Colbert / Louis XIV state-backed monopoly",
+        "SURAT 1668 → MASULIPATNAM 1669 → PONDICHERRY 1673-74 → CHANDERNAGORE c.1690-92",
+        "DUPLEIX → trade + trained troops + claimant politics; Indian allies retain their own aims",
+        "LIMIT → finance, naval continuity and home-state priorities constrain French intervention."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPAGNIE DES INDES 1664 → Colbert / Louis XIV state-backed monopoly",
+            "SURAT 1668 → MASULIPATNAM 1669 → PONDICHERRY 1673-74 → CHANDERNAGORE c.1690-92"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DUPLEIX → trade + trained troops + claimant politics; Indian allies retain their own aims",
+            "LIMIT → finance, naval continuity and home-state priorities constrain French intervention."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMPAGNIE DES INDES 1664 → Colbert / Louis XIV state-backed monopoly",
+            "SURAT 1668 → MASULIPATNAM 1669 → PONDICHERRY 1673-74 → CHANDERNAGORE c.1690-92"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → finance, naval continuity and home-state priorities constrain French intervention.",
+      "source_references": [
+        "17. French Compagnie des Indes and the settlement chain",
+        "18. Dupleix and the bounded bridge to Carnatic rivalry"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CARNATIC CONCLUSION: EUROPEAN RIVALRY BECOMES INDIAN POLITICS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CARNATIC CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "EUROPEAN RIVALRY BECOMES INDIAN POLITICS",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST WAR 1746-48",
+          "role": "comparison"
+        },
+        {
+          "text": "FRENCH TAKE MADRAS",
+          "role": "evidence"
+        },
+        {
+          "text": "AIX-LA-CHAPELLE RESTORES IT",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND 1749-54",
+          "role": "outcome"
+        },
+        {
+          "text": "HYDERABAD CLAIMANTS + ARCOT",
+          "role": "comparison"
+        },
+        {
+          "text": "DUPLEIX RECALLED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIRST WAR 1746-48 → French take Madras → Aix-la-Chapelle restores it",
+        "SECOND 1749-54 → Carnatic / Hyderabad claimants + Arcot → Dupleix recalled",
+        "THIRD 1756-63 → Seven Years' War → WANDIWASH 1760 breaks French field power",
+        "PARIS 1763 → factories survive, political ambition checked; no single-cause English victory."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIRST WAR 1746-48 → French take Madras → Aix-la-Chapelle restores it",
+            "SECOND 1749-54 → Carnatic / Hyderabad claimants + Arcot → Dupleix recalled"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THIRD 1756-63 → Seven Years' War → WANDIWASH 1760 breaks French field power",
+            "PARIS 1763 → factories survive, political ambition checked; no single-cause English victory."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FIRST WAR 1746-48 → French take Madras → Aix-la-Chapelle restores it",
+            "SECOND 1749-54 → Carnatic / Hyderabad claimants + Arcot → Dupleix recalled"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARIS 1763 → factories survive, political ambition checked; no single-cause English victory.",
+      "source_references": [
+        "18. Dupleix and the bounded bridge to Carnatic rivalry",
+        "24. Inter-European rivalry before territorial conquest",
+        "25. Why the English gained relative advantage - without teleology"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIAN AGENCY AND THE PORT-HINTERLAND ENGINE",
+      "structural_type": "actor-network",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIAN AGENCY AND THE PORT-HINTERLAND ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "GRANT, REVISE, RESIST AND USE RIVAL COMPANIES AGAINST ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "CREDIT, BROKERAGE, CUSTOMS AND INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAKE COMMERCIAL SETTLEMENTS VIABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "AGENCY WAS REAL BUT UNEQUAL; FORTS STILL DEPENDED ON",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RULERS → grant, revise, resist and use rival companies against one another",
+        "MERCHANTS / BANKERS / DUBASHES → credit, brokerage, customs and information",
+        "WEAVERS / ARTISANS / SHIPBUILDERS / LABOUR → make commercial settlements viable",
+        "ASYMMETRY → agency was real but unequal; forts still depended on surrounding Indian society."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RULERS → grant, revise, resist and use rival companies against one another",
+            "MERCHANTS / BANKERS / DUBASHES → credit, brokerage, customs and information"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEAVERS / ARTISANS / SHIPBUILDERS / LABOUR → make commercial settlements viable",
+            "ASYMMETRY → agency was real but unequal; forts still depended on surrounding Indian society."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULERS → grant, revise, resist and use rival companies against one another",
+            "MERCHANTS / BANKERS / DUBASHES → credit, brokerage, customs and information"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASYMMETRY → agency was real but unequal; forts still depended on surrounding Indian society.",
+      "source_references": [
+        "20. Indian rulers, merchants, brokers, artisans and port communities",
+        "21. Commodities, bullion and the port-hinterland network"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 03 ANSWER AND PYQ SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 03 ANSWER AND PYQ SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "VOC PORTFOLIO",
+          "role": "outcome"
+        },
+        {
+          "text": "EIC PRESIDENCY CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "FRENCH STATE BACKING",
+          "role": "institution"
+        },
+        {
+          "text": "MERCANTILISM + NAVY + FINANCE + INDIAN PERMISSION/AGENCY +",
+          "role": "primary"
+        },
+        {
+          "text": "PYQ TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "BROACH WINDOW; XAVIER DEATH/REMAINS; GOA-BIJAPUR; MADRAS GRANT; THREE CROPS",
+          "role": "comparison"
+        },
+        {
+          "text": "WANDIWASH/PARIS END EUROPEAN RIVALRY; PLASSEY-BUXAR MECHANICS PASS TO TOPIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPARE → Estado/cartaz",
+        "VOC portfolio",
+        "EIC presidency chain",
+        "French state backing",
+        "EXPLAIN → mercantilism + navy + finance + Indian permission/agency + political contingency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPARE → Estado/cartaz",
+            "VOC portfolio",
+            "EIC presidency chain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "French state backing",
+            "EXPLAIN → mercantilism + navy + finance + Indian permission/agency + political contingency",
+            "PYQ TRAPS → Broach window; Xavier death/remains; Goa-Bijapur; Madras grant; three crops"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → Wandiwash/Paris end European rivalry; Plassey-Buxar mechanics pass to Topic 04."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → Wandiwash/Paris end European rivalry; Plassey-Buxar mechanics pass to Topic 04.",
+      "source_references": [
+        "27. Historiography and source criticism",
+        "28. Terminology, chronology, memory hooks and high-frequency traps"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EUROPEAN COMPANIES WERE CHARTERED BODIES SEEKING MONOPOLY PROFITS IN",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PORTUGUESE PIONEERED NAVAL COERCION THROUGH FORTS, FLEETS, THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DUTCH VOC WAS COMMERCIALLY FORMIDABLE BUT PRIORITISED THE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE AMBOYNA MASSACRE (1623) WORSENED ENGLISH-DUTCH RIVALRY AND PUSHED",
+          "role": "primary"
+        },
+        {
+          "text": "THE ENGLISH COMPANY GRADUALLY BUILT A NETWORK OF COASTAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SURAT , MADRAS , BOMBAY AND CALCUTTA .",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FRENCH COMPANY UNDER COLBERT DEVELOPED PONDICHERRY AND CHANDERNAGORE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "European companies were chartered bodies seeking monopoly profits in Asian trade, especially spices, textiles and later revenue-rich territories.",
+            "The Portuguese pioneered naval coercion through forts, fleets, the cartaz system and the Estado da India .",
+            "The Dutch VOC was commercially formidable but prioritised the Indonesian archipelago",
+            "the Amboyna Massacre (1623) worsened English-Dutch rivalry and pushed English attention elsewhere."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The English Company gradually built a network of coastal bases: Surat , Madras , Bombay and Calcutta .",
+            "The French Company under Colbert developed Pondicherry and Chandernagore , but French state dependence and weaker naval-financial support limited it.",
+            "Dupleix showed that European companies could intervene in Indian succession disputes and convert military support into political influence.",
+            "The English learned the same techniques but combined them with stronger naval"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "links, private capital, more stable company organisation and later Bengal revenues.",
+            "Wandiwash (1760) was decisive because it destroyed French field power in south India",
+            "Treaty of Paris (1763) restored factories but not French political ambition.",
+            "CAUTION: This phase marks the shift from a trading corporation to a company-state , where commerce, diplomacy, fortification and army-building merged."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

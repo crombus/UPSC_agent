@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-21",
+      "display_title": "Cold War End and New World Order",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Soviet collapse mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "STAGNATION -> performance legitimacy falls",
+            "GLASNOST/PERESTROIKA -> criticism and reform expand",
+            "NATIONALISM/YELTSIN -> alternatives organise",
+            "NON-USE OF FORCE -> control becomes irreversible collapse",
+            "MUST REMEMBER: Gorbachev's reform phase, Eastern European revolutions of 1989, German",
+            "  unification in 1990 and dissolution of the USSR in 1991 are distinct stages in the Cold",
+            "  War's end."
+          ],
+          "source_references": [
+            "Economic stagnation and reform intent",
+            "Glasnost and perestroika",
+            "Nationalism and Yeltsin",
+            "The decisive non-use of force",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Agency above and below",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GORBACHEV -> reform and restraint from above",
+            "YELTSIN -> rival elite centre",
+            "SOLIDARITY -> organised strikes from below",
+            "RESULT -> structure, choice and mobilisation converge"
+          ],
+          "source_references": [
+            "Nationalism and Yeltsin",
+            "Solidarity and society from below",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Collapse chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1985 -> Gorbachev takes power",
+            "AUG 1988 -> Solidarity strikes in Poland",
+            "1989 -> eastern European regimes collapse",
+            "1991 -> USSR dissolves; Gorbachev resigns"
+          ],
+          "source_references": [
+            "1989 and 1991 endpoints",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Yugoslav breakdown",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "FEDERAL ORDER -> loses communist binding framework",
+            "LEADERS -> mobilise aggressive nationalism",
+            "MIXED POPULATIONS -> territorial claims overlap",
+            "HESITATION -> war and displacement deepen"
+          ],
+          "source_references": [
+            "Yugoslavia beyond ancient hatred",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bosnia to Kosovo",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1991-95 -> Yugoslav wars and ethnic cleansing",
+            "1995 -> Dayton settles Bosnia",
+            "BOUNDARIES -> disputes remain",
+            "1999 -> Kosovo crisis and NATO intervention"
+          ],
+          "source_references": [
+            "Bosnia, Dayton and Kosovo",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "European integration ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1951-52 -> ECSC pools strategic industry",
+            "1957 -> Treaty of Rome creates EEC",
+            "1973 -> first enlargement",
+            "1992-93 -> Maastricht creates deeper EU framework"
+          ],
+          "source_references": [
+            "European integration's Cold War roots",
+            "Maastricht and deeper union",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Deepening versus widening",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DEEPENING -> political and monetary authority expands",
+            "WIDENING -> more states enter",
+            "2004 -> former communist states join",
+            "TENSION -> sovereignty and unequal economies persist"
+          ],
+          "source_references": [
+            "Maastricht and deeper union",
+            "Eastern enlargement",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "New-order claim",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CAPABILITY -> USA appears sole superpower",
+            "LEGITIMACY -> consent remains incomplete",
+            "INSTITUTIONS -> UN authority still matters",
+            "VERDICT -> unipolar moment, contested order"
+          ],
+          "source_references": [
+            "Unipolar capability",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "War-on-terror sequence",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "11 SEPT 2001 -> transnational attack",
+            "AFGHANISTAN -> Taliban regime targeted",
+            "SECURITY -> dispersed networks become central",
+            "IRAQ 2003 -> intervention divides the order"
+          ],
+          "source_references": [
+            "September 11 and Afghanistan",
+            "Iraq and legitimacy limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Iraq legitimacy test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "POWER -> US-UK capacity to invade",
+            "AUTHORISATION -> no clear Security Council basis",
+            "RESULT -> institutional disagreement",
+            "LESSON -> capability cannot manufacture legitimacy",
+            "CLOSE DISTINCTION: Economic stagnation, nationality pressures, legitimacy loss, arms burdens,",
+            "  reform choices and international diplomacy interacted; neither Western pressure nor one",
+            "  leader alone supplies a sufficient cause."
+          ],
+          "source_references": [
+            "Iraq and legitimacy limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Arab Spring divergence",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DEC 2010 -> protests begin in Tunisia",
+            "COMMON GRIEVANCE -> uprisings spread",
+            "STATE/ARMY -> response capacity differs",
+            "EXTERNAL ROLE -> outcomes diverge sharply",
+            "EVIDENCE LIMIT: The post-1991 order combined a US-led unipolar moment with EU integration,",
+            "  globalisation, regional wars and continuing Russian, Chinese and Global South agency, so",
+            "  neither final-peace nor Western-teleology claims are safe."
+          ],
+          "source_references": [
+            "Arab Spring and non-teleological verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "New world order answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "COLLAPSE -> stagnation, reform, mobilisation and restraint",
+            "EUROPE -> Yugoslav fragmentation plus EU enlargement",
+            "ORDER -> US predominance tested by terror and Iraq",
+            "VERDICT -> no linear democratic or unipolar settlement"
+          ],
+          "source_references": [
+            "Arab Spring and non-teleological verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-21\\g2\\world-history-21_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

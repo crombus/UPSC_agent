@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T11:01:27+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b8a5c70e0397274b3b0c221c273de6e049bb85d8a554bcdd4e564d940b094abf",
+    "sha256_after": "b8a5c70e0397274b3b0c221c273de6e049bb85d8a554bcdd4e564d940b094abf",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9151,
+    "pdf_count": 2347,
+    "png_count": 773,
+    "txt_count": 990,
+    "markdown_count": 1489,
+    "json_count": 3537,
+    "total_bytes": 4133907143,
+    "by_extension": {
+      ".json": 3537,
+      ".md": 1489,
+      ".pdf": 2347,
+      ".png": 773,
+      ".txt": 990,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-25",
+      "topic_title": "Second World War, the Cripps Mission & Quit India (1939–1942)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 25,
+      "source_record_id": "modern-indian-history-25:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g3\\modern-indian-history-25_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "c8fbb5486230c81597fa8af28af721d88121f4e0672fc592139b67c6c8641f7c",
+          "output_sha256": "c8fbb5486230c81597fa8af28af721d88121f4e0672fc592139b67c6c8641f7c",
+          "source_output_equal": true,
+          "bytes": 636457
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g3\\modern-indian-history-25_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6dc5d220198a9ba76ff0e1daa206270239592a8ea474b0a10cb888b1690ee694",
+          "output_sha256": "6dc5d220198a9ba76ff0e1daa206270239592a8ea474b0a10cb888b1690ee694",
+          "source_output_equal": true,
+          "bytes": 506760
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-25\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "64dba4c4c3d9044d13be954e3662934130cb47da144fa28aae5fa47d4b7ce03b",
+          "output_sha256": "64dba4c4c3d9044d13be954e3662934130cb47da144fa28aae5fa47d4b7ce03b",
+          "source_output_equal": true,
+          "bytes": 2230306
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-25\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "e66db305f424468a30a1a27d825445a9f05a4b5188814930a6f0a9b46b161439",
+          "output_sha256": "e66db305f424468a30a1a27d825445a9f05a4b5188814930a6f0a9b46b161439",
+          "source_output_equal": true,
+          "bytes": 2695307
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-25\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "50032fa30ca3d975ac4d38bcb18dceb2e33c6c95decd67d6410a18d7a51bb85a",
+          "output_sha256": "50032fa30ca3d975ac4d38bcb18dceb2e33c6c95decd67d6410a18d7a51bb85a",
+          "source_output_equal": true,
+          "bytes": 1979463
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-25\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "9cfd576c19597449b782d66d0e1958827b4c9b0f367c61658729597ae52194c4",
+          "output_sha256": "9cfd576c19597449b782d66d0e1958827b4c9b0f367c61658729597ae52194c4",
+          "source_output_equal": true,
+          "bytes": 4768
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-25\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\25-Second-World-War-the-c39ff7c5-Quit-India-1939-1942\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "9e9d6f649a4cd13c61d965dd43fefff645cb214fb4a9135e98dca88ab1966b87",
+          "output_sha256": "9e9d6f649a4cd13c61d965dd43fefff645cb214fb4a9135e98dca88ab1966b87",
+          "source_output_equal": true,
+          "source_text_sha256": "9cfd576c19597449b782d66d0e1958827b4c9b0f367c61658729597ae52194c4",
+          "normalized_text_equal": true,
+          "bytes": 57156
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 72,
+        "solved_practice_workbook": 38,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 38,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10966
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

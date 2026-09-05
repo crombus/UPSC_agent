@@ -1,0 +1,1335 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T02:00:07.451335+00:00",
+  "subject": "Social Justice",
+  "section": "Subject-wide Syllabus",
+  "represented": 17,
+  "expected": 17,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_social_justice_deep_review (cwd=tools)",
+      "tests": 220,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_portability_and_migrant_law_status_are_exact (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_scale_anchor_is_bounded_by_its_exclusions (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_urban_and_rural_missions_are_not_merged (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_urban_vocabulary_is_preserved (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_verified_official_eligibility_condition_is_carried (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_capstone_vocabulary_is_preserved (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_no_live_source_is_claimed_for_this_owner (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_pending_caste_enumeration_is_not_presented_as_a_database (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_survey_round_discipline_is_carried (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_targeting_errors_are_defined_in_the_right_direction (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_transfer_evidence_is_bounded (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_two_verified_pyq_demands_are_solved (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 220 tests in 9.231s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_01_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_conceptual_vocabulary_is_preserved (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_constitutional_anchor_is_exact_and_bounded (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_indicator_and_status_boundary_is_declared (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_international_standard_status_is_not_upgraded (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_this_is_the_first_topic_of_the_sequence (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_transparent (test_generate_social_justice_01_sequential.SocialJustice01GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.296s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_02_sequential (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_entitlement_vocabulary_is_preserved (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_official_coverage_facts_are_dated_and_attributed (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_price_and_policy_status_are_kept_apart (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_survey_rounds_are_never_merged (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\ntest_verified_pyq_ownership_and_unavailable_keys (test_generate_social_justice_02_sequential.SocialJustice02GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.294s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_03_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_dashboard_boundary_is_declared (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_expenditure_series_carries_accounting_years (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_health_system_vocabulary_is_preserved (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_mission_dates_are_official_and_dated (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_two_enrolment_routes_are_not_conflated (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\ntest_verified_pyq_ownership_and_key_discipline (test_generate_social_justice_03_sequential.SocialJustice03GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.293s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_04_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_education_vocabulary_is_preserved (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_no_live_source_is_claimed_and_refusals_are_recorded (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_regulatory_status_is_not_upgraded (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_statutory_and_policy_status_are_kept_apart (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_survey_values_carry_round_and_scope (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\ntest_verified_pyq_ownership_and_cross_routing (test_generate_social_justice_04_sequential.SocialJustice04GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.295s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_05_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_gender_justice_vocabulary_is_preserved (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_maternity_entitlement_and_transfer_are_not_merged (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_representation_sequencing_is_not_upgraded (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_statutory_and_constitutional_status_are_kept_apart (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_survey_values_carry_round_and_scope (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\ntest_verified_pyq_ownership_and_cross_routing (test_generate_social_justice_05_sequential.SocialJustice05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.364s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_06_sequential (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_age_thresholds_are_kept_apart_by_statute (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_child_protection_vocabulary_is_preserved (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_dated_anchors_carry_their_source (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_marriage_validity_distinction_is_exact (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_scheduled_data_regime_is_not_upgraded (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_transfer_gateway_is_not_described_as_automatic (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\ntest_verified_pyq_ownership_and_cross_routing (test_generate_social_justice_06_sequential.SocialJustice06GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.333s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_07_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_amendment_sequence_is_not_inverted (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_court_notification_is_not_universalised (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_judgment_boundaries_are_not_widened (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_registered_data_are_not_read_as_prevalence (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_scheduled_caste_vocabulary_is_preserved (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_transparent_zero_direct_pyq_audit (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_07_sequential.SocialJustice07GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.304s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_08_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_protected_area_safeguards_are_cumulative (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_rejection_is_not_treated_as_eviction_authority (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_three_rights_categories_are_named_separately (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_transparent_pyq_ownership_for_objective_only_routing (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_tribal_welfare_vocabulary_is_preserved (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\ntest_vulnerable_group_category_is_not_generalised (test_generate_social_justice_08_sequential.SocialJustice08GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.314s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_09_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_backward_class_vocabulary_is_preserved (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_census_decision_is_not_presented_as_data (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_identical_rupee_figures_are_separated_as_two_tests (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_the_2022_majority_and_dissent_are_both_recorded (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_the_two_routes_are_kept_constitutionally_distinct (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_transparent_zero_pyq_ownership_is_declared (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_09_sequential.SocialJustice09GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.321s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_10_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_minority_vocabulary_is_preserved (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_state_level_minority_determination_is_recorded (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_statutory_status_is_not_upgraded (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_the_interim_order_is_reported_provision_by_provision (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_transparent_zero_pyq_ownership_is_declared (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_umbrella_scheme_is_not_collapsed_into_area_targeting (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_10_sequential.SocialJustice10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.297s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_11_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_accommodation_carries_both_limbs (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_disability_vocabulary_is_preserved (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_statutory_reservation_is_not_filed_under_article_16 (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_trust_statute_scope_mismatch_is_stated (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_solved_and_bounded (test_generate_social_justice_11_sequential.SocialJustice11GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.312s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_12_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_ageing_vocabulary_is_preserved (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_counts_and_projections_are_separated (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_five_official_components_are_named (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_lapsed_and_pending_bills_are_not_presented_as_law (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_statutory_limits_travel_with_the_remedy (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\ntest_verified_pyq_ownership_is_solved_and_divided (test_generate_social_justice_12_sequential.SocialJustice12GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.325s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_13_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_board_is_not_upgraded_into_a_statutory_commission (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_certificate_routes_are_never_merged (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_dated_scheme_and_counting_boundaries_are_carried (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_denotification_is_not_presented_as_exoneration (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_judgment_and_statute_are_kept_apart (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_no_live_source_is_claimed_for_this_owner (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_recognitive_justice_vocabulary_is_preserved (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\ntest_transparent_zero_pyq_ownership_is_stated (test_generate_social_justice_13_sequential.SocialJustice13GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.306s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_14_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_commission_status_is_stated_with_its_verified_history (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_compensation_tiers_travel_with_their_judicial_source (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_mechanisation_is_not_presented_as_substitution (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_sanitation_labour_vocabulary_is_preserved (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_two_prohibited_practices_are_never_merged (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_verified_live_source_is_bounded (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\ntest_verified_objective_ownership_is_bounded (test_generate_social_justice_14_sequential.SocialJustice14GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.277s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_15_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_commencement_status_is_stated_exactly (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_contribution_range_and_cap_travel_together (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_invented_thresholds_are_expressly_refused (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_labour_codes_mains_demand_is_not_claimed_here (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_no_live_source_is_claimed_for_this_owner (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_registration_is_not_presented_as_entitlement (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_social_security_vocabulary_is_preserved (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\ntest_verified_objective_ownership_is_bounded (test_generate_social_justice_15_sequential.SocialJustice15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.276s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_16_sequential (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_credit_is_not_confused_with_the_right_to_vend (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_cross_paper_questions_are_routed_away_from_this_owner (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_portability_and_migrant_law_status_are_exact (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_scale_anchor_is_bounded_by_its_exclusions (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_urban_and_rural_missions_are_not_merged (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_urban_vocabulary_is_preserved (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\ntest_verified_official_eligibility_condition_is_carried (test_generate_social_justice_16_sequential.SocialJustice16GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.302s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_social_justice_17_sequential (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_advanced_owner_is_preserved_in_the_optional_block (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_capstone_vocabulary_is_preserved (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_no_live_source_is_claimed_for_this_owner (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_owner_pyq_ledger_extract_is_carried (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_pending_caste_enumeration_is_not_presented_as_a_database (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_previous_topic_of_the_sequence_is_pinned (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_survey_round_discipline_is_carried (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_targeting_errors_are_defined_in_the_right_direction (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_transfer_evidence_is_bounded (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\ntest_two_verified_pyq_demands_are_solved (test_generate_social_justice_17_sequential.SocialJustice17GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 0.320s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 15.309s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 1.995s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 22.846s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "social-justice-01",
+      "title": "Social Justice, Inclusion and Welfare-State Framework",
+      "old_record_id": "social-justice-01:learner-v2:g2",
+      "new_record_id": "social-justice-01:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-01-learner-v2-g3-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:45:05.666667+00:00",
+      "identities": {
+        "export": "social-justice-01:learner-v2:g3",
+        "master": "social-justice-01:learner-v2:g3",
+        "review": "social-justice-01:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-01:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-01\\social-justice-01-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-01:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-01:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-01-learner-v2-g3-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-01:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "social-justice-02",
+      "title": "Poverty, Hunger, Food and Nutrition Security",
+      "old_record_id": "social-justice-02:learner-v2:g1",
+      "new_record_id": "social-justice-02:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-02-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:45:56.437806+00:00",
+      "identities": {
+        "export": "social-justice-02:learner-v2:g2",
+        "master": "social-justice-02:learner-v2:g2",
+        "review": "social-justice-02:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-02:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-02\\social-justice-02-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-02:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-02:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-02-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-02:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-03",
+      "title": "Health Systems, Public Health and Universal Health Coverage",
+      "old_record_id": "social-justice-03:learner-v2:g1",
+      "new_record_id": "social-justice-03:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-03-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:46:42.995386+00:00",
+      "identities": {
+        "export": "social-justice-03:learner-v2:g2",
+        "master": "social-justice-03:learner-v2:g2",
+        "review": "social-justice-03:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-03:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-03\\social-justice-03-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-03:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-03:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-03-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-03:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-04",
+      "title": "Education and Human-Resource Development",
+      "old_record_id": "social-justice-04:learner-v2:g1",
+      "new_record_id": "social-justice-04:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-04-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:47:27.996937+00:00",
+      "identities": {
+        "export": "social-justice-04:learner-v2:g2",
+        "master": "social-justice-04:learner-v2:g2",
+        "review": "social-justice-04:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-04:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-04\\social-justice-04-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-04:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-04:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-04-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-04:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-05",
+      "title": "Women and Gender Justice",
+      "old_record_id": "social-justice-05:learner-v2:g1",
+      "new_record_id": "social-justice-05:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-05-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:48:13.786083+00:00",
+      "identities": {
+        "export": "social-justice-05:learner-v2:g2",
+        "master": "social-justice-05:learner-v2:g2",
+        "review": "social-justice-05:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-05:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-05\\social-justice-05-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-05:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-05:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-05-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-05:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-06",
+      "title": "Children and Child Protection",
+      "old_record_id": "social-justice-06:learner-v2:g1",
+      "new_record_id": "social-justice-06:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-06-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:49:02.371345+00:00",
+      "identities": {
+        "export": "social-justice-06:learner-v2:g2",
+        "master": "social-justice-06:learner-v2:g2",
+        "review": "social-justice-06:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-06:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-06\\social-justice-06-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-06:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-06:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-06-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-06:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-07",
+      "title": "Scheduled Castes: Rights, Atrocities and Welfare",
+      "old_record_id": "social-justice-07:learner-v2:g1",
+      "new_record_id": "social-justice-07:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-07-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:49:49.167163+00:00",
+      "identities": {
+        "export": "social-justice-07:learner-v2:g2",
+        "master": "social-justice-07:learner-v2:g2",
+        "review": "social-justice-07:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-07:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-07\\social-justice-07-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-07:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-07:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-07-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-07:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-08",
+      "title": "Scheduled Tribes, PVTGs and Tribal Welfare",
+      "old_record_id": "social-justice-08:learner-v2:g1",
+      "new_record_id": "social-justice-08:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-08-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:50:31.637263+00:00",
+      "identities": {
+        "export": "social-justice-08:learner-v2:g2",
+        "master": "social-justice-08:learner-v2:g2",
+        "review": "social-justice-08:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-08:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-08\\social-justice-08-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-08:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-08:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-08-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-08:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-09",
+      "title": "OBC, EWS and Social Mobility",
+      "old_record_id": "social-justice-09:learner-v2:g1",
+      "new_record_id": "social-justice-09:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-09-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:51:09.956649+00:00",
+      "identities": {
+        "export": "social-justice-09:learner-v2:g2",
+        "master": "social-justice-09:learner-v2:g2",
+        "review": "social-justice-09:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-09:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-09\\social-justice-09-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-09:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-09:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-09-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-09:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-10",
+      "title": "Minorities: Rights and Welfare",
+      "old_record_id": "social-justice-10:learner-v2:g1",
+      "new_record_id": "social-justice-10:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-10-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:51:48.600152+00:00",
+      "identities": {
+        "export": "social-justice-10:learner-v2:g2",
+        "master": "social-justice-10:learner-v2:g2",
+        "review": "social-justice-10:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-10:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-10\\social-justice-10-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-10:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-10:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-10-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-10:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-11",
+      "title": "Persons with Disabilities",
+      "old_record_id": "social-justice-11:learner-v2:g1",
+      "new_record_id": "social-justice-11:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-11-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:52:26.620104+00:00",
+      "identities": {
+        "export": "social-justice-11:learner-v2:g2",
+        "master": "social-justice-11:learner-v2:g2",
+        "review": "social-justice-11:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-11:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-11\\social-justice-11-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-11:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-11:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-11-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-11:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-12",
+      "title": "Elderly and Senior Citizens",
+      "old_record_id": "social-justice-12:learner-v2:g1",
+      "new_record_id": "social-justice-12:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-12-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:53:06.572531+00:00",
+      "identities": {
+        "export": "social-justice-12:learner-v2:g2",
+        "master": "social-justice-12:learner-v2:g2",
+        "review": "social-justice-12:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-12:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-12\\social-justice-12-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-12:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-12:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-12-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-12:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-13",
+      "title": "Transgender Persons and Denotified/Nomadic Communities",
+      "old_record_id": "social-justice-13:learner-v2:g1",
+      "new_record_id": "social-justice-13:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-13-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:53:46.711381+00:00",
+      "identities": {
+        "export": "social-justice-13:learner-v2:g2",
+        "master": "social-justice-13:learner-v2:g2",
+        "review": "social-justice-13:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-13:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-13\\social-justice-13-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-13:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-13:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-13-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-13:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-14",
+      "title": "Sanitation, Manual Scavenging and Safai Karamcharis",
+      "old_record_id": "social-justice-14:learner-v2:g1",
+      "new_record_id": "social-justice-14:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-14-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:54:26.137045+00:00",
+      "identities": {
+        "export": "social-justice-14:learner-v2:g2",
+        "master": "social-justice-14:learner-v2:g2",
+        "review": "social-justice-14:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-14:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-14\\social-justice-14-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-14:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-14:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-14-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-14:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-15",
+      "title": "Labour Social Security, Unorganised and Gig Workers",
+      "old_record_id": "social-justice-15:learner-v2:g1",
+      "new_record_id": "social-justice-15:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-15-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:55:08.722945+00:00",
+      "identities": {
+        "export": "social-justice-15:learner-v2:g2",
+        "master": "social-justice-15:learner-v2:g2",
+        "review": "social-justice-15:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-15:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-15\\social-justice-15-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-15:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-15:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-15-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-15:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-16",
+      "title": "Urban Poor, Homeless and Migrant Workers",
+      "old_record_id": "social-justice-16:learner-v2:g1",
+      "new_record_id": "social-justice-16:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-16-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:55:52.381774+00:00",
+      "identities": {
+        "export": "social-justice-16:learner-v2:g2",
+        "master": "social-justice-16:learner-v2:g2",
+        "review": "social-justice-16:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-16:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-16\\social-justice-16-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-16:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-16:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-16-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-16:learner-v2:g2",
+      "final_generation": 2
+    },
+    {
+      "topic_key": "social-justice-17",
+      "title": "Scheme Performance, Convergence, Targeting and Data",
+      "old_record_id": "social-justice-17:learner-v2:g1",
+      "new_record_id": "social-justice-17:learner-v2:g2",
+      "old_generation": 1,
+      "new_generation": 2,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-17-learner-v2-g2-2026-09-03-validation.json",
+      "review_started_at": "2026-09-03T01:56:36.270261+00:00",
+      "identities": {
+        "export": "social-justice-17:learner-v2:g2",
+        "master": "social-justice-17:learner-v2:g2",
+        "review": "social-justice-17:learner-v2:g2"
+      },
+      "generations": {
+        "export": 2,
+        "master": 2,
+        "review": 2
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "social-justice-17:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\social-justice-17\\social-justice-17-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "social-justice-17:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "social-justice-17:learner-v2:g2",
+          "generation": 2,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\social-justice-17-learner-v2-g2-2026-09-03-validation.json"
+        }
+      ],
+      "final_record_id": "social-justice-17:learner-v2:g2",
+      "final_generation": 2
+    }
+  ],
+  "failed_intermediates_preserved": [],
+  "successful_re_review_intermediates_preserved": [],
+  "requested_topic_count": 17,
+  "live_topic_count": 17,
+  "missing_expected_topic_keys": [],
+  "scope_blocker": "none",
+  "all_subject_topic_count": 356,
+  "encoding_check": {
+    "files_checked": [
+      "EXPORT-PDF-STATUS.json",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json",
+      "EXPORT-PDF-COMMAND-INDEX.md",
+      "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.md",
+      "notes\\Final-Learning-Packages\\CATALOGUE.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\README.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\04_Education-and-Human-Resource-Development.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\05_Women-and-Gender-Justice.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\10_Minorities-Rights-and-Welfare.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\13_Transgender-Persons-and-Denotified-Nomadic-Marginalised-Communities.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\15_Labour-Social-Security-Unorganised-and-Gig-Workers.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\01_Social-Justice-Concept-Inclusion-and-Welfare-State-Framework.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\04_Education-and-Human-Resource-Development.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\05_Women-and-Gender-Justice.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\10_Minorities-Rights-and-Welfare.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\13_Transgender-Persons-and-Denotified-Nomadic-Marginalised-Communities.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\14_Sanitation-Manual-Scavenging-and-Safai-Karamcharis.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\15_Labour-Social-Security-Unorganised-and-Gig-Workers.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
+      "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md"
+    ],
+    "u_fffd_replacement_paths": [],
+    "actual_replacement_glyph_found": false,
+    "result": "no defect"
+  },
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03-validation.json",
+  "final_library_topic_count": 356,
+  "live_tracker_sync": "passed_subject_scoped",
+  "canonical_source_change_status": "unchanged_hash_locked",
+  "canonical_source_owner_count": 51,
+  "inventory_path": "upsc-ai-kit\\manifests\\exports\\social-justice-deep-review-2026-09-03-changed-files.txt",
+  "inventory_nul_path": "upsc-ai-kit\\manifests\\exports\\social-justice-deep-review-2026-09-03-changed-files.nul",
+  "inventory_count": 5577,
+  "preserved_predecessor_count": 17,
+  "preserved_intermediate_status": "verified",
+  "final_verification": "passed"
+}

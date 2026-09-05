@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topics 10-11",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-10",
+      "display_title": "Coastal Landforms / India Coast and CRZ",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\10_India-Coast-and-CRZ_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Coastal-system balance",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WAVES + TIDES + CURRENTS -> marine energy",
+            "RIVERS + CLIFFS + OFFSHORE -> sediment supply",
+            "SEA LEVEL + LAND MOTION -> accommodation space",
+            "HUMAN WORKS -> redistribute erosion and accretion"
+          ],
+          "source_references": [
+            "Coastal system and sediment budget"
+          ]
+        },
+        {
+          "title": "Refraction map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "DEEP WATER -> wave fronts travel faster",
+            "SHALLOW HEADLAND -> fronts slow and converge",
+            "BAY -> fronts diverge and energy disperses",
+            "RESULT -> erosion focus / depositional shelter"
+          ],
+          "source_references": [
+            "Wave refraction and energy concentration"
+          ]
+        },
+        {
+          "title": "Erosional sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "JOINT / FAULT -> hydraulic action + abrasion",
+            "CAVE -> widening and roof attack",
+            "ARCH -> roof collapse -> STACK",
+            "STACK -> undercutting -> STUMP"
+          ],
+          "source_references": [
+            "Marine erosion agents",
+            "Cave, arch, stack and stump"
+          ]
+        },
+        {
+          "title": "Cliff retreat section",
+          "structural_type": "replacement-diagram",
+          "ascii_lines": [
+            "WAVE NOTCH -> basal undercutting",
+            "OVERHANG -> instability and collapse",
+            "DEBRIS REMOVAL -> renewed attack",
+            "RETREAT -> widening wave-cut platform"
+          ],
+          "source_references": [
+            "Cliff, notch and wave-cut platform"
+          ]
+        },
+        {
+          "title": "Depositional discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SPIT -> one end attached",
+            "BAR -> crosses bay or mouth",
+            "LAGOON -> water enclosed behind bar",
+            "TOMBOLO -> joins island to land"
+          ],
+          "source_references": [
+            "Longshore drift and spits",
+            "Bars, lagoons and tombolos"
+          ]
+        },
+        {
+          "title": "Relative sea-level fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "LAND RISE / SEA FALL -> emergence",
+            "RAISED BEACH + TERRACE -> exposed marine forms",
+            "LAND FALL / SEA RISE -> submergence",
+            "RIA = drowned river valley / FJORD = glacial trough"
+          ],
+          "source_references": [
+            "Emergent and submergent coasts"
+          ]
+        },
+        {
+          "title": "Storm-surge chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "CYCLONE WIND + LOW PRESSURE -> water setup",
+            "TRACK + SHELF + BATHYMETRY -> local amplification",
+            "HIGH TIDE + WAVES + RIVER FLOW -> compound level",
+            "EXPOSURE + WEAK EVACUATION -> disaster risk"
+          ],
+          "source_references": [
+            "Storm surge and compound water level"
+          ]
+        },
+        {
+          "title": "India coast contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EAST -> broader plains + large deltas",
+            "WEST -> narrower plain + many estuaries",
+            "PORT TEST -> depth, shelter, siltation, engineering",
+            "RULE -> tendency, not universal binary"
+          ],
+          "source_references": [
+            "India east-west coastal map"
+          ]
+        },
+        {
+          "title": "NCCR evidence boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PERIOD -> 1990-2018 assessment",
+            "ERODING -> about 33.6 percent",
+            "ACCRETING -> about 26.9 percent",
+            "STABLE -> about 39.6 percent; not an annual rate"
+          ],
+          "source_references": [
+            "NCCR shoreline evidence"
+          ]
+        },
+        {
+          "title": "CRZ implementation ladder",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "NOTIFICATION -> category-specific national rules",
+            "MAPPING -> HTL/LTL and technical inputs",
+            "CZMP -> consultation + approval + local map",
+            "PROJECT -> appraisal, decision, compliance"
+          ],
+          "source_references": [
+            "CRZ category and CZMP logic",
+            "Institutions and clearance boundaries"
+          ]
+        },
+        {
+          "title": "Coastal response hierarchy",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "AVOID -> keep new exposure out of high-risk space",
+            "RESTORE / ACCOMMODATE -> buffers + resilient use",
+            "RETREAT -> move assets where persistence fails",
+            "PROTECT -> selective works with downdrift audit"
+          ],
+          "source_references": [
+            "PYQ route and integrated response"
+          ]
+        },
+        {
+          "title": "Coast answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE + MAP -> process and coastal sector",
+            "DERIVE -> energy, sediment and sea-level chain",
+            "VERIFY -> period, category, plan and status",
+            "VERDICT -> integrated, adaptive and locally mapped"
+          ],
+          "source_references": [
+            "PYQ route and integrated response"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-11",
+      "display_title": "Islands and Coral Reefs / India Islands-Great Nicobar",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\11_India-Islands-Great-Nicobar_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Island-origin tree",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "CONTINENTAL -> crust or shelf affinity",
+            "VOLCANIC -> magma builds oceanic edifice",
+            "CORAL -> reef carbonate + wave-built sediment",
+            "DEPOSITIONAL -> river, current or barrier accumulation"
+          ],
+          "source_references": [
+            "Island origin classes"
+          ]
+        },
+        {
+          "title": "Reef-building engine",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "POLYP -> calcium-carbonate skeleton",
+            "ZOOXANTHELLAE -> photosynthetic symbiosis",
+            "LIGHT + CLEAR WATER -> reef productivity",
+            "HEAT / SEDIMENT STRESS -> bleaching or decline"
+          ],
+          "source_references": [
+            "Coral polyp and reef metabolism",
+            "Coral growth conditions"
+          ]
+        },
+        {
+          "title": "Reef-type cross-section",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FRINGING -> shore contact + narrow lagoon",
+            "BARRIER -> offshore reef + broad lagoon",
+            "ATOLL -> ring reef around lagoon",
+            "TEST -> land relation, lagoon and foundation"
+          ],
+          "source_references": [
+            "Fringing reef anatomy",
+            "Barrier reef anatomy",
+            "Atoll and lagoon"
+          ]
+        },
+        {
+          "title": "Darwin sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "VOLCANIC ISLAND + FRINGING REEF",
+            "SLOW SUBSIDENCE + UPWARD CORAL GROWTH",
+            "BARRIER REEF + WIDER LAGOON",
+            "ISLAND SUBMERGED -> ATOLL"
+          ],
+          "source_references": [
+            "Darwin and Daly models"
+          ]
+        },
+        {
+          "title": "Daly qualification",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GLACIAL SEA-LEVEL FALL -> exposed platform",
+            "WAVE PLANATION -> foundation shaping",
+            "POST-GLACIAL RISE -> renewed reef growth",
+            "VERDICT -> combine sea level, biology and tectonics"
+          ],
+          "source_references": [
+            "Darwin and Daly models"
+          ]
+        },
+        {
+          "title": "Bleaching outcome fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "THERMAL / LIGHT / POLLUTION STRESS",
+            "SYMBIONT LOSS -> pale or white colony",
+            "STRESS EASES -> possible recovery",
+            "STRESS PERSISTS -> disease, mortality, erosion"
+          ],
+          "source_references": [
+            "Bleaching, mortality and recovery"
+          ]
+        },
+        {
+          "title": "Reef-service chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "REEF COMPLEXITY -> habitat + fisheries",
+            "REEF CREST -> wave-energy attenuation",
+            "CARBONATE PRODUCTION -> island sediment",
+            "DEGRADATION -> livelihood + exposure risk"
+          ],
+          "source_references": [
+            "Reef ecosystem services and limits"
+          ]
+        },
+        {
+          "title": "India island contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "A&N -> tectonic arc, high relief, seismic setting",
+            "LAKSHADWEEP -> low coral atolls and reefs",
+            "TEN DEGREE -> Andaman / Nicobar divide",
+            "NINE DEGREE -> Minicoy / main Lakshadweep divide"
+          ],
+          "source_references": [
+            "Andaman-Nicobar tectonic arc",
+            "Lakshadweep coral system"
+          ]
+        },
+        {
+          "title": "Great Nicobar value map",
+          "structural_type": "evidence-map",
+          "ascii_lines": [
+            "TECTONIC ISLAND -> earthquake-tsunami exposure",
+            "BIOSPHERE RESERVE -> core-buffer-transition logic",
+            "REEFS + BEACHES + FORESTS -> connected habitats",
+            "INDIGENOUS COMMUNITIES -> rights and livelihood"
+          ],
+          "source_references": [
+            "Great Nicobar biosphere value"
+          ]
+        },
+        {
+          "title": "Project-status firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PROPOSAL -> port + airport + township + power",
+            "CLEARANCE CONDITIONS -> safeguards to implement",
+            "12 FEB 2026 -> final forest approval not granted",
+            "RULE -> official claim is not measured outcome"
+          ],
+          "source_references": [
+            "Project components and approval status"
+          ]
+        },
+        {
+          "title": "Island appraisal gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NEED -> strategic and economic rationale",
+            "PLACE -> hazard, freshwater and carrying capacity",
+            "PEOPLE / ECOLOGY -> rights + cumulative effects",
+            "DECISION -> alternatives, safeguards, monitoring"
+          ],
+          "source_references": [
+            "PYQ reef route and island appraisal"
+          ]
+        },
+        {
+          "title": "Island answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> origin and reef type",
+            "MAP -> arc, atoll, channel and lagoon",
+            "ASSESS -> heat, hazard, rights and status",
+            "VERDICT -> island-specific and precautionary"
+          ],
+          "source_references": [
+            "PYQ reef route and island appraisal"
+          ]
+        }
+      ]
+    }
+  ]
+}

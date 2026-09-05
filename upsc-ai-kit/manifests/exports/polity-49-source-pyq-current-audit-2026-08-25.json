@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-49",
+  "title": "Regulatory State and Quasi Judicial Institutions",
+  "gate": "A",
+  "started_at": "2026-08-25T12:35:12+05:30",
+  "completed_at": "2026-08-25T12:35:16+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://www.cci.gov.in/antitrust",
+          "status_code": null,
+          "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.cci.gov.in', port=443): Max retries exceeded with url: /antitrust (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))\"))",
+          "accessed_at": "2026-08-25T12:35:13+05:30"
+        },
+        {
+          "url": "https://www.sebi.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.sebi.gov.in/",
+          "title": "Securities and Exchange Board of India",
+          "evidence_excerpt": "Securities and Exchange Board of India सेबी की वेबसाइट पर आपका स्वागत है Welcome to website of Securities and Exchange Board of India वेबसाइट देखने के लिए अपनी पसंदीदा भाषा चुनें Select your preferred language to access the website हिन्दी English Click here to make payment of SEBI Fees Click here to make payment to SEBI IPEF Authenticate Document Issued by SEBI What's New View All Now Live | Dharohar - Milestones in the Indian Securities Market The exclusive interview with Dr. Montek Singh Ahluwalia is now available on Dharohar. Watch the complete discussion and explore the rich history of Ind",
+          "accessed_at": "2026-08-25T12:35:14+05:30"
+        },
+        {
+          "url": "https://www.meity.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.meity.gov.in/",
+          "title": "Home",
+          "evidence_excerpt": "Home",
+          "accessed_at": "2026-08-25T12:35:14+05:30"
+        },
+        {
+          "url": "https://www.sci.gov.in/",
+          "status_code": 200,
+          "final_url": "https://www.sci.gov.in/",
+          "title": "Supreme Court of India | India",
+          "evidence_excerpt": "Supreme Court of India | India Skip to main content Search Search Accessibility Links Accessibility Tools Color Contrast High Contrast Normal Contrast Highlight Links Invert Saturation Text Size Font Size Increase Font Size Decrease Normal Font Text Spacing Line Height Others Hide Images Big Cursor हिन्दी भारत का सर्वोच्च न्यायालय SUPREME COURT OF INDIA भारत का सर्वोच्च न्यायालय Supreme Court of India || यतो धर्मस्ततो जय: || Menu Toggle More Home About Us History Constitution Jurisdiction Calendar Committees Organization Chart Registry Officers Contact Us Judges Chief Justice & Judges Former C",
+          "accessed_at": "2026-08-25T12:35:16+05:30"
+        }
+      ],
+      "result": "CCI's current official competition-law description and the official regulator, MeitY and Supreme Court portals were rechecked on 25 August 2026. Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 4,
+    "supporting_route_count": 0,
+    "total_routed_count": 4,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-25",
+    "fact": "CCI's current official competition-law description and the official regulator, MeitY and Supreme Court portals were rechecked on 25 August 2026. Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law.",
+    "caveat": "Statutory, regulatory and quasi-judicial describe different axes. A regulator is quasi-judicial only while performing an adjudicatory function. Independence does not remove legislative, audit, transparency, appeal or judicial-review accountability, and a consultation paper or proposed digital regime is not law."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "e2d678b584899a0b44a58ca55cf2ed13845dca69b49acdd81cd4cce37b810a3c",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md": "5a2ccb1c69845cc958110d82810378e44600d70ae0619b80931e317a3dc65bb5",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md": "d3a892d63486369cbabb6d66be4f40f3a34bd3e6438898ca673b9abe1cd33a8d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ab6c80529f3b1895a45f3be6fcfaec26a8c3f060e683b03a84cf9adf4a869a95",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md": "7d6af70b6a6193d46a9158f3da2c9931c1b23f0f7072c129d9ca82bc969b81f4",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md": "7dcd7648b978383ca7fa215be112e9cbc83217489bab4def27fc9095d3442b5b",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\CAG.md": "af5ebdbd6857699d3069270e4838dc0290759985a3b87fbdaa0cd87d108d4e2e",
+    "upsc-ai-kit\\knowledge\\Governance\\basic\\11_Regulatory-Governance-and-Independent-Regulators.md": "b60525c3cfb72756119c6a2c1af9cca37bd63667b049b94e949a893430314dfb",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md": "592556adab67ec64a43c33b2991b4f519143d1bef29fce7b257a742598af5b9d",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md": "4a8139dc57378768fe8569b7a388a6a27806b1c249e2db95dd048ddc518a5b48",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "rise of the regulatory state after liberalisation and specialised governance",
+    "constitutional, statutory and executive source distinctions with sector examples",
+    "rule-making, licensing, tariffs, monitoring, enforcement and adjudication",
+    "natural justice, bias, hearing, reasons and functional separation",
+    "court, tribunal, regulator, commission and appellate-forum distinctions",
+    "appointments, tenure, removal, finance, capture and revolving-door controls",
+    "delegated legislation, appeals, judicial review, Parliament, CAG and RTI",
+    "digital/platform regulation boundaries and calibrated regulatory reform"
+  ],
+  "topic_completeness_status": "passed",
+  "canonical_owner_resolution": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
+    "scope_note": "The Basic/Core Markdown is the canonical owner and remains independently UPSC-complete. Cross-topic owners supplement it; Advanced remains subordinate optional enrichment."
+  },
+  "case_year_sources": [
+    {
+      "case_id": "delhi-laws-act",
+      "canonical_label": "In re Delhi Laws Act (1951)",
+      "decision_year": 1951,
+      "source_title": "In re Delhi Laws Act, 1912, Supreme Court decision dated 23 May 1951",
+      "source_url": "https://indiankanoon.org/search/?formInput=In+re+Delhi+Laws+Act+23+May+1951"
+    },
+    {
+      "case_id": "ak-kraipak",
+      "canonical_label": "A.K. Kraipak v. Union of India (1969)",
+      "decision_year": 1969,
+      "source_title": "A.K. Kraipak v. Union of India, Supreme Court judgment dated 29 April 1969",
+      "source_url": "https://indiankanoon.org/search/?formInput=A+K+Kraipak+Union+of+India+29+April+1969"
+    },
+    {
+      "case_id": "maneka-gandhi",
+      "canonical_label": "Maneka Gandhi (1978)",
+      "decision_year": 1978,
+      "source_title": "Maneka Gandhi v. Union of India, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Maneka+Gandhi+v+Union+of+India+25+January+1978"
+    },
+    {
+      "case_id": "sn-mukherjee",
+      "canonical_label": "S.N. Mukherjee v. Union of India (1990)",
+      "decision_year": 1990,
+      "source_title": "S.N. Mukherjee v. Union of India, Supreme Court judgment dated 28 August 1990",
+      "source_url": "https://indiankanoon.org/search/?formInput=S+N+Mukherjee+Union+of+India+28+August+1990"
+    },
+    {
+      "case_id": "cci-sail",
+      "canonical_label": "Competition Commission of India v. SAIL (2010)",
+      "decision_year": 2010,
+      "source_title": "Competition Commission of India v. Steel Authority of India Ltd., Supreme Court judgment dated 9 September 2010",
+      "source_url": "https://indiankanoon.org/search/?formInput=Competition+Commission+India+SAIL+9+September+2010"
+    },
+    {
+      "case_id": "cellular-operators-trai",
+      "canonical_label": "Cellular Operators Association of India v. TRAI (2016)",
+      "decision_year": 2016,
+      "source_title": "Cellular Operators Association of India v. TRAI, Supreme Court judgment dated 11 May 2016",
+      "source_url": "https://indiankanoon.org/search/?formInput=Cellular+Operators+Association+India+TRAI+11+May+2016"
+    },
+    {
+      "case_id": "l-chandra-kumar",
+      "canonical_label": "L. Chandra Kumar (1997)",
+      "decision_year": 1997,
+      "source_title": "L. Chandra Kumar v. Union of India, judgment dated 18 March 1997",
+      "source_url": "https://indiankanoon.org/search/?formInput=L+Chandra+Kumar+v+Union+of+India+18+March+1997"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-25",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "Statutory, regulatory and quasi-judicial describe different axes. A regulator is quasi-judicial only while performing an adjudicatory function. Independence does not remove legislative, audit, transparency, appeal or judicial-review accountability, and a consultation paper or proposed digital regime is not law."
+  }
+}

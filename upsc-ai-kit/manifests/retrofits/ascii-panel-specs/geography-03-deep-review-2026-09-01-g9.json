@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-03",
+      "display_title": "Vulcanism and Earthquakes / India Seismic Zones",
+      "active_generation": 9,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Endogenic system: plate motion, strain release and magma generation",
+          "structural_type": "process-system-overview",
+          "source_references": [
+            "{'sessions': [1, 2, 3], 'sections': ['BASIC LEARNING SESSION', 'The complete earthquake mechanism'], 'markdown_lines': ['50-282', '2585-2594']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+------------------- ENDOGENIC SYSTEM -------------------+\n| Internal heat + gravity + plate motion reshape crust.  |\n+---------------------------------------------------------+\n                         |\n           +-------------+-------------+\n           |                           |\n     STRESS ACCUMULATION          MAGMA GENERATION\n           |                           |\n load -> lock -> strain       divergence: decompression\n           |                  subduction: volatile flux\n rupture -> slip              plume: anomalous upwelling\n           |                           |\n      EARTHQUAKE                     VULCANISM\n           \\                           /\n            +---- landforms + hazards + resources ----+\n\nFAULT PAIRS\ntension -> normal | compression -> reverse/thrust | shear -> strike-slip\n\nPlate motion loads a region; sudden fault rupture is the immediate quake source.\nMUST REMEMBER: Vulcanism and seismicity follow magma generation, ascent, eruption style, fault\n  rupture, wave propagation and site response; India requires Himalayan collision, Kachchh\n  intraplate strain, Peninsular reservoirs/faults, Andaman subduction and Barren Island\n  anchors."
+        },
+        {
+          "title": "Earthquake source geometry, depth and seismogram logic",
+          "structural_type": "cross-section-and-location-method",
+          "source_references": [
+            "{'sessions': [3, 4], 'sections': ['BASIC LEARNING SESSION', 'Source geometry and seismogram'], 'markdown_lines': ['210-361', '2595-2605']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "                         SURFACE\nstation A -------- epicentre -------- station B\n                        |\n                        |\n                 focus / hypocentre\n              rupture begins on fault plane\n\nSEISMOGRAM ARRIVAL ORDER\nP first -> S second -> Love and Rayleigh later\n     |\nP-S interval at one station gives source distance\n     |\nthree or more distance circles estimate the epicentre\n\nDEPTH CLASS\nshallow: 0-70 km | intermediate: 70-300 km | deep: 300-700 km\n\nSEQUENCE FIREWALL\nforeshock, mainshock and aftershock are relational labels;\na swarm has no single clearly dominant event.\n\nEpicentre is a vertical projection, not necessarily the worst-damaged place."
+        },
+        {
+          "title": "Seismic waves, shadow zones, magnitude and intensity",
+          "structural_type": "comparison-table-with-evidence-chain",
+          "source_references": [
+            "{'sessions': [5, 6, 7], 'sections': ['BASIC LEARNING SESSION', 'Waves and Earth interior', 'Magnitude, intensity and damage'], 'markdown_lines': ['362-570', '2606-2627']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+----------+------------------+---------------+--------------------+\n| WAVE     | MOTION           | MEDIUM        | MAIN CLUE          |\n+----------+------------------+---------------+--------------------+\n| P        | compression      | solid, liquid | core refraction    |\n| S        | transverse shear | solid only    | liquid outer core  |\n| Love     | horizontal shear | surface       | lateral shaking    |\n| Rayleigh | rolling ellipse  | surface       | mixed motion       |\n+----------+------------------+---------------+--------------------+\nP shadow about 103-142 deg | direct S shadow beyond about 103 deg\n\nMAGNITUDE: one source measure; Mw uses seismic moment\nmoment = rigidity x fault area x average slip\n+1 local magnitude gives about 10x amplitude and 31.6x energy\n\nINTENSITY: place-specific observed effects; many values for one event\n\nsource x path x site x exposure x vulnerability / capacity -> damage"
+        },
+        {
+          "title": "Global seismic belts, cascading hazards and tsunami sequence",
+          "structural_type": "global-distribution-and-hazard-chain",
+          "source_references": [
+            "{'sessions': [8, 9, 10], 'sections': ['BASIC LEARNING SESSION', 'Global distribution', 'Tsunami spine'], 'markdown_lines': ['571-792', '2628-2660']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "GLOBAL EARTHQUAKE DISTRIBUTION\n+----------------------+----------------------+--------------------+\n| Circum-Pacific       | Mediterranean-       | Ridges/transforms  |\n| trench + slab + arc  | Himalayan collision | shallow events     |\n| megathrust + tsunami | complex convergence | basaltic ridges    |\n+----------------------+----------------------+--------------------+\nIntraplate events reactivate inherited structures; stable is not aseismic.\n\nCASCADE\nshaking -> amplification / liquefaction / lateral spreading\n        -> landslide / fire / lifeline failure / dam distress\n\nTSUNAMI\nsubmarine megathrust -> vertical sea-floor displacement\n-> long low deep-ocean wave -> coastal shoaling\n-> run-up + inundation + return flow\n\nFirst wave need not be largest; withdrawal need not occur before every event.\nRisk varies with bathymetry, bay shape, shelf, exposure and evacuation."
+        },
+        {
+          "title": "Volcano anatomy, magma controls, landforms and eruption styles",
+          "structural_type": "volcanic-cross-section-and-classification",
+          "source_references": [
+            "{'sessions': [11, 12, 13], 'sections': ['BASIC LEARNING SESSION', 'Volcano anatomy and magma control'], 'markdown_lines': ['793-1022', '2661-2683']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "                       ash plume\n                          /\\\n                         /  \\ crater\n                  lava --    -- lava\n                         |vent|\n                dyke ----|    |---- sill\n                         |conduit\n                    magma chamber\n\nMagma below surface | lava after eruption\nSilica up -> viscosity up -> degassing harder -> explosivity may rise\nTemperature up -> viscosity generally down\nRetained gas + decompression -> bubbles -> fragmentation\n\nFORMS: batholith, laccolith, lopolith, phacolith, dyke, sill\nDyke cuts layers; sill follows layers.\n\nSTYLE: fissure/Icelandic -> Hawaiian -> Strombolian -> Vulcanian -> Plinian\nFORM: shield | composite | cinder cone | dome | fissure plateau\nSTATUS: active | dormant | extinct; status is not a compulsory life cycle."
+        },
+        {
+          "title": "Volcanic settings, global belts, products and environmental effects",
+          "structural_type": "spatial-distribution-and-impact-matrix",
+          "source_references": [
+            "{'sessions': [14, 15, 16], 'sections': ['BASIC LEARNING SESSION', 'Volcanic distribution and plumes', 'Volcanic impacts'], 'markdown_lines': ['1023-1233', '2684-2700']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "+----------------+----------------------+-------------------------+\n| SETTING        | MELTING MECHANISM    | EXPRESSION              |\n+----------------+----------------------+-------------------------+\n| Divergent      | decompression        | ridge, rift, basalt     |\n| Subduction     | slab volatile flux   | trench-slab-arc system  |\n| Plume          | mantle upwelling     | flood basalt, hot spot  |\n+----------------+----------------------+-------------------------+\nRing of Fire = trench + descending slab + earthquakes + volcanic arc\nPlume model: broad head may form flood basalt; tail may form age chain.\nDeccan Trap is a fissure-fed flood-basalt plateau, not a giant cone.\n\nHAZARDS: lava | ash | density currents | lahars | gases\nCLIMATE: stratospheric sulphate aerosol can cause temporary cooling\nBENEFITS: new crust/land | soil parent | geothermal energy | minerals\n\nImpact converges through wind, relief, drainage, exposure and preparedness."
+        },
+        {
+          "title": "India seismic geography, zonation, institutions and resilience stack",
+          "structural_type": "india-regional-map-and-intervention-stack",
+          "source_references": [
+            "{'sessions': [17, 18, 19], 'sections': ['BASIC LEARNING SESSION', 'India regional map recall', 'Institutions and risk reduction'], 'markdown_lines': ['1234-1466', '2701-2736']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "INDIA REGIONAL HIERARCHY\nHimalaya        : collision, thrusts, slopes, dense corridors\nNorth-East      : convergence, strike-slip complexity\nAndaman         : subduction, tsunami, Barren Island volcanism\nKachchh         : inherited rift and fault reactivation\nPeninsula       : relatively stable; Koyna and Latur show residual risk\nIndo-Gangetic   : alluvium, amplification and high exposure\n                         |\nMACROZONATION: broad design hazard, not prediction\nMICROZONATION: geology + soil + motion + water + liquefaction + GIS\n                         |\nNCS/MoES -> monitoring | GSI -> geology | BIS -> standards\nNDMA/NIDM -> guidance | INCOIS -> tsunami warning\nStates/ULBs -> approvals + inspection + enforcement\n                         |\nsite -> regular load path -> ductility -> connections\n-> non-structural safety -> quality control -> retrofit -> drills\n\nEarly warning detects rupture after it starts; it is not prediction."
+        },
+        {
+          "title": "Hazard-risk-response and Mains answer spine for seismic India",
+          "structural_type": "hazard-risk-response-and-mains-spine",
+          "source_references": [
+            "{'sessions': [9, 10, 16, 17, 18, 19], 'sections': ['PYQS AND ANSWER PRACTICE', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['2737-2786']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ],
+          "ascii_text": "QUESTION: Why can similar earthquakes produce unequal disasters?\n                             |\nHAZARD: source size + depth + rupture geometry + path\n                             |\nSITE: basin sediment + groundwater + slope + liquefaction potential\n                             |\nEXPOSURE: people + buildings + lifelines + time of occurrence\n                             |\nVULNERABILITY: weak design + irregular form + poor maintenance\n                             |\nCAPACITY: codes + enforcement + retrofit + warning + response\n                             |\nRISK VERDICT: hazard becomes disaster through social and spatial filters\n\n15-MARK INDIA SPINE\ntectonic regions -> site modifiers -> exposure/vulnerability -> cases\n-> zonation and microzonation -> construction and governance -> conclusion\n\nTRAPS: focus is not epicentre | magnitude is not intensity\ntsunami is not a tide | caldera is not an ordinary crater\nzone map is not prediction | code publication is not enforcement."
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Extinct volcano Geological evidence indicates eruption is no longer...",
+            "3. geophysical evidence; a long-quiescent volcano may still be dormant.",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Causal method Initial condition -> energy/force or driver ->...",
+            "2. PIB/MoES - updated seismic zonation map statement, 17 December 2025,...",
+            "3. SCALE, INTERACTING CONTROL OR EVIDENCE LIMIT",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTION: Magnitude measures source size whereas intensity records effects; focus",
+            "  differs from epicentre, P differs from S and surface waves, and a tsunami requires",
+            "  water-column displacement rather than every submarine earthquake."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Cross-owned but directly relevant Mains PYQ 1",
+            "2. Original solved Mains practice 6",
+            "3. Practice contract Every solved item has demand decoding, a detailed...",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "EVIDENCE LIMIT: Hazard is not disaster: exposure, vulnerability, construction and preparedness",
+            "  mediate loss; seismic zonation is probabilistic and revised through evidence, while",
+            "  prediction claims must not be confused with monitoring or early warning."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Extinct volcano Geological evidence indicates eruption is no longer...",
+            "3. geophysical evidence; a long-quiescent volcano may still be dormant.",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g9\\geography-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

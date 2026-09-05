@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 24",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-24",
+      "display_title": "S&T Institutions: DST, CSIR, ANRF",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-24_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Institutional form classifier",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "MINISTRY -> political-administrative portfolio",
+            "DEPARTMENT -> DST | DSIR | DBT | DAE",
+            "STATUTORY BODY -> ANRF",
+            "AUTONOMOUS SOCIETY -> CSIR",
+            "OFFICE / ACADEMY / REGULATOR / LAB -> distinct again"
+          ],
+          "source_references": [
+            "Institutional identity before abbreviation",
+            "Sectoral mission and agency boundaries"
+          ]
+        },
+        {
+          "title": "Ministry to research network map",
+          "structural_type": "organisation-map",
+          "ascii_lines": [
+            "MINISTRY OF SCIENCE AND TECHNOLOGY",
+            "  DST -> policy / missions / coordination",
+            "  DSIR -> industrial research / technology transfer",
+            "    CSIR -> autonomous society + laboratory network",
+            "  DBT -> biotechnology Department"
+          ],
+          "source_references": [
+            "DST horizontal policy role",
+            "DSIR industrial-research role",
+            "CSIR legal and research-performing identity"
+          ]
+        },
+        {
+          "title": "ANRF statutory governance map",
+          "structural_type": "two-tier-governance",
+          "ascii_lines": [
+            "ANRF ACT 2023 -> statutory foundation",
+            "COMMENCEMENT -> 5 February 2024",
+            "GOVERNING BOARD -> PM ex officio President",
+            "EXECUTIVE COUNCIL -> PSA ex officio Chairperson",
+            "DST -> administrative anchor, not parent office"
+          ],
+          "source_references": [
+            "ANRF statutory identity and commencement",
+            "ANRF two-tier governance"
+          ]
+        },
+        {
+          "title": "SERB to ANRF transition",
+          "structural_type": "replacement-rail",
+          "ascii_lines": [
+            "SERB ACT 2008 -> former statutory grant body",
+            "ANRF ACT section 27 -> repeal + dissolution",
+            "ASSETS / LIABILITIES / PERSONNEL -> transition and savings",
+            "OLD SERB REFERENCE -> historical context",
+            "CURRENT APEX IDENTITY -> ANRF"
+          ],
+          "source_references": [
+            "SERB repeal and succession"
+          ]
+        },
+        {
+          "title": "Funding instrument matrix",
+          "structural_type": "instrument-matrix",
+          "ascii_lines": [
+            "FELLOWSHIP -> supports person",
+            "PROJECT GRANT -> defined investigator project",
+            "MISSION-MODE -> directed multi-institution outcome",
+            "FINANCING DESIGN -> expected source mix",
+            "APPROPRIATION / RELEASE / SPEND -> separate evidence"
+          ],
+          "source_references": [
+            "ANRF financing-design firewall",
+            "Grant fellowship and mission-mode distinction"
+          ]
+        },
+        {
+          "title": "Research-to-use pipeline",
+          "structural_type": "maturity-pipeline",
+          "ascii_lines": [
+            "QUESTION -> BASIC RESEARCH -> EXPERIMENT",
+            "REPLICATION -> APPLIED RESEARCH -> PROTOTYPE",
+            "TEST / STANDARD / REGULATION -> SCALE-UP",
+            "MANUFACTURE / ADOPTION -> MEASURED OUTCOME",
+            "STOP -> last verified rung"
+          ],
+          "source_references": [
+            "Research-to-use pipeline",
+            "Institution and status evidence ladder"
+          ]
+        },
+        {
+          "title": "Horizontal and vertical architecture",
+          "structural_type": "cross-axis-map",
+          "ascii_lines": [
+            "HORIZONTAL -> DST policy | ANRF funding | DSIR-CSIR capability",
+            "VERTICAL -> space | nuclear | biotech | defence | digital",
+            "BRIDGE -> universities + labs + skills + standards",
+            "COLLABORATION -> does not change legal identity",
+            "CAPACITY MULTIPLIER != mission replacement"
+          ],
+          "source_references": [
+            "Horizontal versus vertical architecture",
+            "Sectoral mission and agency boundaries",
+            "University laboratory industry ecosystem"
+          ]
+        },
+        {
+          "title": "CSIR laboratory portfolio",
+          "structural_type": "lab-portfolio",
+          "ascii_lines": [
+            "NPL -> metrology",
+            "NCL -> chemistry | CECRI -> electrochemistry",
+            "CCMB -> molecular biology | IGIB -> genomics",
+            "CEERI -> electronics",
+            "LAB MANDATE != sector-wide regulation or mission ownership"
+          ],
+          "source_references": [
+            "Named CSIR laboratory function map"
+          ]
+        },
+        {
+          "title": "ANRF programme status ladder",
+          "structural_type": "programme-ladder",
+          "ascii_lines": [
+            "PM ECRG -> early-career project support",
+            "MAHA -> mission-mode research platform",
+            "CALL -> APPLICATION -> SELECTION -> SANCTION",
+            "RELEASE -> RESEARCH -> VALIDATION",
+            "NO AUTOMATIC COMMERCIAL OR PUBLIC OUTCOME"
+          ],
+          "source_references": [
+            "ANRF programme-instrument boundary",
+            "Institution and status evidence ladder"
+          ]
+        },
+        {
+          "title": "Policy instrument firewall",
+          "structural_type": "policy-firewall",
+          "ascii_lines": [
+            "STI POLICY 2013 -> adopted policy owner",
+            "STIP 2020 -> draft / consultation status",
+            "VIGYAN DHARA -> DST umbrella scheme",
+            "PROGRAMME / GRANT -> subordinate instrument",
+            "DOCUMENT STATUS -> date and notification required"
+          ],
+          "source_references": [
+            "STI policy and Vigyan Dhara boundary"
+          ]
+        },
+        {
+          "title": "Research governance balance board",
+          "structural_type": "balance-board",
+          "ascii_lines": [
+            "AUTONOMY <-> ACCOUNTABILITY",
+            "EXCELLENCE <-> INCLUSION",
+            "CURIOSITY <-> MISSION PRIORITY",
+            "PUBLIC RISK CAPITAL <-> INDUSTRY PARTICIPATION",
+            "CENTRAL COORDINATION <-> INSTITUTIONAL FLEXIBILITY"
+          ],
+          "source_references": [
+            "University laboratory industry ecosystem",
+            "Governance tensions and inclusion"
+          ]
+        },
+        {
+          "title": "PYQ support and evidence rail",
+          "structural_type": "ownership-status-rail",
+          "ascii_lines": [
+            "SPECIALIST PYQ -> specialist science owner",
+            "TOPIC 24 SUPPORT -> funding / lab / university / translation",
+            "NO DIRECT ROUTE -> no ownership inflation",
+            "LAW / MEETING / CALL / GRANT / PROTOTYPE / DEPLOYMENT",
+            "CONCLUSION -> institution + mandate + last verified status"
+          ],
+          "source_references": [
+            "Conservative PYQ institutional lens",
+            "Institution and status evidence ladder"
+          ]
+        }
+      ]
+    }
+  ]
+}

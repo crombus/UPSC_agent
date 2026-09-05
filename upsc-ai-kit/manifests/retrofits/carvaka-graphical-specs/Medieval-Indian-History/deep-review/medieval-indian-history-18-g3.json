@@ -1,0 +1,1156 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-18",
+  "subject": "Medieval-Indian-History",
+  "title": "THE DECCAN & THE MUGHALS (TO 1657)",
+  "short_route": "THE DECCAN AS A → DECCAN CHRONOLOGY 1562-1657 → A SPECTRUM OF POLITICAL → CHAND BIBI AND THE → AKBAR'S FOOTHOLD AND ITS → MALIK AMBAR'S RESISTANCE ENGINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-18-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "94489f1bc82454382087b73c955ea21350d1c43a4de867fc17c9b589ba7e95ca",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE DECCAN AS A CONNECTED BUT FRICTIONAL FIELD",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE DECCAN AS A CONNECTED BUT FRICTIONAL FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "MOBILISATION AND NORTHERN IMPERIAL CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRIDOR, MARKET AND STAGING POINT",
+          "role": "comparison"
+        },
+        {
+          "text": "FORTIFIED GATEWAY, NOT AUTOMATIC PLATEAU CONTROL",
+          "role": "caution"
+        },
+        {
+          "text": "OPERATIONAL FOOTHOLD AND CONTESTED REVENUE",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIMANT, FORT AND HINTERLAND CAN COME APART",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTONOMOUS COURTS, RESOURCES AND SOUTHERN AMBITIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGRA / MALWA → mobilisation and northern imperial core",
+        "KHANDESH / BURHANPUR → corridor, market and staging point",
+        "ASIRGARH → fortified gateway, not automatic plateau control",
+        "BERAR / BALAGHAT → operational foothold and contested revenue",
+        "AHMADNAGAR → claimant, fort and hinterland can come apart"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRA / MALWA → mobilisation and northern imperial core",
+            "KHANDESH / BURHANPUR → corridor, market and staging point",
+            "ASIRGARH → fortified gateway, not automatic plateau control"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BERAR / BALAGHAT → operational foothold and contested revenue",
+            "AHMADNAGAR → claimant, fort and hinterland can come apart",
+            "BIJAPUR / GOLCONDA → autonomous courts, resources and southern ambitions."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUST REMEMBER: Ahmadnagar, Bijapur, Golconda and Malik Ambar anchor the Mughal-Deccan sequence to the stated 1657 boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Ahmadnagar, Bijapur, Golconda and Malik Ambar anchor the Mughal-Deccan sequence to the stated 1657 boundary.",
+      "source_references": [
+        "Khandesh",
+        "Burhanpur",
+        "Asirgarh",
+        "Berar",
+        "Ahmadnagar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DECCAN CHRONOLOGY 1562-1657",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DECCAN CHRONOLOGY 1562-1657",
+          "role": "primary"
+        },
+        {
+          "text": "KHANDESH CONTACTS AND SUBMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "AHMADNAGAR CRISIS; CHAND BIBI; BERAR SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "AHMADNAGAR FORT, BALAGHAT, ASIRGARH AND KHANDESH",
+          "role": "evidence"
+        },
+        {
+          "text": "MALIK AMBAR REVERSES MUCH OF AKBAR'S GAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MUGHAL RECOVERY FOLLOWED BY JAHANGIR'S LIMITED POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPACT BREACHED.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1562-76 → Khandesh contacts and submission",
+        "1591 → embassies",
+        "1595-96 → Ahmadnagar crisis; Chand Bibi; Berar settlement",
+        "1600-01 → Ahmadnagar fort, Balaghat, Asirgarh and Khandesh",
+        "1610 → Malik Ambar reverses much of Akbar's gain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1562-76 → Khandesh contacts and submission",
+            "1591 → embassies",
+            "1595-96 → Ahmadnagar crisis; Chand Bibi; Berar settlement"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1600-01 → Ahmadnagar fort, Balaghat, Asirgarh and Khandesh",
+            "1610 → Malik Ambar reverses much of Akbar's gain",
+            "1616-21 → Mughal recovery followed by Jahangir's limited policy"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1633 → Daulatabad",
+            "1636 → treaties",
+            "1656-57 → compact breached."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1633 → Daulatabad | 1636 → treaties | 1656-57 → compact breached.",
+      "source_references": [
+        "Chronology",
+        "Chand Bibi",
+        "Malik Ambar",
+        "1636 treaties",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "A SPECTRUM OF POLITICAL RELATIONS",
+      "structural_type": "continuum",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "A SPECTRUM OF POLITICAL RELATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "RECOGNITION SOUGHT WITHOUT IMMEDIATE ANNEXATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE AND NEGOTIATED COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBUTE, KHUTBA OR ARBITRATION UNDER RETAINED LOCAL RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARMY CONTROLS A FORT OR ZONE WITHOUT DURABLE INTEGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "TERRITORIAL INCORPORATION PLUS ADMINISTRATIVE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT TRANSLATE EVERY HIERARCHY INTO A MODERN SOVEREIGNTY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIPLOMACY → recognition sought without immediate annexation",
+        "ALLIANCE → service and negotiated cooperation",
+        "SUZERAINTY → tribute, khutba or arbitration under retained local rule",
+        "OCCUPATION → army controls a fort or zone without durable integration",
+        "ANNEXATION → territorial incorporation plus administrative claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DIPLOMACY → recognition sought without immediate annexation",
+            "ALLIANCE → service and negotiated cooperation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SUZERAINTY → tribute, khutba or arbitration under retained local rule",
+            "OCCUPATION → army controls a fort or zone without durable integration"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ANNEXATION → territorial incorporation plus administrative claim",
+            "TRAP: do not translate every hierarchy into a modern sovereignty binary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "do not translate every hierarchy into a modern sovereignty binary.",
+      "source_references": [
+        "Diplomacy",
+        "Suzerainty",
+        "Occupation",
+        "Annexation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHAND BIBI AND THE AHMADNAGAR CRISIS",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHAND BIBI AND THE AHMADNAGAR CRISIS",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSION DISPUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL INTERVENTION BECOMES POSSIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHAND BIBI",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFENDS, SEEKS ALLIES AND NEGOTIATES UNDER FACTIONAL PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "1596 TERMS",
+          "role": "outcome"
+        },
+        {
+          "text": "BAHADUR RECOGNISED; BERAR CEDED; SUZERAINTY ACCEPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "RENEWED WAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUCCESSION DISPUTE → external intervention becomes possible",
+        "CHAND BIBI → defends, seeks allies and negotiates under factional pressure",
+        "1596 TERMS → Bahadur recognised; Berar ceded; suzerainty accepted",
+        "RENEWED WAR → factions and the Berar dispute erode the bargain",
+        "1600 SIEGE → proposed negotiation is branded betrayal; Chand Bibi is killed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SUCCESSION DISPUTE → external intervention becomes possible",
+            "CHAND BIBI → defends, seeks allies and negotiates under factional pressure"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "1596 TERMS → Bahadur recognised; Berar ceded; suzerainty accepted",
+            "RENEWED WAR → factions and the Berar dispute erode the bargain"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "1600 SIEGE → proposed negotiation is branded betrayal; Chand Bibi is killed",
+            "LESSON: constrained agency, not a romantic warrior-queen-only story."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON: constrained agency, not a romantic warrior-queen-only story.",
+      "source_references": [
+        "Chand Bibi",
+        "Ahmadnagar",
+        "Berar",
+        "Factionalism",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AKBAR'S FOOTHOLD AND ITS LIMITS",
+      "structural_type": "balance-sheet",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "AKBAR'S FOOTHOLD AND ITS LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "BERAR, BALAGHAT, AHMADNAGAR FORT AND KHANDESH-ASIRGARH",
+          "role": "outcome"
+        },
+        {
+          "text": "DIPLOMACY FIRST, THEN FORCE THROUGH SUCCESSION OPPORTUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTES, PRESTIGE, REVENUE CLAIMS AND A DECCAN ENTRY PLATFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "BIJAPUR AND GOLCONDA REMAIN OUTSIDE DIRECT MUGHAL RULE",
+          "role": "primary"
+        },
+        {
+          "text": "A CAPTURED FORT DOES NOT SECURE COUNTRYSIDE OR LOCAL",
+          "role": "caution"
+        },
+        {
+          "text": "MEANINGFUL FOOTHOLD, NOT CONQUEST OF THE WHOLE DECCAN.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GAIN → Berar, Balaghat, Ahmadnagar fort and Khandesh-Asirgarh",
+        "STRATEGY → diplomacy first, then force through succession opportunity",
+        "VALUE → routes, prestige, revenue claims and a Deccan entry platform",
+        "LIMIT → Bijapur and Golconda remain outside direct Mughal rule",
+        "LIMIT → a captured fort does not secure countryside or local loyalty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GAIN → Berar, Balaghat, Ahmadnagar fort and Khandesh-Asirgarh",
+            "STRATEGY → diplomacy first, then force through succession opportunity"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VALUE → routes, prestige, revenue claims and a Deccan entry platform",
+            "LIMIT → Bijapur and Golconda remain outside direct Mughal rule"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → a captured fort does not secure countryside or local loyalty",
+            "VERDICT: meaningful foothold, not conquest of the whole Deccan."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: meaningful foothold, not conquest of the whole Deccan.",
+      "answer_line": "meaningful foothold, not conquest of the whole Deccan.",
+      "source_references": [
+        "Akbar",
+        "1591 missions",
+        "Ahmadnagar",
+        "Asirgarh",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MALIK AMBAR'S RESISTANCE ENGINE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MALIK AMBAR'S RESISTANCE ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "NIZAM SHAHI CLAIMANT AND AHMADNAGAR STATE FRAME",
+          "role": "institution"
+        },
+        {
+          "text": "HABSHI POLITICAL AND MILITARY ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MARATHA BARGIS, LOCAL CHIEFS AND SHIFTING BIJAPUR SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILITY, SUPPLY DISRUPTION, TERRAIN KNOWLEDGE AND NEGOTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTRIBUTED MEASUREMENT AND ZABTI-TYPE RECONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLIANCES SHIFT; SUCCESS DELAYS BUT DOES NOT PERMANENTLY SAVE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LEGITIMACY → Nizam Shahi claimant and Ahmadnagar state frame",
+        "LEADERSHIP → Habshi political and military organisation",
+        "COALITION → Maratha bargis, local chiefs and shifting Bijapur support",
+        "METHOD → mobility, supply disruption, terrain knowledge and negotiation",
+        "FISCAL BASE → attributed measurement and zabti-type reconstruction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LEGITIMACY → Nizam Shahi claimant and Ahmadnagar state frame",
+            "LEADERSHIP → Habshi political and military organisation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "COALITION → Maratha bargis, local chiefs and shifting Bijapur support",
+            "METHOD → mobility, supply disruption, terrain knowledge and negotiation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FISCAL BASE → attributed measurement and zabti-type reconstruction",
+            "LIMIT → alliances shift; success delays but does not permanently save the state."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → alliances shift; success delays but does not permanently save the state.",
+      "source_references": [
+        "Malik Ambar",
+        "Habshi",
+        "Bargi",
+        "Revenue policy",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WHY CONQUEST DID NOT EQUAL CONSOLIDATION",
+      "structural_type": "causal-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHY CONQUEST DID NOT EQUAL CONSOLIDATION",
+          "role": "caution"
+        },
+        {
+          "text": "DISTANCE + SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPLIES AND COMMUNICATIONS BECOME COSTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "FORT CAPTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "GARRISONS CONSUME MEN AND REVENUE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL INTERMEDIARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "INFORMATION AND COLLECTION REQUIRE BARGAINING",
+          "role": "comparison"
+        },
+        {
+          "text": "MOBILE COALITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTANCE + SEASON → supplies and communications become costly",
+        "FORT CAPTURE → garrisons consume men and revenue",
+        "LOCAL INTERMEDIARIES → information and collection require bargaining",
+        "MOBILE COALITIONS → attack routes and avoid set-piece weakness",
+        "NOMINAL REVENUE → differs from realised, usable surplus"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DISTANCE + SEASON → supplies and communications become costly",
+            "FORT CAPTURE → garrisons consume men and revenue"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LOCAL INTERMEDIARIES → information and collection require bargaining",
+            "MOBILE COALITIONS → attack routes and avoid set-piece weakness"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NOMINAL REVENUE → differs from realised, usable surplus",
+            "LOOP: incomplete control creates resistance, cost and renewed intervention."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOOP: incomplete control creates resistance, cost and renewed intervention.",
+      "source_references": [
+        "State capacity",
+        "Logistics",
+        "Intermediaries",
+        "Revenue",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JAHANGIR: RECOVERY WITH RESTRAINT",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RECOVERY WITH RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "AMBAR HAS REVERSED MUCH OF AKBAR'S POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMAND PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVAL MUGHAL FORCES STRUGGLE TO COORDINATE",
+          "role": "evidence"
+        },
+        {
+          "text": "KHAN-I-KHANAN AND PRINCE KHURRAM RECOVER GROUND",
+          "role": "primary"
+        },
+        {
+          "text": "ATTEMPTS TO DETACH ALLIES AND RECOGNISE NEGOTIATED HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "JAHANGIR DOES NOT CONVERT VICTORY INTO UNLIMITED EXPANSION",
+          "role": "caution"
+        },
+        {
+          "text": "LIMITED COMMITMENT CAN BE POLICY, NOT SIMPLE MILITARY WEAKNESS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INHERITANCE → Ambar has reversed much of Akbar's position",
+        "COMMAND PROBLEM → rival Mughal forces struggle to coordinate",
+        "1616-17 → Khan-i-Khanan and Prince Khurram recover ground",
+        "DIPLOMACY → attempts to detach allies and recognise negotiated hierarchy",
+        "CHOICE → Jahangir does not convert victory into unlimited expansion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INHERITANCE → Ambar has reversed much of Akbar's position",
+            "COMMAND PROBLEM → rival Mughal forces struggle to coordinate"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "1616-17 → Khan-i-Khanan and Prince Khurram recover ground",
+            "DIPLOMACY → attempts to detach allies and recognise negotiated hierarchy"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CHOICE → Jahangir does not convert victory into unlimited expansion",
+            "VERDICT: limited commitment can be policy, not simple military weakness."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: limited commitment can be policy, not simple military weakness.",
+      "answer_line": "limited commitment can be policy, not simple military weakness.",
+      "source_references": [
+        "Jahangir",
+        "Prince Khurram",
+        "Khan-i-Khanan",
+        "Restraint",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE PRE-SHIVAJI MARATHA BRIDGE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE PRE-SHIVAJI MARATHA BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL REVENUE, ARMED FOLLOWING AND TERRITORIAL KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILE CAVALRY SERVING CHANGING DECCAN COALITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "MALIK AMBAR",
+          "role": "evidence"
+        },
+        {
+          "text": "CREATES OPPORTUNITIES, TRAINING AND BARGAINING SPACE",
+          "role": "primary"
+        },
+        {
+          "text": "MOVES ACROSS NIZAM SHAHI, BIJAPURI AND MUGHAL SERVICE FIELDS",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPABILITY AND CONFIDENCE GROW BEFORE A MATURE MARATHA STATE",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT PROJECT LATER NATIONALISM OR SHIVAJI'S POLITY BACKWARD.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DESHMUKHS → local revenue, armed following and territorial knowledge",
+        "BARGIS → mobile cavalry serving changing Deccan coalitions",
+        "MALIK AMBAR → creates opportunities, training and bargaining space",
+        "SHAHJI → moves across Nizam Shahi, Bijapuri and Mughal service fields",
+        "RESULT → capability and confidence grow before a mature Maratha state"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DESHMUKHS → local revenue, armed following and territorial knowledge",
+            "BARGIS → mobile cavalry serving changing Deccan coalitions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MALIK AMBAR → creates opportunities, training and bargaining space",
+            "SHAHJI → moves across Nizam Shahi, Bijapuri and Mughal service fields"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RESULT → capability and confidence grow before a mature Maratha state",
+            "BOUNDARY: do not project later nationalism or Shivaji's polity backward."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → capability and confidence grow before a mature Maratha state.",
+      "source_references": [
+        "Maratha bridge",
+        "Deshmukhs",
+        "Bargis",
+        "Shahji",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DAULATABAD AND THE 1636 SETTLEMENT",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DAULATABAD AND THE 1636 SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DAULATABAD FALLS; NIZAM SHAHI DYNASTY IS EXTINGUISHED",
+          "role": "outcome"
+        },
+        {
+          "text": "SUZERAINTY, INDEMNITY, ARBITRATION AND A SHAHJI CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "KHUTBA AND TRIBUTE UNDER MUGHAL PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "BUFFER LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL STATES RETAIN INITIATIVE WHILE DIRECT COSTS STAY LOWER",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCE MAKES THE HIERARCHY POSSIBLE; PARTIES ARE NOT EQUALS",
+          "role": "caution"
+        },
+        {
+          "text": "PRAGMATIC INSTITUTIONAL DESIGN, NOT FULL DECCAN ANNEXATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1633 → Daulatabad falls; Nizam Shahi dynasty is extinguished",
+        "BIJAPUR → suzerainty, indemnity, arbitration and a Shahji condition",
+        "GOLCONDA → khutba and tribute under Mughal protection",
+        "BUFFER LOGIC → local states retain initiative while direct costs stay lower",
+        "COERCION → force makes the hierarchy possible; parties are not equals"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "1633 → Daulatabad falls; Nizam Shahi dynasty is extinguished",
+          "BUFFER LOGIC → local states retain initiative while direct costs stay lower",
+          "CLOSE DISTINCTION: Campaign, treaty, tribute, elite defection and revenue logistics were linked but not interchangeable mechanisms."
+        ],
+        [
+          "BIJAPUR → suzerainty, indemnity, arbitration and a Shahji condition",
+          "COERCION → force makes the hierarchy possible; parties are not equals",
+          ""
+        ],
+        [
+          "GOLCONDA → khutba and tribute under Mughal protection",
+          "VERDICT: pragmatic institutional design, not full Deccan annexation.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "1633 → Daulatabad falls; Nizam Shahi dynasty is extinguished",
+            "BIJAPUR → suzerainty, indemnity, arbitration and a Shahji condition",
+            "GOLCONDA → khutba and tribute under Mughal protection"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BUFFER LOGIC → local states retain initiative while direct costs stay lower",
+            "COERCION → force makes the hierarchy possible; parties are not equals",
+            "VERDICT: pragmatic institutional design, not full Deccan annexation."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE DISTINCTION: Campaign, treaty, tribute, elite defection and revenue logistics were linked but not interchangeable mechanisms."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: pragmatic institutional design, not full Deccan annexation.",
+      "answer_line": "CLOSE DISTINCTION: Campaign, treaty, tribute, elite defection and revenue logistics were linked but not interchangeable mechanisms.",
+      "source_references": [
+        "Daulatabad",
+        "Bijapur",
+        "Golconda",
+        "1636 treaties",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WHY THE 1656-57 COMPACT BROKE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY THE 1656-57 COMPACT BROKE",
+          "role": "primary"
+        },
+        {
+          "text": "STABLE EXPECTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRIBUTE, PROTECTION, ARBITRATION AND BUFFER AUTONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTHERN GROWTH",
+          "role": "evidence"
+        },
+        {
+          "text": "BIJAPUR AND GOLCONDA GAIN RESOURCES AND CONFIDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "MUGHAL PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL CLAIMS, COMPENSATION AND TERRITORIAL DEMANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "MIR JUMLA AND SUCCESSION DISPUTES CREATE INTERVENTION OPENINGS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STABLE EXPECTATION → tribute, protection, arbitration and buffer autonomy",
+        "SOUTHERN GROWTH → Bijapur and Golconda gain resources and confidence",
+        "MUGHAL PRESSURE → fiscal claims, compensation and territorial demands",
+        "CRISIS → Mir Jumla and succession disputes create intervention openings",
+        "EFFECT → trust in the 1636 bargain weakens before the later wars"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "STABLE EXPECTATION → tribute, protection, arbitration and buffer autonomy",
+            "SOUTHERN GROWTH → Bijapur and Golconda gain resources and confidence",
+            "MUGHAL PRESSURE → fiscal claims, compensation and territorial demands"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CRISIS → Mir Jumla and succession disputes create intervention openings",
+            "EFFECT → trust in the 1636 bargain weakens before the later wars",
+            "BOUNDARY: stop at 1657; do not import Aurangzeb's mature annexations."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE LIMIT: Imperial annexation claims must be separated from durable control and from the agency of Deccani states and elites."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Imperial annexation claims must be separated from durable control and from the agency of Deccani states and elites.",
+      "source_references": [
+        "1656 Golconda",
+        "1657 Bijapur",
+        "Treaty credibility",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 18 FINAL ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 18 FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MUGHAL POLICY EVOLVED WITHIN A CONNECTED BUT COSTLY FRONTIER",
+          "role": "outcome"
+        },
+        {
+          "text": "SUZERAINTY DIPLOMACY, SELECTIVE FORCE AND AN INCOMPLETE FOOTHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "COALITION, MOBILITY AND LOCAL CAPACITY EXPOSE IMPERIAL LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOVERY JOINED TO DELIBERATE RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "SHAH JAHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "1633 EXTINCTION, 1636 BUFFERS AND 1656-57 BREACH",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANSION GAINED LEVERAGE BUT REPEATEDLY OUTRAN DURABLE CONTROL.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → Mughal policy evolved within a connected but costly frontier",
+        "AKBAR → suzerainty diplomacy, selective force and an incomplete foothold",
+        "AMBAR → coalition, mobility and local capacity expose imperial limits",
+        "JAHANGIR → recovery joined to deliberate restraint",
+        "SHAH JAHAN → 1633 extinction, 1636 buffers and 1656-57 breach"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → Mughal policy evolved within a connected but costly frontier",
+            "AKBAR → suzerainty diplomacy, selective force and an incomplete foothold"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AMBAR → coalition, mobility and local capacity expose imperial limits",
+            "JAHANGIR → recovery joined to deliberate restraint"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SHAH JAHAN → 1633 extinction, 1636 buffers and 1656-57 breach",
+            "CLOSE → expansion gained leverage but repeatedly outran durable control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → expansion gained leverage but repeatedly outran durable control.",
+      "source_references": [
+        "Answer architecture",
+        "Policy evolution",
+        "Qualified verdict",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\18_Deccan-and-the-Mughals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-18\\g3\\medieval-indian-history-18_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART V - ADVANCED EVIDENCE LABS",
+          "role": "evidence"
+        },
+        {
+          "text": "HOW TO REASON, NOT MERELY RECALL",
+          "role": "caution"
+        },
+        {
+          "text": "LAB 1. READING A POLITICAL MAP WITHOUT TURNING IT",
+          "role": "evidence"
+        },
+        {
+          "text": "LAB 2. TURNING FACTIONALISM INTO EXPLANATION WITHOUT MAKING IT",
+          "role": "primary"
+        },
+        {
+          "text": "LAB 3. CHAND BIBI AS A CASE OF CONSTRAINED",
+          "role": "outcome"
+        },
+        {
+          "text": "LAB 4. MALIK AMBAR",
+          "role": "comparison"
+        },
+        {
+          "text": "TESTING THE PHRASE 'RESISTANCE'",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "PART V - ADVANCED EVIDENCE LABS: HOW TO REASON, NOT MERELY RECALL",
+            "Lab 1. Reading a political map without turning it into a modern border map",
+            "Lab 2. Turning factionalism into explanation without making it a stereotype",
+            "Lab 3. Chand Bibi as a case of constrained political agency"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Lab 4. Malik Ambar: testing the phrase 'resistance'",
+            "Lab 5. Revenue claims: how to avoid false precision",
+            "Lab 6. Shah Jahan's 1636 settlement as institutional design",
+            "Lab 7. Why the 1656-57 breach was more than a new campaign"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Lab 8. A source-method answer can be a state-capacity answer",
+            "Lab 9. Portuguese pressure: strategic context, not a diversion into maritime history",
+            "Lab 10. Comparing three emperors without flattening policy into personality",
+            "Lab 11. Annexation, revenue potential and realised control"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

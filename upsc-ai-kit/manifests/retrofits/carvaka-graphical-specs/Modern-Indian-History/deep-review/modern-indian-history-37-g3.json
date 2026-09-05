@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-37",
+  "subject": "Modern-Indian-History",
+  "title": "THE RAJIV YEARS & THE RUN-UP TO THE MILLENNIUM",
+  "short_route": "THE 1984 MANDATE AND → THE 1985 ACCORDS AND → THE TWIN IDENTITY CONCESSIONS → BOFORS AND THE EXIT → 1989: FRAGMENTATION OF THE → MANDAL, 1990: THE CASTE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-37-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "f4476cfa2235cf10a4656f1ccb5a24af6a256dea0f45580afb970462d95751ad",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE 1984 MANDATE AND MODERNISING AGENDA",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE 1984 MANDATE AND MODERNISING AGENDA",
+          "role": "primary"
+        },
+        {
+          "text": "DECEMBER 1984; RAJIV GANDHI WINS 404 OF 514 ELECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "TELECOM, COMPUTERISATION, SCIENCE MISSIONS, PANCHAYATI RAJ",
+          "role": "comparison"
+        },
+        {
+          "text": "PANCHAYATI RAJ NOT YET CONSTITUTIONAL; THAT COMES IN THE",
+          "role": "caution"
+        },
+        {
+          "text": "THE LARGEST MANDATE IN INDIAN ELECTORAL HISTORY TO DATE",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJIV GANDHI'S DECEMBER 1984 VICTORY (CONGRESS 404 OF 514",
+          "role": "comparison"
+        },
+        {
+          "text": "52ND AMENDMENT AND PUNJAB/ASSAM ACCORDS OF 1985, SHAH BANO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MANDATE → DECEMBER 1984; RAJIV GANDHI wins 404 of 514 elected seats",
+        "AGENDA → telecom, computerisation, science missions, panchayati raj",
+        "CAUTION → panchayati raj not yet constitutional; that comes in the 1990s",
+        "SIGNIFICANCE → the largest mandate in Indian electoral history to date",
+        "MUST REMEMBER: Rajiv Gandhi's December 1984 victory (Congress 404 of 514 elected seats), the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MANDATE → DECEMBER 1984; RAJIV GANDHI wins 404 of 514 elected seats",
+            "AGENDA → telecom, computerisation, science missions, panchayati raj",
+            "CAUTION → panchayati raj not yet constitutional; that comes in the 1990s"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIGNIFICANCE → the largest mandate in Indian electoral history to date",
+            "MUST REMEMBER: Rajiv Gandhi's December 1984 victory (Congress 404 of 514 elected seats), the",
+            "52nd Amendment and Punjab/Assam accords of 1985, Shah Bano reversal and Bofors controversy, the"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1989 National Front coalition, Mandal implementation and Advani's rath yatra in 1990, the 1991",
+            "reforms, Babri Masjid demolition on 6 December 1992 and coalition governments from",
+            "1996 form separate stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "52nd Amendment and Punjab/Assam accords of 1985, Shah Bano reversal and Bofors controversy, the 1989 National Front coalition, Mandal implementation and Advani's rath yatra in 1990, the 1991 reforms, Babri Masjid demolition on 6 December 1992 and coalition governments from.",
+      "source_references": [
+        "Rajiv Gandhi's 1984 mandate and modernising agenda",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE 1985 ACCORDS AND THE ANTI-DEFECTION ACT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE 1985 ACCORDS AND THE ANTI-DEFECTION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PUNJAB ACCORD",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJIV GANDHI AND HARCHAND SINGH LONGOWAL, 1985",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSAM AND MIZORAM ACCORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALSO SETTLED IN 1985",
+          "role": "primary"
+        },
+        {
+          "text": "ANTI-DEFECTION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "52ND CONSTITUTIONAL AMENDMENT, 1985",
+          "role": "comparison"
+        },
+        {
+          "text": "THREE INHERITED REGIONAL CRISES ADDRESSED BY NEGOTIATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUNJAB ACCORD → Rajiv Gandhi and Harchand Singh Longowal, 1985",
+        "ASSAM AND MIZORAM ACCORDS → also settled in 1985",
+        "ANTI-DEFECTION ACT → 52nd Constitutional Amendment, 1985",
+        "EFFECT → three inherited regional crises addressed by negotiation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUNJAB ACCORD → Rajiv Gandhi and Harchand Singh Longowal, 1985",
+            "ASSAM AND MIZORAM ACCORDS → also settled in 1985"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANTI-DEFECTION ACT → 52nd Constitutional Amendment, 1985",
+            "EFFECT → three inherited regional crises addressed by negotiation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PUNJAB ACCORD → Rajiv Gandhi and Harchand Singh Longowal, 1985",
+            "ASSAM AND MIZORAM ACCORDS → also settled in 1985"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → three inherited regional crises addressed by negotiation.",
+      "source_references": [
+        "The 1985 accords and the Anti-Defection Act",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE TWIN IDENTITY CONCESSIONS",
+      "structural_type": "cause-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE TWIN IDENTITY CONCESSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CONCESSION 1",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAH BANO REVERSAL, 1985-86, CONSERVATIVE PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCESSION 2",
+          "role": "evidence"
+        },
+        {
+          "text": "AYODHYA SHRINE OPENING, MEANT TO BALANCE CONCESSION 1",
+          "role": "primary"
+        },
+        {
+          "text": "BOTH COMMUNITIES ALIENATED, NOT BALANCED",
+          "role": "caution"
+        },
+        {
+          "text": "SYMBOLIC CONCESSIONS TO TWO SIDES DO NOT CANCEL; THEY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONCESSION 1 → Shah Bano reversal, 1985-86, conservative pressure",
+        "CONCESSION 2 → Ayodhya shrine opening, meant to balance concession 1",
+        "RESULT → both communities alienated, not balanced",
+        "LESSON → symbolic concessions to two sides do not cancel; they mobilise both"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONCESSION 1 → Shah Bano reversal, 1985-86, conservative pressure",
+            "CONCESSION 2 → Ayodhya shrine opening, meant to balance concession 1"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → both communities alienated, not balanced",
+            "LESSON → symbolic concessions to two sides do not cancel; they mobilise both"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCESSION 1 → Shah Bano reversal, 1985-86, conservative pressure",
+            "CONCESSION 2 → Ayodhya shrine opening, meant to balance concession 1"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → symbolic concessions to two sides do not cancel; they mobilise both.",
+      "source_references": [
+        "The Shah Bano reversal and the Ayodhya shrine opening",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BOFORS AND THE EXIT OF V.P. SINGH",
+      "structural_type": "cause-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BOFORS AND THE EXIT OF V.P. SINGH",
+          "role": "primary"
+        },
+        {
+          "text": "BOFORS SCANDAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BREAKS IN 1987; WRECKS RAJIV GANDHI'S \"MR CLEAN\" IMAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "V.P. SINGH",
+          "role": "evidence"
+        },
+        {
+          "text": "EXITS CONGRESS; FORMS THE JAN MORCHA, 1987",
+          "role": "primary"
+        },
+        {
+          "text": "NEXT STEP",
+          "role": "outcome"
+        },
+        {
+          "text": "JANATA DAL",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL FRONT FORMED, 1988",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BOFORS SCANDAL → breaks in 1987; wrecks Rajiv Gandhi's \"Mr Clean\" image",
+        "V.P. SINGH → exits Congress; forms the JAN MORCHA, 1987",
+        "NEXT STEP → JANATA DAL / NATIONAL FRONT formed, 1988",
+        "OUTCOME → Congress's own clean-government idiom turned against it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BOFORS SCANDAL → breaks in 1987; wrecks Rajiv Gandhi's \"Mr Clean\" image",
+            "V.P. SINGH → exits Congress; forms the JAN MORCHA, 1987"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEXT STEP → JANATA DAL / NATIONAL FRONT formed, 1988",
+            "OUTCOME → Congress's own clean-government idiom turned against it"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOFORS SCANDAL → breaks in 1987; wrecks Rajiv Gandhi's \"Mr Clean\" image",
+            "V.P. SINGH → exits Congress; forms the JAN MORCHA, 1987"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → Congress's own clean-government idiom turned against it.",
+      "source_references": [
+        "Bofors and V.P. Singh's exit",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "1989: FRAGMENTATION OF THE PARTY SYSTEM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FRAGMENTATION OF THE PARTY SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "FALLS FROM THE 1984 RECORD TO ABOUT 197 SEATS",
+          "role": "outcome"
+        },
+        {
+          "text": "RISES FROM 2 SEATS (1984) TO 86 SEATS (1989)",
+          "role": "comparison"
+        },
+        {
+          "text": "V.P. SINGH'S NATIONAL FRONT, A MINORITY GOVERNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM OUTSIDE, BY BOTH THE BJP AND THE LEFT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CONGRESS → falls from the 1984 record to about 197 seats",
+        "BJP → rises from 2 seats (1984) to 86 seats (1989)",
+        "GOVERNMENT → V.P. Singh's National Front, a MINORITY government",
+        "SUPPORT → from OUTSIDE, by both the BJP and the Left"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONGRESS → falls from the 1984 record to about 197 seats",
+          "GOVERNMENT → V.P. Singh's National Front, a MINORITY government",
+          "CONGRESS → falls from the 1984 record to about 197 seats"
+        ],
+        [
+          "BJP → rises from 2 seats (1984) to 86 seats (1989)",
+          "SUPPORT → from OUTSIDE, by both the BJP and the Left",
+          "BJP → rises from 2 seats (1984) to 86 seats (1989)"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS → falls from the 1984 record to about 197 seats",
+            "BJP → rises from 2 seats (1984) to 86 seats (1989)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOVERNMENT → V.P. Singh's National Front, a MINORITY government",
+            "SUPPORT → from OUTSIDE, by both the BJP and the Left"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONGRESS → falls from the 1984 record to about 197 seats",
+            "BJP → rises from 2 seats (1984) to 86 seats (1989)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUPPORT → from OUTSIDE, by both the BJP and the Left.",
+      "source_references": [
+        "The 1989 election and party-system fragmentation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MANDAL, 1990: THE CASTE AXIS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MANDAL, 1990",
+          "role": "primary"
+        },
+        {
+          "text": "THE CASTE AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "MANDAL COMMISSION RECOMMENDATIONS IMPLEMENTED, 1990",
+          "role": "comparison"
+        },
+        {
+          "text": "27 PER CENT RESERVATION FOR OBCS IN CENTRAL GOVERNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVATION MOVES TOWARD ABOUT 49.5 PER CENT WITH SC/ST",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONWIDE AGITATION; OBC IDENTITY BECOMES AN ORGANISED BLOC",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "COMMISSION → Mandal Commission recommendations implemented, 1990",
+        "QUOTA → 27 per cent reservation for OBCs in central government jobs",
+        "TOTAL → reservation moves toward about 49.5 per cent with SC/ST quotas",
+        "EFFECT → nationwide agitation; OBC identity becomes an organised bloc"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMISSION → Mandal Commission recommendations implemented, 1990",
+            "QUOTA → 27 per cent reservation for OBCs in central government jobs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TOTAL → reservation moves toward about 49.5 per cent with SC/ST quotas",
+            "EFFECT → nationwide agitation; OBC identity becomes an organised bloc"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMISSION → Mandal Commission recommendations implemented, 1990",
+            "QUOTA → 27 per cent reservation for OBCs in central government jobs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → nationwide agitation; OBC identity becomes an organised bloc.",
+      "source_references": [
+        "The Mandal Commission, 1990",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MANDIR, 1990: THE RELIGIOUS AXIS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MANDIR, 1990",
+          "role": "primary"
+        },
+        {
+          "text": "THE RELIGIOUS AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANI'S RATH YATRA, 1990, INTENSIFIES AYODHYA AGITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RUNS ALONGSIDE, AND COMPETES WITH, THE MANDAL ANNOUNCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "BABRI MASJID DEMOLISHED, 6 DECEMBER 1992",
+          "role": "primary"
+        },
+        {
+          "text": "HINDUTVA MOBILISATION BECOMES A NATIONAL ELECTORAL FORCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MOBILISATION → Advani's rath yatra, 1990, intensifies Ayodhya agitation",
+        "PARALLEL → runs alongside, and competes with, the Mandal announcement",
+        "CULMINATION → Babri Masjid demolished, 6 DECEMBER 1992",
+        "EFFECT → Hindutva mobilisation becomes a national electoral force"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOBILISATION → Advani's rath yatra, 1990, intensifies Ayodhya agitation",
+            "PARALLEL → runs alongside, and competes with, the Mandal announcement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CULMINATION → Babri Masjid demolished, 6 DECEMBER 1992",
+            "EFFECT → Hindutva mobilisation becomes a national electoral force"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MOBILISATION → Advani's rath yatra, 1990, intensifies Ayodhya agitation",
+            "PARALLEL → runs alongside, and competes with, the Mandal announcement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → Hindutva mobilisation becomes a national electoral force.",
+      "source_references": [
+        "Advani's rath yatra and the Babri Masjid demolition",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SYSTEM-CHANGE ENGINE: 1984 TO 1999",
+      "structural_type": "flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SYSTEM-CHANGE ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "1984 TO 1999",
+          "role": "outcome"
+        },
+        {
+          "text": "SINGLE-PARTY RECORD MAJORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY MISJUDGEMENTS PLUS BOFORS ERODE SUPPORT; 1989 FRAGMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "MANDAL (CASTE) AND MANDIR (RELIGION) MOBILISE DIFFERENTLY",
+          "role": "primary"
+        },
+        {
+          "text": "CRISIS-LED REFORM, THEN COALITION GOVERNMENT AS THE NORMAL FORM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1984 → single-party record majority",
+        "1985-89 → identity misjudgements plus Bofors erode support; 1989 fragments",
+        "1990 → Mandal (caste) and Mandir (religion) mobilise differently",
+        "1991-99 → crisis-led reform, then coalition government as the normal form"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1984 → single-party record majority",
+            "1985-89 → identity misjudgements plus Bofors erode support; 1989 fragments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1990 → Mandal (caste) and Mandir (religion) mobilise differently",
+            "1991-99 → crisis-led reform, then coalition government as the normal form"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1984 → single-party record majority",
+            "1985-89 → identity misjudgements plus Bofors erode support; 1989 fragments"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1991-99 → crisis-led reform, then coalition government as the normal form.",
+      "source_references": [
+        "The system-change engine, 1984-1999",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "1991: THE ECONOMIC BREAK",
+      "structural_type": "cause-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE ECONOMIC BREAK",
+          "role": "primary"
+        },
+        {
+          "text": "NARASIMHA RAO TAKES OFFICE, 1991",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC LIBERALISATION, MANMOHAN SINGH AS FINANCE MINISTER",
+          "role": "comparison"
+        },
+        {
+          "text": "A BALANCE-OF-PAYMENTS CRISIS, NOT A PRIOR POLITICAL CONSENSUS",
+          "role": "caution"
+        },
+        {
+          "text": "RAJIV GANDHI ASSASSINATED DURING THE SAME ELECTION CAMPAIGN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT → Narasimha Rao takes office, 1991",
+        "POLICY → economic liberalisation, Manmohan Singh as Finance Minister",
+        "TRIGGER → a balance-of-payments crisis, not a prior political consensus",
+        "CONCURRENT → Rajiv Gandhi assassinated during the same election campaign"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOVERNMENT → Narasimha Rao takes office, 1991",
+            "POLICY → economic liberalisation, Manmohan Singh as Finance Minister"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRIGGER → a balance-of-payments crisis, not a prior political consensus",
+            "CONCURRENT → Rajiv Gandhi assassinated during the same election campaign"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOVERNMENT → Narasimha Rao takes office, 1991",
+            "POLICY → economic liberalisation, Manmohan Singh as Finance Minister"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCURRENT → Rajiv Gandhi assassinated during the same election campaign.",
+      "source_references": [
+        "1991: the economic break",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE COALITION DECADE, 1996-99",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE COALITION DECADE, 1996-99",
+          "role": "primary"
+        },
+        {
+          "text": "A SHORT BJP GOVERNMENT UNDER ATAL BIHARI VAJPAYEE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITED FRONT GOVERNMENTS, DEVE GOWDA THEN GUJRAL",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL DEMOCRATIC ALLIANCE (NDA) FORMED, UNDER VAJPAYEE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE NDA CONSOLIDATED AFTER THE GENERAL ELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ANTI-DEFECTION ACT BELONGS TO RAJIV'S 1985 GOVERNMENT, THE",
+          "role": "institution"
+        },
+        {
+          "text": "MANDAL MEASURE CONCERNED OBC RESERVATION IN CENTRAL GOVERNMENT EMPLOYMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1996 → a short BJP government under Atal Bihari Vajpayee",
+        "1996-98 → United Front governments, Deve Gowda then Gujral",
+        "1998 → National Democratic Alliance (NDA) formed, under Vajpayee",
+        "1999 → the NDA consolidated after the general election",
+        "CLOSE DISTINCTION: The Anti-Defection Act belongs to Rajiv's 1985 government, the 27-per-cent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1996 → a short BJP government under Atal Bihari Vajpayee",
+            "1996-98 → United Front governments, Deve Gowda then Gujral",
+            "1998 → National Democratic Alliance (NDA) formed, under Vajpayee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1999 → the NDA consolidated after the general election",
+            "CLOSE DISTINCTION: The Anti-Defection Act belongs to Rajiv's 1985 government, the 27-per-cent",
+            "Mandal measure concerned OBC reservation in central government employment, the 1991 reforms were crisis-led under Narasimha"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Rao and Manmohan Singh, and 1990's yatra must not be confused with the 1992 demolition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Mandal measure concerned OBC reservation in central government employment, the 1991 reforms were crisis-led under Narasimha Rao and Manmohan Singh, and 1990's yatra must not be confused with the 1992 demolition.",
+      "source_references": [
+        "The coalition decade, 1996-1999",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMPARATIVE CLEAVAGES: MANDAL VERSUS MANDIR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARATIVE CLEAVAGES",
+          "role": "primary"
+        },
+        {
+          "text": "MANDAL VERSUS MANDIR",
+          "role": "comparison"
+        },
+        {
+          "text": "1990 (YATRA), 1992 (DEMOLITION)",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSSING LINES; NEITHER YIELDS A NATIONAL MAJORITY ALONE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ELECTION RETURNS, AMENDMENT AND ACCORD TEXTS, COURT-LEGISLATIVE SEQUENCES, BUDGET/REFORM",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "1990 (yatra), 1992 (demolition)",
+        "crossing lines; neither yields a national majority alone",
+        "EVIDENCE LIMIT: Election returns, amendment and accord texts, court-legislative sequences, budget/reform documents and attributed 'Mandal",
+        "and Market' interpretation must qualify both a simple modernisation story and a communal or caste-essentialist"
+      ],
+      "matrix": [
+        [
+          "AXIS",
+          "MANDAL",
+          "MANDIR"
+        ],
+        [
+          "CLEAVAGE",
+          "caste",
+          "religion"
+        ],
+        [
+          "YEAR",
+          "1990",
+          "1990 (yatra), 1992 (demolition)"
+        ],
+        [
+          "RESULT",
+          "crossing lines; neither yields a national majority alone",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1990 (yatra), 1992 (demolition)",
+            "crossing lines; neither yields a national majority alone"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE LIMIT: Election returns, amendment and accord texts, court-legislative sequences, budget/reform documents and attributed 'Mandal, Mandir",
+            "and Market' interpretation must qualify both a simple modernisation story and a communal or caste-essentialist account."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1990 (yatra), 1992 (demolition)",
+            "crossing lines; neither yields a national majority alone"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT | crossing lines; neither yields a national majority alone.",
+      "source_references": [
+        "Comparative cleavages: Mandal versus Mandir",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "THREE-TRANSITIONS THESIS",
+      "structural_type": "argument-tree",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "THREE-TRANSITIONS THESIS",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSITION 1",
+          "role": "outcome"
+        },
+        {
+          "text": "SINGLE-PARTY MAJORITY TO COALITION GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITION 2",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE-LED PLANNING TO A LIBERALISED ECONOMY",
+          "role": "institution"
+        },
+        {
+          "text": "TRANSITION 3",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS CROSS-CLASS CONSENSUS TO CASTE/RELIGIOUS IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE INTERACTION OF THE THREE EXPLAINS THE DECADE BEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRANSITION 1 → single-party majority to coalition government",
+        "TRANSITION 2 → state-led planning to a liberalised economy",
+        "TRANSITION 3 → Congress cross-class consensus to caste/religious identity",
+        "VERDICT → the interaction of the three explains the decade best"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRANSITION 1 → single-party majority to coalition government",
+            "TRANSITION 2 → state-led planning to a liberalised economy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSITION 3 → Congress cross-class consensus to caste/religious identity",
+            "VERDICT → the interaction of the three explains the decade best"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRANSITION 1 → single-party majority to coalition government",
+            "TRANSITION 2 → state-led planning to a liberalised economy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → the interaction of the three explains the decade best.",
+      "source_references": [
+        "The three-transitions thesis, 1989-1999",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g3\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RAJIV'S TECHNOCRATIC MODERNISATION (TELECOM, COMPUTERS, SCIENCE MISSIONS, PANCHAYATI RAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SHIFT AWAY FROM THE CLOSED NEHRUVIAN MODEL, PREFIGURING",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICALLY, HOWEVER, HIS OVER-CENTRALISATION, DEPENDENCE ON ADVISERS AND WEAK",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTY CONTROL REPLICATED HIS MOTHER'S DE-INSTITUTIONALISATION WITHOUT HER MASS",
+          "role": "primary"
+        },
+        {
+          "text": "THE SHAH BANO REVERSAL (1986) AND THE AYODHYA SHRINE",
+          "role": "outcome"
+        },
+        {
+          "text": "TO BALANCE COMMUNAL CONSTITUENCIES , WHICH INSTEAD ENERGISED BOTH",
+          "role": "comparison"
+        },
+        {
+          "text": "BOFORS (1987) CONVERTED AN ANTI-CORRUPTION PLANK AGAINST HIM, AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Rajiv's technocratic modernisation (telecom, computers, science missions, panchayati raj, literacy) began",
+            "the shift away from the closed Nehruvian model, prefiguring 1991.",
+            "CAUTION: Politically, however, his over-centralisation, dependence on advisers and weak",
+            "party control replicated his mother's de-institutionalisation without her mass authority."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The Shah Bano reversal (1986) and the Ayodhya shrine opening were a fatal attempt",
+            "to balance communal constituencies , which instead energised both Muslim conservatism and Hindu mobilisation.",
+            "Bofors (1987) converted an anti-corruption plank against him, and V.P.",
+            "Singh's Jan Morcha/National Front turned Congress's own \"clean government\" idiom into its nemesis."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Mandal Commission (1990) brought OBC assertion to the centre of national politics",
+            "the rath yatra (1990) and Babri demolition (1992) marked the ascent of Hindutva mobilisation .",
+            "1991 economic reforms (Rao–Manmohan) responded to a balance-of-payments crisis and",
+            "permanently altered the state–market relationship (developed in topic 38)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

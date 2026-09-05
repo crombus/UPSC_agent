@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T09:20:07+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "894d4b1749a83bcc5281192c2f96001fe0219799206d50daf7f386f6f461f229",
+    "sha256_after": "894d4b1749a83bcc5281192c2f96001fe0219799206d50daf7f386f6f461f229",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8920,
+    "pdf_count": 2307,
+    "png_count": 765,
+    "txt_count": 974,
+    "markdown_count": 1458,
+    "json_count": 3401,
+    "total_bytes": 4079406872,
+    "by_extension": {
+      ".json": 3401,
+      ".md": 1458,
+      ".pdf": 2307,
+      ".png": 765,
+      ".txt": 974,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-05",
+      "topic_title": "British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "modern-indian-history-05:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "4d50b254bcd4e3d2e48db911f411b4d6e5ea86fc77cfb29991ff38144c446610",
+          "output_sha256": "4d50b254bcd4e3d2e48db911f411b4d6e5ea86fc77cfb29991ff38144c446610",
+          "source_output_equal": true,
+          "bytes": 3755363
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3b9541a4b18e64b482e4da72f4bbc6698a63d2eb0907df3f3409b57ddf41ca43",
+          "output_sha256": "3b9541a4b18e64b482e4da72f4bbc6698a63d2eb0907df3f3409b57ddf41ca43",
+          "source_output_equal": true,
+          "bytes": 764390
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-05\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "6f44a1b7a92134dde48e2a51d98cf29fccc9c08d4835a76c937a7bb95ab6d17d",
+          "output_sha256": "6f44a1b7a92134dde48e2a51d98cf29fccc9c08d4835a76c937a7bb95ab6d17d",
+          "source_output_equal": true,
+          "bytes": 2346396
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-05\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c55c43ce18d8204b191c23038fe86f13330c6e206c437e9976dc53a3e750921c",
+          "output_sha256": "c55c43ce18d8204b191c23038fe86f13330c6e206c437e9976dc53a3e750921c",
+          "source_output_equal": true,
+          "bytes": 2781448
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-05\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "2f80c6111392ab89d2fc63471d9dd53e6d8d123d82be7b29e25b76285e968e8c",
+          "output_sha256": "2f80c6111392ab89d2fc63471d9dd53e6d8d123d82be7b29e25b76285e968e8c",
+          "source_output_equal": true,
+          "bytes": 2089608
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-05\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "392737ab92f002ffa79cbeaafa5398567c146ad2921f3e68adc5d045f104026c",
+          "output_sha256": "392737ab92f002ffa79cbeaafa5398567c146ad2921f3e68adc5d045f104026c",
+          "source_output_equal": true,
+          "bytes": 4982
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-05\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\05-British-Territorial-75e9a212-Alliance-and-Lapse\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "6fda5de25f1d04cbb67283a1d9e63588a90defeb67d5c222108dbfe21c77991e",
+          "output_sha256": "6fda5de25f1d04cbb67283a1d9e63588a90defeb67d5c222108dbfe21c77991e",
+          "source_output_equal": true,
+          "source_text_sha256": "392737ab92f002ffa79cbeaafa5398567c146ad2921f3e68adc5d045f104026c",
+          "normalized_text_equal": true,
+          "bytes": 57528
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 98,
+        "solved_practice_workbook": 35,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 98,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 35,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11036
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

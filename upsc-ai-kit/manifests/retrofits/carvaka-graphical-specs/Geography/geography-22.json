@@ -1,0 +1,1132 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-22",
+  "subject": "Geography",
+  "title": "COOL TEMPERATE WESTERN MARGIN BRITISH TYPE",
+  "short_route": "BRITISH-TYPE WORLD MAP \u2192 WESTERLY-OCEAN MECHANISM \u2192 ROCKIES-BARRIER CONTRAST \u2192 EAST-WEST ASYMMETRY DIAGRAM \u2192 FOUR-TYPE COMPARISON MATRIX \u2192 FOG-FISHERIES MECHANISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-22_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-22-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "8fe0dab73d842ca07ba16a67b1b21d6fb281cf3cc14623609f0f3e5952ce9a26",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BRITISH-TYPE WORLD MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BRITISH-TYPE WORLD MAP",
+          "role": "primary"
+        },
+        {
+          "text": "NW EUROPE",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITAIN, FRANCE, BELGIUM, NETHERLANDS, DENMARK, NORWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTH AMERICA",
+          "role": "evidence"
+        },
+        {
+          "text": "BRITISH COLUMBIA COAST (ROCKIES BLOCK INLAND)",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTHERN HEMISPHERE",
+          "role": "outcome"
+        },
+        {
+          "text": "S. CHILE, TASMANIA, NZ SOUTH ISLAND",
+          "role": "comparison"
+        },
+        {
+          "text": "LATITUDE BELT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NW EUROPE \u2192 Britain, France, Belgium, Netherlands, Denmark, Norway",
+        "NORTH AMERICA \u2192 British Columbia coast (Rockies block inland)",
+        "SOUTHERN HEMISPHERE \u2192 S. Chile, Tasmania, NZ South Island",
+        "LATITUDE BELT \u2192 about 45-65 degrees N and S"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NW EUROPE \u2192 Britain, France, Belgium, Netherlands, Denmark, Norway",
+            "NORTH AMERICA \u2192 British Columbia coast (Rockies block inland)"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTHERN HEMISPHERE \u2192 S. Chile, Tasmania, NZ South Island",
+            "LATITUDE BELT \u2192 about 45-65 degrees N and S"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "NW EUROPE \u2192 Britain, France, Belgium, Netherlands, Denmark, Norway",
+            "NORTH AMERICA \u2192 British Columbia coast (Rockies block inland)"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SOUTHERN HEMISPHERE \u2192 S. Chile, Tasmania, NZ South Island",
+            "LATITUDE BELT \u2192 about 45-65 degrees N and S"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATITUDE BELT \u2192 about 45-65 degrees N and S.",
+      "source_references": [
+        "British-type location and Westerlies"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WESTERLY-OCEAN MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WESTERLY-OCEAN MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PERMANENT ONSHORE FLOW FROM WARM OCEAN",
+          "role": "mechanism"
+        },
+        {
+          "text": "NORTH ATLANTIC DRIFT",
+          "role": "comparison"
+        },
+        {
+          "text": "WARM CURRENT ON SEAWARD SIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "CYCLONIC ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "TRAVELLING FRONTAL DEPRESSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "MILD WINTERS, COOL SUMMERS, SMALL ANNUAL RANGE, RAIN ALL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WESTERLIES \u2192 permanent onshore flow from warm ocean",
+        "NORTH ATLANTIC DRIFT \u2192 warm current on seaward side",
+        "CYCLONIC ACTIVITY \u2192 travelling frontal depressions",
+        "RESULT \u2192 mild winters, cool summers, small annual range, rain all year"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WESTERLIES \u2192 permanent onshore flow from warm ocean",
+            "NORTH ATLANTIC DRIFT \u2192 warm current on seaward side"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CYCLONIC ACTIVITY \u2192 travelling frontal depressions",
+            "RESULT \u2192 mild winters, cool summers, small annual range, rain all year"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WESTERLIES \u2192 permanent onshore flow from warm ocean",
+            "NORTH ATLANTIC DRIFT \u2192 warm current on seaward side"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT \u2192 mild winters, cool summers, small annual range, rain all year.",
+      "source_references": [
+        "Maritime temperature regime",
+        "Rainfall regime"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ROCKIES-BARRIER CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROCKIES-BARRIER CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "NW EUROPE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO MAJOR BARRIER, OCEANIC INFLUENCE FAR INLAND",
+          "role": "caution"
+        },
+        {
+          "text": "NORTH AMERICA",
+          "role": "evidence"
+        },
+        {
+          "text": "ROCKIES BLOCK WESTERLIES, NARROW BC COASTAL STRIP",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTHERN HEMISPHERE",
+          "role": "outcome"
+        },
+        {
+          "text": "NARROW LANDMASSES, STRONG MARITIME INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOUNTAIN BARRIERS AND LAND WIDTH DETERMINE INLAND REACH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NW EUROPE \u2192 no major barrier, oceanic influence far inland",
+        "NORTH AMERICA \u2192 Rockies block Westerlies, narrow BC coastal strip",
+        "SOUTHERN HEMISPHERE \u2192 narrow landmasses, strong maritime influence",
+        "CAUSE \u2192 mountain barriers and land width determine inland reach"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "NW EUROPE \u2192 no major barrier, oceanic influence far inland",
+          "SOUTHERN HEMISPHERE \u2192 narrow landmasses, strong maritime influence",
+          "NW EUROPE \u2192 no major barrier, oceanic influence far inland"
+        ],
+        [
+          "NORTH AMERICA \u2192 Rockies block Westerlies, narrow BC coastal strip",
+          "CAUSE \u2192 mountain barriers and land width determine inland reach",
+          "NORTH AMERICA \u2192 Rockies block Westerlies, narrow BC coastal strip"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NW EUROPE \u2192 no major barrier, oceanic influence far inland",
+            "NORTH AMERICA \u2192 Rockies block Westerlies, narrow BC coastal strip"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTHERN HEMISPHERE \u2192 narrow landmasses, strong maritime influence",
+            "CAUSE \u2192 mountain barriers and land width determine inland reach"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NW EUROPE \u2192 no major barrier, oceanic influence far inland",
+            "NORTH AMERICA \u2192 Rockies block Westerlies, narrow BC coastal strip"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUSE \u2192 mountain barriers and land width determine inland reach.",
+      "source_references": [
+        "NW European distribution",
+        "North American confinement"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EAST-WEST ASYMMETRY DIAGRAM",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EAST-WEST ASYMMETRY DIAGRAM",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "ONSHORE WESTERLIES, WARM CURRENT, MILD/SMALL RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN MARGIN",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFSHORE WESTERLIES, COLD CURRENT, COLD/LARGE RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN RAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL YEAR, AUTUMN-WINTER MAX, FRONTAL DEPRESSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN RAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WESTERN MARGIN \u2192 onshore Westerlies, warm current, mild/small range",
+        "EASTERN MARGIN \u2192 offshore Westerlies, cold current, cold/large range",
+        "WESTERN RAIN \u2192 all year, autumn-winter max, frontal depressions",
+        "EASTERN RAIN \u2192 summer max, winter snow, ports freeze"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "WESTERN MARGIN \u2192 onshore Westerlies, warm current, mild/small range",
+          "WESTERN RAIN \u2192 all year, autumn-winter max, frontal depressions",
+          "WESTERN MARGIN \u2192 onshore Westerlies, warm current, mild/small range"
+        ],
+        [
+          "EASTERN MARGIN \u2192 offshore Westerlies, cold current, cold/large range",
+          "EASTERN RAIN \u2192 summer max, winter snow, ports freeze",
+          "EASTERN MARGIN \u2192 offshore Westerlies, cold current, cold/large range"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WESTERN MARGIN \u2192 onshore Westerlies, warm current, mild/small range",
+            "EASTERN MARGIN \u2192 offshore Westerlies, cold current, cold/large range"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WESTERN RAIN \u2192 all year, autumn-winter max, frontal depressions",
+            "EASTERN RAIN \u2192 summer max, winter snow, ports freeze"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WESTERN MARGIN \u2192 onshore Westerlies, warm current, mild/small range",
+            "EASTERN MARGIN \u2192 offshore Westerlies, cold current, cold/large range"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EASTERN RAIN \u2192 summer max, winter snow, ports freeze.",
+      "source_references": [
+        "East-west asymmetry"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FOUR-TYPE COMPARISON MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-TYPE COMPARISON MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MILD WINTER, COOL SUMMER, SMALL RANGE, ALL-YEAR RAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "COLD WINTER, WARM SUMMER, LARGE RANGE, SUMMER RAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BITTERLY COLD WINTER, SHORT SUMMER, VERY LARGE RANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHINA TYPE",
+          "role": "primary"
+        },
+        {
+          "text": "COOL-COLD WINTER, HOT SUMMER, LARGE RANGE, MONSOON RAIN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BRITISH \u2192 mild winter, cool summer, small range, all-year rain",
+        "LAURENTIAN \u2192 cold winter, warm summer, large range, summer rain",
+        "SIBERIAN \u2192 bitterly cold winter, short summer, very large range",
+        "CHINA TYPE \u2192 cool-cold winter, hot summer, large range, monsoon rain"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "BRITISH \u2192 mild winter, cool summer, small range, all-year rain",
+          "SIBERIAN \u2192 bitterly cold winter, short summer, very large range",
+          "BRITISH \u2192 mild winter, cool summer, small range, all-year rain",
+          "SIBERIAN \u2192 bitterly cold winter, short summer, very large range"
+        ],
+        [
+          "LAURENTIAN \u2192 cold winter, warm summer, large range, summer rain",
+          "CHINA TYPE \u2192 cool-cold winter, hot summer, large range, monsoon rain",
+          "LAURENTIAN \u2192 cold winter, warm summer, large range, summer rain",
+          "CHINA TYPE \u2192 cool-cold winter, hot summer, large range, monsoon rain"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "BRITISH \u2192 mild winter, cool summer, small range, all-year rain",
+            "LAURENTIAN \u2192 cold winter, warm summer, large range, summer rain"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "SIBERIAN \u2192 bitterly cold winter, short summer, very large range",
+            "CHINA TYPE \u2192 cool-cold winter, hot summer, large range, monsoon rain"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "BRITISH \u2192 mild winter, cool summer, small range, all-year rain",
+            "LAURENTIAN \u2192 cold winter, warm summer, large range, summer rain"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "SIBERIAN \u2192 bitterly cold winter, short summer, very large range",
+            "CHINA TYPE \u2192 cool-cold winter, hot summer, large range, monsoon rain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHINA TYPE \u2192 cool-cold winter, hot summer, large range, monsoon rain.",
+      "source_references": [
+        "East-west asymmetry"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FOG-FISHERIES MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOG-FISHERIES MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "WARM CURRENT MEETS COLD CURRENT",
+          "role": "outcome"
+        },
+        {
+          "text": "AIR CHILLED FROM BELOW",
+          "role": "comparison"
+        },
+        {
+          "text": "DENSE PERSISTENT FOG (NAVIGATION HAZARD)",
+          "role": "evidence"
+        },
+        {
+          "text": "MIXING + NUTRIENT SUPPLY",
+          "role": "primary"
+        },
+        {
+          "text": "OVER BROAD SHALLOW CONTINENTAL SHELF",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJOR FISHING GROUND (BUT PRODUCTIVITY DEPENDS ON CATCH LEVELS)",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WARM CURRENT meets COLD CURRENT \u2192 air chilled from below",
+        "RESULT \u2192 dense persistent fog (navigation hazard)",
+        "MIXING + NUTRIENT SUPPLY \u2192 over broad shallow continental shelf",
+        "RESULT \u2192 major fishing ground (but productivity depends on catch levels)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WARM CURRENT meets COLD CURRENT \u2192 air chilled from below",
+            "RESULT \u2192 dense persistent fog (navigation hazard)"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MIXING + NUTRIENT SUPPLY \u2192 over broad shallow continental shelf",
+            "RESULT \u2192 major fishing ground (but productivity depends on catch levels)"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "WARM CURRENT meets COLD CURRENT \u2192 air chilled from below",
+            "RESULT \u2192 dense persistent fog (navigation hazard)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT \u2192 major fishing ground (but productivity depends on catch levels).",
+      "source_references": [
+        "Fog-and-fisheries mechanism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DECIDUOUS-VEGETATION IDENTITY",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DECIDUOUS-VEGETATION IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "OAK, ASH, BEECH, ELM, BIRCH",
+          "role": "comparison"
+        },
+        {
+          "text": "MIXED AND CONIFEROUS FOREST",
+          "role": "evidence"
+        },
+        {
+          "text": "TAIGA (BOREAL CONIFEROUS)",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "BRITISH TYPE IS DECIDUOUS, NOT CONIFEROUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BRITISH TYPE \u2192 deciduous: oak, ash, beech, elm, birch",
+        "LAURENTIAN \u2192 mixed and coniferous forest",
+        "SIBERIAN \u2192 taiga (boreal coniferous)",
+        "EXAM TRAP \u2192 British type is deciduous, NOT coniferous"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "BRITISH TYPE \u2192 deciduous: oak, ash, beech, elm, birch",
+            "LAURENTIAN \u2192 mixed and coniferous forest"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "SIBERIAN \u2192 taiga (boreal coniferous)",
+            "EXAM TRAP \u2192 British type is deciduous, NOT coniferous"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "BRITISH TYPE \u2192 deciduous: oak, ash, beech, elm, birch",
+            "LAURENTIAN \u2192 mixed and coniferous forest"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "SIBERIAN \u2192 taiga (boreal coniferous)",
+            "EXAM TRAP \u2192 British type is deciduous, NOT coniferous"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM TRAP \u2192 British type is deciduous, NOT coniferous.",
+      "source_references": [
+        "Deciduous forest vegetation"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MARITIME ECONOMY",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARITIME ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "DAIRYING + MIXED FARMING",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG GRASS-GROWING SEASON, RELIABLE MOISTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "ICE-FREE PORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "YEAR-ROUND TRADE AND SHIPPING",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPERATE CEREALS",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIABLE GROWING CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY INDUSTRIALISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DAIRYING + MIXED FARMING \u2192 long grass-growing season, reliable moisture",
+        "ICE-FREE PORTS \u2192 year-round trade and shipping",
+        "TEMPERATE CEREALS \u2192 reliable growing conditions",
+        "EARLY INDUSTRIALISATION \u2192 ports, water, equable climate in NW Europe"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DAIRYING + MIXED FARMING \u2192 long grass-growing season, reliable moisture",
+            "ICE-FREE PORTS \u2192 year-round trade and shipping"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEMPERATE CEREALS \u2192 reliable growing conditions",
+            "EARLY INDUSTRIALISATION \u2192 ports, water, equable climate in NW Europe"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DAIRYING + MIXED FARMING \u2192 long grass-growing season, reliable moisture",
+            "ICE-FREE PORTS \u2192 year-round trade and shipping"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EARLY INDUSTRIALISATION \u2192 ports, water, equable climate in NW Europe.",
+      "source_references": [
+        "Dairying and early industrialisation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA HIMALAYAN TEMPERATE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA HIMALAYAN TEMPERATE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MOIST TEMPERATE",
+          "role": "outcome"
+        },
+        {
+          "text": "J&K TO ARUNACHAL, 1500-3300 M",
+          "role": "comparison"
+        },
+        {
+          "text": "DEODAR, OAK, FIR",
+          "role": "evidence"
+        },
+        {
+          "text": "CHIR PINE BELT",
+          "role": "primary"
+        },
+        {
+          "text": "NW HIMALAYA, HP, UTTARAKHAND, NE",
+          "role": "outcome"
+        },
+        {
+          "text": "DRY TEMPERATE",
+          "role": "comparison"
+        },
+        {
+          "text": "LADAKH MARGINS, LAHAUL-SPITI, KINNAUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MOIST TEMPERATE \u2192 J&K to Arunachal, 1500-3300 m: deodar, oak, fir",
+        "CHIR PINE BELT \u2192 NW Himalaya, HP, Uttarakhand, NE: fire-prone",
+        "DRY TEMPERATE \u2192 Ladakh margins, Lahaul-Spiti, Kinnaur: chilgoza, juniper",
+        "CONTROL \u2192 altitude replaces latitude as the zonation driver"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MOIST TEMPERATE \u2192 J&K to Arunachal, 1500-3300 m: deodar, oak, fir",
+            "CHIR PINE BELT \u2192 NW Himalaya, HP, Uttarakhand, NE: fire-prone"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRY TEMPERATE \u2192 Ladakh margins, Lahaul-Spiti, Kinnaur: chilgoza, juniper",
+            "CONTROL \u2192 altitude replaces latitude as the zonation driver"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "MOIST TEMPERATE \u2192 J&K to Arunachal, 1500-3300 m: deodar, oak, fir",
+            "CHIR PINE BELT \u2192 NW Himalaya, HP, Uttarakhand, NE: fire-prone"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "DRY TEMPERATE \u2192 Ladakh margins, Lahaul-Spiti, Kinnaur: chilgoza, juniper",
+            "CONTROL \u2192 altitude replaces latitude as the zonation driver"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL \u2192 altitude replaces latitude as the zonation driver.",
+      "source_references": [
+        "India temperate boundary",
+        "Himalayan forest belts"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DEODAR SPECIES FIREWALL",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEODAR SPECIES FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CEDRUS DEODARA, A CONIFER (CEDAR FAMILY)",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "FREQUENTLY TESTED",
+          "role": "evidence"
+        },
+        {
+          "text": "DEODAR IS NOT A BROADLEAF TREE",
+          "role": "caution"
+        },
+        {
+          "text": "DRY-TEMPERATE CONIFER (PINUS GERARDIANA)",
+          "role": "outcome"
+        },
+        {
+          "text": "CHIR PINE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBTROPICAL MONTANE, HIGHLY RESINOUS AND FIRE-PRONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEODAR \u2192 Cedrus deodara, a CONIFER (cedar family)",
+        "EXAM TRAP \u2192 frequently tested: deodar is NOT a broadleaf tree",
+        "CHILGOZA \u2192 dry-temperate conifer (Pinus gerardiana)",
+        "CHIR PINE \u2192 subtropical montane, highly resinous and fire-prone"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "DEODAR \u2192 Cedrus deodara, a CONIFER (cedar family)",
+          "CHILGOZA \u2192 dry-temperate conifer (Pinus gerardiana)",
+          "DEODAR \u2192 Cedrus deodara, a CONIFER (cedar family)"
+        ],
+        [
+          "EXAM TRAP \u2192 frequently tested: deodar is NOT a broadleaf tree",
+          "CHIR PINE \u2192 subtropical montane, highly resinous and fire-prone",
+          "EXAM TRAP \u2192 frequently tested: deodar is NOT a broadleaf tree"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEODAR \u2192 Cedrus deodara, a CONIFER (cedar family)",
+            "EXAM TRAP \u2192 frequently tested: deodar is NOT a broadleaf tree"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHILGOZA \u2192 dry-temperate conifer (Pinus gerardiana)",
+            "CHIR PINE \u2192 subtropical montane, highly resinous and fire-prone"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEODAR \u2192 Cedrus deodara, a CONIFER (cedar family)",
+            "EXAM TRAP \u2192 frequently tested: deodar is NOT a broadleaf tree"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHIR PINE \u2192 subtropical montane, highly resinous and fire-prone.",
+      "source_references": [
+        "Dry temperate and deodar identity"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WATER-SECURITY-FIRE CHAIN",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATER-SECURITY-FIRE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST FLOOR SPONGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORBS RAIN, FEEDS SPRINGS AND RIVERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOREST LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "REDUCED INFILTRATION, SPRING DECLINE, DOWNSTREAM SHORTAGE",
+          "role": "caution"
+        },
+        {
+          "text": "CHIR PINE + DRY WEATHER",
+          "role": "outcome"
+        },
+        {
+          "text": "FUEL ACCUMULATION, RAPID FIRE SPREAD",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRE DAMAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOREST FLOOR SPONGE \u2192 absorbs rain, feeds springs and rivers",
+        "FOREST LOSS \u2192 reduced infiltration, spring decline, downstream shortage",
+        "CHIR PINE + DRY WEATHER \u2192 fuel accumulation, rapid fire spread",
+        "FIRE DAMAGE \u2192 soil loss, regeneration failure, catchment degradation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FOREST FLOOR SPONGE \u2192 absorbs rain, feeds springs and rivers",
+            "FOREST LOSS \u2192 reduced infiltration, spring decline, downstream shortage"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHIR PINE + DRY WEATHER \u2192 fuel accumulation, rapid fire spread",
+            "FIRE DAMAGE \u2192 soil loss, regeneration failure, catchment degradation"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FOREST FLOOR SPONGE \u2192 absorbs rain, feeds springs and rivers",
+            "FOREST LOSS \u2192 reduced infiltration, spring decline, downstream shortage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIRE DAMAGE \u2192 soil loss, regeneration failure, catchment degradation.",
+      "source_references": [
+        "Water security and fire risk"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BRITISH-TYPE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BRITISH-TYPE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "COOL TEMPERATE WESTERN MARGIN UNDER PERMANENT WESTERLIES",
+          "role": "outcome"
+        },
+        {
+          "text": "EAST-WEST ASYMMETRY",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME LATITUDE, OPPOSITE CLIMATE",
+          "role": "evidence"
+        },
+        {
+          "text": "MARITIME MODERATION, FRONTAL RAIN, DECIDUOUS VEGETATION",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S HIMALAYAN TEMPERATE FORESTS AS ALTITUDE-BASED ANALOGUE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 cool temperate western margin under permanent Westerlies",
+        "COMPARE \u2192 east-west asymmetry: same latitude, opposite climate",
+        "EXPLAIN \u2192 maritime moderation, frontal rain, deciduous vegetation",
+        "APPLY \u2192 India's Himalayan temperate forests as altitude-based analogue"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 cool temperate western margin under permanent Westerlies",
+            "COMPARE \u2192 east-west asymmetry: same latitude, opposite climate"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN \u2192 maritime moderation, frontal rain, deciduous vegetation",
+            "APPLY \u2192 India's Himalayan temperate forests as altitude-based analogue"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 cool temperate western margin under permanent Westerlies",
+            "COMPARE \u2192 east-west asymmetry: same latitude, opposite climate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPLY \u2192 India's Himalayan temperate forests as altitude-based analogue.",
+      "source_references": [
+        "Routed 2024 PYQ and answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DEODAR (CEDRUS DEODARA) AND SILVER-FIR/SPRUCE TYPIFY THE WET TEMPERATE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHIR PINE DOMINATES THE DRIER SUBTROPICAL MONTANE SLOPES \u2014",
+          "role": "comparison"
+        },
+        {
+          "text": "THESE FORESTS ARE VITAL FOR NORTH INDIA'S WATER SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MONTANE WET TEMPERATE FORESTS SPAN J&K TO ARUNACHAL",
+          "role": "primary"
+        },
+        {
+          "text": "CEDRUS DEODARA",
+          "role": "outcome"
+        },
+        {
+          "text": "DEODAR ; CHILGOZA IS A DRY-TEMPERATE CONIFER.",
+          "role": "comparison"
+        },
+        {
+          "text": "CHIR PINE DOMINATES SUBTROPICAL MONTANE FORESTS (100\u2013200 CM RAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "Deodar (Cedrus deodara) and silver-fir/spruce typify the wet temperate montane belt.",
+            "Chir pine dominates the drier subtropical montane slopes \u2014 highly fire-prone (resinous).",
+            "CAUTION: These forests are vital for North India's water security (the forest-floor \"sponge\" that feeds",
+            "Montane Wet Temperate forests span J&K to Arunachal , 1500\u20133300 m , rain 100\u2013250 cm ."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Cedrus deodara = deodar ; chilgoza is a dry-temperate conifer.",
+            "Chir pine dominates subtropical montane forests (100\u2013200 cm rain, 15\u201322\u00b0C).",
+            "Dry Temperate forests occur chiefly in inner/rain-shadow western Himalayan ranges; humid Sikkim is not the standard example.",
+            "NOT: Ladakh/Kashmir carry subtropical montane chir forests \u2192 they are excluded (too dry/cold)."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "NOT: Deodar is a broadleaf tree \u2192 deodar ( Cedrus deodara ) is a conifer/cedar .",
+            "Himalayan forest fires as a climate-disaster : why chir-pine monoculture + warming + snow decline",
+            "Altitudinal zonation of Himalayan vegetation and its role in water security for the Indo-Gangetic plains.",
+            "Subject: Geography \u00b7 Tier: Advanced (India-applied) \u00b7 GS Paper: GS-I / GS-III Grounded in: Majid Husain, India geography + D.R."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "record_id": "essay-02:learner-v2:g4",
+  "topic_key": "essay-02",
+  "subject": "Essay",
+  "section": "Subject-wide Syllabus",
+  "title": "Philosophical Quote Decoding",
+  "variant": "learner-v2",
+  "generation": 4,
+  "command": "Generate learner-v2 topic: Essay — Subject-wide Syllabus — Philosophical Quote Decoding",
+  "main_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-02\\g4\\essay-02_Knowledge-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Essay\\Subject-Wide-Syllabus\\essay-02\\g4\\essay-02_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-02\\g4\\essay-02_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-02\\g4\\essay-02_Knowledge-Guide_2026-09-04.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-02\\g4\\essay-02_Practice-Workbook_2026-09-04.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-02\\g4\\essay-02_Practice-Solutions_2026-09-04.md",
+  "integrated_visual_atlas": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-02\\g4\\assets\\essay-02_Essay-Workflow-Atlas_2026-09-04.png",
+  "integrated_ascii_flow": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-02\\g4\\essay-02_Integrated-ASCII-Workflow_2026-09-04.md",
+  "integrated_ascii_panel_count": 12,
+  "artifact_contract": "essay-specific-guide-v2",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "supersedes": "essay-02:learner-v2:g3",
+  "format": {
+    "name": "essay-specific-guide-v2",
+    "learning_sessions": 0,
+    "mcqs": 0,
+    "primary_artifacts": 3,
+    "integrated_visual_atlas": true,
+    "integrated_ascii_workflow": true,
+    "guide": {
+      "pages": 28,
+      "bookmarks": 51,
+      "contents_page": 2
+    },
+    "workbook": {
+      "pages": 4,
+      "bookmarks": 15,
+      "contents_page": 2
+    },
+    "solutions": {
+      "pages": 12,
+      "bookmarks": 14,
+      "contents_page": 2
+    },
+    "practice_coverage": {
+      "outline": true,
+      "introduction": true,
+      "conclusion": true,
+      "paragraph_repair": true,
+      "transitions": true,
+      "thesis_correction": true,
+      "evidence_selection": false,
+      "full_essays": true
+    },
+    "model_essay_word_counts": [
+      1023,
+      987,
+      1012,
+      1023,
+      987,
+      1012
+    ],
+    "guide_words": 12439,
+    "workbook_words": 343,
+    "solutions_words": 5312,
+    "drill_count": 8,
+    "full_essay_count": 3,
+    "approved": false
+  },
+  "provenance": {
+    "source_manifest": "upsc-ai-kit\\manifests\\v2\\essay--subject-wide-syllabus.json",
+    "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\02_Philosophical-Quote-Decoding.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\02_Philosophical-Quote-Decoding.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Essay\\basic\\02_Philosophical-Quote-Decoding.md": "70ea2b717439bf9f27f1aacfc2c1d7d61d749f156e2edafeb00247002c101db4",
+      "upsc-ai-kit\\knowledge\\Essay\\advanced\\02_Philosophical-Quote-Decoding.md": "c6e0f5d7268cbcb5a4bbc886a6e00e6b33b0854fa004ad82dde0c14ce2abce5e"
+    },
+    "baseline_record": "essay-02:learner-v2:g3",
+    "canonical_owners_unchanged": true
+  },
+  "scores": {
+    "complete_learning_session": 40,
+    "solved_practice_workbook": 30,
+    "graphical_flowchart": 14,
+    "ascii_master_flowchart": 14,
+    "total": 98
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "essay-02:learner-v2:g4"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "tools\\regenerate_essay_deep_review.py",
+    "details": "upsc-ai-kit\\manifests\\exports\\essay-02-learner-v2-g4-2026-09-04-essay-deep-review-validation.json"
+  },
+  "refresh_profile": "essay-specific-guide-v2-deep-review"
+}

@@ -1,0 +1,496 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-30",
+  "scope": "Political Theory subject-wide syllabus topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-05",
+      "title": "Socialism, Fascism, Anarchism and Gandhism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-08-30.md",
+      "source_record": "political-theory-05:learner-v2:g4",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Orientation: Four Rival Responses to Modern Political Order",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Orientation: Four Rival Responses to Modern Political Order",
+            "  [1] Fascism is essential for the exam candidate as the standard case of a modern",
+            "      totalitarian ideology that rejected both liberal-democracy and Marxism, and as Gauba",
+            "      frames it, a subject of \"political pathology\" rather than a coherent political",
+            "      philosophy. (PDF pp.64-65)",
+            "        |",
+            "        v",
+            "  [2] Socialism, anarchism and Gandhism each criticize capitalism/coercion while still",
+            "      valuing liberty or equality in some form; fascism is the outlier that explicitly",
+            "      rejects liberty, equality and reason themselves, so it must never be grouped with",
+            "      the other three as a fellow \"egalitarian\" doctrine.",
+            "        |",
+            "        v",
+            "  [3] Socialism broadens the anti-capitalist field beyond Marxism and asks how equality",
+            "      can be secured through public control of production. (PDF pp.55-56)",
+            "        |",
+            "        v",
+            "  [4] Anarchism forces the exam candidate to distinguish opposition to coercive state",
+            "      authority from mere chaos or disorder. (PDF pp.73-78)",
+            "        |",
+            "        v",
+            "  [5] Gandhism introduces an Indian ethical-political alternative centred on truth,",
+            "      non-violence, trusteeship and dignity of labour. (PDF pp.78-83)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Orientation: Four Rival Responses to Modern Political Order is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Socialism: Definitions, Types and Democratic Reform",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Socialism: Definitions, Types and Democratic Reform",
+            "  [1] He then distinguishes evolutionary socialism from revolutionary socialism: the",
+            "      former compromises with capitalism through democratic reform, while the latter seeks",
+            "      total transformation through revolution. (PDF p.56)",
+            "        |",
+            "        v",
+            "  [2] Evolutionary / democratic socialism: socialism pursued gradually, constitutionally",
+            "      and democratically rather than through wholesale revolutionary rupture. (PDF",
+            "      pp.56-57)",
+            "        |",
+            "        v",
+            "  [3] Socialism: ownership or control of the means of production by the community or",
+            "      public authority in the interest of all. (PDF p.55)",
+            "        |",
+            "        v",
+            "  [4] Gauba first defines socialism by its aim of public control of major means of",
+            "      production for the public interest. (PDF p.55)",
+            "        |",
+            "        v",
+            "  [5] He explains fascism as a reaction against democracy, socialism and communism, built",
+            "      on hierarchy over equality, the leader/single-party state over pluralism, myth/faith",
+            "      over reason, and extreme nationalism aiming at homogeneity rather than the liberal",
+            "      ideal of human equality. (PDF pp.66-69)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Socialism: Definitions, Types and Democratic Reform is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Fascism: Doctrine, Leader Principle and Totalitarian State",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Fascism: Doctrine, Leader Principle and Totalitarian State",
+            "  [1] Fascism vs liberalism: fascism exalts the state as an end and reduces the individual",
+            "      to a means, the reverse of the liberal individual-as-end premise. (PDF p.66)",
+            "        |",
+            "        v",
+            "  [2] Hitler: partially adopted fascism in Nazi Germany, adding a racist doctrine and the",
+            "      \"myth of race\" alongside Mussolini's nationalist myth; Gauba treats Nazism as",
+            "      fascism's chief variant, not as strictly identical to it. (PDF pp.64, 69)",
+            "        |",
+            "        v",
+            "  [3] Fascism vs Marxism: fascism denies the economic conception of history and class",
+            "      conflict, replacing it with the myth of an indivisible national interest, whereas",
+            "      Marxism makes class conflict central. (PDF pp.68-69)",
+            "        |",
+            "        v",
+            "  [4] Fascism vs socialism/communism: fascism is counter-revolutionary and hierarchical,",
+            "      protecting concentrated capital, while communism (even when coercive) seeks wider",
+            "      distribution of benefits to the masses. (PDF p.73)",
+            "        |",
+            "        v",
+            "  [5] Mussolini: founder of Italian fascism (1919); defined its \"myth of the nation\" and",
+            "      its rejection of the economic conception of history in his own writings and",
+            "      speeches. (PDF pp.64, 68-69)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Fascism: Doctrine, Leader Principle and Totalitarian State is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Fascism: Social Basis, Critiques and Gauba's Verdict",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Fascism: Social Basis, Critiques and Gauba's Verdict",
+            "  [1] A safe answer example is to contrast class cooperation through trusteeship,",
+            "      totalitarian hierarchy through fascism, and class conflict through revolution as",
+            "      three rival responses to the same capitalist crisis.",
+            "        |",
+            "        v",
+            "  [2] Fabianism uses the already existing democratic state as an instrument of reform",
+            "      instead of destroying it first. (PDF pp.57-58)",
+            "        |",
+            "        v",
+            "  [3] Mussolini's dismantling of Italy's parliamentary parties into \"the\" party, and his",
+            "      conversion of the premiership into \"head of the government,\" illustrates the leader",
+            "      principle in practice. (PDF p.67)",
+            "        |",
+            "        v",
+            "  [4] Fascist states brought the press, radio, publishing and cinema under government",
+            "      control and subordinated even the judiciary to fascist ideals, illustrating the",
+            "      totalitarian reach of the leader-led single-party state. (PDF p.68)",
+            "        |",
+            "        v",
+            "  [5] Proudhon's model imagines producers' associations linked by a federal principle and",
+            "      supported by a mutual credit bank. (PDF p.75)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Fascism: Social Basis, Critiques and Gauba's Verdict is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Anarchism: Voluntary Order, Thinkers and Internal Strands",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Anarchism: Voluntary Order, Thinkers and Internal Strands",
+            "  [1] Define anarchism as opposition to coercive state authority, not to all order. (PDF",
+            "      pp.73-74)",
+            "        |",
+            "        v",
+            "  [2] Sarvodaya is the constructive social-order counterpart to satyagraha's method and",
+            "      trusteeship's economic ethic: satyagraha supplies the method of non-violent",
+            "      resistance/persuasion, trusteeship supplies the economic ethic of stewardship, and",
+            "      Sarvodaya names the resulting social goal — uplift of all, beginning with the",
+            "      weakest.",
+            "        |",
+            "        v",
+            "  [3] These additions strengthen the socialism/anarchism/Gandhism reconstruction only; the",
+            "      fascism reconstruction in §§2-9 above remains the authoritative, factually",
+            "      disciplined account and is not diluted, expanded with speculative parallels, or",
+            "      re-opened here.",
+            "        |",
+            "        v",
+            "  [4] Define fascism as an incoherent, leader-led, single-party totalitarian doctrine that",
+            "      rejects liberalism, Marxism and democracy through extreme nationalism, hierarchy and",
+            "      myth. (PDF pp.64-69)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Anarchism: Voluntary Order, Thinkers and Internal Strands is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya",
+            "  [1] Synthesis verdict: reading the four doctrines along these same four axes shows that",
+            "      fascism alone answers \"equality\" with hierarchy and \"liberty\" with subordination to",
+            "      the leader — this is precisely what places it outside the family of anti-capitalist,",
+            "      broadly egalitarian responses, even though socialism, anarchism and Gandhism",
+            "      themselves disagree sharply on how much coercive state power, if any, is legitimate",
+            "      en route to equality.",
+            "        |",
+            "        v",
+            "  [2] Premises: (a) capitalism generates class inequality and, in some readings, coercive",
+            "      concentration of power — a diagnosis shared by socialism, anarchism and Gandhism",
+            "      (Gauba, PDF pp.55-56, 73-74, 79-83); (b) the doctrines differ on whether the state",
+            "      is the right instrument to fix this — socialism says yes if reformed, anarchism says",
+            "      no and seeks abolition, Gandhism says no and seeks moral transcendence (Gauba, PDF",
+            "      pp.55-83); (c) fascism denies the diagnosis itself, treating hierarchy and",
+            "      leader-rule as desirable rather than as a problem to be solved (Gauba, PDF p.66).",
+            "        |",
+            "        v",
+            "  [3] Conclusion: an answer that files all \"anti-liberal\" or \"anti-capitalist\" doctrines",
+            "      together misses the topic's deepest fault line, which is not liberalism versus its",
+            "      critics but equality-seeking critics (socialism/anarchism/Gandhism) versus",
+            "      hierarchy-seeking fascism (§13 synthesis verdict).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Gandhism: Satyagraha, Trusteeship, Swaraj and Sarvodaya is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Four-Doctrine Synthesis, Traps and Answer Architecture",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Four-Doctrine Synthesis, Traps and Answer Architecture",
+            "  [1] The Gandhi-Tolstoy influence link (§12.3) and the cross-chapter Sarvodaya citation",
+            "      (§12.4, Gauba PDF pp.489-490, drawn from the common-good chapter rather than this",
+            "      chapter's own PDF pp.55-83 range) are flagged specifically for provenance reasons;",
+            "      do not upgrade them to status or attach a specific letter, date, edition or page",
+            "      number beyond what is already anchored here without independent verification.",
+            "        |",
+            "        v",
+            "  [2] Fascism factual discipline is unchanged by this update: all fascism content remains",
+            "      confined to §§2-9 above, sourced only from Gauba's own critical framing (PDF",
+            "      pp.64-73), and is not used here as a template for governance design or a source of",
+            "      positive lessons.",
+            "        |",
+            "        v",
+            "  [3] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,",
+            "      Fifth Edition (2009), Ch.2, PDF pp.55-83, with a cross-chapter Sarvodaya anchor at",
+            "      PDF pp.489-490 (common-good chapter).",
+            "        |",
+            "        v",
+            "  [4] Tags: #PoliticalTheory #Socialism #Fascism #Totalitarianism #Anarchism #Gandhism",
+            "      #Trusteeship #BreadLabour #Sarvodaya #Fabianism #Syndicalism #Conservatism #Burke",
+            "      #Oakeshott.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Four-Doctrine Synthesis, Traps and Answer Architecture is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Conservatism I: Burke, Oakeshott and the Four Pillars",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Conservatism I: Burke, Oakeshott and the Four Pillars",
+            "  [1] Relation to Burke: Oakeshott supplies the epistemological argument (why blueprint",
+            "      politics cannot know enough) for what Burke argues historically and prudentially",
+            "      (why blueprint politics destroys the accumulated capital of an order). They are",
+            "      complementary, not identical: Burke defends particular inherited institutions;",
+            "      Oakeshott is more sceptical about all political doctrine, including any doctrine of",
+            "      conservatism itself.",
+            "        |",
+            "        v",
+            "  [2] Working definition: conservatism is the political doctrine that treats inherited",
+            "      institutions, practices and settled expectations as a store of accumulated practical",
+            "      experience, and therefore places the burden of proof on those proposing to redesign",
+            "      them — favouring gradual, corrective, reversible reform over comprehensive",
+            "      reconstruction from first principles.",
+            "        |",
+            "        v",
+            "  [3] Genus/differentia line for a \"Define\" directive: conservatism belongs to the genus",
+            "      of doctrines about the warrant for political change; its differentia is that it",
+            "      locates warrant in inherited practice and demonstrated workability rather than in a",
+            "      rationally designed end-state.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Conservatism I: Burke, Oakeshott and the Four Pillars is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Conservatism II: Strands, Critiques and Comparative Change",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Conservatism II: Strands, Critiques and Comparative Change",
+            "  [1] Conclusion: reform should be particular (one defect at a time), evidenced (against",
+            "      the actual working of the institution), reversible (leaving a route back) and",
+            "      continuous with what exists (Oakeshott's intimations) — which is a demanding",
+            "      standard for change, not a veto on it.",
+            "        |",
+            "        v",
+            "  [2] P1 (epistemic): the knowledge required to run a society is dispersed, largely tacit",
+            "      and carried in practices, not concentrated in any designer's head (Oakeshott's",
+            "      practical/technical distinction, §22.4).",
+            "        |",
+            "        v",
+            "  [3] P2 (institutional): existing institutions encode solutions to problems whose",
+            "      original occasion has often been forgotten; the reasons for a practice are",
+            "      frequently invisible to the reformer examining it (Burke's prescription, §22.3).",
+            "        |",
+            "        v",
+            "  [4] P3 (consequential): comprehensive redesign is simultaneous and irreversible — it",
+            "      removes the fallback arrangements that would allow an error to be corrected, so its",
+            "      failures compound rather than self-limit.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Conservatism II: Strands, Critiques and Comparative Change is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers",
+            "  [1] 15-mark (~200-250 words): (1) thesis; (2) §22.7's premises → mechanism → conclusion",
+            "      spine compressed to three sentences; (3) two evidence units spanning Burke and",
+            "      Oakeshott (C1/C2 + C3); (4) one full objection → reply chain from §22.8 with its",
+            "      residual weakness conceded; (5) verdict distinguishing method-critique from",
+            "      motive-critique.",
+            "        |",
+            "        v",
+            "  [2] The Burke/Oakeshott vocabulary is European in origin and was formulated against",
+            "      particular European events (the French Revolution; mid-20th-century British planning",
+            "      debates). It transfers to Indian material only as an analytical lens, and any Indian",
+            "      factual claim must come independently verified from the History, Social-Justice or",
+            "      Polity files — this Political-Theory file asserts none.",
+            "        |",
+            "        v",
+            "  [3] The most defensible use is structural: the nineteenth-century Indian social-reform",
+            "      debates pose exactly the question this module frames — when an inherited practice is",
+            "      challenged, does its antiquity create a presumption in its favour, and what rebuts",
+            "      that presumption? Use the lens to state the question precisely; do not use it to",
+            "      characterise any named movement, community or party.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Conservatism III: Evidence, Indian Caution and Mark-Scaled Answers is best",
+            "             presented through its central claim, causal logic, strongest limit and qualified",
+            "             verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] \"Conservatism = fascism = reaction.\": Reaction seeks to restore a superseded order;",
+            "      conservatism seeks to conserve and repair the existing one; fascism (§§2-9) seeks a",
+            "      leader-centred totalitarian reconstruction that overrides inherited constitutional",
+            "      restraint — which is precisely what a Burkean position exists to defend.",
+            "        |",
+            "        v",
+            "  [2] Trap: \"Gandhi appealed to village tradition, therefore Gandhi is a conservative.\" ->",
+            "      Gandhi attacks entrenched social hierarchy and subordinates property to trusteeship",
+            "      (Gauba, PDF pp.81-82; §13 Equality and Property rows); appealing to indigenous",
+            "      practice against imported models is not the same as granting inherited hierarchy a",
+            "      presumption of legitimacy.",
+            "        |",
+            "        v",
+            "  [3] Prudential reform — the decisive point: prescription creates a presumption in favour",
+            "      of what exists, not an immunity. Burke's argument against the French revolutionaries",
+            "      is directed at method and scale — the simultaneous abolition of an entire",
+            "      institutional order on the authority of an abstract theory — while he defends",
+            "      timely, particular, remedial reform that repairs a defect without dismantling the",
+            "      frame that makes repair possible. The exam-usable formula is \"reform in order to",
+            "      conserve\": change is the instrument of continuity, not its opposite.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Objection -> reply -> residual. Objection: trusteeship depends on the voluntary",
+            "      moral conversion of owners and may simply preserve unequal ownership. Reply: Gandhi",
+            "      treats trusteeship as a non-violent DIRECTION of transition, not a celebration of",
+            "      possession. Residual: without enforceable institutions the objection stands --",
+            "      Ambedkar's warning against relying on the conscience of the dominant is decisive,",
+            "      and Gandhian socialism needs institutional backing to be more than exhortation.",
+            "        |",
+            "        v",
+            "  [2] PROPERTY: socialism = social control in varied forms (state, cooperative, market,",
+            "      moral); communism = common ownership with classes abolished.",
+            "        |",
+            "        v",
+            "  [3] The doctrine, exactly. Anarchism holds that coercive political authority,",
+            "      paradigmatically the sovereign state, lacks adequate moral justification, and that",
+            "      order can rest on voluntary association, mutual aid and federation. Its engine is",
+            "      the burden-of-justification argument: legitimate authority must respect autonomy and",
+            "      equality (1); the state claims a territorial monopoly of law and coercion (2); it",
+            "      demands obedience for a command's LEGALITY, not its rightness (3); that subordinates",
+            "      my judgment to another's institutional will (4); so the state bears a burden it",
+            "      cannot discharge (5).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

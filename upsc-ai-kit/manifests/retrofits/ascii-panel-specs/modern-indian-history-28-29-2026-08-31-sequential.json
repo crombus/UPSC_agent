@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 28-29",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-28",
+      "display_title": "Integration of the Princely States & the Making of the Republic",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\28_Integration-of-Princely-States-and-Making-of-the-Republic_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Lapse of paramountcy and the constructed Union",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "15 AUG 1947 -> BRITISH RULE ENDS -> paramountcy LAPSES (it is not transferred)",
+            "BRITISH INDIA -> partitioned by statute; successor dominions defined in law",
+            "PRINCELY INDIA -> no successor sovereign in law -> authority must be constructed",
+            "INSTRUMENTS USED -> agreement + leverage + popular pressure + force in one case",
+            "RULE -> lapse, not transfer; the single word that generates the whole topic."
+          ],
+          "source_references": [
+            "Independence was not integration: the problem the lapse created"
+          ]
+        },
+        {
+          "title": "Counting convention: why more than 560 is the safe form",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "CLAIM              | STATUS",
+            "\"more than 560\"    | required formulation in both repository owners",
+            "562 / 565          | different classification rules for estates, jagirs, minor holdings",
+            "\"over 560\"         | the form used on official commemorative pages",
+            "local OCR numeral  | corrupted in extraction; cannot arbitrate between totals",
+            "VERDICT -> the disagreement is about enumeration conventions, not about history."
+          ],
+          "source_references": [
+            "How many states: the discipline behind more than 560"
+          ]
+        },
+        {
+          "title": "The States Department as a working machine",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "STATES DEPARTMENT (created 27 June 1947)",
+            "|-- MINISTER   -> Sardar Vallabhbhai Patel, Home and States Minister",
+            "|-- SECRETARY  -> V.P. Menon, drafting, negotiation, administrative sequencing",
+            "|-- METHOD     -> appeal to patriotism + narrow legal demand + warning of stiffer terms",
+            "`-- PRODUCT    -> standardised Instruments of Accession and standstill arrangements",
+            "NAMING RULE -> minister, secretary and department together, never one man alone."
+          ],
+          "source_references": [
+            "The States Department: a minister, a secretary and a machine"
+          ]
+        },
+        {
+          "title": "Three subjects taken, everything else left behind",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TRANSFERRED AT ACCESSION      | RETAINED BY THE RULER AT ACCESSION",
+            "Defence                       | internal administration",
+            "External Affairs              | revenue and taxation inside the state",
+            "Communications                | courts and internal justice",
+            "                              | succession, titles, ceremonial privilege",
+            "WHY IT WORKED -> the three taken were exactly the three no state could exercise alone",
+            "WHY IT LOOKED SMALL -> the ruler's visible world was untouched on the day of signature."
+          ],
+          "source_references": [
+            "The three-subject formula and why its narrowness worked"
+          ]
+        },
+        {
+          "title": "The accession calendar of 1947",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "20 FEB 1947 -> Attlee: paramountcy will not be handed to any government of British India",
+            "APR 1947    -> some states join the Constituent Assembly; others announce independence hopes",
+            "18 JUN 1947 -> Jinnah: states become independent sovereign states on termination",
+            "27 JUN 1947 -> States Department created; Patel takes charge, V.P. Menon as Secretary",
+            "15 AUG 1947 -> all states except Junagadh, Jammu and Kashmir, Hyderabad have acceded",
+            "READ AS -> a seven-week campaign against a legal vacuum, not a leisurely negotiation."
+          ],
+          "source_references": [
+            "Attlee and Jinnah: the encouragement the princes received"
+          ]
+        },
+        {
+          "title": "The prince squeezed from above and below",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "PRESSURE FROM ABOVE -> States Department: accede narrowly now, or face stiffer terms",
+            "PRESSURE FROM BELOW -> States' Peoples' Conference: democratic order and integration",
+            "PRESSURE FROM OUTSIDE -> Partition violence makes isolation dangerous, not sovereign",
+            "DOCTRINE AGAINST HIM -> political power belongs to the people of a state, not to the ruler",
+            "BARGAIN OFFERED -> three subjects surrendered; dignities, succession and income retained",
+            "OUTCOME -> the overwhelming majority accede without force being used at all."
+          ],
+          "source_references": [
+            "Two pressures on the princes: their own people and Partition"
+          ]
+        },
+        {
+          "title": "Four stages, four instruments, four difficulties",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1 ACCESSION       -> Instrument of Accession, three subjects      -> by 15 Aug 1947",
+            "2 MERGER          -> merger agreements, unions, attachments        -> from Dec 1947",
+            "3 DEMOCRATISATION -> elections, courts, services inside old states -> uneven and slower",
+            "4 INCORPORATION   -> Constitution and single citizenship           -> 26 Jan 1950",
+            "STRUCTURAL ERROR -> treating stage one as the finished process",
+            "CORRECTION -> each stage has its own instrument, its own date and its own difficulty."
+          ],
+          "source_references": [
+            "Accession, merger, democratisation, incorporation: four stages"
+          ]
+        },
+        {
+          "title": "Junagadh settled by counting people",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "NAWAB accedes to Pakistan -> against population and against geography",
+            "POPULATION overwhelmingly Hindu -> popular movement -> Nawab flees",
+            "PROVISIONAL GOVERNMENT formed inside the state",
+            "DEWAN Shah Nawaz Bhutto invites the Government of India to intervene",
+            "INDIAN TROOPS enter; PLEBISCITE held FEBRUARY 1948 -> result favours India",
+            "DISCIPLINE -> the source calls the result overwhelming; no percentage is asserted here."
+          ],
+          "source_references": [
+            "Junagadh: the ruler-subject mismatch and February 1948"
+          ]
+        },
+        {
+          "title": "Hyderabad: negotiation exhausted before force",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PRE-AUG 1947 -> Nizam claims independent status; state landlocked inside India",
+            "NOV 1947     -> STANDSTILL AGREEMENT signed; representative government hoped for",
+            "1947-48      -> Ittihad ul Muslimin and Razakars grow; State Congress satyagraha",
+            "             -> Communist-led peasant struggle continues in the Telangana region",
+            "JUN 1948     -> Patel presses for unqualified accession and responsible government",
+            "SEP 1948     -> OPERATION POLO / POLICE ACTION -> Nizam surrenders -> accedes to the Union",
+            "DISCIPLINE   -> no casualty figure and no troop figure is asserted for this episode."
+          ],
+          "source_references": [
+            "Hyderabad: standstill, Razakars and September 1948"
+          ]
+        },
+        {
+          "title": "Kashmir: the fixed order of events",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "STEP 1 -> Maharaja Hari Singh accedes to neither dominion",
+            "STEP 2 -> National Conference under Sheikh Abdullah favours accession to India",
+            "STEP 3 -> OCTOBER 1947 tribal invasion advances towards Srinagar",
+            "STEP 4 -> Maharaja appeals to India for military assistance",
+            "STEP 5 -> Instrument of Accession signed; Sheikh Abdullah heads the administration",
+            "STEP 6 -> troops flown to Srinagar only AFTER accession",
+            "STEP 7 -> 30 DEC 1947 reference to the UN Security Council; fighting continues",
+            "STOP LINE -> restraint beyond step seven; contested later claims are not taught here."
+          ],
+          "source_references": [
+            "Kashmir: October 1947, accession, and disciplined restraint"
+          ]
+        },
+        {
+          "title": "The merger map of the second stage",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SECOND STAGE (from December 1947) -> turning acceding units into governable provinces",
+            "|-- MERGED    -> small states attached to neighbouring provinces or centrally administered",
+            "|-- UNIONS    -> Madhya Bharat | Rajasthan | Patiala and East Punjab States Union",
+            "|             -> Saurashtra | Travancore-Cochin",
+            "`-- RETAINED  -> Mysore | Hyderabad | Jammu and Kashmir as separate states of the Union",
+            "RESULT -> a deliberately asymmetrical map that later reorganisation would revisit."
+          ],
+          "source_references": [
+            "Unions and mergers: making unviable states administrable"
+          ]
+        },
+        {
+          "title": "Price paid, process completed, commemoration handled",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "PRICE     -> privy purses, titles, succession, ceremonial privilege retained by rulers",
+            "          -> not abolished during initial integration; owner dates abolition to 1971",
+            "          -> no purse amount is asserted anywhere in this package",
+            "COMPLETION-> Constitution adopted 26 Nov 1949; in force 26 Jan 1950; single citizenship",
+            "          -> independence 15 Aug 1947 and republic 26 Jan 1950 answer different questions",
+            "COMMEMORATION -> Ministry of Culture two-year programme from 31 Oct 2024 at the Statue of Unity",
+            "              -> PIB Backgrounder 30 Oct 2025: Rashtriya Ekta Diwas annually on 31 October",
+            "CAUTION   -> the commemorative phrase \"by 15 August 1947 or shortly thereafter\" compresses",
+            "             a chronology that runs to February and September 1948."
+          ],
+          "source_references": [
+            "Privy purses and privileges: the price carried forward",
+            "From acceding state to citizen: 1949 and 1950",
+            "Commemoration and chronology: reading Ekta Diwas as a historian"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-29",
+      "display_title": "The Colonial Legacy & the Foundations of the Republic",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\29_Colonial-Legacy-and-Foundations-of-the-Republic_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The balance sheet the republic opened with",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "COLONIAL LIABILITY (economic and administrative) | MOVEMENT ASSET (political)",
+            "dependent, stagnant, famine-prone economy        | tested all-India leadership",
+            "mass illiteracy and low life expectancy          | party organised in every province",
+            "rentier agriculture, rising landlessness         | democracy, civil liberties, secularism",
+            "apparatus built for extraction and order         | three decades of practised organisation",
+            "CENTRAL QUESTION -> how did the second column carry the first without collapsing?",
+            "ERROR TO AVOID -> merging the columns and crediting the empire with Indian democracy."
+          ],
+          "source_references": [
+            "Two inheritances: colonial liabilities against movement assets"
+          ]
+        },
+        {
+          "title": "How underdevelopment was developed",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "SUBORDINATE INTEGRATION with the world capitalist system since the 1750s",
+            "-> forced international division of labour: raw materials out, manufactures in",
+            "-> real change in railways, administration, education, finance and communications",
+            "-> but change operating INSIDE a colonial frame crystallises a dependent structure",
+            "-> poverty, dependence and subordination reproduced rather than growth generated",
+            "ATTRIBUTION -> the phrase development of underdevelopment belongs to A. Gunder Frank."
+          ],
+          "source_references": [
+            "The development of underdevelopment and its exact attribution"
+          ]
+        },
+        {
+          "title": "The agrarian legacy in attributed numbers",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "MEASURE                                   | SOURCE-ATTRIBUTED VALUE",
+            "per capita agricultural production        | falls about 14% between 1901 and 1941",
+            "per capita foodgrains                     | falls further than total production",
+            "landless agricultural labourers           | about 13% in 1871 rising to about 28% by 1951",
+            "land controlled by landlords by the 1940s | reported as over 70% in the local text",
+            "STRUCTURE -> landlords, moneylenders, merchants and the colonial revenue state",
+            "INCENTIVE -> rack-renting and usury are safer than investment, so stagnation is rational."
+          ],
+          "source_references": [
+            "The agrarian legacy: landlessness, stagnation and rent"
+          ]
+        },
+        {
+          "title": "The human baseline of 1951",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "MEASURE                   | SOURCE-ATTRIBUTED VALUE (1951 unless stated)",
+            "illiteracy, all Indians   | nearly 84 per cent",
+            "illiteracy, women         | about 92 per cent; about 8 literate women in every 100",
+            "life expectancy at birth  | barely 32 years for an Indian born between 1940 and 1951",
+            "death rate, 1941-50       | about 25 per 1,000 persons a year",
+            "infant mortality          | between 175 and 190 per 1,000 live births",
+            "CAUSE -> colonial neglect of mass, technical and female education, not poverty alone."
+          ],
+          "source_references": [
+            "Bodies and minds in 1951: literacy and life expectancy"
+          ]
+        },
+        {
+          "title": "The state that was kept rather than dismantled",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INHERITED APPARATUS",
+            "|-- AUTHORITARIAN CORE -> repressive laws framed without Indian democratic consent",
+            "|                      -> wide arbitrary power with civil servants and police",
+            "|                      -> collector and district magistrate in one office",
+            "|-- LIBERAL FRAGMENTS  -> rule of law | relatively independent judiciary",
+            "|                      -> press, speech and association tolerated in calm periods",
+            "`-- REPUBLIC'S TASK    -> convert an instrument of order and extraction into one of development",
+            "THESIS -> continuity with conversion, not rupture; that conversion is the real legacy problem."
+          ],
+          "source_references": [
+            "The colonial state the republic actually inherited"
+          ]
+        },
+        {
+          "title": "Three franchises, one break",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AFTER 1919 | about 3 per cent of Indians could vote | legislatures with little power",
+            "AFTER 1935 | about 15 per cent could vote            | supreme power still with the British",
+            "REPUBLIC   | universal adult franchise               | free and fair elections by right",
+            "COLONIAL PURPOSE -> co-opt and weaken the national movement while keeping the reins",
+            "UNINTENDED EFFECT -> Indians gain practical experience of elections and elected organs",
+            "THE BREAK -> the republic replaced the colonial franchise; it did not widen it by degrees."
+          ],
+          "source_references": [
+            "About 3 per cent and about 15 per cent: the franchise refused",
+            "Universal adult franchise as the boldest decision of the period"
+          ]
+        },
+        {
+          "title": "Movement assets converted into republican institutions",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NATIONAL MOVEMENT",
+            "|-- LEADERSHIP -> Nehru | Patel | Azad | Rajendra Prasad -> no single region or community",
+            "|-- BREADTH    -> first Nehru cabinet of fourteen includes five non-Congressmen",
+            "|              -> B.R. Ambedkar chairs the Drafting Committee",
+            "|-- HABITS     -> accommodative politics; three decades of elections, argument, organisation",
+            "`-- CONVERSION -> all-India services and a national army on merit, under civilian control",
+            "LATER COST -> the same dominance becomes the Congress system whose decay is a later topic."
+          ],
+          "source_references": [
+            "The national movement as an institutional, not sentimental, asset"
+          ]
+        },
+        {
+          "title": "Four pressures in the same months",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "COMMUNAL VIOLENCE        -> refugee movement, killing, minority insecurity",
+            "TELANGANA INSURGENCY     -> armed communist challenge inside the new republic",
+            "PRINCELY INTEGRATION     -> more than 560 units to accede, merge and democratise",
+            "CONTESTED FRONTIER       -> fighting and an international reference in Kashmir",
+            "PLUS -> a divided army and a divided treasury inherited on the first day",
+            "METHOD -> secular reassurance + coercive capacity + reconciliation, democracy not suspended",
+            "CONSEQUENCE -> the constitutional preference for a strong centre and emergency provisions."
+          ],
+          "source_references": [
+            "Simultaneity: why the initial years are one crisis, not four"
+          ]
+        },
+        {
+          "title": "Reading the two most misused figures",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FIGURE                | WHAT IT IS                 | WHAT IT IS NOT",
+            "nearly six million    | refugees ENTERING India    | total displacement both ways",
+            "roughly 500,000 dead  | Chandra's estimate         | settled or agreed scholarship",
+            "WEST FLOW -> largely one movement in 1947; land vacated; resettled substantially by 1951",
+            "EAST FLOW -> continuous migration from East Bengal; little land; urban underclass formed",
+            "SAFE SENTENCE -> name the author, mark the direction, record that other scholarship differs."
+          ],
+          "source_references": [
+            "Nearly six million: a one-directional figure and how to use it",
+            "Roughly 500,000: attribution, dispute and answer discipline"
+          ]
+        },
+        {
+          "title": "From assassination to the lifted ban",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JAN 1948    -> after a fast by Gandhi, Rs 550 million paid to Pakistan (assets settlement)",
+            "30 JAN 1948 -> Gandhi assassinated by Nathuram Godse -> communalism retreats sharply",
+            "IMMEDIATE   -> Rashtriya Swayamsevak Sangh banned; leaders and functionaries arrested",
+            "JUN 1949    -> Nehru records a preference for fewer bans and detentions",
+            "JULY 1949   -> ban lifted on accepted conditions: written and published constitution,",
+            "               cultural activity only, no violence or secrecy, loyalty to flag and",
+            "               Constitution, democratic internal organisation",
+            "READING     -> proscription used and then withdrawn on terms, not permanent suppression."
+          ],
+          "source_references": [
+            "30 January 1948: assassination, ban and the conditions of 1949"
+          ]
+        },
+        {
+          "title": "Insurrection converted into opposition",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "LATE 1946 -> Communist-led peasant struggle develops in Telangana inside Hyderabad state",
+            "FEB 1948  -> B.T. Ranadive line declares independence false and adopts armed struggle",
+            "1948-51   -> insurgency contained by the state while the political door is kept open",
+            "MID-1951  -> Telangana struggle called off; the parliamentary path is adopted",
+            "THEN      -> party legalised everywhere; leaders and cadres released; elections contested",
+            "LESSON    -> the armed challenge was defeated and the party was not abolished."
+          ],
+          "source_references": [
+            "Insurrection to elections: the Communist transition and Telangana"
+          ]
+        },
+        {
+          "title": "Four domains, two dates and one completed map",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "POLITY    -> integration, Constitution 26 Nov 1949 / 26 Jan 1950, universal adult franchise",
+            "             LIMIT: strong-centre bias and unresolved regional questions",
+            "ECONOMY   -> planned, state-led development with a public-sector core and land-reform law",
+            "             LIMIT: slow growth and land reform largely unimplemented",
+            "EDUCATION -> from about 84 per cent illiteracy to deliberate scientific and technical investment",
+            "             LIMIT: elite-first expansion; primary and female education lag badly",
+            "INT. REL. -> non-alignment and Asian solidarity; Pondicherry 1954; Goa 17 December 1961",
+            "             LIMIT: limited hard power",
+            "TWO DATES -> independence 15 Aug 1947 | republic 26 Jan 1950; the 2026 parade is the 77th",
+            "             precisely because 1950 counts as the first",
+            "DO NOT CONFUSE -> Operation Vijay (Goa, Dec 1961) with Operation Polo (Hyderabad, Sep 1948)."
+          ],
+          "source_references": [
+            "Completing the map: Pondicherry, Goa, and two Operations",
+            "The four-domain answer and the seventy-seventh Republic Day"
+          ]
+        }
+      ]
+    }
+  ]
+}

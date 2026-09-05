@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 17",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-17",
+      "display_title": "Humanitarian Logistics, Relief, Rehabilitation and Recovery",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-17_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Post-impact phase rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 RESPONSE -> LIFE-SAVING OPERATIONS",
+            "2 RELIEF -> URGENT SURVIVAL NEEDS",
+            "3 REHABILITATION -> BASIC FUNCTION",
+            "4 RECONSTRUCTION / RECOVERY -> FULLER RISK-INFORMED RESTORATION"
+          ],
+          "source_references": [
+            "Response relief rehabilitation reconstruction recovery"
+          ]
+        },
+        {
+          "title": "Needs-assessment loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "WHO / WHERE / SEVERITY / PRIORITY NEED",
+            "ACCESS + LOCAL CAPACITY + PROTECTION RISK",
+            "VERIFY / DISAGGREGATE / STATE UNCERTAINTY",
+            "DELIVER -> FEEDBACK -> UPDATE"
+          ],
+          "source_references": [
+            "Needs assessment"
+          ]
+        },
+        {
+          "title": "Humanitarian principles compass",
+          "structural_type": "compass-map",
+          "ascii_lines": [
+            "HUMANITY -> LIFE AND DIGNITY",
+            "IMPARTIALITY -> NEED WITHOUT ADVERSE DISTINCTION",
+            "NEUTRALITY -> DO NOT TAKE SIDES",
+            "INDEPENDENCE -> HUMANITARIAN OBJECTIVE GOVERNS"
+          ],
+          "source_references": [
+            "Humanitarian principles"
+          ]
+        },
+        {
+          "title": "Anticipatory logistics split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FORECASTABLE -> PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+            "SUDDEN-ONSET -> DISTRIBUTED STOCK + STANDING READINESS",
+            "BOTH -> COMMUNICATION ALTERNATES AND LOCAL PARTNERS",
+            "WARNING / DEPLOYMENT DOES NOT GUARANTEE REACH"
+          ],
+          "source_references": [
+            "Preparedness and pre-positioning"
+          ]
+        },
+        {
+          "title": "Supply-chain rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NEED -> PROCURE -> WAREHOUSE",
+            "-> TRANSPORT / HUB / ALTERNATE ROUTE",
+            "-> LAST-MILE DISTRIBUTE -> VERIFY RECEIPT",
+            "-> FEEDBACK REPLENISH AND CORRECT"
+          ],
+          "source_references": [
+            "Procurement",
+            "Warehousing and inventory",
+            "Transport and routing",
+            "Last-mile distribution"
+          ]
+        },
+        {
+          "title": "Information board",
+          "structural_type": "status-board",
+          "ascii_lines": [
+            "VERIFIED NEED | REQUEST | COMMITMENT",
+            "DISPATCH | RECEIPT | DISTRIBUTION",
+            "GAP / DUPLICATION / ACCESS CONSTRAINT",
+            "MINIMUM NECESSARY PERSONAL DATA + ACCOUNTABLE UPDATE"
+          ],
+          "source_references": [
+            "Information and coordination"
+          ]
+        },
+        {
+          "title": "Cash or in-kind gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ARE GOODS AVAILABLE AND MARKETS FUNCTIONING?",
+            "ARE PRICES ACCESS PAYMENTS AND PROTECTION ACCEPTABLE?",
+            "YES -> CASH / VOUCHER MAY SUPPORT CHOICE",
+            "NO / SPECIFIC ASSURANCE NEEDED -> IN-KIND OR MIXED"
+          ],
+          "source_references": [
+            "Cash versus in-kind"
+          ]
+        },
+        {
+          "title": "Minimum-service web",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "SHELTER <-> WASH <-> HEALTH / NUTRITION",
+            "PROTECTION / PRIVACY / ACCESSIBILITY THROUGH ALL",
+            "COMMUNITY INFORMATION + REFERRAL",
+            "NUMERIC STANDARD ONLY FROM VERIFIED APPLICABLE SOURCE"
+          ],
+          "source_references": [
+            "Shelter WASH health and protection",
+            "Protection and inclusion"
+          ]
+        },
+        {
+          "title": "Accountability controls",
+          "structural_type": "control-matrix",
+          "ascii_lines": [
+            "PUBLIC CRITERIA + SEGREGATED DUTIES",
+            "STOCK / RECEIPT / BENEFICIARY RECORD",
+            "SPOT CHECK + COMMUNITY MONITOR",
+            "SAFE GRIEVANCE -> INVESTIGATE -> CORRECT"
+          ],
+          "source_references": [
+            "Grievance and anti-diversion controls"
+          ]
+        },
+        {
+          "title": "Recovery choices",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "LIVELIHOOD ASSETS SKILLS CREDIT MARKET SOCIAL PROTECTION",
+            "DISPLACEMENT -> RETURN / LOCAL INTEGRATION / RELOCATION CHOICE",
+            "DEBRIS -> CLASSIFY REUSE DISPOSE SAFELY",
+            "RESTORE WITHOUT RECREATING EXPOSURE OR EXCLUSION"
+          ],
+          "source_references": [
+            "Livelihood restoration",
+            "Displacement and durable solutions",
+            "Debris and environmental recovery"
+          ]
+        },
+        {
+          "title": "Sequencing and handover",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "LIFE + CONTINUITY",
+            "-> TEMPORARY SERVICES / LIVELIHOODS",
+            "-> IRS RESPONSE HANDOVER TO NORMAL ADMINISTRATION",
+            "-> LONG-TERM RISK-INFORMED RECONSTRUCTION"
+          ],
+          "source_references": [
+            "Recovery sequencing",
+            "Incident coordination and handover"
+          ]
+        },
+        {
+          "title": "Humanitarian answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ASSESS ITERATIVELY -> PRE-POSITION / PROCURE / STORE / MOVE",
+            "DISTRIBUTE BY NEED WITH PRINCIPLES PROTECTION AND GRIEVANCE",
+            "RESTORE SERVICES LIVELIHOODS AND DURABLE DISPLACEMENT CHOICES",
+            "HAND OVER -> BUILD BACK BETTER -> VERIFY RECEIPT AND RECOVERY"
+          ],
+          "source_references": [
+            "Build Back Better",
+            "Delivery-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

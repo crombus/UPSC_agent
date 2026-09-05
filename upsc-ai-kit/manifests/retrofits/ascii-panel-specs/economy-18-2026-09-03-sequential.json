@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 18",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-18",
+      "display_title": "Infrastructure, PPPs, Logistics and Public Investment",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\18_Infrastructure-PPPs-Logistics-and-Public-Investment_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Infrastructure service chain",
+          "structural_type": "lifecycle-flow",
+          "ascii_lines": [
+            "IDENTIFY + APPRAISE",
+            "-> FINANCE + ALLOCATE RISK",
+            "-> BUILD + COMMISSION",
+            "-> OPERATE + MAINTAIN -> USABLE SERVICE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Infrastructure effects",
+          "structural_type": "two-channel-board",
+          "ascii_lines": [
+            "DEMAND CHANNEL -> construction activity",
+            "SUPPLY CHANNEL -> lower cost + reliability",
+            "CAPABILITY CHANNEL -> health / education / water",
+            "OUTCOME DEPENDS -> completion + connection + use"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Project appraisal gate",
+          "structural_type": "decision-board",
+          "ascii_lines": [
+            "DEMAND + ENGINEERING",
+            "LAND + ENVIRONMENT + SOCIAL",
+            "FINANCE + INSTITUTION",
+            "PASS BEFORE bankability claim"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "PPP risk matrix",
+          "structural_type": "risk-allocation-grid",
+          "ascii_lines": [
+            "PUBLIC -> land / policy where controllable",
+            "PRIVATE -> construction / operation where controllable",
+            "DEMAND -> toll or government-payment design",
+            "SHARED -> force majeure + renegotiation rules"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Road-model comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BOT TOLL -> private traffic exposure",
+            "BOT ANNUITY -> public payment stream",
+            "HAM -> milestone support + annuity",
+            "TOT -> brownfield operating rights"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "VGF decision route",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ECONOMICALLY JUSTIFIED?",
+            "COMMERCIALLY SUB-VIABLE?",
+            "COMPETITIVE PRIVATE SELECTION?",
+            "NOTIFIED SUPPORT -> still test demand + land + contract"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "PPP stress and correction",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "POST-2012 -> BOT-toll stress",
+            "2015 -> Kelkar Committee",
+            "2016 ONWARD -> HAM correction",
+            "LIMIT -> risk shifts; it does not disappear"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Infrastructure financing fork",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "NIP -> planning pipeline",
+            "PUBLIC CAPEX -> new investment spending",
+            "NMP -> brownfield monetisation",
+            "PPP -> contract + risk allocation"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "GatiShakti and NLP",
+          "structural_type": "paired-process-map",
+          "ascii_lines": [
+            "GATISHAKTI -> GIS planning coordination",
+            "NLP -> process + digital + standards + skills",
+            "BOTH -> multimodal efficiency",
+            "NEITHER -> automatic project completion"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Port logistics distinction",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "VIZHINJAM -> trans-shipment project",
+            "SAGARMALA -> port-led programme",
+            "PORT VALUE -> berth + evacuation + customs",
+            "STATUS -> verify actual ramp-up"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Station redevelopment logic",
+          "structural_type": "cash-flow-map",
+          "ascii_lines": [
+            "COMMERCIAL LAND / LEASE VALUE",
+            "-> CROSS-SUBSIDISE station upgrade",
+            "RISKS -> footfall + title + coordination",
+            "DUTY -> passenger access + safety + affordability"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        },
+        {
+          "title": "Infrastructure answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE service and project stage",
+            "APPRAISE demand + land + finance",
+            "ALLOCATE risks by controllability",
+            "TEST completion + maintenance + contingent liability"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-27T17:22:04+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "789dc545ce48ae38a7f569d86f6933cd8c70577a29a41fcda1714e7f936f0323",
+    "sha256_after": "789dc545ce48ae38a7f569d86f6933cd8c70577a29a41fcda1714e7f936f0323",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Philosophy Optional": 1
+  },
+  "sections": {
+    "Philosophy Optional — Philosophy Paper II — Socio-Political Philosophy": 1
+  },
+  "library_totals": {
+    "file_count": 927,
+    "pdf_count": 545,
+    "png_count": 109,
+    "txt_count": 218,
+    "markdown_count": 38,
+    "json_count": 2,
+    "total_bytes": 1059194769,
+    "by_extension": {
+      ".json": 2,
+      ".md": 38,
+      ".pdf": 545,
+      ".png": 109,
+      ".txt": 218,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+      "topic_title": "Crime and Punishment",
+      "subject": "Philosophy Optional",
+      "section": "Philosophy Paper II — Socio-Political Philosophy",
+      "catalogue_number": 7,
+      "source_record_id": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\notes\\philosophy-paper-ii-socio-political-philosophy-07_Learning-Session_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "96652b643c0a5cc92ca6ec734f475223dc1f170da85e9f8f78656fd4d65b3891",
+          "output_sha256": "96652b643c0a5cc92ca6ec734f475223dc1f170da85e9f8f78656fd4d65b3891",
+          "source_output_equal": true,
+          "bytes": 716250
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Philosophy\\learning-session-v2\\paper-ii-socio-political-philosophy\\workbooks\\philosophy-paper-ii-socio-political-philosophy-07_Solved-Workbook_2026-08-27.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "23bd30751757e434c04eca5d6e5eefeb2722fc8c3ca2160b999ffb5de2533687",
+          "output_sha256": "23bd30751757e434c04eca5d6e5eefeb2722fc8c3ca2160b999ffb5de2533687",
+          "source_output_equal": true,
+          "bytes": 459240
+        },
+        "graphical_poster": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-07\\continuous-at-a-glance-english-first-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "f1780baaef06fbc102fbe3d429927b5a9fa3fff7763324202a3c9996f4635794",
+          "output_sha256": "f1780baaef06fbc102fbe3d429927b5a9fa3fff7763324202a3c9996f4635794",
+          "source_output_equal": true,
+          "bytes": 2839433
+        },
+        "graphical_tiled": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-07\\continuous-at-a-glance-english-first-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "bcecad8cf646b2fc96dafea6a645c15a4e9207376b7c9f4d5142daea684233a8",
+          "output_sha256": "bcecad8cf646b2fc96dafea6a645c15a4e9207376b7c9f4d5142daea684233a8",
+          "source_output_equal": true,
+          "bytes": 3553947
+        },
+        "graphical_master": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-07\\continuous-at-a-glance-english-first-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1c1a8db8363899e6e637d0b9c16af958cd712602769ac3489b67c252b5b6f79f",
+          "output_sha256": "1c1a8db8363899e6e637d0b9c16af958cd712602769ac3489b67c252b5b6f79f",
+          "source_output_equal": true,
+          "bytes": 2468861
+        },
+        "ascii_master_text": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-07\\continuous-at-a-glance-english-first-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "2b37768da80ba00ddc6469ab67bc63b50f88a90916d9f8649e27b23c46f9b42b",
+          "output_sha256": "2b37768da80ba00ddc6469ab67bc63b50f88a90916d9f8649e27b23c46f9b42b",
+          "source_output_equal": true,
+          "bytes": 20626
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-socio-political-philosophy-07\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Philosophy Optional\\Philosophy Paper II — Socio-Political Philosophy\\07-Crime-and-Punishment\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "31c5a6dbc18f86cdd3307280e5538ef15207042c3b0815376c12ad8abe0fbb7d",
+          "output_sha256": "31c5a6dbc18f86cdd3307280e5538ef15207042c3b0815376c12ad8abe0fbb7d",
+          "source_output_equal": true,
+          "source_text_sha256": "2b37768da80ba00ddc6469ab67bc63b50f88a90916d9f8649e27b23c46f9b42b",
+          "normalized_text_equal": true,
+          "bytes": 66517
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 32,
+            "maximum_line_characters": 111,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 31,
+            "maximum_line_characters": 112,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 32,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 31,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 31,
+            "maximum_line_characters": 100,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 32,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 32,
+            "maximum_line_characters": 107,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 31,
+            "maximum_line_characters": 105,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 32,
+            "maximum_line_characters": 112,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 31,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 31,
+            "maximum_line_characters": 103,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 104,
+        "solved_practice_workbook": 32,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 104,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 32,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          13006
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

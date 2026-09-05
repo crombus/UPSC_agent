@@ -1,0 +1,94 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\medieval-indian-history-04-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-04\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-04\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-04\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-04\medieval-indian-history-04-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-04\medieval-indian-history-04-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\04-The-Khaljis-Alauddin-Khalji-and-Market-Reforms\README.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-04\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\medieval-indian-history-04_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\validation\workbook-visual-audit-map.json
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\00_khalji_cover_state_capacity.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\01_khalji_chronology_evidence_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\02_mamluk_to_khalji_revolution_debate.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\03_jalaluddin_to_alauddin_ac-2150ccce98.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\04_political_geography_core_-ed1b183451.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\05_mongol_pressure_defence_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\06_army_reform_dagh_chehra_f-78d575f5f9.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\07_expansion_campaign_chronology.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\08_north_india_vs_deccan_control_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\09_chittor_source_layer_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\10_anti_rebellion_ordinance_mechanism.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\11_revenue_reform_chain_rural_hierarchy.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\12_market_regulation_institu-cfb7eb8909.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\13_four_market_comparison_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\14_grain_supply_granary_banj-4e44507f4a.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\15_military_fiscal_causal_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\16_price_control_objectives_-fca8bfd25c.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\17_enforcement_espionage_network.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\18_effectiveness_geographic_-b3efadae25.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\19_state_ulema_political_rea-1f3f6376bc.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\20_siri_alai_architectural_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\21_source_criticism_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\22_succession_and_fall_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\23_historiography_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\24_gs1_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\assets\medieval-indian-history-04_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\medieval-indian-history-04_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-04\g5\medieval-indian-history-04_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\04_Khaljis-Alauddin.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-04-learner-v2-g5-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\medieval-indian-history-04-learner-v2-g5-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-04-learner-v2-g5-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-04-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\medieval-indian-history-04-deep-review-2026-09-03-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Medieval-Indian-History\deep-review\medieval-indian-history-04-g5.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\04-khaljis-alauddin-market-reforms-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus-content-specs\medieval-indian-history-04-g5.json
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

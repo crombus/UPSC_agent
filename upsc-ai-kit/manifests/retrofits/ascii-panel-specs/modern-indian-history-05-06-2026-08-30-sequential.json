@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Modern Indian History learner-v2 Topics 05-06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-05",
+      "display_title": "British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\05_British-Territorial-Expansion-Mysore-Marathas-Sikhs-Subsidiary-Alliance-Lapse_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Expansion was a ladder, not one method",
+          "structural_type": "strategy-map",
+          "ascii_lines": [
+            "RING-FENCE -> friendly buffer protects Company territory",
+            "SUBSIDIARY ALLIANCE -> ruler survives but loses army, diplomacy and fiscal autonomy",
+            "PARAMOUNTCY -> Company claims a superior right to arbitrate Indian-state conduct",
+            "ANNEXATION -> conquest, lapse or alleged misgovernment brings direct administration."
+          ],
+          "source_references": [
+            "1. From commercial-fiscal base to military-fiscal state: ring-fence, buffer, subsidiary dependency, paramountcy, annexation",
+            "26. Comparative synthesis: Mysore vs Maratha vs Sikh; war vs alliance vs lapse vs misgovernance"
+          ]
+        },
+        {
+          "title": "The Company fiscal-military flywheel",
+          "structural_type": "causal-cycle",
+          "ascii_lines": [
+            "BENGAL DIWANI -> predictable revenue and credit",
+            "REVENUE -> salaried sepoys + officers + artillery + supply",
+            "ARMY + INDIAN ALLIES -> serial victory against isolated opponents",
+            "VICTORY -> indemnity / ceded territory -> more revenue -> a larger military machine."
+          ],
+          "source_references": [
+            "3. Why Company armies prevailed I: Bengal revenue, the sepoy army, officers, artillery and logistics",
+            "4. Why Company armies prevailed II: credit and supply, maritime reinforcement, diplomacy, serial isolation, Indian allies and recruits -- and the Company's own reverses"
+          ]
+        },
+        {
+          "title": "Mysore resistance and four-war sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1767-69 FIRST -> Treaty of Madras; Haidar forces a negotiated peace",
+            "1780-84 SECOND -> Haidar dies 1782; Treaty of Mangalore restores conquests",
+            "1790-92 THIRD -> anti-Tipu coalition; Treaty of Seringapatam cuts Mysore",
+            "1799 FOURTH -> Tipu dies; Wodeyars restored under subsidiary dependence."
+          ],
+          "source_references": [
+            "5. Mysore's state capacity: Haidar Ali's rise, army reform and Tipu's \"military fiscalism\"",
+            "6. Four Anglo-Mysore Wars: alliances, treaties, Madras/Mangalore/Seringapatam",
+            "8. The 1799 settlement: Seringapatam, Wodeyar restoration, subsidiary control, and why resistance failed"
+          ]
+        },
+        {
+          "title": "Tipu: reform, diplomacy and bounded interpretation",
+          "structural_type": "evidence-map",
+          "ascii_lines": [
+            "STATE CAPACITY -> direct revenue, army reform, state commerce and strategic ports",
+            "DIPLOMACY -> Ottoman, Afghan and French contacts sought counterweights to Company power",
+            "LIMIT -> outreach did not create a dependable anti-British coalition",
+            "SAFE VERDICT -> real reform and resistance, neither caricature nor modern nation-state myth."
+          ],
+          "source_references": [
+            "5. Mysore's state capacity: Haidar Ali's rise, army reform and Tipu's \"military fiscalism\"",
+            "7. Malabar, Travancore and Tipu's diplomacy: the French connection without myth"
+          ]
+        },
+        {
+          "title": "Maratha confederacy and the cohesion problem",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PESHWA at Pune -> nominal confederate centre",
+            "SCINDIA | HOLKAR | BHONSLE | GAEKWAD -> regional houses with separate interests",
+            "STRENGTH -> reach, cavalry, revenue claims and experienced commanders",
+            "WEAKNESS -> no durable common command; Company bargains and fights one house at a time."
+          ],
+          "source_references": [
+            "9. The Maratha confederacy: structure, five houses, and the cost of a headless polity"
+          ]
+        },
+        {
+          "title": "Three Anglo-Maratha Wars",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1775-82 FIRST -> Raghunath Rao crisis -> Wadgaon reverse -> Treaty of Salbai",
+            "1802 BASSEIN -> Peshwa accepts subsidiary terms after Holkar's victory",
+            "1803-05 SECOND -> Scindia and Bhonsle defeated; Holkar resists and settlement follows",
+            "1817-18 THIRD -> Peshwaship abolished; Baji Rao II pensioned at Bithur."
+          ],
+          "source_references": [
+            "10. First Anglo-Maratha War: Raghunath Rao, Surat, Purandar, Wadgaon, Salbai",
+            "11. Treaty of Bassein, 1802: the turning point",
+            "12. Second Anglo-Maratha War: Assaye, Delhi, Laswari, and Holkar's resistance",
+            "13. Third Anglo-Maratha War: Pindaris, 1817-18, Baji Rao II, and the end of the Peshwaship"
+          ]
+        },
+        {
+          "title": "Subsidiary Alliance dismantled sovereignty",
+          "structural_type": "mechanism-map",
+          "ascii_lines": [
+            "BRITISH FORCE STATIONED -> ruler pays cash or cedes revenue territory",
+            "RESIDENT AT COURT -> continuous political leverage",
+            "NO INDEPENDENT WAR / DIPLOMACY / EUROPEAN EMPLOYMENT -> external sovereignty removed",
+            "RESULT -> protection without capacity; ruler bears blame for a state Britain constrains."
+          ],
+          "source_references": [
+            "14. Precedents and Wellesley's systematisation: the exact core clauses",
+            "16. Sovereignty eroded: dependency, the Resident, and the responsibility paradox"
+          ]
+        },
+        {
+          "title": "Alliance case sequence and consequences",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "HYDERABAD 1798/1800 -> French-trained force removed; dependence deepens",
+            "MYSORE 1799 -> restored Wodeyar state enters subsidiary control",
+            "AWADH 1801 -> territorial cession substitutes for enlarged subsidy",
+            "BASSEIN 1802 -> Peshwa's acceptance transforms a Maratha civil conflict into Company war."
+          ],
+          "source_references": [
+            "15. The case sequence: Hyderabad 1798, Mysore 1799, Awadh 1801, Bassein 1802 and after"
+          ]
+        },
+        {
+          "title": "Sindh and the northwest strategic corridor",
+          "structural_type": "frontier-map",
+          "ascii_lines": [
+            "INDUS COMMERCE + AFGHAN FRONTIER ANXIETY -> rising Company attention",
+            "1832 COMMERCIAL OPENING -> river navigation without military transport",
+            "1839 PRESSURE -> subsidiary obligations linked to the Afghan campaign",
+            "1843 MIANI + DABO -> Napier defeats the Amirs; Sindh is annexed."
+          ],
+          "source_references": [
+            "17. Sindh: commercial and strategic context, and Napier's 1843 annexation"
+          ]
+        },
+        {
+          "title": "Sikh strength, succession crisis and two wars",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "RANJIT SINGH -> consolidated Punjab + modernised Khalsa army",
+            "AMRITSAR 1809 -> Sutlej boundary stabilises Company-Sikh relations",
+            "POST-1839 -> court faction, rapid succession and army politicisation",
+            "1845-46 FIRST -> Lahore/Bhyrowal | 1848-49 SECOND -> Gujrat -> Punjab annexed."
+          ],
+          "source_references": [
+            "18. Ranjit Singh's state, the Khalsa army, and the Treaty of Amritsar, 1809",
+            "19. Post-1839 succession crisis: factional instability after Ranjit Singh",
+            "20. First Anglo-Sikh War: Mudki to Sobraon, Lahore, and Bhyrowal",
+            "21. Second Anglo-Sikh War: the Multan trigger, Chillianwala, Gujrat, and 1849 annexation"
+          ]
+        },
+        {
+          "title": "Lapse, title denial and misgovernment are distinct",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LAPSE -> adopted heir not recognised -> Satara, Jhansi and Nagpur annexed",
+            "TITLE / PENSION DENIAL -> Nana Sahib's pension claim is not a territorial lapse case",
+            "MISGOVERNMENT -> Awadh annexed in 1856 despite a recognised ruling dynasty",
+            "EXAM RULE -> identify the legal pretext before naming the annexation policy."
+          ],
+          "source_references": [
+            "22. The Doctrine of Lapse: principles, paramountcy, and the verified cases",
+            "23. Awadh, 1856: misgovernance, explicitly NOT Lapse"
+          ]
+        },
+        {
+          "title": "Comparative answer spine and 1857 bridge",
+          "structural_type": "synthesis",
+          "ascii_lines": [
+            "MYSORE -> centralised reform but diplomatic isolation",
+            "MARATHAS -> wide confederate power but fractured command",
+            "SIKHS -> strong army and state under Ranjit Singh; destabilised after 1839",
+            "1857 BRIDGE -> dispossessed rulers, taluqdars and soldiers add grievances, not one cause."
+          ],
+          "source_references": [
+            "24. Dispossession and the road to 1857: a bounded bridge, not a monocausal claim",
+            "25. Historiography: four lenses on British territorial expansion",
+            "26. Comparative synthesis: Mysore vs Maratha vs Sikh; war vs alliance vs lapse vs misgovernance"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-06",
+      "display_title": "Structure of Government & Constitutional Development, 1757-1858",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\06_Structure-of-Government-and-Constitutional-Development-1757-1858_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The Company-state constitutional problem",
+          "structural_type": "problem-map",
+          "ascii_lines": [
+            "LONDON COMPANY -> shareholders, directors, trade and patronage",
+            "INDIAN SOVEREIGN -> revenue, war, justice and legislation after Diwani",
+            "CONTRADICTION -> private profit joined to public coercive power",
+            "PARLIAMENTARY RESPONSE -> regulate, supervise, centralise and finally transfer rule."
+          ],
+          "source_references": [
+            "1. A private corporation as revenue, war and justice authority",
+            "2. The crisis that forced Parliament to act, 1770-73: fiscal, political, and patronage -- not humanitarian"
+          ]
+        },
+        {
+          "title": "Regulating Act 1773: first framework",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "GOVERNOR-GENERAL OF BENGAL + COUNCIL OF FOUR -> Warren Hastings first",
+            "BOMBAY / MADRAS -> subordinated in war and peace, with practical ambiguities",
+            "SUPREME COURT AT CALCUTTA -> begins 1774 under Crown-appointed judges",
+            "DIRECTORS REPORT TO MINISTRY -> oversight begins, but Company rule continues."
+          ],
+          "source_references": [
+            "3. The Regulating Act, 1773: institutions on paper"
+          ]
+        },
+        {
+          "title": "Why the 1773 design malfunctioned",
+          "structural_type": "failure-map",
+          "ascii_lines": [
+            "COUNCIL ARITHMETIC -> Francis-Clavering-Monson majority can outvote Hastings",
+            "JURISDICTIONAL OVERLAP -> Supreme Court clashes with Company revenue and civil courts",
+            "CASES -> Nand Kumar, Patna and Cossijurah expose uncertainty",
+            "LESSON -> constitutional repair follows administrative conflict, not a smooth master plan."
+          ],
+          "source_references": [
+            "4. Why the Regulating Act failed in practice: the Hastings-Council deadlock",
+            "5. The Supreme Court and jurisdictional conflict: Nand Kumar, Patna, Cossijurah"
+          ]
+        },
+        {
+          "title": "Amending Act 1781: targeted jurisdictional repair",
+          "structural_type": "before-after",
+          "ascii_lines": [
+            "BEFORE -> official acts and revenue matters exposed to disputed Court reach",
+            "1781 -> official public acts exempted; revenue jurisdiction excluded",
+            "PERSONAL LAW -> Hindu and Muslim law to guide relevant cases",
+            "LIMIT -> corrected Court-executive conflict, not the Council voting problem."
+          ],
+          "source_references": [
+            "6. The Amending Act (Act of Settlement), 1781: precise corrections, not a general fix"
+          ]
+        },
+        {
+          "title": "Pitt's India Act 1784: dual control in Britain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "COURT OF DIRECTORS -> commerce, appointments and routine Company administration",
+            "BOARD OF CONTROL -> Crown-supervised political, military and revenue direction",
+            "INDIA -> stronger Bengal control over presidencies and smaller executive council",
+            "VERDICT -> supervision without immediate Crown takeover."
+          ],
+          "source_references": [
+            "7. Pitt's India Act, 1784: Board of Control, dual government, and stronger central command"
+          ]
+        },
+        {
+          "title": "Executive consolidation, 1786-1793",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1786 -> Cornwallis may override council in special cases and serve as commander",
+            "1793 -> override power generalised to future governors-general and governors",
+            "1793 -> Company monopoly renewed for twenty years",
+            "DIRECTION -> stronger personal executive within a still Company-run constitution."
+          ],
+          "source_references": [
+            "8. The Act of 1786 and Charter Act, 1793: executive authority and continuity"
+          ]
+        },
+        {
+          "title": "Charter Act 1813: partial commercial opening",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ENDED -> Company monopoly over Indian trade",
+            "RETAINED -> tea monopoly and trade with China",
+            "ADDED -> Crown sovereignty claim, missionary entry and education provision",
+            "MEANING -> British industrial access expands while the Company remains territorial ruler."
+          ],
+          "source_references": [
+            "9. Charter Act, 1813: free trade, missions, education, and a partial opening"
+          ]
+        },
+        {
+          "title": "Charter Act 1833: all-India centralisation",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "GG OF BENGAL -> GOVERNOR-GENERAL OF INDIA; William Bentinck first",
+            "PRESIDENCY LEGISLATURES -> legislative power centralised in the Government of India",
+            "LAW MEMBER + LAW COMMISSION -> Macaulay and codification drive",
+            "COMPANY COMMERCE ENDS -> corporation becomes a purely administrative agency."
+          ],
+          "source_references": [
+            "10. Charter Act, 1833: all-India centralisation, the Law Member, and codification"
+          ]
+        },
+        {
+          "title": "The 1833 equality promise and practice gap",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "STATUTORY LANGUAGE -> Indians not to be excluded from Company office by identity",
+            "INSTITUTIONAL REALITY -> patronage and racial barriers remain",
+            "EXAM DISTINCTION -> 1833 voices open eligibility; it does not create the 1853 exam",
+            "ANALYTICAL USE -> liberal language coexists with an unrepresentative imperial state."
+          ],
+          "source_references": [
+            "11. Charter Act, 1833: the non-discrimination promise and the practice gap"
+          ]
+        },
+        {
+          "title": "Charter Act 1853: legislature and recruitment",
+          "structural_type": "process-map",
+          "ascii_lines": [
+            "EXECUTIVE COUNCIL -> legislative members added for a distinct law-making function",
+            "CENTRAL LEGISLATIVE COUNCIL -> procedure resembles a small official parliament",
+            "OPEN COMPETITION -> civil-service recruitment principle implemented through later rules",
+            "LIMIT -> London examination and access barriers make formal openness unequal in practice."
+          ],
+          "source_references": [
+            "12. Charter Act, 1853: legislative-executive separation and the civil-service reform sequence, 1833-1855"
+          ]
+        },
+        {
+          "title": "Government of India Act 1858: transfer, not reinvention",
+          "structural_type": "before-after",
+          "ascii_lines": [
+            "ABOLISHED -> Company rule, Court of Directors and Board of Control",
+            "CREATED -> Secretary of State for India assisted by an India Council",
+            "INDIA -> Governor-General also becomes Viceroy; Canning first",
+            "CONTINUITY -> central executive, councils, codes and bureaucracy largely survive transfer."
+          ],
+          "source_references": [
+            "13. The Government of India Act, 1858: transfer to the Crown, Secretary of State, India Council, and Viceroy"
+          ]
+        },
+        {
+          "title": "Constitutional ladder, 1773-1858",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1773 OVERSIGHT -> 1781 JURISDICTIONAL REPAIR -> 1784 CROWN SUPERVISION",
+            "1813 MONOPOLY BREACH -> 1833 CENTRAL GOVERNMENT + CODIFICATION",
+            "1853 LEGISLATIVE SPECIALISATION + COMPETITIVE RECRUITMENT",
+            "1858 CROWN RULE -> sovereign changes; colonial centralisation remains."
+          ],
+          "source_references": [
+            "14. Institutional themes across 1773-1858: centralisation, codification, bureaucracy, and exclusion",
+            "15. Historiography of the Company-state: three readings and a defensible synthesis",
+            "16. Comparative synthesis: the constitutional ladder, provision-to-effect table, and answer architecture"
+          ]
+        }
+      ]
+    }
+  ]
+}

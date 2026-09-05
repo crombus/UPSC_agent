@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topics 17-18",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-17",
+      "display_title": "Savanna Sudan Climate",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\17_India-Deciduous-and-Grasslands_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Savanna transition map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EQUATORWARD -> wetter and taller grass",
+            "SUDAN BELT -> classic wet-dry savanna",
+            "POLEWARD -> shorter grass and open trees",
+            "DESERT MARGIN -> drought risk intensifies"
+          ],
+          "source_references": [
+            "Aw transition and global map"
+          ]
+        },
+        {
+          "title": "ITCZ seasonal switch",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "HIGH-SUN SEASON -> ITCZ approaches",
+            "CONVERGENCE + CONVECTION -> summer rain",
+            "LOW-SUN SEASON -> dry trades dominate",
+            "RESULT -> hot wet / warm dry rhythm"
+          ],
+          "source_references": [
+            "ITCZ wet-dry rhythm"
+          ]
+        },
+        {
+          "title": "Water-reliability chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "LATE ONSET -> delayed sowing",
+            "MID-SEASON BREAK -> crop and forage stress",
+            "EARLY CESSATION -> incomplete grain filling",
+            "DROUGHT -> migration and herd loss risk"
+          ],
+          "source_references": [
+            "Rainfall amount and reliability"
+          ]
+        },
+        {
+          "title": "Grass-tree gradient",
+          "structural_type": "replacement-diagram",
+          "ascii_lines": [
+            "WET MARGIN -> tall grass + more trees",
+            "CORE SAVANNA -> parkland mosaic",
+            "DRY MARGIN -> short grass + thorny shrubs",
+            "DESERT EDGE -> discontinuous vegetation"
+          ],
+          "source_references": [
+            "Parkland grass-tree structure"
+          ]
+        },
+        {
+          "title": "Fire-herbivory balance",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SEASONAL RAIN -> grass biomass",
+            "DRY SEASON -> combustible fuel",
+            "FIRE + BROWSING -> seedling suppression",
+            "THICK BARK + ROOTS -> selected tree survival"
+          ],
+          "source_references": [
+            "Tree drought adaptations",
+            "Fire and grazing controls"
+          ]
+        },
+        {
+          "title": "Wildlife-livelihood matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HERDS -> follow seasonal forage and water",
+            "PREDATORS -> track herbivore concentrations",
+            "PASTORALISTS -> mobility spreads risk",
+            "CULTIVATORS -> millet / sorghum timing"
+          ],
+          "source_references": [
+            "Wildlife and migration",
+            "Pastoral and farming adaptation"
+          ]
+        },
+        {
+          "title": "Degradation pathway",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COVER LOSS -> raindrop and wind exposure",
+            "WET SEASON -> runoff, leaching and erosion",
+            "DRY SEASON -> fire and surface sealing",
+            "FIXED WATER POINT -> local grazing concentration"
+          ],
+          "source_references": [
+            "Soils and degradation"
+          ]
+        },
+        {
+          "title": "India forest gradient",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MOIST DECIDUOUS -> longer wet season",
+            "DRY DECIDUOUS -> stronger leaf-shedding",
+            "THORN / SCRUB -> semi-arid moisture stress",
+            "RULE -> overlapping belts, not fixed walls"
+          ],
+          "source_references": [
+            "India analogue boundary",
+            "Moist and dry deciduous forests",
+            "Thorn scrub and open ecosystems"
+          ]
+        },
+        {
+          "title": "Indian grassland firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TERAI -> humid tall grass and floodplain",
+            "SHOLA -> montane grass-forest mosaic",
+            "BANNI -> arid-saline Kachchh grassland",
+            "MANAGEMENT -> hydrology and history first"
+          ],
+          "source_references": [
+            "Terai, shola and Banni"
+          ]
+        },
+        {
+          "title": "Restoration decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NATURAL OPEN ECOSYSTEM -> conserve openness",
+            "DEGRADED SCRUB -> restore native mosaic",
+            "WATER PROCESS -> recharge and drainage",
+            "LIVELIHOOD -> grazing and tenure design"
+          ],
+          "source_references": [
+            "Restoration and Aravalli Green Wall"
+          ]
+        },
+        {
+          "title": "Savanna PYQ firewall",
+          "structural_type": "exam-matrix",
+          "ascii_lines": [
+            "2021 PRELIMS -> tree-limiting conditions",
+            "CLIMATE -> long dry season",
+            "DISTURBANCE -> fire + herbivory",
+            "LEDGER -> no answer letter invented"
+          ],
+          "source_references": [
+            "Verified savanna PYQ and verdict"
+          ]
+        },
+        {
+          "title": "Savanna answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LOCATE -> rainforest-desert transition",
+            "DERIVE -> ITCZ and wet-dry season",
+            "EXPLAIN -> grass-tree disturbance balance",
+            "APPLY -> India mosaics and restoration"
+          ],
+          "source_references": [
+            "Verified savanna PYQ and verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-18",
+      "display_title": "Hot and MidLatitude Desert Climate",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\18_Thar-Desert-and-GIB_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Desert identity test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "MOISTURE DEFICIT -> desert criterion",
+            "HOT + ARID -> BWh tendency",
+            "COLD WINTER + ARID -> BWk tendency",
+            "SAND / HEAT -> possible, not defining"
+          ],
+          "source_references": [
+            "Aridity, not heat",
+            "Hot and mid-latitude desert map"
+          ]
+        },
+        {
+          "title": "Aridity cause matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SUBSIDENCE -> stable descending air",
+            "OFFSHORE FLOW -> weak moisture supply",
+            "COLD CURRENT -> fog but weak convection",
+            "CONTINENT / RAIN SHADOW -> inland dryness"
+          ],
+          "source_references": [
+            "Subtropical subsidence",
+            "Offshore winds and cold currents",
+            "Continentality and rain shadow"
+          ]
+        },
+        {
+          "title": "Cold-current coast",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COLD WATER -> chilled marine boundary layer",
+            "STABLE AIR -> weak vertical uplift",
+            "FOG / MIST -> moisture without deep rain",
+            "COASTAL DESERT -> aridity persists"
+          ],
+          "source_references": [
+            "Offshore winds and cold currents"
+          ]
+        },
+        {
+          "title": "Temperature firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HOT DESERT -> very large day-night range",
+            "MID-LATITUDE DESERT -> cold winter",
+            "CLEAR SKY -> rapid nocturnal radiation",
+            "RULE -> do not equate desert with constant heat"
+          ],
+          "source_references": [
+            "Rainfall and temperature regimes"
+          ]
+        },
+        {
+          "title": "Wadi flood chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "RARE INTENSE STORM -> high rain rate",
+            "BARE / CRUSTED SURFACE -> rapid runoff",
+            "DRY CHANNEL -> sudden flow concentration",
+            "SETTLEMENT / ROAD -> flash-flood exposure"
+          ],
+          "source_references": [
+            "Flash floods and wadis"
+          ]
+        },
+        {
+          "title": "Plant-water adaptations",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "LEAF -> reduced, waxy or thorny",
+            "STEM -> water storage in some species",
+            "ROOT -> deep tap or wide shallow network",
+            "SPACING -> lower competition for water"
+          ],
+          "source_references": [
+            "Xerophytes and oasis ecology"
+          ]
+        },
+        {
+          "title": "Oasis and water strategy",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "AQUIFER / SPRING / EXOTIC RIVER -> source",
+            "WELL / CONDUIT / TANK -> access",
+            "DATE PALM + CROPS -> layered use",
+            "OVERUSE -> depletion, salinity or conflict"
+          ],
+          "source_references": [
+            "Desert societies and water"
+          ]
+        },
+        {
+          "title": "Thar aridity map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "ARABIAN SEA BRANCH -> approaches north-west",
+            "ARAVALLIS -> broadly parallel orientation",
+            "WEAK FORCED ASCENT -> little orographic rain",
+            "CONTINENTALITY + SUBSIDENCE -> reinforce aridity"
+          ],
+          "source_references": [
+            "Thar location and gradient",
+            "Why the Thar is arid"
+          ]
+        },
+        {
+          "title": "Thar landscape ledger",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "DUNES -> barchan, seif and sand sheets",
+            "DHANDS / PLAYAS -> inland salt basins",
+            "LUNI -> principal inland-draining river",
+            "KHEJRI / GRASS -> xeric open habitat"
+          ],
+          "source_references": [
+            "Thar landforms and drainage"
+          ]
+        },
+        {
+          "title": "Transformation trade-off",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TANKA / KHADIN / JOHAD -> local harvesting",
+            "CANAL -> irrigation and settlement expansion",
+            "RENEWABLE GRID -> low-carbon power",
+            "RISKS -> salinity, waterlogging, habitat collision"
+          ],
+          "source_references": [
+            "Water harvesting and canal change",
+            "GIB and renewable-energy planning"
+          ]
+        },
+        {
+          "title": "UNCCD status gate",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "COP16 -> Riyadh, 2-13 December 2024",
+            "LAND + DROUGHT -> resilience agenda advanced",
+            "BINDING FRAMEWORK -> not finalised",
+            "PYQ LEDGER -> no direct Topic 18 demand"
+          ],
+          "source_references": [
+            "UNCCD drought governance and PYQ boundary"
+          ]
+        },
+        {
+          "title": "Desert answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> aridity and water balance",
+            "MAP -> circulation, current and relief causes",
+            "COMPARE -> hot versus mid-latitude",
+            "APPLY -> Thar, GIB and drought governance"
+          ],
+          "source_references": [
+            "UNCCD drought governance and PYQ boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

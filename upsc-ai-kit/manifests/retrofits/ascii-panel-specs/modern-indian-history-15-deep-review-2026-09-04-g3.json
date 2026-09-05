@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-15",
+      "display_title": "Militant Nationalism, Swadeshi & the Partition of Bengal (1905–1908)",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Curzon's measures formed a provocation chain",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1899 CALCUTTA CORPORATION ACT -> reduced elected Indian influence",
+            "1904 UNIVERSITIES ACT -> tighter official supervision",
+            "JUL 1905 PARTITION ANNOUNCED -> administrative claim, political distrust",
+            "7 AUG 1905 BOYCOTT RESOLUTION -> organised anti-partition technique",
+            "16 OCT 1905 PARTITION EFFECTIVE -> public mourning and mass mobilisation",
+            "RESULT -> Moderate frustration became militant self-assertion.",
+            "MUST REMEMBER: Bengal's partition took effect on 16 October 1905, Swadeshi and boycott",
+            "  expanded into national education and samitis, the Congress split at Surat in 1907, and",
+            "  partition was annulled in 1911."
+          ],
+          "source_references": [
+            "Mini-timeline",
+            "Causes of Extremism",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Three dates that must not be merged",
+          "structural_type": "date-card",
+          "ascii_lines": [
+            "JULY 1905 -> partition announced",
+            "7 AUGUST 1905 -> Calcutta Town Hall Boycott Resolution",
+            "16 OCTOBER 1905 -> partition took effect",
+            "1907 -> Surat split",
+            "1911-12 -> annulment announced, capital shifted and provinces reorganised",
+            "EXAM RULE -> identify announcement, movement launch, enforcement and reversal."
+          ],
+          "source_references": [
+            "The 1905 sequence and the 7 August anchor",
+            "Factual-risk cautions",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Administrative pretext versus political reading",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "OFFICIAL CASE -> Bengal was too large for efficient administration",
+            "NATIONALIST READING -> division targeted a growing political public",
+            "EASTERN PROVINCE -> communal and regional boundaries gained political weight",
+            "POPULAR RESPONSE -> partition became evidence of divide and rule",
+            "ANALYTICAL RULE -> distinguish stated rationale, perceived intent and outcome."
+          ],
+          "source_references": [
+            "Partition politics",
+            "Anti-partition core",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Swadeshi and boycott were complementary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BOYCOTT / NEGATIVE ARM -> refuse foreign goods and selected institutions",
+            "SWADESHI / CONSTRUCTIVE ARM -> produce, buy and organise indigenous alternatives",
+            "SHARED PURPOSE -> self-reliance plus pressure on colonial authority",
+            "ECONOMIC EFFECT -> selected local falls in imported-goods sales",
+            "LIMIT -> supply, capital and participation varied across region and class."
+          ],
+          "source_references": [
+            "Effectiveness of boycott",
+            "Constructive programme",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "The constructive programme built institutions",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INDUSTRY -> indigenous production, stores and investment",
+            "EDUCATION -> National Council of Education, 1906",
+            "COLLEGE -> Bengal National College and Aurobindo Ghosh",
+            "ARBITRATION -> alternatives to colonial legal dependence",
+            "SAMITIS -> local organisation, service and physical culture",
+            "LEGACY -> protest joined durable capacity-building."
+          ],
+          "source_references": [
+            "Constructive programme - industry and education",
+            "Programme",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cultural mobilisation widened and narrowed politics",
+          "structural_type": "two-sided",
+          "ascii_lines": [
+            "WIDENED -> songs, festivals, processions and Vande Mataram",
+            "WIDENED -> politics entered schools, homes, streets and marketplaces",
+            "WIDENED -> students and women gained visible roles",
+            "NARROWED -> Hindu-inflected symbols could limit Muslim participation",
+            "ANALYSIS -> mobilisation and exclusion can arise from the same idiom",
+            "CAUTION -> cultural symbolism was not the movement's whole programme."
+          ],
+          "source_references": [
+            "Cultural mobilisation and its ambivalence",
+            "Social reach",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Militant nationalism was a programme, not a mood",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "SWARAJ -> political objective and moral self-rule",
+            "ATMA-SHAKTI -> confidence, sacrifice and self-reliance",
+            "BOYCOTT -> economic and institutional withdrawal",
+            "PASSIVE RESISTANCE -> non-cooperation with unjust authority",
+            "NATIONAL EDUCATION -> autonomous minds and institutions",
+            "LEADERSHIP -> Tilak, Lajpat Rai, B.C. Pal and Aurobindo."
+          ],
+          "source_references": [
+            "Extremism was a new ideology of active self-reliance",
+            "Leadership",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional spread was uneven",
+          "structural_type": "regional-matrix",
+          "ascii_lines": [
+            "BENGAL -> anti-partition core, samitis, education and cultural action",
+            "MAHARASHTRA -> Tilak's assertive political idiom and boycott support",
+            "PUNJAB -> Lajpat Rai and agrarian-political discontent",
+            "MADRAS -> public meetings, press and Swadeshi support",
+            "ALL-INDIA CLAIM -> technique travelled",
+            "LIMIT -> intensity, leadership and social coalition differed by region."
+          ],
+          "source_references": [
+            "Regional spread",
+            "Counter-evidence, balance and variation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Participation expanded but did not become fully mass",
+          "structural_type": "social-pyramid",
+          "ascii_lines": [
+            "VISIBLE CORE -> students, professionals and urban middle classes",
+            "NEW PARTICIPANTS -> women, selected workers and rural groups",
+            "LOCAL ORGANISERS -> samitis and cultural networks",
+            "THIN REACH -> much of the peasantry and labour remained outside",
+            "UNEQUAL INCLUSION -> Muslim participation varied and often weakened",
+            "VERDICT -> wider than Moderate politics, narrower than Gandhian mobilisation."
+          ],
+          "source_references": [
+            "Social reach",
+            "Incomplete-mass-politics thesis",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Congress compromise gave way to the Surat rupture",
+          "structural_type": "conflict-map",
+          "ascii_lines": [
+            "BANARAS 1905 -> Congress accepted Swadeshi and Bengal boycott",
+            "CALCUTTA 1906 -> Naoroji bridged swaraj, boycott, Swadeshi and education",
+            "DISPUTE -> scope, passive resistance and control of organisation",
+            "1907 SURAT -> physical breakdown and formal split",
+            "STATE ADVANTAGE -> divided opposition faced intensified repression",
+            "LESSON -> movement technique requires an organisation able to contain debate.",
+            "CLOSE DISTINCTION: Militant nationalism was broader than violence, while boycott and passive",
+            "  resistance varied by region, class, caste, gender and commodity; Bengal cannot stand for all",
+            "  India."
+          ],
+          "source_references": [
+            "Repression and the Surat split",
+            "Two-currents thesis",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Decline and legacy moved in opposite directions",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "DECLINE -> repression, arrests, deportation and press controls",
+            "DECLINE -> Surat split and limited rural organisation",
+            "DECLINE -> boycott fatigue and uneven indigenous supply",
+            "LEGACY -> self-reliance, national education and constructive work",
+            "LEGACY -> boycott and passive resistance became normal nationalist tools",
+            "VERDICT -> short organisational high tide, long strategic afterlife.",
+            "EVIDENCE LIMIT: Police files, vernacular newspapers, business responses and women's",
+            "  participation qualify both heroic unity narratives and official depictions of mere disorder."
+          ],
+          "source_references": [
+            "Achievement-and-limitation ledger",
+            "Transmission to Gandhian politics",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Swadeshi answer-writing spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "TRIGGER -> Curzonian reaction and Bengal partition",
+            "CAUSES -> Moderate limits, distress, repression and Asian self-confidence",
+            "METHODS -> boycott, Swadeshi, education, samitis and passive resistance",
+            "REACH -> students, women, regions and selected workers/rural groups",
+            "LIMITS -> repression, division, social narrowness and communal tension",
+            "VERDICT -> failed to sustain peak mobilisation, transformed nationalist grammar."
+          ],
+          "source_references": [
+            "Mark-scaled structure",
+            "Verdict scaffolds",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\15_Militant-Nationalism-and-Swadeshi.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g3\\modern-indian-history-15_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

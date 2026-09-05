@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-01",
+      "display_title": "Internal-Security Foundations and Governance",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-01_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Security boundary map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INTERNAL -> peace, law and order, rule of law, sovereignty within territory",
+            "EXTERNAL -> defence against foreign aggression",
+            "INTERFACE -> neighbours, proxies, borders, finance and information",
+            "RULE -> different lead institutions, connected threat environment"
+          ],
+          "source_references": [
+            "Internal-security boundary",
+            "MHA-MoD boundary"
+          ]
+        },
+        {
+          "title": "Kautilya fourfold matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "INTERNAL | EXTERNAL",
+            "INTERNALLY AIDED EXTERNAL | EXTERNALLY AIDED INTERNAL",
+            "DIAGNOSIS -> identify actor and support relationship separately",
+            "TRAP -> proxy status does not erase sponsor attribution standards"
+          ],
+          "source_references": [
+            "Kautilya fourfold frame",
+            "Actor-means-objective"
+          ]
+        },
+        {
+          "title": "Protected-attribute rail",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "THREAT -> territorial integrity / peace / law and order",
+            "THREAT -> rule of law / equality / freedom from fear",
+            "THREAT -> coexistence / communal harmony",
+            "ANSWER -> name the exact attribute under stress"
+          ],
+          "source_references": [
+            "Security attributes"
+          ]
+        },
+        {
+          "title": "Eight-element doctrine wheel",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "POLITICAL + SOCIO-ECONOMIC + GOVERNANCE",
+            "POLICE / FORCES + CENTRE-STATE + INTELLIGENCE",
+            "BORDER MANAGEMENT + CYBER SECURITY",
+            "USE -> hypotheses to test, not eight generic headings"
+          ],
+          "source_references": [
+            "Eight-element doctrine"
+          ]
+        },
+        {
+          "title": "Cause-trigger-actor chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "STRUCTURAL CONDITION -> exclusion, weak justice, porous border",
+            "TRIGGER -> incident, notice, arrest, riot or shock",
+            "ORGANISED ACTOR -> recruitment, coercion, parallel authority",
+            "CONSEQUENCE -> violence, fear, legitimacy loss"
+          ],
+          "source_references": [
+            "Root-cause matrix"
+          ]
+        },
+        {
+          "title": "Risk grammar",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "THREAT + VULNERABILITY",
+            "        | countered by CAPABILITY",
+            "        v",
+            "CONSEQUENCE if exploitation succeeds",
+            "POLICY LEVER -> reduce vulnerability and build lawful capability"
+          ],
+          "source_references": [
+            "Threat-vulnerability-capability"
+          ]
+        },
+        {
+          "title": "Federal competence ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "STATE LIST ENTRY 1 -> public order",
+            "STATE LIST ENTRY 2 -> police",
+            "UNION LIST ENTRY 2A -> armed force in aid of civil power",
+            "ARTICLE 355 -> Union protective duty",
+            "END-STATE -> cooperative action without competence erasure"
+          ],
+          "source_references": [
+            "State List primacy",
+            "Union aid boundary",
+            "Article 355 duty"
+          ]
+        },
+        {
+          "title": "Response calibration",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "VIOLENT SECESSION / SEPARATISM -> lawful coercive containment",
+            "REGIONAL / ETHNIC ASPIRATION -> dialogue and accommodation",
+            "MIXED CASE -> security plus political settlement",
+            "SAFEGUARD -> necessity, proportionality, accountability"
+          ],
+          "source_references": [
+            "Coercion-accommodation calibration"
+          ]
+        },
+        {
+          "title": "Security-development sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SECURE ACCESS -> HOLD THROUGH CIVIL ADMINISTRATION",
+            "DELIVER RIGHTS / SERVICES -> RESTORE TRUST",
+            "REASSESS VULNERABILITY -> PREVENT RELAPSE",
+            "RULE -> scheme launch is not governance outcome"
+          ],
+          "source_references": [
+            "Security-development sequencing",
+            "Area-management end-state"
+          ]
+        },
+        {
+          "title": "Prevention versus response",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PREVENTION -> intelligence, trust, vulnerability reduction",
+            "RESPONSE -> containment, rescue, investigation support",
+            "MEASUREMENT -> absence of event versus visible outputs",
+            "BUDGET TRAP -> visibility can bias resources toward response"
+          ],
+          "source_references": [
+            "Prevention-response distinction"
+          ]
+        },
+        {
+          "title": "Legal-rung firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "LAW -> NOTIFICATION -> DEPLOYMENT / REGISTRATION",
+            "INVESTIGATION -> CHARGE-SHEET -> TRIAL / DECISION",
+            "AGREEMENT -> IMPLEMENTATION -> VERIFIED OUTCOME",
+            "RULE -> never jump to the next rung"
+          ],
+          "source_references": [
+            "Statutory-power boundary",
+            "Evidence-rung discipline"
+          ]
+        },
+        {
+          "title": "PYQ answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> CLASSIFY ACTOR / THREAT",
+            "DIAGNOSE -> ATTRIBUTE + VULNERABILITY + DOCTRINE GAP",
+            "MAP -> STATE LEAD + UNION AID + COORDINATION",
+            "CALIBRATE -> SECURITY + DEVELOPMENT + RIGHTS",
+            "QUALIFY -> EVIDENCE RUNG, ATTRIBUTION AND END-STATE"
+          ],
+          "source_references": [
+            "Area-management end-state",
+            "Evidence-rung discipline"
+          ]
+        }
+      ]
+    }
+  ]
+}

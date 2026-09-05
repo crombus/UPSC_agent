@@ -1,0 +1,95 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\medieval-indian-history-06-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-06\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-06\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-06\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-06\medieval-indian-history-06-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-06\medieval-indian-history-06-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\medieval-indian-history-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Medieval History\INDEX.md
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\06-Decline-of-the-Sultanate-Timur-Sayyids-and-Lodis\README.txt
+notes\Final-Learning-Packages\Medieval History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\previews\page-005.png
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\flowcharts\mhi-06\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\medieval-indian-history-06_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\medieval-indian-history-06_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\validation\workbook-visual-audit-map.json
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Medieval-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_medieval_history_deep_review.py
+tools\test_regenerate_medieval_history_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\00_transition_cover_delhi_to_panipat.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\01_1388_1526_chronology_evidence_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\02_structural_fragmentation_causal_web.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\03_delhi_contraction_regiona-570e4a1a3c.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\04_late_tughlaq_succession_faction_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\05_timur_route_raid_withdraw-2d35733300.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\06_timur_motives_claims_evidence_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\07_sack_consequence_recovery_timeline.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\08_timur_source_criticism_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\09_sayyid_ruler_ladder_terri-bef7ab57f0.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\10_sayyid_weak_sovereignty_t-efae2f11a9.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\11_khizr_khan_timurid_legitimacy_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\12_afghan_political_traditio-0841c252d8.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\13_bahlul_consolidation_jaunpur_flow.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\14_sikandar_centralisation_a-55e8ad102b.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\15_ibrahim_noble_conflict_causal_chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\16_road_to_panipat_coalition_network.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\17_panipat_battlefield_system.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\18_why_babur_won_multicausal_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\19_continuity_after_1526_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\20_economy_recovery_vs_fragmentation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\21_sayyid_lodi_architecture_comparison.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\22_source_contemporaneity_agenda_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\23_historiography_ladder.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\24_gs1_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\assets\medieval-indian-history-06_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\medieval-indian-history-06_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Medieval\MH\learning-sessions\mhi-06\g4\medieval-indian-history-06_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\basic\06_Decline-Sayyids-Lodis-Timur.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-1-f41804b3b9ae-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-1-f41804b3b9ae.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-06-learner-v2-g4-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\medieval-indian-history-06-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-06-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\medieval-indian-history-06-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\medieval-indian-history-06-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Medieval-Indian-History\deep-review\medieval-indian-history-06-g4.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\medieval-history\06-decline-sultanate-timur-sayyids-lodis-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus-content-specs\medieval-indian-history-06-g4.json
+upsc-ai-kit\manifests\v2\medieval-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

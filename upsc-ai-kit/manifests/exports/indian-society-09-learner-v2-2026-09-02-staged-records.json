@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "indian-society-09-learner-v2-2026-09-02",
+  "selection": "indian-society-09",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "indian-society-09:learner-v2:g1",
+      "topic_key": "indian-society-09",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Indian Society — Subject-wide Syllabus — Poverty and Developmental Issues",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\indian-society-09_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\indian-society-09_Solved-Practice-Workbook_2026-09-02.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\indian-society-09_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\indian-society-09_Solved-Practice-Workbook_2026-09-02.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\assets",
+      "generated_on": "2026-09-02",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Indian-Society\\09_Poverty-and-Developmental-Issues_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Indian-Society\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\README.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\REVISION-CHART_Structures-Change-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\ANSWER-WORTHINESS-AUDIT.md",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\03_Tribe-and-Tribal-Society.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-I.pdf",
+          "books\\more_previous_papers\\Gen_St_P1.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf"
+        ],
+        "live_sources": [],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\indian-society-09_Complete-Learning-Session_2026-09-02.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-02",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf": "24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf": "26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42",
+          "books\\more_previous_papers\\Gen_St_P1.pdf": "62f0dc88e001b430e18ff6c5db573783a1047141815dbe1fdf40e59e507a38a1",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf": "7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf": "083bdc7fefc0c442c9876c2859e1449d4fe01f07e3427ffd5d9553b71c585d85",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf": "4ef93f55f8cc87c568ffb64860d6a28e6c5d896fc57cd139ed25f2dd577aefa9",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf": "1721d10c3fe3362ffabbe8e8d75de2ae9ee933c00bd260c26d945481a8b413f3",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-I.pdf": "cad3ef405eec92fe7bb34b4bd3f9f543adaf97937340d1da40f3cd87d66adbd3",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\00_Master-Framework.md": "b77e6b6b5330d42dd54b500d3de73e584817ab737fdb67c6895217147967b1c4",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\09_Poverty-and-Developmental-Issues_Learner-V2-Complete-Topic-Package.md": "318903ab8f9a96010b78ab802514f871d12c2825a99197ac8c3a46e488ddb1ee",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md": "171719bedc2c243b631b7b93d8ff265965f6c97cfc5aaf90170281bea4a87e22",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\ANSWER-WORTHINESS-AUDIT.md": "7fe093c9e7951ae64a536c81128f7e39c869f7cd4a629b2c398f5f270f25a3ad",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\03_Tribe-and-Tribal-Society.md": "6a43bd677dc966c1a4b6d1929e39eed827470eb0d771edc361b56661a4d7a9c3",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md": "0756fed1b466765ac7c96595952dd884f5917fd94661c660c79107e2eed64e7d",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\LEARNING-SESSION-COMMAND-INDEX.md": "00940844bf9c6ffccac0a76fb504ea95ab321297c1910e8eb8356d85e8b93923",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\learning-sessions\\v2\\subject-wide-syllabus\\indian-society-09_Learning-Session.md": "318903ab8f9a96010b78ab802514f871d12c2825a99197ac8c3a46e488ddb1ee",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\learning-sessions\\v2\\subject-wide-syllabus\\indian-society-09_Solved-Workbook.md": "63cdb797fecc4ed879c60f7630e0e9bf3d970130ece4d24702df17d49eb3231b",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "21e0261d20aae65d1998ef948c61bab8451eb09c15a466001fce4ff6ed33d5ec",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\README.md": "5edc55645a2e5e5f7f66296c2acdcdebcd6663f4be2affcb90f7fe0cb4797cc7",
+          "upsc-ai-kit\\knowledge\\Indian-Society\\REVISION-CHART_Structures-Change-and-Distinctive-Features.md": "cfff7dbc35629a597ba069954ae0e183862b377c30c83e2fb55ee7c4f3482ec6",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-09-2026-09-02-sequential.json": "fb441e76f4290db20f79286f70ca59e8c708d9d23d19f1ab85163dbef947770a",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Society\\indian-society-09.json": "d1967644283434741b9b4bb21449a08a1b18bd21c5895ab504e760116b92adcb",
+          "upsc-ai-kit\\manifests\\v2\\indian-society--subject-wide-syllabus.json": "e54bb44dcde4dc103450a1b8da6f1cd15ce8b5c953895cee41f8346d683e5155",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "No additional live official item was verified for this topic on 2026-09-02. Only the dated official anchors already carried by the repository owners are used, each with its issuing body and date. The package invents no caste, tribe, demographic or agrarian statistic, no legal or constitutional claim and no policy status.",
+        "pyq_status_note": "Four direct General Studies Paper-I Mains demands are carried by this owner and each is recorded with its exact routing status. The 2018 Q9 demand on the persistence of poverty despite eradication programmes and the 2020 Q9 demand on the pandemic, class inequalities and poverty are routed in the audited 2018-2023 Mains ledger to the Advanced owner, while the Core owner's own answer-architecture table records that Core routing supersedes, so both are answered here from the Basic spine. The locally held official question papers for 2018 and 2020 are scanned images from which reliable text cannot be extracted, so the audited ledger's neutral demand rendering is used for those two years and no verbatim wording is claimed. The 2024 Q10 demand on collaboration between government, non-governmental organisations and the private sector is routed in the audited 2024-2025 ledger to the Governance civil-society owner while this owner's own table claims it as a core route, and that cross-owner conflict is recorded openly here. The 2025 Q19 demand on sustainable growth against the needs of the poor is routed in the same ledger to this Basic owner. The wording of the 2024 and 2025 demands was confirmed in the locally held official question papers for those years. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "7daa9e5c4c1dc2dca105c973d98eb6d9a19132308077fb0d79206c73ed733f84"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "indian-society-09:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-02",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-09\\indian-society-09_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "62a2e862c9b252e1dd3a1f92673bbb112928e68161e4da1d04fe484843a55ecd",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\flowcharts\\indian-society-09\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-09-2026-09-02-sequential.json",
+        "ascii_master_spec_sha256": "fb441e76f4290db20f79286f70ca59e8c708d9d23d19f1ab85163dbef947770a"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

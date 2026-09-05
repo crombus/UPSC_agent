@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-38-42-sequential-batch-2026-08-25",
+  "created_at": "2026-08-25T09:36:07+05:30",
+  "strict_order": [
+    "polity-38",
+    "polity-39",
+    "polity-40",
+    "polity-41",
+    "polity-42"
+  ],
+  "topics": [
+    {
+      "topic_key": "polity-38",
+      "title": "Lokpal and Lokayuktas",
+      "started_at": "2026-08-25T08:57:12+05:30",
+      "completed_at": "2026-08-25T09:04:10.416216+05:30",
+      "record_id": "polity-38:learner-v2:g2",
+      "counts": {
+        "sessions": 26,
+        "main_pdf_pages": 89,
+        "workbook_pdf_pages": 18,
+        "mcqs": 48,
+        "verified_pyqs": 1,
+        "supporting_pyqs": 0,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\38-Lokpal-and-Lokayuktas",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-38-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-38-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-38-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-38-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-38.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-38\\carvaka-g2"
+      },
+      "factual_caveat": "Lokpal is a statutory corruption-complaint institution, not a general grievance body, police force or criminal court. The Prime Minister is covered through special filters; parliamentary speech/vote protection, agency dependence, State-law Lokayukta variation and pending litigation must remain expressly qualified.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T08:57:12+05:30",
+        "A_completed": "2026-08-25T08:57:56+05:30",
+        "B_completed": "2026-08-25T08:57:58+05:30",
+        "C_completed": "2026-08-25T08:57:58+05:30",
+        "D_completed": "2026-08-25T08:57:58+05:30",
+        "E_completed": "2026-08-25T08:57:58+05:30",
+        "F_completed": "2026-08-25T08:58:33+05:30",
+        "G_completed": "2026-08-25T08:58:33+05:30",
+        "H_completed": "2026-08-25T09:00:39+05:30",
+        "I_completed": "2026-08-25T09:04:10.416216+05:30",
+        "J_completed": "2026-08-25T09:04:10.416216+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\38-Lokpal-and-Lokayuktas",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-38-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30"
+    },
+    {
+      "topic_key": "polity-39",
+      "title": "Cooperative Societies",
+      "started_at": "2026-08-25T09:14:14+05:30",
+      "completed_at": "2026-08-25T09:18:53.601266+05:30",
+      "record_id": "polity-39:learner-v2:g2",
+      "counts": {
+        "sessions": 15,
+        "main_pdf_pages": 67,
+        "workbook_pdf_pages": 17,
+        "mcqs": 48,
+        "verified_pyqs": 0,
+        "supporting_pyqs": 3,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\39-Cooperative-Societies",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-39-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-39-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-39-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-39-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-39.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g2"
+      },
+      "factual_caveat": "After Rajendra N. Shah, Part IXB cannot be written as a uniform binding code for ordinary State-field cooperatives. Article 19(1)(c), Article 43B and the valid multi-State field survive; Ministry, Registrar, financing, representative and operating cooperative bodies remain legally distinct.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T09:14:14+05:30",
+        "A_completed": "2026-08-25T09:15:00+05:30",
+        "B_completed": "2026-08-25T09:15:03+05:30",
+        "C_completed": "2026-08-25T09:15:03+05:30",
+        "D_completed": "2026-08-25T09:15:03+05:30",
+        "E_completed": "2026-08-25T09:15:03+05:30",
+        "F_completed": "2026-08-25T09:15:34+05:30",
+        "G_completed": "2026-08-25T09:15:34+05:30",
+        "H_completed": "2026-08-25T09:18:42+05:30",
+        "I_completed": "2026-08-25T09:18:53.601266+05:30",
+        "J_completed": "2026-08-25T09:18:53.601266+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 5,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\39-Cooperative-Societies",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-39-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30"
+    },
+    {
+      "topic_key": "polity-40",
+      "title": "Official Language",
+      "started_at": "2026-08-25T09:20:56+05:30",
+      "completed_at": "2026-08-25T09:24:42.367861+05:30",
+      "record_id": "polity-40:learner-v2:g2",
+      "counts": {
+        "sessions": 23,
+        "main_pdf_pages": 84,
+        "workbook_pdf_pages": 15,
+        "mcqs": 48,
+        "verified_pyqs": 1,
+        "supporting_pyqs": 0,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-40-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-40-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-40-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-40-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-40.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g2"
+      },
+      "factual_caveat": "India has an official-language settlement, not a constitutionally declared national language. English continuation is statutory; State, court, grievance, minority-instruction, scheduled, classical and education-policy categories must not be collapsed.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T09:20:56+05:30",
+        "A_completed": "2026-08-25T09:22:01+05:30",
+        "B_completed": "2026-08-25T09:22:03+05:30",
+        "C_completed": "2026-08-25T09:22:03+05:30",
+        "D_completed": "2026-08-25T09:22:03+05:30",
+        "E_completed": "2026-08-25T09:22:03+05:30",
+        "F_completed": "2026-08-25T09:22:35+05:30",
+        "G_completed": "2026-08-25T09:22:35+05:30",
+        "H_completed": "2026-08-25T09:24:31+05:30",
+        "I_completed": "2026-08-25T09:24:42.367861+05:30",
+        "J_completed": "2026-08-25T09:24:42.367861+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\40-Official-Language",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-40-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30"
+    },
+    {
+      "topic_key": "polity-41",
+      "title": "Public Services",
+      "started_at": "2026-08-25T09:26:39+05:30",
+      "completed_at": "2026-08-25T09:30:40.305579+05:30",
+      "record_id": "polity-41:learner-v2:g2",
+      "counts": {
+        "sessions": 36,
+        "main_pdf_pages": 90,
+        "workbook_pdf_pages": 15,
+        "mcqs": 48,
+        "verified_pyqs": 0,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\41-Public-Services",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-41-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-41-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-41-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-41.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g2"
+      },
+      "factual_caveat": "Public Services owns the service relationship under Articles 308-314, not the separate PSC institutional topic. Pleasure is constitutionally fettered; Article 311 is a procedural shield, not immunity; public-sector, contractual, constitutional-office and civil-post categories require separate legal tests.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-25T09:26:39+05:30",
+        "A_completed": "2026-08-25T09:27:44+05:30",
+        "B_completed": "2026-08-25T09:27:46+05:30",
+        "C_completed": "2026-08-25T09:27:46+05:30",
+        "D_completed": "2026-08-25T09:27:46+05:30",
+        "E_completed": "2026-08-25T09:27:47+05:30",
+        "F_completed": "2026-08-25T09:28:22+05:30",
+        "G_completed": "2026-08-25T09:28:22+05:30",
+        "H_completed": "2026-08-25T09:30:29+05:30",
+        "I_completed": "2026-08-25T09:30:40.305579+05:30",
+        "J_completed": "2026-08-25T09:30:40.305579+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\41-Public-Services",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-41-flow-learning-2026-08-25-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30"
+    },
+    {
+      "topic_key": "polity-42",
+      "title": "Anti Defection Law",
+      "started_at": "2026-08-25T09:32:42+05:30",
+      "completed_at": "2026-08-25T09:36:07+05:30",
+      "gate_times": {
+        "A_started": "2026-08-25T09:32:42+05:30",
+        "A_completed": "2026-08-25T09:33:08+05:30",
+        "B_completed": "2026-08-25T09:33:11+05:30",
+        "C_completed": "2026-08-25T09:33:11+05:30",
+        "D_completed": "2026-08-25T09:33:11+05:30",
+        "E_completed": "2026-08-25T09:33:11+05:30",
+        "F_completed": "2026-08-25T09:35:38+05:30",
+        "G_completed": "2026-08-25T09:35:38+05:30",
+        "H_completed": "2026-08-25T09:35:43+05:30",
+        "I_completed": "2026-08-25T09:36:04+05:30",
+        "J_completed": "2026-08-25T09:36:07+05:30"
+      },
+      "record_id": "polity-42:learner-v2:g2",
+      "approved": false,
+      "counts": {
+        "sessions": 27,
+        "main_pdf_pages": 83,
+        "workbook_pdf_pages": 15,
+        "mcqs": 48,
+        "verified_pyqs": 2,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 3,
+        "original_mains_authored": 8
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\42-Anti-Defection-Law",
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\42-Anti-Defection-Law",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-42-source-pyq-current-audit-2026-08-25.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-42-validation-2026-08-25.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-42-new-topic-2026-08-25.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-42.json",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-42-flow-learning-2026-08-25-validation.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g2"
+      },
+      "factual_caveat": "The Tenth Schedule disqualifies specified conduct; it does not criminalise defection or make every dissenting speech a whip breach. Speaker delay, resignation, merger and party-identity disputes require chronology, natural justice, judicial review and pending-case qualifications.",
+      "gates_passed": 10,
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      },
+      "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30"
+    }
+  ],
+  "existing_clean_topic_artifact_count": 560,
+  "existing_flow_topic_artifact_count": 210,
+  "existing_clean_hash_mismatches": [],
+  "existing_flow_hash_mismatches": [],
+  "prior_generated_topic_hash_mismatches": []
+}

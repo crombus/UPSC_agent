@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-37",
+      "display_title": "The Rajiv Years & the Run-up to the Millennium",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The 1984 mandate and modernising agenda",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MANDATE -> DECEMBER 1984; RAJIV GANDHI wins about 415 of 543 seats",
+            "AGENDA -> telecom, computerisation, science missions, panchayati raj",
+            "CAUTION -> panchayati raj not yet constitutional; that comes in the 1990s",
+            "SIGNIFICANCE -> the largest mandate in Indian electoral history to date",
+            "MUST REMEMBER: Rajiv Gandhi's December 1984 victory (Congress 404 of 514 elected seats), the",
+            "  52nd Amendment and Punjab/Assam accords of 1985, Shah Bano reversal and Bofors controversy,",
+            "  the 1989 National Front coalition, Mandal implementation and Advani's rath yatra in 1990,",
+            "  the 1991 reforms, Babri Masjid demolition on 6 December 1992 and coalition governments from",
+            "  1996 form separate stages."
+          ],
+          "source_references": [
+            "Rajiv Gandhi's 1984 mandate and modernising agenda",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The 1985 accords and the Anti-Defection Act",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PUNJAB ACCORD -> Rajiv Gandhi and Harchand Singh Longowal, 1985",
+            "ASSAM AND MIZORAM ACCORDS -> also settled in 1985",
+            "ANTI-DEFECTION ACT -> 52nd Constitutional Amendment, 1985",
+            "EFFECT -> three inherited regional crises addressed by negotiation"
+          ],
+          "source_references": [
+            "The 1985 accords and the Anti-Defection Act",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The twin identity concessions",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "CONCESSION 1 -> Shah Bano reversal, 1985-86, conservative pressure",
+            "CONCESSION 2 -> Ayodhya shrine opening, meant to balance concession 1",
+            "RESULT -> both communities alienated, not balanced",
+            "LESSON -> symbolic concessions to two sides do not cancel; they mobilise both"
+          ],
+          "source_references": [
+            "The Shah Bano reversal and the Ayodhya shrine opening",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bofors and the exit of V.P. Singh",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "BOFORS SCANDAL -> breaks in 1987; wrecks Rajiv Gandhi's \"Mr Clean\" image",
+            "V.P. SINGH -> exits Congress; forms the JAN MORCHA, 1987",
+            "NEXT STEP -> JANATA DAL / NATIONAL FRONT formed, 1988",
+            "OUTCOME -> Congress's own clean-government idiom turned against it"
+          ],
+          "source_references": [
+            "Bofors and V.P. Singh's exit",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "1989: fragmentation of the party system",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONGRESS -> falls from the 1984 record to about 197 seats",
+            "BJP -> rises from 2 seats (1984) to 86 seats (1989)",
+            "GOVERNMENT -> V.P. Singh's National Front, a MINORITY government",
+            "SUPPORT -> from OUTSIDE, by both the BJP and the Left"
+          ],
+          "source_references": [
+            "The 1989 election and party-system fragmentation",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Mandal, 1990: the caste axis",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "COMMISSION -> Mandal Commission recommendations implemented, 1990",
+            "QUOTA -> 27 per cent reservation for OBCs in central government jobs",
+            "TOTAL -> reservation moves toward about 49.5 per cent with SC/ST quotas",
+            "EFFECT -> nationwide agitation; OBC identity becomes an organised bloc"
+          ],
+          "source_references": [
+            "The Mandal Commission, 1990",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Mandir, 1990: the religious axis",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MOBILISATION -> Advani's rath yatra, 1990, intensifies Ayodhya agitation",
+            "PARALLEL -> runs alongside, and competes with, the Mandal announcement",
+            "CULMINATION -> Babri Masjid demolished, 6 DECEMBER 1992",
+            "EFFECT -> Hindutva mobilisation becomes a national electoral force"
+          ],
+          "source_references": [
+            "Advani's rath yatra and the Babri Masjid demolition",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "System-change engine: 1984 to 1999",
+          "structural_type": "flow",
+          "ascii_lines": [
+            "1984 -> single-party record majority",
+            "1985-89 -> identity misjudgements plus Bofors erode support; 1989 fragments",
+            "1990 -> Mandal (caste) and Mandir (religion) mobilise differently",
+            "1991-99 -> crisis-led reform, then coalition government as the normal form"
+          ],
+          "source_references": [
+            "The system-change engine, 1984-1999",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "1991: the economic break",
+          "structural_type": "cause-effect",
+          "ascii_lines": [
+            "GOVERNMENT -> Narasimha Rao takes office, 1991",
+            "POLICY -> economic liberalisation, Manmohan Singh as Finance Minister",
+            "TRIGGER -> a balance-of-payments crisis, not a prior political consensus",
+            "CONCURRENT -> Rajiv Gandhi assassinated during the same election campaign"
+          ],
+          "source_references": [
+            "1991: the economic break",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "The coalition decade, 1996-99",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1996 -> a short BJP government under Atal Bihari Vajpayee",
+            "1996-98 -> United Front governments, Deve Gowda then Gujral",
+            "1998 -> National Democratic Alliance (NDA) formed, under Vajpayee",
+            "1999 -> the NDA consolidated after the general election",
+            "CLOSE DISTINCTION: The Anti-Defection Act belongs to Rajiv's 1985 government, the 27-per-cent",
+            "  Mandal measure concerned OBC reservation in central government employment, the 1991 reforms",
+            "  were crisis-led under Narasimha Rao and Manmohan Singh, and 1990's yatra must not be",
+            "  confused with the 1992 demolition."
+          ],
+          "source_references": [
+            "The coalition decade, 1996-1999",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Comparative cleavages: Mandal versus Mandir",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AXIS      | MANDAL              | MANDIR",
+            "CLEAVAGE  | caste                | religion",
+            "YEAR      | 1990                 | 1990 (yatra), 1992 (demolition)",
+            "RESULT    | crossing lines; neither yields a national majority alone",
+            "EVIDENCE LIMIT: Election returns, amendment and accord texts, court-legislative sequences,",
+            "  budget/reform documents and attributed 'Mandal, Mandir and Market' interpretation must",
+            "  qualify both a simple modernisation story and a communal or caste-essentialist account."
+          ],
+          "source_references": [
+            "Comparative cleavages: Mandal versus Mandir",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Three-transitions thesis",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "TRANSITION 1 -> single-party majority to coalition government",
+            "TRANSITION 2 -> state-led planning to a liberalised economy",
+            "TRANSITION 3 -> Congress cross-class consensus to caste/religious identity",
+            "VERDICT -> the interaction of the three explains the decade best"
+          ],
+          "source_references": [
+            "The three-transitions thesis, 1989-1999",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g2\\modern-indian-history-37_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

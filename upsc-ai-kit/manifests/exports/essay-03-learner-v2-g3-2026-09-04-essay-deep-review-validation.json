@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "topic_key": "essay-03",
+  "record_id": "essay-03:learner-v2:g3",
+  "artifact_contract": "essay-specific-guide-v2",
+  "status": "failed",
+  "approved": false,
+  "scores": {
+    "complete_learning_session": 40,
+    "solved_practice_workbook": 30,
+    "graphical_flowchart": 14,
+    "ascii_master_flowchart": 14,
+    "total": 98
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "metrics": {
+    "practice_coverage": {
+      "outline": true,
+      "introduction": true,
+      "conclusion": false,
+      "paragraph_repair": true,
+      "transitions": true,
+      "thesis_correction": true,
+      "evidence_selection": true,
+      "full_essays": true
+    },
+    "model_essay_word_counts": [
+      1006,
+      1001,
+      1022,
+      1006,
+      1001,
+      1022
+    ],
+    "layout": {
+      "guide_pdf": {
+        "page_count": 25,
+        "blank_pages": [],
+        "near_empty_pages": [],
+        "clipped_text_pages": [],
+        "replacement_glyph_pages": []
+      },
+      "workbook_pdf": {
+        "page_count": 5,
+        "blank_pages": [],
+        "near_empty_pages": [],
+        "clipped_text_pages": [],
+        "replacement_glyph_pages": []
+      },
+      "solutions_pdf": {
+        "page_count": 13,
+        "blank_pages": [],
+        "near_empty_pages": [],
+        "clipped_text_pages": [],
+        "replacement_glyph_pages": []
+      }
+    },
+    "guide_words": 10232,
+    "workbook_words": 363,
+    "solutions_words": 5384,
+    "drill_count": 9,
+    "full_essay_count": 3,
+    "approved": false
+  },
+  "render_metrics": {
+    "guide": {
+      "pages": 25,
+      "bookmarks": 51,
+      "contents_page": 2
+    },
+    "workbook": {
+      "pages": 5,
+      "bookmarks": 16,
+      "contents_page": 2
+    },
+    "solutions": {
+      "pages": 13,
+      "bookmarks": 15,
+      "contents_page": 2
+    }
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Essay\\basic\\03_Issue-Based-Prompt-Scoping.md": "7dd7a44c61b8b9cec362e1f721463706fa9984aaf1482a85458e6f2dbb4a1ba8",
+    "upsc-ai-kit\\knowledge\\Essay\\advanced\\03_Issue-Based-Prompt-Scoping.md": "cdd903d2aa45c6cb07a0a8af924ec8f054d1c9dbf6d111e93262321ca7fa6feb"
+  },
+  "errors": [
+    "Literal &#8203; entities were rendered visibly inside table cells."
+  ]
+}

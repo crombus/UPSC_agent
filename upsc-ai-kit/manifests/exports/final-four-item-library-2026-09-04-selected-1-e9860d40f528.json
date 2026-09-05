@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T09:41:54+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "52893453b33c5788419ce567f0e233a7dc8229754a478dff4360cb7f22ab4ba5",
+    "sha256_after": "52893453b33c5788419ce567f0e233a7dc8229754a478dff4360cb7f22ab4ba5",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8950,
+    "pdf_count": 2307,
+    "png_count": 765,
+    "txt_count": 974,
+    "markdown_count": 1463,
+    "json_count": 3426,
+    "total_bytes": 4079640913,
+    "by_extension": {
+      ".json": 3426,
+      ".md": 1463,
+      ".pdf": 2307,
+      ".png": 765,
+      ".txt": 974,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-07",
+      "topic_title": "Economic Impact of British Rule (Drain, deindustrialisation, land-revenue, famines)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 7,
+      "source_record_id": "modern-indian-history-07:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "ae98867a3c3b1f4fde2a7adeea24e1701383cf1fb3cc82b9268d5f620c09a18e",
+          "output_sha256": "ae98867a3c3b1f4fde2a7adeea24e1701383cf1fb3cc82b9268d5f620c09a18e",
+          "source_output_equal": true,
+          "bytes": 5678473
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g5\\modern-indian-history-07_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "862c8861d6ada738f1a83cb379a1e9ef25283a600d6da3348b3ff44222e065d6",
+          "output_sha256": "862c8861d6ada738f1a83cb379a1e9ef25283a600d6da3348b3ff44222e065d6",
+          "source_output_equal": true,
+          "bytes": 1089802
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-07\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "0c848204407ec51552f8570bd222788cd1b089d08a9b7c1f81993cbf20fd09d3",
+          "output_sha256": "0c848204407ec51552f8570bd222788cd1b089d08a9b7c1f81993cbf20fd09d3",
+          "source_output_equal": true,
+          "bytes": 2220604
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-07\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "4a16cd550dc00ff431f621462a6f9f7f281e4ceea86a60973e953437d5711e25",
+          "output_sha256": "4a16cd550dc00ff431f621462a6f9f7f281e4ceea86a60973e953437d5711e25",
+          "source_output_equal": true,
+          "bytes": 2526748
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-07\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7ff3895309a39b0f52f470b172251801e6c41cb2e50c57d4da33f6fefb6019b4",
+          "output_sha256": "7ff3895309a39b0f52f470b172251801e6c41cb2e50c57d4da33f6fefb6019b4",
+          "source_output_equal": true,
+          "bytes": 1950372
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-07\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "86d98ebd4aba7c13f6e685680bc4a3e9f2ae0af6fd2e83b3200f6fb2eb7ddbaf",
+          "output_sha256": "86d98ebd4aba7c13f6e685680bc4a3e9f2ae0af6fd2e83b3200f6fb2eb7ddbaf",
+          "source_output_equal": true,
+          "bytes": 5112
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-07\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\07-Economic-Impact-of-136f8ba5-land-revenue-famines\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "e6358bc84f2b004ad77ea2f8cca48002489f0200c3ffc12b7fe8eaed3e5d2c31",
+          "output_sha256": "e6358bc84f2b004ad77ea2f8cca48002489f0200c3ffc12b7fe8eaed3e5d2c31",
+          "source_output_equal": true,
+          "source_text_sha256": "86d98ebd4aba7c13f6e685680bc4a3e9f2ae0af6fd2e83b3200f6fb2eb7ddbaf",
+          "normalized_text_equal": true,
+          "bytes": 57626
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 99,
+        "solved_practice_workbook": 38,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 99,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 38,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11242
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

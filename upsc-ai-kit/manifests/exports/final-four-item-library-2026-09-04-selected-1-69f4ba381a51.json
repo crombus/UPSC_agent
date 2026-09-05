@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T11:50:51+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "f950867b142ad23e3caee4e903613fb073dd9bef5be8b63f4d0d835c375a1dc9",
+    "sha256_after": "f950867b142ad23e3caee4e903613fb073dd9bef5be8b63f4d0d835c375a1dc9",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9347,
+    "pdf_count": 2372,
+    "png_count": 778,
+    "txt_count": 1000,
+    "markdown_count": 1529,
+    "json_count": 3653,
+    "total_bytes": 4171319349,
+    "by_extension": {
+      ".json": 3653,
+      ".md": 1529,
+      ".pdf": 2372,
+      ".png": 778,
+      ".txt": 1000,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-36",
+      "topic_title": "Janata Interregnum, Indira's Return & Regional Crises",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 36,
+      "source_record_id": "modern-indian-history-36:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "bbcdfd55e74a120ccbe48208e801ea9d7982208250ff803225b7a39ba90e3b8a",
+          "output_sha256": "bbcdfd55e74a120ccbe48208e801ea9d7982208250ff803225b7a39ba90e3b8a",
+          "source_output_equal": true,
+          "bytes": 588941
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-36\\g4\\modern-indian-history-36_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "c0fef79d353c480b3c3499f4e6023d8de0ae1d439adf6752b9dda8c751449626",
+          "output_sha256": "c0fef79d353c480b3c3499f4e6023d8de0ae1d439adf6752b9dda8c751449626",
+          "source_output_equal": true,
+          "bytes": 467049
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-36\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "a54e07686f5481ef393d4c1837b493d8bc2917255c7c06cfeb66574f8a23b14a",
+          "output_sha256": "a54e07686f5481ef393d4c1837b493d8bc2917255c7c06cfeb66574f8a23b14a",
+          "source_output_equal": true,
+          "bytes": 2237246
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-36\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "e4e27ff591fbb297f55ffd9d713db952899c42f88ba513f9d5e06abb2216a98a",
+          "output_sha256": "e4e27ff591fbb297f55ffd9d713db952899c42f88ba513f9d5e06abb2216a98a",
+          "source_output_equal": true,
+          "bytes": 2574649
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-36\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7a46977b3d93f57e2ca324d34866d29298f54a122e9ae8d88dc3681c90d3deb5",
+          "output_sha256": "7a46977b3d93f57e2ca324d34866d29298f54a122e9ae8d88dc3681c90d3deb5",
+          "source_output_equal": true,
+          "bytes": 1994269
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-36\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "d85e32afa8e1afd053e4ebda165e9a5a7647e6075bb6857ead7e46c3d34108e8",
+          "output_sha256": "d85e32afa8e1afd053e4ebda165e9a5a7647e6075bb6857ead7e46c3d34108e8",
+          "source_output_equal": true,
+          "bytes": 4900
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-36\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\36-Janata-Interregnum-Indiras-Return-and-Regional-Crises\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f16275805fa8bb251fcd89b7bc13a0be36c876e96ba35aa54e125bfe4af74fc5",
+          "output_sha256": "f16275805fa8bb251fcd89b7bc13a0be36c876e96ba35aa54e125bfe4af74fc5",
+          "source_output_equal": true,
+          "source_text_sha256": "d85e32afa8e1afd053e4ebda165e9a5a7647e6075bb6857ead7e46c3d34108e8",
+          "normalized_text_equal": true,
+          "bytes": 57365
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 67,
+        "solved_practice_workbook": 34,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 67,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10940
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

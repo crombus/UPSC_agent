@@ -1,0 +1,710 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-06",
+  "subject": "Philosophy",
+  "title": "YOGA",
+  "short_route": "MIND-FIELD ARCHITECTURE → MENTAL MODIFICATIONS AND RESTRAINT → AFFLICTIONS AND KARMIC CHAIN → EIGHT-LIMBED DISCIPLINE → ABSORPTION LADDER → LORD AND DISCRIMINATIVE INSIGHT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "ascii_spec_sha256": "1ca48c3ac5583519d5d971a83c1d8b3213c7525f9e43ac0d254cb5191b8f268d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MIND-FIELD ARCHITECTURE",
+      "structural_type": "psychological hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MIND-FIELD ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "DISCIPLINE OF THE MIND-FIELD (CITTA) OBJECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MIND-FIELD (CITTA)",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSCIOUS WITNESS (PURUṢA) DETERMINATE INTELLECT (BUDDHI) + EGO-MAKER (AHAṂKĀRA)",
+          "role": "evidence"
+        },
+        {
+          "text": "THE WITNESS MISTAKES REFLECTED MENTAL STATES FOR ITSELF CORE",
+          "role": "primary"
+        },
+        {
+          "text": "RESTRAINT OF MENTAL MODIFICATIONS (CITTA-VṚTTI-NIRODHA)",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "YOGA: DISCIPLINE OF THE MIND-FIELD (CITTA) objects → senses → mind-field (citta) → conscious witness",
+        "(puruṣa) determinate intellect (buddhi) + ego-maker (ahaṃkāra) + sensory mind (manas) bondage = the witness",
+        "mistakes reflected mental states for itself core aim → restraint of mental modifications (citta-vṛtti-nirodha)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "YOGA: DISCIPLINE OF THE MIND-FIELD (CITTA) objects → senses → mind-field (citta) → conscious witness",
+            "(puruṣa) determinate intellect (buddhi) + ego-maker (ahaṃkāra) + sensory mind (manas) bondage = the witness"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "mistakes reflected mental states for itself core aim → restraint of mental modifications (citta-vṛtti-nirodha)",
+            "YOGA: DISCIPLINE OF THE MIND-FIELD (CITTA) objects → senses → mind-field (citta) → conscious witness"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "(puruṣa) determinate intellect (buddhi) + ego-maker (ahaṃkāra) + sensory mind (manas) bondage = the witness",
+            "mistakes reflected mental states for itself core aim → restraint of mental modifications (citta-vṛtti-nirodha)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "YOGA: DISCIPLINE OF THE MIND-FIELD (CITTA) objects → senses → mind-field (citta) → conscious witness (puruṣa) determinate intellect (buddhi) + ego-maker (ahaṃkāra) + sensory mind (manas) bondage = the witness mistakes reflected mental states for itself core aim → restraint of mental modifications (citta-vṛtti-nirodha).",
+      "source_references": [
+        "Mind-field architecture"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MENTAL MODIFICATIONS AND RESTRAINT",
+      "structural_type": "classification and control map",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MENTAL MODIFICATIONS AND RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS) PERCEPTION/INFERENCE/TESTIMONY",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMORY EACH MAY BE AFFLICTED OR UNAFFLICTED; EVEN VALID",
+          "role": "comparison"
+        },
+        {
+          "text": "PROGRESSIVE RESTRAINT TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "RESTRAINT IS DISCIPLINED LUCIDITY, NOT UNCONSCIOUS BLANKNESS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS) perception/inference/testimony",
+        "memory each may be afflicted or unafflicted",
+        "even valid cognition is a modification sustained practice (abhyāsa) + dispassion (vairāgya) → progressive restraint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS) perception/inference/testimony",
+            "memory each may be afflicted or unafflicted"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "even valid cognition is a modification sustained practice (abhyāsa) + dispassion (vairāgya) → progressive restraint trap: restraint is",
+            "FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS) perception/inference/testimony"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "memory each may be afflicted or unafflicted",
+            "even valid cognition is a modification sustained practice (abhyāsa) + dispassion (vairāgya) → progressive restraint trap: restraint is"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIVE MENTAL MODIFICATIONS (CITTA-VṚTTIS) perception/inference/testimony | error | construction | sleep | memory each may be afflicted or unafflicted; even valid cognition is a modification sustained practice (abhyāsa) + dispassion (vairāgya) → progressive restraint trap: restraint is disciplined lucidity, not unconscious blankness.",
+      "source_references": [
+        "Mental modifications and restraint"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "AFFLICTIONS AND KARMIC CHAIN",
+      "structural_type": "causal chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AFFLICTIONS AND KARMIC CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IGNORANCE (AVIDYĀ)",
+          "role": "outcome"
+        },
+        {
+          "text": "EGO-IDENTIFICATION (ASMITĀ)",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTACHMENT (RĀGA)",
+          "role": "evidence"
+        },
+        {
+          "text": "AVERSION (DVEṢA)",
+          "role": "primary"
+        },
+        {
+          "text": "CLINGING TO LIFE (ABHINIVEŚA) AFFLICTIONS (KLEŚAS)",
+          "role": "outcome"
+        },
+        {
+          "text": "LATENT DEPOSIT",
+          "role": "comparison"
+        },
+        {
+          "text": "REBIRTH PREPARATORY DISCIPLINE (KRIYĀ-YOGA) THINS AFFLICTIONS MEDITATION BURNS THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ignorance (avidyā) → ego-identification (asmitā)",
+        "attachment (rāga) / aversion (dveṣa) → clinging to life (abhiniveśa) afflictions (kleśas) → action →",
+        "fruition → rebirth preparatory discipline (kriyā-yoga) thins afflictions meditation burns the remaining seeds and makes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ignorance (avidyā) → ego-identification (asmitā)",
+            "attachment (rāga) / aversion (dveṣa) → clinging to life (abhiniveśa) afflictions (kleśas) → action → latent deposit →"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "fruition → rebirth preparatory discipline (kriyā-yoga) thins afflictions meditation burns the remaining seeds and makes discriminative insight possible",
+            "ignorance (avidyā) → ego-identification (asmitā)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "attachment (rāga) / aversion (dveṣa) → clinging to life (abhiniveśa) afflictions (kleśas) → action → latent deposit →",
+            "fruition → rebirth preparatory discipline (kriyā-yoga) thins afflictions meditation burns the remaining seeds and makes discriminative insight possible"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "attachment (rāga) / aversion (dveṣa) → clinging to life (abhiniveśa) afflictions (kleśas) → action → latent deposit → fruition → rebirth preparatory discipline (kriyā-yoga) thins afflictions meditation burns the remaining seeds and makes discriminative insight possible.",
+      "source_references": [
+        "Afflictions and karmic chain"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EIGHT-LIMBED DISCIPLINE",
+      "structural_type": "ascending practice ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EIGHT-LIMBED DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "EIGHT-LIMBED DISCIPLINE (AṢṬĀṄGA-YOGA) ETHICAL RESTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "BREATH REGULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSE WITHDRAWAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ABSORPTION FIRST FIVE PREPARE BODY, CONDUCT AND ATTENTION; FINAL",
+          "role": "primary"
+        },
+        {
+          "text": "POSTURE IS ONE LIMB, NOT THE DEFINITION OR FINAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EIGHT-LIMBED DISCIPLINE (AṢṬĀṄGA-YOGA) ethical restraint → observance → posture → breath regulation",
+        "sense withdrawal → concentration → meditation → absorption first five prepare body, conduct and attention",
+        "final three form integrated concentration trap: posture is one limb, not the definition or final"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "EIGHT-LIMBED DISCIPLINE (AṢṬĀṄGA-YOGA) ethical restraint → observance → posture → breath regulation",
+            "sense withdrawal → concentration → meditation → absorption first five prepare body, conduct and attention"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "final three form integrated concentration trap: posture is one limb, not the definition or final goal of Yoga",
+            "EIGHT-LIMBED DISCIPLINE (AṢṬĀṄGA-YOGA) ethical restraint → observance → posture → breath regulation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "sense withdrawal → concentration → meditation → absorption first five prepare body, conduct and attention",
+            "final three form integrated concentration trap: posture is one limb, not the definition or final goal of Yoga"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "posture is one limb, not the definition or final goal of Yoga.",
+      "source_references": [
+        "Eight-limbed discipline"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ABSORPTION LADDER",
+      "structural_type": "meditative progression",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ABSORPTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI) GROSS REASONING",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBTLE REFLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "I-AM-NESS TRUTH-BEARING INSIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECTLESS ABSORPTION",
+          "role": "primary"
+        },
+        {
+          "text": "SEEDLESS ABSORPTION CLOUD-OF-VIRTUE ABSORPTION (DHARMAMEGHA-SAMĀDHI) ENDS AFFLICTION AND ACTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI) gross reasoning → subtle reflection → joy → I-am-ness truth-bearing insight",
+        "→ objectless absorption → seedless absorption cloud-of-virtue absorption (dharmamegha-samādhi) ends affliction and action do",
+        "not conflate the four YS 1.17 supports with the separate absorption taxonomy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI) gross reasoning → subtle reflection → joy → I-am-ness truth-bearing insight",
+            "→ objectless absorption → seedless absorption cloud-of-virtue absorption (dharmamegha-samādhi) ends affliction and action do"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "not conflate the four YS 1.17 supports with the separate absorption taxonomy",
+            "OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI) gross reasoning → subtle reflection → joy → I-am-ness truth-bearing insight"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "→ objectless absorption → seedless absorption cloud-of-virtue absorption (dharmamegha-samādhi) ends affliction and action do",
+            "not conflate the four YS 1.17 supports with the separate absorption taxonomy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OBJECT-SUPPORTED ABSORPTION (SAMPRAJÑĀTA-SAMĀDHI) gross reasoning → subtle reflection → joy → I-am-ness truth-bearing insight → objectless absorption → seedless absorption cloud-of-virtue absorption (dharmamegha-samādhi) ends affliction and action do not conflate the four YS 1.17 supports with the separate absorption taxonomy.",
+      "source_references": [
+        "Absorption ladder"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LORD AND DISCRIMINATIVE INSIGHT",
+      "structural_type": "function comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LORD AND DISCRIMINATIVE INSIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "LORD (ĪŚVARA)",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION DEDICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCENTRATION AID + TIMELESS TEACHER NOT THE MATERIAL CREATOR",
+          "role": "caution"
+        },
+        {
+          "text": "DISCRIMINATIVE INSIGHT (VIVEKA-KHYĀTI)",
+          "role": "primary"
+        },
+        {
+          "text": "YOGA IS THEISTIC SAMKHYA IN METHOD, WHILE LIBERATION REMAINS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION dedication to",
+        "the Lord → concentration aid + timeless teacher not the material creator of",
+        "Nyaya and not a substitute for practice decisive knowledge = discriminative insight (viveka-khyāti)",
+        "Yoga is theistic Samkhya in method, while liberation remains discriminative"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION dedication to",
+          "Nyaya and not a substitute for practice decisive knowledge = discriminative insight (viveka-khyāti)",
+          "LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION dedication to"
+        ],
+        [
+          "the Lord → concentration aid + timeless teacher not the material creator of",
+          "Yoga is theistic Samkhya in method, while liberation remains discriminative",
+          "the Lord → concentration aid + timeless teacher not the material creator of"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION dedication to",
+            "the Lord → concentration aid + timeless teacher not the material creator of"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Nyaya and not a substitute for practice decisive knowledge = discriminative insight (viveka-khyāti)",
+            "Yoga is theistic Samkhya in method, while liberation remains discriminative"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "LORD (ĪŚVARA) = SPECIAL CONSCIOUS WITNESS, UNTOUCHED BY AFFLICTION OR ACTION dedication to",
+            "the Lord → concentration aid + timeless teacher not the material creator of"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Yoga is theistic Samkhya in method, while liberation remains discriminative.",
+      "source_references": [
+        "Lord and discriminative insight"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ISOLATION AND THE RELATION PROBLEM",
+      "structural_type": "objection-reply matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ISOLATION AND THE RELATION PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "ISOLATION (KAIVALYA)",
+          "role": "outcome"
+        },
+        {
+          "text": "THE WITNESS ESTABLISHED IN ITS OWN NATURE REVERSE EVOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW CAN INACTIVE CONSCIOUSNESS RELATE TO INSENTIENT MIND?",
+          "role": "evidence"
+        },
+        {
+          "text": "REFLECTION AND MERE PROXIMITY PROTECT THE WITNESS FROM CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "PROXIMITY NAMES THE RELATION MORE CLEARLY THAN IT EXPLAINS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE reverse evolution returns constituent",
+        "qualities to primordial material nature objection: how can inactive consciousness relate to insentient mind?",
+        "reply: reflection and mere proximity protect the witness from change residual limit: proximity names the"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE reverse evolution returns constituent",
+          "reply: reflection and mere proximity protect the witness from change residual limit: proximity names the relation more clearly than it explains it",
+          "qualities to primordial material nature objection: how can inactive consciousness relate to insentient mind?"
+        ],
+        [
+          "qualities to primordial material nature objection: how can inactive consciousness relate to insentient mind?",
+          "ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE reverse evolution returns constituent",
+          "reply: reflection and mere proximity protect the witness from change residual limit: proximity names the relation more clearly than it explains it"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE reverse evolution returns constituent",
+            "qualities to primordial material nature objection: how can inactive consciousness relate to insentient mind?"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "reply: reflection and mere proximity protect the witness from change residual limit: proximity names the relation more clearly than it explains it",
+            "ISOLATION (KAIVALYA) = THE WITNESS ESTABLISHED IN ITS OWN NATURE reverse evolution returns constituent"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "qualities to primordial material nature objection: how can inactive consciousness relate to insentient mind?",
+            "reply: reflection and mere proximity protect the witness from change residual limit: proximity names the relation more clearly than it explains it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "reply: reflection and mere proximity protect the witness from change residual limit: proximity names the relation more clearly than it explains it.",
+      "source_references": [
+        "Isolation and the relation problem"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SYNTHESIS",
+      "structural_type": "answer route",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLAIN MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONNECT PRACTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "EVALUATE MIND-FIELD",
+          "role": "evidence"
+        },
+        {
+          "text": "EIGHT LIMBS",
+          "role": "primary"
+        },
+        {
+          "text": "ISOLATION USE THE EXACT QUESTION'S DOCTRINE; DISTINGUISH LORD, WITNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGOROUS PSYCHOLOGY AND PRAXIS, CONTESTED DUALIST RELATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE → CLASSIFY → EXPLAIN MECHANISM → CONNECT PRACTICE → EVALUATE mind-field → modifications →",
+        "distinguish Lord, witness and mind add one named objection and the strongest Yoga reply qualified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE → CLASSIFY → EXPLAIN MECHANISM → CONNECT PRACTICE → EVALUATE mind-field → modifications → afflictions → eight",
+            "distinguish Lord, witness and mind add one named objection and the strongest Yoga reply qualified verdict: rigorous psychology"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEFINE → CLASSIFY → EXPLAIN MECHANISM → CONNECT PRACTICE → EVALUATE mind-field → modifications → afflictions → eight",
+            "distinguish Lord, witness and mind add one named objection and the strongest Yoga reply qualified verdict: rigorous psychology"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DEFINE → CLASSIFY → EXPLAIN MECHANISM → CONNECT PRACTICE → EVALUATE mind-field → modifications → afflictions → eight",
+            "distinguish Lord, witness and mind add one named objection and the strongest Yoga reply qualified verdict: rigorous psychology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEFINE → CLASSIFY → EXPLAIN MECHANISM → CONNECT PRACTICE → EVALUATE mind-field → modifications → afflictions → eight limbs → absorption → isolation use the exact question's doctrine; distinguish Lord, witness and mind add one named objection and the strongest Yoga reply qualified verdict: rigorous psychology and praxis, contested dualist relation.",
+      "source_references": [
+        "PYQ answer synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 1 — YOGA AS THEISTIC SAMKHYA (SEŚVARA-SĀṂKHYA)",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTIONAL DEPTH 2 — RESTRAINT OF MENTAL MODIFICATIONS (CITTA-VṚTTI-NIRODHA)",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE MODIFICATIONS AND REAL TRANSFORMATION OF MIND",
+          "role": "evidence"
+        },
+        {
+          "text": "OPTIONAL DEPTH 3 — AFFLICTIONS (KLEŚAS), ACTION AND MORAL",
+          "role": "primary"
+        },
+        {
+          "text": "THE CAUSAL THERAPY OF BONDAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTIONAL DEPTH 4 — MEDITATIVE ABSORPTION (SAMĀDHI)",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECT-SUPPORTED INSIGHT, SEEDLESS RESTRAINT AND CLASSIFICATION CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "OPTIONAL DEPTH 1 — Yoga as Theistic Samkhya (seśvara-sāṃkhya) and the Structure of Mind-field (citta)",
+            "OPTIONAL DEPTH 2 — Restraint of mental modifications (citta-vṛtti-nirodha): Five Modifications and Real Transformation of Mind",
+            "OPTIONAL DEPTH 3 — Afflictions (kleśas), Action and moral consequence (karma) and Astanga Yoga: The Causal Therapy of Bondage",
+            "OPTIONAL DEPTH 4 — Meditative absorption (samādhi): Object-Supported Insight, Seedless Restraint and Classification Control"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "OPTIONAL DEPTH 5 — Isolation (kaivalya) and Lord (Īśvara): Isolation, Discernment and the Special Conscious witness (puruṣa)",
+            "OPTIONAL DEPTH 6 — Inter-School Debates, Realism, Criticisms and UPSC Traps",
+            "OPTIONAL DEPTH 7 — Advanced Ledgers, Comparative Positioning and the Graded Verdict",
+            "OPTIONAL DEPTH 8 — PYQ Routing, Current Linkage and Complete Exam Deployment"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "It is materially subtle and sattva-dominant, so it can reflect consciousness while remaining insentient in itself.",
+            "Bondage occurs when borrowed luminosity is mistaken for intrinsic selfhood.",
+            "The reflection model protects an unchanging Conscious witness (puruṣa): every transformation occurs on the mind-field (citta) side.",
+            "Yet it presupposes an intelligible relation between radically different orders."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-25",
+      "display_title": "Climate Economics, Green Finance and Circular Economy",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Externality-to-transition rail",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "RESOURCE USE + EMISSIONS",
+            "-> UNPRICED SOCIAL COST",
+            "-> PRICE + RULE + FINANCE",
+            "-> LOW-CARBON RESILIENT OUTCOME",
+            "MUST REMEMBER: Climate economics addresses externalities, carbon pricing, regulation,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Mitigation-adaptation split",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MITIGATION -> emissions + sinks",
+            "ADAPTATION -> exposure + vulnerability",
+            "FINANCE MODELS differ",
+            "BOTH required; neither substitutes"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Carbon-value triangle",
+          "structural_type": "three-way-map",
+          "ascii_lines": [
+            "SCC -> damage valuation",
+            "CARBON TAX -> statutory price",
+            "TRADING PRICE -> market outcome",
+            "THREE VALUES may diverge"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "PAT-to-CCTS boundary",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PAT -> energy intensity",
+            "CCTS -> GHG compliance architecture",
+            "SECTOR + YEAR -> dated notification",
+            "PHASED STATUS != economy-wide market"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Climate-risk channels",
+          "structural_type": "risk-map",
+          "ascii_lines": [
+            "PHYSICAL -> hazard exposure",
+            "TRANSITION -> policy + technology",
+            "CREDIT + MARKET + OPERATIONAL",
+            "HOUSEHOLD + FISCAL transmission"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Green-finance credibility chain",
+          "structural_type": "verification-flow",
+          "ascii_lines": [
+            "ELIGIBILITY / TAXONOMY",
+            "-> ALLOCATION",
+            "-> OUTPUT + OUTCOME METRIC",
+            "-> ASSURANCE + ADDITIONALITY"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Bond-use boundary",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "GREEN BOND -> environmental uses",
+            "SUSTAINABILITY BOND -> green + social",
+            "SOVEREIGN ISSUE -> earmarked borrowing",
+            "LABEL != completed verified outcome"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Circular-value ladder",
+          "structural_type": "value-retention-ladder",
+          "ascii_lines": [
+            "REDUCE + REDESIGN",
+            "REUSE + REPAIR",
+            "REFURBISH + REMANUFACTURE",
+            "RECYCLE residual materials"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "EPR results chain",
+          "structural_type": "results-chain",
+          "ascii_lines": [
+            "PRODUCER OBLIGATION",
+            "-> COLLECTION / PROCESSING",
+            "-> CERTIFICATE + VERIFICATION",
+            "-> ACTUAL MATERIAL OUTCOME"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Just-transition map",
+          "structural_type": "distribution-board",
+          "ascii_lines": [
+            "WORKERS + SKILLS",
+            "REGIONS + REVENUE",
+            "CONSUMERS + AFFORDABILITY",
+            "ENERGY ACCESS + SOCIAL PROTECTION",
+            "CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Trade-climate boundary",
+          "structural_type": "two-system-map",
+          "ascii_lines": [
+            "EU CBAM -> external import rule",
+            "INDIA CCTS / MRV -> domestic system",
+            "RECOGNITION -> unsettled unless verified",
+            "TRADE PRESSURE != policy identity",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Climate-economics answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE metric + status",
+            "TRACE price + finance + innovation",
+            "TEST distribution + additionality",
+            "CONCLUDE credible just transition"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g2\\economy-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

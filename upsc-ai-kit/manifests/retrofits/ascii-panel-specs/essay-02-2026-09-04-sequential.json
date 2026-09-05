@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Essay learner-v2 Topic 02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "essay-02",
+      "display_title": "Philosophical Quote Decoding",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-02_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Decoding start",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PRINTED PROMPT",
+            "CONTENT WORDS -> PLAIN MEANINGS",
+            "RELATION OR OPERATOR",
+            "WORKING PROPOSITION"
+          ],
+          "source_references": [
+            "Free-standing proposition",
+            "Content-word inventory",
+            "Relation or operator"
+          ]
+        },
+        {
+          "title": "Three-layer reading",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LITERAL -> what the sentence directly says",
+            "METAPHORICAL -> what the image carries",
+            "NORMATIVE -> what value or standard is implied",
+            "RULE -> layers must remain connected"
+          ],
+          "source_references": [
+            "Literal layer",
+            "Metaphorical layer",
+            "Normative layer"
+          ]
+        },
+        {
+          "title": "Operator matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CAUSAL -> X produces Y",
+            "COMPARATIVE -> X matters more or less than Y",
+            "DEFINITIONAL -> X is the meaning of Y",
+            "PARADOXICAL -> surface conflict reveals a deeper relation"
+          ],
+          "source_references": [
+            "Relation or operator",
+            "Paradox"
+          ]
+        },
+        {
+          "title": "Metaphor bridge",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "VEHICLE -> image named in the sentence",
+            "TENOR -> subject illuminated by the image",
+            "BRIDGE -> shared structure or mechanism",
+            "LIMIT -> no extension without textual support"
+          ],
+          "source_references": [
+            "Metaphorical layer",
+            "Mechanism"
+          ]
+        },
+        {
+          "title": "Tension engine",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "TERM A -> pressure or value",
+            "TERM B -> rival pressure or value",
+            "TENSION -> neither side is merely decorative",
+            "SYNTHESIS -> condition under which each insight holds"
+          ],
+          "source_references": [
+            "Operative tension",
+            "Normative layer"
+          ]
+        },
+        {
+          "title": "Scope ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "INDIVIDUAL -> conduct and experience",
+            "INSTITUTION -> incentives and rules",
+            "STATE OR WORLD -> policy and order",
+            "CIVILISATION -> long-run pattern"
+          ],
+          "source_references": [
+            "Scope",
+            "Scale test"
+          ]
+        },
+        {
+          "title": "Assumption test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "CLAIM -> what is asserted",
+            "ASSUMPTION -> what must be true",
+            "SCOPE -> where it plausibly holds",
+            "EXCEPTION -> what limits it"
+          ],
+          "source_references": [
+            "Hidden assumption",
+            "Scope",
+            "Exception"
+          ]
+        },
+        {
+          "title": "Counter-reading test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "READING ONE -> faithful and generative?",
+            "READING TWO -> faithful and generative?",
+            "COMPARE -> mechanism, scope and exception",
+            "CHOOSE -> stronger text-bound interpretation"
+          ],
+          "source_references": [
+            "Counter-reading",
+            "Mechanism",
+            "Scale test"
+          ]
+        },
+        {
+          "title": "Thesis alternatives",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "DECODED TENSION",
+            "BRANCH A -> thesis with one mechanism",
+            "BRANCH B -> thesis with another mechanism",
+            "SELECT -> defensible claim with explicit qualification"
+          ],
+          "source_references": [
+            "Thesis alternatives",
+            "Mechanism",
+            "Exception"
+          ]
+        },
+        {
+          "title": "Case testing",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "EXAMPLE -> instantiates the claim",
+            "COUNTEREXAMPLE -> exposes a limit",
+            "FEEDBACK -> consequence changes the starting condition",
+            "REVISION -> refine scope or mechanism"
+          ],
+          "source_references": [
+            "Examples",
+            "Counterexamples",
+            "Feedback"
+          ]
+        },
+        {
+          "title": "Attribution firewall",
+          "structural_type": "firewall",
+          "ascii_lines": [
+            "PAPER PRINTS NO AUTHOR -> do not supply one",
+            "NO BIOGRAPHY -> no intent can be inferred",
+            "PROMPT WORDING -> sufficient interpretive anchor",
+            "PRIMARY CHECK -> required before any attribution"
+          ],
+          "source_references": [
+            "Attribution firewall",
+            "Free-standing proposition"
+          ]
+        },
+        {
+          "title": "Decoding answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "WORDS -> OPERATOR -> LITERAL LAYER",
+            "METAPHOR OR NORMATIVE LAYER -> TENSION",
+            "SCOPE -> ASSUMPTION -> EXCEPTION",
+            "COUNTER-READING -> THESIS OPTIONS -> CASE TEST"
+          ],
+          "source_references": [
+            "Content-word inventory",
+            "Relation or operator",
+            "Printing-defect firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

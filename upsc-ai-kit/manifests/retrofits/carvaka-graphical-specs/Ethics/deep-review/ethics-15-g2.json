@@ -1,0 +1,1207 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-15",
+  "subject": "Ethics",
+  "title": "TRANSPARENCY, RTI AND INFORMATION SHARING",
+  "short_route": "INFORMATION-GOVERNANCE DISTINCTION MAP → RTI SCOPE AND RIGHTS-HOLDER → SECTION 4 PROACTIVE-DISCLOSURE ENGINE → SECTIONS 6 AND 7 → SECTION 8 EXEMPTION AND → SEVERABILITY AND THIRD-PARTY PROCEDURE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-15-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "9c187884176a40c41a6f1584b8455db0222e7766f61db704d18431599e53df60",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INFORMATION-GOVERNANCE DISTINCTION MAP",
+      "structural_type": "concept-separation",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INFORMATION-GOVERNANCE DISTINCTION MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. INFORMATION-GOVERNANCE DISTINCTION MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] TRANSPARENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "SYSTEMIC VISIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "[2] DISCLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTICULAR RELEASE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] SHARING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Information-governance distinction map",
+        "[1] Transparency: systemic visibility",
+        "[2] Disclosure: particular release",
+        "[3] Sharing: purpose-bound exchange"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Information-governance distinction map",
+            "[1] Transparency: systemic visibility",
+            "[2] Disclosure: particular release",
+            "[3] Sharing: purpose-bound exchange"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Open data: reusable datasets",
+            "[5] Privacy: dignity and control",
+            "[6] Accountability: answerability",
+            "[7] Forum supplies correction",
+            "[8] Law sets legitimate limits"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Moving information is not identical to making power accountable.",
+            "ANSWER USE → Use to define the topic and prevent synonym traps.",
+            "MUST REMEMBER: Transparency is an institutional condition of accessible reasons and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Moving information is not identical to making power accountable.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RTI SCOPE AND RIGHTS-HOLDER ROUTE",
+      "structural_type": "scope-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RTI SCOPE AND RIGHTS-HOLDER ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. RTI SCOPE AND RIGHTS-HOLDER ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SECTION 3",
+          "role": "evidence"
+        },
+        {
+          "text": "CITIZEN'S RIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "[2] IDENTIFY PUBLIC AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] LOCATE HELD OR CONTROLLED RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] INCLUDE LAW-ACCESSIBLE PRIVATE DATA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. RTI scope and rights-holder route",
+        "[1] Section 3: citizen's right",
+        "[2] Identify public authority",
+        "[3] Locate held or controlled record"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. RTI scope and rights-holder route",
+            "[1] Section 3: citizen's right",
+            "[2] Identify public authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Locate held or controlled record",
+            "[4] Include law-accessible private data",
+            "[5] Do not demand new opinion",
+            "[6] Applicant need not give reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Assist persons needing help",
+            "[8] Apply exemptions only afterward",
+            "VERDICT → RTI opens existing recorded information; it does not compel fresh intellectual creation.",
+            "ANSWER USE → Use for Sections 2, 3 and 6 answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → RTI opens existing recorded information; it does not compel fresh intellectual creation.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SECTION 4 PROACTIVE-DISCLOSURE ENGINE",
+      "structural_type": "proactive-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECTION 4 PROACTIVE-DISCLOSURE ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. SECTION 4 PROACTIVE-DISCLOSURE ENGINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CATALOGUE AND INDEX RECORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] COMPUTERISE APPROPRIATE RECORDS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PUBLISH ORGANISATION AND DUTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PUBLISH NORMS AND DECISION PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[5] PUBLISH BUDGET AND PROGRAMMES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Section 4 proactive-disclosure engine",
+        "[1] Catalogue and index records",
+        "[2] Computerise appropriate records",
+        "[3] Publish organisation and duties"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Section 4 proactive-disclosure engine",
+            "[1] Catalogue and index records",
+            "[2] Computerise appropriate records"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Publish organisation and duties",
+            "[4] Publish norms and decision process",
+            "[5] Publish budget and programmes",
+            "[6] Publish subsidies and concessions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Update, search and make accessible",
+            "[8] Minimise need for applications",
+            "VERDICT → The strongest RTI system answers routine questions before they become disputes.",
+            "ANSWER USE → Use for reform, capacity and anti-corruption answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The strongest RTI system answers routine questions before they become disputes.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SECTIONS 6 AND 7 REQUEST CLOCK",
+      "structural_type": "timeline-route",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SECTIONS 6 AND 7 REQUEST CLOCK",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. SECTIONS 6 AND 7 REQUEST CLOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FILE WRITTEN OR ELECTRONIC REQUEST",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] USE ENGLISH, HINDI OR LOCAL OFFICIAL LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] GIVE CONTACT DETAIL, NOT REASONS",
+          "role": "caution"
+        },
+        {
+          "text": "[4] TRANSFER UNDER SECTION 6(3)",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ORDINARY DECISION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Sections 6 and 7 request clock",
+        "[1] File written or electronic request",
+        "[2] Use English, Hindi or local official language",
+        "[3] Give contact detail, not reasons"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Sections 6 and 7 request clock",
+            "[1] File written or electronic request",
+            "[2] Use English, Hindi or local official language"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Give contact detail, not reasons",
+            "[4] Transfer under Section 6(3)",
+            "[5] Ordinary decision: thirty days",
+            "[6] Life or liberty: forty-eight hours"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Silence becomes deemed refusal",
+            "[8] Delay makes information free",
+            "VERDICT → Access is meaningful only when procedure is simple, assisted and time-bound.",
+            "ANSWER USE → Use for application and timeline close-option questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Access is meaningful only when procedure is simple, assisted and time-bound.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SECTION 8 EXEMPTION AND BALANCE",
+      "structural_type": "harm-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SECTION 8 EXEMPTION AND BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. SECTION 8 EXEMPTION AND BALANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NAME EXACT EXEMPTION CLAUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY PROTECTED INTEREST",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SPECIFY LIKELY DISCLOSURE HARM",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] REJECT GENERIC CONFIDENTIALITY",
+          "role": "caution"
+        },
+        {
+          "text": "[5] TEST SECTION 8(2) PUBLIC INTEREST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Section 8 exemption and balance",
+        "[1] Name exact exemption clause",
+        "[2] Identify protected interest",
+        "[3] Specify likely disclosure harm"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Section 8 exemption and balance",
+            "[1] Name exact exemption clause",
+            "[2] Identify protected interest"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Specify likely disclosure harm",
+            "[4] Reject generic confidentiality",
+            "[5] Test Section 8(2) public interest",
+            "[6] Consider twenty-year rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Record clause-linked reasons",
+            "[8] Preserve appeal and review",
+            "VERDICT → A protected interest requires a reasoned harm analysis, not a secrecy label.",
+            "ANSWER USE → Use for exemptions, OSA and public-interest questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A protected interest requires a reasoned harm analysis, not a secrecy label.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SEVERABILITY AND THIRD-PARTY PROCEDURE",
+      "structural_type": "redaction-consultation-route",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEVERABILITY AND THIRD-PARTY PROCEDURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. SEVERABILITY AND THIRD-PARTY PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY PROTECTED SEGMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] TEST REASONABLE SEPARATION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RELEASE NON-EXEMPT REMAINDER",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] NOTIFY REASONS AND REVIEW RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] NOTIFY AFFECTED THIRD PARTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Severability and third-party procedure",
+        "[1] Identify protected segment",
+        "[2] Test reasonable separation",
+        "[3] Release non-exempt remainder"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Severability and third-party procedure",
+            "[1] Identify protected segment",
+            "[2] Test reasonable separation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Release non-exempt remainder",
+            "[4] Notify reasons and review rights",
+            "[5] Notify affected third party",
+            "[6] Receive timely representation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] PIO decides independently",
+            "[8] Notify both sides of appeal",
+            "VERDICT → Redaction narrows secrecy; consultation improves fairness without creating a veto.",
+            "ANSWER USE → Use for Sections 10 and 11."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Redaction narrows secrecy; consultation improves fairness without creating a veto.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "APPEAL, BURDEN, REMEDY AND PENALTY",
+      "structural_type": "accountability-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "APPEAL, BURDEN, REMEDY AND PENALTY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. APPEAL, BURDEN, REMEDY AND PENALTY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PIO GIVES DECISION OR DEFAULTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FIRST APPEAL WITHIN AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SECOND APPEAL TO COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PIO BEARS DENIAL BURDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] COMMISSION MAY ORDER ACCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Appeal, burden, remedy and penalty",
+        "[1] PIO gives decision or defaults",
+        "[2] First appeal within authority",
+        "[3] Second appeal to Commission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Appeal, burden, remedy and penalty",
+            "[1] PIO gives decision or defaults",
+            "[2] First appeal within authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Second appeal to Commission",
+            "[4] PIO bears denial burden",
+            "[5] Commission may order access",
+            "[6] Commission may require system reform"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Section 20 penalty is conditional",
+            "[8] Persistent default may trigger discipline",
+            "VERDICT → RTI accountability joins access, justification, correction and personal consequence.",
+            "ANSWER USE → Use for 2018 Q2(b) and enforcement reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → RTI accountability joins access, justification, correction and personal consequence.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SECTION 24 SPECIAL BOUNDARY",
+      "structural_type": "exclusion-exception-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SECTION 24 SPECIAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. SECTION 24 SPECIAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CHECK NOTIFIED SECURITY ORGANISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GENERAL EXCLUSION APPLIES",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST CORRUPTION ALLEGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TEST HUMAN-RIGHTS ALLEGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CORRUPTION ROUTE REMAINS OPEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Section 24 special boundary",
+        "[1] Check notified security organisation",
+        "[2] General exclusion applies",
+        "[3] Test corruption allegation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Section 24 special boundary",
+            "[1] Check notified security organisation",
+            "[2] General exclusion applies"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test corruption allegation",
+            "[4] Test human-rights allegation",
+            "[5] Corruption route remains open",
+            "[6] Human-rights route needs approval"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Apply special forty-five-day period",
+            "[8] Protect genuine operational harm",
+            "VERDICT → Security-organisation exclusion is broad but not absolute.",
+            "ANSWER USE → Use for statutory traps and balanced national-security answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Security-organisation exclusion is broad but not absolute.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RTI AMENDMENT 2019 INSTITUTIONAL MAP",
+      "structural_type": "before-after-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RTI AMENDMENT 2019 INSTITUTIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. RTI AMENDMENT 2019 INSTITUTIONAL MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PRE-2019 TENURE FIXED IN ACT",
+          "role": "institution"
+        },
+        {
+          "text": "[2] PRE-2019 SALARY LINKS FIXED IN ACT",
+          "role": "institution"
+        },
+        {
+          "text": "[3] 2019 SHIFTS DETAIL TO CENTRAL RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CHANGE COVERS CENTRAL COMMISSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CHANGE ALSO COVERS STATE COMMISSIONS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. RTI Amendment 2019 institutional map",
+        "[1] Pre-2019 tenure fixed in Act",
+        "[2] Pre-2019 salary links fixed in Act",
+        "[3] 2019 shifts detail to Central rules"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] 2019 shifts detail to Central rules",
+          "[7] Independence concern is structural"
+        ],
+        [
+          "9. RTI Amendment 2019 institutional map",
+          "[4] Change covers Central Commissions",
+          "[8] Actual interference is not proved"
+        ],
+        [
+          "[1] Pre-2019 tenure fixed in Act",
+          "[5] Change also covers State Commissions",
+          "VERDICT → State the design risk precisely without claiming that RTI rights were abolished."
+        ],
+        [
+          "[2] Pre-2019 salary links fixed in Act",
+          "[6] Rules prescribe three-year term",
+          "ANSWER USE → Use for institutional-independence evaluation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. RTI Amendment 2019 institutional map",
+            "[1] Pre-2019 tenure fixed in Act",
+            "[2] Pre-2019 salary links fixed in Act"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 2019 shifts detail to Central rules",
+            "[4] Change covers Central Commissions",
+            "[5] Change also covers State Commissions",
+            "[6] Rules prescribe three-year term"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Independence concern is structural",
+            "[8] Actual interference is not proved",
+            "VERDICT → State the design risk precisely without claiming that RTI rights were abolished.",
+            "ANSWER USE → Use for institutional-independence evaluation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → State the design risk precisely without claiming that RTI rights were abolished.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OSA AND RTI INTERFACE",
+      "structural_type": "override-boundary",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OSA AND RTI INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. OSA AND RTI INTERFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] OSA 1923 REMAINS IN FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ARC RECOMMENDED REPEAL AND RELOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RECOMMENDATION IS NOT ENACTED LAW",
+          "role": "caution"
+        },
+        {
+          "text": "[4] RTI SECTION 22 OVERRIDES INCONSISTENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SECTION 8 PROTECTS GENUINE INTERESTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. OSA and RTI interface",
+        "[1] OSA 1923 remains in force",
+        "[2] ARC recommended repeal and relocation",
+        "[3] Recommendation is not enacted law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. OSA and RTI interface",
+            "[1] OSA 1923 remains in force",
+            "[2] ARC recommended repeal and relocation",
+            "[3] Recommendation is not enacted law"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] RTI Section 22 overrides inconsistency",
+            "[5] Section 8 protects genuine interests",
+            "[6] Section 8(2) weighs public interest",
+            "[7] Section 10 narrows withholding",
+            "[8] Reasoned review replaces blanket label"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Official secrecy survives, but it cannot bypass the RTI Act's own decision architecture.",
+            "ANSWER USE → Use for the 2019 direct PYQ.",
+            "CLOSE DISTINCTION: Privacy, fiduciary interests, national security and investigation..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Official secrecy survives, but it cannot bypass the RTI Act's own decision architecture.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PRIVACY AFTER PUTTASWAMY AND DPDP",
+      "structural_type": "rights-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRIVACY AFTER PUTTASWAMY AND DPDP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. PRIVACY AFTER PUTTASWAMY AND DPDP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PRIVACY PROTECTS DIGNITY AND AUTONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] STATE ACTION NEEDS LEGALITY",
+          "role": "institution"
+        },
+        {
+          "text": "[3] AIM AND PROPORTIONALITY MATTER",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SAFEGUARDS AND REMEDY MATTER",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SECTION 44(3) COMMENCED 13 NOV 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Privacy after Puttaswamy and DPDP",
+        "[1] Privacy protects dignity and autonomy",
+        "[2] State action needs legality",
+        "[3] Aim and proportionality matter"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Privacy after Puttaswamy and DPDP",
+            "[1] Privacy protects dignity and autonomy",
+            "[2] State action needs legality",
+            "[3] Aim and proportionality matter"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Safeguards and remedy matter",
+            "[5] Section 44(3) commenced 13 Nov 2025",
+            "[6] RTI 8(1)(j) text was substituted",
+            "[7] Sections 8(2), 10 and 11 remain",
+            "[8] Sec 6(9): 13 Nov 2026; core: 13 May 2027"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Use current text and acknowledge unresolved interaction instead of reviving deleted wording.",
+            "ANSWER USE → Use for privacy-transparency and current-law answers.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Distinguish RTI Act text, rules, court..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use current text and acknowledge unresolved interaction instead of reviving deleted wording.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ETHICAL DIGITAL INFORMATION-SHARING DESIGN",
+      "structural_type": "governance-stack",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ETHICAL DIGITAL INFORMATION-SHARING DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. ETHICAL DIGITAL INFORMATION-SHARING DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ESTABLISH LAWFUL AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DEFINE SPECIFIC PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SHARE MINIMUM NECESSARY FIELDS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] VERIFY ACCURACY AND PROVENANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CONTROL ACCESS AND RETENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Ethical digital information-sharing design",
+        "[1] Establish lawful authority",
+        "[2] Define specific purpose",
+        "[3] Share minimum necessary fields"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Ethical digital information-sharing design",
+            "[1] Establish lawful authority",
+            "[2] Define specific purpose"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Share minimum necessary fields",
+            "[4] Verify accuracy and provenance",
+            "[5] Control access and retention",
+            "[6] Publish only safe aggregates"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Enable correction and appeal",
+            "[8] Audit necessity, use and outcomes",
+            "VERDICT → An accountable State should be transparent about power without making citizens needlessly transparent.",
+            "ANSWER USE → Use for databases, open data and twenty-mark design questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → An accountable State should be transparent about power without making citizens needlessly transparent.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g2\\ethics-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. TRANSPARENCY AS AN INFORMATION ARCHITECTURE OF POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "2. FROM PROACTIVE DISCLOSURE TO INFORMATION STEWARDSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "3. EXEMPTION REASONING",
+          "role": "evidence"
+        },
+        {
+          "text": "CLASS, HARM, BALANCE AND NARROWNESS",
+          "role": "primary"
+        },
+        {
+          "text": "4. SEVERABILITY, MOSAIC RISK AND CALIBRATED ACCESS",
+          "role": "caution"
+        },
+        {
+          "text": "5. THIRD-PARTY PROCEDURE AND MULTI-PARTY FAIRNESS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. ENFORCEMENT QUALITY AND INSTITUTIONAL INDEPENDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Transparency as an information architecture of power",
+            "2. From proactive disclosure to information stewardship",
+            "3. Exemption reasoning: class, harm, balance and narrowness",
+            "4. Severability, mosaic risk and calibrated access"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Third-party procedure and multi-party fairness",
+            "6. Enforcement quality and institutional independence",
+            "7. Official Secrets Act: conflict of norms and administrative culture",
+            "8. Privacy after Puttaswamy and the changed Section 8(1)(j)"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Information sharing, interoperability and open-government limits",
+            "10. Advanced answer synthesis, reforms and source boundaries",
+            "identify likely recurring information demands when a programme is created;",
+            "structure records to answer them;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

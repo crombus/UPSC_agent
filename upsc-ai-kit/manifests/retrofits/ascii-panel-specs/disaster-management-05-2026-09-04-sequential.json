@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-05",
+      "display_title": "Earthquake Risk and Resilient Construction",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-05_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Seismic risk grammar",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "HAZARD -> ground shaking and secondary effects",
+            "EXPOSURE -> people buildings infrastructure lifelines",
+            "VULNERABILITY -> site + design + construction + maintenance",
+            "CAPACITY -> preparedness response and recovery"
+          ],
+          "source_references": [
+            "Seismic risk",
+            "Exposure",
+            "Constructed vulnerability"
+          ]
+        },
+        {
+          "title": "Magnitude-intensity firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MAGNITUDE -> event size / energy measure",
+            "INTENSITY -> observed effects at a location",
+            "ONE EVENT -> varying local intensities",
+            "TRAP -> scales are not interchangeable"
+          ],
+          "source_references": [
+            "Magnitude and intensity"
+          ]
+        },
+        {
+          "title": "Zoning-to-site ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SEISMIC ZONE -> broad expected hazard",
+            "MICROZONATION -> finer local variation",
+            "SITE ASSESSMENT -> project-specific conditions",
+            "NONE OF THESE -> predicts the next event"
+          ],
+          "source_references": [
+            "Zoning and prediction",
+            "Site effects and microzonation"
+          ]
+        },
+        {
+          "title": "Site-effect map",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "GROUND / SLOPE / SOIL CONDITION",
+            "        -> modifies shaking or secondary risk",
+            "BUILT FORM + ACCESS",
+            "        -> modifies exposure response and loss"
+          ],
+          "source_references": [
+            "Site effects and microzonation",
+            "Risk-sensitive land use"
+          ]
+        },
+        {
+          "title": "Vulnerability chain",
+          "structural_type": "failure-tree",
+          "ascii_lines": [
+            "IRREGULAR FORM | WEAK CONNECTION | POOR WORKMANSHIP",
+            "UNAUTHORISED ALTERATION | DEGRADED MATERIAL",
+            "FAILED APPROVAL / INSPECTION / MAINTENANCE",
+            "RESULT -> collapse or service disruption risk"
+          ],
+          "source_references": [
+            "Constructed vulnerability",
+            "Compliance chain"
+          ]
+        },
+        {
+          "title": "Mitigation matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "STRUCTURAL -> safe new build + assessed strengthening",
+            "NON-STRUCTURAL -> land use + enforcement + drills",
+            "CONTENTS -> secure fixtures equipment utilities",
+            "RULE -> combine; do not substitute one for all"
+          ],
+          "source_references": [
+            "Structural mitigation",
+            "Non-structural mitigation",
+            "Non-structural components"
+          ]
+        },
+        {
+          "title": "Code-to-compliance rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 STANDARD / BYE-LAW",
+            "2 COMPETENT DESIGN",
+            "3 TRAINED CONSTRUCTION",
+            "4 APPROVAL -> INSPECTION -> MAINTENANCE"
+          ],
+          "source_references": [
+            "Code-compliant design",
+            "Compliance chain"
+          ]
+        },
+        {
+          "title": "Ductility concept box",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "DEFORMATION CAPACITY",
+            "        -> controlled energy dissipation",
+            "        -> supports life-safety objective",
+            "BOUNDARY -> concept only, no detailing instruction"
+          ],
+          "source_references": [
+            "Ductility concept"
+          ]
+        },
+        {
+          "title": "Retrofit priority funnel",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SCREEN EXISTING STOCK",
+            "PRIORITISE LIFELINES + HIGH OCCUPANCY + HIGH VULNERABILITY",
+            "DETAILED ASSESSMENT -> SANCTION -> WORK -> VERIFY",
+            "AUDIT / LISTING ALONE -> NOT COMPLETION"
+          ],
+          "source_references": [
+            "Retrofitting boundary",
+            "Institutional responsibility"
+          ]
+        },
+        {
+          "title": "Lifeline continuity map",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HOSPITAL + EOC + FIRE / RESCUE",
+            "POWER + WATER + TELECOM",
+            "ROAD / BRIDGE / ACCESS",
+            "TEST -> physical safety AND post-event function"
+          ],
+          "source_references": [
+            "Lifeline resilience"
+          ]
+        },
+        {
+          "title": "Monitoring-prediction boundary",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SENSOR -> EVENT DETECTION -> PARAMETER REPORT",
+            "HAZARD ASSESSMENT -> PLANNING INPUT",
+            "PREPAREDNESS -> PROTECTIVE ACTION",
+            "NOT -> precise future magnitude place and time"
+          ],
+          "source_references": [
+            "Prediction boundary",
+            "Monitoring boundary"
+          ]
+        },
+        {
+          "title": "Earthquake answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE RISK -> SEPARATE MAGNITUDE INTENSITY",
+            "MAP ZONE + SITE + EXPOSURE + VULNERABILITY",
+            "COMBINE CODE RETROFIT LAND USE CONTENTS AND LIFELINES",
+            "TEST ENFORCEMENT EQUITY CONTINUITY AND VERIFIED OUTCOME"
+          ],
+          "source_references": [
+            "Equity and informality",
+            "Safety-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-04",
+      "display_title": "The Stone Age: Palaeolithic & Mesolithic",
+      "active_generation": 13,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Stone Age chronological-climatic spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PLEISTOCENE                                      HOLOCENE",
+            "Lower Palaeolithic -> Middle Palaeolithic -> Upper Palaeolithic -> Mesolithic",
+            "handaxe/cleaver     flakes/prepared cores    blades/bone/art       microliths",
+            "mobile landscapes   flexible reduction       wider symbolism       diverse niches",
+            "        |                    |                       |                    |",
+            "        +--------------------+-----------------------+--------------------+",
+            "                                     v",
+            "Transitions are regionally staggered; tool change is not a single species timetable."
+          ],
+          "source_references": [
+            "SESSION 1 - GEOLOGICAL CONTEXT",
+            "SESSION 5 - LOWER PALAEOLITHIC",
+            "SESSION 8 - MIDDLE PALAEOLITHIC",
+            "SESSION 9 - UPPER PALAEOLITHIC",
+            "SESSION 14 - MESOLITHIC TRANSITION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Stone is a behavioural archive",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "RAW-MATERIAL NODULE -> CORE REDUCTION -> FLAKE/BLADE -> TOOL USE -> DISCARD",
+            "          |                 |               |             |",
+            "source distance       skill/planning     edge damage   activity area",
+            "          +-----------------+---------------+-------------+",
+            "                            v",
+            "ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT -> BEHAVIOURAL INFERENCE",
+            "A labelled tool without context cannot establish age, species or complete lifeway."
+          ],
+          "source_references": [
+            "SESSION 3 - LITHIC EVIDENCE GRAMMAR",
+            "SESSION 4 - DATING AND ARCHAEOLOGICAL METHODS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Lithic systems compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LOWER                  MIDDLE                 UPPER                 MESOLITHIC",
+            "bifaces, cleavers      flake tools            blades, burins        geometric microliths",
+            "large cutting tools    prepared-core planning bone/ornament growth  hafted composites",
+            "quartzite common       raw-material economy   symbolic evidence     bow/sickle/barb uses",
+            "      |                      |                       |                    |",
+            "      +----------------------+-----------------------+--------------------+",
+            "Technology records choices; older techniques may persist beside newer ones."
+          ],
+          "source_references": [
+            "SESSION 5 - LOWER PALAEOLITHIC",
+            "SESSION 8 - MIDDLE PALAEOLITHIC",
+            "SESSION 9 - UPPER PALAEOLITHIC",
+            "SESSION 15 - MICROLITHS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Indian site map: region, site, significance",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "NORTH-WEST: Soan valley -> river-terrace lithics and sequence debates",
+            "NORTH: Belan valley -> long prehistoric sequence toward food production",
+            "CENTRAL: Bhimbetka -> shelters/rock art | Adamgarh -> Mesolithic evidence",
+            "WEST: Bagor -> Mesolithic settlement, subsistence and domestication debate",
+            "GANGA PLAIN: Sarai Nahar Rai, Mahadaha, Damdama -> burials and sedentism",
+            "SOUTH: Attirampakkam -> early Acheulian and Middle Palaeolithic chronology",
+            "DECCAN: Hunsgi-Baichbal -> quarry, factory and landscape organisation"
+          ],
+          "source_references": [
+            "SESSION 7 - ATTIRAMPAKKAM",
+            "SESSION 18 - ROCK ART",
+            "SESSION 19 - MAJOR INDIAN SITES",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mobility-subsistence-social loop",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "SEASONAL RESOURCES -> MOVEMENT SCHEDULE -> CAMP TYPE -> TOOL KIT -> SHARING NETWORK",
+            "        |                   |              |           |",
+            "game, fish, plants    base/special camp  hearths    portable/composite",
+            "        +-------------------+--------------+-----------+",
+            "                            |",
+            "                            v",
+            "Repeated occupation and storage may increase without full farming or permanent villages.",
+            "Burials show treatment of persons; rank needs patterned unequal evidence."
+          ],
+          "source_references": [
+            "SESSION 11 - MOBILITY, SETTLEMENT AND SOCIAL LIFE",
+            "SESSION 12 - SUBSISTENCE",
+            "SESSION 17 - BURIALS, RITUAL AND SOCIAL ORGANIZATION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Rock art and symbolic life: inference ladder",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT",
+            "                         |",
+            "                         v",
+            "secure: image, technique, relative sequence and demonstrated association",
+            "probable: hunting, dance, group action, animals and changing style",
+            "uncertain: exact myth, deity, artist identity or direct ritual meaning",
+            "                         |",
+            "                         v",
+            "VERDICT: art expands behavioural evidence but is not illustrated scripture."
+          ],
+          "source_references": [
+            "SESSION 13 - PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE",
+            "SESSION 18 - ROCK ART",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mesolithic transition: adaptation, not revolution",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "HOLOCENE WARMING + REGIONAL ECOLOGIES",
+            "                 |",
+            "                 v",
+            "small game/fish/plant niches + locality + microlithic composite tools",
+            "                 |",
+            "      +----------+----------+",
+            "      |                     |",
+            "seasonal mobility      repeated/semi-sedentary camps",
+            "      +----------+----------+",
+            "                 v",
+            "selective plant/animal management -> uneven pathways toward Neolithic production"
+          ],
+          "source_references": [
+            "SESSION 14 - MESOLITHIC TRANSITION",
+            "SESSION 16 - MESOLITHIC SUBSISTENCE, SEDENTARINESS AND DOMESTICATION DEBATES",
+            "SESSION 20 - CONTINUITY AND CHANGE TOWARD THE NEOLITHIC",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Limits and current research",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM: sparse fossils + disturbed sites + broad tool labels + uncertain associations",
+            "FALSE SHORTCUTS: one tool = one people | innovation = migration | burial = hierarchy",
+            "RESPONSE: date contexts, reconstruct reduction sequence, compare regions, state confidence",
+            "Refined chronometry and landscape study can revise early dates.",
+            "VERDICT: Indian prehistory is a mosaic of long continuity and episodic innovation."
+          ],
+          "source_references": [
+            "SESSION 2 - HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD",
+            "SESSION 21 - HISTORIOGRAPHICAL DEBATES, SOURCE LIMITATIONS AND CURRENT RESEARCH",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Stone Age answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define phase -> diagnostic technology -> two sites -> subsistence -> caution",
+            "15 MARKS: chronology -> lithic comparison -> ecology/mobility -> symbolic evidence -> limits",
+            "20 MARKS: geological frame -> methods -> four-stage technology -> regional site map",
+            "          -> economy/social life -> Mesolithic transition -> historiographical verdict",
+            "MUST DISTINGUISH: relative/absolute date; artefact/assemblage; microlith/sedentism.",
+            "CLOSE: technology records adaptive choices, not a uniform evolutionary ladder."
+          ],
+          "source_references": [
+            "ROADMAP, SYLLABUS BOUNDARY AND EVIDENCE DISCIPLINE",
+            "SESSION 21 - HISTORIOGRAPHICAL DEBATES",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Adamgarh (MP) and Bagor (Rajasthan) provide early evidence for...",
+            "3. Bhimbetka is a key rock-art and prehistoric occupation site.",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. B-04 Domestication and Sambhar claims with caution Cards 13, 17 and 21",
+            "2. A-06 Rock art and cult evidence with caution Cards 14 and 19",
+            "3. Contested issues Competing interpretations are attributed, evidenced...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Practice contract Every solved item has demand decoding, an examiner-...",
+            "2. [Interpretation] Dating, regionality, continuity, debates and UPSC...",
+            "3. METHOD: Facts from sources are labelled FACT; analytical synthesis is...",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded..."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\04_Stone-Age-Palaeolithic-Mesolithic.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g13\\ancient-indian-history-04_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "record_id": "world-history-18:learner-v2:g3",
+  "topic_key": "world-history-18",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "world-history-18:learner-v2:g2",
+  "command": "Generate learner-v2 topic: World History — Subject-wide Syllabus — Decolonization of Africa and Asia — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Complete-Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Solved-Practice-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Complete-Learning-Session_2026-09-01.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Solved-Practice-Workbook_2026-09-01.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\assets",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "provenance": {
+    "workflow": "world-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\WORLD HISTORY -- NORMAN LOWE -- ENGLISH  ##.pdf"
+    ],
+    "live_sources": [
+      "https://news.un.org/en/story/2026/02/1166971",
+      "https://press.un.org/en/2026/gacol3398.doc.htm"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Complete-Learning-Session_2026-09-01.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\World-History\\00_Master-Chronology.md": "503153fe20c5d5b6a8d3fbfde22a08819567ab0d55f023eb5f4f7195c8052b98",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md": "df4bda0616168713ac58224f5c9d52967c4cbf727f5c5e0047b634f380fd1936",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md": "1345f4497043071d8c20659d98ac9ee03ba53de623acd32d05e709074d350738",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "2b0adb4a402bedb9cd5f9af8da83928fc1d52138401832b1c867d574f629cbf9"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+    "current_linkage_note": "Official UN coverage of the 2026 Special Committee on Decolonization session records 17 remaining Non-Self-Governing Territories and the continuing legacy of colonialism. The C-24 approved three draft resolutions concerning information dissemination, information from administering Powers, and visiting or special missions. This supplies a narrow link to decolonization as unfinished UN business; these remaining territories must not be conflated with the historical mass decolonization of Africa and Asia.",
+    "pyq_status_note": "The owner records two pre-2018 GS-I demands in neutral rendering only: the distinctive problems of Malayan decolonisation and the role of Western-educated Africans in West African nationalism. No verbatim 2015 or 2016 wording is held locally.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "6b8c6cb1787c374dc80371809f3fd55c99d09fd12d8d9079f4533398c1e3be75",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Solved-Practice-Workbook_2026-09-01.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-18-g3.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-18-deep-review-2026-09-01-g3.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Complete-Learning-Session_2026-09-01.md": "2e696719b6742572631104dbef04dbbf78db524b9afa5bf716accc85c8d7afc0",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Solved-Practice-Workbook_2026-09-01.md": "98e51f7eed4dbb324603c4b48237c2c30b7632baa334a46be9a1f7777d6a2809",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Complete-Learning-Session_2026-09-01.pdf": "174df3c2fa294fa74ac2d039cd45b370c7630832594916651e601e678425dc2c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\world-history-18_Solved-Practice-Workbook_2026-09-01.pdf": "f331acecb8350e77b738286cfe13147e40959128e012d56fc1d4e1ba8597a4c9",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\validation\\main-visual-audit-map.json": "e183c93674bd44dc7caa723595cb845070b613f991044066bd39c46ac47285fa",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\validation\\workbook-visual-audit-map.json": "8b7bf772ae79bf8cc101e0ad2c761a648475786e266b1a79b5d574ab295fae4d",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-18-deep-review-2026-09-01-g3.json": "3531b351fe477d18acaea87f8bffd6e64a8ffefc79274c9b66134879ca9d7efa",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-18-g3.json": "4fc56a3d79bacab38651bfa09fa31d5b5c839567d04261144c4181a4f4bb1aa2",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-18\\g3\\assets\\world-history-18_Teaching-Navigation_2026-09-01.png": "a157b3998cb5935d335753dbd06938df43667b76d5374c7e4bd35a41ed5d256c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\ascii-master.pdf": "3df14e2ee09a53c84e6ab85b1da4bfc35bfcf60bb95aef9c8d47dca9d7dece48",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\ascii-master.txt": "f0c42dd1cd8138ccfc924be543ef59befe0e55f9cbb867e56d95d3c1edf48a1d",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\build-audit.json": "bdfe50f67bc434510e3ed5e224cbbca8e253307c4912705e608865af8e91b400",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\master.png": "c7afb70cd1a1ff89bfdacf921908e092725c74d26dfe8d6442158b26b7edd463",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\poster.pdf": "6dab45a848ea5f83bfebf3235d5bae3cb6d0078ba8fe7f7c525ddaa379bcafb1",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\preservation-hashes.json": "627b309fa3278b571735ae929414b7d907f41dffa637676258420fdf1ee9f27a",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\README.txt": "575a4470305ad9b84379c5e21d57876694ba8e0c3cedb976f5de5c9a24884ed5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\tiled.pdf": "fa2669cb1a4e666cccc4cd6472ecc4d0d41c00074cdb9643985694b5a7b9bb92",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\validation-report.txt": "c7078dd00997a37cd49f8a880dfd375fa6efb892ce484194c2dce9b667b05981",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\editable\\topic-spec.json": "4fc56a3d79bacab38651bfa09fa31d5b5c839567d04261144c4181a4f4bb1aa2",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\contact-sheet-01.png": "c5e99c2c4d0896352aa5364ce5db3d3d8085be87f2e3193f13c6ce5832aba2cc",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\master-overview.png": "64e1c71f7424bf772ee515fecabea144f0d0c14b8ad53bc9f94e86df0e0764af",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\page-001.png": "0bcac2e5318eaff4c0d82fe6f9cdfdfac24044f52ac218c16dc3f50a09adc19b",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\page-002.png": "32b791b8be78eedc204a68c1dd14775a17278aba2c24680ae69210edc330bba1",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\page-003.png": "aa1c7f49f1bcba31531e01081ed45a8ddef96df698ec5750489df53f2083f27c",
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\page-004.png": "05ee0f0d83c0a75a722358061ba6b939c1defea216a9b3b86f1ae8f09f8fae10",
+      "upsc-ai-kit\\manifests\\v2\\world-history--subject-wide-syllabus-content-specs\\world-history-18-g3.json": "fa5442bc2136f27a60d318b496a2e0991c526ab4004f9e0932dfc639bb080347"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "world-history-18:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "regenerate_world_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\World-History\\deep-review\\world-history-18-g3.json",
+    "graphical_spec_sha256": "4fc56a3d79bacab38651bfa09fa31d5b5c839567d04261144c4181a4f4bb1aa2",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-18-deep-review-2026-09-01-g3.json",
+    "ascii_master_spec_sha256": "3531b351fe477d18acaea87f8bffd6e64a8ffefc79274c9b66134879ca9d7efa",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\World\\WH\\flowcharts\\wh-18\\carvaka-g3\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-world-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

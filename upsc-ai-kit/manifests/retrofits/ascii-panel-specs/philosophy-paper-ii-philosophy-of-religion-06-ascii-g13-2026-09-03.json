@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "benchmark": "Religious-Experience reviewed eight-panel ASCII master",
+  "generated_on": "2026-09-03",
+  "scope": "philosophy-paper-ii-philosophy-of-religion-06 immutable generation g13",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "title": "Religious Experience: Nature and Object",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Complete-Learning-Session_2026-09-03.md",
+      "panels": [
+        {
+          "panel_title": "1. Three-question method",
+          "structural_type": "experience analysis gateway",
+          "source_session_heading_references": [
+            "A. Three-question method"
+          ],
+          "lines": [
+            "RELIGIOUS EXPERIENCE",
+            " 1 PHENOMENOLOGY: what is it like?",
+            " 2 OBJECT: what is experienced — God, the Holy, Brahman, emptiness, unity?",
+            " 3 INTERPRETATION: how does a tradition name and frame the seeming?",
+            " 4 EPISTEMIC FORCE: does seeming-to-encounter justify belief?",
+            "                         |",
+            " TYPES: mystical unity | numinous encounter | conversion | prayer/worship",
+            " | revelatory vision | non-dual awareness",
+            " CONTROL: intensity and sincerity establish occurrence, not automatically veridical object."
+          ]
+        },
+        {
+          "panel_title": "2. William James",
+          "structural_type": "four-mark phenomenology",
+          "source_session_heading_references": [
+            "B. William James"
+          ],
+          "lines": [
+            "JAMES'S MARKS OF MYSTICAL EXPERIENCE",
+            " INEFFABILITY: cannot be adequately stated",
+            " NOETIC QUALITY: felt as insight or knowledge",
+            " TRANSIENCY: usually brief",
+            " PASSIVITY: received rather than fully produced by will",
+            "                         |",
+            " “fruits, not roots”: assess transformation in life, not only origin theory",
+            " authority is strongest for experiencer, not coercively binding on outsiders",
+            " plural experiences support openness, but diverse objects complicate doctrinal proof."
+          ]
+        },
+        {
+          "panel_title": "3. Rudolf Otto and the numinous",
+          "structural_type": "mysterium branch",
+          "source_session_heading_references": [
+            "C. Rudolf Otto",
+            "E. Sacred, Holy and God"
+          ],
+          "lines": [
+            "THE NUMINOUS = MYSTERIUM TREMENDUM ET FASCINANS",
+            " mysterium: wholly other, beyond ordinary grasp",
+            " tremendum: awe, majesty, creature-feeling, dread",
+            " fascinans: attraction, grace, compelling value",
+            "                         |",
+            " “Holy” includes non-rational numinous depth plus moral/rational development",
+            " SACRED != automatically God: an object, place or event may mediate the Holy",
+            " objection: description can reify culturally trained emotion into an external object."
+          ]
+        },
+        {
+          "panel_title": "4. Advaita and Radhakrishnan",
+          "structural_type": "non-dual realisation map",
+          "source_session_heading_references": [
+            "D. Advaita and Radhakrishnan"
+          ],
+          "lines": [
+            "ADVAITA: aparokṣānubhūti is immediate knowledge of non-dual Brahman",
+            " not subject seeing divine object; subject-object division is sublated",
+            " śravaṇa -> manana -> nididhyāsana -> liberating knowledge",
+            "                         |",
+            " RADHAKRISHNAN: integral intuition discloses spiritual unity and grounds tolerance",
+            " strength: experience is transformative and non-inferential",
+            " pressure: ineffability vs doctrinal description; private certainty vs public adjudication;",
+            " Advaita interpretation may be one conceptual construction among religious traditions."
+          ]
+        },
+        {
+          "panel_title": "5. Object models",
+          "structural_type": "object-of-experience comparison",
+          "source_session_heading_references": [
+            "E. Sacred, Holy and God"
+          ],
+          "lines": [
+            "MODEL                WHAT EXPERIENCE PRESENTS",
+            "personal theism      an addressive “Thou,” grace, command, presence",
+            "Otto                 numinous Holy / wholly other",
+            "Advaita              non-dual Brahman; no final subject-object split",
+            "Buddhism             Dharma/cessation insight without a personal creator",
+            "naturalism           altered brain/body state interpreted religiously",
+            "                         |",
+            " SAME phenomenological report may underdetermine ontology;",
+            " object-claim needs interpretation beyond raw immediacy."
+          ]
+        },
+        {
+          "panel_title": "6. Veridicality tests",
+          "structural_type": "epistemic filter chain",
+          "source_session_heading_references": [
+            "F. Veridicality tests",
+            "I. Epistemic models"
+          ],
+          "lines": [
+            "SWINBURNE PRINCIPLE OF CREDULITY: accept seeming appearance unless defeated",
+            " PRINCIPLE OF TESTIMONY: generally trust reports unless there is reason not to",
+            "                         |",
+            " DEFEATERS: drugs/pathology | contradiction | prior implausibility | unreliable setting",
+            " positive checks: coherence | moral fruit | intersubjective fit | predictive/explanatory value",
+            " ALSTON: socially established doxastic practice may confer prima facie justification",
+            " objection: incompatible religious practices cannot all validate exclusive objects unchanged."
+          ]
+        },
+        {
+          "panel_title": "7. Criticisms, replies and public life",
+          "structural_type": "dialectic-to-practice panel",
+          "source_session_heading_references": [
+            "G. Public discourse",
+            "H. Prayer and worship",
+            "J. Main criticisms and replies"
+          ],
+          "lines": [
+            "FREUD: wish-fulfilment | MARX: social consolation | neuroscience: neural correlate",
+            " pluralism: contradictory interpretations | ineffability: no communicable evidence",
+            "                         |",
+            " replies: causal explanation does not equal debunking; all perception has neural correlates;",
+            " fruits and disciplined practices may distinguish mature experience from fantasy",
+            "                         |",
+            " prayer/worship test object-relations: petition, gratitude, surrender, contemplation",
+            " public use must be modest: experience may justify commitment without authorising coercion."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer spine",
+          "structural_type": "phenomenology-evidence synthesis",
+          "source_session_heading_references": [
+            "K. Eight PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE type -> describe phenomenology with James/Otto -> specify claimed object",
+            " -> distinguish experience from interpretation -> apply credulity/testimony and defeaters",
+            " -> compare Advaita/theism/Buddhism -> strongest naturalist or pluralist objection",
+            " -> reply -> qualified public verdict",
+            "                         |",
+            " CLOSE: religious experience is significant evidence within a life and practice,",
+            " but its object is not read straight off the feeling; interpretation and defeater control remain."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g13",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-26",
+      "display_title": "Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946)",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two Indian National Armies, 1942 and 1943",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1942 -> FIRST INA -> Mohan Singh + Indian POWs (Malaya, Singapore) + Japanese support",
+            "EARLY 1943 -> first INA collapses; Mohan Singh removed and arrested over subsidiary status",
+            "MAY 1943 -> Subhas Chandra Bose reaches Southeast Asia and reorganises the force",
+            "OCT 1943 -> SECOND INA under Azad Hind -> larger, politically directed, claimant government",
+            "RULE -> two armies, two dates, two leaderships; never one continuous force.",
+            "MUST REMEMBER: Mohan Singh's first INA in 1942, Subhas Chandra Bose's 1943 reorganisation and",
+            "  Azad Hind government, Red Fort trials from 1945, RIN revolt of 18-23 February 1946 and",
+            "  Cabinet Mission proposals were distinct."
+          ],
+          "source_references": [
+            "Two Indian National Armies: 1942 under Mohan Singh, 1943 under Bose",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Rash Behari Bose: political cover, not field command",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INDIAN INDEPENDENCE LEAGUE  (political roof over the prisoner-of-war army)",
+            "|-- RASH BEHARI BOSE -> convenes Tokyo and Bangkok conferences; negotiates with Japan",
+            "|-- HANDOVER 1943 -> League and INA leadership pass to Subhas Chandra Bose",
+            "`-- FIELD COMMAND -> Mohan Singh (1942), then Bose's INA officers (1943-45)",
+            "RULE -> political sponsorship and field command are two different offices."
+          ],
+          "source_references": [
+            "Rash Behari Bose: political cover, not field command",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Azad Hind: government, army and symbols",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PROVISIONAL GOVERNMENT OF AZAD HIND (Singapore, October 1943)",
+            "|-- SUPREME COMMANDER -> Subhas Chandra Bose | SLOGAN -> \"Dilli Chalo\"",
+            "|-- ARMY -> reorganised INA | WOMEN'S UNIT -> Rani of Jhansi Regiment (Lakshmi Sahgal)",
+            "|-- TERRITORY CLAIMED -> Andaman and Nicobar renamed Shaheed and Swaraj",
+            "RULE -> a claimant government's symbols, not a record of battlefield success."
+          ],
+          "source_references": [
+            "Azad Hind: provisional government, army and symbols",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Imphal-Kohima and the military verdict",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "8 MAR 1944 -> Imphal campaign launched with Japanese forces -> objective: Delhi",
+            "IMPHAL + KOHIMA -> advance broken; retreat through Burma destroys the formation",
+            "CAUSES -> supply failure + monsoon + Allied air power (military, not political)",
+            "AUG 1945 -> Bose officially reported dead in an air crash; nothing beyond the report",
+            "RULE -> the military verdict is defeat; the political verdict comes later."
+          ],
+          "source_references": [
+            "Imphal-Kohima: state the military verdict plainly",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Red Fort trial: three defendants, one message",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "RED FORT TRIAL (1945-46) -> three officers tried together",
+            "|-- SHAH NAWAZ KHAN (Muslim) | PREM SAHGAL / SEHGAL (Hindu) | G.S. DHILLON (Sikh)",
+            "|-- DEFENCE -> Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Nehru, Asaf Ali",
+            "|-- CONGRESS -> INA Relief and Enquiry Committee; INA becomes an election plank",
+            "EFFECT -> prosecution reads as punishment of patriotism across three communities."
+          ],
+          "source_references": [
+            "The first Red Fort trial and its cross-communal symbolism",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "What actually happened to the sentences",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "CONVICTION -> waging war against the King -> transportation for life",
+            "REMISSION -> Commander-in-Chief remits the sentences -> officers released",
+            "PRESSURE -> army opinion favours leniency; NWFP Governor urges abandonment",
+            "RESULT -> wider prosecutions abandoned; the sentences were not carried out",
+            "RULE -> a government retreat, not an execution."
+          ],
+          "source_references": [
+            "What actually happened to the Red Fort sentences",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Weighing INA and RIN inside a multi-causal endgame",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "WHY THE BRITISH LEFT -> ranked, not listed",
+            "|-- COLLABORATION COLLAPSE -> services, police, armed forces no longer reliable",
+            "|-- WARTIME EXHAUSTION -> economic depletion, demobilisation, Labour government",
+            "|-- MASS NATIONALISM -> 1920-22, 1930-34, 1942 -> consent already impossible",
+            "|-- INTERNATIONAL + DEADLOCK -> decolonisation climate; 1946 constitutional impasse",
+            "CHRONOLOGY GUARD -> Mission dispatch decided 22 Jan 1946, before the 18 Feb strike",
+            "RULE -> INA and RIN sharpen the timing; they do not replace the other causes."
+          ],
+          "source_references": [
+            "Weighing INA and RIN inside a multi-causal endgame",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Failed negotiations of 1944-45",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "APR 1944 -> C.R. FORMULA -> plebiscite in contiguous Muslim-majority districts",
+            "             -> deferred until after transfer of power; not an official Congress offer",
+            "SEP 1944 -> GANDHI-JINNAH TALKS BREAK DOWN -> separation within the family vs sovereignty",
+            "25 JUN - 14 JUL 1945 -> SIMLA CONFERENCE (Wavell) -> all-Indian Executive Council",
+            "BREAKDOWN -> League claims a monopoly of Muslim nominations; Azad is Congress president."
+          ],
+          "source_references": [
+            "Failed negotiations of 1944-45: C.R. Formula, Gandhi-Jinnah, Simla",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Elections of winter 1945-46: mandate, not plebiscite",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "WINTER 1945-46 ELECTIONS -> two mandates in two separate electorates",
+            "|-- CONGRESS -> over 90% of general seats; 80.9% of general-constituency votes",
+            "|-- MUSLIM LEAGUE -> 74.7% of votes cast in Muslim constituencies",
+            "|-- FRANCHISE -> about 10% of the population; separate electorates",
+            "LIMIT -> no boundary, constitution or population question was on any ballot",
+            "RULE -> mandate, not plebiscite; representation was settled, territory was not."
+          ],
+          "source_references": [
+            "Elections of the winter of 1945-46: mandate, not plebiscite",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "RIN uprising: 18 February 1946 and its limits",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "18 FEB 1946 -> HMIS TALWAR, BOMBAY -> ratings' uprising begins",
+            "GRIEVANCES -> demobilisation anxiety, rations and service conditions, racial insult",
+            "DEMANDS -> better conditions, non-victimisation of strikers, free trials for INA men",
+            "SCALE -> commonly cited estimates: roughly 20,000 ratings, 78 ships, 20 shore stations",
+            "LIMITS -> short-lived, urban, service-centred; surrendered within days",
+            "RESPONSES -> Congress withholds official support (tactics and timing judged wrong)",
+            "          -> Patel urges surrender before overwhelming British mobilisation in Bombay",
+            "          -> Jinnah's surrender advice addressed to Muslim ratings alone",
+            "          -> workers, students and the left supply the civilian sympathy",
+            "DISPATCH -> 22 JAN 1946 Cabinet decides to send the Mission (before the uprising)",
+            "         -> Attlee's 19 FEB 1946 Commons announcement had been slated a week earlier",
+            "RULE -> the uprising did not cause or trigger the dispatch of the Cabinet Mission.",
+            "CLOSE DISTINCTION: The Cabinet Mission's 16 May 1946 plan preserved a weak union with",
+            "  provincial groupings; INA/RIN impact on British calculations must not be promoted into a",
+            "  single-cause transfer-of-power claim."
+          ],
+          "source_references": [
+            "18 February 1946: how the Royal Indian Navy uprising began",
+            "Scale of the uprising: commonly cited estimates, carefully qualified",
+            "Why the uprising was not a nationwide revolution",
+            "Divided political responses to the uprising",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cabinet Mission: 16 May plan and 16 June proposal",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CABINET MISSION 1946 -> Pethick-Lawrence | Stafford Cripps | A.V. Alexander",
+            "16 MAY 1946 -> LONG-TERM PLAN -> sovereign Pakistan rejected; three-tier union",
+            "    UNION SUBJECTS -> foreign affairs, defence, communications",
+            "                   -> plus power to raise the finances required for those subjects",
+            "16 JUN 1946 -> SEPARATE INTERIM-GOVERNMENT PROPOSAL -> a different document",
+            "RULE -> one mission, two dated documents; never merge them.",
+            "EVIDENCE LIMIT: Military intelligence, trial proceedings, service unrest and Cabinet records",
+            "  require attribution alongside labour and public mobilisation; nationalist memory alone",
+            "  cannot settle causal weight."
+          ],
+          "source_references": [
+            "Cabinet Mission: the 16 May plan and the 16 June proposal",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sections A, B and C and the endgame to 9 December 1946",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SECTIONS -> A: Madras, Bombay, United Provinces, Bihar, Central Provinces, Orissa",
+            "          -> B: Punjab, North-West Frontier Province, Sind, British Baluchistan",
+            "          -> C: Bengal, Assam        (grouping = federal device inside one union)",
+            "6 JUN -> League accepts (grouping read as compulsory) | 7 JUL -> Nehru's AICC statement",
+            "29 JUL -> League withdraws | 16 AUG -> Direct Action Day | 2 SEP -> Interim Government",
+            "26 OCT -> League joins | 6 DEC -> HMG concedes the compulsory-grouping reading",
+            "9 DEC 1946 -> Constituent Assembly first meets; League boycotts",
+            "RULE -> incompatible readings plus incompatible goals; no single cause of failure."
+          ],
+          "source_references": [
+            "Groups, incompatible readings and the endgame to 9 December 1946",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

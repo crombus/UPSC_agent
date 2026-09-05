@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-04",
+      "display_title": "Biodiversity Levels and Hotspots",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-04_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three-level biodiversity ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GENETIC -> variation within a species or population",
+            "SPECIES -> variety and relative abundance within a stated area",
+            "ECOSYSTEM -> variety of habitats, communities and processes",
+            "DEPENDENCE -> loss at one level can weaken the others",
+            "RULE -> level is ecological scale, not taxonomic rank"
+          ],
+          "source_references": [
+            "Genetic diversity",
+            "Species diversity",
+            "Ecosystem diversity",
+            "Ecological and taxonomic levels"
+          ]
+        },
+        {
+          "title": "Species-diversity components",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RICHNESS -> number of species",
+            "EVENNESS -> distribution of abundance among species",
+            "SAME RICHNESS -> can coexist with different evenness",
+            "DIVERSITY INDEX -> depends on its stated formula and sample",
+            "CAUTION -> never infer community quality from count alone"
+          ],
+          "source_references": [
+            "Richness and evenness"
+          ]
+        },
+        {
+          "title": "Alpha beta gamma map",
+          "structural_type": "spatial",
+          "ascii_lines": [
+            "HABITAT A -> alpha diversity inside one local community",
+            "HABITAT B -> its own local alpha diversity",
+            "A TO B TURNOVER -> beta diversity",
+            "WHOLE LANDSCAPE -> gamma diversity",
+            "RULE -> every term requires a stated sampling or regional boundary"
+          ],
+          "source_references": [
+            "Alpha diversity",
+            "Beta diversity",
+            "Gamma diversity"
+          ]
+        },
+        {
+          "title": "Ecological and taxonomic axes",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "ECOLOGICAL LEVEL -> genetic, species, ecosystem",
+            "SPATIAL DIVERSITY -> alpha, beta, gamma",
+            "TAXONOMIC RANK -> species, genus, family and higher ranks",
+            "THREAT STATUS -> separate assessment of extinction risk",
+            "RULE -> answer on the axis actually asked"
+          ],
+          "source_references": [
+            "Ecological and taxonomic levels",
+            "Endemic versus rare or threatened"
+          ]
+        },
+        {
+          "title": "Distribution vocabulary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "NATIVE -> occurs naturally in the defined region",
+            "ENDEMIC -> naturally restricted to the defined region",
+            "RARE -> low abundance or occurrence under a stated measure",
+            "THREATENED -> status under an assessment framework",
+            "CAUTION -> one species may satisfy several, but terms are not synonyms"
+          ],
+          "source_references": [
+            "Endemic versus native",
+            "Endemic versus rare or threatened"
+          ]
+        },
+        {
+          "title": "Hotspot criteria gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "GATE 1 -> at least 1,500 endemic vascular plant species",
+            "AND",
+            "GATE 2 -> 30 per cent or less of original natural vegetation remains",
+            "BOTH GATES MET -> hotspot prioritisation framework applies",
+            "FAILED GATE -> species richness alone cannot create hotspot status"
+          ],
+          "source_references": [
+            "Hotspot dual criteria",
+            "Hotspot versus general richness"
+          ]
+        },
+        {
+          "title": "Designation firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "HOTSPOT -> Conservation International scientific prioritisation framework",
+            "PROTECTED AREA -> legal designation under applicable domestic law",
+            "BIODIVERSITY HERITAGE SITE -> separate statutory category",
+            "ECO-SENSITIVE ZONE -> notification-based regulatory status",
+            "RULE -> one label never automatically confers another status"
+          ],
+          "source_references": [
+            "Norman Myers and operational status",
+            "Hotspot versus general richness"
+          ]
+        },
+        {
+          "title": "India-linked hotspot map in words",
+          "structural_type": "spatial",
+          "ascii_lines": [
+            "HIMALAYA -> transboundary mountain biodiversity region",
+            "INDO-BURMA -> wider mainland Southeast Asian biogeographic region",
+            "WESTERN GHATS-SRI LANKA -> linked biogeographic hotspot name",
+            "SUNDALAND -> India's represented portion is the Nicobar Islands",
+            "CAUTION -> hotspot extent is not coterminous with India's border"
+          ],
+          "source_references": [
+            "India-linked hotspots"
+          ]
+        },
+        {
+          "title": "Triage and completeness",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "HOTSPOT LOGIC -> focus scarce resources where endemism and habitat loss coincide",
+            "PRESSURE -> plant criteria can understate other nationally important values",
+            "NON-HOTSPOT EXAMPLES -> grasslands, wetlands and cold deserts",
+            "REPLY -> use hotspots for priority, not for exclusion",
+            "VERDICT -> national strategy must retain a wider ecological baseline"
+          ],
+          "source_references": [
+            "Hotspot triage and non-hotspot value"
+          ]
+        },
+        {
+          "title": "Country, label and institution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEGADIVERSE COUNTRY -> national biodiversity descriptor",
+            "LMMC -> international political grouping",
+            "HOTSPOT -> transboundary scientific priority region",
+            "NBA, SBB, BMC -> domestic statutory governance levels",
+            "RULE -> four categories answer different questions"
+          ],
+          "source_references": [
+            "Megadiverse and LMMC distinction",
+            "NBA, SBB and BMC levels"
+          ]
+        },
+        {
+          "title": "ABS governance rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE -> access request",
+            "RELEVANT AUTHORITY -> scrutiny under the legal architecture",
+            "COMMERCIAL OR RESEARCH USE -> applicable conditions",
+            "BENEFIT SHARING -> intended return to eligible claimants or communities",
+            "PBR -> local documentation; not proof that benefits were delivered"
+          ],
+          "source_references": [
+            "NBA, SBB and BMC levels",
+            "Access, benefit sharing and PBRs"
+          ]
+        },
+        {
+          "title": "Global and PYQ boundary",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "KMGBF TARGET 3 -> area-based conservation and OECMs in the owner",
+            "CBD GUIDANCE -> does not replace or qualify adopted COP decisions",
+            "MASS EXTINCTION ROUTE -> human drivers, no inferred objective answer",
+            "ISSG AND EU NRL -> external institutional or legal comparators",
+            "CLOSE -> scientific label, domestic law and external comparator stay distinct"
+          ],
+          "source_references": [
+            "KMGBF, OECMs and status boundary",
+            "Verified PYQ and current-claim boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

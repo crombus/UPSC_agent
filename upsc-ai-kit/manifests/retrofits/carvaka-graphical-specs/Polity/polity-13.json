@@ -1,0 +1,999 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-13",
+  "subject": "Polity",
+  "title": "CENTRE STATE AND INTER STATE RELATIONS",
+  "short_route": "CONSTITUTIONAL MAP → LEGISLATIVE COMPETENCE → ADMINISTRATIVE COOPERATION → EMERGENCY LIMITS → FISCAL FEDERALISM → WATER AND COUNCILS → COMMON MARKET → PYQS → ANSWER SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "DEEP-CONTENT REVALIDATION PENDING",
+    "line": "Approval: FALSE • fresh immutable generation required • g2 remains preserved"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-13-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "1af88492a4998382474e6ca93001b1f515a9b77235093f73690a5f0ac181b1e6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR-DIMENSIONAL CONSTITUTIONAL MAP",
+      "structural_type": "relations-architecture",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CENTRE-STATE AND INTER-STATE RELATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATIVE: ARTICLES 245-255 AND SEVENTH SCHEDULE",
+          "role": "institution"
+        },
+        {
+          "text": "ADMINISTRATIVE: ARTICLES 256-263",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCIAL: ARTICLES 265-293 PLUS 246A / 269A / 279A",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-STATE / MARKET: ARTICLES 261-263 AND 301-307",
+          "role": "outcome"
+        },
+        {
+          "text": "METHOD: IDENTIFY FIELD -> CONSTITUTIONAL ROUTE -> CHECK -> REMEDY.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "CENTRE-STATE AND INTER-STATE RELATIONS",
+            "LEGISLATIVE: Articles 245-255 and Seventh Schedule"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATIVE: Articles 256-263",
+            "FINANCIAL: Articles 265-293 plus 246A / 269A / 279A"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTER-STATE / MARKET: Articles 261-263 and 301-307",
+            "METHOD: identify field -> constitutional route -> check -> remedy."
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "INTER-STATE / MARKET: Articles 261-263 and 301-307",
+            "METHOD: identify field -> constitutional route -> check -> remedy."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from centre-state and inter-state relations through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "METHOD: identify field -> constitutional route -> check -> remedy.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LEGISLATIVE COMPETENCE AND STATE-FIELD ENTRY",
+      "structural_type": "legislative-route",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMPETENCE FIRST",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 245 REACH -> ARTICLE 246 LISTS -> ARTICLE 248 RESIDUE",
+          "role": "institution"
+        },
+        {
+          "text": "UNION 100 | STATE 61 | CONCURRENT 52",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 246A: SPECIAL GST COMPETENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PARLIAMENT IN STATE FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "249 RAJYA SABHA | 250 EMERGENCY | 252 STATE REQUEST | 253 TREATY | 356 BREAKDOWN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COMPETENCE FIRST",
+        "Article 245 reach -> Article 246 lists -> Article 248 residue",
+        "Union 100 | State 61 | Concurrent 52",
+        "Article 246A: special GST competence",
+        "PARLIAMENT IN STATE FIELD"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "COMPETENCE FIRST",
+            "Article 245 reach -> Article 246 lists -> Article 248 residue"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Union 100 | State 61 | Concurrent 52",
+            "Article 246A: special GST competence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARLIAMENT IN STATE FIELD",
+            "249 Rajya Sabha | 250 Emergency | 252 State request | 253 treaty | 356 breakdown"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "Each route has a separate trigger, duration and amendment consequence."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from competence first through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "PARLIAMENT IN STATE FIELD 249 Rajya Sabha | 250 Emergency | 252 State request | 253 treaty | 356 breakdown Each route has a separate trigger, duration and amendment consequence.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DOCTRINES, REPUGNANCY AND STATE BILLS",
+      "structural_type": "doctrine-control",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRUE NATURE -> ENTRY -> RECONCILIATION -> CONFLICT",
+          "role": "primary"
+        },
+        {
+          "text": "PITH AND SUBSTANCE -> HARMONIOUS CONSTRUCTION -> ARTICLE 254 REPUGNANCY",
+          "role": "institution"
+        },
+        {
+          "text": "*M. KARUNANIDHI* (1979): REAL, DIRECT AND IRRECONCILABLE CONCURRENT-FIELD CONFLICT",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE BILL CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIOR PRESIDENTIAL SANCTION != GOVERNOR RESERVATION UNDER ARTICLE 200",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 201 PRESIDENTIAL CONSIDERATION; NO AUTOMATIC ASSENT AFTER STATE RECONSIDERATION.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "TRUE NATURE -> ENTRY -> RECONCILIATION -> CONFLICT",
+            "pith and substance -> harmonious construction -> Article 254 repugnancy"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "*M. Karunanidhi* (1979): real, direct and irreconcilable Concurrent-field conflict",
+            "STATE BILL CONTROLS"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "prior presidential sanction != Governor reservation under Article 200",
+            "Article 201 presidential consideration; no automatic assent after State reconsideration."
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "prior presidential sanction != Governor reservation under Article 200",
+            "Article 201 presidential consideration; no automatic assent after State reconsideration."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from true nature -> entry -> reconciliation -> conflict through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "STATE BILL CONTROLS prior presidential sanction != Governor reservation under Article 200 Article 201 presidential consideration; no automatic assent after State reconsideration.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ADMINISTRATIVE COOPERATION AND CENTRAL AGENCIES",
+      "structural_type": "administrative-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLES 256-257",
+          "role": "primary"
+        },
+        {
+          "text": "STATE COMPLIANCE + NO IMPEDIMENT -> BOUNDED UNION DIRECTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 258 / 258A -> RECIPROCAL ENTRUSTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 312 -> RAJYA SABHA ROUTE FOR IAS / IPS / INDIAN FOREST SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CBI / DSPE ACT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE CONSENT FOR ORDINARY OPERATION; ARTICLES 32/226 COURT ORDERS REMAIN POSSIBLE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLES 256-257",
+        "State compliance + no impediment -> bounded Union directions",
+        "ARTICLES 258 / 258A -> reciprocal entrustment",
+        "ARTICLE 312 -> Rajya Sabha route for IAS / IPS / Indian Forest Service",
+        "CBI / DSPE ACT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLES 256-257",
+            "State compliance + no impediment -> bounded Union directions"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLES 258 / 258A -> reciprocal entrustment",
+            "ARTICLE 312 -> Rajya Sabha route for IAS / IPS / Indian Forest Service"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CBI / DSPE ACT",
+            "State consent for ordinary operation; Articles 32/226 court orders remain possible"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "2024 West Bengal ruling: Article 131 suit maintainable at preliminary stage, merits open."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from articles 256-257 through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "CBI / DSPE ACT State consent for ordinary operation; Articles 32/226 court orders remain possible 2024 West Bengal ruling: Article 131 suit maintainable at preliminary stage, merits open.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARTICLES 355-365 AND JUDICIAL LIMITS",
+      "structural_type": "emergency-relations",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DUTY -> REMEDY -> TEMPORARY CONSEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 355 UNION DUTY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 356 EXCEPTIONAL PROCLAMATION + PARLIAMENT + REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 357 TEMPORARY EXERCISE OF STATE LEGISLATIVE POWER",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 360 SEPARATE FINANCIAL-EMERGENCY ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 365 NON-COMPLIANCE MAY SUPPLY MATERIAL, NEVER AUTOMATIC RULE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DUTY -> REMEDY -> TEMPORARY CONSEQUENCE",
+        "Article 355 Union duty",
+        "Article 356 exceptional proclamation + Parliament + review",
+        "Article 357 temporary exercise of State legislative power",
+        "Article 360 separate financial-emergency route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "DUTY -> REMEDY -> TEMPORARY CONSEQUENCE",
+            "Article 355 Union duty"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 356 exceptional proclamation + Parliament + review",
+            "Article 357 temporary exercise of State legislative power"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 360 separate financial-emergency route",
+            "Article 365 non-compliance may supply material, never automatic rule"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "*State of Rajasthan* (1977) -> review not wholly excluded",
+            "*S.R. Bommai* (1994) -> federalism, review and floor-test discipline."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from duty -> remedy -> temporary consequence through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "*State of Rajasthan* (1977) -> review not wholly excluded *S.R. Bommai* (1994) -> federalism, review and floor-test discipline.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FISCAL ARCHITECTURE FROM TAX TO BORROWING",
+      "structural_type": "fiscal-map",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 265: AUTHORITY OF LAW",
+          "role": "primary"
+        },
+        {
+          "text": "268 / 269 / 269A -> ASSIGNED AND APPORTIONED REVENUE",
+          "role": "institution"
+        },
+        {
+          "text": "270 -> DIVISIBLE POOL | 271 -> UNION SURCHARGE OUTSIDE SHARING",
+          "role": "evidence"
+        },
+        {
+          "text": "275 -> CONSTITUTIONAL GRANTS | 282 -> ANY-PUBLIC-PURPOSE GRANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "280 -> FINANCE COMMISSION | 292 / 293 -> BORROWING",
+          "role": "outcome"
+        },
+        {
+          "text": "285 / 289 -> RECIPROCAL PROPERTY AND INCOME TAX IMMUNITIES WITH EXCEPTIONS.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 265: authority of law",
+        "268 / 269 / 269A -> assigned and apportioned revenue",
+        "270 -> divisible pool | 271 -> Union surcharge outside sharing",
+        "275 -> constitutional grants | 282 -> any-public-purpose grants",
+        "280 -> Finance Commission | 292 / 293 -> borrowing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 265: authority of law",
+            "268 / 269 / 269A -> assigned and apportioned revenue"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "270 -> divisible pool | 271 -> Union surcharge outside sharing",
+            "275 -> constitutional grants | 282 -> any-public-purpose grants"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "280 -> Finance Commission | 292 / 293 -> borrowing",
+            "285 / 289 -> reciprocal property and income tax immunities with exceptions."
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "280 -> Finance Commission | 292 / 293 -> borrowing",
+            "285 / 289 -> reciprocal property and income tax immunities with exceptions."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from article 265: authority of law through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "ARTICLE 265: authority of law 268 / 269 / 269A -> assigned and apportioned revenue 270 -> divisible pool | 271 -> Union surcharge outside sharing 275 -> constitutional grants | 282 -> any-public-purpose grants 280 -> Finance Commission | 29",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FISCAL EVOLUTION, SIXTEENTH FINANCE COMMISSION AND GST",
+      "structural_type": "fiscal-evolution",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PLAN ERA -> FC / GST / NITI ERA",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNING COMMISSION DISCRETION -> NITI HAS NO DEVOLUTION POWER",
+          "role": "institution"
+        },
+        {
+          "text": "SIXTEENTH FINANCE COMMISSION 2026-31 -> 41% VERTICAL SHARE",
+          "role": "evidence"
+        },
+        {
+          "text": "HORIZONTAL WEIGHTS INCLUDE INCOME DISTANCE, DEMOGRAPHY, ECOLOGY AND GDP CONTRIBUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GST: ARTICLES 246A + 269A + 279A",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION ONE-THIRD VOTES | STATES TWO-THIRDS | THREE-FOURTHS DECISION THRESHOLD",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "PLAN ERA -> FC / GST / NITI ERA",
+            "Planning Commission discretion -> NITI has no devolution power"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Sixteenth Finance Commission 2026-31 -> 41% vertical share",
+            "horizontal weights include income distance, demography, ecology and GDP contribution"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "GST: Articles 246A + 269A + 279A",
+            "Union one-third votes | States two-thirds | three-fourths decision threshold"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "*Mohit Minerals* (2022): Council recommendations are recommendatory, not binding."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from plan era -> fc / gst / niti era through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "GST: Articles 246A + 269A + 279A Union one-third votes | States two-thirds | three-fourths decision threshold *Mohit Minerals* (2022): Council recommendations are recommendatory, not binding.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RIVER-WATER DISPUTE ROUTE AND JURISDICTION",
+      "structural_type": "water-route",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 262 + 1956 ACT",
+          "role": "primary"
+        },
+        {
+          "text": "NEGOTIATION -> DISPUTE-SPECIFIC TRIBUNAL -> PUBLICATION -> IMPLEMENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT MAY EXCLUDE COURT JURISDICTION OVER THE DEFINED WATER DISPUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 131 DOES NOT DISPLACE THE SPECIAL ARTICLE 262 STATUTORY BAR",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "2019 AMENDMENT BILL LAPSED WITH THE SEVENTEENTH LOK SABHA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 262 + 1956 ACT",
+        "negotiation -> dispute-specific tribunal -> publication -> implementation",
+        "Parliament may exclude court jurisdiction over the defined water dispute",
+        "Article 131 does not displace the special Article 262 statutory bar",
+        "CURRENT CONTROL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 262 + 1956 ACT",
+            "negotiation -> dispute-specific tribunal -> publication -> implementation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Parliament may exclude court jurisdiction over the defined water dispute",
+            "Article 131 does not displace the special Article 262 statutory bar"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT CONTROL",
+            "2019 Amendment Bill lapsed with the Seventeenth Lok Sabha"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "A revised permanent-tribunal proposal is not enacted law",
+            "Cauvery implementation uses the 2018 Scheme and management institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from article 262 + 1956 act through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "CURRENT CONTROL 2019 Amendment Bill lapsed with the Seventeenth Lok Sabha A revised permanent-tribunal proposal is not enacted law Cauvery implementation uses the 2018 Scheme and management institutions.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTERGOVERNMENTAL FORUMS AND CURRENT OPERATION",
+      "structural_type": "forums-current",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 263 INTER-STATE COUNCIL",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENT ESTABLISHES WHEN PUBLIC INTEREST REQUIRES; INQUIRY, DISCUSSION, RECOMMENDATION",
+          "role": "institution"
+        },
+        {
+          "text": "1990 PRESIDENTIAL ORDER | PM CHAIR | ADVISORY",
+          "role": "evidence"
+        },
+        {
+          "text": "ZONAL COUNCILS",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE STATUTORY COUNCILS UNDER STATES REORGANISATION ACT 1956 | HOME MINISTER CHAIR",
+          "role": "outcome"
+        },
+        {
+          "text": "NEC IS SEPARATE UNDER 1971 ACT, NOT A SIXTH ZONAL COUNCIL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 263 INTER-STATE COUNCIL",
+            "President establishes when public interest requires; inquiry, discussion, recommendation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1990 presidential order | PM chair | advisory",
+            "ZONAL COUNCILS"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Five statutory councils under States Reorganisation Act 1956 | Home Minister chair",
+            "NEC is separate under 1971 Act, not a sixth Zonal Council"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "2026 official activity: Central, Northern, Eastern and Southern zonal mechanisms."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from article 263 inter-state council through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "ZONAL COUNCILS Five statutory councils under States Reorganisation Act 1956 | Home Minister chair NEC is separate under 1971 Act, not a sixth Zonal Council 2026 official activity: Central, Northern, Eastern and Southern zonal mechanisms.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COMMON MARKET, RECOGNITION AND LAYERED REGULATION",
+      "structural_type": "market-recognition",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLE 261 -> RECOGNITION OF PUBLIC ACTS, RECORDS AND PROCEEDINGS; CIVIL EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 301-304 -> FREE TRADE WITH BOUNDED REGULATION AND NON-DISCRIMINATION",
+          "role": "institution"
+        },
+        {
+          "text": "*JINDAL STAINLESS* (2016): NO TAX-FREE PROMISE; ARTICLE 304(A) TARGETS DISCRIMINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MINOR MINERALS",
+          "role": "comparison"
+        },
+        {
+          "text": "MMDR SECTION 3(E) CENTRE NOTIFIES CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 15 STATES MAKE CONCESSION RULES -> LAYERED POWER, NOT STATE EXCLUSION.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 261 -> recognition of public acts, records and proceedings; civil execution",
+            "ARTICLES 301-304 -> free trade with bounded regulation and non-discrimination"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "*Jindal Stainless* (2016): no tax-free promise; Article 304(a) targets discrimination",
+            "MINOR MINERALS"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MMDR Section 3(e) Centre notifies category",
+            "Section 15 States make concession rules -> layered power, not State exclusion."
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "MMDR Section 3(e) Centre notifies category",
+            "Section 15 States make concession rules -> layered power, not State exclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from article 261 -> recognition of public acts, records and proceedings; civil execution through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "MINOR MINERALS MMDR Section 3(e) Centre notifies category Section 15 States make concession rules -> layered power, not State exclusion.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMMISSIONS, ELEVEN PYQS AND PRELIMS FIREWALLS",
+      "structural_type": "exam-control",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REFORM EVIDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "RAJAMANNAR -> STATE AUTONOMY | SARKARIA -> COOPERATIVE SAFEGUARDS | PUNCHHI -> MODERN MACHINERY",
+          "role": "institution"
+        },
+        {
+          "text": "ELEVEN PYQ ROUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "2019 DOCTRINES | 2020 CENTRALISATION | 2021 CBI | 2022 PARTIES/AUTONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "2023 ARTICLE 356 + GST | 2024 RELATIONS REFORM + LIST TRAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2025 FISCAL FEDERALISM + CONSTITUTIONAL-BODY + MINOR-MINERAL TRAPS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "REFORM EVIDENCE",
+            "Rajamannar -> State autonomy | Sarkaria -> cooperative safeguards | Punchhi -> modern machinery"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ELEVEN PYQ ROUTES",
+            "2019 doctrines | 2020 centralisation | 2021 CBI | 2022 parties/autonomy"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2023 Article 356 + GST | 2024 relations reform + list trap",
+            "2025 fiscal federalism + constitutional-body + minor-mineral traps"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "FIREWALLS: Article 365 is not automatic; GST is not a Concurrent-list tax entry;",
+            "Zonal Councils are statutory; the 2019 water Bill is not law."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from reform evidence through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "FIREWALLS: Article 365 is not automatic; GST is not a Concurrent-list tax entry; Zonal Councils are statutory; the 2019 water Bill is not law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MARKS-SCALED ANSWER SPINE AND QUALIFIED VERDICT",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "10 MARKS: DEFINITION -> 2-3 ANCHORS -> QUALIFICATION -> VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "15 MARKS: THESIS -> DIMENSIONS -> EVIDENCE/CASE -> COUNTERPOINT -> REFORM",
+          "role": "institution"
+        },
+        {
+          "text": "20 MARKS: LEGISLATIVE + ADMINISTRATIVE + FISCAL + INTER-STATE -> DIAGNOSIS -> REFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "CLAIM -> ARTICLE/INSTITUTION -> OPERATION -> STATE/UNION COUNTERPOINT -> COMMISSION REMEDY",
+          "role": "outcome"
+        },
+        {
+          "text": "VERDICT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "10 MARKS: definition -> 2-3 anchors -> qualification -> verdict",
+            "15 MARKS: thesis -> dimensions -> evidence/case -> counterpoint -> reform"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "20 MARKS: legislative + administrative + fiscal + inter-State -> diagnosis -> reform",
+            "EVIDENCE CHAIN"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "claim -> Article/institution -> operation -> State/Union counterpoint -> commission remedy",
+            "VERDICT"
+          ]
+        },
+        {
+          "heading": "FEDERAL / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "Strong Union power is constitutionally bounded; durable relations require consultation",
+            "before compulsion, predictable finance, shared data and reviewable discretion."
+          ]
+        }
+      ],
+      "mechanism_strip": "The route moves from 10 marks: definition -> 2-3 anchors -> qualification -> verdict through constitutional allocation and institutional checks to a qualified federal outcome.",
+      "answer_line": "VERDICT Strong Union power is constitutionally bounded; durable relations require consultation before compulsion, predictable finance, shared data and reviewable discretion.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT — NOT REQUIRED FOR A COMPETENT CORE ANSWER",
+      "structural_type": "optional-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ONLY",
+          "role": "caution"
+        },
+        {
+          "text": "REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTIVE FEDERALISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CORE ALREADY COMPLETE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "REPRESENTATION",
+          "role": "comparison",
+          "items": [
+            "Delimitation and seat allocation affect bargaining power."
+          ]
+        },
+        {
+          "heading": "EXECUTIVE FEDERALISM",
+          "role": "mechanism",
+          "items": [
+            "Political negotiation may supplement formal councils."
+          ]
+        }
+      ],
+      "mechanism_strip": "This enrichment follows the complete Core and is unnecessary for a competent Core answer.",
+      "answer_line": "Use representation or executive-federalism depth only after the complete constitutional relations route.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-13\\g3-source\\polity-13_g3-reviewed-source.md"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

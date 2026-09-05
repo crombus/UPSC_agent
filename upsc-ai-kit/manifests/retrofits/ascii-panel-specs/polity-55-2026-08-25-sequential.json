@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "polity-55-ascii-panels-deep-review-2026-08-29",
+  "created_on": "2026-08-29",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-review successor; twelve complete Core panels plus generated subordinate enrichment.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-55": {
+      "title": "Constitutional Interpretation Doctrines",
+      "source_record": "polity-55:learner-v2:successor-pending",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md",
+      "quality_review": "Manual doctrinal review against constitutional text, cases, PYQs and owner boundaries.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Method before doctrine",
+          "structural_type": "deep-review-01",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "TEXT -> STRUCTURE -> HISTORY -> PURPOSE -> BINDING PRECEDENT.\nTRIGGER -> TEST -> CASE/YEAR -> EFFECT -> LIMIT -> REMEDY.\nAPPLICATION -> facts must satisfy every operative element.\nDOCTRINE != free-standing Article or slogan."
+        },
+        {
+          "title": "Severability, eclipse and waiver",
+          "structural_type": "deep-review-02",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "R.M.D. Chamarbaugwala v. Union of India (1957) -> separable workable remainder.\nBhikaji Narain Dhakras (1955) -> pre-Constitution law dormant to conflict extent.\nBasheshar Nath (1958) -> consent cannot validate unconstitutional State action.\nOBJECT CHECK -> part of law / enforceability / individual consent."
+        },
+        {
+          "title": "Pith, ancillary power and colourability",
+          "structural_type": "deep-review-03",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Prafulla Kumar Mukherjee (1947) -> true nature and character.\nState of Bombay v. F.N. Balsara (1951) -> incidental overlap / effective entry.\nK.C. Gajapati Narayan Deo (1953) -> disguised lack of competence.\n\nMOTIVE alone is insufficient."
+        },
+        {
+          "title": "Territorial nexus",
+          "structural_type": "deep-review-04",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "ART 245 -> territorial competence.\nState of Bombay v. R.M.D. Chamarbaugwala (1957) -> real and sufficient nexus.\nTEST: connection between State, subject and imposed liability/operation.\n\nREMOTE OR ILLUSORY nexus fails."
+        },
+        {
+          "title": "Article 254 repugnancy and occupied field",
+          "structural_type": "deep-review-05",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Deep Chand v. State of Uttar Pradesh (1959) + M. Karunanidhi v. Union of India (1979).\nSAME CONCURRENT FIELD -> actual inconsistency / exhaustive scheme -> Union priority.\nART 254(1) EFFECT -> State law void only to the extent of repugnancy.\nART 254(2) ASSENT -> State prevalence; no cure for incompetence; Parliament may override."
+        },
+        {
+          "title": "Harmony, reading and invalidity",
+          "structural_type": "deep-review-06",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "In re Kerala Education Bill (1958) -> meaningful reconciliation.\nKedar Nath Singh (1962) -> reading down within text.\nREADING INTO -> strong constitutional basis; cannot create a complete code.\nSEVER / STRIKE -> only after saving construction fails."
+        },
+        {
+          "title": "Time, amendment and basic structure",
+          "structural_type": "deep-review-07",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "I.C. Golaknath (1967) -> reasoned prospective overruling.\nKesavananda Bharati (1973) -> Article 368 cannot damage basic structure.\nMinerva Mills (1980) -> limited amending power + Part III/IV harmony.\n\nINTERPRETATION != AMENDMENT."
+        },
+        {
+          "title": "Equality standards and proportionality",
+          "structural_type": "deep-review-08",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Ram Krishna Dalmia (1958) -> rebuttable validity presumption.\nE.P. Royappa (1973) -> arbitrariness/equality.\nModern Dental College (2016) -> structured proportionality.\nShayara Bano v. Union of India (2017) -> manifest arbitrariness.\nK.S. Puttaswamy (2017) + Anuradha Bhasin (2020) -> rights justification."
+        },
+        {
+          "title": "Morality, transformation and religion",
+          "structural_type": "deep-review-09",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Navtej Singh Johar v. Union of India (2018) -> constitutional morality + transformation.\nShirur Mutt (1954) -> religious/secular distinction.\nIndian Young Lawyers Association (2018) -> equality, dignity and religion conflict.\n\nPENDING review/reference != changed holding."
+        },
+        {
+          "title": "Administration and textual restraint",
+          "structural_type": "deep-review-10",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Shamsher Singh (1974) -> pleasure/responsible government.\nMotilal Padampat Sugar Mills (1978) -> promissory estoppel limits.\nNavjyoti Cooperative Group Housing (1992) -> legitimate expectation.\nPadma Sundara Rao (2002) -> casus omissus restraint."
+        },
+        {
+          "title": "Precedent, bench strength and Article 142",
+          "structural_type": "deep-review-11",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "ARTICLE 141 -> binding ratio; distinguish or refer.\nSupreme Court Bar Association (1998) -> Article 142 cannot disregard substantive law.\nSMALLER BENCH -> no silent overruling.\nOBITER -> persuasive, not automatically binding."
+        },
+        {
+          "title": "UPSC integrated decision tree",
+          "structural_type": "deep-review-12",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "1 COMPETENCE -> pith / colour / nexus / Art 254.\n2 MEANING -> harmony / purpose / precedent.\n3 RIGHTS -> equality / proportionality.\n4 INVALIDITY -> read down / sever / strike.\n5 TIME + AUTHORITY -> prospective effect / Article 141.\n\nVERDICT: exact tests constrain judicial choice."
+        }
+      ]
+    }
+  }
+}

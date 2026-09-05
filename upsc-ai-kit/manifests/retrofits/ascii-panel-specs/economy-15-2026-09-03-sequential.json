@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-15",
+      "display_title": "Food Processing, Cold Chains and Value Addition",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\15_Food-Processing-Cold-Chains-and-Value-Addition_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Farm-to-value rail",
+          "structural_type": "value-flow",
+          "ascii_lines": [
+            "FARM OUTPUT",
+            "-> AGGREGATION + GRADING",
+            "-> COLD / AMBIENT LOGISTICS + PROCESSING",
+            "-> PACKAGING + MARKET -> DISTRIBUTED VALUE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Cold-chain continuity",
+          "structural_type": "process-chain",
+          "ascii_lines": [
+            "PACK HOUSE",
+            "-> PRE-COOLING",
+            "-> COLD STORAGE",
+            "-> REEFER -> PROCESSOR / RETAIL"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Capacity accounting fork",
+          "structural_type": "stock-flow-map",
+          "ascii_lines": [
+            "INSTALLED CAPACITY -> stock",
+            "OPERATIONAL CAPACITY -> available stock",
+            "THROUGHPUT -> period flow",
+            "VALUE ADDED -> output value minus inputs"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "PMKSY umbrella",
+          "structural_type": "scheme-map",
+          "ascii_lines": [
+            "COMMON / CLUSTER INFRASTRUCTURE",
+            "COLD CHAIN + VALUE ADDITION",
+            "PROCESSING + QUALITY SUPPORT",
+            "STATUS -> guideline and component vintage"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Scheme-stage ladder",
+          "structural_type": "implementation-ladder",
+          "ascii_lines": [
+            "APPROVAL / SANCTION",
+            "-> INVESTMENT / CONSTRUCTION",
+            "-> OPERATION + CAPACITY USE",
+            "-> SALES / DISBURSAL / OUTCOME"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Operation Greens boundary",
+          "structural_type": "scope-board",
+          "ascii_lines": [
+            "PERISHABLE PRICE STRESS",
+            "SPECIFIED COMMODITY / WINDOW",
+            "STORAGE + PROCESSING LINK",
+            "NOT universal farm-price insurance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Food Park cluster",
+          "structural_type": "cluster-map",
+          "ascii_lines": [
+            "COLLECTION CENTRE",
+            "-> PRIMARY PROCESSING",
+            "-> COMMON CENTRAL FACILITIES",
+            "-> PROCESSOR + MARKET LINK"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Regulatory-export fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FSSAI -> food-safety regulation",
+            "APEDA -> export development / market access",
+            "SPS + TESTING -> compliance gate",
+            "TRACEABILITY -> chain evidence"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Value-capture board",
+          "structural_type": "power-matrix",
+          "ascii_lines": [
+            "FARMER / FPO -> raw material + aggregation",
+            "PROCESSOR -> transformation + quality risk",
+            "LOGISTICS / RETAIL -> access + shelf",
+            "CONTRACT + COMPETITION -> margin split"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Employment chain",
+          "structural_type": "jobs-map",
+          "ascii_lines": [
+            "FARM-GATE SORTING",
+            "COLD LOGISTICS + MAINTENANCE",
+            "PROCESSING + PACKAGING + TESTING",
+            "RETAIL / EXPORT; test formality + seasonality"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Small-processor constraint wheel",
+          "structural_type": "constraint-wheel",
+          "ascii_lines": [
+            "WORKING CAPITAL",
+            "POWER + TECHNOLOGY",
+            "TESTING + FORMALISATION",
+            "MARKET + BRAND + DISTRIBUTION"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        },
+        {
+          "title": "Processing answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE chain and accounting units",
+            "MAP missing node and scheme stage",
+            "TEST standards, jobs and bargaining",
+            "CONCLUDE with throughput + fair value capture"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

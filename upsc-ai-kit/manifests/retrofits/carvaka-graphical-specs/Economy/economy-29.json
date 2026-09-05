@@ -1,0 +1,962 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-29",
+  "subject": "Economy",
+  "title": "AGRICULTURAL TECHNOLOGY MISSIONS AND MISSION-MODE POLICY",
+  "short_route": "MISSION-MODE POLICY RAIL → MISSION-VERSUS-SCHEME TEST → RESEARCH-TO-MARKET CHAIN → TECHNOLOGY FAMILY MAP → ADOPTION THRESHOLD → MISSION CHRONOLOGY SPINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\learning-sessions\\v2\\subject-wide-syllabus\\economy-29_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-29-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "eeeba862ee4e981dfde1bfda9a52665c74adab49b35b5d89eecd1bb629353006",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MISSION-MODE POLICY RAIL",
+      "structural_type": "cause-effect-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MISSION-MODE POLICY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINED BOTTLENECK",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNOLOGY PORTFOLIO",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIVERY + ADOPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTCOME + FEEDBACK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINED BOTTLENECK",
+        "TECHNOLOGY PORTFOLIO",
+        "DELIVERY + ADOPTION",
+        "OUTCOME + FEEDBACK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DEFINED BOTTLENECK",
+            "TECHNOLOGY PORTFOLIO"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DELIVERY + ADOPTION",
+            "OUTCOME + FEEDBACK"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINED BOTTLENECK",
+            "TECHNOLOGY PORTFOLIO"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TECHNOLOGY PORTFOLIO; DELIVERY + ADOPTION; OUTCOME + FEEDBACK.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MISSION-VERSUS-SCHEME TEST",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MISSION-VERSUS-SCHEME TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTCOME + CONVERGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTINE SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTIVITY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "TEST THEORY OF CHANGE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MISSION → outcome + convergence",
+        "ROUTINE SCHEME → activity risk",
+        "TITLE != design",
+        "TEST theory of change"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "MISSION → outcome + convergence",
+          "TITLE != design",
+          "MISSION → outcome + convergence"
+        ],
+        [
+          "ROUTINE SCHEME → activity risk",
+          "TEST theory of change",
+          "ROUTINE SCHEME → activity risk"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MISSION → outcome + convergence",
+            "ROUTINE SCHEME → activity risk"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TITLE != design",
+            "TEST theory of change"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "MISSION → outcome + convergence",
+            "ROUTINE SCHEME → activity risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUTINE SCHEME → activity risk; TITLE != design; TEST theory of change.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RESEARCH-TO-MARKET CHAIN",
+      "structural_type": "value-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESEARCH-TO-MARKET CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MULTIPLICATION + EXTENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE + COMPLEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET + REPEATED USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESEARCH → TRIAL",
+        "MULTIPLICATION + EXTENSION",
+        "FINANCE + COMPLEMENTS",
+        "MARKET + REPEATED USE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "RESEARCH → TRIAL",
+            "MULTIPLICATION + EXTENSION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "FINANCE + COMPLEMENTS",
+            "MARKET + REPEATED USE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "RESEARCH → TRIAL",
+            "MULTIPLICATION + EXTENSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MULTIPLICATION + EXTENSION; FINANCE + COMPLEMENTS; MARKET + REPEATED USE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TECHNOLOGY FAMILY MAP",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TECHNOLOGY FAMILY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGICAL + AGRONOMIC",
+          "role": "outcome"
+        },
+        {
+          "text": "MECHANICAL + WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGITAL + POST-HARVEST",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL INNOVATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BIOLOGICAL + AGRONOMIC",
+        "MECHANICAL + WATER",
+        "DIGITAL + POST-HARVEST",
+        "INSTITUTIONAL innovation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "BIOLOGICAL + AGRONOMIC",
+            "MECHANICAL + WATER"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DIGITAL + POST-HARVEST",
+            "INSTITUTIONAL innovation"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "BIOLOGICAL + AGRONOMIC",
+            "MECHANICAL + WATER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MECHANICAL + WATER; DIGITAL + POST-HARVEST; INSTITUTIONAL innovation.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADOPTION THRESHOLD",
+      "structural_type": "decision-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ADOPTION THRESHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "EXPECTED RETURN",
+          "role": "outcome"
+        },
+        {
+          "text": "PURCHASE + LEARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILURE + MARKET RISK",
+          "role": "caution"
+        },
+        {
+          "text": "EXISTING PRACTICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EXPECTED RETURN",
+        "PURCHASE + LEARNING",
+        "FAILURE + MARKET RISK",
+        "EXISTING PRACTICE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "EXPECTED RETURN",
+            "PURCHASE + LEARNING"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "FAILURE + MARKET RISK",
+            "EXISTING PRACTICE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "EXPECTED RETURN",
+            "PURCHASE + LEARNING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PURCHASE + LEARNING; FAILURE + MARKET RISK; EXISTING PRACTICE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MISSION CHRONOLOGY SPINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MISSION CHRONOLOGY SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "1986 → OILSEEDS",
+          "role": "outcome"
+        },
+        {
+          "text": "2000 → COTTON",
+          "role": "comparison"
+        },
+        {
+          "text": "2005-06 → NHM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1986 → OILSEEDS",
+        "2000 → COTTON",
+        "2005-06 → NHM",
+        "2007-08 → NFSM"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "1986 → OILSEEDS",
+            "2000 → COTTON"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "2005-06 → NHM",
+            "2007-08 → NFSM"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "1986 → OILSEEDS",
+            "2000 → COTTON"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2000 → COTTON; 2005-06 → NHM; 2007-08 → NFSM.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OILSEED SYSTEM SPLIT",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OILSEED SYSTEM SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "ANNUAL OILSEEDS",
+          "role": "outcome"
+        },
+        {
+          "text": "PERENNIAL OIL PALM",
+          "role": "comparison"
+        },
+        {
+          "text": "NMEO-OS → ANNUAL OILSEEDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NMEO-OS → annual oilseeds",
+        "NMEO-OP → perennial oil palm",
+        "APPROVAL != reach",
+        "TARGET != outcome"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "NMEO-OS → annual oilseeds",
+          "APPROVAL != reach",
+          "NMEO-OS → annual oilseeds"
+        ],
+        [
+          "NMEO-OP → perennial oil palm",
+          "TARGET != outcome",
+          "NMEO-OP → perennial oil palm"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "NMEO-OS → annual oilseeds",
+            "NMEO-OP → perennial oil palm"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "APPROVAL != reach",
+            "TARGET != outcome"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "NMEO-OS → annual oilseeds",
+            "NMEO-OP → perennial oil palm"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NMEO-OP → perennial oil palm; APPROVAL != reach; TARGET != outcome.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HORTICULTURE INCOME CHAIN",
+      "structural_type": "value-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "HORTICULTURE INCOME CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PLANTING MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCTION + QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COLD CHAIN + MARKET",
+          "role": "evidence"
+        },
+        {
+          "text": "NET INCOME ONLY AFTER COST + PRICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PLANTING MATERIAL",
+        "PRODUCTION + QUALITY",
+        "COLD CHAIN + MARKET",
+        "NET INCOME only after cost + price"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "PLANTING MATERIAL",
+            "PRODUCTION + QUALITY"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "COLD CHAIN + MARKET",
+            "NET INCOME only after cost + price"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "PLANTING MATERIAL",
+            "PRODUCTION + QUALITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COLD CHAIN + MARKET; NET INCOME only after cost + price.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DIFFUSION INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIFFUSION INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "UNION + ICAR",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE + DISTRICT",
+          "role": "institution"
+        },
+        {
+          "text": "KVK + EXTENSION + FPO",
+          "role": "evidence"
+        },
+        {
+          "text": "FARMER FEEDBACK CLOSES LOOP",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "UNION + ICAR",
+        "STATE + DISTRICT",
+        "KVK + EXTENSION + FPO",
+        "FARMER FEEDBACK closes loop"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "UNION + ICAR",
+            "STATE + DISTRICT"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "KVK + EXTENSION + FPO",
+            "FARMER FEEDBACK closes loop"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "UNION + ICAR",
+            "STATE + DISTRICT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KVK + EXTENSION + FPO; FARMER FEEDBACK closes loop.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MISSION COMPLEMENTARITY AND WEAKEST-LINK DIAGNOSTIC",
+      "structural_type": "bottleneck-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MISSION COMPLEMENTARITY AND WEAKEST-LINK DIAGNOSTIC",
+          "role": "primary"
+        },
+        {
+          "text": "QUALITY SEED",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUSTED EXTENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE + WATER ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "MARKET + REPAIR SERVICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "QUALITY SEED",
+        "TRUSTED EXTENSION",
+        "FINANCE + WATER ACCESS",
+        "MARKET + REPAIR SERVICE"
+      ],
+      "matrix": [
+        [
+          "CONCEPT / ACCOUNTING BASIS",
+          "TRANSMISSION / RECONCILIATION",
+          "DISTRIBUTIONAL / STABILITY LIMIT"
+        ],
+        [
+          "QUALITY SEED",
+          "FINANCE + WATER ACCESS",
+          "QUALITY SEED"
+        ],
+        [
+          "TRUSTED EXTENSION",
+          "MARKET + REPAIR SERVICE",
+          "TRUSTED EXTENSION"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "QUALITY SEED",
+            "TRUSTED EXTENSION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "FINANCE + WATER ACCESS",
+            "MARKET + REPAIR SERVICE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALITY SEED",
+            "TRUSTED EXTENSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINANCE + WATER ACCESS; MARKET + REPAIR SERVICE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MISSION EVALUATION AND ATTRIBUTION LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MISSION EVALUATION AND ATTRIBUTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "BUDGET INPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "DELIVERY ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MEASURABLE OUTPUT",
+          "role": "evidence"
+        },
+        {
+          "text": "LONG-TERM IMPACT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BUDGET INPUT",
+        "DELIVERY ACTIVITY",
+        "MEASURABLE OUTPUT",
+        "OUTCOME → LONG-TERM IMPACT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "BUDGET INPUT",
+            "DELIVERY ACTIVITY"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "MEASURABLE OUTPUT",
+            "OUTCOME → LONG-TERM IMPACT"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "BUDGET INPUT",
+            "DELIVERY ACTIVITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DELIVERY ACTIVITY; MEASURABLE OUTPUT; OUTCOME → LONG-TERM IMPACT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TECHNOLOGY-MISSION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TECHNOLOGY-MISSION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE PROBLEM + MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE RESEARCH TO MARKET",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST INCLUSION + ECOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "EVALUATE OUTCOME + REDESIGN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE problem + mission",
+        "TRACE research to market",
+        "TEST inclusion + ecology",
+        "EVALUATE outcome + redesign"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DEFINE problem + mission",
+            "TRACE research to market"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "TEST inclusion + ecology",
+            "EVALUATE outcome + redesign"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE problem + mission",
+            "TRACE research to market"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST inclusion + ecology; EVALUATE outcome + redesign.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ONE FAILED SEASON THREATENS CONSUMPTION AND DEBT REPAYMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "RESALE OR REPAIR MARKETS ARE ABSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TENANCY REDUCES THE HORIZON FOR SOIL/WATER INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "THE TECHNOLOGY IS INDIVISIBLE AT FARM SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT PRICE IS UNCERTAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMONSTRATION RESULTS ARE NOT TRUSTED LOCALLY.",
+          "role": "caution"
+        },
+        {
+          "text": "INCENTIVES CAN SHIFT FROM OUTCOME TO FUND UTILISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "one failed season threatens consumption and debt repayment;",
+            "resale or repair markets are absent;",
+            "tenancy reduces the horizon for soil/water investment;",
+            "the technology is indivisible at farm scale;"
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "output price is uncertain;",
+            "demonstration results are not trusted locally.",
+            "incentives can shift from outcome to fund utilisation;",
+            "monitoring may privilege easily counted activities;"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "local knowledge may be filtered out;",
+            "blame can be passed between agencies.",
+            "publish role and outcome responsibility at each level;",
+            "combine administrative data with farmer verification;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

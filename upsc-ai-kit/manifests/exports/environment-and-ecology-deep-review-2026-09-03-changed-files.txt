@@ -1,0 +1,1374 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Environment-and-Ecology\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Environment-and-Ecology\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Environment-and-Ecology\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Environment-and-Ecology-Topics-01-05-2026-09-03.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Environment-and-Ecology-Topics-06-10-2026-09-03.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Environment-and-Ecology-Topics-11-15-2026-09-03.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Environment-and-Ecology-Topics-16-20-2026-09-03.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-01-g2-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-02-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-03-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-04-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-05-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-06-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-07-g1-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-08-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-09-g2-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-10-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-11-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-12-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-13-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-14-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-15-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-16-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-17-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-18-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-19-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-20-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-21-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-22-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-23-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-24-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-25-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-26-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-27-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\environment-and-ecology-28-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\environment-and-ecology-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\environment-and-ecology-01-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-02\environment-and-ecology-02-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-02\environment-and-ecology-02-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-02\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-02\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-02\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-03\environment-and-ecology-03-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-03\environment-and-ecology-03-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-03\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-03\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-03\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-04\environment-and-ecology-04-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-04\environment-and-ecology-04-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-04\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-04\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-04\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-05\environment-and-ecology-05-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-05\environment-and-ecology-05-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-05\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-05\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-05\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-06\environment-and-ecology-06-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-06\environment-and-ecology-06-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-06\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-06\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-06\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\environment-and-ecology-07-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\environment-and-ecology-07-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-08\environment-and-ecology-08-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-08\environment-and-ecology-08-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-08\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-08\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-08\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\environment-and-ecology-09-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\environment-and-ecology-09-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-10\environment-and-ecology-10-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-10\environment-and-ecology-10-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-10\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-10\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-10\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-11\environment-and-ecology-11-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-11\environment-and-ecology-11-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-11\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-11\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-11\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-11\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-12\environment-and-ecology-12-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-12\environment-and-ecology-12-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-12\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-12\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-12\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-12\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-13\environment-and-ecology-13-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-13\environment-and-ecology-13-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-13\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-13\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-13\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-13\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-14\environment-and-ecology-14-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-14\environment-and-ecology-14-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-14\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-14\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-14\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-14\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-15\environment-and-ecology-15-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-15\environment-and-ecology-15-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-15\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-15\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-15\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-15\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-16\environment-and-ecology-16-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-16\environment-and-ecology-16-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-16\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-16\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-16\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-16\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-17\environment-and-ecology-17-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-17\environment-and-ecology-17-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-17\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-17\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-17\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-17\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-18\environment-and-ecology-18-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-18\environment-and-ecology-18-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-18\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-18\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-18\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-18\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-19\environment-and-ecology-19-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-19\environment-and-ecology-19-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-19\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-19\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-19\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-19\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-20\environment-and-ecology-20-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-20\environment-and-ecology-20-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-20\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-20\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-20\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-20\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-21\environment-and-ecology-21-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-21\environment-and-ecology-21-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-21\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-21\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-21\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-21\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-22\environment-and-ecology-22-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-22\environment-and-ecology-22-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-22\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-22\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-22\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-22\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-23\environment-and-ecology-23-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-23\environment-and-ecology-23-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-23\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-23\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-23\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-23\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-24\environment-and-ecology-24-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-24\environment-and-ecology-24-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-24\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-24\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-24\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-24\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-25\environment-and-ecology-25-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-25\environment-and-ecology-25-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-25\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-25\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-25\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-25\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-26\environment-and-ecology-26-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-26\environment-and-ecology-26-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-26\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-26\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-26\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-26\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-27\environment-and-ecology-27-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-27\environment-and-ecology-27-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-27\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-27\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-27\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-27\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-28\environment-and-ecology-28-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-28\environment-and-ecology-28-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-28\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-28\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-28\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\environment-and-ecology-28\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Environment-and-Ecology-Subject-Completion-2026-09-03.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Environment and Ecology\INDEX.md
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\01-Ecosystem-Structure-and-Function\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\02-Biogeochemical-Cycles-and-Ecological-Pyramids\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\03-Ecological-Succession-and-Biomes\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\04-Biodiversity-Levels-and-Hotspots\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\05-IUCN-Red-List-and-Endemism\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\06-Protected-Area-Network-India\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\07-Biosphere-Reserves-and-Ramsar-Sites\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\08-Wildlife-Protection-Act-and-Schedules\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\09-CITES-and-Wildlife-Trade\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\10-CMS-Bonn-Convention-Migratory-Species\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\11-Forest-Types-and-Forest-Rights-Act\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\12-Forest-7cd18d42-India-Mission\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\13-Air-Pollution-and-CPCB-Standards\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\14-Water-Pollution-and-River-Cleaning-Missions\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\15-Solid-Plastic-and-E-Waste-Rules\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\16-Environmental-Impact-Assessment-and-NGT\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\17-Climate-Change-Science-Greenhouse-Effect\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\18-IPCC-Assessment-Reports\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\19-UNFCCC-COP-Kyoto-Paris-Agreement\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\21-Carbon-Markets-CCUS-and-Direct-Air-Capture\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\22-Multilateral-60c9ffc1-Montreal\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\23-Desertification-UNCCD-and-Land-Degradation\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\24-Coastal-and-Marine-Ecology-CRZ-Blue-Economy\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\25-Renewable-Energy-and-Green-Hydrogen\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\26-Disaster-Management-Framework-and-Sendai\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\27-Environmental-Institutions-MoEFCC-CPCB-NBA-WII\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\28-Species-and-Current-Affairs-Tracker\README.txt
+notes\Final-Learning-Packages\Environment and Ecology\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-01\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-02\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-03\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-04\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-05\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-06\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-07\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-08\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-09\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-10\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-11\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-12\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-13\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-14\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-15\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-16\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-17\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-18\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-19\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-20\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-21\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-22\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-23\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-24\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-25\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-26\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-27\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\flowcharts\iac-28\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\environment-and-ecology-01_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\environment-and-ecology-01_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\environment-and-ecology-02_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\environment-and-ecology-02_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\environment-and-ecology-03_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\environment-and-ecology-04_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\environment-and-ecology-05_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\environment-and-ecology-05_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\environment-and-ecology-06_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\environment-and-ecology-06_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\environment-and-ecology-07_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\environment-and-ecology-07_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\environment-and-ecology-08_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\environment-and-ecology-09_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\environment-and-ecology-09_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\environment-and-ecology-10_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\environment-and-ecology-10_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\environment-and-ecology-11_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\environment-and-ecology-12_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\environment-and-ecology-12_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\environment-and-ecology-13_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\environment-and-ecology-14_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\environment-and-ecology-14_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\environment-and-ecology-15_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\environment-and-ecology-16_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\environment-and-ecology-16_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\environment-and-ecology-17_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\environment-and-ecology-18_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\environment-and-ecology-19_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\environment-and-ecology-20_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\environment-and-ecology-21_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\environment-and-ecology-22_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\environment-and-ecology-22_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\environment-and-ecology-23_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\environment-and-ecology-23_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\environment-and-ecology-24_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\environment-and-ecology-24_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\environment-and-ecology-25_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\environment-and-ecology-26_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\environment-and-ecology-27_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\environment-and-ecology-28_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\validation\workbook-visual-audit-map.json
+tools\regenerate_environment_and_ecology_deep_review.py
+tools\test_regenerate_environment_and_ecology_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\assets\environment-and-ecology-01_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g3\environment-and-ecology-01_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\assets\environment-and-ecology-01_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-01\g4\environment-and-ecology-01_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\assets\environment-and-ecology-02_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\environment-and-ecology-02_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-02\g2\environment-and-ecology-02_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\assets\environment-and-ecology-03_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\environment-and-ecology-03_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-03\g2\environment-and-ecology-03_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\assets\environment-and-ecology-04_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-04\g2\environment-and-ecology-04_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\assets\environment-and-ecology-05_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\environment-and-ecology-05_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-05\g2\environment-and-ecology-05_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\assets\environment-and-ecology-06_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\environment-and-ecology-06_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-06\g2\environment-and-ecology-06_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\assets\environment-and-ecology-07_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g2\environment-and-ecology-07_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\assets\environment-and-ecology-07_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\environment-and-ecology-07_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-07\g3\environment-and-ecology-07_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\assets\environment-and-ecology-08_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\environment-and-ecology-08_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-08\g2\environment-and-ecology-08_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g3\environment-and-ecology-09_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\environment-and-ecology-09_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-09\g4\environment-and-ecology-09_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\environment-and-ecology-10_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-10\g2\environment-and-ecology-10_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\environment-and-ecology-11_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-11\g2\environment-and-ecology-11_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\environment-and-ecology-12_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-12\g2\environment-and-ecology-12_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\environment-and-ecology-13_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-13\g3\environment-and-ecology-13_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\environment-and-ecology-14_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-14\g3\environment-and-ecology-14_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-15\g3\environment-and-ecology-15_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\environment-and-ecology-16_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-16\g3\environment-and-ecology-16_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\environment-and-ecology-17_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-17\g3\environment-and-ecology-17_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-18\g3\environment-and-ecology-18_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-19\g2\environment-and-ecology-19_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-20\g3\environment-and-ecology-20_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\environment-and-ecology-21_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-21\g3\environment-and-ecology-21_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\environment-and-ecology-22_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-22\g3\environment-and-ecology-22_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\environment-and-ecology-23_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-23\g3\environment-and-ecology-23_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\environment-and-ecology-24_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-24\g3\environment-and-ecology-24_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-25\g2\environment-and-ecology-25_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-26\g2\environment-and-ecology-26_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-27\g2\environment-and-ecology-27_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Environment-and-Ecology\ENV\learning-sessions\iac-28\g2\environment-and-ecology-28_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\manifests\exports\environment-and-ecology-01-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-01-learner-v2-g4-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-01-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-01-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-02-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-02-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-02-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-03-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-03-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-03-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-04-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-04-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-04-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-05-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-05-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-05-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-06-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-06-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-06-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-07-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-07-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-07-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-07-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-07-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-08-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-08-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-08-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-09-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-09-learner-v2-g4-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-09-learner-v2-g4-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-09-learner-v2-g4-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-10-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-10-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-10-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-11-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-11-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-11-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-12-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-12-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-12-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-13-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-13-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-13-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-14-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-14-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-14-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-15-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-15-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-15-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-16-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-16-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-16-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-17-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-17-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-17-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-18-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-18-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-18-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-19-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-19-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-19-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-20-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-20-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-20-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-21-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-21-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-21-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-22-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-22-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-22-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-23-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-23-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-23-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-24-learner-v2-g3-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-24-learner-v2-g3-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-24-learner-v2-g3-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-25-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-25-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-25-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-26-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-26-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-26-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-27-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-27-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-27-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-28-learner-v2-g2-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-28-learner-v2-g2-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-28-learner-v2-g2-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-deep-review-2026-09-03-changed-files.nul
+upsc-ai-kit\manifests\exports\environment-and-ecology-deep-review-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\environment-and-ecology-deep-review-reconciliation-2026-09-03.json
+upsc-ai-kit\manifests\exports\environment-and-ecology-deep-review-validation-2026-09-03.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-28-7cebb0d5deab-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-selected-28-7cebb0d5deab.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-01-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-01-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-02-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-03-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-04-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-05-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-06-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-07-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-07-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-08-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-09-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-09-deep-review-2026-09-03-g4.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-10-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-11-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-12-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-13-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-14-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-15-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-16-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-17-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-18-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-19-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-20-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-21-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-22-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-23-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-24-deep-review-2026-09-03-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-25-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-26-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-27-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\environment-and-ecology-28-deep-review-2026-09-03-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-01-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-01-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-02-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-03-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-05-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-06-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-07-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-07-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-08-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-09-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-09-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-10-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-11-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-12-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-13-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-14-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-15-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-16-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-17-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-18-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-19-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-20-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-21-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-22-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-23-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-24-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-25-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-26-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-27-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Environment-and-Ecology\deep-review\environment-and-ecology-28-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-01-g4.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-02-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-03-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-04-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-05-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-06-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-07-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-07-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-08-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-09-g4.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-10-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-11-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-12-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-13-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-14-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-15-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-16-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-17-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-18-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-19-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-20-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-21-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-22-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-23-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-24-g3.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-25-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-26-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-27-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus-content-specs\environment-and-ecology-28-g2.json
+upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

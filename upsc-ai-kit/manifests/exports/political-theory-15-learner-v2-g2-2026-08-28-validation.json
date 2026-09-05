@@ -1,0 +1,31 @@
+{
+  "topic_key": "political-theory-15",
+  "generation": 2,
+  "identity": "political-theory-15:learner-v2:g2",
+  "approved": false,
+  "session_count": 10,
+  "mcq_count": 48,
+  "direct_pyq_count": 0,
+  "cross_application_pyq_count": 0,
+  "source_preservation": "passed",
+  "pdf_validation": "passed",
+  "published": true,
+  "commands": [],
+  "outputs": {
+    "markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-15_Learning-Session.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-15_Solved-Workbook.md",
+    "main_pdf": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-15_Learning-Session_2026-08-28.pdf",
+    "workbook_pdf": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\workbooks\\political-theory-15_Solved-Workbook_2026-08-28.pdf",
+    "asset_folder": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-15",
+    "concept_visual": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-15\\political-theory-15_concept-map_g2.png",
+    "main_visual_audit": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-15\\political-theory-15_main-visual-audit_g2.json",
+    "workbook_visual_audit": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-15\\political-theory-15_workbook-visual-audit_g2.json",
+    "flow_dir": "notes\\Political-Theory\\flowcharts\\political-theory-15\\continuous-at-a-glance-english-first-g2",
+    "ascii_markdown": "notes\\Political-Theory\\flowcharts\\political-theory-15\\political-theory-15_Twelve-Panel-ASCII-Master_2026-08-28-g2.md",
+    "ascii_pdf": "notes\\Political-Theory\\flowcharts\\political-theory-15\\continuous-at-a-glance-english-first-g2\\ascii-master.pdf",
+    "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-15-ascii-2026-08-28-g2.json",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus-graphical-specs\\political-theory-15-g2.json",
+    "record": "upsc-ai-kit\\manifests\\exports\\political-theory-15-learner-v2-g2-2026-08-28-record.json",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-15-learner-v2-g2-2026-08-28-validation.json"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-04T12:16:36.671619+00:00",
+  "subject": "Science and Technology",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 26,
+  "topic_validations_passed": 26,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_science_and_technology_deep_review (cwd=tools)",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_allocation_reloads_all_three_trackers (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_answer_contract_is_exam_executable_and_specific (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_ascii_finalizer_injects_science_controls (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_contract_enforces_science_precision (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_driver_is_static_and_unittests_are_subprocess_backed (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_full_library_and_inventory_guards_are_dynamic (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_live_tracker_scope_is_fourteen_or_twenty_six (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_manifest_order_scope_and_provenance_owners_are_exact (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_publication_is_complete_and_race_safe (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_real_generator_suites_are_enumerated (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_review_controls_cover_all_twenty_six_topics (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\ntest_review_lines_and_paths_are_windows_safe (test_regenerate_science_and_technology_deep_review.ScienceAndTechnologyDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 1.801s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_science_and_technology_01_05_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_generators_are_authoring_only (test_generate_science_and_technology_01_05_sequential.ScienceAndTechnology01To05Tests) ... ok\ntest_topic_01_contract_and_boundaries (test_generate_science_and_technology_01_05_sequential.ScienceAndTechnology01To05Tests) ... ok\ntest_topic_02_contract_and_boundaries (test_generate_science_and_technology_01_05_sequential.ScienceAndTechnology01To05Tests) ... ok\ntest_topic_03_contract_and_boundaries (test_generate_science_and_technology_01_05_sequential.ScienceAndTechnology01To05Tests) ... ok\ntest_topic_04_contract_and_boundaries (test_generate_science_and_technology_01_05_sequential.ScienceAndTechnology01To05Tests) ... ok\ntest_topic_05_contract_and_boundaries (test_generate_science_and_technology_01_05_sequential.ScienceAndTechnology01To05Tests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 2.028s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_science_and_technology_06_10_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_generators_are_authoring_only (test_generate_science_and_technology_06_10_sequential.ScienceAndTechnology06To10Tests) ... ok\ntest_topic_06_contract_and_boundaries (test_generate_science_and_technology_06_10_sequential.ScienceAndTechnology06To10Tests) ... ok\ntest_topic_07_contract_and_boundaries (test_generate_science_and_technology_06_10_sequential.ScienceAndTechnology06To10Tests) ... ok\ntest_topic_08_contract_and_boundaries (test_generate_science_and_technology_06_10_sequential.ScienceAndTechnology06To10Tests) ... ok\ntest_topic_09_contract_and_boundaries (test_generate_science_and_technology_06_10_sequential.ScienceAndTechnology06To10Tests) ... ok\ntest_topic_10_contract_and_boundaries (test_generate_science_and_technology_06_10_sequential.ScienceAndTechnology06To10Tests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 1.983s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 27.661s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_selected_publication_cannot_overwrite_full_dated_manifest (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 2.693s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_flow_learning_library (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_case_year_check_does_not_rewrite_or_reject_long_approved_lines (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_deterministic_folder_and_file_naming (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_latest_record_resolution_uses_highest_validated_generation (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_long_topic_names_use_stable_bounded_output_stems (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_missing_catalogue_extended_key_uses_exact_clean_package_metadata (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_navigation_links_resolve_and_include_direct_pdf_txt_links (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_selected_export_is_byte_equal_and_exact_shape (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_selected_refresh_rebuilds_navigation_with_dynamic_count (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_subject_agnostic_resolution_uses_catalogue_subject_and_prefix (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_tracker_and_source_library_are_not_mutated (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\ntest_unknown_selected_topic_is_rejected (test_export_flow_learning_library.FlowLearningExporterTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 1.392s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.001s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 18.071s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_topic_command_catalog (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_declared_paths_exist_and_schema_parses (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_basic_advanced_pair_counted_once_and_meta_excluded (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_duplicate_topic_and_command_detection (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_exact_commands_have_no_placeholders_and_state_suffix_is_exact (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_generation_is_deterministic (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_numbered_order_subject_section_grouping_and_unicode (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_on_demand_section_manifest_semantics_are_implemented_and_documented (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\ntest_unresolved_topic_is_withheld_and_reported (test_v2_topic_command_catalog.TopicCommandCatalogTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.498s\n\nOK"
+    }
+  ],
+  "test_count": 115,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-26-7f009cf2175b-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 26,
+    "learning_and_workbook_pdfs_checked": 52,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "represented": 26,
+  "passed": 26,
+  "target_score": 98,
+  "failure_count": 0,
+  "canonical_source_change_status": "unchanged_hash_locked",
+  "canonical_source_owner_count": 78,
+  "full_library_validation": {
+    "topic_count": 483,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-validation.json",
+    "status": "passed",
+    "complete_live_key_set": true
+  },
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-deep-review-2026-09-04-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\science-and-technology-deep-review-2026-09-04-changed-files.nul",
+  "changed_file_inventory_count": 1205,
+  "changed_file_inventory_all_paths_exist": true,
+  "changed_file_inventory_utf8_nul_safe": true
+}

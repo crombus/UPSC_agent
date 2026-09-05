@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 12",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-12",
+      "display_title": "Forest Governance CAMPA and Green India Mission",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-12_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Diversion-to-finance firewall",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROJECT PROPOSAL -> forest-conservation legal scrutiny",
+            "PRIOR CENTRAL APPROVAL OR EXEMPTION TEST -> legal decision",
+            "CONDITIONS -> compensatory afforestation and NPV where applicable",
+            "USER AGENCY PAYMENT -> finance trigger",
+            "RULE -> payment never substitutes for approval"
+          ],
+          "source_references": [
+            "Diversion approval first",
+            "CAMPA trigger"
+          ]
+        },
+        {
+          "title": "Payment distinction",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NPV -> specified ecosystem-service value in the approval framework",
+            "CA COST -> finances compensatory plantation or restoration activity",
+            "BOTH -> may arise from an approved diversion condition",
+            "NEITHER -> evidence that ecological replacement has occurred",
+            "VERIFY -> rate, category and date from the applicable order"
+          ],
+          "source_references": [
+            "CAMPA trigger",
+            "NPV distinction"
+          ]
+        },
+        {
+          "title": "Fund architecture",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CAF ACT 2016 -> statutory framework",
+            "NATIONAL FUND -> centrally assigned receipts and uses",
+            "NATIONAL AUTHORITY -> central planning, coordination and monitoring",
+            "STATE FUND -> state-assigned receipts and uses",
+            "STATE AUTHORITY -> annual plan and on-ground implementation"
+          ],
+          "source_references": [
+            "CAF Act architecture",
+            "National authority boundary",
+            "State authority boundary"
+          ]
+        },
+        {
+          "title": "National-State authority matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NATIONAL -> coordination, national functions and oversight",
+            "STATE -> plan preparation, execution and reporting",
+            "TRANSFER OR RELEASE -> financial stage",
+            "EXPENDITURE -> accounting stage",
+            "OUTCOME -> ecological evidence stage"
+          ],
+          "source_references": [
+            "National authority boundary",
+            "State authority boundary",
+            "Fund-flow discipline"
+          ]
+        },
+        {
+          "title": "Performance chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ACCRUAL -> money received",
+            "PLAN -> approved proposed activity",
+            "RELEASE -> money made available",
+            "EXPENDITURE -> money booked as spent",
+            "OUTPUT AND OUTCOME -> physical work then ecological effect"
+          ],
+          "source_references": [
+            "Fund-flow discipline",
+            "Output versus outcome"
+          ]
+        },
+        {
+          "title": "Permitted-use gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PROPOSED ACTIVITY -> locate Act, Rules and annual plan authority",
+            "PERMITTED USE -> afforestation or other eligible forest activity",
+            "AUTHORITY -> National or State role",
+            "RECORD -> dated sanction and expenditure evidence",
+            "NO FIGURE -> never infer allocation, spend or area"
+          ],
+          "source_references": [
+            "Permitted-use boundary",
+            "Live-data boundary"
+          ]
+        },
+        {
+          "title": "Ecological equivalence test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DIVERTED MATURE FOREST -> layered structure and accumulated history",
+            "NEW PLANTATION -> young stand with different location and trajectory",
+            "AREA MATCH -> administrative comparison only",
+            "CANOPY GAIN -> does not prove biodiversity or hydrological recovery",
+            "VERDICT -> compensation finance is not like-for-like replacement"
+          ],
+          "source_references": [
+            "Compensation limit",
+            "Output versus outcome"
+          ]
+        },
+        {
+          "title": "Site and rights gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "LAND IDENTIFIED -> verify legal and recorded status",
+            "ECOLOGY -> match native biome, soil, water and connectivity",
+            "TENURE -> check recognised and pending FRA rights",
+            "COMMUNITY -> include rights holders in planning and monitoring",
+            "NO EMPTY-LAND ASSUMPTION -> degraded does not mean unused"
+          ],
+          "source_references": [
+            "Site and tenure due diligence"
+          ]
+        },
+        {
+          "title": "GIM identity and scope",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "NAPCC -> original eight-mission architecture",
+            "GIM -> adaptation plus mitigation mission",
+            "ECOSYSTEMS -> forests, wetlands, mangroves and critical habitats",
+            "LANDSCAPES -> agroforestry, social forestry and urban tree cover",
+            "LIVELIHOODS -> forest-dependent households and local communities"
+          ],
+          "source_references": [
+            "GIM policy identity",
+            "GIM ecosystem scope"
+          ]
+        },
+        {
+          "title": "Target-versus-achievement gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "OFFICIAL TARGET -> 5 mha cover increase",
+            "OFFICIAL TARGET -> quality improvement over another 5 mha",
+            "OFFICIAL TARGET -> livelihood income for about 3 million families",
+            "ACHIEVEMENT CLAIM -> requires dated monitoring evidence",
+            "RULE -> mission target is not actual output or outcome"
+          ],
+          "source_references": [
+            "GIM official targets"
+          ]
+        },
+        {
+          "title": "Convergence matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GIM -> ecosystem-service mission objectives",
+            "CAMPA -> diversion-triggered statutory finance",
+            "MGNREGS -> eligible labour and asset channel",
+            "CONVERGENCE -> align plans, sites and monitoring",
+            "NO AUTOMATICITY -> institutions and accounts remain distinct"
+          ],
+          "source_references": [
+            "GIM convergence",
+            "Mission-versus-CAMPA"
+          ]
+        },
+        {
+          "title": "Law metric and PYQ spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LAW -> 2023 statute plus February 2024 interim direction",
+            "FINANCE -> approval, NPV, CA cost and fund flow",
+            "MISSION -> GIM targets separated from achievements",
+            "METRIC -> accrual, spend, output and outcome kept distinct",
+            "AUDIT -> objective PYQs and failed live figures remain answer-free"
+          ],
+          "source_references": [
+            "Forest-law vintage",
+            "Green-credit boundary",
+            "Audited PYQ ownership",
+            "Live-data boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

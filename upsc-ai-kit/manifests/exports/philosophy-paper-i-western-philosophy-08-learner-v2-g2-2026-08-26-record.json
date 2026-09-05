@@ -1,0 +1,123 @@
+{
+  "record_id": "philosophy-paper-i-western-philosophy-08:learner-v2:g2",
+  "topic_key": "philosophy-paper-i-western-philosophy-08",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "philosophy-paper-i-western-philosophy-08:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper I — Western Philosophy — Later Wittgenstein",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-v2-refreshed-philosophy-western-one-topic-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.md",
+    "legacy_v1_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-19.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "official_syllabus": "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "philosophy_readme": "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-content-specs\\philosophy-paper-i-western-philosophy-08-g2.json",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1 learner-v2 indexed renderer"
+    },
+    "generation_date": "2026-08-26",
+    "superseded_v1": "philosophy-paper-i-western-philosophy-08:legacy-v1:g1",
+    "english_first": true,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md": "cf996ba7e379c571a1c41b24901b5a1f8c893a3c04f1b07f5c3c31e1e67d75d7",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+      "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.md": "becc350d64c9af310e8da186ad6b38b30a6051ae0353d0595e6fabe5a990c214",
+      "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Later-Wittgenstein\\Later-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-19.md": "be83a638d60007f774e2cb6074561ab83b88c0dccdd0a117b067dc5ab9a687d6"
+    },
+    "deliverable_hashes": {
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.pdf": "796776b422e70d78f5acd11b0dfc219a939a7215a6f15d6cce38e3933096b4ae",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.txt": "b814d2afa5708bc8aaed536b973e3c24624812eb54243af9576ec0b92e4dd8b4",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\build-audit.json": "233e43b9a3b2123bb4fdbd0e370738749ec86eeb394445e53836ea43568434fc",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\editable\\topic-spec.json": "ff90ede89c910055891007908850f04ddd56bc3470ee12fb7728fab40f738efe",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\master.png": "b8d0f17b67bd2ef7271ae9c6df622a6a44908b3bae633c63933f403d8f5ef772",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\poster.pdf": "b834dac5362ab60f99994753f4f36a8f598f3bf16fc9f5e8f05055e4f96dc2c3",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\preservation-hashes.json": "59520055c2d1cfd3e9ce723fb20dc16be31e5c62738fe760b929548d9ad847d9",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\contact-sheet-01.png": "bbb88d6a696b7ee2a6ac8ebddfe76a7bcce23ab87a86b866f5dbc0db19da38d8",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\master-overview.png": "75637eb1811138e7f0eaf4a3a993ba9ea85a4527ed3c7e937d4e4777d27b8e0e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-001.png": "a9121f8adaf7fad04fe24f3b78c7f0b62368dffae6b071b64ac6fe0eb9da76f0",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-002.png": "0e80febfed46a6f49e52ef4f6fe319806c0b4d49e119d6cf21bdfe3ad4256e4d",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-003.png": "877cb28b559078678cd3c5d2d49d1692596917ff378549ac10c519adf6bc9a1e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\page-004.png": "e82161e9a05cec9a07c1aba2cbca34a679bf3df916d0fbb684e4294de2fee443",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\README.txt": "b535f92aedc5c8b76ba34a49c10c2c50b61e9fd5d886b8263b8302967c70355e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\tiled.pdf": "4dd079ec03f1a83ba7619d368abe11848a38193ba4f305f48f2c1fbedbc32ca4",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\validation-report.txt": "76ec0e8cee714886ab82323b1bce022ca5aa634efbc0aabbab8b76bc6ab9e49e",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.pdf": "e38e514ecdc352f75ca51a0e7d63849c4300a55740bc73ab175f6b02fae8c952",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.pdf": "8d741cd9fdb2eb3fbdf1210571dce84480a78fa3416550d11505f14a5c9b0fc3",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\main-visual-audit-map.json": "236a5c1cf2e7f5f3a958ff6a43d21d8ac9fe8c776de645d24406c6a5399adb1b",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\workbook-visual-audit-map.json": "316782ec3c8e5a8d0fa5e7fc62966aada866c30aae42beac84053cce028e71cd",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\assets\\Later-Wittgenstein-Practice-Map.png": "204dc0e68c84f3a9e1aae45bf0ba7a01712542058117959838e38cf53644d40e",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.md": "8e13402456bce680f3572d36d4e32d04906036fd1ac78eb244889a90f845fd4b",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.md": "11730caf2273e2afa1c281e870eb0664a7e9afb0582ecf054b98e2b6e372e55d",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-08-ascii-2026-08-26.json": "a0c9c94c6d60237966c3e251af89086d08e665968bcccccf035d48cac669ea69",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-content-specs\\philosophy-paper-i-western-philosophy-08-g2.json": "ce6e86d5e9233165129e5a309b8e28064533b0a80c14faa1d318c53dad5d5fbd",
+      "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-graphical-specs\\philosophy-paper-i-western-philosophy-08-g2.json": "ff90ede89c910055891007908850f04ddd56bc3470ee12fb7728fab40f738efe"
+    },
+    "concept_visual": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\assets\\Later-Wittgenstein-Practice-Map.png",
+    "main_visual_audit_map": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\main-visual-audit-map.json",
+    "workbook_visual_audit_map": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\workbook-visual-audit-map.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.pdf",
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-i-western-philosophy-08:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-26",
+    "validator": "tools/generate_philosophy_western_later_wittgenstein_v2.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-26",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\philosophy--paper-i-western-philosophy-graphical-specs\\philosophy-paper-i-western-philosophy-08-g2.json",
+    "graphical_spec_sha256": "ff90ede89c910055891007908850f04ddd56bc3470ee12fb7728fab40f738efe",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 10,
+    "card_count": 11,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-later-wittgenstein-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-08-ascii-2026-08-26.json",
+    "ascii_master_spec_sha256": "a0c9c94c6d60237966c3e251af89086d08e665968bcccccf035d48cac669ea69",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.pdf"
+  }
+}

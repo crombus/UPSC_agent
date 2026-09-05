@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T15:45:53+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0d242dbfadbf644ce76fffee5ad90dc8ec33869c11a6cb8d6f458328308d4cde",
+    "sha256_after": "0d242dbfadbf644ce76fffee5ad90dc8ec33869c11a6cb8d6f458328308d4cde",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Economy": 1
+  },
+  "sections": {
+    "Economy — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 8051,
+    "pdf_count": 2097,
+    "png_count": 723,
+    "txt_count": 890,
+    "markdown_count": 1317,
+    "json_count": 3009,
+    "total_bytes": 3757338958,
+    "by_extension": {
+      ".json": 3009,
+      ".md": 1317,
+      ".pdf": 2097,
+      ".png": 723,
+      ".txt": 890,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "economy-31",
+      "topic_title": "Energy Infrastructure Economics, Power, Fuels and Energy Security",
+      "subject": "Economy",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 31,
+      "source_record_id": "economy-31:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Complete-Learning-Session_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "2401d32b702d5dfe59437dd9eb73dd3c48be9089afb93bee81036bfb594f6289",
+          "output_sha256": "2401d32b702d5dfe59437dd9eb73dd3c48be9089afb93bee81036bfb594f6289",
+          "source_output_equal": true,
+          "bytes": 731852
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g2\\economy-31_Solved-Practice-Workbook_2026-09-03.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "1cc6732a1e7897f7cf1aa75b6928b5645de8934b5b7b4f527960cc1b8c65649d",
+          "output_sha256": "1cc6732a1e7897f7cf1aa75b6928b5645de8934b5b7b4f527960cc1b8c65649d",
+          "source_output_equal": true,
+          "bytes": 544875
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-31\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2e59a8ab09e8ba9249e60a2c392769f0b5c62b9d8649d4ddb963765bbccc585d",
+          "output_sha256": "2e59a8ab09e8ba9249e60a2c392769f0b5c62b9d8649d4ddb963765bbccc585d",
+          "source_output_equal": true,
+          "bytes": 1558800
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-31\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "46c6448485ddcd6cda9736fb667cded322d40965603f82347afbe410a5d40632",
+          "output_sha256": "46c6448485ddcd6cda9736fb667cded322d40965603f82347afbe410a5d40632",
+          "source_output_equal": true,
+          "bytes": 1940106
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-31\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "f60cf664fc093d2640619d847cc94215139447809db8cae05fe8e4515cdf6e2d",
+          "output_sha256": "f60cf664fc093d2640619d847cc94215139447809db8cae05fe8e4515cdf6e2d",
+          "source_output_equal": true,
+          "bytes": 1373011
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-31\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "0a2f278fa934ae748534ffcb6184785f54dbeaf493359b33fad99b8651132b6e",
+          "output_sha256": "0a2f278fa934ae748534ffcb6184785f54dbeaf493359b33fad99b8651132b6e",
+          "source_output_equal": true,
+          "bytes": 2279
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-31\\carvaka-g2\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "6d70aa7fc8df2a165f48a589b7f515174f7f212d7631378c12920778de717dc8",
+          "output_sha256": "6d70aa7fc8df2a165f48a589b7f515174f7f212d7631378c12920778de717dc8",
+          "source_output_equal": true,
+          "source_text_sha256": "0a2f278fa934ae748534ffcb6184785f54dbeaf493359b33fad99b8651132b6e",
+          "normalized_text_equal": true,
+          "bytes": 55141
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 115,
+        "solved_practice_workbook": 56,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 115
+        },
+        "solved_practice_workbook": {
+          "page_count": 56
+        },
+        "graphical_poster": {
+          "page_count": 1
+        },
+        "graphical_tiled": {
+          "page_count": 4
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10342
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

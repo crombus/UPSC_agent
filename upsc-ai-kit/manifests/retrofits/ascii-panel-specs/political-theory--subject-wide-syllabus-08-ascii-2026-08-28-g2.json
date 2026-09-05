@@ -1,0 +1,420 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-28",
+  "scope": "Political Theory subject-wide syllabus topic 08",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-08",
+      "title": "Approaches, Behaviouralism and Post-Behaviouralism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-08_Learning-Session.md",
+      "source_record": "political-theory-08:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Method, Approach and the Methodological Turn",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Method, Approach and the Methodological Turn",
+            "  [1] Method means procedure of inquiry; approach means procedure plus criteria for",
+            "      selecting problems and data. (PDF pp.108-109)",
+            "        |",
+            "        v",
+            "  [2] Traditional and contemporary are historical labels; they do not exactly coincide",
+            "      with normative and empirical. (PDF pp.109-110)",
+            "        |",
+            "        v",
+            "  [3] Empirical inquiry studies what can be observed and tested; normative inquiry judges",
+            "      what ought to be preferred or prescribed. (PDF pp.110-112)",
+            "        |",
+            "        v",
+            "  [4] Behaviouralism pushed political science toward scientific study of actual political",
+            "      behaviour, regularities, verification and quantification. (PDF pp.118-121)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Method, Approach and the Methodological Turn is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Empirical and Normative Inquiry by Content",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Empirical and Normative Inquiry by Content",
+            "  [1] Gauba begins by separating method from approach so that students do not confuse",
+            "      tools of inquiry with frames of inquiry. (PDF pp.108-109)",
+            "        |",
+            "        v",
+            "  [2] He then warns that traditional/contemporary and normative/empirical are not",
+            "      identical pairs. (PDF pp.109-110)",
+            "        |",
+            "        v",
+            "  [3] He clarifies that empirical vs normative turns on the content of the claim, not just",
+            "      the grammatical presence of \"is\" or \"ought\". (PDF pp.110-112)",
+            "        |",
+            "        v",
+            "  [4] The traditional approaches are then outlined: philosophical, historical, legal and",
+            "      institutional. (PDF pp.112-117)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Empirical and Normative Inquiry by Content is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Traditional Approaches and Their Thinkers",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Traditional Approaches and Their Thinkers",
+            "  [1] Method vs approach: methods obtain and use data; approaches decide which questions",
+            "      and data count as relevant. (PDF pp.108-109)",
+            "        |",
+            "        v",
+            "  [2] Traditional vs contemporary: the first cluster is associated with philosophy,",
+            "      history, law and institutions, while the second focuses more on process, behaviour",
+            "      and.",
+            "        |",
+            "        v",
+            "  [3] Empirical vs normative: empirical asks what is observable and testable; normative",
+            "      asks what is right, just or preferable. (PDF pp.110-112)",
+            "        |",
+            "        v",
+            "  [4] Form vs content: a sentence using \"ought\" may still be empirical if it states an",
+            "      instrumentally testable condition, while a sentence using \"is\" may still be.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Traditional Approaches and Their Thinkers is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Illustrations, Comparison and Trap Repair",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Illustrations, Comparison and Trap Repair",
+            "  [1] \"Everybody ought to vote if democracy is to work\" is empirical in content because",
+            "      its claim can be checked against political functioning. (PDF pp.110-111)",
+            "        |",
+            "        v",
+            "  [2] \"Justice is treating equals equally...\" is normative in content even though it",
+            "      appears in the form of an \"is\" statement. (PDF p.110)",
+            "        |",
+            "        v",
+            "  [3] Legal analysis of Indian politics would ask what constitutional provisions authorize",
+            "      institutions and actions. (PDF pp.115-116)",
+            "        |",
+            "        v",
+            "  [4] Institutional analysis would map legislature, executive, judiciary, parties and",
+            "      their formal relations. (PDF pp.116-117)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Illustrations, Comparison and Trap Repair is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Boundaries, Revision and Source Discipline",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Boundaries, Revision and Source Discipline",
+            "  [1] Behaviouralism: scientific study of actual behaviour, eight key tenets, micro-level",
+            "      reliability. (PDF pp.118-121)",
+            "        |",
+            "        v",
+            "  [2] Post-behaviouralism: relevance, action and responsible value concern without",
+            "      discarding scientific gains. (PDF pp.121-122)",
+            "        |",
+            "        v",
+            "  [3] Best answer line: political inquiry needs both disciplined evidence and defensible",
+            "      value judgment.",
+            "        |",
+            "        v",
+            "  [4] Primary source used directly: Gauba, Ch.4, especially PDF pp.108-122 for basic",
+            "      distinctions and the behavioural/post-behavioural debate.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Boundaries, Revision and Source Discipline is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Behaviouralism's Eight Tenets",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Behaviouralism's Eight Tenets",
+            "  [1] These eight \"tenets\"/\"intellectual foundation stones\" are commonly attributed, via",
+            "      Gauba's exposition, to David Easton's account of behaviouralism (echoing Easton's.",
+            "        |",
+            "        v",
+            "  [2] Techniques — rigorous tools and methods (surveys, statistics, sampling) are used to",
+            "      acquire and interpret data.",
+            "        |",
+            "        v",
+            "  [3] Quantification — precision through measurement and quantification wherever the data",
+            "      meaningfully allow it.",
+            "        |",
+            "        v",
+            "  [4] Values — an analytic separation is drawn between empirical explanation and ethical",
+            "      evaluation (value-neutrality as method, not indifference).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Behaviouralism's Eight Tenets is best presented through its central claim, causal",
+            "             logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Post-Behavioural Relevance and Action",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Post-Behavioural Relevance and Action",
+            "  [1] Post-behaviouralism, associated with Easton's own self-correction, retains the",
+            "      scientific gains of behaviouralism (rigour, verification, technique) but adds two.",
+            "        |",
+            "        v",
+            "  [2] Post-behaviouralism is a corrective within science, not a licence for unexamined",
+            "      activism; relevance still requires disciplined evidence, or it collapses back into.",
+            "        |",
+            "        v",
+            "  [3] Post-behaviouralism kept scientific gains but demanded relevance, action and",
+            "      value-conscious responsibility. (PDF pp.121-122)",
+            "        |",
+            "        v",
+            "  [4] Pure science vs relevance: behaviouralism stressed reliable inquiry;",
+            "      post-behaviouralism added action and public responsibility. (PDF pp.121-122)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Post-Behavioural Relevance and Action is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Easton and Almond: Systems and Structural Functions",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Easton and Almond: Systems and Structural Functions",
+            "  [1] Claim: the political system is best understood as an open system embedded in a wider",
+            "      social environment, processing inputs (demands and supports from.",
+            "        |",
+            "        v",
+            "  [2] Evidence/mechanism: stability is explained by the system's capacity to convert",
+            "      demands into outputs faster than demands accumulate, and by supports (loyalty.",
+            "        |",
+            "        v",
+            "  [3] Significance: allows comparison across very different polities using one common",
+            "      vocabulary (inputs/outputs/feedback), and foregrounds system persistence and.",
+            "        |",
+            "        v",
+            "  [4] Limit: criticised as too static/equilibrium-biased; weak at explaining the internal",
+            "      distribution of power, ideology, or discontinuous change such as revolution, and.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Easton and Almond: Systems and Structural Functions is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Deutsch, Decision-Making, Marxian Analysis and Model Comparison",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Deutsch, Decision-Making, Marxian Analysis and Model Comparison",
+            "  [1] Claim: government functions like a steering mechanism, and politics can be modelled",
+            "      on cybernetics (the science of communication and control) — decision-making.",
+            "        |",
+            "        v",
+            "  [2] Evidence/mechanism: concepts such as information \"load,\" \"lag,\" \"gain\" and \"lead\"",
+            "      describe how efficiently a political system receives, processes and acts on.",
+            "        |",
+            "        v",
+            "  [3] Significance: foregrounds learning, error-correction and adaptive capacity in",
+            "      political systems, useful for analysing bureaucratic responsiveness and policy.",
+            "        |",
+            "        v",
+            "  [4] Limit: the mechanistic/engineering metaphor understates power, ideology and class",
+            "      conflict, and is not well suited to explaining revolution, resource allocation.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Deutsch, Decision-Making, Marxian Analysis and Model Comparison is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Objections, Indian Application and Mark-Scaled Answers",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Objections, Indian Application and Mark-Scaled Answers",
+            "  [1] Objection: behavioural political science's value-neutrality claim makes it complicit",
+            "      in ignoring urgent injustice, since choosing what to study/ignore is itself a.",
+            "        |",
+            "        v",
+            "  [2] Objection: structural-functionalism's claim to be structure-neutral is not honoured",
+            "      in practice — comparative studies routinely measure non-Western/developing.",
+            "        |",
+            "        v",
+            "  [3] The decision-making approach can be used to analyse how an Indian policy choice",
+            "      (e.g. a Cabinet or Cabinet Committee decision) moves from problem recognition to.",
+            "        |",
+            "        v",
+            "  [4] The structural-functional approach can compare India's formal parliamentary",
+            "      structures with informal interest-articulation channels (caste associations,",
+            "      kinship.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Objections, Indian Application and Mark-Scaled Answers is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Method means procedure of inquiry; approach means procedure plus criteria for",
+            "      selecting problems and data. (PDF pp.108-109)",
+            "        |",
+            "        v",
+            "  [2] Traditional and contemporary are historical labels; they do not exactly coincide",
+            "      with normative and empirical. (PDF pp.109-110)",
+            "        |",
+            "        v",
+            "  [3] Empirical inquiry studies what can be observed and tested; normative inquiry judges",
+            "      what ought to be preferred or prescribed. (PDF pp.110-112)",
+            "        |",
+            "        v",
+            "  [4] Behaviouralism pushed political science toward scientific study of actual political",
+            "      behaviour, regularities, verification and quantification. (PDF pp.118-121)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Best answer line: political inquiry needs both disciplined evidence and defensible",
+            "      value judgment.",
+            "        |",
+            "        v",
+            "  [2] This basic file reconstructs behaviouralism's eight tenets and all five analytical",
+            "      models (systems, structural-functional, communications/cybernetic.",
+            "        |",
+            "        v",
+            "  [3] Limit: functionalism's assumption that systems tend toward equilibrium risks a",
+            "      conservative bias (downplaying conflict and structural change), and in practice",
+            "      often.",
+            "        |",
+            "        v",
+            "  [4] Objection: structural-functionalism's claim to be structure-neutral is not honoured",
+            "      in practice — comparative studies routinely measure non-Western/developing.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

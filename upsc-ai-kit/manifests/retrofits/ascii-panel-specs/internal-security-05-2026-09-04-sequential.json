@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 05",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-05",
+      "display_title": "Jammu & Kashmir and Cross-Border Terrorism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-05_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Accession-to-LoC boundary",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "26 OCT 1947 -> INSTRUMENT OF ACCESSION",
+            "1947-48 -> CONFLICT / CEASEFIRE-LINE CONTEXT",
+            "1971 + SHIMLA PROCESS -> LINE OF CONTROL",
+            "BOUNDARY -> constitutional doctrine routes to Polity"
+          ],
+          "source_references": [
+            "Accession anchor",
+            "LoC legal-status boundary",
+            "Constitutional-domain firewall"
+          ]
+        },
+        {
+          "title": "Proxy-war system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "EXTERNAL SPONSOR -> DENIABLE PROXY",
+            "PROXY -> INFILTRATION / FINANCE / WEAPONS / PROPAGANDA",
+            "LOCAL FACILITATION -> only where evidence proves the role",
+            "END-STATE -> coercion, fear, legitimacy and strategic pressure"
+          ],
+          "source_references": [
+            "Proxy-war mechanism",
+            "Attribution gradient"
+          ]
+        },
+        {
+          "title": "Attribution ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "1 ALLEGATION / CLAIM",
+            "2 RECOVERED MATERIAL OR COMMUNICATION",
+            "3 FINANCING / TRAINING / CADRE LINK",
+            "4 INVESTIGATIVE OR JUDICIAL FINDING",
+            "RULE -> state the rung; do not jump to adjudicated certainty"
+          ],
+          "source_references": [
+            "Attribution gradient"
+          ]
+        },
+        {
+          "title": "Ceasefire-versus-conflict matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LoC FIRING -> governed by military understanding",
+            "INFILTRATION -> separate border-security metric",
+            "RECRUITMENT / FINANCE -> separate network metrics",
+            "HINTERLAND INCIDENT -> separate policing/investigation metric"
+          ],
+          "source_references": [
+            "Ceasefire understanding",
+            "Separate security metrics"
+          ]
+        },
+        {
+          "title": "Proxy-support chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "INFILTRATION / DELIVERY",
+            "-> LOGISTICS / SHELTER / COMMUNICATION",
+            "-> FINANCE / RECRUITMENT / PROPAGANDA",
+            "-> ATTACK OR COERCIVE INFLUENCE",
+            "SAFE RULE -> describe categories, not exploitable methods"
+          ],
+          "source_references": [
+            "Proxy-war mechanism",
+            "OGW function map"
+          ]
+        },
+        {
+          "title": "OGW proof-and-response",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ALLEGED FACILITATION?",
+            "-> PROTECT REPORTING + PRESERVE EVIDENCE",
+            "-> INVESTIGATE FUNCTION + FINANCIAL TRAIL",
+            "-> REHABILITATE / PREVENT OR PROSECUTE AS EVIDENCE WARRANTS",
+            "TRAP -> label is not proof"
+          ],
+          "source_references": [
+            "OGW evidentiary boundary",
+            "OGW response chain"
+          ]
+        },
+        {
+          "title": "2019 operational chain",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "J&K UT -> LEGISLATURE EXISTS",
+            "POLICE + PUBLIC ORDER -> OUTSIDE ASSEMBLY COMPETENCE",
+            "OPERATIONAL CHAIN -> LIEUTENANT GOVERNOR / UNION",
+            "POLITY FIREWALL -> constitutional merits and judgment elsewhere"
+          ],
+          "source_references": [
+            "Reorganisation structure",
+            "Police-public-order consequence",
+            "Constitutional-domain firewall"
+          ]
+        },
+        {
+          "title": "Legal-instrument firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "J&K REORGANISATION ACT 2019 -> administrative / competence structure",
+            "J&K AFSPA 1990 -> special-powers statute",
+            "LoC CEASEFIRE -> military understanding",
+            "RULE -> none proves field capability or outcome"
+          ],
+          "source_references": [
+            "Police-public-order consequence",
+            "J&K AFSPA distinction",
+            "Ceasefire understanding"
+          ]
+        },
+        {
+          "title": "Community-security balance",
+          "structural_type": "balance-scale",
+          "ascii_lines": [
+            "VDG GAIN -> local presence / warning / self-protection",
+            "VDG RISK -> training / command / accountability",
+            "SAFEGUARD -> SP / SSP supervision + lawful review",
+            "VERDICT -> community partnership, never unaccountable substitution"
+          ],
+          "source_references": [
+            "Village Defence Guards boundary"
+          ]
+        },
+        {
+          "title": "Hearts-and-minds scorecard",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CIVILIAN SECURITY | PROPORTIONATE FORCE",
+            "PARTICIPATION | GRIEVANCE REDRESS",
+            "SERVICES / LIVELIHOOD | REHABILITATION",
+            "ACCOUNTABILITY / REMEDY | TRUST OUTCOME"
+          ],
+          "source_references": [
+            "Hearts-and-minds meaning",
+            "Rehabilitation-evidence rung"
+          ]
+        },
+        {
+          "title": "CPEC bounded route",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PRINCIPAL OWNERS -> IR / ECONOMY",
+            "INTERNAL-SECURITY LEG -> SOVEREIGNTY CLAIM",
+            "STRATEGIC LEG -> LOGISTICS / CONTINGENCY RISK",
+            "LIMIT -> no invented troop movement or current outcome"
+          ],
+          "source_references": [
+            "CPEC bounded route"
+          ]
+        },
+        {
+          "title": "PYQ and end-state rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2018 -> CPEC SOVEREIGNTY / SECURITY LEG",
+            "2019 -> OGW ROLE + EVIDENCE-LED RESPONSE",
+            "2023 -> HEARTS AND MINDS EVALUATION",
+            "END -> DISRUPTION + RIGHTS + GOVERNANCE + REHABILITATION",
+            "QUALIFY -> last verified metric and evidence rung"
+          ],
+          "source_references": [
+            "Integrated response chain",
+            "Qualified end-state"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1065 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-15",
+  "subject": "Indian-Art-and-Culture",
+  "title": "INDIAN CINEMA, FILM INSTITUTIONS AND AWARDS",
+  "short_route": "COMPOSITE-ART ROOT → FILM-FORM GRAMMAR → INDIGENISATION TIMELINE → SILENT-ERA CIRCUIT → SOUND-COLOUR SEQUENCE → TWO-CINEMA MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-15-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "5639906988e8ee59ffee70a3c0eda018f4c39c05ec75e7e027325e0c860d0510",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMPOSITE-ART ROOT",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "COMPOSITE-ART ROOT",
+          "role": "primary"
+        },
+        {
+          "text": "PERFORMANCE + DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "STAGED WORLD",
+          "role": "comparison"
+        },
+        {
+          "text": "CAMERA + SOUND",
+          "role": "evidence"
+        },
+        {
+          "text": "RECORDED FORM",
+          "role": "primary"
+        },
+        {
+          "text": "EDITING + CIRCULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CINEMATIC MEANING AND REACH",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STORY / LITERATURE → narrative",
+        "PERFORMANCE + DESIGN → staged world",
+        "CAMERA + SOUND → recorded form",
+        "EDITING + CIRCULATION → cinematic meaning and reach",
+        "MUST REMEMBER: Cinema chronology distinguishes the 1896 Bombay exhibition, Indian-shot and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STORY / LITERATURE → narrative",
+            "PERFORMANCE + DESIGN → staged world",
+            "CAMERA + SOUND → recorded form"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EDITING + CIRCULATION → cinematic meaning and reach",
+            "MUST REMEMBER: Cinema chronology distinguishes the 1896 Bombay exhibition, Indian-shot and",
+            "Indian-made shorts, Raja Harishchandra (1913), Fatma Begum's 1926 milestone, Alam-Ara"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "(1931), studio and parallel-cinema phases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian-made shorts, Raja Harishchandra (1913), Fatma Begum's 1926 milestone, Alam-Ara.",
+      "source_references": [
+        "Cinema as a composite modern art",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FILM-FORM GRAMMAR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FILM-FORM GRAMMAR",
+          "role": "primary"
+        },
+        {
+          "text": "MOVING IMAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHOT ARRANGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHIN-FRAME DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTED NON-FICTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CINEMATOGRAPHY → moving image",
+        "EDITING → shot arrangement",
+        "MISE-EN-SCENE → within-frame design",
+        "DOCUMENTARY → selected non-fiction"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CINEMATOGRAPHY → moving image",
+          "MISE-EN-SCENE → within-frame design",
+          "CINEMATOGRAPHY → moving image"
+        ],
+        [
+          "EDITING → shot arrangement",
+          "DOCUMENTARY → selected non-fiction",
+          "EDITING → shot arrangement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CINEMATOGRAPHY → moving image",
+            "EDITING → shot arrangement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MISE-EN-SCENE → within-frame design",
+            "DOCUMENTARY → selected non-fiction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CINEMATOGRAPHY → moving image",
+            "EDITING → shot arrangement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MISE-EN-SCENE → within-frame design; DOCUMENTARY → selected non-fiction.",
+      "source_references": [
+        "Camera, editing and the frame",
+        "Documentary and animation",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INDIGENISATION TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIGENISATION TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "BOMBAY EXHIBITION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN-SHOT AND INDIAN-MADE SHORTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN-OWNED EXHIBITION HOUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIGENOUS SILENT FEATURE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1896 → Bombay exhibition",
+        "1897 / 1899 → Indian-shot and Indian-made shorts",
+        "1907 → Indian-owned exhibition house",
+        "1913 → indigenous silent feature"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1896 → Bombay exhibition",
+            "1897 / 1899 → Indian-shot and Indian-made shorts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1907 → Indian-owned exhibition house",
+            "1913 → indigenous silent feature"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1896 → Bombay exhibition",
+            "1897 / 1899 → Indian-shot and Indian-made shorts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1897 / 1899 → Indian-shot and Indian-made shorts.",
+      "source_references": [
+        "From exhibition to Indian production",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SILENT-ERA CIRCUIT",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SILENT-ERA CIRCUIT",
+          "role": "primary"
+        },
+        {
+          "text": "SILENT IMAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVE INSTRUMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RAJA HARISHCHANDRA",
+          "role": "evidence"
+        },
+        {
+          "text": "LANKA DAHAN",
+          "role": "primary"
+        },
+        {
+          "text": "BOX-OFFICE MILESTONE",
+          "role": "outcome"
+        },
+        {
+          "text": "MASS PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "MYTH, MUSIC AND REPRODUCIBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SILENT IMAGE → live instruments",
+        "PHALKE → Raja Harishchandra",
+        "LANKA DAHAN → box-office milestone",
+        "MASS PUBLIC → myth, music and reproducibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SILENT IMAGE → live instruments",
+            "PHALKE → Raja Harishchandra"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LANKA DAHAN → box-office milestone",
+            "MASS PUBLIC → myth, music and reproducibility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SILENT IMAGE → live instruments",
+            "PHALKE → Raja Harishchandra"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LANKA DAHAN → box-office milestone; MASS PUBLIC → myth, music and reproducibility.",
+      "source_references": [
+        "Silent film, live music and Phalke",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOUND-COLOUR SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOUND-COLOUR SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ALAM-ARA TALKIE",
+          "role": "outcome"
+        },
+        {
+          "text": "RECORDED SONG",
+          "role": "comparison"
+        },
+        {
+          "text": "W.M. KHAN",
+          "role": "evidence"
+        },
+        {
+          "text": "SAIRANDHRI, PROCESSED ABROAD",
+          "role": "primary"
+        },
+        {
+          "text": "KISAN KANYA, INDIGENOUS COLOUR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1931 → Alam-Ara talkie",
+        "RECORDED SONG → W.M. Khan",
+        "1933 → Sairandhri, processed abroad",
+        "1937 → Kisan Kanya, indigenous colour"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1931 → Alam-Ara talkie",
+            "RECORDED SONG → W.M. Khan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1933 → Sairandhri, processed abroad",
+            "1937 → Kisan Kanya, indigenous colour"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1931 → Alam-Ara talkie",
+            "RECORDED SONG → W.M. Khan"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1933 → Sairandhri, processed abroad; 1937 → Kisan Kanya, indigenous colour.",
+      "source_references": [
+        "Sound transforms cinema",
+        "The colour-film close option",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TWO-CINEMA MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO-CINEMA MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MASS ENTERTAINMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL-REALIST ALTERNATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCTION AND DISTRIBUTION CONSTRAINTS",
+          "role": "evidence"
+        },
+        {
+          "text": "REACH AND VALUE ARE NOT IDENTICAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMMERCIAL → mass entertainment",
+        "PARALLEL → social-realist alternative",
+        "COMMON → production and distribution constraints",
+        "LIMIT → reach and value are not identical"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COMMERCIAL → mass entertainment",
+          "COMMON → production and distribution constraints",
+          "COMMERCIAL → mass entertainment"
+        ],
+        [
+          "PARALLEL → social-realist alternative",
+          "LIMIT → reach and value are not identical",
+          "PARALLEL → social-realist alternative"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMERCIAL → mass entertainment",
+            "PARALLEL → social-realist alternative"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON → production and distribution constraints",
+            "LIMIT → reach and value are not identical"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMERCIAL → mass entertainment",
+            "PARALLEL → social-realist alternative"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → reach and value are not identical.",
+      "source_references": [
+        "Parallel and commercial cinema",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REPRESENTATION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REPRESENTATION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IS SHOWN?",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO PRODUCED IT?",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL CHOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "WHO WAS ADDRESSED?",
+          "role": "primary"
+        },
+        {
+          "text": "EXPECTED AUDIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT A SOCIAL CENSUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WHAT IS SHOWN? → representation",
+        "WHO PRODUCED IT? → institutional choice",
+        "WHO WAS ADDRESSED? → expected audience",
+        "LIMIT → not a social census"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHAT IS SHOWN? → representation",
+            "WHO PRODUCED IT? → institutional choice"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHO WAS ADDRESSED? → expected audience",
+            "LIMIT → not a social census"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHAT IS SHOWN? → representation",
+            "WHO PRODUCED IT? → institutional choice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHO WAS ADDRESSED? → expected audience; LIMIT → not a social census.",
+      "source_references": [
+        "Representation and social evidence",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MULTILINGUAL FIELD",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MULTILINGUAL FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "LANGUAGE MARKET",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL OFFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "FRESH CERTIFICATION ISSUE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN CINEMA EXCEEDS HINDI CINEMA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LANGUAGE MARKET → production",
+        "REGIONAL OFFICE → administration",
+        "DUBBING → fresh certification issue",
+        "RULE → Indian cinema exceeds Hindi cinema"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LANGUAGE MARKET → production",
+            "REGIONAL OFFICE → administration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DUBBING → fresh certification issue",
+            "RULE → Indian cinema exceeds Hindi cinema"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LANGUAGE MARKET → production",
+            "REGIONAL OFFICE → administration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DUBBING → fresh certification issue; RULE → Indian cinema exceeds Hindi cinema.",
+      "source_references": [
+        "Indian cinema as many language markets",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REGULATORY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REGULATORY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CINEMATOGRAPH ACT",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY FRAME",
+          "role": "comparison"
+        },
+        {
+          "text": "CERTIFICATE AND MODIFICATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC EXHIBITION",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL THRESHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEMENT IN THEIR DOMAINS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CINEMATOGRAPH ACT → statutory frame",
+        "CBFC → certificate and modifications",
+        "PUBLIC EXHIBITION → legal threshold",
+        "STATES → enforcement in their domains"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CINEMATOGRAPH ACT → statutory frame",
+            "CBFC → certificate and modifications"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLIC EXHIBITION → legal threshold",
+            "STATES → enforcement in their domains"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CINEMATOGRAPH ACT → statutory frame",
+            "CBFC → certificate and modifications"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PUBLIC EXHIBITION → legal threshold; STATES → enforcement in their domains.",
+      "source_references": [
+        "Cinematograph Act and CBFC",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTION FUNCTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTION FUNCTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "PRESERVATION LEGACY",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEGRATED DEVELOPMENT AND PROMOTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXHIBITION AND RECOGNITION",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CINEMATOGRAPHY, EDITING AND MISE-EN-SCENE ARE DIFFERENT FILM-FORM TOOLS",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCUMENTARY IS FRAMED NON-FICTION, ANIMATION IS A DISTINCT MOVING-IMAGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FTII → training",
+        "NFAI → preservation legacy",
+        "NFDC → integrated development and promotion",
+        "IFFI / AWARDS → exhibition and recognition",
+        "CLOSE DISTINCTION: Cinematography, editing and mise-en-scene are different film-form tools"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FTII → training",
+            "NFAI → preservation legacy",
+            "NFDC → integrated development and promotion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IFFI / AWARDS → exhibition and recognition",
+            "CLOSE DISTINCTION: Cinematography, editing and mise-en-scene are different film-form tools",
+            "documentary is framed non-fiction, animation is a distinct moving-image method, and first"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "exhibition, first shot film and first indigenous feature are separate claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "documentary is framed non-fiction, animation is a distinct moving-image method, and first exhibition, first shot film and first indigenous feature are separate claims.",
+      "source_references": [
+        "Training, archive and development",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RECOGNITION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RECOGNITION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "EXHIBITION STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "FESTIVAL PROGRAMMING",
+          "role": "comparison"
+        },
+        {
+          "text": "AWARD CONSIDERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "EXACT INSTITUTION, CATEGORY AND YEAR",
+          "role": "institution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "AWARDS AND INSTITUTIONS REQUIRE EXACT CURRENT NAMES, CATEGORIES, DATES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CERTIFICATE → exhibition status",
+        "SELECTION → festival programming",
+        "NOMINATION → award consideration",
+        "WIN → exact institution, category and year",
+        "EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and official status"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CERTIFICATE → exhibition status",
+          "NOMINATION → award consideration",
+          "EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and official status"
+        ],
+        [
+          "SELECTION → festival programming",
+          "WIN → exact institution, category and year",
+          "milestone narratives must not imply equality, documentary neutrality or a single-language national cinema."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CERTIFICATE → exhibition status",
+            "SELECTION → festival programming"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NOMINATION → award consideration",
+            "WIN → exact institution, category and year"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and official status",
+            "milestone narratives must not imply equality, documentary neutrality or a single-language national cinema."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and official status; milestone narratives must not imply equality, documentary neutrality or a single-language national cinema.",
+      "source_references": [
+        "Awards, preservation, Boong and PYQ boundary",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CINEMA ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CINEMA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CAMERA, SOUND AND EDITING",
+          "role": "outcome"
+        },
+        {
+          "text": "DATED FIRSTS",
+          "role": "comparison"
+        },
+        {
+          "text": "FUNCTION AND LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "REPRESENTATION, PRESERVATION AND AWARD LIMITS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FORM → camera, sound and editing",
+        "HISTORY → dated firsts",
+        "INSTITUTION → function and law",
+        "QUALIFY → representation, preservation and award limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORM → camera, sound and editing",
+            "HISTORY → dated firsts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTITUTION → function and law",
+            "QUALIFY → representation, preservation and award limits"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FORM → camera, sound and editing",
+            "HISTORY → dated firsts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTITUTION → function and law; QUALIFY → representation, preservation and award limits.",
+      "source_references": [
+        "Awards, preservation, Boong and PYQ boundary",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\15_Indian-Cinema-Film-Institutions-and-Awards.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g2\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTISTIC FREEDOM VS CERTIFICATION AND AGE CLASSIFICATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL CANON VS LINGUISTIC AND REGIONAL PLURALITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL PRESERVATION INCENTIVES VS FRAGILE ARCHIVAL HERITAGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNATIONAL RECOGNITION VS DEPENDENCE ON EXTERNAL VALIDATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "STREAMING ACCESS VS PLATFORM CONCENTRATION AND DISCOVERABILITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN ART & CULTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "GS PAPER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Artistic freedom vs certification and age classification.",
+            "National canon vs linguistic and regional plurality.",
+            "Commercial preservation incentives vs fragile archival heritage.",
+            "International recognition vs dependence on external validation."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Streaming access vs platform concentration and discoverability.",
+            "Subject: Indian Art & Culture | Tier: Advanced | GS Paper: GS-I.",
+            "Purpose: Cinema as cultural memory, regional representation, soft power and a field of preservation/certification debate.",
+            "Analytical proposition CAUTION: Cinema is simultaneously an art form, an industry, an archive of social memory and a mass medium."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "A strong answer therefore combines form with institutions and avoids treating box-office success as the measure of cultural importance.",
+            "Analytical matrix | Dimension | Question | |---|---| | Form | How do camera, editing, sound and performance create meaning?",
+            "Representation | Whose language, region, gender, caste, tribe or borderland experience becomes visible?",
+            "Political economy | Who finances, distributes and controls access to screens/platforms?"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

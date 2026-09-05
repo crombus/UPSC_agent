@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "medieval-indian-history-07-08-learner-v2-2026-08-30-validation",
+  "validated_on": "2026-08-30T11:25:53.524543+05:30",
+  "selection": "medieval-indian-history-07-08",
+  "topic_count": 2,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 124
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-07",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Medieval-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-07",
+      "main_pdf_pages": 75,
+      "workbook_pdf_pages": 20,
+      "session_count": 25,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 79,
+      "mcq_count": 62,
+      "mcq_key_counts": {
+        "A": 16,
+        "B": 16,
+        "C": 15,
+        "D": 15
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-07\\medieval-indian-history-07_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-07\\medieval-indian-history-07_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-07\\medieval-indian-history-07_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-07\\medieval-indian-history-07_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-07\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 75,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 20,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_validation_passed": true,
+      "visual_audit": {
+        "representative_pages_reviewed": true,
+        "graphical_master_reviewed": true,
+        "embedded_ascii_reviewed": true
+      },
+      "passed": true,
+      "errors": []
+    },
+    {
+      "topic_key": "medieval-indian-history-08",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Medieval-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-08",
+      "main_pdf_pages": 65,
+      "workbook_pdf_pages": 16,
+      "session_count": 21,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 82,
+      "mcq_count": 56,
+      "mcq_key_counts": {
+        "A": 14,
+        "B": 14,
+        "C": 14,
+        "D": 14
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-08\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 16,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_validation_passed": true,
+      "visual_audit": {
+        "representative_pages_reviewed": true,
+        "graphical_master_reviewed": true,
+        "embedded_ascii_reviewed": true
+      },
+      "passed": true,
+      "errors": []
+    }
+  ]
+}

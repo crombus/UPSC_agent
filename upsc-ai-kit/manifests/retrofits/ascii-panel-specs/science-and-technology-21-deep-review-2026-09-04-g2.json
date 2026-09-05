@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-21",
+      "display_title": "General Science: Physics Fundamentals",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Quantity unit and vector decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "QUANTITY -> scalar or vector?",
+            "UNIT -> base or derived SI?",
+            "DIMENSION -> consistency check only",
+            "INSTRUMENT -> calibration + orientation + uncertainty",
+            "LIGHT-YEAR -> distance, never time"
+          ],
+          "source_references": [
+            "SI units and dimensional boundary",
+            "Motion acceleration and measurement",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mechanics cause-and-rate rail",
+          "structural_type": "cause-rate-rail",
+          "ascii_lines": [
+            "NET FORCE -> momentum change",
+            "IMPULSE -> force x time -> change in momentum",
+            "FORCE + DISPLACEMENT -> work",
+            "NET WORK -> kinetic-energy change",
+            "POWER -> work or energy per time"
+          ],
+          "source_references": [
+            "Force momentum impulse and Newton laws",
+            "Work energy and power",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Orbit and free-fall map",
+          "structural_type": "orbit-map",
+          "ascii_lines": [
+            "GRAVITY -> centripetal acceleration",
+            "ORBIT -> continuous free fall",
+            "GEOSTATIONARY -> equatorial + matching rotation period",
+            "POLAR / SUN-SYNCHRONOUS -> near-polar low-orbit family",
+            "ESCAPE VELOCITY -> central body's mass and radius"
+          ],
+          "source_references": [
+            "Gravitation circular motion and orbits",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fluid-principle selection matrix",
+          "structural_type": "selection-matrix",
+          "ascii_lines": [
+            "PASCAL -> confined-fluid pressure transmission",
+            "ARCHIMEDES -> displaced-fluid weight and upthrust",
+            "BERNOULLI -> pressure-flow relation under assumptions",
+            "PRESSURE COOKER -> pressure up, boiling temperature up",
+            "ALTITUDE -> pressure down, boiling temperature down"
+          ],
+          "source_references": [
+            "Pressure buoyancy and fluid principles",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Thermal state and transfer ladder",
+          "structural_type": "thermal-ladder",
+          "ascii_lines": [
+            "TEMPERATURE -> thermal state",
+            "HEAT -> transfer due to temperature difference",
+            "SPECIFIC HEAT -> temperature-change requirement",
+            "LATENT HEAT -> phase change without temperature change",
+            "CONDUCTION | CONVECTION | RADIATION -> distinct routes"
+          ],
+          "source_references": [
+            "Heat temperature specific and latent heat",
+            "Thermodynamics and heat transfer",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Wave sound and spectrum bands",
+          "structural_type": "banded-spectrum",
+          "ascii_lines": [
+            "WAVE -> speed = frequency x wavelength",
+            "SOUND -> medium required",
+            "INFRASOUND | AUDIBLE | ULTRASOUND -> frequency classes",
+            "RADIO -> MICROWAVE -> IR -> VISIBLE -> UV -> X-RAY -> GAMMA",
+            "RADAR / VLC -> different electromagnetic bands"
+          ],
+          "source_references": [
+            "Wave relation and sound",
+            "Electromagnetic spectrum and communication boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mirror lens and fibre ray logic",
+          "structural_type": "ray-logic",
+          "ascii_lines": [
+            "MIRROR -> reflection",
+            "LENS -> refraction",
+            "CONVEX LENS -> converging",
+            "CONCAVE LENS -> diverging",
+            "DENSER TO RARER + CRITICAL ANGLE -> total internal reflection"
+          ],
+          "source_references": [
+            "Reflection mirrors and image logic",
+            "Refraction total internal reflection and lenses",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Circuit topology and safety board",
+          "structural_type": "circuit-board",
+          "ascii_lines": [
+            "VOLTAGE -> work per charge",
+            "CURRENT -> charge per time",
+            "RESISTANCE -> opposition to current",
+            "SERIES -> common current | PARALLEL -> common voltage",
+            "FUSE / MCB -> overload | EARTHING -> shock protection"
+          ],
+          "source_references": [
+            "Current voltage resistance and Ohm boundary",
+            "Circuits electrical power and safety",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Electromagnetic conversion loop",
+          "structural_type": "conversion-loop",
+          "ascii_lines": [
+            "CHANGING FLUX -> induced emf",
+            "GENERATOR -> mechanical to electrical",
+            "TRANSFORMER -> AC voltage conversion",
+            "MOTOR -> electrical to mechanical",
+            "STEADY DC -> no ordinary transformer action"
+          ],
+          "source_references": [
+            "Magnetism induction motors generators and transformers",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Quantum and nuclear split panel",
+          "structural_type": "split-panel",
+          "ascii_lines": [
+            "PHOTOELECTRIC -> threshold frequency",
+            "BOSE-EINSTEIN -> integer-spin bosons may share state",
+            "ALPHA | BETA | GAMMA -> different matter/radiation classes",
+            "HALF-LIFE -> nuclear decay clock",
+            "FISSION != FUSION",
+            "MUST REMEMBER: Physics fundamentals require quantities, SI units, dimensions, frames and..."
+          ],
+          "source_references": [
+            "Atomic quantum photoelectric and Bose boundary",
+            "Nuclear radioactivity fission and fusion",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-21_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Relativity observation evidence chain",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "RELATIVITY -> spacetime prediction",
+            "GRAVITATIONAL WAVE -> instrument signal",
+            "ANALYSIS -> source inference",
+            "CEPHEID | NEBULA | PULSAR -> distinct astronomy labels",
+            "OBSERVATION -> bounded claim, not omniscience",
+            "CLOSE DISTINCTION: Scalar is not vector, speed is not velocity, mass is not weight,..."
+          ],
+          "source_references": [
+            "Relativity gravitational waves and astronomy",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-21_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Device to verified-status staircase",
+          "structural_type": "status-staircase",
+          "ascii_lines": [
+            "MATERIAL -> DOPING -> JUNCTION -> DEVICE",
+            "LED | LASER | RADAR | VLC -> mechanism-specific use",
+            "STANDARD / SCHEME -> enabling instrument",
+            "TEST / SCHEDULE -> not operation",
+            "CALIBRATED OUTPUT -> not automatically verified public outcome",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Write the governing relation, define..."
+          ],
+          "source_references": [
+            "Semiconductors LEDs lasers radar and VLC",
+            "Metrology recorder and status firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\g2\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-21_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

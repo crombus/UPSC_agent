@@ -1,0 +1,704 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-23-27-sequential-batch-2026-08-24",
+  "validated_at": "2026-08-24T20:18:34+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-23",
+      "polity-24",
+      "polity-25",
+      "polity-26",
+      "polity-27"
+    ],
+    "topic_count": 5,
+    "timestamps_monotonic": true,
+    "all_gate_timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-23",
+        "started_at": "2026-08-24T19:34:57+05:30",
+        "completed_at": "2026-08-24T19:38:16.027831+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-24",
+        "started_at": "2026-08-24T19:38:18+05:30",
+        "completed_at": "2026-08-24T19:41:28.687410+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-25",
+        "started_at": "2026-08-24T19:47:42+05:30",
+        "completed_at": "2026-08-24T19:51:17.395915+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-26",
+        "started_at": "2026-08-24T19:51:20+05:30",
+        "completed_at": "2026-08-24T19:54:52.555765+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-27",
+        "started_at": "2026-08-24T19:58:36+05:30",
+        "completed_at": "2026-08-24T20:01:42+05:30",
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 60,
+    "new_topic_records": [
+      "polity-23:learner-v2:g2",
+      "polity-24:learner-v2:g2",
+      "polity-25:learner-v2:g2",
+      "polity-26:learner-v2:g2",
+      "polity-27:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true,
+    "tracker_path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-23",
+        "title": "Panchayati Raj",
+        "started_at": "2026-08-24T19:34:57+05:30",
+        "completed_at": "2026-08-24T19:38:16.027831+05:30",
+        "record_id": "polity-23:learner-v2:g2",
+        "counts": {
+          "sessions": 41,
+          "main_pdf_pages": 82,
+          "workbook_pdf_pages": 13,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 2,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\23-Panchayati-Raj",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-23-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-23-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-23-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-23-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-23.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\polity-23_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\polity-23_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\polity-23_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\polity-23_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g2"
+        },
+        "factual_caveat": "Part IX constitutionalises institutions, elections and inclusion but leaves substantive devolution mainly to State law. PESA applies to Fifth Schedule Scheduled Areas with statutory modifications; digital uploads do not prove Gram Sabha power or actual three-F devolution.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T19:34:57+05:30",
+          "A_completed": "2026-08-24T19:35:29+05:30",
+          "B_completed": "2026-08-24T19:35:32+05:30",
+          "C_completed": "2026-08-24T19:35:32+05:30",
+          "D_completed": "2026-08-24T19:35:32+05:30",
+          "E_completed": "2026-08-24T19:35:32+05:30",
+          "F_completed": "2026-08-24T19:36:06+05:30",
+          "G_completed": "2026-08-24T19:36:06+05:30",
+          "H_completed": "2026-08-24T19:38:03+05:30",
+          "I_completed": "2026-08-24T19:38:16.027831+05:30",
+          "J_completed": "2026-08-24T19:38:16.027831+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 36,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\23-Panchayati-Raj",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-23-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 82,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 13,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 4,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\23-Panchayati-Raj\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\23-Panchayati-Raj\\23-Panchayati-Raj-Continuous-Flow-Learning.pdf",
+            "source_sha256": "1550130fcf42a9de4def9bf5a06d456eabc4303bd2866156437048e94aa2f29e",
+            "destination_sha256": "1550130fcf42a9de4def9bf5a06d456eabc4303bd2866156437048e94aa2f29e",
+            "equal": true,
+            "bytes": 55880
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\23-Panchayati-Raj\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\23-Panchayati-Raj\\23-Panchayati-Raj-Continuous-Flow-Learning.txt",
+            "source_sha256": "d770129f394c252bcda7df63955ce92a2c3f7b8e3615926d493fde7143bcb0a5",
+            "destination_sha256": "d770129f394c252bcda7df63955ce92a2c3f7b8e3615926d493fde7143bcb0a5",
+            "equal": true,
+            "bytes": 6694
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        }
+      },
+      {
+        "topic_key": "polity-24",
+        "title": "Municipalities",
+        "started_at": "2026-08-24T19:38:18+05:30",
+        "completed_at": "2026-08-24T19:41:28.687410+05:30",
+        "record_id": "polity-24:learner-v2:g2",
+        "counts": {
+          "sessions": 48,
+          "main_pdf_pages": 98,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 2,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\24-Municipalities",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-24-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-24-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-24-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-24-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-24.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\polity-24_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\polity-24_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\polity-24_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\polity-24_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g2"
+        },
+        "factual_caveat": "Part IXA secures municipal form more strongly than functional autonomy. Mayor-commissioner arrangements, parastatals, bond eligibility and tax design vary by State law and city; mission or digital status is not proof of constitutional devolution.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T19:38:18+05:30",
+          "A_completed": "2026-08-24T19:38:42+05:30",
+          "B_completed": "2026-08-24T19:38:45+05:30",
+          "C_completed": "2026-08-24T19:38:45+05:30",
+          "D_completed": "2026-08-24T19:38:45+05:30",
+          "E_completed": "2026-08-24T19:38:45+05:30",
+          "F_completed": "2026-08-24T19:39:21+05:30",
+          "G_completed": "2026-08-24T19:39:21+05:30",
+          "H_completed": "2026-08-24T19:41:16+05:30",
+          "I_completed": "2026-08-24T19:41:28.687410+05:30",
+          "J_completed": "2026-08-24T19:41:28.687410+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 4,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\24-Municipalities",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-24-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 98,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 4,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\24-Municipalities\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\24-Municipalities\\24-Municipalities-Continuous-Flow-Learning.pdf",
+            "source_sha256": "10bef39b53b4da872b887e889b8d078df35300c105a86ff4eccfd081590bec6d",
+            "destination_sha256": "10bef39b53b4da872b887e889b8d078df35300c105a86ff4eccfd081590bec6d",
+            "equal": true,
+            "bytes": 55846
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\24-Municipalities\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\24-Municipalities\\24-Municipalities-Continuous-Flow-Learning.txt",
+            "source_sha256": "c536211728112fe0119aee37b8ae983d793630a33a09ac99ba53af4a0d6ad1d4",
+            "destination_sha256": "c536211728112fe0119aee37b8ae983d793630a33a09ac99ba53af4a0d6ad1d4",
+            "equal": true,
+            "bytes": 6683
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        }
+      },
+      {
+        "topic_key": "polity-25",
+        "title": "Union Territories",
+        "started_at": "2026-08-24T19:47:42+05:30",
+        "completed_at": "2026-08-24T19:51:17.395915+05:30",
+        "record_id": "polity-25:learner-v2:g2",
+        "counts": {
+          "sessions": 44,
+          "main_pdf_pages": 93,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\25-Union-Territories",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-25-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-25-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-25-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-25-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-25.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-25\\carvaka-g2"
+        },
+        "factual_caveat": "The GNCTD Amendment Act, 2023 is treated as operative unless displaced by a later binding judgment. Jammu and Kashmir remains a Union Territory with legislature and Ladakh one without; Statehood and new special-status demands are not presented as enacted law.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T19:47:42+05:30",
+          "A_completed": "2026-08-24T19:48:27+05:30",
+          "B_completed": "2026-08-24T19:48:30+05:30",
+          "C_completed": "2026-08-24T19:48:30+05:30",
+          "D_completed": "2026-08-24T19:48:30+05:30",
+          "E_completed": "2026-08-24T19:48:30+05:30",
+          "F_completed": "2026-08-24T19:49:05+05:30",
+          "G_completed": "2026-08-24T19:49:05+05:30",
+          "H_completed": "2026-08-24T19:51:03+05:30",
+          "I_completed": "2026-08-24T19:51:17.395915+05:30",
+          "J_completed": "2026-08-24T19:51:17.395915+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\25-Union-Territories",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-25-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 93,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-25\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-25\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 4,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\25-Union-Territories\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\25-Union-Territories\\25-Union-Territories-Continuous-Flow-Learning.pdf",
+            "source_sha256": "3a109ecc4b66ff9a01086fd69101d803a1937baa550c75f88dee383718aea5cf",
+            "destination_sha256": "3a109ecc4b66ff9a01086fd69101d803a1937baa550c75f88dee383718aea5cf",
+            "equal": true,
+            "bytes": 55918
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\25-Union-Territories\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\25-Union-Territories\\25-Union-Territories-Continuous-Flow-Learning.txt",
+            "source_sha256": "0e929e5bb83b88412b3e069a3ad08c3b0a3c5fd880388321a232bdb4d311f335",
+            "destination_sha256": "0e929e5bb83b88412b3e069a3ad08c3b0a3c5fd880388321a232bdb4d311f335",
+            "equal": true,
+            "bytes": 6821
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        }
+      },
+      {
+        "topic_key": "polity-26",
+        "title": "Scheduled and Tribal Areas",
+        "started_at": "2026-08-24T19:51:20+05:30",
+        "completed_at": "2026-08-24T19:54:52.555765+05:30",
+        "record_id": "polity-26:learner-v2:g2",
+        "counts": {
+          "sessions": 56,
+          "main_pdf_pages": 109,
+          "workbook_pdf_pages": 16,
+          "mcqs": 48,
+          "verified_pyqs": 6,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\26-Scheduled-and-Tribal-Areas",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-26-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-26-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-26-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-26-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-26.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\polity-26_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\polity-26_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\polity-26_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\polity-26_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-26\\carvaka-g2"
+        },
+        "factual_caveat": "Ladakh or other extension demands, negotiating positions and accords are not constitutional amendments or Sixth Schedule inclusion by themselves. PESA consultation, recommendation and approval verbs must not be converted into one universal veto.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-24T19:51:20+05:30",
+          "A_completed": "2026-08-24T19:52:09+05:30",
+          "B_completed": "2026-08-24T19:52:11+05:30",
+          "C_completed": "2026-08-24T19:52:11+05:30",
+          "D_completed": "2026-08-24T19:52:11+05:30",
+          "E_completed": "2026-08-24T19:52:11+05:30",
+          "F_completed": "2026-08-24T19:52:45+05:30",
+          "G_completed": "2026-08-24T19:52:45+05:30",
+          "H_completed": "2026-08-24T19:54:39+05:30",
+          "I_completed": "2026-08-24T19:54:52.555765+05:30",
+          "J_completed": "2026-08-24T19:54:52.555765+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 7,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\26-Scheduled-and-Tribal-Areas",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-26-flow-learning-2026-08-24-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 109,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 16,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-26\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-26\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 2,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\26-Scheduled-and-Tribal-Areas\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\26-Scheduled-and-Tribal-Areas\\26-Scheduled-and-Tribal-Areas-Continuous-Flow-Learning.pdf",
+            "source_sha256": "d1e1faa75d8460670da992bee1f76fce75dbb4fa53519a07d47365761f8752d0",
+            "destination_sha256": "d1e1faa75d8460670da992bee1f76fce75dbb4fa53519a07d47365761f8752d0",
+            "equal": true,
+            "bytes": 56357
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\26-Scheduled-and-Tribal-Areas\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\26-Scheduled-and-Tribal-Areas\\26-Scheduled-and-Tribal-Areas-Continuous-Flow-Learning.txt",
+            "source_sha256": "656a1bc374c47db69055977595268c6b7a770d44c4a8cffeecce4ee7b6bd04fa",
+            "destination_sha256": "656a1bc374c47db69055977595268c6b7a770d44c4a8cffeecce4ee7b6bd04fa",
+            "equal": true,
+            "bytes": 7427
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        }
+      },
+      {
+        "topic_key": "polity-27",
+        "title": "Election Commission",
+        "started_at": "2026-08-24T19:58:36+05:30",
+        "completed_at": "2026-08-24T20:01:42+05:30",
+        "gate_times": {
+          "A_started": "2026-08-24T19:58:36+05:30",
+          "A_completed": "2026-08-24T19:58:40+05:30",
+          "B_completed": "2026-08-24T19:58:42+05:30",
+          "C_completed": "2026-08-24T19:58:42+05:30",
+          "D_completed": "2026-08-24T19:58:42+05:30",
+          "E_completed": "2026-08-24T19:58:42+05:30",
+          "F_completed": "2026-08-24T20:01:23+05:30",
+          "G_completed": "2026-08-24T20:01:24+05:30",
+          "H_completed": "2026-08-24T20:01:29+05:30",
+          "I_completed": "2026-08-24T20:01:40+05:30",
+          "J_completed": "2026-08-24T20:01:42+05:30"
+        },
+        "record_id": "polity-27:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 61,
+          "main_pdf_pages": 124,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 3,
+          "supporting_pyqs": 6,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 9,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\27-Election-Commission",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\27-Election-Commission",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-27-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-27-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-27-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-27-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-27.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-27-flow-learning-2026-08-24-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-27\\carvaka-g2"
+        },
+        "factual_caveat": "The 2023 appointment Act operates; the pending challenge is not described as finally upheld or struck down. ECI does not conduct local-body elections, does not replace the Delimitation Commission and cannot regulate every internal party matter without legal authority.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 124,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-27\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-27\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\27-Election-Commission\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\27-Election-Commission\\27-Election-Commission-Continuous-Flow-Learning.pdf",
+            "source_sha256": "1f8e7a9fc614f4ea52ffe414a45b99cbecb9000e24a75222e2699f4f5e81745a",
+            "destination_sha256": "1f8e7a9fc614f4ea52ffe414a45b99cbecb9000e24a75222e2699f4f5e81745a",
+            "equal": true,
+            "bytes": 56278
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\27-Election-Commission\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\27-Election-Commission\\27-Election-Commission-Continuous-Flow-Learning.txt",
+            "source_sha256": "86a7e8159d788e9a1c9cc3602f7e8c1e23dc46c7df423fd39eefe70b93df59ef",
+            "destination_sha256": "86a7e8159d788e9a1c9cc3602f7e8c1e23dc46c7df423fd39eefe70b93df59ef",
+            "equal": true,
+            "bytes": 7127
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        }
+      }
+    ],
+    "totals": {
+      "sessions": 250,
+      "main_pdf_pages": 506,
+      "workbook_pdf_pages": 77,
+      "mcqs": 240,
+      "verified_pyqs": 15,
+      "supporting_pyqs": 10,
+      "original_mains": 40,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45,
+      "flow_pages": 45
+    }
+  },
+  "inventories": {
+    "four_item_topics": 60,
+    "four_item_links_checked": 728,
+    "polity_flow_topics": 27,
+    "polity_flow_links_checked": 553,
+    "full_flow_topics": 60,
+    "full_flow_links_checked": 553,
+    "full_flow_topic_artifact_files_checked": 180,
+    "full_flow_pages": 525
+  },
+  "preservation": {
+    "prior_clean_artifact_files": 440,
+    "prior_flow_artifact_files": 165,
+    "clean_hash_mismatches": [],
+    "flow_hash_mismatches": [],
+    "prior_generated_hash_mismatches": []
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_v2_topic_command_catalog tools.test_v2_section_indexes tools.test_v2_export_foundation tools.test_retrofit_v2_core_first tools.test_refresh_all_v2_learning_sessions tools.test_polity_flowchart_case_years tools.test_plan_v2_topic_batch tools.test_export_four_item_library tools.test_export_flow_learning_library tools.test_carvaka_flowchart -q",
+    "passed": 127,
+    "failed": 0
+  },
+  "checks": {
+    "strict_sequence": true,
+    "all_gate_timestamps_monotonic": true,
+    "all_gates_passed": true,
+    "source_pyq_current_audits_passed": true,
+    "tracker_records_unapproved": true,
+    "legacy_history_retained": true,
+    "pdf_layouts_passed": true,
+    "ascii_equal": true,
+    "graphical_same_master": true,
+    "case_years_passed": true,
+    "mcq_rotation_passed": true,
+    "prior_55_clean_hashes_preserved": true,
+    "prior_55_flow_hashes_preserved": true,
+    "prior_generated_topics_preserved": true,
+    "four_item_inventory_60": true,
+    "polity_flow_inventory_27": true,
+    "full_flow_inventory_60": true,
+    "four_item_links_passed": true,
+    "polity_flow_links_passed": true,
+    "full_flow_links_passed": true,
+    "targeted_regressions_passed": true
+  },
+  "evidence_paths": {
+    "state": "upsc-ai-kit\\manifests\\exports\\polity-23-27-sequential-batch-2026-08-24-state.json",
+    "case_year": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-repair-2026-08-24-validation.json",
+    "four_item": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json",
+    "polity_flow": "upsc-ai-kit\\manifests\\exports\\polity-01-27-flow-learning-2026-08-24-validation.json",
+    "full_flow": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-24-validation.json",
+    "report": "notes\\Final-Learning-Packages\\POLITY-23-27-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-23-27-sequential-batch-2026-08-24-changed-files.txt",
+    "changed_files_count": 483
+  }
+}

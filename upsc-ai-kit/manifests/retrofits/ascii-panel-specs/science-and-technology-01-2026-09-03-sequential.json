@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-01",
+      "display_title": "Space Programme: ISRO, Organisation and Launch Vehicles",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-01_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Institutional command map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DEPARTMENT OF SPACE -> policy umbrella and sovereign direction",
+            "ISRO -> public R&D, launch vehicles, spacecraft and missions",
+            "IN-SPACe -> promote, authorise and supervise non-government activity",
+            "NSIL -> commercial contracts, services and technology transfer",
+            "RULE -> institution names are not interchangeable"
+          ],
+          "source_references": [
+            "DoS-ISRO boundary",
+            "IN-SPACe boundary",
+            "NSIL boundary"
+          ]
+        },
+        {
+          "title": "Centre-to-launch chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "VSSC -> launch-vehicle design and development",
+            "LPSC / IPRC -> liquid propulsion and propulsion testing roles",
+            "SDSC-SHAR -> integration, range and launch operations",
+            "MISSION CONTROL -> flight monitoring and decision chain",
+            "RULE -> a centre function is not the whole ISRO mandate"
+          ],
+          "source_references": [
+            "Centre-function boundary"
+          ]
+        },
+        {
+          "title": "Policy and law stack",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "OUTER-SPACE TREATIES -> international State obligations",
+            "INDIAN SPACE POLICY 2023 -> executive role allocation",
+            "IN-SPACe NORMS -> authorisation and supervision interface",
+            "COMMERCIAL CONTRACT -> service and risk allocation",
+            "GAP -> policy is not a comprehensive domestic space statute"
+          ],
+          "source_references": [
+            "Policy-law boundary"
+          ]
+        },
+        {
+          "title": "Launcher-payload separation",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LAUNCH VEHICLE -> supplies ascent energy and guidance",
+            "PAYLOAD FAIRING -> protects the mission payload",
+            "SEPARATION -> launcher task and spacecraft task diverge",
+            "SPACECRAFT -> carries payload and may raise or maintain orbit",
+            "RULE -> rocket success and spacecraft service entry are separate"
+          ],
+          "source_references": [
+            "Launcher-spacecraft boundary"
+          ]
+        },
+        {
+          "title": "Orbit vocabulary matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEO -> altitude class, often used by crew and Earth observation",
+            "POLAR -> high-inclination ground-track geometry",
+            "SUN-SYNCHRONOUS -> repeated local-solar-time crossing",
+            "GSO -> orbital period tied to Earth's rotation",
+            "GEO -> circular equatorial geosynchronous special case"
+          ],
+          "source_references": [
+            "Orbit-family boundary"
+          ]
+        },
+        {
+          "title": "GTO-to-GEO rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LAUNCHER ASCENT -> reaches transfer conditions",
+            "GTO INJECTION -> elliptical intermediate orbit",
+            "SPACECRAFT PROPULSION -> raises perigee and circularises",
+            "GEO SLOT -> circular equatorial final service orbit",
+            "TRAP -> GTO delivery is not direct GEO placement"
+          ],
+          "source_references": [
+            "GTO-GEO boundary"
+          ]
+        },
+        {
+          "title": "Operational launcher matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PSLV -> versatile workhorse and mixed mission profiles",
+            "GSLV -> cryogenic upper stage and transfer-orbit role",
+            "LVM3 -> heavier operational class and human-rating base",
+            "SSLV -> separate small-satellite launch architecture",
+            "RULE -> role, propulsion, orbit and status must travel together"
+          ],
+          "source_references": [
+            "PSLV role",
+            "GSLV role",
+            "LVM3 role",
+            "SSLV role"
+          ]
+        },
+        {
+          "title": "Lineage and status ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SLV-3 -> experimental orbital-access learning",
+            "ASLV -> intermediate technology-learning step",
+            "PSLV / GSLV / LVM3 -> operational families in owner",
+            "SSLV -> developed small-launch family with dated status needed",
+            "NGLV -> approved future development, not an operational launcher"
+          ],
+          "source_references": [
+            "Lineage-status boundary",
+            "NGLV status boundary"
+          ]
+        },
+        {
+          "title": "Propulsion comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SOLID -> stored propellant and limited throttle control",
+            "EARTH-STORABLE LIQUID -> ambient-temperature liquid pair",
+            "CRYOGENIC -> liquid oxygen plus liquid hydrogen",
+            "SEMI-CRYOGENIC -> liquid oxygen plus kerosene",
+            "RULE -> propellant class does not prove flight status"
+          ],
+          "source_references": [
+            "Propulsion-class boundary"
+          ]
+        },
+        {
+          "title": "Human-rating gate",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RELIABLE LAUNCHER -> necessary but insufficient base",
+            "MARGINS AND REDUNDANCY -> tolerate selected failures",
+            "HEALTH MONITORING -> detect unsafe conditions",
+            "ABORT CAPABILITY -> protect crew across ascent phases",
+            "CERTIFICATION -> separate human-rated configuration"
+          ],
+          "source_references": [
+            "Human-rating boundary"
+          ]
+        },
+        {
+          "title": "Access-to-space system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "VEHICLE -> propulsion, structure, avionics and guidance",
+            "FACTORY -> repeatable stage and subsystem quality",
+            "PAD / RANGE -> integration, safety and launch window",
+            "MISSION ASSURANCE -> verification and anomaly closure",
+            "OUTPUT -> cadence and customer confidence"
+          ],
+          "source_references": [
+            "Launch-system boundary",
+            "Infrastructure-status boundary"
+          ]
+        },
+        {
+          "title": "Future-claim firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> institution, vehicle, spacecraft, orbit and service",
+            "CLASSIFY -> retired, operational, approved or under construction",
+            "TRACE -> propulsion, infrastructure, integration and assurance",
+            "SEPARATE -> technology transfer from authorisation and safety",
+            "VERIFY -> dated official capacity, schedule and outcome source"
+          ],
+          "source_references": [
+            "Technology-transfer boundary",
+            "Volatile launch-data boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

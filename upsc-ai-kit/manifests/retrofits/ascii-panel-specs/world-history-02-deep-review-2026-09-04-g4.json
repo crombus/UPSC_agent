@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-02",
+      "display_title": "American Revolution",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Imperial grievance system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "1763 WAR DEBT -> tighter British taxation and regulation",
+            "MERCANTILISM -> shipping, market and manufacturing constraints",
+            "WESTWARD LIMITS -> land grievance plus Native dispossession",
+            "ASSEMBLIES -> existing institutions convert grievance into resistance",
+            "MUST REMEMBER: The core sequence is post-1763 imperial tightening, Stamp Act (1765), Boston",
+            "  Tea Party (1773), Lexington-Concord (1775), Declaration (1776), Saratoga (1777), Yorktown",
+            "  (1781), Paris (1783), Constitution in force (1789) and Bill of Rights (1791).",
+            "MUST REMEMBER: The core sequence is post-1763 imperial tightening, Stamp Act (1765), Boston",
+            "  Tea Party (1773), Lexington-Concord (1775), Declaration (1776), Saratoga (1777), Yorktown",
+            "  (1781), Paris (1783), Constitution in force (1789) and Bill of Rights (1791).",
+            "MUST REMEMBER: The core sequence is post-1763 imperial tightening, Stamp Act (1765), Boston",
+            "  Tea Party (1773), Lexington-Concord (1775), Declaration (1776), Saratoga (1777), Yorktown",
+            "  (1781), Paris (1783), Constitution in force (1789) and Bill of Rights (1791)."
+          ],
+          "source_references": [
+            "Post-1763 imperial reordering",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Constitutional taxation dispute",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "BRITISH CLAIM -> Parliament may tax the colonies",
+            "COLONIAL CLAIM -> assemblies represent colonial taxpayers",
+            "STAMP ACT 1765 -> principle becomes explicit",
+            "OUTCOME -> fiscal protest becomes a sovereignty dispute"
+          ],
+          "source_references": [
+            "Taxation without representation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Protest becomes common action",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1773 -> Boston Tea Party",
+            "1774 -> First Continental Congress, Philadelphia",
+            "1775 -> Lexington and Concord",
+            "1776 -> Declaration turns resistance into independence"
+          ],
+          "source_references": [
+            "Boston resistance and inter-colonial coordination",
+            "From Lexington to independence",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Three actors, three functions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "JEFFERSON -> drafts the Declaration",
+            "PAINE -> Common Sense supplies popular ideological force",
+            "WASHINGTON -> commands American armies",
+            "RULE -> do not exchange authorship, argument and command"
+          ],
+          "source_references": [
+            "Jefferson, Paine and Washington",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "War internationalises",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "SARATOGA 1777 -> colonial survival becomes credible",
+            "FRENCH ALLIANCE 1778 -> money, arms, fleet and wider war",
+            "BRITAIN -> faces pressure beyond North America",
+            "YORKTOWN 1781 -> decisive military turning point"
+          ],
+          "source_references": [
+            "Saratoga and internationalisation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Victory, recognition, constitution",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "YORKTOWN 1781 -> military decision",
+            "TREATY OF PARIS 1783 -> legal recognition",
+            "CONSTITUTION 1789 -> durable federal state form",
+            "BILL OF RIGHTS -> liberties entrenched against government"
+          ],
+          "source_references": [
+            "Yorktown and the Paris settlement",
+            "Written federal constitutionalism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Declaration versus Constitution",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DECLARATION 1776 -> why independence is legitimate",
+            "ARTICLES PHASE 1781 -> states cooperate under weak union",
+            "CONSTITUTION 1789 -> how federal power is organised",
+            "BILL OF RIGHTS -> what government is forbidden to violate"
+          ],
+          "source_references": [
+            "The Articles-era problem",
+            "Written federal constitutionalism",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Political revolution ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EMPIRE -> rejected",
+            "MONARCHY -> replaced by federal republic",
+            "WRITTEN CONSTITUTION -> state powers placed in a text",
+            "RIGHTS -> become standards of legitimate government"
+          ],
+          "source_references": [
+            "What was genuinely revolutionary",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Social limits ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SLAVERY -> survives",
+            "FRANCHISE -> property and status restrictions remain",
+            "WOMEN -> no equivalent political citizenship",
+            "NATIVE PEOPLES -> expansion intensifies dispossession"
+          ],
+          "source_references": [
+            "Rights and exclusions",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "World-historical export",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ANTI-IMPERIAL CLAIM -> rebellion justified through rights",
+            "REPUBLIC -> survives war and diplomatic recognition",
+            "WRITTEN CONSTITUTION -> becomes an exportable state model",
+            "INFLUENCE -> France, Europe and Latin America observe the precedent",
+            "CLOSE DISTINCTION: Saratoga internationalised the war, Yorktown was the decisive surrender and",
+            "  the Treaty of Paris supplied legal recognition; these are related but not interchangeable",
+            "  turning points.",
+            "CLOSE DISTINCTION: Saratoga internationalised the war, Yorktown was the decisive surrender and",
+            "  the Treaty of Paris supplied legal recognition; these are related but not interchangeable",
+            "  turning points.",
+            "CLOSE DISTINCTION: Saratoga internationalised the war, Yorktown was the decisive surrender and",
+            "  the Treaty of Paris supplied legal recognition; these are related but not interchangeable",
+            "  turning points."
+          ],
+          "source_references": [
+            "The international republican precedent",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "America versus France",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AMERICA -> breaks external imperial authority",
+            "FRANCE -> attacks internal privilege and feudal order",
+            "AMERICA -> constitutional stability",
+            "FRANCE -> deeper social rupture and radicalisation",
+            "EVIDENCE LIMIT: The Revolution transformed sovereignty and constitutional form while",
+            "  preserving slavery, Native dispossession, property restrictions and women's exclusion, so",
+            "  political radicalism must be qualified socially.",
+            "EVIDENCE LIMIT: The Revolution transformed sovereignty and constitutional form while",
+            "  preserving slavery, Native dispossession, property restrictions and women's exclusion, so",
+            "  political radicalism must be qualified socially.",
+            "EVIDENCE LIMIT: The Revolution transformed sovereignty and constitutional form while",
+            "  preserving slavery, Native dispossession, property restrictions and women's exclusion, so",
+            "  political radicalism must be qualified socially."
+          ],
+          "source_references": [
+            "America and France compared",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Qualified American verdict",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CAUSE -> empire, taxation, assemblies, rights",
+            "COURSE -> protest, war, alliance, treaty",
+            "CREATION -> written federal republic",
+            "QUALIFICATION -> slavery and exclusion survive"
+          ],
+          "source_references": [
+            "Integrated verdict: radical and conservative",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g2\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g3\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-02\\g4\\world-history-02_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

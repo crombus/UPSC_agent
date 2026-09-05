@@ -1,0 +1,822 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-03",
+  "variant": "learner-v2",
+  "generation": 5,
+  "approval": false,
+  "official_syllabus_verbatim": "Empiricism (Locke, Berkeley, Hume) : Theory of Knowledge; Substance and Qualities; Self and God; Scepticism.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g2\\topic-03_Complete-Learning-Session_2026-08-26.md",
+  "core_sessions": [
+    {
+      "title": "Empiricist Project: Experience and the Locke-Berkeley-Hume Pressure Sequence",
+      "plain": "Empiricism begins from experience, but Locke, Berkeley and Hume disagree about what can survive once every idea must be traced to experiential content.",
+      "technical": "British empiricism explains cognitive content through experience and develops as a connected pressure sequence: Locke's representative realism retains external substance, Berkeley's immaterialism rejects material substance, and Hume's sceptical naturalism questions substance, self and necessary causation.",
+      "answer": "Empiricism is not three disconnected biographies but a progressive test of what an experience-only foundation can justify: Locke retains represented matter, Berkeley replaces matter with ideas and spirits, and Hume limits reason to perceptions, custom and mitigated belief.",
+      "keywords": [
+        "experience",
+        "representative realism",
+        "immaterialism",
+        "sceptical naturalism",
+        "Locke-Berkeley-Hume sequence",
+        "limits of justification"
+      ],
+      "usage": "Open with experience and representative realism; move through immaterialism to sceptical naturalism; then show how the Locke-Berkeley-Hume sequence tests successive limits of justification.",
+      "mechanism": "Each thinker applies experiential scrutiny to a claim preserved by the previous system: material support, active spirit, continuing self or necessary connection.",
+      "consequence": "The sequence moves from moderate realism through idealism to mitigated scepticism without becoming a simple story of philosophical decline.",
+      "trap": "Do not say Berkeley destroys experienced reality or Hume denies perceptions, the external world and causal practice outright.",
+      "objection": "The sequence may look like a self-refutation in which experience destroys the stable world, subject and causation needed to describe experience.",
+      "reply": "The empiricists can answer that the project distinguishes what is experientially warranted from what custom, language or metaphysics adds.",
+      "limit": "The reply explains epistemic discipline but does not by itself recover objective necessity or a persisting subject.",
+      "exam": "For comparative questions, use the pressure sequence and matched axes rather than three parallel summaries.",
+      "revision": [
+        "Shared rule: trace cognitive content to sensation, reflection or impression.",
+        "Locke represents matter; Berkeley identifies sensible objects with ideas; Hume analyses belief.",
+        "The endpoint is mitigated scepticism and natural belief, not universal suspension."
+      ],
+      "visuals": [
+        {
+          "title": "Empiricist source-of-ideas and pressure pipeline",
+          "caption": "The shared experiential rule generates increasingly radical tests of substance, self and causation.",
+          "lines": [
+            "EXPERIENCE",
+            "   |",
+            "   +--> LOCKE: sensation + reflection -> ideas -> represented external world",
+            "   |             pressure: how can an idea resemble unknown matter?",
+            "   v",
+            "BERKELEY: ideas + active spirits; no material substratum",
+            "   |             pressure: what impression supports self or causal power?",
+            "   v",
+            "HUME: impressions + ideas -> custom / natural belief -> mitigated scepticism"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Locke I: Innate Ideas, Sensation, Reflection and the Construction of Knowledge",
+      "plain": "Locke rejects supplied mental content and treats the mind as receiving simple materials from outer and inner experience before actively combining them.",
+      "technical": "Sensation supplies ideas from external objects; reflection supplies ideas of mental operations. Simple ideas are passively received, while complex ideas are formed through combination, comparison and abstraction as modes, substances and relations.",
+      "answer": "Locke's empiricism is constructive rather than merely receptive: sensation and reflection provide simple ideas, while the understanding actively combines, compares and abstracts them into the complex materials of knowledge.",
+      "keywords": [
+        "innate ideas",
+        "tabula rasa",
+        "sensation",
+        "reflection",
+        "simple idea",
+        "complex idea",
+        "modes, substances and relations"
+      ],
+      "usage": "Refute innate ideas, introduce tabula rasa, trace sensation and reflection into simple ideas, and show how combination forms complex ideas as modes, substances and relations.",
+      "mechanism": "Sensation and reflection supply simple ideas; active combination, comparison and abstraction construct modes, substances and relations.",
+      "consequence": "The account explains acquisition and classification while restricting knowledge to relations among ideas and to limited assurance about existence.",
+      "trap": "Do not call reflection an innate source or describe the Lockean mind as passive at every stage.",
+      "objection": "Dispositional innatism can answer that an innate capacity need not be a consciously entertained proposition.",
+      "reply": "Locke can insist that his target is innate content and that ordinary cognitive capacities are compatible with an experiential origin of ideas.",
+      "limit": "This qualification defeats crude innatism more securely than sophisticated rationalist dispositional accounts.",
+      "exam": "Use the order rejection, positive source theory, simple-to-complex construction, knowledge and limits.",
+      "revision": [
+        "No universal assent means alleged innate principles are not consciously present in all.",
+        "Sensation is outer experience; reflection is experience of the mind's operations.",
+        "Complex ideas include modes, substances and relations."
+      ],
+      "visuals": [
+        {
+          "title": "Locke's simple-to-complex construction",
+          "caption": "The mind receives simple materials but actively organises them into complex ideas.",
+          "lines": [
+            "SENSATION ------------------+",
+            "colour / solidity / motion  |",
+            "                             +--> SIMPLE IDEAS (passively received)",
+            "REFLECTION -----------------+                 |",
+            "thinking / willing / doubting                  v",
+            "                                  COMBINE / COMPARE / ABSTRACT",
+            "                                               |",
+            "                        MODES | SUBSTANCES | RELATIONS"
+          ]
+        },
+        {
+          "title": "Locke's degrees and limits of knowledge",
+          "caption": "Certainty declines as cognition moves from immediate agreement to existence beyond ideas.",
+          "lines": [
+            "INTUITIVE: agreement seen immediately -> highest certainty",
+            "       |",
+            "DEMONSTRATIVE: agreement through intermediate ideas -> proof",
+            "       |",
+            "SENSITIVE: present particular things exist -> lower assurance",
+            "       |",
+            "PROBABILITY: testimony, analogy and experience guide belief beyond knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Locke II: Abstraction, General Ideas and Real-Nominal Essence",
+      "plain": "Locke explains general thought by making a particular idea represent many particulars after irrelevant circumstances are left out.",
+      "technical": "Abstraction separates an idea from circumstances of time, place and accompanying determinations so that it can function as an abstract general idea; the nominal essence is the classificatory abstract idea, while the real essence is the usually unknown internal constitution.",
+      "answer": "Lockean abstraction makes generality a work of the understanding rather than a feature of independently existing universals, but Berkeley exposes the tension between a general determinable and an impossible indeterminate image.",
+      "keywords": [
+        "abstraction",
+        "abstract general idea",
+        "general representative",
+        "nominal essence",
+        "real essence",
+        "determinable and determinate"
+      ],
+      "usage": "Explain the language problem, abstraction, nominal essence and real essence before presenting Berkeley's triangle objection and Locke's determinable reply.",
+      "mechanism": "A particular experiential idea becomes general by selective omission and stands for a class under a general name.",
+      "consequence": "Classification becomes the workmanship of the understanding, while the hidden constitutions of natural kinds remain only partially known.",
+      "trap": "Do not present Locke as a Platonic realist or treat nominal essence as the physical microstructure of a thing.",
+      "objection": "Berkeley argues that a triangle that is neither equilateral nor scalene yet represents both cannot be imagined coherently.",
+      "reply": "Locke can distinguish leaving angle-size undetermined from positively assigning contradictory angle-sizes.",
+      "limit": "The reply is strongest if ideas are not merely mental pictures, which strains Locke's recurrent imagistic language.",
+      "exam": "In an abstraction answer, reconstruct both positions and end with the ideational theory of meaning as the deeper disputed premise.",
+      "revision": [
+        "Everything existing is particular, but language requires general terms.",
+        "Nominal essence classifies; real essence explains powers but is usually unknown.",
+        "Berkeley replaces abstract images with particular signs used generally."
+      ],
+      "visuals": [
+        {
+          "title": "Abstraction and classification",
+          "caption": "Locke turns experienced particulars into general representatives and named kinds.",
+          "lines": [
+            "PARTICULAR TRIANGLES",
+            "different size / colour / orientation",
+            "             | omit time, place and irrelevant determinations",
+            "             v",
+            "ABSTRACT GENERAL IDEA / GENERAL REPRESENTATIVE",
+            "             | annexed to the word 'triangle'",
+            "             v",
+            "NOMINAL ESSENCE -> class membership",
+            "REAL ESSENCE -> hidden constitution, generally unknown"
+          ]
+        },
+        {
+          "title": "Locke-Berkeley abstraction dispute",
+          "caption": "The dispute turns on whether undetermined content is coherent without an abstract image.",
+          "lines": [
+            "LOCKE: leave determinate features unspecified -> one idea can represent many",
+            "BERKELEY: no image can be all-and-none of incompatible determinations",
+            "LOCKE REPLY: undetermined is not contradictory",
+            "BERKELEY REJOINDER: then generality lies in use or attention, not an image"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Locke III: Primary-Secondary Qualities, Representative Realism and Substratum",
+      "plain": "Locke says ideas mediate perception, some ideas resemble object qualities, and clustered qualities lead us to suppose an unknown supporting substance.",
+      "technical": "Primary qualities such as solidity, extension, figure, motion or rest and number are inseparable from body and are said to resemble their object-side qualities; secondary qualities are powers to produce colour, sound, taste and similar ideas that do not resemble their causes.",
+      "answer": "Locke's representative realism secures an external world by the resemblance of primary-quality ideas, yet its unknown substratum and mediated perception generate the very gap that Berkeley turns against matter.",
+      "keywords": [
+        "primary quality",
+        "secondary quality",
+        "resemblance thesis",
+        "representative realism",
+        "veil of perception",
+        "substratum",
+        "something, I know not what"
+      ],
+      "usage": "Define both quality classes, state the resemblance thesis, map mediated perception, then explain substance as a supposed support rather than a known object.",
+      "mechanism": "External bodies causally produce ideas; primary-quality ideas allegedly resemble their causes, while repeated co-instantiation motivates the supposition of a support.",
+      "consequence": "The theory preserves realism and scientific explanation but limits access to the inner nature of substance.",
+      "trap": "Do not say Locke knows the substratum positively or that he denies substance exists.",
+      "objection": "If the mind immediately perceives only ideas, it cannot step outside them to compare an idea with an unperceived material quality.",
+      "reply": "A Lockean can defend causal or structural representation rather than pictorial resemblance and treat substance as an explanatory posit.",
+      "limit": "Structural representation and stable powers reduce the sceptical force but leave substratum epistemically opaque.",
+      "exam": "Use a quality matrix plus the object-to-idea chain and finish with the veil objection, best reply and residual opacity.",
+      "revision": [
+        "Primary qualities are inseparable; secondary qualities are relational powers.",
+        "Resemblance is asserted only for primary-quality ideas.",
+        "Substratum is supposed as support, not positively described."
+      ],
+      "visuals": [
+        {
+          "title": "Primary and secondary qualities",
+          "caption": "The distinction concerns object-side status and resemblance, not mere importance.",
+          "lines": [
+            "+----------------------+---------------------------+",
+            "| PRIMARY              | SECONDARY                 |",
+            "+----------------------+---------------------------+",
+            "| solidity, extension  | colour, sound, taste      |",
+            "| figure, motion, number| heat/cold as sensed       |",
+            "| inseparable from body| powers relative to organs |",
+            "| ideas resemble       | ideas do not resemble     |",
+            "+----------------------+---------------------------+"
+          ]
+        },
+        {
+          "title": "Representative realism and the veil objection",
+          "caption": "Mediated perception explains representation but creates a comparison problem.",
+          "lines": [
+            "EXTERNAL BODY / QUALITIES",
+            "          | causal action on sense organs",
+            "          v",
+            "IDEAS IMMEDIATELY PERCEIVED BY THE MIND",
+            "          | allegedly represent / resemble",
+            "          v",
+            "KNOWLEDGE CLAIM ABOUT THE BODY",
+            "OBJECTION: comparison cannot bypass the idea-veil",
+            "REPLY: causal-structural success; LIMIT: substratum remains unknown"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Locke IV: Knowledge, Probability, Personal Identity and Demonstrative God",
+      "plain": "Locke separates strict knowledge from probable belief, defines the person by continuity of consciousness, and argues demonstratively from our existence to God.",
+      "technical": "Knowledge is perceived agreement or disagreement among ideas and is intuitive, demonstrative or sensitive; probability governs belief beyond certainty. Personal identity follows the same consciousness through memory and differs from identity of human animal or thinking substance. God's existence is treated as demonstratively knowable from the existence of a finite knowing self.",
+      "answer": "Locke makes personhood continuity of consciousness rather than body or soul-substance; the prince-cobbler case and Butler/Reid objections expose its gain and cost.",
+      "keywords": [
+        "knowledge and probability",
+        "intuitive, demonstrative and sensitive knowledge",
+        "continuity of consciousness",
+        "memory",
+        "person, human being and substance",
+        "forensic identity",
+        "demonstrative knowledge of God"
+      ],
+      "usage": "Separate knowledge from probability, then distinguish person, human being and substance before explaining memory, responsibility and the proof of God.",
+      "mechanism": "Conscious appropriation links present and past experiences for accountability, while demonstrative reasoning moves from existing knowing being to an eternal powerful cause.",
+      "consequence": "Identity becomes psychological and forensic rather than bodily or simply substantial, but memory and proof carry substantial burdens.",
+      "trap": "Do not reduce Locke's person to a soul, a body or one present memory episode.",
+      "objection": "Butler charges circularity and Reid's Brave Officer exposes a transitivity problem when later stages forget earlier ones.",
+      "reply": "Overlapping chains of psychological continuity can preserve transitivity without requiring direct recollection of every episode.",
+      "limit": "The repair develops Locke beyond a literal memory criterion and still depends on reliable causal continuity of consciousness.",
+      "exam": "For self-and-God questions, keep personal identity, substantial identity and demonstrative theism analytically separate.",
+      "revision": [
+        "Person is a conscious, self-concerned, accountable subject; man is a living human organism.",
+        "Memory evidences continuity but cannot simply presuppose what it proves.",
+        "God is argued demonstratively, not claimed as an innate idea."
+      ],
+      "visuals": [
+        {
+          "title": "Locke's substance-self architecture",
+          "caption": "One embodied case can be tracked under three different identity questions.",
+          "lines": [
+            "SAME PERSON? -> continuity of consciousness / appropriation / memory",
+            "SAME HUMAN BEING? -> continuity of one living human organism",
+            "SAME SUBSTANCE? -> sameness of material or immaterial bearer",
+            "",
+            "PRINCE-CONSCIOUSNESS IN COBBLER-BODY:",
+            "person follows consciousness | human being follows organism"
+          ]
+        },
+        {
+          "title": "Memory objections and repair",
+          "caption": "The strongest defence turns isolated memory into overlapping psychological continuity.",
+          "lines": [
+            "LOCKE: present consciousness remembers past act -> same person",
+            "BUTLER: genuine memory already presupposes personal identity",
+            "REID: boy -> officer -> general; direct memory can lose transitivity",
+            "REPAIR: overlapping memory / intention / character chains",
+            "LIMIT: repaired continuity is broader than Locke's simplest formula"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Berkeley I: Anti-Abstraction, Anti-Matter and Immaterialist Direct Realism",
+      "plain": "Berkeley keeps ordinary tables and trees but denies that they hide an unknowable material support behind the ideas directly perceived.",
+      "technical": "Berkeley rejects abstract general ideas and material substance, identifies sensible objects with ordered collections of ideas, distinguishes passive ideas from active spirits, and states esse est percipi for sensible things.",
+      "answer": "Berkeley's immaterialism does not abolish experienced reality; it abolishes the unexperienced material duplicate behind it, turning anti-abstraction and the likeness principle into a direct-realist attack on Locke's representational veil.",
+      "keywords": [
+        "critique of abstract ideas",
+        "material substance",
+        "esse est percipi",
+        "collection of ideas",
+        "idea and spirit",
+        "immaterialism",
+        "direct realism"
+      ],
+      "usage": "Move from Berkeley's nominalist use of particulars to the rejection of material substance, then explain sensible objects, spirits and direct perception.",
+      "mechanism": "If all sensible qualities are ideas and no idea can resemble an unperceiving material original, matter adds no intelligible content to experienced objects.",
+      "consequence": "Objects remain real as publicly ordered ideas, while the metaphysical inventory becomes minds and their ideas.",
+      "trap": "Esse est percipi applies to ideas, not active spirits; immaterialism is theistic and anti-material, not solipsistic denial of experienced order.",
+      "objection": "The Master Argument may confuse conceiving a tree with conceiving the tree's dependence on the conceiver.",
+      "reply": "Berkeley can reply that the target is an object conceived as wholly outside every possible mind, not a merely unattended human object.",
+      "limit": "The reply supports anti-abstraction more securely than it conclusively proves idealism against every realist theory.",
+      "exam": "Reconstruct the critique sequence; never offer esse est percipi as an unsupported slogan.",
+      "revision": [
+        "Sensible objects are collections of immediately perceived ideas.",
+        "Ideas are passive; spirits perceive and act.",
+        "Immaterialism denies matter, not tables, trees or sensory order."
+      ],
+      "visuals": [
+        {
+          "title": "Berkeley's critique sequence",
+          "caption": "Nominalism removes abstract matter before immaterialism states the positive ontology.",
+          "lines": [
+            "NO ABSTRACT GENERAL IMAGE",
+            "        |",
+            "MATERIAL SUBSTRATUM = empty abstraction",
+            "        |",
+            "PRIMARY / SECONDARY QUALITY PARITY",
+            "        |",
+            "LIKENESS: an idea can resemble only an idea",
+            "        v",
+            "SENSIBLE OBJECT = ORDERED COLLECTION OF IDEAS",
+            "        v",
+            "ESSE EST PERCIPI; ACTIVE SPIRITS PERCEIVE"
+          ]
+        },
+        {
+          "title": "Locke and Berkeley on perceptual realism",
+          "caption": "Both affirm ordinary objects, but only Locke places a material bearer behind ideas.",
+          "lines": [
+            "LOCKE: material object -> representative idea -> perceiver",
+            "       realism preserved; veil and resemblance problem",
+            "BERKELEY: sensible object = ideas directly perceived by spirit",
+            "          direct access preserved; material substratum removed"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Berkeley II: Qualities, Spirits, God, World-Continuity and Objections",
+      "plain": "Berkeley explains stable public experience through active spirits and the law-like ideas caused by God, not through matter or a human gaze.",
+      "technical": "The relativity and inseparability arguments collapse Locke's primary-secondary distinction; finite spirits receive involuntary sensory ideas, while the infinite spirit, God, causes their regular order. The self is an active spirit known by notion rather than as a passive idea.",
+      "answer": "Berkeley avoids solipsism by making finite perceivers recipients within a divinely ordered language of nature: God is neither an idea nor another human observer but the active cause of stable sensory order.",
+      "keywords": [
+        "quality parity",
+        "finite spirit",
+        "infinite spirit",
+        "notion",
+        "world-continuity",
+        "language of nature",
+        "anti-scepticism"
+      ],
+      "usage": "Collapse the quality distinction, distinguish ideas from spirits, then map finite perception, divine causation, continuity and the self known by notion.",
+      "mechanism": "Involuntary, vivid and coherent sensory ideas form a law-like order whose active cause cannot be a passive idea and is attributed to God.",
+      "consequence": "The account preserves continuity, objectivity and common life without matter but depends on a substantial theological inference.",
+      "trap": "Do not say God is the collection of ideas, that finite minds create sensory order, or that Berkeley has an idea of spirit.",
+      "objection": "Solipsism, illusion, pain, finite causation and the theological gap challenge the move from experienced order to one infinite spirit.",
+      "reply": "Berkeley distinguishes ideas of sense from imagination by involuntariness and coherence, and treats natural regularities as divine signs.",
+      "limit": "These distinctions answer crude solipsism and illusion but do not force the unique conclusion that God is the only adequate cause.",
+      "exam": "Use the continuity model and include common-sense gain, theological cost and the notions issue.",
+      "revision": [
+        "Variation arguments apply to size, shape and motion as well as colour and taste.",
+        "Finite spirits perceive; God causes the ordered sensory series.",
+        "Spirit is known by notion or reflective awareness, not copied as an idea."
+      ],
+      "visuals": [
+        {
+          "title": "Finite perceiver, ideas and divine continuity",
+          "caption": "Human non-attention does not imply non-existence because sensory order is not made by finite perceivers.",
+          "lines": [
+            "                         GOD / INFINITE ACTIVE SPIRIT",
+            "                    causes stable, law-like sensory ideas",
+            "                                  |",
+            "                 +----------------+----------------+",
+            "                 |                                 |",
+            "          FINITE SPIRIT A                    FINITE SPIRIT B",
+            "          receives ideas                    receives ideas",
+            "                 +-------- shared ordered world --------+",
+            "OBJECT CONTINUITY != continuous human looking"
+          ]
+        },
+        {
+          "title": "Berkeley objection-reply map",
+          "caption": "The strongest evaluation separates answers to ordinary objections from the residual God-inference.",
+          "lines": [
+            "SOLIPSISM -> many finite spirits + shared involuntary order",
+            "ILLUSION -> coherence / involuntariness / correction within experience",
+            "COMMON SENSE -> tables remain real; matter alone is rejected",
+            "CAUSATION -> passive ideas cannot cause; spirits are active",
+            "RESIDUAL -> why must one infinite divine cause uniquely explain order?"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hume I: Impressions, Ideas, Copy Principle, Fork, Substance, Self and God",
+      "plain": "Hume inventories perceptions, traces ideas to impressions and refuses positive metaphysical content where no corresponding experiential source can be found.",
+      "technical": "Perceptions divide into forceful impressions and fainter ideas; the Copy Principle traces simple ideas to simple impressions, while association proceeds by resemblance, contiguity and cause-effect. Hume's Fork distinguishes relations of ideas from matters of fact. Substance and the simple self lack impressions; personal identity is a bundle fiction aided by memory and imagination.",
+      "answer": "Hume transforms empiricism into a forensic method: when substance, self or divine predicates cannot supply an originating impression or a valid inferential route, their speculative certainty is reduced without denying the natural beliefs of common life.",
+      "keywords": [
+        "impression and idea",
+        "force and vivacity",
+        "Copy Principle",
+        "association of ideas",
+        "relations of ideas",
+        "matters of fact",
+        "bundle theory",
+        "natural religion"
+      ],
+      "usage": "Define impression and idea through force and vivacity, qualify the Copy Principle, explain association, relations of ideas and matters of fact, then apply the method to bundle theory and natural religion.",
+      "mechanism": "Copy principle and three associative relations explain bundles and beliefs, while missing shade and external-world natural belief qualify strict reduction.",
+      "consequence": "Metaphysical certainty contracts, while mathematics, experience, probability and natural belief remain.",
+      "trap": "Do not say every idea is itself an impression, that the missing shade destroys the Copy Principle, or that Hume proves there is no self or God.",
+      "objection": "The missing shade of blue and relational thought challenge an exceptionless copy rule; the bundle also seems to require a principle that unifies perceptions.",
+      "reply": "Hume treats the missing shade as a rare exception and presents the Copy Principle as a critical test, while memory discovers rather than creates many relations.",
+      "limit": "His Appendix concedes that he cannot explain the unity of the bundle, and his critique of religion limits proof more clearly than existence.",
+      "exam": "Use the experiential test carefully: distinguish absence of justified idea or proof from a dogmatic proof of non-existence.",
+      "revision": [
+        "Impressions differ from ideas chiefly in force and vivacity.",
+        "Fork: necessary relations of ideas versus contingent matters of fact.",
+        "Bundle theory finds perceptions but no simple, invariant self-impression."
+      ],
+      "visuals": [
+        {
+          "title": "Hume's perceptions and Fork",
+          "caption": "The content test and proposition test work together but answer different questions.",
+          "lines": [
+            "PERCEPTIONS",
+            "  +--> IMPRESSIONS: forceful sensations, passions and reflections",
+            "  +--> IDEAS: fainter memory / imagination copies",
+            "              | resemblance / contiguity / cause-effect",
+            "              v",
+            "OBJECTS OF REASON",
+            "  +--> RELATIONS OF IDEAS: necessary; denial contradictory",
+            "  +--> MATTERS OF FACT: contingent; contrary conceivable"
+          ]
+        },
+        {
+          "title": "Bundle self and identity fiction",
+          "caption": "Introspection yields a sequence of perceptions, while imagination supplies experienced continuity.",
+          "lines": [
+            "PERCEPTION t1 -> PERCEPTION t2 -> PERCEPTION t3 -> ...",
+            "     colour        desire          memory",
+            "          \\          |          /",
+            "           resemblance + causal association",
+            "                       |",
+            "                       v",
+            "          ASCRIBED IDENTITY / 'SELF' FICTION",
+            "APPENDIX DIFFICULTY: what genuinely unites the bundle?"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hume II: Causation, Constant Conjunction, Habit and the Problem of Induction",
+      "plain": "Repeated sequences train expectation, but neither one case nor many cases reveal a necessary power binding cause to effect.",
+      "technical": "Causal experience gives temporal priority, contiguity and constant conjunction; repetition produces an impression of reflective determination in the mind. Custom projects necessary connection and supports inductive inference, whose appeal to the uniformity of nature cannot be demonstratively or non-circularly justified.",
+      "answer": "Hume does not abolish causal reasoning; he relocates necessity from an observed tie in objects to the mind's customary transition, thereby exposing induction as naturally indispensable but rationally underdetermined.",
+      "keywords": [
+        "causation",
+        "necessary connection",
+        "constant conjunction",
+        "habit and custom",
+        "projection",
+        "induction",
+        "uniformity of nature",
+        "two definitions of cause"
+      ],
+      "usage": "Begin with causation and necessary connection, derive constant conjunction and habit or custom, explain projection and both definitions of cause, then expose induction and the uniformity-of-nature circle.",
+      "mechanism": "Observed regularity conditions the imagination to move from cause-idea to effect-idea; the future is inferred from the past only by the very inductive principle under question.",
+      "consequence": "Causal expectation is natural but not rationally demonstrated; Kant's causal category is the routed transcendental response.",
+      "trap": "Do not reduce causation to accidental succession or say Hume recommends abandoning causal and inductive practice.",
+      "objection": "A regularity account may confuse genuine causation with correlated sequences and cannot easily explain unobserved mechanisms or interventions.",
+      "reply": "The Humean can allow refined regularities, counterfactual structure or theoretical modelling while denying a separately perceived necessary power.",
+      "limit": "Such refinements may exceed Hume's own ontology and do not convert inductive success into demonstrative justification.",
+      "exam": "A high-scoring answer separates what is observed, what habit adds, why induction is circular and what naturalism preserves.",
+      "revision": [
+        "Objective definition: constant conjunction; natural definition: mental transition.",
+        "Necessity is an impression of reflection projected onto objects.",
+        "Induction is neither demonstrative nor justifiable by experience without circularity."
+      ],
+      "visuals": [
+        {
+          "title": "Causation and induction habit loop",
+          "caption": "Repetition changes the mind rather than revealing a new observable tie in the objects.",
+          "lines": [
+            "A followed by B repeatedly",
+            "        | constant conjunction",
+            "        v",
+            "CUSTOM / HABIT CONDITIONS EXPECTATION",
+            "        | felt determination of thought",
+            "        v",
+            "PROJECTED NECESSARY CONNECTION",
+            "        | predicts future B after A",
+            "        +---- assumes nature remains uniform ----+",
+            "             circular if past success is the proof"
+          ]
+        },
+        {
+          "title": "What Hume observes and what the mind adds",
+          "caption": "The criticism targets objective necessary connection, not every causal practice.",
+          "lines": [
+            "OBSERVED: priority + contiguity + repeated conjunction",
+            "NOT OBSERVED: power / productive tie / necessity in objects",
+            "MIND ADDS: customary transition and expectation",
+            "PRACTICE RETAINED: probable inference in life and inquiry"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hume III and Comparative Synthesis: God, Miracles, Mitigated Scepticism and Answer Spine",
+      "plain": "Hume limits speculative reason while allowing natural belief and disciplined inquiry to return us from excessive doubt to ordinary life.",
+      "technical": "Antecedent or excessive scepticism undermines action and even its own reasoning, whereas mitigated scepticism confines inquiry to human capacities, probability and experience. Hume tests design by analogy and miracles by comparative testimony and probability; these arguments limit rational warrant rather than establish a simple global atheism.",
+      "answer": "Hume's mature position is sceptical naturalism: reason cannot vindicate induction, substance, a simple self or natural theology with necessity, yet custom and common life inevitably restore proportioned belief.",
+      "keywords": [
+        "antecedent scepticism",
+        "excessive scepticism",
+        "mitigated scepticism",
+        "custom and common life",
+        "design analogy",
+        "miracles and testimony",
+        "sceptical naturalism",
+        "comparative synthesis"
+      ],
+      "usage": "Distinguish types of scepticism, explain natural return, qualify religion arguments, then compare substance, qualities, self, God and scepticism across all three thinkers.",
+      "mechanism": "Philosophical doubt exposes the limits of reason, while natural instinct and custom re-establish action under a disciplined, probabilistic standard of belief.",
+      "consequence": "Empiricism ends neither in dogmatic metaphysics nor paralysis but in proportioning assent to evidence and acknowledging the non-rational basis of unavoidable expectations.",
+      "trap": "Do not call Hume a global sceptic, claim that he disproves God, or treat mitigated scepticism as certainty.",
+      "objection": "If custom rather than reason governs basic belief, Hume appears to describe cognitive compulsion rather than justify knowledge.",
+      "reply": "His naturalism can answer that philosophy should explain the conditions and limits of actual human cognition instead of demanding impossible foundations.",
+      "limit": "Description and inevitability do not by themselves supply epistemic normativity, which motivates Kant and later responses.",
+      "exam": "Use a matched comparison matrix, criticism-reply map and directive-specific answer spine with a qualified verdict.",
+      "revision": [
+        "Locke keeps unknown material support; Berkeley keeps spirits and God; Hume finds perceptions and natural belief.",
+        "Direct realism, representative realism, idealism and scepticism must not be conflated.",
+        "Empiricism narrows certainty while increasing attention to cognitive limits and evidence."
+      ],
+      "visuals": [
+        {
+          "title": "Three-philosopher comparison on official syllabus axes",
+          "caption": "Matched axes show the progressive pressure of an experience-only foundation.",
+          "lines": [
+            "+-----------+----------------+----------------+--------------------+",
+            "| AXIS      | LOCKE          | BERKELEY       | HUME               |",
+            "+-----------+----------------+----------------+--------------------+",
+            "| substance | unknown support| spirits only   | no impression      |",
+            "| qualities | primary/second.| all are ideas  | perceptions        |",
+            "| self      | consciousness  | active spirit  | bundle             |",
+            "| God       | demonstrative  | world-order    | proof/analogy limit|",
+            "| scepticism| limited realism| anti-sceptical | mitigated/natural  |",
+            "+-----------+----------------+----------------+--------------------+"
+          ]
+        },
+        {
+          "title": "Criticism-reply-residual map",
+          "caption": "Evaluation earns marks when the strongest reply and the remaining cost are both explicit.",
+          "lines": [
+            "LOCKE veil / opaque substratum -> structural representation -> comparison gap remains",
+            "BERKELEY solipsism / God gap -> shared divine order -> unique-cause inference remains",
+            "HUME induction / bundle gap -> natural belief -> rational normativity remains"
+          ]
+        },
+        {
+          "title": "UPSC Philosophy answer spine",
+          "caption": "The architecture keeps exact directive, doctrine, evaluation and conclusion connected.",
+          "lines": [
+            "DIRECTIVE -> DIRECT THESIS -> PRECISE DEFINITIONS",
+            "         -> NUMBERED ARGUMENT -> TEXT / CANONICAL EXAMPLE",
+            "         -> OBJECTION -> BEST REPLY -> RESIDUAL LIMIT",
+            "         -> COMPARISON ON MATCHED AXES (if asked)",
+            "         -> QUALIFIED VERDICT",
+            "CONTROL: claim -> named evidence -> analysis -> qualification"
+          ]
+        }
+      ]
+    }
+  ],
+  "advanced_session_count": 10,
+  "ascii_panels": [
+    {
+      "title": "Empiricist starting rule and Locke-Berkeley-Hume pressure sequence",
+      "structural_type": "connected-doctrinal-sequence",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "CENTRAL QUESTION: WHAT CAN EXPERIENCE ALONE JUSTIFY ABOUT WORLD, SELF, GOD AND CAUSE?",
+        "        |",
+        "LOCKE: sensation + reflection -> ideas -> represented material world",
+        "        | pressure: resemblance and unknown substratum",
+        "        v",
+        "BERKELEY: sensible objects = ideas; active spirits; no matter",
+        "        | pressure: what experiential source supports self and necessary power?",
+        "        v",
+        "HUME: impressions + ideas -> custom / natural belief -> mitigated scepticism",
+        "ROUTE: representative realism -> immaterialism -> sceptical naturalism."
+      ]
+    },
+    {
+      "title": "Locke's source-of-ideas pipeline and limits of knowledge",
+      "structural_type": "source-construction-and-certainty-ladder",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "REJECT INNATE CONTENT: no universal assent; no consciously unperceived propositions",
+        "SENSATION (outer sense) + REFLECTION (mental operations)",
+        "        |",
+        "        v",
+        "SIMPLE IDEAS: passively received",
+        "        | combine / compare / abstract",
+        "        v",
+        "COMPLEX IDEAS: MODES | SUBSTANCES | RELATIONS",
+        "KNOWLEDGE: intuitive -> demonstrative -> sensitive; beyond it lies probability",
+        "LIMIT: genetic explanation does not by itself defeat dispositional innatism."
+      ]
+    },
+    {
+      "title": "Locke's abstraction, general ideas and real-nominal essence",
+      "structural_type": "classification-flow-and-dispute",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "PARTICULAR IDEAS -> omit time/place/concomitants -> GENERAL REPRESENTATIVE",
+        "GENERAL WORD -> signifies abstract general idea -> classifies particulars",
+        "NOMINAL ESSENCE = abstract idea attached to the name",
+        "REAL ESSENCE = hidden internal constitution producing observable powers",
+        "TRIANGLE PROBLEM: neither equilateral nor scalene, yet represents both",
+        "BERKELEY: no contradictory abstract image; use a particular sign generally",
+        "LOCKE REPLY: undetermined feature != contradictory feature",
+        "RESIDUAL: non-imagistic abstraction strains Locke's official idea theory."
+      ]
+    },
+    {
+      "title": "Locke's qualities, representative realism and unknown substratum",
+      "structural_type": "quality-matrix-and-representation-chain",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "PRIMARY: solidity, extension, figure, motion/rest, number; inseparable from body",
+        "SECONDARY: colour, sound, taste, smell, heat/cold; powers relative to perceivers",
+        "RESEMBLANCE: primary-quality ideas resemble; secondary-quality ideas do not",
+        "BODY -> causal action -> IDEA IMMEDIATELY PERCEIVED -> REPRESENTATION CLAIM",
+        "VEIL OBJECTION: how can an idea be compared with unperceived matter?",
+        "SUBSTRATUM: supposed support of co-occurring qualities",
+        "EXACT LIMIT: 'something, I know not what' = unknown nature, not denied existence",
+        "REPLY: causal/structural representation; RESIDUAL: support remains opaque."
+      ]
+    },
+    {
+      "title": "Locke's knowledge, probability, self, memory and demonstrative God",
+      "structural_type": "identity-tree-and-objection-repair",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "KNOWLEDGE = perceived agreement/disagreement of ideas; probability guides belief",
+        "SAME PERSON: continuity of consciousness and appropriation through memory",
+        "SAME HUMAN BEING: continuity of one living organism",
+        "SAME SUBSTANCE: sameness of material or immaterial bearer",
+        "PRINCE/COBBLER: person follows consciousness; man follows organism",
+        "BUTLER: memory presupposes identity; REID: Brave Officer breaks transitivity",
+        "REPAIR: overlapping psychological-continuity chains",
+        "GOD: finite knowing existence -> demonstrative causal route; no innate God-idea",
+        "LIMIT: repaired continuity exceeds a simple episodic-memory criterion."
+      ]
+    },
+    {
+      "title": "Berkeley's anti-abstraction route to immaterialism and direct realism",
+      "structural_type": "critique-sequence-and-ontology",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "NO ABSTRACT GENERAL IMAGE -> material substance-in-general loses content",
+        "LIKENESS PRINCIPLE: an idea can be like only an idea",
+        "QUALITY PARITY: observer-relativity applies to primary and secondary qualities",
+        "SENSIBLE OBJECT = stable collection of immediately perceived ideas",
+        "ESSE EST PERCIPI applies to sensible things; IDEAS are passive",
+        "SPIRITS perceive and act; they are not themselves ideas",
+        "DIRECT-REALIST DIMENSION: no unknowable material duplicate behind experience",
+        "TRAP: immaterialism denies matter, not experienced tables, trees or order."
+      ]
+    },
+    {
+      "title": "Berkeley's spirits, God, world-continuity and objection ledger",
+      "structural_type": "perceiver-continuity-network",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "FINITE SPIRITS receive involuntary sensory ideas; imagination is weaker/voluntary",
+        "PASSIVE IDEAS cannot cause; active causation belongs to spirit",
+        "GOD / INFINITE SPIRIT causes stable, coherent and shared sensory order",
+        "OBJECT CONTINUITY does not depend on continuous human observation",
+        "SELF: active spirit known by NOTION, not by a copied idea",
+        "SOLIPSISM REPLY: many finite spirits + common divine order",
+        "ILLUSION REPLY: coherence, involuntariness and correction within experience",
+        "RESIDUAL: experienced order does not uniquely demonstrate Berkeley's God."
+      ]
+    },
+    {
+      "title": "Hume's impressions, ideas, Fork, substance, bundle self and religion limits",
+      "structural_type": "perception-taxonomy-and-application-map",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "PERCEPTIONS -> IMPRESSIONS (forceful) / IDEAS (fainter copies)",
+        "COPY PRINCIPLE: every simple idea normally traces to a simple impression",
+        "QUALIFICATION: missing shade of blue is a narrow acknowledged exception",
+        "ASSOCIATION: resemblance | contiguity | cause and effect",
+        "HUME'S FORK: relations of ideas / matters of fact",
+        "SUBSTANCE: no distinct impression beyond a collection of qualities/perceptions",
+        "SELF: bundle in flux; memory/association generate identity fiction",
+        "APPENDIX DIFFICULTY: Hume cannot explain genuine unity among perceptions",
+        "GOD/RELIGION: design analogy and divine predicates exceed demonstrative certainty."
+      ]
+    },
+    {
+      "title": "Hume's causation, induction and custom loop",
+      "structural_type": "habit-loop-and-justification-dilemma",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "ONE CASE: priority + contiguity + succession; no impression of necessary power",
+        "REPETITION: constant conjunction; objects reveal no new tie",
+        "CUSTOM changes the mind -> felt transition from A to expected B",
+        "NECESSITY = impression of reflection projected onto objects",
+        "CAUSE 1: regularly conjoined objects; CAUSE 2: one idea determines another",
+        "INDUCTION assumes future resembles past / nature is uniform",
+        "NO DEMONSTRATION: contrary is conceivable",
+        "NO NON-CIRCULAR EXPERIENCE PROOF: past success already uses induction",
+        "VERDICT: practice is natural and indispensable, but not rationally necessitated."
+      ]
+    },
+    {
+      "title": "Comparative synthesis, scepticism, PYQ routes and answer spine",
+      "structural_type": "matched-axis-matrix-and-exam-ledger",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "LOCKE: matter retained / quality split / consciousness-self / demonstrative God",
+        "BERKELEY: no matter / all sensible qualities ideas / spirit-self / ordering God",
+        "HUME: no substance impression / perceptions / bundle-self / religion proof limits",
+        "SCEPTICISM: Locke limited realism | Berkeley anti-sceptical | Hume mitigated",
+        "REALISM: representative != direct; IDEALISM != denial of experience",
+        "HUME: antecedent/excessive doubt rejected; custom/common life restore belief",
+        "PYQ ROUTES: innate ideas; identity; primary qualities; nominalism; Berkeley reality",
+        "PYQ ROUTES: Fork; causation; induction; bundle self; Kant response",
+        "ANSWER: directive -> thesis -> definitions -> argument -> objection/reply -> verdict",
+        "CONTROL: claim -> named text/example -> analysis -> qualification",
+        "VERDICT: empiricism disciplines certainty but cannot rationally ground every belief."
+      ]
+    }
+  ],
+  "verified_pyq_source": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+  "required_core_terms": [
+    "innate ideas",
+    "tabula rasa",
+    "sensation",
+    "reflection",
+    "simple ideas",
+    "complex ideas",
+    "modes",
+    "substances",
+    "relations",
+    "abstraction",
+    "abstract general ideas",
+    "nominal essence",
+    "real essence",
+    "primary qualities",
+    "secondary qualities",
+    "resemble",
+    "representative realism",
+    "veil of perception",
+    "substratum",
+    "something I know not what",
+    "intuitive",
+    "demonstrative",
+    "sensitive",
+    "probability",
+    "personal identity",
+    "continuity of consciousness",
+    "memory",
+    "forensic",
+    "God",
+    "immaterialism",
+    "esse est percipi",
+    "spirit",
+    "notion",
+    "direct realism",
+    "impressions",
+    "ideas",
+    "force",
+    "vivacity",
+    "Copy Principle",
+    "association",
+    "relations of ideas",
+    "matters of fact",
+    "constant conjunction",
+    "habit",
+    "custom",
+    "necessary connexion",
+    "induction",
+    "bundle",
+    "mitigated scepticism",
+    "miracles"
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-09-02.md",
+  "semantic_review_promotions": [
+    "empiricism without anti-reason slogan",
+    "Locke blank-slate and complex-idea qualification",
+    "Locke person/man/substance and prince-cobbler",
+    "Berkeley scope, science, illusion and other minds",
+    "Moore/Russell and Hegel routed comparisons",
+    "Hume copy-principle and association qualification",
+    "Hume external-world natural belief",
+    "Kant on apperception and causal category"
+  ]
+}

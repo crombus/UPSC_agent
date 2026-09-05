@@ -1,0 +1,1160 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-11",
+  "subject": "Medieval-Indian-History",
+  "title": "ART, ARCHITECTURE & CULTURE OF THE SULTANATE",
+  "short_route": "CULTURE AS POWER, TECHNIQUE → TRABEATE AND ARCUATE LOAD → RUPTURE, REUSE AND ADAPTATION → QUTB COMPLEX AS LAYERED → BALBAN TO ALAI TECHNICAL → TUGHLAQ FORM AND INFERENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-11_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-11-12-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "7fdcb6fdf5c67f80feb12a4eee0385332c577e73f241177740d0956f39ac4046",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CULTURE AS POWER, TECHNIQUE AND LABOUR",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CULTURE AS POWER, TECHNIQUE AND LABOUR",
+          "role": "mechanism"
+        },
+        {
+          "text": "SULTANATE CULTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONQUEST, PATRONAGE, LEGITIMACY AND MEMORY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRABEATE + ARCUATE + MORTAR + DOME TRANSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "MASONS, STONECUTTERS, DESIGNERS AND MATERIAL SUPPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "MONUMENTS, LANGUAGE, LITERATURE, MUSIC AND INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARCHITECTURE IS THE MAIN ARCHIVE, NOT THE WHOLE CULTURAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SULTANATE CULTURE",
+        "POWER: conquest, patronage, legitimacy and memory",
+        "TECHNIQUE: trabeate + arcuate + mortar + dome transition",
+        "LABOUR: masons, stonecutters, designers and material supply",
+        "EXPRESSION: monuments, language, literature, music and institutions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SULTANATE CULTURE",
+            "POWER: conquest, patronage, legitimacy and memory"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TECHNIQUE: trabeate + arcuate + mortar + dome transition",
+            "LABOUR: masons, stonecutters, designers and material supply"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EXPRESSION: monuments, language, literature, music and institutions",
+            "VERDICT: architecture is the main archive, not the whole cultural field."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: architecture is the main archive, not the whole cultural field.",
+      "answer_line": "architecture is the main archive, not the whole cultural field.",
+      "source_references": [
+        "Scope",
+        "Patronage",
+        "Craft labour"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TRABEATE AND ARCUATE LOAD PATHS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRABEATE AND ARCUATE LOAD PATHS",
+          "role": "primary"
+        },
+        {
+          "text": "POSTS SUPPORT A HORIZONTAL LINTEL OR BEAM",
+          "role": "outcome"
+        },
+        {
+          "text": "COURSES PROJECT INWARD UNTIL THE GAP IS CAPPED",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUE ARCH",
+          "role": "evidence"
+        },
+        {
+          "text": "RADIATING VOUSSOIRS CARRY COMPRESSION AROUND AN OPENING",
+          "role": "primary"
+        },
+        {
+          "text": "EXTENDED ARCH",
+          "role": "outcome"
+        },
+        {
+          "text": "CURVED ROOF OVER A SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "CORNER TRANSITION FROM SQUARE CHAMBER TOWARD DOME ZONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRABEATE → posts support a horizontal lintel or beam",
+        "CORBELLED → courses project inward until the gap is capped",
+        "TRUE ARCH → radiating voussoirs carry compression around an opening",
+        "VAULT → extended arch",
+        "DOME → curved roof over a space"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "TRABEATE → posts support a horizontal lintel or beam",
+          "VAULT → extended arch",
+          "RULE: Sultanate expansion of arcuate practice was not first invention."
+        ],
+        [
+          "CORBELLED → courses project inward until the gap is capped",
+          "DOME → curved roof over a space",
+          ""
+        ],
+        [
+          "TRUE ARCH → radiating voussoirs carry compression around an opening",
+          "SQUINCH → corner transition from square chamber toward dome zone",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TRABEATE → posts support a horizontal lintel or beam",
+            "CORBELLED → courses project inward until the gap is capped",
+            "TRUE ARCH → radiating voussoirs carry compression around an opening"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VAULT → extended arch",
+            "DOME → curved roof over a space",
+            "SQUINCH → corner transition from square chamber toward dome zone"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: Sultanate expansion of arcuate practice was not first invention."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: Sultanate expansion of arcuate practice was not first invention.",
+      "answer_line": "Sultanate expansion of arcuate practice was not first invention.",
+      "source_references": [
+        "Trabeate",
+        "Arcuate",
+        "Voussoir",
+        "Squinch"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RUPTURE, REUSE AND ADAPTATION",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RUPTURE, REUSE AND ADAPTATION",
+          "role": "primary"
+        },
+        {
+          "text": "REUSED PILLARS + NEW RITUAL AND POLITICAL PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "ARHAI DIN KA JHONPRA",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY CONVERSION/ADAPTATION AND NEW FACADE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE OF APPROPRIATION AND MATERIAL REUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL CARVING AND CONSTRUCTION CHOICES REMAIN VISIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE DOCUMENTED COMPLEX CANNOT PROVE A UNIVERSAL POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFE FORMULA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUWWAT-UL-ISLAM → reused pillars + new ritual and political programme",
+        "ARHAI DIN KA JHONPRA → early conversion/adaptation and new facade",
+        "SPOLIA → evidence of appropriation and material reuse",
+        "WORKSHOP → local carving and construction choices remain visible",
+        "LIMIT → one documented complex cannot prove a universal policy"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "QUWWAT-UL-ISLAM → reused pillars + new ritual and political programme",
+          "SPOLIA → evidence of appropriation and material reuse",
+          "LIMIT → one documented complex cannot prove a universal policy"
+        ],
+        [
+          "ARHAI DIN KA JHONPRA → early conversion/adaptation and new facade",
+          "WORKSHOP → local carving and construction choices remain visible",
+          "SAFE FORMULA → rupture + adaptation + technical synthesis."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "QUWWAT-UL-ISLAM → reused pillars + new ritual and political programme",
+            "ARHAI DIN KA JHONPRA → early conversion/adaptation and new facade"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "SPOLIA → evidence of appropriation and material reuse",
+            "WORKSHOP → local carving and construction choices remain visible"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "LIMIT → one documented complex cannot prove a universal policy",
+            "SAFE FORMULA → rupture + adaptation + technical synthesis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE FORMULA → rupture + adaptation + technical synthesis.",
+      "source_references": [
+        "Quwwat-ul-Islam",
+        "Arhai Din ka Jhonpra",
+        "Spolia"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "QUTB COMPLEX AS LAYERED PATRONAGE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "QUTB COMPLEX AS LAYERED PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "BEGINS MOSQUE/MINAR PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJOR MINAR COMPLETION + TOMB + COMPLEX EXPANSION",
+          "role": "comparison"
+        },
+        {
+          "text": "ALAUDDIN KHALJI",
+          "role": "evidence"
+        },
+        {
+          "text": "ALAI DARWAZA + MADRASA + UNFINISHED ALAI MINAR",
+          "role": "primary"
+        },
+        {
+          "text": "FIROZ SHAH TUGHLAQ",
+          "role": "outcome"
+        },
+        {
+          "text": "REPAIRS DAMAGED UPPER MINAR WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESENT CONSERVATION, AUTHENTICITY AND REVERSIBLE REPAIR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AIBAK → begins mosque/minar programme",
+        "ILTUTMISH → major minar completion + tomb + complex expansion",
+        "ALAUDDIN KHALJI → Alai Darwaza + madrasa + unfinished Alai Minar",
+        "FIROZ SHAH TUGHLAQ → repairs damaged upper minar work",
+        "UNESCO / ASI → present conservation, authenticity and reversible repair"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "AIBAK → begins mosque/minar programme",
+            "ILTUTMISH → major minar completion + tomb + complex expansion"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "ALAUDDIN KHALJI → Alai Darwaza + madrasa + unfinished Alai Minar",
+            "FIROZ SHAH TUGHLAQ → repairs damaged upper minar work"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNESCO / ASI → present conservation, authenticity and reversible repair",
+            "LESSON: read the ensemble across patrons, functions and interventions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON: read the ensemble across patrons, functions and interventions.",
+      "source_references": [
+        "Qutb complex",
+        "Layered patronage",
+        "UNESCO"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BALBAN TO ALAI TECHNICAL SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BALBAN TO ALAI TECHNICAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ILTUTMISH TOMB",
+          "role": "outcome"
+        },
+        {
+          "text": "SQUARE-TO-DOME TRANSITION EXPERIMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "BALBAN TOMB",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST SURVIVING TRUE ARCH IN THE ASSIGNED SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ALAI DARWAZA",
+          "role": "outcome"
+        },
+        {
+          "text": "MATURE RADIATING VOUSSOIRS, DOME AND PROPORTION",
+          "role": "comparison"
+        },
+        {
+          "text": "KHALJI URBAN AMBITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ILTUTMISH TOMB → square-to-dome transition experiment",
+        "BALBAN TOMB → first surviving true arch in the assigned source",
+        "ALAI DARWAZA → mature radiating voussoirs, dome and proportion",
+        "KHALJI URBAN AMBITION → Siri and the incomplete Alai programme",
+        "TRAP: mature mastery is not the same claim as first surviving example."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "ILTUTMISH TOMB → square-to-dome transition experiment",
+            "BALBAN TOMB → first surviving true arch in the assigned source"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "ALAI DARWAZA → mature radiating voussoirs, dome and proportion",
+            "KHALJI URBAN AMBITION → Siri and the incomplete Alai programme"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: mature mastery is not the same claim as first surviving example.",
+            "ILTUTMISH TOMB → square-to-dome transition experiment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "mature mastery is not the same claim as first surviving example.",
+      "source_references": [
+        "Iltutmish",
+        "Balban",
+        "Alai Darwaza",
+        "Siri"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TUGHLAQ FORM AND INFERENCE DISCIPLINE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TUGHLAQ FORM AND INFERENCE DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "GHIYASUDDIN TOMB",
+          "role": "outcome"
+        },
+        {
+          "text": "BATTERED WALLS + RUBBLE/LIME SURFACES + MASSIVE ENCLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORTRESS EFFECT, STRONG SKYLINE AND RESTRAINED ORNAMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ARCHES CONTINUE BESIDE LINTEL-AND-BEAM COMBINATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "OBSERVE FORM FIRST; QUALIFY CLAIMS ABOUT ECONOMY OR INSECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AUSTERITY IS A VISUAL TENDENCY, NOT PROOF OF ONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TUGHLAQABAD / GHIYASUDDIN TOMB",
+        "battered walls + rubble/lime surfaces + massive enclosure",
+        "fortress effect, strong skyline and restrained ornament",
+        "arches continue beside lintel-and-beam combinations",
+        "OBSERVE form first; qualify claims about economy or insecurity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TUGHLAQABAD / GHIYASUDDIN TOMB",
+            "battered walls + rubble/lime surfaces + massive enclosure"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "fortress effect, strong skyline and restrained ornament",
+            "arches continue beside lintel-and-beam combinations"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OBSERVE form first; qualify claims about economy or insecurity",
+            "RULE: austerity is a visual tendency, not proof of one motive."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: austerity is a visual tendency, not proof of one motive.",
+      "answer_line": "austerity is a visual tendency, not proof of one motive.",
+      "source_references": [
+        "Tughlaqabad",
+        "Batter",
+        "Ghiyasuddin Tughlaq tomb"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REGIONAL ADAPTATION MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL ADAPTATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "BRICK + CURVED ROOF",
+          "role": "outcome"
+        },
+        {
+          "text": "DROP-ARCH ASSOCIATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "FINE STONE CARVING + LOCAL JAIN-ASSOCIATED CRAFT VOCABULARY",
+          "role": "evidence"
+        },
+        {
+          "text": "MASS + VENTILATION + WATER AND CLIMATE RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "LOFTY PORTAL OR SCREEN + NO-MINAR TENDENCY",
+          "role": "caution"
+        },
+        {
+          "text": "SHARED REPERTOIRE ADAPTED TO MATERIAL, LABOUR AND COURT SETTING",
+          "role": "institution"
+        },
+        {
+          "text": "REGIONAL SCHOOLS ARE NOT IMPERFECT COPIES OF DELHI.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BENGAL → brick + curved roof / drop-arch associations",
+        "GUJARAT → fine stone carving + local Jain-associated craft vocabulary",
+        "MALWA / MANDU → mass + ventilation + water and climate response",
+        "JAUNPUR → lofty portal or screen + no-minar tendency",
+        "COMMON → shared repertoire adapted to material, labour and court setting"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "BENGAL → brick + curved roof / drop-arch associations",
+          "MALWA / MANDU → mass + ventilation + water and climate response",
+          "COMMON → shared repertoire adapted to material, labour and court setting"
+        ],
+        [
+          "GUJARAT → fine stone carving + local Jain-associated craft vocabulary",
+          "JAUNPUR → lofty portal or screen + no-minar tendency",
+          "TRAP: regional schools are not imperfect copies of Delhi."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BENGAL → brick + curved roof / drop-arch associations",
+            "GUJARAT → fine stone carving + local Jain-associated craft vocabulary"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MALWA / MANDU → mass + ventilation + water and climate response",
+            "JAUNPUR → lofty portal or screen + no-minar tendency"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "COMMON → shared repertoire adapted to material, labour and court setting",
+            "TRAP: regional schools are not imperfect copies of Delhi."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "regional schools are not imperfect copies of Delhi.",
+      "source_references": [
+        "Bengal",
+        "Gujarat",
+        "Malwa",
+        "Jaunpur"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ORNAMENT AND VISUAL GRAMMAR",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ORNAMENT AND VISUAL GRAMMAR",
+          "role": "primary"
+        },
+        {
+          "text": "SCRIPT BECOMES VISUAL THROUGH SCALE AND PLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOMETRIC-VEGETAL PATTERN JOINED TO INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL MOTIFS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOTUS, BELL AND SWASTIKA IN ADAPTED WORKSHOP VOCABULARIES",
+          "role": "primary"
+        },
+        {
+          "text": "SANDSTONE, MARBLE AND SURFACE CONTRAST",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGIOUS SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "OFTEN NON-FIGURAL, BUT AVOID AN ABSOLUTE FOR ALL CONTEXTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CALLIGRAPHY → script becomes visual through scale and placement",
+        "ARABESQUE → geometric-vegetal pattern joined to inscription",
+        "LOCAL MOTIFS → lotus, bell and swastika in adapted workshop vocabularies",
+        "COLOUR / MATERIAL → sandstone, marble and surface contrast",
+        "RELIGIOUS SPACE → often non-figural, but avoid an absolute for all contexts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CALLIGRAPHY → script becomes visual through scale and placement",
+            "ARABESQUE → geometric-vegetal pattern joined to inscription"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LOCAL MOTIFS → lotus, bell and swastika in adapted workshop vocabularies",
+            "COLOUR / MATERIAL → sandstone, marble and surface contrast"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RELIGIOUS SPACE → often non-figural, but avoid an absolute for all contexts",
+            "USE: surface grammar supports synthesis only when tied to a monument."
+          ]
+        }
+      ],
+      "mechanism_strip": "USE: surface grammar supports synthesis only when tied to a monument.",
+      "answer_line": "surface grammar supports synthesis only when tied to a monument.",
+      "source_references": [
+        "Arabesque",
+        "Calligraphy",
+        "Local motifs"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BUILDING TYPES AND SOCIAL FUNCTIONS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BUILDING TYPES AND SOCIAL FUNCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CONGREGATION, RITUAL ORIENTATION AND COMMUNITY VISIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ELEVATED LANDMARK AND CALL-TO-PRAYER ASSOCIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BURIAL MEMORY, PATRONAGE AND SKYLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "LEARNING AND LEARNED PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "SUFI DISCIPLINE, TEACHING, HOSPITALITY AND COMMUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFENCE, RESIDENCE, SUPPLY, WATER AND POLITICAL THEATRE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MOSQUE → congregation, ritual orientation and community visibility",
+        "MINAR → elevated landmark and call-to-prayer association",
+        "TOMB → burial memory, patronage and skyline",
+        "MADRASA → learning and learned patronage",
+        "KHANQAH → Sufi discipline, teaching, hospitality and community"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MOSQUE → congregation, ritual orientation and community visibility",
+            "MINAR → elevated landmark and call-to-prayer association"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TOMB → burial memory, patronage and skyline",
+            "MADRASA → learning and learned patronage"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KHANQAH → Sufi discipline, teaching, hospitality and community",
+            "FORT / CITY → defence, residence, supply, water and political theatre."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORT / CITY → defence, residence, supply, water and political theatre.",
+      "source_references": [
+        "Mosque",
+        "Minar",
+        "Tomb",
+        "Madrasa",
+        "Khanqah"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LANGUAGE, LITERATURE AND MUSIC",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LANGUAGE, LITERATURE AND MUSIC",
+          "role": "primary"
+        },
+        {
+          "text": "COURT, ADMINISTRATION, DIPLOMACY AND CHRONICLES",
+          "role": "institution"
+        },
+        {
+          "text": "CONTINUING SCHOLARSHIP AND TEXTUAL PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL LANGUAGES",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPANDING LITERARY AND SOCIAL EXPRESSION",
+          "role": "primary"
+        },
+        {
+          "text": "AMIR KHUSRAU",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSIANATE-HINDAVI LITERARY EVIDENCE AND LINGUISTIC PLURALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "COURT, DEVOTIONAL AND REGIONAL CONTACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PERSIAN → court, administration, diplomacy and chronicles",
+        "SANSKRIT → continuing scholarship and textual production",
+        "REGIONAL LANGUAGES → expanding literary and social expression",
+        "AMIR KHUSRAU → Persianate-Hindavi literary evidence and linguistic plurality",
+        "MUSIC → court, devotional and regional contact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PERSIAN → court, administration, diplomacy and chronicles",
+            "SANSKRIT → continuing scholarship and textual production"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "REGIONAL LANGUAGES → expanding literary and social expression",
+            "AMIR KHUSRAU → Persianate-Hindavi literary evidence and linguistic plurality"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUSIC → court, devotional and regional contact",
+            "CAUTION: do not credit Khusrau with every later instrument or form."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: do not credit Khusrau with every later instrument or form.",
+      "source_references": [
+        "Persian",
+        "Regional languages",
+        "Amir Khusrau",
+        "Music"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE AND CONSERVATION LADDER",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE AND CONSERVATION LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "MONUMENT FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURE AND SPATIAL ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MOTIVE MAY BE UNCERTAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "PATRON, ACT, DATE OR FORMULA",
+          "role": "institution"
+        },
+        {
+          "text": "SELECTIVE PUBLIC CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "PATRONAGE AND ELITE VOCABULARY",
+          "role": "comparison"
+        },
+        {
+          "text": "GENRE AND COURT BIAS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "MONUMENT FORM → structure and spatial organisation",
+        "motive may be uncertain",
+        "INSCRIPTION → patron, act, date or formula",
+        "selective public claim",
+        "CHRONICLE → patronage and elite vocabulary"
+      ],
+      "matrix": [
+        [
+          "MONUMENT FORM → structure and spatial organisation",
+          "motive may be uncertain"
+        ],
+        [
+          "INSCRIPTION → patron, act, date or formula",
+          "selective public claim"
+        ],
+        [
+          "CHRONICLE → patronage and elite vocabulary",
+          "genre and court bias"
+        ],
+        [
+          "LEGEND → later memory",
+          "needs independent dating and corroboration"
+        ],
+        [
+          "UNESCO / ASI → current integrity and repair",
+          "not medieval provenance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "MONUMENT FORM → structure and spatial organisation",
+            "motive may be uncertain",
+            "INSCRIPTION → patron, act, date or formula",
+            "selective public claim"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "CHRONICLE → patronage and elite vocabulary",
+            "genre and court bias",
+            "LEGEND → later memory",
+            "needs independent dating and corroboration"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "UNESCO / ASI → current integrity and repair",
+            "not medieval provenance",
+            "METHOD → claim → named evidence → analysis → explicit qualification."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD → claim → named evidence → analysis → explicit qualification.",
+      "source_references": [
+        "Source criticism",
+        "Conservation",
+        "UNESCO"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 11 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 11 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CULTURAL FIELD SHAPED BY POWER, TECHNIQUE, LABOUR AND ADAPTATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRABEATE/ARCUATE, TRUE ARCH, DOME TRANSITION AND MORTAR",
+          "role": "comparison"
+        },
+        {
+          "text": "BENGAL, GUJARAT, MALWA AND JAUNPUR TRANSFORM THE REPERTOIRE",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONS + ORNAMENT + MULTILINGUAL LITERARY WORLDS",
+          "role": "primary"
+        },
+        {
+          "text": "NEW PLURAL IDIOMS EMERGED WITHOUT ERASING RUPTURE OR HIERARCHY.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OPEN → cultural field shaped by power, technique, labour and adaptation",
+        "TECHNIQUE → trabeate/arcuate, true arch, dome transition and mortar",
+        "SEQUENCE → reuse → Qutb/Iltutmish → Balban → Khalji → Tughlaq",
+        "REGION → Bengal, Gujarat, Malwa and Jaunpur transform the repertoire",
+        "CULTURE → institutions + ornament + multilingual literary worlds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → cultural field shaped by power, technique, labour and adaptation",
+            "TECHNIQUE → trabeate/arcuate, true arch, dome transition and mortar"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SEQUENCE → reuse → Qutb/Iltutmish → Balban → Khalji → Tughlaq",
+            "REGION → Bengal, Gujarat, Malwa and Jaunpur transform the repertoire"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CULTURE → institutions + ornament + multilingual literary worlds",
+            "CLOSE → new plural idioms emerged without erasing rupture or hierarchy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → new plural idioms emerged without erasing rupture or hierarchy.",
+      "source_references": [
+        "Answer architecture",
+        "Chronology",
+        "Qualified synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ART, ARCHITECTURE & CULTURE OF THE SULTANATE — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Art, Architecture & Culture of the Sultanate — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ PYQ-gap: Technical vocabulary",
+            "Quwwat-ul-Islam's arcaded courtyard used pillars from earlier temples; decoration avoided figural forms but used floral scrolls and Quranic verses.",
+            "The Turkish rulers used Indian craftsmen and later West Asian master architects; this produced a technical and aesthetic fusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

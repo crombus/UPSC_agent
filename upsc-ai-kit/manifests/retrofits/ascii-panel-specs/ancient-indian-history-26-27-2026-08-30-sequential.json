@@ -1,0 +1,472 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Ancient Indian History learner-v2 Topics 26-27",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-26",
+      "display_title": "From Ancient to Medieval: Social Change & Legacy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\26_From-Ancient-to-Medieval-Social-Change-and-Legacy_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "A multitrack transition, not one date",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 300-550 -> Gupta-Vakataka repertoires and widening land-grant practice",
+            "c. 550-750 -> post-Gupta polities, samantas and stronger regional houses",
+            "c. 750-1200 -> temple institutions, regional states and vernacular cultures",
+            "POLITICS -> AGRARIAN ORDER -> SOCIETY -> RELIGION -> LANGUAGE",
+            "Each track changes at a different speed and in a different region.",
+            "RULE: 1206 is not the single birth date of medieval India."
+          ],
+          "source_references": [
+            "Scope",
+            "Periodisation",
+            "Regional chronologies"
+          ]
+        },
+        {
+          "title": "Continuity, change and regional variation",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CONTINUITY -> Sanskrit prestige, inherited law, pilgrimage and sacred centres",
+            "CHANGE -> distributed sovereignty, denser grants and temple-centred institutions",
+            "REGIONAL VARIATION -> Bengal != Rajasthan != Deccan != Tamil country",
+            "DECLINE -> selected older towns, coin streams and political centres contract",
+            "CREATION -> new capitals, markets, settlements and literary cultures emerge",
+            "VERDICT: transition means reorganisation, not uniform rupture or stasis."
+          ],
+          "source_references": [
+            "Periodisation",
+            "Regionalisation",
+            "Historical significance"
+          ]
+        },
+        {
+          "title": "Imperial concentration to regional sovereignty",
+          "structural_type": "layered-sovereignty",
+          "ascii_lines": [
+            "LARGE IMPERIAL CORE WEAKENS",
+            "          |",
+            "regional dynasties + feudatories + marriage + warfare",
+            "          |",
+            "KING -> SAMANTA -> DISTRICT / LOCALITY -> VILLAGE",
+            "          |",
+            "tribute, military service, grants and negotiated obedience",
+            "TENSION: integration can enlarge both royal reach and local landed power."
+          ],
+          "source_references": [
+            "Political change",
+            "Samantas",
+            "Distributed sovereignty"
+          ]
+        },
+        {
+          "title": "Land grant: charter to ground effects",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ROYAL OR LOCAL CLAIM OVER LAND",
+            "          |",
+            "brahmadeya / agrahara / devadana grant with boundaries and exemptions",
+            "          |",
+            "beneficiary rights + fiscal reassignment + local intermediaries",
+            "          |",
+            "settlement, cultivation, hierarchy and institutional endowment",
+            "LIMIT: charter rhetoric proves a claim; implementation needs other evidence."
+          ],
+          "source_references": [
+            "Land grants",
+            "Brahmadeya",
+            "Devadana",
+            "Charter evidence"
+          ]
+        },
+        {
+          "title": "Agrarian frontier and social incorporation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FOREST / PASTORAL / CULTIVATED ZONES",
+            "          |",
+            "irrigation + plough expansion + grants + temples + new settlements",
+            "          |",
+            "chiefs, peasants, Brahmanas, artisans and labour groups negotiate place",
+            "          |",
+            "surplus extraction + ranked rights + new regional political society",
+            "CAUTION: incorporation could create mobility and deepen exclusion together."
+          ],
+          "source_references": [
+            "Agrarian expansion",
+            "Frontiers",
+            "Social incorporation"
+          ]
+        },
+        {
+          "title": "Indian feudalism debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "R. S. SHARMA -> grants, intermediaries, landlordism and reduced mobility",
+            "D. D. KOSAMBI -> change from above and below; social-formation approach",
+            "HAR BANS MUKHIA -> warns against mechanical European manor-serf transfer",
+            "REGIONAL STUDIES -> chronology, ecology and exchange vary substantially",
+            "USEFUL CORE -> ask who controlled land, surplus, labour and armed force",
+            "VERDICT: use feudalism as a tested model, not a universal label."
+          ],
+          "source_references": [
+            "Feudalism debate",
+            "R. S. Sharma",
+            "Kosambi",
+            "Mukhia"
+          ]
+        },
+        {
+          "title": "Trade, money and town transformation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONTRACTION CLAIM              TRANSFORMATION CLAIM",
+            "selected coin decline           monetisation varies by region",
+            "older urban centres weaken      new capitals and temple towns emerge",
+            "some long routes contract       coastal and regional exchange continues",
+            "merchant visibility changes     guilds and markets persist unevenly",
+            "SYNTHESIS -> old urban forms decline while new nodes and circuits grow."
+          ],
+          "source_references": [
+            "Economy",
+            "Monetisation",
+            "Urban-decline debate"
+          ]
+        },
+        {
+          "title": "Varna text and jati process",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "VARNA -> normative fourfold vocabulary in prescriptive texts",
+            "JATI -> numerous lived, occupational and regional social groups",
+            "MOBILITY -> rulers and communities seek ranked identities and genealogies",
+            "EXCLUSION -> untouchability and unequal labour become more visible",
+            "EVIDENCE -> law text + inscription + donation + settlement + material record",
+            "TRAP: a normative text is not a demographic census."
+          ],
+          "source_references": [
+            "Varna",
+            "Jati",
+            "Mobility",
+            "Exclusion"
+          ]
+        },
+        {
+          "title": "Brahmanisation, localisation, gender and frontier",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "BRAHMANICAL IDIOMS <-> local cults, chiefs and community practice",
+            "GENEALOGY + RITUAL + GRANT -> political legitimation",
+            "LOCAL DEITIES + CUSTOM -> reshape received Sanskritic forms",
+            "WOMEN -> queens and donors visible; ordinary labour remains under-recorded",
+            "FRONTIER GROUPS -> incorporation, resistance and layered identity",
+            "VERDICT: cultural change is multidirectional, unequal and locally remade."
+          ],
+          "source_references": [
+            "Brahmanisation",
+            "Localisation",
+            "Gender",
+            "Frontier societies"
+          ]
+        },
+        {
+          "title": "Religion and temple as institution",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "TEMPLE",
+            "  |-- sacred centre: ritual, bhakti and pilgrimage",
+            "  |-- landholder: grants, fields and irrigation rights",
+            "  |-- employer: priests, artisans, dancers and service groups",
+            "  |-- redistributor: food, gifts, credit and festival expenditure",
+            "  `-- archive: inscriptions preserve donors, taxes and local decisions",
+            "PLURAL FIELD -> Puranic, Buddhist, Jaina, tantric and local traditions."
+          ],
+          "source_references": [
+            "Religion",
+            "Bhakti",
+            "Temple institutions"
+          ]
+        },
+        {
+          "title": "Language, knowledge and regional cultures",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SANSKRIT COSMOPOLIS -> portable prestige, genealogy and political idiom",
+            "          |",
+            "Tamil, Kannada, Telugu, Bengali and other literary worlds deepen",
+            "          |",
+            "translation + commentary + inscription + devotional performance",
+            "          |",
+            "regional cultures become locally rooted yet interregionally connected",
+            "CONTINUITY: Sanskrit does not vanish. CHANGE: vernacular agency expands."
+          ],
+          "source_references": [
+            "Language",
+            "Vernacularisation",
+            "Knowledge traditions"
+          ]
+        },
+        {
+          "title": "Evidence-led synthesis answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> define early medieval as an uneven transition",
+            "POLITY -> regional states + samantas + negotiated sovereignty",
+            "ECONOMY -> grants + agrarian expansion + transformed exchange and towns",
+            "SOCIETY -> jati, mobility, exclusion, gender and frontier incorporation",
+            "CULTURE -> temple institutions + bhakti + vernacularisation",
+            "DEBATE -> test feudalism against regional evidence",
+            "CLOSE -> ancient legacies survive through transformation and reinvention."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Legacy",
+            "Answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-27",
+      "display_title": "Imperial Cholas: State, Society, Economy & Maritime Power",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\27_Imperial-Cholas-State-Society-Economy-Maritime-Power_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Ruler chronology and turning points",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 850 -> Vijayalaya secures Tanjavur and a lower-Kaveri foothold",
+            "949 -> Takkolam marks a major setback under Parantaka I",
+            "985-1014 -> Rajaraja I expands, surveys and builds Brihadisvara",
+            "1012-1044 -> Rajendra I; Gangaikondacholapuram and 1025 expedition",
+            "1070 onward -> Kulottunga I links Chola and Eastern Chalukya lines",
+            "13th c. -> Pandya resurgence and other pressures end imperial primacy."
+          ],
+          "source_references": [
+            "Chronology",
+            "Ruler sequence",
+            "Decline"
+          ]
+        },
+        {
+          "title": "Political geography as zones",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "DIRECT CORE -> lower Kaveri delta, Tanjavur and royal-temple centres",
+            "ANNEXED ZONES -> Tondaimandalam and changing southern territories",
+            "CONTESTED BELTS -> Pandya, Chera and western Deccan frontiers",
+            "DYNASTIC HINGE -> Vengi and Eastern Chalukya marriage politics",
+            "ISLAND CONTROL -> stronger and longer in northern Sri Lanka",
+            "MARITIME ARC -> Maldives and Srivijaya targets; not mainland-style provinces."
+          ],
+          "source_references": [
+            "Political geography",
+            "Expansion",
+            "Owner boundaries"
+          ]
+        },
+        {
+          "title": "Kaveri ecology to imperial capacity",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "KAVERI WATER + DELTA SOILS",
+            "          |",
+            "tanks, channels, bunds and coordinated irrigation",
+            "          |",
+            "wet-rice surplus + dense settlement + taxable agrarian base",
+            "          |",
+            "temples, armies, officials and monumental building",
+            "          |",
+            "imperial projection inland and across the Bay of Bengal",
+            "LIMIT: ecology enabled power; institutions and coercion organised it."
+          ],
+          "source_references": [
+            "Kaveri delta",
+            "Irrigation",
+            "Agrarian core"
+          ]
+        },
+        {
+          "title": "State hierarchy and local institutions",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / ROYAL HOUSE",
+            "   -> mandalam",
+            "      -> valanadu",
+            "         -> nadu",
+            "            -> ur / sabha / nagaram",
+            "UR -> general village assembly",
+            "SABHA -> Brahmadeya corporate body",
+            "NAGARAM -> merchant or market-centred body",
+            "VERDICT: royal command and locality institutions operated together unequally."
+          ],
+          "source_references": [
+            "Administration",
+            "Ur",
+            "Sabha",
+            "Nagaram"
+          ]
+        },
+        {
+          "title": "Uttaramerur without the democracy myth",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ELIGIBLE LOCAL NOTABLES -> qualifications and disqualifications",
+            "          |",
+            "WARD NOMINATIONS -> names placed on tickets",
+            "          |",
+            "KUDAVOLAI -> pot-ticket selection for committees",
+            "          |",
+            "COMMITTEE SERVICE -> rotation, accounts and removal rules",
+            "SECURE CLAIM: sophisticated sabha procedure",
+            "LIMIT: restricted Brahmadeya participation, not universal adult franchise."
+          ],
+          "source_references": [
+            "Uttaramerur",
+            "Kudavolai",
+            "Local power"
+          ]
+        },
+        {
+          "title": "Land, revenue and social differentiation",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "LAND -> surveyed, classified, endowed and taxed through varied rights",
+            "REVENUE -> land dues plus labour, produce and transaction-linked demands",
+            "POWER -> vellala landholders, Brahmana bodies, temples and royal agents",
+            "PRODUCTION -> cultivators, artisans, herders and service communities",
+            "EXCLUSION -> unequal status and segregated labour remain visible",
+            "GENDER -> queens and temple donors appear more clearly than ordinary women."
+          ],
+          "source_references": [
+            "Agrarian economy",
+            "Revenue",
+            "Society",
+            "Gender"
+          ]
+        },
+        {
+          "title": "Temple, monument and institutional power",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "BRIHADISVARA / OTHER GREAT TEMPLES",
+            "  |-- royal ideology and public monumentality",
+            "  |-- endowed land, lamps, food and ritual services",
+            "  |-- employment for specialists, artisans and performers",
+            "  |-- inscriptions recording donors, taxes and institutional decisions",
+            "  `-- living worship across later political periods",
+            "RULE: read architecture together with surplus, labour and authority."
+          ],
+          "source_references": [
+            "Temples",
+            "Brihadisvara",
+            "Great Living Chola Temples"
+          ]
+        },
+        {
+          "title": "Bronzes, religion and language",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "LOST-WAX CASTING -> individually modelled processional icons",
+            "NATARAJA -> theology, movement, ritual use and technical mastery",
+            "SHAIVA BHAKTI -> temple liturgy and Nayanmar memory",
+            "VAISHNAVA / BUDDHIST / JAINA -> plural but uneven institutional presence",
+            "TAMIL + SANSKRIT -> bilingual political, devotional and learned culture",
+            "PROVENANCE RULE -> an art object also has a temple and ownership history."
+          ],
+          "source_references": [
+            "Bronzes",
+            "Nataraja",
+            "Religion",
+            "Language"
+          ]
+        },
+        {
+          "title": "Guilds, ports and Bay of Bengal exchange",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "KAVERI HINTERLAND -> produce, textiles, metalwork and temple demand",
+            "          |",
+            "NAGAPATTINAM + OTHER PORTS",
+            "          |",
+            "merchant bodies: Ayyavole / Manigramam / Anjuvannam",
+            "          |",
+            "SRI LANKA -> MALDIVES -> STRAITS -> SOUTHEAST ASIA -> CHINA",
+            "MONSOON + SHIPPING + CREDIT + DIPLOMACY sustain movement",
+            "LIMIT: trade networks were not simply state-owned fleets."
+          ],
+          "source_references": [
+            "Merchant guilds",
+            "Ports",
+            "Indian Ocean trade"
+          ]
+        },
+        {
+          "title": "Sri Lanka and Srivijaya: coercion with limits",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SRI LANKA                       SRIVIJAYA, 1025",
+            "territorial conquest            rapid strike on linked centres",
+            "provincial administration       no durable mainland-style province",
+            "long resistance and reconquest  commercial-strategic signalling",
+            "stronger northern control       target list from Chola inscription",
+            "COMMON POINT -> maritime logistics and royal coercive capacity",
+            "CAUTION -> expeditionary success != permanent oceanic empire."
+          ],
+          "source_references": [
+            "Sri Lanka",
+            "Srivijaya campaign",
+            "Maritime power"
+          ]
+        },
+        {
+          "title": "How historians model the Chola state",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CENTRALISED VIEW -> strong monarchy, hierarchy, survey and taxation",
+            "BURTON STEIN -> segmentary state and ritually radiating sovereignty",
+            "KARASHIMA / SUBBARAYALU -> inscription-led locality, land and social analysis",
+            "NEGOTIATED MODEL -> royal force + temple + nadu + sabha + local elites",
+            "BEST USE -> compare evidence by region and reign",
+            "VERDICT: neither perfect bureaucracy nor autonomous village republic."
+          ],
+          "source_references": [
+            "Historiography",
+            "Stein",
+            "Karashima",
+            "Subbarayalu"
+          ]
+        },
+        {
+          "title": "Decline, legacy and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "CAUSES -> succession strains + frontier wars + Pandya resurgence",
+            "        + Hoysala pressure + locality and resource shifts",
+            "END OF EMPIRE != end of temples, irrigation, Tamil culture or trade",
+            "OPEN -> Kaveri-centred agrarian-imperial-commercial formation",
+            "BODY -> state/locality + economy/society + temple/culture + maritime reach",
+            "QUALIFY -> inscriptions are elite; sea power was selective",
+            "CLOSE -> durable regional institutions outlasted imperial primacy."
+          ],
+          "source_references": [
+            "Decline",
+            "Legacy",
+            "Answer architecture"
+          ]
+        }
+      ]
+    }
+  ]
+}

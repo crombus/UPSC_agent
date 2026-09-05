@@ -1,0 +1,40 @@
+{
+  "record_id": "qualifying-hindi-subject-master:learner-v2:g1",
+  "topic_key": "qualifying-hindi-subject-master",
+  "subject": "Qualifying-Hindi",
+  "section": "Subject-Wide-Package",
+  "title": "UPSC अनिवार्य हिन्दी सम्पूर्ण कौशल पैकेज",
+  "variant": "learner-v2",
+  "generation": 1,
+  "command": "Generate Qualifying-Hindi subject-wide skills package",
+  "main_pdf": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g1\\Qualifying-Hindi_Complete-Skills-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g1\\Qualifying-Hindi_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Qualifying-Hindi\\Subject-Wide-Package\\g1\\Qualifying-Hindi_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Complete-Skills-Guide.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Workbook.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "format": {
+    "name": "qualifying-language-subject-package-v1",
+    "learning_sessions": 0,
+    "guide_source_sections": 12,
+    "practice_papers": 3,
+    "matching_solution_keys": 3,
+    "guide_pages": 37,
+    "workbook_pages": 10,
+    "solutions_pages": 13,
+    "empty_pdf_pages": 0
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "qualifying-hindi-subject-master:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "tools/publish_language_master_packages.py"
+  },
+  "refresh_profile": "qualifying-language-subject-package-v1"
+}

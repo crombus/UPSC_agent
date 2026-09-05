@@ -1,0 +1,1142 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-01",
+  "subject": "Indian-Art-and-Culture",
+  "title": "ARCHITECTURE FOUNDATIONS AND HARAPPAN URBANISM",
+  "short_route": "ARCHITECTURE READING METHOD → HARAPPAN CITY GRID → TWO-PART SETTLEMENT → BRICK-TO-AUTHORITY CHAIN → DRAINAGE AS A NETWORK → GREAT BATH EVIDENCE TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-01-deep-review-2026-09-04-g6.json",
+  "ascii_spec_sha256": "0396af6332bd8d8f3c213ae548e93c4f79db12713005c2c6464a5ee06446fbbd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARCHITECTURE READING METHOD",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARCHITECTURE READING METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "BRICK, STONE, MORTAR AND FINISH",
+          "role": "outcome"
+        },
+        {
+          "text": "GRID, ZONING, CIRCULATION AND WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC, CIVIC, STORAGE OR RITUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "FORM IS NOT AN INSCRIPTION",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "HARAPPAN ARCHITECTURE JOINS RIGHT-ANGLED STREET GRIDS, CITADEL-LOWER-TOWN ZONING, STANDARDISED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MATERIAL → brick, stone, mortar and finish",
+        "PLAN → grid, zoning, circulation and water",
+        "FUNCTION → domestic, civic, storage or ritual",
+        "EVIDENCE LIMIT → form is not an inscription",
+        "MUST REMEMBER: Harappan architecture joins right-angled street grids, citadel-lower-town zoning, standardised burnt brick, house-to-street"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MATERIAL → brick, stone, mortar and finish",
+            "PLAN → grid, zoning, circulation and water"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FUNCTION → domestic, civic, storage or ritual",
+            "EVIDENCE LIMIT → form is not an inscription"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Harappan architecture joins right-angled street grids, citadel-lower-town zoning, standardised burnt brick, house-to-street",
+            "drainage, wells, baths and regionally adapted water systems at sites such as Dholavira."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Harappan architecture joins right-angled street grids, citadel-lower-town zoning, standardised burnt brick, house-to-street drainage, wells, baths and regionally adapted water systems at sites such as Dholavira.",
+      "source_references": [
+        "How to read architecture",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HARAPPAN CITY GRID",
+      "structural_type": "spatial-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HARAPPAN CITY GRID",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-SOUTH STREET",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNED URBAN AXIS",
+          "role": "comparison"
+        },
+        {
+          "text": "EAST-WEST STREET",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHT-ANGLE CROSSING",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSES AND FACILITIES ORGANISED",
+          "role": "outcome"
+        },
+        {
+          "text": "PRE-PLANNING, NOT A NAMED RULER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NORTH-SOUTH STREET → planned urban axis",
+        "EAST-WEST STREET → right-angle crossing",
+        "BLOCKS → houses and facilities organised",
+        "INFERENCE → pre-planning, not a named ruler"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORTH-SOUTH STREET → planned urban axis",
+          "BLOCKS → houses and facilities organised",
+          "NORTH-SOUTH STREET → planned urban axis"
+        ],
+        [
+          "EAST-WEST STREET → right-angle crossing",
+          "INFERENCE → pre-planning, not a named ruler",
+          "EAST-WEST STREET → right-angle crossing"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORTH-SOUTH STREET → planned urban axis",
+            "EAST-WEST STREET → right-angle crossing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLOCKS → houses and facilities organised",
+            "INFERENCE → pre-planning, not a named ruler"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORTH-SOUTH STREET → planned urban axis",
+            "EAST-WEST STREET → right-angle crossing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLOCKS → houses and facilities organised; INFERENCE → pre-planning, not a named ruler.",
+      "source_references": [
+        "Grid planning and pre-planning",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO-PART SETTLEMENT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO-PART SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RAISED WESTERN PUBLIC ZONE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER TOWN",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGER RESIDENTIAL ZONE",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSE SIZE",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENTIATION IS VISIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE HIERARCHY IS NOT PROVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CITADEL → raised western public zone",
+        "LOWER TOWN → larger residential zone",
+        "HOUSE SIZE → differentiation is visible",
+        "CAUTION → caste hierarchy is not proved"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CITADEL → raised western public zone",
+          "HOUSE SIZE → differentiation is visible",
+          "CITADEL → raised western public zone"
+        ],
+        [
+          "LOWER TOWN → larger residential zone",
+          "CAUTION → caste hierarchy is not proved",
+          "LOWER TOWN → larger residential zone"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CITADEL → raised western public zone",
+            "LOWER TOWN → larger residential zone"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOUSE SIZE → differentiation is visible",
+            "CAUTION → caste hierarchy is not proved"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CITADEL → raised western public zone",
+            "LOWER TOWN → larger residential zone"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HOUSE SIZE → differentiation is visible; CAUTION → caste hierarchy is not proved.",
+      "source_references": [
+        "Citadel and lower town",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BRICK-TO-AUTHORITY CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRICK-TO-AUTHORITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STANDARD BRICK",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATABLE CONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GYPSUM MORTAR",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINED LAYERED MASONRY",
+          "role": "primary"
+        },
+        {
+          "text": "DISTANT SITES",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED TECHNICAL NORM",
+          "role": "comparison"
+        },
+        {
+          "text": "NO PROVEN CENTRALISED EMPIRE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STANDARD BRICK → repeatable construction",
+        "GYPSUM MORTAR → joined layered masonry",
+        "DISTANT SITES → shared technical norm",
+        "LIMIT → no proven centralised empire"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STANDARD BRICK → repeatable construction",
+            "GYPSUM MORTAR → joined layered masonry"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTANT SITES → shared technical norm",
+            "LIMIT → no proven centralised empire"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STANDARD BRICK → repeatable construction",
+            "GYPSUM MORTAR → joined layered masonry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTANT SITES → shared technical norm; LIMIT → no proven centralised empire.",
+      "source_references": [
+        "Brick modules and coordination",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DRAINAGE AS A NETWORK",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DRAINAGE AS A NETWORK",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL HOUSEHOLD DRAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGER COVERED DRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "SEDIMENT CAPTURED",
+          "role": "evidence"
+        },
+        {
+          "text": "REMOVABLE COVER",
+          "role": "primary"
+        },
+        {
+          "text": "REGULAR CLEANING POSSIBLE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BATHROOM → small household drain",
+        "STREET → larger covered drain",
+        "CESSPIT → sediment captured",
+        "REMOVABLE COVER → regular cleaning possible"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BATHROOM → small household drain",
+            "STREET → larger covered drain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CESSPIT → sediment captured",
+            "REMOVABLE COVER → regular cleaning possible"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BATHROOM → small household drain",
+            "STREET → larger covered drain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CESSPIT → sediment captured; REMOVABLE COVER → regular cleaning possible.",
+      "source_references": [
+        "The drainage network",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GREAT BATH EVIDENCE TEST",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GREAT BATH EVIDENCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "TANK WITH SURROUNDING ROOMS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLECTIVE PUBLIC WATER STRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CEREMONIAL OR RITUAL CLEANSING",
+          "role": "primary"
+        },
+        {
+          "text": "NO INVENTED PRIESTHOOD OR RITE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FORM → tank with surrounding rooms",
+        "DIRECT CLAIM → collective public water structure",
+        "INFERENCE → ceremonial or ritual cleansing",
+        "PROHIBITION → no invented priesthood or rite"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FORM → tank with surrounding rooms",
+          "INFERENCE → ceremonial or ritual cleansing",
+          "FORM → tank with surrounding rooms"
+        ],
+        [
+          "DIRECT CLAIM → collective public water structure",
+          "PROHIBITION → no invented priesthood or rite",
+          "DIRECT CLAIM → collective public water structure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORM → tank with surrounding rooms",
+            "DIRECT CLAIM → collective public water structure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INFERENCE → ceremonial or ritual cleansing",
+            "PROHIBITION → no invented priesthood or rite"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FORM → tank with surrounding rooms",
+            "DIRECT CLAIM → collective public water structure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INFERENCE → ceremonial or ritual cleansing; PROHIBITION → no invented priesthood or rite.",
+      "source_references": [
+        "Great Bath and ritual inference",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NAMING PUBLIC STRUCTURES",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NAMING PUBLIC STRUCTURES",
+          "role": "primary"
+        },
+        {
+          "text": "RAISED PLATFORM + AIR DUCTS",
+          "role": "outcome"
+        },
+        {
+          "text": "STORAGE LIKELY",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERN LABEL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVENTIONALLY CALLED GRANARY",
+          "role": "primary"
+        },
+        {
+          "text": "NO INSCRIPTION",
+          "role": "caution"
+        },
+        {
+          "text": "FUNCTION REMAINS DEBATED",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT SECURELY IDENTIFIED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RAISED PLATFORM + AIR DUCTS → storage likely",
+        "MODERN LABEL → conventionally called granary",
+        "NO INSCRIPTION → function remains debated",
+        "PALACE/TEMPLE → not securely identified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAISED PLATFORM + AIR DUCTS → storage likely",
+            "MODERN LABEL → conventionally called granary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NO INSCRIPTION → function remains debated",
+            "PALACE/TEMPLE → not securely identified"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RAISED PLATFORM + AIR DUCTS → storage likely",
+            "MODERN LABEL → conventionally called granary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RAISED PLATFORM + AIR DUCTS → storage likely.",
+      "source_references": [
+        "Public buildings and labels",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REGIONAL URBAN SOLUTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL URBAN SOLUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT BATH AND DRAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "FORTIFICATIONS AND RESERVOIRS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBATED BASIN",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINCT LOCAL PLANS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MOHENJO-DARO → Great Bath and drains",
+        "DHOLAVIRA → fortifications and reservoirs",
+        "LOTHAL → debated basin",
+        "KALIBANGAN/HARAPPA → distinct local plans"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MOHENJO-DARO → Great Bath and drains",
+          "LOTHAL → debated basin",
+          "MOHENJO-DARO → Great Bath and drains"
+        ],
+        [
+          "DHOLAVIRA → fortifications and reservoirs",
+          "KALIBANGAN/HARAPPA → distinct local plans",
+          "DHOLAVIRA → fortifications and reservoirs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOHENJO-DARO → Great Bath and drains",
+            "DHOLAVIRA → fortifications and reservoirs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOTHAL → debated basin",
+            "KALIBANGAN/HARAPPA → distinct local plans"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MOHENJO-DARO → Great Bath and drains",
+            "DHOLAVIRA → fortifications and reservoirs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOTHAL → debated basin; KALIBANGAN/HARAPPA → distinct local plans.",
+      "source_references": [
+        "Dholavira's regional solution",
+        "Lothal, Harappa and Kalibangan",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVIDENCE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "GRID, BRICK, DRAIN AND RESERVOIR",
+          "role": "outcome"
+        },
+        {
+          "text": "STORAGE AND FUNCTIONAL ZONING",
+          "role": "comparison"
+        },
+        {
+          "text": "PRECISE HIERARCHY AND AUTHORITY FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED KING, TEMPLE OR STATE FAITH",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STRONG → grid, brick, drain and reservoir",
+        "MODERATE → storage and functional zoning",
+        "WEAK → precise hierarchy and authority form",
+        "UNSUPPORTED → named king, temple or state faith"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRONG → grid, brick, drain and reservoir",
+            "MODERATE → storage and functional zoning"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEAK → precise hierarchy and authority form",
+            "UNSUPPORTED → named king, temple or state faith"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRONG → grid, brick, drain and reservoir",
+            "MODERATE → storage and functional zoning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNSUPPORTED → named king, temple or state faith.",
+      "source_references": [
+        "The script and inference ceiling",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CIVIC AND MONUMENTAL CONTRAST",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CIVIC AND MONUMENTAL CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "STREETS, WELLS, BATHS AND DRAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL-SACRED MONUMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENT VISIBLE INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESERVATION AND NAMING BIASES REMAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE GREAT BATH'S COLLECTIVE WATER FUNCTION IS SECURE BUT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "HARAPPAN → streets, wells, baths and drains",
+        "EGYPT/MESOPOTAMIA → royal-sacred monuments",
+        "ANALYSIS → different visible investment",
+        "QUALIFY → preservation and naming biases remain",
+        "CLOSE DISTINCTION: The Great Bath's collective water function is secure but ritual cleansing is inferential"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HARAPPAN → streets, wells, baths and drains",
+          "ANALYSIS → different visible investment",
+          "CLOSE DISTINCTION: The Great Bath's collective water function is secure but ritual cleansing is inferential"
+        ],
+        [
+          "EGYPT/MESOPOTAMIA → royal-sacred monuments",
+          "QUALIFY → preservation and naming biases remain",
+          "'granary' and Lothal 'dockyard' are conventional or debated labels, while no palace or temple is securely identified."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HARAPPAN → streets, wells, baths and drains",
+            "EGYPT/MESOPOTAMIA → royal-sacred monuments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSIS → different visible investment",
+            "QUALIFY → preservation and naming biases remain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The Great Bath's collective water function is secure but ritual cleansing is inferential",
+            "'granary' and Lothal 'dockyard' are conventional or debated labels, while no palace or temple is securely identified."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The Great Bath's collective water function is secure but ritual cleansing is inferential; 'granary' and Lothal 'dockyard' are conventional or debated labels, while no palace or temple is securely identified.",
+      "source_references": [
+        "Civic versus monumental comparison",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WATER ARCHITECTURE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WATER ARCHITECTURE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SETTLEMENT SUPPLY AND SANITATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARID STORAGE AND PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMPLE TANK",
+          "role": "evidence"
+        },
+        {
+          "text": "RITUAL AND PROCESSIONAL SPACE",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED WATER DOES NOT PROVE DESCENT",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STANDARDISATION SUPPORTS COORDINATION OR A SHARED TECHNICAL CULTURE, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HARAPPAN → settlement supply and sanitation",
+        "STEPWELL → arid storage and patronage",
+        "TEMPLE TANK → ritual and processional space",
+        "RULE → shared water does not prove descent",
+        "EVIDENCE LIMIT: Standardisation supports coordination or a shared technical culture, not proof of one"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HARAPPAN → settlement supply and sanitation",
+          "TEMPLE TANK → ritual and processional space",
+          "EVIDENCE LIMIT: Standardisation supports coordination or a shared technical culture, not proof of one"
+        ],
+        [
+          "STEPWELL → arid storage and patronage",
+          "RULE → shared water does not prove descent",
+          "centralised empire, caste zoning, named rulers or religious institutions while the script remains undeciphered."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HARAPPAN → settlement supply and sanitation",
+            "STEPWELL → arid storage and patronage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEMPLE TANK → ritual and processional space",
+            "RULE → shared water does not prove descent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Standardisation supports coordination or a shared technical culture, not proof of one",
+            "centralised empire, caste zoning, named rulers or religious institutions while the script remains undeciphered."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → shared water does not prove descent.",
+      "source_references": [
+        "PYQ and water-architecture boundaries",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "HARAPPAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HARAPPAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CIVIC URBANISM THESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "GRID, ZONING, DRAINAGE AND BRICK",
+          "role": "comparison"
+        },
+        {
+          "text": "DHOLAVIRA, LOTHAL AND MONUMENTALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO CONFIRMED PALACE OR TEMPLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → civic urbanism thesis",
+        "BODY → grid, zoning, drainage and brick",
+        "COMPARE → Dholavira, Lothal and monumentality",
+        "CLOSE → no confirmed palace or temple"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → civic urbanism thesis",
+            "BODY → grid, zoning, drainage and brick"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → Dholavira, Lothal and monumentality",
+            "CLOSE → no confirmed palace or temple"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → civic urbanism thesis",
+            "BODY → grid, zoning, drainage and brick"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → Dholavira, Lothal and monumentality; CLOSE → no confirmed palace or temple.",
+      "source_references": [
+        "Complete answer architecture",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g6\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NO BOOK-PERIOD CLAIM IN THIS TOPIC REQUIRES URGENT CURRENT",
+          "role": "caution"
+        },
+        {
+          "text": "TREATING \"MIGHT HAVE BEEN THE RESIDENCE OF RULERS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSERTING A SPECIFIC POLITICAL STRUCTURE (E.G. \"A CENTRALISED HARAPPAN",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATING THE ABSENCE OF TEMPLES/PALACES AS EVIDENCE OF AN",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVERTING CONVENTIONAL ARCHAEOLOGICAL NAMES INTO PROVEN FUNCTIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "READING THE SO-CALLED PASHUPATI SEAL AS DEFINITIVE PROOF OF",
+          "role": "comparison"
+        },
+        {
+          "text": "ANCIENT HISTORY OWNS IVC CHRONOLOGY, DECLINE THEORIES, THE SCRIPT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "No book-period claim in this topic requires urgent current",
+            "NOT: Treating \"might have been the residence of rulers and aristocrats\"",
+            "NOT: Asserting a specific political structure (e.g. \"a centralised Harappan",
+            "NOT: Treating the absence of temples/palaces as evidence of an areligious"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Converting conventional archaeological names into proven functions.",
+            "NOT: Reading the so-called Pashupati seal as definitive proof of Shiva.",
+            "NOT: Ancient History owns IVC chronology, decline theories, the script",
+            "NOT: Science & Technology or Geography would own any question on"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "This file's evidentiary-caution method (Section 4) is reused whenever",
+            "00 Master-Framework.md Sections 4-5 — the evidence hierarchy and",
+            "CAUTION: Downstream topics: Topic 02 extends the architecture timeline;",
+            "Verified against Nitin — pdf , PDF pp. 30-40 directly."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

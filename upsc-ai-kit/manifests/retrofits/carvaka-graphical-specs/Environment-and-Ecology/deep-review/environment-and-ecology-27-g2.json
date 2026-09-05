@@ -1,0 +1,1144 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-27",
+  "subject": "Environment-and-Ecology",
+  "title": "ENVIRONMENTAL INSTITUTIONS (MOEFCC, CPCB, NBA, WII)",
+  "short_route": "INSTITUTION-TYPE COMPASS → MOEFCC ROLE MAP → CPCB NATIONAL RAIL → STANDARDS-CONSENT FIREWALL → BIODIVERSITY GOVERNANCE LADDER → PBR-TO-ABS SEQUENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-27-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "4abff8f96af747b5dfc829296e339f2a101991f447ff28132c78e63d0396ac05",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INSTITUTION-TYPE COMPASS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTION-TYPE COMPASS",
+          "role": "institution"
+        },
+        {
+          "text": "POLICY ADMINISTRATION AND COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY BOARD OR AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ACT-DEFINED FUNCTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "RESEARCH INSTITUTE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE TRAINING AND ADVISORY WORK",
+          "role": "evidence"
+        },
+        {
+          "text": "ENFORCEMENT BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATION OR OPERATIONAL COMPLIANCE ROLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MINISTRY → policy administration and coordination",
+        "STATUTORY BOARD OR AUTHORITY → Act-defined functions",
+        "RESEARCH INSTITUTE → evidence training and advisory work",
+        "ENFORCEMENT BODY → investigation or operational compliance role",
+        "TRIBUNAL → adjudication within statutory jurisdiction"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MINISTRY → policy administration and coordination",
+          "RESEARCH INSTITUTE → evidence training and advisory work",
+          "TRIBUNAL → adjudication within statutory jurisdiction"
+        ],
+        [
+          "STATUTORY BOARD OR AUTHORITY → Act-defined functions",
+          "ENFORCEMENT BODY → investigation or operational compliance role",
+          "MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MINISTRY → policy administration and coordination",
+            "STATUTORY BOARD OR AUTHORITY → Act-defined functions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESEARCH INSTITUTE → evidence training and advisory work",
+            "ENFORCEMENT BODY → investigation or operational compliance role"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRIBUNAL → adjudication within statutory jurisdiction",
+            "MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,.",
+      "source_references": [
+        "Institution-type boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MOEFCC ROLE MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MOEFCC ROLE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UNION MINISTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXECUTIVE POLICY INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "LAW AND RULE ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBJECT TO STATUTORY ALLOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMME AND INTERNATIONAL COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBORDINATE OR AUTONOMOUS BODIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNION MINISTRY → executive policy institution",
+        "LAW AND RULE ADMINISTRATION → subject to statutory allocation",
+        "PROGRAMME AND INTERNATIONAL COORDINATION → ministry function",
+        "SUBORDINATE OR AUTONOMOUS BODIES → separate legal identities",
+        "RULE → ministry is not every field regulator"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNION MINISTRY → executive policy institution",
+            "LAW AND RULE ADMINISTRATION → subject to statutory allocation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROGRAMME AND INTERNATIONAL COORDINATION → ministry function",
+            "SUBORDINATE OR AUTONOMOUS BODIES → separate legal identities"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → ministry is not every field regulator",
+            "UNION MINISTRY → executive policy institution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → ministry is not every field regulator.",
+      "source_references": [
+        "MoEFCC ministry role",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CPCB NATIONAL RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CPCB NATIONAL RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "ADVISE CENTRAL GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL POLICY INPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATE STATE BOARDS",
+          "role": "institution"
+        },
+        {
+          "text": "INTER-BOARD FUNCTION",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL SUPPORT AND RESEARCH",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY AND EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DATA GUIDELINES AND STANDARDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVISE CENTRAL GOVERNMENT → national policy input",
+        "COORDINATE STATE BOARDS → inter-board function",
+        "TECHNICAL SUPPORT AND RESEARCH → capacity and evidence",
+        "DATA GUIDELINES AND STANDARDS → national outputs",
+        "IMPLEMENTATION → relevant State Board or Committee remains distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADVISE CENTRAL GOVERNMENT → national policy input",
+            "COORDINATE STATE BOARDS → inter-board function"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TECHNICAL SUPPORT AND RESEARCH → capacity and evidence",
+            "DATA GUIDELINES AND STANDARDS → national outputs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPLEMENTATION → relevant State Board or Committee remains distinct",
+            "ADVISE CENTRAL GOVERNMENT → national policy input"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMPLEMENTATION → relevant State Board or Committee remains distinct.",
+      "source_references": [
+        "CPCB statutory identity",
+        "CPCB national function",
+        "SPCB consent-enforcement role",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "STANDARDS-CONSENT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STANDARDS-CONSENT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CPCB STANDARD OR GUIDELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL REGULATORY BENCHMARK",
+          "role": "comparison"
+        },
+        {
+          "text": "SPCB OR PCC CONSENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PROJECT-SPECIFIC PERMISSION CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "INSPECTION AND ENFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETENT TERRITORIAL AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL DIRECTION OR COORDINATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CPCB STANDARD OR GUIDELINE → national regulatory benchmark",
+        "SPCB OR PCC CONSENT → project-specific permission context",
+        "INSPECTION AND ENFORCEMENT → competent territorial authority",
+        "CENTRAL DIRECTION OR COORDINATION → separate legal route",
+        "RULE → one output cannot be substituted for another"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CPCB STANDARD OR GUIDELINE → national regulatory benchmark",
+          "INSPECTION AND ENFORCEMENT → competent territorial authority",
+          "RULE → one output cannot be substituted for another"
+        ],
+        [
+          "SPCB OR PCC CONSENT → project-specific permission context",
+          "CENTRAL DIRECTION OR COORDINATION → separate legal route",
+          "CPCB STANDARD OR GUIDELINE → national regulatory benchmark"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CPCB STANDARD OR GUIDELINE → national regulatory benchmark",
+            "SPCB OR PCC CONSENT → project-specific permission context"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSPECTION AND ENFORCEMENT → competent territorial authority",
+            "CENTRAL DIRECTION OR COORDINATION → separate legal route"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one output cannot be substituted for another",
+            "CPCB STANDARD OR GUIDELINE → national regulatory benchmark"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one output cannot be substituted for another.",
+      "source_references": [
+        "Standards-consent boundary",
+        "Central-state jurisdiction boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BIODIVERSITY GOVERNANCE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BIODIVERSITY GOVERNANCE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL BIODIVERSITY AUTHORITY LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE BIODIVERSITY GOVERNANCE LEVEL",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL-BODY BIODIVERSITY LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL DOCUMENTATION INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS AND FAIR-BENEFIT MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "NBA → national biodiversity authority level",
+        "SBB → state biodiversity governance level",
+        "BMC → local-body biodiversity level",
+        "PBR → local documentation instrument",
+        "ABS → access and fair-benefit mechanism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NBA → national biodiversity authority level",
+            "SBB → state biodiversity governance level"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BMC → local-body biodiversity level",
+            "PBR → local documentation instrument"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ABS → access and fair-benefit mechanism",
+            "NBA → national biodiversity authority level"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PBR → local documentation instrument; ABS → access and fair-benefit mechanism.",
+      "source_references": [
+        "NBA statutory identity",
+        "SBB role boundary",
+        "BMC local role",
+        "PBR evidence boundary",
+        "ABS boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PBR-TO-ABS SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PBR-TO-ABS SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL KNOWLEDGE AND BIODIVERSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCUMENTED CAREFULLY",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE AND COMMUNITY KNOWLEDGE RECORD",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESS PROPOSAL",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE LEGAL ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "BENEFIT ARRANGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLICABLE ABS PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "LOCAL KNOWLEDGE AND BIODIVERSITY → documented carefully",
+        "PBR → evidence and community knowledge record",
+        "ACCESS PROPOSAL → separate legal assessment",
+        "BENEFIT ARRANGEMENT → applicable ABS process",
+        "OUTCOME → documentation alone grants no approval"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCAL KNOWLEDGE AND BIODIVERSITY → documented carefully",
+            "PBR → evidence and community knowledge record"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCESS PROPOSAL → separate legal assessment",
+            "BENEFIT ARRANGEMENT → applicable ABS process"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME → documentation alone grants no approval",
+            "LOCAL KNOWLEDGE AND BIODIVERSITY → documented carefully"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BENEFIT ARRANGEMENT → applicable ABS process; OUTCOME → documentation alone grants no approval.",
+      "source_references": [
+        "PBR evidence boundary",
+        "ABS boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WII SCIENCE PIPELINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WII SCIENCE PIPELINE",
+          "role": "primary"
+        },
+        {
+          "text": "RESEARCH QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIES HABITAT OR MANAGEMENT ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "FIELD AND ANALYTICAL STUDY",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE GENERATED",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAINING AND ADVISORY OUTPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY AND RECOMMENDATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPETENT AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESEARCH QUESTION → species habitat or management issue",
+        "FIELD AND ANALYTICAL STUDY → evidence generated",
+        "TRAINING AND ADVISORY OUTPUT → capacity and recommendations",
+        "COMPETENT AUTHORITY → formal decision under law",
+        "RULE → science informs but does not become regulation itself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESEARCH QUESTION → species habitat or management issue",
+            "FIELD AND ANALYTICAL STUDY → evidence generated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRAINING AND ADVISORY OUTPUT → capacity and recommendations",
+            "COMPETENT AUTHORITY → formal decision under law"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → science informs but does not become regulation itself",
+            "RESEARCH QUESTION → species habitat or management issue"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → science informs but does not become regulation itself.",
+      "source_references": [
+        "WII institutional identity",
+        "Science-regulation boundary",
+        "Evidence-decision chain",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WILDLIFE BODY COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WILDLIFE BODY COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "RESEARCH TRAINING AND ADVISORY SCIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "TIGER-CONSERVATION STATUTORY AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "WILDLIFE-CRIME COORDINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE WILDLIFE MACHINERY",
+          "role": "institution"
+        },
+        {
+          "text": "TERRITORIAL IMPLEMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "POLLUTION CONTROL, NOT WILDLIFE GOVERNANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WII → research training and advisory science",
+        "NTCA → tiger-conservation statutory authority",
+        "WCCB → wildlife-crime coordination",
+        "STATE WILDLIFE MACHINERY → territorial implementation",
+        "CPCB → pollution control, not wildlife governance"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WII → research training and advisory science",
+          "WCCB → wildlife-crime coordination",
+          "CPCB → pollution control, not wildlife governance"
+        ],
+        [
+          "NTCA → tiger-conservation statutory authority",
+          "STATE WILDLIFE MACHINERY → territorial implementation",
+          "WII → research training and advisory science"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WII → research training and advisory science",
+            "NTCA → tiger-conservation statutory authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WCCB → wildlife-crime coordination",
+            "STATE WILDLIFE MACHINERY → territorial implementation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CPCB → pollution control, not wildlife governance",
+            "WII → research training and advisory science"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE WILDLIFE MACHINERY → territorial implementation; CPCB → pollution control, not wildlife governance.",
+      "source_references": [
+        "NTCA-WCCB boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ADJUDICATION BOUNDARY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ADJUDICATION BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY AUTHORITY BOARD OR STATE BODY",
+          "role": "institution"
+        },
+        {
+          "text": "MONITORING OR ENFORCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPETENT EXECUTIVE INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "CHALLENGE OR DISPUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLICABLE ADJUDICATORY ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBUNAL WITHIN ITS STATUTORY JURISDICTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADMINISTRATIVE DECISION → ministry authority board or state body",
+        "MONITORING OR ENFORCEMENT → competent executive institution",
+        "CHALLENGE OR DISPUTE → applicable adjudicatory route",
+        "NGT → tribunal within its statutory jurisdiction",
+        "RULE → adjudication does not erase executive responsibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADMINISTRATIVE DECISION → ministry authority board or state body",
+            "MONITORING OR ENFORCEMENT → competent executive institution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHALLENGE OR DISPUTE → applicable adjudicatory route",
+            "NGT → tribunal within its statutory jurisdiction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → adjudication does not erase executive responsibility",
+            "ADMINISTRATIVE DECISION → ministry authority board or state body"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → adjudication does not erase executive responsibility.",
+      "source_references": [
+        "NGT adjudication boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LEGAL-BASIS TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGAL-BASIS TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CREATED DIRECTLY BY ACT",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTED UNDER PARENT ACT",
+          "role": "institution"
+        },
+        {
+          "text": "NOTIFIED AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "DELEGATED POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCOPE FOLLOWS DELEGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMOUS OR RESEARCH BODY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CREATED DIRECTLY BY ACT → statutory body",
+        "CONSTITUTED UNDER PARENT ACT → notified authority",
+        "DELEGATED POWER → scope follows delegation",
+        "AUTONOMOUS OR RESEARCH BODY → institutional mandate",
+        "VERDICT → cite the exact founding instrument"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CREATED DIRECTLY BY ACT → statutory body",
+            "CONSTITUTED UNDER PARENT ACT → notified authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELEGATED POWER → scope follows delegation",
+            "AUTONOMOUS OR RESEARCH BODY → institutional mandate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → cite the exact founding instrument",
+            "CLOSE DISTINCTION: MoEFCC is not CPCB, CPCB standards are not every SPCB consent..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: MoEFCC is not CPCB, CPCB standards are not every SPCB consent.",
+      "source_references": [
+        "Constituted-delegated boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "GOVERNANCE COORDINATION CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GOVERNANCE COORDINATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SETS DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPLIES EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD AND CONSENT",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATE ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "MONITORING AND ENFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST COMPLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESOLVES QUALIFYING DISPUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POLICY → sets direction",
+        "SCIENCE → supplies evidence",
+        "STANDARD AND CONSENT → regulate activity",
+        "MONITORING AND ENFORCEMENT → test compliance",
+        "ADJUDICATION → resolves qualifying disputes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POLICY → sets direction",
+            "SCIENCE → supplies evidence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STANDARD AND CONSENT → regulate activity",
+            "MONITORING AND ENFORCEMENT → test compliance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADJUDICATION → resolves qualifying disputes",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent.",
+      "source_references": [
+        "Coordination chain",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INSTITUTIONS ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INSTITUTIONS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MINISTRY BOARD AUTHORITY INSTITUTE FORCE OR TRIBUNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUNDING ACT NOTIFICATION DELEGATION OR MANDATE",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL STATE AND LOCAL JURISDICTION",
+          "role": "institution"
+        },
+        {
+          "text": "STANDARDS CONSENT SCIENCE ENFORCEMENT AND ADJUDICATION",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT POWER DIRECTION STAFFING BUDGET AND REFORM EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → ministry board authority institute force or tribunal",
+        "CITE → founding Act notification delegation or mandate",
+        "MAP → national state and local jurisdiction",
+        "SEPARATE → standards consent science enforcement and adjudication",
+        "VERIFY → current power direction staffing budget and reform evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFY → ministry board authority institute force or tribunal",
+            "CITE → founding Act notification delegation or mandate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP → national state and local jurisdiction",
+            "SEPARATE → standards consent science enforcement and adjudication"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → current power direction staffing budget and reform evidence",
+            "IDENTIFY → ministry board authority institute force or tribunal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → current power direction staffing budget and reform evidence.",
+      "source_references": [
+        "Current evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE NGT (TOPIC 16) SITS AT THE ADJUDICATORY APEX",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL POINT",
+          "role": "comparison"
+        },
+        {
+          "text": "NGT'S EFFECTIVENESS IS ITSELF DEPENDENT ON THE SAME UNDERLYING",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPREHENSIVE, COMPARATIVE INSTITUTIONAL-CAPACITY DATA (STAFFING LEVELS, TECHNICAL",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIMS ABOUT SCIENTIFIC-INDEPENDENCE CONCERNS FOR GOVERNMENT-LINKED RESEARCH BODIES",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE POLLUTION CONTROL BOARDS, CONSTITUTED BY AND ANSWERABLE TO",
+          "role": "institution"
+        },
+        {
+          "text": "INDIA'S ENVIRONMENTAL-INSTITUTIONAL FRAGMENTATION (SPECIALISED BODIES FOR POLLUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The NGT (Topic 16) sits at the adjudicatory apex of this institutional ecosystem,",
+            "CAUTION: Analytical point: NGT's effectiveness is itself dependent on the same underlying",
+            "CAUTION: Comprehensive, comparative institutional-capacity data (staffing levels, technical",
+            "CAUTION: Claims about scientific-independence concerns for government-linked research bodies"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "State Pollution Control Boards, constituted by and answerable to state governments, have",
+            "India's environmental-institutional fragmentation (specialised bodies for pollution,",
+            "WII, BSI, ZSI and FSI are research/scientific institutions (not regulatory or",
+            "NGT's effectiveness in practice depends on the same underlying executive/state-agency"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NOT: CPCB directly enforces pollution standards on the ground across all Indian states. - On",
+            "NOT: India's environmental-institutional fragmentation is purely a design flaw with no",
+            "NOT: WII, BSI, ZSI and FSI are regulatory bodies with enforcement powers. - They are",
+            "NOT: NGT orders are automatically and fully implemented regardless of state-agency capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

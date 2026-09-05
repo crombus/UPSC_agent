@@ -1,0 +1,1609 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-31T09:49:04.604150+00:00",
+  "subject": "Medieval History",
+  "section": "Subject-wide Syllabus",
+  "represented": 25,
+  "expected": 25,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_medieval_history_deep_review (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_mains_answer_gets_full_contract (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_authored_q_heading_mcqs_are_rotated (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_core_control_is_topic_specific (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_manifest_order_contains_all_twenty_five_topics (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_mark_first_question_heading_gets_full_contract (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_misplaced_mains_practice_moves_after_pyqs (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_review_lines_respect_ascii_width (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\ntest_shared_mcq_rotation_remains_available (test_regenerate_medieval_history_deep_review.MedievalHistoryDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.008s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.576s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 7.104s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-01",
+      "title": "India on the Eve of the Medieval Age & Arab-Turkish Contacts",
+      "old_record_id": "medieval-indian-history-01:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-01:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-01-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:18:15.739640+00:00",
+      "identities": {
+        "export": "medieval-indian-history-01:learner-v2:g4",
+        "master": "medieval-indian-history-01:learner-v2:g4",
+        "review": "medieval-indian-history-01:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-01:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-01:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-01:learner-v2:g3",
+          "generation": 3,
+          "state": "failed_intermediate_preserved",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-01:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-01:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "medieval-indian-history-02",
+      "title": "The Ghaznavids & the Ghurian Invasions",
+      "old_record_id": "medieval-indian-history-02:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-02:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-02-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:19:37.418288+00:00",
+      "identities": {
+        "export": "medieval-indian-history-02:learner-v2:g3",
+        "master": "medieval-indian-history-02:learner-v2:g3",
+        "review": "medieval-indian-history-02:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-02:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-02:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-02:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-02:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-03",
+      "title": "Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty",
+      "old_record_id": "medieval-indian-history-03:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-03:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-03-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:20:02.960510+00:00",
+      "identities": {
+        "export": "medieval-indian-history-03:learner-v2:g3",
+        "master": "medieval-indian-history-03:learner-v2:g3",
+        "review": "medieval-indian-history-03:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-03:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-03:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-03:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-03:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-04",
+      "title": "The Khaljis: Alauddin Khalji & Market Reforms",
+      "old_record_id": "medieval-indian-history-04:learner-v2:g3",
+      "new_record_id": "medieval-indian-history-04:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-04-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:36:03.017337+00:00",
+      "identities": {
+        "export": "medieval-indian-history-04:learner-v2:g4",
+        "master": "medieval-indian-history-04:learner-v2:g4",
+        "review": "medieval-indian-history-04:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-04:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-04:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-04:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-04:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-04:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "medieval-indian-history-05",
+      "title": "The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah",
+      "old_record_id": "medieval-indian-history-05:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-05:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-05-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:20:47.806552+00:00",
+      "identities": {
+        "export": "medieval-indian-history-05:learner-v2:g3",
+        "master": "medieval-indian-history-05:learner-v2:g3",
+        "review": "medieval-indian-history-05:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-05:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-05:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-05:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-05:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-06",
+      "title": "Decline of the Sultanate: Timur, Sayyids & Lodis",
+      "old_record_id": "medieval-indian-history-06:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-06:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-06-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:21:11.687814+00:00",
+      "identities": {
+        "export": "medieval-indian-history-06:learner-v2:g3",
+        "master": "medieval-indian-history-06:learner-v2:g3",
+        "review": "medieval-indian-history-06:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-06:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-06:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-06:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-06:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-07",
+      "title": "Administration, Economy & Society under the Sultanate",
+      "old_record_id": "medieval-indian-history-07:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-07:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-07-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:21:46.810954+00:00",
+      "identities": {
+        "export": "medieval-indian-history-07:learner-v2:g3",
+        "master": "medieval-indian-history-07:learner-v2:g3",
+        "review": "medieval-indian-history-07:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-07:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-07:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-07:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-07:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-08",
+      "title": "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension",
+      "old_record_id": "medieval-indian-history-08:learner-v2:g3",
+      "new_record_id": "medieval-indian-history-08:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-08-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:39:24.408242+00:00",
+      "identities": {
+        "export": "medieval-indian-history-08:learner-v2:g4",
+        "master": "medieval-indian-history-08:learner-v2:g4",
+        "review": "medieval-indian-history-08:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-08:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-08:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-08:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-08:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-08:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "medieval-indian-history-09",
+      "title": "Vijayanagara & the Bahmani Kingdom (Deccan)",
+      "old_record_id": "medieval-indian-history-09:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-09:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-09-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:22:36.855670+00:00",
+      "identities": {
+        "export": "medieval-indian-history-09:learner-v2:g3",
+        "master": "medieval-indian-history-09:learner-v2:g3",
+        "review": "medieval-indian-history-09:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-09:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-09:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-09:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-09:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-10",
+      "title": "The Bhakti & Sufi Movements",
+      "old_record_id": "medieval-indian-history-10:learner-v2:g4",
+      "new_record_id": "medieval-indian-history-10:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 96,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-10-learner-v2-g5-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:44:36.108779+00:00",
+      "identities": {
+        "export": "medieval-indian-history-10:learner-v2:g5",
+        "master": "medieval-indian-history-10:learner-v2:g5",
+        "review": "medieval-indian-history-10:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-10:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-10:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-10:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-10:learner-v2:g4",
+          "generation": 4,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-10:learner-v2:g5",
+          "generation": 5,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-10:learner-v2:g5",
+      "final_generation": 5
+    },
+    {
+      "topic_key": "medieval-indian-history-11",
+      "title": "Art, Architecture & Culture of the Sultanate",
+      "old_record_id": "medieval-indian-history-11:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-11:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-11-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:23:34.533042+00:00",
+      "identities": {
+        "export": "medieval-indian-history-11:learner-v2:g3",
+        "master": "medieval-indian-history-11:learner-v2:g3",
+        "review": "medieval-indian-history-11:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-11:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-11:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-11:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-11:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-12",
+      "title": "Babur & the Central Asian Backdrop",
+      "old_record_id": "medieval-indian-history-12:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-12:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-12-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:23:56.427083+00:00",
+      "identities": {
+        "export": "medieval-indian-history-12:learner-v2:g3",
+        "master": "medieval-indian-history-12:learner-v2:g3",
+        "review": "medieval-indian-history-12:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-12:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-12:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-12:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-12:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-13",
+      "title": "Struggle for Empire: Afghans, Rajputs & Humayun",
+      "old_record_id": "medieval-indian-history-13:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-13:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-13-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:24:20.456854+00:00",
+      "identities": {
+        "export": "medieval-indian-history-13:learner-v2:g3",
+        "master": "medieval-indian-history-13:learner-v2:g3",
+        "review": "medieval-indian-history-13:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-13:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-13:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-13:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-13:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-14",
+      "title": "Sher Shah Sur & the Sur Empire",
+      "old_record_id": "medieval-indian-history-14:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-14:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-14-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:24:50.394007+00:00",
+      "identities": {
+        "export": "medieval-indian-history-14:learner-v2:g3",
+        "master": "medieval-indian-history-14:learner-v2:g3",
+        "review": "medieval-indian-history-14:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-14:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-14:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-14:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-14:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-15",
+      "title": "Akbar: Consolidation & Expansion of the Empire",
+      "old_record_id": "medieval-indian-history-15:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-15:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-15-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:25:14.723335+00:00",
+      "identities": {
+        "export": "medieval-indian-history-15:learner-v2:g3",
+        "master": "medieval-indian-history-15:learner-v2:g3",
+        "review": "medieval-indian-history-15:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-15:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-15:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-15:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-15:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-16",
+      "title": "State & Government under Akbar (Mansabdari, Dahsala)",
+      "old_record_id": "medieval-indian-history-16:learner-v2:g3",
+      "new_record_id": "medieval-indian-history-16:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-16-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:40:07.478917+00:00",
+      "identities": {
+        "export": "medieval-indian-history-16:learner-v2:g4",
+        "master": "medieval-indian-history-16:learner-v2:g4",
+        "review": "medieval-indian-history-16:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-16:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-16:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-16:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-16:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-16:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "medieval-indian-history-17",
+      "title": "Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi",
+      "old_record_id": "medieval-indian-history-17:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-17:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-17-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:26:03.022745+00:00",
+      "identities": {
+        "export": "medieval-indian-history-17:learner-v2:g3",
+        "master": "medieval-indian-history-17:learner-v2:g3",
+        "review": "medieval-indian-history-17:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-17:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-17:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-17:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-17:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-18",
+      "title": "The Deccan & the Mughals (to 1657)",
+      "old_record_id": "medieval-indian-history-18:learner-v2:g3",
+      "new_record_id": "medieval-indian-history-18:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-18-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:40:32.937730+00:00",
+      "identities": {
+        "export": "medieval-indian-history-18:learner-v2:g4",
+        "master": "medieval-indian-history-18:learner-v2:g4",
+        "review": "medieval-indian-history-18:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-18:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-18:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-18:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-18:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-18:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "medieval-indian-history-19",
+      "title": "Foreign Policy of the Mughals",
+      "old_record_id": "medieval-indian-history-19:learner-v2:g3",
+      "new_record_id": "medieval-indian-history-19:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-19-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:41:00.893657+00:00",
+      "identities": {
+        "export": "medieval-indian-history-19:learner-v2:g4",
+        "master": "medieval-indian-history-19:learner-v2:g4",
+        "review": "medieval-indian-history-19:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-19:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-19:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-19:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-19:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-19:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "medieval-indian-history-20",
+      "title": "Jahangir & the Early Seventeenth Century (Nur Jahan)",
+      "old_record_id": "medieval-indian-history-20:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-20:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-20-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:27:49.031039+00:00",
+      "identities": {
+        "export": "medieval-indian-history-20:learner-v2:g3",
+        "master": "medieval-indian-history-20:learner-v2:g3",
+        "review": "medieval-indian-history-20:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-20:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-20:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-20:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-20:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-21",
+      "title": "Shah Jahan & the Evolution of the Mughal Ruling Class",
+      "old_record_id": "medieval-indian-history-21:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-21:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-21-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:28:35.527676+00:00",
+      "identities": {
+        "export": "medieval-indian-history-21:learner-v2:g3",
+        "master": "medieval-indian-history-21:learner-v2:g3",
+        "review": "medieval-indian-history-21:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-21:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-21:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-21:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-21:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-22",
+      "title": "Aurangzeb: Religious Policy, North India & the Rajputs",
+      "old_record_id": "medieval-indian-history-22:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-22:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-22-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:29:26.905980+00:00",
+      "identities": {
+        "export": "medieval-indian-history-22:learner-v2:g3",
+        "master": "medieval-indian-history-22:learner-v2:g3",
+        "review": "medieval-indian-history-22:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-22:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-22:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-22:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-22:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-23",
+      "title": "The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis",
+      "old_record_id": "medieval-indian-history-23:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-23:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-23-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:30:03.974953+00:00",
+      "identities": {
+        "export": "medieval-indian-history-23:learner-v2:g3",
+        "master": "medieval-indian-history-23:learner-v2:g3",
+        "review": "medieval-indian-history-23:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-23:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-23:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-23:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-23:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-24",
+      "title": "Mughal Society, Economy & Culture",
+      "old_record_id": "medieval-indian-history-24:learner-v2:g2",
+      "new_record_id": "medieval-indian-history-24:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-24-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:30:55.537707+00:00",
+      "identities": {
+        "export": "medieval-indian-history-24:learner-v2:g3",
+        "master": "medieval-indian-history-24:learner-v2:g3",
+        "review": "medieval-indian-history-24:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-24:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-24:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-24:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-24:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "medieval-indian-history-25",
+      "title": "Decline of the Mughal Empire & the Eighteenth Century",
+      "old_record_id": "medieval-indian-history-25:learner-v2:g3",
+      "new_record_id": "medieval-indian-history-25:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-25-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-31T09:41:35.902836+00:00",
+      "identities": {
+        "export": "medieval-indian-history-25:learner-v2:g4",
+        "master": "medieval-indian-history-25:learner-v2:g4",
+        "review": "medieval-indian-history-25:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "medieval-indian-history-25:learner-v2:g2",
+        "generation": 2,
+        "score": 95
+      },
+      "generation_chain": [
+        {
+          "record_id": "medieval-indian-history-25:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-25:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_re_review",
+          "approval": false
+        },
+        {
+          "record_id": "medieval-indian-history-25:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false
+        }
+      ],
+      "final_record_id": "medieval-indian-history-25:learner-v2:g4",
+      "final_generation": 4
+    }
+  ],
+  "failed_intermediates_preserved": [
+    "medieval-indian-history-01:learner-v2:g3"
+  ],
+  "successful_re_review_intermediates_preserved": [
+    "medieval-indian-history-04:learner-v2:g3",
+    "medieval-indian-history-08:learner-v2:g3",
+    "medieval-indian-history-10:learner-v2:g3",
+    "medieval-indian-history-10:learner-v2:g4",
+    "medieval-indian-history-16:learner-v2:g3",
+    "medieval-indian-history-18:learner-v2:g3",
+    "medieval-indian-history-19:learner-v2:g3",
+    "medieval-indian-history-25:learner-v2:g3"
+  ]
+}

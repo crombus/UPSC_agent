@@ -1,0 +1,30 @@
+{
+  "topic_key": "ethics-12",
+  "generation": 1,
+  "identity": "ethics-12:learner-v2:g1",
+  "approved": false,
+  "session_count": 10,
+  "mcq_count": 48,
+  "pyq_count": 12,
+  "source_preservation": "passed",
+  "pdf_validation": "passed",
+  "published": true,
+  "commands": [],
+  "outputs": {
+    "markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-12_Learning-Session.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-12_Solved-Workbook.md",
+    "main_pdf": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-12_Learning-Session_2026-08-29.pdf",
+    "workbook_pdf": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ethics-12_Solved-Workbook_2026-08-29.pdf",
+    "asset_folder": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-12",
+    "concept_visual": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-12\\ethics-12_concept-map_g1.png",
+    "main_visual_audit": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-12\\ethics-12_main-visual-audit_g1.json",
+    "workbook_visual_audit": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-12\\ethics-12_workbook-visual-audit_g1.json",
+    "flow_dir": "notes\\Ethics\\flowcharts\\ethics-12\\continuous-at-a-glance-english-first-g1",
+    "ascii_markdown": "notes\\Ethics\\flowcharts\\ethics-12\\ethics-12_Twelve-Panel-ASCII-Master_2026-08-29-g1.md",
+    "ascii_pdf": "notes\\Ethics\\flowcharts\\ethics-12\\continuous-at-a-glance-english-first-g1\\ascii-master.pdf",
+    "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-12-ascii-2026-08-29-g1.json",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-graphical-specs\\ethics-12-g1.json",
+    "record": "upsc-ai-kit\\manifests\\exports\\ethics-12-learner-v2-g1-2026-08-29-record.json",
+    "validation": "upsc-ai-kit\\manifests\\exports\\ethics-12-learner-v2-g1-2026-08-29-validation.json"
+  }
+}

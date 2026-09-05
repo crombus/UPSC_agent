@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "batch_id": "essay-01-04-guide-redesign-2026-09-04",
+  "scope": "Essay topics 01-04 only",
+  "generated_on": "2026-09-04",
+  "validated_at": "2026-09-04T18:17:39.812287+05:30",
+  "result": "passed",
+  "format": {
+    "knowledge_guides": 4,
+    "question_only_workbooks": 4,
+    "separate_solution_pdfs": 4,
+    "learning_sessions": 0,
+    "mcqs": 0
+  },
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "record_id": "essay-01:learner-v2:g3",
+      "generation": 3,
+      "approved": false,
+      "hard_gates": {
+        "essay_specific_format": true,
+        "single_complete_knowledge_guide": true,
+        "no_learning_sessions": true,
+        "no_mcqs": true,
+        "question_only_workbook": true,
+        "separate_matching_solutions": true,
+        "solved_upsc_questions_in_guide": true,
+        "retained_method_material": true,
+        "three_real_pdfs": true,
+        "approval_false": true
+      },
+      "metrics": {
+        "learning_sessions": 0,
+        "mcqs": 0,
+        "practice_topics": 2,
+        "practice_solutions": 2,
+        "solved_upsc_questions": 3,
+        "method_drills_retained": 6,
+        "guide_pages": 18,
+        "workbook_pages": 2,
+        "solutions_pages": 4
+      }
+    },
+    {
+      "topic_key": "essay-02",
+      "record_id": "essay-02:learner-v2:g2",
+      "generation": 2,
+      "approved": false,
+      "hard_gates": {
+        "essay_specific_format": true,
+        "single_complete_knowledge_guide": true,
+        "no_learning_sessions": true,
+        "no_mcqs": true,
+        "question_only_workbook": true,
+        "separate_matching_solutions": true,
+        "solved_upsc_questions_in_guide": true,
+        "retained_method_material": true,
+        "three_real_pdfs": true,
+        "approval_false": true
+      },
+      "metrics": {
+        "learning_sessions": 0,
+        "mcqs": 0,
+        "practice_topics": 3,
+        "practice_solutions": 3,
+        "solved_upsc_questions": 3,
+        "method_drills_retained": 6,
+        "guide_pages": 24,
+        "workbook_pages": 2,
+        "solutions_pages": 5
+      }
+    },
+    {
+      "topic_key": "essay-03",
+      "record_id": "essay-03:learner-v2:g2",
+      "generation": 2,
+      "approved": false,
+      "hard_gates": {
+        "essay_specific_format": true,
+        "single_complete_knowledge_guide": true,
+        "no_learning_sessions": true,
+        "no_mcqs": true,
+        "question_only_workbook": true,
+        "separate_matching_solutions": true,
+        "solved_upsc_questions_in_guide": true,
+        "retained_method_material": true,
+        "three_real_pdfs": true,
+        "approval_false": true
+      },
+      "metrics": {
+        "learning_sessions": 0,
+        "mcqs": 0,
+        "practice_topics": 3,
+        "practice_solutions": 3,
+        "solved_upsc_questions": 3,
+        "method_drills_retained": 6,
+        "guide_pages": 21,
+        "workbook_pages": 2,
+        "solutions_pages": 6
+      }
+    },
+    {
+      "topic_key": "essay-04",
+      "record_id": "essay-04:learner-v2:g2",
+      "generation": 2,
+      "approved": false,
+      "hard_gates": {
+        "essay_specific_format": true,
+        "single_complete_knowledge_guide": true,
+        "no_learning_sessions": true,
+        "no_mcqs": true,
+        "question_only_workbook": true,
+        "separate_matching_solutions": true,
+        "solved_upsc_questions_in_guide": true,
+        "retained_method_material": true,
+        "three_real_pdfs": true,
+        "approval_false": true
+      },
+      "metrics": {
+        "learning_sessions": 0,
+        "mcqs": 0,
+        "practice_topics": 3,
+        "practice_solutions": 3,
+        "solved_upsc_questions": 3,
+        "method_drills_retained": 6,
+        "guide_pages": 18,
+        "workbook_pages": 2,
+        "solutions_pages": 6
+      }
+    }
+  ],
+  "errors": [],
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\essay-01-04-guide-redesign-2026-09-04-changed-files.txt",
+    "count": 42
+  }
+}

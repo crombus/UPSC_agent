@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-10",
+  "title": "Amendment and Basic Structure",
+  "gate": "A",
+  "started_at": "2026-08-24T08:30:02+05:30",
+  "completed_at": "2026-08-24T08:33:26+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, Advanced, complete package, doctrine owner and neighbouring rights material reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Laxmikanth and routed local papers/keys checked for Article 368, doctrine, Ninth Schedule and exact PYQ status."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        "https://egazette.gov.in/WriteReadData/2026/271834.pdf"
+      ],
+      "result": "Gazette S.O. 1922(E), 16 April 2026, fetched again on 24 August 2026."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "coverage_checks": {
+    "three_change_routes": true,
+    "article_368_procedure": true,
+    "ratification_proviso_exact": true,
+    "complete_case_chain": true,
+    "basic_elements_non_exhaustive": true,
+    "ninth_schedule_post_1973_review": true,
+    "anjum_ordinary_statute_boundary": true,
+    "current_controls_bounded": true,
+    "flexibility_rigidity_answer_tree": true
+  },
+  "pyq_audit": {
+    "count": 10,
+    "mains": 2,
+    "prelims": 8,
+    "questions": [
+      "2019 GS-II Q12",
+      "2025 GS-II Q12",
+      "2018 GS-I Q5",
+      "2019 GS-I Q45",
+      "2019 GS-I Q47",
+      "2020 GS-I Q13",
+      "2022 GS-I Q13",
+      "2023 GS-I Q34",
+      "2024 GS-I Q66",
+      "2025 GS-I Q58"
+    ],
+    "key_status": "Official local Set-A keys verified for 2024 Q66=D and 2025 Q58=A. Historical Prelims answers remain explicitly inferred; Mains models are independent."
+  },
+  "current_affairs_audit": {
+    "window": "2026-02-24 through 2026-08-24",
+    "fact": "S.O. 1922(E) commenced the 106th Amendment framework on 16 April 2026.",
+    "analysis": "Article 334A still requires census publication and delimitation before operational reservation.",
+    "additional_anchor": "The 131st Amendment Bill, 2026 was negatived and is used only for dual-majority arithmetic, never as law.",
+    "caveat": "No implementation election, census publication date, delimitation date or current seat ceiling is inferred."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": "f8bf3c2c0a5f8ac1c3a99f5a405f2d3fdd467df57fb3b88da6f4bc297afedf02",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md": "7c30c06f05466a93e162e88e1be42b337dd5d62c0f56a7cd0591b039cd82e003",
+    "upsc-ai-kit\\knowledge\\Polity\\10_Amendment-and-Basic-Structure_Complete-Topic-Package.md": "4df741a9892a9fcb5c120b8a80c1d647dabffb0e943b180313618cf4a2a455aa",
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-10_Learning-Session.md": "87bc4b0c5c6e207adc25aba354dbf7466ea7e89210b6b380d81250d9b5493e61",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md": "ffae6200f024464d6a374f6da60df5c3228d16857a9f5bbd8bd88b497498b8fe",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md": "35153c0402635722358d566538e540261d5e292e157e64d2591552dc4f94c690",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": "3a56b05d3cfeb8fb3a257e5391079b5afd4dd4683e573f6c890580641d525210",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "ef34ff4e94ce8fefd3c7ee881b1bc8993b54e6e6fd52c68fd7b590c57f685283",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json": "933104394c607b66a8694fe18ea183e0b1ad85d6b9e2a83a2370705cc5d67a6c",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-10.json": "532c4a6591a1c542d37e49ae0909790bb674fcaa56e20fac95069e486a80c7b1"
+  }
+}

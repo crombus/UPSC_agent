@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "polity-51-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-51": {
+      "title": "Rights and Liabilities of the Government",
+      "source_record": "polity-51:learner-v2:g3",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Government as property-holder, contractor and suable legal person",
+          "structural_type": "legal-person-root",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 1",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 2"
+          ],
+          "full_text": "ROOT QUESTION\nHow can the State exercise public power yet remain answerable as a legal actor?\n\nPART XII, CHAPTER III\n+-- Articles 294-297 -> succession, ownerless and maritime property\n+-- Article 298 -> trade, business, property and contract capacity\n+-- Article 299 -> mandatory government-contract form\n+-- Article 300 -> suits, proceedings and liability continuity.\n\nSEPARATE LINK\nArticle 300A -> private property may be deprived only by authority of law.\n\nMASTER DISTINCTION\nofficial personal protection != governmental immunity from review or liability."
+        },
+        {
+          "title": "Succession, ownerless property and reorganisation",
+          "structural_type": "property-succession-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 3",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 4"
+          ],
+          "full_text": "ARTICLES 294-295\ncommencement continuity -> Union/State succeeds to property, rights and liabilities.\n\nARTICLE 296\nescheat/lapse/bona vacantia -> location rule + governmental-purpose proviso.\n\nARTICLE 297\nspecified maritime lands, minerals and resources -> Union.\n\nLATER REORGANISATION\nstatute/agreement -> assets + debt + guarantees + employees\n-> contracts/licences + records + pending proceedings.\n\nTRAP\nno universal apportionment formula; use the exact reorganisation instrument."
+        },
+        {
+          "title": "Articles 298 and 299: capacity before valid commitment",
+          "structural_type": "government-contract-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 5",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 6"
+          ],
+          "full_text": "ARTICLE 298\nexecutive capacity to trade, do business, acquire/hold/dispose property and contract.\n                              |\n                              v\nARTICLE 299 MANDATORY FORM\nexpressed in President/Governor's name\n+ executed on behalf of that constitutional head\n+ authorised person and prescribed manner.\n                              |\n                              v\nvalid public commitment -> no personal liability of head/authorised signatory.\n\nTRAP\ncapacity != authority | signature != authorisation | personal immunity != State immunity."
+        },
+        {
+          "title": "Defective contract and restitution",
+          "structural_type": "contract-restitution-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 7",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 299 DEFECT\npurported contract unenforceable as government contract.\n\nINDEPENDENT SECTION 70 ROUTE\nlawful act/delivery + non-gratuitous intention + government enjoys benefit\n-> restitution measured by benefit.\n\nB.K. Mondal & Sons (1961)\nnon-gratuitous benefit can create restitutionary liability.\n\nMulamchand v. State of Madhya Pradesh (1968)\nmandatory Article 299 form remains separate.\n\nLIMIT\nquantum meruit does not validate the contract or automatically award contract price."
+        },
+        {
+          "title": "Article 300 and the civil-suit route",
+          "structural_type": "suit-procedure-rail",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 9",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "PROPER PARTY\nUnion matter -> Union of India | State matter -> name of State.\n\nCPC SECTION 79\nparty description in government litigation.\n\nCPC SECTION 80\nordinary official-act suit -> two-month prior notice\n-> Section 80(2) court-controlled urgent/immediate-relief route.\n\nPROCEEDING\ncause of action -> correct party -> notice/exception -> pleading/evidence\n-> decree/appeal/enforcement subject to law.\n\nTRAP\nprocedural notice != substantive sovereign immunity."
+        },
+        {
+          "title": "Private tort and the narrowing of sovereign immunity",
+          "structural_type": "tort-case-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "P & O Steam Navigation (1861)\ncolonial sovereign/non-sovereign distinction.\n             v\nState of Rajasthan v. Vidyawati (1962)\nordinary operational negligence can attract State liability.\n             v\nKasturi Lal v. State of Uttar Pradesh (1964)\nolder police-sovereign immunity line.\n             v\nN. Nagendra Rao & Co. (1994)\nbroad immunity untenable in welfare State; any residue is narrow.\n\nVERDICT\nno blanket formula: identify function, duty, causation and remedy."
+        },
+        {
+          "title": "Constitutional tort and vicarious responsibility",
+          "structural_type": "public-private-remedy-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "PUBLIC-LAW COMPENSATION\nRudul Sah v. State of Bihar (1983) -> unlawful detention compensation.\nNilabati Behera v. State of Orissa (1993) -> Fundamental-Right remedy distinct.\nState of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)\n-> prison-rights accountability.\n\nPRIVATE TORT\nduty + breach + causation + damage + vicarious-employment nexus.\n\nOFFICIAL RESPONSIBILITY\nState liability may coexist with disciplinary, criminal or personal liability.\n\nLIMIT\nwrit compensation vindicates rights; it does not replace every civil trial."
+        },
+        {
+          "title": "Property, procurement, arbitration and protection boundaries",
+          "structural_type": "accountable-contracting-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 300A\ndeprivation of private property only by authority of law.\n\nPROCUREMENT RAIL\nneed/sanction -> fair criteria/competition -> reasoned award\n-> Article 299 execution -> performance/payment -> CAG/audit.\n\nARBITRATION\nvalid authorised clause -> tribunal -> award -> statutory challenge/enforcement.\n\nPROTECTION FIREWALL\nArticle 361 | Article 299 signatory rule | CPC notice | sanction | privilege\nare separate sources with separate limits.\n\nCURRENT\nGeM/manual/draft reform != constitutional or statutory amendment."
+        },
+        {
+          "title": "Article 300A: acquisition discipline and seven safeguards",
+          "structural_type": "property-rights-safeguard-rail",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 300A\nevery person -> no deprivation of property except by authority of law.\n\nK.T. Plantation (2011)\npublic purpose + no arbitrary/confiscatory law + no illusory compensation.\n\nVidya Devi (2020)\nunsupported executive occupation != lawful acquisition.\n\nBimal Kumar Shah (2024 INSC 435)\nnotice -> hearing -> reasoned decision -> public purpose\n-> fair compensation/restitution -> efficient process -> conclusion.\n\nTRAP\nconstitutional right outside Part III; neither a Fundamental Right nor a mere statutory right."
+        },
+        {
+          "title": "State secrets: evidence privilege and RTI are distinct",
+          "structural_type": "privilege-disclosure-balance",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "LITIGATION-EVIDENCE ROUTE\nBSA section 129 -> unpublished official records concerning affairs of State.\nBSA section 130 -> official confidence where public interest would suffer.\nRaj Narain (1975) + S.P. Gupta (1981) -> no absolute executive secrecy.\n\nRTI ROUTE\nsection 8(1)(a) specified prejudicial harms\n-> section 8(2) public-interest override\n-> section 22 priority over inconsistent law, including Official Secrets Act.\n\nDECISION TEST\nexact source -> identified harm -> severance -> public-interest balance -> reasons -> review."
+        },
+        {
+          "title": "Choose the correct remedy and protection",
+          "structural_type": "remedy-decision-tree",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "START WITH THE WRONG, NOT A BLANKET IMMUNITY\nvalid contract breach -> contract/arbitration.\ndefective form + retained benefit -> section 70 restitution.\noperational civil wrong -> private tort.\nFundamental-Right violation -> public-law compensation.\nproperty deprivation -> Article 300A + acquisition-law remedy.\nillegal administrative decision -> judicial review.\n\nPROCEDURE / PROTECTION FIREWALL\nCPC 79 proper party | CPC 80 notice/urgent route | BNSS 218 sanction\n| Article 361 | Article 299(2) | BSA 129-130.\n\nEach source has its own trigger, decision-maker, limit and remedy."
+        },
+        {
+          "title": "UPSC synthesis: no blanket immunity in government under law",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 1",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 4",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "PRELIMS FIREWALL\n294/295 succession | 296 ownerless property | 297 maritime resources\n| 298 capacity | 299 form | 300 suits | 300A property right\n| Section 70 restitution != valid contract | Section 80 notice != immunity.\n\nMAINS SPINE\nlegal person -> property/succession -> capacity/form\n-> restitution -> suit procedure -> private tort\n-> constitutional tort -> procurement/arbitration -> qualified reform.\n\nPYQ SPINE\n2025 immunity statements test source separation, not blanket State immunity.\n\nVERDICT\npublic power carries special form and protection, but remains legally answerable."
+        }
+      ]
+    }
+  }
+}

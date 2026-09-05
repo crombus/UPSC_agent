@@ -1,0 +1,317 @@
+{
+  "schema_version": 1,
+  "batch_id": "science-and-technology-19-22-learner-v2-2026-09-04",
+  "scope": "Science and Technology learner-v2 Topics 19-22, strictly sequential",
+  "generated_on": "2026-09-04",
+  "validated_at": "2026-09-04T12:47:24.590022+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "science-and-technology-19",
+      "science-and-technology-20",
+      "science-and-technology-21",
+      "science-and-technology-22"
+    ],
+    "topic_count": 4,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "science-and-technology-19:learner-v2:g1",
+      "science-and-technology-20:learner-v2:g1",
+      "science-and-technology-21:learner-v2:g1",
+      "science-and-technology-22:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 370,
+    "baseline_panels": 4312,
+    "authored_topics": 374,
+    "authored_panels": 4360,
+    "topic_delta": 4,
+    "panel_delta": 48,
+    "integrity_errors": []
+  },
+  "tests": {
+    "result": "passed",
+    "passed": 1,
+    "scope": "Four sequential topic hard-gate records plus repository-wide manual ASCII integrity",
+    "known_unrelated_failures_not_fixed": []
+  },
+  "aggregate": {
+    "main_pdf_pages": 373,
+    "workbook_pdf_pages": 195,
+    "mcqs": 320,
+    "learning_sessions": 60,
+    "ascii_panels": 48,
+    "graphical_stages": 52
+  },
+  "section_status": {
+    "manifest_complete_topics": 26,
+    "generated_unapproved_topics_19_22": 4,
+    "approved_topics_19_22": 0,
+    "indexes_refreshed": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-19",
+      "record_id": "science-and-technology-19:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 16,
+      "hard_gates_total": 16,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "notes_contents_index_present": true,
+        "workbook_contents_index_present": true,
+        "main_pdf_pages": 89,
+        "workbook_pdf_pages": 46,
+        "main_pdf_bookmarks": 118,
+        "workbook_pdf_bookmarks": 93
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\science-and-technology-19-learner-v2-g1-2026-09-04-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\science-and-technology-19_Complete-Learning-Session_2026-09-04.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\science-and-technology-19_Solved-Practice-Workbook_2026-09-04.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\science-and-technology-19_Solved-Practice-Workbook_2026-09-04.md"
+    },
+    {
+      "topic_key": "science-and-technology-20",
+      "record_id": "science-and-technology-20:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 16,
+      "hard_gates_total": 16,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "notes_contents_index_present": true,
+        "workbook_contents_index_present": true,
+        "main_pdf_pages": 95,
+        "workbook_pdf_pages": 49,
+        "main_pdf_bookmarks": 118,
+        "workbook_pdf_bookmarks": 93
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\science-and-technology-20-learner-v2-g1-2026-09-04-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\science-and-technology-20_Complete-Learning-Session_2026-09-04.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\science-and-technology-20_Solved-Practice-Workbook_2026-09-04.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\science-and-technology-20_Solved-Practice-Workbook_2026-09-04.md"
+    },
+    {
+      "topic_key": "science-and-technology-21",
+      "record_id": "science-and-technology-21:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 16,
+      "hard_gates_total": 16,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "notes_contents_index_present": true,
+        "workbook_contents_index_present": true,
+        "main_pdf_pages": 97,
+        "workbook_pdf_pages": 52,
+        "main_pdf_bookmarks": 118,
+        "workbook_pdf_bookmarks": 93
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\science-and-technology-21-learner-v2-g1-2026-09-04-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\science-and-technology-21_Complete-Learning-Session_2026-09-04.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\science-and-technology-21_Solved-Practice-Workbook_2026-09-04.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\science-and-technology-21_Complete-Learning-Session_2026-09-04.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-21\\science-and-technology-21_Solved-Practice-Workbook_2026-09-04.md"
+    },
+    {
+      "topic_key": "science-and-technology-22",
+      "record_id": "science-and-technology-22:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 16,
+      "hard_gates_total": 16,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "notes_contents_index_present": true,
+        "workbook_contents_index_present": true,
+        "main_pdf_pages": 92,
+        "workbook_pdf_pages": 48,
+        "main_pdf_bookmarks": 118,
+        "workbook_pdf_bookmarks": 93
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\science-and-technology-22-learner-v2-g1-2026-09-04-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\science-and-technology-22_Complete-Learning-Session_2026-09-04.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\science-and-technology-22_Solved-Practice-Workbook_2026-09-04.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\science-and-technology-22_Solved-Practice-Workbook_2026-09-04.md"
+    }
+  ],
+  "errors": [],
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\science-and-technology-19-22-learner-v2-2026-09-04-changed-files.txt",
+    "count": 145
+  }
+}

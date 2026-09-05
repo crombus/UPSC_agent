@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "selection": "polity-47 sequential gate F and MCQ rotation repair",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-47",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-47",
+      "main_pdf_pages": 103,
+      "workbook_pdf_pages": 19,
+      "session_count": 47,
+      "ascii_panel_count": 9,
+      "ascii_max_line_width": 96,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 9,
+        "panel_pages": [
+          101,
+          101,
+          101,
+          102,
+          102,
+          102,
+          103,
+          103,
+          103
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g2\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Solved-Practice-Workbook_2026-08-25.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Solved-Practice-Workbook_2026-08-25.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 103,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 19,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    }
+  ]
+}

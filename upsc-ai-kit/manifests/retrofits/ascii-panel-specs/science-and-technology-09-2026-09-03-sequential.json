@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-09",
+      "display_title": "Artificial Intelligence Governance and IndiaAI",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-09_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "AI taxonomy ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARTIFICIAL INTELLIGENCE -> broad task-performing systems",
+            "MACHINE LEARNING -> patterns learned from data",
+            "DEEP LEARNING -> multilayer neural networks",
+            "GENERATIVE AI -> creates text, image, audio or code",
+            "RULE -> identify method, task and evidence before impact"
+          ],
+          "source_references": [
+            "AI-taxonomy boundary"
+          ]
+        },
+        {
+          "title": "Capability-to-deployment ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "RESEARCH CLAIM -> proposed method",
+            "BENCHMARK RESULT -> bounded evaluation",
+            "PROTOTYPE -> integrated demonstration",
+            "DEPLOYMENT -> real workflow with users and monitoring",
+            "OUTCOME -> measured benefit and harm after use"
+          ],
+          "source_references": [
+            "Capability-deployment boundary",
+            "Prediction-causation boundary"
+          ]
+        },
+        {
+          "title": "Foundation-model risk tree",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "PRETRAINED FOUNDATION MODEL -> broad downstream reuse",
+            "DATA / LICENCE -> provenance constraints",
+            "BIAS / SAFETY -> inherited application risk",
+            "HALLUCINATION -> fluent output without verification",
+            "CONTROL -> grounding, evaluation and human review"
+          ],
+          "source_references": [
+            "Foundation-model boundary",
+            "Hallucination-boundary"
+          ]
+        },
+        {
+          "title": "IndiaAI institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MeitY -> ministry policy and rule-making anchor",
+            "INDIAAI / DIGITAL INDIA CORPORATION -> mission implementation",
+            "NITI AAYOG -> earlier strategy and think-tank role",
+            "SECTOR REGULATOR / DEPARTMENT -> deployment obligations",
+            "RULE -> strategy, mission, regulator and law stay separate"
+          ],
+          "source_references": [
+            "IndiaAI-mission boundary",
+            "Implementation-institution boundary"
+          ]
+        },
+        {
+          "title": "Mission pillar wheel",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "COMPUTE + INNOVATION CENTRE + APPLICATIONS",
+            "AIKOSH + STARTUP FINANCING + FUTURESKILLS",
+            "SAFE AND TRUSTED AI -> governance tools and evaluation",
+            "PILLAR -> implementation domain",
+            "TRAP -> pillar name is not completed output"
+          ],
+          "source_references": [
+            "IndiaAI-mission boundary",
+            "Pillar-status boundary"
+          ]
+        },
+        {
+          "title": "Compute measurement firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GPU OBJECTIVE -> planned hardware measure",
+            "EMPANELLED CAPACITY -> procurement availability",
+            "COMPUTE UNIT -> provider-defined service measure",
+            "BOOKED / USED CAPACITY -> actual access or consumption",
+            "RULE -> never convert one measure into another"
+          ],
+          "source_references": [
+            "Compute-measure boundary"
+          ]
+        },
+        {
+          "title": "AIKosh evidence gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DATASET LISTING -> discoverability",
+            "PROVENANCE / LICENCE -> lawful origin and permitted use",
+            "QUALITY / REPRESENTATION -> fitness for Indian context",
+            "ACCESS / SECURITY -> controlled use",
+            "OUTCOME -> platform presence alone proves none of these"
+          ],
+          "source_references": [
+            "AIKosh-data boundary"
+          ]
+        },
+        {
+          "title": "Use-case deployment chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PUBLIC PROBLEM -> define legitimate objective",
+            "DATA + MODEL -> build or procure component",
+            "INTERFACE + HUMAN WORKFLOW -> operational decision",
+            "MONITORING + APPEAL -> accountability after output",
+            "RULE -> model capability is not service outcome"
+          ],
+          "source_references": [
+            "Use-case-model boundary",
+            "Decision-support boundary"
+          ]
+        },
+        {
+          "title": "Risk lifecycle",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PROBLEM SELECTION -> exclusion or mission creep",
+            "DATA / TRAINING -> bias, privacy and provenance",
+            "EVALUATION / PROCUREMENT -> hidden failure or lock-in",
+            "DEPLOYMENT / UPDATE -> automation bias and drift",
+            "CONTROL -> impact assessment, logs, incidents and review"
+          ],
+          "source_references": [
+            "Risk-lifecycle boundary",
+            "Procurement-accountability boundary"
+          ]
+        },
+        {
+          "title": "Risk and control matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BIAS -> representative tests and remedy",
+            "PRIVACY -> lawful purpose and minimisation",
+            "SECURITY -> access control and resilience",
+            "SAFETY / OPACITY -> evaluation, explanation and escalation",
+            "MISINFORMATION -> provenance, labelling and enforcement"
+          ],
+          "source_references": [
+            "Bias-fairness boundary",
+            "Privacy-security boundary",
+            "Deepfake-instrument boundary"
+          ]
+        },
+        {
+          "title": "Instrument hierarchy",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ADVISORY -> persuasive communication",
+            "CONSULTATION REPORT / GUIDELINE -> non-binding framework",
+            "NOTIFIED RULE -> binding under parent Act",
+            "ACT -> primary legislation",
+            "SECTORAL LAW -> context-specific enforceable duty"
+          ],
+          "source_references": [
+            "Guideline-law boundary",
+            "Sectoral-governance boundary"
+          ]
+        },
+        {
+          "title": "AI governance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> method, model, use case and deployment",
+            "MAP -> mission pillar, ministry, implementer and regulator",
+            "TRACE -> data, model, procurement, decision and monitoring",
+            "RETAIN -> human reasons, contestability and remedy",
+            "VERIFY -> outlay, compute, model and summit status officially"
+          ],
+          "source_references": [
+            "Procurement-accountability boundary",
+            "Sectoral-governance boundary",
+            "Volatile-mission boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Indian Society learner-v2 Topic 03",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-03",
+      "display_title": "Tribe and Tribal Society",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Society\\03_Tribe-and-Tribal-Society_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Category boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TRIBE -> no single universal sociological checklist",
+            "SCHEDULED TRIBE -> constitutional notification under Article 342",
+            "CONTINUUM -> historical thesis about long caste-society interaction",
+            "RULE -> the thesis never overrides the legal category"
+          ],
+          "source_references": [
+            "What a tribe is and is not",
+            "The tribe-caste continuum and its limit"
+          ]
+        },
+        {
+          "title": "Three policy positions",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ELWIN -> isolation, shield from market and settler exploitation",
+            "GHURYE -> assimilation, absorption as backward Hindus",
+            "NEHRU -> integration, development on tribals' own genius",
+            "OUTCOME -> none fully implemented, uneven acculturation followed"
+          ],
+          "source_references": [
+            "Elwin's isolation",
+            "Ghurye's assimilation",
+            "Nehru's Panchsheel integration"
+          ]
+        },
+        {
+          "title": "Panchsheel content",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "OWN GENIUS -> development on tribal terms",
+            "LAND AND FOREST -> rights retained rather than surrendered",
+            "SERVICES -> education, health and administration supplied",
+            "REJECTED -> both museum isolation and forced absorption"
+          ],
+          "source_references": [
+            "Nehru's Panchsheel integration"
+          ]
+        },
+        {
+          "title": "Why displacement recurs",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "RESOURCE GEOGRAPHY -> minerals, forests and hydel in tribal regions",
+            "PROJECT SITING -> mining, dams and industrial corridors",
+            "LOSS -> subsistence base and identity anchored in that land",
+            "EXPERIENCE -> development felt as trade-off, not shared gain"
+          ],
+          "source_references": [
+            "Why projects are sited in tribal regions"
+          ]
+        },
+        {
+          "title": "Two mechanisms of land loss",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DISPLACEMENT -> acute, project-driven, single event",
+            "LAND ALIENATION -> slow transfer through debt or encroachment",
+            "REMEDY 1 -> resettlement design and livelihood restoration",
+            "REMEDY 2 -> restriction and restoration of transferred land"
+          ],
+          "source_references": [
+            "Displacement and land alienation"
+          ]
+        },
+        {
+          "title": "Rehabilitation test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "LAND FOR LAND -> was an equivalent land base restored",
+            "LIVELIHOOD -> was the earning system rebuilt, not just paid for",
+            "COMMUNITY -> was the village relocated intact or scattered",
+            "VERDICT -> restoration means gain, compensation alone means loss"
+          ],
+          "source_references": [
+            "Rehabilitation as restoration or compensation",
+            "What decides the welfare sign"
+          ]
+        },
+        {
+          "title": "Vulnerability card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT -> 75 Particularly Vulnerable Tribal Groups",
+            "SPREAD -> 18 States and the UT of Andaman and Nicobar Islands",
+            "CRITERIA -> pre-agricultural technology, low literacy, subsistence economy"
+          ],
+          "source_references": [
+            "Particularly Vulnerable Tribal Groups as the sharpest case"
+          ]
+        },
+        {
+          "title": "Aggregation split",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "AGGREGATE FOR -> notification, entitlement portability, atrocity protection",
+            "DISAGGREGATE FOR -> livelihood design and scheme targeting",
+            "VARIATION -> forest-dependent, settled cultivator, urban tribal worker",
+            "CONTEXT -> Fifth Schedule belts against Sixth Schedule polities"
+          ],
+          "source_references": [
+            "Aggregation for rights, disaggregation for design",
+            "Fifth Schedule, Sixth Schedule and identity assertion"
+          ]
+        },
+        {
+          "title": "Knowledge domains",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ECOLOGICAL -> seasonal indicators, fire and fallow practice",
+            "MEDICINAL -> plant remedies held in practitioner lineages",
+            "GOVERNANCE -> customary rules on forest produce, grazing, water",
+            "CRAFT AND COSMOLOGY -> apprenticeship technique and sacred groves"
+          ],
+          "source_references": [
+            "Tribal knowledge systems"
+          ]
+        },
+        {
+          "title": "Mode contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EMBEDDED -> held in practice, not abstracted into models",
+            "COLLECTIVE -> authored by a community, not an individual",
+            "ORAL AND PLACE-SPECIFIC -> transmitted by speech, indexed to one tract",
+            "VALIDATION -> long-run use rather than controlled testing"
+          ],
+          "source_references": [
+            "Tribal knowledge systems"
+          ]
+        },
+        {
+          "title": "Erosion and prohibition",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "DISPLACEMENT -> severs the ecology the knowledge was indexed to",
+            "SCHOOLING AND MARKET -> break oral transmission chains",
+            "PROHIBITION 1 -> no substitute for public health or formal education",
+            "PROHIBITION 2 -> no unverified remedy attributed to a named tribe"
+          ],
+          "source_references": [
+            "Tribal knowledge systems",
+            "Scale, PYQ routes and the answer spine"
+          ]
+        },
+        {
+          "title": "Tribal answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> state the opinion and the framing being tested",
+            "BODY -> displacement axis, then rehabilitation adequacy",
+            "ADD -> what the framing omits: identity, services, self-governance",
+            "CLOSE -> graded verdict with the dated official evidence"
+          ],
+          "source_references": [
+            "Scale, PYQ routes and the answer spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

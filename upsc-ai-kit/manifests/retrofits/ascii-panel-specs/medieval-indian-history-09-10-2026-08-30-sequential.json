@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Medieval Indian History learner-v2 Topics 09-10",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-09",
+      "display_title": "Vijayanagara & the Bahmani Kingdom (Deccan)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\09_Vijayanagara-Bahmani-Kingdom_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Deccan political chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 1336 -> conventional Vijayanagara foundation anchor",
+            "1347 -> Bahmani kingdom established under Alauddin Hasan Bahman Shah",
+            "1420s-40s -> Deva Raya II strengthens Vijayanagara military adaptation",
+            "1425 -> Bahmani capital shifts from Gulbarga to Bidar",
+            "1509-29 -> Krishnadeva Raya and Tuluva apogee",
+            "1565 -> Talikota destroys the capital fabric; Aravidu power continues."
+          ],
+          "source_references": [
+            "Chronology",
+            "Dynastic transitions"
+          ]
+        },
+        {
+          "title": "Three contested zones",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "TUNGABHADRA DOAB -> fertile frontier, forts and recurring campaigns",
+            "KRISHNA-GODAVARI -> agrarian basin, routes and eastern-coast connections",
+            "KONKAN-GOA -> ports, customs, horse imports and western maritime access",
+            "                    |",
+            "          REVENUE + CAVALRY + LOGISTICS + PRESTIGE",
+            "RULE: political geography explains more than a Hindu-Muslim binary."
+          ],
+          "source_references": [
+            "Tungabhadra doab",
+            "Krishna-Godavari",
+            "Konkan-Goa"
+          ]
+        },
+        {
+          "title": "Foundation and evidence ladder",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "INSCRIPTIONS -> rulers, grants and dated claims | selective formulae",
+            "ARCHAEOLOGY -> settlement, water and buildings | cannot recover every motive",
+            "TRAVELLERS -> observed city and court | perspective, genre and exaggeration",
+            "LATER TRADITIONS -> remembered origins | chronology and political use require care",
+            "SAFE OPENING -> c. 1336 is conventional; founder biographies remain debated."
+          ],
+          "source_references": [
+            "Harihara",
+            "Bukka",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Vijayanagara dynastic sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SANGAMA -> early consolidation and Deccan rivalry",
+            "       |",
+            "SALUVA -> military intervention amid succession pressure",
+            "       |",
+            "TULUVA -> Krishnadeva Raya, campaigns and cultural patronage",
+            "       |",
+            "ARAVIDU -> continuation after the 1565 capital catastrophe",
+            "LESSON: dynastic replacement did not automatically erase the state."
+          ],
+          "source_references": [
+            "Sangama",
+            "Saluva",
+            "Tuluva",
+            "Aravidu"
+          ]
+        },
+        {
+          "title": "Water, capital and agrarian capacity",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "TUNGABHADRA LANDSCAPE + TANKS + CANALS",
+            "                    |",
+            "cultivation + urban supply + ritual water + military provisioning",
+            "                    |",
+            "taxable surplus + metropolitan density + resilience",
+            "                    |",
+            "STATE CAPACITY, but benefits and control remained socially unequal",
+            "UNESCO bridge: hydraulic remains support integration, not a welfare census."
+          ],
+          "source_references": [
+            "Irrigation",
+            "Hampi",
+            "UNESCO"
+          ]
+        },
+        {
+          "title": "Amaram and nayaka bargain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "RULER ASSIGNS REVENUE CLAIM / TERRITORIAL COMMAND",
+            "                    |",
+            "NAYAKA maintains troops, remits obligations and governs locally",
+            "                    |",
+            "service produces military reach but also entrenches regional power",
+            "                    |",
+            "weak centre -> hereditary drift, bargaining and later nayaka polities",
+            "CAUTION: comparison with iqta is functional, not an equation."
+          ],
+          "source_references": [
+            "Amaram",
+            "Nayaka",
+            "Military-fiscal system"
+          ]
+        },
+        {
+          "title": "Horse-port-military chain",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "WEST ASIAN HORSE SUPPLY -> PORTS / MERCHANTS / CUSTOMS",
+            "                              |",
+            "GOA / BHATKAL / KONKAN ROUTES -> inland movement and payment",
+            "                              |",
+            "cavalry recruitment + archery + commanders + fodder and remounts",
+            "                              |",
+            "competitive adaptation by Vijayanagara and Deccan states",
+            "RULE: imported horses mattered, but did not alone decide wars."
+          ],
+          "source_references": [
+            "Horse trade",
+            "Bhatkal",
+            "Portuguese relations"
+          ]
+        },
+        {
+          "title": "Hampi urban system",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "LANDSCAPE -> river, boulders, plains and defended approaches",
+            "SACRED -> temples, processions, tanks and continuing ritual",
+            "ROYAL -> enclosures, audience spaces, stables and elite display",
+            "COMMERCIAL -> bazaars, craft production and suburban settlements",
+            "HYDRAULIC -> channels, wells, tanks and agricultural support",
+            "VERDICT: capital, market, ritual and ecology formed one system."
+          ],
+          "source_references": [
+            "Hampi",
+            "Urbanism",
+            "UNESCO"
+          ]
+        },
+        {
+          "title": "Bahmani state and capital shift",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1347 GULBARGA -> foundation, frontier command and early consolidation",
+            "       |",
+            "1425 BIDAR -> revised strategic centre and courtly-cultural investment",
+            "       |",
+            "TARAFS -> provincial command, revenue and military resources",
+            "       |",
+            "late 15th c. -> stronger factions and successor-state formation",
+            "TRAP: capital shift is not the same event as dynastic foundation."
+          ],
+          "source_references": [
+            "Bahmani",
+            "Gulbarga",
+            "Bidar",
+            "Taraf"
+          ]
+        },
+        {
+          "title": "Mahmud Gawan reform logic",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "LARGE TARAFLANDS + POWERFUL GOVERNORS + ELITE RIVALRY",
+            "                    |",
+            "more provinces + forts under tighter control + khalisa enlargement",
+            "                    |",
+            "measurement, cash expectations and central checks",
+            "                    |",
+            "greater intended control -> factional resistance -> Gawan's execution",
+            "LESSON: sound design can fail without a durable governing coalition."
+          ],
+          "source_references": [
+            "Mahmud Gawan",
+            "Khalisa",
+            "Centralisation"
+          ]
+        },
+        {
+          "title": "Deccani-Afaqi coalition problem",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "DECCANIS -> longer-settled regional Muslim elites and allies",
+            "AFAQIS -> newer western and Central Asian migrants and networks",
+            "COMPETITION -> office, patronage, military command and court access",
+            "CROSS-CUTTING TIES -> marriage, language, service and local alliance",
+            "OUTCOME -> factional labels structure politics but are not racial absolutes",
+            "TRAP: do not turn elite rivalry into a timeless communal conflict."
+          ],
+          "source_references": [
+            "Deccanis",
+            "Afaqis",
+            "Elite factions"
+          ]
+        },
+        {
+          "title": "Topic 09 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> connected Deccan field organised by resources and routes",
+            "VIJAYANAGARA -> water + capital + amaram + cavalry + maritime diplomacy",
+            "BAHMANI -> capitals + tarafs + Gawan reform + factional coalition",
+            "EVIDENCE -> inscriptions + archaeology + travellers + monuments",
+            "TURNING POINT -> 1565 destroys Hampi fabric, not every political network",
+            "CLOSE -> rivalry and exchange jointly shaped later Deccan formations."
+          ],
+          "source_references": [
+            "Comparison",
+            "Talikota",
+            "Answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "medieval-indian-history-10",
+      "display_title": "The Bhakti & Sufi Movements",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\10_Bhakti-Sufi-Movements_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Plural devotional chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "6th-9th c. -> Alvar and Nayanar devotional corpora in the south",
+            "11th-13th c. -> Vedanta schools and early north Indian Sufi networks",
+            "13th-14th c. -> Chishti and Suhrawardi institutions expand",
+            "15th c. -> Kabir, Nanak and regional vernacular devotional currents",
+            "late 15th-16th c. -> Chaitanya, Surdas, Meera and wider literary publics",
+            "RULE: multiple currents overlap; no single movement starts everywhere."
+          ],
+          "source_references": [
+            "Chronology",
+            "Plurality"
+          ]
+        },
+        {
+          "title": "Bhakti field without flattening",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "SAGUNA -> devotion through embodied divine forms and narratives",
+            "NIRGUNA -> devotion to a formless absolute and critique of fixed representation",
+            "TEMPLE / SECT -> ritual, institution, pilgrimage and inherited authority",
+            "POET-SAINT / SONG -> oral performance, vernacular memory and community",
+            "VEDANTA -> Ramanuja, Madhva, Nimbarka and distinct philosophical grammars",
+            "CAUTION: these categories overlap and vary by region and period."
+          ],
+          "source_references": [
+            "Saguna",
+            "Nirguna",
+            "Bhakti diversity"
+          ]
+        },
+        {
+          "title": "Sufi vocabulary and transmission",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SILSILAH -> authorised chain of spiritual transmission",
+            "PIR -> guide | MURID -> disciple | KHALIFA -> authorised successor",
+            "KHANQAH -> discipline, teaching, hospitality and social contact",
+            "SAMA -> devotional audition, accepted and debated in different settings",
+            "ZIYARAT -> shrine visitation and remembered saintly presence",
+            "FANA -> effacement of ego before God, not a political programme."
+          ],
+          "source_references": [
+            "Silsilah",
+            "Khanqah",
+            "Sama",
+            "Fana"
+          ]
+        },
+        {
+          "title": "Chishti network and social credibility",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "AJMER: Muinuddin Chishti",
+            "          |",
+            "DELHI: Bakhtiyar Kaki -> Nizamuddin Auliya -> Nasiruddin Chiragh",
+            "          |",
+            "AJODHAN: Baba Farid and Punjabi memory",
+            "MECHANISM -> service + hospitality + counsel + sama + relative court distance",
+            "TRAP: popularity does not prove a centrally planned conversion campaign."
+          ],
+          "source_references": [
+            "Chishti",
+            "Ajmer",
+            "Delhi",
+            "Ajodhan"
+          ]
+        },
+        {
+          "title": "Chishti-Suhrawardi comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CHISHTI                         SUHRAWARDI",
+            "Ajmer, Delhi, Ajodhan           Multan and Punjab",
+            "poverty/service ideal           readier acceptance of grants",
+            "relative distance from office   greater possibility of official connection",
+            "khanqah credibility             learned and institutional resources",
+            "RULE: neither order was uniform, morally pure or socially identical."
+          ],
+          "source_references": [
+            "Chishti",
+            "Suhrawardi",
+            "Bahauddin Zakariya"
+          ]
+        },
+        {
+          "title": "Southern roots and Vedanta paths",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "ALVARS -> Tamil Vaishnava devotion and hymn traditions",
+            "NAYANARS -> Tamil Shaiva devotion and temple-linked memory",
+            "RAMANUJA -> qualified non-dualism and prapatti",
+            "MADHVA -> dualism and enduring difference between God and soul",
+            "NIMBARKA -> difference-and-non-difference formulation",
+            "LESSON: Bhakti is emotional devotion plus philosophical articulation."
+          ],
+          "source_references": [
+            "Alvars",
+            "Nayanars",
+            "Ramanuja",
+            "Madhva"
+          ]
+        },
+        {
+          "title": "Northward transmission with source caution",
+          "structural_type": "process",
+          "ascii_lines": [
+            "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+            " -> regional languages, temples, sects and remembered guru lineages",
+            " -> RAMANANDA tradition and diverse disciple lists",
+            " -> northern Rama devotion, nirguna critique and vernacular publics",
+            "CAUTION: hagiographic genealogy is not a dated attendance register."
+          ],
+          "source_references": [
+            "Ramananda",
+            "Transmission",
+            "Hagiography"
+          ]
+        },
+        {
+          "title": "Kabir critique and corpus method",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "CRITIQUE -> empty ritual, inherited rank and sectarian certainty",
+            "LANGUAGE -> accessible vernacular and memorable couplet",
+            "THEOLOGY -> nirguna devotion with vocabulary crossing social worlds",
+            "CORPUS -> oral circulation and variant later compilations",
+            "EFFECT -> ethical challenge and community formation, not abolished caste",
+            "LIVE BRIDGE -> modern Kabir memory cannot authenticate medieval wording."
+          ],
+          "source_references": [
+            "Kabir",
+            "Nirguna",
+            "Corpus criticism",
+            "PIB"
+          ]
+        },
+        {
+          "title": "Nanak householder ethic",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ONE DIVINE REALITY + REMEMBRANCE",
+            " -> HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE",
+            " -> critique of empty ritual, hierarchy and renunciatory monopoly",
+            " -> ethical community rooted in ordinary social life",
+            "CAUTION: separate Nanak's moment from later Sikh institutions."
+          ],
+          "source_references": [
+            "Guru Nanak",
+            "Householder path",
+            "Ethical monotheism"
+          ]
+        },
+        {
+          "title": "Chaitanya public devotion",
+          "structural_type": "process",
+          "ascii_lines": [
+            "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+            " -> KIRTAN: collective singing, movement and embodied participation",
+            " -> BENGAL-PURI network: pilgrimage, disciples and remembered charisma",
+            " -> broader affective public and literary-cultural transmission",
+            "TRAP: public participation did not automatically erase hierarchy."
+          ],
+          "source_references": [
+            "Chaitanya",
+            "Kirtan",
+            "Bengal",
+            "Puri"
+          ]
+        },
+        {
+          "title": "Bhakti-Sufi interaction without merger",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "SHARED FIELD -> towns, crafts, vernaculars, music, pilgrimage and service",
+            "SIMILARITIES -> love, guru/pir relation, ethical critique and accessible idiom",
+            "DIFFERENCES -> theology, scripture, law, ritual and institutional lineage",
+            "CONTACT -> translation, vocabulary, technique and shared audiences",
+            "SAFE FRAME -> parallel exchange or symbiosis with boundaries",
+            "TRAP: similarity is not proof of direct borrowing or doctrinal identity."
+          ],
+          "source_references": [
+            "Bhakti-Sufi comparison",
+            "Symbiosis",
+            "Boundaries"
+          ]
+        },
+        {
+          "title": "Topic 10 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> plural devotional and mystical currents, not two monoliths",
+            "SUFI -> vocabulary + order + khanqah + political posture",
+            "BHAKTI -> southern roots + doctrines + poet-saints + vernacularisation",
+            "COMPARE -> shared social field while preserving theological differences",
+            "QUALIFY -> inclusion, caste, gender, corpus and hagiographic limits",
+            "CLOSE -> enlarged ethical and cultural vocabularies without ending hierarchy."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Source method",
+            "Social impact"
+          ]
+        }
+      ]
+    }
+  ]
+}

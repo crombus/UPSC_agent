@@ -1,0 +1,1091 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-01",
+  "subject": "International-Relations",
+  "title": "FOREIGN-POLICY FOUNDATIONS AND STRATEGIC AUTONOMY",
+  "short_route": "RESULTS CHAIN OF EVERY → THREE LABELS, ONE CONTINUING → POSTURE VOCABULARY GRID → PANCHSHEEL CARD → FIVE LEVELS OF ENGAGEMENT → EVIDENTIARY LADDER OF INSTRUMENTS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\International-Relations\\learning-sessions\\v2\\subject-wide-syllabus\\international-relations-01_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-01-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "d91f314677614bd04b82501ce5ebfa842215b222e41709e5c822bf783a4dda44",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RESULTS CHAIN OF EVERY IR ANSWER",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESULTS CHAIN OF EVERY IR ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY, GROWTH, RESOURCES, TECHNOLOGY, DIASPORA, REPUTATION, AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "NEIGHBOUR, MAJOR POWER, REGION, GROUPING, INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "BILATERAL VISIT, REGIONAL FORUM, MINILATERAL COALITION, MULTILATERAL PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINT STATEMENT, AGREEMENT, CHARTER, DECLARATION, MEMORANDUM",
+          "role": "comparison"
+        },
+        {
+          "text": "ASYMMETRY, RIVAL-POWER COMPETITION, PARTNER POLITICS, CAPACITY LIMITS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "INTEREST → security, growth, resources, technology, diaspora, reputation, autonomy",
+        "EXTERNAL CONTEXT / ACTOR: neighbour, major power, region, grouping, institution",
+        "INSTRUMENT: bilateral visit, regional forum, minilateral coalition, multilateral platform",
+        "VERIFIED OUTCOME: joint statement, agreement, charter, declaration, memorandum",
+        "CONSTRAINT: asymmetry, rival-power competition, partner politics, capacity limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "INTEREST → security, growth, resources, technology, diaspora, reputation, autonomy",
+            "EXTERNAL CONTEXT / ACTOR: neighbour, major power, region, grouping, institution"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENT: bilateral visit, regional forum, minilateral coalition, multilateral platform",
+            "VERIFIED OUTCOME: joint statement, agreement, charter, declaration, memorandum"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "CONSTRAINT: asymmetry, rival-power competition, partner politics, capacity limits",
+            "CALIBRATED WAY FORWARD: diversify, hedge, sequence, build alternative capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CALIBRATED WAY FORWARD: diversify, hedge, sequence, build alternative capacity.",
+      "source_references": [
+        "National interest as the fixed starting point of the results chain"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE LABELS, ONE CONTINUING PRINCIPLE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE LABELS, ONE CONTINUING PRINCIPLE",
+          "role": "primary"
+        },
+        {
+          "text": "NO BLOC ALLIANCE, INDEPENDENT APPROACH, FRIENDLY RELATIONS WITH ALL",
+          "role": "caution"
+        },
+        {
+          "text": "STRATEGIC AUTONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "MULTIPOLAR-ERA LABEL FOR ISSUE-BY-ISSUE FREEDOM OF CHOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVERY RELEVANT PLATFORM ENGAGED ON ITS OWN TERMS, NON-EXCLUSIVELY",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENT, INTEREST-BASED DECISION-MAKING SURVIVES EVERY RELABELLING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NON-ALIGNMENT → no bloc alliance, independent approach, friendly relations with all",
+        "STRATEGIC AUTONOMY: multipolar-era label for issue-by-issue freedom of choice",
+        "MULTI-ALIGNMENT: every relevant platform engaged on its own terms, non-exclusively",
+        "CONSTANT → independent, interest-based decision-making survives every relabelling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "NON-ALIGNMENT → no bloc alliance, independent approach, friendly relations with all",
+            "STRATEGIC AUTONOMY: multipolar-era label for issue-by-issue freedom of choice"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MULTI-ALIGNMENT: every relevant platform engaged on its own terms, non-exclusively",
+            "CONSTANT → independent, interest-based decision-making survives every relabelling"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "NON-ALIGNMENT → no bloc alliance, independent approach, friendly relations with all",
+            "STRATEGIC AUTONOMY: multipolar-era label for issue-by-issue freedom of choice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTANT → independent, interest-based decision-making survives every relabelling.",
+      "source_references": [
+        "Nehru's three-part formulation of non-alignment",
+        "Strategic autonomy as the multipolar-era successor label",
+        "Multi-alignment as Shashi Tharoor's operational expression of the same principle"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POSTURE VOCABULARY GRID",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POSTURE VOCABULARY GRID",
+          "role": "primary"
+        },
+        {
+          "text": "ALIGN WITH THE STRONGER POWER AND ACCEPT ITS AGENDA",
+          "role": "mechanism"
+        },
+        {
+          "text": "ALIGN AGAINST THE STRONGER POWER TO CHECK IT",
+          "role": "mechanism"
+        },
+        {
+          "text": "ENGAGE AND MITIGATE RISK WITH MORE THAN ONE POWER",
+          "role": "caution"
+        },
+        {
+          "text": "EQUIDISTANCE OR NON-PARTICIPATION; EXPRESSLY NOT INDIA'S POSTURE",
+          "role": "caution"
+        },
+        {
+          "text": "HEDGING IS ACTIVE AND ASYMMETRIC, SO IT IS NEVER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BANDWAGONING → align with the stronger power and accept its agenda",
+        "BALANCING → align against the stronger power to check it",
+        "HEDGING → engage and mitigate risk with more than one power at the same time",
+        "NEUTRALITY → equidistance or non-participation; expressly not India's posture",
+        "RULE → hedging is active and asymmetric, so it is never fence-sitting"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "BANDWAGONING → align with the stronger power and accept its agenda",
+          "HEDGING → engage and mitigate risk with more than one power at the same time",
+          "RULE → hedging is active and asymmetric, so it is never fence-sitting"
+        ],
+        [
+          "BALANCING → align against the stronger power to check it",
+          "NEUTRALITY → equidistance or non-participation; expressly not India's posture",
+          "BANDWAGONING → align with the stronger power and accept its agenda"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "BANDWAGONING → align with the stronger power and accept its agenda",
+            "BALANCING → align against the stronger power to check it"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HEDGING → engage and mitigate risk with more than one power at the same time",
+            "NEUTRALITY → equidistance or non-participation; expressly not India's posture"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → hedging is active and asymmetric, so it is never fence-sitting",
+            "BANDWAGONING → align with the stronger power and accept its agenda"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → hedging is active and asymmetric, so it is never fence-sitting.",
+      "source_references": [
+        "Hedging distinguished from neutrality, bandwagoning and balancing",
+        "Strategic autonomy as the multipolar-era successor label"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PANCHSHEEL CARD",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PANCHSHEEL CARD",
+          "role": "primary"
+        },
+        {
+          "text": "PREAMBLE OF THE INDIA-CHINA AGREEMENT ON TRADE AND INTERCOURSE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCIPLE 1",
+          "role": "comparison"
+        },
+        {
+          "text": "MUTUAL RESPECT FOR SOVEREIGNTY AND TERRITORIAL INTEGRITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PRINCIPLE 2",
+          "role": "primary"
+        },
+        {
+          "text": "NON-AGGRESSION PRINCIPLE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINCIPLE 4",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUALITY AND MUTUAL BENEFIT PRINCIPLE 5",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INSTRUMENT → preamble of the India-China Agreement on Trade and Intercourse with the Tibet Region",
+        "PRINCIPLE 1 → mutual respect for sovereignty and territorial integrity",
+        "PRINCIPLE 2 → non-aggression PRINCIPLE 3 → non-interference",
+        "PRINCIPLE 4 → equality and mutual benefit PRINCIPLE 5 → peaceful coexistence",
+        "BOUNDARY → a normative-principles statement, not the non-alignment posture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "INSTRUMENT → preamble of the India-China Agreement on Trade and Intercourse with the Tibet Region of China, signed 29 April 1954",
+            "PRINCIPLE 1 → mutual respect for sovereignty and territorial integrity"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "PRINCIPLE 2 → non-aggression PRINCIPLE 3 → non-interference",
+            "PRINCIPLE 4 → equality and mutual benefit PRINCIPLE 5 → peaceful coexistence"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → a normative-principles statement, not the non-alignment posture",
+            "INSTRUMENT → preamble of the India-China Agreement on Trade and Intercourse with the Tibet Region of China, signed 29 April 1954"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → a normative-principles statement, not the non-alignment posture.",
+      "source_references": [
+        "Panchsheel of 1954 and its exact treaty context"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FIVE LEVELS OF ENGAGEMENT",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE LEVELS OF ENGAGEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SUMMIT VISIT, JOINT STATEMENT, DEFENCE OR TRADE AGREEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SAARC, BIMSTEC, IORA, INDIA-CENTRAL ASIA DIALOGUE",
+          "role": "comparison"
+        },
+        {
+          "text": "QUAD, I2U2, RIC, IBSA; SMALL, ISSUE-SPECIFIC, NON-TREATY",
+          "role": "evidence"
+        },
+        {
+          "text": "UNITED NATIONS, WORLD TRADE ORGANIZATION, IMF, WORLD BANK, G20",
+          "role": "primary"
+        },
+        {
+          "text": "PRAVASI BHARATIYA DIVAS, ITEC, CONSULAR AND WELFARE DIPLOMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE ISSUE IS FREQUENTLY WORKED AT MORE THAN ONE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BILATERAL → summit visit, joint statement, defence or trade agreement",
+        "REGIONAL → SAARC, BIMSTEC, IORA, India-Central Asia Dialogue",
+        "MINILATERAL → Quad, I2U2, RIC, IBSA; small, issue-specific, non-treaty",
+        "MULTILATERAL → United Nations, World Trade Organization, IMF, World Bank, G20",
+        "DIASPORA → Pravasi Bharatiya Divas, ITEC, consular and welfare diplomacy"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "BILATERAL → summit visit, joint statement, defence or trade agreement",
+          "MINILATERAL → Quad, I2U2, RIC, IBSA; small, issue-specific, non-treaty",
+          "DIASPORA → Pravasi Bharatiya Divas, ITEC, consular and welfare diplomacy"
+        ],
+        [
+          "REGIONAL → SAARC, BIMSTEC, IORA, India-Central Asia Dialogue",
+          "MULTILATERAL → United Nations, World Trade Organization, IMF, World Bank, G20",
+          "NOTE → one issue is frequently worked at more than one level at the same time"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "BILATERAL → summit visit, joint statement, defence or trade agreement",
+            "REGIONAL → SAARC, BIMSTEC, IORA, India-Central Asia Dialogue"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MINILATERAL → Quad, I2U2, RIC, IBSA; small, issue-specific, non-treaty",
+            "MULTILATERAL → United Nations, World Trade Organization, IMF, World Bank, G20"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIASPORA → Pravasi Bharatiya Divas, ITEC, consular and welfare diplomacy",
+            "NOTE → one issue is frequently worked at more than one level at the same time"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOTE → one issue is frequently worked at more than one level at the same time.",
+      "source_references": [
+        "The five levels of engagement and the instrument toolkit"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EVIDENTIARY LADDER OF INSTRUMENTS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENTIARY LADDER OF INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "BINDING ONCE RATIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "BINDING ON MEMBER STATES ONCE IN FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT STATEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL COMMITMENT, NOT A TREATY",
+          "role": "caution"
+        },
+        {
+          "text": "POLITICAL OR NORMATIVE, NOT LEGALLY BINDING",
+          "role": "caution"
+        },
+        {
+          "text": "MEMORANDUM OF UNDERSTANDING",
+          "role": "comparison"
+        },
+        {
+          "text": "STATEMENT OF INTENT, NOT SELF-EXECUTING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TREATY / AGREEMENT → binding once ratified",
+        "CHARTER → binding on member states once in force",
+        "JOINT STATEMENT / VISION → political commitment, not a treaty",
+        "DECLARATION → political or normative, not legally binding",
+        "MEMORANDUM OF UNDERSTANDING → statement of intent, not self-executing"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "TREATY / AGREEMENT → binding once ratified",
+          "DECLARATION → political or normative, not legally binding",
+          "PARTNER / OBSERVER STATUS → participation without membership rights and duties"
+        ],
+        [
+          "CHARTER → binding on member states once in force",
+          "MEMORANDUM OF UNDERSTANDING → statement of intent, not self-executing",
+          ""
+        ],
+        [
+          "JOINT STATEMENT / VISION → political commitment, not a treaty",
+          "CORRIDOR MEMORANDUM → framework of intent, not an operating segment",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "TREATY / AGREEMENT → binding once ratified",
+            "CHARTER → binding on member states once in force",
+            "JOINT STATEMENT / VISION → political commitment, not a treaty"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DECLARATION → political or normative, not legally binding",
+            "MEMORANDUM OF UNDERSTANDING → statement of intent, not self-executing",
+            "CORRIDOR MEMORANDUM → framework of intent, not an operating segment"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARTNER / OBSERVER STATUS → participation without membership rights and duties"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARTNER / OBSERVER STATUS → participation without membership rights and duties.",
+      "source_references": [
+        "Evidentiary levels and the legal-status gap"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DECLARED-VISION TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DECLARED-VISION TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "12 MARCH 2015",
+          "role": "outcome"
+        },
+        {
+          "text": "SAGAR ARTICULATED IN MAURITIUS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECURITY AND GROWTH FOR ALL IN THE REGION",
+          "role": "evidence"
+        },
+        {
+          "text": "12-13 JANUARY 2023",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST VOICE OF GLOBAL SOUTH SUMMIT, CONVENED VIRTUALLY BY",
+          "role": "outcome"
+        },
+        {
+          "text": "17 NOVEMBER 2023",
+          "role": "comparison"
+        },
+        {
+          "text": "SECOND VOICE OF GLOBAL SOUTH SUMMIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "12 MARCH 2015 → SAGAR articulated in Mauritius: Security and Growth for All in the",
+        "12-13 JANUARY 2023 → first Voice of Global South Summit, convened virtually by India",
+        "17 NOVEMBER 2023 → second Voice of Global South Summit",
+        "17 AUGUST 2024 → third Voice of Global South Summit; no fourth recorded as of",
+        "12 MARCH 2025 → MAHASAGAR announced at Port Louis as going beyond SAGAR"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "12 MARCH 2015 → SAGAR articulated in Mauritius: Security and Growth for All in the Region",
+            "12-13 JANUARY 2023 → first Voice of Global South Summit, convened virtually by India"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "17 NOVEMBER 2023 → second Voice of Global South Summit",
+            "17 AUGUST 2024 → third Voice of Global South Summit; no fourth recorded as of 3 August 2026"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "12 MARCH 2025 → MAHASAGAR announced at Port Louis as going beyond SAGAR",
+            "STATUS → declared visions and convened platforms, not treaties or delivered programmes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → declared visions and convened platforms, not treaties or delivered programmes.",
+      "source_references": [
+        "SAGAR of 2015 and MAHASAGAR of 2025 as declared visions",
+        "The Voice of Global South Summit as autonomous agenda-setting"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HEDGING STRESS TEST OF 2025-26",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HEDGING STRESS TEST OF 2025-26",
+          "role": "primary"
+        },
+        {
+          "text": "27 AUGUST 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "ADDITIONAL RUSSIAN-OIL-LINKED UNITED STATES DUTY TAKES EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "4 AND 6 AUGUST 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA OFFICIALLY CALLS THE ACTION UNJUSTIFIED AND UNREASONABLE",
+          "role": "primary"
+        },
+        {
+          "text": "31 OCTOBER 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "TEN-YEAR FRAMEWORK FOR THE US-INDIA MAJOR DEFENSE PARTNERSHIP SIGNED",
+          "role": "comparison"
+        },
+        {
+          "text": "4-5 DECEMBER 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "27 AUGUST 2025 → additional Russian-oil-linked United States duty takes effect",
+        "4 AND 6 AUGUST 2025 → India officially calls the action unjustified and unreasonable",
+        "31 OCTOBER 2025 → ten-year Framework for the US-India Major Defense Partnership signed",
+        "4-5 DECEMBER 2025 → twenty-third India-Russia Annual Summit held in New Delhi",
+        "7 FEBRUARY 2026 → the additional duty is removed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "27 AUGUST 2025 → additional Russian-oil-linked United States duty takes effect",
+            "4 AND 6 AUGUST 2025 → India officially calls the action unjustified and unreasonable"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "31 OCTOBER 2025 → ten-year Framework for the US-India Major Defense Partnership signed",
+            "4-5 DECEMBER 2025 → twenty-third India-Russia Annual Summit held in New Delhi"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "7 FEBRUARY 2026 → the additional duty is removed",
+            "READING → hedging held, but its cost was real, priced and third-party imposed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → hedging held, but its cost was real, priced and third-party imposed.",
+      "source_references": [
+        "The 2025-26 hedging stress test with dated, reversible measures"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AUTONOMY-DEPENDENCE TRADE-OFF",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "AUTONOMY-DEPENDENCE TRADE-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "OVERLAPPING, NON-EXCLUSIVE TIES WITH SEVERAL POWERS PROTECT CHOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEPENING ANY ONE TIE TOO FAR NARROWS THE CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "SIKRI CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "ENMESHING MILITARY PLANNING WHILE HEAVILY DEPENDENT ON RUSSIAN EQUIPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEDE THE TRADE-OFF; DO NOT ASSERT THAT AUTONOMY IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PORTFOLIO → overlapping, non-exclusive ties with several powers protect choice",
+        "THRESHOLD → deepening any one tie too far narrows the choice it was meant to",
+        "SIKRI CAUTION → enmeshing military planning while heavily dependent on",
+        "Russian equipment is called highly debatable absent reciprocal technology-sharing",
+        "ANSWER RULE → concede the trade-off; do not assert that autonomy is costless"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PORTFOLIO → overlapping, non-exclusive ties with several powers protect choice",
+            "THRESHOLD → deepening any one tie too far narrows the choice it was meant to protect"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIKRI CAUTION → enmeshing military planning while heavily dependent on",
+            "Russian equipment is called highly debatable absent reciprocal technology-sharing"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "ANSWER RULE → concede the trade-off; do not assert that autonomy is costless",
+            "PORTFOLIO → overlapping, non-exclusive ties with several powers protect choice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER RULE → concede the trade-off; do not assert that autonomy is costless.",
+      "source_references": [
+        "The autonomy-dependence trade-off as the doctrine's real cost"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ENERGY EXPOSURE AS VULNERABILITY AND LEVER",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ENERGY EXPOSURE AS VULNERABILITY AND LEVER",
+          "role": "primary"
+        },
+        {
+          "text": "A GULF DIASPORA OF FIVE MILLION GIVES VITAL INTERESTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRUDE-OIL IMPORT DEPENDENCE RECORDED AT 88.2 PER CENT IN",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 88.7 PER CENT PROVISIONAL FOR FY2025-26 PER THE",
+          "role": "evidence"
+        },
+        {
+          "text": "CARRY ISSUING BODY, FINANCIAL YEAR AND PROVISIONAL STATUS WITH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LEVER → a Gulf diaspora of five million gives vital interests and considerable influence",
+        "VULNERABILITY → crude-oil import dependence recorded at 88.2 per cent in FY2024-25",
+        "PROVISIONAL → about 88.7 per cent provisional for FY2025-26 per the same issuing body",
+        "DISCIPLINE → carry issuing body, financial year and provisional status with every figure"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "LEVER → a Gulf diaspora of five million gives vital interests and considerable influence",
+          "PROVISIONAL → about 88.7 per cent provisional for FY2025-26 per the same issuing body",
+          "LEVER → a Gulf diaspora of five million gives vital interests and considerable influence"
+        ],
+        [
+          "VULNERABILITY → crude-oil import dependence recorded at 88.2 per cent in FY2024-25",
+          "DISCIPLINE → carry issuing body, financial year and provisional status with every figure",
+          "VULNERABILITY → crude-oil import dependence recorded at 88.2 per cent in FY2024-25"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "LEVER → a Gulf diaspora of five million gives vital interests and considerable influence",
+            "VULNERABILITY → crude-oil import dependence recorded at 88.2 per cent in FY2024-25"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PROVISIONAL → about 88.7 per cent provisional for FY2025-26 per the same issuing body",
+            "DISCIPLINE → carry issuing body, financial year and provisional status with every figure"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEVER → a Gulf diaspora of five million gives vital interests and considerable influence",
+            "VULNERABILITY → crude-oil import dependence recorded at 88.2 per cent in FY2024-25"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → carry issuing body, financial year and provisional status with every figure.",
+      "source_references": [
+        "Gulf energy exposure as a simultaneous vulnerability and lever"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RECURRING ANALYTICAL GAPS APPLIED HERE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RECURRING ANALYTICAL GAPS APPLIED HERE",
+          "role": "primary"
+        },
+        {
+          "text": "A MEMORANDUM OR VISION TREATED AS A COMPLETED OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "SIGNATURE TREATED AS RATIFICATION, OR ADOPTION AS ENTRY INTO",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTNER OR OBSERVER STATUS DESCRIBED AS MEMBERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "A DEEPENED PARTNERSHIP DESCRIBED AS BLOC MEMBERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "ANOTHER STATE'S UNILATERAL MEASURE TREATED AS A DUTY ON",
+          "role": "institution"
+        },
+        {
+          "text": "NAME THE EXACT STAGE AND ITS DATE BEFORE MAKING",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ANNOUNCEMENT-DELIVERY → a memorandum or vision treated as a completed outcome",
+        "LEGAL-STATUS → signature treated as ratification, or adoption as entry into force",
+        "MEMBERSHIP-PARTICIPATION → partner or observer status described as membership",
+        "ALLIANCE-AUTONOMY → a deepened partnership described as bloc membership",
+        "SANCTIONS-OBLIGATION → another state's unilateral measure treated as a duty on India"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ANNOUNCEMENT-DELIVERY → a memorandum or vision treated as a completed outcome",
+            "LEGAL-STATUS → signature treated as ratification, or adoption as entry into force"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEMBERSHIP-PARTICIPATION → partner or observer status described as membership",
+            "ALLIANCE-AUTONOMY → a deepened partnership described as bloc membership"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "SANCTIONS-OBLIGATION → another state's unilateral measure treated as a duty on India",
+            "FIX → name the exact stage and its date before making any evaluative claim"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIX → name the exact stage and its date before making any evaluative claim.",
+      "source_references": [
+        "Evidentiary levels and the legal-status gap",
+        "The 2025-26 hedging stress test with dated, reversible measures"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A FOUNDATIONS DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A FOUNDATIONS DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE CONTINUING PRINCIPLE BEFORE NAMING ANY ERA-SPECIFIC LABEL",
+          "role": "institution"
+        },
+        {
+          "text": "TRACE ANTI-COLONIAL FORMATION, BLOC AVOIDANCE, DIVERSIFICATION, MULTI-ALIGNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CITE ONE DATED INSTRUMENT WITH ITS EXACT EVIDENTIARY LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEDE THE AUTONOMY-DEPENDENCE TRADE-OFF AND GIVE A CALIBRATED WAY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → state the continuing principle before naming any era-specific label",
+        "BUILD → trace anti-colonial formation, bloc avoidance, diversification, multi-alignment",
+        "TEST → cite one dated instrument with its exact evidentiary level and its actor",
+        "CLOSE → concede the autonomy-dependence trade-off and give a calibrated way forward"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "OPEN → state the continuing principle before naming any era-specific label",
+            "BUILD → trace anti-colonial formation, bloc avoidance, diversification, multi-alignment"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → cite one dated instrument with its exact evidentiary level and its actor",
+            "CLOSE → concede the autonomy-dependence trade-off and give a calibrated way forward"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "OPEN → state the continuing principle before naming any era-specific label",
+            "BUILD → trace anti-colonial formation, bloc avoidance, diversification, multi-alignment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → concede the autonomy-dependence trade-off and give a calibrated way forward.",
+      "source_references": [
+        "Honest question ownership and the recurring analytical gaps applied here",
+        "The autonomy-dependence trade-off as the doctrine's real cost"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PANCHSHEEL (1954)",
+          "role": "outcome"
+        },
+        {
+          "text": "THE EARLIEST FORMAL NORMATIVE ARCHITECTURE, STILL",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-ALIGNED MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "THE INSTITUTIONAL EXPRESSION OF BLOC-AVOIDANCE",
+          "role": "primary"
+        },
+        {
+          "text": "MINILATERAL ARCHITECTURE (QUAD, I2U2, G4, RIC, IBSA)",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH IS A",
+          "role": "comparison"
+        },
+        {
+          "text": "VOICE OF GLOBAL SOUTH SUMMIT (THIRD EDITION, 17 AUGUST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE AND INSTRUMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "Panchsheel (1954): the earliest formal normative architecture, still",
+            "Non-Aligned Movement: the institutional expression of bloc-avoidance;",
+            "CAUTION: Minilateral architecture (Quad, I2U2, G4, RIC, IBSA): each is a",
+            "Voice of Global South Summit (third edition, 17 August 2024): an"
+          ]
+        },
+        {
+          "heading": "STATUS, DATE AND FIGURE LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: US-Russia hedging as boundary case: India's deepening defence-technology",
+            "CAUTION: Gulf energy dependence as a boundary case: Sikri notes a Gulf diaspora",
+            "CAUTION: Central Asia as a constrained-autonomy case: Sikri highlights that",
+            "CAUTION: Boundary case — principled solidarity versus interest calculation: Global"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE DIPLOMATIC NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Hedging is not cost-free: deepening ties with competing powers",
+            "CAUTION: Defence-technology dependence risk: Sikri warns explicitly against",
+            "CAUTION: Capacity constraint on coalition leadership: convening or co-chairing",
+            "CAUTION: Normative-interest tension in messaging: principled language (sovereign"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

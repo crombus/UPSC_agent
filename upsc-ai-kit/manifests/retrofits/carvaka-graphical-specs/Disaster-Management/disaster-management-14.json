@@ -1,0 +1,1003 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-14",
+  "subject": "Disaster-Management",
+  "title": "URBAN AND CRITICAL INFRASTRUCTURE RESILIENCE",
+  "short_route": "URBAN RISK SYSTEM → CRITICALITY TEST → INTERDEPENDENCY WEB → RESILIENCE TRIAD → CONTINUITY PLAN → URBAN PLANNING STACK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-14_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-14-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "793151ad61fa6e014f945f2c87ea2212fc0255427d22c3824eb89659887cdd7d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "URBAN RISK SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "URBAN RISK SYSTEM",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERDEPENDENT WATER POWER TRANSPORT HEALTH TELECOM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CASCADING SERVICE FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "SYSTEMIC URBAN DISASTER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY",
+        "INTERDEPENDENT WATER POWER TRANSPORT HEALTH TELECOM",
+        "CASCADING SERVICE FAILURE",
+        "SYSTEMIC URBAN DISASTER"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY",
+            "INTERDEPENDENT WATER POWER TRANSPORT HEALTH TELECOM"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "CASCADING SERVICE FAILURE",
+            "SYSTEMIC URBAN DISASTER"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY",
+            "INTERDEPENDENT WATER POWER TRANSPORT HEALTH TELECOM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HAZARD + DENSITY + EXPOSED ASSETS + UNEQUAL VULNERABILITY.",
+      "source_references": [
+        "Urban disaster risk",
+        "Systemic and cascading failure"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CRITICALITY TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRITICALITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "IF FAILURE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISPROPORTIONATE LIFE",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNANCE EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "THEN CRITICAL",
+          "role": "primary"
+        },
+        {
+          "text": "LIFELINE FUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIORITY DEPENDS ON CONSEQUENCE, NOT OWNERSHIP OR SIZE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ASSET / NETWORK / SERVICE",
+        "IF FAILURE → DISPROPORTIONATE LIFE / HEALTH / GOVERNANCE EFFECT",
+        "THEN CRITICAL / LIFELINE FUNCTION",
+        "PRIORITY DEPENDS ON CONSEQUENCE, NOT OWNERSHIP OR SIZE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ASSET / NETWORK / SERVICE",
+            "IF FAILURE → DISPROPORTIONATE LIFE / HEALTH / GOVERNANCE EFFECT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "THEN CRITICAL / LIFELINE FUNCTION",
+            "PRIORITY DEPENDS ON CONSEQUENCE, NOT OWNERSHIP OR SIZE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ASSET / NETWORK / SERVICE",
+            "IF FAILURE → DISPROPORTIONATE LIFE / HEALTH / GOVERNANCE EFFECT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRIORITY DEPENDS ON CONSEQUENCE, NOT OWNERSHIP OR SIZE.",
+      "source_references": [
+        "Critical infrastructure and lifelines"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INTERDEPENDENCY WEB",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTERDEPENDENCY WEB",
+          "role": "primary"
+        },
+        {
+          "text": "WATER PUMPS",
+          "role": "outcome"
+        },
+        {
+          "text": "REPAIR ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARED NODE FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "MULTI-SYSTEM CASCADE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "POWER → WATER PUMPS / HOSPITALS / TELECOM",
+        "TELECOM → WARNING / DISPATCH / PAYMENT",
+        "TRANSPORT → STAFF / SUPPLY / REPAIR ACCESS",
+        "SHARED NODE FAILURE → MULTI-SYSTEM CASCADE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "POWER → WATER PUMPS / HOSPITALS / TELECOM",
+            "TELECOM → WARNING / DISPATCH / PAYMENT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TRANSPORT → STAFF / SUPPLY / REPAIR ACCESS",
+            "SHARED NODE FAILURE → MULTI-SYSTEM CASCADE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "POWER → WATER PUMPS / HOSPITALS / TELECOM",
+            "TELECOM → WARNING / DISPATCH / PAYMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSPORT → STAFF / SUPPLY / REPAIR ACCESS.",
+      "source_references": [
+        "Interdependency mapping",
+        "Systemic and cascading failure"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RESILIENCE TRIAD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESILIENCE TRIAD",
+          "role": "primary"
+        },
+        {
+          "text": "ALTERNATE CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RAPID RECOVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTORE PRIORITY FUNCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLETE RESILIENCE NEEDS ALL THREE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ROBUSTNESS → RESIST",
+        "REDUNDANCY / DIVERSITY → ALTERNATE CAPACITY",
+        "RAPID RECOVERY → RESTORE PRIORITY FUNCTION",
+        "COMPLETE RESILIENCE NEEDS ALL THREE"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "ROBUSTNESS → RESIST",
+          "RAPID RECOVERY → RESTORE PRIORITY FUNCTION",
+          "ROBUSTNESS → RESIST"
+        ],
+        [
+          "REDUNDANCY / DIVERSITY → ALTERNATE CAPACITY",
+          "COMPLETE RESILIENCE NEEDS ALL THREE",
+          "REDUNDANCY / DIVERSITY → ALTERNATE CAPACITY"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ROBUSTNESS → RESIST",
+            "REDUNDANCY / DIVERSITY → ALTERNATE CAPACITY"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RAPID RECOVERY → RESTORE PRIORITY FUNCTION",
+            "COMPLETE RESILIENCE NEEDS ALL THREE"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ROBUSTNESS → RESIST",
+            "REDUNDANCY / DIVERSITY → ALTERNATE CAPACITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RAPID RECOVERY → RESTORE PRIORITY FUNCTION; COMPLETE RESILIENCE NEEDS ALL THREE.",
+      "source_references": [
+        "Robustness redundancy and rapid recovery"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONTINUITY PLAN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONTINUITY PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE MINIMUM SERVICE + PRIORITY USERS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP STAFF SUPPLY DATA SITE AND UTILITY DEPENDENCIES",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVIDE BACKUP",
+          "role": "evidence"
+        },
+        {
+          "text": "MANUAL MODE",
+          "role": "primary"
+        },
+        {
+          "text": "SET RESTORATION ORDER TIME AND COMMUNICATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE MINIMUM SERVICE + PRIORITY USERS",
+        "MAP STAFF SUPPLY DATA SITE AND UTILITY DEPENDENCIES",
+        "PROVIDE BACKUP / ALTERNATE / MANUAL MODE",
+        "SET RESTORATION ORDER TIME AND COMMUNICATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DEFINE MINIMUM SERVICE + PRIORITY USERS",
+            "MAP STAFF SUPPLY DATA SITE AND UTILITY DEPENDENCIES"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROVIDE BACKUP / ALTERNATE / MANUAL MODE",
+            "SET RESTORATION ORDER TIME AND COMMUNICATION"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE MINIMUM SERVICE + PRIORITY USERS",
+            "MAP STAFF SUPPLY DATA SITE AND UTILITY DEPENDENCIES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP STAFF SUPPLY DATA SITE AND UTILITY DEPENDENCIES.",
+      "source_references": [
+        "Service continuity"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "URBAN PLANNING STACK",
+      "structural_type": "layered-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "URBAN PLANNING STACK",
+          "role": "primary"
+        },
+        {
+          "text": "LAND USE",
+          "role": "outcome"
+        },
+        {
+          "text": "DRAINAGE PATH",
+          "role": "comparison"
+        },
+        {
+          "text": "BUILDING AND DEVELOPMENT CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER BODY DRAIN SOLID-WASTE AND MAINTENANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WARD-CITY-CATCHMENT COORDINATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LAND USE / FLOODPLAIN / DRAINAGE PATH",
+        "BUILDING AND DEVELOPMENT CONTROL",
+        "WATER BODY DRAIN SOLID-WASTE AND MAINTENANCE",
+        "WARD-CITY-CATCHMENT COORDINATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "LAND USE / FLOODPLAIN / DRAINAGE PATH",
+            "BUILDING AND DEVELOPMENT CONTROL"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "WATER BODY DRAIN SOLID-WASTE AND MAINTENANCE",
+            "WARD-CITY-CATCHMENT COORDINATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LAND USE / FLOODPLAIN / DRAINAGE PATH",
+            "BUILDING AND DEVELOPMENT CONTROL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATER BODY DRAIN SOLID-WASTE AND MAINTENANCE; WARD-CITY-CATCHMENT COORDINATION.",
+      "source_references": [
+        "Risk-informed land use",
+        "Building-code and retrofit chain",
+        "Urban drainage governance"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RESILIENCE AUDIT",
+      "structural_type": "audit-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESILIENCE AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "1 CRITICAL FUNCTION AND USERS",
+          "role": "outcome"
+        },
+        {
+          "text": "2 HAZARD LOAD + DEPENDENCIES + SINGLE POINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "3 BACKUP DURATION + RECOVERY TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "4 PRIORITISED RETROFIT CONTINUITY AND DRILL ACTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1 CRITICAL FUNCTION AND USERS",
+        "2 HAZARD LOAD + DEPENDENCIES + SINGLE POINTS",
+        "3 BACKUP DURATION + RECOVERY TIME",
+        "4 PRIORITISED RETROFIT CONTINUITY AND DRILL ACTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "1 CRITICAL FUNCTION AND USERS",
+            "2 HAZARD LOAD + DEPENDENCIES + SINGLE POINTS"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 BACKUP DURATION + RECOVERY TIME",
+            "4 PRIORITISED RETROFIT CONTINUITY AND DRILL ACTION"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "1 CRITICAL FUNCTION AND USERS",
+            "2 HAZARD LOAD + DEPENDENCIES + SINGLE POINTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2 HAZARD LOAD + DEPENDENCIES + SINGLE POINTS.",
+      "source_references": [
+        "Criticality-based prioritisation"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ESSENTIAL FACILITY SHELL",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ESSENTIAL FACILITY SHELL",
+          "role": "primary"
+        },
+        {
+          "text": "FLOOD SAFETY",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER WATER CLINICAL SUPPLY AND TELECOM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ACCESS STAFF REFERRAL AND SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUE CARE WHILE DAMAGE IS REPAIRED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRUCTURE / FIRE / FLOOD SAFETY",
+        "POWER WATER CLINICAL SUPPLY AND TELECOM",
+        "ACCESS STAFF REFERRAL AND SECURITY",
+        "CONTINUE CARE WHILE DAMAGE IS REPAIRED"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "STRUCTURE / FIRE / FLOOD SAFETY",
+          "ACCESS STAFF REFERRAL AND SECURITY",
+          "STRUCTURE / FIRE / FLOOD SAFETY"
+        ],
+        [
+          "POWER WATER CLINICAL SUPPLY AND TELECOM",
+          "CONTINUE CARE WHILE DAMAGE IS REPAIRED",
+          "POWER WATER CLINICAL SUPPLY AND TELECOM"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "STRUCTURE / FIRE / FLOOD SAFETY",
+            "POWER WATER CLINICAL SUPPLY AND TELECOM"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ACCESS STAFF REFERRAL AND SECURITY",
+            "CONTINUE CARE WHILE DAMAGE IS REPAIRED"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURE / FIRE / FLOOD SAFETY",
+            "POWER WATER CLINICAL SUPPLY AND TELECOM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCESS STAFF REFERRAL AND SECURITY; CONTINUE CARE WHILE DAMAGE IS REPAIRED.",
+      "source_references": [
+        "Hospitals and emergency facilities"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EQUITY ACCESS TEST",
+      "structural_type": "balance-sheet",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EQUITY ACCESS TEST",
+          "role": "primary"
+        },
+        {
+          "text": "WHO LIVES IN HIGHEST EXPOSURE?",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO DEPENDS ON INTERRUPTIBLE OR INFORMAL SERVICES?",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO CAN REACH WARNING SHELTER HEALTH AND TRANSPORT?",
+          "role": "evidence"
+        },
+        {
+          "text": "RISK REDUCTION WITHOUT EXCLUSIONARY DISPLACEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WHO LIVES IN HIGHEST EXPOSURE?",
+        "WHO DEPENDS ON INTERRUPTIBLE OR INFORMAL SERVICES?",
+        "WHO CAN REACH WARNING SHELTER HEALTH AND TRANSPORT?",
+        "RISK REDUCTION WITHOUT EXCLUSIONARY DISPLACEMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WHO LIVES IN HIGHEST EXPOSURE?",
+            "WHO DEPENDS ON INTERRUPTIBLE OR INFORMAL SERVICES?"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "WHO CAN REACH WARNING SHELTER HEALTH AND TRANSPORT?",
+            "RISK REDUCTION WITHOUT EXCLUSIONARY DISPLACEMENT"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "WHO LIVES IN HIGHEST EXPOSURE?",
+            "WHO DEPENDS ON INTERRUPTIBLE OR INFORMAL SERVICES?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHO CAN REACH WARNING SHELTER HEALTH AND TRANSPORT?.",
+      "source_references": [
+        "Informal settlements and equity",
+        "Accessible lifelines"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GOVERNANCE MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GOVERNANCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPMENT AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTOR REGULATOR + SDMA",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATION DOES NOT ERASE OWNER DUTY",
+          "role": "caution"
+        },
+        {
+          "text": "ENABLING LAW",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ULB / UTILITY / DEVELOPMENT AUTHORITY / DISTRICT",
+        "SECTOR REGULATOR + SDMA / NDMA",
+        "COORDINATION DOES NOT ERASE OWNER DUTY",
+        "RECOMMENDATION / ENABLING LAW / NOTIFICATION / OPERATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ULB / UTILITY / DEVELOPMENT AUTHORITY / DISTRICT",
+            "SECTOR REGULATOR + SDMA / NDMA"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "COORDINATION DOES NOT ERASE OWNER DUTY",
+            "RECOMMENDATION / ENABLING LAW / NOTIFICATION / OPERATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ULB / UTILITY / DEVELOPMENT AUTHORITY / DISTRICT",
+            "SECTOR REGULATOR + SDMA / NDMA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECOMMENDATION / ENABLING LAW / NOTIFICATION / OPERATION.",
+      "source_references": [
+        "Urban institutions",
+        "Urban Flooding Cell status",
+        "Urban Disaster Management Authority status"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SMART RESILIENCE FIREWALL",
+      "structural_type": "trade-off-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SMART RESILIENCE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL TWIN",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMAND PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVACY + CYBERSECURITY + INTEROPERABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFLINE FALLBACK + HUMAN ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "EFFICIENCY WITHOUT BUFFER",
+          "role": "outcome"
+        },
+        {
+          "text": "BRITTLE SYSTEM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SENSORS / DIGITAL TWIN / COMMAND PLATFORM → AWARENESS",
+        "PRIVACY + CYBERSECURITY + INTEROPERABILITY",
+        "OFFLINE FALLBACK + HUMAN ACCOUNTABILITY",
+        "EFFICIENCY WITHOUT BUFFER → BRITTLE SYSTEM"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "SENSORS / DIGITAL TWIN / COMMAND PLATFORM → AWARENESS",
+          "OFFLINE FALLBACK + HUMAN ACCOUNTABILITY",
+          "SENSORS / DIGITAL TWIN / COMMAND PLATFORM → AWARENESS"
+        ],
+        [
+          "PRIVACY + CYBERSECURITY + INTEROPERABILITY",
+          "EFFICIENCY WITHOUT BUFFER → BRITTLE SYSTEM",
+          "PRIVACY + CYBERSECURITY + INTEROPERABILITY"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SENSORS / DIGITAL TWIN / COMMAND PLATFORM → AWARENESS",
+            "PRIVACY + CYBERSECURITY + INTEROPERABILITY"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OFFLINE FALLBACK + HUMAN ACCOUNTABILITY",
+            "EFFICIENCY WITHOUT BUFFER → BRITTLE SYSTEM"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SENSORS / DIGITAL TWIN / COMMAND PLATFORM → AWARENESS",
+            "PRIVACY + CYBERSECURITY + INTEROPERABILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SENSORS / DIGITAL TWIN / COMMAND PLATFORM → AWARENESS.",
+      "source_references": [
+        "Smart technology and privacy",
+        "Resilience versus efficiency"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "URBAN RESILIENCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "URBAN RESILIENCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE SYSTEMIC URBAN RISK AND CRITICAL LIFELINES",
+          "role": "caution"
+        },
+        {
+          "text": "MAP CASCADES",
+          "role": "comparison"
+        },
+        {
+          "text": "ROBUSTNESS REDUNDANCY CONTINUITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ADD LAND USE CODES DRAINAGE AUDIT EQUITY AND GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "USE CDRI",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNOLOGY WITH STATUS AND OUTCOME FIREWALLS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE SYSTEMIC URBAN RISK AND CRITICAL LIFELINES",
+        "MAP CASCADES → ROBUSTNESS REDUNDANCY CONTINUITY",
+        "ADD LAND USE CODES DRAINAGE AUDIT EQUITY AND GOVERNANCE",
+        "USE CDRI / TECHNOLOGY WITH STATUS AND OUTCOME FIREWALLS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE SYSTEMIC URBAN RISK AND CRITICAL LIFELINES",
+            "MAP CASCADES → ROBUSTNESS REDUNDANCY CONTINUITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ADD LAND USE CODES DRAINAGE AUDIT EQUITY AND GOVERNANCE",
+            "USE CDRI / TECHNOLOGY WITH STATUS AND OUTCOME FIREWALLS"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE SYSTEMIC URBAN RISK AND CRITICAL LIFELINES",
+            "MAP CASCADES → ROBUSTNESS REDUNDANCY CONTINUITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE CDRI / TECHNOLOGY WITH STATUS AND OUTCOME FIREWALLS.",
+      "source_references": [
+        "CDRI boundary",
+        "Input-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CDRI'S PRECISE INSTITUTIONAL PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "TO DEVELOP \"COMMON",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN DISASTER MANAGEMENT AUTHORITY STATUTORY STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "FIVE-CITY URBAN-FLOOD EVIDENCE BASE AS A CRITICAL-INFRASTRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CDRI'S CATASTROPHE-BOND AND RESERVE-FUND TOOLS AS UNDERUSED IN",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITICALITY MAPPING IS IMPLIED BUT NOT NAMED AS A",
+          "role": "caution"
+        },
+        {
+          "text": "LIFELINE-FAILURE IMPACT IS NOT EVENLY DISTRIBUTED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CDRI's precise institutional purpose : to develop \"common",
+            "Urban Disaster Management Authority statutory status : the",
+            "Five-city urban-flood evidence base as a critical-infrastructure",
+            "CAUTION: CDRI's catastrophe-bond and reserve-fund tools as underused in"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Criticality mapping is implied but not named as a distinct",
+            "CAUTION: Lifeline-failure impact is not evenly distributed: informal",
+            "CAUTION: Retrofitting existing lifeline infrastructure versus new-build",
+            "CAUTION: \"Build Back Better\" for management systems versus physical"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"CDRI membership/Urban Flooding Cell exists, therefore urban",
+            "CAUTION: International-standard-setting versus domestic-operational",
+            "CDRI's financing thematic area names budget reserve funds and",
+            "Any current claim about Indian cities' actual use of catastrophe"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

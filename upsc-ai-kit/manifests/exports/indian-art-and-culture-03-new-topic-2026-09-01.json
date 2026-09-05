@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "topic_key": "indian-art-and-culture-03",
+  "subject": "Indian-Art-and-Culture",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "indian-art-and-culture-03",
+  "title": "Temple Architecture and Chandella Khajuraho",
+  "variant": "learner-v2",
+  "generation": 1,
+  "generation_date": "2026-09-01",
+  "command": "Generate learner-v2 topic: Indian Art and Culture — Subject-wide Syllabus — Temple Architecture and Chandella Khajuraho",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-03_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-03_Solved-Workbook.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\03_Temple-Architecture-and-Chandella-Khajuraho_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Nitin Singhania's Indian Art and Culture.pdf"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+  ],
+  "official_question_sources": [],
+  "live_sources": [
+    "https://whc.unesco.org/en/list/240/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\03_Temple-Architecture-and-Chandella-Khajuraho.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\03_Temple-Architecture-and-Chandella-Khajuraho_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-03_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-03_Solved-Workbook.md",
+    "upsc-ai-kit\\manifests\\v2\\indian-art-and-culture--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-04-2026-09-01-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Indian-Art-and-Culture\\indian-art-and-culture-03.json",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\00_Master-Framework.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\README.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\REVISION-CHART_Forms-Styles-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "books\\Nitin Singhania's Indian Art and Culture.pdf"
+  ],
+  "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+  "pyq_status_note": "Verified owned Mains routes are the 2024 Pallava and Chola demands, the 2025 Chandella demand, and the routed 2022 demand on medieval temple sculpture as social evidence. The 2026 objective route remains provisionally keyed and is not solved.",
+  "current_linkage_note": "UNESCO's official Khajuraho Group of Monuments page was fetched on 2026-09-01. It corroborates the axial Nagara plan, clustered spires, integrated sacred-secular sculpture and ASI management. No unsupported visitor or conservation figure is added.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "ascii_panel_count": 12,
+  "graphical_stage_count": 13,
+  "supersedes": null,
+  "tracker_untouched": true
+}

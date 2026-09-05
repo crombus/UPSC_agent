@@ -1,0 +1,339 @@
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\01-Importance-and-Historiography-of-Ancient-India\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\02-Sources-of-Ancient-Indian-History\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\03-Geographical-Setting-and-Ecology\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\04-The-Stone-Age-Palaeolithic-and-Mesolithic\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\05-Neolithic-and-Chalcolithic-Cultures\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\06-The-Harappan-Civilization\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\07-The-Aryan-Problem-and-Identity-of-Aryan-Culture\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\09-The-Later-Vedic-Phase\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\10-Jainism-and-Buddhism\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\11-Mahajanapadas-and-Rise-of-Magadha\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\01-The-Earth-and-the-Universe-India-Location-and-Extent\README.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\02-The-Earths-Crust-Rocks-India-Geological-Structure\README.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\README.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\04-Weathering-Mass-Movement-Groundwater-India-Erosion-Landslides-Groundwater\README.txt
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\28-Human-Settlements-and-Urbanisation\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\30-Primary-Economic-Activities-Agriculture\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Philosophy Optional\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\01-Carvaka\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\02-Jainism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\03-Schools-of-Buddhism\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\04-Nyaya-Vaisesika\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\05-Samkhya\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\02-Proofs-for-the-Existence-of-God\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\03-Problem-of-Evil\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-Immortality-Rebirth-and-Liberation\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\05-Reason-Revelation-and-Faith\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\07-Religion-without-God\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\08-Religion-and-Morality\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\09-Religious-Pluralism-and-Absolute-Truth\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\10-Nature-of-Religious-Language\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\INDEX.md
+notes\Final-Learning-Packages\Polity\INDEX.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\01-Historical-Background\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\02-Making-of-the-Constitution\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\03-Salient-Features\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\05-Union-and-Territory\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\06-Citizenship\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\07-Fundamental-Rights\README.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+tools\export_four_item_library.py
+tools\test_export_four_item_library.py
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-23-changed-files.txt
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-23-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-23.json

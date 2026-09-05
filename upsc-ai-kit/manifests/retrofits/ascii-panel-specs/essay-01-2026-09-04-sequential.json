@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Essay learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "display_title": "Paper Rules, Choice and Selection",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-01_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Official paper boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "2024 PAPER -> clean two-essay and one-per-section instruction",
+            "2025 PAPER -> garbled English line but two sections remain clear",
+            "SCHEME -> three-hour duration",
+            "FIREWALL -> audited fact is not a prediction of a future paper"
+          ],
+          "source_references": [
+            "2024 printed instruction",
+            "2025 audited boundary",
+            "Duration boundary"
+          ]
+        },
+        {
+          "title": "Section-choice constraint",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "SECTION A -> scan four prompts -> choose one",
+            "SECTION B -> scan four prompts -> choose one",
+            "PAIR -> two essays",
+            "INVALID -> both choices from the same Section"
+          ],
+          "source_references": [
+            "One-per-section constraint",
+            "Four-prompt choice set"
+          ]
+        },
+        {
+          "title": "Paper-layout cautions",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "BILINGUAL -> Hindi then English",
+            "2024 B NUMBERING -> restarts",
+            "2025 B NUMBERING -> continues",
+            "ACTION -> read headings before relying on numbers"
+          ],
+          "source_references": [
+            "Bilingual display",
+            "Numbering instability"
+          ]
+        },
+        {
+          "title": "Official versus strategic",
+          "structural_type": "firewall",
+          "ascii_lines": [
+            "OFFICIAL -> attempt structure and audited wording",
+            "STRATEGY -> scan, score, allocate and commit",
+            "NOT PRINTED -> granular rubric or paragraph count",
+            "RULE -> never promote a heuristic into an instruction"
+          ],
+          "source_references": [
+            "Rubric boundary",
+            "Rule-strategy firewall",
+            "Time allocation"
+          ]
+        },
+        {
+          "title": "Prompt viability gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "RESTATABLE CLAIM?",
+            "QUALIFIED THESIS?",
+            "DISTINCT DIMENSIONS?",
+            "SAFE EVIDENCE? -> if any answer is no, raise risk"
+          ],
+          "source_references": [
+            "Thesis-fit",
+            "Interpretive clarity",
+            "Dimension distinctness",
+            "Evidence availability"
+          ]
+        },
+        {
+          "title": "Familiarity test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FAMILIAR + THESIS-FIT -> usable",
+            "FAMILIAR + FACT STACK -> unsafe",
+            "UNFAMILIAR + CLEAR TENSION -> potentially safer",
+            "DECISION -> tractability outranks comfort"
+          ],
+          "source_references": [
+            "Familiarity limit",
+            "Thesis-fit"
+          ]
+        },
+        {
+          "title": "Originality boundary",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "PLAIN READING -> faithful but contestable",
+            "ORIGINAL MOVE -> qualified connection or synthesis",
+            "ECCENTRIC MOVE -> loses the printed relation",
+            "KEEP -> originality that remains text-bound"
+          ],
+          "source_references": [
+            "Originality limit",
+            "Interpretive clarity"
+          ]
+        },
+        {
+          "title": "Evidence-risk screen",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "GREEN -> named and safely recallable illustration",
+            "AMBER -> useful but detail uncertain",
+            "RED -> invented number, author or forced example",
+            "CHOICE -> prefer the prompt with stronger evidence safety"
+          ],
+          "source_references": [
+            "Evidence availability",
+            "Risk screening",
+            "Attribution boundary"
+          ]
+        },
+        {
+          "title": "Conclusion feasibility",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "THESIS -> DIMENSIONS -> COUNTER-VIEW",
+            "COUNTER-VIEW -> QUALIFICATION",
+            "QUALIFICATION -> EARNED SYNTHESIS",
+            "FORCED ENDING -> warning that choice may be weak"
+          ],
+          "source_references": [
+            "Thesis-fit",
+            "Risk screening"
+          ]
+        },
+        {
+          "title": "Two-essay portfolio",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "ESSAY A -> clarity + depth + evidence",
+            "ESSAY B -> clarity + depth + evidence",
+            "SHARED BUDGET -> planning + drafting + revision",
+            "PAIR TEST -> neither choice should impoverish the other"
+          ],
+          "source_references": [
+            "Two-essay portfolio",
+            "Time allocation"
+          ]
+        },
+        {
+          "title": "Commitment rule",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "BOUNDED SCAN -> viability passed -> commit",
+            "EARLY FAILURE -> switch once before drafting expands",
+            "LATE DOUBT -> return to thesis and evidence map",
+            "DISCIPLINE -> do not chase a fashionable alternative"
+          ],
+          "source_references": [
+            "Commitment discipline",
+            "Risk screening"
+          ]
+        },
+        {
+          "title": "Selection answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "READ RULE -> SCAN EACH SECTION -> CLASSIFY PROMPTS",
+            "TEST THESIS -> TEST DIMENSIONS -> TEST EVIDENCE",
+            "SCREEN RISK -> TEST THE PAIR -> ALLOCATE TIME",
+            "COMMIT -> DECODE OR SCOPE -> PLAN"
+          ],
+          "source_references": [
+            "Rule-strategy firewall",
+            "Two-essay portfolio",
+            "Commitment discipline"
+          ]
+        }
+      ]
+    }
+  ]
+}

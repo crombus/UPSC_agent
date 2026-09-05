@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "international relations-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "international relations_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-02",
+      "display_title": "India and the Neighbourhood",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Neighbourhood map and friction count",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LAND OR MARITIME BORDER -> Pakistan, China, Nepal, Bhutan, Bangladesh,",
+            "Myanmar, Sri Lanka, Maldives",
+            "NEAR-NEIGHBOUR -> Afghanistan, adjacent after Pakistan's 1948 capture of a strip",
+            "of north-western Kashmir",
+            "FRICTION RECORD -> a history of problems with six of the eight bordering states",
+            "RULE -> neighbourhood is defined by security relevance, not only by contiguity",
+            "MUST REMEMBER: Neighbourhood policy joins sovereignty, security, borders, rivers,...",
+            "MUST REMEMBER: Neighbourhood policy joins sovereignty, security, borders, rivers,...",
+            "MUST REMEMBER: Neighbourhood policy joins sovereignty, security, borders, rivers,..."
+          ],
+          "source_references": [
+            "India's eight bordering neighbours and Afghanistan as a near-neighbour",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Gujral Doctrine card",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PRINCIPLE 1 -> no reciprocity sought from smaller neighbours",
+            "PRINCIPLE 2 -> no interference in their internal affairs",
+            "PRINCIPLE 3 -> Indian territory not to be used against them",
+            "PRINCIPLE 4 -> respect for their territorial integrity",
+            "PRINCIPLE 5 -> bilateral and peaceful settlement of disputes",
+            "DEFINING FEATURE -> non-reciprocal accommodation, never reciprocity as a precondition"
+          ],
+          "source_references": [
+            "The Gujral Doctrine and its five principles",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Asymmetry to policy design",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SIZE ASYMMETRY -> India larger than the entire immediate neighbourhood combined",
+            "-> DEPENDENCE ANXIETY: smaller states prefer regional-framework engagement",
+            "-> NON-RECIPROCAL ACCOMMODATION: the doctrine answers the anxiety directly",
+            "-> CONNECTIVITY AND CREDIT: tangible public goods build confidence over time",
+            "-> TRANSITION TEST: does the benefit survive a change of government"
+          ],
+          "source_references": [
+            "Asymmetric interdependence as the structural starting point",
+            "Sikri's regional-framework preference among smaller neighbours",
+            "Regime-oriented against people-to-people engagement",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Neighbour-type comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SMALLER STATES -> Bhutan, Nepal, Maldives, Sri Lanka; greater interest in economic",
+            "integration; regional framework preferred because numbers give a sense of security",
+            "LARGER OR MORE COMPLEX -> Pakistan and Bangladesh; more bilateral posture; distinct",
+            "security and historical dynamics",
+            "QUALIFIER -> regional preference is reassurance, not a rejection of bilateral delivery"
+          ],
+          "source_references": [
+            "Sikri's regional-framework preference among smaller neighbours",
+            "Asymmetric interdependence as the structural starting point",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Connectivity instrument ledger",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "1 NOVEMBER 2023 -> Akhaura-Agartala cross-border rail link inaugurated",
+            "2015 -> BBIN Motor Vehicles Agreement signed; Bhutan non-ratification constrains it",
+            "2019 / 2022 -> 720 MW Mangdechhu commissioned, then handed over to Bhutan",
+            "MAY 2023 -> Kaladan waterway and Sittwe Port operationalised; road component lagged",
+            "1 JUNE 2026 -> both sides still calling for Kaladan completion",
+            "RULE -> the gap is segment delivered against corridor completed"
+          ],
+          "source_references": [
+            "Bangladesh connectivity and the BBIN subregional instrument",
+            "Bhutan hydropower and the current commitment set",
+            "Act East physical routes and the segment-against-corridor distinction",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Dated bilateral instrument matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SRI LANKA -> seven MoUs, 5 April 2025; brief current to July 2026; Sampur 120 MW",
+            "had ground-breaking, not commissioning",
+            "MALDIVES -> Joint Vision 7 October 2024; FTA Terms of Reference 25 July 2025;",
+            "INR 4,850 crore line of credit; brief current to June 2026",
+            "BHUTAN -> INR 100 billion for the 13th Five Year Plan 2024-29; rail MoU 29 September",
+            "2025; Gelephu Mindfulness City support 12 November 2025",
+            "LEVEL -> vision, terms of reference, memorandum and credit are pre-delivery instruments"
+          ],
+          "source_references": [
+            "Sri Lanka's current instrument set and its pre-delivery status",
+            "Maldives instruments and the maritime cross-link",
+            "Bhutan hydropower and the current commitment set",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Sri Lanka 2022 first-responder card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "BY 3 MAY 2022 -> more than USD 3 billion recorded in assistance during 2022",
+            "USD 1 billion -> facility for food, medicines and essentials",
+            "USD 500 million -> petroleum credit line; close to 400,000 tonnes of fuel delivered",
+            "ABOUT USD 1 billion -> Asian Clearing Union payment deferment",
+            "USD 400 million -> Reserve Bank of India currency swap; 25 districts covered",
+            "LIMIT -> around USD 4 billion is the full-year description; structural problems remained"
+          ],
+          "source_references": [
+            "Sri Lanka's 2022 crisis as the first-responder evidence set",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Transition-test timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "16 AUGUST 2024 -> India engages Bangladesh's interim government",
+            "12 SEPTEMBER 2025 -> India welcomes Nepal's interim government under Sushila Karki",
+            "20 AUGUST 2025 -> India presses for early inclusive elections in Bangladesh",
+            "12 FEBRUARY 2026 -> Bangladesh parliamentary elections held",
+            "5 MARCH 2026 -> Nepal elections held",
+            "READING -> India engaged the successor arrangement in each case, not the outgoing one"
+          ],
+          "source_references": [
+            "Bangladesh's political transition and the Ganga Waters Treaty horizon",
+            "Nepal's transition and the power-trade understanding",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Water-security ledger",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "23 APRIL 2025 -> Cabinet Committee on Security holds the Indus Waters Treaty in abeyance",
+            "CONDITION -> until Pakistan credibly and irrevocably abjures cross-border terrorism support",
+            "16 MAY 2026 -> India restates that the Court of Arbitration is illegally constituted",
+            "DECEMBER 2026 -> the 1996 Ganga Waters Treaty expires",
+            "13 FEBRUARY 2026 -> India states that renewal talks had not begun",
+            "DOCTRINE TEST -> non-reciprocity is least stable where the shared resource is finite"
+          ],
+          "source_references": [
+            "Pakistan and the water-security linkage under adversarial conditions",
+            "Bangladesh's political transition and the Ganga Waters Treaty horizon",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Status distinctions that decide close options",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ABEYANCE -> an executive decision on operation; expressly not treaty termination",
+            "UNDERSTANDING OF 10 MAY 2025 -> to stop all military activities; not a ceasefire agreement",
+            "EMBASSY UPGRADE OF 21 OCTOBER 2025 -> mission level changed; no recognition declaration",
+            "TERMS OF REFERENCE -> negotiations launched; not a concluded free trade agreement",
+            "CLOSE DISTINCTION: Treaty text, political understanding, project announcement, financing...",
+            "CLOSE DISTINCTION: Treaty text, political understanding, project announcement, financing...",
+            "CLOSE DISTINCTION: Treaty text, political understanding, project announcement, financing..."
+          ],
+          "source_references": [
+            "Pakistan and the water-security linkage under adversarial conditions",
+            "Afghanistan engagement and the presence-against-recognition distinction",
+            "Maldives instruments and the maritime cross-link",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Domestic and external constraint band",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "FEDERAL -> Teesta shows Indian state-level interests constraining a bilateral agreement",
+            "PARTNER POLITICS -> India must closely follow neighbouring political trends",
+            "NON-INTERFERENCE -> the Gujral principle sits in tension with that necessity",
+            "OUTSIDE POWER -> Sikri's dated critique of external guidance of South Asia policy",
+            "RULE -> cite the constraint with its date and its author, never as current fact",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use named India-centric evidence such...",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use named India-centric evidence such...",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use named India-centric evidence such..."
+          ],
+          "source_references": [
+            "Teesta and the federal constraint on neighbourhood diplomacy",
+            "Domestic-political sensitivity and the historical-involvement tension",
+            "The implementation-credibility test, the outside-power variable and honest question ownership",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a neighbourhood demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> establish structural asymmetry and the non-reciprocal doctrinal response",
+            "BUILD -> distinguish smaller-state and larger-state engagement patterns by name",
+            "TEST -> cite one dated instrument with its exact evidentiary level and its limitation",
+            "CLOSE -> apply the implementation-credibility test across a change of government"
+          ],
+          "source_references": [
+            "The implementation-credibility test, the outside-power variable and honest question ownership",
+            "What this owner holds and how its scope is bounded",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g3\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g4\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-02\\g5\\international-relations-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

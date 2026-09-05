@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Philosophy",
+    "display_name": "Philosophy Optional"
+  },
+  "section": {
+    "key": "paper-i-indian-philosophy",
+    "name": "Philosophy Paper I — Indian Philosophy",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md"
+    ],
+    "notes": "Complete nine-topic Indian Philosophy section in official/source order. All regenerated packages use English-first concepts with immediate Sanskrit/Pali IAST and remain unapproved pending explicit user approval."
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "display_title": "Carvaka (Cārvāka / Lokāyata)",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 1: Carvaka—Theory of Knowledge and rejection of transcendent entities.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Complete-Learning-Session_2026-08-10.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Critiques-of-metaphysics.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-01_Learning-Session_2026-08-29.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-01_Solved-Workbook_2026-08-29.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-english-first-g15",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-01:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "display_title": "Jainism",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 2: Jainism—Theory of Reality; Saptabhanginaya; Bondage and Liberation.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Complete-Learning-Session_2026-08-17.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Self-and-liberation-across-schools.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-02_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-02_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-english-first-g15",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-02:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "display_title": "Schools of Buddhism",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 3: Schools of Buddhism—Dependent Origination; Momentariness; No-Self.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Buddhism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Buddhism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Buddhism\\Schools-of-Buddhism_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Self-and-liberation-across-schools.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-03_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-03_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-english-first-g15",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-03:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "display_title": "Nyaya-Vaisesika (Nyāya–Vaiśeṣika)",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 4: Nyaya–Vaisesika—Categories; Appearance; Pramanas; Self; Liberation; God; Causation; Atomism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Causation-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Self-and-liberation-across-schools.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-04_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-04_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-english-first-g15",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-04:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "display_title": "Samkhya (Sāṃkhya)",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 5: Samkhya—Primordial Nature; Conscious Witness; Causation; Liberation.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Causation-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Self-and-liberation-across-schools.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-05_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-05_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-english-first-g15",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-05:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-06",
+      "display_title": "Yoga",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 6: Yoga—Mind; Mental Modifications; Afflictions; Absorption; Isolation.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Yoga.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Yoga.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Yoga\\Yoga_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Self-and-liberation-across-schools.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-06_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-06_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-06_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-06\\continuous-at-a-glance-english-first-g4",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-06:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-07",
+      "display_title": "Mimamsa (Mīmāṃsā)",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 7: Mimamsa—Knowledge; Intrinsic Validity; Error; Non-Cognition; Postulation; Self; Liberation; God.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Mimamsa.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Mimamsa.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Mimamsa\\Mimamsa_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Vedanta.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-07_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-07_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-07_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-07\\continuous-at-a-glance-english-first-g4",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-07:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-08",
+      "display_title": "Schools of Vedanta (Vedānta)",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 8: Schools of Vedanta—Brahman; God; Self; Individual; World; Illusion; Ignorance; Liberation; Major Schools.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Vedanta.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Vedanta.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Schools-of-Vedanta\\Schools-of-Vedanta_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Pramana-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Causation-across-schools.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_themes\\Self-and-liberation-across-schools.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-08_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-08_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-08_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-08\\continuous-at-a-glance-english-first-g4",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-08:legacy-v1:g1"
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-09",
+      "display_title": "Aurobindo",
+      "syllabus_mapping": "Philosophy Paper I, Indian Philosophy topic 9: Aurobindo—Evolution; Involution; Integral Yoga.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Aurobindo.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Aurobindo.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Sri-Aurobindo\\Sri-Aurobindo_Layered-Complete-Learning-Session_2026-08-18.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Vedanta.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Yoga.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-09_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-09_Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-09_Solved-Workbook_2026-09-02.pdf",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+      "graphical_flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-09\\continuous-at-a-glance-english-first-g4",
+      "superseded_v1": "philosophy-paper-i-indian-philosophy-09:legacy-v1:g1"
+    }
+  ]
+}

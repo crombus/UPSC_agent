@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-17",
+      "display_title": "Savanna Sudan Climate",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Savanna transition map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EQUATORWARD -> wetter and taller grass",
+            "SUDAN BELT -> classic wet-dry savanna",
+            "POLEWARD -> shorter grass and open trees",
+            "DESERT MARGIN -> drought risk intensifies",
+            "MUST REMEMBER: Savanna Aw/As climates reflect seasonal ITCZ migration between convective wet",
+            "  summers and subtropical-high dry winters, sustaining tall grasses with scattered",
+            "  drought/fire-adapted trees across Africa, South America and northern Australia."
+          ],
+          "source_references": [
+            "Aw transition and global map",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "ITCZ seasonal switch",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "HIGH-SUN SEASON -> ITCZ approaches",
+            "CONVERGENCE + CONVECTION -> summer rain",
+            "LOW-SUN SEASON -> dry trades dominate",
+            "RESULT -> hot wet / warm dry rhythm"
+          ],
+          "source_references": [
+            "ITCZ wet-dry rhythm",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Water-reliability chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "LATE ONSET -> delayed sowing",
+            "MID-SEASON BREAK -> crop and forage stress",
+            "EARLY CESSATION -> incomplete grain filling",
+            "DROUGHT -> migration and herd loss risk"
+          ],
+          "source_references": [
+            "Rainfall amount and reliability",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Grass-tree gradient",
+          "structural_type": "replacement-diagram",
+          "ascii_lines": [
+            "WET MARGIN -> tall grass + more trees",
+            "CORE SAVANNA -> parkland mosaic",
+            "DRY MARGIN -> short grass + thorny shrubs",
+            "DESERT EDGE -> discontinuous vegetation"
+          ],
+          "source_references": [
+            "Parkland grass-tree structure",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Fire-herbivory balance",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SEASONAL RAIN -> grass biomass",
+            "DRY SEASON -> combustible fuel",
+            "FIRE + BROWSING -> seedling suppression",
+            "THICK BARK + ROOTS -> selected tree survival"
+          ],
+          "source_references": [
+            "Tree drought adaptations",
+            "Fire and grazing controls",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Wildlife-livelihood matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HERDS -> follow seasonal forage and water",
+            "PREDATORS -> track herbivore concentrations",
+            "PASTORALISTS -> mobility spreads risk",
+            "CULTIVATORS -> millet / sorghum timing"
+          ],
+          "source_references": [
+            "Wildlife and migration",
+            "Pastoral and farming adaptation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Degradation pathway",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COVER LOSS -> raindrop and wind exposure",
+            "WET SEASON -> runoff, leaching and erosion",
+            "DRY SEASON -> fire and surface sealing",
+            "FIXED WATER POINT -> local grazing concentration"
+          ],
+          "source_references": [
+            "Soils and degradation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "India forest gradient",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MOIST DECIDUOUS -> longer wet season",
+            "DRY DECIDUOUS -> stronger leaf-shedding",
+            "THORN / SCRUB -> semi-arid moisture stress",
+            "RULE -> overlapping belts, not fixed walls"
+          ],
+          "source_references": [
+            "India analogue boundary",
+            "Moist and dry deciduous forests",
+            "Thorn scrub and open ecosystems",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Indian grassland firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TERAI -> humid tall grass and floodplain",
+            "SHOLA -> montane grass-forest mosaic",
+            "BANNI -> arid-saline Kachchh grassland",
+            "MANAGEMENT -> hydrology and history first"
+          ],
+          "source_references": [
+            "Terai, shola and Banni",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Restoration decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NATURAL OPEN ECOSYSTEM -> conserve openness",
+            "DEGRADED SCRUB -> restore native mosaic",
+            "WATER PROCESS -> recharge and drainage",
+            "LIVELIHOOD -> grazing and tenure design",
+            "CLOSE DISTINCTION: Savanna is tropical grassland, steppe is semi-arid temperate/subtropical",
+            "  grassland, and parkland structure is not evidence of a climax maintained by climate alone",
+            "  because fire, herbivory and land use matter."
+          ],
+          "source_references": [
+            "Restoration and Aravalli Green Wall",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Savanna PYQ firewall",
+          "structural_type": "exam-matrix",
+          "ascii_lines": [
+            "2021 PRELIMS -> tree-limiting conditions",
+            "CLIMATE -> long dry season",
+            "DISTURBANCE -> fire + herbivory",
+            "LEDGER -> no answer letter invented",
+            "EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity",
+            "  changes may degrade systems; Indian deciduous forests and grasslands need region-specific",
+            "  rainfall, fire and grazing evidence rather than direct Sudan-type equivalence."
+          ],
+          "source_references": [
+            "Verified savanna PYQ and verdict",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Savanna answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LOCATE -> rainforest-desert transition",
+            "DERIVE -> ITCZ and wet-dry season",
+            "EXPLAIN -> grass-tree disturbance balance",
+            "APPLY -> India mosaics and restoration"
+          ],
+          "source_references": [
+            "Verified savanna PYQ and verdict",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-17\\g3\\geography-17_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-05",
+      "display_title": "The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tughlaq chronology and evidence spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1320 Ghiyasuddin -> 1325 Muhammad bin Tughlaq",
+            "1327-35 Daulatabad phases -> c.1329-33 token currency",
+            "1330s doab crisis, cultivation scheme and regional rebellions",
+            "1351 Firuz succeeds during Sindh campaign -> 1388 Firuz dies",
+            "EVIDENCE: Barani + Isami + Ibn Battuta + Afif + coins + canals + monuments",
+            "RULE: separate secure event, chronicler judgement and later legend.",
+            "MUST REMEMBER: Daulatabad transfer, token currency and Doab taxation were separate experiments",
+            "  with different aims and outcomes."
+          ],
+          "source_references": [
+            "Chronology",
+            "Sources",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Three Tughlaq state strategies",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "GHIYASUDDIN -> moderated restoration, cultivation and frontier authority",
+            "MUHAMMAD -> scale, uniformity, experimentation and direct supervision",
+            "FIRUZ -> conciliation, heredity, public works and reduced military horizon",
+            "SHORT RUN -> restoration | high-risk mobilisation | negotiated stability",
+            "LONG RUN -> unfinished consolidation | fragmentation | weaker central checks",
+            "VERDICT: compare objectives, instruments, costs and durability."
+          ],
+          "source_references": [
+            "Ghiyasuddin",
+            "Muhammad bin Tughlaq",
+            "Firuz Shah",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Muhammad's problem of imperial scale",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "NORTH-WEST -> frontier risk and strategic ambition",
+            "DELHI-DOAB -> grain, revenue, money and army provisioning",
+            "DECCAN -> distance, direct rule, Daulatabad and local resistance",
+            "BENGAL / GUJARAT / SINDH -> governors, routes and delayed communication",
+            "ELITES -> old nobles + foreigners + Indian converts + new appointees",
+            "DIAGNOSIS: ambition outran information, trust and enforcement capacity."
+          ],
+          "source_references": [
+            "Imperial scale",
+            "State capacity",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Five experiment clusters",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DAULATABAD -> southern supervision | migration and dual-capital logistics",
+            "TOKEN MONEY -> monetary flexibility | authentication and redemption",
+            "DOAB RESET -> higher dependable revenue | assessment and famine resilience",
+            "DIWAN-I-AMIR-I-KOHI -> cultivation | credit and honest supervision",
+            "KHURASAN / QARACHIL -> frontier initiative | finance, terrain and intelligence",
+            "TEST EACH: rational aim -> required instrument -> implementation failure."
+          ],
+          "source_references": [
+            "Experiments",
+            "Administrative instruments",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Daulatabad without the empty-Delhi myth",
+          "structural_type": "process",
+          "ascii_lines": [
+            "OBJECTIVE -> second capital + Deccan supervision + north-south communication",
+            "AFFECTED -> court + officials + nobles + scholars/Sufis + merchants/artisans",
+            "COERCION -> pressured movement and hardship remained real",
+            "CONTINUITY -> Delhi retained people, minting and political function",
+            "REVERSAL -> return and southern breakaways changed the project's purpose",
+            "SOURCE RULE -> Isami's displacement narrative is vital but positioned."
+          ],
+          "source_references": [
+            "Daulatabad",
+            "Migration",
+            "Myth correction",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Token currency credibility chain",
+          "structural_type": "process",
+          "ascii_lines": [
+            "STATE ASSIGNS COPPER / BRASS A HIGHER FACE VALUE",
+            "                |",
+            "success requires mint control + recognisable standard + tax acceptance",
+            "                |",
+            "weak verification -> private imitation and counterfeit expansion",
+            "                |",
+            "trust collapses -> redemption burden -> withdrawal",
+            "LESSON: monetary design failed through enforcement and credibility gaps."
+          ],
+          "source_references": [
+            "Token currency",
+            "Counterfeiting",
+            "Trust",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Doab crisis and agrarian repair",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "STANDARD YIELD / OFFICIAL PRICE + HIGH DEMAND",
+            "                |",
+            "harsh collection + famine stress -> flight, resistance and rebellion",
+            "                |",
+            "SONDHAR loans + DIWAN-I-AMIR-I-KOHI cultivation programme",
+            "                |",
+            "corruption, weak monitoring and over-ambitious scale limit recovery",
+            "RULE: separate fiscal objective, collector behaviour and climate."
+          ],
+          "source_references": [
+            "Doab taxation",
+            "Diwan-i-Amir-i-Kohi",
+            "Sondhar",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Khurasan and Qarachil separated",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KHURASAN PROJECT                 QARACHIL EXPEDITION",
+            "north-west strategic opening       Himalayan frontier campaign",
+            "large recruited force              terrain and supply problem",
+            "changed external conditions        severe operational losses",
+            "not simply world conquest          not an invasion of China",
+            "COMMON LIMIT: strategic ambition exceeded sustainable logistics."
+          ],
+          "source_references": [
+            "Khurasan project",
+            "Qarachil expedition",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Reading the Tughlaq archive",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BARANI -> policy detail and elite criticism | later, normative, aristocratic",
+            "ISAMI -> Daulatabad/Deccan displacement | hostile political location",
+            "IBN BATTUTA -> eyewitness court/travel | dramatic literary conventions",
+            "AFIF / FUTUHAT -> Firuz institutions | praise and self-fashioning",
+            "LATER CHRONICLES -> memory | cannot certify exact totals",
+            "COINS / CANALS / MONUMENTS -> material checks | uneven survival",
+            "METHOD: intent + report + implementation + region + later stereotype."
+          ],
+          "source_references": [
+            "Barani",
+            "Isami",
+            "Ibn Battuta",
+            "Afif",
+            "Material evidence",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Firuz's conciliation bargain",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "SMALLER GOVERNABLE HORIZON",
+            "          |",
+            "noble salaries and lighter audits + hereditary offices and iqtas",
+            "          |",
+            "soldier wajh claims + ulema support + reduced punitive intensity",
+            "          |",
+            "short-term peace and elite compliance",
+            "          |",
+            "long-term oligarchic closure, localised army and weaker central discipline.",
+            "CLOSE DISTINCTION: Failure must not be reduced to a timeless 'mad king' label; design,",
+            "  enforcement, ecology and source hostility matter."
+          ],
+          "source_references": [
+            "Firuz Shah",
+            "Heredity",
+            "Elite conciliation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Works, welfare, slavery and orthodoxy",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CANALS / HAQQ-I-SHARB -> cultivation and revenue in the northern core",
+            "TOWNS / GARDENS / KOTLA -> urban patronage and dynastic display",
+            "HOSPITAL / EDUCATION / DIWAN-I-KHAIRAT -> bounded welfare claims",
+            "EMPLOYMENT REPORTS -> chronicler evidence, not a modern labour office",
+            "DIWAN-I-BANDAGAN -> coerced service and later factional risk",
+            "JIZYA / BRAHMANS / ULAMA -> orthodoxy with case-specific evidence",
+            "PILLARS / TRANSLATIONS -> conservation, appropriation and learned exchange.",
+            "EVIDENCE LIMIT: Firuz Shah's canals, charities, slavery and religious policy require a",
+            "  combined fiscal, social and political reading."
+          ],
+          "source_references": [
+            "Public works",
+            "Welfare",
+            "Slaves",
+            "Religious policy",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 05 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> Tughlaq history is a test of state capacity, not eccentricity alone",
+            "CONTEXT -> Ghiyasuddin's restoration and an unusually large inherited empire",
+            "MUHAMMAD -> aim, instrument, failure mode and uneven afterlife of each project",
+            "FIRUZ -> conciliation, works and welfare balanced against heredity and orthodoxy",
+            "SOURCES -> compare chroniclers with coins, canals, inscriptions and monuments",
+            "CLOSE -> over-centralisation and negotiated devolution produced different fragilities."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Comparative verdict",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\05_Tughlaqs.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g3\\medieval-indian-history-05_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-05\\g4\\medieval-indian-history-05_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

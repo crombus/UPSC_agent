@@ -1,0 +1,1168 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-15",
+  "subject": "Environment-and-Ecology",
+  "title": "SOLID PLASTIC AND E-WASTE RULES",
+  "short_route": "THREE-STREAM FIREWALL → RULE-VINTAGE LADDER → MUNICIPAL RESPONSIBILITY MAP → SEGREGATION-TO-DISPOSAL CHAIN → PLASTIC ACTOR MATRIX → BAN-VERSUS-EPR GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-15-deep-review-2026-09-03-g3.json",
+  "ascii_spec_sha256": "b820834784d0935f4921ef4f5b6c65f6d3ac5ba2f2830834580c33578bcc596d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE-STREAM FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE-STREAM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SOLID WASTE",
+          "role": "outcome"
+        },
+        {
+          "text": "MUNICIPAL GENERATION, SEGREGATION AND LOCAL SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "PLASTIC WASTE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCT AND PACKAGING CONTROLS PLUS EPR",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTRICAL AND ELECTRONIC END-OF-LIFE CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON PARENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ENVIRONMENT PROTECTION ACT FRAMEWORK",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SOLID WASTE → municipal generation, segregation and local services",
+        "PLASTIC WASTE → product and packaging controls plus EPR",
+        "E-WASTE → electrical and electronic end-of-life chain",
+        "COMMON PARENT → Environment Protection Act framework",
+        "RULE → separate streams remain legally distinct"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOLID WASTE → municipal generation, segregation and local services",
+          "E-WASTE → electrical and electronic end-of-life chain",
+          "RULE → separate streams remain legally distinct"
+        ],
+        [
+          "PLASTIC WASTE → product and packaging controls plus EPR",
+          "COMMON PARENT → Environment Protection Act framework",
+          "MUST REMEMBER: Waste governance uses segregation, collection, material recovery,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOLID WASTE → municipal generation, segregation and local services",
+            "PLASTIC WASTE → product and packaging controls plus EPR"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "E-WASTE → electrical and electronic end-of-life chain",
+            "COMMON PARENT → Environment Protection Act framework"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → separate streams remain legally distinct",
+            "MUST REMEMBER: Waste governance uses segregation, collection, material recovery,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Waste governance uses segregation, collection, material recovery,.",
+      "source_references": [
+        "Separate waste streams",
+        "Rule-vintage discipline",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RULE-VINTAGE LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RULE-VINTAGE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "BASE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY NOTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY CHANGED PROVISION AND DATE",
+          "role": "evidence"
+        },
+        {
+          "text": "GUIDELINE OR SOP",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTATION INSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTAL PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGITAL COMPLIANCE WORKFLOW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASE RULE → identify notification",
+        "AMENDMENT → identify changed provision and date",
+        "GUIDELINE OR SOP → implementation instruction",
+        "PORTAL PROCEDURE → digital compliance workflow",
+        "CURRENT CLAIM → verify all later changes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BASE RULE → identify notification",
+            "AMENDMENT → identify changed provision and date"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GUIDELINE OR SOP → implementation instruction",
+            "PORTAL PROCEDURE → digital compliance workflow"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT CLAIM → verify all later changes",
+            "BASE RULE → identify notification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PORTAL PROCEDURE → digital compliance workflow; CURRENT CLAIM → verify all later changes.",
+      "source_references": [
+        "Rule-vintage discipline",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MUNICIPAL RESPONSIBILITY MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MUNICIPAL RESPONSIBILITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SEGREGATE AND HAND OVER",
+          "role": "outcome"
+        },
+        {
+          "text": "BULK GENERATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "ADDITIONAL APPLICABLE DUTIES",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLECTION AND PROCESSING SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "RUN AUTHORISED FACILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SPCB OR PCC",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORISATION AND MONITORING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENERATOR → segregate and hand over",
+        "BULK GENERATOR → additional applicable duties",
+        "ULB → collection and processing system",
+        "OPERATOR → run authorised facility",
+        "SPCB OR PCC → authorisation and monitoring"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENERATOR → segregate and hand over",
+            "BULK GENERATOR → additional applicable duties"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ULB → collection and processing system",
+            "OPERATOR → run authorised facility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SPCB OR PCC → authorisation and monitoring",
+            "GENERATOR → segregate and hand over"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPERATOR → run authorised facility; SPCB OR PCC → authorisation and monitoring.",
+      "source_references": [
+        "Waste-generator duty",
+        "ULB solid-waste role",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SEGREGATION-TO-DISPOSAL CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEGREGATION-TO-DISPOSAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENT OR REDUCE",
+          "role": "outcome"
+        },
+        {
+          "text": "AVOID WASTE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESERVE RECOVERABLE STREAMS",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLECT AND TRANSPORT",
+          "role": "primary"
+        },
+        {
+          "text": "MOVE WITHOUT REMIXING",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOVER OR TREAT",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS BY STREAM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "PREVENT OR REDUCE → avoid waste",
+        "SEGREGATE → preserve recoverable streams",
+        "COLLECT AND TRANSPORT → move without remixing",
+        "RECOVER OR TREAT → process by stream",
+        "RESIDUE → safe final disposal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PREVENT OR REDUCE → avoid waste",
+            "SEGREGATE → preserve recoverable streams"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLLECT AND TRANSPORT → move without remixing",
+            "RECOVER OR TREAT → process by stream"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESIDUE → safe final disposal",
+            "PREVENT OR REDUCE → avoid waste"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECOVER OR TREAT → process by stream; RESIDUE → safe final disposal.",
+      "source_references": [
+        "Segregation boundary",
+        "Processing hierarchy",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PLASTIC ACTOR MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLASTIC ACTOR MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "COVERED PRODUCT OR PACKAGING RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "COVERED IMPORTED PRODUCT RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAND OWNER",
+          "role": "evidence"
+        },
+        {
+          "text": "BRANDED PACKAGING RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORISED END-OF-LIFE ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MUNICIPAL SERVICE ROLE, NOT AUTOMATIC EPR SUBSTITUTE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRODUCER → covered product or packaging responsibility",
+        "IMPORTER → covered imported product responsibility",
+        "BRAND OWNER → branded packaging responsibility",
+        "PROCESSOR → authorised end-of-life activity",
+        "ULB → municipal service role, not automatic EPR substitute"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PRODUCER → covered product or packaging responsibility",
+          "BRAND OWNER → branded packaging responsibility",
+          "ULB → municipal service role, not automatic EPR substitute"
+        ],
+        [
+          "IMPORTER → covered imported product responsibility",
+          "PROCESSOR → authorised end-of-life activity",
+          "PRODUCER → covered product or packaging responsibility"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRODUCER → covered product or packaging responsibility",
+            "IMPORTER → covered imported product responsibility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRAND OWNER → branded packaging responsibility",
+            "PROCESSOR → authorised end-of-life activity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ULB → municipal service role, not automatic EPR substitute",
+            "PRODUCER → covered product or packaging responsibility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ULB → municipal service role, not automatic EPR substitute.",
+      "source_references": [
+        "Plastic actor map",
+        "Plastic processor role",
+        "Importer responsibility",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BAN-VERSUS-EPR GATE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BAN-VERSUS-EPR GATE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFIED ITEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST THE EXACT RESTRICTION AND VINTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PLASTIC PACKAGING",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST EPR CATEGORY AND OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "OTHER PRODUCT",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT INFER BAN FROM PLASTIC CONTENT",
+          "role": "caution"
+        },
+        {
+          "text": "MATERIAL FACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTIFIED ITEM → test the exact restriction and vintage",
+        "PLASTIC PACKAGING → test EPR category and obligation",
+        "OTHER PRODUCT → do not infer ban from plastic content",
+        "MATERIAL FACT → composition question",
+        "LEGAL FACT → rule-specific classification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFIED ITEM → test the exact restriction and vintage",
+            "PLASTIC PACKAGING → test EPR category and obligation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OTHER PRODUCT → do not infer ban from plastic content",
+            "MATERIAL FACT → composition question"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL FACT → rule-specific classification",
+            "IDENTIFIED ITEM → test the exact restriction and vintage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OTHER PRODUCT → do not infer ban from plastic content.",
+      "source_references": [
+        "Item ban and packaging EPR",
+        "Plastic material boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EPR EVIDENCE LADDER",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EPR EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "OBLIGATION OR TARGET",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL REQUIREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTOR ENTERS PORTAL",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLIANCE INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "REPORTED THROUGHPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIMED PROCESSING",
+          "role": "comparison"
+        },
+        {
+          "text": "VERIFIED RECOVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OBLIGATION OR TARGET → legal requirement",
+        "REGISTRATION → actor enters portal",
+        "CERTIFICATE → compliance instrument",
+        "REPORTED THROUGHPUT → claimed processing",
+        "VERIFIED RECOVERY → physical outcome evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OBLIGATION OR TARGET → legal requirement",
+            "REGISTRATION → actor enters portal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CERTIFICATE → compliance instrument",
+            "REPORTED THROUGHPUT → claimed processing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFIED RECOVERY → physical outcome evidence",
+            "OBLIGATION OR TARGET → legal requirement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REPORTED THROUGHPUT → claimed processing; VERIFIED RECOVERY → physical outcome evidence.",
+      "source_references": [
+        "EPR obligation boundary",
+        "Certificate and throughput",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PROCESSOR AUDIT GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROCESSOR AUDIT GATE",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL ELIGIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INPUT RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "MATERIAL RECEIVED",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESS RECORD",
+          "role": "mechanism"
+        },
+        {
+          "text": "ACTUAL AUTHORISED OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTPUT AND RESIDUE",
+          "role": "comparison"
+        },
+        {
+          "text": "DESTINATION AND SAFE HANDLING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REGISTRATION → formal eligibility",
+        "INPUT RECORD → material received",
+        "PROCESS RECORD → actual authorised operation",
+        "OUTPUT AND RESIDUE → destination and safe handling",
+        "AUDIT → quantity and outcome require verification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REGISTRATION → formal eligibility",
+            "INPUT RECORD → material received"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESS RECORD → actual authorised operation",
+            "OUTPUT AND RESIDUE → destination and safe handling"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AUDIT → quantity and outcome require verification",
+            "REGISTRATION → formal eligibility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTPUT AND RESIDUE → destination and safe handling.",
+      "source_references": [
+        "Plastic processor role",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "E-WASTE ACTOR CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "E-WASTE ACTOR CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MANUFACTURER OR IMPORTER",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCT ENTERS MARKET",
+          "role": "comparison"
+        },
+        {
+          "text": "EPR-SIDE RESPONSIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSUMER OR BULK CONSUMER",
+          "role": "primary"
+        },
+        {
+          "text": "CHANNELISATION DUTY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFE EXTENSION WHERE APPLICABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORISED MATERIAL RECOVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MANUFACTURER OR IMPORTER → product enters market",
+        "PRODUCER → EPR-side responsibility",
+        "CONSUMER OR BULK CONSUMER → channelisation duty",
+        "REFURBISHER → life extension where applicable",
+        "RECYCLER → authorised material recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MANUFACTURER OR IMPORTER → product enters market",
+            "PRODUCER → EPR-side responsibility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSUMER OR BULK CONSUMER → channelisation duty",
+            "REFURBISHER → life extension where applicable"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECYCLER → authorised material recovery",
+            "MANUFACTURER OR IMPORTER → product enters market"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REFURBISHER → life extension where applicable; RECYCLER → authorised material recovery.",
+      "source_references": [
+        "E-waste actor map",
+        "Importer responsibility",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FORMAL-INFORMAL INTEGRATION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FORMAL-INFORMAL INTEGRATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "INFORMAL COLLECTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "REACH AND LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "UNSAFE DISMANTLING",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSURE AND POLLUTION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "AUTHORISED FACILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROLLED PROCESSING ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOGNITION, SAFETY AND TRACEABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INFORMAL COLLECTOR → reach and livelihood",
+        "UNSAFE DISMANTLING → exposure and pollution risk",
+        "AUTHORISED FACILITY → controlled processing route",
+        "INTEGRATION → recognition, safety and traceability",
+        "VERDICT → formalise processing without erasing livelihoods"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INFORMAL COLLECTOR → reach and livelihood",
+          "AUTHORISED FACILITY → controlled processing route",
+          "VERDICT → formalise processing without erasing livelihoods"
+        ],
+        [
+          "UNSAFE DISMANTLING → exposure and pollution risk",
+          "INTEGRATION → recognition, safety and traceability",
+          "CLOSE DISTINCTION: Solid, plastic and e-waste rules are not interchangeable; EPR..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INFORMAL COLLECTOR → reach and livelihood",
+            "UNSAFE DISMANTLING → exposure and pollution risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTHORISED FACILITY → controlled processing route",
+            "INTEGRATION → recognition, safety and traceability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → formalise processing without erasing livelihoods",
+            "CLOSE DISTINCTION: Solid, plastic and e-waste rules are not interchangeable; EPR..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Solid, plastic and e-waste rules are not interchangeable; EPR.",
+      "source_references": [
+        "Authorised channelisation",
+        "Informal-sector integration",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "STOCK-FLOW AND TECHNOLOGY MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STOCK-FLOW AND TECHNOLOGY MATRIX",
+          "role": "mechanism"
+        },
+        {
+          "text": "CURRENT WASTE FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "EPR AND COLLECTION CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGACY DUMP OR SITE",
+          "role": "evidence"
+        },
+        {
+          "text": "REMEDIATION PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL RECOVERY ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "THERMAL OR CHEMICAL ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "FEEDSTOCK AND EMISSION CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CURRENT WASTE FLOW → EPR and collection controls",
+        "LEGACY DUMP OR SITE → remediation problem",
+        "RECYCLING → material recovery route",
+        "THERMAL OR CHEMICAL ROUTE → feedstock and emission conditions",
+        "NO UNIVERSAL WINNER → compare complete mass and residue balance"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CURRENT WASTE FLOW → EPR and collection controls",
+          "RECYCLING → material recovery route",
+          "NO UNIVERSAL WINNER → compare complete mass and residue balance"
+        ],
+        [
+          "LEGACY DUMP OR SITE → remediation problem",
+          "THERMAL OR CHEMICAL ROUTE → feedstock and emission conditions",
+          "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State exact rule and amendment vintage,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CURRENT WASTE FLOW → EPR and collection controls",
+            "LEGACY DUMP OR SITE → remediation problem"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECYCLING → material recovery route",
+            "THERMAL OR CHEMICAL ROUTE → feedstock and emission conditions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO UNIVERSAL WINNER → compare complete mass and residue balance",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State exact rule and amendment vintage,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State exact rule and amendment vintage,...",
+      "answer_line": "MECHANISM / STATUS / CAUSATION: State exact rule and amendment vintage,.",
+      "source_references": [
+        "Legacy stock versus new flow",
+        "Technology boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "WASTE-GOVERNANCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "WASTE-GOVERNANCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STREAM, MATERIAL AND RULE VINTAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERATOR, ULB, PRODUCER, IMPORTER AND PROCESSOR",
+          "role": "comparison"
+        },
+        {
+          "text": "SEGREGATION, COLLECTION, PROCESSING AND RESIDUE",
+          "role": "evidence"
+        },
+        {
+          "text": "OBLIGATION, CERTIFICATE, THROUGHPUT AND RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "INFORMAL SECTOR, LEGACY STOCK, TECHNOLOGY AND PYQ LIMITS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → stream, material and rule vintage",
+        "ASSIGN → generator, ULB, producer, importer and processor",
+        "TRACE → segregation, collection, processing and residue",
+        "VERIFY → obligation, certificate, throughput and recovery",
+        "QUALIFY → informal sector, legacy stock, technology and PYQ limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → stream, material and rule vintage",
+            "ASSIGN → generator, ULB, producer, importer and processor"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE → segregation, collection, processing and residue",
+            "VERIFY → obligation, certificate, throughput and recovery"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → informal sector, legacy stock, technology and PYQ limits",
+            "CLASSIFY → stream, material and rule vintage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → informal sector, legacy stock, technology and PYQ limits.",
+      "source_references": [
+        "Audited evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g3\\environment-and-ecology-15_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S INFORMAL WASTE ECONOMY (WASTE-PICKERS, KABADIWALAS/SCRAP DEALERS, INFORMAL",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY TENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAL EPR SYSTEMS RISK BYPASSING OR DISPLACING THIS INFORMAL",
+          "role": "caution"
+        },
+        {
+          "text": "THIS IS A RECURRING, GENUINELY TWO-SIDED POLICY DILEMMA",
+          "role": "primary"
+        },
+        {
+          "text": "PURELY INFORMAL PROCESSING",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA'S SINGLE-USE-PLASTIC RESTRICTIONS TARGET SPECIFICALLY IDENTIFIED ITEMS (BASED ON",
+          "role": "comparison"
+        },
+        {
+          "text": "ENFORCEMENT REALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: India's informal waste economy (waste-pickers, kabadiwalas/scrap dealers, informal",
+            "CAUTION: Policy tension: formal EPR systems risk bypassing or displacing this informal",
+            "CAUTION: This is a recurring, genuinely two-sided policy dilemma: purely informal processing",
+            "India's single-use-plastic restrictions target specifically identified items (based on"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Enforcement reality: effective enforcement of item-specific bans requires",
+            "CAUTION: National aggregate figures for plastic-waste generation, collection rate and recycling",
+            "CAUTION: E-waste generation growth estimates are typically modelled from electronics-sales data",
+            "CPCB's EPR portals allow producers to meet obligations by acquiring EPR certificates"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "India's informal waste sector has historically handled a substantial share of actual",
+            "India's single-use-plastic restrictions target specifically identified items rather",
+            "National plastic/e-waste generation and recycling-rate figures are largely modelled/",
+            "NOT: EPR compliance requires a producer's own waste to be physically recycled by a specific"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

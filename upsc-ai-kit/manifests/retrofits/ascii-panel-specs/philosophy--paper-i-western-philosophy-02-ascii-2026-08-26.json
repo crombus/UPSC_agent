@@ -1,0 +1,234 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a manually authored Rationalism conceptual atlas",
+  "generated_on": "2026-08-26",
+  "scope": "Philosophy Optional Paper I Western Philosophy topic 02 only",
+  "constraints": {
+    "panel_count_per_topic": 10,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-02",
+      "title": "Rationalism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g2\\topic-02_Complete-Learning-Session_2026-08-26.md",
+      "source_record": "philosophy-paper-i-western-philosophy-02:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved Cārvāka design reference and every legacy Rationalism generation remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Rationalist starting problem and connected 3-1-infinity sequence",
+          "structural_type": "conceptual-root-sequence",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL QUESTION: CAN REASON SECURE NECESSARY KNOWLEDGE AND AN INTELLIGIBLE WORLD?",
+            "        |",
+            "        +--> METHOD: a priori principles + intuition + deduction",
+            "        +--> METAPHYSICS: substance, attribute, mode and sufficient explanation",
+            "        |",
+            "DESCARTES: God + mind + body -> interaction problem",
+            "        |",
+            "SPINOZA: one God/Nature -> parallelism + necessity -> individuality problem",
+            "        |",
+            "LEIBNIZ: many monads -> harmony + contingency -> economy and evil problem",
+            "MEMORY: substance 3-1-infinity; mind-body I-P-H."
+          ]
+        },
+        {
+          "panel_title": "Cartesian methodic doubt, cogito and first certainty",
+          "structural_type": "epistemic-demolition-reconstruction-flow",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "FOUR METHOD RULES: evidence -> division -> simple-to-complex order -> complete review",
+            "        |",
+            "SENSE ERROR -> DREAM ARGUMENT -> EVIL-GENIUS HYPOTHESIS",
+            "        | suspend every belief that can be doubted",
+            "        v",
+            "COGITO: I AM, I EXIST WHENEVER I THINK",
+            "        | immediate intuition, not a syllogism",
+            "        +--> clear and distinct perception becomes the model",
+            "        +--> intuition supplies first principles; deduction orders consequences",
+            "LIMIT: present thinking is certain; enduring res cogitans needs further argument."
+          ]
+        },
+        {
+          "panel_title": "Cartesian knowledge architecture and Circle objection",
+          "structural_type": "argument-loop-with-qualified-reply",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "COGITO -> IDEAS -> GOD -> NON-DECEPTION -> MATHEMATICS AND EXTERNAL RES EXTENSA",
+            "IDEAS: innate / adventitious / factitious; objective reality = representational content",
+            "GOD: causal adequacy or trademark route + ontological route; present cautiously",
+            "WAX: intellect judges extended, flexible, changeable identity beyond sensory qualities",
+            "CIRCLE: clear/distinct premises prove God -> God guarantees clear/distinct truth",
+            "REPLY: present intuition compels; God secures memory and extended reasoning",
+            "RESIDUAL: the divine proofs themselves use inferential premises",
+            "WORLD: involuntary sensory ideas require an active cause; veracity blocks deception",
+            "LIMIT: body-existence is stronger than exact resemblance of sensible qualities."
+          ]
+        },
+        {
+          "panel_title": "Descartes on substance, interaction and freedom",
+          "structural_type": "ontology-tree-and-problem-map",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "GOD = INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT",
+            "        +--> RES COGITANS: attribute thought; modes include ideas and volitions",
+            "        +--> RES EXTENSA: attribute extension; modes include shape and motion",
+            "REAL DISTINCTION: clear conception of each without the other",
+            "SUBSTANTIAL UNION: one embodied person experiences cross-domain coordination",
+            "OBJECTION: how can unextended mind cause extended motion? causal-closure pressure",
+            "REPLY: primitive notion of union; RESIDUAL: no transparent mechanism",
+            "OTHER MINDS: inferred through embodied behaviour, not given by the cogito",
+            "FREEDOM: will assents or withholds; error occurs when will outruns intellect",
+            "LIMIT: created substances depend continuously on God."
+          ]
+        },
+        {
+          "panel_title": "Spinoza's substance-attribute-mode hierarchy and immanent God",
+          "structural_type": "substance-hierarchy-tree",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+            "                         = DEUS SIVE NATURA",
+            "                                  |",
+            "                      infinitely many ATTRIBUTES",
+            "                                  |",
+            "                 humans know THOUGHT and EXTENSION",
+            "                                  |",
+            "                    finite minds and bodies are MODES",
+            "GOD = immanent cause; whatever is, is in God; no external created realm",
+            "OBJECTION: acosmism; REPLY: modes retain dependent reality."
+          ]
+        },
+        {
+          "panel_title": "Spinoza's parallelism and route from bondage to freedom",
+          "structural_type": "parallel-rail-and-liberation-ladder",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "ONE EVENT -> under THOUGHT: idea -> under EXTENSION: body-state",
+            "ORDER AND CONNECTION OF IDEAS = ORDER AND CONNECTION OF THINGS",
+            "NO cross-attribute causal transfer; parallelism replaces Cartesian interaction",
+            "FINITE MODES are necessarily caused; contingency records ignorance of causes",
+            "CONATUS = each thing's striving to persevere in being",
+            "INADEQUATE IDEAS + external causes -> passive affects -> BONDAGE",
+            "COMMON NOTIONS / REASON / INTUITION -> ADEQUATE IDEAS -> ACTIVITY",
+            "FREEDOM = acting from understood nature within necessity, not uncaused choice",
+            "LIMIT: autonomy survives, but alternative possibilities do not."
+          ]
+        },
+        {
+          "panel_title": "Leibniz's monad hierarchy, perception and individuality",
+          "structural_type": "graded-monad-ladder",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "WHY MONADS? extension is divisible; ultimate substance must be simple",
+            "GOD: necessary supreme monad / complete intelligence",
+            "RATIONAL SPIRITS: apperception + reason + moral agency",
+            "ANIMAL SOULS: memory + clearer perception",
+            "BARE MONADS: obscure petites perceptions",
+            "EVERY MONAD: simple, unextended, windowless, perceptive and appetitive",
+            "APPETITION = internal transition; each perspective expresses the universe",
+            "IDENTITY OF INDISCERNIBLES secures uniqueness",
+            "BODIES = well-founded phenomena, not ultimate substances."
+          ]
+        },
+        {
+          "panel_title": "Leibnizian harmony, sufficient reason, contingency and freedom",
+          "structural_type": "synchronised-process-and-modal-tree",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "GOD chooses a compossible best world under the PRINCIPLE OF SUFFICIENT REASON",
+            "        +--> mind-monad states unfold internally",
+            "        +--> bodily/organic states unfold internally",
+            "        +--> PRE-ESTABLISHED HARMONY makes them correspond without interaction",
+            "TRUTHS OF REASON: opposite contradictory -> logically necessary",
+            "TRUTHS OF FACT: opposite conceivable -> contingent though certain",
+            "COMPLETE CONCEPT: all predicates belong to the individual known fully by God",
+            "FREEDOM: spontaneity + intelligence + contingency; reasons incline, not coerce",
+            "OBJECTION: programming/evil; REPLY: self-expression + optimal compossibility",
+            "LIMIT: compatibility is stronger than libertarian freedom."
+          ]
+        },
+        {
+          "panel_title": "Three rationalist systems compared on matched axes",
+          "structural_type": "four-axis-comparison-matrix",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "+------------+--------------------+--------------------+----------------------+",
+            "| AXIS       | DESCARTES          | SPINOZA            | LEIBNIZ              |",
+            "+------------+--------------------+--------------------+----------------------+",
+            "| substance  | God + mind + body  | one God or Nature  | many simple monads   |",
+            "| God        | creator/guarantee  | immanent reality   | selector/coordinator |",
+            "| mind-body  | interactionism     | parallelism        | harmony              |",
+            "| order      | mechanism + will   | strict necessity   | certain/contingent   |",
+            "| freedom    | rational assent    | adequate activity  | intelligent spontaneity|",
+            "+------------+--------------------+--------------------+----------------------+",
+            "PRESSURE SEQUENCE: interaction gap -> monist unity -> restored individuality."
+          ]
+        },
+        {
+          "panel_title": "Criticism-reply ledger, traps, PYQ routes and answer spine",
+          "structural_type": "evaluation-ledger-and-exam-synthesis",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "DESCARTES: interaction gap -> primitive union -> mechanism remains opaque",
+            "SPINOZA: necessity/acosmism -> adequate activity + modal reality -> no alternatives",
+            "LEIBNIZ: programming/evil/economy -> spontaneity + possible worlds -> residual pressure",
+            "PRECISION: substance != attribute != mode; mind != person; necessity != fatalism",
+            "PRECISION: spontaneity != autonomy; compatibilism != libertarian freedom",
+            "PYQ ROUTES: certainty/self-world; substance 3-1-infinity; pantheism; freedom",
+            "PYQ ROUTES: innate ideas; monads/harmony; God; determination/negation",
+            "ANSWER SPINE:",
+            "directive -> thesis -> definitions -> argument -> example -> objection -> reply -> verdict",
+            "CONTROL: claim -> named evidence -> analysis -> qualification",
+            "VERDICT: intelligibility is gained at recurring costs to interaction and autonomy."
+          ]
+        }
+      ]
+    }
+  ]
+}

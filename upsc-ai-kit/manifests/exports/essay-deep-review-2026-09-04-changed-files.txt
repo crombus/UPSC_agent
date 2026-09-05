@@ -1,0 +1,148 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Essay\Subject-Wide-Syllabus\essay-01\g5\essay-01_Knowledge-Guide_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-01\g5\essay-01_Practice-Solutions_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-01\g5\essay-01_Practice-Workbook_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-02\g4\essay-02_Knowledge-Guide_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-02\g4\essay-02_Practice-Solutions_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-02\g4\essay-02_Practice-Workbook_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-03\g4\essay-03_Knowledge-Guide_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-03\g4\essay-03_Practice-Solutions_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-03\g4\essay-03_Practice-Workbook_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-04\g4\essay-04_Knowledge-Guide_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-04\g4\essay-04_Practice-Solutions_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\essay-04\g4\essay-04_Practice-Workbook_2026-09-04.pdf
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\essay-01-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\essay-02-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\essay-03-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\essay-04-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-01\essay-01-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-01\essay-01-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-01\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-02\essay-02-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-02\essay-02-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-02\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-03\essay-03-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-03\essay-03-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-03\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-04\essay-04-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-04\essay-04-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-04\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\essay-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Essay-Subject-Completion-2026-09-04.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Essay\INDEX.md
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\01-Paper-Rules-Choice-and-Selection\01-Knowledge-Guide\Knowledge-Guide.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\01-Paper-Rules-Choice-and-Selection\02-Practice-Workbook\Practice-Workbook.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\01-Paper-Rules-Choice-and-Selection\03-Practice-Solutions\Practice-Solutions.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\01-Paper-Rules-Choice-and-Selection\04-Integrated-Workflow-Atlas\Essay-Workflow-Atlas.png
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\01-Paper-Rules-Choice-and-Selection\README.txt
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\02-Philosophical-Quote-Decoding\01-Knowledge-Guide\Knowledge-Guide.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\02-Philosophical-Quote-Decoding\02-Practice-Workbook\Practice-Workbook.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\02-Philosophical-Quote-Decoding\03-Practice-Solutions\Practice-Solutions.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\02-Philosophical-Quote-Decoding\04-Integrated-Workflow-Atlas\Essay-Workflow-Atlas.png
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\02-Philosophical-Quote-Decoding\README.txt
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\03-Issue-Based-Prompt-Scoping\01-Knowledge-Guide\Knowledge-Guide.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\03-Issue-Based-Prompt-Scoping\02-Practice-Workbook\Practice-Workbook.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\03-Issue-Based-Prompt-Scoping\03-Practice-Solutions\Practice-Solutions.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\03-Issue-Based-Prompt-Scoping\04-Integrated-Workflow-Atlas\Essay-Workflow-Atlas.png
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\03-Issue-Based-Prompt-Scoping\README.txt
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\04-Brainstorming-and-Dimensional-Expansion\01-Knowledge-Guide\Knowledge-Guide.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\04-Brainstorming-and-Dimensional-Expansion\02-Practice-Workbook\Practice-Workbook.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\04-Brainstorming-and-Dimensional-Expansion\03-Practice-Solutions\Practice-Solutions.pdf
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\04-Brainstorming-and-Dimensional-Expansion\04-Integrated-Workflow-Atlas\Essay-Workflow-Atlas.png
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\04-Brainstorming-and-Dimensional-Expansion\README.txt
+notes\Final-Learning-Packages\Essay\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\11-Languages-Scripts-Literature-and-Manuscripts\README.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\12-Crafts-Textiles-Folk-and-Tribal-Traditions\README.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\13-Religion-Philosophy-and-Cultural-Synthesis\README.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\14-Heritage-Conservation-Institutions-and-UNESCO\README.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Indian Art and Culture\Subject-wide Syllabus\15-Indian-Cinema-Film-Institutions-and-Awards\README.txt
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+tools\export_four_item_library.py
+tools\markdown_learning_pdf.py
+tools\regenerate_essay_deep_review.py
+tools\test_regenerate_essay_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-01\g5\assets\essay-01_Essay-Workflow-Atlas_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-01\g5\essay-01_Integrated-ASCII-Workflow_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-01\g5\essay-01_Knowledge-Guide_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-01\g5\essay-01_Practice-Solutions_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-01\g5\essay-01_Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-02\g4\assets\essay-02_Essay-Workflow-Atlas_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-02\g4\essay-02_Integrated-ASCII-Workflow_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-02\g4\essay-02_Knowledge-Guide_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-02\g4\essay-02_Practice-Solutions_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-02\g4\essay-02_Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-03\g4\assets\essay-03_Essay-Workflow-Atlas_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-03\g4\essay-03_Integrated-ASCII-Workflow_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-03\g4\essay-03_Knowledge-Guide_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-03\g4\essay-03_Practice-Solutions_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-03\g4\essay-03_Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-04\g4\assets\essay-04_Essay-Workflow-Atlas_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-04\g4\essay-04_Integrated-ASCII-Workflow_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-04\g4\essay-04_Knowledge-Guide_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-04\g4\essay-04_Practice-Solutions_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\essay-specific-guides\essay-04\g4\essay-04_Practice-Workbook_2026-09-04.md
+upsc-ai-kit\manifests\exports\essay-01-learner-v2-g4-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-01-learner-v2-g4-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-01-learner-v2-g5-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-01-learner-v2-g5-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-02-learner-v2-g3-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-02-learner-v2-g3-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-02-learner-v2-g4-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-02-learner-v2-g4-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-03-learner-v2-g3-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-03-learner-v2-g3-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-03-learner-v2-g4-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-03-learner-v2-g4-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-04-learner-v2-g3-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-04-learner-v2-g3-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-04-learner-v2-g4-2026-09-04-essay-deep-review-record.json
+upsc-ai-kit\manifests\exports\essay-04-learner-v2-g4-2026-09-04-essay-deep-review-validation.json
+upsc-ai-kit\manifests\exports\essay-deep-review-2026-09-04-changed-files.nul
+upsc-ai-kit\manifests\exports\essay-deep-review-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\essay-deep-review-reconciliation-2026-09-04.json
+upsc-ai-kit\manifests\exports\essay-deep-review-validation-2026-09-04.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04.json

@@ -1,0 +1,977 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-06",
+  "subject": "Economy",
+  "title": "NPAS, BASEL NORMS, RESOLUTION AND FINANCIAL INCLUSION",
+  "short_route": "STRESS RECOGNITION RAIL → LOAN-ACCOUNTING FORK → RISK-WEIGHTED CAPITAL BOARD → TWIN-BALANCE-SHEET LOOP → RECOVERY-RESOLUTION LADDER → STRESSED-ASSET TRANSFER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\learning-sessions\\v2\\subject-wide-syllabus\\economy-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-06-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "60e936f4bf1ee9e666423ce90e970f398c7fdc46b416608d1f93fe4a2e218493",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "STRESS RECOGNITION RAIL",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STRESS RECOGNITION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK CASH FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "OVERDUE UNDER RBI TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "NPA RECOGNITION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVISIONING + CAPITAL PRESSURE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WEAK CASH FLOW",
+        "OVERDUE UNDER RBI TEST",
+        "NPA RECOGNITION",
+        "PROVISIONING + CAPITAL PRESSURE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "WEAK CASH FLOW",
+            "OVERDUE UNDER RBI TEST"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "NPA RECOGNITION",
+            "PROVISIONING + CAPITAL PRESSURE"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "WEAK CASH FLOW",
+            "OVERDUE UNDER RBI TEST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OVERDUE UNDER RBI TEST; NPA RECOGNITION; PROVISIONING + CAPITAL PRESSURE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LOAN-ACCOUNTING FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOAN-ACCOUNTING FORK",
+          "role": "primary"
+        },
+        {
+          "text": "EXPECTED LOSS CHARGED TO INCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOVED FROM ACTIVE LOAN BOOK",
+          "role": "comparison"
+        },
+        {
+          "text": "LIABILITY LEGALLY RELINQUISHED",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOVERY RIGHTS MAY SURVIVE A WRITE-OFF",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PROVISION → expected loss charged to income",
+        "WRITE-OFF → removed from active loan book",
+        "WAIVER → liability legally relinquished",
+        "RECOVERY RIGHTS may survive a write-off"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "PROVISION → expected loss charged to income",
+          "WAIVER → liability legally relinquished",
+          "PROVISION → expected loss charged to income"
+        ],
+        [
+          "WRITE-OFF → removed from active loan book",
+          "RECOVERY RIGHTS may survive a write-off",
+          "WRITE-OFF → removed from active loan book"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PROVISION → expected loss charged to income",
+            "WRITE-OFF → removed from active loan book"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "WAIVER → liability legally relinquished",
+            "RECOVERY RIGHTS may survive a write-off"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "PROVISION → expected loss charged to income",
+            "WRITE-OFF → removed from active loan book"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WAIVER → liability legally relinquished; RECOVERY RIGHTS may survive a write-off.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RISK-WEIGHTED CAPITAL BOARD",
+      "structural_type": "ratio-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RISK-WEIGHTED CAPITAL BOARD",
+          "role": "caution"
+        },
+        {
+          "text": "BASEL GLOBAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CET1 4.5",
+          "role": "comparison"
+        },
+        {
+          "text": "TIER 1 6",
+          "role": "evidence"
+        },
+        {
+          "text": "TOTAL 8",
+          "role": "primary"
+        },
+        {
+          "text": "RBI INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "CET1 5.5",
+          "role": "comparison"
+        },
+        {
+          "text": "TIER 1 7",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASEL GLOBAL → CET1 4.5",
+        "TIER 1 6",
+        "TOTAL 8",
+        "RBI INDIA → CET1 5.5",
+        "TIER 1 7"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "BASEL GLOBAL → CET1 4.5",
+            "TIER 1 6",
+            "TOTAL 8"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "RBI INDIA → CET1 5.5",
+            "TIER 1 7",
+            "CRAR 9"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "CCB → 2.5 CET1",
+            "VINTAGE → RBI Master Circular, 1 Apr 2025"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VINTAGE → RBI Master Circular, 1 Apr 2025.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWIN-BALANCE-SHEET LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TWIN-BALANCE-SHEET LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CORPORATE OVER-LEVERAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAK DEBT SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "BANK NPAS + CAPITAL LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAKER FRESH CREDIT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CORPORATE OVER-LEVERAGE",
+        "WEAK DEBT SERVICE",
+        "BANK NPAs + CAPITAL LOSS",
+        "WEAKER FRESH CREDIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "CORPORATE OVER-LEVERAGE",
+            "WEAK DEBT SERVICE"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "BANK NPAs + CAPITAL LOSS",
+            "WEAKER FRESH CREDIT"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "CORPORATE OVER-LEVERAGE",
+            "WEAK DEBT SERVICE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BANK NPAs + CAPITAL LOSS; WEAKER FRESH CREDIT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RECOVERY-RESOLUTION LADDER",
+      "structural_type": "legal-route-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RECOVERY-RESOLUTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SECURED-ASSET ENFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIALISED DEBT RECOVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLECTIVE INSOLVENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "LENDER COORDINATION, NOT A TRIBUNAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SARFAESI → secured-asset enforcement",
+        "DRT → specialised debt recovery",
+        "IBC / NCLT → collective insolvency",
+        "ICA → lender coordination, not a tribunal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "SARFAESI → secured-asset enforcement",
+            "DRT → specialised debt recovery"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "IBC / NCLT → collective insolvency",
+            "ICA → lender coordination, not a tribunal"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "SARFAESI → secured-asset enforcement",
+            "DRT → specialised debt recovery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IBC / NCLT → collective insolvency; ICA → lender coordination, not a tribunal.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "STRESSED-ASSET TRANSFER",
+      "structural_type": "vehicle-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "STRESSED-ASSET TRANSFER",
+          "role": "primary"
+        },
+        {
+          "text": "BANK BALANCE SHEET",
+          "role": "outcome"
+        },
+        {
+          "text": "NARCL TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALISED RECOVERY OR SALE",
+          "role": "evidence"
+        },
+        {
+          "text": "LOSS REMAINS",
+          "role": "primary"
+        },
+        {
+          "text": "VALUATION AND BUYER INTEREST DECIDE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BANK BALANCE SHEET",
+        "ARC / NARCL TRANSFER",
+        "SPECIALISED RECOVERY OR SALE",
+        "LOSS REMAINS → valuation and buyer interest decide"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "BANK BALANCE SHEET",
+            "ARC / NARCL TRANSFER"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "SPECIALISED RECOVERY OR SALE",
+            "LOSS REMAINS → valuation and buyer interest decide"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "BANK BALANCE SHEET",
+            "ARC / NARCL TRANSFER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOSS REMAINS → valuation and buyer interest decide.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SUPERVISORY REPAIR SEQUENCE",
+      "structural_type": "reform-rail",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SUPERVISORY REPAIR SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "GRADUATED SUPERVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSS ABSORPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOGNITION + RESOLUTION + RECAP + REFORMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AQR → RECOGNITION",
+        "PCA → GRADUATED SUPERVISION",
+        "RECAPITALISATION → LOSS ABSORPTION",
+        "4R → RECOGNITION + RESOLUTION + RECAP + REFORMS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "AQR → RECOGNITION",
+            "PCA → GRADUATED SUPERVISION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "RECAPITALISATION → LOSS ABSORPTION",
+            "4R → RECOGNITION + RESOLUTION + RECAP + REFORMS"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "AQR → RECOGNITION",
+            "PCA → GRADUATED SUPERVISION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4R → RECOGNITION + RESOLUTION + RECAP + REFORMS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "STRESS INDICATORS BOARD",
+      "structural_type": "classification-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STRESS INDICATORS BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "PRUDENTIAL LOAN CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEREST-SERVICE INDICATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCEALED STRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPORARY RELIEF, NOT PERMANENT CONCEALMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NPA → prudential loan classification",
+        "ICR → earnings / interest-service indicator",
+        "EVERGREENING → concealed stress",
+        "FORBEARANCE → temporary relief, not permanent concealment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "NPA → prudential loan classification",
+            "ICR → earnings / interest-service indicator"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EVERGREENING → concealed stress",
+            "FORBEARANCE → temporary relief, not permanent concealment"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "NPA → prudential loan classification",
+            "ICR → earnings / interest-service indicator"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVERGREENING → concealed stress; FORBEARANCE → temporary relief, not permanent concealment.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INCLUSION QUALITY TRIANGLE",
+      "structural_type": "quality-triangle",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INCLUSION QUALITY TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNT OR SERVICE AVAILABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTIVE AND SUITABLE USE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECTION + GRIEVANCE + SUITABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL THREE; NO BASE YEAR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACCESS → account or service availability",
+        "USAGE → active and suitable use",
+        "QUALITY → protection + grievance + suitability",
+        "FI-INDEX → all three; no base year"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "ACCESS → account or service availability",
+            "USAGE → active and suitable use"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "QUALITY → protection + grievance + suitability",
+            "FI-INDEX → all three; no base year"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "ACCESS → account or service availability",
+            "USAGE → active and suitable use"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALITY → protection + grievance + suitability; FI-INDEX → all three; no base year.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INCLUSION DELIVERY MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INCLUSION DELIVERY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSACTION-ACCOUNT PLATFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "SHG-BANK LINKAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "GROUP SAVINGS TO FORMAL BANK",
+          "role": "evidence"
+        },
+        {
+          "text": "BUSINESS CORRESPONDENT",
+          "role": "primary"
+        },
+        {
+          "text": "LAST-MILE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "TARGETED WATER/SANITATION FINANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PMJDY → transaction-account platform",
+        "SHG-BANK LINKAGE → group savings to formal bank",
+        "BUSINESS CORRESPONDENT → last-mile access",
+        "WATERCREDIT → targeted water/sanitation finance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "PMJDY → transaction-account platform",
+            "SHG-BANK LINKAGE → group savings to formal bank"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "BUSINESS CORRESPONDENT → last-mile access",
+            "WATERCREDIT → targeted water/sanitation finance"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "PMJDY → transaction-account platform",
+            "SHG-BANK LINKAGE → group savings to formal bank"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHG-BANK LINKAGE → group savings to formal bank.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CREDIT-CLEANUP TRADE-OFFS",
+      "structural_type": "trade-off-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CREDIT-CLEANUP TRADE-OFFS",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY RECOGNITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT-RUN RATIO SHOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGHER CAPITAL",
+          "role": "evidence"
+        },
+        {
+          "text": "LENDING CONSTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "FAST RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "VIABILITY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "DIGITAL ACCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY RECOGNITION → credibility / short-run ratio shock",
+        "HIGHER CAPITAL → resilience / lending constraint",
+        "FAST RECOVERY → discipline / viability risk",
+        "DIGITAL ACCESS → lower cost / exclusion and mis-selling risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "EARLY RECOGNITION → credibility / short-run ratio shock",
+            "HIGHER CAPITAL → resilience / lending constraint"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "FAST RECOVERY → discipline / viability risk",
+            "DIGITAL ACCESS → lower cost / exclusion and mis-selling risk"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "EARLY RECOGNITION → credibility / short-run ratio shock",
+            "HIGHER CAPITAL → resilience / lending constraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIGITAL ACCESS → lower cost / exclusion and mis-selling risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NPA ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NPA ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE STRESS AND CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORB LOSS THROUGH PROVISIONS AND CAPITAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOOSE RECOVERY, RESOLUTION OR TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTORE GOVERNANCE AND USEFUL INCLUSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE stress and classification",
+        "ABSORB loss through provisions and capital",
+        "CHOOSE recovery, resolution or transfer",
+        "RESTORE governance and useful inclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DEFINE stress and classification",
+            "ABSORB loss through provisions and capital"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "CHOOSE recovery, resolution or transfer",
+            "RESTORE governance and useful inclusion"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE stress and classification",
+            "ABSORB loss through provisions and capital"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHOOSE recovery, resolution or transfer; RESTORE governance and useful inclusion.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "AN NPA CYCLE CAN BE DRIVEN BY MACRO SHOCKS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROMPT RECOGNITION RAISES NEAR-TERM REPORTED STRESS BUT PREVENTS HIDDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITAL CONSERVATION AND COUNTERCYCLICAL BUFFERS ADDRESS DIFFERENT RISKS",
+          "role": "evidence"
+        },
+        {
+          "text": "RESOLUTION MUST CHOOSE AMONG REVIVAL, CHANGE OF CONTROL, ASSET",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION SHOULD COMBINE TRANSACTION ACCOUNTS, SAVINGS, PAYMENTS, INSURANCE, PENSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIGITAL TRAILS CAN IMPROVE UNDERWRITING BUT REQUIRE CONSENT, GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SETS PRUDENTIAL RECOGNITION, PROVISIONING, CAPITAL AND RESOLUTION-RELATED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: An NPA cycle can be driven by macro shocks, project delays, governance failures,",
+            "CAUTION: Prompt recognition raises near-term reported stress but prevents hidden losses from",
+            "CAUTION: Capital conservation and countercyclical buffers address different risks: firm",
+            "CAUTION: Resolution must choose among revival, change of control, asset sale and liquidation"
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Inclusion should combine transaction accounts, savings, payments, insurance, pensions",
+            "CAUTION: Digital trails can improve underwriting but require consent, grievance redress and",
+            "RBI: sets prudential recognition, provisioning, capital and resolution-related",
+            "Insolvency and Bankruptcy Board of India and NCLT: administer the corporate"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "Asset reconstruction companies: acquire and resolve stressed financial assets under",
+            "Banks, business correspondents and digital-payment networks: deliver inclusion",
+            "CAUTION: An accounting write-off removes a loan from active books but need not cancel recovery",
+            "CAUTION: Evergreening uses fresh finance to conceal an unviable old exposure rather than restore"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

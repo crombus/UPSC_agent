@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-06",
+      "display_title": "Tsunami and Coastal Hazard Management",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-06_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tsunami generation chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "SUDDEN WATER DISPLACEMENT",
+            "EARTHQUAKE | LANDSLIDE | VOLCANIC ACTIVITY",
+            "LONG WAVES -> COASTAL TRANSFORMATION",
+            "RUN-UP + INUNDATION + RETURN FLOW"
+          ],
+          "source_references": [
+            "Tsunami generation",
+            "Shoaling and inundation"
+          ]
+        },
+        {
+          "title": "Coastal-hazard firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TSUNAMI -> sudden displacement",
+            "TIDE -> gravitational cycle",
+            "STORM SURGE -> cyclone wind + pressure",
+            "RULE -> different monitoring and response logic"
+          ],
+          "source_references": [
+            "Tide and storm-surge boundary"
+          ]
+        },
+        {
+          "title": "Source-to-impact matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SOURCE -> mechanism depth displacement",
+            "PATH -> distance and ocean configuration",
+            "COAST -> bathymetry topography land use",
+            "OUTCOME -> exposure vulnerability and action"
+          ],
+          "source_references": [
+            "Generation is not impact",
+            "Inundation mapping"
+          ]
+        },
+        {
+          "title": "Detection-confirmation rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 SEISMIC EVENT ANALYSIS",
+            "2 PRE-RUN MODEL SCENARIO",
+            "3 SEA-LEVEL MONITORING",
+            "4 UPDATED BULLETIN / THREAT STATUS"
+          ],
+          "source_references": [
+            "Detection chain",
+            "Forecast and warning"
+          ]
+        },
+        {
+          "title": "ITEWC authority map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INCOIS / ITEWC -> analysis and advisory",
+            "IOTWMS / UNESCO-IOC -> regional framework",
+            "STATE / DISTRICT / LOCAL -> protective action",
+            "LOCAL AUTHORITY -> all clear"
+          ],
+          "source_references": [
+            "ITEWC",
+            "Service-provider role",
+            "Local all clear"
+          ]
+        },
+        {
+          "title": "Warning-uncertainty ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PRELIMINARY INFORMATION",
+            "MODEL-BASED THREAT",
+            "OBSERVATION-INFORMED UPDATE",
+            "FINAL / THREAT PASSED -> local all-clear check"
+          ],
+          "source_references": [
+            "Forecast and warning",
+            "Local all clear"
+          ]
+        },
+        {
+          "title": "Inundation-to-evacuation map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "HAZARD / INUNDATION MAP",
+            "-> ZONE + ROUTE + REFUGE + ASSEMBLY",
+            "-> ACCESSIBLE TRANSPORT + ACCOUNTABILITY",
+            "-> DRILL + FEEDBACK + REVISION"
+          ],
+          "source_references": [
+            "Inundation mapping",
+            "Evacuation chain"
+          ]
+        },
+        {
+          "title": "Coastal protection portfolio",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ENGINEERED -> shelters walls breakwaters where justified",
+            "NATURAL -> dunes mangroves forests reefs",
+            "REGULATORY -> CRZ + risk-sensitive siting",
+            "RULE -> layered and location-specific"
+          ],
+          "source_references": [
+            "Coastal regulation",
+            "Natural buffers"
+          ]
+        },
+        {
+          "title": "Coastal economy continuity",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PORT / HARBOUR -> shutdown access reopening",
+            "FISHERIES -> boats landing centres markets",
+            "TOURISM -> visitor warning signage route",
+            "UTILITIES / HOSPITAL -> continuity and safe recovery"
+          ],
+          "source_references": [
+            "Ports and critical facilities",
+            "Fisheries and tourism"
+          ]
+        },
+        {
+          "title": "Tsunami Ready cycle",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "MAP RISK -> EDUCATE -> WARN",
+            "EVACUATION MAP + SIGNAGE -> DRILL",
+            "EVALUATE INDICATORS -> RENEW READINESS",
+            "COMMUNITY RECOGNITION -> NOT NATIONAL CERTIFICATION"
+          ],
+          "source_references": [
+            "Community preparedness",
+            "Tsunami Ready boundary"
+          ]
+        },
+        {
+          "title": "Trust under uncertainty",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "THREAT POSSIBLE? -> ISSUE PRECAUTIONARY MESSAGE",
+            "NEW DATA? -> UPDATE / UPGRADE / DOWNGRADE",
+            "EXPLAIN REASON -> PRESERVE TRUST",
+            "LIMITED IMPACT -> NOT AUTOMATIC FALSE-ALARM FAILURE"
+          ],
+          "source_references": [
+            "False alarms and uncertainty"
+          ]
+        },
+        {
+          "title": "Tsunami answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE DISPLACEMENT -> TRACE SHOALING AND CONSEQUENCE",
+            "MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY",
+            "CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS",
+            "QUALIFY UNCERTAINTY READINESS RECOVERY AND OUTCOME"
+          ],
+          "source_references": [
+            "Recovery and livelihoods",
+            "Warning-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-22",
+  "subject": "Political Theory",
+  "title": "DEMOCRACY, REPRESENTATION AND LIBERAL DEMOCRACY",
+  "short_route": "MEANING, STAKES AND THE → DIRECT, REPRESENTATIVE AND LIBERAL → NECESSARY AND SUFFICIENT DEMOCRATIC → CLASSICAL CRITICS AND COMPARATIVE → LOCKE, MILL, ROUSSEAU AND → REPRESENTATION: TERRITORIAL, FUNCTIONAL AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g3\\topic-22_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-22-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "10a47c7a7a96da2a5ff90f541a68b4fea91ca4605d4c4ca67bff395154b3c896",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MEANING, STAKES AND THE CLASSICAL DEMOCRATIC MAP",
+      "structural_type": "root-axes",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MEANING, STAKES AND THE CLASSICAL DEMOCRATIC MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DEMOCRACY MEANS RULE OF THE PEOPLE, BUT TOPIC",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] GAUBA MOVES FROM GREEK PARTICIPATION TO MODERN REPRESENTATIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ELECTIONS ARE NECESSARY TO MODERN DEMOCRACY, BUT NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[4] LIBERAL DEMOCRACY ADDS CONSENT, ACCOUNTABILITY, RIGHTS AND MINORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "TOPIC 22 TREATS DEMOCRACY AS RESTRAINED PEOPLE-RULE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Meaning, Stakes and the Classical Democratic Map",
+        "[1] Democracy means rule of the people, but Topic 22 asks how rule is restrained.",
+        "[2] Gauba moves from Greek participation to modern representative institutions.",
+        "[3] Elections are necessary to modern democracy, but not sufficient by themselves."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Meaning, Stakes and the Classical Democratic Map",
+            "[1] Democracy means rule of the people, but Topic 22 asks how rule is restrained."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Gauba moves from Greek participation to modern representative institutions.",
+            "[3] Elections are necessary to modern democracy, but not sufficient by themselves.",
+            "[4] Liberal democracy adds consent, accountability, rights and minority security."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Topic 22 treats democracy as restrained people-rule.",
+            "ANSWER USE → Define popular rule, then add restraint and protection."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Define popular rule, then add restraint and protection.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DIRECT, REPRESENTATIVE AND LIBERAL DEMOCRACY",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIRECT, REPRESENTATIVE AND LIBERAL DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DIRECT DEMOCRACY EXPECTS CITIZENS TO DELIBERATE AND DECIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] REPRESENTATIVE DEMOCRACY USES ELECTED INTERMEDIARIES FOR LARGE MODERN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE SCALE PROBLEM EXPLAINS THE SHIFT FROM ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "[4] THE DEMOCRATIC RISK IS DISTANCE BETWEEN RULERS AND",
+          "role": "caution"
+        },
+        {
+          "text": "REPRESENTATION SOLVES SCALE BUT CREATES ACCOUNTABILITY RISK.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Direct, Representative and Liberal Democracy",
+        "[1] Direct democracy expects citizens to deliberate and decide public affairs.",
+        "[2] Representative democracy uses elected intermediaries for large modern states.",
+        "[3] The scale problem explains the shift from assembly to representation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Direct, Representative and Liberal Democracy",
+            "[1] Direct democracy expects citizens to deliberate and decide public affairs."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Representative democracy uses elected intermediaries for large modern states.",
+            "[3] The scale problem explains the shift from assembly to representation.",
+            "[4] The democratic risk is distance between rulers and the people."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Representation solves scale but creates accountability risk.",
+            "ANSWER USE → Contrast feasibility with democratic distance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Representation solves scale but creates accountability risk.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NECESSARY AND SUFFICIENT DEMOCRATIC CONDITIONS",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NECESSARY AND SUFFICIENT DEMOCRATIC CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LIBERAL DEMOCRACY JOINS POPULAR AUTHORISATION TO CONSTITUTIONAL RESTRAINT.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ITS CORE PACKAGE IS CONSENT, ACCOUNTABILITY, MAJORITY RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CIVIL LIBERTIES, PARTY COMPETITION AND COURTS PROTECT THE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MAJORITY RULE IS A DECISION RULE, NOT UNRESTRICTED",
+          "role": "caution"
+        },
+        {
+          "text": "LIBERAL DEMOCRACY JOINS AUTHORISATION TO RIGHTS AND LAW.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Necessary and Sufficient Democratic Conditions",
+        "[1] Liberal democracy joins popular authorisation to constitutional restraint.",
+        "[2] Its core package is consent, accountability, majority rule and minority rights.",
+        "[3] Civil liberties, party competition and courts protect the reality of choice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Necessary and Sufficient Democratic Conditions",
+            "[1] Liberal democracy joins popular authorisation to constitutional restraint."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Its core package is consent, accountability, majority rule and minority rights.",
+            "[3] Civil liberties, party competition and courts protect the reality of choice.",
+            "[4] Majority rule is a decision rule, not unrestricted domination."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Liberal democracy joins authorisation to rights and law.",
+            "ANSWER USE → Separate necessary elections from sufficient safeguards."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Liberal democracy joins authorisation to rights and law.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CLASSICAL CRITICS AND COMPARATIVE DEFENDERS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLASSICAL CRITICS AND COMPARATIVE DEFENDERS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PLATO FEARS DEMAGOGY, INCOMPETENCE AND INSTABILITY UNDER UNCHECKED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ARISTOTLE ACCEPTS COLLECTIVE JUDGMENT BUT WARNS AGAINST FALSE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DICEY AND BRYCE DEFEND DEMOCRACY THROUGH MAJORITY OPINION",
+          "role": "primary"
+        },
+        {
+          "text": "[4] CLASSICAL CRITICISM AND MODERN DEFENCE BOTH BELONG INSIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSICAL CRITICISM TESTS DEMOCRACY WITHOUT EXHAUSTING IT.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Classical Critics and Comparative Defenders",
+        "[1] Plato fears demagogy, incompetence and instability under unchecked democracy.",
+        "[2] Aristotle accepts collective judgment but warns against false equality claims.",
+        "[3] Dicey and Bryce defend democracy through majority opinion and public welfare."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Aristotle accepts collective judgment but warns against false equality claims.",
+          "VERDICT → Classical criticism tests democracy without exhausting it."
+        ],
+        [
+          "Classical Critics and Comparative Defenders",
+          "[3] Dicey and Bryce defend democracy through majority opinion and public welfare.",
+          "ANSWER USE → Pair each thinker with one precise risk or gain."
+        ],
+        [
+          "[1] Plato fears demagogy, incompetence and instability under unchecked democracy.",
+          "[4] Classical criticism and modern defence both belong inside Topic 22 answers.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Classical Critics and Comparative Defenders",
+            "[1] Plato fears demagogy, incompetence and instability under unchecked democracy."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Aristotle accepts collective judgment but warns against false equality claims.",
+            "[3] Dicey and Bryce defend democracy through majority opinion and public welfare.",
+            "[4] Classical criticism and modern defence both belong inside Topic 22 answers."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Classical criticism tests democracy without exhausting it.",
+            "ANSWER USE → Pair each thinker with one precise risk or gain."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Classical criticism tests democracy without exhausting it.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LOCKE, MILL, ROUSSEAU AND DEWEY",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LOCKE, MILL, ROUSSEAU AND DEWEY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LOCKE AND BENTHAM DEFEND ACCOUNTABLE GOVERNMENT AGAINST ABUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MILL LINKS REPRESENTATION TO LIBERTY, CRITICISM AND CIVIC",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ROUSSEAU INSISTS SOVEREIGNTY STAYS WITH THE PEOPLE AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] DEWEY EXTENDS DEMOCRACY INTO COMMUNICATION, INQUIRY AND ASSOCIATED",
+          "role": "outcome"
+        },
+        {
+          "text": "KEY THINKERS DIFFER OVER SOVEREIGNTY, LIBERTY AND CIVIC LIFE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Locke, Mill, Rousseau and Dewey",
+        "[1] Locke and Bentham defend accountable government against abuse of power.",
+        "[2] Mill links representation to liberty, criticism and civic improvement.",
+        "[3] Rousseau insists sovereignty stays with the people and resists alienation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Locke, Mill, Rousseau and Dewey",
+            "[1] Locke and Bentham defend accountable government against abuse of power."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Mill links representation to liberty, criticism and civic improvement.",
+            "[3] Rousseau insists sovereignty stays with the people and resists alienation.",
+            "[4] Dewey extends democracy into communication, inquiry and associated living."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Key thinkers differ over sovereignty, liberty and civic life.",
+            "ANSWER USE → Compare what each protects and what each fears."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Key thinkers differ over sovereignty, liberty and civic life.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REPRESENTATION: TERRITORIAL, FUNCTIONAL AND NORMATIVE MODELS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TERRITORIAL, FUNCTIONAL AND NORMATIVE MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] TERRITORIAL REPRESENTATION ORGANISES CONSTITUENCIES THROUGH GEOGRAPHY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] FUNCTIONAL REPRESENTATION SEEKS VOICE FOR OCCUPATIONS OR SECTORAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA NOTES FUNCTIONAL SCHEMES ATTRACTED CORPORATIST OR TOTALITARIAN",
+          "role": "primary"
+        },
+        {
+          "text": "[4] REPRESENTATION THEORY THEREFORE ASKS ABOUT STRUCTURE AS WELL",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESENTATION HAS STRUCTURAL FORMS AS WELL AS ROLE THEORIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Representation: Territorial, Functional and Normative Models",
+        "[1] Territorial representation organises constituencies through geography.",
+        "[2] Functional representation seeks voice for occupations or sectoral interests.",
+        "[3] Gauba notes functional schemes attracted corporatist or totalitarian uses."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Representation: Territorial, Functional and Normative Models",
+            "[1] Territorial representation organises constituencies through geography."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Functional representation seeks voice for occupations or sectoral interests.",
+            "[3] Gauba notes functional schemes attracted corporatist or totalitarian uses.",
+            "[4] Representation theory therefore asks about structure as well as legitimacy."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Representation has structural forms as well as role theories.",
+            "ANSWER USE → Keep territorial-functional distinct from delegate-trustee."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Representation has structural forms as well as role theories.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ELECTORAL TRANSLATION, MINORITY PROTECTION AND TRAP REPAIR",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ELECTORAL TRANSLATION, MINORITY PROTECTION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DELEGATE THEORY STRESSES CONSTITUENT CONTROL OVER THE REPRESENTATIVE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] TRUSTEE THEORY STRESSES THE REPRESENTATIVE'S OWN JUDGMENT AFTER",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MANDATE THEORY TIES ELECTION TO AUTHORISATION OF A",
+          "role": "primary"
+        },
+        {
+          "text": "[4] DESCRIPTIVE AND SUBSTANTIVE REPRESENTATION ASK DIFFERENT DEMOCRATIC QUESTIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPOSITION AND ACTION ARE DIFFERENT TESTS OF REPRESENTATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Electoral Translation, Minority Protection and Trap Repair",
+        "[1] Delegate theory stresses constituent control over the representative.",
+        "[2] Trustee theory stresses the representative's own judgment after election.",
+        "[3] Mandate theory ties election to authorisation of a public programme."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Electoral Translation, Minority Protection and Trap Repair",
+            "[1] Delegate theory stresses constituent control over the representative."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Trustee theory stresses the representative's own judgment after election.",
+            "[3] Mandate theory ties election to authorisation of a public programme.",
+            "[4] Descriptive and substantive representation ask different democratic questions."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Composition and action are different tests of representation.",
+            "ANSWER USE → Ask who mirrors society, then who serves interests."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Composition and action are different tests of representation.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REVISION SPINE AND SECONDARY REPRESENTATION THEORY",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "REVISION SPINE AND SECONDARY REPRESENTATION THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FPTP ELECTS THE LARGEST VOTE-GETTER AND IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[2] MAJORITARIAN DEVICES SEEK BROADER BACKING THROUGH RUNOFF OR",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] LIST PR ALIGNS SEATS MORE CLOSELY WITH VOTE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] STV IS ONE PROPORTIONAL METHOD USING RANKED TRANSFER",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTORAL SYSTEMS TRADE OFF DECISIVENESS, LEGITIMACY AND INCLUSION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Revision Spine and Secondary Representation Theory",
+        "[1] FPTP elects the largest vote-getter and is not a 50 per cent plus rule.",
+        "[2] Majoritarian devices seek broader backing through runoff or transfer methods.",
+        "[3] List PR aligns seats more closely with vote share and improves inclusion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Revision Spine and Secondary Representation Theory",
+            "[1] FPTP elects the largest vote-getter and is not a 50 per cent plus rule."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Majoritarian devices seek broader backing through runoff or transfer methods.",
+            "[3] List PR aligns seats more closely with vote share and improves inclusion.",
+            "[4] STV is one proportional method using ranked transfer in multi-member seats."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Electoral systems trade off decisiveness, legitimacy and inclusion.",
+            "ANSWER USE → Do not merge plurality, majoritarian and PR rules."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Electoral systems trade off decisiveness, legitimacy and inclusion.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ELECTORAL TRADE-OFFS AND LIBERAL-DEMOCRATIC TENSIONS",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ELECTORAL TRADE-OFFS AND LIBERAL-DEMOCRATIC TENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CONCURRENT AND CONSOCIATIONAL DEVICES RESPOND TO RISKS OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THEIR PROMISE IS MINORITY SECURITY; THEIR COST CAN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] INDIAN APPLICATION HERE STAYS CONCEPTUAL",
+          "role": "primary"
+        },
+        {
+          "text": "FRANCHISE, RIGHTS AND REVIEW MATTER.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DETAILED ARTICLE LAW REMAINS WITH POLITY OWNERS, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "MINORITY PROTECTION DEEPENS DEMOCRACY WHEN DOMINATION IS CHECKED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Electoral Trade-offs and Liberal-Democratic Tensions",
+        "[1] Concurrent and consociational devices respond to risks of permanent exclusion.",
+        "[2] Their promise is minority security; their cost can be delay and bargaining.",
+        "[3] Indian application here stays conceptual: franchise, rights and review matter."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Electoral Trade-offs and Liberal-Democratic Tensions",
+            "[1] Concurrent and consociational devices respond to risks of permanent exclusion."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Their promise is minority security; their cost can be delay and bargaining.",
+            "[3] Indian application here stays conceptual: franchise, rights and review matter.",
+            "[4] Detailed article law remains with Polity owners, not this theory topic."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Minority protection deepens democracy when domination is checked.",
+            "ANSWER USE → Use Indian illustrations conceptually, not article-heavy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Minority protection deepens democracy when domination is checked.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ANSWER ARCHITECTURE, INDIAN APPLICATION AND PROVENANCE",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANSWER ARCHITECTURE, INDIAN APPLICATION AND PROVENANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] VERIFIED PHILOSOPHY PYQS MUST RETAIN ORIGINAL OWNERSHIP IN",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] TOPIC 22 ANSWERS START WITH THRESHOLD",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFINE, THEN TEST SUFFICIENCY.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TOPIC 23 ADDS SCHUMPETER, DAHL AND LATER MODELS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TOPIC 23 MUST NOT DISPLACE TOPIC 22'S LIBERAL-DEMOCRATIC",
+          "role": "caution"
+        },
+        {
+          "text": "TOPIC 23 EXTENDS TOPIC 22 RATHER THAN REPLACING IT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Answer Architecture, Indian Application and Provenance",
+        "[1] Verified Philosophy PYQs must retain original ownership in their source owners.",
+        "[2] Topic 22 answers start with threshold: define, then test sufficiency.",
+        "[3] Topic 23 adds Schumpeter, Dahl and later models as bounded extensions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Answer Architecture, Indian Application and Provenance",
+            "[1] Verified Philosophy PYQs must retain original ownership in their source owners."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Topic 22 answers start with threshold: define, then test sufficiency.",
+            "[3] Topic 23 adds Schumpeter, Dahl and later models as bounded extensions.",
+            "[4] Topic 23 must not displace Topic 22's liberal-democratic foundation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Topic 23 extends Topic 22 rather than replacing it.",
+            "ANSWER USE → Use later models as bounded supplemental bridges."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Topic 23 extends Topic 22 rather than replacing it.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] REPAIR THE TRAP THAT ELECTIONS AUTOMATICALLY PROVE DEMOCRACY.",
+          "role": "caution"
+        },
+        {
+          "text": "[2] REPAIR THE TRAP THAT MAJORITY RULE EQUALS MINORITY",
+          "role": "caution"
+        },
+        {
+          "text": "[3] REPAIR THE TRAP THAT FPTP IS ITSELF A",
+          "role": "caution"
+        },
+        {
+          "text": "[4] REPAIR THE TRAP THAT DESCRIPTIVE AND SUBSTANTIVE REPRESENTATION",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE-OPTION ERRORS COME FROM COLLAPSED THRESHOLD DISTINCTIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Repair the trap that elections automatically prove democracy.",
+        "[2] Repair the trap that majority rule equals minority suppression.",
+        "[3] Repair the trap that FPTP is itself a majoritarian 50 per cent system."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Repair the trap that elections automatically prove democracy."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Repair the trap that majority rule equals minority suppression.",
+            "[3] Repair the trap that FPTP is itself a majoritarian 50 per cent system.",
+            "[4] Repair the trap that descriptive and substantive representation are identical."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close-option errors come from collapsed threshold distinctions.",
+            "ANSWER USE → State the decisive distinction before choosing."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close-option errors come from collapsed threshold distinctions.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THIS TOPIC USES SIX ORIGINAL MAINS PROMPTS FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] FORMS OF GOVERNMENT OWNS LIBERAL-DEMOCRACY AND DEMOCRACY-CHALLENGE PYQS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] IDEALS OWNS LIBERTY-EQUALITY-DEMOCRACY, WHILE SOVEREIGNTY OWNS DEMOCRACY STEMS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMOCRACY NEEDS REPRESENTATION, RESTRAINT AND PUBLIC JUDGMENT TOGETHER.",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-APPLIED PYQS HELP ONLY WHEN OWNERSHIP IS PRESERVED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] This topic uses six original Mains prompts for direct package generation.",
+        "[2] Forms of Government owns liberal-democracy and democracy-challenge PYQs.",
+        "[3] Ideals owns liberty-equality-democracy, while Sovereignty owns democracy stems there."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] This topic uses six original Mains prompts for direct package generation."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Forms of Government owns liberal-democracy and democracy-challenge PYQs.",
+            "[3] Ideals owns liberty-equality-democracy, while Sovereignty owns democracy stems there.",
+            "[4] Final recall: democracy needs representation, restraint and public judgment together."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Cross-applied PYQs help only when ownership is preserved.",
+            "ANSWER USE → Borrow the concept, never reroute the primary owner."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Cross-applied PYQs help only when ownership is preserved.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

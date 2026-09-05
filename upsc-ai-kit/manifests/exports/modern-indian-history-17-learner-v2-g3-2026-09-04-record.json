@@ -1,0 +1,159 @@
+{
+  "record_id": "modern-indian-history-17:learner-v2:g3",
+  "topic_key": "modern-indian-history-17",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "modern-indian-history-17:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — Growth of Communalism & the Muslim League — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Solved-Practice-Workbook_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Solved-Practice-Workbook_2026-09-04.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\assets",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "provenance": {
+    "workflow": "modern-history-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\15_Militant-Nationalism-and-Swadeshi.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\18_WWI-Home-Rule-and-Lucknow-Pact.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\20_Non-Cooperation-and-Khilafat-Movement.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\27_Independence-and-Partition.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [
+      "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+      "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md",
+      "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md",
+      "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md",
+      "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+    ],
+    "local_ocr_sources": [
+      "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+      "books\\modern india\\INDIA STRUGGLE FOR INDEPENDENCE-- BIPIN C ENG.pdf",
+      "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf"
+    ],
+    "live_sources": [
+      "https://elibrary.sansad.in/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-04",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\17_Growth-of-Communalism-and-Muslim-League.md": "018ba510248cbe0097365c509e2c590b02ec24633ed96b579d08ba9fc7f0513c",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\17_Growth-of-Communalism-and-Muslim-League.md": "81e167124e64ea97b6303cc47d38ba125992629439151daafa53574e636fa3f5",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQ stems with substantive explanations and strict A-B-C-D rotation; routed PYQ demand cards; original solved 10, 15 and 20-mark Mains practice; final consolidated register notes.",
+    "current_linkage_note": "Parliament Digital Library is retained only as a constitutional archive bridge. No present-day party position is used as evidence for colonial communalism or the decisions that culminated in Partition.",
+    "pyq_status_note": "The verified and routed 2018 GS-I Q20 on power struggle and relative deprivation is solved as a direct Mains question. The provisional local key for 2026 Prelims Q18 is not treated as official; that demand remains a verification and evidence-gap card.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "d6cb43fff950007ec18a99e627a02f794ee3b7781df9b8ade0f68846c98fe03c",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Solved-Practice-Workbook_2026-09-04.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus-content-specs\\modern-indian-history-17-g3.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-17-deep-review-2026-09-04-g3.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.md": "265f54490ad4da3d3579701555c35b3822931896bb74053e78b73d12a8e619ee",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Solved-Practice-Workbook_2026-09-04.md": "8e972aefdb361d59f0ec44706bd654c54ea75114b5cb3ceda9496351bbb62b0c",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.pdf": "fd0fa7ff5336bd28d897d81982c17cd14e348b0bbd809e0115fac4350d82ad03",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Solved-Practice-Workbook_2026-09-04.pdf": "8d71f2823cbdab4136ba46f5ce022af06d467094afe6ee49253bb655d3e7566d",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\validation\\main-visual-audit-map.json": "d6774243b5fa45b78337da1afbfb126347e318ed2e3b804003732d6acfc1206c",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\validation\\workbook-visual-audit-map.json": "0aa3c6a629b833bbfefd99eac0bdc8efa2aee5f6a829185ed97b5074172c8d1b",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-17-deep-review-2026-09-04-g3.json": "a6e58041efb0818200e99574a5862e97f256a00ef4746fb825c3121519e10c24",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\deep-review\\modern-indian-history-17-g3.json": "b1bf8b26fdeda6af5ef44eee1369da3c84f7c60e4a792d7c883dd2264adabb2a",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\assets\\modern-indian-history-17_Teaching-Navigation_2026-08-31.png": "3b5f84bac43b5519f2dba8cb62c72f297f6f845f890e3d8acd464ac7e6a55bb0",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\ascii-master.pdf": "0c60db7d5e48bf8ee9ef9eded73e2572289238f4d485ab82d5ecbf6f3c7226d7",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\ascii-master.txt": "fa3d618bc9d2c582636754285ee7140993a8a6f8f6b157a844ad84c3f681bd64",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\build-audit.json": "12ba8024e7ca8115a4a3ce639343245fbe3ee09423e8b3606d02f3699f89714f",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\master.png": "81b06c08a1511726a18bd94f644a811501ebdafe7b3fb312b162df289b4f6662",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\poster.pdf": "34302d640111232da33d6628593f411d4e1dae2dda8a785ac098a828443dfc34",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\preservation-hashes.json": "06c8522970d57c9cc1492751eb0d478d721e618092fd5c9d41a84ec9fc5723c8",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\README.txt": "436707d47d093e8914578786c95621eda79243add447b4b569228553bcd9ef8a",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\tiled.pdf": "dac51db8c209d04cb1f99a9f2c179d827f5895edc0621d20542d19c4be886ca7",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\validation-report.txt": "d7b466c51137e9a6f3368f59e986ad77a69655ff7881c2c8ed659ccdc1d35233",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\editable\\topic-spec.json": "b1bf8b26fdeda6af5ef44eee1369da3c84f7c60e4a792d7c883dd2264adabb2a",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\contact-sheet-01.png": "fddd7ba97b6d97a6ebac809e5fb6eafe5f6ce93ae12f24759fd40c7a2954b7f6",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\master-overview.png": "6d5e60f4aeab6da46ab4e19bda5be37099742caa5010d1a0544ebf2d835b0fee",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\page-001.png": "91d7bfcb517364cee3887c3079681c09bacbd0d34ef066f139d310da601bc9fd",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\page-002.png": "2b9ba6a9041f8dfb2201ef1982b782a5663c226c0ebdf79b850a483610e49ecd",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\page-003.png": "f5070ec750d3cd30291e4798a0cc01659c75546b5baee075d3e6eb85ad1a8922",
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\page-004.png": "f570ba56300d4bf796d2064926ea57d6bb7078e55b3168cf80cc290c55e8176f",
+      "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus-content-specs\\modern-indian-history-17-g3.json": "4b17b5a4ab43af44a072422fb26f3afa04649530913c17865aaa6896065a0538"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "modern-indian-history-17:learner-v2:g3"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "regenerate_modern_history_deep_review.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\deep-review\\modern-indian-history-17-g3.json",
+    "graphical_spec_sha256": "b1bf8b26fdeda6af5ef44eee1369da3c84f7c60e4a792d7c883dd2264adabb2a",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-17-deep-review-2026-09-04-g3.json",
+    "ascii_master_spec_sha256": "a6e58041efb0818200e99574a5862e97f256a00ef4746fb825c3121519e10c24",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-17\\carvaka-g3\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-modern-history-deep-review-spec"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

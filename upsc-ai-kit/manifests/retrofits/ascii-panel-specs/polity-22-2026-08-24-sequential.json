@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-22-ascii-panels-2026-08-28-g4",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-review repair: twelve complete Core-first routes from corrected constitutional owners and current controls.",
+  "constraints": {
+    "panels_per_topic": 12,
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-22": {
+      "title": "Special Provisions",
+      "source_record": "polity-22:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md",
+      "quality_review": "Manual Core-first constitutional and PYQ reconciliation.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference read-only.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Part XXI scope and asymmetry architecture",
+          "structural_type": "scope-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 1"
+          ],
+          "full_text": "PART XXI: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS\nONE UNION -> ordinary State framework + purpose-specific constitutional difference.\n\nTHIS TOPIC OWNS\nArticles 371-371J; minimum Article 370/35A status needed for legal distinction.\n\nCROSS-OWNED\nFifth/Sixth Schedules -> Polity 26 | J&K/Ladakh UT machinery -> Polity 25.\n\nANSWER LINE\nEquality permits calibrated difference; special treatment remains inside one Constitution."
+        },
+        {
+          "title": "Article 370 and Article 35A legal timeline",
+          "structural_type": "timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 2"
+          ],
+          "full_text": "1947 accession -> Article 370 temporary application mechanism -> 1954 Order inserts Article 35A\n-> J&K Constituent Assembly dissolves in 1957.\nSampat Prakash (1968) confirms continued Presidential-Order practice.\n\n5 AUGUST 2019: C.O. 272 applies Constitution comprehensively.\n6 AUGUST 2019: C.O. 273 renders former Article 370 provisions inoperative.\n31 OCTOBER 2019: Reorganisation creates J&K UT with legislature + Ladakh UT without.\n\nTRAP: printed in text does not mean operative; Article 35A is not a current guarantee."
+        },
+        {
+          "title": "In re Article 370 and current federal status",
+          "structural_type": "judgment-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 3"
+          ],
+          "full_text": "IN RE ARTICLE 370 (2023)\nTemporary provision | no separate internal sovereignty | Article 370(3) power survived 1957\n| constitutional result upheld | Article 367 route unnecessary/invalid to the stated extent.\n\nNOT FINALLY DECIDED\nPermanent validity of converting J&K State into Union Territories.\n\nCURRENT 28 AUGUST 2026\nJ&K: UT with elected legislature; Statehood pending, no judicial deadline.\nLadakh: UT without legislature; Statehood/Sixth Schedule demands remain unenacted."
+        },
+        {
+          "title": "Article 371 amendment and actor ladder",
+          "structural_type": "chronology",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 4"
+          ],
+          "full_text": "371: Maharashtra/Gujarat -> President may assign Governor regional-development responsibility.\n371A 13th (1962) | 371B 22nd (1969) | 371C 27th (1971).\n371D/E 32nd (1973), 371D adapted to Telangana by 2014 reorganisation law.\n371F 36th (1975) | 371G 53rd (1986) | 371H 55th (1986).\n371I 56th (1987) | 371J 98th (2012; effective 2013).\n\nMEMORY FORMULA: STATE -> ARTICLE -> AMENDMENT -> ACTOR -> PROTECTED INTEREST."
+        },
+        {
+          "title": "Development models: Articles 371 and 371J",
+          "structural_type": "development-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 5"
+          ],
+          "full_text": "ARTICLE 371 — MAHARASHTRA/GUJARAT\nPresident order -> Governor special responsibility -> separate boards + annual Assembly reports\n-> equitable development funds + technical/vocational and State-service opportunity.\n\nARTICLE 371J — KARNATAKA\nConstitution says Hyderabad-Karnataka; current official name: Kalyana Karnataka.\nPresident order may provide board, equitable funds/opportunity and proportionate local seats/posts\nfor persons belonging by birth or domicile. No fixed percentage appears in Article 371J itself."
+        },
+        {
+          "title": "Consent shields: Nagaland and Mizoram",
+          "structural_type": "consent-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 6"
+          ],
+          "full_text": "ARTICLE 371A — NAGALAND\nAssembly resolution required for Parliamentary law on Naga religious/social practices,\ncustomary law/procedure, customary civil-criminal justice, and land/resources.\nAlso contains Tuensang and bounded transitional Governor law-order arrangements.\n\nARTICLE 371G — MIZORAM\nParallel shield for Mizo practices, customary law/procedure, customary justice and land;\nAssembly minimum 40.\n\nTRAP: subject-specific consent is not a general parliamentary veto."
+        },
+        {
+          "title": "Committee models: Assam and Manipur",
+          "structural_type": "committee-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 7"
+          ],
+          "full_text": "ARTICLE 371B — ASSAM\nPresident may constitute an Assembly committee of members from specified tribal areas\nplus such other Assembly members as the order provides.\n\nARTICLE 371C — MANIPUR\nPresident structures Hill Areas Committee and State-business rules.\nGovernor has special responsibility, reports annually to President; Union may direct State.\n\nTRAP: neither committee is itself a Sixth Schedule autonomous district council."
+        },
+        {
+          "title": "Local opportunity: Articles 371D and 371E",
+          "structural_type": "local-opportunity",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 371D — ANDHRA PRADESH AND TELANGANA\nPresident may order equitable public-employment and educational opportunity, local areas/cadres,\nand related allocation rules. Section 97 of the 2014 Reorganisation Act adapted the text.\nFormer Andhra Pradesh Administrative Tribunal abolished by G.S.R. 30(E), 14 January 2020.\n\nARTICLE 371E — ANDHRA PRADESH ONLY\nParliament may establish a Central University. It is not a reservation clause."
+        },
+        {
+          "title": "Integration and law-order models: 371F, 371H, 371I",
+          "structural_type": "integration-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 9"
+          ],
+          "full_text": "ARTICLE 371F — SIKKIM\n36th Amendment integration settlement: representation, law/court continuity, one Lok Sabha seat,\nAssembly at least 30; Governor discretion for peace/equitable advancement subject to President.\n\nARTICLE 371H — ARUNACHAL PRADESH\nGovernor consults ministers but uses individual judgment in bounded law-order responsibility;\nPresident may terminate it. Assembly at least 30.\n\nARTICLE 371I — GOA: Assembly at least 30; no customary-law shield."
+        },
+        {
+          "title": "Article 371 versus Fifth and Sixth Schedules",
+          "structural_type": "mechanism-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "ARTICLE 371 FAMILY — Part XXI, State-specific constitutional clauses.\nFIFTH SCHEDULE — Article 244(1): Scheduled Areas, President, Governor regulations/reports, TAC.\nSIXTH SCHEDULE — Article 244(2): autonomous district/regional councils in Assam, Meghalaya,\nTripura and Mizoram with specified legislative, judicial and fiscal powers.\n\nDO NOT MERGE\n371A/G Assembly consent != Sixth Schedule council autonomy != Fifth Schedule guardianship."
+        },
+        {
+          "title": "PYQ and current-institution traps",
+          "structural_type": "exam-traps",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 11"
+          ],
+          "full_text": "NORTH EASTERN COUNCIL\nStatutory under NEC Act, 1971; regional Governors + Chief Ministers + three President nominees.\nUnion Home Minister chairs; DoNER Minister is Vice-Chair under amended framework.\nNot an Article 371 body and not a Sixth Schedule council.\n\nCURRENT TRAPS\nJ&K Statehood pending | Ladakh demands unenacted | AP tribunal abolished\n| Kalyana Karnataka is current name, but Article 371J retains Hyderabad-Karnataka wording."
+        },
+        {
+          "title": "Mains synthesis and qualified conclusion",
+          "structural_type": "answer-spine",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-22\\g4-source\\polity-22_g4-reviewed-source.md#SESSION 12"
+          ],
+          "full_text": "MAINS SPINE\nDefine asymmetry -> classify development/consent/committee/integration models\n-> name State, Article, amendment and actor -> show protective benefit\n-> test equality, local minorities, accountability and implementation\n-> compare Fifth/Sixth Schedules only where relevant -> qualified verdict.\n\nREFORM\nAnnual reports + outcome data + transparent reservation rules + local participation + review.\n\nCONCLUSION\nIndian unity is strengthened by bounded, reviewable difference—not mechanical uniformity."
+        }
+      ]
+    }
+  }
+}

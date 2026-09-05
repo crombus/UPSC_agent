@@ -1,0 +1,967 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "subject": "Philosophy",
+  "title": "NATURE OF RELIGIOUS LANGUAGE",
+  "short_route": "OFFICIAL BOUNDARY AND THE → AQUINAS AND SCOTUS: CONTINUITY → TILLICH: SYMBOL, PARTICIPATION AND → VERIFICATION, FALSIFICATION AND THE → BRAITHWAITE AND QUALIFIED WITTGENSTEINIAN → SPEECH ACTS, RAMSEY AND",
+  "reading_note": "Read the numbered rail in order. Every syllabus and PYQ-essential distinction is Core; the final grey node is genuinely optional enrichment.",
+  "status": {
+    "approved": false,
+    "review": "REVALIDATION PENDING",
+    "line": "Approval: FALSE • g12 • fresh deep review required • prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g12\\topic-10_Complete-Learning-Session_2026-08-27.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-10-g12-2026-08-27.json",
+  "ascii_spec_sha256": "88af00be1daf4959ae9fa87113ed4464f7cf3d2edabfed6ed2181ea5288d0a9f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "OFFICIAL BOUNDARY AND THE TWO-AXIS CONTROL",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OFFICIAL BOUNDARY AND THE TWO-AXIS CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "GENERATED 2026-08-27",
+          "role": "outcome"
+        },
+        {
+          "text": "APPROVAL FALSE",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL CLAUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "ANALOGICAL AND SYMBOLIC; COGNITIVIST AND NON-COGNITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "HOW DOES A PREDICATE REFER?",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES THE UTTERANCE STATE A TRUTH?",
+          "role": "institution"
+        },
+        {
+          "text": "\"GOD IS GOOD\" MAY BE ANALOGICAL AND COGNITIVE AT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTITY → learner-v2:g12",
+        "generated 2026-08-27",
+        "approval FALSE",
+        "OFFICIAL CLAUSE → analogical and symbolic; cognitivist and non-cognitive",
+        "HOW DOES A PREDICATE REFER?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "IDENTITY → learner-v2:g12",
+            "generated 2026-08-27",
+            "approval FALSE"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL CLAUSE → analogical and symbolic; cognitivist and non-cognitive",
+            "HOW DOES A PREDICATE REFER?",
+            "DOES THE UTTERANCE STATE A TRUTH?"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CONTROL → \"God is good\" may be ANALOGICAL and COGNITIVE at once.",
+            "Never infer truth-status from semantic mode or semantic mode from use."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Never infer truth-status from semantic mode or semantic mode from use.",
+      "source_references": [
+        "Official clause",
+        "Sessions 1-2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AQUINAS AND SCOTUS: CONTINUITY WITHOUT COLLAPSE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AQUINAS AND SCOTUS",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUITY WITHOUT COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURE PERFECTION EXISTS IN GOD ESSENTIALLY AND EMINENTLY RES",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFECTION SIGNIFIED APPLIES TRULY TO GOD MODUS SIGNIFICANDI",
+          "role": "evidence"
+        },
+        {
+          "text": "CREATURE-DERIVED MANNER REMAINS INADEQUATE",
+          "role": "primary"
+        },
+        {
+          "text": "AQUINAS REJECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "\"GOD IS GOOD\" MERELY MEANS GOD CAUSES GOODNESS LATER",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTRIBUTION AND PROPORTIONALITY SYSTEMATISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AQUINAS → pure perfection exists in God ESSENTIALLY AND EMINENTLY res significata = perfection signified",
+        "God modus significandi = creature-derived manner remains inadequate",
+        "Aquinas REJECTS: \"God is good\" merely means God causes goodness later Thomist/Cajetan: attribution and proportionality",
+        "SCOTUS → semantic, NOT ontological, univocity secures valid inference one common concept; FINITE / INFINITE",
+        "TRADE-OFF → univocity risks anthropomorphism; analogy risks indeterminacy."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "AQUINAS → pure perfection exists in God ESSENTIALLY AND EMINENTLY res significata = perfection signified applies truly to",
+          "Aquinas REJECTS: \"God is good\" merely means God causes goodness later Thomist/Cajetan: attribution and proportionality systematisation",
+          "TRADE-OFF → univocity risks anthropomorphism; analogy risks indeterminacy."
+        ],
+        [
+          "God modus significandi = creature-derived manner remains inadequate",
+          "SCOTUS → semantic, NOT ontological, univocity secures valid inference one common concept; FINITE / INFINITE INTRINSIC MODES preserve the gulf",
+          "AQUINAS → pure perfection exists in God ESSENTIALLY AND EMINENTLY res significata = perfection signified applies truly to"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "AQUINAS → pure perfection exists in God ESSENTIALLY AND EMINENTLY res significata = perfection signified applies truly to",
+            "God modus significandi = creature-derived manner remains inadequate"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Aquinas REJECTS: \"God is good\" merely means God causes goodness later Thomist/Cajetan: attribution and proportionality systematisation",
+            "SCOTUS → semantic, NOT ontological, univocity secures valid inference one common concept; FINITE / INFINITE INTRINSIC MODES preserve the gulf"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "TRADE-OFF → univocity risks anthropomorphism; analogy risks indeterminacy.",
+            "AQUINAS → pure perfection exists in God ESSENTIALLY AND EMINENTLY res significata = perfection signified applies truly to"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE-OFF → univocity risks anthropomorphism; analogy risks indeterminacy.",
+      "source_references": [
+        "Core dossiers 9.1 and 9.8",
+        "2024 Q5(e)"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TILLICH: SYMBOL, PARTICIPATION AND DISTORTION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SYMBOL, PARTICIPATION AND DISTORTION",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTIONAL POINTER, REPLACEABLE, DOES NOT PARTICIPATE",
+          "role": "caution"
+        },
+        {
+          "text": "POINTS + PARTICIPATES + OPENS REALITY/SELF + TRANSFORMS ARISES",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT ONE BEING; SYMBOLICALLY DISCLOSED AS BEING-ITSELF",
+          "role": "caution"
+        },
+        {
+          "text": "DISPUTED LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "TILLICH'S PROPOSED NON-SYMBOLIC ANCHOR WAS MODIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILURE 1",
+          "role": "comparison"
+        },
+        {
+          "text": "FINITE BEARER CLAIMS ULTIMACY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIGN → conventional pointer, replaceable, does not participate",
+        "SYMBOL → points + PARTICIPATES + opens reality/self + transforms arises collectively + may grow",
+        "GOD → not one being; symbolically disclosed as BEING-ITSELF",
+        "DISPUTED LIMIT → Tillich's proposed non-symbolic anchor was modified",
+        "FAILURE 1 → finite bearer claims ultimacy = IDOLATRY / DEMONIC distortion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SIGN → conventional pointer, replaceable, does not participate",
+            "SYMBOL → points + PARTICIPATES + opens reality/self + transforms arises collectively + may grow and die",
+            "GOD → not one being; symbolically disclosed as BEING-ITSELF"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISPUTED LIMIT → Tillich's proposed non-symbolic anchor was modified",
+            "FAILURE 1 → finite bearer claims ultimacy = IDOLATRY / DEMONIC distortion",
+            "FAILURE 2 → unconstrained participation = vague or circular reference"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → symbolic realism needs participation and referential discipline."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → symbolic realism needs participation and referential discipline.",
+      "source_references": [
+        "Core dossier 9.2",
+        "2018 Q8(c)",
+        "2023 Q7(c)",
+        "2025 Q5(b)"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VERIFICATION, FALSIFICATION AND THE COGNITIVE SPECTRUM",
+      "structural_type": "evidence-debate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "VERIFICATION, FALSIFICATION AND THE COGNITIVE SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "COGNITIVE REALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIMS MAY BE TRUE OR FALSE; ANALOGY CAN QUALIFY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNVERIFIABLE THEOLOGY IS LITERALLY MEANINGLESS",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT COULD COUNT AGAINST IT? DEATH BY A THOUSAND",
+          "role": "primary"
+        },
+        {
+          "text": "NON-FACTUAL WORLD-ORIENTATION CAN STILL GOVERN LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUTH-APT DEFEASIBLE TRUST ADMITS ADVERSE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ESCHATOLOGICAL VERIFICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COGNITIVE REALISM → claims may be true or false; analogy can qualify mode",
+        "AYER → unverifiable theology is literally meaningless",
+        "FLEW → what could count against it? death by a thousand qualifications",
+        "HARE → blik: non-factual world-orientation can still govern life",
+        "MITCHELL → partisan: truth-apt DEFEASIBLE TRUST admits adverse evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "COGNITIVE REALISM → claims may be true or false; analogy can qualify mode",
+            "AYER → unverifiable theology is literally meaningless",
+            "FLEW → what could count against it? death by a thousand qualifications"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "HARE → blik: non-factual world-orientation can still govern life",
+            "MITCHELL → partisan: truth-apt DEFEASIBLE TRUST admits adverse evidence",
+            "HICK → eschatological verification: confirmable at the journey's end"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "BRAITHWAITE → moral commitment; constructive, not Ayer's elimination",
+            "CONTROL → unverifiability is not automatically a formal contradiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → unverifiability is not automatically a formal contradiction.",
+      "source_references": [
+        "Core dossiers 9.3 and 9.9",
+        "2020 Q8(a)",
+        "2024 Q8(a)"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BRAITHWAITE AND QUALIFIED WITTGENSTEINIAN USE",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BRAITHWAITE AND QUALIFIED WITTGENSTEINIAN USE",
+          "role": "primary"
+        },
+        {
+          "text": "\"GOD IS LOVE\" AVOWS AN AGAPEISTIC MORAL POLICY STORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDUCT; RISK",
+          "role": "caution"
+        },
+        {
+          "text": "WITTGENSTEIN'S LECTURES",
+          "role": "evidence"
+        },
+        {
+          "text": "LAST JUDGEMENT DIFFERS FROM ORDINARY PREDICTION",
+          "role": "primary"
+        },
+        {
+          "text": "LATER WITTGENSTEINIANS",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGE-GAME, GRAMMAR AND FORM OF LIFE",
+          "role": "comparison"
+        },
+        {
+          "text": "D. Z. PHILLIPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRAITHWAITE → \"God is love\" avows an AGAPEISTIC MORAL POLICY stories sustain intention; strength =",
+        "WITTGENSTEIN'S LECTURES → Last Judgement differs from ordinary prediction",
+        "LATER WITTGENSTEINIANS → language-game, grammar and form of life",
+        "D. Z. PHILLIPS → resisted reductionist/simple non-cognitivist labels",
+        "OBJECTION → internal grammar can become fideistic insulation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "BRAITHWAITE → \"God is love\" avows an AGAPEISTIC MORAL POLICY stories sustain intention; strength = conduct; risk = reductionism",
+            "WITTGENSTEIN'S LECTURES → Last Judgement differs from ordinary prediction",
+            "LATER WITTGENSTEINIANS → language-game, grammar and form of life"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "D. Z. PHILLIPS → resisted reductionist/simple non-cognitivist labels",
+            "OBJECTION → internal grammar can become fideistic insulation",
+            "REPLY → use explains intelligibility, not automatic truth or immunity"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → practical force may supplement rather than erase assertion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → practical force may supplement rather than erase assertion.",
+      "source_references": [
+        "Core dossier 9.4",
+        "2018 Q7(b)",
+        "2023 Q5(d)"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SPEECH ACTS, RAMSEY AND MIMAMSA",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SPEECH ACTS, RAMSEY AND MIMAMSA",
+          "role": "primary"
+        },
+        {
+          "text": "LOCUTIONARY CONTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ILLOCUTIONARY FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PERLOCUTIONARY EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "SELF-INVOLVING LANGUAGE COMMITS SPEAKER AND CONSTITUTES RELATION",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY MODEL + QUALIFIER",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCLOSURE SITUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "VIDHI HAS PRIORITY IN DISCLOSING DHARMA; NOT ALL SASTRA",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AUSTIN → locutionary content",
+        "illocutionary force",
+        "perlocutionary effect",
+        "EVANS → SELF-INVOLVING language commits speaker and constitutes relation",
+        "RAMSEY → ordinary MODEL + QUALIFIER → disclosure situation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "AUSTIN → locutionary content",
+            "illocutionary force",
+            "perlocutionary effect",
+            "EVANS → SELF-INVOLVING language commits speaker and constitutes relation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAMSEY → ordinary MODEL + QUALIFIER → disclosure situation",
+            "MIMAMSA → VIDHI has priority in disclosing DHARMA",
+            "not all sastra is grammatically imperative",
+            "MANTRA functions as ritual instrument sabda-nityatva = eternity of word/sound and word-meaning relation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "GRAMMARIANS → classical SPHOTA (sentence-whole disclosure), especially Bhartrhari",
+            "CONTROL → performative force does not by itself cancel cognitive content."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → performative force does not by itself cancel cognitive content.",
+      "source_references": [
+        "Core dossier 9.6",
+        "2018 Q5(a)",
+        "Original 2"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ADVAITA: NEGATION, INDICATION AND SUBLATION",
+      "structural_type": "procedure-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NEGATION, INDICATION AND SUBLATION",
+          "role": "primary"
+        },
+        {
+          "text": "SAT, BUT NON-OBJECTIFIABLE; WORDS TURN BACK",
+          "role": "outcome"
+        },
+        {
+          "text": "NEITHER ABSOLUTELY REAL NOR UNREAL",
+          "role": "comparison"
+        },
+        {
+          "text": "NETI NETI (NOT THIS, NOT THIS)",
+          "role": "caution"
+        },
+        {
+          "text": "ELIMINATIVE REMOVAL OF FINITE LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "LAKSANA (INDIRECT INDICATION)",
+          "role": "outcome"
+        },
+        {
+          "text": "RETAIN INTENDED IMPORT WHEN LITERAL SENSE FAILS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISCARD INCOMPATIBLE CONNOTATIONS IN \"TAT TVAM ASI\"",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRAHMAN → SAT, but NON-OBJECTIFIABLE; words turn back",
+        "MAYA / WORLD-APPEARANCE → ANIRVACANIYA: neither absolutely real nor unreal",
+        "NETI NETI (not this, not this) → ELIMINATIVE removal of finite limits",
+        "LAKSANA (indirect indication) → retain intended import when literal sense fails",
+        "BHAGA-TYAGA → discard incompatible connotations in \"tat tvam asi\""
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "BRAHMAN → SAT, but NON-OBJECTIFIABLE; words turn back",
+            "MAYA / WORLD-APPEARANCE → ANIRVACANIYA: neither absolutely real nor unreal",
+            "NETI NETI (not this, not this) → ELIMINATIVE removal of finite limits"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAKSANA (indirect indication) → retain intended import when literal sense fails",
+            "BHAGA-TYAGA → discard incompatible connotations in \"tat tvam asi\"",
+            "SUBLATION → teaching language removes error like a thorn, then is cancelled"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP → never call Brahman neither real nor unreal in maya's technical sense."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → never call Brahman neither real nor unreal in maya's technical sense.",
+      "source_references": [
+        "Core dossier 9.5",
+        "2025 Q8(c)",
+        "Original 3"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FROM SYMBOL TOWARD MYSTICISM: MECHANISM AND COUNTER-CASE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM SYMBOL TOWARD MYSTICISM",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM AND COUNTER-CASE",
+          "role": "mechanism"
+        },
+        {
+          "text": "AFFIRMATIVE ROUTE SYMBOL PARTICIPATES",
+          "role": "comparison"
+        },
+        {
+          "text": "DRAWS PRACTITIONER IN",
+          "role": "evidence"
+        },
+        {
+          "text": "BECOMES TRANSPARENT",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBLE IMMEDIACY BEYOND MEDIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "WAKING/DREAM/DEEP SLEEP",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUNDLESS AMATRA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AFFIRMATIVE ROUTE symbol participates → draws practitioner in → becomes transparent",
+        "SELF-EFFACEMENT → possible IMMEDIACY beyond mediation",
+        "OMKARA: A-U-M → waking/dream/deep sleep → soundless AMATRA / TURIYA",
+        "COUNTER-CASE idolatry arrests",
+        "KATZ: symbols constitute experience"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "AFFIRMATIVE ROUTE symbol participates → draws practitioner in → becomes transparent",
+            "SELF-EFFACEMENT → possible IMMEDIACY beyond mediation",
+            "OMKARA: A-U-M → waking/dream/deep sleep → soundless AMATRA / TURIYA"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COUNTER-CASE idolatry arrests",
+            "KATZ: symbols constitute experience",
+            "iconoclasm deletes ethics, inquiry and grace show NON-NECESSITY; no symbol guarantees mysticism"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → normal and powerful route, but neither necessary nor sufficient."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → normal and powerful route, but neither necessary nor sufficient.",
+      "source_references": [
+        "Core dossier 9.7",
+        "2019 Q6(a)",
+        "2025 Q5(b)"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FOURTEEN VERIFIED PYQ DEMAND ROUTES",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FOURTEEN VERIFIED PYQ DEMAND ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "2018 Q5(A) SECULAR/RELIGIOUS USE",
+          "role": "outcome"
+        },
+        {
+          "text": "Q7(B) BRAITHWAITE",
+          "role": "comparison"
+        },
+        {
+          "text": "Q8(C) SYMBOL MEDIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "2019 Q6(A) WHETHER AND HOW SYMBOL LEADS TO MYSTICISM",
+          "role": "primary"
+        },
+        {
+          "text": "2020 Q8(A) COGNITIVE CONTENT IN DETAIL",
+          "role": "outcome"
+        },
+        {
+          "text": "2021 Q8(A) BRAITHWAITE NON-COGNITIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "Q8(C) TILLICH SYMBOLISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2018 Q5(a) secular/religious use",
+        "Q7(b) Braithwaite",
+        "Q8(c) symbol mediation",
+        "2019 Q6(a) whether AND how symbol leads to mysticism",
+        "2020 Q8(a) cognitive content in detail"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "2018 Q5(a) secular/religious use",
+            "Q7(b) Braithwaite",
+            "Q8(c) symbol mediation",
+            "2019 Q6(a) whether AND how symbol leads to mysticism",
+            "2020 Q8(a) cognitive content in detail"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2021 Q8(a) Braithwaite non-cognitive",
+            "Q8(c) Tillich symbolism",
+            "2022 Q5(e) \"God exists\": cognitive versus non-cognitive",
+            "2023 Q5(d) qualified Wittgenstein",
+            "Q7(c) Tillich"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "2024 Q5(e) analogy",
+            "Q8(a) cognitive/non-cognitive plus contradiction 10+10",
+            "2025 Q5(b) symbolic? reasons",
+            "Q8(c) Advaitic anirvacaniyata",
+            "CONTROL → obey directive, printed marks split and answer-specific mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → obey directive, printed marks split and answer-specific mechanism.",
+      "source_references": [
+        "Verified PYQ ledger 2018-2025"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "EXECUTABLE ANSWER SPINE, TRAPS AND QUALIFIED CONCLUSION",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXECUTABLE ANSWER SPINE, TRAPS AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE EXACT DEMAND AND SEPARATE HOW FROM WHETHER",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE WITH NAMED MECHANISM, NOT A THINKER LIST",
+          "role": "caution"
+        },
+        {
+          "text": "ONE CANONICAL EXAMPLE OR TEXT LOCUS",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGEST OBJECTION AT THE POINT WHERE IT BITES",
+          "role": "primary"
+        },
+        {
+          "text": "PRESERVE THE THEORY'S GAIN WITHOUT DENYING ITS COST",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN/WESTERN ONLY AS QUALIFIED STRUCTURAL COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUSE-ONLY AQUINAS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "OPEN → define the exact demand and separate HOW from WHETHER",
+        "MAP → doctrine with named mechanism, not a thinker list",
+        "EVIDENCE → one canonical example or text locus",
+        "TEST → strongest objection at the point where it bites",
+        "REPLY → preserve the theory's gain without denying its cost"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "OPEN → define the exact demand and separate HOW from WHETHER",
+            "MAP → doctrine with named mechanism, not a thinker list",
+            "EVIDENCE → one canonical example or text locus",
+            "TEST → strongest objection at the point where it bites"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPLY → preserve the theory's gain without denying its cost",
+            "COMPARE → Indian/Western only as qualified structural comparison",
+            "TRAPS → cause-only Aquinas",
+            "settled Wittgenstein"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CLOSE → intelligible reference + apophatic humility + critical vulnerability",
+            "FORMULA → qualified mixed realism, not literalism and not disguised silence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORMULA → qualified mixed realism, not literalism and not disguised silence.",
+      "source_references": [
+        "Answer architecture",
+        "All 14 PYQs"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RADICAL ORTHODOXY AND THE GENEALOGY OF UNIVOCITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FICTIONALISM AND RELIGIOUS MAKE-BELIEVE",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALIST METAPHOR DEBATES",
+          "role": "evidence"
+        },
+        {
+          "text": "PLURALISM BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "RADICAL ORTHODOXY AND THE GENEALOGY OF UNIVOCITY SOME RADICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS IS A CONTESTED HISTORICAL THESIS, NOT THE CORE",
+          "role": "caution"
+        },
+        {
+          "text": "USE IT ONLY AS ONE OPTIONAL HISTORIOGRAPHIC CRITICISM AFTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Radical Orthodoxy and the genealogy of univocity",
+            "Fictionalism and religious make-believe",
+            "Specialist metaphor debates",
+            "Pluralism bridge"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Radical Orthodoxy and the genealogy of univocity Some Radical Orthodoxy readings connect Scotist univocity to later secular metaphysics.",
+            "This is a contested historical thesis, not the Core meaning of Scotus's semantic univocity.",
+            "Use it only as one optional historiographic criticism after accurately stating intrinsic finite/infinite modes.",
+            "Fictionalism and religious make-believe Religious fictionalism treats theological narratives as practically or imaginatively useful without belief in their"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "literal truth.",
+            "It differs from Braithwaite's moral-conative account, Hare's blik , error theory and ordinary symbolic realism.",
+            "It is enrichment rather than a required answer to the official clause.",
+            "Specialist metaphor debates Metaphor theories ask whether religious predicates create redescriptions rather than track an ordered metaphysical similarity."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

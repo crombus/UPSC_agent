@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-08",
+      "display_title": "Cyber Security, CII and Cybercrime",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "CIA impact map",
+          "structural_type": "triad",
+          "ascii_lines": [
+            "CONFIDENTIALITY -> unauthorised disclosure",
+            "INTEGRITY -> unauthorised alteration / trust loss",
+            "AVAILABILITY -> disruption / denial of service",
+            "RULE -> identify the property before the remedy"
+          ],
+          "source_references": [
+            "CIA security triad",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cyber-risk chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "THREAT ACTOR / EVENT",
+            "-> EXPLOITS VULNERABILITY",
+            "-> OPERATIONAL / SOCIAL CONSEQUENCE",
+            "CAPABILITY -> prevent / contain / recover / learn"
+          ],
+          "source_references": [
+            "Risk-chain grammar",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Incident-crime-operation matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INCIDENT -> CERT-In / entity -> contain and recover",
+            "CRIME -> police / I4C support -> investigate and prosecute",
+            "WARFARE -> state-linked strategic activity -> graded attribution",
+            "TERRORISM -> Section 66F conduct + intent"
+          ],
+          "source_references": [
+            "Cyber-incident chain",
+            "Cybercrime chain",
+            "Cyber-warfare boundary",
+            "Cyber-terrorism law",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Attribution confidence ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "TECHNICAL INDICATOR",
+            "-> OPERATIONAL PATTERN / INFRASTRUCTURE CONTROL",
+            "-> LEGAL EVIDENCE",
+            "-> POLITICAL ATTRIBUTION",
+            "RULE -> false flags and compromised systems require qualification"
+          ],
+          "source_references": [
+            "Attribution discipline",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "IT Act CII ladder",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SECTION 70 -> CII / PROTECTED SYSTEM",
+            "SECTION 70A -> NCIIPC / CII PROTECTION",
+            "SECTION 70B -> CERT-In / INCIDENT RESPONSE",
+            "TRAP -> designation and incident handling are not the same function"
+          ],
+          "source_references": [
+            "CII definition",
+            "Protected-system boundary",
+            "NCIIPC mandate",
+            "CERT-In mandate",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cybercrime governance chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CITIZEN / ENTITY REPORT",
+            "-> POLICE REGISTRATION / INVESTIGATION",
+            "-> I4C COORDINATION / CAPACITY SUPPORT",
+            "-> ELECTRONIC EVIDENCE -> PROSECUTION / ADJUDICATION"
+          ],
+          "source_references": [
+            "Cybercrime chain",
+            "I4C mandate boundary",
+            "Evidence-status firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sectoral-resilience system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "CII OWNER -> asset inventory / continuity / controls",
+            "SECTOR REGULATOR / CERT -> domain standards / response",
+            "NCIIPC -> CII coordination",
+            "CERT-In -> national incident coordination",
+            "RULE -> accountability stays distributed but interoperable"
+          ],
+          "source_references": [
+            "Sectoral-regulator layer",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "CERT-In reporting boundary",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "28 APR 2022 -> DIRECTIONS",
+            "NOTICE OF SPECIFIED INCIDENT",
+            "-> REPORT WITHIN SIX HOURS",
+            "-> CONTAIN / COORDINATE / RECOVER",
+            "NOT PROVED -> crime, culprit or foreign attribution"
+          ],
+          "source_references": [
+            "CERT-In directions",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cyber-law powers firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SECTION 69 -> intercept / monitor / decrypt",
+            "SECTION 69A -> block public access",
+            "SECTION 69B -> monitor / collect traffic data",
+            "SECTION 66A -> STRUCK DOWN IN 2015",
+            "RULE -> purpose + procedure + proportionality"
+          ],
+          "source_references": [
+            "IT Act powers map",
+            "Section 66A status",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "CyberDome model",
+          "structural_type": "hub-and-spoke",
+          "ascii_lines": [
+            "KERALA POLICE HUB",
+            "-> SPECIALISTS / INDUSTRY / ACADEMIA",
+            "-> RESEARCH / FORENSICS / AWARENESS / CAPACITY",
+            "LIMIT -> State collaboration is not CERT-In or NCIIPC",
+            "MUST REMEMBER: Cyber security separates asset and critical-information-infrastructure..."
+          ],
+          "source_references": [
+            "CyberDome role",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-08_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "DPDP-versus-cybersecurity",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DPDP -> PERSONAL DATA / FIDUCIARY OBLIGATIONS / BOARD",
+            "IT ACT / CERT-In -> INCIDENTS / OFFENCES / RESPONSE",
+            "NCIIPC -> CII PROTECTION",
+            "13 NOV 2025 -> RULES NOTIFIED; COMMENCEMENT STAGGERED",
+            "CLOSE DISTINCTION: Cyber incident is not cybercrime, vulnerability is not exploit or..."
+          ],
+          "source_references": [
+            "DPDP boundary and phases",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-08_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "PYQ and resilience rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2019 -> CYBERDOME UTILITY + LIMIT",
+            "2021 -> CROSS-BORDER IMPACT + DEFENSIVE RESILIENCE",
+            "2022 -> ELEMENTS + CHALLENGES + STRATEGY ASSESSMENT",
+            "END -> IDENTIFY / PROTECT / DETECT / RESPOND / RECOVER / LEARN",
+            "QUALIFY -> evidence rung and attribution confidence",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name the IT Act or notified instrument,..."
+          ],
+          "source_references": [
+            "Evidence-status firewall",
+            "Resilience-first end-state",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-08\\g2\\internal-security-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-08_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-13",
+      "display_title": "Russian Revolution and USSR under Stalin",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Unfinished revolution after 1905",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DEFEAT BY JAPAN -> unrest and October Manifesto",
+            "DUMA -> promised but first two dissolved",
+            "LAND -> Stolypin reforms reach too few",
+            "RESULT -> regime survives without solving legitimacy",
+            "MUST REMEMBER: The 1905 crisis, February and October 1917 revolutions, Civil War, War",
+            "  Communism, NEP, Lenin's death and Stalin's consolidation form a process rather than one",
+            "  inevitable Bolshevik event."
+          ],
+          "source_references": [
+            "Why 1905 did not settle the crisis",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "War-to-collapse chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "OLD WEAKNESS -> autocracy, land and labour conflict",
+            "WORLD WAR -> defeat, shortage and transport failure",
+            "PETROGRAD -> riots, strikes and mutiny",
+            "2 MARCH 1917 -> Nicholas II abdicates"
+          ],
+          "source_references": [
+            "War converts weakness into collapse",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Dual-power mechanism",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PROVISIONAL GOVERNMENT -> formal state office",
+            "PETROGRAD SOVIET -> soldier and worker loyalty",
+            "WAR/LAND -> government delays decisions",
+            "RESULT -> authority exists in two incompatible centres"
+          ],
+          "source_references": [
+            "Dual power after abdication",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "February versus October",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FEBRUARY -> broad uprising and tsarist collapse",
+            "OCTOBER -> prepared Bolshevik seizure",
+            "FEBRUARY -> Nicholas abdicates",
+            "OCTOBER -> ministers arrested, party takes power"
+          ],
+          "source_references": [
+            "War converts weakness into collapse",
+            "October as organised seizure",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Provisional Government failure",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WAR CONTINUES -> popular support falls",
+            "LAND/ELECTIONS DELAYED -> rural and democratic trust falls",
+            "SHORTAGES -> economic legitimacy collapses",
+            "KORNILOV -> Bolsheviks gain organisational prestige"
+          ],
+          "source_references": [
+            "Why the Provisional Government failed",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Bolshevik consolidation toolkit",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DECREE -> land and worker measures",
+            "EXIT WAR -> Brest-Litovsk, March 1918",
+            "COERCION -> Assembly dispersed, Cheka and Red Terror",
+            "SURVIVAL -> Civil War victory then NEP"
+          ],
+          "source_references": [
+            "Decrees and constitutional closure",
+            "Brest-Litovsk and strategic retreat",
+            "Civil War and coercive consolidation",
+            "NEP and bounded market recovery",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Why the Reds won",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEADERSHIP -> Lenin and Trotsky firmer",
+            "GEOGRAPHY -> central Russian core controlled",
+            "OPPONENT -> Whites divided in aim",
+            "INTERVENTION -> Reds claim defence of Russia"
+          ],
+          "source_references": [
+            "Civil War and coercive consolidation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "NEP boundary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MARKET RETURNS -> peasant surplus and small trade",
+            "STATE RETAINS -> heavy industry, banks and transport",
+            "POLITICS -> communist monopoly continues",
+            "VERDICT -> economic retreat without political retreat"
+          ],
+          "source_references": [
+            "NEP and bounded market recovery",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Stalin's rise ladder",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GENERAL SECRETARY -> organisational network",
+            "RIVALS -> underestimate Stalin",
+            "SHIFTING ALLIANCES -> Trotsky isolated first",
+            "END -> Kamenev, Zinoviev and Bukharin removed"
+          ],
+          "source_references": [
+            "Stalin's organisational rise",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Industrialisation and collectivisation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FIVE YEAR PLANS -> heavy output rises",
+            "CONSUMPTION -> scarcity and discipline persist",
+            "COLLECTIVISATION -> grain control increases",
+            "RURAL COST -> resistance, livestock loss and famine",
+            "CLOSE DISTINCTION: February overthrew tsarism and created dual power; October transferred",
+            "  power to the Bolsheviks, while decrees, coercion and Civil War changed the revolutionary",
+            "  coalition and state."
+          ],
+          "source_references": [
+            "Five Year industrialisation",
+            "Collectivisation and famine",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Constitution and terror",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1936 CONSTITUTION -> democratic appearance",
+            "ONE PARTY -> no real electoral competition",
+            "PURGES -> Stalin becomes unchallengeable",
+            "CAPABILITY COST -> officers and officials removed",
+            "EVIDENCE LIMIT: Industrialisation and state capacity must be assessed alongside",
+            "  collectivisation, famine, purges, nationality policy and the evidentiary limits of official",
+            "  output or constitutional claims."
+          ],
+          "source_references": [
+            "Purges and constitutional facade",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Revolution-to-Stalin answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "COLLAPSE -> unresolved 1905 order plus war",
+            "SEIZURE -> dual power and organised October",
+            "CONSOLIDATION -> decree, coercion, Civil War and NEP",
+            "TRANSFORMATION -> industry, collectivisation and terror"
+          ],
+          "source_references": [
+            "War, reconstruction and Stalinist verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-13\\g2\\world-history-13_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

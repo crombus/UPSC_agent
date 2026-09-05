@@ -1,0 +1,16 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Essay\Subject-Wide-Syllabus\INDEX.md
+notes\Essay\Subject-Wide-Syllabus\master\g1\Essay_Complete-Subject-Guide_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\master\g1\Essay_Practice-Solutions_2026-09-04.pdf
+notes\Essay\Subject-Wide-Syllabus\master\g1\Essay_Practice-Workbook_2026-09-04.pdf
+tools\generate_essay_master_package.py
+tools\publish_essay_master_package.py
+upsc-ai-kit\knowledge\Essay\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Essay\README.md
+upsc-ai-kit\knowledge\Essay\subject-wide-syllabus\master\Essay_Complete-Subject-Guide-and-Solved-PYQs.md
+upsc-ai-kit\knowledge\Essay\subject-wide-syllabus\master\Essay_Subject-Wide-Practice-Solutions.md
+upsc-ai-kit\knowledge\Essay\subject-wide-syllabus\master\Essay_Subject-Wide-Practice-Workbook.md
+upsc-ai-kit\manifests\exports\essay-subject-wide-master-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\essay-subject-wide-master-2026-09-04-completion.json
+upsc-ai-kit\manifests\exports\essay-subject-wide-master-learner-v2-g1-2026-09-04-record.json

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-10",
+      "display_title": "Landslides, Avalanches and GLOF Risk",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mountain-hazard taxonomy",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "LANDSLIDE -> rock debris or earth movement",
+            "ROCKFALL -> detached rock falls / bounces / rolls",
+            "DEBRIS FLOW -> water-rich channelised mass",
+            "AVALANCHE / GLOF -> snowpack release / lake outburst flood"
+          ],
+          "source_references": [
+            "Landslide",
+            "Rockfall",
+            "Debris flow",
+            "Avalanche",
+            "GLOF",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Susceptibility-hazard-risk ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SUSCEPTIBILITY -> WHERE terrain may fail",
+            "HAZARD -> probability timing intensity",
+            "EXPOSURE + VULNERABILITY + CAPACITY",
+            "RISK -> expected harm and disruption"
+          ],
+          "source_references": [
+            "Susceptibility versus hazard",
+            "Risk",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Slope-failure mechanism",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "CONDITIONING -> geology slope weathering drainage land use",
+            "TRIGGER -> rain quake erosion cutting loading",
+            "FAILURE -> slide fall or flow",
+            "EXPOSURE -> route settlement service consequence"
+          ],
+          "source_references": [
+            "Conditioning factors",
+            "Triggers",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cascade map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "EARTHQUAKE / RAIN -> LANDSLIDE",
+            "LANDSLIDE -> RIVER BLOCKAGE",
+            "BLOCKAGE OR LAKE-DAM FAILURE -> OUTBURST FLOOD",
+            "CLOUD BURST -> FLASH FLOW + DEBRIS + SLOPE FAILURE"
+          ],
+          "source_references": [
+            "Cascading risk",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Institutional owner matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GSI -> landslide maps inventory research forecast development",
+            "DGRE / DRDO -> snow and avalanche warnings",
+            "NRSC / ISRO -> Earth observation and inventories",
+            "CWC / STATE / DISTRICT -> downstream water and public action"
+          ],
+          "source_references": [
+            "GSI role",
+            "DGRE role",
+            "NRSC-ISRO role",
+            "Institutional coordination",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Glacial-lake monitoring rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 REPEAT SATELLITE SCREENING",
+            "2 LAKE DAM SLOPE ICE AND OUTFLOW CHARACTER",
+            "3 FIELD VALIDATION + DOWNSTREAM EXPOSURE",
+            "4 WARNING EVACUATION AND REVIEW"
+          ],
+          "source_references": [
+            "Glacial-lake monitoring",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Zonation-to-decision bridge",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "HIGHER SUSCEPTIBILITY / HAZARD?",
+            "AVOID OR REQUIRE SITE INVESTIGATION",
+            "CONTROL LAND USE DRAINAGE CUTTING LOADING",
+            "MAP ROUTE CLOSURE EVACUATION AND RESIDUAL RISK"
+          ],
+          "source_references": [
+            "Zoning and land use",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Slope-measure portfolio",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "WATER -> surface / subsurface drainage",
+            "GEOMETRY -> controlled excavation and toe protection",
+            "MATERIAL -> retaining protection bioengineering",
+            "LIMIT -> site-specific design maintenance residual risk"
+          ],
+          "source_references": [
+            "Slope and drainage measures",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Route and settlement resilience",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "ALIGNMENT / SITING + SPOIL / DRAINAGE CONTROL",
+            "ALTERNATIVE ACCESS + SAFE STOPPAGE / CLOSURE",
+            "ASSEMBLY AREA + EVACUATION ROUTE",
+            "HOSPITAL POWER TELECOM WATER CONTINUITY"
+          ],
+          "source_references": [
+            "Route and settlement planning",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Warning-to-action chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MONITOR -> ASSESS -> FORECAST / BULLETIN",
+            "AUTHORISE -> COMMUNICATE UNCERTAINTY",
+            "CLOSE ROUTE / EVACUATE -> SAFE DESTINATION",
+            "VERIFY RECEIPT ACTION AND FEEDBACK",
+            "MUST REMEMBER: Landslide, avalanche and GLOF risk in the Himalaya joins slope, geology,..."
+          ],
+          "source_references": [
+            "Warning and evacuation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-10_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Development-risk balance",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONNECTIVITY TOURISM HYDROPOWER LIVELIHOODS",
+            "VERSUS",
+            "SLOPE DRAINAGE GLACIAL-LAKE AND DOWNSTREAM RISK",
+            "VERDICT -> RISK-INFORMED SITING NOT BLANKET CLAIMS",
+            "CLOSE DISTINCTION: Susceptibility is not probability; trigger is not root vulnerability;..."
+          ],
+          "source_references": [
+            "Route and settlement planning",
+            "Institutional coordination",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-10_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Mountain-risk answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY PROCESS -> SEPARATE CONDITION FROM TRIGGER",
+            "DISTINGUISH SUSCEPTIBILITY HAZARD AND RISK",
+            "ASSIGN GSI DGRE NRSC CWC AND LOCAL ACTION",
+            "COMBINE ZONING DRAINAGE ROUTES WARNING EVACUATION + LIMITS",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Source event date, location, rainfall,..."
+          ],
+          "source_references": [
+            "Technology-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g2\\disaster-management-10_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-10_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

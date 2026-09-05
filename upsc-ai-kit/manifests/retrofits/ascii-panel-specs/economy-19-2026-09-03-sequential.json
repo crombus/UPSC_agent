@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 19",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-19",
+      "display_title": "Balance of Payments, Exchange Rates and Forex Reserves",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "BoP accounting spine",
+          "structural_type": "accounting-flow",
+          "ascii_lines": [
+            "RESIDENT <-> NON-RESIDENT TRANSACTIONS",
+            "CURRENT + CAPITAL + FINANCIAL ACCOUNTS",
+            "DOUBLE ENTRY + ERRORS / OMISSIONS",
+            "RESERVE-ASSET CHANGE closes recorded financing"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Current-account map",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "GOODS",
+            "SERVICES",
+            "PRIMARY INCOME",
+            "SECONDARY INCOME -> personal remittances"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Capital-financial fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "CAPITAL -> capital transfers",
+            "CAPITAL -> non-produced non-financial assets",
+            "FINANCIAL -> FDI + portfolio + loans",
+            "FINANCIAL -> derivatives + reserve assets"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "CAD financing identity",
+          "structural_type": "balance-flow",
+          "ascii_lines": [
+            "CURRENT-ACCOUNT DEFICIT",
+            "-> NET FINANCIAL INFLOWS",
+            "OR -> RESERVE USE",
+            "PLUS -> ERRORS / OMISSIONS; quality matters"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Trade-deficit offsets",
+          "structural_type": "offset-board",
+          "ascii_lines": [
+            "MERCHANDISE DEFICIT",
+            "+ NET SERVICES",
+            "+ PRIMARY INCOME",
+            "+ SECONDARY INCOME -> CURRENT ACCOUNT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Currency quote board",
+          "structural_type": "quote-map",
+          "ascii_lines": [
+            "QUOTE -> RUPEES PER US DOLLAR",
+            "NUMBER RISES -> dollar costs more",
+            "RUPEE -> DEPRECIATES",
+            "ALWAYS state quote before direction"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Rate-change vocabulary",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MARKET -> depreciation / appreciation",
+            "OFFICIAL PARITY -> devaluation / revaluation",
+            "NOMINAL -> observed currency price",
+            "REAL -> relative-price adjusted"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Managed-float rail",
+          "structural_type": "policy-flow",
+          "ascii_lines": [
+            "MARKET DEMAND + SUPPLY",
+            "-> RUPEE RATE MOVES",
+            "RBI -> may smooth excessive volatility",
+            "NO DECLARED FIXED TARGET LEVEL"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Intervention-liquidity matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "RBI SELLS DOLLARS -> rupees absorbed",
+            "RBI BUYS DOLLARS -> rupees injected",
+            "STERILISATION -> offsets liquidity effect",
+            "LIMIT -> costs + underlying pressure"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "NEER-REER ladder",
+          "structural_type": "index-ladder",
+          "ascii_lines": [
+            "BILATERAL RATE",
+            "-> TRADE-WEIGHTED NEER",
+            "-> RELATIVE-PRICE ADJUSTED REER",
+            "INTERPRET -> use RBI convention + base + weights"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "Reserve-adequacy dashboard",
+          "structural_type": "risk-dashboard",
+          "ascii_lines": [
+            "IMPORT COVER",
+            "SHORT-TERM DEBT",
+            "BROAD MONEY / FINANCING NEED",
+            "MATURITY + CURRENCY + HEDGING + STRESS"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        },
+        {
+          "title": "External-sector answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY transaction by account",
+            "STATE sign / quote / stock-flow convention",
+            "TRACE financing + intervention + liquidity",
+            "JUDGE resilience through composition, not headline"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

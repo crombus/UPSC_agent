@@ -1,0 +1,1072 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-08",
+  "subject": "Ancient-Indian-History",
+  "title": "THE RIG VEDIC AGE (EARLY VEDIC)",
+  "short_route": "RIG VEDA AS SOURCE → SAPTA-SINDHU TEXTUAL GEOGRAPHY → KIN POLITY: AUTHORITY WITHOUT → CATTLE-AGRICULTURE ECONOMY LOOP → SOCIETY: KINSHIP, DIFFERENCE AND → DEITIES, RITA, YAJNA AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g15 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-08-deep-review-2026-09-03-g15.json",
+  "ascii_spec_sha256": "f4fa7632c91ad9f510c17a506712a9ae68771ad121de56cc290ea1e3b653489f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RIG VEDA AS SOURCE AND CHRONOLOGICAL SPINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RIG VEDA AS SOURCE AND CHRONOLOGICAL SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "FAMILY BOOKS (2-7)",
+          "role": "outcome"
+        },
+        {
+          "text": "OTHER LAYERS (1, 8, 9, 10)",
+          "role": "comparison"
+        },
+        {
+          "text": "REDACTION/ORAL PRESERVATION EARLIER CORE TRENDS VARIED/LATER MATERIAL DISCIPLINED TRANSMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKING EARLY VEDIC HORIZON",
+          "role": "primary"
+        },
+        {
+          "text": "BROADLY C. 1500-1000 BCE, NOT A DATE FOR EVERY",
+          "role": "caution"
+        },
+        {
+          "text": "TEXT GIVES A POETIC-RITUAL WORLD; FREQUENCY AND SILENCE ARE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FAMILY BOOKS (2-7) → OTHER LAYERS (1, 8, 9, 10) → REDACTION/ORAL PRESERVATION earlier core",
+        "Working early Vedic horizon: broadly c. 1500-1000 BCE, not a date for every hymn.",
+        "Text gives a poetic-ritual world; frequency and silence are not census data."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "FAMILY BOOKS (2-7) → OTHER LAYERS (1, 8, 9, 10) → REDACTION/ORAL PRESERVATION earlier core trends varied/later material disciplined transmission",
+            "Working early Vedic horizon: broadly c. 1500-1000 BCE, not a date for every hymn."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Text gives a poetic-ritual world; frequency and silence are not census data.",
+            "FAMILY BOOKS (2-7) → OTHER LAYERS (1, 8, 9, 10) → REDACTION/ORAL PRESERVATION earlier core trends varied/later material disciplined transmission"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Working early Vedic horizon: broadly c. 1500-1000 BCE, not a date for every hymn.",
+            "Text gives a poetic-ritual world; frequency and silence are not census data."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Text gives a poetic-ritual world; frequency and silence are not census data.",
+      "source_references": [
+        "SESSION 1 - THE RIG VEDA: CORPUS, COMPOSITION, LAYERS",
+        "SESSION 2 - RELATIVE CHRONOLOGY",
+        "SESSION 21 - CORPUS, LAYERS AND A WORKING CHRONOLOGY",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SAPTA-SINDHU TEXTUAL GEOGRAPHY",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SAPTA-SINDHU TEXTUAL GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-WESTERN MILIEU",
+          "role": "outcome"
+        },
+        {
+          "text": "KABUL/KUBHA ---- INDUS/SINDHU ---- PUNJAB RIVERS ---- SARASVATI/DRISHADVATI ZONE",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVERS ORGANISE PRAISE, MOVEMENT, PASTURE AND CONFLICT; GEOGRAPHY IS",
+          "role": "evidence"
+        },
+        {
+          "text": "GANGA IS MARGINAL IN THIS HORIZON; LATER VEDIC EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT TURN REMEMBERED RIVERS INTO PRECISE POLITICAL BORDERS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NORTH-WESTERN MILIEU",
+        "Kabul/Kubha ---- Indus/Sindhu ---- Punjab rivers ---- Sarasvati/Drishadvati zone mountain routes trunk river pastoral/farming eastern",
+        "Rivers organise praise, movement, pasture and conflict; geography is selective.",
+        "Ganga is marginal in this horizon; later Vedic expansion shifts the centre east.",
+        "Do not turn remembered rivers into precise political borders."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WESTERN MILIEU",
+            "Kabul/Kubha ---- Indus/Sindhu ---- Punjab rivers ---- Sarasvati/Drishadvati zone mountain routes trunk river pastoral/farming eastern attention"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Rivers organise praise, movement, pasture and conflict; geography is selective.",
+            "Ganga is marginal in this horizon; later Vedic expansion shifts the centre east."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Do not turn remembered rivers into precise political borders.",
+            "NORTH-WESTERN MILIEU"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Do not turn remembered rivers into precise political borders.",
+      "source_references": [
+        "SESSION 3 - GEOGRAPHICAL SETTING",
+        "SESSION 22 - GEOGRAPHY AS A NORTH-WESTERN TEXTUAL MILIEU",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "KIN POLITY: AUTHORITY WITHOUT TERRITORIAL STATE",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KIN POLITY",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORITY WITHOUT TERRITORIAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "WAR LEADERSHIP, PROTECTION, DISTRIBUTION AND RITUAL STATUS; NOT ABSOLUTE",
+          "role": "caution"
+        },
+        {
+          "text": "SMALLER/SELECT ASSEMBLY CONTEXT",
+          "role": "institution"
+        },
+        {
+          "text": "BROADER ASSEMBLY PUROHITA",
+          "role": "institution"
+        },
+        {
+          "text": "MARTIAL ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUP LEADER",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFERING/TRIBUTE, NOT A REGULAR LAND-REVENUE BUREAUCRACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KULA → GRAMA → VIS → JANA",
+        "RAJAN: war leadership, protection, distribution and ritual status; not absolute monarch sabha: smaller/select assembly context",
+        "samiti: broader assembly purohita: adviser",
+        "senani: martial role",
+        "gramani: group leader"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KULA → GRAMA → VIS → JANA",
+            "RAJAN: war leadership, protection, distribution and ritual status; not absolute monarch sabha: smaller/select assembly context",
+            "samiti: broader assembly purohita: adviser"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "senani: martial role",
+            "gramani: group leader",
+            "bali: offering/tribute, not a regular land-revenue bureaucracy"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Power rested on kin support, cattle, gifts, assemblies and successful leadership."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Power rested on kin support, cattle, gifts, assemblies and successful leadership.",
+      "source_references": [
+        "SESSION 4 - POLITICAL ORGANISATION",
+        "SESSION 5 - ASSEMBLIES, OFFICIALS, BALI",
+        "SESSION 23 - KINSHIP, RAJAN AND ASSEMBLIES",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CATTLE-AGRICULTURE ECONOMY LOOP",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CATTLE-AGRICULTURE ECONOMY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "PASTURE + WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "CATTLE WEALTH",
+          "role": "comparison"
+        },
+        {
+          "text": "DAIRY, TRACTION, GIFTS, STATUS AND CONFLICT MIXED FARMING",
+          "role": "evidence"
+        },
+        {
+          "text": "BARLEY/YAVA + CULTIVATION + CRAFTS + EXCHANGE + HOUSEHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "PASTORAL PREDOMINANCE DOES NOT MEAN ABSENCE OF AGRICULTURE OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PASTURE + WATER → CATTLE WEALTH → dairy, traction, gifts, status and conflict mixed farming",
+        "+ cultivation + crafts + exchange + household production mobility and raiding settlement and seasonal",
+        "Pastoral predominance does not mean absence of agriculture or exchange."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PASTURE + WATER → CATTLE WEALTH → dairy, traction, gifts, status and conflict mixed farming: barley/yava",
+            "+ cultivation + crafts + exchange + household production mobility and raiding settlement and seasonal cropping"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Pastoral predominance does not mean absence of agriculture or exchange.",
+            "PASTURE + WATER → CATTLE WEALTH → dairy, traction, gifts, status and conflict mixed farming: barley/yava"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "+ cultivation + crafts + exchange + household production mobility and raiding settlement and seasonal cropping",
+            "Pastoral predominance does not mean absence of agriculture or exchange."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Pastoral predominance does not mean absence of agriculture or exchange.",
+      "source_references": [
+        "SESSION 7 - ECONOMY: CATTLE WEALTH",
+        "SESSION 8 - AGRICULTURE, WATER, CRAFTS, EXCHANGE",
+        "SESSION 24 - THE CATTLE-AGRICULTURE ECONOMY LOOP",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOCIETY: KINSHIP, DIFFERENCE AND PROJECTION LIMITS",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KINSHIP, DIFFERENCE AND PROJECTION LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "HOUSEHOLD/KIN ORDER PATRILINEAL MARRIAGE PATRON-CLIENT DASA/DASYU STATUS GROUPS TENDENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "PURUSHA SUKTA IS LATE IN THE CORPUS; LATER JATI",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD/KIN ORDER PATRILINEAL MARRIAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOUSEHOLD/KIN ORDER patrilineal marriage patron-client dasa/dasyu status groups tendency alliances gift ties varied terms priests/warriors/commoners",
+        "Purusha Sukta is late in the corpus; later jati cannot be back-projected."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HOUSEHOLD/KIN ORDER patrilineal marriage patron-client dasa/dasyu status groups tendency alliances gift ties varied terms priests/warriors/commoners",
+            "Purusha Sukta is late in the corpus; later jati cannot be back-projected."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HOUSEHOLD/KIN ORDER patrilineal marriage patron-client dasa/dasyu status groups tendency alliances gift ties varied terms priests/warriors/commoners",
+            "Purusha Sukta is late in the corpus; later jati cannot be back-projected."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HOUSEHOLD/KIN ORDER patrilineal marriage patron-client dasa/dasyu status groups tendency alliances gift ties varied terms priests/warriors/commoners",
+            "Purusha Sukta is late in the corpus; later jati cannot be back-projected."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Purusha Sukta is late in the corpus; later jati cannot be back-projected.",
+      "source_references": [
+        "SESSION 9 - SOCIETY: HOUSEHOLD, KINSHIP, FAMILY",
+        "SESSION 10 - SOCIAL DIFFERENTIATION, DASA/DASYU AND EARLY VARNA",
+        "SESSION 25 - SOCIAL DIFFERENTIATION WITHOUT LATER CASTE PROJECTION",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEITIES, RITA, YAJNA AND SOMA",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEITIES, RITA, YAJNA AND SOMA",
+          "role": "primary"
+        },
+        {
+          "text": "ORDERED TRUTH AND COSMIC-SOCIAL REGULARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAISE + OFFERING + PRIESTLY SPEECH",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECTION, CATTLE AND VICTORY",
+          "role": "evidence"
+        },
+        {
+          "text": "RELIGION LINKS ECOLOGY, WARFARE, GIFT ECONOMY AND ORDER; TEMPLES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RITA: ordered truth and cosmic-social regularity",
+        "DEITIES: Indra-war/rain",
+        "YAJNA: praise + offering + priestly speech → protection, cattle and victory",
+        "Religion links ecology, warfare, gift economy and order; temples are not central."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RITA: ordered truth and cosmic-social regularity",
+            "DEITIES: Indra-war/rain"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "YAJNA: praise + offering + priestly speech → protection, cattle and victory",
+            "Religion links ecology, warfare, gift economy and order; temples are not central."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RITA: ordered truth and cosmic-social regularity",
+            "DEITIES: Indra-war/rain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Religion links ecology, warfare, gift economy and order; temples are not central.",
+      "source_references": [
+        "SESSION 11 - RELIGION: DEITY MATRIX",
+        "SESSION 12 - RITA, YAJNA, SOMA",
+        "SESSION 13 - FUNERARY IDEAS",
+        "SESSION 26 - DEITIES, RITA, YAJNA AND SOMA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONFLICT, TECHNOLOGY AND CULTURAL INTERACTION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONFLICT, TECHNOLOGY AND CULTURAL INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "HORSE/CHARIOT + BOWS/WEAPONS + MOBILE WAR BANDS CATTLE RAIDS",
+          "role": "outcome"
+        },
+        {
+          "text": "TEXTUAL CHARIOT TERMS MATTER; ARCHAEOLOGICAL CORRELATION REMAINS INDEPENDENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTESTS + DASHARAJNA COALITION CONFLICT LEADERSHIP AND PRESTIGE CONTACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "horse/chariot + bows/weapons + mobile war bands cattle raids + route/pasture",
+        "contests + Dasharajna coalition conflict leadership and prestige contact and incorporation",
+        "Textual chariot terms matter; archaeological correlation remains independent."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "horse/chariot + bows/weapons + mobile war bands cattle raids + route/pasture",
+            "contests + Dasharajna coalition conflict leadership and prestige contact and incorporation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Textual chariot terms matter; archaeological correlation remains independent.",
+            "horse/chariot + bows/weapons + mobile war bands cattle raids + route/pasture"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "contests + Dasharajna coalition conflict leadership and prestige contact and incorporation",
+            "Textual chariot terms matter; archaeological correlation remains independent."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Textual chariot terms matter; archaeological correlation remains independent.",
+      "source_references": [
+        "SESSION 6 - WARFARE, DASHARAJNA",
+        "SESSION 14 - MATERIAL CULTURE: HORSE, CHARIOT, WEAPONS",
+        "SESSION 15 - CONFLICT, MOBILITY, INTERACTION",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EARLY TO LATER VEDIC TRANSFORMATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EARLY TO LATER VEDIC TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY VEDIC LATER VEDIC NORTH-WEST/SAPTA-SINDHU UPPER GANGA-YAMUNA AND EASTWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "CUMULATIVE TRANSFORMATION WITH REGIONAL VARIATION, NOT ABRUPT RUPTURE.",
+          "role": "caution"
+        },
+        {
+          "text": "JANAPADA, STRONGER MONARCHY AND RATNINS CATTLE-CENTRED MIXED ECONOMY PLOUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY VEDIC LATER VEDIC north-west/Sapta-Sindhu upper Ganga-Yamuna and eastward movement jana and kin leadership",
+        "janapada, stronger monarchy and ratnins cattle-centred mixed economy plough agriculture, surplus and crafts fluid",
+        "differentiation firmer varna/patriarchy and gotra deity praise and yajna royal ritual and Upanishadic questioning",
+        "VERDICT: cumulative transformation with regional variation, not abrupt rupture."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "EARLY VEDIC LATER VEDIC north-west/Sapta-Sindhu upper Ganga-Yamuna and eastward movement jana and kin leadership",
+          "differentiation firmer varna/patriarchy and gotra deity praise and yajna royal ritual and Upanishadic questioning",
+          "EARLY VEDIC LATER VEDIC north-west/Sapta-Sindhu upper Ganga-Yamuna and eastward movement jana and kin leadership"
+        ],
+        [
+          "janapada, stronger monarchy and ratnins cattle-centred mixed economy plough agriculture, surplus and crafts fluid",
+          "VERDICT: cumulative transformation with regional variation, not abrupt rupture.",
+          "janapada, stronger monarchy and ratnins cattle-centred mixed economy plough agriculture, surplus and crafts fluid"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "EARLY VEDIC LATER VEDIC north-west/Sapta-Sindhu upper Ganga-Yamuna and eastward movement jana and kin leadership",
+            "janapada, stronger monarchy and ratnins cattle-centred mixed economy plough agriculture, surplus and crafts fluid"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "differentiation firmer varna/patriarchy and gotra deity praise and yajna royal ritual and Upanishadic questioning",
+            "VERDICT: cumulative transformation with regional variation, not abrupt rupture."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EARLY VEDIC LATER VEDIC north-west/Sapta-Sindhu upper Ganga-Yamuna and eastward movement jana and kin leadership",
+            "janapada, stronger monarchy and ratnins cattle-centred mixed economy plough agriculture, surplus and crafts fluid"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: cumulative transformation with regional variation, not abrupt rupture.",
+      "answer_line": "cumulative transformation with regional variation, not abrupt rupture.",
+      "source_references": [
+        "SESSION 16 - HARAPPAN, POST-HARAPPAN AND RIGVEDIC COMPARISON",
+        "SESSION 17 - EARLY VERSUS LATER VEDIC",
+        "SESSION 18 - HISTORIOGRAPHICAL INTERPRETATIONS",
+        "SESSION 27 - EARLY-TO-LATER VEDIC CHANGE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RIG VEDIC ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RIG VEDIC ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "HYMN TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "ARCHAEOLOGY CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "20 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "KIN SYSTEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: source caution → institution/economy → hymn term → qualification",
+        "15 MARKS: geography → polity → economy → society → religion → archaeology caution",
+        "20 MARKS: corpus/layers → Sapta-Sindhu → kin system → cattle-agriculture loop",
+        "differentiation → ritual worldview → conflict/contact → transition",
+        "AVOID: nomad-only, caste-complete, state/empire or homogeneous-date claims."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: source caution → institution/economy → hymn term → qualification",
+            "15 MARKS: geography → polity → economy → society → religion → archaeology caution"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: corpus/layers → Sapta-Sindhu → kin system → cattle-agriculture loop",
+            "differentiation → ritual worldview → conflict/contact → transition"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "AVOID: nomad-only, caste-complete, state/empire or homogeneous-date claims.",
+            "CLOSE: a layered pastoral-agricultural kin society undergoing differentiation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "source caution → institution/economy → hymn term → qualification.",
+      "source_references": [
+        "SESSION 18 - HISTORIOGRAPHICAL INTERPRETATIONS AND SOURCE CRITICISM",
+        "SESSION 20 - TERMINOLOGY BANK AND RAPID DISTINCTIONS",
+        "SESSION 27 - EARLY-TO-LATER VEDIC CHANGE AND THE ANSWER SPINE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "1. TIE EACH CLAIM TO RIGVEDIC LAYER, GENRE, TERM",
+          "role": "comparison"
+        },
+        {
+          "text": "2. TREAT ARCHAEOLOGY AS A CORRELATION FOR SETTLEMENT AND",
+          "role": "evidence"
+        },
+        {
+          "text": "3. USE LATER VEDIC EVIDENCE ONLY FOR EXPLICIT COMPARISON",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CORPUS GIVES STRONG PATTERNS BUT NOT A CENSUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. Tie each claim to Rigvedic layer, genre, term cluster and oral transmission.",
+        "2. Treat archaeology as a correlation for settlement and technology, not language.",
+        "3. Use Later Vedic evidence only for explicit comparison, never backward projection.",
+        "VERDICT: The corpus gives strong patterns but not a census or exact institutional code."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. Treat archaeology as a correlation for settlement and technology, not language.",
+          "VERDICT: The corpus gives strong patterns but not a census or exact institutional code."
+        ],
+        [
+          "1. Tie each claim to Rigvedic layer, genre, term cluster and oral transmission.",
+          "3. Use Later Vedic evidence only for explicit comparison, never backward projection.",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. Tie each claim to Rigvedic layer, genre, term cluster and oral transmission."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. Treat archaeology as a correlation for settlement and technology, not language.",
+            "3. Use Later Vedic evidence only for explicit comparison, never backward projection."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: The corpus gives strong patterns but not a census or exact institutional code.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: The corpus gives strong patterns but not a census or exact institutional code.",
+      "answer_line": "The corpus gives strong patterns but not a census or exact institutional code.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. PASTORAL PREDOMINANCE IS NOT PURE PASTORALISM; RAJAN IS",
+          "role": "caution"
+        },
+        {
+          "text": "2. SABHA, SAMITI AND VIDATHA ARE NOT MODERN DEMOCRATIC",
+          "role": "caution"
+        },
+        {
+          "text": "3. PURUSHA SUKTA IS A LATER BOOK 10 ARTICULATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSLATE SANSKRIT TERMS BY CONTEXT AND STATE UNCERTAINTY.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. Pastoral predominance is not pure pastoralism; rajan is chief, not emperor.",
+        "2. Sabha, samiti and vidatha are not modern democratic parliaments.",
+        "3. Purusha Sukta is a later Book 10 articulation; ayas is not automatically iron.",
+        "VERDICT: Translate Sanskrit terms by context and state uncertainty."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CLOSE DISTINCTIONS",
+          "2. Sabha, samiti and vidatha are not modern democratic parliaments.",
+          "VERDICT: Translate Sanskrit terms by context and state uncertainty."
+        ],
+        [
+          "1. Pastoral predominance is not pure pastoralism; rajan is chief, not emperor.",
+          "3. Purusha Sukta is a later Book 10 articulation; ayas is not automatically iron.",
+          "CLOSE DISTINCTIONS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. Pastoral predominance is not pure pastoralism; rajan is chief, not emperor."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Sabha, samiti and vidatha are not modern democratic parliaments.",
+            "3. Purusha Sukta is a later Book 10 articulation; ayas is not automatically iron."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Translate Sanskrit terms by context and state uncertainty.",
+            "CLOSE DISTINCTIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Translate Sanskrit terms by context and state uncertainty.",
+      "answer_line": "Translate Sanskrit terms by context and state uncertainty.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "1. ROUTE 2023 SOCIETY/RELIGION AND 2026 WELLS, RIVERS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "2. WRITE SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "KIN POLITY",
+          "role": "primary"
+        },
+        {
+          "text": "3. END WITH GRADUAL EARLY-TO-LATER CHANGE, CONTINUITY AND REGIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY VEDIC SOCIETY WAS MIXED, STRATIFYING AND KIN-ORDERED, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANSWER SPINE",
+        "1. Route 2023 society/religion and 2026 wells, rivers and kshetra-patni.",
+        "2. Write source → geography → economy → kin polity → society → religion.",
+        "3. End with gradual Early-to-Later change, continuity and regional variation.",
+        "VERDICT: Early Vedic society was mixed, stratifying and kin-ordered, not monolithic."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ANSWER SPINE",
+            "1. Route 2023 society/religion and 2026 wells, rivers and kshetra-patni."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Write source → geography → economy → kin polity → society → religion.",
+            "3. End with gradual Early-to-Later change, continuity and regional variation."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Early Vedic society was mixed, stratifying and kin-ordered, not monolithic.",
+            "ANSWER SPINE"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Early Vedic society was mixed, stratifying and kin-ordered, not monolithic.",
+      "answer_line": "Early Vedic society was mixed, stratifying and kin-ordered, not monolithic.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\08_Rig-Vedic-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g14\\ancient-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\g15\\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL ADVANCED ORIENTATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "A1. TEXTUAL STRATIFICATION AND ORAL-FORMULAIC METHOD — [OPTIONAL ADVANCED]",
+          "role": "comparison"
+        },
+        {
+          "text": "A2. GIFT ECONOMY AND REDISTRIBUTION — [OPTIONAL ADVANCED]",
+          "role": "evidence"
+        },
+        {
+          "text": "A3. INDO-IRANIAN RELIGIOUS COMPARISON — [OPTIONAL ADVANCED]",
+          "role": "primary"
+        },
+        {
+          "text": "A4. DASA/DASYU, VARNA AND BOUNDARY-MAKING — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "A5. HOUSEHOLD, GENDER, FUNERAL AND PHILOSOPHICAL MATERIAL — [OPTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "A6. ARCHAEOLOGY, HORSE AND CHARIOT LIMITS — [OPTIONAL ADVANCED]",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Optional Advanced Orientation — [OPTIONAL ADVANCED]",
+            "A1. Textual Stratification and Oral-Formulaic Method — [OPTIONAL ADVANCED]",
+            "A2. Gift Economy and Redistribution — [OPTIONAL ADVANCED]",
+            "A3. Indo-Iranian Religious Comparison — [OPTIONAL ADVANCED]"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "A4. Dasa/Dasyu, Varna and Boundary-Making — [OPTIONAL ADVANCED]",
+            "A5. Household, Gender, Funeral and Philosophical Material — [OPTIONAL ADVANCED]",
+            "A6. Archaeology, Horse and Chariot Limits — [OPTIONAL ADVANCED]",
+            "A7. Historical Memory and Historiography — [OPTIONAL ADVANCED]"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Advanced Evidence Clinics: Applying the Limits — [OPTIONAL ADVANCED]",
+            "Optional Advanced Orientation — [OPTIONAL ADVANCED] The following material enriches the core",
+            "session but is not required for a competent Prelims or Mains answer.",
+            "Oral stability can preserve archaic language, while composition and transmission still create layers."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-35",
+  "title": "NHRC and SHRC",
+  "gate": "A",
+  "started_at": "2026-08-24T22:11:28+05:30",
+  "completed_at": "2026-08-24T22:12:41+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/15709",
+          "status_code": 404,
+          "final_url": "https://www.indiacode.nic.in/handle/123456789/15709",
+          "title": "",
+          "evidence_excerpt": "The Problem may be due to 500 Server Error/404 Page Not Found.Please contact your system administrator.",
+          "accessed_at": "2026-08-24T22:11:49+05:30"
+        },
+        {
+          "url": "https://nhrc.nic.in/acts-and-rules/protection-human-rights-act-1993",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='nhrc.nic.in', port=443): Max retries exceeded with url: /acts-and-rules/protection-human-rights-act-1993 (Caused by ConnectTimeoutError(<HTTPSConnection(host='nhrc.nic.in', port=443) at 0x1f3e1ae2110>, 'Connection to nhrc.nic.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T22:12:10+05:30"
+        },
+        {
+          "url": "https://nhrc.nic.in/about-us/composition_of_commission",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='nhrc.nic.in', port=443): Max retries exceeded with url: /about-us/composition_of_commission (Caused by ConnectTimeoutError(<HTTPSConnection(host='nhrc.nic.in', port=443) at 0x1f3e1ae3490>, 'Connection to nhrc.nic.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T22:12:31+05:30"
+        },
+        {
+          "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris",
+          "status_code": 403,
+          "final_url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris",
+          "title": "Just a moment...",
+          "evidence_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
+          "accessed_at": "2026-08-24T22:12:31+05:30"
+        },
+        {
+          "url": "https://ganhri.org/membership/",
+          "status_code": 200,
+          "final_url": "https://ganhri.org/membership/",
+          "title": "Membership - GANHRI",
+          "evidence_excerpt": "Membership - GANHRI Arabic English French Spanish i Arabic English French Spanish i Who we are About us History Paris Principles Mission and Identity NHRIs National human rights institutions UN resolutions on NHRIs Governance Structure Finances Strategy Tripartite Partnership Partners What we do Support for NHRIs Capacity Building NHRIs under threat Advocacy Human Rights Council UN bodies and mechanisms Accreditation Sub-Committee on accreditation Information for NHRIs Upcoming accreditation sessions NHRI Accreditation Database SCA reports Accreditation resources General Observations Thematic ",
+          "accessed_at": "2026-08-24T22:12:33+05:30"
+        },
+        {
+          "url": "https://api.sci.gov.in/jonew/judis/25688.pdf",
+          "status_code": 200,
+          "final_url": "https://api.sci.gov.in/jonew/judis/25688.pdf",
+          "title": "",
+          "evidence_excerpt": "ŏ\u0000\u0000%PDF-1.2 %�쏢 6 0 obj < > stream x�}W]s�F\u0012|���C,W)k�'v�&˺XN,�$:y� LB\" \u0012P\u0000P���u\u000f@I��]\\1 p竧�g��*�Q\u0005�̟���ś+�)��¨fQ�~Y���I�2�S����j�TH.���� |����\u0016�Ё\u0016�j��ja����7�e�va��#t4��8��N'�71�\u0018�&9G�pF�V�d3�Ǣ(tV��K�B�'bdxL�>�\u0000;8ȅ�EB\u001a6'��J!hc2�\u00114�d�. $吶�p����l�\"j\u000f �-����\u0012r�a�ԅ\u0018�R�\u0004\u0003�\u00036���\u000e\u0001�\u0001�\u0016\b\u0011- +� �\u000eb�\"\u0002����QUƨm�\u0013�\u0018��*����>�Y[\u0003��\\\\�76i U �a�mԩ�EҦpS\u0019H\u001a1p\"�N���N�-�2�ZQ*c=C�<��8�Y؈3\u0000�\u0007`�3zl�)�3��\u0012�8eSx~\u0006�6Ǡ��E�'z�3@d�M�ߖ\u0006G���0>^�\u0014���H\u0019�y\u0004�.�/s$<�D� �G)^ِ=��#P�\u0012�DO��ͥ\u0016�\u0005��&{�`�\u001a�\bTp�����l\u0010\u0001y�W%�hX\u0019���u���`/-,N��\u0001M��ہ��,,B�`8� ��\u0011#��L�\u00186���\u0012Pd APP�/�\"�$b����d9(��sF��%y�5I�̢�$�8П�v�? �\u000e�\u0007�Ֆ:\u0002\u001b8פ��/fiCaI�`a\u0000fm",
+          "accessed_at": "2026-08-24T22:12:34+05:30"
+        },
+        {
+          "url": "https://api.sci.gov.in/jonew/judis/43775.pdf",
+          "status_code": 200,
+          "final_url": "https://api.sci.gov.in/jonew/judis/43775.pdf",
+          "title": "",
+          "evidence_excerpt": "�V \u0000%PDF-1.4 %���� 85 0 obj << /Matrix [1 0 0 1 0 0] /Subtype /Form /Filter /FlateDecode /Length 152 /Resources << /Font << /F1 86 0 R >> /XObject << /Xi84 87 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] >> /FormType 1 /Type /XObject /BBox [0 0 595 842] >> stream x�m�� \u0002A E�|ŭ\u0005����:\u0003�\u0016�\u0016v \u0003 b� ����7�� \u0012\b���\u00139\u0016<��Ø4+{�(�0�h3����\u0019.4/\u0014S��(�(GT+�x��Q����v�M=\u001b���ݗ5- u? ���?OH�\u0005�r \bF�<�5�=��.J�v9�Pm�)b�~G/Iy.� endstream endobj 84 0 obj << /Matrix [1 0 0 1 0 0] /Subtype /Form /Filter /FlateDecode /Length 152 /Resources << /Font << /F1 86 0 R >> /XObject << /Xi83 87 0 R >> /ProcSet [/PDF /Text",
+          "accessed_at": "2026-08-24T22:12:41+05:30"
+        }
+      ],
+      "result": "India Code, NHRC, OHCHR, GANHRI and Supreme Court sources were rechecked on 24 August 2026. GANHRI's public membership listing continues to be reported with the challenged 2025 downgrade recommendation kept distinct from a completed status change."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 2,
+    "supporting_route_count": 1,
+    "total_routed_count": 3,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-24",
+    "fact": "India Code, NHRC, OHCHR, GANHRI and Supreme Court sources were rechecked on 24 August 2026. GANHRI's public membership listing continues to be reported with the challenged 2025 downgrade recommendation kept distinct from a completed status change.",
+    "caveat": "NHRC and SHRC are statutory recommendatory commissions with strong inquiry and publicity tools but no general power to convict or issue self-executing compensation orders. The one-year bar and armed-forces procedure remain current law unless Parliament changes them."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md": "2a7bf58b6b0410f8d1631067c3d9a7d21cc4f769a3363f32f65e26fedf5d38fd",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md": "143ff29db8fa88242d5bc785b189402e108a706acf8e0ddcc94b6bb8772a5e73",
+    "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md": "b738d60a9f95391b4fd7ffbbdae0f0c1fcc6a017550e4f54211015a8243bf976",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "e2d678b584899a0b44a58ca55cf2ed13845dca69b49acdd81cd4cce37b810a3c",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md": "2827e262f470d101de86386411b142328c6dce330dda456f2d72878bb554d879",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ab6c80529f3b1895a45f3be6fcfaec26a8c3f060e683b03a84cf9adf4a869a95",
+    "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md": "4f7fc0045ffc81f158a128618602ad440c65ffe6a5e0d7bf6c91ca8d8d87c1ed",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "Protection of Human Rights Act, 1993 and 2006/2019 amendments",
+    "statutory human-rights definition and enforceability filter",
+    "NHRC-SHRC composition, committees, qualifications, tenure and removal",
+    "section 12 functions, civil-court powers and investigative support",
+    "sections 18, 19 and 36 remedies, limits and reporting",
+    "Human Rights Courts, overlap, federal jurisdiction and armed forces",
+    "Paris Principles, accreditation, case law, capacity limits and reform"
+  ],
+  "topic_completeness_status": "passed",
+  "case_year_sources": [
+    {
+      "case_id": "paramjit-kaur",
+      "canonical_label": "Paramjit Kaur v. State of Punjab (1999)",
+      "decision_year": 1999,
+      "source_title": "Paramjit Kaur v. State of Punjab, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Paramjit+Kaur+State+of+Punjab+NHRC+1999"
+    },
+    {
+      "case_id": "nc-dhoundial",
+      "canonical_label": "N.C. Dhoundial v. Union of India (2003)",
+      "decision_year": 2003,
+      "source_title": "N.C. Dhoundial v. Union of India, judgment dated 4 December 2003",
+      "source_url": "https://api.sci.gov.in/jonew/judis/25688.pdf"
+    },
+    {
+      "case_id": "eevfam",
+      "canonical_label": "EEVFAM (2016)",
+      "decision_year": 2016,
+      "source_title": "Extra Judicial Execution Victim Families Association v. Union of India, judgment dated 8 July 2016",
+      "source_url": "https://api.sci.gov.in/jonew/judis/43775.pdf"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-24",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "NHRC and SHRC are statutory recommendatory commissions with strong inquiry and publicity tools but no general power to convict or issue self-executing compensation orders. The one-year bar and armed-forces procedure remain current law unless Parliament changes them."
+  },
+  "audit_date": "2026-08-28",
+  "control_date": "2026-08-28"
+}

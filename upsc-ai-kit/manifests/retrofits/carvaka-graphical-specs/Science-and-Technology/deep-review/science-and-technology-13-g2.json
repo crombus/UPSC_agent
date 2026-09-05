@@ -1,0 +1,1149 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-13",
+  "subject": "Science-and-Technology",
+  "title": "BIOTECHNOLOGY FUNDAMENTALS AND DBT MISSIONS",
+  "short_route": "BIOTECHNOLOGY INFORMATION RAIL → RECOMBINANT DNA ASSEMBLY CHAIN → PCR DISTINCTION MATRIX → BIOPROCESS SCALE RAIL → CULTURE AND POTENCY MAP → GENE THERAPY AND DIAGNOSTICS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-13-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "a8e73fa64e5130444388a21e5151341c5636ac041d7f56ffe925370aa0fc30a4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BIOTECHNOLOGY INFORMATION RAIL",
+      "structural_type": "process-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BIOTECHNOLOGY INFORMATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGICAL INPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "DNA --TRANSCRIPTION-→ RNA --TRANSLATION-→ PROTEIN",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATED PRODUCT",
+          "role": "evidence"
+        },
+        {
+          "text": "BIOTECHNOLOGY IS BROADER THAN GENETIC ENGINEERING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BIOLOGICAL INPUT → gene / cell / tissue / enzyme / organism",
+        "DNA --TRANSCRIPTION-→ RNA --TRANSLATION-→ PROTEIN",
+        "INTERVENTIONS → rDNA / PCR / culture / diagnostics / bioprocess",
+        "OUTPUT → knowledge / service / regulated product",
+        "RULE → biotechnology is broader than genetic engineering"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "BIOLOGICAL INPUT → gene / cell / tissue / enzyme / organism",
+            "DNA --TRANSCRIPTION-→ RNA --TRANSLATION-→ PROTEIN"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERVENTIONS → rDNA / PCR / culture / diagnostics / bioprocess",
+            "OUTPUT → knowledge / service / regulated product"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → biotechnology is broader than genetic engineering",
+            "BIOLOGICAL INPUT → gene / cell / tissue / enzyme / organism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → biotechnology is broader than genetic engineering.",
+      "source_references": [
+        "Biotechnology-platform boundary",
+        "Central-dogma boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RECOMBINANT DNA ASSEMBLY CHAIN",
+      "structural_type": "assembly-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RECOMBINANT DNA ASSEMBLY CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "TARGET GENE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTRICTION ENDONUCLEASE CUT",
+          "role": "comparison"
+        },
+        {
+          "text": "TI-PLASMID CARRIER",
+          "role": "evidence"
+        },
+        {
+          "text": "DNA LIGASE",
+          "role": "primary"
+        },
+        {
+          "text": "RECOMBINANT CONSTRUCT",
+          "role": "outcome"
+        },
+        {
+          "text": "HOST TRANSFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKER SELECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TARGET GENE → restriction endonuclease cut",
+        "VECTOR → plasmid / bacteriophage / Ti-plasmid carrier",
+        "DNA LIGASE → recombinant construct",
+        "HOST TRANSFORMATION → marker selection → expression",
+        "TRAP → vector, insert, host and product are different"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "TARGET GENE → restriction endonuclease cut",
+            "VECTOR → plasmid / bacteriophage / Ti-plasmid carrier"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DNA LIGASE → recombinant construct",
+            "HOST TRANSFORMATION → marker selection → expression"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TRAP → vector, insert, host and product are different",
+            "TARGET GENE → restriction endonuclease cut"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → vector, insert, host and product are different.",
+      "source_references": [
+        "Recombinant-DNA chain",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PCR DISTINCTION MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PCR DISTINCTION MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "PCR CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "THERMOSTABLE POLYMERASE",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED DNA COPYING",
+          "role": "evidence"
+        },
+        {
+          "text": "REVERSE-TRANSCRIPTION PCR",
+          "role": "primary"
+        },
+        {
+          "text": "RNA FIRST CONVERTED TO CDNA",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL-TIME PCR",
+          "role": "comparison"
+        },
+        {
+          "text": "FLUORESCENCE MEASURED DURING AMPLIFICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PCR CORE → denaturation → annealing → extension",
+        "THERMOSTABLE POLYMERASE → repeated DNA copying",
+        "REVERSE-TRANSCRIPTION PCR → RNA first converted to cDNA",
+        "REAL-TIME PCR → fluorescence measured during amplification",
+        "RULE → template conversion and detection timing are separate axes"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "PCR CORE → denaturation → annealing → extension",
+          "REVERSE-TRANSCRIPTION PCR → RNA first converted to cDNA",
+          "RULE → template conversion and detection timing are separate axes"
+        ],
+        [
+          "THERMOSTABLE POLYMERASE → repeated DNA copying",
+          "REAL-TIME PCR → fluorescence measured during amplification",
+          "PCR CORE → denaturation → annealing → extension"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PCR CORE → denaturation → annealing → extension",
+            "THERMOSTABLE POLYMERASE → repeated DNA copying"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REVERSE-TRANSCRIPTION PCR → RNA first converted to cDNA",
+            "REAL-TIME PCR → fluorescence measured during amplification"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → template conversion and detection timing are separate axes",
+            "PCR CORE → denaturation → annealing → extension"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → template conversion and detection timing are separate axes.",
+      "source_references": [
+        "PCR-RT-PCR boundary",
+        "Molecular-diagnostics boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BIOPROCESS SCALE RAIL",
+      "structural_type": "scale-up-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BIOPROCESS SCALE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CELL LINE + MEDIUM",
+          "role": "outcome"
+        },
+        {
+          "text": "UPSTREAM PREPARATION",
+          "role": "comparison"
+        },
+        {
+          "text": "STERILITY CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "DOWNSTREAM RECOVERY AND PURIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "QUALITY CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "LAB SUCCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL MANUFACTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STRAIN / CELL LINE + MEDIUM → upstream preparation",
+        "BIOREACTOR → pH / temperature / oxygen / sterility control",
+        "HARVEST → downstream recovery and purification",
+        "QUALITY CONTROL → identity / purity / reproducibility",
+        "LAB SUCCESS != PILOT != COMMERCIAL MANUFACTURE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "STRAIN / CELL LINE + MEDIUM → upstream preparation",
+            "BIOREACTOR → pH / temperature / oxygen / sterility control"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HARVEST → downstream recovery and purification",
+            "QUALITY CONTROL → identity / purity / reproducibility"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "LAB SUCCESS != PILOT != COMMERCIAL MANUFACTURE",
+            "STRAIN / CELL LINE + MEDIUM → upstream preparation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALITY CONTROL → identity / purity / reproducibility.",
+      "source_references": [
+        "Fermentation-bioprocess chain",
+        "Biofoundry-scale-up boundary",
+        "Status-and-number firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CULTURE AND POTENCY MAP",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CULTURE AND POTENCY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PLANT EXPLANT",
+          "role": "outcome"
+        },
+        {
+          "text": "STERILE MEDIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "SUITABLE CELL CAN REGENERATE WHOLE PLANT",
+          "role": "evidence"
+        },
+        {
+          "text": "EMBRYONIC STEM CELL",
+          "role": "primary"
+        },
+        {
+          "text": "ADULT STEM CELL",
+          "role": "outcome"
+        },
+        {
+          "text": "USUALLY MULTIPOTENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TISSUE-RESTRICTED IPSC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLANT EXPLANT → sterile medium → callus / shoots / roots",
+        "TOTIPOTENCY → suitable cell can regenerate whole plant",
+        "EMBRYONIC STEM CELL → pluripotent",
+        "ADULT STEM CELL → usually multipotent / tissue-restricted iPSC → somatic cell reprogrammed to pluripotency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PLANT EXPLANT → sterile medium → callus / shoots / roots",
+            "TOTIPOTENCY → suitable cell can regenerate whole plant"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "EMBRYONIC STEM CELL → pluripotent",
+            "ADULT STEM CELL → usually multipotent / tissue-restricted iPSC → somatic cell reprogrammed to pluripotency"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "PLANT EXPLANT → sterile medium → callus / shoots / roots",
+            "TOTIPOTENCY → suitable cell can regenerate whole plant"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADULT STEM CELL → usually multipotent / tissue-restricted iPSC → somatic cell reprogrammed to pluripotency.",
+      "source_references": [
+        "Tissue-culture-totipotency boundary",
+        "Stem-cell-potency boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GENE THERAPY AND DIAGNOSTICS TWIN RAIL",
+      "structural_type": "dual-rail",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GENE THERAPY AND DIAGNOSTICS TWIN RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "EDIT DISEASE-RELEVANT SEQUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENGINEERED VIRAL VECTOR OR LIPID NANOPARTICLE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKER DETECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "GERMLINE; MARKER",
+          "role": "primary"
+        },
+        {
+          "text": "CLINICAL OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "MECHANISM, DELIVERY, VALIDATION AND STATUS ALL MATTER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "THERAPY → add / replace / silence / edit disease-relevant sequence",
+        "DELIVERY → engineered viral vector or lipid nanoparticle",
+        "DIAGNOSTIC → sample → extraction → marker detection → interpretation",
+        "SOMATIC != GERMLINE; MARKER != CLINICAL OUTCOME",
+        "RULE → mechanism, delivery, validation and status all matter"
+      ],
+      "matrix": [
+        [
+          "CONCEPT / ARCHITECTURE",
+          "MECHANISM / APPLICATION",
+          "READINESS / STATUS LIMIT"
+        ],
+        [
+          "THERAPY → add / replace / silence / edit disease-relevant sequence",
+          "DIAGNOSTIC → sample → extraction → marker detection → interpretation",
+          "RULE → mechanism, delivery, validation and status all matter"
+        ],
+        [
+          "DELIVERY → engineered viral vector or lipid nanoparticle",
+          "SOMATIC != GERMLINE; MARKER != CLINICAL OUTCOME",
+          "THERAPY → add / replace / silence / edit disease-relevant sequence"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "THERAPY → add / replace / silence / edit disease-relevant sequence",
+            "DELIVERY → engineered viral vector or lipid nanoparticle"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DIAGNOSTIC → sample → extraction → marker detection → interpretation",
+            "SOMATIC != GERMLINE; MARKER != CLINICAL OUTCOME"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → mechanism, delivery, validation and status all matter",
+            "THERAPY → add / replace / silence / edit disease-relevant sequence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → mechanism, delivery, validation and status all matter.",
+      "source_references": [
+        "Gene-therapy boundary",
+        "Molecular-diagnostics boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BIOTECHNOLOGY INSTITUTION ROUTER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BIOTECHNOLOGY INSTITUTION ROUTER",
+          "role": "institution"
+        },
+        {
+          "text": "MINISTRY OF S&T",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY, MISSIONS AND RESEARCH SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRY-ACADEMIA TRANSLATION AND ENTERPRISE SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMAIN-SPECIFIC RESEARCH SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "DRUGS AND VACCINES; GEAC",
+          "role": "outcome"
+        },
+        {
+          "text": "GMO ENVIRONMENTAL RELEASE",
+          "role": "comparison"
+        },
+        {
+          "text": "FUNDER, PERFORMER, INTERFACE AND REGULATOR ARE DISTINCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DBT / MINISTRY OF S&T → policy, missions and research support",
+        "BIRAC → industry-academia translation and enterprise support",
+        "ICMR / CSIR / ICAR → domain-specific research systems",
+        "CDSCO → drugs and vaccines; GEAC → GMO environmental release",
+        "RULE → funder, performer, interface and regulator are distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DBT / MINISTRY OF S&T → policy, missions and research support",
+            "BIRAC → industry-academia translation and enterprise support"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ICMR / CSIR / ICAR → domain-specific research systems",
+            "CDSCO → drugs and vaccines; GEAC → GMO environmental release"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → funder, performer, interface and regulator are distinct",
+            "DBT / MINISTRY OF S&T → policy, missions and research support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → funder, performer, interface and regulator are distinct.",
+      "source_references": [
+        "DBT-BIRAC boundary",
+        "Institutional-router boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BIOE3 SIX-SECTOR WHEEL",
+      "structural_type": "six-sector-wheel",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BIOE3 SIX-SECTOR WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "1 BIO-BASED CHEMICALS AND ENZYMES",
+          "role": "outcome"
+        },
+        {
+          "text": "2 FUNCTIONAL FOODS AND SMART PROTEINS",
+          "role": "comparison"
+        },
+        {
+          "text": "3 PRECISION BIOTHERAPEUTICS",
+          "role": "evidence"
+        },
+        {
+          "text": "4 CLIMATE-RESILIENT AGRICULTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5 CARBON CAPTURE AND ITS UTILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "6 FUTURISTIC MARINE AND SPACE RESEARCH",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1 BIO-BASED CHEMICALS AND ENZYMES",
+        "2 FUNCTIONAL FOODS AND SMART PROTEINS",
+        "3 PRECISION BIOTHERAPEUTICS",
+        "4 CLIMATE-RESILIENT AGRICULTURE",
+        "5 CARBON CAPTURE AND ITS UTILISATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "1 BIO-BASED CHEMICALS AND ENZYMES",
+            "2 FUNCTIONAL FOODS AND SMART PROTEINS"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "3 PRECISION BIOTHERAPEUTICS",
+            "4 CLIMATE-RESILIENT AGRICULTURE"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "5 CARBON CAPTURE AND ITS UTILISATION",
+            "6 FUTURISTIC MARINE AND SPACE RESEARCH"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "5 CARBON CAPTURE AND ITS UTILISATION; 6 FUTURISTIC MARINE AND SPACE RESEARCH.",
+      "source_references": [
+        "BioE3-six-sector boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BIO-RIDE AND GENOMEINDIA TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BIO-RIDE AND GENOMEINDIA TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "28 FEB 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "DBT ANNOUNCES 10,000 GENOMEINDIA SEQUENCES COMPLETE",
+          "role": "comparison"
+        },
+        {
+          "text": "24 AUG 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "CABINET APPROVES BIOE3",
+          "role": "primary"
+        },
+        {
+          "text": "19 SEP 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET APPROVES BIO-RIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "GENOME DATA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "28 FEB 2024 → DBT announces 10,000 GenomeIndia sequences complete",
+        "24 AUG 2024 → Cabinet approves BioE3",
+        "19 SEP 2024 → Cabinet approves Bio-RIDE",
+        "GENOME DATA → reference and research potential plus safeguards",
+        "APPROVAL / COMPLETION VERB → preserve exact object and status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "28 FEB 2024 → DBT announces 10,000 GenomeIndia sequences complete",
+            "24 AUG 2024 → Cabinet approves BioE3"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "19 SEP 2024 → Cabinet approves Bio-RIDE",
+            "GENOME DATA → reference and research potential plus safeguards"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "APPROVAL / COMPLETION VERB → preserve exact object and status",
+            "28 FEB 2024 → DBT announces 10,000 GenomeIndia sequences complete"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPROVAL / COMPLETION VERB → preserve exact object and status.",
+      "source_references": [
+        "Bio-RIDE boundary",
+        "GenomeIndia boundary",
+        "Status-and-number firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RESEARCH-TO-IMPACT FUNNEL",
+      "structural_type": "translation-funnel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESEARCH-TO-IMPACT FUNNEL",
+          "role": "primary"
+        },
+        {
+          "text": "PROOF OF CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSLATION AND ENTERPRISE SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRODUCIBILITY AND PROCESS OPTIMISATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADOPTION GATEWAY",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL BENEFIT",
+          "role": "outcome"
+        },
+        {
+          "text": "AFFORDABILITY, ACCESS AND FIT STILL REQUIRED",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISCOVERY → proof of concept",
+        "BIRAC / INCUBATOR → translation and enterprise support",
+        "BIOFOUNDRY / PILOT → reproducibility and process optimisation",
+        "REGULATION / QUALITY / MANUFACTURE → adoption gateway",
+        "SOCIAL BENEFIT → affordability, access and fit still required"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DISCOVERY → proof of concept",
+            "BIRAC / INCUBATOR → translation and enterprise support"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BIOFOUNDRY / PILOT → reproducibility and process optimisation",
+            "REGULATION / QUALITY / MANUFACTURE → adoption gateway"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SOCIAL BENEFIT → affordability, access and fit still required",
+            "MUST REMEMBER: Biotechnology uses genes, cells, tissues, enzymes, microbes and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Biotechnology uses genes, cells, tissues, enzymes, microbes and.",
+      "source_references": [
+        "Biofoundry-scale-up boundary",
+        "Biopharma-translation boundary",
+        "Status-and-number firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-13_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PYQ APPLICATIONS MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PYQ APPLICATIONS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "RDNA + CULTURE + BIOPROCESS + QUALITY + ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIGESTION + FERMENTATION + BIOMASS CONVERSION",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE CONCEPTS",
+          "role": "evidence"
+        },
+        {
+          "text": "AIR DNA",
+          "role": "primary"
+        },
+        {
+          "text": "CLEAN TECH",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDED CONTRIBUTION TO WIDER ENERGY TRANSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "GENETIC MEDICINE AND GENOMEINDIA; NO PROVISIONAL KEY ASSERTED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BIOPHARMA → rDNA + culture + bioprocess + quality + access",
+        "MICROBES / FUEL → digestion + fermentation + biomass conversion",
+        "OBJECTIVE CONCEPTS → barcode / biofilter / Wolbachia / air DNA",
+        "CLEAN TECH → bounded contribution to wider energy transition",
+        "2026 → genetic medicine and GenomeIndia; no provisional key asserted"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "BIOPHARMA → rDNA + culture + bioprocess + quality + access",
+          "OBJECTIVE CONCEPTS → barcode / biofilter / Wolbachia / air DNA",
+          "2026 → genetic medicine and GenomeIndia; no provisional key asserted"
+        ],
+        [
+          "MICROBES / FUEL → digestion + fermentation + biomass conversion",
+          "CLEAN TECH → bounded contribution to wider energy transition",
+          "CLOSE DISTINCTION: Biotechnology is not only genetic engineering, PCR is not sequencing,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "BIOPHARMA → rDNA + culture + bioprocess + quality + access",
+            "MICROBES / FUEL → digestion + fermentation + biomass conversion"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OBJECTIVE CONCEPTS → barcode / biofilter / Wolbachia / air DNA",
+            "CLEAN TECH → bounded contribution to wider energy transition"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "2026 → genetic medicine and GenomeIndia; no provisional key asserted",
+            "CLOSE DISTINCTION: Biotechnology is not only genetic engineering, PCR is not sequencing,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Biotechnology is not only genetic engineering, PCR is not sequencing,.",
+      "source_references": [
+        "Biopharma-translation boundary",
+        "Microbes-biofuel boundary",
+        "Objective-biotech-concepts boundary",
+        "Clean-tech-contribution boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-13_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BIOTECHNOLOGY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BIOTECHNOLOGY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PLATFORM AND BIOLOGICAL INFORMATION LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "MECHANISM FROM LABORATORY TO BIOPROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "RESEARCH BODIES",
+          "role": "evidence"
+        },
+        {
+          "text": "BIOSAFETY, DATA, SCALE, AFFORDABILITY AND STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "TRACE DISCOVERY, VALIDATION, SCALE-UP",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE → platform and biological information level",
+        "EXPLAIN → mechanism from laboratory to bioprocess",
+        "MAP → DBT / BIRAC / research bodies / regulators",
+        "APPLY → health / agriculture / industry / environment / energy",
+        "QUALIFY → biosafety, data, scale, affordability and status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DEFINE → platform and biological information level",
+            "EXPLAIN → mechanism from laboratory to bioprocess"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "MAP → DBT / BIRAC / research bodies / regulators",
+            "APPLY → health / agriculture / industry / environment / energy"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → biosafety, data, scale, affordability and status",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace discovery, validation, scale-up,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace discovery, validation, scale-up,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace discovery, validation, scale-up,.",
+      "source_references": [
+        "Biotechnology-platform boundary",
+        "DBT-BIRAC boundary",
+        "Institutional-router boundary",
+        "Status-and-number firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-13_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENCE FUNDING VERSUS TRANSLATION FUNDING",
+          "role": "comparison"
+        },
+        {
+          "text": "PURE RESEARCH ALONE DOES NOT CREATE BIOMANUFACTURING CAPABILITY.",
+          "role": "caution"
+        },
+        {
+          "text": "PUBLIC-GOOD SCIENCE VERSUS COMMERCIAL IP",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOTECHNOLOGY POLICY MUST BALANCE OPEN SCIENTIFIC PROGRESS WITH PRODUCT",
+          "role": "primary"
+        },
+        {
+          "text": "MISSION-MODE GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTORAL PROGRESS OFTEN DEPENDS ON CHALLENGE CALLS",
+          "role": "comparison"
+        },
+        {
+          "text": "INCUBATORS AND FOCUSED TRANSLATIONAL PROGRAMMES RATHER THAN FRAGMENTED GRANTS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Science funding versus translation funding: pure research alone does not create biomanufacturing capability.",
+            "CAUTION: Public-good science versus commercial IP: biotechnology policy must balance open scientific progress with product incentives.",
+            "CAUTION: Mission-mode governance: sectoral progress often depends on challenge calls,",
+            "incubators and focused translational programmes rather than fragmented grants."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Biosafety and quality oversight: fast innovation cannot bypass safety, validation and ethical scrutiny.",
+            "CAUTION: Biotechnology matters for health security, sustainable industry, climate-friendly production and agricultural resilience.",
+            "CAUTION: Biomanufacturing can generate high-value domestic production without replicating traditional heavy-industry logic.",
+            "CAUTION: India’s comparative advantage could lie in linking scientific manpower, cost-efficient development and mission-mode public support."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Scale-up gap: many promising biological ideas fail between benchtop and pilot plant.",
+            "CAUTION: Infrastructure gap: biofoundries, test facilities and GMP-quality manufacturing are expensive and specialised.",
+            "CAUTION: Regulatory uncertainty: product categories spanning food, agriculture, health and environment can face multiple regulators.",
+            "CAUTION: Financing gap: long gestation and technical failure risk can deter private capital."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

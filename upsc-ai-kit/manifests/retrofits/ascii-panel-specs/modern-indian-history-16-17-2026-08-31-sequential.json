@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 16-17",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-16",
+      "display_title": "Revolutionary Nationalism (Phase I, 1907-1917)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\16_Revolutionary-Nationalism-Phase-I-1907-1917_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Layered chronology from precursor to political transition",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1897 CHAPEKAR -> armed precursor in Poona",
+            "1904-09 CELLS -> Abhinav Bharat, Bengal networks, London and Nasik",
+            "1912-13 EXPANSION -> Hardinge conspiracy and Pacific-coast Ghadar",
+            "1914-15 WAR -> return plan, Berlin-Kabul links and Singapore context",
+            "1915 REPRESSION -> Defence of India Act, Lahore trials and Balasore",
+            "1916-17 SHIFT -> Home Rule, Lucknow and open Gandhian satyagraha."
+          ],
+          "source_references": [
+            "Boundary, chronology and theatre map",
+            "Repression, law and network attrition"
+          ]
+        },
+        {
+          "title": "Transnational revolutionary network",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "BENGAL -> Anushilan, Dacca Anushilan, Barindra and Jugantar",
+            "MAHARASHTRA -> Mitra Mela, Abhinav Bharat and Nasik",
+            "DELHI -> Rash Behari Bose, Sachin Sanyal and Hardinge attack",
+            "LONDON / PARIS -> India House, Indian Sociologist, Cama and S.R. Rana",
+            "PACIFIC -> Free Hindustan, Swadesh Sevak, Yugantar Ashram and Ghadar",
+            "BERLIN / KABUL -> wartime assistance and provisional-government attempt."
+          ],
+          "source_references": [
+            "Boundary, chronology and theatre map",
+            "Berlin, Kabul and Singapore in the wartime network"
+          ]
+        },
+        {
+          "title": "Organisation, publication, leader and arena matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ANUSHILAN -> Bengal network; not identical to Jugantar",
+            "JUGANTAR -> network plus newspaper; context decides the meaning",
+            "INDIA HOUSE -> founded by Shyamji; Savarkar became a key organiser",
+            "GHADAR -> organisation and paper; Hindi Association was the origin",
+            "CAMA / S.R. RANA -> European propaganda, not Ghadar founders",
+            "EXAM RULE -> match actor + institution + publication + place."
+          ],
+          "source_references": [
+            "Anushilan, Dacca Anushilan and Jugantar",
+            "India House identity and London confrontation"
+          ]
+        },
+        {
+          "title": "From repression to exemplary action",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "SWADESHI DECLINE + REPRESSION -> impatience with open politics",
+            "SECRET CELL -> discipline, training, propaganda and arms",
+            "TARGETED ACTION -> break fear and dramatise colonial vulnerability",
+            "EXPECTED EFFECT -> public courage and wider rising",
+            "ACTUAL CEILING -> secrecy, weak mass organisation and fragmented command",
+            "VERDICT -> strategic choice with symbolic reach, not automatic succession."
+          ],
+          "source_references": [
+            "Swadeshi repression and the armed turn",
+            "Revolutionary theory, methods and social ceiling"
+          ]
+        },
+        {
+          "title": "Muzaffarpur action to Alipore prosecution",
+          "structural_type": "procedure-sequence",
+          "ascii_lines": [
+            "APR 1908 -> Khudiram Bose and Prafulla Chaki target Kingsford",
+            "ACTUAL RESULT -> two European women are killed; Kingsford survives",
+            "INVESTIGATION -> Maniktala garden and wider circle exposed",
+            "1908-09 ALIPORE -> conspiracy prosecution of Barindra-linked network",
+            "PUBLIC EFFECT -> martyr memory and courtroom politics",
+            "TRAP -> the attack and the case are connected, not identical."
+          ],
+          "source_references": [
+            "Muzaffarpur action and Alipore prosecution"
+          ]
+        },
+        {
+          "title": "Abhinav Bharat and the Nasik sequence",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1897 POONA -> Chapekar precursor",
+            "MITRA MELA -> Savarkar's early association",
+            "1904 ABHINAV BHARAT -> oath-bound revolutionary organisation",
+            "DEC 1909 NASIK -> Anant Kanhere kills A.M.T. Jackson",
+            "PROSECUTION -> links and arms networks investigated",
+            "TRAP -> keep Poona, organisation and Nasik as separate anchors."
+          ],
+          "source_references": [
+            "Maharashtra, Abhinav Bharat and the Nasik case"
+          ]
+        },
+        {
+          "title": "India House identity card",
+          "structural_type": "identity-card",
+          "ascii_lines": [
+            "FOUNDER -> Shyamji Krishna Varma",
+            "PLACE -> London",
+            "PUBLICATION -> Indian Sociologist",
+            "ORGANISER -> V.D. Savarkar later became central",
+            "1 JUL 1909 -> Dhingra kills Curzon-Wyllie",
+            "OUTCOME -> surveillance intensifies and the network disperses."
+          ],
+          "source_references": [
+            "India House identity and London confrontation"
+          ]
+        },
+        {
+          "title": "Ghadar print and mobilisation flow",
+          "structural_type": "process",
+          "ascii_lines": [
+            "MIGRANT GRIEVANCE -> racial exclusion and labour insecurity",
+            "EARLY PRINT -> Free Hindustan and Swadesh Sevak",
+            "MAY 1913 -> Hindi Association of the Pacific Coast",
+            "YUGANTAR ASHRAM -> headquarters and printing centre",
+            "LATE 1913 -> Urdu Ghadar first; Gurmukhi edition follows",
+            "WAR -> return to India and attempted military rising."
+          ],
+          "source_references": [
+            "Pacific migration before Ghadar",
+            "Ghadar organisation, paper and programme"
+          ]
+        },
+        {
+          "title": "Komagata Maru voyage and political effect",
+          "structural_type": "spatial-cross-section",
+          "ascii_lines": [
+            "PUNJAB / ASIA -> passengers travel toward Canada",
+            "VANCOUVER -> exclusionary immigration regime blocks landing",
+            "PACIFIC RETURN -> imperial citizenship claim is denied",
+            "BUDGE BUDGE -> coercive colonial reception after return",
+            "POLITICAL EFFECT -> diasporic anger feeds wartime mobilisation",
+            "EVIDENCE RULE -> explain exclusion; omit unsupported casualty totals."
+          ],
+          "source_references": [
+            "Komagata Maru and racial exclusion"
+          ]
+        },
+        {
+          "title": "The 1915 failure funnel",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "RETURNING ACTIVISTS -> seek support in Punjab and cantonments",
+            "PLAN -> coordinated military rising around 19 February 1915",
+            "PENETRATION -> informers reveal dates, leaders and locations",
+            "DISRUPTION -> arrests and altered plans break coordination",
+            "AFTERMATH -> Lahore conspiracy prosecutions",
+            "LIMIT -> attempted revolt never becomes a general insurrection."
+          ],
+          "source_references": [
+            "February 1915 plan and failure funnel"
+          ]
+        },
+        {
+          "title": "State repression and special-law ladder",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SURVEILLANCE -> mail, travel, associations and informers",
+            "CONSPIRACY CASES -> Alipore, Nasik and Lahore",
+            "WARTIME POWER -> Defence of India Act 1915",
+            "ARMED PURSUIT -> Bagha Jatin dies near Balasore in 1915",
+            "NETWORK EFFECT -> small cells lose leaders and communications",
+            "POLITICAL EFFECT -> repression becomes a later nationalist grievance."
+          ],
+          "source_references": [
+            "Repression, law and network attrition"
+          ]
+        },
+        {
+          "title": "Revolutionary and Gandhian strategy matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "REVOLUTIONARY AGENT -> disciplined clandestine vanguard",
+            "REVOLUTIONARY METHOD -> selective violence, arms and attempted mutiny",
+            "GANDHIAN AGENT -> open, wider and disciplined public participation",
+            "GANDHIAN METHOD -> non-violent satyagraha and constructive organisation",
+            "CONTINUITY -> courage, sacrifice and refusal of political submission",
+            "VERDICT -> symbolic bridge without a deterministic causal succession."
+          ],
+          "source_references": [
+            "Achievement, limits, Gandhian shift and PYQ route"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-17",
+      "display_title": "Growth of Communalism & the Muslim League",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\17_Growth-of-Communalism-and-Muslim-League_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Communalism definition ladder",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "RELIGION -> faith, practice and community life",
+            "STAGE 1 -> co-religionists are said to share secular interests",
+            "STAGE 2 -> interests are said to diverge from other communities",
+            "STAGE 3 -> interests are presented as hostile and irreconcilable",
+            "POLITICAL FORM -> organisation, representation and mobilisation",
+            "RULE -> communalism is not faith, reform or riot."
+          ],
+          "source_references": [
+            "Definition ladder: religion, community and communalism"
+          ]
+        },
+        {
+          "title": "Layered causation wheel",
+          "structural_type": "causal-web",
+          "ascii_lines": [
+            "COLONIAL STATE -> census, patronage and constitutional categories",
+            "MATERIAL FIELD -> uneven education, jobs and professional opportunity",
+            "ELITE ACTION -> press, associations and claims to representation",
+            "INSTITUTIONS -> electorates, weightage, safeguards and ministries",
+            "CONTINGENCY -> party choices, war, coalitions and failed negotiations",
+            "VERDICT -> interacting causes, not timeless hostility or one culprit."
+          ],
+          "source_references": [
+            "Colonial state and layered causation"
+          ]
+        },
+        {
+          "title": "Constitutional rail, 1905-47",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1905-09 -> Bengal partition, Simla, League and separate electorates",
+            "1916-19 -> Lucknow bargain and wider communal representation",
+            "1928-35 -> Nehru Report, Fourteen Points, Award and provincial autonomy",
+            "1937-40 -> elections, ministries and Lahore Resolution",
+            "1942-46 -> Cripps, Gandhi-Jinnah, Simla and Cabinet Mission",
+            "1947 -> 3 June Plan, Independence Act and Partition."
+          ],
+          "source_references": [
+            "Partition, Simla Deputation and separate electorates, 1905-09",
+            "1945-47 endgame and historiographical matrix"
+          ]
+        },
+        {
+          "title": "Muslim League life-cycle",
+          "structural_type": "process",
+          "ascii_lines": [
+            "1906 -> elite safeguards and loyalist influence within the Raj",
+            "1913 -> self-government objective",
+            "1916 -> constitutional cooperation at Lucknow",
+            "1920s -> uneven organisation and competing Muslim currents",
+            "POST-1937 -> wider mobilisation and ministry grievance narrative",
+            "1945-46 -> strong Muslim-electorate mandate; not all-Muslim unanimity."
+          ],
+          "source_references": [
+            "Muslim League life-cycle"
+          ]
+        },
+        {
+          "title": "Separate-electorate incentive loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "COMMUNITY ELECTORATE -> candidate addresses one recognised electorate",
+            "COMMUNAL CLAIM -> leader presents group-specific safeguards",
+            "STATE RECOGNITION -> recognised spokesman gains bargaining value",
+            "COMPETITION -> rival organisations intensify representative claims",
+            "NEGOTIATION -> weightage and seats become recurring demands",
+            "LOOP LIMIT -> incentives shape politics but do not predetermine Partition."
+          ],
+          "source_references": [
+            "Partition, Simla Deputation and separate electorates, 1905-09"
+          ]
+        },
+        {
+          "title": "Lucknow Pact ledger",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "GAIN -> Congress-League joint constitutional programme",
+            "GAIN -> temporary all-India political cooperation",
+            "CONCESSION -> Congress accepts separate electorates",
+            "BARGAIN -> representation safeguards and weightage",
+            "PARADOX -> unity is achieved through communal categories",
+            "VERDICT -> tactical advance with a long institutional shadow."
+          ],
+          "source_references": [
+            "Lucknow Pact: cooperation through a communal ledger"
+          ]
+        },
+        {
+          "title": "The 1920s sequence",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1920-22 -> Khilafat-Non-Cooperation joint mobilisation",
+            "BREAKDOWN -> coalition weakens; local conflict and rivalry grow",
+            "1923 -> Savarkar's Hindutva",
+            "1925 -> RSS founded",
+            "1928 -> Nehru Report",
+            "1929 -> Jinnah's Fourteen Points."
+          ],
+          "source_references": [
+            "Khilafat-Non-Cooperation unity and breakdown",
+            "The 1920s: Hindu and Muslim communal organisations"
+          ]
+        },
+        {
+          "title": "Nehru Report and Fourteen Points matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "NEHRU REPORT -> stronger common constitutional framework",
+            "NEHRU REPORT -> no continuation of separate electorates in final design",
+            "FOURTEEN POINTS -> federal safeguards and provincial autonomy",
+            "FOURTEEN POINTS -> minority representation and residuary-power concerns",
+            "SHARED FIELD -> constitutional bargaining, not yet a settled Partition plan",
+            "TRAP -> 1929 demands are not the 1940 Lahore Resolution."
+          ],
+          "source_references": [
+            "Nehru Report and Fourteen Points"
+          ]
+        },
+        {
+          "title": "Representation devices are not interchangeable",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SEPARATE ELECTORATE -> only community voters choose community candidate",
+            "RESERVED SEAT -> a seat is set aside; electorate rules may differ",
+            "WEIGHTAGE -> representation exceeds a simple population ratio",
+            "NOMINATION -> authority appoints rather than voters elect",
+            "GROUPING -> provinces enter constitutional sections or groups",
+            "EXAM RULE -> identify mechanism before judging its political effect."
+          ],
+          "source_references": [
+            "Communal Award and Government of India Act 1935"
+          ]
+        },
+        {
+          "title": "Provincial variation map",
+          "structural_type": "regional-matrix",
+          "ascii_lines": [
+            "UNITED PROVINCES -> service politics and failed coalition bargaining",
+            "PUNJAB -> landed, agrarian and Unionist coalition structures",
+            "BENGAL -> peasant, landlord, regional and communal alignments",
+            "NWFP -> strong non-League Muslim and Congress-allied politics",
+            "ALL-INDIA LEAGUE -> influence varied before post-1937 expansion",
+            "RULE -> province, class and coalition qualify every national claim."
+          ],
+          "source_references": [
+            "1937 elections and provincial variation"
+          ]
+        },
+        {
+          "title": "Decision tree from Lahore to Partition",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "23 MAR 1940 -> Lahore Resolution changes the bargaining framework",
+            "1942-45 -> Cripps, Gandhi-Jinnah and Simla leave alternatives open",
+            "1945-46 ELECTIONS -> League claim among Muslim electorates strengthens",
+            "16 MAY 1946 -> Cabinet Mission proposes union plus grouping",
+            "16 AUG 1946 -> Direct Action and violence deepen breakdown",
+            "1947 -> 3 June Plan and Independence Act implement Partition."
+          ],
+          "source_references": [
+            "Lahore Resolution, war and bargaining, 1940-45",
+            "1945-47 endgame and historiographical matrix"
+          ]
+        },
+        {
+          "title": "Historiography and answer-writing matrix",
+          "structural_type": "evidence-debate",
+          "ascii_lines": [
+            "BIPAN CHANDRA -> modern ideology, elite interest and three stages",
+            "COLONIAL-STATE LENS -> enumeration and constitutional incentives",
+            "REGIONAL / CAMBRIDGE LENS -> coalitions, patronage and provincial elites",
+            "JALAL-TYPE LENS -> bargaining strategy and contingency",
+            "REJECT -> primordial hatred, one-cause blame and homogeneous communities",
+            "VERDICT -> multi-causal growth; contingent but increasingly constrained endgame."
+          ],
+          "source_references": [
+            "1945-47 endgame and historiographical matrix"
+          ]
+        }
+      ]
+    }
+  ]
+}

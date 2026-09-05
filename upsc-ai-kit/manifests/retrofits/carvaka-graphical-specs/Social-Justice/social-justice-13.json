@@ -1,0 +1,1150 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-13",
+  "subject": "Social-Justice",
+  "title": "TRANSGENDER PERSONS AND DENOTIFIED/NOMADIC COMMUNITIES",
+  "short_route": "TWO POPULATIONS, ONE FAILURE → CERTIFICATION ROUTES → JUDGMENT AGAINST STATUTE → PROHIBITION AND ITS FORUM → UMBRELLA SCHEME STRUCTURE → TRANSGENDER DELIVERY CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-13_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-13-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "63f95d819abf5909450baf4fb404f52893fc5d1edfdd7328b83ba267b1c87935",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO POPULATIONS, ONE FAILURE MODE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO POPULATIONS, ONE FAILURE MODE",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIM A",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSGENDER PERSONS SEEK RECOGNITION OF A SELF-PERCEIVED GENDER",
+          "role": "comparison"
+        },
+        {
+          "text": "CLAIM B",
+          "role": "evidence"
+        },
+        {
+          "text": "DENOTIFIED, NOMADIC AND SEMI-NOMADIC COMMUNITIES SEEK RELEASE FROM A",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNISE IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PROHIBIT DISCRIMINATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLAIM A → transgender persons seek recognition of a self-perceived gender",
+        "CLAIM B → denotified, nomadic and semi-nomadic communities seek release from a colonial label",
+        "SHARED STRUCTURE: recognise identity → prohibit discrimination → deliver welfare",
+        "DIVERGENCE: visible but legally marginalised versus administratively invisible",
+        "TEST → livelihood integration, educational attainment, freedom from discrimination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLAIM A → transgender persons seek recognition of a self-perceived gender",
+            "CLAIM B → denotified, nomadic and semi-nomadic communities seek release from a colonial label"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SHARED STRUCTURE: recognise identity → prohibit discrimination → deliver welfare",
+            "DIVERGENCE: visible but legally marginalised versus administratively invisible"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → livelihood integration, educational attainment, freedom from discrimination",
+            "CLAIM A → transgender persons seek recognition of a self-perceived gender"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → livelihood integration, educational attainment, freedom from discrimination.",
+      "source_references": [
+        "What this owner holds and how its previous-year record is stated",
+        "Who the DNT, NT and SNT communities are and the counting caution"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CERTIFICATION ROUTES",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CERTIFICATION ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC CERTIFICATE",
+          "role": "outcome"
+        },
+        {
+          "text": "ISSUED BY THE DISTRICT MAGISTRATE ON SELF-PERCEIVED TRANSGENDER IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO MEDICAL OR SURGICAL CONDITION ATTACHES TO THIS ROUTE",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 7",
+          "role": "primary"
+        },
+        {
+          "text": "REVISED MALE OR FEMALE CERTIFICATE AFTER MEDICAL INTERVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SECOND ROUTE IS ADDITIONAL; IT IS NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "ASSERTING THAT THE ACT REQUIRES SURGERY FOR BASIC RECOGNITION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "BASIC CERTIFICATE → issued by the District Magistrate on self-perceived transgender identity",
+        "REQUIREMENT → no medical or surgical condition attaches to this route",
+        "SECTION 7 → revised male or female certificate after medical intervention",
+        "RELATION → the second route is additional; it is not a precondition for the first",
+        "TRAP → asserting that the Act requires surgery for basic recognition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "BASIC CERTIFICATE → issued by the District Magistrate on self-perceived transgender identity",
+            "REQUIREMENT → no medical or surgical condition attaches to this route"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 7 → revised male or female certificate after medical intervention",
+            "RELATION → the second route is additional; it is not a precondition for the first"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → asserting that the Act requires surgery for basic recognition",
+            "BASIC CERTIFICATE → issued by the District Magistrate on self-perceived transgender identity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → asserting that the Act requires surgery for basic recognition.",
+      "source_references": [
+        "The certificate of identity and its two distinct routes",
+        "Who is a transgender person under the 2019 Act"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "JUDGMENT AGAINST STATUTE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JUDGMENT AGAINST STATUTE",
+          "role": "primary"
+        },
+        {
+          "text": "NALSA 2014",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-IDENTIFIED GENDER UNDER ARTICLES 14, 15 AND 21; WELFARE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTION TO TREAT AS SOCIALLY AND EDUCATIONALLY BACKWARD AND",
+          "role": "evidence"
+        },
+        {
+          "text": "ACT 2019",
+          "role": "institution"
+        },
+        {
+          "text": "CERTIFICATE MECHANISM, PROHIBITIONS, OFFENCES, ADVISORY COUNCIL; RULES 2020",
+          "role": "institution"
+        },
+        {
+          "text": "JUDICIAL VERSUS LEGISLATIVE AUTHORITY; PRINCIPLE VERSUS PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORDED GAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NALSA 2014 → self-identified gender under Articles 14, 15 and 21; welfare directions",
+        "NALSA 2014 → direction to treat as socially and educationally backward and consider benefits",
+        "ACT 2019 → certificate mechanism, prohibitions, offences, advisory Council; Rules 2020",
+        "DIFFERENCE → judicial versus legislative authority; principle versus procedure",
+        "RECORDED GAP → the Act did not fully adopt the backward-class direction"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "NALSA 2014 → self-identified gender under Articles 14, 15 and 21; welfare directions",
+          "ACT 2019 → certificate mechanism, prohibitions, offences, advisory Council; Rules 2020",
+          "RECORDED GAP → the Act did not fully adopt the backward-class direction"
+        ],
+        [
+          "NALSA 2014 → direction to treat as socially and educationally backward and consider benefits",
+          "DIFFERENCE → judicial versus legislative authority; principle versus procedure",
+          "NALSA 2014 → self-identified gender under Articles 14, 15 and 21; welfare directions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NALSA 2014 → self-identified gender under Articles 14, 15 and 21; welfare directions",
+            "NALSA 2014 → direction to treat as socially and educationally backward and consider benefits"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ACT 2019 → certificate mechanism, prohibitions, offences, advisory Council; Rules 2020",
+            "DIFFERENCE → judicial versus legislative authority; principle versus procedure"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECORDED GAP → the Act did not fully adopt the backward-class direction",
+            "NALSA 2014 → self-identified gender under Articles 14, 15 and 21; welfare directions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECORDED GAP → the Act did not fully adopt the backward-class direction.",
+      "source_references": [
+        "NALSA v. Union of India and what the Court directed",
+        "How a judgment differs from the statute that followed"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PROHIBITION AND ITS FORUM",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROHIBITION AND ITS FORUM",
+          "role": "primary"
+        },
+        {
+          "text": "EDUCATION, EMPLOYMENT, HEALTHCARE, GOODS AND PUBLIC SERVICES, RESIDENCE WITH",
+          "role": "outcome"
+        },
+        {
+          "text": "SEXUAL ABUSE, DENIAL OF ACCESS TO A PUBLIC PLACE",
+          "role": "comparison"
+        },
+        {
+          "text": "ESTABLISHMENT COMPLAINT OFFICER DESIGNATED TO RECEIVE COMPLAINTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVISORY, CHAIRED BY THE UNION MINISTER, WITHOUT QUASI-JUDICIAL POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "A COMPLAINT ROUTE IS NOT AN ACCESSIBLE LOCAL ENFORCEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DOMAINS → education, employment, healthcare, goods and public services, residence with family",
+        "OFFENCES → sexual abuse, denial of access to a public place, eviction",
+        "MACHINERY → establishment complaint officer designated to receive complaints",
+        "COUNCIL → advisory, chaired by the Union Minister, without quasi-judicial powers",
+        "LIMIT → a complaint route is not an accessible local enforcement agency"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DOMAINS → education, employment, healthcare, goods and public services, residence with family",
+          "MACHINERY → establishment complaint officer designated to receive complaints",
+          "LIMIT → a complaint route is not an accessible local enforcement agency"
+        ],
+        [
+          "OFFENCES → sexual abuse, denial of access to a public place, eviction",
+          "COUNCIL → advisory, chaired by the Union Minister, without quasi-judicial powers",
+          "DOMAINS → education, employment, healthcare, goods and public services, residence with family"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DOMAINS → education, employment, healthcare, goods and public services, residence with family",
+            "OFFENCES → sexual abuse, denial of access to a public place, eviction"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MACHINERY → establishment complaint officer designated to receive complaints",
+            "COUNCIL → advisory, chaired by the Union Minister, without quasi-judicial powers"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → a complaint route is not an accessible local enforcement agency",
+            "DOMAINS → education, employment, healthcare, goods and public services, residence with family"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → a complaint route is not an accessible local enforcement agency.",
+      "source_references": [
+        "The anti-discrimination provision and the machinery behind it",
+        "The National Council for Transgender Persons and its powers"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "UMBRELLA SCHEME STRUCTURE",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UMBRELLA SCHEME STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SMILE, ADMINISTERED BY THE MINISTRY OF SOCIAL JUSTICE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "SUB-SCHEME 1",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSGENDER WELFARE",
+          "role": "evidence"
+        },
+        {
+          "text": "GARIMA GREH, SKILL DEVELOPMENT, HEALTH AND COUNSELLING",
+          "role": "primary"
+        },
+        {
+          "text": "SUB-SCHEME 2",
+          "role": "outcome"
+        },
+        {
+          "text": "BEGGING REHABILITATION, A DISTINCT TARGET GROUP UNDER THE SAME",
+          "role": "comparison"
+        },
+        {
+          "text": "SHELTER CONTENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UMBRELLA → SMILE, administered by the Ministry of Social Justice and Empowerment",
+        "SUB-SCHEME 1 → transgender welfare: Garima Greh, skill development, health and counselling",
+        "SUB-SCHEME 2 → begging rehabilitation, a distinct target group under the same umbrella",
+        "SHELTER CONTENT → accommodation, food, medical care, skill training, recreation",
+        "BOUNDARY → shelter answers safety; the skill component carries livelihood"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "UMBRELLA → SMILE, administered by the Ministry of Social Justice and Empowerment",
+            "SUB-SCHEME 1 → transgender welfare: Garima Greh, skill development, health and counselling"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SUB-SCHEME 2 → begging rehabilitation, a distinct target group under the same umbrella",
+            "SHELTER CONTENT → accommodation, food, medical care, skill training, recreation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → shelter answers safety; the skill component carries livelihood",
+            "UMBRELLA → SMILE, administered by the Ministry of Social Justice and Empowerment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → shelter answers safety; the skill component carries livelihood.",
+      "source_references": [
+        "SMILE and the two sub-schemes it actually carries",
+        "Garima Greh and the limit of a shelter"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TRANSGENDER DELIVERY CHAIN",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRANSGENDER DELIVERY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLICATION TO THE DISTRICT MAGISTRATE FOR THE BASIC CERTIFICATE",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "SENSITISATION DEFICIT PRODUCES DELAY, DISCRETIONARY REJECTION OR INVASIVE QUESTIONING",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCRIMINATION OCCURS; THE COMPLAINT OFFICER ROUTE IS FORMAL BUT",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → application to the District Magistrate for the basic certificate",
+        "STEP 2 → sensitisation deficit produces delay, discretionary rejection or invasive questioning",
+        "STEP 3 → discrimination occurs; the complaint officer route is formal but weakly accessible",
+        "STEP 4 → shelter exists in limited number and spread; smaller towns are underserved",
+        "STEP 5 → skill training exists; formal-employment linkage remains weak because stigma persists"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STEP 1 → application to the District Magistrate for the basic certificate",
+            "STEP 2 → sensitisation deficit produces delay, discretionary rejection or invasive questioning"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → discrimination occurs; the complaint officer route is formal but weakly accessible",
+            "STEP 4 → shelter exists in limited number and spread; smaller towns are underserved"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STEP 5 → skill training exists; formal-employment linkage remains weak because stigma persists",
+            "STEP 1 → application to the District Magistrate for the basic certificate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STEP 5 → skill training exists; formal-employment linkage remains weak because stigma persists.",
+      "source_references": [
+        "The certificate bottleneck at the point of application",
+        "Where the enforcement gap actually sits"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COLONIAL CLASSIFICATION LEDGER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COLONIAL CLASSIFICATION LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "CRIMINAL TRIBES ACT STIGMATISES WHOLE COMMUNITIES AS BORN CRIMINALS",
+          "role": "institution"
+        },
+        {
+          "text": "REGISTRATION, SURVEILLANCE AND RESTRICTION OF MOVEMENT ENFORCED BY THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ACT IS REPEALED AND THE STATUTORY CRIMINAL-TRIBE LABEL",
+          "role": "institution"
+        },
+        {
+          "text": "NOT DONE",
+          "role": "caution"
+        },
+        {
+          "text": "REHABILITATION WAS NOT PROVIDED AND SOCIAL STIGMA WAS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "DENOTIFIED MEANS THE LABEL WAS REPEALED, NOT THAT INNOCENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1871 → Criminal Tribes Act stigmatises whole communities as born criminals",
+        "MECHANISM → registration, surveillance and restriction of movement enforced by the state",
+        "1952 → the Act is repealed and the statutory criminal-tribe label is removed",
+        "NOT DONE → rehabilitation was not provided and social stigma was not removed",
+        "RULE → denotified means the label was repealed, not that innocence was declared"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "1871 → Criminal Tribes Act stigmatises whole communities as born criminals",
+            "MECHANISM → registration, surveillance and restriction of movement enforced by the state"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "1952 → the Act is repealed and the statutory criminal-tribe label is removed",
+            "NOT DONE → rehabilitation was not provided and social stigma was not removed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → denotified means the label was repealed, not that innocence was declared",
+            "1871 → Criminal Tribes Act stigmatises whole communities as born criminals"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → denotified means the label was repealed, not that innocence was declared.",
+      "source_references": [
+        "The Criminal Tribes Act of 1871 and what it did",
+        "Why denotified does not mean decriminalised"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GROUP DEFINITIONS AND COUNTING LIMITS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GROUP DEFINITIONS AND COUNTING LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITIES DENOTIFIED AFTER REPEAL OF THE 1871 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "COMMUNITIES WITHOUT FIXED HABITATION THAT FOLLOW SEASONAL MOVEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITIES THAT ARE PARTIALLY SETTLED",
+          "role": "evidence"
+        },
+        {
+          "text": "LIST RULE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFICATIONS AND STATE LISTS VARY; NO UNSOURCED ALL-INDIA TOTAL",
+          "role": "caution"
+        },
+        {
+          "text": "CENSUS 2011",
+          "role": "comparison"
+        },
+        {
+          "text": "4,87,803 IN THE RESIDUAL OTHER SEX CATEGORY; INCOMPLETE, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DENOTIFIED → communities denotified after repeal of the 1871 Act",
+        "NOMADIC → communities without fixed habitation that follow seasonal movement",
+        "SEMI-NOMADIC → communities that are partially settled",
+        "LIST RULE → classifications and State lists vary; no unsourced all-India total may be used",
+        "CENSUS 2011 → 4,87,803 in the residual other sex category; incomplete, not identity-perfect"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DENOTIFIED → communities denotified after repeal of the 1871 Act",
+          "SEMI-NOMADIC → communities that are partially settled",
+          "CENSUS 2011 → 4,87,803 in the residual other sex category; incomplete, not identity-perfect"
+        ],
+        [
+          "NOMADIC → communities without fixed habitation that follow seasonal movement",
+          "LIST RULE → classifications and State lists vary; no unsourced all-India total may be used",
+          "DENOTIFIED → communities denotified after repeal of the 1871 Act"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DENOTIFIED → communities denotified after repeal of the 1871 Act",
+            "NOMADIC → communities without fixed habitation that follow seasonal movement"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SEMI-NOMADIC → communities that are partially settled",
+            "LIST RULE → classifications and State lists vary; no unsourced all-India total may be used"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CENSUS 2011 → 4,87,803 in the residual other sex category; incomplete, not identity-perfect",
+            "DENOTIFIED → communities denotified after repeal of the 1871 Act"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIST RULE → classifications and State lists vary; no unsourced all-India total may be used.",
+      "source_references": [
+        "Who the DNT, NT and SNT communities are and the counting caution"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "COMMISSION RECORD",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMMISSION RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "RENKE 2008",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAMINED DENOTIFIED, NOMADIC AND SEMI-NOMADIC COMMUNITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "IDATE 2015",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL COMMISSION CHAIRED BY BHIKU RAMJI IDATE",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORICAL STIGMA AND WELFARE INVISIBILITY; WEAK ENUMERATION LIMITS TARGETING",
+          "role": "outcome"
+        },
+        {
+          "text": "A PERMANENT STATUTORY COMMISSION AND A COMPREHENSIVE CENTRAL LIST",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RECOMMENDED STATUTORY COMMISSION HAS NOT BEEN ENACTED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RENKE 2008 → examined denotified, nomadic and semi-nomadic communities",
+        "IDATE 2015 → National Commission chaired by Bhiku Ramji Idate",
+        "FINDINGS → historical stigma and welfare invisibility; weak enumeration limits targeting",
+        "RECOMMENDED → a permanent statutory commission and a comprehensive central list",
+        "STATUS → the recommended statutory commission has not been enacted"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "RENKE 2008 → examined denotified, nomadic and semi-nomadic communities",
+          "FINDINGS → historical stigma and welfare invisibility; weak enumeration limits targeting",
+          "STATUS → the recommended statutory commission has not been enacted"
+        ],
+        [
+          "IDATE 2015 → National Commission chaired by Bhiku Ramji Idate",
+          "RECOMMENDED → a permanent statutory commission and a comprehensive central list",
+          "RENKE 2008 → examined denotified, nomadic and semi-nomadic communities"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "RENKE 2008 → examined denotified, nomadic and semi-nomadic communities",
+            "IDATE 2015 → National Commission chaired by Bhiku Ramji Idate"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FINDINGS → historical stigma and welfare invisibility; weak enumeration limits targeting",
+            "RECOMMENDED → a permanent statutory commission and a comprehensive central list"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → the recommended statutory commission has not been enacted",
+            "RENKE 2008 → examined denotified, nomadic and semi-nomadic communities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → the recommended statutory commission has not been enacted.",
+      "source_references": [
+        "Renke and Idate as the named diagnostic record"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BOARD AGAINST COMMISSION",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOARD AGAINST COMMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "21 FEBRUARY 2019 UNDER THE MINISTRY OF SOCIAL JUSTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "SURVEYS, COORDINATION OF SCHEME IMPLEMENTATION, POLICY ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY RECOMMEND; CANNOT COMPEL STATE ACTION",
+          "role": "institution"
+        },
+        {
+          "text": "QUASI-JUDICIAL POWERS, INQUIRY AND BINDING DIRECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM PROPOSED",
+          "role": "outcome"
+        },
+        {
+          "text": "A PERMANENT STATUTORY COMMISSION ON THE EXISTING COMMISSION MODEL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTED → 21 February 2019 under the Ministry of Social Justice and Empowerment",
+        "FUNCTIONS → surveys, coordination of scheme implementation, policy advice",
+        "POWER → may recommend; cannot compel State action",
+        "ABSENT → quasi-judicial powers, inquiry and binding directions",
+        "REFORM PROPOSED → a permanent statutory commission on the existing commission model"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CONSTITUTED → 21 February 2019 under the Ministry of Social Justice and Empowerment",
+          "POWER → may recommend; cannot compel State action",
+          "REFORM PROPOSED → a permanent statutory commission on the existing commission model"
+        ],
+        [
+          "FUNCTIONS → surveys, coordination of scheme implementation, policy advice",
+          "ABSENT → quasi-judicial powers, inquiry and binding directions",
+          "CONSTITUTED → 21 February 2019 under the Ministry of Social Justice and Empowerment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CONSTITUTED → 21 February 2019 under the Ministry of Social Justice and Empowerment",
+            "FUNCTIONS → surveys, coordination of scheme implementation, policy advice"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "POWER → may recommend; cannot compel State action",
+            "ABSENT → quasi-judicial powers, inquiry and binding directions"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "REFORM PROPOSED → a permanent statutory commission on the existing commission model",
+            "CONSTITUTED → 21 February 2019 under the Ministry of Social Justice and Empowerment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REFORM PROPOSED → a permanent statutory commission on the existing commission model.",
+      "source_references": [
+        "The Development and Welfare Board and what it cannot do"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DEDICATED SCHEME CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEDICATED SCHEME CARD",
+          "role": "primary"
+        },
+        {
+          "text": "16 FEBRUARY 2022 AS A DEDICATED CENTRAL SCHEME",
+          "role": "outcome"
+        },
+        {
+          "text": "FREE COACHING FOR COMPETITIVE AND EDUCATIONAL ENTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "HEALTH-INSURANCE FACILITATION INCLUDING THE NATIONAL HEALTH-ASSURANCE ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNITY LIVELIHOOD INITIATIVES; AND HOUSING OR LAND SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "NOT A SUBSTITUTE FOR DOCUMENTS OR STATE-LIST RECOGNITION; COVERAGE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAUNCHED → 16 February 2022 as a dedicated central scheme",
+        "COMPONENT → free coaching for competitive and educational entry",
+        "COMPONENT → health-insurance facilitation including the national health-assurance route",
+        "COMPONENT → community livelihood initiatives; and housing or land support",
+        "BOUNDARY → not a substitute for documents or State-list recognition; coverage nascent"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "LAUNCHED → 16 February 2022 as a dedicated central scheme",
+          "COMPONENT → health-insurance facilitation including the national health-assurance route",
+          "BOUNDARY → not a substitute for documents or State-list recognition; coverage nascent"
+        ],
+        [
+          "COMPONENT → free coaching for competitive and educational entry",
+          "COMPONENT → community livelihood initiatives; and housing or land support",
+          "LAUNCHED → 16 February 2022 as a dedicated central scheme"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LAUNCHED → 16 February 2022 as a dedicated central scheme",
+            "COMPONENT → free coaching for competitive and educational entry"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMPONENT → health-insurance facilitation including the national health-assurance route",
+            "COMPONENT → community livelihood initiatives; and housing or land support"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → not a substitute for documents or State-list recognition; coverage nascent",
+            "LAUNCHED → 16 February 2022 as a dedicated central scheme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → not a substitute for documents or State-list recognition; coverage nascent.",
+      "source_references": [
+        "SEED and the components the owners actually record"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INVISIBILITY CHAIN",
+      "structural_type": "hierarchy",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INVISIBILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "NO CENTRAL LIST",
+          "role": "caution"
+        },
+        {
+          "text": "ELIGIBILITY FRAGMENTS ACROSS DIFFERING STATE LISTS OR NONE AT",
+          "role": "institution"
+        },
+        {
+          "text": "NO FIXED ADDRESS",
+          "role": "caution"
+        },
+        {
+          "text": "RATION CARD, AADHAAR SEEDING AND CASTE CERTIFICATE ARE BLOCKED",
+          "role": "primary"
+        },
+        {
+          "text": "NO DOCUMENTS",
+          "role": "caution"
+        },
+        {
+          "text": "HEALTH-ASSURANCE, FOOD-SECURITY AND INCOME-SUPPORT SCHEMES STAY OUT OF REACH",
+          "role": "comparison"
+        },
+        {
+          "text": "MIGRATION CASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NO CENTRAL LIST → eligibility fragments across differing State lists or none at all",
+        "NO FIXED ADDRESS → ration card, Aadhaar seeding and caste certificate are blocked",
+        "NO DOCUMENTS → health-assurance, food-security and income-support schemes stay out of reach",
+        "MIGRATION CASE → a community listed in one State loses eligibility on crossing a border",
+        "OVERLAP CASE → backward-class status gained may displace scheme-specific benefits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "NO CENTRAL LIST → eligibility fragments across differing State lists or none at all",
+            "NO FIXED ADDRESS → ration card, Aadhaar seeding and caste certificate are blocked"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "NO DOCUMENTS → health-assurance, food-security and income-support schemes stay out of reach",
+            "MIGRATION CASE → a community listed in one State loses eligibility on crossing a border"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OVERLAP CASE → backward-class status gained may displace scheme-specific benefits",
+            "NO CENTRAL LIST → eligibility fragments across differing State lists or none at all"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OVERLAP CASE → backward-class status gained may displace scheme-specific benefits.",
+      "source_references": [
+        "The documentation barrier that a dedicated scheme cannot remove",
+        "The trade-offs the owners state against their own remedies"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DM DISCRETION, DELAYS - DWBDNC ADVISORY ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED GARIMA GREH REACH - SEED COVERAGE NASCENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTI-DISCRIMINATION - STATE VARIATIONS IN",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL COUNCIL FOR TRANSGENDER PERSONS (2019 ACT)",
+          "role": "institution"
+        },
+        {
+          "text": "ADVISORY BODY CHAIRED BY",
+          "role": "outcome"
+        },
+        {
+          "text": "DWBDNC (CONSTITUTED 21 FEBRUARY 2019)",
+          "role": "comparison"
+        },
+        {
+          "text": "WELFARE BOARD UNDER MOSJE; UNDERTAKES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "DM discretion, delays - DWBDNC advisory only",
+            "limited Garima Greh reach - SEED coverage nascent",
+            "anti-discrimination - state variations in",
+            "National Council for Transgender Persons (2019 Act): Advisory body chaired by"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DWBDNC (constituted 21 February 2019): Welfare Board under MoSJE; undertakes",
+            "CAUTION: Recommended reform: convert DWBDNC into a permanent statutory commission (on the",
+            "CAUTION: Recommended reform: mandate a central DNT list (similar to the Central OBC List",
+            "CAUTION: A transgender person in a tier-3 town may possess a DM certificate but still face"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: A semi-nomadic family from a community listed as DNT in one state may migrate to",
+            "CAUTION: Boundary case: a DNT community that has partially settled and obtained OBC status",
+            "CAUTION: Certificate-based transgender recognition ensures official documentation but",
+            "CAUTION: Dedicated DNT schemes (SEED) risk creating a separate welfare silo rather than"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-10",
+  "variant": "learner-v2",
+  "generation": 2,
+  "approval": false,
+  "official_syllabus_verbatim": "Existentialism (Kierkegaard, Sarte, Heidegger): Existence and Essence; Choice, Responsibility and Authentic Existence; Being-in-the-world and Temporality.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g2\\topic-10_Complete-Learning-Session_2026-08-26.md",
+  "core_sessions": [
+    {
+      "title": "Existentialism as a Family of Distinct Projects",
+      "plain": "Existentialism begins from concrete, lived and situated existence rather than treating a person as one specimen of a universal definition, but its major thinkers disagree about God, freedom, Being and the ground of authentic existence.",
+      "technical": "The existing individual is a finite, situated and self-interpreting being whose life cannot be exhausted by an abstract system or fixed essence. Kierkegaard develops a Christian critique of Hegelian mediation and asks how a self exists before God; Heidegger undertakes fundamental ontology through an analytic of Dasein and resists Sartrean humanism; Sartre develops an atheistic ontology of consciousness, nothingness and situated freedom. Individuality, choice, anxiety, responsibility, finitude and authenticity recur, but their grounds differ. Existentialism is therefore neither pessimism, nihilism, subjective whim, arbitrary subjectivism nor motivational self-help.",
+      "answer": "Existentialism is best treated as a family of projects united by the priority of lived, situated existence but divided over whether the self is grounded before God, disclosed through Being, or made through atheistic freedom.",
+      "keywords": [
+        "existing individual",
+        "lived and situated existence",
+        "self-interpretation",
+        "finitude",
+        "family resemblance",
+        "fundamental ontology",
+        "atheistic freedom"
+      ],
+      "usage": "Open with the existing individual and lived and situated existence, then distinguish Kierkegaard's religious project, Heidegger's fundamental ontology and Sartre's atheistic freedom before using a slogan or example.",
+      "mechanism": "Abstract system or fixed nature -> loss of the concrete individual -> return to lived existence -> three distinct projects of faith, ontology and freedom.",
+      "consequence": "The common vocabulary becomes exam-safe only when each term is attributed to the thinker whose project gives it a specific meaning.",
+      "trap": "Do not say every existentialist teaches that life is meaningless or that Sartre's existence-precedes-essence formula is the unchanged creed of all three.",
+      "objection": "The family label may be so broad that it hides more disagreement than agreement.",
+      "reply": "The label remains useful if it names a recurring problem-field rather than one doctrine: how a finite individual owns an existence not settled by detached abstraction.",
+      "limit": "The family account must not erase Heidegger's rejection of humanistic existentialism or Kierkegaard's theistic commitment.",
+      "exam": "Use shared orientation -> three projects -> exact attribution -> common distortions -> qualified family-resemblance verdict.",
+      "revision": [
+        "Existence is lived, situated and self-interpreting.",
+        "Kierkegaard: religious inward commitment and the self before God.",
+        "Heidegger: fundamental ontology of finite being-in-the-world.",
+        "Sartre: atheistic freedom, nothingness, responsibility and bad faith."
+      ],
+      "visuals": [
+        {
+          "title": "Existentialist family map",
+          "caption": "The common problem branches into three non-identical philosophical projects.",
+          "lines": [
+            "COMMON PROBLEM: abstract systems lose the concrete, finite existing individual",
+            "                         |",
+            "       +-----------------+-----------------+",
+            "       v                 v                 v",
+            "KIERKEGAARD          HEIDEGGER          SARTRE",
+            "self before God       question of Being   atheistic freedom",
+            "faith / inwardness     Dasein / finitude   nothingness / choice",
+            "NOT ONE DOCTRINE: shared problem-field, different grounds and conclusions"
+          ]
+        },
+        {
+          "title": "What existentialism is not",
+          "caption": "The recurring exam errors confuse a philosophical analysis with a mood or slogan.",
+          "lines": [
+            "PESSIMISM -> expects bad outcomes; existentialism asks how existence is owned",
+            "NIHILISM -> denies value; existentialists analyse how commitment or value arises",
+            "WHIM -> unreasoned preference; choice remains situated and responsibility-laden",
+            "SELF-HELP -> encouragement; existentialism is ontology, ethics and religious thought"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kierkegaard: Existing Individual, Subjective Truth, Anxiety, Despair and Faith",
+      "plain": "Kierkegaard objects that a complete philosophical system may describe history while missing the person who must actually choose, commit, suffer and become a self. Kierkegaard treats anxiety as the dizziness produced by possibility and despair as a failure in the self's relation to itself and to the power that grounds it.",
+      "technical": "The existing individual is the particular, temporal and responsible person whom Hegelian system-building cannot absorb without remainder. 'Truth is subjectivity' concerns existential appropriation: in ethical and religious matters the mode of commitment, risk and passionate inwardness matters, not whatever a person happens to feel. The aesthetic, ethical and religious spheres are qualitative existential orientations, not a rigid chronological psychology. The aesthetic seeks immediacy and the interesting; the ethical assumes continuity, duty and responsibility; the religious places the single individual before God. Movement is a decision or leap, not a deduction from the previous sphere. Anxiety or dread differs from ordinary fear because it lacks a determinate threatening object; it is the ambiguous attraction and recoil of freedom before possibility, the 'dizziness of freedom.' Choice and commitment are therefore conditions of becoming a self. In The Sickness unto Death, despair is a misrelation in the self: not willing to be oneself, or defiantly willing to be oneself apart from the power that established the self. Faith is not an evidence-free opinion but a mode of religious existence in which the single individual relates absolutely to God. Abraham, teleological suspension and the leap clarify that structure, while also generating the ethical problem of how a private God-relation can be distinguished from fanaticism.",
+      "answer": "For Kierkegaard, becoming a self requires the single individual to appropriate existential truth through responsible choice: anxiety discloses freedom, despair exposes misrelation, and faith claims to re-ground the self before God.",
+      "keywords": [
+        "existing individual",
+        "subjective truth",
+        "aesthetic, ethical and religious spheres",
+        "anxiety or dread",
+        "despair as misrelation",
+        "leap",
+        "faith",
+        "teleological suspension"
+      ],
+      "usage": "Define the existing individual and subjective truth, compare the three spheres, then use anxiety, despair, the leap and faith to explain responsible selfhood.",
+      "mechanism": "System vs individual -> existential appropriation -> qualitative spheres -> possibility and anxiety -> choice -> despair or faith -> responsible selfhood.",
+      "consequence": "Kierkegaard's religious project makes inwardness answerable to becoming a self, while leaving the public test of faith and ethical suspension contested.",
+      "trap": "Do not reduce subjective truth to relativism, the spheres to age-phases, anxiety to fear, despair to sadness or faith to an evidence-free impulse.",
+      "objection": "The leap risks irrationalism, teleological suspension threatens universal ethics, and inwardness may become inaccessible to public assessment.",
+      "reply": "Kierkegaard limits reason rather than abolishing it: reason identifies the paradox and ethical tension but cannot itself produce the existential commitment that must be lived.",
+      "limit": "This explains faith's form but leaves a serious residual problem of discriminating faith from delusion or ethically destructive private certainty.",
+      "exam": "Use individual vs System -> subjectivity qualified -> three spheres -> anxiety and despair -> leap and faith -> ethical objection -> qualified verdict.",
+      "revision": [
+        "The single individual cannot be replaced by an abstract System.",
+        "Subjective truth is existential appropriation, not arbitrary belief.",
+        "Anxiety discloses possibility; despair is a misrelation in the self.",
+        "Faith claims responsible selfhood before God but retains an ethical problem."
+      ],
+      "visuals": [
+        {
+          "title": "Kierkegaard's three orientations",
+          "caption": "The spheres differ by governing aim, form of commitment and characteristic limit.",
+          "lines": [
+            "AESTHETIC -> immediacy / pleasure / interesting -> boredom and dispersion",
+            "       | qualitative choice, not maturation",
+            "       v",
+            "ETHICAL -> duty / continuity / vocation -> guilt and universal demand",
+            "       | qualitative leap",
+            "       v",
+            "RELIGIOUS -> single individual before God -> faith, paradox, responsibility"
+          ]
+        },
+        {
+          "title": "Subjective truth without relativism",
+          "caption": "The doctrine concerns how existential truth is held, not whether facts obey feeling.",
+          "lines": [
+            "OBJECTIVE WHAT: proposition, evidence, historical or logical correctness",
+            "EXISTENTIAL HOW: appropriation, risk, commitment, inward transformation",
+            "ERROR: 'my feeling makes a false proposition true'",
+            "CLAIM: detached correctness alone cannot constitute ethical-religious existence"
+          ]
+        },
+        {
+          "title": "Possibility to selfhood",
+          "caption": "Anxiety is the hinge between freedom as possibility and responsible self-formation.",
+          "lines": [
+            "POSSIBILITY OF BEING ABLE",
+            "          | no fixed necessity settles the act",
+            "          v",
+            "ANXIETY / DREAD: dizziness of freedom",
+            "          v",
+            "CHOICE -> COMMITMENT -> BECOMING A SELF -> RESPONSIBILITY"
+          ]
+        },
+        {
+          "title": "Despair as misrelation",
+          "caption": "The two principal forms fail to relate the self truthfully to itself and its ground.",
+          "lines": [
+            "SELF = relation that relates itself to itself and to the power grounding it",
+            "        +---------------------------+---------------------------+",
+            "        v                                                       v",
+            "NOT WILLING TO BE ONESELF                         DEFIANTLY WILLING TO BE ONESELF",
+            "escape or dissolve the self                       self-grounding without dependence",
+            "        +---------------------------+---------------------------+",
+            "                                    v",
+            "                                  DESPAIR"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Heidegger: Fundamental Ontology, Being-in-the-World and Care",
+      "plain": "Heidegger is not mainly offering advice about authentic living; he is asking the prior question of what it means for beings to be, beginning with Dasein because Being is an issue for it. Care names how Dasein is thrown into a world and past, projects possibilities, and undergoes fallenness into everyday tasks and the public interpretations of the They.",
+      "technical": "Fundamental ontology investigates the meaning of Being through Dasein, the being whose own Being is an issue and which already has a pre-ontological understanding of Being. Dasein is neither a Cartesian mind nor a biological object. Being-in-the-world is a unitary structure, not a subject placed inside a container-world. Worldhood is the referential context in which entities matter. Equipment is primarily ready-to-hand in absorbed use; it becomes present-at-hand as a detached object especially through breakdown. Heidegger therefore treats theoretical subject-object representation as derivative from practical involvement. Care (Sorge) is the unified ontological structure of Dasein: ahead-of-itself in projection toward possibilities, already-in a world through thrownness or facticity, and alongside entities in concern and fallenness. Projection does not mean fantasy but understanding oneself in terms of possible ways of being. Fallenness is absorption in everyday concern and publicness. Das Man, the 'They,' names anonymous norms of what one says and does. Average everydayness and inauthenticity are normal structural modes, not simply evil, cowardice or social conformity in a moralistic sense.",
+      "answer": "Heidegger replaces the detached subject with Dasein's unitary being-in-the-world, whose equipmental involvement and threefold care disclose thrown, projected and everyday existence before theoretical representation.",
+      "keywords": [
+        "fundamental ontology",
+        "Dasein",
+        "being-in-the-world",
+        "worldhood",
+        "readiness-to-hand",
+        "presence-at-hand",
+        "care or Sorge",
+        "thrownness, projection and fallenness"
+      ],
+      "usage": "Begin with fundamental ontology and Dasein, explain the unitary world-structure and equipment distinction, then map care through thrownness, projection and fallenness.",
+      "mechanism": "Question of Being -> Dasein -> being-in-the-world -> ready-to-hand nexus -> breakdown -> present-at-hand -> care as thrown projection and everyday absorption.",
+      "consequence": "The analysis makes subject-object representation derivative and defines human possibility as genuinely open yet always situated.",
+      "trap": "Do not render being-in-the-world as containment, care as worry, projection as omnipotence, or fallenness and the They as simple moral evil.",
+      "objection": "The account can make social structures look anonymous and formal, obscuring institutions, power, embodiment and material constraints.",
+      "reply": "Das Man diagnoses a mode of intelligibility rather than a complete sociology; Heidegger's question concerns how possibilities are ordinarily interpreted before explicit choice.",
+      "limit": "The ontological defence explains the level of analysis but also confirms that social and political explanation remains incomplete.",
+      "exam": "Use ontology -> Dasein -> unitary world -> equipment -> care formula -> the They -> social-structure objection -> ontological reply and residual limit.",
+      "revision": [
+        "Dasein is the being for whom Being is an issue.",
+        "Being-in-the-world is unitary and practically disclosed.",
+        "Ready-to-hand equipment precedes present-at-hand theory.",
+        "Care unifies thrownness, projection and fallenness."
+      ],
+      "visuals": [
+        {
+          "title": "Being-in-the-world as a unitary structure",
+          "caption": "The hyphens prevent the Cartesian decomposition into an inner subject and outer world.",
+          "lines": [
+            "NOT: SUBJECT + bridge to + EXTERNAL CONTAINER",
+            "YES: DASEIN--BEING-IN-THE-WORLD--WORLDHOOD",
+            "      practical involvement | significance | being-with | concern",
+            "SUBJECT and OBJECT emerge as derivative abstractions within this whole"
+          ]
+        },
+        {
+          "title": "Ready-to-hand and present-at-hand",
+          "caption": "Breakdown makes the equipmental nexus explicit and produces detached observation.",
+          "lines": [
+            "HAMMER-IN-USE -> nail -> board -> house -> dwelling",
+            "READY-TO-HAND: absorbed equipment within an in-order-to nexus",
+            "                         | break / absence / obstruction",
+            "                         v",
+            "PRESENT-AT-HAND: object with properties for reflective or scientific inspection"
+          ]
+        },
+        {
+          "title": "Care as a threefold unity",
+          "caption": "Thrownness, projection and fallenness are co-original moments, not chronological steps.",
+          "lines": [
+            "                         CARE (SORGE)",
+            "        +--------------------+--------------------+",
+            "        v                    v                    v",
+            "THROWNNESS / FACTICITY   PROJECTION          FALLENNESS",
+            "already-in / having-been ahead-of-itself     alongside entities",
+            "unchosen situation        possible ways to be  absorption and concern"
+          ]
+        },
+        {
+          "title": "The They without moral ranking",
+          "caption": "Public intelligibility enables everyday life but can conceal owned possibility.",
+          "lines": [
+            "BEING-WITH -> shared language, roles, practices and intelligibility",
+            "                         | average interpretation",
+            "                         v",
+            "DAS MAN: what 'one' says, does, expects",
+            "ENABLES ordinary coping AND risks dispersal into unowned possibilities",
+            "INAUTHENTIC != evil; AUTHENTIC != antisocial heroism"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Heidegger: Anxiety, the They, Being-Towards-Death and Authenticity",
+      "plain": "Anxiety interrupts the familiar meanings of the They and confronts Dasein with its finite possibility; authenticity owns this thrown existence without becoming moral superiority or social withdrawal.",
+      "technical": "Fear concerns a determinate threat, while anxiety makes the familiar world's significance recede and discloses being-in-the-world. The They and average everydayness are structural, not simply evil. Being-towards-death relates to death as ownmost, non-relational, certain and indefinite possibility; it neither recommends suicide nor reduces death to a biological event. Anticipatory resoluteness owns thrown possibilities within the shared world. Authenticity is therefore a formal existential modification, not isolation, nonconformity or a permanent heroic mood.",
+      "answer": "Heideggerian authenticity is the resolute ownership of finite, thrown possibilities disclosed through anxiety and being-towards-death, not moral superiority, social retreat or fascination with biological dying.",
+      "keywords": [
+        "the They or das Man",
+        "anxiety",
+        "being-towards-death",
+        "ownmost and non-relational",
+        "certain but indefinite",
+        "anticipatory resoluteness",
+        "authenticity",
+        "finitude"
+      ],
+      "usage": "Sequence the They, anxiety, death and resoluteness without a moral ladder, then evaluate the formal-emptiness and death-centred objections.",
+      "mechanism": "The They's familiar meanings -> anxiety -> finite ownmost possibility -> anticipation -> resoluteness -> authentic ownership within the shared world.",
+      "consequence": "Death individualises Dasein and exposes finitude, but authenticity changes how everyday possibilities are owned rather than supplying a moral code.",
+      "trap": "Do not equate inauthenticity with evil, anxiety with clinical fear, death with only a biological event, anticipation with death-seeking or authenticity with isolation.",
+      "objection": "The doctrine may be obscure, death-centred, politically decisionist and neglectful of birth, embodiment, care for others and social oppression.",
+      "reply": "Heidegger can reply that the analysis is ontological rather than an ethic, and that authenticity retrieves shared possibilities rather than prescribing solitary withdrawal.",
+      "limit": "The reply is textually strong but leaves authenticity normatively thin and the political implications of resoluteness unsettled.",
+      "exam": "Use non-moral qualification -> the They -> anxiety -> death's four marks -> resoluteness -> authenticity -> formal-emptiness objection -> qualified verdict.",
+      "revision": [
+        "The They enables everyday life while risking unowned self-interpretation.",
+        "Anxiety discloses being-in-the-world rather than a determinate threat.",
+        "Death is ownmost, non-relational, certain and indefinite.",
+        "Authenticity owns finite possibilities without social isolation."
+      ],
+      "visuals": [
+        {
+          "title": "The They without moral ranking",
+          "caption": "Public intelligibility enables everyday life but can conceal owned possibility.",
+          "lines": [
+            "BEING-WITH -> shared language, roles, practices and intelligibility",
+            "                         | average interpretation",
+            "                         v",
+            "DAS MAN: what 'one' says, does, expects",
+            "ENABLES ordinary coping AND risks dispersal into unowned possibilities",
+            "INAUTHENTIC != evil; AUTHENTIC != antisocial heroism"
+          ]
+        },
+        {
+          "title": "From the They to resoluteness",
+          "caption": "The sequence is disclosive, not a simplistic moral ascent from bad people to good people.",
+          "lines": [
+            "DAS MAN / EVERYDAY ABSORPTION",
+            "             | anxiety: familiar significance recedes",
+            "             v",
+            "BEING-TOWARDS-DEATH: ownmost | non-relational | certain | indefinite",
+            "             v",
+            "ANTICIPATORY RESOLUTENESS -> own thrown possibilities within the shared world"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Heidegger: Temporality, Finitude and the Meaning of Care",
+      "plain": "Temporality is not a line of clock moments but the finite way Dasein stands out into its future possibilities, inherited past and present involvement.",
+      "technical": "Temporality is the meaning of care. The future temporalises projection and anticipation; having-been temporalises thrownness and the past Dasein still is; the present temporalises involvement and making-present. These ecstases form one finite unity, not three containers, and the future is structurally primary because anticipation gathers thrown existence into a whole. Ordinary clock-time or the sequence of nows is derivative. Historicality follows because Dasein inherits possibilities and projects them anew.",
+      "answer": "Heidegger's temporality is the finite ecstatic unity of future, having-been and present through which care becomes intelligible, not the external clock in which Dasein happens.",
+      "keywords": [
+        "temporality",
+        "future",
+        "having-been",
+        "present",
+        "ecstatic unity",
+        "future priority",
+        "vulgar clock-time",
+        "historicality"
+      ],
+      "usage": "Map each temporal ecstasis to one limb of care, explain future priority and contrast primordial temporality with derivative clock-time.",
+      "mechanism": "Care -> future projection + having-been thrownness + present involvement -> finite ecstatic unity -> authentic historicality -> derivative public now-series.",
+      "consequence": "The analysis makes finitude and self-interpretation temporal, while leaving the projected transition from Dasein's time to the meaning of Being incomplete.",
+      "trap": "Do not treat the ecstases as chronological compartments, equate temporality with clocks, or say Dasein is authentic by definition.",
+      "objection": "The future-first analysis can be obscure, overly death-centred and incomplete because the promised Division III of Being and Time was not published.",
+      "reply": "The temporal structure explains how possibilities, inherited facts and present concern belong together rather than appearing as separate psychic contents.",
+      "limit": "The reply clarifies Dasein's unity but does not complete the larger ontology of Being.",
+      "exam": "Use care mapping -> three ecstases -> future priority -> death/authenticity link -> vulgar time -> historicality -> incompleteness objection -> verdict.",
+      "revision": [
+        "Temporality is the meaning of care.",
+        "Future, having-been and present form one ecstatic unity.",
+        "The future has structural priority through anticipation.",
+        "Clock-time is a derivative public now-series."
+      ],
+      "visuals": [
+        {
+          "title": "Care temporalised",
+          "caption": "The three ecstases are a finite unity rather than compartments on a clock line.",
+          "lines": [
+            "FUTURE: projection / ahead-of-itself / anticipation",
+            "          +-----------------------------------+",
+            "HAVING-BEEN: thrownness / already-in          PRESENT: involvement / alongside",
+            "TEMPORALITY = ecstatic unity; FUTURE has structural priority",
+            "VULGAR CLOCK-TIME = derivative sequence of nows"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sartre: Existence, In-Itself, For-Itself and Nothingness",
+      "plain": "Sartre argues that human beings are not manufactured to a prior blueprint: they first exist and then define themselves through projects.",
+      "technical": "For human beings, existence precedes essence because no divine artisan fixes a universal human nature in advance. This Sartrean claim must not be attributed unchanged to Kierkegaard or Heidegger. Being-in-itself is full, opaque and self-identical; being-for-itself is intentional consciousness, a lack or nothingness that distances itself from what is and transcends toward possibilities. Nihilation is consciousness's power to introduce absence, questioning and alternatives into being. The for-itself therefore cannot coincide completely with a fixed essence, past or role.",
+      "answer": "Sartre's existence-precedes-essence thesis depends on the for-itself's nothingness: consciousness is never a completed thing but a project that exceeds every identity it has.",
+      "keywords": [
+        "existence precedes essence",
+        "being-in-itself",
+        "being-for-itself",
+        "intentional consciousness",
+        "nothingness",
+        "nihilation",
+        "self-transcendence",
+        "project"
+      ],
+      "usage": "Derive existence precedes essence from the absent divine blueprint, then contrast being-in-itself with being-for-itself and use nothingness and nihilation to explain the human project.",
+      "mechanism": "No predetermined human design -> human first exists -> consciousness negates the given -> projects possibilities -> self is made without becoming a finished essence.",
+      "consequence": "Human identity is an ongoing achievement and cannot be reduced to a role, substance, biological description or completed past.",
+      "trap": "Do not treat in-itself/for-itself as a simple body-mind dualism or say that all existence literally precedes essence for every kind of being.",
+      "objection": "Nothingness may look mysterious, the in-itself/for-itself divide may be too stark, and the atheist premise does not by itself prove radical self-creation.",
+      "reply": "Nihilation names a phenomenological structure visible in negation, questioning, absence and the ability to take distance from a present identity.",
+      "limit": "The reply explains consciousness's openness but does not establish that social and bodily conditions never shape which possibilities can be lived.",
+      "exam": "Use artefact contrast -> Sartrean scope -> in-itself/for-itself -> nothingness -> freedom implication -> objections about dualism and condition.",
+      "revision": [
+        "The slogan is Sartre's and applies specifically to human reality.",
+        "In-itself is self-identical being; for-itself is intentional and non-coincident.",
+        "Nothingness is consciousness's distancing and negating structure.",
+        "A project is open-ended self-definition, not magical creation from nothing."
+      ],
+      "visuals": [
+        {
+          "title": "In-itself and for-itself",
+          "caption": "The contrast grounds Sartre's account of consciousness, freedom and unstable identity.",
+          "lines": [
+            "BEING-IN-ITSELF                      BEING-FOR-ITSELF",
+            "full / opaque / self-identical       intentional / lack / non-coincident",
+            "'is what it is'                      'is what it is not; is not what it is'",
+            "no projection                         nihilation -> possibilities -> project"
+          ]
+        },
+        {
+          "title": "Existence and essence in Sartre",
+          "caption": "The artefact model is reversed only for a human reality lacking a prior divine design.",
+          "lines": [
+            "ARTEFACT: design / essence -> manufacture -> existence",
+            "HUMAN: existence -> choices and projects -> provisional self-definition",
+            "NO DIVINE ARTISAN -> no fixed human blueprint before living",
+            "QUALIFICATION -> not Kierkegaard's formula; not Heidegger's ontological claim"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sartre: Facticity, Transcendence, Freedom, Choice and Responsibility",
+      "plain": "Freedom is always exercised from a body, past and situation, so Sartre's claim is not that a person can alter every external condition by wishing.",
+      "technical": "Facticity is the given dimension of human reality: body, past, place, social situation and what has happened. Transcendence is the for-itself's surpassing of the given through projects and meanings. Freedom is situated: circumstances constrain available action without determining the meaning or project through which they are taken up. Because choice is inescapable, refusal or conformity can itself be a choice. Responsibility is for one's projects and meanings, not blame for every event suffered. Anguish is the recognition that no fixed nature guarantees one's choice; abandonment or forlornness is the absence of a divine value-giver; despair is disciplined reliance on what one's action can address rather than a prediction that all efforts fail.",
+      "answer": "Sartrean freedom is radical because no fact interprets itself, yet situated because every project begins from facticity; responsibility concerns the meaning and direction one gives a life, not culpability for every injury imposed upon it.",
+      "keywords": [
+        "facticity",
+        "transcendence",
+        "situated freedom",
+        "choice",
+        "responsibility",
+        "anguish",
+        "abandonment or forlornness",
+        "meaning-conferral"
+      ],
+      "usage": "Always pair freedom with facticity, distinguish power from freedom and blame from responsibility, and explain why anguish follows from choice.",
+      "mechanism": "Factical situation -> interpretation and projected end -> choice -> responsibility for the project -> anguish because no essence guarantees it.",
+      "consequence": "The doctrine defeats excuses based on fixed nature while preserving the reality of constraint, vulnerability and unequal situations.",
+      "trap": "Do not say freedom means external omnipotence, that victims choose what is inflicted on them, or that responsibility makes a person blameworthy for every event.",
+      "objection": "Critics argue that early Sartre exaggerates choice and underestimates social, economic, psychological and embodied constraints on available possibilities.",
+      "reply": "Situated freedom and later Sartrean attention to scarcity, seriality and the practico-inert acknowledge that freedom is conditioned without being reduced to determinism.",
+      "limit": "The later development improves social realism but qualifies the rhetoric of total freedom and leaves the scope of responsibility contested.",
+      "exam": "Use facticity/transcendence -> situated freedom -> choice/non-choice -> responsibility -> three moods -> structural objection -> later qualification.",
+      "revision": [
+        "Facticity is constraint without being a complete determinant.",
+        "Transcendence is self-surpassing through projects, not unlimited power.",
+        "Anguish discloses unsupported choice; abandonment names no divine value-giver.",
+        "Responsibility for projects is not blame for all suffering."
+      ],
+      "visuals": [
+        {
+          "title": "Facticity and transcendence",
+          "caption": "Human reality exists in the unresolved tension between the given and the projected.",
+          "lines": [
+            "FACTICITY: body | past | place | class | imposed event",
+            "                         <---- situated freedom ---->",
+            "TRANSCENDENCE: interpretation | project | possible action | future",
+            "ERROR 1: facticity = destiny       ERROR 2: transcendence = omnipotence"
+          ]
+        },
+        {
+          "title": "Freedom to anguish",
+          "caption": "Responsibility follows because neither essence nor divine law decides in advance.",
+          "lines": [
+            "FREEDOM -> CHOICE -> PROJECT / MEANING -> RESPONSIBILITY",
+            "    |         |                              |",
+            "    |         +-> non-choice still positions the self",
+            "    +-> no fixed essence guarantees the act -> ANGUISH",
+            "NO DIVINE VALUE-GIVER -> ABANDONMENT; no guaranteed outcome -> DESPAIR"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sartre: Bad Faith, Facticity/Transcendence and the In-Itself/For-Itself",
+      "plain": "Bad faith is the attempt to escape the tension of being both a factical situation and a free self-transcending project by pretending to be only one side.",
+      "technical": "Bad faith is self-deception or flight from the tension between facticity and transcendence. It treats the for-itself as a fixed in-itself or denies the facticity it must own. The in-itself is full, opaque and self-identical; the for-itself is intentional, nihilating and non-self-coincident. The waiter illustrates role-essentialism but must not become a class stereotype or claim about every social role, while the date example illustrates evasion of a situation's meaning and one's choice. Authenticity is lucid ownership of both poles, though it is less systematically developed in Being and Nothingness than bad faith.",
+      "answer": "Bad faith is not a lie told by one inner agent to another but a unified flight from the facticity-transcendence tension, while authenticity remains the difficult task of owning both without pretending that freedom or situation can be abolished.",
+      "keywords": [
+        "bad faith",
+        "self-deception",
+        "facticity",
+        "transcendence",
+        "being-in-itself",
+        "being-for-itself",
+        "waiter example",
+        "authenticity"
+      ],
+      "usage": "Contrast being-in-itself with being-for-itself, derive bad faith from facticity and transcendence, qualify the waiter example and end on authenticity's thinner development.",
+      "mechanism": "For-itself as non-coincident freedom -> facticity/transcendence tension -> deny one pole -> bad faith -> alienation -> difficult authenticity.",
+      "consequence": "Sartre explains self-deception without two separate inner selves while exposing the danger of turning roles or freedom into fixed excuses.",
+      "trap": "Do not reduce bad faith to hypocrisy, make the waiter a class stereotype, equate authenticity with spontaneity, or infer that every relation with others is literally hell.",
+      "objection": "The self-deception account seems paradoxical because the self must know and not know the same truth; radical conflict neglects trust, care, solidarity and structural oppression.",
+      "reply": "Pre-reflective consciousness can sustain an evasive project without a separate deceiver, and later Sartre's group-in-fusion recognises forms of collective agency beyond isolation.",
+      "limit": "The explanation remains debated, and authenticity lacks the systematic ethical content needed to determine which lucid projects are justifiable.",
+      "exam": "Use ontology -> facticity/transcendence -> two forms of bad faith -> cautious examples -> self-deception paradox -> authenticity -> residual ethical limit.",
+      "revision": [
+        "Bad faith flees the tension between facticity and transcendence.",
+        "The waiter is an illustration of role-essentialism, not a class diagnosis.",
+        "Authenticity owns both freedom and situation but is less fully systematised.",
+        "The Look reveals social objectification; conflict need not exhaust all relations."
+      ],
+      "visuals": [
+        {
+          "title": "Bad-faith mechanism",
+          "caption": "The flight succeeds only by absolutising one dimension and suppressing the other.",
+          "lines": [
+            "HUMAN REALITY = FACTICITY + TRANSCENDENCE",
+            "          +------------------+------------------+",
+            "          v                                     v",
+            "'I AM ONLY MY ROLE / PAST'          'I AM PURE FREEDOM, UNBOUND BY FACTS'",
+            "deny transcendence                   deny facticity",
+            "          +------------------+------------------+",
+            "                             v",
+            "                           BAD FAITH"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sartre: Being-for-Others, the Look, Shame and Social Conflict",
+      "plain": "Being-for-others is Sartre's name for the dimension in which the Look of another freedom makes me an object with a meaning I do not control.",
+      "technical": "Being-for-others is the dimension in which the self exists as object for another subject. In the keyhole example, footsteps interrupt absorbed consciousness and shame discloses that I am seen. The Look therefore reveals another subject rather than inferring one from behaviour. Sartre argues that attempts to possess the other's freedom or reduce the other to an object generate conflict. This insight explains alienation and social exposure, but the universal conflict thesis risks generalising from objectifying encounters and is qualified by later Sartrean attention to collective agency.",
+      "answer": "The Look reveals the Other as the subject for whom I am an object, making shame a genuine disclosure of being-for-others while leaving open whether conflict exhausts human relations.",
+      "keywords": [
+        "being-for-others",
+        "the Look",
+        "keyhole example",
+        "shame",
+        "objectification",
+        "conflict",
+        "alienation",
+        "collective agency"
+      ],
+      "usage": "Reconstruct keyhole -> footsteps -> shame -> object-for-another, then test the conflict thesis against love, care, reciprocity and later collective agency.",
+      "mechanism": "Absorbed project -> another's Look -> shame -> being-for-others -> failed recognition -> conflict -> later social qualification.",
+      "consequence": "The account makes freedom socially exposed and explains alienation beyond private bad faith.",
+      "trap": "Do not infer that every relation is literally hell, treat shame as private embarrassment alone, or substitute the Look for the syllabus core of freedom and bad faith.",
+      "objection": "The argument overgeneralises from pathological encounters and neglects trust, solidarity and structural forms of oppression.",
+      "reply": "Sartre's ontological claim isolates objectification as a permanent possibility, while the later group-in-fusion recognises non-objectifying collective agency.",
+      "limit": "The later move weakens universal conflict and leaves reciprocity incompletely theorised.",
+      "exam": "Use keyhole sequence -> shame -> being-for-others -> conflict strategies -> objection from care/solidarity -> later development -> graded verdict.",
+      "revision": [
+        "The Look discloses another subject through my objectification.",
+        "Shame is recognition of myself as seen.",
+        "Conflict is a powerful tendency, not a proven description of every relation.",
+        "Later collective agency qualifies Sartre's solitary ontology."
+      ],
+      "visuals": [
+        {
+          "title": "The Look and its limit",
+          "caption": "Shame reveals another subject, but universal conflict requires further argument.",
+          "lines": [
+            "ABSORBED PROJECT -> footsteps / LOOK -> I become object-for-another",
+            "                              v",
+            "SHAME: recognition of myself as seen -> BEING-FOR-OTHERS",
+            "                              v",
+            "CONFLICT THESIS -> objection: love, care, solidarity and reciprocity",
+            "LATER DEVELOPMENT -> collective agency qualifies solitary conflict"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparative Synthesis, Criticism and Philosophy Optional Answer Spine",
+      "plain": "The safest comparison preserves a common problem while showing that dread, freedom, death, selfhood and authenticity perform different jobs in each philosopher.",
+      "technical": "Kierkegaard's existing individual becomes a self through inward commitment before God; Heidegger analyses Dasein's finite, thrown being-in-the-world; Sartre explains the for-itself through nothingness, freedom, responsibility and bad faith. Fear has a determinate object whereas anxiety or dread discloses possibility, world-collapse or freedom. Facticity is not determinism; freedom is not power; authenticity is not mere nonconformity; subjectivity is not arbitrariness; being-in-the-world is not spatial containment; bad faith is not ordinary lying; and being-towards-death is not reducible to the biological event. Nietzsche, Husserl, Camus, Beauvoir and Merleau-Ponty clarify genealogy, method, absurdity, ambiguity, embodiment and social criticism without replacing the three syllabus thinkers.",
+      "answer": "Existentialism's unity lies in making finite existence philosophically primary, while its strength lies in the very disagreements that prevent anxiety, authenticity, freedom and selfhood from collapsing into one slogan.",
+      "keywords": [
+        "comparative synthesis",
+        "fear and anxiety",
+        "facticity and determinism",
+        "freedom and power",
+        "authenticity and nonconformity",
+        "subjectivity and arbitrariness",
+        "bad faith and lying",
+        "death and biological event"
+      ],
+      "usage": "Build the comparative synthesis through fear and anxiety, facticity and determinism, freedom and power, authenticity and nonconformity, subjectivity and arbitrariness, bad faith and lying, then close with criticism and a qualified family verdict.",
+      "mechanism": "Common problem -> thinker-specific ground -> mechanism -> consequence -> objection and reply -> exact distinctions -> comparative judgment.",
+      "consequence": "A good answer gains depth from difference: the self before God, finite being-in-the-world and atheistic self-making cannot be substituted for one another.",
+      "trap": "Do not turn the conclusion into a generic celebration of choosing one's own path or a flat claim that all three reject every essence, norm and social relation.",
+      "objection": "Kierkegaard risks fideism and inaccessible inwardness; Heidegger risks obscurity, formal emptiness and political shadow; Sartre risks exaggerated freedom and thin ethics.",
+      "reply": "Each project identifies a genuine reduction to resist: system without existence, subject without world, or facticity without freedom. Their replies preserve insight while accepting limits on universality, normativity and social explanation.",
+      "limit": "No single reply dissolves the residual tensions; the most defensible conclusion is plural and qualified rather than a forced synthesis.",
+      "exam": "Answer spine: define demand -> locate thinker/project -> reconstruct argument -> visual distinction -> objection -> reply -> residual limit -> comparative verdict.",
+      "revision": [
+        "Kierkegaard = inward commitment before God.",
+        "Heidegger = ontological analysis of finite being-in-the-world.",
+        "Sartre = atheistic freedom, nothingness, responsibility and bad faith.",
+        "Precision comes from exact pairs and qualified criticism, not generic slogans."
+      ],
+      "visuals": [
+        {
+          "title": "Three-thinker comparison",
+          "caption": "The same exam words name different structures and grounds in each project.",
+          "lines": [
+            "AXIS              KIERKEGAARD       HEIDEGGER             SARTRE",
+            "SELF              before God        Dasein / care          for-itself / lack",
+            "ANXIETY           possibility        world insignificance  unsupported freedom",
+            "AUTHENTICITY      religious faith    resolute finitude     owning freedom/facticity",
+            "FREEDOM           committed choice   thrown projection     situated self-making",
+            "DEATH / FINITUDE  religious limit    ownmost possibility   factical limit to project"
+          ]
+        },
+        {
+          "title": "Criticism, reply and answer spine",
+          "caption": "Exam evaluation should preserve the insight and name the residual problem.",
+          "lines": [
+            "K: fideism / ethical suspension -> existential appropriation -> public test remains",
+            "H: obscurity / empty resoluteness -> ontology, not ethics -> normativity remains",
+            "S: exaggerated freedom -> situated and later social freedom -> scope remains",
+            "ANSWER: DEFINE -> ARGUE -> DISTINGUISH -> OBJECT -> REPLY -> LIMIT -> VERDICT"
+          ]
+        }
+      ]
+    }
+  ],
+  "advanced_session_count": 10,
+  "ascii_panels": [
+    {
+      "title": "Existentialism as a family: common problem, distinct projects",
+      "structural_type": "family-branch-and-distortion-filter",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "START -> concrete lived existence resists reduction to abstract system or fixed nature.",
+        "EXISTING INDIVIDUAL -> situated, finite, choosing and self-interpreting existence.",
+        "KIERKEGAARD -> Christian inwardness, anti-Hegelian individual and self before God.",
+        "HEIDEGGER -> fundamental ontology through Dasein and finite being-in-the-world.",
+        "SARTRE -> atheistic consciousness, nothingness, situated freedom and responsibility.",
+        "COMMON THEMES -> individuality, choice, anxiety, finitude and authentic existence.",
+        "NOT ONE DOCTRINE -> the grounds, methods and conclusions remain sharply different.",
+        "NOT PESSIMISM / NIHILISM -> no claim that life is simply meaningless or hopeless.",
+        "NOT SUBJECTIVE WHIM / SELF-HELP -> choice remains situated and answerable.",
+        "BRIDGE -> begin with Kierkegaard's existing individual against the System."
+      ]
+    },
+    {
+      "title": "Kierkegaard: individual, subjectivity, spheres, anxiety, despair and faith",
+      "structural_type": "orientation-ladder-and-possibility-flow",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "SYSTEM -> universal mediation loses the particular person who must exist and choose.",
+        "EXISTING INDIVIDUAL -> temporal, passionate, responsible and irreducibly singular.",
+        "TRUTH IS SUBJECTIVITY -> existential appropriation; NOT whatever I feel is true.",
+        "SPHERES -> aesthetic immediacy; ethical duty; religious selfhood before God.",
+        "SPHERES -> qualitative orientations crossed by decision, not automatic age-phases.",
+        "POSSIBILITY -> anxiety / dread -> dizziness of freedom -> choice -> becoming a self.",
+        "DESPAIR -> not willing to be oneself OR defiantly willing without one's ground.",
+        "LEAP / FAITH -> lived God-relation; not mere caprice or evidence-free opinion.",
+        "ABRAHAM -> teleological suspension clarifies faith and creates an ethical problem.",
+        "VERDICT -> responsible inwardness is powerful; public criteria remain incomplete."
+      ]
+    },
+    {
+      "title": "Heidegger: Dasein, being-in-the-world, equipment and care",
+      "structural_type": "unitary-world-map-and-breakdown-sequence",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "PROJECT -> fundamental ontology; Heidegger resists Sartrean humanistic existentialism.",
+        "DASEIN -> the being for whom Being is an issue; not mind or biological object.",
+        "BEING-IN-THE-WORLD -> unitary structure; not subject inside a container-world.",
+        "WORLDHOOD -> meaningful referential context of concern, projects and being-with.",
+        "READY-TO-HAND -> absorbed equipment; breakdown reveals the in-order-to nexus.",
+        "PRESENT-AT-HAND -> detached object of theory; derivative from practical involvement.",
+        "CARE -> ahead-of-itself + already-in a world + alongside entities.",
+        "THROWNNESS -> unchosen given; PROJECTION -> possibilities; FALLENNESS -> absorption.",
+        "DAS MAN -> ordinary public intelligibility; inauthenticity is not simple moral evil.",
+        "BRIDGE -> anxiety interrupts familiar significance and discloses finite possibility."
+      ]
+    },
+    {
+      "title": "Heidegger: the They, anxiety, death, resoluteness and authenticity",
+      "structural_type": "disclosure-rail-and-temporal-triad",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "DAS MAN -> received meanings and average everydayness; structural, not wickedness.",
+        "FEAR -> determinate threat; ANXIETY -> familiar significance recedes without one object.",
+        "ANXIETY -> discloses being-in-the-world and Dasein's ownmost finite possibility.",
+        "DEATH -> ownmost, non-relational, certain and indefinite possibility.",
+        "NOT -> suicide, death-seeking, morbid heroism or biological event alone.",
+        "ANTICIPATION -> individualises Dasein and exposes the finitude of every possibility.",
+        "RESOLUTENESS -> owning thrown possibilities within, not outside, the shared world.",
+        "AUTHENTICITY -> formal modification; not moral superiority or social isolation.",
+        "OBJECTION -> normatively empty, death-centred and politically vulnerable resoluteness.",
+        "VERDICT -> strong ontology of ownership; thin guidance about which possibilities to own."
+      ]
+    },
+    {
+      "title": "Heidegger: temporality, future priority, historicality and limit",
+      "structural_type": "temporal-triad-and-incompleteness-map",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "TEMPORALITY -> meaning of care; not external clock-time surrounding Dasein.",
+        "FUTURE -> projection, anticipation and ahead-of-itself; structurally primary.",
+        "HAVING-BEEN -> thrownness and the inherited past Dasein still is.",
+        "PRESENT -> involvement, making-present and being alongside entities.",
+        "ECSTASES -> one finite unity, not compartments arranged on a time-line.",
+        "ANTICIPATION -> gathers thrown existence into a whole and links time to authenticity.",
+        "VULGAR TIME -> derivative public sequence of measurable nows.",
+        "HISTORICALITY -> inherited possibilities projected anew; history is how Dasein exists.",
+        "LIMIT -> Division III was not published; Dasein's time does not complete ontology.",
+        "BRIDGE -> Sartre grounds open self-making in the for-itself's nothingness."
+      ]
+    },
+    {
+      "title": "Sartre: existence, in-itself, for-itself and nothingness",
+      "structural_type": "artefact-reversal-and-ontology-contrast",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "ARTEFACT -> design or essence precedes manufactured existence.",
+        "HUMAN REALITY -> no divine blueprint; existence precedes self-made essence.",
+        "SCOPE -> Sartre's formula for human beings; not unchanged Kierkegaard or Heidegger.",
+        "BEING-IN-ITSELF -> full, opaque, self-identical and simply what it is.",
+        "BEING-FOR-ITSELF -> intentional consciousness, lack and non-self-coincidence.",
+        "NOTHINGNESS / NIHILATION -> distance, absence, negation, questions and alternatives.",
+        "SELF-TRANSCENDENCE -> consciousness exceeds past, role and present identity.",
+        "PROJECT -> provisional self-definition through action; never a completed fixed essence.",
+        "NOT MIND-BODY DUALISM -> the contrast is ontological, not two substances.",
+        "BRIDGE -> the for-itself is free only within facticity and situation."
+      ]
+    },
+    {
+      "title": "Sartre: situated freedom, choice, responsibility and anguish",
+      "structural_type": "tension-field-and-responsibility-chain",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "FACTICITY -> body, past, social position, situation and events already suffered.",
+        "TRANSCENDENCE -> surpassing the given through interpretation, projects and action.",
+        "SITUATED FREEDOM -> constraints are real; no fact determines its own meaning.",
+        "FREEDOM != POWER -> inability to alter every condition does not erase self-positioning.",
+        "CHOICE -> even refusal, conformity or delay can position the self and its project.",
+        "RESPONSIBILITY -> for meanings and projects; NOT blame for every inflicted event.",
+        "ANGUISH -> no nature or rule guarantees what I choose and make of myself.",
+        "ABANDONMENT -> no divine value-giver; values cannot be outsourced to God.",
+        "DESPAIR -> act without assuming history, luck or others will guarantee the outcome.",
+        "LIMIT -> early radicalism is qualified by later attention to material social constraints."
+      ]
+    },
+    {
+      "title": "Sartre: in-itself, for-itself, facticity and bad faith",
+      "structural_type": "self-deception-fork-and-otherness-sequence",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "IN-ITSELF -> full, opaque and self-identical; simply what it is.",
+        "FOR-ITSELF -> intentional, nihilating and non-self-coincident consciousness.",
+        "FACTICITY -> body, past, role and situation; TRANSCENDENCE -> projected possibility.",
+        "BAD FAITH -> flight from this tension; not ordinary lying alone.",
+        "ROLE FIXATION -> pretend I am only my facticity and deny transcendence.",
+        "PURE FREEDOM CLAIM -> deny facticity and pretend no situation binds.",
+        "WAITER -> role-essentialism example; not proof that workers are inauthentic.",
+        "DATE EXAMPLE -> evasion of a gesture's meaning and the need to choose.",
+        "AUTHENTICITY -> lucid ownership of both poles; less systematic than bad faith.",
+        "LIMIT -> self-deception paradox and thin ethics remain unresolved."
+      ]
+    },
+    {
+      "title": "Sartre: the Look, shame, being-for-others and social limit",
+      "structural_type": "keyhole-sequence-and-conflict-critique",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "BEING-FOR-OTHERS -> the self as object for another free subject.",
+        "KEYHOLE -> absorbed project; footsteps interrupt and reveal that I am seen.",
+        "SHAME -> recognition of myself as the Other sees me; not private embarrassment alone.",
+        "THE LOOK -> another subject is lived through objectification, not merely inferred.",
+        "OBJECT-FOR-ANOTHER -> I acquire an outside and meanings I do not control.",
+        "CONFLICT -> possess the Other's freedom or reduce the Other to an object; both fail.",
+        "ALIENATION -> freedom is exposed to another freedom's meanings and judgments.",
+        "OBJECTION -> love, care, trust and solidarity challenge universal conflict.",
+        "LATER SARTRE -> group-in-fusion admits forms of collective, non-isolated agency.",
+        "VERDICT -> decisive account of shame; incomplete theory of reciprocal social life."
+      ]
+    },
+    {
+      "title": "Comparison, exact distinctions, criticism and answer spine",
+      "structural_type": "three-way-comparison-and-evaluation-spine",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "KIERKEGAARD -> religious inward commitment and the self responsibly before God.",
+        "HEIDEGGER -> ontological analysis of finite, thrown being-in-the-world.",
+        "SARTRE -> atheistic freedom, nothingness, responsibility, bad faith and the Look.",
+        "ANXIETY -> possibility / world-collapse / unsupported freedom across the three projects.",
+        "EXACT PAIRS -> fear/anxiety; facticity/determinism; freedom/power.",
+        "EXACT PAIRS -> authenticity/nonconformity; subjectivity/arbitrariness.",
+        "EXACT PAIRS -> being-in-world/containment; bad faith/lying; death/biological event.",
+        "CRITIQUE -> fideism; obscurity and empty resoluteness; exaggerated freedom and thin ethics.",
+        "ANSWER SPINE -> define -> locate project -> argue -> distinguish -> object -> reply -> limit.",
+        "VERDICT -> one problem-field, three irreducible projects; preserve insight and difference."
+      ]
+    }
+  ],
+  "verified_pyq_source": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+  "required_core_terms": [
+    "existing individual",
+    "subjective truth",
+    "anxiety",
+    "dread",
+    "despair",
+    "misrelation",
+    "leap",
+    "Dasein",
+    "fundamental ontology",
+    "being-in-the-world",
+    "worldhood",
+    "readiness-to-hand",
+    "presence-at-hand",
+    "care",
+    "Sorge",
+    "thrownness",
+    "projection",
+    "fallenness",
+    "das Man",
+    "being-towards-death",
+    "anticipatory resoluteness",
+    "authenticity",
+    "temporality",
+    "being-in-itself",
+    "being-for-itself",
+    "nothingness",
+    "nihilation",
+    "facticity",
+    "transcendence",
+    "situated freedom",
+    "anguish",
+    "abandonment",
+    "forlornness",
+    "bad faith",
+    "the Look",
+    "shame",
+    "responsibility"
+  ]
+}

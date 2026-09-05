@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-11",
+      "display_title": "Forest Fire Risk Management",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Fire triangle and control",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "FUEL + HEAT + OXYGEN -> COMBUSTION",
+            "PREVENT -> reduce unsafe ignition / fuel continuity",
+            "RESPOND -> interrupt heat transfer where safe",
+            "LIMIT -> FIRE-FREE FOREST IS NOT A UNIVERSAL GOAL"
+          ],
+          "source_references": [
+            "Fire triangle",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fire-type matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SURFACE -> litter grass shrub layer",
+            "GROUND -> organic matter below / within surface",
+            "CROWN -> tree canopy",
+            "TRANSITION -> vertical fuel and conditions connect layers"
+          ],
+          "source_references": [
+            "Surface fire",
+            "Ground fire",
+            "Crown fire",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fire-behaviour triangle",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "WEATHER -> dryness wind humidity temperature",
+            "FUEL -> type load moisture continuity",
+            "TOPOGRAPHY -> slope aspect valley access",
+            "INTERACTION -> spread intensity smoke and response limits"
+          ],
+          "source_references": [
+            "Fire behaviour",
+            "Weather",
+            "Fuel",
+            "Topography",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ignition governance map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NATURAL -> lightning and source-bounded causes",
+            "DELIBERATE HUMAN -> land / resource-use motive",
+            "ACCIDENTAL HUMAN -> escaped heat / equipment / smoking",
+            "RESPONSE -> prevention by cause not generic blame"
+          ],
+          "source_references": [
+            "Ignition sources",
+            "Prevention governance",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "FSI alert rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 MODIS / SNPP-VIIRS DETECTION",
+            "2 AUTOMATED PROCESSING AND FOREST FILTER",
+            "3 SMS / EMAIL / MAP DISSEMINATION",
+            "4 FIELD VERIFY -> COMMAND -> RESPONSE"
+          ],
+          "source_references": [
+            "Detection and FSI",
+            "Alert-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Initial response chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ALERT -> VERIFY LOCATION AND ACCESS",
+            "LOCAL COMMAND + TRAINED PROTECTED CREW",
+            "TOOLS WATER COMMUNICATION AND SAFETY",
+            "ESCALATE IF CAPACITY / CONDITIONS EXCEEDED"
+          ],
+          "source_references": [
+            "Initial response",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Community partnership ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CONSULT ON RESOURCE-USE AND IGNITION DRIVERS",
+            "TRAIN + EQUIP + COMPENSATE",
+            "LINK EARLY REPORTING TO FOREST DEPARTMENT",
+            "DO NOT OFFLOAD STATE DUTY"
+          ],
+          "source_references": [
+            "Community partnership",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fuel-break boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FIRE LINE -> maintained break in fuel continuity",
+            "PRESCRIBED BURN -> authorised planned fuel treatment",
+            "BOTH -> objectives conditions supervision contingency",
+            "NEITHER -> guaranteed containment or licence for ignition"
+          ],
+          "source_references": [
+            "Fire lines",
+            "Prescribed burning boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ecology-suppression balance",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WHAT ECOSYSTEM / FIRE REGIME / SEASON / INTENSITY?",
+            "LIFE OR ASSET THREAT -> SAFETY-LED RESPONSE",
+            "FUEL / ECOLOGY OBJECTIVE -> BOUNDED MANAGEMENT",
+            "TRAP -> UNIVERSAL EXCLUSION OR UNIVERSAL BURNING"
+          ],
+          "source_references": [
+            "Ecology-suppression trade-off",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Smoke and interface map",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "FIRE -> SMOKE / VISIBILITY / TRANSPORT",
+            "FOREST EDGE -> HOME ROAD POWER TOURISM SITE",
+            "HEALTH MESSAGE + EVACUATION + UTILITY ACTION",
+            "RESPONDER AND VULNERABLE-GROUP PROTECTION",
+            "MUST REMEMBER: Forest-fire risk joins fuel, moisture, weather, ignition, terrain, forest..."
+          ],
+          "source_references": [
+            "Smoke and health",
+            "Wildland-urban interface",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-11_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Restoration sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SAFETY + BURNT AREA / SEVERITY ASSESSMENT",
+            "EROSION RUNOFF AND INVASIVE-SPECIES CONTROL",
+            "LIVELIHOOD SUPPORT + ECOLOGICALLY SUITABLE RESTORATION",
+            "MONITOR RECOVERY -> DO NOT EQUATE WITH PLANTING COUNT",
+            "CLOSE DISTINCTION: Hotspot is not confirmed fire; burnt area is not tree-cover loss;..."
+          ],
+          "source_references": [
+            "Restoration",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-11_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Forest-fire answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY FIRE + TRACE IGNITION WEATHER FUEL TOPOGRAPHY",
+            "PREVENT -> DETECT -> VERIFY -> RESPOND -> RESTORE",
+            "ADD COMMUNITY FIRE-LINE ECOLOGY SMOKE AND WUI GOVERNANCE",
+            "SEPARATE ALERT CAPACITY CONTAINMENT AND RECOVERY OUTCOMES",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name sensor/product, resolution, date,..."
+          ],
+          "source_references": [
+            "Alert-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g2\\disaster-management-11_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-11_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

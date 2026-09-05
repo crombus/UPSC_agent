@@ -1,0 +1,109 @@
+{
+  "record_id": "political-theory-02:learner-v2:g3",
+  "topic_key": "political-theory-02",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "political-theory-02:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Political Theory — Subject-wide Syllabus — Ideology and End of Ideology",
+  "main_pdf": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-02_Learning-Session_2026-08-28.pdf",
+  "workbook": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\workbooks\\political-theory-02_Solved-Workbook_2026-08-28.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Learning-Session.md",
+  "asset_folder": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-02",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "political-theory-02:learner-v2:g3"
+  },
+  "provenance": {
+    "workflow": "learner-first-v2-political-theory-topic-generator",
+    "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\02_Ideology-and-End-of-Ideology.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\02_Ideology-and-End-of-Ideology.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\02_Ideology-and-End-of-Ideology.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Learning-Session.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Solved-Workbook.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+    "subject_boundary": "Political Theory is supplementary conceptual support. Verified questions retain their Philosophy primary owner; no synthetic route was created.",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-28",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\02_Ideology-and-End-of-Ideology.md": "a4dec8515c5d80f30ab02277908dff448684ff5689f2b002ec0b547cd4a3be2b",
+      "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\02_Ideology-and-End-of-Ideology.md": "fbd03bb070e885ede021c5d290b411765ad130e2dec166e0e100a1add93c4d41",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904"
+    },
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Learning-Session.md": "b5842028f86a173d23a81965f3bfe4533179cb660e67dc55cf33448ba12a1297",
+      "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-02_Solved-Workbook.md": "2b7fa470ce244cbb3ffb2ede4a98f808b98a38c6a038bd8d6405acf596cbc23f",
+      "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-02_Learning-Session_2026-08-28.pdf": "3965a97bb177688ce2b1dfa52327b7a7b0f77b303c02a466dd58042a3143d635",
+      "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\workbooks\\political-theory-02_Solved-Workbook_2026-08-28.pdf": "f07ecf17295a34f655febadf81189eae7c8d1d1ed4d04ebdb049ea25d3f86412",
+      "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-02\\political-theory-02_concept-map_g3.png": "9ede9e29e3ec0eeb0d5fa1d342aa4a0fc98dcc492776bcf6bf073b70b8f18bc2",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\political-theory-02_Twelve-Panel-ASCII-Master_2026-08-28-g3.md": "dd99b71aa7f974bb760e69f8085f213faf99bdbf70d6c07a8344f91391b38348",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\ascii-master.pdf": "b6c796c25a35cde90493909fd189ed7218855b9b3c26a62456458fe4bcb28cd2",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-02-ascii-2026-08-28-g3.json": "6398af6f29fd83b3139b77c31032aeae2f72f32be27fd7488e961b4a64fb8ab5",
+      "upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus-graphical-specs\\political-theory-02-g3.json": "47abba9269d39b76a52200ea806a36f7565f33f762960d0b77024afa1b70d181",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\ascii-master.txt": "8edbcacfe4068fe5fbbfa5dfb59985ba2ae88f5d6a15509f30b2cb6ecaeec356",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\build-audit.json": "bc1dd482f6f06e71e61d7771dfe813ec9f5cab9acff3b28244bb2b11551cacd3",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\master.png": "4a56854315eb2d3856f6d76b738fc377070e5cd6ab71c4d17e573e9d1f368398",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\poster.pdf": "3ef4db739b98af308fab91f34464f407e86606ce6f92e55c7ec70f7c35a08a6e",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\preservation-hashes.json": "176daf8aaffeade4e6caaedf95acbe528ea7a674055b200a65bd6e55b01477f1",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\README.txt": "3465f16bd710618ea064d03ea4d7081beffe3cdf8294eab9fb455ad05fefc655",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\tiled.pdf": "102a7fe58ba1a7396fe0fcfb9659d61e4539df80f8994eda6aed77f8a6b68cc9",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\validation-report.txt": "fbd2414085ddcd85ef8268b7dfe36963a6329f1534825ab958ec63aaed5f58de",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\editable\\topic-spec.json": "47abba9269d39b76a52200ea806a36f7565f33f762960d0b77024afa1b70d181",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\contact-sheet-01.png": "19abde06692656db92456f3cc7ba692c819c89afca2f1560f468ee437c8f7524",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\master-overview.png": "90167278cef195842a68555d9bee2e71ae270bb81961a567ebafc5127a96c86a",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\page-001.png": "5e4893b1e9c396238b2f8dcdfe33460558f636efbbd121f860971be87ec60d49",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\page-002.png": "52d7a411945f2b96669827dc399076a78f67f48b27192851dd6e5e4adbbe5928",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\page-003.png": "0a621138f855ab4514b44ea550de29204a3d47914662b337fc2cf43f9210181a",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\page-004.png": "b22f4f8d995a2010671b96680a9ef401d16a7ae7d7ecabf76650b1d5b97fa35e",
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\page-005.png": "cb7c4cd8f76853002db92984fea97115a6cc1444be96e129634f99fd79e44440"
+    },
+    "concept_visual": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-02\\political-theory-02_concept-map_g3.png",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-02-ascii-2026-08-28-g3.json",
+    "ascii_master_pdf": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3",
+    "master_image": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\master.png",
+    "poster_pdf": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\tiled.pdf",
+    "editable": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus-graphical-specs\\political-theory-02-g3.json",
+    "graphical_spec_sha256": "47abba9269d39b76a52200ea806a36f7565f33f762960d0b77024afa1b70d181",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews",
+    "contact_sheets": [
+      "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\validation-report.txt",
+    "build_audit": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-02-ascii-2026-08-28-g3.json",
+    "ascii_master_spec_sha256": "6398af6f29fd83b3139b77c31032aeae2f72f32be27fd7488e961b4a64fb8ab5",
+    "ascii_master_pdf": "notes\\Political-Theory\\flowcharts\\political-theory-02\\continuous-at-a-glance-english-first-g3\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-political-theory-twelve-panel-spec"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-28",
+    "validator": "tools/generate_political_theory_topic_v2.py + tools/validate_v2_export.py"
+  }
+}

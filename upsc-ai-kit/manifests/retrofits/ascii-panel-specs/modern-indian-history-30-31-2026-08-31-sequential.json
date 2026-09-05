@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 30-31",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-30",
+      "display_title": "Linguistic Reorganisation of States & Regionalism (1947–1967)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\30_Linguistic-Reorganisation-of-States-and-Regionalism-1947-1967_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Inherited map, the 1921 commitment and the 1947 pause",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "STARTING CONDITION -> a map accumulated over ~100 years of conquest, never designed",
+            "|-- NO COHESION TEST -> most provinces multilingual; princely states add heterogeneity",
+            "|-- ADMINISTRATIVE COST -> education, courts and politics run in an alien language",
+            "1921 -> CONGRESS AMENDS ITS OWN CONSTITUTION: regional branches on a linguistic basis",
+            "1947 -> PARTITION DISLOCATION + Kashmir + economic and law-and-order emergencies",
+            "27 NOV 1947 -> NEHRU PRIORITY: security and stability of India must come first",
+            "READ IT CORRECTLY -> PRINCIPLE UNCHANGED SINCE 1921; ONLY THE PRIORITY WAS LOWERED"
+          ],
+          "source_references": [
+            "Why colonial provinces made no linguistic sense",
+            "The 1921 commitment and the post-Partition pause"
+          ]
+        },
+        {
+          "title": "Dar 1948, JVP December 1948 and the escape clause",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "1948  CONSTITUENT ASSEMBLY -> LINGUISTIC PROVINCES COMMISSION (Justice S.K. Dar)",
+            "      |-- finding -> advise against now: risk to unity, administrative inconvenience",
+            "      `-- effect  -> the linguistic principle is NOT written into the Constitution",
+            "DEC 1948  CONGRESS -> JVP COMMITTEE",
+            "      |-- members -> Jawaharlal Nehru | Sardar Patel | Pattabhi Sitaramayya",
+            "      |-- finding -> delay again: unity, national security, economic development",
+            "      `-- PROVISO -> demand \"insistent and overwhelming\" + other language groups agreeable",
+            "                     => a new state MAY be created",
+            "CONSEQUENCE -> the refusal carries its own escape clause, and Andhra later uses it"
+          ],
+          "source_references": [
+            "Dar Commission 1948 and the JVP Committee of December 1948"
+          ]
+        },
+        {
+          "title": "Andhra: a capital city, not a language, blocks the demand",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "DEMAND -> a Telugu state carved out of the Madras Presidency",
+            "AGE    -> popular for nearly half a century; supported by all political parties",
+            "JVP TEST 1 -> is the demand insistent and overwhelming? -> PASSED",
+            "JVP TEST 2 -> are the other language groups agreeable (Tamil Nadu)? -> PASSED",
+            "BLOCKER    -> WHICH SUCCESSOR STATE TAKES MADRAS CITY? -> UNRESOLVED",
+            "INFERENCE  -> the obstacle is territorial and fiscal, not linguistic",
+            "CARRY FORWARD -> Bombay city (1956-60) and Chandigarh (1966) repeat the same obstacle"
+          ],
+          "source_references": [
+            "The Andhra demand and the Madras-city deadlock"
+          ]
+        },
+        {
+          "title": "Sriramulu: fast, death and immediate concession",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "19 OCT 1952 -> POTTI SRIRAMULU BEGINS A FAST UNTO DEATH for a separate Andhra",
+            "      v  (fifty-eight days)",
+            "DEC 1952    -> DEATH",
+            "      v",
+            "AFTERMATH   -> three days of rioting, demonstrations, hartals and violence across Andhra",
+            "      v",
+            "GOVERNMENT  -> \"immediately gave in\" and concedes a separate state of Andhra",
+            "NUMBERS TO FIX TOGETHER -> 19 October 1952 | fifty-eight days | December 1952",
+            "OCR NOTE -> the local book text renders the name \"Patti Sriramalu\"; owner spelling retained"
+          ],
+          "source_references": [
+            "Potti Sriramulu: the fast of 19 October 1952 and its aftermath"
+          ]
+        },
+        {
+          "title": "Sequencing lock: agitation precedes commission and statute",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "OCT 1953  ANDHRA CREATED -> the FIRST linguistic state",
+            "OCT 1955  SRC REPORT SUBMITTED -> the principle generalised",
+            "NOV 1956  STATES REORGANISATION ACT -> the settlement enacted",
+            "MAY 1960  BOMBAY BIFURCATED -> first refused case closed",
+            "1966      PUNJAB DIVIDED; HARYANA CREATED -> second refused case closed",
+            "16 DEC 1967  AMENDING ACT ADOPTED -> language settlement legislated",
+            "TRAP -> any statement that places the Commission or the Act before Andhra is wrong"
+          ],
+          "source_references": [
+            "Andhra in October 1953: agitation before commission"
+          ]
+        },
+        {
+          "title": "The Commission: three members, two years, one report",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "STATES REORGANISATION COMMISSION -> appointed AUGUST 1953 by Nehru",
+            "+---------------------------+---------------------------+---------------------------+",
+            "| CHAIRMAN                  | MEMBER                    | MEMBER                    |",
+            "| Justice Fazl Ali          | K.M. Panikkar             | Hridaynath Kunzru         |",
+            "+---------------------------+---------------------------+---------------------------+",
+            "MANDATE    -> examine \"objectively and dispassionately\" the whole reorganisation question",
+            "CONDITIONS -> two years of meetings, demonstrations, agitations and hunger strikes",
+            "ITS OWN WORDS -> \"a kind of border warfare\" among old comrades-in-arms in the freedom struggle",
+            "REPORT     -> submitted OCTOBER 1955"
+          ],
+          "source_references": [
+            "The States Reorganisation Commission: members, method and report"
+          ]
+        },
+        {
+          "title": "One endorsement and three refusals",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ENDORSED  -> the linguistic principle \"for the most part\"",
+            "             qualified by due consideration for administrative and economic factors",
+            "REFUSED 1 -> splitting BOMBAY -> reopens as agitation -> settled MAY 1960",
+            "REFUSED 2 -> splitting PUNJAB -> reopens as agitation -> settled 1966",
+            "REFUSED 3 -> separate JHARKHAND -> region lacked one common language",
+            "             the Centre adds: a local minority cannot claim a state of its own",
+            "IMPLEMENTATION -> recommendations accepted with modifications and quickly implemented",
+            "LESSON -> a linguistic criterion cannot settle bilingual capitals or tribal demands"
+          ],
+          "source_references": [
+            "What the Commission endorsed and what it refused"
+          ]
+        },
+        {
+          "title": "The Act of November 1956: the count and the transfers",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "STATES REORGANISATION ACT -> passed by Parliament, NOVEMBER 1956",
+            "HEADLINE COUNT -> FOURTEEN STATES + SIX CENTRALLY ADMINISTERED TERRITORIES",
+            "+----------------------------------------------+--------------------------------------+",
+            "| TERRITORY MOVED                              | DESTINATION / RESULT                 |",
+            "+----------------------------------------------+--------------------------------------+",
+            "| Telangana area of Hyderabad state            | transferred to ANDHRA                |",
+            "| Malabar district (old Madras Presidency)     | merged with Travancore-Cochin        |",
+            "|   + Travancore-Cochin                        |   => KERALA created                  |",
+            "| Kannada areas of Bombay, Madras, Hyderabad,  | added to MYSORE                      |",
+            "|   Coorg                                      |                                      |",
+            "| Kutch, Saurashtra, Marathi areas of Hyderabad| merged INTO BOMBAY (state enlarged)  |",
+            "+----------------------------------------------+--------------------------------------+",
+            "CONSEQUENCE -> enlarging Bombay rather than dividing it detonates the Maharashtra crisis"
+          ],
+          "source_references": [
+            "The States Reorganisation Act of November 1956 and its content"
+          ]
+        },
+        {
+          "title": "Bombay 1956 to 1960: what a capital city costs",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "JAN 1956 -> 80 killed in police firings in Bombay city",
+            "            Samyukta Maharashtra Samiti and Maha Gujarat Janata Parishad lead rival movements",
+            "            16 killed and 200 injured in police firings in Gujarat",
+            "1956     -> C.D. Deshmukh resigns from the Union Cabinet on the question",
+            "JUN 1956 -> government decides to divide, with the city a separate administered unit",
+            "JUL 1956 -> government REVERTS to a bilingual greater Bombay -> opposed on BOTH sides",
+            "1957     -> the Bombay Congress scrapes through the elections",
+            "1959-60  -> Indira Gandhi as Congress president reopens it; President S. Radhakrishnan supports",
+            "MAY 1960 -> BIFURCATION: Maharashtra (with Bombay city) + Gujarat (capital Ahmedabad)"
+          ],
+          "source_references": [
+            "Bombay: the first unfinished case, settled in May 1960"
+          ]
+        },
+        {
+          "title": "Punjab 1966: a shared capital and an attributed reading",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1956 -> PEPSU merged into Punjab -> a TRILINGUAL state: Punjabi | Hindi | Pahari",
+            "        SRC refuses a Punjabi Suba: it would solve \"neither the language nor the communal problem\"",
+            "1966 -> DIVISION EXECUTED",
+            "        Punjabi-speaking -> PUNJAB",
+            "        Hindi-speaking -> HARYANA        (created 1966, NOT 1956)",
+            "        Kangra + part of Hoshiarpur . to HIMACHAL PRADESH",
+            "        CHANDIGARH -> UNION TERRITORY, JOINT capital of both states",
+            "ATTRIBUTED READING (local Bipan Chandra text, report it with its attribution):",
+            "        the issue \"assumed communal overtones\" through AKALI DAL and JAN SANGH mobilisation",
+            "        Nehru and most Punjab Congressmen: a communal demand \"dressed up as a language plea\"",
+            "        COUNTER-EVIDENCE -> the Communist Party and a section of Congress supported it",
+            "RULE -> never generalise the charge to every supporter of Punjabi"
+          ],
+          "source_references": [
+            "Punjab 1966: the second unfinished case and Chandigarh",
+            "The attributed communal reading of the Punjabi Suba demand"
+          ]
+        },
+        {
+          "title": "The language settlement at three levels and its 1967 vote",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "LEVEL 1 CONSTITUTIONAL TEXT (Part XVII, Department of Official Language publication)",
+            "        Art 343(1) Hindi in Devanagari = official language of the Union",
+            "        Art 343(2) English continues for ALL Union official purposes for FIFTEEN YEARS",
+            "        Art 343(3) Parliament MAY provide by law for English after that period",
+            "LEVEL 2 STATUTE -> Official Languages Act, 1963 (Act No. 19 of 1963, 10 May 1963)",
+            "        section 3 to come into force on 26 JANUARY 1965",
+            "        statutory rule -> English may continue to be used in addition to Hindi",
+            "        criticism -> \"may\", not \"shall\" -> read as no statutory guarantee",
+            "LEVEL 3 POLITICS -> Nehru's assurances, 7 August and 4 September 1959",
+            "        26 JAN 1965 crisis -> DMK conference of 17 January; \"Hindi never, English ever\"",
+            "        cost -> over sixty lives; C. Subramaniam and Alagesan resign from the Union Cabinet",
+            "        16 DEC 1967 -> Lok Sabha adopts the amending bill 205 to 41 -> indefinite bilingualism",
+            "                       + three-language formula for the states",
+            "CAUTION -> \"associate official language\" comes from the April 1960 Presidential order and the",
+            "           later settlement; it is not a phrase in the Constitution's own text"
+          ],
+          "source_references": [
+            "The Union's official language: constitutional text and the Act of 1963",
+            "26 January 1965 and the settlement legislated on 16 December 1967"
+          ]
+        },
+        {
+          "title": "Regionalism typology and the graded verdict",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "CRITERION -> WHOM IS THE DEMAND DIRECTED AGAINST?",
+            "+---------------------+-------------------------------+------------------------------+",
+            "| DIRECTED AT         | THE UNION                     | FELLOW CITIZENS              |",
+            "| CHARACTER           | accommodative                 | nativist, \"sons of the soil\" |",
+            "| DEMAND              | statehood, recognition, share | exclusion of migrants        |",
+            "| METHOD              | agitation, elections, statute | coercion against residents   |",
+            "| CASES               | Andhra 1953; Maharashtra and  | Shiv Sena 1966 (Bal          |",
+            "|                     | Gujarat 1960; Haryana 1966    | Thackeray); Bombay 1969;     |",
+            "|                     |                               | anti-migrant movements in    |",
+            "|                     |                               | Assam, Telangana, Karnataka, |",
+            "|                     |                               | Maharashtra, Orissa          |",
+            "| OUTCOME             | absorbed; federal legitimacy  | citizenship guarantees hurt  |",
+            "+---------------------+-------------------------------+------------------------------+",
+            "ARGUED VERDICT (Rajni Kothari) -> language proved \"a cementing and integrating influence\"",
+            "RESIDUAL COSTS -> inter-state boundary disputes | sharing of waters, power, surplus food",
+            "               -> linguistic minorities inside the reorganised states | linguistic chauvinism",
+            "STATE IT AS -> a defended conclusion supported by evidence, never as a self-evident fact"
+          ],
+          "source_references": [
+            "Regionalism: accommodative, nativist, secessionist — and the graded verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-31",
+      "display_title": "Integration of the Tribals & National Unity (1947–1987)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\31_Integration-of-the-Tribals-and-National-Unity-1947-1987_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The 1971 Census baseline and the decisive asymmetry",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "ATTRIBUTED BASELINE -> THE 1971 CENSUS (never 1951, never current data)",
+            "        over 400 tribal communities | nearly 38 million people | nearly 6.9 per cent of India",
+            "CONCENTRATIONS -> Madhya Pradesh | Bihar | Orissa | north-eastern India | West Bengal",
+            "               -> Maharashtra | Gujarat | Rajasthan",
+            "+--------------------------------+-----------------------------------------------+",
+            "| NORTH-EAST                     | EVERYWHERE ELSE                               |",
+            "| overwhelming local majority    | minorities in their own home states           |",
+            "| self-government is possible    | only protective regulation is available       |",
+            "+--------------------------------+-----------------------------------------------+",
+            "WHY IT MATTERS -> this asymmetry, not sentiment, dictates which Schedule applies"
+          ],
+          "source_references": [
+            "Who and how many: the 1971 Census baseline"
+          ]
+        },
+        {
+          "title": "Colonial dispossession and the revolt tradition",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "1 MARKET PENETRATION -> money-lenders, traders, revenue farmers, middlemen, petty officials",
+            "2 DEBT AND LAND LOSS -> families engulfed in debt -> land passes to outsiders",
+            "                     -> reduced to agricultural labourers, sharecroppers, rack-rented tenants",
+            "                     -> belated anti-alienation legislation FAILS to halt the process",
+            "3 FOREST LAW         -> large tracts regulated for conservation and commercial exploitation",
+            "                     -> shifting cultivation forbidden; access to forest produce restricted",
+            "4 OFFICIAL EXTORTION -> police, forest officials and other government officers",
+            "      v",
+            "REVOLT TRADITION -> Santhal uprising | Munda rebellion led by Birsa Munda",
+            "      v",
+            "PARTICIPATION -> national and peasant movements in Orissa, Bihar, West Bengal, Andhra,",
+            "                 Maharashtra and Gujarat",
+            "THIS IS THE HARM -> the post-1947 protective machinery is a reply to these four causes"
+          ],
+          "source_references": [
+            "Colonial dispossession: money-lenders, land and forest law"
+          ]
+        },
+        {
+          "title": "Two options rejected, one policy adopted",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "INFLUENCES -> VERRIER ELWIN (lived among tribal people; \"formative influence\" on policy)",
+            "           -> JAWAHARLAL NEHRU (\"the main influence in shaping the government's attitude\")",
+            "OPTION A: LEAVE THEM ALONE",
+            "   defect 1 -> treated \"as museum specimens to be observed and written about\" = \"to insult them\"",
+            "   defect 2 -> impossible anyway; penetration by the outside world had gone too far",
+            "OPTION B: ASSIMILATE THEM QUICKLY",
+            "   defect 1 -> \"engulfed by the masses of Indian humanity\" -> loss of social and cultural identity",
+            "   defect 2 -> unscrupulous outsiders would take possession of tribal lands and forests",
+            "      v",
+            "ADOPTED -> INTEGRATION WITH A PRESERVED DISTINCT IDENTITY",
+            "FRAMING -> India must signify \"not only a protecting force but a liberating one\""
+          ],
+          "source_references": [
+            "Verrier Elwin and the making of the policy",
+            "The two approaches Nehru rejected"
+          ]
+        },
+        {
+          "title": "The two parameters as a marking scheme",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "+----------------------------------+----------------------------------------------+",
+            "| PARAMETER 1                      | PARAMETER 2                                  |",
+            "| \"the tribal areas have to        | \"they have to progress in their own way\"     |",
+            "|  progress\"                       |                                              |",
+            "+----------------------------------+----------------------------------------------+",
+            "| rules out museum isolation       | rules out forced assimilation                |",
+            "| tests DEVELOPMENT DELIVERY       | tests IDENTITY PRESERVATION                  |",
+            "+----------------------------------+----------------------------------------------+",
+            "QUALIFIER 1 -> progress is not \"merely to duplicate what we have got in other parts of India\"",
+            "QUALIFIER 2 -> whatever changes are needed are \"worked out by the tribals themselves\"",
+            "USE IT -> political accommodation satisfies parameter 2; developmental failure breaks parameter 1",
+            "=> the honest verdict on this topic is a SPLIT verdict, and this panel is why"
+          ],
+          "source_references": [
+            "Integration with identity: the two parameters"
+          ]
+        },
+        {
+          "title": "The five guidelines and the label caution",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FIVE BROAD GUIDELINES -> later labelled \"Tribal Panchsheel\" (a LABEL, not a dated decree)",
+            "1 OWN GENIUS       -> develop along their own lines; no imposition, no compulsion",
+            "                   -> non-tribals to hold no superiority complex; an EQUAL contribution",
+            "2 LAND AND FOREST  -> tribal rights respected; no outsider to take possession of tribal land",
+            "                   -> market incursion strictly controlled and regulated",
+            "3 LANGUAGES        -> \"all possible support\"; conditions for flourishing safeguarded",
+            "4 TRIBAL PERSONNEL -> administrators recruited and trained from among tribal people",
+            "                   -> as few outsiders as possible, and those carefully chosen",
+            "5 NO OVER-ADMIN    -> develop through their own social and cultural institutions",
+            "ROOTS -> nationalist constructive work from the 1920s; Gandhi's ashrams in tribal areas",
+            "      -> supported after independence by Rajendra Prasad, first President of India",
+            "CAUTION -> do NOT attach an exact proclamation year to the label"
+          ],
+          "source_references": [
+            "The five guidelines later labelled the Tribal Panchsheel"
+          ]
+        },
+        {
+          "title": "Article 46 and the four-part protective machinery",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "A DIRECTIVE -> ARTICLE 46: promote with special care the educational and economic interests",
+            "               of the tribal people; protect from social injustice and all forms of exploitation",
+            "B GUBERNATORIAL -> special responsibility of Governors of states containing tribal areas",
+            "               -> power to MODIFY central and state laws in their application there",
+            "               -> power to frame regulations on land rights and against money-lenders",
+            "C POLITICAL -> full political rights extended",
+            "            -> reserved seats in the legislatures and reserved posts in the services",
+            "D ADVISORY AND INVESTIGATIVE",
+            "            -> TRIBAL ADVISORY COUNCILS in all states containing tribal areas",
+            "            -> COMMISSIONER FOR SCHEDULED CASTES AND SCHEDULED TRIBES, appointed by the",
+            "               President, to investigate whether the safeguards were being observed",
+            "NOTE -> component D is what later DOCUMENTS the failure of components A to C"
+          ],
+          "source_references": [
+            "Article 46 and the protective machinery"
+          ]
+        },
+        {
+          "title": "Fifth Schedule and Sixth Schedule: a design matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "+-----------------------------------+---------------------------------------------+",
+            "| SITUATION: LOCALLY DOMINANT       | SITUATION: DISPERSED MINORITY               |",
+            "| tribal areas of Assam / North-East| other Scheduled Areas                       |",
+            "+-----------------------------------+---------------------------------------------+",
+            "| INSTRUMENT: SIXTH SCHEDULE        | INSTRUMENT: FIFTH SCHEDULE + machinery      |",
+            "| autonomous districts              | Tribal Advisory Councils                    |",
+            "| district and regional councils    | Article 46 directive                        |",
+            "| some legislative and judicial     | reserved seats and services                 |",
+            "| functions, within the overall     | Commissioner for Scheduled Castes and       |",
+            "| jurisdiction of the legislature   | Scheduled Tribes                            |",
+            "| and Parliament                    |                                             |",
+            "+-----------------------------------+---------------------------------------------+",
+            "STATED OBJECTIVE -> enable tribal people \"to live according to their own ways\"",
+            "OFFER -> the Government of India was willing to amend the provisions to widen autonomy",
+            "BOUND -> but never secession, never independence, never tolerated violence",
+            "RULE -> the two Schedules are NEVER interchangeable; details belong to the Polity owner"
+          ],
+          "source_references": [
+            "Fifth Schedule and Sixth Schedule: two problems, two instruments"
+          ]
+        },
+        {
+          "title": "Where the policy failed: execution, not design",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "FAILURES                                   | GAINS",
+            "1 weak execution of well-intentioned       | literacy and education spread",
+            "  measures                                 | reservations in services and higher education",
+            "2 divergence between central and state     | Panchayati Raj and repeated elections",
+            "  policy                                   | rising political participation and",
+            "3 Tribal Advisory Councils ineffective     |   representation",
+            "4 funds unspent, unproductive or           | demands for a greater share in national",
+            "  misappropriated                          |   economic development",
+            "5 anti-alienation laws evaded -> land loss |",
+            "6 mines, industries and deforestation      |",
+            "  displace and dispossess                  |",
+            "7 a small tribal elite captures the gains  |",
+            "OUTSIDE THE NORTH-EAST -> tribal people remained poor, indebted, landless, often unemployed",
+            "SPLIT VERDICT -> POLITICAL ACCOMMODATION SUCCEEDED | DEVELOPMENTAL DELIVERY DID NOT",
+            "ATTRIBUTION -> the failure is attributed to implementation and neglect, not to the design"
+          ],
+          "source_references": [
+            "The implementation shortfall behind constitutional intent"
+          ]
+        },
+        {
+          "title": "Why the North-East differed, and the NEFA control case",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "REASON 1 DEMOGRAPHY -> over a hundred groups; overwhelming local majority",
+            "                    -> non-tribals had not penetrated to any significant extent",
+            "REASON 2 COLONIAL ADMINISTRATION -> separate administrative status inside Assam province",
+            "                    -> socio-political structure undisturbed; plainsmen barred from buying land",
+            "                    -> LITTLE LOSS OF LAND; missionaries permitted: schools, hospitals, churches",
+            "REASON 3 DETACHMENT -> \"virtual absence of any political or cultural contact\" with Indian",
+            "                    political life; the anti-imperialist bond had little purchase here",
+            "                    -> some missionaries and foreigners promoted separatist sentiment after 1947",
+            "CONTROL CASE -> NEFA created 1948 out of the border areas of Assam",
+            "             -> a Union Territory OUTSIDE Assam's jurisdiction, special cadre of officers",
+            "             -> develop WITHOUT disturbing social and cultural patterns of life",
+            "             -> Nehru's and Elwin's policies \"implemented best of all\" here",
+            "             -> RENAMED ARUNACHAL PRADESH 1972; STATEHOOD 1987",
+            "OCR CAVEAT -> the local book compresses naming and statehood into one 1987 sentence"
+          ],
+          "source_references": [
+            "Why the North-East was a different problem",
+            "NEFA from 1948 and the Sixth Schedule in practice"
+          ]
+        },
+        {
+          "title": "The Naga two-track template, 1955 to 1963",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "1955 -> Phizo-led separatists declare an \"independent government\"; violent insurrection",
+            "        |",
+            "        +--- TRACK 1: REFUSE ------------------+--- TRACK 2: OFFER --------------------+",
+            "        |  secession firmly opposed            |  a large degree of autonomy           |",
+            "        |  no negotiation while independence   |  prolonged negotiation with moderate, |",
+            "        |  and arms are retained               |  non-violent, non-secessionist leaders|",
+            "        |  EARLY 1956 -> army sent to restore  |  conciliation is the stated objective |",
+            "        |  peace and order                     |                                       |",
+            "        +--------------------------------------+---------------------------------------+",
+            "        v",
+            "MID-1957 -> the back of the armed rebellion is broken",
+            "        v",
+            "MODERATES -> Dr Imkongliba Ao and others come forward and negotiate for a state in the union",
+            "        v",
+            "1963 -> THE STATE OF NAGALAND COMES INTO EXISTENCE (within the Union, never independence)",
+            "AFTER -> politics in Nagaland follows the pattern of other states of the union"
+          ],
+          "source_references": [
+            "Nagaland: the 1955 declaration, the army in early 1956 and statehood in 1963"
+          ]
+        },
+        {
+          "title": "A language trigger becomes the reorganisation of 1972",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "GRIEVANCE -> hill tribes have no cultural affinity with Assamese and Bengali plainsmen",
+            "          -> fear of \"Assamization\"; resentment at the attitudes of non-tribal officials",
+            "1960 -> Assamese leaders move to make Assamese the SOLE official language of the state",
+            "1960 -> hill parties merge into the ALL PARTY HILL LEADERS CONFERENCE; separate state demanded",
+            "     -> the Assam Official Language Act triggers hartals, demonstrations, a major agitation",
+            "1962 -> separate-state advocates sweep the tribal-area Assembly seats and boycott the Assembly",
+            "1969 -> constitutional amendment: MEGHALAYA as \"a state within a state\"",
+            "     -> complete autonomy EXCEPT law and order; shared High Court, Public Service Commission,",
+            "        Governor",
+            "1972 -> REORGANISATION OF THE NORTH-EAST",
+            "        MEGHALAYA becomes a separate state (Garo, Khasi and Jaintia tribes)",
+            "        MANIPUR and TRIPURA are simultaneously granted statehood",
+            "        NEFA is renamed ARUNACHAL PRADESH (statehood follows in 1987)",
+            "BRIDGE -> this is where language politics and tribal politics meet directly"
+          ],
+          "source_references": [
+            "From a language trigger to the reorganisation of 1972"
+          ]
+        },
+        {
+          "title": "Mizoram and Jharkhand: two endings, two lessons",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MIZORAM -> the accommodation model, over twenty-one years",
+            "  1959 famine relief failure | 1961 Assamese made the state's official language -> grievance",
+            "  MIZO NATIONAL FRONT formed, LALDENGA president; elections contested, military wing built",
+            "  MAR 1966 independence declared, military uprising, attacks -> crushed within a few weeks",
+            "  1973 demand scaled down to a state within the union -> MIZORAM constituted a UNION TERRITORY",
+            "  1986 ACCORD -> arms surrendered, underground activity abandoned, full statehood granted",
+            "  FEB 1987 LALDENGA SWORN IN AS CHIEF MINISTER",
+            "  CAUTION -> the model case, NOT the universal outcome; no current security claim belongs here",
+            "JHARKHAND -> the demography model, an identity claim that outgrew its own base",
+            "  1950 JHARKHAND PARTY founded by JAIPAL SINGH | 1952 32 SEATS, main opposition in Bihar",
+            "  1957 25 seats | 1962 20 seats -> electoral decline",
+            "  Scheduled Tribes: Chota Nagpur 31.15% (1951) -> 30.94% (1971)",
+            "                    Santhal Parganas 44.67% (1951) -> 36.22% (1971)",
+            "  => nearly TWO-THIRDS of the region non-tribal in 1971",
+            "  1955 SRC refuses a Jharkhand state: \"the region did not have a common language\"",
+            "  1963 Jaipal Singh and much of the leadership join the Congress",
+            "  1972 JHARKHAND MUKTI MORCHA formed; SHIBU SOREN emerges; demand recast as REGIONAL",
+            "  LIMIT -> the shift was never complete; the movement stayed built on tribal identity"
+          ],
+          "source_references": [
+            "Mizoram: March 1966, Union Territory in 1973, Accord in 1986, statehood in February 1987",
+            "Jharkhand: from a tribal state to a regional demand"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-02",
+  "subject": "Governance",
+  "title": "GOVERNMENT POLICY DESIGN AND IMPLEMENTATION",
+  "short_route": "DESIGN AGAINST IMPLEMENTATION → CLEARANCE-POINT ARITHMETIC → FRONTLINE DISCRETION → CONSULTATION AND EX-ANTE DESIGN → PUBLIC EXAMINATIONS ACT CARD → AIMS AGAINST SCOPE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Governance\\learning-sessions\\v2\\subject-wide-syllabus\\governance-02_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-02-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "05c6b16ef34dc894dbf8ed9518c194a1bf4077fe91d20af346b0496eb1228d5e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DESIGN AGAINST IMPLEMENTATION",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DESIGN AGAINST IMPLEMENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN SIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROBLEM DIAGNOSIS, TARGET POPULATION, INCENTIVE, REALISM AGAINST CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTATION SIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLEARANCE POINTS, FRONTLINE DISCRETION, CITIZEN INTERFACE, REMEDY",
+          "role": "primary"
+        },
+        {
+          "text": "SYLLABUS RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CLAUSE NAMES BOTH, SO ANSWER IN TWO LABELLED",
+          "role": "comparison"
+        },
+        {
+          "text": "DESIGN REALISM MULTIPLIED BY CLEARANCE-POINT COUNT MULTIPLIED BY DISCRETION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DESIGN SIDE → problem diagnosis, target population, incentive, realism against capacity",
+        "IMPLEMENTATION SIDE → clearance points, frontline discretion, citizen interface, remedy",
+        "SYLLABUS RULE → the clause names both, so answer in two labelled halves",
+        "GAP → design realism multiplied by clearance-point count multiplied by discretion quality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DESIGN SIDE → problem diagnosis, target population, incentive, realism against capacity",
+            "IMPLEMENTATION SIDE → clearance points, frontline discretion, citizen interface, remedy"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SYLLABUS RULE → the clause names both, so answer in two labelled halves",
+            "GAP → design realism multiplied by clearance-point count multiplied by discretion quality"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DESIGN SIDE → problem diagnosis, target population, incentive, realism against capacity",
+            "IMPLEMENTATION SIDE → clearance points, frontline discretion, citizen interface, remedy"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SYLLABUS RULE → the clause names both, so answer in two labelled halves",
+            "GAP → design realism multiplied by clearance-point count multiplied by discretion quality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYLLABUS RULE → the clause names both, so answer in two labelled halves.",
+      "source_references": [
+        "Locating failure on the policy cycle"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CLEARANCE-POINT ARITHMETIC",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLEARANCE-POINT ARITHMETIC",
+          "role": "primary"
+        },
+        {
+          "text": "EACH APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION, STATE, DISTRICT, PANCHAYAT SIGN-OFF ADDS AN INDEPENDENT POINT",
+          "role": "institution"
+        },
+        {
+          "text": "CUMULATIVE FAILURE PROBABILITY RISES EVEN WHERE EVERY POINT IS",
+          "role": "evidence"
+        },
+        {
+          "text": "A SINGLE-AGENCY CENTRAL-SECTOR SCHEME CARRIES FEWER POINTS BY CONSTRUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "COST OF THE FIX",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOVING POINTS CENTRALISES DECISIONS AND REDUCES LOCAL ADAPTATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "EACH APPROVAL → Union, state, district, panchayat sign-off adds an independent point",
+        "EFFECT → cumulative failure probability rises even where every point is separately likely",
+        "CONTRAST → a single-agency central-sector scheme carries fewer points by construction",
+        "COST OF THE FIX → removing points centralises decisions and reduces local adaptation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "EACH APPROVAL → Union, state, district, panchayat sign-off adds an independent point",
+            "EFFECT → cumulative failure probability rises even where every point is separately likely"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONTRAST → a single-agency central-sector scheme carries fewer points by construction",
+            "COST OF THE FIX → removing points centralises decisions and reduces local adaptation"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EACH APPROVAL → Union, state, district, panchayat sign-off adds an independent point",
+            "EFFECT → cumulative failure probability rises even where every point is separately likely"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONTRAST → a single-agency central-sector scheme carries fewer points by construction",
+            "COST OF THE FIX → removing points centralises decisions and reduces local adaptation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST OF THE FIX → removing points centralises decisions and reduces local adaptation.",
+      "source_references": [
+        "Clearance points and the complexity of joint action"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FRONTLINE DISCRETION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FRONTLINE DISCRETION",
+          "role": "primary"
+        },
+        {
+          "text": "DID FRONTLINE ACTION MATCH THE ORIGINAL DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "FRONTLINE OUTPUT IS THE REAL POLICY REGARDLESS OF DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "COPING ROUTINES",
+          "role": "evidence"
+        },
+        {
+          "text": "RATIONING ATTENTION, CREAMING THE EASIER CASES, INFORMAL RULE-BENDING",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLAINS EXCLUSION ERROR WITHOUT ALLEGING CORRUPTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TOP-DOWN → did frontline action match the original design",
+        "BOTTOM-UP → frontline output is the real policy regardless of design intent",
+        "COPING ROUTINES → rationing attention, creaming the easier cases, informal rule-bending",
+        "PAYOFF → explains exclusion error without alleging corruption"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "TOP-DOWN → did frontline action match the original design",
+          "COPING ROUTINES → rationing attention, creaming the easier cases, informal rule-bending",
+          "TOP-DOWN → did frontline action match the original design",
+          "COPING ROUTINES → rationing attention, creaming the easier cases, informal rule-bending"
+        ],
+        [
+          "BOTTOM-UP → frontline output is the real policy regardless of design intent",
+          "PAYOFF → explains exclusion error without alleging corruption",
+          "BOTTOM-UP → frontline output is the real policy regardless of design intent",
+          "PAYOFF → explains exclusion error without alleging corruption"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TOP-DOWN → did frontline action match the original design",
+            "BOTTOM-UP → frontline output is the real policy regardless of design intent"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COPING ROUTINES → rationing attention, creaming the easier cases, informal rule-bending",
+            "PAYOFF → explains exclusion error without alleging corruption"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TOP-DOWN → did frontline action match the original design",
+            "BOTTOM-UP → frontline output is the real policy regardless of design intent"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COPING ROUTINES → rationing attention, creaming the easier cases, informal rule-bending",
+            "PAYOFF → explains exclusion error without alleging corruption"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COPING ROUTINES → rationing attention, creaming the easier cases, informal rule-bending.",
+      "source_references": [
+        "Street-level bureaucracy",
+        "Coping routines and exclusion without corruption"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONSULTATION AND EX-ANTE DESIGN",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSULTATION AND EX-ANTE DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-LEGISLATIVE CONSULTATION POLICY, 2014, EXECUTIVE AND NOT STATUTORY",
+          "role": "caution"
+        },
+        {
+          "text": "ORDINARY MINIMUM PUBLIC COMMENT PERIOD OF ABOUT THIRTY DAYS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPTH AGAINST COMPLIANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLISHING A DRAFT IS NOT INCORPORATING FEEDBACK",
+          "role": "caution"
+        },
+        {
+          "text": "REGULATORY IMPACT ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EMERGING AND UNEVENLY INSTITUTIONALISED, NOT UNIFORMLY BINDING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLICY → Pre-Legislative Consultation Policy, 2014, executive and not statutory",
+        "WINDOW → ordinary minimum public comment period of about thirty days",
+        "DEPTH AGAINST COMPLIANCE → publishing a draft is not incorporating feedback",
+        "REGULATORY IMPACT ASSESSMENT → emerging and unevenly institutionalised, not uniformly binding"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "POLICY → Pre-Legislative Consultation Policy, 2014, executive and not statutory",
+            "WINDOW → ordinary minimum public comment period of about thirty days"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DEPTH AGAINST COMPLIANCE → publishing a draft is not incorporating feedback",
+            "REGULATORY IMPACT ASSESSMENT → emerging and unevenly institutionalised, not uniformly binding"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLICY → Pre-Legislative Consultation Policy, 2014, executive and not statutory",
+            "WINDOW → ordinary minimum public comment period of about thirty days"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DEPTH AGAINST COMPLIANCE → publishing a draft is not incorporating feedback",
+            "REGULATORY IMPACT ASSESSMENT → emerging and unevenly institutionalised, not uniformly binding"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REGULATORY IMPACT ASSESSMENT → emerging and unevenly institutionalised, not uniformly binding.",
+      "source_references": [
+        "Pre-legislative consultation and its statutory status",
+        "Regulatory impact assessment as an emerging practice"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PUBLIC EXAMINATIONS ACT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PUBLIC EXAMINATIONS ACT CARD",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC EXAMINATIONS (PREVENTION OF UNFAIR MEANS) ACT, 2024",
+          "role": "institution"
+        },
+        {
+          "text": "IN FORCE 21 JUNE 2024 BY NOTIFICATION S.O. 2422(E)",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULED AUTHORITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "UPSC, SSC, RAILWAY RECRUITMENT BOARDS, IBPS, NTA, CENTRAL DEPARTMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "COVERAGE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY-BASED; A STATE BOARD OR UNIVERSITY EXAMINATION IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATUTE → Public Examinations (Prevention of Unfair Means) Act, 2024",
+        "COMMENCEMENT → in force 21 June 2024 by notification S.O. 2422(E)",
+        "SCHEDULED AUTHORITIES → UPSC, SSC, Railway Recruitment Boards, IBPS, NTA, Central departments",
+        "COVERAGE RULE → authority-based; a state board or university examination is not automatic"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "STATUTE → Public Examinations (Prevention of Unfair Means) Act, 2024",
+          "SCHEDULED AUTHORITIES → UPSC, SSC, Railway Recruitment Boards, IBPS, NTA, Central departments",
+          "STATUTE → Public Examinations (Prevention of Unfair Means) Act, 2024",
+          "SCHEDULED AUTHORITIES → UPSC, SSC, Railway Recruitment Boards, IBPS, NTA, Central departments"
+        ],
+        [
+          "COMMENCEMENT → in force 21 June 2024 by notification S.O. 2422(E)",
+          "COVERAGE RULE → authority-based; a state board or university examination is not automatic",
+          "COMMENCEMENT → in force 21 June 2024 by notification S.O. 2422(E)",
+          "COVERAGE RULE → authority-based; a state board or university examination is not automatic"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATUTE → Public Examinations (Prevention of Unfair Means) Act, 2024",
+            "COMMENCEMENT → in force 21 June 2024 by notification S.O. 2422(E)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULED AUTHORITIES → UPSC, SSC, Railway Recruitment Boards, IBPS, NTA, Central departments",
+            "COVERAGE RULE → authority-based; a state board or university examination is not automatic"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUTE → Public Examinations (Prevention of Unfair Means) Act, 2024",
+            "COMMENCEMENT → in force 21 June 2024 by notification S.O. 2422(E)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SCHEDULED AUTHORITIES → UPSC, SSC, Railway Recruitment Boards, IBPS, NTA, Central departments",
+            "COVERAGE RULE → authority-based; a state board or university examination is not automatic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COVERAGE RULE → authority-based; a state board or university examination is not automatic.",
+      "source_references": [
+        "The Public Examinations Act, 2024 and its scope rule"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AIMS AGAINST SCOPE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AIMS AGAINST SCOPE",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENT AND PENALISE PAPER LEAKS, IMPERSONATION AND TAMPERING; PROTECT",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED AUTHORITY, OR A CENTRAL GOVERNMENT NOTIFICATION, OR SEPARATE",
+          "role": "comparison"
+        },
+        {
+          "text": "READING TERRITORIAL EXTENT AS COVERAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER MOVE",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER THE SCOPE HALF SEPARATELY AND EXPLICITLY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AIMS → prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+        "SCOPE → scheduled authority, or a Central Government notification, or separate state law",
+        "ERROR → reading territorial extent as coverage",
+        "ANSWER MOVE → answer the scope half separately and explicitly"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "AIMS → prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+          "ERROR → reading territorial extent as coverage",
+          "AIMS → prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+          "ERROR → reading territorial extent as coverage"
+        ],
+        [
+          "SCOPE → scheduled authority, or a Central Government notification, or separate state law",
+          "ANSWER MOVE → answer the scope half separately and explicitly",
+          "SCOPE → scheduled authority, or a Central Government notification, or separate state law",
+          "ANSWER MOVE → answer the scope half separately and explicitly"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AIMS → prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+            "SCOPE → scheduled authority, or a Central Government notification, or separate state law"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ERROR → reading territorial extent as coverage",
+            "ANSWER MOVE → answer the scope half separately and explicitly"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "AIMS → prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+            "SCOPE → scheduled authority, or a Central Government notification, or separate state law"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ERROR → reading territorial extent as coverage",
+            "ANSWER MOVE → answer the scope half separately and explicitly"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER MOVE → answer the scope half separately and explicitly.",
+      "source_references": [
+        "The Public Examinations Act, 2024 and its scope rule"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SIX-STAGE IMPLEMENTATION MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIX-STAGE IMPLEMENTATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "1 LEGAL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACT, RULE, GUIDELINE OR EXECUTIVE SCHEME, AND WHO IS",
+          "role": "institution"
+        },
+        {
+          "text": "2 RULES AND PROCEDURE",
+          "role": "evidence"
+        },
+        {
+          "text": "ENTITLEMENT, ELIGIBILITY AND PROCESS SPECIFIED",
+          "role": "mechanism"
+        },
+        {
+          "text": "3 AGENCY AND RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED RESPONSIBLE TIER; SANCTIONED AGAINST FILLED POSTS; FUND FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "4 CITIZEN INTERFACE AND REMEDY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 LEGAL AUTHORITY → Act, rule, guideline or executive scheme, and who is bound",
+        "2 RULES AND PROCEDURE → entitlement, eligibility and process specified",
+        "3 AGENCY AND RESOURCES → named responsible tier; sanctioned against filled posts; fund flow",
+        "4 CITIZEN INTERFACE AND REMEDY → awareness, documents, distance, language; appeal and review"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1 LEGAL AUTHORITY → Act, rule, guideline or executive scheme, and who is bound",
+            "2 RULES AND PROCEDURE → entitlement, eligibility and process specified"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "3 AGENCY AND RESOURCES → named responsible tier; sanctioned against filled posts; fund flow",
+            "4 CITIZEN INTERFACE AND REMEDY → awareness, documents, distance, language; appeal and review"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1 LEGAL AUTHORITY → Act, rule, guideline or executive scheme, and who is bound",
+            "2 RULES AND PROCEDURE → entitlement, eligibility and process specified"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "3 AGENCY AND RESOURCES → named responsible tier; sanctioned against filled posts; fund flow",
+            "4 CITIZEN INTERFACE AND REMEDY → awareness, documents, distance, language; appeal and review"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1 LEGAL AUTHORITY → Act, rule, guideline or executive scheme, and who is bound.",
+      "source_references": [
+        "The six-stage implementation map"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ASPIRATIONAL DISTRICTS DESIGN CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ASPIRATIONAL DISTRICTS DESIGN CARD",
+          "role": "primary"
+        },
+        {
+          "text": "INTER-DISTRICT DIVERGENCE; 112 DISTRICTS UNDER NITI AAYOG",
+          "role": "outcome"
+        },
+        {
+          "text": "49 KEY PERFORMANCE INDICATORS ACROSS FIVE NAMED THEMES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGENCE, COLLABORATION WITH THE PRABHARI OFFICER ARRANGEMENT, COMPETITION",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE UNIT",
+          "role": "primary"
+        },
+        {
+          "text": "ASPIRATIONAL BLOCKS PROGRAMME COVERING 513 BLOCKS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "UNIT → inter-district divergence; 112 districts under NITI Aayog",
+        "MEASUREMENT → 49 key performance indicators across five named themes",
+        "LEVERS → convergence, collaboration with the Prabhari officer arrangement, competition",
+        "SEPARATE UNIT → Aspirational Blocks Programme covering 513 blocks"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "UNIT → inter-district divergence; 112 districts under NITI Aayog",
+          "LEVERS → convergence, collaboration with the Prabhari officer arrangement, competition",
+          "UNIT → inter-district divergence; 112 districts under NITI Aayog",
+          "LEVERS → convergence, collaboration with the Prabhari officer arrangement, competition"
+        ],
+        [
+          "MEASUREMENT → 49 key performance indicators across five named themes",
+          "SEPARATE UNIT → Aspirational Blocks Programme covering 513 blocks",
+          "MEASUREMENT → 49 key performance indicators across five named themes",
+          "SEPARATE UNIT → Aspirational Blocks Programme covering 513 blocks"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UNIT → inter-district divergence; 112 districts under NITI Aayog",
+            "MEASUREMENT → 49 key performance indicators across five named themes"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LEVERS → convergence, collaboration with the Prabhari officer arrangement, competition",
+            "SEPARATE UNIT → Aspirational Blocks Programme covering 513 blocks"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNIT → inter-district divergence; 112 districts under NITI Aayog",
+            "MEASUREMENT → 49 key performance indicators across five named themes"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LEVERS → convergence, collaboration with the Prabhari officer arrangement, competition",
+            "SEPARATE UNIT → Aspirational Blocks Programme covering 513 blocks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEPARATE UNIT → Aspirational Blocks Programme covering 513 blocks.",
+      "source_references": [
+        "Aspirational districts: convergence, collaboration, competition"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DELTA RANKING AND ITS LIMIT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DELTA RANKING AND ITS LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "RANK ON THE PACE OF IMPROVEMENT RATHER THAN THE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE HISTORICALLY WORST-OFF DISTRICT IS NOT PERMANENTLY BOTTOM AND",
+          "role": "caution"
+        },
+        {
+          "text": "DASHBOARD DATA IS LARGELY DISTRICT-SELF-REPORTED WITH SELECTIVE VALIDATION",
+          "role": "evidence"
+        },
+        {
+          "text": "AN ADMINISTRATIVE-ATTENTION AND CONVERGENCE INSTRUMENT, NOT A FINANCING INSTRUMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHOICE → rank on the pace of improvement rather than the absolute level",
+        "REASON → the historically worst-off district is not permanently bottom and unmotivated",
+        "LIMIT → dashboard data is largely district-self-reported with selective validation",
+        "READING → an administrative-attention and convergence instrument, not a financing instrument"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHOICE → rank on the pace of improvement rather than the absolute level",
+            "REASON → the historically worst-off district is not permanently bottom and unmotivated"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → dashboard data is largely district-self-reported with selective validation",
+            "READING → an administrative-attention and convergence instrument, not a financing instrument"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHOICE → rank on the pace of improvement rather than the absolute level",
+            "REASON → the historically worst-off district is not permanently bottom and unmotivated"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT → dashboard data is largely district-self-reported with selective validation",
+            "READING → an administrative-attention and convergence instrument, not a financing instrument"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → an administrative-attention and convergence instrument, not a financing instrument.",
+      "source_references": [
+        "Aspirational districts: convergence, collaboration, competition"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CONTRADICTION AS EXTERNALITY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONTRADICTION AS EXTERNALITY",
+          "role": "primary"
+        },
+        {
+          "text": "EACH MINISTRY OPTIMISES ITS OWN OBJECTIVE FUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO SINGLE ACTOR IS ACCOUNTABLE FOR THE AGGREGATE ENVIRONMENTAL",
+          "role": "caution"
+        },
+        {
+          "text": "THE ENVIRONMENTAL COST SITS IN NOBODY'S DEPARTMENTAL PERFORMANCE METRIC",
+          "role": "evidence"
+        },
+        {
+          "text": "SOME CONTRADICTIONS ARE VALUE CONFLICTS, NOT COORDINATION FAILURES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MANDATES → each ministry optimises its own objective function",
+        "GAP → no single actor is accountable for the aggregate environmental outcome",
+        "MECHANISM → the environmental cost sits in nobody's departmental performance metric",
+        "QUALIFICATION → some contradictions are value conflicts, not coordination failures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "MANDATES → each ministry optimises its own objective function",
+            "GAP → no single actor is accountable for the aggregate environmental outcome"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM → the environmental cost sits in nobody's departmental performance metric",
+            "QUALIFICATION → some contradictions are value conflicts, not coordination failures"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MANDATES → each ministry optimises its own objective function",
+            "GAP → no single actor is accountable for the aggregate environmental outcome"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MECHANISM → the environmental cost sits in nobody's departmental performance metric",
+            "QUALIFICATION → some contradictions are value conflicts, not coordination failures"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFICATION → some contradictions are value conflicts, not coordination failures.",
+      "source_references": [
+        "Contradictory sectoral policies and the environmental externality"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COORDINATION AGAINST AUTHORITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COORDINATION AGAINST AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "PM GATISHAKTI",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED GEOGRAPHIC-INFORMATION-SYSTEM LAYER FOR MULTI-MODAL CONNECTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "REMOVES SEQUENCING FAILURE AND LOWERS PRIVATE-SECTOR INFORMATION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "COORDINATES INFORMATION, NOT AUTHORITY OVER LAND, UTILITIES AND APPROVALS",
+          "role": "caution"
+        },
+        {
+          "text": "PARTNERSHIP CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "RISK ALLOCATION, COMPETITIVE PROCUREMENT, PERFORMANCE PAYMENT, EXIT RULES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PM GATISHAKTI → shared geographic-information-system layer for multi-modal connectivity",
+        "GAIN → removes sequencing failure and lowers private-sector information risk",
+        "LIMIT → coordinates information, not authority over land, utilities and approvals",
+        "PARTNERSHIP CHAIN → risk allocation, competitive procurement, performance payment, exit rules"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "PM GATISHAKTI → shared geographic-information-system layer for multi-modal connectivity",
+          "LIMIT → coordinates information, not authority over land, utilities and approvals",
+          "PM GATISHAKTI → shared geographic-information-system layer for multi-modal connectivity",
+          "LIMIT → coordinates information, not authority over land, utilities and approvals"
+        ],
+        [
+          "GAIN → removes sequencing failure and lowers private-sector information risk",
+          "PARTNERSHIP CHAIN → risk allocation, competitive procurement, performance payment, exit rules",
+          "GAIN → removes sequencing failure and lowers private-sector information risk",
+          "PARTNERSHIP CHAIN → risk allocation, competitive procurement, performance payment, exit rules"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PM GATISHAKTI → shared geographic-information-system layer for multi-modal connectivity",
+            "GAIN → removes sequencing failure and lowers private-sector information risk"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → coordinates information, not authority over land, utilities and approvals",
+            "PARTNERSHIP CHAIN → risk allocation, competitive procurement, performance payment, exit rules"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PM GATISHAKTI → shared geographic-information-system layer for multi-modal connectivity",
+            "GAIN → removes sequencing failure and lowers private-sector information risk"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT → coordinates information, not authority over land, utilities and approvals",
+            "PARTNERSHIP CHAIN → risk allocation, competitive procurement, performance payment, exit rules"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARTNERSHIP CHAIN → risk allocation, competitive procurement, performance payment, exit rules.",
+      "source_references": [
+        "PM GatiShakti and public-private coordination"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TARGETING AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TARGETING AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "TIGHTER VERIFICATION LOWERS INCLUSION ERROR AND RAISES EXCLUSION ERROR",
+          "role": "outcome"
+        },
+        {
+          "text": "FIX THE TOLERABLE EXCLUSION ERROR FIRST FOR SUBSISTENCE ENTITLEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE ROUTED DEMAND SITS WITH THE BASIC OWNER; THREE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAME THE STALLING STAGE, ATTACH ONE CORRECTIVE AND STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "TRADE-OFF → tighter verification lowers inclusion error and raises exclusion error",
+        "RULE → fix the tolerable exclusion error first for subsistence entitlements; add assisted fallback",
+        "OWNERSHIP → one routed demand sits with the Basic owner; three sit with the Advanced",
+        "CLOSE → name the stalling stage, attach one corrective and state its cost"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TRADE-OFF → tighter verification lowers inclusion error and raises exclusion error",
+            "RULE → fix the tolerable exclusion error first for subsistence entitlements; add assisted fallback"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OWNERSHIP → one routed demand sits with the Basic owner; three sit with the Advanced owner",
+            "CLOSE → name the stalling stage, attach one corrective and state its cost"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRADE-OFF → tighter verification lowers inclusion error and raises exclusion error",
+            "RULE → fix the tolerable exclusion error first for subsistence entitlements; add assisted fallback"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "OWNERSHIP → one routed demand sits with the Basic owner; three sit with the Advanced owner",
+            "CLOSE → name the stalling stage, attach one corrective and state its cost"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → fix the tolerable exclusion error first for subsistence entitlements; add assisted fallback.",
+      "source_references": [
+        "Targeting error and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BOTTOM-UP THEORISTS WOULD ARGUE THE PUBLIC EXAMINATIONS ACT'S REAL",
+          "role": "institution"
+        },
+        {
+          "text": "THE \"CLEARANCE POINT\" LOGIC EXPLAINS WHY CENTRALLY SPONSORED SCHEMES",
+          "role": "comparison"
+        },
+        {
+          "text": "LIPSKY'S \"CREAMING\" CONCEPT (FRONTLINE OFFICIALS FAVOURING EASIER-TO-SERVE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE PRE-LEGISLATIVE CONSULTATION POLICY (2014) IS THE PRINCIPAL UNION-LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "REGULATORY IMPACT ASSESSMENT REMAINS UNEVENLY INSTITUTIONALISED ACROSS INDIAN",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PUBLIC EXAMINATIONS (PREVENTION OF UNFAIR MEANS) ACT, 2024",
+          "role": "institution"
+        },
+        {
+          "text": "CONVERGENCE COMMITTEES AT DISTRICT/PANCHAYAT LEVEL (SEE 12, 14) ARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INSTITUTIONAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Bottom-up theorists would argue the Public Examinations Act's real test is not its",
+            "CAUTION: The \"clearance point\" logic explains why centrally sponsored schemes requiring",
+            "CAUTION: Lipsky's \"creaming\" concept (frontline officials favouring easier-to-serve",
+            "The Pre-Legislative Consultation Policy (2014) is the principal Union-level formulation"
+          ]
+        },
+        {
+          "heading": "STATUS / DATA CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Regulatory Impact Assessment remains unevenly institutionalised across Indian",
+            "The Public Examinations (Prevention of Unfair Means) Act, 2024 itself illustrates",
+            "CAUTION: Convergence committees at district/Panchayat level (see 12, 14) are the institutional",
+            "CAUTION: Public healthcare marketisation (2024 PYQ, Q17): analytically, this is a design-stage"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case: a well-designed law that skips genuine stakeholder consultation (formal",
+            "CAUTION: The Public Examinations Act's University/State Education Board coverage question (2024",
+            "CAUTION: Reducing clearance points (faster, more centralised decision-making) can improve speed",
+            "CAUTION: Granting street-level discretion allows humane adaptation to local circumstances but"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

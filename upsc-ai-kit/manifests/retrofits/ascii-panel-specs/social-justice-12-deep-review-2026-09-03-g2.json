@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "social-justice-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "social_justice_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-12",
+      "display_title": "Elderly and Senior Citizens",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three limbs of ageing policy",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NEED -> income security, health and continuing care, safety and dignity in the household",
+            "-> LEGAL LIMB: maintenance obligation; tribunal; conditional property remedy; home direction",
+            "-> WELFARE LIMB: umbrella scheme with five recorded components",
+            "-> HEALTH LIMB: geriatric programme; age-based hospitalisation route for those aged seventy plus",
+            "TEST -> dignity, security, participation and intergenerational equity",
+            "MUST REMEMBER: Ageing policy must integrate income security, health and long-term care,..."
+          ],
+          "source_references": [
+            "What this owner holds and how its routed demand is divided",
+            "The geriatric limb of the health system",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Statutory definitions",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "SENIOR CITIZEN -> Section 2(h): a citizen of India who has attained the age of sixty years",
+            "MAINTENANCE -> food, clothing, residence, and medical attendance and treatment",
+            "OBLIGED -> children of the parent or senior citizen",
+            "ALSO OBLIGED -> relatives who are or who will be legal heirs of the property",
+            "REASON -> the heirship link covers childless senior citizens whom a parental link would miss"
+          ],
+          "source_references": [
+            "Who is a senior citizen and what maintenance means",
+            "Who owes the obligation",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tribunal design",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "FORUM -> Maintenance Tribunal in every sub-division; summary adjudication",
+            "APPLICANT -> the senior citizen or a person authorised on their behalf",
+            "TIME -> ordinarily decided within ninety days, extendable in exceptional circumstances",
+            "CEILING -> a State-prescribed allowance cannot exceed ₹10,000 per month",
+            "TRADE-OFF -> summary access raises reach; the ceiling limits adequacy"
+          ],
+          "source_references": [
+            "The tribunal and the ceiling on its order",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Property remedy ladder",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "STEP 1 -> the senior citizen transfers property by gift or otherwise",
+            "STEP 2 -> the transfer is subject to the condition of basic amenities and physical needs",
+            "STEP 3 -> the transferee refuses or fails to provide them",
+            "STEP 4 -> the transfer may be declared void at the option of the senior citizen",
+            "LIMIT -> without the condition there is no revocation route under this section"
+          ],
+          "source_references": [
+            "The property-revocation remedy and its condition",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Legislative status ledger",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2007 -> the Maintenance and Welfare of Parents and Senior Citizens Act is enacted",
+            "DECEMBER 2019 -> amendment Bill introduced: dignity definition, penalties, income deduction",
+            "LAPSED -> that Bill fell with the dissolution of that Lok Sabha and was never enacted",
+            "2025 -> Private Members' Bills introduced in the Lok Sabha and the Rajya Sabha",
+            "AS AT 21 JULY 2026 -> neither is enacted; the 2007 Act remains the law in force"
+          ],
+          "source_references": [
+            "Enacted law against proposed amendment",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ministry statement card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PURPOSE -> a scheme to improve the quality of life of senior citizens",
+            "MEANS -> shelter, food, medical care and entertainment opportunities",
+            "PLUS -> encouraging productive and active ageing through capacity building",
+            "PARTNERS -> States and Union Territories, non-governmental organisations, Panchayati Raj",
+            "GOALS -> financial security; health and nutrition; shelter; protection of life and property"
+          ],
+          "source_references": [
+            "The ministry's own account of the umbrella scheme",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Five recorded components",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "INTEGRATED PROGRAMME -> maintenance of senior-citizen homes for indigent senior citizens",
+            "STATE ACTION PLAN -> each State frames a five-year strategy and annual action plans",
+            "DEVICE SCHEME -> Central Sector; assisted-living devices for age-related infirmity",
+            "PRODUCTIVE ENGAGEMENT -> a portal matching experienced seniors with enterprises",
+            "AGED-CARE ENGINE -> identify, evaluate, verify, aggregate and deliver products and services"
+          ],
+          "source_references": [
+            "The five components recorded on that page",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Device eligibility card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "AGE -> sixty years and above",
+            "CONDITION -> suffering from an age-related disability or infirmity",
+            "MEANS TEST -> below the poverty line, or family income up to ₹15,000 per month",
+            "QUALITY -> devices conforming to Bureau of Indian Standards specifications where applicable",
+            "BOUNDARY -> targeted assistance, not a universal entitlement of old age"
+          ],
+          "source_references": [
+            "What the assistive-device component actually requires",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Income floor",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CENTRAL ASSISTANCE -> ₹200 per month for eligible below-poverty-line persons aged 60 to 79",
+            "CENTRAL ASSISTANCE -> ₹500 per month for those aged eighty and above",
+            "STATE TOP-UP -> varies by State and is a separate component",
+            "ERROR -> presenting a State's higher combined amount as the national figure",
+            "CONCEPT -> an assistance floor, not an earnings-replacement pension"
+          ],
+          "source_references": [
+            "The old-age pension floor and how to use it",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Care continuum gap",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "HOSPITALISATION -> age-based route covering every citizen aged seventy and above",
+            "NOT COVERED BY IT -> outpatient care, rehabilitation, palliative care, long-term care",
+            "PRIMARY AND SECONDARY -> limited geriatric capacity; needs managed informally or in tertiary",
+            "COORDINATION -> integration between the social-justice and health ministries is weak",
+            "RESULT -> an integration failure rather than an absence of schemes",
+            "CLOSE DISTINCTION: Senior citizen is a statutory or programme category, not a homogeneous..."
+          ],
+          "source_references": [
+            "The geriatric limb of the health system",
+            "The care economy under demographic and household change",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Abuse typology and suppressors",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "PHYSICAL -> violence and restraint",
+            "FINANCIAL AND PROPERTY -> coerced transfer, theft, misuse of funds",
+            "EMOTIONAL -> verbal aggression, isolation, humiliation",
+            "NEGLECT -> failure to provide care, extending to abandonment",
+            "SUPPRESSORS -> dependence on the abuser, shame, family loyalty, fear of abandonment, stigma",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the Maintenance and Welfare of Parents..."
+          ],
+          "source_references": [
+            "Elder abuse as a typology, not a single act",
+            "Why elder abuse is under-reported",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Demographic series",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1951 -> 1.98 crore elderly persons, as recorded on the scheme page",
+            "2001 -> 7.6 crore, as recorded on the same page",
+            "2011 -> 10.38 crore, as recorded on the same page",
+            "PROJECTED 2021 -> 14.3 crore; PROJECTED 2026 -> 17.3 crore, recorded as projections",
+            "RULE -> cite a recorded count as a count and a projection as a projection"
+          ],
+          "source_references": [
+            "The official demographic series and the projection boundary",
+            "The verified previous-year ownership stated precisely",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g2\\social-justice-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

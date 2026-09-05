@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "World History learner-v2 Topics 01-02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-01",
+      "display_title": "Enlightenment and Age of Revolutions Overview",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\01_Enlightenment-and-Age-of-Revolutions-Overview_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Enlightenment starting condition",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "INHERITED AUTHORITY -> Church, dynasty, privilege by birth",
+            "NEW TEST -> reason, nature, humanity, freedom, happiness",
+            "POLITICAL QUESTION -> by what right does power command?",
+            "RESULT -> authority must justify itself in public terms"
+          ],
+          "source_references": [
+            "The eighteenth-century intellectual break"
+          ]
+        },
+        {
+          "title": "Thinker-to-institution map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LOCKE -> natural rights + consent -> limited government",
+            "MONTESQUIEU -> separation of powers -> constitutional restraint",
+            "ROUSSEAU -> popular sovereignty -> people as source of authority",
+            "VOLTAIRE -> clerical criticism -> secular public debate"
+          ],
+          "source_references": [
+            "Locke: rights, consent and limited rule",
+            "Montesquieu: power checked by power",
+            "Rousseau and popular sovereignty"
+          ]
+        },
+        {
+          "title": "Ideas, crisis and force",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "IDEAS -> make inherited privilege illegitimate",
+            "CRISIS -> fiscal stress, food stress, imperial grievance",
+            "MOBILISATION -> assemblies, pamphlets, crowds, organised groups",
+            "REVOLUTION -> legitimacy + momentum + force must interact"
+          ],
+          "source_references": [
+            "From ideas to revolutionary action"
+          ]
+        },
+        {
+          "title": "Parallel Atlantic routes",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AMERICA -> external empire challenged -> federal republic",
+            "FRANCE -> internal privilege challenged -> social-legal rupture",
+            "SHARED -> rights, consent, sovereignty, constitutional argument",
+            "DIFFERENCE -> America broke a link; France broke a structure"
+          ],
+          "source_references": [
+            "America and France on the same axes"
+          ]
+        },
+        {
+          "title": "Rights and exclusions ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "UNIVERSAL CLAIM -> rights belong to human beings or citizens",
+            "EARLY BOUNDARY -> property, race, sex and colonial status restrict membership",
+            "CONTRADICTION -> proclaimed equality outruns political practice",
+            "LEGACY -> excluded groups later use the same grammar to demand entry"
+          ],
+          "source_references": [
+            "The American constitutional route",
+            "The French social-revolutionary route"
+          ]
+        },
+        {
+          "title": "Liberalism versus conservatism",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LIBERALISM -> consent, rights, law, representation",
+            "CONSERVATISM -> order, property, religion, gradual change",
+            "LIBERAL RISK -> restricted franchise and imperial compatibility",
+            "CONSERVATIVE RISK -> censorship and dynastic repression"
+          ],
+          "source_references": [
+            "Liberalism and conservatism"
+          ]
+        },
+        {
+          "title": "Nationalism's changing alliances",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CORE -> nation claimed as proper unit of sovereignty",
+            "LIBERAL ALLIANCE -> constitutions and national self-rule",
+            "CONSERVATIVE USE -> state-led unification and discipline",
+            "LATER FORMS -> racial, imperial and anti-colonial nationalisms"
+          ],
+          "source_references": [
+            "Nationalism as a mobile doctrine"
+          ]
+        },
+        {
+          "title": "Capitalism's social mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PRIVATE OWNERSHIP + PROFIT -> investment and factory production",
+            "WAGE LABOUR -> workers depend on employers for livelihood",
+            "OUTPUT GROWTH -> productive capacity and consumption expand",
+            "UNREGULATED COST -> insecurity, long hours and class conflict"
+          ],
+          "source_references": [
+            "Capitalism and industrial society"
+          ]
+        },
+        {
+          "title": "Socialist family tree",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SOCIALISM -> social ownership or control; many methods",
+            "COMMUNISM -> revolution + central planning + one-party practice",
+            "SOCIAL DEMOCRACY -> elections + regulation + redistribution",
+            "TEST -> ask who owns, who decides and by what method"
+          ],
+          "source_references": [
+            "Socialism, communism and social democracy"
+          ]
+        },
+        {
+          "title": "Labour pressure becomes law",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1824 -> England repeals anti-union laws",
+            "1830s-40s -> Chartism links labour to franchise",
+            "TRADE UNIONS -> collective bargaining enters modern politics",
+            "FACTORY LAW -> laissez-faire yields to evidence of harm"
+          ],
+          "source_references": [
+            "Trade unions and the constitutional social question"
+          ]
+        },
+        {
+          "title": "Welfare-state causal synthesis",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "PROGRAMME -> socialist and labour demands for security",
+            "OPENING -> depression destroys private safeguards",
+            "CAPACITY -> total war expands administration and solidarity",
+            "OUTPUT -> Social Security 1935; Beveridge Report 1942"
+          ],
+          "source_references": [
+            "The welfare-state synthesis and final verdict"
+          ]
+        },
+        {
+          "title": "Overview answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> Enlightenment climate or named doctrine",
+            "EVIDENCE -> thinker, document, institution and social base",
+            "ANALYSE -> form, timing, depth and effect on society",
+            "QUALIFY -> exclusions, variant forms and non-linear outcomes"
+          ],
+          "source_references": [
+            "The welfare-state synthesis and final verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "world-history-02",
+      "display_title": "American Revolution",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\02_American-Revolution_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Imperial grievance system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "1763 WAR DEBT -> tighter British taxation and regulation",
+            "MERCANTILISM -> shipping, market and manufacturing constraints",
+            "WESTWARD LIMITS -> land grievance plus Native dispossession",
+            "ASSEMBLIES -> existing institutions convert grievance into resistance"
+          ],
+          "source_references": [
+            "Post-1763 imperial reordering"
+          ]
+        },
+        {
+          "title": "Constitutional taxation dispute",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "BRITISH CLAIM -> Parliament may tax the colonies",
+            "COLONIAL CLAIM -> assemblies represent colonial taxpayers",
+            "STAMP ACT 1765 -> principle becomes explicit",
+            "OUTCOME -> fiscal protest becomes a sovereignty dispute"
+          ],
+          "source_references": [
+            "Taxation without representation"
+          ]
+        },
+        {
+          "title": "Protest becomes common action",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1773 -> Boston Tea Party",
+            "1774 -> First Continental Congress, Philadelphia",
+            "1775 -> Lexington and Concord",
+            "1776 -> Declaration turns resistance into independence"
+          ],
+          "source_references": [
+            "Boston resistance and inter-colonial coordination",
+            "From Lexington to independence"
+          ]
+        },
+        {
+          "title": "Three actors, three functions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "JEFFERSON -> drafts the Declaration",
+            "PAINE -> Common Sense supplies popular ideological force",
+            "WASHINGTON -> commands American armies",
+            "RULE -> do not exchange authorship, argument and command"
+          ],
+          "source_references": [
+            "Jefferson, Paine and Washington"
+          ]
+        },
+        {
+          "title": "War internationalises",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "SARATOGA 1777 -> colonial survival becomes credible",
+            "FRENCH ALLIANCE 1778 -> money, arms, fleet and wider war",
+            "BRITAIN -> faces pressure beyond North America",
+            "YORKTOWN 1781 -> decisive military turning point"
+          ],
+          "source_references": [
+            "Saratoga and internationalisation"
+          ]
+        },
+        {
+          "title": "Victory, recognition, constitution",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "YORKTOWN 1781 -> military decision",
+            "TREATY OF PARIS 1783 -> legal recognition",
+            "CONSTITUTION 1789 -> durable federal state form",
+            "BILL OF RIGHTS -> liberties entrenched against government"
+          ],
+          "source_references": [
+            "Yorktown and the Paris settlement",
+            "Written federal constitutionalism"
+          ]
+        },
+        {
+          "title": "Declaration versus Constitution",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DECLARATION 1776 -> why independence is legitimate",
+            "ARTICLES PHASE 1781 -> states cooperate under weak union",
+            "CONSTITUTION 1789 -> how federal power is organised",
+            "BILL OF RIGHTS -> what government is forbidden to violate"
+          ],
+          "source_references": [
+            "The Articles-era problem",
+            "Written federal constitutionalism"
+          ]
+        },
+        {
+          "title": "Political revolution ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EMPIRE -> rejected",
+            "MONARCHY -> replaced by federal republic",
+            "WRITTEN CONSTITUTION -> state powers placed in a text",
+            "RIGHTS -> become standards of legitimate government"
+          ],
+          "source_references": [
+            "What was genuinely revolutionary"
+          ]
+        },
+        {
+          "title": "Social limits ledger",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SLAVERY -> survives",
+            "FRANCHISE -> property and status restrictions remain",
+            "WOMEN -> no equivalent political citizenship",
+            "NATIVE PEOPLES -> expansion intensifies dispossession"
+          ],
+          "source_references": [
+            "Rights and exclusions"
+          ]
+        },
+        {
+          "title": "World-historical export",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ANTI-IMPERIAL CLAIM -> rebellion justified through rights",
+            "REPUBLIC -> survives war and diplomatic recognition",
+            "WRITTEN CONSTITUTION -> becomes an exportable state model",
+            "INFLUENCE -> France, Europe and Latin America observe the precedent"
+          ],
+          "source_references": [
+            "The international republican precedent"
+          ]
+        },
+        {
+          "title": "America versus France",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AMERICA -> breaks external imperial authority",
+            "FRANCE -> attacks internal privilege and feudal order",
+            "AMERICA -> constitutional stability",
+            "FRANCE -> deeper social rupture and radicalisation"
+          ],
+          "source_references": [
+            "America and France compared"
+          ]
+        },
+        {
+          "title": "Qualified American verdict",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CAUSE -> empire, taxation, assemblies, rights",
+            "COURSE -> protest, war, alliance, treaty",
+            "CREATION -> written federal republic",
+            "QUALIFICATION -> slavery and exclusion survive"
+          ],
+          "source_references": [
+            "Integrated verdict: radical and conservative"
+          ]
+        }
+      ]
+    }
+  ]
+}

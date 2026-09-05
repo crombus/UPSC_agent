@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-29T07:25:02.211671+00:00",
+  "status": "passed",
+  "targeted_tests": {
+    "command": "python -m pytest -q tools/test_export_four_item_library.py tools/test_v2_export_foundation.py tools/test_v2_section_indexes.py",
+    "result": "65 passed",
+    "warnings": [
+      "RequestsDependencyWarning only; no test failure"
+    ]
+  },
+  "nine_topic_reconciliation": {
+    "command": "python tools/export_four_item_library.py --topics <nine Indian Philosophy keys> --dry-run",
+    "topic_count": 9,
+    "subject_count": {
+      "Philosophy Optional": 9
+    },
+    "section_count": {
+      "Philosophy Paper I — Indian Philosophy": 9
+    },
+    "latest_identities": [
+      "g15",
+      "g14",
+      "g14",
+      "g14",
+      "g14",
+      "g3",
+      "g3",
+      "g3",
+      "g3"
+    ],
+    "zero_mismatches": true
+  },
+  "four_item_export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-29-validation.json",
+  "all_approval_false": true
+}

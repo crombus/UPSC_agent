@@ -1,0 +1,293 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-10",
+      "display_title": "Jainism and Buddhism",
+      "active_generation": 16,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Sixth-century BCE shramana field",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "AGRARIAN SURPLUS + CITIES + MAHAJANAPADAS + MERCHANTS + RITUAL QUESTIONING",
+            "                                      |",
+            "                                      v",
+            "                              SHRAMANA FIELD",
+            "       +----------------------+----------------------+-------------------+",
+            "       |                      |                      |                   |",
+            "     JAINA                 BUDDHIST                AJIVIKA          other schools",
+            "       +----------------------+----------------------+-------------------+",
+            "                                      v",
+            "Heterodoxy is not one anti-Brahmana bloc; doctrines and disciplines differ."
+          ],
+          "source_references": [
+            "SESSION 1 - SIXTH-CENTURY BCE SETTING",
+            "SESSION 2 - THE SHRAMANA FIELD",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Jain cosmos, bondage and liberation",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "JIVA (conscious) + AJIVA (non-conscious) -> beginningless cosmos without creator",
+            "                         |",
+            "                         v",
+            "action/passions attract karmic matter -> bondage and repeated birth",
+            "                         |",
+            "                         v",
+            "samvara stops influx + nirjara sheds karma -> kevala-jnana -> moksha",
+            "                         |",
+            "                         v",
+            "Liberation is purification of an enduring individual soul, not annihilation."
+          ],
+          "source_references": [
+            "SESSION 5 - JAIN ONTOLOGY",
+            "SESSION 6 - JAIN KARMA, BONDAGE AND LIBERATION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Jain path and many-sided knowledge",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "TRIRATNA: right faith + right knowledge + right conduct",
+            "                         |",
+            "                         v",
+            "FIVE VOWS: ahimsa | satya | asteya | brahmacharya | aparigraha",
+            "monastic mahavrata = rigorous | lay anuvrata = limited practicable form",
+            "                         |",
+            "                         v",
+            "ANEKANTAVADA -> NAYAVADA standpoints -> SYADVADA qualified predication",
+            "Many-sidedness disciplines claims; it does not make contradictions equally true."
+          ],
+          "source_references": [
+            "SESSION 7 - JAIN TRIRATNA, FIVE VOWS",
+            "SESSION 8 - ANEKANTAVADA, SYADVADA AND NAYAVADA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Jain community, canon and spread",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "Parshvanatha -> Mahavira -> fourfold sangha -> councils/redactions -> sects",
+            "23rd Tirthankara 24th      monks/nuns/lay     Pataliputra/Valabhi  Digambara/Shvetambara",
+            "                         |",
+            "                         v",
+            "patronage and merchants -> Mathura, western India, Karnataka -> temples/literature",
+            "Sect differences include clothing, canon and liberation questions.",
+            "Avoid reducing separation to one famine story or treating all traditions as identical."
+          ],
+          "source_references": [
+            "SESSION 3 - PRE-MAHAVIRA JAIN TRADITION",
+            "SESSION 4 - MAHAVIRA",
+            "SESSION 9 - JAIN SANGHA",
+            "SESSION 10 - JAIN COUNCILS",
+            "SESSION 11 - DIGAMBARA, SHVETAMBARA",
+            "SESSION 12 - JAIN SPREAD",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Buddhist diagnosis and disciplined path",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "DUKKHA -> SAMUDAYA (craving/ignorance) -> NIRODHA -> EIGHTFOLD PATH",
+            "                                                  |",
+            "             +----------------+-------------------+",
+            "             |                |                   |",
+            "wisdom: view/intention   ethics: speech/action/livelihood   meditation: effort/mindfulness",
+            "                                                  |",
+            "                                                  v",
+            "MIDDLE WAY rejects indulgence and self-mortification; nirvana ends causes of dukkha."
+          ],
+          "source_references": [
+            "SESSION 13 - THE BUDDHA",
+            "SESSION 14 - FOUR NOBLE TRUTHS",
+            "SESSION 15 - EIGHTFOLD PATH, MIDDLE WAY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Dependent origination and no-self",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "ignorance -> formations -> consciousness -> name-form -> six senses -> contact",
+            "-> feeling -> craving -> clinging -> becoming -> birth -> ageing-and-death",
+            "                         |",
+            "                         v",
+            "conditioned arising explains continuity without eternal atman or first creator.",
+            "aggregates: form, feeling, perception, formations, consciousness -> impermanent/anatta",
+            "karma preserves ethical causation through process; nirvana is not physical death."
+          ],
+          "source_references": [
+            "SESSION 16 - DEPENDENT ORIGINATION",
+            "SESSION 17 - IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Buddhist sangha, councils and canons",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "BUDDHA/DHAMMA -> monastic SANGHA under VINAYA <-> lay gifts, merit and protection",
+            "                         |",
+            "                         v",
+            "conventional councils: Rajagriha -> Vaishali -> Pataliputra -> regional recensions",
+            "                         |",
+            "                         v",
+            "Pali Tipitaka: Vinaya + Sutta + Abhidhamma; other witnesses survive in Sanskrit,",
+            "Chinese and Tibetan traditions. Councils are sectarian memories, not court minutes.",
+            "Women ordain, but institutional hierarchy and textual debate remain."
+          ],
+          "source_references": [
+            "SESSION 18 - SANGHA, VINAYA, LAY SUPPORT",
+            "SESSION 19 - WOMEN, SOCIAL ACCESS",
+            "SESSION 20 - BUDDHIST COUNCILS",
+            "SESSION 21 - BUDDHIST CANONS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Buddhist developments: schools to Vajrayana",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "EARLY SCHOOLS -> MAHAYANA -> MADHYAMAKA/YOGACARA -> VAJRAYANA",
+            "Vinaya/Abhidharma  bodhisattva ideal  emptiness/mind debates  mantra/mandala/tantra",
+            "multiple nikayas   new sutras         philosophy systems       ritual monasteries",
+            "                         |",
+            "                         v",
+            "Theravada is one surviving early tradition; Hinayana is a polemical label, not synonym.",
+            "Maitreya/paramitas fit Mahayana; Vajrayana is a later development."
+          ],
+          "source_references": [
+            "SESSION 22 - EARLY SCHOOLS AND THE THERAVADA-HINAYANA FIREWALL",
+            "SESSION 23 - MAHAYANA",
+            "SESSION 24 - MADHYAMAKA AND YOGACARA",
+            "SESSION 25 - VAJRAYANA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Networks, material culture and outcomes",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "GANGA HEARTLAND -> stupas/monasteries -> trade routes and political patronage",
+            "Mauryan/post-Mauryan support -> Sanchi, Bharhut and caves -> donors/artisans",
+            "NORTH-WEST/CENTRAL ASIA -> Silk routes -> China -> Korea/Japan",
+            "SRI LANKA -> Theravada transmission -> Southeast Asian histories",
+            "JAIN NETWORKS -> Mathura/western India/Deccan/Karnataka -> temples/manuscripts",
+            "                         |",
+            "                         v",
+            "Buddhism later declined/absorbed in India as patronage and monastery networks changed;",
+            "Jainism persisted through lay institutions, regional patrons and adaptive communities."
+          ],
+          "source_references": [
+            "SESSION 26 - WHY THE TRADITIONS BECAME POPULAR",
+            "SESSION 27 - PATRONAGE NETWORKS",
+            "SESSION 28 - REGIONAL AND INTERNATIONAL SPREAD",
+            "SESSION 29 - STUPAS, CAVES, MONASTERIES, IMAGES",
+            "SESSION 31 - BUDDHISM DECLINE",
+            "SESSION 32 - WHY JAINISM PERSISTED",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Jainism-Buddhism comparison and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Define the shramana setting and identify each source tradition.",
+            "2. Connect doctrine -> institution -> social base -> patronage -> spread.",
+            "3. Compare Jain jiva and restraint with Buddhist anatta and Middle Path.",
+            "VERDICT: Shared context produced distinct paths, institutions and trajectories."
+          ],
+          "source_references": [
+            "SESSION 30 - JAINISM AND BUDDHISM: A CONTROLLED COMPARISON",
+            "SESSION 33 - HISTORIOGRAPHY AND EVIDENCE LIMITS",
+            "SESSION 35 - CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. Canonical texts preserve layered doctrine, discipline and sect memory.",
+            "2. Inscriptions identify donors and institutions, not total populations.",
+            "3. Archaeology maps practice and networks but cannot read belief directly.",
+            "VERDICT: Triangulate text, inscription and material context at matching scales."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Traditional dates and council narratives require school-specific labels.",
+            "2. Jain jiva is not Buddhist anatta; Theravada is not a synonym for Hinayana.",
+            "3. Ashoka aided Buddhism but did not create or single-handedly spread it.",
+            "VERDICT: Reject single-cause rise, one-event sect splits and total disappearance."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g15\\ancient-indian-history-10_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g16\\ancient-indian-history-10_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

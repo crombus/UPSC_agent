@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-12",
+      "display_title": "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Government of India Act 1858 in post-1858 Crown rule",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Government of India Act 1858",
+            "EVIDENCE -> The Government of India Act 1858 ended Company rule and abolished the Board of",
+            "            Control.",
+            "EXAM USE -> use Government of India Act 1858 to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Government of India Act 1858 to another institution or theatre.",
+            "MUST REMEMBER: The 1858 Crown transfer, Indian Councils Acts 1861 and 1892, Morley-Minto",
+            "  reforms of 1909, army reorganisation and the princely-state settlement changed different",
+            "  governing relationships."
+          ],
+          "source_references": [
+            "Government of India Act 1858",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Secretary of State for India in post-1858 Crown rule",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Secretary of State for India",
+            "EVIDENCE -> A British Cabinet minister, the Secretary of State for India controlled Indian",
+            "            affairs from London.",
+            "EXAM USE -> use Secretary of State for India to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Secretary of State for India to another institution or theatre."
+          ],
+          "source_references": [
+            "Secretary of State for India",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Council of India in post-1858 Crown rule",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Council of India",
+            "EVIDENCE -> The Secretary of State was assisted by a fifteen-member Council of India.",
+            "EXAM USE -> use Council of India to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Council of India to another institution or theatre."
+          ],
+          "source_references": [
+            "Council of India",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Viceroy in post-1858 Crown rule",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Viceroy",
+            "EVIDENCE -> The Governor-General also became the Crown's Viceroy, and Canning was the first",
+            "            Viceroy.",
+            "EXAM USE -> use Viceroy to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Viceroy to another institution or theatre."
+          ],
+          "source_references": [
+            "Viceroy",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Queen's Proclamation in post-1858 Crown rule",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Queen's Proclamation",
+            "EVIDENCE -> The 1858 Proclamation promised religious non-interference, treaty respect and",
+            "            formal equality in public employment.",
+            "EXAM USE -> use Queen's Proclamation to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Queen's Proclamation to another institution or theatre."
+          ],
+          "source_references": [
+            "Queen's Proclamation",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Princes after 1858 in post-1858 Crown rule",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Princes after 1858",
+            "EVIDENCE -> The Raj ended Lapse-style annexation and used treaty guarantees to turn princes",
+            "            into protected but subordinate allies.",
+            "EXAM USE -> use Princes after 1858 to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Princes after 1858 to another institution or theatre."
+          ],
+          "source_references": [
+            "Princes after 1858",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Army reorganisation in post-1858 Crown rule",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Army reorganisation",
+            "EVIDENCE -> After 1857 the Raj increased the European proportion, guarded artillery and",
+            "            divided recruitment by region, caste and community.",
+            "EXAM USE -> use Army reorganisation to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Army reorganisation to another institution or theatre."
+          ],
+          "source_references": [
+            "Army reorganisation",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Indian Councils Act 1861 in post-1858 Crown rule",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Indian Councils Act 1861",
+            "EVIDENCE -> The 1861 Act restored legislative councils and permitted nominated non-official",
+            "            Indian members.",
+            "EXAM USE -> use Indian Councils Act 1861 to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Indian Councils Act 1861 to another institution or theatre."
+          ],
+          "source_references": [
+            "Indian Councils Act 1861",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Portfolio system in post-1858 Crown rule",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Portfolio system",
+            "EVIDENCE -> Canning's portfolio system assigned departmental responsibility within the",
+            "            executive council.",
+            "EXAM USE -> use Portfolio system to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Portfolio system to another institution or theatre."
+          ],
+          "source_references": [
+            "Portfolio system",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Legislative devolution in post-1858 Crown rule",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Legislative devolution",
+            "EVIDENCE -> The 1861 settlement restored limited legislative powers to Bombay and Madras and",
+            "            enabled new provincial councils.",
+            "EXAM USE -> use Legislative devolution to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Legislative devolution to another institution or theatre.",
+            "CLOSE DISTINCTION: Queen Victoria's Proclamation of 1 November 1858 stated policy; its",
+            "  promises on religion, office and princes must be distinguished from later implementation and",
+            "  racial practice."
+          ],
+          "source_references": [
+            "Legislative devolution",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Mayo's decentralisation in post-1858 Crown rule",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Mayo's decentralisation",
+            "EVIDENCE -> Mayo's financial decentralisation from 1870 assigned selected spending",
+            "            responsibilities to provinces.",
+            "EXAM USE -> use Mayo's decentralisation to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Mayo's decentralisation to another institution or theatre.",
+            "EVIDENCE LIMIT: Statutes and proclamations record formal design, while budgets, recruitment",
+            "  and council proceedings reveal the limits of representation, decentralisation and Indian",
+            "  participation."
+          ],
+          "source_references": [
+            "Mayo's decentralisation",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        },
+        {
+          "title": "Ripon's Resolution in post-1858 Crown rule",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Ripon's Resolution",
+            "EVIDENCE -> Ripon's 1882 Resolution encouraged municipal and district boards and became a",
+            "            conventional landmark of local self-government.",
+            "EXAM USE -> use Ripon's Resolution to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Ripon's Resolution to another institution or theatre."
+          ],
+          "source_references": [
+            "Ripon's Resolution",
+            "Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\12_Administrative-Changes-After-1858.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-12\\g3\\modern-indian-history-12_Complete-Learning-Session_2026-08-31.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "owner": "Carvaka.md",
+      "verified_questions": 9,
+      "questions_restored": 0,
+      "changes": []
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "owner": "Jainism.md",
+      "verified_questions": 9,
+      "questions_restored": 3,
+      "changes": [
+        {
+          "year": "2019",
+          "question": "Q6(a)",
+          "before": "How is reality defined by the Jainas? How is this theory of reality reflected in their view on judgements? Discuss. Discuss.",
+          "after": "How is reality defined by the Jainas? How is this theory of reality reflected in their view on judgements? Discuss."
+        },
+        {
+          "year": "2020",
+          "question": "Q5(a)",
+          "before": "Examine the concept of Action and moral consequence (karma) according to Jainism. How does it bear upon their conception of Liberation?",
+          "after": "Examine the concept of Karma according to Jainism. How does it bear upon their conception of Liberation?"
+        },
+        {
+          "year": "2022",
+          "question": "Q5(d)",
+          "before": "How does Jaina view of Action and moral consequence (karma) bear upon their soteriology? Critically discuss.",
+          "after": "How does Jaina view of Karma bear upon their soteriology? Critically discuss."
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "owner": "Buddhism.md",
+      "verified_questions": 13,
+      "questions_restored": 7,
+      "changes": [
+        {
+          "year": "2018",
+          "question": "Q5(b)",
+          "before": "How do the Mādhyamika Buddhists apply the notion of Dependent origination (pratītyasamutpāda) to establish their doctrine of Emptiness (śūnyatā)? Discuss.",
+          "after": "How do the Mādhyamika Buddhists apply the notion of Pratītyasamutpāda to establish their doctrine of Śūnyatā? Discuss."
+        },
+        {
+          "year": "2018",
+          "question": "Q6(b)",
+          "before": "Is it consistent for the Buddhists to admit the theory of No permanent self (nairātmyavāda) and the doctrine of Cessation of conditioned suffering (nirvāṇa) simultaneously? Give reasons in favour of your answer.",
+          "after": "Is it consistent for the Buddhists to admit the theory of Nairātmyavāda and the doctrine of Nirvāṇa simultaneously? Give reasons in favour of your answer."
+        },
+        {
+          "year": "2019",
+          "question": "Q7(c)",
+          "before": "What is Dependent origination (pratītyasamutpāda)? How do the Buddhists apply this concept to prove that everything is momentary?",
+          "after": "What is Pratītyasamutpāda? How do the Buddhists apply this concept to prove that everything is momentary?"
+        },
+        {
+          "year": "2020",
+          "question": "Q6(a)",
+          "before": "How is Momentariness (kṣaṇikavāda) a logical derivative of Dependent origination (pratītyasamutpāda) in Buddhism? Explain.",
+          "after": "How is Kṣaṇikavāda a logical derivative of Pratītyasamutpāda in Buddhism? Explain."
+        },
+        {
+          "year": "2022",
+          "question": "Q6(a)",
+          "before": "How compatible is Buddhist theory of momentariness with their theory of Action and moral consequence (karma)? In this regard how do Buddhists respond to objections raised by their opponents? Critically discuss.",
+          "after": "How compatible is Buddhist theory of momentariness with their theory of Karma? In this regard how do Buddhists respond to objections raised by their opponents? Critically discuss."
+        },
+        {
+          "year": "2024",
+          "question": "Q6(b)",
+          "before": "How do the two schools of Buddhism arrive at two opposed conclusions, namely “everything is void” and “everything is real” from the same doctrine of Dependent origination (pratītyasamutpāda)? Answer with arguments.",
+          "after": "How do the two schools of Buddhism arrive at two opposed conclusions, namely “everything is void” and “everything is real” from the same doctrine of Pratītyasamutpāda? Answer with arguments."
+        },
+        {
+          "year": "2025",
+          "question": "Q8(c)",
+          "before": "Is Buddhist notion of Cessation of conditioned suffering (nirvāṇa) in consonance with their conception of momentariness (kṣaṇikavāda) and No permanent self (nairātmyavāda) (no-soul theory)? Critically discuss.",
+          "after": "Is Buddhist notion of Nirvāṇa in consonance with their conception of Kṣaṇikavāda (momentariness) and Nairātmyavāda (no-soul theory)? Critically discuss."
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "owner": "Nyaya-Vaisesika.md",
+      "verified_questions": 22,
+      "questions_restored": 7,
+      "changes": [
+        {
+          "year": "2019",
+          "question": "Q5(a)",
+          "before": "Justify the status of Absence (abhāva) as a category in Vaiśeṣika philosophy.",
+          "after": "Justify the status of Abhāva as a category in Vaiśeṣika philosophy."
+        },
+        {
+          "year": "2019",
+          "question": "Q6(b)",
+          "before": "What is the role of Jñānalakṣaṇa-pratyakṣa in explaining Misplacement theory of error (anyathākhyāti)?",
+          "after": "What is the role of Jñānalakṣaṇa-pratyakṣa in explaining Anyathākhyāti?"
+        },
+        {
+          "year": "2020",
+          "question": "Q6(c)",
+          "before": "Explain the concepts of 'Anyathāsiddha' and 'Ananyathāsiddha' in the context of Non-existence of the effect before production (asatkāryavāda).",
+          "after": "Explain the concepts of 'Anyathāsiddha' and 'Ananyathāsiddha' in the context of Asatkāryavāda."
+        },
+        {
+          "year": "2021",
+          "question": "Q5(b)",
+          "before": "Explain with reference to Nyāya Philosophy, the nature of verbal testimony (śabda) as the advice of āpta (a reliable person).",
+          "after": "Explain with reference to Nyāya Philosophy, the nature of śabda as the advice of āpta (a reliable person)."
+        },
+        {
+          "year": "2021",
+          "question": "Q5(c)",
+          "before": "Is ‘inseparability’ (ayuta-siddhatva) a necessary condition or a sufficient condition for defining characteristics (lakṣaṇa) of inherence (samavāya)? Explain with reference to Vaiśeṣika Philosophy.",
+          "after": "Is ‘inseparability’ (ayuta-siddhatva) a necessary condition or a sufficient condition for defining characteristics (lakṣaṇa) of samavāya (inherence)? Explain with reference to Vaiśeṣika Philosophy."
+        },
+        {
+          "year": "2024",
+          "question": "Q5(c)",
+          "before": "Do these two sentences “Air does not have heat” and “Air is not fire” refer to the same type of absence or absence (abhāva), according to the Vaiśeṣikas? Discuss.",
+          "after": "Do these two sentences “Air does not have heat” and “Air is not fire” refer to the same type of absence or abhāva, according to the Vaiśeṣikas? Discuss."
+        },
+        {
+          "year": "2025",
+          "question": "Q5(b)",
+          "before": "Present an exposition of the debate between Naiyāyikas and Buddhists with reference to the notion of Means of valid knowledge (pramāṇa) and Pramāṇaphala.",
+          "after": "Present an exposition of the debate between Naiyāyikas and Buddhists with reference to the notion of Pramāṇa and Pramāṇaphala."
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "owner": "Samkhya.md",
+      "verified_questions": 10,
+      "questions_restored": 7,
+      "changes": [
+        {
+          "year": "2018",
+          "question": "Q5(e)",
+          "before": "Is Conscious witness (puruṣa) one or many? Explain the Sāṃkhya position in this regard and give arguments in support of your answer.",
+          "after": "Is Puruṣa one or many? Explain the Sāṃkhya position in this regard and give arguments in support of your answer."
+        },
+        {
+          "year": "2019",
+          "question": "Q5(d)",
+          "before": "Critically discuss the metaphysical status of a Individual self (jīva) and a Conscious witness (puruṣa) according to Sāṃkhya philosophy.",
+          "after": "Critically discuss the metaphysical status of a Jīva and a Puruṣa according to Sāṃkhya philosophy."
+        },
+        {
+          "year": "2019",
+          "question": "Q8(c)",
+          "before": "Which Sāṃkhya proof for the existence of Primordial material nature (prakṛti) actually shows that there can be only one Primordial material nature (prakṛti)? Justify your answer.",
+          "after": "Which Sāṃkhya proof for the existence of Prakṛti actually shows that there can be only one Prakṛti? Justify your answer."
+        },
+        {
+          "year": "2021",
+          "question": "Q6(b)",
+          "before": "Explain the Sāṃkhya view on three qualities (guṇas) (guṇa-traya) and their modifications.",
+          "after": "Explain the Sāṃkhya view on three guṇas (guṇa-traya) and their modifications."
+        },
+        {
+          "year": "2022",
+          "question": "Q5(a)",
+          "before": "Examine and evaluate the proofs given by Sāṃkhya philosophy to prove the existence of Conscious witness (puruṣa).",
+          "after": "Examine and evaluate the proofs given by Sāṃkhya philosophy to prove the existence of Puruṣa."
+        },
+        {
+          "year": "2023",
+          "question": "Q5(b)",
+          "before": "“If Conscious witness (puruṣa) and Primordial material nature (prakṛti) are two completely independent realities, then no relation between the two is possible.” In the light of this statement make a brief presentation of Śaṅkara’s criticism of Sāṃkhya dualism.",
+          "after": "“If Puruṣa and Prakṛti are two completely independent realities, then no relation between the two is possible.” In the light of this statement make a brief presentation of Śaṅkara’s criticism of Sāṃkhya dualism."
+        },
+        {
+          "year": "2024",
+          "question": "Q7(a)",
+          "before": "Present an account of evolution of Primordial material nature (prakṛti) as propounded in Sāṃkhyakārikā. In this context, also explain the difference between determinative intellect (buddhi), cosmic intellect (mahat) and ego-maker (ahaṃkāra).",
+          "after": "Present an account of evolution of Prakṛti as propounded in Sāṃkhyakārikā. In this context, also explain the difference between buddhi, mahat and ahaṃkāra."
+        }
+      ]
+    }
+  ]
+}

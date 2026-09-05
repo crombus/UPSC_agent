@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-09",
+  "subject": "Science-and-Technology",
+  "title": "ARTIFICIAL INTELLIGENCE GOVERNANCE AND INDIAAI",
+  "short_route": "AI TAXONOMY LADDER → CAPABILITY-TO-DEPLOYMENT LADDER → FOUNDATION-MODEL RISK TREE → INDIAAI INSTITUTION MAP → MISSION PILLAR WHEEL → COMPUTE MEASUREMENT FIREWALL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-09-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "befcb4cd7f63d3d517d49354c6b519ee9c89f81b06c13c97e30e9150bb183522",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "AI TAXONOMY LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AI TAXONOMY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD TASK-PERFORMING SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "MACHINE LEARNING",
+          "role": "evidence"
+        },
+        {
+          "text": "PATTERNS LEARNED FROM DATA",
+          "role": "primary"
+        },
+        {
+          "text": "DEEP LEARNING",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTILAYER NEURAL NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERATIVE AI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTIFICIAL INTELLIGENCE → broad task-performing systems",
+        "MACHINE LEARNING → patterns learned from data",
+        "DEEP LEARNING → multilayer neural networks",
+        "GENERATIVE AI → creates text, image, audio or code",
+        "RULE → identify method, task and evidence before impact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ARTIFICIAL INTELLIGENCE → broad task-performing systems",
+            "MACHINE LEARNING → patterns learned from data"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEEP LEARNING → multilayer neural networks",
+            "GENERATIVE AI → creates text, image, audio or code"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → identify method, task and evidence before impact",
+            "ARTIFICIAL INTELLIGENCE → broad task-performing systems"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify method, task and evidence before impact.",
+      "source_references": [
+        "AI-taxonomy boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CAPABILITY-TO-DEPLOYMENT LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CAPABILITY-TO-DEPLOYMENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "RESEARCH CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "PROPOSED METHOD",
+          "role": "comparison"
+        },
+        {
+          "text": "BENCHMARK RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDED EVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATED DEMONSTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL WORKFLOW WITH USERS AND MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "MEASURED BENEFIT AND HARM AFTER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESEARCH CLAIM → proposed method",
+        "BENCHMARK RESULT → bounded evaluation",
+        "PROTOTYPE → integrated demonstration",
+        "DEPLOYMENT → real workflow with users and monitoring",
+        "OUTCOME → measured benefit and harm after use"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RESEARCH CLAIM → proposed method",
+            "BENCHMARK RESULT → bounded evaluation"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROTOTYPE → integrated demonstration",
+            "DEPLOYMENT → real workflow with users and monitoring"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OUTCOME → measured benefit and harm after use",
+            "RESEARCH CLAIM → proposed method"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → measured benefit and harm after use.",
+      "source_references": [
+        "Capability-deployment boundary",
+        "Prediction-causation boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FOUNDATION-MODEL RISK TREE",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUNDATION-MODEL RISK TREE",
+          "role": "caution"
+        },
+        {
+          "text": "PRETRAINED FOUNDATION MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD DOWNSTREAM REUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVENANCE CONSTRAINTS",
+          "role": "evidence"
+        },
+        {
+          "text": "INHERITED APPLICATION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "FLUENT OUTPUT WITHOUT VERIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUNDING, EVALUATION AND HUMAN REVIEW",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PRETRAINED FOUNDATION MODEL → broad downstream reuse",
+        "DATA / LICENCE → provenance constraints",
+        "BIAS / SAFETY → inherited application risk",
+        "HALLUCINATION → fluent output without verification",
+        "CONTROL → grounding, evaluation and human review"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PRETRAINED FOUNDATION MODEL → broad downstream reuse",
+            "DATA / LICENCE → provenance constraints"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BIAS / SAFETY → inherited application risk",
+            "HALLUCINATION → fluent output without verification"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTROL → grounding, evaluation and human review",
+            "PRETRAINED FOUNDATION MODEL → broad downstream reuse"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HALLUCINATION → fluent output without verification; CONTROL → grounding, evaluation and human review.",
+      "source_references": [
+        "Foundation-model boundary",
+        "Hallucination-boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIAAI INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAAI INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "MINISTRY POLICY AND RULE-MAKING ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "DIGITAL INDIA CORPORATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSION IMPLEMENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NITI AAYOG",
+          "role": "primary"
+        },
+        {
+          "text": "EARLIER STRATEGY AND THINK-TANK ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTOR REGULATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPLOYMENT OBLIGATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MeitY → ministry policy and rule-making anchor",
+        "INDIAAI / DIGITAL INDIA CORPORATION → mission implementation",
+        "NITI AAYOG → earlier strategy and think-tank role",
+        "SECTOR REGULATOR / DEPARTMENT → deployment obligations",
+        "RULE → strategy, mission, regulator and law stay separate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MeitY → ministry policy and rule-making anchor",
+            "INDIAAI / DIGITAL INDIA CORPORATION → mission implementation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NITI AAYOG → earlier strategy and think-tank role",
+            "SECTOR REGULATOR / DEPARTMENT → deployment obligations"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → strategy, mission, regulator and law stay separate",
+            "MeitY → ministry policy and rule-making anchor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → strategy, mission, regulator and law stay separate.",
+      "source_references": [
+        "IndiaAI-mission boundary",
+        "Implementation-institution boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MISSION PILLAR WHEEL",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MISSION PILLAR WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "COMPUTE + INNOVATION CENTRE + APPLICATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "AIKOSH + STARTUP FINANCING + FUTURESKILLS",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFE AND TRUSTED AI",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNANCE TOOLS AND EVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTATION DOMAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "PILLAR NAME IS NOT COMPLETED OUTPUT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMPUTE + INNOVATION CENTRE + APPLICATIONS",
+        "AIKOSH + STARTUP FINANCING + FUTURESKILLS",
+        "SAFE AND TRUSTED AI → governance tools and evaluation",
+        "PILLAR → implementation domain",
+        "TRAP → pillar name is not completed output"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "COMPUTE + INNOVATION CENTRE + APPLICATIONS",
+            "AIKOSH + STARTUP FINANCING + FUTURESKILLS"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SAFE AND TRUSTED AI → governance tools and evaluation",
+            "PILLAR → implementation domain"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → pillar name is not completed output",
+            "COMPUTE + INNOVATION CENTRE + APPLICATIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → pillar name is not completed output.",
+      "source_references": [
+        "IndiaAI-mission boundary",
+        "Pillar-status boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMPUTE MEASUREMENT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPUTE MEASUREMENT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "GPU OBJECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNED HARDWARE MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPANELLED CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCUREMENT AVAILABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "COMPUTE UNIT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVIDER-DEFINED SERVICE MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "USED CAPACITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GPU OBJECTIVE → planned hardware measure",
+        "EMPANELLED CAPACITY → procurement availability",
+        "COMPUTE UNIT → provider-defined service measure",
+        "BOOKED / USED CAPACITY → actual access or consumption",
+        "RULE → never convert one measure into another"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "GPU OBJECTIVE → planned hardware measure",
+          "COMPUTE UNIT → provider-defined service measure",
+          "RULE → never convert one measure into another"
+        ],
+        [
+          "EMPANELLED CAPACITY → procurement availability",
+          "BOOKED / USED CAPACITY → actual access or consumption",
+          "GPU OBJECTIVE → planned hardware measure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "GPU OBJECTIVE → planned hardware measure",
+            "EMPANELLED CAPACITY → procurement availability"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMPUTE UNIT → provider-defined service measure",
+            "BOOKED / USED CAPACITY → actual access or consumption"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never convert one measure into another",
+            "GPU OBJECTIVE → planned hardware measure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never convert one measure into another.",
+      "source_references": [
+        "Compute-measure boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AIKOSH EVIDENCE GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AIKOSH EVIDENCE GATE",
+          "role": "evidence"
+        },
+        {
+          "text": "DATASET LISTING",
+          "role": "outcome"
+        },
+        {
+          "text": "LAWFUL ORIGIN AND PERMITTED USE",
+          "role": "comparison"
+        },
+        {
+          "text": "FITNESS FOR INDIAN CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROLLED USE",
+          "role": "primary"
+        },
+        {
+          "text": "PLATFORM PRESENCE ALONE PROVES NONE OF THESE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DATASET LISTING → discoverability",
+        "PROVENANCE / LICENCE → lawful origin and permitted use",
+        "QUALITY / REPRESENTATION → fitness for Indian context",
+        "ACCESS / SECURITY → controlled use",
+        "OUTCOME → platform presence alone proves none of these"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DATASET LISTING → discoverability",
+            "PROVENANCE / LICENCE → lawful origin and permitted use"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUALITY / REPRESENTATION → fitness for Indian context",
+            "ACCESS / SECURITY → controlled use"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OUTCOME → platform presence alone proves none of these",
+            "DATASET LISTING → discoverability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → platform presence alone proves none of these.",
+      "source_references": [
+        "AIKosh-data boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "USE-CASE DEPLOYMENT CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "USE-CASE DEPLOYMENT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE LEGITIMATE OBJECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA + MODEL",
+          "role": "evidence"
+        },
+        {
+          "text": "BUILD OR PROCURE COMPONENT",
+          "role": "primary"
+        },
+        {
+          "text": "INTERFACE + HUMAN WORKFLOW",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATIONAL DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "MONITORING + APPEAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUBLIC PROBLEM → define legitimate objective",
+        "DATA + MODEL → build or procure component",
+        "INTERFACE + HUMAN WORKFLOW → operational decision",
+        "MONITORING + APPEAL → accountability after output",
+        "RULE → model capability is not service outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PUBLIC PROBLEM → define legitimate objective",
+            "DATA + MODEL → build or procure component"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERFACE + HUMAN WORKFLOW → operational decision",
+            "MONITORING + APPEAL → accountability after output"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → model capability is not service outcome",
+            "PUBLIC PROBLEM → define legitimate objective"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → model capability is not service outcome.",
+      "source_references": [
+        "Use-case-model boundary",
+        "Decision-support boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RISK LIFECYCLE",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RISK LIFECYCLE",
+          "role": "caution"
+        },
+        {
+          "text": "PROBLEM SELECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSION OR MISSION CREEP",
+          "role": "comparison"
+        },
+        {
+          "text": "BIAS, PRIVACY AND PROVENANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "HIDDEN FAILURE OR LOCK-IN",
+          "role": "primary"
+        },
+        {
+          "text": "AUTOMATION BIAS AND DRIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPACT ASSESSMENT, LOGS, INCIDENTS AND REVIEW",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROBLEM SELECTION → exclusion or mission creep",
+        "DATA / TRAINING → bias, privacy and provenance",
+        "EVALUATION / PROCUREMENT → hidden failure or lock-in",
+        "DEPLOYMENT / UPDATE → automation bias and drift",
+        "CONTROL → impact assessment, logs, incidents and review"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PROBLEM SELECTION → exclusion or mission creep",
+            "DATA / TRAINING → bias, privacy and provenance"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVALUATION / PROCUREMENT → hidden failure or lock-in",
+            "DEPLOYMENT / UPDATE → automation bias and drift"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "CONTROL → impact assessment, logs, incidents and review",
+            "PROBLEM SELECTION → exclusion or mission creep"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → impact assessment, logs, incidents and review.",
+      "source_references": [
+        "Risk-lifecycle boundary",
+        "Procurement-accountability boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RISK AND CONTROL MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RISK AND CONTROL MATRIX",
+          "role": "caution"
+        },
+        {
+          "text": "REPRESENTATIVE TESTS AND REMEDY",
+          "role": "outcome"
+        },
+        {
+          "text": "LAWFUL PURPOSE AND MINIMISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESS CONTROL AND RESILIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVALUATION, EXPLANATION AND ESCALATION",
+          "role": "primary"
+        },
+        {
+          "text": "PROVENANCE, LABELLING AND ENFORCEMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BIAS → representative tests and remedy",
+        "PRIVACY → lawful purpose and minimisation",
+        "SECURITY → access control and resilience",
+        "SAFETY / OPACITY → evaluation, explanation and escalation",
+        "MISINFORMATION → provenance, labelling and enforcement"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "BIAS → representative tests and remedy",
+          "SECURITY → access control and resilience",
+          "MISINFORMATION → provenance, labelling and enforcement"
+        ],
+        [
+          "PRIVACY → lawful purpose and minimisation",
+          "SAFETY / OPACITY → evaluation, explanation and escalation",
+          "BIAS → representative tests and remedy"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "BIAS → representative tests and remedy",
+            "PRIVACY → lawful purpose and minimisation"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SECURITY → access control and resilience",
+            "SAFETY / OPACITY → evaluation, explanation and escalation"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MISINFORMATION → provenance, labelling and enforcement",
+            "BIAS → representative tests and remedy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFETY / OPACITY → evaluation, explanation and escalation.",
+      "source_references": [
+        "Bias-fairness boundary",
+        "Privacy-security boundary",
+        "Deepfake-instrument boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INSTRUMENT HIERARCHY",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTRUMENT HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "PERSUASIVE COMMUNICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSULTATION REPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-BINDING FRAMEWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "NOTIFIED RULE",
+          "role": "primary"
+        },
+        {
+          "text": "BINDING UNDER PARENT ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PRIMARY LEGISLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTORAL LAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVISORY → persuasive communication",
+        "CONSULTATION REPORT / GUIDELINE → non-binding framework",
+        "NOTIFIED RULE → binding under parent Act",
+        "ACT → primary legislation",
+        "SECTORAL LAW → context-specific enforceable duty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ADVISORY → persuasive communication",
+            "CONSULTATION REPORT / GUIDELINE → non-binding framework"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NOTIFIED RULE → binding under parent Act",
+            "ACT → primary legislation"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "SECTORAL LAW → context-specific enforceable duty",
+            "ADVISORY → persuasive communication"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACT → primary legislation; SECTORAL LAW → context-specific enforceable duty.",
+      "source_references": [
+        "Guideline-law boundary",
+        "Sectoral-governance boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "AI GOVERNANCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "AI GOVERNANCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "METHOD, MODEL, USE CASE AND DEPLOYMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MISSION PILLAR, MINISTRY, IMPLEMENTER AND REGULATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA, MODEL, PROCUREMENT, DECISION AND MONITORING",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN REASONS, CONTESTABILITY AND REMEDY",
+          "role": "primary"
+        },
+        {
+          "text": "OUTLAY, COMPUTE, MODEL AND SUMMIT STATUS OFFICIALLY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → method, model, use case and deployment",
+        "MAP → mission pillar, ministry, implementer and regulator",
+        "TRACE → data, model, procurement, decision and monitoring",
+        "RETAIN → human reasons, contestability and remedy",
+        "VERIFY → outlay, compute, model and summit status officially"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DEFINE → method, model, use case and deployment",
+            "MAP → mission pillar, ministry, implementer and regulator"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "TRACE → data, model, procurement, decision and monitoring",
+            "RETAIN → human reasons, contestability and remedy"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → outlay, compute, model and summit status officially",
+            "DEFINE → method, model, use case and deployment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → outlay, compute, model and summit status officially.",
+      "source_references": [
+        "Procurement-accountability boundary",
+        "Sectoral-governance boundary",
+        "Volatile-mission boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA’S AI BOTTLENECK IS NOT ONLY RESEARCH QUALITY",
+          "role": "caution"
+        },
+        {
+          "text": "IT IS ALSO COMPUTE ACCESS, MULTILINGUAL DATA, EVALUATION FRAMEWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "A PRO-INNOVATION STANCE DOES NOT MEAN REGULATORY VACUUM",
+          "role": "caution"
+        },
+        {
+          "text": "IT USUALLY MEANS GUIDELINES, STANDARDS, INSTITUTIONAL OVERSIGHT AND SECTOR-SENSITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA’S GOVERNANCE CHALLENGE IS SHAPED BY SCALE, MULTILINGUALITY, WELFARE-STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL MINISTRY ANCHOR.",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAAI MISSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: India’s AI bottleneck is not only research quality",
+            "it is also compute access, multilingual data, evaluation frameworks and diffusion into public-interest use cases.",
+            "CAUTION: A pro-innovation stance does not mean regulatory vacuum",
+            "it usually means guidelines, standards, institutional oversight and sector-sensitive calibration."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: India’s governance challenge is shaped by scale, multilinguality, welfare-state interaction and uneven digital capacity.",
+            "MeitY: central ministry anchor.",
+            "IndiaAI Mission: Cabinet-approved mission structure.",
+            "Digital India AI initiative: broad public-facing programme explanation."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "India AI Governance Guidelines page: official mission-linked governance framing.",
+            "Safe & Trusted AI pillar: official IndiaAI governance/safety pillar.",
+            "AI can strengthen public services, agriculture, health, education, citizen interfaces and productivity tools.",
+            "Indigenous compute and model-development capacity matter for strategic autonomy in language technologies and sensitive sectors."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

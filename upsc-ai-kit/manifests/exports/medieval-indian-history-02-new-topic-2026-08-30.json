@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-02",
+  "subject": "Medieval-Indian-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "medieval-indian-history-02",
+  "title": "The Ghaznavids & the Ghurian Invasions",
+  "generation_date": "2026-08-30",
+  "command": "Generate learner-v2 topic: Medieval History — Subject-wide Syllabus — The Ghaznavids & the Ghurian Invasions",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-02_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\medieval-indian-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\medival_history\\Satish Chandra History of Medieval India.pdf",
+    "books\\medival_history\\dokumen.pub_medieval-india-from-sultanat-to-the-mughals-part-i-8124119899-9788124119891.pdf"
+  ],
+  "live_sources": [
+    "https://whc.unesco.org/en/list/211",
+    "https://www.unesco.org/en/culture-emergencies/heritage-emergency-fund/urgent-repairs-monuments-and-emergency-protective-measures-archaeological-sites-kabul-zabul-and",
+    "https://whc.unesco.org/en/list/233/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-02_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md",
+    "books\\medival_history\\Satish Chandra History of Medieval India.pdf",
+    "books\\medival_history\\dokumen.pub_medieval-india-from-sultanat-to-the-mughals-part-i-8124119899-9788124119891.pdf",
+    "notes\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package_2026-08-13.pdf",
+    "notes\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Solved-Workbook_2026-08-13.pdf",
+    "upsc-ai-kit\\manifests\\v2\\medieval-indian-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-02-2026-08-30-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Medieval-Indian-History\\medieval-indian-history-02.json"
+  ],
+  "practice_profile": "3 verified/routed PYQs; 48 hard and 12 remedial MCQs; 9 original solved Mains questions.",
+  "current_linkage_note": "UNESCO's Minaret and Archaeological Remains of Jam record was rechecked on 30 August 2026. It confirms the 1194 Ghurid monument, its influence on later architecture including the Qutb Minar, and continuing conservation requirements. This heritage linkage does not establish campaign chronology, motives or territorial control.",
+  "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+  "mcq_answer_policy": "strict-abcd-cycle"
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-10",
+      "display_title": "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Atmiya Sabha in socio-religious reform",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Atmiya Sabha",
+            "EVIDENCE -> Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform",
+            "            association.",
+            "EXAM USE -> use Atmiya Sabha to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Atmiya Sabha to another institution or theatre.",
+            "MUST REMEMBER: Brahmo Samaj (1828), Satyashodhak Samaj (1873), Arya Samaj (1875), MAO College",
+            "  (1875), Ramakrishna Mission (1897), Singh Sabha and Deoband belong to distinct",
+            "  regional-intellectual projects."
+          ],
+          "source_references": [
+            "Atmiya Sabha",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Brahmo Samaj in socio-religious reform",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Brahmo Samaj",
+            "EVIDENCE -> Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism,",
+            "            reason and social reform.",
+            "EXAM USE -> use Brahmo Samaj to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Brahmo Samaj to another institution or theatre."
+          ],
+          "source_references": [
+            "Brahmo Samaj",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Debendranath Tagore in socio-religious reform",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Debendranath Tagore",
+            "EVIDENCE -> Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.",
+            "EXAM USE -> use Debendranath Tagore to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Debendranath Tagore to another institution or theatre."
+          ],
+          "source_references": [
+            "Debendranath Tagore",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sadharan Brahmo Samaj in socio-religious reform",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Sadharan Brahmo Samaj",
+            "EVIDENCE -> The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.",
+            "EXAM USE -> use Sadharan Brahmo Samaj to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Sadharan Brahmo Samaj to another institution or theatre."
+          ],
+          "source_references": [
+            "Sadharan Brahmo Samaj",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Young Bengal in socio-religious reform",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Young Bengal",
+            "EVIDENCE -> Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of",
+            "            orthodoxy.",
+            "EXAM USE -> use Young Bengal to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Young Bengal to another institution or theatre."
+          ],
+          "source_references": [
+            "Young Bengal",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Prarthana Samaj in socio-religious reform",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Prarthana Samaj",
+            "EVIDENCE -> Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's",
+            "            cautious social reform.",
+            "EXAM USE -> use Prarthana Samaj to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Prarthana Samaj to another institution or theatre."
+          ],
+          "source_references": [
+            "Prarthana Samaj",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Arya Samaj in socio-religious reform",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FOCUS -> Arya Samaj",
+            "EVIDENCE -> Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the",
+            "            Vedas.",
+            "EXAM USE -> use Arya Samaj to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Arya Samaj to another institution or theatre."
+          ],
+          "source_references": [
+            "Arya Samaj",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Arya institutions in socio-religious reform",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "FOCUS -> Arya institutions",
+            "EVIDENCE -> Satyarth Prakash, shuddhi and DAV education are central associations of Arya",
+            "            Samaj.",
+            "EXAM USE -> use Arya institutions to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Arya institutions to another institution or theatre."
+          ],
+          "source_references": [
+            "Arya institutions",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ramakrishna Mission in socio-religious reform",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOCUS -> Ramakrishna Mission",
+            "EVIDENCE -> Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago",
+            "            address.",
+            "EXAM USE -> use Ramakrishna Mission to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Ramakrishna Mission to another institution or theatre."
+          ],
+          "source_references": [
+            "Ramakrishna Mission",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Satyashodhak Samaj in socio-religious reform",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "FOCUS -> Satyashodhak Samaj",
+            "EVIDENCE -> Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical",
+            "            domination and organise non-Brahman groups.",
+            "EXAM USE -> use Satyashodhak Samaj to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Satyashodhak Samaj to another institution or theatre.",
+            "CLOSE DISTINCTION: Reform, revival, caste critique, women's rights and community consolidation",
+            "  overlapped but were not one linear liberal movement; legal enactment never proves social",
+            "  implementation."
+          ],
+          "source_references": [
+            "Satyashodhak Samaj",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Phule girls' school in socio-religious reform",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FOCUS -> Phule girls' school",
+            "EVIDENCE -> Jyotirao and Savitribai opened Bhide Wada girls' school, Poona, in 1848.",
+            "EXAM USE -> use Phule girls' school to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Phule girls' school to another institution or theatre.",
+            "EVIDENCE LIMIT: Feminist, Dalit-bahujan and regional evidence must qualify elite male reform",
+            "  narratives, while colonial archives cannot be treated as neutral measures of Indian society."
+          ],
+          "source_references": [
+            "Phule girls' school",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bethune School and Vidyasagar in socio-religious reform",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "FOCUS -> Bethune School and Vidyasagar",
+            "EVIDENCE -> Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary",
+            "            and advanced women's education.",
+            "EXAM USE -> use Bethune School and Vidyasagar to match actor, date, mechanism and limit.",
+            "LIMIT -> do not transfer Bethune School and Vidyasagar to another institution or theatre."
+          ],
+          "source_references": [
+            "Bethune School and Vidyasagar",
+            "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g5\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

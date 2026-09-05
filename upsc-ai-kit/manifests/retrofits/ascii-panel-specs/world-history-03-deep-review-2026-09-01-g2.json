@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-03",
+      "display_title": "French Revolution and Napoleon",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Old-regime pressure system",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LEGAL PRIVILEGE -> clergy and nobility hold exemptions",
+            "FISCAL BREAKDOWN -> monarchy summons Estates-General",
+            "BREAD STRESS -> urban and peasant mobilisation",
+            "ENLIGHTENMENT -> grievance becomes a legitimacy challenge",
+            "MUST REMEMBER: Estates-General, National Assembly, Bastille, August decrees and Rights",
+            "  Declaration belong to 1789; republic and regicide, Terror, Directory, Brumaire (1799),",
+            "  Empire (1804) and Waterloo (1815) form later distinct stages."
+          ],
+          "source_references": [
+            "The old regime and its estates",
+            "Fiscal breakdown, bread and ideas",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "June-July 1789 rupture",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "17 JUNE -> Third Estate becomes National Assembly",
+            "20 JUNE -> Tennis Court Oath commits constitution-making",
+            "14 JULY -> Bastille turns constitutional revolt into mass symbol",
+            "AUGUST -> rights and legal equality proclaimed"
+          ],
+          "source_references": [
+            "National Assembly and constituent power",
+            "Bastille and the mass turn",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Revolutionary phase ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1789-91 -> National Assembly and constitutional monarchy",
+            "1792-94 -> republic, war, Jacobins and Terror",
+            "1795-99 -> Directory and civilian instability",
+            "1799-1815 -> Napoleonic consolidation and empire"
+          ],
+          "source_references": [
+            "Constitutional monarchy and unresolved crisis",
+            "Republic and wartime radicalisation",
+            "Directory and military ascendancy",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Rights claim and boundary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CLAIM -> equality before law and citizenship",
+            "BOUNDARY -> no immediate universal suffrage",
+            "WOMEN -> action without equal political citizenship",
+            "COLONIES -> slavery exposes universalism's contradiction"
+          ],
+          "source_references": [
+            "Rights declaration and legal equality",
+            "Women, workers and unfinished equality",
+            "Slavery and colonial contradiction",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Jacobin emergency triangle",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "WAR -> external invasion and national defence",
+            "COUNTER-REVOLUTION -> fear of internal betrayal",
+            "FACTION -> narrowing political competition",
+            "TERROR -> democratic claims joined to coercive violence"
+          ],
+          "source_references": [
+            "Jacobins, democracy and Terror",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Social coalition matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BOURGEOISIE -> office, property and legal equality",
+            "PEASANTRY -> end dues, rents and feudal burdens",
+            "URBAN CROWD -> bread, voice and social equality",
+            "ARMY -> order, merit and later Napoleonic authority"
+          ],
+          "source_references": [
+            "Class coalition and shifting leadership",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Napoleon's inheritance ledger",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PRESERVED -> anti-feudal reform and legal rationalisation",
+            "EXPANDED -> careers open to talent and codified law",
+            "CURTAILED -> republic, free politics and popular sovereignty",
+            "EXPORTED -> reform through conquest and occupation"
+          ],
+          "source_references": [
+            "Napoleon's seizure and codification",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Abolition and reversal",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "REVOLUTIONARY PHASE -> slavery abolished in French colonies",
+            "NAPOLEON -> abolition reversed",
+            "RIGHTS PROBLEM -> colony tests universal citizenship",
+            "1848 -> final French abolition"
+          ],
+          "source_references": [
+            "Slavery and colonial contradiction",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Nation and citizenship",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "SUBJECT OF KING -> inherited obedience",
+            "CITIZEN -> bearer of public rights and duties",
+            "NATION -> people becomes source of sovereignty",
+            "LEGACY -> nationalism and constitutionalism gain a new grammar"
+          ],
+          "source_references": [
+            "Nation, sovereignty and Napoleonic verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Why moderate settlement failed",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "1791 CONSTITUTION -> legal old regime broken",
+            "UNRESOLVED -> fiscal, religious and war crises remain",
+            "MOBILISATION -> popular classes demand deeper change",
+            "OUTCOME -> monarchy falls and republic begins",
+            "CLOSE DISTINCTION: Fiscal breakdown, privilege and subsistence crisis were structural",
+            "  conditions; ministerial failure and the 1789 political confrontation were triggers, while",
+            "  crowds, peasants and assemblies supplied agency."
+          ],
+          "source_references": [
+            "Constitutional monarchy and unresolved crisis",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Non-linear revolutionary legacy",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1789 -> rights and legal rupture",
+            "1793-94 -> Terror tests liberty",
+            "1799-1815 -> empire keeps social gains, ends republic",
+            "1815 ONWARD -> restoration faces renewed nationalism",
+            "EVIDENCE LIMIT: Napoleonic law and administrative rationalisation spread selected",
+            "  revolutionary gains, but censorship, dynastic empire and war block a simple liberator or",
+            "  revolutionary-fulfilment verdict."
+          ],
+          "source_references": [
+            "Waterloo and the survival of 1789",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "French Revolution answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CAUSE -> privilege + fiscal crisis + bread + ideas",
+            "COURSE -> 1789 rupture -> republic -> Terror -> Directory",
+            "NAPOLEON -> social consolidation + political reversal",
+            "VERDICT -> legitimacy changed more fully than social equality"
+          ],
+          "source_references": [
+            "Nation, sovereignty and Napoleonic verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-03\\g2\\world-history-03_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

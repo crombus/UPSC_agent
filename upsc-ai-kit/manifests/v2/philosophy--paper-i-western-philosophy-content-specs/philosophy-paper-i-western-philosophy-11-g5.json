@@ -1,0 +1,1037 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-27",
+  "topic_key": "philosophy-paper-i-western-philosophy-11",
+  "variant": "learner-v2",
+  "generation": 5,
+  "approval": false,
+  "official_syllabus_verbatim": "Quine and Strawson : Critique of Empiricism; Theory of Basic Particulars and Persons.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\topic-11_Complete-Learning-Session_2026-08-27.md",
+  "core_sessions": [
+    {
+      "title": "One Syllabus Heading, Two Projects: Quine and Strawson as Distinct Critics of Empiricism",
+      "plain": "The syllabus prints Quine and Strawson together because both criticise empiricism, but they are two different projects with two different targets, and treating them as one joint doctrine is the single commonest error on this item.",
+      "technical": "Willard Van Orman Quine (1908-2000) attacks the epistemology of classical and logical empiricism from inside it: 'Two Dogmas of Empiricism' (1951) dismantles the analytic/synthetic distinction and reductionism and replaces them with confirmation holism, so that Quine remains an empiricist, purified - 'empiricism without the dogmas'. Peter Frederick Strawson (1919-2006) attacks the starting point of empiricism from outside it: Individuals: An Essay in Descriptive Metaphysics (1959) argues that identification and re-identification of any particular presuppose a single public spatio-temporal framework of material bodies and persons, so the private momentary sense-datum cannot be the basic particular. They also clash directly: Grice and Strawson's 'In Defence of a Dogma' (1956) defends the very distinction Quine attacks.",
+      "answer": "The syllabus pairs two critics of empiricism who criticise it differently: Quine reforms its epistemology from within through holism, while Strawson rejects its private sense-datum starting point from without through basic particulars and persons.",
+      "keywords": [
+        "critique of empiricism",
+        "two dogmas",
+        "confirmation holism",
+        "empiricism without the dogmas",
+        "descriptive metaphysics",
+        "basic particulars",
+        "person as primitive",
+        "In Defence of a Dogma"
+      ],
+      "usage": "Open with the shared critique of empiricism, split it into Quine's two dogmas and confirmation holism on one side and Strawson's descriptive metaphysics of basic particulars and person as primitive on the other, cite In Defence of a Dogma to show they are not allies, and only then narrow to the thinker the stem names.",
+      "mechanism": "Classical and logical empiricism -> attacked at two different levels -> Quine reforms the theory of confirmation -> Strawson rejects the private given -> two verdicts that converge in temper but not in doctrine.",
+      "consequence": "The shared vocabulary of 'critique of empiricism' is exam-safe only when each half is attributed to the philosopher whose project gives it a determinate meaning.",
+      "trap": "Do not treat Quine and Strawson as one anti-empiricist school: the printed burdens are Quine's critique and Strawson's basic particulars/persons.",
+      "objection": "The pairing may look like an examiner's convenience rather than a philosophical unity, since the two men agree on almost no positive doctrine.",
+      "reply": "The pairing is defensible as a problem-field rather than a thesis: both show that classical empiricism failed twice over, once about how theories are confirmed and once about how we so much as refer to anything.",
+      "limit": "The unity is in target and temper only; it must never be reported as agreement about analyticity, meaning, method or the revisability of the conceptual scheme.",
+      "exam": "Use shared target -> two distinct critiques -> exact attribution -> the direct clash of 1956 -> a qualified two-project verdict.",
+      "revision": [
+        "Quine attacks the epistemology of empiricism and stays an empiricist, purified.",
+        "Strawson attacks the sense-datum starting point and is not an empiricist at all.",
+        "Nine PYQ parts 2018-2025, none in 2022, two each in 2018 and 2021.",
+        "Routing rule: dogmas, analytic/synthetic, web of belief, a priori-as-faith = Quine; person, basic particulars, spatio-temporal thinking = Strawson."
+      ],
+      "visuals": [
+        {
+          "title": "One target, two critiques",
+          "caption": "The shared enemy branches into two non-identical philosophical projects.",
+          "lines": [
+            "SHARED TARGET: classical and logical empiricism",
+            "                          |",
+            "        +-----------------+------------------+",
+            "        v                                    v",
+            "QUINE (1908-2000)                    STRAWSON (1919-2006)",
+            "'Two Dogmas of Empiricism' 1951      'Individuals' 1959",
+            "attacks the EPISTEMOLOGY             attacks the STARTING POINT",
+            "analytic/synthetic + reductionism    private momentary sense-data",
+            "positive: confirmation holism        positive: bodies and persons",
+            "RESULT: empiricism reformed          RESULT: empiricism rejected",
+            "NOT ONE FRONT: Grice and Strawson defend the dogma Quine attacks (1956)"
+          ]
+        },
+        {
+          "title": "Routing table for the nine owned PYQ parts",
+          "caption": "Decide the owner-thinker from the stem before writing a single line.",
+          "lines": [
+            "| Stem signal                          | Owner    | Core mechanism        |",
+            "|--------------------------------------|----------|-----------------------|",
+            "| two dogmas / analytic-synthetic      | Quine    | circle of synonymy    |",
+            "| web of belief / affirm any sentence  | Quine    | confirmation holism   |",
+            "| a priori as article of faith         | Quine    | holism + naturalism   |",
+            "| empiricism without the dogmas        | Quine    | both dogmas + web     |",
+            "| basic particulars / spatio-temporal  | Strawson | re-identification     |",
+            "| person / primitive concept / dualism | Strawson | M- and P-predicates   |",
+            "| critique of empiricism, discuss      | BOTH     | two-level critique    |"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quine's First Dogma: The Analytic/Synthetic Distinction and the Circle of Synonymy",
+      "plain": "Logical empiricists split all meaningful statements into those true by meaning and those true by fact; Quine asks what 'analytic' actually means and finds that every explanation offered borrows a term that itself presupposes analyticity.",
+      "technical": "Quine tests definition, synonymy, interchangeability and semantical rules; stipulated language-classification does not by itself explain the general boundary.",
+      "answer": "Quine does not deny that 'all bachelors are unmarried' looks analytic; he denies that the analytic/synthetic distinction can be given a non-circular criterion, so it is a difference of degree of centrality in the web, not a difference of kind.",
+      "keywords": [
+        "analytic",
+        "synthetic",
+        "circle of synonymy",
+        "synonymy",
+        "definition records a prior synonymy",
+        "interchangeability salva veritate",
+        "semantic rules",
+        "difference of degree, not of kind"
+      ],
+      "usage": "Move from analytic and synthetic to the circle of synonymy, then show that a definition records a prior synonymy, that interchangeability salva veritate needs necessity, and that Carnap's semantic rules only explain analytic-in-L, before closing on a difference of degree, not of kind.",
+      "mechanism": "Analytic -> meaning -> synonymy -> definition or interchangeability salva veritate or semantic rules -> each route presupposes analyticity -> the criterion is circular.",
+      "consequence": "With no principled boundary, the positivist meaning-criterion and the linguistic theory of necessity lose the foundation they were built on.",
+      "trap": "Do not write 'Quine proves that there are no analytic truths' or 'the distinction cannot be defined' flatly; the claim is the absence of a principled, non-circular criterion, not the denial of the appearance of analyticity.",
+      "objection": "Grice and Strawson, 'In Defence of a Dogma' (1956), reply that a distinction can be perfectly usable and pre-theoretically applied even without a reductive definition, so Quine sets an impossibly high bar.",
+      "reply": "Quine's rejoinder is that ordinary usability is not theoretical legitimacy: many pre-theoretical distinctions such as witch and non-witch dissolve under scrutiny, and the burden lies on anyone who wants analyticity to carry philosophical weight.",
+      "limit": "The graded verdict is that Quine wins where the distinction was load-bearing and loses where it was merely useful, which is why it survives in ordinary semantics but never regained its foundational role.",
+      "exam": "Use positivist division -> the circle with each link named -> the exact conclusion -> Grice and Strawson -> Quine's rejoinder -> graded verdict.",
+      "revision": [
+        "Analytic = true by meaning; synthetic = true by fact; the boundary is the dogma.",
+        "Circle chain: analytic - meaning - synonymy - definition - interchangeability - semantic rules - analytic.",
+        "Definition only records an antecedent synonymy; it does not create one.",
+        "Extensional interchangeability over-generates: heart and kidney creatures.",
+        "Carnap's 'semantic rule' is understood only via 'analytic-in-L'.",
+        "Provenance: The Philosophical Review, January 1951; revised in From a Logical Point of View, 1953."
+      ],
+      "visuals": [
+        {
+          "title": "The circle of synonymy",
+          "caption": "Every proposed criterion of analyticity re-enters the family it was meant to explain.",
+          "lines": [
+            "ANALYTIC = 'true by virtue of MEANING'",
+            "        |",
+            "        v",
+            "MEANING -> requires SYNONYMY ('bachelor' = 'unmarried man')",
+            "        |",
+            "        +--> DEFINITION ............ only RECORDS a synonymy -> CIRCULAR",
+            "        |",
+            "        +--> INTERCHANGEABILITY salva veritate",
+            "        |         needs NECESSITY, a cognate of analyticity -> CIRCULAR",
+            "        |",
+            "        +--> SEMANTIC RULES (Carnap)",
+            "                  'semantic rule' defined via 'analytic-in-L' -> CIRCULAR",
+            "RESULT: no exit -> no principled non-circular boundary -> DEGREE, NOT KIND"
+          ]
+        },
+        {
+          "title": "Why interchangeability fails, in one line each",
+          "caption": "The salva veritate step is the link examiners most often see omitted.",
+          "lines": [
+            "| Route            | What it promises        | Why it fails             |",
+            "|------------------|-------------------------|--------------------------|",
+            "| Definition       | fixes synonymy          | reports a prior synonymy |",
+            "| Salva veritate   | substitution test       | needs intensional        |",
+            "|                  |                         | necessity = analyticity  |",
+            "| Extensional case | heart / kidney creature | interchangeable but not  |",
+            "|                  |                         | synonymous               |",
+            "| Semantic rules   | stipulated analyticity  | explains analytic-in-L,  |",
+            "|                  |                         | never analytic as such   |"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quine's Second Dogma and the Positive Doctrine: Reductionism Rejected and the Web of Belief",
+      "plain": "The second dogma is the belief that each meaningful sentence carries its own private stock of confirming experiences and can be verified on its own; Quine replies that sentences meet experience only together, as one connected web.",
+      "technical": "Reductionism, the second dogma, is the assumption that every meaningful statement is individually reducible to, and confirmable by, a determinate range of sense-experience. Quine denies it: 'our statements about the external world face the tribunal of sense experience not individually but only as a corporate body.' The positive replacement is confirmation holism. Our total system of beliefs is a web, or a field of force, whose boundary conditions are experience: observation sentences lie at the periphery, physical theory further in, mathematics and logic deepest. A conflict at the edge shows only that the system must be revised somewhere, and we choose where on pragmatic grounds - simplicity, conservatism, generality and fecundity. Two doctrine-lines follow: 'any statement can be held true come what may, if we make drastic enough adjustments elsewhere in the system', and 'no statement is immune to revision', not even a law of logic.",
+      "answer": "Confirmation holism replaces individual verification with a web of belief whose interior is protected by choice rather than by immunity, so any sentence may be saved and none is beyond revision, but only at a stated cost elsewhere in the system.",
+      "keywords": [
+        "reductionism",
+        "corporate body",
+        "tribunal of sense experience",
+        "confirmation holism",
+        "web of belief",
+        "field of force",
+        "no statement is immune to revision",
+        "minimum mutilation"
+      ],
+      "usage": "State reductionism first and confirmation holism second as one argument: no individual confirmation, therefore statements meet the tribunal of sense experience as a corporate body, therefore the web of belief in which no statement is immune to revision, with minimum mutilation as the constraint.",
+      "mechanism": "Individual confirmation is impossible -> statements face experience as a corporate body -> the web of belief -> revision is chosen, not dictated -> pragmatic virtues govern theory-choice.",
+      "consequence": "The analytic/synthetic and a priori/a posteriori lines both dissolve into gradients of entrenchment, and the positivist criterion of meaning collapses with them.",
+      "trap": "Do not read 'we can affirm the truth of any sentence' as relativism; the conditional clause about adjustments elsewhere is the doctrine, and the maxim of minimum mutilation makes wholesale revision irrational.",
+      "objection": "If every belief including logic is revisable, it is unclear what constrains rational belief at all, and holism can look like a licence for arbitrary theory-saving.",
+      "reply": "Quine's later work concedes that logic and mathematics are revisable in principle but held fixed in practice, and that to 'deny' a law of logic is often merely to change the subject; minimum mutilation supplies the constraint.",
+      "limit": "Holism permits compensating revision but not arbitrariness; evidence, prediction, conservatism, simplicity and minimum mutilation constrain adjustment.",
+      "exam": "Use dogma 2 stated -> corporate-body quotation -> web and periphery -> the two doctrine-lines -> consequences -> not relativism -> graded verdict.",
+      "revision": [
+        "Dogma 2 is reductionism: individual verifiability of each sentence.",
+        "Quotation: statements face the tribunal of sense experience as a corporate body.",
+        "Periphery bends first, logic bends last, nothing is immune in principle.",
+        "Theory-choice runs on simplicity, conservatism, generality and fecundity.",
+        "Minimum mutilation is stated in Philosophy of Logic, 1970.",
+        "The verification principle needed individual verifiability, so it collapses."
+      ],
+      "visuals": [
+        {
+          "title": "The web of belief as a field of force",
+          "caption": "Experience touches only the rim; the shock can be absorbed anywhere inside.",
+          "lines": [
+            "  (o)   (o)   (o)   (o)   (o)   <- observation sentences at the PERIPHERY",
+            "    \\     \\     |     /     /",
+            "     [  physics, chemistry, biology  ]   <- revised fairly easily",
+            "          [   mathematics   ]            <- revised rarely",
+            "              [   LOGIC   ]              <- revised last, NOT immune",
+            "-----------------------------------------------------------------",
+            "CLASH AT THE EDGE -> revise SOMEWHERE -> but WE CHOOSE WHERE:",
+            "  fix a peripheral belief | plead hallucination | revise a deep law",
+            "DOCTRINE 1: any statement can be held true come what may",
+            "DOCTRINE 2: no statement is immune to revision"
+          ]
+        },
+        {
+          "title": "Four consequences of holism",
+          "caption": "Each consequence is a separate mark; list them rather than gesturing at the metaphor.",
+          "lines": [
+            "| Consequence                  | Exact content                        |",
+            "|------------------------------|--------------------------------------|",
+            "| No analytic/synthetic line   | analytic = merely very central       |",
+            "| No a priori/a posteriori line| all belief revisable by experience   |",
+            "| Pragmatic theory-choice      | simplicity, conservatism, fecundity  |",
+            "| Meaning-criterion collapses  | verification needed individual test  |"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Duhem-Quine Thesis: Why No Single Hypothesis Faces Experience Alone",
+      "plain": "A hypothesis predicts nothing by itself; it needs background theory, instrument assumptions and initial conditions, so a failed prediction condemns the whole package and logic never tells you which part to give up.",
+      "technical": "Let H be the hypothesis under test, A the auxiliary assumptions and O the observational prediction. The testable claim is (H and A) implies O. Observation reports not-O. By modus tollens all that follows is not-(H and A): H is false or some element of A is false, and logic does not say which. The choice is therefore not dictated by evidence, refutation is never conclusive against a single statement, and the criterion of individual verifiability has no application - the second dogma falls not to a counter-example but to a structural fact about testing. The two contributions must not be merged. Duhem, La Theorie physique (1906), restricts the thesis to theoretical physics, exempts logic and mathematics, and concludes that there is no experimentum crucis. Quine (1951) extends it to the whole of science, includes logic and mathematics, and derives underdetermination plus the collapse of verificationism.",
+      "answer": "The Duhem-Quine thesis is the machinery behind holism: because the testable unit is a conjunction of hypothesis and auxiliaries, modus tollens condemns the conjunction and leaves the choice of revision to pragmatic judgement rather than to evidence.",
+      "keywords": [
+        "auxiliary hypotheses",
+        "modus tollens",
+        "experimentum crucis",
+        "underdetermination",
+        "Neptune",
+        "Vulcan",
+        "protective belt",
+        "hard core"
+      ],
+      "usage": "Run modus tollens on the hypothesis plus its auxiliary hypotheses, then split Duhem's no experimentum crucis from Quine's underdetermination, and deploy Neptune and Vulcan together rather than Neptune alone.",
+      "mechanism": "(H and A) implies O -> observation gives not-O -> modus tollens yields not-(H and A) -> logic is silent on the conjunct -> revision is a pragmatic choice -> individual verifiability has no application.",
+      "consequence": "The same logical situation permits opposite correct responses, which is exactly why no rule can be given in advance for which conjunct to surrender.",
+      "trap": "Duhem's physics thesis and Quine's whole-system extension are non-identical; failed prediction does not make every repair equally warranted.",
+      "objection": "If no refutation is ever decisive, science appears unfalsifiable and any theory can be rescued by ad hoc adjustment.",
+      "reply": "Popper answers that falsification is a methodological decision: scientists agree by convention to treat certain basic statements as unproblematic and to forbid ad hoc rescues that reduce testability; Lakatos converts this into research programmes with a protected hard core and a revisable protective belt.",
+      "limit": "Methodological rules restore rationality but they are conventions, so the underlying logical gap between evidence and single hypotheses is managed rather than closed.",
+      "exam": "Use the numbered argument -> the Duhem/Quine split -> Neptune and Vulcan -> presuppositions -> Popper and Lakatos -> verdict.",
+      "revision": [
+        "The testable unit is a conjunction, never a lone hypothesis.",
+        "Duhem 1906: physics only, logic exempt, no experimentum crucis.",
+        "Quine 1951: whole of science, logic included, underdetermination.",
+        "Uranus anomaly -> revise the auxiliary -> Neptune found, Le Verrier and Adams, 1846.",
+        "Mercury anomaly -> Vulcan fails -> revise the deep law -> general relativity, 1915.",
+        "Presuppositions: confirmation relates evidence to theory; observation is theory-laden; pragmatic virtues are not evidence."
+      ],
+      "visuals": [
+        {
+          "title": "The test chain that never names one culprit",
+          "caption": "Refutation lands on the conjunction, and the cut inside it is a choice.",
+          "lines": [
+            "        ( H  &  A )  ------->  O        the observational prediction",
+            "                                 |",
+            "        observation reports    NOT-O",
+            "                                 |",
+            "        modus tollens   =>   NOT ( H & A )",
+            "                                 |",
+            "        i.e. H is false  OR  some element of A is false",
+            "                                 |",
+            "        LOGIC IS SILENT -> the choice is not dictated by the evidence"
+          ]
+        },
+        {
+          "title": "Two histories, one logic, opposite right answers",
+          "caption": "Deploy the pair; Neptune alone makes holism look like a success story.",
+          "lines": [
+            "URANUS anomaly  -> keep Newton, revise the auxiliary (an extra planet)",
+            "                -> NEPTUNE found, Le Verrier and Adams, 1846   [CORRECT]",
+            "MERCURY anomaly -> keep Newton, posit the planet 'VULCAN'",
+            "                -> VULCAN does not exist                        [WRONG]",
+            "                -> revise the DEEP law instead",
+            "                -> GENERAL RELATIVITY, 1915                     [CORRECT]",
+            "MORAL: identical logical situation, opposite correct responses, no rule"
+          ]
+        },
+        {
+          "title": "Duhem and Quine are two theses under one label",
+          "caption": "The split is the most examinable precision on this subtopic.",
+          "lines": [
+            "| Axis          | DUHEM (1906)              | QUINE (1951)             |",
+            "|---------------|---------------------------|--------------------------|",
+            "| Scope         | theoretical physics only  | the whole of science     |",
+            "| Logic / maths | exempt                    | included, none immune    |",
+            "| Corollary     | no experimentum crucis    | underdetermination       |",
+            "| Motive        | practice of physicists    | demolition of dogma 2    |"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Radical Translation and Gavagai: Inscrutability of Reference and Indeterminacy of Translation",
+      "plain": "A field linguist with no dictionary and no interpreter has only stimulation and assent to work with; when a rabbit runs past and the native says 'Gavagai', several rival translations fit exactly the same evidence and nothing decides between them.",
+      "technical": "Radical translation is translation of a language with no known relation to any other, where the only evidence is what speakers are exposed to and what they assent to or dissent from. The technical vocabulary is exact: stimulus meaning is the class of stimulations prompting assent paired with those prompting dissent; an occasion sentence commands assent only when freshly prompted, a standing sentence does not; an observation sentence is an occasion sentence whose stimulus meaning is constant across speakers, and it is the only secure place for translation; analytical hypotheses are the linguist's posited segmentation into words and grammar, projected beyond the observational base and determined by no evidence. 'Gavagai' is equally compatible with rabbit, undetached rabbit-parts, a temporal stage of a rabbit, rabbithood, and the feature-placing 'it is rabbiting'. Asking 'is this the same gavagai?' presupposes the identity predicate, articles, plurals and quantifiers - the whole apparatus of individuation, which is exactly what is in dispute. Hence inscrutability of reference, then indeterminacy of translation, then ontological relativity.",
+      "answer": "Gavagai is not a curiosity but the constructive completion of Two Dogmas: the circle showed that analyticity cannot be defined, and radical translation shows why, because there are no determinate meanings for a definition to capture.",
+      "keywords": [
+        "radical translation",
+        "stimulus meaning",
+        "observation sentence",
+        "analytical hypotheses",
+        "apparatus of individuation",
+        "inscrutability of reference",
+        "indeterminacy of translation",
+        "ontological relativity"
+      ],
+      "usage": "Set up radical translation with stimulus meaning and the observation sentence, show that the apparatus of individuation is undetermined, and derive inscrutability of reference and then indeterminacy of translation from rival analytical hypotheses before closing on ontological relativity.",
+      "mechanism": "One stimulus meaning -> several rival term-translations -> the identity question presupposes individuation -> reference is inscrutable -> rival manuals agree on all observation sentences -> translation is indeterminate -> reference is theory-relative.",
+      "consequence": "There are no determinate meanings as entities, synonymy has no behavioural anchor, and the first dogma's key notion is left without foundation.",
+      "trap": "Do not say indeterminacy means we cannot tell which manual is right; Quine's claim is that there is nothing further to be right or wrong about.",
+      "objection": "Chomsky objects that indeterminacy is only the ordinary underdetermination of theory by evidence, which afflicts physics too, so a realist about physics should be a realist about meaning.",
+      "reply": "Quine replies that the cases are asymmetric: in physics there is a fact our theories imperfectly track, whereas in translation there is nothing beyond dispositions to verbal behaviour for a manual to be right about.",
+      "limit": "Radical translation, sentence indeterminacy, reference inscrutability and ontological relativity are distinct, bounded system doctrines.",
+      "exam": "Use the set-up -> the rival readings -> the identity move -> the two results -> the three premises -> Chomsky and Davidson -> a ruling.",
+      "revision": [
+        "Source: Word and Object, 1960, chapter 2.",
+        "Rivals sharing one stimulus meaning: rabbit, undetached rabbit-parts, rabbit-stage, rabbithood, 'it is rabbiting'.",
+        "P1 behaviourism about the evidence; P2 verificationism about facts; P3 naturalism.",
+        "The irony: the verification principle is dropped as a theory of meaning and kept as a criterion of factuality.",
+        "Ontological relativity: at home we acquiesce in our mother tongue."
+      ],
+      "visuals": [
+        {
+          "title": "The Gavagai translation tree",
+          "caption": "All five readings share one stimulus meaning, so the evidence cannot choose.",
+          "lines": [
+            "a rabbit runs past; the native says 'Gavagai'; the linguist notes assent",
+            "                              |",
+            "  +---------+-----------+-----------+--------------+",
+            "  v         v           v           v              v",
+            "'Rabbit'  'undetached  'a temporal 'rabbithood'  'it is rabbiting'",
+            "           rabbit-      stage of a  (universal     (feature-placing,",
+            "           parts'       rabbit'      instantiated)  NO object at all)",
+            "  \\_________\\___________|___________/______________/",
+            "                              |",
+            "  ASK 'same gavagai?' -> needs IDENTITY PREDICATE + articles + plurals",
+            "                      -> the APPARATUS OF INDIVIDUATION is in dispute"
+          ]
+        },
+        {
+          "title": "From inscrutability to ontological relativity",
+          "caption": "Three results in order; do not collapse them into a single claim.",
+          "lines": [
+            "INSCRUTABILITY OF REFERENCE",
+            "   no fact about what the native TERMS refer to",
+            "              |",
+            "              v",
+            "INDETERMINACY OF TRANSLATION",
+            "   rival ANALYTICAL HYPOTHESES agree on all observation sentences",
+            "   yet translate the rest non-equivalently; no fact decides",
+            "              |",
+            "              v",
+            "ONTOLOGICAL RELATIVITY",
+            "   'to be is to be the value of a bound variable' holds only",
+            "   relative to a background manual; at home we take our tongue at face value"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ontological Commitment, Naturalized Epistemology and Empiricism Without the Dogmas",
+      "plain": "Once meanings and a sharp a priori are gone, Quine still owes answers to what there is and how we know; he reads ontology off the quantifiers of our best science and turns epistemology into a branch of natural science.",
+      "technical": "Bound-variable commitment follows theory/regimentation choice; naturalized epistemology rejects first philosophy but must answer the normativity objection.",
+      "answer": "Quine does not reject empiricism but purifies it: experience still governs belief, yet only holistically, ontology is read off regimented science, and epistemology becomes a chapter of natural science rather than its a priori foundation.",
+      "keywords": [
+        "ontological commitment",
+        "bound variable",
+        "regimentation",
+        "naturalized epistemology",
+        "ontological relativity",
+        "empiricism without the dogmas",
+        "museum myth",
+        "Neurath's boat"
+      ],
+      "usage": "State ontological commitment through the bound variable before the slogan, date naturalized epistemology and ontological relativity correctly, and close on empiricism without the dogmas, using the museum myth and Neurath's boat only as a one-sentence bridge to the later Wittgenstein.",
+      "mechanism": "Dogmas fall -> a positive system is owed -> quantifiers fix commitment -> regimentation makes commitment theory-relative -> epistemology is naturalised -> empiricism survives in holistic form.",
+      "consequence": "The a priori loses any principled status: with no non-circular analyticity, universal revisability and no first-philosophy tribunal, treating a belief as a priori becomes a metaphysical article of faith.",
+      "trap": "Do not date the bound-variable slogan to 'Two Dogmas', do not date naturalized epistemology to 1951, and do not describe Quine as an anti-empiricist.",
+      "objection": "If philosophy is continuous with science, naturalized epistemology can look circular, using science to validate the very science whose credentials are in question.",
+      "reply": "Quine accepts the circle and denies that it is vicious: there is no dry dock outside our theory, only Neurath's boat rebuilt plank by plank at sea, so reciprocal containment of epistemology and science is the honest position.",
+      "limit": "The reply saves naturalism from incoherence but does not answer the normative question of why the resulting method is justified rather than merely ours.",
+      "exam": "Use commitment as a criterion -> relativity -> naturalised epistemology -> the a priori charge -> empiricism without the dogmas -> the Wittgenstein bridge.",
+      "revision": [
+        "'To be is to be the value of a bound variable' - On What There Is, 1948.",
+        "Naturalized epistemology: a chapter of psychology, 1968/69.",
+        "Ontological relativity: reference fixed only relative to a background language.",
+        "Convergence with the later Wittgenstein against the museum myth and the Augustinian picture; Neurath's boat versus 'my spade is turned'.",
+        "They part on method: Quine reforms by regimentation, Wittgenstein describes.",
+        "Empiricism without the dogmas is the 2021 stem's exact phrase."
+      ],
+      "visuals": [
+        {
+          "title": "Reading being off our best science",
+          "caption": "Ontology becomes an audit of quantifiers rather than a contest of intuitions.",
+          "lines": [
+            "ONTOLOGICAL COMMITMENT   'to be is to be the value of a bound variable' (1948)",
+            "   a theory asserting  (there exists x)(x is an electron)",
+            "   is committed to electrons",
+            "        |",
+            "   regiment best science into first-order logic and read off the variables",
+            "        |",
+            "   +----+------------------------------+",
+            "   v                                   v",
+            "NATURALIZED EPISTEMOLOGY          ONTOLOGICAL RELATIVITY",
+            "philosophy continuous with        commitment depends on the chosen",
+            "science, 'a chapter of            regimentation and background language;",
+            "psychology' (1968/69)             no God's-eye 'what really exists?'"
+          ]
+        },
+        {
+          "title": "Quine and the later Wittgenstein: convergence without contact",
+          "caption": "Two methods, no influence, one negative result about private meaning.",
+          "lines": [
+            "| Axis              | Quine                   | Later Wittgenstein      |",
+            "|-------------------|-------------------------|-------------------------|",
+            "| Target            | museum myth of meaning  | Augustinian picture     |",
+            "| Positive account  | dispositions to verbal  | meaning is use in a     |",
+            "|                   | behaviour in a theory   | language-game           |",
+            "| Anti-foundational | Neurath's boat          | 'my spade is turned'    |",
+            "| Method            | reforms by regimentation| describes ordinary use  |"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Strawson's Basic Particulars: Descriptive Metaphysics, Material Bodies and Re-identification",
+      "plain": "Strawson's descriptive metaphysics asks what conceptual scheme we cannot help using, and within it asks which particulars are basic - the material bodies we can single out and re-identify without first identifying anything else.",
+      "technical": "Descriptive metaphysics is content to describe the actual structure of our thought about the world; revisionary metaphysics is concerned to produce a better structure. Descartes, Leibniz and Berkeley are revisionary; Aristotle and Kant are the great descriptive metaphysicians, which is why Individuals (1959) carries the subtitle An Essay in Descriptive Metaphysics. A basic particular is one that can be identified without first identifying anything else. Strawson's argument from re-identification runs: to use a scheme of objective particulars I must be able to re-identify a particular as the same one again; re-identification requires a single unified spatio-temporal system in which a thing traces a continuous path; material bodies, being three-dimensional, relatively enduring and publicly located, are what constitute that system; other categories - events, processes, private experiences, theoretical particles - are identified only by reference to bodies; therefore material bodies are basic. The claim is one of conceptual dependence, not of causal or metaphysical priority, and the purely auditory no-space world confirms it, since re-identification there requires a sound-analogue of space, the master-sound.",
+      "answer": "Material bodies are basic particulars because objective thought requires re-identifying a particular as the same one again, re-identification requires a single public spatio-temporal framework, and only enduring bodies constitute such a framework.",
+      "keywords": [
+        "descriptive metaphysics",
+        "revisionary metaphysics",
+        "basic particular",
+        "material bodies",
+        "re-identification",
+        "spatio-temporal framework",
+        "no-space world",
+        "master-sound"
+      ],
+      "usage": "Make re-identification the hinge word; a script that says bodies are basic because they are solid and obvious has missed the argument entirely.",
+      "mechanism": "Objective thought -> requires re-identification -> requires one unified spatio-temporal system -> constituted by material bodies -> everything else is identified through them -> bodies are basic.",
+      "consequence": "Spatio-temporal thinking is a precondition of objective thinking itself, because the distinction between how things are and how they seem to me needs particulars that can be located and re-located in a public framework.",
+      "trap": "Do not call descriptive metaphysics anti-metaphysical, do not treat the argument as a proof that bodies exist, and do not attribute the auditory world to Kant.",
+      "objection": "Evans and others object that the auditory construction may smuggle in spatial notions, or may not deliver genuine re-identification, and that a weaker merely temporal framework might suffice.",
+      "reply": "Even the weaker construction must reintroduce something that plays space's individuating role, which is precisely Strawson's substantive point rather than a concession against it.",
+      "limit": "The auditory-world discussion requires an analogue of space; it does not show that every non-human sensory scheme or every sound-only scheme is impossible.",
+      "exam": "Use descriptive versus revisionary -> definition of basic -> the four-step re-identification argument -> the auditory test -> the Evans objection -> verdict.",
+      "revision": [
+        "Individuals, 1959, subtitled An Essay in Descriptive Metaphysics.",
+        "Basic particular = identifiable without identifying anything else.",
+        "Bodies are three-dimensional, relatively enduring and publicly located.",
+        "Sounds, events and private experiences borrow identity from bodies.",
+        "The auditory world needs a master-sound, which concedes the thesis.",
+        "The argument is transcendental in spirit: a condition of the possibility of identifying particulars at all.",
+        "Keep Individuals (1959) distinct from The Bounds of Sense (1966)."
+      ],
+      "visuals": [
+        {
+          "title": "The public spatio-temporal grid",
+          "caption": "Basic is a dependence claim: everything else is identified through bodies.",
+          "lines": [
+            "DESCRIPTIVE metaphysics: describe the scheme we ACTUALLY use",
+            "   (not REVISE it, as Descartes, Leibniz and Berkeley tried)",
+            "                          |",
+            "QUESTION: which particulars are identifiable WITHOUT identifying anything else?",
+            "                          |",
+            "        +-----------------+------------------+",
+            "        v                                    v",
+            "   MATERIAL BODIES                       PERSONS",
+            "   compose one all-embracing              the other basic particular",
+            "   spatio-temporal system                 (next session)",
+            "                          |",
+            "   sounds, flashes, events, private sensations are located BY bodies",
+            "   IDENTIFICATION and RE-IDENTIFICATION need one public framework"
+          ]
+        },
+        {
+          "title": "The no-space world as a test, not a counter-example",
+          "caption": "The auditory thought experiment supports the thesis it appears to challenge.",
+          "lines": [
+            "SUPPOSE a purely AUDITORY world: sounds only, no bodies, no space",
+            "        |",
+            "   can a hearing-only being distinguish 'the same sound returning'",
+            "   from 'a qualitatively identical but numerically different sound'?",
+            "        |",
+            "   ONLY by building a sound-analogue of space: a MASTER-SOUND whose",
+            "   pitch fixes position",
+            "        |",
+            "   -> the construction REINTRODUCES an individuating dimension",
+            "   -> CONCLUSION: re-identification requires a spatio-temporal frame"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Strawson's Persons: The Primitive Concept, M- and P-Predicates and the Block on Dualism",
+      "plain": "Descartes begins with a mind and a body and then cannot explain how they connect or how we know other minds; Strawson blocks the puzzle at the root by making person, not mind or body, the basic concept.",
+      "technical": "Person is conceptually primitive: physical and psychological predicates apply to one embodied subject without positing a third substance.",
+      "answer": "Self-ascription of experience presupposes other-ascription, other-ascription requires identifying others as single subjects of both bodily and conscious predicates, and therefore the concept of a person is logically primitive rather than assembled from mind and body.",
+      "keywords": [
+        "person as primitive",
+        "M-predicates",
+        "P-predicates",
+        "asymmetry of ascription",
+        "self-ascription requires other-ascription",
+        "Cartesian dualism",
+        "no-ownership theory",
+        "criterial evidence"
+      ],
+      "usage": "Run the self-ascription argument from M-predicates and P-predicates to person as primitive, and then show it cutting both ways, against Cartesian dualism and against the no-ownership theory, keeping criterial evidence distinct from behaviourist meaning.",
+      "mechanism": "Self-ascription of P-predicates -> presupposes understanding their other-ascription -> presupposes identifying others as single M-and-P subjects -> the person concept is presupposed -> person is primitive.",
+      "consequence": "Dualism and the no-ownership theory both fail, and the person sits as the single indispensable middle term between a pure ego and a mere body.",
+      "trap": "Do not stop at 'person is basic, so no dualism', do not omit the no-ownership half, and do not collapse Strawson into logical behaviourism.",
+      "objection": "It may be asked whether the argument proves that persons are primitive or only that the mental and the bodily are co-instantiated, and Ayer pressed that the no-ownership theory is not so easily dismissed.",
+      "reply": "Strawson's reply is that co-instantiation is not enough: the practice requires one subject to which both predicate-kinds are ascribed with their characteristic asymmetry, and behaviour functions as criterial evidence for P-predicates rather than as their meaning.",
+      "limit": "The argument establishes a conceptual priority within our scheme; it does not by itself settle the metaphysics of mind, which is why an opponent can accept the conceptual point and still press a reductive theory.",
+      "exam": "Use define primitive -> the predicate matrix -> the full self-ascription argument -> the block on dualism -> the block on no-ownership -> objections and a graded verdict.",
+      "revision": [
+        "The concept of a person is logically prior to that of an individual consciousness.",
+        "M-predicates also apply to mere bodies; P-predicates apply only to persons.",
+        "P-predicate asymmetry: others by behavioural criteria, self without observation.",
+        "Dualism makes other minds unknowable and P-ascription unlearnable.",
+        "The no-ownership theory is self-refuting because 'my' cannot be eliminated.",
+        "Provenance: Individuals, 1959, chapter 3, 'Persons'.",
+        "Not logical behaviourism: behaviour is criterial evidence, not meaning."
+      ],
+      "visuals": [
+        {
+          "title": "The person predicate matrix",
+          "caption": "One subject carries both predicate-kinds, and that double character is the datum.",
+          "lines": [
+            "+----------------------+---------------------------------------------+",
+            "| M-PREDICATES         | P-PREDICATES                                |",
+            "| (material / bodily)  | (consciousness, experience, action)         |",
+            "+----------------------+---------------------------------------------+",
+            "| 'weighs 70 kg'       | 'is in pain', 'is smiling', 'believes p',   |",
+            "| 'is in the corner'   | 'is going for a walk', 'is depressed'       |",
+            "| ALSO apply to mere   | apply ONLY to persons; to OTHERS on         |",
+            "| material bodies      | behavioural criteria, to ONESELF without    |",
+            "|                      | observation or criteria                     |",
+            "+----------------------+---------------------------------------------+",
+            "PRIMITIVE = person is logically PRIOR to pure ego and pure body"
+          ]
+        },
+        {
+          "title": "One argument, two demolitions",
+          "caption": "The same premise set blocks the two-substance view and the no-subject view.",
+          "lines": [
+            "SELF-ASCRIPTION of P-predicates ('I am in pain')",
+            "        |  requires understanding OTHER-ascription",
+            "        v",
+            "OTHER-ASCRIPTION on behavioural criteria",
+            "        |  requires identifying others as SINGLE M-and-P subjects",
+            "        v",
+            "PERSON is presupposed -> the concept is PRIMITIVE",
+            "        |",
+            "   +----+---------------------------+",
+            "   v                                v",
+            "BLOCKS CARTESIAN DUALISM        BLOCKS THE NO-OWNERSHIP THEORY",
+            "two independent substances      'the experiences had by this body'",
+            "cannot be the ONE subject       covertly restores ownership"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "On Referring Against Russell, and Strawson's Own Critique of Empiricism",
+      "plain": "Russell says 'the present King of France is bald' is simply false because it hides an existence claim; Strawson says people, not sentences, refer, that existence is presupposed rather than asserted, and that the statement is therefore neither true nor false.",
+      "technical": "In 'On Referring' (Mind, 1950) Strawson distinguishes three things Russell's 'On Denoting' (1905) runs together: a sentence, which is a repeatable type whose meaning is a set of rules for its correct use; a use of that sentence by a speaker on an occasion, where reference is made and a truth-value arises; and an utterance, a particular voicing. The definite article is a referring device, not a hidden quantifier, and using it presupposes rather than asserts that there is something to pick out, so presupposition-failure yields a truth-value gap rather than a falsehood. The same anti-atomism drives Strawson's own critique of empiricism, which the syllabus phrase covers: sense-data cannot be the basic particulars because they are private, momentary and non-spatial; the bundle and no-ownership accounts of the self collapse; the empiricist theory of reference abstracts meaning from use; Hume's demand for a justification of induction as a whole is dissolved in Introduction to Logical Theory (1952); and The Bounds of Sense (1966) isolates a Kantian anti-empiricist core, that objective experience requires a framework not derivable from experience.",
+      "answer": "Sentences do not refer, people refer in a use on an occasion, so existence is presupposed rather than asserted and reference-failure produces a truth-value gap; the same anti-atomism makes the given public rather than private.",
+      "keywords": [
+        "On Referring",
+        "On Denoting",
+        "presupposition",
+        "truth-value gap",
+        "sentence, use and utterance",
+        "referring device",
+        "sense-data",
+        "descriptive metaphysics as transcendental argument"
+      ],
+      "usage": "Contrast On Referring with On Denoting on the three levels of sentence, use and utterance, show that existence is presupposed so that reference-failure yields a truth-value gap, and then convert the point into the syllabus claim that sense-data cannot be the given.",
+      "mechanism": "Meaning belongs to the sentence-type as rules -> truth-value arises only in a use -> the definite article presupposes existence -> failure yields a gap -> the same logic makes identification depend on a public framework.",
+      "consequence": "Strawson better describes ordinary usage while Russell better serves a formal semantics, so the dispute is partly about aim, which maps onto descriptive versus revisionary method.",
+      "trap": "Strawson's original presupposition claim concerns a use/assertion; do not make the sentence-type meaningless or attribute all later gap theories to him.",
+      "objection": "Russell can reply that bivalence and the elimination of denoting phrases are virtues in a logic of science, and that presupposition-failure may be treated as a special case of falsity for formal purposes.",
+      "reply": "Strawson's answer is that a logic built for regimentation should not be offered as a description of ordinary language, and that the truth-value gap is a genuine third semantic status our practice recognises.",
+      "limit": "Since Strawson's metaphysics is descriptive, an empiricist may accept his conceptual geography while denying that it settles what exists, and conceding this strengthens rather than weakens an answer.",
+      "exam": "Use the test sentence -> Russell's analysis -> the three levels -> presupposition and the gap -> Russell's reply -> the five anti-empiricist lines -> verdict.",
+      "revision": [
+        "'On Referring', Mind, 1950; Russell's 'On Denoting', 1905.",
+        "Russell: the statement is false; Strawson: neither true nor false.",
+        "Three levels: sentence, use, utterance; truth-value attaches only to a use.",
+        "Strawson's five anti-empiricist lines: sense-data, the self, reference, induction and the ground of objectivity.",
+        "Induction is dissolved, not solved: Introduction to Logical Theory, 1952.",
+        "The Bounds of Sense, 1966, keeps Kant's objectivity argument without transcendental idealism."
+      ],
+      "visuals": [
+        {
+          "title": "Russell and Strawson on the empty subject",
+          "caption": "Four axes of disagreement, tested on one sentence about a non-existent king.",
+          "lines": [
+            "TEST: 'The present King of France is bald'   (there is no such king)",
+            "| Issue          | RUSSELL 1905              | STRAWSON 1950            |",
+            "|----------------|---------------------------|--------------------------|",
+            "| Who refers     | the sentence, via a       | people, in a USE on an   |",
+            "|                | hidden quantifier         | occasion                 |",
+            "| Logical form   | 'exactly one K and it is  | 'the' is a referring     |",
+            "|                | bald' - existence ASSERTED| device, not a quantifier |",
+            "| Empty subject  | simply FALSE              | NEITHER true nor false;  |",
+            "|                |                           | a PRESUPPOSITION fails   |",
+            "| Meaning        | truth-conditions of the   | rules for USE; truth     |",
+            "|                | type-sentence             | arises only in a use     |"
+          ]
+        },
+        {
+          "title": "Strawson's five lines against empiricism",
+          "caption": "The syllabus phrase covers both names; this is Strawson's half of it.",
+          "lines": [
+            "1 SENSE-DATA as basic particulars -> private, momentary, non-spatial",
+            "     -> cannot ground public identification            [Individuals I]",
+            "2 BUNDLE / NO-OWNERSHIP self -> cannot state itself without ownership",
+            "     -> person is primitive                            [Individuals 3]",
+            "3 EMPIRICIST THEORY OF REFERENCE -> meaning abstracted from use",
+            "     -> speakers refer; existence is presupposed       [On Referring 1950]",
+            "4 HUME ON INDUCTION -> the global demand is senseless",
+            "     -> dissolution, not solution                      [Logical Theory 1952]",
+            "5 GROUND OF OBJECTIVITY -> a framework not drawn from experience",
+            "     -> Kant without transcendental idealism           [Bounds of Sense 1966]"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quine Versus Strawson: Divergence, Convergence and the Universal Answer Spine",
+      "plain": "Quine's revisable holistic theory of the conceptual scheme and Strawson's indispensable transcendental framework are two answers to one question, and their divergence must be set out before any convergence is claimed.",
+      "technical": "The core disagreement is a single question. For Quine the conceptual scheme is a theory, holistically confirmed and revisable come what may, with no belief - not even a law of logic - that could not in principle be surrendered. For Strawson the framework concepts of a single spatio-temporal world, re-identifiable bodies and persons are not revisable hypotheses but preconditions of there being objective thought at all, so to revise them is not to adopt a rival theory but to lose the capacity for objective thought. The methods mirror the doctrines: Quine's naturalism leaves no room for a privileged non-empirical framework, and Strawson's descriptive metaphysics leaves no room for treating the framework as one more revisable theory, so the clash is methodological and not merely doctrinal. The convergences are nevertheless real and worth marks: both are anti-Cartesian about a private inner object, both anchor thought in something public and structured rather than atomic and private, and both reject the museum myth of words as labels on determinate private meanings.",
+      "answer": "Quine and Strawson attack empiricism from opposite ends and leave one standing question: the periphery of the scheme is Quineanly revisable, yet some framework role of a public world and re-identifiable subjects looks Strawsonianly indispensable.",
+      "keywords": [
+        "revisable holistic theory",
+        "indispensable transcendental framework",
+        "naturalism",
+        "descriptive metaphysics",
+        "anti-Cartesian convergence",
+        "public anchor",
+        "museum myth",
+        "graded verdict"
+      ],
+      "usage": "Set out the revisable holistic theory against the indispensable transcendental framework, show that naturalism and descriptive metaphysics mirror that divergence, add the anti-Cartesian convergence and the public anchor afterwards, and end on a graded verdict rather than a winner.",
+      "mechanism": "Two critiques of one target -> opposite views of the scheme's status -> mirrored methods -> genuine convergences in temper -> a layered verdict on revisability.",
+      "consequence": "A comparative answer that ends in 'they basically agree' throws away the only philosophically interesting result of the pairing.",
+      "trap": "Russell, Logical Positivism, Later Wittgenstein, Kant and reactive-attitude work retain separate ownership; route every answer through the nine verified PYQs.",
+      "objection": "It may be objected that the pivot is a false opposition, since Quine can allow that some beliefs are so entrenched that revising them is practically unintelligible.",
+      "reply": "That concession is exactly the layered verdict: entrenchment does the work Strawson assigns to indispensability, so the dispute narrows to whether the framework's fixity is a matter of degree or of conceptual necessity.",
+      "limit": "The narrowed dispute is genuine and unresolved, so the honest close states the residue rather than declaring a winner.",
+      "exam": "Use divergence -> methods -> convergences -> the standing pivot -> a graded, layered verdict, and then the reusable five-step answer spine.",
+      "revision": [
+        "Quine: scheme as revisable theory; Strawson: framework as precondition.",
+        "Method mirrors doctrine: naturalism versus descriptive metaphysics.",
+        "Convergences: anti-Cartesian, public anchor, rejection of the museum myth.",
+        "Answer spine: decode the directive and name the owner-thinker; thesis in one line; mechanism with the exact term; objection and reply with the objector named; graded verdict with a provenance-clean date.",
+        "10 marks = spine steps one to three plus a one-line verdict; 15 marks = the full spine plus one objection; 20 marks = the full spine, two objections and a convergence close."
+      ],
+      "visuals": [
+        {
+          "title": "The confrontation on five axes",
+          "caption": "Keep the columns apart; the convergences only count after the divergence is stated.",
+          "lines": [
+            "| Axis     | QUINE                        | STRAWSON                    |",
+            "|----------|------------------------------|-----------------------------|",
+            "| Method   | naturalism, continuous with  | descriptive metaphysics,    |",
+            "|          | science                      | describe the actual scheme  |",
+            "| Scheme   | revisable come what may      | core is indispensable       |",
+            "| Meaning  | behavioural, indeterminate   | fixed by public criteria    |",
+            "| Ontology | read off best science        | the framework we must use   |",
+            "| Given    | the whole web of belief      | the public spatio-temporal  |",
+            "|          |                              | world                       |"
+          ]
+        },
+        {
+          "title": "The universal answer spine",
+          "caption": "One reusable skeleton for all nine owned parts at every mark tier.",
+          "lines": [
+            "1 DECODE   -> parse the directive; name the owner-thinker (Quine or Strawson)",
+            "        |",
+            "2 THESIS   -> one line stating what the thinker claims",
+            "        |",
+            "3 MECHANISM-> the exact term: circle of synonymy | web of belief |",
+            "              Duhem-Quine | gavagai | basic particulars |",
+            "              predicate matrix | presupposition",
+            "        |",
+            "4 OBJECTION-> name the objector: Grice and Strawson | Chomsky | Davidson |",
+            "              Evans | Ayer | Popper   ->  then give the reply",
+            "        |",
+            "5 VERDICT  -> what survives, what fails, with a provenance-clean date"
+          ]
+        }
+      ]
+    }
+  ],
+  "advanced_session_count": 10,
+  "ascii_panels": [
+    {
+      "title": "One heading, two projects: what the clause actually asks",
+      "structural_type": "two-project-orientation-map",
+      "sessions": [
+        1
+      ],
+      "lines": [
+        "START -> the clause reads: Critique of Empiricism; Theory of Basic Particulars and Persons.",
+        "TARGET -> classical and logical empiricism, attacked at two different levels.",
+        "        |",
+        "   +----+-----------------------------+",
+        "   v                                  v",
+        "QUINE 1908-2000                   STRAWSON 1919-2006",
+        "  'Two Dogmas of Empiricism' 1951   'Individuals' 1959",
+        "  LEVEL -> epistemology of           LEVEL -> starting point; the private",
+        "           confirmation                       momentary sense-datum",
+        "  MOVE  -> analytic/synthetic and    MOVE  -> identification needs a public",
+        "           reductionism both fall             spatio-temporal framework",
+        "  RESULT-> empiricism WITHOUT the    RESULT-> bodies and persons are basic;",
+        "           dogmas; still empiricist           not an empiricist at all",
+        "CLASH -> Grice and Strawson, 'In Defence of a Dogma', 1956, defend what Quine attacks.",
+        "OWNERSHIP -> nine PYQ parts 2018-2025; none in 2022; two each in 2018 and 2021.",
+        "TRAP -> writing 'the Quine-Strawson critique' as one united front."
+      ]
+    },
+    {
+      "title": "Dogma one: the circle of synonymy",
+      "structural_type": "circular-refutation-chain",
+      "sessions": [
+        2
+      ],
+      "lines": [
+        "CLAIM UNDER TEST -> there is a principled line between analytic and synthetic truth.",
+        "ANALYTIC = true by virtue of MEANING",
+        "        |",
+        "        v",
+        "MEANING -> requires SYNONYMY",
+        "        |",
+        "        +--> DEFINITION -> only RECORDS an antecedent synonymy -> CIRCULAR",
+        "        |",
+        "        +--> INTERCHANGEABILITY salva veritate",
+        "        |        needs NECESSITY, a cognate of analyticity -> CIRCULAR",
+        "        |        extensional counter-case: creature with a heart / with a kidney",
+        "        |",
+        "        +--> SEMANTIC RULES (Carnap) -> defined via 'analytic-in-L' -> CIRCULAR",
+        "OUTCOME -> no principled, non-circular criterion of analyticity.",
+        "EXACT CONCLUSION -> a difference of DEGREE (centrality), not of KIND.",
+        "OBJECTION -> Grice and Strawson 1956: a usable distinction needs no definition.",
+        "REPLY -> usability is not theoretical legitimacy; compare witch / non-witch.",
+        "PROVENANCE -> Philosophical Review, January 1951; revised 1953."
+      ]
+    },
+    {
+      "title": "Dogma two and the web of belief",
+      "structural_type": "field-of-force-holism-panel",
+      "sessions": [
+        3
+      ],
+      "lines": [
+        "DOGMA 2 -> reductionism: each sentence has its own confirming experiences.",
+        "REFUTATION -> statements face the tribunal of sense experience only as a corporate body.",
+        "  (o)  (o)  (o)  (o)  (o)   <- observation sentences at the PERIPHERY",
+        "    \\    \\    |    /    /",
+        "     [ physics, chemistry, biology ]   <- revised fairly easily",
+        "          [  mathematics  ]            <- revised rarely",
+        "             [   LOGIC   ]             <- revised last, never immune",
+        "CLASH AT THE EDGE -> revise somewhere -> the place of revision is CHOSEN.",
+        "  option A -> adjust a peripheral belief      option B -> plead hallucination",
+        "  option C -> revise a deep interior law",
+        "DOCTRINE 1 -> any statement can be held true come what may.",
+        "DOCTRINE 2 -> no statement is immune to revision, not even a law of logic.",
+        "CONSEQUENCES -> no analytic/synthetic line; no a priori/a posteriori line;",
+        "                theory-choice by simplicity, conservatism, generality, fecundity;",
+        "                the verification principle loses its application.",
+        "LIMIT -> minimum mutilation, Philosophy of Logic 1970, blocks 'anything goes'."
+      ]
+    },
+    {
+      "title": "The Duhem-Quine machinery and its two authors",
+      "structural_type": "inference-chain-plus-comparison-matrix",
+      "sessions": [
+        4
+      ],
+      "lines": [
+        "TESTABLE CLAIM -> ( H & A ) implies O, where A is background theory and conditions.",
+        "        |",
+        "OBSERVATION -> NOT-O",
+        "        |",
+        "MODUS TOLLENS -> NOT ( H & A ) only: H is false OR some element of A is false.",
+        "        |",
+        "LOGIC IS SILENT -> the conjunct to surrender is not dictated by the evidence.",
+        "        |",
+        "RESULT -> refutation is never conclusive against a single statement;",
+        "          individual verifiability has no application; dogma 2 falls structurally.",
+        "+---------------+---------------------------+--------------------------+",
+        "| Axis          | DUHEM 1906                | QUINE 1951               |",
+        "+---------------+---------------------------+--------------------------+",
+        "| Scope         | theoretical physics only  | the whole of science     |",
+        "| Logic & maths | exempt                    | included; none immune    |",
+        "| Corollary     | no experimentum crucis    | underdetermination       |",
+        "+---------------+---------------------------+--------------------------+",
+        "CASE 1 -> Uranus: revise the auxiliary -> NEPTUNE, Le Verrier and Adams, 1846.",
+        "CASE 2 -> Mercury: 'VULCAN' fails -> revise the deep law -> relativity, 1915.",
+        "REPLIES -> Popper: falsification is a methodological decision, not pure logic.",
+        "           Lakatos: hard core plus revisable protective belt."
+      ]
+    },
+    {
+      "title": "Radical translation, gavagai and the three results",
+      "structural_type": "branch-tree-with-terminal-results",
+      "sessions": [
+        5
+      ],
+      "lines": [
+        "SET-UP -> radical translation: no dictionary, no interpreter; evidence is",
+        "          stimulation plus assent or dissent only. Word and Object 1960, ch. 2.",
+        "A rabbit runs past; the native says 'Gavagai'.",
+        "        |",
+        "  +-------+---------+-----------+-------------+",
+        "  v       v         v           v             v",
+        "'rabbit' 'undetached 'temporal  'rabbithood'  'it is rabbiting'",
+        "         rabbit-     stage of a  (universal    (feature-placing;",
+        "         parts'      rabbit'     instantiated)  no object at all)",
+        "  \\_______\\_________|___________/______________/",
+        "        |  all share ONE stimulus meaning",
+        "ASK 'same gavagai?' -> presupposes the identity predicate, articles, plurals,",
+        "                       quantifiers: the APPARATUS OF INDIVIDUATION in dispute.",
+        "        |",
+        "RESULT 1 -> INSCRUTABILITY OF REFERENCE: no fact about what the terms refer to.",
+        "RESULT 2 -> INDETERMINACY OF TRANSLATION: rival analytical hypotheses agree on all",
+        "            observation sentences yet differ elsewhere; nothing decides.",
+        "RESULT 3 -> ONTOLOGICAL RELATIVITY: reference only relative to a background manual.",
+        "PREMISES -> behaviourism about evidence; verificationism about facts; naturalism.",
+        "OBJECTIONS -> Chomsky: only underdetermination. Davidson: harmless, scale-like."
+      ]
+    },
+    {
+      "title": "Quine's positive system and the reform of empiricism",
+      "structural_type": "criterion-to-programme-ladder",
+      "sessions": [
+        6
+      ],
+      "lines": [
+        "QUESTION 1 -> what is there?",
+        "  CRITERION -> 'to be is to be the value of a bound variable', On What There Is 1948.",
+        "  METHOD -> regiment best science into first-order logic; audit its quantifiers.",
+        "  CONSEQUENCE -> commitment is relative to the regimentation -> ontological relativity.",
+        "        |",
+        "QUESTION 2 -> how do we know?",
+        "  ANSWER -> naturalized epistemology; philosophy continuous with science,",
+        "            'a chapter of psychology', 1968/69; sensory input to theoretical output.",
+        "  IMAGE -> Neurath's boat: rebuilt plank by plank at sea, never in dry dock.",
+        "        |",
+        "QUESTION 3 -> what happens to the a priori?",
+        "  CHARGE -> no non-circular analyticity + universal revisability + no first",
+        "            philosophy => holding a belief a priori is a metaphysical article of faith.",
+        "        |",
+        "QUESTION 4 -> is empiricism abandoned?",
+        "  ANSWER -> no: empiricism WITHOUT the dogmas; experience still governs belief,",
+        "            holistically rather than sentence by sentence.",
+        "BRIDGE -> later Wittgenstein converges (museum myth rejected, holism, anti-private)",
+        "          but parts on method: Quine REFORMS by regimentation, Wittgenstein DESCRIBES."
+      ]
+    },
+    {
+      "title": "Strawson's basic particulars and the identification framework",
+      "structural_type": "dependence-argument-with-thought-experiment",
+      "sessions": [
+        7
+      ],
+      "lines": [
+        "METHOD -> DESCRIPTIVE metaphysics: describe the scheme we actually use.",
+        "  contrast -> REVISIONARY: Descartes, Leibniz, Berkeley propose a better scheme.",
+        "  provenance -> Individuals 1959, 'An Essay in Descriptive Metaphysics'.",
+        "        |",
+        "DEFINITION -> a BASIC PARTICULAR is identifiable without identifying anything else.",
+        "        |",
+        "ARGUMENT FROM RE-IDENTIFICATION",
+        "  1 objective thought requires re-identifying a particular as the same again",
+        "  2 re-identification requires ONE unified spatio-temporal system",
+        "  3 material bodies constitute it: three-dimensional, enduring, publicly located",
+        "  4 sounds, events, private experiences are identified only BY reference to bodies",
+        "  5 therefore MATERIAL BODIES are basic; PERSONS are the second basic particular",
+        "  STATUS -> conceptual dependence, not causal or metaphysical priority.",
+        "        |",
+        "TEST -> the purely AUDITORY no-space world",
+        "  can 'the same sound returning' be distinguished from a duplicate? Only by a",
+        "  MASTER-SOUND whose pitch fixes position -> a space-analogue is reintroduced.",
+        "  VERDICT -> the experiment supports the thesis rather than defeating it.",
+        "OBJECTION -> Evans: the construction may smuggle in spatial notions.",
+        "2020 LINK -> spatio-temporal thinking is a precondition of OBJECTIVE thinking."
+      ]
+    },
+    {
+      "title": "Persons: the predicate matrix and the double demolition",
+      "structural_type": "matrix-plus-transcendental-argument",
+      "sessions": [
+        8
+      ],
+      "lines": [
+        "THESIS -> the concept of a PERSON is logically PRIMITIVE; not mind plus body assembled.",
+        "+----------------------+--------------------------------------------------+",
+        "| M-PREDICATES         | P-PREDICATES                                     |",
+        "| also true of mere    | states of consciousness and action; only persons |",
+        "| material bodies      | others by behavioural criteria; self without     |",
+        "| 'weighs 70 kg'       | observation or criteria -> ASYMMETRY             |",
+        "+----------------------+--------------------------------------------------+",
+        "ARGUMENT",
+        "  1 I self-ascribe P-predicates ('I am in pain')",
+        "  2 a self-ascribable predicate must be understood as ascribable to others",
+        "  3 other-ascription requires identifying others as single M-and-P subjects",
+        "  4 therefore the person concept is presupposed by self-ascription itself",
+        "        |",
+        "   +----+---------------------------------+",
+        "   v                                      v",
+        "BLOCKS CARTESIAN DUALISM             BLOCKS THE NO-OWNERSHIP THEORY",
+        "  two independent substances cannot     'the experiences had by this body'",
+        "  be the ONE subject; P-predicates      covertly restores the ownership it",
+        "  become unlearnable and other minds    denies; Schlick and Lichtenberg's",
+        "  unknowable                            'it thinks' is self-refuting",
+        "GUARD -> not logical behaviourism: behaviour is criterial evidence, not meaning.",
+        "OBJECTIONS -> co-instantiation rather than primitiveness; Ayer on no-ownership."
+      ]
+    },
+    {
+      "title": "Reference, presupposition and Strawson's own anti-empiricism",
+      "structural_type": "comparison-matrix-plus-five-line-ledger",
+      "sessions": [
+        9
+      ],
+      "lines": [
+        "TEST SENTENCE -> 'The present King of France is bald' (there is no such king).",
+        "+--------------+----------------------------+---------------------------+",
+        "| Issue        | RUSSELL, On Denoting 1905  | STRAWSON, On Referring    |",
+        "|              |                            | 1950                      |",
+        "+--------------+----------------------------+---------------------------+",
+        "| Who refers   | the sentence, by quantifier| people, in a USE          |",
+        "| Existence    | ASSERTED in the analysis   | PRESUPPOSED, not asserted |",
+        "| Empty term   | the statement is FALSE     | a TRUTH-VALUE GAP         |",
+        "| Meaning      | truth-conditions of a type | rules for correct use     |",
+        "+--------------+----------------------------+---------------------------+",
+        "THREE LEVELS -> sentence (meaning) / use (truth-value) / utterance (voicing).",
+        "        |",
+        "STRAWSON AS CRITIC OF EMPIRICISM -> five distinct lines",
+        "  1 sense-data cannot be basic: private, momentary, non-spatial   [Individuals I]",
+        "  2 bundle and no-ownership selves collapse -> person is primitive [Individuals 3]",
+        "  3 reference abstracted from use is a mistake                    [On Referring]",
+        "  4 the global demand to justify induction is senseless           [Logical Theory 1952]",
+        "  5 objectivity needs a framework not drawn from experience       [Bounds of Sense 1966]",
+        "FORM -> take an undisputed fact, ask its conditions, show the empiricist materials fail.",
+        "HONEST LIMIT -> descriptive metaphysics maps our scheme, not mind-independent reality."
+      ]
+    },
+    {
+      "title": "Confrontation, convergence and the reusable answer spine",
+      "structural_type": "synthesis-pivot-and-answer-rail",
+      "sessions": [
+        10
+      ],
+      "lines": [
+        "+----------+------------------------------+-----------------------------+",
+        "| Axis     | QUINE                        | STRAWSON                    |",
+        "+----------+------------------------------+-----------------------------+",
+        "| Method   | naturalism                   | descriptive metaphysics     |",
+        "| Scheme   | revisable come what may      | core is indispensable       |",
+        "| Meaning  | behavioural, indeterminate   | fixed by public criteria    |",
+        "| Ontology | read off best science        | the framework we must use   |",
+        "| Given    | the whole web of belief      | the public spatio-temporal  |",
+        "|          |                              | world                       |",
+        "+----------+------------------------------+-----------------------------+",
+        "CONVERGENCES -> anti-Cartesian about a private inner object; the public and",
+        "                structured replaces the atomic and private; the museum myth of",
+        "                determinate private meanings is rejected by both.",
+        "DO NOT OVERSTATE -> they differ on status, meaning and method; 'they basically agree'",
+        "                    is the standing trap on comparative stems.",
+        "STANDING PIVOT -> is the conceptual scheme REVISABLE or PRESUPPOSED?",
+        "GRADED VERDICT -> the periphery is Quineanly revisable; the framework role looks",
+        "                  Strawsonianly indispensable; the truth is layered.",
+        "ANSWER SPINE -> 1 decode the directive and name the owner-thinker",
+        "                2 thesis in one line",
+        "                3 mechanism with the exact term",
+        "                4 objection and reply, objector named",
+        "                5 graded verdict with a provenance-clean date",
+        "TIERS -> 10 marks: steps 1-3 plus a verdict; 15: full spine plus one objection;",
+        "         20: full spine, two objections and a convergence close."
+      ]
+    }
+  ],
+  "verified_pyq_source": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+  "required_core_terms": [
+    "critique of empiricism",
+    "analytic",
+    "synthetic",
+    "circle of synonymy",
+    "interchangeability salva veritate",
+    "semantic rules",
+    "reductionism",
+    "confirmation holism",
+    "web of belief",
+    "corporate body",
+    "no statement is immune to revision",
+    "minimum mutilation",
+    "Duhem",
+    "modus tollens",
+    "experimentum crucis",
+    "underdetermination",
+    "Neptune",
+    "Vulcan",
+    "radical translation",
+    "stimulus meaning",
+    "observation sentence",
+    "analytical hypotheses",
+    "inscrutability of reference",
+    "indeterminacy of translation",
+    "ontological commitment",
+    "bound variable",
+    "naturalized epistemology",
+    "ontological relativity",
+    "empiricism without the dogmas",
+    "descriptive metaphysics",
+    "revisionary metaphysics",
+    "basic particular",
+    "material bodies",
+    "re-identification",
+    "spatio-temporal framework",
+    "master-sound",
+    "M-predicates",
+    "P-predicates",
+    "self-ascription",
+    "other-ascription",
+    "no-ownership",
+    "presupposition",
+    "truth-value gap",
+    "On Referring",
+    "On Denoting",
+    "In Defence of a Dogma"
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Complete-Learning-Session_2026-09-02.md",
+  "semantic_review_promotions": [
+    "printed Quine/Strawson ownership firewall",
+    "analyticity explication and semantical-rule qualification",
+    "holism, revisability and minimum-mutilation controls",
+    "ontological commitment criterion versus ontology choice",
+    "naturalized epistemology and normativity objection",
+    "translation/reference/relativity taxonomy as bounded enrichment",
+    "auditory-world analogue-of-space correction",
+    "person conceptual priority and presupposition-use caution"
+  ]
+}

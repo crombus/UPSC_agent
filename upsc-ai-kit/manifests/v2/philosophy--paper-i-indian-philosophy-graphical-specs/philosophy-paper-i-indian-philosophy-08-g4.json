@@ -1,0 +1,763 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-08",
+  "subject": "Philosophy",
+  "title": "SCHOOLS OF VEDANTA (VEDĀNTA)",
+  "short_route": "CANON AND SCHOOL TAXONOMY → ULTIMATE REALITY, LORD AND → WITNESS, REFLECTION AND KNOWLEDGE → WORLD, CAUSATION AND IGNORANCE → SUPERIMPOSITION AND GREAT STATEMENT → QUALIFIED NON-DUALISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-08_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-indian-philosophy-ascii-2026-08-25.json",
+  "ascii_spec_sha256": "a51be7c9b9ca35e60786cb696f7e58f79a3849c18b0eb70a4f35735476274720",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CANON AND SCHOOL TAXONOMY",
+      "structural_type": "source-to-school map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CANON AND SCHOOL TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "THREEFOLD CANON",
+          "role": "outcome"
+        },
+        {
+          "text": "UPANISADS + BHAGAVAD GITA + BRAHMA SUTRA",
+          "role": "comparison"
+        },
+        {
+          "text": "BADARAYANA SYSTEMATIZES; RIVAL COMMENTARIES BUILD DISTINCT SCHOOLS",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-DUAL ULTIMATE REALITY; DIFFERENCE BELONGS TO IGNORANCE",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFIED UNITY; SELVES AND WORLD ARE REAL MODES",
+          "role": "outcome"
+        },
+        {
+          "text": "GOD, SELVES AND WORLD ARE ETERNALLY DIFFERENT REALITIES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "THREEFOLD CANON: UPANISADS + BHAGAVAD GITA + BRAHMA SUTRA",
+        "Badarayana systematizes; rival commentaries build distinct schools",
+        "Advaita: non-dual ultimate reality; difference belongs to ignorance",
+        "Visistadvaita: qualified unity; selves and world are real modes",
+        "Dvaita: God, selves and world are eternally different realities"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "THREEFOLD CANON: UPANISADS + BHAGAVAD GITA + BRAHMA SUTRA",
+            "Badarayana systematizes; rival commentaries build distinct schools"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Advaita: non-dual ultimate reality; difference belongs to ignorance",
+            "Visistadvaita: qualified unity; selves and world are real modes"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Dvaita: God, selves and world are eternally different realities",
+            "THREEFOLD CANON: UPANISADS + BHAGAVAD GITA + BRAHMA SUTRA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Dvaita: God, selves and world are eternally different realities.",
+      "source_references": [
+        "Canon and school taxonomy"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ULTIMATE REALITY, LORD AND SELF",
+      "structural_type": "three-school hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ULTIMATE REALITY, LORD AND SELF",
+          "role": "primary"
+        },
+        {
+          "text": "ULTIMATE REALITY (BRAHMAN)",
+          "role": "outcome"
+        },
+        {
+          "text": "LORD (ĪŚVARA)",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUE SELF (ĀTMAN)",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALITYLESS ULTIMATE REALITY; EMPIRICAL LORD UNDER ILLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONAL QUALIFIED ULTIMATE REALITY WITH INSEPARABLE MODES",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT LORD AND PERMANENTLY DEPENDENT SELVES TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "THE THREE SCHOOLS DO NOT USE THE SAME WORD",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ULTIMATE REALITY (BRAHMAN) / LORD (ĪŚVARA) / TRUE SELF (ĀTMAN)",
+        "Advaita → qualityless ultimate reality; empirical Lord under illusion",
+        "Visistadvaita → personal qualified ultimate reality with inseparable modes",
+        "Dvaita → independent Lord and permanently dependent selves trap: the three schools do not use"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ULTIMATE REALITY (BRAHMAN) / LORD (ĪŚVARA) / TRUE SELF (ĀTMAN)",
+            "Advaita → qualityless ultimate reality; empirical Lord under illusion"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Visistadvaita → personal qualified ultimate reality with inseparable modes",
+            "Dvaita → independent Lord and permanently dependent selves trap: the three schools do not use the same word with the same ontology"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ULTIMATE REALITY (BRAHMAN) / LORD (ĪŚVARA) / TRUE SELF (ĀTMAN)",
+            "Advaita → qualityless ultimate reality; empirical Lord under illusion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "the three schools do not use the same word with the same ontology.",
+      "source_references": [
+        "Ultimate reality, Lord and self"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WITNESS, REFLECTION AND KNOWLEDGE",
+      "structural_type": "state-and-path sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WITNESS, REFLECTION AND KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "DEEP SLEEP",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-DUAL WITNESS ORIGINAL-REFLECTION IS A LATER EXPLANATORY FAMILY, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "DEEP CONTEMPLATION STABILIZES IDENTITY-KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "ATOMIC KNOWER WITH EXPANDING ATTRIBUTIVE CONSCIOUSNESS TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT CALL LORD (ĪŚVARA) BOTH ORIGINAL AND REFLECTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WAKING → DREAM → DEEP SLEEP → NON-DUAL WITNESS original-reflection is a later",
+        "explanatory family, not literal optics hearing → reflection → deep contemplation stabilizes identity-knowledge",
+        "Ramanuja: atomic knower with expanding attributive consciousness trap: do not call Lord (īśvara) both original"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "WAKING → DREAM → DEEP SLEEP → NON-DUAL WITNESS original-reflection is a later",
+            "explanatory family, not literal optics hearing → reflection → deep contemplation stabilizes identity-knowledge"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Ramanuja: atomic knower with expanding attributive consciousness trap: do not call Lord (īśvara) both original and reflection without naming the model",
+            "WAKING → DREAM → DEEP SLEEP → NON-DUAL WITNESS original-reflection is a later"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "explanatory family, not literal optics hearing → reflection → deep contemplation stabilizes identity-knowledge",
+            "Ramanuja: atomic knower with expanding attributive consciousness trap: do not call Lord (īśvara) both original and reflection without naming the model"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "atomic knower with expanding attributive consciousness trap: do not call Lord (īśvara) both original and reflection without naming the model.",
+      "source_references": [
+        "Witness, reflection and knowledge"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WORLD, CAUSATION AND IGNORANCE",
+      "structural_type": "causal contrast",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WORLD, CAUSATION AND IGNORANCE",
+          "role": "primary"
+        },
+        {
+          "text": "APPARENT TRANSFORMATION (VIVARTAVĀDA)",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL TRANSFORMATION OF DEPENDENT MODES WITHIN ULTIMATE REALITY (BRAHMAN)'S",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD EFFICIENT CAUSE; DEPENDENT PRIMORDIAL MATTER MATERIAL CAUSE INDESCRIBABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVAITA: APPARENT TRANSFORMATION (VIVARTAVĀDA)",
+        "Ramanuja: real transformation of dependent modes within Ultimate reality (Brahman)'s body",
+        "Madhva: God efficient cause",
+        "dependent primordial matter material cause indescribable illusion (māyā) projects",
+        "ignorance (avidyā) misidentifies vivarta develops causal dependence but rejects real transformation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ADVAITA: APPARENT TRANSFORMATION (VIVARTAVĀDA)",
+            "Ramanuja: real transformation of dependent modes within Ultimate reality (Brahman)'s body"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Madhva: God efficient cause",
+            "dependent primordial matter material cause indescribable illusion (māyā) projects"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ignorance (avidyā) misidentifies vivarta develops causal dependence but rejects real transformation",
+            "ADVAITA: APPARENT TRANSFORMATION (VIVARTAVĀDA)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Madhva: God efficient cause; dependent primordial matter material cause indescribable illusion (māyā) projects; ignorance (avidyā) misidentifies vivarta develops causal dependence but rejects real transformation.",
+      "source_references": [
+        "World, causation and ignorance"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SUPERIMPOSITION AND GREAT STATEMENT",
+      "structural_type": "error-to-knowledge flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SUPERIMPOSITION AND GREAT STATEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SUPERIMPOSITION (ADHYĀSA)",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF/NON-SELF CONFUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "BONDAGE GREAT STATEMENT 'THAT THOU ART' REQUIRES DISCARDING INCOMPATIBLE",
+          "role": "evidence"
+        },
+        {
+          "text": "IF IGNORANCE IS INDEFINABLE, ITS LOCUS AND REMOVAL REMAIN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUPERIMPOSITION (ADHYĀSA) → SELF/NON-SELF CONFUSION → BONDAGE great statement 'That Thou Art' requires discarding incompatible",
+        "it does not produce the already-real self pressure: if ignorance is indefinable, its locus and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SUPERIMPOSITION (ADHYĀSA) → SELF/NON-SELF CONFUSION → BONDAGE great statement 'That Thou Art' requires discarding incompatible attributes indescribable-error theory",
+            "it does not produce the already-real self pressure: if ignorance is indefinable, its locus and removal remain contested"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUPERIMPOSITION (ADHYĀSA) → SELF/NON-SELF CONFUSION → BONDAGE great statement 'That Thou Art' requires discarding incompatible attributes indescribable-error theory",
+            "it does not produce the already-real self pressure: if ignorance is indefinable, its locus and removal remain contested"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SUPERIMPOSITION (ADHYĀSA) → SELF/NON-SELF CONFUSION → BONDAGE great statement 'That Thou Art' requires discarding incompatible attributes indescribable-error theory",
+            "it does not produce the already-real self pressure: if ignorance is indefinable, its locus and removal remain contested"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUPERIMPOSITION (ADHYĀSA) → SELF/NON-SELF CONFUSION → BONDAGE great statement 'That Thou Art' requires discarding incompatible attributes indescribable-error theory explains rope-snake without making error unreal knowledge removes ignorance; it does not produce the already-real self pressure: if ignorance is indefinable, its locus and removal remain contested.",
+      "source_references": [
+        "Superimposition and great statement"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "QUALIFIED NON-DUALISM",
+      "structural_type": "body-soul relation",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "QUALIFIED NON-DUALISM",
+          "role": "primary"
+        },
+        {
+          "text": "INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI) SELVES AND WORLD ARE REAL BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE WHOLE CONTROLS AND SUPPORTS ITS REAL MODES ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITY WITHOUT ILLUSIONISM; LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PLURALITY MAY QUALIFY ABSOLUTENESS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI) selves and world are real but cannot exist apart from ultimate reality",
+        "devotion/surrender and grace liberate attributive consciousness expands without loss of individuality strength: unity without illusionism",
+        "limit: plurality may qualify absoluteness"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI) selves and world are real but cannot exist apart from ultimate reality body-soul relation: the",
+            "devotion/surrender and grace liberate attributive consciousness expands without loss of individuality strength: unity without illusionism"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "limit: plurality may qualify absoluteness",
+            "INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI) selves and world are real but cannot exist apart from ultimate reality body-soul relation: the"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "devotion/surrender and grace liberate attributive consciousness expands without loss of individuality strength: unity without illusionism",
+            "limit: plurality may qualify absoluteness"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSEPARABLE DEPENDENCE (APṚTHAKSIDDHI) selves and world are real but cannot exist apart from ultimate reality body-soul relation: the whole controls and supports its real modes action and knowledge prepare; devotion/surrender and grace liberate attributive consciousness expands without loss of individuality strength: unity without illusionism; limit: plurality may qualify absoluteness.",
+      "source_references": [
+        "Qualified non-dualism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DUALISM AND FIVEFOLD DIFFERENCE",
+      "structural_type": "difference map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DUALISM AND FIVEFOLD DIFFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "FIVEFOLD DIFFERENCE (PAÑCAVIDHA-BHEDA)",
+          "role": "outcome"
+        },
+        {
+          "text": "WORLD-WORLD DIFFERENCE IS REAL, ETERNAL AND CONSTITUTIVE RATHER THAN",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD IS EFFICIENT, NOT MATERIAL CAUSE; SOULS AND MATTER",
+          "role": "caution"
+        },
+        {
+          "text": "ROBUST REALISM; LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PERMANENT HIERARCHY AND PLURALISM NEED DEFENCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FIVEFOLD DIFFERENCE (PAÑCAVIDHA-BHEDA)",
+        "world-world difference is real, eternal and constitutive rather than ignorance-produced",
+        "God is efficient, not material cause",
+        "souls and matter remain dependent liberation preserves hierarchy, difference and blissful service strength: robust realism",
+        "limit: permanent hierarchy and pluralism need defence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FIVEFOLD DIFFERENCE (PAÑCAVIDHA-BHEDA)",
+            "world-world difference is real, eternal and constitutive rather than ignorance-produced"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "God is efficient, not material cause",
+            "souls and matter remain dependent liberation preserves hierarchy, difference and blissful service strength: robust realism"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "limit: permanent hierarchy and pluralism need defence",
+            "FIVEFOLD DIFFERENCE (PAÑCAVIDHA-BHEDA)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "God is efficient, not material cause; souls and matter remain dependent liberation preserves hierarchy, difference and blissful service strength: robust realism; limit: permanent hierarchy and pluralism need defence.",
+      "source_references": [
+        "Dualism and fivefold difference"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WIDER VEDANTA AND LIBERATION",
+      "structural_type": "four-school comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WIDER VEDANTA AND LIBERATION",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNION; DVAITA",
+          "role": "outcome"
+        },
+        {
+          "text": "GRADED ETERNAL SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNCHANGED REAL MANIFESTATION + GRACE-NOURISHED DEVOTION",
+          "role": "evidence"
+        },
+        {
+          "text": "INCONCEIVABLE DIFFERENCE-NON-DIFFERENCE + DIVINE LOVE",
+          "role": "primary"
+        },
+        {
+          "text": "NIMBARKA MATTER",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDINARY MATTER + DIVINE MATTER + TIME NEVER COLLAPSE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VISISTADVAITA → COMMUNION; DVAITA → GRADED ETERNAL SERVICE",
+        "Vallabha: unchanged real manifestation + grace-nourished devotion",
+        "Caitanya: inconceivable difference-non-difference + divine love",
+        "Nimbarka matter: ordinary matter + divine matter + time never collapse the 2018 liberation comparison"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "VISISTADVAITA → COMMUNION; DVAITA → GRADED ETERNAL SERVICE",
+          "Caitanya: inconceivable difference-non-difference + divine love",
+          "VISISTADVAITA → COMMUNION; DVAITA → GRADED ETERNAL SERVICE"
+        ],
+        [
+          "Vallabha: unchanged real manifestation + grace-nourished devotion",
+          "Nimbarka matter: ordinary matter + divine matter + time never collapse the 2018 liberation comparison into generic devotion",
+          "Vallabha: unchanged real manifestation + grace-nourished devotion"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "VISISTADVAITA → COMMUNION; DVAITA → GRADED ETERNAL SERVICE",
+            "Vallabha: unchanged real manifestation + grace-nourished devotion"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Caitanya: inconceivable difference-non-difference + divine love",
+            "Nimbarka matter: ordinary matter + divine matter + time never collapse the 2018 liberation comparison into generic devotion"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "VISISTADVAITA → COMMUNION; DVAITA → GRADED ETERNAL SERVICE",
+            "Vallabha: unchanged real manifestation + grace-nourished devotion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nimbarka matter: ordinary matter + divine matter + time never collapse the 2018 liberation comparison into generic devotion.",
+      "source_references": [
+        "Wider Vedanta and liberation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SYNTHESIS",
+      "structural_type": "answer route",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE COMMON QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BUILD THREE-COLUMN CONTRAST",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST OBJECTIONS ULTIMATE REALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERATION USE ONE PRECISE DOCTRINE AND ONE RIVAL CRITICISM",
+          "role": "primary"
+        },
+        {
+          "text": "UNITY, QUALIFIED UNITY AND DIFFERENCE SOLVE DIFFERENT PRESSURES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE COMMON QUESTION → BUILD THREE-COLUMN CONTRAST → TEST OBJECTIONS ultimate reality → Lord/self →",
+        "→ liberation use one precise doctrine and one rival criticism for each school state what",
+        "and what explanatory cost it pays qualified verdict: unity, qualified unity and difference solve different"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE COMMON QUESTION → BUILD THREE-COLUMN CONTRAST → TEST OBJECTIONS ultimate reality → Lord/self → world → ignorance/error",
+            "→ liberation use one precise doctrine and one rival criticism for each school state what each theory preserves"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "and what explanatory cost it pays qualified verdict: unity, qualified unity and difference solve different pressures",
+            "DEFINE COMMON QUESTION → BUILD THREE-COLUMN CONTRAST → TEST OBJECTIONS ultimate reality → Lord/self → world → ignorance/error"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "→ liberation use one precise doctrine and one rival criticism for each school state what each theory preserves",
+            "and what explanatory cost it pays qualified verdict: unity, qualified unity and difference solve different pressures"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "unity, qualified unity and difference solve different pressures.",
+      "source_references": [
+        "PYQ answer synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 1 — THE VEDANTA MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "ULTIMATE REALITY (BRAHMAN), CAUSATION AND ADVAITA MEANS OF VALID",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 2 — LORD (ĪŚVARA), TRUE SELF (ĀTMAN)",
+          "role": "evidence"
+        },
+        {
+          "text": "ORIGINAL, REFLECTION, MODE OR DEPENDENT SELF",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 3 — WORLD (JAGAT) AND CAUSATION",
+          "role": "outcome"
+        },
+        {
+          "text": "APPEARANCE, DIVINE BODY OR REAL DEPENDENT WORLD",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 4 — INDESCRIBABLE ILLUSION (MĀYĀ), IGNORANCE (AVIDYĀ)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "OPTIONAL DEPTH 1 — The Vedanta Map: Ultimate reality (brahman), Causation and Advaita Means of valid knowledge (pramāṇas)",
+            "OPTIONAL DEPTH 2 — Lord (Īśvara), True self (ātman) and Individual self (jīva): Original, Reflection, Mode or Dependent Self",
+            "OPTIONAL DEPTH 3 — World (jagat) and Causation: Appearance, Divine Body or Real Dependent World",
+            "OPTIONAL DEPTH 4 — Indescribable illusion (māyā), Ignorance (avidyā) and Superimposition (adhyāsa): How Advaita Explains Bondage"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "OPTIONAL DEPTH 5 — Liberation (mokṣa) Across Vedanta: Recognition, Communion, Service and Grace",
+            "OPTIONAL DEPTH 6 — Ramanuja's Qualified Non-Dualism: Inseparable dependence (apṛthaksiddhi) and the Body-Soul Model",
+            "OPTIONAL DEPTH 7 — Madhva and Wider Vedanta: Five Differences, Nimbarka, Vallabha and Caitanya",
+            "OPTIONAL DEPTH 8 — Great Upanishadic statement (mahāvākya) and Error:"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Tat Tvam Asi, Superimposition (adhyāsa) and Indescribable-error theory (anirvacanīya-khyāti)",
+            "OPTIONAL DEPTH 9 — Absolutism, Inter-school Debates and the Critique of Vedanta",
+            "OPTIONAL DEPTH 10 — PYQ Routing, Presupposition Ledgers and Answer Architecture",
+            "The Taittiriya and Chandogya teaching of an ultimate source is therefore read through"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-01T10:35:55.439073+00:00",
+  "subject": "Indian Art and Culture",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 15,
+  "topic_validations_passed": 15,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_indian_art_culture_deep_review (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_allocation_rereads_section_export_master_and_review (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_architecture_controls_preserve_attribution_limits (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_authored_q_heading_mcqs_are_rotated (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_heritage_and_language_status_firewalls_are_explicit (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_long_output_paths_remain_windows_safe (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_manifest_order_contains_all_live_topics_without_fabrication (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_original_mains_gets_full_exam_contract (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_performing_arts_controls_keep_classifications_separate (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_review_lines_respect_ascii_width (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_shared_validation_has_no_stale_library_topic_count (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_source_contract_requires_status_and_interpretive_discipline (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\ntest_unicode_nul_inventory_is_implemented (test_regenerate_indian_art_culture_deep_review.IndianArtCultureDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.039s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_01_02_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_01_02_sequential.IndianArtCulture0102GeneratorTests) ... ok\ntest_harappan_evidence_boundaries_and_pyq_are_preserved (test_generate_indian_art_culture_01_02_sequential.IndianArtCulture0102GeneratorTests) ... ok\ntest_rock_cut_route_and_site_distinctions_are_preserved (test_generate_indian_art_culture_01_02_sequential.IndianArtCulture0102GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.172s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_03_04_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_03_04_sequential.IndianArtCulture0304GeneratorTests) ... ok\ntest_indo_islamic_synthesis_and_routing_correction_are_preserved (test_generate_indian_art_culture_03_04_sequential.IndianArtCulture0304GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_03_04_sequential.IndianArtCulture0304GeneratorTests) ... ok\ntest_temple_pyq_cluster_and_close_option_distinctions_are_preserved (test_generate_indian_art_culture_03_04_sequential.IndianArtCulture0304GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.193s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_05_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_05_sequential.IndianArtCulture05GeneratorTests) ... ok\ntest_modern_architecture_precision_and_zero_pyq_audit_are_preserved (test_generate_indian_art_culture_05_sequential.IndianArtCulture05GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_05_sequential.IndianArtCulture05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.081s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_06_07_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_06_07_sequential.IndianArtCulture0607GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_art_culture_06_07_sequential.IndianArtCulture0607GeneratorTests) ... ok\ntest_painting_routes_and_live_boundary_are_preserved (test_generate_indian_art_culture_06_07_sequential.IndianArtCulture0607GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_06_07_sequential.IndianArtCulture0607GeneratorTests) ... ok\ntest_sculpture_pyqs_and_attribution_limits_are_preserved (test_generate_indian_art_culture_06_07_sequential.IndianArtCulture0607GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_art_culture_06_07_sequential.IndianArtCulture0607GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.281s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_08_09_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_08_09_sequential.IndianArtCulture0809GeneratorTests) ... ok\ntest_dance_recognition_and_form_distinctions_are_preserved (test_generate_indian_art_culture_08_09_sequential.IndianArtCulture0809GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_art_culture_08_09_sequential.IndianArtCulture0809GeneratorTests) ... ok\ntest_music_definitions_attribution_and_pyq_limits_are_preserved (test_generate_indian_art_culture_08_09_sequential.IndianArtCulture0809GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_08_09_sequential.IndianArtCulture0809GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_art_culture_08_09_sequential.IndianArtCulture0809GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.290s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_10_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_10_sequential.IndianArtCulture10GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_art_culture_10_sequential.IndianArtCulture10GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_10_sequential.IndianArtCulture10GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_art_culture_10_sequential.IndianArtCulture10GeneratorTests) ... ok\ntest_theatre_puppetry_and_safeguarding_limits_are_preserved (test_generate_indian_art_culture_10_sequential.IndianArtCulture10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.142s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_11_12_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_11_12_sequential.IndianArtCulture1112GeneratorTests) ... ok\ntest_craft_gi_and_eri_boundaries_are_preserved (test_generate_indian_art_culture_11_12_sequential.IndianArtCulture1112GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_art_culture_11_12_sequential.IndianArtCulture1112GeneratorTests) ... ok\ntest_language_script_and_manuscript_boundaries_are_preserved (test_generate_indian_art_culture_11_12_sequential.IndianArtCulture1112GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_11_12_sequential.IndianArtCulture1112GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_art_culture_11_12_sequential.IndianArtCulture1112GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.295s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_13_14_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_indian_art_culture_13_14_sequential.IndianArtCulture1314GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_art_culture_13_14_sequential.IndianArtCulture1314GeneratorTests) ... ok\ntest_heritage_categories_and_institutions_are_preserved (test_generate_indian_art_culture_13_14_sequential.IndianArtCulture1314GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_13_14_sequential.IndianArtCulture1314GeneratorTests) ... ok\ntest_religion_philosophy_and_synthesis_limits_are_preserved (test_generate_indian_art_culture_13_14_sequential.IndianArtCulture1314GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_art_culture_13_14_sequential.IndianArtCulture1314GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.352s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_indian_art_culture_15_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_cinema_history_institutions_and_award_limits_are_preserved (test_generate_indian_art_culture_15_sequential.IndianArtCulture15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_indian_art_culture_15_sequential.IndianArtCulture15GeneratorTests) ... ok\ntest_generator_has_no_publish_side_effects (test_generate_indian_art_culture_15_sequential.IndianArtCulture15GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_indian_art_culture_15_sequential.IndianArtCulture15GeneratorTests) ... ok\ntest_session_definitions_pass_semantic_quality_audit (test_generate_indian_art_culture_15_sequential.IndianArtCulture15GeneratorTests) ... ok\ntest_short_advanced_owner_is_preserved_without_fabricated_sections (test_generate_indian_art_culture_15_sequential.IndianArtCulture15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.147s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 1.572s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 9.221s\n\nOK"
+    }
+  ],
+  "test_count": 115,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 15,
+    "learning_and_workbook_pdfs_checked": 30,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "full_library_validation": {
+    "topic_count": 274,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+    "status": "passed"
+  },
+  "post_shared_checks": [
+    {
+      "command": "python tools\\sync_deep_review_tracker.py",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "Synced 274 topics; added=0 reset=0."
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-14",
+  "subject": "Philosophy",
+  "title": "POLITICAL OBLIGATION, RESISTANCE AND LAW",
+  "short_route": "POLITICAL OBLIGATION: PROBLEM, DEFINITIONS → LAW: NATURE, SCHOOLS AND → OBLIGATION THINKERS FROM HOBBES → JURISPRUDENCE, RESISTANCE AND COMPARATIVE → PUNISHMENT, TRAPS, BOUNDARIES AND → THESES AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-14_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-14-ascii-2026-08-28-g2.json",
+  "ascii_spec_sha256": "b237581cf25c590f3fcd4f7696753ae0879270704584dadbc31a692f7f2ac938",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POLITICAL OBLIGATION: PROBLEM, DEFINITIONS AND GROUNDS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "POLITICAL OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "PROBLEM, DEFINITIONS AND GROUNDS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] POLITICAL OBLIGATION ASKS WHY, WHEN AND HOW FAR",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FORCE EXPLAINS COMPLIANCE BUT CANNOT BY ITSELF CREATE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CONSENT, COMMON GOOD AND RIGHTS SUPPLY RIVAL GROUNDS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE SUBJECT THEREFORE BEGINS BY SEPARATING POWER, AUTHORITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "COERCIVE SUCCESS EXPLAINS OBEDIENCE BUT NOT A DUTY TO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Political Obligation: Problem, Definitions and Grounds",
+        "[1] Political obligation asks why, when and how far authority should be obeyed.",
+        "[2] Force explains compliance but cannot by itself create a moral duty.",
+        "[3] Consent, common good and rights supply rival grounds of obligation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Political Obligation: Problem, Definitions and Grounds",
+            "[1] Political obligation asks why, when and how far authority should be obeyed."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Force explains compliance but cannot by itself create a moral duty.",
+            "[3] Consent, common good and rights supply rival grounds of obligation.",
+            "[4] The subject therefore begins by separating power, authority and justified obedience."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Coercive success explains obedience but not a duty to obey.",
+            "ANSWER USE → Open by separating causal compliance from justified obligation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Coercive success explains obedience but not a duty to obey.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAW: NATURE, SCHOOLS AND THE RULE-OF-LAW SEQUENCE",
+      "structural_type": "doctrine-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NATURE, SCHOOLS AND THE RULE-OF-LAW SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PRESCRIPTIVE LAW DIRECTS CONDUCT; SCIENTIFIC LAW DESCRIBES REGULARITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NATURAL, ANALYTICAL, HISTORICAL AND SOCIOLOGICAL SCHOOLS ASK DIFFERENT",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] LEGAL VALIDITY AND MORAL LEGITIMACY CAN DIVERGE WITHOUT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] RULE OF LAW JOINS KNOWN RULES TO RESTRAINTS",
+          "role": "outcome"
+        },
+        {
+          "text": "LAW MUST BE ANALYSED THROUGH VALIDITY, PURPOSE, HISTORY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Law: Nature, Schools and the Rule-of-Law Sequence",
+        "[1] Prescriptive law directs conduct; scientific law describes regularity.",
+        "[2] Natural, analytical, historical and sociological schools ask different questions.",
+        "[3] Legal validity and moral legitimacy can diverge without making law irrelevant."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Law: Nature, Schools and the Rule-of-Law Sequence",
+            "[1] Prescriptive law directs conduct; scientific law describes regularity."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Natural, analytical, historical and sociological schools ask different questions.",
+            "[3] Legal validity and moral legitimacy can diverge without making law irrelevant.",
+            "[4] Rule of law joins known rules to restraints on arbitrary public power."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Law must be analysed through validity, purpose, history and restraint.",
+            "ANSWER USE → Name the jurisprudential question before selecting a school."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Law must be analysed through validity, purpose, history and restraint.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OBLIGATION THINKERS FROM HOBBES TO GANDHI",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OBLIGATION THINKERS FROM HOBBES TO GANDHI",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HOBBES PRIORITISES SECURITY; LOCKE TREATS GOVERNMENT AS A",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ROUSSEAU LINKS OBEDIENCE TO THE GENERAL WILL; GREEN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MARXISTS AND ANARCHISTS DENY DUTY TO THE COERCIVE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] GANDHI AND THOREAU TURN CONSCIENCE INTO DISCIPLINED, PUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUNDS OF OBLIGATION PRODUCE DIFFERENT LIMITS ON RESISTANCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Obligation Thinkers from Hobbes to Gandhi",
+        "[1] Hobbes prioritises security; Locke treats government as a limited trust.",
+        "[2] Rousseau links obedience to the general will; Green limits it by common good.",
+        "[3] Marxists and anarchists deny duty to the coercive state in different ways."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Obligation Thinkers from Hobbes to Gandhi",
+            "[1] Hobbes prioritises security; Locke treats government as a limited trust."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Rousseau links obedience to the general will; Green limits it by common good.",
+            "[3] Marxists and anarchists deny duty to the coercive state in different ways.",
+            "[4] Gandhi and Thoreau turn conscience into disciplined, public non-compliance."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Grounds of obligation produce different limits on resistance.",
+            "ANSWER USE → Compare security, trust, civic authorship and common good."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Grounds of obligation produce different limits on resistance.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JURISPRUDENCE, RESISTANCE AND COMPARATIVE APPLICATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JURISPRUDENCE, RESISTANCE AND COMPARATIVE APPLICATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] AUSTIN DEFINES LAW THROUGH SOVEREIGN COMMAND AND SANCTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] KELSEN AND HART RECONSTRUCT POSITIVISM THROUGH NORM HIERARCHY",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] DWORKIN IS AN INTERPRETIVIST CRITIC, NOT A FOURTH",
+          "role": "caution"
+        },
+        {
+          "text": "[4] RESISTANCE, REVOLUTION, OBJECTION AND CIVIL DISOBEDIENCE REMAIN DISTINCT",
+          "role": "outcome"
+        },
+        {
+          "text": "DWORKIN CHALLENGES POSITIVISM RATHER THAN COMPLETING ITS INTERNAL SEQUENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Jurisprudence, Resistance and Comparative Application",
+        "[1] Austin defines law through sovereign command and sanction.",
+        "[2] Kelsen and Hart reconstruct positivism through norm hierarchy and rule structure.",
+        "[3] Dworkin is an interpretivist critic, not a fourth positivist refinement."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Kelsen and Hart reconstruct positivism through norm hierarchy and rule structure.",
+          "VERDICT → Dworkin challenges positivism rather than completing its internal sequence."
+        ],
+        [
+          "Jurisprudence, Resistance and Comparative Application",
+          "[3] Dworkin is an interpretivist critic, not a fourth positivist refinement.",
+          "ANSWER USE → Separate Austin, Kelsen, Hart and Dworkin by argumentative role."
+        ],
+        [
+          "[1] Austin defines law through sovereign command and sanction.",
+          "[4] Resistance, revolution, objection and civil disobedience remain distinct modes.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Jurisprudence, Resistance and Comparative Application",
+            "[1] Austin defines law through sovereign command and sanction."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Kelsen and Hart reconstruct positivism through norm hierarchy and rule structure.",
+            "[3] Dworkin is an interpretivist critic, not a fourth positivist refinement.",
+            "[4] Resistance, revolution, objection and civil disobedience remain distinct modes."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "VERDICT → Dworkin challenges positivism rather than completing its internal sequence.",
+            "ANSWER USE → Separate Austin, Kelsen, Hart and Dworkin by argumentative role."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Dworkin challenges positivism rather than completing its internal sequence.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PUNISHMENT, TRAPS, BOUNDARIES AND SOURCE DISCIPLINE",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PUNISHMENT, TRAPS, BOUNDARIES AND SOURCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] RETRIBUTION ASKS WHAT CULPABLE WRONGDOING DESERVES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DETERRENCE ASKS WHAT PREVENTS FUTURE CRIME; REFORM ASKS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PROPORTIONALITY LIMITS SEVERITY AND PREVENTS PUNISHMENT FROM BECOMING",
+          "role": "primary"
+        },
+        {
+          "text": "[4] LEGAL GUILT NEVER SETTLES AIM, QUANTUM, FALLIBILITY OR",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNISHMENT REQUIRES GUILT, A JUSTIFIED AIM AND PROPORTIONATE SEVERITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Punishment, Traps, Boundaries and Source Discipline",
+        "[1] Retribution asks what culpable wrongdoing deserves.",
+        "[2] Deterrence asks what prevents future crime; reform asks how return is possible.",
+        "[3] Proportionality limits severity and prevents punishment from becoming revenge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Punishment, Traps, Boundaries and Source Discipline",
+            "[1] Retribution asks what culpable wrongdoing deserves."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Deterrence asks what prevents future crime; reform asks how return is possible.",
+            "[3] Proportionality limits severity and prevents punishment from becoming revenge.",
+            "[4] Legal guilt never settles aim, quantum, fallibility or dignity by itself."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Punishment requires guilt, a justified aim and proportionate severity.",
+            "ANSWER USE → Do not infer deterrence or desert merely from a harsh sentence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Punishment requires guilt, a justified aim and proportionate severity.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESES AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THESES AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A POLITICAL-OBLIGATION THESIS MUST IDENTIFY UNLIMITED, LIMITED OR",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECTIVE CONTROL DETERMINES WHETHER THE ANSWER DISTINGUISHES, DISCUSSES",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CIVIL-DISOBEDIENCE ANSWERS MUST STATE PUBLICITY, NON-VIOLENCE AND ACCEPTED",
+          "role": "institution"
+        },
+        {
+          "text": "[4] A JURISPRUDENCE ANSWER MUST SEPARATE POSITIVIST RECONSTRUCTION FROM",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVE FIDELITY DETERMINES THE COMPARISON AND VERDICT REQUIRED.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses and Directive-Specific Architecture",
+        "[1] A political-obligation thesis must identify unlimited, limited or anti-obligation.",
+        "[2] Directive control determines whether the answer distinguishes, discusses or evaluates.",
+        "[3] Civil-disobedience answers must state publicity, non-violence and accepted penalty."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses and Directive-Specific Architecture",
+            "[1] A political-obligation thesis must identify unlimited, limited or anti-obligation."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Directive control determines whether the answer distinguishes, discusses or evaluates.",
+            "[3] Civil-disobedience answers must state publicity, non-violence and accepted penalty.",
+            "[4] A jurisprudence answer must separate positivist reconstruction from Dworkin's critique."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Directive fidelity determines the comparison and verdict required.",
+            "ANSWER USE → State the obligation camp or jurisprudential dispute in the thesis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Directive fidelity determines the comparison and verdict required.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AUSTIN, HART AND DWORKIN: ARGUMENT RECONSTRUCTION",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AUSTIN, HART AND DWORKIN",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT RECONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] AUSTIN'S COMMAND MODEL CANNOT EXPLAIN EVERY POWER-CONFERRING LEGAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] HART ANSWERS WITH PRIMARY AND SECONDARY RULES GROUNDED",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DWORKIN ARGUES THAT LEGAL PRINCIPLES CONSTRAIN HARD CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE RESIDUAL DISPUTE CONCERNS SOURCES, PRINCIPLES AND JUDICIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL SYSTEMS CONTAIN COMMANDS, RULES, PRACTICES AND CONTESTED PRINCIPLES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Austin, Hart and Dworkin: Argument Reconstruction",
+        "[1] Austin's command model cannot explain every power-conferring legal rule.",
+        "[2] Hart answers with primary and secondary rules grounded in social practice.",
+        "[3] Dworkin argues that legal principles constrain hard cases beyond pedigree tests."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Austin, Hart and Dworkin: Argument Reconstruction",
+            "[1] Austin's command model cannot explain every power-conferring legal rule."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Hart answers with primary and secondary rules grounded in social practice.",
+            "[3] Dworkin argues that legal principles constrain hard cases beyond pedigree tests.",
+            "[4] The residual dispute concerns sources, principles and judicial interpretation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Legal systems contain commands, rules, practices and contested principles.",
+            "ANSWER USE → Reconstruct each critique before judging the remaining dispute."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Legal systems contain commands, rules, practices and contested principles.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NAMED EVIDENCE FOR OBLIGATION, LAW AND RESISTANCE",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NAMED EVIDENCE FOR OBLIGATION, LAW AND RESISTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THOREAU'S TAX REFUSAL ILLUSTRATES CONSCIENCE AGAINST PARTICIPATION IN",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] GANDHI'S SALT-LAW DEFIANCE ILLUSTRATES PUBLIC AND NON-VIOLENT CIVIL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] KELSEN'S GRUNDNORM AND DWORKIN'S INHERITANCE PRINCIPLE ARE JURISPRUDENTIAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] TRAFFIC REGULATION ILLUSTRATES CLARITY AND RELEVANT DIFFERENTIATION UNDER",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED EXAMPLES EARN MARKS ONLY WHEN THEIR CONCEPTUAL ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Named Evidence for Obligation, Law and Resistance",
+        "[1] Thoreau's tax refusal illustrates conscience against participation in injustice.",
+        "[2] Gandhi's salt-law defiance illustrates public and non-violent civil disobedience.",
+        "[3] Kelsen's Grundnorm and Dworkin's inheritance principle are jurisprudential evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Named Evidence for Obligation, Law and Resistance",
+            "[1] Thoreau's tax refusal illustrates conscience against participation in injustice."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Gandhi's salt-law defiance illustrates public and non-violent civil disobedience.",
+            "[3] Kelsen's Grundnorm and Dworkin's inheritance principle are jurisprudential evidence.",
+            "[4] Traffic regulation illustrates clarity and relevant differentiation under rule of law."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Named examples earn marks only when their conceptual role is explicit.",
+            "ANSWER USE → Pair every event or text with one distinction and one boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Named examples earn marks only when their conceptual role is explicit.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CLAIM-EVIDENCE-LIMIT AND MARK-SCALED ANSWERS",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CLAIM-EVIDENCE-LIMIT AND MARK-SCALED ANSWERS",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A 10-MARKER NEEDS ONE DISTINCTION, ONE THINKER AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] A 15-MARKER COMPARES GROUNDS OR RUNS ONE OBJECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] A 20-MARKER INTEGRATES VALIDITY, LEGITIMACY, RESISTANCE AND RULE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] EVERY CONCLUSION MUST SPECIFY THE CONDITIONS UNDER WHICH",
+          "role": "outcome"
+        },
+        {
+          "text": "MARK-SCALED STRUCTURE PREVENTS BOTH SLOGAN AND UNCONTROLLED NARRATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Claim-Evidence-Limit and Mark-Scaled Answers",
+        "[1] A 10-marker needs one distinction, one thinker and a direct verdict.",
+        "[2] A 15-marker compares grounds or runs one objection and reply.",
+        "[3] A 20-marker integrates validity, legitimacy, resistance and rule of law."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Claim-Evidence-Limit and Mark-Scaled Answers",
+            "[1] A 10-marker needs one distinction, one thinker and a direct verdict."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] A 15-marker compares grounds or runs one objection and reply.",
+            "[3] A 20-marker integrates validity, legitimacy, resistance and rule of law.",
+            "[4] Every conclusion must specify the conditions under which obedience remains justified."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Mark-scaled structure prevents both slogan and uncontrolled narration.",
+            "ANSWER USE → Expand from one distinction to an objection-reply architecture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Mark-scaled structure prevents both slogan and uncontrolled narration.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CAUTIOUS INDIAN APPLICATION AND FINAL INTEGRATION",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAUTIOUS INDIAN APPLICATION AND FINAL INTEGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE MARCH 2026 TELE-LAW CONSULTATION IS AN ACCESS-TO-JUSTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ACCESSIBLE LEGAL ADVICE CAN MAKE REMEDIES AND COMPLIANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SERVICE EXPANSION CANNOT PROVE THAT EVERY ENACTED RULE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] USE THE EXAMPLE FOR LEGITIMACY AND RULE-OF-LAW ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS TO LEGAL ADVICE CAN SUPPORT LEGITIMACY WITHOUT PROVING",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Cautious Indian Application and Final Integration",
+        "[1] The March 2026 Tele-Law consultation is an access-to-justice anchor.",
+        "[2] Accessible legal advice can make remedies and compliance practically meaningful.",
+        "[3] Service expansion cannot prove that every enacted rule or official act is just."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Cautious Indian Application and Final Integration",
+            "[1] The March 2026 Tele-Law consultation is an access-to-justice anchor."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Accessible legal advice can make remedies and compliance practically meaningful.",
+            "[3] Service expansion cannot prove that every enacted rule or official act is just.",
+            "[4] Use the example for legitimacy and rule-of-law access, not unverified legal detail."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Access to legal advice can support legitimacy without proving justice.",
+            "ANSWER USE → Use Tele-Law only for remedies, accessibility and rule-of-law capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Use Tele-Law only for remedies, accessibility and rule-of-law capacity.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TEST FORCE VERSUS DUTY AND VALIDITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THEY ALSO TEST RESISTANCE VERSUS REVOLUTION AND OBJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] AUSTIN, KELSEN AND HART REMAIN DISTINCT FROM DWORKIN'S",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PUNISHMENT THEORIES ANSWER DESERT, PREVENTION AND REFORM QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE OPTIONS ARE SEPARATED BY TARGET, METHOD AND JUSTIFICATORY",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options test force versus duty and validity versus legitimacy.",
+        "[2] They also test resistance versus revolution and objection versus civil disobedience.",
+        "[3] Austin, Kelsen and Hart remain distinct from Dworkin's interpretivist challenge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close options test force versus duty and validity versus legitimacy."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] They also test resistance versus revolution and objection versus civil disobedience.",
+            "[3] Austin, Kelsen and Hart remain distinct from Dworkin's interpretivist challenge.",
+            "[4] Punishment theories answer desert, prevention and reform questions separately."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options are separated by target, method and justificatory basis.",
+            "ANSWER USE → Identify the decisive distinction before eliminating an option."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close options are separated by target, method and justificatory basis.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FOUR PUNISHMENT PYQS ARE TRANSFERRED ONLY FOR CROSS-APPLICATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] PRIMARY OWNERSHIP REMAINS PHILOSOPHY PAPER II - CRIME",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SIX ORIGINAL QUESTIONS TEST OBLIGATION, RESISTANCE, JURISPRUDENCE AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "VALID LAW EARNS DUTY ONLY THROUGH LEGITIMACY AND NON-ARBITRARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-APPLIED PYQS RETAIN THEIR CRIME AND PUNISHMENT OWNERSHIP.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Four punishment PYQs are transferred only for cross-application.",
+        "[2] Primary ownership remains Philosophy Paper II - Crime and Punishment.",
+        "[3] Six original questions test obligation, resistance, jurisprudence and rule of law."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Four punishment PYQs are transferred only for cross-application."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Primary ownership remains Philosophy Paper II - Crime and Punishment.",
+            "[3] Six original questions test obligation, resistance, jurisprudence and rule of law.",
+            "[4] Final recall: valid law earns duty only through legitimacy and non-arbitrary rule."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Cross-applied PYQs retain their Crime and Punishment ownership.",
+            "ANSWER USE → Cite ownership, then apply only the relevant Political Theory lens."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Cross-applied PYQs retain their Crime and Punishment ownership.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 08",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-08",
+      "display_title": "Riverine Floods and Urban Flood Resilience",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-08_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Flood-family matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "RIVERINE -> channel / floodplain overflow",
+            "PLUVIAL -> rainfall exceeds local storage / drainage",
+            "FLASH -> rapid concentrated runoff or sudden release",
+            "URBAN / COASTAL -> built catchment or sea interaction"
+          ],
+          "source_references": [
+            "Flood taxonomy",
+            "Riverine flooding",
+            "Pluvial flooding",
+            "Flash flooding"
+          ]
+        },
+        {
+          "title": "Catchment-to-city chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RAINFALL + ANTECEDENT MOISTURE + SLOPE / LAND COVER",
+            "TRIBUTARY TIMING + CHANNEL / SEDIMENT CONDITION",
+            "FLOODPLAIN / CITY EXPOSURE",
+            "OUTCOME -> drainage land use warning and capacity"
+          ],
+          "source_references": [
+            "Basin-catchment process",
+            "Urban flooding"
+          ]
+        },
+        {
+          "title": "Urban runoff mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IMPERVIOUS SURFACE -> FASTER RUNOFF",
+            "SYNCHRONISED PEAK -> OVERBURDENED DRAIN",
+            "BLOCKAGE / ENCROACHMENT -> BACKFLOW / WATERLOGGING",
+            "DENSE EXPOSURE -> SERVICE AND LIVELIHOOD LOSS"
+          ],
+          "source_references": [
+            "Imperviousness and drainage"
+          ]
+        },
+        {
+          "title": "Water-space firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FLOODPLAIN -> room for river expansion",
+            "WETLAND / LAKE -> storage and attenuation",
+            "NATURAL DRAIN -> conveyance path",
+            "ENCROACHMENT -> exposure + lost hydraulic function"
+          ],
+          "source_references": [
+            "Floodplain encroachment",
+            "Wetlands and sponge-city concepts"
+          ]
+        },
+        {
+          "title": "Compound coastal flood map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "RIVER FLOW -> ESTUARY",
+            "PLUVIAL RUNOFF -> URBAN DRAIN",
+            "SURGE / TIDE / WAVE -> DOWNSTREAM IMPEDANCE",
+            "COMBINATION -> COMPOUND INUNDATION"
+          ],
+          "source_references": [
+            "Coastal flooding"
+          ]
+        },
+        {
+          "title": "CWC forecast rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 OBSERVE LEVEL / DISCHARGE / INFLOW",
+            "2 ANALYSE AND FORECAST",
+            "3 ISSUE SITE-SPECIFIC CATEGORY / MESSAGE",
+            "4 ADMINISTRATION / PROJECT AUTHORITY ACTS"
+          ],
+          "source_references": [
+            "CWC forecasting",
+            "Site-specific thresholds"
+          ]
+        },
+        {
+          "title": "Reservoir governance boundary",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "INFLOW FORECAST + CURRENT STORAGE",
+            "OPERATING RULE / DAM CONDITION / DOWNSTREAM CAPACITY",
+            "GATE DECISION -> TIMELY DOWNSTREAM WARNING",
+            "TRAP -> DAM IS NEITHER GUARANTEE NOR SINGLE CAUSE"
+          ],
+          "source_references": [
+            "Reservoir-operation boundary"
+          ]
+        },
+        {
+          "title": "Structural measure test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DAM / RESERVOIR -> storage and operation limits",
+            "EMBANKMENT -> local protection and breach / transfer risk",
+            "CHANNEL / DIVERSION -> conveyance and downstream effects",
+            "DRAINAGE -> capacity depends on outlet and maintenance"
+          ],
+          "source_references": [
+            "Structural-measure limits"
+          ]
+        },
+        {
+          "title": "Urban planning portfolio",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "MASTER PLAN + FLOODPLAIN ZONING",
+            "DRAIN INVENTORY + CATCHMENT / CONTOUR DESIGN",
+            "SOLID WASTE + WATERWAY / WETLAND PROTECTION",
+            "BUILDING / ROAD / UTILITY DEVELOPMENT CONTROL"
+          ],
+          "source_references": [
+            "Urban planning"
+          ]
+        },
+        {
+          "title": "Sponge-city portfolio",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "ROOF / PLOT -> capture infiltrate delay",
+            "STREET / PARK -> permeable and detention space",
+            "LAKE / WETLAND -> distributed storage",
+            "MAJOR DRAIN / BASIN -> convey residual flows"
+          ],
+          "source_references": [
+            "Wetlands and sponge-city concepts"
+          ]
+        },
+        {
+          "title": "Inclusive service recovery loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "ACCESSIBLE WARNING -> TRANSPORT -> SHELTER",
+            "RELIEF + HEALTH + GRIEVANCE -> SERVICE RESTORATION",
+            "HOUSING LIVELIHOOD WETLAND AND DRAIN REPAIR",
+            "FEEDBACK -> SAFER PLAN AND INTER-JURISDICTION ACTION"
+          ],
+          "source_references": [
+            "Resilient infrastructure",
+            "Inclusive evacuation and relief",
+            "Recovery and coordination"
+          ]
+        },
+        {
+          "title": "Flood answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY FLOOD -> TRACE CATCHMENT CITY COAST MECHANISM",
+            "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION",
+            "COMBINE ZONING DRAINAGE WETLANDS STRUCTURES AND UFRMP",
+            "ADD INCLUSION COORDINATION RECOVERY AND OUTCOME QUALIFICATION"
+          ],
+          "source_references": [
+            "Urban Flood Risk Management Programme",
+            "Forecast-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "social-justice-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "social_justice_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-09",
+      "display_title": "OBC, EWS and Social Mobility",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two routes, two logics",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISADVANTAGE -> social and educational backwardness OR pure economic weakness",
+            "-> ROUTE A: Article 15(4) and Article 16(4); listed classes; 27 per cent; creamy-layer filter",
+            "-> ROUTE B: Article 15(6) and Article 16(6); up to 10 per cent; excludes SC, ST and OBC",
+            "-> EVIDENCE A: community backwardness; EVIDENCE B: notified income and asset test",
+            "TEST -> neither route supplies the other route's evidence or its filter",
+            "MUST REMEMBER: OBC, EWS and social mobility analysis separates social and educational..."
+          ],
+          "source_references": [
+            "What this owner holds and why its previous-year record is stated as zero",
+            "The constitutional and statutory bank for a backward-class answer",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Law bank",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ARTICLE 15(4) AND 16(4) -> special provision and reservation for backward classes",
+            "ARTICLE 342A -> Central List; President specifies; Parliament alone includes or excludes",
+            "ARTICLE 338B -> the national commission for backward classes, inserted in 2018",
+            "ARTICLE 15(6) AND 16(6) -> economically weaker sections, inserted in 2019",
+            "STATUTE -> National Commission for Backward Classes Act, 1993, later repealed"
+          ],
+          "source_references": [
+            "The constitutional and statutory bank for a backward-class answer",
+            "The Central List route under Article 342A",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "List-making ladder",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "STEP 1 -> community backwardness examined against social and educational indicators",
+            "STEP 2 -> commission examines inclusion or exclusion requests and advises",
+            "STEP 3 -> President specifies the Central List under Article 342A",
+            "STEP 4 -> Parliament alone varies that list by including or excluding a community",
+            "PARALLEL -> States prepare their own lists for State purposes after the 105th Amendment"
+          ],
+          "source_references": [
+            "The Central List route under Article 342A",
+            "State lists and the restoration effected by the 105th Amendment",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Commission status card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "CONSTITUTED -> under the Act of 1993 dated 2 April 1993; reconstituted seven times to 2016",
+            "REPEALED -> the 1993 Act, through the Repeal Act of 2018 dated 14 August 2018",
+            "ELEVATED -> eighth commission, 102nd Amendment dated 11 August 2018, Article 338B inserted",
+            "COMPOSITION -> Chairperson, Vice-Chairperson and three other Members",
+            "RANK -> Secretary to the Government of India; conditions notified on 23 August 2018"
+          ],
+          "source_references": [
+            "The commission's own account of its constitutional status",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Creamy-layer test",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "LIMB 1 STATUS -> notified parental service and status categories exclude the applicant",
+            "LIMB 2 INCOME -> ceiling of ₹8 lakh applied over three consecutive years",
+            "EXCLUSIONS -> salary income and agricultural-land income are not simply clubbed in",
+            "SCOPE -> the filter runs inside the other backward classes only",
+            "ERROR -> transferring the filter to Scheduled Caste or Scheduled Tribe reservation"
+          ],
+          "source_references": [
+            "The creamy layer is a status test before it is an income test",
+            "Creamy layer is confined to the other backward classes",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Amendment and judgment sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1992 -> Indra Sawhney upholds 27 per cent, mandates creamy layer, states the 50 per cent ceiling",
+            "2018 -> 102nd Amendment inserts Article 338B and Article 342A; the 1993 Act is repealed",
+            "2019 -> 103rd Amendment inserts Article 15(6) and Article 16(6) for economic weakness",
+            "2021 -> Maratha reservation reading centralises list-making; 105th Amendment restores States",
+            "2022 -> Janhit Abhiyan upholds the economic criterion by a majority of three to two"
+          ],
+          "source_references": [
+            "What Indra Sawhney decided in 1992",
+            "State lists and the restoration effected by the 105th Amendment",
+            "Janhit Abhiyan in November 2022 and the shape of the disagreement",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Economic-criterion card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "NOTIFIED -> Department of Personnel and Training notification dated 31 January 2019",
+            "INCOME -> gross annual family income below ₹8 lakh",
+            "LAND -> family must not own five acres or more of agricultural land",
+            "BUILT -> no residential flat of 1,000 sq ft or more",
+            "PLOT -> no plot of 100 sq yards in a notified municipality or 200 sq yards elsewhere"
+          ],
+          "source_references": [
+            "The notified income and asset criteria for that category",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Same figure, different test",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CREAMY LAYER -> ₹8 lakh since September 2017; three consecutive years",
+            "PLUS -> notified parental service and status categories; salary and land income excluded",
+            "ECONOMIC CRITERION -> ₹8 lakh since January 2019; gross annual family income",
+            "PLUS -> notified land, flat and plot asset limits, unchanged since 2019",
+            "RULE -> identical arithmetic proves nothing about identical eligibility"
+          ],
+          "source_references": [
+            "Why two identical rupee figures are two different legal tests",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Judgment split",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "HELD -> reservation for economically weaker sections is constitutionally valid",
+            "MAJORITY -> an economic criterion alone can ground affirmative action",
+            "MAJORITY -> exceeding the ceiling for a new category does not breach the basic structure",
+            "DISSENT -> excluding the reserved categories from a new benefit denies substantive equality",
+            "MARGIN -> three to two, so the disagreement is part of the holding's meaning"
+          ],
+          "source_references": [
+            "Janhit Abhiyan in November 2022 and the shape of the disagreement",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Distribution problem",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "QUOTA -> 27 per cent for the other backward classes as a single undivided block",
+            "OBSERVED -> concentration of benefit in relatively advanced communities within the block",
+            "PROPOSAL -> sub-categorisation of the quota among sub-groups",
+            "EXAMINED BY -> the commission set up in 2017; implementation pending as of mid-2026",
+            "REQUIREMENT -> backwardness and representation data for each sub-group",
+            "CLOSE DISTINCTION: OBC is not a synonym for poverty, EWS is not an OBC sub-category,..."
+          ],
+          "source_references": [
+            "Sub-categorisation and the commission that examined it",
+            "The identification paradox that constrains policy feedback",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Data gap",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "LAST PUBLISHED ALL-CASTE TABLES -> 1931",
+            "SOCIO-ECONOMIC AND CASTE CENSUS 2011 -> caste data never released or validated for policy",
+            "DECISION -> Cabinet Committee on Political Affairs, 30 April 2025, to enumerate caste",
+            "OPERATION -> all-digital 2027 Census; houselisting notified 1 April to 30 September 2026",
+            "BOUNDARY -> an approved operation is not a published dataset and validates no formula",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15, 16 and 342A, NCBC, list..."
+          ],
+          "source_references": [
+            "The caste-data gap and what the 2011 socio-economic survey did not settle",
+            "The 2027 enumeration decision and its exact status",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Entry against conversion",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "COVERAGE -> reservation slots filled and scholarships disbursed in a reporting year",
+            "FIRST-GENERATION ACCESS -> the first family member reaching higher education or service",
+            "MOBILITY -> the next generation exceeding the beneficiary in education and occupation",
+            "STAGNATION -> children re-accessing the same reservation without progression",
+            "OWNERSHIP -> no Mains or objective demand is routed here and none is manufactured"
+          ],
+          "source_references": [
+            "Coverage, first-generation access and intergenerational mobility",
+            "The transparent ownership statement for this owner",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\09_OBC-EWS-and-Social-Mobility.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g2\\social-justice-09_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

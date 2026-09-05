@@ -1,0 +1,1066 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-13",
+  "subject": "Indian-Art-and-Culture",
+  "title": "RELIGION, PHILOSOPHY AND CULTURAL SYNTHESIS",
+  "short_route": "CULTURAL-FRAMEWORK ROOT → PURUSHARTHA MAP → VEDANTA DISCRIMINATOR → BHAKTI CAUSAL MODEL → TAMIL CANON MATRIX → BHAKTI LITERATURE RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-13-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "e1c9c667fe231cbb69654d8733281f150700fffc70ff3affeb9c87f4a37f2427",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CULTURAL-FRAMEWORK ROOT",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CULTURAL-FRAMEWORK ROOT",
+          "role": "primary"
+        },
+        {
+          "text": "SUBJECT AND SYMBOLISM",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTION AND MONUMENT",
+          "role": "institution"
+        },
+        {
+          "text": "DEVOTIONAL PUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "PILGRIMAGE, MUSIC AND FESTIVAL",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CULTURAL-SYNTHESIS FRAME CONNECTS PURUSHARTHAS, SIX ORTHODOX DARSHANAS",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDDHIST AND JAIN TRADITIONS, BHAKTI AND SUFI MOVEMENTS, SECTARIAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BELIEF → subject and symbolism",
+        "PATRONAGE → institution and monument",
+        "LANGUAGE → devotional public",
+        "PRACTICE → pilgrimage, music and festival",
+        "MUST REMEMBER: The cultural-synthesis frame connects purusharthas, six orthodox darshanas"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BELIEF → subject and symbolism",
+            "PATRONAGE → institution and monument"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LANGUAGE → devotional public",
+            "PRACTICE → pilgrimage, music and festival"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: The cultural-synthesis frame connects purusharthas, six orthodox darshanas,",
+            "Buddhist and Jain traditions, Bhakti and Sufi movements, sectarian institutions, language, patronage, monuments and shared social practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The cultural-synthesis frame connects purusharthas, six orthodox darshanas,.",
+      "source_references": [
+        "Religion and philosophy as cultural frameworks",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PURUSHARTHA MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PURUSHARTHA MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL MEANS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL REGULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PLEASURE AND LOVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTHA → material means",
+        "DHARMA → social regulation",
+        "KAMA → pleasure and love",
+        "MOKSHA → liberation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTHA → material means",
+            "DHARMA → social regulation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KAMA → pleasure and love",
+            "MOKSHA → liberation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTHA → material means",
+            "DHARMA → social regulation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KAMA → pleasure and love; MOKSHA → liberation.",
+      "source_references": [
+        "Purushartha and the six darshanas",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "VEDANTA DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VEDANTA DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "NIRGUNA, KNOWLEDGE, JIVANMUKTI",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTRIBUTES AND DEVOTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MADHVA AND BRAHMA SAMPRADAYA",
+          "role": "evidence"
+        },
+        {
+          "text": "PUSHTIMARG BELONGS TO VALLABHA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ADVAITA → nirguna, knowledge, jivanmukti",
+        "VISHISHTADVAITA → attributes and devotion",
+        "DVAITA → Madhva and Brahma Sampradaya",
+        "TRAP → Pushtimarg belongs to Vallabha"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ADVAITA → nirguna, knowledge, jivanmukti",
+          "DVAITA → Madhva and Brahma Sampradaya",
+          "ADVAITA → nirguna, knowledge, jivanmukti"
+        ],
+        [
+          "VISHISHTADVAITA → attributes and devotion",
+          "TRAP → Pushtimarg belongs to Vallabha",
+          "VISHISHTADVAITA → attributes and devotion"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADVAITA → nirguna, knowledge, jivanmukti",
+            "VISHISHTADVAITA → attributes and devotion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DVAITA → Madhva and Brahma Sampradaya",
+            "TRAP → Pushtimarg belongs to Vallabha"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADVAITA → nirguna, knowledge, jivanmukti",
+            "VISHISHTADVAITA → attributes and devotion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DVAITA → Madhva and Brahma Sampradaya; TRAP → Pushtimarg belongs to Vallabha.",
+      "source_references": [
+        "Advaita, Vishishtadvaita and Dvaita",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BHAKTI CAUSAL MODEL",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BHAKTI CAUSAL MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE RIGIDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MARGINALISED PUBLICS",
+          "role": "comparison"
+        },
+        {
+          "text": "INCLUSION CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDDHIST-JAIN DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "RELIGIOUS SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL GROWTH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORTHODOXY / CASTE RIGIDITY → reaction",
+        "MARGINALISED PUBLICS → inclusion claim",
+        "BUDDHIST-JAIN DECLINE → religious space",
+        "ROYAL PATRONAGE → institutional growth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORTHODOXY / CASTE RIGIDITY → reaction",
+            "MARGINALISED PUBLICS → inclusion claim"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUDDHIST-JAIN DECLINE → religious space",
+            "ROYAL PATRONAGE → institutional growth"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORTHODOXY / CASTE RIGIDITY → reaction",
+            "MARGINALISED PUBLICS → inclusion claim"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUDDHIST-JAIN DECLINE → religious space; ROYAL PATRONAGE → institutional growth.",
+      "source_references": [
+        "Why Bhakti emerged",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TAMIL CANON MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TAMIL CANON MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "63, SHAIVA, TAMIL",
+          "role": "outcome"
+        },
+        {
+          "text": "12, VAISHNAVA, TAMIL",
+          "role": "comparison"
+        },
+        {
+          "text": "SOLE WOMAN IN ALVAR CANON",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPILATION AND SCULPTURAL AFTERLIFE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NAYANARS → 63, Shaiva, Tamil",
+        "ALVARS → 12, Vaishnava, Tamil",
+        "ANDAL → sole woman in Alvar canon",
+        "TEMPLE → compilation and sculptural afterlife"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NAYANARS → 63, Shaiva, Tamil",
+          "ANDAL → sole woman in Alvar canon",
+          "NAYANARS → 63, Shaiva, Tamil"
+        ],
+        [
+          "ALVARS → 12, Vaishnava, Tamil",
+          "TEMPLE → compilation and sculptural afterlife",
+          "ALVARS → 12, Vaishnava, Tamil"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAYANARS → 63, Shaiva, Tamil",
+            "ALVARS → 12, Vaishnava, Tamil"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANDAL → sole woman in Alvar canon",
+            "TEMPLE → compilation and sculptural afterlife"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAYANARS → 63, Shaiva, Tamil",
+            "ALVARS → 12, Vaishnava, Tamil"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANDAL → sole woman in Alvar canon; TEMPLE → compilation and sculptural afterlife.",
+      "source_references": [
+        "Tamil Bhakti canons",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BHAKTI LITERATURE RAIL",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BHAKTI LITERATURE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DOHA AND SANT BHASHA",
+          "role": "outcome"
+        },
+        {
+          "text": "AWADHI RAMCHARITMANAS",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAJ SUR SAGAR",
+          "role": "evidence"
+        },
+        {
+          "text": "VACHANA AND ABHANGA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KABIR → doha and Sant Bhasha",
+        "TULSIDAS → Awadhi Ramcharitmanas",
+        "SURDAS → Braj Sur Sagar",
+        "BASAVANNA / TUKARAM → Vachana and Abhanga"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KABIR → doha and Sant Bhasha",
+          "SURDAS → Braj Sur Sagar",
+          "KABIR → doha and Sant Bhasha"
+        ],
+        [
+          "TULSIDAS → Awadhi Ramcharitmanas",
+          "BASAVANNA / TUKARAM → Vachana and Abhanga",
+          "TULSIDAS → Awadhi Ramcharitmanas"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KABIR → doha and Sant Bhasha",
+            "TULSIDAS → Awadhi Ramcharitmanas"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SURDAS → Braj Sur Sagar",
+            "BASAVANNA / TUKARAM → Vachana and Abhanga"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KABIR → doha and Sant Bhasha",
+            "TULSIDAS → Awadhi Ramcharitmanas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SURDAS → Braj Sur Sagar; BASAVANNA / TUKARAM → Vachana and Abhanga.",
+      "source_references": [
+        "Saguna, Nirguna and named literature",
+        "Basavanna and Varkari trajectories",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WOMEN AND AUTHORITY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WOMEN AND AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "NAMED WOMAN",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY REGION AND TRADITION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD OR RENUNCIANT PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST INSTITUTIONAL REMEMBRANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PARTICIPATION DID NOT EQUAL EMANCIPATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NAMED WOMAN → identify region and tradition",
+        "ROUTE → household or renunciant practice",
+        "CANON → test institutional remembrance",
+        "VERDICT → participation did not equal emancipation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAMED WOMAN → identify region and tradition",
+            "ROUTE → household or renunciant practice"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CANON → test institutional remembrance",
+            "VERDICT → participation did not equal emancipation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAMED WOMAN → identify region and tradition",
+            "ROUTE → household or renunciant practice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CANON → test institutional remembrance; VERDICT → participation did not equal emancipation.",
+      "source_references": [
+        "Women and the limits of inclusion",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SUFI ORDER MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SUFI ORDER MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICE AND COURT DISTANCE",
+          "role": "institution"
+        },
+        {
+          "text": "PROPERTY AND SCHOLARSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "NAMED CULTURAL LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNTER-CURRENT TO HARMONY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CHISHTI → service and court distance",
+        "SUHRAWARDI → property and scholarship",
+        "QADIRI / SHATTARI → named cultural links",
+        "NAQSHBANDI → counter-current to harmony"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CHISHTI → service and court distance",
+          "QADIRI / SHATTARI → named cultural links",
+          "CHISHTI → service and court distance"
+        ],
+        [
+          "SUHRAWARDI → property and scholarship",
+          "NAQSHBANDI → counter-current to harmony",
+          "SUHRAWARDI → property and scholarship"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHISHTI → service and court distance",
+            "SUHRAWARDI → property and scholarship"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QADIRI / SHATTARI → named cultural links",
+            "NAQSHBANDI → counter-current to harmony"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHISHTI → service and court distance",
+            "SUHRAWARDI → property and scholarship"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QADIRI / SHATTARI → named cultural links; NAQSHBANDI → counter-current to harmony.",
+      "source_references": [
+        "Sufi orders are not one position",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CHISHTI CULTURAL CIRCUIT",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHISHTI CULTURAL CIRCUIT",
+          "role": "primary"
+        },
+        {
+          "text": "MOINUDDIN, KHANQAH AND URS",
+          "role": "outcome"
+        },
+        {
+          "text": "NIZAMUDDIN AND AMIR KHUSRAU",
+          "role": "comparison"
+        },
+        {
+          "text": "BABA FARID IN ADI GRANTH",
+          "role": "evidence"
+        },
+        {
+          "text": "PLACE, PERSON, PRACTICE AND TEXT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AJMER → Moinuddin, khanqah and urs",
+        "DELHI → Nizamuddin and Amir Khusrau",
+        "PUNJAB → Baba Farid in Adi Granth",
+        "RULE → place, person, practice and text"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AJMER → Moinuddin, khanqah and urs",
+            "DELHI → Nizamuddin and Amir Khusrau"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUNJAB → Baba Farid in Adi Granth",
+            "RULE → place, person, practice and text"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AJMER → Moinuddin, khanqah and urs",
+            "DELHI → Nizamuddin and Amir Khusrau"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PUNJAB → Baba Farid in Adi Granth; RULE → place, person, practice and text.",
+      "source_references": [
+        "Chishti place, person and text links",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SUFI EVIDENCE GRAMMAR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SUFI EVIDENCE GRAMMAR",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICE, NOT SOURCE GENRE",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SIX DARSHANAS ARE SCHOOLS ACCEPTING VEDIC AUTHORITY RATHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MALFUZAT → conversations",
+        "MAKTUBAT → letters",
+        "TAZKIRAS → biographies",
+        "SAMA / ZIYARAT → practice, not source genre",
+        "CLOSE DISTINCTION: The six darshanas are schools accepting Vedic authority rather than six religions"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MALFUZAT → conversations",
+          "TAZKIRAS → biographies",
+          "CLOSE DISTINCTION: The six darshanas are schools accepting Vedic authority rather than six religions"
+        ],
+        [
+          "MAKTUBAT → letters",
+          "SAMA / ZIYARAT → practice, not source genre",
+          "Samkhya, Yoga, Advaita, Vishishtadvaita and devotional forms must not be flattened into one doctrine or full metaphysical proof."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MALFUZAT → conversations",
+            "MAKTUBAT → letters"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TAZKIRAS → biographies",
+            "SAMA / ZIYARAT → practice, not source genre"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The six darshanas are schools accepting Vedic authority rather than six religions",
+            "Samkhya, Yoga, Advaita, Vishishtadvaita and devotional forms must not be flattened into one doctrine or full metaphysical proof."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The six darshanas are schools accepting Vedic authority rather than six religions; Samkhya, Yoga, Advaita, Vishishtadvaita and devotional forms must not be flattened into one doctrine or full metaphysical proof.",
+      "source_references": [
+        "Sufi practices and source genres",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SYNTHESIS TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SYNTHESIS TEST",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME IT",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY IT",
+          "role": "evidence"
+        },
+        {
+          "text": "DOCTRINAL MERGER?",
+          "role": "primary"
+        },
+        {
+          "text": "PROVE, DO NOT ASSUME",
+          "role": "caution"
+        },
+        {
+          "text": "POWER, OPPOSITION AND COUNTER-CURRENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SHARED SPACE / FORM? → name it",
+        "TRANSLATION / TEXT? → identify it",
+        "DOCTRINAL MERGER? → prove, do not assume",
+        "LIMIT → power, opposition and counter-current",
+        "EVIDENCE LIMIT: Cultural interaction is neither timeless harmony nor permanent conflict: named"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SHARED SPACE / FORM? → name it",
+            "TRANSLATION / TEXT? → identify it"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOCTRINAL MERGER? → prove, do not assume",
+            "LIMIT → power, opposition and counter-current"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Cultural interaction is neither timeless harmony nor permanent conflict: named",
+            "institutions, texts, patrons, regions and social exclusions must qualify any synthesis claim."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: Cultural interaction is neither timeless harmony nor permanent conflict: named institutions, texts, patrons, regions and social exclusions must qualify any synthesis claim.",
+      "answer_line": "Cultural interaction is neither timeless harmony nor permanent conflict: named institutions, texts, patrons, regions and social exclusions must qualify any synthesis claim.",
+      "source_references": [
+        "Where synthesis works and fails",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PHILOSOPHY-TO-ART SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PHILOSOPHY-TO-ART SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY THE DOCTRINE OR PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHOW THE FORMAL CONVERSION",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME THE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PATRONAGE, MATERIAL AND INTENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDEA → identify the doctrine or practice",
+        "DESIGN → show the formal conversion",
+        "MONUMENT → name the evidence",
+        "QUALIFY → patronage, material and intention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDEA → identify the doctrine or practice",
+            "DESIGN → show the formal conversion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MONUMENT → name the evidence",
+            "QUALIFY → patronage, material and intention"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IDEA → identify the doctrine or practice",
+            "DESIGN → show the formal conversion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONUMENT → name the evidence; QUALIFY → patronage, material and intention.",
+      "source_references": [
+        "Philosophy, monuments, festivals and PYQs",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\13_Religion-Philosophy-and-Cultural-Synthesis.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-13\\g2\\indian-art-and-culture-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPPOSITION TO BUDDHISM/JAINISM AS A DEFINING FEATURE, NOT INCIDENTAL",
+          "role": "caution"
+        },
+        {
+          "text": "GENDER REPRESENTATION STILL LIMITED (1 FEMALE AMONG 12 ALVARS)",
+          "role": "comparison"
+        },
+        {
+          "text": "UNESCO'S 2025 INSCRIPTION OF DEEPAVALI ON THE REPRESENTATIVE LIST",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESENTING BHAKTI AS A MOVEMENT OF PURE, UNQUALIFIED RELIGIOUS",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING ROYAL PATRONAGE AS INCIDENTAL TO BHAKTI'S SPREAD.",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSUMING BHAKTI'S INCLUSIVITY EXTENDED EQUALLY ACROSS GENDER. - ANDAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING CULTURAL SYNTHESIS AS A FINISHED HARMONIOUS MIXTURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "opposition to Buddhism/Jainism as a DEFINING feature, not incidental",
+            "gender representation still limited (1 female among 12 Alvars)",
+            "UNESCO's 2025 inscription of Deepavali on the Representative List of",
+            "NOT: Presenting Bhakti as a movement of pure, unqualified religious"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating royal patronage as incidental to Bhakti's spread. - The book",
+            "NOT: Assuming Bhakti's inclusivity extended equally across gender. - Andal",
+            "NOT: Treating cultural synthesis as a finished harmonious mixture.",
+            "NOT: Philosophy owns the doctrinal depth of Bhakti theology and the"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NOT: Medieval/Modern History owns the detailed political-religious",
+            "NOT: Indian Society owns caste and gender outcomes as living-community",
+            "This file's mechanism-and-limit method is directly reusable wherever",
+            "00 Master-Framework.md Section 4 — the evidence hierarchy, applied"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

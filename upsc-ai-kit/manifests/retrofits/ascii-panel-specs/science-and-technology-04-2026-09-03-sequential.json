@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-04",
+      "display_title": "Nuclear Power and the Three-Stage Programme",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-04_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Fission-to-grid chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "FISSION -> heavy nucleus splits and releases heat plus neutrons",
+            "COOLANT -> removes core heat",
+            "STEAM SYSTEM -> converts heat into working-fluid energy",
+            "TURBINE-GENERATOR -> produces electricity",
+            "RULE -> reactor capacity is not electricity generated"
+          ],
+          "source_references": [
+            "Fission-power chain",
+            "Capacity-generation boundary"
+          ]
+        },
+        {
+          "title": "Criticality milestone ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SUBCRITICAL -> chain reaction declines",
+            "FIRST CRITICALITY -> controlled self-sustaining reaction begins",
+            "POWER ASCENSION -> tested increase toward rated conditions",
+            "GRID SYNCHRONISATION -> generator connects to grid",
+            "COMMERCIAL OPERATION -> later declared operating status"
+          ],
+          "source_references": [
+            "Criticality boundary",
+            "Capacity-generation boundary"
+          ]
+        },
+        {
+          "title": "Core-control function map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONTROL RODS -> absorb neutrons and regulate reactivity",
+            "MODERATOR -> slows neutrons in a thermal reactor",
+            "COOLANT -> transfers heat out of the core",
+            "CONTAINMENT -> barrier against radioactive release",
+            "RULE -> four functions, four different answers"
+          ],
+          "source_references": [
+            "Control-safety boundary"
+          ]
+        },
+        {
+          "title": "Thermal-fast comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "THERMAL REACTOR -> moderated slower-neutron spectrum",
+            "FAST REACTOR -> no moderator and fast-neutron spectrum",
+            "PHWR -> heavy-water moderated Stage-1 workhorse",
+            "FBR -> breeding objective with fertile blanket",
+            "RULE -> coolant alone does not define the spectrum"
+          ],
+          "source_references": [
+            "Thermal-fast boundary",
+            "Stage-1 boundary",
+            "Stage-2 boundary"
+          ]
+        },
+        {
+          "title": "Fissile-fertile conversion map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "U-235 / PU-239 / U-233 -> fissile materials",
+            "U-238 -> neutron capture -> PU-239 pathway",
+            "TH-232 -> neutron capture and decay -> U-233 pathway",
+            "FERTILE MATERIAL -> needs irradiation and conversion",
+            "RULE -> resource abundance is not ready reactor fuel"
+          ],
+          "source_references": [
+            "Fissile-fertile boundary",
+            "Thorium-U233 boundary"
+          ]
+        },
+        {
+          "title": "Three-stage programme rail",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "STAGE 1 -> PHWR, natural uranium and plutonium-bearing spent fuel",
+            "REPROCESSING -> separates material for the breeder bridge",
+            "STAGE 2 -> fast breeder and fissile-inventory multiplication",
+            "THORIUM IRRADIATION -> prepares U-233 route",
+            "STAGE 3 -> long-term thorium-U-233 utilisation horizon"
+          ],
+          "source_references": [
+            "Stage-1 boundary",
+            "Plutonium-stream boundary",
+            "Stage-2 boundary",
+            "Stage-3 boundary"
+          ]
+        },
+        {
+          "title": "PFBR status card",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "DESIGN -> IGCAR fast-reactor and sodium expertise",
+            "BUILD / COMMISSION -> BHAVINI project responsibility",
+            "RATING -> 500 MWe design value in fetched DAE text",
+            "6 APRIL 2026 -> first criticality achieved",
+            "NOT ESTABLISHED -> grid synchronisation or commercial operation"
+          ],
+          "source_references": [
+            "PFBR-status boundary",
+            "IGCAR-BHAVINI boundary"
+          ]
+        },
+        {
+          "title": "Closed fuel-cycle loop",
+          "structural_type": "cyclic-process",
+          "ascii_lines": [
+            "REACTOR IRRADIATION -> changes isotopic composition",
+            "COOLING / HANDLING -> manages heat and radiation",
+            "REPROCESSING -> separates reusable fissile material",
+            "REMOTE FABRICATION -> prepares new fuel",
+            "REUSE / WASTE -> closes material accounting loop"
+          ],
+          "source_references": [
+            "Plutonium-stream boundary",
+            "Thorium-U233 boundary",
+            "Closed-cycle boundary"
+          ]
+        },
+        {
+          "title": "Institutional separation",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DAE -> governmental policy and strategic umbrella",
+            "BARC -> reactor and fuel-cycle R&D",
+            "NPCIL -> commercial civilian plant developer and operator",
+            "AERB -> safety review and regulatory oversight",
+            "RULE -> promoter, laboratory, operator and regulator differ"
+          ],
+          "source_references": [
+            "DAE-BARC boundary",
+            "Operator-regulator boundary"
+          ]
+        },
+        {
+          "title": "Fuel-and-project chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "UCIL -> uranium mining and milling",
+            "NFC -> fuel and reactor-component fabrication",
+            "IREL -> monazite, thorium and rare-earth processing link",
+            "IGCAR -> fast-reactor design and sodium R&D",
+            "BHAVINI -> PFBR project execution and operation"
+          ],
+          "source_references": [
+            "IGCAR-BHAVINI boundary",
+            "Fuel-chain boundary"
+          ]
+        },
+        {
+          "title": "Reactor taxonomy",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PHWR -> heavy water and natural-uranium Stage-1 role",
+            "PWR / BWR -> light-water systems with different steam cycles",
+            "FBR -> fast spectrum and breeding objective",
+            "AHWR / SMALL-REACTOR LINES -> design or development status",
+            "RULE -> type and deployment status must be stated together"
+          ],
+          "source_references": [
+            "Reactor-type boundary"
+          ]
+        },
+        {
+          "title": "Nuclear answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> fission, criticality, fissile, fertile and fuel cycle",
+            "TRACE -> Stage 1, plutonium bridge, Stage 2 and thorium horizon",
+            "MAP -> DAE BARC NPCIL AERB IGCAR BHAVINI and fuel chain",
+            "SEPARATE -> capacity criticality grid generation and legal status",
+            "VERIFY -> dated fleet fuel reactor law cost and schedule evidence"
+          ],
+          "source_references": [
+            "Legal-status boundary",
+            "Volatile nuclear boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

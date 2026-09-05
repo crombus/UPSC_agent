@@ -1,0 +1,375 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-31",
+  "scope": "Modern Indian History learner-v2 Topics 20-21",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-20",
+      "display_title": "Non-Cooperation & the Khilafat Movement (1919–1922)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\20_Non-Cooperation-Khilafat-Movement_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Convergence chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1919 -> wartime distress, Rowlatt Act and Jallianwala Bagh harden nationalist opinion",
+            "NOV 1919 -> All-India Khilafat Conference at Delhi threatens non-cooperation",
+            "1920 -> Gandhi links Khilafat to Swaraj to build Hindu-Muslim unity",
+            "SEP 1920 -> Calcutta Special Session adopts Non-Cooperation",
+            "DEC 1920 -> Nagpur Congress ratifies the programme and reorganises Congress."
+          ],
+          "source_references": [
+            "Setting: wartime distress, Rowlatt-Jallianwala anger and Khilafat emergence"
+          ]
+        },
+        {
+          "title": "Khilafat leadership and demand",
+          "structural_type": "list",
+          "ascii_lines": [
+            "ISSUE -> defence of the Ottoman Sultan-Caliph after WWI and the Treaty of Sevres",
+            "LEADERS -> Maulana Mohammad Ali, Shaukat Ali, Maulana Azad, Hakim Ajmal Khan, Hasrat Mohani",
+            "COMMITTEE -> a Khilafat Committee existed before the Nov 1919 Delhi Conference",
+            "NOV 1919 -> All-India Khilafat Conference threatens withdrawal of cooperation",
+            "RULE -> a political-religious mobilisation, not a Hindu movement."
+          ],
+          "source_references": [
+            "Khilafat aims, leadership and the Delhi Conference"
+          ]
+        },
+        {
+          "title": "Gandhi's unity logic",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "KHILAFAT GRIEVANCE -> emotionally resonant anti-imperial issue for Indian Muslims",
+            "GANDHI'S LINK -> ties Khilafat to Swaraj as a joint national demand",
+            "EFFECT -> widens anti-British mobilisation beyond a narrow political class",
+            "RISK -> unity rests on an international issue India does not control",
+            "LATER -> 1924 abolition of the Caliphate exposes this fragility."
+          ],
+          "source_references": [
+            "Gandhi's alliance logic for Khilafat-Congress unity"
+          ]
+        },
+        {
+          "title": "Calcutta-to-Nagpur double decision",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "SEP 1920 CALCUTTA SPECIAL SESSION -> adopts Non-Cooperation programme",
+            "DEC 1920 NAGPUR CONGRESS -> ratifies the programme",
+            "REORGANISATION -> linguistic provincial committees, AICC, stronger Working Committee",
+            "EFFECT -> low membership fee widens the Congress beyond professional classes",
+            "RULE -> Calcutta adopted; Nagpur ratified and reorganised; do not merge the two."
+          ],
+          "source_references": [
+            "Calcutta Special Session: adopting Non-Cooperation",
+            "Nagpur Congress: ratification and mass reorganisation"
+          ]
+        },
+        {
+          "title": "Escalation ladder",
+          "structural_type": "process",
+          "ascii_lines": [
+            "STAGE 1 -> surrender of titles and honorary offices",
+            "STAGE 2 -> boycott of schools, colleges, law courts, councils and official functions",
+            "STAGE 3 -> economic boycott of foreign cloth; picketing of liquor shops",
+            "STAGE 4 -> constructive programme: khadi, charkha, swadeshi, national education",
+            "STAGE 5 -> mass civil disobedience and tax refusal, planned for Bardoli, never launched."
+          ],
+          "source_references": [
+            "The programme's escalation ladder"
+          ]
+        },
+        {
+          "title": "Urban actors matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GROUP          ACTION                              EFFECT",
+            "students       leave schools and colleges          visible break with state education",
+            "lawyers        suspend court practice              symbolic rejection of colonial law",
+            "traders        boycott foreign cloth               economic pressure and khadi demand",
+            "women          picketing and khadi/charkha work    widened the movement's social base."
+          ],
+          "source_references": [
+            "Urban mobilisation: students, lawyers, traders and women"
+          ]
+        },
+        {
+          "title": "Constructive programme and institutions",
+          "structural_type": "process",
+          "ascii_lines": [
+            "PROGRAMME -> khadi, charkha, swadeshi, national education, panchayats, unity",
+            "INSTITUTIONS -> Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith, Bihar Vidyapith",
+            "FUNCTION -> alternative moral economy alongside the boycott programme",
+            "DURABILITY -> institutions and cadre survive after boycott is reversed",
+            "LATER USE -> this cadre and network re-appear in the 1930 campaign."
+          ],
+          "source_references": [
+            "Constructive programme and national institutions"
+          ]
+        },
+        {
+          "title": "Prince of Wales boycott and repression feedback",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "1921 PRINCE OF WALES VISIT -> met with hartal and boycott",
+            "GOVERNMENT RESPONSE -> arrests and repression intensify",
+            "REPRESSION -> widens sympathy and participation",
+            "PARTICIPATION -> movement approaches its escalation ceiling",
+            "CEILING -> Gandhi still withholds the final mass civil disobedience stage."
+          ],
+          "source_references": [
+            "Prince of Wales boycott and repression"
+          ]
+        },
+        {
+          "title": "Eka movement anatomy",
+          "structural_type": "process",
+          "ascii_lines": [
+            "GRIEVANCE -> rent about fifty per cent above the recorded rent; thekedars; share-rents",
+            "RITUAL -> Ganges-oath meetings bind peasants to pay recorded rent on time",
+            "LEADERSHIP -> Madari Pasi and other local leaders, outside Congress-Khilafat discipline",
+            "BASE -> tenants plus many small zamindars aggrieved by revenue demand",
+            "END -> severe official repression closes the movement by March 1922."
+          ],
+          "source_references": [
+            "The Eka movement in the United Provinces"
+          ]
+        },
+        {
+          "title": "Malabar trajectory",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "APR 1920 -> Malabar District Congress Conference at Manjeri gives early impetus",
+            "GRIEVANCE -> insecure tenure, renewal fees, high rents under landlord exactions",
+            "AUG 1921 -> Mappila rebellion begins in Malabar",
+            "SHIFT -> local mobilisation later acquires a communal character",
+            "EFFECT -> damages the wider Khilafat-Congress alliance; not communal from the start."
+          ],
+          "source_references": [
+            "The Malabar Mappila rebellion and its communal turn"
+          ]
+        },
+        {
+          "title": "Bardoli plan to Chauri Chaura to withdrawal",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "PLAN -> mass civil disobedience announced for Bardoli taluqa, Surat district",
+            "4 FEB 1922 -> Chauri Chaura procession clashes with police in Gorakhpur district",
+            "OUTCOME -> police station burnt; twenty-two policemen killed",
+            "12 FEB 1922 -> Working Committee ratifies withdrawal: the Bardoli resolution",
+            "MAR 1922 -> Gandhi arrested and sentenced to six years' imprisonment."
+          ],
+          "source_references": [
+            "Bardoli and the planned mass civil disobedience",
+            "Chauri Chaura and the withdrawal"
+          ]
+        },
+        {
+          "title": "Balance sheet and 1920s bridge",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "GAIN -> first genuinely all-India mass movement; reorganised Congress",
+            "GAIN -> durable institutions, khadi network and trained rural cadre",
+            "COST -> boycott proved reversible; council boycott reversed by Swarajists in 1923",
+            "COST -> Khilafat unity proved fragile; Caliphate abolished in 1924",
+            "DEBATE -> Palme Dutt: shielded property; Bipin Chandra: no anti-property intent",
+            "BRIDGE -> withdrawal opens the Swarajist-No-changer debate and a revolutionary drift."
+          ],
+          "source_references": [
+            "Achievements and limits of Non-Cooperation",
+            "Consequences: fragile unity and the bridge to the 1920s"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "modern-indian-history-21",
+      "display_title": "Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\21_Swarajists-Constructive-Work-Revolutionaries-1920s_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Post-1922 debate chronology",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "FEB 1922 -> Non-Cooperation withdrawn; Congress faces a strategic vacuum",
+            "1922 -> No-changer versus Pro-changer debate opens over the next method",
+            "DEC 1922 GAYA -> council-entry proposal rejected; some sources date founding here",
+            "1 JAN 1923 (WORKING DATE) -> Swaraj Party founded by C.R. Das and Motilal Nehru",
+            "NOTE -> Swarajya Sabha (1920, ex-Home Rule League) is a different, older body",
+            "OCT 1924, KANPUR -> Hindustan Republican Association founded with a republican programme."
+          ],
+          "source_references": [
+            "The 1922 strategic vacuum and the No-changer/Pro-changer debate"
+          ]
+        },
+        {
+          "title": "No-changer vs Swarajist comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS         NO-CHANGERS                     SWARAJISTS",
+            "method       khadi, schools, unity work      council-entry and obstruction",
+            "arena        villages, local institutions    legislatures and budgets",
+            "aim          preparation before struggle     exposing dyarchy from within",
+            "leaders      Gandhian constructive workers   C.R. Das and Motilal Nehru",
+            "rule -> both remained within Congress; this was a tactical, not a national, split."
+          ],
+          "source_references": [
+            "No-changers and constructive work after withdrawal",
+            "Swaraj Party formation and council-entry logic"
+          ]
+        },
+        {
+          "title": "Swarajist rise-and-decline arc",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "1 JAN 1923 -> Swaraj Party founded for council-entry and obstruction",
+            "1923 ELECTIONS -> strong Swarajist performance in the legislatures",
+            "EFFECT -> exposes the structural weakness of dyarchy and the budget settlement",
+            "1925 -> C.R. Das's death weakens Swarajist leadership and momentum",
+            "LATER 1920s -> ministries and patronage erode obstruction's returns over time."
+          ],
+          "source_references": [
+            "Swarajist achievements in the 1923 legislatures",
+            "Swarajist decline after 1925",
+            "Continuity: both wings reassemble for 1930"
+          ]
+        },
+        {
+          "title": "HRA formation and republican programme",
+          "structural_type": "process",
+          "ascii_lines": [
+            "OCT 1924, KANPUR -> Hindustan Republican Association founded",
+            "LEADERS -> Sachindranath Sanyal, Ram Prasad Bismil, Jogesh Chatterjee",
+            "AIM -> armed overthrow of colonial rule and a republican India",
+            "METHOD -> underground organisation and fund-raising for revolutionary action",
+            "CONTEXT -> revives after the 1922 withdrawal discredited non-violence for some youth."
+          ],
+          "source_references": [
+            "HRA formation and the republican programme"
+          ]
+        },
+        {
+          "title": "Kakori-to-executions sequence",
+          "structural_type": "chronology",
+          "ascii_lines": [
+            "1925 -> Kakori train action raises funds for revolutionary activity",
+            "CASE -> Kakori conspiracy case tried against HRA revolutionaries",
+            "1927 -> Bismil, Ashfaqulla Khan, Roshan Singh and Rajendra Lahiri executed",
+            "EFFECT -> first mass martyr cult of the interwar revolutionary period",
+            "RULE -> Kakori is HRA; do not place Bhagat Singh in this case."
+          ],
+          "source_references": [
+            "Kakori conspiracy and the 1927 executions"
+          ]
+        },
+        {
+          "title": "Naujawan Bharat Sabha bridge",
+          "structural_type": "process",
+          "ascii_lines": [
+            "MARCH 1926, LAHORE -> Naujawan Bharat Sabha founded",
+            "ROLE -> Bhagat Singh a leading organiser among its founders",
+            "FRONT -> open, legal front, organisationally distinct from underground HRA/HSRA",
+            "IDEOLOGY -> socialist and secular political education, ahead of a formal party turn",
+            "BRIDGE -> feeds personnel and ideas into the 1928 HSRA reorganisation."
+          ],
+          "source_references": [
+            "Naujawan Bharat Sabha and youth mobilisation"
+          ]
+        },
+        {
+          "title": "HRA to HSRA ideological turn",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AXIS          HRA (from Oct 1924, Kanpur)       HSRA (from Sep 1928, Ferozeshah Kotla)",
+            "programme     republican overthrow             socialist republican overthrow",
+            "leaders       Sanyal, Bismil, Chatterjee        Bhagat Singh, Azad, Sukhdev, Vohra",
+            "case          Kakori conspiracy (1925)          Saunders, Assembly Bomb, Lahore case",
+            "turn -> one lineage renamed, not rival bodies; adds anti-imperialist, anti-capitalist theory."
+          ],
+          "source_references": [
+            "HRA's reorganisation as HSRA: the socialist turn"
+          ]
+        },
+        {
+          "title": "Lajpat Rai to Saunders causal chain",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "SIMON COMMISSION PROTEST -> lathi-charge injures Lala Lajpat Rai",
+            "INJURIES -> contribute to his death",
+            "HSRA RESPONSE -> plans retaliation against the officer held responsible",
+            "DEC 1928 -> Saunders killed by HSRA revolutionaries",
+            "EFFECT -> sharpens confrontation ahead of the 1929 Assembly action."
+          ],
+          "source_references": [
+            "Lala Lajpat Rai, Saunders and the road to the Assembly bomb"
+          ]
+        },
+        {
+          "title": "Assembly bomb symbolic logic",
+          "structural_type": "process",
+          "ascii_lines": [
+            "8 APRIL 1929 -> Bhagat Singh and Batukeshwar Dutt act in the Assembly",
+            "METHOD -> bombs designed to be non-lethal; leaflets and slogans follow",
+            "INTENT -> \"to make the deaf hear\", not to kill",
+            "CHOICE -> both accept arrest rather than flee, turning the trial into a platform",
+            "CASE -> separate Assembly Bomb Case, Sessions Court: life imprisonment for both."
+          ],
+          "source_references": [
+            "The Assembly bomb: symbolic and non-lethal intent"
+          ]
+        },
+        {
+          "title": "Lahore Conspiracy Case and jail resistance",
+          "structural_type": "accountability-map",
+          "ascii_lines": [
+            "CASE -> Lahore Conspiracy Case (separate from Assembly Bomb Case) tries Singh, Sukhdev, Rajguru",
+            "DEMAND -> hunger strike for better treatment of political prisoners",
+            "13 SEP 1929 -> Jatin Das dies after a jail hunger strike (63 or 64 days, sources vary)",
+            "OCT 1930 -> Special Tribunal sentences Bhagat Singh, Sukhdev and Rajguru to death",
+            "23 MAR 1931 -> the three are executed at Lahore."
+          ],
+          "source_references": [
+            "Lahore Conspiracy Case, the jail hunger strike and Jatin Das"
+          ]
+        },
+        {
+          "title": "Bhagat Singh's thought and martyrdom",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "POSITION -> rationalist, atheist and socialist political thought",
+            "ENEMY -> defined as both imperialism and class exploitation",
+            "METHOD -> courtroom and public trial used as political theatre",
+            "LEGACY -> political thinker as well as martyr; do not reduce him to sentiment alone",
+            "CAUTION -> describe his position analytically; do not quote his writings verbatim."
+          ],
+          "source_references": [
+            "Bhagat Singh as rationalist political thinker and the 1931 execution"
+          ]
+        },
+        {
+          "title": "Four streams balance sheet incl. Chittagong",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "STREAM 1 -> Swarajists expose dyarchy from inside the legislatures",
+            "STREAM 2 -> No-changers build khadi, schools and rural cadre",
+            "STREAM 3 -> HRA-HSRA supply martyr tradition and socialist vocabulary",
+            "STREAM 4 -> 1930 Chittagong Armoury Raid, Surya Sen, women revolutionaries in Bengal",
+            "VERDICT -> the 1920s were not a lull; they built what 1930 required."
+          ],
+          "source_references": [
+            "Chittagong and the plural revolutionary field of the 1920s"
+          ]
+        }
+      ]
+    }
+  ]
+}

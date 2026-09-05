@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-22",
+      "display_title": "Post-Gupta India: Harsha & Eastern India",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Chronology and evidence discipline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 550 CE -> Gupta concentration weakens; regional houses multiply",
+            "606 CE -> Harsha succeeds amid the Rajyavardhana-Rajyashri crisis",
+            "c. 630s -> Pulakeshin II checks northern expansion near the Narmada",
+            "637 CE -> Shashanka dies; eastern competition continues",
+            "647-648 CE -> Harsha dies without a durable successor empire",
+            "SOURCES: Bana + Xuanzang + charters + coins + Aihole + archaeology",
+            "RULE: triangulate literary praise, pilgrim report and rival inscription."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Evidence discipline",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Post-Gupta political landscape",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "NORTH-WEST / WEST -> Maitrakas and other regional powers",
+            "MIDDLE GANGA -> Later Guptas + Maukharis",
+            "THANESAR-KANNAUJ -> Pushyabhutis under Harsha",
+            "GAUDA -> Shashanka",
+            "KAMARUPA -> Bhaskaravarman",
+            "DECCAN LIMIT -> Badami Chalukyas under Pulakeshin II",
+            "VERDICT: several strong regional states replaced one uncontested imperial centre."
+          ],
+          "source_references": [
+            "Political landscape",
+            "Regional powers",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Pushyabhuti rise and Kannauj shift",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PRABHAKARAVARDHANA -> stronger Thanesar line",
+            "RAJYASHRI + GRAHAVARMAN -> Maukhari marriage bridge",
+            "Grahavarman killed -> Rajyavardhana campaigns -> accession crisis",
+            "HARSHAVARDHANA -> rescue + consolidation + Maukhari inheritance",
+            "THANESAR -> KANNAUJ",
+            "MECHANISM: kinship + strategy + Ganga-doab access + sovereignty prestige",
+            "LIMIT: Harsha inherited a crisis, not a ready-made pan-Indian empire."
+          ],
+          "source_references": [
+            "Pushyabhutis",
+            "Maukharis",
+            "Kannauj",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Harsha's graded sovereignty and Narmada limit",
+          "structural_type": "layered-sovereignty",
+          "ascii_lines": [
+            "DIRECT CORE -> Haryana, much of UP and parts of Bihar",
+            "PROBABLE REACH -> selected eastern territories including Odisha",
+            "WIDER ALLEGIANCE -> Kamarupa, Valabhi and other rulers in varying degrees",
+            "HARD LIMIT -> Pulakeshin II and the Narmada frontier",
+            "BANA / XUANZANG -> prestige-heavy northern view",
+            "AIHOLE -> rival Chalukya check",
+            "VERDICT: major north Indian hegemon; not a stable all-India emperor."
+          ],
+          "source_references": [
+            "Harsha's campaigns",
+            "Narmada confrontation",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Administration, revenue and samanta order",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / MOBILE CAMP",
+            "   -> bhukti provincial units",
+            "   -> vishaya district units",
+            "   -> officers, villages and revenue collectors",
+            "   -> samantas and feudatory rulers",
+            "REVENUE: bhaga + bhoga + kara + hiranya",
+            "ARMY: royal forces reinforced by subordinate chiefs",
+            "TENSION: delegated reach could integrate territory and enlarge local autonomy."
+          ],
+          "source_references": [
+            "Administration",
+            "Revenue",
+            "Samanta pattern",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Eastern India regional state formation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BENGAL / GAUDA -> Shashanka, Pundravardhana, Samatata, gold issues",
+            "ODISHA -> regional lines, charters, agraharas and expanding settlement",
+            "ASSAM -> Kamarupa, Varman line and Bhaskaravarman",
+            "COMMON PROCESS -> Sanskrit charters + fiscal districts + military camps",
+            "                + land rights + agrarian expansion",
+            "DIFFERENCE -> chronology, ecology and political scale varied sharply",
+            "RULE: do not begin eastern state history only with the Palas."
+          ],
+          "source_references": [
+            "Gauda",
+            "Kamarupa",
+            "Eastern India",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Land grants and agrarian transformation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FALLOW / CULTIVATED LAND + ROYAL CLAIM",
+            "                  |",
+            "purchase, charter, boundary record and tax remission",
+            "                  |",
+            "Brahmana / monastery / religious beneficiary",
+            "                  |",
+            "cultivation + literacy + fiscal reallocation + landed hierarchy",
+            "EASTERN PLATES -> local scribes, merchants, landholders and cultivators",
+            "LIMIT: elite charters reveal process more clearly than peasant experience."
+          ],
+          "source_references": [
+            "Land grants",
+            "Agrarian expansion",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Economy and urban change debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "DECLINE EVIDENCE -> contraction of selected older towns and coin changes",
+            "REORGANISATION EVIDENCE:",
+            "  |-- Kannauj rises as a strategic centre",
+            "  |-- eastern land was purchased with gold in selected records",
+            "  |-- new camps, grants, monasteries and regional capitals appear",
+            "  `-- routes and markets persist unevenly",
+            "NALANDA -> institutional concentration, not proof of universal prosperity",
+            "VERDICT: decline in older forms coexisted with regional creation."
+          ],
+          "source_references": [
+            "Economy",
+            "Urban-decline debate",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Religion, assemblies and political theatre",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "EARLY LINE -> solar associations",
+            "HARSHACHARITA / CHARTERS -> Shaiva idioms",
+            "XUANZANG -> strong Buddhist patronage",
+            "KANNAUJ ASSEMBLY -> debate, hierarchy and royal display",
+            "PRAYAGA ASSEMBLY -> Buddha + Shiva + Sun across successive days",
+            "CHARITY -> piety + redistribution + sovereignty performance",
+            "VERDICT: overlapping royal affiliations, not one exclusive religious label."
+          ],
+          "source_references": [
+            "Religion under Harsha",
+            "Kannauj and Prayaga assemblies",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Nalanda and trans-Asian learning networks",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "ROYAL / LANDED SUPPORT -> monastic infrastructure",
+            "INDIAN TEACHERS <-> Nalanda study and debate <-> ASIAN PILGRIMS",
+            "XUANZANG -> study, travel and carriage of Buddhist texts to China",
+            "YIJING -> comparative evidence and numerical caution",
+            "UNESCO SITE -> surviving viharas, temples, art and planned layout",
+            "SECURE CLAIM: major scholastic network",
+            "CAUTION: famous enrolment figures are estimates, not census data."
+          ],
+          "source_references": [
+            "Nalanda",
+            "Learning networks",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Source criticism and historiography",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BANA -> accession and court world | literary praise / elite focus",
+            "XUANZANG -> routes, Nalanda, assemblies | pilgrim purpose / later writing",
+            "CHARTERS -> offices, grants, taxes | selective documentary survival",
+            "COINS -> rulers, economy, symbols | circulation is not a border map",
+            "AIHOLE -> Narmada limit | rival prashasti and exaggeration",
+            "SHARMA -> structural transition | avoid universal decline",
+            "METHOD: claim -> source -> corroboration -> limitation."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Historiography",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Post-Gupta answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> c. 550-750 as contraction plus regional reorganisation",
+            "POLITY -> Pushyabhuti rise + Kannauj + graded sovereignty",
+            "LIMIT -> Pulakeshin II and the Narmada",
+            "EAST -> Gauda + Kamarupa + Odisha/Bengal grants",
+            "STRUCTURE -> samantas + land rights + agrarian change",
+            "CULTURE -> assemblies + Nalanda + source triangulation",
+            "CLOSE -> Harsha briefly reunited the north while regional states deepened."
+          ],
+          "source_references": [
+            "UPSC answer architecture",
+            "PYQ routes",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\22_Post-Gupta-Harsha-and-Eastern-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-22\\g3\\ancient-indian-history-22_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

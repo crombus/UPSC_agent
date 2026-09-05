@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "polity-47-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-47": {
+      "title": "Comparative Constitutional Design",
+      "source_record": "polity-47:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md",
+      "quality_review": "Twelve authored comparative matrices covering method, systems, federalism, rights, amendments, emergencies, offices, adaptation and exact PYQs.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Compare functions and contexts, not country labels",
+          "structural_type": "comparative-method-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+          ],
+          "full_text": "ROOT QUESTION\nWhy does the same constitutional institution behave differently after transplantation?\n\nCOMPARATIVE METHOD\nfunction -> source model -> Indian text -> social/federal context\n-> judicial interpretation -> political practice -> consequence.\n\nAXES\ncodification/rigidity | executive-legislative relation | federal distribution\n| rights/remedies | courts | amendment | emergency | elections | accountability.\n\nTRAP\n\"borrowed from\" without adaptation and purpose is a memory list, not constitutional analysis."
+        },
+        {
+          "title": "Borrowing becomes adaptation in Indian context",
+          "structural_type": "adaptation-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md#SESSION 12"
+          ],
+          "full_text": "SOURCE INFLUENCE\nUK responsibility | US rights/review | Canada residuary power\n| Ireland directives | Australia federal techniques.\n\nINDIAN FILTER\nwritten supremacy | republic | social transformation\n| federal diversity | judicial doctrine | party practice.\n\nRESULT\nselection -> textual change -> institutional interaction -> new consequence.\n\nTRAP\nborrowed from != copied unchanged."
+        },
+        {
+          "title": "Written, unwritten, rigid and flexible constitutional forms",
+          "structural_type": "constitution-form-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+          ],
+          "full_text": "UK\nuncodified: statutes + common law + conventions + authoritative practice;\npolitically flexible under parliamentary sovereignty.\n\nUSA\ncodified, supreme and comparatively rigid.\n\nINDIA\ncodified and supreme; amendment routes range from simple majority\nto special majority and State ratification.\n\nSOUTH AFRICA / GERMANY\nwritten transformative/post-authoritarian constitutions with entrenched principles.\n\nCONTROL\nwritten != rigid; unwritten != lawless; flexibility and supremacy are separate variables."
+        },
+        {
+          "title": "Parliamentary, presidential and semi-presidential executives",
+          "structural_type": "executive-model-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+          ],
+          "full_text": "INDIA / UK\nparliamentary fusion | collective responsibility | confidence | nominal/formal head distinction.\n\nUSA\npresidential separation | fixed tenure | separately elected executive | legislative checks.\n\nFRANCE\nsemi-presidential dual executive | directly elected President | responsible Prime Minister\n| cohabitation when parliamentary majority differs.\n\nGERMANY\nconstructive vote of no confidence strengthens parliamentary stability.\n\nSWITZERLAND\ncollegial Federal Council and direct-democratic context.\n\nTRAP\nIndian President != US President; parliamentary fusion != absence of checks."
+        },
+        {
+          "title": "Federal, unitary and hybrid design with upper houses",
+          "structural_type": "federal-bicameral-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+          ],
+          "full_text": "USA\ncoordinate federalism | State equality in Senate | dual citizenship/court features.\n\nCANADA\nfederal with strong-centre and residuary federal power influences.\n\nAUSTRALIA\nfederal division + strong elected Senate + concurrent/trade inspirations.\n\nINDIA\nUnion/State/Concurrent Lists | Union residuary power | single citizenship\n| integrated judiciary | emergency centralisation | asymmetry.\n\nUPPER HOUSES\nRajya Sabha population-weighted, indirectly elected and unequal;\nUS Senate State-equal and appointment-confirming;\nGerman Bundesrat represents Land governments.\n\nTRAP\nbicameral label does not imply identical federal representation."
+        },
+        {
+          "title": "Supremacy, judicial review and constitutional courts",
+          "structural_type": "review-sovereignty-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+          ],
+          "full_text": "UK\nparliamentary sovereignty with rights and devolution qualifications.\n\nUSA\nwritten supremacy + diffuse judicial review through ordinary courts.\n\nGERMANY\nspecialised Federal Constitutional Court.\n\nINDIA\nSupreme Court + High Courts exercise diffuse review, writs and federal adjudication;\nParliament remains Constitution-limited.\n\nCASES\nKesavananda Bharati (1973) -> basic structure.\nMinerva Mills (1980) -> limited amendment and FR-DPSP harmony.\nFirst Judges Case (1981) -> initial executive primacy.\nSecond Judges Case (1993) -> collegium and judicial primacy.\nThird Judges Case (1998) -> collegium consultation enlarged.\nFourth Judges Case (2015) -> judicial-independence control of NJAC.\nS.R. Bommai (1994) -> federalism and secularism as basic-structure controls.\n\nTRAP\nIndian judicial review is not borrowed as an unlimited US copy."
+        },
+        {
+          "title": "Rights, due process and socio-economic directives",
+          "structural_type": "rights-model-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+          ],
+          "full_text": "USA\nrights tradition + due process + strong judicial enforcement.\n\nINDIA\nFundamental Rights + Article 32/226 remedies\n+ Directive Principles + duties + reasonable-restriction architecture.\n\nIRELAND\ndirective-principle inspiration, adapted to Indian transformative governance.\n\nSOUTH AFRICA\nexpress justiciable socio-economic rights and proportionality context.\n\nJAPAN / INDIA\n\"procedure established by law\" textual influence.\nManeka Gandhi (1978) adds fairness, non-arbitrariness and reasonableness.\n\nTRAP\nIndian DPSPs are not operationally identical to Ireland;\nprocedure is not post-Maneka Gandhi (1978) formalism."
+        },
+        {
+          "title": "Amendment, emergency and electoral design",
+          "structural_type": "change-crisis-election-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+          ],
+          "full_text": "AMENDMENT\nUK political flexibility | USA high rigidity | India multi-track Article 368\n| Germany eternity clause | Switzerland referendum routes.\n\nINDIAN CONTROL\nKesavananda Bharati (1973) basic structure;\nI.R. Coelho (2007) post-1973 Ninth Schedule review.\n\nEMERGENCY\nIndia: Articles 352/356/360 with 44th-Amendment safeguards and review.\nGermany: post-authoritarian safeguards.\nFrance: distinct presidential emergency design.\n\nELECTIONS\nIndia/UK FPTP legislatures | US electoral college Presidency\n| France two-round Presidency | Germany mixed-member\n| Switzerland referendums/initiatives.\n\nTRAP\nelectoral system follows office and party-system context; no model is universally superior."
+        },
+        {
+          "title": "Secularism and accountability institutions",
+          "structural_type": "secular-watchdog-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "SECULARISM\nIndia: principled engagement, equality and reform.\nUSA: non-establishment + free exercise.\nFrance: laicite and republican public sphere.\nGermany: cooperative church-State arrangements.\n\nACCOUNTABILITY\nIndia CAG: constitutional Westminster adaptation.\nLokpal: statutory ombudsman, not constitutional court.\nFinance Commission: periodic expert federal-transfer body.\nECI: central constitutional election management.\n\nCOMPARATIVE LESSON\nappointment, jurisdiction, remedy and political context matter more than institutional label."
+        },
+        {
+          "title": "Constitutional offices and accountability compared",
+          "structural_type": "office-comparison-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "COMPARE EACH OFFICE THROUGH\nappointment | tenure | power | advice | removal | reporting | review.\n\nINDIAN PRESIDENT != US PRESIDENT != FRENCH PRESIDENT.\nRAJYA SABHA != US SENATE != CANADIAN SENATE != BUNDESRAT.\nCAG, ECI, FINANCE COMMISSION AND LOKPAL\nadapt audit, election, federal-transfer and ombudsman functions.\n\nRULE\ntitle similarity never proves power equivalence."
+        },
+        {
+          "title": "Verified PYQs and comparative answer execution",
+          "structural_type": "comparative-pyq-map",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "2018 India-USA systems | 2019 France-secularism lesson\n2020 India-UK judiciary | 2022 India-France Presidents\n2023 parliamentary sovereignty | 2024 India-US secularism\n2025 pardon | 2025 judicial appointments.\n\nANSWER MATRIX\nfunction -> commonality -> difference -> context -> consequence -> lesson.\n\nFIREWALL\nanswer every limb; do not replace comparison with country-wise description."
+        },
+        {
+          "title": "India's hybrid adaptation and UPSC synthesis",
+          "structural_type": "comparative-answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\polity-47_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "INDIAN HYBRID\nBritish responsible government + written supremacy\n| US rights/review + Canadian strong-centre federation\n| Irish directives + Australian federal techniques\n| German emergency lessons + South African transformative comparison.\n\nPRELIMS FIREWALL\nuncodified != unwritten | parliamentary != legislative supremacy in India\n| federal != equal upper-house seats | President titles != powers\n| borrowed != copied | DPSP != enforceable right | Rajya Sabha != US Senate.\n\nMAINS MATRIX\ndesign -> commonality -> difference -> reason -> consequence -> qualification.\n\nVERDICT\nIndia's Constitution is original in synthesis: foreign techniques were re-engineered\nfor democratic responsibility, social transformation, federal diversity\nand judicially limited power."
+        }
+      ]
+    }
+  }
+}

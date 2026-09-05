@@ -1,0 +1,1000 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+  "subject": "Philosophy",
+  "title": "SOCIAL AND POLITICAL IDEALS",
+  "short_route": "THE TRIAD AND THE → EQUALITY FROM EQUAL WORTH → ROUSSEAU MILL AND MARX → EQUALITY OF WHAT AND → BERLIN AND MILL ON → FROM CONTRACT LIBERTY TO",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g4\\topic-01_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-socio-political-philosophy-01-ascii-g4-2026-08-30.json",
+  "ascii_spec_sha256": "85c99b3be890718071c7a0f6146169fdcbc8d3975243ba7087218a8f0352936d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE TRIAD AND THE ORDERING PROBLEM",
+      "structural_type": "triadic mediation map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE TRIAD AND THE ORDERING PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL INSTITUTIONS DISTRIBUTE STATUS, CHOICE, BURDENS AND BENEFITS",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUALITY ASKS",
+          "role": "comparison"
+        },
+        {
+          "text": "IN WHAT RESPECT MUST PERSONS BE TREATED AS EQUALS?",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERTY ASKS",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT PROTECTED SPHERE AND EFFECTIVE AGENCY MUST EACH PERSON",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE ASKS",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT IS DUE, BY WHICH RULE, AND WITH WHICH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "START → political institutions distribute status, choice, burdens and benefits",
+        "EQUALITY asks: in what respect must persons be treated as equals?",
+        "LIBERTY asks: what protected sphere and effective agency must each person have?",
+        "JUSTICE asks: what is due, by which rule, and with which rectification?",
+        "liberty without fair conditions can protect accumulated power equality without relevant differentiation can become mechanical"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "START → political institutions distribute status, choice, burdens and benefits",
+            "EQUALITY asks: in what respect must persons be treated as equals?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIBERTY asks: what protected sphere and effective agency must each person have?",
+            "JUSTICE asks: what is due, by which rule, and with which rectification?"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "liberty without fair conditions can protect accumulated power equality without relevant differentiation can become mechanical levelling justice mediates",
+            "basic liberties, justified inequalities and equal civic dignity answer thesis → the three ideals are distinct but institutionally"
+          ]
+        }
+      ],
+      "mechanism_strip": "JUSTICE asks: what is due, by which rule, and with which rectification?",
+      "answer_line": "what is due, by which rule, and with which rectification?.",
+      "source_references": [
+        "The triad and the ordering problem"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EQUALITY FROM EQUAL WORTH TO REAL OPPORTUNITY",
+      "structural_type": "four-level equality ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EQUALITY FROM EQUAL WORTH TO REAL OPPORTUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "EQUAL MORAL WORTH",
+          "role": "outcome"
+        },
+        {
+          "text": "ARBITRARY BIRTH HIERARCHY BEARS THE BURDEN OF JUSTIFICATION FORMAL",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUALITY BEFORE LAW AND EQUAL PROTECTION POLITICAL EQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUAL CITIZENSHIP, VOTE AND ELIGIBILITY FOR PUBLIC OFFICE SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "FREEDOM FROM STIGMA, CASTE RANK AND INHERITED CIVIC HUMILIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITS ON DISPARITIES THAT DESTROY FAIR BACKGROUND CONDITIONS FORMAL",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICES ARE LEGALLY OPEN FAIR OPPORTUNITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "equal moral worth → arbitrary birth hierarchy bears the burden of justification formal or legal",
+        "before law and equal protection political equality → equal citizenship, vote and eligibility for public",
+        "→ freedom from stigma, caste rank and inherited civic humiliation economic equality → limits on",
+        "fair background conditions formal opportunity → offices are legally open fair opportunity → education, health",
+        "make access realistically open outcome concern → use thresholds, needs or protection of the least"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "equal moral worth → arbitrary birth hierarchy bears the burden of justification formal or legal equality → equality",
+            "before law and equal protection political equality → equal citizenship, vote and eligibility for public office social equality"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "→ freedom from stigma, caste rank and inherited civic humiliation economic equality → limits on disparities that destroy",
+            "fair background conditions formal opportunity → offices are legally open fair opportunity → education, health and social power"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "make access realistically open outcome concern → use thresholds, needs or protection of the least advantaged trap →",
+            "equality is not sameness of talent, choice or final result"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "equal moral worth → arbitrary birth hierarchy bears the burden of justification formal or legal equality → equality before law and equal protection political equality → equal citizenship, vote and eligibility for public office social equality → freedom from stigma, caste rank and inherited civic humiliation economic equality → limits on disparities that destroy fair background conditions formal opportunity → offices are legally open fair opportunity → education, health and social power make access realistically open outcome concern → use thresholds, needs or protection of the least advantaged trap → equality is not sameness of talent, choice or final result.",
+      "source_references": [
+        "Equality from equal worth to real opportunity"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ROUSSEAU MILL AND MARX ON UNEQUAL SOCIAL POWER",
+      "structural_type": "thinker contrast matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUSSEAU MILL AND MARX ON UNEQUAL SOCIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "NATURAL DIFFERENCES BECOME DOMINATION THROUGH CONVENTION AND PROPERTY NATURAL",
+          "role": "outcome"
+        },
+        {
+          "text": "AGE, STRENGTH, HEALTH AND INTELLIGENCE MORAL OR POLITICAL INEQUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "WEALTH, HONOUR, POWER AND DEPENDENCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "EQUAL LEGAL AND CIVIC STATUS PLUS INDIVIDUALITY AND WOMEN'S",
+          "role": "primary"
+        },
+        {
+          "text": "THE SUBJECTION OF WOMEN",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLEGED NATURAL SUBORDINATION IS SOCIALLY MANUFACTURED",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMALLY EQUAL EXCHANGE CAN CONCEAL CLASS EXPLOITATION EQUAL RIGHT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROUSSEAU → natural differences become domination through convention and property natural inequality → age, strength",
+        "moral or political inequality → wealth, honour, power and dependence",
+        "MILL → equal legal and civic status plus individuality and women's equality",
+        "The Subjection of Women → alleged natural subordination is socially manufactured",
+        "MARX → formally equal exchange can conceal class exploitation equal right can reproduce inequality when"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ROUSSEAU → natural differences become domination through convention and property natural inequality → age, strength, health and intelligence",
+          "The Subjection of Women → alleged natural subordination is socially manufactured",
+          "material structure must connect"
+        ],
+        [
+          "moral or political inequality → wealth, honour, power and dependence",
+          "MARX → formally equal exchange can conceal class exploitation equal right can reproduce inequality when persons and needs",
+          ""
+        ],
+        [
+          "MILL → equal legal and civic status plus individuality and women's equality",
+          "differ higher communist rule → contribution by ability and distribution by need comparison → status equality, anti-subordination and",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ROUSSEAU → natural differences become domination through convention and property natural inequality → age, strength, health and intelligence",
+            "moral or political inequality → wealth, honour, power and dependence",
+            "MILL → equal legal and civic status plus individuality and women's equality"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "The Subjection of Women → alleged natural subordination is socially manufactured",
+            "MARX → formally equal exchange can conceal class exploitation equal right can reproduce inequality when persons and needs",
+            "differ higher communist rule → contribution by ability and distribution by need comparison → status equality, anti-subordination and"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "material structure must connect"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MARX → formally equal exchange can conceal class exploitation equal right can reproduce inequality when persons and needs differ higher communist rule → contribution by ability and distribution by need comparison → status equality, anti-subordination and material structure must connect.",
+      "source_references": [
+        "Rousseau Mill and Marx on unequal social power"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EQUALITY OF WHAT AND THE METRIC DECISION",
+      "structural_type": "metric decision tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EQUALITY OF WHAT AND THE METRIC DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE METRIC",
+          "role": "outcome"
+        },
+        {
+          "text": "DWORKIN EQUALISES RESOURCES WHILE DISTINGUISHING BRUTE AND OPTION LUCK",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPABILITY METRIC",
+          "role": "evidence"
+        },
+        {
+          "text": "SEN ASKS WHAT PERSONS ARE ACTUALLY ABLE TO DO",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONS ALONE ARE INSUFFICIENT WHEN INCENTIVES EXPRESS AN UNEQUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "LUCK EGALITARIANISM",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRECT DISADVANTAGE TRACEABLE TO BRUTE LUCK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESOURCE METRIC → Dworkin equalises resources while distinguishing brute and option luck",
+        "CAPABILITY METRIC → Sen asks what persons are actually able to do and be same",
+        "COHEN → institutions alone are insufficient when incentives express an unequal ethos",
+        "LUCK EGALITARIANISM → correct disadvantage traceable to brute luck",
+        "RELATIONAL EQUALITY → end hierarchy, humiliation and second-class civic standing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RESOURCE METRIC → Dworkin equalises resources while distinguishing brute and option luck",
+            "CAPABILITY METRIC → Sen asks what persons are actually able to do and be same resources can yield unequal freedom because conversion conditions differ",
+            "COHEN → institutions alone are insufficient when incentives express an unequal ethos"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LUCK EGALITARIANISM → correct disadvantage traceable to brute luck",
+            "RELATIONAL EQUALITY → end hierarchy, humiliation and second-class civic standing",
+            "Indian use → distinguish equal rule, access, capability and equal social status trap → no single metric settles"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "every question of need, choice, disability and dignity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian use → distinguish equal rule, access, capability and equal social status trap → no single metric settles every question of need, choice, disability and dignity.",
+      "source_references": [
+        "Equality of what and the metric decision"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BERLIN AND MILL ON THE PROTECTED SPHERE",
+      "structural_type": "two-concept liberty comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BERLIN AND MILL ON THE PROTECTED SPHERE",
+          "role": "primary"
+        },
+        {
+          "text": "NEGATIVE LIBERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "AREA IN WHICH ONE IS LEFT FREE FROM INTERFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "POSITIVE LIBERTY",
+          "role": "evidence"
+        },
+        {
+          "text": "SELF-DIRECTION, AUTONOMY AND BEING ONE'S OWN MASTER",
+          "role": "primary"
+        },
+        {
+          "text": "BERLIN WARNS",
+          "role": "outcome"
+        },
+        {
+          "text": "RULERS MAY COERCE THE EMPIRICAL SELF FOR AN ALLEGED",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL GOODS CAN CONFLICT WITHOUT ONE FINAL HARMONY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEGATIVE LIBERTY → area in which one is left free from interference",
+        "POSITIVE LIBERTY → self-direction, autonomy and being one's own master",
+        "Berlin warns → rulers may coerce the empirical self for an alleged true self value",
+        "MILL'S HARM PRINCIPLE → coercion is justified to prevent harm to others self-regarding conduct receives",
+        "of liberty other-regarding harm permits regulation, but offence alone is not harm reply to spillovers"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "NEGATIVE LIBERTY → area in which one is left free from interference",
+          "Berlin warns → rulers may coerce the empirical self for an alleged true self value pluralism → political goods can conflict without one final harmony",
+          "of liberty other-regarding harm permits regulation, but offence alone is not harm reply to spillovers → liberty shifts"
+        ],
+        [
+          "POSITIVE LIBERTY → self-direction, autonomy and being one's own master",
+          "MILL'S HARM PRINCIPLE → coercion is justified to prevent harm to others self-regarding conduct receives a strong presumption",
+          "the burden of proof onto coercion"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "NEGATIVE LIBERTY → area in which one is left free from interference",
+            "POSITIVE LIBERTY → self-direction, autonomy and being one's own master"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Berlin warns → rulers may coerce the empirical self for an alleged true self value pluralism → political goods can conflict without one final harmony",
+            "MILL'S HARM PRINCIPLE → coercion is justified to prevent harm to others self-regarding conduct receives a strong presumption"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "of liberty other-regarding harm permits regulation, but offence alone is not harm reply to spillovers → liberty shifts",
+            "the burden of proof onto coercion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MILL'S HARM PRINCIPLE → coercion is justified to prevent harm to others self-regarding conduct receives a strong presumption of liberty other-regarding harm permits regulation, but offence alone is not harm reply to spillovers → liberty shifts the burden of proof onto coercion.",
+      "source_references": [
+        "Berlin and Mill on the protected sphere"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FROM CONTRACT LIBERTY TO EFFECTIVE FREEDOM",
+      "structural_type": "contract-to-positive-freedom chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM CONTRACT LIBERTY TO EFFECTIVE FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "ABSENCE OF EXTERNAL IMPEDIMENT; SECURE ORDER MAKES RESIDUAL LIBERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIBERTY UNDER KNOWN LAW PROTECTS LIFE, LIBERTY, PROPERTY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMY IS OBEDIENCE TO A LAW CITIZENS PRESCRIBE THROUGH",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL FREEDOM IS THE CAPACITY TO DEVELOP AND PURSUE",
+          "role": "primary"
+        },
+        {
+          "text": "UNRESTRICTED ECONOMIC LIBERTY CAN GENERATE UNEQUAL SOCIAL POWER COMPLEMENTARITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "A MINIMUM EQUAL STATUS PROTECTS EVERYONE'S USABLE LIBERTY QUALIFIED",
+          "role": "comparison"
+        },
+        {
+          "text": "ENABLING FREEDOM MUST NOT BECOME PERFECTIONIST COMPULSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HOBBES → absence of external impediment; secure order makes residual liberty possible",
+        "LOCKE → liberty under known law protects life, liberty, property and consent",
+        "ROUSSEAU → autonomy is obedience to a law citizens prescribe through the general will",
+        "GREEN → real freedom is the capacity to develop and pursue worthwhile purposes poverty, ignorance",
+        "hollow out merely formal non-interference conflict → unrestricted economic liberty can generate unequal social power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "HOBBES → absence of external impediment; secure order makes residual liberty possible",
+            "LOCKE → liberty under known law protects life, liberty, property and consent"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ROUSSEAU → autonomy is obedience to a law citizens prescribe through the general will",
+            "GREEN → real freedom is the capacity to develop and pursue worthwhile purposes poverty, ignorance and dependency can"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "hollow out merely formal non-interference conflict → unrestricted economic liberty can generate unequal social power complementarity → a",
+            "minimum equal status protects everyone's usable liberty qualified verdict → enabling freedom must not become perfectionist compulsion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GREEN → real freedom is the capacity to develop and pursue worthwhile purposes poverty, ignorance and dependency can hollow out merely formal non-interference conflict → unrestricted economic liberty can generate unequal social power complementarity → a minimum equal status protects everyone's usable liberty qualified verdict → enabling freedom must not become perfectionist compulsion.",
+      "source_references": [
+        "From contract liberty to effective freedom"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TECHNOLOGY DOMINATION AND REPUBLICAN LIBERTY",
+      "structural_type": "domination mechanism map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TECHNOLOGY DOMINATION AND REPUBLICAN LIBERTY",
+          "role": "primary"
+        },
+        {
+          "text": "MODERN TECHNOLOGY EXPANDS COMMUNICATION, ASSOCIATION AND ACCESS TO KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERFERENCE IS AN ACT; DOMINATION IS EXPOSURE TO UNCONTROLLED",
+          "role": "institution"
+        },
+        {
+          "text": "PETTIT'S TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "CAN THE AFFECTED PERSON CONTEST POWER ON EQUAL PUBLIC",
+          "role": "mechanism"
+        },
+        {
+          "text": "AN INDULGENT MASTER MAY NOT INTERFERE YET STILL DOMINATES",
+          "role": "caution"
+        },
+        {
+          "text": "PRIVACY, ACCESS AND SECURITY MUST BE ANALYSED AS LIBERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "PYQ ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "modern technology expands communication, association and access to knowledge surveillance, behavioural profiling and platform dependence",
+        "INTERFERENCE is an act; DOMINATION is exposure to uncontrolled arbitrary power",
+        "Pettit's test → can the affected person contest power on equal public terms?",
+        "an indulgent master may not interfere yet still dominates through standing capacity rule-bound contestable law",
+        "rather than merely restrict it trap → privacy, access and security must be analysed as"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "modern technology expands communication, association and access to knowledge surveillance, behavioural profiling and platform dependence alter the freedom",
+            "INTERFERENCE is an act; DOMINATION is exposure to uncontrolled arbitrary power"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Pettit's test → can the affected person contest power on equal public terms?",
+            "an indulgent master may not interfere yet still dominates through standing capacity rule-bound contestable law can constitute freedom"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "rather than merely restrict it trap → privacy, access and security must be analysed as liberty conditions, not",
+            "PYQ route → assess whether technological society makes liberty unreal or differently fragile"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "an indulgent master may not interfere yet still dominates through standing capacity rule-bound contestable law can constitute freedom rather than merely restrict it trap → privacy, access and security must be analysed as liberty conditions, not slogans.",
+      "source_references": [
+        "Technology domination and republican liberty"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JUSTICE FROM HARMONY TO PROPORTION AND REPAIR",
+      "structural_type": "classical justice matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JUSTICE FROM HARMONY TO PROPORTION AND REPAIR",
+          "role": "primary"
+        },
+        {
+          "text": "JUSTICE IS HARMONY WHEN EACH PART PERFORMS ITS PROPER",
+          "role": "outcome"
+        },
+        {
+          "text": "REASON GOVERNS WITH SPIRIT WHILE APPETITE REMAINS ORDERED OBJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FUNCTIONAL HARMONY CAN FREEZE HIERARCHY AND SUPPRESS INDIVIDUAL CLAIMS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARISTOTLE DISTRIBUTIVE JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "PROPORTIONATE SHARES BY A RELEVANT CRITERION CRITERIA DISPUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "MERIT, NEED, EQUALITY AND DESERT PRODUCE RIVAL DISTRIBUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRECTIVE JUSTICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLATO → justice is harmony when each part performs its proper function city and soul",
+        "governs with spirit while appetite remains ordered objection → functional harmony can freeze hierarchy and",
+        "ARISTOTLE DISTRIBUTIVE JUSTICE → proportionate shares by a relevant criterion criteria dispute → merit, need",
+        "produce rival distributions",
+        "CORRECTIVE JUSTICE → restore balance after voluntary or involuntary wrong compensation asks what loss occurred"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PLATO → justice is harmony when each part performs its proper function city and soul analogy → reason",
+          "produce rival distributions",
+          "UTILITARIAN TEST → aggregate welfare can sacrifice separate persons or minorities justice therefore needs both allocation and rectification"
+        ],
+        [
+          "governs with spirit while appetite remains ordered objection → functional harmony can freeze hierarchy and suppress individual claims",
+          "CORRECTIVE JUSTICE → restore balance after voluntary or involuntary wrong compensation asks what loss occurred, who caused it",
+          ""
+        ],
+        [
+          "ARISTOTLE DISTRIBUTIVE JUSTICE → proportionate shares by a relevant criterion criteria dispute → merit, need, equality and desert",
+          "and what repair is proportionate",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PLATO → justice is harmony when each part performs its proper function city and soul analogy → reason",
+            "governs with spirit while appetite remains ordered objection → functional harmony can freeze hierarchy and suppress individual claims",
+            "ARISTOTLE DISTRIBUTIVE JUSTICE → proportionate shares by a relevant criterion criteria dispute → merit, need, equality and desert"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "produce rival distributions",
+            "CORRECTIVE JUSTICE → restore balance after voluntary or involuntary wrong compensation asks what loss occurred, who caused it",
+            "and what repair is proportionate"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "UTILITARIAN TEST → aggregate welfare can sacrifice separate persons or minorities justice therefore needs both allocation and rectification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UTILITARIAN TEST → aggregate welfare can sacrifice separate persons or minorities justice therefore needs both allocation and rectification.",
+      "source_references": [
+        "Justice from harmony to proportion and repair"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RAWLS NOZICK SEN AND AMBEDKAR",
+      "structural_type": "modern justice debate grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAWLS NOZICK SEN AND AMBEDKAR",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL POSITION PLUS VEIL OF IGNORANCE MODELS FAIR CHOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL BASIC LIBERTIES WITH LEXICAL PRIORITY SECOND PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "FAIR EQUALITY OF OPPORTUNITY PLUS THE DIFFERENCE PRINCIPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "JUSTICE DEPENDS ON ACQUISITION, TRANSFER AND RECTIFICATION, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "COMPARE REMEDIABLE INJUSTICE THROUGH CAPABILITY AND PUBLIC REASONING INSTITUTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL DEMOCRACY FAILS WITHOUT SOCIAL EQUALITY AND FRATERNITY COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "FAIRNESS, ENTITLEMENT, CAPABILITY AND ANTI-CASTE DIGNITY ORDER DIFFERENTLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAWLS → original position plus veil of ignorance models fair choice first principle → equal",
+        "lexical priority second principle → fair equality of opportunity plus the difference principle",
+        "NOZICK → justice depends on acquisition, transfer and rectification, not a pattern minimal state protects",
+        "preserve unequal starting structures",
+        "SEN → compare remediable injustice through capability and public reasoning institutional justice (nīti) differs from"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "RAWLS → original position plus veil of ignorance models fair choice first principle → equal basic liberties with",
+          "preserve unequal starting structures",
+          "AMBEDKAR → political democracy fails without social equality and fraternity comparison → fairness, entitlement, capability and anti-caste dignity"
+        ],
+        [
+          "lexical priority second principle → fair equality of opportunity plus the difference principle",
+          "SEN → compare remediable injustice through capability and public reasoning institutional justice (nīti) differs from realised justice (nyāya)",
+          "order differently"
+        ],
+        [
+          "NOZICK → justice depends on acquisition, transfer and rectification, not a pattern minimal state protects entitlement but may",
+          "in actual lives",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "RAWLS → original position plus veil of ignorance models fair choice first principle → equal basic liberties with",
+            "lexical priority second principle → fair equality of opportunity plus the difference principle",
+            "NOZICK → justice depends on acquisition, transfer and rectification, not a pattern minimal state protects entitlement but may"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "preserve unequal starting structures",
+            "SEN → compare remediable injustice through capability and public reasoning institutional justice (nīti) differs from realised justice (nyāya)",
+            "in actual lives"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "AMBEDKAR → political democracy fails without social equality and fraternity comparison → fairness, entitlement, capability and anti-caste dignity",
+            "order differently"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AMBEDKAR → political democracy fails without social equality and fraternity comparison → fairness, entitlement, capability and anti-caste dignity order differently.",
+      "source_references": [
+        "Rawls Nozick Sen and Ambedkar"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "INTEGRATED VERDICT PYQ TRAPS AND ANSWER SPINE",
+      "structural_type": "integrative answer-writing rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTEGRATED VERDICT PYQ TRAPS AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE STRONGEST SENSE OF THE IDEAL NAMED IN",
+          "role": "institution"
+        },
+        {
+          "text": "STATUS, OPPORTUNITY, OUTCOME; INTERFERENCE, MASTERY, DOMINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "USE ONE NAMED THINKER AND EXPLAIN THE MECHANISM, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "PRESENT THE STRONGEST OBJECTION OR RIVAL ORDERING PRINCIPLE",
+          "role": "primary"
+        },
+        {
+          "text": "USE CASTE, GENDER, RESERVATION OR DIGITAL POWER ONLY WHEN",
+          "role": "mechanism"
+        },
+        {
+          "text": "PYQ ANCHORS",
+          "role": "comparison"
+        },
+        {
+          "text": "MILL, ROUSSEAU, MARX, BERLIN, PLATO, RAWLS, NOZICK AND SEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → state the strongest sense of the ideal named in the question",
+        "DISTINGUISH → status, opportunity, outcome; interference, mastery, domination",
+        "ARGUE → use one named thinker and explain the mechanism, not a decorative quotation",
+        "COUNTER → present the strongest objection or rival ordering principle",
+        "INDIA → use caste, gender, reservation or digital power only when concept-led"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE → state the strongest sense of the ideal named in the question",
+            "DISTINGUISH → status, opportunity, outcome; interference, mastery, domination",
+            "ARGUE → use one named thinker and explain the mechanism, not a decorative quotation",
+            "COUNTER → present the strongest objection or rival ordering principle"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIA → use caste, gender, reservation or digital power only when concept-led",
+            "PYQ anchors → Mill, Rousseau, Marx, Berlin, Plato, Rawls, Nozick and Sen close-option trap → liberty is not licence",
+            "equality is not sameness",
+            "justice is not law"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "10 marks → definition, distinction, thinker, objection, verdict",
+            "15 or 20 marks → compare positions, add Indian application and qualify the synthesis",
+            "END → justice orders liberty and equality without replacing either ideal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "15 or 20 marks → compare positions, add Indian application and qualify the synthesis.",
+      "source_references": [
+        "Integrated verdict PYQ traps and answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL DEPTH 1 — THE IDEALS TRIAD",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP, WORKING THESIS AND THE ORDERING PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 2 — EQUALITY I",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUAL WORTH, THE FOUR FORMS, OPPORTUNITY VS OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 3 — EQUALITY II",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUSSEAU, MILL AND MARX ON INEQUALITY, INDIVIDUALITY AND NEED",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTIONAL DEPTH 4 — EQUALITY III",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "OPTIONAL DEPTH 1 — The Ideals Triad: Map, Working Thesis and the Ordering Problem",
+            "OPTIONAL DEPTH 2 — Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome",
+            "OPTIONAL DEPTH 3 — Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need",
+            "OPTIONAL DEPTH 4 — Equality III: 'Equality of What?' -- Sen, Cohen and Dworkin"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "OPTIONAL DEPTH 5 — Liberty I: Meaning, Berlin's Two Concepts, Mill's Harm Principle",
+            "OPTIONAL DEPTH 6 — Liberty II: Hobbes, Locke, Rousseau, Green and the Liberty-Equality Relation",
+            "OPTIONAL DEPTH 7 — Liberty III: Technological Society and Republican Non-Domination",
+            "OPTIONAL DEPTH 8 — Justice I: Meaning, Plato, Aristotle, the Criteria Problem and Corrective Justice"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "OPTIONAL DEPTH 9 — Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict",
+            "OPTIONAL DEPTH 10 — Debates, Criticisms and Traps: Synthesis Across the Triad",
+            "ADVANCED DOSSIER COMPLETENESS ADDENDUM",
+            "Core prerequisite: Equality, liberty and justice as named syllabus terms"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "source_generation": 4
+}

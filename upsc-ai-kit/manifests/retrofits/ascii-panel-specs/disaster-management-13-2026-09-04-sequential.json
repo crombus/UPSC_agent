@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 13",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-13",
+      "display_title": "Epidemics and Public Health Emergencies",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-13_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Epidemiological status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "OUTBREAK -> local excess over expected",
+            "EPIDEMIC -> population / regional excess",
+            "PANDEMIC -> sustained multi-country / continental spread",
+            "ENDEMIC -> expected persistent presence"
+          ],
+          "source_references": [
+            "Outbreak",
+            "Epidemic",
+            "Pandemic",
+            "Endemic"
+          ]
+        },
+        {
+          "title": "Emergency-status firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DOMESTIC STATUS -> national / subnational legal basis",
+            "PHEIC -> IHR international-concern status",
+            "PANDEMIC EMERGENCY -> amended-IHR higher alert",
+            "WHO COORDINATES -> STATES RETAIN SOVEREIGN AUTHORITY"
+          ],
+          "source_references": [
+            "Public-health emergency status"
+          ]
+        },
+        {
+          "title": "Risk-assessment map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "AGENT / HAZARD + TRANSMISSION ROUTE",
+            "EXPOSURE + VULNERABLE GROUPS",
+            "SEVERITY + HEALTH-SYSTEM CAPACITY",
+            "UNCERTAINTY + PLACE / TIME -> PROPORTIONATE ACTION"
+          ],
+          "source_references": [
+            "Risk assessment"
+          ]
+        },
+        {
+          "title": "Surveillance-to-action rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 SIGNAL / S-P-L REPORTING",
+            "2 ANALYSE TREND AND VERIFY",
+            "3 RAPID RESPONSE INVESTIGATION",
+            "4 CONTROL + FEEDBACK TO SURVEILLANCE"
+          ],
+          "source_references": [
+            "Surveillance",
+            "Laboratory confirmation"
+          ]
+        },
+        {
+          "title": "One Health triangle",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HUMAN HEALTH <-> ANIMAL HEALTH",
+            "       \\           /",
+            "        ENVIRONMENT",
+            "JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN"
+          ],
+          "source_references": [
+            "One Health"
+          ]
+        },
+        {
+          "title": "Preparedness portfolio",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "PREVENT -> WASH vector control infection prevention immunisation",
+            "PREPARE -> workforce labs stocks plans training drills",
+            "COMMUNICATE -> trusted accessible channels",
+            "CONTINUE -> routine health and social services"
+          ],
+          "source_references": [
+            "Prevention and preparedness",
+            "Continuity of essential services"
+          ]
+        },
+        {
+          "title": "Outbreak-response loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "VERIFY -> INVESTIGATE -> CASE FIND / TEST",
+            "CARE + ISOLATE WHERE INDICATED",
+            "MANAGE EXPOSURE / COMMUNITY RISK",
+            "REASSESS DATA EFFECTS EQUITY AND PROPORTIONALITY"
+          ],
+          "source_references": [
+            "Outbreak response"
+          ]
+        },
+        {
+          "title": "Quarantine-isolation split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "QUARANTINE -> exposed, not known infected",
+            "ISOLATION -> infected / ill case",
+            "BOTH -> lawful proportionate supported and time-bounded",
+            "TRAP -> LABEL DOES NOT REPLACE CARE OR RIGHTS"
+          ],
+          "source_references": [
+            "Quarantine versus isolation"
+          ]
+        },
+        {
+          "title": "Surge and continuity balance",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SURGE -> staff space lab supplies referral transport",
+            "WORKFORCE -> protection rest communication support",
+            "ESSENTIAL CARE -> maternal child chronic emergency services",
+            "OUTCOME -> outbreak care without avoidable indirect harm"
+          ],
+          "source_references": [
+            "Health-system surge",
+            "Continuity of essential services"
+          ]
+        },
+        {
+          "title": "Risk communication chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "KNOWN + UNKNOWN + CHANGING",
+            "WHO / WHERE / WHAT ACTION / WHERE CARE",
+            "MULTILINGUAL ACCESSIBLE TRUSTED MESSENGERS",
+            "MONITOR RUMOUR STIGMA FEEDBACK AND CORRECT"
+          ],
+          "source_references": [
+            "Risk communication",
+            "Misinformation and recovery"
+          ]
+        },
+        {
+          "title": "Institutional map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "MOHFW / NCDC-IDSP / ICMR -> STANDARD SURVEILLANCE EVIDENCE",
+            "STATE / DISTRICT / LOCAL -> PUBLIC HEALTH DELIVERY",
+            "DM AUTHORITIES -> CROSS-SECTOR COORDINATION",
+            "WHO / IHR -> INTERNATIONAL NOTIFICATION AND COOPERATION"
+          ],
+          "source_references": [
+            "Federal and local roles",
+            "Institutional roles"
+          ]
+        },
+        {
+          "title": "Public-health answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE STATUS -> ASSESS ROUTE EXPOSURE SEVERITY CAPACITY",
+            "SURVEIL CONFIRM INVESTIGATE RESPOND AND REASSESS",
+            "ADD ONE HEALTH SURGE CONTINUITY COMMUNICATION AND EQUITY",
+            "ASSIGN FEDERAL / INTERNATIONAL ROLES + VERIFY OUTCOMES"
+          ],
+          "source_references": [
+            "Platform-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

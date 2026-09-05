@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-08-12-sequential-batch-2026-08-24",
+  "validated_at": "2026-08-24T09:07:29+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-08",
+      "polity-09",
+      "polity-10",
+      "polity-11",
+      "polity-12"
+    ],
+    "timestamps_monotonic": true,
+    "topic_count": 5
+  },
+  "tracker": {
+    "latest_validated_topics": 45,
+    "new_topic_records": [
+      "polity-08:learner-v2:g2",
+      "polity-09:learner-v2:g2",
+      "polity-10:learner-v2:g2",
+      "polity-11:learner-v2:g2",
+      "polity-12:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-08",
+        "title": "Directive Principles",
+        "started_at": "2026-08-24T08:07:00+05:30",
+        "completed_at": "2026-08-24T08:22:50+05:30",
+        "record_id": "polity-08:learner-v2:g2",
+        "counts": {
+          "sessions": 15,
+          "main_pdf_pages": 59,
+          "workbook_pdf_pages": 16,
+          "mcqs": 36,
+          "verified_pyqs": 8,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\08-Directive-Principles",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-08-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-08-validation-2026-08-24.json",
+        "hashes_passed": true,
+        "gates_passed": 9
+      },
+      {
+        "topic_key": "polity-09",
+        "title": "Fundamental Duties",
+        "started_at": "2026-08-24T08:22:50+05:30",
+        "completed_at": "2026-08-24T08:30:02+05:30",
+        "record_id": "polity-09:learner-v2:g2",
+        "counts": {
+          "sessions": 13,
+          "main_pdf_pages": 49,
+          "workbook_pdf_pages": 12,
+          "mcqs": 32,
+          "verified_pyqs": 2,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-09-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-09-validation-2026-08-24.json",
+        "hashes_passed": true,
+        "gates_passed": 9
+      },
+      {
+        "topic_key": "polity-10",
+        "title": "Amendment and Basic Structure",
+        "started_at": "2026-08-24T08:30:02+05:30",
+        "completed_at": "2026-08-24T08:37:41+05:30",
+        "record_id": "polity-10:learner-v2:g2",
+        "counts": {
+          "sessions": 15,
+          "main_pdf_pages": 59,
+          "workbook_pdf_pages": 17,
+          "mcqs": 36,
+          "verified_pyqs": 10,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-10-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-10-validation-2026-08-24.json",
+        "hashes_passed": true,
+        "gates_passed": 9
+      },
+      {
+        "topic_key": "polity-11",
+        "title": "Parliamentary System",
+        "started_at": "2026-08-24T08:37:41+05:30",
+        "completed_at": "2026-08-24T08:45:59+05:30",
+        "record_id": "polity-11:learner-v2:g2",
+        "counts": {
+          "sessions": 13,
+          "main_pdf_pages": 52,
+          "workbook_pdf_pages": 16,
+          "mcqs": 32,
+          "verified_pyqs": 5,
+          "original_mains": 6,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-11-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-11-validation-2026-08-24.json",
+        "hashes_passed": true,
+        "gates_passed": 9
+      },
+      {
+        "topic_key": "polity-12",
+        "title": "Federal System",
+        "started_at": "2026-08-24T08:45:59+05:30",
+        "completed_at": "2026-08-24T08:53:22+05:30",
+        "record_id": "polity-12:learner-v2:g2",
+        "counts": {
+          "sessions": 13,
+          "main_pdf_pages": 44,
+          "workbook_pdf_pages": 13,
+          "mcqs": 36,
+          "verified_pyqs": 5,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\12-Federal-System",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-12-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-12-validation-2026-08-24.json",
+        "hashes_passed": true,
+        "gates_passed": 9
+      }
+    ],
+    "totals": {
+      "sessions": 69,
+      "main_pdf_pages": 263,
+      "workbook_pdf_pages": 74,
+      "mcqs": 172,
+      "verified_pyqs": 30,
+      "original_mains": 34,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45
+    },
+    "manual_ascii_topic_count": 45,
+    "manual_ascii_panel_count": 390,
+    "graphical_spec_count": 45,
+    "graphical_core_stage_total": 45,
+    "graphical_extra_stage_total": 5,
+    "register_notes_last_all_topics": true,
+    "basic_advanced_boundary_passed": true
+  },
+  "pdf_and_library": {
+    "full_library_topic_count": 45,
+    "full_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json",
+    "full_library_validation_passed": true,
+    "all_topic_folders_exact_four_items": true,
+    "all_six_primary_artifact_hashes_equal": true,
+    "hash_results": {
+      "polity-08": {
+        "main_pdf": true,
+        "workbook": true,
+        "continuous_core_first.poster_pdf": true,
+        "continuous_core_first.tiled_pdf": true,
+        "continuous_core_first.master_image": true,
+        "continuous_core_first.ascii_master": true
+      },
+      "polity-09": {
+        "main_pdf": true,
+        "workbook": true,
+        "continuous_core_first.poster_pdf": true,
+        "continuous_core_first.tiled_pdf": true,
+        "continuous_core_first.master_image": true,
+        "continuous_core_first.ascii_master": true
+      },
+      "polity-10": {
+        "main_pdf": true,
+        "workbook": true,
+        "continuous_core_first.poster_pdf": true,
+        "continuous_core_first.tiled_pdf": true,
+        "continuous_core_first.master_image": true,
+        "continuous_core_first.ascii_master": true
+      },
+      "polity-11": {
+        "main_pdf": true,
+        "workbook": true,
+        "continuous_core_first.poster_pdf": true,
+        "continuous_core_first.tiled_pdf": true,
+        "continuous_core_first.master_image": true,
+        "continuous_core_first.ascii_master": true
+      },
+      "polity-12": {
+        "main_pdf": true,
+        "workbook": true,
+        "continuous_core_first.poster_pdf": true,
+        "continuous_core_first.tiled_pdf": true,
+        "continuous_core_first.master_image": true,
+        "continuous_core_first.ascii_master": true
+      }
+    },
+    "no_blank_clipping_glyph_errors": true,
+    "all_markdown_links_resolve": true
+  },
+  "indexes_and_catalogue": {
+    "tracker_finalized": true,
+    "export_command_index": "EXPORT-PDF-COMMAND-INDEX.md",
+    "section_command_index": "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "polity_section_manifest_enriched": true,
+    "topic_catalogue_basic_advanced_owners_resolved": true,
+    "polity_section_indexes_refreshed": true
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_export_four_item_library tools.test_carvaka_flowchart tools.test_refresh_all_v2_learning_sessions tools.test_v2_export_foundation tools.test_v2_section_indexes tools.test_v2_topic_command_catalog",
+    "passed": 93,
+    "failed": 0
+  },
+  "factual_caveats": [
+    "No controlling official Part IV or Article 31C change was located in the strict six-month window. The official NALSA page accessed 24 August 2026 is the current Article 39A institutional anchor; the January 2026 Uttarakhand UCC ordinance is only near-window context.",
+    "No later official Durga Dutt merits decision was located in the strict six-month window. The official MoEF page accessed 24 August 2026 is a bounded Article 51A(g) administrative anchor, not proof of direct enforceability.",
+    "Gazette S.O. 1922(E) verifies 106th Amendment commencement, not operational reservation. The defeated 131st Amendment Bill is used only as a proposal and arithmetic illustration.",
+    "Cabinet Secretariat is used as a current institutional anchor. The 129th Amendment Bill remains a proposal; Article 82A is not treated as current text and no implementation year is claimed.",
+    "GST Council and Inter-State Council Secretariat are current shared-rule anchors. GST Council recommendations are not treated as binding; no speculative delimitation or representation date is claimed."
+  ]
+}

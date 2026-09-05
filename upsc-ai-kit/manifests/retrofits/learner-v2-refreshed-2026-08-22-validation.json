@@ -1,0 +1,677 @@
+{
+  "schema_version": 1,
+  "id": "learner-v2-refreshed-2026-08-22",
+  "validated_on": "2026-09-02T00:14:18.905946+05:30",
+  "selection": "topics",
+  "topic_count": 9,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "geography-26",
+      "source_generation": 3,
+      "refreshed_generation": 4,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-26",
+      "main_pdf_pages": 58,
+      "workbook_pdf_pages": 25,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 80,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-26-2026-09-01-sequential-g3.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          57,
+          57,
+          57,
+          57,
+          57,
+          57,
+          58,
+          58,
+          58,
+          58,
+          58,
+          58
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-26\\carvaka-g4\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-26\\geography-26_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-26\\geography-26_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-26\\geography-26_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-26\\geography-26_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-26\\carvaka-g4"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 58,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-27",
+      "source_generation": 3,
+      "refreshed_generation": 4,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-27",
+      "main_pdf_pages": 58,
+      "workbook_pdf_pages": 24,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 88,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-27-2026-09-01-sequential-g3.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          57,
+          57,
+          57,
+          57,
+          57,
+          57,
+          58,
+          58,
+          58,
+          58,
+          58,
+          58
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-27\\carvaka-g4\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-27\\geography-27_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-27\\geography-27_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-27\\geography-27_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-27\\geography-27_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-27\\carvaka-g4"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 58,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 24,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-29",
+      "source_generation": 3,
+      "refreshed_generation": 4,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-29",
+      "main_pdf_pages": 58,
+      "workbook_pdf_pages": 23,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 87,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-29-2026-09-01-sequential-g3.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          56,
+          56,
+          56,
+          57,
+          57,
+          57,
+          57,
+          57,
+          57,
+          57,
+          58,
+          58
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-29\\carvaka-g4"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 58,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 23,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-31",
+      "source_generation": 2,
+      "refreshed_generation": 3,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-31",
+      "main_pdf_pages": 71,
+      "workbook_pdf_pages": 34,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 87,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-31-2026-09-01-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          70,
+          70,
+          70,
+          70,
+          70,
+          70,
+          70,
+          71,
+          71,
+          71,
+          71,
+          71
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-31\\carvaka-g3\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-31\\geography-31_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-31\\geography-31_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-31\\geography-31_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-31\\geography-31_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-31\\carvaka-g3"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 71,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-33",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-33",
+      "main_pdf_pages": 71,
+      "workbook_pdf_pages": 34,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 89,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-33-2026-09-01-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          69,
+          69,
+          69,
+          70,
+          70,
+          70,
+          70,
+          70,
+          70,
+          70,
+          71,
+          71
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-33\\carvaka-g2\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-33\\geography-33_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-33\\geography-33_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-33\\geography-33_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-33\\geography-33_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-33\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 71,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-34",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-34",
+      "main_pdf_pages": 72,
+      "workbook_pdf_pages": 34,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 93,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-34-2026-09-01-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          71,
+          71,
+          71,
+          71,
+          71,
+          72,
+          72,
+          72,
+          72,
+          72,
+          72,
+          72
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-34\\carvaka-g2\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-34\\geography-34_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-34\\geography-34_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-34\\geography-34_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-34\\geography-34_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-34\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-35",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-35",
+      "main_pdf_pages": 72,
+      "workbook_pdf_pages": 34,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 90,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-35-2026-09-01-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          70,
+          70,
+          70,
+          71,
+          71,
+          71,
+          71,
+          71,
+          71,
+          71,
+          72,
+          72
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-35\\carvaka-g2\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-35\\geography-35_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-35\\geography-35_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-35\\geography-35_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-35\\geography-35_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-35\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-36",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-36",
+      "main_pdf_pages": 73,
+      "workbook_pdf_pages": 38,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 90,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-36-2026-09-01-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          72,
+          72,
+          72,
+          72,
+          72,
+          72,
+          72,
+          73,
+          73,
+          73,
+          73,
+          73
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-36\\carvaka-g2\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-36\\geography-36_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-36\\geography-36_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-36\\geography-36_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-36\\geography-36_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-36\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 73,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 38,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    },
+    {
+      "topic_key": "geography-37",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Geography",
+      "section": "Part-B-Human-Economic-And-Regional-Geography",
+      "topic_folder": "geography-37",
+      "main_pdf_pages": 78,
+      "workbook_pdf_pages": 40,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 90,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-37-2026-09-01-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          77,
+          77,
+          77,
+          77,
+          77,
+          78,
+          78,
+          78,
+          78,
+          78,
+          78,
+          78
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-37\\carvaka-g2\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-37\\geography-37_Complete-Learning-Session_2026-08-22.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-37\\geography-37_Solved-Practice-Workbook_2026-08-22.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-37\\geography-37_Complete-Learning-Session_2026-08-22.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-37\\geography-37_Solved-Practice-Workbook_2026-08-22.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\flowcharts\\geography-37\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 78,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    }
+  ]
+}

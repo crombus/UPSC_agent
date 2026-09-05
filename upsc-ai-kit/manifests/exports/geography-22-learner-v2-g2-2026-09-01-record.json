@@ -1,0 +1,49 @@
+{
+  "record_id": "geography-22:learner-v2:g2",
+  "topic_key": "geography-22",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "geography-22:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Geography — Part A — Physical Geography — Cool Temperate Western Margin British Type",
+  "main_pdf": "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\notes\\\\geography-22_Learning-Session_2026-09-01.pdf",
+  "workbook": "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\workbooks\\\\geography-22_Solved-Workbook_2026-09-01.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\\\geography-22_Learning-Session.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\\\geography-22_Solved-Workbook.md",
+  "generated_on": "2026-09-01",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-22:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-01",
+    "validator": "tools/validate_v2_export.py"
+  },
+  "provenance": {
+    "workflow": "geography-20-22-learner-v2-sequential",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\22_India-Himalayan-Temperate-Forests_Complete-Topic-Package.md",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+    ],
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\\\geography-22_Learning-Session.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-01",
+    "superseded_v1": "geography-22:legacy-v1:g1"
+  }
+}

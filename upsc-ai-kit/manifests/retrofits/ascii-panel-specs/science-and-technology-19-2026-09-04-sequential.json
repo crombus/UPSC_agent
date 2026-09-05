@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 19",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-19",
+      "display_title": "Drones, UAVs and Robotics Policy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-19_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Aircraft-to-system terminology ladder",
+          "structural_type": "definition-ladder",
+          "ascii_lines": [
+            "UAV -> aircraft only",
+            "UAS -> aircraft + remote station + C2 + associated elements",
+            "RPAS -> remotely piloted UAS; pilot in command",
+            "DRONE -> colloquial umbrella",
+            "RULE -> unmanned does not mean autonomous"
+          ],
+          "source_references": [
+            "UAV-UAS-RPAS-drone boundary",
+            "Remote operation-automation-autonomy boundary"
+          ]
+        },
+        {
+          "title": "Integrated UAS architecture",
+          "structural_type": "systems-stack",
+          "ascii_lines": [
+            "AIRFRAME + POWER + PROPULSION",
+            "FLIGHT CONTROLLER + NAVIGATION SENSORS",
+            "COMMAND / TELEMETRY / PAYLOAD-DATA LINKS",
+            "REMOTE PILOT STATION OR ONBOARD LOGIC",
+            "PAYLOAD -> mission capability"
+          ],
+          "source_references": [
+            "Integrated UAS component stack",
+            "Navigation-command-link boundary",
+            "Payload-mission-capability link"
+          ]
+        },
+        {
+          "title": "Flight-control feedback loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "COMMAND / PATH -> desired state",
+            "IMU / SENSORS -> measured state",
+            "CONTROLLER -> compare + correct",
+            "ROTORS / CONTROL SURFACES -> physical response",
+            "NEW STATE -> sensed again"
+          ],
+          "source_references": [
+            "Flight-stabilisation and control chain",
+            "Robotics sensing-actuation-control loop"
+          ]
+        },
+        {
+          "title": "Platform category comparison",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MULTIROTOR -> hover + confined operation | rotor-borne flight",
+            "FIXED-WING -> wider-area coverage | launch/recovery need",
+            "HYBRID VTOL -> vertical access + wing cruise | integration complexity",
+            "PAYLOAD CHANGES -> mass + power + data + control burden",
+            "NO LABEL -> universal range/endurance guarantee"
+          ],
+          "source_references": [
+            "Payload-mission-capability link",
+            "Multirotor-fixed-wing-hybrid categories"
+          ]
+        },
+        {
+          "title": "Human-control continuum",
+          "structural_type": "control-continuum",
+          "ascii_lines": [
+            "TELEOPERATION -> human directly commands",
+            "AUTOMATION -> fixed sequence",
+            "AUTONOMY -> senses and selects actions",
+            "AI SUBSYSTEM -> perception/decision support, not legal authority",
+            "ACCOUNTABILITY -> human oversight + defined fallback"
+          ],
+          "source_references": [
+            "Remote operation-automation-autonomy boundary",
+            "AI-enabled autonomy boundary",
+            "Safety-reliability-liability chain"
+          ]
+        },
+        {
+          "title": "Swarm coordination mesh",
+          "structural_type": "network-mesh",
+          "ascii_lines": [
+            "MEMBERS -> multiple aircraft",
+            "LOCALISATION -> self and neighbour state",
+            "COMMUNICATION -> shared task/state information",
+            "CONTROL RULES -> allocation + formation + adaptation",
+            "FAILURE TEST -> link loss or member loss"
+          ],
+          "source_references": [
+            "Drone-swarm coordination"
+          ]
+        },
+        {
+          "title": "VLOS to BVLOS assurance bridge",
+          "structural_type": "risk-bridge",
+          "ascii_lines": [
+            "VLOS -> pilot maintains unaided visual contact",
+            "BVLOS -> aircraft beyond visual envelope",
+            "BRIDGE -> reliable C2 + navigation + detect-and-avoid",
+            "CONTINGENCY -> lost link + diversion + termination logic",
+            "STATUS -> trial authorisation != routine permission"
+          ],
+          "source_references": [
+            "VLOS-BVLOS operating boundary",
+            "Approval-to-deployment firewall"
+          ]
+        },
+        {
+          "title": "Counter-UAS decision funnel",
+          "structural_type": "decision-funnel",
+          "ascii_lines": [
+            "DETECT -> radar | RF | acoustic | optical",
+            "IDENTIFY / TRACK -> classify and maintain picture",
+            "DECIDE -> authority + proportionality + surroundings",
+            "MITIGATE -> electronic | capture | other authorised response",
+            "LIMIT -> jamming/spoofing can affect legitimate systems"
+          ],
+          "source_references": [
+            "Counter-UAS and electronic-countermeasure layers",
+            "Privacy-data-cybersecurity boundary"
+          ]
+        },
+        {
+          "title": "Civilian application evidence grid",
+          "structural_type": "application-grid",
+          "ascii_lines": [
+            "AGRICULTURE -> monitor / map / spray",
+            "SCIENCE -> volcano / wildlife observation",
+            "GOVERNANCE -> survey / inspection / disaster assessment",
+            "LOGISTICS -> pilot or authorised mission, not blanket service",
+            "EVIDENCE -> imagery + interpretation + field verification"
+          ],
+          "source_references": [
+            "Civilian application and evidence boundary"
+          ]
+        },
+        {
+          "title": "Safety privacy and liability shield",
+          "structural_type": "layered-shield",
+          "ascii_lines": [
+            "ENGINEERING -> airworthiness + maintenance + failsafes",
+            "OPERATIONS -> pilot + weather + route + payload discipline",
+            "DATA -> purpose + access + retention + geospatial sensitivity",
+            "CYBER -> C2/navigation/payload-link resilience",
+            "LIABILITY -> trace operator/software/manufacturer function"
+          ],
+          "source_references": [
+            "Safety-reliability-liability chain",
+            "Privacy-data-cybersecurity boundary"
+          ]
+        },
+        {
+          "title": "Indian governance responsibility map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "MOCA -> policy / notification",
+            "DGCA -> civil regulation / certification",
+            "AAI / ATC -> airspace and traffic services",
+            "BCAS -> aviation security",
+            "DIGITAL SKY -> workflow platform, not ATC"
+          ],
+          "source_references": [
+            "Drone Rules category spine",
+            "Digital Sky-airspace-institution boundary",
+            "Certification-registration-pilot-status ladder"
+          ]
+        },
+        {
+          "title": "Approval-to-outcome status rail",
+          "structural_type": "status-rail",
+          "ascii_lines": [
+            "RULE / AMENDMENT -> legal text",
+            "TYPE CERTIFICATE / UIN / RPC -> distinct compliance conditions",
+            "TRIAL / SCHEME / INCENTIVE -> authorised or supported route",
+            "PROCUREMENT / DELIVERY -> not operational deployment",
+            "DEPLOYMENT -> not verified safety, scale or outcome"
+          ],
+          "source_references": [
+            "Certification-registration-pilot-status ladder",
+            "Dual-use and industrial-policy boundary",
+            "Approval-to-deployment firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

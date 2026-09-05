@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topics 13-14",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-13",
+      "display_title": "Religion, Philosophy and Cultural Synthesis",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\13_Religion-Philosophy-and-Cultural-Synthesis_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cultural-framework root",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "BELIEF -> subject and symbolism",
+            "PATRONAGE -> institution and monument",
+            "LANGUAGE -> devotional public",
+            "PRACTICE -> pilgrimage, music and festival"
+          ],
+          "source_references": [
+            "Religion and philosophy as cultural frameworks"
+          ]
+        },
+        {
+          "title": "Purushartha map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARTHA -> material means",
+            "DHARMA -> social regulation",
+            "KAMA -> pleasure and love",
+            "MOKSHA -> liberation"
+          ],
+          "source_references": [
+            "Purushartha and the six darshanas"
+          ]
+        },
+        {
+          "title": "Vedanta discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ADVAITA -> nirguna, knowledge, jivanmukti",
+            "VISHISHTADVAITA -> attributes and devotion",
+            "DVAITA -> Madhva and Brahma Sampradaya",
+            "TRAP -> Pushtimarg belongs to Vallabha"
+          ],
+          "source_references": [
+            "Advaita, Vishishtadvaita and Dvaita"
+          ]
+        },
+        {
+          "title": "Bhakti causal model",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ORTHODOXY / CASTE RIGIDITY -> reaction",
+            "MARGINALISED PUBLICS -> inclusion claim",
+            "BUDDHIST-JAIN DECLINE -> religious space",
+            "ROYAL PATRONAGE -> institutional growth"
+          ],
+          "source_references": [
+            "Why Bhakti emerged"
+          ]
+        },
+        {
+          "title": "Tamil canon matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NAYANARS -> 63, Shaiva, Tamil",
+            "ALVARS -> 12, Vaishnava, Tamil",
+            "ANDAL -> sole woman in Alvar canon",
+            "TEMPLE -> compilation and sculptural afterlife"
+          ],
+          "source_references": [
+            "Tamil Bhakti canons"
+          ]
+        },
+        {
+          "title": "Bhakti literature rail",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "KABIR -> doha and Sant Bhasha",
+            "TULSIDAS -> Awadhi Ramcharitmanas",
+            "SURDAS -> Braj Sur Sagar",
+            "BASAVANNA / TUKARAM -> Vachana and Abhanga"
+          ],
+          "source_references": [
+            "Saguna, Nirguna and named literature",
+            "Basavanna and Varkari trajectories"
+          ]
+        },
+        {
+          "title": "Women and authority",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NAMED WOMAN -> identify region and tradition",
+            "ROUTE -> household or renunciant practice",
+            "CANON -> test institutional remembrance",
+            "VERDICT -> participation did not equal emancipation"
+          ],
+          "source_references": [
+            "Women and the limits of inclusion"
+          ]
+        },
+        {
+          "title": "Sufi order matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHISHTI -> service and court distance",
+            "SUHRAWARDI -> property and scholarship",
+            "QADIRI / SHATTARI -> named cultural links",
+            "NAQSHBANDI -> counter-current to harmony"
+          ],
+          "source_references": [
+            "Sufi orders are not one position"
+          ]
+        },
+        {
+          "title": "Chishti cultural circuit",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "AJMER -> Moinuddin, khanqah and urs",
+            "DELHI -> Nizamuddin and Amir Khusrau",
+            "PUNJAB -> Baba Farid in Adi Granth",
+            "RULE -> place, person, practice and text"
+          ],
+          "source_references": [
+            "Chishti place, person and text links"
+          ]
+        },
+        {
+          "title": "Sufi evidence grammar",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MALFUZAT -> conversations",
+            "MAKTUBAT -> letters",
+            "TAZKIRAS -> biographies",
+            "SAMA / ZIYARAT -> practice, not source genre"
+          ],
+          "source_references": [
+            "Sufi practices and source genres"
+          ]
+        },
+        {
+          "title": "Synthesis test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SHARED SPACE / FORM? -> name it",
+            "TRANSLATION / TEXT? -> identify it",
+            "DOCTRINAL MERGER? -> prove, do not assume",
+            "LIMIT -> power, opposition and counter-current"
+          ],
+          "source_references": [
+            "Where synthesis works and fails"
+          ]
+        },
+        {
+          "title": "Philosophy-to-art spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDEA -> identify the doctrine or practice",
+            "DESIGN -> show the formal conversion",
+            "MONUMENT -> name the evidence",
+            "QUALIFY -> patronage, material and intention"
+          ],
+          "source_references": [
+            "Philosophy, monuments, festivals and PYQs"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "indian-art-and-culture-14",
+      "display_title": "Heritage Conservation, Institutions and UNESCO",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\14_Heritage-Conservation-Institutions-and-UNESCO_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Four-category firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WHS -> tangible or mixed property",
+            "ICH -> living practice and transmission",
+            "MoW -> documentary record",
+            "GI -> domestic origin-linked IP"
+          ],
+          "source_references": [
+            "The four-category firewall"
+          ]
+        },
+        {
+          "title": "Conditional-status loop",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INSCRIPTION -> recognition and duty",
+            "MONITORING -> management scrutiny",
+            "DANGER LIST -> corrective pressure",
+            "REMOVAL -> improvement can restore status"
+          ],
+          "source_references": [
+            "World Heritage as conditional obligation"
+          ]
+        },
+        {
+          "title": "Institution mandate map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "ASI -> monuments and archaeology",
+            "SNA -> performing arts",
+            "SAHITYA / LKA -> literature and fine arts",
+            "NMM / ARCHIVES -> manuscripts and records"
+          ],
+          "source_references": [
+            "Akademis and cultural institutions"
+          ]
+        },
+        {
+          "title": "Constitutional ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARTICLE 29 -> community cultural right",
+            "ARTICLE 49 -> State monument duty",
+            "ARTICLE 51A(f) -> citizen duty",
+            "STATUTES -> operational protection"
+          ],
+          "source_references": [
+            "Constitutional heritage duties"
+          ]
+        },
+        {
+          "title": "Boundary firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AMASR 100 m -> generally prohibited",
+            "AMASR next 200 m -> regulated",
+            "UNESCO BUFFER -> mapped management zone",
+            "RULE -> separate legal sources"
+          ],
+          "source_references": [
+            "AMASR zones and UNESCO buffers"
+          ]
+        },
+        {
+          "title": "Threat-response matrix",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "VISITOR LOAD -> access management",
+            "URBAN / CLIMATE -> regulation and monitoring",
+            "DISASTER / DECAY -> documentation and conservation",
+            "TRANSMISSION LOSS -> practitioner support"
+          ],
+          "source_references": [
+            "Threats and instrument fit"
+          ]
+        },
+        {
+          "title": "Conservation-restoration test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONSERVE -> stabilise existing fabric",
+            "RESTORE -> return to chosen earlier state",
+            "REVERSIBILITY -> preferred in conservation",
+            "AUTHENTICITY -> risk rises with reconstruction"
+          ],
+          "source_references": [
+            "Conservation versus restoration"
+          ]
+        },
+        {
+          "title": "Living-site balance",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ACTIVE WORSHIP? -> protect access",
+            "LIVELIHOOD? -> assess displacement",
+            "FRAGILE FABRIC? -> regulate use",
+            "VERDICT -> negotiate, do not empty the site"
+          ],
+          "source_references": [
+            "Community rights and living use"
+          ]
+        },
+        {
+          "title": "Moidams form map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "VAULT -> hollow royal burial chamber",
+            "MOUND -> earth-covered form",
+            "SHRINE + WALL -> ritual enclosure",
+            "LANDSCAPE -> continuing ancestor practice"
+          ],
+          "source_references": [
+            "Moidams form and status"
+          ]
+        },
+        {
+          "title": "Recent WH ledger",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2016 -> Nalanda",
+            "2021 -> Dholavira and Ramappa",
+            "2023 -> Santiniketan and Hoysalas",
+            "2024 / 2025 -> Moidams and Maratha forts"
+          ],
+          "source_references": [
+            "Recent World Heritage chronology"
+          ]
+        },
+        {
+          "title": "Scheme-statute firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AMASR / ANTIQUITIES -> statutes",
+            "ADOPT A HERITAGE -> amenities partnership",
+            "ADARSH SMARAK -> visitor amenities",
+            "NCF -> funding mechanism"
+          ],
+          "source_references": [
+            "Schemes, funds and statutes"
+          ]
+        },
+        {
+          "title": "Heritage answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DIAGNOSE -> category and threat",
+            "MATCH -> law, body, fund or scheme",
+            "EVIDENCE -> named site or practice",
+            "QUALIFY -> capacity, community and dynamic status"
+          ],
+          "source_references": [
+            "Maratha Landscapes, safeguarding PYQ and final spine"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-21",
+  "title": "Common Good and Community",
+  "generation": 3,
+  "generation_date": "2026-08-30",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "political-theory-21:learner-v2:g2",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Political-Theory\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\21_Common-Good-and-Community.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\21_Common-Good-and-Community.md",
+  "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "learning_contract": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "All 12 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 12 solved items lack explicit directive-and-demand decoding.",
+    "All 12 solved items lack an executable mark-scaled compression plan.",
+    "1 solved item(s) lack an explicit model-solution label: PYQ 5 — 2023 · Q3(b) (15 marks)",
+    "1 model(s) are below the marks-worthy length floor: PYQ 5 — 2023 · Q3(b) (15 marks) (84 words)",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Solved-Practice-Workbook_2026-08-30.md"
+}

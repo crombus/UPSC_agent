@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "polity-41-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-41": {
+      "title": "Public Services",
+      "source_record": "polity-41:learner-v2:g4",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g4-source\\polity-41_g4-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Canonical scope: Part XIV services, not the PSC institution",
+          "structural_type": "scope-article-classification-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 2",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+          ],
+          "full_text": "ROOT QUESTION\nHow can an elected executive control administration without creating partisan tenure?\n\nOWNER SCOPE\nArticles 308-314 -> recruitment, tenure, discipline and All-India Services.\nArticles 315-323 -> Public Service Commissions; treated as a distinct institution topic.\n\nARTICLE 308\ndefinition provision with present territorial reading after constitutional change.\n\nARTICLE 309\nlegislature regulates recruitment and service conditions.\nPresident/Governor makes rules until competent legislation operates.\n\nCLASSIFICATION\nUnion/State civil service | All-India Service | civil post | defence-connected civil post.\n\nTRAP\ndepartmental label does not by itself decide constitutional status."
+        },
+        {
+          "title": "Article 309 rule hierarchy and service-rule interfaces",
+          "structural_type": "rule-authority-ladder",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g3-source\\polity-41_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "AUTHORITY LADDER\nConstitution -> competent Act -> Article 309/AIS rules -> lawful executive instruction.\nA lower instrument cannot amend or contradict a higher one.\n\nRULE FAMILIES\nrecruitment rules -> entry, eligibility and promotion.\nconduct rules -> behavioural obligations and misconduct standards.\nCCA rules -> classification, suspension, penalties, inquiry and appeal.\n\nARTICLE 311 FLOOR\nservice procedure must preserve constitutional safeguards unless an exact proviso applies.\n\nTRAP\nrepeated departmental practice does not acquire statutory force by repetition."
+        },
+        {
+          "title": "Doctrine of pleasure and the Article 311 protection trigger",
+          "structural_type": "pleasure-protection-fences",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 310\nUnion/AIS/civil-post tenure at President's pleasure.\nState civil tenure at Governor's pleasure.\nThe Constitution's express safeguards and special tenure codes limit the doctrine.\n\nShamsher Singh (1974)\nformal executive heads ordinarily act through constitutional government.\n\nARTICLE 311 PERSONS\nUnion civil service | AIS | State civil service | holder of Union/State civil post.\n\nARTICLE 311 PENALTIES\ndismissal | removal | reduction in rank.\n\nARTICLE 311(1)\nno dismissal/removal by an authority subordinate to the appointing authority.\n\nCORE RULE\npleasure is constitutional power under law, not personal whim."
+        },
+        {
+          "title": "Article 310(2) and Articles 312A-314 historical closure",
+          "structural_type": "specialist-transition-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g3-source\\polity-41_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "ARTICLE 310(2)\nspecially qualified outsider + agreed tenure + non-misconduct early exit\n-> contract may provide compensation.\nNot a general severance guarantee for every temporary or lateral appointee.\n\nARTICLE 312A\nParliament may vary or revoke specified former Secretary-of-State service conditions.\n\nARTICLE 313\npre-Constitution service law continues so far as consistent until replaced.\n\nARTICLE 314\nrepealed by the 28th Amendment, 1972.\n\nPURPOSE\ncomplete Part XIV without treating colonial-transition clauses as daily service rules."
+        },
+        {
+          "title": "Article 311(2): inquiry and three exceptions",
+          "structural_type": "discipline-exception-decision-tree",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "REGULAR ARTICLE 311(2) ROUTE\ncharges -> evidence -> reasonable opportunity -> inquiry finding -> competent penalty.\n\nParshotam Lal Dhingra (1957) + Khem Chand (1957)\npunitive-foundation and reasonable-opportunity principles.\n\n42ND AMENDMENT EFFECT\nremoved the separate constitutional opportunity on proposed penalty,\nnot the charge-and-inquiry safeguard.\n\nTHREE EXCEPTIONS\n(a) conviction on criminal charge.\n(b) inquiry not reasonably practicable; written reasons required.\n(c) President/Governor satisfied inquiry not expedient in State security.\n\nUnion of India v. Tulsiram Patel (1985)\nexceptions are constitutional but their jurisdictional facts and legality remain reviewable.\n\nECIL v. B. Karunakar (1993)\ninquiry-report supply and prejudice analysis strengthen fair disciplinary process."
+        },
+        {
+          "title": "Penalty, termination and employment-status distinctions",
+          "structural_type": "status-penalty-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 36"
+          ],
+          "full_text": "PENALTIES\ndismissal may carry future-employment consequences under rules.\nremoval is distinct | reduction in rank is punitive demotion.\n\nTERMINATION SIMPLICITER\nform is not decisive; motive and foundation determine punitive character.\n\nOTHER ACTIONS\nsuspension ordinarily interim | compulsory retirement may be punitive or non-punitive\n| probation/temporary exit requires the foundation test.\n\nSTATUS SCREEN\ncivil post -> Article 311 may apply.\nconstitutional office -> special constitutional code first.\nstatutory-body/PSU employee -> employer, statute and rules control.\ncontractor/outsourced worker -> contract, labour law and real-control facts.\n\nTRAP\npublic employment, office under State and civil post are not interchangeable labels."
+        },
+        {
+          "title": "Article 312 and the All-India Services federal bridge",
+          "structural_type": "ais-creation-dual-control",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 17",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 18",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 19",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 20"
+          ],
+          "full_text": "CREATION ROUTE\nRajya Sabha resolution by at least two-thirds of members present and voting\nthat national interest requires one or more new All-India Services\n-> Parliament may create by law.\n\nEXISTING AIS\nIAS | IPS | Indian Forest Service.\nIndian Foreign Service is a Central Civil Service, not AIS.\n\nDUAL CONTROL\nUnion recruitment/cadre framework + State posting and field administration\n-> shared career and deputation system.\n\nAIJS\nconstitutionally enabled under Article 312; no post below district judge; not established.\n\nFEDERAL GAIN\nnational standards and integration.\nFEDERAL RISK\ndeputation conflict, centralisation and weak State voice."
+        },
+        {
+          "title": "Article 335, neutrality, anonymity and public-service ethics",
+          "structural_type": "representation-neutrality-ethics",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 20",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 21",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 22",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 23",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 35"
+          ],
+          "full_text": "ARTICLE 335\nSC/ST claims considered consistently with administrative efficiency,\nsubject to the constitutional proviso on qualifying marks/standards for promotion.\n\nNEUTRALITY\nnon-partisanship + constitutional commitment + candid advice + lawful implementation.\n\nANONYMITY\nministerial responsibility protects ordinary internal advice,\nbut recordkeeping, courts, RTI law and accountability rules create lawful disclosure routes.\n\nETHICS STACK\nintegrity | objectivity | impartiality | political neutrality | empathy | accountability.\n\nACCOUNTABILITY TRACKS\ndepartmental discipline | vigilance | criminal law | audit | legislative/judicial review.\n\nLIMIT\nneutrality is not resistance to lawful elected policy or silence about illegality."
+        },
+        {
+          "title": "Specialists, lateral entry, training and performance management",
+          "structural_type": "capacity-reform-portfolio",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 27",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 28",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 29",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 30",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 31"
+          ],
+          "full_text": "GENERALIST VALUE\ncoordination, field experience and whole-of-government perspective.\n\nSPECIALIST VALUE\ntechnical depth, regulatory knowledge and domain continuity.\n\nLATERAL ENTRY\npost-specific recruitment mode -> equality, recruitment rules, UPSC-consultation question,\nreservation, tenure, conflict and cooling-off controls must be checked.\n\nMISSION KARMAYOGI\ncompetency-based capacity building + iGOT learning infrastructure\n-> role mapping -> continuous learning -> workplace application.\n\nPERFORMANCE\noutcome + legality + process quality + citizen impact + team development.\n\nLIMIT\ncourse completion or short contracts do not themselves prove better administration."
+        },
+        {
+          "title": "Discipline, vigilance, criminal law and remedy tracks",
+          "structural_type": "accountability-route-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-41\\g3-source\\polity-41_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CONDUCT BREACH\nconduct rule -> CCA inquiry -> proportionate service penalty -> departmental remedy.\n\nCORRUPTION / CRIME\nvigilance or criminal investigation -> prosecution under competent law.\nArticle 311 does not bar investigation or trial.\n\nSERVICE DISPUTE\nCAT where jurisdiction applies -> High Court Division Bench review after L. Chandra Kumar (1997).\n\nTRANSFER / ORAL ORDER PRESSURE\nT.S.R. Subramanian (2013) -> Civil Services Boards, tenure stability and written directions.\n\nCORE BALANCE\nfair discipline protects both accountable government and honest administration."
+        },
+        {
+          "title": "Tribunals, transfer reform and the case-law accountability spine",
+          "structural_type": "remedy-reform-case-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 25",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 26",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 27"
+          ],
+          "full_text": "CAT INTERFACE\nArticle 323A/Administrative Tribunals Act route for covered service disputes.\n\nL. Chandra Kumar (1997)\ntribunal decisions remain subject to High Court judicial review.\n\nT.S.R. Subramanian (2013)\nCivil Services Boards, tenure stability and written recording of oral directions.\n\nTRANSFER PROBLEM\nformal Article 311 security may coexist with informal pressure through posting control.\n\nREFORM PACKAGE\nstable but reviewable tenure | written orders | merit and domain pathways\n| fair discipline | protected disclosure | transparent appraisal | reasoned transfers.\n\nVERDICT\nsecurity without accountability breeds insulation; control without security breeds compliance."
+        },
+        {
+          "title": "UPSC traps, supporting PYQ and qualified answer synthesis",
+          "structural_type": "exam-service-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 32",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 33",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 34",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md#SESSION 35"
+          ],
+          "full_text": "PRELIMS FIREWALL\nArticle 309 legislature first | rules are subordinate legislation\n| pleasure not personal | Article 311 covers civil posts\n| three exceptions exactly | written reasons for clause (b)\n| State security for clause (c) | Rajya Sabha gateway for AIS\n| IFS not AIS | AIJS enabled, not established | CAT review survives.\n\nSUPPORTING 2020 GS-II ROUTE\ninstitutional quality and civil-service reform for democracy.\n\nMAINS SPINE\npermanent executive purpose -> 309 rules -> 310 pleasure\n-> 311 fairness/exceptions -> AIS federal bridge -> Article 335\n-> neutrality/accountability -> capacity and tenure reform.\n\nCONCLUSION\nprofessional autonomy is legitimate only inside constitutional responsibility."
+        }
+      ]
+    }
+  }
+}

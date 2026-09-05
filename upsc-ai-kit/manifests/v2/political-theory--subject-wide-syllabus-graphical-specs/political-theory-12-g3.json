@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-12",
+  "subject": "Political Theory",
+  "title": "GLOBALISATION AND CHALLENGES TO SOVEREIGNTY",
+  "short_route": "EXTERNAL SOVEREIGNTY AND THE → DEFINITIONS AND THE CHAPTER → CORE DISTINCTIONS AND THINKERS → HISTORICAL ILLUSTRATIONS AND COMPARATIVE → TRAP REPAIR, BOUNDARIES, REVISION → THESES AND DIRECTIVE DECODING",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g3\\topic-12_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-12-ascii-2026-08-30-g3.json",
+  "ascii_spec_sha256": "273ca920e873c64819e01fa00138aa86baa4c17d7b5a4d7e5bb4a8a0f7e570e2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EXTERNAL SOVEREIGNTY AND THE CENTRAL PROBLEM",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EXTERNAL SOVEREIGNTY AND THE CENTRAL PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] EXTERNAL SOVEREIGNTY MEANS LEGAL INDEPENDENCE FROM OUTSIDE COMMAND.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] IMPERIALISM, DEPENDENCY, BLOC PRESSURE AND INTERDEPENDENCE CAN NARROW",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE CONTROLLING VERDICT IS TRANSFORMATION AND CONSTRAINT, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[4] JURIDICAL EQUALITY MUST THEREFORE BE DISTINGUISHED FROM UNEQUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL SOVEREIGNTY PERSISTS WHILE EFFECTIVE AUTONOMY VARIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "External Sovereignty and the Central Problem",
+        "[1] External sovereignty means legal independence from outside command.",
+        "[2] Imperialism, dependency, bloc pressure and interdependence can narrow effective autonomy.",
+        "[3] The controlling verdict is transformation and constraint, not automatic abolition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "External Sovereignty and the Central Problem",
+            "[1] External sovereignty means legal independence from outside command."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Imperialism, dependency, bloc pressure and interdependence can narrow effective autonomy.",
+            "[3] The controlling verdict is transformation and constraint, not automatic abolition.",
+            "[4] Juridical equality must therefore be distinguished from unequal material capacity."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Legal sovereignty persists while effective autonomy varies.",
+            "ANSWER USE → Begin by separating juridical status from material capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Legal sovereignty persists while effective autonomy varies.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DEFINITIONS AND THE CHAPTER SEQUENCE",
+      "structural_type": "doctrine-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEFINITIONS AND THE CHAPTER SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] IMPERIALISM IS BROAD METROPOLITAN DOMINATION; COLONIALISM IS ITS",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NEO-COLONIALISM COMBINES FORMAL INDEPENDENCE WITH CONTINUING MATERIAL DEPENDENCY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] POWER BLOCS CONSTRAIN STRATEGIC CHOICE THROUGH SECURITY AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] GLOBALISATION IS BOTH WORLDWIDE INTERDEPENDENCE AND A POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CHAPTER MOVES FROM DIRECT DOMINATION TO DENSER INTERDEPENDENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Definitions and the Chapter Sequence",
+        "[1] Imperialism is broad metropolitan domination; colonialism is its settlement-and-rule form.",
+        "[2] Neo-colonialism combines formal independence with continuing material dependency.",
+        "[3] Power blocs constrain strategic choice through security and ideological pressure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Definitions and the Chapter Sequence",
+            "[1] Imperialism is broad metropolitan domination; colonialism is its settlement-and-rule form."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Neo-colonialism combines formal independence with continuing material dependency.",
+            "[3] Power blocs constrain strategic choice through security and ideological pressure.",
+            "[4] Globalisation is both worldwide interdependence and a policy linked to liberalisation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → The chapter moves from direct domination to denser interdependence.",
+            "ANSWER USE → Define each stage before comparing its constraint mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Define each stage before comparing its constraint mechanism.",
+      "answer_line": "VERDICT → The chapter moves from direct domination to denser interdependence.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CORE DISTINCTIONS AND THINKERS",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CORE DISTINCTIONS AND THINKERS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SAID DISTINGUISHES IMPERIALISM FROM COLONIALISM; HOBSON AND LENIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NKRUMAH POPULARISED AND SYSTEMATISED NEO-COLONIALISM RATHER THAN ORIGINATING",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA BALANCES GLOBALISATION'S COMMUNICATIVE OPPORTUNITIES AGAINST DOMINATION AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FORMAL INDEPENDENCE CAN SURVIVE WHILE EFFECTIVE AUTONOMY IS",
+          "role": "outcome"
+        },
+        {
+          "text": "THINKER ATTRIBUTION AND CONCEPTUAL DISTINCTIONS MUST REMAIN SEPARATE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Core Distinctions and Thinkers",
+        "[1] Said distinguishes imperialism from colonialism; Hobson and Lenin explain expansion differently.",
+        "[2] Nkrumah popularised and systematised neo-colonialism rather than originating the term.",
+        "[3] Gauba balances globalisation's communicative opportunities against domination and inequality."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Core Distinctions and Thinkers",
+            "[1] Said distinguishes imperialism from colonialism; Hobson and Lenin explain expansion differently."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Nkrumah popularised and systematised neo-colonialism rather than originating the term.",
+            "[3] Gauba balances globalisation's communicative opportunities against domination and inequality.",
+            "[4] Formal independence can survive while effective autonomy is materially weak."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Thinker attribution and conceptual distinctions must remain separate.",
+            "ANSWER USE → Attach each thinker to one mechanism and one clear boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Attach each thinker to one mechanism and one clear boundary.",
+      "answer_line": "VERDICT → Thinker attribution and conceptual distinctions must remain separate.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HISTORICAL ILLUSTRATIONS AND COMPARATIVE EFFECTS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HISTORICAL ILLUSTRATIONS AND COMPARATIVE EFFECTS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] INDIA'S 1947 INDEPENDENCE MARKS DECOLONISATION, WHILE OPEC ILLUSTRATES",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NATO, WARSAW PACT AND NON-ALIGNMENT SHOW BIPOLAR PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] IRAQ-KUWAIT AND CHERNOBYL ILLUSTRATE CROSS-BORDER SECURITY AND ENVIRONMENTAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE 11 SEPTEMBER 2001 ATTACK IS A DATED",
+          "role": "outcome"
+        },
+        {
+          "text": "HISTORICAL CASES ILLUSTRATE MECHANISMS; THEY ARE NOT CURRENT DESCRIPTIONS.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Historical Illustrations and Comparative Effects",
+        "[1] India's 1947 independence marks decolonisation, while OPEC illustrates partial resistance.",
+        "[2] NATO, Warsaw Pact and non-alignment show bipolar pressure; Sauvy and Lippmann date its vocabulary.",
+        "[3] Iraq-Kuwait and Chernobyl illustrate cross-border security and environmental effects."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] NATO, Warsaw Pact and non-alignment show bipolar pressure; Sauvy and Lippmann date its vocabulary.",
+          "VERDICT → Historical cases illustrate mechanisms; they are not current descriptions."
+        ],
+        [
+          "Historical Illustrations and Comparative Effects",
+          "[3] Iraq-Kuwait and Chernobyl illustrate cross-border security and environmental effects.",
+          "ANSWER USE → Date the case and state exactly what it demonstrates."
+        ],
+        [
+          "[1] India's 1947 independence marks decolonisation, while OPEC illustrates partial resistance.",
+          "[4] The 11 September 2001 attack is a dated illustration without a claimed Gauba page.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Historical Illustrations and Comparative Effects",
+            "[1] India's 1947 independence marks decolonisation, while OPEC illustrates partial resistance."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] NATO, Warsaw Pact and non-alignment show bipolar pressure; Sauvy and Lippmann date its vocabulary.",
+            "[3] Iraq-Kuwait and Chernobyl illustrate cross-border security and environmental effects.",
+            "[4] The 11 September 2001 attack is a dated illustration without a claimed Gauba page."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Historical cases illustrate mechanisms; they are not current descriptions.",
+            "ANSWER USE → Date the case and state exactly what it demonstrates."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Historical cases illustrate mechanisms; they are not current descriptions.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TRAP REPAIR, BOUNDARIES, REVISION AND SOURCES",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TRAP REPAIR, BOUNDARIES, REVISION AND SOURCES",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] REJECT THE CLAIM THAT GLOBALISATION HAS MADE SOVEREIGNTY",
+          "role": "caution"
+        },
+        {
+          "text": "[2] REJECT THE CLAIM THAT POLITICAL INDEPENDENCE AUTOMATICALLY PRODUCED",
+          "role": "caution"
+        },
+        {
+          "text": "[3] REJECT THE REDUCTION OF GLOBALISATION TO ECONOMICS ALONE.",
+          "role": "caution"
+        },
+        {
+          "text": "[4] CREDIT NKRUMAH WITH THE CANONICAL 1965 FORMULATION, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "THE STRONGEST ANSWERS REPAIR OVERSTATEMENT BEFORE ADDING EVALUATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Trap Repair, Boundaries, Revision and Sources",
+        "[1] Reject the claim that globalisation has made sovereignty disappear.",
+        "[2] Reject the claim that political independence automatically produced economic autonomy.",
+        "[3] Reject the reduction of globalisation to economics alone."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Trap Repair, Boundaries, Revision and Sources",
+            "[1] Reject the claim that globalisation has made sovereignty disappear."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Reject the claim that political independence automatically produced economic autonomy.",
+            "[3] Reject the reduction of globalisation to economics alone.",
+            "[4] Credit Nkrumah with the canonical 1965 formulation, not an unqualified coinage claim."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → The strongest answers repair overstatement before adding evaluation.",
+            "ANSWER USE → Convert each trap into a qualified one-sentence correction."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → The strongest answers repair overstatement before adding evaluation.",
+      "answer_line": "ANSWER USE → Convert each trap into a qualified one-sentence correction.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESES AND DIRECTIVE DECODING",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THESES AND DIRECTIVE DECODING",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A STRONG THESIS SEPARATES SURVIVING LEGAL TITLE FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] EXAMINE REQUIRES A MECHANISM SEQUENCE; TO WHAT EXTENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] A NEO-COLONIALISM ANSWER MUST STATE MECHANISMS, EXPLANATORY VALUE",
+          "role": "institution"
+        },
+        {
+          "text": "[4] HYPERGLOBALISTS PREDICT EROSION, SCEPTICS STRESS CONTINUITY AND TRANSFORMATIONALISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVE CONTROL DETERMINES HOW MUCH COMPARISON AND JUDGMENT IS",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses and Directive Decoding",
+        "[1] A strong thesis separates surviving legal title from constrained policy capacity.",
+        "[2] Examine requires a mechanism sequence; to what extent requires a graded verdict.",
+        "[3] A neo-colonialism answer must state mechanisms, explanatory value and limits."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses and Directive Decoding",
+            "[1] A strong thesis separates surviving legal title from constrained policy capacity."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Examine requires a mechanism sequence; to what extent requires a graded verdict.",
+            "[3] A neo-colonialism answer must state mechanisms, explanatory value and limits.",
+            "[4] Hyperglobalists predict erosion, sceptics stress continuity and transformationalists reconstitution."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Directive control determines how much comparison and judgment is required.",
+            "ANSWER USE → State a graded thesis before reconstructing the mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → State a graded thesis before reconstructing the mechanism.",
+      "answer_line": "VERDICT → Directive control determines how much comparison and judgment is required.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONSTRAINT MECHANISMS AND THE OBJECTION-REPLY CHAIN",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONSTRAINT MECHANISMS AND THE OBJECTION-REPLY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POOLING MEANS JOINT DECISION-MAKING THROUGH COMMON INSTITUTIONAL RULES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DELEGATION MEANS AUTHORISING A BODY TO PERFORM A",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] IMF OR WORLD BANK LOAN CONDITIONALITY IS CONSENTED",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE OBJECTION IS THAT FORMALLY ACCEPTED COMMITMENTS MAY",
+          "role": "outcome"
+        },
+        {
+          "text": "POOLING, DELEGATION AND CONDITIONALITY ARE DISTINCT AUTHORITY RELATIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Constraint Mechanisms and the Objection-Reply Chain",
+        "[1] Pooling means joint decision-making through common institutional rules.",
+        "[2] Delegation means authorising a body to perform a defined function such as adjudication.",
+        "[3] IMF or World Bank loan conditionality is consented external constraint, not delegation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Constraint Mechanisms and the Objection-Reply Chain",
+            "[1] Pooling means joint decision-making through common institutional rules."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Delegation means authorising a body to perform a defined function such as adjudication.",
+            "[3] IMF or World Bank loan conditionality is consented external constraint, not delegation.",
+            "[4] The objection is that formally accepted commitments may still reflect unequal bargaining."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Pooling, delegation and conditionality are distinct authority relations.",
+            "ANSWER USE → Name the mechanism before judging consent and unequal power."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Name the mechanism before judging consent and unequal power.",
+      "answer_line": "VERDICT → Pooling, delegation and conditionality are distinct authority relations.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NAMED EVIDENCE UNITS",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NAMED EVIDENCE UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NKRUMAH 1965 IDENTIFIES MONETARY, PRICING, CORPORATE AND CULTURAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] OPEC 1960 SHOWS COALITION-BASED RESISTANCE TO ADVERSE PRICE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] NATO 1949, THE WARSAW PACT 1955 AND NON-ALIGNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "[4] IMF/WORLD BANK, MNCS AND WTO PROCEDURES ILLUSTRATE DISTINCT",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED EVIDENCE EARNS MARKS ONLY WHEN ITS SOVEREIGNTY RELEVANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Named Evidence Units",
+        "[1] Nkrumah 1965 identifies monetary, pricing, corporate and cultural dependency channels.",
+        "[2] OPEC 1960 shows coalition-based resistance to adverse price structures.",
+        "[3] NATO 1949, the Warsaw Pact 1955 and non-alignment supply the bloc-politics evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Named Evidence Units",
+            "[1] Nkrumah 1965 identifies monetary, pricing, corporate and cultural dependency channels."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] OPEC 1960 shows coalition-based resistance to adverse price structures.",
+            "[3] NATO 1949, the Warsaw Pact 1955 and non-alignment supply the bloc-politics evidence.",
+            "[4] IMF/World Bank, MNCs and WTO procedures illustrate distinct contemporary constraints."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Named evidence earns marks only when its sovereignty relevance is explicit.",
+            "ANSWER USE → Pair every case with significance and a source-period limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Named evidence earns marks only when its sovereignty relevance is explicit.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WORKED ANALYSIS AND MARK-SCALED ARCHITECTURE",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WORKED ANALYSIS AND MARK-SCALED ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] USE CLAIM, EVIDENCE, SIGNIFICANCE AND LIMIT RATHER THAN",
+          "role": "caution"
+        },
+        {
+          "text": "[2] A 10-MARKER NEEDS ONE MECHANISM; A 15-MARKER NEEDS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] A 20-MARKER SHOULD INTEGRATE EMPIRE, BLOCS AND GLOBALISATION",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THE FINAL JUDGMENT MUST DISTINGUISH LEGAL PERSISTENCE FROM",
+          "role": "outcome"
+        },
+        {
+          "text": "MARK-SCALED STRUCTURE PREVENTS BOTH THIN NARRATION AND UNCONTROLLED EXCESS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Worked Analysis and Mark-Scaled Architecture",
+        "[1] Use claim, evidence, significance and limit rather than a list of institutions.",
+        "[2] A 10-marker needs one mechanism; a 15-marker needs comparison and objection.",
+        "[3] A 20-marker should integrate empire, blocs and globalisation before the verdict."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Worked Analysis and Mark-Scaled Architecture",
+            "[1] Use claim, evidence, significance and limit rather than a list of institutions."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] A 10-marker needs one mechanism; a 15-marker needs comparison and objection.",
+            "[3] A 20-marker should integrate empire, blocs and globalisation before the verdict.",
+            "[4] The final judgment must distinguish legal persistence from practical constraint."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Mark-scaled structure prevents both thin narration and uncontrolled excess.",
+            "ANSWER USE → Expand from one mechanism to a full objection-reply architecture."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Expand from one mechanism to a full objection-reply architecture.",
+      "answer_line": "VERDICT → Mark-scaled structure prevents both thin narration and uncontrolled excess.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIAN APPLICATION AND PROPOSITION METHOD",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIAN APPLICATION AND PROPOSITION METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] INDIA'S 1991 CRISIS IS A CAUTIOUS ILLUSTRATION OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THE INDIA-UK CETA ENTERED INTO FORCE ON 15",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ITS COMMITMENTS ILLUSTRATE TRANSFORMED POLICY SPACE, NOT EQUAL",
+          "role": "caution"
+        },
+        {
+          "text": "[4] USE TRADE DETAILS ONLY WHEN INDEPENDENTLY VERIFIED IN",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN EXAMPLES SHOW NEGOTIATED CONSTRAINT, NOT AUTOMATIC LOSS OF",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Indian Application and Proposition Method",
+        "[1] India's 1991 crisis is a cautious illustration of conditional policy constraint.",
+        "[2] The India-UK CETA entered into force on 15 July 2026 through sovereign consent.",
+        "[3] Its commitments illustrate transformed policy space, not equal bargaining or universal gain."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Indian Application and Proposition Method",
+            "[1] India's 1991 crisis is a cautious illustration of conditional policy constraint."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] The India-UK CETA entered into force on 15 July 2026 through sovereign consent.",
+            "[3] Its commitments illustrate transformed policy space, not equal bargaining or universal gain.",
+            "[4] Use trade details only when independently verified in the appropriate IR or Economy source."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Indian examples show negotiated constraint, not automatic loss of statehood.",
+            "ANSWER USE → Use only verified details and preserve distributional cautions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Indian examples show negotiated constraint, not automatic loss of statehood.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE-OPTION TRAPS TURN ON DIRECT RULE VERSUS INDIRECT",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THEY ALSO TEST BLOC COMPULSION VERSUS WIDER INTERDEPENDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] POOLING, DELEGATION AND CONDITIONALITY MUST REMAIN SEPARATE MECHANISMS.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] THINKER ATTRIBUTION IS SAFEST WHEN SAID, HOBSON, LENIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE OPTIONS ARE SEPARATED BY MECHANISM, LEVEL AND ATTRIBUTION.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close-option traps turn on direct rule versus indirect dependency.",
+        "[2] They also test bloc compulsion versus wider interdependence and process versus policy.",
+        "[3] Pooling, delegation and conditionality must remain separate mechanisms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close-option traps turn on direct rule versus indirect dependency."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] They also test bloc compulsion versus wider interdependence and process versus policy.",
+            "[3] Pooling, delegation and conditionality must remain separate mechanisms.",
+            "[4] Thinker attribution is safest when Said, Hobson, Lenin and Nkrumah are not conflated."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options are separated by mechanism, level and attribution.",
+            "ANSWER USE → Eliminate an option only after stating the decisive distinction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close options are separated by mechanism, level and attribution.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NO DIRECTLY OWNED VERIFIED UPSC PYQ IS ASSIGNED",
+          "role": "caution"
+        },
+        {
+          "text": "[2] THE PACKAGE THEREFORE USES SIX ORIGINAL MAINS QUESTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ANSWERS MUST COMBINE A THESIS, NAMED MECHANISM, COUNTERARGUMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBALISATION RECONSTITUTES SOVEREIGNTY WITHOUT SIMPLY EXTINGUISHING IT.",
+          "role": "comparison"
+        },
+        {
+          "text": "PRACTICE IS ORIGINAL BECAUSE NO DIRECTLY OWNED VERIFIED PYQ",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] No directly owned verified UPSC PYQ is assigned to this Political Theory topic.",
+        "[2] The package therefore uses six original Mains questions at 10, 15 and 20 marks.",
+        "[3] Answers must combine a thesis, named mechanism, counterargument and graded verdict."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] No directly owned verified UPSC PYQ is assigned to this Political Theory topic."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] The package therefore uses six original Mains questions at 10, 15 and 20 marks.",
+            "[3] Answers must combine a thesis, named mechanism, counterargument and graded verdict.",
+            "[4] Final recall: globalisation reconstitutes sovereignty without simply extinguishing it."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Practice is original because no directly owned verified PYQ is assigned.",
+            "ANSWER USE → End every response on transformed exercise versus surviving legal title."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Practice is original because no directly owned verified PYQ is assigned.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

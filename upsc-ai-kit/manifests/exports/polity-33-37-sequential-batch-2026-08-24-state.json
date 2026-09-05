@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-33-37-sequential-batch-2026-08-24",
+  "created_at": "2026-08-24T22:35:04+05:30",
+  "strict_order": [
+    "polity-33",
+    "polity-34",
+    "polity-35",
+    "polity-36",
+    "polity-37"
+  ],
+  "topics": [
+    {
+      "topic_key": "polity-33",
+      "title": "Attorney General and Advocate General",
+      "started_at": "2026-08-24T21:59:35+05:30",
+      "completed_at": "2026-08-24T22:02:58.807789+05:30",
+      "record_id": "polity-33:learner-v2:g2",
+      "counts": {
+        "sessions": 30,
+        "main_pdf_pages": 84,
+        "workbook_pdf_pages": 16,
+        "mcqs": 48,
+        "verified_pyqs": 2,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\33-Attorney-General-and-Advocate-General",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-33-source-pyq-current-audit-2026-08-24.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-33-validation-2026-08-24.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-33-new-topic-2026-08-24.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-33-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-33.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Solved-Practice-Workbook_2026-08-24.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Solved-Practice-Workbook_2026-08-24.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-33\\carvaka-g2"
+      },
+      "factual_caveat": "Articles 76 and 165 create constitutional law officers, but neither creates tenure security comparable to an independent watchdog. Audience, legislative participation and professional practice must be separated from assignment, voting power and conflict restrictions.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-24T21:59:35+05:30",
+        "A_completed": "2026-08-24T21:59:43+05:30",
+        "B_completed": "2026-08-24T21:59:46+05:30",
+        "C_completed": "2026-08-24T21:59:46+05:30",
+        "D_completed": "2026-08-24T21:59:47+05:30",
+        "E_completed": "2026-08-24T21:59:47+05:30",
+        "F_completed": "2026-08-24T22:00:27+05:30",
+        "G_completed": "2026-08-24T22:00:27+05:30",
+        "H_completed": "2026-08-24T22:02:45+05:30",
+        "I_completed": "2026-08-24T22:02:58.807789+05:30",
+        "J_completed": "2026-08-24T22:02:58.807789+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 3,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\33-Attorney-General-and-Advocate-General",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-33-flow-learning-2026-08-24-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      }
+    },
+    {
+      "topic_key": "polity-34",
+      "title": "NITI Aayog",
+      "started_at": "2026-08-24T22:03:03+05:30",
+      "completed_at": "2026-08-24T22:06:23.318409+05:30",
+      "record_id": "polity-34:learner-v2:g2",
+      "counts": {
+        "sessions": 27,
+        "main_pdf_pages": 81,
+        "workbook_pdf_pages": 16,
+        "mcqs": 48,
+        "verified_pyqs": 1,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\34-NITI-Aayog",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-34-source-pyq-current-audit-2026-08-24.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-34-validation-2026-08-24.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-34-new-topic-2026-08-24.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-34.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\polity-34_Complete-Learning-Session_2026-08-24.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\polity-34_Solved-Practice-Workbook_2026-08-24.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\polity-34_Complete-Learning-Session_2026-08-24.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\polity-34_Solved-Practice-Workbook_2026-08-24.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g2"
+      },
+      "factual_caveat": "NITI Aayog is an executive policy platform, not a constitutional or statutory transfer authority. Its rankings, missions and evaluation tools influence through evidence, convening and reputation; they do not become law, Finance Commission awards or guaranteed outcomes.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-24T22:03:03+05:30",
+        "A_completed": "2026-08-24T22:03:06+05:30",
+        "B_completed": "2026-08-24T22:03:10+05:30",
+        "C_completed": "2026-08-24T22:03:10+05:30",
+        "D_completed": "2026-08-24T22:03:10+05:30",
+        "E_completed": "2026-08-24T22:03:10+05:30",
+        "F_completed": "2026-08-24T22:03:51+05:30",
+        "G_completed": "2026-08-24T22:03:51+05:30",
+        "H_completed": "2026-08-24T22:06:10+05:30",
+        "I_completed": "2026-08-24T22:06:23.318409+05:30",
+        "J_completed": "2026-08-24T22:06:23.318409+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\34-NITI-Aayog",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-34-flow-learning-2026-08-24-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      }
+    },
+    {
+      "topic_key": "polity-35",
+      "title": "NHRC and SHRC",
+      "started_at": "2026-08-24T22:11:28+05:30",
+      "completed_at": "2026-08-24T22:16:15.405550+05:30",
+      "record_id": "polity-35:learner-v2:g2",
+      "counts": {
+        "sessions": 16,
+        "main_pdf_pages": 72,
+        "workbook_pdf_pages": 17,
+        "mcqs": 48,
+        "verified_pyqs": 2,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\35-NHRC-and-SHRC",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-35-source-pyq-current-audit-2026-08-24.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-35-validation-2026-08-24.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-35-new-topic-2026-08-24.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-35.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Solved-Practice-Workbook_2026-08-24.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Solved-Practice-Workbook_2026-08-24.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g2"
+      },
+      "factual_caveat": "NHRC and SHRC are statutory recommendatory commissions with strong inquiry and publicity tools but no general power to convict or issue self-executing compensation orders. The one-year bar and armed-forces procedure remain current law unless Parliament changes them.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-24T22:11:28+05:30",
+        "A_completed": "2026-08-24T22:12:41+05:30",
+        "B_completed": "2026-08-24T22:12:44+05:30",
+        "C_completed": "2026-08-24T22:12:44+05:30",
+        "D_completed": "2026-08-24T22:12:44+05:30",
+        "E_completed": "2026-08-24T22:12:44+05:30",
+        "F_completed": "2026-08-24T22:13:22+05:30",
+        "G_completed": "2026-08-24T22:13:22+05:30",
+        "H_completed": "2026-08-24T22:15:41+05:30",
+        "I_completed": "2026-08-24T22:16:15.405550+05:30",
+        "J_completed": "2026-08-24T22:16:15.405550+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 4,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\35-NHRC-and-SHRC",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-35-flow-learning-2026-08-24-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      }
+    },
+    {
+      "topic_key": "polity-36",
+      "title": "CIC and SIC",
+      "started_at": "2026-08-24T22:21:11+05:30",
+      "completed_at": "2026-08-24T22:25:38.628639+05:30",
+      "record_id": "polity-36:learner-v2:g2",
+      "counts": {
+        "sessions": 24,
+        "main_pdf_pages": 81,
+        "workbook_pdf_pages": 16,
+        "mcqs": 48,
+        "verified_pyqs": 1,
+        "supporting_pyqs": 0,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\36-CIC-and-SIC",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-36-source-pyq-current-audit-2026-08-24.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-36-validation-2026-08-24.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-36-new-topic-2026-08-24.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-36.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Solved-Practice-Workbook_2026-08-24.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Solved-Practice-Workbook_2026-08-24.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g2"
+      },
+      "factual_caveat": "Information Commissions are statutory complaint and appellate bodies, not ordinary courts or record-creation agencies. The 2019 amendment shifted service conditions to Central rules, while the current privacy clause must still be read with section 8(2), severability and review.",
+      "gates_passed": 10,
+      "gate_times": {
+        "A_started": "2026-08-24T22:21:11+05:30",
+        "A_completed": "2026-08-24T22:22:25+05:30",
+        "B_completed": "2026-08-24T22:22:28+05:30",
+        "C_completed": "2026-08-24T22:22:28+05:30",
+        "D_completed": "2026-08-24T22:22:28+05:30",
+        "E_completed": "2026-08-24T22:22:28+05:30",
+        "F_completed": "2026-08-24T22:23:07+05:30",
+        "G_completed": "2026-08-24T22:23:07+05:30",
+        "H_completed": "2026-08-24T22:25:26+05:30",
+        "I_completed": "2026-08-24T22:25:38.628639+05:30",
+        "J_completed": "2026-08-24T22:25:38.628639+05:30"
+      },
+      "approved": false,
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\36-CIC-and-SIC",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-36-flow-learning-2026-08-24-validation.json",
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      }
+    },
+    {
+      "topic_key": "polity-37",
+      "title": "CVC and CBI",
+      "started_at": "2026-08-24T22:30:11+05:30",
+      "completed_at": "2026-08-24T22:35:03+05:30",
+      "gate_times": {
+        "A_started": "2026-08-24T22:30:11+05:30",
+        "A_completed": "2026-08-24T22:31:08+05:30",
+        "B_completed": "2026-08-24T22:31:10+05:30",
+        "C_completed": "2026-08-24T22:31:11+05:30",
+        "D_completed": "2026-08-24T22:31:11+05:30",
+        "E_completed": "2026-08-24T22:31:11+05:30",
+        "F_completed": "2026-08-24T22:34:16+05:30",
+        "G_completed": "2026-08-24T22:34:16+05:30",
+        "H_completed": "2026-08-24T22:34:21+05:30",
+        "I_completed": "2026-08-24T22:35:00+05:30",
+        "J_completed": "2026-08-24T22:35:03+05:30"
+      },
+      "record_id": "polity-37:learner-v2:g2",
+      "approved": false,
+      "counts": {
+        "sessions": 23,
+        "main_pdf_pages": 87,
+        "workbook_pdf_pages": 18,
+        "mcqs": 48,
+        "verified_pyqs": 1,
+        "supporting_pyqs": 1,
+        "original_mains": 8,
+        "ascii_panels": 9,
+        "graphical_core_stages": 9,
+        "flow_pages": 9
+      },
+      "workbook_authoring_gate": {
+        "mcqs_authored": 48,
+        "pyq_routes_authored": 2,
+        "original_mains_authored": 8
+      },
+      "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\37-CVC-and-CBI",
+      "flow_library_path": "notes\\Flow-Learning\\Polity\\37-CVC-and-CBI",
+      "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-37-source-pyq-current-audit-2026-08-24.json",
+      "validation": "upsc-ai-kit\\manifests\\exports\\polity-37-validation-2026-08-24.json",
+      "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-37-new-topic-2026-08-24.json",
+      "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-37-2026-08-24-sequential.json",
+      "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-37.json",
+      "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-37-flow-learning-2026-08-24-validation.json",
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Solved-Practice-Workbook_2026-08-24.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Solved-Practice-Workbook_2026-08-24.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-37\\carvaka-g2"
+      },
+      "factual_caveat": "CVC supervision is field-specific and advisory; CBI's organisation is executive-created while DSPE police powers are statutory. State consent governs the ordinary State-area route, subject to exceptional constitutional-court directions and precise pending-case rules.",
+      "gates_passed": 10,
+      "preservation": {
+        "existing_clean_mismatches": [],
+        "existing_flow_mismatches": [],
+        "prior_new_topic_mismatches": []
+      }
+    }
+  ],
+  "existing_clean_topic_artifact_count": 520,
+  "existing_flow_topic_artifact_count": 195,
+  "existing_clean_hash_mismatches": [],
+  "existing_flow_hash_mismatches": [],
+  "prior_generated_topic_hash_mismatches": []
+}

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-08",
+      "display_title": "Securities, Bonds, Equity, Derivatives and Investment Funds",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Claim-priority waterfall",
+          "structural_type": "priority-waterfall",
+          "ascii_lines": [
+            "ISSUER CASH FLOW",
+            "-> CONTRACTUAL DEBT SERVICE",
+            "-> BONDHOLDER PRIORITY",
+            "-> EQUITY RESIDUAL RETURN",
+            "MUST REMEMBER: Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Bond pricing board",
+          "structural_type": "pricing-map",
+          "ascii_lines": [
+            "COUPON -> contractual rate",
+            "YIELD -> market-price-based return",
+            "YIELD RISE -> fixed bond price generally falls",
+            "DURATION + CONVEXITY -> sensitivity detail"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Credit-risk decomposition",
+          "structural_type": "spread-map",
+          "ascii_lines": [
+            "BENCHMARK YIELD",
+            "+ DEFAULT PREMIUM",
+            "+ LIQUIDITY PREMIUM",
+            "+ OTHER RISK PREMIA -> CREDIT SPREAD"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Derivative obligation fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FUTURE -> symmetric buyer/seller obligations",
+            "OPTION BUYER -> right, not obligation",
+            "OPTION WRITER -> contingent obligation",
+            "SWAP -> exchange cash-flow streams"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Purpose test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PRE-EXISTING EXPOSURE?",
+            "YES -> hedge size and tenor",
+            "NO -> speculative exposure",
+            "SAME CONTRACT can reduce or enlarge risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Clearing and leverage rail",
+          "structural_type": "risk-control-flow",
+          "ascii_lines": [
+            "POSITION",
+            "-> MARGIN + MARK-TO-MARKET",
+            "-> CLEARING CORPORATION",
+            "RESIDUAL -> basis, liquidity and leverage risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Pooled-vehicle map",
+          "structural_type": "vehicle-matrix",
+          "ascii_lines": [
+            "MUTUAL FUND -> pooled mandate + NAV",
+            "ETF -> exchange-traded fund unit",
+            "AIF -> privately pooled category framework",
+            "REIT / InvIT -> property / infrastructure cash flows"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Access instruments board",
+          "structural_type": "classification-board",
+          "ascii_lines": [
+            "P-NOTE -> offshore instrument via registered FPI",
+            "IIB -> inflation-linked payout or principal",
+            "CONVERTIBLE -> debt with equity conversion terms",
+            "BETA -> relative market volatility"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Tokenisation boundary",
+          "structural_type": "legal-tech-map",
+          "ascii_lines": [
+            "UNDERLYING REAL-WORLD ASSET",
+            "-> DIGITAL TOKEN REPRESENTATION",
+            "ACCESS may become fractional",
+            "TITLE + CUSTODY + DISCLOSURE remain decisive"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Use-of-proceeds taxonomy",
+          "structural_type": "taxonomy-tree",
+          "ascii_lines": [
+            "GREEN BOND -> environmental projects",
+            "SOCIAL BOND -> social projects",
+            "SUSTAINABILITY BOND -> both",
+            "LABEL does not eliminate credit risk",
+            "CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Investor-protection stack",
+          "structural_type": "institution-stack",
+          "ascii_lines": [
+            "DISCLOSURE + PRODUCT LABELLING",
+            "REGISTERED ADVISERS + INTERMEDIARIES",
+            "MARGIN + SETTLEMENT + GRIEVANCE",
+            "LIMIT -> business and market loss remain",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Securities answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY claim and cash-flow priority",
+            "MAP liquidity promise and leverage",
+            "TRACE regulator and settlement",
+            "MATCH instrument to investor exposure"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g2\\economy-08_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

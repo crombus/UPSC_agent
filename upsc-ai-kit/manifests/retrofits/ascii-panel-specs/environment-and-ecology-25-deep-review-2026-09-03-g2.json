@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-25",
+      "display_title": "Renewable Energy and Green Hydrogen",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Power metric firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INSTALLED CAPACITY -> nameplate power capability",
+            "GENERATION -> electrical energy produced over time",
+            "CAPACITY SHARE -> portfolio capability, not output share",
+            "RELIABLE SUPPLY -> timing, flexibility and network matter",
+            "RULE -> never convert megawatts into generation without evidence",
+            "MUST REMEMBER: Renewable-energy transition must connect resource, installed capacity,..."
+          ],
+          "source_references": [
+            "Capacity-generation boundary",
+            "Variable-firm distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Energy category map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "RENEWABLE -> solar wind hydro biomass geothermal",
+            "NON-FOSSIL -> renewable sources plus other non-fossil sources",
+            "ELECTRICITY -> generated energy output",
+            "HYDROGEN -> manufactured energy carrier",
+            "RULE -> source, output and carrier are different categories"
+          ],
+          "source_references": [
+            "Renewable-non-fossil boundary",
+            "Source-carrier boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Grid integration rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "VARIABLE GENERATION -> forecast resource-dependent output",
+            "TRANSMISSION -> move power from resource to demand",
+            "FLEXIBLE DEMAND AND BALANCING -> match system conditions",
+            "STORAGE -> shift energy and provide selected services",
+            "DELIVERY -> reliability is a system outcome"
+          ],
+          "source_references": [
+            "Variable-firm distinction",
+            "Integration chain",
+            "Storage boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Project status ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "TARGET OR ANNOUNCEMENT -> intended future scale",
+            "ALLOCATION OR AWARD -> contractual or policy commitment",
+            "CONSTRUCTION -> physical implementation stage",
+            "COMMISSIONING -> asset enters service",
+            "GENERATION OR PRODUCTION -> measured operating output"
+          ],
+          "source_references": [
+            "Target-achievement boundary",
+            "Status-verb discipline",
+            "Mission-target-outcome boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Electrolysis pathway",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ELECTRICITY SOURCE -> attribute must be evidenced",
+            "WATER AND TREATMENT -> project-specific input context",
+            "ELECTROLYSER -> water split into hydrogen and oxygen",
+            "HYDROGEN OUTPUT -> chemical product",
+            "GREEN CLAIM -> standard and certification layer still required"
+          ],
+          "source_references": [
+            "Electrolysis pathway",
+            "Label-standard-certification boundary",
+            "Water-context boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Hydrogen claim stack",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "PRODUCTION PATHWAY -> how hydrogen is made",
+            "LIFECYCLE BOUNDARY -> included emissions stages",
+            "OFFICIAL STANDARD -> qualifying conditions",
+            "CERTIFICATION -> documented conformity",
+            "MARKET LABEL -> cannot replace the layers below"
+          ],
+          "source_references": [
+            "Label-standard-certification boundary",
+            "Hydrogen-colour boundary",
+            "Electricity-attribute boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Use-case decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "CAN CLEAN ELECTRICITY BE USED DIRECTLY -> prefer direct route",
+            "MOLECULE OR HIGH HEAT NEEDED -> test hydrogen fit",
+            "SECTOR AND DUTY CYCLE -> identify technical constraint",
+            "CONVERSION LOSS AND INFRASTRUCTURE -> disclose trade-off",
+            "VERDICT -> hydrogen is selective, not universal"
+          ],
+          "source_references": [
+            "Direct-electrification test",
+            "Hard-to-abate fit",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Derivative conversion map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "HYDROGEN -> base energy carrier and feedstock",
+            "AMMONIA -> nitrogen-based derivative",
+            "METHANOL OR SYNTHETIC FUEL -> carbon-containing derivative",
+            "CONVERSION AND DELIVERY -> extra energy and infrastructure",
+            "RULE -> product targets and outputs remain separate"
+          ],
+          "source_references": [
+            "Derivative boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Water and site screen",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SOURCE -> freshwater treated water or other verified supply",
+            "QUALITY -> pretreatment requirement",
+            "LOCATION -> basin and local scarcity context",
+            "COMPETING DEMAND -> ecological and social claims",
+            "VERDICT -> project evidence, not a universal water number"
+          ],
+          "source_references": [
+            "Water-context boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Hydrogen logistics chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PRODUCTION -> hydrogen leaves electrolyser",
+            "CONDITIONING -> compression liquefaction or conversion",
+            "STORAGE AND TRANSPORT -> vessel pipeline tanker or port",
+            "END USE -> equipment and safety compatibility",
+            "OUTCOME -> delivered service differs from production capacity",
+            "CLOSE DISTINCTION: Capacity in MW is not generation in MWh, renewable is not impact-free,..."
+          ],
+          "source_references": [
+            "Safety-and-logistics boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Mission and SIGHT map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MISSION TARGET -> intended future production scale",
+            "SIGHT MANUFACTURING -> electrolyser capability support",
+            "SIGHT PRODUCTION -> hydrogen output support",
+            "COMMISSIONED OUTPUT -> later measured evidence",
+            "CLIMATE OUTCOME -> separate lifecycle result",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State technology, unit,..."
+          ],
+          "source_references": [
+            "Mission-target-outcome boundary",
+            "SIGHT-dual-pillar boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Energy-transition answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> capacity generation reliability source and carrier",
+            "TRACE -> grid integration electrolysis certification and delivery",
+            "SCREEN -> direct electrification before selective hydrogen use",
+            "SEPARATE -> target award commission output and outcome",
+            "VERIFY -> dated MNRE power-system and standards evidence"
+          ],
+          "source_references": [
+            "Current evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g2\\environment-and-ecology-25_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

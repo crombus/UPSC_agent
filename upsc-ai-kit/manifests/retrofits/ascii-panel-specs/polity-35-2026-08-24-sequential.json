@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "polity-35-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "8-10",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-35": {
+      "title": "NHRC and SHRC",
+      "source_record": "polity-35:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-35\\g5-source\\polity-35_g5-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Statutory origin and the section 2 human-rights field",
+          "structural_type": "human-rights-foundation",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#01",
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#02"
+          ],
+          "full_text": "PROTECTION OF HUMAN RIGHTS ACT, 1993\ndeemed commencement 28 September 1993 | presidential assent 8 January 1994.\nAmendments in 2006 and 2019 reshape design; commissions remain statutory.\n\nSECTION 2(d)\nrights relating to life, liberty, equality and dignity\n-> guaranteed by Constitution or embodied in defined International Covenants\n-> enforceable by courts in India.\n\nSECTION 2(f)\nICCPR + ICESCR + notified UN General Assembly covenant or convention.\n\nINSTITUTIONAL MAP\nNHRC at Union level | SHRCs at State level | Human Rights Courts as trial route.\n\nLIMIT\nhuman-rights importance does not convert NHRC or SHRC into a constitutional court."
+        },
+        {
+          "title": "NHRC composition and deemed-member boundary",
+          "structural_type": "nhrc-composition",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#03"
+          ],
+          "full_text": "NHRC: Chairperson + five ordinary members under section 3(2).\nChair: person who has been CJI or Supreme Court Judge.\nJudicial routes: Supreme Court Judge + High Court Chief Justice.\nThree experts; at least one woman.\n\nSEVEN DEEMED MEMBERS\nNCBC | NCM | NCPCR | NCSC | NCST | NCW | Chief Commissioner PwD.\nThey participate for section 12(b)-(j), not section 12(a) complaint inquiry.\n\nTRAP\n'deemed member' is not a merger of specialised commissions."
+        },
+        {
+          "title": "NHRC appointment, tenure and removal",
+          "structural_type": "nhrc-office-design",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#04"
+          ],
+          "full_text": "APPOINTMENT\nSix-member committee recommends -> President appoints by warrant.\nSitting judicial appointee requires consultation with CJI.\n\nTENURE\nthree years; age ceiling 70; reappointment permitted; post-office government employment barred.\n\nREMOVAL\nproved misbehaviour/incapacity: President reference -> Supreme Court inquiry/report -> removal.\nSeparate direct statutory grounds remain distinct.\n\nLIMIT\ncommittee vacancy does not by itself invalidate appointment, but judicial review remains."
+        },
+        {
+          "title": "SHRC design and the federal jurisdiction line",
+          "structural_type": "shrc-design",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#05"
+          ],
+          "full_text": "SHRC MAY be constituted by State Government.\nChair: person who has been High Court Chief Justice or Judge.\nOne judicial member + one human-rights expert.\nGovernor appoints after State committee recommendation; President removes under the Act.\n\nJURISDICTION\nState List + Concurrent List matters.\nNo duplicate inquiry where NHRC or another commission is seized.\nSection 29 adapts section 12 and omits treaty-study clause 12(f).\n\nTRAP\nappointment by Governor does not mean removal by Governor."
+        },
+        {
+          "title": "Section 12 functions and section 13 evidence powers",
+          "structural_type": "functions-powers",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#06",
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#07"
+          ],
+          "full_text": "SECTION 12 FUNCTIONS\nsuo motu or petition inquiry | court intervention with approval\n| institution visits | review constitutional/legal safeguards\n| review factors inhibiting rights | study treaties\n| research | literacy | NGO encouragement | other necessary functions.\n\nSECTION 13 INQUIRY POWERS\nsummon and examine on oath | documents | affidavits\n| public records | commissions | specified additional powers.\n\nSECTION 14 INVESTIGATION\nCommission may use Central or State government agency or officers with consent.\n\nPROCEDURAL FAIRNESS\nnotice and hearing where reputation or conduct may be prejudicially affected.\n\nLIMIT\ncivil-court evidence powers support inquiry;\nthey do not create ordinary civil or criminal jurisdiction."
+        },
+        {
+          "title": "Investigation support and procedural fairness",
+          "structural_type": "investigation-fairness",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#07"
+          ],
+          "full_text": "SECTIONS 11 AND 14\nCentral Government makes specified staff available to NHRC.\nCommission may use Central/State agency or officers with government consent.\nAgency works under Commission direction for the assigned investigation and reports back.\n\nSECTION 16\nGive a reasonable opportunity of hearing where conduct or reputation may be prejudicially affected.\n\nLIMIT\ngovernment-linked staff can support capacity,\nbut does not equal an independent permanent investigation cadre."
+        },
+        {
+          "title": "Inquiry outputs, reporting and the one-year bar",
+          "structural_type": "remedy-accountability",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#08",
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#09"
+          ],
+          "full_text": "ENTRY\ncomplaint or suo motu material -> jurisdiction screen -> inquiry or investigation.\n\nSECTION 36\nno parallel inquiry where another named commission is seized.\nSection 36(2): no inquiry after one year from the alleged violative act.\n\nSECTION 18 OUTPUTS\nrecommend compensation or damages\n| recommend prosecution or other action\n| approach Supreme Court or High Court\n| recommend immediate interim relief.\n\nFOLLOW-UP\ngovernment comments/action report ordinarily within one month\n-> Commission publishes report, recommendation and response.\n\nLEGAL EFFECT\nrecommendation carries public and institutional weight but is not a self-executing decree.\n\nTRAP\naction-taken reporting != mandatory acceptance and grave facts alone do not erase section 36(2)."
+        },
+        {
+          "title": "Section 19 armed-forces procedure",
+          "structural_type": "armed-forces-route",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#10"
+          ],
+          "full_text": "NHRC own motion/petition -> seek Central Government report\n-> either stop or recommend -> Central Government reports action within three months\n-> Commission publishes report, recommendation and response.\n\nArmed forces = naval, military, air and other armed forces of Union.\nState police are not automatically within this definition.\n\nLIMIT\nsection 19 replaces ordinary direct inquiry with a report-based route.\nIt does not create a rights-free zone."
+        },
+        {
+          "title": "Human Rights Courts and prosecution bridge",
+          "structural_type": "human-rights-courts",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#11"
+          ],
+          "full_text": "SECTIONS 30-31\nState MAY, with High Court Chief Justice concurrence, specify a Court of Session for each district.\nPurpose: speedy trial of offences arising from human-rights violations.\nSpecial Public Prosecutor: Public Prosecutor or advocate with at least seven years' practice.\n\nBOUNDARY\nCommission inquires/recommends -> police investigate offences\n-> prosecutor presents case -> Sessions Court adjudicates.\nNotification is enabling; do not assume automatic nationwide operation."
+        },
+        {
+          "title": "Overlap, referral and specialised commissions",
+          "structural_type": "coordination-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#14"
+          ],
+          "full_text": "NHRC\nnational statutory mandate subject to PHRA exclusions and transfer rules.\n\nSHRC\ninquires into matters relatable to State List and Concurrent List;\nsection 29 adapts functions and omits treaty study.\n\nTRANSFER\nNHRC may transfer a complaint to a competent SHRC under statutory conditions.\n\nOVERLAP\nNCSC, NCST and NCBC have constitutional safeguard mandates.\nWomen, child, minority and disability bodies have specialised statutory fields.\n\nCOORDINATION\ncommon intake metadata -> reasoned referral -> no duplicate inquiry\n-> joint thematic work -> preserve specialist voice.\n\nLIMIT\nan umbrella merger cannot absorb constitutional commissions through ordinary PHRA amendment."
+        },
+        {
+          "title": "Paris Principles, accreditation and case-law controls",
+          "structural_type": "standards-case-law",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#12",
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#13"
+          ],
+          "full_text": "PARIS PRINCIPLES, 1993\nbroad legal mandate | pluralism | open appointment\n| adequate resources | stable tenure | independent methods | accessibility.\n\nDOMESTIC TEST\nPHRA mandate and inquiry powers\nversus police/deputation dependence, short terms, selection opacity and weak follow-up.\n\nGANHRI CONTROL\nMarch 2025 SCA recommended B downgrade.\nIndia challenged with required Bureau support.\nPublic membership page continued to list India as A on the 24 August 2026 control.\n\nSAFE LANGUAGE\ncurrent public A listing + unresolved official scrutiny.\n\nTRAP\nrecommendation under challenge != completed downgrade;\nA listing != proof of perfect Paris-Principles compliance.\n\nParamjit Kaur v. State of Punjab (1999)\nSupreme Court used NHRC as an expert body assisting Article 32 jurisdiction.\nThis constitutional assignment is not ordinary PHRA jurisdiction.\n\nN.C. Dhoundial v. Union of India (2003)\nsection 36(2) is a jurisdictional bar;\na completed violation does not become a daily continuing wrong merely through non-reparation.\n\nEEVFAM (2016)\nexcessive-force allegations require lawful inquiry under Article 32 oversight;\nNHRC is a valuable route but not exclusive and recommendations were not made generally binding.\n\nSYNTHESIS\nCourt-assigned expertise may exceed the ordinary route,\nbut an autonomous statutory commission remains bound by statutory limits."
+        },
+        {
+          "title": "Limits, reforms, PYQs and qualified verdict",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#15",
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#16",
+            "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md#17"
+          ],
+          "full_text": "STRUCTURAL LIMITS\nrecommendatory outputs | one-year bar | armed-forces report route\n| government-linked investigation support | federal and overlap boundaries.\n\nPRACTICAL LIMITS\nvacancies | staff/resources | delayed reports | uneven SHRC capacity\n| weak Human Rights Court routing | limited civil-society trust.\n\nREFORM\nindependent multidisciplinary investigation cadre\n-> open plural appointments -> time-bound reasoned response\n-> grave/concealed-violation limitation reform\n-> safeguarded armed-forces fact-finding -> interoperable referrals.\n\nPYQ ROUTES\n2018 umbrella-commission debate | 2021 limitations and remedies\n| 2023 body-classification support.\n\nMAINS VERDICT\nstrengthen fact-finding, independence and follow-through without misdescribing NHRC as a court."
+        }
+      ]
+    }
+  }
+}

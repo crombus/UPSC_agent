@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-19-ascii-panels-2026-08-28-reviewed",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-content reviewed Governor/CM Core rail; g2 remains immutable.",
+  "constraints": {
+    "panels_per_topic": "10-14",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-19": {
+      "title": "Governor CM State Council",
+      "source_record": "polity-19:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md",
+      "quality_review": "Manual reconciliation against constitutional text, owners, PYQs, official judgments and commission reports through 28 August 2026.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Responsible State executive: legal form and democratic command",
+          "structural_type": "state-executive-hierarchy",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "ARTICLES 153-167\nPeople -> Legislative Assembly -> confidence -> CM + Council -> real executive\nGovernor -> constitutional State head -> formal acts and continuity\n\nARTICLE MAP\n153 office | 154 power | 155 appointment | 156 pleasure | 157-159 conditions/oath\n161 clemency | 163 advice/discretion | 164 ministry | 165 AG | 166 business | 167 CM duties\n\nCORE RULE\nUnion appointment creates a federal link, not authority to govern as a Central party agent."
+        },
+        {
+          "title": "Appointment, conditions, immunity and pleasure tenure",
+          "structural_type": "governor-office-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "ENTRY: President appoints by warrant -> citizen + 35 -> Article 159 oath\nCONDITIONS: no legislative seat or other office of profit; emoluments protected.\nCOMMON GOVERNOR: Article 153 proviso allows one person for multiple States.\n\nARTICLE 156\nfive-year outer term + President pleasure + resignation + holdover until successor.\nB.P. Singhal (2010): no arbitrary, capricious, unreasonable or mala fide removal;\nno guaranteed five-year lease and no routine duty to disclose reasons.\n\nARTICLE 361: personal temporary immunity; underlying government action remains reviewable."
+        },
+        {
+          "title": "Complete power classification and source control",
+          "structural_type": "governor-power-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "EXECUTIVE: appoint CM; ministers on CM advice; AG, SEC, SPSC and district-judge roles.\nLEGISLATIVE: 168, 171, 174-176, 200 and 213.\nFINANCIAL: 202 budget, 203 grants, 207 Money/financial Bills, 243-I SFC.\nCLEMENCY: Article 161 within State executive field; advice-bound and reviewable.\nSPECIAL: Article 356 report; constitutionally specified responsibilities.\nSTATUTORY: university Chancellor only where State law provides.\n\nTRAPS: Governor does not appoint HC judges or nominate Assembly members."
+        },
+        {
+          "title": "Aid and advice, discretion and special responsibilities",
+          "structural_type": "advice-discretion-dialectic",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "DEFAULT -> Shamsher Singh (1974): CM-led Council advice controls.\nEXCEPTION -> express text or necessary implication; discretion remains purpose-bound.\n\nBOUNDED FIELDS\nhung-House appointment | objective floor-test doubt | Article 200 reservation\nArticle 356 report | UT additional charge | constitutionally specified responsibilities.\n\nSPECIAL TEXTS\nArticle 371A(1)(b): Nagaland law and order | 371H(a): Arunachal law and order\nindividual judgment after consulting Council; Sixth Schedule assigns specified functions.\nLIMIT: exceptional State texts do not create general discretion for every Governor."
+        },
+        {
+          "title": "Case-law ladder: from advice to objective material",
+          "structural_type": "governor-case-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "Shamsher Singh (1974) -> constitutional head; advice is norm\nS.R. Bommai (1994) -> Article 356 review; House floor ordinarily tests majority\nRameshwar Prasad (2006) -> speculative horse-trading cannot justify dissolution\nB.P. Singhal (2010) -> pleasure survives; arbitrary removal does not\nNabam Rebia (2016) -> Articles 174-175 normally advice-bound\nSubhash Desai (2023) -> objective material; no intra-party arbitration by floor test\n\nCURRENT: referred Nabam Rebia (2016) Speaker-removal issue remains unresolved at 28 Aug 2026."
+        },
+        {
+          "title": "Government formation, floor test, dismissal and dissolution",
+          "structural_type": "confidence-crisis-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "CLEAR MAJORITY -> appoint recognised leader -> ordinary responsible government.\nHUNG HOUSE -> invite credible confidence claimant -> early floor test -> no secret count.\nLATER DOUBT -> objective material -> prompt floor test in Assembly.\n\nAFTER TEST\nconfidence retained -> ministry continues\nconfidence lost -> resignation/dismissal -> test alternative -> dissolution only if needed.\nCARETAKER -> continuity with restraint, not a fresh policy mandate.\n\nSubhash Desai (2023): factional dissent alone insufficient.\nRameshwar Prasad (2006): anticipated misconduct cannot replace House process."
+        },
+        {
+          "title": "Article 356 report and the federal firewall",
+          "structural_type": "article-356-federal-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "GOVERNOR'S REASONED REPORT OR OTHER MATERIAL\n                 |\n                 v\nPRESIDENTIAL PROCLAMATION -> parliamentary approval -> temporary consequences\n                 |\n                 v\nJUDICIAL REVIEW UNDER S.R. BOMMAI (1994)\nrelevance | mala fides | constitutional purpose | possible restoration\n\nFLOOR-TEST PRIORITY\nA majority dispute ordinarily belongs in the House, not in Raj Bhavan's assessment.\nTRAP: Governor recommends/reports; the Governor does not proclaim President's Rule."
+        },
+        {
+          "title": "Articles 200-201 and the 2025 assent control",
+          "structural_type": "assent-reservation-gateway",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 200\nassent | withhold | return non-Money Bill once | reserve for President\nmandatory reservation: Bill endangers High Court constitutional powers.\nAfter repassage Governor cannot return again; exact remaining route is text-specific.\n\nARTICLE 201\nPresident: assent | withhold | direct return of non-Money Bill through Governor\nrepassage does not compel presidential assent.\n\n2025 CONTROL\nState of Tamil Nadu v. Governor of Tamil Nadu (2025): facts-specific timelines/deemed assent\nIn re Assent, Withholding or Reservation of Bills (2025): advisory; no rigid timelines\nor automatic deemed assent; prolonged unexplained inaction remains reviewable."
+        },
+        {
+          "title": "Ordinance power and clemency comparison",
+          "structural_type": "ordinance-clemency-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 213\nrequired House(s) not in session + immediate necessity -> ordinance with Act-like force\n-> must be laid -> expires six weeks after reassembly unless approved earlier.\nD.C. Wadhwa (1986): serial re-promulgation is fraud on Constitution.\nKrishna Kumar Singh (2017): laying mandatory; satisfaction reviewable; no routine survival.\n\nARTICLE 161 V ARTICLE 72\nGovernor: State-field offences; no court-martial limb; cannot pardon death sentence\nbut may suspend, remit or commute it. President has wider text.\nBoth ordinarily act on advice and remain reviewable for recognised defects."
+        },
+        {
+          "title": "Chief Minister, Article 167 and State Council",
+          "structural_type": "state-real-executive-hierarchy",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "GOVERNOR APPOINTS CM -> CM PROVES ASSEMBLY CONFIDENCE\nCM selects ministers -> allocates portfolios -> coordinates policy -> advises Governor.\nARTICLE 167 -> communicate Council decisions, furnish information, collectivise decisions.\n\nCOUNCIL UNDER ARTICLES 163-164\nappoint ministers on CM advice | collective responsibility to Assembly\nindividual pleasure is mediated by CM advice and confidence | non-member: maximum six months.\n\n91ST AMENDMENT\nministers <=15% of Assembly, minimum 12; defector bar under Article 164(1B)."
+        },
+        {
+          "title": "Tribal minister, Advocate General, business and comparison",
+          "structural_type": "special-office-comparison-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "TRIBAL WELFARE MINISTER\nrequired in Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha under Article 164 proviso.\n\nARTICLE 165 -> Advocate General: HC-judge qualification; advises State government.\nARTICLE 166 -> authentication and business-allocation rules; not personal Governor policy.\n\nPRESIDENT v GOVERNOR\nboth constitutional heads | Article 74 differs textually from 163\nArticle 72 wider than 161 | Governor reserves State Bills under 200\nGovernor has State-specific special responsibilities; neither difference creates general discretion.\nCHANCELLOR: statute-specific, not inherent constitutional office."
+        },
+        {
+          "title": "Federal neutrality, reforms, PYQs and answer synthesis",
+          "structural_type": "governor-exam-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-19\\g5-source\\polity-19_g5-reviewed-source.md"
+          ],
+          "full_text": "FAULT LINE\nUnion appointment + pleasure tenure + State-facing formation/assent/356 powers.\nBRIDGE\nconstitutional continuity, neutral information, lawful transition and emergency warning.\n\nREFORM ROUTE\nSarkaria: eminent outsider, detached politics, CM consultation\nNCRWC/Punchhi: transparent selection, tenure restraint, reasoned action, House-centred tests\nAll are proposals unless enacted.\n\nPRELIMS: elected? NO | guaranteed five years? NO | general discretion? NO\nMoney Bill return? NO | Chancellor constitutional? NO | Article 361 = State immunity? NO.\n\nMAINS SPINE\ntext -> advice default -> exceptional trigger -> case + year -> federal risk\n-> matched reform -> neutral constitutional-head conclusion."
+        }
+      ]
+    }
+  }
+}

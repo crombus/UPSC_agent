@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "map_and_current_status_discipline": true,
+    "human_economic_regional_spatial_control": true,
+    "models_india_data_policy_chronology_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-37",
+      "display_title": "Cultural and Social Geography of India",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Building blocks of a cultural region",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "LANGUAGE -> communication and literary core with a hearth and a spread",
+            "RELIGION -> sacred sites, ritual calendars, group identity and landscapes",
+            "TRIBE AND ETHNICITY -> historical communities associated with a habitat",
+            "LIVELIHOOD AND MIGRATION -> the cultural landscape of work; diffusion and mixing",
+            "STATE POLICY -> linguistic states, schedules, autonomy arrangements and reservation",
+            "MUST REMEMBER: Cultural and social geography examines language, religion, caste, tribe,",
+            "  ethnicity, gender, livelihood, landscape, place identity and diffusion across India's plural",
+            "  regions; cultural area, hearth, route, frontier, sacred landscape and vernacular region are",
+            "  analytical tools rather than fixed natural containers."
+          ],
+          "source_references": [
+            "Scope of cultural and social geography",
+            "Building blocks of a cultural region",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Region types compared",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FORMAL -> a dominant shared trait such as language or religion defines the area",
+            "FUNCTIONAL -> interaction through pilgrimage, market or media ties the area together",
+            "VERNACULAR -> a named, imagined region such as the Hindi belt, Deccan or North-East",
+            "OVERLAP -> functional circuits routinely cut across formal boundaries",
+            "EXAM USE -> name the type first, then argue about the boundary"
+          ],
+          "source_references": [
+            "Three types of cultural region",
+            "Religion as functional geography",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Hearth to identity sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CULTURAL HEARTH -> the source area where the trait originates",
+            "DIFFUSION -> spread along routes, rivers, markets and migration corridors",
+            "OVERLAP ZONE -> two traditions coexist and interact in the same space",
+            "MIXED BORDERLAND -> bilingual belts, syncretic practice and shared calendars",
+            "NEW REGIONAL IDENTITY -> the margin produces its own recognised character"
+          ],
+          "source_references": [
+            "Diffusion and overlap sequence",
+            "Transition-zone principle",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Distribution and density firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DISTRIBUTION -> the spatial arrangement of people; answers the where question",
+            "DENSITY -> a ratio of people to area; answers the how concentrated question",
+            "ARITHMETIC -> total population over total area; misleads where land is uninhabitable",
+            "PHYSIOLOGICAL -> population over cultivable area; exposes hidden land pressure",
+            "AGRICULTURAL -> farming population over cultivable area; isolates agrarian pressure"
+          ],
+          "source_references": [
+            "Distribution against density",
+            "Three densities and their meanings",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Controls on population distribution",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "RELIEF AND SOIL -> level land and deep renewable alluvium permit intensive settlement",
+            "WATER -> rainfall, perennial rivers and shallow groundwater set cropping intensity",
+            "CLIMATE -> growing-season length and reliability deter or permit occupation",
+            "HISTORY -> valleys carrying millennia of settlement, urbanism and state formation",
+            "ECONOMY AND CONNECTIVITY -> industry, ports, irrigated commands, rail and canal networks"
+          ],
+          "source_references": [
+            "Controls on India's population distribution",
+            "Ganga basin convergence of controls",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Ganga basin convergence",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LEVEL EXTENSIVE ALLUVIAL PLAIN -> almost the whole surface is cultivable and traversable",
+            "DEEP RENEWABLE ALLUVIUM -> khadar tracts are renewed by annual deposition",
+            "PERENNIAL SNOW-FED RIVERS -> assured water unlike seasonal peninsular rivers",
+            "SHALLOW PRODUCTIVE AQUIFERS -> tube-well irrigation permits multiple cropping",
+            "HISTORY AND TRANSPORT -> inherited settlement plus dense networks on level ground"
+          ],
+          "source_references": [
+            "Ganga basin convergence of controls",
+            "Controls on India's population distribution",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Basin internal variation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WEST TO EAST -> density rises from the drier west toward the wetter middle and lower basin",
+            "NORTHERN FRINGE -> tarai constraints differ sharply from the central plain",
+            "LOWER AND DELTAIC BASIN -> very high rural density with flood and erosion exposure",
+            "URBAN-INDUSTRIAL NODES -> density peaks that agriculture does not explain",
+            "RULE -> never write the basin as an internally uniform region"
+          ],
+          "source_references": [
+            "Ganga basin internal variation",
+            "Northern Plain sub-regions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Density consequence chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "HIGH PHYSIOLOGICAL DENSITY -> holdings become small and continue fragmenting",
+            "SMALL HOLDINGS -> investable surplus and mechanisation capacity fall",
+            "LAND PRESSURE -> groundwater over-abstraction and out-migration follow",
+            "FLOODPLAIN SETTLEMENT -> exposure rises because the active surface is occupied",
+            "NATIONAL LINK -> the same fertility makes the region critical to foodgrain supply"
+          ],
+          "source_references": [
+            "Density consequence chain",
+            "Density-poverty qualification",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Micro-relief belt sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BHABAR -> coarse gravel and boulder wash where streams disappear underground",
+            "TERAI -> marshy belt where those streams re-emerge; productive once drained",
+            "BHANGAR -> older alluvial upland above the flood limit, often with kankar nodules",
+            "KHADAR -> newer alluvium of the active floodplain, most fertile and most flood-exposed",
+            "ACTIVE CHANNEL BELT -> levees, bars, ox-bow lakes and char or diara lands"
+          ],
+          "source_references": [
+            "Micro-relief belt sequence",
+            "Two gradients of the Northern Plain",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Two gradients and five sub-regions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GRADIENT ONE -> rainfall rises from the north-west toward the humid east",
+            "GRADIENT TWO -> the micro-relief transect repeats away from the mountain front",
+            "WESTERN AND CENTRAL PLAIN -> irrigated cereals with drawdown; dense fragmented holdings",
+            "EASTERN PLAIN -> water-rich yet productivity-constrained by gradient and drainage",
+            "BRAHMAPUTRA AND DELTA -> braided erosion insecurity; tidal salinity and cyclone exposure",
+            "CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous and ethnic group are not automatic",
+            "  synonyms; language family differs from script and official status, caste distribution from",
+            "  caste determinism, cultural region from state boundary, and diversity from either",
+            "  frictionless harmony or permanent conflict."
+          ],
+          "source_references": [
+            "Two gradients of the Northern Plain",
+            "Northern Plain sub-regions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Cultural marker geographies",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LANGUAGE -> regional cores, transition zones and relief-sustained minority pockets",
+            "RELIGION -> concentrations plus pilgrimage circuits forming functional interaction regions",
+            "TRIBE -> forested hill, plateau and north-eastern association from historical isolation",
+            "LIVELIHOOD -> agrarian structures and urban occupational clustering link to economy",
+            "MIGRATION -> corridor communities in destination cities redistribute culture continuously",
+            "EVIDENCE LIMIT: Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal",
+            "  central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral",
+            "  routes, borderlands and metropolitan mosaics require named maps; Census 2011 remains the",
+            "  completed census baseline while identities are dynamic and multi-scalar."
+          ],
+          "source_references": [
+            "Language as core and transition",
+            "Religion as functional geography",
+            "Tribe and habitat association",
+            "Migration as continuous redistribution",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Data discipline and the policy-mapping anchor",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "CENSUS RULE -> the last completed all-India Census is the baseline for any figure",
+            "SURVEY RULE -> a newer figure must carry a named survey and its date",
+            "FORBIDDEN -> density, growth, literacy, sex ratio, speaker and share figures from memory",
+            "9 JULY 2024 -> Ministry of Tribal Affairs state-wise list of vulnerable tribal groups",
+            "READING -> identity and habitat remain geographically organised for present policy"
+          ],
+          "source_references": [
+            "Vulnerable-community mapping anchor",
+            "Density-poverty qualification",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

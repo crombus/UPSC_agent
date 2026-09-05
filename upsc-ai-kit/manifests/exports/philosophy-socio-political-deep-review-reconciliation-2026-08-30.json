@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T05:35:34.434986+00:00",
+  "subject": "Philosophy Optional",
+  "section": "Philosophy Paper II — Socio-Political Philosophy",
+  "represented": 10,
+  "expected": 10,
+  "latest_identities_match_master_review_export": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v tools.test_generate_philosophy_socio_political_topic_v2",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_fallback_contains_no_forbidden_progress_navigation (tools.test_generate_philosophy_socio_political_topic_v2.CanonicalFallbackTests) ... ok\ntest_fallback_has_five_sections_and_complete_core_structure (tools.test_generate_philosophy_socio_political_topic_v2.CanonicalFallbackTests) ... ok\ntest_fallback_practice_counts_rotation_and_answer_text_agree (tools.test_generate_philosophy_socio_political_topic_v2.CanonicalFallbackTests) ... ok\ntest_adapter_loading_supports_retained_and_fallback_topics (tools.test_generate_philosophy_socio_political_topic_v2.TopicAdapterTests) ... ok\ntest_latest_identity_starts_unpublished_topics_at_learner_g2 (tools.test_generate_philosophy_socio_political_topic_v2.TopicAdapterTests) ... ok\ntest_retained_workbook_pyq_heading_stops_before_original_mains (tools.test_generate_philosophy_socio_political_topic_v2.TopicAdapterTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.051s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v tools.test_export_four_item_library",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Ran 8 tests in 0.415s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "title": "Social and Political Ideals",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g5",
+      "old_generation": 2,
+      "new_generation": 5,
+      "old_score": 82,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-01-learner-v2-g5-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:25:27.185671+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g5",
+        "master": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g5",
+        "review": "philosophy-paper-ii-socio-political-philosophy-01:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "preserved_failed_intermediate_generations": [
+        3,
+        4
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+      "title": "Sovereignty",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-02-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:28:37.186228+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g3",
+        "master": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g3",
+        "review": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+      "title": "Individual and State",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-03-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:29:21.766186+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g3",
+        "master": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g3",
+        "review": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+      "title": "Forms of Government",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-04-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:30:08.317327+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g3",
+        "master": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g3",
+        "review": "philosophy-paper-ii-socio-political-philosophy-04:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-05",
+      "title": "Political Ideologies",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-05:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-05:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-05-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:30:53.625728+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-05:learner-v2:g3",
+        "master": "philosophy-paper-ii-socio-political-philosophy-05:learner-v2:g3",
+        "review": "philosophy-paper-ii-socio-political-philosophy-05:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-06",
+      "title": "Humanism, Secularism and Multiculturalism",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-06:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-06:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-06-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:31:41.046645+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-06:learner-v2:g3",
+        "master": "philosophy-paper-ii-socio-political-philosophy-06:learner-v2:g3",
+        "review": "philosophy-paper-ii-socio-political-philosophy-06:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+      "title": "Crime and Punishment",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g2",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-07-learner-v2-g3-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:32:29.685826+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g3",
+        "master": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g3",
+        "review": "philosophy-paper-ii-socio-political-philosophy-07:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+      "title": "Development and Social Progress",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-08:learner-v2:g3",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-08:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-08-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:33:18.848523+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-08:learner-v2:g4",
+        "master": "philosophy-paper-ii-socio-political-philosophy-08:learner-v2:g4",
+        "review": "philosophy-paper-ii-socio-political-philosophy-08:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+      "title": "Gender Discrimination",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g3",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 93,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-09-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:33:58.196373+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g4",
+        "master": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g4",
+        "review": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+      "title": "Caste Discrimination: Gandhi and Ambedkar",
+      "old_record_id": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g3",
+      "new_record_id": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 97,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "approval": false,
+      "status": "passed",
+      "mismatch_count": 0,
+      "validation": "upsc-ai-kit\\manifests\\exports\\philosophy-paper-ii-socio-political-philosophy-10-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T05:34:29.530076+00:00",
+      "identities": {
+        "export": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g4",
+        "master": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g4",
+        "review": "philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 97,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      }
+    }
+  ],
+  "preserved_failed_intermediate_generations": [
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "generation": 3,
+      "state": "failed_before_render",
+      "reason": "initial immutable target exceeded the Windows path limit while copying the topic visual; files retained and not selected"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+      "generation": 4,
+      "state": "validation_failed",
+      "reason": "first rendered successor exposed main-mode/path and upgrade-count validator defects; complete files retained and not selected"
+    }
+  ],
+  "source_master_created_at": "2026-08-30T06:05:46+00:00",
+  "revalidated_at": "2026-08-30T06:09:39.879824+00:00"
+}

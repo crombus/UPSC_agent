@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-31",
+  "control_date": "2026-08-28",
+  "approval": false,
+  "constitutional_sources": [
+    "Articles 338, 338A, 338B, 341, 342, 342A and 366(26C)",
+    "65th, 89th, 102nd and 105th Constitutional Amendments"
+  ],
+  "rules_controls": [
+    "NCSC/NCST/NCBC composition is Chairperson, Vice-Chairperson and three Members",
+    "appointment by President by warrant under hand and seal",
+    "three-year/max-two-term claims derive from governing rules, not bare constitutional clauses"
+  ],
+  "judgments": [
+    "Indra Sawhney (1992)",
+    "Jaishri Laxmanrao Patil (2021)",
+    "State of Punjab v. Davinder Singh (2024)"
+  ],
+  "status_controls": [
+    "civil-court powers apply during investigation/inquiry and do not create ordinary court jurisdiction",
+    "recommendations generally advisory",
+    "Central SEBC list changed by Parliament after Presidential specification",
+    "State/UT own SEBC list under Article 342A(3) is prepared/maintained by law",
+    "SC/ST list inclusion or exclusion remains parliamentary under Articles 341/342",
+    "no current officeholder claim frozen"
+  ],
+  "pyq_count": 6
+}

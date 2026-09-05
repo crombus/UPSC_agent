@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-07",
+  "subject": "Internal-Security",
+  "title": "MARITIME AND COASTAL SECURITY",
+  "short_route": "MARITIME-COASTAL NESTING → MARITIME-ZONE LADDER → THREAT-TO-RESPONSE MATRIX → INSTITUTIONAL LAYERS → COORDINATION ARCHITECTURE → AWARENESS-TO-ACTION CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-07-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "2298ae949d41b83aa32d36a24fef6b9ce0262cf47d48f73ff516c642c9b7fdc1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MARITIME-COASTAL NESTING",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARITIME-COASTAL NESTING",
+          "role": "primary"
+        },
+        {
+          "text": "MARITIME SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH SEAS",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFSHORE INTERESTS",
+          "role": "evidence"
+        },
+        {
+          "text": "EEZ AWARENESS",
+          "role": "primary"
+        },
+        {
+          "text": "COASTAL SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NEAR-SHORE SUBSET",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSET IS NOT SYNONYM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MARITIME SECURITY",
+        "HIGH SEAS / SLOCs / OFFSHORE INTERESTS",
+        "EEZ AWARENESS / ENFORCEMENT",
+        "COASTAL SECURITY → near-shore subset",
+        "RULE → subset is not synonym"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "MARITIME SECURITY",
+            "HIGH SEAS / SLOCs / OFFSHORE INTERESTS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "EEZ AWARENESS / ENFORCEMENT",
+            "COASTAL SECURITY → near-shore subset"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → subset is not synonym",
+            "MARITIME SECURITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COASTAL SECURITY → near-shore subset; RULE → subset is not synonym.",
+      "source_references": [
+        "Maritime-coastal distinction",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MARITIME-ZONE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARITIME-ZONE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "0-12 NM",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL SEA",
+          "role": "comparison"
+        },
+        {
+          "text": "12-24 NM",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTIGUOUS ZONE",
+          "role": "primary"
+        },
+        {
+          "text": "TO 200 NM",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSIVE ECONOMIC ZONE",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH SEAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "0-12 nm → TERRITORIAL SEA",
+        "12-24 nm → CONTIGUOUS ZONE",
+        "TO 200 nm → EXCLUSIVE ECONOMIC ZONE",
+        "BEYOND → HIGH SEAS",
+        "FIX ZONE → THEN INSTITUTION + LAW"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "0-12 nm → TERRITORIAL SEA",
+            "12-24 nm → CONTIGUOUS ZONE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TO 200 nm → EXCLUSIVE ECONOMIC ZONE",
+            "BEYOND → HIGH SEAS"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FIX ZONE → THEN INSTITUTION + LAW",
+            "0-12 nm → TERRITORIAL SEA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BEYOND → HIGH SEAS; FIX ZONE → THEN INSTITUTION + LAW.",
+      "source_references": [
+        "Maritime-zone ladder",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREAT-TO-RESPONSE MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREAT-TO-RESPONSE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SEA-BORNE TERROR",
+          "role": "outcome"
+        },
+        {
+          "text": "INTELLIGENCE + INTERDICTION + SUA",
+          "role": "comparison"
+        },
+        {
+          "text": "ZONE + PIRACY",
+          "role": "evidence"
+        },
+        {
+          "text": "OTHER LAW",
+          "role": "primary"
+        },
+        {
+          "text": "COAST GUARD",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT CYBER",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL + DIGITAL RESILIENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEA-BORNE TERROR",
+        "INTELLIGENCE + INTERDICTION + SUA",
+        "PIRACY / ROBBERY",
+        "ZONE + PIRACY / OTHER LAW",
+        "SMUGGLING / TRAFFICKING"
+      ],
+      "matrix": [
+        [
+          "SEA-BORNE TERROR",
+          "INTELLIGENCE + INTERDICTION + SUA"
+        ],
+        [
+          "PIRACY / ROBBERY",
+          "ZONE + PIRACY / OTHER LAW"
+        ],
+        [
+          "SMUGGLING / TRAFFICKING",
+          "COAST GUARD / CUSTOMS / POLICE"
+        ],
+        [
+          "PORT CYBER / SABOTAGE",
+          "PHYSICAL + DIGITAL RESILIENCE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SEA-BORNE TERROR",
+            "INTELLIGENCE + INTERDICTION + SUA",
+            "PIRACY / ROBBERY"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ZONE + PIRACY / OTHER LAW",
+            "SMUGGLING / TRAFFICKING",
+            "COAST GUARD / CUSTOMS / POLICE"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "PORT CYBER / SABOTAGE",
+            "PHYSICAL + DIGITAL RESILIENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PORT CYBER / SABOTAGE | PHYSICAL + DIGITAL RESILIENCE.",
+      "source_references": [
+        "Threat-category map",
+        "Port-security convergence",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INSTITUTIONAL LAYERS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER DEFENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "COAST GUARD",
+          "role": "evidence"
+        },
+        {
+          "text": "MARITIME-ZONE SECURITY",
+          "role": "primary"
+        },
+        {
+          "text": "LAW ENFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MARINE POLICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE COASTAL PATROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NAVY → wider defence / sea control / SLOCs",
+        "COAST GUARD → maritime-zone security / law enforcement / coordination",
+        "MARINE POLICE → close coastal patrol / State investigation",
+        "RULE → connected mandates, not one undifferentiated force"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NAVY → wider defence / sea control / SLOCs",
+            "COAST GUARD → maritime-zone security / law enforcement / coordination"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "MARINE POLICE → close coastal patrol / State investigation",
+            "RULE → connected mandates, not one undifferentiated force"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "NAVY → wider defence / sea control / SLOCs",
+            "COAST GUARD → maritime-zone security / law enforcement / coordination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → connected mandates, not one undifferentiated force.",
+      "source_references": [
+        "Navy role",
+        "Coast Guard role",
+        "Marine Police role",
+        "Layered-architecture boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COORDINATION ARCHITECTURE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COORDINATION ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "APEX POLICY COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT BLAIR",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC INFORMATION FUSION",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTNER INFORMATION-SHARING LAYER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NCSMCS → APEX POLICY COORDINATION",
+        "JOCs → MUMBAI / VISAKHAPATNAM / KOCHI / PORT BLAIR",
+        "NC3I / IMAC → DOMESTIC INFORMATION FUSION",
+        "IFC-IOR → PARTNER INFORMATION-SHARING LAYER"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NCSMCS → APEX POLICY COORDINATION",
+            "JOCs → MUMBAI / VISAKHAPATNAM / KOCHI / PORT BLAIR"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "NC3I / IMAC → DOMESTIC INFORMATION FUSION",
+            "IFC-IOR → PARTNER INFORMATION-SHARING LAYER"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "NCSMCS → APEX POLICY COORDINATION",
+            "JOCs → MUMBAI / VISAKHAPATNAM / KOCHI / PORT BLAIR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JOCs → MUMBAI / VISAKHAPATNAM / KOCHI / PORT BLAIR.",
+      "source_references": [
+        "NCSMCS coordination",
+        "Joint Operations Centres",
+        "NC3I function",
+        "IMAC-IFC boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AWARENESS-TO-ACTION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AWARENESS-TO-ACTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "BOARD UNDER LAWFUL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AWARENESS IS NOT INTERDICTION",
+          "role": "caution"
+        },
+        {
+          "text": "DETECT → IDENTIFY → FUSE → DECIDE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DETECT → IDENTIFY → FUSE → DECIDE",
+        "INTERCEPT / BOARD UNDER LAWFUL AUTHORITY",
+        "INVESTIGATE → PROSECUTE / RECOVER",
+        "TRAP → awareness is not interdiction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "DETECT → IDENTIFY → FUSE → DECIDE",
+            "INTERCEPT / BOARD UNDER LAWFUL AUTHORITY"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INVESTIGATE → PROSECUTE / RECOVER",
+            "TRAP → awareness is not interdiction"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DETECT → IDENTIFY → FUSE → DECIDE",
+            "INTERCEPT / BOARD UNDER LAWFUL AUTHORITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVESTIGATE → PROSECUTE / RECOVER; TRAP → awareness is not interdiction.",
+      "source_references": [
+        "Awareness-interdiction distinction",
+        "Surveillance-system role",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COASTAL-POLICE CAPACITY AUDIT",
+      "structural_type": "audit-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COASTAL-POLICE CAPACITY AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEME SANCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAINING INPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "STAFFING + MAINTENANCE + SEA-TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "EXERCISE PERFORMANCE + VERIFIED RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "NEVER SKIP FROM INPUT TO OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SCHEME SANCTION",
+        "STATION / JETTY / BOAT / TRAINING INPUT",
+        "STAFFING + MAINTENANCE + SEA-TIME",
+        "EXERCISE PERFORMANCE + VERIFIED RESPONSE",
+        "RULE → never skip from input to outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SCHEME SANCTION",
+            "STATION / JETTY / BOAT / TRAINING INPUT"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAFFING + MAINTENANCE + SEA-TIME",
+            "EXERCISE PERFORMANCE + VERIFIED RESPONSE"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never skip from input to outcome",
+            "SCHEME SANCTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never skip from input to outcome.",
+      "source_references": [
+        "Coastal Security Scheme",
+        "Marine Police role",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FISHING-COMMUNITY INTERFACE",
+      "structural_type": "balance-scale",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FISHING-COMMUNITY INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY VALUE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY WARNING",
+          "role": "evidence"
+        },
+        {
+          "text": "LIVELIHOOD NEED",
+          "role": "primary"
+        },
+        {
+          "text": "SAFE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "DUE PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARTNERSHIP, NOT COLLECTIVE SUSPICION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECURITY VALUE → LOCAL KNOWLEDGE / EARLY WARNING",
+        "LIVELIHOOD NEED → SAFE ACCESS / COMMUNICATION / DUE PROCESS",
+        "TOOLS → REGISTRATION / IDENTIFICATION / DISTRESS / REPORTING",
+        "VERDICT → partnership, not collective suspicion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SECURITY VALUE → LOCAL KNOWLEDGE / EARLY WARNING",
+            "LIVELIHOOD NEED → SAFE ACCESS / COMMUNICATION / DUE PROCESS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TOOLS → REGISTRATION / IDENTIFICATION / DISTRESS / REPORTING",
+            "VERDICT → partnership, not collective suspicion"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "SECURITY VALUE → LOCAL KNOWLEDGE / EARLY WARNING",
+            "LIVELIHOOD NEED → SAFE ACCESS / COMMUNICATION / DUE PROCESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TOOLS → REGISTRATION / IDENTIFICATION / DISTRESS / REPORTING.",
+      "source_references": [
+        "Fishing-community interface",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PORT-RESILIENCE MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PORT-RESILIENCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "WATERSIDE ACCESS + LANDSIDE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "CUSTOMS + INDUSTRIAL ASSETS",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATIONAL TECHNOLOGY + DATA SYSTEMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WATERSIDE ACCESS + LANDSIDE ACCESS",
+        "CARGO / CUSTOMS + INDUSTRIAL ASSETS",
+        "OPERATIONAL TECHNOLOGY + DATA SYSTEMS",
+        "CONTINUITY → PREVENT / RESPOND / RECOVER / LEARN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WATERSIDE ACCESS + LANDSIDE ACCESS",
+            "CARGO / CUSTOMS + INDUSTRIAL ASSETS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "OPERATIONAL TECHNOLOGY + DATA SYSTEMS",
+            "CONTINUITY → PREVENT / RESPOND / RECOVER / LEARN"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "WATERSIDE ACCESS + LANDSIDE ACCESS",
+            "CARGO / CUSTOMS + INDUSTRIAL ASSETS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTINUITY → PREVENT / RESPOND / RECOVER / LEARN.",
+      "source_references": [
+        "Port-security convergence",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MARITIME-LAW DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARITIME-LAW DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH SEAS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT ACT?",
+          "role": "institution"
+        },
+        {
+          "text": "OTHER CRIME",
+          "role": "evidence"
+        },
+        {
+          "text": "MARITIME ZONES ACT",
+          "role": "institution"
+        },
+        {
+          "text": "ZONE FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "SUA ACT",
+          "role": "institution"
+        },
+        {
+          "text": "FIXED-PLATFORM UNLAWFUL ACTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHERE? → TERRITORIAL / EEZ / HIGH SEAS",
+        "WHAT ACT? → PIRACY / TERROR / OTHER CRIME",
+        "MARITIME ZONES ACT → zone framework",
+        "SUA ACT → navigation / fixed-platform unlawful acts",
+        "PIRACY ACT → piracy-specific trigger"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WHERE? → TERRITORIAL / EEZ / HIGH SEAS",
+            "WHAT ACT? → PIRACY / TERROR / OTHER CRIME"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "MARITIME ZONES ACT → zone framework",
+            "SUA ACT → navigation / fixed-platform unlawful acts"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "PIRACY ACT → piracy-specific trigger",
+            "MUST REMEMBER: Maritime and coastal security uses layered jurisdiction and coordination..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Maritime and coastal security uses layered jurisdiction and coordination.",
+      "source_references": [
+        "Three-statute legal map",
+        "Piracy-location boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REACTIVE-TO-RESILIENT TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REACTIVE-TO-RESILIENT TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN COAST GUARD",
+          "role": "outcome"
+        },
+        {
+          "text": "COASTAL SECURITY SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "NETWORKED AWARENESS EXPANSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ANTI-MARITIME PIRACY ACT",
+          "role": "institution"
+        },
+        {
+          "text": "ANTICIPATORY CAPACITY + RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NAVAL DEFENCE IS NOT COAST GUARD LAW ENFORCEMENT, TERRITORIAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1977/1978 → INDIAN COAST GUARD",
+        "2005 → COASTAL SECURITY SCHEME",
+        "POST-26/11 → JOCs / NETWORKED AWARENESS EXPANSION",
+        "2022 → ANTI-MARITIME PIRACY ACT",
+        "NEXT → anticipatory capacity + recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "1977/1978 → INDIAN COAST GUARD",
+            "2005 → COASTAL SECURITY SCHEME"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POST-26/11 → JOCs / NETWORKED AWARENESS EXPANSION",
+            "2022 → ANTI-MARITIME PIRACY ACT"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NEXT → anticipatory capacity + recovery",
+            "CLOSE DISTINCTION: Naval defence is not Coast Guard law enforcement, territorial sea is..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Naval defence is not Coast Guard law enforcement, territorial sea is.",
+      "source_references": [
+        "Reactive-buildout lesson",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND END-STATE RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND END-STATE RAIL",
+          "role": "institution"
+        },
+        {
+          "text": "2022 PRELIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNCLOS ZONE CONCEPT, CROSS-OWNED",
+          "role": "comparison"
+        },
+        {
+          "text": "2022 MAINS",
+          "role": "evidence"
+        },
+        {
+          "text": "2025 MAINS",
+          "role": "primary"
+        },
+        {
+          "text": "SEA TRADE + CHALLENGES + WAY FORWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "MANDATE + AWARENESS + ACTION + COMMUNITY + RESILIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2022 PRELIMS → UNCLOS ZONE CONCEPT, CROSS-OWNED",
+        "2022 MAINS → ORGANISATIONAL / TECHNICAL / PROCEDURAL",
+        "2025 MAINS → SEA TRADE + CHALLENGES + WAY FORWARD",
+        "END → mandate + awareness + action + community + resilience",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State legal zone, agency mandate, lead"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "2022 PRELIMS → UNCLOS ZONE CONCEPT, CROSS-OWNED",
+            "2022 MAINS → ORGANISATIONAL / TECHNICAL / PROCEDURAL"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "2025 MAINS → SEA TRADE + CHALLENGES + WAY FORWARD",
+            "END → mandate + awareness + action + community + resilience"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State legal zone, agency mandate, lead-...",
+            "2022 PRELIMS → UNCLOS ZONE CONCEPT, CROSS-OWNED"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State legal zone, agency mandate, lead-...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State legal zone, agency mandate, lead-.",
+      "source_references": [
+        "Resilient end-state",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-07_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL COMMITTEE FOR STRENGTHENING MARITIME AND COASTAL SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINT OPERATIONS CENTRES (JOCS)",
+          "role": "comparison"
+        },
+        {
+          "text": "MUMBAI, VISAKHAPATNAM, KOCHI",
+          "role": "evidence"
+        },
+        {
+          "text": "IFC-IOR (2018) AS AN EXTERNAL-FACING EXTENSION",
+          "role": "primary"
+        },
+        {
+          "text": "WHILE ITS",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL ACADEMY OF COASTAL POLICING (ESTABLISHED 7 JULY 2026)",
+          "role": "comparison"
+        },
+        {
+          "text": "FISHERMEN-ENGAGEMENT ARCHITECTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "National Committee for Strengthening Maritime and Coastal Security",
+            "Joint Operations Centres (JOCs): Mumbai, Visakhapatnam, Kochi,",
+            "CAUTION: IFC-IOR (2018) as an external-facing extension: while its",
+            "National Academy of Coastal Policing (established 7 July 2026):"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Fishermen-engagement architecture: AIS transponders on larger",
+            "CAUTION: Sri Lanka fishermen-straying dispute as a boundary case between",
+            "CAUTION: Katchatheevu as a legacy-dispute boundary case: the 1974 cession",
+            "CAUTION: Sir Creek versus the Bangladesh maritime boundary as paired"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Piracy jurisdiction as a boundary case: the Anti-Maritime Piracy",
+            "CAUTION: Layered command without a single accountable authority risks",
+            "CAUTION: Technology-heavy solutions (AIS, VTMS, coastal radar) depend on",
+            "CAUTION: A new training academy addresses capacity, not command structure;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

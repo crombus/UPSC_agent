@@ -1,0 +1,1102 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-14",
+  "subject": "Science-and-Technology",
+  "title": "GENETIC ENGINEERING: GM CROPS AND CRISPR",
+  "short_route": "BREEDING AND ENGINEERING TAXONOMY → BT COTTON MECHANISM AND → DMH-11 CONSTRUCT AND STATUS → CRISPR TARGETING RAIL → EDITING-OUTCOME MATRIX → SDN CLASSIFICATION LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-14_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-14-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "b9c87bafc896921d1845b63f5d5d2e80d376250daf688d3ceae020aa8a3c14c3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BREEDING AND ENGINEERING TAXONOMY",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BREEDING AND ENGINEERING TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTIONAL CROSS",
+          "role": "outcome"
+        },
+        {
+          "text": "PARENTAL GENOMES RECOMBINE SEXUALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFSPRING OF SELECTED PARENTAL LINES",
+          "role": "evidence"
+        },
+        {
+          "text": "SEXUALLY INCOMPATIBLE DONOR DNA",
+          "role": "primary"
+        },
+        {
+          "text": "INTACT COMPATIBLE-POOL GENE",
+          "role": "outcome"
+        },
+        {
+          "text": "REARRANGED COMPATIBLE-POOL ELEMENTS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONVENTIONAL CROSS → parental genomes recombine sexually",
+        "HYBRID → offspring of selected parental lines",
+        "TRANSGENIC → sexually incompatible donor DNA",
+        "CISGENIC → intact compatible-pool gene",
+        "INTRAGENIC → rearranged compatible-pool elements"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CONVENTIONAL CROSS → parental genomes recombine sexually",
+            "HYBRID → offspring of selected parental lines"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "TRANSGENIC → sexually incompatible donor DNA",
+            "CISGENIC → intact compatible-pool gene"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "INTRAGENIC → rearranged compatible-pool elements",
+            "CONVENTIONAL CROSS → parental genomes recombine sexually"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CISGENIC → intact compatible-pool gene; INTRAGENIC → rearranged compatible-pool elements.",
+      "source_references": [
+        "Engineering-breeding boundary",
+        "Transgenic-cisgenic-intragenic boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BT COTTON MECHANISM AND STEWARDSHIP",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BT COTTON MECHANISM AND STEWARDSHIP",
+          "role": "mechanism"
+        },
+        {
+          "text": "CRY GENE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANT EXPRESSES BT PROTEIN",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIC BOLLWORM FEEDING",
+          "role": "evidence"
+        },
+        {
+          "text": "TOXIC ACTION IN SUSCEPTIBLE LARVAE",
+          "role": "primary"
+        },
+        {
+          "text": "SELECTION PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESISTANT ALLELES CAN INCREASE",
+          "role": "comparison"
+        },
+        {
+          "text": "REFUGE + STACKING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRY GENE → plant expresses Bt protein",
+        "SPECIFIC BOLLWORM FEEDING → toxic action in susceptible larvae",
+        "SELECTION PRESSURE → resistant alleles can increase",
+        "REFUGE + STACKING → slow resistance evolution",
+        "TRAP → insect resistance is not herbicide tolerance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CRY GENE → plant expresses Bt protein",
+            "SPECIFIC BOLLWORM FEEDING → toxic action in susceptible larvae"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SELECTION PRESSURE → resistant alleles can increase",
+            "REFUGE + STACKING → slow resistance evolution"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TRAP → insect resistance is not herbicide tolerance",
+            "CRY GENE → plant expresses Bt protein"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → insect resistance is not herbicide tolerance.",
+      "source_references": [
+        "Bt-cotton mechanism",
+        "Resistance-and-refuge mechanism"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DMH-11 CONSTRUCT AND STATUS",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DMH-11 CONSTRUCT AND STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "MALE STERILITY IN ONE PARENT",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILITY RESTORATION IN HYBRID",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTABLE MARKER",
+          "role": "evidence"
+        },
+        {
+          "text": "ENABLE HYBRIDISATION IN MUSTARD",
+          "role": "primary"
+        },
+        {
+          "text": "NO COMMERCIAL-CULTIVATION OR SETTLED-LEGALITY CLAIM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BARNASE → male sterility in one parent",
+        "BARSTAR → fertility restoration in hybrid",
+        "BAR → selectable marker",
+        "PURPOSE → enable hybridisation in mustard",
+        "STATUS → no commercial-cultivation or settled-legality claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "BARNASE → male sterility in one parent",
+            "BARSTAR → fertility restoration in hybrid"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BAR → selectable marker",
+            "PURPOSE → enable hybridisation in mustard"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → no commercial-cultivation or settled-legality claim",
+            "BARNASE → male sterility in one parent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PURPOSE → enable hybridisation in mustard; STATUS → no commercial-cultivation or settled-legality claim.",
+      "source_references": [
+        "DMH-11 mechanism-status boundary",
+        "GM-mustard legal-status boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CRISPR TARGETING RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CRISPR TARGETING RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "GUIDE RNA",
+          "role": "outcome"
+        },
+        {
+          "text": "SEQUENCE RECOGNITION",
+          "role": "comparison"
+        },
+        {
+          "text": "TARGET DNA + PAM",
+          "role": "evidence"
+        },
+        {
+          "text": "PERMITTED BINDING CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "DOUBLE-STRAND CLEAVAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CELLULAR REPAIR",
+          "role": "comparison"
+        },
+        {
+          "text": "CREATES FINAL EDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GUIDE RNA → sequence recognition",
+        "TARGET DNA + PAM → permitted binding context",
+        "CAS9 → double-strand cleavage",
+        "CELLULAR REPAIR → creates final edit",
+        "RULE → targeting tool and repair outcome are distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "GUIDE RNA → sequence recognition",
+            "TARGET DNA + PAM → permitted binding context"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAS9 → double-strand cleavage",
+            "CELLULAR REPAIR → creates final edit"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → targeting tool and repair outcome are distinct",
+            "GUIDE RNA → sequence recognition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → targeting tool and repair outcome are distinct.",
+      "source_references": [
+        "CRISPR targeting boundary",
+        "Repair-outcome boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EDITING-OUTCOME MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EDITING-OUTCOME MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPLATE-FREE INDELS AND KNOCKOUT",
+          "role": "outcome"
+        },
+        {
+          "text": "DONOR-TEMPLATE SUBSTITUTION OR INSERTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BASE EDITING",
+          "role": "evidence"
+        },
+        {
+          "text": "CHEMICAL BASE CONVERSION WITHOUT DSB",
+          "role": "primary"
+        },
+        {
+          "text": "PRIME EDITING",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPLATED SHORT WRITING WITHOUT DSB",
+          "role": "comparison"
+        },
+        {
+          "text": "PRECISION MECHANISMS ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NHEJ → template-free indels and knockout",
+        "HDR → donor-template substitution or insertion",
+        "BASE EDITING → chemical base conversion without DSB",
+        "PRIME EDITING → templated short writing without DSB",
+        "TRAP → precision mechanisms are not interchangeable"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "NHEJ → template-free indels and knockout",
+          "BASE EDITING → chemical base conversion without DSB",
+          "TRAP → precision mechanisms are not interchangeable"
+        ],
+        [
+          "HDR → donor-template substitution or insertion",
+          "PRIME EDITING → templated short writing without DSB",
+          "NHEJ → template-free indels and knockout"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "NHEJ → template-free indels and knockout",
+            "HDR → donor-template substitution or insertion"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BASE EDITING → chemical base conversion without DSB",
+            "PRIME EDITING → templated short writing without DSB"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → precision mechanisms are not interchangeable",
+            "NHEJ → template-free indels and knockout"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRIME EDITING → templated short writing without DSB.",
+      "source_references": [
+        "Repair-outcome boundary",
+        "Base-prime editing boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SDN CLASSIFICATION LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SDN CLASSIFICATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "NO TEMPLATE; SMALL EDIT",
+          "role": "caution"
+        },
+        {
+          "text": "SHORT TEMPLATE; DEFINED SMALL EDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "GENE-SIZED TARGETED INSERTION",
+          "role": "evidence"
+        },
+        {
+          "text": "2022 LIGHTER TRACK",
+          "role": "primary"
+        },
+        {
+          "text": "SDN-1/2 FREE OF EXOGENOUS DNA",
+          "role": "outcome"
+        },
+        {
+          "text": "FULL SCRUTINY",
+          "role": "comparison"
+        },
+        {
+          "text": "SDN-3 REMAINS OUTSIDE EXEMPTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SDN-1 → no template; small edit",
+        "SDN-2 → short template; defined small edit",
+        "SDN-3 → gene-sized targeted insertion",
+        "2022 LIGHTER TRACK → SDN-1/2 free of exogenous DNA",
+        "FULL SCRUTINY → SDN-3 remains outside exemption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SDN-1 → no template; small edit",
+            "SDN-2 → short template; defined small edit"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SDN-3 → gene-sized targeted insertion",
+            "2022 LIGHTER TRACK → SDN-1/2 free of exogenous DNA"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "FULL SCRUTINY → SDN-3 remains outside exemption",
+            "SDN-1 → no template; small edit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2022 LIGHTER TRACK → SDN-1/2 free of exogenous DNA.",
+      "source_references": [
+        "SDN-category boundary",
+        "2022 exemption-guideline boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SIX-TIER BIOSAFETY INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIX-TIER BIOSAFETY INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "RECOMBINANT-DNA ADVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL DAY-TO-DAY OVERSIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "RESEARCH AND CONTAINED STAGES",
+          "role": "evidence"
+        },
+        {
+          "text": "ENVIRONMENTAL RELEASE AND LARGE-SCALE USE",
+          "role": "primary"
+        },
+        {
+          "text": "SBCC + DLC",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE AND DISTRICT MONITORING",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RDAC → recombinant-DNA advice",
+        "IBSC → institutional day-to-day oversight",
+        "RCGM / DBT → research and contained stages",
+        "GEAC / MoEF&CC → environmental release and large-scale use",
+        "SBCC + DLC → state and district monitoring"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "RDAC → recombinant-DNA advice",
+            "IBSC → institutional day-to-day oversight"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "RCGM / DBT → research and contained stages",
+            "GEAC / MoEF&CC → environmental release and large-scale use"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SBCC + DLC → state and district monitoring",
+            "RDAC → recombinant-DNA advice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SBCC + DLC → state and district monitoring.",
+      "source_references": [
+        "Six-tier biosafety architecture",
+        "GEAC-RCGM-FSSAI split"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LAW AND REGULATOR SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAW AND REGULATOR SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "RULES 1989",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE GMO BIOSAFETY FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTAINED WORK",
+          "role": "evidence"
+        },
+        {
+          "text": "ENVIRONMENTAL APPRAISAL",
+          "role": "primary"
+        },
+        {
+          "text": "GM-FOOD SAFETY APPROVAL AND LABELLING TRACK",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "AGRONOMIC EVALUATION AND VARIETY PROCESSES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RULES 1989 → core GMO biosafety framework",
+        "RCGM → research / contained work",
+        "GEAC → environmental appraisal",
+        "FSSAI → GM-food safety approval and labelling track",
+        "ICAR / CROP SYSTEM → agronomic evaluation and variety processes"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "RULES 1989 → core GMO biosafety framework",
+          "GEAC → environmental appraisal",
+          "ICAR / CROP SYSTEM → agronomic evaluation and variety processes"
+        ],
+        [
+          "RCGM → research / contained work",
+          "FSSAI → GM-food safety approval and labelling track",
+          "RULES 1989 → core GMO biosafety framework"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "RULES 1989 → core GMO biosafety framework",
+            "RCGM → research / contained work"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GEAC → environmental appraisal",
+            "FSSAI → GM-food safety approval and labelling track"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ICAR / CROP SYSTEM → agronomic evaluation and variety processes",
+            "RULES 1989 → core GMO biosafety framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ICAR / CROP SYSTEM → agronomic evaluation and variety processes.",
+      "source_references": [
+        "GEAC-RCGM-FSSAI split",
+        "Rules-1989 boundary",
+        "Approval-monitoring firewall"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIAN DECISION TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIAN DECISION TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "09 FEB 2010",
+          "role": "outcome"
+        },
+        {
+          "text": "BT BRINJAL MORATORIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "30 MAR 2022",
+          "role": "evidence"
+        },
+        {
+          "text": "SDN-1/2 EXEMPTION OM",
+          "role": "primary"
+        },
+        {
+          "text": "17 MAY 2022",
+          "role": "outcome"
+        },
+        {
+          "text": "DBT GENOME-EDITED PLANT GUIDELINES",
+          "role": "comparison"
+        },
+        {
+          "text": "23 JUL 2024",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "09 FEB 2010 → Bt brinjal moratorium",
+        "30 MAR 2022 → SDN-1/2 exemption OM",
+        "17 MAY 2022 → DBT genome-edited plant guidelines",
+        "23 JUL 2024 → Supreme Court DMH-11 split verdict",
+        "04 APR 2025 → two genome-edited rice varieties announced"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "09 FEB 2010 → Bt brinjal moratorium",
+            "30 MAR 2022 → SDN-1/2 exemption OM"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "17 MAY 2022 → DBT genome-edited plant guidelines",
+            "23 JUL 2024 → Supreme Court DMH-11 split verdict"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "04 APR 2025 → two genome-edited rice varieties announced",
+            "09 FEB 2010 → Bt brinjal moratorium"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "23 JUL 2024 → Supreme Court DMH-11 split verdict.",
+      "source_references": [
+        "2022 exemption-guideline boundary",
+        "Bt-brinjal moratorium boundary",
+        "GM-mustard legal-status boundary",
+        "Genome-edited-rice status"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BIOSAFETY MECHANISM MAP",
+      "structural_type": "causal-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BIOSAFETY MECHANISM MAP",
+          "role": "mechanism"
+        },
+        {
+          "text": "TARGET PEST PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESISTANCE EVOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SEED MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "GENE-FLOW EXPOSURE",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRAIT EXPRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-TARGET EXPOSURE PATHWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "SIMILAR DNA SITES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TARGET PEST PRESSURE → resistance evolution",
+        "POLLEN / SEED MOVEMENT → gene-flow exposure",
+        "TRAIT EXPRESSION → non-target exposure pathway",
+        "SIMILAR DNA SITES → possible off-target edit",
+        "RESPONSE → characterisation, mitigation and monitoring"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "TARGET PEST PRESSURE → resistance evolution",
+            "POLLEN / SEED MOVEMENT → gene-flow exposure"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRAIT EXPRESSION → non-target exposure pathway",
+            "SIMILAR DNA SITES → possible off-target edit"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RESPONSE → characterisation, mitigation and monitoring",
+            "TARGET PEST PRESSURE → resistance evolution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIMILAR DNA SITES → possible off-target edit; RESPONSE → characterisation, mitigation and monitoring.",
+      "source_references": [
+        "Resistance-and-refuge mechanism",
+        "Gene-flow and non-target mechanism",
+        "Off-target-characterisation boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FARMER-LIVELIHOOD EVALUATION",
+      "structural_type": "answer-spine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FARMER-LIVELIHOOD EVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "INTENDED AGRONOMIC CONSTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "FIELD PERFORMANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "YIELD STABILITY AND INPUT EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "FARM ECONOMICS",
+          "role": "primary"
+        },
+        {
+          "text": "SEED COST, LABOUR, PESTICIDE AND RISK",
+          "role": "caution"
+        },
+        {
+          "text": "EXTENSION, COMPETITION, STEWARDSHIP AND MARKETS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTEXT-SPECIFIC WELFARE, NOT TECHNIQUE DETERMINISM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRAIT → intended agronomic constraint",
+        "FIELD PERFORMANCE → yield stability and input effect",
+        "FARM ECONOMICS → seed cost, labour, pesticide and risk",
+        "INSTITUTIONS → extension, competition, stewardship and markets",
+        "VERDICT → context-specific welfare, not technique determinism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "TRAIT → intended agronomic constraint",
+            "FIELD PERFORMANCE → yield stability and input effect"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "FARM ECONOMICS → seed cost, labour, pesticide and risk",
+            "INSTITUTIONS → extension, competition, stewardship and markets"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → context-specific welfare, not technique determinism",
+            "TRAIT → intended agronomic constraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FARM ECONOMICS → seed cost, labour, pesticide and risk.",
+      "source_references": [
+        "Farmer-livelihood boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "APPROVAL AND CLAIM FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "APPROVAL AND CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "LAB RESULT",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDED MOLECULAR PROPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "FIELD PERMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIAL STAGE",
+          "role": "primary"
+        },
+        {
+          "text": "FOOD APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE REGULATORS",
+          "role": "comparison"
+        },
+        {
+          "text": "VARIETY RELEASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAB RESULT → bounded molecular proposition",
+        "CONTAINED / FIELD PERMISSION → trial stage",
+        "ENVIRONMENTAL / FOOD APPROVAL → separate regulators",
+        "VARIETY RELEASE / SEED ACCESS / CULTIVATION → separate evidence",
+        "POST-RELEASE MONITORING → resistance, ecology and farmer outcomes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "LAB RESULT → bounded molecular proposition",
+            "CONTAINED / FIELD PERMISSION → trial stage"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ENVIRONMENTAL / FOOD APPROVAL → separate regulators",
+            "VARIETY RELEASE / SEED ACCESS / CULTIVATION → separate evidence"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "POST-RELEASE MONITORING → resistance, ecology and farmer outcomes",
+            "LAB RESULT → bounded molecular proposition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POST-RELEASE MONITORING → resistance, ecology and farmer outcomes.",
+      "source_references": [
+        "Approval-monitoring firewall",
+        "DMH-11 mechanism-status boundary",
+        "Genome-edited-rice status"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INNOVATION-SPEED DEBATE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIGHTER TREATMENT FOR SDN-1/SDN-2 CAN ACCELERATE TRAIT DEVELOPMENT AND",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOSAFETY DEBATE",
+          "role": "evidence"
+        },
+        {
+          "text": "CRITICS ARGUE THAT EVEN PRECISE EDITS MAY HAVE ECOLOGICAL",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC-TRUST DEBATE",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATORY DIFFERENTIATION IS SCIENTIFICALLY MEANINGFUL, BUT PUBLIC COMMUNICATION CAN",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE AND TRACEABILITY DEBATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Innovation-speed debate: lighter treatment for SDN-1/SDN-2 can accelerate trait development and public-sector crop improvement.",
+            "CAUTION: Biosafety debate: critics argue that even precise edits may have ecological or off-target consequences needing robust oversight.",
+            "CAUTION: Public-trust debate: regulatory differentiation is scientifically meaningful, but public communication can lag behind.",
+            "CAUTION: Trade and traceability debate: export markets may classify or monitor edited crops differently."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Federal/agricultural politics: crop adoption interacts with farmer trust, seed systems and state-level political acceptance.",
+            "CAUTION: Gene editing could matter for climate resilience, disease resistance, nutritional traits and public-sector breeding.",
+            "CAUTION: GM and gene-editing capacity also reflect India’s ability to convert molecular biology into agricultural technology.",
+            "CAUTION: A nuanced regulatory model can support innovation without erasing biosafety review."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Ecological uncertainty: gene flow, pollinator concerns, resistance development and biodiversity effects remain important.",
+            "CAUTION: Institutional complexity: research oversight, biosafety testing, environmental release and agricultural release involve different bodies.",
+            "CAUTION: Public communication gap: technical distinctions between transgenic and gene-edited products are not easy to communicate in politics.",
+            "CAUTION: Legal uncertainty: later judicial or regulatory developments can affect rollout status, especially in contentious cases such as GM mustard."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

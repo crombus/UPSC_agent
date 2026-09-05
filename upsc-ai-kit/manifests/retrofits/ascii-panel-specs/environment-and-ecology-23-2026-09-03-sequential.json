@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 23",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-23",
+      "display_title": "Desertification UNCCD and Land Degradation",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-23_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Land concept nesting",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LAND DEGRADATION -> broad productivity and function loss",
+            "DESERTIFICATION -> degradation inside defined drylands",
+            "DROUGHT -> abnormal water-deficit event or hazard",
+            "INTERACTION -> drought can intensify degradation",
+            "NO MERGER -> process event and spatial scope differ"
+          ],
+          "source_references": [
+            "Land-degradation umbrella",
+            "Desertification dryland boundary",
+            "Drought event boundary"
+          ]
+        },
+        {
+          "title": "Drought-risk triangle",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "HAZARD -> severity duration timing and spatial extent",
+            "EXPOSURE -> people crops livestock ecosystems and assets",
+            "VULNERABILITY -> sensitivity and coping capacity",
+            "RISK -> interaction of all three",
+            "LOSS -> realised impact, not rainfall deficit alone"
+          ],
+          "source_references": [
+            "Drought-risk components"
+          ]
+        },
+        {
+          "title": "Rio convention map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "UNCCD -> desertification land degradation and drought effects",
+            "UNFCCC -> climate system and greenhouse-gas response",
+            "CBD -> biodiversity conservation use and benefit-sharing",
+            "SYNERGY -> land connects all three",
+            "RULE -> institutions reports and decisions remain distinct"
+          ],
+          "source_references": [
+            "UNCCD treaty identity",
+            "Rio-convention relationship"
+          ]
+        },
+        {
+          "title": "UNCCD implementation rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TREATY OBJECTIVE -> cooperation and land stewardship",
+            "NATIONAL ACTION PROGRAMME -> country planning",
+            "ENABLING POLICY AND FINANCE -> implementation capacity",
+            "PARTICIPATION -> land users and local institutions",
+            "MONITORING AND OUTCOME -> separate evidence stage"
+          ],
+          "source_references": [
+            "National action pathway",
+            "Target-decision-outcome boundary"
+          ]
+        },
+        {
+          "title": "LDN accounting frame",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BASELINE -> starting condition",
+            "SPATIAL SCALE -> accounting boundary",
+            "TEMPORAL SCALE -> comparison period",
+            "AMOUNT AND QUALITY -> land resource condition",
+            "NEUTRALITY -> stable or increased functional resource base"
+          ],
+          "source_references": [
+            "LDN definition",
+            "LDN baseline boundary"
+          ]
+        },
+        {
+          "title": "LDN response hierarchy",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "AVOID -> protect healthy land first",
+            "REDUCE -> slow current degradation",
+            "REVERSE -> restore or rehabilitate degraded land",
+            "MONITOR -> indicators against baseline",
+            "SAFEGUARD -> no automatic ecological equivalence"
+          ],
+          "source_references": [
+            "Avoid-reduce-reverse hierarchy",
+            "Neutrality-not-zero boundary"
+          ]
+        },
+        {
+          "title": "Indicator evidence board",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LAND COVER -> class and conversion pattern",
+            "LAND PRODUCTIVITY -> trend in productive function",
+            "SOIL ORGANIC CARBON -> soil carbon condition",
+            "METHOD LIMIT -> resolution baseline and interpretation",
+            "GROUND CHECK -> soil water vegetation and livelihoods"
+          ],
+          "source_references": [
+            "Indicator-evidence boundary",
+            "Remote-ground integration"
+          ]
+        },
+        {
+          "title": "Degradation driver web",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "CLIMATE VARIABILITY -> water stress and disturbance",
+            "VEGETATION LOSS OR OVERGRAZING -> exposed soil",
+            "EROSION OR SALINISATION -> declining function",
+            "UNSUSTAINABLE WATER USE -> hydrological stress",
+            "FEEDBACK -> lower resilience and greater drought impact"
+          ],
+          "source_references": [
+            "Driver interaction"
+          ]
+        },
+        {
+          "title": "Restoration evidence ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "MONEY SPENT -> financial input",
+            "AREA TREATED -> programme output",
+            "TREES OR STRUCTURES -> physical output",
+            "FUNCTION RECOVERED -> ecological outcome",
+            "PERSISTENCE AND LIVELIHOODS -> long-term result"
+          ],
+          "source_references": [
+            "Restoration-quality boundary"
+          ]
+        },
+        {
+          "title": "Commensurability test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SOIL -> fertility erosion and carbon function comparable",
+            "WATER -> infiltration runoff and aquifer effect comparable",
+            "BIODIVERSITY -> native open or wooded system respected",
+            "TENURE AND LIVELIHOOD -> users and rights considered",
+            "VERDICT -> aggregate area alone cannot prove replacement"
+          ],
+          "source_references": [
+            "Commensurability limit",
+            "Rangeland and open-ecosystem boundary"
+          ]
+        },
+        {
+          "title": "Dryland response chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOIL COVER -> reduce erosion",
+            "INFILTRATION AND RUNOFF -> watershed treatment",
+            "DEMAND -> groundwater crops and grazing pressure",
+            "INSTITUTIONS -> commons tenure and participation",
+            "ADAPTIVE MONITORING -> drought and recovery feedback"
+          ],
+          "source_references": [
+            "Watershed response chain",
+            "Rangeland and open-ecosystem boundary"
+          ]
+        },
+        {
+          "title": "UNCCD answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> degradation desertification drought and risk",
+            "PLACE -> UNCCD and LDN within distinct treaty roles",
+            "ACCOUNT -> baseline scale period indicators and hierarchy",
+            "TEST -> causes quality commensurability and open ecosystems",
+            "VERIFY -> target atlas COP finance and measured outcome"
+          ],
+          "source_references": [
+            "Target-decision-outcome boundary",
+            "Current evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

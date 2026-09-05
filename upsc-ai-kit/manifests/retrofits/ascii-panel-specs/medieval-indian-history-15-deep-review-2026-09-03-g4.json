@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-15",
+      "display_title": "Akbar: Consolidation & Expansion of the Empire",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Consolidation before durable expansion",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "1555 RESTORATION -> Mughal foothold, not a settled empire",
+            "1556 CRISIS -> Hemu, Sikandar Sur, Afghan strength and Kabul uncertainty",
+            "REGENCY -> Bairam Khan stabilises command during Akbar's minority",
+            "PERSONAL RULE -> household and noble alternatives are disciplined",
+            "EXPANSION -> campaigns are joined to alliances, ranks, jagirs and retention",
+            "VERDICT: durability came from reconquest + elite integration + institutions.",
+            "MUST REMEMBER: After Panipat II (1556), Akbar consolidated through campaigns, diplomacy, elite",
+            "  incorporation and negotiated alliances."
+          ],
+          "source_references": [
+            "Consolidation",
+            "State building",
+            "Elite integration",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Akbar chronology 1542-1605",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1542 Amarkot -> 1556 Kalanaur and Second Panipat",
+            "1556-60 -> Bairam Khan regency | 1562 -> Adham Khan crisis",
+            "1567 -> Uzbek challenge broken | 1568 -> Chittor",
+            "1572-73 -> Gujarat conquest and rapid return",
+            "1576 -> Daud Khan defeated; Haldighati",
+            "1580-81 -> eastern rebellion and Mirza Hakim | 1605 -> Akbar dies."
+          ],
+          "source_references": [
+            "Chronology",
+            "Panipat II",
+            "Chittor",
+            "Gujarat",
+            "Haldighati",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The fractured field of 1556",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HUMAYUN DIES -> young Akbar at Kalanaur + Bairam regency",
+            "SUR FIELD -> Adil Shah/Hemu + Sikandar Sur + Afghan networks",
+            "HEMU -> captures Agra/Delhi with largely Afghan political-military base",
+            "PANIPAT II -> captured guns + cavalry/elephants + command + arrow contingency",
+            "OUTCOME -> Delhi-Agra recovered, not all Afghan/frontier resistance ended",
+            "SOURCE -> numbers/execution differ across imperial and hostile narratives",
+            "VERDICT: restoration required years of consolidation after battlefield success."
+          ],
+          "source_references": [
+            "Hemu",
+            "Sikandar Sur",
+            "Second Panipat",
+            "Contingency",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Bairam Khan to personal rule",
+          "structural_type": "process",
+          "ascii_lines": [
+            "1556-60 -> wakil/regency stabilizes army, nobles and restored centre",
+            "TENSION -> appointments + faction + access + Akbar's maturing sovereignty",
+            "DISMISSAL -> authority struggle; Shia identity alone is inadequate",
+            "REBELLION/PARDON -> coercion and incorporation remain separate choices",
+            "HOUSEHOLD -> Maham Anaga/Adham/Atka = patronage networks, not gossip",
+            "1562 ADHAM CRISIS -> emperor becomes terminal arbiter",
+            "RULE: personal rule reorganized faction; it did not abolish faction."
+          ],
+          "source_references": [
+            "Bairam Khan",
+            "Wakil mutlaq",
+            "Adham Khan",
+            "Personal rule",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Noble and Uzbek challenge",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "UZBEK/TURANI NOBLES -> jagir + command + regional base + status",
+            "KHAN-I-ZAMAN -> armed challenge to central redistribution/supervision",
+            "MIRZAS -> Timurid genealogy and western networks",
+            "TOOLS -> campaign + pardon + transfer + confiscation + promotion",
+            "1567 -> major Uzbek resistance broken; expansion space widens",
+            "LIMIT -> nobles remain essential military/provincial partners",
+            "VERDICT: centralization was negotiated coercion, not instant absolutism."
+          ],
+          "source_references": [
+            "Uzbek rebellion",
+            "Khan-i-Zaman",
+            "Noble control",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Malwa and Garh-Katanga: coercive limits",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MALWA -> Baz Bahadur defeated; Adham corrected; Baz later enters Mughal service",
+            "GARH-KATANGA -> Rani Durgavati resists; conquest brings death and plunder",
+            "IMPERIAL VIEW -> expansion and agent discipline | REGIONAL VIEW -> agency and resources",
+            "TRAP: integration joined selective accommodation to severe coercion."
+          ],
+          "source_references": [
+            "Malwa",
+            "Baz Bahadur",
+            "Rani Durgavati",
+            "Garh-Katanga",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rajput policy in phases",
+          "structural_type": "process",
+          "ascii_lines": [
+            "AMBER 1562 -> Bhara Mal alliance; marriage is one mechanism",
+            "SERVICE -> Bhagwant Das/Man Singh + mansab/governorship/outside jagir",
+            "WATAN -> local rooted interest retained within imperial service",
+            "RANTHAMBHOR/SURJAN HADA -> service without universal marriage",
+            "CHITTOR 1568 -> siege/massacre + routes/symbolic sovereignty",
+            "MEWAR -> Udai Singh/Pratap reject submission and continue resistance",
+            "RULE: alliance + honour + rank + force; no homogeneous Rajput response."
+          ],
+          "source_references": [
+            "Rajput policy",
+            "Amber",
+            "Watan jagir",
+            "Surjan Hada",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chittor, Ranthambhor and the Mewar exception",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "RAJASTHAN -> flank security and routes toward Malwa and Gujarat",
+            "CHITTOR -> strategic fort, symbolic resistance and massacre | RANTHAMBHOR -> settlement",
+            "MOST RAJAS -> honour, office and local status | MEWAR -> submission remains unresolved",
+            "RULE: force backed settlement; settlement did not erase refusal or violence."
+          ],
+          "source_references": [
+            "Chittor",
+            "Ranthambhor",
+            "Mewar",
+            "Rajput settlement",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Gujarat and Bengal: conquest plus retention",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "GUJARAT 1572-73 -> ports/revenue + conquest + rapid return against revolt",
+            "CONTROL -> appointments/routes/garrisons convert victory into retention",
+            "BIHAR-BENGAL 1574-76 -> Tukaroi/Rajmahal + Daud Karrani defeat",
+            "RIVERS -> boats + monsoon + local chiefs/zamindars + recurring Afghan networks",
+            "ODISHA -> eastern extension remained uneven",
+            "COMPARE HUMAYUN -> victory alone failed; Akbar built repeated follow-up",
+            "CAUTION: neither region became permanently quiet in one campaign."
+          ],
+          "source_references": [
+            "Gujarat",
+            "Rapid march",
+            "Bengal",
+            "Daud Khan",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Haldighati: coalition and outcome",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "1576 MUGHAL -> Man Singh leads mixed imperial service army",
+            "MEWAR -> Pratap + Rajput retainers + Bhils + Hakim Khan Sur Afghans",
+            "BATTLE -> Mughal field advantage; no capture/death of Pratap",
+            "AFTERMATH -> Chavand + guerrilla/terrain resistance + partial recovery",
+            "MEMORY -> heroic/communal/national narratives require source comparison",
+            "LATER SETTLEMENT -> Amar Singh/Jahangir, outside Akbar's reign",
+            "VERDICT: battle did not end Mewar autonomy/resistance.",
+            "CLOSE DISTINCTION: Rajput policy was differentiated across houses and moments; alliance,",
+            "  service, resistance and coercion coexisted."
+          ],
+          "source_references": [
+            "Haldighati",
+            "Man Singh",
+            "Rana Pratap",
+            "Hakim Khan Sur",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Rebellion, frontier and source method",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "1580-81 -> eastern rebellion + Mirza Hakim/Kabul pressure",
+            "LAHORE 1585-98 -> mobile court supervises north-west",
+            "ROSHANAI/PASHTUN FIELD -> religion + society + frontier politics",
+            "KASHMIR 1586 | SINDH 1591 | QANDAHAR 1595 -> different control methods",
+            "DECCAN -> Chand Bibi/Berar/Ahmadnagar + Khandesh/Asirgarh, unstable",
+            "SOURCE -> Akbarnama teleology + Badauni hostility + regional/material checks",
+            "RULE: frontier is an uneven process, not a coloured boundary line.",
+            "EVIDENCE LIMIT: Expansion maps indicate changing claims and fronts, not uniform administration",
+            "  over every shaded territory."
+          ],
+          "source_references": [
+            "1580-81 rebellion",
+            "Mirza Hakim",
+            "Abul Fazl",
+            "Fatehpur Sikri",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Topic 15 answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "SOURCE -> imperial/hostile/regional/admin/material comparison",
+            "1556-67 -> Panipat + regency + household/noble consolidation",
+            "MAP -> region/date + conquest/annexation/alliance/tribute/frontier outcome",
+            "ELITES -> Rajput/Afghan/Mughal diversity + rank/watan/jagir + coercion",
+            "MOBILITY -> Agra/Fatehpur/Lahore/camp + roads/forts/logistics",
+            "BOUNDARY -> Topic 16 administration + Topic 17 religion + Topic 18 Deccan",
+            "VERDICT -> durable but uneven empire; imperial integration, not nation-building."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Coercion and accommodation",
+            "Durability",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\15_Akbar-Consolidation-and-Expansion.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g3\\medieval-indian-history-15_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-15\\g4\\medieval-indian-history-15_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

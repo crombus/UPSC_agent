@@ -1,0 +1,1711 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-01T11:30:49.3582+05:30",
+  "subject": "World History",
+  "section": "Subject-wide Syllabus",
+  "represented": 21,
+  "expected": 21,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_world_history_deep_review (cwd=tools)",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_authored_q_heading_mcqs_are_rotated (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_contested_topics_are_qualified (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_long_output_paths_remain_windows_safe (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_manifest_order_contains_all_twenty_one_topics (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_original_mains_gets_full_exam_contract (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_porcelain_parser_preserves_unicode_spaces_and_renames (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_review_controls_cover_exact_chronology (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_review_lines_respect_ascii_width (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\ntest_source_contract_requires_non_eurocentric_discipline (test_regenerate_world_history_deep_review.WorldHistoryDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.038s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_01_02_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_america250_is_the_only_direct_live_linkage_in_this_batch (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic01_keeps_ideas_crisis_and_mobilisation_together (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic01_thinker_dates_and_doctrines_are_preserved (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic02_chronology_and_documents_are_not_conflated (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic02_rights_and_exclusions_are_balanced (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\ntest_topic02_verified_2019_demand_is_solved (test_generate_world_history_01_02_sequential.WorldHistory0102GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.124s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_03_04_sequential (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic03_phase_chronology_is_precise (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic03_terror_napoleon_and_exclusions_are_balanced (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic03_verified_2019_and_2025_demands_are_solved (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic04_invention_sequence_and_social_response (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topic04_verified_railway_and_handicraft_demands_are_solved (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\ntest_topics03_04_keep_bounded_no_live_item_language (test_generate_world_history_03_04_sequential.WorldHistory0304GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.112s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_05_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_belgium_1848_and_dual_verdict_are_bounded (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_concert_holy_alliance_and_congresses_are_distinct (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_topic05_keeps_bounded_no_live_item_language (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\ntest_vienna_principles_and_map_changes_are_preserved (test_generate_world_history_05_sequential.WorldHistory05GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.059s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_06_07_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_no_unverified_pyq_is_claimed (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_scramble_precision_and_african_agency (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_topic06_remains_bounded_without_live_source (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_topic07_uses_only_the_verified_au_linkage (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\ntest_unification_chronology_and_comparison (test_generate_world_history_06_07_sequential.WorldHistory0607GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.101s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_08_09_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_latin_america_five_paths_and_social_verdict (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_topic08_uses_only_the_verified_panama_linkage (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_topic09_exact_pyq_and_balance_qualification (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\ntest_topic09_remains_bounded_without_live_source (test_generate_world_history_08_09_sequential.WorldHistory0809GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.110s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_10_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_course_total_war_and_treaty_cluster (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_current_linkage_remains_bounded (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\ntest_topic09_pyq_not_misowned (test_generate_world_history_10_sequential.WorldHistory10GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.065s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_11_12_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_fascism_comparison_and_power_transfer_are_precise (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_interwar_chronology_and_collective_security_verdict (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_topic11_uses_only_verified_locarno_linkage (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_topic12_uses_bounded_un_remembrance_link (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\ntest_topic12_verified_2021_demand_is_transparent (test_generate_world_history_11_12_sequential.WorldHistory1112GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.323s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_13_14_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_batch_contract (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_no_unverified_pyqs_are_claimed (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_revolution_chronology_and_stalinist_cost_are_bounded (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_second_world_war_is_global_cumulative_and_source_bounded (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_topic13_remains_bounded_without_live_source (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\ntest_topic14_uses_only_bounded_nuremberg_linkage (test_generate_world_history_13_14_sequential.WorldHistory1314GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.301s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_15_sequential (cwd=tools)",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_cold_war_chronology_and_global_agency_are_precise (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_middle_east_and_detente_are_qualified (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_no_unverified_pyq_is_claimed (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_only_verified_diplomacy_museum_links_are_used (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_15_sequential.WorldHistory15GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.167s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_16_17_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_china_chronology_reform_and_bloc_diversity_are_precise (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_topic16_uses_only_verified_un80_sources (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_topic17_remains_bounded_without_live_source (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_topics16_17_have_no_claimed_pyq (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\ntest_un_structure_and_case_categories_are_precise (test_generate_world_history_16_17_sequential.WorldHistory1617GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.299s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_18_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_both_legacy_pyq_demands_are_transparent_and_solved (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_decolonisation_routes_and_postcolonial_mechanisms_are_specific (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\ntest_topic18_uses_only_verified_c24_sources (test_generate_world_history_18_sequential.WorldHistory18GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.177s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_19_20_sequential (cwd=tools)",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_spec_is_registered_for_production_rendering (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_latin_america_cases_and_mechanisms_are_specific (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_legacy_2013_depression_demand_is_neutral_and_solved (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_topic19_has_no_claimed_pyq (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_topic19_uses_only_verified_argentina_source (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_topic20_uses_only_verified_un_economy_and_population_sources (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\ntest_world_economy_population_and_depression_logic_is_precise (test_generate_world_history_19_20_sequential.WorldHistory1920GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.316s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_world_history_21_sequential (cwd=tools)",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_spec_is_registered_for_production_rendering (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_collapse_chronology_and_causal_boundaries_are_precise (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_eu_and_new_order_distinctions_are_precise (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_topic21_has_no_claimed_pyq (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\ntest_topic21_uses_only_verified_state_department_sources (test_generate_world_history_21_sequential.WorldHistory21GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.158s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Ran 13 tests in 1.655s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 22.512s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "world-history-01",
+      "title": "Enlightenment and Age of Revolutions Overview",
+      "old_record_id": "world-history-01:learner-v2:g3",
+      "new_record_id": "world-history-01:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-01-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:06:56.34931+05:30",
+      "identities": {
+        "export": "world-history-01:learner-v2:g4",
+        "master": "world-history-01:learner-v2:g4",
+        "review": "world-history-01:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-01:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-01\\world-history-01-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-01:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-01:learner-v2:g3",
+          "generation": 3,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-01-learner-v2-g3-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-01:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-01-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-01:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "world-history-02",
+      "title": "American Revolution",
+      "old_record_id": "world-history-02:learner-v2:g2",
+      "new_record_id": "world-history-02:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-02-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:07:19.021712+05:30",
+      "identities": {
+        "export": "world-history-02:learner-v2:g3",
+        "master": "world-history-02:learner-v2:g3",
+        "review": "world-history-02:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-02:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-02\\world-history-02-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-02:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-02:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-02-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-02:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-02-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-02:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-03",
+      "title": "French Revolution and Napoleon",
+      "old_record_id": "world-history-03:learner-v2:g2",
+      "new_record_id": "world-history-03:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-03-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:07:40.948526+05:30",
+      "identities": {
+        "export": "world-history-03:learner-v2:g3",
+        "master": "world-history-03:learner-v2:g3",
+        "review": "world-history-03:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-03:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-03\\world-history-03-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-03:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-03:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-03-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-03:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-03-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-03:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-04",
+      "title": "Industrial Revolution",
+      "old_record_id": "world-history-04:learner-v2:g2",
+      "new_record_id": "world-history-04:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-04-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:08:03.972564+05:30",
+      "identities": {
+        "export": "world-history-04:learner-v2:g3",
+        "master": "world-history-04:learner-v2:g3",
+        "review": "world-history-04:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-04:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-04\\world-history-04-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-04:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-04:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-04-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-04:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-04-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-04:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-05",
+      "title": "Congress of Vienna and Concert of Europe",
+      "old_record_id": "world-history-05:learner-v2:g2",
+      "new_record_id": "world-history-05:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-05-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:08:27.685829+05:30",
+      "identities": {
+        "export": "world-history-05:learner-v2:g3",
+        "master": "world-history-05:learner-v2:g3",
+        "review": "world-history-05:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-05:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-05\\world-history-05-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-05:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-05:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-05-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-05:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-05-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-05:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-06",
+      "title": "Unification of Italy and Germany",
+      "old_record_id": "world-history-06:learner-v2:g2",
+      "new_record_id": "world-history-06:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-06-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:08:49.421323+05:30",
+      "identities": {
+        "export": "world-history-06:learner-v2:g3",
+        "master": "world-history-06:learner-v2:g3",
+        "review": "world-history-06:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-06:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-06\\world-history-06-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-06:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-06:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-06-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-06:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-06-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-06:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-07",
+      "title": "New Imperialism and Scramble for Africa",
+      "old_record_id": "world-history-07:learner-v2:g2",
+      "new_record_id": "world-history-07:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-07-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:09:11.419601+05:30",
+      "identities": {
+        "export": "world-history-07:learner-v2:g3",
+        "master": "world-history-07:learner-v2:g3",
+        "review": "world-history-07:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-07:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-07\\world-history-07-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-07:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-07:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-07-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-07:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-07-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-07:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-08",
+      "title": "Latin American Independence Movements",
+      "old_record_id": "world-history-08:learner-v2:g2",
+      "new_record_id": "world-history-08:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-08-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:09:33.678863+05:30",
+      "identities": {
+        "export": "world-history-08:learner-v2:g3",
+        "master": "world-history-08:learner-v2:g3",
+        "review": "world-history-08:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-08:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-08\\world-history-08-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-08:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-08:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-08-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-08:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-08-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-08:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-09",
+      "title": "World in 1914 and Outbreak of WWI",
+      "old_record_id": "world-history-09:learner-v2:g2",
+      "new_record_id": "world-history-09:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-09-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:09:55.409568+05:30",
+      "identities": {
+        "export": "world-history-09:learner-v2:g3",
+        "master": "world-history-09:learner-v2:g3",
+        "review": "world-history-09:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-09:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-09\\world-history-09-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-09:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-09:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-09-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-09:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-09-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-09:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-10",
+      "title": "First World War and Aftermath",
+      "old_record_id": "world-history-10:learner-v2:g2",
+      "new_record_id": "world-history-10:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-10-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:10:18.506487+05:30",
+      "identities": {
+        "export": "world-history-10:learner-v2:g3",
+        "master": "world-history-10:learner-v2:g3",
+        "review": "world-history-10:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-10:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-10\\world-history-10-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-10:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-10:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-10-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-10:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-10-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-10:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-11",
+      "title": "International Relations 1919-39",
+      "old_record_id": "world-history-11:learner-v2:g2",
+      "new_record_id": "world-history-11:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-11-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:10:41.176652+05:30",
+      "identities": {
+        "export": "world-history-11:learner-v2:g3",
+        "master": "world-history-11:learner-v2:g3",
+        "review": "world-history-11:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-11:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-11\\world-history-11-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-11:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-11:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-11-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-11:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-11-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-11:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-12",
+      "title": "Rise of Fascism: Italy, Germany, Japan",
+      "old_record_id": "world-history-12:learner-v2:g2",
+      "new_record_id": "world-history-12:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-12-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:11:02.790706+05:30",
+      "identities": {
+        "export": "world-history-12:learner-v2:g3",
+        "master": "world-history-12:learner-v2:g3",
+        "review": "world-history-12:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-12:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-12\\world-history-12-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-12:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-12:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-12-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-12:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-12-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-12:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-13",
+      "title": "Russian Revolution and USSR under Stalin",
+      "old_record_id": "world-history-13:learner-v2:g2",
+      "new_record_id": "world-history-13:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-13-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:11:24.907032+05:30",
+      "identities": {
+        "export": "world-history-13:learner-v2:g3",
+        "master": "world-history-13:learner-v2:g3",
+        "review": "world-history-13:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-13:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-13\\world-history-13-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-13:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-13:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-13-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-13:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-13-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-13:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-14",
+      "title": "Second World War",
+      "old_record_id": "world-history-14:learner-v2:g2",
+      "new_record_id": "world-history-14:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-14-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:11:46.767086+05:30",
+      "identities": {
+        "export": "world-history-14:learner-v2:g3",
+        "master": "world-history-14:learner-v2:g3",
+        "review": "world-history-14:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-14:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-14\\world-history-14-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-14:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-14:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-14-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-14:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-14-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-14:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-15",
+      "title": "Cold War and International Relations",
+      "old_record_id": "world-history-15:learner-v2:g2",
+      "new_record_id": "world-history-15:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-15-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:12:08.786807+05:30",
+      "identities": {
+        "export": "world-history-15:learner-v2:g3",
+        "master": "world-history-15:learner-v2:g3",
+        "review": "world-history-15:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-15:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-15\\world-history-15-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-15:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-15:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-15-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-15:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-15-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-15:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-16",
+      "title": "United Nations and Global Governance",
+      "old_record_id": "world-history-16:learner-v2:g2",
+      "new_record_id": "world-history-16:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-16-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:12:30.767874+05:30",
+      "identities": {
+        "export": "world-history-16:learner-v2:g3",
+        "master": "world-history-16:learner-v2:g3",
+        "review": "world-history-16:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-16:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-16\\world-history-16-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-16:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-16:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-16-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-16:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-16-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-16:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-17",
+      "title": "China, Communism and Asia",
+      "old_record_id": "world-history-17:learner-v2:g2",
+      "new_record_id": "world-history-17:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-17-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:12:53.92086+05:30",
+      "identities": {
+        "export": "world-history-17:learner-v2:g3",
+        "master": "world-history-17:learner-v2:g3",
+        "review": "world-history-17:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-17:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-17\\world-history-17-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-17:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-17:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-17-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-17:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-17-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-17:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-18",
+      "title": "Decolonization of Africa and Asia",
+      "old_record_id": "world-history-18:learner-v2:g2",
+      "new_record_id": "world-history-18:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-18-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:13:15.742747+05:30",
+      "identities": {
+        "export": "world-history-18:learner-v2:g3",
+        "master": "world-history-18:learner-v2:g3",
+        "review": "world-history-18:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-18:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-18\\world-history-18-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-18:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-18:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-18-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-18:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-18-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-18:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-19",
+      "title": "Latin America (20th Century)",
+      "old_record_id": "world-history-19:learner-v2:g2",
+      "new_record_id": "world-history-19:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-19-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:13:38.777664+05:30",
+      "identities": {
+        "export": "world-history-19:learner-v2:g3",
+        "master": "world-history-19:learner-v2:g3",
+        "review": "world-history-19:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-19:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-19\\world-history-19-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-19:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-19:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-19-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-19:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-19-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-19:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-20",
+      "title": "World Economy and Population since 1900",
+      "old_record_id": "world-history-20:learner-v2:g2",
+      "new_record_id": "world-history-20:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-20-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:14:00.182678+05:30",
+      "identities": {
+        "export": "world-history-20:learner-v2:g3",
+        "master": "world-history-20:learner-v2:g3",
+        "review": "world-history-20:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-20:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-20\\world-history-20-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-20:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-20:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-20-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-20:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-20-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-20:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "world-history-21",
+      "title": "Cold War End and New World Order",
+      "old_record_id": "world-history-21:learner-v2:g2",
+      "new_record_id": "world-history-21:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\world-history-21-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T11:14:22.373348+05:30",
+      "identities": {
+        "export": "world-history-21:learner-v2:g3",
+        "master": "world-history-21:learner-v2:g3",
+        "review": "world-history-21:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "world-history-21:learner-v2:g1",
+        "generation": 1,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\world-history-21\\world-history-21-g1-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "world-history-21:learner-v2:g1",
+          "generation": 1,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "world-history-21:learner-v2:g2",
+          "generation": 2,
+          "state": "superseded_after_stricter_re_review",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-21-learner-v2-g2-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "world-history-21:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\world-history-21-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "world-history-21:learner-v2:g3",
+      "final_generation": 3
+    }
+  ],
+  "failed_intermediates_preserved": [],
+  "successful_re_review_intermediates_preserved": [
+    "world-history-01:learner-v2:g3",
+    "world-history-02:learner-v2:g2",
+    "world-history-03:learner-v2:g2",
+    "world-history-04:learner-v2:g2",
+    "world-history-05:learner-v2:g2",
+    "world-history-06:learner-v2:g2",
+    "world-history-07:learner-v2:g2",
+    "world-history-08:learner-v2:g2",
+    "world-history-09:learner-v2:g2",
+    "world-history-10:learner-v2:g2",
+    "world-history-11:learner-v2:g2",
+    "world-history-12:learner-v2:g2",
+    "world-history-13:learner-v2:g2",
+    "world-history-14:learner-v2:g2",
+    "world-history-15:learner-v2:g2",
+    "world-history-16:learner-v2:g2",
+    "world-history-17:learner-v2:g2",
+    "world-history-18:learner-v2:g2",
+    "world-history-19:learner-v2:g2",
+    "world-history-20:learner-v2:g2",
+    "world-history-21:learner-v2:g2"
+  ],
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+  "all_subject_topic_count": 259,
+  "encoding_check": {
+    "files_checked": [
+      "EXPORT-PDF-STATUS.json",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json",
+      "EXPORT-PDF-COMMAND-INDEX.md",
+      "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.md",
+      "notes\\Final-Learning-Packages\\CATALOGUE.md",
+      "upsc-ai-kit\\knowledge\\World-History\\README.md",
+      "upsc-ai-kit\\knowledge\\World-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\02_American-Revolution.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\03_French-Revolution-and-Napoleon.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\04_Industrial-Revolution.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\06_Unification-of-Italy-and-Germany.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\07_New-Imperialism-and-Scramble-for-Africa.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\08_Latin-American-Independence-Movements.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\09_World-in-1914-and-Outbreak-of-WWI.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\10_First-World-War-and-Aftermath.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\11_International-Relations-1919-39.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\15_Cold-War-and-International-Relations.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\16_United-Nations-and-Global-Governance.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\18_Decolonization-of-Africa-and-Asia.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\19_Latin-America-20th-Century.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\20_World-Economy-and-Population-since-1900.md",
+      "upsc-ai-kit\\knowledge\\World-History\\basic\\21_Cold-War-End-and-New-World-Order.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\01_Enlightenment-and-Age-of-Revolutions-Overview.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\02_American-Revolution.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\03_French-Revolution-and-Napoleon.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\04_Industrial-Revolution.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\06_Unification-of-Italy-and-Germany.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\07_New-Imperialism-and-Scramble-for-Africa.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\08_Latin-American-Independence-Movements.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\09_World-in-1914-and-Outbreak-of-WWI.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\10_First-World-War-and-Aftermath.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\11_International-Relations-1919-39.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\12_Rise-of-Fascism-Italy-Germany-Japan.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\13_Russian-Revolution-and-USSR-under-Stalin.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\15_Cold-War-and-International-Relations.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\16_United-Nations-and-Global-Governance.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\18_Decolonization-of-Africa-and-Asia.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\19_Latin-America-20th-Century.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\20_World-Economy-and-Population-since-1900.md",
+      "upsc-ai-kit\\knowledge\\World-History\\advanced\\21_Cold-War-End-and-New-World-Order.md"
+    ],
+    "u_fffd_replacement_paths": [],
+    "actual_replacement_glyph_found": false,
+    "result": "no defect; PowerShell console encoding only"
+  },
+  "final_library_topic_count": 264,
+  "live_tracker_sync": "passed"
+}

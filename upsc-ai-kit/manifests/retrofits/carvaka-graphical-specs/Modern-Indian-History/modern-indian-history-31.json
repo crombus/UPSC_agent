@@ -1,0 +1,1219 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-31",
+  "subject": "Modern-Indian-History",
+  "title": "INTEGRATION OF THE TRIBALS & NATIONAL UNITY (1947–1987)",
+  "short_route": "THE 1971 CENSUS BASELINE → COLONIAL DISPOSSESSION AND THE → TWO OPTIONS REJECTED, ONE → THE TWO PARAMETERS AS → THE FIVE GUIDELINES AND → ARTICLE 46 AND THE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-31_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-30-31-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "b503ce61f77cdcf9897241e4031f9a72e8904edd5d0e4efb0d30cbf56cf1d5f2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE 1971 CENSUS BASELINE AND THE DECISIVE ASYMMETRY",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE 1971 CENSUS BASELINE AND THE DECISIVE ASYMMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "ATTRIBUTED BASELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 1971 CENSUS (NEVER 1951, NEVER CURRENT DATA) OVER",
+          "role": "comparison"
+        },
+        {
+          "text": "NEARLY 38 MILLION PEOPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEARLY 6.9 PER CENT OF INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTH-EASTERN INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "WEST BENGAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ATTRIBUTED BASELINE → THE 1971 CENSUS (never 1951, never current data) over 400 tribal communities",
+        "nearly 38 million people",
+        "nearly 6.9 per cent of India",
+        "CONCENTRATIONS → Madhya Pradesh",
+        "north-eastern India"
+      ],
+      "matrix": [
+        [
+          "ATTRIBUTED BASELINE → THE 1971 CENSUS (never 1951, never current data) over 400 tribal communities",
+          "nearly 38 million people",
+          "nearly 6.9 per cent of India",
+          ""
+        ],
+        [
+          "Maharashtra",
+          "Gujarat",
+          "Rajasthan",
+          ""
+        ],
+        [
+          "NORTH-EAST",
+          "EVERYWHERE ELSE overwhelming local majority",
+          "minorities in their own home states self-government is possible",
+          "only protective regulation is available"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ATTRIBUTED BASELINE → THE 1971 CENSUS (never 1951, never current data) over 400 tribal communities",
+            "nearly 38 million people",
+            "nearly 6.9 per cent of India",
+            "CONCENTRATIONS → Madhya Pradesh"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "north-eastern India",
+            "West Bengal",
+            "EVERYWHERE ELSE overwhelming local majority",
+            "minorities in their own home states self-government is possible"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "only protective regulation is available",
+            "WHY IT MATTERS → this asymmetry, not sentiment, dictates which Schedule applies"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHY IT MATTERS → this asymmetry, not sentiment, dictates which Schedule applies.",
+      "source_references": [
+        "Who and how many: the 1971 Census baseline"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COLONIAL DISPOSSESSION AND THE REVOLT TRADITION",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COLONIAL DISPOSSESSION AND THE REVOLT TRADITION",
+          "role": "primary"
+        },
+        {
+          "text": "1 MARKET PENETRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MONEY-LENDERS, TRADERS, REVENUE FARMERS, MIDDLEMEN, PETTY OFFICIALS",
+          "role": "comparison"
+        },
+        {
+          "text": "2 DEBT AND LAND LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "FAMILIES ENGULFED IN DEBT",
+          "role": "primary"
+        },
+        {
+          "text": "LAND PASSES TO OUTSIDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCED TO AGRICULTURAL LABOURERS, SHARECROPPERS, RACK-RENTED TENANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BELATED ANTI-ALIENATION LEGISLATION FAILS TO HALT THE PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "1 MARKET PENETRATION → money-lenders, traders, revenue farmers, middlemen, petty officials",
+        "2 DEBT AND LAND LOSS → families engulfed in debt → land passes to outsiders",
+        "reduced to agricultural labourers, sharecroppers, rack-rented tenants",
+        "belated anti-alienation legislation FAILS to halt the process",
+        "3 FOREST LAW → large tracts regulated for conservation and commercial exploitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 MARKET PENETRATION → money-lenders, traders, revenue farmers, middlemen, petty officials",
+            "2 DEBT AND LAND LOSS → families engulfed in debt → land passes to outsiders",
+            "reduced to agricultural labourers, sharecroppers, rack-rented tenants",
+            "belated anti-alienation legislation FAILS to halt the process"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 FOREST LAW → large tracts regulated for conservation and commercial exploitation",
+            "shifting cultivation forbidden; access to forest produce restricted",
+            "4 OFFICIAL EXTORTION → police, forest officials and other government officers",
+            "REVOLT TRADITION → Santhal uprising"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Munda rebellion led by Birsa Munda",
+            "PARTICIPATION → national and peasant movements in Orissa, Bihar, West Bengal, Andhra,",
+            "Maharashtra and Gujarat",
+            "THIS IS THE HARM → the post-1947 protective machinery is a reply to these four causes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THIS IS THE HARM → the post-1947 protective machinery is a reply to these four causes.",
+      "source_references": [
+        "Colonial dispossession: money-lenders, land and forest law"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO OPTIONS REJECTED, ONE POLICY ADOPTED",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TWO OPTIONS REJECTED, ONE POLICY ADOPTED",
+          "role": "primary"
+        },
+        {
+          "text": "VERRIER ELWIN (LIVED AMONG TRIBAL PEOPLE; \"FORMATIVE INFLUENCE\" ON",
+          "role": "outcome"
+        },
+        {
+          "text": "JAWAHARLAL NEHRU (\"THE MAIN INFLUENCE IN SHAPING THE GOVERNMENT'S",
+          "role": "comparison"
+        },
+        {
+          "text": "OPTION A",
+          "role": "evidence"
+        },
+        {
+          "text": "LEAVE THEM ALONE DEFECT 1",
+          "role": "primary"
+        },
+        {
+          "text": "TREATED \"AS MUSEUM SPECIMENS TO BE OBSERVED AND WRITTEN",
+          "role": "outcome"
+        },
+        {
+          "text": "\"TO INSULT THEM\" DEFECT 2",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPOSSIBLE ANYWAY; PENETRATION BY THE OUTSIDE WORLD HAD GONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INFLUENCES → VERRIER ELWIN (lived among tribal people; \"formative influence\" on policy)",
+        "JAWAHARLAL NEHRU (\"the main influence in shaping the government's attitude\")",
+        "OPTION A: LEAVE THEM ALONE defect 1 → treated \"as museum specimens to be observed",
+        "penetration by the outside world had gone too far",
+        "OPTION B: ASSIMILATE THEM QUICKLY defect 1 → \"engulfed by the masses of Indian humanity\""
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INFLUENCES → VERRIER ELWIN (lived among tribal people; \"formative influence\" on policy)",
+            "JAWAHARLAL NEHRU (\"the main influence in shaping the government's attitude\")",
+            "OPTION A: LEAVE THEM ALONE defect 1 → treated \"as museum specimens to be observed and written about\" = \"to insult them\" defect 2 → impossible anyway"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "penetration by the outside world had gone too far",
+            "OPTION B: ASSIMILATE THEM QUICKLY defect 1 → \"engulfed by the masses of Indian humanity\" → loss of",
+            "social and cultural identity defect 2 → unscrupulous outsiders would take possession of tribal lands and forests"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADOPTED → INTEGRATION WITH A PRESERVED DISTINCT IDENTITY",
+            "FRAMING → India must signify \"not only a protecting force but a liberating one\""
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRAMING → India must signify \"not only a protecting force but a liberating one\".",
+      "source_references": [
+        "Verrier Elwin and the making of the policy",
+        "The two approaches Nehru rejected"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE TWO PARAMETERS AS A MARKING SCHEME",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE TWO PARAMETERS AS A MARKING SCHEME",
+          "role": "primary"
+        },
+        {
+          "text": "PARAMETER 1",
+          "role": "outcome"
+        },
+        {
+          "text": "PARAMETER 2",
+          "role": "comparison"
+        },
+        {
+          "text": "\"THE TRIBAL AREAS HAVE TO",
+          "role": "evidence"
+        },
+        {
+          "text": "\"THEY HAVE TO PROGRESS IN THEIR OWN WAY\" PROGRESS\"",
+          "role": "primary"
+        },
+        {
+          "text": "RULES OUT MUSEUM ISOLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RULES OUT FORCED ASSIMILATION TESTS DEVELOPMENT DELIVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "TESTS IDENTITY PRESERVATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARAMETER 1",
+        "PARAMETER 2",
+        "\"the tribal areas have to",
+        "\"they have to progress in their own way\" progress\"",
+        "rules out museum isolation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PARAMETER 1",
+          "rules out museum isolation",
+          "QUALIFIER 2 → whatever changes are needed are \"worked out by the tribals themselves\""
+        ],
+        [
+          "PARAMETER 2",
+          "rules out forced assimilation tests DEVELOPMENT DELIVERY",
+          "USE IT → political accommodation satisfies parameter 2; developmental failure breaks parameter 1"
+        ],
+        [
+          "\"the tribal areas have to",
+          "tests IDENTITY PRESERVATION",
+          "= the honest verdict on this topic is a SPLIT verdict, and this panel is why"
+        ],
+        [
+          "\"they have to progress in their own way\" progress\"",
+          "QUALIFIER 1 → progress is not \"merely to duplicate what we have got in other parts of India\"",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PARAMETER 1",
+            "PARAMETER 2",
+            "\"the tribal areas have to",
+            "\"they have to progress in their own way\" progress\""
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "rules out museum isolation",
+            "rules out forced assimilation tests DEVELOPMENT DELIVERY",
+            "tests IDENTITY PRESERVATION",
+            "QUALIFIER 1 → progress is not \"merely to duplicate what we have got in other parts of India\""
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFIER 2 → whatever changes are needed are \"worked out by the tribals themselves\"",
+            "USE IT → political accommodation satisfies parameter 2; developmental failure breaks parameter 1",
+            "= the honest verdict on this topic is a SPLIT verdict, and this panel is why"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "= the honest verdict on this topic is a SPLIT verdict, and this panel is why.",
+      "source_references": [
+        "Integration with identity: the two parameters"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE FIVE GUIDELINES AND THE LABEL CAUTION",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE FIVE GUIDELINES AND THE LABEL CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "FIVE BROAD GUIDELINES",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER LABELLED \"TRIBAL PANCHSHEEL\" (A LABEL, NOT A DATED",
+          "role": "caution"
+        },
+        {
+          "text": "1 OWN GENIUS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOP ALONG THEIR OWN LINES; NO IMPOSITION, NO COMPULSION",
+          "role": "caution"
+        },
+        {
+          "text": "NON-TRIBALS TO HOLD NO SUPERIORITY COMPLEX; AN EQUAL CONTRIBUTION",
+          "role": "caution"
+        },
+        {
+          "text": "2 LAND AND FOREST",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBAL RIGHTS RESPECTED; NO OUTSIDER TO TAKE POSSESSION OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIVE BROAD GUIDELINES → later labelled \"Tribal Panchsheel\" (a LABEL, not a dated decree)",
+        "1 OWN GENIUS → develop along their own lines; no imposition, no compulsion",
+        "non-tribals to hold no superiority complex; an EQUAL contribution",
+        "2 LAND AND FOREST → tribal rights respected; no outsider to take possession of tribal",
+        "market incursion strictly controlled and regulated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIVE BROAD GUIDELINES → later labelled \"Tribal Panchsheel\" (a LABEL, not a dated decree)",
+            "1 OWN GENIUS → develop along their own lines; no imposition, no compulsion",
+            "non-tribals to hold no superiority complex; an EQUAL contribution",
+            "2 LAND AND FOREST → tribal rights respected; no outsider to take possession of tribal land"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "market incursion strictly controlled and regulated",
+            "3 LANGUAGES → \"all possible support\"; conditions for flourishing safeguarded",
+            "4 TRIBAL PERSONNEL → administrators recruited and trained from among tribal people",
+            "as few outsiders as possible, and those carefully chosen"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 NO OVER-ADMIN → develop through their own social and cultural institutions",
+            "ROOTS → nationalist constructive work from the 1920s; Gandhi's ashrams in tribal areas",
+            "supported after independence by Rajendra Prasad, first President of India",
+            "CAUTION → do NOT attach an exact proclamation year to the label"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → do NOT attach an exact proclamation year to the label.",
+      "source_references": [
+        "The five guidelines later labelled the Tribal Panchsheel"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARTICLE 46 AND THE FOUR-PART PROTECTIVE MACHINERY",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLE 46 AND THE FOUR-PART PROTECTIVE MACHINERY",
+          "role": "institution"
+        },
+        {
+          "text": "A DIRECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 46",
+          "role": "institution"
+        },
+        {
+          "text": "PROMOTE WITH SPECIAL CARE THE EDUCATIONAL AND ECONOMIC INTERESTS",
+          "role": "evidence"
+        },
+        {
+          "text": "B GUBERNATORIAL",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL RESPONSIBILITY OF GOVERNORS OF STATES CONTAINING TRIBAL AREAS",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER TO MODIFY CENTRAL AND STATE LAWS IN THEIR",
+          "role": "institution"
+        },
+        {
+          "text": "POWER TO FRAME REGULATIONS ON LAND RIGHTS AND AGAINST",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "A DIRECTIVE → ARTICLE 46: promote with special care the educational and economic interests of",
+        "protect from social injustice and all forms of exploitation",
+        "B GUBERNATORIAL → special responsibility of Governors of states containing tribal areas",
+        "power to MODIFY central and state laws in their application there",
+        "power to frame regulations on land rights and against money-lenders"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "A DIRECTIVE → ARTICLE 46: promote with special care the educational and economic interests of the tribal people",
+            "protect from social injustice and all forms of exploitation",
+            "B GUBERNATORIAL → special responsibility of Governors of states containing tribal areas",
+            "power to MODIFY central and state laws in their application there"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "power to frame regulations on land rights and against money-lenders",
+            "C POLITICAL → full political rights extended",
+            "reserved seats in the legislatures and reserved posts in the services",
+            "D ADVISORY AND INVESTIGATIVE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRIBAL ADVISORY COUNCILS in all states containing tribal areas",
+            "COMMISSIONER FOR SCHEDULED CASTES AND SCHEDULED TRIBES, appointed by the",
+            "President, to investigate whether the safeguards were being observed",
+            "NOTE → component D is what later DOCUMENTS the failure of components A to C"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOTE → component D is what later DOCUMENTS the failure of components A to C.",
+      "source_references": [
+        "Article 46 and the protective machinery"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIFTH SCHEDULE AND SIXTH SCHEDULE: A DESIGN MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIFTH SCHEDULE AND SIXTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "A DESIGN MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCALLY DOMINANT",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPERSED MINORITY TRIBAL AREAS OF ASSAM",
+          "role": "evidence"
+        },
+        {
+          "text": "OTHER SCHEDULED AREAS",
+          "role": "primary"
+        },
+        {
+          "text": "SIXTH SCHEDULE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIFTH SCHEDULE + MACHINERY AUTONOMOUS DISTRICTS",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBAL ADVISORY COUNCILS DISTRICT AND REGIONAL COUNCILS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SITUATION: LOCALLY DOMINANT",
+        "SITUATION: DISPERSED MINORITY tribal areas of Assam / North-East",
+        "other Scheduled Areas",
+        "INSTRUMENT: SIXTH SCHEDULE",
+        "INSTRUMENT: FIFTH SCHEDULE + machinery autonomous districts"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SITUATION: LOCALLY DOMINANT",
+          "Tribal Advisory Councils district and regional councils",
+          "STATED OBJECTIVE → enable tribal people \"to live according to their own ways\""
+        ],
+        [
+          "SITUATION: DISPERSED MINORITY tribal areas of Assam / North-East",
+          "Article 46 directive some legislative and judicial",
+          "OFFER → the Government of India was willing to amend the provisions to widen autonomy"
+        ],
+        [
+          "other Scheduled Areas",
+          "reserved seats and services functions, within the overall",
+          "BOUND → but never secession, never independence, never tolerated violence"
+        ],
+        [
+          "INSTRUMENT: SIXTH SCHEDULE",
+          "Commissioner for Scheduled Castes and jurisdiction of the legislature",
+          "RULE → the two Schedules are NEVER interchangeable; details belong to the Polity owner"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SITUATION: LOCALLY DOMINANT",
+            "SITUATION: DISPERSED MINORITY tribal areas of Assam / North-East",
+            "other Scheduled Areas",
+            "INSTRUMENT: SIXTH SCHEDULE",
+            "INSTRUMENT: FIFTH SCHEDULE + machinery autonomous districts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Tribal Advisory Councils district and regional councils",
+            "Article 46 directive some legislative and judicial",
+            "reserved seats and services functions, within the overall",
+            "Commissioner for Scheduled Castes and jurisdiction of the legislature",
+            "Scheduled Tribes and Parliament"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATED OBJECTIVE → enable tribal people \"to live according to their own ways\"",
+            "OFFER → the Government of India was willing to amend the provisions to widen autonomy",
+            "BOUND → but never secession, never independence, never tolerated violence",
+            "RULE → the two Schedules are NEVER interchangeable; details belong to the Polity owner"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the two Schedules are NEVER interchangeable; details belong to the Polity owner.",
+      "source_references": [
+        "Fifth Schedule and Sixth Schedule: two problems, two instruments"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHERE THE POLICY FAILED: EXECUTION, NOT DESIGN",
+      "structural_type": "balance-sheet",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WHERE THE POLICY FAILED",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTION, NOT DESIGN",
+          "role": "caution"
+        },
+        {
+          "text": "1 WEAK EXECUTION OF WELL-INTENTIONED",
+          "role": "comparison"
+        },
+        {
+          "text": "LITERACY AND EDUCATION SPREAD MEASURES",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVATIONS IN SERVICES AND HIGHER EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "2 DIVERGENCE BETWEEN CENTRAL AND STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PANCHAYATI RAJ AND REPEATED ELECTIONS POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "RISING POLITICAL PARTICIPATION AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 weak execution of well-intentioned",
+        "literacy and education spread measures",
+        "reservations in services and higher education",
+        "2 divergence between central and state",
+        "Panchayati Raj and repeated elections policy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 weak execution of well-intentioned",
+            "literacy and education spread measures",
+            "reservations in services and higher education",
+            "2 divergence between central and state",
+            "Panchayati Raj and repeated elections policy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 Tribal Advisory Councils ineffective",
+            "4 funds unspent, unproductive or",
+            "demands for a greater share in national misappropriated",
+            "economic development",
+            "5 anti-alienation laws evaded → land loss"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "7 a small tribal elite captures the gains",
+            "OUTSIDE THE NORTH-EAST → tribal people remained poor, indebted, landless, often unemployed",
+            "SPLIT VERDICT → POLITICAL ACCOMMODATION SUCCEEDED",
+            "DEVELOPMENTAL DELIVERY DID NOT",
+            "ATTRIBUTION → the failure is attributed to implementation and neglect, not to the design"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPLIT VERDICT → POLITICAL ACCOMMODATION SUCCEEDED | DEVELOPMENTAL DELIVERY DID NOT.",
+      "source_references": [
+        "The implementation shortfall behind constitutional intent"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHY THE NORTH-EAST DIFFERED, AND THE NEFA CONTROL CASE",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHY THE NORTH-EAST DIFFERED, AND THE NEFA CONTROL CASE",
+          "role": "primary"
+        },
+        {
+          "text": "REASON 1 DEMOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "OVER A HUNDRED GROUPS; OVERWHELMING LOCAL MAJORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-TRIBALS HAD NOT PENETRATED TO ANY SIGNIFICANT EXTENT",
+          "role": "caution"
+        },
+        {
+          "text": "REASON 2 COLONIAL ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE ADMINISTRATIVE STATUS INSIDE ASSAM PROVINCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIO-POLITICAL STRUCTURE UNDISTURBED; PLAINSMEN BARRED FROM BUYING LAND",
+          "role": "comparison"
+        },
+        {
+          "text": "LITTLE LOSS OF LAND; MISSIONARIES PERMITTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REASON 1 DEMOGRAPHY → over a hundred groups; overwhelming local majority",
+        "non-tribals had not penetrated to any significant extent",
+        "REASON 2 COLONIAL ADMINISTRATION → separate administrative status inside Assam province",
+        "socio-political structure undisturbed; plainsmen barred from buying land",
+        "LITTLE LOSS OF LAND; missionaries permitted: schools, hospitals, churches"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REASON 1 DEMOGRAPHY → over a hundred groups; overwhelming local majority",
+            "non-tribals had not penetrated to any significant extent",
+            "REASON 2 COLONIAL ADMINISTRATION → separate administrative status inside Assam province",
+            "socio-political structure undisturbed; plainsmen barred from buying land",
+            "LITTLE LOSS OF LAND; missionaries permitted: schools, hospitals, churches"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REASON 3 DETACHMENT → \"virtual absence of any political or cultural contact\" with Indian political life",
+            "the anti-imperialist bond had little purchase here",
+            "some missionaries and foreigners promoted separatist sentiment after 1947",
+            "CONTROL CASE → NEFA created 1948 out of the border areas of Assam",
+            "a Union Territory OUTSIDE Assam's jurisdiction, special cadre of officers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "develop WITHOUT disturbing social and cultural patterns of life",
+            "Nehru's and Elwin's policies \"implemented best of all\" here",
+            "RENAMED ARUNACHAL PRADESH 1972; STATEHOOD 1987",
+            "OCR CAVEAT → the local book compresses naming and statehood into one 1987 sentence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OCR CAVEAT → the local book compresses naming and statehood into one 1987 sentence.",
+      "source_references": [
+        "Why the North-East was a different problem",
+        "NEFA from 1948 and the Sixth Schedule in practice"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE NAGA TWO-TRACK TEMPLATE, 1955 TO 1963",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE NAGA TWO-TRACK TEMPLATE, 1955 TO 1963",
+          "role": "primary"
+        },
+        {
+          "text": "PHIZO-LED SEPARATISTS DECLARE AN \"INDEPENDENT GOVERNMENT\"; VIOLENT INSURRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACK 1",
+          "role": "comparison"
+        },
+        {
+          "text": "REFUSE ------------------+--- TRACK 2",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFER SECESSION FIRMLY OPPOSED",
+          "role": "primary"
+        },
+        {
+          "text": "A LARGE DEGREE OF AUTONOMY NO NEGOTIATION WHILE INDEPENDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "PROLONGED NEGOTIATION WITH MODERATE, AND ARMS ARE RETAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-VIOLENT, NON-SECESSIONIST LEADERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1955 → Phizo-led separatists declare an \"independent government\"; violent insurrection",
+        "TRACK 1: REFUSE ------------------+--- TRACK 2: OFFER secession firmly opposed",
+        "a large degree of autonomy no negotiation while independence",
+        "prolonged negotiation with moderate, and arms are retained",
+        "non-violent, non-secessionist leaders"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1955 → Phizo-led separatists declare an \"independent government\"; violent insurrection",
+            "TRACK 1: REFUSE ------------------+--- TRACK 2: OFFER secession firmly opposed",
+            "a large degree of autonomy no negotiation while independence",
+            "prolonged negotiation with moderate, and arms are retained"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "non-violent, non-secessionist leaders",
+            "EARLY 1956 → army sent to restore",
+            "conciliation is the stated objective peace and order",
+            "MID-1957 → the back of the armed rebellion is broken"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MODERATES → Dr Imkongliba Ao and others come forward and negotiate for a state in the union",
+            "1963 → THE STATE OF NAGALAND COMES INTO EXISTENCE (within the Union, never independence)",
+            "AFTER → politics in Nagaland follows the pattern of other states of the union"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFTER → politics in Nagaland follows the pattern of other states of the union.",
+      "source_references": [
+        "Nagaland: the 1955 declaration, the army in early 1956 and statehood in 1963"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "A LANGUAGE TRIGGER BECOMES THE REORGANISATION OF 1972",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "A LANGUAGE TRIGGER BECOMES THE REORGANISATION OF 1972",
+          "role": "primary"
+        },
+        {
+          "text": "HILL TRIBES HAVE NO CULTURAL AFFINITY WITH ASSAMESE AND",
+          "role": "caution"
+        },
+        {
+          "text": "FEAR OF \"ASSAMIZATION\"; RESENTMENT AT THE ATTITUDES OF NON-TRIBAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSAMESE LEADERS MOVE TO MAKE ASSAMESE THE SOLE OFFICIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "HILL PARTIES MERGE INTO THE ALL PARTY HILL LEADERS",
+          "role": "primary"
+        },
+        {
+          "text": "THE ASSAM OFFICIAL LANGUAGE ACT TRIGGERS HARTALS, DEMONSTRATIONS, A",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE-STATE ADVOCATES SWEEP THE TRIBAL-AREA ASSEMBLY SEATS AND BOYCOTT",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONAL AMENDMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRIEVANCE → hill tribes have no cultural affinity with Assamese and Bengali plainsmen",
+        "fear of \"Assamization\"; resentment at the attitudes of non-tribal officials",
+        "1960 → Assamese leaders move to make Assamese the SOLE official language of the state",
+        "1960 → hill parties merge into the ALL PARTY HILL LEADERS CONFERENCE; separate state demanded",
+        "the Assam Official Language Act triggers hartals, demonstrations, a major agitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRIEVANCE → hill tribes have no cultural affinity with Assamese and Bengali plainsmen",
+            "fear of \"Assamization\"; resentment at the attitudes of non-tribal officials",
+            "1960 → Assamese leaders move to make Assamese the SOLE official language of the state",
+            "1960 → hill parties merge into the ALL PARTY HILL LEADERS CONFERENCE; separate state demanded",
+            "the Assam Official Language Act triggers hartals, demonstrations, a major agitation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1962 → separate-state advocates sweep the tribal-area Assembly seats and boycott the Assembly",
+            "1969 → constitutional amendment: MEGHALAYA as \"a state within a state\"",
+            "complete autonomy EXCEPT law and order; shared High Court, Public Service Commission,",
+            "1972 → REORGANISATION OF THE NORTH-EAST",
+            "MEGHALAYA becomes a separate state (Garo, Khasi and Jaintia tribes)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MANIPUR and TRIPURA are simultaneously granted statehood",
+            "NEFA is renamed ARUNACHAL PRADESH (statehood follows in 1987)",
+            "BRIDGE → this is where language politics and tribal politics meet directly"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRIDGE → this is where language politics and tribal politics meet directly.",
+      "source_references": [
+        "From a language trigger to the reorganisation of 1972"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MIZORAM AND JHARKHAND: TWO ENDINGS, TWO LESSONS",
+      "structural_type": "comparison",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MIZORAM AND JHARKHAND",
+          "role": "primary"
+        },
+        {
+          "text": "TWO ENDINGS, TWO LESSONS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ACCOMMODATION MODEL, OVER TWENTY-ONE YEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "1959 FAMINE RELIEF FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "1961 ASSAMESE MADE THE STATE'S OFFICIAL LANGUAGE",
+          "role": "institution"
+        },
+        {
+          "text": "MIZO NATIONAL FRONT FORMED, LALDENGA PRESIDENT; ELECTIONS CONTESTED, MILITARY",
+          "role": "outcome"
+        },
+        {
+          "text": "MAR 1966 INDEPENDENCE DECLARED, MILITARY UPRISING, ATTACKS",
+          "role": "comparison"
+        },
+        {
+          "text": "CRUSHED WITHIN A FEW WEEKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MIZORAM → the accommodation model, over twenty-one years",
+        "1959 famine relief failure",
+        "1961 Assamese made the state's official language → grievance",
+        "MIZO NATIONAL FRONT formed, LALDENGA president; elections contested, military wing built",
+        "MAR 1966 independence declared, military uprising, attacks → crushed within a few weeks"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MIZORAM → the accommodation model, over twenty-one years",
+            "1959 famine relief failure",
+            "1961 Assamese made the state's official language → grievance",
+            "MIZO NATIONAL FRONT formed, LALDENGA president; elections contested, military wing built",
+            "MAR 1966 independence declared, military uprising, attacks → crushed within a few weeks"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FEB 1987 LALDENGA SWORN IN AS CHIEF MINISTER",
+            "CAUTION → the model case, NOT the universal outcome; no current security claim belongs here",
+            "JHARKHAND → the demography model, an identity claim that outgrew its own base",
+            "1950 JHARKHAND PARTY founded by JAIPAL SINGH",
+            "1952 32 SEATS, main opposition in Bihar"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Scheduled Tribes: Chota Nagpur 31.15% (1951) → 30.94% (1971)",
+            "Santhal Parganas 44.67% (1951) → 36.22% (1971)",
+            "= nearly TWO-THIRDS of the region non-tribal in 1971",
+            "1955 SRC refuses a Jharkhand state: \"the region did not have a common language\"",
+            "1963 Jaipal Singh and much of the leadership join the Congress"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → the shift was never complete; the movement stayed built on tribal identity.",
+      "source_references": [
+        "Mizoram: March 1966, Union Territory in 1973, Accord in 1986, statehood in February 1987",
+        "Jharkhand: from a tribal state to a regional demand"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "COLONIAL PENETRATION — MARKETS, MONEYLENDERS, TRADERS AND RESTRICTIVE FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "TRIBAL COMMUNITIES AND DETONATED A CENTURY OF REVOLTS, THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DEMOGRAPHIC BASELINE IN THIS CHAPTER IS THE 1971",
+          "role": "evidence"
+        },
+        {
+          "text": "OVER 400 COMMUNITIES, NEARLY 38 MILLION PEOPLE AND 6.9%",
+          "role": "primary"
+        },
+        {
+          "text": "NEHRU'S TRIBAL PANCHSHEEL CONSCIOUSLY REJECTED TWO EXTREMES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ISOLATIONIST \" NO-CHANGE",
+          "role": "caution"
+        },
+        {
+          "text": "\" VIEW AND THE ASSIMILATIONIST DEMAND THAT TRIBES SURRENDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Colonial penetration — markets, moneylenders, traders and restrictive forest laws — had dispossessed",
+            "tribal communities and detonated a century of revolts, the backdrop to post-1947 policy.",
+            "The demographic baseline in this chapter is the 1971 Census : over 400 communities, nearly 38 million people and 6.9% of India's population.",
+            "Nehru's Tribal Panchsheel consciously rejected two extremes: the isolationist \" no-change"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "\" view and the assimilationist demand that tribes surrender their identity.",
+            "CAUTION: The doctrine's five planks — develop along their own genius",
+            "respect land and forest rights",
+            "train and use tribal personnel"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "avoid over-administration",
+            "judge results by human, not statistical, growth — made autonomy an instrument of unity.",
+            "CAUTION: Chandra's assessment is candid: constitutional intent was sound, but implementation was often",
+            "dismal — neglect, corruption and elite capture, not the design, produced tribal alienation."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

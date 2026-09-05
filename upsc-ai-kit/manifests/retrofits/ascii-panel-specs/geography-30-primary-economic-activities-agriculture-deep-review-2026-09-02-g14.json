@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "map_and_current_status_discipline": true,
+    "human_economic_regional_spatial_control": true,
+    "models_india_data_policy_chronology_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "display_title": "Primary Economic Activities: Agriculture",
+      "active_generation": 14,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Agricultural geography as a natural-human-market system",
+          "structural_type": "process-system-overview",
+          "source_references": [
+            "{'sessions': [1, 2], 'sections': ['BASIC LEARNING SESSION', 'Agricultural geography in one line'], 'markdown_lines': ['76-243', '2702-2708']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "+-------------- AGRICULTURAL GEOGRAPHY ----------------+\n| Where does production occur, why there, how organised,|\n| and how does the pattern change through time?         |\n+--------------------------------------------------------+\n                         |\n       +-----------------+------------------+\n       |                 |                  |\nNATURAL BASE         HUMAN SYSTEM       MARKET SYSTEM\nclimate              labour/holding     demand\nrelief               technology         transport\nsoil                 tenure/capital     storage/processing\nwater                institutions       price and trade links\n       \\                 |                  /\n        +---------- FARMING SYSTEM ----------+\n                         |\n location -> seasonality -> intensity -> surplus -> value chain\n                         |\n spatial gains and costs feed back to soil, water, labour and region\n\nSix controls: climate, relief, soil, water, labour, market/transport.\nMUST REMEMBER: Agricultural geography reconstructs land use through physical controls, tenure,\n  labour, technology, markets and policy; it compares subsistence/commercial,\n  intensive/extensive, plantation, mixed, dairy, Mediterranean, shifting, pastoral and von\n  Thünen location logics before mapping India's crop seasons and agro-regions."
+        },
+        {
+          "title": "Farming-system classification by ecology, labour and market",
+          "structural_type": "classification-table",
+          "source_references": [
+            "{'sessions': [3], 'sections': ['BASIC LEARNING SESSION', 'Farming systems and world regions'], 'markdown_lines': ['244-333', '2709-2720']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "+----------------------+-----------------------+----------------------+\n| SYSTEM               | ORGANISATION          | TYPICAL SETTING      |\n+----------------------+-----------------------+----------------------+\n| Shifting cultivation | clearing + fallow     | humid forest margins |\n| Wet-rice intensive   | small, labour, water  | monsoon valleys      |\n| Nomadic pastoralism  | mobile herds          | arid sparse pasture  |\n| Mixed farming        | crop-livestock link   | temperate regions    |\n| Mediterranean        | winter rain system    | west-coast margins   |\n| Plantation           | estate + export crop  | tropical highlands   |\n| Commercial grain     | mechanised vast farms | temperate plains     |\n| Dairy/market garden  | perishable + urban    | city hinterlands     |\n+----------------------+-----------------------+----------------------+\n\nCLASSIFICATION AXES\nsubsistence/commercial | intensive/extensive | crop/livestock mix\nsedentary/mobile | small/large scale | local/export orientation\n\nHigh output per hectare is not the same as commercial orientation."
+        },
+        {
+          "title": "Von Thunen rings and the survival of distance",
+          "structural_type": "spatial-ring-model-and-modification-chain",
+          "source_references": [
+            "{'sessions': [4], 'sections': ['BASIC LEARNING SESSION', 'Von Thunen and location'], 'markdown_lines': ['334-425', '2721-2727']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "                      CENTRAL MARKET\n                 +-----------------------+\n                 | dairy / vegetables    | high decay, frequent trips\n                 +-----------------------+\n                 | forestry / fuelwood   | heavy transport burden\n                 +-----------------------+\n                 | field crops           | lower perishability\n                 +-----------------------+\n                 | livestock / ranching  | extensive outer use\n                 +-----------------------+\n\ndistance up -> freight/reliability cost up -> bid rent generally down\nperishability + delivery frequency + land rent decide near-market use\n                         |\nMODERN MODIFIERS\ncold chain + expressway + processing + digital markets + policy\n                         |\nstretch, distort or split rings; they do not abolish cost and access\n\nAnswer route: assumptions -> mechanism -> modification -> surviving use\n              -> limits from relief, multiple markets and institutions."
+        },
+        {
+          "title": "World crop regions and ecological requirements",
+          "structural_type": "global-spatial-distribution-table",
+          "source_references": [
+            "{'sessions': [5, 6], 'sections': ['BASIC LEARNING SESSION', 'Crop-location rapid recall'], 'markdown_lines': ['426-655', '2728-2737']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "+---------+--------------------------+----------------------------+\n| CROP    | ECOLOGICAL BUNDLE        | BROAD GEOGRAPHY            |\n+---------+--------------------------+----------------------------+\n| Rice    | warmth + managed water   | monsoon valleys/deltas     |\n| Wheat   | cool growth, dry ripening| temperate and winter belts |\n| Cotton  | frost-free warmth        | subtropical plains/plateaus|\n| Jute    | humid alluvium + retting | eastern deltaic belt       |\n| Tea     | humid acidic slopes      | Asian tropical highlands   |\n| Coffee  | shaded drained uplands   | tropical uplands           |\n| Millets | variable lower rainfall  | semi-arid drylands         |\n+---------+--------------------------+----------------------------+\n\nREGIONAL LOGIC\nMonsoon Asia -> intensive rice | temperate plains -> commercial grain\nMediterranean margins -> winter crops, vines, olives and fruits\nTropical estates -> plantation crops | city belts -> dairy and vegetables\n\nA crop-soil link is an association, not an exclusive rule."
+        },
+        {
+          "title": "India's agro-climatic mosaic, Green Revolution and food chain",
+          "structural_type": "india-regional-map-and-causal-chain",
+          "source_references": [
+            "{'sessions': [5, 6], 'sections': ['OPTIONAL ADVANCED DEPTH', \"India's seasonal and regional mosaic\", 'Green Revolution and procurement geography'], 'markdown_lines': ['2390-2619', '2767-2793']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "INDIA'S AGRICULTURAL MOSAIC\nNorth-west       : irrigated wheat-rice and procurement core\nEastern deltas   : rice, jute and water-rich farming\nDryland Deccan   : millets, pulses, oilseeds and variable rainfall\nWestern plateau  : cotton and mixed irrigated-dryland systems\nHighlands        : tea, coffee, spices and horticulture\nMountains        : horticulture, pastoral and terrace systems\n                         |\nGREEN REVOLUTION PACKAGE\nHYV + assured irrigation + fertiliser + credit + extension + procurement\n                         |\nearly concentration: Punjab + Haryana + western Uttar Pradesh\n                         |\nhigher grain output -> procurement -> central pool -> NFSA/PDS movement\n                         |\nSECOND-GENERATION FEEDBACK\nwater-table decline + nutrient imbalance + residue pressure\n+ rice-wheat lock-in + regional divergence\n\nProductive success and ecological stress can coexist in the same region."
+        },
+        {
+          "title": "Fishing, forestry, mining and quarrying through physiography",
+          "structural_type": "primary-activity-comparison",
+          "source_references": [
+            "{'sessions': [7, 8, 9, 10], 'sections': ['BASIC LEARNING SESSION', 'Non-farm primary activities'], 'markdown_lines': ['656-1033', '2745-2752']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "+------------+---------------------------+-------------------------+\n| ACTIVITY   | PHYSICAL BASE             | HUMAN FILTER            |\n+------------+---------------------------+-------------------------+\n| Fishing    | shelf, nutrients, mixing  | harbour, cold chain     |\n| Inland fish| river, tank, reservoir    | rights, seed, markets   |\n| Forestry   | climate, altitude, species| access, tenure, rules   |\n| Mining     | ore body or fuel basin    | grade, power, transport |\n| Quarrying  | accessible bulk material  | demand, regulation      |\n+------------+---------------------------+-------------------------+\n\nPHYSIOGRAPHIC SEQUENCE\nresource occurrence -> accessibility -> extraction/harvest -> processing link\n                         |\ntechnology + transport + institutions + rights determine realised activity\n\nIndian cues:\ncentral/NE forests -> timber and NTFP | shields -> many metallic ores\nsedimentary basins -> coal/limestone | margins -> offshore hydrocarbons\n\nPrimary extraction ends before manufacturing begins."
+        },
+        {
+          "title": "Sustainable agriculture and intervention stack",
+          "structural_type": "hazard-risk-response-and-institutional-stack",
+          "source_references": [
+            "{'sessions': [6, 11], 'sections': ['BASIC LEARNING SESSION', 'Commercialisation and evidence firewalls', 'Current evidence and safe use'], 'markdown_lines': ['523-655', '1034-1125', '2738-2744', '2794-2801']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "REGIONAL PRODUCTION PRESSURE\nmonsoon variability + fragmented holdings + unequal irrigation\n+ soil decline + water stress + market risk\n                         |\nRESPONSE STACK\nsoil and water conservation\n-> crop-water alignment and diversification\n-> efficient irrigation and resilient seed systems\n-> storage, aggregation, processing and cold chain\n-> credit, insurance, extension and market access\n-> procurement reform with food-security safeguards\n-> local monitoring of income, nutrition and ecology\n\nEVIDENCE FIREWALL\nestimate is not final | output is not procurement | procurement is not stock\nstock is not consumption | MSP announcement is not actual purchase\n\nSCHEME STATUS\nannouncement -> approval -> guidelines -> selection -> funds\n-> physical output -> service outcome -> long-term impact\n\nTechnology raises output only where water, knowledge and institutions converge."
+        },
+        {
+          "title": "Map-answer and Mains spine for agricultural geography",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": [
+            "{'sessions': [1, 2, 4, 5, 6, 7, 11], 'sections': ['PYQS AND ANSWER PRACTICE', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['2678-2701', '2802-2824']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "QUESTION: Why is agricultural change spatially unequal?\n                             |\n1. DEFINE: location, seasonality, organisation and change\n                             |\n2. MAP: irrigated NW | eastern deltas | dry Deccan | plantation hills\n                             |\n3. BUILD CONTROL MATRIX\n   climate + relief + soil + water + labour + market/transport\n                             |\n4. EXPLAIN SYSTEM\n   subsistence -> surplus -> specialisation -> processing -> value chain\n                             |\n5. ADD NAMED EVIDENCE\n   Green Revolution core, procurement geography or physiographic activity\n                             |\n6. EVALUATE\n   productivity + food security versus water, soil and regional inequality\n                             |\n7. QUALIFY AND CONCLUDE\n   diversify only with purchase assurance, processing and transition support\n\nClaim -> evidence -> spatial mechanism -> distributional/ecological limit\n      -> region-sensitive verdict."
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = grounded source = synthesis / exam heuristic = verified dated...",
+            "2. Source/date: PIB, 28 May 2025 -Cabinet approval of MSP for Kharif...",
+            "3. central Indian and north-eastern forest belts and is a principal...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Do not turn a dated official estimate into a timeless fact.",
+            "2. Do not treat a scheme dashboard as an impact evaluation.",
+            "3. Do not begin with India-specific complexity before the core location...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTION: Kharif, rabi and zaid are seasons rather than crop essences; net sown area",
+            "  differs from gross cropped area, cropping intensity from yield, MSP announcement from",
+            "  procurement, food security from cereal self-sufficiency, and irrigation potential from",
+            "  realised equitable water delivery."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Practice contract Every solved item has demand decoding, a detailed...",
+            "2. NATURAL BASE -> FARMING SYSTEM -> LOCATION -> MARKET LINK -> CHANGE...",
+            "3. In Prelims, UPSC separates close classifications. In Mains, it...",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "EVIDENCE LIMIT: Punjab–Haryana wheat-rice, western Maharashtra sugarcane, Malwa",
+            "  cotton/soybean, Assam tea, Kerala rubber/spices, Karnataka coffee, eastern rice, dryland",
+            "  Deccan millets/pulses and horticultural belts must be explained through water, soil, labour,",
+            "  market and policy interactions, with Agriculture Census/land-use/production data",
+            "  source-dated."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = grounded source = synthesis / exam heuristic = verified dated...",
+            "2. Source/date: PIB, 28 May 2025 -Cabinet approval of MSP for Kharif...",
+            "3. central Indian and north-eastern forest belts and is a principal...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\30_Primary-Economic-Activities-Agriculture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g14\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

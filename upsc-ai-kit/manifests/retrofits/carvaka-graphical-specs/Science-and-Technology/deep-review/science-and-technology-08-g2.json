@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-08",
+  "subject": "Science-and-Technology",
+  "title": "DIGITAL INDIA AND INDIA STACK: UPI, AADHAAR",
+  "short_route": "DIGITAL ECOSYSTEM BOUNDARY → MODULAR STACK MAP → AADHAAR LEGAL IDENTITY CARD → THREE AADHAAR WORKFLOWS → UPI TRANSACTION CHAIN → PAYMENT-RAIL MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-08-deep-review-2026-09-04-g2.json",
+  "ascii_spec_sha256": "2b2705d7844e80581ad233bab683196058f69254d0414e972193adedc681e9dd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DIGITAL ECOSYSTEM BOUNDARY",
+      "structural_type": "layered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIGITAL ECOSYSTEM BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "PROGRAMME FOR INFRASTRUCTURE, GOVERNANCE AND SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA STACK",
+          "role": "evidence"
+        },
+        {
+          "text": "LAYERED ARCHITECTURAL IDEA",
+          "role": "primary"
+        },
+        {
+          "text": "REUSABLE INTEROPERABLE RAILS WITH PUBLIC RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVATE APP",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERFACE OR PARTICIPANT ON A RAIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIGITAL INDIA → programme for infrastructure, governance and services",
+        "INDIA STACK → layered architectural idea",
+        "DPI → reusable interoperable rails with public rules",
+        "PRIVATE APP → interface or participant on a rail",
+        "RULE → these labels cannot be substituted"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DIGITAL INDIA → programme for infrastructure, governance and services",
+            "INDIA STACK → layered architectural idea"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DPI → reusable interoperable rails with public rules",
+            "PRIVATE APP → interface or participant on a rail"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → these labels cannot be substituted",
+            "DIGITAL INDIA → programme for infrastructure, governance and services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRIVATE APP → interface or participant on a rail.",
+      "source_references": [
+        "Programme-DPI boundary",
+        "India-Stack boundary",
+        "DPI-app boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MODULAR STACK MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MODULAR STACK MAP",
+          "role": "primary"
+        },
+        {
+          "text": "NPCI UNDER RBI REGULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCOUNT AGGREGATOR CONSENT FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIGILOCKER AND ESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "INTEROPERABLE SERVICES WITHOUT ONE SUPER-DATABASE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IDENTITY → Aadhaar / UIDAI",
+        "PAYMENTS → UPI / NPCI under RBI regulation",
+        "FINANCIAL DATA → Account Aggregator consent flow",
+        "DOCUMENTS / SIGNATURES → DigiLocker and eSign",
+        "OUTPUT → interoperable services without one super-database"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "IDENTITY → Aadhaar / UIDAI",
+            "PAYMENTS → UPI / NPCI under RBI regulation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "FINANCIAL DATA → Account Aggregator consent flow",
+            "DOCUMENTS / SIGNATURES → DigiLocker and eSign"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT → interoperable services without one super-database",
+            "IDENTITY → Aadhaar / UIDAI"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAYMENTS → UPI / NPCI under RBI regulation.",
+      "source_references": [
+        "India-Stack boundary",
+        "DPI-app boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "AADHAAR LEGAL IDENTITY CARD",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AADHAAR LEGAL IDENTITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "12-DIGIT RESIDENT IDENTITY NUMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY AUTHORITY UNDER MEITY",
+          "role": "comparison"
+        },
+        {
+          "text": "AADHAAR ACT",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL FOUNDATION",
+          "role": "primary"
+        },
+        {
+          "text": "NOT PROOF",
+          "role": "caution"
+        },
+        {
+          "text": "CITIZENSHIP, DOMICILE, ENTITLEMENT OR PAYMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY MATCH ANSWERS ONLY THE IDENTITY QUESTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AADHAAR → 12-digit resident identity number",
+        "UIDAI → statutory authority under MeitY",
+        "AADHAAR ACT → legal foundation",
+        "NOT PROOF → citizenship, domicile, entitlement or payment",
+        "RULE → identity match answers only the identity question"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "AADHAAR → 12-digit resident identity number",
+            "UIDAI → statutory authority under MeitY"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "AADHAAR ACT → legal foundation",
+            "NOT PROOF → citizenship, domicile, entitlement or payment"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → identity match answers only the identity question",
+            "AADHAAR → 12-digit resident identity number"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identity match answers only the identity question.",
+      "source_references": [
+        "Aadhaar-identity boundary",
+        "UIDAI-role boundary",
+        "Identity-entitlement boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THREE AADHAAR WORKFLOWS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE AADHAAR WORKFLOWS",
+          "role": "primary"
+        },
+        {
+          "text": "YES OR NO MATCH AGAINST CIDR E-KYC",
+          "role": "caution"
+        },
+        {
+          "text": "PERMITTED DEMOGRAPHIC RETURN WITH CONSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFLINE VERIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "QR OR XML WITHOUT CIDR REQUEST",
+          "role": "primary"
+        },
+        {
+          "text": "ENTITLEMENT DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE LEGAL AND ADMINISTRATIVE STEP",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE WORKFLOW CANNOT BE RELABELLED AS ANOTHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AUTHENTICATION → yes or no match against CIDR e-KYC → permitted demographic return with consent",
+        "OFFLINE VERIFICATION → QR or XML without CIDR request",
+        "ENTITLEMENT DECISION → separate legal and administrative step",
+        "TRAP → one workflow cannot be relabelled as another"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "AUTHENTICATION → yes or no match against CIDR e-KYC → permitted demographic return with consent",
+          "ENTITLEMENT DECISION → separate legal and administrative step",
+          "AUTHENTICATION → yes or no match against CIDR e-KYC → permitted demographic return with consent"
+        ],
+        [
+          "OFFLINE VERIFICATION → QR or XML without CIDR request",
+          "TRAP → one workflow cannot be relabelled as another",
+          "OFFLINE VERIFICATION → QR or XML without CIDR request"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "AUTHENTICATION → yes or no match against CIDR e-KYC → permitted demographic return with consent",
+            "OFFLINE VERIFICATION → QR or XML without CIDR request"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ENTITLEMENT DECISION → separate legal and administrative step",
+            "TRAP → one workflow cannot be relabelled as another"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "AUTHENTICATION → yes or no match against CIDR e-KYC → permitted demographic return with consent",
+            "OFFLINE VERIFICATION → QR or XML without CIDR request"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → one workflow cannot be relabelled as another.",
+      "source_references": [
+        "Aadhaar-workflow boundary",
+        "Identity-entitlement boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "UPI TRANSACTION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UPI TRANSACTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "USER APP",
+          "role": "outcome"
+        },
+        {
+          "text": "INITIATES PAYMENT INSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEROPERABLE MESSAGING AND SWITCHING RAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "BANK OR PERMITTED INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FUNDING SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RBI FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "PAYMENT-SYSTEM REGULATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "USER APP → initiates payment instruction",
+        "UPI / NPCI → interoperable messaging and switching rail",
+        "BANK OR PERMITTED INSTRUMENT → funding source",
+        "RBI FRAMEWORK → payment-system regulation",
+        "RULE → rail, app, account and regulator are distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "USER APP → initiates payment instruction",
+            "UPI / NPCI → interoperable messaging and switching rail"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BANK OR PERMITTED INSTRUMENT → funding source",
+            "RBI FRAMEWORK → payment-system regulation"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → rail, app, account and regulator are distinct",
+            "USER APP → initiates payment instruction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → rail, app, account and regulator are distinct.",
+      "source_references": [
+        "UPI-rail boundary",
+        "UPI-instrument boundary",
+        "NPCI-RBI boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PAYMENT-RAIL MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PAYMENT-RAIL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "INSTANT RETAIL PAYMENT INSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINCT INTERBANK SETTLEMENT MODES",
+          "role": "comparison"
+        },
+        {
+          "text": "AADHAAR-AUTHENTICATED CORRESPONDENT BANKING",
+          "role": "evidence"
+        },
+        {
+          "text": "BILLS AND RECURRING BULK MANDATES",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL PAYMENT DOES NOT MEAN UPI ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "UPI → instant retail payment instruction",
+        "IMPS / NEFT / RTGS → distinct interbank settlement modes",
+        "AePS → Aadhaar-authenticated correspondent banking",
+        "BBPS / NACH → bills and recurring bulk mandates",
+        "TRAP → digital payment does not mean UPI alone"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "UPI → instant retail payment instruction",
+          "AePS → Aadhaar-authenticated correspondent banking",
+          "TRAP → digital payment does not mean UPI alone"
+        ],
+        [
+          "IMPS / NEFT / RTGS → distinct interbank settlement modes",
+          "BBPS / NACH → bills and recurring bulk mandates",
+          "UPI → instant retail payment instruction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "UPI → instant retail payment instruction",
+            "IMPS / NEFT / RTGS → distinct interbank settlement modes"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AePS → Aadhaar-authenticated correspondent banking",
+            "BBPS / NACH → bills and recurring bulk mandates"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → digital payment does not mean UPI alone",
+            "UPI → instant retail payment instruction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → digital payment does not mean UPI alone.",
+      "source_references": [
+        "Payment-rail boundary",
+        "AePS-UPI boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OPERATOR REGULATOR PARTICIPANT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "OPERATOR REGULATOR PARTICIPANT",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATES SPECIFIED RETAIL RAILS",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATES PAYMENT SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "PPI ISSUER",
+          "role": "evidence"
+        },
+        {
+          "text": "HOLDS OR ISSUES FUNDING INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "APP PROVIDER",
+          "role": "outcome"
+        },
+        {
+          "text": "CUSTOMER INTERFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE AADHAAR AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NPCI → operates specified retail rails",
+        "RBI → regulates payment systems",
+        "BANK / PPI ISSUER → holds or issues funding instrument",
+        "APP PROVIDER → customer interface",
+        "UIDAI → separate Aadhaar authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "NPCI → operates specified retail rails",
+            "RBI → regulates payment systems"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BANK / PPI ISSUER → holds or issues funding instrument",
+            "APP PROVIDER → customer interface"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "UIDAI → separate Aadhaar authority",
+            "NPCI → operates specified retail rails"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BANK / PPI ISSUER → holds or issues funding instrument.",
+      "source_references": [
+        "UIDAI-role boundary",
+        "NPCI-RBI boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ACCOUNT AGGREGATOR FLOW",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ACCOUNT AGGREGATOR FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "GIVES EXPLICIT CONSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "HOLDS REGULATED FINANCIAL INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RETRIEVES AND TRANSFERS AS A DATA BLIND",
+          "role": "evidence"
+        },
+        {
+          "text": "RECEIVES FOR CONSENTED PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "AA DOES NOT OWN OR RETAIN THE INFORMATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CUSTOMER → gives explicit consent",
+        "FIP → holds regulated financial information",
+        "AA → retrieves and transfers as a data blind",
+        "FIU → receives for consented purpose",
+        "RULE → AA does not own or retain the information"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CUSTOMER → gives explicit consent",
+            "FIP → holds regulated financial information"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AA → retrieves and transfers as a data blind",
+            "FIU → receives for consented purpose"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → AA does not own or retain the information",
+            "CUSTOMER → gives explicit consent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → AA does not own or retain the information.",
+      "source_references": [
+        "AA-data-blind boundary",
+        "Consent-purpose boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TRUST LAYERS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRUST LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS, SHARE AND VERIFY TRUSTED DOCUMENTS ESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "ONLINE ELECTRONIC SIGNATURE UNDER TRUST FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY AND AUTHENTICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PAYMENT INSTRUCTION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DOCUMENT, SIGNATURE, IDENTITY AND PAYMENT STAY SEPARATE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DIGILOCKER → access, share and verify trusted documents eSIGN → online electronic signature under trust",
+        "AADHAAR → identity and authentication",
+        "UPI → payment instruction rail",
+        "RULE → document, signature, identity and payment stay separate"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "DIGILOCKER → access, share and verify trusted documents eSIGN → online electronic signature under trust framework",
+          "UPI → payment instruction rail",
+          "DIGILOCKER → access, share and verify trusted documents eSIGN → online electronic signature under trust framework"
+        ],
+        [
+          "AADHAAR → identity and authentication",
+          "RULE → document, signature, identity and payment stay separate",
+          "AADHAAR → identity and authentication"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DIGILOCKER → access, share and verify trusted documents eSIGN → online electronic signature under trust framework",
+            "AADHAAR → identity and authentication"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "UPI → payment instruction rail",
+            "RULE → document, signature, identity and payment stay separate"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DIGILOCKER → access, share and verify trusted documents eSIGN → online electronic signature under trust framework",
+            "AADHAAR → identity and authentication"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → document, signature, identity and payment stay separate.",
+      "source_references": [
+        "DigiLocker-boundary",
+        "eSign-boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OPEN-NETWORK EXTENSIONS",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OPEN-NETWORK EXTENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN COMMERCE PROTOCOL",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN CREDIT PROTOCOL",
+          "role": "comparison"
+        },
+        {
+          "text": "NETWORK LOGIC",
+          "role": "evidence"
+        },
+        {
+          "text": "UNBUNDLE FRONT ENDS FROM SHARED RULES",
+          "role": "primary"
+        },
+        {
+          "text": "COMPETE ON TOP OF PROTOCOL",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTOCOL IS NOT A PRIVATE MARKETPLACE OR LENDER",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONDC → open commerce protocol",
+        "OCEN → open credit protocol",
+        "NETWORK LOGIC → unbundle front ends from shared rules",
+        "APPLICATIONS → compete on top of protocol",
+        "TRAP → protocol is not a private marketplace or lender"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ONDC → open commerce protocol",
+            "OCEN → open credit protocol"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NETWORK LOGIC → unbundle front ends from shared rules",
+            "APPLICATIONS → compete on top of protocol"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → protocol is not a private marketplace or lender",
+            "MUST REMEMBER: India Stack is layered digital public infrastructure for..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → protocol is not a private marketplace or lender.",
+      "source_references": [
+        "ONDC-OCEN boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-08_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ELECTRONIC TOLL STATUS RAIL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ELECTRONIC TOLL STATUS RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "RFID TAG-READER ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEARING AND DISPUTE FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "BARRIERLESS PILOT COMBINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "GNSS DISTANCE TOLLING",
+          "role": "primary"
+        },
+        {
+          "text": "PROPOSED OR PILOT DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT CALL A PROPOSAL NATIONWIDE DEPLOYMENT",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FASTag → RFID tag-reader architecture",
+        "NETC → clearing and dispute framework",
+        "ANPR-FASTag → barrierless pilot combination",
+        "GNSS DISTANCE TOLLING → proposed or pilot direction",
+        "RULE → do not call a proposal nationwide deployment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "FASTag → RFID tag-reader architecture",
+            "NETC → clearing and dispute framework"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANPR-FASTag → barrierless pilot combination",
+            "GNSS DISTANCE TOLLING → proposed or pilot direction"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → do not call a proposal nationwide deployment",
+            "CLOSE DISTINCTION: Aadhaar is not citizenship or universal identity proof, authentication..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → do not call a proposal nationwide deployment.",
+      "source_references": [
+        "FASTag-boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-08_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DPI CLAIM FIREWALL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DPI CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMME, RAIL, APP, OPERATOR AND REGULATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTITY, PAYMENT, CONSENT, DOCUMENT OR TOLL FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "IDENTITY FROM CITIZENSHIP AND ENTITLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PAIR SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION, FRAUD, PRIVACY AND GRIEVANCE SAFEGUARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "MONTHLY OFFICIAL TRANSACTION AND COVERAGE DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → programme, rail, app, operator and regulator",
+        "TRACE → identity, payment, consent, document or toll flow",
+        "SEPARATE → identity from citizenship and entitlement",
+        "PAIR SCALE → inclusion, fraud, privacy and grievance safeguards",
+        "VERIFY → monthly official transaction and coverage data"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DEFINE → programme, rail, app, operator and regulator",
+            "TRACE → identity, payment, consent, document or toll flow"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SEPARATE → identity from citizenship and entitlement",
+            "PAIR SCALE → inclusion, fraud, privacy and grievance safeguards"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → monthly official transaction and coverage data",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Map actor, service layer, legal basis,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Map actor, service layer, legal basis,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Map actor, service layer, legal basis,.",
+      "source_references": [
+        "Scale-safeguard boundary",
+        "Volatile-data boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-08_Learning-Session.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MODULARITY LOWERS ENTRY BARRIERS FOR APPLICATIONS BECAUSE EVERY NEW",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL SEPARATION IMPROVES ACCOUNTABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY ERRORS, PAYMENT DISPUTES, CONSENT MISUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "AND DOCUMENT-VERIFICATION FAILURES CAN BE ASSIGNED TO DIFFERENT GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "THE SAME MODULARITY ALSO DEMANDS INTEROPERABILITY STANDARDS, GRIEVANCE DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY AADHAAR AUTHORITY UNDER MEITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "UPI INFRASTRUCTURE INSTITUTION IN THE RETAIL PAYMENTS ECOSYSTEM.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Modularity lowers entry barriers for applications because every new product need not recreate identity, payment and trust rails from scratch.",
+            "CAUTION: Institutional separation improves accountability: identity errors, payment disputes, consent misuse",
+            "and document-verification failures can be assigned to different governance domains.",
+            "CAUTION: The same modularity also demands interoperability standards, grievance design and cyber resilience across many actors."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "UIDAI: statutory Aadhaar authority under MeitY.",
+            "NPCI: UPI infrastructure institution in the retail payments ecosystem.",
+            "RBI: regulator for payment systems and AA directions.",
+            "DFS, Ministry of Finance: official explanatory page for AA ecosystem progress."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CCA: official eSign policy and trust-framework authority.",
+            "NeGD / Digital India Corporation / MeitY: DigiLocker governance ecosystem.",
+            "Digital India: umbrella digital-governance programme within which many such initiatives scale.",
+            "Aadhaar-enabled identity and authentication can support KYC, subsidy access and service onboarding."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

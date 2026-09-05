@@ -1,0 +1,57 @@
+{
+  "topic_key": "political-theory-03",
+  "generation": 3,
+  "identity": "political-theory-03:learner-v2:g3",
+  "approved": false,
+  "session_count": 10,
+  "mcq_count": 48,
+  "direct_pyq_count": 0,
+  "cross_application_pyq_count": 2,
+  "source_preservation": "passed",
+  "pdf_validation": "passed",
+  "published": true,
+  "commands": [
+    {
+      "description": "Finalize learner-v2 topic",
+      "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\finalize_v2_topic.py --repository-root C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent --manifest C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus.json --record-file C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\manifests\\exports\\political-theory-03-learner-v2-g3-2026-08-28-record.json",
+      "output_tail": [
+        "Index saved: C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\EXPORT-PDF-COMMAND-INDEX.md",
+        "Commands: 516",
+        "Finalized political-theory-03 / learner-v2 / g3; approval was preserved exactly as supplied."
+      ]
+    },
+    {
+      "description": "Refresh learner-v2 topic catalogue",
+      "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\generate_v2_topic_command_catalog.py --repository-root C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent --guide",
+      "output_tail": [
+        "catalogue: upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+        "{\"ambiguous_or_unresolved_entries\": 0, \"duplicate_commands\": 0, \"duplicate_topic_keys\": 0, \"sections\": 27, \"source_ready_topics\": 516, \"subjects\": 23, \"topics\": 516}",
+        "command_guide: V2-SUBJECT-SECTION-COMMAND-INDEX.md"
+      ]
+    },
+    {
+      "description": "Refresh learning-session command indexes",
+      "command": "C:\\Users\\pulkitkundra\\AppData\\Local\\Programs\\Python\\Python310\\python.exe C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\generate_learning_session_command_indexes.py",
+      "output_tail": [
+        "Generated 23 subject indexes and one master index."
+      ]
+    }
+  ],
+  "outputs": {
+    "markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-03_Learning-Session.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-03_Solved-Workbook.md",
+    "main_pdf": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\notes\\political-theory-03_Learning-Session_2026-08-28.pdf",
+    "workbook_pdf": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\workbooks\\political-theory-03_Solved-Workbook_2026-08-28.pdf",
+    "asset_folder": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-03",
+    "concept_visual": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-03\\political-theory-03_concept-map_g3.png",
+    "main_visual_audit": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-03\\political-theory-03_main-visual-audit_g3.json",
+    "workbook_visual_audit": "notes\\Political-Theory\\learning-session-v2\\subject-wide-syllabus\\assets\\political-theory-03\\political-theory-03_workbook-visual-audit_g3.json",
+    "flow_dir": "notes\\Political-Theory\\flowcharts\\political-theory-03\\continuous-at-a-glance-english-first-g3",
+    "ascii_markdown": "notes\\Political-Theory\\flowcharts\\political-theory-03\\political-theory-03_Twelve-Panel-ASCII-Master_2026-08-28-g3.md",
+    "ascii_pdf": "notes\\Political-Theory\\flowcharts\\political-theory-03\\continuous-at-a-glance-english-first-g3\\ascii-master.pdf",
+    "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-03-ascii-2026-08-28-g3.json",
+    "graphical_spec": "upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus-graphical-specs\\political-theory-03-g3.json",
+    "record": "upsc-ai-kit\\manifests\\exports\\political-theory-03-learner-v2-g3-2026-08-28-record.json",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-03-learner-v2-g3-2026-08-28-validation.json"
+  }
+}

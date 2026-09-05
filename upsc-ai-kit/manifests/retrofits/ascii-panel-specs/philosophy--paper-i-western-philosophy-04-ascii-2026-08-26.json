@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a manually authored Kant critical-philosophy atlas",
+  "generated_on": "2026-08-26",
+  "scope": "Philosophy Optional Paper I Western Philosophy topic 04 only",
+  "constraints": {
+    "panel_count_per_topic": 10,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-04",
+      "title": "Kant",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g2\\topic-04_Complete-Learning-Session_2026-08-26.md",
+      "source_record": "philosophy-paper-i-western-philosophy-04:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved Cārvāka design reference and every legacy Kant generation remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Critical starting problem and the rationalism-empiricism synthesis",
+          "structural_type": "conflict-synthesis-and-faculty-rail",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL QUESTION: How can cognition be informative, necessary and objectively valid?",
+            "RATIONALISM -> a priori necessity, but dogmatic claims about soul, world and God",
+            "EMPIRICISM / HUME -> sensory content, but no experienced necessary connection",
+            "KANTIAN CRITIQUE -> sensory matter + a priori form, restricted to possible experience",
+            "COPERNICAN REVOLUTION -> objects AS EXPERIENCED conform to cognitive conditions",
+            "SENSIBILITY -> intuitions in space/time -> UNDERSTANDING -> categories and objects",
+            "UNDERSTANDING -> REASON -> Ideas of Soul, World and God; drive to the unconditioned",
+            "TRANSCENDENTAL = conditions of possible experience; TRANSCENDENT = beyond experience",
+            "RESULT -> empirical realism + transcendental idealism + limit on theoretical reason",
+            "ANSWER LINE -> Kant secures objectivity by making its a priori conditions mind-given."
+          ]
+        },
+        {
+          "panel_title": "Synthetic a priori judgments and the Copernican explanation",
+          "structural_type": "judgment-matrix-and-reversal-flow",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "ANALYTIC -> predicate contained in subject; denial contradicts the concept",
+            "SYNTHETIC -> predicate adds content; denial is not self-contradictory",
+            "A PRIORI -> necessary/universal warrant independent of particular experience",
+            "A POSTERIORI -> empirical, informative and contingent warrant",
+            "ANALYTIC A PRIORI -> 'Bodies are extended'; ANALYTIC A POSTERIORI -> no Kantian class",
+            "SYNTHETIC A POSTERIORI -> 'This table is brown'; informative but contingent",
+            "SYNTHETIC A PRIORI -> 7 + 5 = 12; every event has a cause; informative + necessary",
+            "HOW POSSIBLE? -> the mind supplies space, time and categories to every appearance",
+            "MATHEMATICS / FUNDAMENTAL SCIENCE -> valid for objects of possible experience",
+            "LIMIT -> no inference from these forms to things in themselves or transcendent objects"
+          ]
+        },
+        {
+          "panel_title": "Transcendental Aesthetic: space and time as forms of intuition",
+          "structural_type": "outer-inner-sense-map-and-argument-ledger",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "FORM OF INTUITION -> a priori way in which sensory matter can be given",
+            "SPACE -> pure form of OUTER sense; coexistence, externality and geometry",
+            "TIME -> pure form of INNER sense; succession and all representations",
+            "A PRIORI ARGUMENT -> spatial/temporal ordering presupposes, not produces, the forms",
+            "NECESSITY ARGUMENT -> empty space/time is representable; objects without them are not",
+            "INTUITION ARGUMENT -> one space/time; regions and periods are limitations within it",
+            "INFINITY ARGUMENT -> magnitude is represented as a given whole, not instances under a concept",
+            "EMPIRICALLY REAL -> objectively valid for every appearance and possible experience",
+            "TRANSCENDENTALLY IDEAL -> not properties of things in themselves",
+            "OBJECTION -> modern geometry/science pressures examples, not the whole transcendental strategy"
+          ]
+        },
+        {
+          "panel_title": "Categories, synthesis and transcendental unity of apperception",
+          "structural_type": "four-card-category-map-and-deduction-flow",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "QUANTITY -> Unity | Plurality | Totality",
+            "QUALITY -> Reality | Negation | Limitation",
+            "RELATION -> Inherence/Subsistence | Causality/Dependence | Community/Reciprocity",
+            "MODALITY -> Possibility/Impossibility | Existence/Non-existence | Necessity/Contingency",
+            "METAPHYSICAL DEDUCTION -> identifies categories from functions of judgment",
+            "TRANSCENDENTAL DEDUCTION -> justifies their objective application",
+            "MANIFOLD -> SYNTHESIS under rules -> 'I THINK' can accompany each representation",
+            "APPERCEPTION -> formal unity of self-consciousness, not empirical ego or soul-substance",
+            "OBJECTIVE UNITY -> the same rule unites representations as one experience of objects",
+            "LIMIT -> categories constitute appearances only; they do not picture or determine noumena"
+          ]
+        },
+        {
+          "panel_title": "Schematism: temporal bridge from pure category to appearance",
+          "structural_type": "heterogeneity-bridge-and-time-architecture",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "PROBLEM -> pure intellectual category and sensible particular appearance are heterogeneous",
+            "SCHEMA -> rule/procedure of productive imagination; never a determinate mental image",
+            "WHY TIME? -> it is a priori like the category and contains every representation",
+            "QUANTITY / time-series -> NUMBER through successive homogeneous addition",
+            "QUALITY / time-content -> DEGREE or intensive magnitude",
+            "RELATION / time-order -> permanence, succession by rule, reciprocal coexistence",
+            "MODALITY / time-scope -> some time, determinate time, all times",
+            "DEDUCTION proves THAT categories apply; SCHEMATISM explains HOW they apply",
+            "UNSCHEMATISED CATEGORY -> logical function without objective sense for appearances",
+            "RESIDUAL -> Kant calls the mediating operation an art concealed in the human soul"
+          ]
+        },
+        {
+          "panel_title": "Analogies of Experience and Kant's precise answer to Hume",
+          "structural_type": "three-proxy-time-map-and-house-ship-comparison",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "MASTER PREMISE -> time itself cannot be perceived; objective time needs proxies",
+            "FIRST ANALOGY / duration -> substance persists while its states alter",
+            "SECOND ANALOGY / succession -> every event follows according to a causal rule",
+            "THIRD ANALOGY / simultaneity -> substances coexist through reciprocal community",
+            "HOUSE -> viewing order is reversible; succession belongs to my apprehension",
+            "SHIP DOWNSTREAM -> order is irreversible; an objective event requires a rule",
+            "ANTI-HUME MOVE -> causality is a condition of judging objective succession, not habit",
+            "QUALIFICATION -> particular causal laws remain empirical and require investigation",
+            "STRAWSON OBJECTION -> involuntary order does not automatically prove natural necessity",
+            "VERDICT -> Kant secures entitlement to causality more clearly than any particular law"
+          ]
+        },
+        {
+          "panel_title": "Phenomena, noumena, empirical realism and the idealism boundary",
+          "structural_type": "knowledge-boundary-and-refutation-flow",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "PHENOMENON -> object as given in space/time and thought through categories",
+            "POSSIBLE EXPERIENCE -> knowable, public, causal and scientifically investigable domain",
+            "NOUMENON NEGATIVELY -> thing considered apart from sensible intuition; limiting concept",
+            "NOUMENON IS THINKABLE, NOT KNOWABLE -> no theoretical predicates from the categories",
+            "TRANSCENDENTAL IDEALISM -> our forms condition appearances",
+            "EMPIRICAL REALISM -> external objects are real within experience, not private illusions",
+            "REFUTATION -> determinate inner time-awareness requires an empirically external permanent",
+            "TWO-ASPECT READING -> one object considered as appearance and independently of our access",
+            "HEGEL/JACOBI PRESSURE -> boundary knowledge and affection threaten internal consistency",
+            "SAFE VERDICT -> negative limitation is defensible; positive noumenal causation is not"
+          ]
+        },
+        {
+          "panel_title": "Ideas of Reason, regulative unity and natural transcendental illusion",
+          "structural_type": "three-idea-tree-and-use-split",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "UNDERSTANDING -> supplies rules for appearances; REASON -> seeks the unconditioned",
+            "SOUL -> projected complete unity of inner conditions",
+            "WORLD -> projected complete totality of cosmological conditions",
+            "GOD -> projected complete ground of all conditions and reality",
+            "REGULATIVE USE -> guide inquiry toward systematic unity; legitimate 'as if'",
+            "CONSTITUTIVE USE -> claim the Idea determines a known object; illegitimate",
+            "TRANSCENDENTAL ILLUSION -> natural and persistent drive to reify completion",
+            "PARALOGISM -> logical 'I think' is misread as simple, substantial, enduring soul",
+            "VALUE -> systematic research and explanatory integration",
+            "DANGER -> paralogisms, antinomies and speculative theology"
+          ]
+        },
+        {
+          "panel_title": "Four cosmological antinomies and their differentiated resolutions",
+          "structural_type": "four-pair-card-stack-and-resolution-split",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "1 THESIS -> beginning in time + spatial limit | ANTITHESIS -> infinite time/space",
+            "2 THESIS -> composites end in simple parts | ANTITHESIS -> nothing simple exists",
+            "3 THESIS -> freedom besides nature | ANTITHESIS -> universal natural causality",
+            "4 THESIS -> absolutely necessary being | ANTITHESIS -> no necessary being",
+            "SOURCE OF CONFLICT -> categories applied to the world-series as a completed whole",
+            "MATHEMATICAL 1-2 -> reject shared assumption that a finite/infinite whole is given",
+            "DYNAMICAL 3-4 -> phenomenal conditions and intelligible standpoint can be distinguished",
+            "FREEDOM -> thinkable noumenally while every appearance remains naturally determined",
+            "NECESSARY GROUND -> thinkable boundary, not theoretical proof of God",
+            "SIGNIFICANCE -> indirect case for idealism and limit of speculative metaphysics"
+          ]
+        },
+        {
+          "panel_title": "God-proof critique, evaluation ledger, traps, PYQs and answer spine",
+          "structural_type": "stacked-proof-critique-and-exam-ledger",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "ONTOLOGICAL -> perfect concept includes existence | KANT -> existence adds no content",
+            "100 possible/actual thalers -> same concept; actuality cannot be extracted analytically",
+            "COSMOLOGICAL -> contingent exists, therefore necessary God | illicit causal extension",
+            "COSMOLOGICAL DEPENDENCE -> necessary being = ens realissimum repeats ontological proof",
+            "DESIGN -> order implies designer | at most an architect, not necessary creator",
+            "DESIGN DEPENDENCE -> creator/necessity needs cosmological then ontological steps",
+            "BOUNDARY -> theoretical proof fails; this is not a demonstration of atheism",
+            "COMPARISON -> rationalist necessity + empiricist content under critical limitation",
+            "PYQ ROUTES -> synthesis, space/time, apperception, antinomies, Hume and God proofs",
+            "ANSWER SPINE -> thesis -> doctrine -> argument -> objection/reply -> qualified verdict",
+            "FINAL VERDICT -> Kant gains phenomenal objectivity at the cost of noumenal agnosticism"
+          ]
+        }
+      ]
+    }
+  ]
+}

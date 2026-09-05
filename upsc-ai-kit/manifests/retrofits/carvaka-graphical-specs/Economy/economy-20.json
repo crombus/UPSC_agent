@@ -1,0 +1,1014 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-20",
+  "subject": "Economy",
+  "title": "FOREIGN TRADE, WTO, FTAS AND PROTECTIONISM",
+  "short_route": "TRADE TRANSMISSION RAIL → TRADE-ACCOUNT BOUNDARY → WTO NON-DISCRIMINATION MAP → TARIFF SPACE LADDER → FTA STATUS AND ORIGIN → CREATION VERSUS DIVERSION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\learning-sessions\\v2\\subject-wide-syllabus\\economy-20_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-20-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "aeebbf14d80da05dd2f731f47993181b340814c8ca02a99baa4eddf10e785a30",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRADE TRANSMISSION RAIL",
+      "structural_type": "cause-effect-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRADE TRANSMISSION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "BORDER RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "LANDED PRICE + MARKET ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCING + INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTPUT + JOBS + CONSUMERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BORDER RULE",
+        "LANDED PRICE + MARKET ACCESS",
+        "SOURCING + INVESTMENT",
+        "OUTPUT + JOBS + CONSUMERS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "BORDER RULE",
+            "LANDED PRICE + MARKET ACCESS"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "SOURCING + INVESTMENT",
+            "OUTPUT + JOBS + CONSUMERS"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "BORDER RULE",
+            "LANDED PRICE + MARKET ACCESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCING + INVESTMENT; OUTPUT + JOBS + CONSUMERS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TRADE-ACCOUNT BOUNDARY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRADE-ACCOUNT BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "GOODS CROSSING BORDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "MODE-SPECIFIC SUPPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "TOTAL TRADE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE INCLUDED COMPONENTS",
+          "role": "institution"
+        },
+        {
+          "text": "CURRENT ACCOUNT",
+          "role": "outcome"
+        },
+        {
+          "text": "BROADER THAN TRADE BALANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MERCHANDISE → goods crossing borders",
+        "SERVICES → mode-specific supply",
+        "TOTAL TRADE → state included components",
+        "CURRENT ACCOUNT → broader than trade balance"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "MERCHANDISE → goods crossing borders",
+          "TOTAL TRADE → state included components",
+          "MERCHANDISE → goods crossing borders"
+        ],
+        [
+          "SERVICES → mode-specific supply",
+          "CURRENT ACCOUNT → broader than trade balance",
+          "SERVICES → mode-specific supply"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MERCHANDISE → goods crossing borders",
+            "SERVICES → mode-specific supply"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TOTAL TRADE → state included components",
+            "CURRENT ACCOUNT → broader than trade balance"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "MERCHANDISE → goods crossing borders",
+            "SERVICES → mode-specific supply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TOTAL TRADE → state included components; CURRENT ACCOUNT → broader than trade balance.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WTO NON-DISCRIMINATION MAP",
+      "structural_type": "two-stage-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WTO NON-DISCRIMINATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TREATMENT ACROSS TRADING PARTNERS",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL TREATMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL TREATMENT AFTER ENTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "AGREEMENT-SPECIFIC CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CUSTOMS DUTY",
+          "role": "outcome"
+        },
+        {
+          "text": "BORDER STAGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MFN → treatment across trading partners",
+        "NATIONAL TREATMENT → internal treatment after entry",
+        "EXCEPTIONS → agreement-specific conditions",
+        "CUSTOMS DUTY → border stage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "MFN → treatment across trading partners",
+            "NATIONAL TREATMENT → internal treatment after entry"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "EXCEPTIONS → agreement-specific conditions",
+            "CUSTOMS DUTY → border stage"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "MFN → treatment across trading partners",
+            "NATIONAL TREATMENT → internal treatment after entry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXCEPTIONS → agreement-specific conditions; CUSTOMS DUTY → border stage.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TARIFF SPACE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TARIFF SPACE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "BOUND RATE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGOTIATED CEILING",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLIED RATE",
+          "role": "evidence"
+        },
+        {
+          "text": "RATE ACTUALLY CHARGED",
+          "role": "primary"
+        },
+        {
+          "text": "GAP BETWEEN THE TWO",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESERVE SCHEDULE + DATE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BOUND RATE → negotiated ceiling",
+        "APPLIED RATE → rate actually charged",
+        "WATER → gap between the two",
+        "CHANGE → preserve schedule + date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "BOUND RATE → negotiated ceiling",
+            "APPLIED RATE → rate actually charged"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "WATER → gap between the two",
+            "CHANGE → preserve schedule + date"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUND RATE → negotiated ceiling",
+            "APPLIED RATE → rate actually charged"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATER → gap between the two; CHANGE → preserve schedule + date.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FTA STATUS AND ORIGIN CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FTA STATUS AND ORIGIN CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ENTERED INTO FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCT COVERAGE + PHASE-DOWN",
+          "role": "comparison"
+        },
+        {
+          "text": "RULES OF ORIGIN",
+          "role": "evidence"
+        },
+        {
+          "text": "PREFERENCE ELIGIBILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NEGOTIATING → SIGNED → RATIFIED",
+        "ENTERED INTO FORCE",
+        "PRODUCT COVERAGE + PHASE-DOWN",
+        "RULES OF ORIGIN → preference eligibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "NEGOTIATING → SIGNED → RATIFIED",
+            "ENTERED INTO FORCE"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "PRODUCT COVERAGE + PHASE-DOWN",
+            "RULES OF ORIGIN → preference eligibility"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NEGOTIATING → SIGNED → RATIFIED",
+            "ENTERED INTO FORCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRODUCT COVERAGE + PHASE-DOWN; RULES OF ORIGIN → preference eligibility.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CREATION VERSUS DIVERSION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CREATION VERSUS DIVERSION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE CREATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER-COST PARTNER REPLACES DOMESTIC SUPPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE DIVERSION",
+          "role": "evidence"
+        },
+        {
+          "text": "PREFERRED PARTNER DISPLACES CHEAPER OUTSIDER",
+          "role": "primary"
+        },
+        {
+          "text": "WELFARE + PRODUCTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT INFER FROM GROSS TRADE ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRADE CREATION → lower-cost partner replaces domestic supply",
+        "TRADE DIVERSION → preferred partner displaces cheaper outsider",
+        "TEST → welfare + productivity",
+        "DO NOT infer from gross trade alone"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "TRADE CREATION → lower-cost partner replaces domestic supply",
+          "TEST → welfare + productivity",
+          "TRADE CREATION → lower-cost partner replaces domestic supply"
+        ],
+        [
+          "TRADE DIVERSION → preferred partner displaces cheaper outsider",
+          "DO NOT infer from gross trade alone",
+          "TRADE DIVERSION → preferred partner displaces cheaper outsider"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "TRADE CREATION → lower-cost partner replaces domestic supply",
+            "TRADE DIVERSION → preferred partner displaces cheaper outsider"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TEST → welfare + productivity",
+            "DO NOT infer from gross trade alone"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "TRADE CREATION → lower-cost partner replaces domestic supply",
+            "TRADE DIVERSION → preferred partner displaces cheaper outsider"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE DIVERSION → preferred partner displaces cheaper outsider.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TRADE-REMEDY DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRADE-REMEDY DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "DUMPING + INJURY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-DUMPING ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSIDY + INJURY",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNTERVAILING ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "IMPORT SURGE + SERIOUS INJURY",
+          "role": "outcome"
+        },
+        {
+          "text": "DGTR FINDING",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT FINAL DUTY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DUMPING + INJURY → anti-dumping route",
+        "SUBSIDY + INJURY → countervailing route",
+        "IMPORT SURGE + SERIOUS INJURY → safeguard",
+        "DGTR FINDING → not final duty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DUMPING + INJURY → anti-dumping route",
+            "SUBSIDY + INJURY → countervailing route"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "IMPORT SURGE + SERIOUS INJURY → safeguard",
+            "DGTR FINDING → not final duty"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DUMPING + INJURY → anti-dumping route",
+            "SUBSIDY + INJURY → countervailing route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMPORT SURGE + SERIOUS INJURY → safeguard; DGTR FINDING → not final duty.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRIMS AND TRIPS BOUNDARY",
+      "structural_type": "agreement-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRIMS AND TRIPS BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "GOODS-LINKED INVESTMENT MEASURES",
+          "role": "outcome"
+        },
+        {
+          "text": "MINIMUM IP STANDARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICES RULES",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMESTIC LAW",
+          "role": "primary"
+        },
+        {
+          "text": "GRANT + ENFORCEMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TRIMS → goods-linked investment measures",
+        "TRIPS → minimum IP standards",
+        "GATS → services rules",
+        "DOMESTIC LAW → grant + enforcement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "TRIMS → goods-linked investment measures",
+            "TRIPS → minimum IP standards"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GATS → services rules",
+            "DOMESTIC LAW → grant + enforcement"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "TRIMS → goods-linked investment measures",
+            "TRIPS → minimum IP standards"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GATS → services rules; DOMESTIC LAW → grant + enforcement.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "IGC OBJECTIVE TRAP",
+      "structural_type": "institution-card",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "IGC OBJECTIVE TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "INTERGOVERNMENTAL GRAIN-TRADE BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET INFORMATION + COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT UN RELIEF AGENCY",
+          "role": "caution"
+        },
+        {
+          "text": "NOT FCI PROCUREMENT OR PRICE SETTING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTERGOVERNMENTAL GRAIN-TRADE BODY",
+        "MARKET INFORMATION + COOPERATION",
+        "NOT UN RELIEF AGENCY",
+        "NOT FCI PROCUREMENT OR PRICE SETTING"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "INTERGOVERNMENTAL GRAIN-TRADE BODY",
+            "MARKET INFORMATION + COOPERATION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "NOT UN RELIEF AGENCY",
+            "NOT FCI PROCUREMENT OR PRICE SETTING"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "INTERGOVERNMENTAL GRAIN-TRADE BODY",
+            "MARKET INFORMATION + COOPERATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT UN RELIEF AGENCY; NOT FCI PROCUREMENT OR PRICE SETTING.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROTECTION COST CASCADE",
+      "structural_type": "cause-effect-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROTECTION COST CASCADE",
+          "role": "primary"
+        },
+        {
+          "text": "UPSTREAM TARIFF",
+          "role": "outcome"
+        },
+        {
+          "text": "INPUT COST",
+          "role": "comparison"
+        },
+        {
+          "text": "DOWNSTREAM EXPORT PRICE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPETITIVENESS + CONSUMER EFFECT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "UPSTREAM TARIFF",
+        "INPUT COST",
+        "DOWNSTREAM EXPORT PRICE",
+        "COMPETITIVENESS + CONSUMER EFFECT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "UPSTREAM TARIFF",
+            "INPUT COST"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DOWNSTREAM EXPORT PRICE",
+            "COMPETITIVENESS + CONSUMER EFFECT"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "UPSTREAM TARIFF",
+            "INPUT COST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INPUT COST; DOWNSTREAM EXPORT PRICE; COMPETITIVENESS + CONSUMER EFFECT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WTO DISPUTE-SETTLEMENT STATUS",
+      "structural_type": "status-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WTO DISPUTE-SETTLEMENT STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "PANELS CONTINUE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPELLATE BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO NEW APPEALS SINCE DEC 2019",
+          "role": "caution"
+        },
+        {
+          "text": "NOTIFIED APPEALS ACCUMULATE",
+          "role": "primary"
+        },
+        {
+          "text": "WEAKENED SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "NO SYSTEM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PANELS CONTINUE",
+        "APPELLATE BODY → no new appeals since Dec 2019",
+        "NOTIFIED APPEALS ACCUMULATE",
+        "WEAKENED SYSTEM != NO SYSTEM"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED SERIES / INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "PANELS CONTINUE",
+            "APPELLATE BODY → no new appeals since Dec 2019"
+          ]
+        },
+        {
+          "heading": "WHAT CHANGED",
+          "role": "mechanism",
+          "items": [
+            "NOTIFIED APPEALS ACCUMULATE",
+            "WEAKENED SYSTEM != NO SYSTEM"
+          ]
+        },
+        {
+          "heading": "COMPARABILITY / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "PANELS CONTINUE",
+            "APPELLATE BODY → no new appeals since Dec 2019"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPELLATE BODY → no new appeals since Dec 2019.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TRADE-POLICY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TRADE-POLICY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE LEGAL CATEGORY + STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE VALUE-CHAIN INCIDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST CONSUMERS + FIRMS + WORKERS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE CAPABILITY + DIVERSIFICATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE legal category + status",
+        "TRACE value-chain incidence",
+        "TEST consumers + firms + workers",
+        "CONCLUDE capability + diversification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "DEFINE legal category + status",
+            "TRACE value-chain incidence"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "TEST consumers + firms + workers",
+            "CONCLUDE capability + diversification"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE legal category + status",
+            "TRACE value-chain incidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST consumers + firms + workers; CONCLUDE capability + diversification.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARATIVE ADVANTAGE EXPLAINS GAINS FROM TRADE, WHILE STRATEGIC TRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFECTIVE PROTECTION CAN EXCEED THE NOMINAL TARIFF WHEN OUTPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "GVC PARTICIPATION DEPENDS ON PREDICTABLE CUSTOMS, LOGISTICS, STANDARDS, IMPORTED",
+          "role": "evidence"
+        },
+        {
+          "text": "TRADE REMEDIES REQUIRE EVIDENCE OF INJURY AND CAUSAL LINKAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIGITAL TRADE ADDS DATA, LOCALISATION, SOURCE-CODE, TAXATION AND PLATFORM-REGULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "RESILIENCE POLICY SHOULD DIVERSIFY SUPPLIERS AND BUILD CAPABILITY RATHER",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVIDES MULTILATERAL TRADE RULES, NEGOTIATION FORUMS AND DISPUTE-SETTLEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Comparative advantage explains gains from trade, while strategic trade arguments focus",
+            "CAUTION: Effective protection can exceed the nominal tariff when output protection combines with",
+            "CAUTION: GVC participation depends on predictable customs, logistics, standards, imported inputs",
+            "CAUTION: Trade remedies require evidence of injury and causal linkage under applicable rules."
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Digital trade adds data, localisation, source-code, taxation and platform-regulation",
+            "CAUTION: Resilience policy should diversify suppliers and build capability rather than pursue",
+            "WTO: provides multilateral trade rules, negotiation forums and dispute-settlement",
+            "Department of Commerce: negotiates trade agreements and administers trade-policy"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "DGTR: investigates specified trade-remedy cases under applicable law.",
+            "Customs and standards or testing bodies: implement border treatment, origin",
+            "CAUTION: A high tariff on an imported component can protect one upstream producer while making",
+            "CAUTION: Rules of origin prevent goods from a non-member merely passing through an FTA partner"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

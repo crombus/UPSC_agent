@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "modern-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "modern_history_topic_review_control": true,
+    "authored_topic_panel_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-24",
+      "display_title": "The Government of India Act 1935 & the Congress Ministries (1937–1939)",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Constitutional lineage, Simon to royal assent",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SIMON REPORT (1930) -> RTCs (1930-32) -> WHITE PAPER (1933)",
+            "-> JOINT SELECT COMMITTEE (1934) -> ROYAL ASSENT (1935)",
+            "INPUTS -> commission evidence + constitutional negotiation + parliamentary review",
+            "RULE -> five ordered stages; none may be skipped or reordered.",
+            "MUST REMEMBER: The Government of India Act 1935 created provincial autonomy and proposed an",
+            "  all-India federation that never came into operation; dyarchy ended in provinces but was",
+            "  proposed at the centre."
+          ],
+          "source_references": [
+            "Constitutional lineage: from Simon to royal assent",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Two halves of the Act, federation never in force",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "FEDERAL HALF -> All-India Federation + central dyarchy -> NEVER IN FORCE",
+            "PROVINCIAL HALF -> provincial autonomy, dyarchy abolished -> OPERATED 1937",
+            "ACCESSION FAILURE -> princely threshold remained unmet",
+            "RULE -> the federation's non-operation must never be blurred with the record."
+          ],
+          "source_references": [
+            "Two halves of the Act and the federation that never operated",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Dyarchy: abolished provincially, unrealised centrally",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1919 ACT -> provincial dyarchy (reserved + transferred subjects)",
+            "1935 ACT -> provincial dyarchy ABOLISHED -> provincial autonomy begins",
+            "            PROVINCIAL MINISTERS -> responsible for all provincial subjects and departments",
+            "CENTRAL DYARCHY -> proposed only for the federal centre -> never operated."
+          ],
+          "source_references": [
+            "Provincial dyarchy abolished, not merely modified",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Governor's powers versus Section 93",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DISCRETIONARY / SPECIAL RESPONSIBILITY -> continuous standing power",
+            "SECTION 93 -> emergency takeover only on breakdown of machinery",
+            "NORMAL AUTONOMY -> ministers govern while reserve powers remain in the background",
+            "1939 RESIGNATION -> caused by war declaration, not Section 93 action."
+          ],
+          "source_references": [
+            "Governor's discretionary powers and special responsibilities",
+            "Section 93: the background emergency reserve power",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Reserved subjects and residuary power",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "RESERVED TO GOVERNOR-GENERAL",
+            "|-- Defence",
+            "|-- External Affairs",
+            "|-- Ecclesiastical Affairs",
+            "`-- Tribal Areas",
+            "RESIDUARY POWER -> also with the Governor-General, not any legislature."
+          ],
+          "source_references": [
+            "Reserved central subjects and residuary power",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Franchise reform as a qualified range",
+          "structural_type": "data-table",
+          "ascii_lines": [
+            "ELECTORATE -> roughly 30 to 35 million voters (source-dependent)",
+            "SHARE OF POPULATION -> roughly 10 to 14 per cent (denominator-dependent)",
+            "QUALIFICATIONS -> property, tax, income and education restrictions remained",
+            "RULE -> state as a qualified range; still short of universal adult franchise."
+          ],
+          "source_references": [
+            "Franchise reform as a qualified range, not one exact figure",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "RBI Act 1934 versus the 1935 Act",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1934 -> Reserve Bank of India Act -> RBI founded",
+            "1935 -> Government of India Act -> separate constitutional statute",
+            "1937 -> provincial constitutional provisions begin operating",
+            "TRAP -> RBI's origin is the 1934 Act, never the 1935 Act."
+          ],
+          "source_references": [
+            "RBI Act 1934 versus the Government of India Act 1935",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Federal Court and Burma: parallel 1937 tracks",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1935 ACT PROVISIONS -> two parallel 1937 developments",
+            "FEDERAL COURT OF INDIA -> begins functioning, 1937",
+            "BURMA SEPARATION -> takes effect, 1937",
+            "RULE -> parallel, not sequential or causally connected."
+          ],
+          "source_references": [
+            "Federal Court and Burma separation: parallel 1937 developments",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "1937 election and ministry timing, NWFP and Assam",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "FEB 1937 -> elections; Congress largest in most provinces",
+            "JUL 1937 -> six ministries: Madras, Bombay, UP, Bihar, CP and Orissa",
+            "LATER 1937 -> NWFP becomes the seventh Congress ministry",
+            "1938 -> Assam becomes the eighth after coalition arrangements break down",
+            "RULE -> eight is the eventual, not the simultaneous, total."
+          ],
+          "source_references": [
+            "1937 elections, ministry timing, NWFP and Assam",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Office-acceptance debate",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "FOR -> reformist and organisational opportunity within autonomy",
+            "AGAINST -> risk of legitimising a rejected constitutional structure",
+            "SAFEGUARD TEST -> Congress sought assurances against routine governor interference",
+            "OUTCOME -> conditional acceptance, watching for governor interference.",
+            "CLOSE DISTINCTION: Congress ministries followed the 1937 elections and resigned in 1939 after",
+            "  India was committed to war without consultation; office-holding did not transfer sovereign",
+            "  control."
+          ],
+          "source_references": [
+            "The 1937 office-acceptance debate inside Congress",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Ministries' achievements and structural limits",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "ACHIEVEMENTS -> civil liberties, prisoner release, tenancy/debt reform",
+            "ACHIEVEMENTS -> prohibition, primary education",
+            "LIMITS -> restricted finance, landlord legislatures, governor reserve powers",
+            "RESULT -> real gains; labour unrest and agrarian distress not fully resolved.",
+            "EVIDENCE LIMIT: Statutory safeguards and governors' powers must be read with ministry records,",
+            "  tenancy and civil-liberty measures, opposition experience and provincial variation."
+          ],
+          "source_references": [
+            "Achievements and structural limits of the Congress ministries",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "1939 resignation to Lahore, and the PYQ anchors",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "OCT-NOV 1939 -> ministries resign (unconsulted war declaration)",
+            "22 DEC 1939 -> League Deliverance Day",
+            "MAR 1940 -> Lahore Resolution -> one link in a chain, not sole cause",
+            "PYQ -> 2024 Q62 key confirmed; 2018 Q38 source-backed, no key held."
+          ],
+          "source_references": [
+            "1939 resignation and the League's Deliverance Day",
+            "Lahore Resolution as one link, not the whole causal chain",
+            "PYQ anchors: confirmed 2024 key and cautious 2018 residuary recall",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\24_Government-of-India-Act-1935-and-Congress-Ministries.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

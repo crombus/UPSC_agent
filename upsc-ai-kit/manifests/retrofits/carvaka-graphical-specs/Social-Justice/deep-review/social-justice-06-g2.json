@@ -1,0 +1,1196 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-06",
+  "subject": "Social-Justice",
+  "title": "CHILDREN AND CHILD PROTECTION",
+  "short_route": "FOUR LIMBS → AGE RULES BY STATUTE → TWO TRACKS COMPARED → TRANSFER SEQUENCE → OFFENCE AND PROCEDURE CARD → CONVENTIONS PAIR",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-06-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "424b7bac42ac12dd7d2ac21d92453ee33de51d0cca5520953d6142f225265fcc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR LIMBS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR LIMBS",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTION FROM HARM",
+          "role": "outcome"
+        },
+        {
+          "text": "SEXUAL-OFFENCES STATUTE 2012; CHILD-MARRIAGE STATUTE 2006",
+          "role": "comparison"
+        },
+        {
+          "text": "JUSTICE SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "JUVENILE-JUSTICE STATUTE 2015; BOARD FOR CONFLICT, COMMITTEE FOR CARE",
+          "role": "primary"
+        },
+        {
+          "text": "WELFARE AND CARE",
+          "role": "outcome"
+        },
+        {
+          "text": "MISSION VATSALYA; INSTITUTIONS, HELPLINE 1098, SPONSORSHIP, FOSTER CARE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHILD-RIGHTS COMMISSION UNDER THE 2005 ACT; EXAMINE, INQUIRE, RECOMMEND",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PROTECTION FROM HARM → sexual-offences statute 2012; child-marriage statute 2006",
+        "JUSTICE SYSTEM → juvenile-justice statute 2015; Board for conflict, Committee for care",
+        "WELFARE AND CARE → Mission Vatsalya; institutions, helpline 1098, sponsorship, foster care",
+        "OVERSIGHT → child-rights commission under the 2005 Act; examine, inquire, recommend, inspect",
+        "USE → locate the failure in one limb before proposing any remedy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROTECTION FROM HARM → sexual-offences statute 2012; child-marriage statute 2006",
+            "JUSTICE SYSTEM → juvenile-justice statute 2015; Board for conflict, Committee for care"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WELFARE AND CARE → Mission Vatsalya; institutions, helpline 1098, sponsorship, foster care",
+            "OVERSIGHT → child-rights commission under the 2005 Act; examine, inquire, recommend, inspect"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → locate the failure in one limb before proposing any remedy",
+            "MUST REMEMBER: Child rights integrate survival, development, protection and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Child rights integrate survival, development, protection and.",
+      "source_references": [
+        "The four limbs of the child-protection architecture",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AGE RULES BY STATUTE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGE RULES BY STATUTE",
+          "role": "primary"
+        },
+        {
+          "text": "SEXUAL OFFENCES 2012",
+          "role": "outcome"
+        },
+        {
+          "text": "CHILD IS ANY PERSON BELOW 18; THE ACT IS",
+          "role": "institution"
+        },
+        {
+          "text": "CHILD LABOUR 2016",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLETE BAN BELOW 14; HAZARDOUS-ONLY BAN FOR AGES 14",
+          "role": "primary"
+        },
+        {
+          "text": "CHILD MARRIAGE 2006",
+          "role": "outcome"
+        },
+        {
+          "text": "BOY BELOW 21 AND GIRL BELOW 18 RECORDED AS",
+          "role": "comparison"
+        },
+        {
+          "text": "JUVENILE JUSTICE 2015",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEXUAL OFFENCES 2012 → child is any person below 18; the Act is gender-neutral",
+        "CHILD LABOUR 2016 → complete ban below 14; hazardous-only ban for ages 14 to 18",
+        "CHILD MARRIAGE 2006 → boy below 21 and girl below 18 recorded as the thresholds",
+        "JUVENILE JUSTICE 2015 → 16 to 18 band matters only for a heinous offence",
+        "TRAP → never carry one statute's age rule into another statute"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SEXUAL OFFENCES 2012 → child is any person below 18; the Act is gender-neutral",
+          "CHILD MARRIAGE 2006 → boy below 21 and girl below 18 recorded as the thresholds",
+          "TRAP → never carry one statute's age rule into another statute"
+        ],
+        [
+          "CHILD LABOUR 2016 → complete ban below 14; hazardous-only ban for ages 14 to 18",
+          "JUVENILE JUSTICE 2015 → 16 to 18 band matters only for a heinous offence",
+          "SEXUAL OFFENCES 2012 → child is any person below 18; the Act is gender-neutral"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEXUAL OFFENCES 2012 → child is any person below 18; the Act is gender-neutral",
+            "CHILD LABOUR 2016 → complete ban below 14; hazardous-only ban for ages 14 to 18"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHILD MARRIAGE 2006 → boy below 21 and girl below 18 recorded as the thresholds",
+            "JUVENILE JUSTICE 2015 → 16 to 18 band matters only for a heinous offence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → never carry one statute's age rule into another statute",
+            "SEXUAL OFFENCES 2012 → child is any person below 18; the Act is gender-neutral"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → never carry one statute's age rule into another statute.",
+      "source_references": [
+        "Who is a child and why the sexual-offences statute is gender-neutral",
+        "The child-labour prohibition and its two thresholds",
+        "The child-marriage statute and the voidable against void distinction",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO TRACKS COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO TRACKS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "CONFLICT WITH LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "JUVENILE JUSTICE BOARD; MAGISTRATE PLUS TWO SOCIAL WORKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "INQUIRY AND DISPOSAL ON A REHABILITATIVE FOOTING",
+          "role": "evidence"
+        },
+        {
+          "text": "CARE AND PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CHILD WELFARE COMMITTEE; CHAIRPERSON PLUS FOUR MEMBERS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXERCISES THE POWERS OF A BENCH OF MAGISTRATES; FOSTER",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTING A CARE CASE INTO AN ACCUSATION TRACK CHANGES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONFLICT WITH LAW → Juvenile Justice Board; Magistrate plus two social workers",
+        "PURPOSE → inquiry and disposal on a rehabilitative footing",
+        "CARE AND PROTECTION → Child Welfare Committee; Chairperson plus four members",
+        "POWER → exercises the powers of a Bench of Magistrates; foster care, sponsorship, adoption",
+        "ERROR → routing a care case into an accusation track changes the whole outcome"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONFLICT WITH LAW → Juvenile Justice Board; Magistrate plus two social workers",
+          "CARE AND PROTECTION → Child Welfare Committee; Chairperson plus four members",
+          "ERROR → routing a care case into an accusation track changes the whole outcome"
+        ],
+        [
+          "PURPOSE → inquiry and disposal on a rehabilitative footing",
+          "POWER → exercises the powers of a Bench of Magistrates; foster care, sponsorship, adoption",
+          "CONFLICT WITH LAW → Juvenile Justice Board; Magistrate plus two social workers"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONFLICT WITH LAW → Juvenile Justice Board; Magistrate plus two social workers",
+            "PURPOSE → inquiry and disposal on a rehabilitative footing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CARE AND PROTECTION → Child Welfare Committee; Chairperson plus four members",
+            "POWER → exercises the powers of a Bench of Magistrates; foster care, sponsorship, adoption"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ERROR → routing a care case into an accusation track changes the whole outcome",
+            "CONFLICT WITH LAW → Juvenile Justice Board; Magistrate plus two social workers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → routing a care case into an accusation track changes the whole outcome.",
+      "source_references": [
+        "The two categories of the juvenile-justice statute",
+        "The Board and the Committee are differently constituted bodies",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TRANSFER SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRANSFER SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFENCE ALLEGED AGAINST A CHILD AGED 16 TO 18",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "IS THE MINIMUM PUNISHMENT SEVEN YEARS OR MORE, MAKING",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "BOARD CONDUCTS THE SECTION 15 PRELIMINARY ASSESSMENT OF CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → offence alleged against a child aged 16 to 18",
+        "STEP 2: is the minimum punishment seven years or more, making it a heinous offence",
+        "STEP 3: Board conducts the Section 15 preliminary assessment of capacity and circumstances",
+        "STEP 4: only then may transfer under Section 18(3) follow to the Children's Court",
+        "LIMIT → adult treatment is exceptional and never automatic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STEP 1 → offence alleged against a child aged 16 to 18",
+            "STEP 2: is the minimum punishment seven years or more, making it a heinous offence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP 3: Board conducts the Section 15 preliminary assessment of capacity and circumstances",
+            "STEP 4: only then may transfer under Section 18(3) follow to the Children's Court"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → adult treatment is exceptional and never automatic",
+            "STEP 1 → offence alleged against a child aged 16 to 18"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → adult treatment is exceptional and never automatic.",
+      "source_references": [
+        "Heinous offence and the preliminary assessment gateway",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "OFFENCE AND PROCEDURE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OFFENCE AND PROCEDURE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "GRADED OFFENCES",
+          "role": "outcome"
+        },
+        {
+          "text": "PENETRATIVE ASSAULT, AGGRAVATED PENETRATIVE ASSAULT, SEXUAL HARASSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "USE OF A CHILD FOR PORNOGRAPHY, INCLUDING THROUGH ELECTRONIC",
+          "role": "evidence"
+        },
+        {
+          "text": "MANDATORY FOR ANY PERSON HAVING KNOWLEDGE OF AN OFFENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL COURTS; PROCEEDINGS IN CAMERA",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERPRETER, SPECIAL EDUCATOR OR SUPPORT PERSON FOR THE CHILD",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GRADED OFFENCES → penetrative assault, aggravated penetrative assault, sexual harassment",
+        "ALSO → use of a child for pornography, including through electronic means",
+        "REPORTING → mandatory for any person having knowledge of an offence",
+        "FORUM → Special Courts; proceedings in camera",
+        "SUPPORT → interpreter, special educator or support person for the child"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GRADED OFFENCES → penetrative assault, aggravated penetrative assault, sexual harassment",
+          "REPORTING → mandatory for any person having knowledge of an offence",
+          "SUPPORT → interpreter, special educator or support person for the child"
+        ],
+        [
+          "ALSO → use of a child for pornography, including through electronic means",
+          "FORUM → Special Courts; proceedings in camera",
+          "GRADED OFFENCES → penetrative assault, aggravated penetrative assault, sexual harassment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRADED OFFENCES → penetrative assault, aggravated penetrative assault, sexual harassment",
+            "ALSO → use of a child for pornography, including through electronic means"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPORTING → mandatory for any person having knowledge of an offence",
+            "FORUM → Special Courts; proceedings in camera"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUPPORT → interpreter, special educator or support person for the child",
+            "GRADED OFFENCES → penetrative assault, aggravated penetrative assault, sexual harassment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUPPORT → interpreter, special educator or support person for the child.",
+      "source_references": [
+        "The graded offences and the child-friendly procedure of the 2012 Act",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CONVENTIONS PAIR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONVENTIONS PAIR",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION 138",
+          "role": "outcome"
+        },
+        {
+          "text": "MINIMUM AGE CONVENTION; A NATIONAL MINIMUM AGE FOR ADMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROGRESSIVE ABOLITION OF CHILD LABOUR THROUGH AN AGE FLOOR",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVENTION 182",
+          "role": "primary"
+        },
+        {
+          "text": "WORST FORMS OF CHILD LABOUR CONVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "URGENT ELIMINATION OF SLAVERY-LIKE PRACTICE, TRAFFICKING, FORCED RECRUITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL SEXUAL EXPLOITATION, ILLICIT ACTIVITY, WORK HARMING HEALTH OR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONVENTION 138 → Minimum Age Convention; a national minimum age for admission to work",
+        "AIM → progressive abolition of child labour through an age floor",
+        "CONVENTION 182 → Worst Forms of Child Labour Convention",
+        "AIM → urgent elimination of slavery-like practice, trafficking, forced recruitment",
+        "ALSO → commercial sexual exploitation, illicit activity, work harming health or morals"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONVENTION 138 → Minimum Age Convention; a national minimum age for admission to work",
+          "CONVENTION 182 → Worst Forms of Child Labour Convention",
+          "ALSO → commercial sexual exploitation, illicit activity, work harming health or morals"
+        ],
+        [
+          "AIM → progressive abolition of child labour through an age floor",
+          "AIM → urgent elimination of slavery-like practice, trafficking, forced recruitment",
+          "CONVENTION 138 → Minimum Age Convention; a national minimum age for admission to work"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONVENTION 138 → Minimum Age Convention; a national minimum age for admission to work",
+            "AIM → progressive abolition of child labour through an age floor"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONVENTION 182 → Worst Forms of Child Labour Convention",
+            "AIM → urgent elimination of slavery-like practice, trafficking, forced recruitment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ALSO → commercial sexual exploitation, illicit activity, work harming health or morals",
+            "CONVENTION 138 → Minimum Age Convention; a national minimum age for admission to work"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALSO → commercial sexual exploitation, illicit activity, work harming health or morals.",
+      "source_references": [
+        "The two labour conventions carried by the routed objective demand",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MARRIAGE VALIDITY LADDER",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARRIAGE VALIDITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "GENERAL RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "A CHILD MARRIAGE IS VOIDABLE AT THE OPTION OF",
+          "role": "comparison"
+        },
+        {
+          "text": "THE MARRIAGE STANDS IN LAW UNTIL THAT PARTY ELECTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIFIED SITUATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "FORCE, TRAFFICKING OR AN ABDUCTED CHILD MAKE THE MARRIAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHILD MARRIAGE PROHIBITION OFFICERS MAY PREVENT SOLEMNISATION, SEEK INJUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WRITING VOID WHERE THE STATUTE SAYS VOIDABLE CHANGES THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENERAL RULE → a child marriage is voidable at the option of the party who",
+        "EFFECT → the marriage stands in law until that party elects to avoid it",
+        "SPECIFIED SITUATIONS → force, trafficking or an abducted child make the marriage void",
+        "PREVENTION → Child Marriage Prohibition Officers may prevent solemnisation, seek injunction",
+        "TRAP → writing void where the statute says voidable changes the legal consequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENERAL RULE → a child marriage is voidable at the option of the party who was a child",
+            "EFFECT → the marriage stands in law until that party elects to avoid it"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPECIFIED SITUATIONS → force, trafficking or an abducted child make the marriage void",
+            "PREVENTION → Child Marriage Prohibition Officers may prevent solemnisation, seek injunction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → writing void where the statute says voidable changes the legal consequence",
+            "GENERAL RULE → a child marriage is voidable at the option of the party who was a child"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → writing void where the statute says voidable changes the legal consequence.",
+      "source_references": [
+        "The child-marriage statute and the voidable against void distinction",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PERSISTENCE AND INSTRUMENTS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERSISTENCE AND INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOLING LOSS, POVERTY, SAFETY FEARS, PATRIARCHY, WEAK BIRTH REGISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PROHIBITION ALONE CHANGES VISIBILITY RATHER THAN THE HOUSEHOLD CALCULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GIRLS' SCHOOLING, SAFE TRAVEL, HOUSEHOLD ECONOMIC SECURITY, REGISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CALCULATION CHANGES AND THE PRACTICE FALLS RATHER THAN",
+          "role": "primary"
+        },
+        {
+          "text": "PUNISHMENT ALONE CAN DRIVE SUCH UNIONS UNDERGROUND",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CAUSES → schooling loss, poverty, safety fears, patriarchy, weak birth registration",
+        "PROHIBITION alone changes visibility rather than the household calculation",
+        "INSTRUMENTS: girls' schooling, safe travel, household economic security, registration",
+        "RESULT: the calculation changes and the practice falls rather than hides",
+        "CAUTION → punishment alone can drive such unions underground"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAUSES → schooling loss, poverty, safety fears, patriarchy, weak birth registration",
+            "PROHIBITION alone changes visibility rather than the household calculation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENTS: girls' schooling, safe travel, household economic security, registration",
+            "RESULT: the calculation changes and the practice falls rather than hides"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → punishment alone can drive such unions underground",
+            "CAUSES → schooling loss, poverty, safety fears, patriarchy, weak birth registration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "the calculation changes and the practice falls rather than hides.",
+      "source_references": [
+        "Why child marriage persists and what punishment alone cannot do",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WELFARE MISSION CARD",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WELFARE MISSION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "MISSION VATSALYA",
+          "role": "outcome"
+        },
+        {
+          "text": "UMBRELLA CHILD-PROTECTION SCHEME, RESTRUCTURED FROM THE EARLIER SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "CHILD CARE INSTITUTIONS ESTABLISHED UNDER THE JUVENILE-JUSTICE STATUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHILD HELPLINE NUMBERED 1098",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILY-BASED CARE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPONSORSHIP AND FOSTER CARE",
+          "role": "comparison"
+        },
+        {
+          "text": "IT FUNDS STATUTORY DELIVERY; IT CREATES NO ENTITLEMENT OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MISSION VATSALYA → umbrella child-protection scheme, restructured from the earlier scheme",
+        "INSTITUTIONS → Child Care Institutions established under the juvenile-justice statute",
+        "HELPLINE → Child Helpline numbered 1098",
+        "FAMILY-BASED CARE → sponsorship and foster care",
+        "BOUNDARY → it funds statutory delivery; it creates no entitlement of its own"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MISSION VATSALYA → umbrella child-protection scheme, restructured from the earlier scheme",
+            "INSTITUTIONS → Child Care Institutions established under the juvenile-justice statute"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HELPLINE → Child Helpline numbered 1098",
+            "FAMILY-BASED CARE → sponsorship and foster care"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → it funds statutory delivery; it creates no entitlement of its own",
+            "MISSION VATSALYA → umbrella child-protection scheme, restructured from the earlier scheme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → it funds statutory delivery; it creates no entitlement of its own.",
+      "source_references": [
+        "The umbrella welfare mission and what it funds",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COMMISSION DESIGN",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMMISSION DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "COMMISSIONS FOR PROTECTION OF CHILD RIGHTS ACT, 2005; STATUTORY",
+          "role": "institution"
+        },
+        {
+          "text": "CHAIRPERSON AND SIX MEMBERS, OF WHOM AT LEAST TWO",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAMINE SAFEGUARDS, INQUIRE INTO VIOLATIONS, RECOMMEND, INSPECT, ISSUE ADVISORIES",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE COMMISSIONS PERFORM THE SAME FUNCTIONS AT STATE LEVEL",
+          "role": "institution"
+        },
+        {
+          "text": "RECOMMENDATORY; IT CANNOT MAKE AN ORDER THAT BINDS LIKE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A CHILD IS NOT DEFINED BY ONE UNIFORM AGE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATUTE → Commissions for Protection of Child Rights Act, 2005; statutory, not constitutional",
+        "COMPOSITION → Chairperson and six Members, of whom at least two are women",
+        "POWERS → examine safeguards, inquire into violations, recommend, inspect, issue advisories",
+        "PARALLEL → State Commissions perform the same functions at State level",
+        "LIMIT → recommendatory; it cannot make an order that binds like a court"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STATUTE → Commissions for Protection of Child Rights Act, 2005; statutory, not constitutional",
+          "POWERS → examine safeguards, inquire into violations, recommend, inspect, issue advisories",
+          "LIMIT → recommendatory; it cannot make an order that binds like a court"
+        ],
+        [
+          "COMPOSITION → Chairperson and six Members, of whom at least two are women",
+          "PARALLEL → State Commissions perform the same functions at State level",
+          "CLOSE DISTINCTION: A child is not defined by one uniform age across every statute, child..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATUTE → Commissions for Protection of Child Rights Act, 2005; statutory, not constitutional",
+            "COMPOSITION → Chairperson and six Members, of whom at least two are women"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POWERS → examine safeguards, inquire into violations, recommend, inspect, issue advisories",
+            "PARALLEL → State Commissions perform the same functions at State level"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → recommendatory; it cannot make an order that binds like a court",
+            "CLOSE DISTINCTION: A child is not defined by one uniform age across every statute, child..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: A child is not defined by one uniform age across every statute, child.",
+      "source_references": [
+        "The child-rights commission, its composition and its powers",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ONLINE HARM AND INSTRUMENT MAP",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ONLINE HARM AND INSTRUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ONLINE SEXUAL EXPLOITATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SEXUAL-OFFENCES STATUTE REACHES ELECTRONIC MEANS",
+          "role": "comparison"
+        },
+        {
+          "text": "ABUSE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CYBERCRIME REPORTING PORTAL CATEGORY ROUTED TO STATE POLICE CYBER",
+          "role": "institution"
+        },
+        {
+          "text": "PLATFORM DUTY",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERMEDIARY RULES; NOTICE OR ORDER, TAKEDOWN AND COOPERATION DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SIGNIFICANT INTERMEDIARIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONLINE SEXUAL EXPLOITATION → sexual-offences statute reaches electronic means",
+        "ABUSE MATERIAL → cybercrime reporting portal category routed to State police cyber cells",
+        "PLATFORM DUTY → intermediary rules; notice or order, takedown and cooperation duties",
+        "SIGNIFICANT INTERMEDIARIES → additional due diligence; not one universal detection duty",
+        "COMPLAINT ROUTE → the commission's electronic reporting box for child sexual abuse"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ONLINE SEXUAL EXPLOITATION → sexual-offences statute reaches electronic means",
+          "PLATFORM DUTY → intermediary rules; notice or order, takedown and cooperation duties",
+          "COMPLAINT ROUTE → the commission's electronic reporting box for child sexual abuse"
+        ],
+        [
+          "ABUSE MATERIAL → cybercrime reporting portal category routed to State police cyber cells",
+          "SIGNIFICANT INTERMEDIARIES → additional due diligence; not one universal detection duty",
+          "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Distinguish JJ Act, POCSO, child-labour and..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ONLINE SEXUAL EXPLOITATION → sexual-offences statute reaches electronic means",
+            "ABUSE MATERIAL → cybercrime reporting portal category routed to State police cyber cells"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLATFORM DUTY → intermediary rules; notice or order, takedown and cooperation duties",
+            "SIGNIFICANT INTERMEDIARIES → additional due diligence; not one universal detection duty"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMPLAINT ROUTE → the commission's electronic reporting box for child sexual abuse",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Distinguish JJ Act, POCSO, child-labour and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Distinguish JJ Act, POCSO, child-labour and.",
+      "source_references": [
+        "The digital-era harms the owners actually name",
+        "The existing policy instruments for online child safety",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "STATUS AND BOUNDARY",
+      "structural_type": "timeline",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "STATUS AND BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "SEXUAL-OFFENCES STATUTE, INTERMEDIARY RULES AND REPORTING PORTALS ARE OPERATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUS DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "AS AT 21 JULY 2026 THE CHILD-DATA DUTIES ARE",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBSTANTIVE CHILD-DATA DUTIES INCLUDING VERIFIABLE PARENTAL CONSENT FROM 13",
+          "role": "primary"
+        },
+        {
+          "text": "DATED ANCHORS",
+          "role": "outcome"
+        },
+        {
+          "text": "CHILD MARRIAGE 20.1 PER CENT FROM 23.3; ABOUT 10.1",
+          "role": "comparison"
+        },
+        {
+          "text": "REGISTRATION, DISPOSAL AND CONVICTION BASES ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NOW → sexual-offences statute, intermediary rules and reporting portals are operative",
+        "STATUS DATE → as at 21 July 2026 the child-data duties are not in force",
+        "SCHEDULED → substantive child-data duties including verifiable parental consent from 13 May 2027",
+        "DATED ANCHORS → child marriage 20.1 per cent from 23.3; about 10.1 million workers aged",
+        "DENOMINATORS → registration, disposal and conviction bases are not interchangeable"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NOW → sexual-offences statute, intermediary rules and reporting portals are operative",
+            "STATUS DATE → as at 21 July 2026 the child-data duties are not in force"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULED → substantive child-data duties including verifiable parental consent from 13 May 2027",
+            "DATED ANCHORS → child marriage 20.1 per cent from 23.3; about 10.1 million workers aged 5 to 14"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DENOMINATORS → registration, disposal and conviction bases are not interchangeable",
+            "NOW → sexual-offences statute, intermediary rules and reporting portals are operative"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DENOMINATORS → registration, disposal and conviction bases are not interchangeable.",
+      "source_references": [
+        "The data-protection child regime and its commencement status",
+        "Dated prevalence and scale anchors carried with their sources",
+        "The case-data discipline and the honest ownership statement",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\06_Children-and-Child-Protection.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-06\\g2\\social-justice-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCPCR (2005 ACT) POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "(A) EXAMINE AND REVIEW SAFEGUARDS PROVIDED UNDER ANY",
+          "role": "comparison"
+        },
+        {
+          "text": "NCPCR COMPOSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAIRPERSON + SIX MEMBERS, WITH AT LEAST TWO WOMEN",
+          "role": "primary"
+        },
+        {
+          "text": "NCPCR LIMITATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVISORY/RECOMMENDATORY POWERS ONLY; CANNOT ENFORCE ORDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "JJ ACT 16-18 TRANSFER PROVISION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCPCR (2005 Act) powers: (a) examine and review safeguards provided under any",
+            "NCPCR composition: Chairperson + six Members, with at least two women, appointed",
+            "CAUTION: NCPCR limitations: advisory/recommendatory powers only; cannot enforce orders",
+            "CAUTION: JJ Act 16-18 transfer provision: controversial for diluting the juvenile-justice"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: A case where a child's explicit images are shared on a messaging platform: POCSO",
+            "CAUTION: A 16-year-old accused of a heinous offence: the JJB must conduct the preliminary",
+            "CAUTION: A social-media platform failing to comply with an applicable notice/order/takedown",
+            "CAUTION: Rehabilitation vs deterrence (JJ Act 16-18 provision): a possible transfer after"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Intermediary liability vs encryption: child-safety detection/response duties may",
+            "CAUTION: NCPCR capacity: a single national Commission overseeing POCSO, JJ Act, RTE,",
+            "JJ Act, 2015 permits a JJB, after preliminary assessment of a 16–18-year-old accused",
+            "IT Rules impose intermediary due diligence and takedown/response duties; additional"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

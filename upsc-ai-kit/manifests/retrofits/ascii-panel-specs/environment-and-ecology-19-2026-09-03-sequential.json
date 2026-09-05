@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 19",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-19",
+      "display_title": "UNFCCC COP Kyoto Paris Agreement",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-19_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Climate-treaty hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "UNFCCC -> framework convention, principles and institutions",
+            "KYOTO PROTOCOL -> commitment-period instrument under Convention",
+            "PARIS AGREEMENT -> universal NDC-cycle agreement",
+            "COP CMP CMA DECISIONS -> implementation and governance",
+            "NATIONAL INSTRUMENTS -> domestic communication and action"
+          ],
+          "source_references": [
+            "UNFCCC convention identity",
+            "Kyoto Protocol identity",
+            "Paris Agreement identity",
+            "Treaty-decision hierarchy"
+          ]
+        },
+        {
+          "title": "Governing-body matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COP -> Parties to the Convention",
+            "CMP -> Parties to the Kyoto Protocol",
+            "CMA -> Parties to the Paris Agreement",
+            "DECISION LABEL -> identifies the governing body and session",
+            "RULE -> never detach a decision from its instrument"
+          ],
+          "source_references": [
+            "COP-CMP-CMA boundary"
+          ]
+        },
+        {
+          "title": "Legal-status ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "ADOPTION -> text agreed by the competent conference",
+            "SIGNATURE -> political authentication where applicable",
+            "RATIFICATION OR ACCESSION -> consent to be bound",
+            "ENTRY INTO FORCE -> treaty conditions satisfied",
+            "IMPLEMENTATION -> domestic and international operation"
+          ],
+          "source_references": [
+            "Treaty-status sequence",
+            "Doha Amendment status"
+          ]
+        },
+        {
+          "title": "Kyoto coverage map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANNEX I COVERED GROUP -> quantified commitment architecture",
+            "NON-ANNEX I -> no Kyoto-style quantified commitment",
+            "COMMITMENT PERIOD -> time-bounded obligation",
+            "CBDR-RC -> developed-country lead in historical design",
+            "BOUNDARY -> do not project Kyoto's binary onto every Paris duty"
+          ],
+          "source_references": [
+            "Kyoto Protocol identity",
+            "Annex I historical boundary",
+            "Non-Annex Kyoto boundary",
+            "CBDR-RC continuity"
+          ]
+        },
+        {
+          "title": "Kyoto mechanism matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EMISSIONS TRADING -> unit transfer across covered entities",
+            "JOINT IMPLEMENTATION -> project pathway within Annex I setting",
+            "CDM -> project pathway hosted in a developing country",
+            "ACCOUNTING -> mechanism-specific units and rules",
+            "NO MERGER -> participation and credit origins differ"
+          ],
+          "source_references": [
+            "Kyoto mechanisms"
+          ]
+        },
+        {
+          "title": "Kyoto-to-Paris replacement logic",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "KYOTO -> top-down quantified commitments for covered group",
+            "PARTICIPATION LIMIT -> narrower substantive target coverage",
+            "PARIS -> nationally determined contributions by all Parties",
+            "TRANSPARENCY PLUS CYCLE -> iterative accountability design",
+            "TRADE-OFF -> universality does not guarantee adequacy"
+          ],
+          "source_references": [
+            "Kyoto Protocol identity",
+            "Paris Agreement identity",
+            "NDC boundary"
+          ]
+        },
+        {
+          "title": "Paris obligation split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PROCEDURE -> prepare, communicate and maintain successive NDCs",
+            "DOMESTIC MEASURES -> pursue implementation action",
+            "SUBSTANTIVE NUMBER -> nationally determined",
+            "PROGRESSION -> next contribution expected to advance ambition",
+            "NO UNIVERSAL CUT -> Agreement does not assign one percentage"
+          ],
+          "source_references": [
+            "NDC boundary",
+            "Procedure-ambition distinction",
+            "Progression and cycle"
+          ]
+        },
+        {
+          "title": "Transparency-to-stocktake rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NATIONAL REPORTING -> inventory and progress information",
+            "TECHNICAL REVIEW -> methods and consistency examined",
+            "MULTILATERAL CONSIDERATION -> transparency dialogue",
+            "GLOBAL STOCKTAKE -> collective progress assessment",
+            "NEXT NDC -> nationally determined response informed by cycle"
+          ],
+          "source_references": [
+            "Transparency-outcome boundary",
+            "Global Stocktake boundary"
+          ]
+        },
+        {
+          "title": "Differentiation compass",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "COMMON RESPONSIBILITY -> all Parties participate",
+            "DIFFERENTIATED RESPONSIBILITY -> historical and contextual equity",
+            "CAPABILITY -> resources and institutional capacity matter",
+            "NATIONAL CIRCUMSTANCES -> Paris application is contextual",
+            "FINANCE AND TECHNOLOGY -> distinct support questions"
+          ],
+          "source_references": [
+            "CBDR-RC continuity"
+          ]
+        },
+        {
+          "title": "Article 6 fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "6.2 -> cooperative approaches and transferred outcomes",
+            "6.4 -> central mechanism under Paris governance",
+            "6.8 -> non-market approaches",
+            "ACCOUNTING -> authorisation and double-counting safeguards",
+            "OUTCOME CLAIM -> requires verified delivery evidence"
+          ],
+          "source_references": [
+            "Article 6 architecture"
+          ]
+        },
+        {
+          "title": "Response-and-finance matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MITIGATION -> limit sources or enhance sinks",
+            "ADAPTATION -> reduce vulnerability and manage impacts",
+            "LOSS AND DAMAGE -> residual harms",
+            "GOAL OR PLEDGE -> stated commitment",
+            "DELIVERY -> verified contribution or disbursement"
+          ],
+          "source_references": [
+            "Mitigation-adaptation-loss boundary",
+            "Decision-pledge-delivery distinction"
+          ]
+        },
+        {
+          "title": "Treaty answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDENTIFY -> Convention, Protocol, Agreement or decision",
+            "DATE -> adoption, ratification and entry into force separately",
+            "COMPARE -> coverage, obligation, cycle and mechanism",
+            "EVALUATE -> transparency, equity, finance and delivery",
+            "AUDIT -> final adopted text, not draft or roadmap"
+          ],
+          "source_references": [
+            "Treaty-decision hierarchy",
+            "Current-outcome evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

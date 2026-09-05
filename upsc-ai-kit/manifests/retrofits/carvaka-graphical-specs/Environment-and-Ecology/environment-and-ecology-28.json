@@ -1,0 +1,1137 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-28",
+  "subject": "Environment-and-Ecology",
+  "title": "SPECIES AND CURRENT AFFAIRS TRACKER",
+  "short_route": "TRACKER ENTRY TEMPLATE → TAXONOMIC IDENTITY LADDER → FIVE-STATUS FIREWALL → IUCN ASSESSMENT CARD → LEGAL AND TREATY DATE → RANGE VOCABULARY MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-28_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-28-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "70e0efb299de53e19890dbac1225898a42df13f648f7b22cdb62222c04ff81b7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRACKER ENTRY TEMPLATE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRACKER ENTRY TEMPLATE",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIFIC NAME AND RANK",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIM TYPE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUS RANGE POPULATION LAW OR EVENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE AND DATE",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORITATIVE ISSUER AND PUBLICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUS VERB",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESSED LISTED NOTIFIED OBSERVED OR PROPOSED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TAXON → scientific name and rank",
+        "CLAIM TYPE → status range population law or event",
+        "SOURCE AND DATE → authoritative issuer and publication",
+        "STATUS VERB → assessed listed notified observed or proposed",
+        "STATIC LINK AND RECHECK → concept owner plus expiry trigger"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TAXON → scientific name and rank",
+            "CLAIM TYPE → status range population law or event"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOURCE AND DATE → authoritative issuer and publication",
+            "STATUS VERB → assessed listed notified observed or proposed"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "STATIC LINK AND RECHECK → concept owner plus expiry trigger",
+            "TAXON → scientific name and rank"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATIC LINK AND RECHECK → concept owner plus expiry trigger.",
+      "source_references": [
+        "Tracker-record boundary",
+        "Stale-current firewall"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TAXONOMIC IDENTITY LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TAXONOMIC IDENTITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIFIC NAME",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMARY IDENTITY ANCHOR",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIES SUBSPECIES POPULATION OR OTHER UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON NAME",
+          "role": "primary"
+        },
+        {
+          "text": "SECONDARY DISCOVERY LABEL",
+          "role": "outcome"
+        },
+        {
+          "text": "TAXONOMIC AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCEPTED IDENTITY EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCIENTIFIC NAME → primary identity anchor",
+        "RANK → species subspecies population or other unit",
+        "COMMON NAME → secondary discovery label",
+        "TAXONOMIC AUTHORITY → accepted identity evidence",
+        "RULE → never transfer claims between units"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SCIENTIFIC NAME → primary identity anchor",
+            "RANK → species subspecies population or other unit"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON NAME → secondary discovery label",
+            "TAXONOMIC AUTHORITY → accepted identity evidence"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never transfer claims between units",
+            "SCIENTIFIC NAME → primary identity anchor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RANK → species subspecies population or other unit.",
+      "source_references": [
+        "Taxonomic-identity boundary",
+        "Species-subspecies boundary",
+        "Common-name boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FIVE-STATUS FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "EXTINCTION-RISK ASSESSMENT",
+          "role": "caution"
+        },
+        {
+          "text": "WPA SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC LEGAL PROTECTION CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CITES APPENDIX",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL TRADE-CONTROL LISTING",
+          "role": "outcome"
+        },
+        {
+          "text": "CMS APPENDIX OR INSTRUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "MIGRATORY COOPERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IUCN → extinction-risk assessment",
+        "WPA SCHEDULE → domestic legal protection classification",
+        "CITES APPENDIX → international trade-control listing",
+        "CMS APPENDIX OR INSTRUMENT → migratory cooperation",
+        "TAXONOMY → organism identity, not conservation status"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "IUCN → extinction-risk assessment",
+          "CITES APPENDIX → international trade-control listing",
+          "TAXONOMY → organism identity, not conservation status"
+        ],
+        [
+          "WPA SCHEDULE → domestic legal protection classification",
+          "CMS APPENDIX OR INSTRUMENT → migratory cooperation",
+          "IUCN → extinction-risk assessment"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "IUCN → extinction-risk assessment",
+            "WPA SCHEDULE → domestic legal protection classification"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CITES APPENDIX → international trade-control listing",
+            "CMS APPENDIX OR INSTRUMENT → migratory cooperation"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "TAXONOMY → organism identity, not conservation status",
+            "IUCN → extinction-risk assessment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CMS APPENDIX OR INSTRUMENT → migratory cooperation; TAXONOMY → organism identity, not conservation status.",
+      "source_references": [
+        "IUCN-assessment boundary",
+        "WPA-legal boundary",
+        "CITES-listing boundary",
+        "CMS-listing boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IUCN ASSESSMENT CARD",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IUCN ASSESSMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "EXACT ASSESSED UNIT",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOGRAPHIC SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL OR STATED REGIONAL ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESSMENT OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "VERSION OR DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENCY BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER ASSESSMENT CAN SUPERSEDE THE CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TAXON → exact assessed unit",
+        "GEOGRAPHIC SCOPE → global or stated regional assessment",
+        "CATEGORY → assessment outcome",
+        "VERSION OR DATE → currency boundary",
+        "RECHECK → later assessment can supersede the claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "TAXON → exact assessed unit",
+            "GEOGRAPHIC SCOPE → global or stated regional assessment"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "CATEGORY → assessment outcome",
+            "VERSION OR DATE → currency boundary"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECHECK → later assessment can supersede the claim",
+            "TAXON → exact assessed unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECHECK → later assessment can supersede the claim.",
+      "source_references": [
+        "IUCN-assessment boundary",
+        "IUCN-date boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LEGAL AND TREATY DATE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LEGAL AND TREATY DATE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC SCHEDULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ACT AND APPLICABLE AMENDMENT DATE",
+          "role": "institution"
+        },
+        {
+          "text": "CITES LISTING",
+          "role": "evidence"
+        },
+        {
+          "text": "APPENDIX AND EFFECTIVE TRADE DATE",
+          "role": "primary"
+        },
+        {
+          "text": "CMS LISTING",
+          "role": "outcome"
+        },
+        {
+          "text": "APPENDIX OR INSTRUMENT AND DECISION DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE DATABASES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOMESTIC SCHEDULE → Act and applicable amendment date",
+        "CITES LISTING → Appendix and effective trade date",
+        "CMS LISTING → Appendix or instrument and decision date",
+        "SEPARATE DATABASES → answer different questions",
+        "RULE → no cross-system automatic conversion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "DOMESTIC SCHEDULE → Act and applicable amendment date",
+            "CITES LISTING → Appendix and effective trade date"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "CMS LISTING → Appendix or instrument and decision date",
+            "SEPARATE DATABASES → answer different questions"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → no cross-system automatic conversion",
+            "DOMESTIC SCHEDULE → Act and applicable amendment date"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CMS LISTING → Appendix or instrument and decision date.",
+      "source_references": [
+        "WPA-legal boundary",
+        "CITES-listing boundary",
+        "CMS-listing boundary",
+        "Cross-source reconciliation"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RANGE VOCABULARY MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RANGE VOCABULARY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "NATURALLY RESTRICTED TO DEFINED GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "NATURALLY OCCURS THERE AND MAY OCCUR ELSEWHERE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESENT THROUGH RELEVANT ANNUAL CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "REGULAR MOVEMENT ACROSS AREAS OR SEASONS",
+          "role": "primary"
+        },
+        {
+          "text": "OCCURRENCE RECORD, NOT FULL RANGE PROOF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENDEMIC → naturally restricted to defined geography",
+        "NATIVE → naturally occurs there and may occur elsewhere",
+        "RESIDENT → present through relevant annual cycle",
+        "MIGRATORY → regular movement across areas or seasons",
+        "SIGHTING → occurrence record, not full range proof"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "ENDEMIC → naturally restricted to defined geography",
+          "RESIDENT → present through relevant annual cycle",
+          "SIGHTING → occurrence record, not full range proof"
+        ],
+        [
+          "NATIVE → naturally occurs there and may occur elsewhere",
+          "MIGRATORY → regular movement across areas or seasons",
+          "ENDEMIC → naturally restricted to defined geography"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "ENDEMIC → naturally restricted to defined geography",
+            "NATIVE → naturally occurs there and may occur elsewhere"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RESIDENT → present through relevant annual cycle",
+            "MIGRATORY → regular movement across areas or seasons"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "SIGHTING → occurrence record, not full range proof",
+            "ENDEMIC → naturally restricted to defined geography"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIGHTING → occurrence record, not full range proof.",
+      "source_references": [
+        "Endemic-native boundary",
+        "Range-record boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HABITAT AND POPULATION SCREEN",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HABITAT AND POPULATION SCREEN",
+          "role": "primary"
+        },
+        {
+          "text": "HABITAT ASSOCIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGICAL USE",
+          "role": "comparison"
+        },
+        {
+          "text": "GEOGRAPHIC RANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRIBUTION ENVELOPE",
+          "role": "primary"
+        },
+        {
+          "text": "POPULATION SIZE",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTIMATE FOR STATED UNIT AND DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULATION TREND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HABITAT ASSOCIATION → ecological use",
+        "GEOGRAPHIC RANGE → distribution envelope",
+        "POPULATION SIZE → estimate for stated unit and date",
+        "POPULATION TREND → direction across a period",
+        "RISK CATEGORY → assessment, not a census"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "HABITAT ASSOCIATION → ecological use",
+          "POPULATION SIZE → estimate for stated unit and date",
+          "RISK CATEGORY → assessment, not a census"
+        ],
+        [
+          "GEOGRAPHIC RANGE → distribution envelope",
+          "POPULATION TREND → direction across a period",
+          "HABITAT ASSOCIATION → ecological use"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "HABITAT ASSOCIATION → ecological use",
+            "GEOGRAPHIC RANGE → distribution envelope"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "POPULATION SIZE → estimate for stated unit and date",
+            "POPULATION TREND → direction across a period"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RISK CATEGORY → assessment, not a census",
+            "HABITAT ASSOCIATION → ecological use"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POPULATION SIZE → estimate for stated unit and date.",
+      "source_references": [
+        "Habitat-range boundary",
+        "Population-status boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRIGGER-STATIC BRIDGE",
+      "structural_type": "layered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TRIGGER-STATIC BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "STATIC ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "TAXONOMY ECOLOGY LAW OR TREATY CONCEPT",
+          "role": "comparison"
+        },
+        {
+          "text": "DATED TRIGGER",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESSMENT NOTIFICATION DECISION OR SURVEY",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE VERB",
+          "role": "evidence"
+        },
+        {
+          "text": "OBSERVED ASSESSED LISTED NOTIFIED OR ADOPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATIC ANCHOR → taxonomy ecology law or treaty concept",
+        "DATED TRIGGER → assessment notification decision or survey",
+        "SOURCE VERB → observed assessed listed notified or adopted",
+        "EXAM USE → one current example with its limit",
+        "UPDATE RULE → recheck when source changes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "STATIC ANCHOR → taxonomy ecology law or treaty concept",
+            "DATED TRIGGER → assessment notification decision or survey"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOURCE VERB → observed assessed listed notified or adopted",
+            "EXAM USE → one current example with its limit"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "UPDATE RULE → recheck when source changes",
+            "STATIC ANCHOR → taxonomy ecology law or treaty concept"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM USE → one current example with its limit.",
+      "source_references": [
+        "Trigger-static boundary",
+        "Status-verb boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NEWS-TO-PROOF DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NEWS-TO-PROOF DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "NEWS OR PRESS RELEASE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCOVERY LEAD",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "FIND OFFICIAL NOTIFICATION OR DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "FIND AUTHORITATIVE ASSESSMENT DATABASE",
+          "role": "comparison"
+        },
+        {
+          "text": "RANGE OR POPULATION CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEWS OR PRESS RELEASE → discovery lead",
+        "LEGAL CLAIM → find official notification or decision",
+        "STATUS CLAIM → find authoritative assessment database",
+        "RANGE OR POPULATION CLAIM → find dated study or database",
+        "NO PRIMARY SUPPORT → omit and record failure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NEWS OR PRESS RELEASE → discovery lead",
+            "LEGAL CLAIM → find official notification or decision"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATUS CLAIM → find authoritative assessment database",
+            "RANGE OR POPULATION CLAIM → find dated study or database"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO PRIMARY SUPPORT → omit and record failure",
+            "NEWS OR PRESS RELEASE → discovery lead"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO PRIMARY SUPPORT → omit and record failure.",
+      "source_references": [
+        "News-notification boundary",
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "REDISCOVERY FIREWALL",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REDISCOVERY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "NEW OBSERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE REDISCOVERY OR LOCALITY RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY VALIDATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TAXONOMIC CONFIRMATION",
+          "role": "primary"
+        },
+        {
+          "text": "RANGE INTERPRETATION",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE SYNTHESIS",
+          "role": "evidence"
+        },
+        {
+          "text": "FORMAL REASSESSMENT OR LISTING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEW OBSERVATION → possible rediscovery or locality record",
+        "IDENTITY VALIDATION → taxonomic confirmation",
+        "RANGE INTERPRETATION → evidence synthesis",
+        "FORMAL REASSESSMENT OR LISTING → separate process",
+        "RULE → observation alone changes no status automatically"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NEW OBSERVATION → possible rediscovery or locality record",
+            "IDENTITY VALIDATION → taxonomic confirmation"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RANGE INTERPRETATION → evidence synthesis",
+            "FORMAL REASSESSMENT OR LISTING → separate process"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → observation alone changes no status automatically",
+            "NEW OBSERVATION → possible rediscovery or locality record"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → observation alone changes no status automatically.",
+      "source_references": [
+        "Rediscovery boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CROSS-SOURCE RECONCILIATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CROSS-SOURCE RECONCILIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTITY QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TAXONOMIC SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTINCTION-RISK QUESTION",
+          "role": "caution"
+        },
+        {
+          "text": "IUCN ASSESSMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC LEGAL QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WPA TEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE OR MIGRATION QUESTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTITY QUESTION → taxonomic source",
+        "EXTINCTION-RISK QUESTION → IUCN assessment",
+        "DOMESTIC LEGAL QUESTION → WPA text",
+        "TRADE OR MIGRATION QUESTION → CITES or CMS",
+        "CURRENT TRIGGER → dated official decision or study"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "IDENTITY QUESTION → taxonomic source",
+          "DOMESTIC LEGAL QUESTION → WPA text",
+          "CURRENT TRIGGER → dated official decision or study"
+        ],
+        [
+          "EXTINCTION-RISK QUESTION → IUCN assessment",
+          "TRADE OR MIGRATION QUESTION → CITES or CMS",
+          "IDENTITY QUESTION → taxonomic source"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "IDENTITY QUESTION → taxonomic source",
+            "EXTINCTION-RISK QUESTION → IUCN assessment"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DOMESTIC LEGAL QUESTION → WPA text",
+            "TRADE OR MIGRATION QUESTION → CITES or CMS"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "CURRENT TRIGGER → dated official decision or study",
+            "IDENTITY QUESTION → taxonomic source"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CURRENT TRIGGER → dated official decision or study.",
+      "source_references": [
+        "Cross-source reconciliation"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SPECIES TRACKER ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SPECIES TRACKER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIFIC NAME RANK AND CLAIM UNIT",
+          "role": "outcome"
+        },
+        {
+          "text": "IUCN WPA CITES CMS RANGE AND POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESSMENT LEGAL LISTING AND TRIGGER INDEPENDENTLY",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED VERIFIED ITEM WITH STATIC ANCHOR",
+          "role": "primary"
+        },
+        {
+          "text": "RECHECK OR OMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVENT STALE-CURRENT CLAIMS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → scientific name rank and claim unit",
+        "SEPARATE → IUCN WPA CITES CMS range and population",
+        "DATE → assessment legal listing and trigger independently",
+        "PAIR → dated verified item with static anchor",
+        "RECHECK OR OMIT → prevent stale-current claims"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "IDENTIFY → scientific name rank and claim unit",
+            "SEPARATE → IUCN WPA CITES CMS range and population"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DATE → assessment legal listing and trigger independently",
+            "PAIR → dated verified item with static anchor"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RECHECK OR OMIT → prevent stale-current claims",
+            "IDENTIFY → scientific name rank and claim unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAIR → dated verified item with static anchor.",
+      "source_references": [
+        "Stale-current firewall",
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TRACKING A SINGLE FLAGSHIP SPECIES (E.G., THE GREAT INDIAN",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOMMENDED PRACTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINTAIN THIS KIND OF LONGITUDINAL TRACKING FOR A SMALL",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS TRACKER'S ENTRIES REFLECT VERIFICATION AS OF THEIR STATED",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL COMPARATIVE CLAIMS (E.G., \"INDIA HAS THE HIGHEST NUMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT-PROCEEDING STATUS (E.G., THE GREAT INDIAN BUSTARD POWER-LINE CASE)",
+          "role": "institution"
+        },
+        {
+          "text": "VERIFICATION DISCIPLINE (SOURCE AND DATE ATTRIBUTION FOR EVERY CURRENT-AFFAIRS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Tracking a single flagship species (e.g., the Great Indian Bustard) across multiple",
+            "CAUTION: Recommended practice: maintain this kind of longitudinal tracking for a small number",
+            "CAUTION: This tracker's entries reflect verification as of their stated compilation date; new",
+            "CAUTION: International comparative claims (e.g., \"India has the highest number of Ramsar sites"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Court-proceeding status (e.g., the Great Indian Bustard power-line case) evolves with",
+            "Verification discipline (source and date attribution for every current-affairs claim) is",
+            "Longitudinal tracking of a small number of flagship species/sites across multiple",
+            "International comparative claims (e.g., rankings among countries) are time-sensitive and"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "Where official sources show discrepancies in reported figures, the defensible approach is",
+            "NOT: A precise-sounding but unverifiable figure is always preferable to a qualified estimate",
+            "NOT: Current-affairs preparation and static-syllabus preparation should be studied as entirely",
+            "NOT: Once a comparative international ranking (e.g., \"highest in Asia\") is learned, it can be"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-06",
+      "display_title": "NPAs, Basel Norms, Resolution and Financial Inclusion",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Stress recognition rail",
+          "structural_type": "causal-flow",
+          "ascii_lines": [
+            "WEAK CASH FLOW",
+            "-> OVERDUE UNDER RBI TEST",
+            "-> NPA RECOGNITION",
+            "-> PROVISIONING + CAPITAL PRESSURE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Loan-accounting fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "PROVISION -> expected loss charged to income",
+            "WRITE-OFF -> removed from active loan book",
+            "WAIVER -> liability legally relinquished",
+            "RECOVERY RIGHTS may survive a write-off"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Risk-weighted capital board",
+          "structural_type": "ratio-map",
+          "ascii_lines": [
+            "BASEL GLOBAL -> CET1 4.5 | TIER 1 6 | TOTAL 8",
+            "RBI INDIA -> CET1 5.5 | TIER 1 7 | CRAR 9",
+            "CCB -> 2.5 CET1",
+            "VINTAGE -> RBI Master Circular, 1 Apr 2025"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Twin-balance-sheet loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "CORPORATE OVER-LEVERAGE",
+            "-> WEAK DEBT SERVICE",
+            "-> BANK NPAs + CAPITAL LOSS",
+            "-> WEAKER FRESH CREDIT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Recovery-resolution ladder",
+          "structural_type": "legal-route-ladder",
+          "ascii_lines": [
+            "SARFAESI -> secured-asset enforcement",
+            "DRT -> specialised debt recovery",
+            "IBC / NCLT -> collective insolvency",
+            "ICA -> lender coordination, not a tribunal"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Stressed-asset transfer",
+          "structural_type": "vehicle-map",
+          "ascii_lines": [
+            "BANK BALANCE SHEET",
+            "-> ARC / NARCL TRANSFER",
+            "-> SPECIALISED RECOVERY OR SALE",
+            "LOSS REMAINS -> valuation and buyer interest decide"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Supervisory repair sequence",
+          "structural_type": "reform-rail",
+          "ascii_lines": [
+            "AQR -> RECOGNITION",
+            "PCA -> GRADUATED SUPERVISION",
+            "RECAPITALISATION -> LOSS ABSORPTION",
+            "4R -> RECOGNITION + RESOLUTION + RECAP + REFORMS"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Stress indicators board",
+          "structural_type": "classification-board",
+          "ascii_lines": [
+            "NPA -> prudential loan classification",
+            "ICR -> earnings / interest-service indicator",
+            "EVERGREENING -> concealed stress",
+            "FORBEARANCE -> temporary relief, not permanent concealment"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Inclusion quality triangle",
+          "structural_type": "quality-triangle",
+          "ascii_lines": [
+            "ACCESS -> account or service availability",
+            "USAGE -> active and suitable use",
+            "QUALITY -> protection + grievance + suitability",
+            "FI-INDEX -> all three; no base year"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Inclusion delivery map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "PMJDY -> transaction-account platform",
+            "SHG-BANK LINKAGE -> group savings to formal bank",
+            "BUSINESS CORRESPONDENT -> last-mile access",
+            "WATERCREDIT -> targeted water/sanitation finance"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "Credit-cleanup trade-offs",
+          "structural_type": "trade-off-board",
+          "ascii_lines": [
+            "EARLY RECOGNITION -> credibility / short-run ratio shock",
+            "HIGHER CAPITAL -> resilience / lending constraint",
+            "FAST RECOVERY -> discipline / viability risk",
+            "DIGITAL ACCESS -> lower cost / exclusion and mis-selling risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        },
+        {
+          "title": "NPA answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE stress and classification",
+            "ABSORB loss through provisions and capital",
+            "CHOOSE recovery, resolution or transfer",
+            "RESTORE governance and useful inclusion"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

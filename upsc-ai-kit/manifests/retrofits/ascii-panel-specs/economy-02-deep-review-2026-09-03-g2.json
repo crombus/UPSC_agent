@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-02",
+      "display_title": "Growth, Development, HDI, IHDI and MPI",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Growth is the input, not the verdict",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "REAL OUTPUT GROWTH",
+            "-> income + profits + fiscal capacity",
+            "-> jobs + public services + household investment",
+            "DEVELOPMENT ONLY IF capabilities broaden",
+            "MUST REMEMBER: Development expands capabilities, health, education, income security,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Capability conversion",
+          "structural_type": "conversion-funnel",
+          "ascii_lines": [
+            "RESOURCES",
+            "-> health + education + nutrition",
+            "-> substantive freedoms",
+            "LIMIT -> income can rise without conversion"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "HDI three-dimension frame",
+          "structural_type": "three-axis-map",
+          "ascii_lines": [
+            "HEALTH -> life expectancy",
+            "EDUCATION -> expected + mean years of schooling",
+            "LIVING STANDARD -> GNI per capita",
+            "AGGREGATION -> geometric mean"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "HDI-to-IHDI discount",
+          "structural_type": "inequality-ladder",
+          "ascii_lines": [
+            "HDI -> average achievement",
+            "INEQUALITY WITHIN EACH DIMENSION",
+            "-> achievement discounted",
+            "ZERO INEQUALITY -> IHDI equals HDI"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "MPI household lens",
+          "structural_type": "deprivation-grid",
+          "ascii_lines": [
+            "HEALTH | EDUCATION | LIVING STANDARDS",
+            "HOUSEHOLD -> overlapping deficits",
+            "NOT AN INCOME-ONLY CLASSIFICATION",
+            "USE -> composition and targeting"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "H times A formula",
+          "structural_type": "equation-band",
+          "ascii_lines": [
+            "H -> incidence: how many are poor",
+            "A -> intensity: how deprived the poor are",
+            "MPI = H x A",
+            "TRAP -> H and A can move differently"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Income line versus MPI",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "INCOME LINE -> monetary threshold",
+            "MPI -> weighted deprivation overlap",
+            "INCOME -> transfer adequacy",
+            "MPI -> sectoral composition of deprivation"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Institutions map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "UNDP -> HDI and IHDI",
+            "UNDP + OPHI -> global MPI",
+            "NITI AAYOG -> national MPI",
+            "GOVERNMENTS -> service delivery"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Below-state diagnosis",
+          "structural_type": "scale-ladder",
+          "ascii_lines": [
+            "NATIONAL AVERAGE",
+            "-> STATE DIVERGENCE",
+            "-> DISTRICT DIVERGENCE",
+            "RULE -> ranking change is not transformation"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Protection versus transformation",
+          "structural_type": "policy-fork",
+          "ascii_lines": [
+            "MGNREGA -> wage floor + rural assets",
+            "ICDS / PM POSHAN -> nutrition + schooling",
+            "SHGs -> savings + agency + networks",
+            "LIMIT -> productivity and decent jobs remain necessary",
+            "CLOSE DISTINCTION: Growth is not development, per-capita average is not distribution, HDI..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Composite-index limits",
+          "structural_type": "limit-wheel",
+          "ascii_lines": [
+            "AVERAGE -> can hide distribution",
+            "WEIGHTS -> shape results",
+            "SURVEY TIMING -> misses sudden shocks",
+            "QUALITY -> may differ from access",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name publisher, edition/release date,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Inclusive-growth answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE growth and development",
+            "TRACE jobs + services + capabilities",
+            "COMPARE HDI / IHDI / MPI",
+            "QUALIFY with inequality, quality and ecology"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-02\\g2\\economy-02_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

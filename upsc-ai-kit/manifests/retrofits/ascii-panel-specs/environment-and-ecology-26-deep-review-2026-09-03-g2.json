@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-26",
+      "display_title": "Disaster Management Framework and Sendai",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Disaster-risk equation",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "HAZARD -> potentially damaging process or event",
+            "EXPOSURE -> people assets systems in harm's way",
+            "VULNERABILITY -> susceptibility to damage",
+            "CAPACITY -> resources and ability to manage risk",
+            "RISK -> interaction across a stated place and time",
+            "MUST REMEMBER: Environment Topic 26 owns the climate-ecosystem-Sendai overlap: hazard,..."
+          ],
+          "source_references": [
+            "Hazard boundary",
+            "Exposure boundary",
+            "Vulnerability boundary",
+            "Capacity boundary",
+            "Risk relation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Hazard-to-disaster threshold",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "HAZARD OCCURS -> physical or human-induced event",
+            "EXPOSED SYSTEM -> contact with people assets or ecosystems",
+            "VULNERABILITY AND LOW CAPACITY -> losses amplify",
+            "COPING ABILITY SEVERELY TESTED -> serious disruption",
+            "DISASTER -> not every hazard crosses this threshold"
+          ],
+          "source_references": [
+            "Disaster boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Risk-reduction ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PREVENTION -> avoid creation or existence of risk where possible",
+            "MITIGATION -> reduce adverse impact of remaining risk",
+            "PREPAREDNESS -> ready plans warnings skills and resources",
+            "RESPONSE -> immediate life-saving and basic needs",
+            "RECOVERY -> restore and improve while reducing future risk"
+          ],
+          "source_references": [
+            "Prevention-mitigation distinction",
+            "Preparedness boundary",
+            "Response boundary",
+            "Recovery boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Build Back Better loop",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DAMAGE AND NEEDS ASSESSMENT -> establish recovery baseline",
+            "REHABILITATION -> restore essential functions",
+            "RECONSTRUCTION -> rebuild assets and systems",
+            "RISK-INFORMED IMPROVEMENT -> avoid old vulnerability",
+            "FEEDBACK -> prevention mitigation and preparedness improve"
+          ],
+          "source_references": [
+            "Build-Back-Better boundary",
+            "Cycle-continuum boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Domestic architecture firewall",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DISASTER MANAGEMENT ACT -> domestic legal base",
+            "NDMA -> national policy and guidelines",
+            "NEC -> executive coordination and implementation support",
+            "SDMA AND DDMA -> state and district statutory levels",
+            "RULE -> roles come from domestic law, not Sendai text"
+          ],
+          "source_references": [
+            "Domestic-law boundary",
+            "NDMA-NEC boundary",
+            "State-district boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Training-response split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NIDM -> training research documentation capacity development",
+            "NDRF -> specialised disaster response operations",
+            "NDMA -> policy and guidance",
+            "DDMA -> district planning and implementation context",
+            "RULE -> institution type determines the answer"
+          ],
+          "source_references": [
+            "NIDM-NDRF boundary",
+            "State-district boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Sendai identity card",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PERIOD -> 2015 to 2030",
+            "NATURE -> global voluntary non-binding framework",
+            "PURPOSE -> prevent new and reduce existing disaster risk",
+            "SCOPE -> people livelihoods health assets and systems",
+            "NOT -> Indian statute fund or response force"
+          ],
+          "source_references": [
+            "Sendai identity",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Four priorities rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PRIORITY 1 -> understand disaster risk",
+            "PRIORITY 2 -> strengthen risk governance",
+            "PRIORITY 3 -> invest in resilience",
+            "PRIORITY 4 -> preparedness response and Build Back Better",
+            "RULE -> fields of action, not the seven global targets"
+          ],
+          "source_references": [
+            "Priorities-targets boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Seven-target logic",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TARGETS A TO D -> substantially reduce specified losses",
+            "MORTALITY AND AFFECTED PEOPLE -> human impact directions",
+            "ECONOMIC AND CRITICAL-SERVICE LOSS -> system impact directions",
+            "TARGETS E TO G -> substantially increase strategies cooperation warnings",
+            "RULE -> indicator values require official monitoring metadata"
+          ],
+          "source_references": [
+            "Priorities-targets boundary",
+            "Global-domestic boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Global-domestic bridge",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "SENDAI -> global principles priorities and targets",
+            "INDIAN LAW -> authorities powers duties and funds",
+            "NATIONAL AND STATE PLANS -> domestic implementation choices",
+            "SECTOR AGENCIES -> warnings infrastructure health and relief",
+            "ALIGNMENT -> policy bridge, not legal identity",
+            "CLOSE DISTINCTION: Hazard is not disaster, resilience is not mere recovery, NDMA is not..."
+          ],
+          "source_references": [
+            "Domestic-law boundary",
+            "Global-domestic boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence status screen",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "LOSS FIGURE -> event date definition and reporting source",
+            "TARGET PROGRESS -> indicator baseline and period",
+            "EARLY WARNING -> hazard geography reach and access",
+            "INSTITUTIONAL POWER -> current statutory provision",
+            "PLAN STATUS -> dated official edition or amendment",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve dedicated Disaster Management..."
+          ],
+          "source_references": [
+            "Current evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Disaster answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> hazard exposure vulnerability capacity risk and disaster",
+            "SEQUENCE -> prevention mitigation preparedness response recovery",
+            "MAP -> NDMA NEC NIDM NDRF SDMA and DDMA by owned role",
+            "SEPARATE -> four Sendai priorities from seven global targets",
+            "VERIFY -> domestic law plan loss indicator and warning evidence"
+          ],
+          "source_references": [
+            "Current evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-26\\g2\\environment-and-ecology-26_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

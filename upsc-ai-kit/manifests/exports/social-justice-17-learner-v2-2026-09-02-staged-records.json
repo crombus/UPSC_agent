@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "social-justice-17-learner-v2-2026-09-02",
+  "selection": "social-justice-17",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "social-justice-17:learner-v2:g1",
+      "topic_key": "social-justice-17",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Social Justice — Subject-wide Syllabus — Scheme Performance, Convergence, Targeting and Data",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Solved-Practice-Workbook_2026-09-02.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Solved-Practice-Workbook_2026-09-02.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\assets",
+      "generated_on": "2026-09-02",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Social-Justice\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture_Learner-V2-Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\README.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+          "books\\more_previous_papers\\Gen_St_P2.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf"
+        ],
+        "live_sources": [],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Complete-Learning-Session_2026-09-02.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-02",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+          "books\\mains\\UPSC Mains 2024 GS Paper I.pdf": "24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3",
+          "books\\mains\\UPSC Mains 2025 GS Paper 1.pdf": "26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42",
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+          "books\\more_previous_papers\\Gen_St_P2.pdf": "cb8e216e424a6d21ec0a8d86a7b97d1bca8f60f1e100aef1255ea044cf7884d8",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-I.pdf": "7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45",
+          "books\\more_previous_papers\\GENERAL-STUDIES-PAPER-II.pdf": "0b39500df905ed076f879029e4bb3b0336d7a59b857baf18ca937f3b67e6f13c",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\00_Master-Framework.md": "ea3d6a31999b7acd45eb2785dba07aae3a055a1158ab9541bada422930847471",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture_Learner-V2-Complete-Topic-Package.md": "79f6fed138c7c44e4255018d3b83da8115cdbff2ef883e9c316b1c9cbb931d47",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md": "df02867bf4c246d928a1c93b3cd171c253ee931865803d1a3a3ac35187a3df06",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\ANSWER-WORTHINESS-AUDIT.md": "a30dc101d1984fe414e9d3bab3e68ada98935f9822abe0d896f4e0feb24f4d56",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md": "3ff1a3e8832e01502221f3ee0cbb246b43e5dabdf8786c8606dac91d9f112962",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\LEARNING-SESSION-COMMAND-INDEX.md": "e37b3ed996af644fb459a77d224136e6313adfa7411f65fec9d7aa9ec2ba5df4",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-17_Learning-Session.md": "79f6fed138c7c44e4255018d3b83da8115cdbff2ef883e9c316b1c9cbb931d47",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-17_Solved-Workbook.md": "75815505344e716f013fb909ff6ac4279efa0ebcfef2de1fbdfa87abffbbeb7d",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "3992e8439869f5b57aac93f503df5ca58fd2dc3ef438d2d16a29976017d19448",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\README.md": "9b48e10a70b370eacb7902d07931872435c9128209c247c69c41491d0ff64a33",
+          "upsc-ai-kit\\knowledge\\Social-Justice\\REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md": "814e6f6baf6b2881ad1c2cc9fe2e27f4e1898771a5b699c76f4060331fc6768a",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-17-2026-09-02-sequential.json": "9e08b94b201f71262589e53ae12b23ea4554f0b36ed3ad44191c3974090ff78e",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Social-Justice\\social-justice-17.json": "b056dc727ba742745cd9102a2f76b445256ee7686c7590fa6a443ce4c0aef354",
+          "upsc-ai-kit\\manifests\\v2\\social-justice--subject-wide-syllabus.json": "e18fd3e0da87c8e1fd1e3b26c589794a5f000f5b660bc7dcd9805d079e6bbb3e",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; only verified routed PYQ demands; six solved original Mains questions weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "No live official page was verified for this topic on 2026-09-02. Two official checks were attempted on that date, namely a national social-assistance portal address that failed to resolve at the transport level and a departmental scheme identifier that returned a not-found page, so nothing was read or used from either, and no secondary summary, coaching site or news report has been treated as an official source. The package therefore relies entirely on the dated official anchors already carried by the repository owners, each cited with its issuing body, round or status date: the National Social Assistance Programme of the Ministry of Rural Development with its five recorded components, the Indira Gandhi National Old Age Pension Scheme, the Indira Gandhi National Widow Pension Scheme, the Indira Gandhi National Disability Pension Scheme, the National Family Benefit Scheme paying a lump sum on the death of the primary breadwinner and Annapurna providing food support for elderly persons not covered by a pension, with central assistance fixed and State top-ups permitted and with eligibility administered through below-poverty-line and State targeting routes that must be specified rather than assumed; the Socio-Economic and Caste Census of 2011 as a static deprivation-based targeting database distinct from the decennial Census, underpinning the core eligibility route of the national health-assurance scheme while the separate route for all persons aged seventy and above is age-based, and with its caste data recorded as collected but not released or validated for general policy use; the definitions of inclusion error and exclusion error; the delivery layer of direct benefit transfer on the identity, account and mobile trinity, the public financial management system and the single nodal agency arrangement, with the auxiliary nurse midwife, accredited social health activist, anganwadi worker and panchayat secretary as frontline cadres and urban local bodies and panchayati raj institutions as the implementing tier; the outcome instruments comprising the National Family Health Survey of the health ministry, the Periodic Labour Force Survey of the statistics ministry, National Crime Records Bureau data, the Sustainable Development Goal India Index and the Multidimensional Poverty Index of the national policy think tank; the sixth round of the National Family Health Survey covering 2023-24, recorded as released on 29 May 2026 and reporting under-five stunting at 29.3 per cent against 35.5 per cent in the fifth round covering 2019-21, with the instruction that the round travel with every indicator and that values from two rounds never be silently merged; the Development Monitoring and Evaluation Office housed in the national policy think tank coordinating third-party evaluations and the Output-Outcome Monitoring Framework introduced by the Ministry of Finance as a budget-document requirement; the approval of caste enumeration for the 2027 Census by the Cabinet Committee on Political Affairs on 30 April 2025 with first-phase houselisting notified for the period from 1 April to 30 September 2026 and with no results available, recorded expressly as an ongoing operation rather than a published database or a ready-made targeting list; the Economic Survey of 2025-26 finding that cash transfers can improve short-term consumption and food security without consistently improving child nutrition, education or durable poverty exits when complementary public services and work opportunities are absent, used only to support a convergence argument; and the privacy judgment's requirement of legality, purpose, proportionality and safeguards with the rule that verification must not become denial of an entitlement. No beneficiary count, pension amount, enrolment figure, coverage percentage other than the recorded food-security share and the two recorded stunting values, leakage or diversion estimate, inclusion-error or exclusion-error rate, evaluation score, district ranking, budget, allocation or expenditure number is asserted anywhere in this package. No survey round is invented or merged, no projection is presented as an enumeration, no caste-enumeration result is asserted, no scheme is described as universal that the owners record as targeted or as targeted that they record as age-based, no advisory institution is described as having binding power, no legal or constitutional provision is invented or upgraded in status, no judicial holding is extended beyond what the owners record, and no previous-year question, official answer key, option or date is asserted or inferred beyond the two routed Mains demands whose printed wording is recorded in the audited ledger and confirmed against the locally held official papers.",
+        "pyq_status_note": "This owner's previous-year record is a verified Mains ownership of exactly two demands, and it is stated precisely together with the boundary of what is claimed. The audited 2018-2023 Mains routing ledger routes the 2019 General Studies Paper II question numbered 18 here, whose printed wording states that the performance of welfare schemes that are implemented for vulnerable sections is not so effective due to the absence of their awareness and active involvement at all stages of the policy process, with the directive Discuss, fifteen marks and two hundred and fifty words; and it routes the 2023 General Studies Paper II question numbered 17 here, whose printed wording states that development and welfare schemes for the vulnerable, by their nature, are discriminatory in approach and asks whether the candidate agrees and to give reasons for the answer, with fifteen marks and two hundred and fifty words. For both the ledger records that the core route supersedes the older Advanced ownership, and the Basic owner's answer architecture records the same ownership in the same terms. Both demands are therefore solved in this package with model answers written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern. No further demand is claimed: the audited 2024-2025 Mains routing ledger and the audited 2018-2023, 2024-2025 and 2026 Prelims routing ledgers route no additional question to this owner, and both the Basic and the Advanced owner state independently that no General Studies Paper II question in the audited 2024-2025 papers directly names the social-assistance umbrella, the targeting database or convergence. Alongside the two solved demand cards, the package adds six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the two routed Mains demands; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "4da41c883dcc78a316db8ba0c6085f13b1985efd0db90147e06a675b0e1d5c27"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "social-justice-17:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-02",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "498f39c95bd247366f20a1c527c1538c932291b295830598b594a6cafd67d8ac",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\flowcharts\\social-justice-17\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-17-2026-09-02-sequential.json",
+        "ascii_master_spec_sha256": "9e08b94b201f71262589e53ae12b23ea4554f0b36ed3ad44191c3974090ff78e"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

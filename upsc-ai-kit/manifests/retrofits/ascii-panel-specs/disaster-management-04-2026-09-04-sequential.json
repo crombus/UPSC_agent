@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 04",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-04",
+      "display_title": "Multi-Hazard Early Warning and Disaster Technology",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "End-to-end MHEWS rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 RISK KNOWLEDGE",
+            "2 MONITOR / OBSERVE / FORECAST",
+            "3 AUTHORITATIVE WARNING",
+            "4 DISSEMINATE -> 5 PREPARE / ACT -> 6 FEEDBACK"
+          ],
+          "source_references": [
+            "End-to-end MHEWS",
+            "Last-mile feedback"
+          ]
+        },
+        {
+          "title": "Risk-knowledge stack",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "HAZARD + EXPOSURE + VULNERABILITY + CAPACITY",
+            "SPATIAL LAYERS + HISTORICAL / REAL-TIME DATA",
+            "DECISION -> WHO WHERE WHEN WHAT ACTION",
+            "UPDATE -> COMMUNITY AND EVENT FEEDBACK"
+          ],
+          "source_references": [
+            "Risk knowledge"
+          ]
+        },
+        {
+          "title": "Observation-to-warning firewall",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SENSOR / REPORT -> QUALITY CONTROL",
+            "MODEL + EXPERT ANALYSIS -> FORECAST / ASSESSMENT",
+            "COMPETENT AUTHORITY -> WARNING",
+            "PUBLIC ACTION -> NOT RAW DATA"
+          ],
+          "source_references": [
+            "Monitoring and forecasting",
+            "Authoritative warning"
+          ]
+        },
+        {
+          "title": "Dissemination redundancy",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "CAP MESSAGE -> SMS / CELL / APP / WEB",
+            "CAP MESSAGE -> RADIO / TV / SIREN",
+            "LOCAL RELAY -> VOLUNTEER / PUBLIC ADDRESS",
+            "BACKUP -> POWER + NETWORK + MANUAL PATH"
+          ],
+          "source_references": [
+            "Dissemination",
+            "Interoperability and redundancy"
+          ]
+        },
+        {
+          "title": "Warning-to-action test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RECEIVED? -> UNDERSTOOD?",
+            "TRUSTED? -> ACTION FEASIBLE?",
+            "ROUTE / TRANSPORT / SHELTER AVAILABLE?",
+            "RESULT -> EARLY ACTION OR LAST-MILE FAILURE"
+          ],
+          "source_references": [
+            "Preparedness and action",
+            "Last-mile feedback"
+          ]
+        },
+        {
+          "title": "Agency ownership matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "IMD -> WEATHER / CYCLONE",
+            "CWC -> RIVER FLOOD FORECAST",
+            "INCOIS -> TSUNAMI",
+            "ISRO / NRSC -> EARTH OBSERVATION / GIS",
+            "NDMA + STATE / LOCAL -> INTEGRATION AND ACTION"
+          ],
+          "source_references": [
+            "IMD role",
+            "CWC role",
+            "INCOIS role",
+            "ISRO and NRSC role",
+            "NDMA and local roles"
+          ]
+        },
+        {
+          "title": "CAP and SACHET boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CAP -> structured message format",
+            "SACHET -> national alert portal / dissemination layer",
+            "SOLVES -> channel-format interoperability",
+            "DOES NOT SOLVE -> hazard ownership or local readiness"
+          ],
+          "source_references": [
+            "CAP and SACHET"
+          ]
+        },
+        {
+          "title": "Geospatial decision cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SATELLITE / AERIAL / FIELD DATA",
+            "GIS LAYERS -> RISK MAP / ROUTE / SHELTER",
+            "EVENT IMAGE -> DAMAGE / ACCESS ASSESSMENT",
+            "RECOVERY MAP -> SAFER SITING"
+          ],
+          "source_references": [
+            "GIS and remote sensing",
+            "ISRO and NRSC role"
+          ]
+        },
+        {
+          "title": "Sensor-hazard matching",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DOPPLER RADAR -> WEATHER STRUCTURE",
+            "GAUGE -> RAIN / RIVER / SEA LEVEL",
+            "BUOY / BPR -> OCEAN RESPONSE",
+            "SEISMIC NETWORK -> EARTHQUAKE PARAMETERS"
+          ],
+          "source_references": [
+            "Radar sensors and lead time"
+          ]
+        },
+        {
+          "title": "Emerging-technology safeguards",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DRONE -> local imagery | airspace + safety",
+            "AI -> pattern / prioritisation | uncertainty + oversight",
+            "CROWD REPORT -> local signal | verification + provenance",
+            "DATA -> utility | privacy + minimisation"
+          ],
+          "source_references": [
+            "Drones and crowdsourcing",
+            "AI and models",
+            "Privacy and equity"
+          ]
+        },
+        {
+          "title": "Failure and redundancy map",
+          "structural_type": "failure-tree",
+          "ascii_lines": [
+            "SENSOR FAIL | POWER FAIL | NETWORK FAIL",
+            "AUTHORITY DELAY | FORMAT MISMATCH",
+            "LANGUAGE / ACCESS BARRIER | NO TRANSPORT",
+            "CONTROL -> REDUNDANT TECHNICAL AND HUMAN PATHS"
+          ],
+          "source_references": [
+            "Interoperability and redundancy",
+            "Privacy and equity"
+          ]
+        },
+        {
+          "title": "Technology answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "MAP HAZARD + LEAD TIME -> NAME COMPETENT AGENCY",
+            "TRACE DATA -> FORECAST -> WARNING -> DISSEMINATION",
+            "ADD ACCESSIBLE ACTION + FEEDBACK",
+            "QUALIFY UNCERTAINTY PRIVACY AND OUTCOME EVIDENCE"
+          ],
+          "source_references": [
+            "Technology-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

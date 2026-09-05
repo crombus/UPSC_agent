@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "scope": "Social Justice learner-v2 Topic 17",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-17",
+      "display_title": "Scheme Performance, Convergence, Targeting and Data",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The five-stage performance cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STAGE 1 TARGETING -> who is eligible: deprivation database, identity, State and group lists",
+            "-> STAGE 2 DELIVERY: transfer rails, fund-flow systems and frontline cadres",
+            "-> STAGE 3 CONVERGENCE: several ministries meeting at one household",
+            "-> STAGE 4 OUTCOME: surveys and composite indices measuring what actually changed",
+            "-> STAGE 5 CORRECTION: evaluation and grievance feeding evidence back into redesign"
+          ],
+          "source_references": [
+            "The five-stage cycle that organises the whole topic",
+            "What this capstone owner holds and which demands are routed to it"
+          ]
+        },
+        {
+          "title": "Social-assistance umbrella",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "OLD AGE -> Indira Gandhi National Old Age Pension Scheme",
+            "WIDOW -> Indira Gandhi National Widow Pension Scheme",
+            "DISABILITY -> Indira Gandhi National Disability Pension Scheme",
+            "BEREAVEMENT -> National Family Benefit Scheme, a lump sum on a breadwinner's death",
+            "FOOD -> Annapurna, for elderly persons not covered by a pension; States may top up"
+          ],
+          "source_references": [
+            "The social-assistance umbrella and its five components"
+          ]
+        },
+        {
+          "title": "Database against census",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TARGETING DATABASE 2011 -> deprivation and occupation criteria: housing, land, assets",
+            "USE -> core eligibility route of the health-assurance scheme",
+            "NOT USED FOR -> the separate age-based route covering all persons aged seventy and above",
+            "DECENNIAL CENSUS -> universal population enumeration with a different purpose and method",
+            "CASTE DATA -> collected in 2011; not released or validated for general policy use"
+          ],
+          "source_references": [
+            "The targeting database and why it is not the Census",
+            "Universal provision against targeted provision"
+          ]
+        },
+        {
+          "title": "Targeting-error matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "INCLUSION ERROR -> an ineligible person is included; resources leak to the non-poor",
+            "EXCLUSION ERROR -> an eligible person is left out; the needy miss the benefit",
+            "TIGHTER VERIFICATION -> lowers inclusion error and raises exclusion error",
+            "SELF-DECLARATION -> lowers exclusion error and raises inclusion error",
+            "RULE -> a design chooses which error to bear; it does not remove both"
+          ],
+          "source_references": [
+            "The two targeting errors and what each one costs"
+          ]
+        },
+        {
+          "title": "Delivery machinery",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "TRANSFER RAIL -> direct benefit transfer on the identity, account and mobile trinity",
+            "FUND FLOW -> the public financial management system and single nodal agency arrangement",
+            "LAST MILE -> auxiliary nurse midwife, health activist, anganwadi worker, panchayat secretary",
+            "TIER -> urban local bodies and panchayati raj institutions implement",
+            "LIMIT -> faster transfers do not give a frontline worker a household-wide view"
+          ],
+          "source_references": [
+            "The delivery machinery between a sanction and a household"
+          ]
+        },
+        {
+          "title": "One household, six ministries",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "FOREST RIGHTS -> tribal affairs ministry with the State forest department",
+            "HABITAT -> tribal development mission: housing, road and water",
+            "CHILD NUTRITION -> school meal programme and the integrated nutrition programme",
+            "HEALTH -> health assurance administered through the national health authority",
+            "OLD AGE -> social-assistance pension from the rural development ministry"
+          ],
+          "source_references": [
+            "The household that shows why convergence is hard",
+            "What convergence means and the two directions it must work in"
+          ]
+        },
+        {
+          "title": "Convergence failure chain",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "STEP 1 -> each ministry keeps its own eligibility database; no interoperable record exists",
+            "STEP 2 -> different cadres serve different schemes; no worker sees the whole household",
+            "STEP 3 -> the district collector lacks real-time data and authority over central agencies",
+            "STEP 4 -> disbursement cycles differ, so one benefit arrives and another is missed",
+            "RESULT -> convergence is architectural, so exhortation cannot produce it"
+          ],
+          "source_references": [
+            "Why convergence fails by design rather than by neglect",
+            "What the failure looks like inside one household"
+          ]
+        },
+        {
+          "title": "Data type and result level",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "ADMINISTRATIVE -> high frequency, programme-specific, excludes the non-enrolled",
+            "SURVEY -> comparable indicators, sampled, carries a reporting lag",
+            "CENSUS -> universal coverage, infrequent and slow",
+            "OUTPUT VERSUS OUTCOME -> meals served against nutritional status",
+            "IMPACT -> long-term capability such as cognitive development, estimated by evaluation"
+          ],
+          "source_references": [
+            "Three kinds of data and what each one can and cannot say",
+            "Output, outcome and impact as three different results"
+          ]
+        },
+        {
+          "title": "Outcome instruments card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "HEALTH AND NUTRITION -> the National Family Health Survey of the health ministry",
+            "EMPLOYMENT -> the Periodic Labour Force Survey of the statistics ministry",
+            "DISCRIMINATION AND CRIME -> National Crime Records Bureau data",
+            "COMPOSITE -> the Sustainable Development Goal India Index and the poverty index",
+            "ROUND RULE -> sixth round 2023-24, released 29 May 2026; stunting 29.3% against 35.5%"
+          ],
+          "source_references": [
+            "The outcome instruments and the discipline of the round"
+          ]
+        },
+        {
+          "title": "Targeting-error chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "VINTAGE -> a 2011 list misses movement, income change and newly arising deprivation",
+            "-> DOCUMENTS: identity number, ration card or certificate proxies for identity, not need",
+            "-> VERIFICATION CHOICE: self-declaration leaks; certification excludes the undocumented",
+            "-> PROXY LIMITS: housing, land and assets imperfectly track income or consumption poverty",
+            "SAFEGUARD -> assisted and non-digital alternatives with a correction route"
+          ],
+          "source_references": [
+            "Why targeting errors arise even when the design is sound"
+          ]
+        },
+        {
+          "title": "Correction failure and its instruments",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DIVERGENCE -> dashboards show coverage; surveys show a remaining outcome deficit",
+            "UNINVESTIGATED -> the divergence itself is not treated as a finding",
+            "EVALUATION -> the think tank's evaluation office coordinates third-party evaluation",
+            "BUDGET -> the output-outcome monitoring framework of the finance ministry",
+            "BREAK -> findings stay in reports because allocation does not depend on them"
+          ],
+          "source_references": [
+            "Why evidence does not become correction",
+            "The reform architecture and the rights limits on it"
+          ]
+        },
+        {
+          "title": "Pending data and bounded findings",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "30 APRIL 2025 -> caste enumeration for the 2027 Census is approved",
+            "1 APRIL TO 30 SEPTEMBER 2026 -> first-phase houselisting is notified",
+            "STATUS -> operations begun; no results; not a database or a targeting list",
+            "SURVEY FINDING -> transfers improve short-term consumption and food security",
+            "BOUNDARY -> without complementary services, nutrition, education and exits do not follow"
+          ],
+          "source_references": [
+            "The pending data event and what it does not yet supply",
+            "What the transfer evidence actually supports"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Geography learner-v2 Topic 36 sequential build",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-36",
+      "display_title": "Contemporary Geographical Issues (India)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\36_Contemporary-Geographical-Issues-India_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Is it a geographical issue",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ASK WHERE -> can the problem be located on a basin, coast, slope or corridor",
+            "ASK WHY THERE -> does terrain, climate, water or connectivity explain the location",
+            "ASK SO WHAT -> is there a spatial consequence such as migration, flooding or erosion",
+            "IF all three answer yes -> it is a geographical issue and the chain applies",
+            "IF only the policy dispute is present -> it is a governance question, not a spatial one"
+          ],
+          "source_references": [
+            "What makes an issue geographical",
+            "The simple analytical chain"
+          ]
+        },
+        {
+          "title": "Six issue-lenses",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "RESOURCE CONFLICT -> control of water, minerals, forests and coasts",
+            "BORDERLAND -> clustering near a frontier, gateway or corridor",
+            "HAZARD AND VULNERABILITY -> floodplain, coast, hill slope and seismic exposure",
+            "MOBILITY AND URBAN PRIMACY -> stress migration; drainage and land-market overload",
+            "ECOLOGICAL FRAGILITY -> coral island, wetland, delta and mountain ecosystems"
+          ],
+          "source_references": [
+            "The six issue-lenses",
+            "Standing issue families"
+          ]
+        },
+        {
+          "title": "Stress to policy chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "RESOURCE, CLIMATE OR TERRAIN STRESS -> the initiating physical condition",
+            "UNEVEN ACCESS OR EXPOSURE -> the stress falls unequally across space and groups",
+            "CONFLICT OR GOVERNANCE PRESSURE -> contestation becomes visible",
+            "SPATIAL SPILLOVER -> migration, flooding, erosion or corridor shift follows",
+            "POLICY RESPONSE -> instruments arrive, usually after the spillover"
+          ],
+          "source_references": [
+            "The simple analytical chain",
+            "What makes an issue geographical"
+          ]
+        },
+        {
+          "title": "Nine-step analytical spine",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROCESS AND PATTERN -> name the process, then explain why there and not elsewhere",
+            "DRIVERS AND SCALE -> separate natural from human; fix local, regional or transboundary",
+            "EXPOSURE AND VULNERABILITY -> who is in the way; why the same hazard hurts unequally",
+            "TRADE-OFF -> name the genuine competing interest that always exists",
+            "INSTRUMENT AND VERDICT -> match the remedy to the mechanism, then grade the conclusion"
+          ],
+          "source_references": [
+            "Nine-step analytical chain",
+            "Exposure against vulnerability",
+            "Scale-mismatch insight"
+          ]
+        },
+        {
+          "title": "Exposure and vulnerability separated",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EXPOSURE -> population, assets and livelihoods physically in the hazard path",
+            "VULNERABILITY -> capacity to absorb, cope and recover from the same hazard",
+            "GROUNDWATER CASE -> smallholders lose access first because deeper wells need finance",
+            "FLOOD CASE -> informal housing without insurance or alternative shelter bears the loss",
+            "IMPLICATION -> physical protection alone leaves the distributional problem untouched"
+          ],
+          "source_references": [
+            "Exposure against vulnerability",
+            "Groundwater worked case",
+            "Urban flooding worked case"
+          ]
+        },
+        {
+          "title": "Scale mismatch rail",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "AQUIFER SCALE -> matches no administrative boundary in an irrigated plain",
+            "CATCHMENT SCALE -> extends beyond the municipal limit of a flooding city",
+            "BASIN SCALE -> crosses several states in a peninsular river dispute",
+            "CONSEQUENCE -> the unit expected to act cannot govern the whole process",
+            "ANSWER MOVE -> name the mismatch explicitly; it is the least used available insight"
+          ],
+          "source_references": [
+            "Scale-mismatch insight",
+            "Groundwater worked case",
+            "Krishna basin geography"
+          ]
+        },
+        {
+          "title": "Groundwater decline worked chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROCESS -> abstraction exceeds recharge in an alluvial aquifer",
+            "PATTERN -> tube-well density, water-intensive cropping and assured procurement coincide",
+            "DRIVERS -> cropping pattern, energy pricing, procurement geography, rainfall variability",
+            "BURDEN -> smallholders unable to finance deeper wells lose access first",
+            "INSTRUMENT -> demand-side crop and energy reform with managed recharge at aquifer scale"
+          ],
+          "source_references": [
+            "Groundwater worked case",
+            "Scale-mismatch insight"
+          ]
+        },
+        {
+          "title": "Urban flooding worked chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROCESS -> runoff generation exceeds drainage conveyance capacity",
+            "PATTERN -> low-lying land, filled tanks and wetlands, encroached natural drains",
+            "DRIVERS -> surface sealing, undersized silted networks, floodplain construction",
+            "TRADE-OFF -> protecting drains and floodplains forgoes valuable developable land",
+            "INSTRUMENT -> drainage restoration, blue-green infrastructure and tenure-backed relocation"
+          ],
+          "source_references": [
+            "Urban flooding worked case",
+            "Urban flooding factor set"
+          ]
+        },
+        {
+          "title": "Current-material discipline",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FORECAST vs OBSERVATION -> a prediction is not a recorded measurement",
+            "PROJECTION vs MEASUREMENT -> a model output is not an instrument reading",
+            "SURVEY vs CENSUS -> a sample estimate is not an enumerated count",
+            "ANNOUNCEMENT vs IMPLEMENTATION -> approval is not delivery on the ground",
+            "TARGET vs ACHIEVEMENT -> a stated goal is never a completed outcome"
+          ],
+          "source_references": [
+            "Five current-material confusions",
+            "Core-independence rule"
+          ]
+        },
+        {
+          "title": "Peninsular basin dispute geography",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "UPSTREAM STORAGE -> reservoir location and timed release govern downstream availability",
+            "INTER-STATE SPREAD -> Maharashtra, Karnataka, Telangana and Andhra Pradesh all matter",
+            "COMMAND AREAS -> irrigated agriculture depends on predictable release windows",
+            "LOWER BASIN -> delta and lower-riparian needs fear reduced seasonal flow",
+            "ADMINISTRATION -> bifurcation reorganised the basin's management, not its geometry"
+          ],
+          "source_references": [
+            "Krishna basin geography",
+            "Peninsular against Himalayan river questions"
+          ]
+        },
+        {
+          "title": "Fragile-edge development trade-off",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GREAT NICOBAR ADVANTAGE -> proximity to east-west routes and the Malacca-facing arc",
+            "GREAT NICOBAR CONSTRAINT -> coral coast, tribal habitat, seismicity, coastal regulation",
+            "NORTH-EAST ADVANTAGE -> Bay of Bengal access bypassing the narrow mainland hinge",
+            "NORTH-EAST CONSTRAINT -> folded slopes, heavy monsoon, landslides, forest fragmentation",
+            "RULE -> route value and ecological fragility occupy the same site, so name the trade-off"
+          ],
+          "source_references": [
+            "Great Nicobar development tension",
+            "North-east corridor fragility",
+            "Connectivity-hazard caveat"
+          ]
+        },
+        {
+          "title": "Dated official anchors and their boundary",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "21 AUG 2025 -> PIB and Lok Sabha reply on continued Krishna tribunal relevance",
+            "29 JUL 2024 -> PIB release on urban flooding during the monsoon season",
+            "READING -> both anchors illustrate processes already owned by core files",
+            "AMRUT -> storm-water and water-body interventions cited in the flooding release",
+            "BOUNDARY -> no allocation share, rainfall total or outlay is quoted from memory"
+          ],
+          "source_references": [
+            "Krishna tribunal current anchor",
+            "Urban flooding current anchor",
+            "Core-independence rule"
+          ]
+        }
+      ]
+    }
+  ]
+}

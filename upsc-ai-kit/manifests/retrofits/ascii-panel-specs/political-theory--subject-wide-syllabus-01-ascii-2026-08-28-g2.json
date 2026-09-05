@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-01",
+  "generation_identity": "political-theory-01:learner-v2:g2",
+  "generated_on": "2026-08-28",
+  "panel_count": 12,
+  "panels": [
+    {
+      "number": 1,
+      "title": "The Field, Its Scope and Its Exam Significance"
+    },
+    {
+      "number": 2,
+      "title": "Essential Vocabulary of Political Inquiry"
+    },
+    {
+      "number": 3,
+      "title": "The Facts-Logic-Values Argument"
+    },
+    {
+      "number": 4,
+      "title": "Science, Philosophy, Theory and Ideology"
+    },
+    {
+      "number": 5,
+      "title": "Thinkers, Positions and Illustrative Applications"
+    },
+    {
+      "number": 6,
+      "title": "Comparison Matrix and UPSC Trap Repair"
+    },
+    {
+      "number": 7,
+      "title": "Ownership Boundaries and the Revision Spine"
+    },
+    {
+      "number": 8,
+      "title": "The Decline and Revival Debate"
+    },
+    {
+      "number": 9,
+      "title": "Qualified Thesis and Directive-Specific Architecture"
+    },
+    {
+      "number": 10,
+      "title": "Evidence, Objections, Indian Application and Mark-Scaled Answers"
+    },
+    {
+      "number": 11,
+      "title": "MCQ Remediation and Trap Repair"
+    },
+    {
+      "number": 12,
+      "title": "PYQ Ownership and Answer Practice"
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "schema_version": 1,
+  "id": "continuous-core-first-2026-08-22",
+  "generated_on": "2026-08-22T16:06:25.259249+05:30",
+  "selection": "all latest completed learner-v2 canonical topic owners",
+  "topic_count": 38,
+  "all_topics_start_substantively": true,
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-01_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-01\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 9,
+      "first_five_stages": [
+        "🖼️ VISUAL — What ancient history is actually about: the six layers under the dynasty list",
+        "🖼️ VISUAL — The four things people call \"history\", and the gaps between them",
+        "🖼️ VISUAL — The evidence wheel: eight source classes, one rule, and the boundary line",
+        "🖼️ VISUAL — The colonial knowledge machine: administrative need in, imperial narrative out",
+        "🖼️ VISUAL — The nationalist counter-attack: which colonial claim each scholar answered"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-02_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-02\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 31,
+      "first_five_stages": [
+        "Source Criticism: Authenticity, Meaning and Corroboration — [CORE MAINS]",
+        "Archaeology I: Artefact, Industry, Assemblage and Culture — [CORE PRELIMS + CORE MAINS]",
+        "Archaeology II: Survey, Stratigraphy and Excavation Strategy — [CORE PRELIMS + CORE MAINS]",
+        "Scientific Dating and Archaeometry: Precision with Error Bars — [SUPPORTING]",
+        "Bioarchaeology, Environment and Ethnoarchaeology — [SUPPORTING]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-03_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-03\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 29,
+      "first_five_stages": [
+        "Physical Architecture of the Subcontinent — [CORE PRELIMS]",
+        "Himalayas, Passes and Frontier Zones — [CORE PRELIMS + CORE MAINS]",
+        "Indus and Ghaggar-Hakra River Systems — [CORE PRELIMS + CORE MAINS]",
+        "Ganga-Brahmaputra Plains, Doabs and Deltas — [CORE PRELIMS + CORE MAINS]",
+        "Peninsular Plateaus, River Valleys and Coasts — [CORE PRELIMS + CORE MAINS]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-04_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-04\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 21,
+      "first_five_stages": [
+        "Geological Context: Pleistocene, Holocene and Changing Landscapes",
+        "Human Evolution and the Sparse Indian Hominin Record",
+        "Lithic Evidence Grammar: Artefact, Core, Flake, Debitage and Context",
+        "Dating and Archaeological Methods: Building a Defensible Chronology",
+        "Lower Palaeolithic: Acheulian Landscapes and Large Cutting Tools"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-05_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-05\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 44,
+      "first_five_stages": [
+        "Meaning and Chronology - Neolithic, Neolithic-Chalcolithic and Chalcolithic — [CORE PRELIMS + CORE MAINS]",
+        "Transition from Foraging to Food Production - Mosaic, Not Ladder — [CORE MAINS]",
+        "Why Domestication? Competing Explanations and a Multi-Causal Verdict — [CORE MAINS]",
+        "Domestication of Plants - Direct Evidence, Indirect Evidence and Rice Caution — [CORE PRELIMS + CORE MAINS]",
+        "Domestication of Animals - Herd Structure, Morphology and Human Control — [CORE PRELIMS + CORE MAINS]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-06_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-06\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 43,
+      "first_five_stages": [
+        "Terminology, Chronology and the Integration-Localisation Model — [CORE PRELIMS + CORE MAINS]",
+        "Discovery, Excavation and Changing Historiography — [SUPPORTING]",
+        "Geographical Extent, Ecological Zones and Regional Domains — [CORE PRELIMS + CORE MAINS]",
+        "From Earlier Farming Communities to Early Harappan Urban Potential — [CORE MAINS]",
+        "Settlement Hierarchy and the Urban-Rural System — [CORE PRELIMS + CORE MAINS]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-07_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-07\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 47,
+      "first_five_stages": [
+        "Terminology - Arya, Aryan, Indo-Aryan and Indo-Iranian — [CORE PRELIMS + CORE MAINS]",
+        "Why There Is an \"Aryan Problem\" — [CORE MAINS]",
+        "Early Philology - Discovery of a Language Family — [CORE MAINS]",
+        "Colonial and Racial Formulations — [SUPPORTING]",
+        "Evidence Matrix - What Each Class Can and Cannot Establish — [CORE MAINS]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "subject": "Ancient-Indian-History",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5\\ancient-indian-history-08_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-08\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 27,
+      "first_five_stages": [
+        "The Rig Veda: corpus, composition, layers and oral transmission — [CORE PRELIMS + CORE MAINS]",
+        "Relative chronology and the danger of a single date — [CORE PRELIMS + CORE MAINS]",
+        "Geographical setting: Sapta-Sindhu, rivers, ecology and limits — [CORE PRELIMS + CORE MAINS]",
+        "Political organisation: kin units, rajan and the limits of statehood — [CORE PRELIMS + CORE MAINS]",
+        "Assemblies, officials, bali and redistribution — [CORE PRELIMS + CORE MAINS]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "subject": "Ancient-Indian-History",
+      "generation": 6,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-09_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-09\\continuous-at-a-glance-core-first-g6",
+      "closure_flow_count": 25,
+      "first_five_stages": [
+        "Text-source matrix: the Later Vedic corpus is not the Rig Veda",
+        "Chronology, geography and the eastward shift",
+        "Settlement, forests and ecological opportunity",
+        "Iron technology: evidence, uses and caution",
+        "Agriculture, ploughing, crops, cattle and surplus"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "subject": "Ancient-Indian-History",
+      "generation": 6,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-10_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-10\\continuous-at-a-glance-core-first-g6",
+      "closure_flow_count": 35,
+      "first_five_stages": [
+        "Sixth-century BCE setting: cities, states and intellectual ferment — [CORE PRELIMS + CORE MAINS]",
+        "The shramana field: heterodoxy without a false binary — [CORE PRELIMS + CORE MAINS]",
+        "Pre-Mahavira Jain tradition and the Tirthankaras — [CORE PRELIMS + SUPPORTING]",
+        "Mahavira: traditional biography and historical reconstruction — [CORE PRELIMS + CORE MAINS]",
+        "Jain ontology: jiva, ajiva and a living cosmos — [CORE PRELIMS + CORE MAINS]"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "subject": "Ancient-Indian-History",
+      "generation": 6,
+      "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3-core-first-g4-core-first-g5-core-first-g6\\ancient-indian-history-11_Learning-Session.md",
+      "flowchart_folder": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\continuous-at-a-glance-core-first-g6",
+      "closure_flow_count": 31,
+      "first_five_stages": [
+        "Chronology: a long transition, not a single event in 600 BCE",
+        "From jana to janapada to mahajanapada: territoriality without teleology",
+        "The sixteen mahajanapadas: conventional list and textual variation",
+        "Text map: the political geography of the mahajanapada system",
+        "Major monarchies: Magadha, Kosala, Vatsa and Avanti"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "geography-01",
+      "subject": "Geography",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography-core-first-g3-core-first-g4-core-first-g5\\geography-01_Learning-Session.md",
+      "flowchart_folder": "notes\\Geography\\flowcharts\\geography-01\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 24,
+      "first_five_stages": [
+        "Big Bang: hot dense beginning, expansion and evidence",
+        "Galaxies and the mass-controlled life cycle of stars",
+        "Formation and classification of the Solar System",
+        "Earth's shape: oblate spheroid and geoid",
+        "Rotation, revolution, axial tilt and leap-year logic"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "geography-02",
+      "subject": "Geography",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography-core-first-g3-core-first-g4-core-first-g5\\geography-02_Learning-Session.md",
+      "flowchart_folder": "notes\\Geography\\flowcharts\\geography-02\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 29,
+      "first_five_stages": [
+        "Master vocabulary: what exactly are we studying?",
+        "Crust and lithosphere: related, not identical",
+        "The complete rock cycle: a network, not a conveyor belt",
+        "Igneous rocks: cooling history, composition and texture",
+        "Sedimentary rocks: sediment pathway and field clues"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "subject": "Geography",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\geography-28-human-settlements-and-urbanisation_Learning-Session.md",
+      "flowchart_folder": "notes\\Geography\\flowcharts\\geography-28-human-settlements-and-urbanisation\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 16,
+      "first_five_stages": [
+        "Settlement geography: site, situation, function and hierarchy",
+        "Rural settlement forms: how closely do people live?",
+        "Settlement patterns: what geometry appears on the ground?",
+        "Urbanisation and the rural-urban continuum",
+        "Model firewall: models simplify; they do not photograph reality"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "subject": "Geography",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\geography-30-primary-economic-activities-agriculture_Learning-Session.md",
+      "flowchart_folder": "notes\\Geography\\flowcharts\\geography-30-primary-economic-activities-agriculture\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 12,
+      "first_five_stages": [
+        "What agricultural geography studies",
+        "The six controls of agriculture",
+        "Major agricultural systems",
+        "Von Thunen — why distance still matters",
+        "World agricultural regions and crop requirements"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "subject": "Geography",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\geography-32-industries-and-industrial-regions_Learning-Session.md",
+      "flowchart_folder": "notes\\Geography\\flowcharts\\geography-32-industries-and-industrial-regions\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 8,
+      "first_five_stages": [
+        "Terminology firewall: industry, manufacturing, factory and industrial region",
+        "Main location factors: build a ranked factor system",
+        "Weber's least-cost theory: learn it in six steps",
+        "Types of industrial orientation: compare stages, not labels",
+        "Major world industrial regions: map the mechanism behind each belt"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "subject": "Philosophy",
+      "generation": 6,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+      "closure_flow_count": 9,
+      "first_five_stages": [
+        "Historical Reconstruction and the Source Problem",
+        "Epistemology — Perception as the Sole Pramāṇa",
+        "The Critique of Inference — Vyāpti, Upādhi, the Socrates Syllogism and Self-Refutation",
+        "The Nyāya Defence of Inference — and a Critically Balanced Verdict",
+        "Metaphysics and Materialism — Four Bhūtas, the Rejection of Ākāśa, and Svabhāvavāda"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-02\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 56,
+      "first_five_stages": [
+        "UMĀSVĀTI / UMĀSVĀMĪ AND THE TATTVĀRTHASŪTRA ✅",
+        "THEORY OF REALITY ✅",
+        "1 Anekāntavāda as metaphysical thesis",
+        "2 Dravya as sat = utpāda-vyaya-dhrauvya ✅",
+        "3 Six dravyas ✅"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-03\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 117,
+      "first_five_stages": [
+        "PRATĪTYASAMUTPĀDA (Pratityasamutpada) — DEPENDENT ORIGINATION",
+        "1 Statement",
+        "2 The Four Noble Truths as the frame",
+        "3 The twelve nidānas in order",
+        "4 Argument structure"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-04\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 122,
+      "first_five_stages": [
+        "1 Nyāya",
+        "2 Vaiśeṣika",
+        "3 Their convergence",
+        "1 Statement",
+        "Statement"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-05\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 87,
+      "first_five_stages": [
+        "1 The three-pramāṇa scheme",
+        "2 Definitions of the three pramāṇas",
+        "4 Why sāmānyato-dṛṣṭa inference is decisive",
+        "5 Presupposition and objections",
+        "6 Theory of cognition: antaḥkaraṇa and reflection"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-01_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-01\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 5,
+      "first_five_stages": [
+        "Part I - Nyaya's notion of God",
+        "Part II - Is Hinduism polytheistic?",
+        "Comparative synthesis",
+        "PYQ answer frameworks",
+        "Model philosophical conclusion"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-02_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-02\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 10,
+      "first_five_stages": [
+        "🖼️ VISUAL — The three questions every proof must survive",
+        "🖼️ VISUAL — The ontological argument as a reductio",
+        "🖼️ VISUAL — Two kinds of causal series (the whole argument turns on this)",
+        "🖼️ VISUAL — Three teleologies that must not be confused",
+        "🖼️ VISUAL — Kant's two-storey structure"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-03_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-03\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 10,
+      "first_five_stages": [
+        "Session 1 - Conceptual Method: What Problem Is Being Asked?",
+        "Session 2 - Classical Formulation and Mackie's Logical Problem",
+        "Session 3 - Plantinga's Free Will Defence",
+        "Session 4 - Evidential Evil: Rowe, Probability and Skeptical Theism",
+        "Session 5 - Classical Theodicies and Defences"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "subject": "Philosophy",
+      "generation": 5,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-ii-philosophy-of-religion-04_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-04\\continuous-at-a-glance-core-first-g5",
+      "closure_flow_count": 24,
+      "first_five_stages": [
+        "The Six Survival-Terms and the Necessity Question",
+        "Immortality of the Soul: Plato's Four Proofs and the Western Critique",
+        "IMMORTALITY OF THE SOUL ✅",
+        "1 Plato's immortality arguments",
+        "Rebirth: Karma, Samsara and the Buddhist Challenge"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "subject": "Philosophy",
+      "generation": 4,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-05_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-05\\continuous-at-a-glance-core-first-g4",
+      "closure_flow_count": 7,
+      "first_five_stages": [
+        "REASON IN RELIGION ✅",
+        "REVELATION ✅",
+        "FAITH ✅",
+        "THE FOUR STANCES — comparison ⚠️",
+        "FOUNDATIONAL STATEMENT BANK ⚠️"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "subject": "Philosophy",
+      "generation": 4,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-06_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-06\\continuous-at-a-glance-core-first-g4",
+      "closure_flow_count": 5,
+      "first_five_stages": [
+        "NATURE — Western accounts ✅",
+        "NATURE — Indian accounts ✅",
+        "OBJECT & the question of VERIDICALITY ⚠️",
+        "FOUNDATIONAL STATEMENT BANK ⚠️",
+        "APPLIED-QUESTION DRILLS ⚠️"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "subject": "Philosophy",
+      "generation": 4,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-07_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-07\\continuous-at-a-glance-core-first-g4",
+      "closure_flow_count": 7,
+      "first_five_stages": [
+        "WHAT MAKES SOMETHING A RELIGION (if not God)? ✅",
+        "BUDDHISM as religion without God (2024 PYQ) ✅",
+        "WESTERN CRITIQUES OF (theistic) RELIGION ⚠️",
+        "AGNOSTICISM (2023 PYQ) ✅",
+        "STATEMENT / QUOTE BANK ⚠️"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "subject": "Philosophy",
+      "generation": 4,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-08_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-08\\continuous-at-a-glance-core-first-g4",
+      "closure_flow_count": 7,
+      "first_five_stages": [
+        "THE DEPENDENCE VIEW — morality needs religion ✅",
+        "THE INDEPENDENCE VIEW — autonomous morality ✅",
+        "THE INTERACTION VIEW — mutual influence (2023 PYQ) ✅",
+        "COMPARISON GRID ⚠️",
+        "FOUNDATIONAL STATEMENT BANK ⚠️"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "subject": "Philosophy",
+      "generation": 4,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-09_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-09\\continuous-at-a-glance-core-first-g4",
+      "closure_flow_count": 7,
+      "first_five_stages": [
+        "THE THREE POSITIONS ✅",
+        "THE VEDANTIC / INDIAN MODEL (2025 PYQ) ✅",
+        "THE PROBLEM OF ABSOLUTE TRUTH (2022, 2024 PYQ) ⚠️",
+        "COMPARISON GRID ⚠️",
+        "FOUNDATIONAL STATEMENT BANK ⚠️"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "subject": "Philosophy",
+      "generation": 4,
+      "markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion-core-first-g2-core-first-g3-core-first-g4\\philosophy-paper-ii-philosophy-of-religion-10_Learning-Session.md",
+      "flowchart_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-ii-philosophy-of-religion-10\\continuous-at-a-glance-core-first-g4",
+      "closure_flow_count": 7,
+      "first_five_stages": [
+        "THE PROBLEM ✅",
+        "HOW WE SPEAK — Analogy, Symbol, Negation ✅",
+        "WHETHER IT STATES FACTS — Cognitive vs Non-cognitive ✅",
+        "COMPARISON GRID ⚠️",
+        "FOUNDATIONAL STATEMENT BANK ⚠️"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-01",
+      "subject": "Polity",
+      "generation": 7,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-01_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-01\\continuous-at-a-glance-core-first-g7",
+      "closure_flow_count": 16,
+      "first_five_stages": [
+        "Method and the pre-1773 corporate state",
+        "Regulating Act 1773 and Settlement Act 1781",
+        "Pitt's India Act 1784, the 1786 measure and Charter Act 1793",
+        "Charter Acts 1793 and 1813: monopoly, sovereignty and education",
+        "Charter Acts 1833 and 1853: all-India government, law and civil service"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-02",
+      "subject": "Polity",
+      "generation": 7,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-02_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-02\\continuous-at-a-glance-core-first-g7",
+      "closure_flow_count": 19,
+      "first_five_stages": [
+        "Intellectual and political origins: 1934-1946",
+        "Cabinet Mission design and allocation logic",
+        "Elections, composition change and metric discipline",
+        "First sitting, presiding officers and secretariat",
+        "Objectives Resolution to Preamble"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-03",
+      "subject": "Polity",
+      "generation": 8,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8\\polity-03_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-03\\continuous-at-a-glance-core-first-g8",
+      "closure_flow_count": 22,
+      "first_five_stages": [
+        "What counts as a salient constitutional feature",
+        "Written, lengthy and detailed Constitution",
+        "Borrowed sources as adaptation, not copying",
+        "Blend of rigidity and flexibility",
+        "Federal system with centralising, cooperative and asymmetric dimensions"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-04",
+      "subject": "Polity",
+      "generation": 7,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-04_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-04\\continuous-at-a-glance-core-first-g7",
+      "closure_flow_count": 20,
+      "first_five_stages": [
+        "What a preamble is, and what kind of instrument India's Preamble is",
+        "From the Objectives Resolution to the Preamble: the drafting chain",
+        "The authoritative text and its clause architecture",
+        "Ingredient 1 - the source of authority: \"We, the People of India\"",
+        "Ingredient 2 - the nature of the Indian State: the six descriptors"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-05",
+      "subject": "Polity",
+      "generation": 7,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-05_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-05\\continuous-at-a-glance-core-first-g7",
+      "closure_flow_count": 15,
+      "first_five_stages": [
+        "Constitutional conception: why Article 1 says 'Union of States'",
+        "Articles 1 to 4 clause-by-clause: the constitutional architecture of territory",
+        "Article 2 and Article 3 are not the same power",
+        "Article 3 procedure: consultation without consent",
+        "Article 4: supplemental, incidental and consequential provisions - and why this is not Article 368"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-06",
+      "subject": "Polity",
+      "generation": 7,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7\\polity-06_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7",
+      "closure_flow_count": 24,
+      "first_five_stages": [
+        "Citizenship as legal membership: citizen, alien and the constitutional rights map",
+        "Citizenship, domicile and residence - and why India still has single citizenship",
+        "Why Articles 5-11 are transitional, but not unimportant",
+        "Article 5 - domicile plus one of three connecting factors",
+        "Article 6 - migrants from Pakistan and the 19 July 1948 divide"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    },
+    {
+      "topic_key": "polity-07",
+      "subject": "Polity",
+      "generation": 8,
+      "markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6-core-first-g7-core-first-g8\\polity-07_Learning-Session.md",
+      "flowchart_folder": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8",
+      "closure_flow_count": 27,
+      "first_five_stages": [
+        "Part III as an architecture: rights, limits, remedies and special controls",
+        "Beneficiaries, vertical and horizontal reach, positive and negative duties",
+        "Qualified rights, reasonable restrictions and proportionality",
+        "Article 12 - the State and the instrumentality inquiry",
+        "Article 13 - law, judicial review and the voidness doctrines"
+      ],
+      "starts_with_substantive_stage": true,
+      "contains_no_production_meta_stages": true,
+      "production_meta_stage_titles": [],
+      "manual_review_required": true
+    }
+  ]
+}

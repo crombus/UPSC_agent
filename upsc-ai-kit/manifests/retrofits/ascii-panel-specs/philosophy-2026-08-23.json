@@ -1,0 +1,2446 @@
+{
+  "schema_version": 1,
+  "benchmark": "Notions-of-God approved 10-panel ASCII master",
+  "generated_on": "2026-08-23",
+  "scope": "Latest active learner-v2 Philosophy topics: Indian Philosophy 01-05 and Philosophy of Religion 01-10",
+  "constraints": {
+    "panel_count_per_topic": "8-10",
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "tracker_untouched": true,
+    "pdfs_generated": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-01",
+      "title": "Cārvāka (Carvaka / Lokāyata)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "panels": [
+        {
+          "panel_title": "1. Source-critical entry",
+          "structural_type": "provenance funnel",
+          "source_session_heading_references": [
+            "A. Source status",
+            "Historical Reconstruction and the Source Problem"
+          ],
+          "lines": [
+            "CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE",
+            "                         |",
+            "     +-------------------+-------------------+",
+            "     v                   v                   v",
+            " lost Bṛhaspati-sūtra  opponent reports   quoted fragments",
+            "                       (Mādhava, Jayanta,  (often polemical)",
+            "                        Śāntarakṣita)",
+            "     +-------------------+-------------------+",
+            "                         v",
+            " RULE: distinguish attested thesis from hostile caricature",
+            " Lokāyata = this-worldly orientation; Cārvāka = materialist school label."
+          ]
+        },
+        {
+          "panel_title": "2. Epistemic gate",
+          "structural_type": "branching pramāṇa tree",
+          "source_session_heading_references": [
+            "B. Epistemic thesis",
+            "C. Critique of inference"
+          ],
+          "lines": [
+            "VALID KNOWLEDGE (PRAMĀ)                     REJECTED INDEPENDENT SOURCES",
+            "          |                                             |",
+            "          v                                             v",
+            " PRATYAKṢA / PERCEPTION              anumāna     śabda      upamāna",
+            " direct, sense-grounded              inference   testimony  comparison",
+            "          |                              |",
+            "          v                              v",
+            " observed conjunction is finite; universal vyāpti outruns perception",
+            " smoke seen with fire in kitchens != smoke is invariably fire-linked."
+          ]
+        },
+        {
+          "panel_title": "3. Inference controversy",
+          "structural_type": "objection-reply dialectic",
+          "source_session_heading_references": [
+            "C. Critique of inference",
+            "D. Upādhi and self-refutation",
+            "E. Nyāya reply"
+          ],
+          "lines": [
+            "CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti)",
+            " vyāpti known by inference -> circularity | by perception -> incomplete survey",
+            " hidden condition (upādhi) may defeat the rule: fire without smoke, wet fuel matters",
+            "                         |",
+            " NYĀYA REPLY: repeated agreement + absence of counter-instance + tarka",
+            " anvaya (presence) + vyatireka (absence) -> defeasible but rational vyāpti",
+            "                         |",
+            " CĀRVĀKA COUNTER-PRESSURE: practical expectation may work without certainty",
+            " SELF-REFUTATION CHARGE: arguing against inference already employs inference."
+          ]
+        },
+        {
+          "panel_title": "4. Material ontology",
+          "structural_type": "emergence map",
+          "source_session_heading_references": [
+            "F. Material reality",
+            "G. Self and consciousness"
+          ],
+          "lines": [
+            "ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED",
+            " earth + water + fire + air -> organised living body -> consciousness",
+            "                         |",
+            " consciousness is a body-property, not an immaterial substance",
+            " analogy: fermentation ingredients -> intoxicating power not present separately",
+            "                         |",
+            " SELF = living conscious body (dehātma-vāda)",
+            " death -> elemental dissolution -> no surviving ātman, rebirth or afterlife",
+            " QUALIFICATION: emergence is asserted; a full mechanism is not supplied."
+          ]
+        },
+        {
+          "panel_title": "5. Transcendent denials",
+          "structural_type": "dependency collapse chain",
+          "source_session_heading_references": [
+            "H. Transcendent denials"
+          ],
+          "lines": [
+            "NO PERCEPTUAL WARRANT",
+            "       |",
+            "       +-> no immortal soul -> no rebirth",
+            "       +-> no karma as supersensible moral force",
+            "       +-> no heaven/hell -> no post-mortem reward or punishment",
+            "       +-> no creator God -> world needs no transcendent planner",
+            "       +-> no Vedic infallibility -> priestly testimony lacks intrinsic authority",
+            " RESULT: metaphysics is cut back to perceptible nature and embodied life."
+          ]
+        },
+        {
+          "panel_title": "6. Ethics without caricature",
+          "structural_type": "ethical decision matrix",
+          "source_session_heading_references": [
+            "I. Ethics",
+            "Labels and evaluation"
+          ],
+          "lines": [
+            "PURUṢĀRTHA FILTER",
+            " dharma: rejected when grounded in unseen reward or Vedic command",
+            " mokṣa: rejected as liberation of a separable soul",
+            " artha + kāma: intelligible goods within one embodied life",
+            "                         |",
+            " prudent enjoyment != reckless indulgence",
+            " pleasure sought -> weigh pain, social consequence and attainable means",
+            "                         |",
+            " EXAM CONTROL: call it naturalistic hedonism or this-worldliness;",
+            " do not reduce the school to the hostile slogan “eat, drink and borrow.”"
+          ]
+        },
+        {
+          "panel_title": "7. Comparative pressure map",
+          "structural_type": "school comparison grid",
+          "source_session_heading_references": [
+            "J. Comparative map",
+            "K. Labels and evaluation"
+          ],
+          "lines": [
+            "ISSUE          CĀRVĀKA             NYĀYA              BUDDHISM",
+            "pramāṇa        perception only     four pramāṇas      perception + inference",
+            "self           conscious body      enduring ātman     anātman stream",
+            "causation      observed sequence   realist relation   dependent origination",
+            "transcendent   denied              God, soul, karma   karma without creator",
+            "liberation     death ends person    apavarga           nirvāṇa",
+            "                         |",
+            " STRENGTH: anti-dogmatic evidential discipline",
+            " LIMIT: perception-only rule struggles to justify science, memory and its own critique."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer rail",
+          "structural_type": "answer-synthesis flow",
+          "source_session_heading_references": [
+            "L. Final answer discipline",
+            "Rapid answer spine",
+            "PYQ routes at a glance"
+          ],
+          "lines": [
+            "DEFINE source problem -> STATE perception thesis -> RECONSTRUCT inference attack",
+            "        |                         |                         |",
+            "        v                         v                         v",
+            " explain upādhi/circularity -> give Nyāya reply -> assess self-refutation",
+            "        |",
+            "        v",
+            " derive materialism -> embodied self -> transcendent denials -> ethical result",
+            "        |",
+            "        v",
+            " QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive",
+            " pratyakṣa criterion is narrower than the reasoning needed to defend that challenge."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "title": "Jainism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md",
+      "panels": [
+        {
+          "panel_title": "1. Plural realist ontology",
+          "structural_type": "ontological branching map",
+          "source_session_heading_references": [
+            "A. System identity",
+            "B. Reality"
+          ],
+          "lines": [
+            "JAIN REALITY (SAT) = permanence-through-change",
+            "                         |",
+            "             +-----------+-----------+",
+            "             v                       v",
+            "          JĪVA                     AJĪVA",
+            " conscious substances       non-conscious substances",
+            "             |                       |",
+            " innumerable souls          pudgala | dharma | adharma | ākāśa | kāla",
+            "             +-----------+-----------+",
+            "                         v",
+            " each dravya has enduring substance + changing guṇa/paryāya",
+            " UTPĀDA + VYAYA + DHRAUVYA = origination + cessation + persistence."
+          ]
+        },
+        {
+          "panel_title": "2. Jīva and ajīva mechanics",
+          "structural_type": "substance taxonomy",
+          "source_session_heading_references": [
+            "C. Substance and soul"
+          ],
+          "lines": [
+            "JĪVA: consciousness (upayoga) is essential; knowledge is naturally unbounded",
+            " embodied state -> soul expands/contracts to body -> agency + experience",
+            "                         |",
+            " AJĪVA FIVEFOLD",
+            " pudgala = matter, including karmic matter | ākāśa = accommodation",
+            " dharma = medium of motion              | adharma = medium of rest",
+            " kāla = condition of change",
+            " TRAP: dharma/adharma here are cosmic media, not moral merit/demerit."
+          ]
+        },
+        {
+          "panel_title": "3. Bondage as material process",
+          "structural_type": "causal bondage chain",
+          "source_session_heading_references": [
+            "H. Karma and bondage"
+          ],
+          "lines": [
+            "PASSIONATE ACTIVITY (yoga + kaṣāya)",
+            "                         |",
+            "                         v",
+            " ĀSRAVA: influx of subtle karmic pudgala into jīva",
+            "                         |",
+            "                         v",
+            " BANDHA: karmic matter binds and obscures knowledge, faith, energy, bliss",
+            "                         |",
+            "        saṃvara blocks new influx + nirjarā sheds old karma",
+            "                         |",
+            "                         v",
+            " MOKṢA: kevala-jñāna; liberated siddha rises beyond saṃsāra."
+          ]
+        },
+        {
+          "panel_title": "4. Many-sided knowledge",
+          "structural_type": "perspectival hierarchy",
+          "source_session_heading_references": [
+            "D. Knowledge",
+            "E. Many-sided judgement"
+          ],
+          "lines": [
+            "REALITY HAS INNUMERABLE ASPECTS",
+            "                         |",
+            "          +--------------+--------------+",
+            "          v                             v",
+            " ANEKĀNTAVĀDA                     NAYAVĀDA",
+            " metaphysical many-sidedness      partial standpoints of judgement",
+            "          |                             |",
+            "          +--------------+--------------+",
+            "                         v",
+            " SYĀDVĀDA: conditional predication — “in a certain respect”",
+            " partial statement can be valid without being absolutely exhaustive",
+            " TRAP: not scepticism; omniscience knows fully, finite knowers know perspectivally."
+          ]
+        },
+        {
+          "panel_title": "5. Saptabhaṅgī sevenfold branch",
+          "structural_type": "seven-branch predication tree",
+          "source_session_heading_references": [
+            "F. Sevenfold predication"
+          ],
+          "lines": [
+            "ABOUT OBJECT X, UNDER SPECIFIED STANDPOINT / TIME / MODE:",
+            " 1 syād-asti              -> in some respect, X is",
+            " 2 syān-nāsti             -> in some respect, X is not",
+            " 3 syād-asti-nāsti        -> successively, X is and is not",
+            " 4 syād-avaktavyaḥ        -> X is inexpressible under simultaneous demand",
+            " 5 syād-asti-avaktavyaḥ   -> X is and is inexpressible",
+            " 6 syān-nāsti-avaktavyaḥ  -> X is not and is inexpressible",
+            " 7 syād-asti-nāsti-avaktavyaḥ -> X is, is not, and is inexpressible",
+            " CONTRADICTION IS AVOIDED BY DIFFERENT RESPECTS, NOT BY ASSERTING P AND NOT-P SIMPLY."
+          ]
+        },
+        {
+          "panel_title": "6. Ethical-soteriological route",
+          "structural_type": "three-jewel liberation ladder",
+          "source_session_heading_references": [
+            "I. Liberation sequence",
+            "J. Ethics and stages"
+          ],
+          "lines": [
+            "SAMYAG-DARŚANA -> SAMYAG-JÑĀNA -> SAMYAK-CĀRITRA",
+            " right faith          right knowledge      right conduct",
+            "                                         |",
+            "                           five vows: ahiṃsā, satya, asteya,",
+            "                           brahmacarya, aparigraha",
+            "                                         |",
+            " householder aṇuvrata -> ascetic mahāvrata -> guṇasthāna purification",
+            "                                         |",
+            " ahiṃsā disciplines body, speech and thought because every jīva can be harmed."
+          ]
+        },
+        {
+          "panel_title": "7. Objections, replies, comparisons",
+          "structural_type": "dialectical comparison grid",
+          "source_session_heading_references": [
+            "G. Absolutism objection",
+            "K. Criticism–reply grid"
+          ],
+          "lines": [
+            "OBJECTION                         JAIN REPLY",
+            "syādvāda is self-refuting           it applies conditionally to itself, not absolutely",
+            "seven forms are repetitive          combinations track affirmation, denial, ineffability",
+            "anekānta destroys truth             it rejects one-sided absolutism, not determinate truth",
+            "karma-matter/soul contact obscure   bondage is beginningless via passions and subtle pudgala",
+            "                         |",
+            " BUDDHISM: change without substance | VEDĀNTA: unity beneath plurality",
+            " JAINISM: real substances persist through real modes; plurality is irreducible."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer architecture",
+          "structural_type": "convergent answer spine",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "OPEN: Jainism joins realism, pluralism and perspectival discipline",
+            "                         |",
+            " ontology -> jīva/ajīva -> dravya-guṇa-paryāya -> permanence-through-change",
+            "                         |",
+            " epistemology -> anekānta -> naya -> syāt -> exact seven bhaṅgas",
+            "                         |",
+            " soteriology -> karma as matter -> āsrava/bandha -> saṃvara/nirjarā -> mokṣa",
+            "                         |",
+            " evaluate strongest contradiction objection and standpoint reply",
+            "                         |",
+            " CLOSE: qualified predication protects complexity without surrendering truth."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "title": "Schools of Buddhism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-03_Learning-Session.md",
+      "panels": [
+        {
+          "panel_title": "1. Common Buddhist foundation",
+          "structural_type": "foundation-to-schools map",
+          "source_session_heading_references": [
+            "A. System identity",
+            "B. Dependent origination"
+          ],
+          "lines": [
+            "COMMON THERAPEUTIC CORE",
+            " duḥkha -> origin (tṛṣṇā/avidyā) -> cessation (nirvāṇa) -> eightfold path",
+            "                         |",
+            " three marks: anitya | duḥkha | anātman",
+            "                         |",
+            " dependent origination supplies the middle way:",
+            " neither eternal substance nor causeless annihilation",
+            "                         |",
+            " later schools disagree about what exists and how it is known,",
+            " not about the need to end ignorance and craving."
+          ]
+        },
+        {
+          "panel_title": "2. Twelve-linked dependent origination",
+          "structural_type": "causal wheel",
+          "source_session_heading_references": [
+            "B. Dependent origination",
+            "C. Derivation spine"
+          ],
+          "lines": [
+            "avidyā -> saṃskāra -> vijñāna -> nāma-rūpa -> ṣaḍāyatana -> sparśa",
+            "   -> vedanā -> tṛṣṇā -> upādāna -> bhava -> jāti -> jarā-maraṇa",
+            "                         |",
+            " IGNORANCE conditions formations; craving and grasping renew becoming",
+            "                         |",
+            " “When this is, that comes to be; with cessation of this, that ceases”",
+            "                         |",
+            " reverse order: end avidyā/tṛṣṇā -> break appropriation -> end rebirth-duḥkha."
+          ]
+        },
+        {
+          "panel_title": "3. Momentariness and no-self",
+          "structural_type": "derivation and bundle map",
+          "source_session_heading_references": [
+            "D. Momentariness",
+            "E. No-self"
+          ],
+          "lines": [
+            "PRATĪTYASAMUTPĀDA -> conditioned things arise and perish -> KṢAṆIKAVĀDA",
+            " causal efficacy belongs to the moment; no unchanged bearer is required",
+            "                         |",
+            " PERSON ANALYSIS -> five skandhas",
+            " rūpa | vedanā | saṃjñā | saṃskāra | vijñāna",
+            "                         |",
+            " none is permanent, independent or “mine” -> NAIRĀTMYAVĀDA",
+            " continuity = causal series, like flame-to-flame; identity is neither strict sameness",
+            " nor total unrelatedness."
+          ]
+        },
+        {
+          "panel_title": "4. Karma, memory and nirvāṇa",
+          "structural_type": "continuity-without-substance chain",
+          "source_session_heading_references": [
+            "F. Karma, memory and nirvāṇa"
+          ],
+          "lines": [
+            "NO ĀTMAN, YET CAUSAL RESPONSIBILITY",
+            " intention at t1 -> conditions stream -> fruit at t2",
+            "                         |",
+            " memory = later cognition causally conditioned by earlier experience",
+            " rebirth = one psycho-physical series conditions another, without soul-transmigration",
+            "                         |",
+            " objection: if agent perishes, another receives result",
+            " reply: successor is neither identical nor wholly different; causal appropriation connects",
+            " nirvāṇa = cessation of greed, hatred and delusion, not destruction of a substance-self."
+          ]
+        },
+        {
+          "panel_title": "5. Abhidharma school fork",
+          "structural_type": "four-school branching taxonomy",
+          "source_session_heading_references": [
+            "G. Four schools"
+          ],
+          "lines": [
+            "BUDDHIST REALITY / KNOWLEDGE DEBATE",
+            "             +----------------------+----------------------+",
+            "             v                                             v",
+            "      HĪNAYĀNA REALISTS                               MAHĀYĀNA",
+            "       |             |                              |           |",
+            " Vaibhāṣika     Sautrāntika                    Yogācāra    Mādhyamika",
+            " external       external objects               cognition   emptiness of",
+            " dharmas        inferred from ideas             only        all svabhāva",
+            " directly       and causal effects",
+            " perceived",
+            " SCHOOL LABELS MARK EPISTEMIC/ONTOLOGICAL POSITIONS, NOT FOUR PATHS TO MIX."
+          ]
+        },
+        {
+          "panel_title": "6. Vaibhāṣika and Sautrāntika",
+          "structural_type": "realist comparison panel",
+          "source_session_heading_references": [
+            "G. Four schools"
+          ],
+          "lines": [
+            "ISSUE              VAIBHĀṢIKA                  SAUTRĀNTIKA",
+            "external object    real dharmas                 real momentary causes",
+            "access             direct perception            inferred from mental image",
+            "past/future        sarvāstivāda: dharmas exist  only present causal moment stressed",
+            "cognition          grasps object                represents object",
+            "                         |",
+            " SAUTRĀNTIKA ARGUMENT: object-moment is gone when awareness occurs;",
+            " therefore cognition presents an image, from which external cause is inferred.",
+            " PRESSURE: representative realism must explain correspondence."
+          ]
+        },
+        {
+          "panel_title": "7. Yogācāra and Mādhyamika",
+          "structural_type": "Mahayana divergence-convergence",
+          "source_session_heading_references": [
+            "H. Yogācāra",
+            "I. Mādhyamika"
+          ],
+          "lines": [
+            "YOGĀCĀRA / VIJÑĀNAVĀDA             MĀDHYAMIKA / ŚŪNYAVĀDA",
+            "subject-object duality is constructed     all things lack svabhāva",
+            "vijñapti-mātra: representation-only       dependent arising = emptiness",
+            "ālaya-vijñāna stores bīja tendencies      two truths: saṃvṛti / paramārtha",
+            "three natures: parikalpita,                tetralemma rejects is / is-not /",
+            "paratantra, pariniṣpanna                   both / neither as ultimate capture",
+            "                         |",
+            " CONVERGENCE: dissolve reification; DIFFERENCE: Yogācāra privileges purified cognition,",
+            " while Mādhyamika empties even consciousness and emptiness itself."
+          ]
+        },
+        {
+          "panel_title": "8. Critique and PYQ answer spine",
+          "structural_type": "dialectic-to-answer rail",
+          "source_session_heading_references": [
+            "J. Epistemology and silence",
+            "K. Criticism–reply grid",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "OBJECTIONS: flux cannot explain continuity | anātman weakens agency | śūnyatā is nihilism",
+            " REPLIES: causal series | dependent responsibility | emptiness denies self-nature, not function",
+            "                         |",
+            " ANSWER RAIL",
+            " common core -> twelve links -> momentariness -> five-skandha no-self",
+            "      -> karma/memory reply -> four-school fork -> exact school comparison",
+            "      -> objection/reply -> qualified verdict",
+            "                         |",
+            " CLOSE: Buddhism replaces substance with conditioned process; its schools progressively",
+            " debate whether external dharmas, cognition, or any intrinsic nature can be retained."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "title": "Nyāya–Vaiśeṣika",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md",
+      "panels": [
+        {
+          "panel_title": "1. Realist system map",
+          "structural_type": "ontology-epistemology convergence",
+          "source_session_heading_references": [
+            "A. System identity"
+          ],
+          "lines": [
+            "NYĀYA: valid knowledge and argument       VAIŚEṢIKA: inventory of reality",
+            "                  \\                              /",
+            "                   \\                            /",
+            "                    +---- NYĀYA–VAIŚEṢIKA ----+",
+            "                    realism + pluralism + liberation through truth",
+            "                              |",
+            " pramā -> objects correctly known -> false notions removed -> faults cease",
+            "                              |",
+            " karma-producing action ceases -> rebirth and pain cease -> APAVARGA."
+          ]
+        },
+        {
+          "panel_title": "2. Seven padārthas",
+          "structural_type": "category hierarchy",
+          "source_session_heading_references": [
+            "B. Seven categories",
+            "C. Relations and individuation",
+            "D. Universal and absence"
+          ],
+          "lines": [
+            "PADĀRTHA: whatever is nameable and knowable",
+            " 1 DRAVYA: earth, water, fire, air, ākāśa, time, space, self, mind",
+            " 2 GUṆA: quality; depends on substance, does not itself possess quality/action",
+            " 3 KARMA: motion/action in a substance",
+            " 4 SĀMĀNYA: real universal, one-in-many",
+            " 5 VIŚEṢA: ultimate particularity individuating eternal atoms and selves",
+            " 6 SAMAVĀYA: eternal inherence; whole-parts, universal-particular, quality-substance",
+            " 7 ABHĀVA: absence — prior, posterior, mutual, absolute",
+            " CAUTION: samavāya is not conjunction (saṃyoga), which is separable."
+          ]
+        },
+        {
+          "panel_title": "3. Four pramāṇas and perception",
+          "structural_type": "epistemic process tree",
+          "source_session_heading_references": [
+            "E. Four pramāṇas",
+            "F. Perception"
+          ],
+          "lines": [
+            "PRAMĀṆAS",
+            " +-> pratyakṣa: sense-object contact -> nirvikalpaka -> savikalpaka recognition",
+            " +-> anumāna: sign (liṅga/hetu) through vyāpti to sādhya",
+            " +-> upamāna: knowledge through similarity and prior description",
+            " +-> śabda: trustworthy utterance, ultimately āpta testimony",
+            "                         |",
+            " PERCEPTION TYPES: external/internal | ordinary/alaukika",
+            " alaukika: sāmānyalakṣaṇa, jñānalakṣaṇa, yogaja",
+            " ERROR is mislocation of a real qualifier: anyathākhyāti."
+          ]
+        },
+        {
+          "panel_title": "4. Inference engine",
+          "structural_type": "five-member inference tree",
+          "source_session_heading_references": [
+            "G. Inference"
+          ],
+          "lines": [
+            "SVĀRTHĀNUMĀNA: inference for oneself | PARĀRTHĀNUMĀNA: demonstrated to another",
+            " five members:",
+            " 1 pratijñā: hill has fire",
+            " 2 hetu: because it has smoke",
+            " 3 udāharaṇa: wherever smoke, fire — as kitchen",
+            " 4 upanaya: hill has such smoke",
+            " 5 nigamana: therefore hill has fire",
+            "                         |",
+            " pakṣadharmatā + vyāpti + uncontradicted application -> conclusion",
+            " HETVĀBHĀSA: savyabhicāra, viruddha, satpratipakṣa, asiddha, bādhita."
+          ]
+        },
+        {
+          "panel_title": "5. Causation and atomism",
+          "structural_type": "creation-dissolution cycle",
+          "source_session_heading_references": [
+            "K. Causation and atomism"
+          ],
+          "lines": [
+            "ASATKĀRYAVĀDA / ĀRAMBHAVĀDA: effect is a new beginning, not pre-existent as effect",
+            " causes: samavāyi (inherent) | asamavāyi (non-inherent) | nimitta (efficient)",
+            "                         |",
+            " earth/water/fire/air paramāṇu -> dyad -> triad -> gross composite",
+            "                         |",
+            " pralaya: composites dissolve; eternal atoms, selves, space, time remain",
+            " sṛṣṭi: Īśvara activates atoms according to adṛṣṭa/karma",
+            " TRAP: God orders atoms; God is not the material cause and atoms are not created ex nihilo."
+          ]
+        },
+        {
+          "panel_title": "6. Self, God and liberation",
+          "structural_type": "metaphysical-soteriological chain",
+          "source_session_heading_references": [
+            "H. Appearance and self",
+            "I. Liberation",
+            "J. God"
+          ],
+          "lines": [
+            "ĀTMAN: eternal, many, all-pervasive substrate of cognition, desire and volition",
+            " MANAS: atomic inner sense linking self to one cognition at a time",
+            "                         |",
+            " ĪŚVARA: eternal omniscient efficient cause; author/teacher of Veda;",
+            " coordinates atoms and karmic deserts without abolishing individual agency",
+            "                         |",
+            " true knowledge -> doṣa removed -> pravṛtti ceases -> karma exhausted -> apavarga",
+            " apavarga = complete cessation of pain; classical Nyāya does not define it as Brahman-union."
+          ]
+        },
+        {
+          "panel_title": "7. Proof, objection and comparison",
+          "structural_type": "dialectical matrix",
+          "source_session_heading_references": [
+            "J. God",
+            "K. Causation and atomism"
+          ],
+          "lines": [
+            "UDAYANA ROUTES: kāryāt (effect) | āyojanāt (combination) | dhṛtyādeḥ (support)",
+            " padāt (word-use) | pratyayataḥ (trust) | śruteḥ (Veda) | vākyāt (sentences)",
+            " saṃkhyāviśeṣāt (number) | adṛṣṭāt (moral order)",
+            "                         |",
+            " OBJECTION: atoms + karma may make God redundant; bodies expose unequal suffering",
+            " REPLY: unconscious atoms/adṛṣṭa cannot intelligently initiate and allocate order",
+            "                         |",
+            " SĀṂKHYA: satkāryavāda, prakṛti material cause | NYĀYA: new effect from atoms",
+            " BUDDHISM: momentary process | NYĀYA: enduring substances and selves."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer spine",
+          "structural_type": "complete answer rail",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE realist-pluralist synthesis -> list seven categories with relations",
+            "       -> four pramāṇas -> perception stages -> five-member inference",
+            "       -> anyathākhyāti -> self/manas -> Īśvara proofs and objection",
+            "       -> ārambhavāda + three causes -> atomistic creation cycle",
+            "       -> apavarga -> compare Sāṃkhya/Buddhism -> qualified verdict",
+            "                         |",
+            " VERDICT: the system gains explanatory integration from realism and logical method;",
+            " its pressure points are inherence, the leap from order to God, and austere liberation."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-05",
+      "title": "Sāṃkhya",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-05_Learning-Session.md",
+      "panels": [
+        {
+          "panel_title": "1. Dualist architecture",
+          "structural_type": "two-reality gateway",
+          "source_session_heading_references": [
+            "A. System identity",
+            "C. Prakṛti",
+            "E. Puruṣa"
+          ],
+          "lines": [
+            "SĀṂKHYA = SATKĀRYAVĀDA + TATTVA EVOLUTION + PLURAL PURUṢAS",
+            "                         |",
+            "        +----------------+----------------+",
+            "        v                                 v",
+            " PRAKṚTI                              PURUṢA",
+            " one, unconscious, productive         many, conscious, inactive witnesses",
+            " avyakta equilibrium of guṇas         uncaused, unchanging, non-agent",
+            "        +----------------+----------------+",
+            "                         v",
+            " apparent association explains experience; discrimination ends bondage."
+          ]
+        },
+        {
+          "panel_title": "2. Knowledge and proof of prakṛti",
+          "structural_type": "pramāṇa-to-metaphysics tree",
+          "source_session_heading_references": [
+            "B. Three pramāṇas",
+            "C. Prakṛti"
+          ],
+          "lines": [
+            "THREE PRAMĀṆAS: perception | inference | reliable testimony",
+            " prakṛti is inferred, not ordinarily perceived",
+            "                         |",
+            " finite effects require cause -> effects share common features",
+            " coordinated world requires common source -> evolutes need an unevolved ground",
+            " pleasure/pain/dullness in effects -> sattva/rajas/tamas in cause",
+            "                         |",
+            " PRAKṚTI: beginningless, unmanifest, independent material cause;",
+            " not “matter” alone, but psychophysical source of intellect, senses and elements."
+          ]
+        },
+        {
+          "panel_title": "3. Three guṇas",
+          "structural_type": "dynamic equilibrium triangle",
+          "source_session_heading_references": [
+            "D. Three guṇas"
+          ],
+          "lines": [
+            "                    SATTVA",
+            "          lightness | illumination | pleasure",
+            "                 /                         \\",
+            "                /        PRAKṚTI          \\",
+            "               /   equilibrium breaks     \\",
+            "          RAJAS -------------------------- TAMAS",
+            " activity | stimulation | pain     inertia | obstruction | dullness",
+            "                         |",
+            " guṇas are constituents, not detachable qualities",
+            " mutual domination + support + production drive all manifest difference."
+          ]
+        },
+        {
+          "panel_title": "4. Twenty-five tattvas",
+          "structural_type": "evolution cascade",
+          "source_session_heading_references": [
+            "F. Twenty-five tattvas"
+          ],
+          "lines": [
+            "PRAKṚTI (1)",
+            "   -> MAHAT / BUDDHI (2)",
+            "      -> AHAṂKĀRA (3)",
+            "         +-> sāttvika -> MANAS (4) + 5 JÑĀNENDRIYAS + 5 KARMENDRIYAS",
+            "         +-> tāmasa  -> 5 TANMĀTRAS -> 5 MAHĀBHŪTAS",
+            "         +-> rājasa supplies activity to both branches",
+            " PURUṢA (25) stands outside the evolute chain as witness",
+            " COUNT CONTROL: 1 prakṛti + 23 evolutes + puruṣa = 25 tattvas."
+          ]
+        },
+        {
+          "panel_title": "5. Satkāryavāda",
+          "structural_type": "five-reason causation chain",
+          "source_session_heading_references": [
+            "G. Satkāryavāda",
+            "H. Rival causation"
+          ],
+          "lines": [
+            "EFFECT PRE-EXISTS LATENTLY IN CAUSE",
+            " asadakaraṇāt: non-being cannot be produced",
+            " upādānagrahaṇāt: specific material cause is selected",
+            " sarvasambhavābhāvāt: not everything arises from everything",
+            " śaktasya śakyakaraṇāt: cause produces only what it has power to produce",
+            " kāraṇabhāvāt: effect shares nature of cause",
+            "                         |",
+            " pariṇāmavāda: real transformation of prakṛti",
+            " NYĀYA ārambhavāda: new effect | ADVAITA vivarta: apparent transformation."
+          ]
+        },
+        {
+          "panel_title": "6. Why many puruṣas?",
+          "structural_type": "plural-witness argument tree",
+          "source_session_heading_references": [
+            "E. Puruṣa",
+            "I. Contact problem"
+          ],
+          "lines": [
+            "PURUṢA EXISTS BECAUSE",
+            " composites serve another | experience needs conscious witness",
+            " objects of three guṇas require non-guṇa experiencer | liberation is conceivable",
+            "                         |",
+            " PLURALITY: births/deaths differ; sense capacities and actions are uncoordinated;",
+            " if one puruṣa, one person's liberation or pain would belong to all",
+            "                         |",
+            " CONTACT PROBLEM: inactive consciousness cannot literally touch unconscious prakṛti",
+            " analogies: blind-and-lame cooperation | magnet and iron",
+            " pressure remains: how does mere proximity begin purposive evolution?"
+          ]
+        },
+        {
+          "panel_title": "7. Bondage, liberation and critique",
+          "structural_type": "soteriological release route",
+          "source_session_heading_references": [
+            "J. Bondage and liberation",
+            "K. Śaṃkara’s critique"
+          ],
+          "lines": [
+            "AVIVEKA: buddhi's states are appropriated as “I” by reflected consciousness",
+            " experience + karmic dispositions -> repeated embodiment",
+            "                         |",
+            " tattva-jñāna / viveka-khyāti: “I am puruṣa, not prakṛti or its evolutes”",
+            "                         |",
+            " prakṛti has been seen -> ceases activity for that puruṣa -> KAIVALYA",
+            "                         |",
+            " ŚAṂKARA: unconscious prakṛti cannot act for an end; dualism cannot explain contact",
+            " SĀṂKHYA REPLY: teleology is immanent, as milk flows for calf; no creator is needed."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer synthesis",
+          "structural_type": "answer-writing convergence",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "START with dualism and three guṇas -> prove prakṛti and plural puruṣas",
+            "       -> draw exact 25-tattva cascade -> defend satkāryavāda with five reasons",
+            "       -> distinguish pariṇāma from ārambha/vivarta",
+            "       -> explain aviveka and kaivalya -> test contact and teleology objections",
+            "                         |",
+            " QUALIFIED VERDICT: Sāṃkhya powerfully unifies cosmos, mind and liberation,",
+            " but the coordination of inactive consciousness with unconscious nature is its hard problem."
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "title": "Notions of God",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g13\\Notions-of-God_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Control question and conceptual axes",
+          "structural_type": "approved-master conceptual map",
+          "source_session_heading_references": [
+            "FINAL REGISTER 1/10 — Control question",
+            "Conceptual method before doctrine",
+            "Cataphatic and apophatic control"
+          ],
+          "lines": [
+            "NOTIONS OF GOD",
+            "      |",
+            "      v",
+            "What kind of reality is called “God”, and how is it related to man and the world?",
+            "      |",
+            " nature: personal / impersonal / transpersonal",
+            " attributes: power / knowledge / goodness / eternity / simplicity",
+            " relation: God-world / God-man / transcendence / immanence",
+            "      |",
+            " NATURE AXIS: personal <-> impersonal | RELATION AXIS: transcendent <-> immanent",
+            " cataphatic affirmation + apophatic negation -> analogical control",
+            " too much affirmation = anthropomorphism | too much negation = empty God-talk."
+          ]
+        },
+        {
+          "panel_title": "2. Western relation models",
+          "structural_type": "approved-master model branch",
+          "source_session_heading_references": [
+            "FINAL REGISTER 2/10 — Western relation models"
+          ],
+          "lines": [
+            "WESTERN NOTIONS",
+            " +-> THEISM: personal necessary Creator; distinct, sustaining, providential",
+            " +-> DEISM: creation -> natural law -> withdrawal; miracles/revelation weakened",
+            " +-> PANTHEISM: God = world/nature",
+            " +-> PANENTHEISM: world is in God, but God exceeds world",
+            " +-> PROCESS/DIPOLAR GOD",
+            "       abstract pole: eternal possibilities + stable character",
+            "       consequent pole: receives changing world and experience",
+            "       persuasion protects freedom, but revises omnipotence and immutability."
+          ]
+        },
+        {
+          "panel_title": "3. Divine attributes under coherence pressure",
+          "structural_type": "approved-master attribute matrix",
+          "source_session_heading_references": [
+            "FINAL REGISTER 3/10 — Attributes"
+          ],
+          "lines": [
+            "ATTRIBUTES: omnipotence | omniscience | goodness | eternity",
+            "            immutability | simplicity | necessity | aseity",
+            "                         |",
+            " omnipotence -> logically possible acts; contradictions are not objects of power",
+            " foreknowledge vs freedom -> Boethius | Ockham | Molinism | open theism",
+            " goodness + power + knowledge + evil -> joint compatibility pressure",
+            " simplicity -> no parts; essence = existence; attributes not separable components",
+            " objection: can identical attributes permit free, personal relation to changing creatures?"
+          ]
+        },
+        {
+          "panel_title": "4. Spinoza: Deus sive Natura",
+          "structural_type": "approved-master substance tree",
+          "source_session_heading_references": [
+            "FINAL REGISTER 4/10 — Spinoza"
+          ],
+          "lines": [
+            "DEUS SIVE NATURA -> ONE INFINITE SUBSTANCE",
+            "                +----------------+----------------+",
+            "                v                                 v",
+            " ATTRIBUTES: infinite expression          MODES: finite minds and bodies",
+            " humans know Thought and Extension        depend on the one substance",
+            "                         |",
+            " everything follows necessarily; God does not choose to create",
+            " radically immanent, not a personal ruler outside nature",
+            " objection: personality, providence and free will disappear",
+            " reply: freedom = self-determined action from one's own nature, not arbitrary choice."
+          ]
+        },
+        {
+          "panel_title": "5. Advaita: nirguṇa, saguṇa and vivarta",
+          "structural_type": "approved-master two-level map",
+          "source_session_heading_references": [
+            "FINAL REGISTER 5/10 — Advaita"
+          ],
+          "lines": [
+            "ONE NON-DUAL BRAHMAN",
+            " +-> NIRGUṆA: beyond limiting predicates; pāramārthika; Sat-Cit-Ānanda",
+            " +-> SAGUṆA ĪŚVARA: personal Lord; creator/ruler; vyāvahārika; devotion",
+            "                         |",
+            " Brahman + māyā -> experienced world through VIVARTA, apparent transformation",
+            " rope appears snake; Brahman undergoes no real change",
+            " ĀTMAN = BRAHMAN -> liberation knows an already-existing identity",
+            " TRAP: anirvacanīya properly marks māyā/world appearance, not nirguṇa Brahman itself."
+          ]
+        },
+        {
+          "panel_title": "6. Rāmānuja: organic unity",
+          "structural_type": "approved-master body-soul relation",
+          "source_session_heading_references": [
+            "FINAL REGISTER 6/10 — Rāmānuja"
+          ],
+          "lines": [
+            "VIŚIṢṬĀDVAITA -> personal saguṇa Brahman, Nārāyaṇa",
+            " CIT (selves) + ACIT (matter) = real qualifications of Brahman",
+            "                         |",
+            " ŚARĪRA-ŚARĪRĪ: world/souls are body; Brahman is indwelling controller",
+            " APṚTHAK-SIDDHI: inseparable dependence without numerical identity",
+            " God = material and efficient cause; world is real PARIṆĀMA",
+            " jīva -> dependence -> bhakti -> prapatti -> liberation",
+            " objection: do bodily defects taint God? reply: defects belong to controlled body."
+          ]
+        },
+        {
+          "panel_title": "7. Nyāya and Hindu divine plurality",
+          "structural_type": "approved-master pluralism branch",
+          "source_session_heading_references": [
+            "FINAL REGISTER 7/10 — Other Indian and plural forms"
+          ],
+          "lines": [
+            "NYĀYA ĪŚVARA: God + selves + atoms + space/time are real",
+            " God is efficient cause; eternal atoms are material causes",
+            " karma/adṛṣṭa -> divine coordination -> fitting results; selves remain distinct",
+            "                         |",
+            " “IS HINDUISM POLYTHEISTIC?”",
+            " polytheism | henotheism | kathenotheism | monotheism | monism",
+            " Ṛgveda 1.164.46: reality is one; sages speak of it variously",
+            " verdict: many-deity practice, one-deity praise, sectarian supremacy and",
+            " Upaniṣadic monism coexist; one label cannot exhaust all levels."
+          ]
+        },
+        {
+          "panel_title": "8. Comparative God-world-man matrix",
+          "structural_type": "approved-master comparison table",
+          "source_session_heading_references": [
+            "FINAL REGISTER 8/10 — Comparison and physical manifestation"
+          ],
+          "lines": [
+            "SYSTEM       GOD-WORLD                    GOD-MAN",
+            "Theism      creator and sustainer          worship, providence, grace",
+            "Deism       creator who withdraws          remote rational source",
+            "Spinoza     God = Nature                   person is finite mode",
+            "Advaita     world is vivarta               ātman = Brahman",
+            "Rāmānuja    world is God's real body       distinct yet inseparably dependent",
+            "Nyāya       God orders eternal atoms       distinct soul under moral governance",
+            "                         |",
+            " ultimate cause need not be physical: spatial/material dependence limits ultimacy;",
+            " pantheism and Rāmānuja qualify this without requiring an anthropomorphic body."
+          ]
+        },
+        {
+          "panel_title": "9. Examiner traps and PYQ routes",
+          "structural_type": "approved-master exam routing grid",
+          "source_session_heading_references": [
+            "FINAL REGISTER 9/10 — PYQ answer spine"
+          ],
+          "lines": [
+            "TRAPS: personal != anthropomorphic | transcendent != spatially remote",
+            " immanent != pantheistic | pantheism != panentheism | nirguṇa != non-existent",
+            " apṛthak-siddhi != identity | Nyāya God = efficient cause | monism != monotheism",
+            "                         |",
+            " PYQ ROUTES",
+            " personal/impersonal -> theism + Spinoza + saguṇa/nirguṇa",
+            " Spinoza -> substance -> attributes -> modes -> necessity -> criticism",
+            " Rāmānuja -> cit/acit -> body-soul -> apṛthak-siddhi -> devotion",
+            " freedom/God -> foreknowledge problem -> named solutions -> qualified verdict."
+          ]
+        },
+        {
+          "panel_title": "10. Answer spine and qualified conclusion",
+          "structural_type": "approved-master convergence rail",
+          "source_session_heading_references": [
+            "FINAL REGISTER 10/10 — Advanced reserve and traps",
+            "Answer-writing spine"
+          ],
+          "lines": [
+            "define exact God-concept -> state metaphysical model",
+            " -> explain God-world and God-man relations -> use exact school terminology",
+            " -> strongest objection -> strongest reply -> same-axis comparison",
+            " -> qualified philosophical verdict",
+            "                         |",
+            " God is a family of models: perfect person, infinite substance, non-dual consciousness,",
+            " organic unity or intelligent ordering. Adequacy turns on nature + attributes + relations",
+            " + coherence: whether ultimacy best preserves agency, unity, devotion, independence,",
+            " moral order and intelligibility without contradiction."
+          ]
+        }
+      ],
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable.",
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g13"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "title": "Proofs for the Existence of God and their Critique",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g12\\topic-02_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Proof architecture",
+          "structural_type": "argument-family tree",
+          "source_session_heading_references": [
+            "Register 1 — The architecture of theistic proof"
+          ],
+          "lines": [
+            "THEISTIC ARGUMENTS START FROM DIFFERENT DATA",
+            " +-> concept of God -> ONTOLOGICAL (a priori)",
+            " +-> contingent/moved/caused world -> COSMOLOGICAL (a posteriori)",
+            " +-> order and purposiveness -> TELEOLOGICAL",
+            " +-> objective obligation -> MORAL",
+            " +-> Indian effect/order/language/karma -> NYĀYA-UDAYANA",
+            "                         |",
+            " CONTROL: proofs may be deductive, abductive or cumulative;",
+            " never judge all by the standard of a single demonstrative syllogism."
+          ]
+        },
+        {
+          "panel_title": "2. Ontological line",
+          "structural_type": "modal argument and critique",
+          "source_session_heading_references": [
+            "Register 2 — Ontological argument"
+          ],
+          "lines": [
+            "ANSELM: God = that than which nothing greater can be conceived",
+            " existing in reality > existing only in understanding",
+            " therefore the greatest conceivable being exists in reality",
+            "                         |",
+            " DESCARTES: necessary existence belongs to supremely perfect being",
+            " MODAL FORM: possibly necessary God -> necessarily God, if S5 possibility is granted",
+            "                         |",
+            " GAUNILO: perfect-island parody | KANT: existence is not a real predicate",
+            " reply: necessary being is unlike contingent islands; pressure shifts to coherent possibility."
+          ]
+        },
+        {
+          "panel_title": "3. Cosmological family",
+          "structural_type": "causal regress tree",
+          "source_session_heading_references": [
+            "Register 3 — Cosmological arguments"
+          ],
+          "lines": [
+            "AQUINAS: motion -> unmoved mover | efficient causes -> first cause",
+            " contingency -> necessary being; not “every event has a cause”",
+            " KALĀM: whatever begins has a cause; universe began; therefore a cause",
+            " LEIBNIZ: principle of sufficient reason -> why something rather than nothing?",
+            "                         |",
+            " HUME: causal principle may not extend beyond experience; universe may be brute",
+            " RUSSELL: universe is “just there”; composition fallacy",
+            " REPLY: argument concerns contingent totality's explanation, not a member-cause in time."
+          ]
+        },
+        {
+          "panel_title": "4. Design and fine-tuning",
+          "structural_type": "abductive comparison",
+          "source_session_heading_references": [
+            "Register 4 — Teleological argument"
+          ],
+          "lines": [
+            "PALEY: complex purposive adaptation -> watchmaker analogy -> designer",
+            " FINE-TUNING: life-permitting constants appear within narrow range",
+            "                         |",
+            " rival explanations",
+            " +-> design",
+            " +-> physical necessity",
+            " +-> chance / multiverse + selection effect",
+            " +-> unknown deeper law",
+            " HUME: weak analogy, many designers, imperfect designer | DARWIN: adaptation by selection",
+            " verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged."
+          ]
+        },
+        {
+          "panel_title": "5. Moral argument",
+          "structural_type": "normativity-to-ground chain",
+          "source_session_heading_references": [
+            "Register 5 — Moral argument"
+          ],
+          "lines": [
+            "KANT: morality does not theoretically prove God",
+            " highest good (virtue proportioned to happiness) -> practical postulates:",
+            " freedom + immortality + God",
+            "                         |",
+            " contemporary route: objective moral obligations -> adequate personal ground",
+            " objection: Euthyphro dilemma; secular realism can ground moral facts",
+            " reply: modified divine command grounds obligation in commands flowing from good nature",
+            " limit: the move from normativity to one religiously specified God remains underdetermined."
+          ]
+        },
+        {
+          "panel_title": "6. Nyāya-Udayana proof cluster",
+          "structural_type": "Indian inference tree",
+          "source_session_heading_references": [
+            "Register 6 — Nyāya–Udayana theism"
+          ],
+          "lines": [
+            "UDAYANA'S ROUTES TO ĪŚVARA",
+            " kāryāt: world as effect -> maker        āyojanāt: atomic combination -> arranger",
+            " dhṛtyādeḥ: support/dissolution          padāt: conventional word-use",
+            " pratyayataḥ: trustworthy cognition      śruteḥ/vākyāt: Vedic discourse",
+            " saṃkhyāviśeṣāt: determinate magnitudes  adṛṣṭāt: karmic allocation",
+            "                         |",
+            " ĪŚVARA = omniscient efficient cause; eternal atoms = material causes",
+            " not creation ex nihilo; proof aims at intelligent coordination of a realist cosmos."
+          ]
+        },
+        {
+          "panel_title": "7. Indian and Western critiques",
+          "structural_type": "multi-school objection matrix",
+          "source_session_heading_references": [
+            "Register 7 — Jaina, Buddhist, Mīmāṃsā and Cārvāka critiques"
+          ],
+          "lines": [
+            "CĀRVĀKA: no perception of God; inference overreaches",
+            " BUDDHIST: momentary dependent series needs no permanent creator",
+            " JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil",
+            " MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author",
+            "                         |",
+            " HUME/KANT: causal/design inference exceeds categories or experience",
+            " NYĀYA REPLY: unconscious atoms, apūrva or karma cannot intelligently allocate order",
+            " COUNTER: coordination may show explanatory gap, not uniquely the Nyāya God."
+          ]
+        },
+        {
+          "panel_title": "8. Cumulative verdict and answer plan",
+          "structural_type": "proof comparison convergence",
+          "source_session_heading_references": [
+            "Register 8 — Comparative synthesis and answer architecture",
+            "Register 11 — Last-minute memory spine"
+          ],
+          "lines": [
+            "DEFINE target God -> classify argument -> formalise premises -> expose hidden bridge",
+            " -> strongest named critic -> best reply -> test what conclusion actually establishes",
+            "                         |",
+            " ontological: necessity if possibility | cosmological: ground if PSR",
+            " design: probability, not deduction | moral: practical/normative support",
+            " Nyāya: intelligent order within atomism",
+            "                         |",
+            " QUALIFIED VERDICT: no proof compels every rational agent; together they can form a",
+            " cumulative case only if their contested modal, causal, probabilistic and moral premises stand."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-02:learner-v2:g12",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "title": "Problem of Evil",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g12\\topic-03_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Forms of evil",
+          "structural_type": "problem taxonomy",
+          "source_session_heading_references": [
+            "A. Argument forms at a glance",
+            "B. Distinctions that earn marks"
+          ],
+          "lines": [
+            "EVIL",
+            " +-> moral: freely caused cruelty, oppression, betrayal",
+            " +-> natural: disease, earthquake, congenital suffering",
+            " +-> horrendous: suffering that threatens life's overall meaning",
+            " +-> animal/evolutionary: pain predating human agency",
+            "                         |",
+            " PROBLEM TYPES",
+            " logical: God and evil are strictly inconsistent",
+            " evidential: amount/kinds of evil make God improbable",
+            " existential: suffering disrupts trust, worship and meaning."
+          ]
+        },
+        {
+          "panel_title": "2. Logical problem and defence",
+          "structural_type": "inconsistency-to-compatibility tree",
+          "source_session_heading_references": [
+            "A. Argument forms at a glance",
+            "C. Western response bank"
+          ],
+          "lines": [
+            "CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists",
+            " missing premise: a good, powerful being eliminates every evil it can",
+            "                         |",
+            " PLANTINGA FREE-WILL DEFENCE",
+            " significant freedom -> possibility of moral wrong",
+            " God cannot cause a creature to choose freely and guarantee only right choices",
+            " transworld depravity shows logical possibility of unavoidable misuse",
+            " RESULT: compatibility is defended; actual quantity of evil is not thereby explained."
+          ]
+        },
+        {
+          "panel_title": "3. Soul-making and natural order",
+          "structural_type": "developmental theodicy chain",
+          "source_session_heading_references": [
+            "C. Western response bank"
+          ],
+          "lines": [
+            "IRENAEUS / JOHN HICK",
+            " epistemic distance + stable natural laws + risk -> genuine agency",
+            " struggle -> courage, compassion, responsibility -> person-making",
+            "                         |",
+            " strength: addresses why a ready-made paradise may defeat mature freedom",
+            " objections: victims used as means; suffering is excessive and uneven;",
+            " infants, animals and horrors do not reliably improve sufferers",
+            " reply requires afterlife fulfilment/universal restoration, which adds further commitments."
+          ]
+        },
+        {
+          "panel_title": "4. Leibniz, Augustine and process revisions",
+          "structural_type": "response family comparison",
+          "source_session_heading_references": [
+            "C. Western response bank"
+          ],
+          "lines": [
+            "AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good",
+            " LEIBNIZ: best possible world balances laws, freedom and total compossibility",
+            " AQUINAS: God may permit evil for a greater good, never will evil as evil",
+            " PROCESS THEISM: God persuades but cannot unilaterally prevent every event",
+            "                         |",
+            " COSTS: privation does not lessen felt horror; “best” can seem complacent;",
+            " greater-good reasoning risks instrumentalising victims; process view revises omnipotence."
+          ]
+        },
+        {
+          "panel_title": "5. Evidential evil",
+          "structural_type": "probability balance",
+          "source_session_heading_references": [
+            "A. Argument forms at a glance",
+            "E. Hard-case checklist"
+          ],
+          "lines": [
+            "ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it;",
+            " therefore God's existence is improbable",
+            " hidden fawn case tests gratuitous natural suffering without human freedom",
+            "                         |",
+            " SKEPTICAL THEISM: limited human cognition cannot infer “no reason” from “no reason seen”",
+            " CORNEA: absence of evidence is evidence only where detection should be expected",
+            " objection: too much scepticism also weakens providential and moral reasoning",
+            " verdict must weigh epistemic humility against the specificity of apparently gratuitous evil."
+          ]
+        },
+        {
+          "panel_title": "6. Indian response matrix",
+          "structural_type": "comparative karma-liberation map",
+          "source_session_heading_references": [
+            "D. Indian comparison bank"
+          ],
+          "lines": [
+            "ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual",
+            " VIŚIṢṬĀDVAITA: real souls/world, karma, grace and purposeful divine order",
+            " NYĀYA: beginningless karma allocated by Īśvara; God is not arbitrary author of deserts",
+            " JAINA: karmic matter binds jīva; no creator bears responsibility",
+            " BUDDHISM: duḥkha from dependent origination, craving and ignorance; no creator problem",
+            "                         |",
+            " KARMA explains moral continuity but faces first-origin, victim-blaming and natural-evil pressures;",
+            " liberation routes answer suffering therapeutically, not always as a theodicy."
+          ]
+        },
+        {
+          "panel_title": "7. Hard cases and ethical limits",
+          "structural_type": "case-testing matrix",
+          "source_session_heading_references": [
+            "E. Hard-case checklist",
+            "H. Final judgement ladder"
+          ],
+          "lines": [
+            "TEST ANY THEODICY AGAINST",
+            " child suffering | animal pain | genocide | disability | unequal opportunity | hiddenness",
+            "                         |",
+            " ASK: does response explain, merely defend logical possibility, or offer pastoral meaning?",
+            " does it preserve victim dignity? does it make preventable evil morally acceptable?",
+            "                         |",
+            " anti-theodicy warning: neat justification can repeat harm",
+            " reply: philosophical explanation need not command passive acceptance;",
+            " moral protest may itself express commitment to goodness."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ and answer synthesis",
+          "structural_type": "three-level answer spine",
+          "source_session_heading_references": [
+            "F. Seven PYQ routes",
+            "G. 10/15/20-mark answer spines"
+          ],
+          "lines": [
+            "DEFINE God-concept + evil type -> separate logical/evidential/existential demand",
+            " -> formal argument -> strongest defence/theodicy -> hard-case objection",
+            " -> Indian comparison on karma/duḥkha -> qualified verdict",
+            "                         |",
+            " 10 marks: one problem + one response + evaluation",
+            " 15 marks: logical/evidential distinction + two responses",
+            " 20 marks: Western and Indian matrix + hard cases + concept revision",
+            " CLOSE: evil may not disprove every God-concept, but it severely tests classical omni-God",
+            " belief and forces costs in freedom, providence, power, afterlife or human understanding."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-03:learner-v2:g12",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "title": "Soul, Immortality, Rebirth and Liberation",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g12\\topic-04_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Six survival terms",
+          "structural_type": "concept-separation map",
+          "source_session_heading_references": [
+            "A. The Six Survival-Terms (never merge)"
+          ],
+          "lines": [
+            "SOUL = alleged enduring subject | PERSONAL IDENTITY = what makes later person same",
+            " IMMORTALITY = survival of death | REBIRTH = new embodied existence",
+            " RESURRECTION = divine restoration of embodied person | LIBERATION = release from bondage",
+            "                         |",
+            " QUESTIONS MUST BE KEPT DISTINCT",
+            " what survives? -> by what continuity criterion? -> where/when? -> through whose agency?",
+            " -> is survival endless life, renewed embodiment, or freedom from rebirth?",
+            " TERM CONTROL prevents treating Plato, Buddhism, Vedānta and Christianity as one doctrine."
+          ]
+        },
+        {
+          "panel_title": "2. Western immortality arguments",
+          "structural_type": "argument-objection tree",
+          "source_session_heading_references": [
+            "B. Immortality - Plato and the West"
+          ],
+          "lines": [
+            "PLATO",
+            " cyclical argument: opposites arise from opposites",
+            " recollection: a priori knowledge suggests prenatal existence",
+            " affinity: invisible rational soul resembles unchanging Forms",
+            " Phaedo final argument: soul essentially bears life and cannot admit death",
+            "                         |",
+            " objections: pre-existence != endless survival; harmony analogy; dependence on brain",
+            " DESIRE/JUSTICE ARGUMENTS: fulfilment or moral completion suggests afterlife",
+            " limit: wish and moral need do not by themselves establish metaphysical survival."
+          ]
+        },
+        {
+          "panel_title": "3. Personal identity after death",
+          "structural_type": "continuity criterion fork",
+          "source_session_heading_references": [
+            "B. Immortality - Plato and the West",
+            "J. Resurrection vs Rebirth vs Reincarnation"
+          ],
+          "lines": [
+            "IDENTITY CANDIDATES",
+            " +-> same immaterial substance",
+            " +-> bodily continuity / resurrection",
+            " +-> memory and psychological continuity (Locke)",
+            " +-> causal narrative continuity",
+            "                         |",
+            " REID: brave officer exposes memory transitivity problem",
+            " duplication: one psychology copied twice cannot yield two numerically identical persons",
+            " resurrection requires divine re-identification of this person, not mere replica production",
+            " verdict depends on whether identity needs strict sameness or survival-grade continuity."
+          ]
+        },
+        {
+          "panel_title": "4. Karma, rebirth and Buddhist continuity",
+          "structural_type": "causal continuity map",
+          "source_session_heading_references": [
+            "C. Rebirth, Karma, Samsara",
+            "D. Buddhist Continuity Without a Soul"
+          ],
+          "lines": [
+            "INDIAN REBIRTH: karma + saṃskāra/vāsanā -> renewed embodiment in saṃsāra",
+            "                         |",
+            " BUDDHISM DENIES ĀTMAN",
+            " five skandhas + dependent origination -> causal stream -> rebirth without transmigrant",
+            " flame-to-flame: neither numerically identical nor wholly unrelated",
+            " intention conditions later fruit; memory is causally produced cognition",
+            "                         |",
+            " objection: who receives karma? reply: demand for substance mistakes continuity for identity",
+            " nirvāṇa ends craving and the causal appropriation that renews birth."
+          ]
+        },
+        {
+          "panel_title": "5. Liberation parity bench",
+          "structural_type": "seven-destination comparison",
+          "source_session_heading_references": [
+            "E. Liberation Parity Bench (seven destinations)"
+          ],
+          "lines": [
+            "SCHOOL             BONDAGE                         LIBERATION",
+            "Advaita            avidyā, false identity           jñāna: ātman = Brahman",
+            "Viśiṣṭādvaita      karma, dependence obscured       bhakti/prapatti; communion",
+            "Sāṃkhya-Yoga       puruṣa-prakṛti confusion         kaivalya through viveka",
+            "Nyāya              false knowledge, doṣa, karma     apavarga: cessation of pain",
+            "Jainism             karmic pudgala on jīva           kevala-jñāna, siddhahood",
+            "Buddhism            craving/ignorance                nirvāṇa",
+            "Christianity       sin/death                         resurrection and salvation",
+            " SAME WORD “release” conceals different selves, causes, methods and end-states."
+          ]
+        },
+        {
+          "panel_title": "6. Vedānta and Jain routes",
+          "structural_type": "metaphysical-soteriological comparison",
+          "source_session_heading_references": [
+            "F. Vedanta - Advaita vs Visistadvaita",
+            "G. Jain Jiva and Bondage Ladder"
+          ],
+          "lines": [
+            "ADVAITA: subtle body carries karma until knowledge; jīvanmukti possible;",
+            " videhamukti ends embodiment, not the ātman's existence",
+            " VIŚIṢṬĀDVAITA: jīva remains real and distinct; grace, bhakti and prapatti lead to God",
+            "                         |",
+            " JAINISM: jīva + passions/activity -> āsrava -> bandha",
+            " saṃvara blocks influx -> nirjarā sheds karma -> kevala-jñāna -> mokṣa",
+            "                         |",
+            " contrast: Advaita removes ignorance of identity; Rāmānuja perfects dependence;",
+            " Jainism purges material karma from an eternally individual soul."
+          ]
+        },
+        {
+          "panel_title": "7. Paths, objections and ethical meaning",
+          "structural_type": "route-and-critique panel",
+          "source_session_heading_references": [
+            "H. Cessation and Isolation - Apavarga, Jivanmukti, Kaivalya",
+            "I. Paths - Bhakti and the Three Means"
+          ],
+          "lines": [
+            "THREE BROAD MEANS: jñāna (knowledge) | bhakti (devotion) | karma (disciplined action)",
+            " Yoga adds meditative discipline; Jainism adds vows/austerity; Buddhism eightfold path",
+            "                         |",
+            " objections: disembodied soul lacks individuation | rebirth lacks memory",
+            " liberation as painlessness seems empty | endless survival may be burden, not good",
+            " replies: character/causal continuity can outlast episodic memory;",
+            " liberation is evaluated by freedom from ignorance, craving or sin, not mere duration",
+            " ethical test: doctrine should transform present conduct, not postpone justice to another life."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer rail",
+          "structural_type": "objection-reply synthesis",
+          "source_session_heading_references": [
+            "L. 17-Part PYQ Routing (2018-2025)",
+            "O. Answer Spine (objection -> reply)"
+          ],
+          "lines": [
+            "DEFINE exact survival term -> identify bearer and continuity criterion",
+            " -> explain causal mechanism -> state soteriological end and path",
+            " -> strongest objection (identity, evidence, justice) -> strongest reply",
+            " -> compare one unlike doctrine on same axes -> qualified conclusion",
+            "                         |",
+            " ANSWER AXES: self/no-self | body/disembodiment | karma/grace | continuity/identity",
+            " | endless existence/release from existence",
+            " CLOSE: survival doctrines are credible only when their ontology of the person,",
+            " continuity mechanism and ethical-liberative purpose support one another."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-04:learner-v2:g12",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "title": "Reason, Revelation and Faith",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g11\\topic-05_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Three-term control",
+          "structural_type": "epistemic triad",
+          "source_session_heading_references": [
+            "A. Three-term control"
+          ],
+          "lines": [
+            "REASON: publicly assessable inference, coherence and evidence",
+            " REVELATION: claimed divine self-disclosure through event, person, text or experience",
+            " FAITH: trusting commitment with cognitive, volitional and practical dimensions",
+            "                         |",
+            "              +----------+----------+",
+            "              v                     v",
+            " reason tests interpretation     revelation supplies content",
+            "              +----------+----------+",
+            "                         v",
+            " faith appropriates a claim in life; it is not merely low-evidence assent."
+          ]
+        },
+        {
+          "panel_title": "2. Four relation models",
+          "structural_type": "model branching map",
+          "source_session_heading_references": [
+            "B. Four relation models"
+          ],
+          "lines": [
+            "REASON AND FAITH",
+            " +-> CONFLICT: one defeats the other (strong rationalism / fideism)",
+            " +-> INDEPENDENCE: distinct domains or language-games",
+            " +-> DIALOGUE: mutual questions, analogies and correction",
+            " +-> INTEGRATION: one coherent account; natural and revealed theology cooperate",
+            "                         |",
+            " EXAM RULE: identify which reason, which faith and which claim;",
+            " scientific mechanism, metaphysical ground and salvific meaning need not compete directly."
+          ]
+        },
+        {
+          "panel_title": "3. Revelation types and tests",
+          "structural_type": "disclosure taxonomy",
+          "source_session_heading_references": [
+            "C. Revelation distinctions"
+          ],
+          "lines": [
+            "GENERAL / NATURAL: creation, conscience, universal reason",
+            " SPECIAL: historical act, prophet, incarnation, scripture",
+            " PROPOSITIONAL: truths communicated | PERSONAL/EVENT: God disclosed in encounter/history",
+            "                         |",
+            " AUTHENTICATION TESTS",
+            " internal coherence | moral fruits | historical credibility | communal continuity",
+            " fit with prior knowledge | capacity to disclose rather than merely confirm desire",
+            " circularity problem: scripture authenticates God while God authenticates scripture."
+          ]
+        },
+        {
+          "panel_title": "4. Aquinas and natural theology",
+          "structural_type": "grace-reason architecture",
+          "source_session_heading_references": [
+            "D. Aquinas answer spine"
+          ],
+          "lines": [
+            "ONE TRUTH, TWO ROUTES",
+            " truths accessible to reason: that God exists, some attributes, natural law",
+            " mysteries above reason: Trinity, Incarnation; not contrary to reason",
+            "                         |",
+            " grace perfects nature; revelation guides reason where inquiry is difficult or salvation urgent",
+            " contradiction cannot be genuinely divine because truth cannot conflict with truth",
+            " objection: imported metaphysics may domesticate revelation",
+            " reply: reason does not generate mystery; it removes contradiction and clarifies implication."
+          ]
+        },
+        {
+          "panel_title": "5. Kierkegaard, fideism and faith",
+          "structural_type": "existential commitment ladder",
+          "source_session_heading_references": [
+            "E. Kierkegaard and supra-rational faith",
+            "F. Faith versus belief"
+          ],
+          "lines": [
+            "OBJECTIVE UNCERTAINTY + INFINITE PERSONAL CONCERN -> SUBJECTIVE APPROPRIATION",
+            " Kierkegaard: faith is passionate commitment, not a theorem forced by detached proof",
+            " Abraham exposes the “teleological suspension of the ethical” problem",
+            "                         |",
+            " belief-that: propositional assent | belief-in: trust and allegiance",
+            " faith may exceed available proof without affirming contradiction",
+            " objection: leap licenses fanaticism | reply: authentic faith entails inward risk,",
+            " responsibility and transformation, not arbitrary immunity from criticism."
+          ]
+        },
+        {
+          "panel_title": "6. Science, miracle and testimony",
+          "structural_type": "claim-assessment matrix",
+          "source_session_heading_references": [
+            "G. Science and religion",
+            "H. Miracles and testimony"
+          ],
+          "lines": [
+            "SCIENCE asks repeatable natural mechanism; religion may ask ground, value and destiny",
+            " conflict arises when sacred interpretation makes empirical claims or scientism makes total claims",
+            "                         |",
+            " HUME ON MIRACLES: proportion belief to evidence; false testimony is usually more probable",
+            " than violation of uniform experience",
+            " REPLIES: assess specific event, independent witnesses, background probability and divine context",
+            " TESTIMONY is indispensable but defeasible; miracle cannot be inferred merely from anomaly."
+          ]
+        },
+        {
+          "panel_title": "7. Justification and Indian parity",
+          "structural_type": "epistemic comparison",
+          "source_session_heading_references": [
+            "I. Justification debate",
+            "J. Indian parity"
+          ],
+          "lines": [
+            "EVIDENTIALISM: belief should match publicly available evidence",
+            " REFORMED EPISTEMOLOGY: belief in God may be properly basic unless defeated",
+            " WITTGENSTEINIAN VIEW: faith has grammar within a form of life",
+            "                         |",
+            " INDIAN PARITY",
+            " śruti/śabda as testimony | yukti as reasoning | anubhava as realisation",
+            " Advaita: scripture initiates inquiry; reasoning removes contradiction;",
+            " knowledge culminates in direct realisation",
+            " Nyāya: āpta testimony is a pramāṇa but must be semantically and causally trustworthy",
+            " Mīmāṃsā: authorless Veda avoids dependence on a divine speaker."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer synthesis",
+          "structural_type": "qualified epistemic rail",
+          "source_session_heading_references": [
+            "K. Eleven PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE all three terms -> select conflict/independence/dialogue/integration model",
+            " -> distinguish revelation type -> named thinker -> strongest objection and reply",
+            " -> Indian śruti-yukti-anubhava comparison -> practical and public implications",
+            "                         |",
+            " avoid “faith versus reason” as a slogan: ask whether faith is contrary,",
+            " above or supported by reason",
+            " QUALIFIED VERDICT: faith needs neither reduction to proof nor exemption from criticism;",
+            " rationally responsible faith is interpretive trust answerable to coherence,",
+            " evidence and moral fruit."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-05:learner-v2:g11",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "title": "Religious Experience: Nature and Object",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g11\\topic-06_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Three-question method",
+          "structural_type": "experience analysis gateway",
+          "source_session_heading_references": [
+            "A. Three-question method"
+          ],
+          "lines": [
+            "RELIGIOUS EXPERIENCE",
+            " 1 PHENOMENOLOGY: what is it like?",
+            " 2 OBJECT: what is experienced — God, the Holy, Brahman, emptiness, unity?",
+            " 3 EPISTEMIC FORCE: does seeming-to-encounter justify belief?",
+            "                         |",
+            " TYPES: mystical unity | numinous encounter | conversion | prayer/worship",
+            " | revelatory vision | non-dual awareness",
+            " CONTROL: intensity and sincerity establish occurrence, not automatically veridical object."
+          ]
+        },
+        {
+          "panel_title": "2. William James",
+          "structural_type": "four-mark phenomenology",
+          "source_session_heading_references": [
+            "B. William James"
+          ],
+          "lines": [
+            "JAMES'S MARKS OF MYSTICAL EXPERIENCE",
+            " INEFFABILITY: cannot be adequately stated",
+            " NOETIC QUALITY: felt as insight or knowledge",
+            " TRANSIENCY: usually brief",
+            " PASSIVITY: received rather than fully produced by will",
+            "                         |",
+            " “fruits, not roots”: assess transformation in life, not only origin theory",
+            " authority is strongest for experiencer, not coercively binding on outsiders",
+            " plural experiences support openness, but diverse objects complicate doctrinal proof."
+          ]
+        },
+        {
+          "panel_title": "3. Rudolf Otto and the numinous",
+          "structural_type": "mysterium branch",
+          "source_session_heading_references": [
+            "C. Rudolf Otto",
+            "E. Sacred, Holy and God"
+          ],
+          "lines": [
+            "THE NUMINOUS = MYSTERIUM TREMENDUM ET FASCINANS",
+            " mysterium: wholly other, beyond ordinary grasp",
+            " tremendum: awe, majesty, creature-feeling, dread",
+            " fascinans: attraction, grace, compelling value",
+            "                         |",
+            " “Holy” includes non-rational numinous depth plus moral/rational development",
+            " SACRED != automatically God: an object, place or event may mediate the Holy",
+            " objection: description can reify culturally trained emotion into an external object."
+          ]
+        },
+        {
+          "panel_title": "4. Advaita and Radhakrishnan",
+          "structural_type": "non-dual realisation map",
+          "source_session_heading_references": [
+            "D. Advaita and Radhakrishnan"
+          ],
+          "lines": [
+            "ADVAITA: aparokṣānubhūti is immediate knowledge of non-dual Brahman",
+            " not subject seeing divine object; subject-object division is sublated",
+            " śravaṇa -> manana -> nididhyāsana -> liberating knowledge",
+            "                         |",
+            " RADHAKRISHNAN: integral intuition discloses spiritual unity and grounds tolerance",
+            " strength: experience is transformative and non-inferential",
+            " pressure: ineffability vs doctrinal description; private certainty vs public adjudication;",
+            " Advaita interpretation may be one conceptual construction among religious traditions."
+          ]
+        },
+        {
+          "panel_title": "5. Object models",
+          "structural_type": "object-of-experience comparison",
+          "source_session_heading_references": [
+            "E. Sacred, Holy and God"
+          ],
+          "lines": [
+            "MODEL                WHAT EXPERIENCE PRESENTS",
+            "personal theism      an addressive “Thou,” grace, command, presence",
+            "Otto                 numinous Holy / wholly other",
+            "Advaita              non-dual Brahman; no final subject-object split",
+            "Buddhism             emptiness, cessation or suchness without creator",
+            "naturalism           altered brain/body state interpreted religiously",
+            "                         |",
+            " SAME phenomenological report may underdetermine ontology;",
+            " object-claim needs interpretation beyond raw immediacy."
+          ]
+        },
+        {
+          "panel_title": "6. Veridicality tests",
+          "structural_type": "epistemic filter chain",
+          "source_session_heading_references": [
+            "F. Veridicality tests",
+            "I. Epistemic models"
+          ],
+          "lines": [
+            "SWINBURNE PRINCIPLE OF CREDULITY: accept seeming appearance unless defeated",
+            " PRINCIPLE OF TESTIMONY: generally trust reports unless there is reason not to",
+            "                         |",
+            " DEFEATERS: drugs/pathology | contradiction | prior implausibility | unreliable setting",
+            " positive checks: coherence | moral fruit | intersubjective fit | predictive/explanatory value",
+            " ALSTON: socially established doxastic practice may confer prima facie justification",
+            " objection: incompatible religious practices cannot all validate exclusive objects unchanged."
+          ]
+        },
+        {
+          "panel_title": "7. Criticisms, replies and public life",
+          "structural_type": "dialectic-to-practice panel",
+          "source_session_heading_references": [
+            "G. Public discourse",
+            "H. Prayer and worship",
+            "J. Main criticisms and replies"
+          ],
+          "lines": [
+            "FREUD: wish-fulfilment | MARX: social consolation | neuroscience: neural correlate",
+            " pluralism: contradictory interpretations | ineffability: no communicable evidence",
+            "                         |",
+            " replies: causal explanation does not equal debunking; all perception has neural correlates;",
+            " fruits and disciplined practices may distinguish mature experience from fantasy",
+            "                         |",
+            " prayer/worship test object-relations: petition, gratitude, surrender, contemplation",
+            " public use must be modest: experience may justify commitment without authorising coercion."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer spine",
+          "structural_type": "phenomenology-evidence synthesis",
+          "source_session_heading_references": [
+            "K. Eight PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE type -> describe phenomenology with James/Otto -> specify claimed object",
+            " -> distinguish experience from interpretation -> apply credulity/testimony and defeaters",
+            " -> compare Advaita/theism/Buddhism -> strongest naturalist or pluralist objection",
+            " -> reply -> qualified public verdict",
+            "                         |",
+            " CLOSE: religious experience is significant evidence within a life and practice,",
+            " but its object is not read straight off the feeling; interpretation and defeater control remain."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g11",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "title": "Religion without God",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g11\\topic-07_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Definition and possibility test",
+          "structural_type": "religion-function map",
+          "source_session_heading_references": [
+            "A. Definition control"
+          ],
+          "lines": [
+            "CAN RELIGION EXIST WITHOUT A CREATOR GOD?",
+            " religion may organise:",
+            " ultimate concern | sacred value | ritual | community | moral discipline",
+            " worldview | transformation | liberation",
+            "                         |",
+            " THEISM is sufficient for many religions, not conceptually necessary for all",
+            " test a tradition by doctrine + practice + soteriology, not by a Western creator template",
+            " TRAP: non-theistic != atheistic; silence, irrelevance and denial are different positions."
+          ]
+        },
+        {
+          "panel_title": "2. Four negative positions",
+          "structural_type": "position taxonomy",
+          "source_session_heading_references": [
+            "B. Four negative positions",
+            "G. Agnosticism"
+          ],
+          "lines": [
+            "ATHEISM: denies that God exists",
+            " AGNOSTICISM: suspends judgement because knowledge/evidence is insufficient",
+            " NON-THEISM: God is absent or non-central to the path",
+            " ANTI-THEISM: holds God-belief harmful or false in a stronger evaluative sense",
+            "                         |",
+            " IGNOSTICISM: “God” must be made meaningful before existence is debated",
+            " practical atheism: life organised without reference to God",
+            " keep epistemic suspension separate from metaphysical denial."
+          ]
+        },
+        {
+          "panel_title": "3. Buddhism",
+          "structural_type": "non-theistic soteriology chain",
+          "source_session_heading_references": [
+            "C. Buddhism"
+          ],
+          "lines": [
+            "FOUR NOBLE TRUTHS -> dependent origination -> eightfold path -> nirvāṇa",
+            "                         |",
+            " no eternal creator is needed; suffering has conditioned causes, not divine decree",
+            " devas may occur in cosmology but are impermanent and unsaving",
+            " Buddha rejects speculative questions when they do not conduce to cessation of duḥkha",
+            "                         |",
+            " objection: karma/order functions like hidden providence",
+            " reply: causal-moral regularity is impersonal; no omnipotent allocator or creator follows."
+          ]
+        },
+        {
+          "panel_title": "4. Jainism, Mīmāṃsā and Sāṃkhya",
+          "structural_type": "Indian non-theism comparison",
+          "source_session_heading_references": [
+            "D. Jainism",
+            "E. Mīmāṃsā and Sāṃkhya"
+          ],
+          "lines": [
+            "JAINISM: eternal jīva/ajīva; karmic matter; tīrthaṅkara teaches, not creates",
+            " MĪMĀṂSĀ: authorless eternal Veda; ritual action generates apūrva; no divine author needed",
+            " SĀṂKHYA: prakṛti evolves for plural puruṣas; unconscious teleology without creator",
+            "                         |",
+            " shared anti-creator pressure: if God is perfect, why create? if embodied, who made body?",
+            " distinctions: Jainism retains worshipful exemplars; Mīmāṃsā centres dharma/ritual;",
+            " Sāṃkhya centres discriminative metaphysics and kaivalya."
+          ]
+        },
+        {
+          "panel_title": "5. Cārvāka as limit case",
+          "structural_type": "religion-boundary test",
+          "source_session_heading_references": [
+            "F. Cārvāka limit case"
+          ],
+          "lines": [
+            "CĀRVĀKA denies God, afterlife, karma, Vedic authority and mokṣa",
+            " embodied this-worldly flourishing replaces salvation",
+            "                         |",
+            " DOES IT COUNT AS RELIGION?",
+            " doctrinal-historical member of Indian philosophical debate: YES",
+            " sacred/transcendent/soteriological practice in robust sense: largely NO",
+            "                         |",
+            " limit case shows that “philosophy without God” is easier than “religion without God”;",
+            " Buddhism/Jainism better preserve ritual, community and liberation functions."
+          ]
+        },
+        {
+          "panel_title": "6. Nietzsche and post-theism",
+          "structural_type": "death-of-God consequence tree",
+          "source_session_heading_references": [
+            "H. Nietzsche and post-theism"
+          ],
+          "lines": [
+            "“GOD IS DEAD” = collapse of the Christian-metaphysical value horizon",
+            "                         |",
+            " danger: nihilism, herd morality exposed, no transcendent guarantor",
+            " task: revaluation of values -> self-overcoming -> life-affirmation",
+            "                         |",
+            " not a simple empirical proof that no deity exists",
+            " objection: self-created values risk arbitrariness or domination",
+            " reply: genealogy tests inherited values; affirmative creation accepts responsibility",
+            " POST-THEISM asks what religious depth survives after classical supernatural belief."
+          ]
+        },
+        {
+          "panel_title": "7. Naturalism and fictionalism",
+          "structural_type": "functional reconstruction map",
+          "source_session_heading_references": [
+            "I. Religious naturalism and fictionalism",
+            "J. Main objections and replies"
+          ],
+          "lines": [
+            "RELIGIOUS NATURALISM: nature is ultimate; awe, gratitude, ritual and ethics without supernaturalism",
+            " FICTIONALISM: participate in God-language/practice without literal ontological assent",
+            " SEA OF FAITH / non-realism: religious symbols shape life rather than report a transcendent entity",
+            "                         |",
+            " objections: worship without real object is make-believe; prayer loses address; truth is sacrificed",
+            " replies: symbols and communal narratives can disclose value and transform conduct",
+            " pressure remains: can function alone preserve religion's claim to truth and transcendence?"
+          ]
+        },
+        {
+          "panel_title": "8. PYQ and qualified verdict",
+          "structural_type": "criterion-based answer rail",
+          "source_session_heading_references": [
+            "K. Seven PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE religion by clustered features -> distinguish four negative positions",
+            " -> demonstrate Buddhism/Jainism/Mīmāṃsā/Sāṃkhya -> use Cārvāka boundary",
+            " -> Nietzsche/post-theism -> naturalism/fictionalism -> objection on truth/object",
+            "                         |",
+            " VERDICT BY CRITERION",
+            " creator-belief necessary? NO | ultimate concern/ritual/transformation possible? YES",
+            " personal worship and providence preserved? often NO",
+            " CLOSE: religion without God is coherent, but not religion without any ultimate value,",
+            " disciplined practice, communal form or account of transformation."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-07:learner-v2:g11",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "title": "Religion and Morality",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g11\\topic-08_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Four relation models",
+          "structural_type": "relation quadrant",
+          "source_session_heading_references": [
+            "A. Four relations"
+          ],
+          "lines": [
+            "RELIGION AND MORALITY",
+            " +-> DEPENDENCE: morality requires God/revelation",
+            " +-> INDEPENDENCE: moral truth is autonomous",
+            " +-> SUPPORT: morality is independent but religion motivates/sustains it",
+            " +-> TENSION: religious command or identity can conflict with moral judgement",
+            "                         |",
+            " separate ontology (what makes right), epistemology (how known),",
+            " motivation (why act) and sanction (reward/punishment); one answer need not settle all four."
+          ]
+        },
+        {
+          "panel_title": "2. Divine command theory",
+          "structural_type": "command-obligation chain",
+          "source_session_heading_references": [
+            "B. Divine command theory"
+          ],
+          "lines": [
+            "GOD COMMANDS X -> X IS OBLIGATORY",
+            " attractions: objective authority | categorical demand | accountability | motivation",
+            "                         |",
+            " versions:",
+            " voluntarist: rightness constituted by command",
+            " epistemic: revelation tells us independently grounded moral truth",
+            " motivational: love/judgement strengthens compliance",
+            "                         |",
+            " pressure: command identification, conflicting revelations, autonomy and arbitrariness."
+          ]
+        },
+        {
+          "panel_title": "3. Euthyphro and modified DCT",
+          "structural_type": "dilemma-reply tree",
+          "source_session_heading_references": [
+            "C. Euthyphro and modified DCT"
+          ],
+          "lines": [
+            "IS X GOOD BECAUSE GOD COMMANDS IT?",
+            " +-> YES: morality appears arbitrary; cruelty could become right",
+            " +-> NO: goodness is independent; God is not its foundation",
+            "                         |",
+            " MODIFIED DIVINE COMMAND THEORY",
+            " God's necessarily loving/good nature grounds value",
+            " divine commands flowing from that nature ground obligation",
+            "                         |",
+            " reply blocks arbitrary commands; objection asks whether “good nature” is intelligible",
+            " without a standard logically prior to command."
+          ]
+        },
+        {
+          "panel_title": "4. Kant and natural law",
+          "structural_type": "autonomy comparison",
+          "source_session_heading_references": [
+            "D. Kant and natural law"
+          ],
+          "lines": [
+            "KANT: moral law arises from rational autonomy, not heteronomous reward or threat",
+            " categorical imperative -> universal law + humanity as end",
+            " God and immortality are practical postulates of highest good, not sources of duty",
+            "                         |",
+            " NATURAL LAW: practical reason reads goods and purposes in human nature;",
+            " Aquinas joins rational participation in eternal law with divine order",
+            "                         |",
+            " contrast: obey because rationally right, not merely because commanded;",
+            " religion may complete moral hope without replacing moral deliberation."
+          ]
+        },
+        {
+          "panel_title": "5. Indian moral grounding",
+          "structural_type": "dharma-karma-liberation map",
+          "source_session_heading_references": [
+            "E. Indian grounding"
+          ],
+          "lines": [
+            "MĪMĀṂSĀ: dharma known through authorless Veda; apūrva links ritual act and result",
+            " NYĀYA: God administers karma, but deserts arise from agents' acts",
+            " BUDDHISM: intention, compassion and non-harm within dependent origination; no creator",
+            " JAINISM: ahiṃsā and vows purify jīva by blocking karmic influx",
+            " GĪTĀ/VEDĀNTA: dharma, niṣkāma karma, devotion and knowledge reshape agency",
+            "                         |",
+            " Indian ethics shows objective discipline without one uniform divine-command model."
+          ]
+        },
+        {
+          "panel_title": "6. Motivation and conduct",
+          "structural_type": "moral-motivation ladder",
+          "source_session_heading_references": [
+            "F. Why be moral all the time?",
+            "H. Religiosity and conduct"
+          ],
+          "lines": [
+            "WHY BE MORAL?",
+            " fear of punishment -> hope of reward -> social belonging -> character/virtue",
+            " -> respect for persons -> compassion -> love of good/God",
+            "                         |",
+            " lower motives may secure compliance but not moral maturity",
+            " religiosity can support self-control, service and forgiveness;",
+            " it can also rationalise bias when identity outruns universal concern",
+            " TEST: conduct and reasons, not ritual profession alone, reveal moral integration."
+          ]
+        },
+        {
+          "panel_title": "7. Violence, Nietzsche and moral critique",
+          "structural_type": "pathology-and-critique matrix",
+          "source_session_heading_references": [
+            "G. Religion without morality",
+            "I. Religious violence",
+            "J. Nietzsche"
+          ],
+          "lines": [
+            "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion",
+            " VIOLENCE PATH: exclusive truth + sacred authorisation + dehumanised out-group",
+            "              + political grievance -> moral disengagement",
+            " safeguards: interpretation, conscience, rights, plural institutions, non-violence",
+            "                         |",
+            " NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality",
+            " objection to Nietzsche: power may erase equality and protection of weak",
+            " verdict: both religion and anti-religious critique need independent scrutiny of consequences."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer architecture",
+          "structural_type": "four-axis synthesis",
+          "source_session_heading_references": [
+            "K. Eleven PYQ routes",
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "STATE precise dependence claim -> separate ground/knowledge/motive/sanction",
+            " -> DCT -> Euthyphro -> modified DCT -> Kant/natural law",
+            " -> Indian non-theistic and theistic models -> conduct/violence test -> verdict",
+            "                         |",
+            " CLOSE: morality need not depend on divine command for intelligibility,",
+            " yet religion can deepen moral motivation, community and hope;",
+            " its legitimacy depends on whether faith remains answerable to reason, dignity and justice."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-08:learner-v2:g11",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "title": "Religious Pluralism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g11\\topic-09_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Four axes of diversity",
+          "structural_type": "pluralism coordinate map",
+          "source_session_heading_references": [
+            "A. Four axes"
+          ],
+          "lines": [
+            "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES",
+            " truth: contradictory doctrinal claims",
+            " salvation: who can attain liberation/salvation?",
+            " epistemic status: are others reasonable/justified?",
+            " civic status: what freedom and equality are owed?",
+            "                         |",
+            " PLURALISM can answer one axis without answering all",
+            " tolerance is a political/moral practice; it is not yet a metaphysical claim",
+            " that all religions are equally true."
+          ]
+        },
+        {
+          "panel_title": "2. Exclusivism-inclusivism-pluralism",
+          "structural_type": "E-I-P branching tree",
+          "source_session_heading_references": [
+            "B. E-I-P map"
+          ],
+          "lines": [
+            "EXCLUSIVISM: one tradition alone has saving truth",
+            " INCLUSIVISM: one norm is final, but grace/truth operates beyond explicit membership",
+            " PLURALISM: multiple traditions are valid responses/routes to ultimate reality",
+            "                         |",
+            " strengths: exclusivism preserves determinate truth; inclusivism widens salvation;",
+            " pluralism explains diversity and supports humility",
+            " costs: exclusion | patronising absorption | flattening real contradictions",
+            " each model must state truth criterion, salvation criterion and view of disagreement."
+          ]
+        },
+        {
+          "panel_title": "3. John Hick",
+          "structural_type": "Real-to-traditions map",
+          "source_session_heading_references": [
+            "C. Hick"
+          ],
+          "lines": [
+            "THE REAL AN SICH (noumenal, beyond full conceptual capture)",
+            "                         |",
+            " culturally shaped human responses",
+            " +-> personal representations: God, Allah, Īśvara",
+            " +-> non-personal representations: Brahman, nirvāṇa, emptiness",
+            "                         |",
+            " religions assessed by transformation from self-centredness to Reality-centredness",
+            " KANTIAN distinction explains diversity without declaring all propositions identical",
+            " objections: Hick imposes a meta-theory; the Real becomes unknowable; transformation test is vague."
+          ]
+        },
+        {
+          "panel_title": "4. Vedāntic models",
+          "structural_type": "Indian unity-difference comparison",
+          "source_session_heading_references": [
+            "D. Vedāntic pluralism",
+            "E. Absolute truth"
+          ],
+          "lines": [
+            "ADVAITA: one Brahman; differences belong to empirical standpoint;",
+            " many paths may prepare for non-dual knowledge",
+            " RĀMĀNUJA: real plurality within Brahman's unity; devotion to personal God remains final",
+            " RĀMAKṚṢṆA/VIVEKĀNANDA: diverse religious paths can realise one ultimate",
+            "                         |",
+            " ABSOLUTE-TRUTH PROBLEM",
+            " if all views are partial, is “all are partial” itself absolute?",
+            " reply requires standpoint discipline, not effortless equivalence of incompatible claims."
+          ]
+        },
+        {
+          "panel_title": "5. Jain many-sidedness",
+          "structural_type": "anekānta dialogue map",
+          "source_session_heading_references": [
+            "F. Jain many-sidedness"
+          ],
+          "lines": [
+            "ANEKĀNTAVĀDA: reality has many aspects",
+            " NAYAVĀDA: each finite statement arises from a standpoint",
+            " SYĀDVĀDA: predicate conditionally — in a certain respect",
+            "                         |",
+            " pluralist use: rival religions may disclose different aspects without exhaustive possession",
+            " strength: epistemic humility + non-violence in judgement",
+            " limit: contradictions are reconciled only if respects genuinely differ;",
+            " syādvāda cannot simply pronounce every doctrine true in the same sense."
+          ]
+        },
+        {
+          "panel_title": "6. Tolerance and religious freedom",
+          "structural_type": "civic ladder",
+          "source_session_heading_references": [
+            "G. Tolerance",
+            "H. Religious freedom"
+          ],
+          "lines": [
+            "TOLERANCE: refrain from coercion despite disagreement",
+            " respect: recognise equal standing | dialogue: reciprocal reason-giving",
+            " freedom: belief, practice, change of religion, non-belief, association",
+            "                         |",
+            " LIMITS",
+            " coercion | violence | discrimination | harm to rights may be regulated",
+            " but offence or theological falsity alone is not sufficient ground for suppression",
+            "                         |",
+            " principled pluralism protects persons and conscience, not every practice from criticism."
+          ]
+        },
+        {
+          "panel_title": "7. Conflict, unification and deep disagreement",
+          "structural_type": "dialogue-convergence map",
+          "source_session_heading_references": [
+            "I. Conflict and unification",
+            "J. Deep disagreement",
+            "K. Strong objections"
+          ],
+          "lines": [
+            "CONFLICT SOURCES: exclusive revelation | sacred history | identity | power | grievance",
+            " responses: syncretism | common ethical core | comparative theology | dialogue | legal neutrality",
+            "                         |",
+            " DEEP DISAGREEMENT persists because standards of evidence are tradition-shaped",
+            " humility != relativism: give reasons, admit fallibility, seek overlap, preserve dissent",
+            " objections to pluralism: self-refuting, imperial meta-theory, doctrinal dilution",
+            " reply: modest pluralism can defend equal civic respect without equalising every truth claim."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer spine",
+          "structural_type": "same-axis comparative synthesis",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "DEFINE axis -> map exclusivism/inclusivism/pluralism -> explain Hick exactly",
+            " -> compare Advaita/Rāmānuja/Jain anekānta -> test absolute-truth objection",
+            " -> move from metaphysical diversity to tolerance/freedom with limits",
+            " -> qualified conclusion",
+            "                         |",
+            " CLOSE: defensible pluralism is neither “all religions say the same” nor relativism;",
+            " it combines truth-seeking, fallibilism, transformative comparison and equal civic liberty."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-09:learner-v2:g11",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "title": "Religious Language",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g11\\topic-10_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "panel_title": "1. Two-axis control",
+          "structural_type": "semantic gateway",
+          "source_session_heading_references": [
+            "A. Two-axis control"
+          ],
+          "lines": [
+            "RELIGIOUS LANGUAGE HAS TWO DISTINCT QUESTIONS",
+            " AXIS 1 — MODE OF PREDICATION: univocal | equivocal | analogical | symbolic | negative",
+            " AXIS 2 — LOGICAL STATUS: cognitive/factual | non-cognitive | performative | expressive",
+            "                         |",
+            " “God is good” may be analogical AND cognitive;",
+            " “I commit myself to God” may be meaningful without describing an observable object",
+            " NEVER merge how words mean with whether utterances assert facts."
+          ]
+        },
+        {
+          "panel_title": "2. Univocal, equivocal and analogical",
+          "structural_type": "predication comparison",
+          "source_session_heading_references": [
+            "B. Univocal, equivocal and analogical",
+            "C. Aquinas and Scotus"
+          ],
+          "lines": [
+            "UNIVOCAL: same meaning for God and creatures -> clarity, but risks anthropomorphism",
+            " EQUIVOCAL: wholly different meaning -> protects transcendence, but blocks knowledge/inference",
+            " ANALOGICAL: related meaning grounded in causal participation",
+            "                         |",
+            " AQUINAS: analogy of attribution/proportionality; creaturely goodness reflects divine source",
+            " SCOTUS: some univocal concept of being is needed for valid reasoning about God",
+            " tension: enough continuity for truth, enough difference for transcendence."
+          ]
+        },
+        {
+          "panel_title": "3. Symbol, negation and indication",
+          "structural_type": "three-mode branch",
+          "source_session_heading_references": [
+            "D. Symbol",
+            "E. Negation and indication"
+          ],
+          "lines": [
+            "TILLICH: symbol participates in the reality it discloses and opens levels of reality/self",
+            " symbols are living and can die; they are not arbitrary signs",
+            "                         |",
+            " VIA NEGATIVA: God is not finite, composite or dependent",
+            " PSEUDO-DIONYSIUS: affirmation -> negation -> supereminent transcendence",
+            " INDIAN “NETI NETI”: not this, not this; removes finite objectification",
+            " LAKṢAṆĀ/indication: indirect meaning when literal sense fails",
+            " limit: pure negation must retain some positive orientation or reference disappears."
+          ]
+        },
+        {
+          "panel_title": "4. Cognitive spectrum",
+          "structural_type": "status classification matrix",
+          "source_session_heading_references": [
+            "F. Cognitive spectrum"
+          ],
+          "lines": [
+            "COGNITIVE REALISM: God-talk states truths that may be warranted or false",
+            " ANTI-REALISM/NON-REALISM: language expresses a form of life, orientation or construction",
+            " EXPRESSIVISM: articulates attitude/commitment",
+            " PERFORMATIVISM: prayer, vow, confession and blessing do something",
+            " MYTHIC/NARRATIVE: forms identity and discloses a world of meaning",
+            "                         |",
+            " utterances can have several functions; functional richness does not itself settle reference."
+          ]
+        },
+        {
+          "panel_title": "5. Verification and falsification",
+          "structural_type": "analytic debate tree",
+          "source_session_heading_references": [
+            "G. Verification and falsification"
+          ],
+          "lines": [
+            "AYER: cognitively meaningful factual claims must be analytic or empirically verifiable",
+            " -> traditional God-talk appears meaningless, not merely false",
+            " HICK: eschatological verification — celestial-city parable; confirmation may occur after death",
+            "                         |",
+            " FLEW: believers let “God loves us” die by a thousand qualifications",
+            " HARE: religious blik is unfalsifiable orientation yet meaningful",
+            " MITCHELL: partisan trusts stranger despite counter-evidence; commitment remains evidentially tested",
+            " key test: what counts against the claim, and what kind of claim is it?"
+          ]
+        },
+        {
+          "panel_title": "6. Use, self-involvement and forms of life",
+          "structural_type": "language-use map",
+          "source_session_heading_references": [
+            "H. Use and self-involvement",
+            "I. Secular and religious use"
+          ],
+          "lines": [
+            "WITTGENSTEIN: meaning is use within a language-game and form of life",
+            " prayer, lament, confession and worship are not failed scientific hypotheses",
+            " BRAITHWAITE: religious assertions express intention to follow an agapeistic way of life",
+            "                         |",
+            " SAME WORD, DIFFERENT GRAMMAR",
+            " “father” biological/secular | “Father” relational religious use",
+            " “creation” temporal manufacture | dependence on ultimate source",
+            " objection: use may explain intelligibility, but cannot by itself guarantee truth",
+            " or protect critique."
+          ]
+        },
+        {
+          "panel_title": "7. Mysticism, Advaita and pluralism bridges",
+          "structural_type": "cross-tradition semantic map",
+          "source_session_heading_references": [
+            "J. Symbol and mysticism",
+            "K. Advaita and pluralism bridges"
+          ],
+          "lines": [
+            "MYSTICISM: ineffability pressures literal description; paradox and symbol point beyond concepts",
+            " ADVAITA: nirguṇa Brahman beyond limiting predicates; saguṇa language valid empirically",
+            " mahāvākya interpretation uses implication to remove incompatible literal attributes",
+            "                         |",
+            " PLURALISM: different conceptual schemes may refer to or construct diverse ultimates",
+            " challenge: translation without erasing doctrinal difference",
+            " answer: compare reference, predication, function and life-context separately."
+          ]
+        },
+        {
+          "panel_title": "8. PYQ answer architecture",
+          "structural_type": "semantic-status convergence",
+          "source_session_heading_references": [
+            "L. Final answer discipline"
+          ],
+          "lines": [
+            "IDENTIFY utterance -> analyse mode of predication -> classify logical status",
+            " -> named theory (Aquinas/Tillich/Ayer/Flew/Hare/Mitchell/Wittgenstein)",
+            " -> strongest objection/reply -> Indian analogy or negation bridge -> verdict",
+            "                         |",
+            " CLOSE: religious language need not be literal to be meaningful,",
+            " but analogy, symbol, use or commitment cannot automatically secure factual truth;",
+            " adequacy requires semantic intelligibility, critical vulnerability and lived function."
+          ]
+        }
+      ],
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g11",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "Reviewed active learner-v2 source; prior generations and the approved Cārvāka reference remain immutable."
+    }
+  ],
+  "quality_reviews": [
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-02",
+      "topic": "Jainism",
+      "status": "pass",
+      "reviewed_for": [
+        "jīva/ajīva ontology",
+        "bondage mechanics",
+        "anekāntavāda-naya-syādvāda hierarchy",
+        "all seven bhaṅgas",
+        "ethics and mokṣa",
+        "objection/reply",
+        "PYQ synthesis"
+      ],
+      "finding": "Eight panels form a doctrine-specific ontology-to-liberation rail; all seven predications are explicit and standpoint-qualified."
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-03",
+      "topic": "Schools of Buddhism",
+      "status": "pass",
+      "reviewed_for": [
+        "common foundation",
+        "twelve nidānas",
+        "kṣaṇikavāda",
+        "nairātmyavāda",
+        "four-school fork",
+        "Vaibhāṣika-Sautrāntika",
+        "Yogācāra-Mādhyamika",
+        "critique and answer spine"
+      ],
+      "finding": "Eight panels preserve common doctrine before exact school divergence and reconverge through objections and PYQ structure."
+    },
+    {
+      "topic_key": "philosophy-paper-i-indian-philosophy-04",
+      "topic": "Nyāya–Vaiśeṣika",
+      "status": "pass",
+      "reviewed_for": [
+        "seven padārthas",
+        "four pramāṇas",
+        "five-member inference",
+        "anyathākhyāti",
+        "self and apavarga",
+        "Udayana proofs",
+        "ārambhavāda and atomism",
+        "comparison and answer spine"
+      ],
+      "finding": "Eight panels integrate category realism, inference mechanics, theism, atomism and liberation without collapsing material and efficient causation."
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "topic": "Notions of God",
+      "status": "pass",
+      "reviewed_for": [
+        "approved ten-panel order",
+        "western relation models",
+        "attribute coherence",
+        "Spinoza",
+        "Advaita",
+        "Rāmānuja",
+        "Nyāya and plurality",
+        "comparison",
+        "traps and PYQs",
+        "qualified conclusion"
+      ],
+      "finding": "Approved 10-panel master is explicitly referenced and preserved semantically in the same doctrine-to-comparison-to-answer sequence."
+    }
+  ]
+}

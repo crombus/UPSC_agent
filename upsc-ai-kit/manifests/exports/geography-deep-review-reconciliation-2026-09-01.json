@@ -1,0 +1,1726 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-01T18:58:23.096527+00:00",
+  "subject": "Geography",
+  "section": "Part A — Physical Geography",
+  "represented": 25,
+  "expected": 25,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_geography_part_a_deep_review (cwd=tools)",
+      "tests": 72,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_china_type_boundaries (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_21_sequential.Geography21GeneratorTests) ... ok\ntest_british_type_boundaries (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_22_sequential.Geography22GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_siberian_boundaries (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_23_sequential.Geography23GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_laurentian_boundaries (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_24_sequential.Geography24GeneratorTests) ... ok\ntest_complete_batch_contract (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\ntest_polar_boundaries (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\ntest_previous_batch_identity_is_unchanged (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\ntest_source_passes_deep_semantic_audit (test_generate_geography_25_sequential.Geography25GeneratorTests) ... ok\n\n----------------------------------------------------------------------\nRan 72 tests in 3.038s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 1.803s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 10.891s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "geography-01",
+      "title": "The Earth and the Universe / India Location and Extent",
+      "old_record_id": "geography-01:learner-v2:g12",
+      "new_record_id": "geography-01:learner-v2:g16",
+      "old_generation": 12,
+      "new_generation": 16,
+      "old_score": 88,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-01-learner-v2-g16-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:09:52.845834+00:00",
+      "identities": {
+        "export": "geography-01:learner-v2:g16",
+        "master": "geography-01:learner-v2:g16",
+        "review": "geography-01:learner-v2:g16"
+      },
+      "generations": {
+        "export": 16,
+        "master": 16,
+        "review": 16
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-01:learner-v2:g12",
+        "generation": 12,
+        "score": 88,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-01\\geography-01-g12-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-01:learner-v2:g12",
+          "generation": 12,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-01:learner-v2:g13",
+          "generation": 13,
+          "state": "unpublished_intermediate_preserved",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-01:learner-v2:g14",
+          "generation": 14,
+          "state": "unpublished_intermediate_preserved",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-01:learner-v2:g15",
+          "generation": 15,
+          "state": "failed_intermediate_preserved",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-01-learner-v2-g15-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "geography-01:learner-v2:g16",
+          "generation": 16,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-01-learner-v2-g16-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-01:learner-v2:g16",
+      "final_generation": 16
+    },
+    {
+      "topic_key": "geography-02",
+      "title": "The Earth's Crust, Rocks / India Geological Structure",
+      "old_record_id": "geography-02:learner-v2:g12",
+      "new_record_id": "geography-02:learner-v2:g13",
+      "old_generation": 12,
+      "new_generation": 13,
+      "old_score": 88,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-02-learner-v2-g13-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:21:05.540283+00:00",
+      "identities": {
+        "export": "geography-02:learner-v2:g13",
+        "master": "geography-02:learner-v2:g13",
+        "review": "geography-02:learner-v2:g13"
+      },
+      "generations": {
+        "export": 13,
+        "master": 13,
+        "review": 13
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-02:learner-v2:g12",
+        "generation": 12,
+        "score": 88,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-02\\geography-02-g12-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-02:learner-v2:g12",
+          "generation": 12,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-02:learner-v2:g13",
+          "generation": 13,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-02-learner-v2-g13-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-02:learner-v2:g13",
+      "final_generation": 13
+    },
+    {
+      "topic_key": "geography-03",
+      "title": "Vulcanism and Earthquakes / India Seismic Zones",
+      "old_record_id": "geography-03:learner-v2:g8",
+      "new_record_id": "geography-03:learner-v2:g9",
+      "old_generation": 8,
+      "new_generation": 9,
+      "old_score": 88,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-03-learner-v2-g9-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:21:50.416934+00:00",
+      "identities": {
+        "export": "geography-03:learner-v2:g9",
+        "master": "geography-03:learner-v2:g9",
+        "review": "geography-03:learner-v2:g9"
+      },
+      "generations": {
+        "export": 9,
+        "master": 9,
+        "review": 9
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-03:learner-v2:g8",
+        "generation": 8,
+        "score": 88,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-03\\geography-03-g8-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-03:learner-v2:g8",
+          "generation": 8,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-03:learner-v2:g9",
+          "generation": 9,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-03-learner-v2-g9-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-03:learner-v2:g9",
+      "final_generation": 9
+    },
+    {
+      "topic_key": "geography-04",
+      "title": "Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater",
+      "old_record_id": "geography-04:learner-v2:g9",
+      "new_record_id": "geography-04:learner-v2:g10",
+      "old_generation": 9,
+      "new_generation": 10,
+      "old_score": 88,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-04-learner-v2-g10-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:22:29.551151+00:00",
+      "identities": {
+        "export": "geography-04:learner-v2:g10",
+        "master": "geography-04:learner-v2:g10",
+        "review": "geography-04:learner-v2:g10"
+      },
+      "generations": {
+        "export": 10,
+        "master": 10,
+        "review": 10
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-04:learner-v2:g9",
+        "generation": 9,
+        "score": 88,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-04\\geography-04-g9-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-04:learner-v2:g9",
+          "generation": 9,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-04:learner-v2:g10",
+          "generation": 10,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-04-learner-v2-g10-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-04:learner-v2:g10",
+      "final_generation": 10
+    },
+    {
+      "topic_key": "geography-05",
+      "title": "Landforms by Running Water / India Drainage and Interlinking",
+      "old_record_id": "geography-05:learner-v2:g2",
+      "new_record_id": "geography-05:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-05-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:23:15.067117+00:00",
+      "identities": {
+        "export": "geography-05:learner-v2:g3",
+        "master": "geography-05:learner-v2:g3",
+        "review": "geography-05:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-05:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-05\\geography-05-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-05:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-05:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-05-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-05:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-06",
+      "title": "Landforms of Glaciation / Himalayan Glaciers-GLOF",
+      "old_record_id": "geography-06:learner-v2:g3",
+      "new_record_id": "geography-06:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-06-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:23:51.103878+00:00",
+      "identities": {
+        "export": "geography-06:learner-v2:g4",
+        "master": "geography-06:learner-v2:g4",
+        "review": "geography-06:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-06:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-06\\geography-06-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-06:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-06-learner-v2-g3-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "geography-06:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-06-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-06:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-07",
+      "title": "Arid Desert Landforms / Thar Desertification",
+      "old_record_id": "geography-07:learner-v2:g3",
+      "new_record_id": "geography-07:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-07-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:24:26.311842+00:00",
+      "identities": {
+        "export": "geography-07:learner-v2:g4",
+        "master": "geography-07:learner-v2:g4",
+        "review": "geography-07:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-07:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-07\\geography-07-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-07:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-07-learner-v2-g3-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "geography-07:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-07-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-07:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-08",
+      "title": "Limestone and Karst Landforms / India Caves-Meghalayan Age",
+      "old_record_id": "geography-08:learner-v2:g3",
+      "new_record_id": "geography-08:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-08-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:25:00.639861+00:00",
+      "identities": {
+        "export": "geography-08:learner-v2:g4",
+        "master": "geography-08:learner-v2:g4",
+        "review": "geography-08:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-08:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-08\\geography-08-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-08:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-08-learner-v2-g3-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "geography-08:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-08-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-08:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-09",
+      "title": "Lakes / India Lakes and Wetlands",
+      "old_record_id": "geography-09:learner-v2:g3",
+      "new_record_id": "geography-09:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-09-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:25:35.308725+00:00",
+      "identities": {
+        "export": "geography-09:learner-v2:g4",
+        "master": "geography-09:learner-v2:g4",
+        "review": "geography-09:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-09:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-09\\geography-09-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-09:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-09-learner-v2-g3-2026-09-01-validation.json"
+        },
+        {
+          "record_id": "geography-09:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-09-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-09:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-10",
+      "title": "Coastal Landforms / India Coast and CRZ",
+      "old_record_id": "geography-10:learner-v2:g2",
+      "new_record_id": "geography-10:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-10-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:26:11.388538+00:00",
+      "identities": {
+        "export": "geography-10:learner-v2:g3",
+        "master": "geography-10:learner-v2:g3",
+        "review": "geography-10:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-10:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-10\\geography-10-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-10:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-10:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-10-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-10:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-11",
+      "title": "Islands and Coral Reefs / India Islands-Great Nicobar",
+      "old_record_id": "geography-11:learner-v2:g2",
+      "new_record_id": "geography-11:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-11-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:26:47.022172+00:00",
+      "identities": {
+        "export": "geography-11:learner-v2:g3",
+        "master": "geography-11:learner-v2:g3",
+        "review": "geography-11:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-11:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-11\\geography-11-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-11:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-11:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-11-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-11:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-12",
+      "title": "The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD",
+      "old_record_id": "geography-12:learner-v2:g2",
+      "new_record_id": "geography-12:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-12-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:27:21.868236+00:00",
+      "identities": {
+        "export": "geography-12:learner-v2:g3",
+        "master": "geography-12:learner-v2:g3",
+        "review": "geography-12:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-12:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-12\\geography-12-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-12:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-12:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-12-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-12:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-13",
+      "title": "Weather Elements / India Jet Stream-Western Disturbances",
+      "old_record_id": "geography-13:learner-v2:g2",
+      "new_record_id": "geography-13:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-13-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:27:57.825770+00:00",
+      "identities": {
+        "export": "geography-13:learner-v2:g3",
+        "master": "geography-13:learner-v2:g3",
+        "review": "geography-13:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-13:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-13\\geography-13-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-13:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-13:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-13-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-13:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-14",
+      "title": "Climate Classification (Koppen) / India Climatic Regions",
+      "old_record_id": "geography-14:learner-v2:g2",
+      "new_record_id": "geography-14:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-14-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:28:34.250281+00:00",
+      "identities": {
+        "export": "geography-14:learner-v2:g3",
+        "master": "geography-14:learner-v2:g3",
+        "review": "geography-14:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-14:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-14\\geography-14-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-14:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-14:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-14-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-14:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-15",
+      "title": "Hot Wet Equatorial Climate",
+      "old_record_id": "geography-15:learner-v2:g2",
+      "new_record_id": "geography-15:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-15-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:29:08.346348+00:00",
+      "identities": {
+        "export": "geography-15:learner-v2:g3",
+        "master": "geography-15:learner-v2:g3",
+        "review": "geography-15:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-15:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-15\\geography-15-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-15:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-15:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-15-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-15:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-16",
+      "title": "Tropical Monsoon and Marine Climate",
+      "old_record_id": "geography-16:learner-v2:g2",
+      "new_record_id": "geography-16:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-16-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:29:43.444105+00:00",
+      "identities": {
+        "export": "geography-16:learner-v2:g3",
+        "master": "geography-16:learner-v2:g3",
+        "review": "geography-16:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-16:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-16\\geography-16-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-16:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-16:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-16-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-16:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-17",
+      "title": "Savanna Sudan Climate",
+      "old_record_id": "geography-17:learner-v2:g2",
+      "new_record_id": "geography-17:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-17-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:30:19.108795+00:00",
+      "identities": {
+        "export": "geography-17:learner-v2:g3",
+        "master": "geography-17:learner-v2:g3",
+        "review": "geography-17:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-17:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-17\\geography-17-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-17:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-17:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-17-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-17:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-18",
+      "title": "Hot and MidLatitude Desert Climate",
+      "old_record_id": "geography-18:learner-v2:g2",
+      "new_record_id": "geography-18:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-18-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:30:54.368464+00:00",
+      "identities": {
+        "export": "geography-18:learner-v2:g3",
+        "master": "geography-18:learner-v2:g3",
+        "review": "geography-18:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-18:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-18\\geography-18-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-18:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-18:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-18-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-18:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-19",
+      "title": "Mediterranean Climate",
+      "old_record_id": "geography-19:learner-v2:g2",
+      "new_record_id": "geography-19:learner-v2:g3",
+      "old_generation": 2,
+      "new_generation": 3,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-19-learner-v2-g3-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:31:28.257049+00:00",
+      "identities": {
+        "export": "geography-19:learner-v2:g3",
+        "master": "geography-19:learner-v2:g3",
+        "review": "geography-19:learner-v2:g3"
+      },
+      "generations": {
+        "export": 3,
+        "master": 3,
+        "review": 3
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-19:learner-v2:g2",
+        "generation": 2,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-19\\geography-19-g2-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-19:learner-v2:g2",
+          "generation": 2,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-19:learner-v2:g3",
+          "generation": 3,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-19-learner-v2-g3-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-19:learner-v2:g3",
+      "final_generation": 3
+    },
+    {
+      "topic_key": "geography-20",
+      "title": "Temperate Continental Steppe Climate",
+      "old_record_id": "geography-20:learner-v2:g3",
+      "new_record_id": "geography-20:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-20-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:32:01.684252+00:00",
+      "identities": {
+        "export": "geography-20:learner-v2:g4",
+        "master": "geography-20:learner-v2:g4",
+        "review": "geography-20:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-20:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-20\\geography-20-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-20:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-20:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-20-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-20:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-21",
+      "title": "Warm Temperate Eastern Margin China Type",
+      "old_record_id": "geography-21:learner-v2:g3",
+      "new_record_id": "geography-21:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-21-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:32:36.574829+00:00",
+      "identities": {
+        "export": "geography-21:learner-v2:g4",
+        "master": "geography-21:learner-v2:g4",
+        "review": "geography-21:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-21:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-21\\geography-21-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-21:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-21:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-21-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-21:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-22",
+      "title": "Cool Temperate Western Margin British Type",
+      "old_record_id": "geography-22:learner-v2:g3",
+      "new_record_id": "geography-22:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-22-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:33:12.138354+00:00",
+      "identities": {
+        "export": "geography-22:learner-v2:g4",
+        "master": "geography-22:learner-v2:g4",
+        "review": "geography-22:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-22:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-22\\geography-22-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-22:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-22:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-22-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-22:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-23",
+      "title": "Cool Temperate Continental Siberian",
+      "old_record_id": "geography-23:learner-v2:g3",
+      "new_record_id": "geography-23:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-23-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:33:47.438115+00:00",
+      "identities": {
+        "export": "geography-23:learner-v2:g4",
+        "master": "geography-23:learner-v2:g4",
+        "review": "geography-23:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-23:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-23\\geography-23-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-23:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-23:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-23-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-23:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-24",
+      "title": "Cool Temperate Eastern Margin Laurentian",
+      "old_record_id": "geography-24:learner-v2:g3",
+      "new_record_id": "geography-24:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-24-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:34:23.071063+00:00",
+      "identities": {
+        "export": "geography-24:learner-v2:g4",
+        "master": "geography-24:learner-v2:g4",
+        "review": "geography-24:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-24:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-24\\geography-24-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-24:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-24:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-24-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-24:learner-v2:g4",
+      "final_generation": 4
+    },
+    {
+      "topic_key": "geography-25",
+      "title": "Arctic or Polar Climate",
+      "old_record_id": "geography-25:learner-v2:g3",
+      "new_record_id": "geography-25:learner-v2:g4",
+      "old_generation": 3,
+      "new_generation": 4,
+      "old_score": 94,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\geography-25-learner-v2-g4-2026-09-01-validation.json",
+      "review_started_at": "2026-09-01T18:34:58.931245+00:00",
+      "identities": {
+        "export": "geography-25:learner-v2:g4",
+        "master": "geography-25:learner-v2:g4",
+        "review": "geography-25:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0,
+      "command_start_baseline": {
+        "record_id": "geography-25:learner-v2:g3",
+        "generation": 3,
+        "score": 94,
+        "audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\geography-25\\geography-25-g3-baseline-audit.json"
+      },
+      "generation_chain": [
+        {
+          "record_id": "geography-25:learner-v2:g3",
+          "generation": 3,
+          "state": "command_start_baseline",
+          "approval": false,
+          "validation": null
+        },
+        {
+          "record_id": "geography-25:learner-v2:g4",
+          "generation": 4,
+          "state": "final_passed",
+          "approval": false,
+          "validation": "upsc-ai-kit\\manifests\\exports\\geography-25-learner-v2-g4-2026-09-01-validation.json"
+        }
+      ],
+      "final_record_id": "geography-25:learner-v2:g4",
+      "final_generation": 4
+    }
+  ],
+  "failed_intermediates_preserved": [
+    "geography-01:learner-v2:g15"
+  ],
+  "successful_re_review_intermediates_preserved": [],
+  "requested_topic_count": 25,
+  "live_topic_count": 25,
+  "missing_expected_topic_keys": [],
+  "scope_blocker": "none",
+  "all_subject_topic_count": 295,
+  "encoding_check": {
+    "files_checked": [
+      "EXPORT-PDF-STATUS.json",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+      "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json",
+      "EXPORT-PDF-COMMAND-INDEX.md",
+      "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+      "notes\\Final-Learning-Packages\\MASTER-TRACKER.md",
+      "notes\\Final-Learning-Packages\\CATALOGUE.md",
+      "upsc-ai-kit\\knowledge\\Geography\\README.md",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\01_The-Earth-and-the-Universe.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\02_The-Earths-Crust-Rocks.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\03_Vulcanism-and-Earthquakes.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\05_Landforms-by-Running-Water.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\06_Landforms-of-Glaciation.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\08_Limestone-and-Karst-Landforms.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\11_Islands-and-Coral-Reefs.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\14_Climate-Classification-Koppen.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\17_Savanna-Sudan-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\22_Cool-Temperate-Western-Margin-British-Type.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\25_Arctic-or-Polar-Climate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\01_India-Location-and-Extent.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\02_India-Geological-Structure.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\03_India-Seismic-Zones.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\05_India-Drainage-and-Interlinking.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\06_Himalayan-Glaciers-GLOF.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\08_India-Caves-Meghalayan-Age.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\11_India-Islands-Great-Nicobar.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\14_India-Climatic-Regions.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\16_India-Monsoon-Mechanism.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\17_India-Deciduous-and-Grasslands.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\22_India-Himalayan-Temperate-Forests.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\25_India-Cold-Desert-and-Poles.md"
+    ],
+    "u_fffd_replacement_paths": [],
+    "actual_replacement_glyph_found": false,
+    "result": "no defect"
+  },
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-01-validation.json",
+  "final_library_topic_count": 295,
+  "live_tracker_sync": "passed"
+}

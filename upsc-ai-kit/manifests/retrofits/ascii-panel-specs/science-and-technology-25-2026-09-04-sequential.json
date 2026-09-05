@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 25",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-25",
+      "display_title": "Computing Fundamentals: Hardware, Software, Networks and Cloud",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-25_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Data-operation decision board",
+          "structural_type": "operation-board",
+          "ascii_lines": [
+            "BIT / BYTE -> quantity",
+            "ENCODING -> representation",
+            "COMPRESSION -> size",
+            "HASHING -> fixed digest",
+            "ENCRYPTION -> confidentiality with key"
+          ],
+          "source_references": [
+            "Bits bytes instructions and data operations"
+          ]
+        },
+        {
+          "title": "Complete computing stack",
+          "structural_type": "layer-stack",
+          "ascii_lines": [
+            "PHYSICAL -> semiconductor + CPU + memory + storage + I/O",
+            "SYSTEM -> firmware + OS + driver + file system",
+            "APPLICATION -> program + database + service",
+            "NETWORK -> protocols + devices + infrastructure",
+            "GOVERNANCE -> security + access + energy + e-waste"
+          ],
+          "source_references": [
+            "Computing stack boundary",
+            "Software OS and application layers"
+          ]
+        },
+        {
+          "title": "CPU and memory hierarchy",
+          "structural_type": "fetch-memory-rail",
+          "ascii_lines": [
+            "FETCH -> DECODE -> EXECUTE -> STORE",
+            "REGISTER -> CACHE -> RAM -> SSD/HDD",
+            "FAST / SMALL ----------------> SLOW / LARGE",
+            "PERFORMANCE -> workload + IPC + bandwidth + thermals",
+            "CLOCK RATE ALONE -> insufficient"
+          ],
+          "source_references": [
+            "CPU instruction cycle and performance",
+            "Memory storage and volatility hierarchy"
+          ]
+        },
+        {
+          "title": "Processor and embedded map",
+          "structural_type": "component-map",
+          "ascii_lines": [
+            "MICROPROCESSOR -> general CPU",
+            "MICROCONTROLLER -> CPU + memory + interfaces",
+            "SoC -> multiple system components",
+            "GPU / ACCELERATOR -> parallel workload",
+            "SENSOR -> measure | PROCESSOR -> compute | ACTUATOR -> act"
+          ],
+          "source_references": [
+            "Processor forms and embedded systems"
+          ]
+        },
+        {
+          "title": "Program and execution ladder",
+          "structural_type": "execution-ladder",
+          "ascii_lines": [
+            "SOURCE -> compiler / interpreter / assembler",
+            "PROGRAM -> PROCESS -> THREAD",
+            "CONCURRENCY -> overlapping progress",
+            "PARALLELISM -> simultaneous execution",
+            "RACE / DEADLOCK -> coordination failures"
+          ],
+          "source_references": [
+            "Software OS and application layers",
+            "Processes threads concurrency and execution"
+          ]
+        },
+        {
+          "title": "Network device and layer map",
+          "structural_type": "network-layer-map",
+          "ascii_lines": [
+            "APPLICATION -> HTTP | DNS",
+            "TRANSPORT -> TCP | UDP",
+            "INTERNET -> IP + router",
+            "LINK -> Ethernet | Wi-Fi + switch",
+            "PHYSICAL -> electrical | optical | radio"
+          ],
+          "source_references": [
+            "Networks packets and devices",
+            "Layered protocol roles"
+          ]
+        },
+        {
+          "title": "Internet and Web request flow",
+          "structural_type": "request-flow",
+          "ascii_lines": [
+            "DOMAIN --DNS--> IP ADDRESS",
+            "BROWSER --HTTP/HTTPS--> WEB SERVICE",
+            "TCP/UDP -> transport | IP -> routing",
+            "COOKIE -> browser-held state / identifier",
+            "HTTPS -> protected transport, not truthful content"
+          ],
+          "source_references": [
+            "Internet web browser and cookie boundary",
+            "Addressing routing and configuration"
+          ]
+        },
+        {
+          "title": "Performance and wireless matrix",
+          "structural_type": "performance-wireless-grid",
+          "ascii_lines": [
+            "BANDWIDTH -> capacity | THROUGHPUT -> achieved rate",
+            "LATENCY -> delay | JITTER -> delay variation",
+            "LTE -> packet cellular | VoLTE -> voice over LTE",
+            "Wi-Fi | Bluetooth | NFC | RFID | VLC -> distinct roles",
+            "WIRELESS LABEL -> no universal range or wall penetration"
+          ],
+          "source_references": [
+            "Network performance measures",
+            "Wireless and telecom role map"
+          ]
+        },
+        {
+          "title": "Virtualisation and cloud boundary",
+          "structural_type": "isolation-cloud-map",
+          "ascii_lines": [
+            "VM -> virtual hardware + guest OS",
+            "CONTAINER -> shared host kernel",
+            "ORCHESTRATION -> manages many services",
+            "CLOUD -> five NIST characteristics",
+            "IaaS | PaaS | SaaS -> responsibility shifts"
+          ],
+          "source_references": [
+            "Virtual machines containers and orchestration",
+            "Cloud definition service and deployment models"
+          ]
+        },
+        {
+          "title": "Data and distributed trade-off",
+          "structural_type": "distributed-matrix",
+          "ascii_lines": [
+            "DATABASE / DBMS -> organised managed data",
+            "ACID -> transaction properties",
+            "REPLICATION -> availability/locality, not backup",
+            "CAP DURING PARTITION -> consistency or availability trade",
+            "EDGE / FOG / CLOUD -> placement by latency and resilience"
+          ],
+          "source_references": [
+            "Databases transactions replication and CAP",
+            "Edge fog IoT and distributed systems"
+          ]
+        },
+        {
+          "title": "Ledger claim firewall",
+          "structural_type": "ledger-firewall",
+          "ascii_lines": [
+            "DISTRIBUTED LEDGER -> replicated record",
+            "BLOCKCHAIN -> linked blocks + consensus",
+            "PUBLIC | PRIVATE | CONSORTIUM -> access models",
+            "ORACLE INPUT -> can be false",
+            "NFT / WEB3 / IMMUTABILITY -> conditional claims"
+          ],
+          "source_references": [
+            "Blockchain Web3 NFT and oracle boundary"
+          ]
+        },
+        {
+          "title": "Advanced computing and status rail",
+          "structural_type": "capability-status-rail",
+          "ascii_lines": [
+            "HPC -> processor + accelerator + interconnect + software",
+            "AI -> software capability | SEMICONDUCTOR -> device base",
+            "QUANTUM -> qubits for selected problems",
+            "SECURITY -> confidentiality + integrity + availability",
+            "STANDARD -> DEMO -> DEPLOYMENT -> VERIFIED OUTCOME"
+          ],
+          "source_references": [
+            "HPC AI quantum and semiconductor boundaries",
+            "Cybersecurity resilience and evidence firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-02",
+  "title": "Sources of Ancient Indian History",
+  "generation": 16,
+  "generation_date": "2026-09-03",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "ancient-indian-history-02:learner-v2:g15",
+  "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "source_hashes": {
+    "notes\\Ancient-Indian-History\\02_Sources-of-Ancient-Indian-History_Solved-Workbook_2026-08-12.pdf": "81e9110fc7a50b0296febb88c3a581130f48b571fcdd0b16d09911ff845a1b5e",
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md": "464741fbec0688a8a0532973cbafad1297104792edd5f7e64c604da49bbc9ecc",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\02_Sources-of-Ancient-Indian-History_Complete-Topic-Package.md": "2a75aeee5de263d9e178f7aa68525d9d4af28acf5faf4619e460270f9c0521f9",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md": "4cadb600e551669fc4447b0d6a12d8f1003864b875f02e309fe6080962c6fec8",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md": "70842432bbb18834686bbe0eb7bac6c6e752a3ddd07ce777f73d2738100e006e",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "e48c71bcc0d3bd787fb3a40497e16fd9a86bbae8fed9fa55a433b96d222fea44",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md": "0deaf4535fa339716d3ca478423647cd18fe3636d5b33e8e1e5d6d26a8fd55bc",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g16\\ancient-indian-history-02_Complete-Learning-Session_2026-09-03.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g16\\ancient-indian-history-02_Solved-Practice-Workbook_2026-09-03.md"
+}

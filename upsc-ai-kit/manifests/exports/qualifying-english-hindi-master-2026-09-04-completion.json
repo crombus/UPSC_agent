@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "batch_id": "qualifying-english-hindi-master-2026-09-04",
+  "scope": "Qualifying English and Qualifying Hindi only",
+  "generated_on": "2026-09-04",
+  "validated_at": "2026-09-04T18:38:39.827728+05:30",
+  "result": "passed",
+  "records": [
+    {
+      "record_id": "qualifying-english-subject-master:learner-v2:g1",
+      "subject": "Qualifying-English",
+      "approved": false,
+      "metrics": {
+        "name": "qualifying-language-subject-package-v1",
+        "learning_sessions": 0,
+        "guide_source_sections": 12,
+        "practice_papers": 3,
+        "matching_solution_keys": 3,
+        "guide_pages": 34,
+        "workbook_pages": 11,
+        "solutions_pages": 11,
+        "empty_pdf_pages": 0
+      }
+    },
+    {
+      "record_id": "qualifying-hindi-subject-master:learner-v2:g1",
+      "subject": "Qualifying-Hindi",
+      "approved": false,
+      "metrics": {
+        "name": "qualifying-language-subject-package-v1",
+        "learning_sessions": 0,
+        "guide_source_sections": 12,
+        "practice_papers": 3,
+        "matching_solution_keys": 3,
+        "guide_pages": 37,
+        "workbook_pages": 10,
+        "solutions_pages": 13,
+        "empty_pdf_pages": 0
+      }
+    }
+  ],
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\qualifying-english-hindi-master-2026-09-04-changed-files.txt",
+    "count": 23
+  },
+  "errors": []
+}

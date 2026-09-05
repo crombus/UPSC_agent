@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-02",
+      "display_title": "Sources of Ancient Indian History",
+      "active_generation": 13,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The source universe: trace to reconstruction",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "SOURCES OF ANCIENT INDIA",
+            "          |",
+            " +--------+---------+---------+---------+---------+",
+            " |        |         |         |         |         |",
+            "archaeology epigraphy coins  literature foreign  bio/environment",
+            " context   public text object+ text+oral observer  bones, seeds, pollen",
+            " +--------+---------+---------+---------+---------+",
+            "                    |",
+            "                    v",
+            "AUTHENTICATE -> DATE -> LOCATE -> READ GENRE/FUNCTION -> CORROBORATE -> QUALIFY"
+          ],
+          "source_references": [
+            "SESSION 1 - SOURCE CRITICISM",
+            "SESSION 17 - TRIANGULATION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Archaeology: context before object",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "SURVEY -> SITE -> GRID/TRENCH -> STRATIGRAPHY -> ASSEMBLAGE -> INTERPRETATION",
+            "                         |",
+            "                         v",
+            "Law of superposition: an undisturbed lower layer is relatively earlier.",
+            "Artefact alone: weak provenance | artefact in sealed context: stronger association",
+            "Industry = recurrent technique/tool set; culture = patterned material assemblage.",
+            "Intrusion, redeposition and mixed layers can break a simple sequence."
+          ],
+          "source_references": [
+            "SESSION 2 - ARCHAEOLOGY I",
+            "SESSION 3 - ARCHAEOLOGY II",
+            "SESSION 23 - LAB 3. ARCHAEOLOGY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Dating ladder: precision with error bars",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "RELATIVE DATE                         ABSOLUTE/CHRONOMETRIC DATE",
+            "stratigraphy -> seriation -> typology | radiocarbon -> calibrated range",
+            "cross-dating -> association           | TL/OSL -> last heating or light exposure",
+            "                                      | dendrochronology where wood survives",
+            "             +------------------------+------------------------+",
+            "                                      v",
+            "A date belongs to a sample and context, not automatically to an entire culture.",
+            "Report range, calibration and contamination risk; probability is not certainty."
+          ],
+          "source_references": [
+            "SESSION 4 - SCIENTIFIC DATING AND ARCHAEOMETRY",
+            "SESSION 16 - CHRONOLOGY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Inscriptions: public text under source criticism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MATERIAL + SCRIPT + LANGUAGE + FORMULA + FIND-SPOT",
+            "                         |",
+            "                         v",
+            "DECIPHER -> DATE -> TRANSLATE -> IDENTIFY ISSUER/AUDIENCE -> HISTORICAL USE",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "titles, grants, donors          failure, dissent and routine life omitted",
+            "                         |",
+            "                         v",
+            "Prashasti praises; land grant records a transaction; neither is transparent narrative."
+          ],
+          "source_references": [
+            "SESSION 6 - EPIGRAPHY I",
+            "SESSION 7 - EPIGRAPHY II",
+            "SESSION 25 - LAB 5. INSCRIPTIONS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Coins: object, text and economic instrument",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "COIN",
+            " |-- metal, weight, fabric -> standard, mint practice, debasement",
+            " |-- legend, script, title -> issuer and political idiom",
+            " |-- iconography -> religious/royal representation",
+            " |-- hoard/find context -> circulation, saving, frontier or crisis",
+            " |-- overstrike/imitation -> succession, appropriation and contact",
+            " |",
+            " +-> LIMIT: coin abundance is not a direct graph of total prosperity."
+          ],
+          "source_references": [
+            "SESSION 8 - NUMISMATICS I",
+            "SESSION 9 - NUMISMATICS II",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Texts: genre, layer and transmission",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BRAHMANICAL          BUDDHIST/JAINA        SANGAM              MANUSCRIPT STATE",
+            "Veda, epic, Purana   canon, commentaries   poems, anthologies  copied much later",
+            "ritual/norm/memory   doctrine/institution  genre-coded society variant readings",
+            "       |                    |                 |                    |",
+            "       +--------------------+-----------------+--------------------+",
+            "                                v",
+            "Ask composition layer, redaction, audience and norm/practice gap before extracting fact.",
+            "Critical editions compare witnesses; they do not restore an uncontested original."
+          ],
+          "source_references": [
+            "SESSION 10 - MANUSCRIPTS, ORAL TRANSMISSION AND CRITICAL EDITIONS",
+            "SESSION 11 - BRAHMANICAL LITERARY SOURCES",
+            "SESSION 12 - BUDDHIST, JAINA AND SANGAM SOURCES",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Foreign, linguistic, visual and biological witnesses",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOREIGN ACCOUNT       LINGUISTIC EVIDENCE      MATERIAL/BIO ARCHIVE",
+            "selective itinerary   family/contact/loanword  monument, bone, seed, pollen",
+            "outsider categories   language is not race     context and preservation govern use",
+            "Megasthenes/Faxian/   retroflexion/contact     diet, disease, crop and environment",
+            "Xuanzang/Periplus             |                         |",
+            "          +-------------------+-------------------------+",
+            "                              v",
+            "Use each as an angled witness; triangulate before converting observation into structure."
+          ],
+          "source_references": [
+            "SESSION 5 - BIOARCHAEOLOGY",
+            "SESSION 13 - FOREIGN ACCOUNTS",
+            "SESSION 14 - LINGUISTIC EVIDENCE",
+            "SESSION 15 - MONUMENTS, MATERIAL CULTURE AND VISUAL SOURCES",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Triangulation and productive contradiction",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "QUESTION: urbanism / polity / trade / religion / social hierarchy",
+            "     |",
+            "     +-> text says X",
+            "     +-> inscription records Y",
+            "     +-> archaeology patterns Z",
+            "     +-> scientific evidence dates the context",
+            "     |",
+            "     v",
+            "AGREEMENT strengthens; contradiction prompts genre, region and chronology checks.",
+            "VERDICT: independent convergence is stronger than repetition in one tradition."
+          ],
+          "source_references": [
+            "SESSION 17 - TRIANGULATION",
+            "SESSION 18 - BIAS, SILENCE, PRESERVATION",
+            "SESSION 19 - INDIA-CENTRIC SOURCE LABS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Source-based answer architecture: 10/15/20 marks",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: identify source -> what it reveals -> named example -> one limitation",
+            "15 MARKS: classify sources -> compare powers -> triangulate a case -> qualify",
+            "20 MARKS: problem -> source matrix -> method/dating -> case clinics -> conflicts",
+            "          -> silences/preservation -> reasoned verdict on confidence",
+            "EVIDENCE SENTENCE: X indicates Y because Z; however, genre/context limits W.",
+            "Never end with all sources are important; state which source answers which question."
+          ],
+          "source_references": [
+            "SESSION 20 - UPSC SOURCE-SELECTION AND ANSWER-WRITING PROTOCOL",
+            "SESSION 28 - LAB 8. THE UPSC ANSWER-WORTHINESS CHECK",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Source phase Approx date Marker",
+            "3. Ashokan epigraphy 3rd c. BC inscriptions become solid historical...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Mains use: source-method support for the GS-I culture clause and for...",
+            "2. Contested issues Competing interpretations are attributed, evidenced...",
+            "3. Inscription and coin evidence: contemporary names, titles, claims and...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Official UPSC papers: GS-I Mains 2018 and 2020; Prelims GS-I 2023,...",
+            "2. Mains use: source-method support for the GS-I culture clause and for...",
+            "3. B-13 Texts, coins, inscriptions and archaeology must be carefully...",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded..."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\02_Sources-of-Ancient-Indian-History.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g13\\ancient-indian-history-02_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

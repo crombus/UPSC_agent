@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-01",
+      "display_title": "Architecture Foundations and Harappan Urbanism",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Architecture reading method",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "MATERIAL -> brick, stone, mortar and finish",
+            "PLAN -> grid, zoning, circulation and water",
+            "FUNCTION -> domestic, civic, storage or ritual",
+            "EVIDENCE LIMIT -> form is not an inscription",
+            "MUST REMEMBER: Harappan architecture joins right-angled street grids, citadel-lower-town",
+            "  zoning, standardised burnt brick, house-to-street drainage, wells, baths and regionally",
+            "  adapted water systems at sites such as Dholavira."
+          ],
+          "source_references": [
+            "How to read architecture",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Harappan city grid",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "NORTH-SOUTH STREET -> planned urban axis",
+            "EAST-WEST STREET -> right-angle crossing",
+            "BLOCKS -> houses and facilities organised",
+            "INFERENCE -> pre-planning, not a named ruler"
+          ],
+          "source_references": [
+            "Grid planning and pre-planning",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Two-part settlement",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CITADEL -> raised western public zone",
+            "LOWER TOWN -> larger residential zone",
+            "HOUSE SIZE -> differentiation is visible",
+            "CAUTION -> caste hierarchy is not proved"
+          ],
+          "source_references": [
+            "Citadel and lower town",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Brick-to-authority chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "STANDARD BRICK -> repeatable construction",
+            "GYPSUM MORTAR -> joined layered masonry",
+            "DISTANT SITES -> shared technical norm",
+            "LIMIT -> no proven centralised empire"
+          ],
+          "source_references": [
+            "Brick modules and coordination",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Drainage as a network",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BATHROOM -> small household drain",
+            "STREET -> larger covered drain",
+            "CESSPIT -> sediment captured",
+            "REMOVABLE COVER -> regular cleaning possible"
+          ],
+          "source_references": [
+            "The drainage network",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Great Bath evidence test",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "FORM -> tank with surrounding rooms",
+            "DIRECT CLAIM -> collective public water structure",
+            "INFERENCE -> ceremonial or ritual cleansing",
+            "PROHIBITION -> no invented priesthood or rite"
+          ],
+          "source_references": [
+            "Great Bath and ritual inference",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Naming public structures",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RAISED PLATFORM + AIR DUCTS -> storage likely",
+            "MODERN LABEL -> conventionally called granary",
+            "NO INSCRIPTION -> function remains debated",
+            "PALACE/TEMPLE -> not securely identified"
+          ],
+          "source_references": [
+            "Public buildings and labels",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Regional urban solutions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MOHENJO-DARO -> Great Bath and drains",
+            "DHOLAVIRA -> fortifications and reservoirs",
+            "LOTHAL -> debated basin",
+            "KALIBANGAN/HARAPPA -> distinct local plans"
+          ],
+          "source_references": [
+            "Dholavira's regional solution",
+            "Lothal, Harappa and Kalibangan",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STRONG -> grid, brick, drain and reservoir",
+            "MODERATE -> storage and functional zoning",
+            "WEAK -> precise hierarchy and authority form",
+            "UNSUPPORTED -> named king, temple or state faith"
+          ],
+          "source_references": [
+            "The script and inference ceiling",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Civic and monumental contrast",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HARAPPAN -> streets, wells, baths and drains",
+            "EGYPT/MESOPOTAMIA -> royal-sacred monuments",
+            "ANALYSIS -> different visible investment",
+            "QUALIFY -> preservation and naming biases remain",
+            "CLOSE DISTINCTION: The Great Bath's collective water function is secure but ritual cleansing",
+            "  is inferential; 'granary' and Lothal 'dockyard' are conventional or debated labels, while no",
+            "  palace or temple is securely identified."
+          ],
+          "source_references": [
+            "Civic versus monumental comparison",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Water architecture firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HARAPPAN -> settlement supply and sanitation",
+            "STEPWELL -> arid storage and patronage",
+            "TEMPLE TANK -> ritual and processional space",
+            "RULE -> shared water does not prove descent",
+            "EVIDENCE LIMIT: Standardisation supports coordination or a shared technical culture, not proof",
+            "  of one centralised empire, caste zoning, named rulers or religious institutions while the",
+            "  script remains undeciphered."
+          ],
+          "source_references": [
+            "PYQ and water-architecture boundaries",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Harappan answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> civic urbanism thesis",
+            "BODY -> grid, zoning, drainage and brick",
+            "COMPARE -> Dholavira, Lothal and monumentality",
+            "CLOSE -> no confirmed palace or temple"
+          ],
+          "source_references": [
+            "Complete answer architecture",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\01_Architecture-Foundations-and-Harappan-Urbanism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-01\\g5\\indian-art-and-culture-01_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

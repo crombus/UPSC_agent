@@ -1,0 +1,1123 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-09",
+  "subject": "Governance",
+  "title": "CIVIL SERVICES AND MISSION KARMAYOGI",
+  "short_route": "THREE DESIGNED TRAITS, ONE → NEUTRALITY: WHAT IT IS → CONSTITUTIONAL SETTING CARD → THREE LAYERS OF CIVIL-SERVICE → SIX PILLARS OF THE → INSTITUTIONAL CHAIN IN FOUR",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-09-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "972d5e135602cbde6890c712b9c8c7029dcbe9e2e61d426f466483e04aca5ed5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE DESIGNED TRAITS, ONE PACKAGE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE DESIGNED TRAITS, ONE PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "IMPARTIAL SERVICE TO ANY ELECTED GOVERNMENT; NOT THE ABSENCE",
+          "role": "caution"
+        },
+        {
+          "text": "CONTINUITY AND INSTITUTIONAL MEMORY ACROSS CHANGES OF POLITICAL GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFIDENTIAL ADVICE; THE MINISTER ANSWERS PUBLICLY FOR THE POLICY",
+          "role": "evidence"
+        },
+        {
+          "text": "THE THREE WERE DESIGNED TOGETHER; WEAKENING ONE DESTABILISES THE",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIL SERVICES PROVIDE CONTINUITY, EXPERTISE, COORDINATION, IMPLEMENTATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NEUTRALITY → impartial service to any elected government; not the absence of policy influence",
+        "PERMANENCE → continuity and institutional memory across changes of political government",
+        "ANONYMITY → confidential advice; the minister answers publicly for the policy outcome",
+        "RULE → the three were designed together; weakening one destabilises the other two",
+        "MUST REMEMBER: Civil services provide continuity, expertise, coordination, implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NEUTRALITY → impartial service to any elected government; not the absence of policy influence",
+            "PERMANENCE → continuity and institutional memory across changes of political government"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANONYMITY → confidential advice; the minister answers publicly for the policy outcome",
+            "RULE → the three were designed together; weakening one destabilises the other two"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Civil services provide continuity, expertise, coordination, implementation...",
+            "NEUTRALITY → impartial service to any elected government; not the absence of policy influence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the three were designed together; weakening one destabilises the other two.",
+      "source_references": [
+        "Civil services as a structurally distinctive democratic institution",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NEUTRALITY: WHAT IT IS AND WHAT IT IS NOT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHAT IT IS AND WHAT IT IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "IMPARTIAL IMPLEMENTATION OF LAWFUL POLICY IRRESPECTIVE OF PERSONAL PREFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE REASON THE SAME OFFICER CAN SERVE SUCCESSIVE, IDEOLOGICALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "SILENCE, PASSIVITY OR THE ABSENCE OF TECHNICAL AND EXPERT",
+          "role": "primary"
+        },
+        {
+          "text": "LOYALTY TO THE GOVERNMENT OF THE DAY RATHER THAN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IS → impartial implementation of lawful policy irrespective of personal preference",
+        "IS → the reason the same officer can serve successive, ideologically different governments",
+        "IS NOT → silence, passivity or the absence of technical and expert policy advice",
+        "IS NOT → loyalty to the government of the day rather than to the Constitution"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IS → impartial implementation of lawful policy irrespective of personal preference",
+          "IS NOT → silence, passivity or the absence of technical and expert policy advice",
+          "IS → impartial implementation of lawful policy irrespective of personal preference"
+        ],
+        [
+          "IS → the reason the same officer can serve successive, ideologically different governments",
+          "IS NOT → loyalty to the government of the day rather than to the Constitution",
+          "IS → the reason the same officer can serve successive, ideologically different governments"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IS → impartial implementation of lawful policy irrespective of personal preference",
+            "IS → the reason the same officer can serve successive, ideologically different governments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IS NOT → silence, passivity or the absence of technical and expert policy advice",
+            "IS NOT → loyalty to the government of the day rather than to the Constitution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IS → impartial implementation of lawful policy irrespective of personal preference",
+            "IS → the reason the same officer can serve successive, ideologically different governments"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IS NOT → loyalty to the government of the day rather than to the Constitution.",
+      "source_references": [
+        "Political neutrality as impartiality rather than passivity",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONSTITUTIONAL SETTING CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL SETTING CARD",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 309 TO 311",
+          "role": "outcome"
+        },
+        {
+          "text": "RECRUITMENT, SERVICE CONDITIONS, PLEASURE DOCTRINE, DISMISSAL SAFEGUARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 312",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT MAY CREATE AN ALL INDIA SERVICE AFTER THE",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNANCE USE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENURE PROTECTION IS THE LEGAL BASIS ON WHICH NEUTRALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMISSION COMPOSITION, APPOINTMENT AND REMOVAL DETAIL IS POLITY-OWNED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLES 309 TO 311 → recruitment, service conditions, pleasure doctrine, dismissal safeguards",
+        "ARTICLE 312 → Parliament may create an All India Service after the Rajya Sabha resolution",
+        "GOVERNANCE USE → tenure protection is the legal basis on which neutrality rests",
+        "BOUNDARY → commission composition, appointment and removal detail is Polity-owned"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ARTICLES 309 TO 311 → recruitment, service conditions, pleasure doctrine, dismissal safeguards",
+          "GOVERNANCE USE → tenure protection is the legal basis on which neutrality rests",
+          "ARTICLES 309 TO 311 → recruitment, service conditions, pleasure doctrine, dismissal safeguards"
+        ],
+        [
+          "ARTICLE 312 → Parliament may create an All India Service after the Rajya Sabha resolution",
+          "BOUNDARY → commission composition, appointment and removal detail is Polity-owned",
+          "ARTICLE 312 → Parliament may create an All India Service after the Rajya Sabha resolution"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLES 309 TO 311 → recruitment, service conditions, pleasure doctrine, dismissal safeguards",
+            "ARTICLE 312 → Parliament may create an All India Service after the Rajya Sabha resolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOVERNANCE USE → tenure protection is the legal basis on which neutrality rests",
+            "BOUNDARY → commission composition, appointment and removal detail is Polity-owned"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLES 309 TO 311 → recruitment, service conditions, pleasure doctrine, dismissal safeguards",
+            "ARTICLE 312 → Parliament may create an All India Service after the Rajya Sabha resolution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → commission composition, appointment and removal detail is Polity-owned.",
+      "source_references": [
+        "The constitutional setting of Articles 309 to 312",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THREE LAYERS OF CIVIL-SERVICE LEGITIMACY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE LAYERS OF CIVIL-SERVICE LEGITIMACY",
+          "role": "primary"
+        },
+        {
+          "text": "NEUTRALITY, PERMANENCE AND ANONYMITY BUILT INTO THE DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDUCT RULES, VIGILANCE MACHINERY, DISCIPLINARY PROCESS, APPRAISAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUSTAINED PUBLIC BELIEF THAT UNELECTED DISCRETION IS EXERCISED IMPARTIALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "THE FIRST TWO CAN BE FORMALLY SOUND WHILE THE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL → neutrality, permanence and anonymity built into the design",
+        "PROCEDURAL → conduct rules, vigilance machinery, disciplinary process, appraisal",
+        "PERCEPTUAL → sustained public belief that unelected discretion is exercised impartially",
+        "CLAIM → the first two can be formally sound while the third erodes independently"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRUCTURAL → neutrality, permanence and anonymity built into the design",
+            "PROCEDURAL → conduct rules, vigilance machinery, disciplinary process, appraisal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERCEPTUAL → sustained public belief that unelected discretion is exercised impartially",
+            "CLAIM → the first two can be formally sound while the third erodes independently"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL → neutrality, permanence and anonymity built into the design",
+            "PROCEDURAL → conduct rules, vigilance machinery, disciplinary process, appraisal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLAIM → the first two can be formally sound while the third erodes independently.",
+      "source_references": [
+        "Perceptual legitimacy as a variable distinct from structure and procedure",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SIX PILLARS OF THE CAPACITY PROGRAMME",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SIX PILLARS OF THE CAPACITY PROGRAMME",
+          "role": "primary"
+        },
+        {
+          "text": "1 POLICY FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "THE REFORM INTENT AND ITS STATED SHIFT TO ROLE-BASED",
+          "role": "comparison"
+        },
+        {
+          "text": "2 INSTITUTIONAL FRAMEWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUDING THE CAPACITY BUILDING COMMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "3 COMPETENCY FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "BEHAVIOURAL, FUNCTIONAL AND DOMAIN COMPETENCIES MAPPED TO ROLES",
+          "role": "comparison"
+        },
+        {
+          "text": "4 DIGITAL LEARNING FRAMEWORK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 POLICY FRAMEWORK → the reform intent and its stated shift to role-based learning",
+        "2 INSTITUTIONAL FRAMEWORK → including the Capacity Building Commission",
+        "3 COMPETENCY FRAMEWORK → behavioural, functional and domain competencies mapped to roles",
+        "4 DIGITAL LEARNING FRAMEWORK → the online platform that delivers modules at scale",
+        "5 ELECTRONIC HUMAN-RESOURCE MANAGEMENT → the personnel data spine of the reform"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1 POLICY FRAMEWORK → the reform intent and its stated shift to role-based learning",
+          "3 COMPETENCY FRAMEWORK → behavioural, functional and domain competencies mapped to roles",
+          "5 ELECTRONIC HUMAN-RESOURCE MANAGEMENT → the personnel data spine of the reform"
+        ],
+        [
+          "2 INSTITUTIONAL FRAMEWORK → including the Capacity Building Commission",
+          "4 DIGITAL LEARNING FRAMEWORK → the online platform that delivers modules at scale",
+          "6 MONITORING AND EVALUATION → the pillar on which the verdict must ultimately rest"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 POLICY FRAMEWORK → the reform intent and its stated shift to role-based learning",
+            "2 INSTITUTIONAL FRAMEWORK → including the Capacity Building Commission"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 COMPETENCY FRAMEWORK → behavioural, functional and domain competencies mapped to roles",
+            "4 DIGITAL LEARNING FRAMEWORK → the online platform that delivers modules at scale"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 ELECTRONIC HUMAN-RESOURCE MANAGEMENT → the personnel data spine of the reform",
+            "6 MONITORING AND EVALUATION → the pillar on which the verdict must ultimately rest"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "6 MONITORING AND EVALUATION → the pillar on which the verdict must ultimately rest.",
+      "source_references": [
+        "The six-pillar design of the national programme",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INSTITUTIONAL CHAIN IN FOUR TIERS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL CHAIN IN FOUR TIERS",
+          "role": "primary"
+        },
+        {
+          "text": "APEX GUIDANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIME MINISTER'S HUMAN RESOURCES COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "CABINET SECRETARIAT COORDINATION UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARDS AND PLANS",
+          "role": "primary"
+        },
+        {
+          "text": "CAPACITY BUILDING COMMISSION, ANNUAL CAPACITY BUILDING PLANS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLATFORM OPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "KARMAYOGI BHARAT, THE GOVERNMENT-OWNED SPECIAL PURPOSE VEHICLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APEX GUIDANCE → Prime Minister's Human Resources Council",
+        "COORDINATION → Cabinet Secretariat Coordination Unit",
+        "STANDARDS AND PLANS → Capacity Building Commission, Annual Capacity Building Plans",
+        "PLATFORM OPERATION → Karmayogi Bharat, the government-owned special purpose vehicle",
+        "TRAP → the Commission sets standards; it does not operate the platform"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APEX GUIDANCE → Prime Minister's Human Resources Council",
+            "COORDINATION → Cabinet Secretariat Coordination Unit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STANDARDS AND PLANS → Capacity Building Commission, Annual Capacity Building Plans",
+            "PLATFORM OPERATION → Karmayogi Bharat, the government-owned special purpose vehicle"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → the Commission sets standards; it does not operate the platform",
+            "APEX GUIDANCE → Prime Minister's Human Resources Council"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → the Commission sets standards; it does not operate the platform.",
+      "source_references": [
+        "The four-tier institutional chain",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DATED CAPACITY ANCHORS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DATED CAPACITY ANCHORS",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "2 SEPTEMBER 2020, MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMISSION ESTABLISHED",
+          "role": "evidence"
+        },
+        {
+          "text": "1 APRIL 2021, STATED ON THE COMMISSION'S OFFICIAL WEBSITE",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL PAGE READ",
+          "role": "outcome"
+        },
+        {
+          "text": "2 SEPTEMBER 2026; REPOSITORY STATUS RE-VERIFIED 13 AUGUST 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "ANNUAL CAPACITY BUILDING PLANS AND THE KARMAYOGI COMPETENCY MODEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CABINET APPROVAL → 2 September 2020, Ministry of Personnel, Public Grievances and Pensions",
+        "COMMISSION ESTABLISHED → 1 April 2021, stated on the Commission's official website",
+        "OFFICIAL PAGE READ → 2 September 2026; repository status re-verified 13 August 2026",
+        "INSTRUMENTS → Annual Capacity Building Plans and the Karmayogi Competency Model"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CABINET APPROVAL → 2 September 2020, Ministry of Personnel, Public Grievances and Pensions",
+            "COMMISSION ESTABLISHED → 1 April 2021, stated on the Commission's official website"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL PAGE READ → 2 September 2026; repository status re-verified 13 August 2026",
+            "INSTRUMENTS → Annual Capacity Building Plans and the Karmayogi Competency Model"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CABINET APPROVAL → 2 September 2020, Ministry of Personnel, Public Grievances and Pensions",
+            "COMMISSION ESTABLISHED → 1 April 2021, stated on the Commission's official website"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTRUMENTS → Annual Capacity Building Plans and the Karmayogi Competency Model.",
+      "source_references": [
+        "The Capacity Building Commission and its dated establishment",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "OUTPUT AGAINST OUTCOME",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OUTPUT AGAINST OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "ENROLMENT, COURSE COUNTS, COMPLETIONS, CERTIFICATES ON A LIVE DASHBOARD",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETENCY-TO-POST FIT AND TRAINED BEHAVIOUR VISIBLE IN WORK PRODUCTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE TIMELINES, GRIEVANCE RECURRENCE, APPEAL OUTCOMES, TENURE STABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO PLATFORM TOTAL IS ASSERTED ANYWHERE; THE NUMBER CHANGES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OUTPUT → enrolment, course counts, completions, certificates on a live dashboard",
+        "OUTCOME → competency-to-post fit and trained behaviour visible in work products",
+        "OUTCOME → service timelines, grievance recurrence, appeal outcomes, tenure stability",
+        "DISCIPLINE → no platform total is asserted anywhere; the number changes daily"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OUTPUT → enrolment, course counts, completions, certificates on a live dashboard",
+          "OUTCOME → service timelines, grievance recurrence, appeal outcomes, tenure stability",
+          "OUTPUT → enrolment, course counts, completions, certificates on a live dashboard"
+        ],
+        [
+          "OUTCOME → competency-to-post fit and trained behaviour visible in work products",
+          "DISCIPLINE → no platform total is asserted anywhere; the number changes daily",
+          "OUTCOME → competency-to-post fit and trained behaviour visible in work products"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OUTPUT → enrolment, course counts, completions, certificates on a live dashboard",
+            "OUTCOME → competency-to-post fit and trained behaviour visible in work products"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME → service timelines, grievance recurrence, appeal outcomes, tenure stability",
+            "DISCIPLINE → no platform total is asserted anywhere; the number changes daily"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT → enrolment, course counts, completions, certificates on a live dashboard",
+            "OUTCOME → competency-to-post fit and trained behaviour visible in work products"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → no platform total is asserted anywhere; the number changes daily.",
+      "source_references": [
+        "Platform outputs against workplace outcomes",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GENERALIST, SPECIALIST AND LATERAL ENTRY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GENERALIST, SPECIALIST AND LATERAL ENTRY",
+          "role": "primary"
+        },
+        {
+          "text": "BREADTH FOR COORDINATION ACROSS SECTORS AND LEVELS OF GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPTH FOR TECHNOLOGY, FINANCE AND CLIMATE POLICY COMPLEXITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LATERAL ENTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDED, PERIODIC RECRUITMENT AT JOINT SECRETARY, DIRECTOR, DEPUTY SECRETARY",
+          "role": "primary"
+        },
+        {
+          "text": "SHORTER CONTRACTUAL TENURE AND WEAKER SOCIALISATION INTO PERMANENT-SERVICE NORMS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GENERALIST → breadth for coordination across sectors and levels of government",
+        "SPECIALIST → depth for technology, finance and climate policy complexity",
+        "LATERAL ENTRY → bounded, periodic recruitment at Joint Secretary, Director, Deputy Secretary",
+        "LIMIT → shorter contractual tenure and weaker socialisation into permanent-service norms"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GENERALIST → breadth for coordination across sectors and levels of government",
+          "LATERAL ENTRY → bounded, periodic recruitment at Joint Secretary, Director, Deputy Secretary",
+          "GENERALIST → breadth for coordination across sectors and levels of government"
+        ],
+        [
+          "SPECIALIST → depth for technology, finance and climate policy complexity",
+          "LIMIT → shorter contractual tenure and weaker socialisation into permanent-service norms",
+          "SPECIALIST → depth for technology, finance and climate policy complexity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENERALIST → breadth for coordination across sectors and levels of government",
+            "SPECIALIST → depth for technology, finance and climate policy complexity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LATERAL ENTRY → bounded, periodic recruitment at Joint Secretary, Director, Deputy Secretary",
+            "LIMIT → shorter contractual tenure and weaker socialisation into permanent-service norms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GENERALIST → breadth for coordination across sectors and levels of government",
+            "SPECIALIST → depth for technology, finance and climate policy complexity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → shorter contractual tenure and weaker socialisation into permanent-service norms.",
+      "source_references": [
+        "Generalist, specialist and bounded lateral entry",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "HOW NEUTRALITY ERODES",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW NEUTRALITY ERODES",
+          "role": "primary"
+        },
+        {
+          "text": "UNCONSTRAINED POSTING AND TRANSFER DISCRETION",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICERS ANTICIPATE THE POLITICAL EXECUTIVE'S PREFERENCE BEFORE ADVICE IS",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENCE PROTECTS THE OFFICE, NOT THE POST",
+          "role": "caution"
+        },
+        {
+          "text": "DISPLACEMENT IS EASIER THAN DISMISSAL",
+          "role": "primary"
+        },
+        {
+          "text": "ANONYMITY TURNS ASYMMETRIC",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC BLAME IN CONTROVERSY, INVISIBILITY IN ACHIEVEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PERCEIVED PARTIALITY ERODES THE LEGITIMACY OF UNELECTED DISCRETIONARY POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "UNCONSTRAINED POSTING AND TRANSFER DISCRETION",
+        "officers anticipate the political executive's preference before advice is asked for",
+        "permanence protects the office, not the post: displacement is easier than dismissal",
+        "anonymity turns asymmetric: public blame in controversy, invisibility in achievement",
+        "perceived partiality erodes the legitimacy of unelected discretionary power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNCONSTRAINED POSTING AND TRANSFER DISCRETION",
+            "officers anticipate the political executive's preference before advice is asked for"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "permanence protects the office, not the post: displacement is easier than dismissal",
+            "anonymity turns asymmetric: public blame in controversy, invisibility in achievement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "perceived partiality erodes the legitimacy of unelected discretionary power",
+            "CLOSE DISTINCTION: Political neutrality is not constitutional value-neutrality, anonymity..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Political neutrality is not constitutional value-neutrality, anonymity.",
+      "source_references": [
+        "How neutrality erodes and what protects it",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REFORM CONFLICT LADDER",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REFORM CONFLICT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "FIXED MINIMUM TENURE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPAIRS ARBITRARY TRANSFER; CAN ENTRENCH A POOR PERFORMER",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFORMANCE ACCOUNTABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "REPAIRS NON-PERFORMANCE; CAN BECOME A POLITICAL LEVER",
+          "role": "primary"
+        },
+        {
+          "text": "LATERAL ENTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "REPAIRS DOMAIN DEFICIT; RAISES REPRESENTATION AND MEMORY QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTRACTUAL MISSION-MODE STAFFING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIXED MINIMUM TENURE → repairs arbitrary transfer; can entrench a poor performer",
+        "PERFORMANCE ACCOUNTABILITY → repairs non-performance; can become a political lever",
+        "LATERAL ENTRY → repairs domain deficit; raises representation and memory questions",
+        "CONTRACTUAL MISSION-MODE STAFFING → buys speed; weakens tenure and neutrality guarantees",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the National Programme for Civil Services"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIXED MINIMUM TENURE → repairs arbitrary transfer; can entrench a poor performer",
+            "PERFORMANCE ACCOUNTABILITY → repairs non-performance; can become a political lever"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LATERAL ENTRY → repairs domain deficit; raises representation and memory questions",
+            "CONTRACTUAL MISSION-MODE STAFFING → buys speed; weakens tenure and neutrality guarantees"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the National Programme for Civil Services...",
+            "FIXED MINIMUM TENURE → repairs arbitrary transfer; can entrench a poor performer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the National Programme for Civil Services.",
+      "source_references": [
+        "Judging capacity claims and stating reform conflicts honestly",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A CIVIL-SERVICES DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A CIVIL-SERVICES DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE FUNCTION BEING TESTED RATHER THAN LISTING DUTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE THREE-TRAIT PACKAGE, THEN THE LEGITIMACY LAYER THE STEM",
+          "role": "comparison"
+        },
+        {
+          "text": "PAIR EVERY REFORM WITH THE RISK IT BUYS AND",
+          "role": "caution"
+        },
+        {
+          "text": "GRADED VERDICT, OUTCOME INDICATORS INSTEAD OF DASHBOARD TOTALS, STATED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the function being tested rather than listing duties of the service",
+        "BUILD → the three-trait package, then the legitimacy layer the stem actually engages",
+        "CORRECT → pair every reform with the risk it buys and the protection that reconciles",
+        "CLOSE → graded verdict, outcome indicators instead of dashboard totals, stated ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the function being tested rather than listing duties of the service",
+            "BUILD → the three-trait package, then the legitimacy layer the stem actually engages"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → pair every reform with the risk it buys and the protection that reconciles it",
+            "CLOSE → graded verdict, outcome indicators instead of dashboard totals, stated ownership"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the function being tested rather than listing duties of the service",
+            "BUILD → the three-trait package, then the legitimacy layer the stem actually engages"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict, outcome indicators instead of dashboard totals, stated ownership.",
+      "source_references": [
+        "Judging capacity claims and stating reform conflicts honestly",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\09_Civil-Services-and-Mission-Karmayogi.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g2\\governance-09_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE DOCTRINE OF DEMOCRATIC GOVERNANCE IMPLIES A RECIPROCAL OBLIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIL SERVANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSION KARMAYOGI'S COMPETENCY FRAMEWORK, BY MAKING SPECIFIC BEHAVIOURAL AND",
+          "role": "evidence"
+        },
+        {
+          "text": "LATERAL ENTRY INTERSECTS WITH THE NEUTRALITY/PERMANENCE DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "A LATERAL ENTRANT",
+          "role": "outcome"
+        },
+        {
+          "text": "MISSION KARMAYOGI (NPCSCB), APPROVED BY CABINET ON 2 SEPTEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ARCHITECTURE DISTINGUISHES APEX GUIDANCE (PM'S HR COUNCIL), COORDINATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The Doctrine of Democratic Governance implies a reciprocal obligation: civil servants",
+            "CAUTION: Mission Karmayogi's competency framework, by making specific behavioural and domain",
+            "CAUTION: Lateral entry intersects with the neutrality/permanence design: a lateral entrant",
+            "Mission Karmayogi (NPCSCB), approved by Cabinet on 2 September 2020, is structured"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The architecture distinguishes apex guidance (PM's HR Council), coordination (Cabinet",
+            "CAUTION: Lateral-entry recruitment rounds have periodically inducted domain specialists at",
+            "CAUTION: A well-publicised instance of an honest civil servant being transferred shortly after",
+            "CAUTION: Boundary case: a civil servant who is procedurally compliant and personally honest but"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: A lateral entrant bringing specific technical expertise (e.g., cybersecurity policy)",
+            "CAUTION: Emphasising perceptual legitimacy risks incentivising visible, symbolic",
+            "CAUTION: Expanding lateral entry to more positions could dilute permanence-based institutional",
+            "CAUTION: Mission Karmayogi's competency-based reform requires sustained multi-year"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

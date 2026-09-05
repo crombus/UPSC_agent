@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-11",
+      "display_title": "Mahajanapadas & Rise of Magadha",
+      "active_generation": 15,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mahajanapadas: long state-formation transition",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "JANA -> JANAPADA -> MAHAJANAPADA -> IMPERIAL THRESHOLD",
+            "kin community  territorial base  large competing states  Magadhan/Mauryan platform",
+            "     |               |                    |                      |",
+            "     +---------------+--------------------+----------------------+",
+            "                              v",
+            "c. 1000-600 BCE changes -> c. 6th-4th centuries BCE competitive state system",
+            "Sixteen is a conventional list; state formation was neither simultaneous nor linear."
+          ],
+          "source_references": [
+            "SESSION 1 - CHRONOLOGY",
+            "SESSION 2 - FROM JANA TO JANAPADA TO MAHAJANAPADA",
+            "SESSION 28 - TRANSITION TO EMPIRE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Sixteen Mahajanapadas: political text map",
+          "structural_type": "map/spatial",
+          "ascii_lines": [
+            "NORTH-WEST: Gandhara, Kamboja | UPPER PLAIN: Kuru, Panchala, Matsya, Surasena",
+            "CENTRAL/WEST: Chedi, Avanti, Vatsa | TRANS-VINDHYAN: Assaka",
+            "MIDDLE/EAST GANGA: Kashi, Kosala, Anga, Magadha",
+            "REPUBLICAN EAST: Vajji, Malla | textual lists and placements can vary",
+            "                         |",
+            "                         v",
+            "FOUR LEADING MONARCHIES: Magadha, Kosala, Vatsa, Avanti",
+            "Map polity to capital, route and rivalry; do not draw fixed modern borders."
+          ],
+          "source_references": [
+            "SESSION 3 - THE SIXTEEN MAHAJANAPADAS",
+            "SESSION 4 - TEXT MAP",
+            "SESSION 5 - MAJOR MONARCHIES",
+            "SESSION 6 - EASTERN POLITIES",
+            "SESSION 7 - REGIONAL PROFILES",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Monarchy and gana-sangha compared",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MONARCHY                         GANA-SANGHA",
+            "hereditary/dynastic rajan        assembly of chiefly lineages",
+            "court, officials, organised force deliberation among oligarchic elites",
+            "expanding taxation/territory     corporate sovereignty/confederacy",
+            "village heads link centre/local  non-elite, women and dependants excluded",
+            "       |                                  |",
+            "       +----------------+-----------------+",
+            "                        v",
+            "Two state forms: gana was not modern democracy; monarchy was not automatic progress."
+          ],
+          "source_references": [
+            "SESSION 9 - MONARCHICAL INSTITUTIONS",
+            "SESSION 10 - GANAS AND SANGHAS",
+            "SESSION 11 - MONARCHY VERSUS GANA-SANGHA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Second urbanisation: city-system mechanism",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "agricultural surplus + extraction + crafts + routes + merchant finance",
+            "                         |",
+            "                         v",
+            "Rajagriha | Kaushambi | Vaishali | Champa | later Pataliputra",
+            "                         |",
+            "                         v",
+            "NBPW horizon + craft quarters + markets + punch-marked coin circulation",
+            "                         |",
+            "                         v",
+            "Urbanisation was networked and uneven; NBPW and coins are indicators, not sole causes."
+          ],
+          "source_references": [
+            "SESSION 12 - SECOND URBANISATION",
+            "SESSION 13 - CITIES AND FORTIFICATIONS",
+            "SESSION 14 - CRAFTS, CORPORATE ORGANISATION, TRADE ROUTES",
+            "SESSION 15 - PUNCH-MARKED COINS",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Agrarian political economy and social change",
+          "structural_type": "institution-system",
+          "ascii_lines": [
+            "forest clearance/fields + iron in context + cattle/plough labour",
+            "                         |",
+            "                         v",
+            "surplus -> tax/share -> army/officials/forts -> market and town demand",
+            "                         |",
+            "          +--------------+--------------+",
+            "          |                             |",
+            "gahapati household elites        setthi, merchants and craft groups",
+            "          +--------------+--------------+",
+            "                         v",
+            "Varna claims, new wealth and shramana critiques intersect in urbanising society."
+          ],
+          "source_references": [
+            "SESSION 16 - AGRICULTURE, IRON, SURPLUS, TAXATION AND SOCIAL CHANGE",
+            "SESSION 17 - STATE, SOCIETY AND THE SHRAMANA SETTING",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Why Magadha? interacting causal matrix",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "MAGADHAN ASCENDANCY",
+            "       |",
+            " +-----+---------+---------+---------+---------+",
+            " |               |         |         |         |",
+            "Ganga plain    rivers    resources capitals   political agency",
+            "alluvium/rice transport  iron/     Rajagriha Bimbisara/Ajatashatru",
+            "                         elephants ->Pataliputra diplomacy, war, rule",
+            " +-----+---------+---------+---------+---------+",
+            "                       |",
+            "                       v",
+            "Advantages became power through institutions; no geography or resource monopoly alone."
+          ],
+          "source_references": [
+            "SESSION 18 - WHY MAGADHA? THE COMPLETE CAUSAL MATRIX",
+            "SESSION 19 - GEOGRAPHY AND RIVERS",
+            "SESSION 20 - IRON, ELEPHANTS, FORESTS",
+            "SESSION 21 - CAPITALS AND FORTIFICATIONS",
+            "SESSION 22 - POLITICAL AGENCY",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Magadhan dynastic expansion sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BIMBISARA -> AJATASHATRU -> UDAYIN -> SHISHUNAGA -> NANDAS -> MAURYAN THRESHOLD",
+            "Anga, marriage  Kosala/Vajji wars Pataliputra    Avanti absorbed resources/army",
+            "      |              |              |               |                 |",
+            "      +--------------+--------------+---------------+-----------------+",
+            "                                      v",
+            "Expansion combined conquest, diplomacy, capital relocation and accumulation.",
+            "Traditions disagree on exact succession; use the sequence without false precision."
+          ],
+          "source_references": [
+            "SESSION 23 - HARYANKA EXPANSION",
+            "SESSION 24 - MAGADHA CONTESTS",
+            "SESSION 25 - SHISHUNAGA AND NANDA CONSOLIDATION",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Archaeology and source limits of early Magadha",
+          "structural_type": "debate-evidence-verdict",
+          "ascii_lines": [
+            "SOURCES: Buddhist/Jaina traditions + Puranic lists + archaeology + later reports",
+            "                         |",
+            "      +------------------+------------------+",
+            "      |                                     |",
+            "Rajagriha walls: imposing, dating debated   Pataliputra/Kumrahar: separate early",
+            "                                             settlement from Mauryan remains",
+            "                         |",
+            "                         v",
+            "VERDICT: texts preserve political memory; archaeology tests place and phase, not episode."
+          ],
+          "source_references": [
+            "SESSION 26 - RAJAGRIHA/RAJGIR",
+            "SESSION 27 - PATALIPUTRA AND KUMRAHAR",
+            "SESSION 30 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "From competitive states to empire",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "MAHAJANAPADA COMPETITION",
+            "          |",
+            "          v",
+            "larger armies + taxation + capitals + routes + diplomatic repertoires",
+            "          |",
+            "          v",
+            "Magadhan absorption of Anga, Vajji, Kosala links and Avanti rivalry",
+            "          |",
+            "          v",
+            "Nanda-scale accumulation -> institutional and territorial platform for Mauryas",
+            "Legacy is capacity-building, not destiny; rivals once had viable alternatives."
+          ],
+          "source_references": [
+            "SESSION 24 - MAGADHA CONTESTS",
+            "SESSION 28 - TRANSITION TO EMPIRE",
+            "SESSION 29 - TRADITIONAL EXPLANATIONS OF MAGADHA",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Mahajanapada-Magadha answer architecture",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "10 MARKS: define transition -> map 3 polities -> institution/economy -> caution",
+            "15 MARKS: state forms -> second urbanisation -> Magadha matrix -> dynasty sequence",
+            "20 MARKS: chronology/list/map -> monarchy/gana -> agrarian-urban economy",
+            "          -> Magadha matrix -> Haryanka-Nanda agency -> source limits -> empire bridge",
+            "AVOID: fixed borders, gana = democracy, iron/geography as single cause.",
+            "CLOSE: Magadha converted opportunity into durable power through strategy and institutions."
+          ],
+          "source_references": [
+            "SESSION 29 - TRADITIONAL EXPLANATIONS OF MAGADHA",
+            "SESSION 30 - HISTORIOGRAPHY AND SOURCE CRITICISM",
+            "SESSION 31 - TERMINOLOGY BANK, MEMORY HOOKS AND INTEGRATED ANSWER SPINE",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. # Claim Named evidence Significance Limitation",
+            "3. Year Paper Q PYQ demand (neutral rendering) Directive / format Source...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Source layer Topic 11 use Non-negotiable limit",
+            "2. Contested issues Competing interpretations are attributed, evidenced...",
+            "3. Inscription and coin evidence: contemporary names, titles, claims and...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\11_Mahajanapadas-and-Rise-of-Magadha.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\g15\\ancient-indian-history-11_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

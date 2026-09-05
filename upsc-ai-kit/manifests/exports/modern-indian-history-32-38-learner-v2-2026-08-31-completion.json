@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "modern-indian-history-32-38-learner-v2-2026-08-31-completion",
+  "passed": true,
+  "test_count": 178,
+  "topic_count": 7,
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-32",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-32\\modern-indian-history-32_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-32\\modern-indian-history-32_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 69,
+      "workbook_pages": 36,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "modern-indian-history-33",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-33\\modern-indian-history-33_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-33\\modern-indian-history-33_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 65,
+      "workbook_pages": 35,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "modern-indian-history-34",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-34\\modern-indian-history-34_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-34\\modern-indian-history-34_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 64,
+      "workbook_pages": 34,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "modern-indian-history-35",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-35\\modern-indian-history-35_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-35\\modern-indian-history-35_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 63,
+      "workbook_pages": 32,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "modern-indian-history-36",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-36\\modern-indian-history-36_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-36\\modern-indian-history-36_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 63,
+      "workbook_pages": 32,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "modern-indian-history-37",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-37\\modern-indian-history-37_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-37\\modern-indian-history-37_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 62,
+      "workbook_pages": 31,
+      "ascii_panels": 12,
+      "mcqs": 80
+    },
+    {
+      "topic_key": "modern-indian-history-38",
+      "generation": 1,
+      "generated_on": "2026-08-31",
+      "approved": false,
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-38\\modern-indian-history-38_Complete-Learning-Session_2026-08-31.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-38\\modern-indian-history-38_Solved-Practice-Workbook_2026-08-31.pdf",
+      "main_pages": 67,
+      "workbook_pages": 35,
+      "ascii_panels": 12,
+      "mcqs": 80
+    }
+  ],
+  "changed_files_manifest": "upsc-ai-kit/manifests/exports/modern-indian-history-32-38-learner-v2-2026-08-31-changed-files.txt"
+}

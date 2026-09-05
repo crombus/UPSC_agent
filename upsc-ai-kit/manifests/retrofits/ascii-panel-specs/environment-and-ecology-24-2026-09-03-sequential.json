@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 24",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-24",
+      "display_title": "Coastal and Marine Ecology CRZ Blue Economy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-24_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Coastal system map",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RIVER AND SEDIMENT -> material reaches the coast",
+            "WAVES TIDES CURRENTS -> transport and reshape shoreline",
+            "ECOSYSTEMS -> trap sediment buffer hazards support habitat",
+            "HUMAN USE -> extraction structures ports settlements and livelihoods",
+            "OUTCOME -> coupled land-sea response, not one isolated driver"
+          ],
+          "source_references": [
+            "Coastal-system boundary",
+            "Sediment and erosion chain"
+          ]
+        },
+        {
+          "title": "Coastal ecosystem matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MANGROVE -> intertidal woody vegetation",
+            "SEAGRASS -> submerged flowering-plant meadow",
+            "SALT MARSH -> vegetated intertidal wetland",
+            "CORAL REEF -> biogenic marine structure",
+            "DUNE MUDFLAT ESTUARY -> distinct sediment and habitat systems"
+          ],
+          "source_references": [
+            "Ecosystem-service portfolio",
+            "Mangrove boundary",
+            "Seagrass-marsh boundary"
+          ]
+        },
+        {
+          "title": "Coral dual-stress diagram",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "THERMAL STRESS -> symbiont loss and bleaching",
+            "ACIDIFICATION -> carbonate chemistry changes",
+            "LOCAL POLLUTION -> compounding stress",
+            "RECOVERY -> event severity and local condition matter",
+            "RULE -> bleaching and acidification are not synonyms"
+          ],
+          "source_references": [
+            "Coral stress distinction"
+          ]
+        },
+        {
+          "title": "Sediment-budget rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOURCE -> rivers cliffs reefs and alongshore supply",
+            "TRANSPORT -> waves currents and tides",
+            "INTERRUPTION -> dams mining ports and coastal structures",
+            "EVENT -> storm and surge redistribution",
+            "SHORELINE -> erosion accretion or reorientation"
+          ],
+          "source_references": [
+            "Sediment and erosion chain"
+          ]
+        },
+        {
+          "title": "CRZ legal hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ENVIRONMENT PROTECTION ACT -> enabling legal base",
+            "CRZ NOTIFICATION -> national regulatory framework",
+            "AMENDMENT -> changes specified provisions",
+            "CZMP -> mapped state or UT implementation layer",
+            "PROJECT DECISION -> separate appraisal and clearance"
+          ],
+          "source_references": [
+            "CRZ legal identity",
+            "Notification-vintage boundary",
+            "CZMP evidence boundary",
+            "Classification-clearance distinction"
+          ]
+        },
+        {
+          "title": "CRZ category compass",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CRZ I -> ecologically sensitive and intertidal contexts",
+            "CRZ II -> developed urban coastal context",
+            "CRZ III -> relatively undisturbed rural context",
+            "CRZ IV -> specified water-area context",
+            "SUBCATEGORY RULE -> official notification controls detail"
+          ],
+          "source_references": [
+            "CRZ category boundary"
+          ]
+        },
+        {
+          "title": "Coastal line firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HTL -> mapped tidal reference",
+            "LTL -> mapped lower tidal reference",
+            "HAZARD LINE -> hazard-information function",
+            "SETBACK OR NDZ -> rule-defined regulatory function",
+            "APPROVED MAP -> category boundary evidence"
+          ],
+          "source_references": [
+            "HTL-LTL boundary",
+            "CZMP evidence boundary"
+          ]
+        },
+        {
+          "title": "CZMP-to-clearance sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CZMP -> category and boundary map",
+            "PROJECT LOCATION -> overlaid on approved plan",
+            "APPLICABLE RULE -> category subcategory and activity",
+            "APPRAISAL OR CLEARANCE -> project-specific decision",
+            "COMPLIANCE -> construction and operation monitoring"
+          ],
+          "source_references": [
+            "CZMP evidence boundary",
+            "Classification-clearance distinction"
+          ]
+        },
+        {
+          "title": "ICZM coordination wheel",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "ECOSYSTEMS -> cumulative ecological condition",
+            "HAZARDS -> erosion surge flooding and intrusion",
+            "LIVELIHOODS -> fishing access tenure and settlements",
+            "DEVELOPMENT -> ports tourism energy and infrastructure",
+            "COORDINATION -> wider than one project clearance"
+          ],
+          "source_references": [
+            "ICZM-clearance distinction",
+            "Layered legal geography"
+          ]
+        },
+        {
+          "title": "Coastal aquifer mechanism",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "OVER EXTRACTION OR LOWER RECHARGE -> freshwater head falls",
+            "HYDRAULIC GRADIENT CHANGES -> saline interface moves",
+            "SEA LEVEL OR ENGINEERING -> possible compounding pressure",
+            "SALINISATION -> wells soils and supply affected",
+            "RESPONSE -> demand recharge pumping monitoring and barriers"
+          ],
+          "source_references": [
+            "Seawater-intrusion chain",
+            "Intrusion response hierarchy"
+          ]
+        },
+        {
+          "title": "Blue Economy sustainability test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SECTOR OPPORTUNITY -> fisheries shipping tourism energy or science",
+            "ECOSYSTEM PRESSURE -> habitat pollution extraction and carbon",
+            "LIVELIHOOD AND EQUITY -> access benefit and displacement",
+            "CUMULATIVE GOVERNANCE -> thresholds monitoring and enforcement",
+            "VERDICT -> growth is not sustainability without outcomes"
+          ],
+          "source_references": [
+            "Blue-economy definition",
+            "Sector-outcome boundary"
+          ]
+        },
+        {
+          "title": "Coastal answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> ecological coast and administrative CRZ separately",
+            "MAP -> habitat sediment hazard aquifer and livelihood systems",
+            "PLACE -> notification CZMP category clearance ICZM and maritime zone",
+            "EVALUATE -> sector opportunity against ecosystem and equity outcome",
+            "VERIFY -> official map survey notification decision and date"
+          ],
+          "source_references": [
+            "Maritime-zone boundary",
+            "Current evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

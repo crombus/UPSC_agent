@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "geography-19-learner-v2-2026-09-01",
+  "selection": "geography-19",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "geography-19:learner-v2:g2",
+      "topic_key": "geography-19",
+      "variant": "learner-v2",
+      "generation": 2,
+      "supersedes": "geography-19:legacy-v1:g1",
+      "command": "Generate learner-v2 topic: Geography — Part A — Physical Geography — Mediterranean Climate",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\geography-19_Complete-Learning-Session_2026-09-01.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\geography-19_Solved-Practice-Workbook_2026-09-01.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\geography-19_Complete-Learning-Session_2026-09-01.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\geography-19_Solved-Practice-Workbook_2026-09-01.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\assets",
+      "generated_on": "2026-09-01",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\19_India-Himalayan-Fruit-Belt_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Geography\\README.md",
+          "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Geography\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Geography\\REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Geography\\ANSWER-WORTHINESS-AUDIT.md",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\GC Leong - Certificate Physical and human Geography.pdf",
+          "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+          "books\\Indian-geography-majid-hussain.pdf"
+        ],
+        "live_sources": [
+          "https://icar.org.in/en/low-chill-apple-man-india-hariman-sharma-conferred-padma-shri",
+          "https://icarcith.org.in/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\geography-19_Complete-Learning-Session_2026-09-01.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-01",
+        "superseded_v1": "geography-19:legacy-v1:g1",
+        "source_hashes": {
+          "books\\GC Leong - Certificate Physical and human Geography.pdf": "80cee21f9075731f1841cb3714645df94846f4b215ab5f0c1948aac4ab71998a",
+          "books\\Indian & World Geography - Husain, Majid_Compressed.pdf": "8770f543912124259376881085c94676d330f89d455666d46aaa22f751ba10fb",
+          "books\\Indian-geography-majid-hussain.pdf": "1d7ab9edf8779c0f3c812fe56787084f619989e4e1adaffa9f1e43f0cb182c41",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+          "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md": "e8c1a5fbe4ea76be86872d0a710e17de0827f2c59c92c850685529520d1ef649",
+          "upsc-ai-kit\\knowledge\\Geography\\19_India-Himalayan-Fruit-Belt_Complete-Topic-Package.md": "333ca4124586daebd7ff6b2970897298332df9fa8aafa23a6fbbcdf76c30246c",
+          "upsc-ai-kit\\knowledge\\Geography\\advanced\\19_India-Himalayan-Fruit-Belt.md": "f45094197a2a9be694f79ec3abd164c0c02f2de1cf7f8931eab21b3befb2c47b",
+          "upsc-ai-kit\\knowledge\\Geography\\ANSWER-WORTHINESS-AUDIT.md": "4fbcd7eb1b577022fa8c438111bfe0e7f76fd61c95a05e95d0c41e41cd3aa594",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\16_Tropical-Monsoon-and-Marine-Climate.md": "8fbf7fe0e8644c68ce5033f0568ac7b5d540a9bd3873d2edf7d8892930d9f6c6",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\19_Mediterranean-Climate.md": "161c4a2d5fac494e73af81e46c1930f8fdd29b931ad30b67417dec2571827003",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md": "f4ce8a0cee4bb794847c97e78da7e65ca63996e2f2821e8f0e96c7ae12c14c96",
+          "upsc-ai-kit\\knowledge\\Geography\\basic\\30_Primary-Economic-Activities-Agriculture.md": "399d0cdc032641f8bad6ff26f2d39514cdf9b04d299ef2fa63fb356fcf962255",
+          "upsc-ai-kit\\knowledge\\Geography\\LEARNING-SESSION-COMMAND-INDEX.md": "f8a214b669c5a13887e1e09f67969f880950dc12c5a8c54899a6dd5b40e2e51a",
+          "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-19_Learning-Session.md": "333ca4124586daebd7ff6b2970897298332df9fa8aafa23a6fbbcdf76c30246c",
+          "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-19_Solved-Workbook.md": "a9fca8714674f279fc6ab2e15bc21a192eedf2cb5cf0a16f283e058c6d106522",
+          "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "5423e188aa0c98932e8b8bc5f9d9a465c14593fd0dee3ea3a916f04b72dc1f2b",
+          "upsc-ai-kit\\knowledge\\Geography\\README.md": "7b84c8c11f68d489f7579c037dbbd8384435bb9d64e0d64b9e352bfedc8ff008",
+          "upsc-ai-kit\\knowledge\\Geography\\REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md": "b0f24907f37596bb7af25a6680dc9d460391c5c0a605d67c4cc5d97c23ac40e1",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-19-2026-09-01-sequential.json": "cd24dd3af492218fb06fe33582c93191e80ddadf10178b1cf83227f3ee299edd",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\geography-19.json": "f84aa8971eae24f4de7d835e3d6b9a814fe89a2a36b2ee551f90eea516e6808e",
+          "upsc-ai-kit\\manifests\\v2\\geography--part-a-physical-geography.json": "49157b0c6a5158c11cb1a3e82625207e74126102784ecb5ebfc7fc0386685a24",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with strict A-B-C-D rotation; verified routed PYQs only; six original solved Mains questions weighted 10,10,15,15,20,20.",
+        "current_linkage_note": "Official ICAR material is used only to establish low-chill apple innovation as an adaptation example, and ICAR-CITH is retained as the relevant official temperate-horticulture institution. No unofficial chilling-hour trend, production loss, market value or measured upslope shift is quoted, and India is not reclassified as Mediterranean climate.",
+        "pyq_status_note": "The audited routing ledgers contain no direct question owned by Geography Topic 19. Mediterranean pipeline geography, world-region mapping, horticulture, local winds and wildfire questions remain with their routed owners. This package records a transparent zero-direct-PYQ audit and does not invent wording, year, marks or key.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "87518ac558d1607826cf33fa03b8c54f0d7529cfbad41dde1354a4023a46ca49"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "geography-19:learner-v2:g2"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-01",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2",
+        "master_image": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-19\\geography-19_Graphical-Spec-g2.json",
+        "graphical_spec_sha256": "90cb9ae6dc83f2d8bb6c303dc5c43a15927039cfe9f4f8373b879cad7d62d658",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\flowcharts\\geography-19\\carvaka-g2\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-19-2026-09-01-sequential.json",
+        "ascii_master_spec_sha256": "cd24dd3af492218fb06fe33582c93191e80ddadf10178b1cf83227f3ee299edd"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

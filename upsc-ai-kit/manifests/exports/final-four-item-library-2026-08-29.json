@@ -1,0 +1,1296 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-29T19:21:52+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0277ea6b69345ecea8fc4bbea73401cdc164d6e97583cc37840b993703e066ef",
+    "sha256_after": "0277ea6b69345ecea8fc4bbea73401cdc164d6e97583cc37840b993703e066ef",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 5,
+  "subjects": {
+    "Ancient History": 5
+  },
+  "sections": {
+    "Ancient History — Subject-wide Syllabus": 5
+  },
+  "library_totals": {
+    "file_count": 2881,
+    "pdf_count": 847,
+    "png_count": 473,
+    "txt_count": 390,
+    "markdown_count": 384,
+    "json_count": 772,
+    "total_bytes": 1644298831,
+    "by_extension": {
+      ".json": 772,
+      ".md": 384,
+      ".pdf": 847,
+      ".png": 473,
+      ".txt": 390,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-17",
+      "topic_title": "The Satavahanas & the Deccan",
+      "subject": "Ancient History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 17,
+      "source_record_id": "ancient-indian-history-17:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\ancient-indian-history-17_Complete-Learning-Session_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "1e54497caaffb7972b544db7f5f5e8ea49b21022e6d76c550bf78293ecf7b7f7",
+          "output_sha256": "1e54497caaffb7972b544db7f5f5e8ea49b21022e6d76c550bf78293ecf7b7f7",
+          "source_output_equal": true,
+          "bytes": 856561
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\ancient-indian-history-17_Solved-Practice-Workbook_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "14fdab26a5eecd547357de141e8ab4281cf6e44a6cb635e159f4bcd07698280b",
+          "output_sha256": "14fdab26a5eecd547357de141e8ab4281cf6e44a6cb635e159f4bcd07698280b",
+          "source_output_equal": true,
+          "bytes": 628646
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-17\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "fe282ad6a10d5625a9724870d3acaf400fdd00bb59016289048ceec41cab18eb",
+          "output_sha256": "fe282ad6a10d5625a9724870d3acaf400fdd00bb59016289048ceec41cab18eb",
+          "source_output_equal": true,
+          "bytes": 2287868
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-17\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "5b005840fceaf316239b224092982272a30ed6f6370675fec8991519fd9f07e1",
+          "output_sha256": "5b005840fceaf316239b224092982272a30ed6f6370675fec8991519fd9f07e1",
+          "source_output_equal": true,
+          "bytes": 2609092
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-17\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7fe02f48c7e0a1f00b68a1f017c586e33cadb5a0e8711eef12f9666ef000d1df",
+          "output_sha256": "7fe02f48c7e0a1f00b68a1f017c586e33cadb5a0e8711eef12f9666ef000d1df",
+          "source_output_equal": true,
+          "bytes": 2037232
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-17\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "c2e9c4e7f0389439e87b74e88279c127d754d6e04c4804cf7273edba7530b447",
+          "output_sha256": "c2e9c4e7f0389439e87b74e88279c127d754d6e04c4804cf7273edba7530b447",
+          "source_output_equal": true,
+          "bytes": 5505
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-17\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\17-The-Satavahanas-and-the-Deccan\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "c2e9c4e7f0389439e87b74e88279c127d754d6e04c4804cf7273edba7530b447",
+          "output_sha256": "56b02f0399ac07f91b1654865522dab9e5903a584122ae863a5b38193a8ca5de",
+          "normalized_text_equal": true,
+          "bytes": 57555
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 9,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 9,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 9,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 84,
+        "solved_practice_workbook": 26,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 26,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11408
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "ancient-indian-history-18",
+      "topic_title": "The Sangam Age & the Deep South",
+      "subject": "Ancient History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 18,
+      "source_record_id": "ancient-indian-history-18:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\ancient-indian-history-18_Complete-Learning-Session_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "168d223de2ef0af6c591583771af1444a59fc23fcfe6ee2ba8f84e4dbff078f9",
+          "output_sha256": "168d223de2ef0af6c591583771af1444a59fc23fcfe6ee2ba8f84e4dbff078f9",
+          "source_output_equal": true,
+          "bytes": 1374070
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\ancient-indian-history-18_Solved-Practice-Workbook_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "f2acc081283c31b54a6d9093e13bf390cd44d8d8a5b8770a65bb96d9b666c96c",
+          "output_sha256": "f2acc081283c31b54a6d9093e13bf390cd44d8d8a5b8770a65bb96d9b666c96c",
+          "source_output_equal": true,
+          "bytes": 476161
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-18\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "ecbe639fc638cd6e8c2ccbc43ce7884f6400daf7bb62589aba06a338191e8d85",
+          "output_sha256": "ecbe639fc638cd6e8c2ccbc43ce7884f6400daf7bb62589aba06a338191e8d85",
+          "source_output_equal": true,
+          "bytes": 2157258
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-18\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a1f90bc2ea005c11b54c01c5c656b046c97c8ab3b1420e262e29e354b2c6a84d",
+          "output_sha256": "a1f90bc2ea005c11b54c01c5c656b046c97c8ab3b1420e262e29e354b2c6a84d",
+          "source_output_equal": true,
+          "bytes": 2518047
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-18\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "b218f4b82bf3bf2af81d9aa3aad1905050a81ae0e9e8b06d3b5d35514c8f8cd5",
+          "output_sha256": "b218f4b82bf3bf2af81d9aa3aad1905050a81ae0e9e8b06d3b5d35514c8f8cd5",
+          "source_output_equal": true,
+          "bytes": 1924182
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-18\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b8195f3778640597008e969798fed6a142d437b246deaaaa76c28aa073a8eaf5",
+          "output_sha256": "b8195f3778640597008e969798fed6a142d437b246deaaaa76c28aa073a8eaf5",
+          "source_output_equal": true,
+          "bytes": 5258
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-18\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\18-The-Sangam-Age-and-the-Deep-South\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "b8195f3778640597008e969798fed6a142d437b246deaaaa76c28aa073a8eaf5",
+          "output_sha256": "4aa3a4a2310feea43cea42cd0d5aee242bb944a4fe4875eae37e9eaf3847d5a0",
+          "normalized_text_equal": true,
+          "bytes": 57563
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 7,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 10,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 62,
+        "solved_practice_workbook": 22,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 62,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 22,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11122
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "ancient-indian-history-19",
+      "topic_title": "Crafts, Commerce & Urban Growth (200 BC–AD 250)",
+      "subject": "Ancient History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 19,
+      "source_record_id": "ancient-indian-history-19:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Complete-Learning-Session_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "051e3c71cb411de704ed7beb4e994ed4a50840ca8997c9a806e9d1eee7d50fa2",
+          "output_sha256": "051e3c71cb411de704ed7beb4e994ed4a50840ca8997c9a806e9d1eee7d50fa2",
+          "source_output_equal": true,
+          "bytes": 1633585
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-19\\ancient-indian-history-19_Solved-Practice-Workbook_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "29c3aa29a74b0945c20cf41beadf267c180f1bca4415c8354468289c0e95ecc2",
+          "output_sha256": "29c3aa29a74b0945c20cf41beadf267c180f1bca4415c8354468289c0e95ecc2",
+          "source_output_equal": true,
+          "bytes": 470945
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "dbd9591681649f53547c03ee9e8258a58568e43aadd756cd8a96bf71d27ac64a",
+          "output_sha256": "dbd9591681649f53547c03ee9e8258a58568e43aadd756cd8a96bf71d27ac64a",
+          "source_output_equal": true,
+          "bytes": 2269931
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "2e9ec411706da5cb2891273e6c12f7a456fa72d199c54aa12f3ff03f34cf741e",
+          "output_sha256": "2e9ec411706da5cb2891273e6c12f7a456fa72d199c54aa12f3ff03f34cf741e",
+          "source_output_equal": true,
+          "bytes": 2605798
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "cd2ba743e70b03147bcd49216c0136754ffa9e853aa5bdc749285344fdc59f4f",
+          "output_sha256": "cd2ba743e70b03147bcd49216c0136754ffa9e853aa5bdc749285344fdc59f4f",
+          "source_output_equal": true,
+          "bytes": 2013040
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "2adafe9d52cc37cc5d85162137f236e410b898a49fa5ce35577121b41860ac44",
+          "output_sha256": "2adafe9d52cc37cc5d85162137f236e410b898a49fa5ce35577121b41860ac44",
+          "source_output_equal": true,
+          "bytes": 5355
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-19\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\19-Crafts-Commerce-and-Urban-Growth-200-BC-AD-250\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "2adafe9d52cc37cc5d85162137f236e410b898a49fa5ce35577121b41860ac44",
+          "output_sha256": "45419128583cb6ed7cabc94965619a361b97f93c7ae6b24aff0321d9cd50bd67",
+          "normalized_text_equal": true,
+          "bytes": 57550
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 9,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 10,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 69,
+        "solved_practice_workbook": 25,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 69,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11390
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "ancient-indian-history-20",
+      "topic_title": "The Gupta Empire",
+      "subject": "Ancient History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 20,
+      "source_record_id": "ancient-indian-history-20:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Complete-Learning-Session_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "ef788d018f9eb89ba305bc3b6b22cf376c371bb98aac52446d491e1b94254dfa",
+          "output_sha256": "ef788d018f9eb89ba305bc3b6b22cf376c371bb98aac52446d491e1b94254dfa",
+          "source_output_equal": true,
+          "bytes": 2028152
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-20\\ancient-indian-history-20_Solved-Practice-Workbook_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a027caf29d3a798709e4b49311133344279cc7ea6783a55dad51991ab5931b0d",
+          "output_sha256": "a027caf29d3a798709e4b49311133344279cc7ea6783a55dad51991ab5931b0d",
+          "source_output_equal": true,
+          "bytes": 439904
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2ca0ded3264bd1bc1d5bb3b5e5ceced65158bb5f3fc83cb4c9ee9e43b81ac30f",
+          "output_sha256": "2ca0ded3264bd1bc1d5bb3b5e5ceced65158bb5f3fc83cb4c9ee9e43b81ac30f",
+          "source_output_equal": true,
+          "bytes": 2195580
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "5b5ac6f8b5ccaa9a5671de2ed97aeac018c3326845ad2a7bfff8d36c217b44c3",
+          "output_sha256": "5b5ac6f8b5ccaa9a5671de2ed97aeac018c3326845ad2a7bfff8d36c217b44c3",
+          "source_output_equal": true,
+          "bytes": 2572229
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "8317fa6aa0997a8b0d7874161fc480d45542d9c326f9d4295cd5f1df2183e9f5",
+          "output_sha256": "8317fa6aa0997a8b0d7874161fc480d45542d9c326f9d4295cd5f1df2183e9f5",
+          "source_output_equal": true,
+          "bytes": 1957509
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "264474ed2b47a2ff8a6c8877088f8885b7d66c1136f8e44811b3e3c37410a3f0",
+          "output_sha256": "264474ed2b47a2ff8a6c8877088f8885b7d66c1136f8e44811b3e3c37410a3f0",
+          "source_output_equal": true,
+          "bytes": 5201
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-20\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\20-The-Gupta-Empire\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "264474ed2b47a2ff8a6c8877088f8885b7d66c1136f8e44811b3e3c37410a3f0",
+          "output_sha256": "08391c19bcc47eac4cb0b183ca6514cd994401445db0b3b36ef928819c16a1c4",
+          "normalized_text_equal": true,
+          "bytes": 57457
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 8,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 9,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 68,
+        "solved_practice_workbook": 12,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 68,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 12,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11254
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "ancient-indian-history-21",
+      "topic_title": "Life & Culture in the Gupta Age",
+      "subject": "Ancient History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 21,
+      "source_record_id": "ancient-indian-history-21:learner-v2:g2",
+      "source_generation": 2,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\ancient-indian-history-21_Complete-Learning-Session_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "644c2d8d55ac5af93fd79b5cd03f19cc745fe6a06246475c91673a7c9387c1cb",
+          "output_sha256": "644c2d8d55ac5af93fd79b5cd03f19cc745fe6a06246475c91673a7c9387c1cb",
+          "source_output_equal": true,
+          "bytes": 2803886
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-21\\ancient-indian-history-21_Solved-Practice-Workbook_2026-08-29.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3112dd89d55177279e03bceaa1a7fd2078ad1ea14a812f4418ef0d3173ead0ce",
+          "output_sha256": "3112dd89d55177279e03bceaa1a7fd2078ad1ea14a812f4418ef0d3173ead0ce",
+          "source_output_equal": true,
+          "bytes": 493860
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-21\\carvaka-g2\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "8d9a33c48c1bb6278a6e3752e1f76b8318c3a8650fc134df308a650bd993fc6b",
+          "output_sha256": "8d9a33c48c1bb6278a6e3752e1f76b8318c3a8650fc134df308a650bd993fc6b",
+          "source_output_equal": true,
+          "bytes": 2287308
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-21\\carvaka-g2\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "0453715e827325c9fb3f865a4af423faf0e3c88c8b3345565421ae56e1576103",
+          "output_sha256": "0453715e827325c9fb3f865a4af423faf0e3c88c8b3345565421ae56e1576103",
+          "source_output_equal": true,
+          "bytes": 2571272
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-21\\carvaka-g2\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "fd49df2e1c033c35c0cf961c35217109548061142fe09e6cb11daeae2e454f46",
+          "output_sha256": "fd49df2e1c033c35c0cf961c35217109548061142fe09e6cb11daeae2e454f46",
+          "source_output_equal": true,
+          "bytes": 2032857
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-21\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "916ef5a5ceb8e39bdccaa3b7d65e683a57653edfe59f3da2a9e5bcaa0231d5a7",
+          "output_sha256": "916ef5a5ceb8e39bdccaa3b7d65e683a57653edfe59f3da2a9e5bcaa0231d5a7",
+          "source_output_equal": true,
+          "bytes": 5611
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-21\\carvaka-g2\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ancient History\\Subject-wide Syllabus\\21-Life-and-Culture-in-the-Gupta-Age\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_text_sha256": "916ef5a5ceb8e39bdccaa3b7d65e683a57653edfe59f3da2a9e5bcaa0231d5a7",
+          "output_sha256": "5d7c7727e6561c9433c43bb5cc51dcdccaec8f203eeb4f6fac08edea8efa56dd",
+          "normalized_text_equal": true,
+          "bytes": 57852
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 8,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 7,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 68,
+        "solved_practice_workbook": 22,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 68,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 22,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11530
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

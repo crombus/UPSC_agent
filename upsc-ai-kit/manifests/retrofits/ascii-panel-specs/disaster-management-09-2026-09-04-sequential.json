@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Disaster Management learner-v2 Topic 09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-09",
+      "display_title": "Drought, Heat Waves and Slow-Onset Risk",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-09_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Drought identity firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ARIDITY -> persistent climatic moisture condition",
+            "DROUGHT -> temporary deficit relative to local expectation",
+            "SCARCITY -> supply-demand-access condition",
+            "DISASTER -> serious disruption beyond coping capacity"
+          ],
+          "source_references": [
+            "Aridity versus drought",
+            "Socio-economic drought"
+          ]
+        },
+        {
+          "title": "Drought-family matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "METEOROLOGICAL -> precipitation",
+            "AGRICULTURAL -> soil moisture / crop water",
+            "HYDROLOGICAL -> rivers reservoirs lakes aquifers",
+            "SOCIOECONOMIC / ECOLOGICAL -> services-livelihoods / ecosystems"
+          ],
+          "source_references": [
+            "Meteorological drought",
+            "Agricultural drought",
+            "Hydrological drought",
+            "Socio-economic drought",
+            "Ecological drought"
+          ]
+        },
+        {
+          "title": "Slow-onset cascade",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RAINFALL DEFICIT -> SOIL-MOISTURE STRESS",
+            "-> STORAGE / GROUNDWATER DECLINE",
+            "-> CROP ECOSYSTEM LIVELIHOOD AND HEALTH EFFECTS",
+            "LAGS DIFFER -> MONITOR EACH STAGE"
+          ],
+          "source_references": [
+            "Slow-onset cascade"
+          ]
+        },
+        {
+          "title": "Declaration dashboard",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "RAINFALL + VEGETATIVE INDICES",
+            "CROP-SOWING PROGRESSION + SOIL MOISTURE",
+            "HYDROLOGICAL INDICES",
+            "GRADE STATUS -> DO NOT INVENT ONE CUT-OFF"
+          ],
+          "source_references": [
+            "Multi-indicator declaration"
+          ]
+        },
+        {
+          "title": "Heat hazard-to-harm chain",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "IMD HAZARD CLASSIFICATION",
+            "+ HUMIDITY / RADIATION / WIND / HOT NIGHT",
+            "+ WORK / HEALTH / HOUSING / WATER / COOLING",
+            "= HEAT STRESS AND UNEQUAL HARM"
+          ],
+          "source_references": [
+            "Heat-wave hazard",
+            "Heat stress",
+            "Exposure inequality"
+          ]
+        },
+        {
+          "title": "Wet-bulb firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DRY-BULB -> ambient air temperature",
+            "WET-BULB -> evaporative-cooling potential",
+            "IMD HEAT WAVE -> operational meteorological criteria",
+            "TRAP -> NONE IS A UNIVERSAL PERSON-SAFE THRESHOLD"
+          ],
+          "source_references": [
+            "Wet-bulb boundary",
+            "Heat-wave hazard"
+          ]
+        },
+        {
+          "title": "Heat Action Plan rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 SEASONAL RISK AND RESPONSIBILITY MAP",
+            "2 FORECAST / WARNING AND PUBLIC MESSAGE",
+            "3 WATER COOLING WORK SCHOOL AND HEALTH ACTION",
+            "4 REVIEW REACH EQUITY AND OUTCOMES"
+          ],
+          "source_references": [
+            "Heat Action Plan",
+            "Monitoring-to-outcome firewall"
+          ]
+        },
+        {
+          "title": "Water-agriculture portfolio",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "DRINKING WATER + DEMAND MANAGEMENT",
+            "GROUND / SURFACE WATER MONITORING",
+            "WATERSHED RECHARGE STORAGE GOVERNANCE",
+            "CROP LIVESTOCK LIVELIHOOD CONTINGENCY"
+          ],
+          "source_references": [
+            "Water-risk portfolio",
+            "Agriculture and livelihoods"
+          ]
+        },
+        {
+          "title": "Urban-labour-health matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "BUILT FORM -> cool roof shade ventilation trees",
+            "LABOUR -> timing rest water communication",
+            "HEALTH -> surveillance triage referral continuity",
+            "ACCESS -> poor housing informal work vulnerable groups"
+          ],
+          "source_references": [
+            "Urban heat measures",
+            "Labour and health measures",
+            "Exposure inequality"
+          ]
+        },
+        {
+          "title": "Compound-risk web",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "DROUGHT -> WATER / CROP / POWER PRESSURE",
+            "HEAT -> HEALTH / LABOUR / COOLING DEMAND",
+            "DRY FUEL -> FIRE RISK",
+            "FEEDBACK -> DEEPER LIVELIHOOD AND SERVICE STRESS"
+          ],
+          "source_references": [
+            "Compound risk"
+          ]
+        },
+        {
+          "title": "Early action or maladaptation",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "FORECAST + VULNERABILITY SIGNAL?",
+            "YES -> EARLY WATER HEALTH LABOUR LIVELIHOOD ACTION",
+            "TEST -> ENERGY WATER LAND ACCESS MAINTENANCE",
+            "FAIL TEST -> MALADAPTATION / TRANSFERRED RISK"
+          ],
+          "source_references": [
+            "Early action and maladaptation"
+          ]
+        },
+        {
+          "title": "Slow-onset answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DISTINGUISH ARIDITY SCARCITY AND DROUGHT TYPES",
+            "TRACE LAGS + MONITOR MULTIPLE INDICATORS",
+            "SEPARATE HEAT HAZARD FROM STRESS AND EXPOSURE",
+            "DESIGN EARLY ACTION + TEST EQUITY MALADAPTATION OUTCOME"
+          ],
+          "source_references": [
+            "Monitoring-to-outcome firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

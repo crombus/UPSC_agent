@@ -1,0 +1,550 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T11:03:22+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b8a5c70e0397274b3b0c221c273de6e049bb85d8a554bcdd4e564d940b094abf",
+    "sha256_after": "b8a5c70e0397274b3b0c221c273de6e049bb85d8a554bcdd4e564d940b094abf",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 2,
+  "subjects": {
+    "Modern History": 2
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 2
+  },
+  "library_totals": {
+    "file_count": 9151,
+    "pdf_count": 2347,
+    "png_count": 773,
+    "txt_count": 990,
+    "markdown_count": 1489,
+    "json_count": 3537,
+    "total_bytes": 4133907204,
+    "by_extension": {
+      ".json": 3537,
+      ".md": 1489,
+      ".pdf": 2347,
+      ".png": 773,
+      ".txt": 990,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-23",
+      "topic_title": "Left, Peasant, Workers' & States' Peoples' Movements (1930s)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 23,
+      "source_record_id": "modern-indian-history-23:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-23\\g3\\modern-indian-history-23_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "f84c2646fd7b7c4e4cd3a781f66ead26340925c03e17689c32c2a21c4e2556fb",
+          "output_sha256": "f84c2646fd7b7c4e4cd3a781f66ead26340925c03e17689c32c2a21c4e2556fb",
+          "source_output_equal": true,
+          "bytes": 602670
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-23\\g3\\modern-indian-history-23_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a0fdb12f91d43ff4d281695ccea9f784810b562cbe7d5814a1906496d605f23e",
+          "output_sha256": "a0fdb12f91d43ff4d281695ccea9f784810b562cbe7d5814a1906496d605f23e",
+          "source_output_equal": true,
+          "bytes": 478489
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-23\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "983d6faf9ffa7849a53cbb8701cfb42c8cb66c79247a1558b43fb81b30b71d0c",
+          "output_sha256": "983d6faf9ffa7849a53cbb8701cfb42c8cb66c79247a1558b43fb81b30b71d0c",
+          "source_output_equal": true,
+          "bytes": 2059938
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-23\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "3513ce2cd345b85990982dc445c11e4d8a66cc8fa6e1f531c9c0f5a940347693",
+          "output_sha256": "3513ce2cd345b85990982dc445c11e4d8a66cc8fa6e1f531c9c0f5a940347693",
+          "source_output_equal": true,
+          "bytes": 2575503
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-23\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "6d18b5367af63a13b56b804d1ab0c59aec6cb51522e5bfa9844a3ab6f7e6b654",
+          "output_sha256": "6d18b5367af63a13b56b804d1ab0c59aec6cb51522e5bfa9844a3ab6f7e6b654",
+          "source_output_equal": true,
+          "bytes": 1836811
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-23\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "6f75a80df39032f9f5a462259e93fcf1cf2bf52ca9dbd1fc478395c7542939f2",
+          "output_sha256": "6f75a80df39032f9f5a462259e93fcf1cf2bf52ca9dbd1fc478395c7542939f2",
+          "source_output_equal": true,
+          "bytes": 4138
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-23\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\23-Left-Peasant-Workers-and-States-Peoples-Movements-1930s\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "9bd48a75b7cda42b923f930eb37c719e9970ef32021b2f709af38e87a10b79ff",
+          "output_sha256": "9bd48a75b7cda42b923f930eb37c719e9970ef32021b2f709af38e87a10b79ff",
+          "source_output_equal": true,
+          "source_text_sha256": "6f75a80df39032f9f5a462259e93fcf1cf2bf52ca9dbd1fc478395c7542939f2",
+          "normalized_text_equal": true,
+          "bytes": 56779
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 63,
+        "solved_practice_workbook": 33,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 63,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 33,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10412
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    },
+    {
+      "topic_key": "modern-indian-history-24",
+      "topic_title": "The Government of India Act 1935 & the Congress Ministries (1937–1939)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 24,
+      "source_record_id": "modern-indian-history-24:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "04b24e0a13f7a8f8af7ec89697ac56be04a2751f50b5f594b139d44277493534",
+          "output_sha256": "04b24e0a13f7a8f8af7ec89697ac56be04a2751f50b5f594b139d44277493534",
+          "source_output_equal": true,
+          "bytes": 638946
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "43b85b290415cb401baec753fce22a75ffb6834850b5e2916a0705fdb2c2ff56",
+          "output_sha256": "43b85b290415cb401baec753fce22a75ffb6834850b5e2916a0705fdb2c2ff56",
+          "source_output_equal": true,
+          "bytes": 510348
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-24\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "29d8afdc09733e5104d1232cfe44aa9874c3dab5f0d03daaff05d9972534ca74",
+          "output_sha256": "29d8afdc09733e5104d1232cfe44aa9874c3dab5f0d03daaff05d9972534ca74",
+          "source_output_equal": true,
+          "bytes": 2140831
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-24\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "db62e85cbe8b879c9ea6bf9259a3edd98f3b3ab0337cfa794990f4e37538b950",
+          "output_sha256": "db62e85cbe8b879c9ea6bf9259a3edd98f3b3ab0337cfa794990f4e37538b950",
+          "source_output_equal": true,
+          "bytes": 2572170
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-24\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "604420edb96ed4dfa6c7025048f71844f4500ea7da68d1365d461f5944f41dcc",
+          "output_sha256": "604420edb96ed4dfa6c7025048f71844f4500ea7da68d1365d461f5944f41dcc",
+          "source_output_equal": true,
+          "bytes": 1900225
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-24\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "88b76ce60bf3f454ad0e68464b1da18d309e204734964e7b6fb6529134644e99",
+          "output_sha256": "88b76ce60bf3f454ad0e68464b1da18d309e204734964e7b6fb6529134644e99",
+          "source_output_equal": true,
+          "bytes": 4668
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-24\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\24-The-Government-of-bfb4bdd0-Ministries-1937-1939\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "6684e7f817862e8be2826e8c50dd7fadcee2e708c79e9c7eda680e54cb4823d0",
+          "output_sha256": "6684e7f817862e8be2826e8c50dd7fadcee2e708c79e9c7eda680e54cb4823d0",
+          "source_output_equal": true,
+          "source_text_sha256": "88b76ce60bf3f454ad0e68464b1da18d309e204734964e7b6fb6529134644e99",
+          "normalized_text_equal": true,
+          "bytes": 57020
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 71,
+        "solved_practice_workbook": 38,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 71,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 38,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10662
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

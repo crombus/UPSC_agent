@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-19",
+  "subject": "Ancient-Indian-History",
+  "title": "CRAFTS, COMMERCE & URBAN GROWTH (200 BC–AD 250)",
+  "short_route": "PERIODIZATION AND EVIDENCE DISCIPLINE → AGRARIAN BASE OF URBAN → CRAFT PRODUCTION CHAINS → SHRENI, NIGAMA AND MERCHANT → INLAND CORRIDORS AND MARKET → PORTS, MONSOON AND INDIAN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-19_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json",
+  "ascii_spec_sha256": "21d2b83993ed38307d8b8c835240af14cb219b7b654bcc6f15907f1c879fd54d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PERIODIZATION AND EVIDENCE DISCIPLINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PERIODIZATION AND EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "C. 600 BCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECOND-URBANISATION BACKGROUND C. 200 BCE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL POLITIES AND WIDER CRAFT-TRADE NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "1ST-2ND C. CE",
+          "role": "primary"
+        },
+        {
+          "text": "DENSE URBAN AND MARITIME EVIDENCE IN SELECTED REGIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "3RD C. CE ONWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "DECLINE, CONTINUITY AND ROUTE CHANGE COEXIST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "c. 600 BCE → second-urbanisation background c. 200 BCE → regional polities and wider craft-trade",
+        "1st-2nd c. CE → dense urban and maritime evidence in selected regions",
+        "3rd c. CE onward → decline, continuity and route change coexist",
+        "SOURCES: texts + inscriptions + coins + craft debris + settlements + imports",
+        "RULE: archaeological phase labels do not automatically prove dynastic rule."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "c. 600 BCE → second-urbanisation background c. 200 BCE → regional polities and wider craft-trade networks",
+            "1st-2nd c. CE → dense urban and maritime evidence in selected regions"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "3rd c. CE onward → decline, continuity and route change coexist",
+            "SOURCES: texts + inscriptions + coins + craft debris + settlements + imports"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: archaeological phase labels do not automatically prove dynastic rule.",
+            "c. 600 BCE → second-urbanisation background c. 200 BCE → regional polities and wider craft-trade networks"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: archaeological phase labels do not automatically prove dynastic rule.",
+      "answer_line": "archaeological phase labels do not automatically prove dynastic rule.",
+      "source_references": [
+        "Scope",
+        "Chronology"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AGRARIAN BASE OF URBAN GROWTH",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRARIAN BASE OF URBAN GROWTH",
+          "role": "primary"
+        },
+        {
+          "text": "LAND + WATER + LABOUR + DIVERSE CROPS FOOD",
+          "role": "outcome"
+        },
+        {
+          "text": "SALT SUPPORTS NON-FOOD PRODUCERS AND SUPPLIES CRAFT CHAINS TOWN",
+          "role": "comparison"
+        },
+        {
+          "text": "VILLAGE AND TOWN FORMED AN INTERDEPENDENT SYSTEM, NOT SEPARATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAND + WATER + LABOUR + DIVERSE CROPS food surplus + cotton / oilseeds /",
+        "/ salt supports non-food producers and supplies craft chains town demand returns tools, markets, credit",
+        "VERDICT: village and town formed an interdependent system, not separate economies."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LAND + WATER + LABOUR + DIVERSE CROPS food surplus + cotton / oilseeds / timber / ores",
+            "/ salt supports non-food producers and supplies craft chains town demand returns tools, markets, credit and institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VERDICT: village and town formed an interdependent system, not separate economies.",
+            "LAND + WATER + LABOUR + DIVERSE CROPS food surplus + cotton / oilseeds / timber / ores"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "/ salt supports non-food producers and supplies craft chains town demand returns tools, markets, credit and institutions",
+            "VERDICT: village and town formed an interdependent system, not separate economies."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: village and town formed an interdependent system, not separate economies.",
+      "answer_line": "village and town formed an interdependent system, not separate economies.",
+      "source_references": [
+        "Agrarian surplus",
+        "Urban-rural interdependence"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CRAFT PRODUCTION CHAINS",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CRAFT PRODUCTION CHAINS",
+          "role": "primary"
+        },
+        {
+          "text": "RAW MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIALISED LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "FINISHED GOOD COTTON",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOTH AGATE/CARNELIAN",
+          "role": "primary"
+        },
+        {
+          "text": "BEADS ORE",
+          "role": "outcome"
+        },
+        {
+          "text": "TOOLS AND ORNAMENTS CLAY/GLASS/IVORY/SHELL",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED FORMS AND ELITE/COMMON CONSUMPTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAW MATERIAL → SPECIALISED LABOUR → INSTALLATION / TOOL → FINISHED GOOD cotton → spinning",
+        "weaving → dyeing → cloth agate/carnelian → cutting → drilling → polishing → beads ore",
+        "smelting → forging/casting → tools and ornaments clay/glass/ivory/shell → repeated forms and elite/common consumption",
+        "LIMIT: one vat, mould or workshop cannot establish ownership, scale or export destination."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAW MATERIAL → SPECIALISED LABOUR → INSTALLATION / TOOL → FINISHED GOOD cotton → spinning →",
+            "weaving → dyeing → cloth agate/carnelian → cutting → drilling → polishing → beads ore →"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "smelting → forging/casting → tools and ornaments clay/glass/ivory/shell → repeated forms and elite/common consumption",
+            "LIMIT: one vat, mould or workshop cannot establish ownership, scale or export destination."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RAW MATERIAL → SPECIALISED LABOUR → INSTALLATION / TOOL → FINISHED GOOD cotton → spinning →",
+            "weaving → dyeing → cloth agate/carnelian → cutting → drilling → polishing → beads ore →"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: one vat, mould or workshop cannot establish ownership, scale or export destination.",
+      "source_references": [
+        "Craft specialisation",
+        "Production"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SHRENI, NIGAMA AND MERCHANT BODIES",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SHRENI, NIGAMA AND MERCHANT BODIES",
+          "role": "primary"
+        },
+        {
+          "text": "MERCHANTS SHRENI",
+          "role": "outcome"
+        },
+        {
+          "text": "CORPORATE BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "NIGAMA IDENTITIES DEPOSITS + ENDOWMENTS + STANDARDS + REPRESENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL RECORDS SHOW CORPORATE CAPACITY, NOT ONE PAN-INDIAN GUILD",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTISANS / MERCHANTS shreni / corporate body / nigama identities deposits + endowments",
+        "+ standards + representation + donor visibility recurring provision for religious institutions",
+        "CAUTION: local records show corporate capacity, not one pan-Indian guild law or a modern banking"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ARTISANS / MERCHANTS shreni / corporate body / nigama identities deposits + endowments",
+            "+ standards + representation + donor visibility recurring provision for religious institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION: local records show corporate capacity, not one pan-Indian guild law or a modern banking system.",
+            "ARTISANS / MERCHANTS shreni / corporate body / nigama identities deposits + endowments"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "+ standards + representation + donor visibility recurring provision for religious institutions",
+            "CAUTION: local records show corporate capacity, not one pan-Indian guild law or a modern banking system."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: local records show corporate capacity, not one pan-Indian guild law or a modern banking system.",
+      "source_references": [
+        "Guilds",
+        "Merchant bodies"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INLAND CORRIDORS AND MARKET NODES",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INLAND CORRIDORS AND MARKET NODES",
+          "role": "primary"
+        },
+        {
+          "text": "GANGA ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "KAUSHAMBI AND OTHER URBAN NODES",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN AND EASTERN OUTLETS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRODUCTION ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "CHATTU CARAVANS",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD CHANGING ROUTE CONCEPTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTE LINES SHOW CONNECTIVITY, NOT PERMANENT PAVED HIGHWAYS OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST → Taxila → Mathura → Ujjain → Bharuch",
+        "GANGA ROUTES → Kaushambi and other urban nodes",
+        "DECCAN → Paithan / Tagara → western and eastern outlets",
+        "TAMILAKAM → production zones → chattu caravans → ports",
+        "UTTARAPATHA / DAKSHINAPATHA = broad changing route concepts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST → Taxila → Mathura → Ujjain → Bharuch",
+            "GANGA ROUTES → Kaushambi and other urban nodes"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DECCAN → Paithan / Tagara → western and eastern outlets",
+            "TAMILAKAM → production zones → chattu caravans → ports"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "UTTARAPATHA / DAKSHINAPATHA = broad changing route concepts",
+            "RULE: route lines show connectivity, not permanent paved highways or one ruler's monopoly."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: route lines show connectivity, not permanent paved highways or one ruler's monopoly.",
+      "answer_line": "route lines show connectivity, not permanent paved highways or one ruler's monopoly.",
+      "source_references": [
+        "Internal trade",
+        "Routes"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PORTS, MONSOON AND INDIAN OCEAN EXCHANGE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PORTS, MONSOON AND INDIAN OCEAN EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "HINTERLAND SURPLUS",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET NODE",
+          "role": "comparison"
+        },
+        {
+          "text": "PORT AGGREGATION + CUSTOMS + STORAGE + SHIPPING +",
+          "role": "evidence"
+        },
+        {
+          "text": "ARABIAN SEA",
+          "role": "primary"
+        },
+        {
+          "text": "RED SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "BAY OF BENGAL NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SINGLE FOREIGN DISCOVERER CREATED MONSOON SAILING OR INDIAN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HINTERLAND SURPLUS → MARKET NODE → PORT aggregation + customs + storage + shipping +",
+        "Arabian Sea / Red Sea / Bay of Bengal networks",
+        "TRAP: no single foreign discoverer created monsoon sailing or Indian maritime trade."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HINTERLAND SURPLUS → MARKET NODE → PORT aggregation + customs + storage + shipping + redistribution seasonal winds + accumulated navigation knowledge",
+            "Arabian Sea / Red Sea / Bay of Bengal networks"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRAP: no single foreign discoverer created monsoon sailing or Indian maritime trade.",
+            "HINTERLAND SURPLUS → MARKET NODE → PORT aggregation + customs + storage + shipping + redistribution seasonal winds + accumulated navigation knowledge"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Arabian Sea / Red Sea / Bay of Bengal networks",
+            "TRAP: no single foreign discoverer created monsoon sailing or Indian maritime trade."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "no single foreign discoverer created monsoon sailing or Indian maritime trade.",
+      "source_references": [
+        "Ports",
+        "Maritime trade"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MEDITERRANEAN EXCHANGE WITHOUT COLONY CLAIMS",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MEDITERRANEAN EXCHANGE WITHOUT COLONY CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "STONES OUTWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "METALS INWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "PERIPLUS, PLINY, PAPYRUS, ARCHAEOLOGY AND COIN CONTEXTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ROMAN ANXIETY, NOT AN AUDITED INDIAN TRADE BALANCE",
+          "role": "caution"
+        },
+        {
+          "text": "IMPORTED OBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTACT AND CONSUMPTION POSSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT PROVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PEPPER / TEXTILES / BEADS / PEARLS / IVORY / STONES OUTWARD",
+        "COINS / BULLION / AMPHORAE / GLASS / CERAMICS / METALS INWARD",
+        "EVIDENCE → Periplus, Pliny, papyrus, archaeology and coin contexts",
+        "PLINY → Roman anxiety, not an audited Indian trade balance",
+        "IMPORTED OBJECT → contact and consumption possibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "PEPPER / TEXTILES / BEADS / PEARLS / IVORY / STONES OUTWARD",
+            "COINS / BULLION / AMPHORAE / GLASS / CERAMICS / METALS INWARD"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE → Periplus, Pliny, papyrus, archaeology and coin contexts",
+            "PLINY → Roman anxiety, not an audited Indian trade balance"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "IMPORTED OBJECT → contact and consumption possibility",
+            "NOT PROVED → resident Roman colony, sovereignty or universal prosperity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT PROVED → resident Roman colony, sovereignty or universal prosperity.",
+      "source_references": [
+        "Roman trade",
+        "Source limits"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COINAGE AND UNEVEN MONETISATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COINAGE AND UNEVEN MONETISATION",
+          "role": "primary"
+        },
+        {
+          "text": "GOLD AND COPPER",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN KSHATRAPA",
+          "role": "comparison"
+        },
+        {
+          "text": "LEAD, COPPER, POTIN AND SELECTED SILVER/PORTRAIT ISSUES",
+          "role": "evidence"
+        },
+        {
+          "text": "ROMAN-LINKED FINDS",
+          "role": "primary"
+        },
+        {
+          "text": "VARIED MONETARY WORLDS",
+          "role": "outcome"
+        },
+        {
+          "text": "COINS AIDED PAYMENTS, REVENUE AND EXCHANGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "COIN ABUNDANCE DOES NOT ERASE BARTER, KIND PAYMENTS OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KUSHANA → gold and copper",
+        "WESTERN KSHATRAPA → silver",
+        "SATAVAHANA → lead, copper, potin and selected silver/portrait issues",
+        "CIVIC / PUNCH-MARKED / ROMAN-LINKED FINDS → varied monetary worlds",
+        "COINS aided payments, revenue and exchange."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "KUSHANA → gold and copper",
+          "SATAVAHANA → lead, copper, potin and selected silver/portrait issues",
+          "COINS aided payments, revenue and exchange."
+        ],
+        [
+          "WESTERN KSHATRAPA → silver",
+          "CIVIC / PUNCH-MARKED / ROMAN-LINKED FINDS → varied monetary worlds",
+          "LIMIT: coin abundance does not erase barter, kind payments or regional monetary gaps."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KUSHANA → gold and copper",
+            "WESTERN KSHATRAPA → silver"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SATAVAHANA → lead, copper, potin and selected silver/portrait issues",
+            "CIVIC / PUNCH-MARKED / ROMAN-LINKED FINDS → varied monetary worlds"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "COINS aided payments, revenue and exchange.",
+            "LIMIT: coin abundance does not erase barter, kind payments or regional monetary gaps."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: coin abundance does not erase barter, kind payments or regional monetary gaps.",
+      "source_references": [
+        "Coinage",
+        "Monetisation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "URBAN MORPHOLOGY AND REGIONAL CENTRES",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "URBAN MORPHOLOGY AND REGIONAL CENTRES",
+          "role": "primary"
+        },
+        {
+          "text": "URBAN INDICATORS FORTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNED STREETS",
+          "role": "comparison"
+        },
+        {
+          "text": "TAXILA, MATHURA, KAUSHAMBI AND OTHER NODES",
+          "role": "evidence"
+        },
+        {
+          "text": "UJJAIN, BHARUCH AND ROUTE CENTRES",
+          "role": "primary"
+        },
+        {
+          "text": "PAITHAN, TAGARA, ARIKAMEDU, PUHAR AND OTHERS",
+          "role": "outcome"
+        },
+        {
+          "text": "INFER URBAN FUNCTION FROM A CLUSTER OF INDICATORS, NEVER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "URBAN INDICATORS fortification",
+        "planned streets",
+        "NORTH-WEST / NORTH: Taxila, Mathura, Kaushambi and other nodes",
+        "CENTRAL / WEST: Ujjain, Bharuch and route centres",
+        "DECCAN / SOUTH: Paithan, Tagara, Arikamedu, Puhar and others"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "URBAN INDICATORS fortification",
+          "NORTH-WEST / NORTH: Taxila, Mathura, Kaushambi and other nodes",
+          "DECCAN / SOUTH: Paithan, Tagara, Arikamedu, Puhar and others"
+        ],
+        [
+          "planned streets",
+          "CENTRAL / WEST: Ujjain, Bharuch and route centres",
+          "RULE: infer urban function from a cluster of indicators, never one imported sherd."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "URBAN INDICATORS fortification",
+            "planned streets"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "NORTH-WEST / NORTH: Taxila, Mathura, Kaushambi and other nodes",
+            "CENTRAL / WEST: Ujjain, Bharuch and route centres"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "DECCAN / SOUTH: Paithan, Tagara, Arikamedu, Puhar and others",
+            "RULE: infer urban function from a cluster of indicators, never one imported sherd."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: infer urban function from a cluster of indicators, never one imported sherd.",
+      "answer_line": "infer urban function from a cluster of indicators, never one imported sherd.",
+      "source_references": [
+        "Towns",
+        "Regional centres"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RELIGION, STATE AND URBAN-RURAL SYSTEMS",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RELIGION, STATE AND URBAN-RURAL SYSTEMS",
+          "role": "institution"
+        },
+        {
+          "text": "FOOD, FIBRE, LABOUR AND RAW MATERIALS",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKSHOPS, MARKETS, RULERS AND CONSUMERS",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER DEMAND AND MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "RELIGIOUS INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DONORS, ENDOWMENTS, LODGING AND LEGITIMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY + TOLLS + COINAGE + INFRASTRUCTURE + EXTRACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MUTUALLY REINFORCING FUNCTIONS, BUT BURDENS AND BENEFITS WERE UNEQUAL.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VILLAGES → food, fibre, labour and raw materials",
+        "TOWNS → workshops, markets, rulers and consumers",
+        "ROUTES / PORTS → wider demand and movement",
+        "RELIGIOUS INSTITUTIONS → donors, endowments, lodging and legitimacy",
+        "STATE → security + tolls + coinage + infrastructure + extraction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VILLAGES → food, fibre, labour and raw materials",
+            "TOWNS → workshops, markets, rulers and consumers"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ROUTES / PORTS → wider demand and movement",
+            "RELIGIOUS INSTITUTIONS → donors, endowments, lodging and legitimacy"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "STATE → security + tolls + coinage + infrastructure + extraction",
+            "RESULT: mutually reinforcing functions, but burdens and benefits were unequal."
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: mutually reinforcing functions, but burdens and benefits were unequal.",
+      "answer_line": "mutually reinforcing functions, but burdens and benefits were unequal.",
+      "source_references": [
+        "Religion and trade",
+        "State and commerce"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TRANSFORMATION AND DECLINE DEBATE",
+      "structural_type": "argument-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TRANSFORMATION AND DECLINE DEBATE",
+          "role": "caution"
+        },
+        {
+          "text": "CONTRACTION AT SOME SITES",
+          "role": "outcome"
+        },
+        {
+          "text": "COIN CHANGES",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTE SHIFTS",
+          "role": "evidence"
+        },
+        {
+          "text": "POSSIBLE CAUSES",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL FRAGMENTATION + DEMAND CHANGE + ECOLOGY + LOCAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ROMAN-TRADE DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "RELEVANT TO SELECTED CIRCUITS, NEVER A UNIVERSAL SINGLE CAUSE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "OBSERVED: contraction at some sites / coin changes / route shifts",
+        "POSSIBLE CAUSES: political fragmentation + demand change + ecology + local restructuring",
+        "ROMAN-TRADE DECLINE → relevant to selected circuits, never a universal single cause",
+        "CONTINUITIES: internal, eastern and regional networks; new centres can rise",
+        "METHOD: separate one site's decline from subcontinental transformation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OBSERVED: contraction at some sites / coin changes / route shifts",
+            "POSSIBLE CAUSES: political fragmentation + demand change + ecology + local restructuring"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ROMAN-TRADE DECLINE → relevant to selected circuits, never a universal single cause",
+            "CONTINUITIES: internal, eastern and regional networks; new centres can rise"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "METHOD: separate one site's decline from subcontinental transformation",
+            "VERDICT: early historic urbanism changed unevenly after the second century CE."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: early historic urbanism changed unevenly after the second century CE.",
+      "answer_line": "early historic urbanism changed unevenly after the second century CE.",
+      "source_references": [
+        "Transformation",
+        "Decline debates"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE PERIOD + SOURCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "AGRARIAN AND RAW-MATERIAL BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "CRAFTS AND CORPORATE INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "INLAND ROUTES + PORT-HINTERLAND MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MONEY + URBAN MORPHOLOGY + RELIGIOUS/STATE ROLES",
+          "role": "institution"
+        },
+        {
+          "text": "REGIONAL COMPARISON + DECLINE DEBATE",
+          "role": "caution"
+        },
+        {
+          "text": "WRITE EACH UNIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE PERIOD + SOURCE CAUTION",
+        "agrarian and raw-material base",
+        "crafts and corporate institutions",
+        "inland routes + port-hinterland mechanism",
+        "money + urban morphology + religious/state roles"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEFINE PERIOD + SOURCE CAUTION",
+            "agrarian and raw-material base",
+            "crafts and corporate institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "inland routes + port-hinterland mechanism",
+            "money + urban morphology + religious/state roles",
+            "regional comparison + decline debate"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "WRITE EACH UNIT: claim → named evidence → significance → limit",
+            "VERDICT: a networked, mutually reinforcing but regionally uneven florescence."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: a networked, mutually reinforcing but regionally uneven florescence.",
+      "answer_line": "a networked, mutually reinforcing but regionally uneven florescence.",
+      "source_references": [
+        "Answer architecture",
+        "PYQ route"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CRAFTS, COMMERCE & URBAN GROWTH (200 BC–AD 250) —",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Crafts, Commerce & Urban Growth (200 BC–AD 250) — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — Second urbanisation to post-Mauryan boom",
+            "A 2nd-century BCE sealing with shulaphalayikanam may refer to a guild of arrowhead/spearhead makers.",
+            "An Ahichchhatra seal has kumhakara seniya — \"of the guild of potters\" — in 1st-century CE writing."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

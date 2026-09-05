@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-01",
+      "display_title": "Ecosystem Structure and Function",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Ecosystem boundary card",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "BOUNDARY -> state the pond, forest patch, wetland or landscape being analysed",
+            "ABIOTIC -> climate, water, soil, minerals and topography inside that boundary",
+            "BIOTIC -> producers, consumers, detritivores and microbial decomposers",
+            "FUNCTION -> energy transfer, matter cycling, productivity and recovery",
+            "RULE -> a boundary is analytical; it must match the question and evidence",
+            "MUST REMEMBER: An ecosystem joins biotic communities and the abiotic environment through..."
+          ],
+          "source_references": [
+            "Ecosystem as a bounded functional unit",
+            "Biotic and abiotic structure",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Energy and matter split",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOLAR OR CHEMICAL INPUT -> producer fixation -> consumer transfer",
+            "AT EACH TRANSFER -> respiration and heat dissipation reduce usable energy",
+            "DEAD ORGANIC MATTER -> fragmentation -> microbial decomposition",
+            "RELEASED NUTRIENTS -> abiotic pool -> producer uptake",
+            "VERDICT -> energy moves one way; matter can cycle"
+          ],
+          "source_references": [
+            "Producer entry point",
+            "Detritivore and decomposer distinction",
+            "Energy movement versus matter cycling",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Functional guild ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PRODUCERS -> create organic matter from inorganic inputs",
+            "PRIMARY CONSUMERS -> feed directly on producers",
+            "HIGHER CONSUMERS -> feed through one or more trophic routes",
+            "DETRITIVORES -> fragment dead material",
+            "DECOMPOSERS -> chemically release nutrients"
+          ],
+          "source_references": [
+            "Producer entry point",
+            "Consumers and trophic position",
+            "Detritivore and decomposer distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chain and web comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FOOD CHAIN -> one selected linear route",
+            "FOOD WEB -> connected set of chains within the same boundary",
+            "ALTERNATIVE LINKS -> may reduce dependence on one route",
+            "OMNIVORY -> one organism may feed across trophic positions",
+            "LIMIT -> connectivity does not immunise a system against every disturbance"
+          ],
+          "source_references": [
+            "Consumers and trophic position",
+            "Food chain versus food web",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Habitat and niche matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "HABITAT -> physical address",
+            "HABITAT NICHE -> where within that address the organism operates",
+            "TROPHIC NICHE -> resources and feeding relations",
+            "REPRODUCTIVE NICHE -> breeding requirements and timing",
+            "RULE -> overlap in place does not prove identical functional niches"
+          ],
+          "source_references": [
+            "Habitat, niche and niche dimensions",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ecotone logic",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ECOSYSTEM A -> transition zone of variable width -> ECOSYSTEM B",
+            "OVERLAPPING CONDITIONS -> species from both sides may occur",
+            "NEW EDGE CONDITIONS -> some additional specialists may occur",
+            "COMPETITION AND TENSION -> the zone is not automatically benign",
+            "EDGE EFFECT -> possible density or variety pattern, not the definition"
+          ],
+          "source_references": [
+            "Ecotone and edge effect",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Forest stratification section",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CANOPY -> high light, wind exposure and arboreal niches",
+            "UNDERSTOREY -> filtered light and humid microclimate",
+            "SHRUB AND HERB LAYERS -> near-ground resource partitioning",
+            "FOREST FLOOR -> litter, detritivores and decomposer activity",
+            "CAUTION -> more layers do not prove universal stability"
+          ],
+          "source_references": [
+            "Stratification and resource partitioning",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Productivity accounting",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "GROSS PRIMARY PRODUCTIVITY -> total producer fixation per unit time",
+            "MINUS PRODUCER RESPIRATION -> metabolic energy used by producers",
+            "NET PRIMARY PRODUCTIVITY -> growth and production available onward",
+            "STANDING CROP -> living stock at a stated instant",
+            "RULE -> a stock cannot substitute for a production rate"
+          ],
+          "source_references": [
+            "Gross and net primary productivity",
+            "Standing crop and standing state",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Resistance and resilience",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "RESISTANCE -> limited departure from prior condition during a disturbance",
+            "RESILIENCE -> recovery after the disturbance",
+            "MONOCULTURE -> may look uniform while remaining shock-specific and fragile",
+            "DIVERSE WEB -> may provide response options but no universal guarantee",
+            "ANSWER -> name the shock, response variable and time frame"
+          ],
+          "source_references": [
+            "Stability and resilience",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Services and contributions",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "PROVISIONING -> material outputs such as food, fibre and water",
+            "REGULATING -> flood buffering, pollination and climate moderation",
+            "SUPPORTING -> soil formation, primary production and nutrient cycling",
+            "CULTURAL -> spiritual, aesthetic, recreational and knowledge values",
+            "NCP -> includes relational and indigenous or local-knowledge values",
+            "CLOSE DISTINCTION: Habitat is not niche, food chain is not food web, standing crop..."
+          ],
+          "source_references": [
+            "Ecosystem services and NCP",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Carrying-capacity answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> sustained load without erosion of regenerative functions",
+            "MEASURE -> regenerative supply, assimilative capacity and connectivity",
+            "CONTEXT -> consumption, technology and governance alter the threshold",
+            "LIMIT -> no timeless fixed headcount follows from the concept",
+            "CONCLUDE -> plan within ecological limits and monitor the response",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, trophic level, stock..."
+          ],
+          "source_references": [
+            "Carrying capacity",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and institution firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "BASIC OWNER -> definitions, mechanisms and verified PYQ concepts",
+            "ROUTING LEDGER -> paper, year and neutral demand ownership",
+            "OFFICIAL PAPER OCR -> printed wording only, never an inferred answer key",
+            "FSI OR SURVEY BODY -> extent or inventory within its stated method",
+            "LIVE STUB -> recorded as a failure, never converted into a current claim"
+          ],
+          "source_references": [
+            "Interaction and coevolution PYQ routes",
+            "Ocean producers, filter feeders and detritivores",
+            "Wetland filtering as structure-function evidence",
+            "Extent versus ecosystem quality",
+            "Institution and evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g4\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

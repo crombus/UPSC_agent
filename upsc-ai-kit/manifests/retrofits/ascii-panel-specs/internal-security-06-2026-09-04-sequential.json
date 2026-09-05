@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Internal Security learner-v2 Topic 06",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-06",
+      "display_title": "Border Management and Border Area Development",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-06_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Border-management system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "BORDER SECURITY -> guarding / defence",
+            "BORDER MANAGEMENT -> guarding + regulation",
+            "                         + development + legal mobility",
+            "                         + bilateral mechanisms",
+            "RULE -> the wider system is the answer unit"
+          ],
+          "source_references": [
+            "Security-management distinction",
+            "Four-element framework"
+          ]
+        },
+        {
+          "title": "Boundary-line matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IB -> mutually recognised / demarcated international boundary",
+            "LoC -> military control line in J&K context",
+            "LAC -> differently perceived India-China alignment",
+            "AGPL -> Siachen-sector line north of NJ 9842"
+          ],
+          "source_references": [
+            "Boundary vocabulary"
+          ]
+        },
+        {
+          "title": "China-border answer map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DISPUTED / DIFFERENTLY PERCEIVED LAC",
+            "-> PATROL / INFRASTRUCTURE / ESCALATION RISK",
+            "-> MILITARY-DIPLOMATIC MECHANISMS",
+            "-> DE-ESCALATION INPUT, NOT BOUNDARY SETTLEMENT"
+          ],
+          "source_references": [
+            "China-border character"
+          ]
+        },
+        {
+          "title": "Pakistan segment map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RADCLIFFE IB -> guarding / smuggling / legal crossings",
+            "LoC -> military ceasefire + infiltration dimension",
+            "AGPL -> high-altitude military / logistics dimension",
+            "SIR CREEK -> separately unsettled maritime-adjacent issue"
+          ],
+          "source_references": [
+            "Pakistan-border segmentation"
+          ]
+        },
+        {
+          "title": "Settled-by-instrument ladder",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2014 -> INDIA-BANGLADESH MARITIME ARBITRAL AWARD",
+            "2015 -> LAND BOUNDARY AGREEMENT",
+            "2015 -> CONSTITUTION (100TH AMENDMENT) ACT",
+            "LESSON -> legal instrument can change boundary status"
+          ],
+          "source_references": [
+            "Bangladesh settled-by-instrument case"
+          ]
+        },
+        {
+          "title": "Mobility-regulation balance",
+          "structural_type": "balance-scale",
+          "ascii_lines": [
+            "NEPAL -> OPEN BORDER + LEGITIMATE MOVEMENT",
+            "MYANMAR -> ETHNIC / LIVELIHOOD LINKS + FMR STATUS",
+            "SECURITY -> risk-based checks and intelligence",
+            "SAFEGUARD -> notification clarity + community consultation"
+          ],
+          "source_references": [
+            "Nepal open-border case",
+            "Myanmar FMR status rule",
+            "Community-security link"
+          ]
+        },
+        {
+          "title": "Force-to-border architecture",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "BSF -> PAKISTAN / BANGLADESH",
+            "ITBP -> CHINA",
+            "SSB -> NEPAL / BHUTAN",
+            "ASSAM RIFLES -> MYANMAR",
+            "PRINCIPLE -> one border, one force; verify actual overlap"
+          ],
+          "source_references": [
+            "Border-specific force map",
+            "One-border-one-force boundary"
+          ]
+        },
+        {
+          "title": "Scheme purpose firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BADP -> BORDER-AREA PEOPLE / SERVICES / LIVELIHOOD",
+            "BIM -> BORDER INFRASTRUCTURE / GUARDING ASSETS",
+            "VVP -> SELECT NORTHERN VILLAGES; NO BADP OVERLAP",
+            "RULE -> sanction / outlay / asset is not outcome"
+          ],
+          "source_references": [
+            "BADP purpose",
+            "BIM purpose",
+            "BADP-BIM distinction",
+            "Vibrant Villages boundary"
+          ]
+        },
+        {
+          "title": "CIBMS capability chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SENSOR -> NETWORK -> FUSED AWARENESS",
+            "-> COMMAND DECISION -> LAWFUL RESPONSE",
+            "-> RECOVERY / FORENSICS -> INVESTIGATION",
+            "TRAP -> a detected track is not an interdiction"
+          ],
+          "source_references": [
+            "CIBMS role",
+            "Input-outcome firewall"
+          ]
+        },
+        {
+          "title": "Legal-crossing system",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INTEGRATED CHECK POST",
+            "-> CUSTOMS + IMMIGRATION + REGULATORY SERVICES",
+            "LPAI -> DEVELOPMENT / MANAGEMENT OF LAND PORTS",
+            "RESULT SOUGHT -> facilitation and enforcement together"
+          ],
+          "source_references": [
+            "ICP-LPAI role"
+          ]
+        },
+        {
+          "title": "Adversarial UAV response",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "VECTOR -> SURVEILLANCE / WEAPON / CONTRABAND",
+            "DETECT -> IDENTIFY -> LAWFUL COUNTER-ACTION",
+            "RECOVER -> FORENSICS -> ATTRIBUTION / PROSECUTION",
+            "LIMIT -> no unsourced incident or interception count"
+          ],
+          "source_references": [
+            "Adversarial-UAV classification"
+          ]
+        },
+        {
+          "title": "PYQ and end-state rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2020 -> MYANMAR / BANGLADESH / LoC COMPARISON",
+            "2023 -> UAV VECTOR + CAPABILITY + EVIDENCE",
+            "2024 -> CHINA / PAKISTAN + BADP / BIM",
+            "END -> differentiated borders + community + audited outcomes"
+          ],
+          "source_references": [
+            "Differentiated end-state"
+          ]
+        }
+      ]
+    }
+  ]
+}

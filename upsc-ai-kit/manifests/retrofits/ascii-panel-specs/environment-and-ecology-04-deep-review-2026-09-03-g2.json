@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-04",
+      "display_title": "Biodiversity Levels and Hotspots",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three-level biodiversity ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "GENETIC -> variation within a species or population",
+            "SPECIES -> variety and relative abundance within a stated area",
+            "ECOSYSTEM -> variety of habitats, communities and processes",
+            "DEPENDENCE -> loss at one level can weaken the others",
+            "RULE -> level is ecological scale, not taxonomic rank",
+            "MUST REMEMBER: Biodiversity operates at genetic, species and ecosystem levels; richness,..."
+          ],
+          "source_references": [
+            "Genetic diversity",
+            "Species diversity",
+            "Ecosystem diversity",
+            "Ecological and taxonomic levels",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Species-diversity components",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RICHNESS -> number of species",
+            "EVENNESS -> distribution of abundance among species",
+            "SAME RICHNESS -> can coexist with different evenness",
+            "DIVERSITY INDEX -> depends on its stated formula and sample",
+            "CAUTION -> never infer community quality from count alone"
+          ],
+          "source_references": [
+            "Richness and evenness",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Alpha beta gamma map",
+          "structural_type": "spatial",
+          "ascii_lines": [
+            "HABITAT A -> alpha diversity inside one local community",
+            "HABITAT B -> its own local alpha diversity",
+            "A TO B TURNOVER -> beta diversity",
+            "WHOLE LANDSCAPE -> gamma diversity",
+            "RULE -> every term requires a stated sampling or regional boundary"
+          ],
+          "source_references": [
+            "Alpha diversity",
+            "Beta diversity",
+            "Gamma diversity",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Ecological and taxonomic axes",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "ECOLOGICAL LEVEL -> genetic, species, ecosystem",
+            "SPATIAL DIVERSITY -> alpha, beta, gamma",
+            "TAXONOMIC RANK -> species, genus, family and higher ranks",
+            "THREAT STATUS -> separate assessment of extinction risk",
+            "RULE -> answer on the axis actually asked"
+          ],
+          "source_references": [
+            "Ecological and taxonomic levels",
+            "Endemic versus rare or threatened",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Distribution vocabulary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "NATIVE -> occurs naturally in the defined region",
+            "ENDEMIC -> naturally restricted to the defined region",
+            "RARE -> low abundance or occurrence under a stated measure",
+            "THREATENED -> status under an assessment framework",
+            "CAUTION -> one species may satisfy several, but terms are not synonyms"
+          ],
+          "source_references": [
+            "Endemic versus native",
+            "Endemic versus rare or threatened",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Hotspot criteria gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "GATE 1 -> at least 1,500 endemic vascular plant species",
+            "AND",
+            "GATE 2 -> 30 per cent or less of original natural vegetation remains",
+            "BOTH GATES MET -> hotspot prioritisation framework applies",
+            "FAILED GATE -> species richness alone cannot create hotspot status"
+          ],
+          "source_references": [
+            "Hotspot dual criteria",
+            "Hotspot versus general richness",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Designation firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "HOTSPOT -> Conservation International scientific prioritisation framework",
+            "PROTECTED AREA -> legal designation under applicable domestic law",
+            "BIODIVERSITY HERITAGE SITE -> separate statutory category",
+            "ECO-SENSITIVE ZONE -> notification-based regulatory status",
+            "RULE -> one label never automatically confers another status"
+          ],
+          "source_references": [
+            "Norman Myers and operational status",
+            "Hotspot versus general richness",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "India-linked hotspot map in words",
+          "structural_type": "spatial",
+          "ascii_lines": [
+            "HIMALAYA -> transboundary mountain biodiversity region",
+            "INDO-BURMA -> wider mainland Southeast Asian biogeographic region",
+            "WESTERN GHATS-SRI LANKA -> linked biogeographic hotspot name",
+            "SUNDALAND -> India's represented portion is the Nicobar Islands",
+            "CAUTION -> hotspot extent is not coterminous with India's border"
+          ],
+          "source_references": [
+            "India-linked hotspots",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Triage and completeness",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "HOTSPOT LOGIC -> focus scarce resources where endemism and habitat loss coincide",
+            "PRESSURE -> plant criteria can understate other nationally important values",
+            "NON-HOTSPOT EXAMPLES -> grasslands, wetlands and cold deserts",
+            "REPLY -> use hotspots for priority, not for exclusion",
+            "VERDICT -> national strategy must retain a wider ecological baseline"
+          ],
+          "source_references": [
+            "Hotspot triage and non-hotspot value",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Country, label and institution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEGADIVERSE COUNTRY -> national biodiversity descriptor",
+            "LMMC -> international political grouping",
+            "HOTSPOT -> transboundary scientific priority region",
+            "NBA, SBB, BMC -> domestic statutory governance levels",
+            "RULE -> four categories answer different questions",
+            "CLOSE DISTINCTION: Richness is not abundance or evenness, hotspot is not a statutory..."
+          ],
+          "source_references": [
+            "Megadiverse and LMMC distinction",
+            "NBA, SBB and BMC levels",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "ABS governance rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE -> access request",
+            "RELEVANT AUTHORITY -> scrutiny under the legal architecture",
+            "COMMERCIAL OR RESEARCH USE -> applicable conditions",
+            "BENEFIT SHARING -> intended return to eligible claimants or communities",
+            "PBR -> local documentation; not proof that benefits were delivered",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach metric, taxon, geography and..."
+          ],
+          "source_references": [
+            "NBA, SBB and BMC levels",
+            "Access, benefit sharing and PBRs",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Global and PYQ boundary",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "KMGBF TARGET 3 -> area-based conservation and OECMs in the owner",
+            "CBD GUIDANCE -> does not replace or qualify adopted COP decisions",
+            "MASS EXTINCTION ROUTE -> human drivers, no inferred objective answer",
+            "ISSG AND EU NRL -> external institutional or legal comparators",
+            "CLOSE -> scientific label, domestic law and external comparator stay distinct"
+          ],
+          "source_references": [
+            "KMGBF, OECMs and status boundary",
+            "Verified PYQ and current-claim boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g2\\environment-and-ecology-04_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

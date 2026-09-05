@@ -1,0 +1,1111 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-10",
+  "subject": "Medieval-Indian-History",
+  "title": "THE BHAKTI & SUFI MOVEMENTS",
+  "short_route": "PLURAL DEVOTIONAL CHRONOLOGY → BHAKTI FIELD WITHOUT FLATTENING → SUFI VOCABULARY AND TRANSMISSION → CHISHTI NETWORK AND SOCIAL → CHISHTI-SUHRAWARDI COMPARISON → SOUTHERN ROOTS AND VEDANTA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-10_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-09-10-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "cbf70eba68b75e0933c4c7cc515776cf2de8713bf9ff5f83b3ecc2d52802f226",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PLURAL DEVOTIONAL CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PLURAL DEVOTIONAL CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "6TH-9TH C.",
+          "role": "outcome"
+        },
+        {
+          "text": "ALVAR AND NAYANAR DEVOTIONAL CORPORA IN THE SOUTH",
+          "role": "comparison"
+        },
+        {
+          "text": "11TH-13TH C.",
+          "role": "evidence"
+        },
+        {
+          "text": "VEDANTA SCHOOLS AND EARLY NORTH INDIAN SUFI NETWORKS",
+          "role": "primary"
+        },
+        {
+          "text": "13TH-14TH C.",
+          "role": "outcome"
+        },
+        {
+          "text": "CHISHTI AND SUHRAWARDI INSTITUTIONS EXPAND",
+          "role": "comparison"
+        },
+        {
+          "text": "15TH C.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "6th-9th c. → Alvar and Nayanar devotional corpora in the south",
+        "11th-13th c. → Vedanta schools and early north Indian Sufi networks",
+        "13th-14th c. → Chishti and Suhrawardi institutions expand",
+        "15th c. → Kabir, Nanak and regional vernacular devotional currents late 15th-16th c. → Chaitanya",
+        "RULE: multiple currents overlap; no single movement starts everywhere."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "6th-9th c. → Alvar and Nayanar devotional corpora in the south",
+            "11th-13th c. → Vedanta schools and early north Indian Sufi networks"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "13th-14th c. → Chishti and Suhrawardi institutions expand",
+            "15th c. → Kabir, Nanak and regional vernacular devotional currents late 15th-16th c. → Chaitanya, Surdas, Meera and wider literary publics"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: multiple currents overlap; no single movement starts everywhere.",
+            "6th-9th c. → Alvar and Nayanar devotional corpora in the south"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: multiple currents overlap; no single movement starts everywhere.",
+      "answer_line": "multiple currents overlap; no single movement starts everywhere.",
+      "source_references": [
+        "Chronology",
+        "Plurality"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BHAKTI FIELD WITHOUT FLATTENING",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BHAKTI FIELD WITHOUT FLATTENING",
+          "role": "primary"
+        },
+        {
+          "text": "DEVOTION THROUGH EMBODIED DIVINE FORMS AND NARRATIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVOTION TO A FORMLESS ABSOLUTE AND CRITIQUE OF FIXED",
+          "role": "comparison"
+        },
+        {
+          "text": "RITUAL, INSTITUTION, PILGRIMAGE AND INHERITED AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "ORAL PERFORMANCE, VERNACULAR MEMORY AND COMMUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "RAMANUJA, MADHVA, NIMBARKA AND DISTINCT PHILOSOPHICAL GRAMMARS",
+          "role": "outcome"
+        },
+        {
+          "text": "THESE CATEGORIES OVERLAP AND VARY BY REGION AND PERIOD.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SAGUNA → devotion through embodied divine forms and narratives",
+        "NIRGUNA → devotion to a formless absolute and critique of fixed representation",
+        "TEMPLE / SECT → ritual, institution, pilgrimage and inherited authority",
+        "POET-SAINT / SONG → oral performance, vernacular memory and community",
+        "VEDANTA → Ramanuja, Madhva, Nimbarka and distinct philosophical grammars"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SAGUNA → devotion through embodied divine forms and narratives",
+            "NIRGUNA → devotion to a formless absolute and critique of fixed representation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TEMPLE / SECT → ritual, institution, pilgrimage and inherited authority",
+            "POET-SAINT / SONG → oral performance, vernacular memory and community"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VEDANTA → Ramanuja, Madhva, Nimbarka and distinct philosophical grammars",
+            "CAUTION: these categories overlap and vary by region and period."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: these categories overlap and vary by region and period.",
+      "source_references": [
+        "Saguna",
+        "Nirguna",
+        "Bhakti diversity"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SUFI VOCABULARY AND TRANSMISSION",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SUFI VOCABULARY AND TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORISED CHAIN OF SPIRITUAL TRANSMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORISED SUCCESSOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DISCIPLINE, TEACHING, HOSPITALITY AND SOCIAL CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVOTIONAL AUDITION, ACCEPTED AND DEBATED IN DIFFERENT SETTINGS",
+          "role": "primary"
+        },
+        {
+          "text": "SHRINE VISITATION AND REMEMBERED SAINTLY PRESENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFACEMENT OF EGO BEFORE GOD, NOT A POLITICAL PROGRAMME.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SILSILAH → authorised chain of spiritual transmission",
+        "PIR → guide",
+        "MURID → disciple",
+        "KHALIFA → authorised successor",
+        "KHANQAH → discipline, teaching, hospitality and social contact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SILSILAH → authorised chain of spiritual transmission",
+            "PIR → guide",
+            "MURID → disciple"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KHALIFA → authorised successor",
+            "KHANQAH → discipline, teaching, hospitality and social contact",
+            "SAMA → devotional audition, accepted and debated in different settings"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ZIYARAT → shrine visitation and remembered saintly presence",
+            "FANA → effacement of ego before God, not a political programme."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FANA → effacement of ego before God, not a political programme.",
+      "source_references": [
+        "Silsilah",
+        "Khanqah",
+        "Sama",
+        "Fana"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHISHTI NETWORK AND SOCIAL CREDIBILITY",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHISHTI NETWORK AND SOCIAL CREDIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "MUINUDDIN CHISHTI",
+          "role": "outcome"
+        },
+        {
+          "text": "BAKHTIYAR KAKI",
+          "role": "comparison"
+        },
+        {
+          "text": "NIZAMUDDIN AULIYA",
+          "role": "evidence"
+        },
+        {
+          "text": "NASIRUDDIN CHIRAGH",
+          "role": "primary"
+        },
+        {
+          "text": "BABA FARID AND PUNJABI MEMORY",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICE + HOSPITALITY + COUNSEL + SAMA + RELATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULARITY DOES NOT PROVE A CENTRALLY PLANNED CONVERSION CAMPAIGN.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AJMER: Muinuddin Chishti",
+        "DELHI: Bakhtiyar Kaki → Nizamuddin Auliya → Nasiruddin Chiragh",
+        "AJODHAN: Baba Farid and Punjabi memory",
+        "MECHANISM → service + hospitality + counsel + sama + relative court distance",
+        "TRAP: popularity does not prove a centrally planned conversion campaign."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AJMER: Muinuddin Chishti",
+            "DELHI: Bakhtiyar Kaki → Nizamuddin Auliya → Nasiruddin Chiragh"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AJODHAN: Baba Farid and Punjabi memory",
+            "MECHANISM → service + hospitality + counsel + sama + relative court distance"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP: popularity does not prove a centrally planned conversion campaign.",
+            "AJMER: Muinuddin Chishti"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "popularity does not prove a centrally planned conversion campaign.",
+      "source_references": [
+        "Chishti",
+        "Ajmer",
+        "Delhi",
+        "Ajodhan"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CHISHTI-SUHRAWARDI COMPARISON",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHISHTI-SUHRAWARDI COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "CHISHTI SUHRAWARDI",
+          "role": "outcome"
+        },
+        {
+          "text": "AJMER, DELHI, AJODHAN MULTAN AND PUNJAB POVERTY/SERVICE IDEAL READIER",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER ORDER WAS UNIFORM, MORALLY PURE OR SOCIALLY IDENTICAL.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHISHTI SUHRAWARDI",
+        "Ajmer, Delhi, Ajodhan Multan and Punjab poverty/service ideal readier acceptance of grants relative distance",
+        "from office greater possibility of official connection khanqah credibility learned and institutional resources",
+        "RULE: neither order was uniform, morally pure or socially identical."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CHISHTI SUHRAWARDI",
+          "from office greater possibility of official connection khanqah credibility learned and institutional resources",
+          "CHISHTI SUHRAWARDI"
+        ],
+        [
+          "Ajmer, Delhi, Ajodhan Multan and Punjab poverty/service ideal readier acceptance of grants relative distance",
+          "RULE: neither order was uniform, morally pure or socially identical.",
+          "Ajmer, Delhi, Ajodhan Multan and Punjab poverty/service ideal readier acceptance of grants relative distance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHISHTI SUHRAWARDI",
+            "Ajmer, Delhi, Ajodhan Multan and Punjab poverty/service ideal readier acceptance of grants relative distance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "from office greater possibility of official connection khanqah credibility learned and institutional resources",
+            "RULE: neither order was uniform, morally pure or socially identical."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CHISHTI SUHRAWARDI",
+            "Ajmer, Delhi, Ajodhan Multan and Punjab poverty/service ideal readier acceptance of grants relative distance"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: neither order was uniform, morally pure or socially identical.",
+      "answer_line": "neither order was uniform, morally pure or socially identical.",
+      "source_references": [
+        "Chishti",
+        "Suhrawardi",
+        "Bahauddin Zakariya"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOUTHERN ROOTS AND VEDANTA PATHS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOUTHERN ROOTS AND VEDANTA PATHS",
+          "role": "primary"
+        },
+        {
+          "text": "TAMIL VAISHNAVA DEVOTION AND HYMN TRADITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TAMIL SHAIVA DEVOTION AND TEMPLE-LINKED MEMORY",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFIED NON-DUALISM AND PRAPATTI",
+          "role": "evidence"
+        },
+        {
+          "text": "DUALISM AND ENDURING DIFFERENCE BETWEEN GOD AND SOUL",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENCE-AND-NON-DIFFERENCE FORMULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BHAKTI IS EMOTIONAL DEVOTION PLUS PHILOSOPHICAL ARTICULATION.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ALVARS → Tamil Vaishnava devotion and hymn traditions",
+        "NAYANARS → Tamil Shaiva devotion and temple-linked memory",
+        "RAMANUJA → qualified non-dualism and prapatti",
+        "MADHVA → dualism and enduring difference between God and soul",
+        "NIMBARKA → difference-and-non-difference formulation"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "ALVARS → Tamil Vaishnava devotion and hymn traditions",
+          "RAMANUJA → qualified non-dualism and prapatti",
+          "NIMBARKA → difference-and-non-difference formulation"
+        ],
+        [
+          "NAYANARS → Tamil Shaiva devotion and temple-linked memory",
+          "MADHVA → dualism and enduring difference between God and soul",
+          "LESSON: Bhakti is emotional devotion plus philosophical articulation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ALVARS → Tamil Vaishnava devotion and hymn traditions",
+            "NAYANARS → Tamil Shaiva devotion and temple-linked memory"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RAMANUJA → qualified non-dualism and prapatti",
+            "MADHVA → dualism and enduring difference between God and soul"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NIMBARKA → difference-and-non-difference formulation",
+            "LESSON: Bhakti is emotional devotion plus philosophical articulation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON: Bhakti is emotional devotion plus philosophical articulation.",
+      "source_references": [
+        "Alvars",
+        "Nayanars",
+        "Ramanuja",
+        "Madhva"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NORTHWARD TRANSMISSION WITH SOURCE CAUTION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NORTHWARD TRANSMISSION WITH SOURCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL LANGUAGES, TEMPLES, SECTS AND REMEMBERED GURU LINEAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMANANDA TRADITION AND DIVERSE DISCIPLE LISTS",
+          "role": "evidence"
+        },
+        {
+          "text": "NORTHERN RAMA DEVOTION, NIRGUNA CRITIQUE AND VERNACULAR PUBLICS",
+          "role": "primary"
+        },
+        {
+          "text": "HAGIOGRAPHIC GENEALOGY IS NOT A DATED ATTENDANCE REGISTER.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+        "regional languages, temples, sects and remembered guru lineages",
+        "RAMANANDA tradition and diverse disciple lists",
+        "northern Rama devotion, nirguna critique and vernacular publics",
+        "CAUTION: hagiographic genealogy is not a dated attendance register."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS",
+            "regional languages, temples, sects and remembered guru lineages"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "RAMANANDA tradition and diverse disciple lists",
+            "northern Rama devotion, nirguna critique and vernacular publics"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "CAUTION: hagiographic genealogy is not a dated attendance register.",
+            "SOUTHERN DEVOTIONAL CORPORA + PILGRIMAGE + TEACHER NETWORKS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: hagiographic genealogy is not a dated attendance register.",
+      "source_references": [
+        "Ramananda",
+        "Transmission",
+        "Hagiography"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "KABIR CRITIQUE AND CORPUS METHOD",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KABIR CRITIQUE AND CORPUS METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "EMPTY RITUAL, INHERITED RANK AND SECTARIAN CERTAINTY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSIBLE VERNACULAR AND MEMORABLE COUPLET",
+          "role": "comparison"
+        },
+        {
+          "text": "NIRGUNA DEVOTION WITH VOCABULARY CROSSING SOCIAL WORLDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ORAL CIRCULATION AND VARIANT LATER COMPILATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ETHICAL CHALLENGE AND COMMUNITY FORMATION, NOT ABOLISHED CASTE",
+          "role": "caution"
+        },
+        {
+          "text": "LIVE BRIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERN KABIR MEMORY CANNOT AUTHENTICATE MEDIEVAL WORDING.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRITIQUE → empty ritual, inherited rank and sectarian certainty",
+        "LANGUAGE → accessible vernacular and memorable couplet",
+        "THEOLOGY → nirguna devotion with vocabulary crossing social worlds",
+        "CORPUS → oral circulation and variant later compilations",
+        "EFFECT → ethical challenge and community formation, not abolished caste"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "CRITIQUE → empty ritual, inherited rank and sectarian certainty",
+          "THEOLOGY → nirguna devotion with vocabulary crossing social worlds",
+          "EFFECT → ethical challenge and community formation, not abolished caste"
+        ],
+        [
+          "LANGUAGE → accessible vernacular and memorable couplet",
+          "CORPUS → oral circulation and variant later compilations",
+          "LIVE BRIDGE → modern Kabir memory cannot authenticate medieval wording."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CRITIQUE → empty ritual, inherited rank and sectarian certainty",
+            "LANGUAGE → accessible vernacular and memorable couplet"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "THEOLOGY → nirguna devotion with vocabulary crossing social worlds",
+            "CORPUS → oral circulation and variant later compilations"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "EFFECT → ethical challenge and community formation, not abolished caste",
+            "LIVE BRIDGE → modern Kabir memory cannot authenticate medieval wording."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIVE BRIDGE → modern Kabir memory cannot authenticate medieval wording.",
+      "source_references": [
+        "Kabir",
+        "Nirguna",
+        "Corpus criticism",
+        "PIB"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NANAK HOUSEHOLDER ETHIC",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NANAK HOUSEHOLDER ETHIC",
+          "role": "primary"
+        },
+        {
+          "text": "ONE DIVINE REALITY + REMEMBRANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITIQUE OF EMPTY RITUAL, HIERARCHY AND RENUNCIATORY MONOPOLY",
+          "role": "evidence"
+        },
+        {
+          "text": "ETHICAL COMMUNITY ROOTED IN ORDINARY SOCIAL LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE NANAK'S MOMENT FROM LATER SIKH INSTITUTIONS.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ONE DIVINE REALITY + REMEMBRANCE",
+        "HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE",
+        "critique of empty ritual, hierarchy and renunciatory monopoly",
+        "ethical community rooted in ordinary social life",
+        "CAUTION: separate Nanak's moment from later Sikh institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ONE DIVINE REALITY + REMEMBRANCE",
+            "HONEST WORK + SHARING + HOUSEHOLDER DISCIPLINE"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "critique of empty ritual, hierarchy and renunciatory monopoly",
+            "ethical community rooted in ordinary social life"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: separate Nanak's moment from later Sikh institutions.",
+            "ONE DIVINE REALITY + REMEMBRANCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: separate Nanak's moment from later Sikh institutions.",
+      "source_references": [
+        "Guru Nanak",
+        "Householder path",
+        "Ethical monotheism"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CHAITANYA PUBLIC DEVOTION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHAITANYA PUBLIC DEVOTION",
+          "role": "primary"
+        },
+        {
+          "text": "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLECTIVE SINGING, MOVEMENT AND EMBODIED PARTICIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BENGAL-PURI NETWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "PILGRIMAGE, DISCIPLES AND REMEMBERED CHARISMA",
+          "role": "primary"
+        },
+        {
+          "text": "BROADER AFFECTIVE PUBLIC AND LITERARY-CULTURAL TRANSMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC PARTICIPATION DID NOT AUTOMATICALLY ERASE HIERARCHY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+        "KIRTAN: collective singing, movement and embodied participation",
+        "BENGAL-PURI network: pilgrimage, disciples and remembered charisma",
+        "broader affective public and literary-cultural transmission",
+        "TRAP: public participation did not automatically erase hierarchy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KRISHNA DEVOTION + EMOTIONAL SURRENDER",
+            "KIRTAN: collective singing, movement and embodied participation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BENGAL-PURI network: pilgrimage, disciples and remembered charisma",
+            "broader affective public and literary-cultural transmission"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TRAP: public participation did not automatically erase hierarchy.",
+            "KRISHNA DEVOTION + EMOTIONAL SURRENDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP: public participation did not automatically erase hierarchy.",
+      "source_references": [
+        "Chaitanya",
+        "Kirtan",
+        "Bengal",
+        "Puri"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BHAKTI-SUFI INTERACTION WITHOUT MERGER",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BHAKTI-SUFI INTERACTION WITHOUT MERGER",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "TOWNS, CRAFTS, VERNACULARS, MUSIC, PILGRIMAGE AND SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOVE, GURU/PIR RELATION, ETHICAL CRITIQUE AND ACCESSIBLE IDIOM",
+          "role": "evidence"
+        },
+        {
+          "text": "THEOLOGY, SCRIPTURE, LAW, RITUAL AND INSTITUTIONAL LINEAGE",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSLATION, VOCABULARY, TECHNIQUE AND SHARED AUDIENCES",
+          "role": "outcome"
+        },
+        {
+          "text": "SAFE FRAME",
+          "role": "comparison"
+        },
+        {
+          "text": "PARALLEL EXCHANGE OR SYMBIOSIS WITH BOUNDARIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHARED FIELD → towns, crafts, vernaculars, music, pilgrimage and service",
+        "SIMILARITIES → love, guru/pir relation, ethical critique and accessible idiom",
+        "DIFFERENCES → theology, scripture, law, ritual and institutional lineage",
+        "CONTACT → translation, vocabulary, technique and shared audiences",
+        "SAFE FRAME → parallel exchange or symbiosis with boundaries"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "SHARED FIELD → towns, crafts, vernaculars, music, pilgrimage and service",
+          "DIFFERENCES → theology, scripture, law, ritual and institutional lineage",
+          "SAFE FRAME → parallel exchange or symbiosis with boundaries"
+        ],
+        [
+          "SIMILARITIES → love, guru/pir relation, ethical critique and accessible idiom",
+          "CONTACT → translation, vocabulary, technique and shared audiences",
+          "TRAP: similarity is not proof of direct borrowing or doctrinal identity."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SHARED FIELD → towns, crafts, vernaculars, music, pilgrimage and service",
+            "SIMILARITIES → love, guru/pir relation, ethical critique and accessible idiom"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DIFFERENCES → theology, scripture, law, ritual and institutional lineage",
+            "CONTACT → translation, vocabulary, technique and shared audiences"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SAFE FRAME → parallel exchange or symbiosis with boundaries",
+            "TRAP: similarity is not proof of direct borrowing or doctrinal identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "similarity is not proof of direct borrowing or doctrinal identity.",
+      "source_references": [
+        "Bhakti-Sufi comparison",
+        "Symbiosis",
+        "Boundaries"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 10 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 10 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PLURAL DEVOTIONAL AND MYSTICAL CURRENTS, NOT TWO MONOLITHS",
+          "role": "caution"
+        },
+        {
+          "text": "VOCABULARY + ORDER + KHANQAH + POLITICAL POSTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTHERN ROOTS + DOCTRINES + POET-SAINTS + VERNACULARISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED SOCIAL FIELD WHILE PRESERVING THEOLOGICAL DIFFERENCES",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION, CASTE, GENDER, CORPUS AND HAGIOGRAPHIC LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "ENLARGED ETHICAL AND CULTURAL VOCABULARIES WITHOUT ENDING HIERARCHY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → plural devotional and mystical currents, not two monoliths",
+        "SUFI → vocabulary + order + khanqah + political posture",
+        "BHAKTI → southern roots + doctrines + poet-saints + vernacularisation",
+        "COMPARE → shared social field while preserving theological differences",
+        "QUALIFY → inclusion, caste, gender, corpus and hagiographic limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → plural devotional and mystical currents, not two monoliths",
+            "SUFI → vocabulary + order + khanqah + political posture"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BHAKTI → southern roots + doctrines + poet-saints + vernacularisation",
+            "COMPARE → shared social field while preserving theological differences"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "QUALIFY → inclusion, caste, gender, corpus and hagiographic limits",
+            "CLOSE → enlarged ethical and cultural vocabularies without ending hierarchy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → enlarged ethical and cultural vocabularies without ending hierarchy.",
+      "source_references": [
+        "Answer architecture",
+        "Source method",
+        "Social impact"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE BHAKTI & SUFI MOVEMENTS — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Bhakti & Sufi Movements — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Historical PYQ Integration (2018-2023)",
+            "Chishti organisation in India was shaped by small-town withdrawal, Delhi popularity, and mass contact"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

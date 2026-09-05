@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "polity-30-ascii-panels-2026-08-24-sequential",
+  "created_on": "2026-08-24",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12 Core panels plus one graphical Optional card",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-30": {
+      "title": "GST Council",
+      "source_record": "polity-30:learner-v2:g2",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Pre-GST fragmentation and the 101st Amendment compact",
+          "structural_type": "gst-constitutional-transition",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 2"
+          ],
+          "full_text": "PRE-GST PROBLEM\nmanufacture tax + service tax + State VAT/CST + entry levies\n-> broken cross-credit + cascading + border friction.\n\n101ST AMENDMENT ACT, 2016\nArticle 246A -> special shared GST competence.\nArticle 269A -> inter-State levy, collection and apportionment.\nArticle 279A -> Union-State GST Council.\nArticle 366(12A) -> GST definition.\n\nCONSTITUTIONAL SURGERY\nomitted Article 268A + changed distribution provisions and Seventh Schedule entries.\n\nCORE IDEA\npooled fiscal sovereignty for a destination-based common market.\n\nLIMIT\n\"One Nation, One Tax\" is shorthand; India operates dual GST with exclusions and variations."
+        },
+        {
+          "title": "Articles 246A, 269A and the dual-GST architecture",
+          "structural_type": "gst-competence-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+          ],
+          "full_text": "INTRA-STATE SUPPLY\nCentral law -> CGST | State/UT law -> SGST/UTGST.\n\nINTER-STATE SUPPLY: ARTICLE 246A(2)\nParliament has exclusive GST legislative power.\n\nARTICLE 269A\nGovernment of India levies and collects IGST\n-> parliamentary law on place of supply and apportionment\n-> settlement between Union and destination State.\n\nIMPORT\ndeemed inter-State supply for GST architecture.\n\nARTICLE 286\nlimits State taxation of supplies outside the State or in import/export course.\n\nTRAP\nIGST is not a third destination government's tax; it is the settlement bridge\nfor an integrated dual-GST system."
+        },
+        {
+          "title": "IGST, place of supply and destination settlement",
+          "structural_type": "igst-settlement-flow",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+          ],
+          "full_text": "INTER-STATE SUPPLY\nParliament has exclusive GST competence under Article 246A(2).\n\nARTICLE 269A\nGovernment of India levies and collects IGST\n-> Parliament provides apportionment by law on Council recommendation.\n\nPLACE OF SUPPLY\nParliament formulates principles under Article 269A(5).\n\nCREDIT-SETTLEMENT BRIDGE\nsupplier State -> IGST collection/credit -> destination State revenue.\n\nIMPORTS\ndeemed inter-State supplies.\n\nTRAP\nIGST coordinates dual GST; it is not a third level's final tax."
+        },
+        {
+          "title": "Article 279A composition and institutional support",
+          "structural_type": "gst-council-composition",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 8"
+          ],
+          "full_text": "COMPOSITION\nUnion Finance Minister -> Chairperson.\nUnion Minister of State for Revenue/Finance.\nState finance/taxation ministers or nominated ministers.\nState members choose a Vice-Chairperson."
+        },
+        {
+          "title": "Quorum, voting weights and coalition arithmetic",
+          "structural_type": "gst-voting-arithmetic",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 8"
+          ],
+          "full_text": "QUORUM\none-half of total membership.\n\nWEIGHTED VOTE\nUnion = one-third | States together = two-thirds.\nDecision = at least three-fourths of weighted votes present and voting.\n\nARITHMETIC\nUnion alone cannot pass; States alone cannot pass.\nUnion can block because States reach only two-thirds without it.\nWith Union support, at least five-eighths of State weight is needed.\n\nPRACTICE\nconsensus is preferred, but does not repeal the formal voting rule."
+        },
+        {
+          "title": "Council functions and recommendation-to-law chain",
+          "structural_type": "gst-recommendation-law-chain",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+          ],
+          "full_text": "INSTITUTIONAL SUPPORT\nGST Council Secretariat -> agenda, records, coordination and implementation follow-up.\n\nPROCEDURE\nproposal -> committee/officer analysis -> agenda note -> meeting\n-> consensus or weighted vote -> minutes/recommendation -> legal instrument.\n\nLEGAL-EFFECT CHAIN\nconstitutional recommendation\n-> Parliament/State legislature enacts or amends statute\nor authorised executive issues rule/notification\n-> taxpayer obligation.\n\nRECOMMENDATION FIELDS\nsubsumed taxes | taxable/exempt supplies | model laws | place of supply\n| thresholds | rates/bands | disaster rate | petroleum date | special provisions.\n\nLEGAL-EFFECT RULE\nrecommendation -> statute/rule/notification -> effective date -> liability."
+        },
+        {
+          "title": "Alcohol, petroleum, electricity and tax-base boundaries",
+          "structural_type": "gst-boundary-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 11"
+          ],
+          "full_text": "ALCOHOLIC LIQUOR FOR HUMAN CONSUMPTION\nexcluded from Article 366(12A) GST definition.\n\nFIVE PETROLEUM PRODUCTS\nGST levy begins from a date recommended under Article 279A(5);\nuntil then, retained excise/VAT fields continue.\n\nTOBACCO\nwithin GST while retained Union excise competence also exists.\n\nELECTRICITY\nnot excluded by the GST definition like alcohol;\nelectricity duty remains under Entry 53 and supply treatment needs exact law.\n\nRATE / EXEMPTION / THRESHOLD\nCouncil recommendation -> competent notification or legislation.\n\nINPUT-TAX CREDIT\nreduces cascading where statutory eligibility and compliance conditions are met.\n\nTRAP\ndo not convert a press release into a self-executing tax rate."
+        },
+        {
+          "title": "Compensation bargain, pandemic loans and June 2022 boundary",
+          "structural_type": "gst-compensation-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+          ],
+          "full_text": "COMPENSATION ACT, 2017\nbase year 2015-16 -> projected annual revenue growth 14%\n-> protected revenue minus actual revenue -> compensation gap.\n\nFUNDING\ncompensation cess on specified supplies -> Compensation Fund.\n\nTRANSITION\nfive years from GST introduction -> entitlement ended in June 2022.\n\nPANDEMIC SHOCK\nrevenue/cess shortfall -> back-to-back borrowing arrangement\n-> cess continued for servicing principal and interest.\n\nCURRENT CONTROL: 24 AUGUST 2026\nlater cess collection for loan servicing != renewed five-year compensation entitlement.\n\nREFORM LESSON\nfuture shocks need transparent accounts, predictable settlement and negotiated burden sharing."
+        },
+        {
+          "title": "Mohit Minerals (2022): persuasion and statute-bound delegated action",
+          "structural_type": "gst-mohit-minerals-doctrine",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+          ],
+          "full_text": "Mohit Minerals (2022)\n\nCONSTITUTIONAL HOLDING\nArticle 279A recommendations are persuasive and carry cooperative value;\nthey are not binding commands on Parliament or State legislatures.\n\nWHY\nArticle 246A gives simultaneous legislative power\nand Indian federalism works through dialogue, not Council hierarchy.\n\nSTATUTORY QUALIFICATION\nwhere GST legislation conditions delegated rules or notifications\non Council recommendation, the executive must obey that statute.\n\nCASE RESULT\nocean-freight levy failed within the statutory composite-supply framework.\n\nTRAP\nnon-binding recommendation != irrelevant Council\nand it does not authorise executive action contrary to enacted GST law."
+        },
+        {
+          "title": "Article 279A(11), accountability and dispute design",
+          "structural_type": "gst-dispute-design",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+          ],
+          "full_text": "ARTICLE 279A(11)\nCouncil shall establish a mechanism for specified disputes:\nUnion v State(s) | Union + State(s) v other State(s) | State v State,\narising from recommendations or implementation.\n\nCURRENT CONTROL: 28 AUGUST 2026\nno complete publicly verified adjudicatory mechanism is asserted operational.\n\nDO NOT CONFUSE\nGSTAT/taxpayer appeal != constitutional intergovernmental mechanism.\n\nDESIGN TEST\nneutral panel + jurisdiction + hearing + reasons + time limit + review."
+        },
+        {
+          "title": "Federal gains, autonomy costs and institutional comparisons",
+          "structural_type": "gst-federal-governance-system",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 17"
+          ],
+          "full_text": "GST COUNCIL\ncontinuous bargaining over a pooled indirect-tax base.\n\nFINANCE COMMISSION\nperiodic Article 280 recommendation on divisible taxes and grants.\n\nFEDERAL GAINS\ncommon market + destination settlement + shared rule forum + coordinated compliance.\n\nFEDERAL COSTS\nreduced unilateral State rate space + Union veto capacity\n| compensation trust deficit | unequal administrative capacity.\n\nTECHNOLOGY CHAIN\nregistration -> invoice/reporting -> credit matching -> return/payment\n-> analytics -> audit/appeal.\n\nCAUTION\ndigital trace improves verification but can create exclusion, mismatch and refund burdens.\n\nREFORM\npublish revenue models + reasoned minutes + stable rate design\n-> operational dispute mechanism + stronger State capacity."
+        },
+        {
+          "title": "Current controls, PYQ routes and answer spine",
+          "structural_type": "gst-answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\polity-30_Complete-Learning-Session_2026-08-24.md#SESSION 17"
+          ],
+          "full_text": "DATED ANCHORS\n56th Council meeting release: 3 September 2025.\nApril 2026 Secretariat newsletter: notification-on-recommendation example.\nNo commodity-wise current rate list is frozen.\n\nPRELIMS FIREWALL\nquorum one-half | Union one-third | States two-thirds\n| decision threshold three-fourths weighted\n| alcohol excluded | petroleum deferred | electricity separately treated\n| recommendation != legislation | compensation entitlement ended June 2022.\n\nPYQ ROUTES\n2018 exemption mechanics | 2019 subsumed taxes | 2020 compensation\n| 2023 101st Amendment/federalism | 2025 fiscal-federalism adjacency.\n\nMAINS SPINE\npre-GST defect -> three-Article architecture -> Council bargain\n-> legal-effect limit -> federal gain/cost -> dated anchor\n-> transparent, predictable and cooperative reform verdict."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,715 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-38-42-sequential-batch-2026-08-25",
+  "validated_at": "2026-08-25T09:47:57+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-38",
+      "polity-39",
+      "polity-40",
+      "polity-41",
+      "polity-42"
+    ],
+    "topic_count": 5,
+    "timestamps_monotonic": true,
+    "all_gate_timestamps_monotonic": true,
+    "proof": [
+      {
+        "topic_key": "polity-38",
+        "started_at": "2026-08-25T08:57:12+05:30",
+        "completed_at": "2026-08-25T09:04:10.416216+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-39",
+        "started_at": "2026-08-25T09:14:14+05:30",
+        "completed_at": "2026-08-25T09:18:53.601266+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-40",
+        "started_at": "2026-08-25T09:20:56+05:30",
+        "completed_at": "2026-08-25T09:24:42.367861+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-41",
+        "started_at": "2026-08-25T09:26:39+05:30",
+        "completed_at": "2026-08-25T09:30:40.305579+05:30",
+        "gates_passed": 10
+      },
+      {
+        "topic_key": "polity-42",
+        "started_at": "2026-08-25T09:32:42+05:30",
+        "completed_at": "2026-08-25T09:36:07+05:30",
+        "gates_passed": 10
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 75,
+    "new_topic_records": [
+      "polity-38:learner-v2:g2",
+      "polity-39:learner-v2:g2",
+      "polity-40:learner-v2:g2",
+      "polity-41:learner-v2:g2",
+      "polity-42:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true,
+    "tracker_path": "EXPORT-PDF-STATUS.json"
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-38",
+        "title": "Lokpal and Lokayuktas",
+        "started_at": "2026-08-25T08:57:12+05:30",
+        "completed_at": "2026-08-25T09:04:10.416216+05:30",
+        "record_id": "polity-38:learner-v2:g2",
+        "counts": {
+          "sessions": 26,
+          "main_pdf_pages": 89,
+          "workbook_pdf_pages": 18,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\38-Lokpal-and-Lokayuktas",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-38-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-38-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-38-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-38-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-38.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-38\\carvaka-g2"
+        },
+        "factual_caveat": "Lokpal is a statutory corruption-complaint institution, not a general grievance body, police force or criminal court. The Prime Minister is covered through special filters; parliamentary speech/vote protection, agency dependence, State-law Lokayukta variation and pending litigation must remain expressly qualified.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T08:57:12+05:30",
+          "A_completed": "2026-08-25T08:57:56+05:30",
+          "B_completed": "2026-08-25T08:57:58+05:30",
+          "C_completed": "2026-08-25T08:57:58+05:30",
+          "D_completed": "2026-08-25T08:57:58+05:30",
+          "E_completed": "2026-08-25T08:57:58+05:30",
+          "F_completed": "2026-08-25T08:58:33+05:30",
+          "G_completed": "2026-08-25T08:58:33+05:30",
+          "H_completed": "2026-08-25T09:00:39+05:30",
+          "I_completed": "2026-08-25T09:04:10.416216+05:30",
+          "J_completed": "2026-08-25T09:04:10.416216+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 2,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\38-Lokpal-and-Lokayuktas",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-38-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 89,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 18,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-38\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-38\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 3,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\38-Lokpal-and-Lokayuktas\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\38-Lokpal-and-Lokayuktas\\38-Lokpal-and-Lokayuktas-Continuous-Flow-Learning.pdf",
+            "source_sha256": "5971219c9c7706608e603656159c88dc515cfa507ce9ee51d47f4fd810ede5ed",
+            "destination_sha256": "5971219c9c7706608e603656159c88dc515cfa507ce9ee51d47f4fd810ede5ed",
+            "equal": true,
+            "bytes": 55927
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\38-Lokpal-and-Lokayuktas\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\38-Lokpal-and-Lokayuktas\\38-Lokpal-and-Lokayuktas-Continuous-Flow-Learning.txt",
+            "source_sha256": "bb1530ae14fd9429739c7fb9275c4edaa3a194e1226af21b817c537975203744",
+            "destination_sha256": "bb1530ae14fd9429739c7fb9275c4edaa3a194e1226af21b817c537975203744",
+            "equal": true,
+            "bytes": 6539
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-39",
+        "title": "Cooperative Societies",
+        "started_at": "2026-08-25T09:14:14+05:30",
+        "completed_at": "2026-08-25T09:18:53.601266+05:30",
+        "record_id": "polity-39:learner-v2:g2",
+        "counts": {
+          "sessions": 15,
+          "main_pdf_pages": 67,
+          "workbook_pdf_pages": 17,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 3,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\39-Cooperative-Societies",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-39-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-39-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-39-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-39-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-39.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g2"
+        },
+        "factual_caveat": "After Rajendra N. Shah, Part IXB cannot be written as a uniform binding code for ordinary State-field cooperatives. Article 19(1)(c), Article 43B and the valid multi-State field survive; Ministry, Registrar, financing, representative and operating cooperative bodies remain legally distinct.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T09:14:14+05:30",
+          "A_completed": "2026-08-25T09:15:00+05:30",
+          "B_completed": "2026-08-25T09:15:03+05:30",
+          "C_completed": "2026-08-25T09:15:03+05:30",
+          "D_completed": "2026-08-25T09:15:03+05:30",
+          "E_completed": "2026-08-25T09:15:03+05:30",
+          "F_completed": "2026-08-25T09:15:34+05:30",
+          "G_completed": "2026-08-25T09:15:34+05:30",
+          "H_completed": "2026-08-25T09:18:42+05:30",
+          "I_completed": "2026-08-25T09:18:53.601266+05:30",
+          "J_completed": "2026-08-25T09:18:53.601266+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 5,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\39-Cooperative-Societies",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-39-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 67,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 17,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 2,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\39-Cooperative-Societies\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\39-Cooperative-Societies\\39-Cooperative-Societies-Continuous-Flow-Learning.pdf",
+            "source_sha256": "820a270e1e8de8488289a548a70ea00506647ae5a33afefc579542f8d05fdc31",
+            "destination_sha256": "820a270e1e8de8488289a548a70ea00506647ae5a33afefc579542f8d05fdc31",
+            "equal": true,
+            "bytes": 55913
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\39-Cooperative-Societies\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\39-Cooperative-Societies\\39-Cooperative-Societies-Continuous-Flow-Learning.txt",
+            "source_sha256": "8b92878a51296f4c31c4b7ccd3578598a3d8150ec7230d286db7f0bd9bfa8aef",
+            "destination_sha256": "8b92878a51296f4c31c4b7ccd3578598a3d8150ec7230d286db7f0bd9bfa8aef",
+            "equal": true,
+            "bytes": 6715
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-40",
+        "title": "Official Language",
+        "started_at": "2026-08-25T09:20:56+05:30",
+        "completed_at": "2026-08-25T09:24:42.367861+05:30",
+        "record_id": "polity-40:learner-v2:g2",
+        "counts": {
+          "sessions": 23,
+          "main_pdf_pages": 84,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 1,
+          "supporting_pyqs": 0,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-40-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-40-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-40-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-40-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-40.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\polity-40_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g2"
+        },
+        "factual_caveat": "India has an official-language settlement, not a constitutionally declared national language. English continuation is statutory; State, court, grievance, minority-instruction, scheduled, classical and education-policy categories must not be collapsed.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T09:20:56+05:30",
+          "A_completed": "2026-08-25T09:22:01+05:30",
+          "B_completed": "2026-08-25T09:22:03+05:30",
+          "C_completed": "2026-08-25T09:22:03+05:30",
+          "D_completed": "2026-08-25T09:22:03+05:30",
+          "E_completed": "2026-08-25T09:22:03+05:30",
+          "F_completed": "2026-08-25T09:22:35+05:30",
+          "G_completed": "2026-08-25T09:22:35+05:30",
+          "H_completed": "2026-08-25T09:24:31+05:30",
+          "I_completed": "2026-08-25T09:24:42.367861+05:30",
+          "J_completed": "2026-08-25T09:24:42.367861+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 2,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\40-Official-Language",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-40-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 84,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 3,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\40-Official-Language\\40-Official-Language-Continuous-Flow-Learning.pdf",
+            "source_sha256": "d7044b1308651202ec2884cbc6c1c2532ed144921bff54529783a27d4cf500f5",
+            "destination_sha256": "d7044b1308651202ec2884cbc6c1c2532ed144921bff54529783a27d4cf500f5",
+            "equal": true,
+            "bytes": 55692
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\40-Official-Language\\40-Official-Language-Continuous-Flow-Learning.txt",
+            "source_sha256": "e12f150b8bec028739153cf61b78de7269985941a4a2a22c7a86895f1d12c1ce",
+            "destination_sha256": "e12f150b8bec028739153cf61b78de7269985941a4a2a22c7a86895f1d12c1ce",
+            "equal": true,
+            "bytes": 6606
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-41",
+        "title": "Public Services",
+        "started_at": "2026-08-25T09:26:39+05:30",
+        "completed_at": "2026-08-25T09:30:40.305579+05:30",
+        "record_id": "polity-41:learner-v2:g2",
+        "counts": {
+          "sessions": 36,
+          "main_pdf_pages": 90,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 0,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\41-Public-Services",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-41-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-41-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-41-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-41.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\polity-41_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g2"
+        },
+        "factual_caveat": "Public Services owns the service relationship under Articles 308-314, not the separate PSC institutional topic. Pleasure is constitutionally fettered; Article 311 is a procedural shield, not immunity; public-sector, contractual, constitutional-office and civil-post categories require separate legal tests.",
+        "gates_passed": 10,
+        "gate_times": {
+          "A_started": "2026-08-25T09:26:39+05:30",
+          "A_completed": "2026-08-25T09:27:44+05:30",
+          "B_completed": "2026-08-25T09:27:46+05:30",
+          "C_completed": "2026-08-25T09:27:46+05:30",
+          "D_completed": "2026-08-25T09:27:46+05:30",
+          "E_completed": "2026-08-25T09:27:47+05:30",
+          "F_completed": "2026-08-25T09:28:22+05:30",
+          "G_completed": "2026-08-25T09:28:22+05:30",
+          "H_completed": "2026-08-25T09:30:29+05:30",
+          "I_completed": "2026-08-25T09:30:40.305579+05:30",
+          "J_completed": "2026-08-25T09:30:40.305579+05:30"
+        },
+        "approved": false,
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 2,
+          "original_mains_authored": 8
+        },
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\41-Public-Services",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-41-flow-learning-2026-08-25-validation.json",
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 90,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 7,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\41-Public-Services\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\41-Public-Services\\41-Public-Services-Continuous-Flow-Learning.pdf",
+            "source_sha256": "b672302e59a9ad34a13897dd81b30becea755c6ca1b8978f608f1d856d7a91b6",
+            "destination_sha256": "b672302e59a9ad34a13897dd81b30becea755c6ca1b8978f608f1d856d7a91b6",
+            "equal": true,
+            "bytes": 56165
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\41-Public-Services\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\41-Public-Services\\41-Public-Services-Continuous-Flow-Learning.txt",
+            "source_sha256": "014d90756b307e2172582a3a9c4832affc1239d2990d4990de5ee8e42bc12a59",
+            "destination_sha256": "014d90756b307e2172582a3a9c4832affc1239d2990d4990de5ee8e42bc12a59",
+            "equal": true,
+            "bytes": 7147
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      },
+      {
+        "topic_key": "polity-42",
+        "title": "Anti Defection Law",
+        "started_at": "2026-08-25T09:32:42+05:30",
+        "completed_at": "2026-08-25T09:36:07+05:30",
+        "gate_times": {
+          "A_started": "2026-08-25T09:32:42+05:30",
+          "A_completed": "2026-08-25T09:33:08+05:30",
+          "B_completed": "2026-08-25T09:33:11+05:30",
+          "C_completed": "2026-08-25T09:33:11+05:30",
+          "D_completed": "2026-08-25T09:33:11+05:30",
+          "E_completed": "2026-08-25T09:33:11+05:30",
+          "F_completed": "2026-08-25T09:35:38+05:30",
+          "G_completed": "2026-08-25T09:35:38+05:30",
+          "H_completed": "2026-08-25T09:35:43+05:30",
+          "I_completed": "2026-08-25T09:36:04+05:30",
+          "J_completed": "2026-08-25T09:36:07+05:30"
+        },
+        "record_id": "polity-42:learner-v2:g2",
+        "approved": false,
+        "counts": {
+          "sessions": 27,
+          "main_pdf_pages": 83,
+          "workbook_pdf_pages": 15,
+          "mcqs": 48,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 1,
+          "original_mains": 8,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9,
+          "flow_pages": 9
+        },
+        "workbook_authoring_gate": {
+          "mcqs_authored": 48,
+          "pyq_routes_authored": 3,
+          "original_mains_authored": 8
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\42-Anti-Defection-Law",
+        "flow_library_path": "notes\\Flow-Learning\\Polity\\42-Anti-Defection-Law",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-42-source-pyq-current-audit-2026-08-25.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-42-validation-2026-08-25.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-42-new-topic-2026-08-25.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-42.json",
+        "flow_validation": "upsc-ai-kit\\manifests\\exports\\polity-42-flow-learning-2026-08-25-validation.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Solved-Practice-Workbook_2026-08-25.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Complete-Learning-Session_2026-08-25.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\polity-42_Solved-Practice-Workbook_2026-08-25.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g2"
+        },
+        "factual_caveat": "The Tenth Schedule disqualifies specified conduct; it does not criminalise defection or make every dissenting speech a whip breach. Speaker delay, resignation, merger and party-identity disputes require chronology, natural justice, judicial review and pending-case qualifications.",
+        "gates_passed": 10,
+        "preservation": {
+          "existing_clean_mismatches": [],
+          "existing_flow_mismatches": [],
+          "prior_new_topic_mismatches": []
+        },
+        "mcq_rotation_repaired_at": "2026-08-25T09:47:39+05:30",
+        "gate_timestamps_monotonic": true,
+        "legacy_record_retained": true,
+        "source_audit_status": "passed",
+        "topic_completeness_status": "passed",
+        "pdf_layout": {
+          "main": {
+            "page_count": 83,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 15,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "ascii_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g2\\embedded-ascii-contact.png",
+        "graphical_contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g2\\previews\\contact-sheet-01.png",
+        "graphical_same_master": true,
+        "case_year": {
+          "status": "passed",
+          "expected_case_count": 6,
+          "errors": []
+        },
+        "flow_hashes": {
+          "pdf": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\42-Anti-Defection-Law\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+            "destination": "notes\\Flow-Learning\\Polity\\42-Anti-Defection-Law\\42-Anti-Defection-Law-Continuous-Flow-Learning.pdf",
+            "source_sha256": "f5e8967fed5f7823625f3d2cc15e5c81619e8bf0e26904613ecfae8c6c9db3f4",
+            "destination_sha256": "f5e8967fed5f7823625f3d2cc15e5c81619e8bf0e26904613ecfae8c6c9db3f4",
+            "equal": true,
+            "bytes": 55791
+          },
+          "txt": {
+            "source": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\42-Anti-Defection-Law\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+            "destination": "notes\\Flow-Learning\\Polity\\42-Anti-Defection-Law\\42-Anti-Defection-Law-Continuous-Flow-Learning.txt",
+            "source_sha256": "ecc1fe6030cbbd1cc00cff3ad30553ef1e6a56e9d0634f3b3cc00b80f5ec67df",
+            "destination_sha256": "ecc1fe6030cbbd1cc00cff3ad30553ef1e6a56e9d0634f3b3cc00b80f5ec67df",
+            "equal": true,
+            "bytes": 6554
+          }
+        },
+        "flow_status": "passed",
+        "mcq_key_counts": {
+          "A": 12,
+          "B": 12,
+          "C": 12,
+          "D": 12
+        },
+        "control_date_compliant": true
+      }
+    ],
+    "totals": {
+      "sessions": 127,
+      "main_pdf_pages": 413,
+      "workbook_pdf_pages": 80,
+      "mcqs": 240,
+      "verified_pyqs": 4,
+      "supporting_pyqs": 5,
+      "original_mains": 40,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45,
+      "flow_pages": 45
+    }
+  },
+  "inventories": {
+    "four_item_topics": 75,
+    "four_item_links_checked": 908,
+    "polity_flow_topics": 42,
+    "polity_flow_links_checked": 688,
+    "full_flow_topics": 75,
+    "full_flow_links_checked": 688,
+    "full_flow_topic_artifact_files_checked": 225,
+    "full_flow_pages": 660
+  },
+  "preservation": {
+    "prior_clean_artifact_files": 560,
+    "prior_flow_artifact_files": 210,
+    "clean_hash_mismatches": [],
+    "flow_hash_mismatches": [],
+    "prior_generated_hash_mismatches": []
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_v2_topic_command_catalog tools.test_v2_section_indexes tools.test_v2_export_foundation tools.test_retrofit_v2_core_first tools.test_refresh_all_v2_learning_sessions tools.test_polity_flowchart_case_years tools.test_plan_v2_topic_batch tools.test_export_four_item_library tools.test_export_flow_learning_library tools.test_carvaka_flowchart -q",
+    "passed": 127,
+    "failed": 0
+  },
+  "checks": {
+    "strict_sequence": true,
+    "all_gate_timestamps_monotonic": true,
+    "all_gates_passed": true,
+    "source_pyq_current_audits_passed": true,
+    "tracker_records_unapproved": true,
+    "legacy_history_retained": true,
+    "control_dates_passed": true,
+    "pdf_layouts_passed": true,
+    "ascii_equal": true,
+    "graphical_same_master": true,
+    "case_years_passed": true,
+    "mcq_rotation_passed": true,
+    "prior_70_clean_hashes_preserved": true,
+    "prior_70_flow_hashes_preserved": true,
+    "prior_generated_topics_preserved": true,
+    "four_item_inventory_75": true,
+    "polity_flow_inventory_42": true,
+    "full_flow_inventory_75": true,
+    "four_item_links_passed": true,
+    "polity_flow_links_passed": true,
+    "full_flow_links_passed": true,
+    "targeted_regressions_passed": true
+  },
+  "evidence_paths": {
+    "state": "upsc-ai-kit\\manifests\\exports\\polity-38-42-sequential-batch-2026-08-25-state.json",
+    "case_year": "upsc-ai-kit\\manifests\\exports\\polity-flowchart-case-year-2026-08-25-validation.json",
+    "four_item": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-25-validation.json",
+    "polity_flow": "upsc-ai-kit\\manifests\\exports\\polity-01-42-flow-learning-2026-08-25-validation.json",
+    "full_flow": "upsc-ai-kit\\manifests\\exports\\all-completed-topics-flow-learning-2026-08-25-validation.json",
+    "report": "notes\\Final-Learning-Packages\\POLITY-38-42-SEQUENTIAL-BATCH-REPORT.md",
+    "changed_files": "upsc-ai-kit\\manifests\\exports\\polity-38-42-sequential-batch-2026-08-25-changed-files.txt",
+    "changed_files_count": 336
+  }
+}

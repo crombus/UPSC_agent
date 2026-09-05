@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "polity-49-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "8-10",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-49": {
+      "title": "Regulatory State and Quasi Judicial Institutions",
+      "source_record": "polity-49:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md",
+      "quality_review": "Manual topic-specific review against the complete Core, optional Advanced, routed PYQs, traps and answer architecture.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Why the regulatory state emerged",
+          "structural_type": "regulatory-rationale-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+          ],
+          "full_text": "ROOT QUESTION\nHow can the State govern complex markets and rights without daily ministerial case control?\n\nLIBERALISATION/SPECIALISATION\nless direct production -> more rule-setting, network access, prudential oversight\n-> consumer/competition protection -> specialised enforcement and adjudication.\n\n+-- MARKET FAILURES ----- monopoly | information asymmetry | externality | systemic risk\n+-- GOVERNANCE NEEDS ---- expertise | continuity | credible commitment | rapid updating\n+-- CONSTITUTIONAL NEED - mandate | fairness | reasons | appeal | review | accountability\n\nVERDICT\nRegulation is a change in State technique, not disappearance of the State."
+        },
+        {
+          "title": "Source, function and decisional character",
+          "structural_type": "three-axis-taxonomy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+          ],
+          "full_text": "                         BODY / AUTHORITY\n              +--------------+---------------+----------------+\n              v              v               v\nLEGAL SOURCE             PRIMARY FUNCTION   CHARACTER OF ACT\nconstitutional           regulatory         quasi-legislative rule\nstatutory                advisory           administrative inquiry\nexecutive                investigative      quasi-judicial order\n\nEXAMPLES\nRBI/SEBI/TRAI/CERC/IRDAI/CCI -> statutory regulators with different mandates.\n\nMASTER TRAP\none body may occupy several boxes; it is not quasi-judicial in every function."
+        },
+        {
+          "title": "Regulatory cycle and separation problem",
+          "structural_type": "regulatory-cycle",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+          ],
+          "full_text": "PARENT ACT\n   v\nregulation/standard -> licence/tariff -> data/monitoring -> investigation\n   v\nshow-cause notice -> hearing -> reasoned order/penalty -> statutory appeal\n   v\nHigh Court/Supreme Court constitutional review.\n\nCONCENTRATION RISK\nmake rule + investigate + prosecute + decide -> confirmation bias/self-vindication.\n\nSAFEGUARDS\nseparate wings | disclosure | unbiased member | recusal | reasons | external appeal.\n\nANSWER STRIP\nEfficiency can justify combined functions; fairness requires functional separation."
+        },
+        {
+          "title": "Natural justice and delegated-power cases",
+          "structural_type": "case-doctrine-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+          ],
+          "full_text": "In re Delhi Laws Act (1951)\n-> essential legislative function cannot be abdicated.\n             v\nA.K. Kraipak v. Union of India (1969)\n-> bias rule; administrative/quasi-judicial line is thin.\n             v\nManeka Gandhi (1978) -> fair, just and reasonable procedure.\n             v\nS.N. Mukherjee v. Union of India (1990) -> reasoned decision supports review.\n\nNATURAL-JUSTICE CORE\nnotice + hearing + no bias + relevant evidence + speaking order.\n\nLIMIT\nprocedure is context-sensitive; statutory silence is not permission for arbitrariness."
+        },
+        {
+          "title": "Regulator, tribunal, commission and court",
+          "structural_type": "institution-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+          ],
+          "full_text": "COURT\ngeneral constitutional/statutory adjudication + formal judicial authority.\n\nTRIBUNAL\nspecialised statutory adjudication -> merits appeal/review chain.\n\nREGULATOR\nsector rule/licence/supervision/enforcement + case-specific adjudication when empowered.\n\nCOMMISSION\nname alone proves nothing: may advise, investigate, regulate or adjudicate.\n\nL. Chandra Kumar (1997)\ntribunalisation cannot remove High Court judicial review.\n\nTRAP\nspecialised != tribunal | civil-court powers != court | recommendation != binding order."
+        },
+        {
+          "title": "Regulator power, appealability and judicial control",
+          "structural_type": "regulator-case-control",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+          ],
+          "full_text": "            Competition Commission of India v. SAIL (2010)\n-> statutory stage and character determine hearing/appealability;\nnot every CCI step is a final quasi-judicial order.\n\nCellular Operators Association of India v. TRAI (2016)\n-> regulation must remain within statute and satisfy non-arbitrariness.\n\nAPPEAL CHAIN EXAMPLES\nSEBI -> SAT -> Supreme Court question of law.\nCCI -> NCLAT -> Supreme Court.\nTRAI dispute/appeal field -> TDSAT -> Supreme Court.\nCERC/SERC -> APTEL -> Supreme Court.\n\nLIMIT\nstatutory merits appeal differs from Article 226/227 legality review."
+        },
+        {
+          "title": "Independence, accountability and capture",
+          "structural_type": "independence-capture-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+          ],
+          "full_text": "INDEPENDENCE AXES\nappointment | tenure | removal | finance | staff/data | decisional non-interference.\n\nCAPTURE BRANCHES\nindustry -> information/revolving door/cognitive dependence.\npolitical -> short-term direction or insecure tenure.\nbureaucratic -> parent ministry treats regulator as subordinate office.\n\nACCOUNTABILITY\nparent Act | Parliament/report | CAG where applicable | RTI\n| consultation | published reasons | appeal | judicial review.\n\nANSWER STRIP\nIndependence means insulation from case-specific control, not freedom from public reasons."
+        },
+        {
+          "title": "Digital and platform regulation with legal-status firewall",
+          "structural_type": "digital-regulation-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "DIGITAL HARMS\nnetwork effects | data concentration | self-preferencing | dark patterns\n| algorithmic opacity | consumer/child/cyber risk.\n\n                    TOOL CHOICE\ncompetition law --+-- data-protection duty\nconsumer law -----+-- sector regulation\ncyber law --------+-- interoperability/access obligation.\n\nREFORM TEST\nclear harm -> statutory power -> impact assessment -> consultation\n-> conflict control -> proportionate rule -> appeal -> ex-post review.\n\nCURRENT FIREWALL\ndated Act/rule/order != draft Bill/committee paper/proposal."
+        },
+        {
+          "title": "Enabling laws and appellate routes",
+          "structural_type": "sector-law-appeal-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md#SESSION 64"
+          ],
+          "full_text": "SOURCE -> REGULATOR -> APPEAL\nRBI Act 1934 / Banking Regulation Act 1949 -> RBI -> remedy depends on power\nSEBI Act 1992 -> SEBI -> SAT -> Supreme Court\nTRAI Act 1997 -> TRAI -> TDSAT -> Supreme Court\nCompetition Act 2002 -> CCI -> NCLAT -> Supreme Court\nElectricity Act 2003 -> CERC/SERC -> APTEL -> Supreme Court\nPNGRB Act 2006 -> downstream/midstream field; crude oil/gas production excluded\n\nANSWER STRIP\nNever infer power or appeal from an institutional label; trace the parent Act."
+        },
+        {
+          "title": "Quasi-judicial decision protocol",
+          "structural_type": "fair-decision-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md#SESSION 65"
+          ],
+          "full_text": "STATUTORY POWER -> COMPETENT STAGE -> NOTICE + DISCLOSURE\n-> OPPORTUNITY TO ANSWER -> NO BIAS / RECUSAL -> RELEVANT EVIDENCE\n-> REASONED PROPORTIONATE ORDER -> STATUTORY APPEAL\n-> CONSTITUTIONAL REVIEW ON ITS PROPER FIELD\n\nDOCTRINE\nA.K. Kraipak v. Union of India (1969): thin administrative/quasi-judicial line\nS.N. Mukherjee v. Union of India (1990): reasons support review\nL. Chandra Kumar (1997): constitutional review floor\nCompetition Commission of India v. SAIL (2010): statutory stage controls appealability\n\nANSWER STRIP\nNatural justice is context-sensitive, but expertise is not a licence for arbitrariness."
+        },
+        {
+          "title": "PYQ execution and reform diagnosis",
+          "structural_type": "answer-execution-framework",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "PRELIMS\nsource -> function -> jurisdiction exclusion -> appellate route -> current-status firewall\n\nMAINS\nidentify demand -> qualified thesis -> statute/case -> mechanism\n-> limitation/capture -> answer-specific reform -> balanced verdict\n\nREFORM MATCH\nmandate gap -> clarify law | capacity gap -> staff/data\nbias risk -> functional separation | capture -> conflicts/consultation\nfragmentation -> referral protocol | weak remedy -> coherent appeal\n\nANSWER STRIP\nA reform earns marks when it repairs the diagnosed institutional failure."
+        },
+        {
+          "title": "UPSC synthesis: calibrated independence under law",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\polity-49_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+          ],
+          "full_text": "PRELIMS FIREWALL\nstatutory != regulatory != quasi-judicial | dominance != abuse\n| NGT != CPCB | TRAI != TDSAT | CCI appeal=NCLAT\n| regulator independent != beyond Parliament | proposal != law.\n\nMAINS SPINE\nrationale -> three axes -> regulatory cycle -> natural justice\n-> institutional comparison -> appeal/review -> independence/capture\n-> digital boundary -> reform.\n\nPYQ SPINE\nNGT/CPCB | FSSAI source | CCI dominance | PNGRB jurisdiction.\n\nVERDICT\nexpert regulation is legitimate only when mandate, fairness, reasons and review converge."
+        }
+      ]
+    }
+  }
+}

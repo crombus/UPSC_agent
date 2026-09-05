@@ -1,0 +1,1047 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-15",
+  "subject": "Polity",
+  "title": "PRESIDENT AND VICE PRESIDENT",
+  "short_route": "TWO OFFICES → ELECTION LAW → VOTE VALUE → LIFECYCLE → ADVICE → POWERS → VETO → ORDINANCE → CLEMENCY → VICE-PRESIDENT → CHAIR → EXAM SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "DEEP-CONTENT REVALIDATION PENDING",
+    "line": "Approval: FALSE • immutable successor generation pending • complete Core before optional enrichment"
+  },
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-15-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "986b5cbbd6318e68fbed360edf8fa5c24c02ddd1e3f0384181f4a9af08038afa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO OFFICES, PARLIAMENTARY DESIGN AND CURRENT CONTROL",
+      "structural_type": "architecture-columns",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PRESIDENT: ARTICLES 52-62, 72 AND 74; CONSTITUTIONAL HEAD OF STATE",
+          "role": "primary"
+        },
+        {
+          "text": "VICE-PRESIDENT: ARTICLES 63-71; REGULAR ROLE IS RAJYA SABHA CHAIR",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 53, 74 AND 75 MAKE THE PRESIDENT NOMINAL IN ORDINARY GOVERNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "THE VICE-PRESIDENT ACTS TEMPORARILY, NEVER SUCCEEDS FOR AN UNEXPIRED TERM",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT 28 AUG 2026: DROUPADI MURMU IS PRESIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CURRENT 28 AUG 2026: C. P. RADHAKRISHNAN IS VICE-PRESIDENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRESIDENT: Articles 52-62, 72 and 74; constitutional Head of State",
+        "VICE-PRESIDENT: Articles 63-71; regular role is Rajya Sabha Chair",
+        "Articles 53, 74 and 75 make the President nominal in ordinary government",
+        "The Vice-President acts temporarily, never succeeds for an unexpired term",
+        "CURRENT 28 AUG 2026: Droupadi Murmu is President"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "PRESIDENT: Articles 52-62, 72 and 74; constitutional Head of State",
+            "VICE-PRESIDENT: Articles 63-71; regular role is Rajya Sabha Chair"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Articles 53, 74 and 75 make the President nominal in ordinary government",
+            "The Vice-President acts temporarily, never succeeds for an unexpired term"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT 28 AUG 2026: Droupadi Murmu is President",
+            "CURRENT 28 AUG 2026: C. P. Radhakrishnan is Vice-President"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRESIDENT: Articles 52-62, 72 and 74; constitutional Head of State",
+            "VICE-PRESIDENT: Articles 63-71; regular role is Rajya Sabha Chair"
+          ]
+        }
+      ],
+      "mechanism_strip": "Parliamentary government separates formal constitutional dignity from politically accountable executive power.",
+      "answer_line": "The President is a constitutional sentinel without a rival popular mandate; the Vice-President is principally a parliamentary presiding officer.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ELECTION COLLEGES AND STATUTORY TIMELINE",
+      "structural_type": "election-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARTICLE 54: ELECTED MPS PLUS ELECTED STATE, DELHI AND PUDUCHERRY MLAS",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENT EXCLUDES: NOMINATED MEMBERS AND ALL LEGISLATIVE COUNCIL MEMBERS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 66: BOTH HOUSES OF PARLIAMENT, ELECTED AND NOMINATED; NO MLAS",
+          "role": "evidence"
+        },
+        {
+          "text": "1952 ACT: NOTIFICATION, NOMINATION, SCRUTINY, WITHDRAWAL, POLL AND PETITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1974 RULES: FORMS, BALLOT AND COUNTING MACHINERY",
+          "role": "outcome"
+        },
+        {
+          "text": "1997 REFORM: PRESIDENT 50+50; VP 20+20; RS 15,000 DEPOSIT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 54: elected MPs plus elected State, Delhi and Puducherry MLAs",
+        "PRESIDENT EXCLUDES: nominated members and all Legislative Council members",
+        "ARTICLE 66: both Houses of Parliament, elected and nominated; no MLAs",
+        "1952 ACT: notification, nomination, scrutiny, withdrawal, poll and petitions",
+        "1974 RULES: forms, ballot and counting machinery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 54: elected MPs plus elected State, Delhi and Puducherry MLAs",
+            "PRESIDENT EXCLUDES: nominated members and all Legislative Council members"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 66: both Houses of Parliament, elected and nominated; no MLAs",
+            "1952 ACT: notification, nomination, scrutiny, withdrawal, poll and petitions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1974 RULES: forms, ballot and counting machinery",
+            "1997 REFORM: President 50+50; VP 20+20; Rs 15,000 deposit"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 54: elected MPs plus elected State, Delhi and Puducherry MLAs",
+            "PRESIDENT EXCLUDES: nominated members and all Legislative Council members"
+          ]
+        }
+      ],
+      "mechanism_strip": "Constitutional electoral design is administered through the 1952 Act, 1974 Rules and anti-frivolous-candidature reform.",
+      "answer_line": "Never transfer one office’s electoral college or nomination threshold to the other.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "VOTE VALUE, PR-STV, COUNT AND ARTICLE 71",
+      "structural_type": "vote-value-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MLA VALUE: 1971 POPULATION / ELECTED MLAS / 1000 WITH CONSTITUTIONAL ROUNDING",
+          "role": "primary"
+        },
+        {
+          "text": "MP VALUE: TOTAL MLA VOTE VALUE / ELECTED MPS OF BOTH HOUSES",
+          "role": "institution"
+        },
+        {
+          "text": "THE SAME ELECTED-MP VOTE VALUE APPLIES IN LOK SABHA AND RAJYA SABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "PR-STV USES RANKED SECRET BALLOTS AND TRANSFERABLE PREFERENCES",
+          "role": "comparison"
+        },
+        {
+          "text": "WINNING QUOTA IS MORE THAN HALF OF VALID VOTE VALUE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 71: SUPREME COURT FINALLY DECIDES BOTH PRESIDENTIAL AND VICE-PRESIDENTIAL DISPUTES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MLA VALUE: 1971 population / elected MLAs / 1000 with constitutional rounding",
+        "MP VALUE: total MLA vote value / elected MPs of both Houses",
+        "The same elected-MP vote value applies in Lok Sabha and Rajya Sabha",
+        "PR-STV uses ranked secret ballots and transferable preferences",
+        "Winning quota is more than half of valid vote value"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "MLA VALUE: 1971 population / elected MLAs / 1000 with constitutional rounding",
+            "MP VALUE: total MLA vote value / elected MPs of both Houses"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "The same elected-MP vote value applies in Lok Sabha and Rajya Sabha",
+            "PR-STV uses ranked secret ballots and transferable preferences"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Winning quota is more than half of valid vote value",
+            "ARTICLE 71: Supreme Court finally decides both presidential and vice-presidential disputes"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "MLA VALUE: 1971 population / elected MLAs / 1000 with constitutional rounding",
+            "MP VALUE: total MLA vote value / elected MPs of both Houses"
+          ]
+        }
+      ],
+      "mechanism_strip": "Weighted votes seek Union-State parity, while transferable preferences seek majority support for a single office.",
+      "answer_line": "Vacancies in the college do not invalidate the election, and a void election does not erase prior official acts.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "QUALIFICATIONS, OATH, TERM, VACANCY, REMOVAL AND IMMUNITY",
+      "structural_type": "lifecycle-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRESIDENT: CITIZEN, 35, LOK SABHA QUALIFICATION, NO DISQUALIFYING OFFICE OF PROFIT",
+          "role": "primary"
+        },
+        {
+          "text": "VICE-PRESIDENT: CITIZEN, 35, RAJYA SABHA QUALIFICATION, NO DISQUALIFYING OFFICE OF PROFIT",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT OATH: CJI OR SENIOR-MOST AVAILABLE SUPREME COURT JUDGE; VP OATH: PRESIDENT OR APPOINTEE",
+          "role": "evidence"
+        },
+        {
+          "text": "BOTH TERMS ARE FIVE YEARS; RE-ELECTION IS NOT CONSTITUTIONALLY CAPPED",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENT CASUAL VACANCY: ELECTION WITHIN SIX MONTHS; VP VACANCY: AS SOON AS POSSIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 61 IMPEACHMENT DIFFERS FROM ARTICLE 67(B) VP REMOVAL; ARTICLE 361 IS PROCEDURAL IMMUNITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRESIDENT: citizen, 35, Lok Sabha qualification, no disqualifying office of profit",
+        "VICE-PRESIDENT: citizen, 35, Rajya Sabha qualification, no disqualifying office of profit",
+        "President oath: CJI or senior-most available Supreme Court judge; VP oath: President or appointee",
+        "Both terms are five years; re-election is not constitutionally capped",
+        "President casual vacancy: election within six months; VP vacancy: as soon as possible"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "PRESIDENT: citizen, 35, Lok Sabha qualification, no disqualifying office of profit",
+            "VICE-PRESIDENT: citizen, 35, Rajya Sabha qualification, no disqualifying office of profit"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "President oath: CJI or senior-most available Supreme Court judge; VP oath: President or appointee",
+            "Both terms are five years; re-election is not constitutionally capped"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "President casual vacancy: election within six months; VP vacancy: as soon as possible",
+            "ARTICLE 61 impeachment differs from Article 67(b) VP removal; Article 361 is procedural immunity"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRESIDENT: citizen, 35, Lok Sabha qualification, no disqualifying office of profit",
+            "VICE-PRESIDENT: citizen, 35, Rajya Sabha qualification, no disqualifying office of profit"
+          ]
+        }
+      ],
+      "mechanism_strip": "Separate eligibility, continuity and removal rules protect each office according to its constitutional function.",
+      "answer_line": "Nominated MPs impeach but do not elect the President; State MLAs elect but do not impeach.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AID, ADVICE AND BOUNDED SITUATIONAL DISCRETION",
+      "structural_type": "advice-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ARTICLE 74: COUNCIL OF MINISTERS WITH PRIME MINISTER AIDS AND ADVISES",
+          "role": "primary"
+        },
+        {
+          "text": "42ND AMENDMENT: ADVICE EXPRESSLY BINDING",
+          "role": "institution"
+        },
+        {
+          "text": "44TH AMENDMENT: ONE RECONSIDERATION; REITERATED ADVICE BINDS",
+          "role": "evidence"
+        },
+        {
+          "text": "SHAMSHER SINGH (1974): CONSTITUTIONAL HEAD WORKS THROUGH RESPONSIBLE GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "HUNG HOUSE: IDENTIFY THE PERSON MOST LIKELY TO COMMAND LOK SABHA CONFIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 163 RECOGNISES ONLY CONSTITUTIONALLY REQUIRED GUBERNATORIAL DISCRETION, NOT AN UNLIMITED DOMAIN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 74: Council of Ministers with Prime Minister aids and advises",
+        "42ND AMENDMENT: advice expressly binding",
+        "44TH AMENDMENT: one reconsideration; reiterated advice binds",
+        "SHAMSHER SINGH (1974): constitutional head works through responsible government",
+        "Hung House: identify the person most likely to command Lok Sabha confidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 74: Council of Ministers with Prime Minister aids and advises",
+            "42ND AMENDMENT: advice expressly binding"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "44TH AMENDMENT: one reconsideration; reiterated advice binds",
+            "SHAMSHER SINGH (1974): constitutional head works through responsible government"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Hung House: identify the person most likely to command Lok Sabha confidence",
+            "ARTICLE 163 recognises only constitutionally required gubernatorial discretion, not an unlimited domain"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 74: Council of Ministers with Prime Minister aids and advises",
+            "42ND AMENDMENT: advice expressly binding"
+          ]
+        }
+      ],
+      "mechanism_strip": "Binding advice governs normal politics; narrow situational judgment protects continuity when a clear accountable majority is absent.",
+      "answer_line": "The President may warn, seek information and return advice once, but cannot create a personal executive programme.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRESIDENTIAL POWER CLUSTERS AND ACCOUNTABILITY",
+      "structural_type": "power-map",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EXECUTIVE: APPOINTMENTS, RULES OF BUSINESS AND ARTICLE 78 INFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATIVE: SESSIONS, DISSOLUTION, ADDRESSES, MESSAGES, NOMINATIONS AND JOINT SITTING",
+          "role": "institution"
+        },
+        {
+          "text": "FINANCIAL: RECOMMENDATION ROUTES, BUDGET, CONTINGENCY FUND AND FINANCE COMMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "JUDICIAL: APPOINTMENTS, ARTICLE 143 REFERENCE AND ARTICLE 72 CLEMENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "DIPLOMATIC AND MILITARY: FORMAL AUTHORITY SUBJECT TO CONSTITUTIONAL GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EMERGENCY: ARTICLES 352, 356 AND 360 UNDER SEPARATE PART XVIII SAFEGUARDS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EXECUTIVE: appointments, Rules of Business and Article 78 information",
+        "LEGISLATIVE: sessions, dissolution, addresses, messages, nominations and joint sitting",
+        "FINANCIAL: recommendation routes, Budget, Contingency Fund and Finance Commission",
+        "JUDICIAL: appointments, Article 143 reference and Article 72 clemency",
+        "DIPLOMATIC AND MILITARY: formal authority subject to constitutional government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "EXECUTIVE: appointments, Rules of Business and Article 78 information",
+            "LEGISLATIVE: sessions, dissolution, addresses, messages, nominations and joint sitting"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FINANCIAL: recommendation routes, Budget, Contingency Fund and Finance Commission",
+            "JUDICIAL: appointments, Article 143 reference and Article 72 clemency"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIPLOMATIC AND MILITARY: formal authority subject to constitutional government",
+            "EMERGENCY: Articles 352, 356 and 360 under separate Part XVIII safeguards"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "EXECUTIVE: appointments, Rules of Business and Article 78 information",
+            "LEGISLATIVE: sessions, dissolution, addresses, messages, nominations and joint sitting"
+          ]
+        }
+      ],
+      "mechanism_strip": "The office has broad formal powers, but ministerial responsibility, statute and judicial review allocate real decision-making authority.",
+      "answer_line": "A complete answer names the exact power, advice route, legal limit and accountability mechanism.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARTICLE 111 VETO AND ARTICLE 201 RESERVED BILLS",
+      "structural_type": "veto-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORDINARY UNION BILL: ASSENT, WITHHOLD OR RETURN ONCE; REPASSAGE REQUIRES ASSENT",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY BILL: ASSENT OR WITHHOLD; CANNOT BE RETURNED",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTION AMENDMENT BILL: ASSENT IS OBLIGATORY AFTER THE 24TH AMENDMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 111 SETS NO DECISION DEADLINE, CREATING THE POCKET-VETO POSSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 201: RESERVED NON-MONEY STATE BILL MAY BE RETURNED THROUGH THE GOVERNOR",
+          "role": "outcome"
+        },
+        {
+          "text": "2025 INSC 1333: NO COURT-MADE RIGID CLOCK OR DEEMED ASSENT; GLARING UNEXPLAINED DELAY REMAINS REVIEWABLE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ORDINARY UNION BILL: assent, withhold or return once; repassage requires assent",
+        "MONEY BILL: assent or withhold; cannot be returned",
+        "CONSTITUTION AMENDMENT BILL: assent is obligatory after the 24th Amendment",
+        "ARTICLE 111 sets no decision deadline, creating the pocket-veto possibility",
+        "ARTICLE 201: reserved non-Money State Bill may be returned through the Governor"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ORDINARY UNION BILL: assent, withhold or return once; repassage requires assent",
+            "MONEY BILL: assent or withhold; cannot be returned"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTION AMENDMENT BILL: assent is obligatory after the 24th Amendment",
+            "ARTICLE 111 sets no decision deadline, creating the pocket-veto possibility"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 201: reserved non-Money State Bill may be returned through the Governor",
+            "2025 INSC 1333: no court-made rigid clock or deemed assent; glaring unexplained delay remains reviewable"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "ORDINARY UNION BILL: assent, withhold or return once; repassage requires assent",
+            "MONEY BILL: assent or withhold; cannot be returned"
+          ]
+        }
+      ],
+      "mechanism_strip": "Bill type and constitutional route determine whether return, withholding, repassage or review is available.",
+      "answer_line": "Do not apply Article 111’s mandatory assent after repassage to a State Bill under Article 201.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARTICLE 123 ORDINANCE LIFECYCLE AND CASE CONTROL",
+      "structural_type": "ordinance-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRIGGER: BOTH HOUSES NOT SIMULTANEOUSLY IN SESSION AND IMMEDIATE ACTION NECESSARY",
+          "role": "primary"
+        },
+        {
+          "text": "FORCE: ACT-LIKE, WITHIN PARLIAMENT COMPETENCE AND FUNDAMENTAL RIGHTS",
+          "role": "institution"
+        },
+        {
+          "text": "CAPACITY: MAY AMEND CENTRAL LAW AND OPERATE RETROSPECTIVELY WITHIN CONSTITUTIONAL LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXIT: LAID BEFORE BOTH HOUSES; CEASES SIX WEEKS AFTER LATER REASSEMBLY UNLESS EARLIER ENDED",
+          "role": "comparison"
+        },
+        {
+          "text": "D.C. WADHWA (1986): ROUTINE RE-PROMULGATION IS FRAUD ON THE CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "KRISHNA KUMAR SINGH (2017): LAYING MANDATORY; SATISFACTION REVIEWABLE; NO AUTOMATIC ENDURING RIGHTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TRIGGER: both Houses not simultaneously in session and immediate action necessary",
+        "FORCE: Act-like, within Parliament competence and Fundamental Rights",
+        "CAPACITY: may amend Central law and operate retrospectively within constitutional limits",
+        "EXIT: laid before both Houses; ceases six weeks after later reassembly unless earlier ended",
+        "D.C. WADHWA (1986): routine re-promulgation is fraud on the Constitution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "TRIGGER: both Houses not simultaneously in session and immediate action necessary",
+            "FORCE: Act-like, within Parliament competence and Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CAPACITY: may amend Central law and operate retrospectively within constitutional limits",
+            "EXIT: laid before both Houses; ceases six weeks after later reassembly unless earlier ended"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "D.C. WADHWA (1986): routine re-promulgation is fraud on the Constitution",
+            "KRISHNA KUMAR SINGH (2017): laying mandatory; satisfaction reviewable; no automatic enduring rights"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRIGGER: both Houses not simultaneously in session and immediate action necessary",
+            "FORCE: Act-like, within Parliament competence and Fundamental Rights"
+          ]
+        }
+      ],
+      "mechanism_strip": "An ordinance bridges an urgent legislative gap; mandatory laying prevents it becoming an executive substitute for Parliament.",
+      "answer_line": "The constitutional cure for ordinance abuse is scrutiny and anti-re-promulgation, not denial of genuine urgency.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARTICLE 72 CLEMENCY, REVIEW AND GOVERNOR CONTRAST",
+      "structural_type": "clemency-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE FORMS: PARDON, REPRIEVE, RESPITE, REMISSION AND COMMUTATION",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENT: COURT-MARTIAL, UNION-FIELD OFFENCES AND EVERY DEATH SENTENCE",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR: STATE FIELD; NO COURT-MARTIAL PARDON AND NO DEATH-SENTENCE PARDON",
+          "role": "evidence"
+        },
+        {
+          "text": "MARU RAM (1980): CLEMENCY FOLLOWS BINDING MINISTERIAL ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "KEHAR SINGH (1988): EXECUTIVE MAY EXAMINE MERITS AFRESH WITHOUT BECOMING AN APPELLATE COURT",
+          "role": "outcome"
+        },
+        {
+          "text": "EPURU SUDHAKAR (2006): LIMITED REVIEW FOR MALA FIDES, ARBITRARINESS AND MATERIAL DEFECTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FIVE FORMS: pardon, reprieve, respite, remission and commutation",
+        "PRESIDENT: court-martial, Union-field offences and every death sentence",
+        "GOVERNOR: State field; no court-martial pardon and no death-sentence pardon",
+        "MARU RAM (1980): clemency follows binding ministerial advice",
+        "KEHAR SINGH (1988): executive may examine merits afresh without becoming an appellate court"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "FIVE FORMS: pardon, reprieve, respite, remission and commutation",
+            "PRESIDENT: court-martial, Union-field offences and every death sentence"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "GOVERNOR: State field; no court-martial pardon and no death-sentence pardon",
+            "MARU RAM (1980): clemency follows binding ministerial advice"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "KEHAR SINGH (1988): executive may examine merits afresh without becoming an appellate court",
+            "EPURU SUDHAKAR (2006): limited review for mala fides, arbitrariness and material defects"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "FIVE FORMS: pardon, reprieve, respite, remission and commutation",
+            "PRESIDENT: court-martial, Union-field offences and every death sentence"
+          ]
+        }
+      ],
+      "mechanism_strip": "Clemency is executive grace structured by jurisdiction, responsible-government advice and rule-of-law review.",
+      "answer_line": "Courts review defects in clemency decision-making; they do not substitute their own mercy decision.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "VICE-PRESIDENT: ELECTION, TERM, REMOVAL AND VACANCY",
+      "structural_type": "vp-lifecycle",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARTICLE 66: ALL ELECTED AND NOMINATED MPS; EQUAL VOTES; PR-STV SECRET BALLOT",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFICATION: CITIZEN, 35 AND QUALIFIED FOR RAJYA SABHA",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 67(B): RAJYA SABHA EFFECTIVE-MAJORITY RESOLUTION; LOK SABHA AGREEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "REMOVAL BEGINS ONLY IN RAJYA SABHA, NEEDS 14 DAYS NOTICE AND STATES NO GROUND",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 68: CASUAL VACANCY ELECTION AS SOON AS POSSIBLE, WITH A FRESH FIVE-YEAR TERM",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 71: SUPREME COURT ELECTION-DISPUTE ROUTE APPLIES TO THE VICE-PRESIDENT TOO",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 66: all elected and nominated MPs; equal votes; PR-STV secret ballot",
+        "QUALIFICATION: citizen, 35 and qualified for Rajya Sabha",
+        "ARTICLE 67(b): Rajya Sabha effective-majority resolution; Lok Sabha agreement",
+        "Removal begins only in Rajya Sabha, needs 14 days notice and states no ground",
+        "ARTICLE 68: casual vacancy election as soon as possible, with a fresh five-year term"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 66: all elected and nominated MPs; equal votes; PR-STV secret ballot",
+            "QUALIFICATION: citizen, 35 and qualified for Rajya Sabha"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 67(b): Rajya Sabha effective-majority resolution; Lok Sabha agreement",
+            "Removal begins only in Rajya Sabha, needs 14 days notice and states no ground"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 68: casual vacancy election as soon as possible, with a fresh five-year term",
+            "ARTICLE 71: Supreme Court election-dispute route applies to the Vice-President too"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 66: all elected and nominated MPs; equal votes; PR-STV secret ballot",
+            "QUALIFICATION: citizen, 35 and qualified for Rajya Sabha"
+          ]
+        }
+      ],
+      "mechanism_strip": "The Vice-President’s narrower parliamentary electorate matches the office’s principal Rajya Sabha function.",
+      "answer_line": "Vice-presidential removal is not impeachment, and its casual-vacancy rule has no presidential six-month deadline.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RAJYA SABHA CHAIRMAN AND ACTING-PRESIDENT ROLE",
+      "structural_type": "chairman-role",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 64: EX-OFFICIO CHAIRMAN AND NOT A RAJYA SABHA MEMBER",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 100: NO FIRST VOTE; CASTING VOTE ON EQUALITY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 92: DURING OWN REMOVAL DEBATE, MAY SPEAK BUT CANNOT PRESIDE OR VOTE",
+          "role": "evidence"
+        },
+        {
+          "text": "TENTH SCHEDULE: DECIDES RAJYA SABHA DEFECTION CASES SUBJECT TO JUDICIAL REVIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 65: ACTS AS PRESIDENT DURING VACANCY OR INABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "WHILE ACTING AS PRESIDENT, DEPUTY CHAIRMAN PERFORMS RAJYA SABHA CHAIR DUTIES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 64: ex-officio Chairman and not a Rajya Sabha member",
+        "ARTICLE 100: no first vote; casting vote on equality",
+        "ARTICLE 92: during own removal debate, may speak but cannot preside or vote",
+        "TENTH SCHEDULE: decides Rajya Sabha defection cases subject to judicial review",
+        "ARTICLE 65: acts as President during vacancy or inability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "ARTICLE 64: ex-officio Chairman and not a Rajya Sabha member",
+            "ARTICLE 100: no first vote; casting vote on equality"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 92: during own removal debate, may speak but cannot preside or vote",
+            "TENTH SCHEDULE: decides Rajya Sabha defection cases subject to judicial review"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 65: acts as President during vacancy or inability",
+            "While acting as President, Deputy Chairman performs Rajya Sabha Chair duties"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 64: ex-officio Chairman and not a Rajya Sabha member",
+            "ARTICLE 100: no first vote; casting vote on equality"
+          ]
+        }
+      ],
+      "mechanism_strip": "The Chair’s procedural authority becomes legitimate only through consistent, reasoned and visibly impartial exercise.",
+      "answer_line": "For the 2022 PYQ, compare the Chairman with the Lok Sabha Speaker and end on federal-chamber neutrality.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ FIREWALL, ANSWER SPINES AND QUALIFIED VERDICT",
+      "structural_type": "exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EIGHT VERIFIED PYQS: 2018, 2022, 2023 AND 2025 ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS: COLLEGES, VOTE VALUES, VOID ELECTION, ASSENT, ORDINANCE AND CLEMENCY",
+          "role": "institution"
+        },
+        {
+          "text": "10 MARKS: PROVISION -> MECHANISM -> CASE/EXAMPLE -> LIMIT -> VERDICT",
+          "role": "evidence"
+        },
+        {
+          "text": "15 MARKS: DESIGN -> PROCEDURE -> COMPARISON/CRITIQUE -> BALANCED VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "20 MARKS: CONSTITUTIONAL POSITION -> POWER CLUSTERS -> ADVICE/REVIEW -> REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "STRICT PRACTICE: 28 ORIGINAL + 8 REMEDIAL MCQS IN ABCD X 9 ROTATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EIGHT VERIFIED PYQS: 2018, 2022, 2023 and 2025 routes",
+        "PRELIMS: colleges, vote values, void election, assent, ordinance and clemency",
+        "10 MARKS: provision -> mechanism -> case/example -> limit -> verdict",
+        "15 MARKS: design -> procedure -> comparison/critique -> balanced verdict",
+        "20 MARKS: constitutional position -> power clusters -> advice/review -> reform"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "EIGHT VERIFIED PYQS: 2018, 2022, 2023 and 2025 routes",
+            "PRELIMS: colleges, vote values, void election, assent, ordinance and clemency"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "10 MARKS: provision -> mechanism -> case/example -> limit -> verdict",
+            "15 MARKS: design -> procedure -> comparison/critique -> balanced verdict"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "20 MARKS: constitutional position -> power clusters -> advice/review -> reform",
+            "STRICT PRACTICE: 28 original + 8 remedial MCQs in ABCD x 9 rotation"
+          ]
+        },
+        {
+          "heading": "DEMOCRATIC / EXAM IMPACT",
+          "role": "outcome",
+          "items": [
+            "EIGHT VERIFIED PYQS: 2018, 2022, 2023 and 2025 routes",
+            "PRELIMS: colleges, vote values, void election, assent, ordinance and clemency"
+          ]
+        }
+      ],
+      "mechanism_strip": "Exam execution moves from the exact Article to mechanism, evidence, qualification and a directive-sensitive conclusion.",
+      "answer_line": "The two offices preserve continuity without displacing parliamentary responsibility: dignity and discretion remain constitutionally bounded.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT — NOT REQUIRED FOR A COMPETENT CORE ANSWER",
+      "structural_type": "optional-comparative-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INDIA-FRANCE PRESIDENTIAL MANDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-USA PARDON STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CEREMONIAL HEAD THEORY",
+          "role": "evidence"
+        },
+        {
+          "text": "CHAIRMANSHIP REFORM DEBATE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL COMPARISON",
+          "role": "comparison",
+          "items": [
+            "France uses direct two-round popular election for an active semi-presidential office.",
+            "The US pardon is personal federal executive power rather than Indian ministerially advised clemency."
+          ]
+        },
+        {
+          "heading": "USE WITH RESTRAINT",
+          "role": "caution",
+          "items": [
+            "This enrichment is unnecessary for a competent Core answer.",
+            "Use it only after completing the exact Indian constitutional mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "This enrichment follows the complete Core and is unnecessary for a competent Core answer.",
+      "answer_line": "Comparative depth earns marks only when the Indian constitutional rule remains exact.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-15\\g3-source\\polity-15_g3-reviewed-source.md"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

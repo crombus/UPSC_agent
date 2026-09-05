@@ -1,0 +1,345 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-28",
+  "scope": "Political Theory subject-wide syllabus topic 23",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-23",
+      "title": "Contemporary Democracy, Social Change and Development",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-23_Learning-Session.md",
+      "source_record": "political-theory-23:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "The Contemporary-Democracy Map and Stakes",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Contemporary-Democracy Map and Stakes",
+            "  [1] Elitist democracy reduces democracy to competitive leadership choice.",
+            "        |",
+            "        v",
+            "  [2] Pluralism spreads influence across organised groups, not one sovereign people.",
+            "        |",
+            "        v",
+            "  [3] Participatory democracy widens citizen action beyond periodic voting.",
+            "        |",
+            "        v",
+            "  [4] Deliberative democracy adds reason-giving, revisability and justification.",
+            "        |",
+            "        v",
+            "VERDICT -> Democracy in mass society needs realism and justification.",
+            "ANSWER USE -> Define each model, then name its central democratic deficit."
+          ]
+        },
+        {
+          "panel_title": "Core Definitions and the Chapter Spine",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Core Definitions and the Chapter Spine",
+            "  [1] Marxist democracy asks whose class power the political order serves.",
+            "        |",
+            "        v",
+            "  [2] Substantive democracy cannot be judged by procedure alone.",
+            "        |",
+            "        v",
+            "  [3] Macpherson criticises market-style democracy as too thin and possessive.",
+            "        |",
+            "        v",
+            "  [4] Socialist practice stays vulnerable on rights, opposition and open contest.",
+            "        |",
+            "        v",
+            "VERDICT -> Procedure without power analysis leaves democracy too thin.",
+            "ANSWER USE -> Pair Marxist critique with one liberty-and-opposition caveat."
+          ]
+        },
+        {
+          "panel_title": "Democracy Models, Thinkers and Comparative Tests",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Democracy Models, Thinkers and Comparative Tests",
+            "  [1] Revolution is abrupt structural rupture; evolution is gradual cumulative change.",
+            "        |",
+            "        v",
+            "  [2] Popper rejects historicist inevitability and prefers piecemeal reform.",
+            "        |",
+            "        v",
+            "  [3] Social change is plural: pace, agency and normativity differ by concept.",
+            "        |",
+            "        v",
+            "  [4] Progress adds moral betterment; not every change counts as progress.",
+            "        |",
+            "        v",
+            "VERDICT -> Change concepts differ by pace, agency and moral content.",
+            "ANSWER USE -> Separate revolution, evolution, development and progress first."
+          ]
+        },
+        {
+          "panel_title": "Revolution, Evolution, Development and Progress",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Revolution, Evolution, Development and Progress",
+            "  [1] Development is wider than GDP because rights, welfare and capability matter.",
+            "        |",
+            "        v",
+            "  [2] Market, welfare, socialist, Gandhian and sustainable paths answer it differently.",
+            "        |",
+            "        v",
+            "  [3] Growth may occur while exclusion, inequality or ecological harm deepen.",
+            "        |",
+            "        v",
+            "  [4] A good answer moves from definition to model comparison to verdict.",
+            "        |",
+            "        v",
+            "VERDICT -> Development is broader than output and must be compared by model.",
+            "ANSWER USE -> Move from definition to model comparison, then close on legitimacy."
+          ]
+        },
+        {
+          "panel_title": "Development Models Beyond GDP",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Development Models Beyond GDP",
+            "  [1] Coleman, Pye, Almond and Powell link development to capacity and differentiation.",
+            "        |",
+            "        v",
+            "  [2] Pye's crises include identity, legitimacy and participation.",
+            "        |",
+            "        v",
+            "  [3] Modernisation turns unsafe when one Western endpoint is silently assumed.",
+            "        |",
+            "        v",
+            "  [4] Political development must therefore be analysed without teleology.",
+            "        |",
+            "        v",
+            "VERDICT -> Political development theory is useful only when teleology is checked.",
+            "ANSWER USE -> Name one modernisation insight and one ethnocentric danger together."
+          ]
+        },
+        {
+          "panel_title": "Applications, Boundaries and Revision Control",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Applications, Boundaries and Revision Control",
+            "  [1] Dependency critique treats underdevelopment as historically produced, not delayed.",
+            "        |",
+            "        v",
+            "  [2] World-systems reasoning makes core-periphery hierarchy central.",
+            "        |",
+            "        v",
+            "  [3] Kothari is a named-scholar addition, not a Gauba-page citation here.",
+            "        |",
+            "        v",
+            "  [4] India-specific change must be read through diversity and institutional reach.",
+            "        |",
+            "        v",
+            "VERDICT -> Underdevelopment can be structured historically, not simply staged.",
+            "ANSWER USE -> Use India as illustration, not as proof-text for one theory."
+          ]
+        },
+        {
+          "panel_title": "Elite Theory, Gramsci and Competitive Leadership",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Elite Theory, Gramsci and Competitive Leadership",
+            "  [1] Populism divides society into a pure people and a corrupt elite.",
+            "        |",
+            "        v",
+            "  [2] Its danger lies in anti-plural exclusive representation, not anti-elitism alone.",
+            "        |",
+            "        v",
+            "  [3] Popular democracy pluralises channels; populism collapses them into one voice.",
+            "        |",
+            "        v",
+            "  [4] Winning elections is necessary but not sufficient for legitimacy.",
+            "        |",
+            "        v",
+            "VERDICT -> Populism is not just anti-elitism; anti-pluralism is the key risk.",
+            "ANSWER USE -> Distinguish popular democracy from populism before citing mandates."
+          ]
+        },
+        {
+          "panel_title": "Political Development, Modernisation and Kothari",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Political Development, Modernisation and Kothari",
+            "  [1] Ecological political theory is distinct from sustainable-development policy.",
+            "        |",
+            "        v",
+            "  [2] Anthropocentric, biocentric and ecocentric views disagree on moral standing.",
+            "        |",
+            "        v",
+            "  [3] Productivism treats output growth as the master political goal.",
+            "        |",
+            "        v",
+            "  [4] Climate-development conflict needs limits, justice and democratic accountability.",
+            "        |",
+            "        v",
+            "VERDICT -> Ecology becomes political when growth, standing and justice converge.",
+            "ANSWER USE -> Keep ecological theory separate from sustainable development."
+          ]
+        },
+        {
+          "panel_title": "Dependency, Indian Application and Objection-Reply Chains",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Dependency, Indian Application and Objection-Reply Chains",
+            "  [1] Intergenerational justice asks how present decisions answer to future persons.",
+            "        |",
+            "        v",
+            "  [2] Hardin does not settle the issue because Ostrom shows durable commons governance.",
+            "        |",
+            "        v",
+            "  [3] Environmental justice tracks siting, displacement and unequal voice.",
+            "        |",
+            "        v",
+            "  [4] A just transition joins ecological restraint to compensation and participation.",
+            "        |",
+            "        v",
+            "VERDICT -> Climate legitimacy needs ecological limits and democratic fairness.",
+            "ANSWER USE -> Use Hardin, Ostrom and just transition as a sequence."
+          ]
+        },
+        {
+          "panel_title": "Directive Control, Quotation Safety and Source Discipline",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Directive Control, Quotation Safety and Source Discipline",
+            "  [1] Digital democracy changes consent and representation without changing the vote.",
+            "        |",
+            "        v",
+            "  [2] Targeted messaging can weaken shared informational baselines and accountability.",
+            "        |",
+            "        v",
+            "  [3] The same platforms can lower the cost of organising and petitioning.",
+            "        |",
+            "        v",
+            "  [4] Technology must be judged through democratic effects, not novelty alone.",
+            "        |",
+            "        v",
+            "VERDICT -> Digital mediation widens access while stressing informed consent.",
+            "ANSWER USE -> Name one democratic gain and one democratic loss before the verdict."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Democratisation widens contestation, rights and accountable succession.",
+            "        |",
+            "        v",
+            "  [2] Backsliding erodes competition, liberties or checks while elections continue.",
+            "        |",
+            "        v",
+            "  [3] Social movements organise claims outside or across routine party channels.",
+            "        |",
+            "        v",
+            "  [4] Use these bridges to name processes, not to assign unsafe country labels.",
+            "        |",
+            "        v",
+            "VERDICT -> Democratisation, backsliding and movements are distinct processes.",
+            "ANSWER USE -> Diagnose the democratic function affected before naming the process."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Philosophy cross-applied PYQs stay secondarily routed here, not re-owned.",
+            "        |",
+            "        v",
+            "  [2] Use them as tested bridges on democracy, development and social change.",
+            "        |",
+            "        v",
+            "  [3] Topic 23 original practice must remain original while preserving ownership.",
+            "        |",
+            "        v",
+            "  [4] Answers should move from thesis to distinction, mechanism and graded verdict.",
+            "        |",
+            "        v",
+            "VERDICT -> Tested bridges may be used, but ownership discipline remains explicit.",
+            "ANSWER USE -> Mark Philosophy PYQs as secondary and keep Topic 23 practice original."
+          ]
+        }
+      ]
+    }
+  ]
+}

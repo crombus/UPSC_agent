@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-14-ascii-panels-2026-08-28-deep-review",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-14": {
+      "title": "Emergency Provisions",
+      "source_record": "polity-14:learner-v2:g3-allocation-pending",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+      "quality_review": "Deep-content reconstruction from complete Articles 352-360 Core, six verified PYQs, current proclamation control and ten guided Mains answers.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three emergencies and constitutional purpose",
+          "structural_type": "emergency-architecture",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "PART XVIII: ARTICLES 352-360\n352 national security | 356 State constitutional breakdown | 360 financial stability\n\nMETHOD\ntrigger -> written advice/material -> parliamentary control -> duration -> effects -> exit\nEmergency power preserves constitutional government; it is not an extra-constitutional regime."
+        },
+        {
+          "title": "Article 352 trigger, approval, renewal and revocation",
+          "structural_type": "national-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "TRIGGER: war | external aggression | armed rebellion | imminent danger\nCabinet decision in writing -> President -> whole or part of India\nAPPROVAL: both Houses within one month -> special majority\nCONTINUANCE: six-month blocks -> same special majority\nEXIT: President revokes; Lok Sabha simple-majority disapproval requires revocation\nOne-tenth of Lok Sabha members can require a special sitting within 14 days."
+        },
+        {
+          "title": "Declaration and amendment chronology with current status",
+          "structural_type": "amendment-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "1962 external aggression -> revoked 1968\n1971 external aggression -> continued alongside 1975 proclamation\n1975 internal disturbance -> revoked 1977\n38TH: attempted satisfaction immunity\n42ND: territorial and wider-effect changes\n44TH: armed rebellion, Cabinet writing, special majority, liberty and review\nCURRENT 28 AUG 2026: no National Emergency is in force."
+        },
+        {
+          "title": "National Emergency effects on federalism and institutions",
+          "structural_type": "national-effects",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 353: Union directions expand; Parliament gains State-field competence\nARTICLE 250 laws -> six-month tail after Emergency\nARTICLE 354 -> temporary revenue-distribution order with financial-year limit\nLOK SABHA / ASSEMBLY TERMS -> Parliament may extend one year at a time\n\nLIMIT\nStates, legislatures and High Courts continue: temporary Union weighting, not abolition."
+        },
+        {
+          "title": "Articles 358 and 359 rights firewall",
+          "structural_type": "rights-comparison",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 358\nautomatic | Article 19 only | war/external aggression | emergency-related recital/action\nARTICLE 359\npresidential order | named rights' court-enforcement route | stated area/period\n\nPERMANENT FIREWALL\nArticles 20 and 21 remain enforceable; unrelated illegality gets no emergency shield."
+        },
+        {
+          "title": "ADM Jabalpur (1976), Khanna and K.S. Puttaswamy (2017)",
+          "structural_type": "liberty-case-line",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "ADM JABALPUR (1976) MAJORITY\ndenied habeas enforcement route during the operative Article 359 order\nJUSTICE H.R. KHANNA -> liberty is not executive grace\n44TH AMENDMENT -> Articles 20 and 21 excluded from Article 359\nK.S. K.S. PUTTASWAMY (2017) -> ADM Jabalpur (1976) majority wrongly decided and overruled\nHistorical warning, not current law."
+        },
+        {
+          "title": "President's Rule mechanics and consequences",
+          "structural_type": "presidents-rule-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 356: Governor report or otherwise -> objective material -> proclamation\nAPPROVAL: two months, simple majority | renewal: six months | maximum: three years\nBEYOND ONE YEAR: qualifying Article 352 Emergency + ECI certification\nARTICLE 357: Parliament may confer and permit delegation of State legislative power\nExecutive assumed; Assembly suspended/dissolved; High Court and Fundamental Rights continue\nArticle 365 may supply material, never an automatic trigger."
+        },
+        {
+          "title": "S.R. Bommai (1994), Rameshwar Prasad (2006) and current Article 356 control",
+          "structural_type": "article356-case-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "S.R. BOMMAI (1994)\nreview | relevant material | floor test | dissolution after approval | restoration | federalism\nRAMESHWAR PRASAD (2006)\nBihar dissolution invalid; Assembly not restored because election process had advanced\nWHY USE DECLINED\ncourts + coalitions + regional parties + Sarkaria/Punchhi norms\nCURRENT: Manipur President's Rule 13 Feb 2025 -> revoked 4 Feb 2026."
+        },
+        {
+          "title": "Article 360 financial emergency",
+          "structural_type": "financial-emergency",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "TRIGGER: financial stability or credit of India or any part threatened\nAPPROVAL: both Houses within two months by simple majority\nDURATION: no periodic renewal; President may revoke\nDIRECTIONS: financial propriety | salary reductions | State Money/financial Bills reserved\nUnion salary direction can include Supreme Court and High Court judges\nSTATUS: never proclaimed; 1991 was managed without Article 360."
+        },
+        {
+          "title": "Three-way comparison and last-resort alternatives",
+          "structural_type": "comparison-alternatives",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "352: special majority | six-month renewal | national/federal/rights effects\n356: simple majority | six-month renewal | three-year maximum | State machinery\n360: simple majority | no renewal cycle | financial directions\n\nESCALATION LADDER\nwarning -> consultation -> floor test/court -> targeted ordinary law -> Emergency\nSarkaria and Punchhi recommendations guide restraint but are not binding law."
+        },
+        {
+          "title": "Six PYQs and Prelims firewalls",
+          "structural_type": "exam-control",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "PYQ ROUTES\n2018 Financial Emergency + Article 356 consequences\n2020 centralising legislation | 2023 Article 355/detention/POTA + Article 356 decline\n2024 Constitution-Part identification\n\nFIREWALLS\narmed rebellion != internal disturbance | 358 != 359 | 20/21 protected\n352 special majority | 356/360 simple | 360 never used | High Court not assumed."
+        },
+        {
+          "title": "Marks-scaled answer spine and qualified verdict",
+          "structural_type": "answer-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md"
+          ],
+          "full_text": "10 MARKS: provision -> trigger -> procedure -> effects -> status/verdict\n15 MARKS: thesis -> legal factors -> political factors -> case/commission -> verdict\n20 MARKS: 352 + rights + 356 + 360 -> safeguards -> limits -> graded conclusion\n\nEVIDENCE CHAIN\nclaim -> Article/amendment -> mechanism -> case/history -> qualification\nVERDICT: emergency is legitimate temporary constitutional self-defence only when reviewable\nand directed toward restoration of ordinary democratic government."
+        }
+      ]
+    }
+  }
+}

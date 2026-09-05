@@ -1,0 +1,1115 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-16",
+  "subject": "Geography",
+  "title": "TROPICAL MONSOON AND MARINE CLIMATE",
+  "short_route": "CLIMATE-TYPE DISCRIMINATOR \u2192 THREE-LEVEL MONSOON ENGINE \u2192 SEASONAL CIRCULATION RAIL \u2192 ONSET EVIDENCE LADDER \u2192 ARABIAN SEA BRANCH MAP \u2192 BAY BRANCH MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-16_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-15-16-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "be237acc1aa58aca9541cb6c958040a45687e9f7b7966545bf05de05e8c4b74c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CLIMATE-TYPE DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLIMATE-TYPE DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "MONSOON AM",
+          "role": "outcome"
+        },
+        {
+          "text": "SEASONAL WIND REVERSAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TROPICAL MARINE",
+          "role": "evidence"
+        },
+        {
+          "text": "ONSHORE TRADES MOST MONTHS",
+          "role": "primary"
+        },
+        {
+          "text": "MONSOON RAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGLY CONCENTRATED",
+          "role": "comparison"
+        },
+        {
+          "text": "MARINE RAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MONSOON Am \u2192 seasonal wind reversal",
+        "TROPICAL MARINE \u2192 onshore Trades most months",
+        "MONSOON RAIN \u2192 strongly concentrated",
+        "MARINE RAIN \u2192 generally steadier distribution"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "MONSOON Am \u2192 seasonal wind reversal",
+          "MONSOON RAIN \u2192 strongly concentrated",
+          "MONSOON Am \u2192 seasonal wind reversal"
+        ],
+        [
+          "TROPICAL MARINE \u2192 onshore Trades most months",
+          "MARINE RAIN \u2192 generally steadier distribution",
+          "TROPICAL MARINE \u2192 onshore Trades most months"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MONSOON Am \u2192 seasonal wind reversal",
+            "TROPICAL MARINE \u2192 onshore Trades most months"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MONSOON RAIN \u2192 strongly concentrated",
+            "MARINE RAIN \u2192 generally steadier distribution"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "MONSOON Am \u2192 seasonal wind reversal",
+            "TROPICAL MARINE \u2192 onshore Trades most months"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONSOON RAIN \u2192 strongly concentrated; MARINE RAIN \u2192 generally steadier distribution.",
+      "source_references": [
+        "Monsoon and tropical marine identities"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE-LEVEL MONSOON ENGINE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE-LEVEL MONSOON ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "LAND-SEA PRESSURE REVERSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SEASONAL ITCZ MIGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "UPPER AIR",
+          "role": "evidence"
+        },
+        {
+          "text": "JET REORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-EQUATORIAL MOIST FLOW",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "THERMAL \u2192 land-sea pressure reversal",
+        "DYNAMIC \u2192 seasonal ITCZ migration",
+        "UPPER AIR \u2192 jet reorganisation",
+        "OUTCOME \u2192 cross-equatorial moist flow"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "THERMAL \u2192 land-sea pressure reversal",
+            "DYNAMIC \u2192 seasonal ITCZ migration"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UPPER AIR \u2192 jet reorganisation",
+            "OUTCOME \u2192 cross-equatorial moist flow"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "THERMAL \u2192 land-sea pressure reversal",
+            "DYNAMIC \u2192 seasonal ITCZ migration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UPPER AIR \u2192 jet reorganisation; OUTCOME \u2192 cross-equatorial moist flow.",
+      "source_references": [
+        "Thermal, ITCZ and upper-air mechanism"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SEASONAL CIRCULATION RAIL",
+      "structural_type": "seasonal-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SEASONAL CIRCULATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "THERMAL LOW AND LOCAL STORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTHWEST ADVANCE AND RAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHDRAWAL AND BAY SYSTEMS",
+          "role": "evidence"
+        },
+        {
+          "text": "DRY NE FLOW; WDS IN NORTH-WEST",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "MAR-MAY \u2192 thermal low and local storms",
+        "JUN-SEP \u2192 southwest advance and rain",
+        "OCT-NOV \u2192 withdrawal and Bay systems",
+        "DEC-FEB \u2192 dry NE flow; WDs in north-west"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MAR-MAY \u2192 thermal low and local storms",
+            "JUN-SEP \u2192 southwest advance and rain"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OCT-NOV \u2192 withdrawal and Bay systems",
+            "DEC-FEB \u2192 dry NE flow; WDs in north-west"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "MAR-MAY \u2192 thermal low and local storms",
+            "JUN-SEP \u2192 southwest advance and rain"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "OCT-NOV \u2192 withdrawal and Bay systems",
+            "DEC-FEB \u2192 dry NE flow; WDs in north-west"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEC-FEB \u2192 dry NE flow; WDs in north-west.",
+      "source_references": [
+        "India's four-season circulation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ONSET EVIDENCE LADDER",
+      "structural_type": "evidence-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ONSET EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "NORMAL DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-PERIOD REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONSET DECLARATION",
+          "role": "evidence"
+        },
+        {
+          "text": "OBSERVED CRITERIA MET",
+          "role": "primary"
+        },
+        {
+          "text": "ABRUPT RAIN ESTABLISHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SEASON RESULT",
+          "role": "comparison"
+        },
+        {
+          "text": "VERIFIED ONLY AFTER COMPLETION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORMAL DATE \u2192 long-period reference",
+        "ONSET DECLARATION \u2192 observed criteria met",
+        "BURST \u2192 abrupt rain establishment",
+        "SEASON RESULT \u2192 verified only after completion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NORMAL DATE \u2192 long-period reference",
+            "ONSET DECLARATION \u2192 observed criteria met"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BURST \u2192 abrupt rain establishment",
+            "SEASON RESULT \u2192 verified only after completion"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NORMAL DATE \u2192 long-period reference",
+            "ONSET DECLARATION \u2192 observed criteria met"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BURST \u2192 abrupt rain establishment; SEASON RESULT \u2192 verified only after completion.",
+      "source_references": [
+        "Burst and onset",
+        "Northeast monsoon and IMD products"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARABIAN SEA BRANCH MAP",
+      "structural_type": "spatial-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARABIAN SEA BRANCH MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ARABIAN SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "MOISTURE-BEARING BRANCH",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN GHATS",
+          "role": "evidence"
+        },
+        {
+          "text": "WINDWARD UPLIFT AND RAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LEEWARD DECCAN",
+          "role": "outcome"
+        },
+        {
+          "text": "RAIN SHADOW",
+          "role": "comparison"
+        },
+        {
+          "text": "SYSTEMS AND RELIEF MODIFY TOTALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARABIAN SEA \u2192 moisture-bearing branch",
+        "WESTERN GHATS \u2192 windward uplift and rain",
+        "LEEWARD DECCAN \u2192 rain shadow",
+        "INTERIOR \u2192 systems and relief modify totals"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ARABIAN SEA \u2192 moisture-bearing branch",
+            "WESTERN GHATS \u2192 windward uplift and rain"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEEWARD DECCAN \u2192 rain shadow",
+            "INTERIOR \u2192 systems and relief modify totals"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "ARABIAN SEA \u2192 moisture-bearing branch",
+            "WESTERN GHATS \u2192 windward uplift and rain"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "LEEWARD DECCAN \u2192 rain shadow",
+            "INTERIOR \u2192 systems and relief modify totals"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEEWARD DECCAN \u2192 rain shadow; INTERIOR \u2192 systems and relief modify totals.",
+      "source_references": [
+        "Arabian Sea branch"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BAY BRANCH MAP",
+      "structural_type": "spatial-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BAY BRANCH MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BAY OF BENGAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BRANCH AND DEPRESSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTH-EAST HILLS",
+          "role": "evidence"
+        },
+        {
+          "text": "FORCED UPLIFT",
+          "role": "primary"
+        },
+        {
+          "text": "BLOCKS NORTHWARD ESCAPE",
+          "role": "outcome"
+        },
+        {
+          "text": "GANGA PLAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "WEST-NORTH-WEST RAIN ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BAY OF BENGAL \u2192 branch and depressions",
+        "NORTH-EAST HILLS \u2192 forced uplift",
+        "HIMALAYA \u2192 blocks northward escape",
+        "GANGA PLAIN \u2192 west-north-west rain route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "BAY OF BENGAL \u2192 branch and depressions",
+            "NORTH-EAST HILLS \u2192 forced uplift"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HIMALAYA \u2192 blocks northward escape",
+            "GANGA PLAIN \u2192 west-north-west rain route"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "BAY OF BENGAL \u2192 branch and depressions",
+            "NORTH-EAST HILLS \u2192 forced uplift"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "HIMALAYA \u2192 blocks northward escape",
+            "GANGA PLAIN \u2192 west-north-west rain route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HIMALAYA \u2192 blocks northward escape; GANGA PLAIN \u2192 west-north-west rain route.",
+      "source_references": [
+        "Bay branch and depressions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ACTIVE-BREAK SWITCH",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ACTIVE-BREAK SWITCH",
+          "role": "primary"
+        },
+        {
+          "text": "TROUGH OVER PLAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDESPREAD ACTIVE RAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BAY LOWS",
+          "role": "evidence"
+        },
+        {
+          "text": "INLAND RAIN CORRIDORS",
+          "role": "primary"
+        },
+        {
+          "text": "TROUGH TO FOOTHILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLAINS BREAK",
+          "role": "comparison"
+        },
+        {
+          "text": "CROP STAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TROUGH OVER PLAINS \u2192 widespread active rain",
+        "BAY LOWS \u2192 inland rain corridors",
+        "TROUGH TO FOOTHILLS \u2192 plains break",
+        "CROP STAGE \u2192 impact can exceed total deficit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "TROUGH OVER PLAINS \u2192 widespread active rain",
+            "BAY LOWS \u2192 inland rain corridors"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TROUGH TO FOOTHILLS \u2192 plains break",
+            "CROP STAGE \u2192 impact can exceed total deficit"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "TROUGH OVER PLAINS \u2192 widespread active rain",
+            "BAY LOWS \u2192 inland rain corridors"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CROP STAGE \u2192 impact can exceed total deficit.",
+      "source_references": [
+        "Active and break monsoon"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JET AND WD FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JET AND WD FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "WINTER UPPER-AIR WESTERLY REGIME",
+          "role": "outcome"
+        },
+        {
+          "text": "TROPICAL EASTERLY FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUMMER MONSOON ALOFT",
+          "role": "evidence"
+        },
+        {
+          "text": "WESTERN DISTURBANCE",
+          "role": "primary"
+        },
+        {
+          "text": "EXTRA-TROPICAL SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "MONSOON DEPRESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "TROPICAL RAIN-BEARING LOW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STWJ \u2192 winter upper-air westerly regime",
+        "TROPICAL EASTERLY FLOW \u2192 summer monsoon aloft",
+        "WESTERN DISTURBANCE \u2192 extra-tropical system",
+        "MONSOON DEPRESSION \u2192 tropical rain-bearing low"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "STWJ \u2192 winter upper-air westerly regime",
+          "WESTERN DISTURBANCE \u2192 extra-tropical system",
+          "STWJ \u2192 winter upper-air westerly regime"
+        ],
+        [
+          "TROPICAL EASTERLY FLOW \u2192 summer monsoon aloft",
+          "MONSOON DEPRESSION \u2192 tropical rain-bearing low",
+          "TROPICAL EASTERLY FLOW \u2192 summer monsoon aloft"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STWJ \u2192 winter upper-air westerly regime",
+            "TROPICAL EASTERLY FLOW \u2192 summer monsoon aloft"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WESTERN DISTURBANCE \u2192 extra-tropical system",
+            "MONSOON DEPRESSION \u2192 tropical rain-bearing low"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STWJ \u2192 winter upper-air westerly regime",
+            "TROPICAL EASTERLY FLOW \u2192 summer monsoon aloft"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WESTERN DISTURBANCE \u2192 extra-tropical system; MONSOON DEPRESSION \u2192 tropical rain-bearing low.",
+      "source_references": [
+        "Jet-stream reorganisation",
+        "Western disturbances"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "VARIABILITY TIMESCALES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VARIABILITY TIMESCALES",
+          "role": "primary"
+        },
+        {
+          "text": "ACTIVE-BREAK MODULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTER-ANNUAL PACIFIC SIGNAL",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN OCEAN SEASONAL SIGNAL",
+          "role": "evidence"
+        },
+        {
+          "text": "NONE IS A DETERMINISTIC SWITCH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MJO \u2192 weeks / active-break modulation",
+        "ENSO \u2192 inter-annual Pacific signal",
+        "IOD \u2192 Indian Ocean seasonal signal",
+        "RULE \u2192 none is a deterministic switch"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "MJO \u2192 weeks / active-break modulation",
+          "IOD \u2192 Indian Ocean seasonal signal",
+          "MJO \u2192 weeks / active-break modulation"
+        ],
+        [
+          "ENSO \u2192 inter-annual Pacific signal",
+          "RULE \u2192 none is a deterministic switch",
+          "ENSO \u2192 inter-annual Pacific signal"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MJO \u2192 weeks / active-break modulation",
+            "ENSO \u2192 inter-annual Pacific signal"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IOD \u2192 Indian Ocean seasonal signal",
+            "RULE \u2192 none is a deterministic switch"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "MJO \u2192 weeks / active-break modulation",
+            "ENSO \u2192 inter-annual Pacific signal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IOD \u2192 Indian Ocean seasonal signal; RULE \u2192 none is a deterministic switch.",
+      "source_references": [
+        "ENSO, IOD and MJO"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COROMANDEL RAIN CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COROMANDEL RAIN CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SW MONSOON WITHDRAWS",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOW REVERSES",
+          "role": "mechanism"
+        },
+        {
+          "text": "NE FLOW CROSSES BAY",
+          "role": "mechanism"
+        },
+        {
+          "text": "MOISTURE GAINED",
+          "role": "primary"
+        },
+        {
+          "text": "TAMIL NADU COAST",
+          "role": "outcome"
+        },
+        {
+          "text": "ONSHORE EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "RAIN + CYCLONE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SW MONSOON WITHDRAWS \u2192 flow reverses",
+        "NE FLOW CROSSES BAY \u2192 moisture gained",
+        "TAMIL NADU COAST \u2192 onshore exposure",
+        "RAIN + CYCLONE RISK \u2192 retreating season"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SW MONSOON WITHDRAWS \u2192 flow reverses",
+            "NE FLOW CROSSES BAY \u2192 moisture gained"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TAMIL NADU COAST \u2192 onshore exposure",
+            "RAIN + CYCLONE RISK \u2192 retreating season"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SW MONSOON WITHDRAWS \u2192 flow reverses",
+            "NE FLOW CROSSES BAY \u2192 moisture gained"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TAMIL NADU COAST \u2192 onshore exposure; RAIN + CYCLONE RISK \u2192 retreating season.",
+      "source_references": [
+        "Northeast monsoon and IMD products"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VERIFIED PYQ ROUTES",
+      "structural_type": "exam-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VERIFIED PYQ ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "2023 GS-I",
+          "role": "outcome"
+        },
+        {
+          "text": "PURVAIYA AND CULTURAL ETHOS",
+          "role": "comparison"
+        },
+        {
+          "text": "2026 PRELIMS",
+          "role": "evidence"
+        },
+        {
+          "text": "ISLAND CLIMATE AND RAIN",
+          "role": "primary"
+        },
+        {
+          "text": "2026 KEY",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVISIONAL; NO LETTER INFERRED",
+          "role": "caution"
+        },
+        {
+          "text": "MAP WIND, SEASON AND REGIONAL MEANING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2023 GS-I \u2192 Purvaiya and cultural ethos",
+        "2026 PRELIMS \u2192 island climate and rain",
+        "2026 KEY \u2192 provisional; no letter inferred",
+        "METHOD \u2192 map wind, season and regional meaning"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "2023 GS-I \u2192 Purvaiya and cultural ethos",
+          "2026 KEY \u2192 provisional; no letter inferred",
+          "2023 GS-I \u2192 Purvaiya and cultural ethos",
+          "2026 KEY \u2192 provisional; no letter inferred"
+        ],
+        [
+          "2026 PRELIMS \u2192 island climate and rain",
+          "METHOD \u2192 map wind, season and regional meaning",
+          "2026 PRELIMS \u2192 island climate and rain",
+          "METHOD \u2192 map wind, season and regional meaning"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "2023 GS-I \u2192 Purvaiya and cultural ethos",
+            "2026 PRELIMS \u2192 island climate and rain"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "2026 KEY \u2192 provisional; no letter inferred",
+            "METHOD \u2192 map wind, season and regional meaning"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "2023 GS-I \u2192 Purvaiya and cultural ethos",
+            "2026 PRELIMS \u2192 island climate and rain"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "2026 KEY \u2192 provisional; no letter inferred",
+            "METHOD \u2192 map wind, season and regional meaning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD \u2192 map wind, season and regional meaning.",
+      "source_references": [
+        "Verified Purvaiya and island PYQs"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MONSOON ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MONSOON ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "REVERSAL AND MARINE CONTRAST",
+          "role": "outcome"
+        },
+        {
+          "text": "THERMAL, ITCZ AND JETS",
+          "role": "comparison"
+        },
+        {
+          "text": "BRANCHES, BREAKS AND RETREAT",
+          "role": "evidence"
+        },
+        {
+          "text": "TELECONNECTIONS AND SOURCE STATUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 reversal and marine contrast",
+        "DERIVE \u2192 thermal, ITCZ and jets",
+        "MAP \u2192 branches, breaks and retreat",
+        "QUALIFY \u2192 teleconnections and source status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 reversal and marine contrast",
+            "DERIVE \u2192 thermal, ITCZ and jets"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP \u2192 branches, breaks and retreat",
+            "QUALIFY \u2192 teleconnections and source status"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 reversal and marine contrast",
+            "DERIVE \u2192 thermal, ITCZ and jets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP \u2192 branches, breaks and retreat; QUALIFY \u2192 teleconnections and source status.",
+      "source_references": [
+        "Verified Purvaiya and island PYQs"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MAJID HUSAIN DESCRIBES EL NINO AS ABNORMAL WARMING IN",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUATORIAL PACIFIC, WITH WARM WATER EXPANDING EASTWARD AND SHIFTING",
+          "role": "comparison"
+        },
+        {
+          "text": "EL NINO MODOKI",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL-PACIFIC EL NINO PATTERN, WHERE MAXIMUM WARMING",
+          "role": "primary"
+        },
+        {
+          "text": "IS NEAR THE CENTRAL EQUATORIAL PACIFIC RATHER THAN THE",
+          "role": "outcome"
+        },
+        {
+          "text": "IT CAN AFFECT WALKER CIRCULATION AND INDIAN MONSOON DIFFERENTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "NINO, SO MONSOON FORECASTS LOOK BEYOND A SIMPLE EL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "Majid Husain describes El Nino as abnormal warming in the",
+            "equatorial Pacific, with warm water expanding eastward and shifting convergence/precipitation.",
+            "CAUTION: El Nino Modoki = central-Pacific El Nino pattern, where maximum warming",
+            "is near the central equatorial Pacific rather than the far eastern Pacific."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: It can affect Walker circulation and Indian monsoon differently from canonical El",
+            "Nino, so monsoon forecasts look beyond a simple El Nino/La Nina label.",
+            "CAUTION: India link: Modoki-type warming may still disturb monsoon rainfall distribution, active-break phases and cyclone behaviour.",
+            "Majid Husain notes that monsoon rainfall waxes and wanes through active and break periods"
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "active phases bring rapid succession of disturbances, while breaks bring little rain for days.",
+            "Book passages link strong Tropical Easterly Jet with strong convection and latent heating during active monsoon conditions.",
+            "CAUTION: MJO = eastward-moving pulse of tropical cloudiness, convection and rainfall, usually travelling from the Indian Ocean towards the Pacific.",
+            "CAUTION: India link: when the convective MJO phase is over the Indian Ocean, it can favour active monsoon spells"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

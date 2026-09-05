@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-18",
+  "record_id": "medieval-indian-history-18:learner-v2:g6",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "identity_g6": true,
+    "approval_false": true,
+    "h2_order_exact": true,
+    "register_notes_last": true,
+    "basic_before_advanced": true,
+    "canonical_required_coverage": true,
+    "pyq_direct_adjacent_key_control": true,
+    "answer_contracts": true,
+    "mcq_rotation": true,
+    "ascii_graphical_counts": true,
+    "ascii_graphical_factual_agreement": true,
+    "layout_clean": true,
+    "same_master_tiles": true,
+    "reference_preserved": true,
+    "source_immutability": true,
+    "deliverable_hashes": true,
+    "final_library": true,
+    "targeted_tests_82": true,
+    "authoritative_validator": true,
+    "failed_g5_preserved": true,
+    "topic19_not_generated": true
+  },
+  "metrics": {
+    "main_pages": 87,
+    "workbook_pages": 21,
+    "solved_blocks": 11,
+    "mcqs": 70,
+    "ascii_panels": 12,
+    "graphical_stages": 12,
+    "master_dimensions_px": [
+      4800,
+      12496
+    ],
+    "tile_pages": 5,
+    "tile_overlap_min_px": 918,
+    "ascii_max_line_characters": 94,
+    "targeted_tests": 82,
+    "source_files_locked": 7,
+    "deliverable_hashes_checked": 87
+  },
+  "missing_basic": [],
+  "agreement_missing": {},
+  "source_mismatches": {},
+  "deliverable_hash_errors": {},
+  "control_files": {
+    "record": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-18-learner-v2-g6-2026-09-04-record.json",
+    "generation_validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-18-learner-v2-g6-2026-09-04-validation.json",
+    "completion": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-18-learner-v2-g6-2026-09-04-completion.json",
+    "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-86303dd013cd-validation.json",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Medieval\\MH\\flowcharts\\mhi-18\\carvaka-g6\\build-audit.json",
+    "failed_intermediate": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\medieval-indian-history-18\\g5-semantic-rejection.json"
+  }
+}

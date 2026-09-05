@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "scope": "Ancient Indian History learner-v2 Topics 22-23",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-22",
+      "display_title": "Post-Gupta India: Harsha & Eastern India",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\22_Post-Gupta-Harsha-and-Eastern-India_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Chronology and evidence discipline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 550 CE -> Gupta concentration weakens; regional houses multiply",
+            "606 CE -> Harsha succeeds amid the Rajyavardhana-Rajyashri crisis",
+            "c. 630s -> Pulakeshin II checks northern expansion near the Narmada",
+            "637 CE -> Shashanka dies; eastern competition continues",
+            "647-648 CE -> Harsha dies without a durable successor empire",
+            "SOURCES: Bana + Xuanzang + charters + coins + Aihole + archaeology",
+            "RULE: triangulate literary praise, pilgrim report and rival inscription."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Evidence discipline"
+          ]
+        },
+        {
+          "title": "Post-Gupta political landscape",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "NORTH-WEST / WEST -> Maitrakas and other regional powers",
+            "MIDDLE GANGA -> Later Guptas + Maukharis",
+            "THANESAR-KANNAUJ -> Pushyabhutis under Harsha",
+            "GAUDA -> Shashanka",
+            "KAMARUPA -> Bhaskaravarman",
+            "DECCAN LIMIT -> Badami Chalukyas under Pulakeshin II",
+            "VERDICT: several strong regional states replaced one uncontested imperial centre."
+          ],
+          "source_references": [
+            "Political landscape",
+            "Regional powers"
+          ]
+        },
+        {
+          "title": "Pushyabhuti rise and Kannauj shift",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "PRABHAKARAVARDHANA -> stronger Thanesar line",
+            "RAJYASHRI + GRAHAVARMAN -> Maukhari marriage bridge",
+            "Grahavarman killed -> Rajyavardhana campaigns -> accession crisis",
+            "HARSHAVARDHANA -> rescue + consolidation + Maukhari inheritance",
+            "THANESAR -> KANNAUJ",
+            "MECHANISM: kinship + strategy + Ganga-doab access + sovereignty prestige",
+            "LIMIT: Harsha inherited a crisis, not a ready-made pan-Indian empire."
+          ],
+          "source_references": [
+            "Pushyabhutis",
+            "Maukharis",
+            "Kannauj"
+          ]
+        },
+        {
+          "title": "Harsha's graded sovereignty and Narmada limit",
+          "structural_type": "layered-sovereignty",
+          "ascii_lines": [
+            "DIRECT CORE -> Haryana, much of UP and parts of Bihar",
+            "PROBABLE REACH -> selected eastern territories including Odisha",
+            "WIDER ALLEGIANCE -> Kamarupa, Valabhi and other rulers in varying degrees",
+            "HARD LIMIT -> Pulakeshin II and the Narmada frontier",
+            "BANA / XUANZANG -> prestige-heavy northern view",
+            "AIHOLE -> rival Chalukya check",
+            "VERDICT: major north Indian hegemon; not a stable all-India emperor."
+          ],
+          "source_references": [
+            "Harsha's campaigns",
+            "Narmada confrontation"
+          ]
+        },
+        {
+          "title": "Administration, revenue and samanta order",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / MOBILE CAMP",
+            "   -> bhukti provincial units",
+            "   -> vishaya district units",
+            "   -> officers, villages and revenue collectors",
+            "   -> samantas and feudatory rulers",
+            "REVENUE: bhaga + bhoga + kara + hiranya",
+            "ARMY: royal forces reinforced by subordinate chiefs",
+            "TENSION: delegated reach could integrate territory and enlarge local autonomy."
+          ],
+          "source_references": [
+            "Administration",
+            "Revenue",
+            "Samanta pattern"
+          ]
+        },
+        {
+          "title": "Eastern India regional state formation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "BENGAL / GAUDA -> Shashanka, Pundravardhana, Samatata, gold issues",
+            "ODISHA -> regional lines, charters, agraharas and expanding settlement",
+            "ASSAM -> Kamarupa, Varman line and Bhaskaravarman",
+            "COMMON PROCESS -> Sanskrit charters + fiscal districts + military camps",
+            "                + land rights + agrarian expansion",
+            "DIFFERENCE -> chronology, ecology and political scale varied sharply",
+            "RULE: do not begin eastern state history only with the Palas."
+          ],
+          "source_references": [
+            "Gauda",
+            "Kamarupa",
+            "Eastern India"
+          ]
+        },
+        {
+          "title": "Land grants and agrarian transformation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "FALLOW / CULTIVATED LAND + ROYAL CLAIM",
+            "                  |",
+            "purchase, charter, boundary record and tax remission",
+            "                  |",
+            "Brahmana / monastery / religious beneficiary",
+            "                  |",
+            "cultivation + literacy + fiscal reallocation + landed hierarchy",
+            "EASTERN PLATES -> local scribes, merchants, landholders and cultivators",
+            "LIMIT: elite charters reveal process more clearly than peasant experience."
+          ],
+          "source_references": [
+            "Land grants",
+            "Agrarian expansion"
+          ]
+        },
+        {
+          "title": "Economy and urban change debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "DECLINE EVIDENCE -> contraction of selected older towns and coin changes",
+            "REORGANISATION EVIDENCE:",
+            "  |-- Kannauj rises as a strategic centre",
+            "  |-- eastern land was purchased with gold in selected records",
+            "  |-- new camps, grants, monasteries and regional capitals appear",
+            "  `-- routes and markets persist unevenly",
+            "NALANDA -> institutional concentration, not proof of universal prosperity",
+            "VERDICT: decline in older forms coexisted with regional creation."
+          ],
+          "source_references": [
+            "Economy",
+            "Urban-decline debate"
+          ]
+        },
+        {
+          "title": "Religion, assemblies and political theatre",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "EARLY LINE -> solar associations",
+            "HARSHACHARITA / CHARTERS -> Shaiva idioms",
+            "XUANZANG -> strong Buddhist patronage",
+            "KANNAUJ ASSEMBLY -> debate, hierarchy and royal display",
+            "PRAYAGA ASSEMBLY -> Buddha + Shiva + Sun across successive days",
+            "CHARITY -> piety + redistribution + sovereignty performance",
+            "VERDICT: overlapping royal affiliations, not one exclusive religious label."
+          ],
+          "source_references": [
+            "Religion under Harsha",
+            "Kannauj and Prayaga assemblies"
+          ]
+        },
+        {
+          "title": "Nalanda and trans-Asian learning networks",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "ROYAL / LANDED SUPPORT -> monastic infrastructure",
+            "INDIAN TEACHERS <-> Nalanda study and debate <-> ASIAN PILGRIMS",
+            "XUANZANG -> study, travel and carriage of Buddhist texts to China",
+            "YIJING -> comparative evidence and numerical caution",
+            "UNESCO SITE -> surviving viharas, temples, art and planned layout",
+            "SECURE CLAIM: major scholastic network",
+            "CAUTION: famous enrolment figures are estimates, not census data."
+          ],
+          "source_references": [
+            "Nalanda",
+            "Learning networks"
+          ]
+        },
+        {
+          "title": "Source criticism and historiography",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "BANA -> accession and court world | literary praise / elite focus",
+            "XUANZANG -> routes, Nalanda, assemblies | pilgrim purpose / later writing",
+            "CHARTERS -> offices, grants, taxes | selective documentary survival",
+            "COINS -> rulers, economy, symbols | circulation is not a border map",
+            "AIHOLE -> Narmada limit | rival prashasti and exaggeration",
+            "SHARMA -> structural transition | avoid universal decline",
+            "METHOD: claim -> source -> corroboration -> limitation."
+          ],
+          "source_references": [
+            "Source criticism",
+            "Historiography"
+          ]
+        },
+        {
+          "title": "Post-Gupta answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> c. 550-750 as contraction plus regional reorganisation",
+            "POLITY -> Pushyabhuti rise + Kannauj + graded sovereignty",
+            "LIMIT -> Pulakeshin II and the Narmada",
+            "EAST -> Gauda + Kamarupa + Odisha/Bengal grants",
+            "STRUCTURE -> samantas + land rights + agrarian change",
+            "CULTURE -> assemblies + Nalanda + source triangulation",
+            "CLOSE -> Harsha briefly reunited the north while regional states deepened."
+          ],
+          "source_references": [
+            "UPSC answer architecture",
+            "PYQ routes"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-23",
+      "display_title": "Peninsular India: Pallavas, Chalukyas & Brahmanization",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\23_Peninsular-India-Pallavas-Chalukyas_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Peninsular chronology and political geography",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "c. 535 CE -> independent Badami Chalukya power consolidates",
+            "late 6th c. -> Simhavishnu renews Pallava expansion",
+            "early 7th c. -> Mahendravarman I and Pulakeshin II",
+            "c. 630s -> Narmada check on Harsha",
+            "c. 642 -> Narasimhavarman I captures Vatapi",
+            "8th c. -> Vikramaditya II, Rajasimha legacy and mature temple patronage",
+            "757 -> Rashtrakutas end Badami line; Pallavas survive to c. 893."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Political geography"
+          ]
+        },
+        {
+          "title": "Evidence and source criticism matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "AIHOLE PRASHASTI -> genealogy and campaigns | royal exaggeration",
+            "PALLAVA CHARTERS -> grants and legitimation | formulaic claims",
+            "SANSKRIT + TAMIL EPIGRAPHY -> praise and documentary practice",
+            "MONUMENTS -> patronage, technique and cult | attribution limits",
+            "LITERATURE -> court, satire and devotion | genre and redaction",
+            "PORT / SETTLEMENT ARCHAEOLOGY -> exchange | uneven survival",
+            "RULE: monument first, style label later; inscription data plus ideology."
+          ],
+          "source_references": [
+            "Evidence base",
+            "Source criticism"
+          ]
+        },
+        {
+          "title": "Pallava and Chalukya ruler ladders",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PALLAVA                         CHALUKYA OF BADAMI",
+            "Simhavishnu                     Pulakeshin I",
+            "Mahendravarman I                Kirtivarman I",
+            "Narasimhavarman I Mamalla       Mangalesha",
+            "Paramesvaravarman I             Pulakeshin II",
+            "Narasimhavarman II Rajasimha    Vikramaditya I / II",
+            "Nandivarman line                fall to Rashtrakutas",
+            "ANCHORS: Kanchi-Mamallapuram | Vatapi-Aihole-Pattadakal."
+          ],
+          "source_references": [
+            "Pallava rulers",
+            "Chalukya rulers"
+          ]
+        },
+        {
+          "title": "Kanchi-Vatapi rivalry and regional effects",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "KANCHI <-> VENGI / DECCAN ROUTES <-> VATAPI",
+            "             |",
+            "Pulakeshin II expands east and checks Harsha",
+            "             |",
+            "Mahendravarman-Pulakeshin conflict",
+            "             |",
+            "Narasimhavarman I captures Vatapi -> Vatapikonda memory",
+            "             |",
+            "later Chalukya victories at Kanchi -> Virupaksha commemoration",
+            "RESULT: rivalry reshaped frontiers, branches, prestige and sacred landscapes."
+          ],
+          "source_references": [
+            "Pallava-Chalukya rivalry",
+            "Vatapi and Kanchi"
+          ]
+        },
+        {
+          "title": "Administration and local institutions",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / COURT / MILITARY ELITE",
+            "     -> territorial officers and revenue rights",
+            "     -> grants to Brahmanas and religious institutions",
+            "     -> ur: peasant village",
+            "     -> sabha: Brahmana assembly in grant village",
+            "     -> nagaram: merchant-linked settlement",
+            "     -> mahajana: prominent village elders in Chalukya records",
+            "CAUTION: do not project mature later Chola committee detail backward."
+          ],
+          "source_references": [
+            "Administration",
+            "Local institutions"
+          ]
+        },
+        {
+          "title": "Land grants and Brahmanization",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ROYAL CHARTER -> brahmadeya / agrahara",
+            "        -> revenue rights + exemptions + jurisdiction",
+            "        -> donee insertion into settled or expanding agrarian zones",
+            "        -> cultivation + Sanskritic legitimacy + caste ordering",
+            "        -> reciprocal reshaping of local cults and Brahmanical practice",
+            "USEFUL MODEL: integration and hierarchy together",
+            "LIMIT: not every grant created a new village or proved royal weakness."
+          ],
+          "source_references": [
+            "Land grants",
+            "Brahmanization"
+          ]
+        },
+        {
+          "title": "Bhakti and religious plurality",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "ALVARS -> Vaishnava hymns, shrine routes and emotional devotion",
+            "NAYANARS -> Shaiva hymns, sacred places and community memory",
+            "TEMPLES -> ritual + landed patronage + political visibility",
+            "JAIN / BUDDHIST GROUPS -> continued debate, institutions and court presence",
+            "INCLUSION STORIES -> Nandanar, Tiruppan Alvar and Andal",
+            "LIMIT: devotional access did not abolish caste, patriarchy or elite power",
+            "VERDICT: vernacular opening within a hierarchical religious field."
+          ],
+          "source_references": [
+            "Bhakti",
+            "Religious interaction"
+          ]
+        },
+        {
+          "title": "Pallava architecture trajectory",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAHENDRAVARMAN I -> rock-cut caves: Mandagapattu, Mamandur",
+            "NARASIMHAVARMAN I -> Mamallapuram rathas and great reliefs",
+            "RAJASIMHA -> Shore Temple + Kailasanatha structural phase",
+            "LATER PALLAVAS -> Vaikuntha Perumal and continuing Kanchi patronage",
+            "TECHNIQUE: cave -> monolith -> structural temple, with overlap",
+            "MEANING: ritual experiment + royal image + coastal sacred landscape",
+            "RULE: sequence is analytical, not a crude progress ladder."
+          ],
+          "source_references": [
+            "Pallava architecture",
+            "Mamallapuram"
+          ]
+        },
+        {
+          "title": "Chalukya architecture and Vesara caution",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AIHOLE -> varied structural experiments and plans",
+            "BADAMI -> caves, capital landscape and early structural work",
+            "PATTADAKAL -> northern and southern superstructure forms side by side",
+            "VIRUPAKSHA -> Dravida form, Lokmahadevi and victory memory",
+            "PAPANATHA -> comparison point for mixed formal vocabulary",
+            "DURGA TEMPLE -> apsidal plan; name does not prove Durga dedication",
+            "VESARA: modern shorthand only after site-specific description."
+          ],
+          "source_references": [
+            "Chalukya architecture",
+            "Pattadakal"
+          ]
+        },
+        {
+          "title": "Art, literature and bilingual court culture",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "SCULPTURE / RELIEF -> Somaskanda, Shaiva-Vaishnava programmes",
+            "PAINTING -> Badami evidence with survival and attribution limits",
+            "SANSKRIT -> prashasti, court literature and Mattavilasa-prahasana",
+            "TAMIL -> documentary epigraphy and devotional hymn worlds",
+            "DANDIN / NANDIKKALAMBAKAM -> literary memory with context cautions",
+            "MONUMENT + TEXT -> kingship communicated through several media",
+            "2024 GS-I ROUTE: art and literature must appear together."
+          ],
+          "source_references": [
+            "Painting and sculpture",
+            "Languages and literature"
+          ]
+        },
+        {
+          "title": "Economy, ports and Bay of Bengal links",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "AGRARIAN SETTLEMENTS -> surplus + taxes + temple support",
+            "CRAFT CENTRES -> weaving, metal, sculpture and building labour",
+            "KANCHI -> political, religious, literary and commercial centre",
+            "MAMALLAPURAM -> coastal outlet and port-hinterland connection",
+            "MERCHANT GROUPS / NAGARAMS -> inland and maritime circulation",
+            "BAY OF BENGAL -> exchange and cultural contact",
+            "LIMIT: maritime connectivity is not proof of a Pallava overseas empire."
+          ],
+          "source_references": [
+            "Economy",
+            "Maritime links"
+          ]
+        },
+        {
+          "title": "Peninsular regionalisation answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> c. 550-900 as a formative early-medieval transition",
+            "POLITY -> Pallava-Chalukya rivalry + Vengi consequence",
+            "LOCALITY -> grants + ur/sabha/nagaram + hierarchy",
+            "RELIGION -> bhakti + Jain/Buddhist plurality + social limits",
+            "ART -> named Pallava and Chalukya sites before style labels",
+            "ECONOMY -> Kanchi-Mamallapuram and selective maritime vitality",
+            "CLOSE -> rivalry, land, shrines and language rooted regional states."
+          ],
+          "source_references": [
+            "UPSC answer architecture",
+            "Regionalisation"
+          ]
+        }
+      ]
+    }
+  ]
+}

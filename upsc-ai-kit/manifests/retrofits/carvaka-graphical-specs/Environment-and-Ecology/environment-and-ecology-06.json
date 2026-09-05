@@ -1,0 +1,1132 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-06",
+  "subject": "Environment-and-Ecology",
+  "title": "PROTECTED AREA NETWORK INDIA",
+  "short_route": "FOUR-CATEGORY LEGAL LADDER → RIGHTS AND TENURE MATRIX → 2002 EXPANSION LOGIC → TIGER OVERLAY STACK → RELOCATION SAFEGUARD GATE → TIGER AND ELEPHANT MODELS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-06-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "4435330ebcb2b8875b8ee1d326806daa0dce64d3c3de50a093367b1cc7c090e0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR-CATEGORY LEGAL LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR-CATEGORY LEGAL LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL PARK",
+          "role": "outcome"
+        },
+        {
+          "text": "STRICT STATUTORY HABITAT REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "WILDLIFE SANCTUARY",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTED HABITAT WITH A DIFFERENT RIGHTS SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CONSERVATION RESERVE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONNECTOR OR BUFFER, GENERALLY GOVERNMENT LAND",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITY RESERVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL PARK → strict statutory habitat regime",
+        "WILDLIFE SANCTUARY → protected habitat with a different rights settlement",
+        "CONSERVATION RESERVE → connector or buffer, generally government land",
+        "COMMUNITY RESERVE → consent-based community or private land",
+        "RULE → each category has its own notification and activity regime"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NATIONAL PARK → strict statutory habitat regime",
+            "WILDLIFE SANCTUARY → protected habitat with a different rights settlement"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSERVATION RESERVE → connector or buffer, generally government land",
+            "COMMUNITY RESERVE → consent-based community or private land"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → each category has its own notification and activity regime",
+            "NATIONAL PARK → strict statutory habitat regime"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → each category has its own notification and activity regime.",
+      "source_references": [
+        "Four protected-area categories",
+        "National Park",
+        "Wildlife Sanctuary",
+        "Conservation Reserve",
+        "Community Reserve"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RIGHTS AND TENURE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS AND TENURE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL PARK",
+          "role": "outcome"
+        },
+        {
+          "text": "STRICTEST OWNER-DESCRIBED ACTIVITY REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATED RIGHTS MAY CONTINUE AFTER SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSERVATION RESERVE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSULTATION-CENTERED GOVERNMENT-LAND ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNITY RESERVE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT PLUS LOCAL MANAGEMENT ROLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL PARK → strictest owner-described activity regime",
+        "SANCTUARY → regulated rights may continue after settlement",
+        "CONSERVATION RESERVE → consultation-centered government-land route",
+        "COMMUNITY RESERVE → consent plus local management role",
+        "CAUTION → read the Act and site notification before asserting a right"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NATIONAL PARK → strictest owner-described activity regime",
+          "CONSERVATION RESERVE → consultation-centered government-land route",
+          "CAUTION → read the Act and site notification before asserting a right"
+        ],
+        [
+          "SANCTUARY → regulated rights may continue after settlement",
+          "COMMUNITY RESERVE → consent plus local management role",
+          "NATIONAL PARK → strictest owner-described activity regime"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NATIONAL PARK → strictest owner-described activity regime",
+            "SANCTUARY → regulated rights may continue after settlement"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONSERVATION RESERVE → consultation-centered government-land route",
+            "COMMUNITY RESERVE → consent plus local management role"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "CAUTION → read the Act and site notification before asserting a right",
+            "NATIONAL PARK → strictest owner-described activity regime"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → read the Act and site notification before asserting a right.",
+      "source_references": [
+        "Rights and activity gradient"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "2002 EXPANSION LOGIC",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "2002 EXPANSION LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "1972 FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL PARKS AND SANCTUARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "LANDSCAPE GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "CORRIDORS, BUFFERS AND NON-STATE TENURE",
+          "role": "institution"
+        },
+        {
+          "text": "2002 AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSERVATION AND COMMUNITY RESERVES",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER LEGAL MENU WITHOUT ONE EXCLUSION MODEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1972 FRAMEWORK → National Parks and Sanctuaries",
+        "LANDSCAPE GAP → corridors, buffers and non-state tenure",
+        "2002 AMENDMENT → Conservation and Community Reserves",
+        "RESULT → wider legal menu without one exclusion model",
+        "LIMIT → category creation does not prove on-ground conservation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "1972 FRAMEWORK → National Parks and Sanctuaries",
+            "LANDSCAPE GAP → corridors, buffers and non-state tenure"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2002 AMENDMENT → Conservation and Community Reserves",
+            "RESULT → wider legal menu without one exclusion model"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → category creation does not prove on-ground conservation",
+            "1972 FRAMEWORK → National Parks and Sanctuaries"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → wider legal menu without one exclusion model.",
+      "source_references": [
+        "2002 category expansion"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TIGER OVERLAY STACK",
+      "structural_type": "layered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TIGER OVERLAY STACK",
+          "role": "primary"
+        },
+        {
+          "text": "UNDERLYING LAND STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "NP, SANCTUARY OR OTHER NOTIFIED LANDSCAPE",
+          "role": "comparison"
+        },
+        {
+          "text": "TIGER RESERVE",
+          "role": "evidence"
+        },
+        {
+          "text": "NTCA-LINKED SPECIES-MANAGEMENT OVERLAY",
+          "role": "primary"
+        },
+        {
+          "text": "CRITICAL TIGER HABITAT",
+          "role": "outcome"
+        },
+        {
+          "text": "COEXISTENCE AND CONNECTIVITY FUNCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "OVERLAY AND UNDERLYING CATEGORY REMAIN DISTINCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNDERLYING LAND STATUS → NP, Sanctuary or other notified landscape",
+        "TIGER RESERVE → NTCA-linked species-management overlay",
+        "CORE → critical tiger habitat",
+        "BUFFER → coexistence and connectivity functions",
+        "RULE → overlay and underlying category remain distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "UNDERLYING LAND STATUS → NP, Sanctuary or other notified landscape",
+            "TIGER RESERVE → NTCA-linked species-management overlay"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORE → critical tiger habitat",
+            "BUFFER → coexistence and connectivity functions"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → overlay and underlying category remain distinct",
+            "UNDERLYING LAND STATUS → NP, Sanctuary or other notified landscape"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → overlay and underlying category remain distinct.",
+      "source_references": [
+        "Tiger Reserve overlay",
+        "Critical tiger habitat and buffer"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RELOCATION SAFEGUARD GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RELOCATION SAFEGUARD GATE",
+          "role": "primary"
+        },
+        {
+          "text": "CORE-HABITAT PROPOSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY AFFECTED RIGHTS HOLDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "VOLUNTARY AND INFORMED",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLICABLE PACKAGE AND IMPLEMENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "FRA COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TENURE-RECOGNITION PROCESS CANNOT BE IGNORED",
+          "role": "mechanism"
+        },
+        {
+          "text": "HABITAT PROTECTION AND RIGHTS COMPLIANCE MUST TRAVEL TOGETHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE-HABITAT PROPOSAL → identify affected rights holders",
+        "CONSENT → voluntary and informed",
+        "REHABILITATION → applicable package and implementation",
+        "FRA COORDINATION → tenure-recognition process cannot be ignored",
+        "VERDICT → habitat protection and rights compliance must travel together"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "CORE-HABITAT PROPOSAL → identify affected rights holders",
+            "CONSENT → voluntary and informed"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "REHABILITATION → applicable package and implementation",
+            "FRA COORDINATION → tenure-recognition process cannot be ignored"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → habitat protection and rights compliance must travel together",
+            "CORE-HABITAT PROPOSAL → identify affected rights holders"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → habitat protection and rights compliance must travel together.",
+      "source_references": [
+        "Relocation and rights"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TIGER AND ELEPHANT MODELS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TIGER AND ELEPHANT MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY NTCA CORE-BUFFER ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDE-RANGING CORRIDOR AND LANDSCAPE COORDINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY FIT",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGER FOR BOUNDED TIGER HABITAT THAN ELEPHANT MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MULTI-STATE COORDINATION MATTERS FOR ELEPHANTS",
+          "role": "institution"
+        },
+        {
+          "text": "RESERVE DESIGN MUST FOLLOW SPECIES ECOLOGY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TIGER → statutory NTCA core-buffer architecture",
+        "ELEPHANT → wide-ranging corridor and landscape coordination",
+        "BOUNDARY FIT → stronger for bounded tiger habitat than elephant movement",
+        "JURISDICTION → multi-state coordination matters for elephants",
+        "RULE → reserve design must follow species ecology"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "TIGER → statutory NTCA core-buffer architecture",
+          "BOUNDARY FIT → stronger for bounded tiger habitat than elephant movement",
+          "RULE → reserve design must follow species ecology"
+        ],
+        [
+          "ELEPHANT → wide-ranging corridor and landscape coordination",
+          "JURISDICTION → multi-state coordination matters for elephants",
+          "TIGER → statutory NTCA core-buffer architecture"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "TIGER → statutory NTCA core-buffer architecture",
+            "ELEPHANT → wide-ranging corridor and landscape coordination"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOUNDARY FIT → stronger for bounded tiger habitat than elephant movement",
+            "JURISDICTION → multi-state coordination matters for elephants"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → reserve design must follow species ecology",
+            "TIGER → statutory NTCA core-buffer architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → reserve design must follow species ecology.",
+      "source_references": [
+        "Elephant landscape distinction"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ESZ LEGAL FIREWALL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ESZ LEGAL FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTED AREA",
+          "role": "outcome"
+        },
+        {
+          "text": "WILDLIFE PROTECTION ACT NOTIFICATION",
+          "role": "institution"
+        },
+        {
+          "text": "ENVIRONMENT PROTECTION ACT NOTIFICATION",
+          "role": "institution"
+        },
+        {
+          "text": "PA BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY PROTECTED-AREA LEGAL LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "ESZ BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE SITE-SPECIFIC REGULATORY LINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROTECTED AREA → Wildlife Protection Act notification",
+        "ESZ → Environment Protection Act notification",
+        "PA BOUNDARY → primary protected-area legal line",
+        "ESZ BOUNDARY → separate site-specific regulatory line",
+        "NO UNIFORM WIDTH → read the individual notification"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "PROTECTED AREA → Wildlife Protection Act notification",
+          "PA BOUNDARY → primary protected-area legal line",
+          "NO UNIFORM WIDTH → read the individual notification"
+        ],
+        [
+          "ESZ → Environment Protection Act notification",
+          "ESZ BOUNDARY → separate site-specific regulatory line",
+          "PROTECTED AREA → Wildlife Protection Act notification"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "PROTECTED AREA → Wildlife Protection Act notification",
+            "ESZ → Environment Protection Act notification"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PA BOUNDARY → primary protected-area legal line",
+            "ESZ BOUNDARY → separate site-specific regulatory line"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO UNIFORM WIDTH → read the individual notification",
+            "PROTECTED AREA → Wildlife Protection Act notification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO UNIFORM WIDTH → read the individual notification.",
+      "source_references": [
+        "Eco-Sensitive Zone statute",
+        "ESZ extent and activities",
+        "Boundary and surrounding landscape"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THREE SPATIAL OBJECTS",
+      "structural_type": "spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THREE SPATIAL OBJECTS",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIFIED PROTECTED-AREA BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATELY NOTIFIED ECO-SENSITIVE ZONE",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRIDOR, CATCHMENT OR SEASONAL-USE LANDSCAPE",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERLAP IN ECOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINCT IN LEGAL IDENTITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANSWER RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER CALL THE WHOLE LANDSCAPE THE NOTIFIED PA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INNER → notified protected-area boundary",
+        "AROUND → separately notified Eco-Sensitive Zone",
+        "BEYOND → corridor, catchment or seasonal-use landscape",
+        "OVERLAP IN ECOLOGY → distinct in legal identity",
+        "ANSWER RULE → never call the whole landscape the notified PA"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INNER → notified protected-area boundary",
+            "AROUND → separately notified Eco-Sensitive Zone"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BEYOND → corridor, catchment or seasonal-use landscape",
+            "OVERLAP IN ECOLOGY → distinct in legal identity"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER RULE → never call the whole landscape the notified PA",
+            "INNER → notified protected-area boundary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER RULE → never call the whole landscape the notified PA.",
+      "source_references": [
+        "Boundary and surrounding landscape",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONNECTIVITY MECHANISM",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONNECTIVITY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ISOLATED HABITAT",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCED MOVEMENT AND DISPERSAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRIDOR OR STEPPING STONE",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNCTIONAL LINKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "GENE FLOW AND SEASONAL ACCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "IMPROVED PERSISTENCE PATHWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTSIDE-PA LAND USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ISOLATED HABITAT → reduced movement and dispersal",
+        "CORRIDOR OR STEPPING STONE → functional linkage",
+        "GENE FLOW AND SEASONAL ACCESS → improved persistence pathway",
+        "OUTSIDE-PA LAND USE → determines corridor quality",
+        "LIMIT → mapped corridor is not proof of functional connectivity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ISOLATED HABITAT → reduced movement and dispersal",
+            "CORRIDOR OR STEPPING STONE → functional linkage"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GENE FLOW AND SEASONAL ACCESS → improved persistence pathway",
+            "OUTSIDE-PA LAND USE → determines corridor quality"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → mapped corridor is not proof of functional connectivity",
+            "ISOLATED HABITAT → reduced movement and dispersal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → mapped corridor is not proof of functional connectivity.",
+      "source_references": [
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BOUNDARY SAFEGUARD MAP",
+      "structural_type": "authority-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BOUNDARY SAFEGUARD MAP",
+          "role": "primary"
+        },
+        {
+          "text": "STATE PROCESS",
+          "role": "institution"
+        },
+        {
+          "text": "PROTECTED-AREA NOTIFICATION AND MANAGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LEGISLATURE",
+          "role": "institution"
+        },
+        {
+          "text": "OWNER-RECORDED ROLE FOR SPECIFIED BOUNDARY CHANGES",
+          "role": "primary"
+        },
+        {
+          "text": "OWNER-RECORDED RECOMMENDATION OR APPROVAL SAFEGUARD",
+          "role": "outcome"
+        },
+        {
+          "text": "ADDITIONAL TIGER RESERVE BOUNDARY ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY THE EXACT CATEGORY BEFORE NAMING THE AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE PROCESS → protected-area notification and management",
+        "STATE LEGISLATURE → owner-recorded role for specified boundary changes",
+        "NBWL → owner-recorded recommendation or approval safeguard",
+        "NTCA → additional Tiger Reserve boundary role",
+        "RULE → identify the exact category before naming the authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "STATE PROCESS → protected-area notification and management",
+            "STATE LEGISLATURE → owner-recorded role for specified boundary changes"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NBWL → owner-recorded recommendation or approval safeguard",
+            "NTCA → additional Tiger Reserve boundary role"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → identify the exact category before naming the authority",
+            "STATE PROCESS → protected-area notification and management"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify the exact category before naming the authority.",
+      "source_references": [
+        "Boundary alteration safeguards",
+        "Authorities and jurisdiction"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FORMAL PA AND OECM",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FORMAL PA AND OECM",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL PA",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY CATEGORY UNDER WILDLIFE LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "SUSTAINED CONSERVATION OUTCOME OUTSIDE FORMAL PA STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "SACRED OR WORKING LANDSCAPE",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBLE OECM ROUTE, NOT AUTOMATIC STATUS",
+          "role": "caution"
+        },
+        {
+          "text": "COUNTING CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "NEEDS A VERIFIED RECOGNITION PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FORMAL PA → statutory category under wildlife law",
+        "OECM → sustained conservation outcome outside formal PA status",
+        "SACRED OR WORKING LANDSCAPE → possible OECM route, not automatic status",
+        "COUNTING CLAIM → needs a verified recognition process",
+        "RULE → outcome label does not silently create a legal category"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "FORMAL PA → statutory category under wildlife law",
+          "SACRED OR WORKING LANDSCAPE → possible OECM route, not automatic status",
+          "RULE → outcome label does not silently create a legal category"
+        ],
+        [
+          "OECM → sustained conservation outcome outside formal PA status",
+          "COUNTING CLAIM → needs a verified recognition process",
+          "FORMAL PA → statutory category under wildlife law"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "FORMAL PA → statutory category under wildlife law",
+            "OECM → sustained conservation outcome outside formal PA status"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SACRED OR WORKING LANDSCAPE → possible OECM route, not automatic status",
+            "COUNTING CLAIM → needs a verified recognition process"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → outcome label does not silently create a legal category",
+            "FORMAL PA → statutory category under wildlife law"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → outcome label does not silently create a legal category.",
+      "source_references": [
+        "OECM distinction"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE AND PYQ SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE AND PYQ SPINE",
+          "role": "evidence"
+        },
+        {
+          "text": "PA CATEGORY, TIGER OVERLAY, ESZ, CORRIDOR OR OECM",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTIFIED BOUNDARY AND COMPETENT AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS, CONNECTIVITY AND MANAGEMENT MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANY COUNT, NOTIFICATION OR OVERLAY MILESTONE",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGNATION IS NOT VERIFIED PROTECTION OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → PA category, Tiger overlay, ESZ, corridor or OECM",
+        "FIX → notified boundary and competent authority",
+        "ADD → rights, connectivity and management mechanism",
+        "DATE → any count, notification or overlay milestone",
+        "QUALIFY → designation is not verified protection outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → PA category, Tiger overlay, ESZ, corridor or OECM",
+            "FIX → notified boundary and competent authority"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADD → rights, connectivity and management mechanism",
+            "DATE → any count, notification or overlay milestone"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → designation is not verified protection outcome",
+            "CLASSIFY → PA category, Tiger overlay, ESZ, corridor or OECM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → designation is not verified protection outcome.",
+      "source_references": [
+        "Live official network boundary",
+        "Audited PYQ and designation route"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE JUDICIAL SEQUENCE TO KNOW (VERIFY EXACT ORDER DATES",
+          "role": "outcome"
+        },
+        {
+          "text": "READ THE SEQUENCE, NOT JUST THE ENDPOINT. THE 2022",
+          "role": "caution"
+        },
+        {
+          "text": "IMPLEMENTATION GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "ESZ BOUNDARY FINALISATION FOR MANY PROTECTED AREAS HAS",
+          "role": "primary"
+        },
+        {
+          "text": "THE TENSION IS GENUINELY TWO-SIDED",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERLY PERMISSIVE ESZ RULES RISK EDGE-EFFECT",
+          "role": "caution"
+        },
+        {
+          "text": "PROTECTED-AREA AREA/COUNT STATISTICS (NATIONAL PARKS, SANCTUARIES, RESERVES) ARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "The judicial sequence to know (verify exact order dates before citing them): in",
+            "CAUTION: Read the sequence, not just the endpoint. The 2022 order is the strongest judicial",
+            "CAUTION: Implementation gap: ESZ boundary finalisation for many protected areas has",
+            "CAUTION: The tension is genuinely two-sided: overly permissive ESZ rules risk edge-effect"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Protected-area area/count statistics (National Parks, Sanctuaries, Reserves) are",
+            "CAUTION: \"Core/critical tiger habitat\" determination involves scientific criteria (habitat",
+            "CAUTION: Human-wildlife conflict data (e.g., livestock/crop loss, human casualties near protected",
+            "NTCA relocation guidelines require voluntary, informed consent and a defined"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "Eco-Sensitive Zone extent and permissible activity have been subject to evolving",
+            "Project Elephant has historically lacked an NTCA-equivalent statutory authority",
+            "Conservation Reserves and Community Reserves (2002 amendment) were specifically designed",
+            "NOT: NTCA-mandated relocation from tiger reserves is mandatory/involuntary. - Guidelines"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

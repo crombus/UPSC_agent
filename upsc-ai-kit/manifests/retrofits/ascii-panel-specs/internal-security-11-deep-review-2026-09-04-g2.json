@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-11",
+      "display_title": "Organised Crime, Narco-Terrorism and Trafficking",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Enterprise structure map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ISOLATED OFFENCE -> one event",
+            "NETWORK -> flexible task-based links",
+            "SYNDICATE -> continuing organised association",
+            "ORGANISED CRIME -> coordinated serious crime for material benefit"
+          ],
+          "source_references": [
+            "Organised-crime definition",
+            "Syndicate-network distinction",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Crime-terror nexus matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ORGANISED CRIME -> PROFIT / PARALLEL ILLICIT ECONOMY",
+            "TERRORISM -> POLITICAL / IDEOLOGICAL COERCION",
+            "SHARED MEANS -> ROUTES / FINANCE / ARMS / PROTECTION",
+            "NARCO-TERRORISM -> proved drug-economy intersection"
+          ],
+          "source_references": [
+            "Crime-terror ends boundary",
+            "Narco-terrorism definition",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional-model diagnostic",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EXTORTION MODEL -> DOMESTIC PARALLEL TAX / PROTECTION",
+            "EXTERNAL MODEL -> CROSS-BORDER / DIASPORA SUPPORT",
+            "ROUTE MODEL -> TRANSIT / MARKET / LOGISTICS NETWORK",
+            "RULE -> intervention follows model, not a uniform slogan"
+          ],
+          "source_references": [
+            "Regional-model variation",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Route-geography firewall",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "GOLDEN CRESCENT -> BROAD WESTERN SOURCE / TRANSIT EXPOSURE",
+            "GOLDEN TRIANGLE -> BROAD EASTERN SOURCE / TRANSIT EXPOSURE",
+            "INDIA -> BORDER / MARITIME / MARKET VULNERABILITY",
+            "NOT PROVED -> case route, actor or sponsor"
+          ],
+          "source_references": [
+            "Route-geography boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Safe supply-chain map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOURCE -> TRANSIT -> DISTRIBUTION",
+            "-> PROCEEDS -> LAUNDERING / ASSET CONTROL",
+            "RESPONSE -> intelligence + finance + lawful interdiction",
+            "SAFETY -> no routes, concealment or evasion methods"
+          ],
+          "source_references": [
+            "Non-operational supply chain",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "NDPS property ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "OFFENCE / QUANTITY CATEGORY",
+            "-> SEIZURE + EVIDENCE",
+            "-> PARALLEL FINANCIAL INVESTIGATION",
+            "-> CHAPTER VA / PMLA PROPERTY PROCESS",
+            "-> COURT OUTCOME / FORFEITURE WHERE ORDERED"
+          ],
+          "source_references": [
+            "NDPS framework",
+            "Follow-the-property route",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Narcotics institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NCB -> CENTRAL NODAL COORDINATION / ENFORCEMENT",
+            "NCORD -> APEX / EXECUTIVE / STATE / DISTRICT",
+            "ANTF -> STATE / UT COORDINATION + FINANCIAL FOCUS",
+            "POLICE / CUSTOMS / BORDER / MARITIME -> OWN MANDATES"
+          ],
+          "source_references": [
+            "NCB mandate",
+            "NCORD architecture",
+            "ANTF role",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Organised-crime law map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BNS 111 -> ORGANISED CRIME",
+            "BNS 112 -> PETTY ORGANISED CRIME",
+            "STATE SPECIAL LAW -> separate forum / procedure questions",
+            "RULE -> offence coverage does not prove enforcement outcome"
+          ],
+          "source_references": [
+            "BNS organised-crime offences",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Trafficking-smuggling test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "EXPLOITATION PURPOSE? -> TRAFFICKING ANALYSIS",
+            "PAID IRREGULAR ENTRY? -> MIGRANT-SMUGGLING ANALYSIS",
+            "BORDER CROSSING -> not required for trafficking",
+            "VICTIM STATUS -> protect; do not presume complicity"
+          ],
+          "source_references": [
+            "Trafficking definition",
+            "Trafficking-smuggling boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Victim-centred response rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IDENTIFY -> IMMEDIATE SAFETY",
+            "-> LEGAL AID / EVIDENCE / WITNESS PROTECTION",
+            "-> INVESTIGATE RECRUITER / FACILITATOR / PROCEEDS",
+            "-> REHABILITATE / REINTEGRATE / PREVENT RE-TRAFFICKING",
+            "MUST REMEMBER: Organised crime joins durable networks, illicit markets, corruption,..."
+          ],
+          "source_references": [
+            "Victim-centred response",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-11_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Illicit-market convergence map",
+          "structural_type": "hub-and-spoke",
+          "ascii_lines": [
+            "SHARED CRIMINAL-SERVICE HUB",
+            "-> ARMS | WILDLIFE | FICN | NARCOTICS | EXPLOITATION",
+            "SHARED SERVICES -> documents / corruption / finance / transport",
+            "RULE -> prove the shared link case by case",
+            "CLOSE DISTINCTION: Organised crime is not every repeated offence, narcotics seizure is..."
+          ],
+          "source_references": [
+            "Illicit-market convergence",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-11_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "PYQ and network-outcome rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2018 -> DRUG / LAUNDERING / HUMAN-TRAFFICKING LINK",
+            "2022 -> NATIONAL + TRANSNATIONAL CRIME-TERROR NEXUS",
+            "2024 -> NARCO-TERROR THREAT + COUNTERMEASURES",
+            "END -> NETWORK / MONEY / LOGISTICS / PROTECTION / VICTIM",
+            "QUALIFY -> seizure, notice and arrest are not dismantling",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace commodity or victim, route, network..."
+          ],
+          "source_references": [
+            "UNTOC-INTERPOL cooperation",
+            "Evidence-status firewall",
+            "Integrated-network end-state",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g2\\internal-security-11_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-11_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

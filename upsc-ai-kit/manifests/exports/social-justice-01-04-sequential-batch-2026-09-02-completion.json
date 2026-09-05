@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "batch_id": "social-justice-01-04-sequential-batch-2026-09-02",
+  "scope": "Social Justice learner-v2 Topics 01-04, strictly sequential, one topic at a time",
+  "generated_on": "2026-09-02",
+  "validated_at": "2026-09-02T18:00:31.700720+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "social-justice-01",
+      "social-justice-02",
+      "social-justice-03",
+      "social-justice-04"
+    ],
+    "topic_count": 4,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "social-justice-01:learner-v2:g2",
+      "social-justice-02:learner-v2:g1",
+      "social-justice-03:learner-v2:g1",
+      "social-justice-04:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 264,
+    "baseline_panels": 3040,
+    "authored_topics": 268,
+    "authored_panels": 3088,
+    "topic_delta": 4,
+    "panel_delta": 48,
+    "integrity_errors": []
+  },
+  "aggregate": {
+    "main_pdf_pages": 466,
+    "workbook_pdf_pages": 272,
+    "mcqs": 320,
+    "learning_sessions": 60,
+    "ascii_panels": 48,
+    "graphical_stages": 52
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-01",
+      "record_id": "social-justice-01:learner-v2:g2",
+      "variant": "learner-v2",
+      "generation": 2,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 118,
+        "workbook_pdf_pages": 68
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\social-justice-01-learner-v2-g2-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\social-justice-01-learner-v2-g2-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-01\\social-justice-01_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-01\\social-justice-01_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-01\\social-justice-01_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-01\\social-justice-01_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "social-justice-02",
+      "record_id": "social-justice-02:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 117,
+        "workbook_pdf_pages": 69
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\social-justice-02-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\social-justice-02-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-02\\social-justice-02_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "social-justice-03",
+      "record_id": "social-justice-03:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 117,
+        "workbook_pdf_pages": 68
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\social-justice-03-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\social-justice-03-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-03\\social-justice-03_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-03\\social-justice-03_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-03\\social-justice-03_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-03\\social-justice-03_Solved-Practice-Workbook_2026-09-02.md"
+    },
+    {
+      "topic_key": "social-justice-04",
+      "record_id": "social-justice-04:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 14,
+      "hard_gates_total": 14,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "main_pdf_pages": 114,
+        "workbook_pdf_pages": 67
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\social-justice-04-learner-v2-g1-2026-09-02-completion.json",
+      "per_topic_changed_files": "upsc-ai-kit\\manifests\\exports\\social-justice-04-learner-v2-g1-2026-09-02-changed-files.txt",
+      "per_topic_result_recorded": "passed",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-04\\social-justice-04_Complete-Learning-Session_2026-09-02.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-04\\social-justice-04_Solved-Practice-Workbook_2026-09-02.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-04\\social-justice-04_Complete-Learning-Session_2026-09-02.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-04\\social-justice-04_Solved-Practice-Workbook_2026-09-02.md"
+    }
+  ],
+  "errors": []
+}

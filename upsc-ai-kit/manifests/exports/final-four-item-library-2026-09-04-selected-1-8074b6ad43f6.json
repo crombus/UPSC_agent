@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T10:06:02+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "bc0614e71b8a0ad06a9dd4fdfd0037836b3580ff97bdbc04e436e06cfbbf16b8",
+    "sha256_after": "bc0614e71b8a0ad06a9dd4fdfd0037836b3580ff97bdbc04e436e06cfbbf16b8",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Modern History": 1
+  },
+  "sections": {
+    "Modern History — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 9028,
+    "pdf_count": 2327,
+    "png_count": 769,
+    "txt_count": 982,
+    "markdown_count": 1473,
+    "json_count": 3462,
+    "total_bytes": 4106428994,
+    "by_extension": {
+      ".json": 3462,
+      ".md": 1473,
+      ".pdf": 2327,
+      ".png": 769,
+      ".txt": 982,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-10",
+      "topic_title": "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+      "subject": "Modern History",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 10,
+      "source_record_id": "modern-indian-history-10:learner-v2:g7",
+      "source_generation": 7,
+      "destination_folder": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g7\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "9953ca995f19f873a69581db7f6ab28276457a782bcf52948ab6dce8c6320fd1",
+          "output_sha256": "9953ca995f19f873a69581db7f6ab28276457a782bcf52948ab6dce8c6320fd1",
+          "source_output_equal": true,
+          "bytes": 618043
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g7\\modern-indian-history-10_Solved-Practice-Workbook_2026-09-04.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "b83cc142ed78601e96f5d6f291cd71d79f0d8af5beb767bf958fd13f5e7d629f",
+          "output_sha256": "b83cc142ed78601e96f5d6f291cd71d79f0d8af5beb767bf958fd13f5e7d629f",
+          "source_output_equal": true,
+          "bytes": 475168
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-10\\carvaka-g7\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e4ccf16c565195dbe2308075301f74d009d15654c7faff695838630f82cf0950",
+          "output_sha256": "e4ccf16c565195dbe2308075301f74d009d15654c7faff695838630f82cf0950",
+          "source_output_equal": true,
+          "bytes": 2290610
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-10\\carvaka-g7\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "127fff0fcde5cf47f67c928b6808a27693df7f30e47f9e9507108fed994bea1e",
+          "output_sha256": "127fff0fcde5cf47f67c928b6808a27693df7f30e47f9e9507108fed994bea1e",
+          "source_output_equal": true,
+          "bytes": 3047439
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-10\\carvaka-g7\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "5cda2fdad61b4667bcd020fd1ce4bf6b8e80c8ca99b7c3ab1ba3f9bb8b4920fa",
+          "output_sha256": "5cda2fdad61b4667bcd020fd1ce4bf6b8e80c8ca99b7c3ab1ba3f9bb8b4920fa",
+          "source_output_equal": true,
+          "bytes": 2031073
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-10\\carvaka-g7\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a93193c60c23ae62d53c33ee81ed6755295c37fb39c5da0cbb3fa7299675a8c4",
+          "output_sha256": "a93193c60c23ae62d53c33ee81ed6755295c37fb39c5da0cbb3fa7299675a8c4",
+          "source_output_equal": true,
+          "bytes": 5086
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Modern\\MH\\flowcharts\\mhi-10\\carvaka-g7\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Modern History\\Subject-wide Syllabus\\10-Socio-Religious-42868e01-Aligarh-etc\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "8026a9f62b4c086a32835492260cfbf4141685ca1ac3558f0283bcaca423c1de",
+          "output_sha256": "8026a9f62b4c086a32835492260cfbf4141685ca1ac3558f0283bcaca423c1de",
+          "source_output_equal": true,
+          "source_text_sha256": "a93193c60c23ae62d53c33ee81ed6755295c37fb39c5da0cbb3fa7299675a8c4",
+          "normalized_text_equal": true,
+          "bytes": 56989
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 69,
+        "solved_practice_workbook": 32,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 69,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 32,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12054
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

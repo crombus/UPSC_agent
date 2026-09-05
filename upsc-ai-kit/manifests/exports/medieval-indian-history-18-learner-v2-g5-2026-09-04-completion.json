@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-18",
+  "record_id": "medieval-indian-history-18:learner-v2:g5",
+  "approval": false,
+  "result": "passed",
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-86303dd013cd.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-86303dd013cd-validation.json",
+  "final_library_errors": [],
+  "tracker_mismatches": [],
+  "reconciliation": [
+    {
+      "topic_key": "medieval-indian-history-18",
+      "title": "The Deccan & the Mughals (to 1657)",
+      "old_record_id": "medieval-indian-history-18:learner-v2:g4",
+      "new_record_id": "medieval-indian-history-18:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-18-learner-v2-g5-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T07:00:45.591669+00:00",
+      "identities": {
+        "export": "medieval-indian-history-18:learner-v2:g5",
+        "master": "medieval-indian-history-18:learner-v2:g5",
+        "review": "medieval-indian-history-18:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    }
+  ],
+  "targeted_tests": 82,
+  "authoritative_v2_validator": "passed"
+}

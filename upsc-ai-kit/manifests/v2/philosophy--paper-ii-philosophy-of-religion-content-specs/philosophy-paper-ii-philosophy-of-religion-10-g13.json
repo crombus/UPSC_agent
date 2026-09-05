@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "generated_on": "2026-08-27",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "generation": 13,
+  "official_syllabus_verbatim": "Nature of Religious Language : Analogical and Symbolic; Cognitivist and Non-cognitive.",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g12\\topic-10_Complete-Learning-Session_2026-08-27.md",
+  "coverage": {
+    "core": [
+      "two-axis framework",
+      "Aquinas",
+      "Tillich",
+      "cognitive spectrum",
+      "Advaita"
+    ],
+    "pyq_triggered_core": [
+      "Scotus and Maimonides",
+      "Ayer-Flew-Hare-Mitchell-Hick",
+      "Austin-Evans-Ramsey",
+      "Mimamsa and grammarian sphota",
+      "symbolism and mysticism"
+    ],
+    "supporting": [
+      "Ricoeur",
+      "Pseudo-Dionysius",
+      "Jain standpoint logic"
+    ],
+    "optional_advanced": [
+      "Radical Orthodoxy",
+      "fictionalism",
+      "specialist metaphor debates",
+      "pluralism enrichment"
+    ]
+  },
+  "verified_pyqs": 14,
+  "solved_answers": 20,
+  "mcqs": 56,
+  "approval": false,
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Complete-Learning-Session_2026-09-03.md"
+}

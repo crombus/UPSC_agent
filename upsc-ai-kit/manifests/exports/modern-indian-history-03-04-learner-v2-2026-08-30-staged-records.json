@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "id": "modern-indian-history-03-04-learner-v2-2026-08-30",
+  "selection": "modern-indian-history-03-04",
+  "tracker_updated": false,
+  "record_count": 2,
+  "records": [
+    {
+      "record_id": "modern-indian-history-03:learner-v2:g2",
+      "topic_key": "modern-indian-history-03",
+      "variant": "learner-v2",
+      "generation": 2,
+      "supersedes": "modern-indian-history-03:legacy-v1:g1",
+      "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — The Beginnings of European Settlements (Portuguese → Dutch → English → French)",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\modern-indian-history-03_Complete-Learning-Session_2026-08-30.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\modern-indian-history-03_Solved-Practice-Workbook_2026-08-30.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\modern-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\modern-indian-history-03_Solved-Practice-Workbook_2026-08-30.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\assets",
+      "generated_on": "2026-08-30",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+        ],
+        "official_question_sources": [
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+          "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md",
+          "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md",
+          "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+        ],
+        "local_ocr_sources": [
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf"
+        ],
+        "live_sources": [
+          "https://whc.unesco.org/en/list/234/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\modern-indian-history-03_Complete-Learning-Session_2026-08-30.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-08-30",
+        "superseded_v1": "modern-indian-history-03:legacy-v1:g1",
+        "source_hashes": {
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf": "dd2296588b681bc6a1ac98569861188149e56d8d11468ff07b26a9ebd35102b7",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf": "bf0e7fe8dbd739efd925ddb1eee4433d4b0dc17aabc71ae68483f40ed864cd03",
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf": "7e67395d871f52df0d1f54d8e0c899d14acfe4462ada6b095acc99d4242ff49a",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md": "9676f766ceea282b8c7583741a0bbad4cec890e75924cebb8cd94fab81af9e1e",
+          "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md": "87e8ce3d9a977fd83ef40f0faef361396d75ffe2cde038228843e31b20f172b6",
+          "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md": "0db28be0d054c7e554c9ad379f4a4001a55f5e8fbc917f7414d93ccdb02adf25",
+          "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md": "550f4e4ed61c32cc8db80a30fe792c6ab48dfd08885096cb0d6e1f180f4c861c",
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md": "baabf29c5901c7ff19af4f1fc8a864f95e3272d71ae008806e0f2921e8c030e5",
+          "notes\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Complete-Topic-Package_2026-08-14.pdf": "a9e3a7700ae2197bf25d7114981d20be69b4fc9f3fb437ace39b2dd93ee8b5bb",
+          "notes\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Solved-Workbook_2026-08-14.pdf": "ec8c35ad90909ca8362953ea129ff381acecd4a21646c93e736357a9cb2d4024",
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\03_Beginnings-European-Settlements-Portuguese-Dutch-English-French_Complete-Topic-Package.md": "6a47e9248c23969ea2d049657ca3d3bd92e2b096c1f8764e89fe451306c5fb4b",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\03_Beginnings-of-European-Settlements.md": "99d88d8a5fd826d22b754d087358dba65065003f83b50031a1eebc876a72feea",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md": "d045fee7b80f6e54a5847a150e2cc5227377096fd865ade77358f3981b8c1ba9",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md": "3319a452ba841919ef7105fc20f43db4312ee36152cdcdc4469b5db012cf4aee",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md": "83f3f3266634077082a3cb8f30b2bbe8e5ec775972ca8d3f582eb1c9f301599b",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md": "7e4e95b68ab5759ef006083d70fabc94006a32937d35f35e205204aa4d8d2876",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-03_Learning-Session.md": "f41aafa66c7440d64d418c473ebec04ce4c7b51b4adb4a6ce731235eaef4c14c",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-03_Solved-Workbook.md": "ba26edf0263ffee055d1a8852ba182c1ebc7810bf22689314ba9918208c9b4c7",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md": "43542caece514b70597d61be1b0963a4bcb0d8ee998fc4e2e65d5746147f7b5b",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-03-04-2026-08-30-sequential.json": "9c6dbb4c38112e0e5dbd6e4bcd87ed169a0a9ac025c83e63eed46f3da18619af",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\modern-indian-history-03.json": "05b733e5d08a4b5dab5c416cb1c3e554ad4f3124be5e14fb01c224901292ea5e",
+          "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json": "f008dd53ed92217d76dbc92f94e75ff67a2025fdff11dcdf1ffaa9b9619e93fe",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQ stems with substantive explanations; strict A-B-C-D repeated 20 times; original 10/15/20-mark Mains practice and verified/inferred PYQ provenance retained in both session and solved workbook Markdown.",
+        "current_linkage_note": "UNESCO's Churches and Convents of Goa record is used only as a bounded heritage anchor for Indo-Portuguese architecture, Asian missions, the tomb of St Francis Xavier, living religious use, and conservation threats such as weathering, capillary action and termites. It does not prove political causation, exact crop-transfer dates, or complete Portuguese monopoly of Indian Ocean commerce.",
+        "pyq_status_note": "Four directly routed Prelims demands are solved. The 2021 and 2022 keys are prominently labelled inferred because official local keys are unavailable; the 2025 Series-A crop-transfer answer retains its locally held official-key provenance. The 2022 GS-I Company-armies question is only a bounded Topic-05 bridge.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "81efd62ec012ffbbc102ec4a5ef9cd37e488946c326bfd371207f16f12928b68"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "modern-indian-history-03:learner-v2:g2"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-30",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2",
+        "master_image": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-03\\modern-indian-history-03_Graphical-Spec-g2.json",
+        "graphical_spec_sha256": "6e18b82838224af08993c3fca36614bae591780c0e0b28833cea9a5c561d88e5",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-03\\carvaka-g2\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-03-04-2026-08-30-sequential.json",
+        "ascii_master_spec_sha256": "9c6dbb4c38112e0e5dbd6e4bcd87ed169a0a9ac025c83e63eed46f3da18619af"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    },
+    {
+      "record_id": "modern-indian-history-04:learner-v2:g2",
+      "topic_key": "modern-indian-history-04",
+      "variant": "learner-v2",
+      "generation": 2,
+      "supersedes": "modern-indian-history-04:legacy-v1:g1",
+      "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\modern-indian-history-04_Complete-Learning-Session_2026-08-30.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\modern-indian-history-04_Solved-Practice-Workbook_2026-08-30.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\modern-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\modern-indian-history-04_Solved-Practice-Workbook_2026-08-30.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\assets",
+      "generated_on": "2026-08-30",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+        ],
+        "official_question_sources": [
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+          "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md",
+          "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md",
+          "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+        ],
+        "local_ocr_sources": [
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf"
+        ],
+        "live_sources": [
+          "https://www.thedailystar.net/news/bangladesh/news/plassey-must-be-revisited-beyond-betrayal-4203881"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\modern-indian-history-04_Complete-Learning-Session_2026-08-30.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-08-30",
+        "superseded_v1": "modern-indian-history-04:legacy-v1:g1",
+        "source_hashes": {
+          "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf": "dd2296588b681bc6a1ac98569861188149e56d8d11468ff07b26a9ebd35102b7",
+          "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf": "bf0e7fe8dbd739efd925ddb1eee4433d4b0dc17aabc71ae68483f40ed864cd03",
+          "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf": "7e67395d871f52df0d1f54d8e0c899d14acfe4462ada6b095acc99d4242ff49a",
+          "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md": "9676f766ceea282b8c7583741a0bbad4cec890e75924cebb8cd94fab81af9e1e",
+          "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md": "87e8ce3d9a977fd83ef40f0faef361396d75ffe2cde038228843e31b20f172b6",
+          "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md": "0db28be0d054c7e554c9ad379f4a4001a55f5e8fbc917f7414d93ccdb02adf25",
+          "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md": "550f4e4ed61c32cc8db80a30fe792c6ab48dfd08885096cb0d6e1f180f4c861c",
+          "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md": "baabf29c5901c7ff19af4f1fc8a864f95e3272d71ae008806e0f2921e8c030e5",
+          "notes\\Modern-Indian-History\\04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Complete-Learning-Session_2026-08-19.pdf": "9a8597ed348e4f7e1dc9e2ca7fbacc8e41dbc2e097ea74214835839122068e4e",
+          "notes\\Modern-Indian-History\\04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Premium-Solved-PYQ-Workbook_2026-08-19.pdf": "93b843a3e99f269bd8fee4922686c4bfb3c5c5ac11a6b24e3f2c315e7a3919c6",
+          "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\04_British-Conquest-of-Bengal-Plassey-Buxar-Dual-Government_Complete-Topic-Package.md": "76f115af51d6446168021fca0cfe03c073789dd91a0b781aa30b17351ac1948b",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md": "e2668de5c2fad0dfbf9448ad3bd4d1cb31690e81b93808de69b5fbfa07f500d9",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\02_Indian-States-and-Society-18th-Century.md": "d045fee7b80f6e54a5847a150e2cc5227377096fd865ade77358f3981b8c1ba9",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\03_Beginnings-of-European-Settlements.md": "3319a452ba841919ef7105fc20f43db4312ee36152cdcdc4469b5db012cf4aee",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md": "83f3f3266634077082a3cb8f30b2bbe8e5ec775972ca8d3f582eb1c9f301599b",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md": "7e4e95b68ab5759ef006083d70fabc94006a32937d35f35e205204aa4d8d2876",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\06_Government-Structure-and-Constitutional-Development-1757-1858.md": "6be3b45d061d7fa40890ada67618357619074ad49a7f2b406955bcea690226cc",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md": "e91a0a07b8a24fe8f3cce71e646f267b88b8257c2206f9d9c848b314c32d9798",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-04_Learning-Session.md": "19abdd750dd8937982738f2dd30e0ea2468b94586949cd92f32c4f77fc8eba5c",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-04_Solved-Workbook.md": "6b4922748292ab6b75172a493a7fedf3ad0d5a4ee0b2c9790887f7e63d77ade5",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+          "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md": "43542caece514b70597d61be1b0963a4bcb0d8ee998fc4e2e65d5746147f7b5b",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+          "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-03-04-2026-08-30-sequential.json": "9c6dbb4c38112e0e5dbd6e4bcd87ed169a0a9ac025c83e63eed46f3da18619af",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\modern-indian-history-04.json": "56e51bd50e9f91e6097f932a602ec243294b70d7a42025af99f6d090254a18c6",
+          "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json": "f008dd53ed92217d76dbc92f94e75ff67a2025fdff11dcdf1ffaa9b9619e93fe",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQ stems with substantive explanations; strict A-B-C-D repeated 20 times; original 10/15/20-mark Mains practice and verified/inferred PYQ provenance retained in both session and solved workbook Markdown.",
+        "current_linkage_note": "The Daily Star discussion published on 21 June 2026 is used only as a contemporary public-memory and historiography anchor: it highlights conspiracy, European rivalry, Murshidabad court tensions, the ambiguity of 'independent Bengal', and the danger of reducing Plassey to betrayal. Static causation comes from repository owners and local books. No unverified archive material is used.",
+        "pyq_status_note": "Repository routing audits assign Topic 04 zero direct PYQs. The verified 2022 GS-I Company-armies and famine questions remain explicitly labelled as bounded bridges owned by Topics 05 and 07; no official answer is fabricated.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "71de5fc419a453bd235d7bff8767172b236f3586fa4cf499378d4f5c528e551f"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "modern-indian-history-04:learner-v2:g2"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-30",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2",
+        "master_image": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-04\\modern-indian-history-04_Graphical-Spec-g2.json",
+        "graphical_spec_sha256": "5f2ad698845a25fd3faaaae3b3fd678e56aaef19165fa0d1f4218c754a78065f",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-04\\carvaka-g2\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-03-04-2026-08-30-sequential.json",
+        "ascii_master_spec_sha256": "9c6dbb4c38112e0e5dbd6e4bcd87ed169a0a9ac025c83e63eed46f3da18619af"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

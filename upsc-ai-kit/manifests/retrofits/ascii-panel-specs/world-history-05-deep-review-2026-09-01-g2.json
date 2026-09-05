@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-05",
+      "display_title": "Congress of Vienna and Concert of Europe",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Vienna's starting problem",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "NAPOLEON DEFEATED -> Europe needs reconstruction",
+            "FEAR 1 -> renewed French hegemony",
+            "FEAR 2 -> revolutionary and national contagion",
+            "VIENNA 1814-15 -> strategic peace plus conservative restoration",
+            "MUST REMEMBER: The Congress of Vienna (1814-15) used balance, legitimacy, compensation and",
+            "  containment after Napoleon; the Concert was a consultation practice among powers rather than",
+            "  a permanent supranational government."
+          ],
+          "source_references": [
+            "Post-Napoleonic reconstruction",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Three settlement principles",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEGITIMACY -> restore dynasties",
+            "BALANCE OF POWER -> contain France with buffers",
+            "COMPENSATION -> reward victors with territory",
+            "COMMON LIMIT -> populations do not supply consent"
+          ],
+          "source_references": [
+            "Legitimacy and dynastic restoration",
+            "Balance of power and buffers",
+            "Compensation and territorial bargaining",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Northern and central map logic",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NETHERLANDS -> Belgium + Holland buffer France",
+            "GERMAN LANDS -> 39-state Confederation under Austria",
+            "PRUSSIA -> Rhineland, Westphalia and part of Saxony",
+            "SWITZERLAND -> neutrality recognised"
+          ],
+          "source_references": [
+            "Balance of power and buffers",
+            "Germany: unity postponed",
+            "Poland, Prussia and Switzerland",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Italian and Polish deferral",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ITALY -> Austria gets Lombardy and Venetia",
+            "PIEDMONT -> strengthened by Genoa",
+            "POLAND -> Congress Poland under Russian control",
+            "RESULT -> national questions postponed, not resolved"
+          ],
+          "source_references": [
+            "Italy: Austrian control and Piedmont's strengthening",
+            "Poland, Prussia and Switzerland",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Concert operating mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "GREAT POWERS -> consult rather than fight immediately",
+            "CONGRESSES -> periodic management of disputes",
+            "STATUS QUO -> territorial and political order defended",
+            "LIMIT -> no permanent treaty-state or democratic representation"
+          ],
+          "source_references": [
+            "The Concert as diplomatic practice",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Concert versus Holy Alliance",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CONCERT -> broad practical great-power consultation",
+            "HOLY ALLIANCE -> Russia, Austria, Prussia; symbolic conservatism",
+            "OVERLAP -> both emerge in 1815 order",
+            "RULE -> never use the names as synonyms"
+          ],
+          "source_references": [
+            "Holy Alliance and practical limits",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Reintegration and repression",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AIX 1818 -> France readmitted to consultation",
+            "CARLSBAD 1819 -> censorship and university control",
+            "EXTERNAL LOGIC -> include a former enemy",
+            "INTERNAL LOGIC -> exclude liberal-national dissent"
+          ],
+          "source_references": [
+            "Aix-la-Chapelle and reintegration",
+            "Carlsbad and domestic repression",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Intervention congress sequence",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "TROPPAU 1820 -> intervention principle asserted",
+            "LAIBACH 1821 -> intervention against revolution applied",
+            "VERONA 1822 -> French intervention in Spain approved",
+            "AFTER VERONA -> old congress rhythm weakens"
+          ],
+          "source_references": [
+            "Intervention at Troppau, Laibach and Verona",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Belgium tests flexibility",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "1815 -> Belgium joined with Holland as buffer",
+            "1830 -> Belgian revolt breaks the arrangement",
+            "CONCERT -> accepts independence",
+            "LESSON -> adaptation can preserve wider equilibrium"
+          ],
+          "source_references": [
+            "Belgium and selective adaptation",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "1848 pressure and failure",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PRESSURE -> national + liberal + social grievances converge",
+            "DIVISION -> liberals, nationalists and workers differ",
+            "CONFLICT -> national claims collide in multinational empires",
+            "FORCE -> dynastic armies remain loyal and reverse revolutions",
+            "CLOSE DISTINCTION: The Vienna settlement's long peace among great powers must be separated",
+            "  from repression of liberal and national movements and from wars that continued at imperial",
+            "  or regional margins."
+          ],
+          "source_references": [
+            "Why 1848 came and failed",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Vienna's unintended gravediggers",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PRUSSIA GAINS RHINELAND -> stronger western base",
+            "PIEDMONT GAINS GENOA -> stronger Italian state",
+            "VIENNA INTENT -> reinforce conservative balance",
+            "LATER RESULT -> strengthened states lead national unification",
+            "EVIDENCE LIMIT: Metternich mattered, but British, Russian, Prussian, Austrian, French and",
+            "  smaller-state interests shaped the settlement; stability was negotiated and adaptive, not",
+            "  the product of one statesman or a frozen order."
+          ],
+          "source_references": [
+            "Compensation and territorial bargaining",
+            "Italy: Austrian control and Piedmont's strengthening",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        },
+        {
+          "title": "Peace-versus-repression spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SUCCESS -> no renewed Napoleonic hegemony",
+            "METHOD -> balance, reintegration and consultation",
+            "COST -> censorship, intervention and denied nationality",
+            "VERDICT -> peace among powers, legitimacy deficit among peoples"
+          ],
+          "source_references": [
+            "Peace, repression and the final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\05_Congress-of-Vienna-and-Concert-of-Europe.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-05\\g2\\world-history-05_Complete-Learning-Session_2026-09-01.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-22",
+      "display_title": "General Science: Chemistry Fundamentals",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Atom and periodic identity map",
+          "structural_type": "nested-hierarchy",
+          "ascii_lines": [
+            "NUCLEUS -> protons + neutrons",
+            "ATOMIC NUMBER -> protons -> element identity",
+            "MASS NUMBER -> protons + neutrons",
+            "ISOTOPE / ISOBAR / ISOTONE -> different comparison axes",
+            "PERIODIC TABLE -> atomic number + recurring properties"
+          ],
+          "source_references": [
+            "Atomic identity and isotope boundary",
+            "Periodic trends and qualified comparison",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bond and force ladder",
+          "structural_type": "ranked-ladder",
+          "ascii_lines": [
+            "IONIC -> electron transfer + ion attraction",
+            "COVALENT -> shared electron pair",
+            "METALLIC -> delocalised electrons",
+            "HYDROGEN BOND / VAN DER WAALS -> weaker interparticle forces",
+            "TRAP -> do not collapse bond and force categories"
+          ],
+          "source_references": [
+            "Ionic covalent metallic and intermolecular distinction",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Stoichiometric accounting rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WRITE SPECIES -> BALANCE EQUATION",
+            "CONVERT SUPPLIED QUANTITIES -> MOLES",
+            "COMPARE STOICHIOMETRIC REQUIREMENT",
+            "IDENTIFY LIMITING REAGENT -> THEORETICAL PRODUCT",
+            "ACTUAL / THEORETICAL -> YIELD, only with supplied data"
+          ],
+          "source_references": [
+            "Mole and stoichiometric accounting",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "State and solution matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SOLID / LIQUID / GAS -> arrangement + mobility + separation",
+            "PHASE CHANGE -> physical identity retained",
+            "SOLUTION -> molecular/ionic dispersion",
+            "CONCENTRATION -> amount on a stated basis",
+            "SOLUBILITY -> equilibrium limit under stated conditions"
+          ],
+          "source_references": [
+            "States phase change and intermolecular forces",
+            "Solutions concentration and solubility boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Acid base buffer control loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "ACID DONATES H+ <-> BASE ACCEPTS H+",
+            "pH -> logarithmic activity measure",
+            "NEUTRALISATION -> acidic/basic character reduced",
+            "BUFFER -> consumes limited added acid/base",
+            "SALT SOLUTION -> acidic / basic / neutral depends on ions"
+          ],
+          "source_references": [
+            "Acids bases neutralisation and pH",
+            "Buffers salts and neutral-point boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Electrochemical two-cell map",
+          "structural_type": "split-path",
+          "ascii_lines": [
+            "OXIDATION -> anode | REDUCTION -> cathode",
+            "GALVANIC CELL -> chemical energy to electrical energy",
+            "ELECTROLYTIC CELL -> electrical energy drives chemistry",
+            "CORROSION / PLATING / EXTRACTION -> applied routes",
+            "SIGN TRAP -> cell type changes signs, not reaction locations"
+          ],
+          "source_references": [
+            "Oxidation reduction and electrochemical cells",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Kinetics versus equilibrium",
+          "structural_type": "two-axis-map",
+          "ascii_lines": [
+            "RATE AXIS -> collisions + activation energy",
+            "CATALYST -> alternative lower-energy pathway",
+            "EQUILIBRIUM AXIS -> forward rate equals reverse rate",
+            "CATALYST -> faster approach in both directions",
+            "NO SHIFT -> equilibrium position unchanged"
+          ],
+          "source_references": [
+            "Reaction rate catalyst and equilibrium boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Organic and polymer family tree",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "FUNCTIONAL GROUPS -> alcohol | aldehyde | ketone | acid | amine | ester",
+            "ADDITION POLYMER -> no small-molecule elimination",
+            "CONDENSATION POLYMER -> small molecule eliminated",
+            "THERMOPLASTIC <-> THERMOSET -> reheating boundary",
+            "HYDROGEL -> cross-linked hydrophilic network"
+          ],
+          "source_references": [
+            "Organic functional-group classification",
+            "Polymer structure and processing classes",
+            "Hydrogel polymer-network route",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Materials structure-property wheel",
+          "structural_type": "portfolio-wheel",
+          "ascii_lines": [
+            "DIAMOND -> tetrahedral network",
+            "GRAPHITE -> layered structure",
+            "GRAPHENE / FULLERENE / NANOTUBE -> distinct carbon architectures",
+            "ALLOY -> composition + processing alter properties",
+            "RULE -> same element can yield different material behaviour"
+          ],
+          "source_references": [
+            "Carbon allotropes alloys and material properties",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Fuel conversion fault tree",
+          "structural_type": "fault-tree",
+          "ascii_lines": [
+            "COMBUSTION -> oxidation + useful heat + possible pollutants",
+            "INCOMPLETE COMBUSTION -> different product burden",
+            "GASIFICATION -> controlled oxygen/steam conversion",
+            "SYNGAS -> carbon monoxide + hydrogen dominant route",
+            "OUTCOME FIREWALL -> product is not efficiency or climate proof",
+            "MUST REMEMBER: Chemistry fundamentals link atomic structure, mole/stoichiometry, bonding,..."
+          ],
+          "source_references": [
+            "Fuels combustion and gasification boundary",
+            "Coal-gasification routed product boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-22_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Environmental compartment map",
+          "structural_type": "compartment-map",
+          "ascii_lines": [
+            "STRATOSPHERE -> ozone protective role",
+            "TROPOSPHERE -> ozone pollutant role",
+            "WATER / SOIL -> nutrients, acids, salts, persistent chemicals",
+            "EXPOSURE -> concentration + route + duration + conditions",
+            "LABEL -> not safety, hazard or regulation evidence",
+            "CLOSE DISTINCTION: Atom is not molecule, mole is not mass, ionic is not covalent,..."
+          ],
+          "source_references": [
+            "Environmental chemistry compartment map",
+            "Measurement exposure and category firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-22_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "PYQ and policy evidence ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "WATER POLARITY -> many ionic/polar solutes, not every substance",
+            "BPA / TRICLOSAN -> presence differs from exposure and regulation",
+            "HYDROGEL -> material class differs from universal performance",
+            "PRINCIPLE -> PROCESS -> APPLICATION -> INSTITUTION",
+            "PAGE / DOCUMENT -> not deployment, outcome, hazard or law",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Balance species, charge and units; state..."
+          ],
+          "source_references": [
+            "Hydrogel polymer-network route",
+            "Water polarity BPA and triclosan boundaries",
+            "Chemistry-to-policy evidence ladder",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-22_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

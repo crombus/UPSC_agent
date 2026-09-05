@@ -1,0 +1,24 @@
+ M EXPORT-PDF-COMMAND-INDEX.md
+ M EXPORT-PDF-STATUS.json
+?? V2-SUBJECT-SECTION-COMMAND-INDEX.md
+?? tools/generate_world_history_19_20_sequential.py
+?? tools/generate_world_history_21_sequential.py
+?? tools/generate_world_history_common.py
+?? tools/notions_style_ascii_master.py
+?? tools/test_generate_world_history_19_20_sequential.py
+?? tools/test_generate_world_history_21_sequential.py
+?? tools/test_refresh_all_v2_learning_sessions.py
+?? tools/world_history_19_21_data.py
+?? upsc-ai-kit/manifests/exports/world-history-19-21-learner-v2-2026-09-01-completion.json
+?? upsc-ai-kit/manifests/exports/world-history-19-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/world-history-19-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/world-history-19-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/exports/world-history-20-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/world-history-20-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/world-history-20-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/exports/world-history-21-learner-v2-2026-09-01-staged-records.json
+?? upsc-ai-kit/manifests/exports/world-history-21-learner-v2-2026-09-01-validation.json
+?? upsc-ai-kit/manifests/exports/world-history-21-new-topic-2026-09-01.json
+?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/world-history-19-20-2026-09-01-sequential.json
+?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/world-history-21-2026-09-01-sequential.json
+?? upsc-ai-kit/manifests/exports/world-history-19-21-learner-v2-2026-09-01-changed-files.txt

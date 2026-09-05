@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-19",
+  "record_id": "medieval-indian-history-19:learner-v2:g5",
+  "approval": false,
+  "result": "passed",
+  "final_library_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-ca9291d9bbe9.json",
+  "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-04-selected-1-ca9291d9bbe9-validation.json",
+  "final_library_errors": [],
+  "tracker_mismatches": [],
+  "reconciliation": [
+    {
+      "topic_key": "medieval-indian-history-19",
+      "title": "Foreign Policy of the Mughals",
+      "old_record_id": "medieval-indian-history-19:learner-v2:g4",
+      "new_record_id": "medieval-indian-history-19:learner-v2:g5",
+      "old_generation": 4,
+      "new_generation": 5,
+      "old_score": 97,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\medieval-indian-history-19-learner-v2-g5-2026-09-04-validation.json",
+      "review_started_at": "2026-09-04T07:23:31.643014+00:00",
+      "identities": {
+        "export": "medieval-indian-history-19:learner-v2:g5",
+        "master": "medieval-indian-history-19:learner-v2:g5",
+        "review": "medieval-indian-history-19:learner-v2:g5"
+      },
+      "generations": {
+        "export": 5,
+        "master": 5,
+        "review": 5
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    }
+  ],
+  "targeted_tests": 83,
+  "authoritative_v2_validator": "passed"
+}

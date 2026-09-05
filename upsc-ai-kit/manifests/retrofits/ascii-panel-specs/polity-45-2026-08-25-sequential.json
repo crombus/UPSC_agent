@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-45-ascii-panels-2026-08-25-sequential",
+  "created_on": "2026-08-25",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Topic-specific Gate D authored only after source and workbook completion; prior topic specifications remain unchanged.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 90,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-45": {
+      "title": "National Integration and Foreign Policy",
+      "source_record": "polity-45:learner-v2:g5",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md",
+      "quality_review": "Twelve-stage authored Core, doctrine, current-evidence and exact-PYQ map reviewed on 28 August 2026.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Constitutional belonging without uniformity",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 1"
+          ],
+          "full_text": "diversity -> equal citizenship -> accommodation -> participation -> shared belonging\n\nTRAPS\nregional identity != secessionism | dissent != disloyalty | migration != collective guilt\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Preamble, rights, DPSPs and duties",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 2"
+          ],
+          "full_text": "PREAMBLE\nfraternity + dignity + unity and integrity\n\nRIGHTS\n14-16 equality | 19 voice | 25-30 religious and cultural freedom\n\nDPSPs + DUTIES\nsocial justice | 51A(c), (e), (f), (i)\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Federal accommodation",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 3"
+          ],
+          "full_text": "COMMON SPINE\nsingle citizenship | integrated institutions | Union capacity\n\nACCOMMODATION\nlinguistic States | Fifth/Sixth Schedules | 371-371J | fiscal federalism\n\nVERDICT\nunity is built by recognising legitimate difference\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Language and minority safeguards",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 4"
+          ],
+          "full_text": "ARTICLE 343\nUnion official language, not a national-language declaration\n\nPLURAL FRAME\nEnglish by statute | State official languages | Eighth Schedule\n| Articles 29-30 | 350A-350B | composite culture\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Challenge-response ladder",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 5"
+          ],
+          "full_text": "CHALLENGES\nregionalism | communalism | separatism | inequality | disinformation\n\nRESPONSE\nrecognition -> representation -> development -> dialogue\n-> targeted lawful security -> review -> reconciliation\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Emergency and security limits",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 6"
+          ],
+          "full_text": "ARTICLE 355 duty -> ARTICLE 356 exceptional remedy\n\nS. R. S.R. BOMMAI (1994)\nfederalism + secularism + judicial review\n\nFIREWALL\nlegality | necessity | proportionality | remedy\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "National Integration Council",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 7"
+          ],
+          "full_text": "NIC\n1961 | extra-constitutional | non-statutory | advisory | PM chair\n\nEVIDENCE\nlatest official meeting located: 23 September 2013\n\nREFORM\nregular agenda + State voice + action-taken reporting\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Foreign-affairs competence",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 8"
+          ],
+          "full_text": "ARTICLE 51 values\npeace | honourable relations | international law | arbitration\n\nARTICLE 246 + UNION LIST 10-21 competence\nARTICLE 73 executive power\nARTICLE 253 implementation legislation\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "International-to-domestic chain",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 9"
+          ],
+          "full_text": "negotiation -> international commitment -> domestic-law test\n\nexisting law sufficient -> executive implementation\nlaw or rights change -> legislation\nterritorial cession -> constitutional amendment\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Treaty case doctrine",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 10"
+          ],
+          "full_text": "BERUBARI UNION (1960): cession requires amendment\nMAGANBHAI: existing law versus law-changing action\nJOLLY GEORGE: no automatic covenant override\nGRAMOPHONE: harmony absent conflict\nVISHAKA (1997): rights-consistent gap filling\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "Non-alignment to strategic autonomy",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 11"
+          ],
+          "full_text": "PANCHSHEEL 1954 -> NON-ALIGNMENT -> STRATEGIC AUTONOMY\n\nindependent judgment | diversified partnerships | domestic capability\n\nNAM != neutrality | autonomy != isolation\n\nAUTONOMY TEST\ndecision independence | diversified partners | domestic capability | issue-based coalitions\nLIMIT\nautonomy is not isolation, neutrality or freedom from material dependence.\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        },
+        {
+          "title": "UPSC synthesis and PYQ map",
+          "structural_type": "reviewed-topic-flow",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md#SESSION 12"
+          ],
+          "full_text": "2018 communalism | 2022 BIMSTEC-SAARC\n2023 ethnic identity | 2023 diaspora\n\nANSWER SPINE\ndefine -> rule -> mechanism -> evidence -> limit -> verdict\n\nUNITY WITHOUT UNIFORMITY\nAUTONOMY WITHOUT ISOLATION\n\nCASE CONTROL\nS.R. Bommai (1994): federalism, secularism and review.\nIn Re: Section 6A (2024): migration and regional protection require constitutional review.\nBerubari Union (1960): territorial cession requires amendment.\nMaganbhai Ishwarbhai Patel (1969): existing-law implementation differs from law change.\nJolly George Varghese v. Bank of Cochin (1980): covenant does not automatically override law.\nGramophone Company of India v. Birendra Bahadur Pandey (1984): harmonious interpretation\nabsent conflict.\nVishaka (1997): international norms may fill a rights-consistent domestic vacuum."
+        }
+      ]
+    }
+  }
+}

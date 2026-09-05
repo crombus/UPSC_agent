@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "world-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "world_history_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-17",
+      "display_title": "China, Communism and Asia",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "China's state-collapse chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "FOREIGN PRESSURE -> Qing legitimacy erodes",
+            "1911 -> dynasty falls",
+            "YUAN SHIKAI -> republic becomes military dictatorship",
+            "WARLORDS -> central authority fragments",
+            "MUST REMEMBER: Qing crisis, 1911 revolution, warlordism, CCP foundation (1921), KMT rupture",
+            "  (1927), Long March, Japanese invasion, 1949 victory, Maoist campaigns and post-1978 reform",
+            "  form distinct state-building phases.",
+            "MUST REMEMBER: Qing crisis, 1911 revolution, warlordism, CCP foundation (1921), KMT rupture",
+            "  (1927), Long March, Japanese invasion, 1949 victory, Maoist campaigns and post-1978 reform",
+            "  form distinct state-building phases.",
+            "MUST REMEMBER: Qing crisis, 1911 revolution, warlordism, CCP foundation (1921), KMT rupture",
+            "  (1927), Long March, Japanese invasion, 1949 victory, Maoist campaigns and post-1978 reform",
+            "  form distinct state-building phases."
+          ],
+          "source_references": [
+            "Foreign pressure and Qing legitimacy",
+            "1911 and Yuan's military state",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Competing political routes",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SUN YAT-SEN -> nationalism, democracy and livelihood",
+            "KMT -> republican-national state project",
+            "CCP 1921 -> communist organisation",
+            "1927 -> alliance breaks into civil war"
+          ],
+          "source_references": [
+            "Sun Yat-sen and competing republicanism",
+            "CCP formation and KMT rupture",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mao's rural strategy",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SMALL URBAN PROLETARIAT -> orthodox route weak",
+            "PEASANTS -> mass rural constituency",
+            "LAND REFORM -> material political claim",
+            "DISCIPLINE -> local governing legitimacy"
+          ],
+          "source_references": [
+            "Mao's rural strategy",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Long March mechanism",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1934-35 -> communist retreat",
+            "SURVIVAL -> leadership preserved",
+            "MAO -> dominance consolidated",
+            "MEMORY -> retreat converted into legitimacy"
+          ],
+          "source_references": [
+            "Long March and leadership",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Why the CCP won",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KMT -> corruption, inflation and poor administration",
+            "CCP -> discipline, land reform and peasant contact",
+            "JAPANESE WAR -> KMT burden rises",
+            "1949 -> Mao proclaims PRC; Chiang retreats"
+          ],
+          "source_references": [
+            "Japanese invasion reshapes civil war",
+            "Why the KMT lost",
+            "Why the CCP won and founded the PRC",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mao-era balance sheet",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONSOLIDATION -> unity and landlord power weakened",
+            "HUNDRED FLOWERS -> criticism followed by repression",
+            "GREAT LEAP -> communes, disruption and famine",
+            "CULTURAL REVOLUTION -> education and administration damaged"
+          ],
+          "source_references": [
+            "Early one-party consolidation",
+            "Great Leap Forward",
+            "Cultural Revolution",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Great Leap mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CRASH TARGETS -> administrative pressure rises",
+            "COMMUNES -> rural production reorganised",
+            "FEEDBACK FAILS -> error travels upward",
+            "RESULT -> severe disruption and famine"
+          ],
+          "source_references": [
+            "Great Leap Forward",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Cultural Revolution mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MASS CAMPAIGN -> alleged enemies attacked",
+            "EDUCATION -> continuity broken",
+            "ADMINISTRATION -> authority destabilised",
+            "SOCIAL ORDER -> prolonged damage, 1966-76"
+          ],
+          "source_references": [
+            "Cultural Revolution",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Deng's reform boundary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ECONOMY -> decollectivisation and market mechanisms",
+            "EXTERNAL -> investment and opening",
+            "POLITICS -> one-party rule retained",
+            "1989 -> force blocks political liberalisation"
+          ],
+          "source_references": [
+            "Deng reform and Tiananmen",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Asian communist diversity",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH KOREA -> division and extreme centralisation",
+            "VIETNAM -> anti-colonial nationalism plus communism",
+            "CAMBODIA -> Khmer Rouge extremism",
+            "LAOS -> durable one-party pragmatic adjustment",
+            "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP",
+            "  land, discipline, peasant and national-defence strategies; Soviet assistance is not a",
+            "  complete explanation.",
+            "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP",
+            "  land, discipline, peasant and national-defence strategies; Soviet assistance is not a",
+            "  complete explanation.",
+            "CLOSE DISTINCTION: The KMT's inflation, corruption and war burden must be compared with CCP",
+            "  land, discipline, peasant and national-defence strategies; Soviet assistance is not a",
+            "  complete explanation."
+          ],
+          "source_references": [
+            "Comparative Asian communisms",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sino-Soviet split",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1950 -> treaty of friendship and assistance",
+            "AFTER 1956 -> doctrine, aid and territory divide",
+            "1979 -> China attacks Soviet-aligned Vietnam",
+            "1989 -> formal reconciliation in Beijing",
+            "EVIDENCE LIMIT: Great Leap famine, Cultural Revolution, reform without democratisation,",
+            "  Sino-Soviet rupture and diverse Asian communist routes prevent a triumphalist or monolithic",
+            "  communist-bloc account.",
+            "EVIDENCE LIMIT: Great Leap famine, Cultural Revolution, reform without democratisation,",
+            "  Sino-Soviet rupture and diverse Asian communist routes prevent a triumphalist or monolithic",
+            "  communist-bloc account.",
+            "EVIDENCE LIMIT: Great Leap famine, Cultural Revolution, reform without democratisation,",
+            "  Sino-Soviet rupture and diverse Asian communist routes prevent a triumphalist or monolithic",
+            "  communist-bloc account."
+          ],
+          "source_references": [
+            "Sino-Soviet fracture and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "China answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CRISIS -> dynasty falls without a functioning state",
+            "VICTORY -> rural organisation out-governs KMT",
+            "MAO -> unity plus self-generated catastrophe",
+            "REFORM -> markets without democracy; bloc fractures"
+          ],
+          "source_references": [
+            "Sino-Soviet fracture and final verdict",
+            "upsc-ai-kit\\knowledge\\World-History\\basic\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\World-History\\advanced\\17_China-Communism-and-Asia.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g2\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g3\\world-history-17_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-17\\g4\\world-history-17_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

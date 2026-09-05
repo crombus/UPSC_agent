@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "indian-art-and-culture-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_art_culture_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-07",
+      "display_title": "Painting Traditions",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Painting reading axes",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "FORMAT -> rock, wall, page, album or canvas",
+            "TECHNIQUE -> engraving, dry plaster, wash or print",
+            "PATRON -> monastery, court, market or community",
+            "AUDIENCE -> collective, private or mass",
+            "MUST REMEMBER: Painting chronology runs from rock art and Ajanta-Bagh murals through",
+            "  Pallava-Chola walls, Pala and Jain manuscripts, Mughal ateliers, regional miniatures,",
+            "  Company-bazaar publics and nationalist modern responses.",
+            "MUST REMEMBER: Painting chronology runs from rock art and Ajanta-Bagh murals through",
+            "  Pallava-Chola walls, Pala and Jain manuscripts, Mughal ateliers, regional miniatures,",
+            "  Company-bazaar publics and nationalist modern responses."
+          ],
+          "source_references": [
+            "Painting vocabulary and rock art",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mural technique firewall",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AJANTA -> prepared plaster, pigment after drying",
+            "TRUE FRESCO -> pigment into wet plaster",
+            "BAGH -> do not transfer Ajanta's label automatically",
+            "RULE -> technique must be site-specific"
+          ],
+          "source_references": [
+            "Ajanta's dry-plaster technique",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bagh identification card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SITE -> Baghni river, Dhar district",
+            "CAVE 4 -> Rang Mahal, Jataka murals",
+            "HALLISALASYA -> Bagh paintings generally",
+            "LIMIT -> no modern-form equivalence"
+          ],
+          "source_references": [
+            "Bagh and Hallisalasya",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Southern mural survival",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PALLAVA -> Kanchipuram and Panamalai",
+            "PANDYA -> Sittanavasal bridge",
+            "CHOLA -> Vijaya Cholishwaram and Brihadishvara",
+            "NAYAKA -> later superimposition"
+          ],
+          "source_references": [
+            "Pallava and Chola mural survival",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Format-patronage shift",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MONUMENTAL WALL -> institutional sponsor",
+            "MANUSCRIPT -> portable devotional page",
+            "ALBUM -> private connoisseurial patron",
+            "PRINT / CANVAS -> market and public"
+          ],
+          "source_references": [
+            "From wall to portable page",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mughal atelier change",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AKBAR -> narrative manuscript series",
+            "WORKSHOP -> collaborative karkhana",
+            "JAHANGIR -> album portrait and natural history",
+            "CONTINUITY -> mobile trained artists"
+          ],
+          "source_references": [
+            "Akbar's collaborative atelier",
+            "Jahangir's album and natural history",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional miniature map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "KISHANGARH -> Bani Thani, Nihal Chand",
+            "BASOHLI -> bold line and intense colour",
+            "GULER / KANGRA -> lyrical naturalism",
+            "DECCAN -> saturated Persianate court idiom"
+          ],
+          "source_references": [
+            "Kishangarh and Bani Thani",
+            "Pahari and Deccani discriminators",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "South Indian distinction",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TANJORE -> gesso relief and gold coating",
+            "MYSORE -> separate court tradition",
+            "DEVOTIONAL ICON -> shared broad purpose",
+            "TRAP -> shared region is not identity"
+          ],
+          "source_references": [
+            "Tanjore and Mysore",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Colonial public matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMPANY -> European patron and documentation",
+            "BAZAAR / KALIGHAT -> commercial public",
+            "RAVI VARMA -> academic realism and prints",
+            "BENGAL SCHOOL -> nationalist wash idiom"
+          ],
+          "source_references": [
+            "Company, bazaar and colonial publics",
+            "Ravi Varma and Bengal School",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Folk-painting discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MADHUBANI -> Mithila line-and-fill",
+            "WARLI -> white geometric figures on earth ground",
+            "PATTACHITRA -> Odisha cloth or palm leaf",
+            "KALAMKARI -> narrative textile process",
+            "CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet",
+            "  fresco; Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore",
+            "  retain distinct identifiers.",
+            "CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet",
+            "  fresco; Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore",
+            "  retain distinct identifiers."
+          ],
+          "source_references": [
+            "Folk and tribal production systems",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Survival-bias ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SURVIVING OBJECT -> direct evidence",
+            "LITERARY REFERENCE -> practice was known",
+            "MISSING WALL -> preservation gap",
+            "VERDICT -> do not equate survival with production",
+            "EVIDENCE LIMIT: Survival scarcity does not prove low original production, shared Persianate",
+            "  resources do not make every miniature Mughal, and folk or tribal traditions require region,",
+            "  support, community and function.",
+            "EVIDENCE LIMIT: Survival scarcity does not prove low original production, shared Persianate",
+            "  resources do not make every miniature Mughal, and folk or tribal traditions require region,",
+            "  support, community and function."
+          ],
+          "source_references": [
+            "Pallava and Chola mural survival",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Painting answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> format and technique",
+            "TRACE -> patron and audience change",
+            "COMPARE -> named school on common axes",
+            "QUALIFY -> survival, attribution and current status"
+          ],
+          "source_references": [
+            "PYQ audit and living institutional link",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\basic\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\advanced\\07_Painting-Traditions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g2\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-07\\g3\\indian-art-and-culture-07_Complete-Learning-Session_2026-09-04.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

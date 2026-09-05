@@ -1,0 +1,1118 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-04",
+  "subject": "Social-Justice",
+  "title": "EDUCATION AND HUMAN-RESOURCE DEVELOPMENT",
+  "short_route": "CONVERSION FRAME → ENTITLEMENT ANCHOR → DETENTION POSITION → POLICY STRUCTURE → SCHEME AND MISSION CARD → MEASUREMENT DISCIPLINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Social-Justice\\learning-sessions\\v2\\subject-wide-syllabus\\social-justice-04_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-04-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "4f80fd4cf9050490df2fccea7259c7aeca9491a029e951856744c8962e893df3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONVERSION FRAME",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONVERSION FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS AND RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY ENTITLEMENT, SCHOOLS, TEACHERS, MATERIALS",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRICULUM, PEDAGOGY, TEACHER CAPACITY AND INFRASTRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "FOUNDATIONAL LITERACY AND NUMERACY, HIGHER-ORDER SKILL, EMPLOYABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "ENROLMENT IS AN INPUT; THE QUESTION BEGINS AT PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "INPUT → access and resources: statutory entitlement, schools, teachers, materials",
+        "PROCESS: curriculum, pedagogy, teacher capacity and infrastructure",
+        "OUTCOME: foundational literacy and numeracy, higher-order skill, employability",
+        "TEST → enrolment is an input; the question begins at process and outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "INPUT → access and resources: statutory entitlement, schools, teachers, materials",
+            "PROCESS: curriculum, pedagogy, teacher capacity and infrastructure"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME: foundational literacy and numeracy, higher-order skill, employability",
+            "TEST → enrolment is an input; the question begins at process and outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INPUT → access and resources: statutory entitlement, schools, teachers, materials",
+            "PROCESS: curriculum, pedagogy, teacher capacity and infrastructure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → enrolment is an input; the question begins at process and outcome.",
+      "source_references": [
+        "Education as the second capability-conversion pillar"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ENTITLEMENT ANCHOR",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENTITLEMENT ANCHOR",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 21-A",
+          "role": "institution"
+        },
+        {
+          "text": "INSERTED BY THE EIGHTY-SIXTH AMENDMENT OF 2002",
+          "role": "comparison"
+        },
+        {
+          "text": "AGE BAND",
+          "role": "evidence"
+        },
+        {
+          "text": "FREE AND COMPULSORY EDUCATION AS A FUNDAMENTAL RIGHT FOR",
+          "role": "primary"
+        },
+        {
+          "text": "THE RIGHT TO EDUCATION ACT, 2009 CONCRETISES THE RIGHT",
+          "role": "institution"
+        },
+        {
+          "text": "PRIVATE OBLIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "25 PER CENT ENTRY-LEVEL PLACES FOR WEAKER AND DISADVANTAGED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 21-A → inserted by the Eighty-sixth Amendment of 2002",
+        "AGE BAND → free and compulsory education as a fundamental right for ages six to",
+        "STATUTE → the Right to Education Act, 2009 concretises the right",
+        "PRIVATE OBLIGATION → 25 per cent entry-level places for weaker and disadvantaged groups",
+        "SCOPE → private unaided non-minority schools, subject to the Act and judicial reading"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ARTICLE 21-A → inserted by the Eighty-sixth Amendment of 2002",
+            "AGE BAND → free and compulsory education as a fundamental right for ages six to fourteen"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STATUTE → the Right to Education Act, 2009 concretises the right",
+            "PRIVATE OBLIGATION → 25 per cent entry-level places for weaker and disadvantaged groups"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SCOPE → private unaided non-minority schools, subject to the Act and judicial reading",
+            "ARTICLE 21-A → inserted by the Eighty-sixth Amendment of 2002"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → private unaided non-minority schools, subject to the Act and judicial reading.",
+      "source_references": [
+        "Article 21-A and the Eighty-sixth Amendment",
+        "The Right to Education Act, 2009 and its private-school obligation"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DETENTION POSITION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DETENTION POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO DETENTION OR EXPULSION UNTIL GRADE 8",
+          "role": "caution"
+        },
+        {
+          "text": "AFTER 2019",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE DISCRETION RESTORED FOR REGULAR EXAMINATIONS IN CLASSES V",
+          "role": "institution"
+        },
+        {
+          "text": "DETENTION ONLY AFTER INSTRUCTION AND A RE-EXAMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MOTIVATION AND ACCOUNTABILITY AGAINST EXCLUSION AND DROPOUT RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ORIGINAL POSITION → no detention or expulsion until Grade 8",
+        "AFTER 2019 → State discretion restored for regular examinations in Classes V and VIII",
+        "CONDITION → detention only after instruction and a re-examination",
+        "TWO-SIDED → motivation and accountability against exclusion and dropout risk"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "ORIGINAL POSITION → no detention or expulsion until Grade 8",
+          "CONDITION → detention only after instruction and a re-examination",
+          "ORIGINAL POSITION → no detention or expulsion until Grade 8"
+        ],
+        [
+          "AFTER 2019 → State discretion restored for regular examinations in Classes V and VIII",
+          "TWO-SIDED → motivation and accountability against exclusion and dropout risk",
+          "AFTER 2019 → State discretion restored for regular examinations in Classes V and VIII"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ORIGINAL POSITION → no detention or expulsion until Grade 8",
+            "AFTER 2019 → State discretion restored for regular examinations in Classes V and VIII"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONDITION → detention only after instruction and a re-examination",
+            "TWO-SIDED → motivation and accountability against exclusion and dropout risk"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORIGINAL POSITION → no detention or expulsion until Grade 8",
+            "AFTER 2019 → State discretion restored for regular examinations in Classes V and VIII"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TWO-SIDED → motivation and accountability against exclusion and dropout risk.",
+      "source_references": [
+        "The 2019 amendment and the detention question"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "POLICY STRUCTURE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POLICY STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "AGES THREE TO EIGHT; EARLY CHILDHOOD CARE PLUS GRADES",
+          "role": "outcome"
+        },
+        {
+          "text": "AGES EIGHT TO ELEVEN; GRADES 3 TO 5",
+          "role": "comparison"
+        },
+        {
+          "text": "AGES ELEVEN TO FOURTEEN; GRADES 6 TO 8",
+          "role": "evidence"
+        },
+        {
+          "text": "AGES FOURTEEN TO EIGHTEEN; GRADES 9 TO 12",
+          "role": "primary"
+        },
+        {
+          "text": "A POLICY DOCUMENT; THE EARLY CHILDHOOD FOCUS CREATES NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOUNDATIONAL → ages three to eight; early childhood care plus Grades 1 and 2",
+        "PREPARATORY → ages eight to eleven; Grades 3 to 5",
+        "MIDDLE → ages eleven to fourteen; Grades 6 to 8",
+        "SECONDARY → ages fourteen to eighteen; Grades 9 to 12",
+        "STATUS → a policy document; the early childhood focus creates no statutory right"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "FOUNDATIONAL → ages three to eight; early childhood care plus Grades 1 and 2",
+            "PREPARATORY → ages eight to eleven; Grades 3 to 5"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "MIDDLE → ages eleven to fourteen; Grades 6 to 8",
+            "SECONDARY → ages fourteen to eighteen; Grades 9 to 12"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → a policy document; the early childhood focus creates no statutory right",
+            "FOUNDATIONAL → ages three to eight; early childhood care plus Grades 1 and 2"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → a policy document; the early childhood focus creates no statutory right.",
+      "source_references": [
+        "The National Education Policy, 2020 and its status"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SCHEME AND MISSION CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCHEME AND MISSION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "UMBRELLA SCHEME",
+          "role": "outcome"
+        },
+        {
+          "text": "MERGES ELEMENTARY, SECONDARY AND TEACHER EDUCATION UNDER ONE HEAD",
+          "role": "comparison"
+        },
+        {
+          "text": "IT FUNDS",
+          "role": "evidence"
+        },
+        {
+          "text": "INFRASTRUCTURE, TRAINING, TECHNOLOGY, GIRLS HOSTELS, INCLUSIVE EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "FOUNDATIONAL MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "LAUNCHED 2021; LITERACY AND NUMERACY BY THE END OF",
+          "role": "comparison"
+        },
+        {
+          "text": "TARGET YEAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UMBRELLA SCHEME → merges elementary, secondary and teacher education under one head",
+        "IT FUNDS → infrastructure, training, technology, girls hostels, inclusive education",
+        "FOUNDATIONAL MISSION → launched 2021; literacy and numeracy by the end of Grade 3",
+        "TARGET YEAR → the national target year recorded by the owners is 2026-27",
+        "RULE → the scheme implements the statute and the policy; it replaces neither"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "UMBRELLA SCHEME → merges elementary, secondary and teacher education under one head",
+          "FOUNDATIONAL MISSION → launched 2021; literacy and numeracy by the end of Grade 3",
+          "RULE → the scheme implements the statute and the policy; it replaces neither"
+        ],
+        [
+          "IT FUNDS → infrastructure, training, technology, girls hostels, inclusive education",
+          "TARGET YEAR → the national target year recorded by the owners is 2026-27",
+          "UMBRELLA SCHEME → merges elementary, secondary and teacher education under one head"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "UMBRELLA SCHEME → merges elementary, secondary and teacher education under one head",
+            "IT FUNDS → infrastructure, training, technology, girls hostels, inclusive education"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FOUNDATIONAL MISSION → launched 2021; literacy and numeracy by the end of Grade 3",
+            "TARGET YEAR → the national target year recorded by the owners is 2026-27"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → the scheme implements the statute and the policy; it replaces neither",
+            "UMBRELLA SCHEME → merges elementary, secondary and teacher education under one head"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the scheme implements the statute and the policy; it replaces neither.",
+      "source_references": [
+        "Samagra Shiksha as the umbrella school scheme",
+        "NIPUN Bharat and the foundational-learning target"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MEASUREMENT DISCIPLINE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEASUREMENT DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "ENROLMENT RATIO",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS ONLY; NOT COMPLETION AND NOT QUALITY",
+          "role": "caution"
+        },
+        {
+          "text": "HIGHER EDUCATION 2021-22",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL-INDIA RATIO 28.4 FOR AGES EIGHTEEN TO TWENTY-THREE",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR YEAR",
+          "role": "outcome"
+        },
+        {
+          "text": "27.3 IN 2020-21; FEMALE RATIO RECORDED AT 28.5",
+          "role": "comparison"
+        },
+        {
+          "text": "LEARNING SURVEY 2024",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENROLMENT RATIO → access only; not completion and not quality",
+        "HIGHER EDUCATION 2021-22 → all-India ratio 28.4 for ages eighteen to twenty-three",
+        "PRIOR YEAR → 27.3 in 2020-21; female ratio recorded at 28.5",
+        "LEARNING SURVEY 2024 → 23.4 per cent of government-school Standard III children",
+        "ITS COMPETENCY → able to read a Standard II text; rural household survey, not admin"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "ENROLMENT RATIO → access only; not completion and not quality",
+          "PRIOR YEAR → 27.3 in 2020-21; female ratio recorded at 28.5",
+          "ITS COMPETENCY → able to read a Standard II text; rural household survey, not admin data"
+        ],
+        [
+          "HIGHER EDUCATION 2021-22 → all-India ratio 28.4 for ages eighteen to twenty-three",
+          "LEARNING SURVEY 2024 → 23.4 per cent of government-school Standard III children",
+          "ENROLMENT RATIO → access only; not completion and not quality"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ENROLMENT RATIO → access only; not completion and not quality",
+            "HIGHER EDUCATION 2021-22 → all-India ratio 28.4 for ages eighteen to twenty-three"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PRIOR YEAR → 27.3 in 2020-21; female ratio recorded at 28.5",
+            "LEARNING SURVEY 2024 → 23.4 per cent of government-school Standard III children"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITS COMPETENCY → able to read a Standard II text; rural household survey, not admin data",
+            "ENROLMENT RATIO → access only; not completion and not quality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ITS COMPETENCY → able to read a Standard II text; rural household survey, not admin data.",
+      "source_references": [
+        "Gross enrolment ratio and its dated higher-education values",
+        "The learning survey and its scope discipline"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONVERSION CHAIN AND INSTRUMENTS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONVERSION CHAIN AND INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "HIGHER EDUCATION OR SKILL",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE SCHOOL DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "OBSERVES ENROLMENT, TRANSITION AND COMPLETION",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSEHOLD LEARNING SURVEY",
+          "role": "primary"
+        },
+        {
+          "text": "OBSERVES COMPETENCY IN RURAL HOUSEHOLDS",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGHER EDUCATION SURVEY",
+          "role": "comparison"
+        },
+        {
+          "text": "OBSERVES ACCESS AT THE TERTIARY LEVEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENROLMENT → ATTENDANCE → TRANSITION → COMPLETION",
+        "COMPETENCY → HIGHER EDUCATION OR SKILL → EMPLOYMENT",
+        "ADMINISTRATIVE SCHOOL DATA → observes enrolment, transition and completion",
+        "HOUSEHOLD LEARNING SURVEY → observes competency in rural households",
+        "HIGHER EDUCATION SURVEY → observes access at the tertiary level"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ENROLMENT → ATTENDANCE → TRANSITION → COMPLETION",
+            "COMPETENCY → HIGHER EDUCATION OR SKILL → EMPLOYMENT"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATIVE SCHOOL DATA → observes enrolment, transition and completion",
+            "HOUSEHOLD LEARNING SURVEY → observes competency in rural households"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HIGHER EDUCATION SURVEY → observes access at the tertiary level",
+            "RULE → name the failing link and the instrument that can see it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → name the failing link and the instrument that can see it.",
+      "source_references": [
+        "The conversion chain and the three measurement systems"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "IMPLEMENTATION TEST CASE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "IMPLEMENTATION TEST CASE",
+          "role": "primary"
+        },
+        {
+          "text": "25 PER CENT ENTRY-LEVEL PLACES IN PRIVATE UNAIDED NON-MINORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DELAYED REIMBURSEMENT TO SCHOOLS WEAKENS COMPLIANCE INCENTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "DOCUMENTATION BARRIERS EXCLUDE THE VERY HOUSEHOLDS THE CLAUSE NAMES",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEVEN ENFORCEMENT ACROSS STATES PRODUCES UNEQUAL REALISED ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "THE CONCRETE EVIDENCE FOR A DEMAND ABOUT AWARENESS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OBLIGATION → 25 per cent entry-level places in private unaided non-minority schools",
+        "DELAYED REIMBURSEMENT to schools weakens compliance incentives",
+        "DOCUMENTATION BARRIERS exclude the very households the clause names",
+        "UNEVEN ENFORCEMENT across States produces unequal realised access",
+        "USE → the concrete evidence for a demand about awareness and schooling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OBLIGATION → 25 per cent entry-level places in private unaided non-minority schools",
+            "DELAYED REIMBURSEMENT to schools weakens compliance incentives"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "DOCUMENTATION BARRIERS exclude the very households the clause names",
+            "UNEVEN ENFORCEMENT across States produces unequal realised access"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → the concrete evidence for a demand about awareness and schooling",
+            "OBLIGATION → 25 per cent entry-level places in private unaided non-minority schools"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → the concrete evidence for a demand about awareness and schooling.",
+      "source_references": [
+        "The twenty-five per cent obligation as an implementation test case"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DIGITAL CHANNEL CONDITIONS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DIGITAL CHANNEL CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOL PLATFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL DIGITAL INFRASTRUCTURE FOR CONTENT AND TEACHERS",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGHER EDUCATION PLATFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL ONLINE-COURSE PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "DEVICES, CONNECTIVITY, LANGUAGE OF INSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "FURTHER CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISABILITY ACCESSIBILITY AND A PLACE AT HOME TO STUDY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCHOOL PLATFORM → national digital infrastructure for content and teachers",
+        "HIGHER EDUCATION PLATFORM → national online-course platform",
+        "CONDITIONS → devices, connectivity, language of instruction",
+        "FURTHER CONDITIONS → disability accessibility and a place at home to study",
+        "RULE → argue conditional effect, never declare transformation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "SCHOOL PLATFORM → national digital infrastructure for content and teachers",
+            "HIGHER EDUCATION PLATFORM → national online-course platform"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CONDITIONS → devices, connectivity, language of instruction",
+            "FURTHER CONDITIONS → disability accessibility and a place at home to study"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → argue conditional effect, never declare transformation",
+            "SCHOOL PLATFORM → national digital infrastructure for content and teachers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → argue conditional effect, never declare transformation.",
+      "source_references": [
+        "Digital education, its instruments and its access qualifications"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GOAL ALIGNMENT TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GOAL ALIGNMENT TEST",
+          "role": "primary"
+        },
+        {
+          "text": "GOAL FOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "INCLUSIVE AND EQUITABLE QUALITY EDUCATION AND LIFELONG LEARNING FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY ALIGNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EARLY CHILDHOOD, FOUNDATIONAL LEARNING, MULTIDISCIPLINARY REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "VOCATIONAL INTEGRATION AND MULTIPLE ENTRY AND EXIT",
+          "role": "outcome"
+        },
+        {
+          "text": "DELIVERY DEPENDS ON FINANCE, TEACHER SUPPLY AND STATE CAPACITY",
+          "role": "institution"
+        },
+        {
+          "text": "ACCEPT THE STATED ALIGNMENT AND TEST THE DELIVERY CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOAL FOUR → inclusive and equitable quality education and lifelong learning for all",
+        "POLICY ALIGNMENT → early childhood, foundational learning, multidisciplinary reform",
+        "ALSO → vocational integration and multiple entry and exit",
+        "DEPENDENCY → delivery depends on finance, teacher supply and State capacity",
+        "ROUTE → accept the stated alignment and test the delivery conditions"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "GOAL FOUR → inclusive and equitable quality education and lifelong learning for all",
+          "ALSO → vocational integration and multiple entry and exit",
+          "ROUTE → accept the stated alignment and test the delivery conditions"
+        ],
+        [
+          "POLICY ALIGNMENT → early childhood, foundational learning, multidisciplinary reform",
+          "DEPENDENCY → delivery depends on finance, teacher supply and State capacity",
+          "GOAL FOUR → inclusive and equitable quality education and lifelong learning for all"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GOAL FOUR → inclusive and equitable quality education and lifelong learning for all",
+            "POLICY ALIGNMENT → early childhood, foundational learning, multidisciplinary reform"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ALSO → vocational integration and multiple entry and exit",
+            "DEPENDENCY → delivery depends on finance, teacher supply and State capacity"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ROUTE → accept the stated alignment and test the delivery conditions",
+            "GOAL FOUR → inclusive and equitable quality education and lifelong learning for all"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUTE → accept the stated alignment and test the delivery conditions.",
+      "source_references": [
+        "The policy against the fourth sustainable development goal"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SKILLS ECOSYSTEM",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SKILLS ECOSYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "THE NATIONAL SKILL MISSION DELIVERS AND FUNDS SKILL TRAINING",
+          "role": "outcome"
+        },
+        {
+          "text": "THE VOCATIONAL EDUCATION AND TRAINING COUNCIL UNDER THE SKILLS",
+          "role": "institution"
+        },
+        {
+          "text": "STIPEND SUPPORT TO EMPLOYERS HIRING APPRENTICES",
+          "role": "evidence"
+        },
+        {
+          "text": "A COMPETENCY-BASED HIERARCHY OF TEN SKILL LEVELS FOR RECOGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "STIGMA, EMPLOYER PARTICIPATION, COUNSELLING AND QUALITY OF MATCHING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TRAINING → the national skill mission delivers and funds skill training",
+        "REGULATION → the vocational education and training council under the skills ministry",
+        "APPRENTICESHIP → stipend support to employers hiring apprentices",
+        "FRAMEWORK → a competency-based hierarchy of ten skill levels for recognition",
+        "CONSTRAINTS → stigma, employer participation, counselling and quality of matching"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "TRAINING → the national skill mission delivers and funds skill training",
+          "APPRENTICESHIP → stipend support to employers hiring apprentices",
+          "CONSTRAINTS → stigma, employer participation, counselling and quality of matching"
+        ],
+        [
+          "REGULATION → the vocational education and training council under the skills ministry",
+          "FRAMEWORK → a competency-based hierarchy of ten skill levels for recognition",
+          "TRAINING → the national skill mission delivers and funds skill training"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TRAINING → the national skill mission delivers and funds skill training",
+            "REGULATION → the vocational education and training council under the skills ministry"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "APPRENTICESHIP → stipend support to employers hiring apprentices",
+            "FRAMEWORK → a competency-based hierarchy of ten skill levels for recognition"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSTRAINTS → stigma, employer participation, counselling and quality of matching",
+            "TRAINING → the national skill mission delivers and funds skill training"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTRAINTS → stigma, employer participation, counselling and quality of matching.",
+      "source_references": [
+        "The skills ecosystem and its regulator",
+        "Vocational integration and the constraints on it"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "STATUS CARD AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "STATUS CARD AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CREDIT BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCUMULATE CREDIT ACROSS INSTITUTIONS AND REDEEM IT FOR A",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATORY STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE SINGLE HIGHER-EDUCATION REGULATOR BILL IS NOT ENACTED BY",
+          "role": "caution"
+        },
+        {
+          "text": "THE EXISTING UNIVERSITY, TECHNICAL AND TEACHER-EDUCATION REGULATORS CONTINUE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE FAILING LINK; BUILD",
+          "role": "comparison"
+        },
+        {
+          "text": "ENTITLEMENT, PROCESS AND OUTCOME SEPARATELY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CREDIT BANK → accumulate credit across institutions and redeem it for a degree",
+        "REGULATORY STATUS → the single higher-education regulator Bill is not enacted by mid-2026",
+        "CONSEQUENCE → the existing university, technical and teacher-education regulators continue",
+        "OPEN → name the failing link; BUILD → entitlement, process and outcome separately",
+        "CLOSE → graded verdict with the survey round, scope and year attached"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OFFICIAL EVIDENCE / DATE",
+          "role": "evidence",
+          "items": [
+            "CREDIT BANK → accumulate credit across institutions and redeem it for a degree",
+            "REGULATORY STATUS → the single higher-education regulator Bill is not enacted by mid-2026"
+          ]
+        },
+        {
+          "heading": "WHAT IT PROVES",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → the existing university, technical and teacher-education regulators continue",
+            "OPEN → name the failing link; BUILD → entitlement, process and outcome separately"
+          ]
+        },
+        {
+          "heading": "CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → graded verdict with the survey round, scope and year attached",
+            "CREDIT BANK → accumulate credit across institutions and redeem it for a degree"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the survey round, scope and year attached.",
+      "source_references": [
+        "Credit portability and multiple entry and exit",
+        "The higher-education regulatory position as of mid-2026",
+        "Ministry ownership, measurement boundary and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RTE 2009 (AMENDED 2019)",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY ENTITLEMENT 6-14; 25% EWS RESERVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NEP 2020",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICY RESTRUCTURING; 5+3+3+4; ECCE INTEGRATION; FLN MISSION",
+          "role": "primary"
+        },
+        {
+          "text": "NIPUN BHARAT (2021)",
+          "role": "outcome"
+        },
+        {
+          "text": "MISSION-MODE FOCUS ON FLN BY GRADE 3; SETS GRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAMAGRA SHIKSHA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "RTE 2009 (amended 2019): Statutory entitlement 6-14; 25% EWS reservation",
+            "NEP 2020: Policy restructuring; 5+3+3+4; ECCE integration; FLN mission;",
+            "NIPUN Bharat (2021): Mission-mode focus on FLN by Grade 3; sets grade",
+            "Samagra Shiksha: Integrated scheme; covers elementary + secondary +"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NCVET: Regulates skill qualifications, awarding bodies, assessment",
+            "CAUTION: HECI (Higher Education Commission of India): A single-regulator body",
+            "ASER 2024 findings: This non-government, rural household survey recorded",
+            "CAUTION: 25% EWS reservation implementation: Uneven across states; challenges"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case — SC/ST GER in higher education: GER for SC/ST groups is",
+            "CAUTION: Vocational education stigma: Despite NEP 2020's integration push,",
+            "CAUTION: Access vs quality: Near-universal elementary enrolment has not",
+            "CAUTION: No-detention policy trade-off: Retention may motivate effort but also"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

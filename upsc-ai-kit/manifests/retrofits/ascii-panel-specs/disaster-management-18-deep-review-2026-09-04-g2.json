@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-18",
+      "display_title": "Governance, Capacity and International Cooperation",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Governance vocabulary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "POLICY -> DIRECTION",
+            "GOVERNANCE -> AUTHORITY / RULES",
+            "CAPACITY -> ABILITY TO PERFORM",
+            "COORDINATION -> ALIGNMENT | ACCOUNTABILITY -> DUTY + REVIEW"
+          ],
+          "source_references": [
+            "Policy governance capacity coordination accountability",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Vertical architecture",
+          "structural_type": "governance-ladder",
+          "ascii_lines": [
+            "UNION -> NATIONAL POLICY STANDARD SUPPORT / COORDINATION",
+            "STATE -> STATE RISK GOVERNANCE AND LINE DEPARTMENTS",
+            "DISTRICT -> MULTI-SECTOR OPERATIONS",
+            "ULB / PRI / COMMUNITY -> LOCAL RISK ACTION AND FEEDBACK"
+          ],
+          "source_references": [
+            "Centre State local architecture",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Whole-of-society ring",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PUBLIC AUTHORITIES AT THE CORE OF ACCOUNTABILITY",
+            "COMMUNITY / CIVIL SOCIETY / VOLUNTEERS",
+            "ACADEMIA / MEDIA / PRIVATE AND LIFELINE OPERATORS",
+            "PARTICIPATION COMPLEMENTS; DOES NOT ERASE PUBLIC DUTY"
+          ],
+          "source_references": [
+            "Whole-of-society",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Plan-to-capability audit",
+          "structural_type": "audit-ladder",
+          "ascii_lines": [
+            "PLAN / SOP",
+            "TRAINED PEOPLE + AUTHORITY",
+            "EQUIPMENT FINANCE COMMUNICATION INTEROPERABILITY",
+            "EXERCISE -> CORRECT -> RETEST -> DEPLOYABLE CAPABILITY"
+          ],
+          "source_references": [
+            "Plan-to-capability gap",
+            "Preparedness exercises",
+            "Training and capacity development",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Incident governance shell",
+          "structural_type": "role-map",
+          "ascii_lines": [
+            "LEADERSHIP / COMMAND",
+            "OPERATIONS | PLANNING | LOGISTICS",
+            "FINANCE / ADMINISTRATION | PUBLIC INFORMATION",
+            "TACTICS REMAIN HAZARD AND CONTEXT SPECIFIC"
+          ],
+          "source_references": [
+            "Incident command governance",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Interoperability bridge",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COMMON TERMS + CONTACTS",
+            "DATA / REQUEST / RESOURCE STANDARDS",
+            "MUTUAL-AID AND COMMUNICATION PROCEDURES",
+            "CLEAR LEAD SUPPORT ESCALATION AND HANDOVER"
+          ],
+          "source_references": [
+            "Coordination and interoperability",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Learning-accountability loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "RISK / LOSS / EXPENDITURE / EXERCISE DATA",
+            "AFTER-ACTION REVIEW + PUBLIC / LEGISLATIVE / INDEPENDENT SCRUTINY",
+            "ASSIGN CORRECTIVE OWNER DEADLINE RESOURCE",
+            "IMPLEMENT -> RETEST -> RETAIN INSTITUTIONAL MEMORY"
+          ],
+          "source_references": [
+            "Data learning and audit",
+            "Accountability chain",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Sendai map",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 UNDERSTAND RISK",
+            "2 STRENGTHEN RISK GOVERNANCE",
+            "3 INVEST IN DRR FOR RESILIENCE",
+            "4 PREPARE / BUILD BACK BETTER | 7 TARGETS | VOLUNTARY"
+          ],
+          "source_references": [
+            "Sendai Framework",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Global institution boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "UNDRR -> UN DRR COORDINATION",
+            "GPDRR -> REVIEW / KNOWLEDGE EXCHANGE",
+            "CDRI -> INFRASTRUCTURE RISK STANDARDS FINANCE RECOVERY",
+            "NONE PROVES NATIONAL IMPLEMENTATION OR ENFORCEMENT"
+          ],
+          "source_references": [
+            "UNDRR and GPDRR",
+            "CDRI",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Regional cooperation ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "DIALOGUE / AGREEMENT",
+            "COMMON PROCEDURE / TRAINING / EXERCISE",
+            "ACTIVATION / ASSISTANCE / OUTPUT",
+            "CAPACITY OR RISK OUTCOME -> SEPARATE EVIDENCE",
+            "MUST REMEMBER: Disaster governance integrates risk-informed development, plans, audits,..."
+          ],
+          "source_references": [
+            "Regional cooperation",
+            "Agreement implementation outcome ladder",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-18_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Assistance and localisation balance",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "AFFECTED-STATE CONSENT + DOMESTIC LAW + NATIONAL LEADERSHIP",
+            "INTERNATIONAL SURGE / EXPERTISE / FINANCE WHEN REQUESTED",
+            "LOCAL RESPONDER DECISION POWER RESOURCES AND INFORMATION",
+            "HUMANITARIAN ACCESS WITH SOVEREIGNTY AND ACCOUNTABILITY",
+            "CLOSE DISTINCTION: Institutional existence is not capacity; capacity is not deployment;..."
+          ],
+          "source_references": [
+            "International assistance legal status",
+            "Sovereignty and humanitarian diplomacy",
+            "Localisation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-18_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Governance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE TERMS -> MAP CENTRE STATE LOCAL AND SOCIETY ROLES",
+            "CONVERT PLANS / TRAINING / EXERCISES INTO AUDITED CAPABILITY",
+            "USE SENDAI UNDRR CDRI REGIONAL AND ASSISTANCE ROUTES PRECISELY",
+            "STOP AT VERIFIED AGREEMENT IMPLEMENTATION OUTPUT OR OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cross-own Environment Topic 26 for the..."
+          ],
+          "source_references": [
+            "Knowledge and technology cooperation",
+            "Governance-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-18\\g2\\disaster-management-18_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-18_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

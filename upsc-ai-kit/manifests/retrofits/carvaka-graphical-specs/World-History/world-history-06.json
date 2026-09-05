@@ -1,0 +1,1028 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-06",
+  "subject": "World-History",
+  "title": "UNIFICATION OF ITALY AND GERMANY",
+  "short_route": "VIENNA'S UNFINISHED MAP → ITALIAN LEADERSHIP CHAIN → ITALIAN TERRITORIAL SEQUENCE → ITALY'S INCOMPLETE UNITY → BISMARCK'S THREE-WAR SEQUENCE → REALPOLITIK MECHANISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\learning-sessions\\v2\\subject-wide-syllabus\\world-history-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-06-07-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "eadaffd72387963db7fe318892d9ed29f86adac7d4542c562227c503c4d1546c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "VIENNA'S UNFINISHED MAP",
+      "structural_type": "root-axes",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "VIENNA'S UNFINISHED MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DIVIDED; AUSTRIA CONTROLS LOMBARDY-VENETIA AND INFLUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "39-STATE CONFEDERATION UNDER AUSTRIAN INFLUENCE",
+          "role": "institution"
+        },
+        {
+          "text": "LIBERAL-NATIONAL ATTEMPTS FAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONALISM SHIFTS TOWARD STATES, DIPLOMACY AND WAR",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ITALY → divided; Austria controls Lombardy-Venetia and influence",
+        "GERMANY → 39-state Confederation under Austrian influence",
+        "1848 → liberal-national attempts fail",
+        "RESULT → nationalism shifts toward states, diplomacy and war"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → divided; Austria controls Lombardy-Venetia and influence",
+            "GERMANY → 39-state Confederation under Austrian influence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1848 → liberal-national attempts fail",
+            "RESULT → nationalism shifts toward states, diplomacy and war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITALY → divided; Austria controls Lombardy-Venetia and influence",
+            "GERMANY → 39-state Confederation under Austrian influence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → nationalism shifts toward states, diplomacy and war.",
+      "source_references": [
+        "Vienna's unresolved national map",
+        "Why 1848 changed the method"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ITALIAN LEADERSHIP CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ITALIAN LEADERSHIP CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "YOUNG ITALY, 1831; REPUBLICAN LEGITIMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "PIEDMONT DIPLOMACY AND FRENCH ALLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RED SHIRTS CONQUER SICILY AND NAPLES",
+          "role": "evidence"
+        },
+        {
+          "text": "VICTOR EMMANUEL II",
+          "role": "primary"
+        },
+        {
+          "text": "MONARCHY ABSORBS THE NATIONAL GAIN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MAZZINI → Young Italy, 1831; republican legitimacy",
+        "CAVOUR → Piedmont diplomacy and French alliance",
+        "GARIBALDI → Red Shirts conquer Sicily and Naples",
+        "VICTOR EMMANUEL II → monarchy absorbs the national gain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MAZZINI → Young Italy, 1831; republican legitimacy",
+            "CAVOUR → Piedmont diplomacy and French alliance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GARIBALDI → Red Shirts conquer Sicily and Naples",
+            "VICTOR EMMANUEL II → monarchy absorbs the national gain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAZZINI → Young Italy, 1831; republican legitimacy",
+            "CAVOUR → Piedmont diplomacy and French alliance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VICTOR EMMANUEL II → monarchy absorbs the national gain.",
+      "source_references": [
+        "Mazzini and republican nationalism",
+        "Piedmont-Sardinia and Cavour",
+        "Garibaldi's southern campaign"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ITALIAN TERRITORIAL SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ITALIAN TERRITORIAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTRIA DEFEATED; LOMBARDY GAINED",
+          "role": "outcome"
+        },
+        {
+          "text": "GARIBALDI TAKES SICILY AND NAPLES",
+          "role": "comparison"
+        },
+        {
+          "text": "KINGDOM OF ITALY PROCLAIMED",
+          "role": "evidence"
+        },
+        {
+          "text": "VENETIA; 1870",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1859 → Austria defeated; Lombardy gained",
+        "1860 → Garibaldi takes Sicily and Naples",
+        "1861 → Kingdom of Italy proclaimed",
+        "1866 → Venetia; 1870 → Rome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1859 → Austria defeated; Lombardy gained",
+            "1860 → Garibaldi takes Sicily and Naples"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1861 → Kingdom of Italy proclaimed",
+            "1866 → Venetia; 1870 → Rome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1859 → Austria defeated; Lombardy gained",
+            "1860 → Garibaldi takes Sicily and Naples"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1861 → Kingdom of Italy proclaimed; 1866 → Venetia; 1870 → Rome.",
+      "source_references": [
+        "The Italian kingdom and staggered completion"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ITALY'S INCOMPLETE UNITY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ITALY'S INCOMPLETE UNITY",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL UNION WITHOUT EQUAL INTEGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROME'S ACCESSION LEAVES PAPAL HOSTILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MAZZINI'S PROGRAMME DISPLACED BY MONARCHY",
+          "role": "evidence"
+        },
+        {
+          "text": "A STATE WAS UNIFIED BEFORE A SOCIETY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NORTH-SOUTH → political union without equal integration",
+        "CHURCH-STATE → Rome's accession leaves papal hostility",
+        "REPUBLICANISM → Mazzini's programme displaced by monarchy",
+        "VERDICT → a state was unified before a society"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORTH-SOUTH → political union without equal integration",
+          "REPUBLICANISM → Mazzini's programme displaced by monarchy",
+          "NORTH-SOUTH → political union without equal integration"
+        ],
+        [
+          "CHURCH-STATE → Rome's accession leaves papal hostility",
+          "VERDICT → a state was unified before a society",
+          "CHURCH-STATE → Rome's accession leaves papal hostility"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORTH-SOUTH → political union without equal integration",
+            "CHURCH-STATE → Rome's accession leaves papal hostility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPUBLICANISM → Mazzini's programme displaced by monarchy",
+            "VERDICT → a state was unified before a society"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORTH-SOUTH → political union without equal integration",
+            "CHURCH-STATE → Rome's accession leaves papal hostility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → a state was unified before a society.",
+      "source_references": [
+        "Limits of Italian unification"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BISMARCK'S THREE-WAR SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BISMARCK'S THREE-WAR SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DENMARK DEFEATED OVER SCHLESWIG-HOLSTEIN",
+          "role": "outcome"
+        },
+        {
+          "text": "AUSTRIA DEFEATED IN SEVEN WEEKS' WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "FRANCE DEFEATED; SOUTHERN STATES RALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "JAN 1871",
+          "role": "primary"
+        },
+        {
+          "text": "GERMAN EMPIRE PROCLAIMED AT VERSAILLES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1864 → Denmark defeated over Schleswig-Holstein",
+        "1866 → Austria defeated in Seven Weeks' War",
+        "1870-71 → France defeated; southern states rally",
+        "JAN 1871 → German Empire proclaimed at Versailles"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1864 → Denmark defeated over Schleswig-Holstein",
+            "1866 → Austria defeated in Seven Weeks' War"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1870-71 → France defeated; southern states rally",
+            "JAN 1871 → German Empire proclaimed at Versailles"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1864 → Denmark defeated over Schleswig-Holstein",
+            "1866 → Austria defeated in Seven Weeks' War"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAN 1871 → German Empire proclaimed at Versailles.",
+      "source_references": [
+        "The Danish opening, 1864",
+        "Austria excluded, 1866",
+        "France defeated and empire proclaimed"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REALPOLITIK MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REALPOLITIK MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRUSSIAN-LED GERMAN UNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ISOLATE ONE OPPONENT AT A TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "DIPLOMACY BACKED BY MILITARY FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONALISM SERVES THE PRUSSIAN STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "GOAL → Prussian-led German unity",
+        "METHOD → isolate one opponent at a time",
+        "INSTRUMENT → diplomacy backed by military force",
+        "OUTCOME → nationalism serves the Prussian state"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOAL → Prussian-led German unity",
+            "METHOD → isolate one opponent at a time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENT → diplomacy backed by military force",
+            "OUTCOME → nationalism serves the Prussian state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOAL → Prussian-led German unity",
+            "METHOD → isolate one opponent at a time"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD → isolate one opponent at a time.",
+      "source_references": [
+        "Bismarck and Realpolitik"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SMALL-GERMAN SETTLEMENT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SMALL-GERMAN SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PRUSSIA AND GERMAN STATES NORTH AND SOUTH",
+          "role": "outcome"
+        },
+        {
+          "text": "AUSTRIA AFTER 1866",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTH GERMAN CONFEDERATION, THEN EMPIRE",
+          "role": "evidence"
+        },
+        {
+          "text": "POWER CENTRE",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRUSSIAN MONARCHY AND ARMY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INCLUDED → Prussia and German states north and south",
+        "EXCLUDED → Austria after 1866",
+        "FORM → North German Confederation, then Empire",
+        "POWER CENTRE → Prussian monarchy and army"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INCLUDED → Prussia and German states north and south",
+          "FORM → North German Confederation, then Empire",
+          "INCLUDED → Prussia and German states north and south"
+        ],
+        [
+          "EXCLUDED → Austria after 1866",
+          "POWER CENTRE → Prussian monarchy and army",
+          "EXCLUDED → Austria after 1866"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INCLUDED → Prussia and German states north and south",
+            "EXCLUDED → Austria after 1866"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORM → North German Confederation, then Empire",
+            "POWER CENTRE → Prussian monarchy and army"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INCLUDED → Prussia and German states north and south",
+            "EXCLUDED → Austria after 1866"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INCLUDED → Prussia and German states north and south.",
+      "source_references": [
+        "Austria excluded, 1866",
+        "The new German state's political form"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ITALY VERSUS GERMANY: AGENCY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ITALY VERSUS GERMANY",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEOLOGY + DIPLOMACY + VOLUNTEER CAMPAIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "BUREAUCRACY + DIPLOMACY + THREE WARS",
+          "role": "comparison"
+        },
+        {
+          "text": "FRENCH ALLIANCE CRUCIAL IN 1859",
+          "role": "evidence"
+        },
+        {
+          "text": "PRUSSIA ISOLATES AND DEFEATS RIVALS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ITALY → ideology + diplomacy + volunteer campaign",
+        "GERMANY → bureaucracy + diplomacy + three wars",
+        "ITALY → French alliance crucial in 1859",
+        "GERMANY → Prussia isolates and defeats rivals"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ITALY → ideology + diplomacy + volunteer campaign",
+          "ITALY → French alliance crucial in 1859",
+          "ITALY → ideology + diplomacy + volunteer campaign"
+        ],
+        [
+          "GERMANY → bureaucracy + diplomacy + three wars",
+          "GERMANY → Prussia isolates and defeats rivals",
+          "GERMANY → bureaucracy + diplomacy + three wars"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → ideology + diplomacy + volunteer campaign",
+            "GERMANY → bureaucracy + diplomacy + three wars"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ITALY → French alliance crucial in 1859",
+            "GERMANY → Prussia isolates and defeats rivals"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITALY → ideology + diplomacy + volunteer campaign",
+            "GERMANY → bureaucracy + diplomacy + three wars"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GERMANY → bureaucracy + diplomacy + three wars.",
+      "source_references": [
+        "Italy and Germany on common axes"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ITALY VERSUS GERMANY: OUTCOME",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ITALY VERSUS GERMANY",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAKER STATE WITH REGIONAL AND CHURCH DIVISIONS",
+          "role": "institution"
+        },
+        {
+          "text": "STRONGEST CONTINENTAL MILITARY-ECONOMIC POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "STAGGERED COMPLETION, 1861-70",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCENTRATED COMPLETION, 1864-71",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ITALY → weaker state with regional and church divisions",
+        "GERMANY → strongest continental military-economic power",
+        "ITALY → staggered completion, 1861-70",
+        "GERMANY → concentrated completion, 1864-71"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ITALY → weaker state with regional and church divisions",
+          "ITALY → staggered completion, 1861-70",
+          "ITALY → weaker state with regional and church divisions"
+        ],
+        [
+          "GERMANY → strongest continental military-economic power",
+          "GERMANY → concentrated completion, 1864-71",
+          "GERMANY → strongest continental military-economic power"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ITALY → weaker state with regional and church divisions",
+            "GERMANY → strongest continental military-economic power"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ITALY → staggered completion, 1861-70",
+            "GERMANY → concentrated completion, 1864-71"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITALY → weaker state with regional and church divisions",
+            "GERMANY → strongest continental military-economic power"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ITALY → weaker state with regional and church divisions.",
+      "source_references": [
+        "European balance and qualified verdict"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ALSACE-LORRAINE CONSEQUENCE CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ALSACE-LORRAINE CONSEQUENCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "FRANCE LOSES ALSACE-LORRAINE",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL GRIEVANCE PERSISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMAN POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTINENTAL BALANCE SHIFTS",
+          "role": "primary"
+        },
+        {
+          "text": "1914 LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE SOURCE OF TENSION, NOT A SOLE CAUSE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1871 → France loses Alsace-Lorraine",
+        "REVANCHISM → territorial grievance persists",
+        "GERMAN POWER → continental balance shifts",
+        "1914 LINK → one source of tension, not a sole cause"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1871 → France loses Alsace-Lorraine",
+            "REVANCHISM → territorial grievance persists"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GERMAN POWER → continental balance shifts",
+            "1914 LINK → one source of tension, not a sole cause"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1871 → France loses Alsace-Lorraine",
+            "REVANCHISM → territorial grievance persists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1914 LINK → one source of tension, not a sole cause.",
+      "source_references": [
+        "Alsace-Lorraine and the 1914 bridge"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ABOVE AND BELOW MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ABOVE AND BELOW MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FROM BELOW",
+          "role": "outcome"
+        },
+        {
+          "text": "MAZZINI, 1848, GARIBALDI, POPULAR FEELING",
+          "role": "comparison"
+        },
+        {
+          "text": "FROM ABOVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CAVOUR, VICTOR EMMANUEL II, BISMARCK, PRUSSIA",
+          "role": "primary"
+        },
+        {
+          "text": "BOTH STREAMS VISIBLY COMBINE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE POWER DECISIVELY DOMINATES",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FROM BELOW → Mazzini, 1848, Garibaldi, popular feeling",
+        "FROM ABOVE → Cavour, Victor Emmanuel II, Bismarck, Prussia",
+        "ITALY → both streams visibly combine",
+        "GERMANY → state power decisively dominates"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FROM BELOW → Mazzini, 1848, Garibaldi, popular feeling",
+          "ITALY → both streams visibly combine",
+          "FROM BELOW → Mazzini, 1848, Garibaldi, popular feeling"
+        ],
+        [
+          "FROM ABOVE → Cavour, Victor Emmanuel II, Bismarck, Prussia",
+          "GERMANY → state power decisively dominates",
+          "FROM ABOVE → Cavour, Victor Emmanuel II, Bismarck, Prussia"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FROM BELOW → Mazzini, 1848, Garibaldi, popular feeling",
+            "FROM ABOVE → Cavour, Victor Emmanuel II, Bismarck, Prussia"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ITALY → both streams visibly combine",
+            "GERMANY → state power decisively dominates"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FROM BELOW → Mazzini, 1848, Garibaldi, popular feeling",
+            "FROM ABOVE → Cavour, Victor Emmanuel II, Bismarck, Prussia"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FROM ABOVE → Cavour, Victor Emmanuel II, Bismarck, Prussia.",
+      "source_references": [
+        "Italy and Germany on common axes"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UNIFICATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UNIFICATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "VIENNA FRAGMENTATION AND FAILED 1848",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE STATE + STRATEGIST + WAR + PROCLAMATION",
+          "role": "institution"
+        },
+        {
+          "text": "AGENCY, ALLIES, POPULAR FORCE AND STATE FORM",
+          "role": "institution"
+        },
+        {
+          "text": "MINORITIES, REGIONAL DIVIDES AND POWER IMBALANCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "START → Vienna fragmentation and failed 1848",
+        "SEQUENCE → core state + strategist + war + proclamation",
+        "COMPARE → agency, allies, popular force and state form",
+        "QUALIFY → minorities, regional divides and power imbalance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "START → Vienna fragmentation and failed 1848",
+            "SEQUENCE → core state + strategist + war + proclamation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → agency, allies, popular force and state form",
+            "QUALIFY → minorities, regional divides and power imbalance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "START → Vienna fragmentation and failed 1848",
+            "SEQUENCE → core state + strategist + war + proclamation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → minorities, regional divides and power imbalance.",
+      "source_references": [
+        "European balance and qualified verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCERT'S NATIONALISM CHAPTER IS ESSENTIAL BECAUSE IT SHOWS HOW",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FAILURE OF 1848 IS THE TURNING POINT",
+          "role": "comparison"
+        },
+        {
+          "text": "IDEALIST NATIONALISM SURVIVED, BUT POWER PASSED TO MONARCHIES AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "A MATURE ANSWER SHOULD SAY ITALY WAS UNIFIED, BUT",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-SOUTH INEQUALITIES AND TENSIONS WITH THE PAPACY PERSISTED.",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY UNIFIED UNDER AN AUTHORITARIAN-MONARCHICAL STRUCTURE, NOT UNDER THE",
+          "role": "caution"
+        },
+        {
+          "text": "THAT IS WHY ADVANCED ANSWERS OFTEN CONNECT GERMAN UNIFICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCERT's nationalism chapter is essential because it shows how popular nationalism rose before successful state-led unification.",
+            "CAUTION: The failure of 1848 is the turning point: idealist nationalism survived, but power passed to monarchies and ministers.",
+            "CAUTION: A mature answer should say Italy was unified, but not fully homogenized: north-south inequalities and tensions with the Papacy persisted.",
+            "CAUTION: Germany unified under an authoritarian-monarchical structure, not under the liberal parliamentary hopes of 1848."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: That is why advanced answers often connect German unification to later militarism and the changed balance of power in Europe.",
+            "CAUTION: These unifications are useful for GS-I because they show that nationalism does not always produce democracy first",
+            "sometimes it produces strong nation-states through elite-led consolidation.",
+            "CAUTION: Compare cautiously with Indian nationalism: Italy and Germany were mainly 19th-century European state-building"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "projects, while modern Indian nationalism became a broader anti-colonial movement with mass politics.",
+            "CAUTION: For comparison, see Modern-Indian-History/basic/14 Foundation-of-INC-and-Moderate-Phase.md",
+            "do not collapse European national unification and Indian anti-colonial nationalism into one template.",
+            "Risorgimento refers to the movement for Italian unification."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

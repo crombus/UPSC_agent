@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "batch_id": "polity-13-17-sequential-batch-2026-08-24",
+  "validated_at": "2026-08-24T13:32:04+05:30",
+  "status": "passed",
+  "sequence": {
+    "strict_order": [
+      "polity-13",
+      "polity-14",
+      "polity-15",
+      "polity-16",
+      "polity-17"
+    ],
+    "timestamps_monotonic": true,
+    "topic_count": 5,
+    "proof": [
+      {
+        "topic_key": "polity-13",
+        "started_at": "2026-08-24T13:13:47+05:30",
+        "completed_at": "2026-08-24T13:16:19+05:30"
+      },
+      {
+        "topic_key": "polity-14",
+        "started_at": "2026-08-24T13:16:19+05:30",
+        "completed_at": "2026-08-24T13:18:48+05:30"
+      },
+      {
+        "topic_key": "polity-15",
+        "started_at": "2026-08-24T13:18:48+05:30",
+        "completed_at": "2026-08-24T13:21:21+05:30"
+      },
+      {
+        "topic_key": "polity-16",
+        "started_at": "2026-08-24T13:21:21+05:30",
+        "completed_at": "2026-08-24T13:24:17+05:30"
+      },
+      {
+        "topic_key": "polity-17",
+        "started_at": "2026-08-24T13:24:17+05:30",
+        "completed_at": "2026-08-24T13:27:19+05:30"
+      }
+    ]
+  },
+  "tracker": {
+    "latest_validated_topics": 50,
+    "new_topic_records": [
+      "polity-13:learner-v2:g2",
+      "polity-14:learner-v2:g2",
+      "polity-15:learner-v2:g2",
+      "polity-16:learner-v2:g2",
+      "polity-17:learner-v2:g2"
+    ],
+    "legacy_records_retained": true,
+    "approvals_false": true
+  },
+  "content": {
+    "topics": [
+      {
+        "topic_key": "polity-13",
+        "title": "Centre State and Inter State Relations",
+        "started_at": "2026-08-24T13:13:47+05:30",
+        "completed_at": "2026-08-24T13:16:19+05:30",
+        "record_id": "polity-13:learner-v2:g2",
+        "counts": {
+          "sessions": 17,
+          "main_pdf_pages": 52,
+          "workbook_pdf_pages": 14,
+          "mcqs": 36,
+          "verified_pyqs": 7,
+          "supporting_pyqs": 1,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-13-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-13-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-13-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-13-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-13.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-13\\carvaka-g2"
+        },
+        "factual_caveat": "The 2019 river-water amendment Bill is not treated as enacted law; GST Council recommendations are not treated as binding commands.",
+        "gates_passed": 9,
+        "pdf_layout": {
+          "main": {
+            "page_count": 52,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 14,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "core_exam_complete": true
+      },
+      {
+        "topic_key": "polity-14",
+        "title": "Emergency Provisions",
+        "started_at": "2026-08-24T13:16:19+05:30",
+        "completed_at": "2026-08-24T13:18:48+05:30",
+        "record_id": "polity-14:learner-v2:g2",
+        "counts": {
+          "sessions": 15,
+          "main_pdf_pages": 46,
+          "workbook_pdf_pages": 12,
+          "mcqs": 36,
+          "verified_pyqs": 4,
+          "supporting_pyqs": 2,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\14-Emergency-Provisions",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-14-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-14-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-14-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-14-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-14.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-14\\carvaka-g2"
+        },
+        "factual_caveat": "No Financial Emergency is presented as having been proclaimed. Samvidhaan Hatya Diwas is identified only as commemorative policy.",
+        "gates_passed": 9,
+        "pdf_layout": {
+          "main": {
+            "page_count": 46,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 12,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "core_exam_complete": true
+      },
+      {
+        "topic_key": "polity-15",
+        "title": "President and Vice President",
+        "started_at": "2026-08-24T13:18:48+05:30",
+        "completed_at": "2026-08-24T13:21:21+05:30",
+        "record_id": "polity-15:learner-v2:g2",
+        "counts": {
+          "sessions": 21,
+          "main_pdf_pages": 56,
+          "workbook_pdf_pages": 12,
+          "mcqs": 36,
+          "verified_pyqs": 7,
+          "supporting_pyqs": 1,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\15-President-and-Vice-President",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-15-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-15-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-15-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-15-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-15.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\polity-15_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\polity-15_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\polity-15_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\polity-15_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-15\\carvaka-g2"
+        },
+        "factual_caveat": "Office-holder facts are dated. The 2025 Article 143 opinion is used only for the bounded assent rule stated in the source package.",
+        "gates_passed": 9,
+        "pdf_layout": {
+          "main": {
+            "page_count": 56,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 12,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "core_exam_complete": true
+      },
+      {
+        "topic_key": "polity-16",
+        "title": "PM and Council of Ministers",
+        "started_at": "2026-08-24T13:21:21+05:30",
+        "completed_at": "2026-08-24T13:24:17+05:30",
+        "record_id": "polity-16:learner-v2:g2",
+        "counts": {
+          "sessions": 24,
+          "main_pdf_pages": 69,
+          "workbook_pdf_pages": 14,
+          "mcqs": 36,
+          "verified_pyqs": 2,
+          "supporting_pyqs": 1,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-16-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-16-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-16-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-16-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-16.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2"
+        },
+        "factual_caveat": "Committee number, membership and chairmanship remain notification-sensitive and are not frozen beyond the dated official control.",
+        "gates_passed": 9,
+        "pdf_layout": {
+          "main": {
+            "page_count": 69,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 14,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "core_exam_complete": true
+      },
+      {
+        "topic_key": "polity-17",
+        "title": "Parliament",
+        "started_at": "2026-08-24T13:24:17+05:30",
+        "completed_at": "2026-08-24T13:27:19+05:30",
+        "record_id": "polity-17:learner-v2:g2",
+        "counts": {
+          "sessions": 20,
+          "main_pdf_pages": 75,
+          "workbook_pdf_pages": 19,
+          "mcqs": 48,
+          "verified_pyqs": 8,
+          "supporting_pyqs": 20,
+          "original_mains": 7,
+          "ascii_panels": 9,
+          "graphical_core_stages": 9
+        },
+        "clean_library_path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\17-Parliament",
+        "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-17-source-pyq-current-audit-2026-08-24.json",
+        "validation": "upsc-ai-kit\\manifests\\exports\\polity-17-validation-2026-08-24.json",
+        "new_topic_spec": "upsc-ai-kit\\manifests\\exports\\polity-17-new-topic-2026-08-24.json",
+        "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-17-2026-08-24-sequential.json",
+        "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-17.json",
+        "paths": {
+          "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md",
+          "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Solved-Practice-Workbook_2026-08-24.md",
+          "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.pdf",
+          "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Solved-Practice-Workbook_2026-08-24.pdf",
+          "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-17\\carvaka-g2"
+        },
+        "factual_caveat": "The 106th Amendment is commenced but not operational; defeated 2026 Bills remain proposals, and no final larger-Bench Money Bill resolution is claimed.",
+        "gates_passed": 9,
+        "pdf_layout": {
+          "main": {
+            "page_count": 75,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          },
+          "workbook": {
+            "page_count": 19,
+            "blank_pages": [],
+            "near_empty_pages": [],
+            "clipped_text_pages": [],
+            "replacement_glyph_pages": []
+          }
+        },
+        "ascii_spec_equal": true,
+        "core_exam_complete": true
+      }
+    ],
+    "totals": {
+      "sessions": 97,
+      "main_pdf_pages": 298,
+      "workbook_pdf_pages": 71,
+      "mcqs": 192,
+      "verified_pyqs": 28,
+      "supporting_pyqs": 25,
+      "original_mains": 35,
+      "ascii_panels": 45,
+      "graphical_core_stages": 45
+    },
+    "routed_pyq_total": 53,
+    "manual_ascii_topic_count": 50,
+    "manual_ascii_panel_count": 435,
+    "graphical_spec_count": 50,
+    "graphical_core_stage_total": 45,
+    "graphical_extra_stage_total": 5,
+    "register_notes_last_all_topics": true,
+    "basic_advanced_boundary_passed": true,
+    "strict_mcq_rotation_all_topics": true,
+    "forbidden_definition_keyword_metadata_leaks": 0
+  },
+  "pdf_and_library": {
+    "full_library_topic_count": 50,
+    "full_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json",
+    "full_library_validation_passed": true,
+    "all_topic_folders_exact_four_items": true,
+    "all_six_primary_artifact_hashes_equal": true,
+    "existing_45_package_file_count": 360,
+    "existing_45_hash_mismatches": [],
+    "existing_45_hash_valid": true,
+    "no_blank_clipping_glyph_errors": true,
+    "all_markdown_links_resolve": true,
+    "pdf_contact_sheet_review": "passed; cover, index, representative teaching/practice and final pages inspected for all five"
+  },
+  "indexes_and_catalogue": {
+    "tracker_finalized": true,
+    "export_command_index": "EXPORT-PDF-COMMAND-INDEX.md",
+    "section_command_index": "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "final_catalogue": "notes\\Final-Learning-Packages\\CATALOGUE.md",
+    "final_master_tracker": "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
+    "polity_section_indexes_refreshed": true
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_export_four_item_library tools.test_carvaka_flowchart tools.test_refresh_all_v2_learning_sessions tools.test_v2_export_foundation tools.test_v2_section_indexes tools.test_v2_topic_command_catalog",
+    "passed": 94,
+    "failed": 0
+  },
+  "factual_caveats": [
+    "The 2019 river-water amendment Bill is not treated as enacted law; GST Council recommendations are not treated as binding commands.",
+    "No Financial Emergency is presented as having been proclaimed. Samvidhaan Hatya Diwas is identified only as commemorative policy.",
+    "Office-holder facts are dated. The 2025 Article 143 opinion is used only for the bounded assent rule stated in the source package.",
+    "Committee number, membership and chairmanship remain notification-sensitive and are not frozen beyond the dated official control.",
+    "The 106th Amendment is commenced but not operational; defeated 2026 Bills remain proposals, and no final larger-Bench Money Bill resolution is claimed."
+  ],
+  "changed_files_manifest": "upsc-ai-kit\\manifests\\exports\\polity-13-17-sequential-batch-2026-08-24-changed-files.txt"
+}

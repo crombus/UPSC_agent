@@ -1,0 +1,782 @@
+{
+  "schema_version": 1,
+  "id": "polity-ascii-panel-specs-2026-08-23",
+  "created_on": "2026-08-23",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Latest active learner-v2 tracker records for polity-01 through polity-07. Specifications only; no tracker or artifact regeneration.",
+  "constraints": {
+    "panels_per_topic": "8-12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "Zone A",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 7,
+  "topics": {
+    "polity-01": {
+      "title": "Historical Background of the Indian Constitution",
+      "source_record": "polity-01:learner-v2:g11",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md",
+      "quality_review": "Manual second-pass review: chronology, institutional transitions, 1935 inheritance, exact traps and answer architecture checked against the full source.",
+      "panels": [
+        {
+          "title": "From Company sovereignty to constituent sovereignty, 1765-1950",
+          "structural_type": "constitutional-evolution-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 1 \u2014 METHOD AND THE PRE-1773 CORPORATE STATE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 16 \u2014 CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950"
+          ],
+          "full_text": "1765 DIWANI: revenue power outruns public accountability\n  |\n1773 PARLIAMENTARY REGULATION\n  Regulating Act -> Governor-General of Bengal -> Calcutta Supreme Court\n  |\n1781 JURISDICTION REPAIR -> 1784 DUAL CONTROL\n  Settlement Act          Company administration + Board supervision\n  |\n1813-1853 CHARTER TRANSFORMATION\n  monopoly opened -> Company de-commercialised -> legislation centralised\n  |\n1858 CROWN RULE -> 1861-1892 ASSOCIATION WITHOUT RESPONSIBILITY\n  |\n1909 COMMUNAL REPRESENTATION -> 1919 LIMITED RESPONSIBILITY\n  |\n1935 FEDERAL BLUEPRINT + PROVINCIAL AUTONOMY\n  |\n1947 SOVEREIGN CONSTITUENT POWER -> 1950 DEMOCRATIC CONSTITUTIONALISM"
+        },
+        {
+          "title": "Who controlled whom: the imperial power hierarchy",
+          "structural_type": "institution-power-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 2 \u2014 REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 3 \u2014 PITT'S INDIA ACT 1784, THE 1786 MEASURE AND CHARTER ACT 1793",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 6 \u2014 GOVERNMENT OF INDIA ACT 1858: CROWN RULE AND IMPERIAL ACCOUNTABILITY"
+          ],
+          "full_text": "BRITISH PARLIAMENT\n  +-- 1773: begins statutory control over territorial Company rule\n  +-- 1784: creates Board of Control for political supervision\n  |     +-- BOARD OF CONTROL: civil, military and revenue direction\n  |     +-- COURT OF DIRECTORS: Company administration and patronage\n  +-- 1858: abolishes Company government\n        +-- SECRETARY OF STATE FOR INDIA: Cabinet responsibility\n        |     +-- COUNCIL OF INDIA: advisory assistance\n        +-- GOVERNOR-GENERAL = VICEROY: Crown representative in India\n              +-- provincial governments\n\nPOWER SHIFT\nCompany charter -> parliamentary supervision -> Crown executive responsibility\nLIMIT: accountability moved to Britain; responsible government in India did not follow."
+        },
+        {
+          "title": "1773-1853: regulation, monopoly and centralisation compared",
+          "structural_type": "comparison-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 2 \u2014 REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 4 \u2014 CHARTER ACTS 1793 AND 1813: MONOPOLY, SOVEREIGNTY AND EDUCATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 5 \u2014 CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL SERVICE"
+          ],
+          "full_text": "ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT\n1773    Parliament regulates           GG of Bengal; Calcutta Supreme Court\n1781    jurisdiction clarified         executive-revenue sphere protected\n1784    political control separated    Board of Control; dual control\n1813    India trade monopoly ends       sovereignty asserted; education grant\n1833    all Company trade ends          GG of India; legislative centralisation\n        Company becomes administrative first Law Commission; no open competition yet\n1853    charter not renewed for term    legislative-executive functions differentiated\n        patronage principle weakened    competition route prepared\n\nEXAM LINE: 1833 centralised the legislative state; 1853 specialised its machinery."
+        },
+        {
+          "title": "Representation without responsibility, 1861-1919",
+          "structural_type": "legislative-evolution-branch",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 7 \u2014 INDIAN COUNCILS ACTS 1861 AND 1892: ASSOCIATION WITHOUT RESPONSIBILITY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 8 \u2014 INDIAN COUNCILS ACT 1909: REPRESENTATION AND COMMUNAL ELECTORATES",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 9 \u2014 GOVERNMENT OF INDIA ACT 1919: DYARCHY, BICAMERALISM, FRANCHISE AND REVIEW"
+          ],
+          "full_text": "1861: NOMINATION\n  +-- nominated Indian non-officials; portfolio system recognised\n  +-- legislative decentralisation revived; no executive responsibility\n        |\n1892: SCRUTINY\n  +-- budget discussion and questions\n  +-- indirect-election element; official majorities retained\n        |\n1909: REPRESENTATION SEGMENTED\n  +-- separate electorates for Muslims\n  +-- larger councils; Indian on Viceroy's Executive Council\n  +-- executive still not responsible to legislature\n        |\n1919: RESPONSIBILITY DIVIDED\n  +-- provincial dyarchy: reserved versus transferred subjects\n  +-- central bicameralism; direct elections and limited franchise\n  +-- ministers lacked decisive coercive and fiscal levers"
+        },
+        {
+          "title": "The 1935 constitutional machine: promise and safeguards",
+          "structural_type": "federal-mechanism-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 11 \u2014 GOVERNMENT OF INDIA ACT 1935: FEDERATION, LISTS AND PROVINCIAL AUTONOMY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 12 \u2014 GOVERNMENT OF INDIA ACT 1935: INSTITUTIONS, FRANCHISE AND SAFEGUARDS"
+          ],
+          "full_text": "GOVERNMENT OF INDIA ACT 1935\n  +-- ALL-INDIA FEDERATION: provinces + princely states\n  |     +-- never commenced because required princely accession failed\n  +-- LEGISLATIVE DISTRIBUTION\n  |     +-- Federal List 59 | Provincial List 54 | Concurrent List 36\n  |     +-- residuary allocation vested in Governor-General\n  +-- PROVINCES\n  |     +-- dyarchy abolished -> provincial autonomy\n  |     +-- ministers responsible to provincial legislatures\n  +-- CENTRE: proposed dyarchy; not brought into operation\n  +-- INSTITUTIONS: Federal Court 1937 | PSCs | bicameral provinces\n  +-- SAFEGUARDS: discretion, special responsibilities and reserved powers\n\nVERDICT: autonomy was enlarged inside an imperial veto structure."
+        },
+        {
+          "title": "1935 inheritance: retained, transformed, rejected",
+          "structural_type": "continuity-rupture-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 14 \u2014 THEMATIC EVOLUTION: LEGISLATURE, EXECUTIVE, JUDICIARY, SERVICES AND FINANCE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 16 \u2014 CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950"
+          ],
+          "full_text": "1935 DEVICE             1950 TREATMENT\nThree legislative lists retained; redistributed under Seventh Schedule\nFederal Court           transformed into Supreme Court with wider review\nProvincial autonomy     retained as elected State government\nPublic Service Comms.   constitutionalised for Union and States\nEmergency machinery    retained but subjected to constitutional procedure\nGovernor's office       retained; democratic responsibility replaces imperial command\nAll-India Services      retained as an integrating administrative instrument\n\nREJECTED OR NORMATIVELY BROKEN\nimperial sovereignty -> popular sovereignty\ncommunal electorates -> common electoral citizenship\nlimited franchise -> universal adult suffrage\nruler safeguards -> enforceable rights and judicial review"
+        },
+        {
+          "title": "1947 bridge: dominion legality to republican authority",
+          "structural_type": "sovereignty-transition",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 13 \u2014 INDIAN INDEPENDENCE ACT 1947 AND THE CONSTITUENT ASSEMBLY BRIDGE"
+          ],
+          "full_text": "INDIAN INDEPENDENCE ACT 1947\n  +-- British rule ends; India and Pakistan become Dominions\n  +-- British parliamentary authority over the new Dominions ends\n  +-- princely-state suzerainty lapses; accession is not automatic absorption\n  +-- Constituent Assembly becomes sovereign constitution-maker\n  +-- Assembly also acts as Dominion legislature\n        |\nTRANSITIONAL GOVERNMENT\n  existing law and administration continue unless altered\n        |\n26 NOV 1949: Constitution adopted\n24 JAN 1950: members sign\n26 JAN 1950: Constitution commences; republic replaces dominion status\n\nBRIDGE: legal continuity prevented a vacuum; constituent power changed authority's source."
+        },
+        {
+          "title": "Colonial reform: official motive versus Indian pressure",
+          "structural_type": "problem-response-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 15 \u2014 BRITISH MOTIVES, INDIAN PRESSURES AND COLONIAL CONSTITUTIONALISM"
+          ],
+          "full_text": "OFFICIAL PROBLEM                 IMPERIAL RESPONSE\nCompany abuse / fiscal crisis   parliamentary regulation, not self-government\nadministrative overload         centralisation, codification, specialised services\nnationalist representation      councils, limited elections, controlled devolution\nmass political pressure         graded responsibility with vetoes and safeguards\ncommunal bargaining             separate electorates and group arrangements\n\nINDIAN COUNTER-PRESSURE\nassociations -> Congress demands -> Home Rule -> mass movements -> negotiation\n\nSYNTHESIS\nBritish policy designed controlled adaptation to preserve authority.\nIndian politics converted concessions into platforms for further claims.\nReform was neither a unilateral gift nor a linear march to democracy."
+        },
+        {
+          "title": "Historical-background close-option control board",
+          "structural_type": "examiner-trap-grid",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#BASIC MCQS / REMEDIATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "CLAIM TO TEST                              EXACT CONTROL\n1773 created Governor-General of India     No: Governor-General of Bengal\n1784 transferred India to Crown rule       No: dual control; Crown rule begins in 1858\n1813 ended every Company monopoly          No: tea and China trade exceptions remained\n1833 introduced open civil-service exam    No: principle opened; competition came later\n1861 introduced elected representation     No: nominated Indian non-officials\n1892 made executive legislature-dependent  No: scrutiny without responsibility\n1909 began responsible government          No: representation widened, executive insulated\n1919 put dyarchy at Centre                  No: provincial dyarchy\n1935 federation operated                   No: federal part never commenced\n1935 created RBI directly                  RBI Act 1934; operations began in 1935\n1947 automatically integrated princes      No: suzerainty lapsed; integration followed"
+        },
+        {
+          "title": "Exact 10/15-mark architecture: evolution into the 1950 Constitution",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 16 \u2014 CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\n1. Thesis: colonial statutes built machinery; 1950 changed its sovereign basis.\n2. Three phases: 1773-1858 control; 1861-1919 representation; 1935 blueprint.\n3. Evidence: one exact Act-feature pair from each phase.\n4. Pivot: 1947 transferred constituent authority and preserved legal continuity.\n5. Verdict: structural continuity plus democratic rupture.\n\n15 MARKS / 250 WORDS\n1. Open with Diwani power-accountability mismatch.\n2. Trace control: 1773 -> 1784 -> 1858.\n3. Trace participation: 1861 -> 1892 -> 1909 -> 1919.\n4. Explain 1935 lists, autonomy, institutions and safeguards.\n5. Compare retained devices with rejected imperial principles.\n6. Add Indian pressure versus British controlled adaptation.\n7. Conclude: inheritance supplied instruments, not constitutional legitimacy."
+        }
+      ]
+    },
+    "polity-02": {
+      "title": "Making of the Constitution",
+      "source_record": "polity-02:learner-v2:g17",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md",
+      "quality_review": "Deep content repair: chronology, exact metrics, committee/personnel controls, Articles 393-395, PYQ routes and 10/15/20-mark spines reconciled.",
+      "panels": [
+        {
+          "title": "1934-1946: the route to a constitution-making body",
+          "structural_type": "constitutional-evolution-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 1 \u2014 INTELLECTUAL AND POLITICAL ORIGINS: 1934-1946",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 2 \u2014 CABINET MISSION DESIGN AND ALLOCATION LOGIC"
+          ],
+          "full_text": "1934  M.N. Roy advances the Constituent Assembly idea\n  |\n1935  Congress formally demands a Constituent Assembly\n  |\n1938  Nehru specifies an Assembly elected on adult franchise,\n      free from outside interference\n  |\n1940  August Offer accepts the principle of Indian constitution-making\n1942  Cripps proposal offers post-war constitution-making\n1946  Cabinet Mission supplies the operative scheme\n       +-- indirectly elected provincial representatives\n       +-- princely-state nominees\n       +-- community allocation within provincial seats\n       +-- population ratio broadly one seat per million\n\nTRAP: do not attach Nehru's adult-franchise formulation to 1935."
+        },
+        {
+          "title": "Composition changed with Partition; authority changed with Independence",
+          "structural_type": "composition-sovereignty-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 3 \u2014 ELECTIONS, COMPOSITION CHANGE AND METRIC DISCIPLINE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 6 \u2014 A. INDIAN INDEPENDENCE ACT 1947: SOVEREIGNTY AND DUAL INSTITUTIONAL ROLES"
+          ],
+          "full_text": "CABINET MISSION PLAN: 389\n  +-- provinces 296 = 292 Governor's provinces + 4 Chief Commissioners\n  +-- princely states 93\nELECTION RESULT: Congress 208; Muslim League 73; others 15\n9 DEC 1946: first sitting; only 211 attended amid League boycott\n        |\nPARTITION -> RECONSTITUTED ASSEMBLY: 299 = provinces 229 + states 70\n15 AUG 1947: sovereign constitution-maker + Dominion legislature\n26 NOV 1949: Constitution adopted\n24 JAN 1950: 284 members signed\n26 JAN 1950: Republic + provisional Parliament\n\nTRAPS: 299 = strength; 211 = first-sitting attendance; 284 = signatories."
+        },
+        {
+          "title": "Committee architecture: distributed authorship, not seven-person mythology",
+          "structural_type": "institution-power-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 7 \u2014 COMMITTEE ARCHITECTURE AND DISTRIBUTED AUTHORSHIP",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 8 \u2014 B.N. RAU, DRAFTING COMMITTEE AND ASSEMBLY: ROLE FLOW"
+          ],
+          "full_text": "EIGHT MAJOR COMMITTEES\n  +-- Nehru: Union Powers; Union Constitution; States\n  +-- Patel: Provincial Constitution; Advisory\n  +-- Rajendra Prasad: Rules of Procedure; Steering\n  +-- Ambedkar: Drafting Committee (7 members; appointed 29 Aug 1947)\nADVISORY SUBCOMMITTEES\n  +-- Fundamental Rights \u2014 J.B. Kripalani\n  +-- Minorities \u2014 H.C. Mookherjee\n  +-- Assam tribal/excluded areas \u2014 Gopinath Bardoloi\n  +-- other excluded areas \u2014 A.V. Thakkar\n\nB.N. RAU: research + initial draft + technical advice\nDRAFTING COMMITTEE: converts decisions into clauses; sat 141 days\nASSEMBLY: report -> debate -> amendment -> vote -> adopted text"
+        },
+        {
+          "title": "Drafting pipeline, debate metrics and commencement articles",
+          "structural_type": "procedure-flow",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 5 \u2014 OBJECTIVES RESOLUTION TO PREAMBLE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 9 \u2014 DRAFTING STAGES, READINGS, ADOPTION, SIGNING AND COMMENCEMENT"
+          ],
+          "full_text": "13 DEC 1946 Objectives Resolution moved -> 22 JAN 1947 adopted\ncommittee reports + B.N. Rau draft -> 29 AUG 1947 Drafting Committee\nFEB 1948 public Draft -> comments -> OCT 1948 revised Draft\nREADING 1 general -> READING 2 clause/amendment -> READING 3 passage\n\nASSEMBLY WORK: 11 sessions; 165 sitting days; Draft debated 114 days\nAMENDMENTS: 7,635 tabled; 2,473 moved/disposed\n26 NOV 1949: adopted; 16 provisions commenced immediately\n24 JAN 1950: 284 signatures | 26 JAN 1950: remaining provisions commence\n\nARTICLES 393-395 CONTROL\n393 short title | 394 commencement split | 394A authoritative Hindi text\n395 repeals the 1935 Act and Indian Independence Act 1947\nTRAP: Article 394, not 393, controls commencement."
+        },
+        {
+          "title": "People, offices and constitutional symbols",
+          "structural_type": "person-role-symbol-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 4 \u2014 FIRST SITTING, PRESIDING OFFICERS AND SECRETARIAT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 10 \u2014 A. OTHER FUNCTIONS, SYMBOLS, CONSTITUTIONAL CRAFT AND PROVISIONAL PARLIAMENT"
+          ],
+          "full_text": "TEMPORARY PRESIDENT: Sachchidananda Sinha\nPERMANENT PRESIDENT: Rajendra Prasad\nVICE-PRESIDENTS: H.C. Mookherjee; V.T. Krishnamachari\nCONSTITUTIONAL ADVISER: B.N. Rau\nDRAFTING CHAIR / DRAFT PILOT: B.R. Ambedkar\nCONSTITUENT BUSINESS: Rajendra Prasad\nDOMINION-LEGISLATIVE BUSINESS: G.V. Mavlankar\n\n24 JAN 1950\n  +-- 284 members sign English and Hindi calligraphed copies\n  +-- Jana Gana Mana adopted as National Anthem\n  +-- Vande Mataram accorded equal honour as National Song\n  +-- Rajendra Prasad elected first President of India\n\nTRAP: adoption 26 Nov 1949 != signing 24 Jan 1950 != commencement 26 Jan 1950."
+        },
+        {
+          "title": "Debate map: rights, federalism, executive and social revolution",
+          "structural_type": "debate-branching-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 11 \u2014 MAJOR DEBATES AND OWNER-TOPIC CROSS-LINKS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 17 \u2014 SOCIAL REVOLUTION, CONTINUITY AND RUPTURE"
+          ],
+          "full_text": "CONSTITUTIONAL CHOICE\n  +-- RIGHTS: liberty + equality + remedies\n  |     versus preventive powers, public order and social reform\n  +-- FEDERALISM: provincial autonomy\n  |     versus Partition-era need for an effective Union\n  +-- EXECUTIVE: parliamentary responsibility\n  |     versus instability and concentrated leadership\n  +-- MINORITIES: cultural/educational protection\n  |     versus rejection of separate political electorates\n  +-- SOCIAL REVOLUTION\n        enforceable rights + Directive Principles + affirmative action\n\nRESULT: political democracy joined an unfinished social transformation."
+        },
+        {
+          "title": "Borrowed provisions became Indian constitutional adaptations",
+          "structural_type": "comparison-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 12 \u2014 BORROWED PROVISIONS AS ADAPTATION, NOT COPYING"
+          ],
+          "full_text": "SOURCE          INDIAN ADAPTATION\nUK              cabinet responsibility + parliamentary government\nUS              Fundamental Rights + judicial review + impeachment ideas\nIreland         Directive Principles + presidential nomination method\nCanada          federation with strong Centre + residuary Union power\nAustralia       Concurrent List + trade provisions + joint sitting\nGermany         emergency ideas, constitutionally recast\nSouth Africa    amendment elements + Rajya Sabha election method\nGoI Act 1935    machinery stripped of imperial sovereignty\n\nTEST: borrowed device + Indian problem + altered setting = Indian rule\nVERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy."
+        },
+        {
+          "title": "Criticism and evidence-led reply",
+          "structural_type": "objection-response-tree",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 13 \u2014 CONSENSUS, PARTY ORGANISATION AND NEGOTIATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 14 \u2014 PEOPLE AND PLURAL VOICES WITHOUT HERO-ONLY REDUCTION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 15 \u2014 CRITICISM VERSUS EVIDENCE-LED REPLY"
+          ],
+          "full_text": "NO ADULT-FRANCHISE ELECTION -> real mandate deficit; restricted franchise,\n  princely nomination, Partition and no universal rolls explain but do not erase it\nCONGRESS DOMINATION -> 208/296 confirms dominance; internal diversity,\n  committees, dissent and public comments complicate a one-party caricature\nLAWYER-MADE / OVER-LEGAL -> precision mediated federal, rights and transition conflict\nCOPIED -> selective borrowing was recombined and India-specific\nSOCIAL UNDER-REPRESENTATION -> exclusions were real despite minority/women/Dalit voices\nEXCESSIVE TIME -> 2 years, 11 months, 18 days covered Partition and clause scrutiny\n\nVERDICT: imperfect electoral origin + substantial deliberative authorship."
+        },
+        {
+          "title": "Four PYQ controls and recurring prelims traps",
+          "structural_type": "pyq-control-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "2021 GS-I Q93: on 26 Jan 1950 India became a Sovereign Democratic Republic\n2023 GS-I Q85: Constitution Day and Drafting Committee statements\n2024 GS-I Q61: Sachchidananda Sinha = provisional President\n2026 GS-I Q55: Articles 393-395\n  +-- text supports statements 1 and 3\n  +-- repository key is provisional/conflicting; preserve qualification\n\nRECURRING TRAPS\n389/299/211/284 | Rau/Ambedkar/Assembly | adoption/signing/commencement\nRajendra Prasad/Mavlankar | parent committee/subcommittee chair\noriginal 395 Articles + 8 Schedules versus today's totals\nDebates are persuasive aids; enacted text remains supreme."
+        },
+        {
+          "title": "Exact 10/15/20-mark answer architecture",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#SESSION 18 \u2014 UPSC ANSWER SPINE AND CURRENT INSTITUTIONAL RELEVANCE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\n1. Define the issue/demand. 2. Use 389->299 plus one exact date.\n3. Add one committee-role distinction. 4. Give balanced verdict.\n\n15 MARKS / 250 WORDS\n1. Thesis. 2. Origins 1934-46. 3. Composition + sovereignty shift.\n4. Resolution->committees->draft->readings. 5. Two criticisms with evidence.\n6. One adaptation/debate example. 7. Graded conclusion.\n\n20 MARKS / 250 WORDS\n1. Decode directive and frame legitimacy/originality test.\n2. Origin deficit: indirect election, nomination, boycott, exclusions.\n3. Process defence: public draft, 7,635/2,473 amendments, 114 debate days.\n4. Distributed authorship: Rau -> committees -> Drafting -> Assembly.\n5. Substance: rights, federalism, social revolution, adapted borrowing.\n6. Limits and counterweight in paired table. 7. Nuanced verdict.\n\nMARKS GRABBER: metric + named institution + mechanism + qualification."
+        }
+      ]
+    },
+    "polity-03": {
+      "title": "Salient Features of the Indian Constitution",
+      "source_record": "polity-03:learner-v2:g18",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md",
+      "quality_review": "Deep-content review repaired factual, PYQ, practice and flow coverage; eleven manual panels revalidated against the g18 source.",
+      "panels": [
+        {
+          "title": "Complete 17-feature control: four interacting layers",
+          "structural_type": "constitutional-feature-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 1 \u2014 WHAT COUNTS AS A SALIENT CONSTITUTIONAL FEATURE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 20 \u2014 CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS"
+          ],
+          "full_text": "FORM AND CHANGE\n01 lengthy written text | 02 varied sources | 03 rigidity + flexibility\n\nPOWER AND GOVERNMENT\n04 federal strong-Centre design | 05 parliamentary government\n06 parliamentary power + judicial review | 07 integrated independent judiciary\n\nVALUES AND PARTICIPATION\n08 Fundamental Rights | 09 DPSPs | 10 Fundamental Duties\n11 secular State | 12 universal adult franchise | 13 single citizenship\n\nINSTITUTIONS AND CONSTITUTIONAL MODES\n14 independent constitutional bodies | 15 Emergency provisions\n16 constitutional local government | 17 co-operative societies\n\nCONTROL: a feature is a system-level interaction, not one isolated Article."
+        },
+        {
+          "title": "Written detail, supremacy and three amendment tracks",
+          "structural_type": "articles-procedure-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 2 \u2014 WRITTEN, LENGTHY AND DETAILED CONSTITUTION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 4 \u2014 BLEND OF RIGIDITY AND FLEXIBILITY"
+          ],
+          "full_text": "ORIGINAL CONTROL: Preamble + 395 Articles + 22 Parts + 8 Schedules\nCURRENT CONTROL: avoid one fixed Article total; inserted/omitted text changes counts\n\nCHANGE ROUTES\n+-- simple-majority matters outside Article 368\n+-- Article 368 special majority in each House; no joint sitting\n+-- special majority + ratification by at least half State Legislatures\n\nLIMIT: Article 368 power -> constitutional change\n                         -> no destruction of basic structure\n\nVERDICT: detail secures inclusion; calibrated amendment balances continuity and change."
+        },
+        {
+          "title": "Borrowed, adapted and rejected: design rather than photocopy",
+          "structural_type": "source-adaptation-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 3 \u2014 BORROWED SOURCES AS ADAPTATION, NOT COPYING",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+          ],
+          "full_text": "SOURCE        ADAPTED INPUT                     REJECTED / TRANSFORMED\n1935 Act      federal/admin/judicial scheme       colonial rule + restricted franchise\nBritain       cabinet, rule of law, bicameralism   monarchy + unlimited Parliament\nUnited States rights, review, impeachment, VP      presidentialism + dual citizenship\nIreland       DPSPs, RS nomination, President      fitted to Indian parliamentary system\nCanada        strong Centre + residuary power      no copy of an indissoluble State model\nAustralia     Concurrent List + joint sitting      inserted into different federal balance\nUSSR/France   duties/justice + republic/fraternity single-party/statist model rejected\nS Africa/Japan amendment route + Art 21 wording     both altered by Indian doctrine\n\nManeka Gandhi (1978): 'procedure established' requires fair, just, reasonable procedure."
+        },
+        {
+          "title": "Federal power-sharing with integrative and asymmetric devices",
+          "structural_type": "federal-relations-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 5 \u2014 FEDERAL SYSTEM WITH CENTRALISING, COOPERATIVE AND ASYMMETRIC DIMENSIONS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 14 \u2014 SINGLE CITIZENSHIP, ADMINISTRATIVE/LEGAL UNITY AND ALL-INDIA SERVICES",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 19 \u2014 ASYMMETRY, LANGUAGE, PLURALISM AND ACCOMMODATION OF DIVERSITY"
+          ],
+          "full_text": "FEDERAL CORE\ntwo levels + divided competence + written supremacy + independent judiciary\nArticle 1: 'Union of States' -> no State right to secede\n\nINTEGRATIVE: single citizenship | integrated courts | All-India Services\nCOOPERATIVE: Inter-State Council | Finance Commission | GST Council\nASYMMETRIC: differentiated regional, tribal and language arrangements\nCENTRALISING: residuary power | Governors | Emergency provisions\n\nJ&K CONTROL: In Re: Article 370 of the Constitution (2023) treated it as temporary;\n2019 measures upheld; statehood assurance recorded; no restoration notice located.\n\nVERDICT: real federal distribution plus constitutionally strong integration."
+        },
+        {
+          "title": "Parliamentary responsibility, overlap and separation-of-powers checks",
+          "structural_type": "executive-legislative-checks",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 6 \u2014 PARLIAMENTARY GOVERNMENT AND RESPONSIBLE EXECUTIVE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 7 \u2014 A. SYNTHESIS OF PARLIAMENTARY POWER, JUDICIAL REVIEW AND CONSTITUTIONAL SUPREMACY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 8 \u2014 SEPARATION OF POWERS THROUGH CHECKS AND BALANCES"
+          ],
+          "full_text": "PEOPLE -> LOK SABHA -> COUNCIL OF MINISTERS\n                         +-- Article 75 collective responsibility\n                         +-- confidence + questions + committees + finance\n\nOVERLAP\nExecutive -> ordinances Articles 123/213 and delegated legislation\nLegislature -> law + Article 368 constituent power\nJudiciary -> review Articles 13/32/226 + rules/contempt\n\nINSULATION: Articles 50, 121/211, 122/212 | institutional core domains\nCASE CONTROL: Ram Jawaya = no rigid separation; basic structure limits capture\nPYQ 2021 Q90: best liberty safeguard among exact options = separation of powers."
+        },
+        {
+          "title": "Judiciary, rule of law and the rights-DPSP-duties triangle",
+          "structural_type": "rights-dpsp-duty-balance",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 9 \u2014 CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 10 \u2014 INDEPENDENT, INTEGRATED JUDICIARY AND JUDICIAL REVIEW",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 11 \u2014 RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES AS NORMATIVE ARCHITECTURE"
+          ],
+          "full_text": "CONSTITUTIONAL SUPREMACY\n+-- rule of law -> limited, reasoned and reviewable power\n+-- integrated judiciary -> SC > High Courts > subordinate courts\n+-- independence -> tenure/removal/service/charged-expense safeguards\n    Article 124(7): retired SC judge cannot plead/act before court/authority\n    Article 220: retired permanent HC judge limited to SC/other HCs\n\nNORMATIVE TRIANGLE\nFR: enforceable liberty/equality/dignity\nDPSPs: non-justiciable welfare/transformation directives\nDuties: civic obligations; no licence to erase rights\nMinerva Mills (1980): harmony of Parts III and IV belongs to basic structure."
+        },
+        {
+          "title": "Democracy, citizenship, bodies, local government and co-operatives",
+          "structural_type": "institution-accountability-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 13 \u2014 UNIVERSAL ADULT FRANCHISE, REPRESENTATIVE DEMOCRACY AND BICAMERALISM",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 15 \u2014 INDEPENDENT CONSTITUTIONAL BODIES AND ACCOUNTABILITY ECOSYSTEM",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 17 \u2014 LOCAL SELF-GOVERNMENT, SOCIAL JUSTICE AND AFFIRMATIVE ACTION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 18 \u2014 A. COOPERATIVE SOCIETIES AS CONSTITUTIONALISED DEMOCRATIC ASSOCIATION"
+          ],
+          "full_text": "CITIZEN -> adult franchise -> Lok Sabha/Assemblies -> responsible government\nSINGLE CITIZENSHIP -> common membership, not erasure of every domicile rule\n\nBODY             ARTICLE / DISTINCT DESIGN\nElection Commission 324 election superintendence; safeguards not same as CAG\nCAG                 148-151 tenure/removal/reporting + charged expenditure\nPSCs                315-323 service advice + own constitutional protections\nFinance Commission  280 periodic expert commission, not permanent body\n\nLOCAL: Parts IX/IX-A + Schedules 11/12; detailed status is distinctive, not unique\nCO-OPS: Union of India v. Rajendra N. Shah (2021) limits Part IX-B for State co-ops."
+        },
+        {
+          "title": "Three Emergency modes, safeguards and return to normal balance",
+          "structural_type": "emergency-mechanism",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 16 \u2014 EMERGENCY PROVISIONS AND CONSTITUTIONAL MODES"
+          ],
+          "full_text": "NORMAL FEDERAL-RESPONSIBLE MODE\n      |\n      +-- Article 352: war / external aggression / armed rebellion\n      |     Articles 358/359 have distinct effects; Arts 20/21 protected\n      +-- Article 356: failure of State constitutional machinery\n      |     Article 365 may inform satisfaction; S.R. Bommai (1994) review applies\n      +-- Article 360: financial-stability threat and fiscal directions\n      |\nCONTROLS: written Cabinet advice + parliamentary approval + duration + review\n      |\nRETURN TO ORDINARY CONSTITUTIONAL BALANCE\n\nCONTROL: temporary centralisation is India's specified design, not a unique world claim."
+        },
+        {
+          "title": "Strength-risk pairs and live constitutional controls",
+          "structural_type": "comparison-problem-response",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 20 \u2014 CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 21 \u2014 A. CONSTITUTIONAL MORALITY AS THE OPERATING ETHIC",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 22 \u2014 CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT"
+          ],
+          "full_text": "FEATURE              GAIN                         RISK / CONTROL\nstrong Centre         coordination/integrity       overreach -> federal review\nparliamentary fusion  daily accountability         majority dominance\njudicial review       rights/limited government    reasoned institutional restraint\ndetail + amendment    inclusion + adaptation       complexity/basic structure\nsecular engagement    reform + equal respect       majoritarian capture risk\nindependent bodies    specialised accountability   appointments + transparency\n\nLIVE CONTROLS (28 AUG 2026)\n106th Amendment commenced; seat operation awaits Article 334A sequence.\nJ&K remains a UT with legislature; no statehood-restoration notice located.\nRajendra N Shah remains controlling for State co-operative Part IX-B limits."
+        },
+        {
+          "title": "Verified PYQ control panel: exact answers and traps",
+          "structural_type": "pyq-control-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "YEAR Q     CONTROLLED ANSWER / ROUTE\n2018 Q40   B: without law there is no liberty\n2018 Q45   C: limitation + equality + liberty/civil rights\n2020 Q7    D: constitutional government = limited government\n2021 Q86   A: independent judiciary is essential federal safeguard\n2021 Q87   A: population + territory + government + sovereignty\n2021 Q89   A: statement 1 only on single citizenship/domicile\n2021 Q90   D: separation of powers safeguards liberty\n2021 Q94   D: government limited by constitutional terms\n2023 Q31   A: due process = principle of natural justice\n2023 Q33   C: Constitution defines and limits government\n2023 Q84   D: 600x400 not standard; 3:2 ratio correct\n2024 Q74   D officially keyed: Parts IX-A, XVIII and XX all matched."
+        },
+        {
+          "title": "Executable 10/15/20-mark answer spine",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 22 \u2014 CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\nDefine demand -> 3 feature clusters -> Article/case for each -> one limit -> verdict\n\n15 MARKS / 250 WORDS\nThesis -> written/amendment -> federal/integrative -> parliamentary/checks\n-> rights-welfare -> participation/bodies -> two tensions -> graded conclusion\n\n20 MARKS / 250 WORDS\n1 Decode directive and state synthesis thesis.\n2 Form/change: detail, sources, three amendment tracks.\n3 Power: federal, strong-Centre, cooperative and asymmetric dimensions.\n4 Government/checks: responsibility, separation, judicial review, rule of law.\n5 Purpose: FR-DPSP-Duties, secularism, franchise, local democracy.\n6 Institutions/modes: bodies, co-ops, Emergency design.\n7 Pair every strength with risk + authority/current control.\n8 Conclude: constitutional morality sustains dynamic balance."
+        }
+      ]
+    },
+    "polity-04": {
+      "title": "Preamble of the Constitution",
+      "source_record": "polity-04:learner-v2:g18",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+      "quality_review": "Deep-content repair: exact five-descriptor, PYQ, current-law and 20-mark controls verified for g15.",
+      "panels": [
+        {
+          "title": "From Objectives Resolution to authoritative Preamble",
+          "structural_type": "constitutional-evolution-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 2 \u2014 FROM THE OBJECTIVES RESOLUTION TO THE PREAMBLE: THE DRAFTING CHAIN",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 14 \u2014 INGREDIENT 4 - THE DATE OF ADOPTION, AND THE ENACTMENT SEQUENCE"
+          ],
+          "full_text": "13 DEC 1946  Objectives Resolution moved by Jawaharlal Nehru\n22 JAN 1947  Objectives Resolution adopted\n      |\ncommittee work + Drafting Committee language + Assembly debate\n      |\n26 NOV 1949\n\"WE, THE PEOPLE OF INDIA\" adopt, enact and give the Constitution to ourselves\n      |\n24 JAN 1950  members sign the Constitution\n      |\n26 JAN 1950  Constitution commences\n\nTEXTUAL MEMORY\nsource -> nature of State -> objectives -> adoption/enactment declaration\n\nTRAP: adoption and commencement dates perform different constitutional work."
+        },
+        {
+          "title": "Clause architecture: authority, identity, ends and enactment",
+          "structural_type": "text-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 3 \u2014 THE AUTHORITATIVE TEXT AND ITS CLAUSE ARCHITECTURE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 4 \u2014 INGREDIENT 1 - THE SOURCE OF AUTHORITY: \"WE, THE PEOPLE OF INDIA\""
+          ],
+          "full_text": "WE, THE PEOPLE OF INDIA\n  +-- SOURCE: popular constituent authority\n  +-- STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC\n  +-- OBJECTIVES\n  |     +-- JUSTICE: social, economic, political\n  |     +-- LIBERTY: thought, expression, belief, faith, worship\n  |     +-- EQUALITY: status and opportunity\n  |     +-- FRATERNITY: dignity + unity and integrity\n  +-- CONSTITUENT ACT\n        adopt + enact + give to ourselves\n\nPeople are the source; descriptors identify the polity;\nobjectives set its destination; enactment converts resolution into authority."
+        },
+        {
+          "title": "Five State descriptors: exact constitutional work",
+          "structural_type": "comparison-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 5 \u2014 INGREDIENT 2 - THE NATURE OF THE INDIAN STATE: THE FIVE DESCRIPTORS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 6 \u2014 SOVEREIGN",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 7 \u2014 SOCIALIST",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 8 \u2014 SECULAR",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 9 \u2014 DEMOCRATIC",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 10 \u2014 REPUBLIC"
+          ],
+          "full_text": "DESCRIPTOR   CONSTITUTIONAL WORK\nSovereign    no external superior; internal authority under Constitution\nSocialist    democratic welfare and distribution, not total statism\nSecular      equal citizenship with principled regulation of religion\nDemocratic   popular rule through adult franchise and representation\nRepublic     elected, non-hereditary head of State\n\n42ND AMENDMENT, 1976\ninserted \"Socialist\", \"Secular\" and \"integrity\";\nit did not create their entire constitutional substance.\n\nBritain: democracy + hereditary monarchy | India: democracy + republic."
+        },
+        {
+          "title": "Justice, liberty, equality and fraternity as one system",
+          "structural_type": "rights-dpsp-balance",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 11 \u2014 INGREDIENT 3 - THE OBJECTIVES: JUSTICE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 12 \u2014 LIBERTY AND EQUALITY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 13 \u2014 FRATERNITY, DIGNITY OF THE INDIVIDUAL, AND UNITY AND INTEGRITY OF THE NATION"
+          ],
+          "full_text": "JUSTICE: social + economic + political\n  -> Directive Principles and social-reform powers\nLIBERTY: thought + expression + belief + faith + worship\n  -> rights, subject to constitutional limits\nEQUALITY: status + opportunity\n  -> non-discrimination plus corrective measures\nFRATERNITY: dignity + unity and integrity\n  -> personal worth joined to common citizenship\n\nBALANCE\nliberty without equality entrenches privilege;\nequality without liberty risks coercion;\nfraternity sustains both as a shared constitutional project."
+        },
+        {
+          "title": "Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995): legal status settled",
+          "structural_type": "judicial-doctrine-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 16 \u2014 LEGAL STATUS: BERUBARI TO KESAVANANDA TO LIC OF INDIA"
+          ],
+          "full_text": "BERUBARI UNION (1960)\n  +-- Preamble is a key to the makers' minds\n  +-- advisory opinion did not regard it as part of Constitution\n        |\nKESAVANANDA BHARATI (1973)\n  +-- Preamble is part of Constitution\n  +-- amendable under Article 368\n  +-- amendment cannot damage basic structure\n        |\nLIC OF INDIA (1995)\n  +-- reaffirms Preamble as integral to Constitution\n\nTWO LIMITS\nNo independent legislative power comes from Preamble.\nNo standalone directly enforceable right comes from Preamble."
+        },
+        {
+          "title": "Amendability stops at constitutional identity",
+          "structural_type": "amendment-boundary-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 18 \u2014 AMENDABILITY AND THE BASIC-STRUCTURE BOUNDARY"
+          ],
+          "full_text": "ARTICLE 368\n  +-- reaches Preamble because it is part of Constitution\n  +-- 42nd Amendment validly added three expressions\n  +-- BUT amending power is limited\n        |\nBASIC-STRUCTURE TEST\nDoes change alter wording while preserving constitutional identity?\n  -> permissible amendment\nDoes change destroy sovereignty, democracy, secularism, republic or dignity?\n  -> invalid damage to basic structure\n\nCORRECT FORMULA\nPreamble is amendable; its basic features are not abrogable."
+        },
+        {
+          "title": "How non-justiciable words produce legal force",
+          "structural_type": "interpretive-mechanism",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 17 \u2014 THE TWO PERMANENT CAVEATS, OPERATIONALISED",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 19 \u2014 HOW THE PREAMBLE ACTUALLY BITES: THE INTERPRETIVE-FORCE MECHANISM"
+          ],
+          "full_text": "AMBIGUOUS CONSTITUTIONAL TEXT\n        |\nPreamble identifies purpose, value and structural direction\n        +-- choose meaning consistent with justice, liberty and dignity\n        +-- reject reading defeating democratic or secular structure\n        |\nDOCTRINAL USE\n  +-- interpret rights and institutional powers\n  +-- identify basic-structure principles\n  +-- connect Parts III and IV\n\nSTOP RULE\nClear text cannot be rewritten by Preamble alone.\nNo power, offence, tax or enforceable claim arises solely from Preamble."
+        },
+        {
+          "title": "Preamble claims: problem and precise response",
+          "structural_type": "problem-response-grid",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 15 \u2014 SIGNIFICANCE: WHAT THE MAKERS AND THE SCHOLARS SAID THE PREAMBLE DOES",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 20 \u2014 EXAM ARCHITECTURE: CONVERTING THE PREAMBLE INTO MARKS"
+          ],
+          "full_text": "CLAIM                                      PRECISE RESPONSE\n\"mere ornament\"                           false: interpretive and structural force\n\"source of all government power\"          false: operative provisions confer power\n\"directly enforceable\"                    false: values guide enforceable provisions\n\"unchangeable\"                            false: Article 368 applies, basic structure limits\n\"Socialist means State ownership\"         too broad: democratic socialism is mixed\n\"Secular means strict separation\"         incomplete: equal respect plus reform regulation\n\"Republic means direct democracy\"         false: concerns non-hereditary headship\n\"integrity replaced unity\"                false: 42nd added integrity after unity\n\nConstitution in miniature, but not a miniature Constitution."
+        },
+        {
+          "title": "Exact PYQ control: wording, ownership and answer route",
+          "structural_type": "pyq-control-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "DIRECT OWNER\n2020 GS-I Q16: Preamble is part, but has no legal effect independently of other parts -> D\n  (reasoned; no local official key).\n\nADJACENT PRELIMS\n2021 GS-I Q93: exact 26 Jan 1950 status = Sovereign Democratic Republic -> B.\n\nEXACT MAINS DEMANDS\n2019 GS-II Q5 (10/150): What can France learn from the Indian Constitution's approach to\n  secularism? ONE-WAY answer only.\n2021 GS-II Q1 (10/150): explain constitutional morality WITH relevant judicial decisions.\n2024 GS-II Q15 (15/250): India as secular State compared with US principles.\n2025 GS-II Q11 (15/250): constitutional morality applied to judicial\n  independence/accountability.\n2025 GS-IV Q1(b) (10/150): public-service morality, governance and accountability.\n\nTRAP: never convert a cross-owned PYQ into an exclusive Preamble question or silently rewrite\n  its demand."
+        },
+        {
+          "title": "Exact 10/15/20-mark architecture: Preamble as identity and interpretive control",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#SESSION 20 \u2014 EXAM ARCHITECTURE: CONVERTING THE PREAMBLE INTO MARKS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\n1. Define Preamble as declaratory, identity-bearing and interpretive.\n2. Decode people, State, objectives and enactment.\n3. State Berubari Union (1960) -> Kesavananda Bharati (1973) shift.\n4. Add no standalone power and no direct enforceability.\n5. Conclude: constitutional compass bounded by operative text.\n\n15 MARKS / 250 WORDS\n1. Trace Objectives Resolution to 26 November 1949.\n2. Explain popular sovereignty and five descriptors.\n3. Analyse justice-liberty-equality-fraternity interdependence.\n4. Use Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995).\n5. Explain Article 368 plus basic-structure boundary.\n6. Show interpretive force with one rights or federalism application.\n7. Conclude: identity charter, not autonomous source of rules.\n\n20 MARKS / 250 WORDS\n1. Open with source, identity, objectives and enactment architecture.\n2. Trace Objectives Resolution and exact five State descriptors.\n3. Analyse interdependence of justice, liberty, equality and fraternity.\n4. Use Berubari Union (1960) -> Kesavananda Bharati (1973) -> LIC OF INDIA (1995) for status.\n5. Separate membership, enforceability and source of power.\n6. Apply Article 368/basic-structure boundary and Dr Balram Singh.\n7. Add one criticism, reply and calibrated conclusion."
+        },
+        {
+          "title": "Current legal control and qualified synthesis",
+          "structural_type": "current-law-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "DR BALRAM SINGH (2024 INSC 893; 25 NOV 2024)\n+-- Article 368 reaches the Preamble\n+-- challenge to Socialist and Secular dismissed\n+-- socialism does not prescribe one economic model\n+-- secularism is equality-linked\n\nFIVE DESCRIPTORS, NOT SIX\nSovereign + Socialist + Secular + Democratic + Republic\nIntegrity belongs to fraternity's objective: unity and integrity of the Nation.\n\nFINAL VERDICT\nThe Preamble is constitutional text and an authoritative interpretive charter, but it creates no\n  standalone power or enforceable claim. Its values work through operative provisions and\n  basic-structure review."
+        }
+      ]
+    },
+    "polity-05": {
+      "title": "Union and its Territory",
+      "source_record": "polity-05:learner-v2:g17",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+      "quality_review": "Deep-content repair: eleven panels independently checked against Articles 1-4, exact PYQs and current-law controls through 28 August 2026.",
+      "panels": [
+        {
+          "title": "Articles 1-4: the territorial power hierarchy",
+          "structural_type": "articles-power-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 1 \u2014 CONSTITUTIONAL CONCEPTION: WHY ARTICLE 1 SAYS 'UNION OF STATES'",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 2 \u2014 ARTICLES 1 TO 4 CLAUSE-BY-CLAUSE: THE CONSTITUTIONAL ARCHITECTURE OF TERRITORY"
+          ],
+          "full_text": "ARTICLE 1\n  India, that is Bharat = Union of States\n  territory = States + Union territories + acquired territories\n        |\nARTICLE 2\n  Parliament admits into Union or establishes new States\n        |\nARTICLE 3\n  Parliament forms new States and alters area, boundary or name\n        |\nARTICLE 4\n  consequential First/Fourth Schedule changes and supplemental provisions\n  laws under Articles 2 and 3 are not amendments under Article 368\n\nFIRST SCHEDULE = living ledger of States and Union territories\nPRINCIPLE: States have constitutional status, but no right to secede."
+        },
+        {
+          "title": "Article 3 procedure: consultation without a State veto",
+          "structural_type": "constitutional-procedure-flow",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 4 \u2014 ARTICLE 3 PROCEDURE: CONSULTATION WITHOUT CONSENT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 12 \u2014 ARTICLE 3'S STATE-UT CONSULTATION NUANCE"
+          ],
+          "full_text": "PRESIDENT'S RECOMMENDATION REQUIRED\n        |\nBILL affects area, boundary or name of a State?\n  +-- YES -> President refers bill to affected State legislature\n  |          +-- specifies time for expressing views\n  |          +-- may extend that time\n  |          +-- Parliament is not bound by those views\n  +-- NO State affected -> proviso referral does not arise in that form\n        |\nPARLIAMENT passes by ordinary legislative majority\n        |\nPRESIDENTIAL ASSENT -> territorial and Schedule changes\n\nState view is required consultation, not consent."
+        },
+        {
+          "title": "Article 2, Article 3 and foreign-territory transfer are distinct",
+          "structural_type": "comparison-doctrine-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 3 \u2014 ARTICLE 2 AND ARTICLE 3 ARE NOT THE SAME POWER",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 7 \u2014 ACQUISITION, CESSION AND BOUNDARY SETTLEMENT: BERUBARI, THE 1969 DISTINCTION AND THE 100TH AMENDMENT"
+          ],
+          "full_text": "QUESTION                         CONSTITUTIONAL ROUTE\nadmit or establish new State    Article 2\nreorganise existing Indian unit Article 3\nacquire foreign territory       sovereign power; Article 1 can accommodate it\ncede Indian territory           constitutional amendment under Article 368\nsettle uncertain boundary       no cession if agreement only identifies boundary\n\nBERUBARI UNION (1960)\ncession of Indian territory cannot be completed through Article 3 alone.\n\nMAGANBHAI ISHWARBHAI PATEL (1969)\nboundary settlement differs from cession.\n\n100TH AMENDMENT, 2015\nconstitutional route used for India-Bangladesh land-boundary exchange."
+        },
+        {
+          "title": "First Schedule as a constitutional change ledger",
+          "structural_type": "schedule-mechanism",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 5 \u2014 ARTICLE 4: SUPPLEMENTAL, INCIDENTAL AND CONSEQUENTIAL PROVISIONS - AND WHY THIS IS NOT ARTICLE 368",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 6 \u2014 THE FIRST SCHEDULE AS A LIVING TERRITORIAL LEDGER"
+          ],
+          "full_text": "TERRITORIAL LAW UNDER ARTICLE 2 OR 3\n  +-- changes First Schedule: State and Union-territory description\n  +-- may change Fourth Schedule: Rajya Sabha seat allocation\n  +-- may include supplemental, incidental and consequential provisions\n        |\nARTICLE 4 DECLARATION\nsuch law is not deemed an Article 368 amendment\n        |\nORDINARY LEGISLATIVE ROUTE\n\nLIMIT\nArticle 4 supports territorial reorganisation;\nit does not bypass Article 368 for unrelated constitutional changes."
+        },
+        {
+          "title": "Integration and linguistic reorganisation, 1947-1956",
+          "structural_type": "territorial-evolution-timeline",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 9 \u2014 INTEGRATION OF PRINCELY STATES AND THE TRANSITIONAL 1950 MAP",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 10 \u2014 LINGUISTIC REORGANISATION: DHAR, JVP, ANDHRA AND THE FAZL ALI / SRC SETTLEMENT"
+          ],
+          "full_text": "1947-49  accession and integration of princely states\n1950     Part A, B, C and D classification begins\n1948     Dhar Commission cautions against language-only reorganisation\n1949     JVP Committee postpones linguistic reorganisation\n1952     Potti Sriramulu's death intensifies Andhra demand\n1953     Andhra State formed; States Reorganisation Commission appointed\n1955     Fazl Ali Commission report\n1956     States Reorganisation Act + Seventh Amendment\n         +-- language accepted with unity, administration and economy\n         +-- Part classifications abolished\n         +-- States and Union territories reorganised\n\nLanguage became accommodation's basis, not an automatic sole test."
+        },
+        {
+          "title": "Post-1956 map-making: reorganisation, creation and renaming",
+          "structural_type": "territorial-branching-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 11 \u2014 AFTER 1956: STATE CREATION, RENAMING AND THE ROUTE TO 28 STATES AND 8 UNION TERRITORIES"
+          ],
+          "full_text": "1956 SETTLEMENT\n  +-- 1960 Maharashtra + Gujarat\n  +-- 1963 Nagaland\n  +-- 1966 Haryana + Chandigarh; Punjab reorganised\n  +-- 1971 Himachal Pradesh\n  +-- 1972 Meghalaya, Manipur and Tripura\n  +-- 1975 Sikkim becomes a State\n  +-- 1987 Mizoram, Arunachal Pradesh and Goa\n  +-- 2000 Chhattisgarh, Uttarakhand and Jharkhand\n  +-- 2014 Telangana\n  +-- 2019 Jammu and Kashmir reorganised into two Union territories\n\nRENAMING uses Article 3 when a State name changes.\nCURRENT MAP IN SOURCE: 28 States and 8 Union territories."
+        },
+        {
+          "title": "Jammu and Kashmir reorganisation as an Article 3 stress test",
+          "structural_type": "federal-procedure-case-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 13 \u2014 J&K REORGANISATION AS AN ARTICLE 3 ILLUSTRATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#OFFICIAL LIVE-STATUS DECISION \u2014 CHECKED THROUGH 28 AUGUST 2026"
+          ],
+          "full_text": "2019 REORGANISATION -> J&K UT WITH LEGISLATURE + LADAKH UT WITHOUT LEGISLATURE\n        |\nIN RE ARTICLE 370 (2023 INSC 1058)\n  +-- State legislature's Article 3 views are recommendatory\n  +-- carving Ladakh as a UT upheld under Article 3(a) + Explanation I\n  +-- whole-State-to-two-UT conversion question NOT finally decided\n  +-- J&K Statehood restoration directed at the earliest\n        |\nSTATUS CHECKED 28 AUG 2026\nNo enacted restoration located; Ladakh Statehood/Sixth-Schedule demands remain under dialogue.\n\nEXAM LIMIT: do not say the Court generally approved every State-to-UT conversion."
+        },
+        {
+          "title": "New-State demand: democratic claim versus viable federal unit",
+          "structural_type": "problem-response-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 14 \u2014 CURRENT DEMANDS FOR NEW OR SMALLER STATES",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 15 \u2014 FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY"
+          ],
+          "full_text": "CLAIM FOR NEW STATE\nidentity + distance from capital + uneven development + administrative access\n        |\nCONSTITUTIONAL RESPONSE\nArticle 3 reorganisation after required consultation\n        |\nTESTS\n  +-- administrative viability\n  +-- fiscal and resource sustainability\n  +-- minority protection inside proposed unit\n  +-- water, capital, assets, debt and employees\n  +-- security and territorial integrity\n  +-- democratic legitimacy and transition costs\n\nSmaller can improve access; it does not automatically produce capacity or equality."
+        },
+        {
+          "title": "Exact verified PYQ controls: wording, demand and answer ownership",
+          "structural_type": "pyq-control-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#PYQ 1. Prelims 2025, GS Paper I, Question 52",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#PYQ 2. Mains 2018, GS Paper I, Question 12",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#PYQ 3. Mains 2022, GS Paper I, Question 11"
+          ],
+          "full_text": "2025 PRELIMS GS-I Q52\nArunachal Pradesh + Nagaland + Tripura pairs -> official key C: all three.\nNagaland: Statehood Act and accompanying Thirteenth Amendment are not mutually exclusive.\n\n2018 MAINS GS-I Q12 | 15 MARKS | 250 WORDS\n\"Discuss whether formation of new states in recent times is beneficial or not\n  for the economy of India.\"\nAnswer demand = economic benefit, capacity, fiscal viability and transition costs.\n\n2022 MAINS GS-I Q11 | 15 MARKS | 250 WORDS\nPolitical and administrative reorganization has been a continuous ongoing process since the\n  mid-nineteenth century -> prove continuity with colonial + post-1947 examples."
+        },
+        {
+          "title": "Exact 10/15/20-mark architecture: flexible territory within an indestructible Union",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#GS-II ANSWER ARCHITECTURE: THE FASTEST RELIABLE ROUTE FROM PROVISION TO VERDICT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#Six original solved Mains models"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\nArticle 1 thesis -> Articles 2/3 distinction -> Article 3 procedure -> one case -> verdict.\n\n15 MARKS / 250 WORDS\nArticles 1-4 + First/Fourth Schedules -> history -> case law -> federal balance -> graded verdict.\n\n20 MARKS / 250 WORDS\nAdd chronology as argument, Explanation I State/UT nuance, exact J&K holding, criticism and reform.\nUse validity -> legitimacy -> prudence; never substitute a current proposal for enacted law.\n\nANSWER CONTROL\nEvery model: evidence -> mechanism -> analysis -> limit -> verdict -> answer-specific improvement."
+        },
+        {
+          "title": "Qualified final synthesis: flexible map, protected sovereignty, negotiated legitimacy",
+          "structural_type": "qualified-constitutional-synthesis",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#SESSION 15 \u2014 FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "INTERNAL FLEXIBILITY\nArticles 3-4 permit ordinary-law reorganisation after constitutionally required consultation.\n        +\nSOVEREIGNTY LIMIT\nBerubari Union (1960) excludes foreign cession; Article 368 supplies the constitutional route.\n        +\nFEDERAL LEGITIMACY\nState views are not a veto, but transparent consultation, viability and negotiated\n  transition matter.\n        +\nCURRENT-LAW DISCIPLINE\n28 States + 8 UTs; J&K remains a UT with Legislature on the 28 Aug 2026 check.\n\nFINAL VERDICT\nArticle 3 is a centralising safety valve whose legitimacy depends on using flexibility as\n  constitutional accommodation, not as a substitute for federal trust."
+        }
+      ]
+    },
+    "polity-06": {
+      "title": "Citizenship",
+      "source_record": "polity-06:learner-v2:g16",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md",
+      "quality_review": "Deep-content repair: 12-panel Core flow includes exact rights text, 2025 OCI cancellation, 2026 Collector process, both PYQs, proof hierarchy and 10/15/20-mark architecture.",
+      "panels": [
+        {
+          "title": "Citizenship: membership, rights and single national status",
+          "structural_type": "concept-rights-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 1 \u2014 CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE CONSTITUTIONAL RIGHTS MAP",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 2 \u2014 CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS SINGLE CITIZENSHIP"
+          ],
+          "full_text": "PERSON WITHIN INDIA\n  +-- CITIZEN: political membership and citizen-specific constitutional rights\n  |     Articles 15, 16, 19 and 29 use citizen/citizens\n  |     Article 30 uses minorities; do not add a citizen-only word absent from the text\n  +-- NON-CITIZEN: Articles 14, 20, 21 and 25 protect persons\n        Article 22(3)(a) excludes enemy aliens only from clauses (1)-(2)\n\nCITIZENSHIP = membership | DOMICILE = permanent legal home | RESIDENCE = factual link\nSINGLE CITIZENSHIP does not erase constitutionally authorised regional protection.\nCASE CONTROL: Pradeep Jain (1984) explains one Indian domicile, not State citizenship."
+        },
+        {
+          "title": "Articles 5-7: commencement citizenship decision tree",
+          "structural_type": "articles-procedure-tree",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 3 \u2014 WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 4 \u2014 ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 5 \u2014 ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 6 \u2014 ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE PERMIT-RETURN EXCEPTION"
+          ],
+          "full_text": "AT COMMENCEMENT: 26 JANUARY 1950\n  +-- ARTICLE 5: domicile in India + birth | parentage | five-year residence\n  +-- ARTICLE 6: Pakistan-to-India migration\n  |     before 19 Jul 1948 -> residence since migration\n  |     on/after 19 Jul 1948 -> application, six-month residence and registration\n  +-- ARTICLE 7: India-to-Pakistan migration after 1 Mar 1947 -> excluded\n        permit for resettlement/permanent return -> post-19 Jul Article 6 route\n\nTRAP: residence alone never replaced Article 5 domicile."
+        },
+        {
+          "title": "Articles 8-11: diaspora, disqualification, continuity and Parliament",
+          "structural_type": "constitutional-bridge-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 7 \u2014 ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 8 \u2014 ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 9 \u2014 ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 10 \u2014 ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER"
+          ],
+          "full_text": "ARTICLE 8 -> Indian origin abroad + diplomatic/consular registration\nARTICLE 9 -> voluntary foreign citizenship blocks Articles 5, 6 and 8 claims\nARTICLE 10 -> citizenship continues subject to parliamentary law\nARTICLE 11 -> Parliament may regulate acquisition, termination and every other matter\n                         |\n                 CITIZENSHIP ACT, 1955\n\nCONTROL: Article 9 is commencement-context text; later termination also rests on Section 9."
+        },
+        {
+          "title": "Five acquisition routes and their exact gates",
+          "structural_type": "statutory-acquisition-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 11 \u2014 CITIZENSHIP ACT, 1955 - THE STATUTORY ARCHITECTURE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 12 \u2014 CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 13 \u2014 CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 14 \u2014 CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 15 \u2014 CITIZENSHIP BY NATURALISATION - THIRD SCHEDULE, WAIVER AND THE CAA MODIFICATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 16 \u2014 CITIZENSHIP BY INCORPORATION OF TERRITORY"
+          ],
+          "full_text": "CITIZENSHIP ACT, 1955\n  +-- BIRTH: place + date + parental status + Section 3(2) exceptions\n  +-- DESCENT: citizen parent + date-specific registration/declaration controls\n  +-- REGISTRATION: listed category + calculated residence + oath + discretion\n  +-- NATURALISATION: 12 months + 11/14 aggregate + other Third Schedule tests\n  +-- INCORPORATION: Central Government order for newly incorporated territory\n\nNO AUTOMATIC ROUTE merely from marriage, ancestry, property, residence or an identity card."
+        },
+        {
+          "title": "Birth, descent and registration: date-and-category drill",
+          "structural_type": "date-comparison-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 12 \u2014 CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 13 \u2014 CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 14 \u2014 CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC"
+          ],
+          "full_text": "BIRTH IN INDIA\n1950-before 1 Jul 1987 -> birth generally sufficient, subject to exceptions\n1 Jul 1987-before 3 Dec 2004 -> either parent a citizen\nfrom 3 Dec 2004 -> both citizens OR one citizen + other not illegal migrant\n\nDESCENT OUTSIDE INDIA\nbefore 10 Dec 1992 -> paternal rule | later -> either parent\nfrom 3 Dec 2004 -> consular registration plus statutory declaration controls\n\nREGISTRATION -> category first; seven-year formula is 12 months + 6 of prior 8 years."
+        },
+        {
+          "title": "Loss, safeguards and OCI cancellation are category-specific",
+          "structural_type": "loss-procedure-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 17 \u2014 LOSS OF CITIZENSHIP - RENUNCIATION, TERMINATION AND DEPRIVATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 20 \u2014 OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP"
+          ],
+          "full_text": "RENUNCIATION -> full-age citizen declaration; minor follows with resumption window\nTERMINATION -> voluntary acquisition of foreign citizenship; Section 9 controls\nDEPRIVATION -> eligible category + listed ground + public-good finding + procedure\n  fraud | disloyalty | enemy dealing | specified conviction | seven years abroad\n\nOCI IS NOT CITIZENSHIP\nSection 7D requires a hearing. The 11 Aug 2025 Section 7D(da) notification adds:\n  sentence of at least two years OR charge-sheet for an offence punishable by seven years."
+        },
+        {
+          "title": "Assam Section 6A: three streams and the controlling judgment",
+          "structural_type": "federal-citizenship-mechanism",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 18 \u2014 ASSAM ACCORD, SECTION 6A AND THE NRC CUT-OFF",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 19 \u2014 IN RE: SECTION 6A (17 OCTOBER 2024) - THE CONTROLLING 4:1 JUDGMENT"
+          ],
+          "full_text": "ASSAM-SPECIFIC SECTION 6A\n  before 1 Jan 1966 -> deemed citizens from 1 Jan 1966\n  1 Jan 1966-before 25 Mar 1971 -> detection + registration + ten-year vote exclusion\n  on/after 25 Mar 1971 -> no Section 6A protection\n\nIN RE: SECTION 6A (2024) \u2014 17 OCTOBER 2024\n  4:1 majority upheld validity but required effective implementation\n  Pardiwala J dissented prospectively on temporal/detection design\n\nNRC reference: midnight of 24 March 1971; do not confuse it with CAA 2014."
+        },
+        {
+          "title": "CAA class and the 19 August 2026 Collector procedure",
+          "structural_type": "current-law-process",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 21 \u2014 CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 22 \u2014 CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN"
+          ],
+          "full_text": "CAA CLASS = six communities + three countries + entry on/before 31 Dec 2014\nHindu | Sikh | Buddhist | Jain | Parsi | Christian\nAfghanistan | Bangladesh | Pakistan\n\n19 AUG 2026: G.S.R. 742(E) + S.O. 4583(E)\nSpecified State/UT applicants -> electronic application to jurisdictional Collector\nCollector -> verify -> enquire -> oath -> eligibility/suitability -> grant or reject\nPending committee applications transfer to Collector. Eligibility and 2014 cut-off do not change."
+        },
+        {
+          "title": "CAA equality debate and territorial protections",
+          "structural_type": "comparison-constitutional-debate",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 22 \u2014 CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN"
+          ],
+          "full_text": "ARTICLE 14 TEST\n  comparator -> intelligible differentia -> rational nexus -> arbitrariness\nSTATE CASE -> selected persecuted minorities; humanitarian and staged legislation\nCHALLENGE -> religion/country exclusions; under-inclusion; secularism; Assam impact\n\nSECTION 6B DOES NOT APPLY IN\n  Sixth Schedule tribal areas of Assam, Meghalaya, Mizoram and Tripura\n  areas under the notified Inner Line\n\nSTATUS THROUGH 28 AUG 2026: law/rules operate; no located final merits judgment."
+        },
+        {
+          "title": "Documents and exact PYQ controls",
+          "structural_type": "proof-pyq-laboratory",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#SESSION 23 \u2014 CITIZENSHIP PROOF AND DOCUMENT TRAPS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "PROOF HIERARCHY\nCitizenship certificate -> direct statutory evidence\nPassport/EPIC -> strong or relevant evidence, not irrebuttable in every dispute\nAadhaar -> does not by itself prove citizenship or domicile\n\n2018 PRELIMS GS-I Q12: Aadhaar proof + deactivation -> neither statement correct\n2021 PRELIMS GS-I Q89: one citizenship/domicile; birth-only President; deprivation\n  exact options yield 1 only; repository solution remains qualified if official key is absent."
+        },
+        {
+          "title": "Executable 10, 15 and 20-mark answer architecture",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\ndefine demand -> 3 legal anchors -> one caveat/current point -> qualified verdict\n\n15 MARKS / 250 WORDS\nthesis -> Articles 5-11 -> statutory mechanism -> judgment/debate -> balance -> verdict\n\n20 MARKS / 250 WORDS\nexact class/doctrine -> argument and counterargument -> named evidence -> federal impact\n-> 2026 procedural status -> constitutional test -> feasible safeguards -> conclusion\n\nFor every model: demand decode + executable answer + why it earns + specific improvement."
+        },
+        {
+          "title": "Qualified synthesis: membership under constitutional supervision",
+          "structural_type": "qualified-conclusion",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g15\\polity-06_Complete-Learning-Session_2026-08-28.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "INDIAN CITIZENSHIP\n  constitutional founding settlement\n        + parliamentary statutory administration\n        + judicial review under equality, liberty and natural justice\n\nBALANCE\n  equal membership + fraternity\n  lawful migration control + regional protection\n  diaspora access without political citizenship\n  humanitarian facilitation without arbitrary classification\n\nFINAL LINE: membership is legitimate only when classification, proof and procedure remain lawful."
+        }
+      ]
+    },
+    "polity-07": {
+      "title": "Fundamental Rights",
+      "source_record": "polity-07:learner-v2:g15",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md",
+      "quality_review": "Deep-content revalidation: complete Part III Core, current-law controls, 21 qualified PYQ routes and exact 10/15/20-mark architecture checked through 28 August 2026.",
+      "panels": [
+        {
+          "title": "Part III as an operating architecture, not a list",
+          "structural_type": "rights-architecture-hierarchy",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 1 \u2014 PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL CONTROLS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 2 \u2014 BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND NEGATIVE DUTIES"
+          ],
+          "full_text": "PART III\n  +-- GATEKEEPERS: Article 12 defines State; Article 13 controls law\n  +-- EQUALITY: Articles 14-18\n  +-- FREEDOMS: Articles 19-22\n  +-- EXPLOITATION: Articles 23-24\n  +-- RELIGION: Articles 25-28\n  +-- CULTURE / EDUCATION: Articles 29-30\n  +-- REMEDY: Article 32\n  +-- SAVINGS / SPECIAL CONTROL: Articles 31A-31C and 33-35\n\nREACH\nvertical: person versus State\nhorizontal: express private reach in Articles 15(2), 17, 23 and 24\npositive duty: State may need to protect rights against private domination\n\nRIGHT = protected claim + justified limit + effective remedy."
+        },
+        {
+          "title": "Article 12 and 13: who is bound and what becomes void",
+          "structural_type": "institution-doctrine-flow",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 4 \u2014 ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 5 \u2014 ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES"
+          ],
+          "full_text": "ARTICLE 12 INQUIRY\nUnion/State organs + local authorities + other authorities\n  -> deep and pervasive control?\n  -> financial, functional and administrative domination?\n  -> public importance tied to government?\n  -> Pradeep Kumar Biswas (2002): cumulative instrumentality inquiry\n\nARTICLE 13 INQUIRY\npre-Constitution inconsistent law -> void to extent of inconsistency\npost-Constitution abridging law  -> prohibited and void to that extent\n\"law\" includes ordinance, rule, regulation, notification, custom and usage\n\nDOCTRINES\nseverability | eclipse | waiver generally unavailable | prospective overruling\n\nAMENDMENTS: Article 13(4) + Article 368 -> Kesavananda Bharati (1973) basic-structure review."
+        },
+        {
+          "title": "Equality code and reservation doctrine",
+          "structural_type": "rights-doctrine-matrix",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 6 \u2014 ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 7 \u2014 ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 8 \u2014 RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY, EWS AND SC SUB-CLASSIFICATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 9 \u2014 ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES"
+          ],
+          "full_text": "ARTICLE 14\n  equality before law + equal protection\n  classification = intelligible differentia + rational nexus\n  E.P. Royappa (1973)/Maneka Gandhi (1978) = arbitrariness is antithetical to equality\n\nARTICLES 15-16\n  non-discrimination + enabling substantive-equality clauses\n  Champakam Dorairajan (1951) -> First Amendment -> Article 15(4)\n  Indra Sawhney (1992) -> creamy layer, ordinary 50% ceiling, no 16(4) promotion\n  77th/81st/82nd/85th -> promotion, backlog, qualification and seniority tools\n  M. Nagaraj (2006)/Jarnail Singh (2018) -> inadequacy data and Article 335 efficiency controls\n  103rd + Janhit Abhiyan (2022) -> EWS upheld by majority\n  Davinder Singh (2024) -> evidence-based SC sub-classification allowed, not mandated\n\nARTICLES 17-18 abolish untouchability and reject titles with narrow exceptions."
+        },
+        {
+          "title": "Article 19: six freedoms and restriction-ground discipline",
+          "structural_type": "articles-restriction-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 10 \u2014 ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 11 \u2014 SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 12 \u2014 SEDITION LINEAGE, BNS SECTION 152 AND SPEECH-INCITEMENT DISCIPLINE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 13 \u2014 DIGITAL SPEECH: SHREYA SINGHAL, INTERNET SHUTDOWNS AND CRIMINAL DEFAMATION"
+          ],
+          "full_text": "ARTICLE 19(1), CITIZENS ONLY\nspeech | assembly | association | movement | residence | profession\n        |\nvalid law + listed ground + reasonableness + proportionality\n\nSPEECH GROUNDS UNDER 19(2)\nsovereignty/integrity | State security | friendly relations | public order\ndecency/morality | contempt | defamation | incitement\n\nANCHORS\npress and right to know derive from 19(1)(a)\nShreya Singhal (2015): 66A void; advocacy differs from incitement\nAnuradha Bhasin (2020): shutdown orders require publication and proportionality\nKedar Nath Singh (1962): sedition read toward incitement\nBNS section 152 requires exact analysis, not a claim that sedition was merely renamed."
+        },
+        {
+          "title": "Articles 20-22: criminal process, dignity and detention",
+          "structural_type": "procedure-rights-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 14 \u2014 ARTICLE 20 - EX POST FACTO LAW, DOUBLE JEOPARDY AND SELF-INCRIMINATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 15 \u2014 ARTICLE 21 - GOPALAN TO MANEKA: FAIR PROCEDURE AND THE DIGNITY CHARTER",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 16 \u2014 PRIVACY, PROPORTIONALITY, DNA TESTING AND DATA PROTECTION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 18 \u2014 ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE UNENFORCED 44TH AMENDMENT CLAUSE"
+          ],
+          "full_text": "ARTICLE 20: ALL PERSONS\n  +-- no retrospective criminal offence or enhanced penalty\n  +-- no prosecution and punishment twice for same offence\n  +-- no compelled testimonial self-incrimination by an accused\n\nARTICLE 21\nA.K. Gopalan (1950) compartmentalisation -> R.C. Cooper (1970) linkage\n  -> Maneka Gandhi (1978): just, fair and reasonable procedure\n  -> dignity family: privacy, livelihood, legal aid and speedy trial\nK.S. Puttaswamy (2017) test: legality + legitimate aim + proportionality + safeguards\n\nARTICLE 22\nordinary arrest: grounds + lawyer + magistrate within 24 hours\npreventive detention: distinct safeguards; no-board period remains three months\n44th Amendment's proposed two-month substitution has not commenced."
+        },
+        {
+          "title": "Exploitation, religion and minority autonomy",
+          "structural_type": "rights-comparison-branch",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 19 \u2014 ARTICLES 23-24 - EXPLOITATION, FORCED LABOUR AND CHILD LABOUR",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 20 \u2014 ARTICLES 25-28 - CONSCIENCE, DENOMINATION, SECULAR REGULATION AND PRINCIPLED DISTANCE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 21 \u2014 ARTICLES 29-30 - CULTURAL CONSERVATION AND MINORITY EDUCATIONAL AUTONOMY"
+          ],
+          "full_text": "ARTICLES 23-24\ntrafficking and forced labour prohibited; minimum-wage coercion can implicate 23\nchildren below 14 barred from factories, mines and hazardous employment under 24\n\nARTICLES 25-28\nindividual conscience and profession, practice and propagation\nArticle 26 denomination management\nlimits: public order, morality, health and other FRs\nState may regulate secular activity and enact social reform\n\nARTICLES 29-30\n29(1): any section of citizens with distinct language, script or culture\n29(2): admission non-discrimination in covered institutions\n30: religious and linguistic minorities may establish and administer institutions\n\nAutonomy survives regulation; regulation cannot erase institutional identity."
+        },
+        {
+          "title": "Article 32: writ remedies and the enforcement ladder",
+          "structural_type": "remedy-procedure-map",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 22 \u2014 ARTICLE 32 AND THE FIVE WRITS"
+          ],
+          "full_text": "RIGHT VIOLATED\n  +-- ARTICLE 32 -> SUPREME COURT for Fundamental Rights\n  +-- ARTICLE 226 -> HIGH COURT for FRs and other legal rights\n        |\nWRIT CHOICE\nHABEAS CORPUS   produce detained person; test detention\nMANDAMUS        compel public duty\nPROHIBITION     stop jurisdictional excess before completion\nCERTIORARI      quash completed order for jurisdictional or legal error\nQUO WARRANTO    test authority to hold public office\n\nArticle 32 is itself a Fundamental Right; legal fit still matters.\nArticle 226 is territorially and remedially wider, not constitutionally inferior."
+        },
+        {
+          "title": "Saving clauses, property and amendment doctrine",
+          "structural_type": "amendment-judicial-doctrine",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 23 \u2014 ARTICLES 31A, 31B AND 31C - SAVING PROVISIONS WITHOUT BLANKET IMMUNITY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 24 \u2014 RIGHT TO PROPERTY: ARTICLE 31 TRANSITION TO ARTICLE 300A"
+          ],
+          "full_text": "ARTICLE 31A\nspecified reform categories protected from Article 14/19 attack\n\nARTICLE 31B + NINTH SCHEDULE\nlisted-law protection\n  -> I.R. Coelho (2007): post-24 Apr 1973 insertions face basic-structure review\n\nARTICLE 31C\noriginal protection for genuine Article 39(b)/(c) laws against 14 and 19\n  -> Kesavananda Bharati (1973) limits immunity\n  -> Minerva Mills (1980) defeats extension to all DPSPs\n  -> Property Owners Association (2024) preserves original 31C\n  -> not every private asset is automatically a community resource\n\n44th Amendment: Article 31 leaves Part III\nArticle 300A: every person; deprivation only by authority of law."
+        },
+        {
+          "title": "Article 358 and 359: emergency effects are not the same",
+          "structural_type": "emergency-mechanism-comparison",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 25 \u2014 ARTICLES 33-35 AND MARTIAL LAW",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 26 \u2014 ARTICLES 358 AND 359 - TWO DIFFERENT EMERGENCY MECHANISMS",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 27 \u2014 ARTICLE 359: THE NON-DEROGABLE ARTICLES 20 AND 21 CORE"
+          ],
+          "full_text": "ARTICLE 358                         ARTICLE 359\nautomatic operation                Presidential order required\nArticle 19 only                     specified rights named in order\nwar/external-aggression Emergency   Emergency while order operates\nchanges State's Article 19 limit    suspends enforcement, not text\npost-44th nexus conditions apply    Articles 20 and 21 cannot be included\n\nARTICLES 33-35\nParliament may tailor FRs for forces and specified services;\nmay indemnify martial-law acts and has exclusive competence over listed matters.\n\nMARTIAL LAW != NATIONAL EMERGENCY\nlocal exceptional coercive control differs from constitutional proclamation.\n\nNo rule says all Fundamental Rights automatically disappear in Emergency."
+        },
+        {
+          "title": "Current-law and verified PYQ control rail",
+          "structural_type": "current-pyq-control",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#SESSION 15 \u2014 ARTICLE 21 - GOPALAN TO MANEKA: FAIR PROCEDURE AND THE DIGNITY CHARTER",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE"
+          ],
+          "full_text": "CURRENT LAW \u2014 STATUS AT 28 AUGUST 2026\nElectoral Bonds (2024): political-funding information protected under Article 19(1)(a).\nDavinder Singh (2024): evidence-based SC sub-classification permitted, not mandated.\nProperty Owners Association (2024): original Article 31C survives\nfor genuine Article 39(b)/(c) laws.\nDPDP notifications (2025): phased commencement; whole regime not yet operative.\nHarish Rana (2026), 2026 INSC 222: CANH withdrawal permitted within passive-euthanasia safeguards;\nactive euthanasia not legalised.\nBNS section 152: vires notice issued 28 Aug 2025; no final merits decision located.\n\nVERIFIED PYQ ROUTE\nMains: 2019 secularism; 2021 equality; 2022 movement/residence;\n2023 living Article 21 + gender justice; 2024 privacy/DNA.\nPrelims: 2018-2023 inferred keys; 2024 Q76 official key D;\n2026 Q54 exact local stem, provisional non-official key D."
+        },
+        {
+          "title": "Exact 10/15/20-mark architecture: liberty, limitation and remedy",
+          "structural_type": "answer-architecture",
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md#CONSOLIDATED REGISTER NOTES"
+          ],
+          "full_text": "10 MARKS / 150 WORDS\n1. Identify claimant, State action and exact Article.\n2. State citizen/person reach and vertical/horizontal effect.\n3. Apply protected interest -> listed limit -> proportionality.\n4. Add one controlling case and Article 32/226 remedy.\n5. Conclude with a narrow qualification.\n\n15 MARKS / 250 WORDS\n1. Frame gatekeepers, right, limit, remedy and saving clause.\n2. Use clause-level text + two controlling cases + one objection/reply.\n3. Apply Article 14 fairness and Article 19/21 proportionality.\n4. Finish with institutional and current-law qualification.\n\n20 MARKS / 250 WORDS\n1. Define the constitutional tension and map all relevant Article families.\n2. Trace origin/doctrinal evolution and compare competing principles.\n3. Use 4-6 named cases, one current-law control and exact remedy.\n4. Evaluate overreach, implementation and counterargument.\n5. Conclude: liberty survives through legality, justification and enforceable remedy."
+        }
+      ]
+    }
+  }
+}

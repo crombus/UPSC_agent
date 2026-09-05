@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-14",
+      "display_title": "Genetic Engineering: GM Crops and CRISPR",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Breeding and engineering taxonomy",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "CONVENTIONAL CROSS -> parental genomes recombine sexually",
+            "HYBRID -> offspring of selected parental lines",
+            "TRANSGENIC -> sexually incompatible donor DNA",
+            "CISGENIC -> intact compatible-pool gene",
+            "INTRAGENIC -> rearranged compatible-pool elements"
+          ],
+          "source_references": [
+            "Engineering-breeding boundary",
+            "Transgenic-cisgenic-intragenic boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Bt cotton mechanism and stewardship",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "CRY GENE -> plant expresses Bt protein",
+            "SPECIFIC BOLLWORM FEEDING -> toxic action in susceptible larvae",
+            "SELECTION PRESSURE -> resistant alleles can increase",
+            "REFUGE + STACKING -> slow resistance evolution",
+            "TRAP -> insect resistance is not herbicide tolerance"
+          ],
+          "source_references": [
+            "Bt-cotton mechanism",
+            "Resistance-and-refuge mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "DMH-11 construct and status",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "BARNASE -> male sterility in one parent",
+            "BARSTAR -> fertility restoration in hybrid",
+            "BAR -> selectable marker",
+            "PURPOSE -> enable hybridisation in mustard",
+            "STATUS -> no commercial-cultivation or settled-legality claim"
+          ],
+          "source_references": [
+            "DMH-11 mechanism-status boundary",
+            "GM-mustard legal-status boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "CRISPR targeting rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "GUIDE RNA -> sequence recognition",
+            "TARGET DNA + PAM -> permitted binding context",
+            "CAS9 -> double-strand cleavage",
+            "CELLULAR REPAIR -> creates final edit",
+            "RULE -> targeting tool and repair outcome are distinct"
+          ],
+          "source_references": [
+            "CRISPR targeting boundary",
+            "Repair-outcome boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Editing-outcome matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NHEJ -> template-free indels and knockout",
+            "HDR -> donor-template substitution or insertion",
+            "BASE EDITING -> chemical base conversion without DSB",
+            "PRIME EDITING -> templated short writing without DSB",
+            "TRAP -> precision mechanisms are not interchangeable"
+          ],
+          "source_references": [
+            "Repair-outcome boundary",
+            "Base-prime editing boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "SDN classification ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SDN-1 -> no template; small edit",
+            "SDN-2 -> short template; defined small edit",
+            "SDN-3 -> gene-sized targeted insertion",
+            "2022 LIGHTER TRACK -> SDN-1/2 free of exogenous DNA",
+            "FULL SCRUTINY -> SDN-3 remains outside exemption"
+          ],
+          "source_references": [
+            "SDN-category boundary",
+            "2022 exemption-guideline boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Six-tier biosafety institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "RDAC -> recombinant-DNA advice",
+            "IBSC -> institutional day-to-day oversight",
+            "RCGM / DBT -> research and contained stages",
+            "GEAC / MoEF&CC -> environmental release and large-scale use",
+            "SBCC + DLC -> state and district monitoring"
+          ],
+          "source_references": [
+            "Six-tier biosafety architecture",
+            "GEAC-RCGM-FSSAI split",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Law and regulator split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RULES 1989 -> core GMO biosafety framework",
+            "RCGM -> research / contained work",
+            "GEAC -> environmental appraisal",
+            "FSSAI -> GM-food safety approval and labelling track",
+            "ICAR / CROP SYSTEM -> agronomic evaluation and variety processes"
+          ],
+          "source_references": [
+            "GEAC-RCGM-FSSAI split",
+            "Rules-1989 boundary",
+            "Approval-monitoring firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Indian decision timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "09 FEB 2010 -> Bt brinjal moratorium",
+            "30 MAR 2022 -> SDN-1/2 exemption OM",
+            "17 MAY 2022 -> DBT genome-edited plant guidelines",
+            "23 JUL 2024 -> Supreme Court DMH-11 split verdict",
+            "04 APR 2025 -> two genome-edited rice varieties announced"
+          ],
+          "source_references": [
+            "2022 exemption-guideline boundary",
+            "Bt-brinjal moratorium boundary",
+            "GM-mustard legal-status boundary",
+            "Genome-edited-rice status",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Biosafety mechanism map",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "TARGET PEST PRESSURE -> resistance evolution",
+            "POLLEN / SEED MOVEMENT -> gene-flow exposure",
+            "TRAIT EXPRESSION -> non-target exposure pathway",
+            "SIMILAR DNA SITES -> possible off-target edit",
+            "RESPONSE -> characterisation, mitigation and monitoring",
+            "MUST REMEMBER: Genetic engineering changes DNA through defined tools; GM crops and CRISPR..."
+          ],
+          "source_references": [
+            "Resistance-and-refuge mechanism",
+            "Gene-flow and non-target mechanism",
+            "Off-target-characterisation boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-14_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Farmer-livelihood evaluation",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "TRAIT -> intended agronomic constraint",
+            "FIELD PERFORMANCE -> yield stability and input effect",
+            "FARM ECONOMICS -> seed cost, labour, pesticide and risk",
+            "INSTITUTIONS -> extension, competition, stewardship and markets",
+            "VERDICT -> context-specific welfare, not technique determinism",
+            "CLOSE DISTINCTION: Hybrid is not automatically transgenic, guide RNA is not Cas9,..."
+          ],
+          "source_references": [
+            "Farmer-livelihood boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-14_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Approval and claim firewall",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "LAB RESULT -> bounded molecular proposition",
+            "CONTAINED / FIELD PERMISSION -> trial stage",
+            "ENVIRONMENTAL / FOOD APPROVAL -> separate regulators",
+            "VARIETY RELEASE / SEED ACCESS / CULTIVATION -> separate evidence",
+            "POST-RELEASE MONITORING -> resistance, ecology and farmer outcomes",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State Rules/office-..."
+          ],
+          "source_references": [
+            "Approval-monitoring firewall",
+            "DMH-11 mechanism-status boundary",
+            "Genome-edited-rice status",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g2\\science-and-technology-14_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-14_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

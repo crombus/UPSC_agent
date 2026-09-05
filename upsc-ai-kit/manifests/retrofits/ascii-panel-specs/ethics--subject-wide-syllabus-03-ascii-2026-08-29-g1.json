@@ -1,0 +1,498 @@
+{
+  "schema_version": 2,
+  "benchmark": "Carvaka-standard continuous master with a topic-specific Ethics twelve-panel atlas",
+  "generated_on": "2026-08-29",
+  "scope": "Ethics subject-wide syllabus topic 03",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-03",
+      "title": "Attitude: Content, Structure and Persuasion",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-03_Learning-Session.md",
+      "source_record": "ethics-03:learner-v2:g1",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior artifacts and canonical Ethics owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "1. The ABC model: what attitude is made of",
+          "structural_type": "triad-structure",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "1. The ABC model: what attitude is made of",
+            "  [1] Attitude is a stable evaluative disposition toward a specific object.",
+            "        |",
+            "        v",
+            "  [2] The cognitive component holds beliefs and knowledge about the object.",
+            "        |",
+            "        v",
+            "  [3] The affective component carries emotional charge, positive or negative.",
+            "        |",
+            "        v",
+            "  [4] The behavioural component is the predisposition to act toward the object.",
+            "        |",
+            "        v",
+            "  [5] Attitude is object-specific; value is general and cross-situational.",
+            "        |",
+            "        v",
+            "  [6] Belief is a single cognitive claim; attitude is an evaluative stance.",
+            "        |",
+            "        v",
+            "  [7] Aptitude is the trainable capacity to perform a role well.",
+            "        |",
+            "        v",
+            "  [8] The ABC model is associated with Rosenberg and Hovland, 1960.",
+            "        |",
+            "        v",
+            "VERDICT -> Attitude has three components; confusing it with value or aptitude costs marks.",
+            "ANSWER USE -> Open any attitude question by defining the ABC model and distinguishing it from",
+            "             value."
+          ]
+        },
+        {
+          "panel_title": "2. How attitudes form: experience, learning, reinforcement",
+          "structural_type": "formation-funnel",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "2. How attitudes form: experience, learning, reinforcement",
+            "  [1] Direct experience with an object creates the strongest initial attitude.",
+            "        |",
+            "        v",
+            "  [2] Social learning from family, peers and media shapes evaluative tendencies.",
+            "        |",
+            "        v",
+            "  [3] Reinforcement through repeated outcomes attaches evaluative charge.",
+            "        |",
+            "        v",
+            "  [4] Two officers in the same office can hold opposite attitudes toward the same",
+            "      community.",
+            "        |",
+            "        v",
+            "  [5] Formation explains attitude but does not justify it ethically.",
+            "        |",
+            "        v",
+            "  [6] Training can intervene at any formation pathway to reshape attitude.",
+            "        |",
+            "        v",
+            "  [7] The affective component often resists change even when beliefs shift.",
+            "        |",
+            "        v",
+            "  [8] Institutional incentives can reinforce or corrode attitudes over time.",
+            "        |",
+            "        v",
+            "VERDICT -> Attitudes are formed, not born; understanding formation identifies training",
+            "             targets.",
+            "ANSWER USE -> Explain why attitudes differ before prescribing a change mechanism."
+          ]
+        },
+        {
+          "panel_title": "3. Hovland-Yale persuasion: source, message, audience, channel",
+          "structural_type": "persuasion-engine",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "3. Hovland-Yale persuasion: source, message, audience, channel",
+            "  [1] The communicator's credibility and expertise determine source effect.",
+            "        |",
+            "        v",
+            "  [2] The message's content, framing and emotional tone shape reception.",
+            "        |",
+            "        v",
+            "  [3] The audience's predispositions determine resistance or openness.",
+            "        |",
+            "        v",
+            "  [4] The channel or medium was added later from wider communication research.",
+            "        |",
+            "        v",
+            "  [5] ASHA workers delivering vernacular vaccination messages illustrate source",
+            "      credibility.",
+            "        |",
+            "        v",
+            "  [6] A gazette notification to illiterate beneficiaries shows audience-channel mismatch.",
+            "        |",
+            "        v",
+            "  [7] Algorithmic micro-targeting transforms the audience variable at scale.",
+            "        |",
+            "        v",
+            "VERDICT -> Effective persuasion activates all variables; the channel is not part of the",
+            "             original Yale triad.",
+            "ANSWER USE -> Structure any persuasion or campaign-effectiveness answer around these four",
+            "             variables."
+          ]
+        },
+        {
+          "panel_title": "4. Cognitive dissonance: three paths, one ethical risk",
+          "structural_type": "decision-fork",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "4. Cognitive dissonance: three paths, one ethical risk",
+            "  [1] Dissonance arises when behaviour contradicts a held attitude.",
+            "        |",
+            "        v",
+            "  [2] Path A: change the attitude to match the behaviour.",
+            "        |",
+            "        v",
+            "  [3] Path B: change future behaviour to match the attitude.",
+            "        |",
+            "        v",
+            "  [4] Path C: add a self-justifying cognition, the rationalisation path.",
+            "        |",
+            "        v",
+            "  [5] Path C is the ethically dangerous one in administration.",
+            "        |",
+            "        v",
+            "  [6] Small compromises rationalised once consolidate into settled practice.",
+            "        |",
+            "        v",
+            "  [7] Ethics review and peer accountability interrupt the rationalisation cycle.",
+            "        |",
+            "        v",
+            "  [8] Whistleblower protection supports officers who choose Path B.",
+            "        |",
+            "        v",
+            "VERDICT -> Rationalisation, not dissonance itself, is the ethical risk multiplier.",
+            "ANSWER USE -> Use the three-path framework whenever a question involves value erosion or",
+            "             corruption creep."
+          ]
+        },
+        {
+          "panel_title": "5. The attitude-behaviour gap: why good attitudes fail",
+          "structural_type": "gap-bridge",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "5. The attitude-behaviour gap: why good attitudes fail",
+            "  [1] LaPiere's 1934 study showed stated attitudes predicted specific acts poorly.",
+            "        |",
+            "        v",
+            "  [2] Situational pressure can override even strongly held positive attitudes.",
+            "        |",
+            "        v",
+            "  [3] Institutional incentives may reward conduct that contradicts declared values.",
+            "        |",
+            "        v",
+            "  [4] Social norms in an office can normalise conduct that individuals privately oppose.",
+            "        |",
+            "        v",
+            "  [5] RTI mandates are a binding external constraint closing the transparency gap.",
+            "        |",
+            "        v",
+            "  [6] Audit trails make discretionary acts accountable to evidence.",
+            "        |",
+            "        v",
+            "  [7] Whistleblower protection reduces the cost of acting on principled attitudes.",
+            "        |",
+            "        v",
+            "  [8] Attitude is necessary but insufficient; institutional design is the bridge.",
+            "        |",
+            "        v",
+            "VERDICT -> Close the gap with institutional constraint, not more exhortation.",
+            "ANSWER USE -> Use as the limitation paragraph in any answer that praises attitude change."
+          ]
+        },
+        {
+          "panel_title": "6. Persuasion, manipulation and propaganda: the ethical spectrum",
+          "structural_type": "gradient-bar",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "6. Persuasion, manipulation and propaganda: the ethical spectrum",
+            "  [1] Persuasion respects audience autonomy and relies on truthful argument.",
+            "        |",
+            "        v",
+            "  [2] Manipulation exploits cognitive biases or conceals intent.",
+            "        |",
+            "        v",
+            "  [3] Propaganda uses repetition and emotional framing at scale to bypass critical",
+            "      evaluation.",
+            "        |",
+            "        v",
+            "  [4] Swachh Bharat wall paintings with identified sponsorship are legitimate persuasion.",
+            "        |",
+            "        v",
+            "  [5] Undisclosed paid influencers suppressing criticism cross the manipulation line.",
+            "        |",
+            "        v",
+            "  [6] Fear-based state campaigns without disclosure shade toward propaganda.",
+            "        |",
+            "        v",
+            "  [7] The ethical test is transparency of intent and audience autonomy.",
+            "        |",
+            "        v",
+            "  [8] The same digital channel enables both legitimate information and disinformation.",
+            "        |",
+            "        v",
+            "VERDICT -> Label the practice precisely: persuasion, manipulation or propaganda, then justify.",
+            "ANSWER USE -> Apply this spectrum to any social-media, campaign or information-governance",
+            "             question."
+          ]
+        },
+        {
+          "panel_title": "7. Moral attitude versus political attitude",
+          "structural_type": "dual-column-comparison",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "7. Moral attitude versus political attitude",
+            "  [1] Moral attitude judges right and wrong across contexts; it must be retained.",
+            "        |",
+            "        v",
+            "  [2] Political attitude evaluates parties and power contests; it must be bracketed.",
+            "        |",
+            "        v",
+            "  [3] CCS Conduct Rules 1964, Rule 5 restricts political participation.",
+            "        |",
+            "        v",
+            "  [4] CCS Conduct Rules 1964, Rule 7 restricts election canvassing.",
+            "        |",
+            "        v",
+            "  [5] Non-partisanship covers official conduct, not private belief or voting.",
+            "        |",
+            "        v",
+            "  [6] Policy awareness and candid briefing are duties, not partisan acts.",
+            "        |",
+            "        v",
+            "  [7] Moral objection framed in law and public interest is principled dissent.",
+            "        |",
+            "        v",
+            "VERDICT -> Retain moral judgement; bracket political preference; distinguish duty from",
+            "             partisanship.",
+            "ANSWER USE -> Use whenever a question tests impartiality, neutrality or the limits of official",
+            "             conduct."
+          ]
+        },
+        {
+          "panel_title": "8. Positive versus negative mindset in rule interpretation",
+          "structural_type": "dual-lens-panel",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "8. Positive versus negative mindset in rule interpretation",
+            "  [1] A positive mindset reads rules with their public purpose in view.",
+            "        |",
+            "        v",
+            "  [2] A negative mindset treats rules as obstacles or sources of discretionary power.",
+            "        |",
+            "        v",
+            "  [3] A facilitative officer helps correct a curable document error.",
+            "        |",
+            "        v",
+            "  [4] A cynical officer exploits ambiguity to demand informal payment.",
+            "        |",
+            "        v",
+            "  [5] Positive interpretation enables fair access without ignoring mandatory conditions.",
+            "        |",
+            "        v",
+            "  [6] Negative interpretation produces delay, denial and extraction.",
+            "        |",
+            "        v",
+            "  [7] Stress amplifies the dominant mindset in crisis situations.",
+            "        |",
+            "        v",
+            "  [8] Purposive but accountable reading avoids both literalism and arbitrary benevolence.",
+            "        |",
+            "        v",
+            "VERDICT -> Read rules with purpose, apply with accountability, explain with reasons.",
+            "ANSWER USE -> Apply this dual-lens to any question about discretion, mindset or citizen-facing",
+            "             service."
+          ]
+        },
+        {
+          "panel_title": "9. Attitude malleability: William James and training design",
+          "structural_type": "circular-process",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "9. Attitude malleability: William James and training design",
+            "  [1] The malleability principle holds that attitudes are revisable, not fixed.",
+            "        |",
+            "        v",
+            "  [2] Reflection, field immersion and mentoring reshape evaluative stances.",
+            "        |",
+            "        v",
+            "  [3] Mission Karmayogi modules target cognitive and affective components.",
+            "        |",
+            "        v",
+            "  [4] Foundation-course immersion in underserved communities builds empathy.",
+            "        |",
+            "        v",
+            "  [5] Malleability is not victim-blaming: structural constraints need structural reform.",
+            "        |",
+            "        v",
+            "  [6] Periodic refresher training prevents cynicism and value erosion.",
+            "        |",
+            "        v",
+            "  [7] Provenance caution: the attributed William James sentence is not traceable to his",
+            "      writings.",
+            "        |",
+            "        v",
+            "VERDICT -> Attitudes can be changed; the change endures only with institutional reinforcement.",
+            "ANSWER USE -> Use for any question about training, attitude change, or the William James",
+            "             quotation."
+          ]
+        },
+        {
+          "panel_title": "10. Institutional closure: codes, constraints and the residual gap",
+          "structural_type": "complementary-pillars",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "10. Institutional closure: codes, constraints and the residual gap",
+            "  [1] Persuasion-based reform is slower but more durable once internalised.",
+            "        |",
+            "        v",
+            "  [2] Rule-based constraint is faster but risks box-ticking compliance.",
+            "        |",
+            "        v",
+            "  [3] Code of ethics targets internalised commitment; code of conduct targets external",
+            "      compliance.",
+            "        |",
+            "        v",
+            "  [4] RTI, audit trails and whistleblower protection are binding constraints.",
+            "        |",
+            "        v",
+            "  [5] Training without institutional reform becomes a box-ticking exercise.",
+            "        |",
+            "        v",
+            "  [6] Institutional constraint without attitude change reverts when monitoring relaxes.",
+            "        |",
+            "        v",
+            "  [7] The administrator must calibrate both strategies to the governance context.",
+            "        |",
+            "        v",
+            "  [8] Durable ethical conduct requires values contained within institutions.",
+            "        |",
+            "        v",
+            "VERDICT -> Neither persuasion alone nor constraint alone suffices; both must be calibrated",
+            "             together.",
+            "ANSWER USE -> Close any attitude-change answer with the institutional-closure qualification."
+          ]
+        },
+        {
+          "panel_title": "11. Trap detection: what costs marks in attitude questions",
+          "structural_type": "contrast-matrix",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "11. Trap detection: what costs marks in attitude questions",
+            "  [1] Attitude and value are related but not identical: value is broader.",
+            "        |",
+            "        v",
+            "  [2] Positive attitude does not guarantee ethical behaviour: gap exists.",
+            "        |",
+            "        v",
+            "  [3] Persuasion is not inherently unethical: it depends on truthfulness.",
+            "        |",
+            "        v",
+            "  [4] Strong attitude does not always predict behaviour: situational override.",
+            "        |",
+            "        v",
+            "  [5] Dissonance is not always resolved ethically: rationalisation is common.",
+            "        |",
+            "        v",
+            "  [6] Persuasion and manipulation are not ethically identical: autonomy differs.",
+            "        |",
+            "        v",
+            "  [7] Channel is not part of the original Hovland-Yale 1953 triad.",
+            "        |",
+            "        v",
+            "  [8] Non-partisanship does not require enforced political blankness of mind.",
+            "        |",
+            "        v",
+            "VERDICT -> The trap is always an absolute claim where the correct position is qualified.",
+            "ANSWER USE -> Scan each MCQ option for unqualified absolutes before selecting the answer."
+          ]
+        },
+        {
+          "panel_title": "12. PYQ synthesis and answer architecture",
+          "structural_type": "answer-spine",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "12. PYQ synthesis and answer architecture",
+            "  [1] 2020 Q4(b) tested positive attitude under stress: use ABC model and crisis example.",
+            "        |",
+            "        v",
+            "  [2] 2021 Q4(a) tested building suitable attitude: use formation pathways and training",
+            "      design.",
+            "        |",
+            "        v",
+            "  [3] 2022 Q2(a) tested positive versus negative mindset: use dual-lens",
+            "      rule-interpretation frame.",
+            "        |",
+            "        v",
+            "  [4] 2025 Q3(b) tested William James malleability: use provenance caution and",
+            "      institutional support.",
+            "        |",
+            "        v",
+            "  [5] 2025 Q1(a) tested social-media ethics: use persuasion-at-scale and Hovland-Yale",
+            "      variables.",
+            "        |",
+            "        v",
+            "  [6] Define attitude via ABC before applying it to the scenario.",
+            "        |",
+            "        v",
+            "  [7] Always note the attitude-behaviour gap as a qualification.",
+            "        |",
+            "        v",
+            "VERDICT -> Every attitude answer moves from definition to mechanism, example, gap and",
+            "             institutional closure.",
+            "ANSWER USE -> Use as the final revision checklist before writing any GS-IV attitude answer."
+          ]
+        }
+      ]
+    }
+  ]
+}

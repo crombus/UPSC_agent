@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "ancient-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-23",
+      "display_title": "Peninsular India: Pallavas, Chalukyas & Brahmanization",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Peninsular chronology and political geography",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "c. 535 CE -> independent Badami Chalukya power consolidates",
+            "late 6th c. -> Simhavishnu renews Pallava expansion",
+            "early 7th c. -> Mahendravarman I and Pulakeshin II",
+            "c. 630s -> Narmada check on Harsha",
+            "c. 642 -> Narasimhavarman I captures Vatapi",
+            "8th c. -> Vikramaditya II, Rajasimha legacy and mature temple patronage",
+            "757 -> Rashtrakutas end Badami line; Pallavas survive to c. 893."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology",
+            "Political geography",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Evidence and source criticism matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "AIHOLE PRASHASTI -> genealogy and campaigns | royal exaggeration",
+            "PALLAVA CHARTERS -> grants and legitimation | formulaic claims",
+            "SANSKRIT + TAMIL EPIGRAPHY -> praise and documentary practice",
+            "MONUMENTS -> patronage, technique and cult | attribution limits",
+            "LITERATURE -> court, satire and devotion | genre and redaction",
+            "PORT / SETTLEMENT ARCHAEOLOGY -> exchange | uneven survival",
+            "RULE: monument first, style label later; inscription data plus ideology."
+          ],
+          "source_references": [
+            "Evidence base",
+            "Source criticism",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Pallava and Chalukya ruler ladders",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PALLAVA                         CHALUKYA OF BADAMI",
+            "Simhavishnu                     Pulakeshin I",
+            "Mahendravarman I                Kirtivarman I",
+            "Narasimhavarman I Mamalla       Mangalesha",
+            "Paramesvaravarman I             Pulakeshin II",
+            "Narasimhavarman II Rajasimha    Vikramaditya I / II",
+            "Nandivarman line                fall to Rashtrakutas",
+            "ANCHORS: Kanchi-Mamallapuram | Vatapi-Aihole-Pattadakal."
+          ],
+          "source_references": [
+            "Pallava rulers",
+            "Chalukya rulers",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Kanchi-Vatapi rivalry and regional effects",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "KANCHI <-> VENGI / DECCAN ROUTES <-> VATAPI",
+            "             |",
+            "Pulakeshin II expands east and checks Harsha",
+            "             |",
+            "Mahendravarman-Pulakeshin conflict",
+            "             |",
+            "Narasimhavarman I captures Vatapi -> Vatapikonda memory",
+            "             |",
+            "later Chalukya victories at Kanchi -> Virupaksha commemoration",
+            "RESULT: rivalry reshaped frontiers, branches, prestige and sacred landscapes."
+          ],
+          "source_references": [
+            "Pallava-Chalukya rivalry",
+            "Vatapi and Kanchi",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Administration and local institutions",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / COURT / MILITARY ELITE",
+            "     -> territorial officers and revenue rights",
+            "     -> grants to Brahmanas and religious institutions",
+            "     -> ur: peasant village",
+            "     -> sabha: Brahmana assembly in grant village",
+            "     -> nagaram: merchant-linked settlement",
+            "     -> mahajana: prominent village elders in Chalukya records",
+            "CAUTION: do not project mature later Chola committee detail backward."
+          ],
+          "source_references": [
+            "Administration",
+            "Local institutions",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Land grants and Brahmanization",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ROYAL CHARTER -> brahmadeya / agrahara",
+            "        -> revenue rights + exemptions + jurisdiction",
+            "        -> donee insertion into settled or expanding agrarian zones",
+            "        -> cultivation + Sanskritic legitimacy + caste ordering",
+            "        -> reciprocal reshaping of local cults and Brahmanical practice",
+            "USEFUL MODEL: integration and hierarchy together",
+            "LIMIT: not every grant created a new village or proved royal weakness."
+          ],
+          "source_references": [
+            "Land grants",
+            "Brahmanization",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Bhakti and religious plurality",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "ALVARS -> Vaishnava hymns, shrine routes and emotional devotion",
+            "NAYANARS -> Shaiva hymns, sacred places and community memory",
+            "TEMPLES -> ritual + landed patronage + political visibility",
+            "JAIN / BUDDHIST GROUPS -> continued debate, institutions and court presence",
+            "INCLUSION STORIES -> Nandanar, Tiruppan Alvar and Andal",
+            "LIMIT: devotional access did not abolish caste, patriarchy or elite power",
+            "VERDICT: vernacular opening within a hierarchical religious field."
+          ],
+          "source_references": [
+            "Bhakti",
+            "Religious interaction",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Pallava architecture trajectory",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAHENDRAVARMAN I -> rock-cut caves: Mandagapattu, Mamandur",
+            "NARASIMHAVARMAN I -> Mamallapuram rathas and great reliefs",
+            "RAJASIMHA -> Shore Temple + Kailasanatha structural phase",
+            "LATER PALLAVAS -> Vaikuntha Perumal and continuing Kanchi patronage",
+            "TECHNIQUE: cave -> monolith -> structural temple, with overlap",
+            "MEANING: ritual experiment + royal image + coastal sacred landscape",
+            "RULE: sequence is analytical, not a crude progress ladder."
+          ],
+          "source_references": [
+            "Pallava architecture",
+            "Mamallapuram",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Chalukya architecture and Vesara caution",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "AIHOLE -> varied structural experiments and plans",
+            "BADAMI -> caves, capital landscape and early structural work",
+            "PATTADAKAL -> northern and southern superstructure forms side by side",
+            "VIRUPAKSHA -> Dravida form, Lokmahadevi and victory memory",
+            "PAPANATHA -> comparison point for mixed formal vocabulary",
+            "DURGA TEMPLE -> apsidal plan; name does not prove Durga dedication",
+            "VESARA: modern shorthand only after site-specific description."
+          ],
+          "source_references": [
+            "Chalukya architecture",
+            "Pattadakal",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Art, literature and bilingual court culture",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "SCULPTURE / RELIEF -> Somaskanda, Shaiva-Vaishnava programmes",
+            "PAINTING -> Badami evidence with survival and attribution limits",
+            "SANSKRIT -> prashasti, court literature and Mattavilasa-prahasana",
+            "TAMIL -> documentary epigraphy and devotional hymn worlds",
+            "DANDIN / NANDIKKALAMBAKAM -> literary memory with context cautions",
+            "MONUMENT + TEXT -> kingship communicated through several media",
+            "2024 GS-I ROUTE: art and literature must appear together."
+          ],
+          "source_references": [
+            "Painting and sculpture",
+            "Languages and literature",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Economy, ports and Bay of Bengal links",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "AGRARIAN SETTLEMENTS -> surplus + taxes + temple support",
+            "CRAFT CENTRES -> weaving, metal, sculpture and building labour",
+            "KANCHI -> political, religious, literary and commercial centre",
+            "MAMALLAPURAM -> coastal outlet and port-hinterland connection",
+            "MERCHANT GROUPS / NAGARAMS -> inland and maritime circulation",
+            "BAY OF BENGAL -> exchange and cultural contact",
+            "LIMIT: maritime connectivity is not proof of a Pallava overseas empire."
+          ],
+          "source_references": [
+            "Economy",
+            "Maritime links",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Peninsular regionalisation answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> c. 550-900 as a formative early-medieval transition",
+            "POLITY -> Pallava-Chalukya rivalry + Vengi consequence",
+            "LOCALITY -> grants + ur/sabha/nagaram + hierarchy",
+            "RELIGION -> bhakti + Jain/Buddhist plurality + social limits",
+            "ART -> named Pallava and Chalukya sites before style labels",
+            "ECONOMY -> Kanchi-Mamallapuram and selective maritime vitality",
+            "CLOSE -> rivalry, land, shrines and language rooted regional states."
+          ],
+          "source_references": [
+            "UPSC answer architecture",
+            "Regionalisation",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\23_Peninsular-India-Pallavas-Chalukyas.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g4\\ancient-indian-history-23_Complete-Learning-Session_2026-08-30.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-23\\g5\\ancient-indian-history-23_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

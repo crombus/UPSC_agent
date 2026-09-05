@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-08-30T05:35:34.430982+00:00",
+  "subject": "Philosophy Optional",
+  "section": "Philosophy Paper II — Socio-Political Philosophy",
+  "topic_count": 10,
+  "topic_validations_passed": 10,
+  "tests": [
+    {
+      "command": "python -m unittest -v tools.test_generate_philosophy_socio_political_topic_v2",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_fallback_contains_no_forbidden_progress_navigation (tools.test_generate_philosophy_socio_political_topic_v2.CanonicalFallbackTests) ... ok\ntest_fallback_has_five_sections_and_complete_core_structure (tools.test_generate_philosophy_socio_political_topic_v2.CanonicalFallbackTests) ... ok\ntest_fallback_practice_counts_rotation_and_answer_text_agree (tools.test_generate_philosophy_socio_political_topic_v2.CanonicalFallbackTests) ... ok\ntest_adapter_loading_supports_retained_and_fallback_topics (tools.test_generate_philosophy_socio_political_topic_v2.TopicAdapterTests) ... ok\ntest_latest_identity_starts_unpublished_topics_at_learner_g2 (tools.test_generate_philosophy_socio_political_topic_v2.TopicAdapterTests) ... ok\ntest_retained_workbook_pyq_heading_stops_before_original_mains (tools.test_generate_philosophy_socio_political_topic_v2.TopicAdapterTests) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.051s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v tools.test_export_four_item_library",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Ran 8 tests in 0.415s\n\nOK"
+    }
+  ],
+  "test_count": 14,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-30-validation.json",
+  "status": "passed",
+  "preserved_failed_intermediate_generation_count": 2,
+  "source_master_created_at": "2026-08-30T06:05:46+00:00",
+  "revalidated_at": "2026-08-30T06:09:39.881837+00:00",
+  "subject_wide_validation": {
+    "latest_topic_count": 10,
+    "learning_and_workbook_pdfs_checked": 20,
+    "pdf_layout_failures": 0,
+    "refreshed_markdown_failures": 0,
+    "strict_rotation_failures": 0,
+    "final_library_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-30-validation.json",
+    "final_library_status": "passed"
+  }
+}

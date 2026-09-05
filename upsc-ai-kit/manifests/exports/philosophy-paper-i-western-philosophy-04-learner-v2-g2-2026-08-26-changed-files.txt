@@ -1,0 +1,64 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\Philosophy Optional\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\04-Kant\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\INDEX.md
+notes\Flow-Learning\Philosophy\KANT-FLOW-LEARNING-REPORT-2026-08-26.md
+notes\Flow-Learning\Philosophy\Philosophy Optional\04-Kant\04-Kant-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Philosophy\Philosophy Optional\04-Kant\04-Kant-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Philosophy\Philosophy Optional\04-Kant\README.txt
+notes\Flow-Learning\Philosophy\Philosophy Optional\INDEX.md
+notes\Flow-Learning\Philosophy\START-HERE.md
+notes\Flow-Learning\Philosophy\TRACKER.md
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-04\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\topic-04_Complete-Learning-Session_2026-08-26.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\topic-04_Solved-Practice-Workbook_2026-08-26.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\reports\Kant-g2-TOPIC-REPORT-2026-08-26.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\WORKBOOK-PDF-INDEX.md
+tools\generate_philosophy_western_kant_v2.py
+tools\philosophy_western_kant_v2_spec.py
+tools\test_v2_export_foundation.py
+tools\validate_v2_export.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\assets\Kant-Critical-Architecture.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\topic-04_Complete-Learning-Session_2026-08-26.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-04\g2\topic-04_Solved-Practice-Workbook_2026-08-26.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-26-philosophy-western-04-g2-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-26-philosophy-western-04-g2.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-flow-learning-g2-2026-08-26-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-baseline.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-04-learner-v2-g2-2026-08-26-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy--paper-i-western-philosophy-04-ascii-2026-08-26.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-04-g2.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-04-g2.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy.json
+upsc-ai-kit\manifests\v2\topic-catalog.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

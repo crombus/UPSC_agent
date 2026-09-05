@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-11",
+      "display_title": "Effects of Globalisation on Indian Society",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Globalisation channels",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "ENTRY -> consumer markets, urban labour migration, food industry, digital access",
+            "SOCIETY LAYER -> identity, household authority, work patterns, information access",
+            "EXCLUDED -> trade and investment macroeconomics owned by Economy",
+            "EXCLUDED -> labour codes and gig-work law owned by Social Justice",
+            "MUST REMEMBER: Globalisation intensifies cross-border flows of capital, goods, services,",
+            "  people, information and culture, producing glocalisation, consumption change, labour-market",
+            "  restructuring, care chains, diaspora networks and uneven bargaining power."
+          ],
+          "source_references": [
+            "How globalisation enters Indian society",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Consumer culture in two layers",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STRUCTURAL -> market access, purchasing capacity, retail expansion, credit",
+            "CULTURAL -> status signalling, brand identity, aspiration",
+            "ORDER -> the structural layer can precede and outlive the cultural one",
+            "USE -> concede consumption precisely, then refuse the exclusivity claim"
+          ],
+          "source_references": [
+            "Consumer culture and its two layers",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Convergence against adaptation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HOMOGENISATION -> predicted convergence of brands, formats and consumption",
+            "GLOCALISATION -> observed adaptation of menus, language and platform content",
+            "STATUS -> one is a prediction, the other an observation",
+            "ERROR -> treating them as rival theories with one winner"
+          ],
+          "source_references": [
+            "Homogenisation as a prediction",
+            "Glocalisation as the observed counter-move",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Domain matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "STRONG CONVERGENCE -> global brand recognition and shared media formats",
+            "STRONG ADAPTATION -> regional-language content and locally customised menus",
+            "RULE -> both processes run at once in different domains",
+            "ANSWER MOVE -> name the domain, do not deliver a single global verdict"
+          ],
+          "source_references": [
+            "Holding both processes together",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Labour evidence card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PLFS 2023-24 -> released 23 September 2024, female LFPR 41.7 per cent",
+            "COMPARATOR -> 37.0 per cent in 2022-23, worker population ratio 40.3 per cent",
+            "PLFS 2025 -> released March 2026, usual-status female LFPR 40.0 per cent",
+            "CAUTION -> January to December 2025 period replaces the July to June cycle"
+          ],
+          "source_references": [
+            "Reading the two labour-force reports",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Evidence-strength ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ESTABLISHES -> aggregate participation in the labour force",
+            "SUGGESTS -> the employment context of a migration decision",
+            "DOES NOT ESTABLISH -> size, age, marital status, destination or cause",
+            "PROHIBITION -> no migration stream may be inferred from a participation rate"
+          ],
+          "source_references": [
+            "What a participation rate cannot prove",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Freedom and renegotiation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INCOME AND RESIDENCE -> mobility, spending autonomy, later marriage, partner voice",
+            "CONTINUING TIE -> remittance, ritual participation, periodic visits",
+            "WEAKENED -> day-to-day parental oversight",
+            "VERDICT -> coexistence and renegotiation, never severance"
+          ],
+          "source_references": [
+            "Personal freedom under urban work",
+            "Family renegotiation and its security cost",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Freedom and security trade-off",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GAIN -> independent decision-making away from household supervision",
+            "COST -> thinner family support during harassment or health emergency",
+            "IMPLICATION -> workplace and housing safety become the binding constraint",
+            "ANSWER USE -> qualify the freedom claim instead of celebrating it"
+          ],
+          "source_references": [
+            "Family renegotiation and its security cost",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Fast-food paradox drivers",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TIME -> dual-income urban households face real constraints on home cooking",
+            "PRICE AND DELIVERY -> platform logistics lower the cost of convenience",
+            "ASPIRATION -> branded consumption signals urban modern identity",
+            "ADAPTATION -> locally customised menus widen the addressable market"
+          ],
+          "source_references": [
+            "The fast-food paradox stated precisely",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Behavioural lens card",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "CLASSICAL PREDICTION -> rising health awareness reduces consumption",
+            "OBSERVED -> awareness and industry growth coexist",
+            "LENS -> bounded rationality weighs convenience and status against long-run health",
+            "LIMIT -> a lens, not proof that one motive dominates every purchase",
+            "CLOSE DISTINCTION: Globalisation is not westernisation, liberalisation is not privatisation,",
+            "  cultural diffusion is not homogenisation, hybridity is not equal exchange, and aggregate",
+            "  growth or connectivity does not establish inclusion, causation or uniform local response."
+          ],
+          "source_references": [
+            "Bounded rationality and domestic food systems",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Digital access ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ROUND SIX FACT SHEETS -> ever-internet use 64.3 per cent, women aged 15 to 49",
+            "ROUND FIVE COMPARATOR -> 33.3 per cent for the same measure",
+            "STATUS -> round six results are labelled provisional",
+            "DIVIDE -> access is unequal by income, gender, region and generation",
+            "EVIDENCE LIMIT: Use IT-Bengaluru, garment clusters, Kerala-Gulf migration, platform work,",
+            "  food/media hybridity and farmer/artisan value chains with sector and region qualifications;",
+            "  distinguish policy chronology, firm strategy, technology and household agency."
+          ],
+          "source_references": [
+            "The digital-access anchor and its status",
+            "The digital divide",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Globalisation answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the channels, refuse the single-force framing",
+            "BODY -> concede consumption, then add labour, family and digital channels",
+            "TEST -> convergence against adaptation, domain by domain",
+            "CLOSE -> graded verdict with the statistic and status caveats"
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

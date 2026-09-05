@@ -1,0 +1,1182 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-32",
+  "subject": "Modern-Indian-History",
+  "title": "THE NEHRU ERA — HOPE, FOREIGN POLICY & LEGACY",
+  "short_route": "PLANNING WITHOUT A CONSTITUTIONAL → THE 1951-52 GENERAL ELECTION → COMMUNITY DEVELOPMENT, 1952, BEFORE → AVADI, 1955, TO THE → THE INDUSTRIAL POLICY RESOLUTION → THE MAHALANOBIS SECOND PLAN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-32-deep-review-2026-09-01-g2.json",
+  "ascii_spec_sha256": "9cd7078bbba08feb5bd075e0e153448d430cba8b06665b9b7b989c6cd6d801c4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PLANNING WITHOUT A CONSTITUTIONAL MANDATE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PLANNING WITHOUT A CONSTITUTIONAL MANDATE",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNING COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET RESOLUTION, 15 MARCH 1950 (NOT CONSTITUTIONAL)",
+          "role": "caution"
+        },
+        {
+          "text": "PRIME MINISTER JAWAHARLAL NEHRU, EX OFFICIO",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESS RESOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "FORMULATE FIVE YEAR PLANS",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLOCATE PRIORITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST PLAN 1951-56",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLANNING COMMISSION → CABINET RESOLUTION, 15 MARCH 1950 (not constitutional)",
+        "CHAIRMAN → Prime Minister Jawaharlal Nehru, ex officio",
+        "MANDATE → assess resources → formulate Five Year Plans → allocate priorities",
+        "FIRST PLAN 1951-56 → agriculture and irrigation priority; modest, largely on track",
+        "TRAP → extra-constitutional body; never call it a constitutional authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLANNING COMMISSION → CABINET RESOLUTION, 15 MARCH 1950 (not constitutional)",
+            "CHAIRMAN → Prime Minister Jawaharlal Nehru, ex officio",
+            "MANDATE → assess resources → formulate Five Year Plans → allocate priorities",
+            "FIRST PLAN 1951-56 → agriculture and irrigation priority; modest, largely on track"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRAP → extra-constitutional body; never call it a constitutional authority",
+            "MUST REMEMBER: Planning Commission (15 March 1950), first general election (October",
+            "1951-February 1952), Community Development Programme (2 October 1952), Panchsheel (April",
+            "1954), Avadi (January 1955), Bandung (April 1955), IPR/Second Plan (1956), Kerala election"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "(1957), Belgrade and Goa (1961), the 1962 war, Kamaraj Plan (1963) and Nehru's death (27 May",
+            "1964) form distinct stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → extra-constitutional body; never call it a constitutional authority.",
+      "source_references": [
+        "Planning without a constitutional mandate",
+        "The 1951-52 general election and the shape of dominance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE 1951-52 GENERAL ELECTION",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE 1951-52 GENERAL ELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST GENERAL ELECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "OCT 1951 TO FEB 1952, STAGGERED POLLING",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 173 MILLION VOTERS; UNIVERSAL ADULT FRANCHISE, FIRST TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUGHLY 46 PER CENT",
+          "role": "primary"
+        },
+        {
+          "text": "BIG SEAT MAJORITY FOR CONGRESS ON A VOTE SHARE",
+          "role": "outcome"
+        },
+        {
+          "text": "READ IT CORRECTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJORITY OF SEATS, NOT MAJORITY OF VOTES CAST NATIONALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIRST GENERAL ELECTION → OCT 1951 to FEB 1952, staggered polling",
+        "ELECTORATE → about 173 million voters; universal adult franchise, first time",
+        "TURNOUT → roughly 46 per cent",
+        "RESULT → big SEAT majority for Congress on a vote share WELL UNDER 50 per",
+        "READ IT CORRECTLY → majority of SEATS, not majority of VOTES cast nationally"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FIRST GENERAL ELECTION → OCT 1951 to FEB 1952, staggered polling",
+          "TURNOUT → roughly 46 per cent",
+          "READ IT CORRECTLY → majority of SEATS, not majority of VOTES cast nationally"
+        ],
+        [
+          "ELECTORATE → about 173 million voters; universal adult franchise, first time",
+          "RESULT → big SEAT majority for Congress on a vote share WELL UNDER 50 per cent",
+          "FIRST GENERAL ELECTION → OCT 1951 to FEB 1952, staggered polling"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIRST GENERAL ELECTION → OCT 1951 to FEB 1952, staggered polling",
+            "ELECTORATE → about 173 million voters; universal adult franchise, first time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TURNOUT → roughly 46 per cent",
+            "RESULT → big SEAT majority for Congress on a vote share WELL UNDER 50 per cent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "READ IT CORRECTLY → majority of SEATS, not majority of VOTES cast nationally",
+            "FIRST GENERAL ELECTION → OCT 1951 to FEB 1952, staggered polling"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → big SEAT majority for Congress on a vote share WELL UNDER 50 per cent.",
+      "source_references": [
+        "The 1951-52 general election and the shape of dominance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COMMUNITY DEVELOPMENT, 1952, BEFORE PANCHAYATI RAJ, 1957",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COMMUNITY DEVELOPMENT, 1952, BEFORE PANCHAYATI RAJ, 1957",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY DEVELOPMENT PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "LAUNCHED 2 OCTOBER 1952",
+          "role": "comparison"
+        },
+        {
+          "text": "RURAL RECONSTRUCTION THROUGH BLOCK-LEVEL ADMINISTRATION + LOCAL PARTICIPATION",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER STEP",
+          "role": "primary"
+        },
+        {
+          "text": "BALWANTRAI MEHTA COMMITTEE, 1957, RECOMMENDS PANCHAYATI RAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "CDP (1952) COMES BEFORE PANCHAYATI RAJ RECOMMENDATIONS (1957)",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT TREAT CDP AND PANCHAYATI RAJ AS THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY DEVELOPMENT PROGRAMME → launched 2 OCTOBER 1952",
+        "AIM → rural reconstruction through block-level administration + local participation",
+        "LATER STEP → Balwantrai Mehta Committee, 1957, recommends Panchayati Raj",
+        "SEQUENCE → CDP (1952) COMES BEFORE Panchayati Raj recommendations (1957)",
+        "TRAP → do not treat CDP and Panchayati Raj as the same 1952 initiative"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMUNITY DEVELOPMENT PROGRAMME → launched 2 OCTOBER 1952",
+            "AIM → rural reconstruction through block-level administration + local participation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LATER STEP → Balwantrai Mehta Committee, 1957, recommends Panchayati Raj",
+            "SEQUENCE → CDP (1952) COMES BEFORE Panchayati Raj recommendations (1957)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → do not treat CDP and Panchayati Raj as the same 1952 initiative",
+            "COMMUNITY DEVELOPMENT PROGRAMME → launched 2 OCTOBER 1952"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not treat CDP and Panchayati Raj as the same 1952 initiative.",
+      "source_references": [
+        "Community Development and the promise of rural transformation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AVADI, 1955, TO THE SECOND PLAN, 1956-61",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AVADI, 1955, TO THE SECOND PLAN, 1956-61",
+          "role": "primary"
+        },
+        {
+          "text": "AVADI SESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN NATIONAL CONGRESS, JANUARY 1955, NEAR MADRAS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADOPTS \"SOCIALISTIC PATTERN OF SOCIETY\" AS ITS GOAL",
+          "role": "evidence"
+        },
+        {
+          "text": "MIXED ECONOMY, DOMINANT/EXPANDING PUBLIC SECTOR, NOT FULL SOCIALISM",
+          "role": "caution"
+        },
+        {
+          "text": "INDUSTRIAL POLICY RESOLUTION GIVES IT LEGAL/ADMINISTRATIVE FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "SECOND FIVE YEAR PLAN (MAHALANOBIS) OPERATIONALISES IT IN INVESTMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AVADI SESSION → Indian National Congress, JANUARY 1955, near Madras",
+        "RESOLUTION → adopts \"SOCIALISTIC PATTERN OF SOCIETY\" as its goal",
+        "MEANING → mixed economy, dominant/expanding public sector, NOT full socialism",
+        "1956 → INDUSTRIAL POLICY RESOLUTION gives it legal/administrative form",
+        "1956-61 → SECOND FIVE YEAR PLAN (Mahalanobis) operationalises it in investment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AVADI SESSION → Indian National Congress, JANUARY 1955, near Madras",
+            "RESOLUTION → adopts \"SOCIALISTIC PATTERN OF SOCIETY\" as its goal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEANING → mixed economy, dominant/expanding public sector, NOT full socialism",
+            "1956 → INDUSTRIAL POLICY RESOLUTION gives it legal/administrative form"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1956-61 → SECOND FIVE YEAR PLAN (Mahalanobis) operationalises it in investment",
+            "AVADI SESSION → Indian National Congress, JANUARY 1955, near Madras"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1956-61 → SECOND FIVE YEAR PLAN (Mahalanobis) operationalises it in investment.",
+      "source_references": [
+        "Avadi, 1955, and the socialistic pattern of society",
+        "The Industrial Policy Resolution of 1956",
+        "The Mahalanobis Second Plan: heavy industry over agriculture",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE INDUSTRIAL POLICY RESOLUTION, 1956: THREE SCHEDULES",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE INDUSTRIAL POLICY RESOLUTION, 1956",
+          "role": "primary"
+        },
+        {
+          "text": "THREE SCHEDULES",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUSTRIAL POLICY RESOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "1956, SUPERSEDES THE 1948 RESOLUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHEDULE A",
+          "role": "primary"
+        },
+        {
+          "text": "EXCLUSIVE STATE RESPONSIBILITY",
+          "role": "institution"
+        },
+        {
+          "text": "SCHEDULE B",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE-LED, WITH PRIVATE PARTICIPATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "INDUSTRIAL POLICY RESOLUTION → 1956, supersedes the 1948 Resolution",
+        "SCHEDULE A",
+        "exclusive state responsibility",
+        "SCHEDULE B",
+        "state-led, with private participation"
+      ],
+      "matrix": [
+        [
+          "SCHEDULE A",
+          "exclusive state responsibility"
+        ],
+        [
+          "SCHEDULE B",
+          "state-led, with private participation"
+        ],
+        [
+          "SCHEDULE C",
+          "left to private enterprise"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDUSTRIAL POLICY RESOLUTION → 1956, supersedes the 1948 Resolution",
+            "SCHEDULE A",
+            "exclusive state responsibility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULE B",
+            "state-led, with private participation",
+            "SCHEDULE C"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "left to private enterprise",
+            "EFFECT → \"commanding heights\" of the economy reserved for the public sector"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → \"commanding heights\" of the economy reserved for the public sector.",
+      "source_references": [
+        "The Industrial Policy Resolution of 1956",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE MAHALANOBIS SECOND PLAN AND ITS NEGLECTED HALF",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE MAHALANOBIS SECOND PLAN AND ITS NEGLECTED HALF",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND FIVE YEAR PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "1956-61, ARCHITECT P.C. MAHALANOBIS",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAVY INDUSTRY, CAPITAL GOODS (\"MACHINES THAT MAKE MACHINES\")",
+          "role": "evidence"
+        },
+        {
+          "text": "A SUBSTANTIAL DOMESTIC INDUSTRIAL BASE OVER THE PLAN PERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "AGRICULTURAL INVESTMENT, COMPARATIVELY",
+          "role": "outcome"
+        },
+        {
+          "text": "FEEDS INTO THE FOOD SHORTFALLS OF THE MID-1960S (TOPIC",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SECOND FIVE YEAR PLAN → 1956-61, architect P.C. MAHALANOBIS",
+        "PRIORITISED → heavy industry, capital goods (\"machines that make machines\")",
+        "BUILT → a substantial domestic industrial base over the plan period",
+        "NEGLECTED → agricultural investment, comparatively",
+        "CONSEQUENCE → feeds into the food shortfalls of the mid-1960s (topic 34)"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SECOND FIVE YEAR PLAN → 1956-61, architect P.C. MAHALANOBIS",
+          "BUILT → a substantial domestic industrial base over the plan period",
+          "CONSEQUENCE → feeds into the food shortfalls of the mid-1960s (topic 34)"
+        ],
+        [
+          "PRIORITISED → heavy industry, capital goods (\"machines that make machines\")",
+          "NEGLECTED → agricultural investment, comparatively",
+          "SECOND FIVE YEAR PLAN → 1956-61, architect P.C. MAHALANOBIS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECOND FIVE YEAR PLAN → 1956-61, architect P.C. MAHALANOBIS",
+            "PRIORITISED → heavy industry, capital goods (\"machines that make machines\")"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUILT → a substantial domestic industrial base over the plan period",
+            "NEGLECTED → agricultural investment, comparatively"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → feeds into the food shortfalls of the mid-1960s (topic 34)",
+            "SECOND FIVE YEAR PLAN → 1956-61, architect P.C. MAHALANOBIS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → feeds into the food shortfalls of the mid-1960s (topic 34).",
+      "source_references": [
+        "The Mahalanobis Second Plan: heavy industry over agriculture",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PANCHSHEEL, 1954, TO THE 1962 WAR",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PANCHSHEEL, 1954, TO THE 1962 WAR",
+          "role": "primary"
+        },
+        {
+          "text": "APRIL 1954",
+          "role": "outcome"
+        },
+        {
+          "text": "PANCHSHEEL SIGNED WITH CHINA, WITH A TIBET AGREEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "AFTER 1954",
+          "role": "evidence"
+        },
+        {
+          "text": "\"HINDI-CHINI BHAI BHAI\" FRIENDSHIP RHETORIC POPULARISED",
+          "role": "primary"
+        },
+        {
+          "text": "OCT-NOV 1962",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SAME RELATIONSHIP COLLAPSES INTO THE SINO-INDIAN WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT READ 1954-55 OPTIMISM BACKWARD AS IF THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "APRIL 1954 → PANCHSHEEL signed with China, with a Tibet agreement",
+        "AFTER 1954 → \"Hindi-Chini Bhai Bhai\" friendship rhetoric popularised",
+        "OCT-NOV 1962 → the SAME relationship collapses into the Sino-Indian War",
+        "TRAP → do not read 1954-55 optimism backward as if the border dispute did not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APRIL 1954 → PANCHSHEEL signed with China, with a Tibet agreement",
+            "AFTER 1954 → \"Hindi-Chini Bhai Bhai\" friendship rhetoric popularised"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OCT-NOV 1962 → the SAME relationship collapses into the Sino-Indian War",
+            "TRAP → do not read 1954-55 optimism backward as if the border dispute did not exist"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "APRIL 1954 → PANCHSHEEL signed with China, with a Tibet agreement",
+            "AFTER 1954 → \"Hindi-Chini Bhai Bhai\" friendship rhetoric popularised"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not read 1954-55 optimism backward as if the border dispute did not exist.",
+      "source_references": [
+        "Panchsheel, 1954, and its later collapse",
+        "The Sino-Indian War, 1962: from Bhai Bhai to ceasefire",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BANDUNG, 1955, IS NOT BELGRADE, 1961: PRECURSOR TO DOCTRINE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BANDUNG, 1955, IS NOT BELGRADE, 1961",
+          "role": "caution"
+        },
+        {
+          "text": "PRECURSOR TO DOCTRINE",
+          "role": "outcome"
+        },
+        {
+          "text": "BANDUNG CONFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "APRIL 1955, INDONESIA; 29 AFRO-ASIAN STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "PRECURSOR AFRO-ASIAN GATHERING; NEHRU A LEADING VOICE",
+          "role": "primary"
+        },
+        {
+          "text": "NOT THE SAME AS",
+          "role": "caution"
+        },
+        {
+          "text": "BELGRADE CONFERENCE, SEPTEMBER 1961",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ACTUAL FOUNDING SUMMIT OF THE NON-ALIGNED MOVEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BANDUNG CONFERENCE → APRIL 1955, Indonesia; 29 Afro-Asian states",
+        "ROLE → precursor Afro-Asian gathering; NEHRU a leading voice",
+        "NOT THE SAME AS → BELGRADE CONFERENCE, SEPTEMBER 1961",
+        "BELGRADE → the actual FOUNDING SUMMIT of the Non-Aligned Movement",
+        "FOUNDERS AT BELGRADE → Nehru, Tito, Nasser, Sukarno, Nkrumah"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BANDUNG CONFERENCE → APRIL 1955, Indonesia; 29 Afro-Asian states",
+          "BELGRADE → the actual FOUNDING SUMMIT of the Non-Aligned Movement",
+          "NOT THIS → passive neutrality or simple non-involvement"
+        ],
+        [
+          "ROLE → precursor Afro-Asian gathering; NEHRU a leading voice",
+          "FOUNDERS AT BELGRADE → Nehru, Tito, Nasser, Sukarno, Nkrumah",
+          "TRAP → \"non-alignment\" and \"neutrality\" are NOT interchangeable terms"
+        ],
+        [
+          "NOT THE SAME AS → BELGRADE CONFERENCE, SEPTEMBER 1961",
+          "DOCTRINE THAT FOLLOWS → judge each question on its merits; engage INDEPENDENTLY",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BANDUNG CONFERENCE → APRIL 1955, Indonesia; 29 Afro-Asian states",
+            "ROLE → precursor Afro-Asian gathering; NEHRU a leading voice",
+            "NOT THE SAME AS → BELGRADE CONFERENCE, SEPTEMBER 1961"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BELGRADE → the actual FOUNDING SUMMIT of the Non-Aligned Movement",
+            "FOUNDERS AT BELGRADE → Nehru, Tito, Nasser, Sukarno, Nkrumah",
+            "DOCTRINE THAT FOLLOWS → judge each question on its merits; engage INDEPENDENTLY"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT THIS → passive neutrality or simple non-involvement",
+            "TRAP → \"non-alignment\" and \"neutrality\" are NOT interchangeable terms"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → \"non-alignment\" and \"neutrality\" are NOT interchangeable terms.",
+      "source_references": [
+        "Bandung, 1955: Afro-Asian solidarity before Belgrade",
+        "Belgrade, 1961: the founding of the Non-Aligned Movement",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "KERALA, 1957: BALLOT, NOT REVOLUTION",
+      "structural_type": "evidence-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KERALA, 1957",
+          "role": "primary"
+        },
+        {
+          "text": "BALLOT, NOT REVOLUTION",
+          "role": "caution"
+        },
+        {
+          "text": "KERALA STATE ELECTION",
+          "role": "institution"
+        },
+        {
+          "text": "1957, FIRST AFTER THE 1956 STATES REORGANISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNIST PARTY OF INDIA WINS; E.M.S. NAMBOODIRIPAD, CHIEF MINISTER",
+          "role": "primary"
+        },
+        {
+          "text": "AMONG THE EARLIEST INSTANCES ANYWHERE OF AN ELECTED COMMUNIST",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER (POLITY OWNER, NOT HERE)",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRE DISMISSES THE MINISTRY UNDER ARTICLE 356",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "KERALA STATE ELECTION → 1957, first after the 1956 States Reorganisation",
+        "RESULT → Communist Party of India wins; E.M.S. NAMBOODIRIPAD, Chief Minister",
+        "SIGNIFICANCE → among the earliest instances anywhere of an elected communist government",
+        "LATER (Polity owner, not here) → Centre dismisses the ministry under Article 356",
+        "BOUNDARY → this session stops at the 1957 election and its democratic significance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KERALA STATE ELECTION → 1957, first after the 1956 States Reorganisation",
+            "RESULT → Communist Party of India wins; E.M.S. NAMBOODIRIPAD, Chief Minister"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIGNIFICANCE → among the earliest instances anywhere of an elected communist government",
+            "LATER (Polity owner, not here) → Centre dismisses the ministry under Article 356"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → this session stops at the 1957 election and its democratic significance",
+            "KERALA STATE ELECTION → 1957, first after the 1956 States Reorganisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → Communist Party of India wins; E.M.S. NAMBOODIRIPAD, Chief Minister.",
+      "source_references": [
+        "Kerala, 1957: a communist government elected by ballot",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GOA, DECEMBER 1961: DIPLOMACY, THEN OPERATION VIJAY",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GOA, DECEMBER 1961",
+          "role": "primary"
+        },
+        {
+          "text": "DIPLOMACY, THEN OPERATION VIJAY",
+          "role": "outcome"
+        },
+        {
+          "text": "GOA, DAMAN AND DIU",
+          "role": "comparison"
+        },
+        {
+          "text": "REMAINED UNDER PORTUGUESE RULE AFTER 1947",
+          "role": "evidence"
+        },
+        {
+          "text": "STEP 1",
+          "role": "primary"
+        },
+        {
+          "text": "REPEATED INDIAN DIPLOMATIC EFFORTS FOR A PEACEFUL TRANSFER",
+          "role": "outcome"
+        },
+        {
+          "text": "STEP 2",
+          "role": "comparison"
+        },
+        {
+          "text": "DIPLOMACY FAILS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOA, DAMAN AND DIU → remained under Portuguese rule after 1947",
+        "STEP 1 → repeated Indian diplomatic efforts for a peaceful transfer",
+        "STEP 2 → diplomacy fails",
+        "STEP 3 → OPERATION VIJAY, DECEMBER 1961: Indian armed forces move in",
+        "OUTCOME → Portuguese rule ends within days; territories integrated into the Union"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOA, DAMAN AND DIU → remained under Portuguese rule after 1947",
+            "STEP 1 → repeated Indian diplomatic efforts for a peaceful transfer",
+            "STEP 2 → diplomacy fails"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → OPERATION VIJAY, DECEMBER 1961: Indian armed forces move in",
+            "OUTCOME → Portuguese rule ends within days; territories integrated into the Union",
+            "CLOSE DISTINCTION: The Planning Commission was extra-constitutional"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Bandung was an Afro-Asian precursor, not NAM's founding summit",
+            "non-alignment was independent engagement, not passive neutrality",
+            "and the 1962 defeat exposed strategic limits without erasing the doctrine's whole diplomatic record."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → Portuguese rule ends within days; territories integrated into the Union.",
+      "source_references": [
+        "Goa, December 1961: Operation Vijay",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "1962: THE PIVOT THE WHOLE TOPIC TURNS ON",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE PIVOT THE WHOLE TOPIC TURNS ON",
+          "role": "primary"
+        },
+        {
+          "text": "OCT-NOV 1962",
+          "role": "outcome"
+        },
+        {
+          "text": "SINO-INDIAN WAR ALONG THE HIMALAYAN FRONTIER",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN REVERSES IN NEFA AND LADAKH",
+          "role": "evidence"
+        },
+        {
+          "text": "CHINA DECLARES A UNILATERAL CEASEFIRE (NOT A NEGOTIATED SETTLEMENT)",
+          "role": "caution"
+        },
+        {
+          "text": "GAPS IN DEFENCE PREPAREDNESS; LIMITS OF NON-ALIGNMENT'S OPTIMISM",
+          "role": "outcome"
+        },
+        {
+          "text": "KAMARAJ PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS RESPONDS ORGANISATIONALLY, NOT ECONOMICALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OCT-NOV 1962 → SINO-INDIAN WAR along the Himalayan frontier",
+        "COURSE → Indian reverses in NEFA and Ladakh",
+        "END → China declares a UNILATERAL CEASEFIRE (not a negotiated settlement)",
+        "EXPOSES → gaps in defence preparedness; limits of non-alignment's optimism",
+        "1963 → KAMARAJ PLAN: Congress responds organisationally, not economically"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OCT-NOV 1962 → SINO-INDIAN WAR along the Himalayan frontier",
+            "COURSE → Indian reverses in NEFA and Ladakh",
+            "END → China declares a UNILATERAL CEASEFIRE (not a negotiated settlement)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPOSES → gaps in defence preparedness; limits of non-alignment's optimism",
+            "1963 → KAMARAJ PLAN: Congress responds organisationally, not economically",
+            "EVIDENCE LIMIT: Cabinet resolutions, Election Commission data, Congress resolutions, treaty/summit records and regional outcomes must"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "qualify both uncritical hero-making and retrospective single-failure verdicts, especially on Kashmir, planning and China."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Cabinet resolutions, Election Commission data, Congress resolutions, treaty/summit records and regional outcomes must qualify both uncritical hero-making and retrospective single-failure verdicts, especially on Kashmir, planning and China.",
+      "source_references": [
+        "The Sino-Indian War, 1962: from Bhai Bhai to ceasefire",
+        "The Kamaraj Plan, 1963: reviving the party organisation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NEHRU'S LEGACY: INSTITUTIONS AND LESSONS HELD TOGETHER",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NEHRU'S LEGACY",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONS AND LESSONS HELD TOGETHER",
+          "role": "outcome"
+        },
+        {
+          "text": "27 MAY 1964",
+          "role": "comparison"
+        },
+        {
+          "text": "NEHRU DIES, AFTER NEARLY SEVENTEEN YEARS AS PRIME MINISTER",
+          "role": "evidence"
+        },
+        {
+          "text": "PARLIAMENTARY DEMOCRACY, PLANNING, SECULARISM, NON-ALIGNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ALREADY TESTED",
+          "role": "outcome"
+        },
+        {
+          "text": "1962 EXPOSED THE LIMITS OF PANCHSHEEL/BANDUNG-ERA OPTIMISM",
+          "role": "comparison"
+        },
+        {
+          "text": "UNRESOLVED, DEBATED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "27 MAY 1964 → Nehru dies, after nearly seventeen years as Prime Minister",
+        "ENDURING → parliamentary democracy, planning, secularism, non-alignment",
+        "ALREADY TESTED → 1962 exposed the limits of Panchsheel/Bandung-era optimism",
+        "UNRESOLVED, DEBATED → the 1948 Kashmir referral to the United Nations",
+        "VERDICT → real institutional achievement PAIRED WITH an exposed misjudgement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "27 MAY 1964 → Nehru dies, after nearly seventeen years as Prime Minister",
+            "ENDURING → parliamentary democracy, planning, secularism, non-alignment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALREADY TESTED → 1962 exposed the limits of Panchsheel/Bandung-era optimism",
+            "UNRESOLVED, DEBATED → the 1948 Kashmir referral to the United Nations"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → real institutional achievement PAIRED WITH an exposed misjudgement",
+            "27 MAY 1964 → Nehru dies, after nearly seventeen years as Prime Minister"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → real institutional achievement PAIRED WITH an exposed misjudgement.",
+      "source_references": [
+        "Kashmir at the United Nations, 1948: a debated choice",
+        "Nehru's legacy, 1964: institutions and lessons held together",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-32\\g2\\modern-indian-history-32_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE NEHRUVIAN CONSENSUS KEPT CONGRESS BROAD, FLEXIBLE AND LEFT-OF-CENTRE",
+          "role": "outcome"
+        },
+        {
+          "text": "THAN MONOLITHIC, ALLOWING DISSENT AND COEXISTENCE WITH A REAL",
+          "role": "comparison"
+        },
+        {
+          "text": "THE \" SOCIALISTIC PATTERN \" WAS DELIBERATELY ELASTIC —",
+          "role": "evidence"
+        },
+        {
+          "text": "— COMBINING A LARGE PUBLIC SECTOR WITH PRIVATE ENTERPRISE",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRA READS PLANNING AS AN ACT OF LONG-RUN STATE",
+          "role": "institution"
+        },
+        {
+          "text": "SAVINGS ROSE (~5.5%→~10.5% OF",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL INCOME) AND INDIA GREW AT ROUGHLY FOUR TIMES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Nehruvian consensus kept Congress broad, flexible and left-of-centre rather",
+            "than monolithic, allowing dissent and coexistence with a real opposition.",
+            "The \" socialistic pattern \" was deliberately elastic — growth plus equitable distribution",
+            "— combining a large public sector with private enterprise and civil liberties."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Chandra reads planning as an act of long-run state capacity building : savings rose (~5.5%→~10.5% of",
+            "national income) and India grew at roughly four times the colonial rate, even if poverty persisted.",
+            "CAUTION: The defining tension: Nehru built institutions but neglected party organisation",
+            "and land-reform implementation , storing up problems that surfaced after 1964."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Non-alignment was an active anti-bloc, anti-colonial, pro-disarmament posture — Panchsheel (1954), Bandung (1955),",
+            "NAM (1961) — that gave a poor new nation disproportionate global voice.",
+            "On 1962 , Chandra rejects both caricatures—Nehru as \"naïve fool\" and as \"provocateur\"—and stresses Chinese strategic compulsions while",
+            "This is the authors' interpretation"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

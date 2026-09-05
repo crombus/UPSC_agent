@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "modern-indian-history-26-learner-v2-2026-08-31-validation",
+  "validated_on": "2026-08-31T22:46:55.200095+05:30",
+  "selection": "modern-indian-history-26",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 77,
+    "scope": "Modern History Topic 26-27 generator plus refresh pipeline tests"
+  },
+  "topics": [
+    {
+      "topic_key": "modern-indian-history-26",
+      "source_generation": 0,
+      "refreshed_generation": 1,
+      "subject": "Modern-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "modern-indian-history-26",
+      "main_pdf_pages": 84,
+      "workbook_pdf_pages": 47,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 91,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-26-27-2026-08-31-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          82,
+          83,
+          83,
+          83,
+          83,
+          83,
+          83,
+          84,
+          84,
+          84,
+          84,
+          84
+        ],
+        "rendered_page_count": 3,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-26\\carvaka-g1\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-26\\modern-indian-history-26_Complete-Learning-Session_2026-08-31.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-26\\modern-indian-history-26_Solved-Practice-Workbook_2026-08-31.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-26\\modern-indian-history-26_Complete-Learning-Session_2026-08-31.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-26\\modern-indian-history-26_Solved-Practice-Workbook_2026-08-31.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-26\\carvaka-g1"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 47,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true
+    }
+  ]
+}

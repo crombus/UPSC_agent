@@ -1,0 +1,111 @@
+{
+  "record_id": "essay-04:learner-v2:g3",
+  "topic_key": "essay-04",
+  "subject": "Essay",
+  "section": "Subject-wide Syllabus",
+  "title": "Brainstorming and Dimensional Expansion",
+  "variant": "learner-v2",
+  "generation": 3,
+  "command": "Generate learner-v2 topic: Essay — Subject-wide Syllabus — Brainstorming and Dimensional Expansion",
+  "main_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-04\\g3\\essay-04_Knowledge-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Essay\\Subject-Wide-Syllabus\\essay-04\\g3\\essay-04_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-04\\g3\\essay-04_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-04\\g3\\essay-04_Knowledge-Guide_2026-09-04.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-04\\g3\\essay-04_Practice-Workbook_2026-09-04.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-04\\g3\\essay-04_Practice-Solutions_2026-09-04.md",
+  "integrated_visual_atlas": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-04\\g3\\assets\\essay-04_Essay-Workflow-Atlas_2026-09-04.png",
+  "integrated_ascii_flow": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\essay-specific-guides\\essay-04\\g3\\essay-04_Integrated-ASCII-Workflow_2026-09-04.md",
+  "integrated_ascii_panel_count": 12,
+  "artifact_contract": "essay-specific-guide-v2",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "supersedes": "essay-04:learner-v2:g2",
+  "format": {
+    "name": "essay-specific-guide-v2",
+    "learning_sessions": 0,
+    "mcqs": 0,
+    "primary_artifacts": 3,
+    "integrated_visual_atlas": true,
+    "integrated_ascii_workflow": true,
+    "guide": {
+      "pages": 22,
+      "bookmarks": 46,
+      "contents_page": 2
+    },
+    "workbook": {
+      "pages": 5,
+      "bookmarks": 16,
+      "contents_page": 2
+    },
+    "solutions": {
+      "pages": 13,
+      "bookmarks": 15,
+      "contents_page": 2
+    },
+    "practice_coverage": {
+      "outline": true,
+      "introduction": false,
+      "conclusion": true,
+      "paragraph_repair": false,
+      "transitions": true,
+      "thesis_correction": false,
+      "evidence_selection": false,
+      "full_essays": true
+    },
+    "model_essay_word_counts": [
+      1009,
+      1002,
+      1038,
+      1009,
+      1002,
+      1038
+    ],
+    "guide_words": 8639,
+    "workbook_words": 353,
+    "solutions_words": 5387,
+    "drill_count": 9,
+    "full_essay_count": 3,
+    "approved": false
+  },
+  "provenance": {
+    "source_manifest": "upsc-ai-kit\\manifests\\v2\\essay--subject-wide-syllabus.json",
+    "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\04_Brainstorming-and-Dimensional-Expansion.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\04_Brainstorming-and-Dimensional-Expansion.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Essay\\basic\\04_Brainstorming-and-Dimensional-Expansion.md": "0ec9fa2122742f3b8d01d470285aa2526dfd10212bd3a2d19c994fbfaf4cf6c8",
+      "upsc-ai-kit\\knowledge\\Essay\\advanced\\04_Brainstorming-and-Dimensional-Expansion.md": "ffcb5fc0e69a66ba907863c3f4a79fc2664e8f37e1798a32d2f082c7378926f2"
+    },
+    "baseline_record": "essay-04:learner-v2:g2",
+    "canonical_owners_unchanged": true
+  },
+  "scores": {
+    "complete_learning_session": 40,
+    "solved_practice_workbook": 30,
+    "graphical_flowchart": 14,
+    "ascii_master_flowchart": 14,
+    "total": 98
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "essay-04:learner-v2:g3"
+  },
+  "validation": {
+    "state": "failed",
+    "validated_on": "2026-09-04",
+    "validator": "tools\\regenerate_essay_deep_review.py",
+    "errors": [
+      "Literal &#8203; entities were rendered visibly inside table cells."
+    ]
+  },
+  "refresh_profile": "essay-specific-guide-v2-deep-review"
+}

@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Philosophy",
+    "display_name": "Philosophy Optional"
+  },
+  "section": {
+    "key": "paper-ii-philosophy-of-religion",
+    "name": "Philosophy Paper II — Philosophy of Religion",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+      "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+    ],
+    "notes": "Complete ten-topic Philosophy Paper II Philosophy of Religion owner section. Topic 01 is materialised; remaining owners are planned in source order."
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+      "display_title": "Notions of God",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Notions of God.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Notions-of-God.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Notions-of-God.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-01_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-01_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g17\\topic-01_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": "philosophy-paper-ii-philosophy-of-religion-01:legacy-v1:g1",
+      "status": "generated_unapproved",
+      "generation": 17,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g17",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g17\\topic-01_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g17\\topic-01_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g17"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+      "display_title": "Proofs for the Existence of God and their Critique",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Proofs for the Existence of God and their Critique.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Proofs-for-God.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Proofs-for-God.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-02_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-02_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 14,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-02:learner-v2:g14",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-02\\carvaka-g14"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+      "display_title": "Problem of Evil",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Problem of Evil.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Problem-of-Evil.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Problem-of-Evil.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-03_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-03_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\topic-03_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 14,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-03:learner-v2:g14",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\topic-03_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\topic-03_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-03\\carvaka-g14"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+      "display_title": "Soul, Immortality, Rebirth and Liberation",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Soul, Immortality, Rebirth and Liberation.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-04_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-04_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g14\\topic-04_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 14,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-04:learner-v2:g14",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g14\\topic-04_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g14\\topic-04_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-04\\carvaka-g14"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+      "display_title": "Reason, Revelation and Faith",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Reason, Revelation and Faith.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Reason-Revelation-Faith.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Reason-Revelation-Faith.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-05_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-05_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g13\\topic-05_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 13,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-05:learner-v2:g13",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g13\\topic-05_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g13\\topic-05_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-05\\carvaka-g13"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+      "display_title": "Religious Experience: Nature and Object",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Religious Experience: Nature and Object.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Experience.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Experience.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-06_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-06_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 13,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g13",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g13"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+      "display_title": "Religion without God",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Religion without God.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religion-without-God.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religion-without-God.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-07_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-07_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g13\\topic-07_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 13,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-07:learner-v2:g13",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g13\\topic-07_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g13\\topic-07_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-07\\carvaka-g13"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+      "display_title": "Religion and Morality",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Religion and Morality.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religion-and-Morality.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religion-and-Morality.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-08_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-08_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\topic-08_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 13,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-08:learner-v2:g13",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\topic-08_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\topic-08_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-08\\carvaka-g13"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+      "display_title": "Religious Pluralism",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Religious Pluralism.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Pluralism.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Pluralism.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-09_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-09_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 13,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-09:learner-v2:g13",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-09\\carvaka-g13"
+    },
+    {
+      "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+      "display_title": "Religious Language",
+      "syllabus_mapping": "Philosophy Optional, Paper II, Philosophy of Religion repository owner: Religious Language.",
+      "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Language.md",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Language.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\README.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md"
+      ],
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-ii-philosophy-of-religion\\philosophy-paper-ii-philosophy-of-religion-10_Learning-Session.md",
+      "notes_pdf": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\notes\\philosophy-paper-ii-philosophy-of-religion-10_Learning-Session_2026-08-21.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g14\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf",
+      "superseded_v1": null,
+      "status": "generated_unapproved",
+      "generation": 14,
+      "record_id": "philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g14",
+      "approved": false,
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g14\\topic-10_Complete-Learning-Session_2026-09-03.md",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g14\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g14"
+    }
+  ]
+}

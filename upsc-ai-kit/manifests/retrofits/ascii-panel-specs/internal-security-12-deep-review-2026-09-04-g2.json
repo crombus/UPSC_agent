@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-12",
+      "display_title": "Security Forces, Intelligence Coordination and Rights",
+      "active_generation": 2,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Constitutional security map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "STATE LIST 1 -> PUBLIC ORDER",
+            "STATE LIST 2 -> POLICE",
+            "UNION LIST 2A -> UNION FORCE IN AID OF CIVIL POWER",
+            "ARTICLE 355 -> UNION PROTECTIVE DUTY",
+            "RULE -> cooperation, not automatic substitution"
+          ],
+          "source_references": [
+            "Constitutional allocation",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Force-category hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ARMED FORCES -> MILITARY SERVICES",
+            "CAPFs -> UNION POLICE / SECURITY FORCES",
+            "STATE POLICE -> PUBLIC ORDER / CRIME / INVESTIGATION",
+            "SPECIALISED AGENCY -> narrow response, intelligence or investigation role"
+          ],
+          "source_references": [
+            "Force-category boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Current CAPF firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CAPFs -> ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG / SSB",
+            "SEPARATE -> SPG / RPF / INDIAN COAST GUARD",
+            "TRAP -> historical CPMF labels do not control current taxonomy",
+            "RULE -> verify current strength and leadership separately"
+          ],
+          "source_references": [
+            "Current CAPF map",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Mandate fingerprint map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "BSF / ITBP / SSB -> DESIGNATED BORDER ROLES",
+            "CRPF -> INTERNAL SECURITY / PUBLIC-ORDER SUPPORT",
+            "CISF -> INSTALLATIONS / SPECIFIED SECTORS",
+            "ASSAM RIFLES -> DUAL ARRANGEMENT",
+            "COAST GUARD -> MoD MARITIME FORCE"
+          ],
+          "source_references": [
+            "Force-mandate fingerprints",
+            "Dual-and-specialised forces",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Auxiliary and formation facts",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HOME GUARDS -> STATE / UT ACTS + AUXILIARY ROLE",
+            "BORDER WING -> specified border-support contexts",
+            "III / IV / XIV / XXXIII CORPS -> DIMAPUR / TEZPUR / LEH / SUKNA",
+            "LIMIT -> no deployment or readiness inference"
+          ],
+          "source_references": [
+            "Home Guards status",
+            "Army Corps PYQ facts",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "State-police primacy chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LOCAL INTELLIGENCE / COMPLAINT",
+            "-> FIRST RESPONSE / PUBLIC ORDER",
+            "-> EVIDENCE + WITNESS PRESERVATION",
+            "-> INVESTIGATION / HANDOFF",
+            "CENTRAL SUPPORT -> supplements each lawful stage"
+          ],
+          "source_references": [
+            "State-police primacy",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Intelligence cycle",
+          "structural_type": "cycle",
+          "ascii_lines": [
+            "DIRECTION -> COLLECTION -> PROCESSING",
+            "-> ANALYSIS -> DISSEMINATION -> FEEDBACK",
+            "QUALITY TEST -> relevance / corroboration / timeliness",
+            "RIGHTS TEST -> legality / purpose / access / review"
+          ],
+          "source_references": [
+            "Intelligence cycle",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Intelligence institution map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IB -> DOMESTIC INTELLIGENCE",
+            "R&AW -> EXTERNAL INTELLIGENCE",
+            "MAC / SMAC -> SHARING COORDINATION",
+            "NATGRID -> AUTHORISED DATA INTEGRATION",
+            "NONE -> automatic FIR, arrest or conviction"
+          ],
+          "source_references": [
+            "IB-R&AW boundary",
+            "MAC-SMAC coordination",
+            "NATGRID boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Response-investigation split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NSG -> SPECIALISED TACTICAL RESPONSE",
+            "NIA -> SCHEDULED-OFFENCE INVESTIGATION / PROSECUTION",
+            "STATE POLICE -> LOCAL CASE / EVIDENCE / PUBLIC ORDER",
+            "SPECIAL COURT -> JUDICIAL PROCESS"
+          ],
+          "source_references": [
+            "NIA mandate",
+            "NSG mandate",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md"
+          ]
+        },
+        {
+          "title": "Intelligence-to-judgment ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "INTELLIGENCE LEAD",
+            "-> PREVENTIVE / RESPONSE ACTION",
+            "-> FORENSICALLY PRESERVED EVIDENCE",
+            "-> INVESTIGATION / CHARGE / PROSECUTION",
+            "-> JUDICIAL FINDING",
+            "MUST REMEMBER: Security governance separates intelligence collection and assessment,..."
+          ],
+          "source_references": [
+            "Intelligence-evidence chain",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-12_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "Rights and reform architecture",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "PRAKASH SINGH -> STRUCTURE / TENURE / COMPLAINTS",
+            "USE OF FORCE -> LEGALITY / NECESSITY / PROPORTIONALITY",
+            "D.K. BASU -> ARREST / CUSTODY SAFEGUARDS",
+            "PHRA SECTION 19 -> NHRC ARMED-FORCES PROCEDURE",
+            "ARTICLE 33 -> specified service-right restrictions",
+            "CLOSE DISTINCTION: Intelligence is not evidence, UAPA designation is not conviction, NIA..."
+          ],
+          "source_references": [
+            "Police-reform architecture",
+            "Use-of-force legality",
+            "Rights-accountability map",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-12_Learning-Session.md"
+          ]
+        },
+        {
+          "title": "PYQ and accountable-security rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "2023 GS-III -> CHALLENGES + INTELLIGENCE / INVESTIGATIVE ROLES",
+            "2023 PRELIMS -> HOME GUARDS LEGAL-STATUS DISTINCTION",
+            "2026 PRELIMS -> CORPS / HEADQUARTERS; PROVISIONAL KEY",
+            "END -> SHARE / RESPOND / INVESTIGATE / PROSECUTE / REVIEW",
+            "QUALIFY -> mandate, intelligence, evidence and outcome differ",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State constitutional or statutory basis,..."
+          ],
+          "source_references": [
+            "Federal coordination",
+            "Technology-evidence end-state",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-12_Learning-Session.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part A — Physical Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Philosophy Optional\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Indian Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\01-Plato-and-Aristotle\README.txt
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper I — Western Philosophy\INDEX.md
+notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\INDEX.md
+notes\Final-Learning-Packages\Polity\INDEX.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Flow-Learning\Philosophy\Philosophy Optional\01-Plato-and-Aristotle\01-Plato-and-Aristotle-Continuous-Flow-Learning.pdf
+notes\Flow-Learning\Philosophy\Philosophy Optional\01-Plato-and-Aristotle\01-Plato-and-Aristotle-Continuous-Flow-Learning.txt
+notes\Flow-Learning\Philosophy\Philosophy Optional\01-Plato-and-Aristotle\README.txt
+notes\Flow-Learning\Philosophy\Philosophy Optional\INDEX.md
+notes\Flow-Learning\Philosophy\PLATO-ARISTOTLE-FLOW-LEARNING-REPORT-2026-08-26.md
+notes\Flow-Learning\Philosophy\START-HERE.md
+notes\Flow-Learning\Philosophy\TRACKER.md
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\flowcharts\topic-01\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\topic-01_Complete-Learning-Session_2026-08-26.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\topic-01_Solved-Practice-Workbook_2026-08-26.pdf
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\reports\Plato-Aristotle-g2-TOPIC-REPORT-2026-08-26.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\NOTES-PDF-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Philosophy\learning-session-v2\paper-i-western-philosophy\indexes\WORKBOOK-PDF-INDEX.md
+tools\generate_philosophy_western_plato_aristotle_v2.py
+tools\markdown_learning_pdf.py
+tools\validate_v2_export.py
+upsc-ai-kit\knowledge\Ancient-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\CSAT\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Disaster-Management\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Economy\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Environment-and-Ecology\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Essay\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Ethics\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Geography\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Governance\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Indian-Art-and-Culture\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Indian-Society\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Internal-Security\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\International-Relations\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\assets\Plato-Aristotle-Ontology-Bridge.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\topic-01_Complete-Learning-Session_2026-08-26.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Western-Philosophy\learning-sessions\topic-01\g2\topic-01_Solved-Practice-Workbook_2026-08-26.md
+upsc-ai-kit\knowledge\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Medieval-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Modern-Indian-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Philosophy\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Political-Theory\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Polity\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Qualifying-English\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Qualifying-Hindi\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Science-and-Technology\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\Social-Justice\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\knowledge\World-History\LEARNING-SESSION-COMMAND-INDEX.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-26-philosophy-western-01-g2-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-26-philosophy-western-01-g2.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-flow-learning-g2-2026-08-26-validation.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-baseline.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-changed-files.txt
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-record.json
+upsc-ai-kit\manifests\exports\philosophy-paper-i-western-philosophy-01-learner-v2-g2-2026-08-26-validation.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\philosophy--paper-i-western-philosophy-ascii-2026-08-26.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-content-specs\philosophy-paper-i-western-philosophy-01-g2.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy-graphical-specs\philosophy-paper-i-western-philosophy-01-g2.json
+upsc-ai-kit\manifests\v2\philosophy--paper-i-western-philosophy.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

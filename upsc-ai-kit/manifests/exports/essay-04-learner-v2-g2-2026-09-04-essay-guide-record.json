@@ -1,0 +1,53 @@
+{
+  "record_id": "essay-04:learner-v2:g2",
+  "topic_key": "essay-04",
+  "subject": "Essay",
+  "section": "Subject-Wide-Syllabus",
+  "title": "Brainstorming and Dimensional Expansion",
+  "variant": "learner-v2",
+  "generation": 2,
+  "command": "Generate learner-v2 topic: Essay — Subject-wide Syllabus — Brainstorming and Dimensional Expansion",
+  "main_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-04\\g2\\essay-04_Knowledge-Guide_2026-09-04.pdf",
+  "workbook": "notes\\Essay\\Subject-Wide-Syllabus\\essay-04\\g2\\essay-04_Practice-Workbook_2026-09-04.pdf",
+  "solutions_pdf": "notes\\Essay\\Subject-Wide-Syllabus\\essay-04\\g2\\essay-04_Practice-Solutions_2026-09-04.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-04\\essay-04_Knowledge-Guide.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-04\\essay-04_Practice-Workbook.md",
+  "solutions_markdown": "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-04\\essay-04_Practice-Solutions.md",
+  "generated_on": "2026-09-04",
+  "approved": false,
+  "format": {
+    "name": "essay-specific-guide-v1",
+    "learning_sessions": 0,
+    "mcqs": 0,
+    "practice_topics": 3,
+    "practice_solutions": 3,
+    "solved_upsc_questions": 3,
+    "method_drills_retained": 6,
+    "guide_pages": 18,
+    "workbook_pages": 2,
+    "solutions_pages": 6
+  },
+  "provenance": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Essay\\basic\\04_Brainstorming-and-Dimensional-Expansion.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Essay\\advanced\\04_Brainstorming-and-Dimensional-Expansion.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Essay\\basic\\04_Brainstorming-and-Dimensional-Expansion.md": "0ec9fa2122742f3b8d01d470285aa2526dfd10212bd3a2d19c994fbfaf4cf6c8",
+      "upsc-ai-kit\\knowledge\\Essay\\advanced\\04_Brainstorming-and-Dimensional-Expansion.md": "ffcb5fc0e69a66ba907863c3f4a79fc2664e8f37e1798a32d2f082c7378926f2",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-04\\essay-04_Knowledge-Guide.md": "c2e2ccb0a1dde654783d00c51a59cf7965b15d889b99df962b656744b6136095",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-04\\essay-04_Practice-Workbook.md": "2f807775e80532b111e1876c56bfa0363f4a4236ec8f827978a3e2eff4e6c54f",
+      "upsc-ai-kit\\knowledge\\Essay\\subject-wide-syllabus\\essay-04\\essay-04_Practice-Solutions.md": "11c7d1e09034cd4245daccc26db70d6e83354853ffdfdc97d1f0addf3183292b"
+    },
+    "practice_profile": "Question-only Essay workbook with a separate solutions PDF; no MCQs and no learning sessions."
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "essay-04:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-04",
+    "validator": "tools/publish_essay_guides.py"
+  },
+  "refresh_profile": "essay-specific-guide-v1"
+}

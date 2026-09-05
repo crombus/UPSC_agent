@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-04",
+  "scope": "Science and Technology learner-v2 Topic 20",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-20",
+      "display_title": "Emerging Materials, Rare Earths and Critical Minerals",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-20_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Property structure processing map",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "COMPOSITION + BONDING -> intrinsic behaviour",
+            "CRYSTAL / MOLECULAR STRUCTURE -> property pathways",
+            "MICROSTRUCTURE + DEFECTS -> local performance",
+            "PROCESSING -> changes structure and defects",
+            "TEST -> strength != stiffness != toughness != hardness"
+          ],
+          "source_references": [
+            "Material-property structure"
+          ]
+        },
+        {
+          "title": "Advanced materials family",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "ADVANCED MATERIAL -> engineered demanding function",
+            "COMPOSITE -> matrix + reinforcement",
+            "CARBON-FIBRE COMPOSITE -> high specific strength/stiffness",
+            "SMART MATERIAL -> stimulus-responsive property",
+            "EXAMPLES -> shape-memory alloy | piezoelectric material"
+          ],
+          "source_references": [
+            "Advanced composite and smart materials"
+          ]
+        },
+        {
+          "title": "REE classification rail",
+          "structural_type": "classification-table",
+          "ascii_lines": [
+            "REE = 15 LANTHANIDES + SCANDIUM + YTTRIUM",
+            "LIGHT -> La | Ce | Pr | Nd",
+            "HEAVY OWNER EXAMPLES -> Dy | Tb | Y",
+            "MONAZITE -> chiefly light-REE-rich Indian context",
+            "TRAP -> geological occurrence != separated magnet input"
+          ],
+          "source_references": [
+            "Rare earth element definition",
+            "Light-heavy REE distinction"
+          ]
+        },
+        {
+          "title": "Category firewall",
+          "structural_type": "venn-boundary",
+          "ascii_lines": [
+            "CHEMICAL GROUP -> rare earth elements",
+            "POLICY CATEGORY -> critical minerals",
+            "STATUTORY ROUTE -> Part D",
+            "EXPLORATION ROUTE -> Seventh Schedule",
+            "LITHIUM / COBALT / NICKEL / GRAPHITE -> critical may be, REE no"
+          ],
+          "source_references": [
+            "Critical mineral versus rare earth",
+            "Indian mission and policy boundaries",
+            "MMDR exploration and auction distinction"
+          ]
+        },
+        {
+          "title": "Permanent magnet capability ladder",
+          "structural_type": "capability-ladder",
+          "ascii_lines": [
+            "ORE -> SEPARATION -> OXIDE / METAL",
+            "METAL -> ALLOY -> MAGNET",
+            "MAGNET -> MOTOR / ELECTRONICS / DEFENCE",
+            "Nd -> magnetic performance",
+            "Dy / Tb -> high-temperature qualification"
+          ],
+          "source_references": [
+            "Permanent magnet chain"
+          ]
+        },
+        {
+          "title": "Battery mineral role matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LITHIUM -> charge-carrier system input",
+            "NICKEL + COBALT -> NMC / NCA cathodes",
+            "GRAPHITE -> common lithium-ion anode",
+            "LFP -> neither nickel nor cobalt",
+            "SODIUM-ION -> avoids lithium"
+          ],
+          "source_references": [
+            "Battery-mineral chemistry boundary"
+          ]
+        },
+        {
+          "title": "Named application portfolio",
+          "structural_type": "portfolio-wheel",
+          "ascii_lines": [
+            "GALLIUM / GERMANIUM -> high-tech electronics",
+            "COPPER -> electrical systems",
+            "REE -> magnets | phosphors | catalysts | specialised optics",
+            "TITANIUM-BEARING MINERALS -> separate policy / geography input",
+            "MONAZITE -> rare-earth values + thorium-bearing context"
+          ],
+          "source_references": [
+            "Other named uses"
+          ]
+        },
+        {
+          "title": "Mine to technology value chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "EXPLORE -> ASSESS -> DEVELOP -> EXTRACT",
+            "BENEFICIATE -> SEPARATE / REFINE",
+            "OXIDE / METAL / ALLOY -> COMPONENT",
+            "COMPONENT -> BATTERY / MAGNET / CHIP / SYSTEM",
+            "RECYCLE -> recovered feed with purity/economic limits"
+          ],
+          "source_references": [
+            "Mining-to-component chain",
+            "Resource reserve production refining firewall"
+          ]
+        },
+        {
+          "title": "Dependency heat map",
+          "structural_type": "stage-risk-map",
+          "ascii_lines": [
+            "UPSTREAM -> geology | mine | permitting",
+            "MIDSTREAM -> separation | refining | intermediate",
+            "DOWNSTREAM -> cell | magnet | chip | equipment",
+            "ENABLERS -> technology | finance | logistics | offtake",
+            "VERDICT -> secure mine alone is partial security"
+          ],
+          "source_references": [
+            "Supply concentration and strategic dependency",
+            "Diversification overseas access and stocks"
+          ]
+        },
+        {
+          "title": "Circular materials loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "DESIGN -> durability | repair | disassembly",
+            "USE -> reuse / remanufacture",
+            "COLLECT -> sort -> pre-process",
+            "RECOVER -> purify -> re-enter manufacture",
+            "SUBSTITUTE + EFFICIENCY -> reduce primary-material pressure"
+          ],
+          "source_references": [
+            "Recycling urban mining and substitution"
+          ]
+        },
+        {
+          "title": "Mine-life safeguard chain",
+          "structural_type": "hazard-remedy-grid",
+          "ascii_lines": [
+            "SITING -> cumulative impact + consultation",
+            "OPERATIONS -> dust | noise | water | tailings controls",
+            "COMMUNITY -> FRA due diligence | disclosure | grievance",
+            "RECLAMATION -> topsoil | stable dumps | native restoration",
+            "CLOSURE -> finance + monitoring; plan != achieved outcome"
+          ],
+          "source_references": [
+            "Environmental and social impact chain"
+          ]
+        },
+        {
+          "title": "India institutions status and PYQ rail",
+          "structural_type": "institution-status-rail",
+          "ascii_lines": [
+            "MINES -> policy | GSI -> survey/explore | IBM -> plans/conservation",
+            "STATE GRANT + s.11D CENTRAL AUCTION -> distinct roles",
+            "IREL / DAE -> monazite route | KABIL -> overseas route",
+            "MoES / NIOT / ISA -> deep-ocean exploration boundary",
+            "REPORT -> LAW -> APPROVAL -> MOU -> EXPLORATION -> PRODUCTION -> OUTCOME"
+          ],
+          "source_references": [
+            "Indian mission and policy boundaries",
+            "Indian institution map",
+            "MMDR exploration and auction distinction",
+            "Deep-ocean and offshore boundary",
+            "Routed PYQ material tests",
+            "Volatile number and status firewall"
+          ]
+        }
+      ]
+    }
+  ]
+}

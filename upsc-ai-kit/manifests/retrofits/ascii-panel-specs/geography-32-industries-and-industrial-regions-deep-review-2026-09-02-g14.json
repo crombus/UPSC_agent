@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-02",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "map_and_current_status_discipline": true,
+    "human_economic_regional_spatial_control": true,
+    "models_india_data_policy_chronology_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "display_title": "Industries and Industrial Regions",
+      "active_generation": 14,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Industrial geography: terminology and location question",
+          "structural_type": "process-system-overview",
+          "source_references": [
+            "{'sessions': [1, 2], 'sections': ['BASIC LEARNING SESSION', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['60-226', '2058-2096']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "+---------------- INDUSTRIAL GEOGRAPHY ----------------+\n| CENTRAL QUESTION: Why does an activity locate here,  |\n| cluster there, persist, disperse or relocate?         |\n+--------------------------------------------------------+\n                         |\nINDUSTRY = broad organised economic activity\nMANUFACTURING = transformation of material into products\nFACTORY = individual production establishment\nINDUSTRIAL REGION = dense interacting firms, labour and infrastructure\n                         |\nLOCATION FACTOR SYSTEM\nraw material + energy + water + labour + capital + market\n+ transport + land + technology + policy + agglomeration\n                         |\nfirm choice -> supplier links -> labour settlement -> shared services\n                         |\ncluster growth or failure depends on linkage quality and external costs\n\nDo not use factory, manufacturing and industrial region as synonyms.\nMUST REMEMBER: Industrial geography links raw material, energy, labour, capital, market,\n  transport, agglomeration and policy through Weber's least-cost theory, Lösch's market areas,\n  growth-pole and product-cycle/network perspectives, then maps old and new industrial regions\n  at world and India scales."
+        },
+        {
+          "title": "Ranked location factors and industrial orientation",
+          "structural_type": "classification-table-and-decision-tree",
+          "source_references": [
+            "{'sessions': [2, 4], 'sections': ['BASIC LEARNING SESSION'], 'markdown_lines': ['140-226', '337-410']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "FIRST ASK: Which cost, risk or capability dominates this industry?\n                             |\n       +---------------------+----------------------+\n       |                     |                      |\nRAW-MATERIAL            MARKET                 FOOTLOOSE / SKILL\nweight loss             perishability          high value-to-weight\nbulk or fragility       custom demand          knowledge and networks\n       |                     |                      |\nore processing          food/bakery             electronics / IT-linked\n       +---------------------+----------------------+\n                             |\nPORT ORIENTATION: imported input + export market + deep logistics\nPOWER ORIENTATION: energy-intensive process\nLABOUR ORIENTATION: skill, wage, productivity and labour ecosystem\nSTATE ORIENTATION: serviced land, trunk utility and policy support\n                             |\nRANK FACTORS BY PROCESS STAGE\ninput -> transformation -> assembly -> distribution -> after-sales\n\nA multi-stage value chain can split across several locations."
+        },
+        {
+          "title": "Weber's least-cost theory in six analytical steps",
+          "structural_type": "causal-decision-chain",
+          "source_references": [
+            "{'sessions': [3], 'sections': ['BASIC LEARNING SESSION'], 'markdown_lines': ['227-336']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "1. LOCATE raw-material sources and market\n                         |\n2. CLASSIFY inputs: ubiquitous or localised; pure or weight-losing\n                         |\n3. COMPARE transport burden through the material index\n                         |\n4. FIND transport-minimum point within the locational triangle\n                         |\n5. TEST labour saving against added transport cost\n                         |\n6. TEST agglomeration saving against congestion and dispersion cost\n                         |\n                 LEAST TOTAL COST LOCATION\n\nTRANSPORT COST + LABOUR COST + AGGLOMERATION ECONOMY\n                         |\nMODERN QUALIFICATION\ncontainers + roads + reliable power + data + regulation + value chains\nalter cost surfaces, but distance, weight, time and reliability still matter.\n\nWeber explains a baseline mechanism, not every final location."
+        },
+        {
+          "title": "Major world industrial regions and their geographic mechanisms",
+          "structural_type": "global-spatial-distribution-table",
+          "source_references": [
+            "{'sessions': [5], 'sections': ['BASIC LEARNING SESSION'], 'markdown_lines': ['411-483']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "+----------------------+--------------------------------------------+\n| REGION               | MECHANISM                                  |\n+----------------------+--------------------------------------------+\n| NE United States     | market + Great Lakes + transport + skills  |\n| Ruhr / NW Europe     | coal legacy + Rhine links + dense markets  |\n| Midlands / N Italy   | old industry + SMEs + European networks    |\n| Japan Pacific Belt   | ports + imported inputs + coastal markets  |\n| China coastal belt   | ports + labour + FDI + supplier depth      |\n| South Korea corridor | ports + chaebol networks + technology      |\n+----------------------+--------------------------------------------+\n\nCOMMON EVOLUTION\nresource or port advantage -> firm concentration -> suppliers and labour\n-> infrastructure and knowledge -> diversification -> industrial inertia\n\nRESTRUCTURING PRESSURE\nold plant + pollution + land cost + global competition\n-> upgrading, decline, relocation or service transition\n\nThe same label hides different factor combinations and historical paths."
+        },
+        {
+          "title": "India's layered industrial map: belts, clusters and corridors",
+          "structural_type": "india-regional-map-hierarchy",
+          "source_references": [
+            "{'sessions': [5, 7], 'sections': ['OPTIONAL ADVANCED DEPTH', \"India's industrial geography\", 'Corridors and planned industrial space'], 'markdown_lines': ['1689-1762']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "INDIA'S LAYERED INDUSTRIAL GEOGRAPHY\nChota Nagpur / Damodar : coal + ore + rail -> steel, power, engineering\nMumbai-Pune            : port + market + capital -> diversified industry\nAhmedabad-Vadodara     : cotton + enterprise -> textile, chemical, engineering\nChennai-Bengaluru      : ports + skill -> auto, electronics, machinery\nCoimbatore-Tiruppur    : textile base + SMEs -> knitwear, pumps, machinery\nDelhi-NCR              : market + policy + logistics -> diversified cluster\nVisakhapatnam/east     : port + mineral hinterland -> metal and petro industry\n                         |\nCORRIDOR OVERLAY\nfreight spine / expressway / port -> planned node -> trunk utilities\n-> firms and suppliers -> labour settlements -> possible industrial region\n                         |\nDMIC west | AKIC east | Chennai-Bengaluru | Vizag-Chennai\n\nNew corridors overlay inherited belts; they do not erase brownfield depth."
+        },
+        {
+          "title": "Agglomeration, deglomeration, inertia and regional divergence",
+          "structural_type": "comparison-and-feedback-loop",
+          "source_references": [
+            "{'sessions': [6], 'sections': ['BASIC LEARNING SESSION', 'Institutions, regional imbalance and spread-backwash test'], 'markdown_lines': ['484-568', '1799-1833']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "AGGLOMERATION LOOP\nfirms cluster -> shared suppliers + labour + services + knowledge\n-> lower transaction cost -> more firms and skill -> deeper cluster\n                         |\n                 CONGESTION THRESHOLD\nland cost + traffic + pollution + water stress + labour pressure\n                         |\nDEGLOMERATION\nselected plants or stages move outward to cheaper connected sites\n                         |\nINDUSTRIAL INERTIA\nsunk capital + supplier ties + skill + reputation keep old region active\n\nREGIONAL OUTCOME TEST\nSPREAD: local suppliers + training + demand + infrastructure diffusion\nBACKWASH: talent/capital drain + enclave links + land displacement\n                         |\nA large plant creates convergence only when local capability and linkages grow."
+        },
+        {
+          "title": "State, corridors, PLI and the industrial intervention stack",
+          "structural_type": "institutional-intervention-stack",
+          "source_references": [
+            "{'sessions': [7, 8], 'sections': ['BASIC LEARNING SESSION', 'PLI and the new sector-specific industrial map', 'Institutions'], 'markdown_lines': ['569-735', '1723-1833']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "NATIONAL POLICY: DPIIT / ministries define frameworks and incentives\n                         |\nCORRIDOR GOVERNANCE: NICDIT / SPVs plan nodes and trunk systems\n                         |\nSTATE AGENCIES: land + utilities + approvals + local industrial estates\n                         |\nNETWORK ACTORS: rail freight + ports + roads + power + digital systems\n                         |\nFIRM ECOSYSTEM: anchor producer + suppliers + skills + testing + finance\n                         |\nURBAN SUPPORT: housing + mobility + water + waste + social services\n                         |\nOUTCOME: production + jobs + local linkages + lower logistics cost\n\nSTATUS FIREWALL\noutlay -> application -> investment -> production -> incentive -> wider outcome\n\nPLI may reinforce capable clusters unless weaker regions gain real ecosystems.\nA transport line becomes a corridor only through functioning nodes and linkages."
+        },
+        {
+          "title": "Map-answer and Mains spine for industrial location and regions",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": [
+            "{'sessions': [2, 3, 5, 6, 7, 8], 'sections': ['PYQS AND ANSWER PRACTICE', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['1867-1895', '2058-2258']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ],
+          "ascii_text": "QUESTION: How is India's industrial geography being reorganised?\n                             |\n1. DEFINE: factory, manufacturing, cluster, region and corridor\n                             |\n2. MAP: mineral east | western port belt | southern skill arcs | NCR\n                             |\n3. EXPLAIN INHERITED LOCATION\n   raw material + port + market + labour + transport + agglomeration\n                             |\n4. ADD NEW NETWORK LOGIC\n   freight corridor + planned node + supplier ecosystem + incentives\n                             |\n5. TEST REGIONAL EFFECT\n   jobs + local procurement + skill transfer versus enclave/backwash\n                             |\n6. QUALIFY STATUS\n   announcement, construction, operation and outcome need separate evidence\n                             |\n7. VERDICT\n   designed concentration becomes development only when logistics,\n   suppliers, skills, settlements, ecology and institutions work together."
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = grounded source = synthesis / exam heuristic = verified dated...",
+            "2. Raw material Weight-losing or bulky industries may stay near source",
+            "3. Material index If raw materials are bulky / weight-losing, source...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Trap: A named factory is evidence only when it proves a mechanism. Do...",
+            "2. SCALE + MODEL / DATA / POLICY LIMIT",
+            "3. Trap: Manufacturing data, factory-sector data and employment...",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTION: Industry, manufacturing and factory employment are not synonyms;",
+            "  localisation economies differ from urbanisation economies, industrial corridor from a single",
+            "  estate or transport line, footloose from location-free, and deindustrialisation can be",
+            "  relative employment/output change rather than disappearance."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Practice contract Every solved item has demand decoding, a detailed...",
+            "2. Visual first: the topic moves from precise terms to factors, theory,...",
+            "3. ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "EVIDENCE LIMIT: Chotanagpur, Mumbai–Pune, Gujarat, Hugli, Bengaluru–Tamil Nadu, NCR and",
+            "  Visakhapatnam–Guntur contrast with Ruhr, Great Lakes, Japan's Pacific Belt and China's",
+            "  coast; Jamshedpur, petrochemical ports, auto clusters, electronics/services and DMIC show",
+            "  changing weights of material, market, skills and logistics."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = grounded source = synthesis / exam heuristic = verified dated...",
+            "2. Raw material Weight-losing or bulky industries may stay near source",
+            "3. Material index If raw materials are bulky / weight-losing, source...",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\32_Industries-and-Industrial-Regions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g14\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-02.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

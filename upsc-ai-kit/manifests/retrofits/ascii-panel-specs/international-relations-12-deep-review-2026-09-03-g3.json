@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "workflow": "international relations-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "international relations_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-12",
+      "display_title": "UN and International Institutions: Global Governance",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Central question and the four reform dimensions",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CENTRAL QUESTION -> why is reform discussed for decades without being achieved?",
+            "ANSWER -> reform is four separable questions, not one",
+            "DIMENSION 1 REPRESENTATION -> who sits at the table",
+            "DIMENSION 2 DECISION-MAKING -> the concurring-vote requirement",
+            "DIMENSION 3 FINANCING -> who funds and who decides spending priorities",
+            "DIMENSION 4 COMPLIANCE -> binding decisions against implementation gaps",
+            "INDIA'S PHILOSOPHY -> a renewed, not a retired, United Nations",
+            "BOUNDARY -> creation-era chronology to World History; lending and trade",
+            "  mechanics to Economy; climate targets to topic 11; G20 and BRICS to topic 10",
+            "MUST REMEMBER: Global governance distributes authority across the UN Charter system,...",
+            "MUST REMEMBER: Global governance distributes authority across the UN Charter system,..."
+          ],
+          "source_references": [
+            "What this global-governance owner holds and how its boundaries are routed",
+            "The reform coalition, the process it replaced and the wider demand",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The Charter's own words on composition and obligation",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "ARTICLE 23 -> the Council shall consist of fifteen Members",
+            "  permanent as printed: Republic of China, France, Union of Soviet Socialist",
+            "  Republics, United Kingdom of Great Britain and Northern Ireland,",
+            "  United States of America",
+            "  ten elected by the Assembly; due regard to contribution to peace and",
+            "  security and to equitable geographical distribution",
+            "  two-year term; a retiring member is not eligible for immediate re-election",
+            "ARTICLE 24 -> primary responsibility for international peace and security;",
+            "  the Council acts on behalf of the Members; powers in Chapters VI, VII,",
+            "  VIII and XII; annual and special reports to the Assembly",
+            "ARTICLE 25 -> Members agree to accept and carry out Council decisions",
+            "ARTICLE 29 -> the Council may establish subsidiary organs as it deems necessary"
+          ],
+          "source_references": [
+            "Composition and election under the Charter's own words",
+            "What a Council decision actually obliges and where its powers come from",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "What the word veto actually denotes",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ARTICLE 27(1) -> each member of the Council shall have one vote",
+            "ARTICLE 27(2) -> procedural matters: an affirmative vote of nine members",
+            "ARTICLE 27(3) -> all other matters: an affirmative vote of nine members",
+            "  INCLUDING the concurring votes of the permanent members",
+            "PROVISO -> in decisions under Chapter VI and under Article 52(3),",
+            "  a party to a dispute shall abstain from voting",
+            "CONSEQUENCE -> the veto is the concurring-vote requirement, not a named power",
+            "DESIGN RATIONALE -> keep major powers inside the system after the League",
+            "PARADOX -> the same requirement blocks the reform it is asked to permit"
+          ],
+          "source_references": [
+            "The voting rule and what the word veto precisely denotes",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The amendment lock in two articles",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ARTICLE 108 -> amendments come into force for all Members when",
+            "  adopted by two thirds of the members of the General Assembly",
+            "  AND ratified by two thirds of the Members of the United Nations,",
+            "  INCLUDING all the permanent members of the Security Council",
+            "ARTICLE 109 -> a General Conference to review the Charter may be held",
+            "  on a two-thirds Assembly vote and a vote of any nine Council members",
+            "  any alteration it recommends takes effect on the same ratification rule",
+            "CONSEQUENCE -> expansion of the permanent category needs ratification by",
+            "  exactly the states whose relative position it would change",
+            "ANSWER LINE -> the impasse is structural before it is geopolitical"
+          ],
+          "source_references": [
+            "The amendment rule that locks the whole reform debate",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "India inside the Council and its committees",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2011-12 -> non-permanent term; elected by record margin, with Germany and",
+            "  South Africa; Brazil and Nigeria halfway through their own terms",
+            "  India chairs the Counter-Terrorism Committee during this term",
+            "28 SEPTEMBER 2001 -> the Committee is established by resolution 1373",
+            "28-29 OCTOBER 2022 -> India hosts a special meeting of the Committee",
+            "29 OCTOBER 2022 -> Delhi Declaration on terrorist misuse of new and",
+            "  emerging technologies",
+            "2021-22 -> most recent non-permanent term",
+            "2025 -> resolution 2810 renews the Executive Directorate to 5 January 2029",
+            "13 JULY 2026 -> India launches its candidature for the 2028-29 term",
+            "LIMIT -> the Committee coordinates and monitors; it does not enforce"
+          ],
+          "source_references": [
+            "India's participation record inside the existing structure",
+            "The counter-terrorism committee's coordinating mandate and its expert arm",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Which counter-terrorism body does what",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COUNTER-TERRORISM COMMITTEE -> created by resolution 1373 (2001)",
+            "  FUNCTION: monitor and coordinate member-state implementation",
+            "  ARM: the Executive Directorate assesses capacity; mandate to 5 January 2029",
+            "  POWER: no independent enforcement; compliance rests on national capacity",
+            "1267 / 1989 / 2253 SANCTIONS COMMITTEE -> ISIL (Da'esh) and Al-Qaida",
+            "  FUNCTION: listings, supported by its Monitoring Team",
+            "FINANCIAL ACTION TASK FORCE -> a separate intergovernmental standard-setter",
+            "  FUNCTION: anti-money-laundering and counter-terrorist-financing standards",
+            "RULE -> neither substitutes for national investigation and prosecution",
+            "EXAM USE -> name the body before judging effectiveness"
+          ],
+          "source_references": [
+            "The counter-terrorism committee's coordinating mandate and its expert arm",
+            "The judicial-body distinction and India's own treaty position",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The reform process at its exact evidentiary level",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2010 -> the Group of Four takes the debate away from the Open-Ended",
+            "  Working Group, per Tharoor; India, Brazil, Germany, Japan",
+            "22 SEPTEMBER 2024 -> Pact for the Future adopted at the Summit of the Future",
+            "  Annex I Global Digital Compact | Annex II Declaration on Future Generations",
+            "25 SEPTEMBER 2025 -> Group of Four Foreign Ministers' joint statement,",
+            "  New York: both categories; Common African Position in the Ezulwini",
+            "  Consensus and Sirte Declaration; strong concern at absent progress;",
+            "  consensus is not a decision-making requirement",
+            "31 OCTOBER 2025 -> Kuwait and the Netherlands appointed IGN co-chairs",
+            "20 APRIL 2026 -> India's IGN intervention on the African model:",
+            "  26-member Council; both categories; veto parity, all or none",
+            "3 AUGUST 2026 -> neither a consolidated model nor text-based negotiations"
+          ],
+          "source_references": [
+            "The reform coalition, the process it replaced and the wider demand",
+            "The coalition's dated statement and the Common African Position",
+            "India's stated national position at the negotiations",
+            "The negotiation's status and the two things the Assembly has not done",
+            "The summit outcome document and its two annexes",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Where institutional change is actually happening",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "TRACK THAT NEEDS RATIFICATION -> Security Council composition and veto",
+            "  STATUS: blocked by Article 108",
+            "ADMINISTRATIVE TRACK -> UN80 Initiative, launched 12 March 2025",
+            "  Secretariat efficiency, mandate-implementation review, realignment",
+            "SELECTION TRACK -> Secretary-General post falls vacant 31 December 2026;",
+            "  process initiated by joint letter of the two Presidents, 25 November 2025,",
+            "  under resolution 79/327 of 5 September 2025",
+            "ADJUDICATIVE TRACK -> ICJ advisory opinion on climate obligations, 23 July 2025",
+            "TREATY TRACK -> BBNJ Agreement in force 17 January 2026; India signed",
+            "  25 September 2024 without ratifying, so India is not a party",
+            "OBSERVATION -> change migrates to the tracks that need no ratification"
+          ],
+          "source_references": [
+            "The reform tracks that bypass Charter amendment altogether",
+            "Financial and trade governance as the parallel reform dimension",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "The Court's advisory function and its exact limit",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM -> organisations cannot be parties to a contentious case",
+            "  RESPONSE: only States are entitled to appear in contentious proceedings",
+            "  RESPONSE: the advisory procedure is open to five United Nations organs,",
+            "  fifteen specialized agencies and one related organization, and to them alone",
+            "PROCESS -> written request addressed to the Registrar; written and oral phases",
+            "BINDINGNESS -> advisory opinions are not binding, except in rare cases where",
+            "  expressly provided, such as the Conventions on Privileges and Immunities",
+            "  and the United Nations Headquarters Agreement",
+            "EFFECT -> the requesting body decides what effect to give the opinion",
+            "WEIGHT -> great legal weight and moral authority nonetheless",
+            "INSTANCE -> climate-obligations opinion, 23 July 2025; due diligence,",
+            "  prevention of significant harm, cooperation, State responsibility on breach"
+          ],
+          "source_references": [
+            "The Court's advisory function and the exact limit of an advisory opinion",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Peacekeeping principles and India's record",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PRINCIPLE 1 -> consent of the parties; consent at the top is not consent below",
+            "PRINCIPLE 2 -> impartiality; impartial in dealings, not neutral in the mandate",
+            "PRINCIPLE 3 -> non-use of force except in self-defence and defence of mandate",
+            "STATUS -> the three principles are inter-related and mutually reinforcing",
+            "NOT AN ENFORCEMENT TOOL -> tactical force only with Council authorization",
+            "ROBUST PEACEKEEPING -> not peace enforcement under Chapter VII",
+            "INDIA -> more than 275,000 personnel in over fifty missions since 1948",
+            "INDIA -> first all-women Formed Police Unit, Liberia, 2007",
+            "LIMIT -> contribution does not automatically yield a permanent seat",
+            "CLOSE DISTINCTION: UN organ, specialised agency, related organisation, treaty body and...",
+            "CLOSE DISTINCTION: UN organ, specialised agency, related organisation, treaty body and..."
+          ],
+          "source_references": [
+            "Peacekeeping principles and what India's contribution does and does not buy",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Specialised agencies under funding and delivery stress",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EDUCATION AND CULTURE AGENCY -> created 1945; General Conference of all",
+            "  members; 58-member Executive Board; Director-General-led Secretariat",
+            "  administers the 1972 World Heritage Convention through Committee and List",
+            "  US withdrawal announced 2017, effective 31 December 2018; return 2023 with",
+            "  an arrears plan; new notification July 2025, effective end-December 2026",
+            "  STATUS on 3 August 2026: still a member; notification is not withdrawal",
+            "  India re-elected to the Executive Board for 2025-29",
+            "HEALTH AGENCY -> Assembly supreme; Executive Board effectuates; Secretariat",
+            "  no emergency determination at the first meeting, 22-23 January 2020;",
+            "  declaration on 30 January 2020",
+            "  COVAX: close to two billion doses to 146 economies; closed end-2023",
+            "  Pandemic Agreement adopted 20 May 2025; annex unfinished; 60 ratifications",
+            "  2024 International Health Regulations amendments in force 19 September 2025",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify membership, voting rule,...",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify membership, voting rule,..."
+          ],
+          "source_references": [
+            "The specialised agencies as the effectiveness test",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a United Nations or institutions demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the organ or body and the instrument that created it",
+            "RULE -> quote the governing article: composition, obligation, voting, amendment",
+            "MANDATE -> state what the body coordinates, decides or adjudicates",
+            "EVIDENCE -> one dated instrument with its exact evidentiary level attached",
+            "REFORM -> separate representation, decision-making, financing and compliance",
+            "STATUS -> no consolidated model and no text-based negotiations as of the date",
+            "CONCEDE -> counter-coalition opposition; contribution is not entitlement;",
+            "  adoption without ratification is not an operating legal regime",
+            "OWNERSHIP -> the 2024 counter-terrorism, 2025 reform, 2019 agency-funding,",
+            "  2020 health and 2022 climate-fora demands are the routed Mains questions",
+            "CLOSE -> renewed, not retired; predict no outcome and no timeline"
+          ],
+          "source_references": [
+            "Honest question ownership for this global-governance owner",
+            "The negotiation's status and the two things the Assembly has not done",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g3\\international-relations-12_Complete-Learning-Session_2026-09-03.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

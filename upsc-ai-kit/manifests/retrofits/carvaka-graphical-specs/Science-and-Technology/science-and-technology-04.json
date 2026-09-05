@@ -1,0 +1,1112 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-04",
+  "subject": "Science-and-Technology",
+  "title": "NUCLEAR POWER AND THE THREE-STAGE PROGRAMME",
+  "short_route": "FISSION-TO-GRID CHAIN → CRITICALITY MILESTONE LADDER → CORE-CONTROL FUNCTION MAP → THERMAL-FAST COMPARISON → FISSILE-FERTILE CONVERSION MAP → THREE-STAGE PROGRAMME RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-04_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-04-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "101bf9f1e26ef3ea98a5f940a34fc5067de834ffc241d254670b4b35b90496b2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FISSION-TO-GRID CHAIN",
+      "structural_type": "process-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FISSION-TO-GRID CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "HEAVY NUCLEUS SPLITS AND RELEASES HEAT PLUS NEUTRONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOVES CORE HEAT",
+          "role": "comparison"
+        },
+        {
+          "text": "STEAM SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVERTS HEAT INTO WORKING-FLUID ENERGY",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCES ELECTRICITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REACTOR CAPACITY IS NOT ELECTRICITY GENERATED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FISSION → heavy nucleus splits and releases heat plus neutrons",
+        "COOLANT → removes core heat",
+        "STEAM SYSTEM → converts heat into working-fluid energy",
+        "TURBINE-GENERATOR → produces electricity",
+        "RULE → reactor capacity is not electricity generated"
+      ],
+      "matrix": [
+        [
+          "STARTING CONDITION / INPUT",
+          "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "OUTPUT / FAILURE BOUNDARY"
+        ],
+        [
+          "FISSION → heavy nucleus splits and releases heat plus neutrons",
+          "STEAM SYSTEM → converts heat into working-fluid energy",
+          "RULE → reactor capacity is not electricity generated"
+        ],
+        [
+          "COOLANT → removes core heat",
+          "TURBINE-GENERATOR → produces electricity",
+          "FISSION → heavy nucleus splits and releases heat plus neutrons"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "FISSION → heavy nucleus splits and releases heat plus neutrons",
+            "COOLANT → removes core heat"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEAM SYSTEM → converts heat into working-fluid energy",
+            "TURBINE-GENERATOR → produces electricity"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → reactor capacity is not electricity generated",
+            "FISSION → heavy nucleus splits and releases heat plus neutrons"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → reactor capacity is not electricity generated.",
+      "source_references": [
+        "Fission-power chain",
+        "Capacity-generation boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CRITICALITY MILESTONE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRITICALITY MILESTONE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CHAIN REACTION DECLINES",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST CRITICALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROLLED SELF-SUSTAINING REACTION BEGINS",
+          "role": "evidence"
+        },
+        {
+          "text": "POWER ASCENSION",
+          "role": "mechanism"
+        },
+        {
+          "text": "TESTED INCREASE TOWARD RATED CONDITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "GRID SYNCHRONISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERATOR CONNECTS TO GRID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUBCRITICAL → chain reaction declines",
+        "FIRST CRITICALITY → controlled self-sustaining reaction begins",
+        "POWER ASCENSION → tested increase toward rated conditions",
+        "GRID SYNCHRONISATION → generator connects to grid",
+        "COMMERCIAL OPERATION → later declared operating status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SUBCRITICAL → chain reaction declines",
+            "FIRST CRITICALITY → controlled self-sustaining reaction begins"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POWER ASCENSION → tested increase toward rated conditions",
+            "GRID SYNCHRONISATION → generator connects to grid"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "COMMERCIAL OPERATION → later declared operating status",
+            "SUBCRITICAL → chain reaction declines"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POWER ASCENSION → tested increase toward rated conditions.",
+      "source_references": [
+        "Criticality boundary",
+        "Capacity-generation boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CORE-CONTROL FUNCTION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CORE-CONTROL FUNCTION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROL RODS",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSORB NEUTRONS AND REGULATE REACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SLOWS NEUTRONS IN A THERMAL REACTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFERS HEAT OUT OF THE CORE",
+          "role": "primary"
+        },
+        {
+          "text": "BARRIER AGAINST RADIOACTIVE RELEASE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR FUNCTIONS, FOUR DIFFERENT ANSWERS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONTROL RODS → absorb neutrons and regulate reactivity",
+        "MODERATOR → slows neutrons in a thermal reactor",
+        "COOLANT → transfers heat out of the core",
+        "CONTAINMENT → barrier against radioactive release",
+        "RULE → four functions, four different answers"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "CONTROL RODS → absorb neutrons and regulate reactivity",
+          "COOLANT → transfers heat out of the core",
+          "RULE → four functions, four different answers"
+        ],
+        [
+          "MODERATOR → slows neutrons in a thermal reactor",
+          "CONTAINMENT → barrier against radioactive release",
+          "CONTROL RODS → absorb neutrons and regulate reactivity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "CONTROL RODS → absorb neutrons and regulate reactivity",
+            "MODERATOR → slows neutrons in a thermal reactor"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COOLANT → transfers heat out of the core",
+            "CONTAINMENT → barrier against radioactive release"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → four functions, four different answers",
+            "CONTROL RODS → absorb neutrons and regulate reactivity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COOLANT → transfers heat out of the core.",
+      "source_references": [
+        "Control-safety boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THERMAL-FAST COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THERMAL-FAST COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "THERMAL REACTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "MODERATED SLOWER-NEUTRON SPECTRUM",
+          "role": "comparison"
+        },
+        {
+          "text": "FAST REACTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "NO MODERATOR AND FAST-NEUTRON SPECTRUM",
+          "role": "caution"
+        },
+        {
+          "text": "HEAVY-WATER MODERATED STAGE-1 WORKHORSE",
+          "role": "outcome"
+        },
+        {
+          "text": "BREEDING OBJECTIVE WITH FERTILE BLANKET",
+          "role": "comparison"
+        },
+        {
+          "text": "COOLANT ALONE DOES NOT DEFINE THE SPECTRUM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "THERMAL REACTOR → moderated slower-neutron spectrum",
+        "FAST REACTOR → no moderator and fast-neutron spectrum",
+        "PHWR → heavy-water moderated Stage-1 workhorse",
+        "FBR → breeding objective with fertile blanket",
+        "RULE → coolant alone does not define the spectrum"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "THERMAL REACTOR → moderated slower-neutron spectrum",
+          "PHWR → heavy-water moderated Stage-1 workhorse",
+          "RULE → coolant alone does not define the spectrum"
+        ],
+        [
+          "FAST REACTOR → no moderator and fast-neutron spectrum",
+          "FBR → breeding objective with fertile blanket",
+          "THERMAL REACTOR → moderated slower-neutron spectrum"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "THERMAL REACTOR → moderated slower-neutron spectrum",
+            "FAST REACTOR → no moderator and fast-neutron spectrum"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PHWR → heavy-water moderated Stage-1 workhorse",
+            "FBR → breeding objective with fertile blanket"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → coolant alone does not define the spectrum",
+            "THERMAL REACTOR → moderated slower-neutron spectrum"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → coolant alone does not define the spectrum.",
+      "source_references": [
+        "Thermal-fast boundary",
+        "Stage-1 boundary",
+        "Stage-2 boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FISSILE-FERTILE CONVERSION MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FISSILE-FERTILE CONVERSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "FISSILE MATERIALS",
+          "role": "outcome"
+        },
+        {
+          "text": "NEUTRON CAPTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "PU-239 PATHWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "NEUTRON CAPTURE AND DECAY",
+          "role": "primary"
+        },
+        {
+          "text": "U-233 PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "NEEDS IRRADIATION AND CONVERSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "U-235 / PU-239 / U-233 → fissile materials",
+        "U-238 → neutron capture → PU-239 pathway",
+        "TH-232 → neutron capture and decay → U-233 pathway",
+        "FERTILE MATERIAL → needs irradiation and conversion",
+        "RULE → resource abundance is not ready reactor fuel"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "U-235 / PU-239 / U-233 → fissile materials",
+            "U-238 → neutron capture → PU-239 pathway"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TH-232 → neutron capture and decay → U-233 pathway",
+            "FERTILE MATERIAL → needs irradiation and conversion"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → resource abundance is not ready reactor fuel",
+            "U-235 / PU-239 / U-233 → fissile materials"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → resource abundance is not ready reactor fuel.",
+      "source_references": [
+        "Fissile-fertile boundary",
+        "Thorium-U233 boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE-STAGE PROGRAMME RAIL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THREE-STAGE PROGRAMME RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "STAGE 1",
+          "role": "outcome"
+        },
+        {
+          "text": "PHWR, NATURAL URANIUM AND PLUTONIUM-BEARING SPENT FUEL",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATES MATERIAL FOR THE BREEDER BRIDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "STAGE 2",
+          "role": "primary"
+        },
+        {
+          "text": "FAST BREEDER AND FISSILE-INVENTORY MULTIPLICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THORIUM IRRADIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PREPARES U-233 ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAGE 1 → PHWR, natural uranium and plutonium-bearing spent fuel",
+        "REPROCESSING → separates material for the breeder bridge",
+        "STAGE 2 → fast breeder and fissile-inventory multiplication",
+        "THORIUM IRRADIATION → prepares U-233 route",
+        "STAGE 3 → long-term thorium-U-233 utilisation horizon"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "STAGE 1 → PHWR, natural uranium and plutonium-bearing spent fuel",
+            "REPROCESSING → separates material for the breeder bridge"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "STAGE 2 → fast breeder and fissile-inventory multiplication",
+            "THORIUM IRRADIATION → prepares U-233 route"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "STAGE 3 → long-term thorium-U-233 utilisation horizon",
+            "STAGE 1 → PHWR, natural uranium and plutonium-bearing spent fuel"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STAGE 2 → fast breeder and fissile-inventory multiplication.",
+      "source_references": [
+        "Stage-1 boundary",
+        "Plutonium-stream boundary",
+        "Stage-2 boundary",
+        "Stage-3 boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PFBR STATUS CARD",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PFBR STATUS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "IGCAR FAST-REACTOR AND SODIUM EXPERTISE",
+          "role": "outcome"
+        },
+        {
+          "text": "BHAVINI PROJECT RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "500 MWE DESIGN VALUE IN FETCHED DAE TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "6 APRIL 2026",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST CRITICALITY ACHIEVED",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT ESTABLISHED",
+          "role": "caution"
+        },
+        {
+          "text": "GRID SYNCHRONISATION OR COMMERCIAL OPERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DESIGN → IGCAR fast-reactor and sodium expertise",
+        "BUILD / COMMISSION → BHAVINI project responsibility",
+        "RATING → 500 MWe design value in fetched DAE text",
+        "6 APRIL 2026 → first criticality achieved",
+        "NOT ESTABLISHED → grid synchronisation or commercial operation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DESIGN → IGCAR fast-reactor and sodium expertise",
+            "BUILD / COMMISSION → BHAVINI project responsibility"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RATING → 500 MWe design value in fetched DAE text",
+            "6 APRIL 2026 → first criticality achieved"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "NOT ESTABLISHED → grid synchronisation or commercial operation",
+            "DESIGN → IGCAR fast-reactor and sodium expertise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT ESTABLISHED → grid synchronisation or commercial operation.",
+      "source_references": [
+        "PFBR-status boundary",
+        "IGCAR-BHAVINI boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CLOSED FUEL-CYCLE LOOP",
+      "structural_type": "cyclic-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLOSED FUEL-CYCLE LOOP",
+          "role": "mechanism"
+        },
+        {
+          "text": "REACTOR IRRADIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGES ISOTOPIC COMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGES HEAT AND RADIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATES REUSABLE FISSILE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "REMOTE FABRICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PREPARES NEW FUEL",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSES MATERIAL ACCOUNTING LOOP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REACTOR IRRADIATION → changes isotopic composition",
+        "COOLING / HANDLING → manages heat and radiation",
+        "REPROCESSING → separates reusable fissile material",
+        "REMOTE FABRICATION → prepares new fuel",
+        "REUSE / WASTE → closes material accounting loop"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "REACTOR IRRADIATION → changes isotopic composition",
+            "COOLING / HANDLING → manages heat and radiation"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPROCESSING → separates reusable fissile material",
+            "REMOTE FABRICATION → prepares new fuel"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "REUSE / WASTE → closes material accounting loop",
+            "REACTOR IRRADIATION → changes isotopic composition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REUSE / WASTE → closes material accounting loop.",
+      "source_references": [
+        "Plutonium-stream boundary",
+        "Thorium-U233 boundary",
+        "Closed-cycle boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INSTITUTIONAL SEPARATION",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL SEPARATION",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNMENTAL POLICY AND STRATEGIC UMBRELLA",
+          "role": "outcome"
+        },
+        {
+          "text": "REACTOR AND FUEL-CYCLE R&D",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMERCIAL CIVILIAN PLANT DEVELOPER AND OPERATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFETY REVIEW AND REGULATORY OVERSIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "PROMOTER, LABORATORY, OPERATOR AND REGULATOR DIFFER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DAE → governmental policy and strategic umbrella",
+        "BARC → reactor and fuel-cycle R&D",
+        "NPCIL → commercial civilian plant developer and operator",
+        "AERB → safety review and regulatory oversight",
+        "RULE → promoter, laboratory, operator and regulator differ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DAE → governmental policy and strategic umbrella",
+            "BARC → reactor and fuel-cycle R&D"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NPCIL → commercial civilian plant developer and operator",
+            "AERB → safety review and regulatory oversight"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → promoter, laboratory, operator and regulator differ",
+            "DAE → governmental policy and strategic umbrella"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → promoter, laboratory, operator and regulator differ.",
+      "source_references": [
+        "DAE-BARC boundary",
+        "Operator-regulator boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FUEL-AND-PROJECT CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FUEL-AND-PROJECT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "URANIUM MINING AND MILLING",
+          "role": "outcome"
+        },
+        {
+          "text": "FUEL AND REACTOR-COMPONENT FABRICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MONAZITE, THORIUM AND RARE-EARTH PROCESSING LINK",
+          "role": "evidence"
+        },
+        {
+          "text": "FAST-REACTOR DESIGN AND SODIUM R&D",
+          "role": "primary"
+        },
+        {
+          "text": "PFBR PROJECT EXECUTION AND OPERATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "UCIL → uranium mining and milling",
+        "NFC → fuel and reactor-component fabrication",
+        "IREL → monazite, thorium and rare-earth processing link",
+        "IGCAR → fast-reactor design and sodium R&D",
+        "BHAVINI → PFBR project execution and operation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "UCIL → uranium mining and milling",
+            "NFC → fuel and reactor-component fabrication"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IREL → monazite, thorium and rare-earth processing link",
+            "IGCAR → fast-reactor design and sodium R&D"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "BHAVINI → PFBR project execution and operation",
+            "UCIL → uranium mining and milling"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IREL → monazite, thorium and rare-earth processing link.",
+      "source_references": [
+        "IGCAR-BHAVINI boundary",
+        "Fuel-chain boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REACTOR TAXONOMY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REACTOR TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "HEAVY WATER AND NATURAL-URANIUM STAGE-1 ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIGHT-WATER SYSTEMS WITH DIFFERENT STEAM CYCLES",
+          "role": "comparison"
+        },
+        {
+          "text": "FAST SPECTRUM AND BREEDING OBJECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALL-REACTOR LINES",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN OR DEVELOPMENT STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "TYPE AND DEPLOYMENT STATUS MUST BE STATED TOGETHER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PHWR → heavy water and natural-uranium Stage-1 role",
+        "PWR / BWR → light-water systems with different steam cycles",
+        "FBR → fast spectrum and breeding objective",
+        "AHWR / SMALL-REACTOR LINES → design or development status",
+        "RULE → type and deployment status must be stated together"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "PHWR → heavy water and natural-uranium Stage-1 role",
+          "FBR → fast spectrum and breeding objective",
+          "RULE → type and deployment status must be stated together"
+        ],
+        [
+          "PWR / BWR → light-water systems with different steam cycles",
+          "AHWR / SMALL-REACTOR LINES → design or development status",
+          "PHWR → heavy water and natural-uranium Stage-1 role"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "PHWR → heavy water and natural-uranium Stage-1 role",
+            "PWR / BWR → light-water systems with different steam cycles"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FBR → fast spectrum and breeding objective",
+            "AHWR / SMALL-REACTOR LINES → design or development status"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → type and deployment status must be stated together",
+            "PHWR → heavy water and natural-uranium Stage-1 role"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → type and deployment status must be stated together.",
+      "source_references": [
+        "Reactor-type boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NUCLEAR ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NUCLEAR ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FISSION, CRITICALITY, FISSILE, FERTILE AND FUEL CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "STAGE 1, PLUTONIUM BRIDGE, STAGE 2 AND THORIUM HORIZON",
+          "role": "comparison"
+        },
+        {
+          "text": "DAE BARC NPCIL AERB IGCAR BHAVINI AND FUEL CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPACITY CRITICALITY GRID GENERATION AND LEGAL STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "DATED FLEET FUEL REACTOR LAW COST AND SCHEDULE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → fission, criticality, fissile, fertile and fuel cycle",
+        "TRACE → Stage 1, plutonium bridge, Stage 2 and thorium horizon",
+        "MAP → DAE BARC NPCIL AERB IGCAR BHAVINI and fuel chain",
+        "SEPARATE → capacity criticality grid generation and legal status",
+        "VERIFY → dated fleet fuel reactor law cost and schedule evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DEFINE → fission, criticality, fissile, fertile and fuel cycle",
+            "TRACE → Stage 1, plutonium bridge, Stage 2 and thorium horizon"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "MAP → DAE BARC NPCIL AERB IGCAR BHAVINI and fuel chain",
+            "SEPARATE → capacity criticality grid generation and legal status"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → dated fleet fuel reactor law cost and schedule evidence",
+            "DEFINE → fission, criticality, fissile, fertile and fuel cycle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → dated fleet fuel reactor law cost and schedule evidence.",
+      "source_references": [
+        "Legal-status boundary",
+        "Volatile nuclear boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY, STRATEGIC DIRECTION AND OVERALL NUCLEAR-GOVERNANCE UMBRELLA.",
+          "role": "outcome"
+        },
+        {
+          "text": "R&D BACKBONE FOR REACTOR TECHNOLOGY, FUEL CYCLE AND ADVANCED",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE FAST-REACTOR AND SODIUM-TECHNOLOGY DESIGN CENTRE — IT DESIGNED",
+          "role": "evidence"
+        },
+        {
+          "text": "BHAVINI IS THE SEPARATE COMPANY THAT BUILT IT AND",
+          "role": "primary"
+        },
+        {
+          "text": "CONFLATING IGCAR WITH BHAVINI IS A COMMON INSTITUTIONAL ERROR.",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMERCIAL REACTOR OPERATOR/DEVELOPER FOR THE CIVILIAN FLEET",
+          "role": "comparison"
+        },
+        {
+          "text": "ALSO THE VEHICLE FOR THE BHARAT SMALL REACTOR (220",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "DAE: policy, strategic direction and overall nuclear-governance umbrella.",
+            "BARC: R&D backbone for reactor technology, fuel cycle and advanced concepts (including the AHWR design and the BSMR line).",
+            "IGCAR: the fast-reactor and sodium-technology design centre — it designed PFBR",
+            "BHAVINI is the separate company that built it and will operate it."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Conflating IGCAR with BHAVINI is a common institutional error.",
+            "NPCIL: commercial reactor operator/developer for the civilian fleet",
+            "also the vehicle for the Bharat Small Reactor (220 MWe PHWR for captive industrial use) solicitation.",
+            "BHAVINI: Stage 2 breeder-reactor implementation body linked to PFBR."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NFC / UCIL / IREL: fuel fabrication, uranium mining, and monazite processing for",
+            "thorium and rare earths — the physical supply chain beneath the three-stage narrative.",
+            "AERB: technical-safety regulator, distinct from liability legislation — and, as of the verified position, not a statutorily independent authority .",
+            "CAUTION: A major debate is how to balance ambitious capacity expansion with"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

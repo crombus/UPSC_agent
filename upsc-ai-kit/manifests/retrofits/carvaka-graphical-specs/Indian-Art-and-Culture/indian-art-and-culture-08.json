@@ -1,0 +1,996 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-08",
+  "subject": "Indian-Art-and-Culture",
+  "title": "INDIAN MUSIC",
+  "short_route": "MELODIC HIERARCHY → THAAT-RAGA FIREWALL → TWO-TRADITION MATRIX → TREATISE CONTRIBUTION CHAIN → MODERN PEDAGOGY SHIFT → GHARANA MECHANISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\learning-sessions\\v2\\subject-wide-syllabus\\indian-art-and-culture-08_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-08-09-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "e108a07aba5e747e65e5a441220e1311ec5106171abd006956d99052e1cb50b1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MELODIC HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MELODIC HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED NOTE BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "PARENT-SCALE SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFORMED MELODIC IDENTITY",
+          "role": "evidence"
+        },
+        {
+          "text": "RHYTHMIC CYCLE FRAMING PERFORMANCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SAPTASWARA → shared note base",
+        "THAAT / MELAKARTA → parent-scale systems",
+        "RAGA → performed melodic identity",
+        "TALA → rhythmic cycle framing performance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAPTASWARA → shared note base",
+            "THAAT / MELAKARTA → parent-scale systems"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAGA → performed melodic identity",
+            "TALA → rhythmic cycle framing performance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAPTASWARA → shared note base",
+            "THAAT / MELAKARTA → parent-scale systems"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RAGA → performed melodic identity; TALA → rhythmic cycle framing performance.",
+      "source_references": [
+        "Swara, thaat and raga",
+        "Melakarta and janya logic"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THAAT-RAGA FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THAAT-RAGA FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SEVEN-NOTE UNSUNG SCALE",
+          "role": "outcome"
+        },
+        {
+          "text": "PHRASE, HIERARCHY AND MELODIC IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CARNATIC SAMPURNA PARENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DERIVED CARNATIC RAGA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "THAAT → seven-note unsung scale",
+        "RAGA → phrase, hierarchy and melodic identity",
+        "MELAKARTA → Carnatic sampurna parent",
+        "JANYA → derived Carnatic raga"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "THAAT → seven-note unsung scale",
+          "MELAKARTA → Carnatic sampurna parent",
+          "THAAT → seven-note unsung scale"
+        ],
+        [
+          "RAGA → phrase, hierarchy and melodic identity",
+          "JANYA → derived Carnatic raga",
+          "RAGA → phrase, hierarchy and melodic identity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "THAAT → seven-note unsung scale",
+            "RAGA → phrase, hierarchy and melodic identity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MELAKARTA → Carnatic sampurna parent",
+            "JANYA → derived Carnatic raga"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THAAT → seven-note unsung scale",
+            "RAGA → phrase, hierarchy and melodic identity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MELAKARTA → Carnatic sampurna parent; JANYA → derived Carnatic raga.",
+      "source_references": [
+        "Swara, thaat and raga",
+        "Melakarta and janya logic"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO-TRADITION MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO-TRADITION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "THAAT, GHARANA, ALAP AND KHAYAL",
+          "role": "outcome"
+        },
+        {
+          "text": "MELAKARTA, KRITI AND MANODHARMA",
+          "role": "comparison"
+        },
+        {
+          "text": "SWARA, RAGA, TALA AND OLDER THEORY",
+          "role": "evidence"
+        },
+        {
+          "text": "FOREIGN VERSUS PURE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "HINDUSTANI → thaat, gharana, alap and khayal",
+        "CARNATIC → melakarta, kriti and manodharma",
+        "SHARED → swara, raga, tala and older theory",
+        "REJECT → foreign versus pure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HINDUSTANI → thaat, gharana, alap and khayal",
+          "SHARED → swara, raga, tala and older theory",
+          "HINDUSTANI → thaat, gharana, alap and khayal"
+        ],
+        [
+          "CARNATIC → melakarta, kriti and manodharma",
+          "REJECT → foreign versus pure",
+          "CARNATIC → melakarta, kriti and manodharma"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HINDUSTANI → thaat, gharana, alap and khayal",
+            "CARNATIC → melakarta, kriti and manodharma"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHARED → swara, raga, tala and older theory",
+            "REJECT → foreign versus pure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HINDUSTANI → thaat, gharana, alap and khayal",
+            "CARNATIC → melakarta, kriti and manodharma"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARED → swara, raga, tala and older theory.",
+      "source_references": [
+        "Hindustani and Carnatic shared roots"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TREATISE CONTRIBUTION CHAIN",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TREATISE CONTRIBUTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MUSIC WITH DRAMA AND RASA",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY RAGA DEFINITION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRE-BIFURCATION SYNTHESIS",
+          "role": "evidence"
+        },
+        {
+          "text": "MELAKARTA SYSTEM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BHARATA → music with drama and rasa",
+        "MATANGA → early raga definition",
+        "SHARNGADEVA → pre-bifurcation synthesis",
+        "VENKATAMAKHIN → melakarta system"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BHARATA → music with drama and rasa",
+            "MATANGA → early raga definition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHARNGADEVA → pre-bifurcation synthesis",
+            "VENKATAMAKHIN → melakarta system"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BHARATA → music with drama and rasa",
+            "MATANGA → early raga definition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARNGADEVA → pre-bifurcation synthesis; VENKATAMAKHIN → melakarta system.",
+      "source_references": [
+        "Treatises by contribution"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MODERN PEDAGOGY SHIFT",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MODERN PEDAGOGY SHIFT",
+          "role": "primary"
+        },
+        {
+          "text": "HEREDITARY LINEAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCENTRATED TECHNIQUE",
+          "role": "comparison"
+        },
+        {
+          "text": "PALUSKAR 1901",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL TEACHING",
+          "role": "primary"
+        },
+        {
+          "text": "PEDAGOGIC CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDER ACCESS AND STANDARDISATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "HEREDITARY LINEAGE → concentrated technique",
+        "PALUSKAR 1901 → institutional teaching",
+        "BHATKHANDE → pedagogic classification",
+        "RESULT → wider access and standardisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HEREDITARY LINEAGE → concentrated technique",
+            "PALUSKAR 1901 → institutional teaching"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BHATKHANDE → pedagogic classification",
+            "RESULT → wider access and standardisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HEREDITARY LINEAGE → concentrated technique",
+            "PALUSKAR 1901 → institutional teaching"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BHATKHANDE → pedagogic classification; RESULT → wider access and standardisation.",
+      "source_references": [
+        "Bhatkhande, Paluskar and pedagogy"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GHARANA MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GHARANA MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "SPECIALISED SKILL",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT OR ELITE SUPPORT",
+          "role": "institution"
+        },
+        {
+          "text": "CONTROLLED TRANSMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "NEW MEDIA",
+          "role": "primary"
+        },
+        {
+          "text": "CONCERT, RADIO AND RECORDING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HOUSEHOLD / LINEAGE → specialised skill",
+        "PATRON → court or elite support",
+        "APPRENTICESHIP → controlled transmission",
+        "NEW MEDIA → concert, radio and recording"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOUSEHOLD / LINEAGE → specialised skill",
+            "PATRON → court or elite support"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPRENTICESHIP → controlled transmission",
+            "NEW MEDIA → concert, radio and recording"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HOUSEHOLD / LINEAGE → specialised skill",
+            "PATRON → court or elite support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPRENTICESHIP → controlled transmission; NEW MEDIA → concert, radio and recording.",
+      "source_references": [
+        "Gharana as labour and patronage"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GHARANA DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GHARANA DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "OLD KHAYAL LINEAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRECISE SWARA",
+          "role": "comparison"
+        },
+        {
+          "text": "THUMRI AND GHAZAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DAGAR → Dhrupad",
+        "GWALIOR → old khayal lineage",
+        "KIRANA → precise swara",
+        "PATIALA → thumri and ghazal"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DAGAR → Dhrupad",
+          "KIRANA → precise swara",
+          "DAGAR → Dhrupad"
+        ],
+        [
+          "GWALIOR → old khayal lineage",
+          "PATIALA → thumri and ghazal",
+          "GWALIOR → old khayal lineage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DAGAR → Dhrupad",
+            "GWALIOR → old khayal lineage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KIRANA → precise swara",
+            "PATIALA → thumri and ghazal"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DAGAR → Dhrupad",
+            "GWALIOR → old khayal lineage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KIRANA → precise swara; PATIALA → thumri and ghazal.",
+      "source_references": [
+        "Named gharana discriminators"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AURANGZEB CORRECTION RAIL",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AURANGZEB CORRECTION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "COURT SINGING",
+          "role": "institution"
+        },
+        {
+          "text": "RETAINED PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MUHAMMAD SHAH",
+          "role": "evidence"
+        },
+        {
+          "text": "KHAYAL STRENGTHENED LATER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COURT SINGING → curtailed",
+        "INSTRUMENTS → continued",
+        "WOMEN / NOBLES → retained patronage",
+        "MUHAMMAD SHAH → khayal strengthened later"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COURT SINGING → curtailed",
+            "INSTRUMENTS → continued"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WOMEN / NOBLES → retained patronage",
+            "MUHAMMAD SHAH → khayal strengthened later"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COURT SINGING → curtailed",
+            "INSTRUMENTS → continued"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WOMEN / NOBLES → retained patronage; MUHAMMAD SHAH → khayal strengthened later.",
+      "source_references": [
+        "Dhrupad, khayal and court change"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CARNATIC COMPOSER MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CARNATIC COMPOSER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "VENKATESWARA SANKIRTANAS",
+          "role": "outcome"
+        },
+        {
+          "text": "PURANDARA DASA",
+          "role": "comparison"
+        },
+        {
+          "text": "PEDAGOGIC FOUNDATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TYAGARAJA + DIKSHITAR + SYAMA SASTRI",
+          "role": "primary"
+        },
+        {
+          "text": "THEORY AND COMPOSITION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ANNAMACHARYA → Venkateswara sankirtanas",
+        "PURANDARA DASA → pedagogic foundation",
+        "TYAGARAJA + DIKSHITAR + SYAMA SASTRI → Trinity",
+        "VENKATAMAKHIN → theory and composition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANNAMACHARYA → Venkateswara sankirtanas",
+            "PURANDARA DASA → pedagogic foundation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TYAGARAJA + DIKSHITAR + SYAMA SASTRI → Trinity",
+            "VENKATAMAKHIN → theory and composition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANNAMACHARYA → Venkateswara sankirtanas",
+            "PURANDARA DASA → pedagogic foundation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TYAGARAJA + DIKSHITAR + SYAMA SASTRI → Trinity.",
+      "source_references": [
+        "Carnatic composers and patrons"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTRUMENT MECHANISM TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTRUMENT MECHANISM TEST",
+          "role": "mechanism"
+        },
+        {
+          "text": "VIBRATING STRING",
+          "role": "outcome"
+        },
+        {
+          "text": "VIBRATING AIR COLUMN",
+          "role": "comparison"
+        },
+        {
+          "text": "STRETCHED MEMBRANE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOLID BODY VIBRATES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TATA → vibrating string",
+        "SUSHIRA → vibrating air column",
+        "AVANADDHA → stretched membrane",
+        "GHANA → solid body vibrates"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TATA → vibrating string",
+          "AVANADDHA → stretched membrane",
+          "TATA → vibrating string"
+        ],
+        [
+          "SUSHIRA → vibrating air column",
+          "GHANA → solid body vibrates",
+          "SUSHIRA → vibrating air column"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TATA → vibrating string",
+            "SUSHIRA → vibrating air column"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AVANADDHA → stretched membrane",
+            "GHANA → solid body vibrates"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TATA → vibrating string",
+            "SUSHIRA → vibrating air column"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AVANADDHA → stretched membrane; GHANA → solid body vibrates.",
+      "source_references": [
+        "Instrument families by mechanism"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FOLK-FUNCTION MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FOLK-FUNCTION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "EPIC MEMORY, CHHATTISGARH",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER AND WOMEN'S LABOUR, RAJASTHAN",
+          "role": "comparison"
+        },
+        {
+          "text": "HEROIC MEMORY, MAHARASHTRA",
+          "role": "evidence"
+        },
+        {
+          "text": "KHONGJOM PARBA",
+          "role": "primary"
+        },
+        {
+          "text": "BATTLE MEMORY, MANIPUR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PANDAVANI → epic memory, Chhattisgarh",
+        "PANIHARI → water and women's labour, Rajasthan",
+        "POWADA → heroic memory, Maharashtra",
+        "KHONGJOM PARBA → battle memory, Manipur"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PANDAVANI → epic memory, Chhattisgarh",
+            "PANIHARI → water and women's labour, Rajasthan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POWADA → heroic memory, Maharashtra",
+            "KHONGJOM PARBA → battle memory, Manipur"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PANDAVANI → epic memory, Chhattisgarh",
+            "PANIHARI → water and women's labour, Rajasthan"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POWADA → heroic memory, Maharashtra; KHONGJOM PARBA → battle memory, Manipur.",
+      "source_references": [
+        "Folk music by occasion and region"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MUSIC ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MUSIC ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NOTE, SCALE, RAGA OR FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAMMAR, REPERTOIRE AND PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATISE, GHARANA, COMPOSER OR INSTRUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ATTRIBUTION, KEY AND CURRENT-LIST LIMITS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → note, scale, raga or form",
+        "COMPARE → grammar, repertoire and patronage",
+        "EVIDENCE → treatise, gharana, composer or instrument",
+        "QUALIFY → attribution, key and current-list limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → note, scale, raga or form",
+            "COMPARE → grammar, repertoire and patronage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE → treatise, gharana, composer or instrument",
+            "QUALIFY → attribution, key and current-list limits"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → note, scale, raga or form",
+            "COMPARE → grammar, repertoire and patronage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE → treatise, gharana, composer or instrument; QUALIFY → attribution, key and current-list limits.",
+      "source_references": [
+        "SNA linkage and PYQ audit"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SANGEET NATAK AKADEMI'S AWARDEE LIST IS THE AUTHORITATIVE CURRENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESENTING AMIR KHUSRAU AS THE CERTAIN, SOLE INVENTOR OF",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING THE GHARANA SYSTEM AS A PURELY ARTISTIC (NON-ECONOMIC)",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUMING CARNATIC MUSIC HAS NO IMPROVISATIONAL ELEMENT AT ALL.",
+          "role": "caution"
+        },
+        {
+          "text": "TURNING HINDUSTANI/CARNATIC INTO FOREIGN/INDIGENOUS ESSENCES. - BOTH",
+          "role": "outcome"
+        },
+        {
+          "text": "TOPIC 13 OWNS THE DEVOTIONAL/DOCTRINAL CONTENT OF BHAKTI AND",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENCE & TECHNOLOGY OWNS ACOUSTIC PHYSICS AND INSTRUMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Sangeet Natak Akademi's awardee list is the authoritative current",
+            "NOT: Presenting Amir Khusrau as the certain, sole inventor of the sitar,",
+            "NOT: Treating the gharana system as a purely artistic (non-economic)",
+            "NOT: Assuming Carnatic music has no improvisational element at all. - The"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Turning Hindustani/Carnatic into foreign/indigenous essences. - Both",
+            "NOT: Topic 13 owns the devotional/doctrinal content of Bhakti and Sufi",
+            "NOT: Science & Technology owns acoustic physics and instrument",
+            "This file's attribution-caution method is directly reusable wherever"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Foundation companion: basic/08 Indian-Music.md.",
+            "00 Master-Framework.md Section 4 — the evidence hierarchy, extended",
+            "CAUTION: Cross-links: Topic 09 (shared rasa framework with dance), Topic",
+            "Verified against Nitinpdf , PDF pp. 411-457 directly (chapter"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

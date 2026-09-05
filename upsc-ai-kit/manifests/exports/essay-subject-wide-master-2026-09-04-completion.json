@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "batch_id": "essay-subject-wide-master-2026-09-04",
+  "scope": "Essay only; all 16 existing knowledge topics",
+  "generated_on": "2026-09-04",
+  "validated_at": "2026-09-04T18:30:47.095832+05:30",
+  "result": "passed",
+  "record_id": "essay-subject-wide-master:learner-v2:g1",
+  "approved": false,
+  "metrics": {
+    "name": "essay-subject-wide-master-v1",
+    "knowledge_topics": 16,
+    "solved_pyqs": 100,
+    "practice_topics": 132,
+    "practice_solutions": 132,
+    "learning_sessions": 0,
+    "mcqs": 0,
+    "guide_pages": 211,
+    "workbook_pages": 20,
+    "solutions_pages": 133,
+    "guide_bookmarks": 0,
+    "workbook_bookmarks": 0,
+    "solutions_bookmarks": 0
+  },
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\essay-subject-wide-master-2026-09-04-changed-files.txt",
+    "count": 16
+  },
+  "errors": []
+}

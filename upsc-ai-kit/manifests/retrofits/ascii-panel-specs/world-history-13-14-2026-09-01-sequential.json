@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "World History learner-v2 Topics 13-14",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "world-history-13",
+      "display_title": "Russian Revolution and USSR under Stalin",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\13_Russian-Revolution-and-USSR-under-Stalin_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Unfinished revolution after 1905",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DEFEAT BY JAPAN -> unrest and October Manifesto",
+            "DUMA -> promised but first two dissolved",
+            "LAND -> Stolypin reforms reach too few",
+            "RESULT -> regime survives without solving legitimacy"
+          ],
+          "source_references": [
+            "Why 1905 did not settle the crisis"
+          ]
+        },
+        {
+          "title": "War-to-collapse chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "OLD WEAKNESS -> autocracy, land and labour conflict",
+            "WORLD WAR -> defeat, shortage and transport failure",
+            "PETROGRAD -> riots, strikes and mutiny",
+            "2 MARCH 1917 -> Nicholas II abdicates"
+          ],
+          "source_references": [
+            "War converts weakness into collapse"
+          ]
+        },
+        {
+          "title": "Dual-power mechanism",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PROVISIONAL GOVERNMENT -> formal state office",
+            "PETROGRAD SOVIET -> soldier and worker loyalty",
+            "WAR/LAND -> government delays decisions",
+            "RESULT -> authority exists in two incompatible centres"
+          ],
+          "source_references": [
+            "Dual power after abdication"
+          ]
+        },
+        {
+          "title": "February versus October",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FEBRUARY -> broad uprising and tsarist collapse",
+            "OCTOBER -> prepared Bolshevik seizure",
+            "FEBRUARY -> Nicholas abdicates",
+            "OCTOBER -> ministers arrested, party takes power"
+          ],
+          "source_references": [
+            "War converts weakness into collapse",
+            "October as organised seizure"
+          ]
+        },
+        {
+          "title": "Provisional Government failure",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WAR CONTINUES -> popular support falls",
+            "LAND/ELECTIONS DELAYED -> rural and democratic trust falls",
+            "SHORTAGES -> economic legitimacy collapses",
+            "KORNILOV -> Bolsheviks gain organisational prestige"
+          ],
+          "source_references": [
+            "Why the Provisional Government failed"
+          ]
+        },
+        {
+          "title": "Bolshevik consolidation toolkit",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DECREE -> land and worker measures",
+            "EXIT WAR -> Brest-Litovsk, March 1918",
+            "COERCION -> Assembly dispersed, Cheka and Red Terror",
+            "SURVIVAL -> Civil War victory then NEP"
+          ],
+          "source_references": [
+            "Decrees and constitutional closure",
+            "Brest-Litovsk and strategic retreat",
+            "Civil War and coercive consolidation",
+            "NEP and bounded market recovery"
+          ]
+        },
+        {
+          "title": "Why the Reds won",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEADERSHIP -> Lenin and Trotsky firmer",
+            "GEOGRAPHY -> central Russian core controlled",
+            "OPPONENT -> Whites divided in aim",
+            "INTERVENTION -> Reds claim defence of Russia"
+          ],
+          "source_references": [
+            "Civil War and coercive consolidation"
+          ]
+        },
+        {
+          "title": "NEP boundary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "MARKET RETURNS -> peasant surplus and small trade",
+            "STATE RETAINS -> heavy industry, banks and transport",
+            "POLITICS -> communist monopoly continues",
+            "VERDICT -> economic retreat without political retreat"
+          ],
+          "source_references": [
+            "NEP and bounded market recovery"
+          ]
+        },
+        {
+          "title": "Stalin's rise ladder",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GENERAL SECRETARY -> organisational network",
+            "RIVALS -> underestimate Stalin",
+            "SHIFTING ALLIANCES -> Trotsky isolated first",
+            "END -> Kamenev, Zinoviev and Bukharin removed"
+          ],
+          "source_references": [
+            "Stalin's organisational rise"
+          ]
+        },
+        {
+          "title": "Industrialisation and collectivisation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FIVE YEAR PLANS -> heavy output rises",
+            "CONSUMPTION -> scarcity and discipline persist",
+            "COLLECTIVISATION -> grain control increases",
+            "RURAL COST -> resistance, livestock loss and famine"
+          ],
+          "source_references": [
+            "Five Year industrialisation",
+            "Collectivisation and famine"
+          ]
+        },
+        {
+          "title": "Constitution and terror",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "1936 CONSTITUTION -> democratic appearance",
+            "ONE PARTY -> no real electoral competition",
+            "PURGES -> Stalin becomes unchallengeable",
+            "CAPABILITY COST -> officers and officials removed"
+          ],
+          "source_references": [
+            "Purges and constitutional facade"
+          ]
+        },
+        {
+          "title": "Revolution-to-Stalin answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "COLLAPSE -> unresolved 1905 order plus war",
+            "SEIZURE -> dual power and organised October",
+            "CONSOLIDATION -> decree, coercion, Civil War and NEP",
+            "TRANSFORMATION -> industry, collectivisation and terror"
+          ],
+          "source_references": [
+            "War, reconstruction and Stalinist verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "world-history-14",
+      "display_title": "Second World War",
+      "source_markdown": "upsc-ai-kit\\knowledge\\World-History\\14_Second-World-War_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From two wars to one",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1931/1937 -> Japanese expansion in Asia",
+            "SEPT 1939 -> German war begins in Europe",
+            "22 JUNE 1941 -> Barbarossa widens European war",
+            "7 DEC 1941 -> Pearl Harbor fuses the conflicts"
+          ],
+          "source_references": [
+            "Two wars become one global conflict"
+          ]
+        },
+        {
+          "title": "Early Axis method",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "BLITZKRIEG -> tanks, motorised thrusts and air support",
+            "SURPRISE -> defences bypassed before coordination",
+            "1940 -> western states fall rapidly",
+            "LIMIT -> operational speed cannot settle Britain"
+          ],
+          "source_references": [
+            "Blitzkrieg and early Axis expansion"
+          ]
+        },
+        {
+          "title": "Battle of Britain mechanism",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "RAF + RADAR -> attacks intercepted",
+            "GERMAN RANGE -> fighter limits constrain operations",
+            "LONDON SHIFT -> pressure on airfields eases",
+            "RESULT -> invasion prevented; Britain remains a base"
+          ],
+          "source_references": [
+            "Britain survives in 1940"
+          ]
+        },
+        {
+          "title": "Global turning-point set",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MIDWAY -> Japanese carrier strength broken",
+            "EL ALAMEIN -> Egypt and Suez protected",
+            "STALINGRAD -> sustained Soviet advance begins",
+            "ATLANTIC -> Britain and western offensive survive"
+          ],
+          "source_references": [
+            "Midway and Pacific air-sea power",
+            "El Alamein and Stalingrad",
+            "The Atlantic lifeline"
+          ]
+        },
+        {
+          "title": "Axis overreach chain",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "BRITAIN SURVIVES -> western war remains open",
+            "BARBAROSSA -> vast eastern front created",
+            "PEARL HARBOR -> US resources enter",
+            "RESULT -> Axis fights a coalition it cannot outproduce"
+          ],
+          "source_references": [
+            "Barbarossa creates overreach",
+            "Pearl Harbor and global resource change",
+            "Cumulative Axis defeat"
+          ]
+        },
+        {
+          "title": "Why the Axis lost",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STRATEGY -> too many fronts",
+            "RESOURCES -> Allied coalition advantage",
+            "SEA/AIR -> Allied superiority grows",
+            "OCCUPATION -> brutality creates resistance"
+          ],
+          "source_references": [
+            "Cumulative Axis defeat"
+          ]
+        },
+        {
+          "title": "D-Day in coalition strategy",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ATLANTIC CONTROL -> invasion supply possible",
+            "6 JUNE 1944 -> Normandy front opens",
+            "SOVIET ADVANCE -> Germany pressed from east",
+            "RESULT -> genuine two-front collapse"
+          ],
+          "source_references": [
+            "The Atlantic lifeline",
+            "D-Day and two-front collapse"
+          ]
+        },
+        {
+          "title": "Holocaust boundary",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "JEWISH VICTIMS -> about 5.7 million in Lowe's estimate",
+            "STATE PROJECT -> racial policy uses occupation machinery",
+            "OTHER VICTIMS -> name separately",
+            "RULE -> never merge categories into one total"
+          ],
+          "source_references": [
+            "Holocaust as wartime state project"
+          ]
+        },
+        {
+          "title": "Occupied-society choices",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "RESISTANCE -> Italian partisans execute Mussolini",
+            "COLLABORATION -> Quisling and Norwegian local Nazis",
+            "STATE COLLABORATION -> Vichy France",
+            "CAUTION -> no extra names or quantified claims"
+          ],
+          "source_references": [
+            "Total war, resistance and collaboration"
+          ]
+        },
+        {
+          "title": "Japan's surrender caution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ATOMIC BOMBS -> central shock",
+            "SOVIET ENTRY -> Manchurian strategic collapse",
+            "BLOCKADE/BOMBING -> cumulative exhaustion",
+            "VERDICT -> relative weight remains debated"
+          ],
+          "source_references": [
+            "The contested end in 1945"
+          ]
+        },
+        {
+          "title": "Postwar structural shift",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "EUROPE WEAKENS -> imperial capacity contracts",
+            "USA/USSR -> superpowers dominate",
+            "NUCLEAR AGE -> deterrence changes",
+            "UNITED NATIONS -> new collective institution"
+          ],
+          "source_references": [
+            "Society, superpowers and institutions"
+          ]
+        },
+        {
+          "title": "Second World War answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ORIGINS -> Asian and European wars fuse",
+            "COURSE -> expansion, overreach and turning points",
+            "SOCIETY -> total war, genocide and occupation choices",
+            "AFTERMATH -> superpowers, UN and decolonisation"
+          ],
+          "source_references": [
+            "Decolonisation and final verdict"
+          ]
+        }
+      ]
+    }
+  ]
+}

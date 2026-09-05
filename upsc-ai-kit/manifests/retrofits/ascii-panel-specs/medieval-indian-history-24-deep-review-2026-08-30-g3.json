@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "workflow": "medieval-history-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "medieval_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "medieval-indian-history-24",
+      "display_title": "Mughal Society, Economy & Culture",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Layered society, not a court-peasant binary",
+          "structural_type": "social-pyramid",
+          "ascii_lines": [
+            "EMPEROR / HOUSEHOLD -> sovereignty, patronage and concentrated consumption",
+            "MANSABDARS / CHIEFS -> service rank, local power and armed followings",
+            "MERCHANTS / PROFESSIONALS -> credit, brokerage, law, medicine and records",
+            "ARTISANS / SERVICE GROUPS -> skilled and ordinary production",
+            "CULTIVATORS / LABOURERS -> unequal land, cattle, credit and customary claims",
+            "RULE -> hierarchy was real, but region, occupation and mobility varied.",
+            "MUST REMEMBER: Peasants, zamindars, artisans, merchants and nobles occupied unequal positions",
+            "  within an agrarian-commercial economy."
+          ],
+          "source_references": [
+            "Social structure",
+            "Hierarchy",
+            "Mobility",
+            "Regional variation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Nobility: mansab, household and reproduction",
+          "structural_type": "institution-household",
+          "ascii_lines": [
+            "MANSAB -> appointed zat status-pay plus sawar cavalry obligation",
+            "HOUSEHOLD -> kin, clients, retainers, scribes, soldiers and dependants",
+            "COMPOSITE ELITE -> Turani, Irani, Hindustani, Rajput, Afghan and Deccani labels",
+            "FORMAL RULE -> rank is not automatically hereditary",
+            "SOCIAL FACT -> khanazad advantage, patronage and training reproduce position",
+            "TRAP -> ancestry labels do not prove every noble was foreign-born."
+          ],
+          "source_references": [
+            "Mansab",
+            "Nobility",
+            "Household",
+            "Khanazad",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Zamindars across a spectrum",
+          "structural_type": "scale-spectrum",
+          "ascii_lines": [
+            "VILLAGE END -> locally rooted claimant with information and customary dues",
+            "MIDDLE -> armed lineage, garhi, caste-clan following and several villages",
+            "RAJA END -> substantial territorial chief incorporated or negotiated with",
+            "STATE NEED -> collection, order, settlement and local mediation",
+            "CONFLICT -> regulation, resistance and mansab incorporation can coexist",
+            "TRAP -> neither mere tax clerk nor uniform British-style landlord."
+          ],
+          "source_references": [
+            "Zamindar",
+            "Garhi",
+            "Local power",
+            "Scale variation",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Cultivators and layered rights",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "KHUD-KASHT -> resident cultivator, often with stronger local resources",
+            "PAHI-KASHT -> incoming or non-resident cultivator, often drawn by concession",
+            "RAIYATI / MUZARIAN -> varied ordinary cultivator or tenant contexts",
+            "RIGHTS -> labour, occupancy, inheritance, revenue and customary access overlap",
+            "MEDIATORS -> patil, muqaddam, qanungo, patwari and deshmukh vary by region",
+            "TRAP -> layered claims are not simple modern private landownership."
+          ],
+          "source_references": [
+            "Khud-kasht",
+            "Pahi-kasht",
+            "Raiyati",
+            "Land rights",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Women, work and source silence",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "WORK -> agriculture, spinning, embroidery and domestic production",
+            "ELITE EVIDENCE -> Gulbadan, Nur Jahan and Jahanara show particular agency",
+            "ARCHIVE BIAS -> court texts record elite women more readily than ordinary labour",
+            "MATERIAL / IMAGE -> can suggest practice but cannot serve as an occupation census",
+            "CONSTRAINTS -> caste, class, marriage, purdah, property and credit vary",
+            "VERDICT -> differentiated agency within a strongly unequal gender order."
+          ],
+          "source_references": [
+            "Women's work",
+            "Gulbadan",
+            "Nur Jahan",
+            "Source silence",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Towns and the middle strata",
+          "structural_type": "urban-network",
+          "ascii_lines": [
+            "IMPERIAL CITY -> court, garrison, workshops and consumption",
+            "PORT CITY -> customs, shipping, brokers and overseas exchange",
+            "QASBA -> administration, learning, market and countryside link",
+            "PRODUCTION / PILGRIMAGE CENTRE -> specialised craft or religious demand",
+            "MIDDLE STRATA -> clerks, qazis, physicians, shopkeepers and master-craftsmen",
+            "RESULT -> urban diversity corrects Bernier's noble-versus-poor binary."
+          ],
+          "source_references": [
+            "Urban typology",
+            "Qasba",
+            "Middle strata",
+            "Bernier",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Karkhana and craft production",
+          "structural_type": "production-chain",
+          "ascii_lines": [
+            "INPUTS -> cotton, silk, dyes, metals, stone, timber and skilled labour",
+            "KARKHANA -> imperial household store and workshop, not every private workshop",
+            "ORGANISATION -> masters, artisans, wage/service ties and quality control",
+            "PRIVATE FIELD -> household craft, merchant advance and putting-out coexist",
+            "OUTPUT -> textiles, arms, jewellery, ships, books, paintings and monuments",
+            "LIMIT -> court production cannot measure all craft labour or welfare."
+          ],
+          "source_references": [
+            "Karkhana",
+            "Craft production",
+            "Merchant advance",
+            "Artisans",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Inland trade, hundi and banjara",
+          "structural_type": "circulation-system",
+          "ascii_lines": [
+            "ROAD / RIVER / SARAI -> movement, rest, information and state oversight",
+            "BANJARA -> bulk overland carriage, especially grain and army supply",
+            "HUNDI -> credit instrument moving value across distance and time",
+            "SARRAF -> money changing, testing and finance | BROKER -> market access",
+            "AURANG -> warehouse or depot | BANIAN -> company-linked Indian agent-broker",
+            "RESULT -> goods, credit and information connect town, port and countryside."
+          ],
+          "source_references": [
+            "Hundi",
+            "Banjara",
+            "Sarraf",
+            "Aurang",
+            "Banian",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Overseas trade, companies and bullion",
+          "structural_type": "maritime-balance",
+          "ascii_lines": [
+            "PORTS -> Surat / Cambay, Hugli / Balasore, Masulipatnam / Pulicat",
+            "EXPORTS -> textiles, silk, indigo, sugar, grain and saltpetre vary by region",
+            "IMPORTS -> horses, metals and luxuries; bullion helps settle trade balances",
+            "INDIAN AGENCY -> Virji Vohra, Abdul Ghaffur and merchant communities",
+            "COMPANIES -> enter existing networks while naval-coercive capacity grows",
+            "TRAP -> bullion is not welfare; company presence is not instant dominance."
+          ],
+          "source_references": [
+            "Indian Ocean",
+            "Bullion",
+            "Virji Vohra",
+            "European companies",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Technology without stagnation or industrial teleology",
+          "structural_type": "debate-matrix",
+          "ascii_lines": [
+            "STRENGTH -> textiles, dyes, jewellery, shipbuilding and craft precision",
+            "SELECTIVE LIMIT -> pumps, furnaces, screws, optics and some machine linkages",
+            "PRINT DISTINCTION -> textile blocks, known presses and uneven institutional uptake",
+            "POSSIBLE CAUSES -> labour cost, investment choice and weak science-craft linkage",
+            "METHOD -> compare sector, institution, date and diffusion",
+            "VERDICT -> high skill with uneven adoption; neither no technology nor industry.",
+            "CLOSE DISTINCTION: Monetisation and long-distance trade coexisted with coercion, subsistence",
+            "  risk and marked regional variation."
+          ],
+          "source_references": [
+            "Technology debate",
+            "Printing",
+            "Artisanal skill",
+            "Diffusion",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Culture as institutional and composite production",
+          "structural_type": "culture-map",
+          "ascii_lines": [
+            "ARCHITECTURE -> Humayun's Tomb -> Fatehpur -> Taj -> Red Fort",
+            "PAINTING -> Akbar's workshop / Hamzanama -> Jahangir / Mansur -> dispersion",
+            "LITERATURE -> Persian chronicles, memoirs, malfuzat and vernacular fields",
+            "TRANSLATION -> Razmnama; Nizamuddin Panipati's Yogavasistha under Akbar",
+            "DARA -> Majma-ul-Bahrain and Sirr-i-Akbar are distinct works",
+            "QUALIFY -> cultural interaction did not erase caste, gender or coercion.",
+            "EVIDENCE LIMIT: Bernier, court chronicles and Mughal painting reveal positioned observations,",
+            "  not a complete social census."
+          ],
+          "source_references": [
+            "Architecture",
+            "Painting",
+            "Translation",
+            "Composite culture",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        },
+        {
+          "title": "Topic 24 final answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN -> productive and connected, yet hierarchical and regionally uneven",
+            "SOCIETY -> mansab household + zamindar spectrum + layered cultivator rights",
+            "ECONOMY -> agrarian surplus -> towns / craft -> credit -> inland / ocean trade",
+            "CULTURE -> patronage and workshops convert resources into material forms",
+            "METHOD -> named source or monument -> claim -> reach -> silence / limitation",
+            "CLOSE -> dynamism was real; prosperity, equality and industrialisation were not universal."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Society",
+            "Economy",
+            "Culture",
+            "Source method",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\24_Mughal-Society-Economy-Culture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-24\\g3\\medieval-indian-history-24_Complete-Learning-Session_2026-08-30.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

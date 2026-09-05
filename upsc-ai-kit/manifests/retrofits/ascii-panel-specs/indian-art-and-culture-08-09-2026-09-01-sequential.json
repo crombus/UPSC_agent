@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topics 08-09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-08",
+      "display_title": "Indian Music",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\08_Indian-Music_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Melodic hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SAPTASWARA -> shared note base",
+            "THAAT / MELAKARTA -> parent-scale systems",
+            "RAGA -> performed melodic identity",
+            "TALA -> rhythmic cycle framing performance"
+          ],
+          "source_references": [
+            "Swara, thaat and raga",
+            "Melakarta and janya logic"
+          ]
+        },
+        {
+          "title": "Thaat-raga firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "THAAT -> seven-note unsung scale",
+            "RAGA -> phrase, hierarchy and melodic identity",
+            "MELAKARTA -> Carnatic sampurna parent",
+            "JANYA -> derived Carnatic raga"
+          ],
+          "source_references": [
+            "Swara, thaat and raga",
+            "Melakarta and janya logic"
+          ]
+        },
+        {
+          "title": "Two-tradition matrix",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HINDUSTANI -> thaat, gharana, alap and khayal",
+            "CARNATIC -> melakarta, kriti and manodharma",
+            "SHARED -> swara, raga, tala and older theory",
+            "REJECT -> foreign versus pure"
+          ],
+          "source_references": [
+            "Hindustani and Carnatic shared roots"
+          ]
+        },
+        {
+          "title": "Treatise contribution chain",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BHARATA -> music with drama and rasa",
+            "MATANGA -> early raga definition",
+            "SHARNGADEVA -> pre-bifurcation synthesis",
+            "VENKATAMAKHIN -> melakarta system"
+          ],
+          "source_references": [
+            "Treatises by contribution"
+          ]
+        },
+        {
+          "title": "Modern pedagogy shift",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "HEREDITARY LINEAGE -> concentrated technique",
+            "PALUSKAR 1901 -> institutional teaching",
+            "BHATKHANDE -> pedagogic classification",
+            "RESULT -> wider access and standardisation"
+          ],
+          "source_references": [
+            "Bhatkhande, Paluskar and pedagogy"
+          ]
+        },
+        {
+          "title": "Gharana mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "HOUSEHOLD / LINEAGE -> specialised skill",
+            "PATRON -> court or elite support",
+            "APPRENTICESHIP -> controlled transmission",
+            "NEW MEDIA -> concert, radio and recording"
+          ],
+          "source_references": [
+            "Gharana as labour and patronage"
+          ]
+        },
+        {
+          "title": "Gharana discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DAGAR -> Dhrupad",
+            "GWALIOR -> old khayal lineage",
+            "KIRANA -> precise swara",
+            "PATIALA -> thumri and ghazal"
+          ],
+          "source_references": [
+            "Named gharana discriminators"
+          ]
+        },
+        {
+          "title": "Aurangzeb correction rail",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "COURT SINGING -> curtailed",
+            "INSTRUMENTS -> continued",
+            "WOMEN / NOBLES -> retained patronage",
+            "MUHAMMAD SHAH -> khayal strengthened later"
+          ],
+          "source_references": [
+            "Dhrupad, khayal and court change"
+          ]
+        },
+        {
+          "title": "Carnatic composer map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ANNAMACHARYA -> Venkateswara sankirtanas",
+            "PURANDARA DASA -> pedagogic foundation",
+            "TYAGARAJA + DIKSHITAR + SYAMA SASTRI -> Trinity",
+            "VENKATAMAKHIN -> theory and composition"
+          ],
+          "source_references": [
+            "Carnatic composers and patrons"
+          ]
+        },
+        {
+          "title": "Instrument mechanism test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TATA -> vibrating string",
+            "SUSHIRA -> vibrating air column",
+            "AVANADDHA -> stretched membrane",
+            "GHANA -> solid body vibrates"
+          ],
+          "source_references": [
+            "Instrument families by mechanism"
+          ]
+        },
+        {
+          "title": "Folk-function map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "PANDAVANI -> epic memory, Chhattisgarh",
+            "PANIHARI -> water and women's labour, Rajasthan",
+            "POWADA -> heroic memory, Maharashtra",
+            "KHONGJOM PARBA -> battle memory, Manipur"
+          ],
+          "source_references": [
+            "Folk music by occasion and region"
+          ]
+        },
+        {
+          "title": "Music answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> note, scale, raga or form",
+            "COMPARE -> grammar, repertoire and patronage",
+            "EVIDENCE -> treatise, gharana, composer or instrument",
+            "QUALIFY -> attribution, key and current-list limits"
+          ],
+          "source_references": [
+            "SNA linkage and PYQ audit"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "indian-art-and-culture-09",
+      "display_title": "Indian Dance",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\09_Indian-Dance_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Composite performance root",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "TEXT -> narrative and dialogue",
+            "ENACTMENT -> body, face and gesture",
+            "MUSIC -> melody and rhythm",
+            "RASA -> aesthetic reception"
+          ],
+          "source_references": [
+            "Natya Veda as composite art"
+          ]
+        },
+        {
+          "title": "Movement vocabulary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LASYA -> graceful and expressive quality",
+            "TANDAVA -> vigorous rhythmic quality",
+            "NRITTA -> pure movement",
+            "NRITYA / NATYA -> expression and drama"
+          ],
+          "source_references": [
+            "Lasya and Tandava",
+            "Nritta, Nritya and Natya"
+          ]
+        },
+        {
+          "title": "Gesture firewall",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HASTA / MUDRA -> hand gesture",
+            "KARANA -> whole-body movement unit",
+            "108 -> attached to karanas",
+            "TRAP -> do not convert the number to mudras"
+          ],
+          "source_references": [
+            "Rasa, hasta and karana"
+          ]
+        },
+        {
+          "title": "Recognition map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SNA -> eight classical forms",
+            "MINISTRY LIST -> separately includes Chhau",
+            "UNESCO ICH -> safeguarding inscription",
+            "RULE -> three non-interchangeable records"
+          ],
+          "source_references": [
+            "Who recognises a classical form"
+          ]
+        },
+        {
+          "title": "Bharatanatyam change",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SADIR / HEREDITARY PRACTICE -> repertory base",
+            "ANTI-NAUTCH -> disruption",
+            "IYER + RUKMINI DEVI -> reconfiguration",
+            "MODERN STAGE -> wider canon and new authority"
+          ],
+          "source_references": [
+            "Bharatanatyam's social history"
+          ]
+        },
+        {
+          "title": "Recital sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ALARIPPU -> opening",
+            "JATISWARAM / SHABDAM -> movement and expression",
+            "VARNAM / PADAM / JAWALI -> developed core",
+            "THILLANA -> rhythmic close"
+          ],
+          "source_references": [
+            "Bharatanatyam recital grammar"
+          ]
+        },
+        {
+          "title": "Andhra discriminator",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KUCHIPUDI -> itinerant dance-drama origin",
+            "KUCHELAPURAM -> place-name anchor",
+            "SIDDHENDRA -> association",
+            "BHARATANATYAM -> different solo history"
+          ],
+          "source_references": [
+            "Kuchipudi as dance drama"
+          ]
+        },
+        {
+          "title": "Kerala pair",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KATHAKALI -> Attakkatha, make-up, troupe and percussion",
+            "MOHINIYATTAM -> solo lasya and Kasavu",
+            "COMMON -> Kerala performance ecology",
+            "DISTINCTION -> drama versus lyrical solo"
+          ],
+          "source_references": [
+            "Kathakali and Mohiniyattam"
+          ]
+        },
+        {
+          "title": "Eastern three-form key",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ODISSI -> tribhanga, chowk, mahari and gotipua",
+            "MANIPURI -> pung, raslila and restrained face",
+            "SATTRIYA -> sattra, ankiya nat and mati-akhora",
+            "TRAP -> devotion alone cannot identify"
+          ],
+          "source_references": [
+            "Odissi's sculptural dialogue",
+            "Manipuri and Sattriya"
+          ]
+        },
+        {
+          "title": "Dance-sculpture bridge",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "POSE -> movement idiom made visible",
+            "MUDRA -> shared gestural vocabulary",
+            "TEMPLE SITE -> patron-selected sacred context",
+            "LIMIT -> no complete modern choreography proved"
+          ],
+          "source_references": [
+            "Dance figures as evidence"
+          ]
+        },
+        {
+          "title": "Garba official card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "OCCASION -> Navaratri",
+            "CENTRE -> lit earthen pot or image of Amba",
+            "MOVEMENT -> communal circular dance",
+            "STATUS -> UNESCO ICH 2023, not SNA classical"
+          ],
+          "source_references": [
+            "Garba and recognition boundaries"
+          ]
+        },
+        {
+          "title": "Dance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> component, form or recognition track",
+            "IDENTIFY -> region and unique discriminator",
+            "ANALYSE -> patronage, revival and community",
+            "QUALIFY -> continuity, sculpture and status"
+          ],
+          "source_references": [
+            "Garba and recognition boundaries"
+          ]
+        }
+      ]
+    }
+  ]
+}

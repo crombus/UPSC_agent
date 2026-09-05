@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 09",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-09",
+      "display_title": "CITES and Wildlife Trade",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-09_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Jurisdiction firewall",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "CITES -> international movement of listed specimens",
+            "DOMESTIC HUNTING -> domestic wildlife law",
+            "HABITAT LOSS -> land, forest and protected-area law",
+            "LOCAL CONSUMPTION -> domestic enforcement and demand reduction",
+            "RULE -> treaty scope is trade-specific, not species-protection complete"
+          ],
+          "source_references": [
+            "Trade jurisdiction",
+            "CITES-IUCN-CMS split"
+          ]
+        },
+        {
+          "title": "Appendix comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "APPENDIX I -> threatened with extinction; particularly strict trade control",
+            "APPENDIX II -> trade controlled to avoid incompatible utilization",
+            "APPENDIX III -> one Party seeks cooperation for a species it regulates",
+            "COMMON THREAD -> international trade documents and verification",
+            "NOT A LADDER -> Appendix III is not a lower extinction-risk score"
+          ],
+          "source_references": [
+            "Appendix I boundary",
+            "Appendix II boundary",
+            "Appendix III boundary"
+          ]
+        },
+        {
+          "title": "Listing-to-transaction gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "LISTING FOUND -> verify accepted scientific name",
+            "IDENTIFY -> specimen or processed product",
+            "CLASSIFY -> import, export, re-export or introduction from sea",
+            "CHECK -> origin, purpose, reservation and required document",
+            "VERDICT -> listing alone never proves lawful or unlawful movement"
+          ],
+          "source_references": [
+            "Listing versus trade ban",
+            "Specimen discipline",
+            "Permit matrix"
+          ]
+        },
+        {
+          "title": "Specimen and source check",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SHIPMENT LABEL -> compare with accepted taxon",
+            "PART OR DERIVATIVE -> verify recognizability and listing scope",
+            "SOURCE CLAIM -> inspect the transaction document",
+            "NO SHORTCUT -> captive or propagated origin is not presumed",
+            "OUTPUT -> source-bounded specimen identity"
+          ],
+          "source_references": [
+            "Specimen discipline",
+            "Source discipline"
+          ]
+        },
+        {
+          "title": "Transaction matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IMPORT -> entry into a State",
+            "EXPORT -> departure from the State of origin",
+            "RE-EXPORT -> departure after prior import",
+            "INTRODUCTION FROM SEA -> separate Convention transaction",
+            "RULE -> required findings and documents vary by transaction"
+          ],
+          "source_references": [
+            "Permit matrix"
+          ]
+        },
+        {
+          "title": "Science-to-permit chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SCIENTIFIC AUTHORITY -> assesses detriment",
+            "NDF -> science gate where applicable",
+            "LEGAL ACQUISITION -> separate compliance finding where required",
+            "MANAGEMENT AUTHORITY -> issues permit or certificate",
+            "BORDER -> document and specimen still require verification"
+          ],
+          "source_references": [
+            "Non-detriment finding",
+            "Legal-acquisition check",
+            "Management Authority",
+            "Scientific Authority"
+          ]
+        },
+        {
+          "title": "Authority split",
+          "structural_type": "authority-map",
+          "ascii_lines": [
+            "SCIENTIFIC AUTHORITY -> trade-impact advice",
+            "MANAGEMENT AUTHORITY -> document administration",
+            "CUSTOMS -> border control and declaration checks",
+            "WCCB -> wildlife-crime intelligence and coordination",
+            "NO MERGER -> each institution keeps its own decision boundary"
+          ],
+          "source_references": [
+            "Management Authority",
+            "Scientific Authority",
+            "WCCB boundary"
+          ]
+        },
+        {
+          "title": "Appendix-change routes",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "APPENDIX I OR II -> COP amendment route",
+            "APPENDIX III -> unilateral Party request route",
+            "RESERVATION -> specified Party and specified taxon treatment",
+            "INDIAN UPDATE -> separate domestic legal step",
+            "CAUTION -> proposal, adoption and domestic effect are different states"
+          ],
+          "source_references": [
+            "Appendix amendment route",
+            "Reservation boundary",
+            "Domestic implementation"
+          ]
+        },
+        {
+          "title": "India implementation bridge",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "CITES DECISION -> international treaty plane",
+            "SCHEDULE IV -> Indian scheduled-specimen plane",
+            "DESIGNATED AUTHORITIES -> science and permit plane",
+            "CUSTOMS AND WCCB -> enforcement plane",
+            "RULE -> no automaticity across the four planes"
+          ],
+          "source_references": [
+            "Domestic implementation",
+            "Enforcement chain",
+            "WCCB boundary"
+          ]
+        },
+        {
+          "title": "Enforcement weakest-link map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "POPULATION EVIDENCE -> credible NDF",
+            "PERMIT INTEGRITY -> authentic document",
+            "SPECIES IDENTIFICATION -> correct specimen match",
+            "BORDER COORDINATION -> customs and wildlife enforcement",
+            "DEMAND REDUCTION -> complementary domestic response"
+          ],
+          "source_references": [
+            "Non-detriment finding",
+            "Enforcement chain"
+          ]
+        },
+        {
+          "title": "Convention distinction matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CITES -> international wildlife trade",
+            "IUCN -> scientific extinction-risk assessment",
+            "CMS -> migratory-range cooperation",
+            "WILDLIFE ACT -> domestic legal consequences",
+            "RULE -> one species may occupy all layers without merging them"
+          ],
+          "source_references": [
+            "CITES-IUCN-CMS split"
+          ]
+        },
+        {
+          "title": "Audit and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "SCOPE -> international trade only",
+            "APPENDIX -> I, II or III mechanics",
+            "TRANSACTION -> specimen, source, purpose and document",
+            "AUTHORITY -> science, permit and enforcement roles",
+            "QUALIFY -> zero direct PYQ and failed current-listing retrieval"
+          ],
+          "source_references": [
+            "Zero-direct-PYQ audit",
+            "Live-status boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-24",
+  "record_id": "polity-24:learner-v2:g3",
+  "audited_on": "2026-08-28",
+  "approval": false,
+  "constitutional_scope": [
+    "74th Amendment Act 1992",
+    "Part IX-A Articles 243P-243ZG",
+    "Twelfth Schedule",
+    "Articles 280 and 243Y local-finance interface"
+  ],
+  "institutional_scope": [
+    "Municipal types and industrial-township proviso",
+    "Ward Committees",
+    "State Election and Finance Commissions",
+    "District and Metropolitan Planning Committees",
+    "Cantonment and census-town boundaries"
+  ],
+  "judgments": [
+    "Kishansing Tomar (2006)",
+    "K. Krishna Murthy (2010)",
+    "Vikas Kishanrao Gawali (2021)",
+    "State of Goa v. Fouziya Imtiaz Shaikh (2021)"
+  ],
+  "pyqs": [
+    {
+      "year": 2023,
+      "paper": "GS-II",
+      "question": 3,
+      "marks": 10,
+      "words": 150
+    },
+    {
+      "year": 2024,
+      "paper": "GS-II",
+      "question": 5,
+      "marks": 10,
+      "words": 150
+    },
+    {
+      "year": 2020,
+      "paper": "GS-II",
+      "question": 13,
+      "marks": 15,
+      "words": 250
+    },
+    {
+      "year": 2024,
+      "paper": "GS-I Prelims",
+      "question": 74
+    }
+  ],
+  "current_primary_controls": [
+    "Sixteenth Finance Commission report for 2026-27 to 2030-31",
+    "RBI Report on Municipal Finances 2022",
+    "AMRUT 2.0 Operational Guidelines",
+    "SEBI municipal debt statistics"
+  ],
+  "qualification": "Current figures are date-bounded; constitutional status is not treated as automatic functional or fiscal devolution.",
+  "status": "passed"
+}

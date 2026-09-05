@@ -1,0 +1,420 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-28",
+  "scope": "Political Theory subject-wide syllabus topic 07",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-07",
+      "title": "Nature of Politics and Communitarianism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Political-Theory\\learning-sessions\\v2\\subject-wide-syllabus\\political-theory-07_Learning-Session.md",
+      "source_record": "political-theory-07:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Politics as Public Conflict and Authoritative Resolution",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Politics as Public Conflict and Authoritative Resolution",
+            "  [1] Politics is not just elections or party intrigue; it is a public process around",
+            "      conflict, decision and order. (PDF pp.95-99)",
+            "        |",
+            "        v",
+            "  [2] A political situation exists when public issues generate conflict and require an",
+            "      authoritative, publicly binding resolution. (PDF pp.95-99)",
+            "        |",
+            "        v",
+            "  [3] Liberal theory reads politics as reconciliation of conflicting interests through",
+            "      state-backed decisions and legitimate coercion. (PDF pp.101-102)",
+            "        |",
+            "        v",
+            "  [4] Marxist theory reads politics as rooted in class domination, where apparent",
+            "      compromise masks suppression of class conflict. (PDF pp.102-104)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Politics as Public Conflict and Authoritative Resolution is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Definitions, Chapter Spine and Essential Distinctions",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Definitions, Chapter Spine and Essential Distinctions",
+            "  [1] Gauba moves from the layman's narrow image of politics to a broader account of",
+            "      politics as a social process. (PDF pp.94-95)",
+            "        |",
+            "        v",
+            "  [2] He argues that politics requires public conflict, not merely private disagreement,",
+            "      and that war is a failure of political solution rather than politics itself. (PDF.",
+            "        |",
+            "        v",
+            "  [3] Easton's formulation adds the key element of authority: political decisions allocate",
+            "      scarce values in a manner treated as binding. (PDF pp.96-99)",
+            "        |",
+            "        v",
+            "  [4] Liberal theory then presents politics as a process of conciliating interests and",
+            "      securing order, justice and welfare. (PDF pp.101-102)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Definitions, Chapter Spine and Essential Distinctions is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Thinkers, Positions and the Three Rival Social Images",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Thinkers, Positions and the Three Rival Social Images",
+            "  [1] It gives three rival answers to one core question: what kind of conflict or",
+            "      cooperation makes politics necessary? (PDF pp.100-107)",
+            "        |",
+            "        v",
+            "  [2] \"Explain/Discuss the nature of politics\" → definitional + comparative directive:",
+            "      define the political situation (Easton/Gauba), then compare at least two rival.",
+            "        |",
+            "        v",
+            "  [3] Doctrine reconstruction: political situation → authoritative allocation (Easton) →",
+            "      three rival views (liberal/Marxist/communitarian).",
+            "        |",
+            "        v",
+            "  [4] This chapter explains why politics is treated as a social process, not merely as the",
+            "      study of state institutions. (PDF pp.95-100)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Thinkers, Positions and the Three Rival Social Images is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Illustrations and the Liberty-Equality-Fraternity Matrix",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Illustrations and the Liberty-Equality-Fraternity Matrix",
+            "  [1] Reserved seats, taxation and similar distributive arrangements show how",
+            "      authoritative allocation binds both beneficiaries and contributors. (PDF p.99)",
+            "        |",
+            "        v",
+            "  [2] The queue system or traffic-signal type example captures the liberal hope that",
+            "      institutional rules can reconcile competing claims. (PDF p.102)",
+            "        |",
+            "        v",
+            "  [3] Marxist analysis would treat labour-capital compromise in class society as unstable",
+            "      because the underlying relation of dominance remains intact. (PDF pp.103-106)",
+            "        |",
+            "        v",
+            "  [4] Communitarian analysis would read family breakdown, loneliness, crime or drug abuse",
+            "      in modern liberal society as signs of weakened social bonds. (PDF pp.101, 105)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Illustrations and the Liberty-Equality-Fraternity Matrix is best presented",
+            "             through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Trap Repair, Boundaries, Revision and Source Discipline",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Trap Repair, Boundaries, Revision and Source Discipline",
+            "  [1] Politics, for Gauba, is a public process of conflict and authoritative resolution,",
+            "      not a synonym for private quarrelling or war. (PDF pp.95-99)",
+            "        |",
+            "        v",
+            "  [2] Liberalism: many groups, limited conflict, reconciliation, common good, welfare",
+            "      orientation. (PDF pp.101-102)",
+            "        |",
+            "        v",
+            "  [3] Marxism: economic structure, class antagonism, dominant-class state, politics as",
+            "      suppression until classless society. (PDF pp.102-104)",
+            "        |",
+            "        v",
+            "  [4] Best UPSC line: politics can be read as reconciliation, domination, or common-good",
+            "      pursuit depending on whether society is imagined as plural individuals, classes.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Trap Repair, Boundaries, Revision and Source Discipline is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MacIntyre: Traditions, Practices and Internal Goods",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "MacIntyre: Traditions, Practices and Internal Goods",
+            "  [1] Gauba names MacIntyre, Taylor and Sandel together as communitarian critics of the",
+            "      atomistic liberal self (PDF pp.101, 105), but a strong answer must not treat them.",
+            "        |",
+            "        v",
+            "  [2] Claim: the self is unintelligible outside the narrative of a particular community",
+            "      and moral tradition; virtues are acquired only through participation in social.",
+            "        |",
+            "        v",
+            "  [3] Evidence/mechanism: a practice has \"internal goods\" (excellence achieved through the",
+            "      activity itself) understandable and judgeable only from within its own.",
+            "        |",
+            "        v",
+            "  [4] Significance: morality cannot be reconstructed from an abstract, tradition-free",
+            "      standpoint, as much liberal theory attempts; moral reasoning is always reasoning.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MacIntyre: Traditions, Practices and Internal Goods is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Taylor: Dialogical Identity and Recognition",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Taylor: Dialogical Identity and Recognition",
+            "  [1] Charles Taylor — dialogical self and recognition (Sources of the Self, 1989; \"The",
+            "      Politics of Recognition\", 1994)",
+            "        |",
+            "        v",
+            "  [2] Claim: the self is \"dialogical,\" not monological — identity is formed through",
+            "      language and relationships with \"significant others,\" and a person's.",
+            "        |",
+            "        v",
+            "  [3] Evidence/mechanism: withholding or distorting recognition (of a person's or a",
+            "      group's identity/culture) inflicts real harm, grounding claims for recognition of.",
+            "        |",
+            "        v",
+            "  [4] Significance: grounds communitarian/multicultural claims in the human need for",
+            "      recognition — a moral, not merely sociological, case for community.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Taylor: Dialogical Identity and Recognition is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Sandel, the Unencumbered Self and Cautious Precursors",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Sandel, the Unencumbered Self and Cautious Precursors",
+            "  [1] Michael Sandel — critique of the unencumbered self (Liberalism and the Limits of",
+            "      Justice, 1982)",
+            "        |",
+            "        v",
+            "  [2] Claim: targets Rawls's \"original position,\" where parties choose principles of",
+            "      justice behind a \"veil of ignorance,\" stripped of knowledge of their own particular.",
+            "        |",
+            "        v",
+            "  [3] Evidence/mechanism: real persons are partly constituted by their ends and",
+            "      attachments (family, community, tradition); a self that could stand wholly apart",
+            "      from all.",
+            "        |",
+            "        v",
+            "  [4] Significance: if the self is constitutively social, justice cannot be derived from a",
+            "      purely neutral, ends-independent standpoint; political community itself has a.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Sandel, the Unencumbered Self and Cautious Precursors is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Communitarian Objections, Liberal Replies and Indian Application",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Communitarian Objections, Liberal Replies and Indian Application",
+            "  [1] Objection (communitarian → liberal): liberal neutrality (the state should not favour",
+            "      any particular conception of the good life) is impossible and self-defeating —.",
+            "        |",
+            "        v",
+            "  [2] Objection (communitarian → liberal, Sandel's core charge): Rawls's \"unencumbered",
+            "      self\" behind the veil of ignorance is metaphysically false — real people cannot be.",
+            "        |",
+            "        v",
+            "  [3] India's constitutional balance of individual Fundamental Rights with",
+            "      community-oriented Directive Principles and Fundamental Duties is a structural",
+            "      illustration of.",
+            "        |",
+            "        v",
+            "  [4] Caste/community-based reservation debates are a live Indian example of the liberal",
+            "      (individual merit/equal treatment) vs communitarian-adjacent (group-based.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Communitarian Objections, Liberal Replies and Indian Application is best",
+            "             presented through its central claim, causal logic, strongest limit and qualified",
+            "             verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Directive Decoding and Mark-Scaled Answer Architecture",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Directive Decoding and Mark-Scaled Answer Architecture",
+            "  [1] \"Explain/Discuss the nature of politics\" → definitional + comparative directive:",
+            "      define the political situation (Easton/Gauba), then compare at least two rival.",
+            "        |",
+            "        v",
+            "  [2] \"Examine the communitarian critique of liberalism\" → critique-directive: state the",
+            "      liberal position targeted, the specific communitarian objection (name the.",
+            "        |",
+            "        v",
+            "  [3] \"Distinguish MacIntyre, Taylor and Sandel\" → strict distinguishing directive: three",
+            "      separate mechanisms are required, not a shared paragraph.",
+            "        |",
+            "        v",
+            "  [4] Thesis: politics can be read as reconciliation, domination or common-good pursuit",
+            "      depending on the assumed image of society.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Directive Decoding and Mark-Scaled Answer Architecture is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Politics is not just elections or party intrigue; it is a public process around",
+            "      conflict, decision and order. (PDF pp.95-99)",
+            "        |",
+            "        v",
+            "  [2] A political situation exists when public issues generate conflict and require an",
+            "      authoritative, publicly binding resolution. (PDF pp.95-99)",
+            "        |",
+            "        v",
+            "  [3] Liberal theory reads politics as reconciliation of conflicting interests through",
+            "      state-backed decisions and legitimate coercion. (PDF pp.101-102)",
+            "        |",
+            "        v",
+            "  [4] Marxist theory reads politics as rooted in class domination, where apparent",
+            "      compromise masks suppression of class conflict. (PDF pp.102-104)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] UPSC shortcut: first identify the image of society behind the answer—individuals,",
+            "      classes, or community.",
+            "        |",
+            "        v",
+            "  [2] Gauba names MacIntyre, Taylor and Sandel together as communitarian critics of the",
+            "      atomistic liberal self (PDF pp.101, 105), but a strong answer must not treat them.",
+            "        |",
+            "        v",
+            "  [3] Evidence/mechanism: a practice has \"internal goods\" (excellence achieved through the",
+            "      activity itself) understandable and judgeable only from within its own.",
+            "        |",
+            "        v",
+            "  [4] Limit: risks relativism — if morality is tradition-bound, how do we judge between",
+            "      rival traditions or criticise our own? MacIntyre's answer (traditions can be.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

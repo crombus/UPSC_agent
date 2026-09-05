@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "scope": "Indian Art and Culture learner-v2 Topics 11-12",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-art-and-culture-11",
+      "display_title": "Languages, Scripts, Literature and Manuscripts",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\11_Languages-Scripts-Literature-and-Manuscripts_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Classification firewall",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "FAMILY -> genealogical relationship",
+            "SCRIPT -> graphic system",
+            "REGISTER -> social or literary use",
+            "STATUS -> constitutional or heritage recognition"
+          ],
+          "source_references": [
+            "The classification firewall"
+          ]
+        },
+        {
+          "title": "Register coexistence",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SANSKRIT -> codified learned register",
+            "PRAKRITS -> plural literary and social registers",
+            "PALI / ARDHAMAGADHI -> canonical associations",
+            "RULE -> coexistence, not simple succession"
+          ],
+          "source_references": [
+            "Sanskrit and Prakrit as coexisting registers"
+          ]
+        },
+        {
+          "title": "Script geography",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BRAHMI -> widespread ancestral script",
+            "KHAROSHTHI -> northwest, right-to-left",
+            "KANDAHAR -> Greek and Aramaic",
+            "ASHOKAN RECORD -> multilingual, mostly Prakrit"
+          ],
+          "source_references": [
+            "Ashokan scripts and languages"
+          ]
+        },
+        {
+          "title": "Epigraphic chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "PANINI -> grammatical system",
+            "ASHOKA -> Prakrit and multilingual edicts",
+            "RUDRADAMAN c.150 CE -> extensive Sanskrit epigraphy",
+            "CHEBROLU 207 CE -> South Indian datable Sanskrit"
+          ],
+          "source_references": [
+            "Panini and the Sanskrit epigraphic record"
+          ]
+        },
+        {
+          "title": "Text-layer ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ORAL FORMATION -> earliest layer",
+            "COMPOSITION / REDACTION -> changing text",
+            "SURVIVING MANUSCRIPT -> material witness",
+            "MODERN INSCRIPTION -> recognition event"
+          ],
+          "source_references": [
+            "Layered Vedic, epic and Puranic corpora"
+          ]
+        },
+        {
+          "title": "Corpus evidence matrix",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "VEDIC -> ritual and cosmology",
+            "BUDDHIST / JAIN -> canon and narrative",
+            "SANGAM -> towns, trade, war and ranking",
+            "LIMIT -> corpus is not a transparent chronicle"
+          ],
+          "source_references": [
+            "Buddhist and Jain textual worlds",
+            "Sangam literature as bounded evidence"
+          ]
+        },
+        {
+          "title": "Pallava literature route",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "KANCHIPURAM -> patronage centre",
+            "DANDIN -> named court-associated author",
+            "BILINGUAL INSCRIPTIONS -> Tamil and Sanskrit",
+            "GRANTHA -> court-script intervention"
+          ],
+          "source_references": [
+            "Pallava literature and script culture"
+          ]
+        },
+        {
+          "title": "Vernacular expansion",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BHAKTI / COURT / TRANSLATION -> new production",
+            "REGIONAL LANGUAGES -> wider publics",
+            "SANSKRIT + PERSIAN -> continue",
+            "RESULT -> layered literary ecology"
+          ],
+          "source_references": [
+            "Vernacular and Urdu literary publics"
+          ]
+        },
+        {
+          "title": "Stage-language hierarchy",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "HIGH-STATUS CHARACTERS -> Sanskrit convention",
+            "WOMEN / SHUDRAS -> Prakrit convention",
+            "EVIDENCE -> hierarchy encoded in drama",
+            "LIMIT -> bounded period and genre"
+          ],
+          "source_references": [
+            "Language as staged hierarchy"
+          ]
+        },
+        {
+          "title": "Documentary heritage range",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "RELIGIOUS -> Rigveda and Gita manuscripts",
+            "AESTHETIC -> Natyashastra and poetics",
+            "ADMINISTRATIVE -> Dutch company archives",
+            "RULE -> cite composition and inscription separately"
+          ],
+          "source_references": [
+            "Manuscripts and recognition dates"
+          ]
+        },
+        {
+          "title": "Survey-to-safeguarding",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IDENTIFY -> locate custodians and repositories",
+            "VERIFY -> expert and state review",
+            "CATALOGUE -> language, script and subject metadata",
+            "CONSERVE / DIGITISE -> preservation and research"
+          ],
+          "source_references": [
+            "Manuscripts and recognition dates"
+          ]
+        },
+        {
+          "title": "Language answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> state the classification axis",
+            "EVIDENCE -> text, inscription or convention",
+            "COMPARE -> register, script or public",
+            "QUALIFY -> dating, attribution and status"
+          ],
+          "source_references": [
+            "Verified PYQs and final language answer spine"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "indian-art-and-culture-12",
+      "display_title": "Crafts, Textiles, Folk and Tribal Traditions",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Indian-Art-and-Culture\\12_Crafts-Textiles-Folk-and-Tribal-Traditions_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Craft ecology root",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "RAW MATERIAL -> ecological access",
+            "SKILL -> technique and apprenticeship",
+            "COMMUNITY -> labour and transmission",
+            "MARKET / LAW -> access, GI and safeguarding"
+          ],
+          "source_references": [
+            "The craft ecology chain"
+          ]
+        },
+        {
+          "title": "GI legal boundary",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GI -> origin-linked product name",
+            "TERM -> ten years, renewable",
+            "SCOPE -> goods, not services",
+            "LIMIT -> no automatic livelihood guarantee"
+          ],
+          "source_references": [
+            "What a GI legally protects"
+          ]
+        },
+        {
+          "title": "Cross-border protection",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DARJEELING TEA -> first Indian GI",
+            "INDIAN GI -> domestic protection",
+            "KANGRA TEA -> separate EU protection",
+            "RULE -> rights do not travel automatically"
+          ],
+          "source_references": [
+            "First GI and foreign protection"
+          ]
+        },
+        {
+          "title": "Ikat matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PATOLA -> Patan, double ikat",
+            "POCHAMPALLY -> Telangana, single or double ikat",
+            "COMMON -> resist-dyed yarn",
+            "TRAP -> centre plus process must match"
+          ],
+          "source_references": [
+            "Ikat close options"
+          ]
+        },
+        {
+          "title": "Textile process ladder",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "KANCHIPURAM -> joined silk border",
+            "BANARASI -> supplementary-weft brocade",
+            "CHIKANKARI -> white embroidery",
+            "KANTHA -> running stitch and reused cloth"
+          ],
+          "source_references": [
+            "Brocade, silk and embroidery"
+          ]
+        },
+        {
+          "title": "Surface and metal process",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KALAMKARI -> mordant or resist cotton surface",
+            "DHOKRA -> lost-wax metal casting",
+            "PROCESS -> determines tools and labour",
+            "RULE -> shared craft label proves nothing"
+          ],
+          "source_references": [
+            "Kalamkari, Dhokra and material process"
+          ]
+        },
+        {
+          "title": "Glass evidence chain",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "TEXT -> Mahabharata and Shatapatha Brahmana",
+            "PGW -> archaeological glass evidence",
+            "BRAHMAPURI / KOLHAPUR -> bead industry",
+            "LIMIT -> evidence classes must remain separate"
+          ],
+          "source_references": [
+            "Glass craft chronology"
+          ]
+        },
+        {
+          "title": "North-East method",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "COMMUNITY -> identify the weavers",
+            "FIBRE -> Eri, Muga, silk or cotton",
+            "PROCESS -> ginning, spinning and weaving",
+            "PRODUCT -> garment and motif"
+          ],
+          "source_references": [
+            "North-East handloom method"
+          ]
+        },
+        {
+          "title": "Eri-Muga firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MEGHALAYA -> Eri, Garo-Khasi-Jaintia",
+            "ASSAM -> golden Muga",
+            "MEKHELA CHADOR -> shared garment",
+            "TRAP -> garment alone cannot identify state"
+          ],
+          "source_references": [
+            "Eri and Muga firewall"
+          ]
+        },
+        {
+          "title": "Regional handloom map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "MANIPUR -> Moirang Phee and Phanek",
+            "NAGALAND -> tribe-specific motifs and natural dyes",
+            "ARUNACHAL -> Adi, Apatani, Nyishi and Monpa",
+            "MIZORAM / TRIPURA -> Puan, stripes and embroidery"
+          ],
+          "source_references": [
+            "Manipur and Nagaland discriminators",
+            "Arunachal, Mizoram and Tripura"
+          ]
+        },
+        {
+          "title": "Certification gap test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PRODUCTION FACT VERIFIED? -> write Eri evidence",
+            "CERTIFICATION CRITERIA VERIFIED? -> no",
+            "GI COMPARISON -> legal instrument only",
+            "VERDICT -> disclose the bounded gap"
+          ],
+          "source_references": [
+            "Beyond the GI label"
+          ]
+        },
+        {
+          "title": "Craft answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> material, skill and community",
+            "IDENTIFY -> region, process and product",
+            "ANALYSE -> market, law, ecology and labour",
+            "QUALIFY -> status, ownership and source limits"
+          ],
+          "source_references": [
+            "Verified craft PYQs and live institutional link"
+          ]
+        }
+      ]
+    }
+  ]
+}

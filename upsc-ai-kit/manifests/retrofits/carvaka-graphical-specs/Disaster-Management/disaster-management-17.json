@@ -1,0 +1,973 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-17",
+  "subject": "Disaster-Management",
+  "title": "HUMANITARIAN LOGISTICS, RELIEF, REHABILITATION AND RECOVERY",
+  "short_route": "POST-IMPACT PHASE RAIL → NEEDS-ASSESSMENT LOOP → HUMANITARIAN PRINCIPLES COMPASS → ANTICIPATORY LOGISTICS SPLIT → SUPPLY-CHAIN RAIL → INFORMATION BOARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-17_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-17-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "0450190523707e887f32dc3eecef18ec95dbd98cdb0f5aa33816b4663f224561",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POST-IMPACT PHASE RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "POST-IMPACT PHASE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFE-SAVING OPERATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "2 RELIEF",
+          "role": "evidence"
+        },
+        {
+          "text": "URGENT SURVIVAL NEEDS",
+          "role": "primary"
+        },
+        {
+          "text": "3 REHABILITATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "4 RECONSTRUCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 RESPONSE → LIFE-SAVING OPERATIONS",
+        "2 RELIEF → URGENT SURVIVAL NEEDS",
+        "3 REHABILITATION → BASIC FUNCTION",
+        "4 RECONSTRUCTION / RECOVERY → FULLER RISK-INFORMED RESTORATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 RESPONSE → LIFE-SAVING OPERATIONS",
+            "2 RELIEF → URGENT SURVIVAL NEEDS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 REHABILITATION → BASIC FUNCTION",
+            "4 RECONSTRUCTION / RECOVERY → FULLER RISK-INFORMED RESTORATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 RESPONSE → LIFE-SAVING OPERATIONS",
+            "2 RELIEF → URGENT SURVIVAL NEEDS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 RECONSTRUCTION / RECOVERY → FULLER RISK-INFORMED RESTORATION.",
+      "source_references": [
+        "Response relief rehabilitation reconstruction recovery"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NEEDS-ASSESSMENT LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NEEDS-ASSESSMENT LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "PRIORITY NEED",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS + LOCAL CAPACITY + PROTECTION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "STATE UNCERTAINTY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "WHO / WHERE / SEVERITY / PRIORITY NEED",
+        "ACCESS + LOCAL CAPACITY + PROTECTION RISK",
+        "VERIFY / DISAGGREGATE / STATE UNCERTAINTY",
+        "DELIVER → FEEDBACK → UPDATE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WHO / WHERE / SEVERITY / PRIORITY NEED",
+            "ACCESS + LOCAL CAPACITY + PROTECTION RISK"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "VERIFY / DISAGGREGATE / STATE UNCERTAINTY",
+            "DELIVER → FEEDBACK → UPDATE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "WHO / WHERE / SEVERITY / PRIORITY NEED",
+            "ACCESS + LOCAL CAPACITY + PROTECTION RISK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHO / WHERE / SEVERITY / PRIORITY NEED.",
+      "source_references": [
+        "Needs assessment"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HUMANITARIAN PRINCIPLES COMPASS",
+      "structural_type": "compass-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HUMANITARIAN PRINCIPLES COMPASS",
+          "role": "primary"
+        },
+        {
+          "text": "LIFE AND DIGNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NEED WITHOUT ADVERSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT TAKE SIDES",
+          "role": "caution"
+        },
+        {
+          "text": "HUMANITARIAN OBJECTIVE GOVERNS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HUMANITY → LIFE AND DIGNITY",
+        "IMPARTIALITY → NEED WITHOUT ADVERSE DISTINCTION",
+        "NEUTRALITY → DO NOT TAKE SIDES",
+        "INDEPENDENCE → HUMANITARIAN OBJECTIVE GOVERNS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HUMANITY → LIFE AND DIGNITY",
+            "IMPARTIALITY → NEED WITHOUT ADVERSE DISTINCTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "NEUTRALITY → DO NOT TAKE SIDES",
+            "INDEPENDENCE → HUMANITARIAN OBJECTIVE GOVERNS"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "HUMANITY → LIFE AND DIGNITY",
+            "IMPARTIALITY → NEED WITHOUT ADVERSE DISTINCTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEUTRALITY → DO NOT TAKE SIDES; INDEPENDENCE → HUMANITARIAN OBJECTIVE GOVERNS.",
+      "source_references": [
+        "Humanitarian principles"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ANTICIPATORY LOGISTICS SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ANTICIPATORY LOGISTICS SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTED STOCK + STANDING READINESS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNICATION ALTERNATES AND LOCAL PARTNERS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPLOYMENT DOES NOT GUARANTEE REACH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FORECASTABLE → PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+        "SUDDEN-ONSET → DISTRIBUTED STOCK + STANDING READINESS",
+        "BOTH → COMMUNICATION ALTERNATES AND LOCAL PARTNERS",
+        "WARNING / DEPLOYMENT DOES NOT GUARANTEE REACH"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "FORECASTABLE → PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+          "BOTH → COMMUNICATION ALTERNATES AND LOCAL PARTNERS",
+          "FORECASTABLE → PRE-POSITION TEAMS STOCK SHELTER TRANSPORT"
+        ],
+        [
+          "SUDDEN-ONSET → DISTRIBUTED STOCK + STANDING READINESS",
+          "WARNING / DEPLOYMENT DOES NOT GUARANTEE REACH",
+          "SUDDEN-ONSET → DISTRIBUTED STOCK + STANDING READINESS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "FORECASTABLE → PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+            "SUDDEN-ONSET → DISTRIBUTED STOCK + STANDING READINESS"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOTH → COMMUNICATION ALTERNATES AND LOCAL PARTNERS",
+            "WARNING / DEPLOYMENT DOES NOT GUARANTEE REACH"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FORECASTABLE → PRE-POSITION TEAMS STOCK SHELTER TRANSPORT",
+            "SUDDEN-ONSET → DISTRIBUTED STOCK + STANDING READINESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOTH → COMMUNICATION ALTERNATES AND LOCAL PARTNERS; WARNING / DEPLOYMENT DOES NOT GUARANTEE REACH.",
+      "source_references": [
+        "Preparedness and pre-positioning"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SUPPLY-CHAIN RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SUPPLY-CHAIN RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "ALTERNATE ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAST-MILE DISTRIBUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "VERIFY RECEIPT",
+          "role": "evidence"
+        },
+        {
+          "text": "FEEDBACK REPLENISH AND CORRECT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NEED → PROCURE → WAREHOUSE",
+        "TRANSPORT / HUB / ALTERNATE ROUTE",
+        "LAST-MILE DISTRIBUTE → VERIFY RECEIPT",
+        "FEEDBACK REPLENISH AND CORRECT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "NEED → PROCURE → WAREHOUSE",
+            "TRANSPORT / HUB / ALTERNATE ROUTE"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAST-MILE DISTRIBUTE → VERIFY RECEIPT",
+            "FEEDBACK REPLENISH AND CORRECT"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NEED → PROCURE → WAREHOUSE",
+            "TRANSPORT / HUB / ALTERNATE ROUTE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAST-MILE DISTRIBUTE → VERIFY RECEIPT; FEEDBACK REPLENISH AND CORRECT.",
+      "source_references": [
+        "Procurement",
+        "Warehousing and inventory",
+        "Transport and routing",
+        "Last-mile distribution"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INFORMATION BOARD",
+      "structural_type": "status-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INFORMATION BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED NEED",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS CONSTRAINT",
+          "role": "comparison"
+        },
+        {
+          "text": "MINIMUM NECESSARY PERSONAL DATA + ACCOUNTABLE UPDATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERIFIED NEED",
+        "GAP / DUPLICATION / ACCESS CONSTRAINT",
+        "MINIMUM NECESSARY PERSONAL DATA + ACCOUNTABLE UPDATE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "VERIFIED NEED",
+            "GAP / DUPLICATION / ACCESS CONSTRAINT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "MINIMUM NECESSARY PERSONAL DATA + ACCOUNTABLE UPDATE",
+            "VERIFIED NEED"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "GAP / DUPLICATION / ACCESS CONSTRAINT",
+            "MINIMUM NECESSARY PERSONAL DATA + ACCOUNTABLE UPDATE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAP / DUPLICATION / ACCESS CONSTRAINT; MINIMUM NECESSARY PERSONAL DATA + ACCOUNTABLE UPDATE.",
+      "source_references": [
+        "Information and coordination"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CASH OR IN-KIND GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CASH OR IN-KIND GATE",
+          "role": "primary"
+        },
+        {
+          "text": "ARE GOODS AVAILABLE AND MARKETS FUNCTIONING?",
+          "role": "outcome"
+        },
+        {
+          "text": "ARE PRICES ACCESS PAYMENTS AND PROTECTION ACCEPTABLE?",
+          "role": "comparison"
+        },
+        {
+          "text": "VOUCHER MAY SUPPORT CHOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIFIC ASSURANCE NEEDED",
+          "role": "primary"
+        },
+        {
+          "text": "IN-KIND OR MIXED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ARE GOODS AVAILABLE AND MARKETS FUNCTIONING?",
+        "ARE PRICES ACCESS PAYMENTS AND PROTECTION ACCEPTABLE?",
+        "YES → CASH / VOUCHER MAY SUPPORT CHOICE",
+        "NO / SPECIFIC ASSURANCE NEEDED → IN-KIND OR MIXED"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ARE GOODS AVAILABLE AND MARKETS FUNCTIONING?",
+            "ARE PRICES ACCESS PAYMENTS AND PROTECTION ACCEPTABLE?"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "YES → CASH / VOUCHER MAY SUPPORT CHOICE",
+            "NO / SPECIFIC ASSURANCE NEEDED → IN-KIND OR MIXED"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ARE GOODS AVAILABLE AND MARKETS FUNCTIONING?",
+            "ARE PRICES ACCESS PAYMENTS AND PROTECTION ACCEPTABLE?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO / SPECIFIC ASSURANCE NEEDED → IN-KIND OR MIXED.",
+      "source_references": [
+        "Cash versus in-kind"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MINIMUM-SERVICE WEB",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MINIMUM-SERVICE WEB",
+          "role": "primary"
+        },
+        {
+          "text": "SHELTER <→ WASH <→ HEALTH",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESSIBILITY THROUGH ALL",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITY INFORMATION + REFERRAL",
+          "role": "evidence"
+        },
+        {
+          "text": "NUMERIC STANDARD ONLY FROM VERIFIED APPLICABLE SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHELTER <→ WASH <→ HEALTH / NUTRITION",
+        "PROTECTION / PRIVACY / ACCESSIBILITY THROUGH ALL",
+        "COMMUNITY INFORMATION + REFERRAL",
+        "NUMERIC STANDARD ONLY FROM VERIFIED APPLICABLE SOURCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SHELTER <→ WASH <→ HEALTH / NUTRITION",
+            "PROTECTION / PRIVACY / ACCESSIBILITY THROUGH ALL"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "COMMUNITY INFORMATION + REFERRAL",
+            "NUMERIC STANDARD ONLY FROM VERIFIED APPLICABLE SOURCE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SHELTER <→ WASH <→ HEALTH / NUTRITION",
+            "PROTECTION / PRIVACY / ACCESSIBILITY THROUGH ALL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMUNITY INFORMATION + REFERRAL; NUMERIC STANDARD ONLY FROM VERIFIED APPLICABLE SOURCE.",
+      "source_references": [
+        "Shelter WASH health and protection",
+        "Protection and inclusion"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ACCOUNTABILITY CONTROLS",
+      "structural_type": "control-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCOUNTABILITY CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC CRITERIA + SEGREGATED DUTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "BENEFICIARY RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "SPOT CHECK + COMMUNITY MONITOR",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFE GRIEVANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PUBLIC CRITERIA + SEGREGATED DUTIES",
+        "STOCK / RECEIPT / BENEFICIARY RECORD",
+        "SPOT CHECK + COMMUNITY MONITOR",
+        "SAFE GRIEVANCE → INVESTIGATE → CORRECT"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "PUBLIC CRITERIA + SEGREGATED DUTIES",
+          "SPOT CHECK + COMMUNITY MONITOR",
+          "PUBLIC CRITERIA + SEGREGATED DUTIES"
+        ],
+        [
+          "STOCK / RECEIPT / BENEFICIARY RECORD",
+          "SAFE GRIEVANCE → INVESTIGATE → CORRECT",
+          "STOCK / RECEIPT / BENEFICIARY RECORD"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "PUBLIC CRITERIA + SEGREGATED DUTIES",
+            "STOCK / RECEIPT / BENEFICIARY RECORD"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SPOT CHECK + COMMUNITY MONITOR",
+            "SAFE GRIEVANCE → INVESTIGATE → CORRECT"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PUBLIC CRITERIA + SEGREGATED DUTIES",
+            "STOCK / RECEIPT / BENEFICIARY RECORD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPOT CHECK + COMMUNITY MONITOR; SAFE GRIEVANCE → INVESTIGATE → CORRECT.",
+      "source_references": [
+        "Grievance and anti-diversion controls"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RECOVERY CHOICES",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RECOVERY CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "LIVELIHOOD ASSETS SKILLS CREDIT MARKET SOCIAL PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL INTEGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RELOCATION CHOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLASSIFY REUSE DISPOSE SAFELY",
+          "role": "primary"
+        },
+        {
+          "text": "RESTORE WITHOUT RECREATING EXPOSURE OR EXCLUSION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LIVELIHOOD ASSETS SKILLS CREDIT MARKET SOCIAL PROTECTION",
+        "DISPLACEMENT → RETURN / LOCAL INTEGRATION / RELOCATION CHOICE",
+        "DEBRIS → CLASSIFY REUSE DISPOSE SAFELY",
+        "RESTORE WITHOUT RECREATING EXPOSURE OR EXCLUSION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "LIVELIHOOD ASSETS SKILLS CREDIT MARKET SOCIAL PROTECTION",
+            "DISPLACEMENT → RETURN / LOCAL INTEGRATION / RELOCATION CHOICE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DEBRIS → CLASSIFY REUSE DISPOSE SAFELY",
+            "RESTORE WITHOUT RECREATING EXPOSURE OR EXCLUSION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LIVELIHOOD ASSETS SKILLS CREDIT MARKET SOCIAL PROTECTION",
+            "DISPLACEMENT → RETURN / LOCAL INTEGRATION / RELOCATION CHOICE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISPLACEMENT → RETURN / LOCAL INTEGRATION / RELOCATION CHOICE.",
+      "source_references": [
+        "Livelihood restoration",
+        "Displacement and durable solutions",
+        "Debris and environmental recovery"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SEQUENCING AND HANDOVER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SEQUENCING AND HANDOVER",
+          "role": "primary"
+        },
+        {
+          "text": "LIFE + CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPORARY SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "IRS RESPONSE HANDOVER TO NORMAL ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "LONG-TERM RISK-INFORMED RECONSTRUCTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LIFE + CONTINUITY",
+        "TEMPORARY SERVICES / LIVELIHOODS",
+        "IRS RESPONSE HANDOVER TO NORMAL ADMINISTRATION",
+        "LONG-TERM RISK-INFORMED RECONSTRUCTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "LIFE + CONTINUITY",
+            "TEMPORARY SERVICES / LIVELIHOODS"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IRS RESPONSE HANDOVER TO NORMAL ADMINISTRATION",
+            "LONG-TERM RISK-INFORMED RECONSTRUCTION"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "LIFE + CONTINUITY",
+            "TEMPORARY SERVICES / LIVELIHOODS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IRS RESPONSE HANDOVER TO NORMAL ADMINISTRATION; LONG-TERM RISK-INFORMED RECONSTRUCTION.",
+      "source_references": [
+        "Recovery sequencing",
+        "Incident coordination and handover"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "HUMANITARIAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HUMANITARIAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESS ITERATIVELY",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTE BY NEED WITH PRINCIPLES PROTECTION AND GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTORE SERVICES LIVELIHOODS AND DURABLE DISPLACEMENT CHOICES",
+          "role": "evidence"
+        },
+        {
+          "text": "HAND OVER",
+          "role": "primary"
+        },
+        {
+          "text": "BUILD BACK BETTER",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY RECEIPT AND RECOVERY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ASSESS ITERATIVELY → PRE-POSITION / PROCURE / STORE / MOVE",
+        "DISTRIBUTE BY NEED WITH PRINCIPLES PROTECTION AND GRIEVANCE",
+        "RESTORE SERVICES LIVELIHOODS AND DURABLE DISPLACEMENT CHOICES",
+        "HAND OVER → BUILD BACK BETTER → VERIFY RECEIPT AND RECOVERY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "ASSESS ITERATIVELY → PRE-POSITION / PROCURE / STORE / MOVE",
+            "DISTRIBUTE BY NEED WITH PRINCIPLES PROTECTION AND GRIEVANCE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RESTORE SERVICES LIVELIHOODS AND DURABLE DISPLACEMENT CHOICES",
+            "HAND OVER → BUILD BACK BETTER → VERIFY RECEIPT AND RECOVERY"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ASSESS ITERATIVELY → PRE-POSITION / PROCURE / STORE / MOVE",
+            "DISTRIBUTE BY NEED WITH PRINCIPLES PROTECTION AND GRIEVANCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HAND OVER → BUILD BACK BETTER → VERIFY RECEIPT AND RECOVERY.",
+      "source_references": [
+        "Build Back Better",
+        "Delivery-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EMERGENCY-COMMAND HANDOVER POINT, ANALYSED STRUCTURALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "NDRF'S COMPOSITION AS EVIDENCE OF SPECIALISED, NOT GENERALIST",
+          "role": "caution"
+        },
+        {
+          "text": "TSUNAMI-RESPONSE LOGISTICS AS A CONCRETE, NAMED EXAMPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "AAPDA MITRA AS ANTICIPATORY COMMUNITY-CAPACITY INVESTMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ANTICIPATORY LOGISTICS DEPENDS ENTIRELY ON FORECAST ACCURACY AND",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUITABLE NEEDS ASSESSMENT IS IMPLIED BUT NOT DETAILED BY",
+          "role": "caution"
+        },
+        {
+          "text": "SPEED OF RELIEF VERSUS ACCURACY OF NEEDS ASSESSMENT IS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Emergency-command handover point, analysed structurally :",
+            "NDRF's composition as evidence of specialised, not generalist,",
+            "Tsunami-response logistics as a concrete, named example :",
+            "Aapda Mitra as anticipatory community-capacity investment : by"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Anticipatory logistics depends entirely on forecast accuracy and",
+            "CAUTION: Equitable needs assessment is implied but not detailed by",
+            "CAUTION: Speed of relief versus accuracy of needs assessment is a genuine",
+            "CAUTION: Temporary versus full lifeline restoration : VisionIAS's explicit"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"relief was delivered quickly, therefore recovery is",
+            "CAUTION: Institutional-handover risk (Section 3) — the IRS/EOC-to-normal",
+            "CAUTION: VisionIAS's three-phase structure (relief, rehabilitation,",
+            "Any current claim about post-disaster reconstruction financing"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

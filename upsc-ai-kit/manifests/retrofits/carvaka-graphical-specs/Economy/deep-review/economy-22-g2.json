@@ -1,0 +1,1026 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-22",
+  "subject": "Economy",
+  "title": "EMPLOYMENT, LABOUR CODES, SKILLS AND DEMOGRAPHIC DIVIDEND",
+  "short_route": "JOBS QUALITY DASHBOARD → LABOUR INDICATORS MATRIX → PLFS REFERENCE-PERIOD CLOCK → UNEMPLOYMENT MECHANISM TREE → HUMAN-CAPITAL CHAIN → CERTIFICATION-TO-OUTCOME LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-22-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "3574c5ead412c032eeaaa0d7dee82a6f6262eeb562918ba8b41c1811718a68a9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "JOBS QUALITY DASHBOARD",
+      "structural_type": "evaluation-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "JOBS QUALITY DASHBOARD",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTITY + HOURS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCTIVITY + REAL EARNINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECURITY + CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILITY + PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "EMPLOYMENT ANALYSIS SEPARATES LABOUR FORCE, WORKFORCE, UNEMPLOYMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "QUANTITY + HOURS",
+        "PRODUCTIVITY + REAL EARNINGS",
+        "SECURITY + CONDITIONS",
+        "MOBILITY + PROTECTION",
+        "MUST REMEMBER: Employment analysis separates labour force, workforce, unemployment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "QUANTITY + HOURS",
+            "PRODUCTIVITY + REAL EARNINGS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECURITY + CONDITIONS",
+            "MOBILITY + PROTECTION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Employment analysis separates labour force, workforce, unemployment,...",
+            "QUANTITY + HOURS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Employment analysis separates labour force, workforce, unemployment,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LABOUR INDICATORS MATRIX",
+      "structural_type": "formula-board",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LABOUR INDICATORS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "LABOUR FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIED POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DENOMINATOR MUST BE NAMED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LFPR = labour force / specified population",
+        "WPR = employed / specified population",
+        "UR = unemployed / labour force",
+        "DENOMINATOR must be named"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LFPR = labour force / specified population",
+          "UR = unemployed / labour force",
+          "LFPR = labour force / specified population"
+        ],
+        [
+          "WPR = employed / specified population",
+          "DENOMINATOR must be named",
+          "WPR = employed / specified population"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LFPR = labour force / specified population",
+            "WPR = employed / specified population"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UR = unemployed / labour force",
+            "DENOMINATOR must be named"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LFPR = labour force / specified population",
+            "WPR = employed / specified population"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UR = unemployed / labour force; DENOMINATOR must be named.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PLFS REFERENCE-PERIOD CLOCK",
+      "structural_type": "comparison-strip",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLFS REFERENCE-PERIOD CLOCK",
+          "role": "primary"
+        },
+        {
+          "text": "USUAL STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "LONGER REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT WEEKLY STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "SEVEN-DAY REFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "AGE + RURAL/URBAN",
+          "role": "outcome"
+        },
+        {
+          "text": "ALWAYS STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ONE HEADLINE CANNOT REPLACE DISAGGREGATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "USUAL STATUS → longer reference",
+        "CURRENT WEEKLY STATUS → seven-day reference",
+        "AGE + RURAL/URBAN → always state",
+        "ONE headline cannot replace disaggregation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "USUAL STATUS → longer reference",
+          "AGE + RURAL/URBAN → always state",
+          "USUAL STATUS → longer reference"
+        ],
+        [
+          "CURRENT WEEKLY STATUS → seven-day reference",
+          "ONE headline cannot replace disaggregation",
+          "CURRENT WEEKLY STATUS → seven-day reference"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "USUAL STATUS → longer reference",
+            "CURRENT WEEKLY STATUS → seven-day reference"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AGE + RURAL/URBAN → always state",
+            "ONE headline cannot replace disaggregation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USUAL STATUS → longer reference",
+            "CURRENT WEEKLY STATUS → seven-day reference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGE + RURAL/URBAN → always state; ONE headline cannot replace disaggregation.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "UNEMPLOYMENT MECHANISM TREE",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UNEMPLOYMENT MECHANISM TREE",
+          "role": "mechanism"
+        },
+        {
+          "text": "TIMING + DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "SURPLUS LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "FRICTIONAL → TRANSITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FRICTIONAL → transition",
+        "STRUCTURAL → mismatch",
+        "SEASONAL / CYCLICAL → timing + demand",
+        "DISGUISED → surplus labour"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FRICTIONAL → transition",
+            "STRUCTURAL → mismatch"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEASONAL / CYCLICAL → timing + demand",
+            "DISGUISED → surplus labour"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FRICTIONAL → transition",
+            "STRUCTURAL → mismatch"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEASONAL / CYCLICAL → timing + demand; DISGUISED → surplus labour.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HUMAN-CAPITAL CHAIN",
+      "structural_type": "cause-effect-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HUMAN-CAPITAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH + FOUNDATION LEARNING",
+          "role": "outcome"
+        },
+        {
+          "text": "SKILL + EXPERIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCTIVE MATCH",
+          "role": "evidence"
+        },
+        {
+          "text": "EARNINGS + ADAPTABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HEALTH + FOUNDATION LEARNING",
+        "SKILL + EXPERIENCE",
+        "PRODUCTIVE MATCH",
+        "EARNINGS + ADAPTABILITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HEALTH + FOUNDATION LEARNING",
+            "SKILL + EXPERIENCE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRODUCTIVE MATCH",
+            "EARNINGS + ADAPTABILITY"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HEALTH + FOUNDATION LEARNING",
+            "SKILL + EXPERIENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SKILL + EXPERIENCE; PRODUCTIVE MATCH; EARNINGS + ADAPTABILITY.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CERTIFICATION-TO-OUTCOME LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CERTIFICATION-TO-OUTCOME LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "WAGE GAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACED → RETAINED → WAGE GAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "PLACED → RETAINED →",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLACED → RETAINED → WAGE GAIN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLACED → RETAINED → WAGE GAIN",
+            "PLACED → RETAINED → WAGE GAIN"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLACED → RETAINED → WAGE GAIN",
+            "PLACED → RETAINED → WAGE GAIN"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLACED → RETAINED → WAGE GAIN",
+            "PLACED → RETAINED → WAGE GAIN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAINED; CERTIFIED; PLACED → RETAINED → WAGE GAIN.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEMOGRAPHIC DIVIDEND CONVERTER",
+      "structural_type": "conversion-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEMOGRAPHIC DIVIDEND CONVERTER",
+          "role": "primary"
+        },
+        {
+          "text": "WORKING-AGE SHARE X HEALTH + EDUCATION X PARTICIPATION +",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKING-AGE SHARE X HEALTH",
+          "role": "comparison"
+        },
+        {
+          "text": "+ EDUCATION X PARTICIPATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND",
+            "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND",
+            "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND",
+            "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORKING-AGE SHARE x HEALTH + EDUCATION x PARTICIPATION + JOBS x PRODUCTIVITY → DIVIDEND.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CARE-ECONOMY CONSTRAINT MAP",
+      "structural_type": "two-track-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CARE-ECONOMY CONSTRAINT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UNPAID CARE",
+          "role": "outcome"
+        },
+        {
+          "text": "TIME CONSTRAINT",
+          "role": "comparison"
+        },
+        {
+          "text": "CARE SERVICES",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTICIPATION SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "GDP BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT VALUE JUDGEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "RECOGNISE + REDUCE + REDISTRIBUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNPAID CARE → time constraint",
+        "CARE SERVICES → participation support",
+        "GDP BOUNDARY → not value judgement",
+        "3R → recognise + reduce + redistribute"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNPAID CARE → time constraint",
+            "CARE SERVICES → participation support"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GDP BOUNDARY → not value judgement",
+            "3R → recognise + reduce + redistribute"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNPAID CARE → time constraint",
+            "CARE SERVICES → participation support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GDP BOUNDARY → not value judgement; 3R → recognise + reduce + redistribute.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LABOUR CODES MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LABOUR CODES MAP",
+          "role": "primary"
+        },
+        {
+          "text": "WAGES 2019",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUSTRIAL RELATIONS 2020",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL SECURITY 2020",
+          "role": "evidence"
+        },
+        {
+          "text": "OSHWC 2020",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WAGES 2019",
+        "INDUSTRIAL RELATIONS 2020",
+        "SOCIAL SECURITY 2020",
+        "OSHWC 2020"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAGES 2019",
+            "INDUSTRIAL RELATIONS 2020"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOCIAL SECURITY 2020",
+            "OSHWC 2020"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WAGES 2019",
+            "INDUSTRIAL RELATIONS 2020"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDUSTRIAL RELATIONS 2020; SOCIAL SECURITY 2020; OSHWC 2020.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "IMPLEMENTATION STATUS RAIL",
+      "structural_type": "status-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IMPLEMENTATION STATUS RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "ENACTED 2019-20",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMENCEMENT 21 NOV 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "FINAL CENTRAL RULES MAY 2026",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE RULES + ENFORCEMENT VARY",
+          "role": "institution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEMPLOYMENT RATE DENOMINATOR IS LABOUR FORCE, NOT POPULATION; LABOUR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENACTED 2019-20",
+        "COMMENCEMENT 21 NOV 2025",
+        "FINAL CENTRAL RULES MAY 2026",
+        "STATE RULES + ENFORCEMENT vary",
+        "CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENACTED 2019-20",
+            "COMMENCEMENT 21 NOV 2025"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FINAL CENTRAL RULES MAY 2026",
+            "STATE RULES + ENFORCEMENT vary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-...",
+            "ENACTED 2019-20"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "NEW-WORK BOUNDARY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NEW-WORK BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "TEST WAGES + SECURITY + BARGAINING SEPARATELY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NAME PLFS STATUS, REFERENCE PERIOD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CASUAL / CONTRACT",
+        "GIG / PLATFORM",
+        "TEST wages + security + bargaining separately",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CASUAL / CONTRACT",
+          "TEST wages + security + bargaining separately",
+          "CASUAL / CONTRACT"
+        ],
+        [
+          "GIG / PLATFORM",
+          "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,...",
+          "GIG / PLATFORM"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CASUAL / CONTRACT",
+            "GIG / PLATFORM"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST wages + security + bargaining separately",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,..."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASUAL / CONTRACT",
+            "GIG / PLATFORM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EMPLOYMENT ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EMPLOYMENT ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE INDICATOR + DENOMINATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "DIAGNOSE UNEMPLOYMENT TYPE",
+          "role": "comparison"
+        },
+        {
+          "text": "LINK SKILLS TO DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE JOBS + EARNINGS + PORTABLE PROTECTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE indicator + denominator",
+        "DIAGNOSE unemployment type",
+        "LINK skills to demand",
+        "CONCLUDE jobs + earnings + portable protection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE indicator + denominator",
+            "DIAGNOSE unemployment type"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LINK skills to demand",
+            "CONCLUDE jobs + earnings + portable protection"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE indicator + denominator",
+            "DIAGNOSE unemployment type"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK skills to demand; CONCLUDE jobs + earnings + portable protection.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-22\\g2\\economy-22_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN UNEMPLOYMENT CAN COEXIST WITH UNDEREMPLOYMENT, LOW EARNINGS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "PERIODIC LABOUR-FORCE ESTIMATES DIFFER BY REFERENCE PERIOD, STATUS MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "LABOUR REGULATION AFFECTS FIRM SCALE, BARGAINING, SECURITY, COMPLIANCE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "SKILL POLICY MUST BE EMPLOYER-LINKED, OUTCOME-MEASURED AND COMBINED WITH",
+          "role": "primary"
+        },
+        {
+          "text": "CARE INFRASTRUCTURE, SAFE TRANSPORT AND FLEXIBLE WORK CAN RAISE",
+          "role": "outcome"
+        },
+        {
+          "text": "PORTABLE SOCIAL SECURITY IS CRUCIAL FOR MIGRANT, GIG AND",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF LABOUR AND EMPLOYMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Open unemployment can coexist with underemployment, low earnings and low productivity.",
+            "CAUTION: Periodic labour-force estimates differ by reference period, status measure and rural",
+            "CAUTION: Labour regulation affects firm scale, bargaining, security, compliance and dispute",
+            "CAUTION: Skill policy must be employer-linked, outcome-measured and combined with foundational"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Care infrastructure, safe transport and flexible work can raise women's participation",
+            "CAUTION: Portable social security is crucial for migrant, gig and platform workers whose",
+            "Ministry of Labour and Employment: administers central labour policy, employment",
+            "State labour departments: frame state rules where required and enforce workplace"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "EPFO, ESIC and e-Shram architecture: provide or support formal and portable social",
+            "Skill-development ministries, Sector Skill Councils and employers: connect training",
+            "CAUTION: A lower unemployment rate can reflect discouraged workers leaving the labour force",
+            "CAUTION: A training certificate has limited value if employers do not recognise the competency"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

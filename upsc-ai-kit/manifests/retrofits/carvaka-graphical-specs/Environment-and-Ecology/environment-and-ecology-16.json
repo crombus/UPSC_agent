@@ -1,0 +1,1135 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-16",
+  "subject": "Environment-and-Ecology",
+  "title": "ENVIRONMENTAL IMPACT ASSESSMENT AND NGT",
+  "short_route": "PRIOR-CLEARANCE FIREWALL → APPROVAL MATRIX → CLASSIFICATION GATE → FOUR-PROCESS DISTINCTION → EIA EVIDENCE CHAIN → CONSULTATION QUALITY GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-16_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-16-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "37fc956b8cff25fd57c3c0af812cfff4d2cf0f29e9ae4843accb5f194ee574c9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PRIOR-CLEARANCE FIREWALL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRIOR-CLEARANCE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST EIA SCHEDULE APPLICABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIOR EC REQUIRED",
+          "role": "evidence"
+        },
+        {
+          "text": "APPRAISAL BEFORE PROHIBITED START",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITIONAL GRANT OR REJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETENT AUTHORITY DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTRUCTION OR OPERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROJECT CONCEPT → test EIA schedule applicability",
+        "PRIOR EC REQUIRED → appraisal before prohibited start",
+        "CONDITIONAL GRANT OR REJECTION → competent authority decision",
+        "CONSTRUCTION OR OPERATION → only under applicable approvals",
+        "RULE → later paperwork cannot recreate prior appraisal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "PROJECT CONCEPT → test EIA schedule applicability",
+            "PRIOR EC REQUIRED → appraisal before prohibited start"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "CONDITIONAL GRANT OR REJECTION → competent authority decision",
+            "CONSTRUCTION OR OPERATION → only under applicable approvals"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → later paperwork cannot recreate prior appraisal",
+            "PROJECT CONCEPT → test EIA schedule applicability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → later paperwork cannot recreate prior appraisal.",
+      "source_references": [
+        "Prior EC boundary",
+        "Schedule applicability"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "APPROVAL MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "APPROVAL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ENVIRONMENTAL CLEARANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROJECT IMPACT APPRAISAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CTE OR CTO",
+          "role": "evidence"
+        },
+        {
+          "text": "POLLUTION-CONTROL CONSENT",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST CLEARANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOREST-LAW DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "WILDLIFE OR CRZ APPROVAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENVIRONMENTAL CLEARANCE → project impact appraisal",
+        "CTE OR CTO → pollution-control consent",
+        "FOREST CLEARANCE → forest-law decision",
+        "WILDLIFE OR CRZ APPROVAL → separate legal interest",
+        "NO SUBSTITUTION → each approval retains its own test"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "ENVIRONMENTAL CLEARANCE → project impact appraisal",
+          "FOREST CLEARANCE → forest-law decision",
+          "NO SUBSTITUTION → each approval retains its own test"
+        ],
+        [
+          "CTE OR CTO → pollution-control consent",
+          "WILDLIFE OR CRZ APPROVAL → separate legal interest",
+          "ENVIRONMENTAL CLEARANCE → project impact appraisal"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "ENVIRONMENTAL CLEARANCE → project impact appraisal",
+            "CTE OR CTO → pollution-control consent"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FOREST CLEARANCE → forest-law decision",
+            "WILDLIFE OR CRZ APPROVAL → separate legal interest"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO SUBSTITUTION → each approval retains its own test",
+            "ENVIRONMENTAL CLEARANCE → project impact appraisal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO SUBSTITUTION → each approval retains its own test.",
+      "source_references": [
+        "EC and consent boundary",
+        "Multiple-clearance boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CLASSIFICATION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLASSIFICATION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT OR ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "READ CURRENT SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "THRESHOLD AND LOCATION",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLY NOTIFIED CRITERIA",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY A OR B",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETENT APPRAISAL LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "B1 OR B2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROJECT OR ACTIVITY → read current schedule",
+        "THRESHOLD AND LOCATION → apply notified criteria",
+        "CATEGORY A OR B → competent appraisal level",
+        "B1 OR B2 → assessment route only where supported",
+        "NO GUESS → title or size alone is insufficient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PROJECT OR ACTIVITY → read current schedule",
+            "THRESHOLD AND LOCATION → apply notified criteria"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CATEGORY A OR B → competent appraisal level",
+            "B1 OR B2 → assessment route only where supported"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO GUESS → title or size alone is insufficient",
+            "PROJECT OR ACTIVITY → read current schedule"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO GUESS → title or size alone is insufficient.",
+      "source_references": [
+        "Schedule applicability",
+        "Category A and B boundary",
+        "B1 and B2 boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FOUR-PROCESS DISTINCTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-PROCESS DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DETERMINE APPLICABLE ROUTE WHERE REQUIRED",
+          "role": "outcome"
+        },
+        {
+          "text": "SET SIGNIFICANT ISSUES AND TERMS OF REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC CONSULTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "RECEIVE AFFECTED AND STAKEHOLDER CONCERNS",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERT REVIEW OF THE FULL RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETENT AUTHORITY GRANTS, CONDITIONS OR REJECTS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SCREENING → determine applicable route where required",
+        "SCOPING → set significant issues and terms of reference",
+        "PUBLIC CONSULTATION → receive affected and stakeholder concerns",
+        "APPRAISAL → expert review of the full record",
+        "DECISION → competent authority grants, conditions or rejects"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "SCREENING → determine applicable route where required",
+          "PUBLIC CONSULTATION → receive affected and stakeholder concerns",
+          "DECISION → competent authority grants, conditions or rejects"
+        ],
+        [
+          "SCOPING → set significant issues and terms of reference",
+          "APPRAISAL → expert review of the full record",
+          "SCREENING → determine applicable route where required"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "SCREENING → determine applicable route where required",
+            "SCOPING → set significant issues and terms of reference"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PUBLIC CONSULTATION → receive affected and stakeholder concerns",
+            "APPRAISAL → expert review of the full record"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "DECISION → competent authority grants, conditions or rejects",
+            "SCREENING → determine applicable route where required"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECISION → competent authority grants, conditions or rejects.",
+      "source_references": [
+        "Screening boundary",
+        "Scoping and terms of reference",
+        "Public-consultation boundary",
+        "Appraisal and decision"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EIA EVIDENCE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EIA EVIDENCE CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "EXISTING ENVIRONMENTAL AND SOCIAL CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SITE, TECHNOLOGY AND NO-PROJECT COMPARISON",
+          "role": "caution"
+        },
+        {
+          "text": "IMPACT PREDICTION",
+          "role": "evidence"
+        },
+        {
+          "text": "MAGNITUDE, DURATION AND UNCERTAINTY",
+          "role": "primary"
+        },
+        {
+          "text": "AVOID, MINIMISE, RESTORE OR COMPENSATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EMP AND MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTATION AND VERIFICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASELINE → existing environmental and social condition",
+        "ALTERNATIVES → site, technology and no-project comparison",
+        "IMPACT PREDICTION → magnitude, duration and uncertainty",
+        "MITIGATION → avoid, minimise, restore or compensate",
+        "EMP AND MONITORING → implementation and verification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "BASELINE → existing environmental and social condition",
+            "ALTERNATIVES → site, technology and no-project comparison"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "IMPACT PREDICTION → magnitude, duration and uncertainty",
+            "MITIGATION → avoid, minimise, restore or compensate"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EMP AND MONITORING → implementation and verification",
+            "BASELINE → existing environmental and social condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MITIGATION → avoid, minimise, restore or compensate; EMP AND MONITORING → implementation and verification.",
+      "source_references": [
+        "Assessment evidence"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CONSULTATION QUALITY GATE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSULTATION QUALITY GATE",
+          "role": "primary"
+        },
+        {
+          "text": "READ CURRENT NOTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTICE AND ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "AFFECTED PEOPLE CAN INSPECT MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "HEARING OR WRITTEN RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "COLLECT CONCERNS",
+          "role": "outcome"
+        },
+        {
+          "text": "APPRAISAL RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHOW HOW ISSUES WERE CONSIDERED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPLICABILITY → read current notification",
+        "NOTICE AND ACCESS → affected people can inspect material",
+        "HEARING OR WRITTEN RESPONSE → collect concerns",
+        "APPRAISAL RESPONSE → show how issues were considered",
+        "EXEMPTION CLAIM → cite exact provision or do not assert it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "APPLICABILITY → read current notification",
+            "NOTICE AND ACCESS → affected people can inspect material"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HEARING OR WRITTEN RESPONSE → collect concerns",
+            "APPRAISAL RESPONSE → show how issues were considered"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EXEMPTION CLAIM → cite exact provision or do not assert it",
+            "APPLICABILITY → read current notification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXEMPTION CLAIM → cite exact provision or do not assert it.",
+      "source_references": [
+        "Public-consultation boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RECOMMENDATION-DECISION LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RECOMMENDATION-DECISION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "EIA, EMP AND CONSULTATION MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPERT COMMITTEE",
+          "role": "evidence"
+        },
+        {
+          "text": "APPRAISAL AND RECOMMENDATION",
+          "role": "primary"
+        },
+        {
+          "text": "COMPETENT AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FINAL REASONED ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "ENFORCEABLE PROJECT OBLIGATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROJECT RECORD → EIA, EMP and consultation material",
+        "EXPERT COMMITTEE → appraisal and recommendation",
+        "COMPETENT AUTHORITY → final reasoned order",
+        "CONDITIONS → enforceable project obligations",
+        "MONITORING → evidence after grant"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PROJECT RECORD → EIA, EMP and consultation material",
+            "EXPERT COMMITTEE → appraisal and recommendation"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPETENT AUTHORITY → final reasoned order",
+            "CONDITIONS → enforceable project obligations"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MONITORING → evidence after grant",
+            "PROJECT RECORD → EIA, EMP and consultation material"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROJECT RECORD → EIA, EMP and consultation material.",
+      "source_references": [
+        "Appraisal and decision",
+        "Post-clearance compliance"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GRANT-TO-OUTCOME CHAIN",
+      "structural_type": "layered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GRANT-TO-OUTCOME CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CLEARANCE GRANTED",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITION LISTED",
+          "role": "evidence"
+        },
+        {
+          "text": "REQUIRED SAFEGUARD",
+          "role": "primary"
+        },
+        {
+          "text": "ACTION IMPLEMENTED",
+          "role": "outcome"
+        },
+        {
+          "text": "PHYSICAL COMPLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MONITORING VERIFIED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLEARANCE GRANTED → legal decision",
+        "CONDITION LISTED → required safeguard",
+        "ACTION IMPLEMENTED → physical compliance",
+        "MONITORING VERIFIED → evidence stage",
+        "OUTCOME → environmental result, separately assessed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CLEARANCE GRANTED → legal decision",
+            "CONDITION LISTED → required safeguard"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACTION IMPLEMENTED → physical compliance",
+            "MONITORING VERIFIED → evidence stage"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME → environmental result, separately assessed",
+            "CLEARANCE GRANTED → legal decision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONITORING VERIFIED → evidence stage; OUTCOME → environmental result, separately assessed.",
+      "source_references": [
+        "Post-clearance compliance"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NGT IDENTITY MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NGT IDENTITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALISED STATUTORY TRIBUNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CPCB OR SPCB",
+          "role": "comparison"
+        },
+        {
+          "text": "POLLUTION-CONTROL REGULATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "EAC OR SEAC",
+          "role": "primary"
+        },
+        {
+          "text": "APPRAISAL COMMITTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEARANCE AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE DECISION-MAKER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NGT → specialised statutory tribunal",
+        "CPCB OR SPCB → pollution-control regulator",
+        "EAC OR SEAC → appraisal committee",
+        "CLEARANCE AUTHORITY → administrative decision-maker",
+        "CONSTITUTIONAL COURT → writ and appellate constitutional role"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NGT → specialised statutory tribunal",
+          "EAC OR SEAC → appraisal committee",
+          "CONSTITUTIONAL COURT → writ and appellate constitutional role"
+        ],
+        [
+          "CPCB OR SPCB → pollution-control regulator",
+          "CLEARANCE AUTHORITY → administrative decision-maker",
+          "NGT → specialised statutory tribunal"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NGT → specialised statutory tribunal",
+            "CPCB OR SPCB → pollution-control regulator"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EAC OR SEAC → appraisal committee",
+            "CLEARANCE AUTHORITY → administrative decision-maker"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "CONSTITUTIONAL COURT → writ and appellate constitutional role",
+            "NGT → specialised statutory tribunal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTITUTIONAL COURT → writ and appellate constitutional role.",
+      "source_references": [
+        "NGT statutory identity",
+        "Constitutional-court boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "JURISDICTION FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JURISDICTION FORK",
+          "role": "primary"
+        },
+        {
+          "text": "SUBSTANTIAL ENVIRONMENTAL QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST SCHEDULE I BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "ORIGINAL CASE",
+          "role": "evidence"
+        },
+        {
+          "text": "CIVIL ENVIRONMENTAL DISPUTE UNDER THE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIFIED ORDER AND APPEAL PROVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "WRIT ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE CONSTITUTIONAL REVIEW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUBSTANTIAL ENVIRONMENTAL QUESTION → test Schedule I boundary",
+        "ORIGINAL CASE → civil environmental dispute under the Act",
+        "APPEAL → specified order and appeal provision",
+        "WRIT ROUTE → separate constitutional review",
+        "NO LABEL-BASED JURISDICTION → statute controls"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SUBSTANTIAL ENVIRONMENTAL QUESTION → test Schedule I boundary",
+            "ORIGINAL CASE → civil environmental dispute under the Act"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPEAL → specified order and appeal provision",
+            "WRIT ROUTE → separate constitutional review"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO LABEL-BASED JURISDICTION → statute controls",
+            "SUBSTANTIAL ENVIRONMENTAL QUESTION → test Schedule I boundary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ORIGINAL CASE → civil environmental dispute under the Act.",
+      "source_references": [
+        "Original-jurisdiction boundary",
+        "Appellate-jurisdiction boundary",
+        "Constitutional-court boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REMEDY AND LIMITATION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REMEDY AND LIMITATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "RELIEF OR COMPENSATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSON OR DAMAGE CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPERTY RESTITUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTORE AFFECTED PROPERTY",
+          "role": "primary"
+        },
+        {
+          "text": "ENVIRONMENT RESTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "REPAIR ENVIRONMENTAL HARM",
+          "role": "comparison"
+        },
+        {
+          "text": "REMEDY-SPECIFIC CLOCK AND EXTENSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIEF OR COMPENSATION → person or damage claim",
+        "PROPERTY RESTITUTION → restore affected property",
+        "ENVIRONMENT RESTITUTION → repair environmental harm",
+        "LIMITATION → remedy-specific clock and extension",
+        "PRINCIPLES → apply within jurisdiction and evidence"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "RELIEF OR COMPENSATION → person or damage claim",
+          "ENVIRONMENT RESTITUTION → repair environmental harm",
+          "PRINCIPLES → apply within jurisdiction and evidence"
+        ],
+        [
+          "PROPERTY RESTITUTION → restore affected property",
+          "LIMITATION → remedy-specific clock and extension",
+          "RELIEF OR COMPENSATION → person or damage claim"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "RELIEF OR COMPENSATION → person or damage claim",
+            "PROPERTY RESTITUTION → restore affected property"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ENVIRONMENT RESTITUTION → repair environmental harm",
+            "LIMITATION → remedy-specific clock and extension"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "PRINCIPLES → apply within jurisdiction and evidence",
+            "RELIEF OR COMPENSATION → person or damage claim"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELIEF OR COMPENSATION → person or damage claim.",
+      "source_references": [
+        "Remedy boundary",
+        "Principles and adjudication",
+        "Limitation discipline"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INSTRUMENT AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INSTRUMENT AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "APPLICABILITY, CATEGORY, STUDY AND CONSULTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "APPRAISAL, REASONED ORDER AND DISTINCT APPROVALS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONS, COMPLIANCE AND ENVIRONMENTAL OUTCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "NGT JURISDICTION, APPEAL, RELIEF AND LIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "DRAFT, NOTIFICATION, MEMORANDUM, JUDGMENT AND PYQ STATUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PREVENT → applicability, category, study and consultation",
+        "DECIDE → appraisal, reasoned order and distinct approvals",
+        "MONITOR → conditions, compliance and environmental outcome",
+        "REMEDY → NGT jurisdiction, appeal, relief and limitation",
+        "AUDIT → draft, notification, memorandum, judgment and PYQ status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PREVENT → applicability, category, study and consultation",
+            "DECIDE → appraisal, reasoned order and distinct approvals"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MONITOR → conditions, compliance and environmental outcome",
+            "REMEDY → NGT jurisdiction, appeal, relief and limitation"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "AUDIT → draft, notification, memorandum, judgment and PYQ status",
+            "PREVENT → applicability, category, study and consultation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIT → draft, notification, memorandum, judgment and PYQ status.",
+      "source_references": [
+        "Instrument and evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PERIODIC PROPOSALS TO STREAMLINE OR REVISE THE EIA PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "BALANCED FRAMING FOR MAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESENT THIS AS A GENUINE TRADE-OFF REQUIRING CAREFUL",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPREHENSIVE, INDEPENDENTLY COMPILED NATIONAL DATA ON EIA CLEARANCE APPROVAL/",
+          "role": "primary"
+        },
+        {
+          "text": "NGT CASE-DISPOSAL STATISTICS (PENDENCY, AVERAGE DISPOSAL TIME) ARE REPORTED",
+          "role": "outcome"
+        },
+        {
+          "text": "POST-FACTO (RETROSPECTIVE) ENVIRONMENTAL CLEARANCE HAS BEEN TREATED BY INDIAN",
+          "role": "comparison"
+        },
+        {
+          "text": "NGT'S ORIGINAL JURISDICTION COVERS SUBSTANTIAL QUESTIONS RELATING TO ENVIRONMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Periodic proposals to streamline or revise the EIA process (e.g., reducing timelines,",
+            "CAUTION: Balanced framing for Mains: present this as a genuine trade-off requiring careful",
+            "CAUTION: Comprehensive, independently compiled national data on EIA clearance approval/",
+            "CAUTION: NGT case-disposal statistics (pendency, average disposal time) are reported"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Post-facto (retrospective) environmental clearance has been treated by Indian courts and",
+            "NGT's original jurisdiction covers substantial questions relating to environment arising",
+            "Public consultation under the EIA process has faced documented implementation critiques",
+            "NGT order implementation ultimately depends on executive/state-agency compliance"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Post-facto environmental clearance has been judicially endorsed as a routine, regular",
+            "NOT: NGT has unlimited jurisdiction over every environment-related legal matter in India.",
+            "NOT: Public-consultation critiques primarily concern the absence of any consultation",
+            "NOT: NGT orders are self-executing and require no further executive action. - Implementation"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

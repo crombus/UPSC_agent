@@ -1,0 +1,1065 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-07",
+  "subject": "Geography",
+  "title": "ARID DESERT LANDFORMS / THAR DESERTIFICATION",
+  "short_route": "CONCEPT FIREWALL \u2192 DESERT-FORMING CONTROLS \u2192 AEOLIAN TRANSPORT \u2192 DUNE DISCRIMINATOR \u2192 WATER IN THE DESERT \u2192 THAR SPATIAL ANATOMY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE \u2022 Pending user review \u2022 source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-07_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-07-08-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "658bce870d935957bc2b8e944f258e7cd0ea04dd897f2c6ab92465d604562e5c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE \u2014 WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONCEPT FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONCEPT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CLIMATIC REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-TERM MOISTURE DEFICIT",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMPORARY ANOMALY",
+          "role": "evidence"
+        },
+        {
+          "text": "DEGRADATION WITHIN DRYLANDS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DESERT \u2192 climatic region",
+        "ARIDITY \u2192 long-term moisture deficit",
+        "DROUGHT \u2192 temporary anomaly",
+        "DESERTIFICATION \u2192 degradation within drylands"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "DESERT \u2192 climatic region",
+          "DROUGHT \u2192 temporary anomaly",
+          "DESERT \u2192 climatic region"
+        ],
+        [
+          "ARIDITY \u2192 long-term moisture deficit",
+          "DESERTIFICATION \u2192 degradation within drylands",
+          "ARIDITY \u2192 long-term moisture deficit"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DESERT \u2192 climatic region",
+            "ARIDITY \u2192 long-term moisture deficit"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DROUGHT \u2192 temporary anomaly",
+            "DESERTIFICATION \u2192 degradation within drylands"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DESERT \u2192 climatic region",
+            "ARIDITY \u2192 long-term moisture deficit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DROUGHT \u2192 temporary anomaly; DESERTIFICATION \u2192 degradation within drylands.",
+      "source_references": [
+        "Desert, aridity, drought and degradation"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DESERT-FORMING CONTROLS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DESERT-FORMING CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "SUBTROPICAL HIGH",
+          "role": "outcome"
+        },
+        {
+          "text": "DESCENDING DRY AIR",
+          "role": "comparison"
+        },
+        {
+          "text": "RAIN SHADOW",
+          "role": "evidence"
+        },
+        {
+          "text": "MOISTURE LOSS",
+          "role": "primary"
+        },
+        {
+          "text": "COLD CURRENT",
+          "role": "outcome"
+        },
+        {
+          "text": "STABLE DRY COASTAL AIR",
+          "role": "comparison"
+        },
+        {
+          "text": "POLAR COLD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUBTROPICAL HIGH \u2192 descending dry air",
+        "CONTINENTALITY / RAIN SHADOW \u2192 moisture loss",
+        "COLD CURRENT \u2192 stable dry coastal air",
+        "POLAR COLD \u2192 low absolute moisture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SUBTROPICAL HIGH \u2192 descending dry air",
+            "CONTINENTALITY / RAIN SHADOW \u2192 moisture loss"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLD CURRENT \u2192 stable dry coastal air",
+            "POLAR COLD \u2192 low absolute moisture"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SUBTROPICAL HIGH \u2192 descending dry air",
+            "CONTINENTALITY / RAIN SHADOW \u2192 moisture loss"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COLD CURRENT \u2192 stable dry coastal air; POLAR COLD \u2192 low absolute moisture.",
+      "source_references": [
+        "Why deserts form"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "AEOLIAN TRANSPORT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AEOLIAN TRANSPORT",
+          "role": "primary"
+        },
+        {
+          "text": "COARSE GRAINS ROLL OR SLIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "SAND GRAINS BOUNCE",
+          "role": "comparison"
+        },
+        {
+          "text": "FINE DUST TRAVELS FAR",
+          "role": "evidence"
+        },
+        {
+          "text": "VELOCITY OR CARRYING POWER FALLS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CREEP \u2192 coarse grains roll or slide",
+        "SALTATION \u2192 sand grains bounce",
+        "SUSPENSION \u2192 fine dust travels far",
+        "DEPOSITION \u2192 velocity or carrying power falls"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "CREEP \u2192 coarse grains roll or slide",
+            "SALTATION \u2192 sand grains bounce"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUSPENSION \u2192 fine dust travels far",
+            "DEPOSITION \u2192 velocity or carrying power falls"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "CREEP \u2192 coarse grains roll or slide",
+            "SALTATION \u2192 sand grains bounce"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUSPENSION \u2192 fine dust travels far; DEPOSITION \u2192 velocity or carrying power falls.",
+      "source_references": [
+        "Creep, saltation and suspension"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DUNE DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DUNE DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "LIMITED SAND, HORNS DOWNWIND",
+          "role": "outcome"
+        },
+        {
+          "text": "ABUNDANT SAND, ONE DOMINANT WIND",
+          "role": "comparison"
+        },
+        {
+          "text": "ALIGNED WITH RESULTANT WINDS",
+          "role": "evidence"
+        },
+        {
+          "text": "VEGETATION ANCHOR",
+          "role": "primary"
+        },
+        {
+          "text": "MULTIDIRECTIONAL WINDS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BARCHAN \u2192 limited sand, horns downwind",
+        "TRANSVERSE \u2192 abundant sand, one dominant wind",
+        "LONGITUDINAL \u2192 aligned with resultant winds",
+        "PARABOLIC / STAR \u2192 vegetation anchor / multidirectional winds"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "BARCHAN \u2192 limited sand, horns downwind",
+          "LONGITUDINAL \u2192 aligned with resultant winds",
+          "BARCHAN \u2192 limited sand, horns downwind"
+        ],
+        [
+          "TRANSVERSE \u2192 abundant sand, one dominant wind",
+          "PARABOLIC / STAR \u2192 vegetation anchor / multidirectional winds",
+          "TRANSVERSE \u2192 abundant sand, one dominant wind"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "BARCHAN \u2192 limited sand, horns downwind",
+            "TRANSVERSE \u2192 abundant sand, one dominant wind"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LONGITUDINAL \u2192 aligned with resultant winds",
+            "PARABOLIC / STAR \u2192 vegetation anchor / multidirectional winds"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "BARCHAN \u2192 limited sand, horns downwind",
+            "TRANSVERSE \u2192 abundant sand, one dominant wind"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARABOLIC / STAR \u2192 vegetation anchor / multidirectional winds.",
+      "source_references": [
+        "Dune types and wind regimes"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WATER IN THE DESERT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATER IN THE DESERT",
+          "role": "primary"
+        },
+        {
+          "text": "STORM RUNOFF",
+          "role": "outcome"
+        },
+        {
+          "text": "WADI DISCHARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOUNTAIN FRONT",
+          "role": "evidence"
+        },
+        {
+          "text": "ALLUVIAL FAN",
+          "role": "primary"
+        },
+        {
+          "text": "FANS COALESCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSED BASIN",
+          "role": "comparison"
+        },
+        {
+          "text": "PLAYA AND SALT CONCENTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STORM RUNOFF \u2192 wadi discharge",
+        "MOUNTAIN FRONT \u2192 alluvial fan",
+        "FANS COALESCE \u2192 bajada",
+        "CLOSED BASIN \u2192 playa and salt concentration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STORM RUNOFF \u2192 wadi discharge",
+            "MOUNTAIN FRONT \u2192 alluvial fan"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FANS COALESCE \u2192 bajada",
+            "CLOSED BASIN \u2192 playa and salt concentration"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STORM RUNOFF \u2192 wadi discharge",
+            "MOUNTAIN FRONT \u2192 alluvial fan"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FANS COALESCE \u2192 bajada; CLOSED BASIN \u2192 playa and salt concentration.",
+      "source_references": [
+        "Wadis, fans, pediments and playas"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THAR SPATIAL ANATOMY",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THAR SPATIAL ANATOMY",
+          "role": "primary"
+        },
+        {
+          "text": "SANDY MARUSTHALI CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "BAGAR AND ARAVALLI TRANSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "LUNI AND SALINE-BASIN ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "CANAL-ALLUVIAL TRANSFORMATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WEST \u2192 sandy Marusthali core",
+        "EAST \u2192 Bagar and Aravalli transition",
+        "SOUTHWEST \u2192 Luni and saline-basin route",
+        "NORTH \u2192 canal-alluvial transformation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "WEST \u2192 sandy Marusthali core",
+            "EAST \u2192 Bagar and Aravalli transition"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTHWEST \u2192 Luni and saline-basin route",
+            "NORTH \u2192 canal-alluvial transformation"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "WEST \u2192 sandy Marusthali core",
+            "EAST \u2192 Bagar and Aravalli transition"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SOUTHWEST \u2192 Luni and saline-basin route",
+            "NORTH \u2192 canal-alluvial transformation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOUTHWEST \u2192 Luni and saline-basin route; NORTH \u2192 canal-alluvial transformation.",
+      "source_references": [
+        "Thar regional mosaic"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SUSCEPTIBILITY-TO-DEGRADATION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VARIABLE RAIN + WIND",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "COVER LOSS + SOIL DISTURBANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "WATER MISMANAGEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SALINITY OR DEPLETION",
+          "role": "primary"
+        },
+        {
+          "text": "THRESHOLD CROSSED",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOVERY CAPACITY DECLINES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VARIABLE RAIN + WIND \u2192 natural stress",
+        "COVER LOSS + SOIL DISTURBANCE \u2192 exposure",
+        "WATER MISMANAGEMENT \u2192 salinity or depletion",
+        "THRESHOLD CROSSED \u2192 recovery capacity declines"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "VARIABLE RAIN + WIND \u2192 natural stress",
+            "COVER LOSS + SOIL DISTURBANCE \u2192 exposure"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WATER MISMANAGEMENT \u2192 salinity or depletion",
+            "THRESHOLD CROSSED \u2192 recovery capacity declines"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "VARIABLE RAIN + WIND \u2192 natural stress",
+            "COVER LOSS + SOIL DISTURBANCE \u2192 exposure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATER MISMANAGEMENT \u2192 salinity or depletion; THRESHOLD CROSSED \u2192 recovery capacity declines.",
+      "source_references": [
+        "Human acceleration and thresholds"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARAVALLI BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARAVALLI BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "MODIFIES LOCAL WIND AND RUNOFF",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVIDES AND ROUTES WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPORTS CONNECTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT AN IMPERMEABLE DESERT WALL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RELIEF \u2192 modifies local wind and runoff",
+        "DRAINAGE \u2192 divides and routes water",
+        "HABITAT \u2192 supports connectivity",
+        "LIMIT \u2192 not an impermeable desert wall"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "RELIEF \u2192 modifies local wind and runoff",
+          "HABITAT \u2192 supports connectivity",
+          "RELIEF \u2192 modifies local wind and runoff"
+        ],
+        [
+          "DRAINAGE \u2192 divides and routes water",
+          "LIMIT \u2192 not an impermeable desert wall",
+          "DRAINAGE \u2192 divides and routes water"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "RELIEF \u2192 modifies local wind and runoff",
+            "DRAINAGE \u2192 divides and routes water"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HABITAT \u2192 supports connectivity",
+            "LIMIT \u2192 not an impermeable desert wall"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "RELIEF \u2192 modifies local wind and runoff",
+            "DRAINAGE \u2192 divides and routes water"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HABITAT \u2192 supports connectivity; LIMIT \u2192 not an impermeable desert wall.",
+      "source_references": [
+        "Aravalli ecological functions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CANAL BALANCE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CANAL BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WATER SUPPLY AND PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER-TABLE RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "POOR DRAINAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "WATERLOGGING AND SALINITY",
+          "role": "primary"
+        },
+        {
+          "text": "CROP-WATER FIT + DRAINAGE + MONITORING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BENEFIT \u2192 water supply and production",
+        "SEEPAGE \u2192 water-table rise",
+        "POOR DRAINAGE \u2192 waterlogging and salinity",
+        "MANAGEMENT \u2192 crop-water fit + drainage + monitoring"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "BENEFIT \u2192 water supply and production",
+          "POOR DRAINAGE \u2192 waterlogging and salinity",
+          "BENEFIT \u2192 water supply and production"
+        ],
+        [
+          "SEEPAGE \u2192 water-table rise",
+          "MANAGEMENT \u2192 crop-water fit + drainage + monitoring",
+          "SEEPAGE \u2192 water-table rise"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "BENEFIT \u2192 water supply and production",
+            "SEEPAGE \u2192 water-table rise"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POOR DRAINAGE \u2192 waterlogging and salinity",
+            "MANAGEMENT \u2192 crop-water fit + drainage + monitoring"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "BENEFIT \u2192 water supply and production",
+            "SEEPAGE \u2192 water-table rise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MANAGEMENT \u2192 crop-water fit + drainage + monitoring.",
+      "source_references": [
+        "Indira Gandhi Canal trade-offs"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LDN RESPONSE HIERARCHY",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LDN RESPONSE HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECT FUNCTIONING LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPROVE GRAZING, TILLAGE AND WATER USE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTORE SOIL, GRASS AND DRAINAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "MONITOR GAINS AND LOSSES TRANSPARENTLY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AVOID \u2192 protect functioning land",
+        "REDUCE \u2192 improve grazing, tillage and water use",
+        "REVERSE \u2192 restore soil, grass and drainage",
+        "BALANCE \u2192 monitor gains and losses transparently"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "AVOID \u2192 protect functioning land",
+            "REDUCE \u2192 improve grazing, tillage and water use"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVERSE \u2192 restore soil, grass and drainage",
+            "BALANCE \u2192 monitor gains and losses transparently"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "AVOID \u2192 protect functioning land",
+            "REDUCE \u2192 improve grazing, tillage and water use"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REDUCE \u2192 improve grazing, tillage and water use.",
+      "source_references": [
+        "PYQ boundary and LDN"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RESTORATION MATRIX",
+      "structural_type": "decision-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESTORATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "WIND EROSION",
+          "role": "outcome"
+        },
+        {
+          "text": "COVER, SHELTER AND DUNE MANAGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RUNOFF EROSION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTOUR AND WATERSHED TREATMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DRAINAGE AND WATER BALANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RANGELAND DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "NATIVE GRASS + INSTITUTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WIND EROSION \u2192 cover, shelter and dune management",
+        "RUNOFF EROSION \u2192 contour and watershed treatment",
+        "SALINITY \u2192 drainage and water balance",
+        "RANGELAND DECLINE \u2192 native grass + institutions"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "WIND EROSION \u2192 cover, shelter and dune management",
+          "SALINITY \u2192 drainage and water balance",
+          "WIND EROSION \u2192 cover, shelter and dune management",
+          "SALINITY \u2192 drainage and water balance"
+        ],
+        [
+          "RUNOFF EROSION \u2192 contour and watershed treatment",
+          "RANGELAND DECLINE \u2192 native grass + institutions",
+          "RUNOFF EROSION \u2192 contour and watershed treatment",
+          "RANGELAND DECLINE \u2192 native grass + institutions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "WIND EROSION \u2192 cover, shelter and dune management",
+            "RUNOFF EROSION \u2192 contour and watershed treatment"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "SALINITY \u2192 drainage and water balance",
+            "RANGELAND DECLINE \u2192 native grass + institutions"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "WIND EROSION \u2192 cover, shelter and dune management",
+            "RUNOFF EROSION \u2192 contour and watershed treatment"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "SALINITY \u2192 drainage and water balance",
+            "RANGELAND DECLINE \u2192 native grass + institutions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WIND EROSION \u2192 cover, shelter and dune management.",
+      "source_references": [
+        "Restoration and monitoring"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DESERTIFICATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DESERTIFICATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "RETAIN UNCCD DRYLAND BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCATE PROCESS AND PRESSURE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUSCEPTIBILITY PLUS ACCELERATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESS-MATCHED, MONITORED AND QUALIFIED",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "DEFINE \u2192 retain UNCCD dryland boundary",
+        "MAP \u2192 locate process and pressure",
+        "DIAGNOSE \u2192 susceptibility plus accelerator",
+        "RESPOND \u2192 process-matched, monitored and qualified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE \u2192 retain UNCCD dryland boundary",
+            "MAP \u2192 locate process and pressure"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIAGNOSE \u2192 susceptibility plus accelerator",
+            "RESPOND \u2192 process-matched, monitored and qualified"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE \u2192 retain UNCCD dryland boundary",
+            "MAP \u2192 locate process and pressure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSE \u2192 susceptibility plus accelerator; RESPOND \u2192 process-matched, monitored and qualified.",
+      "source_references": [
+        "PYQ ownership and current boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT \u2014 ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE THAR LIES WEST OF THE ARAVALLI, BETWEEN THE",
+          "role": "outcome"
+        },
+        {
+          "text": "BOOK ESTIMATES OF DESERT AREA VARY WITH THE BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RANN OF KACHCHH IS TREATED AS AN EXTENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ECONOMY (MAJID)",
+          "role": "primary"
+        },
+        {
+          "text": "BAJRA, PULSES, FODDER; LIVESTOCK IS CENTRAL; SCOPE FOR DATE-PALM",
+          "role": "outcome"
+        },
+        {
+          "text": "IT IS DESCRIBED AS THE WESTERN DRY REGION \u2014",
+          "role": "comparison"
+        },
+        {
+          "text": "~29.7% OF INDIA (~97.85 MHA) IS DEGRADED (2018-19), UP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "The Thar lies west of the Aravalli, between the Indus and the Aravalli, spilling into Punjab, Haryana and northern Gujarat.",
+            "Book estimates of desert area vary with the boundary used; retain them as source-era figures, not",
+            "The Rann of Kachchh is treated as an extension of the desert; Jaisalmer and Barmer show the strongest aeolian (dune) topography.",
+            "Economy (Majid): bajra, pulses, fodder; livestock is central; scope for date-palm, water-melon and rain-water harvesting."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "It is described as the Western Dry Region \u2014 an arid tract (Marwar/Mewar margins) with extreme temperature range.",
+            "~29.7% of India (~97.85 mha) is degraded (2018-19), up from 28.76% (2003-05) \u2014 a rising trend.",
+            "Rajasthan has the largest desertified area; wind erosion drives 40%+ of its desertification.",
+            "India targets Land Degradation Neutrality (LDN) by 2030 under the UNCCD; tools include Green India Mission and watershed/afforestation programmes."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Thar = west of Aravalli, between Indus & Aravalli.",
+            "Area figures vary by delimitation; western core is arid and margins semi-arid.",
+            "Rann of Kachchh is linked to the wider arid region but is a distinct saline mudflat/marsh.",
+            "Jaisalmer & Barmer = strongest aeolian (dune) topography."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH \u2014 NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

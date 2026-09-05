@@ -1,0 +1,1021 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-02",
+  "subject": "Essay",
+  "title": "PHILOSOPHICAL QUOTE DECODING",
+  "short_route": "DECODING START → THREE-LAYER READING → OPERATOR MATRIX → METAPHOR BRIDGE → TENSION ENGINE → SCOPE LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-02_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-02-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "dafd5ec63313ea2bdd96fd842104de1918c4b5076a9153bb835f992d877e54f0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DECODING START",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DECODING START",
+          "role": "primary"
+        },
+        {
+          "text": "PRINTED PROMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTENT WORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "PLAIN MEANINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "RELATION OR OPERATOR",
+          "role": "primary"
+        },
+        {
+          "text": "WORKING PROPOSITION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRINTED PROMPT",
+        "CONTENT WORDS → PLAIN MEANINGS",
+        "RELATION OR OPERATOR",
+        "WORKING PROPOSITION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PRINTED PROMPT",
+            "CONTENT WORDS → PLAIN MEANINGS"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "RELATION OR OPERATOR",
+            "WORKING PROPOSITION"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "PRINTED PROMPT",
+            "CONTENT WORDS → PLAIN MEANINGS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTENT WORDS → PLAIN MEANINGS; RELATION OR OPERATOR; WORKING PROPOSITION.",
+      "source_references": [
+        "Free-standing proposition",
+        "Content-word inventory",
+        "Relation or operator"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE-LAYER READING",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE-LAYER READING",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT THE SENTENCE DIRECTLY SAYS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT THE IMAGE CARRIES",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT VALUE OR STANDARD IS IMPLIED",
+          "role": "evidence"
+        },
+        {
+          "text": "LAYERS MUST REMAIN CONNECTED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LITERAL → what the sentence directly says",
+        "METAPHORICAL → what the image carries",
+        "NORMATIVE → what value or standard is implied",
+        "RULE → layers must remain connected"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "LITERAL → what the sentence directly says",
+            "METAPHORICAL → what the image carries"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "NORMATIVE → what value or standard is implied",
+            "RULE → layers must remain connected"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "LITERAL → what the sentence directly says",
+            "METAPHORICAL → what the image carries"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NORMATIVE → what value or standard is implied.",
+      "source_references": [
+        "Literal layer",
+        "Metaphorical layer",
+        "Normative layer"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OPERATOR MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OPERATOR MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "X PRODUCES Y",
+          "role": "outcome"
+        },
+        {
+          "text": "X MATTERS MORE OR LESS THAN Y",
+          "role": "comparison"
+        },
+        {
+          "text": "X IS THE MEANING OF Y",
+          "role": "evidence"
+        },
+        {
+          "text": "SURFACE CONFLICT REVEALS A DEEPER RELATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAUSAL → X produces Y",
+        "COMPARATIVE → X matters more or less than Y",
+        "DEFINITIONAL → X is the meaning of Y",
+        "PARADOXICAL → surface conflict reveals a deeper relation"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "CAUSAL → X produces Y",
+          "DEFINITIONAL → X is the meaning of Y",
+          "CAUSAL → X produces Y"
+        ],
+        [
+          "COMPARATIVE → X matters more or less than Y",
+          "PARADOXICAL → surface conflict reveals a deeper relation",
+          "COMPARATIVE → X matters more or less than Y"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "CAUSAL → X produces Y",
+            "COMPARATIVE → X matters more or less than Y"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DEFINITIONAL → X is the meaning of Y",
+            "PARADOXICAL → surface conflict reveals a deeper relation"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUSAL → X produces Y",
+            "COMPARATIVE → X matters more or less than Y"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARADOXICAL → surface conflict reveals a deeper relation.",
+      "source_references": [
+        "Relation or operator",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "METAPHOR BRIDGE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "METAPHOR BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "IMAGE NAMED IN THE SENTENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBJECT ILLUMINATED BY THE IMAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARED STRUCTURE OR MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO EXTENSION WITHOUT TEXTUAL SUPPORT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VEHICLE → image named in the sentence",
+        "TENOR → subject illuminated by the image",
+        "BRIDGE → shared structure or mechanism",
+        "LIMIT → no extension without textual support"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "VEHICLE → image named in the sentence",
+          "BRIDGE → shared structure or mechanism",
+          "VEHICLE → image named in the sentence"
+        ],
+        [
+          "TENOR → subject illuminated by the image",
+          "LIMIT → no extension without textual support",
+          "TENOR → subject illuminated by the image"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "VEHICLE → image named in the sentence",
+            "TENOR → subject illuminated by the image"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BRIDGE → shared structure or mechanism",
+            "LIMIT → no extension without textual support"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VEHICLE → image named in the sentence",
+            "TENOR → subject illuminated by the image"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRIDGE → shared structure or mechanism; LIMIT → no extension without textual support.",
+      "source_references": [
+        "Metaphorical layer",
+        "Mechanism"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TENSION ENGINE",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TENSION ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "TERM A",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE OR VALUE",
+          "role": "comparison"
+        },
+        {
+          "text": "TERM B",
+          "role": "evidence"
+        },
+        {
+          "text": "RIVAL PRESSURE OR VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "NEITHER SIDE IS MERELY DECORATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDITION UNDER WHICH EACH INSIGHT HOLDS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TERM A → pressure or value",
+        "TERM B → rival pressure or value",
+        "TENSION → neither side is merely decorative",
+        "SYNTHESIS → condition under which each insight holds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TERM A → pressure or value",
+            "TERM B → rival pressure or value"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION → neither side is merely decorative",
+            "SYNTHESIS → condition under which each insight holds"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "TERM A → pressure or value",
+            "TERM B → rival pressure or value"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS → condition under which each insight holds.",
+      "source_references": [
+        "Operative tension",
+        "Normative layer"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SCOPE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SCOPE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CONDUCT AND EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "INCENTIVES AND RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE OR WORLD",
+          "role": "institution"
+        },
+        {
+          "text": "POLICY AND ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-RUN PATTERN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INDIVIDUAL → conduct and experience",
+        "INSTITUTION → incentives and rules",
+        "STATE OR WORLD → policy and order",
+        "CIVILISATION → long-run pattern"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "INDIVIDUAL → conduct and experience",
+            "INSTITUTION → incentives and rules"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "STATE OR WORLD → policy and order",
+            "CIVILISATION → long-run pattern"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "INDIVIDUAL → conduct and experience",
+            "INSTITUTION → incentives and rules"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE OR WORLD → policy and order; CIVILISATION → long-run pattern.",
+      "source_references": [
+        "Scope",
+        "Scale test"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ASSUMPTION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ASSUMPTION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IS ASSERTED",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT MUST BE TRUE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHERE IT PLAUSIBLY HOLDS",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT LIMITS IT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLAIM → what is asserted",
+        "ASSUMPTION → what must be true",
+        "SCOPE → where it plausibly holds",
+        "EXCEPTION → what limits it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CLAIM → what is asserted",
+            "ASSUMPTION → what must be true"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SCOPE → where it plausibly holds",
+            "EXCEPTION → what limits it"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "CLAIM → what is asserted",
+            "ASSUMPTION → what must be true"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → where it plausibly holds; EXCEPTION → what limits it.",
+      "source_references": [
+        "Hidden assumption",
+        "Scope",
+        "Exception"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COUNTER-READING TEST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COUNTER-READING TEST",
+          "role": "primary"
+        },
+        {
+          "text": "READING ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "FAITHFUL AND GENERATIVE?",
+          "role": "comparison"
+        },
+        {
+          "text": "READING TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "MECHANISM, SCOPE AND EXCEPTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "STRONGER TEXT-BOUND INTERPRETATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "READING ONE → faithful and generative?",
+        "READING TWO → faithful and generative?",
+        "COMPARE → mechanism, scope and exception",
+        "CHOOSE → stronger text-bound interpretation"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "READING ONE → faithful and generative?",
+          "COMPARE → mechanism, scope and exception",
+          "READING ONE → faithful and generative?"
+        ],
+        [
+          "READING TWO → faithful and generative?",
+          "CHOOSE → stronger text-bound interpretation",
+          "READING TWO → faithful and generative?"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "READING ONE → faithful and generative?",
+            "READING TWO → faithful and generative?"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMPARE → mechanism, scope and exception",
+            "CHOOSE → stronger text-bound interpretation"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "READING ONE → faithful and generative?",
+            "READING TWO → faithful and generative?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → mechanism, scope and exception; CHOOSE → stronger text-bound interpretation.",
+      "source_references": [
+        "Counter-reading",
+        "Mechanism",
+        "Scale test"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THESIS ALTERNATIVES",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THESIS ALTERNATIVES",
+          "role": "primary"
+        },
+        {
+          "text": "DECODED TENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "BRANCH A",
+          "role": "comparison"
+        },
+        {
+          "text": "THESIS WITH ONE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "BRANCH B",
+          "role": "primary"
+        },
+        {
+          "text": "THESIS WITH ANOTHER MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DEFENSIBLE CLAIM WITH EXPLICIT QUALIFICATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DECODED TENSION",
+        "BRANCH A → thesis with one mechanism",
+        "BRANCH B → thesis with another mechanism",
+        "SELECT → defensible claim with explicit qualification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "DECODED TENSION",
+            "BRANCH A → thesis with one mechanism"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "BRANCH B → thesis with another mechanism",
+            "SELECT → defensible claim with explicit qualification"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "DECODED TENSION",
+            "BRANCH A → thesis with one mechanism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRANCH B → thesis with another mechanism; SELECT → defensible claim with explicit qualification.",
+      "source_references": [
+        "Thesis alternatives",
+        "Mechanism",
+        "Exception"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CASE TESTING",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CASE TESTING",
+          "role": "primary"
+        },
+        {
+          "text": "INSTANTIATES THE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSES A LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "CONSEQUENCE CHANGES THE STARTING CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "REFINE SCOPE OR MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "EXAMPLE → instantiates the claim",
+        "COUNTEREXAMPLE → exposes a limit",
+        "FEEDBACK → consequence changes the starting condition",
+        "REVISION → refine scope or mechanism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAMPLE → instantiates the claim",
+            "COUNTEREXAMPLE → exposes a limit"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "FEEDBACK → consequence changes the starting condition",
+            "REVISION → refine scope or mechanism"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAMPLE → instantiates the claim",
+            "COUNTEREXAMPLE → exposes a limit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK → consequence changes the starting condition; REVISION → refine scope or mechanism.",
+      "source_references": [
+        "Examples",
+        "Counterexamples",
+        "Feedback"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ATTRIBUTION FIREWALL",
+      "structural_type": "firewall",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ATTRIBUTION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PAPER PRINTS NO AUTHOR",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT SUPPLY ONE",
+          "role": "caution"
+        },
+        {
+          "text": "NO BIOGRAPHY",
+          "role": "caution"
+        },
+        {
+          "text": "NO INTENT CAN BE INFERRED",
+          "role": "caution"
+        },
+        {
+          "text": "PROMPT WORDING",
+          "role": "outcome"
+        },
+        {
+          "text": "SUFFICIENT INTERPRETIVE ANCHOR",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIMARY CHECK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PAPER PRINTS NO AUTHOR → do not supply one",
+        "NO BIOGRAPHY → no intent can be inferred",
+        "PROMPT WORDING → sufficient interpretive anchor",
+        "PRIMARY CHECK → required before any attribution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "PAPER PRINTS NO AUTHOR → do not supply one",
+            "NO BIOGRAPHY → no intent can be inferred"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PROMPT WORDING → sufficient interpretive anchor",
+            "PRIMARY CHECK → required before any attribution"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "PAPER PRINTS NO AUTHOR → do not supply one",
+            "NO BIOGRAPHY → no intent can be inferred"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO BIOGRAPHY → no intent can be inferred.",
+      "source_references": [
+        "Attribution firewall",
+        "Free-standing proposition"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DECODING ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DECODING ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "LITERAL LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "METAPHOR OR NORMATIVE LAYER",
+          "role": "comparison"
+        },
+        {
+          "text": "THESIS OPTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "CASE TEST",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WORDS → OPERATOR → LITERAL LAYER",
+        "METAPHOR OR NORMATIVE LAYER → TENSION",
+        "SCOPE → ASSUMPTION → EXCEPTION",
+        "COUNTER-READING → THESIS OPTIONS → CASE TEST"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "WORDS → OPERATOR → LITERAL LAYER",
+            "METAPHOR OR NORMATIVE LAYER → TENSION"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SCOPE → ASSUMPTION → EXCEPTION",
+            "COUNTER-READING → THESIS OPTIONS → CASE TEST"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "WORDS → OPERATOR → LITERAL LAYER",
+            "METAPHOR OR NORMATIVE LAYER → TENSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE → ASSUMPTION → EXCEPTION; COUNTER-READING → THESIS OPTIONS → CASE TEST.",
+      "source_references": [
+        "Content-word inventory",
+        "Relation or operator",
+        "Printing-defect firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "METAPHOR-CARRYING APHORISM (E.G. \"EMPIRES OF THE MIND\"; \"MUDDY",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARATIVE APHORISM (E.G. \"THE COST OF BEING WRONG IS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINITIONAL APHORISM (E.G. \"HAPPINESS IS THE PATH\"; \"CONTENTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "OVER-LITERAL READING THAT REFUSES TO EXTEND THE METAPHOR AT",
+          "role": "primary"
+        },
+        {
+          "text": "OVER-EXTENSION THAT LOSES CONTACT WITH THE SENTENCE'S OWN WORDS",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING THE HIDDEN ASSUMPTION AS THE WHOLE THESIS RATHER",
+          "role": "comparison"
+        },
+        {
+          "text": "GS PAPER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Metaphor-carrying aphorism (e.g. \"empires of the mind\"; \"muddy",
+            "Comparative aphorism (e.g. \"the cost of being wrong is less than",
+            "Definitional aphorism (e.g. \"happiness is the path\"; \"contentment",
+            "NOT: Over-literal reading that refuses to extend the metaphor at all"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Over-extension that loses contact with the sentence's own words",
+            "NOT: Treating the hidden assumption as the whole thesis rather than a",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Decoding aphorisms as compressed propositions with hidden scope and assumption structure"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "testing readings against counter-readings and exceptions before committing.",
+            "Grounded in: UPSC Essay PYQ corpus — V1 directly verified locally for 2018–2025 and V2 carried-forward practice wording",
+            "../00 Master-Framework.md Section 4.",
+            "Tags: verified fact | CAUTION: strategy/inference | dated anchor | NOT: trap/boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

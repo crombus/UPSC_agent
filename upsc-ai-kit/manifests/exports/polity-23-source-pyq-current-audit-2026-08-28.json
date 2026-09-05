@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-23",
+  "record_id": "polity-23:learner-v2:g6",
+  "audited_on": "2026-08-28",
+  "approval": false,
+  "constitutional_scope": [
+    "Articles 243-243O",
+    "Eleventh Schedule",
+    "Article 280 local-body link",
+    "Article 40"
+  ],
+  "statutory_scope": [
+    "73rd Amendment Act 1992",
+    "PESA Act 1996",
+    "MGNREGA social-audit interface",
+    "Gram Nyayalayas boundary"
+  ],
+  "judgments": [
+    "Kishansing Tomar (2006)",
+    "K. Krishna Murthy (2010)",
+    "Vikas Kishanrao Gawali (2021)",
+    "State of Goa v. Fouziya Imtiaz Shaikh (2021)"
+  ],
+  "pyqs": [
+    {
+      "year": 2018,
+      "paper": "GS-II",
+      "question": 15,
+      "marks": 15,
+      "words": 250
+    },
+    {
+      "year": 2019,
+      "paper": "GS-II",
+      "question": 13,
+      "marks": 15,
+      "words": 250
+    },
+    {
+      "year": 2020,
+      "paper": "GS-II",
+      "question": 13,
+      "marks": 15,
+      "words": 250
+    },
+    {
+      "year": 2024,
+      "paper": "GS-II",
+      "question": 5,
+      "marks": 10,
+      "words": 150
+    },
+    {
+      "year": 2025,
+      "paper": "GS-I Prelims",
+      "question": 91
+    }
+  ],
+  "current_primary_controls": [
+    "Ministry Devolution Index Report 2024",
+    "Sixteenth Finance Commission report/action memorandum 2026-31",
+    "Ministry State-wise PESA rules directory"
+  ],
+  "qualification": "No changing dashboard total frozen; notification is not treated as implementation.",
+  "status": "passed"
+}

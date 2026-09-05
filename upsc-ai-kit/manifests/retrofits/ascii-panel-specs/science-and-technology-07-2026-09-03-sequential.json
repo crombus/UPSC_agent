@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Science and Technology learner-v2 Topic 07",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-07",
+      "display_title": "Defence Indigenisation: Atmanirbhar and Procurement",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-07_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Capability conversion chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SERVICE REQUIREMENT -> operational need",
+            "R&D / PROTOTYPE -> design and validation",
+            "DAP ROUTE / AoN -> category and in-principle approval",
+            "CONTRACT / PRODUCTION -> repeatable industrial output",
+            "DELIVERY / INDUCTION / SUSTAINMENT -> usable capability"
+          ],
+          "source_references": [
+            "R&D-procurement boundary",
+            "AoN-order boundary",
+            "Lifecycle-indigenisation boundary"
+          ]
+        },
+        {
+          "title": "Three meanings of indigenous",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DESIGN -> Indian control of architecture and intellectual property",
+            "MANUFACTURE -> production occurs in India",
+            "INDIGENOUS CONTENT -> Indian share of contract value",
+            "LIFECYCLE CONTROL -> spares, repairs, upgrades and standards",
+            "RULE -> test each dimension independently"
+          ],
+          "source_references": [
+            "Design-manufacture-content boundary",
+            "Lifecycle-indigenisation boundary"
+          ]
+        },
+        {
+          "title": "DAP purpose map",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "DAP 2020 -> capital-acquisition rulebook",
+            "CATEGORY -> vendor and localisation pathway",
+            "PROCEDURE -> RFP, evaluation and negotiation",
+            "CONTRACT -> legally binding procurement event",
+            "TRAP -> procedure is not purchase or delivery"
+          ],
+          "source_references": [
+            "DAP-procedure boundary"
+          ]
+        },
+        {
+          "title": "Five-rung Buy ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "1 BUY INDIAN-IDDM -> Indian design, development and manufacture",
+            "2 BUY INDIAN -> Indian vendor with prescribed content",
+            "3 BUY AND MAKE INDIAN -> Indian vendor plus foreign transfer",
+            "4 BUY GLOBAL-MANUFACTURE IN INDIA -> global vendor plus local build",
+            "5 BUY GLOBAL -> global procurement route"
+          ],
+          "source_references": [
+            "Buy-ladder boundary",
+            "Indian-IDDM boundary",
+            "Buy-Make boundary"
+          ]
+        },
+        {
+          "title": "Approval-to-service ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "SERVICES REQUIREMENT -> stated need",
+            "DAC AoN -> in-principle approval and category",
+            "RFP / TRIALS -> competition and technical evaluation",
+            "CONTRACT / DELIVERY -> order and physical supply",
+            "INDUCTION -> service acceptance, not inferred deployment scale"
+          ],
+          "source_references": [
+            "AoN-order boundary"
+          ]
+        },
+        {
+          "title": "Positive-list split",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SERVICES PIL -> platforms and equipment import restriction",
+            "DPSU PIL -> components, subsystems and materials",
+            "NOTIFIED DATE -> item-specific sourcing boundary",
+            "SRIJAN -> DPSU implementation stage tracker",
+            "TRAP -> list length is not achieved domestic depth"
+          ],
+          "source_references": [
+            "PIL-family boundary",
+            "Notification-achievement boundary",
+            "SRIJAN-stage boundary"
+          ]
+        },
+        {
+          "title": "Industrial actor map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DPSU -> sovereign integrator and legacy production base",
+            "PRIVATE PRIME -> integration, competition and investment",
+            "MSME / STARTUP -> specialised subsystem and rapid innovation",
+            "USER / QA -> trials, standards and acceptance",
+            "RULE -> ecosystem depth matters more than ownership slogan"
+          ],
+          "source_references": [
+            "DPSU-private boundary"
+          ]
+        },
+        {
+          "title": "OFB restructuring card",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "BEFORE 2021 -> departmental Ordnance Factory Board structure",
+            "2021 -> corporatisation implemented",
+            "SEVEN DPSUs -> corporate production entities",
+            "TEST -> order books, quality, productivity and delivery",
+            "TRAP -> restructuring itself is not performance proof"
+          ],
+          "source_references": [
+            "OFB-corporatisation boundary"
+          ]
+        },
+        {
+          "title": "Innovation instrument matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "iDEX -> challenge-based startup and MSME innovation",
+            "ADITI -> deep-technology support within innovation ecosystem",
+            "TDF -> DRDO-supported industry technology development",
+            "DAP -> acquisition rulebook",
+            "RULE -> funding route is not procurement category"
+          ],
+          "source_references": [
+            "iDEX-TDF boundary"
+          ]
+        },
+        {
+          "title": "Corridor and FDI map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "UP + TAMIL NADU CORRIDORS -> place-based supplier clustering",
+            "FDI UP TO 74 PERCENT -> automatic route",
+            "BEYOND 74 TO 100 PERCENT -> government route conditions",
+            "OFFSETS -> reciprocal obligations with narrowed coverage",
+            "TEST -> actual absorption, certification and supplier depth"
+          ],
+          "source_references": [
+            "Corridor-category boundary",
+            "FDI-route boundary",
+            "Offsets-boundary"
+          ]
+        },
+        {
+          "title": "Lifecycle and export loop",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PREDICTABLE ORDERS -> investment and production learning",
+            "MRO / SPARES -> availability after delivery",
+            "UPGRADES / CONFIGURATION CONTROL -> design autonomy",
+            "EXPORTS -> scale, learning and support obligations",
+            "QUALIFICATION -> totals do not prove indigenous design"
+          ],
+          "source_references": [
+            "Lifecycle-indigenisation boundary",
+            "Export-scale boundary"
+          ]
+        },
+        {
+          "title": "Procurement-claim firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> design, manufacture, content and lifecycle",
+            "CLASSIFY -> DAP route and positive-list family",
+            "TRACE -> AoN, RFP, trial, contract, delivery and induction",
+            "SEPARATE -> programme, production line and operational fleet",
+            "VERIFY -> values, counts, timelines and content shares by date"
+          ],
+          "source_references": [
+            "Platform-status boundary",
+            "Volatile-number boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

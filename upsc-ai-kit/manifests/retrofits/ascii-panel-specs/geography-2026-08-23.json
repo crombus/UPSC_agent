@@ -1,0 +1,654 @@
+{
+  "manifest_id": "geography-ascii-panel-specs-2026-08-23",
+  "created_on": "2026-08-23",
+  "purpose": "Manual ready-to-embed ASCII panels for the latest active Geography learner-v2 topics.",
+  "reference_master": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "tracker_source": "EXPORT-PDF-STATUS.json",
+  "constraints": {
+    "panels_per_topic": "8-10",
+    "maximum_ascii_line_length": 100,
+    "ellipsis_or_placeholder_allowed": false,
+    "ready_to_embed": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-01",
+      "title": "The Earth and the Universe / India Location and Extent",
+      "source_record": "geography-01:learner-v2:g9",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g9\\geography-01_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Earth in the cosmic hierarchy: origin, evidence and planetary setting",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1, 2, 3],
+            "sections": ["BASIC LEARNING SESSION", "Planetary-geography rapid register"],
+            "markdown_lines": ["101-298", "2551-2572"]
+          },
+          "ascii_text": "+---------------- EARTH IN THE COSMIC SYSTEM ----------------+\n| CENTRAL QUESTION: How did Earth acquire its place and traits? |\n+---------------------------------------------------------------+\n  Hot, dense early universe about 13.8 billion years ago\n                           |\n             expansion + cooling + structure\n             /             |              \\\n       redshift            CMB        light elements\n             \\             |              /\n              +------ convergent evidence ------+\n                           |\n       galaxies -> Milky Way -> Solar System -> Earth\n                           |\n rotating nebula -> disc -> accretion -> differentiated planets\n             /                                  \\\n terrestrial inner planets                 gas and ice giants\n                           |\n         LOCATION IN A SYSTEM PRECEDES EXPLANATION OF PROCESS"
+        },
+        {
+          "title": "Stars, Solar-System bodies and the mass-controlled life cycle",
+          "structural_type": "classification-tree",
+          "source_references": {
+            "sessions": [2, 3],
+            "sections": ["BASIC LEARNING SESSION", "Planetary-geography rapid register"],
+            "markdown_lines": ["166-298", "2554-2559"]
+          },
+          "ascii_text": "                         NEBULA\n                           |\n                       PROTOSTAR\n                           |\n                     MAIN SEQUENCE\n                 +---------+---------+\n                 |                   |\n             LOWER MASS           HIGHER MASS\n                 |                   |\n             red giant            supergiant\n                 |                   |\n           white dwarf             supernova\n                                     |\n                           +---------+---------+\n                           |                   |\n                      neutron star         black hole\n\nSOLAR-SYSTEM BODY FIREWALL\nasteroid = rocky body | comet = ice-rich body | meteoroid = small body\nmeteor = luminous passage in air | meteorite = fragment reaching ground\n\nMass raises fusion rate: massive stars generally burn faster and live less."
+        },
+        {
+          "title": "Earth geometry, motions and the seasonal energy sequence",
+          "structural_type": "causal-chain-with-branching",
+          "source_references": {
+            "sessions": [4, 5, 6],
+            "sections": ["BASIC LEARNING SESSION", "Planetary-geography rapid register"],
+            "markdown_lines": ["299-482", "2559-2563"]
+          },
+          "ascii_text": "+------------------ EARTH AS A MOVING GEOID ------------------+\n| Oblate spheroid: geometric form | Geoid: gravity equipotential |\n+---------------------------------------------------------------+\n                  ROTATION about axis\n                         |\n              day-night + time difference\n                         |\n             about 24 hours; west to east\n\n       REVOLUTION + 23.5 deg axial tilt from perpendicular\n                         |\n          changing solar angle and changing day length\n             /                         |                  \\\n June solstice                   equinoxes          Dec solstice\n Sun at 23.5 N                  Sun at Equator      Sun at 23.5 S\n N day maximum                 near-equal day       S day maximum\n             \\                         |                  /\n                    ANNUAL SEASONAL CYCLE\n\nDistance is not the cause: perihelion and aphelion do not create seasons."
+        },
+        {
+          "title": "Coordinates, world time and the International Date Line",
+          "structural_type": "spatial-grid-and-decision-flow",
+          "source_references": {
+            "sessions": [7, 8],
+            "sections": ["BASIC LEARNING SESSION", "Planetary-geography rapid register"],
+            "markdown_lines": ["483-602", "2563-2566"]
+          },
+          "ascii_text": "                    COORDINATE READING GRID\n+----------------------+----------------------------------------+\n| LATITUDE             | LONGITUDE                              |\n| N or S of Equator    | E or W of Prime Meridian              |\n| parallel circles     | meridians meet at poles               |\n| controls solar angle | supplies angular basis for time       |\n+----------------------+----------------------------------------+\n                           |\n                  Earth turns 360 deg in 24 h\n                           |\n             15 deg = 1 hour | 1 deg = 4 minutes\n                           |\n                    EAST IS AHEAD IN TIME\n                           |\n             local time -> zone standard -> UTC offset\n                           |\n             International Date Line near 180 deg\n                 /                             \\\n cross westward: add one day       cross eastward: subtract one day\n\nA great circle has Earth's centre in its plane and gives the shortest route."
+        },
+        {
+          "title": "Magnetosphere and Earth interior: two evidence-based cross-sections",
+          "structural_type": "paired-cross-section",
+          "source_references": {
+            "sessions": [9, 10],
+            "sections": ["BASIC LEARNING SESSION", "Planetary-geography rapid register"],
+            "markdown_lines": ["603-756", "2566-2571"]
+          },
+          "ascii_text": "SOLAR-TERRESTRIAL SECTION          EARTH-INTERIOR SECTION\nSun / CME                          crust\n    |                               |\nsolar wind                      Moho boundary\n    |                               |\nmagnetosphere                  solid mantle\n    |                               |\nreconnection                  Gutenberg boundary\n    |                               |\npolar particle paths          liquid outer core\n    |                          S waves stop; P waves refract\noxygen and nitrogen                |\n    |                         Lehmann boundary\nAURORAL LIGHT                 solid inner core\n\nEvidence converges:\nsolar particles + magnetic guidance + gas excitation -> aurora\nP-wave refraction + S-wave absence + shadow zones -> layered core\n\nDo not call the whole core liquid; the outer core is liquid, inner core solid."
+        },
+        {
+          "title": "India's coordinate frame, Tropic of Cancer and IST derivation",
+          "structural_type": "india-spatial-hierarchy",
+          "source_references": {
+            "sessions": [11, 12, 13, 14, 15, 16],
+            "sections": ["BASIC LEARNING SESSION", "India Location and Extent rapid register"],
+            "markdown_lines": ["757-1115", "2573-2583"]
+          },
+          "ascii_text": "+---------------- INDIA: ABSOLUTE FRAME ----------------+\n| Mainland latitude : 8 deg 4 N to 37 deg 6 N           |\n| Mainland longitude: 68 deg 7 E to 97 deg 25 E         |\n| N-S 3,214 km | E-W 2,933 km | area 3,287,263 sq km    |\n+--------------------------------------------------------+\n                         |\nTROPIC OF CANCER: 23.5 deg N across eight states, west to east\nGujarat -> Rajasthan -> Madhya Pradesh -> Chhattisgarh\n        -> Jharkhand -> West Bengal -> Tripura -> Mizoram\n                         |\nSTANDARD MERIDIAN: 82 deg 30 E, through Mirzapur\n82.5 x 4 minutes = 330 minutes = UTC + 5:30 = IST\n                         |\nLONGITUDINAL SPAN: 29 deg 18 min x 4 = about 117 minutes\n                         |\n       eastern local noon precedes western local noon\n\nOne civil time creates coordination; it does not erase solar-time difference."
+        },
+        {
+          "title": "India's oceanic situation, neighbours, coasts and island extensions",
+          "structural_type": "regional-map-and-comparison",
+          "source_references": {
+            "sessions": [16, 17, 18, 19, 20, 21],
+            "sections": ["BASIC LEARNING SESSION", "India Location and Extent rapid register"],
+            "markdown_lines": ["1056-1405", "2580-2588"]
+          },
+          "ascii_text": "                          HIMALAYA\n          land neighbours + passes + climatic filtering\n                             |\nARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL\n western routes        northern Indian Ocean       eastern routes\n      |                         |                         |\nLakshadweep             Indian Ocean south      Andaman-Nicobar\ncoral atolls             route centrality       tectonic island arc\n                                                    |\n                              Ten Degree Channel: Andaman / Nicobar\n                                                    |\n                                             Andaman Sea to east\n\nLAND NEIGHBOURS: Pakistan, Afghanistan, China, Nepal, Bhutan,\n                 Bangladesh and Myanmar\nMARITIME NEIGHBOURS: Sri Lanka and Maldives\n\nLand border: 15,106.7 km | 2025 revised coastline: 11,098.81 km\nRevised measurement reflects GIS and high-water-line detail, not new territory."
+        },
+        {
+          "title": "Map-answer and Mains spine for India's locational significance",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": {
+            "sessions": [18, 19, 21, 22, 23, 24],
+            "sections": ["PYQS AND ANSWER PRACTICE", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["1178-1599", "2596-2670"]
+          },
+          "ascii_text": "QUESTION: Why is India's location significant without being deterministic?\n                             |\n1. DEFINE SCALE: Asian subdivision with continental size and diversity\n                             |\n2. DRAW MAP: Himalaya | peninsula | Arabian Sea | Bay | islands | routes\n                             |\n3. ADD EVIDENCE\n   coordinates -> Tropic -> IST -> coast -> neighbours -> island extensions\n                             |\n4. EXPLAIN MECHANISMS\n   latitude -> solar regime | mountains -> selective filter\n   ocean position -> trade, monsoon, ecology and security connections\n                             |\n5. QUALIFY\n   centrality does not equal control; borders and routes require safe mapping\n                             |\n6. VERDICT\n   location supplies opportunities and constraints;\n   connectivity, institutions and stewardship convert them into outcomes\n\nMAP RULE: schematic, not to scale, claim-relevant labels, no improvised borders."
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-02",
+      "title": "The Earth's Crust, Rocks / India Geological Structure",
+      "source_record": "geography-02:learner-v2:g9",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g9\\geography-02_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Crust, lithosphere and the rock-cycle network",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1, 2, 3],
+            "sections": ["BASIC LEARNING SESSION", "Rapid register - crust, rocks and dynamics"],
+            "markdown_lines": ["55-247", "3267-3274"]
+          },
+          "ascii_text": "+---------------- EARTH MATERIAL SYSTEM ----------------+\n| mineral -> rock -> lithology -> petrology -> geology   |\n+---------------------------------------------------------+\nCrust = compositional shell\nLithosphere = crust + rigid uppermost mantle\nAsthenosphere = weaker mechanical layer below\n                         |\n                    ROCK-CYCLE NETWORK\n       +-----------------+------------------+\n       |                                    |\n magma --crystallisation--> IGNEOUS          |\n       |                    |                |\n       |            weathering + transport  |\n       |                    v                |\n       +<---- melting -- METAMORPHIC <-- SEDIMENTARY\n                         ^              |\n                 heat + pressure   compaction + cementation\n                         |\n                 uplift and exposure reconnect all paths\n\nThe cycle is a network: no rock family has one compulsory next stage."
+        },
+        {
+          "title": "Igneous, sedimentary and metamorphic diagnostic matrix",
+          "structural_type": "classification-table",
+          "source_references": {
+            "sessions": [4, 5, 6, 7],
+            "sections": ["BASIC LEARNING SESSION", "Rapid register - crust, rocks and dynamics"],
+            "markdown_lines": ["248-514", "3271-3278"]
+          },
+          "ascii_text": "+--------------+----------------------+---------------------------+\n| FAMILY       | PROCESS              | FIELD CLUES               |\n+--------------+----------------------+---------------------------+\n| Igneous      | magma/lava cooling   | crystals, glass, vesicles |\n| intrusive    | slow cooling         | coarse texture            |\n| extrusive    | fast cooling         | fine or glassy texture    |\n| Sedimentary  | deposit + lithify    | beds, fossils, ripples    |\n| Metamorphic  | solid-state change   | grade, new minerals       |\n| foliated     | differential stress  | aligned fabric            |\n+--------------+----------------------+---------------------------+\nComposition pairs:\ngranite-rhyolite = felsic | diorite-andesite = intermediate\ngabbro-basalt = mafic\n\nFIREWALLS\nbedding is not foliation | loess and moraine are deposits until lithified\nporosity is void space | permeability is connected flow capacity"
+        },
+        {
+          "title": "From continental drift to plate tectonics and Wilson-cycle closure",
+          "structural_type": "causal-chain-with-evidence-branches",
+          "source_references": {
+            "sessions": [8, 9, 10, 11, 12],
+            "sections": ["BASIC LEARNING SESSION", "Rapid register - crust, rocks and dynamics"],
+            "markdown_lines": ["515-821", "3278-3281"]
+          },
+          "ascii_text": "WEGENER'S DRIFT CLAIM\n   |\n   +-> shelf-edge fit      +-> matching rocks and fossils\n   +-> palaeoclimate       +-> later palaeomagnetic support\n   |\nlimitation: no adequate driving mechanism\n   |\nSEA-FLOOR SPREADING\nridge creation -> magnetic stripes -> older/deeper floor outward\n   |                                      |\n   +---------------- trench destruction --+\n                         |\n                  PLATE TECTONICS\n      +------------------+-------------------+\n      |                  |                   |\ndivergence          subduction           transform\ncreates crust       destroys oceanic     conserves crust\n      |                  |                   |\nridge/rift          trench + arc          shallow quakes\n                         |\nrift -> narrow sea -> ocean -> subduction -> collision -> suture\n                         |\nWilson cycle is an analogy, not a compulsory destiny for every ocean."
+        },
+        {
+          "title": "Indian Plate journey and the three-part geological skeleton",
+          "structural_type": "tectonic-cross-section-and-timeline",
+          "source_references": {
+            "sessions": [13, 14, 15, 16, 17],
+            "sections": ["BASIC LEARNING SESSION", "Rapid register - India's geological architecture"],
+            "markdown_lines": ["822-1253", "3282-3288"]
+          },
+          "ascii_text": "Gondwana rifting -> northward Indian Plate drift -> Tethys closure\n                                             |\n                                   India-Eurasia collision\n                                             |\n        +--------------------+---------------+-------------------+\n        |                    |                                   |\n ancient Peninsula     Himalayan fold-thrust belt       foreland basin\n cratons + belts       shortening + thickening          flexure + sediment\n        |                    |                                   |\n stable framework      continuing uplift/seismicity      Indo-Ganga-Brahmaputra\n\nNORTH-SOUTH EXAM CROSS-SECTION\nTethyan / Greater / Lesser / Siwalik Himalaya -> foreland alluvium\n              -> Peninsular cratons, rifts, basins and Deccan cover\n\nEVIDENCE LADDER\nsuperposition -> cross-cutting -> unconformity -> fossil correlation\n              -> radiometric event age -> palaeomagnetism -> geophysics\n\nStable Peninsula means relatively stable, not uniform, flat or aseismic."
+        },
+        {
+          "title": "Indian rock systems, basins and resource associations",
+          "structural_type": "chronology-resource-matrix",
+          "source_references": {
+            "sessions": [18, 19, 20, 21, 22],
+            "sections": ["BASIC LEARNING SESSION", "Rapid register - India's geological architecture"],
+            "markdown_lines": ["1254-1703", "3288-3295"]
+          },
+          "ascii_text": "+------------------+-------------------------+----------------------+\n| SYSTEM           | INDIAN EXPRESSION       | SAFE ASSOCIATION     |\n+------------------+-------------------------+----------------------+\n| Archaean/Dharwar | gneiss + supracrustals  | process-specific ore |\n| Proterozoic      | Cuddapah, Vindhyan      | stone; bounded ores  |\n| Gondwana         | faulted inland basins   | coal, not universal  |\n| Marine basins    | coasts and offshore     | petroleum potential  |\n| Deccan Trap      | stacked flood basalts   | soil, stone, water   |\n+------------------+-------------------------+----------------------+\n\nGONDWANA BASINS: Damodar | Son-Mahanadi | Satpura | Godavari\nPETROLEUM SYSTEM:\nsource -> maturation -> migration -> reservoir -> seal -> trap -> timing\nDECCAN ARCHITECTURE:\nflow top / vesicles / fractures / weathered contact / dense flow interior\n\nAssociation is not determinism: grade, preservation, exploration,\ntechnology, economics and environmental limits decide usable resources."
+        },
+        {
+          "title": "Himalaya, foreland, coasts, islands and structural controls",
+          "structural_type": "india-regional-map-hierarchy",
+          "source_references": {
+            "sessions": [23, 24, 25, 26, 27],
+            "sections": ["BASIC LEARNING SESSION", "Rapid register - India's geological architecture"],
+            "markdown_lines": ["1704-2157", "3293-3299"]
+          },
+          "ascii_text": "                         HIMALAYA\n collision orogen: HFT/MFT -> MBT -> MCT -> suture framework\n                             |\n                 FORELAND FLEXURE AND FILL\n        Bhabar -> Terai -> bhangar/khadar alluvial expressions\n                             |\n+----------------------------+-------------------------------+\n| PENINSULAR STRUCTURES      | COASTS AND ISLANDS            |\n| Narmada-Son and Tapi rifts | west: rifted-margin sectors   |\n| Cambay and Kachchh         | east: deltaic sediment basins |\n| Godavari rift basin        | Andaman: active island arc    |\n| joints, faults, bedding    | Lakshadweep: coral atolls     |\n+----------------------------+-------------------------------+\n                             |\nstructure guides relief, drainage, waterfalls and groundwater\n                             |\nclimate + erosion + base level + human action modify expression\n\nRift = extensional zone | graben = down-dropped block\nLineament = mapped linear feature, not automatically an active fault."
+        },
+        {
+          "title": "India seismic expression and geology-to-risk translation",
+          "structural_type": "hazard-risk-response",
+          "source_references": {
+            "sessions": [28, 29],
+            "sections": ["BASIC LEARNING SESSION", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["2158-2250", "3297-3301"]
+          },
+          "ascii_text": "TECTONIC AND INHERITED STRUCTURE\n                |\n       +--------+--------+----------------+\n       |                 |                |\nHimalaya / NE       Andaman arc       Kachchh / Peninsula\nactive collision    subduction        inherited faults/rifts\n       |                 |                |\nstrong shaking      quake + tsunami   intraplate reactivation\n       +--------+--------+----------------+\n                |\nSITE FILTER: alluvium, basin depth, groundwater, slope, construction\n                |\nEXPOSURE + VULNERABILITY - CAPACITY\n                |\n             DISASTER RISK\n\nBIS Zones II-V are broad design generalisations, not predictions.\nGeological association must be followed by site evidence and engineering.\n\nRESPONSE: map -> investigate -> code -> inspect -> retrofit -> prepare."
+        },
+        {
+          "title": "Map-answer and Mains spine for India's geological architecture",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": {
+            "sessions": [13, 16, 17, 20, 22, 23, 24, 29],
+            "sections": ["PYQS AND ANSWER PRACTICE", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["2948-3116", "3364-3383"]
+          },
+          "ascii_text": "QUESTION: How does geological structure shape India's surface geography?\n                             |\n1. DEFINE: age + composition + rock architecture + tectonic structures\n                             |\n2. DRAW: Himalaya -> foreland plain -> Peninsular shield cross-section\n                             |\n3. SEQUENCE: Gondwana rift -> drift -> collision -> uplift -> sediment fill\n                             |\n4. MAP NAMED UNITS\n   cratons | Purana basins | Gondwana basins | Deccan | coasts | islands\n                             |\n5. LINK PROCESS TO CONSEQUENCE\n   structure -> relief/drainage/water/resource/seismic expression\n                             |\n6. QUALIFY\n   association is not reserve; stable is not aseismic; alluvium has structure\n                             |\n7. VERDICT\n   inherited geology is filtered through tectonics, climate, erosion and use\n\nAnswer order: thesis -> map -> evidence -> mechanism -> India example\n              -> limitation -> graded conclusion."
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-03",
+      "title": "Vulcanism and Earthquakes / India Seismic Zones",
+      "source_record": "geography-03:learner-v2:g5",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g5\\geography-03_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Endogenic system: plate motion, strain release and magma generation",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1, 2, 3],
+            "sections": ["BASIC LEARNING SESSION", "The complete earthquake mechanism"],
+            "markdown_lines": ["50-282", "2585-2594"]
+          },
+          "ascii_text": "+------------------- ENDOGENIC SYSTEM -------------------+\n| Internal heat + gravity + plate motion reshape crust.  |\n+---------------------------------------------------------+\n                         |\n           +-------------+-------------+\n           |                           |\n     STRESS ACCUMULATION          MAGMA GENERATION\n           |                           |\n load -> lock -> strain       divergence: decompression\n           |                  subduction: volatile flux\n rupture -> slip              plume: anomalous upwelling\n           |                           |\n      EARTHQUAKE                     VULCANISM\n           \\                           /\n            +---- landforms + hazards + resources ----+\n\nFAULT PAIRS\ntension -> normal | compression -> reverse/thrust | shear -> strike-slip\n\nPlate motion loads a region; sudden fault rupture is the immediate quake source."
+        },
+        {
+          "title": "Earthquake source geometry, depth and seismogram logic",
+          "structural_type": "cross-section-and-location-method",
+          "source_references": {
+            "sessions": [3, 4],
+            "sections": ["BASIC LEARNING SESSION", "Source geometry and seismogram"],
+            "markdown_lines": ["210-361", "2595-2605"]
+          },
+          "ascii_text": "                         SURFACE\nstation A -------- epicentre -------- station B\n                        |\n                        |\n                 focus / hypocentre\n              rupture begins on fault plane\n\nSEISMOGRAM ARRIVAL ORDER\nP first -> S second -> Love and Rayleigh later\n     |\nP-S interval at one station gives source distance\n     |\nthree or more distance circles estimate the epicentre\n\nDEPTH CLASS\nshallow: 0-70 km | intermediate: 70-300 km | deep: 300-700 km\n\nSEQUENCE FIREWALL\nforeshock, mainshock and aftershock are relational labels;\na swarm has no single clearly dominant event.\n\nEpicentre is a vertical projection, not necessarily the worst-damaged place."
+        },
+        {
+          "title": "Seismic waves, shadow zones, magnitude and intensity",
+          "structural_type": "comparison-table-with-evidence-chain",
+          "source_references": {
+            "sessions": [5, 6, 7],
+            "sections": ["BASIC LEARNING SESSION", "Waves and Earth interior", "Magnitude, intensity and damage"],
+            "markdown_lines": ["362-570", "2606-2627"]
+          },
+          "ascii_text": "+----------+------------------+---------------+--------------------+\n| WAVE     | MOTION           | MEDIUM        | MAIN CLUE          |\n+----------+------------------+---------------+--------------------+\n| P        | compression      | solid, liquid | core refraction    |\n| S        | transverse shear | solid only    | liquid outer core  |\n| Love     | horizontal shear | surface       | lateral shaking    |\n| Rayleigh | rolling ellipse  | surface       | mixed motion       |\n+----------+------------------+---------------+--------------------+\nP shadow about 103-142 deg | direct S shadow beyond about 103 deg\n\nMAGNITUDE: one source measure; Mw uses seismic moment\nmoment = rigidity x fault area x average slip\n+1 local magnitude gives about 10x amplitude and 31.6x energy\n\nINTENSITY: place-specific observed effects; many values for one event\n\nsource x path x site x exposure x vulnerability / capacity -> damage"
+        },
+        {
+          "title": "Global seismic belts, cascading hazards and tsunami sequence",
+          "structural_type": "global-distribution-and-hazard-chain",
+          "source_references": {
+            "sessions": [8, 9, 10],
+            "sections": ["BASIC LEARNING SESSION", "Global distribution", "Tsunami spine"],
+            "markdown_lines": ["571-792", "2628-2660"]
+          },
+          "ascii_text": "GLOBAL EARTHQUAKE DISTRIBUTION\n+----------------------+----------------------+--------------------+\n| Circum-Pacific       | Mediterranean-       | Ridges/transforms  |\n| trench + slab + arc  | Himalayan collision | shallow events     |\n| megathrust + tsunami | complex convergence | basaltic ridges    |\n+----------------------+----------------------+--------------------+\nIntraplate events reactivate inherited structures; stable is not aseismic.\n\nCASCADE\nshaking -> amplification / liquefaction / lateral spreading\n        -> landslide / fire / lifeline failure / dam distress\n\nTSUNAMI\nsubmarine megathrust -> vertical sea-floor displacement\n-> long low deep-ocean wave -> coastal shoaling\n-> run-up + inundation + return flow\n\nFirst wave need not be largest; withdrawal need not occur before every event.\nRisk varies with bathymetry, bay shape, shelf, exposure and evacuation."
+        },
+        {
+          "title": "Volcano anatomy, magma controls, landforms and eruption styles",
+          "structural_type": "volcanic-cross-section-and-classification",
+          "source_references": {
+            "sessions": [11, 12, 13],
+            "sections": ["BASIC LEARNING SESSION", "Volcano anatomy and magma control"],
+            "markdown_lines": ["793-1022", "2661-2683"]
+          },
+          "ascii_text": "                       ash plume\n                          /\\\n                         /  \\ crater\n                  lava --    -- lava\n                         |vent|\n                dyke ----|    |---- sill\n                         |conduit\n                    magma chamber\n\nMagma below surface | lava after eruption\nSilica up -> viscosity up -> degassing harder -> explosivity may rise\nTemperature up -> viscosity generally down\nRetained gas + decompression -> bubbles -> fragmentation\n\nFORMS: batholith, laccolith, lopolith, phacolith, dyke, sill\nDyke cuts layers; sill follows layers.\n\nSTYLE: fissure/Icelandic -> Hawaiian -> Strombolian -> Vulcanian -> Plinian\nFORM: shield | composite | cinder cone | dome | fissure plateau\nSTATUS: active | dormant | extinct; status is not a compulsory life cycle."
+        },
+        {
+          "title": "Volcanic settings, global belts, products and environmental effects",
+          "structural_type": "spatial-distribution-and-impact-matrix",
+          "source_references": {
+            "sessions": [14, 15, 16],
+            "sections": ["BASIC LEARNING SESSION", "Volcanic distribution and plumes", "Volcanic impacts"],
+            "markdown_lines": ["1023-1233", "2684-2700"]
+          },
+          "ascii_text": "+----------------+----------------------+-------------------------+\n| SETTING        | MELTING MECHANISM    | EXPRESSION              |\n+----------------+----------------------+-------------------------+\n| Divergent      | decompression        | ridge, rift, basalt     |\n| Subduction     | slab volatile flux   | trench-slab-arc system  |\n| Plume          | mantle upwelling     | flood basalt, hot spot  |\n+----------------+----------------------+-------------------------+\nRing of Fire = trench + descending slab + earthquakes + volcanic arc\nPlume model: broad head may form flood basalt; tail may form age chain.\nDeccan Trap is a fissure-fed flood-basalt plateau, not a giant cone.\n\nHAZARDS: lava | ash | density currents | lahars | gases\nCLIMATE: stratospheric sulphate aerosol can cause temporary cooling\nBENEFITS: new crust/land | soil parent | geothermal energy | minerals\n\nImpact converges through wind, relief, drainage, exposure and preparedness."
+        },
+        {
+          "title": "India seismic geography, zonation, institutions and resilience stack",
+          "structural_type": "india-regional-map-and-intervention-stack",
+          "source_references": {
+            "sessions": [17, 18, 19],
+            "sections": ["BASIC LEARNING SESSION", "India regional map recall", "Institutions and risk reduction"],
+            "markdown_lines": ["1234-1466", "2701-2736"]
+          },
+          "ascii_text": "INDIA REGIONAL HIERARCHY\nHimalaya        : collision, thrusts, slopes, dense corridors\nNorth-East      : convergence, strike-slip complexity\nAndaman         : subduction, tsunami, Barren Island volcanism\nKachchh         : inherited rift and fault reactivation\nPeninsula       : relatively stable; Koyna and Latur show residual risk\nIndo-Gangetic   : alluvium, amplification and high exposure\n                         |\nMACROZONATION: broad design hazard, not prediction\nMICROZONATION: geology + soil + motion + water + liquefaction + GIS\n                         |\nNCS/MoES -> monitoring | GSI -> geology | BIS -> standards\nNDMA/NIDM -> guidance | INCOIS -> tsunami warning\nStates/ULBs -> approvals + inspection + enforcement\n                         |\nsite -> regular load path -> ductility -> connections\n-> non-structural safety -> quality control -> retrofit -> drills\n\nEarly warning detects rupture after it starts; it is not prediction."
+        },
+        {
+          "title": "Hazard-risk-response and Mains answer spine for seismic India",
+          "structural_type": "hazard-risk-response-and-mains-spine",
+          "source_references": {
+            "sessions": [9, 10, 16, 17, 18, 19],
+            "sections": ["PYQS AND ANSWER PRACTICE", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["2737-2786"]
+          },
+          "ascii_text": "QUESTION: Why can similar earthquakes produce unequal disasters?\n                             |\nHAZARD: source size + depth + rupture geometry + path\n                             |\nSITE: basin sediment + groundwater + slope + liquefaction potential\n                             |\nEXPOSURE: people + buildings + lifelines + time of occurrence\n                             |\nVULNERABILITY: weak design + irregular form + poor maintenance\n                             |\nCAPACITY: codes + enforcement + retrofit + warning + response\n                             |\nRISK VERDICT: hazard becomes disaster through social and spatial filters\n\n15-MARK INDIA SPINE\ntectonic regions -> site modifiers -> exposure/vulnerability -> cases\n-> zonation and microzonation -> construction and governance -> conclusion\n\nTRAPS: focus is not epicentre | magnitude is not intensity\ntsunami is not a tide | caldera is not an ordinary crater\nzone map is not prediction | code publication is not enforcement."
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-04",
+      "title": "Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater",
+      "source_record": "geography-04:learner-v2:g6",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\g6\\geography-04_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Exogenic source-transfer-storage system",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1],
+            "sections": ["BASIC LEARNING SESSION", "Process system and definitions"],
+            "markdown_lines": ["43-124", "2965-2971"]
+          },
+          "ascii_text": "+-------------- EXOGENIC LANDSCAPE SYSTEM --------------+\n| CENTRAL QUESTION: How is rock converted into landform? |\n+---------------------------------------------------------+\n                         |\n                ROCK EXPOSED AT SURFACE\n                         |\n                 weathering in place\n                         |\n            regolith and loose material supplied\n              /                         \\\n gravity-driven transfer          agent-driven transfer\n mass wasting downslope           water, wind, ice, waves\n              \\                         /\n                 erosion + transport\n                         |\n                     deposition\n                         |\n                 temporary storage\n                         |\n                    remobilisation\n\nDenudation is collective lowering; weathering, erosion and mass wasting\nare linked but distinct processes."
+        },
+        {
+          "title": "Weathering taxonomy, controls, regolith and soil formation",
+          "structural_type": "classification-tree-and-controls-matrix",
+          "source_references": {
+            "sessions": [2, 3, 4],
+            "sections": ["BASIC LEARNING SESSION", "Process system and definitions", "Regolith, soils and erosion"],
+            "markdown_lines": ["125-466", "2968-2981"]
+          },
+          "ascii_text": "                       WEATHERING\n              +------------+------------+\n              |            |            |\n          MECHANICAL     CHEMICAL     BIOLOGICAL\n          thermal        solution     roots/burrows\n          unloading      carbonation  organic acids\n          frost          hydration    human exposure\n          salt           hydrolysis\n          wet-dry        oxidation\n              \\            |            /\n               +------ REGOLITH -------+\n                         |\n organic inputs + organisms + translocation + time\n                         |\n                       SOIL\n                 O -> A/E -> B -> C -> R\n                 removal    gain     parent rock\n\nCONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief\n                   + drainage + organisms + time + land use\n\nBlack soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks;\nparent material does not alone determine every soil property."
+        },
+        {
+          "title": "Soil erosion sequence and watershed control logic",
+          "structural_type": "causal-sequence-and-intervention-chain",
+          "source_references": {
+            "sessions": [5],
+            "sections": ["BASIC LEARNING SESSION", "Regolith, soils and erosion"],
+            "markdown_lines": ["467-562", "2974-2981"]
+          },
+          "ascii_text": "RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION\n                         |\n                 diffuse sheet removal\n                         |\n                  small rill channels\n                         |\n                 entrenched gullies\n                         |\n             ravine landscape: Chambal cue\n\nWATERSHED RESPONSE\ncover soil -> slow runoff -> shorten slope length -> contour/terrace\n-> protect drainage -> treat gully head -> rehabilitate catchment\n\nWIND BRANCH\nsurface creep -> saltation -> suspension\n\nCOASTAL BRANCH\nwave erosion belongs to the coastal-process system; use only when asked.\n\nA check dam alone cannot replace upstream cover, drainage and maintenance."
+        },
+        {
+          "title": "Mass-movement taxonomy and slope-stability mechanism",
+          "structural_type": "classification-tree-with-force-balance",
+          "source_references": {
+            "sessions": [6, 7],
+            "sections": ["BASIC LEARNING SESSION", "Mass movement and India"],
+            "markdown_lines": ["563-738", "2982-2991"]
+          },
+          "ascii_text": "                     MASS MOVEMENT\n       +------------------+------------------+\n       |                  |                  |\n     SLOW               SLIDE/FALL          FLOW/AVALANCHE\n creep, solifluction    rockfall            debris flow\n                       translational slide  earth or mud flow\n                       rotational slump     rock/debris avalanche\n                                            snow avalanche\n\nSLOPE BALANCE\nresisting strength = cohesion + friction + structural support\n                         versus\ndriving stress = gravity component + loading + toe loss\n                         |\nrain infiltration -> added weight + pore pressure -> lower effective strength\nroad or river cut -> steepening / undercutting -> support loss\nquake / quarry / leakage / drainage change -> trigger or amplification\n                         |\n                 FAILURE WHEN DRIVE > RESISTANCE\n\nMaterial, movement and water define the event; speed alone does not."
+        },
+        {
+          "title": "India landslide geography, risk production and mitigation stack",
+          "structural_type": "india-regional-map-and-hazard-response",
+          "source_references": {
+            "sessions": [8, 9, 10],
+            "sections": ["BASIC LEARNING SESSION", "Mass movement and India"],
+            "markdown_lines": ["739-1003", "2987-2998"]
+          },
+          "ascii_text": "INDIA LANDSLIDE GEOGRAPHY\nHimalaya / NE : young relief + fractures + incision + rain + seismicity\nWestern Ghats : escarpment + deep weathering + orographic rain + cuts\nNilgiris      : weathered slopes + roads + settlements + drainage change\n                         |\nPREDISPOSITION -> TRIGGER -> MOVEMENT -> EXPOSURE -> LOSS\n geology/slope    rain/quake   slide/flow   road/town    disaster\n                         |\nGSI LADDER\ninventory -> susceptibility/hazard study -> post-event diagnosis\n-> monitoring / NLFC support -> decision communication\n                         |\nMITIGATION STACK\navoid unsafe siting -> manage drainage -> protect toe\n-> stabilise slope -> bioengineer -> control spoil/quarrying\n-> maintain works -> warn/close routes -> evacuate and prepare\n\nInventory maps past events; susceptibility maps relative likelihood;\nneither is a deterministic event prediction.\nJoshimath is a multi-causal subsidence case, not a synonym for landslide."
+        },
+        {
+          "title": "Groundwater architecture from recharge to wells",
+          "structural_type": "hydrogeological-cross-section",
+          "source_references": {
+            "sessions": [11, 12, 13, 14],
+            "sections": ["BASIC LEARNING SESSION", "Groundwater fundamentals"],
+            "markdown_lines": ["1004-1368", "2999-3015"]
+          },
+          "ascii_text": "rain -> infiltration -> soil moisture -> percolation -> recharge\n\nGROUND SURFACE      recharge area                 spring at slope\n-------------------------v------------------------------->\nZONE OF AERATION       perched water on local aquitard\n-------------------- capillary fringe -------------------\nWATER TABLE       UNCONFINED AQUIFER        pumping well\n~~~~~~~~~~~~~~~~~~~~~~~\\________________ cone of depression\nAQUITARD          slow transmission\n---------------------------------------------------------\nCONFINED AQUIFER   pressure; water rises to potentiometric level\n=========================================================\nAQUICLUDE          practically no transmission\n\nporosity = fraction of voids | permeability = connected flow capacity\naquifer stores and transmits | aquitard transmits slowly\nartesian water rises under pressure; it flows only if head exceeds ground\n\nBudget: change in storage = recharge + inflow - discharge - pumping - outflow."
+        },
+        {
+          "title": "India groundwater depletion, quality and subsidence geography",
+          "structural_type": "regional-comparison-and-causal-convergence",
+          "source_references": {
+            "sessions": [14, 15, 16, 17],
+            "sections": ["BASIC LEARNING SESSION", "India groundwater geography, quantity and quality"],
+            "markdown_lines": ["1276-1671", "3016-3028"]
+          },
+          "ascii_text": "+----------------+----------------------+-------------------------+\n| REGION         | AQUIFER FORM         | MAJOR PRESSURE          |\n+----------------+----------------------+-------------------------+\n| Indo-Gangetic  | layered alluvium     | depletion, As, nitrate  |\n| Peninsular     | weathered fractures  | discontinuous storage   |\n| Deccan basalt  | contacts + fractures | uneven well yield       |\n| Arid hard rock | limited recharge     | fluoride, salinity      |\n| Coastal belt   | fresh-saline wedge   | intrusion and upconing  |\n+----------------+----------------------+-------------------------+\n\ncrop-water demand + cheap energy + private wells + urban growth\n+ weak aquifer regulation + limited recharge\n                         |\nfalling head -> lower yield -> higher lift cost -> unequal access\n                         |\ncompressible sediment: pore-pressure loss -> compaction -> subsidence\n\nQuality paths differ: arsenic redox | fluoride rock-water interaction\nnitrate sewage/fertiliser | salinity coastal or inland\nQuantity and quality require separate evidence, though each limits usable water."
+        },
+        {
+          "title": "Recharge, demand governance and integrated Mains answer spine",
+          "structural_type": "institutional-intervention-stack-and-answer-spine",
+          "source_references": {
+            "sessions": [18, 19, 20],
+            "sections": ["BASIC LEARNING SESSION", "Institutions, current anchors and scheme status", "Answer-writing keyword bank"],
+            "markdown_lines": ["1672-1970", "3029-3046"]
+          },
+          "ascii_text": "GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS\n\nSUPPLY / RECHARGE                    DEMAND / GOVERNANCE\nroof and runoff capture              crop-water alignment\nmanaged aquifer recharge             efficient irrigation\nwatershed treatment                  well registration/metering\nspring-shed restoration              conjunctive use and reuse\nquality-safe source water            community water budgets\nmaintenance and monitoring           enforceable state/local rules\n              \\                         /\n               +---- AQUIFER PLAN ----+\n                         |\nCGWB assessment + NAQUIM mapping + state regulation\n+ Atal Bhujal learning + local institutions + public data\n                         |\nANSWER SPINE\n1 define stock-flow-quality system | 2 draw aquifer or India map\n3 diagnose regional mechanism       | 4 use dated evidence carefully\n5 match intervention to cause       | 6 qualify limits and equity\n\nRecharge structures are inputs, not proof of water-table recovery.\nDesalination supplies water but does not restore freshwater aquifer head."
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-28-human-settlements-and-urbanisation",
+      "title": "Human Settlements and Urbanisation",
+      "source_record": "geography-28-human-settlements-and-urbanisation:learner-v2:g9",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\g9\\geography-28_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Settlement-reading system: ground, form, work and network",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1, 2, 3, 4],
+            "sections": ["BASIC LEARNING SESSION", "Settlement-reading grid"],
+            "markdown_lines": ["57-417", "2444-2470"]
+          },
+          "ascii_text": "+---------------- SETTLEMENT GEOGRAPHY ----------------+\n| CENTRAL QUESTION: Why do people settle here, in this  |\n| form, for these functions, within this wider network? |\n+--------------------------------------------------------+\n                         |\n       +-----------------+-----------------+\n       |                 |                 |\nSITE: exact ground   SITUATION: links   FUNCTION: work\nrelief, soil, water  route, river, city  farm, trade, service\n       \\                 |                 /\n        +----------- SETTLEMENT FORM ------+\n       compact | semi-compact | hamleted | dispersed\n                         |\nPATTERN: linear | grid | radial | circular | irregular\n                         |\nHIERARCHY: village -> town -> city -> metropolis\n           -> conurbation -> megalopolis\n\nGround -> shape -> work -> network; no single dimension is sufficient."
+        },
+        {
+          "title": "Rural settlement forms and the rural-urban continuum",
+          "structural_type": "classification-tree-and-continuum",
+          "source_references": {
+            "sessions": [2, 3, 4],
+            "sections": ["BASIC LEARNING SESSION", "Rural morphology and urbanisation"],
+            "markdown_lines": ["149-417", "2471-2480"]
+          },
+          "ascii_text": "RURAL MORPHOLOGY\n+----------------+----------------------+-------------------------+\n| FORM           | COMMON CONTROL       | SAFE INTERPRETATION     |\n+----------------+----------------------+-------------------------+\n| Compact        | security, water      | close houses, not urban |\n| Hamleted       | caste/clan, terrain  | linked small clusters   |\n| Dispersed      | slopes, farms        | rational adaptation     |\n| Linear         | road, river, canal   | corridor alignment      |\n+----------------+----------------------+-------------------------+\n\nRURAL <----------------------------------------------------> URBAN\nprimary work      mixed livelihoods       non-primary work/services\nlow density       peri-urban change       dense networked land use\n                         |\nUrbanisation = share change + work change + services + networks + land use\n                         |\nUA = continuous urban spread | conurbation = coalesced towns\nmetropolis = command city | megalopolis = multi-metropolitan region\n\nThe continuum replaces a false binary but does not erase legal categories."
+        },
+        {
+          "title": "Central-place theory: threshold, range, hierarchy and Indian fit",
+          "structural_type": "branching-market-hierarchy",
+          "source_references": {
+            "sessions": [5, 6, 7],
+            "sections": ["BASIC LEARNING SESSION", "Central-place recall"],
+            "markdown_lines": ["418-681", "2493-2505"]
+          },
+          "ascii_text": "                      CENTRAL PLACE\n                           |\n       +-------------------+-------------------+\n       |                                       |\nTHRESHOLD                              RANGE\nminimum viable demand                  maximum accepted travel/cost\n       |                                       |\nlow-order goods                       high-order goods\nsmall threshold, short range          large threshold, long range\n       \\                                       /\n        +------------ PLACE HIERARCHY --------+\n                           |\nK=3 marketing | K=4 transport | K=7 administration\n                           |\nINDIAN FIT: alluvial plains, periodic markets, facility planning\nINDIAN BREAKS: hills, forests, deserts, deltas, coasts, history,\n               better transport and metropolitan dominance\n                           |\nVERDICT: hexagonal geometry is weak; threshold, range and hierarchy endure."
+        },
+        {
+          "title": "Urban-system and morphology models compared",
+          "structural_type": "comparison-table-with-city-cross-sections",
+          "source_references": {
+            "sessions": [8, 9, 10, 11],
+            "sections": ["BASIC LEARNING SESSION", "Model comparison"],
+            "markdown_lines": ["682-995", "2481-2492"]
+          },
+          "ascii_text": "+----------------+-----------------------+------------------------+\n| MODEL          | CORE MECHANISM        | MAIN LIMIT             |\n+----------------+-----------------------+------------------------+\n| Rank-size      | size falls with rank  | system boundary matters|\n| Primacy        | one city dominates    | scale changes verdict  |\n| Burgess        | concentric rings      | monocentric assumption |\n| Hoyt           | corridor sectors      | underplays later nodes |\n| Harris-Ullman  | specialised nuclei    | more descriptive       |\n+----------------+-----------------------+------------------------+\n\nBURGESS: CBD -> transition -> worker housing -> better housing -> commuters\nHOYT   : CBD with wedges extending along transport corridors\nNUCLEI : CBD + industry + airport + university + suburban business nodes\n                         |\nREAL INDIAN METROPOLIS\nhistoric core + colonial axis + industry + corridors + informal growth\n                         |\nUse models as layered lenses; none is a literal photograph of the city."
+        },
+        {
+          "title": "India's statistical, legal and physical urbanisation",
+          "structural_type": "india-definition-hierarchy",
+          "source_references": {
+            "sessions": [12],
+            "sections": ["BASIC LEARNING SESSION", "India definition firewall", "Dated India baseline"],
+            "markdown_lines": ["996-1081", "2506-2524", "2539-2553"]
+          },
+          "ascii_text": "                    INDIA'S URBAN REALITY\n                            |\n       +--------------------+---------------------+\n       |                    |                     |\nLEGAL                  STATISTICAL             PHYSICAL\nstatutory town         census town             built-up continuity\nurban local body       urban criteria          peri-urban spread / UA\n       |                    |                     |\n       +----------- may not coincide -------------+\n                            |\nHIDDEN URBANISATION\nfunctional and census change ahead of municipal institutions\n                            |\nCENSUS 2011 OBSERVED BASELINE\nurban population 377.1 million | urban share 31.16%\n7,935 towns = 4,041 statutory + 3,894 census towns\n53 million-plus urban agglomerations / cities\n\nAlways attach source and year; projections and mission counts are not Census."
+        },
+        {
+          "title": "Urban problem system: sprawl, housing, mobility, flood and heat",
+          "structural_type": "causal-convergence-and-risk-panel",
+          "source_references": {
+            "sessions": [13, 14],
+            "sections": ["BASIC LEARNING SESSION", "Problem mechanisms"],
+            "markdown_lines": ["1082-1282", "2525-2538"]
+          },
+          "ascii_text": "URBAN EXPANSION OUTRUNS PLANNING AND SERVICES\n                         |\n       +-----------------+------------------+\n       |                 |                  |\nSPRAWL               HOUSING FAILURE      SEALED LAND\nlonger networks      informality          faster runoff\nlonger trips         hazardous sites      lost storage\ncongestion           unequal service      urban flood\n       |                 |                  |\n       +-----------------+------------------+\n                         |\nDARK SURFACES + LOW TREE COVER -> retained heat -> health inequality\nDISTANT WATER + LEAKS + UNTREATED SEWAGE -> basin-scale water stress\n                         |\nEXPOSURE FILTER\nincome, tenure, occupation, age, gender, disability and warning access\n                         |\nRESPONSE\ncompact serviced growth + affordable housing + transit + blue-green systems\n+ drainage maintenance + heat action + water reuse + risk-sensitive zoning"
+        },
+        {
+          "title": "Functional city versus fragmented governance",
+          "structural_type": "institutional-intervention-stack",
+          "source_references": {
+            "sessions": [15, 16],
+            "sections": ["BASIC LEARNING SESSION", "Metropolitan quality and mission firewall", "Debates"],
+            "markdown_lines": ["1283-1514", "2554-2574"]
+          },
+          "ascii_text": "FUNCTIONAL URBAN REGION\njobs + housing + transport + water + waste + ecology cross boundaries\n                         |\nGOVERNING MAP\nULB A | ULB B | development authority | utility | district | state agency\n                         |\nfragmented mandate + finance + data + accountability\n                         |\nuneven service, delayed infrastructure and risk transfer\n                         |\nINTEGRATION STACK\nmetropolitan planning -> empowered ULBs -> stable finance\n-> ward participation -> common data -> transit-land-use alignment\n-> utility coordination -> outcome audits\n\nMISSION FIREWALL\nannouncement -> sanction -> project -> completion -> service outcome\nA dated project count is not proof of universal liveability.\n\nPolycentric growth needs integrated mobility and governance,\notherwise multiple nodes become multiple accountability gaps."
+        },
+        {
+          "title": "Map-answer and Mains spine for Indian urbanisation",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": {
+            "sessions": [7, 8, 12, 13, 14, 15],
+            "sections": ["PYQS AND ANSWER PRACTICE", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["1898-2199", "2506-2574"]
+          },
+          "ascii_text": "QUESTION: Is Indian urbanisation productive, inclusive and resilient?\n                             |\n1. DEFINE THE URBAN LENS\n   legal + statistical + physical + functional urbanisation\n                             |\n2. MAP THE SYSTEM\n   metros -> corridors -> intermediate towns -> census towns -> peri-urban belts\n                             |\n3. EXPLAIN BENEFITS\n   agglomeration -> matching -> innovation -> shared infrastructure\n                             |\n4. DIAGNOSE MECHANISMS\n   sprawl | housing | mobility | flood | heat | water | sanitation\n                             |\n5. LOCATE GOVERNANCE GAP\n   functional region exceeds municipal boundary and capacity\n                             |\n6. QUALIFY WITH DATED EVIDENCE\n   Census baseline is observed; mission outputs require outcome checks\n                             |\n7. VERDICT\n   capture density and connectivity while building inclusive services,\n   ecological safeguards and accountable metropolitan institutions."
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "title": "Primary Economic Activities: Agriculture",
+      "source_record": "geography-30-primary-economic-activities-agriculture:learner-v2:g9",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g9\\geography-30_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Agricultural geography as a natural-human-market system",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1, 2],
+            "sections": ["BASIC LEARNING SESSION", "Agricultural geography in one line"],
+            "markdown_lines": ["76-243", "2702-2708"]
+          },
+          "ascii_text": "+-------------- AGRICULTURAL GEOGRAPHY ----------------+\n| Where does production occur, why there, how organised,|\n| and how does the pattern change through time?         |\n+--------------------------------------------------------+\n                         |\n       +-----------------+------------------+\n       |                 |                  |\nNATURAL BASE         HUMAN SYSTEM       MARKET SYSTEM\nclimate              labour/holding     demand\nrelief               technology         transport\nsoil                 tenure/capital     storage/processing\nwater                institutions       price and trade links\n       \\                 |                  /\n        +---------- FARMING SYSTEM ----------+\n                         |\n location -> seasonality -> intensity -> surplus -> value chain\n                         |\n spatial gains and costs feed back to soil, water, labour and region\n\nSix controls: climate, relief, soil, water, labour, market/transport."
+        },
+        {
+          "title": "Farming-system classification by ecology, labour and market",
+          "structural_type": "classification-table",
+          "source_references": {
+            "sessions": [3],
+            "sections": ["BASIC LEARNING SESSION", "Farming systems and world regions"],
+            "markdown_lines": ["244-333", "2709-2720"]
+          },
+          "ascii_text": "+----------------------+-----------------------+----------------------+\n| SYSTEM               | ORGANISATION          | TYPICAL SETTING      |\n+----------------------+-----------------------+----------------------+\n| Shifting cultivation | clearing + fallow     | humid forest margins |\n| Wet-rice intensive   | small, labour, water  | monsoon valleys      |\n| Nomadic pastoralism  | mobile herds          | arid sparse pasture  |\n| Mixed farming        | crop-livestock link   | temperate regions    |\n| Mediterranean        | winter rain system    | west-coast margins   |\n| Plantation           | estate + export crop  | tropical highlands   |\n| Commercial grain     | mechanised vast farms | temperate plains     |\n| Dairy/market garden  | perishable + urban    | city hinterlands     |\n+----------------------+-----------------------+----------------------+\n\nCLASSIFICATION AXES\nsubsistence/commercial | intensive/extensive | crop/livestock mix\nsedentary/mobile | small/large scale | local/export orientation\n\nHigh output per hectare is not the same as commercial orientation."
+        },
+        {
+          "title": "Von Thunen rings and the survival of distance",
+          "structural_type": "spatial-ring-model-and-modification-chain",
+          "source_references": {
+            "sessions": [4],
+            "sections": ["BASIC LEARNING SESSION", "Von Thunen and location"],
+            "markdown_lines": ["334-425", "2721-2727"]
+          },
+          "ascii_text": "                      CENTRAL MARKET\n                 +-----------------------+\n                 | dairy / vegetables    | high decay, frequent trips\n                 +-----------------------+\n                 | forestry / fuelwood   | heavy transport burden\n                 +-----------------------+\n                 | field crops           | lower perishability\n                 +-----------------------+\n                 | livestock / ranching  | extensive outer use\n                 +-----------------------+\n\ndistance up -> freight/reliability cost up -> bid rent generally down\nperishability + delivery frequency + land rent decide near-market use\n                         |\nMODERN MODIFIERS\ncold chain + expressway + processing + digital markets + policy\n                         |\nstretch, distort or split rings; they do not abolish cost and access\n\nAnswer route: assumptions -> mechanism -> modification -> surviving use\n              -> limits from relief, multiple markets and institutions."
+        },
+        {
+          "title": "World crop regions and ecological requirements",
+          "structural_type": "global-spatial-distribution-table",
+          "source_references": {
+            "sessions": [5, 6],
+            "sections": ["BASIC LEARNING SESSION", "Crop-location rapid recall"],
+            "markdown_lines": ["426-655", "2728-2737"]
+          },
+          "ascii_text": "+---------+--------------------------+----------------------------+\n| CROP    | ECOLOGICAL BUNDLE        | BROAD GEOGRAPHY            |\n+---------+--------------------------+----------------------------+\n| Rice    | warmth + managed water   | monsoon valleys/deltas     |\n| Wheat   | cool growth, dry ripening| temperate and winter belts |\n| Cotton  | frost-free warmth        | subtropical plains/plateaus|\n| Jute    | humid alluvium + retting | eastern deltaic belt       |\n| Tea     | humid acidic slopes      | Asian tropical highlands   |\n| Coffee  | shaded drained uplands   | tropical uplands           |\n| Millets | variable lower rainfall  | semi-arid drylands         |\n+---------+--------------------------+----------------------------+\n\nREGIONAL LOGIC\nMonsoon Asia -> intensive rice | temperate plains -> commercial grain\nMediterranean margins -> winter crops, vines, olives and fruits\nTropical estates -> plantation crops | city belts -> dairy and vegetables\n\nA crop-soil link is an association, not an exclusive rule."
+        },
+        {
+          "title": "India's agro-climatic mosaic, Green Revolution and food chain",
+          "structural_type": "india-regional-map-and-causal-chain",
+          "source_references": {
+            "sessions": [5, 6],
+            "sections": ["OPTIONAL ADVANCED DEPTH", "India's seasonal and regional mosaic", "Green Revolution and procurement geography"],
+            "markdown_lines": ["2390-2619", "2767-2793"]
+          },
+          "ascii_text": "INDIA'S AGRICULTURAL MOSAIC\nNorth-west       : irrigated wheat-rice and procurement core\nEastern deltas   : rice, jute and water-rich farming\nDryland Deccan   : millets, pulses, oilseeds and variable rainfall\nWestern plateau  : cotton and mixed irrigated-dryland systems\nHighlands        : tea, coffee, spices and horticulture\nMountains        : horticulture, pastoral and terrace systems\n                         |\nGREEN REVOLUTION PACKAGE\nHYV + assured irrigation + fertiliser + credit + extension + procurement\n                         |\nearly concentration: Punjab + Haryana + western Uttar Pradesh\n                         |\nhigher grain output -> procurement -> central pool -> NFSA/PDS movement\n                         |\nSECOND-GENERATION FEEDBACK\nwater-table decline + nutrient imbalance + residue pressure\n+ rice-wheat lock-in + regional divergence\n\nProductive success and ecological stress can coexist in the same region."
+        },
+        {
+          "title": "Fishing, forestry, mining and quarrying through physiography",
+          "structural_type": "primary-activity-comparison",
+          "source_references": {
+            "sessions": [7, 8, 9, 10],
+            "sections": ["BASIC LEARNING SESSION", "Non-farm primary activities"],
+            "markdown_lines": ["656-1033", "2745-2752"]
+          },
+          "ascii_text": "+------------+---------------------------+-------------------------+\n| ACTIVITY   | PHYSICAL BASE             | HUMAN FILTER            |\n+------------+---------------------------+-------------------------+\n| Fishing    | shelf, nutrients, mixing  | harbour, cold chain     |\n| Inland fish| river, tank, reservoir    | rights, seed, markets   |\n| Forestry   | climate, altitude, species| access, tenure, rules   |\n| Mining     | ore body or fuel basin    | grade, power, transport |\n| Quarrying  | accessible bulk material  | demand, regulation      |\n+------------+---------------------------+-------------------------+\n\nPHYSIOGRAPHIC SEQUENCE\nresource occurrence -> accessibility -> extraction/harvest -> processing link\n                         |\ntechnology + transport + institutions + rights determine realised activity\n\nIndian cues:\ncentral/NE forests -> timber and NTFP | shields -> many metallic ores\nsedimentary basins -> coal/limestone | margins -> offshore hydrocarbons\n\nPrimary extraction ends before manufacturing begins."
+        },
+        {
+          "title": "Sustainable agriculture and intervention stack",
+          "structural_type": "hazard-risk-response-and-institutional-stack",
+          "source_references": {
+            "sessions": [6, 11],
+            "sections": ["BASIC LEARNING SESSION", "Commercialisation and evidence firewalls", "Current evidence and safe use"],
+            "markdown_lines": ["523-655", "1034-1125", "2738-2744", "2794-2801"]
+          },
+          "ascii_text": "REGIONAL PRODUCTION PRESSURE\nmonsoon variability + fragmented holdings + unequal irrigation\n+ soil decline + water stress + market risk\n                         |\nRESPONSE STACK\nsoil and water conservation\n-> crop-water alignment and diversification\n-> efficient irrigation and resilient seed systems\n-> storage, aggregation, processing and cold chain\n-> credit, insurance, extension and market access\n-> procurement reform with food-security safeguards\n-> local monitoring of income, nutrition and ecology\n\nEVIDENCE FIREWALL\nestimate is not final | output is not procurement | procurement is not stock\nstock is not consumption | MSP announcement is not actual purchase\n\nSCHEME STATUS\nannouncement -> approval -> guidelines -> selection -> funds\n-> physical output -> service outcome -> long-term impact\n\nTechnology raises output only where water, knowledge and institutions converge."
+        },
+        {
+          "title": "Map-answer and Mains spine for agricultural geography",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": {
+            "sessions": [1, 2, 4, 5, 6, 7, 11],
+            "sections": ["PYQS AND ANSWER PRACTICE", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["2678-2701", "2802-2824"]
+          },
+          "ascii_text": "QUESTION: Why is agricultural change spatially unequal?\n                             |\n1. DEFINE: location, seasonality, organisation and change\n                             |\n2. MAP: irrigated NW | eastern deltas | dry Deccan | plantation hills\n                             |\n3. BUILD CONTROL MATRIX\n   climate + relief + soil + water + labour + market/transport\n                             |\n4. EXPLAIN SYSTEM\n   subsistence -> surplus -> specialisation -> processing -> value chain\n                             |\n5. ADD NAMED EVIDENCE\n   Green Revolution core, procurement geography or physiographic activity\n                             |\n6. EVALUATE\n   productivity + food security versus water, soil and regional inequality\n                             |\n7. QUALIFY AND CONCLUDE\n   diversify only with purchase assurance, processing and transition support\n\nClaim -> evidence -> spatial mechanism -> distributional/ecological limit\n      -> region-sensitive verdict."
+        }
+      ]
+    },
+    {
+      "topic_key": "geography-32-industries-and-industrial-regions",
+      "title": "Industries and Industrial Regions",
+      "source_record": "geography-32-industries-and-industrial-regions:learner-v2:g9",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\g9\\geography-32_Complete-Learning-Session_2026-08-23.md",
+      "panels": [
+        {
+          "title": "Industrial geography: terminology and location question",
+          "structural_type": "process-system-overview",
+          "source_references": {
+            "sessions": [1, 2],
+            "sections": ["BASIC LEARNING SESSION", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["60-226", "2058-2096"]
+          },
+          "ascii_text": "+---------------- INDUSTRIAL GEOGRAPHY ----------------+\n| CENTRAL QUESTION: Why does an activity locate here,  |\n| cluster there, persist, disperse or relocate?         |\n+--------------------------------------------------------+\n                         |\nINDUSTRY = broad organised economic activity\nMANUFACTURING = transformation of material into products\nFACTORY = individual production establishment\nINDUSTRIAL REGION = dense interacting firms, labour and infrastructure\n                         |\nLOCATION FACTOR SYSTEM\nraw material + energy + water + labour + capital + market\n+ transport + land + technology + policy + agglomeration\n                         |\nfirm choice -> supplier links -> labour settlement -> shared services\n                         |\ncluster growth or failure depends on linkage quality and external costs\n\nDo not use factory, manufacturing and industrial region as synonyms."
+        },
+        {
+          "title": "Ranked location factors and industrial orientation",
+          "structural_type": "classification-table-and-decision-tree",
+          "source_references": {
+            "sessions": [2, 4],
+            "sections": ["BASIC LEARNING SESSION"],
+            "markdown_lines": ["140-226", "337-410"]
+          },
+          "ascii_text": "FIRST ASK: Which cost, risk or capability dominates this industry?\n                             |\n       +---------------------+----------------------+\n       |                     |                      |\nRAW-MATERIAL            MARKET                 FOOTLOOSE / SKILL\nweight loss             perishability          high value-to-weight\nbulk or fragility       custom demand          knowledge and networks\n       |                     |                      |\nore processing          food/bakery             electronics / IT-linked\n       +---------------------+----------------------+\n                             |\nPORT ORIENTATION: imported input + export market + deep logistics\nPOWER ORIENTATION: energy-intensive process\nLABOUR ORIENTATION: skill, wage, productivity and labour ecosystem\nSTATE ORIENTATION: serviced land, trunk utility and policy support\n                             |\nRANK FACTORS BY PROCESS STAGE\ninput -> transformation -> assembly -> distribution -> after-sales\n\nA multi-stage value chain can split across several locations."
+        },
+        {
+          "title": "Weber's least-cost theory in six analytical steps",
+          "structural_type": "causal-decision-chain",
+          "source_references": {
+            "sessions": [3],
+            "sections": ["BASIC LEARNING SESSION"],
+            "markdown_lines": ["227-336"]
+          },
+          "ascii_text": "1. LOCATE raw-material sources and market\n                         |\n2. CLASSIFY inputs: ubiquitous or localised; pure or weight-losing\n                         |\n3. COMPARE transport burden through the material index\n                         |\n4. FIND transport-minimum point within the locational triangle\n                         |\n5. TEST labour saving against added transport cost\n                         |\n6. TEST agglomeration saving against congestion and dispersion cost\n                         |\n                 LEAST TOTAL COST LOCATION\n\nTRANSPORT COST + LABOUR COST + AGGLOMERATION ECONOMY\n                         |\nMODERN QUALIFICATION\ncontainers + roads + reliable power + data + regulation + value chains\nalter cost surfaces, but distance, weight, time and reliability still matter.\n\nWeber explains a baseline mechanism, not every final location."
+        },
+        {
+          "title": "Major world industrial regions and their geographic mechanisms",
+          "structural_type": "global-spatial-distribution-table",
+          "source_references": {
+            "sessions": [5],
+            "sections": ["BASIC LEARNING SESSION"],
+            "markdown_lines": ["411-483"]
+          },
+          "ascii_text": "+----------------------+--------------------------------------------+\n| REGION               | MECHANISM                                  |\n+----------------------+--------------------------------------------+\n| NE United States     | market + Great Lakes + transport + skills  |\n| Ruhr / NW Europe     | coal legacy + Rhine links + dense markets  |\n| Midlands / N Italy   | old industry + SMEs + European networks    |\n| Japan Pacific Belt   | ports + imported inputs + coastal markets  |\n| China coastal belt   | ports + labour + FDI + supplier depth      |\n| South Korea corridor | ports + chaebol networks + technology      |\n+----------------------+--------------------------------------------+\n\nCOMMON EVOLUTION\nresource or port advantage -> firm concentration -> suppliers and labour\n-> infrastructure and knowledge -> diversification -> industrial inertia\n\nRESTRUCTURING PRESSURE\nold plant + pollution + land cost + global competition\n-> upgrading, decline, relocation or service transition\n\nThe same label hides different factor combinations and historical paths."
+        },
+        {
+          "title": "India's layered industrial map: belts, clusters and corridors",
+          "structural_type": "india-regional-map-hierarchy",
+          "source_references": {
+            "sessions": [5, 7],
+            "sections": ["OPTIONAL ADVANCED DEPTH", "India's industrial geography", "Corridors and planned industrial space"],
+            "markdown_lines": ["1689-1762"]
+          },
+          "ascii_text": "INDIA'S LAYERED INDUSTRIAL GEOGRAPHY\nChota Nagpur / Damodar : coal + ore + rail -> steel, power, engineering\nMumbai-Pune            : port + market + capital -> diversified industry\nAhmedabad-Vadodara     : cotton + enterprise -> textile, chemical, engineering\nChennai-Bengaluru      : ports + skill -> auto, electronics, machinery\nCoimbatore-Tiruppur    : textile base + SMEs -> knitwear, pumps, machinery\nDelhi-NCR              : market + policy + logistics -> diversified cluster\nVisakhapatnam/east     : port + mineral hinterland -> metal and petro industry\n                         |\nCORRIDOR OVERLAY\nfreight spine / expressway / port -> planned node -> trunk utilities\n-> firms and suppliers -> labour settlements -> possible industrial region\n                         |\nDMIC west | AKIC east | Chennai-Bengaluru | Vizag-Chennai\n\nNew corridors overlay inherited belts; they do not erase brownfield depth."
+        },
+        {
+          "title": "Agglomeration, deglomeration, inertia and regional divergence",
+          "structural_type": "comparison-and-feedback-loop",
+          "source_references": {
+            "sessions": [6],
+            "sections": ["BASIC LEARNING SESSION", "Institutions, regional imbalance and spread-backwash test"],
+            "markdown_lines": ["484-568", "1799-1833"]
+          },
+          "ascii_text": "AGGLOMERATION LOOP\nfirms cluster -> shared suppliers + labour + services + knowledge\n-> lower transaction cost -> more firms and skill -> deeper cluster\n                         |\n                 CONGESTION THRESHOLD\nland cost + traffic + pollution + water stress + labour pressure\n                         |\nDEGLOMERATION\nselected plants or stages move outward to cheaper connected sites\n                         |\nINDUSTRIAL INERTIA\nsunk capital + supplier ties + skill + reputation keep old region active\n\nREGIONAL OUTCOME TEST\nSPREAD: local suppliers + training + demand + infrastructure diffusion\nBACKWASH: talent/capital drain + enclave links + land displacement\n                         |\nA large plant creates convergence only when local capability and linkages grow."
+        },
+        {
+          "title": "State, corridors, PLI and the industrial intervention stack",
+          "structural_type": "institutional-intervention-stack",
+          "source_references": {
+            "sessions": [7, 8],
+            "sections": ["BASIC LEARNING SESSION", "PLI and the new sector-specific industrial map", "Institutions"],
+            "markdown_lines": ["569-735", "1723-1833"]
+          },
+          "ascii_text": "NATIONAL POLICY: DPIIT / ministries define frameworks and incentives\n                         |\nCORRIDOR GOVERNANCE: NICDIT / SPVs plan nodes and trunk systems\n                         |\nSTATE AGENCIES: land + utilities + approvals + local industrial estates\n                         |\nNETWORK ACTORS: rail freight + ports + roads + power + digital systems\n                         |\nFIRM ECOSYSTEM: anchor producer + suppliers + skills + testing + finance\n                         |\nURBAN SUPPORT: housing + mobility + water + waste + social services\n                         |\nOUTCOME: production + jobs + local linkages + lower logistics cost\n\nSTATUS FIREWALL\noutlay -> application -> investment -> production -> incentive -> wider outcome\n\nPLI may reinforce capable clusters unless weaker regions gain real ecosystems.\nA transport line becomes a corridor only through functioning nodes and linkages."
+        },
+        {
+          "title": "Map-answer and Mains spine for industrial location and regions",
+          "structural_type": "map-answer-and-mains-spine",
+          "source_references": {
+            "sessions": [2, 3, 5, 6, 7, 8],
+            "sections": ["PYQS AND ANSWER PRACTICE", "CONSOLIDATED REGISTER NOTES"],
+            "markdown_lines": ["1867-1895", "2058-2258"]
+          },
+          "ascii_text": "QUESTION: How is India's industrial geography being reorganised?\n                             |\n1. DEFINE: factory, manufacturing, cluster, region and corridor\n                             |\n2. MAP: mineral east | western port belt | southern skill arcs | NCR\n                             |\n3. EXPLAIN INHERITED LOCATION\n   raw material + port + market + labour + transport + agglomeration\n                             |\n4. ADD NEW NETWORK LOGIC\n   freight corridor + planned node + supplier ecosystem + incentives\n                             |\n5. TEST REGIONAL EFFECT\n   jobs + local procurement + skill transfer versus enclave/backwash\n                             |\n6. QUALIFY STATUS\n   announcement, construction, operation and outcome need separate evidence\n                             |\n7. VERDICT\n   designed concentration becomes development only when logistics,\n   suppliers, skills, settlements, ecology and institutions work together."
+        }
+      ]
+    }
+  ],
+  "quality_reviews": {
+    "geography-01": {
+      "status": "passed-manual-review",
+      "checks": [
+        "Cosmic origin, stars, Solar System, motions, coordinates and interior remain distinct.",
+        "India's exact coordinates, dimensions, IST arithmetic and coastline revision are retained.",
+        "The central question is topic-specific and links planetary placement to locational meaning.",
+        "No repeated key-term filler, placeholder labels or truncated concepts remain.",
+        "The final panel supplies a map-safe, qualified Mains answer sequence."
+      ]
+    },
+    "geography-04": {
+      "status": "passed-manual-review",
+      "checks": [
+        "Exogenic process, weathering, erosion and mass movement occupy separate coherent panels.",
+        "Landslide geography and mitigation contain no groundwater material.",
+        "Groundwater architecture is separated from depletion, quality and subsidence.",
+        "Recharge and governance converge only in the final intervention and answer panel.",
+        "Joshimath is bounded as multi-causal subsidence and not used as a landslide synonym.",
+        "No ellipses, generic layer labels, repeated key-term lines or unrelated concept leakage remain."
+      ]
+    }
+  }
+}

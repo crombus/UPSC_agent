@@ -1,0 +1,1135 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-14",
+  "subject": "World-History",
+  "title": "SECOND WORLD WAR",
+  "short_route": "FROM TWO WARS TO → EARLY AXIS METHOD → BATTLE OF BRITAIN MECHANISM → GLOBAL TURNING-POINT SET → AXIS OVERREACH CHAIN → WHY THE AXIS LOST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-14-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "8112d35ec91bf03f4424b614d23ff73ca6a5d082c4e4ea956f137d68b387c62e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FROM TWO WARS TO ONE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM TWO WARS TO ONE",
+          "role": "primary"
+        },
+        {
+          "text": "JAPANESE EXPANSION IN ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPT 1939",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMAN WAR BEGINS IN EUROPE",
+          "role": "evidence"
+        },
+        {
+          "text": "22 JUNE 1941",
+          "role": "primary"
+        },
+        {
+          "text": "BARBAROSSA WIDENS EUROPEAN WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "7 DEC 1941",
+          "role": "comparison"
+        },
+        {
+          "text": "PEARL HARBOR FUSES THE CONFLICTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1931/1937 → Japanese expansion in Asia",
+        "SEPT 1939 → German war begins in Europe",
+        "22 JUNE 1941 → Barbarossa widens European war",
+        "7 DEC 1941 → Pearl Harbor fuses the conflicts",
+        "MUST REMEMBER: Axis expansion and appeasement precede Poland (1939)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1931/1937 → Japanese expansion in Asia",
+            "SEPT 1939 → German war begins in Europe",
+            "22 JUNE 1941 → Barbarossa widens European war"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "7 DEC 1941 → Pearl Harbor fuses the conflicts",
+            "MUST REMEMBER: Axis expansion and appeasement precede Poland (1939)",
+            "the widening sequence includes France (1940), Barbarossa and Pearl Harbor (1941), Midway, El Alamein and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Stalingrad, Allied advance, atomic bombing and surrender in 1945."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Axis expansion and appeasement precede Poland (1939); the widening sequence includes France (1940), Barbarossa and Pearl Harbor (1941), Midway, El Alamein and.",
+      "source_references": [
+        "Two wars become one global conflict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EARLY AXIS METHOD",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EARLY AXIS METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "TANKS, MOTORISED THRUSTS AND AIR SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFENCES BYPASSED BEFORE COORDINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN STATES FALL RAPIDLY",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATIONAL SPEED CANNOT SETTLE BRITAIN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BLITZKRIEG → tanks, motorised thrusts and air support",
+        "SURPRISE → defences bypassed before coordination",
+        "1940 → western states fall rapidly",
+        "LIMIT → operational speed cannot settle Britain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BLITZKRIEG → tanks, motorised thrusts and air support",
+            "SURPRISE → defences bypassed before coordination"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1940 → western states fall rapidly",
+            "LIMIT → operational speed cannot settle Britain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BLITZKRIEG → tanks, motorised thrusts and air support",
+            "SURPRISE → defences bypassed before coordination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLITZKRIEG → tanks, motorised thrusts and air support.",
+      "source_references": [
+        "Blitzkrieg and early Axis expansion",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BATTLE OF BRITAIN MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BATTLE OF BRITAIN MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "RAF + RADAR",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTACKS INTERCEPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMAN RANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "FIGHTER LIMITS CONSTRAIN OPERATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "LONDON SHIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE ON AIRFIELDS EASES",
+          "role": "comparison"
+        },
+        {
+          "text": "INVASION PREVENTED; BRITAIN REMAINS A BASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAF + RADAR → attacks intercepted",
+        "GERMAN RANGE → fighter limits constrain operations",
+        "LONDON SHIFT → pressure on airfields eases",
+        "RESULT → invasion prevented; Britain remains a base"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAF + RADAR → attacks intercepted",
+            "GERMAN RANGE → fighter limits constrain operations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LONDON SHIFT → pressure on airfields eases",
+            "RESULT → invasion prevented; Britain remains a base"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RAF + RADAR → attacks intercepted",
+            "GERMAN RANGE → fighter limits constrain operations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → invasion prevented; Britain remains a base.",
+      "source_references": [
+        "Britain survives in 1940",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GLOBAL TURNING-POINT SET",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GLOBAL TURNING-POINT SET",
+          "role": "primary"
+        },
+        {
+          "text": "JAPANESE CARRIER STRENGTH BROKEN",
+          "role": "outcome"
+        },
+        {
+          "text": "EL ALAMEIN",
+          "role": "comparison"
+        },
+        {
+          "text": "EGYPT AND SUEZ PROTECTED",
+          "role": "evidence"
+        },
+        {
+          "text": "SUSTAINED SOVIET ADVANCE BEGINS",
+          "role": "primary"
+        },
+        {
+          "text": "BRITAIN AND WESTERN OFFENSIVE SURVIVE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MIDWAY → Japanese carrier strength broken",
+        "EL ALAMEIN → Egypt and Suez protected",
+        "STALINGRAD → sustained Soviet advance begins",
+        "ATLANTIC → Britain and western offensive survive"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MIDWAY → Japanese carrier strength broken",
+          "STALINGRAD → sustained Soviet advance begins",
+          "MIDWAY → Japanese carrier strength broken"
+        ],
+        [
+          "EL ALAMEIN → Egypt and Suez protected",
+          "ATLANTIC → Britain and western offensive survive",
+          "EL ALAMEIN → Egypt and Suez protected"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MIDWAY → Japanese carrier strength broken",
+            "EL ALAMEIN → Egypt and Suez protected"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STALINGRAD → sustained Soviet advance begins",
+            "ATLANTIC → Britain and western offensive survive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MIDWAY → Japanese carrier strength broken",
+            "EL ALAMEIN → Egypt and Suez protected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STALINGRAD → sustained Soviet advance begins; ATLANTIC → Britain and western offensive survive.",
+      "source_references": [
+        "Midway and Pacific air-sea power",
+        "El Alamein and Stalingrad",
+        "The Atlantic lifeline",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AXIS OVERREACH CHAIN",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AXIS OVERREACH CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "BRITAIN SURVIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN WAR REMAINS OPEN",
+          "role": "comparison"
+        },
+        {
+          "text": "VAST EASTERN FRONT CREATED",
+          "role": "evidence"
+        },
+        {
+          "text": "PEARL HARBOR",
+          "role": "primary"
+        },
+        {
+          "text": "US RESOURCES ENTER",
+          "role": "outcome"
+        },
+        {
+          "text": "AXIS FIGHTS A COALITION IT CANNOT OUTPRODUCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BRITAIN SURVIVES → western war remains open",
+        "BARBAROSSA → vast eastern front created",
+        "PEARL HARBOR → US resources enter",
+        "RESULT → Axis fights a coalition it cannot outproduce"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRITAIN SURVIVES → western war remains open",
+            "BARBAROSSA → vast eastern front created"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PEARL HARBOR → US resources enter",
+            "RESULT → Axis fights a coalition it cannot outproduce"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRITAIN SURVIVES → western war remains open",
+            "BARBAROSSA → vast eastern front created"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → Axis fights a coalition it cannot outproduce.",
+      "source_references": [
+        "Barbarossa creates overreach",
+        "Pearl Harbor and global resource change",
+        "Cumulative Axis defeat",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WHY THE AXIS LOST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHY THE AXIS LOST",
+          "role": "primary"
+        },
+        {
+          "text": "TOO MANY FRONTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLIED COALITION ADVANTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLIED SUPERIORITY GROWS",
+          "role": "evidence"
+        },
+        {
+          "text": "BRUTALITY CREATES RESISTANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRATEGY → too many fronts",
+        "RESOURCES → Allied coalition advantage",
+        "SEA/AIR → Allied superiority grows",
+        "OCCUPATION → brutality creates resistance"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STRATEGY → too many fronts",
+          "SEA/AIR → Allied superiority grows",
+          "STRATEGY → too many fronts"
+        ],
+        [
+          "RESOURCES → Allied coalition advantage",
+          "OCCUPATION → brutality creates resistance",
+          "RESOURCES → Allied coalition advantage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRATEGY → too many fronts",
+            "RESOURCES → Allied coalition advantage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA/AIR → Allied superiority grows",
+            "OCCUPATION → brutality creates resistance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRATEGY → too many fronts",
+            "RESOURCES → Allied coalition advantage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEA/AIR → Allied superiority grows; OCCUPATION → brutality creates resistance.",
+      "source_references": [
+        "Cumulative Axis defeat",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "D-DAY IN COALITION STRATEGY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "D-DAY IN COALITION STRATEGY",
+          "role": "primary"
+        },
+        {
+          "text": "ATLANTIC CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "INVASION SUPPLY POSSIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "6 JUNE 1944",
+          "role": "evidence"
+        },
+        {
+          "text": "NORMANDY FRONT OPENS",
+          "role": "primary"
+        },
+        {
+          "text": "SOVIET ADVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY PRESSED FROM EAST",
+          "role": "comparison"
+        },
+        {
+          "text": "GENUINE TWO-FRONT COLLAPSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ATLANTIC CONTROL → invasion supply possible",
+        "6 JUNE 1944 → Normandy front opens",
+        "SOVIET ADVANCE → Germany pressed from east",
+        "RESULT → genuine two-front collapse"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ATLANTIC CONTROL → invasion supply possible",
+            "6 JUNE 1944 → Normandy front opens"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOVIET ADVANCE → Germany pressed from east",
+            "RESULT → genuine two-front collapse"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ATLANTIC CONTROL → invasion supply possible",
+            "6 JUNE 1944 → Normandy front opens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOVIET ADVANCE → Germany pressed from east; RESULT → genuine two-front collapse.",
+      "source_references": [
+        "The Atlantic lifeline",
+        "D-Day and two-front collapse",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HOLOCAUST BOUNDARY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HOLOCAUST BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "JEWISH VICTIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 5.7 MILLION IN LOWE'S ESTIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE PROJECT",
+          "role": "institution"
+        },
+        {
+          "text": "RACIAL POLICY USES OCCUPATION MACHINERY",
+          "role": "primary"
+        },
+        {
+          "text": "OTHER VICTIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME SEPARATELY",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER MERGE CATEGORIES INTO ONE TOTAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JEWISH VICTIMS → about 5.7 million in Lowe's estimate",
+        "STATE PROJECT → racial policy uses occupation machinery",
+        "OTHER VICTIMS → name separately",
+        "RULE → never merge categories into one total"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JEWISH VICTIMS → about 5.7 million in Lowe's estimate",
+            "STATE PROJECT → racial policy uses occupation machinery"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OTHER VICTIMS → name separately",
+            "RULE → never merge categories into one total"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JEWISH VICTIMS → about 5.7 million in Lowe's estimate",
+            "STATE PROJECT → racial policy uses occupation machinery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never merge categories into one total.",
+      "source_references": [
+        "Holocaust as wartime state project",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OCCUPIED-SOCIETY CHOICES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OCCUPIED-SOCIETY CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "ITALIAN PARTISANS EXECUTE MUSSOLINI",
+          "role": "outcome"
+        },
+        {
+          "text": "QUISLING AND NORWEGIAN LOCAL NAZIS",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE COLLABORATION",
+          "role": "institution"
+        },
+        {
+          "text": "VICHY FRANCE",
+          "role": "primary"
+        },
+        {
+          "text": "NO EXTRA NAMES OR QUANTIFIED CLAIMS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESISTANCE → Italian partisans execute Mussolini",
+        "COLLABORATION → Quisling and Norwegian local Nazis",
+        "STATE COLLABORATION → Vichy France",
+        "CAUTION → no extra names or quantified claims"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RESISTANCE → Italian partisans execute Mussolini",
+          "STATE COLLABORATION → Vichy France",
+          "RESISTANCE → Italian partisans execute Mussolini"
+        ],
+        [
+          "COLLABORATION → Quisling and Norwegian local Nazis",
+          "CAUTION → no extra names or quantified claims",
+          "COLLABORATION → Quisling and Norwegian local Nazis"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESISTANCE → Italian partisans execute Mussolini",
+            "COLLABORATION → Quisling and Norwegian local Nazis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE COLLABORATION → Vichy France",
+            "CAUTION → no extra names or quantified claims"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESISTANCE → Italian partisans execute Mussolini",
+            "COLLABORATION → Quisling and Norwegian local Nazis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → no extra names or quantified claims.",
+      "source_references": [
+        "Total war, resistance and collaboration",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "JAPAN'S SURRENDER CAUTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JAPAN'S SURRENDER CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "ATOMIC BOMBS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL SHOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "SOVIET ENTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "MANCHURIAN STRATEGIC COLLAPSE",
+          "role": "primary"
+        },
+        {
+          "text": "CUMULATIVE EXHAUSTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVE WEIGHT REMAINS DEBATED",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ATOMIC BOMBS → central shock",
+        "SOVIET ENTRY → Manchurian strategic collapse",
+        "BLOCKADE/BOMBING → cumulative exhaustion",
+        "VERDICT → relative weight remains debated",
+        "CLOSE DISTINCTION: European, Mediterranean, African, Atlantic and Asia-Pacific theatres were connected but not"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ATOMIC BOMBS → central shock",
+          "BLOCKADE/BOMBING → cumulative exhaustion",
+          "CLOSE DISTINCTION: European, Mediterranean, African, Atlantic and Asia-Pacific theatres were connected but not"
+        ],
+        [
+          "SOVIET ENTRY → Manchurian strategic collapse",
+          "VERDICT → relative weight remains debated",
+          "one battlefield, and genocide must remain analytically distinct from ordinary military chronology."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ATOMIC BOMBS → central shock",
+            "SOVIET ENTRY → Manchurian strategic collapse"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLOCKADE/BOMBING → cumulative exhaustion",
+            "VERDICT → relative weight remains debated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: European, Mediterranean, African, Atlantic and Asia-Pacific theatres were connected but not",
+            "one battlefield, and genocide must remain analytically distinct from ordinary military chronology."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: European, Mediterranean, African, Atlantic and Asia-Pacific theatres were connected but not one battlefield, and genocide must remain analytically distinct from ordinary military chronology.",
+      "source_references": [
+        "The contested end in 1945",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "POSTWAR STRUCTURAL SHIFT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POSTWAR STRUCTURAL SHIFT",
+          "role": "primary"
+        },
+        {
+          "text": "EUROPE WEAKENS",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPERIAL CAPACITY CONTRACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPERPOWERS DOMINATE",
+          "role": "evidence"
+        },
+        {
+          "text": "NUCLEAR AGE",
+          "role": "primary"
+        },
+        {
+          "text": "DETERRENCE CHANGES",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITED NATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW COLLECTIVE INSTITUTION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "EUROPE WEAKENS → imperial capacity contracts",
+        "USA/USSR → superpowers dominate",
+        "NUCLEAR AGE → deterrence changes",
+        "UNITED NATIONS → new collective institution",
+        "EVIDENCE LIMIT: Leadership and ideology mattered within industrial capacity, logistics, alliance resources, resistance and colonial"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EUROPE WEAKENS → imperial capacity contracts",
+            "USA/USSR → superpowers dominate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NUCLEAR AGE → deterrence changes",
+            "UNITED NATIONS → new collective institution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Leadership and ideology mattered within industrial capacity, logistics, alliance resources, resistance and colonial manpower",
+            "Allied victory was neither automatic nor explainable by one battle."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Leadership and ideology mattered within industrial capacity, logistics, alliance resources, resistance and colonial manpower; Allied victory was neither automatic nor explainable by one battle.",
+      "source_references": [
+        "Society, superpowers and institutions",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SECOND WORLD WAR ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SECOND WORLD WAR ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ASIAN AND EUROPEAN WARS FUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPANSION, OVERREACH AND TURNING POINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "TOTAL WAR, GENOCIDE AND OCCUPATION CHOICES",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPERPOWERS, UN AND DECOLONISATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ORIGINS → Asian and European wars fuse",
+        "COURSE → expansion, overreach and turning points",
+        "SOCIETY → total war, genocide and occupation choices",
+        "AFTERMATH → superpowers, UN and decolonisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORIGINS → Asian and European wars fuse",
+            "COURSE → expansion, overreach and turning points"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOCIETY → total war, genocide and occupation choices",
+            "AFTERMATH → superpowers, UN and decolonisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORIGINS → Asian and European wars fuse",
+            "COURSE → expansion, overreach and turning points"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOCIETY → total war, genocide and occupation choices.",
+      "source_references": [
+        "Decolonisation and final verdict",
+        "upsc-ai-kit\\knowledge\\World-History\\basic\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\World-History\\advanced\\14_Second-World-War.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g2\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g3\\world-history-14_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World\\WH\\learning-sessions\\wh-14\\g4\\world-history-14_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BRITAIN'S CONVOYS HAD TO SURVIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "U-BOATS HAD TO BE BEATEN",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDITERRANEAN AND NORTH AFRICAN CAMPAIGNS DEPENDED ON SUPPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "D-DAY REQUIRED SEA-BORNE MASS MOVEMENT.",
+          "role": "primary"
+        },
+        {
+          "text": "BATTLE OF BRITAIN BLOCKED INVASION",
+          "role": "outcome"
+        },
+        {
+          "text": "CARRIER AIRCRAFT DOMINATED THE PACIFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLIED AIRCRAFT CRIPPLED U-BOATS AND SUPPLY SHIPPING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Britain's convoys had to survive;",
+            "U-boats had to be beaten;",
+            "Mediterranean and North African campaigns depended on supply;",
+            "D-Day required sea-borne mass movement."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Battle of Britain blocked invasion;",
+            "carrier aircraft dominated the Pacific;",
+            "Allied aircraft crippled U-boats and supply shipping;",
+            "strategic bombing hit oil, transport and armaments."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Lowe treats Battle of Britain, Midway, El Alamein and Stalingrad as core turning points.",
+            "The Battle of the Atlantic was as strategically vital as the better-known land battles.",
+            "Allied bombing becomes analytically stronger after 1944 than before.",
+            "Holocaust interpretation in Lowe is explicitly historiographical."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

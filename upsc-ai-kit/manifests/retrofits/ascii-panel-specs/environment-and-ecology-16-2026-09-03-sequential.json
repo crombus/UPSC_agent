@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Environment and Ecology learner-v2 Topic 16",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-16",
+      "display_title": "Environmental Impact Assessment and NGT",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-16_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Prior-clearance firewall",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROJECT CONCEPT -> test EIA schedule applicability",
+            "PRIOR EC REQUIRED -> appraisal before prohibited start",
+            "CONDITIONAL GRANT OR REJECTION -> competent authority decision",
+            "CONSTRUCTION OR OPERATION -> only under applicable approvals",
+            "RULE -> later paperwork cannot recreate prior appraisal"
+          ],
+          "source_references": [
+            "Prior EC boundary",
+            "Schedule applicability"
+          ]
+        },
+        {
+          "title": "Approval matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ENVIRONMENTAL CLEARANCE -> project impact appraisal",
+            "CTE OR CTO -> pollution-control consent",
+            "FOREST CLEARANCE -> forest-law decision",
+            "WILDLIFE OR CRZ APPROVAL -> separate legal interest",
+            "NO SUBSTITUTION -> each approval retains its own test"
+          ],
+          "source_references": [
+            "EC and consent boundary",
+            "Multiple-clearance boundary"
+          ]
+        },
+        {
+          "title": "Classification gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PROJECT OR ACTIVITY -> read current schedule",
+            "THRESHOLD AND LOCATION -> apply notified criteria",
+            "CATEGORY A OR B -> competent appraisal level",
+            "B1 OR B2 -> assessment route only where supported",
+            "NO GUESS -> title or size alone is insufficient"
+          ],
+          "source_references": [
+            "Schedule applicability",
+            "Category A and B boundary",
+            "B1 and B2 boundary"
+          ]
+        },
+        {
+          "title": "Four-process distinction",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SCREENING -> determine applicable route where required",
+            "SCOPING -> set significant issues and terms of reference",
+            "PUBLIC CONSULTATION -> receive affected and stakeholder concerns",
+            "APPRAISAL -> expert review of the full record",
+            "DECISION -> competent authority grants, conditions or rejects"
+          ],
+          "source_references": [
+            "Screening boundary",
+            "Scoping and terms of reference",
+            "Public-consultation boundary",
+            "Appraisal and decision"
+          ]
+        },
+        {
+          "title": "EIA evidence chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BASELINE -> existing environmental and social condition",
+            "ALTERNATIVES -> site, technology and no-project comparison",
+            "IMPACT PREDICTION -> magnitude, duration and uncertainty",
+            "MITIGATION -> avoid, minimise, restore or compensate",
+            "EMP AND MONITORING -> implementation and verification"
+          ],
+          "source_references": [
+            "Assessment evidence"
+          ]
+        },
+        {
+          "title": "Consultation quality gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "APPLICABILITY -> read current notification",
+            "NOTICE AND ACCESS -> affected people can inspect material",
+            "HEARING OR WRITTEN RESPONSE -> collect concerns",
+            "APPRAISAL RESPONSE -> show how issues were considered",
+            "EXEMPTION CLAIM -> cite exact provision or do not assert it"
+          ],
+          "source_references": [
+            "Public-consultation boundary"
+          ]
+        },
+        {
+          "title": "Recommendation-decision ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "PROJECT RECORD -> EIA, EMP and consultation material",
+            "EXPERT COMMITTEE -> appraisal and recommendation",
+            "COMPETENT AUTHORITY -> final reasoned order",
+            "CONDITIONS -> enforceable project obligations",
+            "MONITORING -> evidence after grant"
+          ],
+          "source_references": [
+            "Appraisal and decision",
+            "Post-clearance compliance"
+          ]
+        },
+        {
+          "title": "Grant-to-outcome chain",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "CLEARANCE GRANTED -> legal decision",
+            "CONDITION LISTED -> required safeguard",
+            "ACTION IMPLEMENTED -> physical compliance",
+            "MONITORING VERIFIED -> evidence stage",
+            "OUTCOME -> environmental result, separately assessed"
+          ],
+          "source_references": [
+            "Post-clearance compliance"
+          ]
+        },
+        {
+          "title": "NGT identity map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NGT -> specialised statutory tribunal",
+            "CPCB OR SPCB -> pollution-control regulator",
+            "EAC OR SEAC -> appraisal committee",
+            "CLEARANCE AUTHORITY -> administrative decision-maker",
+            "CONSTITUTIONAL COURT -> writ and appellate constitutional role"
+          ],
+          "source_references": [
+            "NGT statutory identity",
+            "Constitutional-court boundary"
+          ]
+        },
+        {
+          "title": "Jurisdiction fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SUBSTANTIAL ENVIRONMENTAL QUESTION -> test Schedule I boundary",
+            "ORIGINAL CASE -> civil environmental dispute under the Act",
+            "APPEAL -> specified order and appeal provision",
+            "WRIT ROUTE -> separate constitutional review",
+            "NO LABEL-BASED JURISDICTION -> statute controls"
+          ],
+          "source_references": [
+            "Original-jurisdiction boundary",
+            "Appellate-jurisdiction boundary",
+            "Constitutional-court boundary"
+          ]
+        },
+        {
+          "title": "Remedy and limitation matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RELIEF OR COMPENSATION -> person or damage claim",
+            "PROPERTY RESTITUTION -> restore affected property",
+            "ENVIRONMENT RESTITUTION -> repair environmental harm",
+            "LIMITATION -> remedy-specific clock and extension",
+            "PRINCIPLES -> apply within jurisdiction and evidence"
+          ],
+          "source_references": [
+            "Remedy boundary",
+            "Principles and adjudication",
+            "Limitation discipline"
+          ]
+        },
+        {
+          "title": "Instrument and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PREVENT -> applicability, category, study and consultation",
+            "DECIDE -> appraisal, reasoned order and distinct approvals",
+            "MONITOR -> conditions, compliance and environmental outcome",
+            "REMEDY -> NGT jurisdiction, appeal, relief and limitation",
+            "AUDIT -> draft, notification, memorandum, judgment and PYQ status"
+          ],
+          "source_references": [
+            "Instrument and evidence boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

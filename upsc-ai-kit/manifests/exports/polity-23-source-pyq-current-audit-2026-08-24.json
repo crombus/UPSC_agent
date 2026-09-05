@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-23",
+  "title": "Panchayati Raj",
+  "gate": "A",
+  "started_at": "2026-08-24T19:34:57+05:30",
+  "completed_at": "2026-08-24T19:35:29+05:30",
+  "status": "passed",
+  "source_order": [
+    {
+      "order": 1,
+      "kind": "markdown",
+      "result": "Basic, complete canonical, Advanced and cross-topic owners reconciled."
+    },
+    {
+      "order": 2,
+      "kind": "local_ocr",
+      "result": "Two local Polity books and available official local papers/keys checked."
+    },
+    {
+      "order": 3,
+      "kind": "live_authoritative",
+      "sources": [
+        {
+          "url": "https://panchayat.gov.in/",
+          "status_code": 200,
+          "final_url": "https://panchayat.gov.in/",
+          "title": "Homepage | पंचायती राज मंत्रालय | सशक्त पंचायत सतत् विकास | भारत",
+          "evidence_excerpt": "Homepage | पंचायती राज मंत्रालय | सशक्त पंचायत सतत् विकास | भारत English Accessibility Tools Accessibility Tools Color Contrast उच्च कंट्रास्ट सामान्य कंट्रास्ट Highlight Links Invert Saturation Text Size फ़ॉन्ट आकार बढ़ाएं फ़ॉन्ट का आकार घटाएं सामान्य फ़ॉन्ट Text Spacing Line Height भारत सरकार Government of India पंचायती राज मंत्रालय Ministry of Panchayati Raj खोजें खोजें Menu Toggle और मुख्य पृष्ठ हमारे बारे में कौन क्या है पंचायती राज मंत्रालय के बारे में नागरिक / ग्राहक चार्टर संगठन चार्ट नोडल लोक शिकायत अधिकारी शी-बॉक्स पंचायत वित्त केंद्रीय वित्त आयोग (सीएफसी) ग्रामीण स्थानीय निकायों (आर",
+          "accessed_at": "2026-08-24T19:34:58+05:30"
+        },
+        {
+          "url": "https://egramswaraj.gov.in/",
+          "status_code": 200,
+          "final_url": "https://egramswaraj.gov.in/",
+          "title": "eGramSwaraj-222-3",
+          "evidence_excerpt": "eGramSwaraj-222-3 eGramSwaraj 225-1 Government of India | Ministry of Panchayati Raj Screen Reader Access Home Login eGramSwaraj is a comprehensive digital governance platform developed to strengthen e-Governance in Panchayati Raj Institutions (PRIs) across the country. The platform facilitates decentralized and participatory planning, seamless progress reporting, and work-based accounting to ensure greater transparency, accountability, and efficiency in Panchayat functioning. It serves as an integrated system for planning, implementation, monitoring, and financial management of Panchayat acti",
+          "accessed_at": "2026-08-24T19:35:00+05:30"
+        },
+        {
+          "url": "https://auditonline.gov.in/",
+          "status_code": null,
+          "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='auditonline.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='auditonline.gov.in', port=443) at 0x17eb0049e10>, 'Connection to auditonline.gov.in timed out. (connect timeout=30)'))\"))",
+          "accessed_at": "2026-08-24T19:35:22+05:30"
+        },
+        {
+          "url": "https://svamitva.nic.in/svamitva/",
+          "status_code": null,
+          "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='svamitva.nic.in', port=443): Max retries exceeded with url: /svamitva/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))\"))",
+          "accessed_at": "2026-08-24T19:35:23+05:30"
+        },
+        {
+          "url": "https://fincomindia.nic.in/",
+          "status_code": 200,
+          "final_url": "https://fincomindia.nic.in/",
+          "title": ":: Finance Commission, India ::",
+          "evidence_excerpt": ":: Finance Commission, India :: भारत सरकार GOVERNMENT OF INDIA वित्त मत्रांलय Ministry of Finance SIXTEENTH FINANCE COMMISSION OF INDIA SIXTEENTH FINANCE COMMISSION OF INDIA Home About Us About Finance Commission Constitutional Provisions Finance Commission Act Finance Commission Rules Sixteenth Finance Commission Composition Notifications & Media Gallery 16 th Finance Commission Report Finance Commission Repository Related Links Sixteenth Finance Commission Report tabled in Parliament Dr. Arvind Panagariya Chairman of the 16th Finance Commission of India Arvind Panagariya is Professor of Econ",
+          "accessed_at": "2026-08-24T19:35:29+05:30"
+        }
+      ],
+      "result": "The Ministry of Panchayati Raj, eGramSwaraj, AuditOnline, SVAMITVA and Finance Commission portals were rechecked on 24 August 2026. The Devolution Index 2024 and 2026-31 local-body grant period are dated anchors; no changing dashboard total is frozen."
+    },
+    {
+      "order": 4,
+      "kind": "qdrant",
+      "result": "Not used."
+    }
+  ],
+  "topic_specific_completeness": true,
+  "pyq_audit": {
+    "verified_or_direct_count": 2,
+    "supporting_route_count": 2,
+    "total_routed_count": 4,
+    "status": "Exact wording is retained where held; neutral routed wording and doctrinal solutions are labelled when official keys/models are unavailable."
+  },
+  "current_affairs_audit": {
+    "control_date": "2026-08-24",
+    "fact": "The Ministry of Panchayati Raj, eGramSwaraj, AuditOnline, SVAMITVA and Finance Commission portals were rechecked on 24 August 2026. The Devolution Index 2024 and 2026-31 local-body grant period are dated anchors; no changing dashboard total is frozen.",
+    "caveat": "Part IX constitutionalises institutions, elections and inclusion but leaves substantive devolution mainly to State law. PESA applies to Fifth Schedule Scheduled Areas with statutory modifications; digital uploads do not prove Gram Sabha power or actual three-F devolution."
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md": "3b39b5be1efd320f3e00a5acc4e3013aaeb101b9f531299009f359da788e0032",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\23_Panchayati-Raj.md": "623a842c58db606265c259fb27c1d81b542f0305b29c11756d20cce861cb1330",
+    "upsc-ai-kit\\knowledge\\Polity\\23_Panchayati-Raj_Complete-Topic-Package.md": "074456b34716f17ca3a53811cc07fe93c8e1b64fc862d458e520e53647dd0158",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Municipalities.md": "5d398deba4f5cbff91b0aea3acf84d7ff0e5721cb226d1dad771e3b644e45947",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md": "4937405f71cc5a7943a49b5e35e85ff1f0fd861f0813e18e3cb98030bef06550",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md": "15d03ad0172bfd88243efaed2a7246d82d7efd7152acab478069b089199466c6",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md": "c66815bf8b63bc7e21ea8066fcfeeac443b7f533462252894d19bcf26f04b5be",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md": "7d6af70b6a6193d46a9158f3da2c9931c1b23f0f7072c129d9ca82bc969b81f4",
+    "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md": "87730482f6b60b73fe04ae937e61f1ff04fbfc9ec3bfbfa7bed1ae998b15d0a6",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33"
+  },
+  "topic_completeness_contract": [
+    "democratic-decentralisation history, committees and 73rd Amendment",
+    "Part IX Articles 243-243O, Eleventh Schedule, Gram Sabha and tiers",
+    "elections, reservations, tenure, disqualification, SEC and SFC",
+    "Article 243G/H devolution, 29 subjects, finance, functionaries and capacity",
+    "PESA, Scheduled-Area boundary, planning, accountability, cases and comparison"
+  ],
+  "topic_completeness_status": "passed",
+  "case_year_sources": [
+    {
+      "case_id": "kishansing-tomar",
+      "canonical_label": "Kishansing Tomar (2006)",
+      "decision_year": 2006,
+      "source_title": "Kishansing Tomar v. Municipal Corporation of Ahmedabad, Supreme Court judgment",
+      "source_url": "https://indiankanoon.org/search/?formInput=Kishansing+Tomar+Municipal+Corporation+Ahmedabad+2006"
+    },
+    {
+      "case_id": "k-krishna-murthy",
+      "canonical_label": "K. Krishna Murthy (2010)",
+      "decision_year": 2010,
+      "source_title": "K. Krishna Murthy v. Union of India, judgment dated 11 May 2010",
+      "source_url": "https://indiankanoon.org/search/?formInput=K+Krishna+Murthy+Union+of+India+11+May+2010"
+    },
+    {
+      "case_id": "vikas-gawali",
+      "canonical_label": "Vikas Kishanrao Gawali (2021)",
+      "decision_year": 2021,
+      "source_title": "Vikas Kishanrao Gawali v. State of Maharashtra, judgment dated 4 March 2021",
+      "source_url": "https://indiankanoon.org/search/?formInput=Vikas+Kishanrao+Gawali+State+of+Maharashtra+4+March+2021"
+    },
+    {
+      "case_id": "fouziya-imtiaz-shaikh",
+      "canonical_label": "State of Goa v. Fouziya Imtiaz Shaikh (2021)",
+      "decision_year": 2021,
+      "source_title": "State of Goa v. Fouziya Imtiaz Shaikh, judgment dated 12 March 2021",
+      "source_url": "https://indiankanoon.org/search/?formInput=State+of+Goa+Fouziya+Imtiaz+Shaikh+12+March+2021"
+    }
+  ],
+  "current_status_boundary": {
+    "control_date": "2026-08-24",
+    "settled_law_only": true,
+    "pending_or_proposed_items_are_qualified": true,
+    "note": "Part IX constitutionalises institutions, elections and inclusion but leaves substantive devolution mainly to State law. PESA applies to Fifth Schedule Scheduled Areas with statutory modifications; digital uploads do not prove Gram Sabha power or actual three-F devolution."
+  }
+}

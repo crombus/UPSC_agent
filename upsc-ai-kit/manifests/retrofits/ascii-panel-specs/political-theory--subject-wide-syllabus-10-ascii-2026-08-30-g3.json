@@ -1,0 +1,480 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-08-30",
+  "scope": "Political Theory subject-wide syllabus topic 10",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-10",
+      "title": "State, Civil Society, Nation and Internationalism",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Complete-Learning-Session_2026-08-30.md",
+      "source_record": "political-theory-10:learner-v2:g3",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Concept Map and State Foundations",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Concept Map and State Foundations",
+            "  [1] The chapter begins by showing why \"state\" remains central to political theory",
+            "      despite behaviouralist criticism. (PDF pp.147-148)",
+            "        |",
+            "        v",
+            "  [2] Modern analysis requires clear distinctions: state is not the same as government,",
+            "      society, nation or civil society. (PDF pp.153-157)",
+            "        |",
+            "        v",
+            "  [3] Weber's sociological definition of the state as a claimant to the monopoly of",
+            "      legitimate physical force remains a core modern anchor. (PDF p.148)",
+            "        |",
+            "        v",
+            "  [4] Nationalism and internationalism are treated as rival ways of organizing loyalty and",
+            "      political order around or beyond the nation-state. (PDF pp.164-167)",
+            "        |",
+            "        v",
+            "  [5] In UPSC, this topic prevents common confusions like treating NGOs as the whole of",
+            "      civil society or equating nation with state.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Concept Map and State Foundations is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "State Theories and Institutional Boundaries",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "State Theories and Institutional Boundaries",
+            "  [1] Gauba first defends the continuing usefulness of the concept of the state against",
+            "      behaviouralist objections. (PDF pp.147-148)",
+            "        |",
+            "        v",
+            "  [2] He then defines the state through Weber and related modern formulations, and breaks",
+            "      it into four core elements: population, territory, government and sovereignty. (PDF",
+            "      pp.148-152)",
+            "        |",
+            "        v",
+            "  [3] Next, he separates state from society, civil society and government in order to",
+            "      resist authoritarian confusion. (PDF pp.153-157)",
+            "        |",
+            "        v",
+            "  [4] He then distinguishes nation from nationality and explains the rise of the modern",
+            "      nation-state and the principle of national self-determination. (PDF pp.157-163)",
+            "        |",
+            "        v",
+            "  [5] Finally, he examines nationalism, internationalism, pressures on the nation-state,",
+            "      and contemporary civil-society debates. (PDF pp.164-176)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> State Theories and Institutional Boundaries is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "State, Government, Society, Nation and Diversity",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "State, Government, Society, Nation and Diversity",
+            "  [1] Government may rise and fall without destroying the state, but suppression of a",
+            "      people's own legitimate government can destroy or suspend the state's identity. (PDF",
+            "      pp.151-152, 156-157)",
+            "        |",
+            "        v",
+            "  [2] Society can exist without a state, while the state depends on society for its",
+            "      existence. (PDF pp.153-154)",
+            "        |",
+            "        v",
+            "  [3] Nation is not the same as nationality; nationhood can include multiple nationalities",
+            "      within one state. (PDF pp.157-158)",
+            "        |",
+            "        v",
+            "  [4] Kymlicka's three minority-rights categories in the supplied synopsis are",
+            "      self-government, poly-ethnic and special representation rights (Socio-Political",
+            "      Philosophy, PDF pp.150-151).",
+            "        |",
+            "        v",
+            "  [5] Indian application: secularism asks how the state treats religious power;",
+            "      multiculturalism asks how common citizenship accommodates cultural difference. Both",
+            "      remain subject to liberty, equality, dignity and protection of vulnerable members",
+            "      within groups.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> State, Government, Society, Nation and Diversity is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Weber, MacIver and Laski",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Weber, MacIver and Laski",
+            "  [1] Max Weber: the modern state is defined sociologically by its successful claim to the",
+            "      monopoly of legitimate physical force within a territory. (PDF p.148)",
+            "        |",
+            "        v",
+            "  [2] MacIver: the state embraces the whole people in a territory and acts through",
+            "      government as the organ that speaks with the voice of law. (PDF pp.149, 156)",
+            "        |",
+            "        v",
+            "  [3] Laski (correction — not a monist): Gauba's page notes only that residence brings",
+            "      some obligation to the state (PDF p.149), but Laski's own, better-known position is",
+            "      the opposite of state monism: Laski is UPSC's standard pluralist critic of the claim",
+            "      that the state holds a single, morally supreme, all-encompassing sovereignty.",
+            "        |",
+            "        v",
+            "  [4] Machiavelli: Gauba traces the modern concept of the state to Machiavelli's focus on",
+            "      the power having authority over men. (PDF p.148)",
+            "        |",
+            "        v",
+            "  [5] Hegel: distinguished civil society as the sphere of self-interest from the state as",
+            "      a sphere of universality; he also idealized the state. (PDF pp.154, 156-157)",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Weber, MacIver and Laski is best presented through its central claim, causal",
+            "             logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Civil-Society Genealogies and Variants",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Civil-Society Genealogies and Variants",
+            "  [1] Core anchors: state and elements (PDF pp.148-152), state/society/civil",
+            "      society/government (PDF pp.153-157), nation and nation-state (PDF pp.157-163),",
+            "      nationalism/internationalism and nation-state pressures (PDF pp.164-176).",
+            "        |",
+            "        v",
+            "  [2] 2023: Explain secularism as acceptance rather than rejection of religion; critically",
+            "      examine challenges of a multicultural society with reference to India.",
+            "        |",
+            "        v",
+            "  [3] Distinguish state from society and government to avoid authoritarian confusion. (PDF",
+            "      pp.153-157)",
+            "        |",
+            "        v",
+            "  [4] Direct supplementary source: Socio-Political Philosophy, PDF pp.144-159, for",
+            "      Western/Indian secularism, descriptive/normative multiculturalism, minority rights,",
+            "      variants and objections.",
+            "        |",
+            "        v",
+            "  [5] PYQ trap: never answer these as simple slogans. Define the paired concepts, state",
+            "      what is necessary but insufficient, test internal domination, then apply the Indian",
+            "      principled-distance frame.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Civil-Society Genealogies and Variants is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Putnam and Social Capital",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Putnam and Social Capital",
+            "  [1] Claim: dense networks of civic associational life generate \"social capital\" — norms",
+            "      of reciprocity and trust — which make collective action easier and improve the",
+            "      actual performance of democratic institutions.",
+            "        |",
+            "        v",
+            "  [2] Limit: critics note social capital can also be exclusionary/bonding (strengthening",
+            "      in-group ties at the cost of out-groups) rather than bridging across groups, and",
+            "      correlation between associational density and good governance does not settle the",
+            "      direction of causation.",
+            "        |",
+            "        v",
+            "  [3] Gauba's chapter covers Hegelian, Marxian, Gramscian and Tocquevillian civil society",
+            "      directly (PDF pp.154-155, 173-176); Putnam, Cohen-Arato and Marcuse's own name are",
+            "      book-external extensions used here with caution, since the earlier \"contemporary",
+            "      democratic\" row already gestures at this literature without naming it.",
+            "        |",
+            "        v",
+            "  [4] Evidence: Putnam's comparative study of Italian regional governments found regions",
+            "      with denser horizontal associational life (choral societies, football clubs,",
+            "      cooperatives) had more effective, responsive regional government than regions with",
+            "      weaker associational traditions.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Putnam and Social Capital is best presented through its central claim, causal",
+            "             logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Cohen-Arato and the Third Sphere",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Cohen-Arato and the Third Sphere",
+            "  [1] Jean Cohen and Andrew Arato — claim: civil society is a distinct third sphere of",
+            "      social life — associations, public sphere, social movements and culture —",
+            "      analytically separate from both the state and the economy, and it needs mediating",
+            "      institutions (\"political society\" — parties, parliaments; \"economic society\" —",
+            "      regulated markets, trade unions) to translate its demands into state and market",
+            "      outcomes.",
+            "        |",
+            "        v",
+            "  [2] Jean Cohen and Andrew Arato — evidence: modern democratic theory's difficulty in",
+            "      fitting social movements (feminist, environmental, human-rights) into either a pure",
+            "      state-power model or a pure market model motivated this three-sphere reconstruction.",
+            "        |",
+            "        v",
+            "  [3] Civil-society variants including Hegelian, Marxian, Gramscian, Tocquevillian, Putnam",
+            "      (social capital) and Cohen-Arato (three-sphere model), each with",
+            "      claim→evidence→significance→limit.",
+            "        |",
+            "        v",
+            "  [4] Jean Cohen and Andrew Arato — significance: restores analytical precision against",
+            "      the reduction of \"civil society\" to a policy buzzword for NGOs alone, and explains",
+            "      how associational/movement politics reaches formal power without collapsing civil",
+            "      society into political society.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Cohen-Arato and the Third Sphere is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Marcuse's One-Dimensional Challenge",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Marcuse's One-Dimensional Challenge",
+            "  [1] Claim (critique): in One-Dimensional Man (1964), Marcuse argues advanced industrial",
+            "      society (capitalist or state-socialist) absorbs and neutralises potential opposition",
+            "      by satisfying manufactured consumer/material needs — a process he calls \"repressive",
+            "      desublimation\" — producing a \"one-dimensional\" society where genuine critical",
+            "      opposition is difficult to sustain; the same base \"civil society is swallowed\" logic",
+            "      appears in the advanced companion's Marcuse note that under capitalism civil society",
+            "      can eclipse the state, and under communism the state can eclipse civil society, with",
+            "      freedom needing independence of both.",
+            "        |",
+            "        v",
+            "  [2] Evidence: mass-consumption culture and standardised media are cited as mechanisms",
+            "      that channel dissatisfaction into consumption rather than political challenge.",
+            "        |",
+            "        v",
+            "  [3] Counterpoint/limit: critics reply that Marcuse's thesis underestimates civil",
+            "      society's actual mobilising capacity — the same decades produced the civil-rights,",
+            "      feminist, environmental and anti-war movements, and later \"new social movements,\"",
+            "      which suggests advanced industrial society is not fully \"closed\" to opposition;",
+            "      Cohen-Arato's and Putnam's own frameworks are partly a reply to this pessimism,",
+            "      showing associational life can still generate autonomous, system-challenging action.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Marcuse's One-Dimensional Challenge is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Objections and Cautious Indian Application",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Objections and Cautious Indian Application",
+            "  [1] Post-independence linguistic reorganisation of Indian states is a widely known",
+            "      illustration of nation-building accommodating internal diversity within one state",
+            "      rather than one-nation-one-state congruence — use as a general, well-known pattern;",
+            "      route exact years, commission names or state lists to the Polity/History modules",
+            "      rather than asserting them here.",
+            "        |",
+            "        v",
+            "  [2] India's associational and civil-society landscape — self-help groups, the Right to",
+            "      Information movement, and grassroots environmental movements — is a standard",
+            "      illustrative anchor for Putnam-style social capital and Cohen-Arato-style civil",
+            "      society engaging the state from outside direct state control; cite as a type of",
+            "      example, not with unverified statistics, dates or scheme details.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Objections and Cautious Indian Application is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Directive Decoding and Answer Architecture",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Directive Decoding and Answer Architecture",
+            "  [1] \"Discuss civil society as a check on/site of domination by the state\" →",
+            "      critique-directive: requires both the critical variant (Gramsci/Marcuse) and the",
+            "      democratic-renewal variant (Tocqueville/Putnam/Cohen-Arato) — a one-sided answer",
+            "      loses marks.",
+            "        |",
+            "        v",
+            "  [2] \"Distinguish state, government, society and nation\" → strict distinguishing",
+            "      directive: four separate definitions with one marker each, not a single blended",
+            "      paragraph.",
+            "        |",
+            "        v",
+            "  [3] Thesis: the state is analytically distinct from government, society and nation, and",
+            "      civil society is the associational sphere that both checks and can be captured by",
+            "      state power.",
+            "        |",
+            "        v",
+            "  [4] Two civil-society variants (e.g. Gramscian domination-reproduction and",
+            "      Putnam/Cohen-Arato democratic-renewal) with claim→evidence→significance→limit each.",
+            "        |",
+            "        v",
+            "  [5] Cautious Indian application on nation-building/civil society, without owning legal",
+            "      or historical specifics.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Directive Decoding and Answer Architecture is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] PYQ trap: never answer these as simple slogans. Define the paired concepts, state",
+            "      what is necessary but insufficient, test internal domination, then apply the Indian",
+            "      principled-distance frame.",
+            "        |",
+            "        v",
+            "  [2] State: A human community in a territory, governed by political authorities and armed",
+            "      with sovereignty and legitimate coercive power.",
+            "        |",
+            "        v",
+            "  [3] Government: The agency or machinery through which common policies are made and",
+            "      common affairs regulated.",
+            "        |",
+            "        v",
+            "  [4] Society: The wider association of human beings fulfilling the whole range of life's",
+            "      needs, of which the state is only one organized part.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Why secularism is not rejection of religion. Secularism governs the STATE's relation",
+            "      to religion, not private belief; it protects freedom of conscience, INCLUDING",
+            "      religious conscience (H4). The \"secularism is anti-religious\" charge is answered by",
+            "      this: the doctrine protects, not rejects, religious practice, subject to equal",
+            "      citizenship.",
+            "        |",
+            "        v",
+            "  [2] The three decoupling cases (the answer). (1) A religiously HOMOGENEOUS society can",
+            "      still need secular protection for dissenters and non-believers -- secularism without",
+            "      pluralism; (2) a PLURAL society can remain NON-secular if one religion enjoys",
+            "      political supremacy -- pluralism without secularism; (3) secularism CONVERTS",
+            "      coexistence into norms of conscience and equal citizenship. These show the two are",
+            "      not identical and not mutually entailing.",
+            "        |",
+            "        v",
+            "  [3] Exposition. Descriptively, multiculturalism states the fact of plural communities;",
+            "      normatively, it claims recognition and accommodation are owed for equal membership",
+            "      (H6). The institutional aspect asks through which forms, the critical aspect asks",
+            "      when recognition protects domination within groups (canonical 3.2).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

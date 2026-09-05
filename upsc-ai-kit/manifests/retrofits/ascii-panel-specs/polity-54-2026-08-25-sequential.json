@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "polity-54-ascii-panels-deep-review-2026-08-29",
+  "created_on": "2026-08-29",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-review successor; twelve complete Core panels plus generated subordinate enrichment.",
+  "constraints": {
+    "panels_per_topic": "12",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-54": {
+      "title": "Lok Adalats and Other Courts",
+      "source_record": "polity-54:learner-v2:successor-pending",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md",
+      "quality_review": "Manual doctrinal review against constitutional text, cases, PYQs and owner boundaries.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Article 39A and the access-to-justice chain",
+          "structural_type": "deep-review-01",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "ART 39A -> equal-opportunity justice + free legal aid.\nHussainara Khatoon (1979) -> Art 21 fair procedure, legal assistance and speedy justice.\n1987 ACT -> institutions + eligibility + Lok Adalats.\n\nVERDICT: Directive Principle becomes operational through law and remedies."
+        },
+        {
+          "title": "Legal-services authority ladder",
+          "structural_type": "deep-review-02",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "NALSA -> national policy and schemes.\nSUPREME COURT COMMITTEE -> Supreme Court matters.\nSLSA + HIGH COURT COMMITTEE -> State/High Court delivery.\nDLSA + TLSC -> district/taluk implementation.\n\nTRAP: statutory SLSA, not SALSA; bodies are not constitutional courts."
+        },
+        {
+          "title": "Section 12 eligibility and quality gate",
+          "structural_type": "deep-review-03",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "STATUS ROUTES -> SC/ST, women/children, disability, custody, workmen and listed vulnerability.\nINCOME ROUTE -> prescribed ceiling.\nSECTION 13 -> prima facie case.\n\nQUALITY TEST: early advice + competent representation + accessible delivery."
+        },
+        {
+          "title": "Ordinary Lok Adalat jurisdiction",
+          "structural_type": "deep-review-04",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "PENDING CASE or PRE-LITIGATION DISPUTE within court jurisdiction.\nEXCLUDED -> non-compoundable offence.\nPROCESS -> referral/application -> conciliation -> compromise.\n\nState of Punjab v. Jalour Singh (2008): no merits adjudication."
+        },
+        {
+          "title": "Ordinary award, failure and review",
+          "structural_type": "deep-review-05",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "SETTLEMENT -> award deemed civil-court decree -> final/binding -> no statutory appeal.\nNO SETTLEMENT -> pending case returns / ordinary remedy continues.\nWRIT CONTROL -> fraud, no genuine consent, jurisdiction or natural-justice defect.\n\nFINALITY != power to compel compromise."
+        },
+        {
+          "title": "Permanent Lok Adalat jurisdiction",
+          "structural_type": "deep-review-06",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "CHAPTER VI-A -> standing body for PUBLIC UTILITY SERVICES.\nSTAGE -> pre-litigation only.\nBAR -> non-compoundable offence + notified pecuniary boundary.\n\nInterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ."
+        },
+        {
+          "title": "PLA conciliation-to-adjudication sequence",
+          "structural_type": "deep-review-07",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "APPLICATION -> conciliation papers -> settlement terms -> agreement award.\nIF FAILURE -> eligible merits decision.\nBar Council of India v. Union of India (2012) -> design upheld.\nCanara Bank v. G.S. Jayarama (2022) -> follow statutory conciliation sequence."
+        },
+        {
+          "title": "Gram Nyayalaya as a statutory court",
+          "structural_type": "deep-review-08",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "2008 ACT -> State establishment after High Court consultation.\nNYAYADHIKARI -> JMFC qualification.\nMOBILE FIRST INSTANCE -> scheduled civil/criminal cases + conciliation.\nAPPEAL -> District Court / Sessions Court.\n\nTRAP: not Panchayat, khap or Lok Adalat."
+        },
+        {
+          "title": "Family and specialist-court distinctions",
+          "structural_type": "deep-review-09",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "FAMILY COURT -> adjudication + conciliation + privacy + High Court appeal.\nFAST TRACK -> capacity scheme.\nSPECIAL COURT -> parent-statute jurisdiction.\nCOMMERCIAL COURT -> statutory civil court and case management.\nEVENING COURT -> administrative sitting format."
+        },
+        {
+          "title": "Mediation, arbitration and court firewall",
+          "structural_type": "deep-review-10",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Afcons Infrastructure v. Cherian Varkey Construction (2010) -> structured ADR referral.\nMEDIATION -> party-made settlement.\nARBITRATION -> private adjudication and statutory award challenge.\nORDINARY LOK ADALAT -> compromise award.\nPLA -> limited post-conciliation adjudication."
+        },
+        {
+          "title": "Fairness, data and digital access",
+          "structural_type": "deep-review-11",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "Patil Automation v. Rakheja Engineers (2022)\n-> mandatory commercial pre-institution mediation absent an urgent-relief exception.\nCONSENT QUALITY -> advice + no coercion + understood terms.\nDIGITAL -> identity, privacy, language, disability and offline option.\nCURRENT DATA -> date every count, ceiling and notified service."
+        },
+        {
+          "title": "UPSC forum-selection answer spine",
+          "structural_type": "deep-review-12",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md#BASIC LEARNING SESSION"
+          ],
+          "full_text": "1 LEGAL SOURCE.\n2 SUBJECT / STAGE / COMPOUNDABILITY.\n3 CONSENT OR MERITS POWER.\n4 AWARD / APPEAL / REVIEW.\n5 ACCESS AND POWER-ASYMMETRY SAFEGUARDS.\n\nVERDICT: affordable justice must remain competent and voluntary where required.\nIllegality remains reviewable."
+        }
+      ]
+    }
+  }
+}

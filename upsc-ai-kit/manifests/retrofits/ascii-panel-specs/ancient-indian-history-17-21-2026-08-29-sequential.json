@@ -1,0 +1,1062 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-29",
+  "scope": "Ancient Indian History learner-v2 Topics 17-21",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-17",
+      "display_title": "The Satavahanas & the Deccan",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\17_Satavahanas-Deccan_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Deccan network polity and route frame",
+          "structural_type": "root-branch",
+          "ascii_lines": [
+            "SATAVAHANA POWER",
+            "      |-- plateau agrarian zones + Godavari-Krishna corridors",
+            "      |-- Naneghat and western passes -> Konkan ports",
+            "      |-- aharas and royal officers -> local administration",
+            "      |-- maharathis / mahabhojas -> negotiated regional authority",
+            "      `-- merchants + Brahmanas + Buddhist institutions -> legitimacy",
+            "VERDICT: a strong but uneven network polity, not uniform peninsular bureaucracy."
+          ],
+          "source_references": [
+            "Scope",
+            "Deccan geography"
+          ]
+        },
+        {
+          "title": "Evidence hierarchy and chronology",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "PURANIC LISTS -> genealogy and broad sequence -> redaction limits",
+            "INSCRIPTIONS -> rulers, donors, offices and claims -> prashasti limits",
+            "COINS -> names, metals, overstrikes and circulation -> borders remain uncertain",
+            "ARCHAEOLOGY -> towns, caves, stupas and crafts -> attribution varies",
+            "CLASSICAL TEXTS -> routes and commodities -> external perspective",
+            "METHOD: converge sources; use ranges rather than one exact dynastic chronology."
+          ],
+          "source_references": [
+            "Sources",
+            "Chronology debates"
+          ]
+        },
+        {
+          "title": "Early rulers, Satakarni and Naneghat",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SIMUKA -> conventional founder; date and first core debated",
+            "KANHA -> early western Deccan inscriptional presence",
+            "SATAKARNI I + NAGANIKA",
+            "      |-- Naneghat genealogy and portrait memory",
+            "      |-- Vedic sacrifices and royal status claims",
+            "      `-- route-pass location converts mobility into political display",
+            "CAUTION: ritual language and portraits prove claims, not complete territorial maps."
+          ],
+          "source_references": [
+            "Simuka and Kanha",
+            "Naneghat"
+          ]
+        },
+        {
+          "title": "Multi-centred political geography",
+          "structural_type": "spatial-timeline",
+          "ascii_lines": [
+            "PRATISHTHANA / PAITHAN -> western-central dynastic anchor",
+            "NASHIK / JUNNAR / NANEghat -> passes, caves, donors and conflict zone",
+            "TAGARA / TER -> inland market network",
+            "KRISHNA-GODAVARI -> Dharanikota-Amaravati and eastern centres",
+            "LOCAL CORES SHIFT ACROSS REIGNS AND RIVALRIES",
+            "RULE: capitals and coin finds identify nodes; they do not prove equal direct control."
+          ],
+          "source_references": [
+            "Political geography",
+            "Capitals"
+          ]
+        },
+        {
+          "title": "Administration and local elites",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / MOBILE COURT",
+            "      |-- ahara territorial units",
+            "      |-- amatya, mahamatra and mahasenapati offices",
+            "      |-- revenue, grants, warfare and route protection",
+            "      |-- maharathi / mahabhoja / local ruling families",
+            "      `-- village, guild, monastery and donor networks",
+            "RESULT: royal capacity worked through layered authority and local intermediaries."
+          ],
+          "source_references": [
+            "Administration",
+            "Local elites"
+          ]
+        },
+        {
+          "title": "Kshatrapa conflict and Gautamiputra",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES",
+            "                 |",
+            "SATAVAHANA <-> WESTERN KSHATRAPA RIVALRY",
+            "                 |",
+            "Nahapana expansion -> Gautamiputra counter-expansion",
+            "                 |",
+            "Nashik prashasti: royal victory and social-ideological claims",
+            "LIMIT: Gautami Balashri's eulogy must be checked against coins and regional evidence."
+          ],
+          "source_references": [
+            "Kshatrapa conflict",
+            "Gautamiputra Satakarni"
+          ]
+        },
+        {
+          "title": "Nahapana overstrikes as evidence",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "NAHAPANA SILVER COINS",
+            "          |",
+            "GAUTAMIPUTRA OVERSTRIKES",
+            "          |",
+            "secure sequence of displacement / metal reuse in a conflict context",
+            "          |",
+            "supports restoration of authority in selected western zones",
+            "DOES NOT PROVE: one-day conquest, total destruction or unchanged borders afterward."
+          ],
+          "source_references": [
+            "Nahapana overstrikes",
+            "Numismatic method"
+          ]
+        },
+        {
+          "title": "Agrarian expansion and land grants",
+          "structural_type": "process",
+          "ascii_lines": [
+            "IRON + CLEARANCE + PADDY / COTTON + WATER MANAGEMENT",
+            "                         |",
+            "              expanding agrarian production",
+            "                         |",
+            "royal grants -> rights, exemptions and religious beneficiaries",
+            "                         |",
+            "new settlements + fiscal reallocation + local authority",
+            "DEBATE: grants aided expansion and legitimation; effects differed by place and date."
+          ],
+          "source_references": [
+            "Agrarian base",
+            "Land grants"
+          ]
+        },
+        {
+          "title": "Crafts, guilds, towns and trade",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "VILLAGE RAW MATERIALS -> CRAFT CLUSTERS -> INLAND TOWNS",
+            "      |                    |                 |",
+            " cotton / metal         guild bodies      Paithan / Tagara",
+            "      |                    |                 |",
+            "      `------------ passes and markets ----------->",
+            "                         western/eastern ports",
+            "EVIDENCE: cave donors, deposits, coins, Periplus and excavated settlements.",
+            "LIMIT: connectivity was extensive but neither uniform nor wholly state-controlled."
+          ],
+          "source_references": [
+            "Crafts and guilds",
+            "Trade"
+          ]
+        },
+        {
+          "title": "Society, matronymics and women",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "VARNA IDEOLOGY -> royal claims and Brahmanical legitimation",
+            "SOCIAL PRACTICE -> merchants, artisans, cultivators and local elites",
+            "MATRONYMICS -> Gautamiputra, Vasisthiputra and lineage identification",
+            "ROYAL WOMEN -> Naganika and Gautami Balashri as inscriptional actors",
+            "DONOR WOMEN -> visible in cave and religious patronage",
+            "VERDICT: female agency was real but operated within unequal patriarchal structures."
+          ],
+          "source_references": [
+            "Society",
+            "Matronymics and women"
+          ]
+        },
+        {
+          "title": "Religion, language, caves and Amaravati",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "BRAHMANICAL RITES + Prakrit royal inscriptions",
+            "BUDDHIST CAVES -> Nashik, Karla and Junnar donor-route landscapes",
+            "AMARAVATI -> long stupa, sculpture and patronage sequence",
+            "MERCHANTS + ARTISANS + WOMEN + RULERS -> plural donor field",
+            "GATHA SATTASAI tradition -> literary memory with attribution cautions",
+            "RULE: plural patronage joined belief, legitimacy, routes and social visibility."
+          ],
+          "source_references": [
+            "Religion",
+            "Language and art"
+          ]
+        },
+        {
+          "title": "Decline, legacy and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES",
+            "                         |",
+            "      contraction and fragmentation, not instant disappearance",
+            "                         |",
+            "LEGACIES: Deccan state forms, grants, Prakrit epigraphy, caves and trade nodes",
+            "WRITE: thesis -> chronology/source -> polity -> economy -> society/culture",
+            "      -> one debate -> graded verdict",
+            "FINAL: integration was durable, but sovereignty and prosperity remained uneven."
+          ],
+          "source_references": [
+            "Decline",
+            "Historiography and answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-18",
+      "display_title": "The Sangam Age & the Deep South",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tamilakam geography and tinai",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "VENKATAM / TIRUPATI HILLS -> conventional northern marker",
+            "WESTERN UPLANDS -> Chera-linked pepper and coast",
+            "KAVERI-MARUTAM -> wet agriculture, Uraiyur and Puhar",
+            "MADURAI-KORKAI -> Pandya court, pearls and southern coast",
+            "TINAI: kurinji | mullai | marutam | neital | palai",
+            "RULE: tinai is a poetic-ecological model, not a fixed revenue or cadastral map."
+          ],
+          "source_references": [
+            "Tamilakam geography",
+            "Tinai"
+          ]
+        },
+        {
+          "title": "Evidence and chronology architecture",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "MEGALITHIC / IRON-AGE BACKGROUND",
+            "        -> Ashokan southern-polity references",
+            "        -> Tamil-Brahmi names, donors and offices",
+            "        -> early historic poems, coins, ports and ceramics",
+            "        -> later anthology and redaction",
+            "METHOD: poem + inscription + archaeology + external text",
+            "LIMIT: c. 300 BCE-300 CE is a broad evidentiary horizon, not one synchronized reign."
+          ],
+          "source_references": [
+            "Chronology",
+            "Sources"
+          ]
+        },
+        {
+          "title": "Sangam corpus: akam and puram",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+            "AKAM                         PURAM",
+            "interior / love              public / war / gift / fame",
+            "landscape convention         chief, bard and heroic ethic",
+            "social and emotional codes   political-redistributive values",
+            "USE: recover vocabulary and institutions.",
+            "LIMIT: genre and later compilation prevent literal chronicle reading."
+          ],
+          "source_references": [
+            "Sangam corpus",
+            "Genre"
+          ]
+        },
+        {
+          "title": "Chera, Chola and Pandya comparison",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CHERA -> western routes / pepper / Muchiri / Senguttuvan",
+            "CHOLA -> Kaveri basin / Uraiyur / Puhar / Karikala",
+            "PANDYA -> Madurai / Korkai / pearls / Nedunjeliyan",
+            "MUVENDAR = three crowned lineages in literary memory",
+            "BOUNDARY: named rulers and places do not yield fixed continuous borders.",
+            "TRAP: Sangam Cholas are not the later imperial Cholas."
+          ],
+          "source_references": [
+            "Muvendar",
+            "Dynasties"
+          ]
+        },
+        {
+          "title": "Chiefship, warfare, gift and fame",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "AGRARIAN / PASTORAL / COASTAL RESOURCES",
+            "                  |",
+            "raids + warfare + tribute / booty",
+            "                  |",
+            "court feast and gifts -> followers + bards + dependants",
+            "                  |",
+            "praise, honour and heroic memory -> renewed legitimacy",
+            "VATTakirutal: defeated ruler's ritual fasting in the heroic code.",
+            "LIMIT: celebratory poems mute producer costs and coercion."
+          ],
+          "source_references": [
+            "Polity",
+            "Warrior redistribution"
+          ]
+        },
+        {
+          "title": "Production and internal exchange",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ECOLOGICAL ZONES",
+            "  |-- paddy and wet cultivation",
+            "  |-- cattle and pastoral products",
+            "  |-- fish, salt, pearls, pepper and forest goods",
+            "  `-- weaving, beads, shell, iron and other crafts",
+            "                         |",
+            "markets + chattu caravans + river/coastal movement",
+            "RESULT: diversified local production underpinned courts and overseas exchange."
+          ],
+          "source_references": [
+            "Economy",
+            "Crafts"
+          ]
+        },
+        {
+          "title": "Port and hinterland network",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "HINTERLAND PRODUCTION -> MARKET / CARAVAN -> PORT",
+            "KAVERI BASIN --------------------------------------> PUHAR",
+            "PANDYA SOUTH / PEARL ZONE ------------------------> KORKAI",
+            "WESTERN PEPPER CIRCUITS --------------------------> MUCHIRI / MUZIRIS TRADITION",
+            "PORT FUNCTIONS: aggregation + customs + shipping + redistribution",
+            "RULE: no port flourished without inland producers, routes and consumers."
+          ],
+          "source_references": [
+            "Ports",
+            "Trade"
+          ]
+        },
+        {
+          "title": "Mediterranean links, Arikamedu and Pattanam",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "COINS + AMPHORAE + CERAMICS + PAPYRUS / CLASSICAL TEXTS",
+            "                         |",
+            "Indian Ocean and Mediterranean-linked exchange",
+            "ARIKAMEDU: earlier settlement + local craft + imported material",
+            "PATTANAM: major connected port evidence; Muziris identification debated",
+            "NOT PROVED: Roman colony, Roman sovereignty or foreign creation of Tamil economy.",
+            "VERDICT: multi-nodal contact amplified indigenous production and routes."
+          ],
+          "source_references": [
+            "Arikamedu",
+            "Muziris debate"
+          ]
+        },
+        {
+          "title": "Society, labour, women and varna",
+          "structural_type": "social-matrix",
+          "ascii_lines": [
+            "COURT ELITES / CHIEFS / BARDS / WARRIORS",
+            "MERCHANTS / ARTISANS / CULTIVATORS / PASTORALISTS",
+            "FISHERS / SALT WORKERS / OTHER DEPENDANT LABOUR",
+            "WOMEN: poetry, spinning, fishing, salt exchange and household work",
+            "VARNA vocabulary was known; regional social practice was not a neat four-box census.",
+            "RULE: occupational visibility or named women does not prove equality."
+          ],
+          "source_references": [
+            "Society",
+            "Women and varna"
+          ]
+        },
+        {
+          "title": "Religion, culture and megalithic context",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "MURUGAN / MAYON / KORRAVAI + Brahmanical vocabulary",
+            "JAIN / BUDDHIST donors and cave contexts",
+            "HEROIC AND MORTUARY MEMORY -> poems, stones and burials",
+            "MEGALITHS -> varied forms, grave goods, iron and pottery",
+            "LIMIT: burial evidence does not automatically disclose settlement map or exact belief.",
+            "CULTURE: plurality emerged through local traditions and wider exchanges."
+          ],
+          "source_references": [
+            "Religion",
+            "Megaliths"
+          ]
+        },
+        {
+          "title": "Chiefdom-to-state debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CHIEFDOM READING -> personal retinue, raid, gift and bardic prestige",
+            "STATE READING -> centres, extraction, titles, offices and durable lineages",
+            "EVIDENCE -> ko/kon, Pugalur, Mangulam, ports and agrarian cores",
+            "TRADE -> amplifier, not sole creator",
+            "IRON -> enabling technology, not sole cause",
+            "VERDICT: uneven movement toward early states; regional and reversible."
+          ],
+          "source_references": [
+            "State formation",
+            "Historiography"
+          ]
+        },
+        {
+          "title": "PYQ and answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "PRELIMS: varna awareness | ports | Vattakirutal | ruler-lineage pairs",
+            "MAINS OPENING: evidentiary horizon, not one synchronized dynasty block",
+            "BODY 1: geography and source method",
+            "BODY 2: polity + economy + society + culture",
+            "BODY 3: port-hinterland mechanism and one historiographical debate",
+            "QUALIFY: genre, chronology, identification and representativeness",
+            "VERDICT: connected, uneven chiefdom-to-early-state Tamilakam."
+          ],
+          "source_references": [
+            "PYQs",
+            "Answer architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-19",
+      "display_title": "Crafts, Commerce & Urban Growth (200 BC–AD 250)",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\19_Crafts-Commerce-Urban-Growth_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Periodization and evidence discipline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "c. 600 BCE -> second-urbanisation background",
+            "c. 200 BCE -> regional polities and wider craft-trade networks",
+            "1st-2nd c. CE -> dense urban and maritime evidence in selected regions",
+            "3rd c. CE onward -> decline, continuity and route change coexist",
+            "SOURCES: texts + inscriptions + coins + craft debris + settlements + imports",
+            "RULE: archaeological phase labels do not automatically prove dynastic rule."
+          ],
+          "source_references": [
+            "Scope",
+            "Chronology"
+          ]
+        },
+        {
+          "title": "Agrarian base of urban growth",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "LAND + WATER + LABOUR + DIVERSE CROPS",
+            "                  |",
+            "food surplus + cotton / oilseeds / timber / ores / salt",
+            "                  |",
+            "supports non-food producers and supplies craft chains",
+            "                  |",
+            "town demand returns tools, markets, credit and institutions",
+            "VERDICT: village and town formed an interdependent system, not separate economies."
+          ],
+          "source_references": [
+            "Agrarian surplus",
+            "Urban-rural interdependence"
+          ]
+        },
+        {
+          "title": "Craft production chains",
+          "structural_type": "process",
+          "ascii_lines": [
+            "RAW MATERIAL -> SPECIALISED LABOUR -> INSTALLATION / TOOL -> FINISHED GOOD",
+            "cotton -> spinning -> weaving -> dyeing -> cloth",
+            "agate/carnelian -> cutting -> drilling -> polishing -> beads",
+            "ore -> smelting -> forging/casting -> tools and ornaments",
+            "clay/glass/ivory/shell -> repeated forms and elite/common consumption",
+            "LIMIT: one vat, mould or workshop cannot establish ownership, scale or export destination."
+          ],
+          "source_references": [
+            "Craft specialisation",
+            "Production"
+          ]
+        },
+        {
+          "title": "Shreni, nigama and merchant bodies",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "ARTISANS / MERCHANTS",
+            "        |",
+            "shreni / corporate body / nigama identities",
+            "        |",
+            "deposits + endowments + standards + representation + donor visibility",
+            "        |",
+            "recurring provision for religious institutions",
+            "CAUTION: local records show corporate capacity, not one pan-Indian guild law",
+            "or a modern banking system."
+          ],
+          "source_references": [
+            "Guilds",
+            "Merchant bodies"
+          ]
+        },
+        {
+          "title": "Inland corridors and market nodes",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "NORTH-WEST -> Taxila -> Mathura -> Ujjain -> Bharuch",
+            "GANGA ROUTES -> Kaushambi and other urban nodes",
+            "DECCAN -> Paithan / Tagara -> western and eastern outlets",
+            "TAMILAKAM -> production zones -> chattu caravans -> ports",
+            "UTTARAPATHA / DAKSHINAPATHA = broad changing route concepts",
+            "RULE: route lines show connectivity, not permanent paved highways or one ruler's monopoly."
+          ],
+          "source_references": [
+            "Internal trade",
+            "Routes"
+          ]
+        },
+        {
+          "title": "Ports, monsoon and Indian Ocean exchange",
+          "structural_type": "process",
+          "ascii_lines": [
+            "HINTERLAND SURPLUS -> MARKET NODE -> PORT",
+            "                                  |",
+            "aggregation + customs + storage + shipping + redistribution",
+            "                                  |",
+            "seasonal winds + accumulated navigation knowledge",
+            "                                  |",
+            "Arabian Sea / Red Sea / Bay of Bengal networks",
+            "TRAP: no single foreign discoverer created monsoon sailing or Indian maritime trade."
+          ],
+          "source_references": [
+            "Ports",
+            "Maritime trade"
+          ]
+        },
+        {
+          "title": "Mediterranean exchange without colony claims",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "PEPPER / TEXTILES / BEADS / PEARLS / IVORY / STONES OUTWARD",
+            "COINS / BULLION / AMPHORAE / GLASS / CERAMICS / METALS INWARD",
+            "EVIDENCE -> Periplus, Pliny, papyrus, archaeology and coin contexts",
+            "PLINY -> Roman anxiety, not an audited Indian trade balance",
+            "IMPORTED OBJECT -> contact and consumption possibility",
+            "NOT PROVED -> resident Roman colony, sovereignty or universal prosperity."
+          ],
+          "source_references": [
+            "Roman trade",
+            "Source limits"
+          ]
+        },
+        {
+          "title": "Coinage and uneven monetisation",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "KUSHANA -> gold and copper",
+            "WESTERN KSHATRAPA -> silver",
+            "SATAVAHANA -> lead, copper, potin and selected silver/portrait issues",
+            "CIVIC / PUNCH-MARKED / ROMAN-LINKED FINDS -> varied monetary worlds",
+            "COINS aided payments, revenue and exchange.",
+            "LIMIT: coin abundance does not erase barter, kind payments or regional monetary gaps."
+          ],
+          "source_references": [
+            "Coinage",
+            "Monetisation"
+          ]
+        },
+        {
+          "title": "Urban morphology and regional centres",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "URBAN INDICATORS",
+            "fortification | planned streets | brick | drains | wells | coins | seals | crafts",
+            "NORTH-WEST / NORTH: Taxila, Mathura, Kaushambi and other nodes",
+            "CENTRAL / WEST: Ujjain, Bharuch and route centres",
+            "DECCAN / SOUTH: Paithan, Tagara, Arikamedu, Puhar and others",
+            "RULE: infer urban function from a cluster of indicators, never one imported sherd."
+          ],
+          "source_references": [
+            "Towns",
+            "Regional centres"
+          ]
+        },
+        {
+          "title": "Religion, state and urban-rural systems",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "VILLAGES -> food, fibre, labour and raw materials",
+            "TOWNS -> workshops, markets, rulers and consumers",
+            "ROUTES / PORTS -> wider demand and movement",
+            "RELIGIOUS INSTITUTIONS -> donors, endowments, lodging and legitimacy",
+            "STATE -> security + tolls + coinage + infrastructure + extraction",
+            "RESULT: mutually reinforcing functions, but burdens and benefits were unequal."
+          ],
+          "source_references": [
+            "Religion and trade",
+            "State and commerce"
+          ]
+        },
+        {
+          "title": "Transformation and decline debate",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "OBSERVED: contraction at some sites / coin changes / route shifts",
+            "POSSIBLE CAUSES: political fragmentation + demand change + ecology + local restructuring",
+            "ROMAN-TRADE DECLINE -> relevant to selected circuits, never a universal single cause",
+            "CONTINUITIES: internal, eastern and regional networks; new centres can rise",
+            "METHOD: separate one site's decline from subcontinental transformation",
+            "VERDICT: early historic urbanism changed unevenly after the second century CE."
+          ],
+          "source_references": [
+            "Transformation",
+            "Decline debates"
+          ]
+        },
+        {
+          "title": "UPSC answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "DEFINE PERIOD + SOURCE CAUTION",
+            "      -> agrarian and raw-material base",
+            "      -> crafts and corporate institutions",
+            "      -> inland routes + port-hinterland mechanism",
+            "      -> money + urban morphology + religious/state roles",
+            "      -> regional comparison + decline debate",
+            "WRITE EACH UNIT: claim -> named evidence -> significance -> limit",
+            "VERDICT: a networked, mutually reinforcing but regionally uneven florescence."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "PYQ route"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-20",
+      "display_title": "The Gupta Empire",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\20_Gupta-Empire_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Source-led chronology",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "GUPTA ERA 319-20 CE -> conventional imperial phase",
+            "PRAYAG PRASHASTI -> campaign categories + royal ideology",
+            "COINS -> titles, images, ritual and monetary zones",
+            "COPPER PLATES / SEALS -> offices, grants and local actors",
+            "FAXIAN -> selected Buddhist and social observations",
+            "RULE: triangulate sources; prashasti praise and coin circulation are not border maps."
+          ],
+          "source_references": [
+            "Sources",
+            "Chronology"
+          ]
+        },
+        {
+          "title": "Formation and Chandragupta I",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "SRI GUPTA -> GHATOTKACHA -> CHANDRAGUPTA I",
+            "maharaja                  maharajadhiraja",
+            "                              |",
+            "Kumaradevi-Lichchhavi alliance represented on coin type",
+            "                              |",
+            "Ganga core + alliance + inherited routes + symbolic legitimacy",
+            "LIMIT: the coin proves advertised alliance, not a measurable dowry or exact border."
+          ],
+          "source_references": [
+            "Imperial formation",
+            "Chandragupta I"
+          ]
+        },
+        {
+          "title": "Samudragupta's graded sovereignty",
+          "structural_type": "layered-sovereignty",
+          "ascii_lines": [
+            "ARYAVARTA -> rulers uprooted -> stronger core incorporation",
+            "ATAVIKA -> subordinated forest rulers",
+            "FRONTIER STATES / GANAS -> tribute, orders and obeisance",
+            "DAKSHINAPATHA -> captured, released and reinstated",
+            "DISTANT RULERS / ISLANDS -> gifts, service and prestige diplomacy",
+            "VERDICT: annexation, subordination and hegemony coexisted; not every name was a province."
+          ],
+          "source_references": [
+            "Samudragupta",
+            "Prayag prashasti"
+          ]
+        },
+        {
+          "title": "Chandragupta II and western expansion",
+          "structural_type": "cause-mechanism-effect",
+          "ascii_lines": [
+            "SUCCESSION AND ALLIANCE CAPACITY",
+            "          |",
+            "defeat of western Kshatrapas in Malwa-Gujarat",
+            "          |",
+            "access to western routes, silver-coin zone and prestige centres",
+            "          |",
+            "Udayagiri and royal imagery strengthen Vaishnava political communication",
+            "CAUTION: Vikramaditya/Navaratna traditions require source and chronology control."
+          ],
+          "source_references": [
+            "Chandragupta II",
+            "Western expansion"
+          ]
+        },
+        {
+          "title": "Late Guptas, Hunas and decline",
+          "structural_type": "multi-causal-chain",
+          "ascii_lines": [
+            "KUMARAGUPTA -> SKANDAGUPTA -> LATER GUPTAS",
+            "                         |",
+            "succession strains + Huna pressure + feudatory autonomy",
+            "                         |",
+            "fiscal and military burdens + regional powers + changing networks",
+            "                         |",
+            "contracting imperial authority",
+            "VERDICT: decline was cumulative and regional, not one invasion or instant collapse."
+          ],
+          "source_references": [
+            "Late Guptas",
+            "Decline"
+          ]
+        },
+        {
+          "title": "Territoriality and administration",
+          "structural_type": "layered-governance",
+          "ascii_lines": [
+            "KING / COURT",
+            "   -> bhukti provincial level",
+            "   -> vishaya district level",
+            "   -> town / village bodies and local notables",
+            "   -> feudatories and frontier rulers",
+            "OFFICES and practice varied by region; Bengal plates are especially visible.",
+            "EMPIRE = directly ruled core + delegated administration + layered hegemony."
+          ],
+          "source_references": [
+            "Territoriality",
+            "Administration"
+          ]
+        },
+        {
+          "title": "Land grants and fiscal decentralisation",
+          "structural_type": "process",
+          "ascii_lines": [
+            "ROYAL CHARTER",
+            "    -> land / revenue rights + exemptions + boundary record",
+            "    -> Brahmana or religious beneficiary",
+            "    -> local cultivators, labour and intermediaries",
+            "    -> agrarian expansion + legitimation + fiscal reallocation",
+            "DEBATE: grants could strengthen frontier integration while also enlarging local autonomy.",
+            "RULE: read the exact rights; do not assume every grant transferred total sovereignty."
+          ],
+          "source_references": [
+            "Land grants",
+            "Decentralisation"
+          ]
+        },
+        {
+          "title": "Economy, coinage and urban change",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "GOLD COINS -> royal high-value capacity and imagery",
+            "SILVER ISSUES -> western zone after Kshatrapa conquest",
+            "COPPER SCARCITY / REGIONAL MEDIA -> uneven everyday monetisation",
+            "GUILDS / CRAFTS / PORTS -> continuity in selected nodes",
+            "URBAN EVIDENCE -> contraction in some centres, persistence or relocation in others",
+            "VERDICT: neither universal prosperity nor total urban collapse fits the evidence."
+          ],
+          "source_references": [
+            "Economy",
+            "Urban change"
+          ]
+        },
+        {
+          "title": "Society, Faxian and religion",
+          "structural_type": "social-matrix",
+          "ascii_lines": [
+            "VARNA / JATI / OCCUPATION -> norm and lived diversity",
+            "VISHTI -> labour obligation in selected grants",
+            "FAXIAN -> Buddhist pilgrim lens; Chandala passage and institutional observations",
+            "VAISHNAVA / SHAIVA / SHAKTA patronage + Buddhist and Jain continuities",
+            "ROYAL AND NON-ROYAL DONORS -> plural religious landscape",
+            "LIMIT: normative texts and traveller accounts are not censuses."
+          ],
+          "source_references": [
+            "Society",
+            "Religion"
+          ]
+        },
+        {
+          "title": "Literature, science and arts",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "SANSKRIT COURT CULTURE -> Kalidasa / Amarasimha traditions",
+            "MATHEMATICS-ASTRONOMY -> Aryabhatiya, 499 CE",
+            "METALLURGY -> Mehrauli iron pillar with attribution caution",
+            "ARCHITECTURE -> Udayagiri, Sanchi 17, Bhitargaon and Deogarh",
+            "SCULPTURE / PAINTING -> Mathura, Sarnath and Vakataka-context Ajanta",
+            "RULE: name work, date, patronage context and ownership limit."
+          ],
+          "source_references": [
+            "Culture",
+            "Science and art"
+          ]
+        },
+        {
+          "title": "Golden Age and historiography",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "FOR: durable literature + science + sculpture + temple forms + political prestige",
+            "AGAINST UNIVERSAL LABEL:",
+            "  |-- regional production beyond direct Gupta rule",
+            "  |-- hierarchy, exclusion, vishti and patriarchal norms",
+            "  |-- uneven urban and monetary conditions",
+            "  `-- elite-source bias",
+            "VERDICT: a bounded classical florescence, not a census judgement on all society."
+          ],
+          "source_references": [
+            "Golden Age",
+            "Historiography"
+          ]
+        },
+        {
+          "title": "Gupta answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN: inscription- and coin-led layered empire, c. 319-550 CE",
+            "RULERS: formation -> Samudragupta -> Chandragupta II -> late pressures",
+            "POLITY: graded sovereignty + administration + feudatories",
+            "ECONOMY: grants + agrarian base + coins + urban variation",
+            "CULTURE: use only bounded examples; Topic 21 owns social-cultural depth",
+            "QUALIFY: genre, region, attribution and distribution",
+            "VERDICT: high-capacity core with negotiated and changing peripheries."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "Topic boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_key": "ancient-indian-history-21",
+      "display_title": "Life & Culture in the Gupta Age",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\21_Life-Culture-Gupta-Age_Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Topic boundary and source matrix",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "OWNER: society, daily life, knowledge, religion and arts in the Gupta age",
+            "TOPIC 20 RETAINS: rulers, campaigns, offices, grants machinery and decline",
+            "SOURCES: Smriti | literature | inscriptions | coins | Faxian | art | archaeology",
+            "TEXT -> norm / imagination; INSCRIPTION -> selected public actor",
+            "TRAVELLER -> situated observation; MATERIAL -> practice with dating limits",
+            "METHOD: use at least two source classes and state each limitation."
+          ],
+          "source_references": [
+            "Scope",
+            "Sources"
+          ]
+        },
+        {
+          "title": "Varna, jati and exclusion",
+          "structural_type": "social-matrix",
+          "ascii_lines": [
+            "VARNA -> normative four-fold macro-model",
+            "JATI / OCCUPATION -> numerous local and professional identities",
+            "STATUS CLAIM -> genealogy, office, patronage and Sanskritic idiom",
+            "EXCLUSION -> Chandala evidence, occupational stigma and spatial distance",
+            "MOBILITY and hierarchy coexisted.",
+            "RULE: one Smriti norm or Faxian passage cannot become a uniform all-India census."
+          ],
+          "source_references": [
+            "Social hierarchy",
+            "Marginal groups"
+          ]
+        },
+        {
+          "title": "Family, women and property",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PATRILINEAL / PATRIARCHAL NORM -> dominant prescriptive frame",
+            "MARRIAGE / INHERITANCE -> text-specific and socially varied",
+            "STRIDHANA -> recognized category with differing control and succession rules",
+            "WOMEN'S AGENCY -> queens, donors, workers and literary representations",
+            "LIMIT: elite visibility does not prove general equality.",
+            "TRAP: Mitakshara and Dayabhaga are later schools, not Gupta legal codes."
+          ],
+          "source_references": [
+            "Household",
+            "Women"
+          ]
+        },
+        {
+          "title": "Village, labour, craft and urban life",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "VILLAGE -> cultivators + land + taxes + vishti + household production",
+            "                           |",
+            "                 food / fibre / revenue",
+            "                           v",
+            "TOWN -> artisans + merchants + guild-linked groups + markets + sacred institutions",
+            "MANDASOR SILK WEAVERS -> migration, corporate identity and patronage",
+            "VERDICT: agrarian surplus and urban craft networks interacted, but regionally unevenly."
+          ],
+          "source_references": [
+            "Village life",
+            "Guild-linked urban life"
+          ]
+        },
+        {
+          "title": "Faxian and daily-life reconstruction",
+          "structural_type": "evidence-chain",
+          "ascii_lines": [
+            "FAXIAN c. 399-414 CE -> Buddhist pilgrimage purpose",
+            "        |",
+            "monasteries, routes, selected customs and Chandala passage",
+            "        |",
+            "valuable near-contemporary social and religious observations",
+            "        |",
+            "LIMITS: itinerary + audience + translation + silence + idealisation",
+            "USE: corroborate with inscriptions, texts and archaeology; never quote as a census."
+          ],
+          "source_references": [
+            "Faxian",
+            "Daily life"
+          ]
+        },
+        {
+          "title": "Education, Sanskrit and multilingualism",
+          "structural_type": "knowledge-ecosystem",
+          "ascii_lines": [
+            "COURTS + BRAHMANICAL CENTRES + MONASTERIES + TEACHER-PUPIL NETWORKS",
+            "                              |",
+            "Sanskrit prestige in kavya, prashasti, theology and science",
+            "                              |",
+            "Prakrits, regional speech and local inscriptions continue",
+            "                              |",
+            "SANSKRITISATION = adoption + negotiation + local adaptation",
+            "NOT: one royal language law, universal literacy or extinction of other languages."
+          ],
+          "source_references": [
+            "Education",
+            "Sanskritisation"
+          ]
+        },
+        {
+          "title": "Literature and genre map",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "KAVYA / DRAMA -> Kalidasa and courtly aesthetic worlds",
+            "LEXICOGRAPHY -> Amarasimha / Amarakosha tradition",
+            "PURANIC TEXTS -> layered redaction and devotional-cosmological synthesis",
+            "SMRITI -> prescriptive law and social norm",
+            "BUDDHIST / JAIN WRITING -> continuing intellectual plurality",
+            "RULE: secure work and genre are stronger than later court-biography legends."
+          ],
+          "source_references": [
+            "Literature",
+            "Genre"
+          ]
+        },
+        {
+          "title": "Mathematics, astronomy and metallurgy",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "499 CE -> ARYABHATIYA: computation, astronomy, pi and earth-rotation argument",
+            "6th c. -> VARAHAMIHIRA: post-main-Gupta continuation",
+            "628 CE -> BRAHMAGUPTA: explicitly post-Gupta chronology",
+            "MEHRAULI IRON PILLAR -> large wrought iron and corrosion resistance",
+            "CAUTION: place value != sole invention of zero; King Chandra identification debated.",
+            "VERDICT: cumulative specialist traditions, not isolated miracle claims."
+          ],
+          "source_references": [
+            "Science",
+            "Chronology cautions"
+          ]
+        },
+        {
+          "title": "Religious plurality and patronage",
+          "structural_type": "cultural-ecosystem",
+          "ascii_lines": [
+            "VAISHNAVA + SHAIVA + SHAKTA Puranic formations",
+            "BUDDHIST monasteries, images and pilgrimage networks",
+            "JAIN communities, images and sites",
+            "ROYAL COURTS + regional rulers + guilds + households + monks -> patrons",
+            "Udayagiri joins royal Vaishnava imagery with wider sacred presence.",
+            "RULE: plural patronage was unequal and strategic; it is not modern secular neutrality."
+          ],
+          "source_references": [
+            "Religion",
+            "Patronage"
+          ]
+        },
+        {
+          "title": "Temples, sculpture, painting and Ajanta",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "TEMPLES -> Sanchi 17 | Udayagiri | Bhitargaon | Deogarh",
+            "SCULPTURE -> Mathura and Sarnath materials, modelling and robe conventions",
+            "PAINTING -> Ajanta narrative, courtly, devotional and workshop production",
+            "ARCHITECTURAL TREND -> garbhagriha + porch/mandapa + emerging superstructure",
+            "OWNERSHIP LIMIT: major fifth-century Ajanta phase is Vakataka-context.",
+            "RULE: name object/site, form, date, patronage and attribution caution."
+          ],
+          "source_references": [
+            "Temple architecture",
+            "Sculpture and painting"
+          ]
+        },
+        {
+          "title": "Golden Age and social distribution",
+          "structural_type": "argument-tree",
+          "ascii_lines": [
+            "CLASSICAL ACHIEVEMENT",
+            "literature + science + iconic art + structural temples + prestige language",
+            "                         |",
+            "TEST DISTRIBUTION",
+            "region | class | caste | gender | labour | literacy | patronage",
+            "                         |",
+            "COUNTER-EVIDENCE: exclusion, vishti, patriarchal norms and elite archives",
+            "VERDICT: culturally consequential and enduring, but neither uniform nor universally golden."
+          ],
+          "source_references": [
+            "Golden Age debate",
+            "Social distribution"
+          ]
+        },
+        {
+          "title": "Culture answer spine",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "OPEN: social-cultural companion to Gupta polity, reconstructed through mixed sources",
+            "BODY 1: hierarchy + household + women + labour",
+            "BODY 2: village-town and patronage institutions",
+            "BODY 3: language + literature + science + religion + arts",
+            "EACH EXAMPLE: claim -> named evidence -> significance -> limit",
+            "QUALIFY: chronology, regional ownership, source genre and social distribution",
+            "VERDICT: classical production emerged from plural but unequal social worlds."
+          ],
+          "source_references": [
+            "Answer architecture",
+            "PYQ ownership"
+          ]
+        }
+      ]
+    }
+  ]
+}

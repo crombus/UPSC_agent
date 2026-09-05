@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "topic_key": "medieval-indian-history-25",
+  "record_id": "medieval-indian-history-25:learner-v2:g5",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "canonical": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "agreement": true,
+    "layout": true,
+    "same_master": true,
+    "hashes": true,
+    "tests_89": true,
+    "validator": true,
+    "library": true,
+    "medieval_25_of_25": true,
+    "queue_modern_01": true
+  },
+  "metrics": {
+    "main_pages": 107,
+    "workbook_pages": 30,
+    "solved_blocks": 13,
+    "mcqs": 80,
+    "ascii_panels": 12,
+    "graphical_stages": 12,
+    "master_dimensions_px": [
+      4800,
+      11332
+    ],
+    "tile_pages": 4,
+    "tile_overlap_min_px": 534,
+    "ascii_max_line_characters": 91,
+    "targeted_tests": 89,
+    "deliverable_hashes_checked": 63
+  },
+  "deliverable_hash_errors": {},
+  "subject_status": {
+    "order": 3,
+    "subject_key": "Medieval-Indian-History",
+    "subject": "Medieval History",
+    "status": "passed",
+    "topic_count": 25,
+    "passed": 25,
+    "next_topic_key": null,
+    "next_topic": null,
+    "command": "Run semantic-completeness review: Medieval History — all topics sequentially"
+  },
+  "next_topic": {
+    "global_order": 93,
+    "subject_key": "Modern-Indian-History",
+    "subject": "Modern History",
+    "section_key": "subject-wide-syllabus",
+    "section": "Subject-wide Syllabus",
+    "topic_key": "modern-indian-history-01",
+    "topic_order": 1,
+    "title": "Decline of the Mughal Empire (1707–1740s)",
+    "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md"
+    ],
+    "index_sources": [
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md"
+    ],
+    "status": "pending",
+    "checks": {
+      "literal_syllabus": "pending",
+      "implied_prerequisites": "pending",
+      "textbook_taxonomy": "pending",
+      "pyq_demands": "pending",
+      "hostile_absence_search": "pending",
+      "canonical_owner": "pending",
+      "cross_owner_boundaries": "pending",
+      "answer_architecture": "pending",
+      "factual_verification": "pending",
+      "dependent_artifacts": "pending"
+    },
+    "gap_counts": {
+      "missing_topics": 0,
+      "missing_data": 0,
+      "missing_concepts": 0,
+      "missing_pyq_demands": 0,
+      "misowned_content": 0,
+      "factual_risks": 0
+    },
+    "findings": [],
+    "files_changed": [],
+    "reviewed_at": null,
+    "completed_at": null,
+    "next_action": "Build the four-ledger coverage matrix and run hostile absence search.",
+    "command": "Review semantic completeness topic: Modern History — Subject-wide Syllabus — Decline of the Mughal Empire (1707–1740s)"
+  }
+}

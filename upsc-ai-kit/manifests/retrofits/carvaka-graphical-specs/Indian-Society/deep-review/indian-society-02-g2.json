@@ -1,0 +1,1152 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-02",
+  "subject": "Indian-Society",
+  "title": "CASTE SYSTEM: STRUCTURE AND CONTEMPORARY DYNAMICS",
+  "short_route": "LEVEL OF ANALYSIS → FOUR FEATURES AND THEIR → MARRIAGE RULES THAT OPERATE → MOBILITY STRATEGIES → DOMINANT CASTE TEST → CASTE AND CLASS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-02-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "42cfa4a85e02c8995c6e16382111e71b25ac948c7ece5db8cd306544ceca897f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LEVEL OF ANALYSIS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEVEL OF ANALYSIS",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR-FOLD TEXTUAL IDEAL TYPE, NORMATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL ENDOGAMOUS BIRTH GROUP, OBSERVABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "NARROWER ENDOGAMY CIRCLE INSIDE A JATI",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER AT THE JATI LEVEL, ARGUE WITH THE VARNA",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE JOINS VARNA IDEOLOGY, LOCALLY RANKED JATIS, ENDOGAMY, HEREDITARY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VARNA → four-fold textual ideal type, normative",
+        "JATI → local endogamous birth group, observable",
+        "SUB-JATI → narrower endogamy circle inside a jati",
+        "RULE → answer at the jati level, argue with the varna template",
+        "MUST REMEMBER: Caste joins varna ideology, locally ranked jatis, endogamy, hereditary occupation, purity-pollution, social closure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VARNA → four-fold textual ideal type, normative",
+          "SUB-JATI → narrower endogamy circle inside a jati",
+          "MUST REMEMBER: Caste joins varna ideology, locally ranked jatis, endogamy, hereditary occupation, purity-pollution, social closure and power"
+        ],
+        [
+          "JATI → local endogamous birth group, observable",
+          "RULE → answer at the jati level, argue with the varna template",
+          "Sanskritisation, dominant caste, secularisation, politicisation and caste-class mobility explain change without implying disappearance."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VARNA → four-fold textual ideal type, normative",
+            "JATI → local endogamous birth group, observable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUB-JATI → narrower endogamy circle inside a jati",
+            "RULE → answer at the jati level, argue with the varna template"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Caste joins varna ideology, locally ranked jatis, endogamy, hereditary occupation, purity-pollution, social closure and power",
+            "Sanskritisation, dominant caste, secularisation, politicisation and caste-class mobility explain change without implying disappearance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → answer at the jati level, argue with the varna template.",
+      "source_references": [
+        "Varna, jati and the level problem",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR FEATURES AND THEIR RATE OF CHANGE",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR FEATURES AND THEIR RATE OF CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "MOST CONSISTENTLY OBSERVED, CHANGES LEAST",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCALLY RANKED BY PURITY AND POLLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HEREDITARY MEMBERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "FIXED BY BIRTH",
+          "role": "primary"
+        },
+        {
+          "text": "OCCUPATION LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAKEST JOINT, BROKEN BY URBAN WORK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ENDOGAMY → most consistently observed, changes least",
+        "HIERARCHY → locally ranked by purity and pollution",
+        "HEREDITARY MEMBERSHIP → fixed by birth",
+        "OCCUPATION LINK → weakest joint, broken by urban work"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ENDOGAMY → most consistently observed, changes least",
+          "HEREDITARY MEMBERSHIP → fixed by birth",
+          "ENDOGAMY → most consistently observed, changes least"
+        ],
+        [
+          "HIERARCHY → locally ranked by purity and pollution",
+          "OCCUPATION LINK → weakest joint, broken by urban work",
+          "HIERARCHY → locally ranked by purity and pollution"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENDOGAMY → most consistently observed, changes least",
+            "HIERARCHY → locally ranked by purity and pollution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HEREDITARY MEMBERSHIP → fixed by birth",
+            "OCCUPATION LINK → weakest joint, broken by urban work"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENDOGAMY → most consistently observed, changes least",
+            "HIERARCHY → locally ranked by purity and pollution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OCCUPATION LINK → weakest joint, broken by urban work.",
+      "source_references": [
+        "The four defining features",
+        "Occupational decoupling",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MARRIAGE RULES THAT OPERATE TOGETHER",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MARRIAGE RULES THAT OPERATE TOGETHER",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE ENDOGAMY",
+          "role": "outcome"
+        },
+        {
+          "text": "MARRY WITHIN THE JATI",
+          "role": "comparison"
+        },
+        {
+          "text": "GOTRA EXOGAMY",
+          "role": "evidence"
+        },
+        {
+          "text": "MARRY OUTSIDE THE CLAN LINEAGE",
+          "role": "primary"
+        },
+        {
+          "text": "A BOUNDED BUT NON-CONSANGUINEOUS MARRIAGE CIRCLE",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE IS REPRODUCED GENERATION BY GENERATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CASTE ENDOGAMY → marry within the jati",
+        "GOTRA EXOGAMY → marry outside the clan lineage",
+        "RESULT → a bounded but non-consanguineous marriage circle",
+        "CONSEQUENCE → caste is reproduced generation by generation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CASTE ENDOGAMY → marry within the jati",
+            "GOTRA EXOGAMY → marry outside the clan lineage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → a bounded but non-consanguineous marriage circle",
+            "CONSEQUENCE → caste is reproduced generation by generation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASTE ENDOGAMY → marry within the jati",
+            "GOTRA EXOGAMY → marry outside the clan lineage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → a bounded but non-consanguineous marriage circle.",
+      "source_references": [
+        "Endogamy and gotra exogamy",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MOBILITY STRATEGIES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MOBILITY STRATEGIES",
+          "role": "primary"
+        },
+        {
+          "text": "EMULATE A LOCALLY HIGHER-STATUS CASTE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIMS RANK INSIDE THE EXISTING HIERARCHY",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW VALUES FROM WESTERN CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "CAN SUBVERT THE HIERARCHY RATHER THAN CONFIRM IT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SANSKRITISATION → emulate a locally higher-status caste",
+        "EFFECT → claims rank inside the existing hierarchy",
+        "WESTERNISATION → new values from Western contact",
+        "EFFECT → can subvert the hierarchy rather than confirm it"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SANSKRITISATION → emulate a locally higher-status caste",
+          "WESTERNISATION → new values from Western contact",
+          "SANSKRITISATION → emulate a locally higher-status caste"
+        ],
+        [
+          "EFFECT → claims rank inside the existing hierarchy",
+          "EFFECT → can subvert the hierarchy rather than confirm it",
+          "EFFECT → claims rank inside the existing hierarchy"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SANSKRITISATION → emulate a locally higher-status caste",
+            "EFFECT → claims rank inside the existing hierarchy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WESTERNISATION → new values from Western contact",
+            "EFFECT → can subvert the hierarchy rather than confirm it"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SANSKRITISATION → emulate a locally higher-status caste",
+            "EFFECT → claims rank inside the existing hierarchy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → can subvert the hierarchy rather than confirm it.",
+      "source_references": [
+        "Sanskritisation",
+        "Westernisation and the contrast",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DOMINANT CASTE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DOMINANT CASTE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "IS THE CASTE LOCALLY NUMEROUS",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES IT HOLD A SIGNIFICANT SHARE OF LOCAL LAND",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES IT CONTROL POLITICAL AND PANCHAYAT POSITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMINANCE CAN SIT BELOW THE RITUAL TOP",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NUMBERS → is the caste locally numerous",
+        "LAND → does it hold a significant share of local land",
+        "OFFICE → does it control political and Panchayat positions",
+        "VERDICT → dominance can sit below the ritual top"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NUMBERS → is the caste locally numerous",
+            "LAND → does it hold a significant share of local land"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICE → does it control political and Panchayat positions",
+            "VERDICT → dominance can sit below the ritual top"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NUMBERS → is the caste locally numerous",
+            "LAND → does it hold a significant share of local land"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → dominance can sit below the ritual top.",
+      "source_references": [
+        "The dominant caste",
+        "Srinivas's village evidence",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CASTE AND CLASS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CASTE AND CLASS",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE RANK AND ECONOMIC CLASS COINCIDE LOCALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "RICH AND POOR HOUSEHOLDS INSIDE ONE CASTE",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN EMPLOYMENT AND MARKET CREDENTIALS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE OVERLAP IS LOOSENING, NOT ABOLISHED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OVERLAP → caste rank and economic class coincide locally",
+        "CROSS-CUTTING → rich and poor households inside one caste",
+        "DRIVER → urban employment and market credentials",
+        "LIMIT → the overlap is loosening, not abolished"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OVERLAP → caste rank and economic class coincide locally",
+          "DRIVER → urban employment and market credentials",
+          "OVERLAP → caste rank and economic class coincide locally"
+        ],
+        [
+          "CROSS-CUTTING → rich and poor households inside one caste",
+          "LIMIT → the overlap is loosening, not abolished",
+          "CROSS-CUTTING → rich and poor households inside one caste"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OVERLAP → caste rank and economic class coincide locally",
+            "CROSS-CUTTING → rich and poor households inside one caste"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIVER → urban employment and market credentials",
+            "LIMIT → the overlap is loosening, not abolished"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OVERLAP → caste rank and economic class coincide locally",
+            "CROSS-CUTTING → rich and poor households inside one caste"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → the overlap is loosening, not abolished.",
+      "source_references": [
+        "Caste and class",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ASSOCIATIONAL REINVENTION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ASSOCIATIONAL REINVENTION",
+          "role": "primary"
+        },
+        {
+          "text": "OCCUPATIONAL ALLOCATION AND PUBLIC PURITY ENFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "REPLACED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE ASSOCIATIONS, TRUSTS AND ELECTORAL BLOCS",
+          "role": "evidence"
+        },
+        {
+          "text": "ENDOGAMY AND INTIMATE-SPHERE DISCRIMINATION",
+          "role": "primary"
+        },
+        {
+          "text": "CHANGE OF REGISTER, NOT DISAPPEARANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WEAKENED → occupational allocation and public purity enforcement",
+        "REPLACED BY → caste associations, trusts and electoral blocs",
+        "UNCHANGED → endogamy and intimate-sphere discrimination",
+        "VERDICT → change of register, not disappearance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WEAKENED → occupational allocation and public purity enforcement",
+            "REPLACED BY → caste associations, trusts and electoral blocs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNCHANGED → endogamy and intimate-sphere discrimination",
+            "VERDICT → change of register, not disappearance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WEAKENED → occupational allocation and public purity enforcement",
+            "REPLACED BY → caste associations, trusts and electoral blocs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REPLACED BY → caste associations, trusts and electoral blocs.",
+      "source_references": [
+        "Associational caste",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FLUID AND STATIC RESOLVED BY LEVEL",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FLUID AND STATIC RESOLVED BY LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "STATIC LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "ENDOGAMY, HEREDITARY MEMBERSHIP, SEGREGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FLUID LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "RANK CLAIMS, DOMINANCE, MARKET MOBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "RANK IS LOCALLY CONSTRUCTED, BOUNDARY IS MARITAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PARADOX IS A LEVEL DISTINCTION, NOT A CONTRADICTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATIC LAYER → endogamy, hereditary membership, segregation",
+        "FLUID LAYER → rank claims, dominance, market mobility",
+        "WHY → rank is locally constructed, boundary is marital",
+        "ANSWER → the paradox is a level distinction, not a contradiction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATIC LAYER → endogamy, hereditary membership, segregation",
+            "FLUID LAYER → rank claims, dominance, market mobility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHY → rank is locally constructed, boundary is marital",
+            "ANSWER → the paradox is a level distinction, not a contradiction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATIC LAYER → endogamy, hereditary membership, segregation",
+            "FLUID LAYER → rank claims, dominance, market mobility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER → the paradox is a level distinction, not a contradiction.",
+      "source_references": [
+        "The fluid-and-static paradox",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "IDENTITY AXES BY ARENA",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "IDENTITY AXES BY ARENA",
+          "role": "primary"
+        },
+        {
+          "text": "JATI AND SUB-JATI DECIDE THE BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "SHRINE AND DEVOTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SECT THROUGH DOCTRINE AND LINEAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTORAL MOBILISATION",
+          "role": "primary"
+        },
+        {
+          "text": "JATI CLUSTERS AND RELIGION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPMENT GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGION AND LANGUAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MARRIAGE → jati and sub-jati decide the boundary",
+        "SHRINE AND DEVOTION → sect through doctrine and lineage",
+        "ELECTORAL MOBILISATION → jati clusters and religion",
+        "DEVELOPMENT GRIEVANCE → region and language"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MARRIAGE → jati and sub-jati decide the boundary",
+          "ELECTORAL MOBILISATION → jati clusters and religion",
+          "MARRIAGE → jati and sub-jati decide the boundary"
+        ],
+        [
+          "SHRINE AND DEVOTION → sect through doctrine and lineage",
+          "DEVELOPMENT GRIEVANCE → region and language",
+          "SHRINE AND DEVOTION → sect through doctrine and lineage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MARRIAGE → jati and sub-jati decide the boundary",
+            "SHRINE AND DEVOTION → sect through doctrine and lineage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ELECTORAL MOBILISATION → jati clusters and religion",
+            "DEVELOPMENT GRIEVANCE → region and language"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MARRIAGE → jati and sub-jati decide the boundary",
+            "SHRINE AND DEVOTION → sect through doctrine and lineage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHRINE AND DEVOTION → sect through doctrine and lineage.",
+      "source_references": [
+        "Sect, caste and arena-specific salience",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TWO MARRIAGE BOUNDARIES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO MARRIAGE BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "PARITY PROTECTS STATUS AND RESOURCE BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "BELONGING, KINSHIP AND COMMUNITY SANCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIL ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIAL MARRIAGE ACT, 1954 EXISTS ACROSS RELIGIONS",
+          "role": "institution"
+        },
+        {
+          "text": "DIFFERENT GUARDS, THEREFORE DIFFERENT SPEEDS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "VARNA IS NOT JATI, CASTE IS NOT CLASS, RITUAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTERCASTE → parity protects status and resource base",
+        "INTERRELIGIOUS → belonging, kinship and community sanction",
+        "CIVIL ROUTE → Special Marriage Act, 1954 exists across religions",
+        "VERDICT → different guards, therefore different speeds",
+        "CLOSE DISTINCTION: Varna is not jati, caste is not class, ritual rank is not"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INTERCASTE → parity protects status and resource base",
+          "VERDICT → different guards, therefore different speeds",
+          "Scheduled Caste status is a legal-administrative category rather than a complete sociological map."
+        ],
+        [
+          "INTERRELIGIOUS → belonging, kinship and community sanction",
+          "CLOSE DISTINCTION: Varna is not jati, caste is not class, ritual rank is not",
+          ""
+        ],
+        [
+          "CIVIL ROUTE → Special Marriage Act, 1954 exists across religions",
+          "identical to economic or political power, untouchability is not every caste inequality, and constitutional",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTERCASTE → parity protects status and resource base",
+            "INTERRELIGIOUS → belonging, kinship and community sanction",
+            "CIVIL ROUTE → Special Marriage Act, 1954 exists across religions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERDICT → different guards, therefore different speeds",
+            "CLOSE DISTINCTION: Varna is not jati, caste is not class, ritual rank is not",
+            "identical to economic or political power, untouchability is not every caste inequality, and constitutional"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Scheduled Caste status is a legal-administrative category rather than a complete sociological map."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Varna is not jati, caste is not class, ritual rank is not identical to economic or political power, untouchability is not every caste inequality, and constitutional Scheduled Caste status is a legal-administrative category rather than a complete sociological map.",
+      "source_references": [
+        "Marriage boundaries and the civil route",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MEASUREMENT STATUS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEASUREMENT STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "PIB 30 APRIL 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE ENUMERATION ANNOUNCED FOR CENSUS 2027",
+          "role": "comparison"
+        },
+        {
+          "text": "GAZETTE S.O. 2681(E)",
+          "role": "evidence"
+        },
+        {
+          "text": "FIXES THE REFERENCE DATES",
+          "role": "primary"
+        },
+        {
+          "text": "PROSPECTIVE, SO NO CASTE COUNT MAY BE QUOTED",
+          "role": "caution"
+        },
+        {
+          "text": "NOT INDIA'S FIRST HISTORICAL CASTE ENUMERATION",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PIB 30 APRIL 2025 → caste enumeration announced for Census 2027",
+        "GAZETTE S.O. 2681(E) → fixes the reference dates",
+        "STATUS → prospective, so no caste count may be quoted",
+        "LIMIT → not India's first historical caste enumeration",
+        "EVIDENCE LIMIT: Articles 15-17, 46, 330-342A and reservation institutions set legal boundaries, but legal prohibition"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PIB 30 APRIL 2025 → caste enumeration announced for Census 2027",
+          "LIMIT → not India's first historical caste enumeration",
+          "Patidar, Dalit and regional caste dynamics without homogenising communities or inferring causes from aggregate correlations."
+        ],
+        [
+          "GAZETTE S.O. 2681(E) → fixes the reference dates",
+          "EVIDENCE LIMIT: Articles 15-17, 46, 330-342A and reservation institutions set legal boundaries, but legal prohibition does not equal",
+          ""
+        ],
+        [
+          "STATUS → prospective, so no caste count may be quoted",
+          "compare Jat, Maratha,",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PIB 30 APRIL 2025 → caste enumeration announced for Census 2027",
+            "GAZETTE S.O. 2681(E) → fixes the reference dates",
+            "STATUS → prospective, so no caste count may be quoted"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → not India's first historical caste enumeration",
+            "EVIDENCE LIMIT: Articles 15-17, 46, 330-342A and reservation institutions set legal boundaries, but legal prohibition does not equal",
+            "compare Jat, Maratha,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Patidar, Dalit and regional caste dynamics without homogenising communities or inferring causes from aggregate correlations."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Patidar, Dalit and regional caste dynamics without homogenising communities or inferring causes from aggregate correlations.",
+      "source_references": [
+        "Measurement status and the complete answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CASTE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CASTE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE LEVEL AND THE DEMAND FAMILY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURE, MOBILITY, DOMINANCE, ASSOCIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT CHANGED AGAINST WHAT DID NOT",
+          "role": "caution"
+        },
+        {
+          "text": "ARENA-SPECIFIC VERDICT WITH THE MEASUREMENT CAVEAT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the level and the demand family",
+        "BODY → structure, mobility, dominance, association",
+        "TENSION → what changed against what did not",
+        "CLOSE → arena-specific verdict with the measurement caveat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the level and the demand family",
+            "BODY → structure, mobility, dominance, association"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TENSION → what changed against what did not",
+            "CLOSE → arena-specific verdict with the measurement caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the level and the demand family",
+            "BODY → structure, mobility, dominance, association"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → arena-specific verdict with the measurement caveat.",
+      "source_references": [
+        "Measurement status and the complete answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\02_Caste-System-Structure-and-Contemporary-Dynamics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g2\\indian-society-02_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE ASSOCIATIONS AS POLITICAL INTERMEDIARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "JATI-LEVEL BODIES INCREASINGLY",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE-CENSUS DEBATE (SOCIOLOGICAL, NOT ENUMERATION-METHODOLOGY)",
+          "role": "caution"
+        },
+        {
+          "text": "DEMANDS FOR",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVATION AS A STRUCTURAL RESPONSE (CROSS-LINKED, NOT RESTATED)",
+          "role": "caution"
+        },
+        {
+          "text": "URBAN CASTE PERSISTENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "EVEN WHERE RITUAL PRACTICES WEAKEN, CASTE-BASED NETWORKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Caste associations as political intermediaries: jati-level bodies increasingly",
+            "CAUTION: Caste-census debate (sociological, not enumeration-methodology): demands for",
+            "Reservation as a structural response (cross-linked, not restated): constitutional",
+            "CAUTION: Urban caste persistence: even where ritual practices weaken, caste-based networks"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 1: a Sanskritising jati that gains ritual respectability but remains",
+            "CAUTION: Boundary case 2: a numerically dominant but ritually middling caste controlling a",
+            "CAUTION: Boundary case 3: an intercaste marriage between two economically equal",
+            "CAUTION: Sanskritisation's ceiling: emulation can raise local ritual standing but cannot by"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Marriage-trend generalisation risk: the 2024 PYQ's trend (rising intercaste,",
+            "M.N. Srinivas developed both Sanskritisation and dominant caste from his Rampura",
+            "Dominant caste is defined by numbers + land + political power, independent of ritual",
+            "Sanskritisation operates within the existing hierarchy; Westernisation introduces"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

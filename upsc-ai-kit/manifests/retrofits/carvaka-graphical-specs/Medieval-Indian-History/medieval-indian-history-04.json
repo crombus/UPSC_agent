@@ -1,0 +1,1071 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-04",
+  "subject": "Medieval-Indian-History",
+  "title": "THE KHALJIS: ALAUDDIN KHALJI & MARKET REFORMS",
+  "short_route": "KHALJI PHASE CHRONOLOGY → THE KHALJI REVOLUTION DEBATE → ACCESSION AND ANTI-REBELLION CONTROLS → MONGOL PRESSURE AND ARMY → EXPANSION AND CONTROL ZONES → AGRARIAN REVENUE ENGINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-04_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-03-04-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "03e56383cb8d36286fd9fb9822a40e2841575546d7688f84873c3d37fe815f80",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "KHALJI PHASE CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KHALJI PHASE CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "1290 JALALUDDIN",
+          "role": "outcome"
+        },
+        {
+          "text": "1296 ALAUDDIN SEIZES POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "1297-1306 MAJOR MONGOL CRISES AND NORTHERN CAMPAIGNS",
+          "role": "evidence"
+        },
+        {
+          "text": "1303 CHITTOR AND DELHI-SIRI CRISIS",
+          "role": "primary"
+        },
+        {
+          "text": "1308-1311 DECCAN EXPEDITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1311 ALAI DARWAZA",
+          "role": "comparison"
+        },
+        {
+          "text": "1316 ALAUDDIN DIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1290 Jalaluddin → 1296 Alauddin seizes power",
+        "1297-1306 major Mongol crises and northern campaigns",
+        "1303 Chittor and Delhi-Siri crisis → 1308-1311 Deccan expeditions",
+        "1311 Alai Darwaza → 1316 Alauddin dies",
+        "1320 Khusrau Khan falls; Tughlaq transition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1290 Jalaluddin → 1296 Alauddin seizes power",
+            "1297-1306 major Mongol crises and northern campaigns"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1303 Chittor and Delhi-Siri crisis → 1308-1311 Deccan expeditions",
+            "1311 Alai Darwaza → 1316 Alauddin dies"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1320 Khusrau Khan falls; Tughlaq transition",
+            "RULE: campaigns, reforms and succession must stay on one dated spine."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: campaigns, reforms and succession must stay on one dated spine.",
+      "answer_line": "campaigns, reforms and succession must stay on one dated spine.",
+      "source_references": [
+        "Chronology",
+        "Scope"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE KHALJI REVOLUTION DEBATE",
+      "structural_type": "comparison",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE KHALJI REVOLUTION DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI, IQTA, COURT IDIOM AND FRONTIER PROBLEM",
+          "role": "institution"
+        },
+        {
+          "text": "OLD TURKISH MONOPOLY OF HIGH OFFICE WEAKENED",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT A MASS REVOLUTION",
+          "role": "caution"
+        },
+        {
+          "text": "CULTIVATORS AND ARTISANS DID NOT GAIN EQUALITY",
+          "role": "caution"
+        },
+        {
+          "text": "BEST FORMULA",
+          "role": "outcome"
+        },
+        {
+          "text": "BROADER ELITE RECRUITMENT PLUS INTENSIFIED ROYAL COERCION",
+          "role": "comparison"
+        },
+        {
+          "text": "KHALJIS DID NOT EXCLUDE ALL TURKS OR ABOLISH INHERITED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONTINUITY → Delhi, iqta, court idiom and frontier problem",
+        "CHANGE → old Turkish monopoly of high office weakened",
+        "NOT A MASS REVOLUTION → cultivators and artisans did not gain equality",
+        "BEST FORMULA → broader elite recruitment plus intensified royal coercion",
+        "LIMIT → Khaljis did not exclude all Turks or abolish inherited institutions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONTINUITY → Delhi, iqta, court idiom and frontier problem",
+            "CHANGE → old Turkish monopoly of high office weakened"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "NOT A MASS REVOLUTION → cultivators and artisans did not gain equality",
+            "BEST FORMULA → broader elite recruitment plus intensified royal coercion"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT → Khaljis did not exclude all Turks or abolish inherited institutions.",
+            "CONTINUITY → Delhi, iqta, court idiom and frontier problem"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → Khaljis did not exclude all Turks or abolish inherited institutions.",
+      "source_references": [
+        "Khalji revolution",
+        "Elite composition"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ACCESSION AND ANTI-REBELLION CONTROLS",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ACCESSION AND ANTI-REBELLION CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "DEVAGIRI LOOT",
+          "role": "outcome"
+        },
+        {
+          "text": "WEALTH AND POLITICAL LEVERAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MURDER OF JALALUDDIN",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGITIMACY AND CONSPIRACY ANXIETY CONFISCATION + INTELLIGENCE + LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "COERCIVE MONARCHY ANSWERED THE REGIME'S INSECURE ORIGIN.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEVAGIRI LOOT → wealth and political leverage",
+        "MURDER OF JALALUDDIN → legitimacy and conspiracy anxiety confiscation + intelligence + limits on",
+        "noble feasts, wine and marriage ties isolate elite networks and finance the crown",
+        "VERDICT: coercive monarchy answered the regime's insecure origin."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DEVAGIRI LOOT → wealth and political leverage",
+            "MURDER OF JALALUDDIN → legitimacy and conspiracy anxiety confiscation + intelligence + limits on"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "noble feasts, wine and marriage ties isolate elite networks and finance the crown",
+            "VERDICT: coercive monarchy answered the regime's insecure origin."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DEVAGIRI LOOT → wealth and political leverage",
+            "MURDER OF JALALUDDIN → legitimacy and conspiracy anxiety confiscation + intelligence + limits on"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: coercive monarchy answered the regime's insecure origin.",
+      "source_references": [
+        "Alauddin's accession",
+        "Anti-rebellion ordinances"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MONGOL PRESSURE AND ARMY REFORM",
+      "structural_type": "institution-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MONGOL PRESSURE AND ARMY REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "MONGOL ASSAULTS",
+          "role": "outcome"
+        },
+        {
+          "text": "FORTIFIED DELHI-SIRI AND FRONTIER VIGILANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGE STANDING CAVALRY",
+          "role": "evidence"
+        },
+        {
+          "text": "CASH SALARY AND REGULAR INSPECTION",
+          "role": "primary"
+        },
+        {
+          "text": "HORSE BRANDING",
+          "role": "outcome"
+        },
+        {
+          "text": "DESCRIPTIVE ROLL",
+          "role": "comparison"
+        },
+        {
+          "text": "FORTS + COMMANDERS + INTELLIGENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MONGOL ASSAULTS → fortified Delhi-Siri and frontier vigilance",
+        "LARGE STANDING CAVALRY → cash salary and regular inspection",
+        "DAGH → horse branding",
+        "CHEHRA → descriptive roll",
+        "FORTS + COMMANDERS + INTELLIGENCE → operational defence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MONGOL ASSAULTS → fortified Delhi-Siri and frontier vigilance",
+            "LARGE STANDING CAVALRY → cash salary and regular inspection"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DAGH → horse branding",
+            "CHEHRA → descriptive roll"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FORTS + COMMANDERS + INTELLIGENCE → operational defence",
+            "DEPENDENCE → affordable grain prices were tied to sustaining real wages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEPENDENCE → affordable grain prices were tied to sustaining real wages.",
+      "source_references": [
+        "Mongol threat",
+        "Dagh",
+        "Chehra",
+        "Siri"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EXPANSION AND CONTROL ZONES",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EXPANSION AND CONTROL ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "DELHI, UPPER DOAB AND KEY KHALISA AREAS",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTHERN CAMPAIGNS",
+          "role": "evidence"
+        },
+        {
+          "text": "GUJARAT, RANTHAMBORE, CHITTOR AND MALWA",
+          "role": "primary"
+        },
+        {
+          "text": "DECCAN SUBORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVAGIRI, WARANGAL, DWARASAMUDRA AND MABAR",
+          "role": "comparison"
+        },
+        {
+          "text": "ANNEXATION, GARRISON, TRIBUTE, TREASURE AND LOCAL RULER RETENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT CORE → Delhi, upper doab and key khalisa areas",
+        "NORTHERN CAMPAIGNS → Gujarat, Ranthambore, Chittor and Malwa",
+        "DECCAN SUBORDINATION → Devagiri, Warangal, Dwarasamudra and Mabar",
+        "METHODS → annexation, garrison, tribute, treasure and local ruler retention",
+        "RULE: military reach, tributary submission and direct administration differ."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "DIRECT CORE → Delhi, upper doab and key khalisa areas",
+            "NORTHERN CAMPAIGNS → Gujarat, Ranthambore, Chittor and Malwa"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "DECCAN SUBORDINATION → Devagiri, Warangal, Dwarasamudra and Mabar",
+            "METHODS → annexation, garrison, tribute, treasure and local ruler retention"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: military reach, tributary submission and direct administration differ.",
+            "DIRECT CORE → Delhi, upper doab and key khalisa areas"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: military reach, tributary submission and direct administration differ.",
+      "answer_line": "military reach, tributary submission and direct administration differ.",
+      "source_references": [
+        "Northern expansion",
+        "Deccan campaigns"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AGRARIAN REVENUE ENGINE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRARIAN REVENUE ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "MEASUREMENT + HIGH STATE DEMAND IN CORE AREAS REDUCED",
+          "role": "institution"
+        },
+        {
+          "text": "INTENSITY AND IMPLEMENTATION WERE NOT UNIFORM ACROSS THE EMPIRE.",
+          "role": "caution"
+        },
+        {
+          "text": "LARGER DIRECT REVENUE CLAIM AND TIGHTER VILLAGE-STATE LINK CASH-FINANCED",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "MEASUREMENT + high state demand in core areas reduced privileges of khuts, muqaddams and chaudhuris",
+        "larger direct revenue claim and tighter village-state link cash-financed army and weaker rural intermediaries",
+        "LIMIT: intensity and implementation were not uniform across the empire."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MEASUREMENT + high state demand in core areas reduced privileges of khuts, muqaddams and chaudhuris",
+            "larger direct revenue claim and tighter village-state link cash-financed army and weaker rural intermediaries"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT: intensity and implementation were not uniform across the empire.",
+            "MEASUREMENT + high state demand in core areas reduced privileges of khuts, muqaddams and chaudhuris"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "larger direct revenue claim and tighter village-state link cash-financed army and weaker rural intermediaries",
+            "LIMIT: intensity and implementation were not uniform across the empire."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: intensity and implementation were not uniform across the empire.",
+      "source_references": [
+        "Revenue reforms",
+        "Rural intermediaries"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MARKET INSTITUTIONAL ARCHITECTURE",
+      "structural_type": "layered-governance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARKET INSTITUTIONAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "REGISTRATION, RULES AND SUPERVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET ENFORCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "REPORTS AND INTELLIGENCE CHECKS",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPULSORY SUPPLY AND REGULATED CONDUCT",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE SCHEDULES REQUIRED INFORMATION, SUPPLY AND COERCION TOGETHER.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SULTAN / POLICY",
+        "DIWAN-I-RIYASAT → registration, rules and supervision",
+        "SHAHNA-I-MANDI → market enforcement",
+        "BARIDS / MUNHIYAN → reports and intelligence checks",
+        "MERCHANTS / TRANSPORTERS → compulsory supply and regulated conduct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SULTAN / POLICY",
+            "DIWAN-I-RIYASAT → registration, rules and supervision"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SHAHNA-I-MANDI → market enforcement",
+            "BARIDS / MUNHIYAN → reports and intelligence checks"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MERCHANTS / TRANSPORTERS → compulsory supply and regulated conduct",
+            "RESULT: price schedules required information, supply and coercion together."
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: price schedules required information, supply and coercion together.",
+      "answer_line": "price schedules required information, supply and coercion together.",
+      "source_references": [
+        "Diwan-i-Riyasat",
+        "Shahna-i-Mandi",
+        "Enforcement"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FOUR REGULATED MARKET CLUSTERS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR REGULATED MARKET CLUSTERS",
+          "role": "primary"
+        },
+        {
+          "text": "STAPLE PROVISIONING AND MILITARY REAL WAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SARAI-I-ADL AND REGISTERED TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALITY, BROKERS AND MILITARY PROCUREMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERAL GOODS",
+          "role": "primary"
+        },
+        {
+          "text": "DAILY URBAN CONSUMPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "QUOTED SCHEDULES DEPEND HEAVILY ON BARANI AND REQUIRE UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONGEST EVIDENCE CONCERNS DELHI, NOT ONE UNIFORM NATIONAL MARKET.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GRAIN → staple provisioning and military real wage",
+        "CLOTH / IMPORTS → Sarai-i-Adl and registered trade",
+        "HORSES / CATTLE / SLAVES → quality, brokers and military procurement",
+        "GENERAL GOODS → daily urban consumption",
+        "CAUTION: quoted schedules depend heavily on Barani and require unit discipline"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "GRAIN → staple provisioning and military real wage",
+          "HORSES / CATTLE / SLAVES → quality, brokers and military procurement",
+          "CAUTION: quoted schedules depend heavily on Barani and require unit discipline"
+        ],
+        [
+          "CLOTH / IMPORTS → Sarai-i-Adl and registered trade",
+          "GENERAL GOODS → daily urban consumption",
+          "SCOPE: strongest evidence concerns Delhi, not one uniform national market."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GRAIN → staple provisioning and military real wage",
+            "CLOTH / IMPORTS → Sarai-i-Adl and registered trade"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HORSES / CATTLE / SLAVES → quality, brokers and military procurement",
+            "GENERAL GOODS → daily urban consumption"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: quoted schedules depend heavily on Barani and require unit discipline",
+            "SCOPE: strongest evidence concerns Delhi, not one uniform national market."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE: strongest evidence concerns Delhi, not one uniform national market.",
+      "source_references": [
+        "Market clusters",
+        "Price schedules"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GRAIN SUPPLY AND SCARCITY RESPONSE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GRAIN SUPPLY AND SCARCITY RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "DOAB COLLECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "MERCHANT SUPPLY BANJARAS AND REGULATED TRANSPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI MARKETS AND STATE GRANARIES FIXED-PRICE SALE + SURVEILLANCE",
+          "role": "institution"
+        },
+        {
+          "text": "CONTROLLED RELEASE AND RATIONING REPORTS",
+          "role": "primary"
+        },
+        {
+          "text": "ENFORCEMENT PRESSURE AND EVASION REMAINED PART OF THE SYSTEM.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DOAB COLLECTION / MERCHANT SUPPLY banjaras and regulated transport → Delhi markets and",
+        "state granaries fixed-price sale + surveillance scarcity → controlled release and rationing reports",
+        "LIMIT: enforcement pressure and evasion remained part of the system."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DOAB COLLECTION / MERCHANT SUPPLY banjaras and regulated transport → Delhi markets and",
+            "state granaries fixed-price sale + surveillance scarcity → controlled release and rationing reports"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT: enforcement pressure and evasion remained part of the system.",
+            "DOAB COLLECTION / MERCHANT SUPPLY banjaras and regulated transport → Delhi markets and"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "state granaries fixed-price sale + surveillance scarcity → controlled release and rationing reports",
+            "LIMIT: enforcement pressure and evasion remained part of the system."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: enforcement pressure and evasion remained part of the system.",
+      "source_references": [
+        "Grain supply",
+        "Banjaras",
+        "Granaries"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MILITARY-FISCAL CAUSAL CHAIN",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MILITARY-FISCAL CAUSAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MONGOL THREAT + IMPERIAL AMBITION",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGER STANDING CAVALRY",
+          "role": "comparison"
+        },
+        {
+          "text": "CASH SALARIES CREATE PROVISIONING PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE EXTRACTION EXPANDS STATE RESOURCES",
+          "role": "institution"
+        },
+        {
+          "text": "REGULATED GRAIN SUPPLY PROTECTS SOLDIERS' REAL WAGES",
+          "role": "outcome"
+        },
+        {
+          "text": "SURVEILLANCE ENFORCES THE CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMY AFFORDABILITY, NOT WELFARE EQUALITY, IS THE STRONGEST MOTIVE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MONGOL THREAT + IMPERIAL AMBITION",
+        "larger standing cavalry",
+        "cash salaries create provisioning problem",
+        "revenue extraction expands state resources",
+        "regulated grain supply protects soldiers' real wages"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MONGOL THREAT + IMPERIAL AMBITION",
+            "larger standing cavalry",
+            "cash salaries create provisioning problem"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "revenue extraction expands state resources",
+            "regulated grain supply protects soldiers' real wages",
+            "surveillance enforces the chain"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: army affordability, not welfare equality, is the strongest motive."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: army affordability, not welfare equality, is the strongest motive.",
+      "answer_line": "army affordability, not welfare equality, is the strongest motive.",
+      "source_references": [
+        "Military-fiscal system",
+        "Market-reform objectives"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EFFECTIVENESS, SOURCES AND LIMITS",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EFFECTIVENESS, SOURCES AND LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "DETAILED MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "LATER, MORALISING AND ARISTOCRATIC",
+          "role": "comparison"
+        },
+        {
+          "text": "CAMPAIGNS AND COURT CULTURE",
+          "role": "institution"
+        },
+        {
+          "text": "CONTEMPORARY PANEGYRIC",
+          "role": "primary"
+        },
+        {
+          "text": "DURABLE CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT PROOF OF MARKET REACH",
+          "role": "caution"
+        },
+        {
+          "text": "PROVISIONING AND ARMY SUPPORT UNDER ALAUDDIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BARANI → detailed mechanism",
+        "later, moralising and aristocratic",
+        "KHUSRAU → campaigns and court culture",
+        "contemporary panegyric",
+        "MONUMENTS / COINS → durable claims"
+      ],
+      "matrix": [
+        [
+          "BARANI → detailed mechanism",
+          "later, moralising and aristocratic"
+        ],
+        [
+          "KHUSRAU → campaigns and court culture",
+          "contemporary panegyric"
+        ],
+        [
+          "MONUMENTS / COINS → durable claims",
+          "not proof of market reach"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "BARANI → detailed mechanism",
+            "later, moralising and aristocratic",
+            "KHUSRAU → campaigns and court culture"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "contemporary panegyric",
+            "MONUMENTS / COINS → durable claims",
+            "not proof of market reach"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "EFFECT → provisioning and army support under Alauddin",
+            "LIMIT → Delhi-centred, coercive, evasion-prone and ruler-dependent",
+            "AFTER 1316 → succession conflict exposes institutional fragility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFTER 1316 → succession conflict exposes institutional fragility.",
+      "source_references": [
+        "Sources",
+        "Effectiveness",
+        "Limits"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 04 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 04 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "KHALJI CHANGE COMBINED ELITE WIDENING AND COERCIVE MONARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "MONGOLS, CONSPIRACY AND EXPANSION",
+          "role": "comparison"
+        },
+        {
+          "text": "REVENUE + ARMY INSPECTION + MARKET INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "INFORMATION + SUPPLY + PRICE SCHEDULE + PUNISHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EFFECTIVE IN CORE OBJECTIVES, GEOGRAPHICALLY AND POLITICALLY BOUNDED",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJOR MILITARY-FISCAL EXPERIMENT, NOT SOCIALISM OR A MODERN COMMAND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → Khalji change combined elite widening and coercive monarchy",
+        "PRESSURE → Mongols, conspiracy and expansion",
+        "REFORMS → revenue + army inspection + market institutions",
+        "MECHANISM → information + supply + price schedule + punishment",
+        "ASSESS → effective in core objectives, geographically and politically bounded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → Khalji change combined elite widening and coercive monarchy",
+            "PRESSURE → Mongols, conspiracy and expansion"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "REFORMS → revenue + army inspection + market institutions",
+            "MECHANISM → information + supply + price schedule + punishment"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ASSESS → effective in core objectives, geographically and politically bounded",
+            "CLOSE → major military-fiscal experiment, not socialism or a modern command economy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → major military-fiscal experiment, not socialism or a modern command economy.",
+      "source_references": [
+        "Answer architecture",
+        "Synthesis"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE KHALJIS",
+          "role": "outcome"
+        },
+        {
+          "text": "ALAUDDIN KHALJI — AGRARIAN & MARKET REFORMS — ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "comparison"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Khaljis: Alauddin Khalji — Agrarian & Market Reforms — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Balban's precedent mattered: he built an exclusive, high-born Turkish nobility , dealt ruthlessly with rivals,",
+            "and used barids (confidential spies) — a template of centralised control Alauddin extended and hardened."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

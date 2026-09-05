@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a manually authored Moore-Russell-Early-Wittgenstein analytic-philosophy atlas",
+  "generated_on": "2026-08-26",
+  "scope": "Philosophy Optional Paper I Western Philosophy topic 06 only",
+  "constraints": {
+    "panel_count_per_topic": 10,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "philosophy-paper-i-western-philosophy-06",
+      "title": "Moore, Russell and Early Wittgenstein",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g2\\topic-06_Complete-Learning-Session_2026-08-26.md",
+      "source_record": "philosophy-paper-i-western-philosophy-06:learner-v2:g2",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved Cārvāka design reference and every legacy topic-06 generation remain immutable.",
+      "panels": [
+        {
+          "panel_title": "Analytic revolt and the distinct programmes of the trio",
+          "structural_type": "three-programme-continuous-rail",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "START -> revolt against British idealist systems through disciplined analysis.",
+            "COMMON DEMAND -> clarity, distinctions and refusal to let theory erase evident facts.",
+            "MOORE -> protects common-sense propositions by comparing epistemic certainty.",
+            "RUSSELL -> exposes logical form and replaces problematic entities by constructions.",
+            "EARLY WITTGENSTEIN -> explains representation and draws the boundary of saying.",
+            "UNITY -> analysis replaces speculative system-building as philosophy's main tool.",
+            "DIFFERENCE -> epistemic defence | logical reduction | transcendental delimitation.",
+            "NOT LOGICAL POSITIVISM -> verificationism is a later doctrine, not their common creed.",
+            "NOT ONE ATOMISM -> Russell's acquaintance-based atoms differ from Tractarian objects.",
+            "ANSWER LINE -> shared analytic direction does not erase distinct standards of success."
+          ]
+        },
+        {
+          "panel_title": "Moore's common-sense propositions and external-world proof",
+          "structural_type": "certainty-proof-objection-reply-chain",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "1925 DEFENCE -> qualified truisms about body, earth, other persons and temporal life.",
+            "KNOWING P != possessing a complete philosophical ANALYSIS of P.",
+            "ANALYTICAL DIFFICULTY about body/material object does not cancel ordinary knowledge.",
+            "1939 PROOF -> here is one hand + here is another -> external objects exist.",
+            "PROOF TEST 1 -> premises differ from conclusion; TEST 2 -> premises are known.",
+            "PROOF TEST 3 -> conclusion follows: hands are things met with in space.",
+            "SCEPTIC -> you assume precisely what dream or deception scenarios place in doubt.",
+            "MOORE -> hand-premises are more certain than any premise used to deny them.",
+            "LIMIT -> formally valid proof does not provide a neutral criterion of knowledge.",
+            "RESULT -> external-world proof shifts the burden; it is not total scepticism's end."
+          ]
+        },
+        {
+          "panel_title": "Moore's awareness-object distinction and transparency",
+          "structural_type": "act-object-transparency-split",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "TARGET -> esse est percipi: the object's being is identified with being perceived.",
+            "BLUE EXPERIENCE -> AWARENESS directed toward BLUE; green has the same relation.",
+            "COMMON ELEMENT -> awareness/consciousness; VARIABLE ELEMENT -> presented object.",
+            "THEREFORE -> awareness != blue and awareness != green.",
+            "TRANSPARENCY / DIAPHANOUSNESS -> attention passes through awareness to its object.",
+            "IDEALIST TEMPTATION -> because the act is elusive, identify sensation with its object.",
+            "MOOREAN REPLY -> being overlooked does not make awareness identical with the object.",
+            "NARROW RESULT -> the identity route from object to awareness is blocked.",
+            "LIMIT -> distinguishability does not prove every object exists unperceived.",
+            "BERKELEY CAUTION -> Moore does not refute Berkeley's entire philosophy in one stroke."
+          ]
+        },
+        {
+          "panel_title": "Russell's logical analysis, facts and atomic propositions",
+          "structural_type": "grammar-logic-fact-correspondence-map",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "ANALYTIC PROGRAMME -> surface grammar may conceal the proposition's logical form.",
+            "WORLD -> facts, not merely things; a fact is an obtaining structured complex.",
+            "CONSTITUENTS -> particulars plus universals/relations combine in atomic facts.",
+            "LANGUAGE -> names/predicates combine in atomic propositions without connectives.",
+            "TRUE ATOMIC PROPOSITION <-> corresponding atomic fact obtains.",
+            "MOLECULAR PROPOSITION -> truth-function of atomic propositions.",
+            "LOGICAL INDEPENDENCE -> qualified ideal of the atomic base, not an easy empirical fact.",
+            "ANALYSIS -> reaches simpler constituents; atoms are logical, not microscopic particles.",
+            "LOGICALLY PERFECT LANGUAGE -> regulative model whose final vocabulary is disputed.",
+            "VERDICT -> method clarifies commitment even if the final atomist ontology is unstable."
+          ]
+        },
+        {
+          "panel_title": "Acquaintance, description and the epistemic work of analysis",
+          "structural_type": "two-route-epistemic-ladder",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "ACQUAINTANCE -> direct, presentational and non-inferential awareness of a constituent.",
+            "DESCRIPTION -> indirect knowledge of the unique thing satisfying 'the F'.",
+            "LOGICALLY PROPER NAME -> directly refers within acquaintance; ordinary names may not.",
+            "DENOTING PHRASE -> analysed contextually rather than treated as a genuine name.",
+            "PRINCIPLE -> understood propositions must reduce to acquainted constituents.",
+            "BISMARCK ROUTE -> the first Chancellor of the German Empire, not direct acquaintance.",
+            "DESCRIPTION THEORY -> removes Bismarck as an unacquainted logical constituent.",
+            "PRIVATE-BASE OBJECTION -> sense-data may not ground public knowledge neutrally.",
+            "KRIPKE LIMIT -> ordinary names need not be disguised descriptions.",
+            "RESULT -> Russell's logical instrument outlives much of its original epistemology."
+          ]
+        },
+        {
+          "panel_title": "Logical constructions, inferred entities and logical fictions",
+          "structural_type": "replacement-mechanism-and-distinction-matrix",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "MAXIM -> wherever possible, substitute logical constructions for inferred entities.",
+            "OLD ROUTE -> data/appearances -> infer an additional unknown entity X.",
+            "NEW ROUTE -> define X-talk as a structure of relations among safer entities.",
+            "CONSTRUCTION -> derived structure preserving explanatory work.",
+            "INFERRED ENTITY -> primitive posit avoided when a construction succeeds.",
+            "LOGICAL FICTION -> useful contextual shorthand, not an additional denoted object.",
+            "EXAMPLES -> physical objects/sense-data; numbers/classes; points/volumes, with caution.",
+            "ATOM != CONSTRUCTION -> basic residue versus derived structure.",
+            "OBJECTION -> private or possible sense-data may not reconstruct public endurance.",
+            "LIMITED REPLY -> the wherever-possible maxim survives better than total reduction."
+          ]
+        },
+        {
+          "panel_title": "Incomplete symbols and definite-description analysis",
+          "structural_type": "contextual-definition-quantifier-stages",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "INCOMPLETE SYMBOL -> no standalone denotation; defined only in proposition-context.",
+            "DESCRIPTION -> 'the F' appears to name but disappears on logical analysis.",
+            "STAGE 1 EXISTENCE -> at least one x is F.",
+            "STAGE 2 UNIQUENESS -> every y that is F is identical with x.",
+            "STAGE 3 PREDICATION -> that x is G.",
+            "KING OF FRANCE -> existence fails, so the standard conjunction is false.",
+            "GOLDEN MOUNTAIN -> no ghostly object; apparent subject is eliminated.",
+            "SCOPE -> negation outside the whole claim differs from negating the predicate.",
+            "STRAWSON -> ordinary use presupposes existence; Russell stresses truth conditions.",
+            "RESULT -> grammatical completeness can conceal logical incompleteness."
+          ]
+        },
+        {
+          "panel_title": "Tractarian objects, states of affairs, facts and pictures",
+          "structural_type": "world-language-dual-architecture",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "EARLY ONLY -> do not import later meaning-as-use, forms of life or language-games.",
+            "WORLD -> totality of FACTS, not a mere list of things.",
+            "OBJECTS -> simple combinatorial possibilities; their nature is not concretely specified.",
+            "STATE OF AFFAIRS -> possible combination of objects; obtaining state -> FACT.",
+            "NAME -> corresponds to object; names combine in an ELEMENTARY PROPOSITION.",
+            "PROPOSITION -> pictures a possible state of affairs through shared LOGICAL FORM.",
+            "PICTURE != VISUAL RESEMBLANCE -> medium may differ while possibility matches.",
+            "TRUE -> pictured arrangement obtains; FALSE -> it does not, yet proposition has sense.",
+            "SENSE -> possession of truth-conditions or a possible situation in logical space.",
+            "LIMIT -> no uncontested examples of fully analysed elementary propositions are given."
+          ]
+        },
+        {
+          "panel_title": "Truth-functions, logical scaffolding and limiting cases",
+          "structural_type": "truth-operation-and-sense-boundary",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "ELEMENTARY BASE -> propositions representing possible independent states of affairs.",
+            "TRUTH-OPERATION -> builds complex propositions from truth-values of the base.",
+            "MOLECULAR p AND q / p OR q / NOT p -> no extra logical object is represented.",
+            "LOGICAL CONSTANTS -> operations, not names standing for entities.",
+            "LOGIC -> shows the formal scaffolding of world and language; it states no facts.",
+            "TAUTOLOGY -> always true, well formed, but says nothing contingent.",
+            "CONTRADICTION -> always false, well formed, but says nothing contingent.",
+            "NONSENSE -> fails to picture any possible fact; not identical with tautology.",
+            "CRITICISM -> colour exclusion and belief contexts pressure independence/functionality.",
+            "VERDICT -> architecture is powerful but its elementary base remains underspecified."
+          ]
+        },
+        {
+          "panel_title": "Saying-showing, comparative synthesis and answer spine",
+          "structural_type": "boundary-criticism-answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "SAYING -> factual propositions state how things contingently stand.",
+            "SHOWING -> logical form, necessity and limits manifest in meaningful symbolism.",
+            "ETHICS/AESTHETICS/MYSTICAL -> not ordinary facts and not simply dismissed as false.",
+            "LADDER 6.54 -> use elucidatory remarks, see the boundary, then discard the rungs.",
+            "SELF-REFERENCE -> the Tractatus's own remarks appear nonsensical by its criterion.",
+            "REPLY -> self-consuming elucidation is deliberate; RESIDUAL -> communication remains hard.",
+            "MOORE -> protect common-sense knowledge through analysis and certainty comparison.",
+            "RUSSELL -> reveal logical form and construct/reduce problematic entities.",
+            "EARLY WITTGENSTEIN -> delimit meaningful representation through say/show.",
+            "POSITIVISM BOUND -> later verificationism must not be imported into the Tractatus.",
+            "ANSWER SPINE -> thesis -> definitions -> argument -> example -> objection/reply -> verdict."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-04T11:42:33.473122+05:30",
+  "subject": "Environment and Ecology",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 15,
+  "topic_validations_passed": 15,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_environment_and_ecology_deep_review (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_allocation_and_prepublication_are_race_safe (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_answer_contract_is_exam_executable_and_specific (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_contract_enforces_environment_precision (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_every_environment_generator_test_is_wired (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_full_library_count_and_identity_guards_are_dynamic (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_inventory_is_utf8_nul_safe_and_verifies_paths (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_live_tracker_scope_is_twenty_four_or_twenty_eight (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_manifest_order_scope_and_provenance_owners_are_exact (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_review_controls_cover_all_twenty_eight_topics (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_review_lines_and_paths_are_windows_safe (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\ntest_topic_26_preserves_dedicated_disaster_ownership (test_regenerate_environment_and_ecology_deep_review.EnvironmentAndEcologyDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 1.087s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_01_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_01_sequential.EnvironmentAndEcology01Tests) ... ok\ntest_direct_pyq_is_in_basic_and_practice (test_generate_environment_and_ecology_01_sequential.EnvironmentAndEcology01Tests) ... ok\ntest_live_attempts_are_honest (test_generate_environment_and_ecology_01_sequential.EnvironmentAndEcology01Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_01_sequential.EnvironmentAndEcology01Tests) ... ok\ntest_precision_vocabulary (test_generate_environment_and_ecology_01_sequential.EnvironmentAndEcology01Tests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.090s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_02_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_02_sequential.EnvironmentAndEcology02Tests) ... ok\ntest_cycle_and_pyramid_boundaries (test_generate_environment_and_ecology_02_sequential.EnvironmentAndEcology02Tests) ... ok\ntest_live_attempts_are_honest (test_generate_environment_and_ecology_02_sequential.EnvironmentAndEcology02Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_02_sequential.EnvironmentAndEcology02Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.093s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_03_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_03_sequential.EnvironmentAndEcology03Tests) ... ok\ntest_live_attempts_are_honest (test_generate_environment_and_ecology_03_sequential.EnvironmentAndEcology03Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_03_sequential.EnvironmentAndEcology03Tests) ... ok\ntest_succession_and_biome_boundaries (test_generate_environment_and_ecology_03_sequential.EnvironmentAndEcology03Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.086s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_04_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_04_sequential.EnvironmentAndEcology04Tests) ... ok\ntest_level_and_status_boundaries (test_generate_environment_and_ecology_04_sequential.EnvironmentAndEcology04Tests) ... ok\ntest_live_attempts_are_honest (test_generate_environment_and_ecology_04_sequential.EnvironmentAndEcology04Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_04_sequential.EnvironmentAndEcology04Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.083s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_05_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_assessment_and_distribution_boundaries (test_generate_environment_and_ecology_05_sequential.EnvironmentAndEcology05Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_05_sequential.EnvironmentAndEcology05Tests) ... ok\ntest_live_attempts_are_honest (test_generate_environment_and_ecology_05_sequential.EnvironmentAndEcology05Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_05_sequential.EnvironmentAndEcology05Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.081s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_06_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_category_overlay_and_boundary_distinctions (test_generate_environment_and_ecology_06_sequential.EnvironmentAndEcology06Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_06_sequential.EnvironmentAndEcology06Tests) ... ok\ntest_mains_pyq_is_carried (test_generate_environment_and_ecology_06_sequential.EnvironmentAndEcology06Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_06_sequential.EnvironmentAndEcology06Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.081s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_07_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_07_sequential.EnvironmentAndEcology07Tests) ... ok\ntest_designation_and_status_boundaries (test_generate_environment_and_ecology_07_sequential.EnvironmentAndEcology07Tests) ... ok\ntest_mains_pyqs_are_carried (test_generate_environment_and_ecology_07_sequential.EnvironmentAndEcology07Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_07_sequential.EnvironmentAndEcology07Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.079s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_08_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_08_sequential.EnvironmentAndEcology08Tests) ... ok\ntest_live_statute_attempts_are_honest (test_generate_environment_and_ecology_08_sequential.EnvironmentAndEcology08Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_08_sequential.EnvironmentAndEcology08Tests) ... ok\ntest_vintage_schedule_and_authority_boundaries (test_generate_environment_and_ecology_08_sequential.EnvironmentAndEcology08Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.083s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_09_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_09_sequential.EnvironmentAndEcology09Tests) ... ok\ntest_failed_cites_pages_are_recorded (test_generate_environment_and_ecology_09_sequential.EnvironmentAndEcology09Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_09_sequential.EnvironmentAndEcology09Tests) ... ok\ntest_trade_permit_and_status_boundaries (test_generate_environment_and_ecology_09_sequential.EnvironmentAndEcology09Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.089s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_10_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_10_sequential.EnvironmentAndEcology10Tests) ... ok\ntest_migration_and_instrument_boundaries (test_generate_environment_and_ecology_10_sequential.EnvironmentAndEcology10Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_10_sequential.EnvironmentAndEcology10Tests) ... ok\ntest_provisional_amur_falcon_pyq_is_answer_free (test_generate_environment_and_ecology_10_sequential.EnvironmentAndEcology10Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.084s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_11_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_audited_mains_route_is_carried (test_generate_environment_and_ecology_11_sequential.EnvironmentAndEcology11Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_11_sequential.EnvironmentAndEcology11Tests) ... ok\ntest_forest_and_rights_category_boundaries (test_generate_environment_and_ecology_11_sequential.EnvironmentAndEcology11Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_11_sequential.EnvironmentAndEcology11Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.097s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_12_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_12_sequential.EnvironmentAndEcology12Tests) ... ok\ntest_fund_authority_and_metric_boundaries (test_generate_environment_and_ecology_12_sequential.EnvironmentAndEcology12Tests) ... ok\ntest_live_fund_failures_are_honest (test_generate_environment_and_ecology_12_sequential.EnvironmentAndEcology12Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_12_sequential.EnvironmentAndEcology12Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.093s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_13_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_air_standard_and_metric_boundaries (test_generate_environment_and_ecology_13_sequential.EnvironmentAndEcology13Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_13_sequential.EnvironmentAndEcology13Tests) ... ok\ntest_live_air_failures_are_honest (test_generate_environment_and_ecology_13_sequential.EnvironmentAndEcology13Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_13_sequential.EnvironmentAndEcology13Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.089s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_14_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_14_sequential.EnvironmentAndEcology14Tests) ... ok\ntest_live_water_failures_are_honest (test_generate_environment_and_ecology_14_sequential.EnvironmentAndEcology14Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_14_sequential.EnvironmentAndEcology14Tests) ... ok\ntest_water_standard_capacity_and_outcome_boundaries (test_generate_environment_and_ecology_14_sequential.EnvironmentAndEcology14Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.091s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_15_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_15_sequential.EnvironmentAndEcology15Tests) ... ok\ntest_live_waste_failures_are_honest (test_generate_environment_and_ecology_15_sequential.EnvironmentAndEcology15Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_15_sequential.EnvironmentAndEcology15Tests) ... ok\ntest_stream_actor_epr_and_vintage_boundaries (test_generate_environment_and_ecology_15_sequential.EnvironmentAndEcology15Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.096s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_16_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_clearance_process_and_jurisdiction_boundaries (test_generate_environment_and_ecology_16_sequential.EnvironmentAndEcology16Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_16_sequential.EnvironmentAndEcology16Tests) ... ok\ntest_live_eia_ngt_failures_are_honest (test_generate_environment_and_ecology_16_sequential.EnvironmentAndEcology16Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_16_sequential.EnvironmentAndEcology16Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.106s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_17_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_climate_science_boundaries (test_generate_environment_and_ecology_17_sequential.EnvironmentAndEcology17Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_17_sequential.EnvironmentAndEcology17Tests) ... ok\ntest_live_figure_and_ar7_honesty (test_generate_environment_and_ecology_17_sequential.EnvironmentAndEcology17Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_17_sequential.EnvironmentAndEcology17Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.102s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_18_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ar7_process_is_not_finding (test_generate_environment_and_ecology_18_sequential.EnvironmentAndEcology18Tests) ... ok\ntest_complete_contract (test_generate_environment_and_ecology_18_sequential.EnvironmentAndEcology18Tests) ... ok\ntest_ipcc_architecture_and_calibration (test_generate_environment_and_ecology_18_sequential.EnvironmentAndEcology18Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_18_sequential.EnvironmentAndEcology18Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.089s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_19_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_19_sequential.EnvironmentAndEcology19Tests) ... ok\ntest_current_outcomes_are_not_inferred (test_generate_environment_and_ecology_19_sequential.EnvironmentAndEcology19Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_19_sequential.EnvironmentAndEcology19Tests) ... ok\ntest_treaty_and_obligation_boundaries (test_generate_environment_and_ecology_19_sequential.EnvironmentAndEcology19Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.119s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_20_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_20_sequential.EnvironmentAndEcology20Tests) ... ok\ntest_conflicting_current_status_is_not_guessed (test_generate_environment_and_ecology_20_sequential.EnvironmentAndEcology20Tests) ... ok\ntest_india_policy_instrument_and_metric_boundaries (test_generate_environment_and_ecology_20_sequential.EnvironmentAndEcology20Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_20_sequential.EnvironmentAndEcology20Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.123s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_21_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_21_sequential.EnvironmentAndEcology21Tests) ... ok\ntest_market_capture_and_removal_boundaries (test_generate_environment_and_ecology_21_sequential.EnvironmentAndEcology21Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_21_sequential.EnvironmentAndEcology21Tests) ... ok\ntest_no_unsupported_live_metrics (test_generate_environment_and_ecology_21_sequential.EnvironmentAndEcology21Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.109s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_22_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_22_sequential.EnvironmentAndEcology22Tests) ... ok\ntest_current_listings_and_obligations_not_invented (test_generate_environment_and_ecology_22_sequential.EnvironmentAndEcology22Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_22_sequential.EnvironmentAndEcology22Tests) ... ok\ntest_treaty_scope_protocol_and_status_boundaries (test_generate_environment_and_ecology_22_sequential.EnvironmentAndEcology22Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.110s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_23_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_23_sequential.EnvironmentAndEcology23Tests) ... ok\ntest_current_land_and_drought_metrics_not_invented (test_generate_environment_and_ecology_23_sequential.EnvironmentAndEcology23Tests) ... ok\ntest_dryland_ldn_drought_and_quality_boundaries (test_generate_environment_and_ecology_23_sequential.EnvironmentAndEcology23Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_23_sequential.EnvironmentAndEcology23Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.104s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_24_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_complete_contract (test_generate_environment_and_ecology_24_sequential.EnvironmentAndEcology24Tests) ... ok\ntest_current_coastal_metrics_and_clearances_not_invented (test_generate_environment_and_ecology_24_sequential.EnvironmentAndEcology24Tests) ... ok\ntest_ecosystem_crz_iczm_and_blue_economy_boundaries (test_generate_environment_and_ecology_24_sequential.EnvironmentAndEcology24Tests) ... ok\ntest_no_publish_side_effects (test_generate_environment_and_ecology_24_sequential.EnvironmentAndEcology24Tests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.116s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_environment_and_ecology_25_28_sequential (cwd=tools)",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_generators_have_no_publish_side_effects (test_generate_environment_and_ecology_25_28_sequential.EnvironmentAndEcology25To28Tests) ... ok\ntest_topic_25_complete_contract_and_boundaries (test_generate_environment_and_ecology_25_28_sequential.EnvironmentAndEcology25To28Tests) ... ok\ntest_topic_26_complete_contract_and_boundaries (test_generate_environment_and_ecology_25_28_sequential.EnvironmentAndEcology25To28Tests) ... ok\ntest_topic_27_complete_contract_and_boundaries (test_generate_environment_and_ecology_25_28_sequential.EnvironmentAndEcology25To28Tests) ... ok\ntest_topic_28_complete_contract_and_boundaries (test_generate_environment_and_ecology_25_28_sequential.EnvironmentAndEcology25To28Tests) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.378s\n\nOK"
+    },
+    {
+      "command": "covered-by-group test_generate_environment_and_ecology_26_sequential",
+      "tests": 0,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Covered by the Environment 25-28 generator suite."
+    },
+    {
+      "command": "covered-by-group test_generate_environment_and_ecology_27_sequential",
+      "tests": 0,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Covered by the Environment 25-28 generator suite."
+    },
+    {
+      "command": "covered-by-group test_generate_environment_and_ecology_28_sequential",
+      "tests": 0,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "Covered by the Environment 25-28 generator suite."
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 10.629s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_selected_publication_cannot_overwrite_full_dated_manifest (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 2.163s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 15.657s\n\nOK"
+    }
+  ],
+  "test_count": 185,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03-selected-28-7cebb0d5deab-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 15,
+    "learning_and_workbook_pdfs_checked": 30,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "full_library_validation": {
+    "topic_count": 435,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03-validation.json",
+    "status": "passed"
+  },
+  "post_shared_checks": [
+    {
+      "command": "Environment and Ecology-scoped live EXPORT/MASTER/REVIEW identity check",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "All 28 Environment and Ecology identities agree; unrelated concurrent identities were not reset or overwritten."
+    }
+  ],
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-deep-review-2026-09-03-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-deep-review-2026-09-03-changed-files.nul",
+  "changed_file_inventory_count": 1374,
+  "changed_file_inventory_all_paths_exist": true,
+  "changed_file_inventory_utf8_nul_safe": true,
+  "represented": 28,
+  "passed": 28,
+  "target_score": 98,
+  "failure_count": 0,
+  "approval_false": true,
+  "canonical_source_change_status": "unchanged_hash_locked",
+  "canonical_source_owner_count": 84
+}

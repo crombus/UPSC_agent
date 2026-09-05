@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "polity-18-ascii-panels-2026-08-28-reviewed",
+  "created_on": "2026-08-28",
+  "design_benchmark": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+  "scope": "Deep-content reviewed Supreme Court Core rail; prior g2 artifacts remain immutable.",
+  "constraints": {
+    "panels_per_topic": "10-14",
+    "max_characters_per_line": 100,
+    "captions_or_source_notes_as_nodes": false,
+    "forbidden_patterns": [
+      "ellipsis",
+      "placeholder",
+      "generic central question",
+      "session-card dump",
+      "generic answer spine"
+    ]
+  },
+  "topic_count": 1,
+  "topics": {
+    "polity-18": {
+      "title": "Supreme Court",
+      "source_record": "polity-18:learner-v2:g3",
+      "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md",
+      "quality_review": "Manual reconciliation against Articles 124-147, Core, Advanced, PYQs and official current controls on 28 August 2026.",
+      "approved_master_reference": "notes\\Philosophy\\Philosophy-of-Religion\\flowcharts\\01_Notions-of-God\\continuous-at-a-glance-carvaka-standard-g9\\Notions-of-God_Complete-Topic_ASCII-Master-Flow-Diagram.txt",
+      "benchmark_preservation": "Reference is read-only and hash-preserved.",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Apex court, integrated hierarchy and institutional identity",
+          "structural_type": "integrated-judiciary-hierarchy",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLES 124-147, PART V: UNION JUDICIARY\nPrivy Council -> Federal Court (1937) -> Constitution (26 Jan 1950) -> SC (28 Jan 1950)\n\nSUPREME COURT -> HIGH COURTS -> SUBORDINATE COURTS\none hierarchy applies Union + State law; Article 141 promotes national legal uniformity.\nLIMIT: integrated does not mean unitary administration; Articles 226, 227 and 235 remain vital.\n\nCONTROL CARD, 28 AUG 2026\nsanctioned 34 including CJI | official sitting roster 34 | retirement 65\nseat Delhi, Article 130 | Article 145(3): five-judge minimum for specified questions."
+        },
+        {
+          "title": "Appointment text, collegium evolution and NJAC test",
+          "structural_type": "appointment-doctrine-timeline",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 124: PRESIDENT APPOINTS -> CONSTITUTIONALLY REQUIRED CONSULTATION\nCurrent operation: collegium recommendation -> Union processing -> presidential appointment.\n\nFirst Judges Case (1981) -> executive primacy\nSecond Judges Case (1993) -> judicial primacy; collegium created\nThird Judges Case (1998) -> SC collegium: CJI + four senior-most judges\n2014 99th Amendment + NJAC Act -> six-member commission\nFourth Judges Case (2015) -> NJAC invalid; collegium restored\n\nCJI SENIORITY: settled convention reflected in MoP, not express constitutional text.\nREFORM TEST: transparent criteria + diversity + time discipline without executive capture."
+        },
+        {
+          "title": "Qualifications, service conditions and removal route",
+          "structural_type": "judge-lifecycle-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "ELIGIBILITY -> Indian citizen + five years HC judge OR ten years HC advocate\n              OR distinguished jurist in the President's opinion; no minimum age.\n\nOATH -> secure tenure to 65 -> resignation to President OR Article 124(4) removal\nREMOVAL: proved misbehaviour/incapacity -> inquiry -> special majority in each House\n         -> presidential order; Constitution says removal, not impeachment.\n\nFINANCIAL FIREWALL\nsalary charged under Article 112(3)(d)(i) | conditions protected by Article 125\nCourt administrative expenses charged under Article 146(3).\nArticle 124(7): former SC judge cannot plead or act before any Indian court/authority."
+        },
+        {
+          "title": "Independence and accountability must operate together",
+          "structural_type": "independence-accountability-dialectic",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "INDEPENDENCE SHIELD\nappointment insulation | tenure | protected conditions | Article 121 | Article 129\nArticle 50 separation | binding authority | administrative and financial autonomy\n\nACCOUNTABILITY CHANNELS\nreasoned judgments + recusals + disclosure + published collegium resolutions\n1997 Restatement + 1999 in-house procedure: non-statutory\nArticle 124(4): extreme removal endpoint; no SC judge has been removed.\n\nDIALECTIC\nindependence without accountability -> opacity\naccountability without insulation -> political compliance\nVERDICT -> independent decisions + transparent institutional process."
+        },
+        {
+          "title": "Jurisdiction gateway and the federal-rights routes",
+          "structural_type": "jurisdiction-selection-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "CHOOSE THE CONSTITUTIONAL DOOR\nfederal legal dispute among listed governments -> Article 131, exclusive original\nFundamental Right enforcement -> Article 32, itself a Fundamental Right\nother public-law right -> High Court Article 226, wider in purpose\n\nFIVE WRITS\nhabeas corpus: liberty | mandamus: public duty | prohibition: stop proceeding\ncertiorari: quash completed order | quo warranto: test public office\n\nARTICLE 131 LIMITS\neligible parties + existence/extent of legal right; not a political mediation forum.\nTreaty proviso and Article 262 water-dispute exclusion must be checked."
+        },
+        {
+          "title": "Appeals, special leave and presidential reference",
+          "structural_type": "appeal-advisory-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "APPELLATE ROUTES\nArticle 132: constitutional | 133: civil | 134: criminal | 134A: certificate process\nArticle 136: extraordinary discretionary special leave, not a regular fourth appeal\n              no SLP from Armed Forces courts or tribunals.\n\nARTICLE 143 ADVISORY ROUTE\n143(1): public-importance question; Court may report opinion\n143(2): dispute within Article 131 proviso; Court shall hear and report\nOpinion remains advisory, not an ordinary binding decree.\n\n2025 ASSENT OPINION: no rigid court-made timelines or automatic deemed assent;\nprolonged unexplained inaction remains reviewable. Use as dated, issue-specific evidence.\nState of Tamil Nadu v. Governor of Tamil Nadu (2025) -> facts-specific assent relief.\nIn re Assent, Withholding or Reservation of Bills (2025) -> advisory control."
+        },
+        {
+          "title": "Finality, review, curative power and contempt",
+          "structural_type": "finality-correction-contempt-process",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "JUDGMENT -> ARTICLE 137 REVIEW -> FINALITY\nreview corrects prescribed error; it is not a rehearing of the appeal.\n\nAFTER REVIEW DISMISSAL -> CURATIVE PETITION\nRupa Ashok Hurra (2002): rare grave-miscarriage route with added safeguards\nLIMIT: no routine second review.\n\nARTICLE 129: COURT OF RECORD\npermanent authoritative records + constitutional contempt power\ncivil contempt -> wilful disobedience | criminal contempt -> substantial interference\nfair criticism and statutory truth defence protect speech; power protects justice, not ego."
+        },
+        {
+          "title": "Precedent, complete justice, assistance and procedure",
+          "structural_type": "precedent-complete-justice-hierarchy",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "ARTICLE 141 -> ratio of law declared binds all courts\nlarger Bench > smaller Bench; coordinate disagreement ordinarily goes to larger Bench.\n\nARTICLE 142 -> complete justice in the cause or matter before the Court\nPrem Chand Garg -> cannot violate Fundamental Rights\nSupreme Court Bar Association (1998) -> cannot supplant substantive law.\nARTICLE 144 -> civil and judicial authorities act in aid.\nARTICLE 145 -> rules; five-judge floor for Article 143 and substantial interpretation.\n\nCONTINUITY TOOLS\n126 acting CJI | 127 ad hoc judge | 128 retired judge sitting: distinct consent routes."
+        },
+        {
+          "title": "Judicial review, Basic Structure, Ninth Schedule and tribunals",
+          "structural_type": "constitutional-review-doctrine-chain",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "CONSTITUTIONAL SUPREMACY -> REVIEW OF LAW + EXECUTIVE ACTION + AMENDMENT EFFECT\nKesavananda Bharati (1973) -> amendment cannot damage Basic Structure\nMinerva Mills (1980) -> limited power + Parts III-IV harmony\nI.R. Coelho (2007) -> post-24 Apr 1973 Ninth Schedule insertions face impact review\nLIMIT: reviewability is not automatic invalidity.\n\nTRIBUNAL FLOOR\nL. Chandra Kumar (1997) -> tribunals may supplement adjudication\nBUT Articles 226/227 High Court review and Article 32 review cannot be wholly excluded.\nSpecialisation remains under constitutional-court supervision."
+        },
+        {
+          "title": "PIL, activism, judicial legislation and environment",
+          "structural_type": "pil-activism-dialectic",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "ACCESS EXPANSION\nrelaxed locus standi + epistolary jurisdiction + continuing mandamus\nHussainara Khatoon (1979): speedy trial | S.P. Gupta (1981): representative standing\nLIMIT: standing is relaxed, not erased; screen bona fides and administrability.\n\nJUDICIAL LEGISLATION\nVishaka (1997): rights-based interim norm in legal vacuum until 2013 legislation\nlegitimacy test -> right + vacuum + necessity + temporary, legally anchored remedy.\n\nENVIRONMENTAL LINE\nArticle 21 + 48A + 51A(g) -> absolute liability, precaution, polluter pays, public trust\nCourt catalyses compliance; CPCB, State boards and NGT remain indispensable."
+        },
+        {
+          "title": "Comparison, diversity, profession and delivery reform",
+          "structural_type": "comparison-delivery-matrix",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "DIVERSITY -> equality + legitimacy + wider professional pipeline\nFathima Beevi (1989): first woman SC judge; avoid undated percentages.\n\nINDIA-UK -> shared precedent; constitutional supremacy versus parliamentary sovereignty\nINDIA-USA -> collegium + retirement 65 versus nomination + Senate + good-behaviour tenure\n\nPROFESSION -> State Bar Councils enrol; BCI sets national statutory standards and appeals\nBCI is statutory, not constitutional; courts retain practice and proceeding rules.\n\nDELIVERY CHAIN\naccessible filing -> timely listing/hearing -> reasoned order -> implementation\ntechnology + legal aid + judges + case management; e-Courts alone cannot cure exclusion."
+        },
+        {
+          "title": "Prelims firewalls, PYQ routes and examiner-ready synthesis",
+          "structural_type": "supreme-court-exam-synthesis",
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+          ],
+          "full_text": "PRELIMS FIREWALL\nArticle 32 narrower in purpose than 226 | Article 136 discretionary | 143 advisory\nArticle 142 bounded | Constitution Bench minimum five | curative is exceptional\ncollegium not constitutional text | removal is not impeachment | working strength is dated.\n\nPYQ ROUTES\nIndia-UK | judicial legislation/PIL | women | environmental constitutionalism\nindependence | PIL and judicial power | constitutional morality | India-USA appointments.\n\nMAINS SPINE\ndefine institutional role -> Article -> mechanism -> case + year -> consequence\n-> counterpoint/limit -> matched reform -> qualified conclusion.\n\nVERDICT\nThe Court guards constitutional supremacy only when independent authority is joined to\nreasoned restraint, accountable process, accessible remedies and executable orders."
+        }
+      ]
+    }
+  }
+}
